@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-21*
+*capture-dag-v2-rich · gate ch036 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
 
 REACTION
 
-Oh, my chest hurts. Look at those two open drawers. He took his whole careful, ordered self and crammed it into the bottom drawer so she could have the top one—the easy one, the one your hand goes to first—with a little dish for her bobby pins and empty liner waiting for more of her. And she’s standing there glowing, whispering *"Peter"* to him in the dark, telling herself she doesn’t even need him to say the words out loud because *"a man didn't do all of that for a girl he was only passing a season with."* And she’s right! He *does* love her like that! That’s what makes this so unbearable!
+Oh, I love Cassie so much. Every single time we check back into that freezing dorm room with the cracked window, it’s like touching solid ground after floating six feet in the air at Pace's house or walking through a minefield at brunch with Randi. "You're doing the streetlight thing again. You're a public utility." Wait—*streetlight!* Cassie called her "streetlight" after the induction ceremony too ("Come on, streetlight"), and Pace told Randi back in Chapter 23 that Vee walks in and the room goes brighter *like somebody found the lamp*. Everybody who actually loves this girl sees her literally glowing!
 
-Because my immediate, cold-sweat second thought the moment that counter was wiped clean between one Friday and the next was: *Wait. Did he clear the counter because he’s neat, or because Randi was there during the week?*
+And that little detail about the baked tomato with breadcrumbs and cheese sliding off her fork and burning the side of her bare breast because she's just sitting at his kitchen table naked now—because he keeps the house warm enough that she doesn't even think about having clothes on!—is so domestic and quietly erotic and sweet I could melt. Remember when Pace was under Randi and his threesome fantasy drifted away from Randi entirely to just Vee at his kitchen table wrapped in a bedsheet? Now she doesn't even need the bedsheet. She's just eating baked tomatoes bare-breasted at his table while he watches her eat like she's the whole show and fusses over a tiny burn for days.
 
-No—even if he cleared it for his own need for order, or to keep Randi from walking into the bathroom and seeing Vee’s things colonized across the sink, what happens the next time Randi *is* there and opens a drawer? Or what happens when Randi realizes Vee has the top drawer in his bathroom while Randi only ever borrowed an undershirt out of his bedroom dresser once? Every single sweet, domestic, deeply romantic gesture Pace makes to build a real place for Vee in his house is simultaneously a landmine waiting to blow all three of them to pieces.
+Wait, though—look at the calendar and look at what Cassie just clocked: *"You don't come home school nights."* Today is Monday, November 9, and last chapter's section iii was "The next Friday" (which would have been November 13 if it weren't jumping back, or wait—regardless of the exact date math, her bed in the dorm is sitting empty more nights than it isn't!). If Vee is over at Pace's house on school nights too, and all weekend, *where is Randi?* Pace has cleared out his top bathroom drawer for Vee, crowded all his own things into the bottom drawer, cranked his thermostat up so she can walk around naked, and has her over on school nights. He has completely reorganized his life and his house around Vee. Randi has to be getting squeezed out of the schedule almost completely, and knowing Randi, she is not going to just quietly fade away while Vee takes the top drawer and every night of the week.
 
-I also loved the quiet little detail about Vee eating like a field hand at his table now after years of pushing plates away half-done, and actually *losing* weight in her bra band because her body is finally happy and burning through whole weekends of him—especially set against Randi’s brutal, ruler-straight war with food. Everything in this book talks to everything else without ever raising its voice to explain itself. It’s a quieter bridge chapter after the absolute five-alarm fire of chapters 35–37, so the sex is summarized in reflection here, which is totally fine after the run we just had, and emotionally it moved the needle huge. Vee is officially in love with him, she knows it, and she's moving into his drawers. God help them all.
+Also, the contrast between Vee admitting *She loved him* to herself in the dark in Chapter 35, and then going small and saying *"Maybe. I think so. It's all so fast"* when Cassie asks her out loud in the light—that felt so real. When you say it out loud to your best friend, it becomes a thing that can break you.
 
-GATE 38 — Above Him
+This was a super short, quiet two-page beat after the emotional wallop of the drawer in Chapter 35, and I love it as a little breath with Cassie, though my thumb is definitely twitching for the next big scene because I need to know what Randi is doing while Vee is taking over all the school nights.
+
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The top-drawer reveal is peak actions-speak-louder-than-words romance, made ten times more gripping by the dread of knowing Randi exists in this same house on other nights. I need to see when the two halves of his week collide.
+WHY: A short, warm check-in with Cassie that shows just how completely Vee has moved into Pace's world—eating naked at his heated kitchen table, staying over on school nights, glowing like a "public utility"—while making me hold my breath for what happens when Randi realizes there are no nights left for her.

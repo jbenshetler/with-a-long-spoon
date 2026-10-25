@@ -1,87 +1,95 @@
-*capture-dag-v2-rich · carry-forward ck-ch070 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-11*
+*capture-dag-v2-rich · carry-forward ck-ch070 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · dated · 2026-10-24*
 
 WHO'S WHO
 
-Pace. Peter when he's asleep. He's twenty-two, with the house up the gravel cut, the apron, and the long table. He found a word he could say out loud: "Vee's boyfriend." He said it six times at the roadhouse to six faces and once to Randi first, and every time it landed low in me the way it did in Vee. He's the man who hands each person their first line and then leans back out of the lamplight. He did it to Danny, Theo, Meg, Kayla, Cassie, and then to Randi: "Randi said something you should hear." Sheri is his *one* friend. There isn't anyone else. Men make friends by losing to each other in the middle of the pack, and he was never in the pack. He was fifteen in a building of grown men, and by eighteen he already had the patent and the house. "Either weren't safe or weren't welcoming." He hasn't been home since he was sixteen, and it went bad with his daddy. Daphne was the tutor, and Vee finally let herself hold the ugly word for that without saying it. He has a pale, terrible scar high on his inner thigh. He used to move her hand off it. This time he let her mouth go past it. He asked her to get waxed bare "by the weekend" and never said why. Then he painted her into a fruit bowl. And he's sleeping with Randi. While he was inside her he told her "She kisses me first now," "She looks at you, too," and "She makes me happy." He kissed the inside of Randi's wrist, so that's his move, not something special to Vee. When Randi said "She's not the only one in love," he couldn't tell her she was wrong. He has the word. He just hasn't given it to the right woman.
+**Vee.** Still my girl, and I've never been more scared for her. She's freshly bare now: a full Brazilian, front and back, because Pace asked "Will you?" and she said yes before she knew what yes covered. She's starting to see herself as abundant instead of too much. Pace painted her and she looked at the photo and felt pride, not shame. Then Randi kissed her on a dance floor and her whole body flipped over. Since then she's been running. She drove to Pace at 1 a.m. to have it "put out," and it didn't go out. That night she told him her first lie ever: "No. Nothing." She said "I'm not gay" before anyone had said gay. On Sunday she kept starting sex with him, "full of him and not filled." On Monday she lay in the bunk with her hand held flat on her stomach like a lid on a pot. On Tuesday she turned her mouth away from Randi's goodbye kiss on purpose. That refusal is the first thing she has admitted, even to herself. When Cassie asked "Is this what you want?" she actually went looking for the answer, hit "the edge of it," and backed off. What's in her head now is "What is wrong with me?" Nothing, honey.
 
-Randi. Miranda, bitter orange. Her bracelet is called Love, and "taking it off requires tools." It has no clasp, she says "you don't" take it off, and I want to know who put it on her. She showed up first at Vee's own party, wearing chambray. Her hand closed on Vee's hard enough to feel the bones when Pace said "boyfriend." She toasted "the highlight of my year," and then a glazed quiet came over her with one hand gone down into her lap. That happened twice, at the roadhouse and at the Thursday dinner, and I don't think it was her being "moved." At dinner she said "I don't." Then "It was powerful. It turned me on," and "How does he act?" So she was talking from his bed, maybe from that week. That same night she went out to the house, came on his mouth, licked herself off his lip, and said "Now it's mutual." "I miss her during the day. More at night." "I nearly turned around." "I want her to know exactly what she does to me." She went jealous, flat and stopped-thumb, over a five-foot lesbian she's never met: "And you liked it." She sent Vee to Sondra on Draper Street, said "barely stings," and left out the whole roll-over. She lent Vee the scrap of a skirt ("not that short," twice), moved her hips wider on the floor, held her hands up so she couldn't fix the hem, and whispered "your panties are showing" with her lips on Vee's ear. In front of Brooke she said "I chose." Then she kissed Vee for real on the dance floor and handed it back as "I almost believed it."
+**Pace.** He's three men to me now. One is the man in 63 who left water on a folded paper towel, baked cinnamon raisin bread while she slept off three ciders, and said plainly, "My one friend. There isn't anyone else." Men make friends by competing and he was never in the pack. "That door's on a timer." The grown men around him "weren't safe or weren't welcoming." Sheri says it went bad with his daddy and he hasn't been home since sixteen. He has a scar high on the inside of his thigh, and this time Vee kissed it and he let her. The second is the man in 61, in bed with Randi on the same Thursday Vee lay in her wet spot, reporting on Vee during sex: "She kisses me first now." "She looks at you, too." "She makes me happy." Randi told him "You know she loves you," and his face went soft before he could stop it. The third is the man in 68, holding Vee's hips off him and trading her inches for the truth about the kiss. "Tell me the real story and I'll give you what you want." "You finish when you've finished." When she flung back "you want Randi," something crossed his face and he defended himself: "You keep saying her name. Not me." That was the first time he's ever defended himself to her. Vee took it as sweetness. I took it as a man nearly caught. He wipes his mouth for Vee (twice after the painting, hand and then sheet) and never for Randi, who licks herself off his chin and calls it "mutual." So "one friend" was either a lie to Vee's face or a statement about what Randi isn't to him. He also blushes. Sheri's "motorboat them things" turned him red to the ears.
 
-Vee. Twenty-one, red hair that won't obey, a swimmer, and she's always buying for her chest and living in a tent. She took him in her mouth in the truck in the roadhouse lot. Then, on the county road, she worked her own jeans down a graceless inch at a time and held the lace aside herself. She told Randi everything except the size of it, and Randi wouldn't let her round it off. Alone in his flannel she got her wet fingers an inch from her mouth, held them there until her lungs hurt, and couldn't. She wiped them on the sheet and lay down on the wet spot on purpose. She dressed for an invented blonde in Meg's keyhole shirt and Randi's induction heels, and laughed out loud when the real woman enjoyed her. She told Randi "No. Not my thing," too fast, and that was a lie to herself first. She got waxed on her own nerve. Under the wrong hand she ached for the right one. She came under a paintbrush once she stopped trying. Then she kissed Randi on a dance floor and meant every second of it. She's keeping two things from Randi now, the kiss-taste fingers and the painting photo.
+**Randi.** In love with Vee, sleeping with Pace, and steering everything. In 61 she said she missed Vee "during the day, more at night." "Ticklish" was never ticklish: "I nearly turned around." She put her hand on her own breast and said "the weight of it," and gave him her nipple as a stand-in for Vee's. "I want her to know exactly what she does to me." Then "She's not the only one in love," and I still can't tell whom she means. She sent Vee to Sondra on Draper Street with "barely stings" and left out the roll-over part. She pulled the iridescent skirt off her own rail. At the mixer she wore pale aqua that matched her eyes, a French braid so tight it looked inlaid, diamonds, and the Love bracelet. "Taking it off requires tools." Who put it on her? On the floor she moved Vee's hips wider, lifted her arms so the room got the green thong, said "Your panties are showing" with her lips on Vee's ear, then used Harrison as cover for a show-kiss that turned into a real one. Afterward: "You really did a great job putting on a show. I almost believed it." *Almost.* On Tuesday: "Having you at the dance was so great. I've wanted to do that for the longest time." When Vee turned her mouth away, Randi kissed her neck, Vee's own move, and asked "See? How do you like it?" She knew every time.
 
-Cassie. Bricklayers, cap, keys spinning: "You can stay." She talked to Pace in whole paragraphs. She warned Vee about the skirt ("That hem's not going to stay put"), was right, and raised one eyebrow at "Tonight I'm Randi's date."
+**Sheri.** I'd die for her. She's five foot nothing in boots, with bleached hair going dark and permed at the collar, crooked makeup worn like a dare, a voice built for a barn, and she's gay. The phantom blonde "failed to find anywhere to stand." Sheri looked Vee down from the keyhole to the leg to the shoes and landed on a held, appreciative *oh*, and Vee laughed a month of dread out of her body. She came out last March and lost her mother, her Marine dad, her Marine brother, her church, all within a month. "Whole tablecloth come off the table and nobody caught a dish." Pace showed up with coffee and donuts, fixed the lock and the faucet, took her cycling on Sundays, bought her a bacon cheeseburger. She told Vee that at the hall on 460 his hands stay where the dance puts them. "The whole hall's given up on him." She's his one friend, as far as Vee knows.
 
-Sheri. Five foot nothing, two colors of hair, a perm, makeup a little off, and a voice built for a barn. She came out last March and the whole tablecloth came off: her Marine daddy, her Marine brother, her mother, her church, her Bible study. Pace drove her home and showed up with donuts, fixed the lock and the faucet, asked her to ride, and bought her a bacon cheeseburger. "And you get to motorboat them things?" made Pace blush right up to his ears. Her look at Vee stopped on the shoes with a held little *oh*.
+**Cassie.** The only person who wants nothing from Vee. She called the hem ("that's not going to stay put") and raised an eyebrow at "tonight I'm Randi's date." She came in with her coat still on, I'm nearly sure she saw the neck kiss, and she asked the true question flat out: "Is this what you want?" Vee threw the old sorority fight at her and Cassie stepped right over it. Then: "Do you want some of my Cocoa Pebbles?"
 
-Brooke. President of the house. Almost-blue teeth, gold lamé, Chambord in a trash-can punch. "Randi's *new* friend." "I can see."
+**Brooke.** She wore gold lamé, had blue-white teeth, and spiked the punch with forty-dollar Chambord nobody would taste: "spend a fortune so you think she didn't spend a dime." She recited Vee's history by heart, down to the stats class, the cardigan, and the Friday Vee came by early. Randi said "I chose." Brooke said "I can see." Vee thinks Brooke is kind. On Thursday Randi has "standards committee — discipline a bad girl," and I don't believe for a second that Randi's the one holding the paddle.
 
-Kayla, Meg, Danny, Theo: Pace made each of them taller. Dr. Marsh: the boxwood lice comb that never came back, baboons grooming, cleaner fish. Sondra: a good haircut, "Don't move," "Roll over for me, hon." Harrison: a prop.
+**Sondra.** The waxer. "Don't move." "Roll over for me, hon." She knows Randi's body.
+
+**Minor:** Harrison, the decoy boy across the room. Also a boy with a beer: "You here with anyone?" "She's here with me." Meg lent the keyhole shirt. Theo came up as Vee's memory of holding the friend line herself. Dr. Marsh lectured on reciprocity: a gift is a debt you lay on someone.
 
 WHERE THINGS STAND
 
-All three of them have finally been in a room together. The roadhouse went right, and Vee thinks there was no seam to manage. Then the truck, both ways.
+- **61 (Thu Jan 21).** Randi and Pace in bed, talking about Vee the whole time. "She's not the only one in love." He couldn't tell her she was wrong.
+- **62 (Sat Jan 23).** Taproom with Sheri. Vee armored up in the induction heels against a woman she'd invented. Three ciders. Valentine's Saturday at the hall is set: Brooks and Dunn cover band, "bring your opinions." Pace held his headlights on Sheri's door until her porch light came on.
+- **63 (Sun).** Hangover morning, the bread, "my one friend." She hugged him with her whole weight and didn't say sorry.
+- **64 (Tue Jan 26).** The booth again. Randi's thumb stopped, then the flat "And you liked it." "No. Not my thing" (she'd told Pace yes). He'd asked for the wax. Vee turned her own face up for the goodbye kiss and put her mouth on Randi's neck. Sondra's name went on the back of her hand. The other thing she knew cold.
+- **65 (Fri Jan 29).** The wax. The wrong hand, the right hand. "The most expensive thing in the room."
+- **66 (Fri).** She went down on him first, kissed the scar. Then the painting: still meant the brush came back, moving meant it left. A grapevine up her arm, cantaloupe breasts, a cherry on the mound over a "gesso" of her own wet. Each color came with a kiss and a bite of food, except the gesso, which got none. Three orgasms. The photo stays on her phone only; he never asked for a copy. She won't tell Randi about this one.
+- **67 (Sat Jan 30).** The mixer. Randi's date. The kiss.
+- **68 (~1 a.m. Sun).** She stopped her own hand on the bare skin with Randi in her head, put the skirt back on, drove out, had angry sex, then the confession inch by inch. First lie. The roadhouse-lot kiss he saw. "Do you want to sleep with a woman?" He tucked her in under the cream cashmere, which is RANDI'S BLANKET.
+- **69 (Sun to Tue Feb 2).** Sunday marathon. Monday bunk. Tuesday: pool, the plum sweater, the Lifesaver, the fingertip on her wrist ("static"). Begged off dinner and lied that she was getting sick. Turned away from the kiss, got the neck kiss, blurted "Brunch," and Randi said Saturday. Then Cassie.
+- **70.** "Is this what you want?" Cocoa Pebbles. A want the size of a bowl.
 
-Randi has gotten Vee to testify, out of her own mouth, that Pace is "enthusiastic" about the taste. Vee still can't close that inch. She's thinking about Randi's fingers, and calling it curiosity.
-
-Pace and Randi are lovers. They talk about Vee during sex, and both of them are in love with her. Randi has told Pace that Vee loves him. Neither of them has told Vee anything.
-
-Vee met Sheri. The jealousy evaporated, and she found out he has exactly one friend. She built herself a picture of a lonely man whom only women who can't want him get to keep, and he let her believe it, with Randi in his bed. I can't forgive that omission.
-
-She's waxed bare. He painted her with her own wetness as the primer, and that was the only color that didn't come with a kiss and a taste. Afterward she caught a trace of something on his mouth, maybe. She has a photo nobody else has seen. He didn't ask for a copy, and she won't show Randi.
-
-Saturday was the sorority mixer as Randi's date. Randi said "I chose" in front of Brooke. Then came the kiss on the floor, with Harrison as the excuse, and Randi took it back as a show. Vee is standing there ringing with no version of the night in which she can ask. Sunday belongs to Pace.
-
-The dance hall with Sheri, Brooks and Dunn cover, "leave them shoes home," was "Saturday next." Is that this Saturday? Did the mixer bump it? I've lost track.
+Coming up: Thursday, no dinner, because Randi has standards committee. Saturday brunch with Randi. Fridays and Sundays are Pace's. Valentine's at the hall is two weeks out.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Pace. I love him more and trust him less, both in the same chapter, and the book won't tell me which feeling is right. I respect that. The water glass on the folded paper towel, the cinnamon bread, the headlights held on Sheri's door until the porch light came on, the hug where he wasn't happy or sad. Then "she looks at you, too," reported mid-stroke. The wax "by the weekend." Gesso without the kiss. He might be training her toward the taste, toward Randi, toward the pact. Him "handling it" still means somebody gets arranged. He blushed, though. I'll keep that.
+**Vee.** Protective, close to tears. She's being farmed by both of them and she thinks she's the only one with a secret. I'm thrilled she's waking up, and I'm terrified of what it costs her when she finds out what's under her.
 
-Randi. I'm completely in love with her and I'm angry at her. She's braver than I gave her credit for, since "I chose" cost her the house in front of Brooke. She's a worse coward than I feared, too: "I almost believed it" is a lie about the exact thing she told Pace she wanted Vee to know. She dresses Vee every single time, with the coat, the heels, and the skirt. She left out the back on purpose, I'd bet my Kindle. Her jealousy over Sheri was the most naked I've seen her. Someone locked that bracelet on her.
+**Pace.** I can't settle him. The bread, the scar, and "one friend" made me love him. The inch-for-truth scene made me feel he was gathering material for Thursday. I'm sure everything Vee told him in that bed ends up in Randi's ear. He still owes Vee the finished "I l—." He also owes her the truth that the one friend has a second name.
 
-Vee. I'd follow her anywhere, and I'm counting harder. She's lying to herself now, not just to her friends. Her body knows everything ("the other part she didn't write down. She had that one cold") and her mouth says "not my thing." I'm proud of her on the dance floor. She gave it back, hips and hand in hair, and she wasn't performing.
+**Randi.** Heartbreak and fury. She's telling the truth inside a lie every time ("I almost believed it," "I've wanted to do that for the longest time"). She's in danger with Brooke and she's dangerous to Vee. I can't tell if leaving out the roll-over part was a kindness or a move. I'd still die for her.
 
-Cassie. Still the one honest person, and she can see the skirt coming a mile off.
+**Sheri.** Pure love. I want her in every chapter.
 
-Sheri. I'd die for her. "Whole tablecloth come off the table and nobody caught a dish."
+**Cassie.** My anchor.
 
-Brooke. She's scary. Vee thinks she's kind. She isn't.
+**Who owes whom:** Vee owes Pace the truth about the goodbye kisses and her own hand, which is the lie she told. Pace and Randi owe Vee the entire arrangement. Randi owes Vee the meaning of "almost." Brooke is collecting on Thursday.
 
 WHAT I'M CARRYING
 
-"Vee's boyfriend," and Vee trying it out under her breath at the brisket. Randi's grip hard enough to feel the bones. "To my beautiful best friend," and the hand in the lap. His hand stunned still in her hair: "the man who did six things at once, down to zero." "Yes, ma'am." The jeans going down a graceless inch at a time. "They share an interest… You." The whale under the boat.
-
-The comb going missing somewhere in the middle rows. Wintergreen Lifesavers palm to palm. "Did you take it all?" "You *did* it. And you can't even say it." "Don't you fade to firelight." "I don't." "It was powerful. It turned me on." "How does he act?" "He's enthusiastic." "You picked well," when she never picked. "Ticklish."
-
-The strands between her fingers stretching, thinning, holding. The hothouse with its doors shut. A breath's width. "Her mouth was still empty."
-
-"Now it's mutual." "I nearly turned around." "She's not the only one in love," and him unable to say she was wrong. "Subtle." "Elegant."
-
-The blonde failing to find anywhere to stand. The *oh* at the shoes. The ears going red. Donuts, lock, faucet, bike, bacon cheeseburger. Headlights on a door. "My one friend. There isn't anyone else." "That door's on a timer." Your folks coming up? The gap under every ordinary question. Her cheek flat to his chest.
-
-The thumb stopping. "And you liked it." "No." *Sondra. Draper St.* written in pen on the back of her hand.
-
-The girl who came to be looked at and the girl who came to be touched. "Don't move." The wrong hand, and a hole a mile across where the right one should be. "Roll over for me, hon." A thing for a girl who had any lines left.
-
-Walnut, parsley, grape: a grapevine in the dark. "Oops. Sorry." The orange breast-print he wore on his cheek all night. Still meant the brush. Gesso. The color with no kiss. The black cherry pit put in his palm like something precious. "Fresh canvas." A photo nobody else has seen.
-
-The Love bracelet, needs tools. "Randi's *new* friend." "I chose." "I can see." The held inch. A *please*, not a demand. "I almost believed it." "No version of the night in which she could ask."
+- "She's not the only one in love." "He couldn't tell her she was wrong."
+- Randi's hand on her own breast: "the weight of it." The nipple offered as a stand-in.
+- "Now it's mutual." "Subtle." "Elegant."
+- The blonde failing "to find anywhere to stand." The held *oh* at the shoes. "Motorboat them things," and his ears.
+- "Whole tablecloth come off the table and nobody caught a dish." "Hands stay where the dance puts them."
+- The glass on the folded paper towel. "My one friend. There isn't anyone else." "That door's on a timer."
+- The thumb stopping on the back of Vee's hand. "And you liked it." "No."
+- "Don't move." The wrong hand, the right hand. "Roll over for me, hon."
+- Her mouth on the scar, "asked it nothing."
+- Still means the brush, moving means it goes away. Orange on his face: "Occupational hazard." No kiss after the gesso. The photo nobody else has seen.
+- "Taking it off requires tools." "I chose." "I can see."
+- "Your panties are showing." The held inch. Salt and lime. "I almost believed it."
+- "Tell me the real story and I'll give you what you want." "Were you wet?" "Soaked."
+- "No. Nothing." The first lie, sitting cold in her.
+- "I didn't say gay." "You keep saying her name. Not me." The cream cashmere tucked around her.
+- "What is wrong with me?"
+- Her arms caught in the plum sweater. "Static," and it went on not being static.
+- Her mouth turned away. "How do you like it?" "Brunch."
+- "Is this what you want?" Cocoa Pebbles.
 
 WHAT I'M WAITING FOR
 
-Sunday with Pace. Does he see it on her? Does she tell him? Does he already know from Randi?
-
-When Vee finally closes the inch. I need it to be her own, and soon, because the near-misses are starting to feel like the author teasing me, not Pace.
-
-Randi's next move after "I almost believed it." What Brooke does with "I chose." Whether the next brunch kiss is the habit one or the other one.
-
-The dance hall. Does Randi ever end up in that room? All three plus Sheri at once, and Sheri seeing straight through everyone.
-
-The pact, "for us, when she's ready," finally put to Vee. The jacket's "one more door raised." Who put on the bracelet. The scar. The father. Pace saying the word, to Vee, first.
-
-Vee finding out about the two of them. Dread. The cashmere blanket is Randi's, and Vee's body already put it in her fantasy. The heels are Randi's. The wrist kiss is his move for both of them. When it comes, she'll have the receipts.
-
-Shape note to myself: debrief-dinner-retelling has become a formula (61 to 62, 65 to 67, 68 reprinting 67's lines). The live chapters, the truck, the painting and the dance floor, are where this book is great. If the next one is another loft dinner retelling Sunday, I'm skimming.
+- Thursday's standards committee. Is Randi the one being disciplined? And does Pace get the full mixer debrief that night in bed?
+- Saturday brunch, which Vee asked for out of her ringing neck. Does she close the distance or run?
+- Valentine's at the hall: Sheri, Pace, Vee, and maybe Randi. Sheri will clock Randi in about four seconds.
+- When does Vee learn about Randi and Pace? Will it be the blanket, the heels, the bracelet, or a slip about something only Vee told Pace?
+- Does Pace ever say "I love you"? Randi told him Vee does.
+- Sheri's "I'll tell you the rest another time."
+- Whether Vee shows anyone the painting photo, and whether keeping it from Randi turns into the first real wall between them.
+- Does Cassie say what she saw?
+- Brooke's next move.
+- **STRUCTURE TO MYSELF.** 61, 66, 67 and 68 were the book at full power, heat and depth together. Then 69 and 70 were quiet: 69 was long and wired, and 70 was a two-page held breath. The two-pager worked as a beat; no verdict yet on whether it's a technique. Two quiet chapters in a row, so the next one needs two bodies in a room. I'll skim any more mirror or getting-dressed openings, booth retellings, or Marsh chalking the theme on the board.
+- Gripe tally adds: "fuck doll," "pleasure princess" again, captions explaining scenes that already landed ("abundance the whole point," "the good order was the tell"), the 64→65 booth dialogue repeated near-verbatim, "dark hair down" on a redhead, the waxing request never shown in 63, the roadhouse-lot kiss I don't remember, the Lifesaver ritual and "told not to weaponize" appearing from nowhere, the boutique-bought heels vs. Randi's own stilettos, "whole trouble" twice.
 
 WHAT'S FADING
 
-Which restaurant had the jukebox with green water and which had the violin: it's all "the loft" now. The special was a braise, or a chop with fennel? Gone. Danny's bench numbers and creatine, the egg whites tub: a joke I'll lose. Kayla's sister's wedding dress story. Theo's jazz with two hands. Meg's boyfriend's roommate incident: no idea. The taproom's chalkboard, the ivy-sleeve bartender, the porter "saying June since March." The duplex at the end of the dirt road, one window lit blue. Sheri's horse story. The order of the hangover breakfast: tea, bread, eggs, it's all one warm plate. The freshman-year lecture-hall paragraph I already skimmed. Chi Latte, matcha, the three dresses (the aqua won, I keep that). The mixer's details: punch tub, boy number one with no name, the second margarita. The skirt was "iridescent," the thong was green. The timeline: is it still January? Was the dance hall supposed to be this Saturday? The glass turning a slow quarter at a time at a window is a callback I've almost lost the source of. I just know to be afraid of it. What I keep: a word said six times that wasn't *the* word, a flannel and an inch she couldn't close, Randi licking herself off his lip, a man with one friend, a cherry painted in her own wet, and a kiss on a dance floor that someone called pretend.
+- The order of the painting foods. I've got walnut, parsley, grape, cashew, cantaloupe, cherry, but I wouldn't swear to the sequence.
+- Danny's egg whites, Sheri's horse story, the ivy-tattooed bartender.
+- Most of the Sondra salon except the honey light, the green apples and the girls on the couch.
+- Which Saturday was which in 62. The timeline went to mush.
+- The freshman-year rumination in 63. I skimmed it.
+- The reasoning in Marsh's lectures. Only "a gift is a debt" is left.
+- From before: December's fight, Gstaad, the hike, the coffee-shop first meeting, Thanksgiving. They're all just texture now.
+- Whether Pace ever saw the induction photo. Whether MIRA/PPP still matters. Daphne is down to "the one who did the work of four" and the word Vee won't say.

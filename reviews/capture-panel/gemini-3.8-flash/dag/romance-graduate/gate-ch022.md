@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
+*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad8401af7036 · dated · 2026-10-24*
 
 REACTION
 
-*Oh my god.* This was incredible. I am breathless, I am grinning, and I am entirely undone.
+The knot in my stomach right now is unreal.
 
-First of all, the sheer erotic competence of this chapter. The physical comedy mixed with absolute, unadulterated, filthy heat?! Having them get caught halfway through standing sex, realizing the custom silk gown is in danger of being ruined by bodily fluids, her having to hold his wet cock in both hands while he unzips the side closure, her wiping her sticky fingers down his flanks, and then him *taking her fingers into his mouth to clean her off them while holding the dress above her head*—I had to put my hand over my mouth. It was so real, so messy, so deeply playful and incredibly intimate. The line *"There’s a lot of you covered in a lot of me"* and him twitching in her hands? That is top-tier writing. It’s what you never get in standard romance: the realization that the best, hottest sex often involves laughing so hard your leg slips off a man’s hip, followed immediately by him carrying you down the hall buried completely inside you until you bounce off the drywall.
+That opening in the lecture hall—Simpson's paradox! The professor literally laying out the exact architecture of this entire novel: *look at them separately and one man wins, put the data together and the reality completely flips.* And there sits Vee right between Cassie and Randi, so full of Pace, so soft and bruised from a night of incredible sex, totally oblivious to the fact that her whole life is a rigged equation.
 
-And the dress. God, the dress. The description of the burgundy silk lined with oyster-pale fabric, cut so exactly to her measurements that it felt like water finding its level, and then that lethal slit up to the jut of her hip. Watching Vee realize her cotton panties ruined the line, stripping them off right there in the sunlight, and then *striding* to him—strutting on purpose, leaning entirely into the brazenness of it—was pure triumph. She isn’t hiding anymore. She’s weaponizing the gaze.
+And Cassie. God, Cassie breaks my heart. Sitting there in her two-year-old fleece, ignoring the lecture, ignoring the talk about the dress, just staring straight at Vee’s face to see if her friend is okay. *“Was it a good night?”* Cassie doesn’t give a shit about silk or heels; she’s taking the emotional temperature of a girl walking toward a cliff.
 
-Except... the dramatic irony is like a physical weight sitting on my chest. Because of Chapter 23, I know what Vee doesn’t. I know Pace didn't sleep because he was up finishing this gown, yes, but I also know Randi was in that very bed on Sunday night, riding him hard with her eyes shut, furious that he was taking too long to break Vee. I know this induction ceremony she’s daydreaming about—the grand entrance in this jaw-dropping gown, stunning the campus—is Randi’s sorority event. Randi *ordered* this dress. Randi wants Vee displayed like a prize heifer, prepped and packaged for their mutual game, and Vee is lying in his bed thinking she’s getting away with something, completely, blissfully in love with a man whose kitchen still has Randi’s untouched stew in the fridge.
+Then Randi gets Vee alone, and the manipulation is so seamless, so glamorous, it feels almost affectionate—which makes it a hundred times more toxic. When Randi knelt on the floor of that boutique, took off Vee’s shoe, and rubbed her thumb over the plum polish on Vee’s big toe? My breath caught. The heat between them is wild, heavy, and completely unacknowledged by Vee. Vee thinks it’s just girlhood intimacy dialed up to eleven; she has no idea Randi is practically vibrating with hunger for her. *“Same feet, baby. Same size, same everything… it’s practically a marriage.”* Randi is sliding herself into every single crevice of Vee’s life.
 
-It is magnificent and terrifying. The tenderness between Pace and Vee feels so genuine—he truly looks at her with wonder, he fell asleep exhausted from making something beautiful for her—which makes the inevitable reckoning a thousand times worse. I couldn't put this down if the house were on fire.
+And the credit card. Watching Vee put away the debit card and whip out the emergency plastic for shoes she can’t afford—because Randi made her feel like the dress *owed* it to itself, because Randi dropped hundreds without looking at the screen—felt like watching someone sign a deal with the devil while smiling. Vee is blowing up her practical, safe world to match the fantasy Pace and Randi are constructing around her.
 
-GATE 24 — Peekaboo
+*“Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.”* That closing line is a gut punch. You don't have a friend, Vee. You have a handler who is getting off on dressing you for slaughter.
+
+GATE 22 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The perfect balance of exquisite, hilarious, high-heat physical intimacy and agonizing psychological dread—watching her fall completely in love while walking straight into the trap is utterly addictive.
+WHY: The tension is coiled so tight I'm holding my breath. Watching Vee financially and emotionally overextend herself to fit the fantasy Pace and Randi built for her is excruciating, and Randi touching her bare foot on that boutique floor was pure electric subtext.

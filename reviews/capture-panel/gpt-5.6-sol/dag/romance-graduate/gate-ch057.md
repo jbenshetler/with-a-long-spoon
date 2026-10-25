@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · 2026-10-11*
+*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. “We talked all night” is not what happened. You opened your coat, he went down on you, you had frantic reunion sex, he made pancakes, and then he apologized for hurting you without answering the question you left over. I understand why she experiences that as the whole fight coming down—his face told her he had missed her, his voice cracked, and she finally felt chosen again—but she is already telling the edited version to her friends and apparently to herself. Worse, Meg’s “sometimes you have to make it right in their language” turns the naked doorstep into Vee’s apology. Pace was the one who withheld the truth. Somehow Vee has come out of the rupture believing she needed to repair what she did to him.
+Oh, Vee. Honey. You did not spend forty minutes choosing a blouse for anthropology. You dressed for Randi. You waited outside because you were hungry for Randi’s hug. You were absurdly glad she wore *the scarf*. Then you talked yourself into an orgasm with Randi’s face and Randi’s voice in your head and came back upstairs insisting it was “about Pace, obviously.” I am holding her gently by the shoulders and begging her to hear herself.
 
-And yet I was happy here. Genuinely happy. I loved her rescuing the failed waffle morning, warning them about the price, spending Christmas money without shrinking, sitting in sunlight with girls who are uncomplicatedly hers. This is exactly the ordinary life I wanted her to have outside Pace’s house. She isn’t merely being fed now; she knows a place and brings her people to it. She gets to be the one who opens the morning up.
+That whole dinner was so charged I felt trapped in the booth with them. Randi putting her palm high on Vee’s chest and adjusting the wrap. Asking her to paint the picture. Taking her hand. “How much could he see?” She knows exactly what she is doing, and Vee’s body knows too, even if Vee keeps filing every response under Pace. Then “Things were really heated. It’s a good thing you got relief” nearly stopped my heart. That was not an innocent sentence. Randi saw enough to suspect, gave Vee one horrible second of believing she had been caught, and then covered it with Pace. She offered Vee the safe explanation and watched her take it.
 
-Then: Wednesday. Oh my God, Wednesday.
+And I am furious because the intimacy is real. It is *so* real. Randi’s story about the blue underwear hurt me badly. Her mother did not merely shame her; she curated the humiliation, laundered it, waited for the boy, and served it at dinner. “She knew my color” is awful. No wonder Randi learned to control every room before anyone else could. No wonder she can take a dangerous truth, dress it in brightness, and make it disappear while everyone is watching. I wanted Vee to reach across that table and hold her. I also cannot let that pain excuse what Randi is doing now.
 
-Pace wanting to meet her people is enormous. It is the first real answer he has offered to “what are we out there?” He is not keeping her behind his door; he is arranging a public room around her life, remembering Meg’s boots and Kayla’s chatter and making space for every person she loves. That did get me. “He’s handling it” made me feel her pleasure in being publicly claimed and cared for.
+Because tomorrow. Tomorrow Vee is bringing Randi to “properly meet” Pace, and both of them are going to perform strangers for her. After Vee has just handed Randi the most private, erotic account of her weekend. After Pace invited “her people” while knowing one of those people already keeps a blanket at the foot of his bed. I feel sick about it. Vee is glowing because she thinks her separate worlds are finally meeting. They are not separate. She is the only person at that dinner who does not know the arrangement already exists.
 
-But she has invited Randi into a dinner Pace proposed while she believes they barely know each other. Cassie will be there watching. Randi and Pace will have to perform strangers—or reveal themselves—and Vee will be glowing in the middle, thinking she finally brought her separate worlds together when two of those worlds have been secretly joined all along. I am already sick over it.
+The neck kiss finished me. Vee bent without thinking and kissed the exact patch of skin Randi pointed to. Randi *flinched*, then instantly covered it with ticklishness and laughter. Brooke’s warning is still sitting over her shoulder, and now Randi is hiding not only Pace but her own response. “It’s a date” was almost unbearably obvious—and Vee walked home thinking Thursday meant another conversation instead of recognizing that Tuesday already was one.
 
-Also, the check splitting three ways mattered to me. Nobody owing anybody, nobody staging generosity as power, just friends deciding the tip together. Vee had “the middle of it all,” and for once that middle felt healthy. Which is precisely why I’m terrified of what Wednesday is going to do to it.
+Also: Vee’s little stone of relief about not telling Randi the kiss story matters. Her body has finally produced a boundary before her mind can explain it. Some part of her does not want Randi inside that particular moment with Pace. Maybe because the kiss involved tasting herself, maybe because Randi’s interest has become too charged to feel neutral, maybe because Vee is beginning to protect one private room from the friend who has had access to every room. Whatever it is, I want her to trust it.
 
-GATE 59 — Across
+I am absolutely reading the next chapter. The dinner is a lit match approaching gasoline, and all three of them are smiling.
+
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The breakfast itself was warm and easy, but the dinner invitation loaded every concealed relationship into one room. Pace’s move toward Vee’s public life is the romantic answer I wanted—and because Randi is included under a false premise, I need the next chapter immediately.
+WHY: Vee came with Randi’s face and voice in her head, kissed her neck without thinking, and still called the whole thing Pace; meanwhile tomorrow’s “introduction” requires Pace and Randi to lie to her in the same room. I could not stop here if someone took the Kindle out of my hands.

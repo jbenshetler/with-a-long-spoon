@@ -45,7 +45,10 @@ PROTOCOL = "capture-dag-v2-rich"
 # Experiment lanes (set from --experiment / --dated in main). An experiment writes
 # under split-experiments/<name>/, outside the */dag/* glob capture_stats reads,
 # so it can never mix into the real capture record. DATED adds the reader-facing
-# date lines from chapter_dates (weekday, month, day; never the year).
+# date lines from chapter_dates (weekday, month, day; never the year). The real
+# lanes read dated by default (author ruling 2026-10-25: the book ships with
+# date lines; the dated experiment arm was promoted to the real lanes). Quiet
+# section days are omitted, exactly as in the epub.
 EXPERIMENT: str | None = None
 DATED = False
 PERSONAS = ["romance-graduate", "fsog-refugee"]
@@ -114,7 +117,7 @@ def dag_dir(model_id: str, persona: str) -> Path:
 
 def variant_tag() -> str:
     if not EXPERIMENT:
-        return ""
+        return " · dated" if DATED else " · undated"
     return f" · experiment {EXPERIMENT}" + (" · dated" if DATED else " · undated")
 
 
@@ -454,15 +457,18 @@ def main() -> None:
                     help="write to reviews/capture-panel/split-experiments/NAME/ "
                          "instead of the real lanes (never read by capture_stats)")
     ap.add_argument("--dated", action="store_true",
-                    help="add chapter_dates lines to every chapter; requires --experiment")
+                    help="experiments only: add chapter_dates lines (the real lanes are always dated)")
+    ap.add_argument("--undated", action="store_true",
+                    help="experiments only: read without date lines (the default for experiments)")
     ap.add_argument("--show-packet", type=int, metavar="N",
                     help="print chapter N as the reader would see it, then exit (no calls)")
     args = ap.parse_args()
 
     global EXPERIMENT, DATED
-    EXPERIMENT, DATED = args.experiment, args.dated
-    if DATED and not EXPERIMENT:
-        raise SystemExit("--dated requires --experiment: dated reads never enter the real lanes")
+    EXPERIMENT = args.experiment
+    if not EXPERIMENT and args.undated:
+        raise SystemExit("--undated requires --experiment: the real lanes read the book as it ships, dated")
+    DATED = args.dated if EXPERIMENT else True
     if args.show_packet:
         print(chapter_block(args.show_packet))
         return

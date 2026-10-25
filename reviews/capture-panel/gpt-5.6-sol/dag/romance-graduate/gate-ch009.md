@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · 2026-10-01*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
-REACTION — Oh, this got me. This is exactly the kind of seduction I keep hoping a book will understand: not a man overpowering her objections, but a man making enough room that she can finally hear her own yes. The moment she states the kissing rule and he simply accepts it—actually starts walking again, no smirk, no strategic pause, no little “are you sure?” performance—and then *she stops him*? That did more for me than fifty wall-slams. He leaves her the last inch, and she takes it twice. I felt that everywhere.
+REACTION — Oh, this got me. The feeding, the choosing, the way he lets her hand things over without making her disappear inside the surrender—that is exactly the grown-up version of an alpha I keep hoping these books will give me and almost never do. “May I choose?” should not have hit as hard as it did, but after watching Vee constantly monitor her appetite, her body, her timing, her social performance, seeing her eat until she was full and simply stop watching herself felt almost indecently intimate.
 
-And the dinner. God. “May I choose?” could so easily have been smug alpha theater, but it isn’t, because he asks what she won’t eat and then takes the responsibility seriously. She gets to surrender a decision without surrendering herself. Watching her eat until she stops monitoring herself was almost obscenely intimate after everything we know about her body and her mother’s voice. The food going into a hunger older than noon was not subtle, but it didn’t need explaining; I could feel it. This book understands that being fed can be erotic and emotional at the same time without turning into a fetish checklist.
+And Pace leaving that last inch between them? Yes. That was hotter to me than half the anatomically exhaustive sex scenes I’ve read this year. She states a boundary, he accepts it without turning acceptance into a technique for changing her mind, and then she gets to discover that she wants to cross it herself. The second kiss belongs to her. I felt the difference.
 
-I’m also increasingly uneasy in exactly the way I want to be. Pace is wonderful with her here. Patient, observant, adult. If I didn’t already know that this meeting was engineered, I would be gone for him without reservation—and Vee has no chance, because what he offers answers needs she barely knows she has. That makes every lovely thing double-edged. He really does give her choices inside the encounter, but she doesn’t know who constructed the encounter itself. The tenderness is real; the trap is real. I’m falling for it while watching it close, which is delicious and frightening.
+I am also frightened for her now, because she thinks this lovely, attentive man has just happened upon her, and I know Randi and Pace placed him in that coffee shop like bait. The tenderness is real—that’s what makes it worse. If he were only manipulating her, I could brace against him. Instead he’s feeding her, listening to her, making room for her, and very clearly beginning to care. She is going to fall so hard, and I can already feel the betrayal waiting inside every beautiful thing he gives her.
 
-Cassie’s “That’s not a boy. That’s a man” made me smile, but it also hurt because she is right about the behavior she can see and has no access to the machinery underneath it. Cassie is still my quiet alarm system. I trust her plainness, and I’m waiting for the moment she notices that something around Vee is too beautifully arranged.
-
-And that kiss was hot. Not explicit, not remotely, but genuinely hot because every fraction of movement belonged to Vee. Her rule, his acceptance, her exception, his restraint, her second choice. The grin inside the kiss finished me. I would absolutely text a friend at one in the morning: *He walked away when she said no, so she pulled him back, and apparently that’s all I require to lose my mind.*
+Tiny complaint: the chapter occasionally tells me the meaning of a gesture after I’ve already felt it. I understood the last inch was hers. I didn’t need the annotation. But honestly, the mint in both their mouths and the grin arriving inside the kiss wiped out my irritation immediately. I’m reading on.
 
 GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me grown-up attentiveness, actual interior hunger, and a kiss with more charge than most books manage in an entire explicit scene. I’m deeply invested—and deeply suspicious—because Pace’s care feels completely genuine even while I know Vee’s entire path to him was arranged.
+WHY: This gave me appetite, surrender, consent, and emotional danger in the same scene, then ended on a kiss that actually changed something. I desperately want the tenderness to be genuine, and I’m sick with knowing the circumstances around it aren’t.

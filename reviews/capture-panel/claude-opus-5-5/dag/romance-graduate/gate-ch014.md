@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch014 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · 2026-10-10*
+*capture-dag-v2-rich · gate ch014 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
-## Reaction
+**REACTION**
 
-Okay. Saturday, two o'clock, his house. The bench is in that house. Kayla saying "There's no meal at two, Vee. He's not asking you over to eat" made me sit up in bed, because she's right and she has no idea how right. I know what's in that house. I know Randi was in that bedroom about two days ago saying "I want us" with her stomach gone tight as a board. Then she left before she'd cooled down, for the first time ever. Now a four-line ransom note shows up. I don't think Pace wrote it alone. I think the date came out of that night. Whose idea was it, his or hers? That's the question I'm carrying into the next chapter.
+So she lied to them. Or she didn't lie exactly, she edited. With Cassie in Ch 12 she told the whole thing: "I took my wet shirt off in front of him. On purpose. Me." With Meg and Kayla, the version where she took her shirt off just disappears. "I'm not going to kiss a man who's about to go hypothermic on me." Meg even calls it out: "you keep getting to it and going soft and skipping the middle." And Vee skips it again, right there, in front of them. I loved that. The real thing has become hers, something she keeps, the same way Pace kept "her stomach is soft" from Randi and wouldn't say how he knew. All three of them are hoarding pieces of each other now. Cassie gets the truth and the dining-hall girls get the edited version, and that tells me who Vee's real person is. Cassie isn't even in this chapter, and I noticed her gone.
 
-The thing that got me here is that Vee lied. Not big, but she lied. She told Cassie the truth: "I took my wet shirt off in front of him. On purpose. Me." With Meg and Kayla it turns into "I was about to [kiss him]," and then he was shivering and she was being sensible. She cut the best scene of her life out of the story and kept it. Meanwhile Pace, two chapters ago, under Randi, said "Her stomach is soft." He didn't say how he knew, and he still spent it. So she's guarding the truck and he's half-selling it. I love that the book let me notice that and didn't point at it. That's the restraint I've been asking for.
+Here's my problem though. This is the third time I've heard the shirt story: once when it happened, once to Cassie, and now once to the table. The edit is the only thing that makes this third telling worth it, and I had to wade through Theo waving and Meg's boyfriend's roommate to get there. Kayla and Meg are fine. Kayla's "that's not a message, that's a ransom note" made me laugh. But they're new furniture this late, and the first half of the chapter felt like throat-clearing. It's a girls-at-dinner chapter, and I've read a thousand of those. I was skimming for anything with a charge in it until the phone buzzed.
 
-But I'm also tired. This is the third time I've heard the rain-and-shirt story told back to me: Cassie, then Pace's "Tell," then a cafeteria table. When she started in on "It started raining on the way down," my thumb started moving. The new people didn't help much either. I got Kayla's curls and Theo's wave, and Theo got a full backstory just so he could stand there being "nice." I don't need a fourth friend group. Where's Cassie? She's the athlete, and this is the athletic dorm, and she's just gone. That might be the point. If it is, I felt it as a missing person before I felt it as a choice.
+Then it buzzed and everything sharpened. *Would you come to my house Saturday. Two o'clock.* And I'm sitting there with dread in my stomach, because the house means the bench. And I just watched Randi ride him in Ch 13 with "I want us" torn out of her, and then leave without staying for the first time ever. Is Randi going to be there Saturday? Is two o'clock the polite invitation from the title? Kayla's line, "He wants you for the afternoon. Bring a change of clothes," landed on me completely differently than it landed on her. She's giddy and I'm the one who knows what furniture is in that house.
 
-Still, some lines landed. "Climbing the walls over a man asking me what I want for dinner" is Vee finally understanding her own wiring out loud, and it doesn't come off as thesis. It's sweet and embarrassed. Also, "twelve," and she didn't even have to count.
+And the chapter title is "What to Wear," and he "didn't say what to wear," and two chapters ago she set the russet silk dress down on the rock and he didn't pick it up again. I'd bet money a box shows up. If it does, I'll melt and narrow my eyes at the same time, which is pretty much my permanent state with Pace.
 
-Fine, it's a waiting-room chapter. But the door in it is the right door, and now I'm scared for her in a way I like.
+Also "powerlifter" made me laugh. The book finally said it out loud, and of course it did it through Vee showing off. That I'll allow.
 
-## Gate
+Text to a friend: *she's getting invited to the bench house and she thinks it's a date. also she's protecting the truck moment from her friends and it's the most romantic thing she's done.*
 
-GATE 15 — What to Wear
+**GATE 14 — What to Wear**
 DECISION: CONTINUE
 CAPTURE: 5
-NEXT: 9
+NEXT: 8
 HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "It started raining on the way down," she said. "Not raining. Dumping." I've heard this story three times now, and I was skimming for the next line of dialogue.
-WHY: The chapter was a retelling with filler friends, saved by Vee quietly editing out the striptease and by an invitation that points straight at the bench. I'm not here for Kayla. I'm here because Saturday at two is the house, and I'd bet money Randi set the time.
+ROMANCE: 2
+ALMOST-STOPPED: "Across the room Theo lifted a hand at her, tray balanced, and she lifted hers back." That's where I thought the book was introducing a whole new friend group instead of moving.
+WHY: It's a quiet retelling chapter right after Cassie already got the retelling, and the first half dragged. But Vee cutting the shirt scene out for these friends was quietly sharp, and that text from Pace put my dread right back on the house and the bench. I'll give Saturday everything. If Saturday is another walk-and-talk, though, I'll be counting.

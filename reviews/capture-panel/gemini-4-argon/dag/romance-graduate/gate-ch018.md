@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch018 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 623f9cd6a778 · 2026-10-21*
+*capture-dag-v2-rich · gate ch018 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-24*
 
 REACTION
 
-Oh my god, they are *both* doing the double-kiss to her!!
+Oh my god. *“Trade.”*
 
-I literally gasped out loud at the end when Randi pulled back a fraction of an inch and then pressed back in with more weight. That is Pace’s move! Or is it Randi’s move?! Did Pace learn it from Randi, or did Randi learn it from Pace, or have the two of them been passing these seduction rhythms back and forth until they move like the same creature? And Randi parking right in the fire lane where Pace got chased off by the campus cop, except of course Randi doesn't get chased off because *fire lanes are a thing that happen to other people* when you drive a dark green Mercedes convertible.
+I am sitting here with my hand over my mouth. She folded her green satin panties into thirds *with the wet spot centered*, let the bedsheet drop straight to the kitchen floor so she could use both hands to fold them properly, stood there completely naked in the kitchen light, and handed them to him as a trade for the handmade flannel shirt she’s been sleeping in all week. Who is this girl and look what she is becoming!
 
-This chapter was a psychological masterclass and my stomach was in knots the entire time they were in that green velvet booth. First of all, the class details hurt so good: Vee reading the right side of the menu first like a road in fog, ordering tomato soup and water while Randi orders poached salmon and a glass of Rombauer that costs more than Vee's whole meal, and then Randi doing one token "oh, let me" reach for the check and just sitting back and watching Vee drain her debit card. Because Randi doesn't even think about what Thursday feels like when your checking account is low, or maybe because letting Vee pay keeps the illusion of equals in place.
+Everything about this chapter did it for me. The slow build of her getting ready—painting her toenails that frosted plum to match the burgundy silk from the sun porch and then hiding them inside ballet flats because kitten heels felt like trying too hard—felt so real and tender. And then the second she walked in and saw the dry pan and the prepped garlic and onion (because of course he prepped the whole *fra diavolo* and waited to turn the heat on until he knew what she wanted first), she just took the wheel. Grabbing the neck strap of his canvas apron and pulling him down the hall?! *"Will you show me your bedroom?"* After that closed bedroom door in Chapter 15!
 
-And then the actual conversation! Randi telling a disguised version of her own Chapter 1 breakdown — calling Pace a "beautiful idiot" who tied her up with a Hermès scarf and tickled her until she almost wet herself and "switched to somewhere else entirely" — to plant the exact thesis statement in Vee's head: *"A little helpless can be a very good thing. Done right."* Meanwhile Vee is sitting there getting secretly turned on by the visual of Randi naked, tied up, and losing control! It's happening, it's finally happening, Vee's attraction to Randi is waking up right under her own nose.
+And the sex scene itself... god, this is why I read and what I can never find anymore. The way her mother's voice (*floozie*) doesn't magically evaporate the first time a man is good to her—instead it runs on the exact same wire as her arousal until she burns right through it without it closing her up. When he peeled the green satin down and saw the crystal strings and she went to cover herself, and he looked up from his knees and asked, *"Would you be bothered if I was too hard?"* I literally had to stop and take a breath. It's the most devastatingly gentle, filthy reframing of her shame into mutual hunger. And him watching her face the entire time he's inside her, following her when she tries to turn into the pillow so she has nowhere to hide from being seen—and then the moment his own control breaks when he lifts her hip and stops governing it.
 
-Watching Randi walk Vee down the stairs into confessing the fitting was like watching a hypnotist work. First catching Vee in the lie about the house being cold because Vee had *just* bragged three minutes earlier that Pace turned the heat up for her! And then the way Randi's thumb jammed against the rim of the water glass — just like the plastic bottle cap in Chapter 1! — when Vee said Pace made taking her top off "the most normal thing in the world" and that he'd turned the heat up hours before. Randi is *hurting*. She knows Pace's routines (she knew he'd start at the left hip, which means he's measured her or done something very similar to her on that riser!), and she's simultaneously getting off on drawing Vee open AND getting stabbed right through her armor by how tender and careful Pace is being with Vee. And then when she gets Vee all dreamy and ready to confess the soaked satin panties, Randi shuts the door with *"You don't have to tell me"* and leaves Vee hanging there with her deepest secret half out of her mouth! Was that dominance — proving she already knew and didn't even need to hear the words — or was it self-protection because Randi couldn't bear to hear one more beat of intimacy between them? Probably both!
+Two things I clocked even while my brain was melting:
+1. **The scar.** Large, high on the inside of his thigh, right when she shoved his jeans down. What the hell is that from?!
+2. **What wasn't in the bedroom.** Wait—where was the bench/table from Chapter 1? The description just said *"White walls. A bed that was large and low and simply made, plain white sheets, nothing decorative."* Did she just not notice the wooden table against the wall because she was busy pulling his shirt off, or did he move it out of the bedroom before Saturday's tour/tonight?! And in the kitchen earlier, he actually cooked and ate with her afterward—the exact thing Randi refused to stay for on Sunday night when he said *"Stay, I'm starving, I'll cook"* and stood alone in front of his fridge.
 
-And that final beat: Vee touching her lips, trying to tell herself it's "a French thing," and then looking up at the dark dorm windows in a sudden cold panic wondering if anyone *saw* her kiss a woman. The characterization in this book is unreal. I am completely hooked.
+Vee is falling so deep, and it's completely real between the two of them right now, which makes the Randi of it all terrifying. What is Vee going to tell Randi at their next lunch? What is Pace going to tell Randi when she straddles him and says *"Tell"*?!
 
-GATE 19 — How It's Done
+GATE 18 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The blurb promised long lunches where Randi draws Vee open, and this delivered with razor-sharp psychological tension, painful class awareness, and that devastatingly hot double-kiss on the mouth at the end. Seeing Randi press her thumbnail into the water glass while extracting Vee's secrets — and Vee getting flustered imagining Randi tied to a headboard — has all three corners of this triangle humming at maximum voltage.
+WHY: Eighteen chapters of slow-burn tension paid off in a sex scene that was both explicitly filthy and emotionally transformative, without magically erasing Vee's lifelong body shame in a single night. That final beat in the kitchen—letting the sheet drop to fold her soaked green panties with the spot centered and saying "Trade"—is an all-timer. I need the fallout with Randi immediately.

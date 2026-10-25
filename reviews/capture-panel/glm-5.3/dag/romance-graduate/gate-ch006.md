@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
 
-REACTION — Oh, this chapter. It's *small* — froyo, a walk, one text message — and it got me more than half the hockey romances I read last year. The text exchange at the start is doing so much: Vee reaching for "is he desperate?" because the wanting is too big to sit in, and Randi just sliding the phone back with "He wants to see you naked" — God, Randi knows, Randi has *known since the pointing game*, and Vee has no idea. That dramatic irony is the whole engine of the book for me now. Every warm thing Randi does, I'm reading it twice — once as friendship, once as the hunt. When she said "You're not unsure" and ended the debate, I actually got a little chill. She's not advising. She's steering.
+**REACTION**
 
-The froyo cup getting away from Vee and *no mother-voice arriving* — that's the kind of detail I live for. It's the apple slices from chapter 1, echoed from the other side: this girl has been portioning herself her whole life, and Pace doesn't ask her to take less. "Your tart's holding up" as the answer to "this is the nicest a person has been to me in a really long time" — he doesn't pretend, doesn't make it large, just lets the true thing sit there and then gives her the smallest possible proof of it. I put my Kindle down for a second after that line. That's writing that feeds you.
+The froyo chapter. I knew it was coming — the jacket promised "courtly and exact" and this is that, in miniature — but I didn't expect the *cup* to be the scene that got me. Her cone leaning, too much, and no mother-voice arriving to stop it. "Today there was nothing." That's the whole book in one soft-serve, and it landed harder than the bench did, honestly. The bench was craft — gorgeous, deliberate craft — but this is the chapter where I actually *like* him. "Your tart's holding up." The man watched her overfill herself and instead of correcting it, he told her it was standing. I had to put the Kindle down for a second at that line.
 
-And the grandfather comparison — "asked things as though the answer mattered and there was no wrong one" — quietly devastating. You get in one clause that nobody in her life currently does this. Cassie's "as long as he doesn't make you roll a healer again" made me laugh out loud; Cassie is becoming my favorite, the one flat-voiced person in Vee's orbit who sees clearly and says goodbye like she means it.
+And the text-message interlude at the top — "He looked like a man who wants you. He wants to see you naked" — Randi saying that, flat, while she's the one who picked Vee out on a lawn for her boyfriend to hunt. I love that the reader knows and Vee doesn't. It's not dramatic-irony cheap either, because the thing Randi's doing is *also* true: she does want Vee, that's the poison in it. Every warm thing Randi says is a real feeling wearing a disguise, and the book never winks at me about it. Nobody's explained the subtext yet, thank god.
 
-No heat, barely a touch — and I didn't miss it. This is the simmer I'm actually starving for instead of bored by. My only flicker of impatience: I know the shape of this courtship is going to be long, and I want the Vee-Randi undercurrent to surface soon — the wanting-Vee-wants-Randi layer the jacket promised. But one quiet chapter doesn't scare me when it's written like this.
+Cassie's "as long as he doesn't make you roll a healer again" — the one flat joke that also happens to be the sound of a friend who's been watching Vee disappear into other people's needs her whole life. Goodbye, Vee. *See you later.* Cassie's running a private countdown and I'm starting to trust her more than anyone on the page.
 
-GATE 6 — The Long Way
+My one complaint: it's short. Two pages, and I'm not sure yet whether that shortness is confidence or a sampler tray. What's in the two pages is dense — every beat earning its place — but I notice the structure: hot chapter, then a quiet chapter, then a hot chapter, then a getting-to-know-you chapter. The book's breathing in a deliberate rhythm, and this is the exhale. One exhale is fine. I'm watching for the second.
+
+The pace of it, though — him texting in twenty minutes, her not playing the wait-a-day game because "you're not unsure" — that's the romance-novel move done with the machinery exposed. Randi dismantles the rule in two lines and it's more grown-up than any banter version of the same beat I've read this year.
+
+**GATE 6 — The Long Way**
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The "your tart's holding up" beat alone earned the next chapter — tenderness delivered sideways, no explaining. I'd stay for the Vee/Randi double-reading even if Pace weren't this good.
+WHY: The tart-holding-up line and the unpoliced cup got me somewhere real — tenderness doing the work smut usually fakes. I want the next one *now* mostly because I can feel the froyo-walk's softness is setup, and I know what this book does when the setup pays off.

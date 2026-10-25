@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-Oh, this broke something in me. That tiny detail—*the heat in the shirt was her own, given back*—is utterly devastating. It’s the sharpest, quietest puncture wound this book has delivered yet.
+Oh, god. My throat is actually tight. She finally did it. She walked into that warm, perfectly orchestrated house with her coat buttoned to her chin, left the bag in the car, and refused to let him smooth over the rot with a glass of wine and an unhurried kiss.
 
-For forty chapters, we’ve watched Pace build this astonishing, suffocating palace out of bespoke silk, slow-simmered sauces, and immaculate, tender worship, and Vee has been gorging herself on it because she was so goddamn starved. And now, stripped of the sex, stripped of the warm kitchen and the low lamplight, lying in a twin bunk in a freezing dorm room, she realizes she is hugging an empty sleeve. She’s keeping his shirt warm with her own body heat. He’s asleep in his house in the woods, unbothered, while she is literally starving again in the dark—not for food, not for an orgasm, but for reality.
+And his response—*his absolute audacity.* "Believe what I do." It’s right there off the back cover, and reading it in the context of him sleeping with Randi on Monday afternoons, tracking her micro-reactions on the quad, and carefully withholding the truth makes it so breathtakingly insidious. He genuinely believes his own high-minded, philosophical bullshit. He thinks setting the thermostat, cooking chicken, and worshipping her body excuses the fact that he is keeping her in an ethical cage. The deflection about her friends' relationships was such a classic, brilliant manipulator move—weaponizing a truth to evade the actual question—and Vee seeing right through it was thrilling.
 
-And pulling it off. Leaving it in a crumpled heap and just lying there bare in the draft from Cassie’s two-inch window crack, choosing to freeze rather than pretend the ghost of him is keeping her warm—that is the first real act of emotional defiance she’s had. It’s so short, barely two pages, but it’s completely necessary. She’s finally hitting the bottom of the gilded cage. I need the next chapter immediately.
+Her comeback cut him straight to the bone: the fact that words are cheap, yet he still refuses to spend even that on her. Seeing him shut down, fold his arms, and then reach out with his hands because his hands are the only currency he wants to pay her with—and her refusing to let his physical comfort buy her silence this time—was devastating. She walked out into the dark. She actually left. Now she's raw, broken open, and heading straight into a weekend where Randi will be waiting with open arms to scoop up every shattered piece. I need the next chapter immediately.
 
-GATE 49 — Bare
+GATE 47 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological precision of her stripping off his flannel because she realizes the warmth inside it is just her own body heat was breathtakingly good. Short, bleak, and absolutely essential.
+WHY: Vee finally demanding a name for what they are and refusing to let his physical touch overwrite her reality was the exact grown-up emotional reckoning this book has been building toward. Watching his high-minded architecture completely fail him under her direct honesty made for the most gripping scene of the book so far.

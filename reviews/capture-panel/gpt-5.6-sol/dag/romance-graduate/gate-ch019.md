@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8611b8522702 · 2026-10-01*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ab6b14909a3d · dated · 2026-10-24*
 
-REACTION — Oh, finally. Finally. And it was worth every maddening, shirtless, soaked-satin second of waiting.
+REACTION
 
-What got me wasn’t simply that the sex was explicit—thank God it was, and properly explicit—but that it was the exact sex this particular woman needed to have. Her shame didn’t magically disappear because Pace praised her body correctly. It came into bed with her. It stayed wired to the pleasure. And for once she didn’t have to cure herself before she was allowed to come. She burned straight through it. That felt almost unbearably intimate to me.
+Oh, Randi is lying to her. Those “sad little” stories are camouflage, aren’t they? A scarf and helplessness after the bench; now an old boyfriend who took her to dinner before disappointing her, when what actually happened was that she went to Pace, climbed onto him, made him describe Vee, said *I want us,* and fled. She keeps offering Vee counterfeit vulnerability so Vee will answer with the real thing. It is intimate and predatory and, horribly, it works because some of what Randi gives her is real.
 
-“Would you be bothered if I was too hard?” nearly took me out. He understood exactly what she needed in that moment: not reassurance that her wetness was discreet or normal or nothing to notice, but proof that his body was just as helplessly implicated. He made her evidence answer his evidence. God. That is grown-up erotic intelligence, and it is so much hotter than generic dirty talk.
+The contrast with Cassie hurt. Vee calls withholding the middle a kindness, and Cassie loves her enough not to pull at the seam. Then Randi finds every hidden stitch and patiently opens her—not by demanding details, but by making Vee feel proud of having wanted them. Cassie gets “he cooked.” Randi gets the painted toes, the chosen underwear, the certainty before Vee ever entered the car, the fear inside how far gone she is. That is not because Cassie is less safe. It is because Randi knows exactly how to make disclosure feel like liberation, and Vee has no idea she is feeding someone who was already in the room, imaginatively and literally, before she ever arrived.
 
-And then he watched her face. Of course he did. This whole seduction has been built around being looked at without being reduced, and the chapter actually followed that promise into bed. She couldn’t hide in performance, couldn’t turn into a body being competently pleasured, couldn’t even turn her face into the pillow and vanish. He stayed with her. The moment his careful control finally broke because she had unmistakably asked for more was the turn I’d been waiting for. I believed both his restraint and its cost.
+And God, the title. Vee was famished; now Randi is fed. She comes to brunch “running on fumes” and eats the whole night out of Vee one confession at a time. Yet Vee leaves feeling lighter, because Randi really does give her something she needs: a version of female desire that isn’t shameful, passive, or accidental. “You drove over there sure” and “Why are you telling me like it’s a confession?” are exactly the words Vee needs. That is what makes this so dangerous. Randi is not merely exploiting her; she is helping her tell the truth about herself while concealing the truth that would let her understand why Randi wants it.
 
-I also loved that afterward they were hungry, quiet, and comfortable. No sudden declarations, no chirpy debrief explaining the emotional meaning of what I had just read. She sat wrapped in his sheet while he cooked the dinner he’d prepared for before either of them knew whether they would reach the bedroom. That may have been the most romantic stretch of the chapter. He had planned to feed her either way.
+“You’re not caught, sweetheart. You’re lucky” chilled me. Vee is caught. Randi knows she is caught because Randi helped set the trap, and she says the precise opposite while holding her hand. I don’t think Randi experiences herself as cruel in that moment. I think she wants Vee to be lucky, wants Pace to have been good to her, wants to bless Vee’s wanting—and is consuming every detail with such naked hunger that her voice is changing while she does it. Vee notices the altered sounds, checks the mimosa, and then lets the unanswered observation go. No, baby. Pick that thought back up.
 
-And then the panties. Jesus Christ. She took the physical evidence she had spent her life treating as humiliation, folded it deliberately so the mark was centered, walked naked into his kitchen, and offered it to him as something chosen. “Trade.” For the flannel she has been sleeping in, obviously—but also his scent for hers, the thing he made for the thing her body made, his care for her appetite. I would absolutely text a friend at one in the morning: SHE GAVE HIM THE SOAKED GREEN PANTIES FOLDED LIKE A PRESENT AND SAID TRADE.
+The second kiss is the real turn for me. Vee expects it, meets it, and afterward doesn’t scan the street. That isn’t a glamorous French habit anymore, whatever she tells herself. Her body has accepted a courtship her mind still cannot name. Randi gets to advance the relationship under the cover of friendship while Vee experiences each escalation as something she merely happened not to resist. That is achingly hot and making me furious on her behalf.
 
-That was not merely hot. That was a real turn in her relationship to herself.
+Also: *boyfriend*. Cassie hands Vee the ordinary word, and Vee lets it stand while hiding the physical proof of the night. Pace and Vee have crossed into something real enough that the lie underneath it is becoming less survivable by the chapter. He fed her, Randi fed on her, and Cassie is being left outside with a bowl of cereal and the edited version. I would text a friend: “This woman is seducing her by teaching her not to be ashamed, and I am both feral and calling a lawyer.”
 
-I clocked the scar high on his thigh, and I’m irritated in the best way that the chapter let her notice it and then swept us forward before we could learn anything. Daphne? An accident? Some older wound connected to why he is so controlled? I want the answer, but I’m glad Vee didn’t stop their first time to conduct an interview.
-
-The secret plan is still there under all of this. Randi kissed Vee days ago; Pace doesn’t know, Vee has explained it away, and now Vee has crossed the threshold into his bedroom without knowing that Randi was involved in choosing her long before she ever reached his door. None of that makes this encounter false. That is precisely why the eventual revelation is going to hurt so badly. Her desire here could not be more fully hers—and Pace knows the frame around it is not.
-
-I’m wrecked, satisfied, and absolutely not done.
-
-GATE 20 — Famished
+GATE 19 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This delivered the explicit payoff without sacrificing one inch of Vee’s interior life, and “Trade” transformed her oldest shame into an offering she was proud enough to center. I need to know what Pace does with those panties, what caused the scar, and how long this tenderness can deepen before the hidden arrangement detonates.
+WHY: The chapter made emotional nourishment and extraction feel almost identical, and I could feel Randi’s hunger leaking through every supposedly friendly question. Vee meeting the second kiss—and no longer checking who saw—was a genuine turn, while “You’re not caught” made me need the reckoning more than ever.

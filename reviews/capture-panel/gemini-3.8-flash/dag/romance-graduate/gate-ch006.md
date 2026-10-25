@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch006 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch006 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
 
 REACTION
 
-God, my heart aches for Vee. That little line about her grandfather—how he used to ask things like the answer actually mattered, like there was no wrong one—cut right through me. It tells you *everything* about the emotional desert she’s been living in without the author having to write three pages of tragic backstory. She is so quietly starved for basic, unhurried human attention that frozen yogurt and an attentive listener feels like a revelation.
+Okay, what *is* this chapter length? This was basically a vignette. I turned the page expecting the walk to go somewhere—maybe to a bench, maybe to his car, maybe a moment where he touches the small of her back at a curb—and suddenly the chapter just ends on the yogurt cup? It felt like half a scene. I don't resent a quiet chapter or two people talking, but usually that means a real conversation with some push and pull, not a three-minute stroll where we dip in and immediately dip out.
 
-And watching Randi shepherd her right into his path—*"He wants to see you naked,"* *"You should go"*—knowing what we know from Chapters 1 through 3 is pure psychological dread wrapped in silk. It’s sick, it’s delicious, and it’s deeply compelling. Randi playing the cool, encouraging girlfriend/mentor figure while orchestrating this entire feast for them both gives every single mundane interaction this buzzing, high-voltage second layer.
+That said, the psychology of what's happening underneath it is still sharp as hell, and it’s what keeps me hooked. Vee admitting that this is the nicest anyone has been to her in a long time—over *frozen yogurt*—hit me right in the chest. God, she is so starved. She builds this giant, leaning cup of yogurt because for once her mother’s voice isn't in her ear policing her appetite, and she’s standing there with this guy who is treating her like an actual human being whose sentences are worth finishing. And the reader is just sitting there screaming inside because we know *why* he's doing it. We know he's calculating. He built the table, he pointed her out on the quad, Randi literally told her to go, and now he's patiently reeling her in like a fish. The cruelty of him being genuinely courtly and gentle while operating inside a setup is delicious and heartbreaking.
 
-That said... this chapter is *tiny*. It’s barely a page! We went from sitting at the table in Wilson to walking with froyo and getting one lovely beat between them, and then—cut. It feels less like a full chapter and more like a scene transition that got its own header. I understand the pacing of a slow-burn build, and I loved the conversation they had, but my thumb hit the end of the text before I'd even fully settled my shoulders to read. I want the meat of these conversations! If we’re going to be in the quiet, courting phase before the trap springs and the bench comes back into play, give me the actual time with them. Don't rush the froyo walk!
+Also, Cassie’s one-liner about making her "roll a healer" for a business major was brilliant. It gives Vee so much history in just one sentence: she’s the girl who gives and supports and takes up no space for mediocre men who don't see her. So Pace walking in with his exact, quiet attention is practically designed to dismantle her.
 
-Still, the dynamic is working on me completely. Pace’s absolute, steady competence—the tart holding up under the heavy flavors, the complete absence of a rush—is such a specific, grounded kind of sexy. He isn't performing. He’s just building the structure, exactly like he built that table. I'm hooked on the tragedy and the heat of what's coming, I just hope the next chapter gives me a full meal instead of a bite.
+I just wanted *more* of it. If you're going to give me the first real date between them, let them talk! Let the heat build a fraction! Don't cut the cord right when they hit the sidewalk. I'm continuing because I desperately need to see where this spiderweb catches her next, but I really hope we're getting back to meaty chapters soon.
 
 GATE 6 — The Long Way
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 6
 NEXT: 8
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The character work is exquisite and Vee's quiet ache is so real, but the chapter was over almost before it started. I need the book to settle in and give me full-length scenes of this courtship instead of flash-fiction vignettes.
+WHY: The chapter was far too short and cut off just as the dynamic was starting to breathe, but the dramatic irony and Vee's quiet emotional starvation are completely compelling.

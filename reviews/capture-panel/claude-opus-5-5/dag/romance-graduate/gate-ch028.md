@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c86197f57ec7 · 2026-10-10*
+*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · dated · 2026-10-24*
 
-## Reaction
+**REACTION**
 
-Oh, she *lied* to him. "She was a wreck. She cried." Vee didn't cry. I was in that room for the whole last chapter. She had a fixed face, a sad-clown joke at the mirror, an Edna Mode bit and a laughing fit. Randi just told Pace a different version of the morning, one where the girl came to her crying. It's the same thing Randi did with the lacrosse guy and the boy in a hurry: she writes the story she needs and puts it in his hands. And he can't check it, because he's decided everything Vee says is "Vee's." His decency is the blind spot she's working through.
+Okay, so I've never read a chapter that short. My first reaction was a flash of *that's it?*, the same feeling as when you think there's another stair and there isn't. Then I read it again and decided it earned its two pages. I'd been waiting for an outside eye on these three people for twenty-seven chapters. Cassie sees only Vee, and Randi sees everything and reports it crooked. Sheri walks in and in about forty lines says the quiet part out loud: *Two of them at once.*
 
-Then "Give her a day." She said it twice, the second time half asleep, "as if she were promising him something." That morning she told Vee *not today, tomorrow night*. She's holding the timing on both ends. Vee thinks Randi is her best friend fixing her love life. Pace thinks Randi is his girlfriend reporting in. Randi has set the clock for both of them, and she gets Friday night in the gap. I physically sat up when I put that together.
+"Not yet." That's what put the chill in me. He isn't confessing anything. Sheri asks if the redhead knows, and he answers like he's giving a project timeline. Randi knows, Randi likes her, the redhead *not yet*, as if it's simply the next step. Until now the plan was something he and Randi whispered to each other in bed. Now he's said it to a third person on a bike in daylight, and that makes it real in a way I didn't like. Sheri's "If that's not already complicated, it will be" is the line I'd text at 1 a.m. with the knife emoji.
 
-And the bench. I said in my notes there was nothing in that bedroom, and it's been there the whole time: the table against the wall, the top that lifts off. Randi set her folded clothes on it and kept her hand flat on it, "and it was not the look you give a table." That one sentence did more than the whole flashback after it. I know exactly where Saturday night is going, and Vee will walk in wearing Randi's shoes and Randi's silk at her throat, smelling of bitter orange. *Pace notices perfume.* He's going to smell Randi on her. That's not a door Randi left open by accident. She built it.
+And yet the part that actually got me was him gushing. Her thumb on the chair joint he spent a weekend on, the math book she put back like it burned her, him "going and didn't stop," and Sheri cutting in with "Listen to you." He doesn't know there's anything to listen to. *I* do. He's in love with her and has no idea, the same way he had no idea about Randi saying "I want us." This man can read the grain in walnut and can't read himself. I'm hopeful about it and scared of it at once.
 
-The heat. The *Tell* is back, and this time it's worse than "her stomach is soft," because Randi isn't reporting a body she saw. She's reporting what *she did to it*: the hands up under the skirt, the thumb behind the knee, "she made a sound and hoped I didn't hear it." Vee didn't know she was being collected. And Pace, who I've been testing since the panties, gets harder at it. He never once thinks *did she want that*. He tells himself it was Randi enjoying the telling that did it, "or not only." Pace, that "or not only" is you lying to yourself. It's the first real crack I've seen in him, and the book made it hot, so I'm implicated too. That's the trick, and it worked on me. I was turned on and queasy in the same breath, and it's been a while since a book managed that.
+Then the cruel little layer under all of it. Last night Randi told him Vee *cried*. Vee didn't cry. Randi edited the story to steer him, and "give her a day" was Randi's own timing, handed to both of them. Sheri was actually there at the bar, and her version is the honest one: Vee sat alone, danced with nobody, left alone. She's the only witness who doesn't have a stake, and Pace never notices the two accounts don't match.
 
-Randi also scares me more than she ever has. "I wanted to keep her." "I haven't stopped thinking about her." Her voice "had gone somewhere without her." She's genuinely gone over Vee, and the way she shows it is to feed her to Pace in pieces so she gets to keep holding her. I still ache for her. I no longer think she's harmless.
+I like Sheri a lot already. She's tiny, beats him up every hill and rubs it in, and comments on women's asses like the weather. "She couldn't take your heat" is a lovely bit of loyalty from him. I hope she shows up again, because she's the only person in this book who asks Pace a straight question and waits for the answer.
 
-Small gripes. "You were playing with your wood" made me groan. "The tit goddess was generous" is very Randi, but it pulled me out for a second. This is also the third Randi-rides-Pace-and-leaves-or-doesn't scene, and the pattern is showing. It held because it changed: she *stayed* down, she *asked* for the Tell this time instead of demanding it, and there's a lie in it.
+There's nothing hot here, and that's fine. It sits between two loaded chapters. My usual rule is that the second quiet chapter makes me itchy, but this one is too short to count, and it's pointed straight at tonight: the black dress, Randi's shoes, the scarf she taught Vee to tie, Vee walking up to his door "sure." I want that scene so badly. I want to know whether he sees Randi's hand all over how she looks.
 
-1 a.m. text to my friend: *the girlfriend lied to him that Vee cried, told BOTH of them to wait a day, and the bench was in the bedroom THE WHOLE TIME. Vee's walking in tomorrow in her shoes. I can't.*
-
----
-
-GATE 30 — Space
+GATE 28 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 10
-HEAT: 3
+CAPTURE: 6
+NEXT: 9
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "You were playing with your wood."
-WHY: The chapter itself is a pattern I've seen before, made sharp by a lie and the bench finally showing up. But everything in it points at tomorrow night: Vee in Randi's shoes and scarf, walking into a room with that table, a man who just got hard on her secondhand, and a woman who timed it. I'm already reading on.
+ALMOST-STOPPED: "He didn't answer. Sheri wasn't waiting for one; she'd said her piece and was already looking down the road." For a second I thought the chapter was just going to stop before anything happened.
+WHY: It's barely a chapter, but "Not yet" and "Listen to you" between them say the plan out loud and show me he's in deeper than he knows. It cost me two minutes and set up tonight's door, so my thumb's already moving.

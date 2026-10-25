@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch025 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3e3674d6874c · 2026-10-01*
+*capture-dag-v2-rich · gate ch025 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
 
 REACTION
 
-Okay. This is the one I'd text a friend about at 1 a.m., and the text would just be a screenshot of "the name that means love in one mouth means trouble in the other," and then three dots, and then "I'm not okay."
+Okay so my first thought, three paragraphs into the dance lesson, was *oh no, here it comes* — the jealousy chapter. I have read this chapter a hundred times. The hero has a past, the heroine sees women flock to him, a planted line from a mean-pretty stranger, and boom, manufactured rupture out of nothing, two people who could fix it in one sentence not fixing it for 40 pages. That's the exact machinery I DNF over. I braced.
 
-Because here's what this book just did to me. It gave me the quietest possible chapter — two people under a quilt, cold tea, no plot moving an inch — and it's the chapter I've been circling for twenty-six of them. Pace cracked open. Not the care-as-mechanism Pace, not the "may I" man running his board. The actual kid. Desk in the hallway for a year because he asked his math teacher a question she couldn't answer. They took the thing he loved and made it the punishment — *she* said that, Vee said it, and he went still like she'd put her hand somewhere he hadn't offered. And I believed every second of it AND I could see the machine still running, which is the whole merciless engine of this book and it has never run hotter than right here.
+And then the book did two things that bought it back.
 
-Daphne. DAPHNE. Finally. Nineteen and fifteen. Two years. "She left the year she turned twenty-one." And he lays it out in that flat, good-order voice — every reason slotted, nobody did anything wrong, it was the best two years I'd had — and the good order IS the tell, the book tells me that out loud and for once I don't resent it being named because Vee's the one naming it to herself, holding the clean ugly grown-up word down under her tongue because it isn't hers to say. That's the thing. He handed her the thing that hurt him and called it *luck.* Named it luck. And that is EXACTLY what Vee does. What Randi does. The whole house of them, each one handing over the wound and calling it a gift, all the way down the generations. He got groomed at fifteen and he's out here grooming a twenty-one-year-old and he genuinely does not hear himself defending it. I had to put the book down for a second.
+One: the dance teaching is the sex. "Give me something to push back against. Otherwise you cannot feel my lead." "Close it — come all the way in — and my feet can't land anywhere but past yours." "Don't think. Just feel the lead." That's the fitting, that's the bed, that's the whole method rendered in a clothed thing on a concrete pad under cold field lights, and I felt it in my stomach. The moment it *gave* — "guessing stopped happening, the decision pulled from her somehow" — that's her coming undone with her clothes on. He takes the portioning away again. Same man, same scalpel. I was warm the whole lesson.
 
-And the scar. I guessed Daphne money in my notes and the book just went — *not tonight.* Door with a time on it. He pressed her hand down onto it and held it there, which is somehow worse than a wall, because it's a promise, and I don't want to find out what the promise is. "More of it than she'd known." Longer than her hand. I'm scared of that scar now in a specific way I wasn't before.
+Two: the bartender. "Wasn't him they were jealous of, honey." That flipped the whole cheap-jealousy beat inside out — the women weren't circling *him*, they were sizing up *her*, the one he brought on a Thursday when he never brings anyone. So the trope got used and then detonated, and I exhaled. The venom-blonde was a plant, yes, but the book knows she's a plant; it doesn't ask me to believe the lie, it asks me to watch Vee believe it.
 
-The math stuff — I braced for a lecture, honestly, the Gabriel's horn and the coastline thing had me thinking *okay don't stall out on fractals, man* — and then it turned, because it wasn't about the math, it was him turning understanding toward her like light, and her looking at the stars and feeling the world tilt not because she gets it but because he does. "The language the world is written in." That's the seduction. That's the whole thing. He doesn't need to touch her; he makes the sky move and she's gone.
+Because — and this is the part that actually has me — the dramatic irony is vicious now. Vee spent this whole night torching herself over *phantom* rivals, bar girls she'll never see again, while the one real rival drove her shoe shopping and knelt on the boutique floor and ran a thumb across her painted toenail. She aimed her jealousy at the empty part of the sky. And the "slut" self-talk came roaring back the second she felt exposed — three dates and she "spread her legs like a slut" — all that shame he'd spent weeks draining came back in one gulp the instant she felt played. That told me how thin the floor still is under her.
 
-"Peter," she says, twice, to keep the word. And the last line. *She had never been so fortunate, or so happy.* Every yes freely given. That was the problem. The jacket's been whispering it the whole time and this chapter is the first one where I felt the floor of it drop, because now I've watched where HE learned it.
+The thing that actually chilled me is the last line. She wakes up, resolves to fix it, and the fix is: *go to Randi's.* She's going to carry the rawest, most broken-open version of this night — her cruelty, her shame, her terror of being just-the-next-one — straight to the woman who harvests it for Pace. She came closest to the real truth she'll ever get (the whole bar basically told her she's special, she's the exception, he chose her) and she's going to hand it to the exact person who'll make sure it costs her. The machine didn't break this chapter. It's about to get fed its best meal yet.
 
-What I notice is how badly I want Randi in this chapter and she's not in it — and that's right, she shouldn't be, but chapter 26 she went still when he described Vee, "she got past me before I could help it," and now here's Pace being cracked open by the exact girl Randi's losing herself over, and the three of them are tightening and nobody's hand is on the wheel. I'm greedy for the collision now.
+What I'd text a friend: SHE'S GOING TO RANDI. She got jealous of the wrong women ALL NIGHT and now she's taking it to the actual one. I want to scream through the page.
 
-GATE 27 — Rock
+Also, quietly: "Peter." Two chapters running his real name has sat in her mouth. And I still don't have the scar. Not tonight, he said. The door with a time on it.
+
+GATE 25 — Lesson
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "There's a coastline problem too." — the one stretch where I thought it might tip into a lecture and stall, right before it turned and paid for itself.
-WHY: Quietest chapter in the book and the one I've been waiting for — Daphne finally named, nineteen and fifteen, and Pace handing over the wound and calling it luck, which is the engine running in plain sight. The bond genuinely deepened even as I watched the mechanism work, and that doubling is exactly what keeps me in. I want that scar and I want these three threads to touch.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Does your *service* include getting the girls home safe from here, too?" — right there, when the jealousy-from-a-planted-line trope kicked in, I felt the old boredom rise and almost checked out.
+WHY: The dance-as-lead made me feel it in my body and the bartender flipped the cheap beat into something true, so the trope earned its keep instead of just running. And the last line — she's taking this straight to Randi — is the most loaded cliffhanger the book has handed me; I'm reading on tonight.

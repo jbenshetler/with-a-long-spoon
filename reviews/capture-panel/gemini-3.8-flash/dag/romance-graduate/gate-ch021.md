@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a8d1d1bf63a · 2026-10-01*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8d06f617de36 · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. The hairline fractures just became the San Andreas fault.
+God, this book is so good it hurts my chest.
 
-Look at the contrast between these women and how they take what Pace gives them. Vee wrapped herself in his sheet like an absolute queen, padded bare-toed into his kitchen at midnight, and drank in the smell of blooming garlic and his undivided attention. Randi walks in, says "You shouldn't have," draws *one single line* through the sauce with her spoon, leaves the bread, and eats only the salad. She refuses to be fed by him. Because being fed by Pace means being in Vee's position—it means being soft, being yielded, being taken care of. And Randi is starving, but her jaw is wired shut with pride and panic.
+That transition from the sheer, jaw-dropping romantic reverence of the dress in the gold light to the utter, messy, clumsy hilarity of trying to get out of it without ruining the silk? *That* is why I read. It wasn’t some sanitized, effortless romance-novel strip-tease where clothes dissolve into the ether. It was real: *"There’s a lot of you covered in a lot of me,"* the elbow-fending, the twitching in her hands, her laughing so hard he has to pause at half-mast, wiping her wet hands down his bare flanks, and then him *licking her slickness off her fingers* to clean them before touching the hem. Sweet jesus. The heat in this chapter was unreal, but it was the humor and the sheer domestic intimacy wrapped inside it that completely leveled me.
 
-And the fight! "How long are you going to take?" / "As long as she needs. She's not ready." / "Or you're not." God, Randi sees right through his pious, patient craftsman routine, and she calls him out on it: *It's selfish, Pace.* And she's not wrong! Pace is hoarding Vee. He gets the whole weekend, the unhurried sheets, the adoration, the folded green satin panties tucked away somewhere private—and Randi gets a brunch where Vee raves about how patient and gentle *he* is. Randi is realizing that while she was playing puppet master, Pace went and fell completely under the girl's spell.
+And Vee. Oh, Vee. Watching her step onto that pedestal, pull down her underwear because she refused to ruin the line of the slit, and take back every scrap of shame her mother ever drilled into her? *"A lot of woman who knew exactly how much she was."* I wanted to cheer for her. She is blooming so wildly under this attention. Putting her feet flat on his chest, holding him off with her plum-painted toes just to make him look at what he’d built and what was waiting for him—she isn't just an innocent girl being handled anymore. She is driving the car, and she loves the speed.
 
-Then she pours her own wine. That tiny beat hit like a gunshot. He has poured every single glass she has ever had in that house, and she just took the bottle by the neck and bypassed him entirely. The control is snapping.
+Which is what makes the end of this chapter a total gut-punch in slow motion.
 
-And then that fuck on the bed. God, it was brutal. Zero seduction, zero tease. No *tell me*. Usually she uses him to vicariously fuck Vee, demanding every crumb of sensory detail to get off. Tonight? Eyes squeezed shut, nails dug in, using his body like a blunt instrument just to feel *something* other than the agonizing burn of being on the outside looking in. She didn't want to hear about Vee because hearing about Vee right now would kill her. She fucked him like an eviction notice, rolled herself in cashmere, and turned her back.
+Lying there beside him, thinking about him staying up all night sewing for her, imagining walking into that honors induction in front of all the safe girls in navy... she thinks she's "getting away with something." She feels safe. She feels cherished. And in his own twisted, hyper-meticulous way, Pace *is* cherishing her—he worked himself to exhaustion making that gown for her body. But the foundation under her feet isn't solid rock; it’s a trapdoor. Randi is out there starving, simmering in bitterness, waiting to pull the cord. Vee has no idea that the man sleeping beside her made a bet or a bargain to get her here. The sheer emotional vertigo of watching her fall completely in love while knowing the cliff edge is three feet away is agonizing. I couldn't stop reading right now if you paid me.
 
-And Pace—terrifyingly observant, brilliant Pace—is standing in his dark kitchen covering a bowl of cold chicken stew with a plate, genuinely baffled. He is a genius with an MRI patent and tailor's chalk, but he is completely blind to the fact that the woman in his bed isn't just impatient for a threesome; she is hopelessly, desperately in love with the girl he's busy falling for. This whole triangle is rigged with dynamite and the fuse is burning down to the wood.
-
-GATE 23 — Portion
+GATE 21 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological tension between Pace and Randi is extraordinary. Watching their grand, manipulative game completely warp under the weight of real jealousy, unspoken queer yearning, and possessiveness is endlessly gripping. I couldn't put this down if I tried.
+WHY: The balance of breathtaking emotional weight, scorching explicitness, and genuine, unchoreographed laugh-out-loud intimacy during the dress relay was absolute perfection. The dramatic irony of Vee falling this deeply while Randi circles in the wings is pure crack.

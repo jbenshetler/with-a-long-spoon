@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5661ad3880e1 · 2026-10-12*
+*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5661ad3880e1 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. *Okay.* The opening scene is the hottest thing in the book so far, and it's barely a scene. "Would you like to taste another woman?" makes her come before she's even heard it properly. Her body answers before she does. That's the kind of explicit I came for: there's a mind inside the sex. Then he holds back and doesn't take her body's answer as her answer, and I'm thinking *ugh, this man.* Courtly, exact, like the jacket said.
+The question did it. "Would you like to taste another woman?" and she comes on the spot, before she's had a chance to think about it. That's the best erotic beat I've read in months, because the heat comes out of her mind and not out of anything he's doing with his hips. Then he doesn't take her body's answer as her answer. He waits for the afternoon to go ordinary and asks her again with her clothes back on, as it were. I like that he does that. I also noticed it's very convenient for him.
 
-Then I remember the jacket, and that's when my stomach drops. This is the game. This is "a secret choice made about her." I've spent three chapters waiting for Vee, the heroine on the back cover, and she finally walks on as a target. Randi picks her the way she'd pick something off a menu. And it's *great*. It's dread and heat at the same time. "I point. You pick." The two of them kiss in the quad while a girl with copper hair walks off, and the girl has no idea she's just been chosen. Then Randi asks, "Do you think she'll like the bench?" I actually said "oh no" out loud. And Vee is gorgeous on the page: lush, the hourglass the clothes weren't cut for, head thrown back laughing because she forgot anyone could see her. Of course that's who Randi wants. Randi has never once forgotten she could be seen.
+And she dodges it so well. "Only in a threesome. With you." All silk, the good-girlfriend gift. I got there myself and enjoyed getting there. Then the book stopped to spell it out for me: "unsurvivable," "merely sexy." I already had it. That's the second time this book has leaned over my shoulder to explain itself, and I'm keeping count. It's forgivable here because it's Pace admiring her, and him admiring her is kind of the point. Still.
 
-What I love is that I know things Pace doesn't. He reads Randi brilliantly: the threesome dodge, the "with you" costume, the flinch. But in chapter 2 I watched her lock a door he doesn't know exists. He thinks he's helping her find herself. She's using him as cover to want a woman. And he has his own fantasy running about Vee that Randi doesn't know about. Everybody's hiding something, and I'm the only one who sees all of it. That's the thing the jacket promised, and it's working on me.
+The pointing game is filthy in the way I actually want. It's daylight, everyone's clothed, it's all propriety, and it's foreplay the whole time. "I point. You pick." The sprinter fantasy he keeps entirely off his face. Kissing her on the library steps with her own taste still on his mouth, in front of everyone. I was squirming. I loved watching her go from "very good sport" to shopping without noticing she'd switched. The dance-follow image works, though by the third time it showed up I'd had enough of it.
 
-Small gripes. The parade of women went a little long. I don't need to know the trainers were box-fresh. And there's one line where the book stops and explains its own trick to me. I *got* the threesome move. I didn't need it laid out as "unsurvivable" versus "merely sexy." That's my hair trigger, and the book walked right up to it. The dance-follow metaphor showed up twice too. I understood it the first time.
+Then Vee walks out of the dining hall with her head thrown back laughing, and Randi's bare "Yes." I had chills, because I know from the jacket that Vee is supposed to be my girl, and I'm meeting her through the eyes of the two people who are hunting her. The staged bump where Vee ends up apologizing is gorgeous and horrible. And that last line: "Do you think she'll like the bench?" I said "oh no" out loud. I want it and I'm scared for her, and that's exactly where I want to be.
 
-But "I can't eat that" about the cheeseburger, and then "Let's go feed you" as the last line? He's going to feed her a person. Chills. Also, Randi's footwork when she does the bump is so good it's almost villainous, and I liked her more for it.
+I'm suspicious of Pace, and I think the book wants me to be. In his own head he's so benevolent. Everything is "for her," "she chose," and he's the one who walked her across campus pointing at girls. "Let's go feed you" after she turned down the cheeseburger got me, though. He really does see her. That's what makes it dangerous.
 
-1 a.m. text: "the heroine finally showed up and she's the PREY?? and I'm into it?? help"
+A few small irritations. The campus postcard paragraph, with the colonnade "composed two centuries ago by men who wanted the eye to travel exactly this way," is the book showing off. The sex at the top is more summary than the bench was ("worked the third one out of her"). I didn't mind much, because the charge was somewhere else.
+
+1 a.m. text: *they literally went shopping for a girl on the quad and she bumped into her ON PURPOSE and now they're asking if she'll like the BENCH. i'm feral.*
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -20,5 +22,5 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy."
-WHY: The question that makes her come and the bench line at the end bracket the chapter perfectly, and the irony has teeth now: I know more than any of them. The catalog of women dragged and one line over-explained itself, but Vee just walked on laughing, and I need to be inside her head right now.
+ALMOST-STOPPED: "the whole thing composed two centuries ago by men who wanted the eye to travel exactly this way" (the scenery stretch where I started skimming for the next woman).
+WHY: Chapter 2 was quiet and this one came back fully charged, with the turn-on coming out of her head, not just her body. Vee finally showed up, seen by the people who chose her, and the bench line leaves me both hungry and afraid for her. I need to meet her from the inside now.

@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · 2026-10-10*
+*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, the first half of this chapter is the most romantic thing the book has done, and I can't stop thinking about it. There's no sex in it. It's a concrete pad under field lights and a boom box with electrical tape on the handle. "Being jelly doesn't work." "The space you're keeping. Close it, come all the way in, and my feet can't land anywhere but past yours." I felt that one in my sternum. Then "There's no sorry unless you take off a foot," and his smile coming up through the gravity. I've read a hundred dance-lesson scenes where the dance is just foreplay with steps. This one is about trust, about a woman who has kept a few inches between herself and everything her whole life. It's also hot, in that exact, firm-hand-on-the-shoulder-blade way. "Give me something to push back against." I want that on a mug. And I forgive it being a little on the nose, because it's built out of real steps (one-and-two, three-four) and not out of a sermon.
+BROOKE. Fourteen chapters I've been watching dorm windows for her, and she turns up at the sorority door with a coffee and "Oh — you're the stats friend." *The house had a folder on her anyway.* I got a chill. Everybody in that house knows who Vee is, and Vee thinks she's just Randi's friend from class.
 
-Then the blonde showed up and I groaned out loud. *Oh no, are we doing this?* A stranger drops poison in one line, the heroine snaps, and the man walks out. That's the unsent-text conflict in cowboy boots, and I braced to hate it. What saved it is where the venom actually comes from. "Three dates, and she'd spread her legs like a slut." That's her mother talking. That's *floozie* finally turning on her, the shame the whole book has been circling, coming out at the worst possible moment. So it's an ugly scene, but it's *hers*. It isn't the plot reaching in to stir.
+I tensed up when the fight got retold. That's my least favorite thing this book does, and I had my thumb ready to skim. Then I noticed she isn't retelling it straight. She tells Randi she asked whether his services "carried on inside." She didn't say that. She says she left him holding both drinks, but she set hers down. And the bartender bit she reports, the water, "he's a good guy," never happened. She's making herself worse, sharper and crueler, in the version she hands Randi. Either Vee is punishing herself out loud, or Vee is keeping a third set of books now. Either way, I stopped skimming. If it's an author slip I don't want to know.
 
-Here's what I'd text a friend at 1 a.m.: SHE'S JEALOUS OF THE WRONG WOMEN. She's standing at the wall counting girls in crop tops, wondering who knows what his pillow smells like. Meanwhile I know exactly who knows, and it's the woman she's driving to in the morning to "fix it." Her gut is right and her aim is wrong, and the book is letting me sit with that. "How much of this was Pace, and how much was the Pace she'd been building out of wanting him." Yes. THAT is the question, and she let it go under the music. I can't.
+Then Randi takes over, and god, she's so good at it. "Not today." That's an instruction, not advice. Tomorrow night. "He won't text you." *How do you know that, Randi.* She doesn't guess, she knows, and Vee lets go of the clench "because Randi had said so." That line scared me more than anything at the Rusty Nail. Randi is choreographing the reconciliation, and then she literally dresses Vee for Pace. Her shoes, which are the same size because of course they are. Her scarf, the one that'd be "criminal" on Vee, which is the exact word she used about Vee's breasts in Pace's bed. She's sending Vee to his door wrapped in Randi. Is he going to recognize the scarf? Does Randi *want* him to? I need to know whether that silk smells like bitter orange.
 
-The bartender delivering "Wasn't him they were jealous of, honey" was a little convenient, a wise old woman handing down the moral at closing time. Still, I'll admit it landed. Then the last stretch in bed went and spelled it out for me again: "She'd punished him for being the man she wanted him to be." I GOT IT. The bartender already said it. The book still staples the thesis on. But "fabric softener and no one" wrecked me. Rationing his smell until it went stale, washing it hating it, and then wearing it anyway. That's the real grief in the chapter, and it didn't need to explain itself.
+The shoe scene was hot in a way I didn't expect, because Vee can't see it. The long skirt hides everything. There's a cool hand bracing high on the back of her thigh, a thumb pressing the hollow behind her knee, and her breath doing something she hopes isn't audible. Randi's face moves at Vee's bare feet, "there and gone." This is the boutique foot thing again, closer and more private, and the skirt makes it feel like something done under a table. That's real heat with nothing explicit, and the book trusted me with it.
 
-Pace setting the beer down untouched and walking out was quiet and devastating. I'm on his side, and also not entirely, because she's not *wrong* that he has a secret. And now Randi gets the crisis. Randi gets to be the bridge, and gets one more *Tell*. My stomach dropped on the last line.
+"Maybe you just haven't met your Evil Queen yet." Randi just told her. Out loud, laughing, on her knees with Vee's foot in her hands. And Vee laughs.
 
----
+Other stuff I'm keeping: no makeup, a few freckles she never thinks about. The real face at 9 a.m. The accent leaking on "gorgeous," and Vee filing it "somewhere across an ocean." The kiss where Vee didn't brace, *it was only what they did.* That's the frog in the pot, and the pot is a sorority foyer under fifty years of composite photos.
 
-GATE 28 — Lesson
+Small gripes: "ablutions." "A surrender wearing the coat of a defense" is cute and knows it's cute. Edna Mode was fun, but it felt like the book winking at me. And Pace is offstage, so the romance here is all Vee and Randi, which may be the point.
+
+What I'd text at 1 a.m.: *she's dressing her for him in her own clothes and calling herself the evil queen and nobody hears it.*
+
+GATE 26 — broken-in
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." My first thought was *here comes the manufactured misunderstanding*, and I almost rolled my eyes out of the book.
-WHY: The dance lesson was the best non-sex romance this book has given me. The fight earned its place because it's her mother's shame coming out of her mouth, not the plot's convenience. And ending on "go to Randi's" means the person she runs to for help is the actual secret, so of course I'm turning the page.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn." Here we go, the fight retold again.
+WHY: The recap almost lost me until I caught Vee changing the story, and after that the whole chapter was Randi steering her: the timeline, the outfit, the scarf, the "Evil Queen." The hand under the skirt was hotter than half the sex I've read this year. Tomorrow night Vee walks into Pace's house wearing Randi, and I have to see his face.

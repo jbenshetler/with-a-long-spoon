@@ -1,83 +1,109 @@
-*capture-dag-v2-rich · carry-forward ck-ch030 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-10*
+*capture-dag-v2-rich · carry-forward ck-ch030 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · dated · 2026-10-24*
 
 WHO'S WHO
 
-**Vee** (Vivienne Thorne). It's her book now, and she has a real inside. She's from Ohio: casserole church basements, a mother who's a nurse and still says "Vivienne," a dad who works on jet engines, calls her Vee, and only uses "Vivienne" when she's in trouble. One brother three years older, in the Army, "a lot of air between us." She played clarinet and had a trumpet-player boyfriend for one marching season. She's 21 and a junior. She paints her toenails frosted plum, chosen to match the silk, and that one was her own secret. She now has a $$$ credit-card balance for black strappy heels with "nothing under it." She sleeps in his shirt with nothing on under it, and she calls the shirt the totem. Her mother's voice turned into "slut" in her own head at the worst moment possible.
+**Vee (Vivienne).** My girl. Red-copper hair, freckles, a big lush body she's slowly stopping apologizing for. She's 21, a junior, from Ohio. Her mother is a nurse and calls her "Vivienne," always. Her dad works on jet engines and calls her Vee, except when she's in trouble. Her brother is in the Army and she couldn't tell you his phone number. She grew up on church-basement casseroles and a spice rack with the saffron still sealed. The wire I've tracked since the beginning is her mother's voice saying *floozy*, *slut*, *a man like that has girls*, and it feeds the want as much as it shames her. This stretch it short-circuited in public. She's brave and has a spine: she took the underwear off in front of the mirror on purpose, and she refused her own hand in the practice-room bathroom ("not over a story"). She keeps more and more sets of books. The truth goes to Randi now, not Cassie. She's on the credit card for those shoes, with nothing behind it.
 
-**Pace.** His real name is **Peter**. He's 22, and he took the SAT at 14 and went to college at 15. In seventh grade a teacher put his desk in the hall because he asked trig questions she couldn't answer. That's the wound under all the perfect. **Daphne** was a 19-year-old assigned to him as a "tutor" when he was 15. It lasted two years and he calls it "the best two years I'd had." He doesn't know what it was. His mother stays home and his father works in a chemical plant, and that's all I got. The scar: "Not tonight," with his hand pressing hers onto it. He taught country dance for two semesters, and the women at the Rusty Nail all hug him too long. He gets drunk girls home and leaves them at the door. He finished the dress, burgundy charmeuse with an oyster lining, a slit to the hip, cut "*to*" her. He hung a new mirror in front of the riser. **The bench is the table against the bedroom wall.** The top lifts off. He showed Randi three weeks in, and she was facedown with her ass up saying *please*.
+**Pace, who is really Peter.** He's 22, went to college at fifteen, and is now doing a math PhD. He's a lifter, woodworker, cook, and tailor. In seventh grade a teacher moved his desk into the hall because he asked questions she couldn't answer. At fifteen he had Daphne, a 19-year-old "tutor," for two years, and he calls it the best two years he had. He has no idea what that was. The scar high on his inner thigh is "Not tonight," with her hand pressed flat on it under his: a door with a time on it. He taught country dancing for two semesters, and every woman at the Rusty Nail loves him. He drives drunk girls home and leaves them at the door. He's in love with Vee and doesn't know it (Sheri: "Listen to you"). He can read walnut grain but not himself, and he's never been able to read Randi.
 
-**Randi.** Black hair, blue eyes, sky-blue toenails, bitter orange perfume, the white-gold band. She's on Standards in the sorority, and her closet runs bone to camel to oxblood. She has an accent that slips out when she's aroused or emotional, "somewhere across an ocean." She's shorter than Vee and wears the same size seven. She's falling for Vee: "She got past me before I could help it." "I wanted to keep her." "I haven't stopped thinking about her." She's now running the clock on both of them.
+**Randi.** Black hair, blue eyes, sky-blue toenails, bitter orange perfume, a white-gold band and a white-gold bracelet. She's in the sorority house with the columns and she's on Standards. She's a size seven, same as Vee ("practically a marriage"). Her accent leaks when she's tired or tender. She invents men for Vee: the scarf guy, the boy in a hurry, and now the "mouse that roars" who put her over his knee and made her count. Every one of them arrives right on cue. She told Pace "she got past me before I could help it," and "I haven't stopped thinking about her." She ate a whole plate at his house. She called herself the Evil Queen out loud, laughing, and nobody heard it.
 
-**Cassie.** Watches Vee, not the board. "Hrm." The eyebrow at the shoe date. She's being edited out.
+**Cassie.** She never looked at the board once in that lecture; she was watching Vee. "Was it a good night?" She never saw the dress on her. Vee didn't call her from the bar and didn't wake her when she was three feet away. Now it's "see you in the room," said to the side of Vee's head. My canary, being shed by inches.
 
-**Meg** lent the keyhole black shirt and knew Dana on Third had ropers. **Brooke** opened the sorority door one-handed with coffee and "Oh — you're the stats friend." The book called her the one who made Vee feel small, which I'd pinned on the tall silent one. One of us is confused. **Kayla** didn't appear. **The blonde** at the bar poured the poison. **The older bartender** gave the moral: "Wasn't him they were jealous of, honey."
+**Sheri.** New. Pace's Saturday cycling partner. She's tiny, beats him up every hill, and talks about women's asses like weather. She was at the bar and kept an eye on Vee: she sat alone, danced with nobody, left alone. She's the only honest witness in the book. "Two of them at once."
+
+**Brooke.** FINALLY. She answered the sorority door with coffee and "Oh, you're the stats friend." The house has a folder on Vee.
+
+**Meg** loaned her the keyhole shirt, and the boots came from Dana on Third. The blonde at the bar ("all us girls love him") and the old bartender ("Wasn't him they were jealous of, honey") are extras.
 
 WHERE THINGS STAND
 
-- **Morning after:** Vee came home bare under her skirt and couldn't undress in front of Cassie. She gave Cassie the clean version (the ladle).
-- **Sunday brunch:** Vee told Randi more than she'd told anyone, down to the toes, the new underwear, and "I wanted it. And I took it." Randi told a fake "old boyfriend in a hurry" story, and I'm sure that was her and Pace.
-- **That night, the stew:** Randi drew one line through it with her spoon, said "It's wonderful," poured her own glass, and said "It's selfish, Pace." He said "How do I get her from where she is to us," out loud. She rode him with her eyes shut and no *Tell*, then turned her back to him. He put her bowl under a plate in the fridge.
-- **Midweek, the dress:** Vee took off her underwear to clear the slit line. Then "covered in a lot of me," the twitch, the fingers in his mouth, feet on his chest, "Well?" "I'm looking." In her head she walked into the induction late.
-- **Stats:** Simpson's paradox. "You lucky slut." Randi saw Vee in the dress in the dorm and said "He made it *to* you." Shoe shopping: the yeti, rhinestone platforms, the tan sensible shoe killed with "a dress a man sat up nights making." In the boutique Randi knelt, held Vee's foot to the light, and ran her thumb across the plum toenail, and Vee's floor tipped. The credit card. Randi's loafers cost several times more.
-- **Randi at Pace's:** she stayed down, wore his undershirt, ate every stalk of asparagus. She told him the shoe story with the couple turned up and the kneeling left out. Pace pictured all three of them at the table. "That's hers to hold."
-- **Peter night:** fire, quilt, the hall, Daphne, the scar. Vee falls asleep grateful for "no reason she had done anything to deserve."
-- **The fight:** a dance lesson on the concrete pad, then the Rusty Nail. The blonde. "Does your *service* include…" He set the beer down untouched and left. Vee took a cab, slept in the washed shirt, and didn't wake Cassie.
-- **Friday at nine:** Vee went to Randi's room and confessed, editing herself worse than she was. Randi told her *not today, tomorrow night.* Bra off for inspection, then the cognac heels put on under the long skirt, a hand on her thigh, the thumb behind her knee. The green-and-gold silk scarf, "dinner in Paris." The foyer kiss: Vee didn't brace.
-- **Friday night:** Randi turned up unannounced at Pace's. She **lied**: "She was a wreck. She cried." She hasn't. She told him "Give her a day," twice. She set her folded clothes on the bench and kept her hand flat on it, then the *Tell*: the bra, the thighs, the knee, "she made a sound." Pace got harder for it, "or not only."
-- **Next:** Vee is due Saturday night in Randi's shoes, Randi's silk and maybe Randi's smell.
+- **Ch 21 (Thurs Oct 15).** He broke off the doorway kiss, grinning, because he couldn't wait to show her the finished dress hanging in the sun-porch window, with a brand-new mirror. "Yes," and he didn't make it smaller. She took off the underwear so the slit line ran clean, then strode to him. Standing sex in the dress: "Ow. Don't point down," "Covered in a lot of me," the dress at half-mast, her hands wiped down his flanks, him "inspecting" her fingers and putting them in his mouth. In the bed: her feet on his chest, "Well?" "I'm looking." He fell asleep, since he'd been up all night finishing it. She daydreamed the induction: "what she was for," "getting away with something."
+- **Ch 22 (Fri–Sat Oct 16–17).** Stats, Simpson's paradox: each year alone says one thing, combined says the other. Randi was the first person to see the dress on her. "He didn't make it *for* you, he made it *to* you." Shoe shopping: yetis and rhinestones, Randi's real laugh. Then the boutique, Randi kneeling, a thumb across the plum big toenail, Vee grabbing her shoulder. Four-inch strappy black heels on the credit card. Randi bought loafers for many times that and never looked at the number.
+- **Ch 23 (Mon Oct 19, Pace POV).** Pillow talk with Randi on top: Vee is "so free," "criminal," "Pace this, Pace that, she's got it bad." He said Vee walks in "like somebody found the lamp," and Randi went still, then climbed back on. She took his undershirt from the second drawer, curled up in the chair by the stove, and ate the whole plate. He kept the dress afternoon to himself.
+- **Ch 24 (Tues Oct 20).** By the fire: Ohio, Peter, the desk in the hall, the paint-filled shape, coastlines, Newton, Daphne, lifting as pure presence ("that's how you are with me"), the scar. Then "Peter," said to keep it. "Never been so fortunate, or so happy," thinking she *stumbled into* Randi.
+- **Ch 25 (Thurs Oct 22).** The dance lesson on the concrete pad by the gym, with the taped-up boom box. "Give me something to push back against." "There it is." At the Rusty Nail the women kept count, the blonde planted it, and Vee said "Does your *service* include…" He answered straight ("When it's required") and then left. The bartender set her straight. A cab she couldn't afford. She slept in the washed flannel that smells of no one. In the morning: go to Randi's.
+- **Ch 26 (Fri Oct 23 morning).** The sorority house, Brooke, Randi's room with no makeup and freckles. Vee told it *worse* than it happened ("carried on inside"). Randi said "Not today. Tomorrow night." "He won't text you." Then dress-up: Vee in her bra, the cognac heels put on under the long skirt, Randi's hand high on the back of her thigh, a thumb in the hollow of her knee. The green-and-gold scarf, the knot taught hand over hand, "dinner in Paris." A foyer kiss Vee didn't brace for.
+- **Ch 27 (Fri Oct 23 night, Pace POV).** Randi drove up the same night. "She cried," which is a lie. "Give her a day." The bench IS the table against the wall. Randi folds her clothes on it, and he remembers her face-down on it saying *please*. She rode him while telling him about the bra and the thumb behind the knee: "she made a sound and hoped I didn't hear it." Pace kept what Vee actually said at the bar to himself.
+- **Ch 28 (Sat ride).** Sheri. "She know about the redhead?" "She knows. She likes her." "And the redhead?" "Not yet."
+- **Ch 29 (Sat–Mon Oct 24–26).** Vee at his door in Randi's heels and scarf, taller than him for the first time. He fixed the scarf with two fingers, a half-second too long. "Leave them on… made for the gods and loaned out." The HUMBLE PIE. Her clean-machine apology, then "But what happened?", then "Thank you for telling me what she said." The make-up night itself got one sentence, a door I hated. Sunday: dishes, "Soaking is a recognized method," tickling, she swatted him, and one wet-handed smack landed. Her body lit up and she hid it through the whole sex scene: talking nonstop, face in his neck. Then his hand settled over the print, "*Please*," "This?", "*Please*," and nobody named it. Two nights in his clothes and his soap. Monday morning, hair crisis: "You're always beautiful."
+- **Ch 30 (Mon Oct 26).** Outliers lecture: the kind that "comes in through the part that carries forward." Vee towed Randi off by the wrist, away from Cassie. Music-building practice room, soundproof. "Did you deserve it?" "His hand was wet." Vee re-living it in the chair, arms crossed over herself. The mouse that roars, counting, "very welcome." Vee in the bathroom, soaked, held her own hand flat on her knee. The hug she was slow letting go of, which she put down to Pace.
+
+The plan has now been said out loud to a third person. Vee still knows nothing.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-**Pace.** Peter made me love him in a sadder way. The desk in the hall, and Daphne told in good order like a full glass. Now I can see he's been on both ends of the same shape: picked at 15, and now helping pick at 22. He can't see either one. He failed the panty test differently than I expected. He was decent about the stew and decent at the bar, but Friday he got hard on what Randi did to Vee without her knowing, and never once asked whether Vee wanted it. "Or not only" is him lying to himself. I still want him. I trust his heart and not his eyes.
+**Vee.** I love her more each chapter and I'm more scared for her each chapter. She handled Peter and Daphne like a grown woman: she had the word and kept it under her tongue. She owned her ugly at the door. She discovered a kink in her own body and kept it for herself. Every single thing she has, she freely chose, and every choice lands in Randi's hands within a day. She's carrying her heart, her skin, and now her debt to the one person who's collecting them.
 
-**Randi.** I've moved from ache-and-scared to scared-and-ache. She ate the asparagus and I nearly cried for her. Then she lied about Vee crying, set the same clock for both of them, and spent Friday in the gap. She's in love, and she shows it by feeding Vee to Pace in pieces so she keeps her own hands on her. "Maybe you just haven't met your Evil Queen yet." Brr.
+**Pace/Peter.** He's mostly won me. The dress, the dance, "But what happened?", the hair, "always." He keeps pieces of Vee from Randi: the dress afternoon, the bar words. That's the hope I'm clinging to. But "Not yet," said on a bike like a project timeline, chilled me. And the Daphne thing reframes everything: he was the chosen boy, and now he's choosing, and he can't see the shape. I don't think he's cruel. I think he's blind. He owes Vee the truth and owes himself a look in the mirror.
 
-**Vee.** I love her for the scar ("turned her hand over"), for not saying the word about Daphne, and for the underwear off in the mirror. I want to shake her for the credit card and for running to Randi. Her gut was right at the bar and she aimed it at the wrong women. She doesn't brace for Randi's kisses anymore, and that scares me most.
+**Randi.** The most dangerous person in the book, and the most heartbreaking, because she's not faking anymore. She's falling for Vee and using every inch of that to steer her. "Not today" bought her a Friday in his bed. She edits the stories in both directions ("she cried"). She dressed Vee for him in her own marks and then primed her with an invented boyfriend. She ate a plate, and I still can't tell if that's healing or reclaiming. I want her to be caught, and I want her to be held, both at once.
 
-**Cassie.** She's the only one who wants nothing. Vee has chosen not to wake her twice. Someone is going to pay for that.
+**Cassie.** Heartsick for her. She's still being shed, quietly, and it hurts.
 
-**The bar women and Brooke.** Fine. Brooke is still a folder with a smile.
+**Sheri.** Trust her completely. I want more of her.
+
+**Who owes whom.** Randi owes everyone. Pace owes Vee everything said in bed about her. Vee owes nobody, except the credit card company.
 
 WHAT I'M CARRYING
 
-- The ladle: "the surface closes without a hole."
-- The zipper halfway down, three feet from Cassie.
-- One line through the sauce. "He had poured every glass she had drunk in this house." The plate over the bowl, in the fridge, for her.
-- "How do I get her from where she is to us." "She chooses it. Every step of it. Or it isn't anything."
-- "There's a lot of you covered in a lot of me." He twitched and she said it slower.
-- The new mirror, screw heads still bright.
-- "It just felt like what she was for."
-- Randi's thumb across the plum toenail. "Mm." Vee's hand grabbing her shoulder.
-- The debit card going back into the wallet. "It's not going to *spoil*."
-- Randi in his undershirt with her feet on the chair, blue toes. Him imagining all three at the table.
-- "My real name is Peter." "Peter," said once, to keep it.
-- The desk in the hall. "Nineteen." "The best two years I'd had."
-- "Give me something to push back against." "Close it — come all the way in." "No sorry unless you take off a foot."
-- "Three dates, and she'd spread her legs like a slut." The beer set down untouched.
-- "Fabric softener and no one."
-- The thumb in the hollow behind her knee, under the skirt, unseen.
-- "She was a wreck. She cried." (She didn't.)
-- Randi's hand flat on the table: "not the look you give a table."
-- "She made a sound and hoped I didn't hear it."
+- "He'd taken all that trouble and then taken the further trouble to hide the trouble."
+- The underwear left on the chair. The slit running clean. *She let it come.*
+- "Covered in a lot of me." The dress at half-mast while she laughs too hard to be undressed.
+- Two fingers in his mouth, studied like a hem.
+- Her feet flat on his chest. "Well?" "I'm looking." "I noticed."
+- Randi kneeling in the boutique, the thumb across the plum toenail, the room tipping.
+- The debit card going back in the wallet. "It's not going to *spoil*."
+- "He didn't make this *for* you. He made it *to* you."
+- "Like somebody found the lamp," and Randi's held stillness.
+- Randi in his undershirt in the stove chair, only her face, hands, and blue toes showing. The plate scraped clean.
+- *Peter.* Said once to try it, once to keep it.
+- The desk in the hallway. "They took the thing you loved and made it the punishment."
+- Nineteen and fifteen. "Named it luck."
+- My hand on the scar under his. "Not tonight."
+- "Give me something to push back against. Being jelly doesn't work." "There it is."
+- "Knows how to get a girl to do just what he wants her to."
+- The flannel that came back smelling of fabric softener and no one.
+- "Not today." "He won't text you."
+- The hand under the long skirt, the thumb in the hollow of the knee, the sound she hoped wasn't heard. And then Randi saying in his bed, "I heard it."
+- "Maybe you just haven't met your Evil Queen yet."
+- "She cried." The lie.
+- The bench is the table. Randi's folded clothes on it. Her *please*.
+- "Not yet." "Listen to you."
+- Taller than him at his own door. Two fingers on the scarf, a half-second too long.
+- "Thank you for telling me what she said."
+- The wet hand at the sink. Talking so the room never goes quiet. "*Please.*" "This?" "*Please.*" The pan still soaking.
+- "You're always beautiful."
+- "Did you deserve it?" "His hand was wet."
+- Vee's hand held flat on her knee in the bathroom.
+- Her arms slow to come down after the hug.
 
 WHAT I'M WAITING FOR
 
-- Saturday night at his door: black dress, Randi's cognac heels, Randi's scarf. Does Pace recognize the shoes, the silk, the bitter orange? Does Vee find out what the table is?
-- Does Vee ever learn Randi lied that she cried? Does Pace ever learn about the kneeling?
-- The panties. The green satin from Friday, and the pair left on the chair the dress day. Two pairs in a house Randi walks through. Where are they?
-- The induction in the dress. Late, the room turning. Will Randi be there?
-- The scar's "not tonight." When does that door open?
-- Randi's accent and the white-gold band. Who is she?
-- The threesome. Still never said to Vee, and now Pace *wants* it in a warm way. Who tells her, and how badly does it go?
-- Vee's money. That card bill is coming.
-- Cassie, and that half-second face in chapter 21.
-- Notes on craft: two "she had never been so happy" endings, more stapled theses ("punished him for being the man she wanted him to be"), *floozie/floozy* overused, three Randi-rides-Pace scenes. Each time it held because something changed. If the next one doesn't change, I'll skim. The blonde fight was nearly a manufactured misunderstanding, and only the mother's voice saved it.
+- Randi's next night with Pace, with "did you deserve it" and the counting story in her mouth. And the big one: does Pace hand over the kitchen? If he gives Randi the spank, I'll throw my Kindle. If he keeps it, I'll cry.
+- Vee on the bench. It's coming, and I'm afraid of who'll be watching.
+- Whether Pace recognized the scarf and the shoes, and if he's said so to anyone.
+- The induction: burgundy dress, the strappy black heels, walking in late, the room turning. Who's there? Randi? Her mother?
+- The credit card bill. Money is going to hurt her.
+- The scar. Daphne. Whether Vee ever says the word she kept back.
+- Randi's own POV. I still haven't been inside her head, and I'm desperate.
+- When Vee stops calling it friendship. The held hug feels like the start.
+- Cassie: does she get one real scene before she's gone?
+- Sheri again, the one straight question in the book.
+- The word for what she is to him. The jacket's missing word caused the bar fight. It'll cause worse.
+- The reveal. It's the dread under everything, and now three people know.
+
+The structural pattern I've learned: the book has gotten smart about its own weak spot. The retellings are now the weapon. They're lies ("she cried"), worse versions (Vee to Randi), and seductions (the practice room). I don't skim them anymore, I compare them. The stats lectures are thesis slides (Simpson's paradox, outliers). I roll my eyes and then they turn out right. My gripe tally keeps growing: "ablutions," "tit goddess," "playing with your wood," the gods line, "the good order was the tell," the bartender handing over the answer, the make-up night faded to one sentence. The heat chapters (21, 27, 29) carry the book, and the quiet ones (24, 25) earned their place. The two-page chapter (28) turned out to be a technique, not a shortcut. I'd take another one if it does that much work.
 
 WHAT'S FADING
 
-- The exact weekday order. Brunch and the stew were the same Sunday, I think. The dress was midweek, then stats and shoes the next day, though the book wobbled and called it "Saturday." Then Randi's undershirt night, the Peter weekend, Wednesday at Meg's, the Thursday dance, and Friday at Randi's in the morning and Pace's at night. Past that I'm guessing.
-- The math: the paint shape that can't be painted, the coastline, Newton's three sentences. I'm keeping "it's all one piece" and dropping the rest.
-- The dance steps. One-and-two, three-four is all that's left.
-- The bar women's faces, the shoe-store layouts, the boutique's lacquer, the Sade and *Violator* and trumpet playlists.
-- Older things are going soft: Kayla, Theo, Christine, Chicago, the hike details, the order of the riser measurements. Whether the "trade" shirt is the flannel. I think it is.
-- I can't keep straight which sorority girl was the tall silent one and which was Brooke anymore.
+- Most of chapters 11–20 have gone soft: the hike and the moleskin, the truck in the rain, the cream stew. I keep the images, not the order.
+- Which lunch had which invented boyfriend. They're one guy in my head by now, with a scarf.
+- The Rusty Nail details beyond the blonde and the bartender. The music. Which songs.
+- Meg and Kayla, Theo, Danny. Dana on Third, the boot girl.
+- The math: the paint shape, coastlines, Newton's three sentences. I remember "one piece," the leaf and the stars, and that's it.
+- Where the shoe stores were. The bypass, the brass-and-lacquer boutique.
+- What the chapter meeting was about. Flowers?
+- That his grandsupervisor was at Chicago.
+- Exactly how many times Vee has said "never been so happy." Twice? Three? It's just a drumbeat now.
+- The egg-white mother, and Randi's mother in general. Gone except the egg whites.

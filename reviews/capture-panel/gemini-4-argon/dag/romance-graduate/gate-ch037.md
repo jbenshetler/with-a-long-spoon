@@ -1,16 +1,20 @@
-*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-21*
+*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
 
 REACTION
 
-Oh, I love Cassie so much. Every time she’s on the page she grounds the whole book in normal, breathable air, and it makes you feel just how deep in the woods Vee actually is. "You're a public utility" made me laugh out loud, and then the instant switch to Vee touching the side of her own breast without even realizing she's telling Cassie she's been sitting at his dinner table naked (or close enough) while eating hot baked tomatoes! And he keeps his whole house warmer now so she never thinks about how much she has on.
+God, I love how this mirrors Pace under the squat bar! Back in Chapter 24 he told her he lifts because when the weight is heavy enough, there is no past and no future, your mind can only be in one place. And here is Vee in Lane 3, doing the exact same thing in the water—taking the words off the feelings one hundred at a time until all that's left is the count and the black line on the bottom of the pool. They are so much alike in the ways they don't even know about yet.
 
-What really got me in this tiny chapter, though, is the timeline shifting under our feet. *You don't come home school nights.* Wait—if Vee is staying over on school nights now, not just Friday to Sunday, what is happening to Randi?! Last we heard from Randi at Pace's house, she was furious that Pace had Vee Friday to Sunday and she was relegated to weeknights, and now Vee's bed is sitting empty more nights than not, and her things are in the top bathroom drawer! Did he pack Randi's things away, or did Randi never get a drawer at all? And when Cassie asks flat-out "Do you love him," Vee already said it to herself in the dark in the last chapter, and here in the light with her roommate she shrinks back to *"Maybe. I think so. It's all so fast."* Because saying it out loud to a real friend makes the stakes terrifyingly real. This is two quiet, sweet, domestic chapters in a row showing Vee moving further into his life, which means the bomb waiting on the other side of that bathroom drawer is getting bigger by the day. I need to see Randi's face right now.
+Wait—the timeline just clicked for me too. Chapter 35 jumped forward to "the next Friday" (which would be November 13) to show us the top drawer he cleared for her, and now we're back in the week *between*—Tuesday, November 10—watching her still turn *"Did he mind?"* over and over in her head alongside Cassie's *"Do you love him."* No wonder she said *maybe* to Cassie when she already knew in the dark on Friday night that she loved him! Because saying it out loud to Cassie in a cold dorm room means looking at the terror underneath it: that she's practically moved into his house, her stuff is colonizing his counter, he still hasn't given her a single word for what she is to him, and for four strokes in the quiet water she has to ask herself whether he's actually that good or if she built him out of two months of starving to be looked at like that.
 
-GATE 39 — School Nights
+That four-stroke thought hurt my chest. Because in all the ways she's thinking of—the drawer he's probably clearing for her right this second, the cooking, the gentleness—he *is* that good. And in the one colossal way she has no idea to even check for, he's hiding a whole other woman and a whole original setup from her.
+
+Also, I'm clocking that this is the second quiet, brief bridge chapter in a row after the emotional peak of Chapter 35. I loved every sentence of the swimming rhythm—*"her body, which had opinions all day long every day of her life, had none at all down here"* is so real—and I'm glad we got to see Vee inside her own physical competence, away from both Pace and Randi. Now I'm ready for Friday to get here, or for Randi to re-enter the frame, because the quiet before the storm is making me antsy.
+
+GATE 37 — Strokes
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 9
-HEAT: 1
+NEXT: 8
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It's a quick, quiet two-page beat, so CAPTURE is a solid 7 rather than a 10, but Cassie clocking that Vee is staying there on *school nights* now—Combined with the top drawer from last chapter—has my stomach in knots over what this means for Randi. Two sweet domestic chapters in a row means the other shoe is about to drop, and I'm turning the page immediately.
+WHY: The way the swimming strips the words off her anxiety—from sentences, to a pressure under her ribs, to just *him, and the ache, and the count*—is gorgeous interiority and a perfect echo of why Pace lifts weights. It's the second short, quiet chapter in a row, so I'm ready for the plot and the heat to pick back up, but that four-stroke doubt about whether she invented him out of wanting him hit hard.

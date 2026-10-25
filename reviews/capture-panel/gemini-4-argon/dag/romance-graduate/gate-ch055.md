@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-21*
+*capture-dag-v2-rich · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
 REACTION
 
-Oh my god, this short little chapter just did more for my heart—and my blood pressure—than ten pages of drama ever could.
+Oh, I love this so much. After the emotional wringer of December and the blazing, breathless weekend of chapters 52–54, this little dorm-room landing with Cassie feels like letting out a long, warm breath.
 
-First of all, the sheer domestic eroticism of Vee just sitting naked on the lacquered chair he built, drinking the rest of her wine and chatting at his back while he washes dishes?! That is their baseline now. And then out of nowhere, in his grocery-list voice, he drops: *"I want to meet your people."*
+The comedy of Vee scrambling to explain why she came home in Pace's sweats and Randi's hooker heels with zero clothes of her own—*"We talked"* (sure you did, honey, with your coat wide open on the front porch!) and then inventing a lie on the spot about Pace shrinking a cranberry wool sweater to doll-size and dyeing her pants—had me grinning from ear to ear. And Cassie just staring at her with the highlighter in her hand: *"Pace. Shrank your sweater."* Because even Cassie, who hasn't met him yet, knows from four months of stories that the man who supremes blood oranges and salts persimmons with three grains of sea salt ("They do it that way in Japan") would NEVER accidentally wash wool in hot water! The way Cassie just puts her head back and laughs instead of calling her out, letting the ridiculous lie stand because she's happy her friend is happy, is the best kind of roommate intimacy.
 
-My stomach literally did two different flips at once. Because on the one hand, this is Pace answering the exact fight that broke them apart in December! He still hasn't said the word *boyfriend* or *I love you* out loud (though we saw him start to say *"Vee, I l—"* at the door in Chapter 55 before she opened the coat!), so instead of spending words he doesn't trust, he is opening the door to *"Out there."* And the way he proves he's been listening to her all fall—not just remembering Meg's name from one throwaway sentence on the mountain in October, but noticing *"Your heel came up out of the right one when you pushed off,"* and quoting her own line about Kayla talking the paint off a wall, and saying *"Bring Theo"* without a single flicker of insecure male ego—I actually got choked up. And then Vee remembering the four TVs at Chili's and him squaring his fork, and quietly protecting his sensory overload without making it a thing (*"Will you pick the place?"*)? That is grown-up, two-way tenderness. They are taking care of each other in the dark without ever announcing it.
+And then that quiet little beat at the end when Vee puts the flannel shirt back on—the exact same flannel shirt she stripped off in the dark in December because *"the heat in the shirt was her own, given back"*—and brings the collar up to her nose, deciding he'll just have to wear it for her again this weekend. Even the cold cinderblock wall against her hand doesn't hurt anymore because *"the wall was only a wall: he was out there west of town in the wide bed, hers again."*
 
-AND ON THE OTHER HAND: What is he doing?! When Vee immediately jumps to *"We could do a dinner. The three of us"* (her, Pace, and Randi!), Pace steers it straight into a group hang with Cassie, Meg, and Kayla: *"Tables have ends. Somebody ends up at one."* Is he doing that purely to give Vee her whole world in one room, or is he ALSO avoiding a three-way dinner table where Randi and he have to pretend they barely know each other while sitting inches apart?! Wait—or is he setting up a room where he and Randi can "meet" in front of Vee's friends as cover, OR is he genuinely stepping into Vee's public life because losing her in December terrified him that badly? And what is Cassie—who has the sharpest eyes in the state of Virginia—going to see when Pace and Randi are in the same room?! I need this gathering immediately!
+That's two quiet, short chapters in a row now (54 and 55) closing out the weekend and resetting the board for the semester, which works as a gentle exhale, though I am *very* ready for Tuesday to get here—Anthro class and dinner with Randi, where Vee is going to spill every detail of the coat, the heels, and that Saturday morning kiss where she tasted herself on Pace's mouth!
 
-GATE 57 — Back
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A short, quiet kitchen scene that hits a full 3 on romance: Pace answering December's "what am I to you out there?" in his own language by asking to meet all her friends and proving he's memorized every detail she's ever told his back, while Vee quietly protects him from another Chili's sensory nightmare. Plus, the looming collision of Pace, Randi, and Cassie in the same room has me turning the page immediately.
+WHY: A warm, funny, deeply affectionate Sunday-night coda with Cassie—"Pace. Shrank your sweater"—and the lovely full-circle beat of Vee putting his flannel shirt back on in her top bunk now that they're solid again. That's two short, quiet chapters in a row to close out the weekend, so I'm ready for the heat and the Tuesday night dinner with Randi next.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
-REACTION — Oh, Randi. You can build the whole fairytale down to the nonexistent daughter hearing the story, but you cannot imagine Vee’s face when you tell her the truth. That is the chapter. That is her entire life.
+REACTION
 
-John is so perfectly, devastatingly right. He keeps up without needing to win, dances beautifully, wants her directly, looks correct beside her, and comes with a future her parents would approve before dessert. For a while I wanted the story for her because she wanted it so badly. The dress, his hands over his heart, the sleigh in the snow—yes, fine, give me the ridiculous movie. Then Pace flickered through the kiss, and I knew none of it was going to reach her. “Pace on his worst night reached further than this man had managed at his best” hurt because it explains why she remains attached to a man who cannot fit anywhere in her official life. Pace sees the person she has spent her entire life making socially invisible.
+Oh, Vee. This hurt in the very specific way of going home and discovering your old life still fits around your body but no longer contains you. The too-short bed, the trophies, the dead friendships still pinned up like evidence—her room loves a version of her who doesn’t exist anymore, while the people she actually loves have left her with nothing she can name. That loneliness got me.
 
-I absolutely noticed the fade from going upstairs to “Afterward,” and normally that is where I start swearing at a book. But I didn’t actually want John’s sex scene. The absence became the point: technically good, physically satisfying, emotionally as memorable as lunch eaten over the sink. The erotic charge was in the skiing, the dancing, the ease of his assumptions—and then the chapter deliberately showed me that charge evaporating without trying to sell empty mechanics as meaningful heat. This book has already proved it will be explicit when the sex matters. John did not matter.
+And I’m furious with Pace now. Not because he didn’t text over the holiday in some ordinary boyfriend-maintenance sense, but because he knows exactly what she asked at his door. He watched her cry over the absence of a word, let her walk into the cold, and then allowed the entire break to pass in silence. “He always left you the room” used to sound respectful. Here it feels like abandonment disguised in his preferred virtue. He gets to call his silence space because he isn’t the one lying awake inside it.
 
-The cold only existing inside Randi got me badly. So did her lipstick left on his body while nothing had happened to her eyes. She has learned how to leave evidence of herself without risking the self underneath, and then she calls the resulting emptiness a flaw in her. No, babe. You chose the safest possible man and received exactly the safety you engineered.
+The photograph split in two made my stomach drop: the whole Vee sent to Pace, the cropped Vee permitted into her parents’ house. She thinks she chose where each version went, but the whole version went into the least honest relationship in her life. And now she can’t even keep her own first night intact. Watching the invented blonde take Vee’s place at the table was horrible because that memory had been foundational—proof that Pace wanted precisely her—and the lack of a name has begun eating backward through even the things she knew.
 
-And then Vee. Of course Vee’s tiny yellow heart reaches further into her than the ball, the dress, the dancing, the orgasm, all of it. “Vee was her gorgeous” nearly finished me. Randi knows she loves her without a qualifier. She knows Vee might feel it too. She also makes the deliberate choice to preserve access rather than give Vee knowledge: keep the word under cover, let Vee arrive on her own, never make her decide. That is the same moral failure as Pace’s in softer clothes. I understand the terror completely, and I am still furious. She tells herself Vee is too kind to cut her loose while exploiting exactly that kindness.
+Meanwhile, “the one sure thing” is Randi. God. Vee reaches toward the person who will light up and call her gorgeous and mean it, and I believe completely that Randi means it. That is what makes this vicious. Randi is stable because she has concealed the information that would make Vee reevaluate her. Pace is uncertain because he refuses to speak; Randi feels certain because she speaks in two meanings and lets Vee hear the safer one. Vee thinks she has one opaque lover and one transparent friend. She actually has two lovers withholding the same reality in different dialects.
 
-The fairytale text is brutal because every word is true and the message is still a lie. That is how all three of them keep hurting Vee: edited truth, technically defensible, essential fact omitted. And Vee is sitting in her parents’ warm kitchen saying, essentially, *you can give me the ugly version or say nothing; I’ll still be here.* Randi answers with scenery.
+I also cannot get past Vee protecting Randi’s dignity over the PPP revelation. She saw the truth, understood the wound, and gave Randi somewhere to put her hands. That is such clean, instinctive love. Then Randi replies by giving her the fairytale instead of the truth, while lying beside the man she used to prove to herself that Vee is what she wants. Vee offers “I’m here if you want to talk. Or not,” and Randi takes the escape hatch. Again.
 
-Also: I have not forgotten that Vee just walked out of Pace’s house. If this is the New Year’s break immediately after that rupture, I need to know what Randi knows and whether Vee’s “I’m here if you want to talk” is being offered while nobody is returning the same honesty to her. I am already reaching for the next chapter.
+There’s no erotic charge for me here, even when Vee remembers the sheet and the kitchen. The jealousy corrodes it too fast. But emotionally I’m caught hard. I need January. I need Randi to see Vee’s face light up and understand that she is accepting trust she has not earned. And Pace had better not be waiting serenely in his warm house as though Vee merely needed enough “room” to return.
 
-GATE 51 — Fairytale
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: “Afterward she stayed against him.”
-WHY: The fade-to-black made me bristle on instinct, but John’s sexual blankness was the point, not the book dodging heat. Randi’s realization about Vee pulled me hard; her conscious decision to keep Vee uninformed made me need the reckoning immediately.
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Vee’s loneliness, and the terrible inversion by which deceiving Randi feels dependable while silent Pace feels unknowable, has me completely. I need to see what happens when the semester begins and both hidden halves of her life come back within reach.

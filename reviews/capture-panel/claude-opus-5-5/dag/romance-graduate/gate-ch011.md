@@ -1,35 +1,28 @@
-*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · 2026-10-10*
+*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
 
-## Reaction
+**REACTION**
 
-Okay. *Okay.* Twelve chapters in, and the jacket's promise finally showed up with its shirt off: "the shame she has carried since girlhood turns, impossibly, into heat." I'd been taking that on faith. Now I've seen it work. Her mother's voice saying "floozie" and her thighs pressing hard under wet denim is the hottest beat in the book for me, hotter than the bench. On the bench I was watching a woman get handled. Here a woman *decides*. She knocks three times on the glass and crooks a finger, and she holds his eyes so he knows something is coming before he knows what. Then she looks down at the fourth button on purpose and takes his eyes with her. I said "oh" out loud at that. She isn't just undressing. She's directing his gaze. She's the one doing the looking, then making him look, and it's all hers.
+Okay. *Okay.* This is the chapter I was begging for in my notes. I was ready to start skimming, and instead I'm sitting up in bed at 1 a.m. with my face hot.
 
-And look who's courtly now. Randi's version was "ask and then ravish," and here nobody asks. She just tells him with her hands, and he does exactly what I'd want: sits there glad and still and doesn't lunge. That "want and gladness and a stillness" line got me. Then the turn I didn't see coming: she reaches for his hand to start the next thing, and it's shaking. He's been out in the rain for her the whole time, and she's the one who stops it. "Pace. You're freezing." That's the bond turning. For the first time she takes care of *him*. I melted, honestly.
+The first half is a slow hike and I didn't mind it at all, because every bit of it was doing something. "He walked at the speed of her not knowing how." I'd marry that sentence. Then the boot. Her stomach clenches because a man is about to see her sweaty sock, her mother says *what kind of girl lets a man*, and he just has her bare foot in his hand in the cold air. Moleskin, warmed under his thumb. A little pat on the toe that means only *done*. That's the most intimate a man has been with her yet, and it was first aid. Same with the cherry pit. He corrects her without making her small, and he lays his own pit down next to hers without looking at her. I keep waiting for Pace to slip and do something careless, and he keeps not doing it. That's either the dream or the trap, and I still can't tell which.
 
-The flannel moment was lovely too. His only dry shirt, then him walking out into the rain so she can change, and her slowly working out that he'd given her both the shirt and the truck. The book let me get it a half-beat before she did and didn't spell it out. More of that, please.
+The dress. Oh, I see you, book. Russet silk, the color of brick, and "That sounds like a beautiful dress" said with no weight on it at all. That man has *filed* it. That dress is going to show up in a box. And my stomach drops wondering whether Randi will be the one who picks it, or who hears about it first.
 
-Now the cop. I hate the cop. A siren squawk at the dorm curb to keep them from saying the big thing is very close to the one-unsent-text move I'm so tired of. I almost rolled my eyes out of the book. What saves it, barely: he pulled into the fire lane. Mr. Leave-No-Trace, who picks her cherry pit off the rock, breaks a rule to get her under the overhang, and gets a cop for it. I'll give the book that much irony. But if the next chapter opens on "we never got to talk about it" angst, I'll be annoyed.
+Then the truck. This is what I've been starving for and can almost never find: the heat coming *from inside her*. Her mother's voice doesn't kill the want, it feeds it. *Floozie*, and her thighs press shut on their own. She wants to be exactly the thing the voice accuses her of, and she wants him watching her be it. That's a real woman with a real kink and a real history, not a heroine who just "melts." She's the one who calls him in. She keeps his eyes the whole way down the buttons. Then she deliberately looks down so his eyes follow hers, and she sees herself through him: the sheer wet bra, the gooseflesh, the drop of rain running between her breasts. And he doesn't touch her. He just *looks*, glad and still. It's completely clothed (well, mostly) and it's hotter than half the full-on sex I've read this year.
 
-Other things I'm holding onto:
+And then she grabs his hand to start the next thing and it's shaking. He's been out in the rain freezing for her, and she chooses him over the heat. "Pace. You're freezing." That's when I felt something turn between them. Before this she was being taken care of. Now she's the one taking care of him.
 
-- **The cherry pit.** Gentle, sure, and he didn't make her small. But he's correcting her, quietly, and she copies him, the same way she copied him eating with his right hand. He keeps teaching her and she keeps learning him. That's either sweet or the whole machine, and I can't tell yet. Probably both.
-- **The russet dress.** Brick red, silk, "That sounds like a beautiful dress," and he leaves it on the rock. That dress is going to show up in a box. I can see it coming from here. If it's a gift, I want to know whose idea it was, his or Randi's.
-- **Randi.** "Ravish" followed Vee up the whole trail. Randi wasn't on the hike and she's still all over it. I want the debrief. I want Randi's face when she hears about the buttons.
-- **One bit of explaining.** "The hike had made her hungry first. That was the trick of it. That was what it was for." The sandwich already told me that. Hush.
+Gripes, because I keep a count. "His shirt, and then the truck. Both." I'd figured that out already, thanks. And "the heat that knew the voice was right" spells out a little what the scene had already shown me beautifully. That's one tick, maybe a tick and a half. The summit paragraph got close to showing off ("that not-caring was the most beautiful part"), but I'll allow one big view per book. The campus cop siren is pretty convenient as a cockblock. But it isn't manufactured conflict, just the world honking at them, and it leaves her in his flannel under the overhang with her sentence unfinished. Yes, it worked on me.
 
-The summit paragraph ran long and a little purple, but I let it go. She's supposed to be overwhelmed, and the not-caring valley was a nice touch. The food writing is genuinely sensual: the horseradish climbing into her sinuses, the drinking after her mouth. It's a grown-up kind of foreplay.
+Small thing: I had the hike down for the 20th, and it's the 27th now. Either it got pushed or I misremembered. It doesn't bother me.
 
-Cassie's "I'll see you at the dorm" last chapter is still bothering me, and she wasn't even in this one. I noticed she wasn't.
+No Randi in this chapter, and I felt her missing from it the whole time. "Ravish" walked up the trail behind Vee. What Pace will tell Randi about this, and what he'll *keep*, is the question now. Vee stripping for him in a truck is exactly the kind of thing he holds back for himself. And "Leave No Trace" as a title, when everything here is leaving a trace? Cute. I see it.
 
-What I'd text at 1 a.m.: "SHE UNBUTTONED HER SHIRT IN HIS TRUCK WHILE HER MOTHER'S VOICE CALLED HER A FLOOZIE AND IT TURNED HER ON. and then a COP. i'm going to scream."
-
----
-
-GATE 12 — Leave No Trace
+GATE 11 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "The siren squawked — one short electronic bark, loud over the rain, loud in the cab — and it took the rest of her sentence with it."
-WHY: This is the chapter the book has been promising: her shame becoming heat because she chose it, with her eyes on his. The shivering hand made it tender, not just hot. The cop is a cheap interruption, but I'm left wanting, not tidied up, and that's exactly when I keep reading.
+ALMOST-STOPPED: "His shirt, and then the truck. Both." That's a small eye-roll, not anywhere near leaving.
+WHY: I finally got the charge, and it came out of Vee's own head and her mother's voice, which is exactly the depth-plus-heat combination I came for. Him standing in the rain and her choosing his cold hands over her own next move is a real turn between them. Now I need to know what he tells Randi, and what happens with that dress.

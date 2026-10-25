@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch029 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-21*
+*capture-dag-v2-rich · gate ch029 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · dated · 2026-10-24*
 
 REACTION
 
-Whoa, a tiny two-page chapter! And we finally get an outside perspective on Pace—a real, actual friend who isn't part of the three-way hotbox! I didn't realize how claustrophobic (in a delicious way) the world of this book had become until the camera pulled back onto a cold Saturday morning bike ride with a tiny, fierce lesbian friend who was at the Rusty Nail on Thursday night.
+OH MY GOD. THE KITCHEN SPANKING.
 
-Two things hit me hard in this little vignette. First, when Pace just *spills* about Vee—not about her body, not even about the dress, but about how she touched the joint on his walnut chair and asked how he made it, and didn't drop his math book like it burned her. *"Listen to you,"* Sheri says, and *"He didn't know what there was to listen to."* God, he is so far gone on Vee's mind and her curiosity, and just like when he talked to Randi at the sink, he doesn't even hear his own voice when he talks about her. He's twenty-two, brilliant, and emotionally a total runaway train when it comes to Vivienne.
+Wait, let me back up because the whole opening of this chapter had my heart in my throat, and then the second half set my hair on fire.
 
-Second: when Sheri asks about *"the pale sorority chick,"* Pace gives her Randi's name, says she was here last night, says she knows and likes Vee... and doesn't gush for a single sentence. Think about the contrast! With Vee, he's babbling past her name before he even decides to. With Randi, it's just facts. Even to an outside friend, Vee is the one making him talk like a boy in love, while Randi is just the architecture of his life. And Sheri calling it straight out in the cold air—*"If that's not already complicated, it will be"*—feels like the first time someone with normal common sense has looked at their arrangement without being inside the kink of it.
+First: Vee walking up to Pace's door in Randi's cognac heels and Randi's green-and-gold silk scarf, carrying a supermarket apple pie with a custom-printed "HUMBLE PIE" label on the dome, and then realizing at the threshold that the heels make her an inch taller than him. The panic that goes through her—that she came to apologize for disrespecting him and accidentally started by towering over him—and her immediately folding in half to unbuckle them while the pie tips out of her hands! And Pace just taking the pie, lifting her back upright by the forearm, fixing the silk scarf on her shoulder with two fingers, and saying, *"Leave them on. Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up."* Excuse me while I melt into the floorboards. And I love, love, *love* that he didn't let her get away with the "clean machine" apology Randi coached her into. Randi told her to go in *sure*, not sorry, so she wouldn't hand him a problem to solve, and Pace immediately says: *"Okay. But what happened?"* Because he actually cares about her mind! And when she breaks down and confesses the whole ugly truth—*"She handed me a lie and I picked it up because some part of me was just standing there waiting for one"*—he takes her face in his hands, tips it down, and says, *"Thank you for telling me what she said."* That is grown-up emotional intelligence. That is a man who knows how to hold a woman's shame without making her feel small for it.
 
-Also, it's Saturday morning now. Which means tonight is the night Vee walks into his house in Randi's cognac heels and that green-and-gold silk scarf tied snug at her throat. Bring it on.
+AND THEN SUNDAY AFTERNOON IN THE KITCHEN.
 
-GATE 31 — hills-and-valleys
+I am unwell. The way it started so domestic and playful—Vee in his translucent white undershirt (just like Randi wore on Monday night!!), pressing her sleep-warm weight against his back at the sink, arguing that *"soaking is a recognized method"*—and then she smacks his jeans when he tickles her, and he turns off the tap. The silence when that water shuts off! And when she twists away and swings her backside right into his wet left hand—*crack*—and a bright hot line goes straight up her spine and pulls her nipples into aching points under the thin cotton before her brain can even process what happened.
+
+The psychology of what she does next is *so* exact it made my stomach flip. She knows he saw her face go slack and her mouth fall open around that soundless *oh*, and she is so terrified of having a conversation about what just lit her up that she kisses him hard, talks nonstop about the soaking pan all the way to the bedroom, and climbs on top of him with her face buried in his neck just so he can't look at her eyes! And the detail that riding him makes her glute muscle pull under the sore skin so the sting wakes up and answers on every single stroke—and she rides him faster to hide it, which only lights it up more?! And then after she comes the first time and thinks she got away with it, she's all out of words, and Pace just moves his palm a few inches up onto the exact spot where he hit her and bears her down onto him. Heat over the sting. No second smack, no pushing her past what she can handle—just his heavy palm holding the print of his own hand and asking *"This?"* into her hair until she says *"Please"* twice from the bottom of her voice and shatters all over him. Remember in Chapter 27 when Pace looked at the oak table/bench and remembered Randi facedown on it, flushed the color of wine and saying *please* in a voice he hadn't heard before or since? Vee just found that exact same voice in herself off a single playful swat in the kitchen.
+
+Also: she stayed all the way through Sunday night into Monday morning!Wait—what happened to Randi's Sunday night?! Randi told Pace "Give her a day" thinking Vee would go over Saturday night, and instead Vee stayed the whole weekend in his sweatpants and undershirt, smelling of his soap and shampoo from head to toe, and didn't leave until Monday morning! Where was Randi on Sunday?! Is Randi losing her mind right now, especially knowing she dressed Vee in her own shoes and scarf to send her there?!
+
+And that final beat on Monday morning—Vee panicking in the bathroom mirror over her wild hair and having nothing of hers in his ordered house, and Pace gathering her hair at the nape of her neck like a thing he means to keep, kissing behind her ear, and saying *"You're always beautiful."* I am so deep in this book I don't think I'm ever coming out.
+
+GATE 29 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It's a quick breath of cold air before Saturday night hits, and seeing Pace through a blunt outsider's eyes—especially the way he gushes uncontrollably about Vee touching his woodworking while reducing Randi to two flat sentences—makes the emotional stakes for tonight feel even sharper. I'm dying to get to Saturday night.
+WHY: This chapter gave me everything I read this genre for and almost never get: an apology scene with genuine psychological depth where the hero refuses the rehearsed speech and asks for the real wound, followed by an accidental kink-discovery scene in the kitchen that was scorching, emotionally layered, and written with total precision. Watching Vee try to out-talk and out-ride the sting on her backside only for Pace to undo her by simply laying his warm palm over the mark had me holding my breath. I need to know immediately what happens when Vee gives Randi back her shoes and what Randi did while Vee was at Pace's all Sunday night.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
 
 **REACTION**
 
-That's two quiet chapters in a row, and I noticed. The drawer chapter was lovely. He folded his whole self into one drawer so she could have the easy one, and I'll keep that. Now this one is a dorm-room debrief that would fit on a phone screen. I'm not resenting it yet, because something's going on in it, but I'm counting.
+Okay. Chapter 36 was a quiet one, and now 37 is a quiet one too. That's two in a row, and I felt my thumb start to drift toward checking how long this one was.
 
-What's going on is Cassie. She finally gets a scene where the book looks at her instead of past her, and she's very good. "You're a public utility." "You don't come home school nights." It isn't a question, and Vee has to go back and count the nights. Cassie sees everything and says just enough. She says "Hrm" and "Mm," lets the maybe stand, and goes back to her book. I think she's the only grown-up in this whole book, Pace included.
+But the writing is real. "Her arms feeling like they belonged to somebody generous" is a line I'd underline. I liked "Any more than she had ever once decided the second verse of a hymn," too, because it's Ohio church-basement Vee coming up through the water. And I liked the way the questions wore down lap by lap, *Do you love him* and *did he mind* and then *him, and the ache, and the count*, and then only the count. That's exactly what hard swimming does to your head. I've done it. It never answered anything, and that was the whole use of it. Okay, book. I'm with you.
 
-The part that got me was what Vee chose to tell her. Randi gets the bet, the finger, "He checked," the face in the covers. Cassie gets baked tomatoes and a cold cloth on a burn. It's the ladle version again, same as the morning after. She hands Cassie the nice version and Randi the real one, and I don't think Vee knows she's doing it. Even her hand drifting to the side of her breast while she tells it is a little leak she doesn't notice. Cassie notices. "Not enough on." Ha.
+Then the four strokes. *Whether he was that good or she had made him that good, out of wanting.* That made me sit up. It's the first time Vee has let herself doubt him even for a second, and the book gives it four strokes and then the wall comes and it's gone. I'm suspicious of how fast it went. I think that thought gets planted here and comes back with teeth. Is he that good? He folds his whole self into one drawer for her. He also tells Randi everything. Both are true, and Vee can only see one of them.
 
-Then there's "Maybe. I think so." One chapter ago she lay in his bed and said to herself, plainly, that she loves him. She whispered *Peter* to him while he slept. To Cassie she shrinks it to a maybe. Maybe that's just shyness, or maybe it's the mother's voice again. Either way she's still hiding the biggest things about herself from the one person who wants nothing from her. Cassie's face with "no face on at all" worries me. I keep waiting for that half-second look from chapter 21 to cash in.
+What's quietly cruel is the drawer. I already know he gave her the top drawer, because chapter 35 jumped ahead to the next Friday. So I'm watching her chew on "did he mind" through seventy-five minutes of laps, and I know the answer, and she won't find out for three more days. Is that on purpose? I think it is. I'm a step ahead of her again, which the jacket promised, but this time it's in the sweet direction for once. I did notice the counter mess turned into "hairbrush and earrings and book" when I remember brush, pins, and bottles. Small thing. I clocked it anyway.
 
-I miss Randi a little, which is its own warning sign. I came out of the brunch with sticky fingers, the glaze on Vee's lip, "best friend in the whole world," and since then the book has given me two chapters of pure domestic warmth. I believe in it. I just know the knife is coming, and I'd like the book to stop making me wait for it.
+The suit with "nowhere left to go on her," right after the last chapter told us she's been shrinking. Hm. Either the book forgot or she's still seeing the old body. I'm choosing to read it as the second one.
 
-The writing here is plain in a good way. "Go to sleep, streetlight. Some of us have class" is a perfect closing line. Heat is basically nil, apart from the burn and the warm house where "she never once thought about how much she had on," which is a quiet tease.
+What I actually want: it's been three chapters since Randi licked that glaze off Vee's lip, and nobody has picked that up. I want Randi in Pace's bed with "sticky fingers" in her mouth. I want to know if he's told her about the bet. A swim chapter is a breath, and I'll take one breath. If 38 is a third quiet one, I'm going to start skimming for dialogue.
 
-**GATE 39 — School Nights**
+GATE 37 — Strokes
 DECISION: CONTINUE
 CAPTURE: 5
 NEXT: 6
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "How he cooked with intent, something different every time and never out of a box." That's where I thought, okay, another food montage, the second soft chapter running.
-WHY: Cassie finally got a real scene, and I watched Vee give her the clean version and shrink "I love him" to "maybe," which hurt in a good way. But this is the second quiet chapter in a row. If the next one is a third with no Randi, no table and nothing breaking, I'll start skimming for dialogue.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She swam the set out." That's the point where I realized nothing else was coming and this was a whole chapter of laps.
+WHY: It's beautifully done and honest about her body, and the four strokes of doubt about whether she invented him are the real payload. But it's the second quiet chapter in a row, with no heat and no Randi, so I want the next one more for what it owes me than for what this one gave me.

@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c177611de749 · 2026-10-07*
+*capture-dag-v2-rich · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-*Oh.*
+*Holy shit.* My jaw is actually on the floor.
 
-Oh, Pace. You absolute, arrogant, terrified idiot.
+First of all: Vee taking Randi’s face in BOTH hands and kissing her in the sorority foyer—not a sweet little cheek peck, but staying until Randi’s breath stopped against her mouth and Randi gripped the back of her coat? *Finally.* The sheer, agonizing dramatic irony of Vee thinking she’s just giving an overflow of sisterly gratitude, while Randi is left standing alone in the dark putting the back of her hand to her mouth like an enraptured fifteen-year-old? I felt that straight through my chest. Randi laughing that “short idiotic sound” in the empty hallway because Vee *came back for her*—god, the pining is immaculate.
 
-First of all, Sheri is a national treasure and someone needs to buy that woman a lifetime supply of chocolate shakes. Having her sit across from him in an ugly Carter-administration double-wide diner, eating a double cheeseburger, stealing his fries, and just ruthlessly puncturing every single high-flown, intellectualized balloon he tried to float? Perfection. *“She didn’t ask you for reasons… not saying it matters more to you than having her. And I’ll tell you—from this seat, that feels pretty shitty.”* And then laughing in his face about "the philosophy of your food"! God, he needed that. Someone finally told the emperor he’s butt-naked and hiding behind a spice rack.
+And then Brooke. *Brooke.* That scene in the kitchen made the hair on my arms stand up. That wasn't just sorority house politics; that was a velvet-gloved execution. "Play all you want, privately, or for the boys... The day he thinks it's true—" and bringing up Lauren Pike like a ghost story? The social terror in that house is so real and suffocating. You can perform bisexuality for fraternity boys, but the second it’s genuine, soft, and between women, you are toxic waste to the brand. Randi is caught in an absolute vise: her family money is built on fraud, her sorority status is hanging by a thread under Brooke’s surveillance, and she is hopelessly, desperately in love with a girl who just kissed her and then immediately walked out the door to throw herself naked at another man.
 
-And then we get the morning after. The whiskey, the mop bucket with the bleach crust—he got so sick he had to scrub his own bathroom floor in the dark—and the boiled freezer-chicken. "Prison food." It’s the anti-fra-diavolo. It’s what a man eats when he's stripped off every layer of performance and he's just a hollow machine putting fuel in the tank so he doesn't die.
+Which brings me to the plan itself. Randi sending Vee to Pace’s doorstep in literally nothing but an open coat and those fetishistic, strappy stilettos is so wildly fucked up and brilliant. On one hand, Randi is practically pimping Vee out to their shared lover, manipulating Vee’s shame and hunger into a physical surrender so Vee won’t demand the words Pace can't give. On the other hand, Randi is basically dressing Vee up in her own desire—giving Vee *her* shoes, imagining Vee naked under that coat, practically orchestrating the fantasy she wants to consume. And Vee, bless her, thinks Randi is just the best friend in the world, even while her body responds to the shoes with tightening nipples and a hot rush of arousal she doesn't even fully unpack.
 
-And then the gut-punch: *Daphne.* The girl with the brown hair and glasses who taught him how to survive college, and when she walked out, the world ended. He built an entire mathematical fortress out of the idea that *the words* were what gave the loss its power. If you don't say the word, you can't be destroyed. What an incredibly human, deeply pathetic, completely understandable trauma response. He looked at Vee on that porch, understood the whole vast, starving gift she was handing him, had the words right at his teeth—and chose cowardice because he was terrified of being nineteen and helpless again.
-
-That moment when the truck engine hummed on the highway, and he froze with the fork in the air, his whole body turning toward the gravel drive hoping it was her—and then it just drove past, and he broke over a cold bowl of boiled broccoli? I had chills. Actual chills. Seeing this man, whose control has been an iron cage for fifty chapters, completely shatter in an empty kitchen with shaking hands… Helen Rivers, you absolute bastard. You made me hurt for him.
-
-He loves her. He knows he loves her. But knowing it in an empty room while you weep into cold chicken doesn't fix the fact that she walked out into the dark. Spring semester is starting. Randi is coming back from Switzerland, and Vee is waiting. Pace, you arrogant bastard, you better get off that chair.
+Tonight is going to be an absolute powder keg. Pace sitting in his cold house after New Year's, and Vee showing up on his porch bare under a coat in Randi’s heels? Give it to me immediately.
 
 ***
 
-GATE 53 — The Usual
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Pace's terrifying, empirical control completely collapse into a puddle of hangover, grief, and sobbing over a truck that didn't turn into his driveway was the exact emotional payoff I've been waiting fifty chapters for. Sheri called his bullshit to his face, his tragic Daphne backstory earned every ounce of his cowardice, and now I am dying to see what he does when school starts.
+WHY: The tension is coiled so tight it's vibrating. Vee kissing Randi on the mouth, Brooke's chilling, velvet-draped threat in the kitchen, and the sheer insanity of Vee driving to Pace's house naked under a coat in Randi's heels makes it physically impossible to put this book down.

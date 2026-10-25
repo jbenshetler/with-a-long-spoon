@@ -1,22 +1,32 @@
-*capture-dag-v2-rich · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cbd9e3cb7358 · 2026-10-10*
+*capture-dag-v2-rich · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0738735086d3 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I love Cassie, and I'm glad she got a real scene and not four words and a ball cap. The hand on Vee's knee, "once, and took it back," got me. "Vivienne." got me both times. "You keep taking your shirt off in front of this guy and not getting any?" was me, out loud, on my couch at chapter 17. She's still my favorite person in this book, and this chapter is a little gift to her. I'll take it.
+Okay. I need to complain first and then lose my mind.
 
-But I *just read* chapter 17. All of it, every pin. Now I'm getting it back in summary from the girl who lived it, and I'm noticing a pattern I don't like. Mountain, then Cassie retells the mountain. Mountain again at the dining hall for Meg and Kayla. The dress fitting, then Cassie retells the dress fitting. That's three debriefs of scenes I was standing inside, and this is the weakest of them because the scene it's retelling is the freshest.
+The complaint: this book keeps retelling its own scenes. Chi Latte got replayed at Smoothie Bird. The truck got told to Cassie, then told again to Meg and Kayla. Now the riser, which I *just* read, the best chapter in the book, gets told twice in one chapter, once to Cassie and once to Randi. When Vee said "Burgundy" and started explaining the shirt has no tag, I actually said "I know, babe, I was there" out loud. Then the Cassie scene drifted into sitcom. "Are you sure he's not gay?" was a dorm-room bit I've read in fifty KU books. And the grinding confession didn't work for me. He was *on his knees* behind her. How is she feeling his package against her ass from down there? Either the geometry is off or Vee is making the story better, and I can't tell which one the book means. I did love "Vivienne." I loved Cassie's hand on her knee, once, then taken back. Cassie's still my canary, even if she's talking a lot more than four words a day now.
 
-Worse, the retelling keeps doing my job for me. "He left me a door." "He asked." "It was like his eyes asked, *May I look.*" "Like I was supposed to be there." I *got* that. The whole point of 17 was that I felt it without anyone saying it, the way she rose up on her toes. Hearing her say it out loud to Cassie flattens it. That's my hair trigger: the book explaining its own subtext in case I missed it. And that's on top of the warm-house reveal getting a second "Oh, Vee." "Are you sure he's not gay?" is a bit I've read in a hundred KU books, and it's beneath these two.
+Then Randi pulled up in a green Mercedes and the chapter got its teeth back.
 
-What saved it was the end. "*I* was grinding on *him*." That's new. Chapter 17 had her bending into him "more than the dress asked," but it didn't let me see her own it. Watching her own it, wicked and delighted and rocking with a pillow over her mouth, is exactly the Vee I want. She's turning her mother's "floozie" into a joke she tells her best friend. That's growth I didn't just watch happen. More of that, please.
+The retelling to Randi works where the Cassie one didn't. It isn't a recap, it's an *interrogation*, and I knew more than Vee the whole way through. Randi already has "her stomach is soft" from Pace in bed. She knows how this story goes. So she's feeding off it: "which hip?" "The left one." "All the best ones start at the left hip." Oh my god. She's leading Vee down one small "yeah" at a time, and it was hot in a way that made me shift on the couch. It's the "ask and then ravish" lesson again, except now Randi is doing the asking and doing it to Vee.
 
-What I actually wanted from this slot was the Randi debrief. After "I want us," after Randi got off on gardenia and chlorine and then *left* before she'd even caught her breath, I want to see Randi's face when Vee tells her about the box. Giving that to Cassie instead feels like the book stalling, or saving it. Maybe saving it. I'll give it the benefit of the doubt once.
+Then her thumbnail goes under the rim of the water glass. THE BOTTLE CAP. Same move, same woman, same pain under the nail while she keeps her face pleasant. Vee reads it as "she's moved, she's happy for me," and I wanted to grab her by the cardigan.
 
-**GATE 18 — Turned Up**
+And the scarf story. I don't believe a word of it. A "beautiful idiot" on Saturday, the same Saturday Pace had Vee on the box? It's the bad-date story again, a lesson in what to want, "a little helpless can be a very good thing." Except this time I think Randi accidentally told the truth inside the lie: "the only time some of us ever put them down." That's the bench. That's the woman who locked the bathroom door.
+
+"You don't have to tell me." That line gutted me. Randi gets Vee right up to the edge of the secret, the wet satin, the thing she's never told anyone. Then Randi can't take it, whether it's jealousy or want or terror, and she closes the door "very softly." The book named it a door closing, and of course it did. One tick on my subtext count, but I'll forgive it, because Vee is left with her secret half out and no laugh to catch it. That's cruel, and Randi did it to protect herself.
+
+Then the kiss. The second press, "something in it the first one hadn't." Vee explaining it away as "a French thing" in under a second, and then scanning the dorm windows. Brooke. It's going to be Brooke, or Brooke's tall silent friend. I've got that cold spreading feeling too.
+
+1 a.m. text: *the girlfriend just kissed the girl her boyfriend is dating, on the mouth, in a fire lane, and the girl thinks it's because Randi's been to Paris. I'm not okay.*
+
+---
+
+GATE 17 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "It was like his eyes asked, *May I look.*" That's the book explaining back to me the scene I'd just felt, and it's the third retelling of something I already saw.
-WHY: It was a quiet chapter that mostly told me what I already knew, and it only came alive at "*I* was grinding on *him*" and Cassie's hand on her knee. I'm still pulled forward by chapter 17's afterglow and the Randi conversation I can feel coming, but one more recap and I start skimming.
+CAPTURE: 7
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Burgundy," she said. "For the honor society induction. A dress. Like the magazine. He's making it." That was the moment I realized I was about to get the riser chapter retold, and then again on top of that.
+WHY: The Cassie half is the book's recap habit at its worst, and it's slipping toward sitcom. The Randi half is the best Randi has been since the bench. I believe her body (the thumbnail, the kiss) and none of her stories, and now I need her POV after that fire lane more than I need anything from Pace.

@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
 
 REACTION
 
-Oh, the absolute *dread* sitting right under the surface of this gorgeous, golden morning.
+Oh, this man is playing chess while she is playing with doll clothes.
 
-First of all: the sheer sensual genius of this writer. Watching Vee step fully into her power—strutting naked around that kitchen in nothing but a green polka-dot scrunchie, making him burn the damn toast because she’s sitting there in his morning light admiring her own toes—was delicious. Calling herself a "pleasure princess," realizing that if anyone is serving anyone in this house, it’s him serving *her* on his knees... it’s so fun to see her luxuriate in her own body after decades of shame. And then the bedroom scene. Holy god. The slow tiling of kisses, the way he opens her like the blood orange, the sheer unhurried, devastating thoroughness of Pace’s mouth. It is top-tier, scorching, adult heat.
+I was completely ready to melt. Seriously, when he dropped Meg’s hiking boots and the fact that Vee’s heel slipped out of the right one? When he casually quoted her own line about Kayla talking paint off a wall? My stomach did the exact backflip Vee’s did. Because what woman *hasn't* starved for a man to simply pay attention like that? To actually catalog the boring, domestic rubble of her college life and treat it like gold? He gave her the absolute masterclass in "I see you, I value your world," and she is sitting there naked on a chair he carved with his bare hands, floating on a cloud of feeling loved.
 
-And then the trap snaps shut, so softly you almost miss the click.
+And then the cold water hit me.
 
-*He brings her own wetness to her mouth.* And Vee has that knee-jerk, girl-from-Ohio recoil: *"Ugh — gross. That’s wrong."* But her body, traitorous and greedy, actually went *toward* the taste before her brain caught up. She claims it’s gross, clamps her legs around his waist to make sure he doesn't stop fucking her, and then immediately starts hunting for the taste of herself in his mouth.
+*“I want to meet your people.”*
+*"Bring Cassie, too."*
+*"Tables have ends. Somebody ends up at one."*
 
-And the dramatic irony is suffocating me. *The cashmere blanket.* She’s lying there, blissed out, thinking what a sweet, silent gift it was—having no idea that the cashmere blanket lives at the foot of his bed because *Randi gets chills after Pace fucks her on that couch.* Vee is literally soaking her own orgasms into the blanket Pace keeps on hand for his other lover!
+He doesn't want a three-person dinner where he has to sit across from Randi under a spotlight and pretend he hasn't been orchestrating a psychological menage for five months. He knows Cassie is sharp enough to cut glass and would smell the tension between the three of them within four minutes of bread service. A big, sprawling party? A mixer? It’s *cover*. It dilutes the blast radius. It lets him bring Randi into his orbit *in front of Vee* under the guise of being the most generous, open, un-secretive boyfriend on earth, while completely neutralizing the threat of a small, intimate interrogation.
 
-And the ending! Vee lying on his chest, resolving to bring this exact dilemma to Randi at dinner on Tuesday: *"I'll tell Randi. Randi always knows what to make of it."* I wanted to reach through the screen and shake her. Vee is going to sit across from Miranda—the woman who broke down on that very same couch confessing she wants Vee, the woman who took Vee’s uncropped nude photo, the woman whose mouth has been all over Pace—and tell her: *Hey, Pace tried to snowball me and kiss me with my own taste, and secretly I kind of wanted it.*
+"Let me handle it." The sheer dread that sentence gave me! What is he planning? Is he hosting this at his house? Is he taking over a tavern? Is this the Valentine's dance cover-band situation Sheri told him to go to?
 
-Randi is going to lose her absolute mind. Randi is going to take that confession like a grenade with the pin pulled. Vee thinks she has two separate, safe harbor relationships, and she is casually carrying the match straight into the powder keg. I am vibrating. Give me Tuesday right now.
+And poor Vee. Sweet, blind Vee, happily constructing her little fantasy where her fancy best friend and her gruff, perfect man finally get to know each other. *"You could meet Randi... properly, I mean."* God, the dramatic irony in this book is like a piano dangling by a frayed rope over her head. She thinks she's finally coaxed him out into the daylight. She thinks her naked-in-a-coat gambit fixed the foundation of their entire relationship, and instead she just handed the architect a brand new set of blueprints. I am vibrating with anxiety for Tuesday night.
 
-GATE 56 — Missed a Spot
+GATE 54 — Back
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from lush, playful morning-after indulgence into pure, stomach-dropping dramatic irony is brilliant. Vee planning to confide her curiosity about tasting another woman (herself) straight to Randi is a masterclass in tension.
+WHY: The psychological chess here is immaculate—Pace remembering the tiny details of her friends felt utterly swoon-worthy until the trap beneath his "generosity" clicked into place. I need Tuesday night and the Anthro class immediately.

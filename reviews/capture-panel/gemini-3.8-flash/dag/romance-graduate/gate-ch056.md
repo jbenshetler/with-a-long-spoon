@@ -1,20 +1,31 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. *“Pace shrank your sweater.”* Cassie laughing until her head goes back, because she knows—and Vee knows Cassie knows—that the entire doll-sized-sweater story is complete and utter bullshit, but Cassie just lets the record stand. That is female friendship at its most merciful and sharp. Cassie isn’t going to cross-examine her; she just lets the absurdity breathe in the room.
+Oh, Vee. My sweet, naive, completely cooked girl.
 
-God, this chapter felt like stepping into an airlock after the sensory overload of 55 and 56. After all that raw, dripping, bruised-heel depravity and the sheer, unhinged worship of Chapter 56 (the persimmons! the pleasure princess! the oral sex so filthy it got on his chin and she panicked!), bringing Vee back into a cinderblock dorm room smelling of hot radiator dust and microwave popcorn was the exact grounding beat this book needed.
+This chapter is the absolute definition of dramatic irony as an extreme sport. Watching her sit in this sunny, butter-scented brunch spot, sipping mimosas and giggling with Kayla and Meg about flashing him on the porch—while completely oblivious to the radioactive bomb she is carrying into Wednesday night—was genuinely thrilling in a totally grounded, delicious way.
 
-And that beat with Cassie’s mother. *“My mother says thank you for the card. She wants to know when she gets to see you again.”* That tiny, quiet line hit me right in the ribs. It’s the contrast between Vee’s own mother—who lives in a beige house where the heat goes off at ten, who only gets the cropped-waist photos, who asks nagging questions about “her young man” that Vee has to deflect—and Cassie’s family, where Vee is seen, remembered, and welcomed without performance.
+Meg’s comparison was so painfully good: *"Sometimes you have to make it right in their language."* Meg thinks she’s validating a cute relationship gesture (like bringing maple bacon after PMS-ing), but we know what that "language" actually cost Vee. Vee thinks she bravely cut through the bullshit with her body; she has convinced herself that showing up naked was her own sovereign feminist power move, rather than a strategy literally engineered and handed to her by Randi.
 
-What’s wild is how safe Vee feels right now, right at the top bunk, her hand against the cold brick, thinking everything is fixed. She thinks she solved Pace with a trench coat. She thinks the month of silence was just a “pole pulled on a tent.” She has no idea he sobbed over cold chicken because of a passing truck. She has no idea he’s planning a massive party specifically to pull Randi, Cassie, and her whole world into his orbit to set up the inevitable collision. She doesn’t know about Chapter 43 on the couch. She’s just a twenty-one-year-old girl in a warm flannel who thinks she survived the worst of it. The dramatic irony is thick enough to cut with that chef's knife.
+And now, Wednesday. *Wednesday night.*
+Let’s just review the guest list for this dinner that Pace volunteered to host:
+1. Pace (who Sobbed Over Cold Boiled Chicken because he loves Vee, but is terrified of saying it, and who is actively plotting a threesome with Randi in his kitchen).
+2. Randi (who is desperately in love with Vee, engineered Vee going naked to Pace's house to avoid losing her, and just got warned by Brooke that everyone in the sorority house sees her looking at Vee like a meal).
+3. Cassie (the human lie detector who ran the PPP fraud data on Randi's dad, knows Pace's domestic facade is weird, and can read Vee’s body language like large-print text).
+4. Kayla (who will talk the paint off the walls and ask entirely too many direct questions).
+5. Meg and Danny (normal people holding normal ground).
+6. Theo (the English class friend who asked Vee out, thrown in just to spike Pace's quiet possessiveness).
 
-GATE 58 — Unpacking
+Pace said, *"Let me handle it."* Pace, who couldn't handle Chili's for forty-five minutes without having a sensory breakdown and obsessively squaring his fork against the rim of the table! He is hosting *this* group of people in public? Or—God forbid—is he cooking for them at his house? Where? If it's at a restaurant, he’s going to be an exposed nerve. If it’s at his house, Cassie is going to look at the cashmere blanket and the custom woodwork and dissect him like a lab frog.
+
+I loved this chapter for being the calm before the storm. It’s light, the dialogue between Kayla, Meg, and Vee feels 100% authentic to college girls the day before classes start, and under all that bubbly brunch talk, the fuse is burning straight toward the powder keg. I am so ready for Wednesday.
+
+GATE 56 — Across
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 10
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The dialogue between Vee and Cassie is pure gold—that lie about the doll-sized sweater made me laugh out loud. It’s the perfect, grounded palate cleanser before the sheer chaos of the upcoming group dinner and Anthropology with Randi.
+WHY: The sheer impending catastrophe of Wednesday night's dinner is pulling me forward like a magnet. The brunch banter was pitch-perfect, but the real thrill is knowing every single secret sitting under the surface of this upcoming group hang. I need to see who breaks first.

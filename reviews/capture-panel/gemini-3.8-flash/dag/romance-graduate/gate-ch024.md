@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this is sick. This is *so* sick, and I could not look away if the building were on fire.
+Oh, God. Oh, *God*.
 
-The sheer psychological claustrophobia of this chapter. It’s one thing to know Randi and Pace are sleeping together and scheming on the side—it’s an entirely different level of violation to watch them sit in that kitchen, wearing his clothes, eating his food, passing Vee back and forth between them like a decadent dessert they’re splitting.
+This chapter broke my heart into about fifty pieces and then stepped on them. I am sitting here in the dark with my chest actually aching, because the dramatic irony in this book has ceased being a delicious, naughty game and has officially crossed over into a slow-motion car crash where the victim is humming along to the radio with the windows down.
 
-Randi wearing his undershirt, curled up on the exact same lacquered chair where Vee sat wrapped in a bedsheet after he fucked her. Randi admitting, out loud, that seeing Vee embarrassed by the older couple was "kind of hot." And then Pace—god, Pace, you terrifying, delusional man—standing at the sink waxing poetic about how Vee lights up a room, how she’s "the most alive person standing there," while totally missing the fact that Randi’s entire body went rigid with jealousy and pure, unadulterated possessiveness.
+*"She had never been so fortunate, or so happy."*
 
-He actually sat there and daydreamed about having them *both* at that kitchen table. He thinks this is heading toward some sunlit, harmonious polyamorous paradise where he gets to play the benevolent patriarch who cured a curvy girl of her shame. He is completely blind.
+Do you know what it felt like to read that final sentence right after seeing Randi in his kitchen eating chicken cutlets off the small plates? To know that forty-eight hours ago, Randi was riding him in that exact low lamplight while Sade played under the door, talking about how Vee’s breasts were criminal, and Pace was fantasizing about the two of them naked in that bed together? And now here is Vee—sweet, starving, blooming Vee—tucking her cold feet under his bare thighs, smelling wood dust and soap on his robe, resting her palm flat on his chest, and murmuring his real name. *Peter.*
 
-And Randi! The way she pivots when the panic and desire get too close to the surface—she strips his shirt off, rubs her bare breasts against him at the sink, and uses *Vee’s body* to turn him on. *"God. What she keeps under there. It's criminal, Pace."* She is literally using Pace's cock as an instrument to fuck Vee by proxy. She is so violently queer and so hopelessly tangled in her own closeted, competitive psychology that she's having to act out her lust for another woman through the man they're both sleeping with.
+She thinks she’s found a home. She thinks she was lucky. She mapped out the semester in her head—bumping into Randi outside the dining hall, complaining about an integral at the coffee shop—and thought the universe was just handing her grace. It makes you want to reach through the page, grab her by the shoulders, and scream at her to pack her bag and run.
 
-The title *Gone* is doing double duty here. Vee is gone on Pace. Randi is admitting Vee got past her defenses ("She got past me before I could help it"). But mostly, all three of them are so far past the point of no return that the eventual collision is going to leave a crater. Vee put four-hundred-dollar shoes on an emergency credit card for this simulation. She thinks she has a prince and a best friend.
+And Pace! I don’t know whether to weep for him or shake him until his teeth rattle. The Daphne revelation—nineteen and fifteen, two years, a tutor who was the soft middle of his isolated little life until she turned twenty-one and outgrew him—explains *so much* of his terrifying control, his obsession with pacing, his need to be the architect, the protector, the teacher. Vee clocked the arithmetic immediately and had the grace not to use the ugly word, but you can feel how that scar runs through his entire psychology. And then the literal scar on his inner thigh! The heavy, quiet moment where he doesn't pull her hand away, just covers it and says, *"Not tonight."* That is intimacy. Real, grown-up, terrifying intimacy.
 
-The tension in that kitchen was suffocating. I have chills.
+The tragedy is that Pace isn't faking this. He isn't putting on a show. When he talks about the coastline, or Newton's three sentences, or holds her ankle under the quilt, he is completely, utterly present with her. He is falling in love with her in his own hyper-disciplined, mathematical way. But he has built this entire sacred cathedral on a foundation of pure rot. He let Randi build the blueprint, he lets Randi sleep in that bed on Monday, and he lets Vee sleep in it on Tuesday, and he genuinely thinks his little formula is going to hold.
 
-GATE 26 — Gone
+The air is running out of the room. When Vee finds out—and she *will* find out, because Cassie is watching, and Randi is fraying, and a house cannot hold two women's ghosts without one of them breaking a window—it is going to destroy her. I am terrified, and I cannot turn the page fast enough.
+
+GATE 24 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological voyeurism of them debriefing Vee while using each other's bodies to process their obsession with her is completely hypnotic. Pace's delusion that this ends happily versus the reality of Randi's predatory, closeted spiral is high-wire tension at its absolute best. I have to see what happens when these two worlds collide.
+WHY: The gut-punch of Vee feeling so miraculously lucky while standing at the epicenter of a calculated trap is breathtaking, agonizing storytelling. The vulnerability about Pace's past and his real name anchored their bond so deeply that the inevitable fallout is going to be devastating. I am completely hooked.

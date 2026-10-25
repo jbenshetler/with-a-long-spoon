@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this fed me.
 
-Oh, I did not like “the fear arriving too late to be any use.” That is not courage. That is Vee treating her own yes like a door that locks behind her, and neither Pace nor Randi has done enough to teach her otherwise. Pace may ask instead of command, but he gives her a clean request with the meaning removed, and she answers before she understands it because pleasing him has become the meaning she supplies. Then she decides the answer cannot be recalled. That scared me more than the wax did.
+The painting should have been ridiculous. Grapevines and cantaloupe breasts and a giant cherry painted over her freshly waxed body should have tipped straight into twee erotic-pageant nonsense, and instead I was completely inside it. The discipline of the brushes, the food placed on her tongue, the rule that movement made pleasure disappear—God. That is the kind of explicit scene I keep looking for and almost never get: not interchangeable choreography, but something built specifically out of who these two people are. Pace turns patience into erotic pressure; Vee keeps trying to perform stillness until she finally understands that surrender is not another performance. “Not stillness built and guarded—simply the bed taking her arm” absolutely got me.
 
-And Randi absolutely knew. “Barely stings” was a lie, or close enough to one that I’m not interested in splitting the hair. She gave Vee the wine, the good technician, the luxury fantasy, the feeling of being initiated into womanhood—and omitted the pain and the humiliating surprise of being told to roll over. This is Randi’s pattern in miniature: tell Vee just enough to get her through the door, let the missing information arrive when retreat feels ridiculous, then call the result empowerment. I understand why Vee trusts her. That is precisely what makes it ugly.
+And the picture. I felt almost ferocious when she saw herself and no shame came. Pace didn’t make her smaller, prettier, tidier, or more tasteful. He made abundance the subject. Her breasts are too much, her wetness is too much, her body refuses containment—and the answer is not reassurance that she is actually acceptable. The answer is: yes, look how much. Take the picture. That is romance to me. So is his not asking for a copy afterward. He created the image, handed it back, and left ownership with her. That tiny choice mattered enormously.
 
-The line that really got under my skin was Vee deciding another boundary would be “a joke” because she was already past all the earlier ones. No. Absolutely not. You can revoke consent halfway through anything. You can discover a boundary only when somebody reaches it. The book knows this—I think it knows exactly how frightening that reasoning is—but being inside Vee while she rationalized herself onto her stomach made me want to reach into the page and sit her up.
+The tasting thread nearly killed me. Her own wetness used as the primer; every other stage bringing food and his mouth except that one; Vee noticing the missing taste without being instructed to notice it; then searching his mouth afterward and finding only an uncertain trace. I love that she still hasn’t been pushed across the final inch. Her curiosity is getting hotter because the book permits it to remain unresolved and hers.
 
-Unfortunately, the chapter was also intensely charged. The wrong hand creating an ache for Pace’s right one was hot in a way that made me uncomfortable with myself, which is probably the point. Her refusing to let the stranger have any sign of the desire she considered his, then touching the impossible smoothness afterward and nearly folding over from imagining him discovering it—that worked. It wasn’t the waxing that turned me on; it was Vee making the ordeal into a private erotic offering and wanting Pace’s hand with that almost painful specificity.
+But I am not letting the gorgeousness erase what bothered me before she reached his house. Pace asked her to be bare by the weekend without telling her why, and Vee said yes before she understood what she was agreeing to because his requests have become commands she experiences as gifts. Then Randi sold the wax as “barely stings” and omitted half the procedure. Vee explicitly thought she had already crossed so many lines that another boundary would be a joke. That scared me. The later pleasure was real; it does not retroactively make that thought safe. These people keep giving her transcendent experiences after withholding the information she would need to choose them whole.
 
-But I’m angry at him too. “Bare. By the weekend.” Why? What is planned for this weekend? The long table is still sitting there. He asked for a timed bodily alteration and supplied no context, and Vee never asked because she experiences his unexplained desires as invitations to prove herself. If this is preparation for a scene he and Randi understand and Vee does not, I am going to lose my mind.
+And now the photograph is sitting in her hand like a lit match.
 
-Also: she leaves feeling like the most expensive thing in the room, and that triumph is real. I don’t want to take it away from her. She endured it, touched herself, wanted what she found, and walked out carrying a secret anticipation that belongs to her. But the fact that Randi’s promise comes true does not make the omissions harmless. That is how these two keep getting away with it: the pleasure is real, so Vee forgives the way she was delivered to it.
+“She would not be telling her about this.” Sure, Vee. Absolutely. The woman whose voice you tried to hear responding to it while you lay naked under your sleeping boyfriend’s arm is definitely not getting anywhere near that picture. Tomorrow is Randi’s, apparently, and that sentence has enough electricity in it to run the whole dorm. The fact that Vee has begun dividing her life into Pace’s nights and Randi’s days without seeing what she is building makes me want to shake her and immediately turn the page.
 
-I am continuing immediately. I need to know what Pace asked her to be bare for, and I need the book to understand that “yes” before you know what “all of it” includes is not the same thing as choosing every part once it arrives.
+Also: Pace knows Randi’s waxing person. Randi knew precisely where to send Vee for the body Pace requested. I am increasingly unable to experience any of their erotic discoveries without wondering how much has been privately coordinated. If tomorrow’s mixer puts Randi’s hands—or eyes—anywhere near the newly bare Vee, I may combust and then become furious all over again.
 
-GATE 68 — Barely Stings
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: “she was already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left.”
-WHY: That thought frightened and infuriated me because Vee is turning consent into momentum: once she starts, she believes she forfeits the right to stop. The chapter pulled me hard anyway—the desire was painfully alive—but now I urgently need to see what Pace and Randi have prepared her for.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The scene gave me explicitness, psychological specificity, play, surrender, and a genuine turn in how Vee sees her own abundance. Now she is carrying a photograph she absolutely wants Randi to see into “Randi’s” day, and there is no chance I am stopping here.

@@ -1,26 +1,18 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, Cassie sees it. Not the sex, not the drawer or the scrunchies or the spanking—she sees the vanishing. “You don’t come home school nights” landed like a hand quietly laid across the path. No accusation, no jealousy, no attempt to make Vee defend Pace. Just: I have noticed that your life is somewhere else now.
 
-Oh, the drawer. The *top* drawer. That got me worse than almost anything sexual in this book, because it is so completely him: he cannot say the sentence, so he reorganizes the physical world until the sentence is true. He compresses himself into too little space and gives her the place a hand reaches for first. No note, no announcement, no making her thank him. I would be texting somebody at one in the morning, *HE GAVE HER THE TOP DRAWER AND I AM UNWELL.*
+And Vee is so lit up I can feel why she keeps going. The baked-tomato burn is absurdly intimate: obviously half naked, obviously being fed, obviously Pace treating one small hurt as worthy of his complete attention. The house staying warm enough that she never considers what she’s wearing is almost more erotic to me than another explicit scene would have been. Her body has become ordinary there. Welcome there.
 
-And I am happy for her—achingly happy—but I’m not entirely soothed. Vee has decided she can live without hearing him say he loves her because his actions say it, and yes, they absolutely do. The door opening before she reaches it, him lifting her off the ground, feeding her, returning to her, buying ridiculous quantities of scrunchies, making literal room for her: this man loves her. I believe it. But “he never said” keeps tolling under the whole chapter. She wondered whether he minded the counter and had no way to know because he never says. One week later, before she opens the drawer, his loving gesture feels exactly like a quiet rejection. That is the limit of acts of service as a complete language: the same silence that can hold tenderness can also hold terror.
+But “It’s all so fast” frightened me because yes, honey. It is. She finally hears the speed when Cassie makes her count the empty bed, and this is still without knowing she has entered a relationship whose other two members were discussing and arranging her before she understood there was a relationship at all. Pace has made space for her in his bathroom while keeping her outside the truth of his life. Those two facts are becoming unbearable together.
 
-Her whispering “Peter” while he sleeps destroyed me a little. She gives the love to the hidden boy first, privately, with no demand that he wake and answer. It is tender as hell, but it also lets both of them remain safe inside implication. They are building a whole domestic life out of deeds neither has to name, while an enormous unnamed deception is sitting underneath it. Pace making her a place in his house is beautiful. Pace making her a place in a life whose existing occupant she does not know about is beautiful and awful at once.
+This was tiny, but it did not feel empty. It felt like Cassie touching the emergency brake without pulling it. She gave Vee the question and then left her dignity intact. I love her for not converting concern into a prosecution—and I am suddenly desperate for Vee to come home one night capable of telling her the whole truth.
 
-And I noticed that she calls the scar something she “meant to keep.” Baby, you cannot keep what you have not been trusted with. That line made me nervous because she is already treating mystery as intimacy, absence of information as a private treasure. She is so loved and still so uninformed.
-
-The sex itself is mostly remembered, but it has charge because of the abundance: a week apart, clothes at the door, her pleasure first, then dinner, then he wants her again. I felt the physical happiness of it rather than needing another explicit sequence. What really got me was her realizing there can be an *after*—that desire can return, that she is not a single use somebody exhausts. That is exactly the kind of erotic tenderness I came for.
-
-The weight-loss passage snagged me, though. I don’t want her happiness certified by her clothes getting looser, especially when the book has been so good about Pace loving the actual abundance of her body. I’m watching that. But the bras still keeping the truth while the cheap, badly fitted clothes loosen felt more complicated than a makeover beat, so it didn’t throw me out.
-
-This was a quiet domestic chapter, yes, but absolutely not a stalled one. She has admitted love to herself. She has brought a bag. He has given her a drawer. Those are thresholds. And because I know what she doesn’t, every sweet little act of belonging is tightening the wire.
-
-GATE 38 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 9
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The top drawer landed like a love declaration, and Vee silently naming her love made this feel like a real turn in the bond. I’m deeply moved, but the fact that both of them keep substituting gestures for necessary words now feels dangerous enough that I need the next chapter immediately.
+WHY: Cassie quietly made Vee see the speed and scale of what is happening without telling her what to think, and that landed hard. I’m reading on because the domestic sweetness is now sitting directly on top of the secret, and something has to crack.

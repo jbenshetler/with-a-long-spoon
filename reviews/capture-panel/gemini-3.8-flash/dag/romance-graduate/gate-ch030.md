@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch030 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6e62cd46bbc6 · 2026-10-01*
+*capture-dag-v2-rich · gate ch030 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, god. My pulse is genuinely hammering.
+Oh my god. *Oh my god.* My chest is physically tight right now. I need a glass of ice water.
 
-That swat at the sink. The absolute genius of making it happen by accident—the horseplay, the domestic laziness of Sunday morning, the tickling, and then that one wet, flat crack against her bare curve. And her body just *lighting up* before her brain can erect a single defense. The way her nipples drew up to an aching point so fast it was almost painful, the shock of it, the absolute silence that dropped over the kitchen like a guillotine.
+Randi is an absolute predator, a mastermind, an artist, and I am entirely hypnotized by her. The sheer psychological precision of that tiny, soundproof practice room! It’s suffocating in the best way. She didn't just ask about the weekend—she *directed* Vee right back into that kitchen, put her right back into the sensation of Pace's wet hand landing on her skin, and then, the moment she saw Vee's body start betraying her, she dropped the hammer with that "mouse that roars" story.
 
-Helen Rivers understands something about female submission that ninety-nine percent of romance writers completely botch. It isn't about a contract, or an alpha demanding obedience, or someone rattling off a list of kinks. It’s this terrifying, involuntary wiring that wakes up inside you when you least expect it, leaving you exposed and scrambling to cover it up with chatter. And Vee trying to talk over it! The endless, desperate babble about soaking pans, using words as a shield because *a quiet room is a room with a question standing in it*. That line knocked the breath right out of me.
+And we *know* who that mouse is! That’s Pace! That’s the leather bench in the den with the top taken off! Randi is taking her own real, intensely charged history with Pace, wrapping it up as a casual confession about some imaginary ex, and feeding it directly to Vee to prime her like a canvas. The cruelty and the eroticism of it are running on the exact same live wire. When Randi said "And God, it made me buck," I actually gasped out loud. The nerve. The utter, brazen control.
 
-And Pace. God, Pace. He is so terrifyingly observant because he doesn’t pounce. An amateur hero in a dark romance would have immediately shoved her over the counter and taken charge. Pace just *looks*. He reads the data. He holds the stillness. He feels her flinch when his hands touch the spot while she’s riding him, and he doesn't hit her again—he just lays that heavy, warm palm flat over the heat of it, bearing down, offering her the exact pressure she is dying for without forcing her to name it.
+And Vee! Poor, sweet, completely outmatched Vee, literally having to flee to a public restroom because she is soaking wet just from listening to another woman talk to her in a closet. Her catching her own hand, forcing it flat against her knee—*“To do that would be to say yes to it, and she would not say yes to it”*—that is top-tier interiority. She thinks she’s being loyal to Pace by denying it, completely blind to the fact that Randi is carving a direct path straight into both their beds.
 
-*"This?"*
-*"Please."*
+What kills me is the casual cruelty of Randi immediately checking out the second Vee comes back. She lit the fuse, watched the bomb go off, and then just glanced at her watch, packed her bag, gave her that practiced, lingering European kiss, and walked away to let Vee simmer in the aftermath alone. Randi gets to walk across campus cool as a cucumber, knowing she’s got Vee so turned inside out she can’t even put her arms down. The sheer power dynamic here is dizzying. I am feral for the moment this triangle finally collides.
 
-I had chills. Full-body chills. She came undone completely, shaking, hiding her face in his neck so she wouldn't have to look at the fact that she was unraveling over the sting of a hand. And all the while, hovering over every single second of this domestic bliss, is the reader's sickening awareness of what’s in that house. Randi’s cashmere blanket. The hidden bench. The fact that the scarf and the heels she walked in wearing belong to the woman who was riding him forty-eight hours ago. Vee feels so chosen, so safe, washing her hair in his shampoo, rolled up in his sweatpants, and the whole time she’s walking through a velvet-lined trap that is closing so smoothly she doesn't even feel the latch click. Masterful. Absolutely breathless.
-
-GATE 32 — A Recognized Method
+GATE 30 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension between Vee's desperate babbling and her body's involuntary, electrified surrender to the sting at the sink was completely breathtaking. The writing is so precise it hurts.
+WHY: The psychological voyeurism in that soundproof room was utterly blistering; Randi using her real history with Pace to physically unravel Vee across two chairs is the exact blend of high-wire tension and explicit erotic interiority I live for.

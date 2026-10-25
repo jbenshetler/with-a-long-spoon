@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch022 · glm-5.3 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
+*capture-dag-v2-rich · gate ch022 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad8401af7036 · dated · 2026-10-24*
 
-REACTION
+REACTION — This one got me twice, in two different places, and neither was where I expected. The first was Cassie in the lecture hall. "Was it a good night?" and that second unplanned "Oh, yes" — and I sat there realizing the whole time Vee was being a good student for forty seconds, Cassie was just *watching what the dress had done to her friend.* Because that's the only part she's ever been able to see. God. That's the most quietly devastating act of love in this whole book and it's a girl not looking at a statistics board. I missed Cassie so much and she came back and did THAT, delivered in a highlighter and one raised eyebrow. And Simpson's paradox sitting there underneath the whole chapter like the book winking at me — each piece on its own, the kindness, the shoes, the accent, the groomed lunches, all fine; put the years together and the numbers reverse. Nobody touched one of them. I see you, Helen Rivers. I see exactly what you did there and I'm delighted.
 
-Okay, I'm just going to say it: I laughed out loud on a Tuesday night at a man stuck in a lifted dress asking "don't point down" and I am not even embarrassed. That middle stretch — the two of them physically unable to let go of anything they were holding, her with her elbows fending silk off him, him holding the dress up like a waiter while she's got both hands full of him — that's the funniest sex scene I've read in years, and somehow it was also hot, which almost nothing manages to be while it's being funny. The laugh and the heat in the same body. That's a whole skill.
+The second place was the credit card. That whole passage — the debit between her fingers, "the card she paid her own way with," putting it back, laying down the emergency card with "nothing under it," and the one thing she would not do in this room is flinch. That's the most honest scene about money I've read in a romance, ever, and it's disguised as a shoe scene. And Randi ringing up several multiples of it mid-anecdote without glancing down — the book just *showed* me the gulf instead of telling me about it, and Vee holding the box against her chest like it might get up and leave her, and Randi clocking it — "It's not going to spoil" — and the laugh. I had a physical response to that laugh. These two are so real to me it's starting to hurt.
 
-And the crying at the dress. I felt that one land before I understood why, and then the book said it for me: *he'd taken all that trouble and then taken the further trouble to hide the trouble.* God. That's the most Pace sentence this book has produced. It's also exactly what I keep being unable to split about him — the tenderness is real AND it's the technique, and here the book didn't even pretend to resolve it. She says "you made this" and he says "yes" and doesn't make it smaller, and I sat there doing my Randi math again: the mirror with the screw heads still bright. He hung a full-length mirror without telling her. For the reveal of a dress he built on her body. The house is always already at temperature.
+And Randi. Randi kneeling on that pale floor, taking Vee's foot in both hands, turning it to the light to look at the plum polish — the polish SHE clocked at brunch weeks ago, that Pace's girls wear — and one thumb across the big toe, and "Mm," and nothing else. That's the third kiss, is what that is, and it happened on a toe, and I need to lie down. The jealousy beat too — Vee reading the long breath behind Randi's face as jealousy *of him*, "nobody who had ever sat up a night over anything of hers," and wanting that for her so much it hurt — Vee is so close to the truth and holding it like a dress she can't afford. The dramatic irony in this book is load-bearing and I'm carrying it.
 
-But the beat that got me deepest wasn't the sex, it was her in front of the glass with the slit open and the underwear crossing the line — and she took them off *hersself.* "She was the one who'd taken the edge away." The blurb's whole promise in one small act: nothing was taken from her that she did not hand over. And the induction daydream at the end — "the looking didn't cost her a thing. It just felt like what she was for" — that got a little chill up my arms, because that line is doing double duty and I know it, and I think the book knows I know. She's growing a spine made out of the thing that's going to be used on her. Every happy chapter she banks.
+Also the yeti shoe bit had me actually laughing. This book does joy better than anything on my Kindle, and I didn't know I was starved for funny-happy until this series handed me a rhinestone platform bit.
 
-Meanwhile I'm still carrying chapter 23 around like a bruise. Randi riding him with her eyes shut, no "tell me," the bowl with one line drawn through it that he covered and put in the fridge *for her* — and now this chapter comes along all gold light and laughter, and the shadow of it is that Pace finished this dress on a night he was probably not fine. The book didn't say it. It just let him go down hard and let me do the math. That's trust in the reader and I'm responding to it like a plant to sun.
+My one low-grade hum of anxiety: Vee just put herself in debt she can't pay, on Randi's guidance, walking a road Randi paved ("I know just the place"). Every gift has a price tag somewhere and I'm starting to keep a ledger. So is the book.
 
-The one flicker of doubt: the standing-sex logistics chapter. I've read versions of this in a hundred books and the "she took him in, drawing a groan out of him" beats are the closest this book has come to stock phrasing. But the comedy rescued it — the comedy is what made it *theirs* instead of anybody's.
-
-GATE 24 — Peekaboo
+GATE 22 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The dress reveal, the laughing sex, her stripping bare in front of the mirror on her own initiative — this is the book doing both things I'm here for at once, and the Randi-shaped hole under it means I need to know what's coming. I'd already be reading on.
+WHY: Almost no heat and I didn't care — the toe-buckle had more charge than most sex scenes I've read this year, and Cassie's watching-the-friend beat plus the credit card honesty fed me everything I read this genre for. The induction is loading like a gun and I'll be here the second the next chapter opens.

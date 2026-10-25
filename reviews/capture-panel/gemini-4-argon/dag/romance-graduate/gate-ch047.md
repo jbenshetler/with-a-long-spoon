@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch047 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-21*
+*capture-dag-v2-rich · gate ch047 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
 
 REACTION
 
-Oh, my chest hurts. Look at what this chapter just did to the sweetest moment of Chapter 45.
+OH MY GOD. My chest is physically aching right now. *"Words are cheap, and you still won't spend them on me."* I literally gasped out loud when she said that. That is an all-timer of a devastating line, and she earned every single syllable of it after two chapters of watching this question eat her alive from the inside out.
 
-When she asked him to wear that oversized flannel all weekend so it would smell like him again, and he pulled it on over his own shirt right there in the kitchen, I melted into a puddle. It was peak romance-hero devotion. And now, four chapters later, after the cracker-and-meal confession on the porch went unanswered and after the Chili's fight got drowned in mind-blowing sex that still left her nameless in the dark, she's up in her top bunk realizing the brutal physical truth of that shirt: *the heat in the shirt was her own, given back. He wasn't in it.*
+First of all, the detail that she left her overnight bag in the car and stayed on the door mat with her coat buttoned up to her throat and her hands in her pockets when he came to kiss her—my heart dropped into my stomach. Because he *did* have the heat turned up hours early for her, he *did* have the two glasses of wine poured on the counter, he *did* have spiced chicken simmering and quiet piano playing, and his face opened up the second he saw her. It’s not that he doesn’t care—that’s what makes this so excruciating! When she asks *"What am I to you?"* and his immediate, unhesitating answer is *"You're the most important person in my life,"* my brain short-circuited for a second thinking about Randi. Because he isn't lying to Vee! He doesn't do fake easy answers—if he says she's the most important person in his life, he actually means she has surpassed Randi, surpassed everyone.
 
-That is such a devastating, grown-up piece of emotional writing. Because first she strips off her own sleep shirt so she can have his flannel directly against her bare skin—no buffer, just him—and then even the smell of his sawdust and salt turns on her, because all of it is *what he does*, and none of it tells her what she is to him. And when she pulls it off and lies there bare in the cold dorm room from the two-inch crack in Cassie's window, refusing to put it back on and leaving it in an unfolded heap because freezing in the truth is better than warming herself with her own reflected heat... God. I have never read a two-page chapter before that hit like a physical gut-punch, and this wasn't a shortcut at all—it was a knife turn.
+And yet he *still* can't give her a noun! He can't call himself her boyfriend, he can't say what they are "out there" past his front door, because the whole architecture of his life—Randi, the secret, whatever happened in his past that makes him hold lines like a fortress—won't let him hand over a public label or an "I love you" on demand. Watching him try to logic his way around her pain with *"Do any of your friends have a relationship you'd rather have than this one?"* and *"Words are cheap. Believe what I do"* made me want to shake him by the shoulders. It’s the exact blurb beat finally landing in real time, and seeing it happen in the doorway of that warm house while she refuses to let his hands touch her and settle her back into compliance... I am proud of her and gutted for her at the same time. *"Not the hand in place of the word."* And the callback at the end to Chapter 46—*"She went out into the cold, and it was worse, and she did not go back in"* echoing her taking off his flannel shirt in the freezing dorm room and not putting it back on—is just surgical, devastating writing.
 
-What kills me too is her holding her thumb over the empty text field and putting the phone down because she *knows* he'd answer warm and small and it wouldn't fix a thing. In 99% of the romance books on my Kindle, she'd send somemanufactured-drama text right here, or misread a text from him. Here, the silence is completely earned and completely excruciating. She is finally refusing the comfort that keeps her from asking the question. What is she going to do tomorrow when she wakes up—or doesn't wake up, since she watched the window go grey—and has to face him or Randi like this?
+Wait—what happens tomorrow?! Tomorrow is Saturday! Does she go straight to Randi at brunch with this?! What happens when Randi hears that Vee walked out on Pace because he wouldn't name what they are—or when Randi hears that Pace told Vee *"You're the most important person in my life"*?! I need the next chapter immediately.
 
-GATE 49 — Bare
+GATE 47 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Turning the beloved flannel shirt from Chapter 45 into a trap that only reflects her own body heat back at her was a breathtakingly sharp emotional turn. It's barely two pages long, yet watching her strip the shirt off and choose to lie bare in the cold rather than comfort herself with his silence has me desperate to see what she does next.
+WHY: This is the exact collision the whole volume has been building toward—the blurb line ("Believe what I do") landing in the scene, Vee delivering the absolute gut-punch of "Words are cheap, and you still won't spend them on me," and walking out into the cold instead of letting his hands soothe her back into bed. I am desperate to see what Pace does now and what happens when this hits Randi.

@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch004 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 43278c09dc6d · 2026-10-10*
+*capture-dag-v2-rich · gate ch004 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 43278c09dc6d · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, so we're finally in Vee's head, and the dread comes from knowing more than she does. I watched Randi hunt her on the quad yesterday, and now I'm watching Vee spend three minutes "not looking at the door." That hurts in a good way. Every warm thing Randi does lands on Vee as a gift, and I see the move behind it. The arm squeeze. "The right pen." "I've decided." Picking the seat so Vee's in the middle. I've read a hundred books where the reader knows more than the heroine and it's usually cheap. This one isn't cheap yet, because Vee has an actual mind. The scene in Chi Latte where she looks over the two girls in crop tops is the best thing in the chapter. "Floozies" comes in her mother's voice before she's even finished looking, and under it there's a longer look the word doesn't explain. She's privately sure she'd wear the outfit better than any of them, then she shuts the thought down and keeps the cardigan on. That's interiority. That's a woman with a body and a whole history about it. And she wears a cardigan over the better shirt on purpose, while Randi turns up at Pace's in a cream cashmere one. Two women in cardigans, hiding different things. I see you, book.
+Finally, Vee. Three chapters in, I was starting to wonder if the jacket heroine would ever get a point of view, and this chapter answered fast. She has an inner life. The best part was the Chi Latte room: she sizes up the two girls in sports bras, and *floozies* lands in her mother's voice before she's even finished looking. Then there's the longer look underneath, at the cut of a stomach and a low waistband, and then the quiet smug thought that she has more than any of them and keeps it under a cardigan on purpose. "She did not look at either fact straight." That's a woman with a body and a judge in her head, and I believed every beat. She's hungry and doesn't know it, exactly like the jacket promised, and she's nothing like Randi. Randi's hunger is in her food. Vee's is in her clothes.
 
-Cassie, though. "Goodbye, Vee." That gave me an actual chill. She's the one person in the book so far who isn't performing, and she clocked Randi in about four seconds. I want more Cassie and I'm scared she's being written out. Vee smoothing it over ("It's *coffee*, weirdo") is so real it made me wince.
+What really got me is the dramatic irony. I watched Randi build that "accidental" collision a chapter ago, so all of Vee's *did she mean "we should sit together"* worrying hurts in a good way. I know she meant it. I know *why* she meant it, and Vee would die if she knew. The bit about the blank transcript, where Vee can't remember a single word Randi said, only the feeling, honestly creeped me out, in the best way. That's what being worked by an expert feels like from the inside. Same with "Yes, like the adjective": that's a polished, rehearsed line, and Cassie just doesn't play along. I loved Cassie immediately. Four words a day, and she's the only one in the room who sees it.
 
-The part where she can't remember a single word Randi said, only the feeling, is creepy in a really effective way. It reads like being love-bombed, and it reads like the first stage of a crush, and I can't tell which, which I think is the point.
+Little things I clocked. "Like a key in a lock" is back from Randi's bathroom mirror in chapter 1, so now both women have a key turning in them, and I'm watching that. Randi's ponytail "not moving" as she walks off: she gives the wind nothing, same as on the quad. The accent made me suspicious. Is it real, or another costume? And "love you, girl" after one coffee is so sorority it made me wince, and Vee eats it up.
 
-Now the gripes. The professor saying "*latent variables*" and Vee underlining it was the book nudging me in the ribs. I KNOW, BOOK. I read chapter three. Same with "like a key in a lock," which already got used in chapter one. "See you later" also gets taken apart for a whole paragraph after "Goodbye" did the job perfectly on its own. This is exactly my pet peeve: the book explaining its own subtext. It's not fatal here, but if it keeps doing it I'll start rolling my eyes.
+Where it lost me a little: "latent variables" underlined in her notebook is the book winking at me. I got it, I didn't need the underline. Cassie's "Goodbye, Vee" walks right up to the line of telling me something sinister is coming. It just about works because Vee smooths it over and moves on, which is so exactly her. One more nudge like that and I'd have rolled my eyes. The opening paragraph about bolted seats and the professor scrolling his slides was throat-clearing too, but it was short.
 
-Heat-wise this is a quiet chapter. Two out of four have been quiet now, with the hot one in between, so I'm not at my skimming point yet. But the jacket promised me a mathematician who sees her completely, and Vee hasn't even heard his name. The thing I'm actually here for is the next room over, and I want the door opened soon.
+No sex at all, and I didn't mind, because chapter 3 was hot and this one is the setup paying off. What I'd text a friend: "the girlfriend is grooming the new girl for her boyfriend's sex bench and the new girl thinks she's made a best friend and I am SCREAMING."
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "Vee wrote *latent variables* on her page because it was the last thing he'd said and her pencil was already moving, and then chairs were scraping and bags were zipping and the word sat there in her notebook, underlined once, going nowhere"
-WHY: Vee turns out to have a real inner life, with shame about her body and a crush she won't look at directly, and Cassie's "Goodbye" put an actual chill under all the warmth. The heavy-handed signposting cost it some points, but I need to see her meet Pace, and I need it soon.
+ROMANCE: 2
+ALMOST-STOPPED: "the word sat there in her notebook, underlined once, going nowhere" — the latent-variables wink, where the book nudged my elbow.
+WHY: Vee has a real inner life: her mother's voice in her head, the cardigan as a choice, a want she won't look at straight. Knowing what she doesn't know makes every warm moment feel dangerous. It's a quiet chapter, but the next one has to put her near Pace or near the bench, and I want to be there for it.

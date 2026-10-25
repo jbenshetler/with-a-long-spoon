@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b529b5725542 · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b529b5725542 · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. The tectonic plates just shifted under this entire book, and it made the hair on the back of my neck stand up.
+Oh, the venom running under all this silk. I feel sick in the best, most twisted way possible.
 
-Up until right now, we’ve been watching this elaborate, cruel, intoxicating little game where Randi was the puppet master and Pace was the courtly executioner. Randi was feeding on Vee’s blooming confidence like a drug, using Pace to vicariously taste a woman she can’t admit she wants. But this chapter? *Pace completely broke character*, and Randi felt the leash snap in real time.
+Look at what Randi is doing here. In chapter 20, she showed up angry, refused his stew, fucked him with her eyes closed, and threw his selfishness in his face. Now, on Monday, she’s back, and she’s completely changed tactics. She doesn't fight him on Vee anymore—she *climbs into the obsession with him*. She lies on his chest, purring, feeding his ego, talking about Vee like they’re two connoisseurs admiring a vintage they bought together at auction. She strokes his chest, tells him how romantic it is, and then—lethally—she rubs her breasts down his ribs, literally acting out the fantasy of them both on Vee to get him hard. It works, because of course it does; Pace has the emotional foresight of a fence post.
 
-Look at the progression of that first bed scene. Randi is lying on him, giggling, genuinely charmed by Vee, confessing that she keeps thinking of things to tell her just to hear her laugh, slipping into that hoarse, greedy whisper about what Vee keeps under her cardigan. She’s dragging her small breasts over his chest, trying to direct the porn film in her head—the threesome fantasy, her on top of Vee, using Vee’s body to stoke *their* fire. And then Pace stops responding to the script. He stops playing along. He looks right through Randi, into the middle distance, and describes Vee like a man who is actively, helplessly falling in love: *"She comes in and the whole thing goes brighter. Like somebody found the lamp... she's the most alive person standing there."*
+And then Pace walks right into the trap. Randi asks him what Vee does, and he says it: *"She comes in and the whole thing goes brighter. Like somebody found the lamp."*
 
-And Randi *froze*.
+The absolute *frost* that went through the room right there. *"Randi went still on him. Not the loose stillness of after. A different one, the kind that takes holding."* You can feel the floor drop out from under her. Randi thought she was running an erotic triangulation where she gets to consume Vee vicariously and keep Pace tethered to her. But Pace isn't just playing tailor anymore. Pace is *enchanted*.
 
-*"Not the loose stillness of after. A different one, the kind that takes holding."* God, that line hit like ice water. Randi realized, in one terrifying beat, that Pace isn't just an instrument in their shared game anymore. He isn't holding Vee at an erotic, tailored distance. He sees her soul. He is emotionally captivated by her.
-
-And look at what Randi does to cope with that terror: she immediately pivots into pure territorial reclamation. She finds him hard, mounts him, takes him, and then—for the first time in this entire book—*she stays*. She doesn't run out into the night to preserve her ice-queen mystique like she did after the mountain debrief. She asks him to cook for her. She puts on his undershirt (echoing Vee sleeping in his flannel). She cleans her plate (and you just know Randi never eats carbs in front of people). She lingers at his table, drinks his wine, and sleeps in his bed until morning. She is desperately, frantically trying to occupy the physical space in his life that she suddenly realized Vee is invading.
-
-The tragic, suffocating irony is that Randi *loves* Vee too. She admitted she keeps wanting to make Vee laugh, that Vee got past her walls before she could stop it. They are both falling for the exact same girl, but instead of bringing them together into some tidy, decadent fantasy, Vee is driving a massive, silent wedge right between them. Randi is possessive of Pace, but she’s also secretly possessive of Vee, and watching Pace actually *understand* Vee’s light just triggered every alarm bell Randi has.
-
-The tension in that kitchen was unbearable. The domesticity felt like a hostage situation. Neither of them said the real thing out loud, but the war has officially begun. I am buzzing.
+And watch what Randi does immediately after that chill: she uses Vee’s ghost to fuck him, and then she demands the very thing she refused in chapter 20. She puts on his shirt, sits in his kitchen, and lets him cook for her. She eats every single bite on the plate. She stakes her territory in that house down to the grain of couscous. It’s terrifying, it’s desperately sad, and it’s completely fascinating. Pace genuinely thinks this is domestic harmony; he thinks everyone is fed and happy. He has no idea he's sitting on a powder keg.
 
 GATE 23 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension when Pace described Vee as "the most alive person standing there" and Randi went dead-still was absolute perfection. Watching their polished, manipulative game start to crack under real feelings is insanely compelling. I have to see who breaks first.
+WHY: The psychological knife-fight happening beneath the post-coital haze was magnificent. Randi using Vee to turn Pace on, only to get gutted when Pace describes Vee as the light in the room, is absolute top-tier drama. I have to see how long they can keep this pretense alive before the induction dress blows it to pieces.

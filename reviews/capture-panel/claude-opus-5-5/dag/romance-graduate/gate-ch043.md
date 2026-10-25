@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
 
-## Reaction
+**REACTION**
 
-The table. "The long, unusually proportioned table that stood in the middle of his bedroom." Her thong lands on it, green, and "she never looked to see where it went." I put the phone down for a second. That's the bench, the one from my notes that's three feet from her pillow, and the book just had her throw her underwear on it without a glance. She's been sleeping next to it for weeks. It's the most frightening sentence in the chapter and it's dressed as a laugh line. I'm angry about the bench again, like I am every time I'm reminded of it.
+It's a short one, and it went somewhere I didn't expect. The heat isn't the point here. The point is her family seeing the edges of the picture.
 
-The hallway was the best thing in a while. The jeans as "the enemy," hopping on one leg, the white socks. Him just *not helping*, enjoying himself, while she has to laugh and then stop laughing to finish. And the bra: he holds it so she has to unwind herself out of it "like something off a spool." That's exactly his whole method in one gesture, and she's in on the joke. "She'd lost. She knew it. She put her mouth back on him anyway." That's adult play, and it's hot because nobody is pretending. Then "her body having just published the number she'd gone to such trouble to keep private." Five nights is a tally, and Randi was counting out loud on his couch two chapters ago ("that's more than three"). Everybody in this book counts and nobody says the number.
+The title got me before anything happened. *Cropped.* Mom has the induction photo printed and in her purse, cut off at the waist. Cassie gets "maybe." Randi gets the full uncropped one. Dad gets "the parts that fit." Pace gets the word only while he's asleep. Vee has been cropping herself for every audience all book, and now she's doing it to her own parents and can feel it. "I put a question mark on it. Out loud. Like I was asking them." That line hurt. *Boyfriend?* is exactly the word the jacket says he won't give her, and she said it in her parents' kitchen with nobody there to back her up.
 
-The flannel got me. A girl who washed his shirt because it stopped smelling like him, and the flicker of hurt on his face because he thinks she's giving it back. "He was good at not asking things." Yes he is, and that's the whole problem with him. Then he puts it on over his own shirt and wears two shirts in his warm kitchen because she told him to. That's a real turn. She's admitting nightly need out loud now, not *maybe*, and he receives it without making her pay for it. I'd text a friend about the two shirts.
+Then her mom. The nurse face. Watching her eat seconds "like they might be a trick." Sitting on the end of the bed to ask if she's making herself sick. I've been tracking the weight loss warily since the bras started riding higher, and now somebody in the book has said it out loud. Her mother is the person who taught her shame, and she's also the one person who noticed. That's an uncomfortable spot to put me in, and I liked it. Vee lies with "dancing." She's gone once. Cassie catches it in one line. I laughed at "How am I supposed to tell her it's the sex? The amount of sex?", and then I stopped laughing, because she is eating everything on her tray and still getting thinner. Is that just the sex and the swimming? Or is the book planting something? I don't trust it yet.
 
-What I didn't love: the pizza. I like him cooking, and the peel snap and the cornmeal sounding like sand are lovely. But "she could taste all of it… she had no frame for" is the third time in five chapters. Chapter 41 did it, chapter 42 did it *out loud to Randi*, and Randi repeated it to Pace. Then "cotton candy and cut strawberries" spells it out like I might have missed it. I didn't. I almost skimmed.
+The dad material was sweet. The burned rolls, him pricing the dress, picturing a man going grey. But the run where Vee talks about her dad and the weird-versus-wrong bit felt like the book explaining itself to me again. "Weird is something that doesn't fit anywhere in how he sees the world." I got that the moment she said he'd sew it. That's a mini-essay coming out of a 21-year-old's mouth in a cafeteria, and it's a gripe for the tally. "Sex he understands. The sewing he never would" was enough on its own. It's a great line, so let it stand.
 
-Also, I just watched Randi see her father's name on the worst point in the county and say "cheating bastards" in a voice nobody had heard before. Before that she said "God, I want her" into a couch rail. Now I get a cozy Pace weekend with nothing from that side. I know it's a breather and I know the table was planted on purpose, but the Randi thread is what's pulling me now, and this chapter made me wait for it in a robe.
+Cassie, though. "Is it that you can't say, or that you don't want to?" "Both." And then Cassie doesn't push. Vee is grateful, "and also, a little, not." That's the most honest thing she's said to Cassie in ten chapters. Cassie keeps asking the right questions and getting half-answers, and I'm worried this friendship gets crushed between the two people who are actually keeping score.
 
-## GATE 45 — The New Ordinary
-**DECISION:** CONTINUE
+What I'm cross about is that we skipped Thanksgiving at Pace's. Sheri, the pie she'd pretend to have made, and "I don't go back" played out at a table without Vee. Was Randi there? I've been waiting chapters for that, and I got Ohio told in retrospect. Maybe it's coming in a Pace chapter, the way the drawer came out of order. I hope so. Otherwise this is a hole.
 
-**CAPTURE:** 7
+And Randi isn't here at all, right after 41 handed me her father's fraud and "cheating bastards." So that thread is on a fuse I can't see.
 
-**NEXT:** 7
+What I'd text a friend at 1am: "her MOM asked if she's making herself sick and she said 'dancing.' she's been dancing ONCE. also she called him her boyfriend with a question mark in front of her parents and I need to lie down."
 
-**HEAT:** 2
-
-**ROMANCE:** 3
-
-**ALMOST-STOPPED:** "It was the difference, she thought, between cotton candy and a bowl of cut strawberries."
-
-**WHY:** The hallway play and the flannel are this couple at its best, and the thong on the bench was a shiver I didn't see coming. But it's the third time the book has walked me through her tongue, and the fire is on Randi's side of the table right now, so the next chapter had better go there.
+**GATE 43 — Cropped**
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "In some ways weird is worse than wrong. Wrong is something he understands and rejects. Weird is something that doesn't fit anywhere in how he sees the world." It's the book narrating its own theme at me in a cafeteria.
+WHY: It's quiet, but it's sharp. The cropped photo, the question-marked "boyfriend," and a mother who finally says the weight thing out loud all hit. I want the next chapter more than this one held me, because I'm owed Thanksgiving at Pace's, and Randi has been gone since her father's name showed up on the screen.

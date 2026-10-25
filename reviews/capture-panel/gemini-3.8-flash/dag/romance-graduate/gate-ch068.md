@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-*Holy shit.* My heart is beating so fast right now.
+Holy shit. Holy *shit*. My hands are actually shaking. I have never seen a trap snap shut with this much terrifying, velvet-gloved precision in my entire life.
 
-Look at what Randi did. Look at how masterfully, tragically, and desperately she orchestrated the entire thing. She puts Vee in an iridescent skirt that is basically a belt, lets her dance until her bare ass (which Vee *just* got waxed completely bare yesterday, for God’s sake!) is practically hanging out in front of the entire room, and then uses some random frat guy as a prop to pull Vee into the filthiest, most consuming, open-mouthed kiss they’ve ever had.
+Pace. I need to talk about Pace right now, because what he just pulled in that bed was an absolute masterclass in psychological manipulation disguised as tender, domestic care. The man is a sociopath of the highest erotic order. She runs to him at one in the morning, panicked, desperate, vibrating with her own confused sexuality, literally trying to use his cock as an eraser to scrub Randi’s mouth out of her head—and what does he do? He catches the scent of blood instantly. He stalls her. He rations her own climax inch by agonizing inch, forcing her to buy her pleasure back in the exact currency of her darkest confessions. He literally makes her narrate Randi’s hands on her hips, Randi’s damp silk back, the taste of salt and lime, until Vee is completely stripped bare, sobbing the truth into his neck just to be allowed to come.
 
-And then—the knife twist that made my stomach drop—Randi pulls back, catches her breath, and immediately slaps the sorority-girl mask back over the ruin of her face: *"You really did a great job putting on a show. I almost believed it."*
+And the sick, brilliant, twisted joke of it all is that *Vee thinks she’s confessing a betrayal*. She thinks she’s bringing a dirty secret to a pure, noble boyfriend who is miraculously being a "good sport" about it. She has no idea—none, zero, not a damn clue—that Pace and Randi literally fucked two days ago talking about this exact thing. When Vee was on that bed describing Randi’s mouth and how much she wanted it, Pace wasn't getting off on some abstract fantasy; he was watching the puppet show he and Randi built finally play out in real time.
 
-*I almost believed it.* God, Randi is a coward and a genius and I want to scream at her. She is in love with this girl, she is literally using her body with Pace in bed while whispering Vee’s name, and now she takes the one thing she wanted more than breath, devours it in front of Brooke and the entire house, and then hands it back to Vee as a *joke* so she doesn't have to face the fallout. And Vee, poor, hungry, thoroughly undone Vee, takes the folded-up lie because she doesn't know what else to do with a body that is vibrating with need for her best friend.
+And then the aftermath. God, the psychological cruelty wrapped in warm cashmere and a glass of water. When she tells her first real lie to him—denying the pattern of the goodbye kisses—and then lashes out with *"You want Randi,"* and he gives that gentle, soft, *"You keep saying her name. Not me"*? I gasped. He deflected the spotlight so cleanly it left my head spinning, and poor, naive, broken Vee interpreted it as him being sweet and vulnerable. She thinks she "got away with it." She thinks she survived the blast.
 
-The psychological warfare here is unreal. Pace gets her on Friday and turns her into a painted fruit still-life; Randi gets her on Saturday, grabs her ass in front of a hundred people, and French-kisses the soul right out of her mouth while pretending it’s a bit. Vee thinks she's living this glamorous, chosen life, but she is being pulled apart at the seams by two people who are both obsessed with her and neither of whom will say the true thing out loud. I need the aftermath of this mixer immediately.
+Meanwhile, she’s lying in the bed of the man who just thoroughly fucked her, completely raw and emptied out, and her brain is already counting down the hours until Tuesday night anthropology with Randi. She’s cooked. She is entirely, hopelessly cooked. I need Tuesday night immediately. Do not make me wait.
 
-GATE 70 — On Her Floor
+GATE 68 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension snapped in the best, most excruciating way possible—that kiss had months of built-up longing behind it, and Randi instantly wrapping it in the protective lie of a "performance" was devastating. The psychological layering between what their bodies are doing and what they're pretending to do is top-tier erotica.
+WHY: The psychological tension is at a suffocating, breathtaking peak—Pace extracting Vee's confession about Randi inch by inch while fucking her was absolute genius. I am completely hooked and need to see the fallout on Tuesday.

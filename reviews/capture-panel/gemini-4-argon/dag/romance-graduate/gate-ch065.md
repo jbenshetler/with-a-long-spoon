@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch065 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · 2026-10-21*
+*capture-dag-v2-rich · gate ch065 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, that beat across the tablecloth where Randi's thumb goes completely still on Vee's hand. My stomach actually dropped.
+God, this book is so smart about the difference between what a body responds to and what a heart actually wants. I have never read a Brazilian wax scene in a romance novel that managed to be simultaneously hilarious, wince-inducingly accurate, deeply psychological, and somehow scorching hot.
 
-Because on Sunday morning, over eggs with Pace, Vee admitted to him and to herself with a big, delighted laugh: *"I liked it, honestly. Best thing that's happened to my legs in a Virginia January."* She *did* like a woman looking at her with pure sexual appreciation. And Randi clocks it instantly—"And you liked it"—not with her usual bawdy teasing, not with the "gorgeous" armor, just flat and quiet, testing the water and feeling a sudden flash of jealousy that another woman looked at Vee like that. And Vee panics! Because suddenly the question is Coming From Inside The House, from the woman whose eyes she literally came to in the restaurant bathroom stall a week ago, and Vee blurts out, *"No. No. Not my thing."*
+From the jump, that observation in the waiting room—splitting the world of women's grooming into the girl who came "to be looked at" (assembling herself for a room) and the girl who came "to be touched" (the loose, warm look of private maintenance for one set of hands)—was so sharp. And watching Vee realize which one she is now! The way Pace asked her on Sunday (*"I'd like you waxed. By the weekend. Bare... Will you?"*) is peak Pace: he never gives a speech or explains his reasons, just hands her the plain ask and leaves all that open space for her own imagination and daring to rush in with a *yes*.
 
-God, that broke my heart for Randi, even while Vee is sitting there doing her adorably oblivious straight-girl math (*aw, she thinks Sheri is still a threat to Pace!*), and Randi just says *"I know she isn't, gorgeous"* with five different layers of meaning underneath it. You can feel how much it costs Randi to take that *"Not my thing"* on the chin and just keep stroking Vee's knuckles.
+And then the actual table! First of all, *"Under everything she was still a girl who said sorry to furniture"* followed immediately by her blurting out *"Fuck—"* on the first rip made me bark out a laugh. The contrast between her Ohio mother's flat kitchen voice in the back of her skull (*the kind of girl who*) and Sondra's bored, coffee-order nod when Vee has to force herself to say *"Everything. All of it. Bare"* out loud captured that exact humiliation of the first time so well.
 
-And THEN—the waxing! Wait. Hold on. First of all, why didn't we see Pace ask her for that on Sunday? Now I want to know how that conversation went down! Second, look at Randi's eyes going somewhere over Vee's shoulder and coming back "with the whole week arranged in them." *Call in the morning, not the afternoon, and say my name in the first sentence.* What is she arranging?! Are Pace and Randi coordinating this? Is Randi going to show up at Sondra's, or is this setting up something for Friday night? And that goodbye kiss on the sidewalk—Vee tilting her face up with her eyes already closed, waiting for Randi's hand on her jaw, the kiss staying longer, Vee's mouth going straight to Randi's neck without either of them pretending it's an accident anymore right after she claimed women "weren't her thing." The hypocrisy of desire here is so real and so delicious. I need Friday immediately.
+But the beat that actually made my breath catch was when she started getting wet on the paper table just thinking about why she was there, squirmed to hide it so Sondra wouldn't see, and Sondra clapped a flat, impersonal hand onto her thigh and said, *"Don't move."* The way the prose unpacked that—how Vee's body has learned the grammar of a firm hand pinning her down and telling her to hold still, but because Sondra's hand is completely clinical and has all the desire "scooped out of the middle," it becomes *the wrong hand*, opening a mile-wide ache in her for *the right hand*—was brilliant. That is what separates real erotic writing from standard-issue spice. It's not just about the act; it's about the emotional architecture of submission and why it only works for her because Pace wants her.
 
-GATE 67 — Between
+And then the false floor of *"Roll over for me, hon. Onto your front"*! I was dying. Of *course* Randi left that part out along with *"Barely stings"*! There is something so darkly funny and dizzying about the fact that Vee is lying face-down on crinkly paper getting the back done because Pace asked and Randi coached her into it—she's literally being prepped by both of them at once without knowing it. And when she finally touches herself alone in the quiet room afterward, makes that sound, and walks out through the honey light feeling like "the most expensive thing in the room"... Friday night at Pace's house cannot get here fast enough.
+
+GATE 65 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The micro-beat where Randi's thumb stops moving and Vee reflexively lies ("Not my thing") before turning her face up for Randi's kiss on the sidewalk is top-tier emotional tension, and the sudden drop of Pace asking Vee to get waxed bare—plus Randi's scheming look when she tells her to book Sondra on Friday—has me turning the page immediately.
+WHY: Turning a first-time Brazilian wax into a genuinely charged, psychologically razor-sharp study of Vee's submission—especially that distinction between the clinical "wrong hand" pinning her thigh and her ache for Pace's "right hand"—is exactly why I love this book. Now she's bare, feeling like the most expensive thing in the room, and heading straight into Friday night with Pace.

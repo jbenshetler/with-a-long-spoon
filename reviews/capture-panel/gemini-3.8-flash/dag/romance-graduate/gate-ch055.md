@@ -1,31 +1,22 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, my stomach is in absolute knots. My heart melted right in my chest and then immediately turned to ice.
+Oh, this was *medicine*. After the sheer sensory overload and emotional whiplash of chapters 51 through 54—the weeping in Randi’s room, that desperate, soaked-coat reunion on the porch, the sheer indulgence of the persimmon-and-cashmere Saturday, and the mounting tension of Pace wanting to enter her real world—we desperately needed this room. We needed the two-inch draft, the hot popcorn dust, the stacked white athletic socks, and Cassie’s dry, grounded sanity.
 
-First of all: the sheer, devastating intimacy of him doing dishes while she sits naked on his handmade chair, prattling on about her day, and he just casually reaches onto a mental shelf and recites her entire life back to her. *“Your heel came up out of the right one when you pushed off.”* Are you kidding me?! He remembered a throwaway comment about Meg’s hiking boots from *October*. He remembered her exact phrasing about Kayla talking the paint off a wall. In romance, an alpha billionaire can buy a woman an island and it doesn't hit half as hard as a quiet, stoic man revealing that he has archived every stray syllable that ever tumbled out of her mouth while he stood at a sink. It is deeply romantic, wildly tender, and it completely validates why Vee is so hopelessly in love with him. He makes her feel seen down to the grain of her life.
+Vee fabricating an entire sitcom plotline about Pace shrinking her cranberry sweater to explain why she was stranded naked in his kitchen had me grinning like an idiot. *“Pace. Shrank your sweater.”* Cassie’s deadpan delivery is unmatched. Cassie knows it’s total bullshit, Vee knows she knows, but it’s the exact kind of face-saving, affectionate lie that best friends let stand because the joy radiating off the girl in the beanbag is too big to pop.
 
-And then—the horror. The absolute, screaming dramatic irony that is about to level this entire novel.
+And then that tiny, breathtaking beat at the end: *“My mother says thank you for the card. She wants to know when she gets to see you again.”*
 
-*“I want to meet your people.”*
-*“You could meet Randi... We could do a dinner. The three of us.”*
+My breath caught. It hit like a soft punch to the sternum. While Vee’s own mother was busy scrutinizing her weight and fussing over high-necked sweaters back in Ohio, Cassie’s mom is keeping a card on a mantel and asking when the girl is coming back. In a book overflowing with Michelin-star food and feverish, border-crossing sex, the quiet emotional weight Rivers gives to the *other* kinds of nourishment Vee is receiving is just stunning. Cassie provides a totally different kind of sanctuary than Pace’s house or Randi’s velvet trap. It’s narrow and drafty and smells like radiator dust, but it’s completely real.
 
-I had to put my hand over my mouth. Vee sitting there, naked and glowing, imagining her two favorite people in the world meeting for the first time—*“finding out about each other”*—while Randi has literally taken Pace’s cock down her throat, while Pace has Randi’s cashmere chill-blanket folded on his bed, while they plotted together to orchestrate Vee’s entire sexual awakening! It is breathtakingly painful. And Pace, playing it so smooth: *“Bring Cassie, too... Then it can’t be a dinner table. Tables have ends.”*
+What gives this chapter its low hum of dramatic irony, though, is the ticking clock. Vee falls asleep with her hand against the cold cinderblock feeling like the world is finally stitched back together: Pace is hers, he volunteered to meet her people, and Friday will come. But she has *no idea* what’s waiting for her on Tuesday. She has to sit next to Randi—who kissed her, who Brooke explicitly warned about the house watching, who gave her the shoes that started all of this—and Pace is gearing up to step into the daylight. The peace in this dorm room is gorgeous, but God, I know it's the eye of the hurricane.
 
-He is deliberately defusing the three-person dinner bomb. If it’s just Pace, Vee, and Randi, the kinetic charge between the two of them, the shared history, the private glances—it would be impossible to hide from Vee across a table with “real napkins.” He knows it. So what does he do? Simpson's Paradox brain strikes again: he dilutes the data set. He expands the party to Kayla, Meg, Danny, Theo, Cassie. He builds a crowd so he and Randi have cover, while making Vee feel like he’s gallantly opening his life to her entire social circle. It’s brilliant, it’s protective, and it is a terrifying house of cards.
-
-And Cassie. Sweet Jesus, Cassie is going to be in the room. Cassie, who doesn't miss a goddamn thing. Cassie, who saw Randi's father's fraudulent PPP loan, who saw Vee come home in a man's sweatpants and stilettos, who clocks dynamic shifts with one eyebrow. You put Pace, Randi, Vee, and Cassie in a room together? Cassie will solve the entire equation before the appetizers arrive.
-
-Pace saying *“Let me handle it”* with that rare flash of happiness... God, he thinks he can engineer this. He thinks he can manage the variables. He is walking them all straight onto a landmine, and I am sweating just waiting for the explosion.
-
-***
-
-GATE 57 — Back
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute psychological genius of this book—it gave me the most heart-melting romantic beat (him remembering her friend's boots from an October hike) and used it to set the fuse on a catastrophic social collision. Vee planning a meet-the-friends night with the man and woman who are secretly sleeping together and playing her is top-tier agonizing tension; I need the next chapter instantly.
+WHY: A perfect, quiet decompression chapter that gave Cassie the stage she deserved. The cranberry sweater lie was hilarious, the beat about Cassie’s mom was deeply touching, and the contrast between the narrow dorm bunk and Pace's king bed lands beautifully right before the chaos of the semester begins.

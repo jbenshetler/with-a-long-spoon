@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch014 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · 2026-10-21*
+*capture-dag-v2-rich · gate ch014 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
 REACTION
 
-Okay, first of all, *twelve days*?! It has been twelve days since the kiss under the tree, which means Pace has been slow-roasting this poor girl for nearly two weeks without laying a finger on her, even after she stripped in his truck! No wonder she is climbing the walls. That line — *"I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner"* — is the exact thesis statement of Pace's whole seduction style. He doesn't push, he gives her total control over the small things, and it creates a vacuum that makes her desperate to throw herself at him.
+Okay, first of all: *"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon."* THANK YOU, KAYLA. Two o'clock on a Saturday in that warm little house off Route 614! We are finally going to his house. Where the bench is. Where Randi just rode him in the lamplight four days ago and then bolted out the door into the cold.
 
-I did feel a tiny twitch of impatience when I realized this was *another* post-hike debrief scene. We just had Vee tell Cassie about the flannel shirt in Chapter 13, and now we're watching her tell Meg and Kayla the PG-13 version of the exact same story (Notice how she left out unbuttoning her wet shirt in front of him! She told Cassie the real truth, and she gave her dining-hall friends the curated rom-com version). Normally, hearing the same date recapped twice would make me skim, especially introducing three new college kids (Meg, Kayla, Theo) fifteen chapters in.
+This was a total palate-cleanser bridge chapter, and honestly, it did something really smart by zooming out to normal twenty-one-year-old college life. After the intense, suffocating, stomach-dropping charge of Chapters 11 and 13, sitting in a golden dining hall with Meg and Kayla made me realize just how far out of normal college waters Vee actually is—and how completely she doesn't see it.
 
-Except... seeing Vee in her normal, low-stakes friend group actually did something to me. She’s laughing with her whole body, stealing fries, being a normal twenty-one-year-old girl whose friends are hyped for her, and it made the shadow of what Pace and Randi are doing feel so much heavier. Especially when Meg smiled into her mac and cheese and said, *"Everybody's different at the start... Sometimes they even are."* Oof. And Kayla joking, *"That's not a message, that's a ransom note"* about Pace's text! I almost gasped out loud. You have no idea, Kayla.
+Look at what she edits out of the truck story! With Cassie, she told the whole truth: *I knocked on the glass and I took my wet shirt off in front of him on purpose.* With Meg and Kayla, she skips the entire strip-show in the cab and jumps straight from "he stood in the rain so I could change" to "I turned and he was right there, shivering." Even when Meg calls her out on *"skipping the middle,"* Vee keeps that secret between her, Pace, and Cassie. Just like Pace kept it from Randi! Everybody is hoarding little pieces of that truck scene.
 
-Also, filing away the fact that Pace is an actual powerlifter who lifts first thing every morning and writes math for six hours until his brain taps out. That tracks *so* hard with the way he's built and the way he compartmentalizes.
+And then there's Vee trying to explain Pace's dom game to two regular college girls who are dating guys named Danny and turning down sweet guys named Theo. *"It sounds like nothing. I can hear it sounding like nothing. And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner."* And Meg—bless her normal, well-adjusted heart—just smiles into her mac and cheese and goes, *"Everybody's different at the start. I said it about Danny."* The dramatic irony is killing me. Meg thinks Vee is just dickmatized by a polite grad student who powerlifts; she has *no idea* that Vee is being systematically walked into a D/s threesome trap by a guy with a custom spanking bench in his bedroom and a sorority Standards chair who knows what Vee's perfume smells like after six hours on her throat. (Also, Kayla joking *"That's not a message, that's a ransom note"* after Cassie's *"No windowless van"* last chapter? The universe is literally screaming at this girl and she's just folding his flannel on her pillow.)
 
-And now: *Would you come to my house Saturday. Two o'clock.*
+I'm ready for Saturday at two. Let's get her through that front door.
 
-"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon." My stomach literally dropped in the best way. She's going to the house off 614. The house where Randi just rode him to pieces and fled into the night. The house with the bench in the bedroom. Saturday at two o'clock cannot get here fast enough.
-
-GATE 15 — What to Wear
+GATE 14 — What to Wear
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Even though recapping the hike and the flannel shirt a second time felt a little repetitive at first, seeing Vee edit out the strip-show for her normal friends — and hearing her admit she's losing her mind from Pace's patience — worked on me. Plus, that text at the end ("Would you come to my house Saturday. Two o'clock.") has me desperate for the next chapter.
+WHY: It's a classic setup/bridge chapter, so the immediate tension is lower than the hike or the bedroom scene, but watching Vee edit the truck story for her normal friends—and seeing that Saturday 2:00 PM text land—has me dying to see what happens when she finally walks into Pace's house.

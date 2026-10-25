@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this man is engineered in a laboratory to ruin me. The furniture, the cooking, the sewing, the powerlifting, the math, the useful medical patent—and somehow the detail that got me was the battered fantasy paperbacks. Fine. I surrender. When he explained error-correcting codes as saying a thing more than once so noise can’t kill it, I felt the book quietly load a weapon for later.
 
-Oh, this man is a fucking trap.
+The closed bedroom door was exquisitely mean. Vee came dressed for that room, let him see her lean toward it, and he simply redirected her into daylight. I felt her little drop, and I also immediately understood that whatever he had planned required anticipation, permission, and very good light. The heat never disappeared; it just migrated into the measuring tape.
 
-The kiss at the door got me immediately—not merely because it was hot, but because Vee arrived wanting and took what she had been waiting for. Then Pace stopped first, and I felt her entire understanding of men shift by half an inch. He can be desperate for her and still govern himself. For a woman accustomed to being the brakes, that is catnip.
+And the dress absolutely got me. Not because he bought her something expensive, but because he listened to a wish she was embarrassed to have, recognized that the exact wish wasn’t actually right for her, and answered the person rather than the magazine. That is Vee’s deepest hunger. He didn’t just remember the color; he saw her more accurately than the version of herself she had learned to want. Of course she says yes. I would have been blinking back tears too.
 
-And then she asks to see “the whole thing,” while I know perfectly well the whole thing includes a disguised bench built for sex with Randi. He shows Vee his mind, his books, his work, his competence, his tenderness, his beautiful view—everything calculated to make him more knowable and desirable—while leaving the bedroom door shut. She thinks nothing is being withheld because he performs withholding so gently. Sir. You absolutely did not show her the whole thing.
+Which is also why I’m scared. This is almost indecently intimate courtship happening inside a concealed experiment. “Down to what you’d wear under it, in good light” is a real request, and he does leave it open—but he has built the entire afternoon toward that yes with terrifying precision. The warm house, the stopped kiss, the closed bedroom, the tour of competence, the silk waiting in the sunroom: come on. Her choice is genuine, but he knows exactly what her hunger is and she still doesn’t know why he first looked at her.
 
-The two towels made the back of my neck prickle. Vee sees evidence that this solitary man’s bathroom accommodates another person and walks straight past it because she has no reason to investigate. I do. Randi is all over this house in negative space. And after watching Randi use sex with Pace to consume details about Vee, I cannot look at any shared domestic trace innocently.
+Also: two towels. Two. Randi’s towel? A towel deliberately placed for Vee? The title has made that tiny domestic detail itch under everything else, and I do not believe I’m supposed to forget it.
 
-I was in danger of rolling my eyes when the mathematician-furniture-maker-cook-powerlifter casually acquired a medical-imaging patent too. Of course he did. We are approaching handcrafted artisanal fantasy-man levels. But the reason he likes the patent saved it for me: frightened people, sick people, children getting out of the machine sooner. That is exactly the sort of detail Vee would fall through, and apparently so am I. Worse, the explanation about messages surviving noise feels like a promise the book is making under the scene. These people keep saying their desires more than once, in bodies and choices and evasions, hoping the truth survives all the interference.
+I am absolutely reading the measurement scene now. This is exactly the kind of eroticism I’ve been starving for: nobody is naked yet, and a coiled measuring tape has become more charged than entire sex scenes in other books.
 
-And the dress. Goddammit, the dress.
-
-He didn’t buy the fantasy she named. He listened closely enough to improve it for her—not by correcting her, but by seeing which color would actually cherish her coloring. That is obscenely romantic. She told him about a want she had already disciplined herself out of having, and he quietly began building it back into the world. “He’d matched her” nearly finished me.
-
-But I am not swooning so hard that I miss the machinery. The house is overheated. The bedroom stays closed. The silk is waiting in the brightest room he owns. He has already made a fitted shirt, so Vee can realize for herself that his offer is plausible. Then, only after the emotional gift has become almost impossible to refuse, comes the requirement: he must measure her down to what she’ll wear beneath it, in good light. He does leave the choice open. Her yes is real. He has also constructed the most devastating possible route to that yes. This is the entire book’s problem in miniature, and it is working on me exactly as advertised.
-
-Also: she dressed in satin hoping to show him, felt rejected by the closed bedroom, and now has been offered something far more intimate than simply being taken into it. He is going to look at her with purpose. Measure her. Learn her body as a problem of line, weight, drape, and fit. Make something that can only belong to her. I am not fooled by the absence of nudity here. This is foreplay with a measuring tape, and I am already feral for the next chapter.
-
-GATE 16 — Two Towels
+GATE 15 — Two Towels
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dress offer hit every part of me at once: grown-up tenderness, frightening attentiveness, concealed manipulation, and a deeply erotic choice Vee makes without yet knowing the whole arrangement around it. I need to see what happens when he uncoils that measuring tape.
+WHY: The dress is both a devastating act of attention and a perfectly constructed path toward Vee choosing to be seen nearly naked. I’m emotionally melted, sexually wound tight, and deeply suspicious of the second towel.

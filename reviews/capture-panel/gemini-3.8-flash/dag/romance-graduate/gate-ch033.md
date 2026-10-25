@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch033 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 13e407d9f33a · 2026-10-01*
+*capture-dag-v2-rich · gate ch033 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, god. The sheer psychological claustrophobia of this book is incredible, because on the surface, this chapter is pure, melting, aftercare-drenched romantic heaven—and because I know what’s under the false tabletop against that wall, every single tender beat feels like watching a lamb happily climb onto the altar.
+*Jesus.*
 
-The playfulness at the start was so earned and so damn hot. Her realizing she’s faster than him, drunk on having stripped him bare, dancing in just her heels and underwear, flashing him—Vee coming alive in her own skin, shed of the church-basement casseroles and her mother’s voice. And Pace’s patience! When he checked her wetness, the way he looked at his coated finger not with mockery, but like it was “true and fine and hers”—that completely gutted me. That is the exact fantasy, isn’t it? The man who doesn’t treat a woman’s desperate, soaking arousal as dirty or excessive, but as an offering he reveres. And then the aftercare: bringing her cold juice, laying her head in his lap, repeating *wonderful, wonderful* until she falls asleep feeling *treasured*.
+Look at her. Just look at what this man and this house have done to her in what, three weeks? The girl who was having an absolute, throat-closing identity crisis over the word *floozy* at a honky-tonk six days ago just walked down a lit hallway wearing nothing but four-inch heels, cocked her hip, and looked a grown man in the eye to make him choose between her dressed and her naked. And she *owned* it.
 
-And then the scrunchies! He bought a whole pack of them because she’d had a moment of tears over her wild hair on Monday morning. He’s domesticating her. He is weaving her into the fabric of his house, one quiet, bespoke gesture at a time, making it safe for her to leave a toothbrush, to bring an overnight bag, to surrender her defenses.
+What gets me—what made my stomach do that hot, heavy drop—is the discipline of it. This whole chapter is pure, uncluttered erotic control, but it’s *hers*. She puts him in the recliner. She tells him he can’t help, can’t guess, can’t touch. She puts her hand out flat like a stop sign when he tries to stand up, and this massive, weight-lifting prodigy who could snap her in half just sits his ass back down and obeys her because he knows reverence when he sees it.
 
-Except: *“Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere.”*
-My stomach literally dropped reading that line. Because there *is* a witness. Randi is sitting right there in stats, Randi put those heels on her feet, Randi primed her in that piano closet, and Randi is going to hear every filthy, humiliating, beautiful detail of this spanking the second she gets her claws into Vee again. Vee thinks Pace's spanking was the antidote to Randi’s story—tender, private, no performance, no audience. She has no idea Randi and Pace are playing the exact same song, just dividing the parts.
+And the psychological layering here is suffocatingly good. She brought the dress fifty miles in her backseat because she couldn't stand the thought of anyone having seen her in it before he did. She gave the induction hall a show, but the *real* performance—the secret underneath the secret—was always for him. "And this is what I had on under it." God. The sheer, shameless brilliance of using Halloween to rebrand her absolute exhibitionism as "costumes" so her leftover Catholic-guilt brain has a little ledge to stand on.
 
-The only jarring beat in the whole thing was Vee's little mirror monologue: *"My Victorian LARPing does me no good at all..."* That phrase felt a little too meta-clever, like the author winking over Vee's shoulder instead of Vee's actual inner voice, which is usually so rooted in her real working-class shame. But it passed fast, and right into the sensory grounding of him cooking for her, the toasted spices and the cold Chinese beer. I am completely hooked. The contrast between how genuinely gentle Pace is with her body and how utterly damned she is in their trap is top-tier tension.
+Pace playing it entirely with his eyes was perfection. If he had lunged for her, the spell would have broken; it would have just been another horny guy on a couch. But he stayed still. He let the look be the touch. He gave her the exact thing she was starved for: complete, undivided, breathless adoration. "The other is for the world. This is just for me." He says the kind of lines that make you want to curl your toes into the carpet.
 
-GATE 35 — We Find Out
+And yet—the knife is twisting the entire time, isn't it? Because who picked those shoes? Randi. Who knelt on the carpet and buckled the thin dark straps around her ankles? Randi. Vee thinks she’s standing there completely bare, stripped down to just herself and Pace, and she has no idea she is literally wearing Randi’s taste like an invisible collar. Every step she takes in those heels is a ghost-touch from the woman who is sleeping with both of them. It’s breathtaking, it’s gorgeous, and it’s a total ticking time bomb.
+
+Turn the page. Right now.
+
+GATE 33 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "My Victorian LARPing," she told her reflection, "does me no good at all when I'm sweaty and sticky."
-WHY: The "Victorian LARPing" line was a tiny blip of modern self-awareness that sounded like BookTok snark rather than Vee's genuine, hard-won interiority, but the rest of the chapter was a masterclass in slow-burn domestic eroticism. The contrast between Pace’s devastating tenderness and the lurking trap makes it impossible to stop reading.
+ALMOST-STOPPED: none
+WHY: The absolute erotic authority of Vee putting him in the chair, walking the hall bare-ass naked in those four-inch heels, and Pace having the restraint to just sit there and worship her with his eyes—it's scorching, brilliant character work.

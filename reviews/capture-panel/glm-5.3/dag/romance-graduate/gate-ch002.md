@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch002 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 17f83d064d79 · 2026-10-01*
+*capture-dag-v2-rich · gate ch002 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 17f83d064d79 · dated · 2026-10-24*
 
-REACTION — Okay, so the floor dropped out from under me at the end of chapter one, and I need a second to be mad about how good that trick was. The blurb sold me Vee. Chapter one opens with a young woman straddling a sweet, patient man in a henley, and only in the last thousand words does the book say *Randi* and everything re-locks into place. The glamorous friend. The one who's supposedly steering Vee toward him someday. So chapter one wasn't the seduction of the heroine — it was already the game, or already real, and the jacket's "nothing was taken from her that she did not hand over" suddenly has teeth. I flipped back to the blurb mid-read like a fool and sat there going *oh, you sneaky thing.*
+REACTION:
 
-And that bathroom scene gutted me. The face as armor, the smile she practices in the mirror, "the face had been lying for years" — that's the interiority I'm supposedly not getting from romance anymore, except here it is, in a book I bought for the bench scene. And the bench scene *earned* it. The apple slices cut thin because she eats thin ones. Him staying hard and setting it down as a fact because that's not what the night was for. "There you are, Randi." I underlined that in my head so hard I dented it.
+Well. That bathroom scene last chapter was one of the best things I've read in years — the bit with her trying the photograph smile in the mirror and seeing it sit *on top of* the face that had begged, that actually got me. And now this. The whole book so far is Randi's mask and the crack in it, and this chapter is the crack spreading in slow motion through a sorority house on a Saturday morning, and god help me, I'm in.
 
-Chapter two is the hangover, and I get why it has to exist — she walked into her sorority in last night's clothes and Brooke ran a smiling interrogation on her, and every beat of that hit. The "Not his section" fraction-of-a-second. Sloane's "he's five-foot-nine, sir" made me laugh out loud. Brooke not standing to stop her — that's exactly how power works in those houses, and Randi clocking it from the inside because she sits on Standards herself. The lying-with-a-smile improv, "a study group and then somewhere quieter on Wilson," the three lines she never got to deploy.
+Brooke. I *know* Brooke. I've known a dozen Brookes — the warm voice deployed like artillery, the "can I ask" face, the not-standing. That whole kitchen-table interrogation was so exact it made my shoulders climb. The way Randi's smile "arranged" a fraction late. The way her laugh matched Kinsey's pitch before she'd chosen it. This writer knows what performance costs, calorie by calorie, and I've never seen anyone put the *metabolism* of a sorority house on the page like this. "Cute? Like — short-cute?" — Kinsey is every nineteen-year-old who ever lived, I cackled and then felt bad.
 
-But I'm not going to pretend I didn't notice it's the quiet morning-after and I'm two-for-two on chapters where nobody's had a coffee yet. What's holding me is that the hum is still there — she lies on the bed *in her shoes*, and the "not a door" paragraph about not-crying was the best writing in the chapter. This isn't a book stalling; it's a book breathing. I know the difference. I'm just aware that if chapter three is also Randi in rooms not-crying, I'll start skimming.
+But what really got me was the room scene. Her lying down in last night's clothes with her shoes still on, under a duvet she describes as "not — it was a duvet," right after a chapter where Pace wrapped her in *cashmere*. This book is doing that on purpose. The closet with the disciplined palette, the hand lifted toward it and brought back down, unable to locate what she came for — she's a woman whose entire self is a curated inventory and last night somebody found the stockroom. And that line, *He's hard to say no to*, replaying in a key she can't sing in. I put the book down for a second after that one.
+
+It's a cold chapter and I mean that as a compliment — the heat is all memory and all fallout. No Pace, no Vee yet, just a girl in the wreckage of her own composure, and the ending — "it felt like there being no door" — genuinely unsettled me, because I remember the jacket: he and Pace are going to *pick* Vee together. Randi, who just got cracked open and immediately sealed herself shut with her shoes still on — this is the woman who decides to make it someone else's turn instead. I can see the machine starting and it's horrifying and I want to watch it.
+
+My only complaint is a small structural itch: this is the first fully quiet chapter and I don't yet know what the book's rhythm is — if chapter 3 is another long interiority piece with nobody taking their clothes off, I'll start tapping my foot. But the jacket promised literary erotica and so far it's delivering the literary part with actual skill, which almost never happens. One quiet chapter after a scene that hot earns its space. This is the "she was more alive on that bench" hangover, and it's working on me.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The quiet chapter after a peak, and it's doing real work — the Brooke interrogation was social-power erotica for women who ran in that world, and Randi's shut-down is genuinely frightening. I need chapter three to move — Vee, or Pace and Randi scheming, or heat — because I was promised a seduction and I've only met one side of it.
+WHY: The Brooke interrogation and the shoes-on-on-the-bed scene got under my skin — this is the interiority I'm always starving for, done without showing off. I need Vee on the page soon and I need to know the book's heat rhythm, but the machine underneath (Randi closing back up, the plan forming) has me leaning forward.

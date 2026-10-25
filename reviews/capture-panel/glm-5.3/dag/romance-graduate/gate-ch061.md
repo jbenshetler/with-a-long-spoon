@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-07*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
-REACTION:
+REACTION — Oh, this book. THIS is what I've been waiting sixty chapters for and didn't know it: the camera finally inside the room where the two of them are alone, and the answer is they're drowning just as bad as she is, maybe worse. This whole chapter is the blurb's promise being kept — "the two who moved her have fallen every bit as far" — and it's hotter for being the admission it is. The sex isn't the dirty part. The dirty part is that every confession arrives on a stroke. "I miss her during the day. More at night." Randi says it with him inside her and neither of them pretends it's pillow filler. And then "her nipple in my mouth" — coming while imagining Vee's breast in her own hand, "as if the wanting could cross through the body she offered him." That line is going to live in my head. That's the exact sentence the whole third game needed.
 
-I need a minute.
+The power dynamics here are doing cartwheels and I loved every one. Pace lifting her and stopping — "I said all right" / "I heard you" — the consent-check-that-isn't-a-pause, both of them fluent in each other. Then he holds her still mid-stroke to ask "why didn't you?" and her answer about Vee making her laugh — "she knows exactly when I'm about to ask for more" / "and you let her" / "every time" — that's the warmest thing anyone's said about Vee in the whole book and it's said inside another person.
 
-That wasn't a sex scene, that was a thesis chapter disguised as one — the whole taste question, the thing she keeps folding smaller and handing across white cloths, finally catching up to her alone in a shut room, and she still couldn't close the last breath's width. Fingers at her mouth, tongue behind her teeth, lungs *hurting* — and she stops. Not from the installed "gross." From something she can't name yet, and the book didn't name it for her, and that restraint is why I'm still sitting here with my heart going.
+But the gut-punch: "You know she loves you, right?" — RANDI said it. Randi, who engineered a world where nobody has to spend words, told HIM the word on Vee's behalf. "She doesn't have to." And Pace's face softening before he can stop it, and Randi seeing it and landing "She's not the only one in love" and giving him no rescue from the sentence. He couldn't tell her she was wrong — and she meant herself as much as Vee, maybe more, and the book left it deliciously ambiguous which cut of that blade is which. The "Vee, I l—" from twelve chapters ago is finally being paid off sideways: the word everyone refuses to say is now sitting in THREE throats.
 
-What got me was the middle — her examining her own wetness, the strands between her fingers, "the shameful plenty of her made visible," and the realization arriving that the problem was never the taste, it's the *amount of her*. The old verdict was about excess. Her whole shame architecture is about being too much — too hungry, too wet, too loud on a county road — and Pace's untroubled glad face is the counter-verdict and she can't ingest it. Literally. The scene is her trying to swallow her own permission and choking at the rim. And the MOOD of it — hothouse, winter, the flannel, "her mess, hers to lie in" — God. She settles her hip over the damp patch like a penance and a claim at the same time.
+Also — "her mouth stayed open around Vee's name without saying it." Nobody in this triangle can say her name at the moment of truth. It's becoming the book's whole grammar and I'm feral about it.
 
-The Randi intrusive thread is doing triple duty: "It was powerful. It turned me on" replaying, the wondering whether Randi meant a mouth or her own fingers — that question is going to detonate later and we all know it. And "Hungry out loud" curdling into "Greedy" in the dark. One word, retracted and re-installed in the space of a chapter. Also: cashmere flashing through the flannel fantasy for two lines. THE BLANKET again. Helen, you keep putting that thing in her mouth's neighborhood and walking away.
+The comedy landed too — "Subtle." / "Elegant." / "I value your professional opinion" — this pairing is funnier than I expected, they're two control freaks with the same dry religion. And "I better clean up that mess before you stick it inside me" is the least romantic line in the chapter and I cackled because it's the most relaxed Randi has ever been. She stops performing for a whole paragraph there.
 
-And the frame — she closes Cassie's window at the start (choosing heat, choosing the sealed room, choosing herself) and has to wrench it open at the end to air out the evidence before Cassie comes home. She's still managing the room. She's still curating. The window is the whole book in a sash.
+One thing I clocked and I'm not letting go: this is the first we've SEEN of Pace and Randi's sex life. It's exact, careful, permission-anchored — he stops, he checks, he waits — same architecture as with Vee. "You're still leading." "Yes." Now I know what the floor under everything is made of. Whether that floor is for Vee or for the system, still open.
 
-I noticed this is a quiet chapter after a quiet chapter — booth last, solo this — and I don't care, because this is the interiority I'm starving for. Nobody's writing this in the hockey books.
-
-GATE 63 — The Reach
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The taste thread finally paid off in the exact register I read for — explicit, patient, and psychologically exact, her shame about her own plenty dramatized in a breath's width of stopped tongue. I need to see whether the reach ever closes, and Tuesday's dinner is standing right there.
+WHY: The third game finally showed its face from the inside, the word-love is loose in all three of them, and it came wrapped in the hottest, funniest scene in the book. I would read the next chapter standing in the kitchen at 2 a.m. and I have.

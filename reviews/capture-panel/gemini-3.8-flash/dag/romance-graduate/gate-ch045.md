@@ -1,34 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-*Oh.*
+Oh, god. This hurt. This one got under my ribs and twisted.
 
-Oh, my stomach just dropped straight through the floor.
+Because we’ve all been her in that Chili's booth. Every woman who has ever loved a man who is keeping her in a beautiful, gilded terrarium has sat across a table like that, ordering the stupid, messy food from before she met him, trying desperately to prove that they exist in the daylight, under the fluorescent bulbs, among the screaming TVs and the sticky menus. And watching him disintegrate under the sensory overload—his hands obsessively squaring the fork, his eyes darting to the screen, that tiny flash of irritation—and having her stomach plummet because she thinks *he is ashamed of me. He only wants me in the dark.*
 
-I feel sick for her. Genuinely, physically sick. She spent *weeks* crafting this perfect, heartbreaking little metaphor—a little wooden ship built to carry the freight of *I love you* without technically breaking the unspoken rule that he has to say it first—and she sets it down at his feet like a sacred offering. *"I had been eating crackers my whole life. And you fed me a meal."* It’s so tender, so bare, so completely *Vee*.
+And his explanation is so brilliantly, deviously, devastatingly *Pace*. "In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now." It is the most beautiful, seductive poison a man could ever pour into an insecure girl's ear. It completely disarms her. It makes her feel small for picking the fight, makes her feel like *she's* the one who doesn't appreciate the cathedral he's built for them, and hands her the fake moral high ground of "forgiving" him so she can crawl back into his bed and let him obliterate her with his mouth.
 
-And what does he do?
+And the sex! God, the sex had teeth this time. It wasn't just his usual courtly, almost clinical worship. Vee *wanted* the control to snap. She was practically begging for him to stop being so goddamn patient, stop curating her orgasms like a gourmet tasting menu, and just *take* her. And when he finally broke—when he lost that architectural restraint, shoving into her and coming undone, shaking and desperate—it was electric. But the morning after... Jesus. The crash back to reality.
 
-He pauses. He takes two breaths—calculating, calibrating, running the Simpson's Paradox algorithm in his brilliant, terrifying math brain—and he hands her back a corporate HR memo disguised as intimacy: *"I love how good we are together. What you do—what your body does—I've never. I'm glad you feel it too."*
+Lying in the dark, sticky with his come, completely hollowed out because she realizes that even with his control shattered, even with his face buried in her neck shaking with his own release, he *still didn't say the word*. He gave her his body, his house, his food, his patience, his breakdown, and not a single inch of public certainty. "He'd given her all of it and not the name." That line hit like a slap.
 
-*What your body does.*
+The tragedy is so thick I could choke on it. She’s lying there agonizing over whether "boyfriend" is too small a word, wondering how to explain him to her dad, completely blind to the fact that she's not his secret girlfriend—she's his and Randi's shared project. The clock is ticking so loudly now. She’s suffocating inside the trap, and she doesn't even know the door is locked from the outside.
 
-Are you kidding me, Peter?! She handed him her soul on a plate, and he complimented the plumbing. He reduced her absolute, starving emotional surrender to a high-performance athletic metric. *We have great friction, babe. Your pelvic floor is truly exceptional.*
-
-And the horror of it is that he didn't stumble. It wasn't an accident. He heard *exactly* what she was saying. He knew she was asking, *Am I real to you? Do you love me?* And he deliberately, surgically stepped sideways to avoid catching the pass. He kissed her head, he held her tight, he gave her the warm quilt and the fresh coffee—he smothered the bleed in pure, suffocating aftercare so she wouldn't scream—and it worked. She let herself be comforted in the moment because the trap is lined with cashmere.
-
-Until she’s sitting alone in the dorm laundry room, watching the dryer spin, and the math finally stops adding up.
-
-*"The cracker-and-meal would not return to her speech."* That line broke my heart. She’s putting it into that dark little mental closet where she hides all the things that don't fit the fairytale—right next to the dead parents he won't talk about, and the spanking bench she doesn't know exists, and the fact that Randi's mouth is all over her weekends.
-
-The title of the book is *A Warm Reception*. And right here, Rivers drops the knife: *She had been received. She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of.* A warm reception isn't love. A warm reception is what a host gives a guest before the dinner party starts. God, she is so out of her depth, and the chill is finally getting under the door.
-
-GATE 47 — Seconds
+GATE 45 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute psychological devastation of this chapter took the air right out of my lungs. Watching him deliberately deflect her love confession into a compliment about her *body*, while wrapping her in a warm quilt to numb the sting, was agonizing and brilliant. The hairline fracture in their foundation has finally appeared.
+WHY: The absolute psychological precision of that Chili's scene broke my heart, and the sex finally had the desperate, raw friction I've been waiting for. Watching her lie in the dark realizing that incredible sex and domestic reverence still leave her completely nameless and alone is top-tier emotional gut-punching. I need the fallout immediately.

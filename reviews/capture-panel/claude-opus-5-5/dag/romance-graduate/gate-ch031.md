@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch031 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-10*
+*capture-dag-v2-rich · gate ch031 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 14896ed4fc37 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The outliers lecture, "the second kind comes in through the part that carries forward. It's in everything that comes after." I rolled my eyes a little, because this book loves a math metaphor and it's sitting right on the slide. But it never explains itself, and by the end of the chapter I'd stopped minding. Point taken, book: the kitchen wasn't a one-off dot.
+Oh, she did it. She did it by herself. Nobody was in that room for her: no Pace, no Randi kneeling at her feet with two fingers on a strap, no mother. She chose the long step anyway. I've waited thirty chapters for the induction and assumed it would be staged for someone, that Randi would turn up in the back row or the mother would somehow be there after all. Instead the book took everyone away and let her walk it alone. That turned out to be the point.
 
-What got me was the turn in the first ten minutes. For weeks Randi has been the one cutting Vee out of the herd. Now Vee has two fingers on Randi's wrist, "Only to Randi," and Cassie is saying *see you in the room* to the side of her head. That's the third time Vee has left Cassie standing there, and every time I flinch for her.
+The line that went through me was "nobody in this room who had ever taught her what to be ashamed of." That's the mother wire I've been tracking since the start, and here it's simply off. It isn't defeated, just out of range, two states away on a phone in the bright voice "she kept for the things she couldn't give her." I hurt for the mom in that sentence too. And Vee's confession to Cassie, "I'm a little relieved. Which is a horrible thing to be," felt grown-up and true. I loved that Cassie's answer was kind and wrong, and that Vee knew it and let it lie.
 
-Then the practice room. Vee edits the story the way she always does: "It was nothing. It was a love tap." She skips the whole middle, the *please*, the second orgasm she'd have paid money to take back. Randi doesn't need any of it. "His hand was wet." That line made the back of my neck go cold, because it's how a good interrogator works: you build the scene from one detail and let the witness walk back into it. And "Did you deserve it?" Vee answers "Probably I deserved it" and realizes a beat late what she's agreed to. Randi's smile brightens. That's not a friend asking. She's taking a sample.
+The walk itself was hot in exactly the way I'm hungry for. Nobody touches her and the whole chapter is clothed, but she's bare under silk in a room full of somebody's parents. The first step is small and safe and the second one is long, and her body agrees "a half-second before her head was sure of it." That's her own kink, discovered and kept for herself again, like the hand flat on her knee in the bathroom. This time she didn't hold it down. She let it travel down the rows. I was grinning like an idiot.
 
-Is the mouse-that-roars boyfriend real? I don't trust it for a second. "Slight little thing, apologized to the furniture" is not Pace. Last time Randi told an old-boyfriend story it was Pace in a costume, and she lied to Pace's face about Vee crying. So either this is a real ex, or she built him on the spot as a delivery system: over the knee, counting out loud, the hand slipping, "very welcome." Either way she set every detail down to watch it land on Vee's face, and it landed. The paragraphs stuttered a bit there. The "Mine," and the "And always" run in with nothing between them, and I had to reread to be sure who was speaking. I didn't mind much. It was hot. A woman talking in a chair, nobody touching anybody, and I was right there with Vee in the bathroom.
+Cassie! She finally got her real scene, and she got it before she's gone. She held the phone. She said "You look—" and didn't finish, which "from Cassie was a standing ovation." Her eyes went bright and she'd deny it to the grave. She called Vee "streetlight" and offered her a terrible sandwich. She took the photo, so the canary is the one documenting it. I want to protect that girl with my whole body.
 
-The bathroom is the best thing in the chapter. "Not here. Not over a story. To do that would be to say yes to it." That's a heroine with an inside. She knows exactly what's happening to her, she refuses it, and refusing it costs her something. I loved her for the cold tap on her wrists.
+Then the dread kicks in: she sent the photo to Pace, uncropped. "He would have no idea what else was in the frame. That part was hers." Babe. Nothing you hand that man stays yours. I'll bet anything that photo is on Randi's phone by Friday, or Randi is looking at it over his shoulder in Berkeley. Was Randi even in town this week? The book doesn't say, and I noticed it doesn't say.
 
-Then the goodbye: "the lighter second touch... so worn-in now that Vee barely clocked it." Her arms are slow coming down, and "She put it down to that." The book doesn't explain it, thank God, and I didn't need it to. The not-bracing from my notes has turned into holding on. Vee is falling for Randi and filing it under being tired.
+Small gripes. The murmur through the crowd is a little wish-fulfillment, and "the sound a dull room makes when it wakes up" leans on it. "None of that was in the picture. Or all of it was" is one turn more than I needed. The ending asks whether it was pride or heat, "or whether, by now, the two came to the same thing," and that spells out the subtext a little. It's earned, but I'd have liked to be trusted. The Berkeley conference also arrives without much setup. None of it came close to losing me.
 
-Now I'm dreading the next Tell. Randi is going to walk into Pace's house with "his hand was wet" and "she crossed her arms over herself," and he's going to get hard on it again without asking Vee. Pace, my sweet decent man, who saw her face at the sink and *waited* for her, is about to get a version of that face from someone who stole it.
-
-One flag for myself: this is the second Vee-confesses-to-Randi-in-a-closed-room scene in a row. It held because Vee reversed the lead and because of the bathroom, but if there's a third I'll feel it.
+At 1 a.m. I'd text: *she walked the induction COMMANDO with the slit open on purpose and nobody was there and it was the best thing she's ever done and now she's sent the evidence to the one man who forwards everything.*
 
 ---
 
-GATE 33 — The Practice Room
+**GATE 31 — The Induction**
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." (a thesis on a slide, nearly too neat)
-WHY: Randi building the whole spanking out of "his hand was wet" was erotic and frightening at the same time, and "Not over a story" gave me Vee's spine right when I needed it. The slow arms at the end mean Randi is getting through her, and I need to see what Randi carries to Pace's table tonight.
+ALMOST-STOPPED: none. The nearest wobble was "a murmur went through the crowd as she came, the sound a dull room makes when it wakes up," which is a hair too movie.
+WHY: This is the first chapter where Vee's want belongs to nobody but her, with no one there to see it, and it's charged and clean. Cassie finally got her scene. That uncropped photo going to Pace is a fuse I can see burning, and I need to know whose hands it ends up in.

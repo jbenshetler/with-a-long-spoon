@@ -1,30 +1,32 @@
-*capture-dag-v2-rich · gate ch028 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch028 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · dated · 2026-10-24*
 
 REACTION
 
-Okay, so — the thing I'd text at 1 a.m. is: *she's the one who's gone now.*
+Two pages. Two *pages*, on the one Saturday I've been counting toward since she stood in Randi's room getting fitted with marching orders. The book knew exactly what it was doing and I want to throw something.
 
-Five chapters ago Randi was the one lying on him saying *tell me*, prying Vee out of him a word at a time, and it read like a woman running a procedure on her own boyfriend. Tonight she doesn't say it once. She doesn't have to, because she's the one with the goods, and she's not extracting, she's *delivering*, and she's coming while she does it. "Standing on my rug with her hands at her sides letting me look. I walked all the way around her. I took my time about it." And then she takes his hand off her own hip and puts it high on her own thigh to show him where she caught Vee. She's using his body as a diagram of Vee's. That's the hottest thing in the chapter by a mile and nobody in it says a word about what it is.
+Okay. But.
 
-And the thumb in the back of the knee — she *heard* the sound. She knew the whole time. Yesterday's chapter played it as Vee's private little swoon she hoped went unnoticed, and tonight Randi hands it back as a trophy. "I heard it." That's the book doing the thing it does best: same twelve seconds, two rooms, and the second room breaks you.
+"Listen to you." That's the chapter. That's the whole chapter. Twenty-eight chapters of this man being the most controlled interiority on the page — measuring, withholding, filing, answering only the actual question — and he opens his mouth about a thumb running down a walnut joint and *cannot stop himself.* "He heard himself going and didn't stop." He wasn't asked. He went off about her to a woman on a bicycle in the cold, and she had to look at him sideways and tell him what he was doing, because he didn't know. Randi told Vee's friend that Vee had it bad. Nobody had ever said it about *him.* Now somebody has, and it took an outsider, and he didn't even understand the remark. "He didn't know what there was to listen to." I'm wrecked, a little.
 
-But what's actually got its hand around my throat is how *happy* this is. She came in pleased and let it show. She swept the wood curls off him. She asked if he had anything to drink like a woman coming home. She said *I wanted to keep her* about the girl she pointed at on the quad, and she meant it, and she doesn't know what to do with meaning it. She stayed down after. He had the blanket up before she had to reach. She fell asleep on his chest promising him Vee like a gift she's wrapping. That's not a schemer's chapter. That's a woman who set a trap and then moved into it.
+And then. *Then.* Sheri — two years over a handlebar, so she gets to — looks at the arrangement and says it out loud, the first person in this entire book to see it from outside: two of them at once, how do you sleep, *if that's not already complicated, it will be.* And it comes out as a nudge, as locker-room admiration, as *I bet it's worth it* — which is the exact wrong register and therefore the right one, because that's how it would actually arrive. Not a warning with weight. A friend being impressed. He doesn't answer. She isn't waiting. They ride on, the cold going out of the morning, and *that was the whole of it.* That last line is the book putting its palm flat on the glass and I felt the chill come through.
 
-Also: the table. She folded her clothes on it, and her hand stayed flat on the surface, and *it was not the look you give a table.* And then we get what's under the top, and it's the bench. She touched the thing he built her, the one with the hole in the middle, the one she said *please* on in a voice he's never heard again — and the book didn't underline it, it just let her hand rest there for one sentence and moved on. I nearly put the book down to walk around the room. Because that's the ledger, isn't it. He made Randi a bench. He made Vee a dress. And she knows the difference, and she has never once said so, and she's now *dressing Vee for him.*
+"And the redhead?" / "Not yet."
 
-The thing I'm suspicious of and can't stop chewing: Randi told Vee *not today, tomorrow night.* Then told Pace *give her a day.* She set the clock at both ends and neither of them knows she's holding the watch. She even stage-managed what Vee's wearing to the door of the man she sleeps with. That's the third game and it was right there on the page in plain warm friendly sentences and I still had to sit with it for a second.
+NOT YET. That's new and I'm turning it over. He intends to tell her. It isn't a secret he means to keep forever, it's a disclosure with a date on it he hasn't set — same voice as *not tonight* over the scar with her hand pinned under his, same voice as *as long as she needs.* And here's what's going to cost everybody: he thinks the schedule is kindness and it is actually the last piece of control he's holding. Randi said *give her a day* like the day was his to give; he noticed, and set it down beside the rest. Everybody in this book is managing the clock on a girl who thinks she's choosing freely. He said *she chooses it, every step of it, or it isn't anything,* and he is sitting on the one fact that would let her choose.
 
-Small things that got me: he doesn't tell her what Vee actually said at the bar. *Those were his, and that was Vee's.* He's got two women and three locked drawers now. And "I'm glad it was you" — he means it completely and it's going to be the epitaph on somebody.
+Also Sheri watched her. *Left alone. Danced with nobody.* He got the report he'd never have asked for, and it's the same shape as the bartender's — the whole county has eyes on this girl and she thinks she sat on that stool invisible. I'm starting to find that genuinely frightening and I don't think the book has even leaned on it yet.
 
-One eye-roll: "You were playing with your wood." From this book? Come on. It's the only line in thirty chapters that felt like it came off a different shelf.
+And he still didn't say what she said to him at the bar. Not to Randi, not to Sheri. Those were his. That man's discretion is the most reliable thing on the page and it's also the whole engine of the disaster.
 
-And a flicker of pattern-fatigue I should be honest about — this is the fifth chapter in a row built on somebody debriefing about Vee to somebody else. Brunch debrief, kitchen debrief, bedroom debrief, bedroom debrief again. It keeps working because the *direction of the flow* reverses every time, but I clocked the shape, and the book should know I clocked it. Give me the three of them in one room before I have to ask twice.
+The flicker where I bristled: another one. Another woman who's known him for years, fond, easy, with an opinion about Vee's body. That's the fifth. It plays as truth about him — he really is like this, women keep him and don't resent him — but there's a tick of *okay, book, I believe you* in it.
 
-GATE 30 — Space
+I've never read a two-page chapter in my life and I don't know what to do with one. It read like a held breath. If the next one is where she walks in, I'll call this a technique.
+
+GATE 28 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "You were playing with your wood."
-WHY: Randi telling it and getting off on the telling flipped the whole engine of this book in one scene, and the hand flat on the table said more than a page of confession would have. She's in love with both of them and has scheduled tomorrow night for the two of them without either one knowing. I want Vee through that door now.
+CAPTURE: 6
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Hell of a backside on her, though. I'll give her that."
+WHY: Two pages and it spent them on the one line I've been waiting for since chapter one — somebody outside the triangle looking at it and saying *it will be complicated.* Short, and it still moved the floor; "not yet" means he plans to tell her, which changes what the silence is. It's Saturday night, the black dress and the borrowed shoes are coming to his door, and this book just made me wait through a bike ride to get there.

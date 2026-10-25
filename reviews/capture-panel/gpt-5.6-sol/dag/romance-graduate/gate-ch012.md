@@ -1,14 +1,18 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
-REACTION — Oh, Cassie. “Just her name, like setting something down where it wouldn’t break” got me. She doesn’t interrogate Vee, tease the tenderness out of her, or turn the confession into entertainment. She just understands that something enormous happened and handles Vee accordingly. I trust her more every time she opens her mouth.
+REACTION — Oh, Cassie. “Not *Oh, Vee.* Just her name” got me. She can be funny without hiding behind funny, and when Vee hands her something fragile, she knows how to hold it without grabbing. “Keep the shirt” is exactly the blessing Vee needed—and Cassie gives it without making Vee pay in confession, embarrassment, or concern for Cassie’s feelings. I trust her so much it’s starting to hurt.
 
-And Vee saying “And then we ate” with the emotional weight another heroine would give a kiss—yes. That’s her real intimacy. Pace fed her after her body had earned its hunger, taught her something without humiliating her, then looked when she chose to be looked at. She isn’t dazzled only by him; she is dazzled by herself. “I got up a mountain” may actually matter more than the wet-shirt moment, which is saying something, because the wet-shirt moment absolutely worked on me.
+Normally a chapter that mostly retells the scene I literally just read would make me impatient, especially this short. But Vee choosing what to tell Cassie mattered. She leads with the mountain and the food and the competence Pace gave her room to discover in herself; then she tells the undressing as something she did, not something he got from her. And Cassie is rapt. That tiny fact relieved me—I’ve been scared she was already halfway out the door.
 
-This was tiny, but it didn’t feel empty. It felt like Vee coming home still lit from inside and placing the experience in the hands of the one person who isn’t trying to steer her. Also: “Borrow real boots next time.” Cassie’s blessing, in Cassie language. I want to hug her and warn her that she is about to become the person Vee tells less and less precisely because she sees too clearly.
+Also, yes, the flannel works on me. Of course it does. This is catnip with an actual emotional nervous system: his restraint, her deliberate exhibition, and now the enormous shirt carrying the whole encounter back into her room. I would absolutely text a friend, “She flashed the consent king in a rainstorm and now she’s wearing his flannel, unfortunately I live here.”
 
-GATE 13 — Rye
+The chapter feels like one held breath after the hike, though. I’m ready for the book to move again immediately—preferably toward Randi finding out exactly what happened, because there is no universe in which she hears this story calmly.
+
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was a warm little aftershock rather than forward motion, but Cassie’s quiet care made it land. Now I desperately want to know what happens when Pace sees Vee in his shirt again—and how long Vee can keep telling Cassie the truth before the secret architecture around her begins separating them.
+WHY: It briefly risked feeling like a recap, but Cassie’s quiet, nonpossessive tenderness made the retelling earn its place. Now I desperately want Randi’s reaction to the shirt, the looking, and Vee’s pride in choosing it.

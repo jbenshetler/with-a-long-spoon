@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
 
 REACTION
 
-Okay so this is the comedown chapter and I knew it the second I started it — after 43 and 44, which were the two best things this book has handed me in a hundred pages, of course she gives me a breather. And I don't resent a breather. One quiet one, after two that were all teeth, I'll take.
+Okay so first — we skipped Thanksgiving. The actual one. The one with Sheri's fake pie and "she's alone" and the empty question of where Randi was while Vee flew home. All of that happened in the white space between chapters and we get it secondhand across a cafeteria tray, filtered through *Vee's family dinner* instead. Which means somewhere behind this chapter there was a Thursday at Pace's house that I don't get to see, and I feel the shape of it sitting out there like Randi's outlier point — off on its own in the white, easy to see if you know to look. I'm suspicious of the skip. The book doesn't skip things it wants me relaxed about.
 
-The strip down the hall is genuinely charming, which surprised me, because I've read "hero undresses heroine slowly" ten thousand times and I'm numb to it. But the comedy of it saved it — her towing him by two fistfuls of shirt, him just *coming, slowly*, the jeans going cold and tight and winning, her hopping one-legged with no dignity anywhere, "You're not helping" / "I'm helping." That's a real couple. That's the thing I came to this book starving for and keep getting in flashes — people who are funny in bed, whose want has texture instead of being a thermostat set to High. The thong landing on "the long, unusually proportioned table" in his bedroom — I clocked that. The book wants me to clock that. That table isn't a nightstand and I filed it next to the door I'm still waiting on.
+And then the chapter itself is quiet and I didn't mind, because it's doing the exact thing the jacket promised on page one: *he gives her everything but a word for what they are.* Cassie asks it clean — "So what is he. To you." — and Vee has nothing. "Is it that you can't say, or that you don't want to?" "Both." That's the whole book in one word and for once nobody explained it to me, it just sat there on the tray going cold.
 
-But here's what this chapter actually *is* for me now, and it's not the sex and it's not even the pizza: it's that I'm reading it with 43 and 44 loaded in my hands, and she isn't. I know the goodbye kiss she doesn't fight is Randi's "work" that Randi actually wants. I know they picked her off a lawn together. I know the threesome is the plan and the table is probably the altar. So I'm watching this girl come home after five chaste study-nights and give this man her whole devotion in the form of a *washed flannel shirt* — "it went to nothing, so I washed it, I need you to wear it so it smells like you again" — and it gutted me, but sideways, because the tenderness is real on her end and I know what's underneath it on his. That's the cruelest thing the book does and the thing keeping me here: it won't let me have the sweetness clean. The shirt is the most in-love thing Vee has done in the whole book and it's also the drawer, the scrunchies, the installation — her reaching deeper into a room that was built to catch exactly this reach.
+The sewing. *The sewing.* I did not have that. He made the dress — on a machine on his sun porch, because she mentioned a magazine she couldn't afford. That reorganizes the induction for me retroactively: the walk, the long step, "that part was hers" — she took it on a stage he *built*, stitch by stitch, and never told her he built. It's the air guitar again, the top drawer again, the no-shape-to-his-arms tenderness — and it's also more casting, more staging, the same hand doing both, and I've stopped being able to pull them apart, like my notes keep saying. But Vee's read of it floored me: "my dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands. The sewing he never would." She's right and it's the saddest sophisticated thing — the thing that would scandalize the father is the tenderness, not the sex. She knows exactly what she has and exactly that there's no slot for it in the normal world.
 
-And the five-nights beat is the quiet knife. She called it herself, she needed to study, and *he didn't fight for the nights* — and some corner of her wanted him to, wanted him to want her badly enough to say so, and he never says so, he just opens the door and waits. I know that man. The one who never gives you the thing you'd have to ask for, so you can never catch him withholding it. "Take the time you need. I'll be here." It reads as grace and it's a leash made of slack.
+The title's "Cropped" and I caught it — she cropped the photo for her parents too, the version that stops at the waist, Dad pricing the dress, Mom touching her own collarbone. Everyone gets a cropped Vee. Her mother with the nurse face on, sitting at the end of the bed asking if she's making herself sick — *that* got me, because Mom's wrong about the mechanism and completely right about the fact. The girl is being eaten. "I'm happier than I've ever been" and she's thin and her mother can see it and can't name it and neither can Vee.
 
-What I'm a little tired of: the pizza. It's lovely, the water-buffalo mozzarella and the half-hour sauce and the cornmeal hiss — but it's the fourth or fifth time I've watched him go down into the cooking and watched her taste every separate flavor and realize her mouth was asleep since birth. I've got that. Strawberries vs. cotton candy. I *have* it. My thumb moved a little in that paragraph.
+"I put a question mark on it. Out loud. Like I was asking them." God. She had to ask her own parents whether she has a boyfriend because the man won't give her the word, so she's outsourcing the word to a dinner table in her hometown.
 
-Mostly I'm just sitting here holding 44 still — Randi's face going white over MIRANDA, "cheating bastards" aimed too near to be strangers — and this warm domestic nothing is the held breath before that comes back. It'd better come back.
+What I'd text a friend at 1 a.m.: *he SEWED the dress and she can't tell her dad because sewing is weirder than sex to a father and she's not wrong, and also where was Randi on Thanksgiving, the book is NOT telling me on purpose.*
 
-GATE 45 — The New Ordinary
+One small thing nagging: Vee never once thinks about MIRA in this chapter. She's carrying Randi's secret now — the rotten luck, the "don't make her carry it in front of anyone" — and across a whole dinner with Cassie it doesn't surface. I believe it, she's loyal, but I'm holding it like a loaded thing she's sitting on.
+
+GATE 43 — Cropped
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 6
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "He turned a round of dough out of the bread machine… and brought it down for what had to be half an hour, tasting it as he went" — the fifth cook-with-intent set piece, where my thumb actually twitched toward skimming.
-WHY: The shirt is a real turn in Vee's bond to him and it landed, but I'm reading her devotion against everything 43 and 44 told me she can't see, and that dramatic irony is the only thing giving this quiet chapter its charge. I'm continuing on 44's unfinished crack, not on this — I want Randi's white face back, not another pizza.
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A real bridge chapter, not a throat-clear — the sewing reveal reorganized everything behind it and "both" landed the book's whole thesis without once explaining itself to me. It's quiet, but it skipped Thanksgiving at Pace's house and I want that fallout badly enough that my thumb's already moving.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-*Oh, Vee.* My heart hurts for her, and at the exact same second, my neck is blazing hot.
+*“Sticky fingers?”*
 
-The sheer, dizzying intimacy of this chapter almost makes you forget the guillotine hanging over her head. *Almost.* But that’s the trick, isn’t it? That’s why this book is ruining me. Because on the surface, this is an exquisitely sexy, deeply romantic, breathtakingly tender scene between a young woman stepping into her own brazen sexual power and a man who treats her like a work of art. The staging! Putting him in the recliner, turning the lamp up one click, walking down that dark hallway first in the silk and the four-inch heels—giving him the stride she gave the room—and then stripping it all off, hanging the dress carefully on the hook, and walking back out wearing *only* the shoes? *"And this is what I had on under it."* Jesus. The confidence, the playful, daring brat in her that only he has ever unlocked. She’s giving it to him like a gift.
+I swear my soul left my actual body for three seconds. The sheer, breathtaking malice wrapped in a brunch napkin. The absolute *audacity* of this woman. I am sitting here with my hands clamped over my mouth because Randi is an apex predator disguised as an expensive cashmere sweater, and Vee is just... walking right into the enclosure with a handful of raw steak.
 
-And Pace—god help me, the restraint of this man. Sitting back down when she puts her flat palm out. Staying in the chair. Letting the looking *be* the touch. He’s so impossibly good to her in these quiet domestic spaces. The dinner, the curry, washing the dishes so she can talk to his back, telling her that choosing between the silk and her bare skin is like choosing between sunrise and sunset. You want so desperately for this to just be a romance novel where the big, quiet, prodigy woodworker loves the brilliant, insecure redhead.
+Look at the psychological warfare happening here. Randi baits her with "vanilla." She knows Vee’s pride, knows Vee cannot stand the idea of being thought of as tame or boring, so she tosses out the word like a lure. And Vee bites! Vee lays out the entire Friday night bedroom scene on a white tablecloth over cheap mimosas. The checking. The wetness. The heels. *All of it.* And then Randi immediately turns around and matches it with her own fake-casual, devastatingly erotic story about getting abandoned in a frat house and touching herself with the door unlocked, just to drive Vee straight up the wall.
 
-Except you *know*.
+And it works like clockwork. Vee bolts for the bathroom stall to take care of business, gets *cockblocked by her own conscience* because Randi’s gorgeous, predatory face pops into her head, and when she walks back to the table, Randi drops the "sticky fingers" line. Was it about the pastries? Was it a deliberate, cruel double entendre? *It was both.* Randi lives in the double entendre. She gave herself total plausible deniability while letting Vee drown in pure panic, watched Vee dissociate through the rest of the meal, and then finished it off by calling her "my best friend in the whole world."
 
-You know the shoes were picked out and buckled onto her feet by Randi on her knees in a boutique. You know the dress was constructed to force her to be bare underneath. You know that while Vee thinks she’s doing this brazen, private, autonomous striptease just for the two of them, she is literally performing the exact design Randi and Pace engineered for her. Every thread of silk, every inch of heel, every exposed curve of her hip. When he says, *"The other is for the world. This is just for me,"* the double meaning cuts like a straight razor. It’s *not* just for him. It’s for him and Randi. Randi is sitting like a ghost in the dark corners of that den, watching every move Vee makes.
+I felt physically sick for Vee right there. *“You're my best friend in the whole world, you know that?”* That is pure poison. It’s an emotional trapdoor. Vee is so starved for validation, so stunned that this glamorous girl wants her, that she just melts. And then the kiss. The lingering kiss, the second press of the lips—and that final sentence. Vee licking her own lip and tasting the pastry glaze from Randi's mouth.
 
-The tragic, intoxicating beauty of it is that Vee really *is* choosing it. Nobody forced her to bring that garment bag from the car. Nobody told her to take off the dress and leave the shoes on. Her appetite is waking up, stretching its limbs, demanding to be seen and worshiped, and she feels so safe, so entirely cherished. The fall is going to shatter her into a million pieces, and I am strapped in until the bitter end.
+The sensory detail in this book is obscene in the best way. Randi taking one bite, setting it down, leaving the sugar on her mouth, and transferring it to Vee on the curb. She is marking her. She has Vee wound so tight she can barely breathe, and Vee still thinks this is just "girls' brunch." The collision when the truth finally comes out is going to leave a crater.
 
-GATE 36 — Made-Up
+GATE 34 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension between Vee’s genuine, heart-swelling sexual awakening and the invisible, predatory trap she’s dancing inside of is peak psychological erotica. It’s devastatingly tender, scorching hot, and so tightly wound I couldn't put it down if I tried.
+WHY: The psychological tension between Randi and Vee across that brunch table was suffocatingly good, and the "sticky fingers" double-play made me gasp out loud. Randi is playing a diabolical game, and watching Vee get emotionally and erotically cornered while thinking she's found a "best friend" is irresistible. I need to see the next move immediately.

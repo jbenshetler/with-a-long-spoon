@@ -1,16 +1,16 @@
-*capture-dag-v2-rich · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · 2026-10-21*
+*capture-dag-v2-rich · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
 
 REACTION
 
-Okay, first of all, this is the shortest chapter I have ever read in my life. Two pages? A page and a half? I don't know whether I'm supposed to feel shortchanged or impressed at how cleanly it moved us from the coffee shop to the first date without five pages of her picking out an outfit, and honestly, I'm leaning toward impressed. It's a little hinge, and every single line in it had weight.
+Wait—that's it?
 
-I love Cassie. *"A whole semester of you up until two, keeping a business major alive in a video game."* That one sentence did more to build Vee's romantic history than three pages of backstory ever could. We instantly know the kind of guys Vee has settled for—selfish, ordinary college boys who took her energy and gave nothing back—and why Pace actually listening to her makes her want to cry over frozen yogurt.
+I literally just swiped my thumb expecting the rest of the walk and hit the end of the chapter. I don't think I've ever read a chapter this short in my life, except maybe a cheeky epilogue. I don't hate it, though? It feels like a Polaroid, or one of those breathless little transitions in a movie where the music swells and you just see them walking. Because the writing inside that tiny space is *so* dense.
 
-And then the contrast between Randi and Vee with food! In Chapter 1, Pace had to slice an apple paper-thin for Randi while her brain ran a miserable calculation on whether she was allowed to eat it. Here, Vee builds a huge leaning tower of froyo, doesn't even hear her mother's voice telling her *that's plenty* until after she's already pulled the handle, and then decides she doesn't care if it drips. God, no wonder Pace and Randi looked at her on the quad like she was a bonfire.
+First of all, Randi taking the phone out of Vee's hand and saying "He wants to see you naked" with a grin—knowing what we know from Chapter 3, knowing that *Randi* is the one who wants to see her naked too, and that Randi just texted him twenty minutes ago to summon him to the coffee shop in the first place—is deliciously unhinged. And Cassie's one-liner about rolling a healer for a business major! In two sentences I know Vee's entire tragic dating history: she's a giver who makes herself useful to mediocre men who take up her time and don't look at her.
 
-The terrifying part is watching how seamlessly the trap works. Randi sitting right there taking the phone out of Vee's hand, telling her *"He wants to see you naked"* and *"You're not unsure"*—steering her straight into his arms while pretending to just be the hype-woman friend. And Pace saying *"I've thought about most things"*—which is cute on a froyo date, except I know what else he's thought about, and it has handholds and a face cradle in his bedroom. Yet when Vee says *"This is the nicest a person has been to me in a really long time,"* and he doesn't brush it off or make it weird, just lets it sit and checks on her froyo... my chest genuinely ached. The man is actually that attentive. That's what makes this whole premise so lethal.
+And then the froyo cup. Notice how in Chapter 1, Pace had to slice an apple paper-thin for Randi because her mother and her sorority have policed her appetite down to nothing, and here Vee is with her own mother's voice (*that's plenty, that's enough now*) going totally silent so she overflows the cup and doesn't even care that it's going to drip. She is *starving*, just like the blurb said, and around him she immediately lets herself take too much.
 
-Now put them in a room where he touches her. I've been patient for three chapters of campus setup and I'm ready for the heat to come back.
+When she said "This is the nicest a person has been to me in a really long time. And it's froyo," my chest actually ached for her. She's so wide open. It's terrifying because we know it's a setup, and yet Pace isn't faking who he is—he really *is* that attentive, he really does listen like that. That's what makes it dangerous. Okay, the two-page chapter worked on me as a beat, a little intake of breath, *if* the next chapter actually delivers the meal. Don't make me read three postcard chapters in a row, book. Give me a scene.
 
 GATE 6 — The Long Way
 DECISION: CONTINUE
@@ -19,4 +19,4 @@ NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It's tiny and quiet—the third low-heat chapter in a row—so I'm definitely ready for the clothes to come off again soon, but the emotional beats in this little scene were so sharp and tender they went straight to my ribs. Watching Vee be genuinely cared for while knowing the arrangement behind it has me turning the page immediately.
+WHY: It's a tiny bridge of a chapter—barely two pages—so it was over before I could fully sink in, which keeps CAPTURE at a 7, but every single line pulled its weight. Between Randi pushing Vee straight into Pace's arms ("He wants to see you naked") and Vee's heartbreakingly earnest confession over an overflowing cup of froyo, I'm completely hooked and immediately turning the page for a full-length scene.

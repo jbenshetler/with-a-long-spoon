@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. The whiplash between Vee sitting in that dorm room hugging his giant flannel like a security blanket and Randi walking into his house, stripping down, and riding him like an exorcism just about knocked the wind out of me.
+Oh, Randi is *sick*. She is physically, violently ill with this, and she thinks she can fuck her way out of it.
 
-Randi is *spiraling*. She came in there like a woman on fire, starved and panicked and trying to fuck the ghost of Vee right out of Pace’s head—or consume her through him, I can't even tell which one it is anymore. When she held him inside her and demanded *"Tell me,"* and he fed her the gardenia and the chlorine? Jesus. The filth of it, the absolute betrayal, but also the sheer psychological twistedness of it. She is using him as a proxy to touch Vee, but at the exact same time, every detail he gave her was a blade.
+The whiplash from chapter 11 to 13 is breathtaking. Vee is back in the dorm basking in the holy, golden afterglow of being seen, clutching that giant flannel like a talisman, telling Cassie about rye bread and horseradish—and meanwhile, Randi is barging through Pace’s door like a battering ram, stripping before she even hits the bedroom, using Pace’s body like a blunt instrument to drown out her own mind.
 
-Because Pace *didn't* tell her everything. Look at what he withheld: *"Her stomach is soft."* He didn't tell her *how* he knew that. He didn't tell her about Vee stripping down in the cold cab of the truck, offering herself up to be seen. He kept that sacred, private little altar for himself, and gave Randi just enough blood to keep the beast feeding. And when he said Vee's stomach was soft? Randi’s belly went *tight as a board*. The comparison instantly poisoned her. She starves herself, counts apple slices, keeps herself hard and armored and flawless—and here is this boy, quietly undone by a girl who is soft and real.
+*“Tell me.”*
+And what does Pace give her? *“She wears gardenia… and subtly, underneath it, a hint of chlorine.”* And then: *“Her stomach is soft.”*
+God, the psychological cruelty of him keeping the truck scene to himself while feeding Randi just enough sensory detail to choke on! He tells her about the smell of Vee’s skin, but he keeps the actual holy sacrament—Vee opening her buttons, Vee choosing him—locked behind his teeth. And Randi *feels* the omission, even if she can’t name it. That clench around him, her belly going tight as a board, her nails digging into his chest—she isn’t just riding him for a thrill, she’s trying to brand him so he doesn’t belong to the other girl. *“I want us,”* she says, torn out of her. Not *I want her.* *I want us.* She’s terrified. She started this whole game to protect herself from Pace’s terrifying gaze, and now she’s looking at the monster she built and realizing she’s losing both of them.
 
-And then Randi running. Skipping the aftercare, not sleeping over, getting dressed the second the come-down hit her, leaving him standing in the cold doorway. She’s terrified. She lit this match thinking it was a fun little kink to satisfy an itch she’s too repressed to face, and now she’s realizing she just handed the man she sleeps with a girl who might actually ruin him for her. "I want us," she cried out, and Pace thinks it's about him, but it's not. It's the panic of a woman watching the walls cave in.
+And then the cold snap. Skipping the afterglow. Slipping out of his bed, putting the silk and the wool back on like armor, dropping that bright, manic little sorority *“No thanks, I’m good,”* and vanishing into the gravel.
 
-I feel sick for Vee, I feel electrified by how messy and sharp this is, and I need the next chapter yesterday.
+Pace standing in the open doorway in just his jeans, watching her expensive car disappear, feeling that hollow ache in his chest—he is so smart, such a master manipulator, but he is completely blind to what is actually happening to the women in his orbit. He thinks she left because the want was too big to lie still under. Pace, baby, she left because she is drowning in a pool of her own vomit and denial.
 
-GATE 14 — Swim Lanes
+The tension here is unbearable in the best way. Every single one of them is operating on a different set of hidden rules now.
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological warfare happening through the sex in this chapter was completely breathtaking. The contrast between Vee's sweet vulnerability and Randi's desperate, manic unraveling makes the tension almost unbearable in the best way.
+WHY: The desperation in this sex scene was absolute perfection—raw, hurried, and choked with panic. Watching Randi unravel while Pace completely misdiagnoses her terror is high-wire psychological drama, and I need to see what she does next.

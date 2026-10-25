@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha dc341b2a573e · dated · 2026-10-24*
 
 REACTION
 
-God, the *nerve*.
+The playfulness at the start of this was absolute perfection. Him rocking out terribly to AC/DC before he knew anyone was watching, that dorky, uncurated boy energy peeking through the architect facade—and Vee catching it, using it to tease him, stealing his shorts and waving them around like a flag. It felt so young and alive and earned.
 
-I was holding my breath through that entire walk. You could feel the exact split-second where she had the choice: take the tiny, shuffling, church-girl steps, keep the silk pinned to her leg, play it safe in front of the parents and the navy-dress crowd—or *own* the creature she’s becoming. And she chose to lengthen her stride. She gave them the whole damn bare leg to the hip bone, with nothing underneath it, in broad daylight, in front of God and the economics faculty.
+And then the transition into the spanking bet was seamless and scorching. What got me wasn’t just the heat—it was the profound, tender psychological care Pace took with her. Randi described a loud, humiliating performance of submission, but Pace stripped all the theater away. No counting, no cruelty, just a warm palm, steady reassurance, and checking in with her body until she couldn't hide behind her own denials anymore. The way he looked at the slickness on his finger not as dirty or excessive, but as something precious, true, and good—that undoes me completely. Her old shame, the internalized voice of her mother whispering *floozy*, the terror of her own desire—he gently takes every bit of it apart with a rough hand, a glass of cold juice, and a pack of green scrunchies waiting on the counter.
 
-What makes it so utterly intoxicating isn't just the exhibitionism—though, let’s be honest, the exhibitionism is top-tier delicious—it’s that sickening, gorgeous friction between her inner life and what the world sees. To the room, she’s just an astonishingly beautiful girl in a stunning gown having an accidental (or bold) high-fashion moment. To Cassie, taking that picture, it’s just her gorgeous roommate looking like an absolute star. But to *Vee*, every inch of that silk is steeped in Pace’s hands, Randi’s calculated styling, the hidden spanking bench she doesn't know about yet, the lingering sting from the kitchen, the total erotic reprogramming she’s undergoing. The fact that she texted that exact uncropped picture straight to Pace while he’s sitting in some dry-ass math conference in Berkeley? Cruel. Brilliant. Devastating. He is going to lose his absolute mind when he looks at his phone.
+She feels treasured, and for the first time, she’s admitting to herself that this isn't an accident anymore; she’s bringing an overnight bag. But hanging over all this warmth is the sick, quiet ticking of the clock. Randi is out there, knowing every contour of this house and this man, and Vee is falling all the way in. It’s breathtaking, filthy, sweet, and terrifying.
 
-And Cassie, man. Cassie calling her "streetlight" and offering to buy her a terrible sandwich while she's secretly vibrating from the inside out with no panties on. The sheer density of the dramatic irony is so thick you could cut it with a knife. Vee thinks this is all *her* nerve, *her* pride, *her* blossoming. And it is, in a way! She’s the one taking the stride. But she is wearing a uniform designed by two predators who are seasoning her for the main course, and watching her lean into the flavor of it with so much genuine joy and heat makes my stomach do backflips.
-
-GATE 34 — The Induction
+GATE 32 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension during that walk across the stage was absolute perfection—Vee choosing to lengthen her stride and show the whole bare leg, fully aware of what she was doing. The psychological layering of her texting that photo to Pace while Cassie just sees a proud best friend is so good it hurts.
+WHY: The contrast between the sheer, unhurried eroticism of the bedroom and the quiet domestic tenderness afterward was stunning. It delivered peak heat while deepening the emotional stakes right before the floor inevitably drops out.

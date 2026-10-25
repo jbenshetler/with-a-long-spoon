@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. My pulse is still hammering in my ears.
+Oh, my God. *Oh, my God.*
 
-*That* is how you write an erotic charge. That truck scene took ten years off my life. It wasn't just hot; it was psychologically brilliant. The absolute genius of Pace knowing *exactly* who he’s dealing with. He steps out into the freezing mountain downpour to give her privacy—which is both a deeply chivalrous move and the most devastating piece of bait he could have possibly dangled in front of a girl like Vee. A lesser man would have hovered, or made a joke, or tried to help her out of her shirt. Pace just gave her the truck, gave her his only dry clothes, and walked out into the storm.
+My stomach actually dropped in that truck. When he stepped out into the pouring rain to give her privacy, and she sat there cold and shivering and realized *no, I don't want privacy, I want him in here, I want him to look at me*—and then tapped on the glass with her knuckles and crooked a finger? My jaw hit the floor. The absolute brazen, delicious nerve of her! For a girl who has spent her entire life shrinking away from the leering gaze of frat boys and the suffocating, shame-soaked policing of her mother, choosing to summon him back into that cab, getting up on her knees on the bench, and slowly unbuttoning her wet shirt while holding his eyes? That wasn't just hot; it was a revelation. It was her taking the heavy, awful shame of her mother’s voice—*floozie, what kind of girl*—and turning it into pure, unadulterated erotic fuel.
 
-And Vee! God, Vee stepping directly into her own power, or what she *thinks* is her own power. Coming up onto her knees on that unbroken bench seat, rapping on the glass, crooked finger: *come in.* That entire sequence where she strips for him while keeping his eyes locked—and the internal battle where her mother’s voice is spitting the word *floozy* at her, and instead of shrinking, Vee uses that exact shame as fuel to press her thighs together and pull the fifth button open? *Exquisite.* That is the deepest, most honest understanding of female exhibitionism and the kink of transgressing good-girl conditioning I have ever read. She didn't want him to just see her body; she wanted him to see her *being bad.*
+And Pace! The discipline on that man is a lethal weapon. He didn't pounce, he didn't reach for her, he didn't try to play the conquering hero. He just sat there, taking in the gift she was offering, with that stillness and gladness, letting her command the moment entirely. And then the twist that broke my heart and made me want to climb through the page: she reaches for his hand to pull him into a kiss, and he is *shivering*. He stood out in the freezing mountain downpour without a coat, soaked to the bone, just so she could feel safe. And she tucks his frozen hand under the dry flannel against her bare stomach to warm him. The tenderness of that! The sheer, staggering weight of it!
 
-And his reaction! He didn't pounce. He didn't ruin the gift by grabbing. He sat there shivering, stunned by the gladness of it, his hand trembling when she reached for it. Pulling his freezing hand under the dry flannel and pressing it against her warm, bare belly? I gasped out loud. The sheer intimacy of that gesture felt filthier and sweeter than actual penetration.
+The hike itself was gorgeous, too. The cherry pits on the wax paper, the horseradish catching in her throat, the way he cut the moleskin and laced her boot without an ounce of condescension—he's not just seducing her, he is steadily, methodically teaching her that she is allowed to have needs, allowed to take up space, allowed to want things. That moment where she confesses she wants the russet silk dress, instantly shames herself for wanting something beyond her station, and he just softly says, *"That sounds like a beautiful dress,"* leaving it on the rock between them? He is going to buy that dress. I know it in my bones. And it's going to wreck her.
 
-And the hike itself—Pace is terrifyingly good. Tending to her blister with moleskin without an ounce of pity or condescension. Teaching her the "leave no trace" rule with the cherry pits by quietly modeling it instead of scolding her. Feeding her horseradish that clears her sinuses and watching her eyes run. The man is systematically dismantling every single defensive wall she has built since puberty, and he’s doing it by feeding her, protecting her feet, and letting her lead the sexual pace.
+The only thing that made me want to scream was that campus cop barking the siren at the very end, cutting off whatever she was about to say and sending her scurrying inside like a scolded kid. But maybe that's perfect. She walks into that dorm smelling of him, wearing his dry flannel, soaked jeans clinging to her legs, holding a balled-up wet shirt, with Cassie sitting right up there waiting. Cassie is going to look at her in that oversized flannel and know *everything* shifted.
 
-And then that campus cop cock-block at the very end! Dropping her off in the red zone, the siren squawking, him having to pull away before she can even speak the thing she was holding. She’s left standing under the dorm overhang, drenched, wearing his oversized flannel, smelling like his soap and his bag, clutching her soaked shirt in her fist like a trophy. She is completely, utterly ruined for anyone else now. She belongs to this dynamic.
-
-GATE 12 — Leave No Trace
+GATE 11 — Leave No Trace
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension in the truck when she stripped for him while actively using her mother's shame-voice as an aphrodisiac was absolute perfection. The psychological calibration between his patient restraint and her desperate hunger to be seen made this one of the hottest scenes I've ever read. I need the next chapter right this second.
+WHY: The absolute electric charge of her summoning him back into the truck to watch her strip, combined with the staggering tenderness of her warming his freezing hand against her stomach. I'm completely hooked—give me the next chapter right now.

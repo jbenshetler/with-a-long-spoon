@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c10b93dddd9c · 2026-09-19*
+*capture-dag-v2-rich · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
 
-REACTION
+REACTION —
 
-Cassie is an absolute treasure.
+I feel like I need to step outside into the freezing parking lot myself just to catch my breath. The sheer psychological pressure cooker of this chapter was unreal. Vee putting on the black trousers and the high-neck charcoal sweater like armor so she wouldn’t feel like a “sex pervert,” only to end up with Randi’s stockinged toes pressed right against her crotch under the table while she confesses every single explicit detail of Pace’s paint night—it’s diabolical.
 
-*“Do you want some of my Cocoa Pebbles?”*
+And the photo. She actually showed her. The rationalizations she went through to justify handing that phone across the linen—convincing herself that *keeping* it hidden would make it weird, when handing over a picture of her glistening, swollen, painted-bare mons to the woman she’s actively fantasizing about is the most sexually charged move on the planet—shows how completely fried her self-awareness is. Randi’s foot flexing in Vee’s lap while Vee describes the firm bristles dipping into her own wetness? My stomach flipped.
 
-I literally exhaled a breath I didn't realize I was holding. That is the most devastatingly accurate depiction of female friendship I have read in months. Cassie didn't take the bait. When Vee tried to throw up the old, tired wall—*“You just don’t like her, you’ve never liked her”*—Cassie didn't get dragged into an argument about Randi. She just looked at her wreck of a roommate standing in her coat, clocked the raw, terrified panic radiating off her, and offered her cereal. It’s an olive branch, it’s a life raft, and it’s Cassie saying, *I see you spiraling, you’re not ready to look at it, so eat something.*
+Then the bathroom scene. The absolute, unhinged ferocity of that orgasm. The way her mind started with Pace’s clinical precision, lingered on the agonizing disappointment of him wiping his mouth with the back of his hand and the sheet, and then immediately substituted Randi—the dark hair, the glossed lips that *wouldn’t* wipe anything away, coming up to kiss her soaked in her own taste. It’s the ultimate convergence of shame, appetite, and pure repressed hunger. When she caught the sink and let that broken sound out, it felt earned in a way romance so rarely earns a solo scene.
 
-And the question itself: *“Is this what you want?”*
+What broke my heart, though, was Randi’s face when Vee walked back out. Not smug, not teasing, but glassy and deeply sad. Randi was sitting there in the booth with that screen glowing, holding the undeniable evidence of Vee being cracked open by someone else, waiting while Vee literally went to get off to the thought of her. And that parking lot goodbye—Randi making sure she gave her the full, uninterrupted two-stage kiss, holding Vee’s jaw until Vee went limp and clung to her coat. Vee sitting in the cold Corolla telling her fogged windshield to get her sex brain under control is the most desperate, transparent lie she’s told yet. The collision is coming, and I am strapped in.
 
-God, that cut straight to the marrow. Not *Are you cheating?* Not *Are you a lesbian?* Not even *What did I just see?* Just the terrifying, bottom-line question that Vee has spent four chapters running from. Vee can handle rules and games and Pace rationing out orgasms for confessions; she can handle Randi scripting her wardrobe and playing the voyeuristic fairy godmother. What she cannot handle is being asked what *she* wants. Because the second she looks at what she wants, the whole house of cards—the "straight girl" defense, the "it was just a bit for a boy" excuse, the safe shelter of Pace's bed—crumbles to absolute dust.
-
-This was a short chapter, basically a beat of pure aftermath, but it didn't feel like filler. It felt like the air getting sucked out of the room right before the lightning strikes. We are heading into this Saturday brunch with Randi, and Vee has zero emotional armor left.
-
-GATE 70 — Some of Mine
+GATE 71 — Gesso
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It was short, but Cassie cutting through Vee's bullshit with seven words and a box of Cocoa Pebbles was pure emotional gold. The tension leading into Saturday brunch is strung so tight it's vibrating.
+WHY: The transition from the foot under the booth to that agonizing, mirror-fogging release in the bathroom was top-tier, suffocating tension. Watching Randi look at that lit screen with genuine heartbreak while Vee scrambles to lie to her own windshield made putting this down impossible.

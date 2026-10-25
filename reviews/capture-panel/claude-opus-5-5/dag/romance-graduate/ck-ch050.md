@@ -1,67 +1,91 @@
-*capture-dag-v2-rich · carry-forward ck-ch050 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-07*
+*capture-dag-v2-rich · carry-forward ck-ch050 · claude-opus-5-5 · romance-graduate · prompt-sha b3c0511c266a · dated · 2026-10-24*
 
 WHO'S WHO
 
-Pace. Still Peter only when he's asleep, and only Vee says it. Twenty-two. Desk in the hall, the sun-porch machine, the long table in the middle of the bedroom. I finally got inside his head for a chapter and it cost him. On the quad in September he walked Randi across campus pointing at girls and read her breath, not them. Her hand went slack at the pair, she said *maybe* to the library-steps girl and *God, no* to the one running the room. "He had never once pointed at a woman he did not want." He'd already chosen, and the pointing was only to check they'd chosen the same girl. He got hard on a public lawn picturing black hair and red hair on his pillows. "That part was all you," he tells Randi, which is generous and also a lie by omission. To Randi, out loud: "She consents — every time — or I'm done. It isn't you I'm checking on." "Is she happy?" "That isn't the same answer." "You don't have to do it for me." He got her face in the mirror the whole time she thought she'd hidden it. To Vee: "Never. I'd never share your photograph." She'd said *me* and he answered *photograph*. "This is my home." "I don't go back," each word set down apart from the last, and then he moved her wine an inch. Sheri's coming for Thanksgiving: "She's alone." Five nights apart and "take the time you need," no fight in him, which hurt her more than a fight would have. Didn't help with the jeans, held the bra so she had to unwind out of it. Wore the washed flannel over his own shirt all weekend because she asked. "I love how good we are together." "I never had this either." Two breaths, and she'd never heard him take two. At Chili's he squared the fork, his eyes slid to the TV, and a flick of irritation he hid from her. It was the noise. "You know what happened after the dance." "I'm listening now." Then he lost his control for her. At the door: "You're the most important person in my life." "Do any of your friends have a relationship you'd rather have than this one?" "Words are cheap. Believe what I do." Folded his arms, held the line, then reached with the hand. "Vee." Once. He says *extraordinary* to Randi when she asks for something nice. He won't spend a word on Vee.
+**Vee (Vivienne).** Still my girl, and she's coming apart a little. Red-copper hair, big lush body, 21, junior from Ohio, econ major (the math is hers). Her mom's a nurse and saw the weight loss: "you've gotten thin," the nurse face, asked whether she's making herself sick. Vee said it was the dancing. She's been dancing ONCE. The mother-voice wire I'd marked as quiet came back at full volume in her childhood bedroom: "a fashion model's body where Vee's was a stripper's." She keeps everyone on a different set of books, and now she can feel herself doing it. Her parents got the induction photo cropped at the waist, Randi and Pace got the whole thing. She called him her "boyfriend" with a question mark on it, out loud, at her parents' table. She loves him, and since she decided he has to say it first, she won't say it. On a quilt on his porch she gave him her best sentence: "I had been eating crackers my whole life, and you fed me a meal." Then on Dec 11 she walked out of his house. She also knows Randi's father is a PPP fraud (MIRANDA on the screen) and has never let on to Randi that she saw.
 
-Randi. Miranda. Small, dark, freckles, bitter orange. The green Mercedes. Mulberry top, cream coat. Monday night in dark red silk on his couch, three times in already, and the first thing out of her mouth was Vee in stats with wet hair and his coffee, "still full of your come." She tucked Vee's hair back as an excuse. "I got my hand in it once in October, before I knew better." She told the kiss on the sidewalk while he was inside her, and the clench came on *I kiss her mouth* before she could decide anything. "I'm doing it for you." "For the threesome." "It's work." Then she counted out loud: "That's more than three." Vee had told her *two, three* at brunch, and I think Randi went and got four. "God, I want her." Then "For us." Then "Aren't you?" Pulled his arm tighter, twice. "It makes me feel real. And some nights it frightens me." "Say something nice to me." At brunch she said "It doesn't," low and uneven, eyes gone bright, over *he wants me, with the body attached*. First crack in forty-two chapters. "Miss November." "You only gave him half?" "Just us," softer than the plan called for, about Anthro. Then the library: MIRA, then MIRANDA on the worst point in the county, loans in her own name that never did what they were for. "Cheating bastards," ragged, the first time she's ever said it. She has no idea Vee saw.
+**Pace (Peter).** 22, math PhD, cooks like a religion: the pizza, the Nebbiolo, water-buffalo mozzarella. He LOVES her, and I'm sure of it now because I saw it from inside him. He heard the crackers sentence, the true answer was "whole and ready," and he chose "I love how good we are together" because he was afraid. Daphne explains it. Older, his tutor, first everything, the only woman he ever told he loved, and then she "left." "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." I think she died. He taught himself that saying the words is what makes a loss unsurvivable. Loud rooms swamp him (Chili's: squaring the fork, eyes going to the screen), which makes me think something in him is wired differently. And he's still building the threesome in his head, adding to it for weeks: Vee in his sheet with too much honey in her tea, Randi with her feet up on the lacquered seat. Randi's cashmere blanket lives on his bed, the one for "the chill that took her after." He took Randi dancing at the hall before Thanksgiving, and Sheri saw them. On New Year's Eve he got drunk alone with Vee's pictures, threw up, and the next day sobbed at a truck that wasn't her car. He still hasn't texted her.
 
-Vee. Tall redhead, swimmer, Ohio, honor society. Mom cried twice, Dad burned the rolls. On top of him with her hair a curtain. "He's all mine." "With Pace she was a girl who had a body." Did her face, came back "a girl who had decided to be looked at," let him pose her, sent it, *believing him was the brave part.* Then handed the uncropped one to Randi because Randi said *half*. Ordered the Benedict, the one that costs, paid her own, tipped too much. "Is something wrong with me? Sex pervert?" Leaned up the last half-inch after Randi's mouth and *decided that's what she wanted*. Saw MIRANDA and gave Randi busywork so she'd have somewhere to put her hands, and has never said a word about it. Took five nights for school and lasted five. Her thong landed on the bench and she never looked. Washed the flannel because it stopped smelling like him. Cropped the induction photo at the waist for her mother. "My boyfriend?" with a question mark. "Both." The cracker-and-meal sentence, her best one, built around *I love you*, and retired for good. She's started a pile, and now she knows it's there. Lied on purpose at his house ("you went cold after the Rusty Nail") because she needed it to hold. Lay naked in Cassie's draft because *the heat in the shirt was her own.* Stopped on the mat, bag in the car, coat buttoned. "Words are cheap, and you still won't spend them on me." Walked out. Didn't go back in.
+**Randi (Miranda).** I've finally been inside her (ch 48). Her father is the outlier dot, the worst point in the county. "Cheating bastards," said ragged, for the first time. She hugs him "eating her revulsion" and lives on the money anyway. Gstaad: John, the law student, the whole billionaire checklist, a white-tie ball, the sleigh. Then bed, and "a good sandwich eaten fast." "Nothing had happened to her eyes." Pace "went straight to her. That was the whole terror of him." And Vee: "Vee was her gorgeous." The only person she's ever said "I love you" to without it being currency. She can't picture Vee's face while she confesses, so she won't: "let the word keep its cover." Her whole interior left the scheme out. She never once thought "we chose her."
 
-Cassie. Finally got a table: sister's baby, dorky husband, parents who still see high school. PPP was her idea, and her dad was laid off in 2020, said flat with "no handle." She nodded along to "cheating bastards," taking it as agreement, beside the woman whose name is on it. "Is it that you can't say, or that you don't want to?" Didn't push, and Vee was a little sorry. Slept straight through the shirt coming off.
+**Cassie.** Pre-nursing, does the grunt work, and her dad was laid off in 2020. She was right about PPP and wrong about the room. "Didn't carry things into rooms she meant to walk out of." "Is it that you can't say, or that you don't want to?" "Both." Then she didn't push. She's still losing Vee by inches.
 
-Sheri. Alone at Thanksgiving with Pace and a pie she'll pretend she made. That's all she got this stretch.
-
-The stats professor clicking back and forth, Dr. Marsh's Anthro, Wardy: furniture.
+**Sheri.** I want her in every chapter. She's tiny, two-tone hair, a country girl on her own dime, cut off from her family (so maybe she's the one who's queer: Paige, the girl who wouldn't stop saying "call your mama"). She said the line to his face: "Then not saying it matters more to you than having her." "The philosophy of your food. Lord almighty." She knows about "the brunette." Brooks and Dunn cover band, Valentine's weekend, "and I don't care what the redhead's got to say about it."
 
 WHERE THINGS STAND
 
-The photo exists and has gone two places: his phone and Randi's eyes, uncropped. Pace knows the quad story, and now so do I. Randi told him everything from brunch, the sleeping, the mouth asleep since birth ("she told me first"), the kiss Vee took. The pact's spoken now: *for us, when she's ready.* Pace said yes and put a consent rule on it.
+- **41 (Nov 4 / Nov 18).** Stats project, worth 25%, the three of them. Cassie: PPP money went up, jobs went down. Randi set out to prove her dad was the good exception, and her own graph caught him: MIRA, the outlier. Vee covered for her with busywork and never said a word.
+- **42 (Fri Nov 20).** She'd taken five nights off for school, and he didn't fight for them. Then the reunion, finally SHOWN: the hallway strip, jeans inside out, white socks, him holding her bra so she had to unwind herself out of it. "Her body having just published the number." Pizza. The flannel: she washed it because it stopped smelling like him, and he wore it all weekend over his own shirt. There was a "long, unusually proportioned table" in the middle of the bedroom. ??
+- **43 (Sun Nov 29).** Cafeteria with Cassie after break. Ohio, the cropped photo, Mom's nurse face, "boyfriend?" with the question mark. Thanksgiving at Pace's with Sheri happened offstage.
+- **44 (Sun Nov 29, dawn).** Porch, quilt, crackers and a meal. Two breaths. "I love how good we are together." Then the laundry room, and the pile of small repairs.
+- **45 (Fri Dec 4).** "Is this what we are now?" said too loud in the dark. Chili's, the nachos ruined forever ("billboard to a painting"), her rewriting the Rusty Nail fight while knowing it was a lie. "You know what happened after the dance." "I'm listening now." Makeup sex where he finally lost control. She came with his name in her mouth and not the other thing. She "forgave" him, and it didn't hold.
+- **46 (Fri Dec 11, night).** Top bunk, the shirt worn bare, then taken off. "The heat in the shirt was her own." She lay naked in the cold on purpose.
+- **47 (Fri Dec 11? the timing's fuzzy).** She left the bag in the car. "What am I to you out there?" "Most important person in my life." "Do any of your friends have a relationship you'd rather have?" "Words are cheap. Believe what I do." "Words are cheap, and you still won't spend them on me." Arms folded, he went silent, she cried and walked out. "Vee," once.
+- **48–50 (New Year's Eve, three rooms).** Randi in Gstaad, Vee in Ohio, Pace at the diner and then the whiskey. The texts crossed: *thinking about you 💛* / *you ANGEL 😇 … fairytale*. Neither said "the thing." Vee invented Randi's billionaire herself. No contact between Vee and Pace for three weeks. Jan 1, Pace hungover, eating prison chicken, sobbing at the wrong engine.
 
-The PPP project: Randi's name on the outlier. Vee knows, Randi doesn't know she knows, Cassie doesn't know at all. It's due, and it's twenty-five percent.
-
-Anthro, Tuesday and Thursday seven to eight-twenty, Vee and Randi, "just us," starting sometime.
-
-Thanksgiving's done. Ohio, the cropped picture, Dad pricing the dress. Pace's day with Sheri never shown and never asked about.
-
-Then three chapters circling the same unsaid word. The porch at moonrise: crackers, and "I love how good we are together." Chili's, the fight, "I'm listening," forgiven, sex where he lost himself, then her lying awake with no name for him. The bunk, the shirt off, naked in the cold, no sleep. Then his door, the chicken going, two glasses poured. She asked what she is, he gave her a ranking and a question, she said the cheap-words line, he folded his arms, she cried, he reached, she left. She's out in the cold with no bag and the flannel's back in the dorm in a heap. He won't chase what doesn't consent.
+The couple's apart and the term starts soon. Vee has a date circled for Randi and nothing at all for Pace.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Pace. I trusted him more and was more scared of him in the same chapter. "Or I'm done" is real. He's the only one at this table steering by a rule. But "never share your photograph" was a man answering exactly what he can keep. "I never had this either," with Randi's fourth still on his couch, is either a lie or so narrow it might as well be one. I think he truly can't answer her. Any honest name for her has Randi and a lawn and a bench in it, and the arms folding was what that costs him. Chili's broke my heart *for* him: drowning in noise, and she read it as shame. I don't think he's cold. I think he's built a house where every true thing is done with hands, and she just asked him to say one out loud. Right now I'm angry at him the way you're angry at someone you'd still go home with.
+**Vee.** Fierce love. She was mean at Chili's and I loved her for it, because it was honest. Walking out with the bag left in the car was the most grown-up thing anyone's done in this book. But she's thinning in more ways than one, and I'm worried about her body. She's also kinder to Randi than Randi has ever been to her, and nobody knows it.
 
-Randi. God help me, I'm on her side. I still don't trust a word she says about why. "It's work" while she comes on it. "For us" a second too late. She's in love with Vee and the only place she can say it is into a couch rail, and he heard it and so did she. She's a girl who gets *extraordinary* when she asks for it, who says she's frightened by being seen, who just found her own name on a fraud. Somebody did that to her or she did it, and I can't tell which. Vee thinks "no hand in it." I'm not sure. And she's going to be the warmest door on campus tonight.
+**Pace/Peter.** I'm furious and I ache for him. The Daphne stuff explains him without excusing him. He heard her and picked the smaller truth, and then he cried over it instead of picking up the phone. And the drunk fantasy that's supposed to fix it puts Randi at the table. Any word he gives Vee "out there" blows up the arrangement, and I don't think he's admitted that to himself. He owes Vee the word AND the truth, and right now he can't give either without the other.
 
-Vee. Proud, scared, a little exasperated. She did the bravest thing she's done, holding the mat, and the best line in the book is hers. But she spent three chapters circling, and I felt the book circle with her. What she did for Randi in the library is love, she doesn't know it's love, and it's the most generous thing anybody's done in fifty chapters. She's sorting herself out in versions: the waist for Mom, the toes for Randi, the whole of her for him, and no name from anyone. She knows the pile is there now. I'd follow her anywhere. I'd like her to turn the car toward Cassie.
+**Randi.** I'd die for her and I'd also shake her. She's in love, she's a coward on purpose, and she lay in that bed probably knowing Vee had walked out of Pace's door. She's the dangerous one and the loneliest one.
 
-Cassie. The only honest one, still. I wanted her awake in that bunk so badly. She's holding a weapon she doesn't know she has, and I'm afraid of the day she finds out whose name it is.
+**Cassie.** Still on her side. She asks the right questions and gets half-answers.
+
+**Sheri.** Total trust. The only honest mirror anyone has.
+
+**Who owes whom.** Pace owes Vee everything, starting with a text. Randi owes Vee the truth in two directions. Vee owes Randi nothing, and she's carrying Randi's secret for free.
 
 WHAT I'M CARRYING
 
-The red curtain of hair. "He's all mine." His feet off the edge of the bed, head on her breast, the theory spoiled and her pleased. "A girl who had a body." The nail tapping the tooth three times. "Never share me." "Never share your photograph." His hands setting her and his mouth after: shoulder, hip, knee. The lampshade tilted. "Hm. Yeah. That's the one." Delivered. "Believing him was the brave part." "I don't go back." The wine moved an inch. "She's alone."
-
-"You're just finally hungry out loud." The yolk running. "Eating with the sound off." "I've never once heard it start." "It doesn't." "Miss November." "You only gave him half?" "Showing him your toes." "Just us." The last half-inch, taken.
-
-"Still full of your come." Wet hair three shades darker, gold coming up in it. "You were wet by the time we got to the fields." "Am I wrong?" Copper in the wind, the four o'clock sun. "That part was all you." "It isn't you I'm checking on." The mirror past the end of the couch. "It looks good wet." "It feels even better." The clench on *mouth*. "I'm doing the work." "That's more than three." "God, I want her." "For us." "Aren't you?" "I am." Two fingers alongside the scratch. "Real. And some nights it frightens me." "You are extraordinary." "Mn."
-
-MIRA. MIRANDA. The withdrawal of motion. "Cheating bastards," plural, with nothing after. Somewhere to put her hands.
-
-Five nights. Jeans as the enemy, white socks, the bra off a spool. The thong green on the long table, never looked at. "Her body having just published the number." Water buffalo. The peel's snap. Two shirts in a warm kitchen. "Smelling like me."
-
-Cropped at the waist. "Boyfriend?" "Sex he understands. The sewing he never would." "Both."
-
-The moon in the porch glass, coffee already cooled for her. "I had been eating crackers my whole life." Two breaths. "I love how good we are together." "I never had this either." The small *wait*. The pile. The dryer stopping.
-
-"Is this what we are now?" "Don't get me wrong — it's really good sex." Chili's: the fork squared, the TV a foot over her head, irritation dropped like a coin. Nachos, every color stirred to brown. "I'm listening now." Forgiven, warm and easy to wear. Coming with his name and not the word.
-
-Shirt over shirt. The empty text field. "The heat in the shirt was her own, given back." Naked in the cold, the flannel in a heap, the window going gray.
-
-The coin taste. The mat. Two glasses poured. "Most important person in my life." "Do any of your friends." "Words are cheap. Believe what I do." "And you still won't spend them on me." Arms folded. The hand. "Vee." Once.
+- The point off on its own in the white. MIRA. "The withdrawal of motion." "Cheating bastards."
+- Vee giving Randi "somewhere to put her hands."
+- Jeans "the enemy now," hopping one-legged. "You're not helping." "I'm helping." Unwinding off the spool.
+- "She'd have burned the house down for him."
+- Two shirts in his warm kitchen. "Smelling like me."
+- "I put a question mark on it." Mom touching her own collarbone. Seconds watched "like they might be a trick."
+- Crackers and a meal. His hand stopping on her shin. Two breaths. "What your body does."
+- "The needing made her mean." "I'm listening now."
+- The lie she knew was a lie about the Rusty Nail and the pie.
+- "The heat in the shirt was her own." Dropped "where a dropped thing lands."
+- The bag left in the car. The door kiss she didn't give him.
+- "Words are cheap, and you still won't spend them on me."
+- "Nothing had happened to her eyes." The lipstick ring.
+- "Vee was her gorgeous."
+- "Every word of it true. None of it the thing."
+- The blonde taking her chair in the fra diavolo memory. "She could not keep her own night."
+- "Then not saying it matters more to you than having her."
+- "Daphne was the person he would have told."
+- The cashmere blanket folded back where it lives.
+- The wrong engine. "He did not let go of it." "He ate anyway."
 
 WHAT I'M WAITING FOR
 
-Where she drives. Cassie and I'll cry. Randi and I'll stop breathing: the one person who knows the whole answer to *what am I to you*, the warmest booth on campus, *best friend in the whole world*, and "God, I want her" two chapters back. Whether Pace follows or stands there with the chicken because of his rule. Whether he calls Randi. Whether Randi tells him Vee showed her the uncropped photo, and what *never share* means to him then. Anthro, Tuesday at seven, just us. The PPP write-up, Randi standing up in front of the class with her own name in the data, and Cassie finding out. Whether Vee ever says she saw. The bench, and the day she finally looks at where her thong landed. The scar and "I don't go back." What Thanksgiving with Sheri was. Peter, awake, in front of Randi. "Or I'm done," and whether he ever turns it on himself. The flannel: does she go back for it or leave it in the heap. The jacket promised "one more door raised and not yet opened," *warmer*, and a threesome everyone's calling "for us." I want it, I'm dreading it, and it can't happen while she's walking out of his house. And please, no fourth chapter on the unsaid word. She left. Now it has to move.
+- January: who moves first? He'd better. I want him at her door, or the word, or both.
+- First brunch back. Vee telling Randi about the walkout, and Randi "comforting" her and carrying it home to him.
+- Does Randi know they're split? What does she do with a Vee who's free and hurting?
+- The bedroom table. Why plant it like that?
+- The blanket, the scratch, any trace of Randi that Vee finds.
+- Vee's weight and her mother's question. Is the book going somewhere dark with it?
+- Daphne: died or left? The scar.
+- The PPP project turned in, and whether Cassie ever learns whose dot it is. Whether Vee ever tells Randi she saw it.
+- Valentine's weekend at the hall with Sheri. Will both women be there?
+- Anthro nights. They vanished.
+- HEAT. The book promised "warmer." The last real sex was ch 45, and since then it's been one numb hotel bed. I need them in a room.
+- My stall alarm: 44, 45, 46, 49 were all the same ache, and the cold-bedroom trilogy was clever but it's done. One more solo vigil and I'm skimming.
+- Gripe tally so far: the book underlining its title ("received warmly," "easy to see if you knew to look"), weird-vs-wrong, "not the hand in place of the word," "afraid of how much she could hurt him," the John scene fading out when Pace's never do.
 
 WHAT'S FADING
 
-The lemon chicken is zest and capers and butter at the end. The pizza is a stone and cornmeal sand and the Nebbiolo's tar. I can't keep the food apart anymore, and three of the tasting speeches have merged into one. The brunch recap of the sex is just "two, three" and "both." Randi's tray-passing speech about Vee from Pace's side is gone; I've got *machine switched off in his house.* The PPP explainer was skimmed, and all I have left is "went up, not down" and Cassie's dad. Which floor the library room was on. Cassie's sister's husband is just *dork*. The induction photo vs. the bed photo: I know which one Mom has. Which night Chili's was, and what he talked about on the drive. A podcast, students. The porch quilt and the den fire have blurred into one warm room. Daphne, the Rusty Nail, the pie, the practice room are a stack of single words now, pie and *welcome* and a bolt. Robert Redford is long gone. Brooke's folder, the blonde, Meg: names I'd have to look up. I'm carrying a photo sent on a promise worded wrong, a woman counting to four on a couch, a dot in the white with her name on it, a shirt in a heap, and a girl on the cold side of a door. That's enough to pick it back up on.
+- Most of before ch 30 now: the hike, the truck in the rain. All I've kept is the flannel coming from that hike.
+- The Rusty Nail fight itself. I only know Vee went cold and he brought a pie. The bartender's lines came back to me via Vee.
+- The induction details are softening into the one photo and the long step.
+- The ch 31–40 order is already a blur except the quad, the mirror, "God, I want her," and the photo.
+- Whether Pace ever answered the induction photo. Lost.
+- Which brunch room was which.
+- What the stats project was actually supposed to show statistically. "Outliers," and that's it.
+- The exact date of the walkout (the 11th, I think, the same night as the bunk?), and how the November 4 flashback fits.
+- Brooke, Meg, Kayla, the stats friend: gone.

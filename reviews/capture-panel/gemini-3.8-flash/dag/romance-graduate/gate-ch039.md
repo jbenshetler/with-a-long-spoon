@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-God, the sheer, agonizing *dissonance* of this chapter. It is utterly delicious and makes my stomach hurt with pure anxiety.
+I am screaming into a pillow. I am actually gripping my Kindle so hard my knuckles are white.
 
-*“He’s all mine,” she thought.* Oh, Vee. Oh, you poor, sweet, utterly ruined girl. My heart literally sank when that line hit the page. She is lying there in his bed, sated down to the marrow, thinking she’s the center of his universe, while he is meticulously staging her body like a vintage pinup. And the way he posed her! It wasn't just taking a naked picture; he literally rearranged her limbs, kissing every joint as he set it—the shoulder, the hip, the knee—turning her into an object d'art. He has her so totally, completely compliant that she doesn't even realize she’s being curated. And then the chilling irony: *“Only if you promise you’ll never share me with anyone.”* / *“Never. I’d never share your photograph.”* The technical truth of that answer! He won't share the *photograph*, maybe, but he and Randi literally arranged her like a chess piece before she even knew his name. It’s devastating.
+"Only if you promise you'll never share me with anyone." That was two days ago! She made him promise not to share her photograph, and then what does she do? She takes the phone out of her own purse, gets insecure because Randi teases her for only showing the half-crop, and hands over the *entire naked pinup* of herself to the woman who is sleeping with her boyfriend.
 
-And then the kitchen. The sheer sensory overload of his cooking never gets old—the hiss of the pan, grating the yellow off the lemons, crushing the garlic under the heel of his hand, swirling butter off the heat into silk. He has trained her palate the exact same way he’s trained her body: she can’t just *eat* anymore, she has to taste every distinct layer. He has made her sensitive to everything, and she credits him for all of it.
+The psychological warfare Randi is running here is terrifying because she barely has to push. She just sits back in that dark velvet booth, acts warm and indulgent, drops the exact line from the book's jacket—*you're just finally hungry out loud*—and Vee practically turns herself inside out to offer up every sacred detail. She gave her the sex, the playlists, the cooking, the sleeping through the night, and then the actual photographic proof of her bare body laid out on Pace's sheets.
 
-Then that little tripwire at the end: *“I don’t go back.”* That flat, shut door about his family. For a split second, the master puppeteer showed the cold, reinforced steel underneath the warmth. There’s genuine damage there. And bringing up Sheri for Thanksgiving! Vee feels that tiny prick of territorial jealousy, only to instantly fold it away into pure pity because “she’s alone.” Vee has no idea Sheri knows *everything*. Sheri knows about Randi, Sheri laughed at the disaster coming for Pace’s two-timer life, and now Sheri is going to sit at that exact table eating store-bought pie while Vee is away. The web is so thick around her now, and she is so happy inside it.
+And that moment where Randi faltered? When Vee talked about feeling looked at, about him wanting *her* and not just a body, and Randi actually lost her footing for half a second? That gave me chills. Randi is realizing that this isn't just an erotic game or a hot little project anymore. Pace is falling in love with Vee, and Vee is in love with him, and Randi is caught between being turned on by the performance and realizing the ground is giving way beneath her feet.
 
-GATE 41 — In His Hands
+Then the kiss outside the restaurant—Vee chasing it! Leaning in for that extra half-inch, tasting the goodbye. Vee thinks she's just basking in the glow of an ultra-glamorous friendship, but she's walking straight into the spider's web with a smile on her face. Signing up for an evening class together next semester? "Just us"? The slow-motion car crash is breathtaking. I cannot look away.
+
+***
+
+GATE 39 — All the Time
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute masterclass in dramatic irony is suffocating in the best way. She thinks she owns him completely while promising nudes to a man who is actively concealing an entire shared life with Randi.
+WHY: The sheer dramatic tension of Vee handing over her explicit photos to Randi while believing she's just confiding in her best friend is unbearable in the best way possible.

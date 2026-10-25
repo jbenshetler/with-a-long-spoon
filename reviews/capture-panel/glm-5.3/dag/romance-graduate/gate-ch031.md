@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-01*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 14896ed4fc37 · dated · 2026-10-24*
 
-REACTION — The stairwell to the bathroom is one of the best pieces of writing this book has given me, and it's a woman sitting on a toilet NOT touching herself. "Her hand knew the way. It moved before she did. She caught it and put it flat against her own knee and held it there." That's the whole book in one gesture — Vee choosing, in real time, which yes she says and which she doesn't. She refused to say yes *to that story*, in a bathroom, and I sat there genuinely tense about whether she would. That's craft I can feel in my teeth.
+REACTION — Okay, the induction actually happened and it wasn't the train wreck I was braced for — it was better, because the book took the daydream I've been side-eyeing for ten chapters and *corrected* it. Vee pictured walking in late, the room turning on its own, "what she was for" — Randi's philosophy wearing her skin, I wrote — and then the real room refused her. Nobody watches anybody in these ceremonies, the navy girls cross and come back unlooked-at, the room is "warm and dull and kind." And then she does it ANYWAY, but on her own terms, one long step, a half-second before her head was sure. That's the difference between performing hunger and having it. That's the whole arc of this book in one stride across a stage.
 
-And Randi. Randi in this chapter is terrifying and magnificent and I finally saw the game's third layer moving in the open. Look at what she did: Vee skated past the middle ("it was really good"), and Randi didn't let her. "His hand was wet." Randi *reconstructed the scene from the detail Vee gave away*, the wet hand, the dishes — and then she put her own story on top of it like a demonstration, over-the-knee, count every one, "it made me buck." That wasn't sharing. That was teaching, in a soundproof room, with the door shut, and she got exactly the reaction she was fishing for. Vee stood up and fled to a bathroom and the proof was "soaked through, made by nothing but a woman talking in a chair." Randi walked out warm as anything "as if she'd meant nothing in the world by it. And Vee couldn't tell whether she had." Neither can I. That's the sentence that's going to keep me up.
+The bare-under-the-silk reveal — that she found out in his mirror that the dress *demands* it, so wearing it as built means wearing nothing, and she chose the dress — god. That's Pace's courtliness transmitted straight into her. He asks before he takes; she decided before she walked. And the line that got me most wasn't the strut, it was "nobody in this room who had ever taught her what to be ashamed of" — her parents' absence, the bright phone-voice, folded into the secret between her legs. The book keeps doing this, sneaking the grief in under the heat like a hem.
 
-The outliers lecture — I promised myself I'd resent a second classroom wink and I don't, quite, because it earned it differently: the second kind of outlier "comes in through the part that carries forward. It's in everything that comes after." That's the swat. That's the weekend. That's not a cute parallel, that's the book telling me the kink is load-bearing now, in everything after. But that's your second one, Helen Rivers. There is not a third.
+Cassie. Cassie, who I've been mourning as demoted, got the whole frame — she read her "fast and whole," took the photo, took her phone AWAY before the ceremony so she'd have to be present. "Like a movie star" with bright corners she'd deny. She's the only person in Vee's life who isn't running an architecture on her, and the book knows it, and I love that the chapter knows it.
 
-The ending gutted me quietly: Vee holding on after the hug was over, arms slow coming down, "put it down to that." She's falling for Randi and filing it under residual Pace, and the reader has to watch her misfile it. And Cassie getting the side of Vee's head — "see you in the room" said to nothing — that stung. The person who loves her got towed past twice in one hour.
+And the photo send. "He would have no idea what else was in the frame. That part was hers." She sent it uncropped — the leg, the nothing underneath — and I don't know if she's telling him or not telling him, and NEITHER DOES SHE, and neither do I, and that ambiguity is the most erotic thing in a chapter with a woman broadcasting her bare thigh to a hall full of parents. Also: he missed it. He made the dress for this exact walk and he was in Berkeley and I felt that ache on his behalf like a bruise. Where's Randi this chapter? Absent entirely — first time in ages the triangle is just Vee, alone, choosing herself, and it's the strongest chapter in the book for it.
 
-The Friday-report pattern now has a mirror: Randi reports Vee to Pace in bed, and here Randi extracts Vee's weekend for her own consumption in real time. Third time confirmed load-bearing. I'm just not sure for whom.
-
-GATE 33 — The Practice Room
+GATE 31 — The Induction
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 8
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The bathroom refusal is the most charged two paragraphs in the book and nobody took a stitch off — that's the both-things-at-once I'm starving for, and Randi's ambiguity (teaching or wanting? both?) finally makes the third game feel like it's moving. I'd read on for the next Randi scene alone.
+WHY: The payoff chapter for thirty chapters of hunger and it delivered without collapsing into either the daydream or the shame — the long second step is the best thing this book has done. Next drops slightly only because the induction, my biggest wait, is now spent; I need to see what the book thinks its story is now.

@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch012 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch012 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
 REACTION
 
-Okay, so this is the exhale chapter, and I felt it as one. Twelve was the big one — the truck, the buttons, the flannel, him standing in the rain with his back turned — and thirteen is Vee coming home to Cassie to tell it. Which is exactly the shape this book keeps using: the thing happens, and then she puts it in someone's hands. Randi last time, Cassie now. And the difference between those two rooms is the whole book, honestly.
+Oh, this is the exfiltration chapter. This is the debrief. And it's two pages of two girls talking and I didn't once want to skim it, which tells me something.
 
-Because here's what got me: with Randi, telling it is *foreplay* — Randi draws her open, names the wanting, hangs the picture up ("ravish," "your man") and Vee walks home under it. With Cassie it's the opposite. Cassie doesn't draw anything out. She sets Vee's name down "like setting something down where it wouldn't break," and that "Vee." — not *Oh, Vee* — landed on me hard. That's the alarm bell my proxy rings, and this time she rang it soft, because there's nothing to argue with. A man knelt and fixed a blister and gave up his only dry shirt. What are you going to indict? Cassie can't find the seam again. "Borrow real boots next time" is her whole verdict, and it's love and it's helplessness at once. She sees the flannel-three-sizes-too-big picture instantly and she *lets Vee have it.* Even Cassie is letting Vee have it now. That's the scariest thing in the chapter and it's four words long.
+Here's what the book just did to me, and it's cold: I watched the single most real thing that's happened to Vee — the truck, the knocking on the glass, the buttons, *I want him to see me* — get turned into a story she tells. And the second she starts telling it, I remembered what the telling is FOR. Every lunch, every dorm-chair confession, is the pipeline. So I'm sitting here with Cassie, loving this scene, and under it a little alarm going: who gets this transcript next? Because Vee doesn't pour into Cassie, not really — she performs the adventure at Cassie, *and then we ate, she said it the way other girls said and then we kissed* — but the operation runs on what she pours into *Randi.* And this is the first time I've watched the raw material get generated. The flannel is evidence. She's wearing the evidence to class.
 
-And I noticed Vee editing. "He didn't touch me... he just looked" — she's building the consent file again, handing me the evidence, this time through Cassie's rapt silence as corroboration. She's so proud. "I have never gotten anywhere on my own legs in my life and I got up a mountain." God, that's the real thing under all of it — she thinks she climbed a mountain on her own legs, and the whole book is that someone drew the trail.
+But — and this is why I didn't stop — Cassie is the one honest instrument and the book gave her the right notes. She doesn't do "Oh, Vee." She does "Vee." Just the name, "like setting something down where it wouldn't break." That's the whole relationship in one gesture. Cassie knows. Cassie has clocked the three-sizes-too-big shirt before Vee says a word, and she lets Vee have it anyway, because what's the alternative — tell her? With what? Vee got up a mountain on her own legs and she's lit up like I've never seen her. You don't take that from someone on a Sunday night. "Borrow real boots next time." That's Cassie loving her sideways, the only way Cassie does anything. The deadpan "I had your blood type ready." The "No windowless van." She's funny and she's watching and she's scared and she won't say the scared part. That restraint is the most adult thing in this whole book.
 
-But — and this is the honest part — I'm a little impatient. This is a two-page chapter and I've never read one of those, and my read is: it's a beat, not a scene. It's doing real work (Cassie can't stop her; the shirt is kept; the debrief-as-mirror-to-Randi is deliberate) but it's *short* and it's the second debrief structure in a row after a chapter that already gave me the goods. I didn't need the recap of the hike I just read. I got the horseradish and the pit and the blister *live* in twelve; hearing Vee re-narrate them to Cassie is thinner the second time. What I'm actually here for — Randi's want cracking her face in front of Vee, the three of them in one room, the game costing someone — none of that moved. Cassie is clean and I love her but she's a cul-de-sac; the danger doesn't live in her room.
+What got me, actually got me, low in the stomach: *"he looked at me like I'd handed him something. And he didn't touch me."* Vee telling it as the triumph it was for her — I chose, I showed him, he was glad and still. And I believe her that it was real and good. The horror and the heat are the same fact: it WAS real and good, and it's also the product. Both true. That's the thing this book keeps doing that the hockey-player books never could — it won't let me have the warm version clean.
 
-What I'd text a friend: "the truck scene last night was UNREAL and then the next chapter is just her telling her roommate about it and her roommate going 'keep the shirt' and somehow THAT'S the one that scared me." The heat came back in twelve, fully, both-at-once, the way the first three chapters promised. Thirteen is the cigarette after. I'm not mad at it. I just want Randi back, and I want the walls to touch.
+The one note I'm turning over: Cassie "rapt," Cassie "still and stayed that way" during the truck part. Good. Right. But I notice the book telling me Cassie went still *the way Vee slowed at the tree* — it's reaching back to rhyme for me, and I almost don't need the reach. I caught it on my own. That's the closest this came to explaining its own subtext, and it's a venial sin, one clause.
 
-GATE 13 — Rye
+What I'd text a friend at 1 a.m.: "she's keeping the shirt. the SHIRT. and Cassie just said keep the shirt and I want to scream because the shirt is the least of it." And then: "the problem is I'd keep the shirt too."
+
+I want Randi now. I want to watch Vee hand THIS story — the truck, the buttons — across the white table, and watch what Randi does with her face when she gets it. Because that's the payload. This chapter loaded it.
+
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-ALMOST-STOPPED: none — but the closest thing was reading the hike recap I'd just lived through in the chapter before, feeling the retread of it.
-WHY: A tender little coda that does one real thing — even Cassie, my last clean alarm, hands Vee the flannel and says "keep the shirt," and that helplessness chilled me more than it comforted me. But it's a two-page exhale re-narrating a scene I just read, and I'm keen for the next chapter mostly because twelve proved the heat is back and I want Randi and the game to move, not because thirteen earned it on its own.
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A bridge chapter that earns its keep — the debrief that turns the truck into ammunition, with Cassie doing the only clean loving in the book in four words. Low capture because it's a chapter about a chapter I already lived; sky-high next because the story she just told is the thing she's about to hand Randi, and I need to watch that landing.

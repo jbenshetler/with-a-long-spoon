@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch009 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · 2026-10-10*
+*capture-dag-v2-rich · gate ch009 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
-## REACTION
+**REACTION**
 
-I spent this whole chapter on two tracks, and that's what kept it going for me. On top it's a sweet first date. Underneath, every lovely thing he does reads like a tactic once you've seen the bench. "May I choose?" is the same move as the bench, just at dinner. She hands him the menu, feels the relief of giving up the choice, and the book has already shown me what that relief turns into in his bedroom. He never tells her where they're going, and she decides she "could trust where he was taking her." I made a noise at that.
+I'm reading this whole chapter with chapter 7 in my other hand. Every sweet thing he does for Vee, I'm also watching him tell Randi about it later on the couch with her straddling him. "She built a cup like nobody had ever told her when to stop" was his report on the froyo. So what does he hand Randi after this one? *She ate. She stopped watching herself eat.* I can't read "May I choose?" as just courtly. Two chapters ago he was slicing apples thin for a girl whose mother lives on egg whites, and now he's feeding a girl whose mother says *that's plenty*. Feeding hungry women is his move, and the book knows it. The dramatic irony turns a lovely first date into something that's lovely and makes my stomach drop, both at once. That's exactly what I want from this.
 
-The food is the part that got me. Randi gets thin apple slices, cut sides up, and Pace notices how she polices herself. Vee gets a whole table of bread and dips and eats without watching herself, and doesn't notice she's stopped. Two women, two different hungers, and he feeds both, sized to each of them. In chapter 7 Randi had him on the couch asking whether "she" ate all of it. Tonight I kept thinking about him reporting this meal to Randi, and that's creepy and hot at once. The book doesn't spell it out, which I appreciate. It trusts me to carry chapter 7 into this one.
+What got me most was the restaurant section, Vee losing the thread of what he's saying and letting it go. "The not-needing-to was the most restful thing she had felt in as long as she could remember." This girl has been doing social labor every second we've known her: at the high table, filling Cassie's silence, catching every beat. Watching her stop felt physical, like a shoulder coming down. That's real interiority, not a heroine who's just a camera. Then he licks the smoky dip off the side of his hand and she drops the thread completely. That's the hottest moment in the chapter, and nobody touches anybody. Fine by me.
 
-Vee's interiority is real. Losing the thread of the conversation and letting it go, the "low background readiness" for the bill to come due switching off: I believed those, and they're grown-up observations. I liked the elevator doors timing out on her too. That's a girl actually flustered, not a cute-flustered heroine.
+The kiss works because it's the bench rhythm again: he backs off and lets her decide. He did it at the door with Randi in chapter 1. "He wasn't going to take it any further than she had." On page one I read that as respect. Now I also read it as a method. That's why "every yes was freely given, that was the problem" from the jacket is starting to bite. I liked her saying her rule out loud and then planting her feet. Better still, he didn't wait her out, he just started walking, and *she* stopped him. The grin inside the kiss was cute and earned.
 
-The writing got heavy in places, though. "Her hand had been wrong all evening, all its life maybe, for want of his exactly." That's a lot to hang on a held hand. The right-hand paragraph clanked: "a pattern now, enough times over to be one." Then Cassie says "That's not a boy. That's a man," and I rolled my eyes. I've read that line in forty KU books. "I'm making an exception" is pure rom-com too. And the kiss itself, his leaving her the last inch twice, is well done but very familiar. It's his consent dance again, now with mint.
+Gripes. Cassie's "That's not a boy, that's a man" is a fridge-magnet line, and Cassie is better than that. Two chapters ago she was saying "Goodbye, Vee" like a prophecy. The hand-holding paragraph, "her hand had been wrong all evening, all its life maybe," pushes past what I needed; I'd already felt it. The book also tells me how much the surrender meant ("more than she'd have guessed such a surrender would") right after showing it. And I noticed this is the second quiet Vee chapter in a row after the pool. It doesn't feel stalled, because the date is the event, but I'm aware that all the real heat so far has been Randi and Pace. I need Vee's body in play soon, not just her appetite.
 
-Pace and the pool were both quiet, and now this. The bench and Randi in his lap are carrying a lot of credit for this book right now. I don't hold the slow burn on Vee against it, because the slow burn is clearly the point. But I'm reading this mostly for the dramatic irony. What I actually want next is Randi's door, the deadbolt going over, and "Tell." That's the scene I'm turning the page for.
+The 1 a.m. text: *he took her to a Lebanese place and ordered for her and she ATE and I wanted to scream, he's feeding them both, he's going to go home and tell his girlfriend about it.*
 
-The 1 a.m. text: *he fed her with his HANDS and she let him pick everything and now I'm just waiting for him to go home and narrate it to his girlfriend in bed. I hate how much I want that scene.*
-
-## GATE 9 — May I Choose
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: "That's not a boy," she said. "That's a man."
-WHY: This was a gentle date chapter with a beautifully handled hunger thread and a solid first kiss. The pull came almost entirely from knowing what Pace and Randi know, not from anything on the page being hot. I want the next chapter because I'm betting it's the debrief. If it's another quiet one, my patience is going to start costing the book.
+WHY: It's a soft first-date chapter, but the irony from chapters 1, 3 and 7 makes every courtly gesture double-edged, and Vee letting go at that table was real. Now I want two things, Pace reporting this to Randi and Randi's face when he does, and that's why NEXT is higher than CAPTURE.

@@ -1,22 +1,32 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bca2ed17019a · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0738735086d3 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this one made me ache.
+Holy shit. My stomach is actually in knots.
 
-This chapter is the mirror image of chapter 13, but the emotional stakes have climbed so steeply that it almost hurts to read. In chapter 13, she came back from the mountain in his flannel, battered and alive. Here, she comes back fundamentally altered. The sheer genius of how this book handles Vee’s debriefs with Cassie versus her debriefs with Randi is staggering. With Randi at the smoothie shop, it was performative, pressurized, like being put on another high shelf. With Cassie, it’s just the two of them on a dorm bed with a highlighter and a radiator clicking, and Vee gets to unpack the miracle of being treated like a human being instead of a problem.
+The contrast between the two halves of this chapter gave me complete emotional whiplash in the best, most terrifying way.
 
-The revelation about the shirt having no tag—God, of *course* he made it. He hand-tailored the flannel she’s been sleeping in like a second skin all week. And the realization about the thermostat: *"He turned the heat up before I got there. So I wouldn't be cold."* That hit me straight in the chest. That isn’t just seduction; to Vee, who has spent her whole life managing her "too much" body and apologizing for taking up space, that is an act of almost sacred care. It’s what makes the manipulation so profoundly unsettling—because it *is* real care. Pace is a terrifyingly brilliant architect, but he isn't faking the tenderness.
+First, the Cassie debrief: I love Cassie so deeply. That entire scene felt so warm, so grounded, so purely *earned*. The banter about whether a guy who sews and powerlifts is gay, Vee throwing the pillow, the sheer breathless delight of Vee admitting she was the one leaning into him—it felt like real girl-talk in a dorm room on a Sunday afternoon. You could breathe in that room. It was safe. And Vee is so utterly, beautifully smitten. She’s walking around in a golden daze because she thinks she’s being cherished.
 
-And then the shift at the end! Cassie asking if he’s gay because a red-blooded man had her half-naked on a riser and chose a tape measure over his hands—Cassie asking the exact question any normal college roommate would ask. And Vee’s deadpan, wicked confession: *"I was grinding on him."* I laughed out loud. The sheer joy of Vee discovering her own sexual agency, leaning back against him, pressing her breast to his cheek, completely intoxicated by the fact that she can rattle this fortress of a man.
+And then comes the Mercedes.
 
-It’s hilarious, it’s sweet, it’s so grounded—and it makes the trap twenty times more terrifying. Because Vee truly believes she is the predator here. She thinks she’s the one testing his limits, having the time of her life being "bad," entirely unaware that the stage, the lighting, the temperature, and the script were built for her weeks ago.
+God, Randi is a menace. That lunch scene was an absolute masterclass in psychological manipulation and sexual voyeurism. The way Randi operates is breathtakingly predatory, but wrapped in so much silk, cashmere, and high-status charm that Vee doesn't stand a chance. Randi’s story about being tied to the headboard and tickled? It’s not just an anecdote; she’s actively feeding Vee concepts of sexual surrender, grooming her psychological palate, preparing her for the bench and the ropes while disguising it as cute girl-talk over salmon and chardonnay.
 
-GATE 18 — Turned Up
+And then the interrogation. Randi knew *every single detail* because Pace had already built the trap! Randi knew the house was heated. Randi knew about the platform. Randi knew where the tape went. Watching Randi walk Vee right to the very edge of confessing that she soaked through her satin panties—and then, right when Vee is completely defenseless, having Randi shut the door with "You don't have to tell me"—it was chilling. Randi realized she was pushing too hard, or maybe she couldn't take the heat of her own jealousy and desire without breaking character. It felt like watching a cat let the mouse go just an inch so it can keep playing.
+
+And then THAT KISS AT THE CURB.
+
+I gasped. The double press on the mouth! Randi didn't just give her an airy European cheek-graze; she laid her mouth on Vee's, pulled back, and went back in for the taste. The sheer audacity! And poor Vee immediately scrambling for the rationalization—*it's French, it's just European, she's cosmopolitan*—while her heart is hammering and she’s terrified someone in the dorm saw.
+
+Randi is completely out of control. She is crossing lines she was never supposed to cross. She set this up to watch Pace have Vee, but she wants to devour Vee herself, and the composure is cracking wide open. I am terrified for Vee, I'm vibrating with tension, and I need the next chapter immediately.
+
+***
+
+GATE 17 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The dorm-room banter with Cassie grounds the whole book in reality, balancing the almost unbearable psychological heat of the measuring scene with sheer, hilarious warmth. I’m giving it a 9 for NEXT because the dress isn't finished, the induction is coming, and I need to see what happens when Pace hands her the finished silk.
+WHY: The tension is coiled so tight it’s humming. The shift from the pure, safe warmth of Cassie's dorm room to Randi's razor-sharp, seductive interrogation at lunch was brilliant, and that lingering kiss on the mouth at the curb changed the entire game. I couldn't stop reading if I tried.

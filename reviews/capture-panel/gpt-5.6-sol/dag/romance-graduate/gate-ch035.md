@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
 
-REACTION — Oh, Randi knows. Maybe she cannot know every physical detail, but she knows exactly what she is doing to Vee, and “Sticky fingers?” is such a perfectly deniable little knife that I actually stopped breathing. The pastry explanation doesn’t clear her. It makes it worse. She has watched Vee flee an erotically charged conversation for a bathroom before. This time she sends her off with “Do what you need to,” waits for her to return, and says the one phrase guaranteed to expose her without ever surrendering plausible innocence. That is frighteningly skillful.
+REACTION
 
-And God, this was hot. Not only Vee retelling the spanking, though watching her discover that saying it aloud can become another form of being touched absolutely worked on me. It was the escalation from Pace’s hand, to Vee’s own hand, to Randi’s face appearing at the instant Vee begins to penetrate herself. There it is. There is the desire Vee has kept misfiling as admiration, friendship, exhaustion, spillover from Pace—arriving inside her own solitary fantasy where there is nobody else to blame. She stops because imagining Randi seeing her is simultaneously what she wants and what makes the wanting unbearable. That frustrated, almost-finished ache feels more revealing than an orgasm would have.
+Oh, the drawer got me. The *top* drawer. He compressed all his neat little ranks into the inconvenient space below so her hand could go naturally to the easy one, and then said absolutely nothing about it. That is so specifically Pace that I almost resent how perfectly it works on me. Scrunchies were already a promise that he expected her to keep returning; the drawer is a place in his life made physical. Not offered ceremonially, not presented so she has to react correctly. Just prepared and waiting for more of her.
 
-I do not believe Randi’s convenient blond boy story without reservations. Perhaps it happened. But it is also exquisitely designed pornography for this particular listener: dancing, a forceful man, a woman left unbearably aroused, dress raised, panties moved aside, knees spread, the possibility of being caught. Randi knows how Vee responds to being looked at, and she has just listened to every detail of Pace making that response explicit. Whether the story is true almost doesn’t matter to the manipulation; she selects and delivers it to bring Vee exactly where she goes.
+And of course this is also exactly the problem.
 
-The cruelty is that I believe the tenderness too. “There’s my girl.” Matching Vee’s cheap mimosa without exposing the reason. Her face lighting when Vee arrives. “You’re my best friend in the whole world.” I believe Randi means it, and I also believe she uses the declaration at precisely the moment Vee is frightened there may be something wrong between them. She gives Vee the closest named place available while keeping the actual truth outside language. Vee feels chosen, and being chosen is her deepest hunger. Randi knows that as surely as she knows what stories make her wet.
+Vee has finally admitted she loves him, and in the same breath has decided she can live without hearing him say it. I do not believe her. Worse, I believe she believes herself. She is taking every act of care—and there are so many, and they are so exquisitely fitted to her—and using them to build the answer he still will not give. The food, the slowness, the green scrunchies, the drawer: yes, these are love. I feel that. But they still do not tell her what she is to him in the world, whether she is his girlfriend, whether he intends permanence, or whether another woman already has a claim she does not know exists. He can give her a drawer while withholding the basic architecture of her own relationship.
 
-And then the pastry on Vee’s lip. That one bite Randi takes and leaves behind; the sweetness transferred in the second beat of the kiss. Absolutely not accidental on the page, and probably not accidental for Randi either. She lets Vee leave carrying literal evidence of Randi in her mouth while Vee still calls this friendship. I want them together desperately. I also want to grab Vee by both shoulders and tell her that a woman can sincerely adore you while managing you for her own ends.
+Her whispering “Peter” to him asleep hurt in the best and worst way. That is the name beneath the made self, and she gives it back to him when he cannot hear her. They are both doing their most important communicating where the other person cannot answer. It is gorgeous and completely unsustainable.
 
-Also: Vee choosing the cheapest drink and performing ease while Randi effortlessly matches her is another tiny reminder that Vee is always doing budget arithmetic inside experiences Randi treats as atmosphere. At least here Randi follows rather than pressures her upward. But the class gap remains under the table with everything else.
+I also loved the bathroom panic because it is such a recognizable, humiliating little intimacy: all your products suddenly making you look like an occupying force in a clean man’s house. For one second she thinks she has been quietly corrected, and my stomach dropped with hers. Then the reveal is almost indecently romantic. He did not tolerate her disorder; he reorganized his order to include her. That distinction matters to me enormously.
 
-I would text a friend at one in the morning: SHE NEARLY FINGERED HERSELF THINKING ABOUT RANDI, RANDI MAY HAVE CALLED HER ON IT TO HER FACE, AND THEN KISSED PASTRY GLAZE ONTO HER MOUTH. This woman is conducting Vee like an orchestra, and Vee still thinks the music is weather.
+But I am watching the dates. That “next Friday” means another week has passed inside this chapter, and Pace and Randi have apparently carried the secret right through it. Vee is standing over two open drawers feeling chosen while still being denied the fact that the chooser already has another lover. I want to melt over him, and I do melt over him, and then the book makes me feel the trapdoor under the melting.
 
-GATE 37 — One Bite
+Also: she brought the bag. That tiny decision feels more intimate than half the sex scenes I have read this year. She is no longer pretending she will leave unchanged or that each visit is an accident. Some part of her has begun moving in. And Pace, without asking what she thinks she is moving into, has made room.
+
+GATE 35 — Above Him
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is exactly the combination I came for: explicit bodily truth, real psychological danger, and tenderness that does not cancel manipulation but makes it hurt more. Vee’s desire for Randi has finally entered her fantasy plainly enough that she cannot keep calling it Pace’s afterglow, and I need the next page immediately.
+WHY: The top drawer absolutely destroyed me, but Vee deciding she can live without the word is a warning flare, not reassurance. I need the truth to break now, because every new tenderness makes what Pace and Randi are withholding more devastating.

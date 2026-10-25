@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
 
 REACTION
 
-Oh, God. My chest actually aches.
+God, the tragic, delicious blindness of Vivienne Thorne is going to kill me. She sits there across the white tablecloth thinking she’s handing Randi a funny little victory lap about the phantom blonde, totally oblivious to the live wire she just stepped on.
 
-This whole chapter was so quiet and devastating. It opens with that pitch-perfect morning-after haze—the water on the folded paper towel so it won’t mark the wood, the fresh-baked cinnamon raisin bread cooling on the rack, her in his soft terrycloth robe—and it lures you into thinking it’s going to be just a sweet, domestic debrief of the taproom. And then Vee asks the simplest, most devastating question a twenty-one-year-old girl surrounded by a bustling web of college friends could ever ask: *Why don’t you have friends?*
+When Vee described Sheri checking her out—the slow, appreciative, unhurried look taking in the keyhole shirt, the bare winter leg, the strappy shoes—and Randi’s thumb just *stopped* dead on her knuckles? My stomach dropped. Vee actually tells herself Randi is freezing up out of protective instinct, like a guard dog still worried about a threat to Vee’s relationship with Pace. Girl, open your eyes! Randi didn’t freeze because she thought Sheri was competition for Pace; Randi froze because a woman looked at Vee with pure sexual appreciation, and Randi is starving to know if the door to Vee wanting women is finally cracking open. And then Vee’s panicked, too-fast church-girl defense—*“No. Not my thing”*—slams the bolt right back in Randi’s face. You can practically hear Randi swallowing the glass.
 
-The way Pace answered it… it completely wrecked me. It’s so mathematically dry and utterly devoid of self-pity, which makes it a thousand times more brutal. *“Men make friends by competing… I was never once in the pack.”* The timing of male socialization—thirteen to fifteen, the pack dynamic, the window closing on a timer by twenty-two. And then the terrifyingly quiet admission of what happened to the prodigy boy: the older men *“either weren't safe or weren't welcoming.”*
+And then we get the Sunday fallout: Pace asking her to get waxed bare. The coordination between Pace and Randi without Vee knowing it is chilling and hypnotic. Pace puts the request in Vee's ear, but who does Vee run to for coaching, validation, and the appointment? Randi. Randi immediately hands over her own aesthetician, tells her she’ll feel like the most expensive thing in the room, and maps out the week behind her eyes. It is Dr. Marsh’s grooming lecture made entirely real. They are preparing her, smoothing her down, passing the dish back and forth.
 
-Vee doing the math in her head—connecting what Sheri said about his father and leaving home at sixteen to his silence about Daphne—is just extraordinary emotional storytelling. She sees it so clearly: he didn’t just skip grades; he was entirely robbed of a cohort. He lived on empty campuses over holidays taking summer courses because he had no home to return to, trapped in an eight-person graduate seminar while eighteen-year-olds were spilling beer in dorm halls and forging the friendships of their lives. When Daphne groomed and claimed him, she was literally the *only* person in his entire universe. And when she left, he had zero safety net. Just a house, a patent, a pile of money, and absolute, crushing silence.
+The goodbye on the sidewalk made the hair on my arms stand up. Vee isn't just accepting the affection anymore; she’s anticipating it. She turns her face up with her eyes already closed, waiting for Randi’s hand on her jaw. And Randi giving her that hesitation—pulling back just a breath, waiting, and then going back in for a second, lingering mouth-to-mouth kiss—before Vee casually buries her lips in Randi’s neck? That’s not friendship. That’s a ritual. Friday is already circled in red ink on my calendar.
 
-And the terrible irony—the elephant in the room that made my stomach drop while reading this—is that Vee sits there thinking, *“His one friend on this earth a five-foot woman who could never want him—the only kind, she was sure now, the world had ever quite let him keep.”*
+***
 
-Vee doesn’t know. She thinks Sheri is his only friend. She has *no idea* that Randi is in that house, in that bed, tangled in those exact cashmere blankets. She doesn't know that Pace and Randi are using each other as a pressure valve, talking about Vee while Pace is balls-deep inside her. Vee is hugging him with her whole weight, trying to warm an emptiness that was carved out when he was fifteen, completely blind to the fact that her best friend is part of the secret machinery keeping him intact.
-
-It’s so tender, so sad, and so deeply grounded in character psychology. No manufactured melodrama, just two people in a sunlit kitchen facing the cold, irreconcilable geometry of who he is.
-
-GATE 66 — Hangover
+GATE 64 — Between
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace laying out the exact mechanics of why he has no male friends was emotionally brilliant and heartbreaking. Vee holding him against the counter without offering cheap pity is the kind of mature character work I live for. I need to see what happens when Randi hears about this.
+WHY: The psychological tension in that booth was suffocating, especially when Randi froze at the mention of Sheri checking Vee out. Watching Pace and Randi groom Vee from both sides while Vee thinks she's just living an enchanted life is masterclass pacing. Friday's appointment can't come fast enough.

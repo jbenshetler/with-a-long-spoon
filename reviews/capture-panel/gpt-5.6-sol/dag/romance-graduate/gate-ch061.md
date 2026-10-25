@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
-REACTION — Oh, this got me. Quietly, completely. Vee alone in Pace’s flannel, trying to discover whether her body’s first answer can survive all the old shame—that is exactly the kind of heat I want. Nobody performing for anybody, nobody mechanically hitting the familiar beats. Just her wanting, flinching, reaching again, and learning that desire can be true even when she cannot quite finish the brave thing.
+REACTION
 
-I wanted her to taste herself so badly that I was almost holding my breath with her. But I’m glad she couldn’t. Not because I share her disgust—I don’t—but because one daring weekend was never going to erase twenty-one years of being taught that her appetite is excessive and her body’s evidence is dirty. That last breath of distance felt honest. She got close because she wanted to, stopped because she had to, and neither choice was made for Pace. That matters.
+Oh, this is filthy, intimate, and morally appalling in exactly the combination this book has been promising.
 
-And then Randi slid into it. Of course she did. Not merely Randi’s verdict that it was powerful, but the suddenly specific question: was Randi talking about a lover’s mouth, or her own fingers? Vee is lying alone in Pace’s shirt, masturbating to the memory of Pace, and the thought she carries to the end is what Randi may have put in her mouth. Girl. Your explanations are hanging on by a thread.
+Randi tasting herself from Pace without hesitation—after Vee stopped one breath short of doing the same—hit like a deliberate answer across chapters. It was extremely hot, but it also hurt. Vee is alone in her dorm trying to cross that inch of air, ashamed and uncertain, while these two are already fluent in the thing she has only just begun to want. Then they bring her into their bed in words, use her desire for each of them to arouse each other, and never once have to risk letting her hear the truth. I wanted the scene badly. I was furious almost the entire time.
 
-The window absolutely hurt me. She closes it so every bit of heat stays, lets the room fill with her, then panics because Cassie will return and throws January back inside. That is Vee’s whole problem in one bodily gesture: she wants to occupy space until there might be a witness. Then she covers herself, airs herself out, makes the room respectable again. But she cannot entirely erase what happened. She chooses to lie on the damp patch. “Her mess. Hers to lie in.” That felt almost defiant despite the shame attached to it.
+And finally: there they are. No performed introduction, no careful little evasions, no pretending the blanket came from Pace. They know each other’s bodies. They have ease, jokes, established rhythms, shifts in control, and the confidence to talk about Vee while he is inside Randi. This is not some incidental arrangement that became difficult to mention. It is a relationship. A real, tender, sexually specific relationship. Every additional proof of how good they are together makes their concealment from Vee more serious.
 
-Also, Pace’s care has lodged in her body more deeply than any argument could. What brings her through is not simply remembering his mouth; it is remembering that he was untroubled and glad, that he stopped the instant she recoiled, that he kept her mouth entirely hers afterward. He gave her enough safety to investigate the boundary alone. That is deeply tender to me.
+Randi saying she wants Vee’s breast in her hand and her nipple in her mouth nearly took my head off. Because yes, at last, an unsoftened statement of what she wants—except she says it to Pace. She can tell him exactly what Vee does to her while letting Vee believe she is “ticklish.” Pace answering with what he has noticed about Vee looking at Randi means they are comparing observations. They are watching her wake up from both sides. I hate how erotic I find that, and I hate more that Vee does not know she is being watched.
 
-I am turned on, aching for her, and now absurdly invested in that final inch. Her mouth is still empty, but this no longer feels like refusal. It feels like not yet.
+“You know she loves you, right?” was the turn that got under everything. Randi sees Vee’s love for Pace, Pace cannot hide his happiness, and then Randi tells him she loves him too. That was not playful. It landed naked. He could not tell her she was wrong, but he also did not say it back. So now I am aching for Randi even while wanting to shake her. She is helping Pace recognize the love Vee has not spoken while offering her own love into another open sentence. These three are starving in three different directions while two of them possess the map.
 
-GATE 63 — The Reach
+The erotic charge did not dip when the feelings entered; it intensified. That is precisely what I have been waiting for from this book. Their sex has history and personality. The control passes back and forth. They laugh without breaking the heat. “My turn,” “You’re still leading,” the palm kiss, Randi putting his hands flat beside him and moving under her own command—all of it made them feel like people who know one another, not bodies cycling through a scene template.
+
+And the ending is wicked. Randi cleaning their combined wetness from him, ordering him back inside her, then kissing him with the taste of both of them—the exact boundary Vee is circling, made completely mutual and effortless here. It is a fantasy demonstration being performed in Vee’s absence. I am desperately ready for the three of them, but the book has made it impossible for me to accept that as a reward unless Vee is given the truth before they maneuver her into it.
+
+My 1 a.m. text would be: THEY ARE FUCKING WHILE DISCUSSING HOW MUCH THEY BOTH WANT HER, IT IS UNBELIEVABLY HOT, AND I NEED THEM TO TELL HER BEFORE I COMMIT A FELONY.
+
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was intimate, explicit, and psychologically alive—the exact combination I keep reading for. Vee’s unfinished reach toward herself, and the fact that her mind ends on Randi while she is wrapped in Pace, has me already turning the page.
+WHY: This gave me the explicitness, emotional intelligence, and unbearable moral tension I came for. Randi’s declaration changed the shape of her bond with Pace, and now I need to know whether either of them will finally love Vee enough to risk telling her the truth.

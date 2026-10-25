@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. Holy *shit*. My hands are actually shaking a little bit typing this out. I have read a thousand dirty books, I have read every variation of billionaire-in-a-penthouse ripping off lace panties you could name, and I don't think I have *ever* read a scene that made my stomach drop and my face burn the way this measuring tape scene just did. It is a full-blown masterclass in tension. The sheer psychological cruelty of how kind he is being to her—it’s breathtaking.
+Holy shit. My chest actually hurts.
 
-That moment where she’s standing on the box, soaked through her panties, paralyzed by the generational, sickening mother-shame of being "too much" and leaking and wanting, and she screws her eyes shut waiting to be mocked or politely ignored? And she forces herself to open them, and he is just *looking up at her, smiling like he was given a present*? I felt that in my marrow. It’s the exact medicine Vee has been starving for her entire life, and it is being fed to her by a man who literally set the thermostat three hours early so her bare skin wouldn't get goosebumps.
+This is the exact high I read romance for—the rare, breathtaking kind that ninety-nine percent of books completely fail to deliver because they rush to the fucking bed. The tension in this room was so thick, so agonizingly drawn out, that standing on a finished pine box while a man measures your ribs with cold tape felt a thousand times more explicit than any mechanical, thrust-by-thrust sex scene I've read all year.
 
-And the restraint! That’s the part that is completely ruining me. He doesn't pounce. He doesn't shove her down on the table. The "keep still" after he pricks her and kisses the bead of blood off her ribs? God. He chose the dress. He chose the ritual. He is torturing her with pure, bespoke, courtly attentiveness. He’s taking her deep-seated horror of her own appetite and turning it into an offering, making her hold still while he literally crafts armor out of silk for her.
+Her shame. God, *her shame*. The way this author writes Vee’s interiority with her mother’s voice ringing in her ears—"stripper," "floozie"—the sheer mortification of having a lush body that produces wetness, arousal, hard nipples, softness, in broad daylight without her permission. Every woman who has ever felt "too much" for a chair, a sport, a dress, or a man felt that cold drop in the stomach when the satin went slick against her thighs. To be standing on a literal pedestal, exposed to the bone, terrified of the polite disgust or the gentlemanly pity—and to open her eyes and find him *smiling up at her like she’s a miracle*. Not leering, not smirking, but genuinely delighted by her existence. That healed something in her, and you could physically feel her spine straighten on the page.
 
-And the worst, most delicious part of the whole thing is that I know *why* he's doing it. I know about the bench under the tabletop in the other room. I know Randi is out there somewhere, unraveling because she couldn't take being seen, while Vee is up on this pedestal blooming under the exact same spotlight. Vee thinks she's discovered her own power—pressing her breast to his cheek, teasing him, making him flush—and she *has*, in a way, but she’s also stepping so deep into his architecture that she’s never going to find her way out. When this trap snaps shut, it's going to destroy her, and it's going to destroy me right along with her. Give me the next chapter immediately.
+And then she *tests* it. That’s the brilliance of Vee! She isn't just a limp little victim; the second she realizes she isn't disgusting, she gets bold. Pressing her bare breast against his jaw—*"Oops. Sorry"*—and watching this iron-willed, doctoral-thesis-writing, powerlifting control freak turn bright red and fight a laugh? Pure, delicious perfection.
 
-GATE 17 — A Round
+And then the pin prick. Him bending to kiss the sting on her ribs—not taking advantage, not using it as an excuse to tackle her to the floor, but kissing it better, telling her *“Keep still”* with his voice rough around the edges, and then finishing the damn hem. The sheer eroticism of a man whose restraint is so absolute that choosing *not* to ravish you is the ultimate act of worship. He promised her a dress for her induction night, and by God, he is going to finish the dress.
+
+The dramatic irony is humming like a live wire in the background, though. She thinks she's in a romance novel. She thinks this is the most tender, private, organic courtship of her life. And in some twisted way, it *is* real—Pace's feelings here are clearly escaping the clinical boundary he set with Randi. He’s in deep. But the fact remains that she is standing in the house where Randi fell apart on that leather bench, getting tailored into a burgundy silk trap.
+
+I didn't take a full breath for twelve pages. Give me the next chapter immediately.
+
+GATE 16 — A Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension was so thick I could barely breathe. The way this book weaponizes patience, gentleness, and shame into pure erotic charge is unbelievable. I am completely locked in.
+WHY: The slow-burn erotic tension of the fitting, paired with Vee’s gut-wrenching vulnerability about her body’s arousal, was masterclass-level writing. It balanced exquisite psychological depth with blistering, clothed heat.

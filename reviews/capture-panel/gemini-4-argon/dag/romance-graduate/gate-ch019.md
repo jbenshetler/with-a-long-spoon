@@ -1,20 +1,27 @@
-*capture-dag-v2-rich · gate ch019 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · 2026-10-21*
+*capture-dag-v2-rich · gate ch019 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha ab6b14909a3d · dated · 2026-10-24*
 
 REACTION
 
-Oh my god. *Oh my god.* Twenty chapters of slow-burn agony and it paid off with compound interest. I actually had to put my hand over my mouth at the end when she dropped the bedsheet in the kitchen, folded the soaked green satin panties in thirds with *the spot centered*, and handed them to him and said, *"Trade."* For the flannel shirt! The girl who six days ago was having a silent panic attack on a wooden riser because she was terrified he’d see a damp spot on her underwear just stood butt-naked in his kitchen and handed him the evidence as a trophy. I am deceased.
+Oh my god, the way this chapter splits right down the middle between Cassie and Randi is *lethal*.
 
-This is everything I am always begging romance authors to do with a sex scene and they almost never do. It wasn’t a checklist of tab-A-into-slot-B choreography; it was entirely about the specific psychology of her body and her shame. The way her mother's voice (*floozie*) and her arousal are wired to the exact same circuit—and instead of the book curing her shame with a magical healing dick, the shame *runs the whole length of it* and feeds the heat, and simply fails to close her up for the first time in her life. And when he pulls her panties down and sees the crystal strings of how wet she is, and looks up from his knees and asks, *"Would you be bothered if I was too hard?"*—I swear my soul left my body. What a devastatingly smart, tender, filthy line. It reframes her "excess" in one second without being preachy about it.
+First of all, watching Vee walk of shame back into her dorm room—except with zero shame, just grinning at every red light with her hair wild and no panties under her skirt because she *traded* them to Pace for his flannel—made me so happy for her. And Cassie aiming the cereal spoon at her and going *"Was he worth painting your toenails? In October. I have eyes."* I love Cassie so much it hurts. The detail of Vee starting to unzip her skirt three feet from Cassie and suddenly freezing because she's bare underneath and can't edit that out of the story? Hilarious and so real.
 
-Also, the details before they even got to the bed! Him doing all the *mise en place* for the fra diavolo and leaving the pan dry and unheated on the burner because he knew—or hoped—they wouldn't make it to dinner first. Her grabbing him by the neck-loop of his canvas apron and pulling him down the hall ("Will you show me your bedroom?" after that closed door in Chapter 16!). The smell of him in his actual sheets vs. the week-old proxy she’s been huffing in the flannel shirt in her dorm bed. And what was that large scar high on the inside of his thigh?! She clocked it and he pulled her arms around his neck and we moved right past it, which means I'm filing that right next to Daphne and the patent money.
+And then Sunday brunch with Randi. Every single time these two sit down across a table from each other, I am holding my breath waiting to see which way Randi is going to break. Because last week at the velvet booth, when Vee said Pace looked at her and she was fine, Randi pressed her thumbnail into the rim of the water glass until it hurt and shut the conversation down right before Vee could confess how wet she got on the platform. So walking into this sun porch *after* Vee has actually slept with him—while Pace was supposedly at a conference in Chicago, though you know Randi knows every movement of his calendar—I was bracing for Randi to spiral.
 
-The only thing making my stomach drop—in the best, most delicious way—is remembering Chapter 14. Randi rode him in that exact bed right after the hike, refused to stay for food, got dressed immediately, and left him standing in the doorway feeling hollow. Vee stays, wraps herself in his top sheet with him still leaking down her thighs, eats a whole plate of spicy pasta in comfortable silence, and trades him her ruined underwear. Pace is in so much trouble. He thinks he’s running a game, and he is falling so hard for this girl. And what the hell is Vee going to tell Randi at their next lunch?!
+And she *does*, and she *doesn't*, and the way it's written is so psychologically sharp I wanted to scream. First, Randi invents another cover story (the "old boyfriend" who was nervous and in a hurry, "I'm running on fumes here") just to prompt Vee to feed her. Then Vee gives her the image of sitting in Pace's kitchen at midnight wrapped in his top sheet watching him cook, and Randi says, *"That's not a story, honey. That's a painting. Keep that one."* And then Vee says Pace made her feel *unique* and *singular*—and instead of digging her nail into the glass this time, Randi pivots straight into drawing Vee out about *her* desire. The toenails. The frosted plum matching the silk. The new green underwear (*"That's not nothing, that's a campaign"*).
 
-GATE 20 — Famished
+And then this detail stopped me dead in my tracks:
+> *Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting, more of whatever it was than there had been when they sat down — and her eyes had gone liquid at the edges.*
+
+Vee thinks she's tipsy and then realizes Randi has barely touched her first mimosa. I know what that is! Back in the very beginning, we learned Randi's faintly European-sounding vowels are part of her armor, the self-invented voice she uses when she's performing—*or* is that what happens to her voice and her eyes when she's both aching and turned on out of her mind? Her eyes going liquid at the edges while she squeezes Vee's hand and tells her *"You're not caught, sweetheart. You're lucky"*—when Randi herself is the one who set the trap! She is simultaneously getting off on Vee's hunger, falling in love with Vee, and staring through the glass at a kind of emotional surrender (*being that gone on somebody*) that she terrified herself out of having with Pace.
+
+And that second goodbye kiss on the mouth at the curb! The hand at the hinge of Vee's jaw, the small drawing-back, the second press—and this time Vee *meets it* and doesn't look around the street afterward to see who's watching. The frog is boiling in the water so slowly and deliciously. Now I am dying to see Pace and Randi together after this—does Pace still have those folded green satin panties in his house? Is Randi going to find them, or is he going to tell her, or is Randi going to show up at his door tonight?
+
+GATE 19 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This is the exact blend of explicit, deeply felt heat and grown-up psychological interiority I read hundreds of books trying to find. The arc from her terror of being seen wet in Chapter 17 to folding the soaked green panties with the spot centered as a "trade" in his kitchen is perfection, and I need to see the fallout with Randi immediately.
+WHY: Coming right off the five-alarm heat of Chapter 18, this was the exact morning-after and brunch debrief I needed, packed with dramatic irony and emotional tension. Watching Randi guide Vee out of her shame while her own eyes go liquid over an untouched mimosa—and Vee meeting Randi's mouth on the second kiss without checking who's watching—has me turning the page immediately to see the fallout between Randi and Pace.

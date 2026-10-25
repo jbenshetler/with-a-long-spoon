@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9feb48dd23cb · 2026-10-11*
+*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · dated · 2026-10-24*
 
 **REACTION**
 
-"Vee's boyfriend." Six times. He found a word he could spend, and he spent it like a man who'd just found out he could. It isn't *the* word and I know it isn't. But my chest did exactly what Vee's did, and I caught myself mouthing it with her at the brisket. That's a little embarrassing to admit at 1 a.m.
+Okay, I need to complain first. This is the third time I've been walked through the same weekend. Ch 53 gave me Saturday in full, and it was gorgeous: the orange, the wrist, "bad slave." Ch 57 gave me the porch again over wine. Now 59 hands me the truck again and then the Saturday bed again, in Vee's voice. "He kissed my *toes*, Randi. Individually." Yes, I know. I was there, twice. Somewhere around "he opened me like the orange" I caught myself skimming for anything Randi did, because Randi is the only new information in the room. I also hit continuity slips that took me out of it. The special was a braise over polenta, and then her cleared plate has a chop bone and a fennel thing on it. Randi "ate the bread," and there was no bread. The canvas apron turned into a flowered apron, and the chair turned into a stool. Maybe that last one is Vee embellishing for her audience. If so, it's too subtle to tell apart from sloppiness.
 
-Then Randi's hand closed on Vee's "hard enough to feel the bones," and Vee read it as being happy for her. I put the phone down for a second. Oh, honey. That was a woman bracing herself in public while the girl she loves holds her hand through it.
+But Randi. God. The retelling isn't really for me. It's for watching Randi listen to it, and the book knows that. Her nail goes under the rim of the glass and bears down. "The bawdy had gone out of Randi's voice." She takes one exact bite and leaves the fork down. And then "I don't." Flat, two words, and I sat up in bed. "It was powerful. It turned me on." She's hearing a story about a girl tasting herself on someone's mouth, and the someone she's picturing isn't Pace. Vee says "But it's gross" too loud, and the book just lets that sit there. It doesn't explain it to me, and I loved it for that. "He's enthusiastic" sticks in Vee's head on the walk home, with "I don't" underneath it. That's the seed of the whole Randi thing, planted in the right spot.
 
-The middle stretch made me nervous at first. I thought I was in for a party chapter of everybody's friends being charming. Danny's bench press went a beat long. But then I saw what it was doing. Pace hands each person their first line and leans back out of the light. Theo's shoulders come down, Meg gets funny, Cassie talks in whole paragraphs. That's lovely, and it's also the man's whole method, the one that arranged Vee's spring. Then at the end he does it to Randi. "Randi said something you should hear." He set her up exactly like the others and leaned back, and she took it all the way to "the highlight of my year." Then the glazed quiet, and "one hand gone down off the table into her lap." I read that line three times. I don't know what that hand was doing, and I don't think the book wants me sure. Vee thinks she moved her. She did. She just doesn't know how.
+The neck kiss is the second one now, and this time Randi didn't forget. She "laid the whole of it open." The catch and the rise that lasts a beat too long, then "*Ticklish*." She's lying with her body, and she's bad at it, and I ache for her. Brooke's ultimatum is still hanging over all of it, and Randi is choosing the composites anyway, one neck at a time.
 
-"They share an interest... You." I got chills, and not the nice kind. On Vee's side it's the sweetest thing he's said. From where I sit with the jacket ("she doesn't know there are three"), it's practically a confession made to her face. The book didn't underline it, and I'm grateful.
+Then "You picked well," and I said "oh you *bitch*" out loud at 1 a.m. It's the jacket line turned inside out, Randi complimenting Vee on a choice Randi made for her. And Vee's little technicality, "he walked in already halfway across the floor," is the closest she has ever come to seeing it. That one line did more than the whole booth.
 
-Cassie's "You can stay" with the keys spinning is my favorite line of the night. The whale under the boat got me too.
+The Marsh lecture on grooming is a bit much. A comb gets passed around, some row can't bear to give it up, and the class is literally called *grooming*. I got it the first time, book. Still, it's not explaining itself to me, so I'll allow it.
 
-The truck was the best kind of heat this book does. It's greedy, and it's *hers*: his hand stunned still in her hair, her working her own jeans down a graceless inch at a time, her pulling the lace aside and "choosing it again every second." The callback to the September truck and his shivering made me ache. The county road and the coat lining tied her old frustrated hunger to finally being fed. That's the depth-and-heat combination I came to this series for. The window and the glass turning a quarter at a time is a callback I only half hold. I know it's something I should be afraid of.
+I'm also quietly worried again. She bought the smaller size, didn't eat before dinner, swam a mile, then fell on the plate without noticing she was eating. The nurse-mom thread is still breathing.
 
-So: no seam to manage, Vee thinks. Wrong on every count. And no heels, no blanket, no Daphne. The chapter was patient about all of it, and I didn't mind. All three of them were in a room, which is what I asked for.
+Heat-wise, the booth was genuinely charged. Vee clenching at the memory, mouth dry, unable to say "swallowed" across a white cloth. Embarrassment as foreplay with another woman watching is a real thing, and the book did it well. But it's all secondhand heat. I want a new scene, not a cover version.
 
-**GATE 61 — Among Friends**
+**GATE 59 — A Clean Plate**
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "By the time Danny got to creatine — lowering his voice, like it was a medical matter" (a flicker of "are we doing every guest?" before I saw the pattern)
-WHY: A party chapter turned out to be the game laid out on the table, with Pace setting up Randi the same way he set up the others while Vee glowed between them. Then the truck gave me heat that was greedy and earned and entirely hers. I want Thursday's debrief with Randi now, and I want that hand in her lap explained without the book explaining it.
+CAPTURE: 6
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "He kissed my *toes*, Randi. Individually. Each toe got its own kiss like it had done something." (That's the point where I realized I was reading Chapter 53 a third time.)
+WHY: Randi's "I don't," the neck, and "You picked well" are the best Randi beats yet, and they're why I'm still here. But 57 and 59 are both retellings over wine at the same restaurant, and I need the next chapter to put somebody in a room I haven't already been in.

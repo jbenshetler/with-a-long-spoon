@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
 
 REACTION
 
-Okay so this is the quiet one, and I can feel exactly what it's doing and I let it work on me anyway, which is its own problem.
+Okay so after three chapters where I practically had my hand over my mouth — the induction walk, the find-out spanking, the two-costume Halloween thing, the brunch where Randi handed her a glazed pastry she never touched — this one is Vee coming home to Cassie at eleven at night and talking. And I needed it, honestly. I didn't resent it. A bridge after that much heat is the right instinct; you can't stay at peak.
 
-The "Peter" at the end of part one gutted me a little. She whispers the name she had to *excavate* from him — the mother's name, the one he took himself out of the answer with — into his sleeping ear, where he can't hear it, where it costs him nothing and her everything. That's her saying *I love you* in the only language she's allowed, to the one version of him that's actually true, while he's unconscious. She even clocks it herself: he says it in everything and nothing, and she's decided she can live inside the everything-he-does and not go hungry. Oh, Vee. That's the sentence a woman tells herself right before the hunger comes back worse. I know that deal. I've watched a hundred heroines make it and it never holds, but this book means it as a *symptom*, not a swoon, and that's why I'm still here.
+But here's what it actually did to me: it's a Cassie chapter, and every single thing out of Cassie's mouth is the book quietly pressing on the bruise. "You're a public utility." "You don't come home school nights" — flat, not a question, and Vee counting backward and finding her own bed empty more than it's full and she hadn't noticed. That's the thing. She hadn't *counted.* Same way she doesn't count the dress, the card, the ledger. And Cassie — my clean instrument, the one honest reader in this girl's life — is sitting in the bean bag getting the *shape* of the weeks, "the nights all running into each other," and never the real thing. Vee gives Cassie the baked tomatoes and the cold cloth on the burn. She does not give Cassie the bet, or the bare bottom, or the drawer he emptied for her, or Randi's mouth on hers at the curb. Cassie gets the PG cut. I clocked that so hard. The custody's still slipping and Cassie doesn't even know there's a Randi-shaped hole where she used to be.
 
-The weight-loss thing is the detail I'll carry. Her body quietly burning down whole weekends of him, the bras keeping the secret, everything else she owns bought a size up because the racks never believed her build and she could never afford the tailor. The lifelong-shame body is *changing* inside this thing and she never asked it to — and it's landing as happiness, but my notes are screaming, because the last two volumes' worth of signal is that nothing in this book happens to Vee that someone didn't arrange. Even her own shrinking reads, from where I'm sitting, like a thing being done to her by the warmth of the trap.
+And then "Do you love him" — Cassie just lays it down flat like everything else — and Vee goes *small.* "Maybe. I think so. It's all so fast." That's the first time she's gotten near the word out loud to anyone who isn't her own chest in the dark (she breathed "Peter" at his sleeping shoulder last chapter, she *loved him* lying there), and the person she finally half-says it to is Cassie, who doesn't say a word against it and doesn't say I know, just "go to sleep, streetlight" and goes back to her book. That restraint of Cassie's gutted me a little. She can see it's too fast. She's not going to be the one to say so, because what would she even point at? She doesn't have the two-year table either.
 
-And the drawer. God, the drawer. I *see* the craft of it — he doesn't say "it's fine," he folds his entire ordered self down into one drawer so her sprawl can have the top one, the easy one your hand goes to first, no note because there's never a note. It's the single most romantic gesture in the book and it's genuinely written, and I still felt my shoulders go up, because this is a man who *builds a place for you to live inside his order*. That's the whole machine, isn't it? That's what he did to the mark from day one, that's the dress, the scrunchies by the dozen "so she's never without," the clock her body keeps for his house now. Making a home of the hours behind his door — the jacket told me that in those words. The drawer is just the hours getting a physical address.
+The one thing that pricked me: "There's only one way that burn happens. Not enough on." Cassie saying it wry — she knows Vee's half-naked in that warm house and isn't even pretending otherwise. That's Cassie closer to the truth than anyone, and still a universe short of it.
 
-What I noticed hardest: no Randi. After "sticky fingers," after that brunch where I couldn't breathe for her, we get a whole chapter of pure Pace-domesticity and Randi doesn't exist. That absence is as loud as anything on the page. The book is letting Vee have her clean happy week precisely so it can be ruined, and I know it, and I'm turning the page anyway.
+What I'd text a friend at 1 a.m.: *the quiet chapters in this book are scarier than the sex ones. she came home glowing and told her actual best friend the dessert order and nothing else and the book didn't say a word about it, just let me watch her do it.*
 
-What I'd text a friend at 1 a.m.: *she whispered his secret name to him while he was ASLEEP and told herself she doesn't need him to say it back and I have never been more scared for a happy woman in my life.*
+It's a comedown, and it's a true one, and it's doing load-bearing work on the dread. But it is quiet, and after 35's drawer it didn't *pull* me the way the hot ones do — it worked on me cold, through dread, not heat. I want the next one. I want the three of them in a room. I have wanted it for ten chapters.
 
-The thing is — this is the second genuinely quiet chapter stretch's worth of texture (the Halloween costume game, now this), and it IS a bridge, and I don't resent a bridge. But it's a soft landing on purpose and I want the other shoe. The two-page sections are working — the drawer as a closer is a real technique, not a shortcut; it earned its brevity. I just need Randi back in the frame before I start skimming for her.
-
-GATE 38 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 6
 NEXT: 7
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none — though the closest was the top of part two, the brush-and-pins ritual, where for a second I thought "another whole chapter of the two of them being lovely and I'll need something to break."
-WHY: The drawer and the whispered "Peter" are the real turn in the bond and they landed as dread and tenderness at once, which is the only reason this book keeps earning me. It's a quiet chapter but it left me wanting Randi back on the page, not wanting to set it down — I want to see this happiness get touched.
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none — though the closest thing to a drift was realizing this was a full chapter of two girls in a dorm and no forward motion, right after a run of three that moved hard.
+WHY: A genuine bridge that earns its place — Cassie flat-naming the empty school nights and "do you love him," and Vee finally going small with "maybe," is the dread tightening a notch even with zero heat. It didn't grip me the way the drawer did, but it left me more anxious for the collapse, not less, and that's exactly the pull toward the next one.

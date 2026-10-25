@@ -1,25 +1,26 @@
-*capture-dag-v2-rich · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-10*
+*capture-dag-v2-rich · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
 
-## REACTION
+**REACTION**
 
-Okay, the reversal got me. In chapter 32 she stood in his doorway too tall, folding herself up to unbuckle the heels and apologizing. Now she's standing in his lamplight in the same kind of height, putting out one flat hand, and he sits back down. She tells him where to wait, she won't let him guess or help, and the recliner is hers to assign. After the bet chapter, where she lost and was "the payment," it matters that this one is hers to run. I noticed that and I liked it a lot.
+Oh, she's *good*. Randi, I mean. The whole thing hinges on one word: "Vanilla." She lets it sit a beat and Vee gives up everything she has just to deny it. Three chapters ago I was praying Pace would keep the kitchen spank to himself. He did, as far as I know, and then my girl handed over the bedroom herself, piece by piece, in daylight, over mimosas. The bet, the checking, "Not at all," face down on the covers, "there was no way he couldn't." I sat there holding my breath at every answer, wanting her to stop and also not wanting her to, which is exactly where Randi had her.
 
-"And this is what I had on under it." I laughed out loud, and then my face went warm along with hers. That's a great line. It's funny and dirty and it costs her something to say it. What really landed: at the induction she kept the bare-under-the-silk secret for herself. She sent him the photo and told herself "that part was hers." Now she's walking it down the hall and handing it to him. That's the actual turn in the chapter, and the book trusted me to catch it without spelling it out. Thank you, book. The second trip down the hall was the hottest thing here: ten steps in heels and nothing else, with the warm air of the house on every part of her. Him not touching her is what made it hot. His hand comes partway up and goes back down, and she can see what that costs him. That's more charged than half the sex scenes on my Kindle.
+What I loved is that this retelling doesn't drag. I've stopped skimming these, and this one is the best of them. Vee tells it more truthfully than she ever has, and she says "It wasn't quite like you said." She's comparing Pace to the invented mouse-that-roars and correcting the fiction with the real man, and she has no idea she's correcting it to the woman who made it up. Randi's questions are perfect: "Walk me." "And how was it settled?" "Close call?" Every one is a hand on her back.
 
-The small stuff worked too. She slides into his boots and feels like a kid in a parent's closet. She brings the garment bag in "like something sleeping." He clicks the lamp one notch brighter without a word. That's the Pace I trust.
+Then comes the Redford boy. I rolled my eyes, I'll admit it: Radford, Robert Redford, another invented man showing up right on cue. Then I watched what the story was *built* to do. He's a man who leaves, so Randi is "on a stranger's bed with the engine running," and that's how we get "Dress up, panties to the side, knees wide." It's placed like a stone in a sling and fired straight at Vee, while Randi looks her in the eye. Then "Do what you need to," without a flicker of curiosity, which is the scariest line in the chapter.
 
-Now my complaints. "Sunrise and sunset" made me wince, it's greeting-card copy. He saves it with "the other is for the world, this is just for me," but he's always got the perfect line. He's starting to feel too smooth, and I miss the Pace who set a beer down and walked out.
+The bathroom scene got me in a way the practice room didn't. Last time Vee stopped on principle: "not over a story." This time she stops because Randi's face shows up behind her eyes at the first give. *It was not the thinking, it was the looking.* That's the turn I've been waiting for. Her body has named it even if her mouth won't call it anything but friendship. And she stops "cowed" and "obedient," which means Randi now has a say in Vee's body without having been in the room. I felt sick and turned on at once, which seems to be this book's whole recipe.
 
-Then there are the heels. They're "the dear black straps Randi had knelt to buckle." Randi is literally on Vee's feet while she stands naked for him, and the chapter just goes past it. Does he know where the shoes came from? Does Vee think about Randi at all while she's doing the thing Randi basically coached her into? We had a whole practice-room chapter where Vee nearly touched herself over Randi's story, and since then it's been three Pace chapters with Randi barely mentioned. Cassie's gone too. Everything is warm and lit and private, and I can't relax, because I know what's waiting outside this house. The cold, enormous field outside feels like the book telling me exactly that.
+"Sticky fingers?" I actually gasped. Then it turns out to be the pastries, and Vee can't tell whether she's been handed a door or shown that there never was one, and neither can I. That's the right place to leave both of us.
 
-It also stops at the look. I don't count that as a fade, because it's a deliberate hold and the looking is the scene. But I've now had the sink, the bet, and the striptease all in one weekend. If the next chapter opens on more of that bed, I'll want something in it to change.
+Then the kiss, and the glaze on her lip from a pastry she never touched. Randi took one bite. I want to text someone at 1 a.m. that the Evil Queen put the apple in the kiss. One bite. And right before it comes "best friend in the whole world," which hits Vee where she's softest, in that old *picked her, out of everyone* place. Randi is giving her the friendship word while Pace still holds back his word for what they are. I want to scream.
 
-## GATE 36 — Made-Up
+Small gripes: her body "giving" without being asked is in this chapter about four times, so I get it. The Radford/Redford pun is too cute. And three chapters running now end with some version of Vee's body being out ahead of her, which is starting to feel like a pattern I'll eventually tire of. Not yet, though. Also, the mimosa was the cheapest yes on the card. The money thread is still breathing, and I'm grateful.
 
-**DECISION:** CONTINUE
-**CAPTURE:** 7
-**NEXT:** 6
-**HEAT:** 2
-**ROMANCE:** 2
-**ALMOST-STOPPED:** "That's like asking me to choose between sunrise and sunset."
-**WHY:** She's running the scene this time, and handing him the secret she'd kept for herself at the induction is a real turn, quietly done. But this is the third warm Pace chapter in a row, with Randi's heels on Vee's feet and nobody noticing. I want the book back on the danger more than I want to know what happens in the recliner.
+GATE 34 — One Bite
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "there's this blond boy, a young Robert Redford, I swear it, and we just *caught*."
+WHY: This is the best retelling yet. It's a seduction disguised as brunch, and the turn in Vee's body (Randi's face stopping her hand) is the first time the bond has moved out loud inside her. "Sticky fingers?" and the glaze on her lip mean I have to know what Randi does with all this in Pace's bed.

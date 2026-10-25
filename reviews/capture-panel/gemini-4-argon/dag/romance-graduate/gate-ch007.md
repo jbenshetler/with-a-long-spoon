@@ -1,18 +1,12 @@
-*capture-dag-v2-rich · gate ch007 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · 2026-10-21*
+*capture-dag-v2-rich · gate ch007 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, he is *so* wrong. He is so smart and so observant and he is reading her completely wrong at the end there, and my stomach just dropped through the floor.
+Oh, the irony in this room is thick enough to choke on, and it is *electric*. First of all, the wine callback to the apple in Chapter 1 — him only pouring one glass because he knows everything he's going to get of it will be from her mouth, the tannin replacing the honeycrisp — is so deeply sexy. And then the way Randi's body reacts to the line *"She built a cup like nobody had ever told her when to stop."* Of course that gets her! For a girl who polices every sliver of apple she eats because of her mother and her sorority, hearing about a lush, unapologetic girl building a massive cup of froyo and eating all of it is pure, vicarious appetite. Her thighs tightening on him at that exact detail is incredible writing.
 
-Let me back up because the first half of this chapter was pure kink catnip. The callback to the apple in Chapter 1 — except now it's red wine, one glass poured just for her because *everything he was going to have of it he was going to have like this* — god, that line. And then what actually gets Randi hot isn't some visual of Vee, it's: *"She built a cup like nobody had ever told her when to stop."* And her follow-up question: *"Did she eat all of it?"* That is so specific and twisted and psychologically rich. The girl who portions out thin apple slices and says "I can't eat that" to a cheeseburger getting wet on her boyfriend's lap hearing about a lush, uncurated girl piling a froyo cup too high and eating the whole thing. That's not just wanting a woman, that's wanting *appetite*. I was completely in it.
+Wait, though — the back half of this tiny chapter just laid a massive bomb under the floorboards. When Pace thinks of Vee's confession on the walk (*this is the nicest a person has been to me*) and decides *not to hand it over* because "it was hers"? That's the very first secret he's kept from Randi about Vee, on day one. And then when he says *"She's easy to listen to,"* and Randi goes completely still, her thighs *setting* instead of tightening, the smile arriving a fraction late (just like it did with Brooke in the sorority house!). And Pace — this man who prides himself on reading every micro-adjustment of her body — totally misreads it! He thinks it's her wanting Vee so much she's holding it down. No, sir! She's stiffening because you just said another girl was easy to listen to, right after she asked how *you* felt about her! Remember in the coffee shop when Randi kept picking up her empty cup and setting it down while Pace was absorbed in Vee's econ monologue?
 
-And then she asks about *him*. "Did she make you laugh?" And Pace says, "She's easy to listen to." (After already holding back Vee's vulnerable confession on the walk — keeping something just between him and Vee! In Chapter 7!)
-
-And Randi goes still. Her thighs don't tighten with arousal, they *set*. Her smile comes in a fraction late — the exact same fraction-late smile she gave Brooke in the sorority house in Chapter 2 when she was on defense. And Pace, who thinks he knows everything about this girl's body, looks at her and thinks: *He read it: the wanting, held. It moved him.*
-
-NO, PACE. That wasn't her wanting Vee so much she couldn't hold it on her face! That was her hearing "She's easy to listen to" and realizing you actually *liked* being with her. That was the first hairline crack of jealousy, or threat, or realizing she just invited someone into the house who doesn't have to perform the way she does. And she downs the rest of the wine in one swallow and takes him to bed to reclaim the room.
-
-Two ultra-short chapters in a row now, which I'm definitely clocking — I'm not used to chapters you can read in three minutes — but when a two-page chapter has that much charge and plants a bomb that clean under the whole premise, I'm not complaining. Give me the next one.
+These two page-and-a-half chapters back to back (6 and 7) are wild to me — I've never read a book paced like this, cutting from the froyo walk straight to the couch debrief the same night like two sides of a coin. It doesn't feel like a shortcut at all; it feels like a fuse burning faster.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
@@ -21,4 +15,4 @@ NEXT: 9
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The wine-kissing and Randi getting turned on by Vee's unpoliced appetite was hot as hell, and Pace completely misreading Randi's freeze at "She's easy to listen to" as desire instead of a flinch has me feral for what happens next.
+WHY: The erotic charge of the wine-kissing and Randi getting turned on by Vee's unpoliced appetite is top-tier, and the psychological fault lines opening up — Pace keeping Vee's vulnerability to himself while completely misreading Randi's sudden stillness — have me hooked by the throat.

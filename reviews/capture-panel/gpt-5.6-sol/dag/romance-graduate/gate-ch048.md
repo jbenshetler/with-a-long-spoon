@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
 
-REACTION — Oh, thank God she finally asked him. Properly asked him, coat still buttoned, bag left in the car, refusing to be softened first by the heat and the wine and his mouth. I was so proud of her for staying at the door. She knew exactly how this house works on her, how his care gets into her body before her questions can keep their shape, and she did not let it happen this time.
+REACTION
 
-And he failed her. Completely. “You’re the most important person in my life” should have been enormous, but he used it to answer a different, safer question. Then he did it again with the friends’ relationships, making her defend wanting a name by proving somebody else has something better. No. She was not asking whether this is pleasurable or enviable or even precious. She was asking whether he will stand inside it with her where other people can see.
+Oh, Randi. This is the exact emotional disaster I wanted from her and also the choice that makes me want to shake her.
 
-“Words are cheap, and you still won’t spend them on me” absolutely gutted me. That is the whole wound in one sentence. He can make a dress, clear a drawer, warm a house, cook a meal, learn her body, and arrange a future-shaped space around her—but the second she asks him to define that space, he folds his arms. And “Believe what I do” is almost obscene when he is hiding Randi. His actions are not the clean evidence he thinks they are. Some of them are beautiful; some of them are an organized deception. Vee just doesn’t have the second column yet.
+The fairytale got me despite knowing better. The mountain, the man who could keep up without showing off, the dress, his face at the bottom of the stairs, the dancing, the sleigh—I understood why she wanted to step into the story and let it carry her. Especially after that breakfast, where she had to manufacture an acceptable version of herself before she had even finished her tea. For a while I wanted John to be real enough to offer her an exit. Not necessarily forever, just one clean night in which she could be wanted without all the secrecy and moral rot attached.
 
-I don’t think he’s merely emotionally inarticulate anymore. He found “most important person in my life” easily enough. He is holding a line. Whether that line is because naming Vee would make what he is doing to her indefensible, because naming anyone threatens whatever arrangement he has with Randi, or because there is something buried in the family history he refuses to touch, I don’t know. But he knew what she wanted. He watched her cry and still did not give it.
+And then: nothing. Good sex, perfect man, perfect room, and nobody home inside it. The lipstick left on his body while she remained untouched absolutely chilled me. “This was the best the acceptable world could do for her” is the kind of realization that changes what escape even means. She cannot marry her way into safety because the safety requires her absence.
 
-And her leaving before he could put his hands on her—yes. Finally. His touch has been true, but it has also repeatedly ended the inquiry. She understood that in the moment: not the hand in place of the word. I wanted to stand up and cheer, except I’m too heartsick for her. Now tell her the rest. She has earned the whole ugly truth.
+But the dancing comparison hurt most. John directs; Pace leaves room. Randi thinks she is tired of the work, and for one gorgeous evening she wants to be led so completely that she does not have to reveal or choose anything. Of course that feels wonderful right up until she realizes no one has found her. Pace’s lighter hand asks more of her because it assumes there is a person there whose movement matters. I hate what Pace and Randi are doing to Vee, but I completely believe why Pace is the terror she cannot replace.
 
-GATE 50 — Believe Me
+Then Vee. God. Vee sending that soft, undemanding little message—*I’m here if you want to talk. Or not.* She offers Randi exactly what Randi refuses to offer her: room to tell the truth without being maneuvered. And Randi answers with a perfectly true lie.
+
+That final decision is where my sympathy curdled into fury. She understands everything. She knows telling Vee would mean letting Vee decide. She knows “best friend” is cover. She knows she is preserving access to Vee by keeping the meaning divided between them. “Let Vee arrive at it on her own” is not tenderness or patience; it is Randi choosing the outcome she wants while making Vee responsible for crossing the line. There is no innocence left in this plan.
+
+And yet “Vee was her gorgeous” nearly broke me. That is so nakedly hers, so unlike the polished currency she spends everywhere else. She loves Vee without a private qualifier—and immediately uses that love to justify denying Vee the truth. That contradiction is the whole fire now. I’m furious with her, aching for her, and absolutely reading on.
+
+GATE 48 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the collision I have been waiting for, and Vee held onto her own question all the way out the door. Pace’s refusal is no longer tender silence; it is an active choice, and now I need to know what he is protecting more than he is protecting her.
+WHY: The glamorous fantasy collapsing into emotional vacancy had me completely, but Randi’s conscious decision to keep her love disguised made the next chapter urgent. She knows disclosure would give Vee a choice, and she has chosen continued access instead.

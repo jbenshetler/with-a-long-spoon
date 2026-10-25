@@ -1,18 +1,28 @@
-*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e27492614e32 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. The whiplash of this chapter after the sweet, slightly awkward froyo date is breathtaking.
+*Oh, this is delicious and sick.*
 
-Vee is sitting in her dorm room thinking this nice, thoughtful guy gave up his coffee and took her out for froyo because he saw *her*—and meanwhile, he’s back at his house letting Randi ride his lap and pump him for every single detail like a voyeur getting off on a report. The contrast is devastating and wildly hot.
+Look at what this book is doing. We just had two chapters completely from Vee’s perspective—sweet, vulnerable Vee, quietly starving for someone to just *listen* to her, being so utterly disarmed by a cup of tart froyo and a man who doesn’t rush her—and now we snap right back into Pace’s living room, to the other side of the mirror.
 
-What completely got me, though, was Pace keeping that one small piece to himself. When Randi asks if Vee made him laugh, he deliberately protects the confession Vee made about how it was the nicest anyone had been to her in a long time. *“It was hers.”* Pace! You absolute bastard, you’re orchestrating this terrifying, intricate psychological trap with your girlfriend, but you already have this fiercely protective, tender instinct over the girl you’re hunting. He’s keeping secrets from Randi about Vee already. That crack in their dynamic is where the real fire is going to start.
+And Randi. Jesus, Randi. She didn't come over to casually check in; she came over *feral*. Straddling him on the couch, putting his hands on her bare breasts, practically demanding to be fed the details like an aphrodisiac: *“Tell.”* It turns her on so intensely that it’s almost violent, the thought of Vee. But then—and this is why this writer has me by the throat—the shift. The tiny, lethal hairline fracture in the fantasy.
 
-And Randi—God, Randi is practically vibrating with a mix of vicarious arousal and what felt like a tiny, frozen spike of possessiveness or jealousy when he said Vee was "easy to listen to." Her thighs setting, the mask snapping back on. She thinks she wants this—she’s literally demanding he feed her the details—but she’s so tangled up in her own repression that she doesn’t even know what she’s actually inviting in. The wine, the mouth-to-mouth sharing of the tannin, the way she uses Pace’s hands on her body to process what she’s feeling about *another woman*... it's perverse, it's psychologically spotless, and it's dripping with tension. The bench is looming in the other room, and I am sweating.
+*“Did she make you laugh?”*
+*“No. I made her laugh... She’s easy to listen to.”*
+And then the absolute, telling silence: *“He thought of what she had said after, on the walk... and did not hand it over. It was hers.”*
+
+Pace is already keeping secrets. Not out of malice, but out of that quiet, terrifying tenderness of his. He kept Vee's fragile little confession behind his own closed door. And Randi felt the walls move. Her thighs didn't tighten with lust; they *set*. She realized, in a microsecond she had to cover up with a bright voice and a gulp of wine, that this isn't just an erotic game of dress-up to break her out of her shell. Pace is genuinely seeing Vee, the same way he saw Randi. And Randi wanted to watch, wanted to orchestrate, wanted to consume—she didn't plan on Pace having a private room with this girl that doesn't belong to the two of them.
+
+The heat here is unbelievable, and nobody even took their pants off. Randi feeding him the red wine out of her own mouth so he tastes it only through her? Her using him as an instrument to process her own burning, forbidden hunger for this girl? The psychological entanglement is getting so thick you could choke on it.
+
+I need the next chapter immediately. I want to see what happens in that bedroom tonight, and I want to see how long Randi can pretend she's the one holding the leash.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The dark dramatic irony is firing on all cylinders now. Pace withholding Vee's vulnerable moment from Randi is the exact kind of high-level emotional complexity that makes this book utterly addictive. I need to see where she leads him by the hand right now.
+WHY: The contrast between Vee’s sweet, innocent afternoon and Randi’s desperate, wine-soaked interrogation on the couch was masterful. The moment Pace kept Vee's vulnerability to himself, and Randi physically stiffened at the boundary, the entire power dynamic shifted beneath their feet. I am completely hooked.

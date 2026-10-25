@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Randi. *God.*
+Reading this right after Randi’s chapter makes the whole exchange feel like a slow-motion car crash you can’t look away from. In chapter forty-eight, we were standing right behind Randi in that glittering Swiss hotel room watching her look at herself in the mirror, feeling cold and completely unmoored, and now here is Vee lying in her narrow childhood bed with fabric softener and lavender plugins, imagining Randi living this flawless cinematic romance. It is heartbreaking dramatic irony. Vee is romanticizing Randi’s escape while Randi is suffocating inside it, and neither of them realizes how tangled up they already are.
 
-I went into this chapter bracing for the fallout from Vee walking out into the gravel, and when it opened on a Gstaad ski resort with Randi eating smoked salmon in front of her fraudulent father, I almost groaned because I thought we were getting a momentum-killing detour. But holy shit, this wasn't a detour at all. It was an autopsy.
+What really hit me here, though, was the claustrophobia of going back to your teenage bedroom after your life has cracked open. That feeling of lying under childhood trophies while your body and mind have crossed into territory your parents can’t even fathom—that was painfully accurate. The detail about her scissoring the photo so her family only sees the demure half, hiding the slit and the bare leg, cuts right to the heart of what’s happening to her. She is bifurcated. She doesn’t fit into her old life, but Pace won’t give her the footing or the words to stand squarely in her new one.
 
-Watching Randi build the entire glossy, Pinterest-board fantasy in real-time—the cotillion-trained Yale lawyer who looks good in white tie, the private sleigh, the vintage blue dress, the Michelin-star dinner with the scented smoke bubble—only for it to taste like absolutely nothing the second he fell asleep. *"A good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep."* That is so brutally observed. It completely mirrors Vee in the dorm bed realizing the flannel’s warmth was just her own body heat reflected back at her. Both of these girls are freezing in different kinds of luxury, starving for something real.
+And her spiraling about Pace in the dark felt so horribly, authentically young. The minute he withholds communication, she immediately invents a model-thin stranger to put at his stove, completely convinced that the moment she pushed for emotional clarity, he discarded her for someone easier. She has no idea what he’s actually doing—or who he’s actually tangled with.
 
-And the way John "led" her! Cotillion smooth, assuming everything, requiring zero emotional courage from her. It threw Pace into such sharp, terrifying relief. Pace makes her speak; Pace requires her to participate; Pace actually looks at the grotesque, ambitious, hollow parts of her and doesn't flinch.
+That said, we’ve had a run of reflective, quiet scenes now, and while the psychological interiority is rich and doing real work, the characters have been physically separated for several chapters. I can feel the story coiling the spring for the new semester, but I am getting very impatient for them to be back in the same physical space where that coiled tension actually has to snap.
 
-Then Vee texts her at midnight. *“thinking about you 💛 hope it’s beautiful out there. i’m here if you want to talk. or not.”* Such an open, gentle, honest hand offered from a warm, unpretentious Ohio kitchen. And Randi puts her mask back on, types out the breathless sorority-girl emojis, sells the fairytale, and then adds the one genuine, poisoned dart: *"miss your face most though, gorgeous 💋"*.
-
-Randi admits she loves Vee, but she’s such a coward that she’d rather keep manipulating her under the cover of "brunches" than risk hearing Vee say no. She wants to eat her cake and have the friendship, too. She has no idea Vee just walked out on Pace, and Pace has no idea Randi is spiraling in Switzerland. When all three of them collide back on campus for spring semester, the blast radius is going to be astronomical.
-
-GATE 51 — Fairytale
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The pivot to Randi’s perspective during winter break could have stalled the momentum, but instead it laid her completely bare—proving that her gilded, "acceptable" life is a freezing void compared to what Pace and Vee pull out of her.
+WHY: Seeing the two halves of that New Year’s text conversation click together was brilliant dramatic irony, and Vee’s dislocation in her childhood room felt intensely real. I’m ready for the holiday separation to end, though, so they can get back into a room together and let the fallout happen.

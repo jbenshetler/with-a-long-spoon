@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · 2026-10-21*
+*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
 
 REACTION
 
-Oh, I *loved* watching Vee sit in that sun-drenched brunch room—her *and* Randi's brunch spot!—and actually hold court with Kayla and Meg like a woman who knows where the good tables are. When she took a slow sip of her mimosa, set the flute down, and deadpanned, *"I flashed him on his front porch,"* I actually grinned out loud. She has grown so much confidence since September, and Kayla losing her mind over narrating dirty socks to a naked woman on her way to commit a crime was hilarious.
+Oh my god, this chapter was an absolute masterclass in layered tension. I am losing my mind over how many things were happening underneath the surface of this dinner!
 
-And yet, underneath how sunny and fun this breakfast is, there are two little details that gave me such a knot in my stomach. First: the way Vee tells the story of opening the door. She tells Kayla and Meg that Pace opened the door and said, *"It's late. Is everything alright?"*—when in reality, what he actually started to say before she unbuttoned her coat was *"Vee, I l—"*! And then she tells them *"We talked all night,"* which is the exact same white lie she told Cassie last night, when they didn't talk about December *at all*. Second: Meg raising her glass and calling the trench coat reveal *"a big apology"* for *"a big fight,"* comparing it to buying Danny maple bacon donuts after being mean to him on her period. Meg doesn't even mean anything shady by it, she's being supportive, and Vee doesn't blink—because Randi already got inside Vee's head on Friday and convinced her that asking Pace what they were out in the world was *Vee* picking a fight and backing him into a corner! So now Vee's own friends are accidentally cementing the narrative that Vee was the one in the wrong who had to apologize with her body.
+First of all, Dr. Marsh walking into the anthro class and dropping Marcel Mauss and *hau*—the spirit of the giver riding inside the gift, pulling back toward home—when Vee is literally surrounded by objects from Pace and Randi (the silk scarf in Randi's hair, the flannel shirt, the burgundy dress, Randi's heels, the cashmere blanket that's actually Randi's!). That wasn't heavy-handed; it was sharp and electric and immediately set the vibration for the whole night.
 
-Also: Wednesday night! Two days away! Pace, Randi, Cassie, Kayla, Meg, and maybe Theo all in one room together—and tomorrow is Tuesday, which means Vee and Randi have their first Tuesday night Anthro class and dinner *before* the big Wednesday group dinner. Everything is converging fast.
+Then the restaurant—which *Pace* recommended!—and Vee turning her good church coat around on the hook to show Randi the dark bloom on the pale satin lining from Friday's drive. The way Randi's eyes went "very dark and liquid" and she could barely breathe out a hoarse *"Wow"* had my stomach doing flips. Because we know Randi is in love with her, and we know Randi is also half-orchestrating this, and watching Randi get visibly wrecked by Vee's retelling while trying to play the wicked, encouraging best friend is exquisite torture.
 
-GATE 59 — Across
+And that story Randi told about the lawn boy and her mother! "Laundered. Folded. Robin's-egg blue... 'They're not mine. They're your color.'" That was chilling. In two paragraphs, we suddenly see the exact cold, cruel architecture of Randi's mother—waiting *days* just to humiliate this sweet boy at Sunday dinner until he quit and disappeared. No wonder Randi learned to armor herself in performance and transactions! And look at what unlocked that story: Randi hearing that Pace got down on one knee by Vee's chair and his voice cracked saying *"I missed you so much."* Randi had to push her fingernail into the rim of her wineglass to get through hearing how tenderly Pace loves Vee.
+
+And THEN the bathroom stall! Vee gets so worked up painting the picture of herself naked on the kitchen chair for Randi—Randi holding her hand across the table asking *"How much could he see?" / "Could he see you were ready?"*—that she has to excuse herself to go come against the cold laminate partition. And right at the peak, whose face arrives behind her eyes? RANDI'S. *"Randi's face arrived behind her eyes — the tonight face, eyes dark and liquid... He could see you were ready. There's no way he couldn't."* And then Vee immediately rationalizes it while her ears are still ringing: *"Because that had been about Pace, obviously. All of it. About Pace."* Girl, NO IT WAS NOT! And when she comes back upstairs and Randi says, *"Things were really heated. It's a good thing you got relief,"* my heart stopped dead in my chest right along with Vee's! Randi totally knew what Vee just did downstairs and let her off the hook with a double entendre just to watch her squirm.
+
+To top it all off: Vee kissing Randi's neck on the sidewalk and Randi flinching and blaming it on being ticklish, AND Vee feeling a secret stone of relief that she didn't have to tell Randi about tasting herself on Pace's mouth yet—when the whole reason she's fixated on tasting herself on Pace's mouth is clearly braided straight into her waking desire for Randi! And tomorrow night is Wednesday—the group dinner where Pace and Randi are going to "properly meet" in front of all of Vee's friends. Pass me the oxygen mask, I need the next chapter immediately.
+
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is a third quieter scene in a row after the massive marathon of Chapters 55 and 56, so I'm definitely ready for the main trio to collide again, but the dialogue with Kayla and Meg is genuinely funny and the subtext of Vee rewriting Friday night as "we talked" and "a big apology" kept it sharp. Plus, setting a hard clock for Wednesday night's group dinner has me turning the page immediately.
+WHY: Between Randi's devastating story about her mother and the robin's-egg blue underwear, Vee showing Randi the stained satin lining of her coat, and Vee coming in the restaurant bathroom stall with Randi's dark-eyed face behind her eyelids (*"Because that had been about Pace, obviously"*), this chapter had everything I read for: psychological precision, emotional stakes, and scorching, complicated heat. Plus, tomorrow is the Wednesday group dinner where Pace and Randi "meet" in front of everyone.

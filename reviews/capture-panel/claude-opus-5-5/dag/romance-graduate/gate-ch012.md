@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · 2026-10-10*
+*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, Cassie. I didn't know how much I'd been bracing for the book to ease her out until it handed her straight back to me. After chapter 11, where Vee let her walk up the aisle without watching and fed herself that easy line about "your own people," I was sure Cassie was being written out. Instead she gets the first telling. Vee comes home in the man's flannel and the full version, shirt and all, goes to the roommate and not to the girl from the Smoothie Bird. I'm holding onto that.
+Okay. Two pages, and four-fifths of it is Vee telling Cassie the chapter I just read. Right after Ch 10 replayed Chi Latte, that pattern is starting to itch. I already had the blister, the blue shirt, the lake, the sandwich and the truck, and I had them better the first time. "He looked at me like I'd handed him something" is a flatter version of a moment that wrecked me an hour ago. My thumb was ready to skim.
 
-The dialogue is so good. "No windowless van." "I had your blood type ready." "Borrow real boots next time." / "I'm keeping the shirt." / "Keep the shirt." That's what a best friend sounds like. She jokes until the moment matters, then gets quiet and lets you have it. And "Vee," said soft, "Not *Oh, Vee*," gave me a lump. Cassie isn't worried there. She's glad for her.
+What kept me reading was what she leaves out. She doesn't mention the dress. She doesn't tell Cassie about the cherry pit or the face-burning "no one taught you," and she doesn't mention the siren cutting her off mid-sentence. The russet dress is the most wanting thing she said all day, and she keeps it back even from Cassie. I clocked that hard. It's going to come back, and I'd bet money it comes back through Randi or a package or both. She's also retelling the truck as "he got soaked on purpose so I wouldn't have anybody looking at me." She's already turning it into a story about his decency, when in the moment it was about her wanting to be seen. She takes her own nerve and files it under his goodness. Maybe that's my reading and not the book's. I like that the book lets me do it.
 
-What I'm suspicious of: what Vee leaves out. She tells Cassie he stood in the rain "so I wouldn't have anybody looking at me," and that she took her shirt off "on purpose. Me." Nothing about her mother's voice turning into heat, or "floozie" making her thighs press. She gives the clean, brave version. She also never mentions the russet dress, which I'd bet money turns up in a box soon. So Cassie gets the sweet story. What does Randi get? I think Randi gets the hot one, and I'm going to hate how much I want to read that lunch.
+And Cassie. "I had your blood type ready." "Keep the shirt." She goes still and rapt, says just "Vee" like setting something down where it won't break, and doesn't ask a single prying question. I still think she loves her, and it still hurts a little to watch. Then the book had to add "Not *Oh, Vee*." I didn't need that. Add one to the gripe count, a small one.
 
-As for the two-page chapter: I've never had one, so I watched myself read it. It works as an exhale after the truck. It's like the scene after the credits, two girls in a cold dorm room with the window cracked. It didn't feel cheap. It felt like the book letting me sit with the high for a minute. But two pages means there's nothing in it to complain about and nothing to get swept up in either. One wobble: "Cassie didn't say anything. Cassie was rapt." Thanks, I could tell. The book stating what I can already see is the habit that makes my eye twitch.
+Vee's "I got up a mountain. Me." got me, though. It's the first time she's been proud of her body as a thing that does something, and that matters for her.
 
-Mostly I want to know whether that's the last clean telling Vee ever gives anyone.
+What I'd text at 1 a.m.: "she didn't tell her roommate about the dress. she's going to tell RANDI about the dress. oh no."
 
-GATE 13 — Rye
+What I need now is Pace driving home soaked and shaking, or Randi hearing this story. If the next chapter is Vee again, I'm skimming.
+
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 5
 NEXT: 7
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Cassie didn't say anything. Cassie was rapt." It's a small one, but it's the book telling me what I can already see.
-WHY: Short, warm, and a real relief. Cassie is back in the frame, and Vee choosing her for the first telling means something. I'm pulled forward by what Vee left out, the voice, the heat and the dress, and by who she'll tell those parts to.
+ALMOST-STOPPED: "And then it rained. On the way down, out of nowhere, freezing, and we got to the truck wet through, both of us." That's where I realized I was getting the whole truck scene again as a recap.
+WHY: It's a recap chapter, and the second in a row in this book to replay something I already saw, but Cassie carries it and the missing dress is a real hook. I'm more keyed up for what's next than I was inside this one. I want Pace's head or Randi's face, now.

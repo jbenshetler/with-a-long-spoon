@@ -1,31 +1,26 @@
-*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · dated · 2026-10-24*
 
-## REACTION
+**REACTION**
 
-Oh my god. Okay.
+Okay. I'm texting someone about this one at 1 a.m.
 
-This is the chapter I've been waiting seventeen chapters for, and it isn't even sex. I've spent years telling people that the best scenes are clothed, and this is me getting proven right at 1 a.m. She's topless on a riser in hopeful satin, being measured by a man with a pencil behind his ear. The *rhythm* of it is what did it to me: close, two touches, step back, write it down. By the third time he walked back to that pad I could feel the ringing where his hands had been. The book taught me the pattern the same way it taught her, and then it made me wait inside it.
+This is what I've been starving for. It's an hour of a man measuring a woman with a tape, she never gets fully naked, nobody comes, and I felt it more than half the sex scenes on my Kindle. The rhythm got me before I noticed it: he comes close, touches her in two places, steps back, writes. By the third round I was holding my breath on the step-back the same way she was. "The withdrawal left the place his hands had been ringing." Yes. That's the whole trick of him, and the book finally let me feel it from inside her body.
 
-The wetness thread was brave, and I mean brave for a romance. Every book I own treats her arousal as the reward, something he finds and gets smug about. Here it's the *horror*. "It was big and dark and stupid." The thumbprint gets bargained with on the couch under the blanket. "The hope was visible." That line got me in the gut, because I've been that woman managing her own body out of existence in public. Then he goes around her on his knees, and she shuts her eyes and counts. I was holding my breath with her. When she opens them, he's craned his neck all the way up so she'd see his face before anything else, and he never looked down. That's the turn. That's the man from the jacket, "sees Vee completely," made into something you can actually picture. I teared up a little, which is embarrassing.
+The wet satin is the bravest thing this book has done. It's not tasteful and it's not hidden in a metaphor. It's a thumbprint, then a big dark stupid patch on the hopeful underwear she picked that morning. Her shame about it is the most specific inner life I've had from a heroine in a year. "The hope was visible." Ouch. Then she shuts her eyes, counts, and opens them, and he's on his knees with his chin craned all the way up so he can meet her face. He has *not looked down*. He waited for her. I put the Kindle on my chest for a second there. That's the man the jacket promised, and the scene earned it.
 
-Then she gets *bold*, and that's the part I'll be texting people about. "Oops. Sorry." I cackled. Him going red, losing the fight against the grin, the pin, the kiss on the bead of blood. "I was worried I was going to have to come over here pre-aroused every time I wore it." Finally Vee gets to be *funny* in a sex scene, and grown-up funny at that. This is the interiority-plus-heat combination I keep saying doesn't exist.
+Then the power shift, and the book got playful, which I didn't know it could do. "I was worried I was going to have to come over here pre-aroused every time I wore it." I laughed out loud. "Oops. Sorry." and he goes red. That's a full-grown woman being funny and hot in the same breath, which is rare. The pin, the kiss on the drop of blood, the "Keep still" that came a beat too late: hot as hell, and you can see what saying no costs him. And the small cheats after it, the finger behind her knee, the long breath below her navel, "technically." Gorgeous.
 
-Now the suspicious part of me, which never fully switches off in this book. The long low table in the den, the one she crouched down to touch the joint on? That's the bench. Randi called it a table. Vee had her fingers on it and has no idea. Two towels on the bathroom rod, and the bedroom door kept shut. And then "who'd walked right past Randi, Randi!, without even looking." I actually said "oh honey" out loud. She thinks she won. The book is letting me sit ahead of her, just like the jacket promised, and it's working on me exactly as advertised. That makes me uneasy in the good way.
+Now the part that's sitting cold in my stomach under all that. "Who'd walked right past Randi, Randi!, without even looking." Oh, honey. He didn't walk past her. She *pointed* at you. And I just read chapter 13, where Randi sat on him and said "Tell me," and he gave her Vee's gardenia and her soft stomach while he was inside her. So every gorgeous beat of this afternoon reads to me like it's going into his report. The wet satin. Her rising onto her toes. Is he going to *tell* that? I don't think I could forgive him. Not knowing is what makes it delicious and what makes me want to throw up a little, both at once. Also, small note: he didn't ask about the bra, he told her. "The bra too." That's the first time Mr. Asks-Before-He-Takes just took. It was framed as craft, and maybe it really was, but I clocked it.
 
-I'm also holding chapter 14 against this one. Randi showed up on the same day as the hike, rode him for gardenia and chlorine, said "I want us," and *left*. Her belly went tight as a board, and he read it as want, again. Today's softness in this chapter is built on top of that. Is Randi going to get the measurements as her "Tell" tomorrow night? Probably. God help me, I'll read it.
+Gripes, for the count. "Wryly." stuck alone after a sentence like a stage direction. That's a clunker. "No, not grinning. Smiling." That's the book changing its mind in front of me. The cutting interlude says the wetness thing three ways when one would do. And the last stretch, "It had to do with the fact that she had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting." I *had* that. I was in it. You didn't need to staple the thesis to the hem. That's +2 on the subtext-explaining tally. None of it came close to breaking the spell. It just made me roll my eyes in the middle of being turned on.
 
-Where it lost me a little:
-- "Wryly." It's a one-word stage direction, and I physically winced.
-- The bold **QUIZ TODAY** was cute but broke the spell.
-- The last paragraphs explain the chapter to me: "had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting." I *felt* that already, an hour ago, on the riser. You don't need to staple it to the door.
-- It's long. The wetness spiral could lose a page.
-- It's also another chapter of him choosing restraint at the last second ("Keep still"). I love it here, but I can feel the pattern settling in. Next time the restraint has to *break*, or it'll start reading like a tic.
+My structural worry is gone, too. After three quiet Vee chapters, this one is the charge.
 
-## GATE 17 — A Round
+**GATE 16 — A Round**
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "*Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly." It was a one-word hiccup, nowhere near quitting, but it's the closest the chapter came.
-WHY: This is the both-at-once I came for: explicit charge, real shame, real humor, and a man whose kindness actually lands on her body. Her opening her eyes to find him waiting, and him never looking down, is the best beat in the book so far. I need to know whether that bedroom door opens, and what Randi does with "Tell" after this.
+ALMOST-STOPPED: "*Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly." Not really close to stopping. It's just the one line that pulled me out.
+WHY: This is the book's thesis made flesh: fully clothed, nobody comes, and it hit 3 heat with a heroine whose shame and nerve I felt from inside her. The opened-eyes moment turned the bond. I need the next chapter right now, mostly because I'm terrified of what Pace tells Randi tonight.

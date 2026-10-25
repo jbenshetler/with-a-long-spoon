@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-10*
+*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The drawer got me. I'm not going to pretend it didn't. She opens the top drawer expecting to be told off and finds her scrunchies, her pins in a little dish, room left for more of her. Then she opens the one below and all his stuff is crammed in there. That's a man telling her he loves her using furniture. It's also the only way he knows how to say it, and the chapter knows that. Pace doesn't talk. He builds. The dress, the mirror, the chair, now a drawer. Every big thing he's ever said to her was something he made.
+Cassie finally gets a real scene, and it's three minutes long, and it's still the best she's had. "You're a public utility." I laughed. And then "You don't come home school nights," flat, no question mark, and Vee has to go back and count, and the count is worse than she knew. That's what a canary does. She doesn't sing about the gas, she just notices the bed's been empty.
 
-That's exactly why my stomach dropped at "He never said." She lies there listing the ways he's said it without saying it, and decides she can "live clear inside the everything-he-did and not go hungry for the saying." Oh, honey. I believe she means it tonight. But I've read enough books to know a heroine telling herself she doesn't need the words is a heroine who's about to need them badly. And I know something she doesn't: there's a woman who's been in that house longer than she has. She whispers "Peter" to him asleep, the name he gave her, the one she's keeping. I wanted to put a hand over her mouth, not because it's wrong but because it's so unguarded.
+What got me most is the size of the gap between the two confessions. In the dark at his house last chapter Vee said it plainly to herself: *she loved him. There.* With Cassie it shrinks to "Maybe. I think so. It's all so fast." That's one more set of books. Randi gets the wet finger and the bet and the bare bottom. Cassie gets baked tomatoes and a burn. Pace gets "Peter" whispered to a sleeping man. Nobody gets the whole Vee anymore, maybe not even Vee. And Randi's name never came up once, in a whole recap of her weeks, to the roommate whose seat Randi took in that lecture. I noticed. I'm sure Cassie did too.
 
-The bathroom is where it really got under my skin. This is the only bathroom in the house, and Randi walks through it. Randi wore his undershirt with her feet on the chair. Randi is going to open that top drawer one day and find green scrunchies with white dots and a run of liner "with room to spare." That's either the bomb or the hand on the bomb. And after last chapter ended on the glaze on Vee's lip, a pastry Vee never touched, Randi being completely missing here feels deliberate. It feels like the book holding its breath.
+The tomato burn is lovely, and sneaky-hot in a quiet way. Her hand goes to the side of her breast without her knowing it moved. Cassie's dry "Not enough on." And then the house is warm now, warm enough that she never thinks about how much she has on. That's how domesticity sounds in this book: he's raised the thermostat on her whole life. And the cold window Cassie keeps cracked against the cooking smells is the opposite house. I see it.
 
-Heat-wise this was memory, not a scene. The spin at the door, her feet swinging, "a bright stupid sound": that was good, I felt it. Then there's a montage: some nights his mouth, some nights his hands, he always brings her over first. It isn't fade-to-black. It's a recap, and it tells me how he is rather than showing me a night. After 35 and 36 I'll take it as a breather, because I'm still full from those two. If the next one is also a recap, though, I'll notice.
+I'm suspicious of one thing: "she didn't say I know." Does Cassie *know* something? Or does she just know Vee? I want it to be the second and I'm afraid it's both.
 
-What actually annoyed me was the clothes-and-weight paragraph. The bras riding higher, the size-up racks, the tailor. I see what it's for: her body changing around him, burning down weekends of him. But it reads like the author got distracted in a fitting room, and "her clothes had gone *looser* for it" pulled me straight out of the warm bed. Also, "He hadn't told her it didn't matter. He'd gone and made her a place instead." I'd already gotten there one drawer ago. Trust me.
+Here's my honest 1 a.m. text, though: babe, that's two soft ones in a row. Thirty-five was drawers and scrunchies, gorgeous but quiet, and now this is a roommate check-in. I love both of them. But Randi is out there holding a pastry-glaze kiss and "best friend in the whole world," and I haven't been in Pace's head since the bike ride. Did he ever answer the induction photo? What did Berkeley do to him? The fuse is lit and the book is showing me nice dinners. One more chapter like this and I start skimming for Randi's name.
 
-Still, he leaned in behind her in the mirror, looked at the mess, smiled, and said nothing. She spent a whole week thinking he'd minded. The payoff was a cleared counter that made her stomach drop, then the drawer. Small domestic stakes, done with real patience. I'd text: "he gave her the top drawer and squished his whole life into the bottom one, I'm fine, I'm not crying, randi is going to SEE it."
-
-GATE 38 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 8
+NEXT: 6
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "her clothes had gone *looser* for it"
-WHY: A quiet chapter, but it changes the bond. She knows she loves him, and he answered with a drawer instead of words, in a bathroom Randi uses. The sex is recap and one paragraph wanders off into her wardrobe, but the drawer, the unsaid "I love you," and Randi's absence after that glaze have me reaching for the next chapter.
+ROMANCE: 2
+ALMOST-STOPPED: "How he cooked with intent, something different every time and never out of a box", which is the moment it turned into a recap montage of his menu.
+WHY: Cassie earned her scene, and "Maybe… It's all so fast" next to last chapter's private "she loved him" is a sharp little crack. But this is the second quiet chapter running, and I need the next one to bring back Randi or Pace's POV, or anything with a blade in it.

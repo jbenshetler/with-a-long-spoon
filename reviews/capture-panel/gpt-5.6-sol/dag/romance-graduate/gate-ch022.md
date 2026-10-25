@@ -1,20 +1,30 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0894d4db7f65 · 2026-09-29*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ad8401af7036 · dated · 2026-10-24*
 
-REACTION — Oh, this is exactly what I keep wanting spicy romance to do and almost never get: make the sex arise from being *seen specifically*. The dress isn’t expensive shorthand or an alpha buying his woman a costume. He made it from the measurements of her actual body, lined the places it protects, exposed the places it celebrates, and erased the labor so she could simply step into being beautiful. Her realizing that everything else she has worn was made “for no one in particular” got me right in the chest.
+REACTION
 
-And then she takes off her own underwear because it interrupts the line. God. That is Vee’s whole awakening in one tiny decision: the first instinct is to manage herself so nobody sees; the second is to remove the obstruction and stride into the room. Pace doesn’t tell her how to wear the dress or turn its slit into an order. He makes the possibility; she discovers what she wants to do with it. That distinction is incredibly hot—and also exactly why the concealed larger plan is becoming harder to forgive. They are giving her real freedom inside a frame she still cannot see.
+Oh, this is getting dangerous in exactly the way I wanted.
 
-The sex was filthy, joyful, and wonderfully unpolished. I loved them trying not to ruin the dress while she is literally holding him in both hands, her line about “a lot of you covered in a lot of me,” his involuntary response, and both of them laughing too hard to finish undressing her. This is what so many explicit scenes miss: two people can be wildly aroused without becoming solemn interchangeable sex mannequins. The finger-cleaning nearly took me out, though. That slow inspection, his mouth, his eyes still on hers—absolutely obscene, thank you.
+Cassie and Randi on either side of Vee in that lecture hall absolutely got me, because the contrast is so clean without either woman becoming simple. Cassie watches Vee because she cares whether her friend is happy. Randi watches because she cares too—but also because she wants inside the happiness, wants every detail, wants some claim on the woman having it. Vee feels equally loved by both kinds of attention because she cannot yet see that they are not the same thing. “Happy in the middle” is the entire fantasy and the entire trap.
 
-But Chapter 23 is sitting underneath all of this. Vee imagines Pace stayed awake finishing the dress while she slept, and perhaps he did—but I know Randi was in this bed, furious and hungry and turned away from him, while Vee is now lying there believing she is the only hidden story in the house. Pace’s unconscious arm coming around her is achingly tender, and I believe his tenderness completely. That almost makes the deception worse.
+The Simpson’s paradox lecture was almost too pointed for me. Yes, I see it: every separate choice looks good; aggregate the choices and the truth reverses. Same numbers, nobody touched one. It is exactly Pace’s ethical mistake. But the book has already made me understand that, so having a professor diagram it felt like someone underlining the subtext after I’d already circled it myself. I forgave it because the emotional scene around it was so good, but I did feel the author’s hand there.
 
-And that final fantasy is gorgeous and alarming. Vee wants the room to turn and look at her, and for once the looking costs nothing. I want that for her desperately. Yet “what she was for” and “getting away with something” made the floor tilt. She thinks she is getting away with becoming visible. She does not know she was watched, chosen, and arranged before she ever stepped into the light. I am thrilled for her, turned on, and increasingly afraid of what the truth will do to this version of herself she has only just learned to inhabit.
+And then Randi with the dress. “He made it *to* you” is such an intimate act of recognition that I nearly swore aloud. Pace understood Vee’s body well enough to make the dress; Randi understands what being made singular by it means. Between them, they are giving her a language for herself. Which would be beautiful if they were not also keeping her ignorant of the sentence she is actually inside.
 
-GATE 24 — Peekaboo
+The shoe fitting was hot. Not cute-shopping-montage hot—actually hot. Randi kneeling, holding Vee’s foot longer than necessary, noticing the plum polish, that single thumb over her toenail, Vee grabbing her shoulder because the room moved. That is not a friendship misunderstanding anymore. Vee’s body knows. Randi absolutely knows. And Randi says nothing because she is still arranging conditions instead of risking a direct ask. I want her desperately and I do not trust her for one second.
+
+I also loved them being ridiculous together in the first store. Randi’s real laugh mattered because Vee earned it without being coached or coaxed; for once she wasn’t merely the object of Randi’s attention. She made Randi lose composure. That feels more reciprocal, and therefore more emotionally perilous.
+
+The credit card made my stomach drop. Randi did not buy the shoes for her or explicitly pressure her, but she transported Vee into a world where money becomes unspeakable, named the extravagant choice as the only non-apologetic one, and then casually spent several times as much beside her. Vee converts debt into something “the dress was owed” because admitting she wants an unaffordable luxury still feels impossible. That is not liberation. That is shame changing outfits. And Randi either doesn’t notice or enjoys being the person who can make ordinary limits disappear—which is especially ugly when the limit does not actually disappear for Vee.
+
+The last line hurt. Vee has had a friend like this, or at least a better one: Cassie. What she has never had is a friend who makes attention feel like seduction, wealth, permission, and a private world opening just for her. She is calling that intensity friendship because she still cannot call it desire. Meanwhile Randi is walking her straight toward the edge in four-inch heels that hold her beautifully.
+
+Text to a friend at 1 a.m.: SHE TOUCHED HER TOE ONCE AND I AM LOSING MY MIND, ALSO SOMEBODY TAKE AWAY THIS GIRL’S CREDIT CARD AND TELL HER WHO IS SLEEPING WITH WHOM.
+
+GATE 22 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The made-to-measure dress, Vee choosing to bare herself, the ridiculous hot laughter, and Pace’s sleeping arm around her gave me the depth and explicitness I came for in the same scene. And after Randi’s misery in the previous chapter, Vee lying happily in that shared bed has enough dramatic danger under it that there is no chance I’m putting this down.
+ALMOST-STOPPED: “Same numbers. Nobody touched one.”
+WHY: The statistical metaphor explained a little too neatly what I already understood, but Randi kneeling at Vee’s feet pulled me straight back in. Their bond just became unmistakably erotic, Vee has mistaken financial recklessness for freedom, and the concealed relationship is now pressing against every happy moment.

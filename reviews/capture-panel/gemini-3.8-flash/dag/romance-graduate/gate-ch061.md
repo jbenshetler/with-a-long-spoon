@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
 REACTION
 
-Oh, this hit right in the chest. That was breathtakingly intimate.
+*Jesus fucking Christ.*
 
-The psychology here is so sharp it actually hurts. We’ve seen Vee reveling in being the "pleasure princess"—strutting around naked, demanding worship, letting Pace adore her body, letting Randi gas her up—but here, alone in a baking dorm room wearing his oversized shirt, the deeply ingrained female shame catches right back up to her. That belief that her body is *too much*. Too wet, too excessive, a shameful spillover that requires an apology or an absolution.
+My stomach just completely dropped through the floorboards. I need a cigarette and I don't even smoke.
 
-And then that reach. God, the tension of her fingers hovering a breath away from her own lips. The collision in her head between Pace’s completely shameless, joyful enthusiasm (*"as if the plenty of her required no pardon"*) and Randi’s cool, devastating admission across the white tablecloth (*"It was powerful. It turned me on"*). She wants to cross that threshold so badly. She wants to claim herself the way they claim her. But she freezes a millimeter short. That hesitation—that inability to close the last fraction of an inch, followed by the immediate, reflexive wipe of her fingers on the sheet like she’s trying to erase evidence—was utterly gutting.
+*Thursday, January 21.* Do you understand what that date stamp means?! That means while Vee was sitting in her dorm room in Pace’s oversized flannel, agonizing over the fact that she was too cowardly to lick her own arousal off her fingers, wondering if she was broken, smelling like a hothouse and lying over her own cooling stain—PACE AND RANDI WERE TOGETHER IN BED FUCKING EACH OTHER OUT OF THEIR MINDS.
 
-It’s the psychological exactness I crave. She can take a man in her mouth in a dark truck cab; she can hike her hips and strip her underwear off while he drives; but tasting *herself*, accepting her own scent and wetness without the buffer of someone else's desire, is the wall she can't scale yet. And that closing image: shoving the window open to freeze out the evidence before Cassie walks in, buttoning up the giant shirt to make herself "respectable," and then deliberately lying down directly on the cold, damp stain she made. *Her mess. Hers to lie in. Her mouth was still empty.*
+On the very same night. Literally right after that loft dinner where Randi looked across the table and told Vee that tasting herself was "powerful" and "turned me on"—Randi turned around, went straight to Pace, let him eat her out, pulled his wet face directly into her mouth with *zero* hesitation, and then rode him while narrating what she wants to do to Vee’s breasts.
 
-What a quiet, devastating, intensely erotic chapter. It didn't need another person in the room to be scorching, because the real battleground in this book has always been inside Vee's own skin.
+I feel sick. I feel dizzy. And I cannot look away from the page. It is so utterly perverse and devastating and intensely, scorchingly hot that I don't know whether to scream or throw up.
 
-GATE 63 — The Reach
+The psychological brutality of this chapter is staggering. The way they use each other as an altar to worship Vee! Pace moving his hands over Randi's hips, listening to Randi describe wanting Vee's nipple in her mouth, and taking Randi’s nipple into his own mouth instead. It’s like they are channeling Vee through their own skin. They aren’t just cheating; they are running an entire surrogate cult ritual where Vee is the absent deity they are summoning between their hips.
+
+And then Randi dropping the absolute executioner's blade: *"She's not the only one in love."* Looking at Pace. Clocking his face when he softened over Vee. And he didn't deny it. He couldn't. Randi is in love with her, Pace is in love with her, and the two of them are pounding into each other, covered in their own combined fluids, talking about her like she's a ghost haunting the sheets.
+
+Vee is so, so fucked. She thinks she's the center of the world right now, feeling like a little pleasure princess because Pace made her pancakes and Randi gives her fashion advice. If she ever walks in on this, or finds out that they've been doing this behind her back—using her as their dirty talk, cleaning each other up with their mouths—it will literally annihilate her psyche. The cruelty of it, masked in utter adoration. I have chills. This book is a terrifying, magnificent trap.
+
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The masturbation scene was intensely hot, but the emotional core—her hesitating a breath away from tasting herself, caught between Randi's coolness and Pace's reverence—was absolute perfection.
+WHY: The reveal that Pace and Randi are sleeping together *now*, on the exact night Vee was crying in her dorm over her own shame, was an absolute bomb that blew the roof off the entire novel. The heat was filthy, dark, and utterly loaded with psychological poison. I cannot turn the page fast enough to see how this collision happens.

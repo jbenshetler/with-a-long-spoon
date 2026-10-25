@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
 REACTION
 
-Oh, I am already at his house in my head. I know exactly what is waiting behind that door, and Vee is sitting in a dining hall debating outfits while I am internally screaming about the innocent-looking table in his bedroom. “There’s no meal at two” nearly made me laugh out loud. Kayla, you have no idea how correct you are.
+Oh, she is so gloriously gone. Twelve days, instantly, without counting. His name lights up her phone and the fry becomes irrelevant. I know that exact humiliating stage, and I loved getting to watch her be giddy with girls who are neither managing her nor warning her—just letting the insanity be fun.
 
-I loved seeing Vee with girls who aren’t trying to maneuver her. Meg and Kayla are nosy and delighted and turning the whole thing into an event, but it feels normal—warm, uncomplicated, ordinary-friend normal. She gets to boast about Pace, get teased for knowing it has been twelve days, and admit that his restraint is making her lose her mind. That last part got me, because yes. It isn’t nothing. He asks, listens for the real answer, and then honors it precisely. Of course a woman whose wants have always been monitored or corrected is climbing the walls over that. She understands the effect even if she doesn’t yet understand how deliberately suited to her it all is.
+Also: thank God Vee has more friends than the people currently engineering her life. Meg’s “everybody’s different at the start” landed with me even though it didn’t land with Vee. That is such a grown-woman truth tucked into an ordinary dining-hall conversation: sometimes he really is different, and you still cannot know yet. Kayla declaring that there is no meal at two made me laugh, because yes, ma’am, we all understand the appointment.
 
-And she is so proudly, helplessly gone over him. The powerlifting brag disguised as a shrug. The smile arriving at “the shirt.” “Then I backed him into a tree and we made out.” She is enjoying her own desire now, not merely surviving being desired, and I love that for her so much that the secret underneath it hurts worse every time.
+But the whole conversation has a terrible little shadow under it after Randi riding Pace and demanding details about Vee. Vee is telling the shirt story as her private, precious evidence of who Pace is, while Randi has already used parts of that same afternoon to get off. Pace protected the one piece Vee explicitly gave him in the truck, which matters to me, but he still participated in turning Vee into erotic material without her knowledge. So when Vee says he waits for “the real answer,” I ache. He does. That’s why this is so potent and why the larger deception is becoming harder to forgive. He is teaching her that her wanting belongs to her while concealing how deliberately he and Randi cultivated it.
 
-But that text is pure Pace: formal, spare, specific, and leaving an enormous blank for her imagination to fill. “Would you come to my house Saturday. Two o’clock.” Sir. You built specialized furniture and selected this woman with another woman before she knew either of you. I am not capable of treating this as a casual afternoon invitation.
+And now the house. Two o’clock. No stated purpose. I am absolutely reading on. I know what is in that house, I know what Vee does not know, and I am already tense about whether Pace intends to show her the bench, use it, or simply let her encounter his private world. After all this exquisite asking, the invitation itself being so bare feels almost indecent. “Would you come to my house Saturday” is not remotely explicit, but at this point it might as well be a hand between my thighs.
 
-I also notice that Vee is telling more people about Pace now, while Pace is apparently keeping Randi’s involvement entirely outside Vee’s reality and Randi is extracting erotic reports from both sides. The wider Vee’s innocent world becomes around this romance, the more catastrophic the eventual truth feels. Still: Saturday. The door. The house. The table. I’m already turning the page.
-
-GATE 15 — What to Wear
+GATE 14 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 10
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The chapter itself is mostly warm anticipation, but it points straight at the scene I’ve been waiting for since the bench was revealed. Vee thinks she is choosing an outfit for an undefined afternoon; I know she is about to walk willingly into the physical center of the secret, and there is no chance I’m stopping here.
+WHY: Vee’s dizzy happiness is infectious, but I can feel the concealed plan pressing against every innocent thing she treasures about Pace. Two o’clock at his house, with that bench waiting somewhere inside, has me turning the page immediately.

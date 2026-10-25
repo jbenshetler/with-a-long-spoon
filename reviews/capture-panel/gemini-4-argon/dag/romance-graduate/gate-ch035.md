@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · 2026-10-21*
+*capture-dag-v2-rich · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
 
 REACTION
 
-*"Sticky fingers?"*
+Oh, my chest hurts. That top drawer. *The top drawer.*
 
-I literally gasped out loud and put a hand over my mouth. Oh my god, Randi is a menace! An absolute, surgical, breathtaking menace. The way she set that whole sequence up—first coaxing every single degree of the Friday night spanking out of Vee across a sunny brunch table, then casually tossing out a fake story about masturbating in a dark frat bedroom (*"Dress up, panties to the side, knees wide"*), watching Vee bolt for the bathroom, saying *"Do what you need to"* into her mimosa, and ordering glazed pastries while Vee is in the stall so she can drop *"Sticky fingers?"* the second Vee walks back up! I don't know whether to applaud or call the police. Both. Definitely both.
+I swear to god, when her hand reached for the green scrunchies on the next Friday and the counter was wiped bare with just his razor squared to the edge, my stomach dropped right through the floor with hers. Because I immediately had two thoughts at once: first, *oh no, did he mind the mess?* and second, *WAIT A SECOND, he had to hide all her stuff in a drawer so Randi wouldn't see a whole tower of green scrunchies and face cream when she came over!* And maybe a tiny paranoid voice in the back of my head is still whispering that putting it in a closed drawer keeps the counter clean if Randi ever walks into that bathroom... EXCEPT if Randi ever opened the top drawer of his vanity, she would see a permanent shrine to another woman's morning routine! No, he didn't shove her things in the bottom or hide them in a closet. He took his own immaculate, careful ranks of spare blades and combs, crammed them all too tight into the second drawer, and gave Vee the *top* drawer—with a little dish for her bobby pins and empty shelf liner waiting for her to bring more. "He'd folded his whole ordered self down into a single drawer. He'd given her the top one. The easy one. The one your hand goes to first." I am actual puddle on the floor.
 
-What killed me inside the bathroom stall, though, was the echo of Chapter 33—except she got so much further this time before she stopped herself. In the music building practice room she stopped her hand on her knee before she even touched herself. Here, she's got her panties at her knees, her fingers slick on her clit, and the second she starts to slide a finger *inside* herself—just like Pace did when he checked—Randi's face appears behind her eyelids, clear and fond and looking right at her. And Vee has to stop an inch from coming because she can't bear being "seen" by Randi while touching herself to Randi's story, even though she just spent twenty minutes verbally stripping naked for her at the table! The psychology of Vee's shame and desire is so razor-sharp it makes my chest ache.
+And earlier in the chapter, when she finally admits to herself in the dark that she loves him, and whispers *"Peter"* into his ear while he's asleep because he still hasn't given her the words out loud, so she's counting all the ways he shows it instead ("He gives her everything but a word for what they are"—hello, jacket blurb hitting me right in the ribs!). The details of her eating like a field hand at his table after years of starving herself and pushing plates away half-done, and her clothes actually getting *looser* on her—her bra bands riding higher because she's burning through whole weekends in his bed and her body isn't holding onto stress and shame anymore—that felt so lived-in and real.
 
-And then that ending. Just when I'm thinking about Randi's eating disorder again—taking one tiny, neat bite of the pastry, calling it "delicious" to close the subject, and drinking black coffee while that pleased little half-smile sits on her painted mouth—Randi hits her with *"You're my best friend in the whole world, you know that?"* And you can feel how badly Vee has starved for a woman like Randi to choose her, how completely it disarms her... right before Randi kisses her twice on the mouth and leaves the sugar and butter glaze of the pastry *that Randi took one bite of* on Vee's lower lip. So the title "One Bite" isn't just Randi's food policing—it's the one bite she took that Vee ends up tasting on her own mouth after Randi drives away! I am losing my mind.
+This is a classic quiet domestic bridge chapter spanning two Fridays (Nov 6 to Nov 13!), which means we just skipped a whole week without seeing Randi. After that insane "Sticky fingers?" pastry glaze kiss at the end of Chapter 34, what happened during that week?! Has Randi been in that house between November 6 and November 13? Has Randi opened that bathroom drawer?! I need to know right now.
 
-GATE 37 — One Bite
+GATE 35 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi's cat-and-mouse game across the brunch table had me holding my breath, and the final beat—Vee tasting the glaze from Randi's single bite of pastry on her own lower lip after their goodbye kiss—was pure, devastating perfection. I need to see where all that unspent heat goes next and whether Randi goes straight to Pace with this.
+WHY: That beat with the top bathroom drawer—where you think he's erased her mess, and instead he's crammed his own neat things into the bottom drawer to give her the top one with a little dish for her pins—is pure, weaponized tenderness. Add in her whispering "Peter" to him in the dark while the time jump quietly skips a whole week of whatever is happening with Randi, and I'm turning the page immediately.

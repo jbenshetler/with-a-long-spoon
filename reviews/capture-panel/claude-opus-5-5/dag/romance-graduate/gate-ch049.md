@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch049 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch049 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 **REACTION**
 
-I opened this ready to find Vee on the mat with her coat buttoned, and instead got stone columns, beveled glass and a dad eating steak and eggs in Switzerland. My first feeling was close to betrayal. You left her out in the cold and cut to *Gstaad*? Then a tall tanned law student cuts the lift line with "Play along," and every alarm I own went off at once. I have read this exact guy four hundred times. He conjures a table in a packed hütte, a sleigh appears when he makes a phone call, there's white tie and a white-truffle man. I thought I'd wandered into a Kindle Unlimited billionaire book by mistake.
+Okay. The two texts. I read *thinking about you 💛* and *you ANGEL 😇* last chapter from Randi's side of the glass: lipstick on a stranger, the face going back on in a hotel mirror. Now I got to watch them land in a twin bed in Ohio, under the synchro-swimming trophies, and it was exactly what I wanted from this book. It's the retelling weapon again, but quieter. Both girls wrote "the thing" and both meant something they weren't saying. Randi put "Every word of it true. None of it the thing." Vee put "Not the thing — the thing she'd folded away in the glass room." Two women hiding two different things inside the same eleven words, and each one thinks *she's* the one being kind. I said "oh no" out loud.
 
-Then I worked out that the book knew it too. The whole thing is written as the fairytale on purpose. She's already writing it in her head as the story she'll tell a daughter she doesn't have, and the chapter lets her get every single thing she wanted so it can show her feeling nothing in the middle of it. Once I saw that, the clichés stopped being lazy and turned sad. "He was a better dancer than Pace," and then the whole difference spelled out: John's lead is unmistakable, while Pace's is "the lightest pressure, a thing she'd had to be listening for." Easier was better, she thinks. *Tonight.* And "Pace made her say it, out loud, every time." That's the consent rule from the outside, from the girl it applies to, and she's lying in a hotel bed finding out she misses being asked.
+Vee also *invented* the billionaire. Randi never typed the word "man." Vee built him herself, "devastatingly handsome," "a weekend so wild," straight out of the Redford-boy stories Randi has been feeding her all fall. Randi lies by giving out the fairytale and Vee fills in the rest. So I watched Randi's real night, flat and lonely, get turned into the glamorous version by the one person who'd have been gentle with the truth. That's the "step ahead of Vee" the jacket promised me, and it hurts in the right place.
 
-The sex is behind the door: "Afterward." Normally that's where I throw the Kindle across the room. Here I didn't mind, and I think it's the only time I'll ever say that. A sex scene with nothing in it doesn't get described. What we get instead is the lipstick ring, and "felt her own mouth do it from a long way off," and the good sandwich eaten fast. The eyeliner held, "Nothing had happened to her eyes." That line went straight through me. If the book fades out on Vee and Pace, though, I'm gone.
+The fra diavolo memory got me. She reaches for her best night to keep warm, and the blonde climbs into her own memory and takes her chair, her sheet, her wine light. "She could not keep her own night." That's real jealousy, the 1 a.m. kind that rewrites your past instead of just worrying about the future. And "a fashion model's body where Vee's was a stripper's." Oof. The mother-voice wire I had marked as quiet is back, at full volume, in the one room it was built in. Also note to self: she's still lying about the dancing, and she still cropped the leg off for her mother's phone. "Same picture, one house, and she was the one who had divided it." I liked that a lot.
 
-Then the payoff I've been waiting fifty chapters for: Randi saying it plainly inside her own head. "She knew exactly what it was." "Vee was her gorgeous." She's never said *I love you* to anyone without meaning it as currency, and with Vee there's no catch. Then she decides, coldly and with real cowardice, never to tell her: let Vee arrive at it on her own, and let the word keep its cover. That's the threesome plan wearing a nicer coat, and she half knows it. I can't decide whether I'm heartbroken for her or furious with her. Probably both, the same way I feel about Pace.
+Now the gripes, because I have them. This is the second Vee-alone-in-a-cold-bed-not-texting-him chapter. Chapter 46 already did the thumb over the empty field and the "no message comes back in the shape of what she needed" beat, and this one says it again almost word for word. I noticed. The last line, "the cold room kept watch over the girl who was gone," is the book underlining its own theme. "A room that loved a girl who no longer lived inside her" already did that job a page earlier. I don't need it twice.
 
-Vee's text wrecked me. *i'm here if you want to talk. or not.* And Randi sends back the fairytale, "every word of it true," which in this book means it's a lie.
+The bigger thing: I haven't seen Pace since she walked out his door on December 11, and it's now three weeks of silence in story time. Chapter 48 was Randi and chapter 49 is Vee missing him. I want him. I want to know whether he really did nothing for three weeks, or whether there's a reason I'm not being shown (Christmas with Sheri? Randi? Nobody?). If chapter 50 is another inner monologue I'll start skimming. If it's January and his door, I'm all in.
 
-Things I'm suspicious of. "Eating her revulsion" about her father, at breakfast, in the first paragraph, and then nothing more. Something's there and I'm scared of it. The white-gold bracelet "locked on her wrist," that "never came off," the one she hides from the light. Who locked it? I'd bet money it's Pace's. "Central Florida, and did not mention it," which goes with the MIRANDA loans. "Pace on his worst night" also made me sit up. Does she know about the night at the door?
+Also, small thing: Vee knows about the PPP money and envies Gstaad anyway. "Even a poisoned Gstaad was more life than she had." That's honest, it's not pretty, and it's very twenty-one. I believed her.
 
-The book is at its weakest when it starts explaining itself. "There was no flaw in him to point to. The flaw was hers." "This was the best the acceptable world could do for her." Yes, I got it at the eyeliner. And "delicately clomped" made me wince.
+---
 
-What I'd text at 1 a.m.: *we skipped a MONTH and I don't know if Vee went back in, and I just watched Randi sleep with the perfect man and admit she's in love with my girl, and she's going to hide it forever, and I need the next chapter right now.*
-
-GATE 51 — Fairytale
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
+CAPTURE: 6
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "What's your name, my dear wife?" That's the moment I thought the book had swapped Vee at the door for a ski-resort billionaire meet-cute.
-WHY: The fairytale turned out to be the trap, and Randi finally said what she wants, to herself, in a room where she felt nothing. That's the strongest beat for her in the book so far. But the jump past Vee walking out of Pace's door has me desperate for the next chapter, and the bracelet and her father have me scared.
+ROMANCE: 2
+ALMOST-STOPPED: "There was nothing to put there. She'd learned that already, in another bed, in another cold room." The book knows it's repeating chapter 46, and so did I, and I counted pages.
+WHY: The mirrored text exchange and the blonde taking over the fra diavolo night are the best things this book does: same moment, two rooms, and I'm the only one who sees both. But it's the second solo cold-bed vigil, Pace has been offstage for three weeks, and the lyrical close leaned on me. I'm turning the page for *him*, not for more of her ceiling.

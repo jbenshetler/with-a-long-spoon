@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch006 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · 2026-10-10*
+*capture-dag-v2-rich · gate ch006 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, that was short. I turned the page expecting the date to keep going and got the end of the chapter, and my first reaction was honestly *wait, that's it?* I've never had a chapter end on me that fast. I can't tell yet if it's a technique or a shortcut. Then I sat with the last line for a second and it worked on me anyway. "Your tart's holding up." He doesn't make her confession into a big moment and he doesn't joke it away either. He just gives her something solid to look at. That's the Pace from the bench, the one who backs off and lets her decide, only now it's aimed at froyo, and knowing what he is makes it unbearably sweet and a little sinister at once.
+Okay, that was short. It was barely a scene, more like a postcard from a date. And I'm conflicted, because I liked it while also feeling the book's pulse slow down under my thumb.
 
-The thing that got me was the food. Vee overfills the cup, waits for her mother's voice saying *that's plenty*, and hears nothing. I went straight back to Randi and the thin apple slices, cut sides up. This man feeds women who've been taught to starve, and that's his whole method. When Vee says "this is the nicest a person has been to me in a really long time," I wanted to grab her by the shoulders, and I also completely understood her. That's the jacket's promise of being "ahead of her from the start," and it's working on me.
+The thing I liked most was the cup. Vee builds her froyo too tall and waits for her mother's voice saying *that's plenty, that's enough now*, and the voice doesn't come. I sat up at that, because I still have Randi and the apple slices from chapter one, the thin cut-side-up portioning, the egg-white mother. Now there's a second girl with a food-policing mother in her head, and Pace has walked them both up to the edge of eating. He feeds women. That's his whole move, and the book is letting me notice it without saying it out loud, which I'm grateful for. "Your tart's holding up" works because he doesn't touch her confession. He just points at the cup and the cup is fine. The scene is about her and he lets it stay about her. That's a grown-up response and it got a little warm feeling out of me.
 
-Randi was the real heat of the chapter, and she's only in it for half a page. She takes the phone out of Vee's hand, says "He wants to see you naked," and talks her out of making him wait. I'm watching her and I don't buy the grin for a second. In chapter 3 the plan was a threesome with *her* as the one doing the choosing. Now her boyfriend is courting this girl alone, and she's pushing it along while her hand keeps going to that coffee cup. Either the plan changed or Randi is already losing control of it, and I want to know which. Cassie's healer joke is doing quiet work too. She's the only one at that table who sees Vee clearly, and the book keeps easing her out of the room.
+Then there's the part that made me narrow my eyes. In chapter five Randi was texting at the café, "thumbs quick, eyes down… writing to someone who had her attention. Some boy." Twenty minutes after Pace leaves, Vee's phone lights up. I'm 90% sure Randi was texting him. And "He wants to see you naked" isn't a friend hyping a friend. Randi is narrating Pace's appetite because she knows it, and Vee laughs it off as froyo. That's the dramatic irony the jacket sold me, and it's working on me: every sweet thing he does on this walk has a second layer, and I can't decide if that makes it more romantic or makes my skin crawl a little. Probably both, and that's the point.
 
-What I'm keeping an eye on: this is the third chapter in a row of Vee being charmed with no heat. A short one costs me less than a long one would, but I'm starting to count. The book opened with that bench scene. It owes me Vee's body on the page soon, not just Vee's crush.
+Cassie is quietly becoming my favorite person in the book. "As long as he doesn't make you roll a healer again" is a whole history in one line, and it's the most real friendship texture we've gotten. She said "Goodbye, Vee" in chapter four and I haven't forgotten it.
+
+The problem is that this is the third quiet chapter in a row. Coffee, tutoring, now froyo. Each one is good, but I'm a bench-chapter-one girl and I've been on sweet-courtship rations since chapter three. If chapter seven is another walk where he listens beautifully, I'll start skimming for the first time he touches her. This chapter's length saved it. At two pages it felt like a held breath instead of a stall. I don't know yet whether these micro-chapters are a technique or a shortcut, but this one read as a technique: it ends on an image, not a summary.
+
+What I'd text a friend at 1am: "the math guy bought her froyo and didn't make her feel bad about the size of it and I'm melting, BUT his girlfriend definitely set up the text, I'm so stressed for this girl."
 
 GATE 6 — The Long Way
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 7
+NEXT: 6
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "By late afternoon she and Pace were standing under the neon in a too-bright shop" (the moment I realized we were getting a third gentle chapter and skipping straight to a cute-date montage)
-WHY: The chapter's so short it barely registered as a chapter, but the mother's voice going silent over the froyo, and the apple echo underneath it, gave me real dread. Randi pushing Vee toward him without keeping any of him for herself is the thread I'm pulling now. I'm reading on because the irony is good, and the book needs to turn the heat back up before my patience for courtship runs out.
+ALMOST-STOPPED: "There's a system," he said. "Tart on the bottom holds up under the heavy ones." That's where I clocked it as another charming-courtship chapter, the third quiet one running, and felt my patience tick.
+WHY: The missing mother's voice and "Your tart's holding up" are real emotional intelligence in very little space, and Randi almost certainly sending that text gives the sweetness a dark undertow. But I need the book to bring the charge back soon. Vee has to touch him, or Randi has to touch Vee, before I'm just reading a nice meet-cute.

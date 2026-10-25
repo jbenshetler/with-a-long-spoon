@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this is the good stuff. This is exactly why I’ll forgive a book almost anything except shallowness: two people under a quilt, talking until the tea goes cold, and I was more exposed than they were.
 
-Oh, Randi. She stayed down. She asked to be fed. She put on his shirt, knew which drawer it was in, ate almost everything he gave her, and slept under his blanket. For anyone else those are ordinary domestic beats; for her they are practically a declaration written in blood. She has been using sex to flee intimacy, and tonight she used it to stay near it. I felt every tiny surrender.
+Pace going straight to the affection underneath Vee’s beige Ohio casseroles absolutely got me. He never makes her history feel provincial or embarrassing; he finds the loving hand inside it. And then she does the same for him. “They took the thing you loved, and made it the punishment” is such a devastatingly exact gift to give someone. He understands her shame because someone taught him shame too, only his was about the brilliance that now makes him seem almost superhuman.
 
-And she finally said it: Vee got past her. Not a game, not a useful girl, not merely somebody Pace wants whom Randi can eroticize at one remove. She likes listening to Vee talk about Tuesday. She thinks Vee is extraordinary. She is turned on by Vee’s embarrassment, by her body, by what she keeps hidden under the cardigan—and the second Pace named the thing Randi loves about her, Randi nearly came apart sitting at the table. That stillness was jealousy and recognition and terror all at once. He sees Vee the way Randi sees her, and Randi cannot decide whether that makes him her safest person or her rival.
+Peter. God. Of course there is a Peter underneath Pace. Fifteen years old, sent away because adults saw an opportunity they could not “waste,” safer leaving home than staying, building his body in a dorm full of men so he would never have to discover whether he needed it. Suddenly all that strength and competence feels less like effortless masculine fantasy and more like architecture he built around a frighteningly young boy.
 
-What wrecked me was Pace imagining the three of them at that table: Vee in his sheet, Randi in his shirt, everyone smiling. That is such a tender, possible picture, and it is built over a trapdoor. He wants to tell Vee. He knows he cannot tell her “yet.” That one word is the entire knife. He still thinks patience inside the seduction is enough, while the concealed premise keeps getting larger and more unforgivable. And Randi handing back “she’s not ready” as though she has accepted his ethics—when she has just spent a day steering Vee into debt for the perfect shoes—made me want to shake both of them.
+And Daphne. No, sweetheart. No. The careful insistence that nothing happened and nobody did anything wrong made my stomach turn much more than an accusation would have. He has filed every part of it under gratitude because she made those lonely years bearable, and Vee understands enough not to rip the story away from him before he can survive seeing it differently. “He had handed her the thing that had hurt him and named it luck” nearly finished me. That is grown-up emotional intelligence: she sees the ugly word, does not deny it, and also does not use it to seize authority over his own memory.
 
-But God, the feeding worked on me. Pace did not remark on how much she ate; the chapter did not make him congratulate her or pry her open. He noticed and let her keep the dignity of not being observed. That is exactly his devastating trick: his care is so intelligent that I want to trust him even while I know better.
+The scar refusal was incredibly intimate. “Not tonight” without removing her hand—yes. That is what his consent language looks like when he is the vulnerable one, and Vee receives it beautifully. Turning her palm beneath his so they can hold hands over the unanswered thing was hotter to me than plenty of full sex scenes. So was his palm resting on her breast while they talked, frankly. Their bodies are becoming a place where conversation can happen, not an interruption that has to lead immediately to penetration.
 
-Also, Randi turning her desire for Vee into sex with Pace is now almost unbearably charged. He understands that the wanting belongs to her and refuses to name it for her, which is respectful and also possibly cowardly. She is practically confessing through her breasts in his kitchen, and he lets the confession remain encoded. I’m torn between wanting someone to say the obvious and knowing that forcing the name onto it would violate the very thing the book keeps pressing.
+I am deeply, dangerously in love with them together now, which makes the last section unbearable. Vee lying there thinking she “stumbled into” Randi, that Pace crossed the coffee shop because chance handed her happiness, while I know those coincidences were manufactured—absolutely not. Her happiness is real. Her gratitude is real. Pace’s tenderness is real. That makes the deception worse, not better. She thinks the universe chose her when two people did, secretly, as part of a game. I want to shake them both.
 
-She slept. She actually slept there. My 1 a.m. text would be: “Randi ate his food, wore his shirt, admitted she’s gone on Vee, and stayed the night—this woman is in love and fighting for her life.”
+Also, Pace explaining mathematics as a living poem would have had me taking off my clothes again. “Most people walk around inside the poem and never get to read a line of it” is offensively attractive. This man has now cooked for her, made her a dress, rebuilt her relationship with her body, and made Newton erotic. I understand why she is gone. I’m gone too. Unfortunately, I am also staring at the trapdoor beneath her happiness.
 
-GATE 26 — Gone
+GATE 24 — Rock
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was the emotional turn I’ve been waiting for: Randi’s armor did not shatter theatrically; she simply stayed, ate, spoke too honestly, and slept. Now I desperately need to know whether she can admit what she wants before the three of them build anything more on Vee’s ignorance.
+WHY: This was a quiet chapter with the emotional voltage of a sex scene: Peter, the hallway, Daphne, the scar, their joined hands over the thing he could not tell her yet. And Vee calling herself fortunate because she believes she stumbled into both of them has me desperate for the truth to break before her beautiful happiness becomes even more expensive.

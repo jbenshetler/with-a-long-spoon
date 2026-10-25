@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch066 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch066 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · dated · 2026-10-24*
 
-REACTION — Okay. The waxing scene. I've read a hundred grooming scenes in this genre and they're always either a montage or a shopping interlude, and this one took the thing seriously as an *event in her body*, and I'm a little stunned by it. "The wrong hand. It held her the exact way she wanted to be held and it did not want her at all, and what it did, pinning her under the flat of its palm, was open a hole in her a mile across where the right hand should have been." That's the sentence of the chapter. That's the whole Pace-and-Vee grammar in one stranger's glove — and the book *knew* I'd been tracking that grammar (don't move, hold still, the palm on her thigh) and it turned it around and showed me what it costs when the shape arrives without the meaning. She keeps the lit ruin "back behind her teeth where it belonged to him." God.
+REACTION
 
-And then — this is the thing I need to flag for myself, because I've been trained by sixty-seven chapters to notice when the book does it deliberately — Randi withheld. "Barely stings." The glass of wine, the most-expensive-thing-in-the-room, the Sondra-by-name, the whole warm passport-to-a-country setup, and not one word about rolling over. Not one word about the back. Vee noticed: "The part Randi hadn't said." And I'm sitting here doing the Randi-math I always do: is it the underwear move again — knowledge produced warm and fond and incomplete, the mother's trick done sweet? Or did Randi genuinely forget what first-timers don't know, because her own first time is years gone? Either way — the pattern is the pattern. She hands Vee the road one mile at a time and lets Vee walk each mile believing she chose the map. I'm not even mad. I'm *watching*. The chapter itself put the flag on it, the same way ch 64 put "They share an interest. You" on the table while I still had my fork up.
+I had to put my Kindle down twice during this chapter, and both times it was because of a detail, not an act. The first was the walnut. He's painting her and feeding her and the food IS the paint and the paint IS her, and she figures out the grapevine one sense at a time — brown, green, red — the way you'd understand something in a language you're learning. That's not a sex scene, that's someone who read Mauss and Mauss read right back. The hau: a gift carries the spirit of the giver. He painted her out of herself. "Gesso." I gasped. Marsh told us this book was about gift economies three chapters ago and I did not clock that the payoff would be body paint made of her own want. And the "too much" turn — the breasts the world calls too much, the hips, the wetness she can't contain — made into cantaloupes and cherries and abundance-the-whole-point. I have read a hundred scenes about a heroine with big breasts feeling bad about them and one (1) scene where a man paints them as fruit and she's PROUD, fierce enough to hurt, and the pride is earned because he built it for her on purpose.
 
-Also, the two girls on the couch — "one had come to be looked at... the other had come to be touched... Vee sat down between them and understood which one she was." That's the cleanest piece of interiority this book has done in ten chapters. Four lines. It's doing what the whole series does to me: naming a thing I've felt and never phrased.
+The second stop was the end. Her lying there in the drying paint, listening to the hothouse smell, and trying to imagine what Randi's voice would do with the photo — and it wouldn't come. She can't hear it. "She found she had been holding her own breath." That paragraph did more to move the Randi thread than a whole dinner date would, because the want is now running through the *telling* pipeline, and the pipeline is Randi, and she just caught herself doing it and laughed it off with no sound so as not to wake him. Too much to show her. Too much. But she tried the sentence on first, alone, in the dark. That's the third game moving and Vee still filing it under "not that I'd ever." Chills.
 
-And the yes-before-the-question — "her mouth answering before her mind had caught up" — is running downhill now, gathering the fear *after* it can't be used. "That was nearly the point of it, the fear arriving too late to be any use." The book just told me the mechanism out loud, which is the kind of explaining-its-own-subtext I usually hate, except here it's *her* noticing her own wiring, in her voice, so I'll allow it. Barely.
+Also: the scar. She kissed it — "asked it nothing, and went on" — and I nearly cried, because that's exactly how this book handles wounds. Nobody explains, nobody probes, you just go past it and it counts as going past it.
 
-Heat check: nothing sexual "happens" and yet. That last touch of her own hand on the new smoothness, "the sound she made was not one of pain" — and the walking-out, claimed and secret. This is a chapter about an object being prepared for its owner and I felt every minute of the preparation. This book keeps doing the thing I can't quit: taking the shape of smut and filling it with thinking.
+The gesso scene is the filthiest thing this book has done and almost none of it was touch. A paintbrush dipped in her, the wetness rolling down past where he could catch it, "her body pulsed under the shame" — that's shame-into-pride in one chapter, which took this book forty chapters the first time. And then he ERASES the painting with his mouth, taking the cherry off, taking her own fluid off, like the reveal underneath is the real picture. I'm ruined.
 
-The one flat spot: "the kind of girl who" — the mother's register arriving, staying where it was. We've had that voice before and it's doing real work, but I want the mother's *name* for it eventually, not just the register. It's starting to feel like a held note.
+The morning-after of chapter 63's loneliness reveal is still echoing too: this is a man who had nobody, doing the most attentive thing anyone's ever done to anybody. I texted my friend "he painted her like a still life and ate it" and she demanded the title.
 
-I want the weekend. I want his hand finding what she did for him. I want Vee to tell Randi about the rolling-over part and watch what Randi's face does. Tuesday can't come fast enough, and Saturday can't come fast enough before that.
+One tiny frown: "Oops" — no, that was perfect, shut up. No complaints. Fine.
 
-GATE 68 — Barely Stings
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
 NEXT: 9
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "Don't move" — for half a page I was afraid the book was going to take the clinical-room somewhere cheap, and then the wrong-hand paragraph turned it into the best thing in the chapter.
-WHY: The grooming-chapter-as-void — the grammar of his hands arriving with nobody inside them — got me somewhere the explicit chapters hadn't been in a while, and the withheld-Randi detail is a live wire I need to see pay off. The only thing holding it from a 9-10 capture is that the chapter is a single held situation and I could feel it being a bridge at about the two-thirds mark.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The painting scene is the most original erotic set piece I've read in years and it *means* something — abundance, the hau, her pride. And the last page quietly advanced the Randi thread more than the last ten chapters of dinners. I need to know what happens at that mixer, and I'm dreading/aching for whatever Vee doesn't say on Tuesday.

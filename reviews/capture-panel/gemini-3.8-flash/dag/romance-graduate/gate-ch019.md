@@ -1,31 +1,26 @@
-*capture-dag-v2-rich · gate ch019 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8611b8522702 · 2026-10-01*
+*capture-dag-v2-rich · gate ch019 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ab6b14909a3d · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. Holy *shit*. My hands are actually shaking a little bit typing this.
+The knot in my stomach is just getting tighter and tighter.
 
-First of all: the sheer emotional and psychological architecture of this chapter is completely off the charts. I’ve read a thousand spicy books where the FMC has "body issues" or "shame," and usually it’s fixed by the alpha hero saying *you’re beautiful, baby* and then pounding her into the mattress. It’s cheap. It’s a Hallmark card with an erection.
+Watching Vee edit out the middle for Cassie was agonizing, but it was *natural*—she’s protecting the sheer, unhinged intimacy of what happened in that bedroom, and she’s terrified of being seen as the “floozie” her mother raised her to dread. That skirt zipper stopping halfway because she literally gave her panties away to him as a *trade*? My God. Cassie knows there’s a seam there, even if she’s letting it lie. Cassie’s dry love is the only pure thing in Vee’s life, and Vee is already walling it off to protect this fantasy.
 
-*This?* "She could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one." That is one of the truest, most devastatingly accurate descriptions of female arousal tangled up in purity culture and maternal judgment I have ever read in my entire life. She isn't cured of her mother's voice. The "floozie" loop doesn't just evaporate because Pace is a good lay. Instead, he feeds the fire with it. He meets the exact thing she has spent her whole life hiding—the excessive, inconvenient, un-ladylike *wetness* of her own appetite—and he doesn't just tolerate it, he reveres it. "Would you be bothered if I was too hard?" on his knees while she's standing there with the evidence of her own shameless want dripping between her legs? The gasp that came out of me. It was filthy, it was tender, it was psychologically merciless.
+And then the brunch. Oh, the brunch.
 
-And then the ending. The dropped sheet. The green panties folded neatly into thirds with the wet spot centered like an offering, handed to him bare-assed in the kitchen light: "Trade." A direct receipt for the flannel shirt. She is claiming her own desire now. She’s leaning all the way into the very thing that used to make her want to crawl into a hole.
+Randi is playing her like a concert harp. The psychological voyeurism here is making my skin prickle in the best, most terrifying way. Randi inventing this ridiculous, pathetic throwaway story about a rushed old boyfriend just to lube the tracks and get Vee to open up—when we all know Randi’s mind is permanently glued to Pace’s bench and Vee’s body—is sick. Masterful, but sick.
 
-...Which brings me to the absolute ice water running down my spine.
+And Vee noticing that Randi seemed “drunk” when she’d barely touched her mimosa?! *“The esses running long, the a’s lifting, more of whatever it was than there had been when they sat down—and her eyes had gone liquid at the edges.”* That wasn't alcohol. That was Randi getting completely, helplessly, physically turned on just pulling the confession out of Vee’s mouth. Randi is getting high on Vee’s arousal, consuming Pace’s hands on Vee secondhand across a white tablecloth, and Vee is sitting there thinking she’s found the big sister/best friend of her dreams.
 
-Because I know what she doesn't know.
-I know that Randi exists. I know that Randi went back to this very house, sat on his lap, drank his wine, and demanded a report. And what was the one detail Pace withheld from Randi after the hike? Vee's soft belly. Now Vee has handed him a physical relic—her wet, stained satin panties—and my stomach is in absolute knots. What is he going to do with them? Does he keep them private, the way "something in his shoulders was private" when he took them? Or does this become the centerpiece of the terrifying little altar he and Randi have been building?
+And that goodbye kiss. The hand at the hinge of the jaw. The first soft press, the pull back, the *second press*. And this time, Vee didn't panic about who saw. She met it. She didn't look down the street. The snare isn't just closing; Vee is walking straight into the center of the web, smiling, humming with the radio.
 
-And that scar high on his inner thigh! Just thrown in there while she's shoving his jeans down. What is that? A powerlifting injury? Something from whatever broke him or made him who he is?
+The dramatic irony is so thick I can barely breathe. When this blows, it’s not just going to break Vee’s heart—it’s going to demolish her entire concept of reality. I am completely hooked.
 
-This book has completely ruined normal romance for me. The pacing, the heat, the absolute absence of cliché—it’s pure, uncut perfection. I need the next chapter right now. I don't want to sleep.
-
-***
-
-GATE 20 — Famished
+GATE 19 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological interplay between her ingrained shame and her raw physical arousal was stunningly written, the sex was scorching, and the dread of how this connects back to Randi makes it impossible to put down.
+WHY: The sheer psychological tension of Randi extracting the details of Vee’s night with Pace—getting visibly, physically turned on across the brunch table while Vee mistakes it for intoxication—is unreal. The pacing is delicious and terrifying; I need to see what Pace does with those green panties.

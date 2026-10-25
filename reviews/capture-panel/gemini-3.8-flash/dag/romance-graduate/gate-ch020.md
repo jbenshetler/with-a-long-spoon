@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
+*capture-dag-v2-rich · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 96625992569d · dated · 2026-10-24*
 
 REACTION
 
-Jesus Christ, Randi is like a venomous snake that knows how to speak fluent girl-talk. My stomach was in actual knots this entire brunch.
+Oh, Randi is *starving*, and she is furious at who is sitting at the head of the table.
 
-The contrast between Cassie and Randi here is *devastating*. With Cassie, Vee edits out the middle to protect herself, but Cassie loves her enough to let the seam sit unpulled, tossing off the dry "get your brain back from your boyfriend" and grabbing her cleats. It’s healthy, normal, safe college roommate love. Vee having to zip her skirt back up because she gave away her panties bare-assed the night before was hilarious and mortifying and so real.
+Look at the brutal geometry of this whole situation coming home to roost. For chapters now, we’ve watched Pace be the master of deliberate, courtly restraint—the man who feeds Vee blistered flatbread, who takes an hour to pin a hem while she trembles on a riser, who leaves an entire confession out of bed talk because he likes having a room with a closed door. He genuinely believes his slow, patient pacing is noble. He tells himself it’s for Vee. And Randi walks into his warm house, smells the rich cream and chicken he spent all afternoon simmering, and sees right through the saintly carpenter routine: *It’s selfish, Pace.*
 
-And then she walks into the gilded spiderweb with Randi.
+And God, she is completely right. He’s luxuriating in every drop of Vee’s adoration, stretching out the seduction because it feels magnificent to be worshiped by a girl whose world he is expanding by inches. Meanwhile, Randi is the one paying the actual retail price. Randi is sitting across from Vee at brunch, watching Vee glow over a man Randi handed to her, listening to Vee describe floating in his sheets, feeling the kiss at the curb that Vee explains away as European manners—and Randi has to choke down her own ravenous, terrifying longing while smiling like a good sorority sister.
 
-Randi is doing something so psychologically sick, and Vee is just drinking it down like sweet champagne. Randi feeding her that pathetic little cover story about an ex-boyfriend who was "in a hurry"—literally setting up the exact contrast she knew Pace would deliver, because Pace *was built to take his time*. And then coaxing the details out of Vee piece by piece! The toes, the frosted plum, the campaign of buying the underwear... Randi isn’t just interrogating her; she is getting *off* on it. "Her eyes had gone liquid at the edges... the esses running long... one mimosa, and most of that still in the glass." Vee thinks she's tipsy! Honey, she’s not drunk on alcohol, she is *aroused*. She is soaking in Vee’s blooming desire, taking Pace’s labor and tasting it through Vee’s flushed cheeks, while subtly steering Vee into feeling empowered: *"You're not caught, sweetheart. You're lucky."* The absolute manipulation of making Vee feel like a brazen, modern woman who *took what she wanted*, when every single step was pre-laid track!
+Then she comes to Pace’s house and he hands her a tiny bowl of stew, like an afterthought, like a pet he can feed on his own schedule. The sheer violence of her pouring her own wine—taking the bottle right out of his courtly little script—and then using him on that bed without a single word of his voyeuristic dirty talk? Devastating. She didn't want the fantasy tonight. She didn't want him describing Vee's shampoo or the curve of her hip. She shut her eyes, locked her jaw, used his body to blunt the edge of a panic she can’t name, and turned her back to the wall.
 
-And then that goodbye kiss. The hand at the hinge of the jaw. The little pull-back and the *second press*. And Vee didn't even look around to see who was watching this time. She just accepted it. "See you soon, gorgeous."
-
-I am screaming into a pillow. Vee is driving home with the windows down and the radio up, thinking she has the perfect man and the glamorous older sister/best friend she always prayed for, completely blind to the fact that they are both carving her up for dinner. The sheer dramatic irony is unbearable in the best possible way. Give me the next chapter immediately.
+Pace standing in that dim kitchen, looking at the untouched food and genuinely not understanding what he did wrong, is the absolute height of arrogant male blindness. He thinks he’s running an experiment with error-correcting codes, building redundancy into the signal. He doesn’t see that the signal has already mutated, and the woman who drew the blueprint is suffocating inside the walls.
 
 ***
 
-GATE 21 — Fed
+GATE 20 — Portion
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 2
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension during that brunch was so sharp I could barely breathe; Randi getting visibly, quietly turned on by extracting Vee’s confession while Vee mistook it for sisterly affection is pure, intoxicating dread.
+WHY: The psychological friction here is razor-sharp; watching Randi strip away all of Pace's precious, courtly control and leave him standing baffled over an untouched bowl of stew was masterclass relationship tension.

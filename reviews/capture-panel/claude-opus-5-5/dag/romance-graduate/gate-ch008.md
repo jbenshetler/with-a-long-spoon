@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · 2026-10-10*
+*capture-dag-v2-rich · gate ch008 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, I didn't expect to like a pool chapter this much.
+Okay, I didn't expect a pool chapter to land with me, and this one did, mostly. After last night's "Tannin," where Randi was on Pace's lap drinking in every detail about Vee and his fingers were under her top, the book cuts to Vee in a green-and-white suit she wore at sixteen, "when there'd been less of her to fill it." It's quiet and it's smart. It's the first time we've been inside Vee's body without anyone steering her, and that body turns out to be a sore spot. She's carrying the same kind of policing as Randi's apple slices, just in another form. With Randi it's the mother living on egg whites, and with Vee it's the mother's voice saying *that's plenty* and *that's not the kind of attention a nice girl*. The froyo cup she didn't stop building suddenly makes more sense. I like the book quietly pairing them up like that.
 
-The underwater part got me. "Something in her chest that had stood at attention all afternoon quietly sat down." I know that feeling exactly. It's the first time Vee has been alone in her own body without anyone looking at it, Pace included, and I hadn't noticed how much I needed to see her like that. Every Vee scene so far has been about being *chosen*: the high table, the right pen, the *may I*. This is the one place she doesn't need anyone to choose her. "She had loved this before she had a body to be a problem." Now I understand what Pace and Randi are walking into. They're not getting a blank sorority-adjacent girl to wake up. She's already grieving something, and they're going to feed it. That makes the jacket's "taking" line land harder.
+The walk past the bleachers is very real. "You won't need floaties with *those*" is exactly how that sounds in real life, and her long blink with half her mouth pursed is exactly the face you make. Then there's Cassie. "They will never know the love of a woman," said low, just for Vee, when she has the lungs to yell it at the whole room. I adore Cassie. She's quickly turning into my favorite person in this book. I'm also filing that line: is Cassie queer, does Cassie want Vee, is Cassie the one person here who loves her without a plan? After that "Goodbye, Vee" in chapter four, I'm a bit scared for her. I think she's the canary.
 
-I'm also worried about Cassie now, in a good way. "Goodbye, Vee" back in chapter 4 has been bugging me, and here she is being the only person in this book who loves Vee without wanting anything from her. She keeps "Tossers" low so it's only for Vee. She splashes instead of asking. "They will never know the love of a woman" made me snort, and then I wondered whether Cassie knows something about herself, or about Vee. She's the friend who gets pushed out of the frame in this kind of story. I already feel the book setting her up to lose Vee, and I'm going to be mad about it.
+The underwater part is the best writing in the chapter. "The room switched off." The sculling her hands remember. The water as "the one part of it that had never been taken." It made my chest ache a little. It's real interiority, and it feeds me instead of showing off. Two things grated. "And grieved, a little" names the feeling, which the scene had already given me. And the last line, "The body that was such a problem stayed up on the deck," spells out the subtext I'd already picked up three paragraphs earlier. That's the book explaining itself, which is a pet peeve of mine. It's small, but I noticed it.
 
-Small gripes. "and grieved, a little" is the book nudging me. I'd already felt the grief and didn't need the label. The last line about the body waiting on the deck with the towel is pretty, but it ties a bow on something I'd have rather been left holding. Also, does Cassie say "Tossers"? Is she British? Probably nothing.
-
-Shape check: chapter 6 was quiet, chapter 7 was hot, and now this is quiet again and short. No Pace, no Randi. I don't resent it, because it's a Vee chapter and Vee's inner life is the thing I said I wanted. But I'm aware the heroine hasn't been touched yet. If chapter 9 is also a quiet friendship chapter, I'll start skimming. Right now I want Pace's call and I want to see Randi again, so the bridge is doing its job.
+Zero heat, and I'm okay with that for one chapter, because what it adds is stakes. Now I know what Pace is going to be looking at, and how much it'll cost her to let him look, given the man who leaves the lights up. That's the charge it builds, and it's a slow one. But I'm counting. This is chapter eight, and Vee has had froyo and a walk. Nobody has touched her yet. The book has earned some patience from me, and this chapter spent a little of it well. I want her date with Pace soon, or at least a long lunch with Randi.
 
 GATE 8 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 7
+NEXT: 6
 HEAT: 0
 ROMANCE: 1
-ALMOST-STOPPED: "and grieved, a little" — not a stopping moment exactly, just the one spot where the book explained what it had already shown me
-WHY: The underwater passage gave Vee real interiority, and it made the plan against her feel heavier, so I care more now. Nothing charged happened, though, and I'm counting quiet chapters. NEXT beats CAPTURE because this chapter made me want what's coming, not more of this.
+ALMOST-STOPPED: "The body that was such a problem stayed up on the deck with the rolled towel, where it could wait." It isn't a stopping moment, just the point where my eyes rolled, because the book told me what I'd already felt.
+WHY: It's short, tender, and Vee finally has a body and a history of her own. Cassie is wonderful. But this is a second low-heat Vee chapter, and I want her and Pace in a room together soon.

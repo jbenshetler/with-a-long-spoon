@@ -1,16 +1,14 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 5661ad3880e1 · 2026-10-12*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 5661ad3880e1 · dated · 2026-10-24*
 
-REACTION — Oh, this is wicked.
+REACTION — Oh, this is exactly the kind of dangerous I wanted the jacket to mean. The sex is hot, yes—her coming from the question alone absolutely got me—but what really has its teeth in me is Pace recognizing that her body answered and still refusing to treat that as consent. He waits until she can answer as herself. That distinction is so precise, and so much sexier than the usual alpha-male mind-reading nonsense.
 
-The question making her come before she can edit herself? That got me. Not just because it was hot—and it absolutely was—but because her body keeps betraying the polished little story she tells about herself. “Only in a threesome. With you” is such a perfect save: she can want a woman as long as she packages the wanting as a present for a man. I felt Pace see that maneuver happen, and I felt the danger of how much he enjoys seeing through her.
+And Randi translating her desire into “a gift for her boyfriend” because wanting a woman directly is somehow unsurvivable? God. I felt that. I also felt the little chill of Pace seeing the translation happen, understanding it, and accepting the camouflage because it gets them where they both want to go. He is attentive enough to be safe with her in bed and potentially terrifying everywhere else. That combination is doing a lot to me.
 
-I also appreciated that he waited until she was fully back in herself to ask again. That distinction—her body’s answer is information, not permission—is precisely the grown-up attentiveness I keep wanting these books to understand. And then he immediately takes her onto campus and turns her desire into a game, so I’m not allowed to settle into thinking he’s merely safe. He is observant, tender, ethical in specific ways, and also very much engineering an outcome. That combination is doing terrible things to me.
+The pointing game itself was filthy without anyone taking off a stitch. Watching Randi’s taste emerge against her own expectations—the mirrors rejected, the polished authority rejected, the warm girl earning a maybe—felt genuinely intimate. Then Vee appears, gloriously unlike everything Randi has trained herself to value, and that naked little “Yes” comes out before she can package it. That was the chapter’s real undressing.
 
-The pointing game was obscenely intimate. Randi pretending she’s indulging him while becoming more alert with every woman; Pace realizing she’s started shopping; the kiss after “maybe”; “I point. You pick.” Yes, fine, I’m awake. There were a few moments where the narration told me one extra time that she was disguising her hunger as something she was offering him—I understood it the first time—but the charge kept climbing anyway.
+But the pleasure has rot under it now, because Vee thinks she has just had a charming accidental meeting, and I know Randi manufactured the collision while Pace watched from a distance. It is seduction as conspiracy, and I am both wildly into the charge of it and watching the ethical floor very closely. “Go get her” thrilled me; it also scared me. The jacket’s “Every yes was freely given” is starting to feel less reassuring than forensic.
 
-And then Vee. Oh, no. The jacket meant I knew exactly who had walked out of that dining hall, and watching the trap close while Vee was laughing too freely to know she’d entered anybody’s story was both gorgeous and genuinely sinister. Randi’s naked first “Yes” was hotter than half the explicit scenes I’ve read this year. Then watching her execute that collision so perfectly made me realize Pace isn’t the only predator here. She is frighteningly good at this the instant she wants something.
-
-“Do you think she’ll like the bench?” Jesus Christ. That is the text-to-a-friend-at-1-a.m. line. Because it’s playful and conspiratorial and filthy—and because we already know what that bench did to Randi. She has gone from being exposed on it to imagining another woman exposed there, and I cannot tell yet how much of that is desire, how much is identification, and how much is her trying to move the unbearable thing that happened to her into somebody else. Probably all three. I’m deeply uneasy about Vee being selected without knowing there is a selection, but that is the promised knife of the book, and I am absolutely reading on.
+And that last exchange—whether Vee will like the bench, followed by “Let’s go feed you”—is wicked. Pace understands Randi’s hunger and feeds it, but they are already talking about Vee as an experience they are arranging before she knows she is inside anything. I would absolutely text a friend: *The bisexual awakening is hot, the boyfriend is alarmingly perceptive, and they have just selected a woman like prey. I cannot stop.*
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -19,4 +17,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me explicit heat, real psychological complication, and a final line that was simultaneously sexy, tender, and chilling. I need to see what Randi does when Vee becomes a person rather than a target—and whether Pace understands the game he has just taught her to play.
+WHY: This gave me explicit heat, actual psychological stakes, and a bond changing in real time. I’m exhilarated by Randi’s desire and deeply uneasy about what she and Pace are doing to Vee—which means there is no chance I’m putting the book down here.

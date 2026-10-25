@@ -1,24 +1,32 @@
-*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The washed flannel. Two chapters ago she handed it to him and made him wear it all weekend so it would smell like him again. I cried a little at that one. Now she's alone in the top bunk taking it off, and the reason she can't stand it is the cruelest line in the chapter: *the heat in the shirt was her own, given back.* That one I felt. She's been feeding herself on a smell, and tonight she noticed the warmth was her own. I've been watching this girl build a shelf for forty chapters, and tonight she knocked part of it off.
+Oh, she *walked out*. With the chicken on the stove, the wine poured and the heat turned up for her. I was holding my breath the whole time she stood on that mat.
 
-The undressing is a good piece of physical writing. Shirt under shirt, the version for the hall, the version for when nobody's looking, then nothing. Then lying naked in Cassie's two-inch draft, choosing the cold because the warm was a lie. That's an inner life. It isn't erotic and it isn't trying to be. It's a woman making her own body say the thing her mouth won't. And the phone: she holds her thumb over an empty field and realizes any text she sends will get answered "small and warm." That's grown-up. I've read a hundred heroines who'd have sent the text and built a 60-page misunderstanding out of the reply. She didn't send it, because she already knows what he'd say.
+What got me first was that the bag stayed in the car. She decided before she ever got out. She sat there with the engine ticking, the coin taste in her mouth and her coat buttoned to the throat, and gave herself an exit. That isn't a girl blowing up. That's a grown woman who lay awake two nights, came in with her case built, and *still* had to watch his face open for the door kiss and not give it to him. "She let him arrive at the fact of it." God. She didn't turn her mouth up.
 
-But I'm getting impatient. "Not the big one and not the small one." I read that sentence at the end of 48, *yesterday*, nearly word for word. This is the third chapter in a row about the word he won't say: the crackers on the porch, then Chili's and the bed, now this. The chapter keeps telling me what the silence means while she's lying there in it, and I don't need the gloss. I got it from the shirt.
+Her speech should have been too much, and it wasn't, because it's honest about the good part. "I'm not complaining about one minute of it." "What do I tell my mother, that he feeds me and we have a lot of sex?" She knows exactly how it sounds and lets it sound ugly, because that's the actual problem: without a name, the best thing in her life comes out of her mouth sounding cheap. That's what I've been missing from KU for years. A heroine who can say *the sex is incredible and that is not the point*.
 
-The other thing is that I know things she doesn't, and that's starting to hurt too. Chili's was never about her. He was drowning in the noise, and she's turned it into proof he doesn't love her. He sat on that couch asking Randi "is she happy," "she consents or I'm done," and he has never once asked himself what *he* is to Vee. And Randi said "God, I want her" into the wood and then tried to take it back. Everybody in this book is withholding the same word from somebody. Vee is the only one lying awake over it, and I'd follow her anywhere, but I want the book to *move* her now instead of letting her circle.
+Then him. "Do any of your friends have a relationship you'd rather have than this one?" It's a mathematician's dodge, a counterexample in place of an answer. And it's TRUE, which is the cruelty of it, and she knows that too. Then "Words are cheap. Believe what I do," which is the jacket, word for word, and I'd been waiting for it. Her comeback, "Words are cheap, and you still won't spend them on me," is the line I'd text at 1 a.m. I physically said "ohhh" at it.
 
-Cassie sleeping through it is killing me. Wake up, Cass. You're the only one who'd ask.
+I sat there thinking: I know why he can't. Randi. The quad. "For us." Any word he gives Vee out there is a word he'd also owe the other woman he's careful with. The step-ahead thing is brutal here. She thinks she's asking whether he loves her. What she's really asking is the one question that would take the whole arrangement apart. The arms folding, "the still of a man holding a line at cost," told me he wants to say it and can't. Or he's protecting a structure. I honestly can't tell which, and I like not being able to.
 
-This was short. I've never had a chapter this brief, and honestly it works better as one held breath than it would have as six pages of the same thing. I don't know yet whether that's technique or a shortcut. It earned its length, but it didn't earn the repeated line.
+The Chili's chapter is paying off too. The sensory thing, the noise and "I can't hear you," means he's maybe not withholding out of coldness. Something in him really is wired differently, and it's mixed up with a lie he's actively keeping. Holding both of those at once is what I came to this book for.
 
-GATE 49 — Bare
+Gripes. "Not the hand in place of the word" is the book leaning over to make sure I got it. I got it, the whole chapter was about it. "Like my body comes with me attached" is an echo of the Randi brunch, and I noticed it. Mostly I liked the echo, because Randi already answered that line once with "It doesn't." Also, honestly, 44, 45, 46 and now 47 are four chapters circling *the word*. Chapter 46 was a short, quiet one, and by the end of it I was thinking *okay, I get it, she wants the name*. This chapter is what keeps that from being stalling: the circling finally turns into an act. If chapter 48 opens on her crying in the Corolla thinking about the word, I'll be annoyed.
+
+What I want: Randi. I haven't been at a brunch table in ages. Vee is going to bring this to Randi, Randi is going to "comfort" her, and it's going to travel straight back to Pace. That's the scene. Also Thanksgiving with Sheri happened offstage and I'm still a little sore about it.
+
+Heat-wise there's nothing, unless you count her body wanting him on the doormat, and it's there in "it all went straight past her guard into the old wanting." That's a simmer. It doesn't need more.
+
+---
+
+GATE 47 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 5
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "there was no name in her for it, not the big one and not the small one" — the same rumination from last chapter, almost word for word.
-WHY: The shirt and the cold are real, they hurt, and this is still the only heroine on my Kindle with actual weather inside her. But it's the third chapter running on the unsaid word, and I need the next one to be a door. Randi's Anthro class, Cassie waking up, anything other than Vee alone with a smell.
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "Not the hand in place of the word." It's not a stop, just the one spot where the book explained itself to me and I rolled my eyes.
+WHY: The jacket's central fight finally happened on the page, and she's the one who left. That's a real turn, and nothing a manufactured unsent text could do. Knowing about Randi turns his "believe what I do" from coldness into a lie I can watch him protect. I need Saturday brunch now, with Vee wrecked and Randi "helping."

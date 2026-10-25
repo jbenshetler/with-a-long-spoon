@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b0e38f522c99 · 2026-09-26*
+*capture-dag-v2-rich · gate ch008 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, my heart just broke for Vee. This hit me so hard. Every woman who grew up with an early, hyper-visible, curvy body knows that walk past the bleachers—the armor you have to put on, the rolled towel you hold at your hip so you don’t look like you’re hiding, the practiced eyeroll at the catcalls that pretends it doesn't sting, and that constant, exhausting feeling that your own flesh is a betrayal. “The whole business of having a body in a place where people were.” God. That line is devastatingly real.
+Oh, Vee. My heart just broke for her a little bit, and that makes what Randi and Pace are doing so much more dangerous and awful and magnetic.
 
-And that moment underwater—quiet, weightless, holding herself down with the old scull from synchro before her body became something for the world to consume or critique—was gorgeous. She gets to just *be*, and she grieves the girl she was before being looked at became a full-time job.
+This chapter is tiny, but God, it does so much heavy lifting emotionally. We’ve seen Vee through Pace’s appraising, calculating eyes (the "lavish scale," the "hourglass clothes weren't cut for"), through Randi’s predatory fascination, through her own anxious attempt to perform poise at Chi Latte. But here, stripped down to a green-and-white suit she’s overflowing, walking the gauntlet of college douchebags barking at her breasts from the bleachers, we finally feel the *exhaustion* of being her. "The whole business of having a body in a place where people were." That line hit me right in the chest. To be an object of constant consumption, constantly performing chin-up grace while your mother’s voice polices your appetite and men treat your hips like public property—it makes you understand completely why she melted when Pace asked about her econ thesis and waited for her to finish a sentence. She is starving for someone to see her as a person, and the sheer tragedy is that Pace and Randi *are* seeing her, profoundly so, but also treating her like a gourmet meal they’ve conspired to share.
 
-Also, can we talk about Cassie? God bless Cassie. “Tossers. They will never know the love of a woman.” She is the steady, unglamorous anchor Vee desperately needs, especially with the shiny, predatory web Randi and Pace are weaving around her. Cassie seeing Vee surface with her “face on wrong” and immediately launching a sheet of pool water to snap her out of the spiral without making her talk about it is *real* female friendship.
+And Cassie. I love Cassie so much it hurts. "Tossers. They will never know the love of a woman." Cassie is the absolute tether of reality in this book. She’s the anti-Randi: no performance, no Greek letters, boxy frame in an ugly navy suit she doesn't apologize for, standing in the shallow end "like a person." The contrast between Cassie’s clean, uncomplicated love—splashing water in Vee’s face to knock the melancholy out of her without demanding an explanation—and the intricate spiderweb Randi and Pace are weaving around her is breathtaking.
 
-It’s a very quiet chapter—no Pace, no Randi, no direct heat—but the psychological ground it lays is incredible. We’re seeing the deep, bruised vulnerability in Vee that Pace is going to target. The blurb told us his gaze turns her shame into heat, and seeing the exact nature of that shame here makes the coming trap feel ten times more potent. I didn't get any spice, but my god, the interiority is delicious.
+It’s a quiet chapter. There’s zero heat. But after the thick, wine-dark erotic tension of Chapter 7, this was the exact breath Vee needed to take. We needed to be under the water with her, weightless, before the trap snaps shut.
 
 GATE 8 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Even without Pace or Randi on page, this gave Vee so much tender, painful interiority about her body and her shame that it makes the impending seduction feel ten times more charged. The writing is gorgeous, Cassie is fantastic, and I desperately want to see what happens when Pace starts applying pressure to these exact wounds.
+WHY: It’s short, completely un-erotic, and yet totally essential—it gives Vee the aching, tender interiority that makes the impending game between her, Randi, and Pace feel terrifyingly high-stakes. Plus, Cassie is the absolute best kind of romance-novel best friend: zero bullshit and fiercely protective. I need to see what happens when the three of them inevitably collide again.

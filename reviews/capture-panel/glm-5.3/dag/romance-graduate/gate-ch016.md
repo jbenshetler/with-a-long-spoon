@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · dated · 2026-10-24*
 
-REACTION — Okay. I have been waiting for this chapter since "may I choose?" and the book PAID. This is the thing I keep telling BookTok nobody writes anymore: an entire chapter where nothing happens except a man with a measuring tape, and I had to put my Kindle down twice and just breathe.
+REACTION — Okay. I need a minute.
 
-The shame engine in this one is exact. Vee standing there doing the second-by-second work of keeping her arms at her sides — "the making was active; she had to keep making it" — that's the realest sentence about modesty I've ever read in a romance. And the soaked satin. God. The way it's written as evidence, her hope "sized to be seen across the room" — that's her mother's whole voice turned into a wet spot on her underwear and I felt her terror in my own body. I've been that girl. Every woman who's ever read this genre has been that girl. And then the reveal — him kneeling with his face turned UP, waiting for her eyes — he didn't look down once. I actually got teary. That's the whole book in one gesture: the thing she was bracing for her entire life doesn't come, and it doesn't come because a person *chose* not to bring it.
+That was the chapter I've been waiting for since the silk appeared, and it was better than what I was waiting for. The whole measuring sequence — I've read a hundred "he measures her for a gown" scenes in historicals, and they're always coy, always aflutter, and this one just... took it seriously. The kneeling was method. The stepping-away was method. And the *withdrawal* being what undid her — that's the detail that makes me trust this writer completely. It's not the touch, it's the empty ringing place where the touch was, and then having nothing to do but be *looked at* from across the room. That's exactly how that works and nobody ever writes it.
 
-And Vee after that — the power flip. "Oops. Sorry," with her breast against his cheek, watching Pace fight a grin and LOSE — I cackled. This is what I mean about interiority: she transforms on the page, shame into spending, and it's not a switch flipped by his magic penis, it's earned beat by beat. The "Keep still" that comes a beat too late — I heard that in my chest. He's paying for his own restraint and she can hear the price. That's hotter than any explicit scene I read this month, and they never touch below the ribs, basically.
+The wet-panties through-line, though. That's the thing I'm still sitting with. A lazier book would've had her flustered and then a sex scene, fade, done. This book made her *shame* the actual event — the mother's voice arriving ("can he tell?"), the thumbprint growing, the counting of maybes she doesn't believe. And then the pivot: she opens her eyes braced for the grin of a man laughing at a girl who can't control herself, and instead he's craned all the way up to her *eyes*, waiting, delighted, having not looked down once. And her posture physically rearranges. I put my Kindle down. That's not a sex scene and it's the most erotic thing I've read all year. Score it however — that beat is a 3 on heat with her standing completely still in half a dress.
 
-Also the cold thread, still humming: the house pre-heated hours before she arrived. The thermostat turned up so a woman could stand half-bare — that's care and that's staging in the same breath, and the book knows it: "he'd thought of it hours before she came, probably." Probably. I keep holding both. The dress is a gift and it's also the trap deepening — he's building her exactly what she wants, which is the whole con. But standing in chapter 17, I don't care, because she doesn't, and the writing makes me not care alongside her, and that's the book keeping its promise about what it feels like to be seduced.
+And then HER turn — "Oops. Sorry," on purpose, and *he* goes red. I whooped. He's been the composed one for fifteen chapters and she found the lever. The pin-catch and him kissing her ribs before deciding to — that little involuntary kindness — is exactly the crack in the flawless front I said I needed. It's a small flaw, but his hands have stopped being purely sure: "Keep still" arriving a beat too late, after a silence she watched him spend. The book is letting him wobble. Good. Stay wobbly, Pace.
 
-One small worry: Randi's been offstage two chapters and the Randi-layer is my favorite ache. But this chapter earned its whole length and I'm not going to complain about a book feeding me this well.
+I noticed, and I'm choosing to just feel it rather than ruin it: the last two chapters have been Pace-and-Vee with Randi offstage. I miss her. Chapter 13 gave me her want coming home sideways — "tell me," the gardenia and musk, "I want us" — and then she left, first time ever, and I'm still chewing that. But I'm aware this afternoon is being banked as ammunition somewhere. The dress is FOR an induction, and Randi will see it, and the satin was chosen with hope, and none of this stays private. The dread is the pleasure, like the bench.
 
-GATE 17 — A Round
+Also — "does this measurement change? Like. When they're not — like this" made me laugh out loud, and his "I don't know, I've never thought about it" going genuinely somewhere behind his eyes is the exact flavor of this book: her embarrassment turning into a real question, and the question getting real respect. Nobody in my Kindle library has ever been stumped by nipples before.
+
+One more: the closing line — "seen at her most ashamed and had not, once, been found wanting" — is the whole book's thesis in one sentence, and it earned it. It didn't explain it to me until it had already happened to me.
+
+GATE 16 — A Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
+CAPTURE: 9
+NEXT: 8
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Her mother's voice arrived... *can he tell?*" — not because I wanted to quit but because the secondhand shame got so acute I had to look away from the page for a second. That's a compliment.
-WHY: The measuring scene is the best thing this book has done — full charge from clothed-not-clothed proximity, and the moment she opens her eyes to find him smiling up at her is the emotional payoff of the entire shame arc. Only thing holding NEXT at 9 instead of 10: I'm now desperate to get back to Randi, and the next chapter had better start moving her back into frame.
+ALMOST-STOPPED: none — the closest wobble was the mid-chapter quiet stretch (him cutting, her under the blanket counting maybes), where I briefly worried the whole chapter was going to be one suspended note; then the riser turn arrived and I stopped worrying.
+WHY: This is the both-things chapter — explicit psychological heat AND a real turn in the bond, her shame met and answered. I docked NEXT only because I know I'm in for a cooldown beat, and what I actually want next is Randi finding out about this afternoon; the dread of that is already pulling me forward.

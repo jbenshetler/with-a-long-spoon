@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
 
 **REACTION**
 
-THE BLANKET. I have to start there because I actually gasped out loud. Two chapters ago, hungover, Pace folded *Randi's* cashmere blanket, "the one for the chill that took her after," and put it back at the foot of the bed "where it lived." This morning Vee walks it down the hall, lays it out square and smooth like she's setting an altar, then soaks it through, and lies under it afterward thinking it's how he gives gifts: "no card, no notes." Oh honey. It isn't yours. The book never says so, which is exactly right. It just lets me sit there holding it while she gets petted to sleep by another woman's blanket. That's the best use of "I know something she doesn't" in fifty-six chapters, and it's done with an object, not a speech.
+I was not expecting the book to do this right after the doorstep and the breakfast. It's two people in a kitchen, her naked with her wine and him at the sink, and it's the best answer to December the book has given her.
 
-The kiss is the other thing that's still in my chest. Her tongue gets there before her upbringing does: "curious, unforbidden, hers." Then the flat installed voice, the back of the hand, "Ugh — gross," like a little kid. And his "Okay." No sulking, no explaining. He leaves her mouth for her to take back. That was the most tender thing he's done since the doorway, and maybe more grown-up than any word he could have said. Then she goes *hunting* in his mouth and comes on the taste. And she lies there licking her own lip and won't ask herself what she's looking for. I know what she's looking for. The jacket knows. Randi in the next booth knows. It's the setup for Tuesday, and it's a setup that's actually about her appetite, not a plot device. It's built out of her body arguing with her mother. That's what I came to this shelf for and almost never get.
+She walked out of his house asking "what am I to you out there?" and he couldn't say it. Now, with his back to her, he says "I want to meet your people." It's the same man and the same refusal to use the word, but he's answering with "Believe what I do." Last time that line made me want to throw the book. This time it actually lands. He kept Meg's boots and her heel lifting out of the right one, and he handed back her own line about Kayla in his flat voice. I melted at "He had been listening. Not the polite kind." And then "Bring Theo," reaching for the next pan, no question, no jealousy. Vee feels it "settle in her, warm side down," and so did I.
 
-The heat delivered. The pointing game is genuinely hot. The finger that stops being steady, "it was not a command now and both of them knew that too," the trip all the way to her feet and back. "Bad slave" made me laugh. Him opening her like the blood orange is the one time the food-as-sex metaphor earned its keep. The rest of the cooking I skimmed, honestly. Mushrooms with "shoulders," persimmon salt. I can't keep the meals apart anymore and this one's joining the pile. The "pleasure princess" bit was a hair too cute for me, all the giggling and shimmying. But I believed it as a twenty-one-year-old who just got her man back and is drunk on her own nerve.
+Then the Chili's picture came back to her, the fork being squared. She asks him to pick the place and doesn't say why. She's protecting him from loud rooms without ever telling him she noticed. That's the grown-up emotional intelligence I came for. Same with the Cassie bit, refusing to build a dinner where one of her people has to be a good sport. "She'd watched somebody be fine about it before. She wasn't going to look at when." Who? Her mom? Herself at Randi's tables? I want to know.
 
-What's bugging me: he knows he loves her. He sat sobbing over cold chicken and worked it all out for himself. And he still hasn't said it. "I missed you so much" with his voice cracking, and she's decided she has "no room for wanting anything he hadn't given." That's a truce, not an answer, and I'm watching it. Plus Brooke's "you need to choose" is hanging over Randi, and Vee's walking into that dinner Tuesday with a strange small thing to confess. 1 a.m. text: *she soaked the girlfriend's blanket and thinks it's a love token, and next she's telling Randi she wondered what she tastes like. I can't.*
+Now my suspicion. He says "I want to meet your people" and her brain fills in *Randi*, with her friend's name "already on it." A dinner, "the three of us." He steers away from it right away, toward Cassie and Meg and a whole party. Is that because he's already met Randi a hundred times and can't sit at a small table with both of them and act? I think so. And she's sitting on "the lacquered seat of a chair he'd made," which is the seat from his drunk fantasy with Randi's feet on it. I noticed, book. I'm cold. "Let me handle it" is lovely and also a man taking control of a room where his two games meet.
 
-GATE 56 — Missed a Spot
+Also, I can't stop thinking about "Vee, I l—" on the doorstep two chapters back. She cut him off. He was trying to say it, and she opened the coat instead. Nobody has brought it up since. That's a bomb sitting on the porch.
+
+This is a short, quiet chapter after two very hot ones, so it doesn't trip my stall alarm. It reads like a breath, and the last line has an engine in it. A party with Randi and Pace in the same room, both pretending they "said about nine words at the coffee shop." I'd text a friend: "HE WANTS TO MEET HER FRIENDS. and Randi's going to be there. I'm sick."
+
+**GATE 54 — Back**
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "He dusted smoked paprika over and the steam bloomed warm and smoky, campfire-sweet" (the third paragraph of plating, when I started skimming for her again)
-WHY: A long sex chapter that was actually about something: her taste, her shame, his patience, and a blanket that belongs to somebody else. The food is wearing thin. But the kiss and the Tuesday hook have me wanting the dinner with Randi right now.
+ALMOST-STOPPED: none
+WHY: It's a bridge chapter that's really two people talking, and it quietly answers her "out there" question with an action instead of the word. It also sets up a party where everyone who's lying will be in one room, so I'm reading on right now.

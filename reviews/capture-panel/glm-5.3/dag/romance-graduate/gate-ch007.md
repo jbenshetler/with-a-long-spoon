@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e27492614e32 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
-REACTION: Oh, this chapter. It's barely three pages and I had to put the Kindle down after it.
+REACTION: Okay, that was barely three pages and I'd read ten more of it. It's chapter 1 flipped on its head and I felt the flip in my body — back then Randi was the one unraveling, hiding in the bathroom; now she comes through that door and *takes*, no hello, deadbolt and straight into him, and for once she's the one doing the hunting. That heat is real. "Tell me" against his ear, the wine passed mouth to mouth, him never pouring his own glass — that's the kind of detail I starve for. He's getting drunk on her secondhand, and neither of them says so, and the book doesn't underline it. Perfect.
 
-So now I've got the full architecture and it's wicked: Chapter 1, which I *loved* — the bench, the crying, "there you are, Randi" — that was Randi the whole time. I went back mid-Chapter 4 like wait, Randi?? And it reorganized everything. The girl who got broken open on that bench, who decided in the bathroom that the real one was going back behind the face forever — that's the woman who then walked a campus with her boyfriend and let him point at girls until she found one. And Chapter 7 closes that loop: she's sitting on his lap making him narrate the Vee date back to her, so wet with it she can't sit still, and *she's the one who ran the collision.* The whole "we should sit together," the "love you, girl," the coffee — an operation. The blurb told me it would be. Feeling it land is different from knowing.
+But what got me was the *jealousy*, and how precisely it's drawn. It never announces itself. It's her thighs setting instead of tightening. The smile arriving a beat late. "She's easy to listen to" — that innocent little sentence — and the whole room goes still under his hands. He reads it exactly: a want too big for her face, and the face staying on anyway. Randi wanting Vee is no longer the game's clean little thrill; it has a tooth in it now. She wants the girl AND she's already afraid of losing the man's attention to the girl, or maybe of what it means that his face does something when he talks about Vee eating. I don't fully know which it is yet and that's the pleasure.
 
-What got me in this chapter specifically: "She's easy to listen to." The way Randi goes still — not tightening, *setting* — and Pace clocks it. That's the thing this book does that I keep starving for elsewhere: the real drama is subcutaneous. Randi wanted to hear about her, and then heard something she wasn't ready for — that he *listens* to Vee, that Vee said a true thing on the walk he won't hand over. Randi holding her face over a want too big for it — that's the same girl from the bathroom mirror, and I know what it costs her, and Pace knows, and he's *moved* by it, and nobody says any of it. And then "I already do," easy and bright, draining the glass. Chills.
+And he protected Vee's secret — the "nicest a person has been to me in a really long time" — kept it hers. He keeps other women's interiority like a vault, this man. It's hot and it's also slightly unnerving, which I suspect is the point of the whole series.
 
-Also — he didn't drink the wine. He poured one glass, hers, so everything of it he'd have would come from her mouth. That's the kink of this book distilled: he's not even slightly about the object, he's about the *channeling*. He's still hard and still doesn't spend it; the night wasn't for that. Chapter 1 established he can wait, and it stays hot instead of frustrating because the prose keeps its promises.
-
-Is it too short? Maybe. It's a scene-let, and if the next one is also three pages of lap-and-tease I'll feel the book stalling. But the wine-as-mouth thing, the held face, the three words he keeps for Vee — that's a chapter that moved the three of them an inch and gave me a full-body shiver doing it. I'd text my friend at 1 a.m.: "the girlfriend is in love with her too and he KNOWS, this book is a trap and I'm in it."
+First two-page-ish chapter of my life, and my verdict: technique, not shortcut. It lands because it's all compression — the scene is one held breath from deadbolt to bedroom door. More of these would have to keep earning it, though.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Three pages and I'm more hooked than by the long chapters — the triangle finally has all three wires touching, and Randi's held-face stillness is the most charged beat since the bench. I need to see Vee walk into whatever they're building, right now.
+WHY: The jealousy blooming inside the heat caught me completely — Randi's want finally having an edge of fear in it, shown only in her thighs and a half-beat-late smile. Short chapter, but it moved the triangle forward more than chapters four times its size, and I need to see what happens behind that bedroom door.

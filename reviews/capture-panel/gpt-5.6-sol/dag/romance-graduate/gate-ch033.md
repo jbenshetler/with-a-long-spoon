@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 13e407d9f33a · 2026-10-01*
+*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · dated · 2026-10-24*
 
-REACTION — Oh, this got me. Not just the spanking—the play before it, Vee discovering she can be quick and wicked and ridiculous with him, flashing him because she wants him to chase her. That freedom was hotter than any rehearsed dominance routine could have been. And when she said “Don’t,” his hand was simply gone. Then she had to feel the wanting that remained and call him back herself. *Yes. We find out.* There she is. That is exactly the combination I’ve been starving for: explicit, psychologically alive, and built around a choice that actually belongs to her.
+REACTION
 
-The finger held between them nearly killed me. Not because she was wet—I have read that scene approximately eight hundred times—but because he looked at the evidence of her appetite as something true and fine. He doesn’t merely permit the part of her she thinks is shameful; he receives it with pleasure and without surprise. Then “Slow. For me.” God. He gives the undressing back to her as an offering she can make, and she loves being asked. That distinction matters enormously with these two.
+Oh, this got me. Not because she walked out naked—although yes, obviously, the heels and nothing else absolutely worked—but because the whole thing was Vee’s idea. Nobody coached her into it. Randi didn’t plant it through one of her suspiciously tailored stories. Pace didn’t arrange the room and tell her where to stand. Vee brought the dress without admitting the plan even to herself, put him in the chair, made him wait, and decided what he was allowed to see and when. After so much of her awakening has been interpreted or staged by other people, watching her author the scene was almost indecently satisfying.
 
-And I loved that the spanking was nothing like Randi’s story. Vee arrives expecting someone else’s theater—counting, humiliation, punishment—and Pace pays attention to *her*. Quiet, touch after every strike, kisses, enough space for her body to answer before he asks for more. It felt intimate rather than like the book pulling a kink scene off the standard KU shelf and slotting their names into it.
+And Pace staying in that chair! His hand starting toward her and then going away again may be hotter to me than half the explicit scenes I’ve read this year. She told him to wait, and he did. She wanted the effect of his attention without immediately being swallowed by action, and he understood it without making her explain. That is exactly the kind of control that feels safe enough for her to become daring inside it.
 
-That said, the “debt,” “payment,” and “offered up to her own wanting” language pressed a little too hard on the meaning for me. I was already there. The scene did not need to turn and explain its own gorgeous machinery. But then the juice absolutely wrecked me. Not some immaculate alpha aftercare speech: juice, because she needs something, followed by her head in his lap and “wonderful” becoming indistinguishable from his hand in her hair. “Treasured” is a dangerous word to use this directly, but the scrunchies earned it. A whole card of them, no note, enough for a future. That is romance to me.
+The first costume landed emotionally harder than I expected. He made that dress for her name to be read in a good room, missed the moment, and now she gives him the walk privately—not as a consolation prize, but because his seeing it matters most. “They complete it” made my chest squeeze. Of course his first words are about the heels completing his work. Of course he sees the whole line before he reaches for her.
 
-Her deciding to bring a bag felt enormous. That is not just planning for sex. That is Vee allowing herself to expect a next time, to occupy space in advance, to arrive with needs instead of repeatedly washing herself in whatever he has available. She is beginning to believe she can be kept.
+Then she comes back in only the heels, and I am cheering like a maniac because this is the same woman who could barely tolerate the evidence of her own wetness. She is still blushing everywhere, but she doesn’t cover herself. That difference matters enormously. Shame hasn’t vanished; she has chosen something stronger than it.
 
-And then the sentence that froze me: “no Randi to be told.” Oh, Vee. There is absolutely a Randi to be told. There has been a Randi being told this entire time. Vee experiences that bed as a country without witnesses while Pace’s hidden lover has already supplied the fantasy vocabulary running through her head. The scene is genuinely hers; every yes is hers; the tenderness is real. And the concealed structure is now unbearable. If Vee tells Randi about this—and of course she will—I am going to be reading through my fingers, because Randi helped plant the idea and Pace knows she did.
+“The other is for the world. This is just for me” is possessive in exactly the register I want from him because she made it true first. She designated the audience. She handed him the private version. He didn’t claim it out of nowhere.
 
-Also: he flinched when she poked his thigh. The scar is in that thigh. I noticed. Vee didn’t ask, and I understand why she didn’t ask in that moment, but I am not letting it go.
+I’m still furious about the secret. In fact, this tenderness makes the secret worse: she trusts him enough to invent a private ritual for him, while he and Randi possess a whole hidden archive of her. But for these pages I was completely inside the warmth of that room. I would text a friend at 1 a.m.: SHE MADE HIM SIT DOWN AND WATCH. THE WOMAN HAS ARRIVED.
 
-The curry at the end made me almost indecently happy. Of course after opening a new appetite in her, he feeds her something abundant, unfamiliar, hot, and impossible to confuse with home. I want to stay at that table. I also want the truth to arrive before every act of care curdles retroactively.
-
-GATE 35 — We Find Out
+GATE 33 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “She was being offered up to her own wanting, and both of them knew it”
-WHY: The prose briefly explained a scene that was already doing its work, but the heat, consent, play, and devastatingly ordinary tenderness were exactly what I came for. Now the line about there being “no Randi to be told” has put a blade under all that safety, and I need the next chapter immediately.
+ALMOST-STOPPED: none
+WHY: Vee finally staged her own seduction, and Pace’s restraint made it hotter rather than safer or smaller. I’m thrilled by her new authorship and desperate to see what she does next—but the more completely she trusts him, the more urgently he owes her the truth.

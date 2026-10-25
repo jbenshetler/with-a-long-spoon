@@ -7,7 +7,7 @@ main concern is Thanksgiving through {{Gesso}} (ch43–71). Lines come from
 
 **Design.** Capture DAG, persona `romance-graduate`, 7 models, two arms per model:
 `dates-undated` (control) and `dates-dated` (`capture_dag.py --experiment dates-dated --dated`).
-Gates and carry-forward notes are in the sibling `dates-dated/` and `dates-undated/` trees.
+Gates and carry-forward notes: the undated control stays in the sibling `dates-undated/` tree. **The dated arm was promoted to the real lanes on 2026-10-25** (`reviews/capture-panel/<model>/dag/romance-graduate/`, headers retagged `· dated`), replacing the older undated reads there. The book ships with date lines, and the real lanes now read dated by default.
 Models: claude-opus-4-8, claude-opus-5, claude-opus-5-5, gemini-3.8-flash, gemini-4-argon,
 glm-5.3, gpt-5.6-sol. Fable was held back (cost). Ch76 (Vee on the Bench) was not read: it
 is due a substantial rewrite.

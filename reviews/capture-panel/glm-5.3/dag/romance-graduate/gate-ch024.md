@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch024 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
+*capture-dag-v2-rich · gate ch024 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
 
-**REACTION — Chapter 26: Gone**
+REACTION:
 
-Oh, this chapter *got* me. "Gone" isn't about Vee at all and it's still about Vee the whole way through — every word these two say in that kitchen is her, refracted, and I sat there with my hand over my mouth for half of it.
+I have been waiting for this chapter since the scar, and the book knew it and made me wait exactly long enough, and then it gave it to me in the dark under a quilt with cold tea, and I'm sitting here a little wrecked.
 
-Randi ate. She *ate*. Do you understand — the last chapter, the bowl with one line drawn through the sauce, not eaten, covered and put away "for her" — and now she asks "is there anything to eat in this house," takes his undershirt (his SHIRT, the same drawer Vee's flannel logic lives in, I clocked that immediately), sits with her chin on her knees and eats the chicken and every asparagus stalk and the couscous to a line he could draw with a ruler. He didn't say so. *He didn't say so.* That's the most restrained beat in the whole book and it nearly made me cry, because he knows exactly what he's watching — she got past her defenses and the first thing that came through was appetite. And what she's hungry for, underneath the chicken, is Vee.
+The hallway. "She moved my desk into the hall during math class, and I did long-division worksheets." "For how long?" "The year." I had to put the book down. That's the whole man in four lines — the kid who asked a question his teacher couldn't answer and got punished with the thing he loved — and Vee naming it for him ("they took the thing you loved and made it the punishment") while pressing her shoulder into his arm instead of saying sorry, because sorry would've made him comfort HER — that's the most grown-up tenderness I've read all year. This book keeps doing that: the kindness is in what people refuse to do.
 
-"I didn't think I'd like her this much. I keep waiting to get bored of her — you always get bored — and it doesn't come." That's the tragedy engine finally misfiring in front of me. She ran a game on this girl and the girl got past her before she could help it, and now Randi's sitting in a man's kitchen wearing his shirt and being *undefended*, saying "It's a little pathetic. I love it," and every single thing she loves about Vee — listens like you're the only thing in the room, then some tiny nothing about her Tuesday has you wiping your eyes — is a thing nobody has ever done for Randi. He heard it. I heard it. She's describing her own starvation.
+And then Daphne. God. Nineteen and fifteen. Two years. He lays it out in perfect order — "every reason accounted for and set in its slot, and the good order was the tell" — and the book lets Vee almost say the word, the clean ugly grown-up word, and hold it down under her tongue because "it was not hers to say." I gasped. I've read four hundred heroes with tragic backstories and not one of them has ever had a backstory where the heroine clocks it as maybe-abuse in real time and swallows it. He named it luck. "He had handed her the thing that had hurt him and named it luck." I'm going to be chewing on that for days. That's the file opening and it's worse and better than anything I'd guessed, and it reframes everything — the asking-before-taking, the courtliness, a man who learned sex at fifteen from a nineteen-year-old who left when he was still a boy.
 
-And the moment that stopped my heart: him at the sink, saying "she spends the entire time sure she's too much, and she's the most alive person standing there, and it never once occurs to her" — and the chair making no sound. Randi gone still, the *other* stillness, "the kind that takes holding." Because he could just as well have been describing Randi at twenty-one, or Randi now, the woman who belongs everywhere and is held nowhere. And she can't let it land, so she does the thing she knows how to do — she turns him by the hip and takes her own body out as a distraction, narrates Vee's body with her own ("what she keeps under there... criminal") because that's the only mouth she has for wanting both of them. That scene is *not* really about him. She said "tell me" to his love letter for Vee, and he never made her say it.
+The scar — she found more of it than we knew, and his hand comes over hers NOT to move it away, just to hold it there on the thing he won't tell yet. "Not tonight" with no wall in it, only a door with a time on it. That's the best deferral I've ever seen in a book. I'm not frustrated, I'm fed.
 
-Meanwhile he's doing his own quiet detonation: imagining all three of them at that table, "I wanted to tell Vee. I could not, not yet." Not yet. NOT YET. The plan is still a plan and the man is having feelings about the plan, which is the exact thing the blurb promised me ("how real it would get") and I am fully, helplessly braced for it. He keeps refusing to take up what she sets down about Vee's body — "that was hers to hold" — and that refusal is either delicacy or cowardice and I genuinely can't tell, and the not-being-able-to-tell is why I'm still reading this book at midnight.
+"Peter." Saying it once into the dark, not asking, not trying it on — "the way you say a word to keep it." I felt that in my sternum.
 
-The heat was real — her going low and hoarse, the slow drag of it, "showing him with her own body the thing she was describing" — but it's heat with a knife in it, because she's making love to him *about* her. I'm a sucker for exactly this: sex as the only honest language two liars share. And it's the second chapter in a row with no Vee on the page, which normally would have me checking my watch — except Vee's presence is so total here that I didn't clock it until the end. If the NEXT one is also Vee-free I'll start to get restless. But this one? This one earned every page.
+Heat's low and I don't care — the palm over her breast like it's her skin keeping him warm, the hand on the hip, the scar-palm-to-palm; this chapter is charged in the bones even with everyone covered. And the lift comparison — "It's the lift. It's the same face" — Vee putting that together in her body before her head, that's interiority doing what I'm starving for.
 
-Two towels, one shirt, one bowl finally eaten. The ledger is rebalancing itself, and nothing has been said out loud yet, and I am going to be up too late thinking about Randi's blue toes being the last composed thing left of her.
+The one thing I'll say with my guard up: that ending again. "She had never been so fortunate, or so happy." The book has now stood her on that cliff edge twice, nearly word for word, and I know what a repeated sentence is for. The induction is coming and Randi is accelerating and this happiness has a plan under it. I'm dreading it on purpose. That's the deal I signed.
 
-**GATE 26 — Gone**
+Also, quietly — chapter 23 showed me Pace feeding Randi's questions and watching Vee in his head while Randi rode him, and chapter 24 shows Vee thinking she stumbled into both of them "for no reason she had done anything to deserve." The dramatic irony is tightening like a wire and I can hear it.
+
+GATE 24 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
+NEXT: 8
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi finally cracking open — eating, staying down, admitting she's past her own game — is the exact emotional payoff I'm reading this series for, and the Pace-Randi scenes carry real charge precisely because of everything they're not saying. One more chapter without Vee on the page though, and my patience for the couple-not-couple runs out.
+WHY: The Daphne reveal, the hallway, "Peter," and the scar held-but-not-told — this is the emotional payload I've been reading toward, delivered with total exactness. Two talking-chapters in a row and I'd still read the next one tonight, but the heat meter's cooling and the book owes me a charged scene soon — the induction, or Randi's next kiss.

@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-10*
+*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, he *told her*. The same day. He's still warm from the shower, still the man who stood in the rain with his back to the truck so she wouldn't feel looked at, and within the hour he's handing Vee's body to Randi line by line while Randi rides him. Gardenia and musk. Chlorine under the shampoo. And then "Her stomach is soft." I actually put the Kindle face-down for a second. That's the spot. Vee put his shaking hand there, under his flannel, against the warmth on her own belly, and it was the tenderest thing in the book. Now it's an item in a report. The book is careful to say he "kept" the truck: he didn't say *how* he knew. That's exactly the kind of split-the-difference integrity I've been suspicious of in him. He thinks keeping the story means he kept faith. He gave away the fact and kept the context, and somehow that's worse.
+Oh, *there* it is. I asked for a charge from Pace's head or Randi's body and the book gave me both in the same scene, and then made the sex the worst thing that's happened to anyone yet.
 
-And it's *hot*, which is the problem, and also the whole point, and I hate that it works on me. Randi lowering herself an inch at a time and making him watch her face, not what's in her hand. The "Tell me" twice. The thin laugh that isn't her laugh. This is the heat I've been counting toward for three chapters. It's explicit, it doesn't fade or flinch, every garment is an interruption, she's wet enough that he can hear it. And it's all aimed through Vee. Nobody in that bed is really just with the person they're touching.
+First, the heat. It's fully on the page with no euphemism. Every piece of clothing coming off reads as an interruption, and his hands keep going back to her between each one. Then she lowers onto him an inch at a time with her eyes on his because "she meant him to watch." That's a woman in control, and it's hot. Then "Tell me," and he starts describing Vee into Randi's ear while he's inside her: gardenia and musk, "on her throat, and lower," chlorine under the shampoo. I made a noise. It's filthy in exactly the way I came to this book for, a third person brought into the bed as a smell.
 
-Randi is breaking, and he can't see it. I said in my notes his blind spot is exactly where she hides, and here it is again. She clenches and *holds*, eyes shut, nails in, belly tight as a board, and then she drives at him hard like she's punishing something. He reads it as want. I read it as pain, or jealousy, or her hearing that Vee got something real today. Then "I want us," torn out of her. Us *two*, keep it just us? Or us as a three, which is the game? I genuinely can't tell, and I love that I can't. She never let him answer "How was it?" She didn't want the trail. She wanted the body parts, the parts she can hold, and not the story where he fell for someone.
+Then "Her stomach is soft," and my whole chest dropped. He knows that from the truck, from her holding his shaking hand against her belly under the flannel. He gives Randi the fact and keeps where it came from. That's the second piece of Vee he's held back from her, and this time it's the important one. He thinks he's protecting something tender. What he's actually doing is handing Randi a detail she can't account for, at the exact moment she's clenched and shaking on top of him.
 
-Then she leaves. First time ever. No food, of course (she never eats). And the chair by the door with nothing on it, which I think is where the cashmere blanket or her overnight things used to go? She came without planning to stay. He's standing in his open door with the cold coming in, hurt in a plain, low way, and I felt that for him even while I'm angry at him. Then he eats, and makes more. Him hungry and her starving is the whole marriage of these two.
+And Randi. "She clenched around him. Hard, all at once, her eyes shut… long enough that he said her name." Then she drives at him harder and her belly goes "tight as a board." Pace reads that as want, and I'm reading it as a woman holding back a sob with her abs while she rides it out. The book lets him get it wrong without flagging it for me. All I get is "If it was something else he could not have said what," which is restraint, and I'm not adding it to my subtext-explaining count. Her laugh coming out "thin, not her laugh" is the bathroom-mirror girl again. The face is cracking and he can't see it from underneath.
 
-One small itch: "He took it for the want… If it was something else he could not have said what." That's the book winking at me again. It's tolerable because it's his limitation, not the author explaining. But it's close.
+"I want us." I don't know what that means, and I love that. Us as in the two of them, against Vee? Us as in the three? Or her begging him not to fall for the soft-stomach girl? Pace hears it as a declaration and it goes "through him like the first swallow of something," and I want to shake him.
 
-What I'd text at 1 a.m.: "he told her VEE'S STOMACH IS SOFT while she was on top of him and then she left without sleeping over for the first time ever and I need someone to scream with."
+Then she leaves. "No thanks," "I'm good," and the bright voice. She'd decided in chapter 1 that he'd never see her like that again, and this is that decision costing something, because she can't lie there after. He offers to feed her and she refuses. He feeds every hungry woman in this book, and this one won't eat. He stands in the open door with the cold coming in, "that she had not wanted to stay," and then eats twice over. God. He's been lonely the whole time and only just noticed.
 
-GATE 14 — Swim Lanes
+Little things I caught: the empty chair by the door, where her cashmere blanket usually goes. She came in not planning to stay. And "how was it?" asked into his mouth so he couldn't answer. She didn't want to hear about the hike, only the inventory of Vee.
+
+One tiny snag: "the freckles across her chest." Isn't Vee the freckled one? Either that's a slip or it's Pace's eyes laying Vee over Randi. I'm choosing to believe the second, and it gave me a chill.
+
+Text to a friend at 1 a.m.: "he's describing the redhead's smell to his gf DURING and she's basically crying through an orgasm and he thinks it's a breakthrough AGAIN. also he kept the stomach thing. I'm not okay."
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He took it for the want — too big for her, come down on him with nowhere else to go. If it was something else he could not have said what."
-WHY: Finally a full-heat scene, and it's poisoned in exactly the right way. The truck's tenderness gets turned into currency, and Randi walks out for the first time. The bond between those two just cracked, and I need to see whether Randi shows up at the next lunch with Vee smiling or bleeding.
+ALMOST-STOPPED: none
+WHY: This is the chapter I was afraid the book wouldn't deliver after three quiet Vee chapters. It's explicit, it's psychologically vicious, and the sex is what drives the plot. Randi leaving after is the first real crack I've seen Pace feel, and I need to know what "I want us" costs all three of them.

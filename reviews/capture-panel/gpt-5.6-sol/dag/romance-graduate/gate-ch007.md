@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e27492614e32 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this is *nasty* in exactly the way I wanted. Randi practically climbing him at the door because he has been out with Vee, then demanding every detail while putting his hands on her—it’s jealousy and arousal and hunger all tangled together, and she cannot admit which woman she wants or what she wants from either of them. “Did she eat all of it?” nearly took me out. Of course that is the detail she needs. Vee’s appetite is already erotic to her, whether she can bear to know it or not.
+Oh, this is dangerous in exactly the way I wanted.
 
-And Pace saying Vee is “easy to listen to” was so much more dangerous than telling Randi she was beautiful. Randi can eroticize him wanting Vee; she came prepared to do exactly that. But him genuinely *liking* Vee, protecting something Vee told him instead of feeding it into their game—that landed where Randi has no costume ready. Her body goes from tightening to setting, and suddenly this isn’t a sexy report anymore. There are three real people in the room now even though Vee isn’t physically there.
+Randi arriving already wound tight, climbing onto him, making him tell her about Vee while she uses his body to pull the story out of him—I felt that everywhere. She is turned on by Vee’s appetite, but “she’s easy to listen to” hits somewhere much less manageable. That tiny freeze was the whole chapter for me. She can package wanting Vee as their game; she cannot package the possibility that Pace genuinely likes her. And he sees the reaction without flattening it into jealousy or explaining it to Randi, which makes me trust the book to let this get complicated.
 
-I’m also watching Pace very closely. His discretion with Vee’s vulnerable confession mattered to me, but “you’ll like her” is chilling when Randi already does and he still thinks he understands the whole shape of this. He’s tender, attentive, and absolutely participating in a secret design around a woman who thinks she met them by chance. That contradiction is the hook for me. I don’t trust the situation at all, but unfortunately I want everyone involved.
+The thing that really got me, though, was Pace withholding Vee’s confession because “It was hers.” Thank God. That single choice kept him from becoming a smug puppet master trading women’s vulnerabilities for foreplay. He is orchestrating something ethically precarious, absolutely, but he understands that access is not ownership. That distinction matters enormously to me.
 
-This chapter was tiny, but it didn’t feel like a shortcut. It felt like a match struck in a dark room. I would text a friend: *Randi is turned on by Vee eating frozen yogurt and jealous that Pace likes listening to her. We are in trouble.*
+And the wine. Jesus. He pours one glass for her and intends to taste every drop through her mouth. That is the kind of erotic detail I cannot predict three sentences ahead. Nothing explicit happens, technically, and this was hotter than whole interchangeable sex scenes I’ve read.
+
+Also: this is my first two-page chapter, apparently, and it did not feel like a shortcut. It felt like a struck match. I’m already reaching for the next chapter because that held-out hand is not an ending; it is a door.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This gave me heat, jealousy, restraint, and actual emotional danger in a handful of pages. I need to see what happens when Randi can no longer disguise wanting Vee as something she is generously arranging for Pace.
+WHY: The chapter gave me erotic charge, emotional danger, and proof that Pace recognizes a confidence is not his to spend. Randi’s desire has now collided with jealousy—or fear, or hunger she cannot disguise—and I need to see what she does with it.

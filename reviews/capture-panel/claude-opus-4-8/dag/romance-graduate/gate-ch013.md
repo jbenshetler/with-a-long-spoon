@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch013 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 REACTION
 
-Oh, there it is. There's the chapter I've been starving for since chapter ten. The camera finally back on Randi, in the house off six-fourteen, and it's exactly as awful and exactly as good as I wanted it to be.
+Oh, now we're cooking. This is the chapter I didn't know I was waiting for — the whole operation turned inside out and laid on a bed with the lamp on.
 
-Let me get the heat part out of the way first because it's real: her riding him, taking him an inch at a time with her eyes on his, *making* him watch, earning the groan he didn't decide on and smiling because she knew she earned it — that's the most alive the sex in this book has been. It's hot because she's running it, and the running is the character. I was in it.
+So Chapter 11 she takes her shirt off for him in the truck, the big brave underwater self coming up for air, and he's so cold he can't even — he just looks, and it's the most generous thing. And then THIS. He drives home, showers the cold out, and Randi comes over and climbs on top of him and won't let him answer "how was it" with his own mouth — she takes the answer off his tongue. And then: *Tell me.* And what she wants isn't the trail, it's Vee. She wants the gardenia and the musk and the chlorine under the shampoo. She fucks him while he reads Vee's body aloud like a menu, and I felt the floor drop. *Everyone here drinking the thing they want through someone else's mouth.* I wrote that in my own notes two chapters ago and here it is, naked, no longer a motif — it's the actual mechanics of her orgasm. She comes on the words. "Her stomach is soft" and she clenches like a board.
 
-But God, what she does with it. "Tell me." She rides him and she wants him to *narrate Vee to her.* And he does — the gardenia, the musk gone warm since morning, the chlorine under the shampoo like a pool — and I felt the grip of her tighten right when I did, because she's getting off on the girl she picked off the quad, through the mouth of the man she shares a bed with she won't sleep in. That's the whole book in one bed. "Her stomach is soft," and he *doesn't tell her how he knows*, he keeps the truck for himself — and I clocked that, that he's started keeping things from Randi now too, that there's a Vee he's hoarding. The game's got a leak in it going both directions.
+And he KEEPS the truck. He doesn't tell her how he knows the stomach is soft. He curates again — withholds the real tender thing, the shirt, the shaking hands, the knock on the glass. He gives Randi the surface and keeps the inch that mattered. That's the asset-management I flagged, and it's getting sharper, not softer.
 
-And then "I want us." Torn out of her, at his ear, and it went through *me* like it went through him. Because that's the crack. That's the want too big for the face finally saying a word out loud — not "I want her," not "I want you," but *us*, the thing she started as a game and can't hold as a game anymore. She said it and then she came and then — she left. She *left.* She's never left. She always stays and sleeps and goes out to her car in the morning, and tonight she pulled the blanket around herself and shivered and got dressed and turned the deadbolt and drove off into the gravel, and he stood in his own doorway with the cold coming in not understanding it.
+But here's what actually has me sitting up at 1 a.m.: *"I want us,"* torn out of her, and then — she doesn't stay. She NEVER leaves after. She stays, she sleeps, she drives home in the morning clothes. Tonight she pulls the blanket around herself the second the chill hits, says "no thanks," gets dressed, kisses him thoroughly, and goes. And he's left standing in the open door with the cold coming in and this low plain thing in his chest he "had not been ready for." The man who reads every body in every room can't read her. He files it as "the want, too big to lie still under." He's wrong and I know he's wrong and that's the whole book.
 
-I understand it. She can't lie still under him after saying "I want us" because then he'd have her face again, the real one, the one she bricked up at the mirror in chapter one. She ran. The froyo report, the wine, the want she couldn't keep off her face — this is that bill coming due, and she paid it by fleeing her own bed. The architect is losing. That's what I came back for.
+Because I know what "I want us" is. It's the bench from Chapter 1. It's the thing she begged for and then bolted behind the face "not ever." She let it out — *I want us* — and the instant it was out she couldn't stay in the room with him. The leaving IS the sealing. He thinks he gave her more than she could lie still under; what actually happened is she got too close to the thing she can't survive wanting, and she ran, and ate nothing, and he ate alone twice. The architect is losing. The jacket said it gets real for all three and I'm watching it get real for *her* first, against her will, and she's terrified.
 
-And he's lonely in the last paragraph, eating twice at the table alone, and I almost felt bad for him until I remembered he's carrying Vee's wet shirt as a trophy to feed to another woman's appetite. These two deserve each other and that's the tragedy, because the one who doesn't deserve any of it isn't in this chapter at all. Vee's upstairs in his flannel thinking she got picked.
+What I'd text a friend: HE DOESN'T KNOW SHE LEFT BECAUSE SHE'S IN LOVE. He thinks it's appetite. And she'd rather die than let him see it was the opposite.
 
-What I'd text a friend at 1 a.m.: SHE LEFT. she said "I want us" and then she RAN and he doesn't get it and I get it completely and I might die.
+Also — crucial — the chlorine. He smelled a pool in Vee's hair. Cassie swims. Vee swims, used to, underwater is her one safe place. He hands Randi "chlorine, like a pool" as an erotic detail and it goes straight through her and tightens her grip. Nobody in that bed knows what the pool means to Vee. It's the most private thing she has and it got served as garnish. That's the scalpel starting to turn, even if no one's holding it on purpose yet.
 
-GATE 14 — Swim Lanes
+Three short-ish chapters in a row now, all same-day, Sept 27 — but this isn't a stall, it's a triptych. Vee's version (truck), Vee telling Cassie (Rye), Randi's version (this). Same evening, three mouths. The structure is doing the substitution thing too. I'm not skimming. I'm hungry.
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This is the chapter the jacket promised — "as true for the two who started it" — landing in real time, and it's both the hottest and the saddest the book's been, because the sex is a woman running a game that's eating her alive. "I want us," and then she left the bed she's never once left; I need the fallout now.
+WHY: The "tell me" scene made the book's whole thesis carnal and then gutted it — Randi coming on Vee's secondhand chlorine and then fleeing the bed the one time she says "I want us" is the architect getting caught in her own net, exactly the thing I've been reading toward. Heat and depth finally fused in one body, and he's reading it wrong in real time, which is unbearable in the right way. I want the next one now.

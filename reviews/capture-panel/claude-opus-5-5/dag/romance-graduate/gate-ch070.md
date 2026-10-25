@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch070 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch070 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I came in braced for a bridge chapter and that's what I got. After 71 I needed one, so I don't resent it. My thumb didn't stall until about a third of the way in.
+Two pages. I actually flipped back to check I hadn't skipped something. Then I sat there holding the phone and thought: oh, she's doing this on purpose.
 
-The Sunday paragraph is clever. "Full of him and not, somehow, filled." Three times and every time she started it, taking the book out of his hands. That isn't greed, it's someone trying to put a fire out with a fire. Then Monday in the bunk with her hand flat on her stomach, "a lid held down on a pot," was the part that really got me. She isn't touching herself because she knows whose name comes with it. Her logic is that as long as she doesn't do the thing, it stays "only wanting," and that's so exactly how a scared person bargains that I winced. And *Pace made a point of telling her so* is a line I flagged hard. He's given her permission to touch herself, and he probably knows exactly whose face she'll see. Does the man ever leave a door open by accident? No, he does not.
+Because Cassie asked the question. My notes have literally been begging for someone in a room to say a true thing out loud, and the someone turns out to be the roommate in her coat, with no wine, no booth and no jukebox. Cassie doesn't ask what happened, and she doesn't ask what Randi is to her. She asks "Is this what you want?" That's the exact question every chapter since the dance has been circling with its eyes closed. What got me is that Vee actually *goes and looks* for the answer, comes up against "the edge of it," and steps back before she can see how big it is. That's the most honest Vee has been since the porch, and she still doesn't get there. Her neck said yes. Of course her neck said yes. Randi put her mouth exactly where Vee had put hers and asked "How do you like it?" I'm still mad about that line, in a good way.
 
-The class was the best part, and it's built on almost nothing. A knee on an armrest. The Lifesavers she forgot for the first time ever. Then Randi's fingertip dragging the inside of her wrist, and "it went on not being static." That's the wrist. That's Pace's move, the one he does on Randi. Now Randi is doing it to Vee, and I can't tell whether she learned it from him or he learned it from her. Either way it made me feel slightly sick, in a good way.
+Then she reaches for the sorority fight, the one they'd agreed never to run again, and Cassie just steps over it. Doesn't take the bait, doesn't defend herself. And then: "Do you want some of my Cocoa Pebbles?" I laughed out loud and then felt a little teary, which is embarrassing over cereal. Cassie is the only person in this whole book who wants nothing from Vee. Pace is collecting her confessions inch by inch, Randi is collecting her full stop, and Brooke is collecting everybody. Cassie notices she skipped dinner. "A want the size of a bowl." That's the line I'd text someone at 1 a.m.
 
-Then "Having you at the dance was so great. I've wanted to do that for the longest time." *Having.* Pace dragged that word out of Vee one inch at a time on Saturday night, and now Randi just says it in a coat, out loud, and Vee hears it with his whole bed behind it. Then "I've got to go discipline a bad girl." HELLO? Standards committee, sure, babe. Randi says that kind of thing on purpose, I'd bet my Kindle again. And the neck, the exact spot Vee's mouth went to twice. "See? How do you like it?" Randi is playing a long game and has started taking her turns.
+Small gripes. "That was the whole trouble of it" is the second "whole trouble" in two chapters. And the chapter half-explains its own ending ("that was the size of what she could answer tonight"), when the cereal box had already said it. Trust me, I got it. The opening paragraph also mostly re-runs the last page of 69. If I hadn't just read 69 I'd have enjoyed the recap. Since I had, it felt like the book clearing its throat.
 
-What actually moved me was Vee turning her mouth away on purpose. She didn't fumble it, she turned it. In this book that refusal is the most honest thing she's done, because she won't take the kiss when she knows what it would mean to her. Then she blurts "Brunch" from somewhere below her own brain, and I laughed out loud. She lasted about four seconds.
+On the two-page chapter thing: I don't have a verdict yet. As a beat after the 67–68 bomb and the long wired interior of 69, it plays like a held breath, and it lands. But this is the second quiet chapter in a row. It's a tiny one, so I'm not docking much, but I'm counting. Saturday brunch is set up, Randi is off "disciplining a bad girl" at standards committee on Thursday (Brooke's hand all over that), and Pace has watched Vee tell him her first lie. The next chapter needs to put two bodies in a room. And I'm now quietly certain Cassie saw the neck.
 
-I do have one complaint. The paragraph about "a door cracked open, and behind the door stood something larger than heat" was the book leaning over to make sure I got it. I got it in chapter 71, with his hands on her hips. That's the explaining-the-subtext thing I can't stand, and it happens a couple of times here, along with a bit too much "apprehension holding its hand." This chapter is mostly interior weather, and it goes on a beat too long.
-
-But Cassie, at the end, with her coat still on: "What was that with you and Randi?" WHAT DID CASSIE SEE?? She came home recently. Was she outside? Did she see the neck? And Vee can't answer her oldest friend. That ending pulled me forward the way a series hook should.
-
-Also, logistics: Saturday was always Pace's, and Vee just said so in his bed. Now Saturday is brunch. And the dance hall with Sheri? I'm still lost on dates, and I suspect Vee is going to double-book her own heart.
-
-GATE 72 — Coming Due
+GATE 70 — Some of Mine
 DECISION: CONTINUE
 CAPTURE: 6
 NEXT: 8
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Saturday's joke had cracked open a door, and behind the door stood something larger than heat and more durable, that half of her strained toward, wanting to see it, while the other half would not look."
-WHY: It's a quiet chapter that's a little overwritten in its middle stretch, but the wrist, the word "having," the deliberate turned-away mouth and the neck kiss carry it. Cassie's question lands right on the cut, so I'm turning the page. If 73 is quiet too, I'll start counting.
+ROMANCE: 1
+ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." It's the opening rehash, a second chapter starting in the same doorway, and for a second I thought it was going to be another whole interior chapter.
+WHY: It's tiny and it doesn't move the plot, but it finally lets someone ask Vee the real question to her face, and the cereal answer is one of the truest things the book has done. I want the next one now because I've had two quiet chapters and everything I'm waiting for (Saturday brunch, Thursday's standards committee, Pace and the lie) is right there.

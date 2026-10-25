@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch068 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch068 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · dated · 2026-10-24*
 
 **REACTION**
 
-FINALLY. Seventy chapters. I'm texting this at 1 a.m. in all caps: THEY KISSED.
+Okay. OKAY. I'm texting this one at 1 a.m. with all caps.
 
-And it wasn't the brunch kiss or the parking-lot kiss with the "small second press" that we all agreed was just a habit. It was a real kiss on a dance floor. There's the held inch first, where Vee's eyes finally get to go over Randi's face "as they had wanted to all autumn." Then the tongue arrives as "not a demand, a *please*." Vee's hips press forward once, asking. Her hand goes into Randi's hair and she doesn't take it back. I was holding my breath through the held inch. Fully clothed, on a crowded floor with a boy named Harrison as the excuse, it was hotter than the painting chapter. The painting was gorgeous, but I'd waited for this one. Months of "tickles" and "ticklish," and here's the payoff.
+This is what I asked for in my notes: two bodies in a new room, and somebody saying a true thing out loud. The book gave me both, but the true thing gets pulled out of her an inch at a time while he holds her hips off him. I've read a hundred orgasm-denial scenes and they're always a power trick with nothing riding on it. This one has her conscience riding on it. Every inch is a confession. "Tell me the real story, and I'll give you what you want." She hears "date" again the way he hears it, and "she just gets to *have* me" lands harder the second time. Her own words come back hotter in his mouth than they were in hers, and that's the scene's whole engine. When she said "danced bigger," he just stopped, and I said "oh you're GOOD" out loud. The stalls are how he catches her tidying.
 
-Then Randi says "I almost believed it." Oh, you COWARD. I said in my notes that I wanted her to stop being a coward, and she did it in reverse. The brave part came first: she chose Vee in front of Brooke. "I chose." "I can see." I made a noise out loud at that. Vee hears "my date" and goes giddy, and I'm sitting here knowing that line ended Randi's standing in that house in front of its president. Then the private part, the actually scary part, gets folded up neat and handed back as a bit. "Oh, that was *perfect*." The swat on the arm. Two chapters ago she was on top of Pace saying "I want her to know exactly what she does to me." Now Vee knows, and Randi tells her it was pretend. It's a lie told straight to the one person she'd least want to lie to, and it's a lie about the exact thing she wanted Vee to know. I believe both halves of her completely, and it hurts.
+But I read Chapter 61. I know exactly what's happening here. He isn't jealous. He's gathering material. This is the same man who had Randi on top of him saying "I want her to know exactly what she does to me." Now he's lying under Vee and pulling every detail out of her: the salt and lime, the hard little points, "I wanted her mouth lower." I'd bet my Kindle all of it ends up in Randi's ear by Thursday. So the hottest scene in the book is also the creepiest, and I can't separate the two, and I don't want to. "You finish when you've finished" made me squirm in both directions at once.
 
-I'm suspicious, as usual, about how everything got set up. Randi gave her the skirt — "Not that short," twice. She dressed Vee again, the way she did with the coat and the heels. She was the one who moved Vee's hips "wider, looser" until the skirt rode up, then lifted Vee's hands so she couldn't hold it down. Then she whispered the panties line with her lips on Vee's ear. Harrison is a prop. I can't tell if Randi planned all of it or just knows exactly where Vee's weak spots are. Either way, Vee being found out twice in one moment, once to the room and once to herself, was the best paragraph in the chapter. The shame flipping into heat is what I read this book for.
+Then the aftermath. "No. Nothing." Her first lie to him, and the narration gives it a cold little paragraph of its own. I believed it, because she really does live by "the keeping is the cheating." And then she remembers the kiss in the roadhouse lot with him three steps away. I don't have that kiss clearly in my notes. Either I lost it or it's being added after the fact, and I'm flagging it. Her "I'm not gay," then flipping it onto him with "you want Randi," and his flicker: "You keep saying her name. Not me." She reads that as the sweetest thing he's ever done. Babe. He didn't defend himself because it mattered to him. He defended himself because you got close. That flicker was a man nearly caught.
 
-Brooke was terrifying and I loved it. "Randi's *new* friend." The almost-blue teeth. Vee decides she's kind. Oh, baby. And Vee standing there unable to find the forty-dollar Chambord in a pink plastic cup is a perfect picture of where she stands in this world.
+AND THEN HE TUCKS HER IN WITH THE CREAM CASHMERE. Randi's blanket. She just confessed to wanting Randi, and now she's lying under her. I laughed and my stomach dropped at the same time.
 
-A few small gripes. The opening drags: the coffee shop, three dresses, the mirror that only shows her in pieces. Cassie's eyebrow saved it. Randi's lipstick gets described twice, once in the foyer and once right after Brooke, and the second time stalled the scene just as it heated up. Then "I'm telling you now" floats in and I didn't know whose line it was. And the bracelet being literally called Love, with "taking it off requires tools"... I liked the chill it gave me, but the book is underlining in red for me, and "she'll spend a fortune to have you think she didn't spend a dime" is about Randi as much as Brooke. I got it. You didn't need to hand it to me. Still, who put the bracelet on her? That's my question now.
+Opening on her stopping her own hand on the bare skin, thinking Randi would be the one to find it there, then putting the skirt back on and leaving the thong stuck to her: good. That's not a mirror scene, it's her running. The anger-sex is clean and short, and "she was trying to get free of something" is the right note. The soreness at the end and the "raw inside" are real consequences, which this genre almost never gives you.
 
-Vee's last lines broke me: "there was no version of the night in which she could ask." And Pace gets her tomorrow, Sunday, which I'd bet he planned too.
+Gripes, small ones. The narrator explains her misreadings a beat too often ("Now she could see she had taken that tenderness entirely wrong"), and I'd trust me more. The inch-for-truth beat runs maybe two rounds longer than it needs to. "Sex brain" made me wince, though I think that's on purpose.
 
----
+Mostly I'm sitting here with "What is wrong with me?" and wanting to hug her. Nothing's wrong with you, honey. You're being farmed. And Tuesday is circled.
 
-GATE 70 — On Her Floor
+GATE 68 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Out of the shower, her face done, the skirt on — and no way in the room to see the whole of herself at once." Another wardrobe setup in a book that's done a lot of them. The second lipstick close-up right after Brooke also made me skim.
-WHY: This is the kiss I've been waiting since the fall for, and it was everything: slow, specific, and Vee's own want in it, not the bit. Then Randi took it back with "I almost believed it," and I need to see what Sunday with Pace does to Vee, and what Brooke does with "I chose."
+ALMOST-STOPPED: "He'd defended himself. In every argument they'd ever had he left her the whole of the room" (the narration handing me Vee's misreading as a little essay; an eye-roll, not a near-exit)
+WHY: The confession works as the sex, and the sex works as an interrogation, so the heat and the psychology run on one engine for once. Her first lie to him, his flicker, and Randi's blanket around her shoulders mean the triangle finally has weight on all three corners. I want Tuesday's seat next to Randi now.

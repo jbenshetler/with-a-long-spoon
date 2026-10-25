@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this made me feel sick and turned on and furious in exactly the same breath.
 
-Oh, Randi is jealous. Not theoretically, not elegantly, not in some managed little box she can call friendship: jealous enough that one sentence about Sheri enjoying Vee made her hand stop. And Vee instantly said no so fast it practically arrived before the question. Girl. You liked being looked at. We watched you like it. The fact that she can admit it about Sheri in her own head and then deny it the second Randi goes still tells me she is already protecting this relationship without knowing what relationship she is protecting.
+The wrong hand/right hand passage got me. Vee becoming aroused because her body recognizes the grammar of being held still, then keeping that wanting “back behind her teeth where it belonged to him”—yes, that is the psychologically exact filth I came for. It isn’t pretending a waxing is secretly sexy. It’s showing how wanting follows its own pathways through an experience that is painful, embarrassing, impersonal, and nothing like the fantasy. Then she touches that startling new smoothness herself and immediately imagines Pace discovering it. That landed. I absolutely want the moment when he does.
 
-And of course Vee reads Randi’s jealousy as vigilance on her behalf. Of course she experiences it as being looked after. That misunderstanding is getting painful now, because Vee is not oblivious—she notices the stopped thumb, the flattened voice, every physical alteration—but she keeps feeding the evidence into the wrong explanation. Meanwhile Randi says “I know she isn’t, gorgeous,” which is true in the narrowest possible sense: Sheri is no threat to Pace. She is absolutely a threat to Randi’s fantasy that Vee’s desire for women can be awakened only inside the route Randi controls.
+But “she’d already said yes to the whole of it” made every alarm in me go off. No, she had not. She said yes to a word she didn’t understand because Pace asked without explaining, and then Randi—who understood perfectly—sold her pain-free luxury and omitted the part that would have let her make an informed choice. Vee explicitly knows she can stop, then decides she is already “past every line” and therefore has none left. That is not daring. That is a frightening collapse of consent inside her own head, and it is happening because two people she trusts keep handing her incomplete information and letting her call obedience desire.
 
-The kiss has changed. I don’t care how many times Vee calls it what they do. She turned toward it before Randi moved, closed her eyes, waited for the hand on her jaw, and Randi stayed for the second kiss. Then Vee kissed her neck again and this time Randi did not hide behind “ticklish.” That is not a friendship habit accidentally running long. That is courtship becoming bodily routine while only one of them knows its name. It is tender and hot and making me furious on Vee’s behalf all at once—which, unfortunately for my bedtime, means it is working perfectly on me.
+And Pace asking for this “by the weekend” without telling her why? I am incandescent. He is so meticulous about consent once her body is physically in his hands, but apparently he still thinks a cleanly phrased question makes the answer free even when he withholds the meaning and scope. He knows she fills every blank he leaves with yes. At this point that isn’t innocence.
 
-And then the waxing request. My stomach dropped. Not because Pace asked for it; Vee can decide whether she wants it, and I’m interested in what the experience does to her. It dropped because she carried the request straight to Randi, and Randi already had the woman, the address, the script, and the timetable ready. Pace asks. Randi prepares Vee. Again. Maybe Sondra is simply her trusted waxer, but after the coat and the shoes I cannot experience this as neutral logistical girl talk. These two keep passing Vee between them while she experiences each handoff as separate intimacy.
+Randi’s “barely stings” is worse because she knows Vee treats her like a passport holder in a country Vee is only learning. She knew exactly what the service involved. Maybe the omission was casual, maybe she thought warning Vee would make it worse, maybe she wanted Vee to arrive unguarded—but every possible explanation is still Randi deciding what Vee should know for her. Again.
 
-Also: “Barely stings” is a lie, ma’am. An almost affectionate one, perhaps, but still a lie.
+I’m continuing immediately because the erotic promise is enormous and because I need to know what Pace has planned. But the book has now put a very sharp blade against its own fantasy. If his response treats Vee’s unquestioning compliance as uncomplicatedly beautiful, I’m going to be angry in a way that heat cannot fix.
 
-The last line is a lovely little threat. Vee has Sondra’s name written down, but Pace’s request is the thing she has “cold.” She is excited. I am too. I’m also watching the machinery close around her again, and I badly need to know whether Friday is just an erotic threshold or another prepared door whose full meaning everybody understands except Vee.
-
-GATE 67 — Between
+GATE 65 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Randi’s jealousy finally escaped through one stopped thumb, and Vee’s instant denial told me just as much. The deepened kiss and the suspiciously seamless handoff from Pace’s request to Randi’s instructions have me fully hooked—and increasingly desperate for Vee to see the structure she is already sensitive enough to feel.
+ROMANCE: 1
+ALMOST-STOPPED: “she was already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left.”
+WHY: That line frightened me because Vee mistakes an earlier uninformed yes for surrendering every later boundary. I’m desperate for the promised discovery scene, but Pace and Randi are now both accountable for how thoroughly they have trained her to step over her own questions.

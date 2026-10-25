@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The text. The same text, from both sides, one chapter apart. I read *thinking about you 💛* in her bed in Ohio and my stomach dropped, because I'd just watched Randi read it in a hotel room with a lipstick ring on a stranger, and then type "fairytale" with "every word of it true, none of it the thing." Now I watch Vee get that text and turn it into a devastatingly handsome billionaire and a weekend "so wild Vee wouldn't recognize half of it." Randi never said any of that. Vee made it up, out of Randi's own stories, the same way Randi makes up boys for her dad. That's the best thing the book has done with these two. Both of them lie alone in the cold on the same night, each sure the other one is having the life. Randi is lonelier than Vee is, and Vee is envying her. I wanted to reach in and turn both phones face up.
+Okay. Sheri. I want a whole book of Sheri. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud, and so did he, and it was the first time in about six chapters anyone in this book has laughed for real. She's the only person in his life who wants nothing from him, and she gutted him across a diner table: "Then not saying it matters more to you than having her." That's the line I've been wanting someone to say to his face since chapter 38. I'm glad it came from the one person with no stake in it, over a double cheeseburger with Elvis under the glass.
 
-The blonde getting into the fra diavolo memory got me. Vee goes back to her best night to get warm, the sheet slipping at the table, and the hair turns gold while she's still in it. "She could not keep her own night." That's real jealousy, the kind that gets into your memories and changes them. I've done that at 2 a.m. and I've never read it done that well. "A fashion model's body where Vee's was a stripper's" made me wince. I think it was meant to, but it also sounds more like the author's phrasing than hers.
+Then the thing I'd been waiting for since the porch: his side of crackers and a meal. He understood it. "The true answer had been there, whole and ready." His hand stopped on her shin and he took two breaths, and he chose the smaller truth because he was a coward. Part of me went *I KNEW it*, and part of me went cold, because it's worse this way. If it had gone past him I could forgive it. He heard it and he let her walk to the laundry room alone with it.
 
-I'm tired, though. I asked for no fourth chapter on the unsaid word, and this is the fourth. Ch51 got a pass because it was new: Randi's parents, the sleigh, the cold she brought in with her. This one is Vee in the same place she was at the end of ch50, plus a bedroom inventory. The trophies, the clarinet, Wheel of Fortune, the casserole that was love and was never what she was hungry for. A lot of it is lovely, and I skimmed it anyway. "The room did not know her" and "the cold room kept watch over the girl who was gone" say the same thing at both ends of the chapter, and I got it the first time. The book is telling me its own subtext again. The "you burrowed" in the first paragraph threw me for a second too.
+Daphne. "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." That one got me. Put it next to "people who've never lost anything think grief is a choice" and I don't think she *left*. I think she died, and he's calling it "departure" the way Vee calls Randi "friendship." Brown hair and glasses, laughing with her hand over her mouth. So that's the scar I still haven't been told about, probably.
 
-Still. *are you*— and then she takes it back letter by letter, glad he'll never see the dots. "He always left you the room — a thing she'd appreciated once, and hated now." That one hurt. So did the cropped photo coming back: "Same picture, one house, and she was the one who had divided it." She knows now. She's naming her own pile.
+But the whiskey night scared me more than the crying, because of where his head goes. Vee is in Ohio rewriting their best night with a blonde in her chair. And Pace is in his recliner, drunk, building the threesome breakfast: "Randi across from her… feet up on the lacquered seat." He's been "adding to it for weeks." He misses Vee enough to sob over a passing truck, and his fantasy of fixing it has Randi at the table. Also, Sheri knows about "the brunette." He took Randi *dancing* before Thanksgiving. And Randi's cashmere blanket lives on his bed, "the one for the chill that took her after." Now I know it's a thing he keeps for her. Vee sleeps in that bed. I'm filing that.
 
-What I'd text a friend: they're both in love with each other, both lying in a cold room on New Year's, and each thinks the other is fine. And there's still nothing from Pace. Two chapters in a row without his voice, after he folded his arms. Term starts and Anthro is "just us." Please, next chapter, put two of these people in the same room.
+The sob at the wrong engine wrecked me a bit. "He did not let go of it." Then the prison food, "He ate anyway." Good. And he still hasn't texted her. It's New Year's and he's crying in his kitchen and his phone, the one with her pictures on it, stays dark. I can't stand that.
 
-GATE 52 — Old Acquaintances
+My gripes, and they're real. The second half started explaining itself to me. "He had hurt her because he was afraid of how much she could hurt him." I KNOW. You showed me two breaths on a shin. That was the whole thing, and then you underlined it like I might miss it. "*Whiskey River* was a liar" is a bit cute too. The Daphne part goes into a flat list: tutor, best friend, first girlfriend, first lover, first love. I did buy the clipped hangover sentences as a voice, mostly.
+
+The pattern alarm is going off as well. This is the third New Year's Eve chapter in a row, with Randi, then Vee, then Pace each alone in their cold room. As a set of three I respect it, it's clearly built that way. But the only heat since chapter 45 has been Randi's numb hotel sex. I'm hungry, and the book promised "warmer." I need these people back in a room together soon.
+
+GATE 50 — The Usual
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 5
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "The days behind her ran together beige." Right there, the chapter told me it was going to be beige, and for a page it was.
-WHY: The mirrored text and the blonde getting into her own memory are the two best things in this chapter, and they're real. But it's Vee alone in a cold room circling *what am I to him* for the fourth time, and my thumb is getting impatient. One more solo chapter in someone's head and I start skimming for dialogue. I need the term to start and two of them to be in the same room.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
+WHY: Sheri's diner scene and the sob at the wrong engine are the realest this book has been in weeks. The book over-explained his fear, but now I know he loves her and is choosing not to say it, and his drunk fantasy has Randi at the breakfast table. That gap is a fuse, and I want to watch it burn. I need the next chapter to put Vee and Pace in a room, because I can't do a fourth cold bedroom.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha dc341b2a573e · dated · 2026-10-24*
 
-Oh, this got me. She finally had the room she’d been imagining, discovered it wasn’t going to turn for her by magic, and made it turn. Not because Pace was watching. Not because Randi told her how to walk. She took that second step herself. That matters enormously to me right now.
+REACTION — Oh, this got me. The ridiculous air guitar first—thank God. I needed to see Pace unarranged, doing something stupid and private and twenty-two, and I loved that Vee’s response wasn’t embarrassment but delight. The whole chase felt genuinely playful rather than like sex wearing a jaunty hat. She discovers she’s quicker than he is, flashes him because she wants to make him lose control, runs laughing through the house in heels with his shorts over her head. That is a Vee I could not have imagined at the beginning, and I’m wildly happy she exists.
 
-And yes, it was hot. Not coyly “she felt beautiful” hot: she was bare under silk in a room full of parents, deliberately opened the slit to her hip, felt everyone understand without being allowed to say what they understood, and got turned on by her own nerve. That is exactly the collision I want from this book—interiority and explicit charge occupying the same act. I loved that pride and arousal became impossible for her to separate. Why should she have to separate them?
+And then: “Don’t.” His hand gone immediately. Not hovering, not persuading, not deciding her body overruled her mouth. Gone. Which is exactly why her yes afterward landed so hard. The crucial turn wasn’t merely that she was wet or wanted to be spanked; it was that the choice became erotic once she understood it was actually hers. “Slow. For me.” Dear God. The undressing felt hotter than a dozen generic dirty-talk scenes because she was consciously giving him each piece of herself instead of being swept along and retrospectively calling it consent.
 
-The picture going to Pace uncropped while the deepest meaning of it remained hers was perfect. He made the dress and gave her the possibility, but he does not own what she did inside it. For once, there is a secret in this book that belongs to Vee because she chose to keep it, not because two other people withheld the architecture of her life.
+The spanking was everything I wanted the book to do with this awakening. Quiet, intimate, almost tender enough to hurt. No borrowed script, no counting because Randi planted counting in her head, no performance of kink assembled from someone else’s fantasy. Pace listened to Vee’s body without treating it as permission he hadn’t been given, and he made room for her mouth to catch up. His hand soothing after every strike and his mouth against the warmed skin absolutely finished me. That is the combination I keep digging through endless interchangeable romances looking for: explicit enough that I can feel the sheet under her sensitized skin, emotionally exact enough that the heat means something.
 
-And Cassie. “Go make your mother cry again.” Taking the phone. The unfinished “You look—.” Catching the exact photograph Vee needed without turning the moment into a production. Then buying her a terrible sandwich and letting her be famous at someone who loves her cleanly. I could cry. Cassie gives Vee witness without directing her, and that distinction is becoming almost unbearably important.
+I also loved that her readiness changed meaning without the book pretending her shame vanished forever. First the wetness feels like evidence against her; later the same ease is simply true. That is grown-up erotic writing. Her body isn’t exposing some “real” Vee that invalidates everything she says. She chooses to stop fighting what it wants because she is safe enough to choose it.
 
-I did feel the shadow under the triumph: Randi chose the unaffordable shoes and knelt to fasten them; Pace built the dress; Vee is still walking inside structures other people supplied. But the walk was hers. The long step was hers. That murmur was hers. Whatever comes when all the hidden planning is exposed, nobody gets to take this moment away from her.
+Then the juice nearly made me cry, which is frankly rude. Not wine, not some alpha-male command to sleep, not polished aftercare vocabulary. Juice because she needs something, held to her mouth because she is gone, and “wonderful” repeated until praise and touch become indistinguishable. That was romance at full force. The scrunchies afterward may have been even worse: cheap, specific, plentiful, and quietly future-tense. He expects her hair to be in his bathroom for a long time. I am unwell.
 
-GATE 34 — The Induction
+But the secret poisoned two lines so sharply I almost gasped. “No Randi to be told”—except there is always Randi to be told, and Pace knows it. And Vee thinking his hidden body is hers because nobody else sees it, when Randi knows every inch of him, is devastating. He can make Vee feel uniquely treasured because his tenderness is real, while allowing her to build that feeling on a lie. The better he is with her, the less bearable his deception becomes.
+
+“I’m going to start bringing a bag” should be uncomplicated bliss. Instead it feels like Vee walking farther into a home whose locked room contains Randi. I still want every domestic crumb—the curry, the beer, his absurd stash of scrunchies—but now I need the truth with actual urgency. Especially because Vee has finally claimed a desire Randi deliberately helped awaken, and she believes this experience belongs privately to her and Pace. If Pace lets Randi eroticize this too, I may throw something.
+
+GATE 32 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee made the room turn instead of waiting to be chosen by it, and the charge came from her own deliberate visibility. I’m elated for her—and increasingly desperate for the book to let her keep this ownership when the concealed structure finally comes apart.
+WHY: This gave me play, explicit heat, exact consent, shame transforming into choice, and aftercare tender enough to wreck me. I’m already turning the page because the love is now undeniable—and so is the scale of the betrayal underneath it.

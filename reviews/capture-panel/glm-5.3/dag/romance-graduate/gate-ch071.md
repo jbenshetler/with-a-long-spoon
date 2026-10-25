@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch071 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~be90efe95687 · 2026-09-11*
+*capture-dag-v2-rich · gate ch071 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
 
-REACTION: Two pages. I have literally never read a two-page chapter in my life and I side-eyed it — and then it earned every line. "Do you want some of my Cocoa Pebbles?" might be the best closing beat this book has done. Cassie refusing to take the bait — Vee throwing the years-old "you don't like her" plank down and Cassie just *stepping over it without looking down* — that's the clean-hands friend I've been waiting on, and she's better than I hoped. She didn't ask what happened. She asked *is this what you want* — the exact question Vee can't stand on, and the chapter let me watch her reach for the answer and step back off the edge before she saw its size. That scared me more than the kiss did, honestly. The shape is "close and large." She knows. Some part of her knows, and the book is going to make her stand there eventually.
+REACTION
 
-And Vee swinging the whole thing off herself onto Cassie — "you don't get to stand there and look at me like that" — God, that's the installed machinery firing, the same move she ran on Pace Saturday night ("you're the one who wants this"). When she's cornered she makes it about the questioner. I clocked it. Cassie clocked it. Cassie's answer is cereal. No fight, no verdict, just "you didn't have dinner" — she caught that Vee skipped the dinner with Randi, which means Cassie knows the *routine*, knows Tuesday means that dinner, and noticed its absence. She's been paying closer attention than the book let on.
+I had to put the book down after the bathroom scene. Not because I was scandalized — because I was *in* it. That whole build — the photo, Randi's foot, "into me," Randi going quiet for the first time in seventy chapters — and then Vee locking that door and finally, FINALLY letting herself think the thought, and the thought is Randi's *mouth*, the lipstick drawn a hair outside the lip, coming up from between her thighs — I went over right along with her. That's the most honest orgasm in this book and nobody touched her. The mascara repair afterward, the "she searched the girl in the mirror for whatever it was Randi saw," that's the chapter I'd underline if it wouldn't ruin my Kindle.
 
-The neck still live like a burn, the "postmark" she thinks Cassie can read off her skin — that's Vee's whole guilt in one image. And the title, "Some of Mine" — the bowl, but also the wanting, the way everything in this book keeps being about portioning. Randi portioning her out on the dancefloor, Pace portioning inches of pleasure for truth, and now Cassie handing over something small enough to hold in two hands. The book keeps asking whether Vee can take what's freely given without turning it into a transaction, and a bowl of cereal is the first yes all night that didn't cost her anything.
+And the kiss. God, the kiss. "Let me say goodbye right." The first one dodged — I cheered, I actually said "yes" out loud, Vee's first deliberate no was last Tuesday and she's building on it — and then Randi asks, out loud, doesn't take, doesn't tease, just *asks again*, and Vee says yes with her whole body and I understand her completely and I'm terrified for her. "There's better" versus this. The fact that Randi's eyes stayed sad while her mouth caught up — the smile arriving "a moment behind" AGAIN, that's the third time the book has flagged that half-beat, Randi is not okay, Randi is drowning at this table and Vee can't see it because she's drowning too.
 
-I noticed the quiet thing under it too: Randi's mouth on her neck, then "how do you like it?" — Randi KNOWS about the neck thing, because Vee's done it to her twice. This is the closest anyone in the book has come to naming what's running between them, and Randi did it laughing, and it landed like a bell. Every Tuesday scene is armed now and the author knows it.
+The foot thing made me insane. Randi's shoe off, sheer nylon, pressed to Vee's pussy under the table while making her say "gesso" out loud — and Vee *holds onto the foot*, strokes the arch, and neither of them acknowledges any of it. And the pre-med foot-job story at the top was such a flex: Randi talking about another man's mouth on her feet while her own foot is on Vee, the whole conversation is one long layered flirtation and Vee thinks she's the one being a sex pervert. Sweetie. Sweetie, the pervert is holding your phone.
 
-My one flicker of doubt: after the paint scene and the confession scene and the class chapter, this is the fourth chapter in a row where Vee circles the same door without walking through it. I'm not bored — each one ratchets — but I'm starting to notice the ratchet. The brunch is Saturday. The collision has a date on it now. The book better be aiming all this at that table.
+Because the phone. Randi still had it when Vee fled. Screen lit, head bent over it, eyes dark and glassy — she was looking at that picture for the whole length of a bathroom orgasm and then slid it back without a word. I don't know what she did with that time. Looked longer than a look. That light under her chin is going to live in my head.
 
-GATE 68 — Some of Mine
+The Pace material in the middle hit me harder than I expected — the "he wiped it with the sheet" wound is still open and Vee told Randi like it hurt her, and Randi heard it, and I think Randi heard *more* than Vee said. And Randi's counsel — "if it doesn't mean no anymore, maybe you should tell him" — is the most generous thing she's done all book, telling Vee to go get what she wants from the man she's competing with, while her own thumb is pressed white into her finger. I keep not being able to tell mercy from engineering, and then she does the *sadness* and I think: it's mercy, and it's costing her everything.
+
+"You have a boyfriend," she told the windshield. Get in line, baby. The line starts behind me.
+
+GATE 71 — Gesso
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie finally got her scene and it was two pages of perfect refusal-to-fight — the cereal ending got me in the chest. The only thing holding NEXT back from a 9 is that I can see the shape of the stall; Saturday's brunch needs to deliver, and I'm trusting the author's aim because so far it's been dead-on.
+WHY: This is the chapter I've been reading seventy chapters toward — Vee finally says Randi's name in her own head at the top of her lungs, the kiss went both ways, and three bombs are now live at once (the photo in Randi's hands, the lie, Pace). The Valentine's dance is Saturday. I'm not sleeping until I find out.

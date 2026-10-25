@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · dated · 2026-10-24*
 
 REACTION:
 
-Hold on. I've taken this ride before. My own notes have "Listen to you" in them — I wrote it down after the last Sheri chapter, and "two of them at once, if that's not already complicated, it will be," nearly word for word, and the small bike, and Sheri pulling away on the climb. I flipped back and reread my notes twice to be sure. Either this book has a serious editorial problem, or Helen Rivers is doing something I don't have a shape for yet — and I've read too many of these to assume the flattering option first. Sheri saying the same lines on the same road could be a character bit — she's a woman who says her piece like weather, rides the same route every Saturday, of course she's a broken record. That reading is available. But "Listen to you" landing the same way twice? That one's not her verbal tic, that's the book patting itself on the back twice with the same hand.
+The pie label. "HUMBLE PIE" printed in the stats lab, trimmed with the good scissors — I actually laughed, because that's exactly the kind of joke you build at 3 a.m. that looks perfect at 3 a.m. and mortifying at 4 p.m. in a driveway, and the book *knows* it looks that way to her, lets her stand in the driveway knowing it. That's the interiority I'm here for.
 
-And here's the thing that bugs me more: this is the quietest chapter I've gotten, and it's a repeat, and the thing it's quietly confirming is bad news — Vee sat alone at the Rusty Nail glaring at the floor after that blonde moment, nursing one drink, left alone, and Pace heard it from Sheri and said nothing, just "Vee," and then talked about her chair-touching until a lesbian on a bicycle had to tell him to listen to himself. The one new thing in here for me is "Randi. She was here last night" — Sheri knows Randi's been to his house, so Randi isn't a secret on that side either, and "the redhead" doesn't know about Randi. Everybody has the map except Vee. This chapter's entire job was to underline that, and it did it in a gear I've already heard.
+And then the heels. Oh, that was cruel in the best way. She put on armor and the armor made her *taller than him*, and I felt the missed stair right along with her — her body has learned him as someone she looks up at, literally, and now she's looking *down*, at the man she came to apologize to, and she's already folding to get the buckles and he takes the pie out of her hands and says leave them on, and that line — "beauty like yours made for the gods and loaned out" — that's him, the extravagant true thing in the flat voice. I'd have been a puddle in that doorway. She mostly was.
 
-Also — "not yet," when Sheri asked if Vee knows. He said it flat and didn't elaborate and neither did the book. That two-word answer is carrying the whole ethical weight of this series right now and it went by in half a crank rotation. That's the good Helen Rivers — the one who leaves the loaded thing sitting unnamed in the room. I just wish she hadn't also reused the furniture.
+But the reason I'll be up thinking about this chapter is Sunday. The tickle fight — a real tickle fight, domestic and dumb and warm — becoming her hand smacking his jeans, *playful*, and then his hand turning off the tap. That little gesture. The book does this thing where it turns a whole chapter on one small physical fact, and the tap going off in the quiet kitchen was the turn. And then the accidental-or-not swat, and what it did to her, and the book not naming it. Her keeping her face in his neck so he can't see. "A quiet room was a room with a question standing in it" — I felt that line in my teeth. She talks the whole way to the bedroom *because silence would be a question*, and I've never read a character manage a revelation with chatter before, but that's exactly how a smart, ashamed, hungry person would do it. And then he doesn't ask. He just puts his hand where the print is and *holds it there*, and "This?" and she doesn't have to go looking for the answer, and I — okay, I read that part twice. The whole middle of that scene is the most honestly written kink discovery I've come across in years, and nothing about it was labeled, nothing explained, nothing apologized for. He saw it, he didn't pounce, he made it *hers*. This book keeps doing that: every door is hers to open, and the doors are real ones.
 
-I'm not leaving over this. The prose is still real, Sheri's still a person I'd pay to read about ("Hell of a backside on her, though" — two years of the same handlebar, god, I love her), and I still need the induction and the third game. But this is strike one on a pattern I can't name yet, and I'm watching for it. If the next chapter hands me another scene I've already read wearing a new date, I'm going to start wondering if this book knows where it's going.
+Also, quietly: I know what Randi was doing Friday night while I watched it — feeding him the shoe scene, her hands under the skirt, the whole thing, mid-stroke. And now Vee walks in wearing those shoes and that scarf, and I stood on the porch with her in them not knowing, and the dramatic irony is starting to actually ache. Three more Saturdays until the induction, if that clock is what I think it is. And he's twenty-two and his name is Peter and Daphne was nineteen when he was fifteen, and I still haven't decided how I feel about that, and the book hasn't decided for me either, which is why I trust it.
 
-GATE 31 — hills-and-valleys
+The bra folded over the chair "like the last clean thing in the world." The pan soaking down the hall through everything. Nobody is writing minor sentences like these.
+
+GATE 29 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 4
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "I've read this ride before" — the opening beats, lines and all, matching my own notes from a prior Sheri chapter.
-WHY: Quiet by design and I can live with one quiet chapter, but a near-duplicate of an earlier scene is either a flaw or a stunt the book hasn't earned yet. I'm staying for the induction, the blonde, and Vee finding out — but I'm on notice.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none — "she was no longer sure a joke was the thing you brought to this" was a wobble, not a stop
+WHY: The apology scene was earned and the Sunday scene did something I've never quite seen done this honestly — kink arriving through a tickle fight and a dishpan, handled by two people who talk around it perfectly. Depth and heat in the same ten pages, exactly what I'm paying for. Next chapter, immediately.

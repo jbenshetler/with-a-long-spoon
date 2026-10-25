@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this hurt. This was a quiet, suffocating, perfectly observed kind of agony.
+God, finally. Finally the pristine, calculated surface of Peter "Pace" cracks, and it’s ugly and pathetic and entirely earned.
 
-That pairing between Chapter 51 and Chapter 52 is devastating. Reading Randi lying in that luxury bed in Gstaad, frozen on the inside next to a flawless cardboard cutout of a man, crafting that fake *“it’s honestly a fairytale out here”* text—and then cutting straight to Vee in her childhood bedroom in Ohio, smelling the cheap lavender plug-ins and her mom’s fabric softener, curled up in a twin bed she outgrew in eighth grade, swallowing that text whole. The dramatic irony is thick enough to choke on. Vee looks at Randi’s feed and sees an untouchable goddess who has the whole lit world at her feet, while Randi is literally lying awake in the dark wishing she had the guts to tell Vee she loves her.
+Watching him sit across from Sheri—who is absolute gold in this chapter, stripping every ounce of pretension right off him—was delicious. Sheri calling him out on his self-righteous code and his "philosophy of food" made me want to cheer. She laid it out with total country clarity: if you can't say the words, you don't actually get to keep the girl, and hiding behind your noble silence just makes you a coward. He needed someone to shove that mirror in his face.
 
-And then the absence of Pace. God, the psychological precision of what happens when you’re twenty-one and the older man who has methodically taken over your entire nervous system simply… doesn’t text. He doesn’t chase. Because of course he doesn't—in his mind, he "leaves you the room." It’s his signature move: patient, empirical, maddeningly controlled. But to a girl lying in her childhood bed watching the year die at 11:52 p.m., leaving the room just feels like an abandoned house. It feels like erasure.
+And then the descent into New Year's Eve alone. For forty chapters this man has been a walking architectural blueprint of control—cooking exact meals, pacing sex like a metronome, orchestrating threesome fantasies while keeping his emotional ledger balanced to zero. To see him get blackout drunk on whiskey, throw up all over his pristine bathroom, and wake up on New Year’s Day with the smell of bleach and boiled chicken… I needed that. It drags him down into the dirt where Vee has been suffering alone in her twin bed.
 
-When she tried to conjure the memory of the fra diavolo—the top sheet slipping, the smell of the garlic and oil, the warmth of being worshipped—and her brain actively betrayed her and swapped her own body out for some mythical, effortless blonde who doesn't need to be "built for"… my chest actually tightened. That is so brutally, painfully real. When an avoidant man refuses to name what you are, he doesn't just leave you lonely; he robs you of your own memories. He turns the safest room you had into a phantom space where you can be replaced by anyone.
+The reveal of Daphne finally explains the pathology behind the fortress. He convinced himself that withholding the three words was a magical shield against heartbreak. It’s an incredibly human, deeply stupid piece of emotional baggage, and recognizing that he gave Vee the "smaller truth" because he was plain terrified makes him so much more compelling than just a manipulative villain.
 
-And the scissored photo! Looking at the gold synchronized-swimming trophies, the clarinet in the closet, and realizing she had to literally crop her own leg out of the picture before sending it to her mother because the person she’s become cannot exist in the house that raised her. She’s completely unhoused. She doesn’t fit in her childhood bedroom, she can’t exist in Pace’s kitchen without a label, and the only anchor she thinks she has left is Randi—the very person holding the other end of the string.
+And yet—the audacity of this man! In the middle of crying over Vee and agonizing over his inability to say "I love you," he is *still* running the three-way scenario in his head. He's picturing Vee and Randi laughing together at his kitchen table in the morning sun. The arrogance hasn't fully burned out of him; he still thinks he can thread this impossible needle.
 
-It’s a bridge chapter, yes, but it’s the kind of bridge that earns its keep entirely on interiority and ache. The semester is about to start. Tuesday morning, 8:00 AM Anthropology. Vee is walking into that lecture hall emotionally starved and completely untethered, straight into the arms of the girl who just promised she missed her face most. I need to see the collision.
+That ending hit like a truck. The sound of an engine on the road, that desperate, pathetic leap of hope in his chest, and then breaking down into dry heaves of sobs over a cold bowl of chicken and broccoli. He broke the rule, he broke her heart, and now he's choking on the silence he built.
 
-***
-
-GATE 52 — Old Acquaintances
+GATE 50 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The ache of this chapter was exquisite. Watching Vee get crushed by the silence from Pace while clinging to Randi's hollow "fairytale" text set the board perfectly for the absolute trainwreck that spring semester is going to be.
+WHY: Pace finally got dismantled. Seeing him get sick, miserable, and completely broken down by his own cowardice gives the entire emotional arc the weight it was missing. I need to see what happens when school starts and these three collide again.

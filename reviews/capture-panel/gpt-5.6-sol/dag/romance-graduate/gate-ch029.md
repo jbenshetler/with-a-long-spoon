@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Peter. “Listen to you” indeed. He cannot hear that he is in love while he is pouring out the walnut joint, the math book, the exact way Vee looked at things he made. That got me. Not because it is a grand declaration, but because he has chosen the details that prove she sees him—not the polished host or the body or the competence, but the workmanship and the mind underneath it. He thinks he is describing her. He is exposing himself completely.
+Oh, this got me. The apology did exactly what I needed it to do: Vee didn’t just arrive beautifully dressed and offer Pace a polished “sorry.” He asked what happened, and she told him the humiliating truth—that she recognized the manipulation, chose the lie anyway, and used it to punish him. That is grown-up emotional accountability. And Pace thanking her for telling him instead of instantly declaring everything fine made the forgiveness feel earned. He wanted to understand her, not merely restore the pleasant version of the evening.
 
-And then: “She knows. She likes her.” / “And the redhead?” / “Not yet.” There it is, stripped of every beautiful argument Pace makes to himself. An uninvolved woman needs about five seconds to identify the complication, and Pace can state the information imbalance in two words without apparently feeling the moral weight of it. Sheri laughs because from outside this sounds like enviable romantic chaos. I wanted to reach into the book and say, no, ask him what *not yet* means. Ask who gets to decide when.
+The heels nearly killed me. Vee deciding that accidentally standing taller than him constitutes another act of disrespect is so painfully, specifically her—and then he simply puts her scarf right and gives her that line about beauty loaned by the gods. Of course the scarf is working. Randi has dressed Vee for Pace after sleeping with him the night before, and Vee is walking into that house wearing Randi’s shoes and silk while believing she is repairing a private relationship. The dramatic irony is becoming almost physically unbearable. Every beautiful thing now has Randi’s fingerprints on it.
 
-I liked Sheri immediately, though I am watching her. The backside comment is crude in a familiar, unthreatening way, and her offer to dislike Vee on Pace’s behalf tells me more about the life he has outside these rooms than another polished confession would. She is loyal enough to become an enemy on request, and he specifically refuses that comfort. Good. He doesn’t want Vee punished for hurting him. He wants her back.
+And then the kitchen. Jesus. The accidental swat, Vee’s body answering before she has language, Pace seeing it, and her frantic campaign to keep talking so the question cannot enter the room—that felt genuinely erotic because it belonged to her psychology, not to a prefab kink checklist. She is discovering something that collides directly with the shame she has only just begun to loosen. I loved that Pace did not repeat the strike as an experiment. He put his hand over the place, asked only “This?”, and let her answer from inside the wanting. That tiny exchange was hotter than pages of instructions would have been.
 
-This is barely a chapter—it feels like one clean breath between the rupture and the return—but it earns the smallness. The ride keeps moving; Peter accidentally says too much; one outsider spots the coming collision; done. I’m not frustrated yet. I am absolutely turning the page because Vee is supposed to arrive tonight wearing Randi’s choices, and now I know Pace spent the morning talking about her like a man who has already lost any hope of being casual.
+Her trying to hide her face while arranging the entire encounter around the sensation was also painfully believable. She wanted it, chose toward it, and still could not bear to be seen wanting it. Then “please” came out before she could build a respectable explanation around it. That is exactly the collision I’m here for: explicit body, actual interior life.
 
-GATE 31 — hills-and-valleys
+I did twitch at the sentence that skipped over Saturday night—after all that emotional buildup, “first lighter and then not light at all” is perilously close to the kind of coy curtain-pulling I hate. But the Sunday scene more than paid the chapter’s erotic bill, and it was specific enough that I never felt cheated overall.
+
+The ending made me soft and nervous. Two nights in his clothes, washed in his soap, smelling entirely like him: lovely, intimate, and also another step into a life whose architecture she still cannot see. “You’re always beautiful” absolutely worked on me. But Randi sent her there dressed in Randi’s things, told Pace she would come, and effectively directed both sides of the reconciliation while Vee believes the whole weekend belongs only to her and Pace. I am desperate for the truth now. The warmer and safer this house becomes, the worse the eventual betrayal is going to hurt.
+
+GATE 29 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The chapter itself is a quick, quiet bridge, but Peter helplessly cataloguing the tiny ways Vee sees him landed hard. “Not yet” also made the concealed structure sound newly indefensible, and I need to see what happens when she walks back through his door.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “though the evening went on a long time after it, first lighter and then not light at all.”
+WHY: That brief coy skip irritated me, but the kitchen scene immediately delivered the psychologically exact heat I want. The apology deepened Vee and Pace’s bond beautifully, while Randi’s invisible control over the entire weekend has me already reaching for the next chapter.

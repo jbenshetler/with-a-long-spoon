@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. Honey. You finally asked the right question and then accepted an answer to a different one because he touched the terror underneath it without answering the question itself.
+Oh, this hurt. The shirt was one of the most romantic things in the book—the ridiculous, tender ritual of Pace wearing it all weekend so Vee could take his smell back with her—and now she has discovered the limit of it. She can make herself warm inside something that smells like him, but she cannot make him present. Worse: she cannot make his actions answer the question his words keep refusing. “The heat in the shirt was her own, given back” absolutely gutted me. That is the whole relationship turning cold in one sentence.
 
-“Is this what we are now?” is not really about Chili’s. “If we’re just sex, I’d like to know” is not a request for nachos. Pace heard a practical complaint and solved it practically—of course he did—but then she gave him another opening in the front room, and he still only explained why the restaurant overwhelmed him. That explanation felt completely true to me. The screens, the music, his eyes being pulled away, the fork squared and resquared: he wasn’t ashamed to be seen with her; he was overloaded and working hard to stay present. I was aching for her to notice the evidence instead of building a rejection out of it.
+And thank God she did not text him. Not because communication would be bad, but because she already knows exactly what would happen: he would answer kindly, precisely, insufficiently. There is no missing text-message plot here. Vee understands that she cannot phrase the question cleverly enough to force him to volunteer the truth. She has finally stopped confusing his warmth with an answer, at least for this one sleepless night.
 
-But Pace saying “I’m listening now” is not enough anymore. It is tender. It is intimate. It is exactly the kind of sentence that would have melted me ten chapters ago. Now it is also an exquisitely effective way to soothe her without telling her what she is to him. He listened to the hurt and answered the least dangerous part. Whether he did that consciously or because emotional definition is the one language he genuinely cannot speak, I don’t know. Either way, she remains unnamed.
+Taking the shirt off felt enormous. She does not fold it. She does not preserve the ritual. She leaves it in a heap and chooses the cold with her own bare skin in it. I don’t think she has left him yet, but some part of her has stopped helping his gestures mean more than he will say. I wanted to climb up into that bunk and hold her, and I also wanted Cassie to wake up. Pace has built her rooms, fed her, learned her body, given her a drawer—and left her alone enough that even his scent has started to feel like evidence of his absence.
 
-And then the sex—God, yes, hot, because her wanting his control to snap and then feeling it actually go was exactly the escalation I wanted. His comfort at her breasts, the patience becoming almost unbearable, her second orgasm pulling him over with her: none of that felt generic. It was specifically their bodies and their pattern, and the loss of his control mattered because control is so central to who he is.
+This was only a few pages, but it did not feel like a shortcut. It felt like the instant something beloved stops working. I’m already turning the page because now I need to know whether morning lets her put the shirt back on emotionally, or whether this is the first real break.
 
-But the title is merciless. They put the whole question under the rug with excellent sex. Her body “drowned it clean, as it always did, as she let it” made me want to shake her and kiss her forehead at the same time. She knows this is happening now. She knows pleasure gives her temporary relief from the question, and she is participating in using it that way.
-
-The line that really got me was: “She was his; she’d not dispute a word of it. But did he belong to her?” That is the actual wound. Not whether he wants her, because nobody could doubt that. Not whether he cares for her, because his care is everywhere. She cannot prove she has any recognized place in his life because he refuses—or fails—to put language around it. And the horror is that she thinks she forgave him, as though she was the one generously resolving the evening, while her real need went unanswered again.
-
-I’m glad the chapter did not let the sex settle the matter. I’m also furious that Vee has apparently learned to accept every form of devotion except the one she explicitly needs. Pace can heat the house before she arrives, make room in his drawers, listen to her body with terrifying precision, and still leave her lying awake wondering whether “boyfriend” applies. That is not a tiny semantic insecurity. It is the space where Randi and the entire hidden arrangement are living.
-
-I need the next chapter immediately. The secret has become even uglier now that Vee has asked, however sideways, what they are. Pace cannot keep claiming patience while she is actively suffering from the absence of truth.
-
-GATE 48 — Under the Rug
+GATE 46 — Bare
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This finally forced Vee’s unnamed fear into the room, then showed exactly how their tenderness and sexual compatibility can soothe it without resolving it. I’m furious, turned on, and completely unwilling to stop before the hidden relationship collides with the name Pace still will not give her.
+WHY: The shirt went from comfort to unbearable proof that Vee has been supplying the warmth herself. That is a real turn, and I need to see what she does now that even Pace’s most intimate gesture can no longer quiet the question.

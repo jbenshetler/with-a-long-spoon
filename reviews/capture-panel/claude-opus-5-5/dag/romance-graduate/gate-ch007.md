@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0aa35383c08b · 2026-10-10*
+*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. *There* she is. Two Vee chapters in a row, and the froyo one was lovely but slight, and I'd started tapping my foot a little, waiting for the other half of this machine to come back on. Then the deadbolt goes over and I sat up. I know that sound now too. The book has trained me on it the same way it trained him.
+Oh, *there* it is. After two Vee chapters, froyo and a calculus problem and a girl being sweet about a sweet man (which I liked, but I was starting to drum my fingers), the book takes me back into that house and the deadbolt goes over, and I actually sat up. Same night. He came home from walking her and Randi was already on her way over. That timing is nasty in the best way.
 
-What got me is that this is the hottest thing in the book since the bench, and nobody takes anything off. She straddles him and feeds him wine mouth to mouth. She puts his hands on her breasts the way she did in the kitchen, and she says "*Tell*" hot in his ear like it's the filthiest word she knows. And what she wants told is *a girl eating frozen yogurt*. Her thighs tighten at "she built a cup like nobody had ever told her when to stop." That's foreplay for her. It's Vee's appetite, and Randi's getting off on Vee being allowed to be hungry when Randi can't even eat a cheeseburger. That lands really hard after the apple slices. I didn't need anyone to point it out to me, and nobody did. Thank you.
+The wine kiss got me. He didn't pour himself a glass because "everything he was going to have of it he was going to have like this." That's hot, and it's also a little sinister, because the whole chapter is built that way. Randi is drinking Vee secondhand through Pace's mouth. "*Tell.*" One word, hot against his ear, his hands put on her breasts as payment for the story. That's a filthy little arrangement and it's all clothed. She's getting off on the debrief, and the book trusts me to feel how wrong and how good that is without spelling it out.
 
-Then "She's easy to listen to," and her thighs *set*, they don't tighten. Her hands stop in his hair, and the smile shows up a beat late. Pace reads it as "the wanting, held," and he's moved by it. And I'm going: babe, no. That isn't want, that's a sting. Or it's both. She's jealous, of him or of Vee or of both of them, and the man who reads her body better than anyone alive just read it wrong, or only half right. That's the first crack I've seen in his perfect attunement. It scares me in the good way. She tells him "I already do" in her bright voice and finishes the glass in one swallow. That's the girl at the mirror in chapter 1 putting the face back on, right in front of him. And he's the one person who's supposed to see past it.
+What actually made me put the Kindle down for a second was Pace keeping Vee's line for himself. *This is the nicest a person has been to me in a really long time.* He doesn't hand it over. "It was hers." Two chapters in and he's already protecting something of Vee's *from Randi*. That's the crack. The jacket said "how real it will get for each of them," and I think I just watched it start for him, and he hasn't noticed.
 
-I also loved that he kept Vee's confession to himself. "It was hers." It's the Daphne lesson, the closed door. It made me like him, and it made me nervous, because now he's keeping things from Randi for Vee's sake. Already.
+Then "She's easy to listen to," and Randi goes still. Her thighs "set." Pace reads it as "the wanting, held," and I'm sitting here going no, honey, you have been wrong about her since chapter one. He thought the bench was a breakthrough, and she went into his bathroom and locked herself away from him for good. So which is it? Is she jealous of Vee getting him, or of him getting Vee, or scared that her boyfriend just said something tender about the girl she wants? Probably all three, and he has no idea. Then she chugs the rest of the glass and gets bright and easy, "I already do." That's the face from the mirror in chapter one, back on. I love that I can see it and he can't. That's the dramatic irony I came for.
 
-The last line, "He had not had a drop of it. He could taste nothing else," is good. That's written, not decorated. I'm a little annoyed it cuts at the held-out hand, but it's a chapter break, not a fade. I'll forgive it if the next chapter picks up in the bedroom. If it skips to the morning after, we're going to have words.
-
-1 a.m. text: "the girlfriend made him describe the other girl's froyo while she sat on his lap and it was HOT and also she's clearly jealous and he totally missed it?? help"
+One small complaint: Pace's narration still does a little too much "he read it: X." It's mostly earned here, because he's reading it *wrong*, but sometimes it gets close to the book explaining itself. And it ends on her holding out her hand, so I don't get the sex. Normally that would annoy me, but this book has already shown me it will go all the way in (the bench!), so this reads like a chapter break and not a fade. The last line, "He had not had a drop of it. He could taste nothing else," is a mic drop. Texting my friend: "the boyfriend is already lying to the girlfriend by omission about the girl they're hunting TOGETHER and it's chapter 7."
 
 GATE 7 — Tannin
 DECISION: CONTINUE
@@ -20,5 +18,5 @@ CAPTURE: 8
 NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: This is the heat I was missing, done fully clothed through a girl's frozen yogurt, and it's both sexy and a little sick in the right way. The moment her thighs "set" and Pace misreads it is the first time I've doubted his radar, and that's what has me reaching for the next chapter. It ended on her holding out her hand, so the next one had better not skip the bedroom.
+ALMOST-STOPPED: none. If anything, "He read it: the wanting, held." It's the narration telling me what to think, but here it's telling me something false, so it worked.
+WHY: Short, hot and sly. It brought the charge back right after two quieter chapters, and it planted the first real secret between Pace and Randi. I want to know whether she takes him to bed tonight to have him or to have Vee.

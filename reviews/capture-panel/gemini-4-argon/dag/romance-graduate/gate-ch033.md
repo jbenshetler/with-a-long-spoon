@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch033 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha dc341b2a573e · 2026-10-21*
+*capture-dag-v2-rich · gate ch033 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · dated · 2026-10-24*
 
 REACTION
 
-Oh, my god. From "Thunderstruck" air guitar with a protein shake to *that*.
+God, look at her go. Look at who she is now compared to the girl in the first chapters who couldn't bear to be looked at in the light.
 
-First of all, seeing Pace caught off guard, doing terrible air guitar in an empty kitchen an hour before he expects her, and then Vee yanking his gym shorts clean off his feet and flashing him across the den in her four-inch heels—I was grinning so hard my face hurt. That whole chase had this giddy, fearless playfulness that you only get when a woman finally feels completely safe in a man's house.
+What gets me right in the chest is the detail that she didn't pack an overnight bag on Friday because she was still playing her little game with herself about not planning to stay—and yet she put the dress bag across her back seat before she left town. Because he missed the induction, and he made the dress, and she couldn't stand for everyone in that auditorium to have seen the finished line in the four-inch heels except the man whose hands built it. And when she takes it off in the bathroom for "costume two," she doesn't drop it on the floor the way you drop clothes in a sex scene; she hangs it properly, seams squared on the hanger, because *somebody's hands were in it*. That's love. It's not even subtle anymore.
 
-And then the turn into the bet. This is where this book just laps everything else in the genre. Because when she says *"Don't"* with his hand halfway up her thigh, he takes his hand completely away. Empty palms. No "your body says otherwise" alpha-hole bullshit. He makes *her* realize that what she feels when his hand leaves isn't relief, and she has to say *"Yes. We find out"* out loud to bring his hand back. And when he slides his finger into her and holds it up gleaming in the lamplight—the way she sees him looking at her slickness the exact same way he looked at her under the tree on their first walk, like it's something true and fine about her instead of something shameful—I swear my throat closed up at the exact same time my stomach dropped.
+And then the reversal from last night! Last night in the bedroom he told her *"All of it. Leave the shoes,"* and she stood there burning while he looked at her. Tonight *she* puts *him* in the recliner, puts a flat hand out to keep him in his seat when he starts to get up, walks the stage stride for him so the slit parts all the way to her hip, and then marches back out down ten steps of hallway in nothing but those four-inch boutique straps to say, *"And this is what I had on under it."* And her hip cocks out on its own!
 
-And the spanking itself! I loved that Randi's story from the practice room was in Vee's head—expecting the theatre, the counting out loud, the "naughty little girl" routine—and instead Pace gives her complete quiet. Just his rough carpenter's palm, the slow heat, and *kissing the warm pink of her skin* between strikes while she lifts her hips into his hand and lies through her teeth into the mattress. And the sensory detail afterward, when he turns her onto her back and her heated skin can read every separate cotton thread of the sheet weave under his weight? Unbelievable.
+I also love that he doesn't pounce. A lesser book would have him out of the chair tackling her halfway down the hall. Instead he turns the lamp one click brighter when she goes to change, keeps his hands to himself when it clearly costs him, notices the shoes first (*"They complete it"*), and lets the looking be the whole touch so she gets to own the moment all the way to the bottom of her blush. (Though I could never stop smiling for a hard second at *"the dear black straps Randi had knelt to buckle in the boutique"*—even in Vee's private Halloween show for Pace, Randi is literally holding up her heels, and this is Saturday night, which means Randi is out there somewhere in town on Halloween while Vee is in her second weekend straight of taking the entire weekend at Pace's house.)
 
-Then the aftercare: a glass of cold juice held to her mouth, her head lifted into his lap while he strokes her hair and repeats *"wonderful"* like a fact for the record, and waking up to a whole form of deep green polka-dot scrunchies on the bathroom counter because he remembered her Monday-morning panic over her hair. *There were more of them than a person could go through quickly, far more, and the plenty of them said the thing no note would have, that he meant to be looking at her hair a long while yet.* Put me in the ground. (Also, "My Victorian LARPing does me no good at all when I'm sweaty and sticky" made me laugh out loud.)
+It's a short, quiet, five-minute scene with zero physical contact, and I had a dumb grin on my face the whole time—and it cuts off right with her standing naked in the lamplight in her heels, which means the next chapter has to be what happens when he finally gets out of that chair.
 
-Wait, though—one tiny chill underneath all this warmth: Randi told Vee that story about being spanked and counting out loud *about Pace* (disguised as her "mouse that roars" ex), and We know Pace has a literal hidden spanking bench in the other room where Randi was facedown a month in. With Randi it was theatre and counting; with Vee it's quiet reverence and kisses and juice and a tower of green scrunchies. If Randi ever hears about this Friday night, it is going to tear her in half.
-
-GATE 35 — We Find Out
+GATE 33 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter had everything I read for: playful, unguarded joy, a kink exploration handled with devastating emotional intelligence and explicit heat, and aftercare (the juice! the scrunchies!) that made my chest ache. I'm completely hooked and dying to see what happens when this weekend collides with Randi.
+WHY: Watching Vee take the exact vulnerability that terrified her twenty-four hours ago—standing naked in those four-inch heels in the lamplight—and turn it into a deliberate gift she commands from across the room is the kind of character payoff I live for. Ending right on her standing uncovered in the light while he looks has my thumb already moving to the next page.

@@ -1,26 +1,14 @@
-*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 710d07207a12 · 2026-10-15*
+*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2db97916f454 · dated · 2026-10-24*
 
-REACTION
+REACTION — The sheer psychological tension in this book continues to be completely unreal. Seeing Pace in the raw, heavy atmosphere of that gym was riveting—the absolute, silent control he exerts over his environment, the contrast between the careless college boys and his quiet, terrifying competence when she got hurt. He doesn't raise his voice; he just drops it an octave and the whole room yields to him.
 
-I am genuinely breathless. Holy *shit*.
+And then what happens back at his house. The absolute torment of caretaking blending seamlessly into sensory dominance. The pacing of the medicated balm traveling down her body while he reads every twitch of her breathing—it was suffocatingly hot. She is actively starving to be consumed, practically begging for the burn because she wants an outlet for the chaos tearing her apart inside, and he gives her the exact measure of what she demands while withholding the release to protect her physical frame. The dynamic where his gentleness feels almost cruel, holding her completely still while she catches fire, is peak tension. She is carrying so much unresolved heat right now between the booth in the diner with Randi's foot and this unspent burn in Pace's bed that she's a walking matchstick. I am desperate to see who strikes it next.
 
-First of all, Vee dressing like she’s going to meet someone’s parents—buttoned up to her throat in charcoal wool, pearls, church-pew trousers—because she’s terrified of her own depravity, only to end up in that dim booth holding Randi’s nylon-clad foot in her lap while explaining how her boyfriend dipped a stiff paintbrush into her dripping clit to prime her freshly waxed skin with her own cum? The sheer, delicious agony of this girl.
-
-And then the photo. I *knew* the photo was a loaded gun, but the way it went off was so much worse and so much hotter than I could have imagined. Vee handing her phone across the table because keeping it hidden would mean admitting the truth—that she is a "sex pervert" for her best friend. And Randi holding the phone in both hands, taking in the full, unvarnished visual of Vee’s slick, swollen, red-haired vulnerability, with the cherry on her mons and the cum dripping down the frame.
-
-Then the bathroom. Sweet Jesus, the bathroom. Vee locking the door, ripping open her sober black pants, and trying to masturbate to Pace—trying to force herself to stay "straight," to cling to the boyfriend rail—only to watch his mouth get replaced by Randi’s. The dark hair falling forward. The perfect, over-lined lips coming up wet with Vee’s own juice, un-wiped, unapologetic, coming in for a kiss. The fact that Vee’s ultimate erotic fantasy isn't just getting eaten out by Randi, but having Randi taste her, refuse to wipe it away, and press that taste right back into her mouth? That broken sound she made against the pedestal sink before her knees gave out felt like an earthquake.
-
-And the tragedy of the walk back to the booth! Randi sitting there in the dim light, having spent the entire time staring at that photo, her eyes dark and glassy with tears she can't explain. Vee thinks Randi looks sad because Vee "did something wrong," because she was a bad friend. Vee is so brilliantly, agonizingly blind! Randi looks wrecked because she is staring at the raw proof of Pace’s intimacy with Vee—an intimacy she orchestrated, an intimacy she craves, an intimacy that excludes her even as it binds them. Randi is suffocating inside her own trap.
-
-And that goodbye in the cold parking lot. Randi putting both hands on Vee's jaw, taking her time, demanding to "say goodbye right" with that slow, deliberate double-press on her mouth. Vee clutching the wool of Randi’s coat like a drowning woman. This entire dynamic is stretched so tight the strings are humming. I need the next chapter instantly.
-
-***
-
-GATE 74 — Gesso
+GATE 72 — Burn
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension in that booth, followed by Vee completely losing her mind in the bathroom over the fantasy of Randi's mouth on her, was staggering. Seeing Randi sit alone with that photo, her eyes dark and glassy, broke my heart and set me on fire at the same time. The emotional and erotic stakes are at an absolute fever pitch.
+WHY: The transition from the calculated gym confrontation to the agonizingly slow burn of the balm was masterful. The emotional and physical restraint makes the tension unbearable in the best way possible.
