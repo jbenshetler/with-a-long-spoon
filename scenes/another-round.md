@@ -20,7 +20,7 @@ He considered it with the pan in his hand, a man asked to describe a country he'
 
 "Small," he said. "Loud." He rinsed. "We cycle." A plate went into the rack. "She dances."
 
-She kept her face pleasant until he'd turned back to the sink, and then she sat with them. *We cycle* — a *we*, standing, established, out riding the county all this while without her. And *she dances.* Of all the facts in the world he could have handed her, he'd found the one with a blade in it, and he'd handed it over like a dried spoon. His back stayed easy in its work. She drank the end of her wine, and the week ahead of her rearranged itself around Saturday like furniture around a stain.
+She kept her face pleasant until he'd turned back to the sink, and then she sat with them. *We cycle* — a *we*, standing, established, out riding the county all this while without her. And *she dances.* Of all the facts in the world he could have handed her, he'd found the one with a blade in it, and he'd handed it over like a dried spoon. His back stayed easy in its work. She drank the end of her wine and vowed to be as open to meeting his friend as he had been to meeting hers.
 
 ---
 
@@ -52,7 +52,7 @@ The look began at her face and came down with no hurry in it at all, and Vee sto
 
 The look held at the keyhole, a beat past what any look she'd ever been given in public would have dared, and she waited for it to price the shirt — borrowed, trying too hard, any of the verdicts she knew the shape of — and instead the mouth above it went rounder. It took the bare January leg with its time fully taken, no math arriving anywhere, the mouth opening as it went, and by the time it reached the shoes and stopped — stuck — the smile had arrived at a soundless, appreciative *oh*, cocked, held, like a word being kept for later.
 
-And there, at her feet, which had become the most naked thing in the room — a few thin straps against January, the induction shoes on a taproom floor — the week of dread, the midnight blonde, the borrowed skirt straightened twice in the truck, the whole armory buckled on piece by piece against a rival who was supposed to be standing here — she understood all at once what the look had been doing the whole languid trip down. It was *enjoying* her.
+And there, at her feet, which had become the most naked thing in the room — a few thin straps against January, the induction shoes on a taproom floor — the midnight blonde who would not let her sleep, the borrowed skirt straightened twice in the truck, the whole armory buckled on piece by piece against a rival who was supposed to be standing here — she understood all at once what the look had been doing the whole languid trip down. It was *enjoying* her.
 
 The laugh came out of Vee before she'd voted on it. Loud, from the middle of her, apropos of absolutely nothing — and with it something let go that she hadn't known she was holding, off the shoulders, out of the ribs, a month of it leaving in one long breath. Nobody had said a word.
 

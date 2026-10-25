@@ -1,6 +1,6 @@
 # Condensed — Seconds
 
-*VIGNETTE · Draft complete · `seconds.md` · Sun Nov 29 (the Sunday back from Thanksgiving) · pre-dawn*
+*VIGNETTE · Draft complete · `seconds.md` · pre-dawn, the morning after {{Cropped}} — their reunion after Thanksgiving*
 
 ## Summary
 
