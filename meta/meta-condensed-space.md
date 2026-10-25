@@ -49,7 +49,7 @@ are on the white sheet, placed away from the climax.
 
 **She stays.** The chill takes her and he has the blanket up before she has to reach. She
 turns into his side with her hand over his heart and he puts his hand in her hair.
-Friday, and Vee will come or she won't. Morning is the ride — {{Hills and Valleys}}.
+Friday, and Vee will come or she won't. Morning is the ride — the second movement (merged 2026-10-25).
 
 ## What only this chapter establishes
 

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, thank God she asked. Thank God she left the bag in the car. That detail had me braced before she even opened the door: she did not arrive prepared to be absorbed into his warm house again. And then she stood on the mat and refused the kiss, refused the wine already poured and the chicken and the porch and the beautiful evening he had constructed so perfectly that she could disappear inside it without ever getting an answer.
+Oh, Vee. This hurt in the very specific way of going home and discovering your old life still fits around your body but no longer contains you. The too-short bed, the trophies, the dead friendships still pinned up like evidence—her room loves a version of her who doesn’t exist anymore, while the people she actually loves have left her with nothing she can name. That loneliness got me.
 
-“What am I to you?” is not a difficult question when someone is the most important person in your life. It might be frightening. The answer might be complicated. But it is not incomprehensible. He understood her. I do not believe for one second that he didn’t. “Do any of your friends have a relationship you’d rather have?” made me furious because it is such an intelligent, precise evasion: he made her happiness testify against her need. He took the undeniable goodness of what they have and used it to imply that asking for clarity is ingratitude.
+And I’m furious with Pace now. Not because he didn’t text over the holiday in some ordinary boyfriend-maintenance sense, but because he knows exactly what she asked at his door. He watched her cry over the absence of a word, let her walk into the cold, and then allowed the entire break to pass in silence. “He always left you the room” used to sound respectful. Here it feels like abandonment disguised in his preferred virtue. He gets to call his silence space because he isn’t the one lying awake inside it.
 
-And then: “Words are cheap, and you still won’t spend them on me.” Jesus Christ. Yes. Exactly. She finally saw that his actions do not make the missing words unnecessary; they make his refusal to say them more conspicuous. He will buy the scrunchies, empty the drawer, heat the house, make the dress, cook the meal, learn every response of her body—and fold his arms rather than give her a word she can carry outside his door.
+The photograph split in two made my stomach drop: the whole Vee sent to Pace, the cropped Vee permitted into her parents’ house. She thinks she chose where each version went, but the whole version went into the least honest relationship in her life. And now she can’t even keep her own first night intact. Watching the invented blonde take Vee’s place at the table was horrible because that memory had been foundational—proof that Pace wanted precisely her—and the lack of a name has begun eating backward through even the things she knew.
 
-The folded arms changed something for me. Until then I could almost let him be a damaged man who genuinely could not reach the language. But that was a line being defended. He chose the silence while watching what it cost her. And the moment she cried, he reached for her with the hands that have always been able to make her stop asking. I wanted her out of reach so badly. “Not the hand in place of the word” felt like Vee finally recognizing the mechanism that has kept all those little waits buried.
+Meanwhile, “the one sure thing” is Randi. God. Vee reaches toward the person who will light up and call her gorgeous and mean it, and I believe completely that Randi means it. That is what makes this vicious. Randi is stable because she has concealed the information that would make Vee reevaluate her. Pace is uncertain because he refuses to speak; Randi feels certain because she speaks in two meanings and lets Vee hear the safer one. Vee thinks she has one opaque lover and one transparent friend. She actually has two lovers withholding the same reality in different dialects.
 
-Her leaving wrecked me, but I am fiercely proud of her. She did not accept warmth as an answer. She did not let excellent sex, exquisite care, or “most important person in my life” blur the question. She walked out into something colder because at least the cold was honest.
+I also cannot get past Vee protecting Randi’s dignity over the PPP revelation. She saw the truth, understood the wound, and gave Randi somewhere to put her hands. That is such clean, instinctive love. Then Randi replies by giving her the fairytale instead of the truth, while lying beside the man she used to prove to herself that Vee is what she wants. Vee offers “I’m here if you want to talk. Or not,” and Randi takes the escape hatch. Again.
 
-And now I need to know what Pace does when care cannot repair what truth would prevent—because “Vee” absolutely was not the word, and she was right not to turn around.
+There’s no erotic charge for me here, even when Vee remembers the sheet and the kitchen. The jealousy corrodes it too fast. But emotionally I’m caught hard. I need January. I need Randi to see Vee’s face light up and understand that she is accepting trust she has not earned. And Pace had better not be waiting serenely in his warm house as though Vee merely needed enough “room” to return.
 
-GATE 47 — Believe Me
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was the confrontation I have been waiting for, and Vee held onto the exact question through every beautiful evasion. I am already turning the page because Pace has finally lost the protection of his warm house, and whatever he does next will tell me whether he can love her without controlling what she knows.
+WHY: Vee’s loneliness, and the terrible inversion by which deceiving Randi feels dependable while silent Pace feels unknowable, has me completely. I need to see what happens when the semester begins and both hidden halves of her life come back within reach.

@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The first half of this chapter nearly lost me, and then the second half grabbed me by the collar.
+Okay, so we get a stats project. Right after chapter 40, which was the hottest thing in the book, it hands me PPP loans and a professor clicking his slides back and forth like he's checking tire pressure. For the first page and a half I was honestly braced. Cassie's dad, Randi's dad, the aggregate against the county. I've DNF'd literary books for exactly this, a seminar dressed up as a scene. I almost thumbed ahead to see how long it was.
 
-"We have so much sex, Randi." "Two, three. And then there's mornings… and afternoons." That stretch reads like a recap of the last eight chapters, told to someone who'd skipped them. I don't need the highlights reel. I was there for the bet, I was there for the photo, I was there for the lemon chicken. When she got to "he changes it up the whole time, fast then slow then some way I don't have a word for," I felt my thumb twitch, because that's the coy, catch-all kind of line I left KU to get away from. I read it, but I was skimming for Randi.
+Then MIRA, and Randi went still, and I sat up. "Not a motion — the withdrawal of motion." That's a real sentence, and it does real work. This is the closest I've been to Randi's insides, and it isn't even her POV. It's Vee watching the person and not the page, which is what Vee's good at and what nobody gives her credit for. "Cheating bastards," plural, ragged, said for the first time. Who's the other bastard? The mother? The whole family? Or is Randi, the girl who invents men when she needs them, saying it about a man she can't invent her way out of? I'm turning that plural over. Randi built the graph to prove Daddy was the good exception, and her own graph caught him. She's the outlier. That's her whole wound in one data point, and it explains the "It doesn't" from chapter 39 better than any backstory dump would have.
 
-Then "You're just finally hungry out loud." It's the jacket line, word for word. Part of me went *oh, there's the back cover*, and the line felt a bit staged. The other part of me noticed it was aimed straight at the sex-pervert question, and I hate how well it works. That's Randi's genius. She doesn't lie to Vee. She tells her the exact truth Vee needs and charges her for it.
+What wrecks me is Vee. She slides the laptop over, picks up the busywork, gives Randi "somewhere to put her hands," and never tells her what she saw. Vee is keeping a secret FOR Randi, protecting her, while Randi is the one keeping the biggest secret in the book from Vee. The asymmetry hurts. Vee is being a better friend to Randi than Randi has ever been to her, and Randi "had no idea she'd been looked at." For once Vee is the one a step ahead, and she's using it to be kind.
 
-And then the moment that actually stopped my breath: "Like he wants *me*. With the body attached." And Randi says, low and not quite even, "It doesn't." That isn't technique. That's Randi's own wound, the one I've been begging to see since chapter one, finally showing through: the egg-white mother, the size seven, whatever it is. For one second she isn't steering anything. She's a woman hearing about something she wants and has never had, from either of them. Then she pulls herself back up and asks about the playlist. God. I'd text my friend: *Randi cracked. ONE line. I'm unwell.*
+Cassie "didn't carry things into rooms she meant to walk out of." Cassie "drank nothing." I love her. She took the grunt work without sting, and she's right about the world while being wrong about the room.
 
-The photo is the knife. Six days ago, naked in his bed, Vee said "Only if you promise you'll never share me with anyone," and Pace said "Never." He kept his promise, and she's the one who broke it, in a booth, to the one person on earth she shouldn't have shown. And Randi worked her like a lock. First she was disappointed: "these are *dusty*." Then she backed off: "You don't have to show me." Then the sting: "you only gave him *half*?" Vee's pride did the rest, and the full uncropped photo went into Randi's hand. "Showing him your toes, eh?" Randi and her feet. That photo is in Pace's bed within a week, guaranteed, and he'll know the only way Randi could have seen it. Either that's the crack where it all breaks, or Pace pretends he didn't hear it, and I can't decide which is worse.
+My gripes. The last paragraph is the book explaining its own title to me again: "easy to see if you knew to look for it, invisible if you didn't." I GOT it. That line describes the whole series premise, and it reads like a wink to the reader. I wish it had ended on Vee's thought about luck instead. And there's zero heat, zero Pace, zero body. One quiet chapter after 40 is fine, and this one earned its quiet. But it's a time-jump back to November 4, which is that step-ahead trick again, and if 42 is also soft I'll start counting pages.
 
-The goodbye kiss. VEE leaned in. Vee took the extra second. "She noticed it, and decided it was what she wanted, and didn't bother about it again." That's the line I've been waiting for since the practice-room hug. She's not calling it friendship in her body anymore, just in her head. And Randi holding her eyes "a beat past what a goodbye needed" is the second time this chapter Randi's mask slipped.
+What I'd text a friend at 1 a.m.: "randi's dad is a PPP fraud and vee saw it and is keeping it secret to PROTECT her. while randi is literally running a long con on her. I'm unwell."
 
-Gripes for the tally: "softer than the plan called for." I KNOW there's a plan, book. The jacket told me, and the whole structure tells me. Don't nudge me. And "Vee took it for the ordinary pleasure of a plan made" explains the irony as if I couldn't see it. The yolk running everywhere, "the middle, when it goes everywhere," is a little on the nose, though I laughed. The Anthro class is a great move: Tuesday and Thursday nights, "just us," no Cassie. That's Randi taking school nights off Pace. The tug-of-war is now a calendar war, and Vee thinks she's the one who suggested it.
-
-Also, Vee is paying with her card again and tipping well. Mimosas, Benedict, the shoes. The bill is coming.
-
-GATE 39 — All the Time
+GATE 41 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Two, three. And then there's mornings… and afternoons."
-WHY: The sex rundown is a summary of things I already lived through, and it sagged badly. But Randi's "It doesn't," the broken photo promise, and Vee being the one who wouldn't end the kiss are three real turns in one booth. My NEXT is higher than my CAPTURE because the photo is now a loaded gun, Anthro just gave Randi two nights a week, and I need to see Randi carry that picture up the hill.
+CAPTURE: 6
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "He clicked back a slide. Then forward."
+WHY: The first page was a syllabus, and I nearly bailed. The MIRA moment gave Randi a real wound and gave Vee a quiet, grown-up act of love that turns the deception inside out. I want the heat back next, and I want to know who the second bastard is.

@@ -1,22 +1,38 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · dated · 2026-10-24*
 
 REACTION
 
-God, the tragic, delicious blindness of Vivienne Thorne is going to kill me. She sits there across the white tablecloth thinking she’s handing Randi a funny little victory lap about the phantom blonde, totally oblivious to the live wire she just stepped on.
+Holy shit. Holy *shit*.
 
-When Vee described Sheri checking her out—the slow, appreciative, unhurried look taking in the keyhole shirt, the bare winter leg, the strappy shoes—and Randi’s thumb just *stopped* dead on her knuckles? My stomach dropped. Vee actually tells herself Randi is freezing up out of protective instinct, like a guard dog still worried about a threat to Vee’s relationship with Pace. Girl, open your eyes! Randi didn’t freeze because she thought Sheri was competition for Pace; Randi froze because a woman looked at Vee with pure sexual appreciation, and Randi is starving to know if the door to Vee wanting women is finally cracking open. And then Vee’s panicked, too-fast church-girl defense—*“No. Not my thing”*—slams the bolt right back in Randi’s face. You can practically hear Randi swallowing the glass.
+I need a cigarette and I don't even smoke. What did I just read?!
 
-And then we get the Sunday fallout: Pace asking her to get waxed bare. The coordination between Pace and Randi without Vee knowing it is chilling and hypnotic. Pace puts the request in Vee's ear, but who does Vee run to for coaching, validation, and the appointment? Randi. Randi immediately hands over her own aesthetician, tells her she’ll feel like the most expensive thing in the room, and maps out the week behind her eyes. It is Dr. Marsh’s grooming lecture made entirely real. They are preparing her, smoothing her down, passing the dish back and forth.
+When he told her to get waxed bare on Sunday, I thought, *Okay, typical Pace, he wants her stripped down, vulnerable, ready for worship.* Then the sheer agony and psychological flaying of that waxing appointment in 65—feeling like a piece of meat under Sondra's bored, professional hands, mourning the lack of tender meaning in being pinned down, and then having to roll over on her stomach… I felt every single ripped strip of wax in my own chest.
 
-The goodbye on the sidewalk made the hair on my arms stand up. Vee isn't just accepting the affection anymore; she’s anticipating it. She turns her face up with her eyes already closed, waiting for Randi’s hand on her jaw. And Randi giving her that hesitation—pulling back just a breath, waiting, and then going back in for a second, lingering mouth-to-mouth kiss—before Vee casually buries her lips in Randi’s neck? That’s not friendship. That’s a ritual. Friday is already circled in red ink on my calendar.
+And then she walks into his house, blows his mind by taking control and blowing *him* first—kissing that terrible thigh scar with pure grace, no questions, just claiming him—and then… the tray. The brushes. The fruit.
+
+"A gooey coat. Helps the paint stick."
+*Gesso.*
+Using her own arousal as the primer. Dipping the bristles into her wetness, parting her, gathering her up, and painting her bare mons with herself. The absolute *audacity* of this man! My jaw hit the floor. That wasn't just kinky; it was psychological wizardry. He took the exact thing that terrified and humiliated her—the fact that she leaks, that she feels "too much," the church-girl shame of her own body's excess that made her choke on tasting herself in chapter 60—and he turned it into the sacred medium of an actual work of art. He literalized the "hothouse" richness. He made her watch herself become a feast: cantaloupes, grapevines, a deep black-red cherry right over her clit.
+
+The dynamic of the control—*moving means the brush goes away, stillness brings it back*—was so intensely erotic it made my stomach drop. She had to surrender completely. She couldn't perform; she couldn't rush him. She just had to lie there, held by the bed, and receive.
+
+And then the eating of the picture! Licking the paint, licking the gesso, erasing the art by mouth until she’s screaming through three orgasms—and then coming up to kiss her. That moment where she searches his mouth: *Salt first... hothouse warmth... breath and scent...* She got the taste. She finally, truly got the taste of herself, filtered through him, and instead of recoiling like she did on Saturday morning, she kissed him *harder*. The threshold got crossed, completely seamlessly, without a lecture.
+
+And then that final beat. God, Helen Rivers is a genius. Vee lying there, stiff with dried paint, looking at that breathtaking, obscene photo on her phone. He didn't ask for a copy. He made it hers. And the very first person her mind goes to? *Randi.*
+"Not that she'd ever show her. God, no. This one was too much."
+"She would not be telling her about this."
+
+BULLSHIT, VEE! You are lying to yourself! The second a girl says "I'm definitely not going to tell her," it is the ONLY thing she wants to tell her! And knowing what Pace and Randi did on Thursday in chapter 61—knowing Randi was riding him, begging him to hear how much she wants to touch Vee's breasts, practically weeping over the thought of her—the dramatic irony is suffocating. If Randi sees this photo of Vee painted like a split-open fruit with her own wetness running down the sheets, she is going to spontaneously combust.
+
+This chapter fired on every single cylinder: the prose was gorgeous, the psychological progression on Vee’s shame was so damn satisfying, and the heat was off the charts.
 
 ***
 
-GATE 64 — Between
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological tension in that booth was suffocating, especially when Randi froze at the mention of Sheri checking Vee out. Watching Pace and Randi groom Vee from both sides while Vee thinks she's just living an enchanted life is masterclass pacing. Friday's appointment can't come fast enough.
+WHY: The erotic imagination here was breathtaking—using her own arousal as gesso to paint her like a feast completely dismantled her shame, and the ending hook with the phone picture practically guarantees a nuclear explosion with Randi tomorrow.

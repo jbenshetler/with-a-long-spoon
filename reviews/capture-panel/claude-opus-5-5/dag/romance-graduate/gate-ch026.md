@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4425eb351a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0dc82afa8adc · experiment merge-space · dated · 2026-10-25*
 
 **REACTION**
 
-She lied. "She cried." Vee did not cry in that room. I was there for the whole chapter, so I know. She pressed her palms into her eyes and laughed herself sick over Edna Mode. Randi gave Pace a weeping girl because a weeping girl is the better story, and it makes Randi the one who comforted her. That one small fake detail went through me cold. The confidences don't just travel, they get *edited* in transit, the same way Vee edits for Meg and Kayla. Now Randi keeps two sets of books too.
+"She cried."
 
-Then the thing I'd text at 1 a.m.: *she told Vee "not today." Then she drove to his house that night.* "Give her a day," to him and to her both, "as if the day were his to give." Pace even notices it and sets it aside, because of course he does. Randi bought herself Friday night with Vee's apology and spent it in his bed. I'd suspect she was being kind if she weren't also the one who told Vee "he won't text you" and then told him nothing that would make him text. She's holding both phones.
+She didn't. I was in that room a chapter ago. Vee fixed her sad-clown face at her own sink, walked across campus eating an apple, and told it straight in the desk chair. She laughed about Edna Mode. Randi handed Pace a crying girl because a crying girl is softer and needier and easier to move around. It's such a small lie, and it told me more about Randi than any of the slips with the accent did. Then there's "Give her a day," which Pace notices is said "as if the day were his to give." Right, Pace, it isn't yours. Randi set the schedule this morning, out loud, in her bedroom, and now she's delivering it to you as a forecast. She's running both of them, and for one line he almost sees it.
 
-The bench. FINALLY. I was right that it's the table against the wall. She folds her clothes on it and looks at it "not the look you give a table," and Pace remembers her facedown on it saying *please*. Randi has been on the thing I've been waiting for Vee to find. I didn't expect that to feel like jealousy on Vee's behalf, but it did.
+The sex scene is the whole engine of this book, and I'm uncomfortable admitting how well it worked on me. Randi rides him and tells him about Vee in her bra, Vee on her rug, the slow walk around her, her hands up under the skirt. Then: "she made a sound and hoped I didn't hear it." I *was* there for that sound. I watched Vee hope it wasn't out loud. Now it's being served up as pillow talk while she clenches on every word. That's hot and it's a violation, and the book knows the two are the same thing. That's why it lands. I'm angry on Vee's behalf and I'm turned on, and I don't get to pick one. That's exactly what I came to this book for, and it's horrible.
 
-The sex was hot, and the hot part wasn't the sex, it was the telling. "I had her standing in my room this morning. In her bra." I'd felt that thumb behind the knee from Vee's side yesterday. Now I got it from Randi's side, and she *heard the sound*, and she's riding him while she spends it. It's the jacket's promise, finally made literal: everything Vee confides travels. Except this wasn't even a confidence. It was Vee's own skin, handed over without her knowing anyone was keeping score. It turned me on and it made me feel a little sick for her, both at once, and that's exactly the knife I came for. And I believed Randi completely on "I haven't stopped thinking about her." Her voice "went somewhere without her." She's not running this anymore. She came through the door *pleased and letting it show*, and that's new and scary.
+What's really changing is Randi. "I haven't stopped thinking about her." Her voice "had gone somewhere without her." For the first time she's not reporting for the game, she's confessing. And she comes through the door pleased and *lets it show*, after a whole chapter of eating everything on her plate. She's happy because Vee came to her. That scares me more than the starving Randi did.
 
-Pace keeping Vee's actual words from the bar to himself, "those were his": that's the hope I keep clinging to, and it held.
+The things I'm holding onto: Pace keeps what Vee said at the bar to himself. "Those were his, and that was Vee's." Twice now he's kept something of hers back from Randi. That's the thread I'm hanging on. Then he babbles to Sheri about Vee's thumb on the walnut grain, and Sheri says "Listen to you," and he doesn't even know what she means. Lovely. He's gone and can't see it.
 
-Gripes. "Playing with your wood" is a groaner. And "The tit goddess was generous with that girl" made me wince. I get that it's Randi's crude bedroom voice, but it cheapened the moment for a line. And we're now on a Randi-at-his-house template too: arrive, wine, tell, sex, chill, blanket, sleep. This one earned its retelling because of the lie and the bench, but the next one had better break the mold.
+THE BENCH. It's the table against the bedroom wall, not the low table in the den. I had the wrong room. Randi folds her clothes on top of it and looks at it in a way that's "not the look you give a table." Facedown, "please," the voice he's never heard from her since. So now I know what's waiting for Vee, and that Randi went first and has never stopped wanting it. Every time Vee takes another step, the bench is the obvious next one.
 
-Now Saturday night. Vee walks into that house in Randi's shoes and Randi's scarf, with the knot Randi's hands taught her. Randi dressed her for him, and told him "you wait." I can't not read that.
+Sheri's great. Faster on the climbs and never lets it go unmentioned, comments on women like the weather. Finally somebody in Pace's life who isn't in the game. But "If that's not already complicated, it will be. But I bet it's worth it" is the book clearing its throat at me. I'd already gotten there. Also, Pace calls it "two of them at once," like he's dating two women. He isn't. Vee doesn't know there's a "two."
 
-GATE 27 — Space
+Small eye-roll: "the tit goddess was generous." I believe Randi would say it. I still winced.
+
+Saturday night is next. Vee shows up in Randi's shoes and Randi's scarf, with Randi's timing, to a man Randi warmed up the night before by telling him about her thighs. It's dread, and I'm going to read it right now.
+
+**GATE 27 — Space**
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "The tit goddess was generous with that girl."
-WHY: Taking the retelling and making it a lie is the smartest the book has been about its own weak spot. And "not today" turning into Randi's own Friday night is the sharpest the dread has felt. I need Vee at that door in those shoes, now.
+ALMOST-STOPPED: "The tit goddess was generous with that girl." It was a wince, not a real exit.
+WHY: The lie that Vee cried, and Vee's private sound sold as sex talk, made me furious and kept me hot at the same time, which is the exact both/and I came for. The Sheri coda cooled the chapter a notch, but it ends pointed straight at Saturday night, with Vee walking into a room Randi has already staged.

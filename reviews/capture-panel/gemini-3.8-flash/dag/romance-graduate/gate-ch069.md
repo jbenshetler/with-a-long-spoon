@@ -1,20 +1,14 @@
-*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2db97916f454 · dated · 2026-10-24*
 
-REACTION
+REACTION — The sheer psychological tension in this book continues to be completely unreal. Seeing Pace in the raw, heavy atmosphere of that gym was riveting—the absolute, silent control he exerts over his environment, the contrast between the careless college boys and his quiet, terrifying competence when she got hurt. He doesn't raise his voice; he just drops it an octave and the whole room yields to him.
 
-Cassie is the only person on this entire campus with both feet on the ground, and this tiny scene just about broke my heart.
+And then what happens back at his house. The absolute torment of caretaking blending seamlessly into sensory dominance. The pacing of the medicated balm traveling down her body while he reads every twitch of her breathing—it was suffocatingly hot. She is actively starving to be consumed, practically begging for the burn because she wants an outlet for the chaos tearing her apart inside, and he gives her the exact measure of what she demands while withholding the release to protect her physical frame. The dynamic where his gentleness feels almost cruel, holding her completely still while she catches fire, is peak tension. She is carrying so much unresolved heat right now between the booth in the diner with Randi's foot and this unspent burn in Pace's bed that she's a walking matchstick. I am desperate to see who strikes it next.
 
-The absolute whiplash of Vee’s life right now: from having fruit painted on her bare mons and confessing an erotic awakening on Pace’s bed, to dodging Randi’s mouth at the dorm door, to standing in a drafty room with her church-coat on, taking a box of Cocoa Pebbles because it is the only appetite she is allowed to admit to out loud. It is so painfully, perfectly college. You can be in the middle of a massive, identity-shattering psychosexual crisis, but your roommate can still look at your wrecked face, bypass all the defensive bullshit, and just hand you cereal because she knows you forgot to eat.
-
-"Is this what you want?" Cassie asking that—not *what happened*, not accusing her, just cutting straight to the core of the rot—was brutal. And Vee’s immediate flinch into "You just hate sororities/you've never liked her" is so childish and real. When you’re caught doing something you don't even have a name for yet, you reach for the oldest, dumbest fight in your arsenal just to put up a wall. But Cassie didn't bite. She just let the plank rot on the floor and offered her cereal.
-
-It’s a tiny beat—barely a scene, really—but the emotional architecture here is doing serious heavy lifting. Vee’s entire world is accelerating into this hyper-sensory, manipulated fantasy orchestrated by Pace and Randi, and Cassie is the sole anchor tethering her to plain reality. That silence between them felt massive.
-
-GATE 70 — Some of Mine
+GATE 72 — Burn
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It’s a very short chapter, almost just an epilogue to the previous one, but Cassie's grounded presence is the exact reality check this book needed right now. The Cocoa Pebbles gesture completely disarmed me, and now I'm desperate to see how Vee handles Saturday brunch with Randi.
+WHY: The transition from the calculated gym confrontation to the agonizingly slow burn of the balm was masterful. The emotional and physical restraint makes the tension unbearable in the best way possible.

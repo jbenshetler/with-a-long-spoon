@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha dd5e714ddb25 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
 
 **REACTION**
 
-He was going to say it. "Vee, I l—" and SHE CUT HIM OFF. I actually put my Kindle face-down on my chest. After fifty chapters of me yelling at this man to spend the word, he finally opened his mouth to spend it, and she unbuttoned her coat over it. She doesn't even know. She read his face as the wall coming up. I don't think it was the wall. I think that was a man about to jump. Then the book lets her lie there afterward with "no room in her for wanting anything he hadn't given," and I'm screaming, because he nearly gave it to her and she'll never know. That's a brutal piece of irony and it's completely earned. No one manufactured it out of an unsent text. Her plan was "don't do it with words, words are the whole war," and it worked so well it shut the words out.
+I was not expecting the book to do this right after the doorstep and the breakfast. It's two people in a kitchen, her naked with her wine and him at the sink, and it's the best answer to December the book has given her.
 
-And whose plan was it? Randi's. Whose shoes? Randi's. Then he looks at her in those heels and says "Those stay on," and my stomach dropped. Does he know those shoes? Has he seen them on someone else, under that cashmere blanket? Was the music, the lamp, the jeans "still, or again" because a text came over that afternoon saying *she's coming tonight*? I can't prove it, and that's what makes it delicious. Vee walked across the whole night in a costume another woman picked out, and she thinks she's taking her own life into her own hands. Brooke's "you need to choose" is still sitting in my chest from last chapter too.
+She walked out of his house asking "what am I to you out there?" and he couldn't say it. Now, with his back to her, he says "I want to meet your people." It's the same man and the same refusal to use the word, but he's answering with "Believe what I do." Last time that line made me want to throw the book. This time it actually lands. He kept Meg's boots and her heel lifting out of the right one, and he handed back her own line about Kayla in his flat voice. I melted at "He had been listening. Not the polite kind." And then "Bring Theo," reaching for the next pan, no question, no jealousy. Vee feels it "settle in her, warm side down," and so did I.
 
-Now the heat. FINALLY. This is what the jacket promised. The mirror scene is the best thing the book has done with her body. She takes the "stripper's body" word, lets it be said, and *uses* it, then stops herself and calls the stopping powerful. That's interiority and explicitness in the same sentence, which is what I came here for. The bra drawer bit, "the first time all day the plan had had to overrule her own hands," and "last thing, only thing" with the shoes are a real woman's thoughts, not a romance heroine's. Kayla's laundry monologue while Vee stands there bare under the wool made me laugh out loud. The stain on the lining, "it only told her she meant it," is the old shame turned inside out, and I loved it.
+Then the Chili's picture came back to her, the fork being squared. She asks him to pick the place and doesn't say why. She's protecting him from loud rooms without ever telling him she noticed. That's the grown-up emotional intelligence I came for. Same with the Cassie bit, refusing to build a dinner where one of her people has to be a good sport. "She'd watched somebody be fine about it before. She wasn't going to look at when." Who? Her mom? Herself at Randi's tables? I want to know.
 
-My gripes. The open-coat-on-the-doorstep is a trope I've read forty times, and the book knows it ("the kind of reveal she'd only ever seen in a movie"), which only half lets it off. The cop car was pure sitcom. It jolted me out, and I nearly rolled my eyes. A few lines on the doorstep slid into stuff I could recite from memory: "as if he would die without the taste of her," "pulse after pulse." Ten books ago I'd have skimmed past those. Here they stick out, because the rest is so much better.
+Now my suspicion. He says "I want to meet your people" and her brain fills in *Randi*, with her friend's name "already on it." A dinner, "the three of us." He steers away from it right away, toward Cassie and Meg and a whole party. Is that because he's already met Randi a hundred times and can't sit at a small table with both of them and act? I think so. And she's sitting on "the lacquered seat of a chair he'd made," which is the seat from his drunk fantasy with Randi's feet on it. I noticed, book. I'm cold. "Let me handle it" is lovely and also a man taking control of a room where his two games meet.
 
-Then the pancakes saved it all over again. The way he makes them, lumpy batter, "made and not poured," and him down on one knee: "I'm sorry. I never meant to hurt you. I missed you so much," with his voice cracking. That's the closest he's come, and it's still not the word. Her "I haven't eaten anything real since the last time you cooked for me" set off my weight alarm, though maybe the book means it as the crackers line coming back.
+Also, I can't stop thinking about "Vee, I l—" on the doorstep two chapters back. She cut him off. He was trying to say it, and she opened the coat instead. Nobody has brought it up since. That's a bomb sitting on the porch.
 
-Cassie's "Hmm" was perfect. A whole chapter in one syllable.
+This is a short, quiet chapter after two very hot ones, so it doesn't trip my stall alarm. It reads like a breath, and the last line has an engine in it. A party with Randi and Pace in the same room, both pretending they "said about nine words at the coffee shop." I'd text a friend: "HE WANTS TO MEET HER FRIENDS. and Randi's going to be there. I'm sick."
 
-What I'd text at 1 a.m.: *he said "I l—" and she interrupted him with her BOOBS. also I think the shoes are a plant. also I'm fine. I'm not fine.*
-
-They didn't talk about December at all, and the stall is broken. Now I'm scared it'll be sweet for exactly two chapters.
-
-**GATE 52 — Nothing Underneath**
+**GATE 54 — Back**
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren."
-WHY: The heat finally came, and it came with her mind attached, which is the only way I want it. What has me reaching for the next chapter is the cut-off "I l—" and Randi's heels on her feet while he says "those stay on." Everybody won tonight and nothing got fixed.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: It's a bridge chapter that's really two people talking, and it quietly answers her "out there" question with an action instead of the word. It also sets up a party where everyone who's lying will be in one room, so I'm reading on right now.

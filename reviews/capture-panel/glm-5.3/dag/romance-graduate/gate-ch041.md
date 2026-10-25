@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch041 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch041 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this chapter *hurt*, and it's a good hurt, the kind I stay for. She built that sentence for WEEKS — crackers and a meal — and I could feel it sitting in her mouth, assembled like a poem, and I knew, I *knew* before she said it, that the book was going to make me watch it land on something softer than she meant. "I love how good we are together." God. That's the sentence a man gives you when he heard everything and is answering the part he can afford. The book even shows her finding the exact shape of it — *not the same shape* — and then does the cruelest, truest thing: files it in the pile. THE PILE. "She did not look at the pile." I looked at the pile. I've been looking at the pile all book — the small repair work, "I don't go back," the word he won't give her out in the world. This is where all of it is going and I can feel the floor tilting.
 
-Oh, this book. I sat down to read one chapter before bed and it's midnight and I'm sitting here with my hand over my mouth because of a flannel shirt.
+And the thing that got me almost more than the deflection: "his hand had begun two different responses and put both down before either had finished." Pace HEARD her. He took two breaths he'd never taken before. This isn't a man who missed it — this is a man who caught it full in the chest and chose a shape he could stand behind. Which is worse, for her, and better, for him, and I can't decide which way I fall. My whole note file is screaming: he said "just for me" about the costume — his closest thing to a word — and she just offered hers, her absolute best one, and got "I'm glad you feel it too." The grammar of that is *you* feel it. He made it hers alone.
 
-Five nights. That's the whole chapter's engine and the book knows it — she called the break herself, for good grown-up reasons (the paragraphs read three times, the textbook, the burn-down-the-wick of it — that detail actually reassured me, the counting econ girl isn't dead, she noticed the spending), and he just... let her go. "Of course. Take the time you need, I'll be here." And the book names the exact thing I'd have felt: some unreasonable corner of her wanted him to fight for the nights. I love a book that knows wanting to be fought for is unreasonable AND true. That's the interiority I'm starving for right there — the feeling isn't tidied, it's *ledgered*.
+Also — small thing, maybe not small — "the words went through him first." She can't test it because the test routes through the man she loves. That's the whole architecture of the book in one clause, and the same architecture Randi's running on her, and I don't think that's an accident. Everyone she can't ask.
 
-And then the doorway. "He must have heard the car; he always heard the car." The bag sliding off her shoulder and she never heard it land — that's the kind of sentence I'd underline if the Kindle let me. The whole hallway striptease was hot precisely because it was undignified — hopping on one leg, the jeans inside out at her ankle, him holding her bra strap without pulling so she has to spool herself out of it. He makes her do the last of everything herself, always, and it's never cruelty, it's the same grammar as the drawer: he builds the place, she walks in. And the "you're not helping" / "I'm helping" exchange made me laugh out loud alone in my kitchen. Then her body publishing the number she'd kept private — I know exactly what that shame-flush is and I've never seen it written without apology before.
+This is the second quiet chapter in a row, technically — Cassie dinner, then this. But it's not quiet in the way that stalls; the laundry room coda did the thing where a chapter reaches forward and hooks you. She retired the sentence. It will not come back. Which means the book just told me the *next* one has to come from him, or from nowhere, and Thanksgiving is over, the fall is closing, and the pile is not empty. I'm nervous in the specific way you're nervous when you love people who are wrong-footing each other gently.
 
-The pizza. I could watch this man reduce a sauce for a hundred pages. "He wasn't performing any of it for her" and she can't tell whether the dough or she got the larger share of his attention and *doesn't mind* — that's what actual security in a relationship reads like, and it made me realize how rare it is that a book lets a heroine feel safe without also defusing her.
+Heat: none, and I didn't miss it. The quilt and the hand on her shin were enough body in the room. Romance: a turn, a hard one — that's a 3 even though nothing "happened," because something happened.
 
-And then the shirt. The SHIRT. She's been sleeping in his smell every night she wasn't there, it went stale, went to nothing, and she washed it and brought it back and — "This is still my shirt. You don't get to keep it." I had the tears with her. He thought she was returning it. One beat of hurt, "he decided not to ask. He was good at not asking things." And then he pulled it on right then, two shirts in his own kitchen, and that's the whole answer, as it always is. I'm wrecked in the good way. This is the tenderest chapter since the drawer.
-
-Small watchful note: no Randi in this chapter at all, which after 41 is almost a relief — but I clocked the pattern. Ch 41 gave us MIRA and Vee choosing kindness over the con (she knows how not to weaponize an advantage; she is nothing like the people running her). This chapter gives us the flannel. The book is stacking tenderness before Thanksgiving, and I know what that means. I'm braced. The blurb promised cost and the blurb has never lied to me yet.
-
-GATE 42 — The New Ordinary
+GATE 44 — Seconds
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 7
-HEAT: 2
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The shirt scene hit me harder than most sex scenes in other books manage, and the doorway/hallway had real charge — but it's a warm-embers chapter, not a cliff, and Thanksgiving is the thing I'm actually sprinting toward. The flannel bought my loyalty for at least three more chapters on its own.
+WHY: The near-declaration and the misshapen echo gutted me in the exact way I read these books for — and the pile, and the retirement of the sentence, just loaded a gun I need to see fire.

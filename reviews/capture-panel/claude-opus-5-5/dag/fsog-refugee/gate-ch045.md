@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
 
 **REACTION**
 
-Oh, the shirt. I'd forgotten I was carrying it until it came back. She washed it in forty-five because it had stopped smelling like him, and he put it on over his own shirt in his kitchen and wore it all weekend for her. That was one of the tenderest things in the book. Now here it is in her bunk at two in the morning, and it's doing its job perfectly, and that's the problem. Every part of him is in the cloth: the sawdust, the salt, the rooms he keeps warm for her. And none of it tells her what she is to him. Then "it was warm because she was warm" hit me the way the cold hits her when she pulls it off. The comfort was her own heat coming back at her. I've been in that bed. Most of us have.
+I didn't expect to get Randi from the inside, and now I can't stop seeing her.
 
-What I love is that she doesn't put it back on. She lies there bare in a cold room with the window cracked two inches and won't let herself be soothed by a stand-in. She doesn't write a text designed to fish for something. She doesn't let a small warm reply put her to sleep. It isn't a breakdown. It's a refusal, and it's hers. I can't tell if it's self-punishment or the start of a spine. I think she can't tell either, and I trust the book more for not telling me.
+At first I was impatient. The last thing I had was Vee crying in a buttoned coat with her bag still in the car, and the book took me to Gstaad: steak and eggs, a tennis bracelet, a stranger in the lift line. I wanted to know whether Pace texted. I still do, and the book hasn't told me. But then came "eating her revulsion" in the first paragraph, and "the invented ones were safer than the real ones; they always had been, at this table," and I sat up. Revulsion at her *father's* hug? I'm keeping that one. It reads like more than ordinary disappointment in a parent.
 
-But I know things she doesn't, and it stings. "Across town in his own bed, gone down easy as a man with nothing grinding in him." Maybe. Or maybe Randi is folded over the back of his couch telling him how Vee leaned up after her on the sidewalk. I've seen him use that word, "work," and I've seen him with Randi's head under his jaw saying "I'll be careful with you." That's the closest he's come to it with anyone. After that, Vee lying uncovered in the cold over the word he hasn't said is almost too much. I want to shake him again. Then I remember Chili's, the fork squared to the table, "I'm listening now." Not saying it may not be withholding. It may just be how he's built. She's reading a man who can't take a loud room as a man who won't take her. Nobody has given her the information that would fix that, and the person who could is the one sitting across the brunch table collecting her confessions.
+John is a perfect fairytale, and the book knows it. The lift-line game was charming. I laughed when the three made-up kids got names, and the skiing paragraph got me: he had the run to spare and spent none of it proving it. For about ten pages I was falling for him too, which I think was the point. Then she compares the dancing. Pace's lead is "the lightest pressure, a thing she'd had to be listening for… and it left the rest of the way to her." John's hand just *sends* her. She decides easier is better. Then John never asks where the night is going, and she likes not being asked, and "Pace made her say it, out loud, every time."
 
-My honest hesitation is that this is the third chapter in a row of her circling the unsaid word: the porch, the bed after Chili's, now the bunk. "Not the big one and not the small one" came back almost word for word. The ache is real and the writing earns it, but I'm starting to feel the loop. This was short and exact, and I'll take one more. But the next thing needs to be him in a room with her, or someone saying something out loud. I've done my time in the cold with her. Now I want her to get something for it.
+That sentence is the whole thing for me. It's the consent I came to this genre looking for, and the book handed it to me through the woman who doesn't want it. It doesn't wink at John's assuming, either. Afterward the sex is a "good sandwich eaten fast," and she's cold everywhere except the one seam where she's touching him. A lipstick ring left on him "from a long way off." That was erotic and empty at the same time, and the emptiness was the point. I've read a hundred alphas who never ask. This book took one, made him faultless, and showed that what you get from him is nothing.
 
-GATE 49 — Bare
+Then Randi lets herself admit things. "Pace on his worst night reached further than this man had managed at his best. She wished it wasn't true." And "Vee was her gorgeous." She says she has never told anyone she loved them without meaning it as currency, and with Vee there's no catch. I want to believe her, and I mostly do. But I've also got "somebody has to get her used to my mouth. It's *work*" in my notes, said on Pace's couch. So either that line was a performance for him, or this one is a performance for herself, and I honestly can't tell which. And her plan is to keep the word under cover and "let Vee arrive at it on her own." That is still steering Vee. It's just steering out of fear now instead of appetite, and I'm softer on her for it, and still wary.
+
+The texts broke me a little. Vee writes "i'm here if you want to talk. or not." Vee is the one who just walked out of Pace's house crying, and she's the one checking on Randi. Randi sends back the fairytale, "every word of it true. None of it the thing," then the one line she means, and turns the phone face down. Then she goes back and lies down in "the warmth she could borrow and could not make." The cold she brought in with her and would carry back out is the book's whole temperature system again: Pace turning the heat up hours early, Vee lying bare in her cold dorm room.
+
+At 1 a.m. I'd text: *the villain-ish best friend just went to bed with the perfect rich hot guy and the book made it the saddest thing in it. and Pace is in it without even being there.*
+
+What I miss: Vee and Pace haven't been alone in a room since the door closed, and now it's New Year's. I don't know what happened over break. I'm not panicking yet, because this chapter was about them anyway.
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
+CAPTURE: 8
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "there was no name in her for it, not the big one and not the small one" — the book repeating itself after three chapters on the same ache.
-WHY: Taking off the shirt and staying cold is a real choice that belongs to her, and the "warm because she was warm" line got me. But I'm at my limit for the unsaid-word loop. The next chapter needs a door to open, not another night of her lying awake.
+ALMOST-STOPPED: "Randi delicately clomped through the snow toward the lift queue": I realized I was getting a whole ski romance instead of finding out what happened after Vee walked out.
+WHY: The book took the man who never asks, made him perfect, and showed he's empty, and it let Pace's "say it out loud" carry the whole chapter without him on the page. I understand Randi now and trust her a little more, but I still don't trust her plan. I need to get back to Vee and to whatever has happened between her and Pace.

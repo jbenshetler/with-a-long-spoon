@@ -1,32 +1,26 @@
-*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7514bd75e597 · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
 
 **REACTION**
 
-The swimming opening got me before anything else did. An hour of the black line and her own breath, and her body "needing no opinion from her about itself." Then the toffee sweater bought in the smaller size, and the line about shopping with your eye and not your budget. I know that arithmetic. I like her so much when the book lets her just be pleased in a mirror and leave it there.
+Oh. Oh, there it is.
 
-Then Marsh pulls out a lice comb and talks about grooming, and I sat up. "Watch who grooms whom in a troop for one week and you can draw the whole politics of it." Then the cleaner fish that could swallow the little ones whole and never do. Then the comb going hand to hand until some row can't bear to give it up. Then Vee walks into dinner and gets groomed for two hours. The book isn't being subtle, and I don't mind that, because it's telling me how to read the next scene.
+I knew it was coming. The jacket told me on the first day: *she doesn't know there are three.* I've been counting the blanket and the wipe and "they share an interest" for twenty chapters. Knowing didn't help. I read the first line and my stomach dropped the way it did when Ana walked out, except this time I'm not the one leaving the room. I'm stuck in it, watching these two have very good sex while they trade my girl's last week between them.
 
-The restaurant was hot, and I won't pretend it wasn't. Vee retelling the truck and the apron morning with her body right back in it: the wrist "toll booth," "he parked," the toes, the trill like a nineties phone, "he opened me like the orange." The apron story is everything I come for. She puts her palm up and he stops dead from across the room. He looks puzzled, which she's never seen. She leads, he follows, he reads her. When it's just the two of them, Pace is the man I keep wanting.
+Worst first, so I can be fair afterward. "She kisses me first now." "She kissed my neck again." They're *reporting*. The parking lot, the hug on the sidewalk, every bit of Vee's nerve she thought was hers alone, all of it turns into currency in this bed. Then I went back over the last three chapters and felt sick. Randi's grip like bones at "Vee's boyfriend." Her glazed quiet at the roadhouse with one hand gone down into her lap, which I read as being *moved*. God. And "Did you take it all?" "Didn't spill a drop?" "I don't." That wasn't a best friend teasing. She was pulling out exactly the details she needed, and then she went home and licked it off his stomach in front of him. Vee lay in her dorm with her fingers a breath from her mouth, unable to close the distance, because Randi had put that distance there on purpose. Chapter 63 is retroactively the saddest chapter in the book. Vee thought she was alone with her own body in that room. She wasn't. Their hands were already on the question.
 
-What I was really watching, though, was Randi's hands. "Did you take it all?" "Didn't spill a drop?" "You *did* it. And you can't even say it." The book calls that "delighted and tender and without a scrap of mercy," and something in me flinched, because the book is enjoying the no-mercy part. Vee *can't* say it. Her mouth goes dry, her hand shakes on the glass, and Randi keeps pressing. "Don't you dare fade to firelight." Meanwhile Randi's hand is down in her lap, her nail is on the rim of the glass again, and her breath isn't steady. Randi is getting off on this across the tablecloth, and Vee thinks she's being a good audience.
+What I can't do is call it cruel, and that's what keeps me here. Between the two of them the consent is immaculate. "My turn." Her brows go up, and he waits for "All right." He stops at the first inch and makes her say it again, and she's laughing. They tease each other like people who've been honest in bed for years. "Pace made her say it out loud, every time." I see it now, and it's exactly the man I came for. The fuck-doll line made me wince, but it's hers, said sweetly, and she's steering. Nothing in this room is coerced. The whole problem is the girl who isn't in it.
 
-Is Vee consenting? Mostly, yes. She came in dying to tell it and she's glowing, and the jacket keeps promising nothing is taken that she doesn't hand over. But it's being *pulled* out of her, and the pulling is what I can't settle about.
+Then the end ruined me in the other direction. "She makes me happy." Randi: "I want her to know exactly what she does to me." That's the most honest sentence she's said in the whole book, and she said it to the wrong person. Then "You know she loves you, right?" and "She's not the only one in love," and Pace *couldn't tell her she was wrong*. So he finally said it, sort of, by not denying it, to Randi, with Vee's name hanging between them and Randi on top of him. I wanted that word on a porch. I got it here. I'm furious, and I'm also crying a little.
 
-Then "I don't." That one went cold down my back. The whole taste-of-herself thing was never really about Pace. Randi is softening "gross, wrong" ahead of time, because the taste Vee just called gross is a woman's taste, and Randi wants Vee's mouth someday. "It was powerful. It turned me on." "How does he act?" Then "Mm," and she eats the bread, and the subject is closed forever. That's very good manipulation. It's tender and it's patient, and it's still steering. Vee walks home with Randi's sentence and her own "he's enthusiastic" stuck in her head like a song. That's exactly how you plant something.
+At 1 a.m. I'd text: *they're not using her. they're both in love with her and too scared to tell her, so they're telling each other in bed. somehow that's worse???*
 
-Then "You picked well." I put the book face down for a second. She didn't pick. The book even has Vee half notice it: he was already halfway across the floor. Randi says it with a straight face, a woman who picked *for* her, praising her for the choice.
+I don't trust either of them now. I still believe both of them. I need to see what happens when Vee finds out, because she will, and the hau wants to go home.
 
-And then the neck. "Must have forgotten," my foot. She laid it open, and the rise in her body "went on a beat too long." "Ticklish." Randi, you're drowning in plain sight, and Vee thinks she won a little game.
-
-One tiny snag: the food was a braise over polenta, then the plate goes back with "the fennel thing" and a chop bone. I blinked at that. It didn't cost the book anything.
-
-Where I am: I believe Randi loves her, and I can't bear how good she is at this. The text I'd send at 1 a.m. is "the best friend just pre-approved her own taste for the girl and the girl doesn't know it."
-
-GATE 62 — A Clean Plate
+**GATE 64 — My Pleasure**
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 7
+NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "'You *did* it,' Randi said, low, delighted and tender and without a scrap of mercy. 'And you can't even say it.'" For a second the book was winking at Vee being cornered.
-WHY: Vee's desire is still hers, and the apron morning is the consent I came for, so I'm happy. But Randi is grooming her in the exact sense of Marsh's lecture, and "I don't" plus "you picked well" have me tense in a way I want to follow. I need to see whether the book knows what Randi's doing, or whether it thinks this is just flirting.
+ALMOST-STOPPED: "She kisses me first now."
+WHY: Vee's own boldness being handed over as a bedroom report is the closest the book has come to asking me to find her being handled sexy, and I almost shut it. What kept me was the consent between Pace and Randi being so careful and real, and the last page turning out to be about love rather than games. Now I need to see this frame break, or be named, in front of Vee.

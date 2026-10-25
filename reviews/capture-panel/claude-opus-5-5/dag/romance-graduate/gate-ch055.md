@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, the one line in this chapter that sat me straight up: *"'It's late. Is everything alright?'"*
+"Vee's boyfriend." I actually put the Kindle face-down on my chest for a second. After all of December, the walkout, "words are cheap," the bag left in the car, he gives her the word at a volume for three, in front of Randi first. Then he keeps saying it, six times, to every measuring face, until it's the room's running joke and he never seems to notice. That's so him. It isn't "I love you." It's the word he could afford, and he spends it over and over like he's making up for a debt. And Vee trying it on under her breath at the brisket made me ache. My girl.
 
-He didn't say that. I was there. He opened the door and said "Vee, I l—" and she cut him off with the coat. I'd half-forgotten that myself, buried under everything after. And now, telling her friends, she swaps in a polite, courteous Pace line that never happened. That isn't discretion, it's replacement. She's rewriting the one moment where he might finally have said the thing, and I can't tell if she even registered what she stopped. Did she hear "I l—" and decide it didn't count? Did she want to win so badly she stepped on the word she'd walked out over? That's the most interesting thing in three chapters and the book doesn't point at it. Good. Don't.
+Then Randi's hand closing hard enough for Vee to feel the bones. Vee reads it as "so happy for you." I read it as a knife going in. The book doesn't tell me which, and I love that it doesn't. The thumbnail under the rim with the nail going white is the same tell from the robin's-egg underwear story, and Vee is proud of herself for "moving" Randi. Oh, honey. The toast, "meeting Vee was the highlight of my year," hits differently when I know Brooke just gave her a "you need to choose." And Vee's hand landing on that wrist while Randi's whole interior is on fire is about the most painful dramatic irony this book has done.
 
-So now I count it: Cassie got the shrunken-sweater story, the girls get "we talked all night," and Randi will get "nearly everything." Every friend has their own version of the weekend. I flagged this months ago with the cropped photo, and now it's a habit, and it's cheerful, which is scarier than when it was anxious. "It sat on the table looking exactly true." Yep.
+I'm suspicious of Pace in a way I wasn't before. "They share an interest." "Who does?" "Randi. Your friends. All of them. You." That's basically a confession said out loud in a moving truck, and she takes it as a valentine. He's also doing exactly what Randi does at brunch: hand them the first line, lean back, let them talk. Two people who draw people out for a living, and I'm watching the second one work. "Randi said something you should hear" is them passing a compliment between them in front of her, and it made my neck prickle.
 
-The brunch itself was fun. Kayla is a delight in small doses: "This is the last morning of my life and it's going to be peanut butter crackers." Shrieking "in front of *God*." Meg's heating-pad story made me laugh. I liked Vee picking up the check for herself with Christmas money and doing no arithmetic. That's her growing up, quietly. But Meg's "make it right in their language" and "that's a big apology" kind of bugged me. Vee didn't owe the apology. I don't love the book having the girls frame the coat as her saying sorry, and I really hope that isn't the book's own view.
+Something else is bugging me. On the porch in 52 he said "Vee, I l—" and she cut him off. Since then she's told Kayla, Meg and Randi that he said "It's late. Is everything alright?" Did she even hear it? Is she protecting it? Did the book forget? I'm holding onto that one.
 
-My real problem is this: 54, 55, 56. Kitchen talk, dorm talk, brunch talk. Three quiet chapters in a row, all warm, all likable, all people being happy in rooms. The first was lovely ("tables have ends"), the second had Cassie's mom and the card, and this one is basically the girls getting their invitations to the Wednesday dinner. I was skimming the middle for the next line of dialogue, and that's my stall alarm going off. Meanwhile the actual bombs are offstage: Brooke told Randi "You need to choose," Pace is "handling it" for a dinner with Randi and Vee at the same table, and Vee is planning to take the not-gross-maybe thing to Randi. That's where the book is. Get me there.
+The truck. Yes. The blowjob in the lot is greedy and grown-up. "The man who did six things at once, down to zero" is exactly the kind of line I read this book for. Him fingering her through the lace while he drives one-wristed is hot, especially her holding the lace aside herself, choosing it again every second. One small gripe: every sex scene now has to call back an earlier sex scene (the county road, the coat lining, the September vents). Once is resonance. By this many it starts to feel like the book is admiring its own scrapbook. And the stretch where Pace works the room as the world's most perfect host leaned a little hagiographic. "Not one of them could have said why." We get it, he's wonderful.
 
-Who's at Wednesday dinner, and what's Pace building? He wanted everyone. That might be love, or it might be cover. I want Randi's face across from him with Vee in the middle.
+But Cassie talking whole paragraphs to him, and "a whale under a boat"? That one I'm keeping.
 
-GATE 56 — Across
+The last image, "a glass turn a slow quarter at a time," means Vee saw it, filed it, and drowned it out. And the stone of relief about not telling Randi the kiss thing is still under her breastbone. Thursday dinner is going to be loaded.
+
+GATE 58 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday"
-WHY: A charming bridge, but it's the third quiet room in a row and I felt my thumb speeding up. What keeps me here is the swapped doorway line, which is quietly huge, plus Brooke's ultimatum and a Wednesday dinner with all three of them at one table. If Tuesday's dinner with Randi isn't charged, I'm going to start bargaining with this book.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "everyone he left was standing a little taller than when he got there, and not one of them could have said why."
+WHY: He said "boyfriend" out loud, Randi bled quietly into a wine glass, and Vee missed all of it while loving them both. I don't trust Pace's "they share an interest," and I want Thursday's debrief right now.

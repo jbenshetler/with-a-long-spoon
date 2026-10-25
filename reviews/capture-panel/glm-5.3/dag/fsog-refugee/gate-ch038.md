@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
+*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION — So Randi's finally back at the table, and the hum I've been hearing for chapters just got louder — except this time it didn't come from anything Randi *did*. That's what's unsettling me. She barely steered anything. She asked "how it is," and Vee poured the whole spring out over eggs Benedict — the sex, the sheets in both fists, the sleeping, "like he wants *me* with the body attached" — and the part that got me was Randi going bright and unfixed, that little head-shake, the breath she couldn't smooth. The jacket said it: *she has moved the two who arranged her spring as surely as they have opened her.* I watched it happen in real time at that booth. Randi came to harvest and got caught in her own field. There was no "did you deserve it" theatre, no glaze on the lip — she just got *reached*, and I don't think she was braced for it either.
+REACTION — Okay, this chapter is a gut-punch dressed as a group project, and I need a minute.
 
-And then the photo. My stomach did drop for half a second — I have "never share" underlined in red in my head — but the book kept the promise clean: *Vee* showed it, Vee's thumb found it before the rest of her voted, and when Randi needled her with "you only gave him half?" Vee reached for the whole thing herself. It was even more Vee than the original send — she wasn't going to be the girl who flinched, not at that table. That's my girl. She out-authored the con three times in one brunch without knowing there's a con. The two-of-them-laughing-pink-and-delighted moment was so warm I almost forgot to be worried, and then I remembered whose idea brunch was in the first place and sat with that for a minute.
+First the boring layer: a whole chapter of stats class and graphs, and I didn't once want the book to hurry back to Pace's kitchen. That alone tells you how far in I am. The three of them in the cold lecture hall — Cassie who "didn't carry things into rooms she meant to walk out of" — that's the Cassie I'd know anywhere, and the book writing her this sharp on four hours a week of page time is showing off.
 
-The kiss at the end — Vee leaning up that last half-inch, *taking a second of it for herself*, and noticing, and deciding. That's the jacket's second door being raised an inch, and it's being raised from Vee's side, on her own nerve, the same way everything with Pace has been. I trust this book's hands with that. What I trust slightly less is "Just us," coming out rough, and "Does he have a brother?" landing right after Randi's breath caught — she's still playing the game even moved. And now they've signed up for Tuesdays and Thursdays, seven a.m., a standing appointment in Vee's gray weekdays. The con just got a schedule.
+But the MIRA point. God. The whole time Randi's been explaining her father's businesses — brunch, the house, the Mercedes, the ease of a girl who grew up rich and thinks the money is clean — and now the one number in the whole data set that's a lie sits on top of her own name. "Cheating bastards," with no *these* or *those* — I read that twice, the way Vee watched her read the record twice. That's not a girl who knew. That's a girl finding out, in front of the one friend whose father got laid off by men like hers. And the book let it land on *Cassie's* line: "everybody cut anyway." Cassie said it as proof of her thesis. She has no idea she was talking about Randi's family. I had to put the book down.
 
-Also: Cassie did her elective "with that oddball Wardy" — a shrug, one line — and I felt the distance in that shrug like a cold spot. The clean table is drifting.
+And here's the thing that actually made my chest hurt: this is the second con. The jacket says Randi and Pace *chose her together*, and that's still ticking under everything. But this chapter just quietly showed me who Randi is when the truth arrives with a mask on — she takes it. She nods at Cassie's certainty because there's nothing else to give it. She doesn't spin, doesn't deflect, doesn't charm. She's not a monster playing a long game. She's a person — and Vee's read of her just got more complicated, not less. "The kindest thing a friend could do was not make her carry it in front of anyone." Vee *saw her* and chose to protect her — the exact thing Pace does to Randi in chapter 43, the seeing. These two women are being loved the same way by the same man and by each other now, and the book is braiding it right in front of me.
 
-GATE 2 — All the Time
+Also — I'm not letting go of the symmetry. Cassie's clean table just got an entry on it. Cassie is going to *present this graph.* Randi's family name, or the four letters, going up in front of a class. There's a bomb sitting in the write-up and nobody's defused it, and the last line — "easy to see if you knew to look for it, invisible if you didn't" — is the book telling me that's true about Randi generally. The con works the same way. Vee doesn't know to look.
+
+And small, selfish note: no Pace this chapter, and I felt it — first chapter in a long while — but the hum was so loud I didn't mind. This is the quiet before something.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 1
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: No Pace at all and I still couldn't put it down — that's how I know the brunch machinery works. Vee's confession was her wanting rendered from inside, the photo beat was entirely hers to give, and Randi cracking a little is the first real movement under the con in chapters. I want to see what Tuesdays at seven a.m. does to the hum.
+WHY: Nothing happened and I couldn't look away — the outlier chapter did what the whole book does, made the quietest thing in the room the loudest. I'd set down a hotter chapter for this one; I need to see whether the graph gets presented, and whether Vee ever says the name out loud.

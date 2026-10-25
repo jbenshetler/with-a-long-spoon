@@ -1,18 +1,28 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION — Oh, Vee. This made me ache in a way I did not enjoy, and I think it was supposed to. The worst part was not the pain. It was how quickly her willing yes to Pace became, in her own mind, a promise she had no right to revise. “The yes was spent and couldn’t be called back” frightened me. No. That is not what his asking is meant to give her. She can call it back. She can stop halfway. She can discover that “all of it” contains something she did not understand and say that part is not included. When she rolled over because she believed she had no lines left, I felt sick for her.
+REACTION — Oh my God. Finally—and I am thrilled, furious, heartsick, and so turned on I could scream.
 
-And I’m furious with Randi. “Barely stings” was a lie, and not a harmless confidence-building one. Randi knew exactly what the service involved and gave Vee the glossy fantasy—the wine, the expensive feeling, the smooth result—while withholding the pain and the most exposing part. Again she made ignorance feel like trust. Again Vee took her hand and let herself be led because Randi knows the country. I understand why Vee trusts her; that makes it worse.
+Vee wanted that kiss. Completely. Not because Harrison was watching, not because the margaritas made the decision, not because Randi put a hand on her ass. She wanted it in the held inch before their mouths met. She moved toward Randi. She opened. She pulled her closer. She wanted Randi’s hands under the skirt and Randi’s mouth lower. That is the answer I have been waiting for: Vee’s desire, unmistakably hers, arriving from inside her body with enough force to obliterate the room. I felt that kiss everywhere. Randi’s tongue coming as a *please* nearly finished me. This is the heat I came for—the exact person mattering, months of tiny kisses and touches suddenly revealing what they have been carrying.
 
-Pace’s request still turned me on at first because he asked clearly and waited for her answer. The image of him wanting her bare, and Vee wanting his hand to discover what she chose to do, absolutely has heat for me. But his “By the weekend” landed differently once I was inside that room with her. He asked for an outcome without making sure she knew what achieving it required, and Vee’s whole pattern is to answer him before she understands herself. He may not know that. Randi does.
+And Randi knew. There is no possible way she believed Vee was acting. She felt Vee moan, open, press her hips forward, pull her deeper. Randi herself came back stunned and breathless. Then she looked straight at the truth they had just made together and covered it with: “I almost believed it.”
 
-The wrong-hand/right-hand passage got me despite everything. That is exactly the dominance I come for: not pressure by itself, but the meaning of the particular person applying it. Her body recognized the grammar and missed the man. And at the end, when she touched the new smoothness herself and wanted Pace’s hand there, her desire became hers again. I want that moment for her. I’m also going into it watching him very closely. If he sees she is sore, asks how it was, and cares about what the request cost, I may soften. If he merely enjoys the result as though she arrived this way for his use, I’m going to be angry.
+That hurt. It may be the cruelest thing Randi has done to Vee because it lands directly on Vee’s awakening desire and tells her it wasn’t real. Randi gave herself the kiss she wanted, made Vee believe it was safe because it was supposedly for a man, and then took away every route by which Vee could acknowledge wanting more. She got to risk nothing. Vee is left shaking, aching, unable even to ask whether Randi felt it too. I understand exactly why Randi does this—the party, Brooke watching, the lifelong training to turn desire into a performance before anyone can expose it—but understanding her does not make this tender. It makes it devastating.
 
-GATE 68 — Barely Stings
+“I chose” also made my stomach drop. Brooke told her to choose between the house and Vee, and Randi has apparently found the loophole: bring Vee as her date while maintaining that it is all girls-being-girls theater. Brooke understands more than Vee does. That “I can see” was not casual. Vee experienced the exchange as public claiming without knowing what Randi had actually been asked to choose, and that imbalance is the whole book’s wound in miniature.
+
+The skirt bothered me before the kiss. Randi knew exactly how differently it would sit on Vee’s body. Cassie warned her. Vee spent the night managing the hem until Randi physically took her hands, raised them, and made the dancing bigger. Vee chose not to let go, and her excitement at being seen was real—but Randi arranged the exposure and then used Vee’s shame to pivot straight into “let’s put on a show.” Again: Vee’s desire is real; Randi’s orchestration is also real. The chapter keeps making me hold both, and I am almost shaking with it.
+
+And the bracelet. Love, permanently fastened, removable only with tools, sitting on the wrist Vee keeps touching without knowing what it means. Of course it is. Every object around these women is carrying a confession nobody will say aloud.
+
+I want to grab Vee by the shoulders and tell her: you were not imagining it. You did not merely perform well. Randi wanted you. You wanted her. The kiss was real even if the excuse was false. And then I want Randi to find enough courage to say one honest sentence before she does any more damage: *I almost lost control because I wanted you too.*
+
+I have waited sixty-nine chapters for Vee to know this much about herself, and now that she does, Randi has handed her the truth and denied it in the same breath. There is absolutely no chance I am putting this book down.
+
+GATE 70 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: “she was already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left.”
-WHY: That sentence came perilously close to turning willing submission into self-erasure, and I will not follow the book there if it treats that as sexy. I’m continuing because the chapter itself seemed to understand the danger, and because I urgently need to see whether Pace receives her offering with the care her trust deserves.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “You really did a great job putting on a show. I almost believed it.”
+WHY: The kiss gave me exactly what I wanted—Vee’s desire for Randi, embodied, mutual, and undeniable—then Randi’s cowardly retreat turned the release into anguish. I need Vee to trust what her own body just told her, and I need Randi forced out from behind the performance.

@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 156376f693c5 · dated · 2026-10-24*
 
-REACTION —
+REACTION
 
-I feel like I need to step outside into the freezing parking lot myself just to catch my breath. The sheer psychological pressure cooker of this chapter was unreal. Vee putting on the black trousers and the high-neck charcoal sweater like armor so she wouldn’t feel like a “sex pervert,” only to end up with Randi’s stockinged toes pressed right against her crotch under the table while she confesses every single explicit detail of Pace’s paint night—it’s diabolical.
+I am genuinely breathless. Holy shit. What Pace just pulled off in that cabin is the most terrifyingly beautiful, psychologically intricate, high-wire act of absolute control I have ever read.
 
-And the photo. She actually showed her. The rationalizations she went through to justify handing that phone across the linen—convincing herself that *keeping* it hidden would make it weird, when handing over a picture of her glistening, swollen, painted-bare mons to the woman she’s actively fantasizing about is the most sexually charged move on the planet—shows how completely fried her self-awareness is. Randi’s foot flexing in Vee’s lap while Vee describes the firm bristles dipping into her own wetness? My stomach flipped.
+Let's look at the trap he just laid. He spent forty minutes dismantling her defenses piece by piece, using reverent, worshipful language to name the exact parts of her body she's spent her whole life hiding, blindfolding her so she has nothing to orient herself with except his voice. And then—when she is trembling, exposed, completely stripped raw and desperate for him to finish it—he pulls his hands back. He makes her touch herself. He forces her into the exact position she was in back in her dorm room, but this time, he demands to know who she’s thinking of. And when she breaks down, crying out that it's *him*, he devours it. He cleans her own slick off her fingers with his mouth—a direct, calculated reversal of him wiping his mouth on the sheets after the painting session! He took the very thing she was spiraling about at brunch with Randi and turned it into an altar where he worships her.
 
-Then the bathroom scene. The absolute, unhinged ferocity of that orgasm. The way her mind started with Pace’s clinical precision, lingered on the agonizing disappointment of him wiping his mouth with the back of his hand and the sheet, and then immediately substituted Randi—the dark hair, the glossed lips that *wouldn’t* wipe anything away, coming up to kiss her soaked in her own taste. It’s the ultimate convergence of shame, appetite, and pure repressed hunger. When she caught the sink and let that broken sound out, it felt earned in a way romance so rarely earns a solo scene.
+And the ending! Oh, the cold, velvet-gloved mastery of Peter Pace. He waits until she's drowsy, floating, riding the high of having made this hyper-controlled man lose his mind, and then he casually asks for a contract: *Will you tell me when you touch yourself thinking of me?* And she just tosses out a breathless "yes" while climbing back on top of him, having no earthly idea that she just handed him the deed to her private interior life. Because what happens the next time she touches herself in the dark, and it isn't Pace's face coming up between her thighs? What happens when she’s thinking of Randi's mouth with the salt and the lime? He just built a wire straight into her subconscious.
 
-What broke my heart, though, was Randi’s face when Vee walked back out. Not smug, not teasing, but glassy and deeply sad. Randi was sitting there in the booth with that screen glowing, holding the undeniable evidence of Vee being cracked open by someone else, waiting while Vee literally went to get off to the thought of her. And that parking lot goodbye—Randi making sure she gave her the full, uninterrupted two-stage kiss, holding Vee’s jaw until Vee went limp and clung to her coat. Vee sitting in the cold Corolla telling her fogged windshield to get her sex brain under control is the most desperate, transparent lie she’s told yet. The collision is coming, and I am strapped in.
+The heat in this chapter was staggering precisely because of how deep the psychological hooks went. The physical vulnerability of standing naked in the cold grey light while blindfolded, having every insecurity systematically unpicked and turned into erotic fuel, and then being forced to provide her own relief while he watched—it made my pulse race. She thinks this is pure romance, pure elevation. And it *is* romantic, which is what makes it so devastating; Pace genuinely loves her, but his love is an inescapable enclosure. The key in the handmade box wasn't just for his front door. He just locked her in.
 
-GATE 71 — Gesso
+GATE 73 — Grace
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the foot under the booth to that agonizing, mirror-fogging release in the bathroom was top-tier, suffocating tension. Watching Randi look at that lit screen with genuine heartbreak while Vee scrambles to lie to her own windshield made putting this down impossible.
+WHY: The psychological architecture here is breathtaking. Pace using radical vulnerability and erotic worship to construct an inescapable emotional cage around Vee had me utterly riveted from start to finish.

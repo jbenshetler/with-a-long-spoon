@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch033 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch033 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
 
-REACTION:
+REACTION — Okay, I need a minute.
 
-Okay. I had to put the book down after "Sticky fingers?" and just sit there.
+That last section did something to me that chapters of explicit sex in other books have tried and failed to do. He emptied his drawer. He took his own careful, squared-to-the-edge, blades-in-ranks life and *compressed it into one drawer that was built to hold half of it* so that her scrunchies and her pins and her messy bottles could have the top one — the easy one, the one your hand goes to first. I actually had to put my phone down. That's the love confession this whole book has been withholding, and he said it in drawer format. This man communicates entirely in joinery and I am fully fluent in it by now.
 
-This chapter is Randi at her most terrifying and I mean that as a compliment to the writing. The whole brunch is a repeat of the practice-room structure — interrogation, confession, escalation — but this time Vee doesn't escape to the bathroom and *finish*. This time she gets one unfair inch from the peak and Randi's face arrives behind her eyes and she *stops*. Stops with her own hand inside herself because she can't be looked at like that by Randi and keep going — do you understand what that sentence is? That's not friendship. That's a woman whose arousal now routes through another woman's gaze, and the book said it in one line without underlining it. And then the curdle — "frustrated and cowed in the same breath." Cowed. That word did something to my stomach.
+And she whispered "Peter" to his sleeping body. After all those chapters of her carrying that name like contraband — "said once into the dark, the way you say a word to keep it" — she said it again, deliberately, into his ear while he slept, and I understand exactly why it had to be while he slept, and it wrecked me a little. She's in love with him, she knows she's in love with him, she's built a whole livable house out of "he says it in everything and not in words." Which is beautiful and true and also — my dread reflex is fully awake — the blurb promised me a book about the cost of things, and a woman this happy who has stopped needing the word is a woman being set up to need it very suddenly.
 
-And Randi's mixer story. I clocked it immediately because I've been trained by thirty chapters: another probably-invented blond boy, another interrupted crescendo, told with her eyes right on Vee's the whole time, "doing a private dance" — she narrated Vee into the bathroom. She knew exactly where that story was sending her. The woman ordered a second mimosa off Vee's budget tell and watched her come apart one confession at a time over eggs. That pleased little corner of her mouth staying up through the whole pastry I-won't-touch — she didn't need the pastry, she was already fed.
+The counter beat in the middle was honestly cruel in the best way. Him going quiet, eyes on her sprawl, and her waiting to find out if she's been too much — and he says nothing, and she carries "the smallest tail" of the worry out of the room, and I was *tight* because I thought the book was doing the thing where the hero is silently bothered. And then the reveal rewrites it: the silence wasn't disapproval being managed, it was a project not yet finished. I got played in exactly the direction I'd have bet against, and I love being played like that.
 
-But the ending. THE ENDING. "A thread of sweetness... the glaze of a pastry she had never once touched." I read it twice and then a third time with my hand over my mouth. Randi took one neat bite. One. And that bite ended up on Vee's lip via the goodbye kiss. Which means either the book just told me Randi ate something else before Vee got back to the table — or, worse and better, the kiss itself was the feeding, mouth to mouth, glaze and all, and Vee *still* filed it under sweetness and best friends. "Best friend in the whole world" delivered like a knife wrapped in a ribbon. This woman is feeding her own body to Vee through a kiss and calling it friendship and Vee stood on that sidewalk getting the sugar off her lip with her tongue like it was nothing.
+Also: she's losing weight and not asking to, the bras fitting that used to be the size that didn't believe her — quiet, a little ominous, her body spending itself on him. And the sex writing here does the thing I keep staying for: "he never went straight at his own finish" — that one paragraph about not knowing which door he'd come in by taught me more about him than three chapters of backstory. The Greek wine, the coming-back-for-seconds-after-salmon, "there could be an *after*" — she's discovering that a man can just *return to you* and it's devastating because she's never had it.
 
-Also, quietly: the mimosa being the cheapest thing on the card, and Randi clocking it and being pleased — pleased by Vee's economy, by her smallness — while the credit card bill is still out there circling. That bookkeeping isn't done.
+It's a quiet chapter by act-count. But it's not a nothing chapter — the drawer is a turn, and I know a turn when I feel one in my sternum. This is the book telling me she's moved in emotionally before she's noticed she's moved in, and the clock on all those carry-forward time bombs (the bill, Cassie, the accent, "what she was for") just got louder.
 
-What this chapter did that the last few hadn't quite: it made me *anxious for Vee* again, not just warm toward her. The induction chapter was triumph, the Halloween chapter was gift, and this one is the bill arriving early — emotionally, not financially. Yet.
-
-GATE 34 — One Bite
+GATE 35 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the chapter where the triangle stopped being subtext for me as a reader-in-on-it and started actually *landing* on Vee's body — the interrupted bathroom scene, the glaze, "cowed." Randi is conducting with her whole arm now and Vee still can't see the orchestra. I need to know what happens the first time she does.
+WHY: The drawer gave her a place without a word, and after thirty chapters of him saying it in everything, that landed like a proposal. I'm warm through the chest and I want to know what happens the first time the world outside this house touches what they've built.

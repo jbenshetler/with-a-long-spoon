@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I closed 47 with Vee crying out his door into the cold, and the book's answer was to hand me a ski holiday in Gstaad. Twenty days gone. No Vee, no Pace, no idea whether she drove back the next morning or whether they've spoken at all. I'll be honest: for the first two pages I was mad about that.
+Okay. Sheri. I want a whole book of Sheri. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud, and so did he, and it was the first time in about six chapters anyone in this book has laughed for real. She's the only person in his life who wants nothing from him, and she gutted him across a diner table: "Then not saying it matters more to you than having her." That's the line I've been wanting someone to say to his face since chapter 38. I'm glad it came from the one person with no stake in it, over a double cheeseburger with Elvis under the glass.
 
-The opening breakfast nearly lost me. It reads like an inventory: Dad's steak, Mom's omelette, the tennis bracelet, her salmon on dark rye. "Randi delicately clomped" made me make a face. Then "eating her revulsion" landed, and I remembered MIRA, the dot off in the white. That's why she hugs her father like a sorority sister. Every gold thing in this chapter is the PPP money. It's a stolen-money chalet, and later she texts Vee "dad's got us in this insane chalet" with a heart. That irony doesn't need explaining, and thank god the book doesn't explain it.
+Then the thing I'd been waiting for since the porch: his side of crackers and a meal. He understood it. "The true answer had been there, whole and ready." His hand stopped on her shin and he took two breaths, and he chose the smaller truth because he was a coward. Part of me went *I KNEW it*, and part of me went cold, because it's worse this way. If it had gone past him I could forgive it. He heard it and he let her walk to the laundry room alone with it.
 
-Then John shows up, and it's every book I've stopped reading. A towering stranger who cuts the line, a fake marriage bit, the guy who's secretly better at skiing, champagne at the hut, a gown bought that afternoon, white tie, a chef with a star, white truffle, a sleigh behind two grey horses. I actually laughed. It's the billionaire-romance checklist, start to finish, and for about five pages I couldn't tell if the book knew it. Then the dance. He's "a better dancer than Pace," and "easier was better," and "this is the one." By then I knew it was going to go bad, and I wanted it to.
+Daphne. "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." That one got me. Put it next to "people who've never lost anything think grief is a choice" and I don't think she *left*. I think she died, and he's calling it "departure" the way Vee calls Randi "friendship." Brown hair and glasses, laughing with her hand over her mouth. So that's the scar I still haven't been told about, probably.
 
-The cut to "he drew her in, and she went. Afterward" is my hair trigger, the exact closed door I DNF books over. Here I'll allow it, barely, because the missing scene is the point: there's nothing to show. "A good sandwich eaten fast on a busy afternoon." The lipstick ring on him, "felt her own mouth do it from a long way off." The eyeliner held because "nothing had happened to her eyes." That line is cold and it's good. Still, I've noticed the book's explicitness depends on whose bed it is. Pace gets shown and John gets skipped, and that's a choice I'll keep an eye on.
+But the whiskey night scared me more than the crying, because of where his head goes. Vee is in Ohio rewriting their best night with a blonde in her chair. And Pace is in his recliner, drunk, building the threesome breakfast: "Randi across from her… feet up on the lacquered seat." He's been "adding to it for weeks." He misses Vee enough to sob over a passing truck, and his fantasy of fixing it has Randi at the table. Also, Sheri knows about "the brunette." He took Randi *dancing* before Thanksgiving. And Randi's cashmere blanket lives on his bed, "the one for the chill that took her after." Now I know it's a thing he keeps for her. Vee sleeps in that bed. I'm filing that.
 
-After that, the book does what I've been begging for since chapter 40: it gets inside Randi. "Pace went straight to her. That was the whole terror of him." That goes with "you make me feel real… it frightens me" in my notes, and now I believe it from her side too. Then: "Vee was her gorgeous." I had to put the phone down. She has never once said "I love you" without it being currency, except to Vee. She can run every scenario to the end except Vee's face. So she picks cowardice, and she picks it knowingly: "let the word keep its cover." It's heartbreaking and selfish in the same breath. That's what I've wanted from her.
+The sob at the wrong engine wrecked me a bit. "He did not let go of it." Then the prison food, "He ate anyway." Good. And he still hasn't texted her. It's New Year's and he's crying in his kitchen and his phone, the one with her pictures on it, stays dark. I can't stand that.
 
-Still, the last stretch tells me things I already felt. "He was safe. She had put nothing on the table and had won exactly that." "The flaw was hers." The chapter starts explaining itself around there. I got the cold-seam image the first time; I didn't need it paraphrased.
+My gripes, and they're real. The second half started explaining itself to me. "He had hurt her because he was afraid of how much she could hurt him." I KNOW. You showed me two breaths on a shin. That was the whole thing, and then you underlined it like I might miss it. "*Whiskey River* was a liar" is a bit cute too. The Daphne part goes into a flat list: tutor, best friend, first girlfriend, first lover, first love. I did buy the clipped hangover sentences as a voice, mostly.
 
-What I'm suspicious of: Randi's whole inner monologue about Vee leaves out the scheme. There's no "we chose her," no Pace-and-Randi plan. She thinks about Vee as if she were simply in love, which she is, but she's also a co-conspirator, and she doesn't let herself think about that. Maybe that's the most honest thing about her.
+The pattern alarm is going off as well. This is the third New Year's Eve chapter in a row, with Randi, then Vee, then Pace each alone in their cold room. As a set of three I respect it, it's clearly built that way. But the only heat since chapter 45 has been Randi's numb hotel sex. I'm hungry, and the book promised "warmer." I need these people back in a room together soon.
 
-And Vee's text, "i'm here if you want to talk. or not." That's my girl being the generous one from Ohio, with her own heart in pieces after the 11th, and Randi sends back the fairytale. I need to know if Vee told Randi about the door. Of course she did. So Randi knows, and she lay in that hotel bed knowing.
-
-What I'd text at 1 a.m.: "the book did a whole Hallmark billionaire chapter just to kill it in bed and I kind of loved it. also Randi is a mess and I'd die for her."
-
-GATE 48 — Fairytale
+GATE 50 — The Usual
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 9
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "His room was high in the hotel with the mountains black in the window, and he drew her in, and she went." The door closed right where I'd usually close the book.
-WHY: The first half is the trope parade I left KU to get away from, but it's there so it can fail, and Randi's real interior when it does ("Vee was her gorgeous," the face she can't picture) is the payoff I've waited eight chapters for. NEXT is higher than CAPTURE because there's a three-week hole after Vee walked out of Pace's house, and Randi lying in that bed knowing about it makes me need January.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
+WHY: Sheri's diner scene and the sob at the wrong engine are the realest this book has been in weeks. The book over-explained his fear, but now I know he loves her and is choosing not to say it, and his drunk fantasy has Randi at the breakfast table. That gap is a fuse, and I want to watch it burn. I need the next chapter to put Vee and Pace in a room, because I can't do a fourth cold bedroom.

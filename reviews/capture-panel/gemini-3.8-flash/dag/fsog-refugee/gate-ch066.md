@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
-REACTION
+REACTION:
 
-I feel like I just watched someone casually flick a lit cigarette into an open pool of gasoline, and then turn around and say, *“Good job on the smoke effects!”*
+Oh, god. My chest actually hurts. The tension in this chapter was so thick I could barely breathe.
 
-My jaw is genuinely on the floor. I am sweating. The absolute, suffocating, master-class tension of this chapter took the air right out of my chest.
+That opening paragraph—Vee spending all of Sunday riding Pace over and over again, using him like an anchor trying to drown out the storm inside her, "full of him and not, somehow, filled"—is absolute poetry and absolute heartbreak. She used him on Saturday night to erase Randi, she spent Sunday trying to cement herself to him, and the second she’s alone on Monday night with her hand pinned to her stomach like a pot lid holding down boiling water, it’s all right back there.
 
-Look at what Randi just pulled. Look at it! Chapter 64 was Pace and Randi in bed, sweating into the sheets, with Randi admitting—out loud, while Pace had his mouth on her nipple—that she wants Vee, that she’s thinking about Vee’s heavy breasts, that she wanted to turn around on the freezing sidewalk and put her mouth on Vee’s neck. And now, she dresses Vee up in a skirt that is basically a strip of scotch tape, takes her to her own sorority mixer, parades her around, dances her until her panties are showing to a room full of college guys, and then uses a generic boy named Harrison as an *excuse* to pull Vee down by the hair, cup her ass, and tongue-fuck her in the middle of the dance floor.
+And then the classroom. Dr. Marsh talking about gifts as *debts* you lay on someone whether they want it or not? Holy hell. The thematic knife-twist! Because what has Randi been doing this whole entire book? Buying the dinners, gifting the skirt, paying for the wax, taking her plus-one, laying debt after debt of intimacy on Vee until Vee is drowning in obligation and hunger.
 
-And then—the absolute sociopathy of it—she pulls back, blinks out of her own daze, slaps Vee on the arm, and goes: *“You really did a great job putting on a show. I almost believed it.”*
+When Randi casually said, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt the ice drop straight into my stomach right along with Vee. That word: *having.* In Pace's bed, Vee could pretend it was just dirty talk, erotic play, a game where Pace takes up all the space. But here, under the fluorescent lights of an anthropology hall, it’s real. Randi isn't playing a game of dress-up. Randi wants to *possess* her.
 
-*I almost believed it.* ARE YOU KIDDING ME, MIRANDA?! You cowardly, brilliant, manipulative little architect! She just gave herself the exact feast she has been starving for since October, tasted Vee with salt and lime on her tongue, felt Vee moan and grind back against her—and then shoved Vee straight back into the closet of "we're just two silly straight girls playing a prank on a frat boy." She weaponized the performative male gaze to steal a kiss she was terrified to ask for honestly, and left poor Vee standing there soaked, trembling, utterly bewildered, and holding the bag of her own shame and confusion.
+And Randi's mouth on her neck outside the dorm! *"See? How do you like it?"* The absolute audacity of this woman. She plays it off as retaliation for Vee's kiss in the alley, keeps it wrapped in giggles and sorority-girl teasing, while systematically setting Vee on fire. And look at Vee’s response! She tries to pull back, tries to dodge the kiss on the mouth, and the second Randi bites her neck, Vee caves completely and *asks for brunch on Saturday.* She literally scheduled the next hit of the drug because she can't bear the withdrawal!
 
-And Vee. God, my sweet, hungry, easily led Vee. She has been waking up in stages, but this wasn't the slow, safe, patient waking up Pace does with paint and walnuts and three layers of consent. This was a lightning strike. The contrast between Chapter 69 (where Pace reverently asked to paint her, held every brushstroke still when she flinched, and treated her lush body like a museum piece) and this chapter is staggering. With Pace, Vee felt safe enough to giggle at an orange breast-print on his cheek. Here, with Randi, it’s an absolute freefall. Her body responded instantly—wet, aching, hips rocking into Randi's—because she *loves* Randi, she is completely infatuated with Randi, and her body doesn't know how to lie.
+Wait. *Saturday.* Oh god, Saturday is the day Pace and Sheri are going to the dance hall! How is Vee juggling Saturday brunch with Randi and Saturday night with Pace and Sheri?!
 
-I was terrified this scene would cross into pure non-consensual violation, but Rivers writes the psychology with such excruciating precision: Vee *wanted* it. She had been wanting it for months without a name. The consent wasn't violated by the kiss itself—Vee met her tongue, Vee held her hair, Vee was begging for hands under the skirt—it was violated by the *gaslighting afterward*. Calling it a "show." Pretending it didn't mean the world. Leaving Vee to pretend she was in on the joke when her entire soul just got turned inside out.
+And then that final beat: Cassie. Cassie sitting on the bunk in her coat, having seen or heard something from the window, hitting her with: *"What was that with you and Randi?"* Cassie is the only sane, grounded tether Vee has left to reality, and Vee doesn't have an excuse left in her arsenal. The walls are closing in so fast. I need the next chapter right this second.
 
-Pace gets her tomorrow. Sunday. Pace, who knows Randi is obsessing over Vee. Pace, who just spent Friday night erasing Vee's shame with his mouth. If Vee walks into his house with Randi's salt still on her conscience, I am going to combust. I need the next chapter right this second.
-
-GATE 70 — On Her Floor
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute emotional and erotic devastation of that kiss, followed by Randi's cowardly, brilliant retreat behind the 'it was just a prank for a boy' mask, is top-tier psychological drama. I couldn't look away if I tried.
+WHY: The psychological claustrophobia was masterclass. Watching Vee try to outrun her own awakening, only to have Randi corner her outside the dorm and Cassie corner her inside, has me completely hooked for the fallout.

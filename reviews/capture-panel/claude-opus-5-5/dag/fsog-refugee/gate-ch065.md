@@ -1,27 +1,34 @@
-*capture-dag-v2-rich · gate ch065 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
 
 **REACTION**
 
-Okay. I need a minute.
+Oh, this chapter. I'm going to need a minute.
 
-This is the chapter I've been reading the whole genre for and mostly not getting. The front door alone did it: he's out on the stoop before she can knock and lifts her off the boards. Then he looks at her face first, and only after that does the second look come. The book keeps the order, and I noticed.
+The first part is everything I read for. Vee in the dark room with her finger stopped on the new bare skin, and the picture that comes is Randi. It's not Pace and it's not the afternoon. "An offering with the wrong name on it." Her hips tilt before the thought finishes, and then she holds the hand against her breastbone like something she caught stealing. That's desire written from inside her, and it's hers and messy and ashamed of itself. Then she puts the skirt back on and leaves the thong on, "wanted it there and wouldn't ask herself why," and drives the county road with the radio off so nothing in the car can ask her questions. I loved her and was scared for her all at once. She takes the lead the whole way in. She rings twice, puts a hand in his boxers, says "I need you." Nobody acts on this girl here. She's using him, and the book knows she's using him: "she was not trying to have him. She was trying to get free of something." The sex with teeth, coming with her face turned into his neck so she won't have to see him see her. That hurt to read.
 
-She runs the start. She pushes him onto the bed and says "No. You wait," and he answers "Do I," pleased instead of thrown. Then the scar, the one he moved her hand off before. She puts her mouth to it once, asks it nothing, and goes on. I held my breath, and he didn't stop her. I don't know what that scar is (his father? I'm afraid it's his father), but he let her past it. That counts for more than anything else in this chapter.
+Then he says "That was angry, Vee," and I melted, because that's the man who reads her. And then the game.
 
-Then the painting. God. It's control, and it's real control: hands on the rail, eyes shut, the brush lifting away whenever she moves. But it never once feels like he's erasing her. She's laughing the whole time. She turns her breast into his face with "Oops. Sorry," he laughs helplessly, and then he wears the orange smear for the rest of the scene. He's in charge, he's tender, and he's completely delighted by her disobedience. The fruit after every color, the walnut and the parsley and the grape, and her working out *grapevine* in the dark. Then "They're melons," and "Not finished." That's play. That's two particular people. And I liked best that the stillness only works when she gives up holding it. That's her surrender, written from inside her, not done to her.
+I need to be honest about the game, because I was squirming in two ways at once. As heat, it's a 3. It's the hottest thing in the book for me, maybe the hottest thing I've read in years. He holds her off all but the head of him and she pays for every inch with something true. Every time she tidies a story he just stops, and the stopping turns her around to look at what she smoothed over. "Were you wet?" "I don't know." Nothing. "Soaked." Three strokes. "You finish when you've finished." She laughs and says "that's cheating," and the book takes care to show she leans her whole weight on the rule and it holds, she wants it, it feels right. I believe her. It's consensual, it's playful, and it's control that makes room for her. Technically it's exactly the thing I left three subgenres looking for.
 
-The photo got me more than the sex did. *She* asks for it. He frames it, hands the phone back, and never asks for a copy. "Nobody on earth had seen it but her." A man who could keep that and chooses not to: that's the consent I left three subgenres looking for. The line about him taking every part of her the world called too much and making abundance the whole point made me tear up a bit, after the twin bed and the tent-sized sweaters.
+But I know what she doesn't. He's sleeping with Randi. And every piece he pulls out of her tonight, the wrists over her head, "I didn't try that hard to get my hands back," salt and lime, "I wanted her mouth lower," he can carry down the hall and lay on the bed like a card. "She kisses me first now." I kept seeing Randi propped on an elbow hearing "her tongue was a please" in his voice. So the hottest scene in the book is also, maybe, an extraction. He isn't forcing her. She wants every second of it. But the confession under the sex is going somewhere she doesn't know about, and that's the third game. That's exactly what the jacket told me. *She doesn't know there are three.* I just watched the third game being played inside her body.
 
-Now the part that's sitting cold in my stomach. The gesso: he paints her with her own wetness, and then he *doesn't kiss her*. Every other color came with his mouth and something to taste, and this one comes with nothing. Three chapters ago she held her fingers a breath from her mouth and couldn't close the distance. One chapter after that I watched Randi lick that exact taste off his mouth while he and Randi talked about Vee. So is this a gift, or is it a lesson? Is he teaching her to want something, step by step, the way the waxing was a yes she gave before her mind caught up, with no reason ever offered? The towel over the paints means he planned the whole evening, and I believe he planned it with love. I also think he's laying a path. And the end, "She would not be telling her about this," made me want to throw the book. Vee keeps this one thing private from Randi, and I'm almost sure Pace will hand it to Randi himself, in bed, with Randi on top. The privacy he so carefully gave her may not survive his other bed. If it doesn't, I'll be angry at him in a way I haven't been yet.
+Then after. She lies to him, "No. Nothing," her first lie to him ever, and it sits cold in her. She's tearing herself apart over the goodbye kisses and her own hand, and he's lying in that bed holding a whole second relationship. He asks "Do you want to sleep with a woman, Vee?" like a man clearing a plate, and she says "I'm not gay." She throws "you want Randi" at him, which is the truest thing anyone says in this chapter. And he answers "You keep saying her name. Not me." Gentle. Then "I don't mind." And Vee takes it as the sweetest thing he's ever done, because for once he defended himself. I wanted to throw the book. He didn't defend himself. He covered himself, and it worked like a blanket over her. He even gives her the actual grey blanket a page later. The book knows what it's doing. The flicker that crossed his face is right there on the page for me and not for her. I'm not angry at the book. I'm angry at him. That's different, and it's why I'm still here.
 
-He still hasn't said the word. Randi told him "she loves you," and he's had a whole chapter. Still, I'm in. They were alone, and it was everything.
+And she's raw inside, "from not stopping when you should have." Hers. But I noticed it.
 
-**GATE 69 — Still Life**
+The ending is Tuesday, circled, the perfume, the lipstick, two nights to find a face for it. "What is wrong with me?" Nothing, honey. Nothing is wrong with you. The two people around you are what's wrong.
 
+At 1 a.m. I'd text: *he edged a confession out of her about kissing Randi and she called it the sweetest thing he's ever done and HE IS SLEEPING WITH RANDI. also it was the hottest scene I've ever read and I hate that.*
+
+A couple of things threw me. She says "Saturday's mine with you, it always is." I had him getting Sundays, and the mixer was Saturday. And "a day bare," with him spending the afternoon learning her by mouth. I had the painting as Friday night. Maybe I'm misremembering. Also, where was Sheri's dance hall? He was home asleep.
+
+---
+
+GATE 71 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
+CAPTURE: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "He did not kiss her mouth." It didn't put me off the scene. It made me suspicious of the man, because it reads like a curriculum, and I know who else is on the syllabus.
-WHY: Control that made room for her, laughter all the way through, and a photo he refused to keep. I've been looking for that combination for years. I want the next chapter now because tomorrow is Randi's, Vee is hiding this from her, and I need to know whether Pace keeps it hidden too or spends it.
+ALMOST-STOPPED: "You keep saying her name." Gentle, no edge in it anywhere. "Not me." — him lying to her face in the softest voice he has, and her taking it as tenderness.
+WHY: It's the most explicit I've ever been made to feel it from inside her: her wanting, her shame, and her yes to the game, all hers. But now I know the man running that game is carrying her confession to the other woman in his bed. I have to see Tuesday, and I have to see whether he spends this.

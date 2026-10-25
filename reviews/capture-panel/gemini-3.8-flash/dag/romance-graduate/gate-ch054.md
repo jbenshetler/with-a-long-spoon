@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-Oh, this was *medicine*. After the sheer sensory overload and emotional whiplash of chapters 51 through 54—the weeping in Randi’s room, that desperate, soaked-coat reunion on the porch, the sheer indulgence of the persimmon-and-cashmere Saturday, and the mounting tension of Pace wanting to enter her real world—we desperately needed this room. We needed the two-inch draft, the hot popcorn dust, the stacked white athletic socks, and Cassie’s dry, grounded sanity.
+Oh my *god*. My jaw is on the floor and my pulse is completely out of control. This chapter did something to me that very few books have ever managed: it gave me absolute, skin-prickling erotic heat while making me want to scream at the top of my lungs in sheer psychological dread.
 
-Vee fabricating an entire sitcom plotline about Pace shrinking her cranberry sweater to explain why she was stranded naked in his kitchen had me grinning like an idiot. *“Pace. Shrank your sweater.”* Cassie’s deadpan delivery is unmatched. Cassie knows it’s total bullshit, Vee knows she knows, but it’s the exact kind of face-saving, affectionate lie that best friends let stand because the joy radiating off the girl in the beanbag is too big to pop.
+First of all—Marcel Mauss’s essay on the *gift* and *hau*? *“The thing you were given is inhabited, and it pulls back toward its giver, and that pull is why a gift can never really be free.”* The book just handed us the entire philosophical autopsy of this three-way dynamic right in the syllabus lecture, and Vee has NO idea that the house, the bread, the coat, the shoes, the orgasms—none of it is "free." It’s all tethered to the two of them.
 
-And then that tiny, breathtaking beat at the end: *“My mother says thank you for the card. She wants to know when she gets to see you again.”*
+And then this dinner. The tension was suffocating. Watching Randi lean across that loft table, playing the supportive bestie while practically drinking Vee’s confessions like fine wine, was hypnotic. When Vee turned the olive coat around to show her the stain on the satin lining?! I stopped breathing. The pure, unhinged nerve of that, and Randi staring at it with her eyes dark and liquid!
 
-My breath caught. It hit like a soft punch to the sternum. While Vee’s own mother was busy scrutinizing her weight and fussing over high-necked sweaters back in Ohio, Cassie’s mom is keeping a card on a mantel and asking when the girl is coming back. In a book overflowing with Michelin-star food and feverish, border-crossing sex, the quiet emotional weight Rivers gives to the *other* kinds of nourishment Vee is receiving is just stunning. Cassie provides a totally different kind of sanctuary than Pace’s house or Randi’s velvet trap. It’s narrow and drafty and smells like radiator dust, but it’s completely real.
+And then Vee having to excuse herself to the restaurant bathroom to make herself come against the partition because she got so wound up talking to Randi about Pace—only to realize, right at the climax, that it was *Randi’s* face driving her over the edge? *“Because that had been about Pace, obviously. All of it. About Pace.”* Oh honey, the denial is cracking. The absolute terror when Randi said, *“Things were really heated. It’s a good thing you got relief,”* almost made me drop my phone. Randi totally knew. She baited her into that stall!
 
-What gives this chapter its low hum of dramatic irony, though, is the ticking clock. Vee falls asleep with her hand against the cold cinderblock feeling like the world is finally stitched back together: Pace is hers, he volunteered to meet her people, and Friday will come. But she has *no idea* what’s waiting for her on Tuesday. She has to sit next to Randi—who kissed her, who Brooke explicitly warned about the house watching, who gave her the shoes that started all of this—and Pace is gearing up to step into the daylight. The peace in this dorm room is gorgeous, but God, I know it's the eye of the hurricane.
+And that kiss on the neck on the sidewalk. Randi pointing at the spot, Vee kissing it without a second thought, and Randi flinching—because Randi is in love with her and dying inside, while Vee thinks it's all just sisterhood and giggles. And now tomorrow is the big dinner. Pace, Randi, Cassie, and Vee in the same room. The collision is here. I need chapter 58 yesterday.
 
-GATE 55 — Unpacking
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A perfect, quiet decompression chapter that gave Cassie the stage she deserved. The cranberry sweater lie was hilarious, the beat about Cassie’s mom was deeply touching, and the contrast between the narrow dorm bunk and Pace's king bed lands beautifully right before the chaos of the semester begins.
+WHY: The psychological friction between Vee and Randi is at an absolute fever pitch. Between the coat stain reveal, the restaurant bathroom scene, and the imminent group dinner, the book is completely firing on all cylinders.

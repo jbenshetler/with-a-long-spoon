@@ -1,31 +1,24 @@
-*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. *This* is what I asked for at the end of my notes: a new room, new bodies, and someone saying a true thing out loud. I got Sheri, and I'd follow Sheri into a burning barn.
+Okay. First, the thing I'm annoyed about. This is the booth again, the jukebox with the green water again, and Vee telling the story again. I've now had the Sheri look three times in four chapters: lived in 62, told to Pace over eggs in 63, and told to Randi here, with the keyhole, the leg and the shoes in the same order every time. That is exactly the retelling I warned myself about. When she said "Start over and go slower" I nearly started skimming for dialogue.
 
-The first section had me furious with Pace in the old way. "We cycle." "She dances." He hands those over his shoulder at the sink "like a dried spoon," and he glances back and takes in her face "the once" before he turns back to the pan. After 61 I don't believe this man does anything without knowing he's doing it. He saw the cold go through her and let her carry it for a week. Then she buckles on the induction heels as armor, Randi's shoes again, against a woman she invented, and I wanted to shake her and hug her at once.
+What kept me in my seat was 61. That chapter rewired how I read this one. I now know Randi lay on top of Pace two nights before Sheri and said "her breast in my hand… all that softness." So when Vee gets to "she was enjoying herself" and Randi's thumb stops on the back of her hand, I felt it in my own hand. Then the flat "And you liked it," with none of the evening's music in it. That isn't a guard dog going back to her post. Randi is asking whether the door is open. Is a woman wanting Vee a thing Vee could want?
 
-Then Sheri gets off the stool and the blonde "fails to find anywhere to stand." I laughed. The look is the best thing in the chapter. It travels down Vee, stops at the keyhole, stops again at the feet, and lands on a held *oh*. Vee realizes it's *enjoying* her, and a month of dread leaves her body as a laugh nobody prompted. That's the queer thread waking up through someone else's eyes, and the book doesn't explain it. It just lets her laugh and stick her hand out "formal as a church greeter." I loved that.
+Vee says "No." Too fast, then patched: "Not my thing." On Sunday, in his robe, she told Pace "I liked it, honestly. Best thing that's happened to my legs in a Virginia January." So Pace gets yes, Randi gets no, and the person she's lying to is the one person who needed the yes. Then Vee reads Randi going still as protectiveness and feels warm about it. I wanted to reach into the page. Randi taking "I know she isn't, gorgeous" back on the chin is heartbreak on a delay. That two-line exchange was worth the whole chapter.
 
-"And you get to motorboat them things?" I screamed. Then Pace blushes for the first time in three books, up into his ears, and suddenly he's a person and not a strategy.
+The waxing: what? There was nothing about it in 63. I read that kitchen scene closely, and it was bread and "one friend" and her hugging him. So either it happened offstage or it's another continuity slip. Either way I'm suspicious. "In the voice he uses for facts." Randi has Sondra on Draper Street ready to go, "say my name in the first sentence," and "the whole week arranged in her eyes." Whose taste is this? Who's dressing her this time? I'll bet you money that what Pace wants is something he learned from Randi's body. And the bare-skin thing is coming on a Friday, which is a Pace night.
 
-Sheri's coming-out story wrecked me a little: "Whole tablecloth come off the table and nobody caught a dish." So did donuts and a fixed lock instead of "they'll come around." And then the father and "hasn't been home since he was sixteen," handed over in one flat line with nothing propped around it. Pace gets more interior in this chapter than in the last ten, and all of it comes secondhand from a small loud woman with crooked makeup. That's smart. He keeps his hands where the dance puts them. "The whole hall's given up on him." He holds the headlights on her door until the porch light comes on. I'm softening on him again and I resent it.
+The goodbye. The jacket's own line comes true: the goodbye kiss outlasts the goodbye. But what got me was that Vee turns her face up first, eyes already closed, waiting for the hand. She's the one asking. Her mouth goes to Randi's neck "in passing" and nobody says anything about it, not even "*Ticklish*" this time. The fact that neither of them says anything is the loudest thing in the chapter. And the last line, "She had that one cold," made me grin. She didn't write that one down. She's memorizing Randi.
 
-But I just read 61. Randi on top of him saying "She looks at you, too," and now within the week he's walked Vee into a room with a gay woman who checks her out down to the straps. Is he running an experiment? Curating her? Or is Sheri just Sheri? I honestly can't tell, and that's the good kind of not knowing. The dramatic irony is thick enough to stand a spoon in. Vee thinks "the one person he tells things to" is Sheri. She has no idea about the other one.
+Small stuff I noticed. Randi stops eating halfway through her fish, and Vee nudges a gnocchi to the edge of her plate. The weight thread is still breathing. The coat goes on lining-to-the-wall, a habit she doesn't notice she has. And she kept the "one friend" story to herself, which tells me she can keep something of his.
 
-Gripes, quickly:
-- The timeline is mush. "Two nights after the roadhouse," then "Saturday," then "the week ahead of her," and the header says Jan 23. Is that the dinner or the taproom?
-- I remembered the heels as Randi's own stilettos. Now Randi bought them at a boutique for the induction. Maybe that's my memory, but I flagged it.
-- "It read as affection. It worked as ballast… never two different things." The book is explaining itself to me again. Sheri's speeches also run a little long.
-
-None of it mattered much. That was a real night out with real people, and I'm actually excited for Valentine's at the hall: Sheri, Pace, a Brooks and Dunn cover band, and Vee bringing her opinions.
-
-GATE 62 — Another Round
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 6
 NEXT: 7
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "He considered it with the pan in his hand, a man asked to describe a country he'd lived in for years." That's the opening at the sink. For a page I was afraid this was another quiet dinner-and-retelling chapter.
-WHY: Sheri broke the pattern I was dreading, and her look at Vee did more for the Randi thread than three restaurant dinners did. Pace got a past and a blush. Coming straight off 61, I'm a little scared he's steering Vee, and that suspicion is pulling me forward more than the warmth is. I'm a notch below "right now" only because the chapter ended full and contented, so nothing is yanking me to the next page.
+ALMOST-STOPPED: "So Vee went slower, and took her time with it, because the table was hers tonight and the story was good"
+WHY: This was one more retelling at the same booth, and the first half was all stuff I'd already heard. But the stopped thumb, "And you liked it," and the "No" Vee told Randi after telling Pace yes are the best small knife this book has used on me. I need Friday: Sondra, Pace, and whoever actually ordered the waxing.

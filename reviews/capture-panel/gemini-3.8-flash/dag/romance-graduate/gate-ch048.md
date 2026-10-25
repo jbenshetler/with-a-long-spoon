@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-Reading this right after Randi’s chapter makes the whole exchange feel like a slow-motion car crash you can’t look away from. In chapter forty-eight, we were standing right behind Randi in that glittering Swiss hotel room watching her look at herself in the mirror, feeling cold and completely unmoored, and now here is Vee lying in her narrow childhood bed with fabric softener and lavender plugins, imagining Randi living this flawless cinematic romance. It is heartbreaking dramatic irony. Vee is romanticizing Randi’s escape while Randi is suffocating inside it, and neither of them realizes how tangled up they already are.
+*Holy shit.* My jaw is actually on the floor.
 
-What really hit me here, though, was the claustrophobia of going back to your teenage bedroom after your life has cracked open. That feeling of lying under childhood trophies while your body and mind have crossed into territory your parents can’t even fathom—that was painfully accurate. The detail about her scissoring the photo so her family only sees the demure half, hiding the slit and the bare leg, cuts right to the heart of what’s happening to her. She is bifurcated. She doesn’t fit into her old life, but Pace won’t give her the footing or the words to stand squarely in her new one.
+First of all: Vee taking Randi’s face in BOTH hands and kissing her in the sorority foyer—not a sweet little cheek peck, but staying until Randi’s breath stopped against her mouth and Randi gripped the back of her coat? *Finally.* The sheer, agonizing dramatic irony of Vee thinking she’s just giving an overflow of sisterly gratitude, while Randi is left standing alone in the dark putting the back of her hand to her mouth like an enraptured fifteen-year-old? I felt that straight through my chest. Randi laughing that “short idiotic sound” in the empty hallway because Vee *came back for her*—god, the pining is immaculate.
 
-And her spiraling about Pace in the dark felt so horribly, authentically young. The minute he withholds communication, she immediately invents a model-thin stranger to put at his stove, completely convinced that the moment she pushed for emotional clarity, he discarded her for someone easier. She has no idea what he’s actually doing—or who he’s actually tangled with.
+And then Brooke. *Brooke.* That scene in the kitchen made the hair on my arms stand up. That wasn't just sorority house politics; that was a velvet-gloved execution. "Play all you want, privately, or for the boys... The day he thinks it's true—" and bringing up Lauren Pike like a ghost story? The social terror in that house is so real and suffocating. You can perform bisexuality for fraternity boys, but the second it’s genuine, soft, and between women, you are toxic waste to the brand. Randi is caught in an absolute vise: her family money is built on fraud, her sorority status is hanging by a thread under Brooke’s surveillance, and she is hopelessly, desperately in love with a girl who just kissed her and then immediately walked out the door to throw herself naked at another man.
 
-That said, we’ve had a run of reflective, quiet scenes now, and while the psychological interiority is rich and doing real work, the characters have been physically separated for several chapters. I can feel the story coiling the spring for the new semester, but I am getting very impatient for them to be back in the same physical space where that coiled tension actually has to snap.
+Which brings me to the plan itself. Randi sending Vee to Pace’s doorstep in literally nothing but an open coat and those fetishistic, strappy stilettos is so wildly fucked up and brilliant. On one hand, Randi is practically pimping Vee out to their shared lover, manipulating Vee’s shame and hunger into a physical surrender so Vee won’t demand the words Pace can't give. On the other hand, Randi is basically dressing Vee up in her own desire—giving Vee *her* shoes, imagining Vee naked under that coat, practically orchestrating the fantasy she wants to consume. And Vee, bless her, thinks Randi is just the best friend in the world, even while her body responds to the shoes with tightening nipples and a hot rush of arousal she doesn't even fully unpack.
 
-GATE 49 — Old Acquaintances
+Tonight is going to be an absolute powder keg. Pace sitting in his cold house after New Year's, and Vee showing up on his porch bare under a coat in Randi’s heels? Give it to me immediately.
+
+***
+
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing the two halves of that New Year’s text conversation click together was brilliant dramatic irony, and Vee’s dislocation in her childhood room felt intensely real. I’m ready for the holiday separation to end, though, so they can get back into a room together and let the fallout happen.
+WHY: The tension is coiled so tight it's vibrating. Vee kissing Randi on the mouth, Brooke's chilling, velvet-draped threat in the kitchen, and the sheer insanity of Vee driving to Pace's house naked under a coat in Randi's heels makes it physically impossible to put this book down.

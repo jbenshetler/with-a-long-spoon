@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch048 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch048 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The two texts. I read *thinking about you 💛* and *you ANGEL 😇* last chapter from Randi's side of the glass: lipstick on a stranger, the face going back on in a hotel mirror. Now I got to watch them land in a twin bed in Ohio, under the synchro-swimming trophies, and it was exactly what I wanted from this book. It's the retelling weapon again, but quieter. Both girls wrote "the thing" and both meant something they weren't saying. Randi put "Every word of it true. None of it the thing." Vee put "Not the thing — the thing she'd folded away in the glass room." Two women hiding two different things inside the same eleven words, and each one thinks *she's* the one being kind. I said "oh no" out loud.
+Okay. OKAY. I'm sitting up.
 
-Vee also *invented* the billionaire. Randi never typed the word "man." Vee built him herself, "devastatingly handsome," "a weekend so wild," straight out of the Redford-boy stories Randi has been feeding her all fall. Randi lies by giving out the fairytale and Vee fills in the rest. So I watched Randi's real night, flat and lonely, get turned into the glamorous version by the one person who'd have been gentle with the truth. That's the "step ahead of Vee" the jacket promised me, and it hurts in the right place.
+For the first two pages I was getting nervous. She's on a plane, alone, at night, listing everyone she's going back to. I told myself if this was another solo vigil I'd start skimming, and it started like one. But "After that came one more, and she did not get to it" got me, because I knew exactly who the one more was. Then she drives the Friday road, her hands know the drive, and she cries the whole way in. That's grief that actually lives in the body. And she gets up off the bed and goes, and that's what saved it. She went to Randi. Finally, two people in a room.
 
-The fra diavolo memory got me. She reaches for her best night to keep warm, and the blonde climbs into her own memory and takes her chair, her sheet, her wine light. "She could not keep her own night." That's real jealousy, the 1 a.m. kind that rewrites your past instead of just worrying about the future. And "a fashion model's body where Vee's was a stripper's." Oof. The mother-voice wire I had marked as quiet is back, at full volume, in the one room it was built in. Also note to self: she's still lying about the dancing, and she still cropped the leg off for her mother's phone. "Same picture, one house, and she was the one who had divided it." I liked that a lot.
+That whole bedroom scene is the dramatic irony I bought this book for, and it's almost unbearable. Randi is coaching Vee back to Pace. Is she doing it for Vee, or for the arrangement? For herself? I honestly think it's all three, and the book doesn't tell me which. Thank God. She tells Vee the blonde is something she built at three in the morning, and that's TRUE, because Randi knows Sheri. Every comforting thing she says is true, she just knows more than she's saying. "That's a boy holding himself still so it won't show how much you got him." She's right about him! She knows him better than Vee does, and that's the knife. "I'm so jealous I could scream," said warm and easy, "and it passed." No it didn't. Not for me.
 
-Now the gripes, because I have them. This is the second Vee-alone-in-a-cold-bed-not-texting-him chapter. Chapter 46 already did the thumb over the empty field and the "no message comes back in the shape of what she needed" beat, and this one says it again almost word for word. I noticed. The last line, "the cold room kept watch over the girl who was gone," is the book underlining its own theme. "A room that loved a girl who no longer lived inside her" already did that job a page earlier. I don't need it twice.
+The coat. I was waiting for Vee to finish the sentence herself, and she did: "And nothing under it." Then the mother-voice hit, and "slutty" cost her to say. Randi said "Say it" and didn't laugh, and walked her down off the ledge. That's shame and want lit off the same match, which is exactly how it works and almost no romance ever writes it. "Like a raccoon who lost a fight" made me laugh out loud. "Meow." I love her. I don't trust her.
 
-The bigger thing: I haven't seen Pace since she walked out his door on December 11, and it's now three weeks of silence in story time. Chapter 48 was Randi and chapter 49 is Vee missing him. I want him. I want to know whether he really did nothing for three weeks, or whether there's a reason I'm not being shown (Christmas with Sheri? Randi? Nobody?). If chapter 50 is another inner monologue I'll start skimming. If it's January and his door, I'm all in.
+THE SHOES. Both of them holding the same pair for a second. Her nipples drawing up over the straps, and then she explains it to herself in one second flat: it's the shoes, it's tonight, it's Pace. She's wrong, and she puts the thought away and keeps her eyes on the straps. That's how you do subtext, Helen. You let the heroine misread herself and trust me to see it. I also want to know whose shoes these really are, and whether Pace has seen them before.
 
-Also, small thing: Vee knows about the PPP money and envies Gstaad anyway. "Even a poisoned Gstaad was more life than she had." That's honest, it's not pretty, and it's very twenty-one. I believed her.
+Then the Gstaad story, and Randi stops at the bedroom door. "Everywhere but the bedroom, and the bedroom's the room I actually live in." From my notes I know that's a lie that's also the truest thing she's said. Then Vee goes back from the latch and kisses her. SHE started it, after four months of holding still. And Randi's POV after: the back of her hand to her mouth, "the afterward was the least interesting part of four months," "She came back." I had to put the phone down.
 
----
+And then BROOKE. I'd lost Brooke entirely and she walked in and became the most frightening person in the book. Ninety girls, the composites, "every one of them photographed looking slightly to the left." "Play all you want… for the boys." Lauren Pike. "You need to choose." The cold mug she never put anything in. That's a real outside force, finally, and it isn't one unsent text. Randi's whole life is a show, and now somebody has seen it.
 
-GATE 49 — Old Acquaintances
+1 a.m. text: *"she's going to his door tonight in a coat and NOTHING and Randi's heels and she just kissed Randi under the sorority wall and the president SAW. I'm not sleeping."*
+
+Small gripes: "it reached Vee that none of it rated a look, that the wrecked girl in her doorway came first" spells out a bit too much. Kayla and Meg came back as names on a list, which is a little cheap. The pool is new to me, or I lost it. And Randi's Pace-shaped silence about Sheri needs to come due eventually.
+
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "There was nothing to put there. She'd learned that already, in another bed, in another cold room." The book knows it's repeating chapter 46, and so did I, and I counted pages.
-WHY: The mirrored text exchange and the blonde taking over the fra diavolo night are the best things this book does: same moment, two rooms, and I'm the only one who sees both. But it's the second solo cold-bed vigil, Pace has been offstage for three weeks, and the lyrical close leaned on me. I'm turning the page for *him*, not for more of her ceiling.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise…" That's where I braced for another lonely-vigil chapter.
+WHY: The stall broke. Two women on a bed, true things used to cover a lie, shoes that turn her on for reasons she won't name, and Vee kissing Randi first. Then Brooke makes it cost something real, and there's a coat and a door tonight. I'm already reading on.

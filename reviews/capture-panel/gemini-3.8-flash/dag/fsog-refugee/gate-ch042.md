@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh, Vee. My heart just aches for her in this quiet little chapter.
+Oh, god. This hurt. This hurt so much worse than a screaming fight, because it’s the quiet, bleeding truth of what happens when a girl is in so deep she’s picking fights she doesn’t even want just to see if the walls are real.
 
-It’s called "Cropped," and that title cuts right to the bone. She cropped the picture for her parents so they wouldn't see the slit up to her hip; she cropped the story of Pace so her dad wouldn't hear that he sews silk dresses and cooks gourmet meals and makes her world spin; and she’s cropping *herself* to survive the transition between who she used to be and who she’s becoming. That line about her father—*"Sex he understands. The sewing he never would"*—is so achingly, brilliantly perceptive about traditional family dynamics. Her dad can handle the idea of a guy trying to get into his daughter's pants, but a massive twenty-two-year-old mathematician who carefully stitches custom silk on a sun porch because she sighed over a magazine? That’s "weird." That breaks the reality of an ordinary Ohio dad who burns the rolls on purpose.
+When she snapped in the dark—*“If we’re just sex, I’d like to know”*—my whole chest seized. It was unfair, it was sharp, she was rewriting the past because she was terrified, and what did Pace do? He didn't yell. He didn't get defensive. He went still, took her seriously, and offered to take her wherever she wanted *right now*. That’s him down to his bones: a problem presented, a problem solved. But a noisy Chili's booth under blaring TVs and dead nachos can't fix a soul that is starving for emotional definition. Seeing him struggle with sensory overload, his eyes dragged to the screen, the fork being turned over and over—and her misreading his sensory exhaustion as boredom with *her*—was agonizing.
 
-And then Cassie—God bless Cassie, forever and always the only honest mirror in this whole damn book—asks the only question that matters: *"So what is he... Not to your dad. To you?"*
+And then the quiet in his living room when he just laid it out: *"That restaurant—places like it—they're too loud... In a room like that I listen as hard as I know how and I still can't hear you."* God, I love him for that. He isn't cruel. He isn't dismissive. When he listens, he listens with everything he has.
 
-And Vee can't answer. *"Is it that you can't say, or that you don't want to? / Both. Probably both."*
+AND YET.
 
-Because saying it out loud makes it real, and making it real means looking directly at how terrifyingly deep she is. She loves him. We know she loves him—she told his sleeping back, she brought him his old flannel shirt just so he’d wear it and give it back smelling like him, she’s practically moved into his bathroom drawer. But standing in the harsh fluorescent lighting of a college cafeteria, holding the clean, simple version of her life next to the tangled, intoxicating reality of Pace, she can't even say the word *boyfriend* without an audible question mark.
+The end of this chapter ripped me up. She gets the incredible, tender, completely shattering sex—she gets him losing his ironclad control, which she had been practically begging for—and then she’s lying there, sticky with him, cooling off in the dark, and the bottom falls out. *"He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."* That is the loneliest sentence in this entire book. She's his in every physical, emotional, spiritual way, but she doesn't have a *name* for him. She can't tell her dad. She can't say "boyfriend." And underneath all of this, the reader knows what she doesn't: that the reason it has no name, the reason he won't say *I love you*, is because she is trapped in a design she doesn't even know exists. He took her apart, gave her everything, and held back the one thing that would make her safe. I am aching for her.
 
-And underneath the sweet, tender poignancy of this conversation, my stomach is in absolute knots. Because Vee thinks she's keeping a secret about an impossibly good fairytale. She thinks the only problem is that Pace is "too good" to explain to normal people. She has *no idea* that while she was home eating burned rolls, Pace and Randi were bent over that couch in his living room, fucking four times, talking about her hair and her mouth and planning when she'll be "ready" to be brought into their bed. She doesn't know that the "catch" her dad would instinctively look for is real, and that it's sitting next to her in stats class wearing mulberry silk.
+***
 
-I loved this quiet beat. It wasn't flashy, there wasn't a drop of sex in it, but it showed me the weight of what Vee is carrying. She is outgrowing her old life, outgrowing her family's narrow view of womanhood, but she's stepping straight toward the edge of a cliff she can't even see.
-
-GATE 46 — Cropped
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The character psychology here is completely flawless—Vee trying to explain Pace's impossible gentleness to an ordinary world that only understands coarse things broke my heart. Cassie asking the hard questions keeps the whole story grounded right before the inevitable explosion.
+WHY: The psychological honesty of Vee picking a fight out of sheer emotional starvation, contrasted with the sheer physical intimacy of him losing his control in bed, was excruciating and brilliant. I desperately need to see when the truth finally cracks open.

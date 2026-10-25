@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch064 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch064 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha c6c4f08ae565 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this book. This is the first chapter in a while that wasn't two people talking at a table, and I didn't resent a second of it — because it put me in a room I've read a hundred times and made it feel like somewhere I'd never been.
+Okay. Okay. There it is. Sixty-seven chapters and the thing finally crossed the floor — except it didn't cross the floor, it was *walked* across, hand at the small of the back the whole way, and I need to sit with how I feel because I have about four feelings and they're fighting.
 
-First: the two girls on the couch. "One had come to be looked at... the other she understood only after a second... she had come to be touched." And Vee sitting between them knowing which one she is. That's the whole book in three sentences and it didn't once tell me which one she was, it let me land on it. God, this writer.
+First: the craft of the setup made me furious in the good way. The skirt is Randi's. The shoes are Randi's (the induction heels again — "a real spine in them, nothing like the soft flat things she owned that let her foot sprawl and do as it liked," and that is the whole book in a sentence, that's what Randi *is* to her). The margarita she didn't order, the second one she didn't see arrive, the hem Randi widens with her own hands on Vee's hips so the climbing is Randi's doing too. Every single variable in that room was set by the architect, right down to "make Harrison wish he were me" — the alibi handed over pre-written so Vee can kiss her best friend and file it under performance. I have watched Randi build these little machines all book and this is the biggest one and the most naked and I could not look away from a single gear of it.
 
-And the thing I keep waiting for — the taste-thread dread, the body voting before the mother's voice slams the lid — it paid off HERE, sideways, in a way I didn't see coming. The wax. The arousal in the cold bright room under the bored hands, "a lit thing, it moved in her low and wrong," and then the second, smaller horror: what the woman can see. The body telling on her. That's been the engine since the cum-taste morning and here it is again, naked, literal. I love that the charge showed up in the least sexy room in Virginia.
+And here's what gutted me: *it works on Vee and it half-works on me.* Because underneath all the engineering, the kiss itself isn't engineered. "There was no floor." "She had not been performing — somewhere in there she had stopped entirely." Vee's body told the truth in a room full of lies about why it was happening. The "please, not a demand" of the tongue, the hips pressing once "asking," the hand going up into Randi's hair "without asking her" — this is the reach from chapter 60, the two fingers a breath's width from her own mouth, finally *closed*, except she still can't close it herself, Randi had to close it for her and hand her a story about Harrison so she wouldn't have to know she did it. The irony that went underground into her own bed in 60 did NOT surface. It got kissed and then immediately reburied. "There is no version of the night in which she could ask." She knows she wants to do it again so badly her hands shake and she has already agreed, with the laugh that "came out sounding like the room," to call it a bit. God.
 
-But the thing that actually took the top of my head off: the WRONG HAND. "Don't move." The flat palm on her thigh that holds her exactly the way she wants to be held and wants nothing from her. "It held her the exact way she wanted to be held and it did not want her at all." I actually put the book down for a second. That's the reach-in-the-dark thing from chapter 60 made flesh — the grammar her body learned in Pace's room, played back with everything true scooped out of the middle. This writer keeps finding the physical object that IS the feeling. A hand on a thigh. I'd text a friend just that line.
+The Love bracelet. Helen Rivers, you absolute snake. The Cartier Love — "it's a real commitment, taking it off requires tools" — dropped in light and fond on the walk over, and it's the engagement-ring-shaped thing locked onto the wrist of the woman who cannot say the word, who runs every kiss so she never has to be the one caught wanting. She's wearing *Love* welded shut and handing Vee a skirt instead of a sentence. I clocked it and then I had to put the book down for a second.
 
-And then the floor dropping twice. "That's the hard part behind you" — and then "Roll over for me." The part Randi didn't say. And THAT'S the knife I've been waiting for — because I've got Randi's whole "barely stings" and the wine and "the most expensive thing in the room" sitting right there, and not one word about rolling over. Randi curated this the way she curates everything. She sent Vee bare into a thing and left out the part that would've let her choose. It's small and it's loving and it's also exactly what Randi does — gives you the sanded-down version so you arrive where she wants you. The venom under the warmth, again, and Vee can't see it.
+Brooke not touching the robe-morning. That's the kindest she's been and I trust it least — the warmth is always the setup in this book, Brooke prices every room, and "Randi's new friend" said three times with that switch-on smile is a woman taking inventory of exactly how far the thing has gone, in her own house, at her own party, two weeks after "choose." Randi said "I chose" and Brooke said "I can see" and I went cold. That exchange is the clock ticking and only two people at that party can hear it and neither of them is Vee.
 
-What chilled me cleanest: "she had never once in her life thought of as a thing that got done." And she rolls over anyway, because "another line seemed like a joke, a thing for a girl who had any lines left." That's the slide the whole book has been engineering, and the book knows it, and didn't say so out loud. Thank you.
+Cassie's eyebrow. "He gets me tomorrow. Tonight I'm Randi's date." / eyebrow up half an inch, says nothing. The honest instrument reads it in one pass again and loves her too much to pull the thread. Someone show that girl before the cut-out sets.
 
-The ending got me — alone, her own hand, "the right hand, the one she'd kept everything back for," wanting his touch on the new smoothness so badly it's a cleaner ache than the other. It's genuinely tender and genuinely hot and I believe both at once, which is the only reason I'm still here 65 chapters in.
+What I'm scared of now: Vee goes to Pace *tomorrow*, mouth still tasting of Randi, same as she went to Randi tasting of Pace. The symmetry is the horror. And Pace "likes hearing her want her." He and Randi did the whole thing in 61 — he knows. He's feeding it. Three people in the game and Vee still thinks there are two, and now she's done the thing and still doesn't know she's done it.
 
-Was it hot-hot? No. It was a 1 that mattered more than most 3s. And Randi barely in it except as the voice she's lying through by omission — which honestly made me miss her and want the Thursday fallout.
+At 1 a.m. I'm texting: SHE KISSED HER FOR REAL AND RANDI CALLED IT A SHOW AND VEE *LET HER* and the bracelet is LOCKED ON and I cannot breathe. This is the chapter I've been reading toward since chapter 50. No, I'm not stopping. Are you insane.
 
-GATE 65 — Barely Stings
+GATE 67 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none — though the second the service turned out to have a back half, I braced for this to tip into pure degradation-for-its-own-sake, and it didn't, it stayed about her.
-WHY: The wrong-hand passage is the best single image the book's handed me since the reach in the dark, and the "roll over" reveal quietly indicted Randi without a word of narration. A bridge chapter in a salon that hit harder than most of the bedroom ones, and I want to see this smoothness meet the right hand — and watch what Randi left out start to cost.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The kiss I've waited the whole book for, and it was both — peak charge and a genuine turn in the bond, with the whole lie it's wrapped in intact so it lands as a wound and not a release. The Love bracelet and Brooke's inventory tightened the noose at the exact moment the thing finally happened. I'm already on the next page.

@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch059 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch059 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
-REACTION:
+REACTION — Oh, this book. I came off two chapters of the third-game pressure cooker — Randi saying "I want her to know exactly what she does to me" with Pace still inside her — and this chapter just... set all that down and took me to a taproom, and I'm not even mad, I'm moved.
 
-God. This book keeps doing the thing where the sex scenes are actually about something and I can't get away with skimming them.
+The dread was so well done. The blonde Sheri Vee built — "the hair went gold, the leg went tan" — and then five foot nothing of permed roots and crooked makeup stands up off a stool, and the blonde "didn't die so much as fail to find anywhere to stand." I felt that in my actual chest. And the LOOK — the slow trip down that wasn't pricing her, wasn't ranking her, was ENJOYING her — stuck on the induction heels like "a word being kept for later." Vee laughing before she voted on it, a month of dread leaving in one breath. That's the good stuff, that's the interiority I'm here for.
 
-That chapter wrecked me a little. It's just her, alone in a hot room, and it's one long failed reach — she gets all the way to her own mouth and stops, a breath's width, "until her lungs began to hurt," and the book makes me sit there with her in the not-doing-it. That's brave writing. The easy version of this scene is she tries it, it's a breakthrough, empowering, roll credits. This version — where wanting and shame run in the same wire and wanting loses by a fingernail, tonight — is truer to every woman I've ever been, including me at twenty-one. "Her mouth was still empty" as the closing line. Christ.
+But it's Sheri's second confidence that wrecked me. "Whole tablecloth come off the table and nobody caught a dish." And then Pace: drove her home, didn't ask one question, porch with coffee and donuts, fixed the lock, "he never handed me one false word." It retroactively explains everything — the hands that stay where the dance puts them, the whole hall giving up on him — and then "Went bad with his daddy. He hasn't been home since he was sixteen." The book just opened his back story through a stranger's mouth and had the grace not to decorate it. And Vee watching his back across the room while she learns it — I had to put my Kindle down for a second.
 
-And the thing that made it ache is who's in the room with her even though nobody's there: Pace, glad and unbothered, and Randi, level and mild: *It was powerful. It turned me on.* She's caught between the two of them and doesn't know she's caught between the two of them. The whole chapter is her wanting Pace's ease and Randi's permission in the same breath. "Had Randi's looked like this?" — she's not asking about fingers, she's asking *what was it like for you*, and she doesn't know that's what she's asking. The blurb said "Vee is a willing player in two games. She doesn't know there are three," and this is the first time I've felt the third game actually ticking — that her wanting keeps arriving with Randi's face attached and she keeps filing it under Pace.
+The blush. Twice. "Bet those legs feel like Christmas" and this man who worked a whole party without blinking goes red to the EARS. Vee's right: she could watch that all night, and so could I.
 
-Small things I loved: her wiping her fingers on the sheet — twice — and then settling her hip over the damp patch. *Her mess. Hers to lie in.* The girl who stood bare in the cold in chapter 46 rather than take fake comfort, now lying down in her own stain on purpose, half penance half claim. And opening Cassie's window at the end, airing out the room before her roommate comes home — that tiny domestic shame-management, then letting January in to scour it. The flannel with every button open and then buttoned to mid-thigh, respectable again. Her body's whole evening in two states of one shirt.
+I'm noticing what this chapter did structurally, too, because I can't not: the last two chapters were the third game running hot — Pace and Randi in bed talking about HER — and this one is the two-person bond getting re-fortified before Valentine's Saturday, which now has Sheri commanding attendance AND "bring your opinions." That's a loaded night on the calendar. And Randi didn't exist in this chapter at all, which after ch 61 is a silence I can feel on purpose.
 
-I notice this is the second chapter running that's mostly one woman in a bed or a booth talking/thinking, and I don't care yet, because both of them were lit fuses, not throat-clearing. But the fuse is long now. Between Brooke's threat to Randi, the "he's enthusiastic / I don't" crack from Thursday, and this — the book has three bombs sitting in a row and I need one of them to start beeping soon. If next chapter is another solo recalibration I'll start tapping my foot.
+Small quibble, honestly barely one: the chapter is long and the middle sags a touch with the drinking-montage compression. But the ending bought it all back — headlights held on her door until the porch light comes on, "which he had done just now the exact same easy unannounced way he apparently did everything, everywhere, for everyone he kept, and had never once mentioned." Bacon cheeseburgers, to the window, to nobody. Ten and two. I'm fine. I'm completely fine.
 
-GATE 60 — The Reach
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
-HEAT: 2
-ROMANCE: 1
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Almost nobody writes a failed climax-of-courage this honestly — the stopped tongue, the wiped fingers, the empty mouth — and it's clearly load-bearing: Vee's want is migrating toward Randi and the book knows it. I need the next chapter to move (Brooke, or the telling, or something external) because three consecutive interior-chamber chapters is my limit and this is chapter two.
+WHY: Zero heat and I didn't care — this was the tenderest chapter in the book, and the Pace-reveal through Sheri's mouth ("hasn't been home since he was sixteen") is the kind of payoff you read sixty chapters for. I want Valentine's Saturday and I want back to whatever Randi's doing after that ch 61 confession, and I want both immediately.

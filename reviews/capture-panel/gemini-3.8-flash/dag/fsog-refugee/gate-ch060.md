@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
-REACTION
+REACTION:
 
-I am sitting here with my stomach in my absolute throat.
+Oh, this broke my heart into a dozen pieces.
 
-Look, I knew what this book was. The jacket told me: *“Vee is a willing player in two games. She doesn’t know there are three.”* I knew Pace and Randi had a thing. I *knew* it. But having it dropped directly on my head in chapter 64, right after watching Vee agonizing alone in her dorm bed over tasting herself, buttoned into his giant shirt, wondering if she was "greedy"—to turn the page and see Pace with his mouth buried between Randi’s legs? Tasting Randi off his own mouth without an ounce of hesitation? It hit me like a slap across the face.
+I was not prepared for this chapter. After the pure adrenaline rush of Wednesday's roadhouse, and then that fever-pitch chapter 64 where Pace and Randi are fucking like demons while obsessing over Vee, and then the absolute riot of meeting Sheri in the taproom... to wake up here, in this quiet, cold, hangover-bright kitchen, felt like walking into an empty church.
 
-It is brilliant, and it makes me physically sick.
+Pace making cinnamon raisin bread from scratch while she sleeps off her cider. The folded paper towel under the water glass so the wood wouldn't mark. It’s those tiny, devastating details of domestic care that make me love him so hopelessly, even while I want to shake him until his teeth rattle. He is so profoundly *good* to her in the physical world. He waters her like a plant; he feeds her; he puts his softest clothes on her back.
 
-The sheer, staggering hypocrisy of it. Vee is over in her dorm room treating Pace like he’s made of spun gold, weeping with gratitude because he called her his "girlfriend" in a barbecue joint, and here he is lifting Randi by the hips, letting Randi call herself his "fuck doll," while both of them get off talking about Vee like she’s a dessert they’re splitting.
+And then the ax falls. Not with a shout, but with that awful, flat, mathematical plainness: *"Sheri is my friend. My one friend. There isn't anyone else."*
 
-*“Her breast in my hand,” Randi said... “All that softness. The weight of it.” ... “And her nipple in my mouth.” He sucked.*
+My god. The sheer, echoing loneliness of that sentence. When Vee started pushing—because she’s twenty-one and her whole life is noisy dorm rooms and borrowed clothes and shared cafeteria trays—and he laid out his entire life like an autopsy report... I had a lump in my throat the size of an apple. *“Men make friends by competing... I was never once in the pack.”* And then that knife-twist about the men who *“either weren't safe or weren't welcoming,”* tying straight into his father and him fleeing home at sixteen.
 
-My God. The heat of it is insane, I can’t even lie. It’s filthy and intense and psychologically twisted in a way that had my heart pounding against my ribs. But the emotional betrayal is breathtaking. Randi is in love with her. Pace is in love with her—Randi called him out on it directly (*"She's not the only one in love"*) and he couldn't deny it. They both love Vee. And instead of being honest, instead of dealing with the fact that they have brought an innocent, completely devoted girl into the center of their web, they are using her name as dirty talk while they fuck each other into the mattress.
+Vee seeing Daphne clearly for what it was—not just romantic tragedy, but grooming, an older predator taking advantage of a brilliant, isolated fifteen-year-old boy who had literally no one else in the world—was such a mature, devastating turn in her head. She finally stopped seeing Daphne as a romantic rival and saw the horror of it. Pace had one person who carried all of him, and she abandoned him, and he has spent the last decade building a fortress of polite distance, baking bread, and convincing himself that isolation isn't tragic.
 
-And then the dialogue at the end completely broke the spell for a second. *“I did my part. Now stick that inside me.”* What the hell was that? It sounded like a badly translated porno script dropped into the middle of a high-end psychological novel. Randi has never spoken like that in her life. It felt jarring and clunky, a bizarre stumble in a chapter that was otherwise suffocatingly intense.
+And then Vee’s reaction. She didn't offer pity. She didn't patronize him with easy words. She walked around that counter and gave him the exact hug Sheri gave him—full weight committed, no demands. When he rested his chin on her head, looking out the window, just letting her hold him... that was pure, aching intimacy.
 
-I am furious at them. I want to shake Pace until his teeth rattle. He sits there in his noble silence with Vee, holding back *I love you* because of his tragic past, but he has zero problem fucking Randi while she narrates what she wants to do to Vee’s breasts. The sheer arrogance of these two people playing god with Vee’s heart is about to detonate, and I am terrified for her. But God help me, I have to see the explosion. I cannot look away.
+The tragedy, of course, is that while he's telling her Sheri is his only friend, he's actively hiding Randi. Randi, who is currently tearing through his bed and his psyche, an accomplice rather than a friend. Vee thinks she's holding a man who has nothing, completely unaware of the web he's spun around her. But the tenderness here? The absolute emotional weight of it? It gutted me.
 
-GATE 64 — My Pleasure
+***
+
+GATE 66 — Hangover
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 10
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: “I did my part. Now stick that inside me.”
-WHY: That clunky, porno-dialogue line completely broke the atmosphere of the scene, but the sheer narrative bomb that just went off makes it impossible not to turn the page immediately. The betrayal is sickening, but I have to see how Vee survives this.
+CAPTURE: 9
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The quiet emotional devastation of Pace explaining his complete isolation, paired with Vee finally seeing the reality of his trauma without pitying him, was masterclass character work. It aches so beautifully.

@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch052 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch052 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · 2026-10-11*
 
 **REACTION**
 
-Okay. I have to text someone about the blanket.
+Okay, so she lied to Cassie, and she was good at it. That's what I'm holding.
 
-For most of this chapter I was purely happy, the kind of happy this whole genre had stopped giving me. She wakes up alone and gets one second of December panic, then remembers his voice saying "farmers market, sleep as long as you like." He set out the sweats and she leaves them folded. "Poor thing," she can't dress. The pleasure slave idea turning inside out halfway down the hall into "pleasure princess" made me laugh out loud, because that's the book answering my whole reading history in one shimmy. *Not kept for a man's pleasure. Kept in pleasure.* That's exactly what I left the mafia books looking for, and here she found it herself, barefoot, counting it off on her fingers.
+I understand why. Nobody owes their roommate "I drove out in a coat and heels and nothing else and he went down on his knees on the porch." That part is hers. But "that's private, Cass, I'll never tell you" was right there, and Cassie of all people would have taken it. Instead Vee built a whole fake out of real pieces: the cranberry sweater, the dye running into her good pants, his t-shirt, the burnt toast. It even had a doll-sized punchline. She gave it his flat delivery and Cassie laughed her rare full laugh. Then the book says "the record stood exactly where Vee had left it, corrected by nobody," and my stomach dropped a little, because I've seen this before. She lied about the Rusty Nail, and she cropped her own photo at the waist for her mother. Now this. She keeps cutting herself in half for whoever's looking. That's what she was crying about in her childhood bedroom, and she's still doing it, just with better reviews.
 
-The toast burning. "I got mushrooms," level as a plank. "I can put the sweats on if you need to concentrate." "No," before she's finished. I adore him in this chapter. Then the bedroom. She runs the whole thing with one finger and he goes exactly where she points: wrist, arm, armpit, breast. The control is hers to give out, and his patience still gets to be his own. "Bad slave" was perfect, because the slow road is the thing she's begging for, and they both know the pointing is a game they're playing together. I was completely in it. Her wetness on the blanket, the shame and heat as "one arrival," him drinking it and holding her open, "nothing in them asked her to be any less." That's the book making me *feel* it, not watch it. HEAT is easy.
+The line that got under my skin more than the sweater was "We *talked*." No they didn't. The whole fight was about a word, and she fixed it by not saying any. He said sorry and he missed her, and he still hasn't said the thing. I know from his chapter, the whiskey and Daphne, that he knows he loves her. She doesn't know that. And now, telling it to her best honest friend, she's rewritten that night as one where words happened. I loved the coat scene. But I don't love her teaching herself that the coat was the conversation.
 
-Then the kiss, and it matters to me that he did exactly the right thing. She says "gross, wrong," and he starts pulling out. She says "not that," and he reads which no is which. He wipes his mouth, says "Okay," doesn't sulk or explain, and leaves her mouth for her to come back to. That's the man I asked for. If the chapter had ended there I'd have called it the best one in the book.
+Cassie's mother saying thank you for the card wrecked me a little. Vee sent a card, with no angle and no audience. Her hand went to her robe collar like something had touched the back of her neck. That's the Vee I'm reading for: kindness that wants nothing back. It also makes the MIRA secret sit heavier. This family wants her at their table, and the brunches she loves were paid for by the people who cost Cassie's dad his job. When that lands, it lands here.
 
-But it doesn't end there. "He must have forgotten to wipe. This once." So he has *always* wiped, hundreds of times, carefully. "A faint edge of sharp and salt that had not been there this morning." Her tongue went looking before her mind could vote. And the last line has her planning to take the strange small thing to Randi, "Randi would know what to make of it." *Somebody has to get her used to my mouth.* I wrote that down as the ugliest sentence in the book, and now I'm watching it happen. He's been training her palate one careful wipe at a time, and today was either a slip or a step. I honestly can't tell which, and that scares me more than either answer would.
+Small stuff I liked: missing the draft, the snowshoes in the house, "the baby is a baby." The flannel up over her nose with his smell going faint, and deciding he'll just have to wear it for her again. Her hand going out across the bunk and hitting cinderblock. It's quiet, but the care is on the page, so it costs me nothing. They were alone together a chapter ago.
 
-And then the blanket. She spreads "the cream cashmere" over the foot of the bed as her own little gift to him, soaks it, pulls it up over them both, and thinks it's how he gives presents, no card, no thank-you. My notes have it from the night he drank alone: Randi's cashmere blanket, for the chill that takes her after, kept on the chair for her. Vee came three times on Randi's blanket and went to sleep under it thinking it was a love note. He let her think so, said nothing, the same as always. The heels are Randi's too, and the coat was Randi's idea. Every piece of this perfect morning has Randi's fingerprints on it, and Vee is glowing.
+What I really want now is Tuesday. Randi just got told by Brooke to choose. Vee is going to walk in glowing, give the coat story to Randi and not Cassie, and maybe the "strange small thing" too. Randi will "know what to make of it," and that's exactly what scares me. And Pace said "Let me handle it" about a party with everyone in it, Randi in the middle, in that house with that table in the bedroom.
 
-Where I stand: I still believe him. "Okay," and leaving her mouth for her, is real consent and real care. He also still hasn't said the word. Last night he said he was sorry and he missed her, and she was "too full to want anything he hadn't given," which is lovely and also exactly how the word goes unsaid for another volume. I'm suspicious of the frame, not of the man in the bed. Vee's desire this chapter was hers from the inside, every bit of it. I just want her to get to know what she's lying on.
-
-1 a.m. text: *she slept under RANDI'S BLANKET and thinks it was a gift for her. also he's definitely been wiping his mouth on purpose for four months. I'm fine.*
-
-GATE 56 — Missed a Spot
+GATE 58 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: none. The closest I came to bristling was "He must have forgotten to wipe. This once," because it changed what the whole slow scene had been. It made me grab the book harder, not put it down.
-WHY: This is the consent I came for, tenderness and play with her running the show, and "Okay" said like she'd done something young and dear. Then the wipe, the salt and the blanket made me sure the room has a third person in it that Vee can't see. Tuesday dinner with Randi is next, and I'm not stopping before it.
+CAPTURE: 5
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "the unpacking suspended somewhere in the middle in favor of the desk chair and the book" — the opening dorm-routine stretch, before I realized she was about to lie.
+WHY: It's a quiet chapter and it held me less than its neighbors, but the lie and "we talked" are the thread I'm actually tracking: Vee rewriting her own story so she can keep standing. Cassie's mother and the card made the coming MIRA fallout feel close, and with Tuesday-with-Randi and the party both loaded, I'm reading on.

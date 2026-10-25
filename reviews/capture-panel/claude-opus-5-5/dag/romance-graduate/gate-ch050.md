@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. OKAY. I'm sitting up.
+Okay. I need a minute.
 
-For the first two pages I was getting nervous. She's on a plane, alone, at night, listing everyone she's going back to. I told myself if this was another solo vigil I'd start skimming, and it started like one. But "After that came one more, and she did not get to it" got me, because I knew exactly who the one more was. Then she drives the Friday road, her hands know the drive, and she cries the whole way in. That's grief that actually lives in the body. And she gets up off the bed and goes, and that's what saved it. She went to Randi. Finally, two people in a room.
+First, the blanket. She went back down the hall with her coffee and spread **the cream cashmere** over the foot of the bed, square and smooth, like she was making a nest. Then she soaked it, "the softest thing in the house taking the ruin of her." And her afterthought is that it's "the beautiful blanket he had never said one word about … which was how he gave gifts." NO. My notes have it in caps. That's *Randi's* blanket, for "the chill that took her after." Vee lay on it and came three times thinking it was a love letter to her. I actually put the Kindle face-down on my chest. That's the best kind of dramatic irony, the kind the book doesn't explain to me. It trusted me to remember, and I did, and it made me a little sick and very turned on at the same time. That's exactly the double feeling I'm here for.
 
-That whole bedroom scene is the dramatic irony I bought this book for, and it's almost unbearable. Randi is coaching Vee back to Pace. Is she doing it for Vee, or for the arrangement? For herself? I honestly think it's all three, and the book doesn't tell me which. Thank God. She tells Vee the blonde is something she built at three in the morning, and that's TRUE, because Randi knows Sheri. Every comforting thing she says is true, she just knows more than she's saying. "That's a boy holding himself still so it won't show how much you got him." She's right about him! She knows him better than Vee does, and that's the knife. "I'm so jealous I could scream," said warm and easy, "and it passed." No it didn't. Not for me.
+Then the taste. On the surface it's a sweet scene. He goes down on her slow, kisses her wrist and her armpit and her toes, and comes up wet and kisses her. She says "Ugh — gross… Wrong." Her mother's voice does it, the flat clean "that's not a thing you do." He wipes his mouth, says "Okay," and leaves her mouth alone until she comes and takes it back. I loved that "Okay." Him not sulking and not explaining, "as though her mouth could wait for her." That's the grown-up man I've wanted since chapter 44.
 
-The coat. I was waiting for Vee to finish the sentence herself, and she did: "And nothing under it." Then the mother-voice hit, and "slutty" cost her to say. Randi said "Say it" and didn't laugh, and walked her down off the ledge. That's shame and want lit off the same match, which is exactly how it works and almost no romance ever writes it. "Like a raccoon who lost a fight" made me laugh out loud. "Meow." I love her. I don't trust her.
+But her tongue went *hunting*. Twice. It reached for the taste before her mind could rule on it. Then she lies there licking her own lip, "looking for something," and "*Why does he like it so much?*" stays on the edge of the bed. The jacket said her appetite runs in more directions than one, and the book just made her curious about what a woman tastes like. Then it closes on her planning to tell *Randi*, of all people, about this exact thing. In chapter 51 she stared at Randi's mouth until it passed, and then kissed her under the composites. "Randi would know what to make of it." Oh, honey, she would.
 
-THE SHOES. Both of them holding the same pair for a second. Her nipples drawing up over the straps, and then she explains it to herself in one second flat: it's the shoes, it's tonight, it's Pace. She's wrong, and she puts the thought away and keeps her eyes on the straps. That's how you do subtext, Helen. You let the heroine misread herself and trust me to see it. I also want to know whose shoes these really are, and whether Pace has seen them before.
+Then there's "he must have forgotten to wipe." So he's been careful every time? Hundreds of times? Why would a man who loves it that much always wipe? Is it a habit someone taught him? Daphne? I'm suspicious and I can't say of what, and that's fun.
 
-Then the Gstaad story, and Randi stops at the bedroom door. "Everywhere but the bedroom, and the bedroom's the room I actually live in." From my notes I know that's a lie that's also the truest thing she's said. Then Vee goes back from the latch and kisses her. SHE started it, after four months of holding still. And Randi's POV after: the back of her hand to her mouth, "the afterward was the least interesting part of four months," "She came back." I had to put the phone down.
+The heat was real heat. It was fully explicit, no euphemism, and the anatomy was right: "past the grip of her," the spot that makes you want to pee and scream at once. The orange paragraph comes back on purpose ("opening her as he had opened the orange"), and that's earned, not decoration. The pointing game, the gladiator, "Bad slave." "His hurry died at her skin." Him burning the toast because she put her foot on the chair. "I got mushrooms," level as a plank. I laughed out loud.
 
-And then BROOKE. I'd lost Brooke entirely and she walked in and became the most frightening person in the book. Ninety girls, the composites, "every one of them photographed looking slightly to the left." "Play all you want… for the boys." Lauren Pike. "You need to choose." The cold mug she never put anything in. That's a real outside force, finally, and it isn't one unsent text. Randi's whole life is a show, and now somebody has seen it.
+Gripes, because I keep a tally. The pleasure-princess bit went one shimmy too long. I got the reversal the first time; I didn't need the giggle, the shimmy, and the "kingdom" too. The breakfast-tasting paragraph is gorgeous, but "a taste that was almost masculine, if a flavor could be a gender" is the book leaning over to make sure I see the set-up. And the "it had been in the room a long time … come and sat on the edge of the bed" paragraph is close to explaining its own subtext. Close, not over the line.
 
-1 a.m. text: *"she's going to his door tonight in a coat and NOTHING and Randi's heels and she just kissed Randi under the sorority wall and the president SAW. I'm not sleeping."*
+The quiet thing I'm carrying is from chapter 52. He started "Vee, I l—" in the doorway and she cut him off with the coat. Randi's plan was "you don't do it with words," and it may have cost Vee the exact word she walked out over. Nobody in this chapter mentions it. I'm watching for it.
 
-Small gripes: "it reached Vee that none of it rated a look, that the wrecked girl in her doorway came first" spells out a bit too much. Kayla and Meg came back as names on a list, which is a little cheap. The pool is new to me, or I lost it. And Randi's Pace-shaped silence about Sheri needs to come due eventually.
+Two hot chapters after a long cold stretch, so my stall alarm is off. And the Brooke ultimatum ("you need to choose") is sitting under all of it like a ticking thing. The text I'd send a friend: *she just came all over the other woman's blanket and thinks it's a love gift, and now she wants to know what she tastes like, and she's going to ask THE OTHER WOMAN.*
 
-GATE 51 — My Friend Randi
+GATE 53 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise…" That's where I braced for another lonely-vigil chapter.
-WHY: The stall broke. Two women on a bed, true things used to cover a lie, shoes that turn her on for reasons she won't name, and Vee kissing Randi first. Then Brooke makes it cost something real, and there's a coat and a door tonight. I'm already reading on.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "she was a pleasure princess. Not the kind of woman who is kept for a man's pleasure. The kind a man keeps *in* pleasure."
+WHY: It's a long, filthy, generous morning, and the book hid a landmine in it (the blanket) without pointing at it. The taste beat finally starts waking up the thing in Vee the jacket promised. The princess cuteness sagged a little, but the last line sends her straight to Randi with exactly the wrong confession, and I want that dinner tonight.

@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 710d07207a12 · 2026-10-15*
 
 REACTION:
 
-Oh, god. My chest actually hurts. The tension in this chapter was so thick I could barely breathe.
+I am actually clutching my chest right now. Oh my god.
 
-That opening paragraph—Vee spending all of Sunday riding Pace over and over again, using him like an anchor trying to drown out the storm inside her, "full of him and not, somehow, filled"—is absolute poetry and absolute heartbreak. She used him on Saturday night to erase Randi, she spent Sunday trying to cement herself to him, and the second she’s alone on Monday night with her hand pinned to her stomach like a pot lid holding down boiling water, it’s all right back there.
+This chapter made me feel like I was running a high fever in a velvet booth. The absolute agony of Vee trying to put on her armor—the high crewneck, the pearls, dressing like she’s “about to inherit something” just to stop herself from being what she calls a “sex pervert”—and within twenty minutes she has Randi’s stockinged foot between her thighs, she’s handing over the photo of her freshly waxed, painted pussy, and she is fleeing to a restaurant bathroom to get off on the sink because she can’t physically hold the want inside her body anymore.
 
-And then the classroom. Dr. Marsh talking about gifts as *debts* you lay on someone whether they want it or not? Holy hell. The thematic knife-twist! Because what has Randi been doing this whole entire book? Buying the dinners, gifting the skirt, paying for the wax, taking her plus-one, laying debt after debt of intimacy on Vee until Vee is drowning in obligation and hunger.
+And the bathroom scene! The way her mind worked! First she tries to bring Pace up, but the memory that breaks her heart is him being *polite*. Him listening to her "no," wiping his mouth with the back of his hand, wiping it with the sheet, being careful. And what does she actually crave? She craves the abandon. She craves someone who doesn’t wipe it off. And then the face that comes up from between her legs isn't his—it’s Randi. Dark hair, the lipstick drawn just outside the line, coming up shining and wet with Vee’s own body to kiss her with it. When Vee came so hard her knees gave out and she had to catch the sink, my jaw hit the floor. She cannot hide from this anymore. The dam hasn't just cracked; the entire river is through.
 
-When Randi casually said, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt the ice drop straight into my stomach right along with Vee. That word: *having.* In Pace's bed, Vee could pretend it was just dirty talk, erotic play, a game where Pace takes up all the space. But here, under the fluorescent lights of an anthropology hall, it’s real. Randi isn't playing a game of dress-up. Randi wants to *possess* her.
+But what gutted me—what actually made my stomach drop and twist—was when she walked back out to the booth.
 
-And Randi's mouth on her neck outside the dorm! *"See? How do you like it?"* The absolute audacity of this woman. She plays it off as retaliation for Vee's kiss in the alley, keeps it wrapped in giggles and sorority-girl teasing, while systematically setting Vee on fire. And look at Vee’s response! She tries to pull back, tries to dodge the kiss on the mouth, and the second Randi bites her neck, Vee caves completely and *asks for brunch on Saturday.* She literally scheduled the next hit of the drug because she can't bear the withdrawal!
+Randi wasn't smirking. She didn't drop a slick little double entendre like she always does. Randi was sitting there with the coat pulled around her shoulders, holding that glowing screen in both hands, with tears in her eyes and pure *grief* on her face. That hit me like a physical blow. Because Randi has spent months orchestrating this, playing the cool, detached puppeteer, using Harrison as an excuse, pushing Vee toward Pace, watching from the sidelines—and now she’s sitting in a booth staring at the absolute proof of Pace's mouth on Vee’s bare skin, knowing Vee just ran to the bathroom to get off, and the reality of what she’s built just broke her heart. Randi is in love with her. She is drowning in her own trap. And that goodbye in the cold parking lot, taking Vee’s face in both hands and demanding to "say goodbye right"—giving her the full, slow, deliberate mouth because she couldn't bear to let Vee pull away—it was so tender and so utterly doomed.
 
-Wait. *Saturday.* Oh god, Saturday is the day Pace and Sheri are going to the dance hall! How is Vee juggling Saturday brunch with Randi and Saturday night with Pace and Sheri?!
+Every single line of this triangle is trembling under impossible tension. Tuesday cannot come fast enough.
 
-And then that final beat: Cassie. Cassie sitting on the bunk in her coat, having seen or heard something from the window, hitting her with: *"What was that with you and Randi?"* Cassie is the only sane, grounded tether Vee has left to reality, and Vee doesn't have an excuse left in her arsenal. The walls are closing in so fast. I need the next chapter right this second.
-
-GATE 72 — Coming Due
+GATE 74 — Gesso
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological claustrophobia was masterclass. Watching Vee try to outrun her own awakening, only to have Randi corner her outside the dorm and Cassie corner her inside, has me completely hooked for the fallout.
+WHY: The absolute psychological perfection of Vee fleeing to a restaurant bathroom because she cannot contain her arousal, only to imagine Randi's mouth on her instead of Pace's, followed by Randi sitting alone with the photo looking genuinely heartbroken—it is magnificent, devastating storytelling.

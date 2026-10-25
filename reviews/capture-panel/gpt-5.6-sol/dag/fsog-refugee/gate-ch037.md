@@ -1,36 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
 
-REACTION
+Oh, this made me furious and turned me on and hurt me, sometimes in the same sentence.
 
-Oh, this got me exactly where I live and then slipped a knife in while I was soft.
+Randi finally said it. “God, I want her.” Not strategy, not curiosity, not preparation for Pace, not *for us*. Her. And then she heard herself and immediately tried to stuff the truth back into the arrangement. I wanted to reach into the page and make her leave it alone. She wants Vee so specifically—the warmth of her, her hair, her mouth, the way she waits in the sun—that pretending the kisses are labor is almost heartbreaking. “Somebody has to get her used to my mouth” was also the closest I came to throwing the book across the room. Vee is not something they are training into readiness. She is a person who still does not know there is an “us” she is supposedly being prepared for.
 
-Pace with his head on her breast, taking comfort in her body before turning that comfort erotic again—that is the man I have wanted from this genre. He desires her ferociously without reducing her to the thing he desires. Vee’s thought that with him she is “a girl who had a body, not a body that happened to have a girl attached to it” is everything. That distinction is why I can surrender to these scenes with her. And I did surrender. His careful answer about what he thinks of when she is gone—the first bite, her face afterward, her glorious in his bed—felt intimate in a way that was hotter than a list of acts ever could have been.
+And no, “she chooses it every Saturday” is not enough. She chooses brunch with her best friend. She chooses the goodbye now; Saturday’s second kiss was unmistakably Vee’s choice, and I am thrilled she noticed what she wanted and took it. But she does not know those kisses are being reported to Pace as progress toward a threesome. She does not know her private confession about finally sleeping safely is being carried into his house and discussed between his lovers. She cannot consent to the meaning they have assigned to her Saturdays when they keep that meaning secret.
 
-The photograph should have been almost unbearably lovely. She proposes it. She chooses how she wants to look. He arranges her with that calm, sure authority I adore, kissing every place he positions, and then hands the image back so she can see herself through his eyes before deciding whether to send it. That is dominance making room for her. It is also Vee actively making herself into something she wants him to possess. “Again” becoming a command rather than a question delighted me. She isn’t being used despite herself; she is thrilled by the language of being used because she is the one asking for it.
+Pace asking “Does she want it?” and refusing every evasive answer got me badly because that is the man I love—the man who knows expectation, hurt feelings, arousal, and participation are not the same as a yes. But it also made me angrier with him. He can identify the exact missing answer while inside Randi, yet he still does not ask the much larger question: does Vee want to be courted by an established couple who selected her together? “She consents—every time—or I’m done” is such a grotesque little island of principle when he knows she has never been given the truth required to consent to the whole thing.
 
-But then: “Only if you promise you’ll never share me with anyone.”
+The sex was scorching because Randi’s denial was coming apart inside it. Every time Pace separated “Do you like it?” from “Who is it for?” I felt pinned too. Her body answered before she would, and the book did not pretend that bodily answer settled Vee’s consent—it only exposed Randi’s own desire. That distinction is the reason I am still here.
 
-And he says, “I’d never share your photograph.”
+Then the end ruined me in an entirely different way. Randi asking to be held tighter, admitting that being seen makes her feel real and frightens her, and Pace promising to be careful with her—that is real love. Not merely sexual compatibility, not a conspiracy with good chemistry. He knows her; she trusts his attention even while it scares her. “Say something nice to me” could have been unbearably needy, but his pausing because she would know a careless answer made it tender enough to ache.
 
-Peter. No.
+So now I want the three of them more, and I trust the path they are taking toward it less. That is an awful place to leave me. Tell Vee. Tell her now, before one more brunch, one more kiss, one more private confidence gets converted into fuel in Pace’s house. She might want everything they want. I think she probably does. But they have to let her want it with her eyes open.
 
-That is not the promise she asked for. He narrowed it in the answer because he knows he cannot honestly promise the larger thing—not while Randi already receives pieces of Vee that Vee believes belong privately to him. Maybe he means only that he would never distribute the image, and maybe the phrasing is technically innocent. I cannot read it innocently with what I know. The book put the evasion right there, at the exact moment Vee offers him the most dangerous proof of her trust.
-
-“She believed him, and believing him was the brave part” made my stomach drop. Yes, it is brave for a young woman to send an intimate photograph. But he is letting her make that choice inside a false understanding of who is already being allowed into their intimacy. If that photograph ever reaches Randi, I am done with him. Completely. Even if it never does, his precise little substitution—your photograph for me—is horrifying because precision is his nature. He answers things properly. He knows words matter.
-
-And then the kitchen nearly won me back, damn him. Water before wine. Feeding her tastes from the spoon. Holding her hand in the quiet. Watching her first bite because her pleasure gives him pleasure. This is domestic intimacy so exact that I can feel why Vee is already living there in her heart. The sex is hot, but the silence at the counter is the part that makes them feel like a couple.
-
-His “I don’t go back” hurt. I am glad Vee recognized a closed door and did not treat love as permission to force it. The way she “let the quiet be kind” is such clean care. She is good for him, too. She notices where the wound is and does not dig merely because she wants to know.
-
-Then Sheri appears, and Vee has no idea Sheri has already watched her for Pace and discussed her with him. Her little jealousy resolves because she trusts his goodness and accepts the compassionate explanation. I believe the compassion is real. I also hate how many rooms Vee is walking through blind while everyone else seems to have a map.
-
-What I would text at one in the morning: He posed her himself, kissed every place he put her, and made her feel beautiful enough to send the picture—and then answered “never share me” with “never share your photograph,” because apparently this man can make a promise as surgically narrow as a contract clause. I am incandescent.
-
-GATE 41 — In His Hands
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “She looked at him, at the plain open want in his face, and she believed him, and believing him was the brave part.”
-WHY: The erotic tenderness and ordinary intimacy are almost perfectly calibrated to me, but his narrowed promise turned Vee’s brave trust into dread. I need to know whether the book understands that he answered a smaller question than the one she asked.
+ALMOST-STOPPED: “Somebody has to get her used to my mouth.”
+WHY: That line reduced Vee’s unknowing affection to conditioning, and I nearly left. I’m continuing because Pace challenged Randi’s evasions, Randi’s love finally broke through her cover story, and the tenderness between Pace and Randi is painfully real—but the truth needs to reach Vee before their care becomes unforgivable.

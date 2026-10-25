@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
-REACTION — Oh, this is lovely, and it is making me furious.
+REACTION
 
-Vee sitting naked at that little table, talking happily at Pace’s back while he washes up, is exactly the domestic intimacy I want from this book. No performance, no crisis, no sex required to prove they belong in the room together. And him remembering Meg’s boots, which heel slipped, Kayla talking the paint off a wall—yes. That got me. This is what being listened to feels like, and of course it reaches Vee more deeply than some generic romantic speech would. Then Theo’s name causes no possessive-alpha routine whatsoever. He simply makes room. Grown man behavior. Delicious.
+Oh, Vee. “We talked all night” made my stomach drop. No, you didn’t. You very specifically stopped him from saying the thing, opened your coat, had spectacular reunion sex, ate pancakes, and let the relief of being back inside his care fill every space where the unanswered question used to be. I understand why that feels like the fight came down. I understand why she believes “we’re better than we were.” But she is telling the version she needs to be true, and now her friends are cheerfully confirming that her body was an apology made “in his language.” That framing scares me. She was the one who asked for clarity; somehow she has come back believing she was the one who needed to make it right.
 
-And Vee remembering Chili’s and quietly giving Pace the choice of venue nearly undid me. She understands now. She doesn’t make him explain himself again or turn his sensory limits into a ceremony about her generosity; she just adjusts the plan so he can actually enjoy meeting her people. That is love with its sleeves rolled up.
+And of course Kayla is delightful. “This is the last morning of my life and it’s going to be peanut butter crackers” is exactly the kind of friend-noise I wanted Vee back among. I loved the sunlight, the waffles, the three-way check, and Vee getting to be the person who knows a place and can turn a disappointment into an occasion. There’s a grown-up ease in her here that her family home never gave her. She really has made a life, and this breakfast let me feel how full it is.
 
-But Pace saying he wants to meet her people when one of those people is his existing lover? Sir. Absolutely not. Vee hears “Randi” as a gift, starts glowing over the fantasy of introducing her two favorite people, and he lets her. Worse, “bring Cassie too,” “and Meg,” “and Kayla,” is such perfect camouflage. Now the meeting can happen in a crowd where any flicker between Pace and Randi can disappear into noise. Maybe he sincerely wants all of Vee’s life—and I believe he does—but he is building the beautiful inclusive room on top of the fact that Vee does not know two of its occupants have already chosen her together.
+But Wednesday. Oh, Wednesday is a loaded gun wearing a dinner reservation. Pace wants to meet “her people,” which would be deeply romantic if one of those people were not already his lover and co-architect of the entire deception. Vee is glowing because she thinks she is bringing her separate worlds together. Pace and Randi know they were never separate. And Cassie will be there—the one person likely to notice when two supposed near-strangers know each other half a beat too well. I am already watching hands, pauses, eye contact, seating arrangements. If Pace has arranged some beautiful inclusive evening while still withholding the truth, I am going to be furious no matter how perfect the food is.
 
-“Let me handle it” should feel wonderfully competent. Instead it made the back of my neck prickle. He is handling far too much already. I want this gathering desperately, and I dread it. If he arranges some apparently accidental reunion with Randi and watches Vee delight in “introducing” them, I am going to be livid. The tenderness is real. The listening is real. That is precisely why the concealment hurts this much.
+The chapter itself felt warm and easy, but the ease is sitting directly over a fault line. Vee “had the middle of it all” is lovely and ominous in equal measure. She thinks the middle means belonging. I know it also means she is the only person at that coming table who does not know what connects its center.
 
-GATE 54 — Back
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This quiet domestic chapter gave me the emotional intimacy I’ve been starving for, then planted dread directly underneath it. Pace remembering Vee’s whole life is gorgeous; Pace preparing to enter that life beside Randi while Vee thinks they are strangers is intolerable, and I need to see what he means by “handle it.”
+WHY: The breakfast happiness genuinely fed me, but “we talked all night” exposed how completely Vee has rewritten a reconciliation that never answered her question. I need Wednesday immediately: Pace, Randi, Vee, and Cassie at one table is too much concealed knowledge in too small a space.

@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch043 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch043 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
 REACTION
 
-Oh, my chest hurts. That was like watching a car crash in absolute slow motion under a warm quilt.
+Oh, that broke my heart in about fifty places. *Two pages?* I don't think I've ever read a chapter this short in my life, and yet it landed like a punch to the solar plexus.
 
-She spent *weeks* building that little sentence so it could carry "I love you" without breaking the unspoken rule that he has to say it first: *"I had been eating crackers my whole life. And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know."* Especially right after the pizza chapter where she tasted every separate ingredient, and after she went home for Thanksgiving and realized how starved she used to be—she handed him her whole soul wrapped up in a metaphor she thought was safe.
+Remember in Chapter 42 when she brought him the washed flannel shirt and asked him to wear it all weekend so it would smell like him again, and he put it on right over his own shirt in the kitchen? That was one of the sweetest, most tender moments in the whole book. And now, three weeks later—and wait, why is she in her dorm room on a *Friday night* (December 11)? Finals week? Or did she stay back on purpose?—she's lying in the top bunk, stripping off her own T-shirt so she can have his flannel directly against her bare skin, and then realizing: *the heat in the shirt was her own, given back. He wasn't in it.*
 
-And Pace *heard* it. That's what kills me! Those two breaths he took, the way his hand started two different responses on her shin and put both of them down before either finished—he knew *exactly* what she was handing him. And then he deliberately stepped sideways and pivoted it to the sex: *"I love how good we are together... What you do — what your body does — I've never. I'm glad you feel it too."* Using the word *love* right at the start of the sentence ("I love how good we are together") is almost cruel in its precision. It gives her ear the word and gives her body the warm kiss on the crown of her head—*"She had been received warmly"* (hello, book title! *"A warm reception is also what you call walking into fire"*)—while completely refusing to meet the shape of what she actually said.
+That image of her pulling his shirt off over her head and choosing to lie there naked and freezing in the drafty dorm room rather than be tricked by her own body heat inside his cloth... god. That is someone hitting the absolute bottom of what they can stand. The comfort object stopped comforting her because it's a lie without the word attached. She's choosing the cold because at least the cold is real.
 
-Wait—one tiny timeline thing tripped my brain at the very top: the header says *Sunday, November 29* at pre-dawn on Pace's porch, right after Chapter 43 was *Sunday, November 29* at Sunday dinner in the athletic cafeteria when everyone came back from Thanksgiving break? Either this morning was before she flew out (or Monday morning after she got back?), or the date header is a hair scrambled, because two days later she's in the dorm laundry room. Honestly I don't even care about the calendar math because the emotional math in that laundry room is devastating. *"Maybe he understood and chose to say it like that. Maybe it had gone past him entirely."* And then: *"She put it where she put things she did not know what to do with. The place was not empty."*
+Also, I love that she didn't send some stupid, manufactured-drama 1 a.m. text. She looked at the empty text box and knew that anything she typed would just get a small, warm, careful answer from him that would leave her in the exact same place. That's so smart and so painful. We are right at the edge of the cliff now—she cannot keep doing the unnamed thing anymore, her body is literally rejecting the flannel shirt. And where has Randi been since before Thanksgiving?! It's Friday, December 11—is Saturday brunch tomorrow?!
 
-That pile of unnamed things in her body is getting bigger. First the four strokes of terror in the swimming pool, then Cassie's *"So what is he... to you,"* and now this. She's retiring her best sentence back into her body and folding her laundry in silence, and you just know she is going to take this ache straight to Saturday brunch with Randi—or worse, she *won't* tell Randi this part, and it'll sit there between all three of them.
-
-GATE 44 — Seconds
+GATE 46 — Bare
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Zero spice and the third quiet chapter in a row, which would normally make me antsy, but the psychological precision here is razor-sharp—watching Pace take two breaths, put down two hand-responses, and pivot her confession of love into *"what your body does"* while hitting the literal title of the book (*"received warmly"*) had my stomach in knots. I need to see what happens when Randi enters the post-Thanksgiving picture.
+WHY: I've never read a chapter this short before, but taking the exact flannel shirt that broke my heart with sweetness in Chapter 42 and having her strip it off to lie bare in the cold because *"the heat in the shirt was her own, given back"* is devastatingly good writing. She's in her dorm on a Friday night choosing the cold over his comfort, which means the dam is finally about to break.

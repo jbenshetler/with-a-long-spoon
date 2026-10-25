@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
-## REACTION
+**REACTION**
 
-Oh, Peter. *Two breaths.* I kept rereading that bit. His hand starts two different answers on her shin and puts both of them down, and then he takes a second breath, which she's never heard him do. He almost said it, and then he went with "I love how good we are together."
+Okay. The shirt. Chapter 42 set up the ritual: he wears it all weekend, gives it back Sunday "smelling like me," and I teared up a little at that. Now it's the thing she pulls off and drops "where a dropped thing lands." That's a real reversal, and it's the best idea in the chapter. Wearing it over her own shirt for the hall so Cassie won't see "a girl too far gone in a boy," then putting it on bare, then working out that the warmth in it is her own, given back: "He wasn't in it." That sentence went into me. It's the whole book in one move. She's been warming herself on her own heat and calling it him. And then the cold is worse, and she stays in it on purpose. That's a woman choosing to feel the true thing rather than the comfortable one, and I respect her for it. It's very her. She's lonely and honest with herself, and she still hasn't said anything to anyone.
 
-"What your body does." She gave him the best sentence she owns, the crackers-and-a-meal one, which is quietly lovely because it picks up the pizza from 42, cotton candy against strawberries. And he took it straight to the body. Two chapters ago she told Randi "like he wants *me*. With the body attached," and he's just handed her the attachment. Knowing what I know about the quad and Randi and the mirror, I can't tell whether that was cowardice, kindness, or him being careful not to promise more than he can honestly give. That's what scares me about him. Every time, his honesty comes out as a dodge, and his dodge comes out as honesty.
+The phone was good too. Her thumb over the empty field, knowing every text she could send would be "answered small and warm, and would leave her exactly here." I've been there at 2 a.m. with a man who was very nice about everything.
 
-The jacket line finally landed for real: *everything but a word.* So did "she had been received warmly," and I could have done without the book underlining its own title right there in italics. I rolled my eyes, even though the line hurts.
+But. "Not the big one and not the small one." That's nearly word for word from the end of 45, and "the silence at the center where the word should be" is basically the jacket copy. I noticed, and it made me feel the book was circling. 44 was the sentence he didn't answer, 45 was the name he won't give, and 46 is the name he won't give again, alone in a bunk. That's three chapters in a row on the same ache. Each one is well done, but it's the same wound, and I already understood it after the dryer in 44. This chapter is short enough that it didn't cost me much, and as a held breath it works. As a beat on its own, I'm not sure it earns a chapter. It reads like the last page of 45 pulled out and given a title.
 
-The part that got under my skin is the pile, "the place was not empty," the small repair work. I've seen this woman in my own group chats. She's keeping a ledger she won't look at, and I'm terrified of the day she does.
+What I'm actually hungry for is RANDI. I haven't seen her since the outlier in 41, the MIRANDA on the screen and "cheating bastards," and I'd love to know where that went. It's December 11. What happened to the Anthro nights, the Tuesdays and Thursdays? The book has been keeping me in Vee's sad head while the other half of the story, the half that's been plotting her, has gone dark. I'm being made to feel her not-knowing by not knowing things myself, and I see the trick, but my patience for it is finite. And where's Saturday brunch? This is exactly the night she'd carry to Randi, and that's the scene I want.
 
-My gripes are real, though. This is chapter 43 and then chapter 44, two quiet ones in a row, and 44 says everything three times. "She did not know what it was. She did not know yet." The rule-that-he-says-it-first paragraph explains her psychology to me as if I were a slow student. And the laundry-room coda more or less restates the porch scene, then ends on "The cracker-and-meal would not return to her speech." I got it. I got it on the porch. Cut half the chapter and it would hit twice as hard.
+Text to a friend: "she took the shirt off and lay there naked in the cold and I felt it in my chest. but bestie I need someone to TALK to someone. preferably randi. preferably tomorrow."
 
-Also, where is Thanksgiving with Sheri? Where's the flannel? The book is skipping right over the things I'm waiting for. And if 45 is another soft one I'll be skimming for dialogue. I want Randi, or I want Pace's POV on those two breaths.
-
-## GATE 44 — Seconds
+GATE 46 — Bare
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "She put it where she put things she did not know what to do with." The laundry room, where the chapter started telling me again what I'd just watched.
-WHY: This is the central wound the jacket promised, and the two breaths are a real turn: something cracked between them, quietly, and only one of them knows it. But it's the second quiet chapter running and it over-explains itself, so the next one needs heat or Randi, or I start skimming.
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "not the big one and not the small one, only every breath of him now and the silence at the center where the word should be" (I'd read almost this exact sentence one chapter ago, and that was when I felt the stall)
+WHY: The shirt reversal is a real, painful image and the chapter is short enough not to drag. But it's the third chapter in a row on the same missing word, and Randi has been gone for five chapters. I'll read on because I trust a confrontation is coming. If 47 is another solo ache, I'll start skimming.

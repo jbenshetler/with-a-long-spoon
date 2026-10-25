@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch053 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch053 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
 REACTION
 
-Oh, he's coming into her *life* now. That's the whole chapter and it made the back of my neck go cold even while it was being sweet, because of course the first name out of her mouth is Randi. "You could meet Randi. Properly." Properly. Vee wants to set a table and watch her two favorite people find out about each other — and they already found out about each other, before she was anything to either of them, they *picked her over coffee* — and she's going to sit between them glowing while they perform a first meeting. I had to put the book down for a second. The dinner she's building is the exact shape of the trap, and she's choosing the napkins for it.
+Okay so this is the book catching its breath, and it knows it — three chapters now of the warm after. 51/52/53 were the detonation I'd been bracing for (Randi handing her the coat and the shoes and running the con on the walked-out girl, the kiss in the foyer that turned Randi's whole insides over, the taste in chapter 53 that cracked the closed door I'd stopped expecting the book to ever open). After that, this is sorbet. Waffles and mimosas and Kayla keening at a locked dining hall door. And I let it be sorbet, mostly, because I earned it and so did Vee.
 
-But here's what got me, what actually got me, and I hate that it did: he kept everything. Meg's boots and her heel coming up out of the right one when she pushed off. Kayla talking the paint off a wall, handed back in his flat voice. All fall she ran on at his back thinking she was just filling the quiet, and he was *shelving* it, every scrap, her whole little world of floor-mates and half-sentences. After the nachos — after "I listen as hard as I know how and I still can't hear you," after he ruined the chips going soft under the cheese — this is him proving he was listening the whole time in the only currency he'll spend. Not words. Deeds. He remembered the boots. God. The man won't say four letters to her but he memorized Meg's shoe size by inference. That's the leash again, both hands, tender and withholding in the same gesture, and I felt it work on me exactly the way it works on her.
+But I'm not actually relaxed, and that's the trick of the chapter. The whole thing is Vee at the exact top of her happiness — rescued the morning, the middle of everything, her people loud on either side, the flutes coming together over the table with Kayla's orange juice in with the rest — and the only thing I could think about, the whole bright butter-smelling room, is that the dinner is Wednesday and Randi is going to be at a table with Pace. The two who chose her. In one room. With Vee planted in the middle running the seating chart, delighted, knowing nothing. The book put her at the peak so I'd feel the drop coming, and it worked on me cold.
 
-And the Theo thing — "Bring Theo," no look up, no question, reach for the next pan. Vee reads it as this huge generosity and I read it as the formula doing its quiet arithmetic: he can't be jealous because jealousy is ownership and ownership is the word, so a man who asked her out last spring is nothing to him, genuinely nothing, invite him. She feels chosen. I felt the cold floor under it. That's the thing this book does to me over and over and I'm so tired of being this moved by it.
+And the flash-story retelling — she gives the girls the PG cut. "I flashed him on his front porch," Kayla shrieks, and that's the whole weekend, that's the version that goes on the table. The thing I keep clocking about this book is how everyone gets a cropped Vee, and now Vee is the one doing the cropping, cheerfully, for her friends, the way she cropped Randi's county off the screen, the way Randi crops Gstaad for her. Everybody at every table holding a smaller true thing. It's the house style and it's starting to feel like the theme wearing a sundress.
 
-The "tables have ends, somebody ends up at one" — she won't build a dinner one of her people has to be a good sport at, and "she'd watched somebody be fine about it before. She wasn't going to look at when." That's Randi in the glass room, that's the clothes, that's class sitting at the table unnamed. She clocked it and refused to look. She's getting sharper about everyone except the one thing.
+The detail that actually got me wasn't even in the breakfast — it was Cassie's mother in 55, "she wants to know when she gets to see you again," and the hand that went to Vee's collar without her say-so. That's the book's whole move: a girl starving for a family finding one in pieces, in other people's mothers, in a man who kept the fact that her hiking boots were Meg's half-size-too-big. Pace taking her friends' names down off a shelf one-handed in 54 — Kayla talks the paint off a wall, your heel came up out of Meg's right boot — that's the tenderest he's been, and it's also exactly why the dinner terrifies me. He's not performing interest. He kept all of it. And he's about to sit across a table from Randi, and I do not for one second believe those two sharing a room is a social event.
 
-What I'd text a friend at 1 a.m.: HE WANTS TO MEET HER FRIENDS AND SHE PICKED RANDI FIRST. the dinner is happening. put Pace and Randi in one room in front of her and light it.
+What I don't love: this is the third soft chapter running, and by the back half of the waffles I was reading for the plot beat, which came — the dinner's set, Wednesday, he's handling the place. I don't resent a bridge but I can feel the book spending my patience against the promise of the room. It had better be the room.
 
-A quiet chapter and I didn't resent one second of it — it's a bridge but it's the bridge *onto the thing*. "Let me handle it." He's going to handle it. I'm scared of what handling it means with these two.
-
-GATE 54 — Back
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 4
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: A true bridge chapter and it still had my pulse up — the listening reveal is the first real deed-answer to the nachos, and watching Vee cheerfully draw up the guest list for the one dinner that could detonate her is the cruelest, best dramatic irony the book's handed me yet. I want that table set now.
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "The waffles came, then, and the egg things, and for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime" — that stretch of pure pleasant nothing was the thinnest the book has been in a while, and I felt my thumb get ahead of my eye.
+WHY: It's a sweet, slight chapter and the third quiet one in a row, so it didn't pull hard on the page — but it's loading the one table I've wanted since Volume One: Randi and Pace in the same room with Vee in the middle, Wednesday, knowing nothing. I'd read on right now just to get there.

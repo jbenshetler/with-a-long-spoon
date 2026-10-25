@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this got me. The frantic undressing was hot because it was *hers*—not some interchangeable alpha hauling her over his shoulder, but Vee trying to tow this enormous patient man down the hall by two shirt buttons, losing a fight with her jeans, hopping in one sock, laughing, and wanting him badly enough to burn the house down. Five nights came out of her body before she could make them dignified. Yes. That is the explicitness I want: not just anatomy, but her body betraying the careful little story she told herself about how manageable her need was.
+Oh, that hurt. That hurt more than if he had simply said nothing.
 
-And then the chapter quietly hurt me.
+She gave him the most Vee-shaped declaration of love imaginable—food, appetite, the entire awakening of her body and senses, all of it distilled into one brave little offering—and he answered the part he was willing to receive. *I love how good we are together.* Not *you*. Not even close enough to let her pretend without doing the repair work herself. He loved the arrangement, the pleasure, what her body does, the shared experience. And then: “I’m glad you feel it too,” as though she had been praising the sex. Sir. She handed you her whole heart in a bowl and you complimented the meal.
 
-She wanted him to fight for those nights. Not control her, not punish her—just *say he wanted them*. He gives her perfect freedom and perfect care, but still leaves her to infer the feeling beneath it. She keeps translating his actions into the words he won’t offer, and most of the time the translation is probably right. That almost makes it worse. The man can hear the entire confession inside a washed shirt. He can understand exactly what it means that she slept inside his fading scent for five nights. He can put on two shirts without embarrassing her and promise to fill the flannel back up with himself. He is not emotionally obtuse. He is choosing the language of acts because acts let him answer without naming anything.
+And the awful thing is that his response was tender. He was moved. The stopped hand, the two breaths, pulling her closer, the long kiss in her hair—none of that was fake. I believe he felt the size of what she gave him. Which means I’m no longer willing to let him hide behind emotional awkwardness. He understood enough to be shaken and then built the safest accurate sentence he could: one that offered warmth without naming her, promised nothing, and could survive whatever secret definitions he is maintaining with Randi. This is exactly what he does with language. “I’d never share your photograph.” “I love how good we are together.” Every word true, every missing word doing the damage.
 
-The shirt absolutely wrecked me, though. I would have folded on the spot at “All weekend.” Her asking for his smell is so needy and animal and tender, and his complete lack of teasing made it safe for her to be that needy. That is romance. That is also the trap: he is exceptionally good at giving her an answer that feels whole while leaving the central question untouched.
+Her little bodily *wait* devastated me. Vee knows. She knows before she permits herself to know, just as she knew Randi’s name on that government record mattered before she understood why. Her perception is excellent; it’s the permission afterward that keeps failing her. She receives the warning, then lets warmth push it down, then reconstructs the exchange as evidence that she was “received warmly.” That phrase, with the title of the book hanging over it, made my stomach drop. A warm reception is not an answer. Being held is not an answer. Tenderness can be real and still be used to keep a question from finishing itself.
 
-And “He was good at not asking things” landed like a blade. Vee has just protected Randi by seeing something devastating and choosing not to ask. Now Pace nearly does the same with her, and she has to rush in and correct the story he is silently preparing to accept. She gives both of them the mercy of not having to speak—but neither of them is giving her the truth she cannot know to request. I’m swooning over the stupid double shirt while wanting to shake all three of them.
+And then the laundry room. God. There’s something so lonely about realizing beside a turning dryer that your best sentence went somewhere other than where you sent it. “The words went through him first” is the whole trap. She has made his silence into a rule governing her own mouth, so the only person who can resolve her uncertainty is also the person she has decided she cannot question. That is not safety, however safe his arms feel.
 
-Also, *The New Ordinary* is not comforting to me. Her drawer, his food, the sex, the shirt traveling back and forth to carry his scent through the nights she spends elsewhere: this is a domestic relationship in everything but the word. She thinks the arrangement is becoming secure. I know the foundation is still booby-trapped. I am absolutely reading on.
+The pile of earlier flickers matters enormously. She has not forgotten them; she has been repairing over them. This is the first one too large to disappear completely into the repair. I want her to tell Cassie. Cassie asked exactly the right question earlier—can’t say, or don’t want to?—and Vee answered both. Now we know the third answer: she does want to say it, desperately, but she believes Pace has first rights over the language of their relationship.
 
-GATE 42 — The New Ordinary
+I’m furious with him, and still painfully convinced that he loves her. That contradiction is why I’m already turning the page. If he did not understand, he is emotionally obtuse in a way the entire book disproves. If he did understand, he chose the narrower sentence. Either possibility demands an answer now.
+
+GATE 44 — Seconds
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
-HEAT: 3
+NEXT: 10
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The hall scene gave me heat with personality, and the shirt gave me exactly the humiliating, specific tenderness I read romance for. But Pace’s refusal to say what Vee needs is no longer coy mystery; the chapter shows how exquisitely he understands unspoken meaning, which makes his larger silence feel more deliberate than ever.
+WHY: Vee finally pushed her love into the air, and Pace answered with a sentence engineered around its missing object. Her body has begun refusing the comforting interpretation her mind keeps building, and I need to see whether she trusts that small *wait* before Pace and Randi ask her to ignore something even larger.

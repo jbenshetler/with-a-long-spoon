@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. The shirt. Chapter 42 set up the ritual: he wears it all weekend, gives it back Sunday "smelling like me," and I teared up a little at that. Now it's the thing she pulls off and drops "where a dropped thing lands." That's a real reversal, and it's the best idea in the chapter. Wearing it over her own shirt for the hall so Cassie won't see "a girl too far gone in a boy," then putting it on bare, then working out that the warmth in it is her own, given back: "He wasn't in it." That sentence went into me. It's the whole book in one move. She's been warming herself on her own heat and calling it him. And then the cold is worse, and she stays in it on purpose. That's a woman choosing to feel the true thing rather than the comfortable one, and I respect her for it. It's very her. She's lonely and honest with herself, and she still hasn't said anything to anyone.
+Okay. I closed 47 with Vee crying out his door into the cold, and the book's answer was to hand me a ski holiday in Gstaad. Twenty days gone. No Vee, no Pace, no idea whether she drove back the next morning or whether they've spoken at all. I'll be honest: for the first two pages I was mad about that.
 
-The phone was good too. Her thumb over the empty field, knowing every text she could send would be "answered small and warm, and would leave her exactly here." I've been there at 2 a.m. with a man who was very nice about everything.
+The opening breakfast nearly lost me. It reads like an inventory: Dad's steak, Mom's omelette, the tennis bracelet, her salmon on dark rye. "Randi delicately clomped" made me make a face. Then "eating her revulsion" landed, and I remembered MIRA, the dot off in the white. That's why she hugs her father like a sorority sister. Every gold thing in this chapter is the PPP money. It's a stolen-money chalet, and later she texts Vee "dad's got us in this insane chalet" with a heart. That irony doesn't need explaining, and thank god the book doesn't explain it.
 
-But. "Not the big one and not the small one." That's nearly word for word from the end of 45, and "the silence at the center where the word should be" is basically the jacket copy. I noticed, and it made me feel the book was circling. 44 was the sentence he didn't answer, 45 was the name he won't give, and 46 is the name he won't give again, alone in a bunk. That's three chapters in a row on the same ache. Each one is well done, but it's the same wound, and I already understood it after the dryer in 44. This chapter is short enough that it didn't cost me much, and as a held breath it works. As a beat on its own, I'm not sure it earns a chapter. It reads like the last page of 45 pulled out and given a title.
+Then John shows up, and it's every book I've stopped reading. A towering stranger who cuts the line, a fake marriage bit, the guy who's secretly better at skiing, champagne at the hut, a gown bought that afternoon, white tie, a chef with a star, white truffle, a sleigh behind two grey horses. I actually laughed. It's the billionaire-romance checklist, start to finish, and for about five pages I couldn't tell if the book knew it. Then the dance. He's "a better dancer than Pace," and "easier was better," and "this is the one." By then I knew it was going to go bad, and I wanted it to.
 
-What I'm actually hungry for is RANDI. I haven't seen her since the outlier in 41, the MIRANDA on the screen and "cheating bastards," and I'd love to know where that went. It's December 11. What happened to the Anthro nights, the Tuesdays and Thursdays? The book has been keeping me in Vee's sad head while the other half of the story, the half that's been plotting her, has gone dark. I'm being made to feel her not-knowing by not knowing things myself, and I see the trick, but my patience for it is finite. And where's Saturday brunch? This is exactly the night she'd carry to Randi, and that's the scene I want.
+The cut to "he drew her in, and she went. Afterward" is my hair trigger, the exact closed door I DNF books over. Here I'll allow it, barely, because the missing scene is the point: there's nothing to show. "A good sandwich eaten fast on a busy afternoon." The lipstick ring on him, "felt her own mouth do it from a long way off." The eyeliner held because "nothing had happened to her eyes." That line is cold and it's good. Still, I've noticed the book's explicitness depends on whose bed it is. Pace gets shown and John gets skipped, and that's a choice I'll keep an eye on.
 
-Text to a friend: "she took the shirt off and lay there naked in the cold and I felt it in my chest. but bestie I need someone to TALK to someone. preferably randi. preferably tomorrow."
+After that, the book does what I've been begging for since chapter 40: it gets inside Randi. "Pace went straight to her. That was the whole terror of him." That goes with "you make me feel real… it frightens me" in my notes, and now I believe it from her side too. Then: "Vee was her gorgeous." I had to put the phone down. She has never once said "I love you" without it being currency, except to Vee. She can run every scenario to the end except Vee's face. So she picks cowardice, and she picks it knowingly: "let the word keep its cover." It's heartbreaking and selfish in the same breath. That's what I've wanted from her.
 
-GATE 46 — Bare
+Still, the last stretch tells me things I already felt. "He was safe. She had put nothing on the table and had won exactly that." "The flaw was hers." The chapter starts explaining itself around there. I got the cold-seam image the first time; I didn't need it paraphrased.
+
+What I'm suspicious of: Randi's whole inner monologue about Vee leaves out the scheme. There's no "we chose her," no Pace-and-Randi plan. She thinks about Vee as if she were simply in love, which she is, but she's also a co-conspirator, and she doesn't let herself think about that. Maybe that's the most honest thing about her.
+
+And Vee's text, "i'm here if you want to talk. or not." That's my girl being the generous one from Ohio, with her own heart in pieces after the 11th, and Randi sends back the fairytale. I need to know if Vee told Randi about the door. Of course she did. So Randi knows, and she lay in that hotel bed knowing.
+
+What I'd text at 1 a.m.: "the book did a whole Hallmark billionaire chapter just to kill it in bed and I kind of loved it. also Randi is a mess and I'd die for her."
+
+GATE 48 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "not the big one and not the small one, only every breath of him now and the silence at the center where the word should be" (I'd read almost this exact sentence one chapter ago, and that was when I felt the stall)
-WHY: The shirt reversal is a real, painful image and the chapter is short enough not to drag. But it's the third chapter in a row on the same missing word, and Randi has been gone for five chapters. I'll read on because I trust a confrontation is coming. If 47 is another solo ache, I'll start skimming.
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "His room was high in the hotel with the mountains black in the window, and he drew her in, and she went." The door closed right where I'd usually close the book.
+WHY: The first half is the trope parade I left KU to get away from, but it's there so it can fail, and Randi's real interior when it does ("Vee was her gorgeous," the face she can't picture) is the payoff I've waited eight chapters for. NEXT is higher than CAPTURE because there's a three-week hole after Vee walked out of Pace's house, and Randi lying in that bed knowing about it makes me need January.

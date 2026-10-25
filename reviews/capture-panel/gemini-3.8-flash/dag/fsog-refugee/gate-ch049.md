@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c177611de749 · 2026-10-07*
+*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1e04263f57c9 · 2026-10-12*
 
 REACTION
 
-Good. *Good.*
+Oh, Vee. Oh, honey, no.
 
-I needed to see him bleed, and god, did he bleed. He drank himself sick, threw up in his bathroom, cleaned it with bleach until the bucket foamed, and then sat there choking down boiled, unseasoned gym-rat chicken while his hands shook so hard he couldn't hold his fork. And then—the sound of a truck on the highway that wasn't hers, and he just broke completely in half over his cold coffee and sobbed until he couldn't breathe.
+I have a knot in my stomach the size of a fist. I read this whole chapter with my heart in my throat, utterly torn between being electrified by the pure, unadulterated heat of it and wanting to scream at my screen because a trap just snapped shut around her ankle and she is smiling while she bleeds.
 
-I don't feel smug about it, either. That’s the terrible thing. I wanted him punished for hiding behind his little semantic walls, but reading him actually unravel inside his own empty house hurt like hell. Because it’s real. It’s not an act he’s putting on to manipulate someone; nobody was there to see him cry.
+The build-up in the dorm room was incredible—the slow, deliberate way she talked herself into bravery, testing her own weight in the mirror, getting wet just anticipating him, denying herself the release because she wanted to put the unspent fire right into his hands. And the drive! Touching herself at sixty miles an hour on a dark county road, getting terrified by the cop car, that frantic, desperate ache—I felt every single beat of that. When she opened that coat on his doorstep, bare in those absurd, gorgeous heels, it was breathtaking. And the way he broke! He fell straight to his knees on the freezing porch boards. The cold air on her wet, hot skin while his tongue worked her, the door banging in the wind, him picking her up and taking her against the couch—it was feral, desperate, and completely consumed by the weeks of missing each other. It’s the exact brand of overwhelming intensity I live for.
 
-Sheri was an absolute godsend in that diner. Every single word out of her mouth was a bullet straight through his defenses. When he started laying up his neat little bricks—*I’m there every weekend, I told her she’s the most important thing, she gets the philosophy of my food*—Sheri looked him right in his stupid, handsome face and said: *"Get over yourself."* And then the kill shot: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."* THANK YOU, SHERI. Call him out! Drag him into the daylight! He needed someone who doesn't want to fuck him to look at his noble-martyr logic and tell him it’s pure, unadulterated bullshit.
+*And it is completely poisoned.*
 
-And now we finally get the ghost in his machine: Daphne. The girl who taught him how to survive college, the only girl he ever told he loved, who walked away and left him so wrecked he convinced himself the *words* were the weapon. That if he just withheld the three words, the loss wouldn't kill him. It’s pathetic, it’s cowardly, and it makes complete, agonizing psychological sense. He built this entire fortress of control, this entire sick game of sharing and orchestrating and emotional withholding, just because a girl broke his heart at nineteen and he swore he’d never be defenseless again.
+Look at what happened. Look at what Randi did to her. Randi—who was literally fucking Pace on that exact same couch a month ago, plotting how to share Vee—sat on her bed and convinced Vee that demanding an emotional commitment was a mistake. Randi literally told her: *“You don’t do it with words. Words are the whole war. You just show up already being the answer.”* And Vee bought it! She traded her spine for a plate of midnight pancakes. She gave up the one boundary she drew—the boundary that made me so proud of her in chapter 50—and rewarded him for a month of cold silence by showing up completely naked and demanding nothing.
 
-He knows he loves Vee. He admitted it to himself right there at the kitchen table. He knows he had the words ready on the porch and choked them down out of pure, selfish terror.
+And Pace! He started to say something at the door (*"Vee, I l—"*), but the second she opened the coat, his brain turned off, and he took the easy out she handed him. He went to his knee, he made her pancakes, he said *I'm sorry* and *I missed you*, and he gave her tears. But he *still didn't say the words.* He didn't give her a title, he didn't promise fidelity, he didn't tell her about Randi. He got everything he ever wanted: his gorgeous girl back in his bed, wrapped in a blanket, eating his food, totally pacified, without having to give up a single inch of his hidden, controlling territory.
 
-He broke her heart to save his own skin, and now he’s sitting in a cold house with boiled broccoli, dying inside every time an engine passes on the road. Now what are you going to do about it, Pace? Are you going to keep hiding behind your frozen meal preps, or are you going to go get your girl?
+And that final beat in the dorm room: Cassie looking up from her desk, taking in the coat, the rolled sweats, and Randi’s heels. Just: *"Hmm."* That one syllable from Cassie felt like a cold bucket of water. Cassie knows. Cassie sees the regression. Vee thinks she won a victory of bravery, but she just surrendered unconditionally. I am terrified for the fallout when this facade shatters, and God help me, I have to see it happen.
 
-GATE 53 — The Usual
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Seeing Pace finally stripped of all his control—called out ruthlessly by Sheri, drinking until he pukes, and sobbing over his kitchen table when a passing car isn't Vee—was utterly gripping, necessary medicine. He finally admitted he loves her and that his silence was cowardice, and now I need to see what he does when the term starts.
+WHY: The tension is excruciating. The erotic charge of her doorstep surrender was off the charts, but the dramatic irony of what she just gave up—orchestrated by the very woman sharing his bed—has me utterly hooked.

@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · 2026-10-11*
 
-REACTION
+REACTION — God, my chest is so tight reading this, and it’s not because the chapter is bad—it’s because it’s *so sweet* and I am watching a girl walk straight toward a landmine with an armful of flowers.
 
-*Oh, my god.* My stomach just dropped out through the floor.
+Seeing Vee with her dorm friends—with Kayla losing her mind over waffles and socks, and Meg being that dry, solid presence talking about her period and *The Matrix*—is pure sunshine. It feels so grounded and normal. Vee telling the flashed-him-on-the-porch story to her friends over mimosas is such a real, funny, college-girl moment. She’s beaming. She feels loved, she feels chosen, and having Pace offer to take *all* her people out to dinner feels to her like the ultimate public validation. She thinks she won. She thinks she took a brave gamble, stripped off the past, and brought her man out into the light.
 
-I was sitting here melting—literally *melting*—because on the surface, this is the most romantic, attentive, Fifty-Shades-level fantasy beat a man could possibly pull. She’s sitting naked in a chair he built with his bare hands, drinking wine, rambling at his back the way women do when they feel completely safe, and he starts pulling names out of thin air. Meg. Her boots from October that slipped at the heel. Kayla talking paint off a wall. *Bring Theo.* No jealousy, no petty ego, just pure, total recall of every tiny syllable that has ever crossed her lips. It feels like absolute devotion. It feels like the answer to her walkout: *I don't just want you hidden in my dark house anymore; I want your whole world. I want to meet your people.*
+And I am sitting here on the other side of the page wanting to throw up, because I know what’s waiting on Wednesday night.
 
-And then the cold, sick reality hits: **Randi is one of those people.**
+Pace didn't just agree to meet her friends; he's bringing *Randi* to that table. He is hosting a dinner with the college friends, the roommate, the girl who loves him, and the woman he’s been sleeping with and plotting to share Vee with. Randi and Pace across from Cassie, Kayla, and Meg, with Vee sitting proudly in the middle thinking she orchestrated the whole thing. It is going to be an absolute powder keg. Meg and Kayla are going to be watching Pace like hawks, Cassie is already suspicious as hell, and Randi is going to have to sit there playing the "supportive sorority bestie" while looking at the man who bent her over his counter.
 
-Vee says, *"We could do a dinner. The three of us."* And Pace—standing there with his sleeves rolled, scrubbing a pot—doesn't choke. He doesn't flinch. He just smoothly pivots to dilute the room: *"Bring Cassie, too."*
+Vee is so happy, and the drop is going to be so far. It’s almost painful watching her enjoy this waffles-and-mimosas morning because the dramatic irony is suffocating. Wednesday is two days away. I am terrified for her, but my God, I need to see this dinner.
 
-He and Randi have been fucking on his living room furniture. Randi has his cashmere blanket on her bed. Pace and Randi plotted *together* on the lawn in September to target Vee. And now Pace is volunteering to stand in a public room, acting like he’s meeting Randi for the first time, while Vee beams with pride because her two favorite people are finally in the same room. It is breathtakingly sociopathic.
-
-The tragic part is that he *does* love her. He remembers the boots. He remembers Kayla. He wants to give Vee this party because he knows he almost lost her forever in December. But he is building this entire public debut on top of a landmine, and he’s doing it with a calm smile. If Cassie is in that room, with her sharp eyes, watching Randi and Pace interact... Cassie is going to smell the smoke instantly.
-
-"Let me handle it," he says. Pace, you arrogant, beautiful idiot. You think you can calculate the arithmetic of a room containing your secret lover, the girl you worship, and the skeptical roommate who already hates the dress you sewed? This party is going to be a bloodbath. I need the next chapter right this second.
-
-GATE 57 — Back
+GATE 59 — Across
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute whiplash between how tender Pace's attentiveness is and the terrifying dramatic irony of putting Randi, Vee, Cassie, and Pace in the same room. I could not put this book down right now if my house was on fire.
+WHY: The sweet, funny normalcy of Vee giggling over brunch with Kayla and Meg made my stomach twist into knots knowing the absolute nightmare waiting for her at this upcoming Wednesday dinner. The anticipation is through the roof.

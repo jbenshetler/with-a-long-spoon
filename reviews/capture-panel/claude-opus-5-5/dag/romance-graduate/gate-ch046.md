@@ -1,32 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, she *walked out*. With the chicken on the stove, the wine poured and the heat turned up for her. I was holding my breath the whole time she stood on that mat.
+Okay. The two texts. I read *thinking about you 💛* and *you ANGEL 😇* last chapter from Randi's side of the glass: lipstick on a stranger, the face going back on in a hotel mirror. Now I got to watch them land in a twin bed in Ohio, under the synchro-swimming trophies, and it was exactly what I wanted from this book. It's the retelling weapon again, but quieter. Both girls wrote "the thing" and both meant something they weren't saying. Randi put "Every word of it true. None of it the thing." Vee put "Not the thing — the thing she'd folded away in the glass room." Two women hiding two different things inside the same eleven words, and each one thinks *she's* the one being kind. I said "oh no" out loud.
 
-What got me first was that the bag stayed in the car. She decided before she ever got out. She sat there with the engine ticking, the coin taste in her mouth and her coat buttoned to the throat, and gave herself an exit. That isn't a girl blowing up. That's a grown woman who lay awake two nights, came in with her case built, and *still* had to watch his face open for the door kiss and not give it to him. "She let him arrive at the fact of it." God. She didn't turn her mouth up.
+Vee also *invented* the billionaire. Randi never typed the word "man." Vee built him herself, "devastatingly handsome," "a weekend so wild," straight out of the Redford-boy stories Randi has been feeding her all fall. Randi lies by giving out the fairytale and Vee fills in the rest. So I watched Randi's real night, flat and lonely, get turned into the glamorous version by the one person who'd have been gentle with the truth. That's the "step ahead of Vee" the jacket promised me, and it hurts in the right place.
 
-Her speech should have been too much, and it wasn't, because it's honest about the good part. "I'm not complaining about one minute of it." "What do I tell my mother, that he feeds me and we have a lot of sex?" She knows exactly how it sounds and lets it sound ugly, because that's the actual problem: without a name, the best thing in her life comes out of her mouth sounding cheap. That's what I've been missing from KU for years. A heroine who can say *the sex is incredible and that is not the point*.
+The fra diavolo memory got me. She reaches for her best night to keep warm, and the blonde climbs into her own memory and takes her chair, her sheet, her wine light. "She could not keep her own night." That's real jealousy, the 1 a.m. kind that rewrites your past instead of just worrying about the future. And "a fashion model's body where Vee's was a stripper's." Oof. The mother-voice wire I had marked as quiet is back, at full volume, in the one room it was built in. Also note to self: she's still lying about the dancing, and she still cropped the leg off for her mother's phone. "Same picture, one house, and she was the one who had divided it." I liked that a lot.
 
-Then him. "Do any of your friends have a relationship you'd rather have than this one?" It's a mathematician's dodge, a counterexample in place of an answer. And it's TRUE, which is the cruelty of it, and she knows that too. Then "Words are cheap. Believe what I do," which is the jacket, word for word, and I'd been waiting for it. Her comeback, "Words are cheap, and you still won't spend them on me," is the line I'd text at 1 a.m. I physically said "ohhh" at it.
+Now the gripes, because I have them. This is the second Vee-alone-in-a-cold-bed-not-texting-him chapter. Chapter 46 already did the thumb over the empty field and the "no message comes back in the shape of what she needed" beat, and this one says it again almost word for word. I noticed. The last line, "the cold room kept watch over the girl who was gone," is the book underlining its own theme. "A room that loved a girl who no longer lived inside her" already did that job a page earlier. I don't need it twice.
 
-I sat there thinking: I know why he can't. Randi. The quad. "For us." Any word he gives Vee out there is a word he'd also owe the other woman he's careful with. The step-ahead thing is brutal here. She thinks she's asking whether he loves her. What she's really asking is the one question that would take the whole arrangement apart. The arms folding, "the still of a man holding a line at cost," told me he wants to say it and can't. Or he's protecting a structure. I honestly can't tell which, and I like not being able to.
+The bigger thing: I haven't seen Pace since she walked out his door on December 11, and it's now three weeks of silence in story time. Chapter 48 was Randi and chapter 49 is Vee missing him. I want him. I want to know whether he really did nothing for three weeks, or whether there's a reason I'm not being shown (Christmas with Sheri? Randi? Nobody?). If chapter 50 is another inner monologue I'll start skimming. If it's January and his door, I'm all in.
 
-The Chili's chapter is paying off too. The sensory thing, the noise and "I can't hear you," means he's maybe not withholding out of coldness. Something in him really is wired differently, and it's mixed up with a lie he's actively keeping. Holding both of those at once is what I came to this book for.
-
-Gripes. "Not the hand in place of the word" is the book leaning over to make sure I got it. I got it, the whole chapter was about it. "Like my body comes with me attached" is an echo of the Randi brunch, and I noticed it. Mostly I liked the echo, because Randi already answered that line once with "It doesn't." Also, honestly, 44, 45, 46 and now 47 are four chapters circling *the word*. Chapter 46 was a short, quiet one, and by the end of it I was thinking *okay, I get it, she wants the name*. This chapter is what keeps that from being stalling: the circling finally turns into an act. If chapter 48 opens on her crying in the Corolla thinking about the word, I'll be annoyed.
-
-What I want: Randi. I haven't been at a brunch table in ages. Vee is going to bring this to Randi, Randi is going to "comfort" her, and it's going to travel straight back to Pace. That's the scene. Also Thanksgiving with Sheri happened offstage and I'm still a little sore about it.
-
-Heat-wise there's nothing, unless you count her body wanting him on the doormat, and it's there in "it all went straight past her guard into the old wanting." That's a simmer. It doesn't need more.
+Also, small thing: Vee knows about the PPP money and envies Gstaad anyway. "Even a poisoned Gstaad was more life than she had." That's honest, it's not pretty, and it's very twenty-one. I believed her.
 
 ---
 
-GATE 47 — Believe Me
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 6
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "Not the hand in place of the word." It's not a stop, just the one spot where the book explained itself to me and I rolled my eyes.
-WHY: The jacket's central fight finally happened on the page, and she's the one who left. That's a real turn, and nothing a manufactured unsent text could do. Knowing about Randi turns his "believe what I do" from coldness into a lie I can watch him protect. I need Saturday brunch now, with Vee wrecked and Randi "helping."
+ROMANCE: 2
+ALMOST-STOPPED: "There was nothing to put there. She'd learned that already, in another bed, in another cold room." The book knows it's repeating chapter 46, and so did I, and I counted pages.
+WHY: The mirrored text exchange and the blonde taking over the fra diavolo night are the best things this book does: same moment, two rooms, and I'm the only one who sees both. But it's the second solo cold-bed vigil, Pace has been offstage for three weeks, and the lyrical close leaned on me. I'm turning the page for *him*, not for more of her ceiling.

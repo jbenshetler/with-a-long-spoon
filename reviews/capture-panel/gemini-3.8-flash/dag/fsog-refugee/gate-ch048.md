@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8219a10af610 · 2026-10-11*
 
 REACTION:
 
-Oh, god. This hurt. This hurt in that specific, hollow, sick-to-your-stomach way that only New Year’s Eve in your childhood bedroom can hurt when your heart has just been pulverized.
+Oh my god. *Oh my god.* My chest is so tight I can barely breathe.
 
-The contrast between these two chapters—reading Randi in 51 and then Vee in 52—is genuinely making me feel ill. In 51, Randi is waking up from a hollow, wealthy one-night stand with her perfect billionaire-lawyer stand-in, nursing her guilt, and deciding to text Vee the “fairytale” because it’s easier to keep playing the role. And then we cut to Vee. Freezing in a twin bed she’s too tall for, smelling lavender plug-ins, listening to the furnace shut down, watching the clock tick down to midnight, utterly consumed by Pace’s silence.
+This entire chapter felt like standing on a train track watching two locomotives barreling straight toward each other in dead silence. The sheer dramatic irony of Randi—who was literally bent over Pace’s furniture while he talked about Vee’s wet hair—sitting on that bed, sweeping her designer clothes to the floor, and actively coaching Vee on how to surrender to him? *"A peace sign he can't misread."* A coat and nothing under it. Stiletto cage-heels that climb to mid-calf. She is literally dressing Vee like an erotic offering, handing over the exact weapons of surrender, and sending her straight into the lion’s den!
 
-The detail of her cutting the picture in half before sending it to her mom—scissoring away the leg, scissoring away the woman she’s become because her home can’t hold her anymore—shattered me. You grow up, you expand, someone wakes your body and your hunger up, and then you have to go home for Christmas and squeeze back into your childhood skin, pretending casseroles and *Wheel of Fortune* are enough when you are literally starving to death.
+And the psychological manipulation of it made me want to scream and weep at the same time. Randi breaks down Vee’s entirely justified walkout—the fact that Vee had the courage to demand a name and refuse to settle for scraps—and completely rewrites it into Vee’s fault! *“You backed him into a corner in his own house… you blindsided him with a fight.”* She took Vee’s spine and convinced her it was an act of cruelty! Vee was in agony, raw from weeks in that suffocating childhood room, starved for touch and reassurance, and Randi systematically dismantled her defenses until Vee felt like *she* was the one who owed him an apology. And what is Vee’s apology supposed to be? Absolute, total, voiceless sexual submission. Stripping away the words completely. Handing him her naked body on his porch so he doesn't have to face the terror of speaking. It makes me sick, and yet—god forgive me—the sheer erotic charge of Vee standing there holding those heavy, strappy black heels, feeling her nipples tighten through her shirt, knowing exactly what she’s about to go do… it is suffocatingly hot. It’s filthy and it’s tragic and I hated how badly I felt it.
 
-And the spiral. *The spiral.* When you’re alone in the dark at midnight, your brain is a sadist. She takes her safest, warmest memory—the fra diavolo, the sheet slipping off her shoulder, the heat of his kitchen—and her mind replaces herself with an imaginary tan, blonde girl. *Except it isn’t imaginary.* That’s the knife twisting in my gut! She’s imagining some nameless dance-hall girl at his stove, completely blind to the fact that it was *Randi* on that couch. Randi, who she just texted an open hand of pure, unconditional friendship to. Randi, the only thing she thinks she has left to hold onto.
+And then the front hall. *That kiss.*
 
-Pace didn't text. Not once over the whole break. He's doing his noble "I leave you the room" routine, convincing himself he’s respecting her boundaries when in reality it is just cold, cowardly neglect. He’s letting her freeze out of some stubborn mathematical principle because she had the audacity to ask what she was to him.
+Vee turning back from the latch, overwhelmed by a tenderness she doesn’t even know how to categorize, taking Randi’s face in both hands and kissing her on the mouth until her own chest stops aching? I gasped out loud. Randi standing there afterward in the empty foyer, pressing the back of her hand to her lips like a stunned fifteen-year-old—Randi, who thought she was the puppet master, suddenly realizing the strings are tied around her own wrists too!
 
-I’m so angry at him, I’m so terrified for her, and the dramatic irony of her leaning entirely on Randi while Randi is literally the other half of the trap... it’s suffocating. She thinks Randi is her safe harbor. When this detonates, Vee is going to have the absolute earth taken out from under her. God, please let term start. Get her out of that cold bedroom.
+And Brooke! Brooke stepping out with that deadly, sorority-president velvet dagger: *“You remember Lauren Pike… You’ve got a position in this house, and you’ve got her. You need to choose.”* The sheer social surveillance of that world, the sharp little threat wrapped in pastel smiles and faux-sisterhood.
+
+Vee is on her way to sleep off the flight, and then she is putting on those cage-heels, wrapping that coat around her bare skin, and driving to that house. Pace is sitting out there recovering from weeping over his cold chicken and broccoli, half out of his mind with grief and guilt. When that door opens tonight, it is going to detonate. I can't look away. I need the next chapter this second.
 
 ***
 
-GATE 52 — Old Acquaintances
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The ache of this chapter was agonizingly real. Watching Vee's mind torture itself at midnight while holding onto Randi as her only lifeline—completely unaware of the betrayal waiting for her—has the tension wound so tight I can barely breathe.
+WHY: The dramatic tension is unbearable in the best way possible. Watching Randi weaponize Vee’s vulnerability to choreograph her naked surrender to Pace—while Vee is completely oblivious to their affair, and Randi is quietly falling apart over Vee kissing her under the composites—is breathtakingly high-stakes drama. I have to see Vee open that coat at his door.

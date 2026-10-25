@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. OKAY. I have to start with the thing the book didn't flag, because I almost read past it. In 52 he opened the door and said "Vee, I l—" and she cut him off. She drove out there for that word, and she stopped him in the middle of it. Now she's told Kayla, and tonight Randi, that what he said was "It's late. Is everything alright?" She's done it twice now, with the same polite line both times, and the narration never calls it a lie. Either she truly didn't hear what he was starting to say, or some part of her rewrote it on the spot because getting the word on her own terms (the coat) mattered more than getting it on his. I'd text that at 1 a.m. with no punctuation. She's keeping everyone on different books, and now she's doing it with the one sentence that mattered most.
+Okay, I need to complain first. This is the third time I've been walked through the same weekend. Ch 53 gave me Saturday in full, and it was gorgeous: the orange, the wrist, "bad slave." Ch 57 gave me the porch again over wine. Now 59 hands me the truck again and then the Saturday bed again, in Vee's voice. "He kissed my *toes*, Randi. Individually." Yes, I know. I was there, twice. Somewhere around "he opened me like the orange" I caught myself skimming for anything Randi did, because Randi is the only new information in the room. I also hit continuity slips that took me out of it. The special was a braise over polenta, and then her cleared plate has a chop bone and a fennel thing on it. Randi "ate the bread," and there was no bread. The canvas apron turned into a flowered apron, and the chair turned into a stool. Maybe that last one is Vee embellishing for her audience. If so, it's too subtle to tell apart from sloppiness.
 
-And Randi. Vee gives her the clean version and gets "Hmm." Then "Hmm" again, while Vee's smile "stopped being attached to anything." Randi wants the real version, and the real version is the one where Vee shows her the stain on the lining. "Very. Ready." Randi stares, Vee can hear her breathing, she says "Wow," hoarse, and keeps staring. That was hotter than half the sex scenes on my Kindle, and nobody touched anybody. Then the bathroom. Vee's thinking about the porch and the chair, and right at the top Randi's face arrives, and the question turns into *there's no way he couldn't*. Afterward she tells herself "That had been about Pace, obviously. All of it." Oh honey. The book doesn't spell it out for me, it just lets her say "obviously," and that one word did everything. That's the trick I keep wanting from literary books and almost never get: the heroine fooling herself, the book not fooling me, and the scene still explicit.
+But Randi. God. The retelling isn't really for me. It's for watching Randi listen to it, and the book knows that. Her nail goes under the rim of the glass and bears down. "The bawdy had gone out of Randi's voice." She takes one exact bite and leaves the fork down. And then "I don't." Flat, two words, and I sat up in bed. "It was powerful. It turned me on." She's hearing a story about a girl tasting herself on someone's mouth, and the someone she's picturing isn't Pace. Vee says "But it's gross" too loud, and the book just lets that sit there. It doesn't explain it to me, and I loved it for that. "He's enthusiastic" sticks in Vee's head on the walk home, with "I don't" underneath it. That's the seed of the whole Randi thing, planted in the right spot.
 
-The robin's-egg underwear story wrecked me. It's the first real wound we've seen on Randi that's not about money. "They're your color." "She knew my color." The fingernail going under the rim of the glass. A mother who washed the underwear and waited for the boy to come to dinner. Put that next to Vee's mother's voice and you've got two girls raised by two different kinds of watcher. Then Randi snaps back into hostess mode so fast it's scary.
+The neck kiss is the second one now, and this time Randi didn't forget. She "laid the whole of it open." The catch and the rise that lasts a beat too long, then "*Ticklish*." She's lying with her body, and she's bad at it, and I ache for her. Brooke's ultimatum is still hanging over all of it, and Randi is choosing the composites anyway, one neck at a time.
 
-"It's a good thing you got relief." My stomach dropped right along with Vee's. Then Randi pivots it to Pace and it's fine. Except is it? I think she knew. I think she said it on purpose and then gave Vee the way out.
+Then "You picked well," and I said "oh you *bitch*" out loud at 1 a.m. It's the jacket line turned inside out, Randi complimenting Vee on a choice Randi made for her. And Vee's little technicality, "he walked in already halfway across the floor," is the closest she has ever come to seeing it. That one line did more than the whole booth.
 
-The neck kiss and the flinch: "tickles." After Brooke's speech in 51 ("you need to choose"), I don't believe that word for a second. Randi's flinching because it landed, not because it tickles.
+The Marsh lecture on grooming is a bit much. A comb gets passed around, some row can't bear to give it up, and the class is literally called *grooming*. I got it the first time, book. Still, it's not explaining itself to me, so I'll allow it.
 
-Gripes: the hau lecture is the book handing me its own theme with chalk. A gift carries the giver's spirit and wants to go home: the heels, the scarf, the cashmere blanket that "appeared." I got it before Dr. Marsh finished her sentence. I'll forgive her because I like her boots and the black streak. And this is the third retelling of the coat night (Kayla, Cassie's sweater lie, now Randi). I felt the drag around the "pleasure princess" replay. It worked because Randi was the audience and the audience is the whole point, but I don't want to hear the porch a fourth time.
+I'm also quietly worried again. She bought the smaller size, didn't eat before dinner, swam a mile, then fell on the plate without noticing she was eating. The nurse-mom thread is still breathing.
 
-The relief at the end, that she didn't get to tell the "gross" kiss story: that tiny stone under her breastbone. She knows. Some part of her knows the taste on his mouth wasn't only her. Tomorrow is dinner, with everyone and Pace "handling it," and Randi said "I want to see him again." Again. Vee heard "properly." I heard "again."
+Heat-wise, the booth was genuinely charged. Vee clenching at the memory, mouth dry, unable to say "swallowed" across a white cloth. Embarrassment as foreplay with another woman watching is a real thing, and the book did it well. But it's all secondhand heat. I want a new scene, not a cover version.
 
-GATE 57 — Covering
+**GATE 59 — A Clean Plate**
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 3
+CAPTURE: 6
+NEXT: 6
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone." My heart sank at a third pass through the coat night, until the lining came off the hook.
-WHY: Every retold beat was new because of who was listening, and the bathroom scene with Randi's face in it plus "obviously" is exactly the depth-and-heat combination I came for. I knocked off points for the lecture spelling out the theme and for one retelling too many. But the dinner is tomorrow, everyone's going to be at one table, and I'm already turning the page.
+ALMOST-STOPPED: "He kissed my *toes*, Randi. Individually. Each toe got its own kiss like it had done something." (That's the point where I realized I was reading Chapter 53 a third time.)
+WHY: Randi's "I don't," the neck, and "You picked well" are the best Randi beats yet, and they're why I'm still here. But 57 and 59 are both retellings over wine at the same restaurant, and I need the next chapter to put somebody in a room I haven't already been in.

@@ -1,32 +1,30 @@
-*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 **REACTION**
 
-Okay. It's 1 a.m. and I'm texting someone about this, because I'm not sure whether I just read the most romantic chapter in the book or the most worrying one. I think it's both, and I think the book knows that.
+Okay. I'm going to talk about Saturday night first, because this chapter is its fallout and I can't separate them.
 
-That kiss. The held inch, with Randi's hand closed in her hair and her mouth a breath short of Vee's, waiting. Vee's eyes going over her face "as they had wanted to all autumn and never let themselves." Then the press with nothing else in it, "and let Vee feel herself not pull away." Then the tongue, "not a demand, a *please*." It's built the way I've wanted every first kiss in this genre built: there's a pause long enough to say no, and an ask inside the asking. And everything in it is Vee's. Her hips press once, "asking." Her own hand goes up into Randi's hair without permission and she doesn't take it back. That's the desire-from-inside I came here for. I felt it in my chest. I wanted it as badly as she did.
+The inch-for-a-truth game in his bed was the hottest thing in the book so far, and I'm still not sure how I feel about that. She wanted it, it was her rule as much as his, and she kept testing it and it held. "That's *cheating*," nowhere near offended. I believe that consent, and I loved it. But then he asked "Anything else you want to tell me? About Randi," in the flat true voice, and he already knows. Randi tells him everything in bed. He was asking a question he had the answer to, and he got her first lie. She lied to the man who knows, about the woman who told him. I hate that for her. It's the three-games thing from the jacket made physical: everyone in that room had more information than Vee.
 
-Then I remember everything that happened in the hour before it, and my stomach turns.
+This chapter is quiet, and it works on me. Sunday is her reaching for him again and again, and "full of him and not, somehow, filled" broke my heart a little. She's using the man she loves as a lid. Monday night with her hand flat on her stomach, "a lid held down on a pot," is the best thing in the chapter. Her desire is completely hers, rendered from inside, and she's refusing it because if she touches herself it becomes *true*. That's the heroine I read for: her own appetite, her own terror of it. Also "Pace had made a point of telling her so, in the dark, in the way that stuck." What did he tell her? When? That one line reads like he's been giving her permission to want things without telling her who's on the other end of the permission.
 
-Randi picked the skirt. She said "not that short" twice. Cassie, the one person here who argues honestly, did the math out loud and was right. A second margarita shows up that Vee never saw ordered. She's at the edge of the floor where people can see her, keeping one hand on her hem. Then Randi takes the hand away from her. First Randi's hands are on her hips making the dancing bigger, so "there was nowhere left for Vee's own hand to go." Then she runs her hands up Vee's sides, lifts both wrists into the air and holds them there. "There was nothing Vee could do about it, because Randi had her hands." I nearly put the book down there. It's the same move as Pace's rail, hands up and keep them there, except Pace asked and watched for the answer, and Vee chose to give up the holding. Nobody asked Vee on that dance floor. Randi worked it, the way she works everything.
+The Lifesaver on the inside of her wrist. "Static." Ha. Sweetheart.
 
-Then "your panties are showing" is warm in her ear, and Vee goes through the shame and the turn under the shame, found out twice over. Randi catches her chin, says "nobody minded," and makes Harrison the excuse. To be fair to her, the kiss was real for Randi too. She came back from it "a moment behind," blinking and shaking her head. And then: "You really did a great job putting on a show. I almost believed it." And the swat on the arm. That line is the cruelest thing anyone has done in this book. It isn't cruelty dressed up as dominance. It's cowardice dressed up as a joke. Randi just told Vee that what Vee felt was an act, and she did it to protect herself. Two chapters ago she was on top of Pace saying "I want her to know exactly what she does to me." She had her chance tonight and she folded it into a bit. Now Vee is standing on a dance floor sure "there was no version of the night in which she could ask." Words are the whole war, I suppose, and Randi just won one against the girl she loves.
+Then Randi's "having you at the dance... I've wanted to do that for the longest time." *Having.* Again. The same word Randi used about guys you have to manage. I think Randi chose it.
 
-There's a pattern I can't stop seeing. "Yes," before the question was even finished, the same yes she gave Pace about the waxing. "Barely stings," with no mention of rolling over. "Not that short." Randi keeps sending Vee places without telling her the size of them. Vee's yes is real every single time, and every time the person she said it to holds back half of what she agreed to. The jacket says "nothing is taken from Vee that she does not hand over." That's true in a narrow sense. She hands it over. She just doesn't know what's in the box.
+The doorstep is where my old alarm went off. Vee turned her mouth away on purpose, with a reason, and Randi accepted the excuse. Then she put her mouth on Vee's neck anyway, right on the spot Vee had been "told not to weaponize," and laughed, "not sorry at all. See? How do you like it?" Vee said no to one kiss and Randi went around the no to the place she knew would land. It's small, it's playful, and Vee's body lit up. Out of that came "Brunch," her own word, her own reach. So I can't call it coercion, and the book isn't winking at it either. Cassie is right there in the next scene with worry in her voice. But I'm marking it. Randi steers. She's never once just taken the answer. And "discipline a bad girl" on standards committee? That's Randi talking about Vee to Vee's face.
 
-Brooke. "Randi's *new* friend." The cardigan, the Friday morning, she remembers everything. "I chose." "I can see." Randi only gets her arm around Vee's waist the instant Brooke shows up, so this was an answer delivered in public. Vee thinks Brooke is being kind for not mentioning the wrecked day. Oh, honey. And the Chambord, forty dollars a bottle poured into a trash can so nobody will know. That's the house in one image.
+And Cassie. FINALLY Cassie. "What was that with you and Randi?" I said in my notes I wanted her to be the one who says something, and she did. Vee couldn't answer her oldest friend's plainest question, and that's the scariest moment in the chapter for me, in a good way.
 
-The bracelet is called Love, and taking it off requires tools. I wrote that down in big letters. Somebody put it on her and it doesn't come off, and she has never said the word except as currency. Who gave it to her? Her father? Brooke? I need to know.
+What I'd text at 1 a.m.: *She asked for brunch. With her neck still ringing. Saturday is going to wreck everyone, and I bet Randi tells Pace about the neck kiss by Thursday.*
 
-Pace is in none of this. "He gets me Friday. He gets me Sunday." He probably knows exactly where she is tonight. Every bit of this was arranged except the kiss, I think. The kiss got away from Randi, and she had to grab it back.
+The gap I feel: Pace alone was only Sunday, in summary. I don't need him yet. I need Saturday.
 
-I love Vee so much right now. She knows she kissed Randi, she knows it was good, she knows she wants it again, and her hands aren't steady. That's honest, and it's hers. I just want someone in this book to let her say it out loud.
-
-GATE 70 — On Her Floor
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Her thighs were open to the room now, the iridescent skirt giving them almost nothing, and there was nothing Vee could do about it, because Randi had her hands."
-WHY: The kiss is everything I read for: the held inch, the "please," Vee's want written from the inside. But the hour that set it up was Randi steering, and "I almost believed it" took the kiss away from her as soon as it ended. I'm staying because the book seems to see that too: Randi came back "a moment behind," and Vee's body "had not been told." I need to know whether the next chapter makes Randi pay for that line or lets her off with a wink.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Randi laughed, delighted, not sorry at all. 'See?' she said. 'How do you like it?'"
+WHY: Vee's restraint and wanting are completely her own, and that's what keeps me here. The doorstep kiss went around a no Vee had just given, and I'll be watching to see whether the book ever makes Randi answer for that kind of thing. Cassie's question and "Brunch" coming out of Vee's own mouth mean I want Saturday right now.

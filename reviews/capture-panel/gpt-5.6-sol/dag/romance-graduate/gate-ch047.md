@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Randi. This is the exact emotional disaster I wanted from her and also the choice that makes me want to shake her.
+Oh, Pace. You absolute emotionally constipated disaster. He understood her. That is the knife. He understood the crackers and the meal perfectly, felt the true answer rise, watched his smaller answer fail her, and chose safety anyway. I’ve spent chapters wondering whether he simply could not translate himself into words. No. He could. He was afraid, and he let Vee pay for that fear.
 
-The fairytale got me despite knowing better. The mountain, the man who could keep up without showing off, the dress, his face at the bottom of the stairs, the dancing, the sleigh—I understood why she wanted to step into the story and let it carry her. Especially after that breakfast, where she had to manufacture an acceptable version of herself before she had even finished her tea. For a while I wanted John to be real enough to offer her an exit. Not necessarily forever, just one clean night in which she could be wanted without all the secrecy and moral rot attached.
+And somehow that makes me more furious with him and more tender toward him at once. Damn this book for refusing to make the deception cancel the love. His grief over Vee is not decorative brooding. It is ugly and bodily and humiliating: drinking alone when he never drinks alone, being sick, bleaching the bathroom, eating joyless chicken and broccoli because his body requires fuel. Then hearing an engine and knowing from the sound that it isn’t hers, but hoping for the length of one impossible second anyway. Him missing not merely her body but the moment her face changes when she sees him waiting absolutely broke me.
 
-And then: nothing. Good sex, perfect man, perfect room, and nobody home inside it. The lipstick left on his body while she remained untouched absolutely chilled me. “This was the best the acceptable world could do for her” is the kind of realization that changes what escape even means. She cannot marry her way into safety because the safety requires her absence.
+Sheri was exactly what he needed and exactly what I needed: one person who likes him enough not to indulge him. “Then not saying it matters more to you than having her” is the whole ruling, cleanly delivered. He can stack up every loving act he has performed, and they are real, but Vee did not ask for evidence because she doubted the evidence. She asked him to risk himself. He wanted her to believe what he does while refusing to do the one thing that would leave him exposed too.
 
-But the dancing comparison hurt most. John directs; Pace leaves room. Randi thinks she is tired of the work, and for one gorgeous evening she wants to be led so completely that she does not have to reveal or choose anything. Of course that feels wonderful right up until she realizes no one has found her. Pace’s lighter hand asks more of her because it assumes there is a person there whose movement matters. I hate what Pace and Randi are doing to Vee, but I completely believe why Pace is the terror she cannot replace.
+The Daphne revelation finally makes his refusal emotionally legible without excusing it. He has turned one catastrophic loss into a superstition: if he does not say the words, love cannot consume his life when it ends. Except look at him. The words stayed locked up and the loss still found every room in the house. “Whiskey River was a liar” nearly made me laugh, and then the passing truck finished me off.
 
-Then Vee. God. Vee sending that soft, undemanding little message—*I’m here if you want to talk. Or not.* She offers Randi exactly what Randi refuses to offer her: room to tell the truth without being maneuvered. And Randi answers with a perfectly true lie.
+I am also extremely alert to what Pace was imagining before the collapse. That kitchen scene with Vee in his sheet and Randi across from her is not just a threesome fantasy. It is domestic. It is the life he wants: food going on the stove, both women safe in his house, the two of them laughing together. He is worrying about whether Vee could “carry” the room while still withholding the facts she would need to decide whether she ever wants to enter it. He can see her desire for Randi. He can see Randi’s desire for her. He still cannot see—or will not accept—that wanting two people separately is not consent to their secret arrangement.
 
-That final decision is where my sympathy curdled into fury. She understands everything. She knows telling Vee would mean letting Vee decide. She knows “best friend” is cover. She knows she is preserving access to Vee by keeping the meaning divided between them. “Let Vee arrive at it on her own” is not tenderness or patience; it is Randi choosing the outcome she wants while making Vee responsible for crossing the line. There is no innocence left in this plan.
+And the casual confirmation that Randi’s blanket has a permanent home at the foot of his bed while Vee was begging for a name made me feel sick. Vee thinks she is asking whether Pace belongs to her at all. Meanwhile another woman’s cashmere blanket already “lives” in the room where Vee sleeps. That detail is quieter than a confrontation and somehow more brutal.
 
-And yet “Vee was her gorgeous” nearly broke me. That is so nakedly hers, so unlike the polished currency she spends everywhere else. She loves Vee without a private qualifier—and immediately uses that love to justify denying Vee the truth. That contradiction is the whole fire now. I’m furious with her, aching for her, and absolutely reading on.
+I need the next chapter immediately. Pace has finally admitted the exact truth to himself: he loves Vee, he knew what she asked, and he chose cowardice. Now he has to do something that costs him. Saying “I love you” is necessary, but it will not be enough—not with Randi still hidden inside the house, inside the bed, inside every confidence Vee thought she was giving separately. Go get her, yes. But take the whole truth with you.
 
-GATE 48 — Fairytale
+GATE 50 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The glamorous fantasy collapsing into emotional vacancy had me completely, but Randi’s conscious decision to keep her love disguised made the next chapter urgent. She knows disclosure would give Vee a choice, and she has chosen continued access instead.
+WHY: Pace’s internal admission changed the emotional shape of everything without absolving him, and the passing-truck breakdown destroyed me. I’m already turning the page because recognition is no longer enough: I need to see whether he chooses honesty before he tries to win Vee back.

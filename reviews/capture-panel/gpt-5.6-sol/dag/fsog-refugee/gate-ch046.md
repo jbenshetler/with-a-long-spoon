@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION
+REACTION — Oh, Vee. “Before she made it wrong” absolutely gutted me, because she did not make it wrong. She asked a necessary question and refused to be soothed instead of answered. Now she is alone in the bedroom she has outgrown, punishing herself for finally protecting herself, while Pace’s silence leaves every empty space available for fear to fill. I understand why he has not simply descended on her after she walked out—he always leaves her room—but there is a difference between respecting space and letting a woman you love spend an entire holiday believing she may mean nothing to you. He knows what she asked. He knows he did not answer. At some point “leaving room” becomes another beautiful principle he can hide behind.
 
-Oh, Vee. “Words are cheap, and you still won’t spend them on me” went straight through me. That is exactly it. He has built her an entire language out of heat and food and touch and drawers and open doors, and then left her alone to translate it. She came to him without her bag because some part of her already knew she might not be staying, and I felt that absence from the second she stopped on the mat. She did this bravely. No hint, no pretty sentence wrapped around the truth, no letting sex swallow the question. She stood there buttoned to the throat and asked him plainly.
+And the imaginary blonde taking Vee’s place in her own memory was horrible. That is exactly what secrecy does: it makes even the past unstable. Pace has been so precise about making her feel singular when she is with him, but he has given her nothing she can hold when she is away. She cannot keep her own best night because he has refused to tell her what made it theirs. I wanted to climb into that tiny bed and tell her that the girl at the table was her, that her body did not need “building for,” that he wanted her specifically—and then I got furious all over again because Pace should have made those truths safe enough for her to know without him physically present.
 
-And he failed her.
+The contrast with Randi is almost unbearable. Vee thinks Randi is the one sure thing because Randi gives their connection dates, names, and visible affection. She has no idea that Randi is answering her from another man’s bed, deliberately sending back the fairytale and withholding the lonely truth. That message looks loving from Vee’s side because part of it is loving. “Miss your face” is the realest thing Randi has—but she still uses the truth selectively, shaping what Vee is allowed to see so she can preserve the relationship in exactly the form safest for herself. After watching Vee offer an open hand that asks for nothing, knowing she has already protected Randi’s ugliest family secret without seeking advantage, I am livid that Randi cannot offer her the same honesty.
 
-“The most important person in my life” should have been enormous. From almost anyone else, it would have been. But she asked what she is to him, and he answered with importance instead of commitment. Then he made her compare their relationship to other people’s, as though being treated better than Cassie’s friends settles whether she is allowed to know the terms of her own life. It felt like he was trying to prove she should be satisfied instead of answering why he refuses to name her. That hurt more because he wasn’t dismissive or cruel. He took her seriously. He understood that she needed words. Then he consciously withheld them.
+And Vee longing for the visible life Randi seems to have, while Randi lies in the supposed fairytale feeling absolutely nothing, is just cruel. Each woman thinks the other possesses the freer, fuller life. Neither understands that the other is alone at midnight wanting the same two people.
 
-And I know now that this is not merely emotional reserve. He cannot give her an honest public name without opening the door to Randi. “Girlfriend” would imply a shape he knows is false or incomplete. “Partner” would demand truths he has deliberately kept outside the room. So he hides behind “believe what I do,” while what he does includes maintaining a second relationship and letting that woman quietly court Vee under the name of friendship. His actions are not the clean evidence he thinks they are. If Vee could believe the whole of what he does, she would have information he has made sure she does not possess.
+There is no heat here, but the longing is so bodily it almost behaves like heat: Pace’s arms imagined around her, his cooking invaded by jealousy, the room cold because he is absent. I miss him too, which annoys me. I still want him to come for her. But not with dinner. Not with that hand. He needs to come carrying the whole truth, and he is already terribly late.
 
-The instant his arms folded frightened me. Not because I thought he would hurt her, but because that was the first time I felt him choose the wall over her while she stood directly in front of him asking to be let in. His restraint has always been the thing I trusted. Here it became refusal. He was “holding a line at cost,” and the cost was Vee crying in the doorway. Whatever promise, fear, history, or arrangement lives behind that line, he protected it before he protected her.
-
-And then, of course, the reaching hand nearly broke me. Because he does love her in every language he permits himself. He saw her tears and all the cold went out of him. He wanted to settle her, hold her, repair it with the hands that have always made her feel safe. But she finally understood that accepting comfort would let the comfort replace the answer again. “Not the hand in place of the word.” Yes. Exactly. I am so proud of her for leaving before his tenderness could make her abandon the question.
-
-This is the door closing at the end of the first Fifty Shades all over again, except sharper for me now because Vee isn’t leaving over what he did to her body. She is leaving because she finally insisted that his care for her body cannot substitute for honesty about her place in his life. I am furious with him, aching for both of them, and already reaching for the next chapter. He said her name as she left. Her name is not enough. Go after her with the truth, Pace—not another meal, not another warm room, not those beautiful hands. The truth.
-
-GATE 50 — Believe Me
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee finally asked the clean, direct question, and Pace knowingly chose the wall instead of an answer. Her refusal to let his touch stand in for the word was devastating, necessary, and the strongest act of self-possession she has made yet.
+WHY: Vee’s loneliness had me by the throat, especially when fear stole her own best memory and put another woman inside it. I need somebody—preferably Pace, finally behaving bravely—to tell her the truth before she crawls back apologizing for a boundary she was right to draw.

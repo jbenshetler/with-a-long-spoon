@@ -1,18 +1,30 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
 
-REACTION — Oh, Cassie sees it. Not the sex, not the drawer or the scrunchies or the spanking—she sees the vanishing. “You don’t come home school nights” landed like a hand quietly laid across the path. No accusation, no jealousy, no attempt to make Vee defend Pace. Just: I have noticed that your life is somewhere else now.
+REACTION
 
-And Vee is so lit up I can feel why she keeps going. The baked-tomato burn is absurdly intimate: obviously half naked, obviously being fed, obviously Pace treating one small hurt as worthy of his complete attention. The house staying warm enough that she never considers what she’s wearing is almost more erotic to me than another explicit scene would have been. Her body has become ordinary there. Welcome there.
+Oh, that photograph made my stomach turn over in two completely different directions.
 
-But “It’s all so fast” frightened me because yes, honey. It is. She finally hears the speed when Cassie makes her count the empty bed, and this is still without knowing she has entered a relationship whose other two members were discussing and arranging her before she understood there was a relationship at all. Pace has made space for her in his bathroom while keeping her outside the truth of his life. Those two facts are becoming unbearable together.
+The posing is so intimate. He doesn’t just take a naked picture; he arranges her with that same absorbed, capable attention he gives food and furniture and dresses, kissing each place after he puts it where he wants it. And then he gives her back an image in which she can finally see herself as beautiful. That is exactly the combination I’m here for: explicit without becoming generic, erotic because it is about *this* woman being seen by *this* man. I absolutely understood why she sent it. I felt the risk with her, and the trust, and that terrifying sweetness of believing someone enough to hand them something that can’t really be taken back.
 
-This was tiny, but it did not feel empty. It felt like Cassie touching the emergency brake without pulling it. She gave Vee the question and then left her dignity intact. I love her for not converting concern into a prosecution—and I am suddenly desperate for Vee to come home one night capable of telling her the whole truth.
+But: “Only if you promise you’ll never share me with anyone.”
 
-GATE 36 — School Nights
+Sir.
+
+His answer is technically narrower—“I’d never share your photograph”—and I do not believe for one second that the distinction is accidental. He won’t pass around the pixels, perhaps, while he and Randi pass around Vee’s wanting, her wetness, her shame, her discoveries, her entire unsuspecting self. She thinks she has established the boundary that matters. He has promised only the literal thing she named. That cold little gap between her sentence and his is the whole moral horror of this relationship, and it contaminated “gave him herself to keep” exactly as it should. I was turned on and furious at once.
+
+And still, damn him, the tenderness works on me. His head on her breast. The kisses that are comfort until they are also sex. Thinking about her first bite when he touches himself. Cooking with the same wine they’re drinking, feeding her tastes, watching her discover that she has a palate because he taught her to pay attention. This is why I can’t reduce him to a manipulative man with a consent loophole. He loves her in a hundred daily verbs and refuses her the noun. Vee telling him to use her again with enormous satisfaction also delighted me; that doesn’t read like self-erasure. It reads like a woman discovering that submission-flavored language can belong to her pleasure.
+
+The Thanksgiving turn frightened me more than I expected. “This is my home” initially landed as warm and self-possessed, and then “I don’t go back” shut the whole room down. Vee did exactly the right thing: she noticed the boundary and didn’t make his pain perform for her. That is grown-up tenderness. I want the story of his family badly now, especially because leaving at fifteen was already framed as safer than staying.
+
+And Sheri. Of course it’s Sheri. Another woman Vee doesn’t know is already inside the truth, sitting at Pace’s table on a family holiday while Vee flies home. Vee’s jealousy flickers and corrects itself because the explanation is humane—but she is correcting herself with incomplete information again. I’m increasingly scared that when the secret breaks, she won’t only lose trust in them. She’ll lose trust in her own ability to recognize goodness, because so much of what is good here is genuinely good and has still been used to conceal something enormous.
+
+I’m not remotely putting this down. But I am now glaring at every precisely worded promise Pace makes.
+
+GATE 38 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie quietly made Vee see the speed and scale of what is happening without telling her what to think, and that landed hard. I’m reading on because the domestic sweetness is now sitting directly on top of the secret, and something has to crack.
+WHY: The photograph scene gave me the exact fusion of explicitness, trust, and interior danger I want, and Pace’s carefully narrowed promise made it hurt. Now Thanksgiving, his family, Sheri’s place at his table, and the secret all feel close enough to strike.

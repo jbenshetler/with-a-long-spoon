@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch067 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch067 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
-REACTION — This is the chapter I've been waiting sixty-something chapters for, and it hurt more than I expected. "Boyfriend" as a title is doing such cruel, perfect work — she grabs the word like a stair rail on the walk home, and then she uses the *man* as one. That whole drive out — skirt back on, thong never taken off, radio off because she didn't want anything in the car "asking questions" — I could feel her knuckles on the wheel.
+REACTION — Okay. Two pages. I have literally never read a two-page chapter in my life and I'm not sure how to feel about it — part of me thinks it's a stunt, and the other part of me sat there at the end with the Cocoa Pebbles box in my hands and thought: no, that was load-bearing. Everything in this book is long — the sex goes on for pages, the dinners go on for pages, the telling-Vee's-weekend-to-Pace scene went on for a THOUSAND years in the best way — and then the book puts its hand out and gives you exactly this much. One bowl of cereal. That's it. That's the chapter.
 
-The confession scene is the hottest thing in the book so far and it's not close, and it's hot *because it's brutal*. Him inching her back onto himself for truth, her paying in the truer version every time — "she moved me around" failing and "I didn't try that hard to get my hands back" landing — that's the best dirty talk this book has done, and none of it is dirty talk. It's an interrogation disguised as edging, or the other way around, and the fact that he gets hard off her shame and she's *glad* because it makes her "simple and straight" again — God. And that last truth, "I wanted the kiss. I wanted her mouth on me" — she says it, comes apart, and then in the quiet afterward there's the third person in the room, salt and lime still in her mouth, and she can't tell which one she was chasing. That line is going to sit in me for days.
+And the thing is, it landed on me like the whole rest of the weekend hadn't, because Cassie is the only person in this book who asks the right questions. "Is this what you want?" Not *what happened* — she doesn't care about the event. She's asking about Vee. And Vee GOES LOOKING — the book actually takes us to the edge of the shape, "close and large," and steps back off. I groaned out loud. Twice in two chapters now she's been one breath from the truth and flinched. But this time the flinch itself got written so honestly — the old fight dragged out "like a plank to walk out on" and Cassie just *stepping over it without looking down* — that I forgave it. Cassie refusing the fight is the most Cassie thing in sixty chapters. And "You didn't have dinner" — I almost cried. That's the answer to the question Vee can't answer, delivered as cereal. Eat something. You're a wreck. I love her.
 
-But the part that actually wrecked me is the lie. "No. Nothing." — the first one she's ever told him, and the book says it plainly and lets it sit cold under her ribs. And I love that the thing that cracks his composure isn't the kiss, it's being accused of wanting it — this man who never defends himself in a fight *needed* her to know she had him wrong, and she reads it as sweet, as a blanket, because she's reading everything tonight through her own terror. And the roadhouse — he SAW the kiss at the truck and she just told him there was nothing. That little thrill inside the guilt. This girl is in so much trouble and the book knows it.
+What I'm watching now, hard: Vee lied to Pace. "No. Nothing." The FIRST one she's ever told him, and the book flagged it cold and sitting under everything. And now she's lying to Cassie by stack-of-nothing. And she told Pace she couldn't keep things from him as the reason she drove over — and then kept the goodbye kisses in her pocket. Meanwhile Randi said "I chose" to Brooke's face and is out there kissing her neck ON PURPOSE now — "See? How do you like it?" — that's not an accident anymore, that's a girl who knows exactly what she's doing and is running out of patience. Saturday brunch got invited by VEE'S OWN BODY. Nobody planned that. The pot's going to boil over at brunch and I know it and I'm already dreading it and I need it immediately.
 
-"What is wrong with me?" with no answer. Tuesday circled at the end of the dark. I put the book down and picked it back up in the same motion.
+The cereal — "some of my Cocoa Pebbles" is the title and I didn't get it until she takes the box, and it's the book's whole economy in one box: Cassie offering what she has, plain, unstaged, the anti-Randi gift. No wine, no juice bar, no Chambord in a tub. Cereal from the box. That's the hau going home. Marsh would take one look at that bowl and fail the whole class.
 
-GATE 68 — Boyfriend
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The confession scene fused the heat and the psychology so completely I couldn't have told you where one ended — that's exactly the thing I read for. And the lie at the end means the book just armed its next three chapters; I need Tuesday like I need sleep I'm not getting tonight.
+WHY: Nothing charged happens and the chapter is over before it starts — but it's the first breath after the hottest, scariest weekend of the book, and Cassie asking "is this what you want" did more to me than another sex scene would have. I'd read a chapter of these two eating cereal on the bunk, but what I actually want is Saturday. It's set, it's loaded, and Randi has stopped pretending.

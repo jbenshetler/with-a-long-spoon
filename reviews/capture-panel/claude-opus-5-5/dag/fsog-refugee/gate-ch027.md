@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-10*
+*capture-dag-v2-rich · gate ch027 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6e62cd46bbc6 · 2026-10-10*
 
-## REACTION
+**REACTION**
 
-This one was short, but it hit me twice, about a page apart.
+I held my breath through the whole doorway scene. She's in Randi's heels and Randi's scarf, at the hour Randi picked, and his eyes go down to the cognac straps. My stomach dropped. Does he *know those shoes*? Randi was in his bed the night before. Then he lays the scarf back with "a half-second longer over the silk than the errand needed," and Vee is lit up and vain over it: *the scarf was working.* I could have screamed. Honey, whose scarf do you think it is? The book doesn't tell me if he recognized either of them. I'm sure the not-telling is on purpose, and I hate it in the right way.
 
-The first hit was him talking about her. Sheri says "Vee," and he's off. He tells her about Vee running her thumb down the walnut joint he spent a weekend on, and about her pulling a math book off his shelf and not putting it back, "like it had burned her." He doesn't hear himself. Sheri says "Listen to you," and "He didn't know what there was to listen to" just about finished me. He's gone on her and he's the last to know. That's the man I've been following since the sun porch. I also needed Sheri's report on the bar more than I realized. Vee sat alone with one drink, danced with nobody and left alone. Someone watched her that night when he couldn't, and now he knows that she was okay and that she was loyal to him. I let out a breath for her.
+But the man in that doorway is the man I came for. He catches the pie like a glass about to fall and brings her up out of the bow she's folding into. He tells her to leave the shoes on, and he's fine looking up at her. Then "But what happened?" asked with no edge, and "Thank you for telling me what she said." I cried a little at that one. He didn't let the apology close over the wound. He wanted the why, and once he had it he held her face. Sheri's "Not yet" from last chapter sits right next to this, though. He's still standing in the doorway with Randi behind him, and Vee is apologizing for disrespecting *him*.
 
-The second hit was "Not yet."
+Then the kitchen. My whole body went tense at "It landed." For one line I thought, here it is: he hits her without asking and the book wants me to find it hot. Then I read it again. She swatted him first, a loud playful crack. He turned off the tap and came after her slowly while she squealed and twisted, and it was one swat back, mid-game. That's play, and it went both ways. What comes next is what kept me in the book. He goes still. He watches her face. Twice in the bedroom he stops and *looks*, and she's the one shutting the question down. She kisses him, pushes him onto the bed, hides her face in his neck, and talks to fill the room. Her desire is hers and I got it from the inside: the sting answering every time she moved her hips, hiding it under motion until the motion is the thing lighting it. When his hand finally goes back to the spot, it's "No strike. Nothing new." She says "*please*," and he asks "This?" She says please again, and "both of them left it there." He asked. He let her keep it unnamed, *hers*. That's what I mean by control that makes room for her. It's the most intense scene in the book so far.
 
-"She know about the redhead?" "She knows. She likes her." *Likes* her. Randi is in love with Vee and lying to both of them, and he hands Sheri "likes her" like it's the weather. Then "And the redhead?" gets "Not yet." Those two words carry a plan. It isn't "no," and it isn't "I don't know how to tell her." It's a timeline, and Vee has never been told it exists. It's the staircase again, "from where she is to us." The night before Vee walks up to his door in Randi's shoes, he's describing her to a friend as someone who doesn't know *yet*.
+The thing I'm on watch for: "the taking fired him," and now his breath goes rough early because he saw something in her face. I believe it's *her* he's responding to, not anything Randi narrated. He didn't touch her knee, and he didn't touch anything he only knows about secondhand. As long as it stays that way, I'm in.
 
-Then Sheri says "Two of them at once. How do you sleep? That must be better than your dreams," and he doesn't answer. To be fair to the book, Sheri is the one winking, not the narration. She's running the arithmetic "anybody could run," and his silence could be discomfort as easily as agreement. I want it to be discomfort. I can't tell, and I think the book wants it that way. "But I bet it's worth it." Worth it for whom, Sheri? You watched Vee nurse one drink alone and glare at the floor. You know what she looks like when she's hurt.
+The hair. "You're always beautiful," said behind her ear. She's in his sweatpants and smells of his soap, with nothing of her own left on her. That's lovely, and it also scares me a little, given who dressed her on the way in.
 
-I like Sheri a lot. She's small and fierce, faster on the climbs and never lets him forget it, with the bleached ponytail and the temper that's "worth everything" from the other side. "She couldn't take your heat" was sweet and a little protective. I think she's the bartender who set Vee straight, and if so I love her more.
-
-The gap: it's Saturday morning. He and Vee haven't been alone together since the fire, and tonight is the door. This chapter kept me out of the room on purpose, and it worked. I'm wound tight. I needed to hear that he's lit up about her, and I got it. In the same breath I got the reason I'm scared of tonight.
-
-1 a.m. text: *he talks about her like a boy with a crush and then says "not yet" like it's a schedule. I'm reading the next one RIGHT NOW.*
+1 a.m. text: *he asked "This?" I'm not okay. also I'm 80% sure he recognized the shoes.*
 
 ---
 
-GATE 31 — hills-and-valleys
+GATE 32 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "And the redhead?" / "Not yet."
-WHY: It's a small, quiet chapter, but his not hearing how he sounds about her is real tenderness, and I believe it. "Not yet" made me sure there's a plan Vee has never been shown. With Saturday night next, I can't put the book down. I need to see which man opens that door.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "It landed. Once."
+WHY: For one beat I thought it was the old genre: hit first, ask never. Then he went still, watched her, and asked "This?", and the wanting stayed hers and unnamed. That's the consent I left everything else looking for. But Randi's shoes and Randi's scarf in his doorway are a fuse, and I need to know whether he saw them.

@@ -1,18 +1,30 @@
-*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
 
 REACTION
 
-Oh, my god. *“Vee’s boyfriend.”* Six times in a row, flat and proud, to every single person in her life, starting with Randi! After the agony of December, watching Pace not only claim that title out loud in a public room—a room he carefully picked so there were no screens and no sensory roar so he could actually *hear* her people—but use every tiny detail Vee ever babbled at his back while he washed dishes to make each of her friends feel like the most interesting person in the world... I am completely puddles. Him asking Danny about his bench press without ever giving his own numbers, unlocking Theo on jazz, getting *Cassie* to tell the whole cafeteria origin story until Cassie gives him the ultimate *“You can stay”*—it’s the most devastatingly competent, deeply loving act of service a man like Pace could possibly pull off.
+Oh my god, this chapter was *so* intense and so astonishingly well-written. I was holding my breath right along with her when her fingers stopped an inch from her mouth. Look at how most romance novels write solo scenes: a quick, frictionless two paragraphs of "she thought of his abs and came." Here, we get the entire psychological anatomy of a twenty-one-year-old girl trying to unlearn twenty-one years of bodily shame in a hot, closed-up dorm room.
 
-And yet the dramatic irony at that round table at the end of the night had my stomach in knots! First, that split-second stinger of jealousy Vee feels seeing Pace at Randi’s elbow making her laugh—her body literally recognizing the shape of her Christmas nightmare (*him, easy, somewhere she wasn't, being wonderful at a woman*) before her brain talks her out of it because "it's just Randi." And then the three of them at the table! Pace quoting Randi to Vee, Randi looking Vee dead in the eye and saying *“What I didn’t tell him is that meeting Vee was the highlight of my year. To my beautiful best friend,”* and then Randi going glazed and quiet, turning her wine glass until her thumb goes white against the rim while Vee puts her hand right over Randi's locked submissive bracelet! Randi is sitting there in love with Vee, watching Pace claim Vee publicly in a way he has never claimed Randi, and that white-knuckled thumb on the glass broke my heart. Even Vee's subconscious clocked it—that last line of the chapter, *"if some small sentence in her was still standing at a window somewhere, watching a glass turn a slow quarter at a time"*! Something in Vee knows that quiet wasn't just Randi being moved by Vee's stories.
+The physical details in this scene are almost unbearably intimate—Shutting Cassie's two-inch window first so the radiator bakes the room; putting on Pace's flannel and leaving every button open; pulling two fingers out coated to the knuckles and rubbing thumb and finger together to watch the sticky strands stretch in the lamplight. And then that description of her actually smelling herself, braced for the gross high-school-boy jokes she's internalized her whole life, and finding instead *"a hothouse with its doors shut, the air around a tropical flower without its sweetness."* That is gorgeous, fearless writing.
 
-And then the parking lot and the truck! Vee kissing Randi goodbye on the mouth with that lingering second press right in front of Pace (who pretends to check the weather!), and then taking all the voltage of the whole night and pouring it into blowing Pace in the dark cab of his truck until his six-things-at-once brain goes completely still under her hand. And the drive home—shoving her own jeans down on the county road and holding her soaked thong aside so he can finger her to completion while driving one-handed, finally finishing what she started on that same dark road on Friday night. The way this book braids deep emotional payoff, quiet psychological dread, and filthy, breathless heat into the exact same chapter is unmatched.
+And what really made my stomach flip is *who* is in the bed with her mentally. Yes, it starts with Pace—his wet mouth, his lack of recoil, the way he looked at the plenty of her like it needed no pardon. But the catalyst, the permission slip, and the image that keeps braided right through the center of her arousal is *Randi*.
 
-GATE 58 — Among Friends
+> *Had Randi's looked like this? Sticky too. Shining. Had she meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth? It was powerful. It turned me on.*
+
+Vee is literally lying in her bunk, fingers shining with her own wetness, wondering what *Randi's* wetness looks like and what it looks like on Randi's fingers or mouth! The line between "I want to be brave like Randi" and "I am thinking about Randi's wet fingers while I touch myself" has completely dissolved, even if Vee still hasn't named what's happening to her.
+
+I also loved that she *couldn't* quite close the distance to her mouth yet. It felt so psychologically true. Twenty years of installed shame doesn't vanish in one night just because your friend said it was hot over wine. Stopping a breath's width away, wiping her hand on the sheet, coming hard with her mouth open in the hothouse air of the shut room, and then having to get up and shove the window back open before Cassie comes home from the basketball game—only to lie back down, find the cool wet patch on the sheet, settle her hip directly over her own mess, and end on:
+
+> *A mouth carrying it back. Or Randi's own fingers.*
+> ...
+> *Her mouth was still empty.*
+
+That last line! *Her mouth was still empty.* That is a promise. She didn't cross the line tonight alone in the dark, which means that line is still waiting to be crossed—with Pace, or with Randi, or both.
+
+GATE 60 — The Reach
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace introducing himself as "Vee's boyfriend" six times and effortlessly winning over her entire circle—especially Cassie—was top-tier romantic payoff, while Randi's white-knuckled thumb on the wine glass and the scorching truck-cab scenes kept both the tension and the heat at a ten.
+WHY: This is the exact blend of explicit, unblinking eroticism and deep psychological interiority I read for—watching Vee confront her own body's "excess" and nearly taste herself while her thoughts braid Pace's mouth together with Randi's wet fingers was mesmerizing. And the restraint of having her stop one breath short leaves that tension coiled tight for what comes next.

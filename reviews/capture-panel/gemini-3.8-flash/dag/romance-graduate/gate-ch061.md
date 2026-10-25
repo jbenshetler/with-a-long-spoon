@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
 
 REACTION
 
-Oh, my god. The way this book can pivot from Chapter 61’s pure, filthy, breath-stealing depravity to *this* kind of quiet emotional devastation makes me want to scream into a pillow.
+God, the tragic, delicious blindness of Vivienne Thorne is going to kill me. She sits there across the white tablecloth thinking she’s handing Randi a funny little victory lap about the phantom blonde, totally oblivious to the live wire she just stepped on.
 
-Going straight from watching Randi ride Pace until he breaks, hearing them literally use Vee's name as an aphrodisiac, to Vee dressing up in battle armor against an imaginary rival—it's sick. It is so deliciously, painfully sick. I was sitting here bracing myself for the "other woman" reveal, because the dread Vee felt about "Sheri" was so intensely relatable. Every woman who has ever spiraled over a boyfriend's unexplained female friend felt that cold drop in the stomach. Vee borrowing the keyhole top, putting on Randi's lethal induction stilettos in freezing January, gearing up to face down a fantasy blonde—and then the door opens and it's *Sheri*.
+When Vee described Sheri checking her out—the slow, appreciative, unhurried look taking in the keyhole shirt, the bare winter leg, the strappy shoes—and Randi’s thumb just *stopped* dead on her knuckles? My stomach dropped. Vee actually tells herself Randi is freezing up out of protective instinct, like a guard dog still worried about a threat to Vee’s relationship with Pace. Girl, open your eyes! Randi didn’t freeze because she thought Sheri was competition for Pace; Randi froze because a woman looked at Vee with pure sexual appreciation, and Randi is starving to know if the door to Vee wanting women is finally cracking open. And then Vee’s panicked, too-fast church-girl defense—*“No. Not my thing”*—slams the bolt right back in Randi’s face. You can practically hear Randi swallowing the glass.
 
-Five-foot-nothing, roots showing, permed, loud as hell, and absolutely checking out Vee’s legs and the bartender with equal delight. When Sheri gave Vee that slow look down to the shoes and Vee just burst out laughing because the rival was completely fictional—what a release valve. And Pace blushing! The man who just spent Thursday night letting Randi clean him up with her mouth and talking about Vee's breasts was sitting there getting his ears red because Sheri made a motorboat joke. It humanizes him in a way that is utterly disarming, which makes the whole spiderweb he's built around Vee even more terrifying.
+And then we get the Sunday fallout: Pace asking her to get waxed bare. The coordination between Pace and Randi without Vee knowing it is chilling and hypnotic. Pace puts the request in Vee's ear, but who does Vee run to for coaching, validation, and the appointment? Randi. Randi immediately hands over her own aesthetician, tells her she’ll feel like the most expensive thing in the room, and maps out the week behind her eyes. It is Dr. Marsh’s grooming lecture made entirely real. They are preparing her, smoothing her down, passing the dish back and forth.
 
-Then Sheri tells the real story while Pace is at the bar. Good lord. The detail about her family dropping the tablecloth after she came out, and Pace showing up the next morning with donuts, fixing her lock, taking her cycling, never offering fake platitudes—just *being there*. And the reveal that Pace hasn’t been home since he was sixteen because of his own father. It explains so much about the way he operates, the way he builds these impenetrable fortresses of safety for the people he decides to keep, while simultaneously managing them down to the millimeter.
+The goodbye on the sidewalk made the hair on my arms stand up. Vee isn't just accepting the affection anymore; she’s anticipating it. She turns her face up with her eyes already closed, waiting for Randi’s hand on her jaw. And Randi giving her that hesitation—pulling back just a breath, waiting, and then going back in for a second, lingering mouth-to-mouth kiss—before Vee casually buries her lips in Randi’s neck? That’s not friendship. That’s a ritual. Friday is already circled in red ink on my calendar.
 
-Watching him keep his headlights on Sheri’s porch until the inside light went on—he does that for everyone. He takes care of people with this terrifying, relentless, unasked-for competence. Vee is falling so deeply, completely in love with him, resting her head on his shoulder in the truck, thinking she’s finally seeing the real, good heart of the man. And she *is*—that’s the tragedy of it. He *is* that good, and he is *also* sleeping with her best friend and orchestrating her sexual awakening behind her back. The dramatic irony is thick enough to choke on.
+***
 
-GATE 62 — Another Round
+GATE 64 — Between
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The contrast between the visceral, voyeuristic heat of the previous chapter and the profound emotional grounding of this one is masterclass pacing. Watching Vee fall entirely in love with Pace's quiet decency, right as we learn the roots of his isolation, raises the emotional stakes to a fever pitch.
+WHY: The psychological tension in that booth was suffocating, especially when Randi froze at the mention of Sheri checking Vee out. Watching Pace and Randi groom Vee from both sides while Vee thinks she's just living an enchanted life is masterclass pacing. Friday's appointment can't come fast enough.

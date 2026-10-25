@@ -1,20 +1,31 @@
-*capture-dag-v2-rich · gate ch030 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 14896ed4fc37 · 2026-10-10*
+*capture-dag-v2-rich · gate ch030 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha dc341b2a573e · 2026-10-10*
 
-**REACTION**
+## Reaction
 
-Oh, I loved this one. I needed it after the practice room, too. I finished chapter 33 with my stomach in a knot. Randi steered "did you deserve it?" until Vee agreed, then told her own story until Vee was in a bathroom with her hand pinned flat on her knee. This chapter gave Vee back to herself. Nobody here is narrating her body to anybody. She makes one decision on the second step, *made the second step long,* and every bit of the heat afterward belongs to her. I felt it come up with her. The murmur in the rows, keeping her face exactly where it was, "the room knew, and not a soul in it could have said so out loud." This is what I mean when I say I want a heroine's desire rendered from inside. A woman with no underwear in a room full of strangers' parents could have gone cheap fast. It doesn't, because she's choosing and the book never invites anyone to leer at her. It's simply her nerve.
+Okay. Okay. It's 1 a.m. and I need to text someone, and the only person who'd understand is the woman I was before I left the mafia books.
 
-Then there's the line about her mother, "nobody in this room who had ever taught her what to be ashamed of." I had to stop on it. Pace told Randi "She's ashamed. Somebody taught her," and here it lands in Vee's own head, without anybody handing it to her. She's relieved her mother isn't there and hates herself for it, and Cassie's kind answer was "not it." That felt true to me. Cassie got so close! And finally, FINALLY, Cassie sees the dress. "You look—" with no ending, "which from Cassie was a standing ovation." Then she takes the photo, buys her a terrible sandwich, and calls her "streetlight." Cassie is still the only person in this book who wants nothing from Vee, and I'd follow her anywhere.
+This is the scene I've been reading toward for a decade. It's the scene Fifty Shades kept promising and never actually wrote.
 
-What I'm watching: the photo. She sends it to Pace "uncropped," and "that part was hers." It's the ladle again, and she keeps the middle. Fine, she's allowed. But my notes keep reminding me who else ends up with Vee's things. If that photo turns up on Randi's phone, or comes out of Randi's mouth, I'll feel sick. Randi is in this chapter too, kneeling to do the ankle strap with two fingers, so she's in the shoes even when she isn't in the room. And the outlier lecture from last chapter is still in my ear, the kind that "comes in through the part that carries forward." I don't think the book put it there for nothing.
+I'll start with the cold flash, because I had one. "Then he set his hand on the inside of her knee." I stopped breathing. My notes say: *if he so much as touches the back of her knee knowingly, I'm out.* Randi lay in his bed Friday and narrated *hands up her legs* into his ear, and here was his hand on Vee's knee, going up. For about two lines I thought the book was going to do it, that he'd play Vee with what Randi gave him. Then she said "Don't," and his hand was just gone. It didn't linger or stall or test her. It went "palm turned up and away like a man showing empty hands." I actually made a sound. That's the whole thing. That's what I left a genre over. A no that counts, instantly, even in the middle of a game, even after a bet. Then *she* wanted it back. Her yes came from her own wanting, nothing pried it out of her, and the book let me feel the wanting from inside her before she said it.
 
-On Pace: I'm reassured by how he's missing. He's quietly sorry, he remembers the cherries on the mountain, and he made the dress for exactly this room. I'm not worried about the gap. Chapter 32 was so recent, and its back half was so good: the hand on the place, "This?" and *please* attached to nothing. Still, Vee has now had a kitchen discovery, a Randi story, and a public walk that lit her up, and Pace is in Berkeley for three days while Randi is right here. I want him home.
+After that, every step was asked. The nod. "Slow. For me." "Do you want to keep going?" And "he had *asked*. It was hers now, give or keep, and she loved it." I underlined that in my head three times. Here's control that makes room for her: he sets the shape and she fills it with her own choice.
 
-GATE 34 — The Induction
-DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: Vee owned her heat start to finish, with no one steering her, and Cassie finally got the dress. That gave me back some of the trust the practice room cost. I want the next chapter mostly out of worry: Pace is away for three days, Randi is close, and Vee has a new secret she's keeping from everyone.
+I'll be honest about the edge. The bet is "you can't prove it / we find out," and her body proves her a liar. That's the your-body-says-yes trope, the exact one that poisoned the genre for me. She keeps saying "It's not, I don't" into the sheet while he keeps going. If I didn't have the "Don't" and the empty hands two pages earlier, I'd have walked. But I do have them, and her denials are about *enjoying* it, not about *stopping*. She's arguing with her shame, not with him. The book knows the difference: "she could not have said which one of them she was lying to." And the wet finger. He holds up the thing she's been ashamed of her whole life and looks at it "like it was true. Like it was fine. Like it was hers, and good." That turns the trope inside out. Her body isn't his evidence against her. It's something he's giving back to her.
+
+And Randi's story against his. Randi's mouse was counting out loud, humiliation, the hand slipping "between," theatre. Vee braces for all of it, and what comes is a tap, "a question," then his palm, then his mouth. No witness. "Shame wants a witness." God. The book is deliberately setting his way against Randi's way, and I'm on its side.
+
+The aftercare wrecked me more than the sex did. Juice. JUICE. Her head in his lap and "wonderful, wonderful" until she went under, and the word "treasured." Then the scrunchies. He heard her cry over her hair on Monday and bought a whole drawer of them, with no note. "He meant to be looking at her hair a long while yet." Then a curry with too many vegetables, like the saffron jar nobody opened back home finally getting used.
+
+The front half was a delight too, and I don't want to skip it. The air guitar to "Thunderstruck"! Vee seeing the wall flinch, stealing his shorts, flashing him, being *faster*. She started all of it. Her desire, her brattiness, her nerve. She's a person in this scene, not a surface. And she touched the scar and didn't ask, "the way you know a thing about a person you've decided to keep." That's the bond turning.
+
+What I'm still carrying: "no Randi to be told." Vee will tell her, because she tells Randi everything now and skids past the middle. Randi will pull this out of her in some practice room, and then Randi will carry it to his bed. This chapter is the most precious thing in the book, and it already has a leak. I want to wrap it in the quilt. He's still Randi's boyfriend and Vee still doesn't know. Sheri asked the question straight out, "And the redhead?" "Not yet," and nobody's answering it. But tonight, in this room, he was the man.
+
+## GATE 35 — We Find Out
+
+**DECISION:** CONTINUE
+**CAPTURE:** 10
+**NEXT:** 9
+**HEAT:** 3
+**ROMANCE:** 3
+**ALMOST-STOPPED:** "Then he set his hand on the inside of her knee." For two lines I thought Randi's narration had walked into the room.
+**WHY:** "Don't," and the hand gone like empty palms. Then her own yes, and "Slow. For me." This is the heat with real consent I've been hunting since Fifty Shades, plus juice and scrunchies afterward. I'm not pulling NEXT to 10 only because I can already see Randi waiting to be told.

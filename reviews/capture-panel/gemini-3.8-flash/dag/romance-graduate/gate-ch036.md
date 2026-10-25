@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
 
-REACTION — There is something deeply grounding about watching a girl who has been spun off her axis for weeks finally get into cold chlorinated water and just do the physical labor of being an athlete again. The sensory details of lap swimming—the rhythm of the strokes, the breath count, the way exhaustion strips the chatter out of your head until there’s only the black line on the bottom of the pool—felt completely earned and real.
+REACTION:
 
-What stopped my heart for a second wasn't erotic heat; it was that sudden, terrifying flash of grown-up clarity she gets mid-set: wondering if the man she's falling for is actually who he appears to be, or if she simply fabricated him out of sheer, starving need because someone finally looked at her. That is the first real crack of self-awareness we’ve seen in her all book, and it’s huge. It proves she isn't just an empty vessel being passed back and forth between two manipulative lovers; she has a spine and a brain in there, even if she quickly submerges it again to finish her laps.
+I am screaming into a pillow. I am actually gripping my Kindle so hard my knuckles are white.
 
-That being said, my romance-reader radar is pinging hard. We just had the quiet domestic evening and the drawer reorganization, followed by the quick dorm room debrief with Cassie, and now an entire solo chapter of swimming and zero spoken dialogue. This is three low-simmer, contemplative beats strung together. I love interiority—I live for it when it's this sharp—but after the high-wire act of the brunch confession and the spanking bet, the plot momentum is starting to drift. I’m giving it grace because the psychological insight here was necessary to keep Vee from looking like a total dupe, but the book is testing my patience for quiet bridge sequences. Something needs to collide soon—Randi, Pace, the looming secret—before the tension goes completely cold.
+"Only if you promise you'll never share me with anyone." That was two days ago! She made him promise not to share her photograph, and then what does she do? She takes the phone out of her own purse, gets insecure because Randi teases her for only showing the half-crop, and hands over the *entire naked pinup* of herself to the woman who is sleeping with her boyfriend.
 
-GATE 37 — Strokes
+The psychological warfare Randi is running here is terrifying because she barely has to push. She just sits back in that dark velvet booth, acts warm and indulgent, drops the exact line from the book's jacket—*you're just finally hungry out loud*—and Vee practically turns herself inside out to offer up every sacred detail. She gave her the sex, the playlists, the cooking, the sleeping through the night, and then the actual photographic proof of her bare body laid out on Pace's sheets.
+
+And that moment where Randi faltered? When Vee talked about feeling looked at, about him wanting *her* and not just a body, and Randi actually lost her footing for half a second? That gave me chills. Randi is realizing that this isn't just an erotic game or a hot little project anymore. Pace is falling in love with Vee, and Vee is in love with him, and Randi is caught between being turned on by the performance and realizing the ground is giving way beneath her feet.
+
+Then the kiss outside the restaurant—Vee chasing it! Leaning in for that extra half-inch, tasting the goodbye. Vee thinks she's just basking in the glow of an ultra-glamorous friendship, but she's walking straight into the spider's web with a smile on her face. Signing up for an evening class together next semester? "Just us"? The slow-motion car crash is breathtaking. I cannot look away.
+
+***
+
+GATE 39 — All the Time
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological honesty of Vee wondering whether she invented this dream man out of pure desperation kept me hooked, even while three quiet chapters in a row have noticeably cooled the book's pacing. I need the triangle to heat back up soon, but I respect that her inner life is finally catching up to her body.
+WHY: The sheer dramatic tension of Vee handing over her explicit photos to Randi while believing she's just confiding in her best friend is unbearable in the best way possible.

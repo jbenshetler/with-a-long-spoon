@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this is so much worse now, because Pace knows. He knows exactly which question matters—*does she want it?*—and he can hear every time Randi answers a neighboring question instead. “She’d be sad if we stopped” is not consent. “She chooses every Saturday” is not consent to being cultivated for a threesome or having her private disclosures carried home and used in bed. He catches every dodge, strips every justification away, and then gets so turned on by the proof that Vee pursued the kiss that he loses control. He sees the structural failure perfectly. He simply likes what is happening too much to stop it.
 
-Oh, that photograph made my stomach turn over in two completely different directions.
+And God help me, that was blisteringly hot. Randi insisting the kisses are *work* while her body betrays her from the inside is exactly the kind of scene I came to this book for: explicit, psychologically merciless, and not remotely interchangeable with anything else on my Kindle. “You don’t have to do it for me” was practically a blade. He removed the last shelter she had—the fiction that she touches Vee only as his agent—and she came because there was nowhere left to hide. Then “I’m inspired by her. God, I want her.” Finally. FINALLY. Four clean words of truth, immediately followed by the cowardly little repair: *For us. When she’s ready.* No, darling. You want her for you. That doesn’t become less true because Pace wants her too.
 
-The posing is so intimate. He doesn’t just take a naked picture; he arranges her with that same absorbed, capable attention he gives food and furniture and dresses, kissing each place after he puts it where he wants it. And then he gives her back an image in which she can finally see herself as beautiful. That is exactly the combination I’m here for: explicit without becoming generic, erotic because it is about *this* woman being seen by *this* man. I absolutely understood why she sent it. I felt the risk with her, and the trust, and that terrifying sweetness of believing someone enough to hand them something that can’t really be taken back.
+What really got under my skin was the tenderness afterward. Randi asking him to hold her tighter, confessing that being seen makes her feel real and frightens her, asking him to say something nice—and Pace actually thinking before he answers. These two know how to care for each other. They are not cold predators playing with Vee for sport. They are emotionally perceptive, genuinely attached people using all that perceptiveness to maintain an arrangement that denies the woman they love the central fact of her own life. Their tenderness makes the betrayal feel intimate rather than mitigating it.
 
-But: “Only if you promise you’ll never share me with anyone.”
+And “You are extraordinary” hurt, because we already know Pace used almost that exact word for Vee. Randi needs from him the thing Vee needs from both of them: to be seen specifically and named. They are giving each other comfort with truths while feeding Vee comfort through lies.
 
-Sir.
+Also: I am furious about the photograph now. Vee made Pace promise, “never share me with anyone,” and he has not shared the literal image, fine—but he is sitting here receiving an erotic verbal rendering of Vee in class, right down to what was inside her clothes, from a woman Vee believes is only her friend. He is honoring the narrow wording while violating the actual trust. That is his whole moral catastrophe in miniature.
 
-His answer is technically narrower—“I’d never share your photograph”—and I do not believe for one second that the distinction is accidental. He won’t pass around the pixels, perhaps, while he and Randi pass around Vee’s wanting, her wetness, her shame, her discoveries, her entire unsuspecting self. She thinks she has established the boundary that matters. He has promised only the literal thing she named. That cold little gap between her sentence and his is the whole moral horror of this relationship, and it contaminated “gave him herself to keep” exactly as it should. I was turned on and furious at once.
+I need the next chapter immediately. The secret cannot survive much more of this without the book asking me to participate in Vee’s humiliation instead of dread it. Randi has finally said the true sentence aloud, Pace has finally challenged her consent fiction aloud, and both of them have still chosen pleasure over disclosure. Something has to break.
 
-And still, damn him, the tenderness works on me. His head on her breast. The kisses that are comfort until they are also sex. Thinking about her first bite when he touches himself. Cooking with the same wine they’re drinking, feeding her tastes, watching her discover that she has a palate because he taught her to pay attention. This is why I can’t reduce him to a manipulative man with a consent loophole. He loves her in a hundred daily verbs and refuses her the noun. Vee telling him to use her again with enormous satisfaction also delighted me; that doesn’t read like self-erasure. It reads like a woman discovering that submission-flavored language can belong to her pleasure.
-
-The Thanksgiving turn frightened me more than I expected. “This is my home” initially landed as warm and self-possessed, and then “I don’t go back” shut the whole room down. Vee did exactly the right thing: she noticed the boundary and didn’t make his pain perform for her. That is grown-up tenderness. I want the story of his family badly now, especially because leaving at fifteen was already framed as safer than staying.
-
-And Sheri. Of course it’s Sheri. Another woman Vee doesn’t know is already inside the truth, sitting at Pace’s table on a family holiday while Vee flies home. Vee’s jealousy flickers and corrects itself because the explanation is humane—but she is correcting herself with incomplete information again. I’m increasingly scared that when the secret breaks, she won’t only lose trust in them. She’ll lose trust in her own ability to recognize goodness, because so much of what is good here is genuinely good and has still been used to conceal something enormous.
-
-I’m not remotely putting this down. But I am now glaring at every precisely worded promise Pace makes.
-
-GATE 38 — In His Hands
+GATE 40 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The photograph scene gave me the exact fusion of explicitness, trust, and interior danger I want, and Pace’s carefully narrowed promise made it hurt. Now Thanksgiving, his family, Sheri’s place at his table, and the secret all feel close enough to strike.
+WHY: This gave me the exact collision I’ve been waiting for: volcanic heat, real love, and the moral argument happening inside the sex rather than safely afterward. I’m furious with both of them, aching for all three of them, and already turning the page because Randi’s “God, I want her” cannot be put back where it was.

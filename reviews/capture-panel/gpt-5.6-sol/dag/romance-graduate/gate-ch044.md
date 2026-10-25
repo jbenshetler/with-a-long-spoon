@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. No. He did not punish you. He was overwhelmed in a loud, bright, screen-filled restaurant and still kept dragging his attention back to you, and then he explained that with almost painful vulnerability—and somehow you walked away believing *you* had forgiven *him*. That landed horribly. Not because I’m angry with her. Because I recognize exactly how badly she needs a version of the night in which he has done one manageable thing wrong and she has magnanimously repaired it, instead of the much scarier truth: he heard “What are we?” and answered “Where do you want to eat?”
+Oh, thank God she asked. Thank God she left the bag in the car. That detail had me braced before she even opened the door: she did not arrive prepared to be absorbed into his warm house again. And then she stood on the mat and refused the kiss, refused the wine already poured and the chicken and the porch and the beautiful evening he had constructed so perfectly that she could disappear inside it without ever getting an answer.
 
-The restaurant made me ache for Pace in a new way. The fork. His eyes slipping to the television and returning with effort. That flash of irritation he tried to hide, not from Vee but from the whole assault of the room. “In a room like that I listen as hard as I know how and I still can’t hear you” is such a naked thing for this particular man to admit. And “I’m listening now” would have destroyed me too. It is intimate. It is real. It is also an answer to the hurt underneath her question without being an answer to the question. He keeps giving her truths that are tender enough to make the missing truth bearable.
+“What am I to you?” is not a difficult question when someone is the most important person in your life. It might be frightening. The answer might be complicated. But it is not incomprehensible. He understood her. I do not believe for one second that he didn’t. “Do any of your friends have a relationship you’d rather have?” made me furious because it is such an intelligent, precise evasion: he made her happiness testify against her need. He took the undeniable goodness of what they have and used it to imply that asking for clarity is ingratitude.
 
-And yes, the sex got me. Especially the moment his patience finally went. She wanted proof that he could need her hard enough to lose that exquisite control, and then he did—urgently, helplessly, because of her. That is hot precisely because we know what his control usually costs and how carefully he spends it. But the chapter would not let the orgasm certify what Vee wanted it to certify. His body losing control still did not tell her whether he belongs to her. God. That is exactly the kind of aftermath I want: not regret, not shame, not the sex exposed as false, but pleasure remaining completely true while failing to answer the emotional question she tried to drown in it.
+And then: “Words are cheap, and you still won’t spend them on me.” Jesus Christ. Yes. Exactly. She finally saw that his actions do not make the missing words unnecessary; they make his refusal to say them more conspicuous. He will buy the scrunchies, empty the drawer, heat the house, make the dress, cook the meal, learn every response of her body—and fold his arms rather than give her a word she can carry outside his door.
 
-The line that has me by the throat is that she had said the question already. “Is this what we are now?” He cannot possibly think she was merely requesting nachos. Maybe he answered the literal complaint because it was the part he knew how to fix. Maybe the larger question frightened him. Maybe he believes everything he does should be answer enough. But after the cracker-and-meal sentence, he no longer gets the benefit of believing she has not asked. Twice now she has placed the need directly in front of him, and twice he has stepped carefully around its exact center.
+The folded arms changed something for me. Until then I could almost let him be a damaged man who genuinely could not reach the language. But that was a line being defended. He chose the silence while watching what it cost her. And the moment she cried, he reached for her with the hands that have always been able to make her stop asking. I wanted her out of reach so badly. “Not the hand in place of the word” felt like Vee finally recognizing the mechanism that has kept all those little waits buried.
 
-I’m also furious that his evasion is happening inside a much larger deception. Vee lies awake wondering whether he belongs to her while he belongs, in fact, to Randi too. She cannot name him because he has withheld not only a label but the information required to understand what she is naming. And his exactness feels increasingly sinister here: the man who can explain precisely why Chili’s overwhelms him can find precise language for almost anything except the truth Vee needs.
+Her leaving wrecked me, but I am fiercely proud of her. She did not accept warmth as an answer. She did not let excellent sex, exquisite care, or “most important person in my life” blur the question. She walked out into something colder because at least the cold was honest.
 
-What I’d text at one in the morning: *She asked him what they are and he took her to Chili’s. Then gave her two orgasms so good she almost let the question disappear again. I am unwell.*
+And now I need to know what Pace does when care cannot repair what truth would prevent—because “Vee” absolutely was not the word, and she was right not to turn around.
 
-But it did not disappear. That matters enormously. This time the unease came back after the sex and stayed. Her body could drown the word at climax, but it could not keep it under the rug once the room went quiet. She is finally reaching the limit of accepting acts in place of language. I need the next chapter now because she cannot keep living in this nameless space while Pace and Randi privately possess the whole vocabulary.
-
-GATE 45 — Under the Rug
+GATE 47 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The sex was ferociously charged, but the real hook was Vee discovering that even total bodily surrender cannot answer the question Pace keeps avoiding. She has asked now, however imperfectly, and his tender non-answer has finally stopped being enough.
+WHY: This was the confrontation I have been waiting for, and Vee held onto the exact question through every beautiful evasion. I am already turning the page because Pace has finally lost the protection of his warm house, and whatever he does next will tell me whether he can love her without controlling what she knows.

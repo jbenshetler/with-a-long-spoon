@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
 REACTION
 
-Holy shit. Holy *shit*. My hands are actually shaking. I have never seen a trap snap shut with this much terrifying, velvet-gloved precision in my entire life.
+Cassie is the only person on this entire campus with both feet on the ground, and this tiny scene just about broke my heart.
 
-Pace. I need to talk about Pace right now, because what he just pulled in that bed was an absolute masterclass in psychological manipulation disguised as tender, domestic care. The man is a sociopath of the highest erotic order. She runs to him at one in the morning, panicked, desperate, vibrating with her own confused sexuality, literally trying to use his cock as an eraser to scrub Randi’s mouth out of her head—and what does he do? He catches the scent of blood instantly. He stalls her. He rations her own climax inch by agonizing inch, forcing her to buy her pleasure back in the exact currency of her darkest confessions. He literally makes her narrate Randi’s hands on her hips, Randi’s damp silk back, the taste of salt and lime, until Vee is completely stripped bare, sobbing the truth into his neck just to be allowed to come.
+The absolute whiplash of Vee’s life right now: from having fruit painted on her bare mons and confessing an erotic awakening on Pace’s bed, to dodging Randi’s mouth at the dorm door, to standing in a drafty room with her church-coat on, taking a box of Cocoa Pebbles because it is the only appetite she is allowed to admit to out loud. It is so painfully, perfectly college. You can be in the middle of a massive, identity-shattering psychosexual crisis, but your roommate can still look at your wrecked face, bypass all the defensive bullshit, and just hand you cereal because she knows you forgot to eat.
 
-And the sick, brilliant, twisted joke of it all is that *Vee thinks she’s confessing a betrayal*. She thinks she’s bringing a dirty secret to a pure, noble boyfriend who is miraculously being a "good sport" about it. She has no idea—none, zero, not a damn clue—that Pace and Randi literally fucked two days ago talking about this exact thing. When Vee was on that bed describing Randi’s mouth and how much she wanted it, Pace wasn't getting off on some abstract fantasy; he was watching the puppet show he and Randi built finally play out in real time.
+"Is this what you want?" Cassie asking that—not *what happened*, not accusing her, just cutting straight to the core of the rot—was brutal. And Vee’s immediate flinch into "You just hate sororities/you've never liked her" is so childish and real. When you’re caught doing something you don't even have a name for yet, you reach for the oldest, dumbest fight in your arsenal just to put up a wall. But Cassie didn't bite. She just let the plank rot on the floor and offered her cereal.
 
-And then the aftermath. God, the psychological cruelty wrapped in warm cashmere and a glass of water. When she tells her first real lie to him—denying the pattern of the goodbye kisses—and then lashes out with *"You want Randi,"* and he gives that gentle, soft, *"You keep saying her name. Not me"*? I gasped. He deflected the spotlight so cleanly it left my head spinning, and poor, naive, broken Vee interpreted it as him being sweet and vulnerable. She thinks she "got away with it." She thinks she survived the blast.
+It’s a tiny beat—barely a scene, really—but the emotional architecture here is doing serious heavy lifting. Vee’s entire world is accelerating into this hyper-sensory, manipulated fantasy orchestrated by Pace and Randi, and Cassie is the sole anchor tethering her to plain reality. That silence between them felt massive.
 
-Meanwhile, she’s lying in the bed of the man who just thoroughly fucked her, completely raw and emptied out, and her brain is already counting down the hours until Tuesday night anthropology with Randi. She’s cooked. She is entirely, hopelessly cooked. I need Tuesday night immediately. Do not make me wait.
-
-GATE 68 — Boyfriend
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension is at a suffocating, breathtaking peak—Pace extracting Vee's confession about Randi inch by inch while fucking her was absolute genius. I am completely hooked and need to see the fallout on Tuesday.
+WHY: It’s a very short chapter, almost just an epilogue to the previous one, but Cassie's grounded presence is the exact reality check this book needed right now. The Cocoa Pebbles gesture completely disarmed me, and now I'm desperate to see how Vee handles Saturday brunch with Randi.

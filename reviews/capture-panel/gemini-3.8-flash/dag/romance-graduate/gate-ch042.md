@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-The contrast between who Vee is with Pace and who she has to pretend to be in front of everyone else is getting excruciating to watch. Sitting across from Cassie in an athletic dining hall, breaking down her Thanksgiving trip, Vee finally has to look at the shape of her life from the outside. Her parents see the physical evidence of what’s happening—the weight falling off her, the bare collarbones, the silk dress—and they immediately read it as trouble or an older man buying access. And Vee’s instinct is so sharp and so tragic: she knows her dad would understand a man undressing his daughter far better than a man *sewing the dress for her*. She knows how bizarre, how singular, how outside normal human behavior Pace’s brand of domestic devotion actually is.
+Oh, god. This hurt. This one got under my ribs and twisted.
 
-What kills me is that Cassie is the only one asking the clean, direct, uncorrupted questions. Cassie doesn’t have an angle. She isn’t getting off on the details like Randi, and she isn’t building a behavioral theorem like Pace. She just looks at Vee across a tray of food and asks the fundamental question that the jacket promised from the start: *“So what is he... Not to your dad. To you.”*
+Because we’ve all been her in that Chili's booth. Every woman who has ever loved a man who is keeping her in a beautiful, gilded terrarium has sat across a table like that, ordering the stupid, messy food from before she met him, trying desperately to prove that they exist in the daylight, under the fluorescent bulbs, among the screaming TVs and the sticky menus. And watching him disintegrate under the sensory overload—his hands obsessively squaring the fork, his eyes darting to the screen, that tiny flash of irritation—and having her stomach plummet because she thinks *he is ashamed of me. He only wants me in the dark.*
 
-And Vee has nothing. She has to admit it’s both that she can’t say and that she doesn’t want to say. Because giving it a name would require examining what the silence actually means, and she’s terrified that if she names it, she’ll find out the house has no floor. It’s quiet, it’s short, but the psychological tension is just humming under the surface. Cassie’s calm presence is the mirror Vee can barely bring herself to look into.
+And his explanation is so brilliantly, deviously, devastatingly *Pace*. "In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now." It is the most beautiful, seductive poison a man could ever pour into an insecure girl's ear. It completely disarms her. It makes her feel small for picking the fight, makes her feel like *she's* the one who doesn't appreciate the cathedral he's built for them, and hands her the fake moral high ground of "forgiving" him so she can crawl back into his bed and let him obliterate her with his mouth.
 
-GATE 43 — Cropped
+And the sex! God, the sex had teeth this time. It wasn't just his usual courtly, almost clinical worship. Vee *wanted* the control to snap. She was practically begging for him to stop being so goddamn patient, stop curating her orgasms like a gourmet tasting menu, and just *take* her. And when he finally broke—when he lost that architectural restraint, shoving into her and coming undone, shaking and desperate—it was electric. But the morning after... Jesus. The crash back to reality.
+
+Lying in the dark, sticky with his come, completely hollowed out because she realizes that even with his control shattered, even with his face buried in her neck shaking with his own release, he *still didn't say the word*. He gave her his body, his house, his food, his patience, his breakdown, and not a single inch of public certainty. "He'd given her all of it and not the name." That line hit like a slap.
+
+The tragedy is so thick I could choke on it. She’s lying there agonizing over whether "boyfriend" is too small a word, wondering how to explain him to her dad, completely blind to the fact that she's not his secret girlfriend—she's his and Randi's shared project. The clock is ticking so loudly now. She’s suffocating inside the trap, and she doesn't even know the door is locked from the outside.
+
+GATE 45 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The dialogue between Vee and Cassie is razor-sharp; watching Vee try to translate her intense, secretive world into normal reality highlights just how dangerously deep she’s fallen.
+WHY: The absolute psychological precision of that Chili's scene broke my heart, and the sex finally had the desperate, raw friction I've been waiting for. Watching her lie in the dark realizing that incredible sex and domestic reverence still leave her completely nameless and alone is top-tier emotional gut-punching. I need the fallout immediately.

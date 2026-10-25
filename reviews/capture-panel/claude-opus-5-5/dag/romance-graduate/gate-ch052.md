@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
-**REACTION**
+## REACTION
 
-Okay. I need a minute.
+I keep coming back to "We *talked*." No, babe, you didn't. He stood in the door and started "Vee, I l—" and you cut him off with a coat. I yelled at the page in chapter 52 and then got swept along, because the doorstep was so good I let it slide. Now she's sitting in a bean bag telling Cassie the whole month came down "like a tent with the pole pulled" because they *talked*. The thing she walked out over in December is still unsaid. She was the one who stopped it from being said, and she's already rewriting it into a conversation. It's the Rusty Nail lie all over again, the one she knew was a lie. I'm not mad at her for it. I'm worried. She keeps everyone on a different set of books, and now the account she's fudging is her own.
 
-First, the blanket. She went back down the hall with her coffee and spread **the cream cashmere** over the foot of the bed, square and smooth, like she was making a nest. Then she soaked it, "the softest thing in the house taking the ruin of her." And her afterthought is that it's "the beautiful blanket he had never said one word about … which was how he gave gifts." NO. My notes have it in caps. That's *Randi's* blanket, for "the chill that took her after." Vee lay on it and came three times thinking it was a love letter to her. I actually put the Kindle face-down on my chest. That's the best kind of dramatic irony, the kind the book doesn't explain to me. It trusted me to remember, and I did, and it made me a little sick and very turned on at the same time. That's exactly the double feeling I'm here for.
+Then there's the sweater. I was cackling. Cassie *saw* her walk in Sunday night in the coat, his sweats and Randi's stilettos. "Didn't bring a bag?" "And your clothes?" Cassie isn't asking because she doesn't know. She's asking to see what Vee will do with it. Vee invents a whole laundry disaster, a cranberry sweater shrunk to doll size and dye in her good pants, and Cassie just looks at her and says "Pace. Shrank your sweater." Then she laughs her rare full laugh. That laugh is Cassie knowing exactly what the lie is and loving her anyway. "Corrected by nobody." That's friendship, and it also means Cassie has noted one more half-answer. She keeps doing this: she doesn't push.
 
-Then the taste. On the surface it's a sweet scene. He goes down on her slow, kisses her wrist and her armpit and her toes, and comes up wet and kisses her. She says "Ugh — gross… Wrong." Her mother's voice does it, the flat clean "that's not a thing you do." He wipes his mouth, says "Okay," and leaves her mouth alone until she comes and takes it back. I loved that "Okay." Him not sulking and not explaining, "as though her mouth could wait for her." That's the grown-up man I've wanted since chapter 44.
+Then the card, which got me in the throat. "My mother says thank you for the card. She wants to know when she gets to see you again." Vee's hand goes to her collar, the exact gesture her own mother made touching her collarbone. Is Cassie's mom the mother Vee wishes she had? A mom who saves boxes and gets you a better one? I loved "the baby is a baby" and the brother-in-law wearing snowshoes in the house. Cassie "could hear the size of things," and she was done with the subject the moment before it would have needed anything from either of them. I'd read a whole book of Cassie being dry.
 
-But her tongue went *hunting*. Twice. It reached for the taste before her mind could rule on it. Then she lies there licking her own lip, "looking for something," and "*Why does he like it so much?*" stays on the edge of the bed. The jacket said her appetite runs in more directions than one, and the book just made her curious about what a woman tastes like. Then it closes on her planning to tell *Randi*, of all people, about this exact thing. In chapter 51 she stared at Randi's mouth until it passed, and then kissed her under the composites. "Randi would know what to make of it." Oh, honey, she would.
+My shape alarm is going off a little, though. 54 was two people talking at a sink, which I loved. 55 is a dorm room and a top bunk, and it's lovely, but that's two quiet chapters in a row. I came off the hottest two chapters of the book (the doorstep, and the princess-and-slave morning, which I'm still thinking about) and right now I'm aching to get to Tuesday. The dinner with Randi. Vee planning to tell her "nearly everything," including the taste thing. Randi having to "choose" after Brooke's warning. Pace saying "let me handle it" about a party with Randi in the middle of it. Those are the loaded guns, and this chapter didn't touch any of them. That was fine for one chapter. It won't be for another.
 
-Then there's "he must have forgotten to wipe." So he's been careful every time? Hundreds of times? Why would a man who loves it that much always wipe? Is it a habit someone taught him? Daphne? I'm suspicious and I can't say of what, and that's fun.
+The flannel going faint, and "he would just have to wear it for her this weekend": small and sweet, and it closes the book on the cold-bedroom image properly. Her hand flat on the cinderblock, and "the wall was only a wall." Good. She isn't in the cold anymore. I'll take that.
 
-The heat was real heat. It was fully explicit, no euphemism, and the anatomy was right: "past the grip of her," the spot that makes you want to pee and scream at once. The orange paragraph comes back on purpose ("opening her as he had opened the orange"), and that's earned, not decoration. The pointing game, the gladiator, "Bad slave." "His hurry died at her skin." Him burning the toast because she put her foot on the chair. "I got mushrooms," level as a plank. I laughed out loud.
+---
 
-Gripes, because I keep a tally. The pleasure-princess bit went one shimmy too long. I got the reversal the first time; I didn't need the giggle, the shimmy, and the "kingdom" too. The breakfast-tasting paragraph is gorgeous, but "a taste that was almost masculine, if a flavor could be a gender" is the book leaning over to make sure I see the set-up. And the "it had been in the room a long time … come and sat on the edge of the bed" paragraph is close to explaining its own subtext. Close, not over the line.
-
-The quiet thing I'm carrying is from chapter 52. He started "Vee, I l—" in the doorway and she cut him off with the coat. Randi's plan was "you don't do it with words," and it may have cost Vee the exact word she walked out over. Nobody in this chapter mentions it. I'm watching for it.
-
-Two hot chapters after a long cold stretch, so my stall alarm is off. And the Brooke ultimatum ("you need to choose") is sitting under all of it like a ticking thing. The text I'd send a friend: *she just came all over the other woman's blanket and thinks it's a love gift, and now she wants to know what she tastes like, and she's going to ask THE OTHER WOMAN.*
-
-GATE 53 — Missed a Spot
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 3
+CAPTURE: 6
+NEXT: 7
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "she was a pleasure princess. Not the kind of woman who is kept for a man's pleasure. The kind a man keeps *in* pleasure."
-WHY: It's a long, filthy, generous morning, and the book hid a landmine in it (the blanket) without pointing at it. The taste beat finally starts waking up the thing in Vee the jacket promised. The princess cuteness sagged a little, but the last line sends her straight to Randi with exactly the wrong confession, and I want that dinner tonight.
+ALMOST-STOPPED: "and the record stood exactly where Vee had left it, corrected by nobody." That isn't where I wanted to leave. It's where I noticed the book was coasting on charm for the second chapter running.
+WHY: Cassie is a delight, and the shrunk-sweater lie told to someone who already saw the heels is a sly, funny little scene with a real sting under it, because "we talked" is the biggest lie in the chapter. But it's a bridge after a bridge, and every thread I care about (Randi, Brooke's ultimatum, the taste question, the party) is parked until Tuesday. If chapter 56 isn't that dinner, I'll start skimming.

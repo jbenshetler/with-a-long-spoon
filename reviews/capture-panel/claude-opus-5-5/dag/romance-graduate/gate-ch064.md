@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c6c4f08ae565 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I came into this one with my arms crossed. My own notes say one more solo scene and I'm skimming, and here's Vee alone on a table, with Tuesday's booth dialogue pasted back in front of me *word for word*. "Oh, you're going to *love* it," Sondra, Draper Street, the fish eaten to the middle, the fork laid across it. I read all of that four days ago, book-time and real-time. That's where my thumb went to the corner of the screen. The book doesn't trust me to remember a conversation from the last chapter, and that's the explaining-itself thing I hate.
+Sixty-seven chapters. SIXTY-SEVEN. I said out loud "oh my god" at "a breath short of her mouth" and then didn't breathe for the next page and a half.
 
-Then Sondra said "Don't move" and I forgot I was annoyed.
+The kiss earned every bit of the wait. It opens as the goodbye kiss, the shape we've watched for months, and then it simply doesn't stop where goodbye stops. That's the blurb's line come true in real time. The writing in that passage is the book at its best: the held inch, Vee's eyes finally allowed over Randi's face, "the file" of perfume she's been keeping without admitting it, salt and lime, her hips pressing "once, asking." Vee's own hand going up into Randi's hair and her not taking it back. That's the clothed 3 I've been starving for. Vee wanting Randi's mouth lower "in this room" and being scared of the size of the want is exactly the grown-up interiority I keep coming back for.
 
-That passage about the wrong hand is the best thing the book has done with Pace in a while, and he isn't even in the room. Her body "knew that grammar." A stranger's palm pins her exactly the way she's learned to want, with "everything true scooped out of the middle," and it opens "a hole in her a mile across where the right hand should have been." That's what I'm starving for. It isn't a sex scene and it's hotter than half the sex scenes I've read this year, because it's about *who* the hand belongs to. And she keeps it all behind her teeth "where it belonged to him." God. The girl who said sorry to furniture saying "*Fuck—*" out loud to a stranger. The mother's kitchen voice: *the kind of girl who.* The jeans folded over the underwear "where it couldn't be seen." That's a heroine with an inner life, every inch of it.
+Then "You really did a great job putting on a show. I almost believed it." I want to throw my Kindle across the room. *Almost.* That's Randi telling the truth inside a lie, the way she always does. Look at how she built the whole night. She picked the skirt from her own closet ("it'll look better on you"), which Cassie clocked in one sentence. She put the hands on the hips, lifted the arms, and handed the room Vee's thong. Then "Your panties are showing" with her lips on Vee's ear. Then Harrison, chosen precisely because he doesn't matter, so the kiss can be "for the boys." That's Brooke's own permission: *play all you want… for the boys.* Randi found the one frame her president already blessed, and she kissed Vee inside it, in front of the whole house. That's genius and it's cowardice, and I can't tell how much of each.
 
-And then the floor drops out: "Roll over for me, hon." I actually said "oh no" out loud. *The part Randi hadn't said.* Randi, who got Vee to say her name in the first sentence of the phone call. Randi, whose waxer this is, so Sondra knows Randi's body. Randi, who said "barely stings." Did she leave it out to spare her, or to have her arrive exactly this open? I don't trust a single omission from that woman anymore. And I'm side-eyeing Pace too. "I'd like you waxed. By the weekend. Bare." Since when does he have opinions about this, and whose body taught them to him? Chapter 61 is sitting in my head like a stone. I know what that bed looks like on Thursdays.
+Then "I chose." / "I can see." My skin went cold. Brooke reciting Vee's history by heart, stats and the cardigan and the Friday she came in "early, half of us in robes," was a threat dressed as a welcome. And Vee thinks Brooke is *kind*. Oh, baby. The Chambord line is the book telling me how to read Brooke. It might also be telling me how to read Randi: spend a fortune so you think she didn't spend a dime.
 
-What gutted me in a quieter way was the "yes" paragraph. She fills the place where the reason should be "every time, with *yes, yes, tell me when*," and she's already "so far past every line… another line seemed like a joke, a thing for a girl who had any lines left." That's the blurb's "daring itself becomes the thing she craves," and it's also a little frightening. I'm cheering her on and wincing at the same time. I'm worried she's handing over the steering wheel and calling it nerve.
+The Love bracelet. "Taking it off requires tools." I'm sitting up. Who put that on her? Is there a screwdriver in Pace's nightstand? Every bit of jewelry agreeing with her skin while that one thing is locked on.
 
-The ending landed: her own hand, a sound that was "not one of pain," and "the most expensive thing in the room, and no one in it knew but her." Now I have to watch him find out.
+Small stuff that bugged me. The elevator doors show Vee "dark hair down," but she's a redhead, and the next page even says so. Another mirror-in-pieces getting-dressed opening; I'm noticing a pattern there. The inventory of Randi in the foyer ran a paragraph long. Two boys with beers who half-know her face, and I couldn't tell if they're the same boy. And "the kiss had been going on forever and had only just begun" is a line I've read in a hundred books, though here the rest of the passage carries it.
 
-What I'd text a friend: *She got a Brazilian and it was the most erotic thing in 10 chapters and nobody touched her on purpose. Also Randi set her up, I'm sure of it.*
+But the shape of this stretch is working for me now. Randi and Pace in bed talking about wanting her, Sheri blowing up the blonde, the bread, the painting, and now this. Two bodies in a new room and something true said out loud. That's exactly what my notes begged for. And the dread is perfect: tomorrow is Pace's day, and she's going to lie to Randi about the painting while Randi lies to her about this.
 
-GATE 65 — Barely Stings
+1 a.m. text: "THEY KISSED. at a sorority party. as a 'joke for a boy.' and then randi said 'i almost believed it' and I need to lie down."
+
+GATE 67 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "Tuesday, up in the loft — the corner booth, the end of the red, the jukebox going somewhere slow below them…" It's the whole booth scene again, nearly verbatim, a chapter after I read it.
-WHY: A fourth solo/retelling-shaped chapter should have lost me. It didn't, because it's a new room, a stranger's hands, and the "wrong hand" passage is real desire with real interiority. I'm hungrier for the next chapter than I was absorbed in this one: I need Pace's hand finding her bare, and I need to know whether Randi's "barely stings" was a kindness or a move.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The mirror over the sink gave her her face and shoulders and quit at her bust." Another getting-dressed-in-fragments opening, and for a paragraph I thought I was in for a third mirror chapter.
+WHY: The kiss the whole series has been holding back finally happened, and it's hot, specific, and full of Vee's inner life. Then Randi folded it back into "a show" with one devastating "almost." Between "I chose," the bracelet that needs tools, and Pace getting her tomorrow, I couldn't put this down if I tried.

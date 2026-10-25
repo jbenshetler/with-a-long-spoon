@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION
+REACTION:
 
-*“Words are cheap, and you still won’t spend them on me.”*
+Oh, god. This hurt. This hurt in that specific, hollow, sick-to-your-stomach way that only New Year’s Eve in your childhood bedroom can hurt when your heart has just been pulverized.
 
-God. Oh my god. My chest physically hurts. I feel like somebody just reached into my ribs and twisted.
+The contrast between these two chapters—reading Randi in 51 and then Vee in 52—is genuinely making me feel ill. In 51, Randi is waking up from a hollow, wealthy one-night stand with her perfect billionaire-lawyer stand-in, nursing her guilt, and deciding to text Vee the “fairytale” because it’s easier to keep playing the role. And then we cut to Vee. Freezing in a twin bed she’s too tall for, smelling lavender plug-ins, listening to the furnace shut down, watching the clock tick down to midnight, utterly consumed by Pace’s silence.
 
-I’ve been waiting for this collision for so many chapters. Ever since he answered *“I love how good we are together”*—the ultimate mathematical evasion of an emotional declaration—and left her sitting on that porch with her best sentence gathering dust inside her. And now she walked in, coat buttoned, leaving her overnight bag in the car, refusing the kiss at the door, and demanded what every woman who has ever given her body and her heart away in private needs: *What am I to you out there?*
+The detail of her cutting the picture in half before sending it to her mom—scissoring away the leg, scissoring away the woman she’s become because her home can’t hold her anymore—shattered me. You grow up, you expand, someone wakes your body and your hunger up, and then you have to go home for Christmas and squeeze back into your childhood skin, pretending casseroles and *Wheel of Fortune* are enough when you are literally starving to death.
 
-And the absolute tragedy of Pace is that he thinks he is giving her everything. In his mind, he built a fortress. He turns the heat up hours early so her bare skin never chills. He clears his drawers, he watches her eat like she's a miracle, he touches her with absolute reverence. *“You’re the most important person in my life.”* And he really means it! But he is also a man who is actively sleeping with Randi, keeping the door locked on a third game, telling his cycling buddy "Not yet" when asked if Vee knows, and using his actions as a shield so he never has to hand over the truth.
+And the spiral. *The spiral.* When you’re alone in the dark at midnight, your brain is a sadist. She takes her safest, warmest memory—the fra diavolo, the sheet slipping off her shoulder, the heat of his kitchen—and her mind replaces herself with an imaginary tan, blonde girl. *Except it isn’t imaginary.* That’s the knife twisting in my gut! She’s imagining some nameless dance-hall girl at his stove, completely blind to the fact that it was *Randi* on that couch. Randi, who she just texted an open hand of pure, unconditional friendship to. Randi, the only thing she thinks she has left to hold onto.
 
-When he said, *“Do any of your friends have a relationship you’d rather have than this one?”* I wanted to shake him. It’s so arrogant, and yet so desperately Pace. He’s trying to logic her out of an emotional ache. He’s saying, *Look at the spreadsheet of my devotion, look at the arithmetic of my care, isn’t it superior to the sloppy, half-assed boys out there?* And Vee, bless her entire soul, did not let him hide behind the math. She called it straight to his face: *“Words are cheap, and you still won’t spend them on me.”* That line took the air right out of the room. It broke him, you could see the door slam shut behind his eyes, and then—worse—he tried to reach for her. He tried to let his hands do the fixing, the way he always uses sex and warmth and food to soothe the parts of her that are screaming for security.
+Pace didn't text. Not once over the whole break. He's doing his noble "I leave you the room" routine, convincing himself he’s respecting her boundaries when in reality it is just cold, cowardly neglect. He’s letting her freeze out of some stubborn mathematical principle because she had the audacity to ask what she was to him.
 
-And she walked out.
+I’m so angry at him, I’m so terrified for her, and the dramatic irony of her leaning entirely on Randi while Randi is literally the other half of the trap... it’s suffocating. She thinks Randi is her safe harbor. When this detonates, Vee is going to have the absolute earth taken out from under her. God, please let term start. Get her out of that cold bedroom.
 
-She walked out into the freezing cold, into the dark, leaving the hot chicken on the stove and the two poured glasses of wine. This is Fifty Shades Book One all over again—that agonizing, necessary, devastating moment where the heroine realizes that no amount of lavish care or incredible physical pleasure can substitute for being truly, openly, unequivocally chosen.
+***
 
-I am in absolute agony over them, and I have never wanted the next chapter more in my life.
-
-GATE 50 — Believe Me
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: An absolute emotional masterclass. Watching her refuse to let his hands and his warm food substitute for real commitment was agonizing, brilliant, and completely true to who she is.
+WHY: The ache of this chapter was agonizingly real. Watching Vee's mind torture itself at midnight while holding onto Randi as her only lifeline—completely unaware of the betrayal waiting for her—has the tension wound so tight I can barely breathe.

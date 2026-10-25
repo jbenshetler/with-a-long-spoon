@@ -1,32 +1,20 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 13e407d9f33a · 2026-10-01*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is what I wanted. Just the two of them in his house, the dishes and the wine and his back under his shirt—and then Vee deciding, entirely for herself, that she wants to show him. Not because Randi arranged the entrance, not because Pace requested a performance. She invents the game, puts him in the chair, tells him to wait, and makes him obey. I loved every second of that reversal. His control makes room for hers without becoming less powerful.
 
-Oh. Oh, this is exactly what I came back to this genre hoping someone would write.
+And the restraint nearly killed me. His hand starting toward her and then being put away. Him staying exactly where she placed him while she walks naked down that hall. He wants her unmistakably, but wanting does not become entitlement. He lets looking be the touch because looking is what she has offered. That is the intensity I came here for: not less consuming because he waits, but more.
 
-The second she hit him back and said she wanted to play, I knew where it was going, and I wanted it desperately—but I was also braced, because this is where so many books decide her body’s reaction outranks anything she says. And then Pace’s hand moved up her thigh, she said “Don’t,” and it was simply gone. Immediately. No coaxing, no smug insistence that he knew what she really wanted, no using her wetness against her. He showed her empty hands. She had to feel the loss, name the reversal herself, and say yes. That nearly made me cry with relief before it made me hot.
+The dress walk felt triumphant, but the second entrance felt intimate in a way the induction never could. She isn’t merely enduring being seen now. She is constructing the sight, carrying it to him, standing inside his attention, and refusing to cover herself. Her desire is doing the directing. Even the blush belongs to her; it doesn’t send her running.
 
-And then he kept asking. The look and the wait before moving her underwear. The nod. “Do you want to keep going?” And, God, “Slow. For me.” That is the whole thing for me: his control begins only after he has made the choice hers. He can direct her because he first leaves her genuinely free not to be directed. I felt that distinction everywhere.
+“The other is for the world. This is just for me” absolutely got me. Yes, it is possessive, and yes, I wanted it—because he says it after she has chosen what is his to see. He doesn’t claim what she gave the room. He recognizes the private gift as private. I would text a friend at one in the morning: *He stayed in the chair. She told him to wait, walked in wearing only heels, and he stayed in the chair.*
 
-The spanking itself absolutely got me. Not because it was harder or more elaborate than anything else, but because he made it particular to her. Randi’s story had planted this noisy little script in Vee’s mind—counting, humiliation, punishment—and Pace did none of it. No performance, no borrowed fantasy, no cruelty. A tap as a question. His palm soothing her. His mouth against the place he struck. He was dominant and tender in the same motion, without either one canceling the other, and that is precisely the impossible combination I keep reading for.
+Randi is still present at the edges through those shoes, and the buried deception has not become less dangerous. But this moment between Vee and Pace is theirs. I believe that completely. And after so much arranging done around Vee, watching her arrange him was delicious.
 
-I did tense at “You enjoy this. Not a question,” and again at the bet, because Vee was still denying it and I will not accept a man declaring her body’s answer more authoritative than her mouth. But the instant she said “Don’t,” he proved what kind of man he was. He believed the word over everything he had seen. Her wanting the touch back did not make stopping a trick or a mistake; it made her next yes real. That mattered enormously.
-
-Vee’s shame hurt. The wetness displayed on his finger could so easily have become humiliation, and instead he looked at it as something “true and fine.” I know exactly why that broke through her. He didn’t merely tolerate her appetite; he received it as good. And when she undressed slowly because he asked, she understood that she was giving rather than being taken from. I wanted to climb into the book and hold that realization around her.
-
-Then the juice absolutely finished me. Juice! After all that heat and ceremony, he feeds her sugar, puts her head in his lap, strokes her hair, and repeats that she is wonderful until she falls asleep feeling treasured. That word—*treasured*—is the reason the heat means anything. The scrunchies afterward were almost worse in the best way: not one emergency hair tie, but a whole supply, chosen for her, quietly promising that he expects her to keep waking there. I am embarrassingly gone over that man.
-
-And Vee deciding to bring a bag felt enormous. She isn’t just tumbling into another night anymore. She is allowing herself to anticipate a next time, to occupy space in his house on purpose, to arrive prepared to stay. That is such a small domestic sentence for such a large emotional turn.
-
-The only shadow over all of it is Randi. “No Randi to be told” landed like a knife because Vee thinks this belongs only to herself and Pace, while Randi has already helped awaken it and Pace knows far more about that process than Vee realizes. I loved this encounter completely on its own terms. I also know Simpson’s paradox is still sitting there: the immediate consent was beautiful, exact, and real, while the larger frame remains concealed. Pace has now shown me he understands how sacred a single “don’t” is. That makes it harder, not easier, to forgive him for withholding the truth that would let Vee answer the larger question.
-
-But tonight? I would text a friend: HE STOPPED THE SECOND SHE SAID DON’T, SHE ASKED HIM TO COME BACK, HE SPANKED HER LIKE SHE WAS PRECIOUS, AND THEN HE BOUGHT HER A LIFETIME SUPPLY OF SCRUNCHIES. I am not sleeping.
-
-GATE 35 — We Find Out
+GATE 36 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the dominance, explicit consent, heroine-owned desire, and devastating tenderness I have wanted from the book all along. The immediate encounter felt nearly perfect—and the concealed arrangement now frightens me more because Pace has proven that he knows exactly how much a freely given answer matters.
+WHY: Vee authored every part of this encounter, and Pace’s visible desire was matched by equally visible restraint. I am already turning the page because she is standing naked in his light, he has just named the difference between public display and private offering, and neither of them has moved yet.

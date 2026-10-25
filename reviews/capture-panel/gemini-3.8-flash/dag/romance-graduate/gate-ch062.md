@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 REACTION
 
-God, my heart aches.
+Holy shit. The absolute psychological violence of an aesthetician saying *"Roll over for me, hon"* when you thought the horror was already over. I felt that in my marrow.
 
-There wasn’t a single drop of explicit sex in this chapter, and yet it hit like a physical weight in my chest. This is the exact kind of emotional depth I am constantly starved for in romance. Most books give their brooding hero some cookie-cutter "man-pain"—a tragic dead ex or a vague misunderstanding with a billionaire father—and call it a day. But this? This slow, quiet, devastating excavation of Pace’s isolation? It feels terrifyingly real.
+This chapter took something that could have been a silly, throwaway chick-lit trope—the awkward first Brazilian wax—and turned it into an absolute masterclass in erotic vulnerability and body horror. The way Rivers writes interiority is just sick. That moment where Sondra puts a flat, bored hand on Vee’s thigh to pin her down and says *"Don't move"*—and Vee’s body instantly recognizes the grammar of it, but short-circuits because there is no desire behind it, just a stranger doing maintenance on her meat? That broke my brain. It’s so accurate to how intimacy ruins you for ordinary physical boundaries. She is so thoroughly conditioned by Pace’s dominance now that an impersonal hand holding her down opens a cavernous ache for the *right* hand to be the one taking her apart.
 
-The way he rationalizes it completely broke me. He doesn’t whine, he doesn’t play the victim, he just lays it out like a set of mathematical axioms: *“You make a friend from the middle of the pack... I was never once in the pack.”* And that door being on a timer. The brutal truth of what it means to be a fifteen-year-old child prodigy living among grown men who "weren't safe or weren't welcoming," fleeing an abusive home, skipping summers just to have somewhere to exist, and then being an adult with money and a house before his peers even had a dorm key. He was never allowed to be young with anyone.
+And Randi. Oh, Randi, you gorgeous, calculating demon. *"Barely stings."* Leaving out the entire back half of the service on purpose so Vee would walk in blind, because Randi knows the exact hazing ritual of becoming that kind of woman. She’s grooming Vee into her own mirror image, piece by piece, while Pace is waiting at the end of the line to collect the prize.
 
-And Vee’s interiority here was so mature, so painfully observant. When she realizes Daphne was his *only* person, doing the work of Meg, Kayla, Cassie, and Randi combined—and that Daphne was a grown woman taking advantage of a boy—it makes the whole puzzle of Pace snap into focus. He isn't just courtly and exact because he’s older; he built that impenetrable, hyper-competent armor because nobody ever took care of him. Except now he bakes cinnamon raisin bread while Vee sleeps, puts water on a paper towel so it won't ring the wood, and takes care of everyone else because it’s the only way he knows how to exist in a room.
+And the ending! The contrast between the clinical humiliation of the table and that quiet, private second afterward where she touches herself and realizes the sheer, terrifying luxury of being that smooth. The old church-girl prudery getting bulldozed by the sheer sensory shock of it. She didn't do it because she wanted it; she did it because he asked in that quiet, undeniable voice, and now she is practically vibrating to present the finished product to him. I need Friday night to happen right this second. Put her in front of him.
 
-And that hug. Her going around the counter and giving him the Sheri hug—full weight, cheek to chest, no pity, just presence. But the chill underneath it all! While Vee is falling hopelessly, deeply in love with him, feeling the absolute gravity of his solitude, we know the elephant in the room: *Randi.* Pace told Vee that Sheri is his "one friend." Which means Randi isn't a friend. Randi is the secret, the game, the accomplice. Vee is standing there holding him, thinking she's finally seeing the bare truth of his soul, completely unaware of the massive, ticking bomb sitting right in the center of their lives. Masterclass in quiet heartbreak.
-
-GATE 63 — Hangover
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 0
-ROMANCE: 3
+NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The character psychology here is stunningly good; watching Vee finally understand the profound, solitary architecture of Pace's life broke my heart wide open, even while the dramatic irony of what he's keeping from her makes the tension unbearable.
+WHY: The psychological tension during what could have been a routine comedic trope was incredible—Rivers made a clinical waxing feel intimately violating and deeply erotic at the exact same time. Vee's surrender to Pace's unspoken demands has reached an absolute fever pitch, and I need to see him find her like this.

@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
 
-REACTION — Okay. So this is what I get after Cassie's "do you love him" — a lap pool. A whole chapter of a lap pool.
+REACTION — Okay, that line from the jacket actually landed in the text — "you're just finally hungry out loud" — and it hit me harder on the page than on the blurb, because now I know Randi, and now I know what it costs her to say it. That whole middle stretch where Vee is pouring out "the amount of it" and Randi just *goes quiet* — eyes unfixed, a catch she doesn't smooth over, "It doesn't. Low, and not quite even" — that's the moment. Randi has been the conductor of every scene she's in for thirty-nine chapters, and here she's the one who got conducted. Vee thinks it's her story landing on a friend. It's the woman she's in love with describing the man they *share*, in the innocent singular, and Randi — the engineer, the one with the whole map — got run over by how real it's become. The blurb promised "how real it has become for all three" and this chapter is where I felt it in Randi's body instead of being told it.
 
-And here's my problem: I *liked* it. I liked it more than I want to admit to a gate number. "It never answered anything, the swimming. That was the whole use of it. It took the words off things one at a time until what was left was the shape underneath" — that's the best sentence in the book since "he made it to you." The four strokes where she can't tell Pace from the Pace she built out of wanting him — that's the most honest thing this book has done with her. That's not a romance-novel heroine; that's a woman doing actual inventory. "Her body, which had opinions all day long every day of her life, had none at all down here. It only worked." Yes. I know that feeling from the treadmill and nobody's ever written it for me.
+And I'm nervous. The photo thing. Last chapter I watched Vee negotiate that with herself — "promise you'll never share me with anyone" — and I thought, fine, private currency between them. And now, two weeks later, she's pulling up the uncropped one and putting the phone in *Randi's* hand across a brunch table, thumb working up to it, shame and thrill running together. I saw her decide it and I couldn't stop her and I didn't want to. That's this book's whole trick: every escalation is Vee's own hand. But "showing him your toes, eh?" — Randi didn't earn that photo, she *fished* for it, one needling half-sentence — "you only gave him half?" — and it worked exactly as designed, and Vee thinks the flinch was about being called cowardly. The precision of that needling, that's the Randi I fear. And the picture is *on Vee's phone*, but the knowledge of it is now in Randi's hands, and everything Vee confides travels farther than she knows. I keep thinking about the cropped one ready since the morning after. She had it staged. For whom, Vee?
 
-But. This is the second quiet chapter in a row. Monday night was Cassie and the beanbag, Tuesday is chlorine and reps. Nothing happened tonight except a woman not answering a question she already knows the answer to, and I'm doing exactly what the book wants — holding the *maybe* in my mouth with her — and I notice I'm doing it, and there's a small part of me that's starting to wonder if Rivers knows how to hold a note so long it stops being tension and starts being stalling. The drawer chapter was the answer to "did he mind." The *maybe* is not the answer to "do you love him" and I don't need it to be — but I need the book to know that Randi's bill is coming due. The pastry glaze on her lip. The "sticky fingers" that Vee couldn't read. That's the loaded gun on the wall and it's been sitting there for chapters now while I watch swimming.
+The kiss — Vee held it. Vee took the second for herself. And then rationalized it in the space of one sentence and "didn't bother about it again," which is the most Vee sentence in the book. The econ eye is so close to done I can taste it. The anthro class — Tuesday and Thursday nights — "just us," and Randi's little roughness saying it. That's two standing weekly slots with Randi now. The architecture is thickening on both sides of Vee's week: weekends in the woods with him, Tue/Thu nights in a dark classroom with her. Nobody builds a schedule like that by accident, except Vee, who is building it entirely by accident.
 
-Also, small thing, and it's a real thing: this book keeps giving Vee's body to me as honest and her mouth as a liar, and the gap between them is the whole engine, and I get why. But there was a beat in the lane — "her body, which had opinions" — where I felt the book stroke its own thesis a little. Don't explain it, Rivers. You already showed me the kitchen, the bet, the bathroom at brunch. I felt it. Trust me.
+The smaller things that got me: "eating with the sound off" — that's the best line she's found for him yet, and it came up on its own, and Randi *heard* it, you could feel her filing it. Vee paying her own check and tipping well and saying nothing about the number — the credit card is still out there, still ticking. "It's going when I walk in. I've never once heard it start" gave me a small chill, because *of course* she hasn't, because it's not for her that it starts. And the yolk breaking and running while she tells the sex — this book keeps making food and sex the same appetite and it keeps working on me.
 
-Still. I put the book down and realized I'd been breathing every third. That's not nothing.
+The "does he have a brother" joke. Sits different now. Everything Randi says about him sits different now that I know she has him too.
 
-GATE 37 — Strokes
+This was a quiet chapter on paper — brunch, talk, goodbye — and it's the one that's got my stomach tight. That's the both-thing I read for.
+
+GATE 39 — All the Time
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "It never answered anything, the swimming. That was the whole use of it." — actually the opposite of a stop, that line bought the whole chapter; closest to leaving was the opening lane-setup paragraph, which I nearly skimmed
-WHY: Second quiet chapter in a row and I felt it, but the prose is doing the one thing I can't quit — turning want into an object she can hold and look at. One more quiet chapter with no Randi movement and no step toward the truth, though, and I'm skimming to dialogue.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none — closest flicker was "Legs like yours, though — and you only gave him half?" because I could see the manipulation working in real time, but I couldn't look away
+WHY: Randi came apart in the middle of her own con, and Vee handed over the photo and took the second kiss and I watched every inch of it happen through her own choices — the book is making me dread the math the heroine refuses to do, and that tension is the whole reason I'm still up reading.

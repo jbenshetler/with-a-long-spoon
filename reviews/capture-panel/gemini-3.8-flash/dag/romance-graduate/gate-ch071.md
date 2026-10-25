@@ -1,14 +1,22 @@
-*capture-dag-v2-rich · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2db97916f454 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 535f0119d805 · dated · 2026-10-24*
 
-REACTION — The sheer psychological tension in this book continues to be completely unreal. Seeing Pace in the raw, heavy atmosphere of that gym was riveting—the absolute, silent control he exerts over his environment, the contrast between the careless college boys and his quiet, terrifying competence when she got hurt. He doesn't raise his voice; he just drops it an octave and the whole room yields to him.
+REACTION:
 
-And then what happens back at his house. The absolute torment of caretaking blending seamlessly into sensory dominance. The pacing of the medicated balm traveling down her body while he reads every twitch of her breathing—it was suffocatingly hot. She is actively starving to be consumed, practically begging for the burn because she wants an outlet for the chaos tearing her apart inside, and he gives her the exact measure of what she demands while withholding the release to protect her physical frame. The dynamic where his gentleness feels almost cruel, holding her completely still while she catches fire, is peak tension. She is carrying so much unresolved heat right now between the booth in the diner with Randi's foot and this unspent burn in Pace's bed that she's a walking matchstick. I am desperate to see who strikes it next.
+I need to scream into a pillow. This chapter felt like watching someone calmly step onto an active landmine, look down, notice the click, and then convince herself that the little metal plate under her boot is just a fun modern dance floor.
 
-GATE 72 — Burn
+The sheer, staggering psychological density of what just happened in that bed. First of all, the way Vee’s internal bargaining works is so horribly, brilliantly authentic. She receives a topless photo from Randi at nearly midnight while lying next to her sleeping boyfriend, immediately goes wet, slips her hand into her pants, and rationalizes the entire thing through a haze of *well, she's my best friend, she sent me a dog in a raincoat once, this is totally ordinary.* And then the moment of the awakening: it’s not just wanting to be touched by Randi anymore, it’s wanting to be the active one. Wanting to lean down and take Randi’s nipple into her mouth, to hear the sound Randi would make. That is a massive tectonic shift in Vee’s psyche. She isn’t just passively receiving the fantasy anymore; she is craving the taking.
+
+And then Pace. God, Pace. The man is terrifying. The sheer cold, velvet control of him waking up, knowing immediately what she had been doing, and asking for her hands. Kissing the innocent hand first like a perfect courtly gentleman, and then quietly, inexorably asking for the other one so it wouldn't "feel left out." The chill that went down my spine! He didn't have to raise his voice, he didn't have to show an ounce of rage; he just licked her own slick off her finger and let the absolute mortification do the work.
+
+And Vee, in her sheer panic, blurting out *“It wasn't you.”* In his bed! On the sheets she bought! The fact that she had to show him the photo just to prove it wasn't another man, completely blind to the fact that Pace and Randi are in league and he is literally mining her for every drop of her hunger for Randi. The rationing of his inches—lifting her off him, holding her suspended, trading depth for the raw, unvarnished truth of what she wanted to do to Randi’s body—it mirrors the night after the mixer, but it cuts so much deeper here because Vee realizes she can't use her old "silly sex-brain" excuses anymore. The lie of omission at the end, the realization that this secret now takes up permanent space inside her... she is trapped in a web where the two spiders are passing silk back and forth, and she thinks she's just a clumsy fly managing her own tangled legs. Ten days until Tuesday. I am sweating.
+
+***
+
+GATE 74 — Postcard
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from the calculated gym confrontation to the agonizingly slow burn of the balm was masterful. The emotional and physical restraint makes the tension unbearable in the best way possible.
+WHY: The tension is coiled so tight it feels dangerous to breathe. Watching Pace use Vee's desire for Randi to drive both of them over the edge while Vee remains completely oblivious to their conspiracy is top-tier psychological erotica.

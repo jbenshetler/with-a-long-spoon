@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this hurt. Not in the shiny romance way where a tragic backstory gets handed over to make the hero more desirable, either. Pace genuinely does not seem to understand his life as tragic, and that makes it worse. He has arranged the losses into such impeccable order that he can serve them without spilling: women misunderstand, men compete, the window closes, ordinary family questions have gaps under them. Fine. Explained. Nothing to trouble anyone with. Meanwhile I am sitting here wanting to put my face in my hands over a fifteen-year-old boy among grown men, and an eighteen-year-old with a house and money and absolutely nobody to eat with.
 
-Oh, this is filthy, intimate, and morally appalling in exactly the combination this book has been promising.
+I did bristle at “men don’t start at twenty-two.” That is Pace turning his own wound into a law of nature, and I don’t entirely buy it. Plenty of adults make friends. Pace is wonderful at creating intimacy for other people and almost pathologically practiced at keeping himself outside the need for it. The window did not simply close; he learned not to stand at the window. But I believe that *he* believes the theory, which is the important and sad part.
 
-Randi tasting herself from Pace without hesitation—after Vee stopped one breath short of doing the same—hit like a deliberate answer across chapters. It was extremely hot, but it also hurt. Vee is alone in her dorm trying to cross that inch of air, ashamed and uncertain, while these two are already fluent in the thing she has only just begun to want. Then they bring her into their bed in words, use her desire for each of them to arouse each other, and never once have to risk letting her hear the truth. I wanted the scene badly. I was furious almost the entire time.
+And Daphne. Jesus. The chapter never uses the word, Vee refuses the word, and I know exactly which word they are both holding away. I appreciate that Vee can finally carry the two truths together: it may have been the best love and safety he had, and the shape of it was still wrong. I don’t need her to flatten his experience into a verdict, but I desperately need someone in this book to recognize that a lonely, displaced fifteen-year-old being “somewhere else with girls” does not make him precociously invulnerable. It makes him vulnerable in a way he has spent his whole life redescribing as competence.
 
-And finally: there they are. No performed introduction, no careful little evasions, no pretending the blanket came from Pace. They know each other’s bodies. They have ease, jokes, established rhythms, shifts in control, and the confidence to talk about Vee while he is inside Randi. This is not some incidental arrangement that became difficult to mention. It is a relationship. A real, tender, sexually specific relationship. Every additional proof of how good they are together makes their concealment from Vee more serious.
+The detail that really got me was not even Daphne. It was the ordinary questions. Christmas, parents, bringing someone. Yes. That is exactly how friendships deepen: not through declarations, but through hundreds of little doors, and his life has a hole behind every one. Of course he learned to make himself useful instead. Fix the lock. Stop the faucet. Bring the donuts. Cook the eggs. Put water beside the bed. If he is always the person carrying everyone else, nobody has to discover there is nowhere he can comfortably set himself down.
 
-Randi saying she wants Vee’s breast in her hand and her nipple in her mouth nearly took my head off. Because yes, at last, an unsoftened statement of what she wants—except she says it to Pace. She can tell him exactly what Vee does to her while letting Vee believe she is “ticklish.” Pace answering with what he has noticed about Vee looking at Randi means they are comparing observations. They are watching her wake up from both sides. I hate how erotic I find that, and I hate more that Vee does not know she is being watched.
+But the Randi-shaped absence in this conversation is screaming. Vee lovingly inventories Meg, Kayla, Cassie, and Randi as the people who distribute the weight of her life, while Pace identifies Sheri as his sole friend. So what is Randi to him? Lover, conspirator, co-caretaker, family, all of those—but apparently not the person he brings the unguarded parts to. They are having sex while talking about their love for Vee, yet Sheri may still be the only person in front of whom Pace is simply off duty. That distinction makes the secret triad sadder and stranger, not safer.
 
-“You know she loves you, right?” was the turn that got under everything. Randi sees Vee’s love for Pace, Pace cannot hide his happiness, and then Randi tells him she loves him too. That was not playful. It landed naked. He could not tell her she was wrong, but he also did not say it back. So now I am aching for Randi even while wanting to shake her. She is helping Pace recognize the love Vee has not spoken while offering her own love into another open sentence. These three are starving in three different directions while two of them possess the map.
+And Vee thinking Sheri is the only woman the world has let Pace keep because she can never want him—girl, look directly beside you. Randi wants him. Randi has been kept. Randi also wants *you*. The dramatic irony is now almost physically painful.
 
-The erotic charge did not dip when the feelings entered; it intensified. That is precisely what I have been waiting for from this book. Their sex has history and personality. The control passes back and forth. They laugh without breaking the heat. “My turn,” “You’re still leading,” the palm kiss, Randi putting his hands flat beside him and moving under her own command—all of it made them feel like people who know one another, not bodies cycling through a scene template.
+The hug was perfect. Vee copying Sheri’s full-weight embrace without announcing that she understood it, without making Pace manage her sorrow for him—that is the grown-up tenderness I came for. No speech, no promise to be everything he never had, no demand that he perform being healed. She just comes around the counter. I felt that turn in the bond all the way through me.
 
-And the ending is wicked. Randi cleaning their combined wetness from him, ordering him back inside her, then kissing him with the taste of both of them—the exact boundary Vee is circling, made completely mutual and effortless here. It is a fantasy demonstration being performed in Vee’s absence. I am desperately ready for the three of them, but the book has made it impossible for me to accept that as a reward unless Vee is given the truth before they maneuver her into it.
+This chapter did edge close to explaining its own ache after I had already felt it. Once Vee imagined the empty campus, the dining hall, the seminar, Thanksgiving, the summers, I was ready for the book to trust me sooner. But it did not lose me, because the emotional discovery belongs specifically to Vee: she is measuring his solitary adolescence against the noisy, friend-filled life she actually knows. And ending on them holding each other without either pretending the hug solved anything saved it from sentimentality.
 
-My 1 a.m. text would be: THEY ARE FUCKING WHILE DISCUSSING HOW MUCH THEY BOTH WANT HER, IT IS UNBELIEVABLY HOT, AND I NEED THEM TO TELL HER BEFORE I COMMIT A FELONY.
+Also: no heat at all, and I did not miss it for one second. That matters. The previous chapter proved the book still intends to feed me explicitly; this one proved the explicitness is attached to people whose inner lives can wreck me. Yes, I’m reading on.
 
-GATE 61 — My Pleasure
+GATE 63 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This gave me the explicitness, emotional intelligence, and unbearable moral tension I came for. Randi’s declaration changed the shape of her bond with Pace, and now I need to know whether either of them will finally love Vee enough to risk telling her the truth.
+ALMOST-STOPPED: “He belonged to neither. He'd been handed a whole life a person is meant to grow into slowly, years before the growing, and left to eat it alone at a table for one.”
+WHY: That was where the chapter came closest to pressing the meaning after I already had it, but the hug landed cleanly and destroyed me anyway. Pace’s loneliness, the unspoken truth about Daphne, and the enormous Randi-shaped omission have me reaching for the next chapter.

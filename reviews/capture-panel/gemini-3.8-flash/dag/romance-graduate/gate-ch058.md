@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, the *layers* of psychological peril in this chapter made my stomach drop and my skin prickle at the same time. This is why I read this book. It’s magnificent, messy, grown-up writing.
+*Jesus fucking Christ.*
 
-First of all: Dr. Marsh’s lecture on the grooming comb, the baboons spending a fifth of their waking lives picking through each other’s fur, and the wrasse fish that groom the predators that could swallow them whole? Pure, unadulterated genius framing for what Vee and Randi are doing. These two women are literally grooming each other in every sense of the word. Randi is combing through Vee’s sex life, picking out every flea, every detail, every taste, and Vee is sitting there like a purring animal completely addicted to the attention.
+My stomach just completely dropped through the floorboards. I need a cigarette and I don't even smoke.
 
-And then the loft scene. God, the *voyeurism*. Randi doesn’t just want to hear the story; she wants to inhabit it. The way she interrogates Vee about the truck—*"Did you take it all? Didn't spill a drop?"*—and Vee sitting there across a white tablecloth with her mouth literally dry, aching, remembering the taste of Pace in her throat while Randi drinks in every single drop of her humiliation and arousal. Randi is getting off on it. We know she’s in love with Vee, we know she slept with Pace, and sitting there extracting the play-by-play of Pace eating Vee’s pussy and coming in her mouth is the most twisted, erotic foreplay I have ever read.
+*Thursday, January 21.* Do you understand what that date stamp means?! That means while Vee was sitting in her dorm room in Pace’s oversized flannel, agonizing over the fact that she was too cowardly to lick her own arousal off her fingers, wondering if she was broken, smelling like a hothouse and lying over her own cooling stain—PACE AND RANDI WERE TOGETHER IN BED FUCKING EACH OTHER OUT OF THEIR MINDS.
 
-And then the snowballing! The whole reason Vee brought up Saturday morning was to get permission for her own internalized shame. She thought she was bringing a funny, scandalous little punchline: *Haha, he kissed me with my own wet on his mouth and I called him gross, isn't that hilarious and disgusting?* She wanted Randi to laugh and validate her small-town, church-girl boundaries. And instead, Randi drops the hammer with that calm, cultured, devastating: *"I don't. It was powerful. It turned me on."*
+On the very same night. Literally right after that loft dinner where Randi looked across the table and told Vee that tasting herself was "powerful" and "turned me on"—Randi turned around, went straight to Pace, let him eat her out, pulled his wet face directly into her mouth with *zero* hesitation, and then rode him while narrating what she wants to do to Vee’s breasts.
 
-BAM. The floor drops out from under Vee. Suddenly Vee isn't the sophisticated "pleasure princess" showing off her cosmopolitan life; she’s an ungrateful child who recoiled from a man who worships her body. The realization hits her like cold water: *Pace loves this, Randi loves this, the whole grown-up world of real sexual appetite understands this, and I screamed 'gross' and covered my mouth like a baby.* Watching that shame rewire itself inside Vee—her own body clenching under the table remembering the kiss, her tongue remembering the salt—was breathtakingly hot and deeply humiliating. Randi just casually dismantled Vee's last moral barrier over a plate of braised meat.
+I feel sick. I feel dizzy. And I cannot look away from the page. It is so utterly perverse and devastating and intensely, scorchingly hot that I don't know whether to scream or throw up.
 
-And that ending on the sidewalk! Vee deliberately kissing that sensitive spot on Randi’s neck *again*, thinking she's just teasing her friend, and feeling Randi’s body catch and rise underneath her lips—Randi is barely holding it together! Brooke’s warning is hanging over Randi’s head, Randi is drowning in love and lust for Vee, and Vee is out here blindly kissing her neck on the street while carrying the ghost of Pace’s tongue in her mouth.
+The psychological brutality of this chapter is staggering. The way they use each other as an altar to worship Vee! Pace moving his hands over Randi's hips, listening to Randi describe wanting Vee's nipple in her mouth, and taking Randi’s nipple into his own mouth instead. It’s like they are channeling Vee through their own skin. They aren’t just cheating; they are running an entire surrogate cult ritual where Vee is the absent deity they are summoning between their hips.
 
-The web is so tight now. When Vee finally figures out what Pace and Randi share—when she realizes *why* Pace knew how to open her, and *why* Randi knows Pace’s exact sexual geometry—the explosion is going to be apocalyptic. I am hopelessly hooked.
+And then Randi dropping the absolute executioner's blade: *"She's not the only one in love."* Looking at Pace. Clocking his face when he softened over Vee. And he didn't deny it. He couldn't. Randi is in love with her, Pace is in love with her, and the two of them are pounding into each other, covered in their own combined fluids, talking about her like she's a ghost haunting the sheets.
 
-GATE 59 — A Clean Plate
+Vee is so, so fucked. She thinks she's the center of the world right now, feeling like a little pleasure princess because Pace made her pancakes and Randi gives her fashion advice. If she ever walks in on this, or finds out that they've been doing this behind her back—using her as their dirty talk, cleaning each other up with their mouths—it will literally annihilate her psyche. The cruelty of it, masked in utter adoration. I have chills. This book is a terrifying, magnificent trap.
+
+GATE 61 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological tension between Vee and Randi in that booth was suffocatingly good; watching Randi weaponize her own sexual worldliness to casually strip away Vee's shame about tasting herself was masterclass character work.
+WHY: The reveal that Pace and Randi are sleeping together *now*, on the exact night Vee was crying in her dorm over her own shame, was an absolute bomb that blew the roof off the entire novel. The heat was filthy, dark, and utterly loaded with psychological poison. I cannot turn the page fast enough to see how this collision happens.

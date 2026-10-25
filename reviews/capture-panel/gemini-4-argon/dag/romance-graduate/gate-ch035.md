@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
 
 REACTION
 
-Oh, I love Cassie so much. Every single time we check back into that freezing dorm room with the cracked window, it’s like touching solid ground after floating six feet in the air at Pace's house or walking through a minefield at brunch with Randi. "You're doing the streetlight thing again. You're a public utility." Wait—*streetlight!* Cassie called her "streetlight" after the induction ceremony too ("Come on, streetlight"), and Pace told Randi back in Chapter 23 that Vee walks in and the room goes brighter *like somebody found the lamp*. Everybody who actually loves this girl sees her literally glowing!
+Oh, my heart is simultaneously melting into a puddle and beating in my throat. Look at the dramatic irony laced through this entire chapter! First, Vee lying there thinking *"He's all mine"* and asking *"Who does this to you when I'm not around?"*—I literally held my breath waiting to see how Pace would answer without lying to her face, and of course he says *"Sometimes I take care of it myself. Thinking of you,"* which is 100% true and completely sidesteps the Randi question!
 
-And that little detail about the baked tomato with breadcrumbs and cheese sliding off her fork and burning the side of her bare breast because she's just sitting at his kitchen table naked now—because he keeps the house warm enough that she doesn't even think about having clothes on!—is so domestic and quietly erotic and sweet I could melt. Remember when Pace was under Randi and his threesome fantasy drifted away from Randi entirely to just Vee at his kitchen table wrapped in a bedsheet? Now she doesn't even need the bedsheet. She's just eating baked tomatoes bare-breasted at his table while he watches her eat like she's the whole show and fusses over a tiny burn for days.
+And then the photo scene. God, the tenderness of him lying perpendicular across her with his cheek resting on the lower slope of her breast, kissing his way up to her nipple and just holding the tip gently between his lips until he's hard again against her hip... that is peak intimacy. And when he poses her for the pinup photo—putting his mouth on every spot his hands just arranged (her shoulder, her hip, her knee), tilting the lampshade so the glare comes off her skin, taking the shot on *her* phone first so she stays in complete control of whether to send it—it’s so reverent and hot. When she looked at the screen and saw herself the way his eyes see her, and hit send, I felt this huge wave of both sweetness and pure dread. Because He swore *"Never. I'd never share your photograph,"* and I believe him with my whole soul that he won't show Randi... which means that photo is now a live grenade sitting in his phone if Randi ever sees it!
 
-Wait, though—look at the calendar and look at what Cassie just clocked: *"You don't come home school nights."* Today is Monday, November 9, and last chapter's section iii was "The next Friday" (which would have been November 13 if it weren't jumping back, or wait—regardless of the exact date math, her bed in the dorm is sitting empty more nights than it isn't!). If Vee is over at Pace's house on school nights too, and all weekend, *where is Randi?* Pace has cleared out his top bathroom drawer for Vee, crowded all his own things into the bottom drawer, cranked his thermostat up so she can walk around naked, and has her over on school nights. He has completely reorganized his life and his house around Vee. Randi has to be getting squeezed out of the schedule almost completely, and knowing Randi, she is not going to just quietly fade away while Vee takes the top drawer and every night of the week.
+Also, can we talk about how he cooked lemon-caper chicken piccata for her?! The last time he made chicken with lemon and capers was that brutal Monday night when Randi realized she was losing him and forced herself to eat every bite on her plate! Except here, with Vee, he's feeding her tastes off the wooden spoon, holding her hand on the counter in the quiet, and watching her close her eyes on the first bite with the exact look he just told her he masturbates to. The contrast between those two dinners is devastating.
 
-Also, the contrast between Vee admitting *She loved him* to herself in the dark in Chapter 35, and then going small and saying *"Maybe. I think so. It's all so fast"* when Cassie asks her out loud in the light—that felt so real. When you say it out loud to your best friend, it becomes a thing that can break you.
+And that ending at the kitchen table hit me right in the chest. *"I don't go back."* The way his face goes level and exact when she asks about his parents for Thanksgiving—coupled with what we already know about him leaving home at 15 because leaving was less scary than staying, and that surgical or old raised scar high on his inner thigh—makes me ache for Peter. And learning that Sheri is "alone" too (probably cut off by her family for being queer, if I had to guess) and the two of them spend Thanksgiving together with a store-bought pie she pretends she made... I love their friendship so much. And I love that Vee felt that tiny flicker of jealousy over "Sheri" and immediately let it go when she heard *"She's alone."*
 
-This was a super short, quiet two-page beat after the emotional wallop of the drawer in Chapter 35, and I love it as a little breath with Cassie, though my thumb is definitely twitching for the next big scene because I need to know what Randi is doing while Vee is taking over all the school nights.
-
-GATE 36 — School Nights
+GATE 38 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: A short, warm check-in with Cassie that shows just how completely Vee has moved into Pace's world—eating naked at his heated kitchen table, staying over on school nights, glowing like a "public utility"—while making me hold my breath for what happens when Randi realizes there are no nights left for her.
+WHY: The intimacy of Pace posing Vee for her pinup photo—kissing each place his hands touched—paired with the quiet bombshell of *"I don't go back"* at the kitchen table had me completely absorbed. Plus, there is now a naked photo of Vee on Pace's phone and Thanksgiving is coming up, so I need to see where this goes immediately.

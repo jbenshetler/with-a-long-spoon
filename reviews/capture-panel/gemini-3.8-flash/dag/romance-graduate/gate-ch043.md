@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
-**REACTION**
+REACTION
 
-Oh, that made my stomach drop. That made me physically cold.
+This broke my heart in two pages.
 
-Look at what he did. Look at the absolute, terrifying calculation in his response. Vee offered him her whole throat—she gave him the most poetic, tender, vulnerable metaphor for how completely he has saved and transformed her soul (*"I had been eating crackers my whole life... And you fed me a meal"*), practically begging him without the words to say *I love you*. And what does the architect do? He pauses, measures the load-bearing capacity of the wall, and counters with: *"I love how good we are together... What your body does—I've never."*
+The shirt. That damn flannel shirt. In Chapter 42 it was the sweetest, most tender piece of domestic romance—she washed it, she asked him to wear it for an entire weekend just to recharge his scent, and he put it on over his clothes without a second thought. And here, in the freezing dark of her top bunk, the comfort curdles. The realization that the warmth in the cloth is just her own heat reflected back at her, that he is sleeping soundly across town while she is unraveling over a blank text box, is utterly devastating.
 
-He reduced her soul-baring confession to sexual compatibility. He heard her reach for love, panicked or calculated his boundaries, and shoved it immediately, neatly back into the physical box. *Your body.* Not *you*. And the worst part—the part that makes this book so devastatingly good—is that Vee felt it. Her body clocked the deflection before her brain could even process the math of it. That small "wait" behind her breastbone. That cold little realization in the laundry room two days later that their sentences weren't the same shape.
+She stripped it off and chose to freeze instead. That is the first real act of emotional self-preservation Vee has shown in this entire book. Up until now, she’s made excuses for his silences, rationalized his control, and let his incredible physical attention soothe away every doubt. But the physical comfort can't cover the hole anymore. She knows, in her bones, that he gives her everything he does, but the silence where his word should be is deafening.
 
-The tragedy of Vee is that she has already built a closet inside herself where she stacks all the little discrepancies—the things that need "repair work" so she can keep loving him. And she just filed this massive, heartbreaking rejection right on top of the pile. "She had been received warmly." The title drop hit like a slap to the face. The jacket warned us: *A warm reception is also what you call walking into fire.* She is burning, and she's telling herself it's just the heat of the quilt.
+It’s a tiny, quiet chapter, but the psychological precision is razor-sharp. She is finally, painfully waking up to the asymmetry between them, right before the whole house of cards collapses.
 
-This was quiet, but it was easily one of the most brutal emotional chapters in the entire book. He won't give her the word. He won't even meet her halfway with a metaphor. He just holds her down in the physical until the sun comes up and she stops asking. God, the fallout is going to destroy her.
-
-***
-
-**GATE 44 — Seconds**
-**DECISION:** CONTINUE
-**CAPTURE:** 9
-**NEXT:** 10
-**HEAT:** 1
-**ROMANCE:** 3
-**ALMOST-STOPPED:** none
-**WHY:** The emotional psychological knife-work here is breathtaking; watching Pace deliberately deflect her love confession into physical praise made my chest ache. Vee's gut instinct sounding the alarm while she forces herself to ignore it is masterclass character work, and I need the next chapter immediately.
+GATE 46 — Bare
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: The shirt coming off and being left in a heap is the exact turning point I’ve been waiting for. Vee is finally feeling the cold of what he isn't giving her, and I need to see what she does with that ache next.

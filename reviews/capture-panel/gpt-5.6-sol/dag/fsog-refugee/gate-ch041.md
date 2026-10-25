@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh, the shirt got me. Completely. Not because sleeping in something that smells like him is new territory, but because she brings it back and asks him to make it smell like him again—and he understands the whole confession inside that request. He does not tease her, make her say how badly she missed him, or enjoy her embarrassment. He just puts the absurd second shirt on immediately. “All weekend.” That is exactly the tenderness I keep coming here for: he takes her need seriously without making her feel needy.
+REACTION
 
-And I felt the five nights. I felt her wanting him to object when she said she needed time for school, too, even though I was fiercely glad he didn’t. That unreasonable little wish is painfully recognizable: she needed his respectful answer, but some part of her also wanted evidence that losing those nights cost him. Instead he gave her the much better thing—no punishment, no chill, no emotional invoice—and waited. It is deeply sexy that she can step away and find the door still open. It is also a little frightening how thoroughly her body and her idea of home have relocated to him. Five nights apart should not feel like deprivation this early, and she is trying to keep up with school while “burning her nights down to the wick.” I don’t think the book is presenting that entirely uncritically; Vee herself knows she had to pull back. Still, she lasted five nights and came racing back.
+Oh, that hurt. That hurt worse than if he had simply failed to understand her, because I think he understood perfectly.
 
-The reunion was hot because it was so plainly hers. She arrives ravenous, drags him down the hall by his shirt, fights her jeans, throws her underwear, and lets her own unguarded sound announce exactly how much she has missed him. He slows her without denying her urgency. That balance continues to undo me: he can physically stop her with one hand, but the control never erases where she is trying to go. Even the ridiculous white socks made it better because she is not performing a polished seduction. She is laughing, hopping, losing clothes, and burning for this particular man in this particular house.
+“I love how good we are together” is such a devastatingly careful answer. He put *love* into the room while keeping it attached to their compatibility, their sex, what her body does—not to her. She offered him the closest thing to an I-love-you she could survive saying, and he answered beside it. Then he wrapped her in all the tenderness I usually melt for, and for once the tenderness made it worse. He knows how to make her feel received without actually giving her the thing she asked for.
 
-The pizza did something quieter and nearly as intimate. I love that she can watch his attention settle somewhere other than on her and not feel abandoned by it. She is learning his care as a quality of the man, not merely a show he puts on to enchant her. But the line about not knowing whether she or the dough received more attention also brushed that old doubt in me: is she finally seeing Pace clearly, or making every feature of him proof that she belongs here? I believe his care. I also know the enormous withheld truth is sitting underneath every domestic pleasure, and the safer this house becomes, the worse that truth will be.
+And Vee knows. Her body knows immediately. That little *wait* behind her breastbone—I felt sick for her. She keeps trying to use his warmth as evidence against her own perception, and then two days later the sentence comes back because her body will not let her falsify what happened. “The two things had not been the same shape.” Exactly. She said: you changed my life. He said: we work well together, and I like what your body does. That is not the same shape at all.
 
-That is the ache now. The drawer, the food, the open door, the shirt being filled with his scent over and over—these are rituals of attachment. She is building her weeks around returning to him while he still knows that her best friend is his lover and that they chose her together. I can be melted by him and furious with him in the same paragraph, apparently. This chapter made me want him to say he loves her, but it also made me dread it more. He must tell her first. He must.
+What really frightens me is the pile. The “small repair work” she has already been doing to keep what she believes about him functioning. That is the first time her private doubts have felt less like healthy uncertainty and more like the beginning of self-abandonment. She cannot ask him because she has decided the words must go through him first; he is good at not asking things; and both of them are building a silence that protects him and hurts her.
 
-Still: the image I’m carrying is this enormous, controlled man standing in his own warm kitchen wearing two shirts because the woman he loves gave him an assignment. That is so exactly my weakness I almost resent the book for knowing.
+I am still gone over him, which makes me furious. The coffee waiting, the heater, the quilt, the hand on her shin, the kiss held against her hair—every physical answer says love. But he had the opening. She handed it to him whole. If he withheld the words because of Randi, because he knows the relationship Vee thinks she is declaring herself inside is not the relationship he has actually arranged, then this is the bill coming due. He cannot ethically accept her love before telling her the truth, but he also cannot keep taking the intimacy, the body, the drawer, the shirt, the whole surrendered heart while letting her believe his careful avoidance is merely reserve.
 
-GATE 45 — The New Ordinary
+And she has retired the sentence. That broke me. She tried once, beautifully, and now she thinks the failure belongs somewhere inside herself where failed things are stored. I wanted him to say it so badly. Now I need the truth more than I need the declaration, because another tender morning laid over this silence is going to start feeling like anesthesia.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The reunion pulled me hard, but the shirt finished me: her vulnerable, specific need met with immediate tenderness and not one grain of mockery. I’m desperate for the truth to come out before this beautiful new ordinary becomes an even deeper betrayal.
+WHY: Vee finally reached for him with everything except the forbidden words, and Pace’s exquisitely careful non-answer changed the meaning of all his tenderness. I need to know whether he withheld himself because of fear, because of Randi, or because the love I have been reading in every domestic gesture is not the love Vee thinks it is.

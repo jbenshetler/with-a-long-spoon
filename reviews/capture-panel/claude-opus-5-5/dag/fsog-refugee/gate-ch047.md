@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
 **REACTION**
 
-I didn't expect to get Randi from the inside, and now I can't stop seeing her.
+Sheri said it. Somebody finally said it to his face. "Then not saying it matters more to you than having her." Then she held his eyes until he looked down. I've been saying that line in my head since the door closed. I wrote "I'd make him say it first" in my own notes, and here's a five-foot girl with dark roots and too much makeup doing it for me over a chocolate shake. I loved her for it. And then she stole his fries, which is exactly right.
 
-At first I was impatient. The last thing I had was Vee crying in a buttoned coat with her bag still in the car, and the book took me to Gstaad: steak and eggs, a tennis bracelet, a stranger in the lift line. I wanted to know whether Pace texted. I still do, and the book hasn't told me. But then came "eating her revulsion" in the first paragraph, and "the invented ones were safer than the real ones; they always had been, at this table," and I sat up. Revulsion at her *father's* hug? I'm keeping that one. It reads like more than ordinary disappointment in a parent.
+What got me most was him doing the brick-on-brick thing out loud. "Every weekend, I'm there… I told her she was the most important thing in my life." The book lets him hear himself doing it and not be able to stop, "because every brick was true and the true things were supposed to come to something." That's the closest the book has ever taken me inside why he won't say it, and it isn't a power move. He honestly thinks the evidence should add up to the word, and he can't see that she wants the word because it's the one thing evidence can't give her. "She looked at me like I'd handed her half of something." He saw it. He *saw* her face. That hurts more than if he'd been oblivious.
 
-John is a perfect fairytale, and the book knows it. The lift-line game was charming. I laughed when the three made-up kids got names, and the skiing paragraph got me: he had the run to spare and spent none of it proving it. For about ten pages I was falling for him too, which I think was the point. Then she compares the dancing. Pace's lead is "the lightest pressure, a thing she'd had to be listening for… and it left the rest of the way to her." John's hand just *sends* her. She decides easier is better. Then John never asks where the night is going, and she likes not being asked, and "Pace made her say it, out loud, every time."
+"I want Vee. I miss her." Plain, no math in it. And "Her name is Vee" when Sheri goes "the redhead" for the second time. I melted a little at that. Same with the table under the glass: "Vee would either love this place or never see it at all, and he wanted very badly to know which." And "Here he could have heard her whisper. He wondered whether she'd let him." He's thinking about her the way she thinks about him at the stove. It hurts because she's in a twin bed in Ohio building a blonde out of spite, and the woman he actually cooked for is gay, just lost a girl named Paige, and thinks his food philosophy is ridiculous. I want to text Vee so badly: *babe, Sheri is NOT the blonde. She's into YOU. Your backside specifically.*
 
-That sentence is the whole thing for me. It's the consent I came to this genre looking for, and the book handed it to me through the woman who doesn't want it. It doesn't wink at John's assuming, either. Afterward the sex is a "good sandwich eaten fast," and she's cold everywhere except the one seam where she's touching him. A lipstick ring left on him "from a long way off." That was erotic and empty at the same time, and the emptiness was the point. I've read a hundred alphas who never ask. This book took one, made him faultless, and showed that what you get from him is nothing.
+"She find out about the brunette, then?" That landed like a dropped plate. Sheri knows there's a brunette, which means Pace has told *someone* the outside truth he won't tell Vee. "Not like that." Not like what, Pace? I wrote the last time that he won't lie and he won't tell, and here he is telling, just to the wrong woman.
 
-Then Randi lets herself admit things. "Pace on his worst night reached further than this man had managed at his best. She wished it wasn't true." And "Vee was her gorgeous." She says she has never told anyone she loved them without meaning it as currency, and with Vee there's no catch. I want to believe her, and I mostly do. But I've also got "somebody has to get her used to my mouth. It's *work*" in my notes, said on Pace's couch. So either that line was a performance for him, or this one is a performance for herself, and I honestly can't tell which. And her plan is to keep the word under cover and "let Vee arrive at it on her own." That is still steering Vee. It's just steering out of fear now instead of appetite, and I'm softer on her for it, and still wary.
+The opening scared me a little: "he would not bring her down today… long practice at deciding a thing could keep." Then Elvis, "home for Christmas" pressing a bruise, and "People who've never lost anything think grief is a choice." So "I don't go back" isn't estrangement, it's loss, or both. I'm guessing that's what's actually under "I can't." If so, I'll forgive him a lot. Not all of it.
 
-The texts broke me a little. Vee writes "i'm here if you want to talk. or not." Vee is the one who just walked out of Pace's house crying, and she's the one checking on Randi. Randi sends back the fairytale, "every word of it true. None of it the thing," then the one line she means, and turns the phone face down. Then she goes back and lies down in "the warmth she could borrow and could not make." The cold she brought in with her and would carry back out is the book's whole temperature system again: Pace turning the heat up hours early, Vee lying bare in her cold dorm room.
+He hasn't texted her the whole break, though, and the chapter doesn't make him answer for that. She was holding her thumb over the empty field at midnight, and he was out at a diner laughing. That's three chapters since they were last in a room, and I can feel it.
 
-At 1 a.m. I'd text: *the villain-ish best friend just went to bed with the perfect rich hot guy and the book made it the saddest thing in it. and Pace is in it without even being there.*
+Sheri's mouth about Vee's body made me wince for a second ("the one with the big tits"), then I decided it's how she loves him, and he blushed and talked about the philosophy anyway. He's a good man who can't do one thing. Sheri's right that from where I sit, it feels pretty shitty.
 
-What I miss: Vee and Pace haven't been alone in a room since the door closed, and now it's New Year's. I don't know what happened over break. I'm not panicking yet, because this chapter was about them anyway.
-
-GATE 51 — Fairytale
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Randi delicately clomped through the snow toward the lift queue": I realized I was getting a whole ski romance instead of finding out what happened after Vee walked out.
-WHY: The book took the man who never asks, made him perfect, and showed he's empty, and it let Pace's "say it out loud" carry the whole chapter without him on the page. I understand Randi now and trust her a little more, but I still don't trust her plan. I need to get back to Vee and to whatever has happened between her and Pace.
+ALMOST-STOPPED: "I can't." I let out a groan at it, but Sheri wouldn't let it stand, so neither did I.
+WHY: The book said my complaint out loud through the one character with no stake in flattering him, and it gave me the first real hint of what's behind his silence. He misses her plainly, and she thinks he's with a blonde. I need the term to start and the two of them back in one room.

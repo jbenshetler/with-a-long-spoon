@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
 **REACTION**
 
-I was not expecting the book to do this right after the doorstep and the breakfast. It's two people in a kitchen, her naked with her wine and him at the sink, and it's the best answer to December the book has given her.
+Okay, the one line in this chapter that sat me straight up: *"'It's late. Is everything alright?'"*
 
-She walked out of his house asking "what am I to you out there?" and he couldn't say it. Now, with his back to her, he says "I want to meet your people." It's the same man and the same refusal to use the word, but he's answering with "Believe what I do." Last time that line made me want to throw the book. This time it actually lands. He kept Meg's boots and her heel lifting out of the right one, and he handed back her own line about Kayla in his flat voice. I melted at "He had been listening. Not the polite kind." And then "Bring Theo," reaching for the next pan, no question, no jealousy. Vee feels it "settle in her, warm side down," and so did I.
+He didn't say that. I was there. He opened the door and said "Vee, I l—" and she cut him off with the coat. I'd half-forgotten that myself, buried under everything after. And now, telling her friends, she swaps in a polite, courteous Pace line that never happened. That isn't discretion, it's replacement. She's rewriting the one moment where he might finally have said the thing, and I can't tell if she even registered what she stopped. Did she hear "I l—" and decide it didn't count? Did she want to win so badly she stepped on the word she'd walked out over? That's the most interesting thing in three chapters and the book doesn't point at it. Good. Don't.
 
-Then the Chili's picture came back to her, the fork being squared. She asks him to pick the place and doesn't say why. She's protecting him from loud rooms without ever telling him she noticed. That's the grown-up emotional intelligence I came for. Same with the Cassie bit, refusing to build a dinner where one of her people has to be a good sport. "She'd watched somebody be fine about it before. She wasn't going to look at when." Who? Her mom? Herself at Randi's tables? I want to know.
+So now I count it: Cassie got the shrunken-sweater story, the girls get "we talked all night," and Randi will get "nearly everything." Every friend has their own version of the weekend. I flagged this months ago with the cropped photo, and now it's a habit, and it's cheerful, which is scarier than when it was anxious. "It sat on the table looking exactly true." Yep.
 
-Now my suspicion. He says "I want to meet your people" and her brain fills in *Randi*, with her friend's name "already on it." A dinner, "the three of us." He steers away from it right away, toward Cassie and Meg and a whole party. Is that because he's already met Randi a hundred times and can't sit at a small table with both of them and act? I think so. And she's sitting on "the lacquered seat of a chair he'd made," which is the seat from his drunk fantasy with Randi's feet on it. I noticed, book. I'm cold. "Let me handle it" is lovely and also a man taking control of a room where his two games meet.
+The brunch itself was fun. Kayla is a delight in small doses: "This is the last morning of my life and it's going to be peanut butter crackers." Shrieking "in front of *God*." Meg's heating-pad story made me laugh. I liked Vee picking up the check for herself with Christmas money and doing no arithmetic. That's her growing up, quietly. But Meg's "make it right in their language" and "that's a big apology" kind of bugged me. Vee didn't owe the apology. I don't love the book having the girls frame the coat as her saying sorry, and I really hope that isn't the book's own view.
 
-Also, I can't stop thinking about "Vee, I l—" on the doorstep two chapters back. She cut him off. He was trying to say it, and she opened the coat instead. Nobody has brought it up since. That's a bomb sitting on the porch.
+My real problem is this: 54, 55, 56. Kitchen talk, dorm talk, brunch talk. Three quiet chapters in a row, all warm, all likable, all people being happy in rooms. The first was lovely ("tables have ends"), the second had Cassie's mom and the card, and this one is basically the girls getting their invitations to the Wednesday dinner. I was skimming the middle for the next line of dialogue, and that's my stall alarm going off. Meanwhile the actual bombs are offstage: Brooke told Randi "You need to choose," Pace is "handling it" for a dinner with Randi and Vee at the same table, and Vee is planning to take the not-gross-maybe thing to Randi. That's where the book is. Get me there.
 
-This is a short, quiet chapter after two very hot ones, so it doesn't trip my stall alarm. It reads like a breath, and the last line has an engine in it. A party with Randi and Pace in the same room, both pretending they "said about nine words at the coffee shop." I'd text a friend: "HE WANTS TO MEET HER FRIENDS. and Randi's going to be there. I'm sick."
+Who's at Wednesday dinner, and what's Pace building? He wanted everyone. That might be love, or it might be cover. I want Randi's face across from him with Vee in the middle.
 
-**GATE 54 — Back**
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: It's a bridge chapter that's really two people talking, and it quietly answers her "out there" question with an action instead of the word. It also sets up a party where everyone who's lying will be in one room, so I'm reading on right now.
+CAPTURE: 5
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday"
+WHY: A charming bridge, but it's the third quiet room in a row and I felt my thumb speeding up. What keeps me here is the swapped doorway line, which is quietly huge, plus Brooke's ultimatum and a Wednesday dinner with all three of them at one table. If Tuesday's dinner with Randi isn't charged, I'm going to start bargaining with this book.

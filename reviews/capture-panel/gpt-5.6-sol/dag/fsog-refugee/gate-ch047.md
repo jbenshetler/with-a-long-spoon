@@ -1,32 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
 REACTION
 
-Oh, Randi. This hurt in exactly the place I needed it to.
+Oh, Pace. “She wants a declaration” is such a bloodless way to describe the woman you love standing in your doorway crying and asking what she is to you. And then he does it again with Sheri: answers the question beside the question, stacks up all the things he does for Vee as if enough true bricks will somehow build the missing sentence by themselves. I felt exactly what Sheri felt: don’t bullshit me. Vee did not ask whether he shows up on weekends. She asked what all that showing up means.
 
-For most of the chapter I was watching her manufacture a perfect life in real time—the stranger on the lift, the skiing, the dress, the staircase, the ball, the sleigh—and I could feel how desperately she wanted the arrangement to become feeling if she made every detail beautiful enough. The part that got me was not that John was secretly disappointing. He wasn’t. He was the absolute best version of the man she is supposed to want. And still he could only reach her body. “A faultless man asleep in a faultless room” is such a bleak answer to the whole fantasy.
+And still, damn him, the moment he thought Vee might love this quiet little diner—or might never agree to see it at all—I hurt for him. He misses her in every empty space. He wants to know how she would see the amber tabletop and the old photographs; he imagines her whispering where he could finally hear her. Then he talks about the air crackling when she enters a room and about her understanding the idea beneath his food, and there he is, saying love everywhere except in the one form she has explicitly asked him to use. He doesn’t merely desire her. He is fascinated by the particular mind inside her body. That is precisely why his refusal is making me furious instead of letting me dismiss him.
 
-I was wary the instant he assumed she would go upstairs. “She liked not being asked” made everything in me tense, because that is precisely the kind of sentence these books so often use to turn disregard into erotic authority. But Randi did choose: she understood, teased him, and went because she wanted to. More importantly, the chapter did not confuse his assumption with intimacy. The night can be pleasurable and consensually entered and still leave her completely untouched inside. That distinction matters to me.
+Sheri is wonderful. She likes him without wanting anything from him, which means she can take his careful self-explanation, turn it over once, and hand him the ugly truth: “Then not saying it matters more to you than having her.” Yes. That is the whole wound. Whatever stands behind “I can’t”—Randi, his history, terror, some private rule—he is actively choosing it over Vee. I needed someone he respects to make him look directly at that choice.
 
-And Pace. Of course Pace asks every time. Of course the labor of answering can occasionally feel less glamorous than being swept along by the fairytale. But the contrast lands brutally: John’s certainty moves Randi’s body beautifully; Pace’s attention finds the hidden person. “Pace on his worst night reached further than this man had managed at his best” made me ache, because now I understand more fully why Randi cannot let him go even while building a life designed to conceal everything he sees.
+But the brunette conversation chilled me. Sheri knows there is another woman; Pace knows Vee has not “found out”; and “Not like that” is another precision answer that conceals far more than it reveals. He is discussing Vee’s body and their rupture with someone who already knows pieces of the hidden arrangement, while Vee is alone believing she has no right even to ask where he is. I don’t think Sheri means harm, and her crude comments felt like the rough language of their friendship, but Pace allowing them while protecting the actual truth made Vee’s exclusion feel even larger.
 
-Then Vee, and that is where the ache turned into anger. Randi knows. She knows Vee says plain true things. She knows she could tell her. She knows the friendship would change because Vee would finally have something real to decide. And her answer is to preserve the relationship by denying Vee the decision: let Vee arrive on her own, keep the word under cover, keep receiving everything while risking nothing.
+Also: he decided before walking in that he would not “bring her down.” Bring whom down—Sheri? And what had he carried from the truck that could keep? That opening put a little cold hand on the back of my neck. Pace has compartments inside compartments, and I am done accepting “long practice” as romantic mystery. I want the contents now.
 
-That is not cowardice harmlessly contained inside Randi. It is the operating principle of the whole scheme.
+I would text a friend: *His lesbian country friend just diagnosed him over cheeseburgers in one sentence, and this impossible man can explain the philosophy of feeding Vee but still says he “can’t” tell her he loves her. I am going to shake him.*
 
-“Vee was her gorgeous” nearly broke me. Randi’s love is real. Vee really is the best friend she has ever had. That makes the concealment more tragic, but it does not make it tender. Randi even predicts Vee will be kind and will not cut her loose, yet she still cannot bear to put the truth in Vee’s hands. She would rather manage Vee toward the answer than ask her. That is exactly what I have been afraid of.
-
-And Vee’s text—God. She offers presence with no demand: talk, or don’t. Randi answers entirely in truths and still lies about the only thing that matters. “Every word of it true. None of it the thing.” That is Pace’s language too. Adjacent truths. Accurate sentences arranged to prevent Vee from seeing the structure. They are both doing it to her.
-
-I am more emotionally attached to Randi after this chapter and less willing to excuse her. I see the cold she carries, the life built as camouflage, the terror of being known, and the genuine love underneath the performance. I also see her consciously choose concealment because honesty might cost her. She understands the moral shape of what she is doing. She simply wants Vee badly enough to keep doing it.
-
-I would text a friend: “This woman has finally met the one person she loves without using love as currency, and her response is to turn honesty into the only price she refuses to pay.”
-
-GATE 51 — Fairytale
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “She found, tonight, that she liked not being asked.”
-WHY: The chapter walked directly onto my most sensitive ground, but it did not ask me to mistake John’s assumption for proof that he knew her; Randi knowingly chose the night, and its emptiness exposed the difference between confident handling and genuine attention. Now I understand her love and fear far better—and I need the book to return to Vee leaving Pace’s house and make these two stop protecting themselves with technically true lies.
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Sheri forced Pace to confront the exact truth he has been evading, and his description of Vee made his love unmistakable even as his refusal made me angrier. Now I need to know what “I can’t” is protecting—and whether losing her will finally matter more.

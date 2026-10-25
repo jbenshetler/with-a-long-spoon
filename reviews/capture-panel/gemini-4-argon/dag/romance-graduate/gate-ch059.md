@@ -1,30 +1,20 @@
-*capture-dag-v2-rich · gate ch059 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch059 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 REACTION
 
-Oh my god, this chapter was *so* intense and so astonishingly well-written. I was holding my breath right along with her when her fingers stopped an inch from her mouth. Look at how most romance novels write solo scenes: a quick, frictionless two paragraphs of "she thought of his abs and came." Here, we get the entire psychological anatomy of a twenty-one-year-old girl trying to unlearn twenty-one years of bodily shame in a hot, closed-up dorm room.
+Oh, I *loved* this chapter. After the absolute five-alarm, throat-tightening emotional and erotic nuclear bomb of Chapter 61 with Pace and Randi, this was the exact right change of weather—and somehow it made me fall even harder for Pace while giving Vee so much more room to breathe.
 
-The physical details in this scene are almost unbearably intimate—Shutting Cassie's two-inch window first so the radiator bakes the room; putting on Pace's flannel and leaving every button open; pulling two fingers out coated to the knuckles and rubbing thumb and finger together to watch the sticky strands stretch in the lamplight. And then that description of her actually smelling herself, braced for the gross high-school-boy jokes she's internalized her whole life, and finding instead *"a hothouse with its doors shut, the air around a tropical flower without its sweetness."* That is gorgeous, fearless writing.
+First of all, watching Vee arm herself in Meg's keyhole top, a borrowed mini-skirt, and Randi's induction stilettos in the middle of January to go do battle with a 5'10" imaginary blonde model, only to come face-to-face with five-foot-nothing, permed, bleached-root, loudmouth Sheri? Priceless. The moment Sheri gives Vee that slow, unapologetic, top-to-bottom queer appreciation look—stopping at the keyhole, taking her sweet time down the bare January leg, and landing on Randi's strappy black heels with a soundless, appreciative *oh*—and Vee just bursts out laughing because she realizes *she's not pricing me, she's enjoying me*... I was grinning like an idiot. And then Sheri turning to Pace with *"And you get to motorboat them things?"* and making Pace blush all the way into his ears! We've seen this man run a sexual high-wire act, dominate two women, and command a room, and watching him go red-eared and rub the back of his neck while Sheri roasts him about *"the philosophy of his food"* and *"bet those legs feel like Christmas"* did things to my heart.
 
-And what really made my stomach flip is *who* is in the bed with her mentally. Yes, it starts with Pace—his wet mouth, his lack of recoil, the way he looked at the plenty of her like it needed no pardon. But the catalyst, the permission slip, and the image that keeps braided right through the center of her arousal is *Randi*.
+And then the gut-punch in the middle of the laughter. Sheri dropping her volume as soon as Pace walks to the bar: *"Whole tablecloth come off the table and nobody caught a dish."* What a line. Her Marine dad, her brother, her mother, her church, her Bible study—all gone inside a month when she came out last March. And how Pace became her friend: driving her home from the dance hall in silence when she broke down crying mid-two-step, showing up the next morning with coffee and donuts, fixing her lock and her dripping faucet, asking her to ride bikes on Sundays, buying her a bacon cheeseburger, and never giving her one single fake platitude. Because *"went bad with his daddy. He hasn't been home since he was sixteen."*
 
-> *Had Randi's looked like this? Sticky too. Shining. Had she meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth? It was powerful. It turned me on.*
+Wait—*he hasn't been home since he was sixteen?!* And that's every word of it Sheri has after two years! And then Vee in the truck at the end, tipsy on hard cider, putting together the pieces: the porch she's never seen, the thirty miles of nothing, the dog he told her about earlier—wait a minute, if he hasn't been home since he was sixteen, what was the Thanksgiving story about thirty miles of nothing and a dog? Or was that from before he was sixteen, or where he went *after*? Either way, watching Pace hold his headlights on Sheri's duplex door until the porch light comes on, and Vee realizing *"It read as affection. It worked as ballast. With him, she was coming to understand, those had never been two different things"*—ugh, this man. Even knowing what he and Randi were doing forty-eight hours earlier, you cannot doubt for one second how deeply, genuinely good he is to the people he keeps. Plus, Valentine's Saturday at the country dance hall is officially on the calendar!
 
-Vee is literally lying in her bunk, fingers shining with her own wetness, wondering what *Randi's* wetness looks like and what it looks like on Randi's fingers or mouth! The line between "I want to be brave like Randi" and "I am thinking about Randi's wet fingers while I touch myself" has completely dissolved, even if Vee still hasn't named what's happening to her.
-
-I also loved that she *couldn't* quite close the distance to her mouth yet. It felt so psychologically true. Twenty years of installed shame doesn't vanish in one night just because your friend said it was hot over wine. Stopping a breath's width away, wiping her hand on the sheet, coming hard with her mouth open in the hothouse air of the shut room, and then having to get up and shove the window back open before Cassie comes home from the basketball game—only to lie back down, find the cool wet patch on the sheet, settle her hip directly over her own mess, and end on:
-
-> *A mouth carrying it back. Or Randi's own fingers.*
-> ...
-> *Her mouth was still empty.*
-
-That last line! *Her mouth was still empty.* That is a promise. She didn't cross the line tonight alone in the dark, which means that line is still waiting to be crossed—with Pace, or with Randi, or both.
-
-GATE 60 — The Reach
+GATE 62 — Another Round
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the exact blend of explicit, unblinking eroticism and deep psychological interiority I read for—watching Vee confront her own body's "excess" and nearly taste herself while her thoughts braid Pace's mouth together with Randi's wet fingers was mesmerizing. And the restraint of having her stop one breath short leaves that tension coiled tight for what comes next.
+WHY: Zero explicit sex needed when the character work is this rich and funny and devastatingly tender. Sheri is a triumph of a character on arrival, the comedy of Vee's imaginary blonde evaporating into thin air was pitch-perfect, and learning how Pace showed up for Sheri after she was disowned (and that he hasn't been home since sixteen!) deepened their bond immensely.

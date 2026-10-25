@@ -1,22 +1,31 @@
-*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. So I'm in bed with this one at 1 a.m., and the honest first thing is that I *recognized* it. Breasts in the palms, one in each. The nipple caught between finger and thumb and rolled slow, then pulled. "Made herself take the long way." Outer lips first, "slick enough that her fingers moved without a catch," gather the wet, bring it up, circle. That's the mirror scene from chapter 52, nearly word for word. Eight chapters ago she was in front of the closet door in Randi's heels doing exactly this choreography. My whole complaint about the genre is sex scenes I could recite from memory, and here I literally can. Maybe it's on purpose, her body has one script and the book is showing me the rut before the break. But the first half felt like a rerun, and this is her third solo scene in nine chapters: the mirror, the restaurant stall, and now the bunk. My stall alarm went off right on time.
+Okay. *This* is what I asked for at the end of my notes: a new room, new bodies, and someone saying a true thing out loud. I got Sheri, and I'd follow Sheri into a burning barn.
 
-Then she pulled her fingers out and looked at them, and the chapter turned into something I've actually never read. The strands bridging thumb and finger. The amount itself as the shame ("the shameful plenty of her made visible again"), which is the stripper's-body wire, the too-much-of-her wire, coming at me from a direction I didn't expect. Smelling herself and getting ready for the stink the boys' jokes promised, and finding a hothouse instead. I've read a thousand heroines tasting themselves off a hero's mouth as a sexy beat. I've never read one fail to do it alone in her dorm with nobody watching, stopping a breath short with her lungs hurting and "Nothing in the room told her why." That's a real woman. That's interiority on the body, which is the exact thing I came to this book for. Wiping it on the sheet, then going back and lying in the wet spot on purpose, "Her mess. Hers to lie in." And "Her mouth was still empty" as the last line. That one got me.
+The first section had me furious with Pace in the old way. "We cycle." "She dances." He hands those over his shoulder at the sink "like a dried spoon," and he glances back and takes in her face "the once" before he turns back to the pan. After 61 I don't believe this man does anything without knowing he's doing it. He saw the cold go through her and let her carry it for a week. Then she buckles on the induction heels as armor, Randi's shoes again, against a woman she invented, and I wanted to shake her and hug her at once.
 
-What I'm side-eyeing is Randi. "Had Randi's looked like this?… Or her own fingers, lifted to her mouth?" It's the first time Vee has pictured Randi's body sexually and let the picture stay. The book has been setting this up since the composites kiss. I want it, I've wanted it for forty chapters. But I could feel the hand on the dial a little. The neck kiss, the "ticklish," "I don't," and now the fingers are all lined up and pointing the same way. Also, wait, where did "Not greedy. Hungry out loud" come from? I don't remember Randi saying that. Either it's from before my notes start or the book is slipping in backstory. Either way, Randi's voice is now living in Vee's bed, and Pace is just the face she comes to.
+Then Sheri gets off the stool and the blonde "fails to find anywhere to stand." I laughed. The look is the best thing in the chapter. It travels down Vee, stops at the keyhole, stops again at the feet, and lands on a held *oh*. Vee realizes it's *enjoying* her, and a month of dread leaves her body as a laugh nobody prompted. That's the queer thread waking up through someone else's eyes, and the book doesn't explain it. It just lets her laugh and stick her hand out "formal as a church greeter." I loved that.
 
-And the thing still eating at me from chapter 52: he started to say it. "Vee, I l—" on the doorstep, and she cut him off with the coat. She has never once thought about it since. Neither has the book. Brooke gave Randi an ultimatum, Vee lied to Cassie about the sweater, and Randi still owes Vee the truth about the scheme. Every live wire is sitting there, and this chapter spent its whole length on one bed and one window.
+"And you get to motorboat them things?" I screamed. Then Pace blushes for the first time in three books, up into his ears, and suddenly he's a person and not a strategy.
 
-Text to my friend: *"she almost licked her own fingers for like a full paragraph and DIDN'T and it was weirdly the most intimate thing in the book. also I think she's about to figure out she's into randi via her own hand. also it's the third time she's masturbated in 9 chapters and I can recite the choreography."*
+Sheri's coming-out story wrecked me a little: "Whole tablecloth come off the table and nobody caught a dish." So did donuts and a fixed lock instead of "they'll come around." And then the father and "hasn't been home since he was sixteen," handed over in one flat line with nothing propped around it. Pace gets more interior in this chapter than in the last ten, and all of it comes secondhand from a small loud woman with crooked makeup. That's smart. He keeps his hands where the dance puts them. "The whole hall's given up on him." He holds the headlights on her door until the porch light comes on. I'm softening on him again and I resent it.
 
-GATE 60 — The Reach
+But I just read 61. Randi on top of him saying "She looks at you, too," and now within the week he's walked Vee into a room with a gay woman who checks her out down to the straps. Is he running an experiment? Curating her? Or is Sheri just Sheri? I honestly can't tell, and that's the good kind of not knowing. The dramatic irony is thick enough to stand a spoon in. Vee thinks "the one person he tells things to" is Sheri. She has no idea about the other one.
+
+Gripes, quickly:
+- The timeline is mush. "Two nights after the roadhouse," then "Saturday," then "the week ahead of her," and the header says Jan 23. Is that the dinner or the taproom?
+- I remembered the heels as Randi's own stilettos. Now Randi bought them at a boutique for the induction. Maybe that's my memory, but I flagged it.
+- "It read as affection. It worked as ballast… never two different things." The book is explaining itself to me again. Sheri's speeches also run a little long.
+
+None of it mattered much. That was a real night out with real people, and I'm actually excited for Valentine's at the hall: Sheri, Pace, a Brooks and Dunn cover band, and Vee bringing her opinions.
+
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 5
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "She caught one between finger and thumb, rolled it slowly, then pulled until the bright ache ran down through her," when I realized I'd already read this exact sequence in the mirror scene.
-WHY: The reach and the stop are original, true, and hot in a strange way, and the wet-spot ending earned its last line. But it's the third solo scene in nine chapters, opened on recycled choreography, and it moved nothing between people while the doorstep "I l—," Brooke's ultimatum and the scheme all sit untouched. I want a scene with two bodies in it, or I want somebody to say a true thing out loud. One more chapter of Vee alone with her own hand and I'm skimming.
+CAPTURE: 8
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "He considered it with the pan in his hand, a man asked to describe a country he'd lived in for years." That's the opening at the sink. For a page I was afraid this was another quiet dinner-and-retelling chapter.
+WHY: Sheri broke the pattern I was dreading, and her look at Vee did more for the Randi thread than three restaurant dinners did. Pace got a past and a blush. Coming straight off 61, I'm a little scared he's steering Vee, and that suspicion is pulling me forward more than the warmth is. I'm a notch below "right now" only because the chapter ended full and contented, so nothing is yanking me to the next page.

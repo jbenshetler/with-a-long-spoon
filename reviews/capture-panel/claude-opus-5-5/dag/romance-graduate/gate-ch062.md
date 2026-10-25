@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch062 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch062 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I'm wrecked, in a quiet way, which isn't what I expected from a chapter called "Hangover."
+Okay. I came into this one with my arms crossed. My own notes say one more solo scene and I'm skimming, and here's Vee alone on a table, with Tuesday's booth dialogue pasted back in front of me *word for word*. "Oh, you're going to *love* it," Sondra, Draper Street, the fish eaten to the middle, the fork laid across it. I read all of that four days ago, book-time and real-time. That's where my thumb went to the corner of the screen. The book doesn't trust me to remember a conversation from the last chapter, and that's the explaining-itself thing I hate.
 
-The first page got me before anything happened. The water glass on a folded paper towel so it wouldn't mark the wood. The undershirt pulled down over her head. The kiss on her forehead "after he thought she was already gone." Then the bread. A man baked cinnamon raisin bread from scratch while she slept off three ciders. I've read a hundred morning-after scenes where the hero brings coffee and a smirk, and this one made the care feel like labor she didn't see, which is what care actually is. "She hadn't done one single thing for herself since the third cider." That line got me.
+Then Sondra said "Don't move" and I forgot I was annoyed.
 
-Then "My one friend. There isn't anyone else." I put the Kindle down for a second. I didn't see it coming, and it's built out of things I already had: the man who works a room like Randi, who has everyone at the roadhouse standing taller. Of course he does. It's a skill he learned standing outside the room. The competing-boys explanation, "the window opens once," "that door's on a timer," and the Christmas questions with "a gap under it" all felt like a real person explaining himself, not an author handing me a wound. "Either weren't safe or weren't welcoming," and no name. Good. And her not saying sorry, just crossing the kitchen and hugging him the way Sheri did, "whole weight committed": that's the book using its own furniture right. The ending with no comfort offered, just the bread cooling, is the kind of scene I tell people I want.
+That passage about the wrong hand is the best thing the book has done with Pace in a while, and he isn't even in the room. Her body "knew that grammar." A stranger's palm pins her exactly the way she's learned to want, with "everything true scooped out of the middle," and it opens "a hole in her a mile across where the right hand should have been." That's what I'm starving for. It isn't a sex scene and it's hotter than half the sex scenes I've read this year, because it's about *who* the hand belongs to. And she keeps it all behind her teeth "where it belonged to him." God. The girl who said sorry to furniture saying "*Fuck—*" out loud to a stranger. The mother's kitchen voice: *the kind of girl who.* The jeans folded over the underwear "where it couldn't be seen." That's a heroine with an inner life, every inch of it.
 
-Now the 1 a.m. text: *HE SAID "MY ONE FRIEND" AND HE WAS INSIDE RANDI TWO DAYS AGO.* Chapter 61 is sitting right under this one. Randi rode him while talking about Vee's breast, and told him "she's not the only one in love." And Vee, in her head, lists Randi among her own riches and thinks of Pace, "No Randi to bring it to." I actually said "oh no" out loud. Either Randi doesn't count as a friend to him, which says something chilling about what she is to him, or he just lied to Vee's face in the most tender scene they've had. Either way the dramatic irony is huge, and it's the good kind. Also: "a five-foot woman who could never want him — the only kind the world had ever quite let him keep." Honey. The other one wants you plenty, and she wants your girlfriend too.
+And then the floor drops out: "Roll over for me, hon." I actually said "oh no" out loud. *The part Randi hadn't said.* Randi, who got Vee to say her name in the first sentence of the phone call. Randi, whose waxer this is, so Sondra knows Randi's body. Randi, who said "barely stings." Did she leave it out to spare her, or to have her arrive exactly this open? I don't trust a single omission from that woman anymore. And I'm side-eyeing Pace too. "I'd like you waxed. By the weekend. Bare." Since when does he have opinions about this, and whose body taught them to him? Chapter 61 is sitting in my head like a stone. I know what that bed looks like on Thursdays.
 
-And Vee's "I don't have to be jealous," tried out over the eggs, "held from every side." Sure, it held. You're pointing it at the wrong woman. Plus "I liked it, honestly" about Sheri's look. The waking thing is waking, and she's filing it under comedy.
+What gutted me in a quieter way was the "yes" paragraph. She fills the place where the reason should be "every time, with *yes, yes, tell me when*," and she's already "so far past every line… another line seemed like a joke, a thing for a girl who had any lines left." That's the blurb's "daring itself becomes the thing she craves," and it's also a little frightening. I'm cheering her on and wincing at the same time. I'm worried she's handing over the steering wheel and calling it nerve.
 
-Gripes. The middle sags under Vee's rumination. The freshman-year paragraphs, the dorm carpet, the lecture hall, the campus empty at Thanksgiving: I got it the first time and the book kept going. And "He set it in good order and the good order was the tell" is exactly the book explaining its own subtext to me, which I hate. The Daphne passage made my stomach turn. "The ugly grown-up word" she keeps pressing down is grooming, and the anthro lecture already wrote that word on the board in chalk. I believe the book means it, and it's heavy. I'm not sure I wanted it served with eggs. Also, she's already rehearsing the Tuesday retelling for Randi. If chapter 64 or 65 is the booth with the jukebox again, I'm skimming.
+The ending landed: her own hand, a sound that was "not one of pain," and "the most expensive thing in the room, and no one in it knew but her." Now I have to watch him find out.
 
-Structure check: 61 was explicit, 62 was a new room with a new person saying true things out loud (exactly what I asked for), and 63 is two people talking. That's my favorite kind of scene, but it's the second chapter in a row with no charge. I'm still in. I need heat next.
+What I'd text a friend: *She got a Brazilian and it was the most erotic thing in 10 chapters and nobody touched her on purpose. Also Randi set her up, I'm sure of it.*
 
-GATE 63 — Hangover
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 6
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "He set it in good order and the good order was the tell." That, plus the freshman-year rumination right after it, where I started skimming.
-WHY: "My one friend" is the realest thing Pace has said all book, and it detonates against chapter 61 in a way that makes me need to see Randi's face when Vee tells her. But that's two quiet chapters in a row now and a fourth booth retelling is coming. The book owes me bodies soon.
+NEXT: 8
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: "Tuesday, up in the loft — the corner booth, the end of the red, the jukebox going somewhere slow below them…" It's the whole booth scene again, nearly verbatim, a chapter after I read it.
+WHY: A fourth solo/retelling-shaped chapter should have lost me. It didn't, because it's a new room, a stranger's hands, and the "wrong hand" passage is real desire with real interiority. I'm hungrier for the next chapter than I was absorbed in this one: I need Pace's hand finding her bare, and I need to know whether Randi's "barely stings" was a kindness or a move.

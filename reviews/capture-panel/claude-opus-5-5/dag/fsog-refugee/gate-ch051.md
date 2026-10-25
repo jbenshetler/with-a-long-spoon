@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1e04263f57c9 · 2026-10-12*
+*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
 **REACTION**
 
-"Vee, I l—"
+I'm smiling, and I don't fully trust that I'm smiling.
 
-I put the book face down on my chest and said "NO" out loud to an empty room. He was going to say it. After all those chapters, after the Daphne chapter and the whiskey and him sobbing over a truck that didn't turn in, he opened the door and the word was already in his mouth. And she cut him off with a button, because Randi told her words are the whole war. I know he was about to say it and she doesn't. Maybe she does, on some level, and she just didn't want to hear it out on that step. The book never tells me whether she noticed, and that's going to bother me for days.
+The kitchen is the reason I came to this book. She's naked on the chair he built and running on at his back, and he's got his sleeves rolled. Then he hands her own line about Kayla back to her, and remembers that her heel came up out of the right boot on the mountain. I melted at "Your heel came up out of the right one when you pushed off." That's the man I keep saying I want: attention as devotion, nothing performed, just kept. He's been storing her small news on a shelf all fall. "Believe what I do" finally looks like something here, because asking to meet her people is a doing that sounds a lot like the word.
 
-The coat plan was Randi's. "You don't do it with words." Randi handed her the script, handed her the shoes, sent her out to settle this with her body. That's the one way to settle it that leaves the frame untouched: nobody names anything, nobody asks what anyone is to anyone. I'm not saying Randi planned to stop the word. I think she partly meant it kindly. But it served her, and the shoes on Vee's feet in his house are hers. Then he says "Those stay on," and he's looking at Randi's heels on Vee. I felt that one in my stomach.
+Theo got me too. She braces for the jealous question and it never comes. "Bring Theo," and he reaches for the next pan. No possessiveness, no little test. Then she gets to look after him. The Chili's picture comes up on its own, the fork squared and squared again, and she gives him the choice of venue without making him ask. That's care going both ways, two people who've each learned something about the other. "Tables have ends. Somebody ends up at one" is very him, and so is her refusing to build a dinner where one of her people has to be a good sport. She's growing kinder and sharper at once.
 
-That said, the chapter itself got me, and I'm not going to pretend otherwise. The mirror scene is exactly what I came to this genre for and almost never get. Her desire is hers, from the inside. She takes the weight of her own breasts and finally understands why he never wants to leave them. Her mother's word turns up and finds nothing to hold on to. She stops herself before she comes, on purpose, and feels powerful about it. Nobody did anything to this girl. She chose all of it, in her right mind, and carried it out to him. The bra drawer closing on "everything not invited tonight" made me laugh. Kayla's laundry report while Vee stands there bare under the wool is pure comedy, and I loved her for it.
+Here's what I'd text at 1 a.m.: why does he want Randi in a room with her? I know about the couch. I know about the quad. I know he's been picturing three people in his kitchen in the morning, adding to it for weeks, sheet and honey and feet up on the lacquered seat. And now he's asking for "her people," steering it big and casual so it doesn't read as a setup, and ending on "Let me handle it" with a happiness he won't let out. That could be a man who misses her and wants into her life. It could just as easily be him building the room. Probably both, and that's what scares me. With Vee everything he does is real care. The frame around it still isn't hers to see.
 
-The cop siren was the one moment that tipped toward farce for me. I rolled my eyes, then laughed anyway, then she pulled over shaking and I forgave it.
+And the word. She got her apology, the pancakes, his voice cracking on "I missed you so much." She didn't get "I love you," and she's stopped asking. He knows he loves her. He worked it out over the whiskey and Daphne. He still hasn't said it to her face. Going to her friends instead is lovely, and it's also a sidestep. I'm keeping count.
 
-The doorstep was everything I wanted. The wall in his face comes down all at once. "Like a starving man, and like a man just told he is forgiven, and the two were one look." Her yes was the open coat, about as unmistakable as a yes gets, and he still went slow, mouth at her throat and collarbone on a freezing porch. The door banging in the wind with neither of them moving to shut it. Three hobbling steps toward the bed with his jeans around his thighs, then giving up on the couch. Graceless, which is exactly what they were that night, and so hot. Afterward his head on her breasts, keeping her lit and asking for nothing. Then he got up, shut the door, tucked a blanket around her and made pancakes from scratch at midnight. "Those stay on" is the dominance I want: one quiet sentence, she blushes and leaves them on, and nothing about her disappears under it.
-
-Then he goes down on one knee by her chair, voice cracking: "I'm sorry. I never meant to hurt you. I missed you so much." It's lovely, and it's still not the word. And she's so full she has no room to want what he didn't give her, "tonight." That "tonight" is doing a lot of work. The book knows it's a truce and not an answer. The word is still out there, one syllable from being said, and she's the one who put it back.
-
-And somewhere across campus Randi is holding a cold, empty mug with Brooke's "you need to choose" in her ears. Meanwhile Vee is walking home in his sweats and Randi's heels like that's nothing at all. Cassie's "Hmm" was perfect.
-
-If I texted a friend at 1 a.m.: "HE WAS GOING TO SAY IT AND SHE UNBUTTONED HER COAT OVER IT."
-
-GATE 55 — Nothing Underneath
+**GATE 57 — Back**
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car" (the one beat that felt like sitcom, and even that only for a second)
-WHY: Her desire was hers from start to finish, and his care held even while he was wrecked with wanting her. That's what I came back to this genre hoping to find, and the reunion earned every chapter of that gap. NEXT is a notch under CAPTURE only because the reunion settled the night without settling them. The cut-off "I l—" and Randi's shoes still being on her feet are the reasons I'm still turning pages.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A quiet kitchen chapter full of real attention. The boots, Kayla's line, "Bring Theo," and her looking after him over the noise are the tenderness I read for. I'm keener for the next chapter than this one held me, because "Let me handle it" sounds like Pace setting a table, and I need to see who's at it.

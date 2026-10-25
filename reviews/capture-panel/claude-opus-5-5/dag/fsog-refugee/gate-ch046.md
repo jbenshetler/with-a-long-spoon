@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
 **REACTION**
 
-Oh, *Vee*.
+Oh, Vee. The two texts crossed, and I had already read the other end of them. Last chapter I watched Randi type "fairytale" with the lipstick still on John and the cold lying beside her. Now I watched Vee get it under the little gold swimmers and turn it into a billionaire and a weekend so wild she wouldn't recognize half of it. "Every word of it true. None of it the thing." And Vee bought the whole thing and felt grateful that Randi made the time. I wanted to reach into the book and turn her phone over for her. Both of them were lying in the cold that night, six hours apart, each sure the other one had the warmth.
 
-She sat in the car making herself feel the wanting all the way through before she went in, with her coat buttoned to the throat and that coin taste in her mouth. I've been that girl in the driveway. I knew how the chapter would end before she reached the door, and I still read the rest with my hand over my mouth.
+The part that got me was the fra diavolo memory going wrong while she was inside it. She reached for her best night to warm herself up and her imagination took it away from her, put a blonde in her sheet and Pace smiling at someone else. I've lain awake like that, and it's exactly how midnight jealousy works: your own good memory turns against you. "She could not keep her own night." That hurt.
 
-He said it. "You're the most important person in my life." I've waited fifty chapters for that man to put words on a feeling, and he finally said something that big, flat and plain, and she went right over it: "But what am I?" She couldn't hear it, because it was an answer about the inside of the house and she was asking about the outside. And I know why he can't answer the outside. I sat on that couch in chapter forty-three. I know who was folded over the back of it. When he says "Do any of your friends have a relationship you'd rather have than this one," that isn't a dodge for him. It's literally the only honest thing he can say without saying *Randi*. He won't lie to her and he can't tell her, so he hands her the closest true thing, which is a math answer to a heart question. Then "Words are cheap. Believe what I do." That's his whole religion: the drawer, the shirt worn over a shirt, the heat turned up hours before she comes. I've been preaching it for him in my own notes. And she turned it into a knife. "Words are cheap, and you still won't spend them on me." God. I'd text that line to someone at 1 a.m. with nothing after it.
+I'm angry at Pace again, and this time it's with her, not just for her. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." Yes. The no-chase at the door felt like respect two chapters ago. A whole week of silence over Christmas feels like something else. Giving someone room is a kindness when she asks for it, and she didn't ask for this. A text would have cost him nothing. One word. He's the man who turns the heat up hours before she arrives, and he's let her lie in a cold room for a week. I know the book is holding him offstage on purpose. I can feel it doing it, and I'm counting. This is two chapters since they were last in a room together, and that room was a door closing.
 
-The arms folding scared me. It's the wall again, the same flinch she poked on the Friday she pantsed him. For one second I thought he was going to go cold on her, the way she accused him of after Chili's, and then I'd have had to decide what I thought of him. But he didn't. The moment she cried, the cold went out of him and his hand came up. And I loved her for "not the hand in place of the word." She's right. That hand is how he answers everything, and tonight it's the wrong currency, and she knew it and refused it. And he said her name once and let her go. He didn't grab her and he didn't follow her down the steps. I left three subgenres behind because men in them did follow, and the book wanted me to swoon over it. This one let her no be a no, at the door, at the cost of his own evening, with the wine already poured. That's the thing I came here for, and it broke my heart a little to get it like this.
+The scissored photo got me too: "Same picture, one house, and she was the one who had divided it." She cut it herself, before anyone else had to. Then there's the little moment where she knows whose money paid for Gstaad and envies the mountains anyway. That's honest, and I liked her for not pretending to be better than that.
 
-What I'm sick about is how much she doesn't know. She thinks this is about whether he loves her. Part of it is. But the real reason there's no name is sitting in a low green Mercedes, and she's going to drive to *her* for comfort. I'd bet money she's in a booth with Randi by Saturday, and Randi will be warm as a bath about it. Two chapters ago that woman said "God, I want her" into the back of his couch and then took it back. The table with three chairs just got a lot closer, and Vee is going to walk up to it crying. That scares me more than anything Pace did tonight.
+Two things knocked me out of it for a second. One was the "you burrowed" in the very first sentence, which read like a slip. The other was "a stripper's" about her own body. I understand it's what she thinks of herself at midnight, but it stung, and I'm not sure the book knows how hard.
 
-And underneath all of it: they were alone in a room again, finally, after the cold dorm night. It lasted two pages and it was this. If this is the end of the volume, it's the door closing, and it earned it. I'd have bought the next one before I slept.
+What I'd text at 1 a.m.: *they sent each other the SAME lonely night and both thought the other one was at the ball. And he still hasn't texted her. I'm going to scream.*
 
-GATE 50 — Believe Me
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none. The nearest I came was "Words are cheap. Believe what I do." and it made me want to shake him, not close the book.
-WHY: He finally said the biggest thing he's got and it was the wrong size for the question, and I know exactly why he can't say the right one. She refused his hand, he let her walk out without chasing her, and now I'm terrified of who she runs to.
+ROMANCE: 2
+ALMOST-STOPPED: "a fashion model's body where Vee's was a stripper's" — it pulled me out for a beat and left a sour taste.
+WHY: A quiet, lonely chapter, and it pulled me in mostly through the crossed texts and the memory that turned on her. What I want right now is term starting and the two of them back in a room, and I want him to be the one who reaches first. I'll give the separation one more chapter on credit, but I'm counting.

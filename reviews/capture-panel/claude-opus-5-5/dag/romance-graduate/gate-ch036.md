@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. Chapter 36 was a quiet one, and now 37 is a quiet one too. That's two in a row, and I felt my thumb start to drift toward checking how long this one was.
+Okay. The first half of this chapter nearly lost me, and then the second half grabbed me by the collar.
 
-But the writing is real. "Her arms feeling like they belonged to somebody generous" is a line I'd underline. I liked "Any more than she had ever once decided the second verse of a hymn," too, because it's Ohio church-basement Vee coming up through the water. And I liked the way the questions wore down lap by lap, *Do you love him* and *did he mind* and then *him, and the ache, and the count*, and then only the count. That's exactly what hard swimming does to your head. I've done it. It never answered anything, and that was the whole use of it. Okay, book. I'm with you.
+"We have so much sex, Randi." "Two, three. And then there's mornings… and afternoons." That stretch reads like a recap of the last eight chapters, told to someone who'd skipped them. I don't need the highlights reel. I was there for the bet, I was there for the photo, I was there for the lemon chicken. When she got to "he changes it up the whole time, fast then slow then some way I don't have a word for," I felt my thumb twitch, because that's the coy, catch-all kind of line I left KU to get away from. I read it, but I was skimming for Randi.
 
-Then the four strokes. *Whether he was that good or she had made him that good, out of wanting.* That made me sit up. It's the first time Vee has let herself doubt him even for a second, and the book gives it four strokes and then the wall comes and it's gone. I'm suspicious of how fast it went. I think that thought gets planted here and comes back with teeth. Is he that good? He folds his whole self into one drawer for her. He also tells Randi everything. Both are true, and Vee can only see one of them.
+Then "You're just finally hungry out loud." It's the jacket line, word for word. Part of me went *oh, there's the back cover*, and the line felt a bit staged. The other part of me noticed it was aimed straight at the sex-pervert question, and I hate how well it works. That's Randi's genius. She doesn't lie to Vee. She tells her the exact truth Vee needs and charges her for it.
 
-What's quietly cruel is the drawer. I already know he gave her the top drawer, because chapter 35 jumped ahead to the next Friday. So I'm watching her chew on "did he mind" through seventy-five minutes of laps, and I know the answer, and she won't find out for three more days. Is that on purpose? I think it is. I'm a step ahead of her again, which the jacket promised, but this time it's in the sweet direction for once. I did notice the counter mess turned into "hairbrush and earrings and book" when I remember brush, pins, and bottles. Small thing. I clocked it anyway.
+And then the moment that actually stopped my breath: "Like he wants *me*. With the body attached." And Randi says, low and not quite even, "It doesn't." That isn't technique. That's Randi's own wound, the one I've been begging to see since chapter one, finally showing through: the egg-white mother, the size seven, whatever it is. For one second she isn't steering anything. She's a woman hearing about something she wants and has never had, from either of them. Then she pulls herself back up and asks about the playlist. God. I'd text my friend: *Randi cracked. ONE line. I'm unwell.*
 
-The suit with "nowhere left to go on her," right after the last chapter told us she's been shrinking. Hm. Either the book forgot or she's still seeing the old body. I'm choosing to read it as the second one.
+The photo is the knife. Six days ago, naked in his bed, Vee said "Only if you promise you'll never share me with anyone," and Pace said "Never." He kept his promise, and she's the one who broke it, in a booth, to the one person on earth she shouldn't have shown. And Randi worked her like a lock. First she was disappointed: "these are *dusty*." Then she backed off: "You don't have to show me." Then the sting: "you only gave him *half*?" Vee's pride did the rest, and the full uncropped photo went into Randi's hand. "Showing him your toes, eh?" Randi and her feet. That photo is in Pace's bed within a week, guaranteed, and he'll know the only way Randi could have seen it. Either that's the crack where it all breaks, or Pace pretends he didn't hear it, and I can't decide which is worse.
 
-What I actually want: it's been three chapters since Randi licked that glaze off Vee's lip, and nobody has picked that up. I want Randi in Pace's bed with "sticky fingers" in her mouth. I want to know if he's told her about the bet. A swim chapter is a breath, and I'll take one breath. If 38 is a third quiet one, I'm going to start skimming for dialogue.
+The goodbye kiss. VEE leaned in. Vee took the extra second. "She noticed it, and decided it was what she wanted, and didn't bother about it again." That's the line I've been waiting for since the practice-room hug. She's not calling it friendship in her body anymore, just in her head. And Randi holding her eyes "a beat past what a goodbye needed" is the second time this chapter Randi's mask slipped.
 
-GATE 37 — Strokes
+Gripes for the tally: "softer than the plan called for." I KNOW there's a plan, book. The jacket told me, and the whole structure tells me. Don't nudge me. And "Vee took it for the ordinary pleasure of a plan made" explains the irony as if I couldn't see it. The yolk running everywhere, "the middle, when it goes everywhere," is a little on the nose, though I laughed. The Anthro class is a great move: Tuesday and Thursday nights, "just us," no Cassie. That's Randi taking school nights off Pace. The tug-of-war is now a calendar war, and Vee thinks she's the one who suggested it.
+
+Also, Vee is paying with her card again and tipping well. Mimosas, Benedict, the shoes. The bill is coming.
+
+GATE 39 — All the Time
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "She swam the set out." That's the point where I realized nothing else was coming and this was a whole chapter of laps.
-WHY: It's beautifully done and honest about her body, and the four strokes of doubt about whether she invented him are the real payload. But it's the second quiet chapter in a row, with no heat and no Randi, so I want the next one more for what it owes me than for what this one gave me.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Two, three. And then there's mornings… and afternoons."
+WHY: The sex rundown is a summary of things I already lived through, and it sagged badly. But Randi's "It doesn't," the broken photo promise, and Vee being the one who wouldn't end the kiss are three real turns in one booth. My NEXT is higher than my CAPTURE because the photo is now a loaded gun, Anthro just gave Randi two nights a week, and I need to see Randi carry that picture up the hill.

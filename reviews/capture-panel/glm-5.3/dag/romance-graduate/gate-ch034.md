@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch034 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 42df1ce07fbc · experiment merge-school · dated · 2026-10-25*
 
-REACTION — Okay, I need a minute.
+REACTION — Okay, so this is the quiet one after the drawer chapter, and I clocked that going in — two low-heat chapters back to back, and by my own rules I should be getting itchy. I'm not, quite, and I want to be honest about why. It's not the heat, it's that nothing here felt like throat-clearing. The pool chapter is doing the thing this book keeps doing to me: taking the scene everyone else would skip and making it the actual scene.
 
-That last section did something to me that chapters of explicit sex in other books have tried and failed to do. He emptied his drawer. He took his own careful, squared-to-the-edge, blades-in-ranks life and *compressed it into one drawer that was built to hold half of it* so that her scrunchies and her pins and her messy bottles could have the top one — the easy one, the one your hand goes to first. I actually had to put my phone down. That's the love confession this whole book has been withholding, and he said it in drawer format. This man communicates entirely in joinery and I am fully fluent in it by now.
+Cassie. FINALLY. She's been demoted to "see you in the room" for thirty chapters and this one gives her the whole first half, and she uses it the way she always does — flat questions that go in like arrows. "You don't come home school nights." Not a question. God, that's the friend you actually want. And Vee saying "maybe" — I actually made a small noise, because I was there in the dark with her at the end of chapter 35 when she let it be true in her chest, and then Cassie asks her out loud, the one person who has never lied to her and never been lied to in this whole book, and the word comes out small. "Maybe. I think so. It's all so fast." And the horrible thing is I know exactly why she said maybe, and so does she, and it's the same reason she can't hand Cassie the true version of the induction: nothing in this relationship survives being said plainly to someone outside it. That's the tell. That's the econ eye, closing the ledger. Love that can't be reported isn't love yet, it's a habitat.
 
-And she whispered "Peter" to his sleeping body. After all those chapters of her carrying that name like contraband — "said once into the dark, the way you say a word to keep it" — she said it again, deliberately, into his ear while he slept, and I understand exactly why it had to be while he slept, and it wrecked me a little. She's in love with him, she knows she's in love with him, she's built a whole livable house out of "he says it in everything and not in words." Which is beautiful and true and also — my dread reflex is fully awake — the blurb promised me a book about the cost of things, and a woman this happy who has stopped needing the word is a woman being set up to need it very suddenly.
+The swimming I trusted completely, because it's clearly hers from the author's life — the lane nobody negotiated for, the hymn you're already in, "it never answered anything, the swimming. That was the whole use of it." I've had that exact shower. And the four strokes where she can't tell whether Pace is real or built out of wanting — that's the sharpest thing the book has said about her in ten chapters, and it gave it four strokes and let the wall take it away, which is exactly how that thought actually behaves. No dwelling. I noticed the craft and then I noticed I'd stopped noticing it, which is the good version.
 
-The counter beat in the middle was honestly cruel in the best way. Him going quiet, eyes on her sprawl, and her waiting to find out if she's been too much — and he says nothing, and she carries "the smallest tail" of the worry out of the room, and I was *tight* because I thought the book was doing the thing where the hero is silently bothered. And then the reveal rewrites it: the silence wasn't disapproval being managed, it was a project not yet finished. I got played in exactly the direction I'd have bet against, and I love being played like that.
+What I'm suspicious of: "The house stayed warm now, warm enough that she never once thought about how much she had on" — she said that TO CASSIE, out loud, and it's the acclimation line wearing a cozy sweater. Vee just told her roommate the temperature of the water she's being boiled in and called it romance. And Cassie's "There's only one way that burn happens. Not enough on" — dry on the surface, but Cassie is doing arithmetic too. Two people are counting now. The book knows.
 
-Also: she's losing weight and not asking to, the bras fitting that used to be the size that didn't believe her — quiet, a little ominous, her body spending itself on him. And the sex writing here does the thing I keep staying for: "he never went straight at his own finish" — that one paragraph about not knowing which door he'd come in by taught me more about him than three chapters of backstory. The Greek wine, the coming-back-for-seconds-after-salmon, "there could be an *after*" — she's discovering that a man can just *return to you* and it's devastating because she's never had it.
+Also: Cassie now knows everything except the parts that matter, and what Vee edited out is the whole Randi file. The report to Cassie has a shape — what gets included, what doesn't — and that shape is the psychological map of this book.
 
-It's a quiet chapter by act-count. But it's not a nothing chapter — the drawer is a turn, and I know a turn when I feel one in my sternum. This is the book telling me she's moved in emotionally before she's noticed she's moved in, and the clock on all those carry-forward time bombs (the bill, Cassie, the accent, "what she was for") just got louder.
+I missed Pace this chapter, and I missed heat, and I'd forgive one of these but I want the next one to bring something charged. The dread is ticking up nicely toward whatever the blowup is — the credit card, the accent, the "not yet" — and I'm in it for that. But if the next chapter is also a solo meditation I'll start skimming.
 
-GATE 35 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The drawer gave her a place without a word, and after thirty chapters of him saying it in everything, that landed like a proposal. I'm warm through the chest and I want to know what happens the first time the world outside this house touches what they've built.
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "Her legs were doing something honest... It only worked" — the middle of the pool set, where I felt the chapter pulling one quiet beat too long.
+WHY: The Cassie half and the four strokes of not-knowing are genuinely good — interiority I came for, no throat-clearing. But this is the second quiet chapter running and my NEXT is running on dread of the coming collapse, not on wanting to spend more time in Vee's lane. One more meditation chapter and I'm out of patience.

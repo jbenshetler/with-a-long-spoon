@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
 
 REACTION
 
-*Jesus fucking Christ.*
+God, my heart aches.
 
-My stomach just completely dropped through the floorboards. I need a cigarette and I don't even smoke.
+There wasn’t a single drop of explicit sex in this chapter, and yet it hit like a physical weight in my chest. This is the exact kind of emotional depth I am constantly starved for in romance. Most books give their brooding hero some cookie-cutter "man-pain"—a tragic dead ex or a vague misunderstanding with a billionaire father—and call it a day. But this? This slow, quiet, devastating excavation of Pace’s isolation? It feels terrifyingly real.
 
-*Thursday, January 21.* Do you understand what that date stamp means?! That means while Vee was sitting in her dorm room in Pace’s oversized flannel, agonizing over the fact that she was too cowardly to lick her own arousal off her fingers, wondering if she was broken, smelling like a hothouse and lying over her own cooling stain—PACE AND RANDI WERE TOGETHER IN BED FUCKING EACH OTHER OUT OF THEIR MINDS.
+The way he rationalizes it completely broke me. He doesn’t whine, he doesn’t play the victim, he just lays it out like a set of mathematical axioms: *“You make a friend from the middle of the pack... I was never once in the pack.”* And that door being on a timer. The brutal truth of what it means to be a fifteen-year-old child prodigy living among grown men who "weren't safe or weren't welcoming," fleeing an abusive home, skipping summers just to have somewhere to exist, and then being an adult with money and a house before his peers even had a dorm key. He was never allowed to be young with anyone.
 
-On the very same night. Literally right after that loft dinner where Randi looked across the table and told Vee that tasting herself was "powerful" and "turned me on"—Randi turned around, went straight to Pace, let him eat her out, pulled his wet face directly into her mouth with *zero* hesitation, and then rode him while narrating what she wants to do to Vee’s breasts.
+And Vee’s interiority here was so mature, so painfully observant. When she realizes Daphne was his *only* person, doing the work of Meg, Kayla, Cassie, and Randi combined—and that Daphne was a grown woman taking advantage of a boy—it makes the whole puzzle of Pace snap into focus. He isn't just courtly and exact because he’s older; he built that impenetrable, hyper-competent armor because nobody ever took care of him. Except now he bakes cinnamon raisin bread while Vee sleeps, puts water on a paper towel so it won't ring the wood, and takes care of everyone else because it’s the only way he knows how to exist in a room.
 
-I feel sick. I feel dizzy. And I cannot look away from the page. It is so utterly perverse and devastating and intensely, scorchingly hot that I don't know whether to scream or throw up.
+And that hug. Her going around the counter and giving him the Sheri hug—full weight, cheek to chest, no pity, just presence. But the chill underneath it all! While Vee is falling hopelessly, deeply in love with him, feeling the absolute gravity of his solitude, we know the elephant in the room: *Randi.* Pace told Vee that Sheri is his "one friend." Which means Randi isn't a friend. Randi is the secret, the game, the accomplice. Vee is standing there holding him, thinking she's finally seeing the bare truth of his soul, completely unaware of the massive, ticking bomb sitting right in the center of their lives. Masterclass in quiet heartbreak.
 
-The psychological brutality of this chapter is staggering. The way they use each other as an altar to worship Vee! Pace moving his hands over Randi's hips, listening to Randi describe wanting Vee's nipple in her mouth, and taking Randi’s nipple into his own mouth instead. It’s like they are channeling Vee through their own skin. They aren’t just cheating; they are running an entire surrogate cult ritual where Vee is the absent deity they are summoning between their hips.
-
-And then Randi dropping the absolute executioner's blade: *"She's not the only one in love."* Looking at Pace. Clocking his face when he softened over Vee. And he didn't deny it. He couldn't. Randi is in love with her, Pace is in love with her, and the two of them are pounding into each other, covered in their own combined fluids, talking about her like she's a ghost haunting the sheets.
-
-Vee is so, so fucked. She thinks she's the center of the world right now, feeling like a little pleasure princess because Pace made her pancakes and Randi gives her fashion advice. If she ever walks in on this, or finds out that they've been doing this behind her back—using her as their dirty talk, cleaning each other up with their mouths—it will literally annihilate her psyche. The cruelty of it, masked in utter adoration. I have chills. This book is a terrifying, magnificent trap.
-
-GATE 61 — My Pleasure
+GATE 63 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The reveal that Pace and Randi are sleeping together *now*, on the exact night Vee was crying in her dorm over her own shame, was an absolute bomb that blew the roof off the entire novel. The heat was filthy, dark, and utterly loaded with psychological poison. I cannot turn the page fast enough to see how this collision happens.
+WHY: The character psychology here is stunningly good; watching Vee finally understand the profound, solitary architecture of Pace's life broke my heart wide open, even while the dramatic irony of what he's keeping from her makes the tension unbearable.
