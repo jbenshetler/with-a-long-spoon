@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch011 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this is the exfiltration chapter. This is the debrief. And it's two pages of two girls talking and I didn't once want to skim it, which tells me something.
+Oh, now we're cooking. This is the chapter I didn't know I was waiting for — the whole operation turned inside out and laid on a bed with the lamp on.
 
-Here's what the book just did to me, and it's cold: I watched the single most real thing that's happened to Vee — the truck, the knocking on the glass, the buttons, *I want him to see me* — get turned into a story she tells. And the second she starts telling it, I remembered what the telling is FOR. Every lunch, every dorm-chair confession, is the pipeline. So I'm sitting here with Cassie, loving this scene, and under it a little alarm going: who gets this transcript next? Because Vee doesn't pour into Cassie, not really — she performs the adventure at Cassie, *and then we ate, she said it the way other girls said and then we kissed* — but the operation runs on what she pours into *Randi.* And this is the first time I've watched the raw material get generated. The flannel is evidence. She's wearing the evidence to class.
+So Chapter 11 she takes her shirt off for him in the truck, the big brave underwater self coming up for air, and he's so cold he can't even — he just looks, and it's the most generous thing. And then THIS. He drives home, showers the cold out, and Randi comes over and climbs on top of him and won't let him answer "how was it" with his own mouth — she takes the answer off his tongue. And then: *Tell me.* And what she wants isn't the trail, it's Vee. She wants the gardenia and the musk and the chlorine under the shampoo. She fucks him while he reads Vee's body aloud like a menu, and I felt the floor drop. *Everyone here drinking the thing they want through someone else's mouth.* I wrote that in my own notes two chapters ago and here it is, naked, no longer a motif — it's the actual mechanics of her orgasm. She comes on the words. "Her stomach is soft" and she clenches like a board.
 
-But — and this is why I didn't stop — Cassie is the one honest instrument and the book gave her the right notes. She doesn't do "Oh, Vee." She does "Vee." Just the name, "like setting something down where it wouldn't break." That's the whole relationship in one gesture. Cassie knows. Cassie has clocked the three-sizes-too-big shirt before Vee says a word, and she lets Vee have it anyway, because what's the alternative — tell her? With what? Vee got up a mountain on her own legs and she's lit up like I've never seen her. You don't take that from someone on a Sunday night. "Borrow real boots next time." That's Cassie loving her sideways, the only way Cassie does anything. The deadpan "I had your blood type ready." The "No windowless van." She's funny and she's watching and she's scared and she won't say the scared part. That restraint is the most adult thing in this whole book.
+And he KEEPS the truck. He doesn't tell her how he knows the stomach is soft. He curates again — withholds the real tender thing, the shirt, the shaking hands, the knock on the glass. He gives Randi the surface and keeps the inch that mattered. That's the asset-management I flagged, and it's getting sharper, not softer.
 
-What got me, actually got me, low in the stomach: *"he looked at me like I'd handed him something. And he didn't touch me."* Vee telling it as the triumph it was for her — I chose, I showed him, he was glad and still. And I believe her that it was real and good. The horror and the heat are the same fact: it WAS real and good, and it's also the product. Both true. That's the thing this book keeps doing that the hockey-player books never could — it won't let me have the warm version clean.
+But here's what actually has me sitting up at 1 a.m.: *"I want us,"* torn out of her, and then — she doesn't stay. She NEVER leaves after. She stays, she sleeps, she drives home in the morning clothes. Tonight she pulls the blanket around herself the second the chill hits, says "no thanks," gets dressed, kisses him thoroughly, and goes. And he's left standing in the open door with the cold coming in and this low plain thing in his chest he "had not been ready for." The man who reads every body in every room can't read her. He files it as "the want, too big to lie still under." He's wrong and I know he's wrong and that's the whole book.
 
-The one note I'm turning over: Cassie "rapt," Cassie "still and stayed that way" during the truck part. Good. Right. But I notice the book telling me Cassie went still *the way Vee slowed at the tree* — it's reaching back to rhyme for me, and I almost don't need the reach. I caught it on my own. That's the closest this came to explaining its own subtext, and it's a venial sin, one clause.
+Because I know what "I want us" is. It's the bench from Chapter 1. It's the thing she begged for and then bolted behind the face "not ever." She let it out — *I want us* — and the instant it was out she couldn't stay in the room with him. The leaving IS the sealing. He thinks he gave her more than she could lie still under; what actually happened is she got too close to the thing she can't survive wanting, and she ran, and ate nothing, and he ate alone twice. The architect is losing. The jacket said it gets real for all three and I'm watching it get real for *her* first, against her will, and she's terrified.
 
-What I'd text a friend at 1 a.m.: "she's keeping the shirt. the SHIRT. and Cassie just said keep the shirt and I want to scream because the shirt is the least of it." And then: "the problem is I'd keep the shirt too."
+What I'd text a friend: HE DOESN'T KNOW SHE LEFT BECAUSE SHE'S IN LOVE. He thinks it's appetite. And she'd rather die than let him see it was the opposite.
 
-I want Randi now. I want to watch Vee hand THIS story — the truck, the buttons — across the white table, and watch what Randi does with her face when she gets it. Because that's the payload. This chapter loaded it.
+Also — crucial — the chlorine. He smelled a pool in Vee's hair. Cassie swims. Vee swims, used to, underwater is her one safe place. He hands Randi "chlorine, like a pool" as an erotic detail and it goes straight through her and tightens her grip. Nobody in that bed knows what the pool means to Vee. It's the most private thing she has and it got served as garnish. That's the scalpel starting to turn, even if no one's holding it on purpose yet.
 
-GATE 12 — Rye
+Three short-ish chapters in a row now, all same-day, Sept 27 — but this isn't a stall, it's a triptych. Vee's version (truck), Vee telling Cassie (Rye), Randi's version (this). Same evening, three mouths. The structure is doing the substitution thing too. I'm not skimming. I'm hungry.
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A bridge chapter that earns its keep — the debrief that turns the truck into ammunition, with Cassie doing the only clean loving in the book in four words. Low capture because it's a chapter about a chapter I already lived; sky-high next because the story she just told is the thing she's about to hand Randi, and I need to watch that landing.
+WHY: The "tell me" scene made the book's whole thesis carnal and then gutted it — Randi coming on Vee's secondhand chlorine and then fleeing the bed the one time she says "I want us" is the architect getting caught in her own net, exactly the thing I've been reading toward. Heat and depth finally fused in one body, and he's reading it wrong in real time, which is unbearable in the right way. I want the next one now.

@@ -9,7 +9,7 @@ A standalone dorm-friends dinner in the athletic dorm's dining hall — the one 
 ## Purpose
 
 - **Seeds Kayla and Meg in the fall** (chronology flag 22): 2–3 of Vee's own friends must exist and read warm before {{Among Friends}} (~late Jan). Kayla = the warm chatterbox who becomes the desirability-seal voice at {{Nothing Underneath}}; Meg = coupled, easy, the ambient normalcy.
-- **Houses the invitation-reaction** without a solo interior beat and without another Cassie telling (the Cassie cluster — {{Dear}} (Saturday movement), {{Rye}}, {{Turned Up}} — is already dense). Invitations stay off-page by the book's grammar; her *reaction* is what's rendered.
+- **Houses the invitation-reaction** without a solo interior beat and without another Cassie telling (the Cassie cluster — {{Dear}} (Saturday movement), {{Leave No Trace}}'s dorm movement, {{Turned Up}} — is already dense). Invitations stay off-page by the book's grammar; her *reaction* is what's rendered.
 - **A different relationship register:** dorm-floor lightness, nobody reading Vee's face. The world that later contracts has to be felt alive first.
 
 ## Key Beats

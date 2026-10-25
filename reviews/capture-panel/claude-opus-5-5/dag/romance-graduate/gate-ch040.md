@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · experiment merge-cropped · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. That one hurt, and I'm not sure all of the hurt was on purpose.
+Okay, this one got under my skin. The first thing is that she's mean in it, and I loved that. A heroine who picks a fight in the dark at the wrong volume and then rewrites history while she's doing it ("You went cold on me after the Rusty Nail") while "some back room of her knew which of them had gone cold that night." The pie up the porch steps. I've half lost the Rusty Nail fight, but I remember enough to know she's lying, and so does she. That's interiority. She isn't wronged and she isn't a saint. She's scared and turning it outward, and I've done exactly that at 1 a.m. to a man who hadn't earned it. "The needing made her mean" is a line I'd underline.
 
-The cafeteria half is the best Cassie the book has given me. "Is it that you can't say, or that you don't want to?" She's the only person in this book who asks Vee a real question and then lets the silence stand. Vee's "Both. Probably both," and the line about being grateful "and also, a little, not," is exactly how it feels when a friend lets you off the hook. And her dad! "Weird is worse than wrong." He'd take it better if Pace took the dress *off* her than if he'd made it. That's real insight, and it made me laugh. It also tells me something about Pace that I hadn't put into words: the sewing is the scariest thing about him.
+Then Chili's, where the book let me be a step ahead of her and I enjoyed sitting there. She reads irritation and "the just-sex of it, proven in fluorescent light." I'm reading the fork being squared to the table edge, the eyes pulled to the screen, the shoulders dropping the second the truck door shuts, and thinking: honey, that isn't about you, the room is too loud for him. Then he says so himself, which I half wish he hadn't. I'd already got it, and "In a room like that I listen as hard as I know how and I still can't hear you" pretty much spells it out. But it's dialogue, it's him, and "I'm listening now" did land on me. It's not the word. It's close enough that I understood why she crossed the room.
 
-Then there's the photo. The version her mom has is cropped at the waist. That's the title, and it's a knife. Her parents get the top half and Randi got the whole thing. The weight thread I've been watching finally came to a head through her mother's nurse face: "If I was making myself sick." Vee laughs it off with the dancing lie. She's gone dancing exactly *once*. I believe she's happy. I also believe her mom just saw something Vee can't see from the inside, and I'm not letting go of that.
+The nachos. "To food what a billboard is to a painting." "He had ruined it for her, was the thing. Not just this." That stung, in a good way. It's the cracker-and-meal sentence from 44 coming back to bite, and now it costs her something instead of flattering him.
 
-The porch. "I had been eating crackers my whole life, and you fed me a meal." Oh, honey. She built that sentence out of every meal he's cooked for her, and it's beautiful, and it's *I love you* wearing a coat. What he hands back is "I love how good we are together," followed by "what your body does." Her *body*. Two chapters after "Like he wants *me*. With the body attached." I physically winced. I can also hear him meaning it: the two breaths, two answers started and abandoned. He nearly said something. Then he went with the safe version, and he'd been in Randi's bed that same week. "I never had this either." Pace, you liar. Or maybe you're not lying and that's even worse.
+The sex was good, really good, especially the turn where she's furious at his patience and wants him to lose control, and then he does: "like a man who'd run clean out of the strength to wait." Her wanting him rough and getting him undone is a new note for these two and I want more of it. The breast scene, "some comfort she had no word for and gave him anyway," made me wonder whether that's the closest he gets to saying it. "Spend" is a slightly fussy word, but I'll allow it.
 
-Now my gripe. The porch and laundry room sections slip into a different voice: "She had... She had... She had..." in a slow drone, and then the book keeps *explaining* the wound to me. "The two things had not been the same shape." Fine, I'll take that one. But then: "*She had said her best sentence. He had not said the sentence back.*" And "*She had been received warmly*." And "the cracker-and-meal would not return to her speech." I GOT IT. I felt it on the porch, before the book said anything. That's my exact hair trigger, a book underlining its own subtext as if I might have missed it. The scene was strong enough to hold up without the narrator walking me through it.
+What dragged was the last stretch. I just read Chapter 44 end on her alone with the not-saying, and this one ends the same way, only longer. "It had no name." "He'd given her all of it and not the name." "She had no name for the best thing in her life." I KNOW, babe, it's on the back cover. That's two chapters running that close on the same ache, and my thumb noticed. Also, where is Randi? It's been since the library, and the PPP bomb about her father is just sitting there. I want brunch. I want Vee taking this fight to the green booth and watching Randi take it home to him.
 
-Also, did we skip Thanksgiving? Sheri at his table, the house, the pie she'll pretend she made, and I got none of it. And Randi wasn't in this chapter at all. I want to know whether "I love how good we are together" is a line he's said to Randi too.
+Text to a friend: "she picked a fight bc he won't say I love you, dragged him to CHILI'S, he's clearly overstimulated and she thinks he's mad at her, then makeup sex where he finally loses it. good. but if she lies awake thinking 'it has no name' one more time I'm throwing my kindle."
 
-The 1 a.m. text to a friend: *she said the most beautiful almost-I-love-you and he answered like a Yelp review of her body. I'm going to scream.*
-
----
-
-GATE 43 — Cropped
+GATE 45 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "She had said her best sentence. He had not said the sentence back." / "The cracker-and-meal would not return to her speech." That's the book telling me what I'd already felt, and it's the kind of thing that makes me close a tab.
-WHY: The cafeteria scene and the porch both landed hard, and this is the first real crack in the bond: her best sentence answered with her body. 41 and 43 were both quiet, with only 42 between them carrying heat, so I'm counting. But the wound is live, and I need to see whether this pile of "small waits" ever gets spoken out loud, and whether Randi gets to hear about the cracker sentence before Pace has to answer for it.
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find" — the second chapter in a row ending on the same lament.
+WHY: The fight, the lie she knows is a lie, and him losing control all made this a real chapter with heat and a mind behind it. But it closes on the same note 44 did, and I'm hungry for Randi and some actual movement rather than more not-saying. Next chapter needs to be brunch or a shoe dropping.

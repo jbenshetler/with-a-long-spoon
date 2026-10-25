@@ -18,7 +18,7 @@ or an edit that re-opens the passage).
 - **Chronology `present:` fields** — Cassie added to {{Sorority}} (Friday movement, formerly All Told) and, per
   the author's broader directive (Cassie pill coming to `chronology.html`),
   to every already-reviewed entry where she is physically on-page:
-  {{Water Wings}}, {{May I Choose}}, {{Off Six-Fourteen}}, {{Rye}},
+  {{Water Wings}}, {{May I Choose}}, {{Off Six-Fourteen}}, {{Leave No Trace}}'s dorm movement,
   {{Turned Up}}, {{Toenails}}. Physical presence verified per scene by
   lore-keeper (present-and-speaking in scene time, not mention/retelling).
   {{Dear}} deliberately unchanged — Cassie exits in the opening lines before

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. My stomach dropped so hard during that dance hall scene I almost threw my phone across the bed.
+I am sweating. I am genuinely, physically sweating.
 
-The first half was pure, aching perfection. Pace with the battered boom box on the cold concrete pad, explaining how a three-step works, teaching her not to go jelly, placing that big, warm palm flat against her shoulder blade—god, it’s the exact same way he tailored her dress and the exact same way he touches her body. Precise, patient, commanding, and giving her a solid frame to push back against. That transition from overthinking her feet to finally feeling the lead, where the movement just flows through them like a circuit—it’s so wildly intimate and hot without a stitch of clothing coming off.
+The whiplash of Vee running to *Randi* to confess her fight with Pace—and Randi playing the absolute maestro of this entire orchestra—is making my stomach drop out. Vee thinks she has this fairy-godmother best friend who is just effortlessly glamorous and European-affectionate, and the dramatic irony is so thick you could carve it with a dull knife. When Brooke opened that door and casually clocked Vee as "the stats friend," I gasped. Of course Randi talks about her. Of course the house has a file on her.
 
-And then they walk into that bar, and the trap springs. Not Pace’s trap, but Vee’s own deep, rotting insecurities. Seeing him exist in a world before her, surrounded by women who clearly adore him, hearing that catty, smiling blonde weaponize his decency—it hit every single raw nerve her mother ever planted in her head. The word *floozy*, the terror of being an easy mark, the gut punch of realizing you gave yourself away completely to someone you suddenly fear is just running a well-oiled routine. She lashed out with pure venom because she felt cheapened, and watching Pace’s face just go flat and quiet was agonizing. He didn’t fight, he didn't beg, he just answered her honestly and walked out because he doesn't engage with manufactured cruelty.
+And then that bedroom scene. Holy *god*. Randi kneeling on the floor, sliding her hands up under Vee’s skirt to brace the back of her bare thigh, pressing a thumb into the soft hollow behind her knee—all while Vee stands there in just her bra, being literally dressed and styled by the woman who is sleeping with the man she’s about to go seduce. It is so dirty, so exquisitely tense, and so heartbreakingly intimate. When Randi told her, *"Maybe you just haven't met your Evil Queen yet,"* my jaw hit the floor. The author is playing with pure fire here. Randi knows exactly what she’s doing, and yet she’s also so utterly captivated by Vee that she can’t help herself. She’s dressing Vee up like an offering, but she’s also putting her own marks on her: her shoes, her scarf, her thumbprints on Vee’s thighs, her mouth lingering on Vee’s lips in the foyer.
 
-The bartender setting her straight was a masterclass in perspective, but what makes this chapter so devastatingly tragic is Vee’s conclusion at the end. She thinks she was wrong about *him*. She thinks Pace is an unblemished saint, an innocent gentleman she falsely accused, and that the only villain here is her own ugly jealousy.
+And Vee just… leaning into that kiss at the end. Not bracing. Just accepting Randi’s mouth on hers as the new normal. *"It was only what they did."* Baby girl, *no*, straight girls do not kiss their sorority friends on the mouth with a lingering second press like that! The sensual rewiring that Pace started on her body is now bleeding directly into how she receives Randi, and she is so wide-eyed and innocent about it she thinks it’s just high-fashion manners.
 
-And her plan to fix it? *Go to Randi’s.*
+The psychological maneuvering here is breathtaking. Randi commanding her *not* to go to Pace in a panic, telling her to wait until Saturday, making it a calculated entrance—Randi is actively directing the movie of Vee and Pace, but she’s writing herself into every seam of the wardrobe. Now Vee is going to walk into Pace’s house wearing Randi’s shoes and Randi’s silk scarf. When Pace sees those cognac heels and that green-and-gold silk, what is he going to do? He knows Randi’s closet inside and out. He *knows* her clothes.
 
-I literally gasped out loud. She is running straight into the spiderweb to apologize for suspecting the spider! She’s going to take all this raw, tender remorse and lay it directly in the lap of the woman who is actively sleeping with him and manipulating the entire board. It’s sickening, it’s brilliant dramatic irony, and I am terrified for Friday morning.
+Saturday night is going to be a bloodbath or an absolute erotic detonation, and I am not moving from this couch until I find out which.
 
-GATE 25 — Lesson
+GATE 26 — broken-in
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from the gorgeous, electric intimacy of the dancing lesson on the concrete pad to the absolute car crash of Vee's self-sabotage at the bar was brilliant and physically painful to read. Ending on her resolving to go straight to Randi to "fix it" is an unbelievable hook—she's running headfirst into the woodchipper and has no idea.
+WHY: The tension is coiled so tight it feels dangerous to breathe. Watching Randi touch Vee under her skirt, style her in her own clothes, and kiss her on the mouth—all to send her back to Pace—is top-tier psychological erotica. I need Saturday night immediately.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-07*
 
 REACTION
 
-Coming off Chapter 43—which honestly made my chest ache and my stomach clench because watching Pace and Randi casually fuck on his couch, dissecting Vee like a shared meal, was almost physically sickening—this chapter was a completely different kind of breathless tension.
+God, that flannel shirt at the end. That completely wrecked me.
 
-I was bracing for another turn of the knife between Pace and Randi, or another scene where Vee unwittingly hands Randi the blueprint to dismantle her life. Instead, we’re in a freezing cold lecture hall, doing statistics homework with Cassie and Randi. And my god, the writing here did something incredible.
+The five nights apart—the fact that she called for the break because she was falling behind, and he just gave it to her without punishing her, without going cold, without playing a single mind game. That grace costing her more than a fight because she secretly wanted him to beg her to stay. I know that feeling so intimately. And then the absolute desperation of coming through the door, the ungraceful, frantic, peeling-off-clothes scramble where she loses all her dignity hopping on one foot in the hallway trying to yank her jeans off. It’s so real. It’s not a choreographed porn scene; it’s two people who have been physically and emotionally starving for five days colliding in an entryway.
 
-Randi is usually so untouchable. She drives the green convertible, wears the cream coat, commands every room, and manipulates people with this terrifying, surgical precision. But here, the gloss cracked entirely. The sheer dramatic irony of her sitting there, cocky and sure that her wealthy father’s businesses would prove Cassie wrong—only to pull up the raw government data and realize her family took the PPP loans, kept the cash, and fired the workers anyway. And not just that—he named a shell corporation after her. *Miranda.*
+And the dominance in it is so effortless because it’s totally grounded in her wanting him. He stops her with one hand on her waist. He catches her bra strap and lets her spin herself out of it. He takes her right on the edge of the bed and lets her come fast and hard because her body just can't keep the secret of how much she missed him.
 
-When Randi muttered *"Cheating bastards,"* it wasn't her smooth, curated marketing voice. It was raw, ugly, and exposed. She realized her whole gilded existence was funded by a father who cheated the system, and Cassie—blunt, working-class Cassie whose dad actually suffered from that exact greed—was completely right all along.
+Then the aftercare—the homemade pizza, the slow sauce with the splash of wine and cream, the quiet reverence of him just feeding her. But handing him that washed flannel and confessing that she sleeps in it every night, that it lost his scent, and demanding he wear it all weekend so she can take him back with her? The way his face did that tiny flicker of hurt thinking she was returning it, and then breaking into that rare, expensive smile when he realized what she was really asking? Putting it on immediately over his clothes, standing there in two shirts just so he can marinate it for her?
 
-And then there's Vee. Oh, Vee. Her instinct isn't to gloat or pry; it’s pure, gentle protection. She sees her friend's world crack for a microsecond, clocks the shame draining the color from Randi's face, and immediately steps in to give her busywork, shielding her from Cassie's sharp eyes. Vee thinks she's protecting a fragile friend from a humiliating family secret. It breaks my heart because Vee's capacity for kindness and loyalty is so vast, and Randi is literally plotting to share her like a holiday dessert with Pace behind her back.
+I am so deeply in love with this man, and I am so profoundly terrified. Because two chapters ago, I watched him and Randi in that exact same house, on that couch, fucking like animals and talking about her like a shared project. The contrast makes me want to scream into my pillow. Vee is building an entire sanctuary out of this man's gentleness, and the floor under her feet is made of glass.
 
-It’s quiet, there's no sex, Pace isn't even in the room, but the sheer thematic weight of *the outlier*—the data point sitting out in the cold white, invisible unless you know where to look—is such a brilliant metaphor for the massive lie sitting right in the center of their dynamic. The trap is tightening, but for once, Randi took a direct hit to the ribs.
+***
 
-GATE 44 — The Outlier
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Even though there was no Pace and no physical heat, the emotional stakes spiked sharply. Watching Randi's polished, untouchable mask crack under the reality of her father's corruption—and watching Vee's instinctive, protective kindness shield her—adds a whole new layer of tragedy to the trap being built around Vee. I need to see where this emotional leverage goes.
+WHY: The shirt scene broke my heart in the best way possible. The utter tenderness between them juxtaposed against the secret arrangement hanging over her head is peak emotional torture—I can't put this down.

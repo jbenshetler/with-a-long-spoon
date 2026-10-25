@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
-**REACTION**
+## REACTION
 
-I was not expecting the book to do this right after the doorstep and the breakfast. It's two people in a kitchen, her naked with her wine and him at the sink, and it's the best answer to December the book has given her.
+I keep coming back to "We *talked*." No, babe, you didn't. He stood in the door and started "Vee, I l—" and you cut him off with a coat. I yelled at the page in chapter 52 and then got swept along, because the doorstep was so good I let it slide. Now she's sitting in a bean bag telling Cassie the whole month came down "like a tent with the pole pulled" because they *talked*. The thing she walked out over in December is still unsaid. She was the one who stopped it from being said, and she's already rewriting it into a conversation. It's the Rusty Nail lie all over again, the one she knew was a lie. I'm not mad at her for it. I'm worried. She keeps everyone on a different set of books, and now the account she's fudging is her own.
 
-She walked out of his house asking "what am I to you out there?" and he couldn't say it. Now, with his back to her, he says "I want to meet your people." It's the same man and the same refusal to use the word, but he's answering with "Believe what I do." Last time that line made me want to throw the book. This time it actually lands. He kept Meg's boots and her heel lifting out of the right one, and he handed back her own line about Kayla in his flat voice. I melted at "He had been listening. Not the polite kind." And then "Bring Theo," reaching for the next pan, no question, no jealousy. Vee feels it "settle in her, warm side down," and so did I.
+Then there's the sweater. I was cackling. Cassie *saw* her walk in Sunday night in the coat, his sweats and Randi's stilettos. "Didn't bring a bag?" "And your clothes?" Cassie isn't asking because she doesn't know. She's asking to see what Vee will do with it. Vee invents a whole laundry disaster, a cranberry sweater shrunk to doll size and dye in her good pants, and Cassie just looks at her and says "Pace. Shrank your sweater." Then she laughs her rare full laugh. That laugh is Cassie knowing exactly what the lie is and loving her anyway. "Corrected by nobody." That's friendship, and it also means Cassie has noted one more half-answer. She keeps doing this: she doesn't push.
 
-Then the Chili's picture came back to her, the fork being squared. She asks him to pick the place and doesn't say why. She's protecting him from loud rooms without ever telling him she noticed. That's the grown-up emotional intelligence I came for. Same with the Cassie bit, refusing to build a dinner where one of her people has to be a good sport. "She'd watched somebody be fine about it before. She wasn't going to look at when." Who? Her mom? Herself at Randi's tables? I want to know.
+Then the card, which got me in the throat. "My mother says thank you for the card. She wants to know when she gets to see you again." Vee's hand goes to her collar, the exact gesture her own mother made touching her collarbone. Is Cassie's mom the mother Vee wishes she had? A mom who saves boxes and gets you a better one? I loved "the baby is a baby" and the brother-in-law wearing snowshoes in the house. Cassie "could hear the size of things," and she was done with the subject the moment before it would have needed anything from either of them. I'd read a whole book of Cassie being dry.
 
-Now my suspicion. He says "I want to meet your people" and her brain fills in *Randi*, with her friend's name "already on it." A dinner, "the three of us." He steers away from it right away, toward Cassie and Meg and a whole party. Is that because he's already met Randi a hundred times and can't sit at a small table with both of them and act? I think so. And she's sitting on "the lacquered seat of a chair he'd made," which is the seat from his drunk fantasy with Randi's feet on it. I noticed, book. I'm cold. "Let me handle it" is lovely and also a man taking control of a room where his two games meet.
+My shape alarm is going off a little, though. 54 was two people talking at a sink, which I loved. 55 is a dorm room and a top bunk, and it's lovely, but that's two quiet chapters in a row. I came off the hottest two chapters of the book (the doorstep, and the princess-and-slave morning, which I'm still thinking about) and right now I'm aching to get to Tuesday. The dinner with Randi. Vee planning to tell her "nearly everything," including the taste thing. Randi having to "choose" after Brooke's warning. Pace saying "let me handle it" about a party with Randi in the middle of it. Those are the loaded guns, and this chapter didn't touch any of them. That was fine for one chapter. It won't be for another.
 
-Also, I can't stop thinking about "Vee, I l—" on the doorstep two chapters back. She cut him off. He was trying to say it, and she opened the coat instead. Nobody has brought it up since. That's a bomb sitting on the porch.
+The flannel going faint, and "he would just have to wear it for her this weekend": small and sweet, and it closes the book on the cold-bedroom image properly. Her hand flat on the cinderblock, and "the wall was only a wall." Good. She isn't in the cold anymore. I'll take that.
 
-This is a short, quiet chapter after two very hot ones, so it doesn't trip my stall alarm. It reads like a breath, and the last line has an engine in it. A party with Randi and Pace in the same room, both pretending they "said about nine words at the coffee shop." I'd text a friend: "HE WANTS TO MEET HER FRIENDS. and Randi's going to be there. I'm sick."
+---
 
-**GATE 54 — Back**
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
+CAPTURE: 6
+NEXT: 7
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: It's a bridge chapter that's really two people talking, and it quietly answers her "out there" question with an action instead of the word. It also sets up a party where everyone who's lying will be in one room, so I'm reading on right now.
+ALMOST-STOPPED: "and the record stood exactly where Vee had left it, corrected by nobody." That isn't where I wanted to leave. It's where I noticed the book was coasting on charm for the second chapter running.
+WHY: Cassie is a delight, and the shrunk-sweater lie told to someone who already saw the heels is a sly, funny little scene with a real sting under it, because "we talked" is the biggest lie in the chapter. But it's a bridge after a bridge, and every thread I care about (Randi, Brooke's ultimatum, the taste question, the party) is parked until Tuesday. If chapter 56 isn't that dinner, I'll start skimming.

@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8611b8522702 · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
 
 REACTION:
 
-Oh my god. *Oh my god.* I am sitting here with my hands shaking, trying to breathe, and I don't think I've ever read a first-time scene that utterly wrecked me like this.
+Oh, god. My stomach is in knots. It is an absolute sick, thrilled, terrified knot.
 
-*“Would you be bothered if I was too hard?”*
-The way he asks. The fact that he asks it from his knees, looking up at her, right after seeing those soaked, green satin panties that she bought just for this, completely stripping away every scrap of plausible deniability. That isn't just dirty talk—it’s Pace doing that terrifying, breathtaking thing he does where he makes room for her desire first, but he also names the exact physical reality of what they are about to do. He gives her the choice, and in giving her the choice, he makes stepping into it the most intensely erotic surrender imaginable.
+Look at what this author is doing with Vee. The pure, shining afterglow of Chapter 20—driving home bare under her skirt, grinning at every red light, walking into the dorm smelling like cereal and cool autumn air—it is so sweet and earned. Vee realizing she gave her green satin away, having to pull her zipper back up in front of Cassie because she’s literally naked underneath, that is the most delicious "walk of shame" (except she feels zero shame!) I’ve ever read. And Cassie, bless her heart, tossing out that dry little "Was he worth painting your toenails?" while drinking brown cereal milk. Cassie is the anchor. She’s the safe harbor.
 
-And Vee. God, Vee. The psychological accuracy of her shame loop—her mother’s voice hissing *floozie* at every single biological betrayal of her own want—running side by side with the heat on the very same wire? That is so real it hurts. Every woman who has ever felt like she was “too much”—too loud, too hungry, too wet, too big—carries that exact wound. Watching Pace meet every drop of that, not looking away, not treating it like an embarrassing mess to be politely ignored, but actively worshipping it, staying in the wet of her and tasting it like it’s the best thing on earth? He literally heals her with his mouth on that floor. He burns right through her shame. When she stood there and came so hard her knees gave out and his hand just took her weight? I had to put the phone down for a second.
+And then Vee walks straight into the spider’s web.
 
-Then the bedroom. Him looking at her face the entire time. No hiding in the dark, no closing her eyes and pretending to be somewhere else. He demands that she be *there*, with him, in the light, being seen. And when he lifted her hips to find that new angle and finally let go of that iron control—hearing him break into her shoulder, low and helpless? That is what I read this genre for. The intensity of a powerful, perfectly composed man being completely brought to his knees by one specific woman.
+Randi at brunch. God, Randi is *evil* in the most breathtaking, deeply pathetic, intoxicating way. The manipulation is so quiet you can barely hear the gears turning, but they are grinding away. That story about running into an "old boyfriend" who was "in such a hurry"—she is talking about *Pace*, isn’t she?! She has to be talking about Pace in Chapter 14! Or she’s setting up this contrast just to extract every drop of intimacy out of Vee. And the way she interrogates her—not like a gossip, but like a predator savoring every detail of a meal someone else ate for her. *“You didn’t buy those hoping he’d be a gentleman. You bought them hoping he’d give you no reason to keep them on.”*
 
-And then the ending. The sheer, glorious, heart-stopping audacity of her dropping the sheet, standing bare in his kitchen, folding those panties in thirds with the wet mark right in the center, and handing them to him. *“Trade.”*
-For the flannel shirt! The trade for the shirt! She is claiming her own desire so completely now. She handed him the proof of her hunger as a trophy, as an offering, as an equal.
+And Vee, poor, starved, beautiful Vee, thinks this is what having an older sister or an amazing best friend feels like. *“The friend she’d wanted at fifteen and stopped expecting to get.”* That line broke my damn heart. Vee thinks Randi is validating her, cheering for her appetite, freeing her from her mother’s voice. And Randi *is* doing that—while simultaneously getting high off the secondhand contact high of Pace, and grooming Vee into her own orbit!
 
-My heart aches because underneath all this absolute perfection is the shadow of Randi and that goddamn spanking bench. Pace is falling for Vee—you can feel it in every breath, in the way he cooked for her, the way he watched her, the heavy privacy in his shoulders when he took those panties. He isn't just executing Randi's twisted little game anymore. This is real for him. But the higher this goes, the more devastating it will be when the truth of the beginning comes out. Right now, though? I am completely, utterly captive.
+When Randi’s voice started slipping—the esses running long, the liquid look in her eyes, Vee thinking *she's drunk* but she barely touched her mimosa—my breath caught. Randi is drunk on *her*. She is drunk on the arousal and the proximity and the possession.
 
-GATE 20 — Famished
+And then the curb. The first kiss in the convertible was a test. This second kiss—the light hand on the hinge of the jaw, the mouth soft, the drawing-back and the *second press*, and Vee meeting it? And not even checking the street this time?!
+
+The trap is springing shut, and Vee is driving home with the radio up thinking she’s finally happy. I need Chapter 22 immediately. I feel like I'm watching someone dance on a trapdoor.
+
+***
+
+GATE 21 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute pinnacle of what this genre should be: blistering heat driven entirely by deep psychological intimacy, exquisite consent, and a heroine finally stepping out of her lifelong shame and claiming her own massive appetite.
+WHY: The psychological tension is suffocating in the best way; watching Randi gently, ruthlessly weave herself into Vee's newfound sexual confidence makes me want to scream at the page and read fifty more chapters right now.

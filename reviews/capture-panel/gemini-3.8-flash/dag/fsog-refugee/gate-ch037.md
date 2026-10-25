@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
+*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
 REACTION
 
-Oh, my God. Oh my absolute, terrifying God.
+Coming off Chapter 43—which honestly made my chest ache and my stomach clench because watching Pace and Randi casually fuck on his couch, dissecting Vee like a shared meal, was almost physically sickening—this chapter was a completely different kind of breathless tension.
 
-I feel sick. I feel filthy, I feel electric, I feel completely gutted. This chapter was like being held underwater.
+I was bracing for another turn of the knife between Pace and Randi, or another scene where Vee unwittingly hands Randi the blueprint to dismantle her life. Instead, we’re in a freezing cold lecture hall, doing statistics homework with Cassie and Randi. And my god, the writing here did something incredible.
 
-The title—"Four." The sick, petty arithmetic of it. Vee sits at brunch bragging that he loved her three times in an evening, and Randi comes to his house on Monday and takes him four times just to beat the number. Just to write herself over Vee’s weekend. And the scratch on his shoulder! Randi putting a mark on him. And the couch—she’s bent over the couch, taking him from behind while they talk about Vee sitting in class leaking him into her skirt, and he *finishes* while Randi tells him how Vee leaned into her kiss on the sidewalk.
+Randi is usually so untouchable. She drives the green convertible, wears the cream coat, commands every room, and manipulates people with this terrifying, surgical precision. But here, the gloss cracked entirely. The sheer dramatic irony of her sitting there, cocky and sure that her wealthy father’s businesses would prove Cassie wrong—only to pull up the raw government data and realize her family took the PPP loans, kept the cash, and fired the workers anyway. And not just that—he named a shell corporation after her. *Miranda.*
 
-It is monstrous. It is brilliant. It makes my skin crawl and my pulse hammer at the exact same time.
+When Randi muttered *"Cheating bastards,"* it wasn't her smooth, curated marketing voice. It was raw, ugly, and exposed. She realized her whole gilded existence was funded by a father who cheated the system, and Cassie—blunt, working-class Cassie whose dad actually suffered from that exact greed—was completely right all along.
 
-And Pace—god damn you, Pace. "She consents—every time—or I'm done." He says it so level, so absolute, like he’s the high priest of morality. He actually believes he’s protecting her! He thinks because he checks the gauge and asks "Does she want it?" that he’s clean. You arrogant, blind idiot. How can she consent to something she *doesn't even know she's in*? You gave her a drawer for her hairpins and you cooked her lemon chicken, and now you’re fucking Randi on the couch using Vee’s confessions as foreplay!
+And then there's Vee. Oh, Vee. Her instinct isn't to gloat or pry; it’s pure, gentle protection. She sees her friend's world crack for a microsecond, clocks the shame draining the color from Randi's face, and immediately steps in to give her busywork, shielding her from Cassie's sharp eyes. Vee thinks she's protecting a fragile friend from a humiliating family secret. It breaks my heart because Vee's capacity for kindness and loyalty is so vast, and Randi is literally plotting to share her like a holiday dessert with Pace behind her back.
 
-And yet... look at what's actually happening in that room. Pace thinks he’s playing Randi, Randi thinks she’s playing Vee, but Randi is slipping. She is falling so hard for Vee it’s terrified her. "God, I want her." That slipped right out of her mouth before she could stop it. The facade cracked. Randi claiming she's "doing the work" for the threesome, that it’s grueling, when she’s practically vibrating with jealousy and lust and raw need. And then that ending—Randi shivering under the blanket, clinging to his arm, saying "You see more of me than anybody ever has... it makes me feel real. And some nights it frightens me." Randi is hollow. She’s desperate. And Pace is feeding both of them, controlling both of them, orchestrating this entire sick symphony.
+It’s quiet, there's no sex, Pace isn't even in the room, but the sheer thematic weight of *the outlier*—the data point sitting out in the cold white, invisible unless you know where to look—is such a brilliant metaphor for the massive lie sitting right in the center of their dynamic. The trap is tightening, but for once, Randi took a direct hit to the ribs.
 
-Vee is walking around like a girl stepped out of a fairytale, totally, completely defenseless. She thinks she has a dedicated lover and a glamorous best friend. She has no idea she was picked out on a lawn like an apple from a tree. When this breaks—and it is going to break, it has to—it’s going to level everything.
-
-I am horrified, I am furious at both of them, and I cannot put this book down. Give me the next chapter right now.
-
-***
-
-GATE 43 — Four
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 1
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 0
 ALMOST-STOPPED: none
-WHY: The sheer psychological dread and illicit heat of watching the trap from the inside is breathtaking; I'm furious at Pace and terrified for Vee, but I am utterly hooked.
+WHY: Even though there was no Pace and no physical heat, the emotional stakes spiked sharply. Watching Randi's polished, untouchable mask crack under the reality of her father's corruption—and watching Vee's instinctive, protective kindness shield her—adds a whole new layer of tragedy to the trap being built around Vee. I need to see where this emotional leverage goes.

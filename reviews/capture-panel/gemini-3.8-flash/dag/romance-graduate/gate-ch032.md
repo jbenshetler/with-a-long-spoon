@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-*“Sticky fingers?”*
+Oh, my god. He gave her the top drawer.
 
-I swear my soul left my actual body for three seconds. The sheer, breathtaking malice wrapped in a brunch napkin. The absolute *audacity* of this woman. I am sitting here with my hands clamped over my mouth because Randi is an apex predator disguised as an expensive cashmere sweater, and Vee is just... walking right into the enclosure with a handful of raw steak.
+He didn’t leave a cute little sticky note, he didn’t make a speech about "taking the next step," he just took his entire hyper-regimented, hyper-ordered bachelor life, crammed all of his own things into the bottom drawer like puzzle pieces, and gave her the one your hand reaches for first. With her bobby pins in a neat little dish. I swear to god, my chest physically ached reading that. That is so painfully, perfectly *him*. A boy who was shoved into a hallway with long division, a boy who learned to build invisible walls and control every square inch of his environment, giving up his physical territory to make a home for the girl he loves. And Vee—standing there in his oversized robe, realizing she isn't a messy imposition, that he didn't wipe her away, he just built a permanent pocket for her. It is so achingly tender.
 
-Look at the psychological warfare happening here. Randi baits her with "vanilla." She knows Vee’s pride, knows Vee cannot stand the idea of being thought of as tame or boring, so she tosses out the word like a lure. And Vee bites! Vee lays out the entire Friday night bedroom scene on a white tablecloth over cheap mimosas. The checking. The wetness. The heels. *All of it.* And then Randi immediately turns around and matches it with her own fake-casual, devastatingly erotic story about getting abandoned in a frat house and touching herself with the door unlocked, just to drive Vee straight up the wall.
+And that’s what makes this entire book feel like a high-wire act over an active volcano. I am in agony. Pure emotional agony!
 
-And it works like clockwork. Vee bolts for the bathroom stall to take care of business, gets *cockblocked by her own conscience* because Randi’s gorgeous, predatory face pops into her head, and when she walks back to the table, Randi drops the "sticky fingers" line. Was it about the pastries? Was it a deliberate, cruel double entendre? *It was both.* Randi lives in the double entendre. She gave herself total plausible deniability while letting Vee drown in pure panic, watched Vee dissociate through the rest of the meal, and then finished it off by calling her "my best friend in the whole world."
+Because while I am swooning over salmon with dill sauce, warm windowsill tomatoes, and him spinning her around the minute she walks through the door, my stomach is in absolute knots. She’s lying there in the dark, whispering *Peter* to his sleeping shoulder, finally letting herself admit that she loves him. She is completely, utterly sunk. She feels treasured, safe, fed, seen. She’s losing weight just from the sheer aerobic joy of being thoroughly loved by a man who takes all night to touch her. It is the exact romance every woman wants.
 
-I felt physically sick for Vee right there. *“You're my best friend in the whole world, you know that?”* That is pure poison. It’s an emotional trapdoor. Vee is so starved for validation, so stunned that this glamorous girl wants her, that she just melts. And then the kiss. The lingering kiss, the second press of the lips—and that final sentence. Vee licking her own lip and tasting the pastry glaze from Randi's mouth.
+And it is built on a fault line that is going to swallow her whole.
 
-The sensory detail in this book is obscene in the best way. Randi taking one bite, setting it down, leaving the sugar on her mouth, and transferring it to Vee on the curb. She is marking her. She has Vee wound so tight she can barely breathe, and Vee still thinks this is just "girls' brunch." The collision when the truth finally comes out is going to leave a crater.
+I keep looking at the dates. Friday, November 6th. Then section iii skips to "the next Friday"—November 13th? What happened to the week in between? Did Randi take another bite out of her? What is Randi doing right now while Pace is clearing out his top drawer for Vee? Pace is acting like a man who is softly, irrevocably rearranging his entire life around one woman, but he *still hasn't blown up the arrangement with Randi*. Or has he? Has Randi stepped back, or is she just letting the line play out so she can yank the hook harder?
 
-GATE 34 — One Bite
+The contrast between the sheer filthy psychological electricity of Chapter 34—Randi practically getting Vee off with her voice at brunch and kissing the taste of sweet glaze onto her mouth—and this chapter's domestic, heart-melting devotion is dizzying. It’s like watching someone decorate a nursery inside a burning building. Pace’s silence—the exact thing that feels so profound and poetic to her when it comes to the top drawer—is the very weapon that is going to destroy her when she finds out what he’s been keeping quiet about.
+
+I don't want to stop. I need to be there when the other shoe drops.
+
+GATE 35 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 1
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological tension between Randi and Vee across that brunch table was suffocatingly good, and the "sticky fingers" double-play made me gasp out loud. Randi is playing a diabolical game, and watching Vee get emotionally and erotically cornered while thinking she's found a "best friend" is irresistible. I need to see the next move immediately.
+WHY: The top drawer beat was an absolute masterclass in character-driven romance—quiet, devastatingly sweet, and terrifying because of the secrets looming over them. The emotional stakes are through the roof.

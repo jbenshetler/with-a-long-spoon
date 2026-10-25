@@ -1,18 +1,31 @@
-*capture-dag-v2-rich · gate ch018 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
+*capture-dag-v2-rich · gate ch018 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
-REACTION:
+**REACTION** — Oh, this one hurt. Vee isn't in it at all and I still couldn't put it down, because this is the chapter where the con stops being a con for Randi in front of witnesses — Pace *is* the witness, and he watched it happen and couldn't name it.
 
-That zipper moment. Halfway down, and the room went quiet, and I stopped breathing with her — because it's not the panties, it's the *editing*. She's keeping things now. From Cassie, clean, ladle-out-of-the-pot, and she tells herself it's kindness, and the book tells me it's the lie "that lets you keep what you want to keep," and I sat there feeling both things at once: protective of her privacy and scared of who taught her to manage information like this. She's in a con and she's becoming a con artist in her own kitchen, three feet from her best friend. And Cassie said "you need to get your brain back from your boyfriend" — *wrong*, kindly, certainly wrong — and that's the canary starting to sing off-key and I flinched.
+"It's selfish, Pace." That landed on me the way it landed on him. Because she's right and wrong at the same time and the book knows it. She's saying *you're moving so slowly because the slowness serves you* — because the courtship, the choosing, the watching her get there on her own — that's the part *he* feeds on, and Randi, who has spent months living on Vee's reports secondhand, on one dinner and a boy in a hurry, is starving while he dines. And his answer — "She chooses it. Every step of it. Or it isn't anything" — is the most decent thing anyone has said in this book, and he said it *at* the woman he's been running the plan with, and he heard how it came out and didn't take it back. I half-loved him for that and half-saw what she saw: that even his decency has a banked quality to it. As long as she needs. He gets to keep being patient because the patience costs him nothing and costs her everything.
 
-And then the brunch, and I watched Randi feed, and this time I saw the whole mechanism with the panel off. "I only got dinner that night... I'm running on fumes here" — she's not interrogating, she's *surviving*, extracting grams of Vee's happiness to live on, and it's the most tender vampirism I've ever read. The toenails bit — "you paint the toes for a man who's going to have your feet bare in his hands" — made me hot and made me ache at the same time, because Randi's *right*, and being seen that precisely by the person secretly running your love life is a knife wrapped in silk. And that voice thing — the esses running long, the liquid eyes, one mimosa mostly untouched — the book caught it and then let Vee explain it away, and I actually put the book down for a second. What was that. I don't trust it and I love that I don't trust it.
+And then she poured her own glass. That tiny gesture nearly did me in — he has poured every glass she's ever drunk in that house, it's part of the whole liturgy of how he cares for people, and she took the bottle by the neck and did it herself and he just *watched* and filed it away somewhere he couldn't name. The bowl, untouched, the one line drawn through the sauce like a single pencil stroke. He covered it and put it in the refrigerator, *for her*, and I had to put the book down for a second, because that's the whole tragedy of Pace in one gesture: he does the caring thing, the exact right thing, and he still doesn't know what he did.
 
-"You drove over there sure. So why are you telling me like it's a confession?" — Randi handing Vee her own desire back to her, clean. That's what I came to this genre for, a woman being told her wanting isn't a crime. "I wanted it. And I took it. For once." I cheered out loud. And the curb kiss — she didn't scan the windows this time. She's stopped checking who sees. That tiny absence is doing more work than a whole love scene, and I'm sitting here at whatever hour it is, texting no one because everyone's asleep: she's falling for both of them and only one of them is a secret from herself.
+The bed broke me. No "tell me." That's the detail my notes have been circling for chapters and here it is, gone — she rode him with her eyes shut and took what she needed and it "was not for him," and the book let me feel how lonely that is from *his* side, which I wasn't expecting, because I've been feeling her side of it for twenty chapters. All those benedictions and thumb-tricks and interviews, and tonight the mask came all the way off and what was under it was just a woman hurting. I dread her less now and more at the same time — less because I've finally seen the wound plain, more because "he did not know what he had done" is exactly the state a person does something drastic from.
 
-GATE 21 — Fed
+And underneath all of it: Vee told Randi about Friday and *didn't tell her the middle.* The tissue-paper fold, the hand waved at the air. Randi sat in that bright bistro and let Vee believe she'd gotten everything, and Pace didn't ask — "That was Vee's" — and the two of them are each keeping a different piece of her, and neither of them has the whole girl, and she doesn't know she's been divided. The jealousy isn't even about Pace's weekends. It's that Vee has a middle now, a real one, a singular one, and Randi got a summary. "Like singular." That word is going to sit in Randi's chest like a splinter.
+
+Also, small thing, and it's not small: he set her bag aside on the chair. He noticed it. Nobody in this book notices anything without it mattering later.
+
+I came out of this one sad in the good way — the way a book earns — and very aware that Vee and Pace haven't been in a room together since the morning after, and the dress isn't sewn yet, and all three of them are aimed at the induction like a held breath.
+
+**GATE 23 — Portion**
+
 DECISION: CONTINUE
+
 CAPTURE: 8
+
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
+
+HEAT: 2
+
+ROMANCE: 1
+
 ALMOST-STOPPED: none
-WHY: Nothing much "happened" and I never once looked at the page count — the whole chapter is people telling the truth sideways, which is my favorite thing. Randi's unraveling (the voice, the hand left on Vee's, the kiss she didn't let herself explain) and Vee's "I wanted it and I took it" are both turns, and I need to know what Randi's slip was.
+
+WHY: No Vee, no Vee/Pace, and it still gripped me — because the con is finally cracking open in real time between the two people running it, and both of them came out of the room more human than they went in. I'd run hot for the next chapter just to get back to Vee, but I'd also stay for the consequences of tonight, which are clearly already in motion.

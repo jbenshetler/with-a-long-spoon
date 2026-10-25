@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-*Jesus.*
+*“Sticky fingers?”*
 
-Look at her. Just look at what this man and this house have done to her in what, three weeks? The girl who was having an absolute, throat-closing identity crisis over the word *floozy* at a honky-tonk six days ago just walked down a lit hallway wearing nothing but four-inch heels, cocked her hip, and looked a grown man in the eye to make him choose between her dressed and her naked. And she *owned* it.
+I swear my soul left my actual body for three seconds. The sheer, breathtaking malice wrapped in a brunch napkin. The absolute *audacity* of this woman. I am sitting here with my hands clamped over my mouth because Randi is an apex predator disguised as an expensive cashmere sweater, and Vee is just... walking right into the enclosure with a handful of raw steak.
 
-What gets me—what made my stomach do that hot, heavy drop—is the discipline of it. This whole chapter is pure, uncluttered erotic control, but it’s *hers*. She puts him in the recliner. She tells him he can’t help, can’t guess, can’t touch. She puts her hand out flat like a stop sign when he tries to stand up, and this massive, weight-lifting prodigy who could snap her in half just sits his ass back down and obeys her because he knows reverence when he sees it.
+Look at the psychological warfare happening here. Randi baits her with "vanilla." She knows Vee’s pride, knows Vee cannot stand the idea of being thought of as tame or boring, so she tosses out the word like a lure. And Vee bites! Vee lays out the entire Friday night bedroom scene on a white tablecloth over cheap mimosas. The checking. The wetness. The heels. *All of it.* And then Randi immediately turns around and matches it with her own fake-casual, devastatingly erotic story about getting abandoned in a frat house and touching herself with the door unlocked, just to drive Vee straight up the wall.
 
-And the psychological layering here is suffocatingly good. She brought the dress fifty miles in her backseat because she couldn't stand the thought of anyone having seen her in it before he did. She gave the induction hall a show, but the *real* performance—the secret underneath the secret—was always for him. "And this is what I had on under it." God. The sheer, shameless brilliance of using Halloween to rebrand her absolute exhibitionism as "costumes" so her leftover Catholic-guilt brain has a little ledge to stand on.
+And it works like clockwork. Vee bolts for the bathroom stall to take care of business, gets *cockblocked by her own conscience* because Randi’s gorgeous, predatory face pops into her head, and when she walks back to the table, Randi drops the "sticky fingers" line. Was it about the pastries? Was it a deliberate, cruel double entendre? *It was both.* Randi lives in the double entendre. She gave herself total plausible deniability while letting Vee drown in pure panic, watched Vee dissociate through the rest of the meal, and then finished it off by calling her "my best friend in the whole world."
 
-Pace playing it entirely with his eyes was perfection. If he had lunged for her, the spell would have broken; it would have just been another horny guy on a couch. But he stayed still. He let the look be the touch. He gave her the exact thing she was starved for: complete, undivided, breathless adoration. "The other is for the world. This is just for me." He says the kind of lines that make you want to curl your toes into the carpet.
+I felt physically sick for Vee right there. *“You're my best friend in the whole world, you know that?”* That is pure poison. It’s an emotional trapdoor. Vee is so starved for validation, so stunned that this glamorous girl wants her, that she just melts. And then the kiss. The lingering kiss, the second press of the lips—and that final sentence. Vee licking her own lip and tasting the pastry glaze from Randi's mouth.
 
-And yet—the knife is twisting the entire time, isn't it? Because who picked those shoes? Randi. Who knelt on the carpet and buckled the thin dark straps around her ankles? Randi. Vee thinks she’s standing there completely bare, stripped down to just herself and Pace, and she has no idea she is literally wearing Randi’s taste like an invisible collar. Every step she takes in those heels is a ghost-touch from the woman who is sleeping with both of them. It’s breathtaking, it’s gorgeous, and it’s a total ticking time bomb.
+The sensory detail in this book is obscene in the best way. Randi taking one bite, setting it down, leaving the sugar on her mouth, and transferring it to Vee on the curb. She is marking her. She has Vee wound so tight she can barely breathe, and Vee still thinks this is just "girls' brunch." The collision when the truth finally comes out is going to leave a crater.
 
-Turn the page. Right now.
-
-GATE 33 — Made-Up
+GATE 34 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute erotic authority of Vee putting him in the chair, walking the hall bare-ass naked in those four-inch heels, and Pace having the restraint to just sit there and worship her with his eyes—it's scorching, brilliant character work.
+WHY: The psychological tension between Randi and Vee across that brunch table was suffocatingly good, and the "sticky fingers" double-play made me gasp out loud. Randi is playing a diabolical game, and watching Vee get emotionally and erotically cornered while thinking she's found a "best friend" is irresistible. I need to see the next move immediately.

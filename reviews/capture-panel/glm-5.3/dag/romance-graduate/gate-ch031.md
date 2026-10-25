@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
 
-REACTION: This chapter did something to my chest, actually. The whole book has been Pace building Vee's bravery piece by piece — the dress, the heels, the walking — and here she walks it back down the hall *to him*, on her own feet, with nobody asking her to. That reversal is everything. "The finished thing had crossed a stage for everyone but its maker" — I put the book down at that line. He made the dress for her name in a good room and he missed it, and she knew that debt existed before she could admit she'd come to pay it.
+REACTION:
 
-And the two-costume structure is just... smart. Costume one, the dress, done with the careful walk first and THEN the long stride — she gave him the induction in miniature, the murmur happening silently on his face, "and to her it was louder." I felt that. Then the door closes and the dress goes on the hanger — properly, "a thing somebody's hands were in," God, this writer — and the heels stay on, and the second costume is *nothing and the blush*, and she doesn't cover one inch of it.
+Okay. I had to put the book down after "Sticky fingers?" and just sit there.
 
-What got me most isn't even the heat. It's the restraint that mirrors his: she put him in that chair and he STAYED. Hand coming partway up and being put away. The looking is the touch. This book has taught me his restraint so well that watching him exercise it on *her* initiative — her holding the power, him submitting to the sitting-still — reads hotter than if he'd crossed the room. And "That's like asking me to choose between sunrise and sunset... the other is for the world. This is just for me" — that's the most openly he's ever said what she is to him. In words. Out loud. The blurb's whole engine is "everything but a word for what they are," and that's not the word, but it's the closest he's come, and she DRAGGED it out of him by standing there in heels.
+This chapter is Randi at her most terrifying and I mean that as a compliment to the writing. The whole brunch is a repeat of the practice-room structure — interrogation, confession, escalation — but this time Vee doesn't escape to the bathroom and *finish*. This time she gets one unfair inch from the peak and Randi's face arrives behind her eyes and she *stops*. Stops with her own hand inside herself because she can't be looked at like that by Randi and keep going — do you understand what that sentence is? That's not friendship. That's a woman whose arousal now routes through another woman's gaze, and the book said it in one line without underlining it. And then the curdle — "frustrated and cowed in the same breath." Cowed. That word did something to my stomach.
 
-Also small things: his boots on her feet clomping through the dark, feeling like a child in a parent's closet — the vulnerability detail of the year. Him turning the lamp one click brighter before she even comes out. "Take your time," once, and then the house going quiet and letting her change alone — he KNOWS the ceremony of her courage, he protects the privacy of it even inside a surprise.
+And Randi's mixer story. I clocked it immediately because I've been trained by thirty chapters: another probably-invented blond boy, another interrupted crescendo, told with her eyes right on Vee's the whole time, "doing a private dance" — she narrated Vee into the bathroom. She knew exactly where that story was sending her. The woman ordered a second mimosa off Vee's budget tell and watched her come apart one confession at a time over eggs. That pleased little corner of her mouth staying up through the whole pastry I-won't-touch — she didn't need the pastry, she was already fed.
 
-The dread I've been carrying about the Randi reveal is still there, but it's quieter tonight. Tonight was Vee's chapter, all hers, and she was magnificent.
+But the ending. THE ENDING. "A thread of sweetness... the glaze of a pastry she had never once touched." I read it twice and then a third time with my hand over my mouth. Randi took one neat bite. One. And that bite ended up on Vee's lip via the goodbye kiss. Which means either the book just told me Randi ate something else before Vee got back to the table — or, worse and better, the kiss itself was the feeding, mouth to mouth, glaze and all, and Vee *still* filed it under sweetness and best friends. "Best friend in the whole world" delivered like a knife wrapped in a ribbon. This woman is feeding her own body to Vee through a kiss and calling it friendship and Vee stood on that sidewalk getting the sugar off her lip with her tongue like it was nothing.
 
-GATE 33 — Made-Up
+Also, quietly: the mimosa being the cheapest thing on the card, and Randi clocking it and being pleased — pleased by Vee's economy, by her smallness — while the credit card bill is still out there circling. That bookkeeping isn't done.
+
+What this chapter did that the last few hadn't quite: it made me *anxious for Vee* again, not just warm toward her. The induction chapter was triumph, the Halloween chapter was gift, and this one is the bill arriving early — emotionally, not financially. Yet.
+
+GATE 34 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 9
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The power reversal — her choosing, him sitting still — landed as both the hottest and the most romantic beat so far, and "this is just for me" moved the unnamed-relationship needle for the first time in the whole book. I'd read the next chapter before I set this one down.
+WHY: This is the chapter where the triangle stopped being subtext for me as a reader-in-on-it and started actually *landing* on Vee's body — the interrupted bathroom scene, the glaze, "cowed." Randi is conducting with her whole arm now and Vee still can't see the orchestra. I need to know what happens the first time she does.

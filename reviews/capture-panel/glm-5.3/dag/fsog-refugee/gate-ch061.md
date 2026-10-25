@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-07*
 
-**REACTION**
+REACTION:
 
-Oh, this chapter. It got me somewhere I wasn't fully braced to go.
+Well. That's the chapter. That's the one I'll be rereading.
 
-First the good: Pace asking — that "Will you?" beat where I felt the book showing me exactly the thing I came to this genre looking for. He could tell her. He asks. Every time. And her yes arriving ahead of her mind, that's Vee to the bone — the daring becoming the appetite, the way the blurb promised. That part of the chapter, I underlined in my head.
+The painting — I've never read anything like it and I believed every second of it, and the reason I believed it is the same reason I'm still in this book: consent running under the whole thing like a current. He asked for the wax Sunday, straight, eyes on her, *will you?* — and then the reveal, "I'd like you waxed," and she got to say yes before her mind caught up, and the book never once winks at the imbalance or exploits it. And tonight she pushed HIM down first. She got there before him on her own nerve — "tonight I was getting there before him" — and when she said "No, you wait," his eyebrows went up, amused and delighted, and he waited. A man with all that control handing it over when she reached for it. That's the whole thing I came back to this genre to find, and here it is again.
 
-But the salon — that was the book doing something sharper than a waxing scene usually is. The wrong hand. That whole passage about the grammar her body knows, "held her the exact way she wanted to be held and it did not want her at all" — that's the thesis of why Fifty Shades broke on me, written from inside a woman's skin. Being pinned and handled by someone who wants nothing from you, and the ache opening up a mile wide for the right hand. I actually had to put the book down for a second at "Don't move." Not because it was too much — because it was too *true*, and nobody writes this part.
+The scar. She kissed the scar. The one he's moved her hand off of before, wordlessly — and this time he let her, and she asked it nothing, one soft kiss and onward, and I had to put the book down for a second. She's learning how to love a sealed room without breaking the door.
 
-And then the false floor. Roll over, hon. My stomach dropped right along with hers — and my guard went up with it, same as hers did NOT go up. Here's where I'm sitting with the uneasiness: Randi left that part out. "Barely stings," the wine, "the most expensive thing in the room" — Randi, who routes around the one thing Vee asks for, who arranges, who one-quarter-inches. Was it carelessness? Was it Randi knowing that if Vee knew the whole shape she might stop at the door? I want to believe it's the first one — Randi's had the Brazilian so long it's furniture to her, "it's all the one service" — but I've read sixty-seven chapters of this woman and I know better than to hand her a pass without checking it. And Vee herself clocked it: "the part Randi hadn't said." She clocked it and rolled over anyway, because "another line seemed like a joke, a girl who had any lines left." That sentence worried me. That's not the girl who opened the coat on her own nerve — that nerve was *informed* nerve. This was nerve running on an incomplete map.
+And the paint itself — the fruit still-life, the grapevine growing out of her palm, cantaloupes, one great cherry on her mons — it's so HIM. This is a man who peels blood oranges section by section. Of course foreplay for him is a still life. Of course the gesso is her. That image — "enough of her for this beautiful serious man to dip a brush in her and paint her with it" — went straight through me. And then he made abundance the entire POINT. Everything she's ever been told is too much — the breasts, the hips, the wetness she can't contain — arranged into a picture that is *about* plenty. "Made abundance the whole point." That's not just hot, that's the cure for the mother's voice and Sondra's bright room and *the kind of girl who* and every pricing look she's ever stood still for. He keeps doing this — taking the thing she's ashamed of and handing it back as the feature. I noticed that. The book keeps doing it and I keep falling for it.
 
-But — and this is why I'm not angry the way I'd be in another book — the ending pulled it back for me. Her own hand on the bare skin, the sound she made, wanting his hand. She takes it back. Whatever got done to her in that bright room, she walks out owning it, and the last line — "no one in it knew but her" — that's the private that's HERS now, the healthy kind. She did it for him AND she did it for herself, and the chapter let both be true, the way this book does both-true-at-once better than anything I've read.
+The one moment that wasn't pleasure for me: her near-miss on his mouth at the end. "There was a trace... her tongue sought it... gone." My unfinished-reach girl got one breath from closing the distance AGAIN — and this time she was reaching for it, actively searching with her tongue, and his thrust took the question away, and she *let the uncertainty disappear*. The book keeps dangling that last half inch in front of her and pulling it back, and I'm doing the same flinch she is every time. Chapter 63 ended with "her mouth was still empty," and this chapter moved her centimeters closer and still didn't land it. I'm not mad — this is clearly the spine of her whole arc — but I felt that denial in my teeth.
 
-Also: "the kind of girl who" in her mother's register. That flat kitchen voice has been under everything since the beginning and it showed up exactly where it would — at the moment of saying the want out loud. I keep noticing the two mothers in this book, mine and hers.
+And the last beat — the photo. He took it, handed it back, never asked for a copy. "Nobody on earth had seen it but her." And then her mind went to Randi on its own — "tried to hear what that voice would do with this one" and it wouldn't come — and she decided, flat out, *she would not be telling her about this.* There it is again. The layering. Randi gets the roadhouse story, the waxing appointment, Sondra's name — and the truest, proudest thing of all goes into the drawer with the coat-lining and the taste and the "obviously." She's allowed her privacy now, mostly it's healthy — but this one she's hiding from the one person she tells everything, and the reason she can't hear the sentence in Randi's voice is the reason she's hiding it, and the book knows, and I know, and tomorrow is Randi's. The mixer. Thursday's chapter is going to be Vee across a table from her with a painted body under her clothes and a secret in her pocket, and I already feel the pull of that.
 
-I want the weekend. I want his hand finding what she did. That's the NEXT score, not this one — this chapter was the ache, and the next one is the payoff, and I know this book well enough now to trust the payoff comes.
-
-**GATE 8 — Barely Stings**
+GATE 69 — Still Life
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "So she rolled over." — not because I wanted to quit, but that was the moment I went cold for a beat, the Randi-shaped hole in the briefing.
-WHY: The wrong-hand passage is the best writing about consent and want I've seen in this genre — it made the abstract thing I left other books over into something physical. My NEXT is nearly all "his hand, the weekend" — and a small watching-itchy feeling about Randi's omission that I know the book planted on purpose.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The painting scene is the best thing this volume has done — hot, strange, tender, and built entirely on asked-for yeses, with her taking the lead twice. It lost a point on NEXT only because the afterglow deliberately banks the fire and points me at Thursday's Randi chapter, which is a different hunger than the one this one fed.

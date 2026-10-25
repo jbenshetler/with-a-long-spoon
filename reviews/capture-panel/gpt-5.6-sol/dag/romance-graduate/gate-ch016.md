@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0738735086d3 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-24*
 
-REACTION — Oh, Randi. That lunch was a seduction disguised as a debrief disguised as friendship, and Vee has absolutely no idea how completely she was handled.
+REACTION — Oh, this is what I have been waiting for. Not merely the sex—the book finally letting Vee have exactly the sex it has been teaching me she needs, without suddenly turning her into Generic Horny Romance Heroine the second her clothes come off. She is still completely herself in bed: wanting, ashamed of wanting, turned on by the shame, furious at her own evidence, and then gradually too present inside her body to keep standing outside it judging. The fact that the shame never conveniently disappears, but simply loses its power to close her, got me. “It was the first time that had been true” landed harder than either orgasm.
 
-The contrast with Cassie made it almost unbearable. Cassie listens without taking. She lets Vee choose the shape of the telling, lets a silence stay a silence, touches her knee once and gives it back. Randi opens Vee like she already knows the combination. She normalizes the nudity, praises the exact body Vee is ashamed of, turns embarrassment into complicity, then walks her down through the memory one soft question at a time until Vee is about to surrender the most private part. And then: “You don’t have to tell me.” That was viciously effective. Kind on the surface, almost exquisitely considerate—and also a withdrawal at the precise second Vee was ready to give her everything. I felt the absence hit. Randi made herself the person Vee wanted to confess to, then left the confession suspended between them.
+And yes, extremely hot. Pace asking, “Would you be bothered if I was too hard?” nearly killed me. He takes the thing she believes exposes her as excessive and gives her his matching evidence of want. He doesn’t reassure her with some bloodless speech about bodies being natural; he makes her wetness erotic, welcome, answered. That is grown-up emotional intelligence doing actual work inside an explicit scene. This is precisely the combination I keep looking for and almost never get.
 
-I also do not believe that scarf story for one second. Maybe some version happened once, but “beautiful idiot,” tied wrists, helplessness, letting go—Randi was feeding Vee a fantasy and calling it gossip. She was teaching her a language for what Pace might do and making herself the woman who could safely hear about it. Except she is not safely outside any of this. Her thumbnail digging into the glass while Vee talked about Pace seeing her naked was jealousy so sharp I could practically feel it under my own nail.
+I also loved that his restraint finally broke without vanishing. He waited inside her until she told him with her body, then eventually stopped governing himself because she had been asking for that surrender too. It felt earned by the mountain, the truck, the fitting, every withdrawal that left her wanting. And thank God the prose didn’t go coy when they finally got here. I did not wait eighteen chapters to hear that they “became one” beneath moonlight.
 
-And then the kiss. The second press is what got me. One kiss can be social camouflage if you’re desperate enough to explain it away. Drawing back and returning with more is a choice. Randi put her hand on Vee’s jaw and kissed her exactly as deliberately as Pace leaves space for Vee to cross—except Randi has built the entire emotional corridor leading to that moment and knows Vee won’t recognize where she has arrived. It was hot. It was also frightening, because Vee’s first response was pleasure and her second was surveillance: who saw, which windows, what this could cost. That landed hard after watching Randi move through money, restaurants, and fire lanes as if consequences belong to other people.
+The scar snagged my attention hard. She notices it, then he redirects her into him before either of them speaks about it. I am absolutely filing that beside Daphne and the closed reaction to his parents. Pace has been almost unnervingly complete until now—competent at mathematics, cooking, woodworking, sewing, sex, emotional attention—and that scar felt like the first physical tear in the polished picture. I want to know what happened, but I’m glad she didn’t stop this first encounter to interrogate him.
 
-I want Vee to realize she wants Randi before Randi gets to define that want for her. I want Cassie in the room when the truth finally breaks. And I desperately need Pace and Randi’s next private conversation, because Randi just crossed a line I’m not convinced they agreed she would cross—and she did it while pretending, perhaps even to herself, that it was simply how women like her say goodbye.
+The quiet afterward may have been even more intimate than cuddling would have been. She follows him wrapped in his sheet, eats his food, doesn’t perform conversation, gets full, then walks naked into his kitchen to offer him the soaked green panties she deliberately bought for him. “Trade” is such a perfect little word after the flannel: not gratitude, not repayment, not him furnishing another need. She gives him something chosen, unmistakable, and hers. That ending made me grin like an idiot.
 
-GATE 17 — How It's Done
+My fear has not gone anywhere. Pace is giving Vee a profound experience of agency while withholding the fact that he and Randi selected and arranged her. The better and more real this becomes, the worse that concealed beginning becomes. And after Randi kissed Vee, extracted almost every intimate detail of the fitting, and then abruptly closed the door when Vee was about to confess the wetness, I desperately need to know what happens when Randi hears about this. She said she wanted “us.” I no longer believe any of them mean the same thing by that word.
+
+The 1 a.m. text is: HE COOKED FRA DIAVOLO AFTER RUINING HER AND SHE TRADED HIS FLANNEL FOR HER WET GREEN PANTIES. ALSO THIS MAN HAS A MYSTERY SCAR AND A MASSIVE ETHICAL TIME BOMB. I am not sleeping.
+
+GATE 18 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi’s jealousy, manipulation, genuine longing, and that unmistakable second kiss all collided at once. I’m already turning the page because the triangle has finally changed shape, even though Vee is still explaining it away.
+WHY: This paid off the entire slow accumulation of looking, choosing, hunger, food, shame, and restraint without flattening Vee into a different woman once sex began. I need the next chapter immediately—not because this encounter was incomplete, but because it made the emotional stakes of the secret almost unbearable.

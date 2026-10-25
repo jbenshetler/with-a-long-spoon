@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 60685a587d38 · 2026-10-11*
+*capture-dag-v2-rich · gate ch011 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
 
 REACTION
 
-Oh, that's a short one, and it's the right short one. After the truck I needed exactly this — a cool room, a cracked window, and Cassie.
+Okay. I read that one with my hand over my mouth and I'm not sure which half of it the hand was for.
 
-I was braced the whole time. The whole chapter I'm reading Cassie's face and not Vee's words, because I know what Cassie's carrying and Vee doesn't. "You're alive." "I had your blood type ready." She's doing the dry thing, the file-revising thing, and I can see her doing it the way you watch someone hold a door shut with their shoulder. And then Vee slows — the book even tells me, the way she slowed at the tree — and Cassie goes still "and stayed that way," and I went still with her. Because the flannel. Three sizes too big, not Vee's, and Vee wearing it anyway, and Cassie's eyes going straight to it before a single word. That's a woman reading a shirt and getting the whole night off it.
+The sex was hot. I'm not going to pretend. Her holding him just at the head of her and making him watch, the inch and the stop and the inch — that's the thing I came to this genre for and she's running it on him this time, and he lets her, and his groan "he had not decided on" is the best line of male surrender I've read in months. She's driving. He's glad. Nobody's being done to. If the chapter had stopped there I'd have been fine.
 
-And Vee just tells her. All of it. The blister and his hands and the blue shirt and "I think there's a whole situation under there" — I laughed out loud, she's so *happy* — and then "I took my wet shirt off in front of him. On purpose. Me." She tells Cassie the thing I'd have told nobody at twenty-one. She tells Cassie the same thing she'd tell Randi, and here's what got me: Cassie didn't ask for a beverage, didn't snap her fingers for his name, didn't hang up a picture of a man ravishing her against a tree. Cassie listened. Randi at the white table was listening *for* something — I know that now, I've seen the couch, I've seen *tell* — and Cassie in the sweats is just listening. "Vee." Soft. Not "Oh, Vee." Just her name, like setting something down where it wouldn't break. I had to put the book on my chest for a second. That's the most loving sentence anybody's said in this book, and the girl who said it is going to get nothing for it.
+But then "Tell me," and he gives her Vee's *throat*. Gardenia and musk, warm since morning. And then the chlorine. Pace. That's the pool. That's the one room in that girl nobody's ever been let into — I wrote it down, I remember her underwater grieving before she came up — and he hands it to Randi as a thing to tighten around. I actually put the book down on my chest for a second. I knew he reports. I've known since the couch with the wine. But I was reading his silences like I said I would, and here's what I found: he kept the truck. "Her stomach is soft" and not one word about how he knows — the rain, the buttons, her looking down so his eyes would go with hers. He kept the part where she *gave* it. He's keeping more now. That's either the beginning of him choosing Vee or the beginning of him lying to both of them, and I can't tell which from here, and that's exactly where this book wants me.
 
-"I know," Vee says. She doesn't know. She thinks Cassie means *you're falling.* Cassie means that and also *I can see exactly what's happening to you and I'd have stood in the rain too.*
+And Randi. God. The clench with her eyes shut on "her stomach is soft" — she's not getting off on that one. The first one, the scent, that went through her the way the froyo cup did. The second one she *held* on, nails in, not moving, and he had to say her name. Belly tight as a board and he "took it for the want." No you didn't, honey. You've got a girl on top of you who just heard that the thing she pointed at on the quad has a soft stomach you've touched, and whichever one she's jealous of — and I still can't say which, I think she can't either — it just went into her body because it's never once been allowed into her mouth. "I want us." Torn out of her. Us who? Her and him? The three? I think she doesn't know. I think it's the truest thing she's said in fourteen chapters and he heard it as dirty talk.
 
-What this chapter did underneath — and I don't think I'd have noticed it a week ago — is confirm what I believed about him through a second witness. Vee's account of the truck matches what I saw. He stood out there with his back to the cab so nobody would be looking at her. He didn't touch her. He drove her home. There's no version of the night that gets worse when a third person hears it. That matters to me more than I can explain, after years of books where the retelling always had to leave something out to stay romantic. Nothing was left out. "He looked at me like I'd handed him something." Yes. That's what I saw too.
+She didn't stay. That's the chapter. Not the sex — the deadbolt going back over and the car careful on the gravel and him standing in his own door with the cold coming in. She's never left after. Not once. "How was it?" and she never came back for the answer because she couldn't stand to hear it in his voice in her own bed. And the chair by the door with nothing on it — he *noticed* that, he set it aside, he's a man who clocks what isn't there and still took her belly for want. I was angry at him for two pages and then he was alone at the refrigerator making a second dinner and I wanted to put a hand on his back. He feeds women. There was nobody to feed. He ate and was still hungry and made more, and if that's not a man who's just realized he's in something he didn't design, I don't know what is.
 
-And still. The gap's getting long now — the last time he and Vee were alone and warm in a room with no rain and no siren was the tree, and before that the restaurant. Truck doesn't count; the truck got cut off by a cop. The flannel is a promissory note. "I kept the shirt. I didn't ask. He didn't ask for it back." I know what that shirt is. It's the next door. She's going to have to bring it back, and the address is "off six-fourteen, that's the whole address," and he keeps it too warm in there, and there's a table with the top on. So I'm fine with a quiet chapter. I'm not fine, I'm *full* — but I want the gravel road next, and I want it with the care from the cherries and the moleskin still intact when the room is his.
+What I'd text at 1 a.m.: he said *stay* three times and she didn't, and he'd have knelt on a trail for the other one's blister without being asked. The book is lining those up side by side and not saying a word. Randi's still coming apart in her own car. Vee's asleep in his flannel. And he's the only one of the three who doesn't know yet that he's already chosen.
 
-Also: Randi wasn't in this chapter and I felt her absence like a draft. Vee said "Cass" eleven times and never once "I should tell Randi." Good. Let her have one room the plan isn't in.
-
-What I'd text at 1 a.m.: *"Borrow real boots next time." "I'm keeping the shirt." "Keep the shirt." I'm going to cry about the roommate and the book hasn't even done anything to her yet.*
-
-GATE 13 — Rye
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 9
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: A breath after the truck, told to the one person in the book who isn't playing, and the retelling didn't lose a single thing in the telling — that's the care being real. Cassie's "Vee" set down where it wouldn't break is the turn for me, even though it's not the bond the book thinks it's about. The shirt has to go back to the house off 614, and I'm already reading on.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Her hair smells shampoo-clean, and subtly, underneath it, a hint of chlorine. Like a pool."
+WHY: He handed Randi the pool and I nearly closed it on him — but he kept the truck, and she couldn't stay, and he stood in the door hurt by it. The silences are getting louder than the reports now and I have to know what's in the next one.

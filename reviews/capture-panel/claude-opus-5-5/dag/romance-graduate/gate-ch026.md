@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0dc82afa8adc · experiment merge-space · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · dated · 2026-10-24*
 
 **REACTION**
 
-"She cried."
+Okay. *Okay.* I need to talk about the scarf first, because I gasped out loud.
 
-She didn't. I was in that room a chapter ago. Vee fixed her sad-clown face at her own sink, walked across campus eating an apple, and told it straight in the desk chair. She laughed about Edna Mode. Randi handed Pace a crying girl because a crying girl is softer and needier and easier to move around. It's such a small lie, and it told me more about Randi than any of the slips with the accent did. Then there's "Give her a day," which Pace notices is said "as if the day were his to give." Right, Pace, it isn't yours. Randi set the schedule this morning, out loud, in her bedroom, and now she's delivering it to you as a forecast. She's running both of them, and for one line he almost sees it.
+The porch wind pushes it crooked, he sets it back with two fingers, "a half-second longer over the silk than the errand needed," and Vee's little vanity goes *the scarf is working.* Baby, he knows whose scarf that is. He knows those cognac heels too. "His eyes went down. To her feet." She thinks he's clocking the height and feeling disrespected. I think he's looking at Randi's shoes on Vee's feet at his own door, the morning after Randi rode him and told him about putting them on her. Randi dressed her for him. She sent Vee up the hill wearing her marks. Vee reads every look as being about *her* failing, and I'm sitting a step ahead with my hand over my mouth. That's exactly the "reader a step ahead" the jacket promised me, and it's the first time in a while I've felt it this sharply.
 
-The sex scene is the whole engine of this book, and I'm uncomfortable admitting how well it worked on me. Randi rides him and tells him about Vee in her bra, Vee on her rug, the slow walk around her, her hands up under the skirt. Then: "she made a sound and hoped I didn't hear it." I *was* there for that sound. I watched Vee hope it wasn't out loud. Now it's being served up as pillow talk while she clenches on every word. That's hot and it's a violation, and the book knows the two are the same thing. That's why it lands. I'm angry on Vee's behalf and I'm turned on, and I don't get to pick one. That's exactly what I came to this book for, and it's horrible.
+The apology scene was grown-up in the way I keep begging books to be. She builds the "clean machine" and it runs fine. Then he does the un-romance-novel thing and won't take the closed door: "But what happened?" No grovel, no instant forgiveness kiss. He wants the *why*, and she has to stand in his front hall and say the ugly part, that some part of her was waiting for a lie to pick up. Then "Thank you for telling me what she said." That's such a weird, exact, right thing to thank someone for. I believed both of them. Funny detail: the version she gives him is cleaner than the one she gave Randi, and Randi told Pace "she cried." Everyone's editing the books.
 
-What's really changing is Randi. "I haven't stopped thinking about her." Her voice "had gone somewhere without her." For the first time she's not reporting for the game, she's confessing. And she comes through the door pleased and *lets it show*, after a whole chapter of eating everything on her plate. She's happy because Vee came to her. That scares me more than the starving Randi did.
+My one wince is the gods line, "Beauty like yours made for the gods and loaned out." It's a lot, even for him. And then the actual make-up night gets one sentence: "first lighter and then not light at all." I tensed hard there. That's a door closing and I hate doors. But Sunday paid it back so fully that I've forgiven it. Mostly.
 
-The things I'm holding onto: Pace keeps what Vee said at the bar to himself. "Those were his, and that was Vee's." Twice now he's kept something of hers back from Randi. That's the thread I'm hanging on. Then he babbles to Sheri about Vee's thumb on the walnut grain, and Sheri says "Listen to you," and he doesn't even know what she means. Lovely. He's gone and can't see it.
+The kitchen. "Soaking is a recognized method" had me grinning. The tickling made me think of Randi's scarf guy, which I'm sure is on purpose. Then she swats *him* first, he turns off the tap, the room goes quiet, and the one wet-handed smack lands and her body says something she never agreed to say. Her nipples, the soundless *oh*. And then she spends the whole scene *hiding* it, which is the hottest thing in the chapter. She talks nonstop so the room never goes quiet ("a quiet room was a room with a question standing in it"), keeps her face in his neck, and every stroke wakes the sting so she's lighting the thing she's covering. He keeps trying to see her face. Then his hand just settles over the print, no new strike, and she says "*Please,*" attached to nothing. "This?" "*Please.*" And nobody names it. She keeps it, unnamed, hers. That's heat AND interiority in the same breath, which is the whole reason I'm reading this book.
 
-THE BENCH. It's the table against the bedroom wall, not the low table in the den. I had the wrong room. Randi folds her clothes on top of it and looks at it in a way that's "not the look you give a table." Facedown, "please," the voice he's never heard from her since. So now I know what's waiting for Vee, and that Randi went first and has never stopped wanting it. Every time Vee takes another step, the bench is the obvious next one.
+Then it went cold down my back. Two chapters ago Randi was face down on the bench saying *please* "in a voice he had not heard from her before or since." Now Vee is saying it. He's heard it from both of them. He's mapping them against each other, and Monday or Tuesday Randi is going to be on top of him saying "Tell me." Is he going to give her the kitchen? This is the one thing Vee kept even from herself. If he hands it over, I will throw my Kindle.
 
-Sheri's great. Faster on the climbs and never lets it go unmentioned, comments on women like the weather. Finally somebody in Pace's life who isn't in the game. But "If that's not already complicated, it will be. But I bet it's worth it" is the book clearing its throat at me. I'd already gotten there. Also, Pace calls it "two of them at once," like he's dating two women. He isn't. Vee doesn't know there's a "two."
+Monday morning wrecked me a little in the good way. The hair, the stupid tears, and "You're always beautiful." *Always*, not *you're beautiful*, which she'd have argued with. Fine, the book is explaining its own subtext again with that "Not X, which she'd have argued," but I let it go because it was true. And she's going into the week smelling of him head to toe with nothing of her own left on her. Lovely, and also a little ominous.
 
-Small eye-roll: "the tit goddess was generous." I believe Randi would say it. I still winced.
+The 1 a.m. text: *he spanked her ONCE by accident at the sink and she hid that she liked it through an entire sex scene and now I'm terrified he tells the girlfriend.*
 
-Saturday night is next. Vee shows up in Randi's shoes and Randi's scarf, with Randi's timing, to a man Randi warmed up the night before by telling him about her thighs. It's dread, and I'm going to read it right now.
-
-**GATE 27 — Space**
+GATE 29 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "The tit goddess was generous with that girl." It was a wince, not a real exit.
-WHY: The lie that Vee cried, and Vee's private sound sold as sex talk, made me furious and kept me hot at the same time, which is the exact both/and I came for. The Sheri coda cooled the chapter a notch, but it ends pointed straight at Saturday night, with Vee walking into a room Randi has already staged.
+ROMANCE: 3
+ALMOST-STOPPED: "though the evening went on a long time after it, first lighter and then not light at all"
+WHY: The best mix of depth and heat since the dress: an apology between two actual adults, then a kink she discovers in her body and hides from him in real time without either of them naming it. The scarf, the shoes, and that echoed "please" have me dreading Pace's next night with Randi, and I need to know whether he keeps the kitchen for himself.

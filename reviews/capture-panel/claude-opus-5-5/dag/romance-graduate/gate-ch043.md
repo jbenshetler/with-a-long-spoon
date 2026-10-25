@@ -1,32 +1,30 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, she *walked out*. With the chicken on the stove, the wine poured and the heat turned up for her. I was holding my breath the whole time she stood on that mat.
+Okay. I closed 47 with Vee crying out his door into the cold, and the book's answer was to hand me a ski holiday in Gstaad. Twenty days gone. No Vee, no Pace, no idea whether she drove back the next morning or whether they've spoken at all. I'll be honest: for the first two pages I was mad about that.
 
-What got me first was that the bag stayed in the car. She decided before she ever got out. She sat there with the engine ticking, the coin taste in her mouth and her coat buttoned to the throat, and gave herself an exit. That isn't a girl blowing up. That's a grown woman who lay awake two nights, came in with her case built, and *still* had to watch his face open for the door kiss and not give it to him. "She let him arrive at the fact of it." God. She didn't turn her mouth up.
+The opening breakfast nearly lost me. It reads like an inventory: Dad's steak, Mom's omelette, the tennis bracelet, her salmon on dark rye. "Randi delicately clomped" made me make a face. Then "eating her revulsion" landed, and I remembered MIRA, the dot off in the white. That's why she hugs her father like a sorority sister. Every gold thing in this chapter is the PPP money. It's a stolen-money chalet, and later she texts Vee "dad's got us in this insane chalet" with a heart. That irony doesn't need explaining, and thank god the book doesn't explain it.
 
-Her speech should have been too much, and it wasn't, because it's honest about the good part. "I'm not complaining about one minute of it." "What do I tell my mother, that he feeds me and we have a lot of sex?" She knows exactly how it sounds and lets it sound ugly, because that's the actual problem: without a name, the best thing in her life comes out of her mouth sounding cheap. That's what I've been missing from KU for years. A heroine who can say *the sex is incredible and that is not the point*.
+Then John shows up, and it's every book I've stopped reading. A towering stranger who cuts the line, a fake marriage bit, the guy who's secretly better at skiing, champagne at the hut, a gown bought that afternoon, white tie, a chef with a star, white truffle, a sleigh behind two grey horses. I actually laughed. It's the billionaire-romance checklist, start to finish, and for about five pages I couldn't tell if the book knew it. Then the dance. He's "a better dancer than Pace," and "easier was better," and "this is the one." By then I knew it was going to go bad, and I wanted it to.
 
-Then him. "Do any of your friends have a relationship you'd rather have than this one?" It's a mathematician's dodge, a counterexample in place of an answer. And it's TRUE, which is the cruelty of it, and she knows that too. Then "Words are cheap. Believe what I do," which is the jacket, word for word, and I'd been waiting for it. Her comeback, "Words are cheap, and you still won't spend them on me," is the line I'd text at 1 a.m. I physically said "ohhh" at it.
+The cut to "he drew her in, and she went. Afterward" is my hair trigger, the exact closed door I DNF books over. Here I'll allow it, barely, because the missing scene is the point: there's nothing to show. "A good sandwich eaten fast on a busy afternoon." The lipstick ring on him, "felt her own mouth do it from a long way off." The eyeliner held because "nothing had happened to her eyes." That line is cold and it's good. Still, I've noticed the book's explicitness depends on whose bed it is. Pace gets shown and John gets skipped, and that's a choice I'll keep an eye on.
 
-I sat there thinking: I know why he can't. Randi. The quad. "For us." Any word he gives Vee out there is a word he'd also owe the other woman he's careful with. The step-ahead thing is brutal here. She thinks she's asking whether he loves her. What she's really asking is the one question that would take the whole arrangement apart. The arms folding, "the still of a man holding a line at cost," told me he wants to say it and can't. Or he's protecting a structure. I honestly can't tell which, and I like not being able to.
+After that, the book does what I've been begging for since chapter 40: it gets inside Randi. "Pace went straight to her. That was the whole terror of him." That goes with "you make me feel real… it frightens me" in my notes, and now I believe it from her side too. Then: "Vee was her gorgeous." I had to put the phone down. She has never once said "I love you" without it being currency, except to Vee. She can run every scenario to the end except Vee's face. So she picks cowardice, and she picks it knowingly: "let the word keep its cover." It's heartbreaking and selfish in the same breath. That's what I've wanted from her.
 
-The Chili's chapter is paying off too. The sensory thing, the noise and "I can't hear you," means he's maybe not withholding out of coldness. Something in him really is wired differently, and it's mixed up with a lie he's actively keeping. Holding both of those at once is what I came to this book for.
+Still, the last stretch tells me things I already felt. "He was safe. She had put nothing on the table and had won exactly that." "The flaw was hers." The chapter starts explaining itself around there. I got the cold-seam image the first time; I didn't need it paraphrased.
 
-Gripes. "Not the hand in place of the word" is the book leaning over to make sure I got it. I got it, the whole chapter was about it. "Like my body comes with me attached" is an echo of the Randi brunch, and I noticed it. Mostly I liked the echo, because Randi already answered that line once with "It doesn't." Also, honestly, 44, 45, 46 and now 47 are four chapters circling *the word*. Chapter 46 was a short, quiet one, and by the end of it I was thinking *okay, I get it, she wants the name*. This chapter is what keeps that from being stalling: the circling finally turns into an act. If chapter 48 opens on her crying in the Corolla thinking about the word, I'll be annoyed.
+What I'm suspicious of: Randi's whole inner monologue about Vee leaves out the scheme. There's no "we chose her," no Pace-and-Randi plan. She thinks about Vee as if she were simply in love, which she is, but she's also a co-conspirator, and she doesn't let herself think about that. Maybe that's the most honest thing about her.
 
-What I want: Randi. I haven't been at a brunch table in ages. Vee is going to bring this to Randi, Randi is going to "comfort" her, and it's going to travel straight back to Pace. That's the scene. Also Thanksgiving with Sheri happened offstage and I'm still a little sore about it.
+And Vee's text, "i'm here if you want to talk. or not." That's my girl being the generous one from Ohio, with her own heart in pieces after the 11th, and Randi sends back the fairytale. I need to know if Vee told Randi about the door. Of course she did. So Randi knows, and she lay in that hotel bed knowing.
 
-Heat-wise there's nothing, unless you count her body wanting him on the doormat, and it's there in "it all went straight past her guard into the old wanting." That's a simmer. It doesn't need more.
+What I'd text at 1 a.m.: "the book did a whole Hallmark billionaire chapter just to kill it in bed and I kind of loved it. also Randi is a mess and I'd die for her."
 
----
-
-GATE 47 — Believe Me
+GATE 48 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 9
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "Not the hand in place of the word." It's not a stop, just the one spot where the book explained itself to me and I rolled my eyes.
-WHY: The jacket's central fight finally happened on the page, and she's the one who left. That's a real turn, and nothing a manufactured unsent text could do. Knowing about Randi turns his "believe what I do" from coldness into a lie I can watch him protect. I need Saturday brunch now, with Vee wrecked and Randi "helping."
+ROMANCE: 2
+ALMOST-STOPPED: "His room was high in the hotel with the mountains black in the window, and he drew her in, and she went." The door closed right where I'd usually close the book.
+WHY: The first half is the trope parade I left KU to get away from, but it's there so it can fail, and Randi's real interior when it does ("Vee was her gorgeous," the face she can't picture) is the payoff I've waited eight chapters for. NEXT is higher than CAPTURE because there's a three-week hole after Vee walked out of Pace's house, and Randi lying in that bed knowing about it makes me need January.

@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
 
 REACTION
 
-Wait a second. What just happened?
+Oh, my God. Oh my absolute, terrifying God.
 
-I am sitting here with my heart hammering, but half of it is pure, sickening deja vu. I read this exact brunch scene already. I literally wrote notes about it after Chapter 40! The eggs Benedict with the yolk running everywhere, the "sex pervert" absolution, the "hungry out loud" line, showing the cropped photo, Randi baiting her with *“Legs like yours, though—and you only gave him half?”*, handing over the full uncropped pinup to Randi, locking in the private Anthro class without Cassie, and chasing Randi's mouth at the curb—I *already saw this*.
+I feel sick. I feel filthy, I feel electric, I feel completely gutted. This chapter was like being held underwater.
 
-Did the timeline just snap backward to fill in the conversation after we saw the pinup being taken in Chapter 41? In 41, Pace was taking the picture and cooking the lemon chicken pasta. And now in 42, we are back at the Saturday brunch right after it, but the beats are so identical to what I was carrying from Chapter 40 that for three whole pages I felt like I was losing my mind, wondering if I was reading a revised draft or if Vee’s life is an endless loop of confessing her sex life over hollandaise sauce.
+The title—"Four." The sick, petty arithmetic of it. Vee sits at brunch bragging that he loved her three times in an evening, and Randi comes to his house on Monday and takes him four times just to beat the number. Just to write herself over Vee’s weekend. And the scratch on his shoulder! Randi putting a mark on him. And the couch—she’s bent over the couch, taking him from behind while they talk about Vee sitting in class leaking him into her skirt, and he *finishes* while Randi tells him how Vee leaned into her kiss on the sidewalk.
 
-Putting the structural whiplash aside: god, Vee is walking straight into the blades.
+It is monstrous. It is brilliant. It makes my skin crawl and my pulse hammer at the exact same time.
 
-*"Only if you promise you'll never share me with anyone."* That is what she told Pace in 41. She made him swear an oath to protect her, because having that picture out in the world is the most vulnerable, terrifying thing she could do. And then she sits across from Randi, gets nudged with *one* tiny little swipe at her pride—*“Legs like yours, though—and you only gave him half?”*—and she just hands it over. She betrays her own boundary, she hands over the exact collateral that keeps her exposed, all because she cannot stand the thought of Randi thinking she flinched.
+And Pace—god damn you, Pace. "She consents—every time—or I'm done." He says it so level, so absolute, like he’s the high priest of morality. He actually believes he’s protecting her! He thinks because he checks the gauge and asks "Does she want it?" that he’s clean. You arrogant, blind idiot. How can she consent to something she *doesn't even know she's in*? You gave her a drawer for her hairpins and you cooked her lemon chicken, and now you’re fucking Randi on the couch using Vee’s confessions as foreplay!
 
-And Randi's reaction when Vee described how Pace loves her? That bright, unfixed look in her eyes, that catch in her breath she couldn't smooth over—that was *not* just a friend getting vicariously turned on. Randi is caught in the middle of whatever game she and Pace started. She knows Pace. Did she expect Pace to treat Vee like a project, only to hear Vee say he looks at her like she’s a girl with a body attached, not just an object? Is Randi jealous of Vee, or is she jealous of *Pace* having Vee?
+And yet... look at what's actually happening in that room. Pace thinks he’s playing Randi, Randi thinks she’s playing Vee, but Randi is slipping. She is falling so hard for Vee it’s terrified her. "God, I want her." That slipped right out of her mouth before she could stop it. The facade cracked. Randi claiming she's "doing the work" for the threesome, that it’s grueling, when she’s practically vibrating with jealousy and lust and raw need. And then that ending—Randi shivering under the blanket, clinging to his arm, saying "You see more of me than anybody ever has... it makes me feel real. And some nights it frightens me." Randi is hollow. She’s desperate. And Pace is feeding both of them, controlling both of them, orchestrating this entire sick symphony.
 
-And then Vee chasing Randi’s mouth at the curb. *Leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself.* The book promised me an appetite that runs in more directions than one, and here it is. Vee is falling for both of them, and she thinks she's orchestrating every single step. "It's just us," she says about the Anthro class. Cassie is getting frozen out, Pace is waiting back at the house with dinner and unhurried hands, and Randi is driving off in the green Mercedes with a full-frontal nude photo of Vee in her head.
+Vee is walking around like a girl stepped out of a fairytale, totally, completely defenseless. She thinks she has a dedicated lover and a glamorous best friend. She has no idea she was picked out on a lawn like an apple from a tree. When this breaks—and it is going to break, it has to—it’s going to level everything.
 
-The tension is unbearable because the trap is entirely set. Every single piece is in place. When this bomb goes off, the shrapnel is going to tear her to ribbons.
+I am horrified, I am furious at both of them, and I cannot put this book down. Give me the next chapter right now.
 
-GATE 42 — All the Time
+***
+
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: The profound sense of repetition in the first half—I genuinely thought I was rereading a chapter I'd already finished.
-WHY: The timeline looping back over the brunch conversation and the photo reveal felt repetitive after the notes I carried forward, but the psychological tension of Vee handing over her own secrets while chasing Randi's mouth has me hooked. I need to see the collision.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: The sheer psychological dread and illicit heat of watching the trap from the inside is breathtaking; I'm furious at Pace and terrified for Vee, but I am utterly hooked.

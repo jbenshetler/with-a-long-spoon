@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
 REACTION
 
-Oh, the absolute suffocating *tension* of this chapter. It’s like watching someone walk barefoot across a frozen pond, hearing every tiny hairline fracture spider out beneath their weight, and they’re still trying to convince themselves they’re just on solid ground.
+Cassie is the only person on this entire campus with both feet on the ground, and this tiny scene just about broke my heart.
 
-Vee is spiraling, and the psychology of it is so uncomfortably real. That detail where she tries to explain away her desire as being "keyed up" or needing Pace, only for the excuses to run through her fingers like water? God, yes. And then having to sit hip-to-hip with Randi in an anthropology lecture while Dr. Marsh talks about debts and obligations you can't escape—it's so heavy-handed in the best, most delicious literary way.
+The absolute whiplash of Vee’s life right now: from having fruit painted on her bare mons and confessing an erotic awakening on Pace’s bed, to dodging Randi’s mouth at the dorm door, to standing in a drafty room with her church-coat on, taking a box of Cocoa Pebbles because it is the only appetite she is allowed to admit to out loud. It is so painfully, perfectly college. You can be in the middle of a massive, identity-shattering psychosexual crisis, but your roommate can still look at your wrecked face, bypass all the defensive bullshit, and just hand you cereal because she knows you forgot to eat.
 
-The moment Randi leaned in and their fingers brushed over the roll of Lifesavers? I stopped breathing. It wasn't even an overt sexual act, but the erotic charge was off the charts because Vee's entire nervous system is now completely rewired around this girl. The physical denial—turning her mouth away to dodge the goodbye kiss, only for Randi to strike like a snake and take the exact hollow of her neck that Vee has been obsessing over—was brilliant. Randi isn't backing down; she's pressing her advantage, playful and lethal.
+"Is this what you want?" Cassie asking that—not *what happened*, not accusing her, just cutting straight to the core of the rot—was brutal. And Vee’s immediate flinch into "You just hate sororities/you've never liked her" is so childish and real. When you’re caught doing something you don't even have a name for yet, you reach for the oldest, dumbest fight in your arsenal just to put up a wall. But Cassie didn't bite. She just let the plank rot on the floor and offered her cereal.
 
-And then the ending. The sheer relief and terror of Cassie finally stepping into the frame. Cassie sitting there with her coat still cold from outside, cutting right through the haze with one direct question: *"What was that with you and Randi?"* Cassie saw them. She saw whatever just happened at the door or at that party, and the fact that Vee has finally run out of lies, even for herself, is the exact cliffhanger I live for. The house of cards is trembling.
+It’s a tiny beat—barely a scene, really—but the emotional architecture here is doing serious heavy lifting. Vee’s entire world is accelerating into this hyper-sensory, manipulated fantasy orchestrated by Pace and Randi, and Cassie is the sole anchor tethering her to plain reality. That silence between them felt massive.
 
-***
-
-GATE 69 — Coming Due
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological claustrophobia was masterfully done, building the unbearable friction between Vee's denial and Randi's casual pursuit. Cassie asking the one question Vee can't answer is the exact spark needed to blow this open, and I have to see what happens next second.
+WHY: It’s a very short chapter, almost just an epilogue to the previous one, but Cassie's grounded presence is the exact reality check this book needed right now. The Cocoa Pebbles gesture completely disarmed me, and now I'm desperate to see how Vee handles Saturday brunch with Randi.

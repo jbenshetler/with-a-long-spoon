@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Randi. This is the exact emotional disaster I wanted from her and also the choice that makes me want to shake her.
+Oh, Vee. This hurt in the very specific way of going home and discovering your old life still fits around your body but no longer contains you. The too-short bed, the trophies, the dead friendships still pinned up like evidence—her room loves a version of her who doesn’t exist anymore, while the people she actually loves have left her with nothing she can name. That loneliness got me.
 
-The fairytale got me despite knowing better. The mountain, the man who could keep up without showing off, the dress, his face at the bottom of the stairs, the dancing, the sleigh—I understood why she wanted to step into the story and let it carry her. Especially after that breakfast, where she had to manufacture an acceptable version of herself before she had even finished her tea. For a while I wanted John to be real enough to offer her an exit. Not necessarily forever, just one clean night in which she could be wanted without all the secrecy and moral rot attached.
+And I’m furious with Pace now. Not because he didn’t text over the holiday in some ordinary boyfriend-maintenance sense, but because he knows exactly what she asked at his door. He watched her cry over the absence of a word, let her walk into the cold, and then allowed the entire break to pass in silence. “He always left you the room” used to sound respectful. Here it feels like abandonment disguised in his preferred virtue. He gets to call his silence space because he isn’t the one lying awake inside it.
 
-And then: nothing. Good sex, perfect man, perfect room, and nobody home inside it. The lipstick left on his body while she remained untouched absolutely chilled me. “This was the best the acceptable world could do for her” is the kind of realization that changes what escape even means. She cannot marry her way into safety because the safety requires her absence.
+The photograph split in two made my stomach drop: the whole Vee sent to Pace, the cropped Vee permitted into her parents’ house. She thinks she chose where each version went, but the whole version went into the least honest relationship in her life. And now she can’t even keep her own first night intact. Watching the invented blonde take Vee’s place at the table was horrible because that memory had been foundational—proof that Pace wanted precisely her—and the lack of a name has begun eating backward through even the things she knew.
 
-But the dancing comparison hurt most. John directs; Pace leaves room. Randi thinks she is tired of the work, and for one gorgeous evening she wants to be led so completely that she does not have to reveal or choose anything. Of course that feels wonderful right up until she realizes no one has found her. Pace’s lighter hand asks more of her because it assumes there is a person there whose movement matters. I hate what Pace and Randi are doing to Vee, but I completely believe why Pace is the terror she cannot replace.
+Meanwhile, “the one sure thing” is Randi. God. Vee reaches toward the person who will light up and call her gorgeous and mean it, and I believe completely that Randi means it. That is what makes this vicious. Randi is stable because she has concealed the information that would make Vee reevaluate her. Pace is uncertain because he refuses to speak; Randi feels certain because she speaks in two meanings and lets Vee hear the safer one. Vee thinks she has one opaque lover and one transparent friend. She actually has two lovers withholding the same reality in different dialects.
 
-Then Vee. God. Vee sending that soft, undemanding little message—*I’m here if you want to talk. Or not.* She offers Randi exactly what Randi refuses to offer her: room to tell the truth without being maneuvered. And Randi answers with a perfectly true lie.
+I also cannot get past Vee protecting Randi’s dignity over the PPP revelation. She saw the truth, understood the wound, and gave Randi somewhere to put her hands. That is such clean, instinctive love. Then Randi replies by giving her the fairytale instead of the truth, while lying beside the man she used to prove to herself that Vee is what she wants. Vee offers “I’m here if you want to talk. Or not,” and Randi takes the escape hatch. Again.
 
-That final decision is where my sympathy curdled into fury. She understands everything. She knows telling Vee would mean letting Vee decide. She knows “best friend” is cover. She knows she is preserving access to Vee by keeping the meaning divided between them. “Let Vee arrive at it on her own” is not tenderness or patience; it is Randi choosing the outcome she wants while making Vee responsible for crossing the line. There is no innocence left in this plan.
+There’s no erotic charge for me here, even when Vee remembers the sheet and the kitchen. The jealousy corrodes it too fast. But emotionally I’m caught hard. I need January. I need Randi to see Vee’s face light up and understand that she is accepting trust she has not earned. And Pace had better not be waiting serenely in his warm house as though Vee merely needed enough “room” to return.
 
-And yet “Vee was her gorgeous” nearly broke me. That is so nakedly hers, so unlike the polished currency she spends everywhere else. She loves Vee without a private qualifier—and immediately uses that love to justify denying Vee the truth. That contradiction is the whole fire now. I’m furious with her, aching for her, and absolutely reading on.
-
-GATE 48 — Fairytale
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The glamorous fantasy collapsing into emotional vacancy had me completely, but Randi’s conscious decision to keep her love disguised made the next chapter urgent. She knows disclosure would give Vee a choice, and she has chosen continued access instead.
+WHY: Vee’s loneliness, and the terrible inversion by which deceiving Randi feels dependable while silent Pace feels unknowable, has me completely. I need to see what happens when the semester begins and both hidden halves of her life come back within reach.

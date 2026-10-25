@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 08b46669b5c5 · 2026-10-01*
 
 REACTION:
 
-Oh, *Vee*. Oh no, no, no. My stomach completely dropped the second that blonde leaned over her drink at the bar.
+Oh, god. My stomach is in knots. Actual, physical knots.
 
-This hurt so bad to read because it was so completely, brutally *earned*. The author didn't invent some ridiculous contrived misunderstanding; she just let Vee’s deepest, most toxic wiring take the wheel. Vee has spent her entire life having *floozie* drilled into her head by her mother, hiding her body in oversized cardigans, terrified that being hungry and wanting to be looked at makes her dirty. And she just spent a week being treated like a queen, bloomed open, had him sew a silk gown to her bare skin, slept in his bed—and the second she’s in a public room and sees other women smiling at him, the old poison flares up like gasoline on a fire. *“Three dates, and she’d spread her legs like a slut.”* That line made my chest ache. The viciousness of her turning on him wasn't really about him at all—it was the terror of having handed her whole heart over without armor, desperate to strike first before she could be made a fool of.
+The first half of this—the sheer, miserable reality of the morning after a fight you started and immediately regretted—was so painfully accurate it made my chest ache. Sleeping in his shirt to hoard the smell of him until you hate yourself for washing it, hiding under the covers while your roommate gets dressed, the cold water shock at the sink trying to wash off the clown makeup. I felt every single second of that walk across campus. Vee carrying her little panic like a cup filled to the brim that she doesn't want to spill.
 
-And Pace! God, his reaction broke my heart. No yelling, no defending himself, no chasing her down to aggressively dominate her into listening. Just that terrible, quiet stillness when the venom hit him, the light completely going out of his face, and then setting his untouched beer down and walking out into the cold. He gave her the space she demanded because that’s who he is. He doesn't trap.
+And then she walks straight into the spider’s parlor.
 
-The bartender giving her the reality check was medicine, but the real agony is at the end: she's going to *Randi* to fix it. *NO.* Vee, call Cassie! Wake Cassie up! Cassie is three feet away in the dark, Cassie loves you, Cassie has no skin in this game! Going to Randi—who literally uses Pace as a proxy for her own twisted obsession with Vee, who is seething with jealousy over how slow and tender Pace is being with her—is like walking straight into a combine harvester. Randi is going to weaponize this fight so fast Vee won't know what hit her.
+Randi is *so* terrifying because she is genuinely, brilliantly good at this. She gives Vee the exact medicine she needs: she doesn't scold her, she validates her jealousy (*"You don't get that jealous over a man you don't care about"*), she re-centers Vee's power, and she makes her laugh. Calling her out on Edna Mode had me laughing out loud. But the absolute masterclass in grooming and possession that happens next made my skin prickle with heat and dread all at the same time.
 
-I feel sick. I need the next chapter immediately.
+Randi getting down on her knees. Reaching *up under the skirt* to steady Vee's bare thigh. The thumb pressing into the hollow behind her knee. Testing the architecture of the shoes, putting her own silk around Vee's neck, and then—the line that made the hair on my arms stand up: *"Maybe you just haven't met your Evil Queen yet."* She's telling her right to her face! She is literally dressing Vee up like a doll to send her back to the man *they are both sleeping with*, and Vee is so starved for female warmth, for glamour, for someone to tell her she looks like "dinner in Paris," that she's drinking the poison down like sweet wine.
 
-***
+And that kiss in the foyer. *"She hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."*
 
-GATE 28 — Lesson
+It’s normalized now. The trap has closed. Randi has successfully insinuated her mouth, her clothes, her scent, and her rules into Vee’s life, and Vee thinks she just found the best big sister in the world. Meanwhile, Pace is sitting in that house off 614 waiting out the silence, having no idea that the girl who is about to walk through his door in cognac heels and green silk is carrying Randi’s fingerprints all over her bare skin.
+
+I feel sick for them, and I cannot put this book down.
+
+GATE 29 — broken-in
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 2
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee's self-sabotaging lash-out felt heartbreakingly true to her trauma, Pace's dignified retreat wrecked me, and the impending car crash of her going to Randi for help has me by the throat.
+WHY: The psychological tension between Vee and Randi is suffocatingly good; watching Randi groom her and dress her under the guise of sisterly comfort is brilliant, erotic, and deeply ominous. I need to see Vee walk through Pace's door tomorrow night.

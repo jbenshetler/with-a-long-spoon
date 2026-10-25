@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch038 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
 
 REACTION
 
-I put the book down and sat there for a minute, and that hasn't happened to me in a long time.
+Oh, this book. I sat down to read one chapter before bed and it's midnight and I'm sitting here with my hand over my mouth because of a flannel shirt.
 
-I was braced for Thanksgiving — next chapter, surely — and instead the book reached sideways and gutted Randi where I wasn't guarding. The MIRA tag. Her own shorthand, her own cutesy four-letter tags, and the tag on the worst point in the county spells her name back at her. That's not luck, that's this book doing what it does — the detail you watched being built (she made those tags, she was proud of those tags) turning around in her hands. Like the mirror she forgot. Like "that's more than three." Everything Randi builds comes back with her own face in it.
+Five nights. That's the whole chapter's engine and the book knows it — she called the break herself, for good grown-up reasons (the paragraphs read three times, the textbook, the burn-down-the-wick of it — that detail actually reassured me, the counting econ girl isn't dead, she noticed the spending), and he just... let her go. "Of course. Take the time you need, I'll be here." And the book names the exact thing I'd have felt: some unreasonable corner of her wanted him to fight for the nights. I love a book that knows wanting to be fought for is unreasonable AND true. That's the interiority I'm starving for right there — the feeling isn't tidied, it's *ledgered*.
 
-And Vee *saw*. That's the thing I'm still processing. The whole book I've been waiting for Vee to see Randi — to catch the gaze she stops her own hand for — and here it is, and it's not that at all, it's better: Vee watched her go still and read the whole thing in one pass, the breath with work in it, the jaw — and then she did the kindest thing I've ever watched this girl do. She gave Randi somewhere to put her hands. She didn't name it, didn't reach for it, kept feeding her the questions she could answer until the color came back. That's not the Vee who stopped her own hand in a bistro bathroom because she was cowed. That's a woman being a friend with her eyes open. She's counting again, even if it's a different ledger now.
+And then the doorway. "He must have heard the car; he always heard the car." The bag sliding off her shoulder and she never heard it land — that's the kind of sentence I'd underline if the Kindle let me. The whole hallway striptease was hot precisely because it was undignified — hopping on one leg, the jeans inside out at her ankle, him holding her bra strap without pulling so she has to spool herself out of it. He makes her do the last of everything herself, always, and it's never cruelty, it's the same grammar as the drawer: he builds the place, she walks in. And the "you're not helping" / "I'm helping" exchange made me laugh out loud alone in my kitchen. Then her body publishing the number she'd kept private — I know exactly what that shame-flush is and I've never seen it written without apology before.
 
-"Cheating bastards." No *these*, no *those*. The narrator actually pointed at the grammar of it and I let it go because that's not the book explaining subtext, that's the book showing me Vee's ear — and my ear's been trained alongside hers for forty chapters, so it landed like *I* heard it, not like I was told.
+The pizza. I could watch this man reduce a sauce for a hundred pages. "He wasn't performing any of it for her" and she can't tell whether the dough or she got the larger share of his attention and *doesn't mind* — that's what actual security in a relationship reads like, and it made me realize how rare it is that a book lets a heroine feel safe without also defusing her.
 
-And underneath all of it: Randi's whole counterargument — "that was what the money was for," said with the ease of a girl who'd grown up inside the thing — is her father, and her father is the outlier. The con artist's daughter, defended by a story that was a lie. I keep thinking about Pace taking "she's choosing it" for an answer about her ethics, and now here's the answer: she wasn't lying, she was *loyal*, and it cost her the one thing she was sure of. The men in this book. The parents in this book. Vee's bright-voice mother on the phone, Pace's wall, and now Randi's dad, one company under another, loans like the layers of everything else in this book.
+And then the shirt. The SHIRT. She's been sleeping in his smell every night she wasn't there, it went stale, went to nothing, and she washed it and brought it back and — "This is still my shirt. You don't get to keep it." I had the tears with her. He thought she was returning it. One beat of hurt, "he decided not to ask. He was good at not asking things." And then he pulled it on right then, two shirts in his own kitchen, and that's the whole answer, as it always is. I'm wrecked in the good way. This is the tenderest chapter since the drawer.
 
-Cassie on the far side, certain, satisfied, right — and holding her laid-off dad like a fact with no handle on it. That's the true one getting the truth of it and not knowing whose name was on it. I'm scared of what this project does when Cassie finds out she graphed her best friend's family. "That's just the one that's easy to see." Cassie, you have no idea.
+Small watchful note: no Randi in this chapter at all, which after 41 is almost a relief — but I clocked the pattern. Ch 41 gave us MIRA and Vee choosing kindness over the con (she knows how not to weaponize an advantage; she is nothing like the people running her). This chapter gives us the flannel. The book is stacking tenderness before Thanksgiving, and I know what that means. I'm braced. The blurb promised cost and the blurb has never lied to me yet.
 
-Also, petty scheduling note: the anthro class is Tue/Thu "just us," and this stats project just fused Randi and Cassie and Vee into a standing trio with a glass room. The architecture is thickening again and Vee built it by accident *again*. She's a woman who keeps accidentally constructing the machine she lives inside — that's the sentence the whole book has been writing.
-
-Heat: none, and I didn't miss it for one page. This was the two-people-talking chapter I tell people about. If the next one is this quiet too I'll start to itch — but it won't be. It's Thanksgiving next, and Vee knows something about Randi now that Randi doesn't know she knows, and that's a second pipeline running the other direction.
-
-GATE 41 — The Outlier
+GATE 42 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 7
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Not one charged beat and I couldn't put it down — Vee finally seeing Randi, and the seeing being *kindness* instead of the reveal I was braced for, hit harder than half the sex scenes this book has given me. Zero heat, and the whole chapter was still about who's naked in front of whom.
+WHY: The shirt scene hit me harder than most sex scenes in other books manage, and the doorway/hallway had real charge — but it's a warm-embers chapter, not a cliff, and Thanksgiving is the thing I'm actually sprinting toward. The flannel bought my loyalty for at least three more chapters on its own.

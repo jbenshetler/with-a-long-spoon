@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch017 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0eff5df4f29c · 2026-10-24*
+*capture-dag-v2-rich · gate ch017 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ab6b14909a3d · 2026-10-24*
 
-REACTION
+Oh, this chapter is so insidious and so completely gorgeous at the same time. My heart is in my throat for both of these women.
 
-Oh my god. *“Trade.”*
+First of all, the dorm room opening with Cassie: "Was he worth painting your toenails? In October. I have eyes." I love Cassie so much. And I died laughing when Vee started unzipping her skirt to take a shower and remembered three feet from Cassie that she wasn't wearing any underwear because she'd folded them up and traded them to Pace the night before! That little detail—that she drove home bare under her skirt with frosted-plum toenails and didn't even mind her mother's voice in her head anymore because she was so happy—just made me grin from ear to ear.
 
-I am sitting here with my hand over my mouth. When she walked back into that kitchen, tried to fold the green satin panties in thirds with the wet spot centered, dropped the sheet so she had both hands free, and didn't bother picking the sheet back up while she finished the fold—I actually got chills. Think about where this girl started! Think about her in the sun porch two chapters ago, screwing her eyes shut and dying of humiliation because she'd soaked through her pale satin underwear on the riser. And now she is standing bare-ass naked in his kitchen, folding the exact evidence she used to want to sink through the floor over, centering the spot on purpose, and handing it to him as a trade for his handmade flannel shirt.
+And then the brunch with Randi. Every time they sit down at a table together, I am holding my breath waiting for the cruelty or the manipulation to curdle it, and instead what happens is so much more complicated and devastating. Because Randi *is* working her—making up the fake story about the "beautiful idiot" ex-boyfriend who was in a hurry so Vee will open up, coaxing the details out of her one by one—and yet what Randi actually *does* with Vee's secrets is heal her shame. Just like Pace does!
 
-And how did she get there? Because when he knelt in front of her and pulled those panties down and saw the crystal strings of her wetness catch between the fabric and her skin, and saw her hand start to come down to cover herself, he looked right up into her face and asked, *"Would you be bothered if I was too hard?"*
+When Randi stopped her and said, "You keep saying *he*. He was patient, he was gentle, like you just stood there and let it happen to you. Let me ask you something. That day. Did you do anything to get ready for him?"—I actually got chills. Walking Vee through the toenails ("You paint the toes for a man who's going to have your feet bare in his hands"), the frosted plum polish matching the dress silk, the green underwear ("That's not nothing, that's a *campaign*"), until Vee can say out loud, *"I wanted it. And I took it. For once."* Randi is literally teaching Vee to own her own desire without apologizing for it. That line—"You're not caught, sweetheart. You're lucky"—felt so achingly sincere. How can a woman who is running a secret game on you also be the friend who likes you better than you manage to like yourself?
 
-I could cry. That is one of the smartest, hottest, most devastatingly tender lines I have ever read in a romance novel. He didn't give her a flowery speech telling her not to be embarrassed, which would have just made her feel pitied or managed. He put their bodies on the exact same plane—*you can't help how wet you are for me, would you hate it if I couldn't help how hard I am for you?*—and let her hear how stupid her mother's voice is when you turn it around. And then he put his mouth right on the proof of it and stayed there until she came standing up with her knees giving out and his hand holding her weight.
+And the Tell! I caught it immediately! In Chapter 1, when Pace broke Randi open on the bench and made her beg in her real voice, her foreign inflection came out—the long *s*'s and the arched, lifting *a*'s. And here at the brunch table, watching Vee glow and hearing about how Vee planned and wanted her night with Pace, Randi's voice slips into the exact same register! *"Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting... and her eyes had gone liquid at the edges."* Vee thinks she's tipsy on half a mimosa, when in reality Randi's armor is slipping off at the brunch table because she is so turned on and so emotionally undone by Vee.
 
-Everything about the lead-up had me aching for her in the best way. Her nose buried in the collar of his flannel in the dark chasing the last of his scent, buying the deep green lingerie set because she felt pretty, painting her toenails frosted plum to match the burgundy silk he held up to her face (and then hiding them inside ballet flats so she didn't look like she tried too hard!). And then walking in to see he'd prepped the garlic and onions and left the pan cold and dry on the burner. He prepped dinner and *stopped* so that if she wanted to eat first, it took ten minutes, and if she didn't, nothing burned while he took her to bed. Who *is* this man?! And when she kissed him and he started to do his careful, checking-in pause, she grabbed him by the neck strap of his canvas apron and pulled him toward the bedroom herself. Every single step forward with them, he clears the ground and waits, and she walks across it on her own two feet.
+And then the goodbye kiss at the curb—the hand at the hinge of her jaw, the pause, the second press—and this time Vee *meets* it, and doesn't even look down the street to see who might be watching! The trap is closing, except all three of them are inside it now. I need to see Randi and Pace together after this, or Pace and Vee when the dress is done. I can't put this down.
 
-Also: *a large scar high on the inside of his thigh.* I clocked that immediately. What happened to him? Is that connected to why he only eats with his right hand, or why a door closed in his face when she asked about his parents?
-
-And underneath all this warmth and relief—because they *finally* had sex, and she actually ate the dinner he cooked her afterward, unlike Randi bolting out into the cold in Chapter 13!—there is this tiny ticking bomb in my stomach. Because she just left her green satin panties in Pace's house. The house Randi has the code or key to, where Randi walks right in. What happens now that this isn't just a cute little setup anymore, and Vee has been in those plain white sheets smelling the real source of him?
-
-GATE 18 — Famished
+GATE 19 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter gave me everything I read this genre for: blistering, explicit heat where the hero's patience and care turn the heroine's deepest shame into power, culminating in that incredible final beat with the folded panties. I am completely in love with them together and dying to see what happens next—especially with Randi still in the picture.
+WHY: Randi coaxing Vee into owning her own agency ("I wanted it. And I took it. For once") while Randi's own voice slips into her unguarded accent—with her eyes going liquid over an untouched mimosa—was breathtaking. Watching Vee meet Randi's second kiss on the mouth without looking around to see who's watching tells me everything is shifting, and I have to see what happens next.

@@ -1,31 +1,22 @@
-*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-Oh, Vee. My sweet, naive, completely cooked girl.
+Oh my *god*. My jaw is on the floor and my pulse is completely out of control. This chapter did something to me that very few books have ever managed: it gave me absolute, skin-prickling erotic heat while making me want to scream at the top of my lungs in sheer psychological dread.
 
-This chapter is the absolute definition of dramatic irony as an extreme sport. Watching her sit in this sunny, butter-scented brunch spot, sipping mimosas and giggling with Kayla and Meg about flashing him on the porch—while completely oblivious to the radioactive bomb she is carrying into Wednesday night—was genuinely thrilling in a totally grounded, delicious way.
+First of all—Marcel Mauss’s essay on the *gift* and *hau*? *“The thing you were given is inhabited, and it pulls back toward its giver, and that pull is why a gift can never really be free.”* The book just handed us the entire philosophical autopsy of this three-way dynamic right in the syllabus lecture, and Vee has NO idea that the house, the bread, the coat, the shoes, the orgasms—none of it is "free." It’s all tethered to the two of them.
 
-Meg’s comparison was so painfully good: *"Sometimes you have to make it right in their language."* Meg thinks she’s validating a cute relationship gesture (like bringing maple bacon after PMS-ing), but we know what that "language" actually cost Vee. Vee thinks she bravely cut through the bullshit with her body; she has convinced herself that showing up naked was her own sovereign feminist power move, rather than a strategy literally engineered and handed to her by Randi.
+And then this dinner. The tension was suffocating. Watching Randi lean across that loft table, playing the supportive bestie while practically drinking Vee’s confessions like fine wine, was hypnotic. When Vee turned the olive coat around to show her the stain on the satin lining?! I stopped breathing. The pure, unhinged nerve of that, and Randi staring at it with her eyes dark and liquid!
 
-And now, Wednesday. *Wednesday night.*
-Let’s just review the guest list for this dinner that Pace volunteered to host:
-1. Pace (who Sobbed Over Cold Boiled Chicken because he loves Vee, but is terrified of saying it, and who is actively plotting a threesome with Randi in his kitchen).
-2. Randi (who is desperately in love with Vee, engineered Vee going naked to Pace's house to avoid losing her, and just got warned by Brooke that everyone in the sorority house sees her looking at Vee like a meal).
-3. Cassie (the human lie detector who ran the PPP fraud data on Randi's dad, knows Pace's domestic facade is weird, and can read Vee’s body language like large-print text).
-4. Kayla (who will talk the paint off the walls and ask entirely too many direct questions).
-5. Meg and Danny (normal people holding normal ground).
-6. Theo (the English class friend who asked Vee out, thrown in just to spike Pace's quiet possessiveness).
+And then Vee having to excuse herself to the restaurant bathroom to make herself come against the partition because she got so wound up talking to Randi about Pace—only to realize, right at the climax, that it was *Randi’s* face driving her over the edge? *“Because that had been about Pace, obviously. All of it. About Pace.”* Oh honey, the denial is cracking. The absolute terror when Randi said, *“Things were really heated. It’s a good thing you got relief,”* almost made me drop my phone. Randi totally knew. She baited her into that stall!
 
-Pace said, *"Let me handle it."* Pace, who couldn't handle Chili's for forty-five minutes without having a sensory breakdown and obsessively squaring his fork against the rim of the table! He is hosting *this* group of people in public? Or—God forbid—is he cooking for them at his house? Where? If it's at a restaurant, he’s going to be an exposed nerve. If it’s at his house, Cassie is going to look at the cashmere blanket and the custom woodwork and dissect him like a lab frog.
+And that kiss on the neck on the sidewalk. Randi pointing at the spot, Vee kissing it without a second thought, and Randi flinching—because Randi is in love with her and dying inside, while Vee thinks it's all just sisterhood and giggles. And now tomorrow is the big dinner. Pace, Randi, Cassie, and Vee in the same room. The collision is here. I need chapter 58 yesterday.
 
-I loved this chapter for being the calm before the storm. It’s light, the dialogue between Kayla, Meg, and Vee feels 100% authentic to college girls the day before classes start, and under all that bubbly brunch talk, the fuse is burning straight toward the powder keg. I am so ready for Wednesday.
-
-GATE 56 — Across
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer impending catastrophe of Wednesday night's dinner is pulling me forward like a magnet. The brunch banter was pitch-perfect, but the real thrill is knowing every single secret sitting under the surface of this upcoming group hang. I need to see who breaks first.
+WHY: The psychological friction between Vee and Randi is at an absolute fever pitch. Between the coat stain reveal, the restaurant bathroom scene, and the imminent group dinner, the book is completely firing on all cylinders.

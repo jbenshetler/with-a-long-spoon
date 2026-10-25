@@ -1,28 +1,32 @@
-*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this is filthy, intimate, and morally appalling in exactly the combination this book has been promising.
+Oh, I loved her. I loved Sheri almost immediately, and then I loved her more every time she proved that the loudness was not a lack of subtlety. She sees everything. She knows when to lower her voice, when to shut the folder, which confidences belong to whom, and exactly how long she can look at Vee before Vee understands that she is being appreciated rather than assessed. “I know who you are” could have been terrifying after a month of imaginary rivalry; instead it became welcome. Then: “You’ve got him happy. That’s the whole book.” I actually exhaled.
 
-Randi tasting herself from Pace without hesitation—after Vee stopped one breath short of doing the same—hit like a deliberate answer across chapters. It was extremely hot, but it also hurt. Vee is alone in her dorm trying to cross that inch of air, ashamed and uncertain, while these two are already fluent in the thing she has only just begun to want. Then they bring her into their bed in words, use her desire for each of them to arouse each other, and never once have to risk letting her hear the truth. I wanted the scene badly. I was furious almost the entire time.
+And that look. God. Vee arrives armored for comparison and discovers that Sheri is not pricing her, she is enjoying her. The blonde vanishing without taking the jealousy with her was such an important little cruelty of truth: Vee was never afraid of a body. She was afraid Pace had a whole established *we* somewhere she could not see. Correct instinct, wrong woman. Again. I was laughing with her, but I also wanted to reach through the book and say, sweetheart, please notice that your imagination keeps inventing women because the people you love keep leaving woman-shaped holes in the truth.
 
-And finally: there they are. No performed introduction, no careful little evasions, no pretending the blanket came from Pace. They know each other’s bodies. They have ease, jokes, established rhythms, shifts in control, and the confidence to talk about Vee while he is inside Randi. This is not some incidental arrangement that became difficult to mention. It is a relationship. A real, tender, sexually specific relationship. Every additional proof of how good they are together makes their concealment from Vee more serious.
+Sheri’s desire felt wonderful because it was so uncomplicated. The leisurely inspection, the delighted *oh* at the shoes, “you got the legs for it”—none of it asked Vee to confess something, reinterpret herself, or move toward a result Sheri had already chosen. She just liked looking. After all Randi’s exquisite, compromised attention, that clean appreciation was almost a relief. It had charge, too. I absolutely noticed Sheri watching the bartender, and I absolutely noticed that Vee noticed.
 
-Randi saying she wants Vee’s breast in her hand and her nipple in her mouth nearly took my head off. Because yes, at last, an unsoftened statement of what she wants—except she says it to Pace. She can tell him exactly what Vee does to her while letting Vee believe she is “ticklish.” Pace answering with what he has noticed about Vee looking at Randi means they are comparing observations. They are watching her wake up from both sides. I hate how erotic I find that, and I hate more that Vee does not know she is being watched.
+Pace blushing nearly killed me. This man can calmly orchestrate an entire room and do extremely undignified things with complete composure, but one small lesbian asks whether he gets to motorboat Vee and suddenly his ears are scarlet. Yes, I could watch that all night too. More than the blush itself, I loved that Sheri has a license to tease him nobody else has. We finally got to see Pace off duty, not serving or hosting or controlling the pace of anything. That softened him for me in a new place.
 
-“You know she loves you, right?” was the turn that got under everything. Randi sees Vee’s love for Pace, Pace cannot hide his happiness, and then Randi tells him she loves him too. That was not playful. It landed naked. He could not tell her she was wrong, but he also did not say it back. So now I am aching for Randi even while wanting to shake her. She is helping Pace recognize the love Vee has not spoken while offering her own love into another open sentence. These three are starving in three different directions while two of them possess the map.
+Then Sheri told Vee why.
 
-The erotic charge did not dip when the feelings entered; it intensified. That is precisely what I have been waiting for from this book. Their sex has history and personality. The control passes back and forth. They laugh without breaking the heat. “My turn,” “You’re still leading,” the palm kiss, Randi putting his hands flat beside him and moving under her own command—all of it made them feel like people who know one another, not bodies cycling through a scene template.
+I am furious with Pace, still, but this is why I cannot flatten him into a liar and be done. Coffee, donuts, a fixed lock, a stopped faucet, a Sunday ride, a cheeseburger, and not one false promise—that is grown-up love in action. He did not tell Sheri her family would come around because he knew comfort is not permission to lie. Which makes what he is doing to Vee even harder to bear. He understands that easy, reassuring words can violate reality. He understands what it costs to lose your family over who you love. He can sit beside somebody’s devastation without trying to edit it. So why is the man who gave Sheri the dignity of truth still deciding Vee cannot have it?
 
-And the ending is wicked. Randi cleaning their combined wetness from him, ordering him back inside her, then kissing him with the taste of both of them—the exact boundary Vee is circling, made completely mutual and effortless here. It is a fantasy demonstration being performed in Vee’s absence. I am desperately ready for the three of them, but the book has made it impossible for me to accept that as a reward unless Vee is given the truth before they maneuver her into it.
+And now: his father. He has not been home since sixteen. That landed hard. Sheri did exactly the right thing with it—gave Vee the two sentences she possesses and did not convert Pace’s pain into entertainment—but I am ravenous for the rest. This is plainly attached to Daphne, to his terror around naming love, to the way he builds home through food and practical care. He keeps making porches safe because, at sixteen, somebody’s door stopped being his. I can feel the shape without knowing the facts, and I want the facts.
 
-My 1 a.m. text would be: THEY ARE FUCKING WHILE DISCUSSING HOW MUCH THEY BOTH WANT HER, IT IS UNBELIEVABLY HOT, AND I NEED THEM TO TELL HER BEFORE I COMMIT A FELONY.
+The ending made me ache. Pace waiting until Sheri was inside, Vee sliding into the space she left, both hands at ten and two, the sense of him carrying people carefully and refusing to spill them—yes. That is exactly why Vee loves him, and exactly why I do. But the line that hurts is “for everyone he kept.” He keeps people beautifully. He also keeps them in separate compartments and tells each of them only what he has decided belongs there. Vee is looking at evidence of his goodness and feeling safe, while the largest omission is sitting much closer than Sheri ever was.
 
-GATE 61 — My Pleasure
+Also, after having just watched Pace and Randi fuck while talking about Vee, I could not forget where Thursday night actually went. Vee thinks this dinner is two nights after the roadhouse; I know what happened between. The contrast is vicious. Chapter 61 was all shared knowledge, shared desire, and Vee’s name held knowingly between them. Here Vee spends a week preparing to meet the wrong secret woman and ends the night more secure in Pace’s care. I am warmed and heartsick at once.
+
+I would text a friend: “THE IMAGINARY BLONDE IS A FIVE-FOOT LOUD LESBIAN WHO IMMEDIATELY CHECKS VEE OUT, PACE BLUSHES, AND THEN SHE REVEALS HE SAVED HER LIFE WITH DONUTS AND PLUMBING. I love everyone and trust the situation even less.”
+
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the explicitness, emotional intelligence, and unbearable moral tension I came for. Randi’s declaration changed the shape of her bond with Pace, and now I need to know whether either of them will finally love Vee enough to risk telling her the truth.
+WHY: Sheri gave me uncomplicated attraction, emotional intelligence, and a new window into Pace all at once. I am deeply moved by the man he is when someone needs him—and more desperate than ever to know why that same man is withholding the truth from Vee.

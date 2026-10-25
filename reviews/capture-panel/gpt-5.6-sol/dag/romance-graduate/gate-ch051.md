@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. No, sweetheart. You did not talk.
+Oh, Vee. “We talked all night” made my stomach drop. No, you didn’t. You very specifically stopped him from saying the thing, opened your coat, had spectacular reunion sex, ate pancakes, and let the relief of being back inside his care fill every space where the unanswered question used to be. I understand why that feels like the fight came down. I understand why she believes “we’re better than we were.” But she is telling the version she needs to be true, and now her friends are cheerfully confirming that her body was an apology made “in his language.” That framing scares me. She was the one who asked for clarity; somehow she has come back believing she was the one who needed to make it right.
 
-That lie landed so softly I almost missed how enormous it was. She is glowing, she is home in both senses, she wants to hand Cassie the happiness without handing her anything that might make Cassie look too closely—and suddenly Pace shrinking a sweater is easier to say than *I went to his house naked because Randi told me words were the problem, and we had sex before he could finish his first sentence.* The invented laundry disaster is funny enough to carry everyone straight past the missing truth. Even Cassie laughs. Especially Cassie laughs. That hurt.
+And of course Kayla is delightful. “This is the last morning of my life and it’s going to be peanut butter crackers” is exactly the kind of friend-noise I wanted Vee back among. I loved the sunlight, the waffles, the three-way check, and Vee getting to be the person who knows a place and can turn a disappointment into an occasion. There’s a grown-up ease in her here that her family home never gave her. She really has made a life, and this breakfast let me feel how full it is.
 
-And the worst part is that Vee believes her own headline. “We talked,” when the actual talking was Pace trying to say something and Vee stopping him with her body. She went there needing an answer, came back exquisitely fed and cared for, and has translated relief into resolution. I understand exactly why. I felt the sweetness of her being able to enjoy the crappy dorm shower and the draft and Cassie’s ordinary room because Pace is no longer a terrifying blank. But the thing that broke them has not been repaired. It has been covered with sex, pancakes, mushrooms, and a lie clever enough to make her best friend laugh.
+But Wednesday. Oh, Wednesday is a loaded gun wearing a dinner reservation. Pace wants to meet “her people,” which would be deeply romantic if one of those people were not already his lover and co-architect of the entire deception. Vee is glowing because she thinks she is bringing her separate worlds together. Pace and Randi know they were never separate. And Cassie will be there—the one person likely to notice when two supposed near-strangers know each other half a beat too well. I am already watching hands, pauses, eye contact, seating arrangements. If Pace has arranged some beautiful inclusive evening while still withholding the truth, I am going to be furious no matter how perfect the food is.
 
-Cassie’s mother thanking her for the card nearly undid me. That tiny moment has more honest belonging in it than all Vee’s claims about the weekend. Cassie hears the emotional size of Vee’s little “Oh” and does not make her perform gratitude or vulnerability. She just gives her the fact and lets it be warm. That is love without leverage. I wanted Vee to climb down and tell her everything right then.
+The chapter itself felt warm and easy, but the ease is sitting directly over a fault line. Vee “had the middle of it all” is lovely and ominous in equal measure. She thinks the middle means belonging. I know it also means she is the only person at that coming table who does not know what connects its center.
 
-The ending was genuinely soothing despite all my dread: the narrow bunk not becoming a deprivation, the wall only being a wall, Friday reliably coming. I’m glad Vee has her happiness back. I’m also watching her build it on missing information and now actively crop the truth for Cassie. Pace remembers every friend’s name and wants them all brought into his world; Vee has just begun falsifying that world before anyone enters it. This gathering is going to be a live grenade.
-
-GATE 55 — Unpacking
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-HEAT: 0
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The chapter made domestic happiness feel lovely and dangerous at exactly the same time. Vee saying “we talked” when they absolutely did not has me desperate for the moment Cassie, Randi, Pace, and Vee occupy one room and the edited stories can no longer stay separate.
+WHY: The breakfast happiness genuinely fed me, but “we talked all night” exposed how completely Vee has rewritten a reconciliation that never answered her question. I need Wednesday immediately: Pace, Randi, Vee, and Cassie at one table is too much concealed knowledge in too small a space.

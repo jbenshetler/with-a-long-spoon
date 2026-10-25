@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad8401af7036 · 2026-10-10*
+*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b529b5725542 · 2026-10-24*
 
 **REACTION**
 
-That thumb on her toenail. I'm still sitting here with it.
+She ate. She cleaned the plate, gathered the last of the couscous off the edge with her fork, said "That was lovely," and took his hand across the table. I've watched this woman order egg whites for twenty chapters and never once seen food go into her mouth. Now it happens on his kitchen chair, in his undershirt, after she's spent the whole night talking about Vee. Title's "Gone." I think it's Randi who's gone. "She got past me before I could help it." "I keep waiting to get bored of her." That's a woman falling in love, and she doesn't have the words, so she says it to the man she's sleeping with. The undefended face. The stillness "that takes holding" when he says Vee makes the room go brighter. She asks for more wine with the glass still half full, just to keep him standing next to her. I'm sad for her and I can't stop being sad for her.
 
-Randi on one knee on that pale floor, waving off the saleswoman with "I've got her," holding Vee's bare foot in both hands and turning it to the light like a fabric swatch. Then "Mm," and one pass of her thumb across the plum polish. Vee's room tips and she has to grab Randi's shoulder to steady herself. Two chapters ago that was Pace kneeling on the riser, chin craned up, never once looking down. Now Randi's doing the same thing, and she *is* looking down, at the toes Vee painted for him. Randi knows exactly what that polish was for, because she got it out of Vee over mimosas. So it isn't only a touch. She's putting her hand on the thing Pace has. It turned me on and it scared me, and I can't pull those two apart. Vee doesn't have a shelf for it, and the book won't give her one. I want that kiss in the fire lane to *go* somewhere, and I'm afraid of where Randi is taking it.
+I came in braced for "Tell me," and it came, and my stomach dropped. Then he gave her the lamp. Not the green panties, not the riser, not the wet satin, not Vee's toes on his chest. He gave her what Vee does to a room. He kept the bed to himself. I let out a breath I'd been holding since chapter 20. He doesn't get off clean, though. "She's ashamed. Somebody taught her to be ashamed of her body." That's true and it's kind, and it's still hers to tell, and now Randi has it. I'm putting another asterisk on him, a smaller one.
 
-What made my stomach drop wasn't the foot, though. It was the credit card. "There was nothing under it." This girl prices the mimosa and does the arithmetic to see if Thursday survives. She pays for her own soup. Then Randi says "your *lover*" and "a dress a man sat up nights making," and the last careful thing in Vee gives way. She's using *Pace's* work as the lever. Meanwhile Randi drops a multiple of that number on loafers she has nowhere to wear and never glances at the total. She doesn't offer to cover Vee or split it, or even notice her face. Maybe she can't, without giving something away. I still wanted to grab Vee's wrist at that counter. And the book doesn't wink. It shows me she knows she doesn't have next month and signs anyway. "Every yes was freely given. That was the problem." Right, I see it now. This is what the jacket meant.
+The threesome images, the black hair falling into the red. They got me, I'll admit it, and the book doesn't pretend they didn't get him. It's all inside his head, it's honest, and nobody's being pushed into anything. But then his mind drifts off the fantasy back to Vee in the sheet at his table, and that's the part that went through me. The fantasy doesn't hold him. She does.
 
-Then there's the dorm. Randi goes still at "He was up all night finishing it." Vee reads it as jealousy, of *him*, of a man who sits up nights for someone, and she wants that for Randi so badly it hurts. I wanted to put my face in my hands. Randi's the one he sat up nights *beside*, and I just watched her in Chapter 23 drinking a full glass she poured herself and calling him selfish. "He didn't make this *for* you. He made it *to* you." It's the truest thing anyone's said about that dress, and it's coming from his girlfriend, who knows exactly how it was made. Randi isn't a villain to me here. She's grieving something in plain sight. She's also running Vee's whole Saturday.
+What turned me cold was "You do nice work." Like Vee's a commission. Like they're grading a project. Then I remembered the credit card with nothing behind it, Randi holding Vee's bare foot, "practically a marriage," the plum polish. I'm not even sure who's working on whom anymore. And Vee's going to sit next to her in stats on Monday thinking it's jealousy over a man who stays up nights.
 
-Simpson's paradox. Each year the first man hits better, put the years together and the second man does, and nobody touched a number. Okay, book, I heard you. Vee's two friendships each look fine on their own, and the total says something else. A little on the nose, but I liked being trusted to catch it.
+At 1 a.m. I'd text: *he didn't tell her the wet stuff. AND RANDI ATE A WHOLE PLATE. I think she's in love with Vee and doesn't know it.*
 
-Cassie. God, Cassie. She doesn't look at the board once, just watches her friend, then asks "Was it a good night?" and goes back to her highlighter. She's the only one in the whole chapter who wants nothing from Vee. Then Cassie has a lab, Randi walks Vee home, and Randi is the first living soul to see her in the dress. Cassie, whose blood type I'd have trusted with my life, hasn't seen it. I clocked that. That's the drift I've been watching for.
-
-I also laughed out loud. The yeti shoe, the pink rhinestone platforms, "one brisk walk from becoming a sandal." It's real fun between two women, and that's exactly why the rest of it hurts. "It's not going to *spoil*" made me laugh and then made me sad.
-
-No Pace on the page, and I didn't miss him, which tells me something. I'm still fed from the sun porch.
-
----
-
-GATE 25 — Sorority
+**GATE 23 — Gone**
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "felt the last careful thing in her give way, and put it back, and took out the other one" — I didn't want to watch Randi spend Vee's money for her. But the book made me look instead of asking me to cheer, so I stayed.
-WHY: The foot scene charged me in a way I didn't expect, and the "practically a marriage" bond between Vee and Randi is turning into the real romance of this stretch. The credit card and Cassie getting quietly left out made me afraid for Vee. Now I need the induction, and I need to know what Randi does with what she touched today.
+ALMOST-STOPPED: "You do nice work."
+WHY: The dread I'd been carrying ("Tell me") came and he protected her, mostly, so I'm still trusting him, with a smaller asterisk for the shame line. Randi undone at his table, eating, is the biggest crack yet, and I need to see what it does to her when she's next alone with Vee. It's only been two chapters since Vee and Pace were alone, so I'm not starving.

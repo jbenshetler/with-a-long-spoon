@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. Sheri. I want a whole book of Sheri. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud, and so did he, and it was the first time in about six chapters anyone in this book has laughed for real. She's the only person in his life who wants nothing from him, and she gutted him across a diner table: "Then not saying it matters more to you than having her." That's the line I've been wanting someone to say to his face since chapter 38. I'm glad it came from the one person with no stake in it, over a double cheeseburger with Elvis under the glass.
+Okay. OKAY. I'm sitting up.
 
-Then the thing I'd been waiting for since the porch: his side of crackers and a meal. He understood it. "The true answer had been there, whole and ready." His hand stopped on her shin and he took two breaths, and he chose the smaller truth because he was a coward. Part of me went *I KNEW it*, and part of me went cold, because it's worse this way. If it had gone past him I could forgive it. He heard it and he let her walk to the laundry room alone with it.
+For the first two pages I was getting nervous. She's on a plane, alone, at night, listing everyone she's going back to. I told myself if this was another solo vigil I'd start skimming, and it started like one. But "After that came one more, and she did not get to it" got me, because I knew exactly who the one more was. Then she drives the Friday road, her hands know the drive, and she cries the whole way in. That's grief that actually lives in the body. And she gets up off the bed and goes, and that's what saved it. She went to Randi. Finally, two people in a room.
 
-Daphne. "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." That one got me. Put it next to "people who've never lost anything think grief is a choice" and I don't think she *left*. I think she died, and he's calling it "departure" the way Vee calls Randi "friendship." Brown hair and glasses, laughing with her hand over her mouth. So that's the scar I still haven't been told about, probably.
+That whole bedroom scene is the dramatic irony I bought this book for, and it's almost unbearable. Randi is coaching Vee back to Pace. Is she doing it for Vee, or for the arrangement? For herself? I honestly think it's all three, and the book doesn't tell me which. Thank God. She tells Vee the blonde is something she built at three in the morning, and that's TRUE, because Randi knows Sheri. Every comforting thing she says is true, she just knows more than she's saying. "That's a boy holding himself still so it won't show how much you got him." She's right about him! She knows him better than Vee does, and that's the knife. "I'm so jealous I could scream," said warm and easy, "and it passed." No it didn't. Not for me.
 
-But the whiskey night scared me more than the crying, because of where his head goes. Vee is in Ohio rewriting their best night with a blonde in her chair. And Pace is in his recliner, drunk, building the threesome breakfast: "Randi across from her… feet up on the lacquered seat." He's been "adding to it for weeks." He misses Vee enough to sob over a passing truck, and his fantasy of fixing it has Randi at the table. Also, Sheri knows about "the brunette." He took Randi *dancing* before Thanksgiving. And Randi's cashmere blanket lives on his bed, "the one for the chill that took her after." Now I know it's a thing he keeps for her. Vee sleeps in that bed. I'm filing that.
+The coat. I was waiting for Vee to finish the sentence herself, and she did: "And nothing under it." Then the mother-voice hit, and "slutty" cost her to say. Randi said "Say it" and didn't laugh, and walked her down off the ledge. That's shame and want lit off the same match, which is exactly how it works and almost no romance ever writes it. "Like a raccoon who lost a fight" made me laugh out loud. "Meow." I love her. I don't trust her.
 
-The sob at the wrong engine wrecked me a bit. "He did not let go of it." Then the prison food, "He ate anyway." Good. And he still hasn't texted her. It's New Year's and he's crying in his kitchen and his phone, the one with her pictures on it, stays dark. I can't stand that.
+THE SHOES. Both of them holding the same pair for a second. Her nipples drawing up over the straps, and then she explains it to herself in one second flat: it's the shoes, it's tonight, it's Pace. She's wrong, and she puts the thought away and keeps her eyes on the straps. That's how you do subtext, Helen. You let the heroine misread herself and trust me to see it. I also want to know whose shoes these really are, and whether Pace has seen them before.
 
-My gripes, and they're real. The second half started explaining itself to me. "He had hurt her because he was afraid of how much she could hurt him." I KNOW. You showed me two breaths on a shin. That was the whole thing, and then you underlined it like I might miss it. "*Whiskey River* was a liar" is a bit cute too. The Daphne part goes into a flat list: tutor, best friend, first girlfriend, first lover, first love. I did buy the clipped hangover sentences as a voice, mostly.
+Then the Gstaad story, and Randi stops at the bedroom door. "Everywhere but the bedroom, and the bedroom's the room I actually live in." From my notes I know that's a lie that's also the truest thing she's said. Then Vee goes back from the latch and kisses her. SHE started it, after four months of holding still. And Randi's POV after: the back of her hand to her mouth, "the afterward was the least interesting part of four months," "She came back." I had to put the phone down.
 
-The pattern alarm is going off as well. This is the third New Year's Eve chapter in a row, with Randi, then Vee, then Pace each alone in their cold room. As a set of three I respect it, it's clearly built that way. But the only heat since chapter 45 has been Randi's numb hotel sex. I'm hungry, and the book promised "warmer." I need these people back in a room together soon.
+And then BROOKE. I'd lost Brooke entirely and she walked in and became the most frightening person in the book. Ninety girls, the composites, "every one of them photographed looking slightly to the left." "Play all you want… for the boys." Lauren Pike. "You need to choose." The cold mug she never put anything in. That's a real outside force, finally, and it isn't one unsent text. Randi's whole life is a show, and now somebody has seen it.
 
-GATE 50 — The Usual
+1 a.m. text: *"she's going to his door tonight in a coat and NOTHING and Randi's heels and she just kissed Randi under the sorority wall and the president SAW. I'm not sleeping."*
+
+Small gripes: "it reached Vee that none of it rated a look, that the wrecked girl in her doorway came first" spells out a bit too much. Kayla and Meg came back as names on a list, which is a little cheap. The pool is new to me, or I lost it. And Randi's Pace-shaped silence about Sheri needs to come due eventually.
+
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
-WHY: Sheri's diner scene and the sob at the wrong engine are the realest this book has been in weeks. The book over-explained his fear, but now I know he loves her and is choosing not to say it, and his drunk fantasy has Randi at the breakfast table. That gap is a fuse, and I want to watch it burn. I need the next chapter to put Vee and Pace in a room, because I can't do a fourth cold bedroom.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise…" That's where I braced for another lonely-vigil chapter.
+WHY: The stall broke. Two women on a bed, true things used to cover a lie, shoes that turn her on for reasons she won't name, and Vee kissing Randi first. Then Brooke makes it cost something real, and there's a coat and a door tonight. I'm already reading on.

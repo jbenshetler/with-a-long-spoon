@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9480caafaef2 · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is it. This is the thing I came back to this genre hoping somebody would finally give me: a man on his knees, completely in control of himself, looking up at a woman at the exact moment she expects to be humiliated—and giving her delight instead.
 
-Oh, this man. The bedroom door stays shut, and somehow that makes the room he *does* bring her into ten times more intimate. She arrived wearing satin for him, ready to be invited across the obvious threshold, and he has prepared an entirely different kind of undressing—one that begins with something she wanted, remembered correctly, and improved because he was looking at *her*, not merely following instructions. I am gone.
+I was so tense when he said, “The bra too.” Not because he was cruel about it—he wasn’t—but because I could feel how badly she wanted to take the whole thing back, and she didn’t quite know yet that she was allowed to say so. I needed him to keep watching her, not merely her body, and when she shut her eyes he stopped. He waited for her face. That mattered enormously. He did not turn her fear into access.
 
-And the kiss! She takes it because she wants it, he meets her fully, and then *he stops*. I felt exactly what she felt there: the shock of discovering that restraint does not always have to be her job. He can want her enough to lose his breath and still be the person who decides they should come inside and keep choosing. That is so much hotter to me than a man who treats the first kiss as permission for every subsequent thing.
+And God, her opening her eyes to find him smiling. Not pretending not to notice, not making a joke of her, not offering that awful courteous mercy that would leave all her shame intact. He looked as if her desire were a gift. I felt something unclench in me right along with her shoulders. Her body wasn’t evidence against her anymore. It was hers, and it was powerful, and he was glad to be trusted with the sight of it.
 
-The house made me fall for him in a dangerous domestic way. The used cookbooks, the battered fantasy novels, the hand-cut joints, the tools outlined on the wall, the patent whose favorite application is getting frightened people out of an MRI faster—none of that feels like a résumé because Vee is seeing the shape of his private life and loving what she finds. When he says the trick is “Patience. Paying attention,” I nearly laughed, because yes, that is his whole seduction. He is building this woman’s undoing with the same care he builds furniture, and she has no idea the larger structure was designed before she walked into it.
+The measuring absolutely wrecked me. The approach, the precise touch, the withdrawal, the pencil—again and again until she was nearly frantic from being attended to. That is dominance to me: not grabbing whatever he can get, but setting the rhythm so carefully that every inch of restraint becomes part of the touch. And the tenderness is inseparable from the heat. He warmed the house before she arrived. He made tea. He wrapped her in a blanket. He remembered the dress she had already taught herself not to want, chose the color for *her*, and then devoted his full skill to getting it right. Of course her body responds to that. Mine did too.
 
-I did notice the two towels. I noticed them very loudly. Vee walked straight past them, but I have not forgotten Randi, and I am suddenly looking at every domestic detail for the outline of the woman who has already been here. Nor did I miss the overly warm house, the good light, or the measuring tape already waiting. Pace has planned today down to the atmosphere. That would frighten me more if he weren’t so explicit about what the measuring requires and so cleanly leaving the choice with her. Still: he knows what he is offering. This is not an innocent sewing appointment.
+I loved her discovering her own effect on him. The deliberate breast against his cheek, the fake “Oops,” Pace going red—yes. Let her be wicked. Let her find out that being desired does not require being passive. And then “Keep still,” low and costly, nearly sent me through the wall. He does want her desperately; he simply refuses to make his wanting more important than the thing he promised her. That combination is catastrophically attractive.
 
-The burgundy destroyed me. He did not buy the dress, which could have felt like a rich man casually solving her problem. He intends to spend weeks making it to her body. And he didn’t reproduce the magazine fantasy badly; he saw that the color she thought she wanted was not the color that would honor her. That is the exact fantasy I read for: a man who sees past what a woman has permitted herself to ask for and then asks permission before giving her more. “If you’ll let me” is doing extraordinary things to me.
+The pinprick kiss was probably the point where I stopped pretending I was reading normally.
 
-But the secret plan is now hurting more, not less. Every genuinely tender thing he does makes the eventual revelation worse, because Vee is not merely getting seduced—she is trusting the moral meaning of his attention. She thinks his remembering proves she can safely hand him more of herself, and honestly, so do I, moment by moment. Yet Randi exists in those two towels and in everything Pace is not telling her. I need the book to understand that freely consenting to be measured nearly naked is not the same as consenting to participate unknowingly in somebody else’s erotic design.
+But the ache underneath all of this is getting sharper. Vee is thinking Pace “walked right past Randi” to choose her, and I know that is not what happened. Randi chose her. They chose her together. Vee’s confidence is blooming inside a lie, even though every response she gives Pace here is truly hers. I’m falling for him with her, and every beautiful thing he does makes the undisclosed plan more dangerous, not less. If he can see her this carefully, how can he not understand what the truth may do to her?
 
-And yes, I am already turning the page. He has just told this hungry, ashamed woman that he wants to look at her body in full light not to judge it, use it, or correct it, but to make something beautiful fit *her*. If the next chapter is the measuring, I have nowhere else to be.
+Still: she expected disgust and found delight. She expected to be reduced to a body and instead became a particular woman for whom a particular dress was being made. I would text a friend at one in the morning: *He stayed on his knees, finished the hem, and made her feel powerful. I’m done for.*
 
-GATE 16 — Two Towels
+GATE 17 — A Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The closed bedroom door, the stopped kiss, and the dress all made his restraint feel inseparable from his desire, which is exactly what I came for. The two towels and the hidden plan keep a blade under all that tenderness, but right now that tension is pulling me harder, not pushing me away.
+WHY: This gave me the exact fusion of dominance, restraint, tenderness, and female desire I read for. Pace waiting for Vee to open her eyes—and meeting her shame with unmistakable delight—was a genuine turn in their bond, while the secret beneath it all now feels even more capable of breaking my heart.

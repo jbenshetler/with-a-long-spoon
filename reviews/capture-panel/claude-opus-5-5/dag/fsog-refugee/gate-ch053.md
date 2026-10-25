@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a79198d30e3 · 2026-10-11*
+*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9feb48dd23cb · 2026-10-11*
 
-**REACTION**
+## REACTION
 
-Oh, she showed her the *lining*. I put the book face-down on my chest for a second. Vee turning that coat around on the hook, Friday's mark held out into the light, and Randi going dark-eyed and still, and Vee could *hear her breathing*. That was the hottest moment in the chapter, and the only thing touching anyone was a coat lining. The thing is, Vee chose it. The big drink, the breath, then her own hand reaching back for the coat. Nobody had to dare her. Her desire was hers, coming from inside her, which is exactly what I came to this genre for, and it was aimed at the wrong person for the book she thinks she's in.
+I need to talk about the hand in the lap first. Everything else in this chapter is warm and good, and then that.
 
-Then the restroom. "Because that had been about Pace, obviously. All of it. About Pace." Oh, honey. Randi's face showed up at the top and the question turned itself into "there's no way he couldn't," and Vee went over on it, then put her mental label on afterward, the way she cropped the photo for her mother. She's dividing herself again. I wasn't put off. I was *in* it with her, and also sitting a little way off watching her lie to herself. That's a good place for a reader to be.
+"One hand gone down off the table into her lap." The glazed look, eyes on the middle of the tabletop. Vee thinks she's moved her best friend and is "privately, foolishly proud" of it. I read that paragraph twice, then a third time, and I went cold. Pace is the one who set it up: "Randi said something you should hear." He tipped back in his chair and served Vee's blush across the table like a course, then leaned out of the light "exactly as he had all night for the others." Randi watched the heat climb Vee's throat "with open delight," brighter than the lamplight called for. Then Vee put her hand over Randi's wrist, over the bracelet, and the smile "got loose from her." Oh God. If this is what I think it is, Vee was just used in a public room. She was the dish, and the two of them were playing, and she toasted it. That's the third game from the jacket, right there on the page. I hate it. I'm also not sure the book is asking me to find it sexy. The sentence about Vee's pride is so tender and so wrong that it reads like the book knows, which is the only reason I didn't close it.
 
-Randi is the one I can't settle on. The "Hmm. Hmm." when Vee gave her the line she'd been saving, the clean version with the wall coming down: Randi didn't want the clean version and let her know with two syllables. Then "You gave me the after-school-special version. Back up." Then, chin in hand, "What exactly was he not looking at?" She's pulling the next thing out of Vee and the next, exactly as the jacket promised, and it's the move from the half-dare over the photo all over again. And Vee gave her Pace's porch, his mouth, the couch. That was the most private night they've had, handed across a table to the woman who's been narrating Vee to him in bed. That's the second thing of his she's given away over a meal. And "It's a good thing you got relief" landed in me the way the blue lights landed in Vee. Randi knew. She let her squirm a beat and then handed her a cover story to take. That's power, and it's played lightly, and I don't love how good she is at it.
+Then I went back and everything else curdled a little. "He set them up... handing people the first line and then he stood back and laughed at their second one." That paragraph made me love him, a man who makes Danny and Theo and Cassie feel taller. Then I realized it's the same move they've used on Vee since October. Pace wasn't being charming with her friends. He was showing his method. "They share an interest. You." I'd text that line to someone at 1 a.m. with no comment, just the line.
 
-But then the robin's-egg-blue underwear. "They're your color." Her mother had them laundered and *waited for him* and set them down next to her plate at Sunday dinner. That's real cruelty, and it explains everything about Randi I've been afraid of: why she arranges, why she can't say it, why she gave Vee the fairytale on New Year's. Her fingernail working the rim of the glass. The boy who'd knelt in the grass, pushing his food around. I'm angry for teenage Randi, and that makes it harder to just be wary of grown Randi. It also explains the flinch at the neck kiss. That wasn't a tickle. Brooke said "choose" on Sunday, and on Tuesday Vee's mouth is on her neck on a public sidewalk. "Don't you dare weaponize that." Randi's scared, and for once I believe the fear more than the charm.
+And Randi's grip at "Vee's boyfriend," hard enough to feel the bones, which Vee reads as joy. Pace watched the kiss in the lot with "nothing on him." Vee's arm came across her body at the twinge, and she talked herself out of it as a trapdoor-checking habit. Her gut is right every time, and she apologizes to it every time.
 
-Mauss and the hau. A gift wants to go home to its giver. The burgundy dress he sewed. The cashmere blanket that "just appeared," the one she soaked. The shoes are *Randi's*. Vee's walking around inside other people's gifts and doesn't know one of the givers is two people. Dr. Marsh just told us the book's thesis, and I'm going to think about it every time Vee touches something someone gave her.
+But "Vee's boyfriend." Six times, flat and the same each time, and her saying it under her breath at the brisket. I melted, I'm not going to pretend I didn't. It still isn't the word, though. It's the smaller truth again, the public one. It's a title, not a confession. Cassie saying "You can stay" got me, and so did the whale under the boat. Cassie got the best story of their two years, and she gave it to him. Gave it to *him*.
 
-And she held back the kiss story with "a little unweighable stone of relief." First time since October she's kept something from Randi. Good. I want her to keep it, and I know she won't.
+The truck. This is what I came to the genre for, and I'll say it plainly: her mouth, her greed, "the man who did six things at once, down to zero." His hand holding her hair, not steering. Her jeans, her hand, her fingers holding the lace aside, "an offering she had to keep making, choosing it again every second it went on." That's consent written as heat, desire that's all hers. "Yes, ma'am." The cold vents and September. Hot, honestly. I was right there in the cab.
 
-Wednesday is tomorrow. Pace, Randi, Cassie, Kayla, Theo, all at one table, and he picked the place. I'm reading on.
+Then the last line, the glass turning a slow quarter at a time and some small sentence at a window. Her own mind is keeping notes she won't read. So am I.
 
-GATE 60 — Covering
+So: he's a wonderful boyfriend, and possibly also a stage manager. Randi loves her, and possibly got off on her across a tablecloth. I'm more frightened for Vee now than at any point in the book, and I'm still turned on. I hate that the book can do both to me at once.
+
+GATE 61 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "You gave me the after-school-special version. Back up and tell me what really happened." Randi prying the porch out of her made my skin crawl for a beat. Vee was so glad to give it, and it wasn't hers alone to give.
-WHY: The lining reveal and the restroom were Vee's own wanting, from inside her and turned toward Randi, with the lie she tells herself left right there on the page. Randi's mother and the underwear cracked her open for me even while she was steering. With the dinner of everyone tomorrow, I'm not putting this down.
+ALMOST-STOPPED: "one hand gone down off the table into her lap. Vee knew that quiet... she was privately, foolishly proud of being able to do it"
+WHY: The truck is everything I want, with her desire hers and every second chosen. The table scene before it might be the two of them using her without her knowing, and Pace staged the toast. I'm staying because the book seems to be holding that up to the light rather than winking at it. I need Thursday's debrief and Vee's gut to finally get a hearing, and if the book ever asks me to find that lap romantic, I'm gone.

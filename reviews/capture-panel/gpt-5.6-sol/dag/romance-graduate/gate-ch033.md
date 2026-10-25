@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 42df1ce07fbc · experiment merge-school · dated · 2026-10-25*
 
 REACTION
 
-Oh, the drawer got me. The *top* drawer. He compressed all his neat little ranks into the inconvenient space below so her hand could go naturally to the easy one, and then said absolutely nothing about it. That is so specifically Pace that I almost resent how perfectly it works on me. Scrunchies were already a promise that he expected her to keep returning; the drawer is a place in his life made physical. Not offered ceremonially, not presented so she has to react correctly. Just prepared and waiting for more of her.
+Oh, Cassie. She does exactly what I’ve been waiting for and does it without jealousy, accusation, or one grab for control. She just says, “You don’t come home school nights,” and lets Vee discover the shape of her own absence. Then she asks the real question plainly and accepts the answer Vee can manage. No seduction, no interpretation handed back to her, no attempt to make Vee’s feelings useful. I could kiss her.
 
-And of course this is also exactly the problem.
+And Vee saying “maybe” when she already knows she loves him hurt. Not because she’s uncertain about the feeling, exactly, but because some part of her finally senses that loving him and knowing him may not be the same thing. Those four strokes—wondering whether Pace is truly that good or whether she has built that goodness out of wanting him—are the first hairline crack in the enchantment. She doesn’t pursue it, but it existed. She thought it without Randi or Cassie putting it in her mouth. That matters enormously.
 
-Vee has finally admitted she loves him, and in the same breath has decided she can live without hearing him say it. I do not believe her. Worse, I believe she believes herself. She is taking every act of care—and there are so many, and they are so exquisitely fitted to her—and using them to build the answer he still will not give. The food, the slowness, the green scrunchies, the drawer: yes, these are love. I feel that. But they still do not tell her what she is to him in the world, whether she is his girlfriend, whether he intends permanence, or whether another woman already has a claim she does not know exists. He can give her a drawer while withholding the basic architecture of her own relationship.
+The swimming got me. That bodily competence is so different from all the erotic attention her body has been receiving. Nobody is looking, nobody is reading her responses, nobody is teaching her what her hunger means. Her body simply knows its work and does it. After so many chapters in which Pace and especially Randi keep translating Vee to herself, watching her strip the words away until only the underlying shape remains felt almost medicinal. I wanted her to stay in that lane where no one else gets to author her.
 
-Her whispering “Peter” to him asleep hurt in the best and worst way. That is the name beneath the made self, and she gives it back to him when he cannot hear her. They are both doing their most important communicating where the other person cannot answer. It is gorgeous and completely unsustainable.
+I also noticed what Cassie actually interrupted: Vee arrived ready to glow at her about the burn, the warmth, Pace fussing over her, while apparently spending most nights away and letting schoolwork slide. None of those things alone frightens me. Together, this quickly, with the secret still underneath everything? Yes, they frighten me. The romance is becoming her entire atmosphere. A drawer in his bathroom can be achingly lovely and still not answer what she is to him—or what he and Randi have done.
 
-I also loved the bathroom panic because it is such a recognizable, humiliating little intimacy: all your products suddenly making you look like an occupying force in a clean man’s house. For one second she thinks she has been quietly corrected, and my stomach dropped with hers. Then the reveal is almost indecently romantic. He did not tolerate her disorder; he reorganized his order to include her. That distinction matters to me enormously.
+This was a quiet chapter, but it wasn’t stalled. It gave Vee back to herself for seventy-five minutes, and I needed that nearly as much as she did. Now I need the thought from those four strokes to survive contact with Pace.
 
-But I am watching the dates. That “next Friday” means another week has passed inside this chapter, and Pace and Randi have apparently carried the secret right through it. Vee is standing over two open drawers feeling chosen while still being denied the fact that the chooser already has another lover. I want to melt over him, and I do melt over him, and then the book makes me feel the trapdoor under the melting.
-
-Also: she brought the bag. That tiny decision feels more intimate than half the sex scenes I have read this year. She is no longer pretending she will leave unchanged or that each visit is an accident. Some part of her has begun moving in. And Pace, without asking what she thinks she is moving into, has made room.
-
-GATE 35 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The top drawer absolutely destroyed me, but Vee deciding she can live without the word is a warning flare, not reassurance. I need the truth to break now, because every new tenderness makes what Pace and Randi are withholding more devastating.
+WHY: Cassie’s plain question and Vee’s four-stroke doubt shifted something important without forcing it into a revelation. I’m continuing because Vee has finally wondered, entirely on her own, whether the man she loves and the man she imagines are the same man.

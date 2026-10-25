@@ -1,28 +1,33 @@
-*capture-dag-v2-rich · gate ch010 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9a0a6a7ebe4 · experiment merge-rye · dated · 2026-10-25*
 
 **REACTION**
 
-Okay. *Okay.* This is the chapter I was begging for in my notes. I was ready to start skimming, and instead I'm sitting up in bed at 1 a.m. with my face hot.
+Okay. *Okay.* That's the charge I said I needed, and it didn't come from Pace's head or Randi's body. It came from Vee. Vee kneeling on a bench seat (I clocked the bench, book, don't think I didn't) with her knuckles on the glass, crooking a finger at him. I've waited four chapters for this girl to want something out loud with her body, and she did it soaking wet and shivering, in a truck, three dates in.
 
-The first half is a slow hike and I didn't mind it at all, because every bit of it was doing something. "He walked at the speed of her not knowing how." I'd marry that sentence. Then the boot. Her stomach clenches because a man is about to see her sweaty sock, her mother says *what kind of girl lets a man*, and he just has her bare foot in his hand in the cold air. Moleskin, warmed under his thumb. A little pat on the toe that means only *done*. That's the most intimate a man has been with her yet, and it was first aid. Same with the cherry pit. He corrects her without making her small, and he lays his own pit down next to hers without looking at her. I keep waiting for Pace to slip and do something careless, and he keeps not doing it. That's either the dream or the trap, and I still can't tell which.
+The strip itself is the hottest thing in the book since Ch 3, and it's all buttons. Nobody touches anybody. What got me was the mother's voice. It doesn't stop her. It *fuels* her. "Floozie," her thighs pressing together on their own: that's so real it's almost embarrassing to read. Every good-girl-raised woman I know has some version of that wiring, where the shame and the heat sit on the same nerve. A KU book would have her "overcome her mother's voice" like a self-help arc. This one lets the voice turn her on. Then she looks down on purpose, and his eyes go with hers, and she sees herself through him. That beat, choosing to break eye contact, is the whole point, and the book didn't explain it. (It did explain one bit. "The heat that knew the voice was right" was half a sentence too many. Count goes up by one, but only by one.)
 
-The dress. Oh, I see you, book. Russet silk, the color of brick, and "That sounds like a beautiful dress" said with no weight on it at all. That man has *filed* it. That dress is going to show up in a box. And my stomach drops wondering whether Randi will be the one who picks it, or who hears about it first.
+Then she reaches for his hand to start the next thing and it's shaking. He's been standing in the rain like an idiot gentleman, and the scene turns into her taking care of him. His hand on her belly under his own flannel. I actually went soft. Pace has been the one who sees and feeds and asks. Here she sees *him*, and he's "a long way from the question of whether he was cold." That's a man who's gone, and he doesn't know it yet.
 
-Then the truck. This is what I've been starving for and can almost never find: the heat coming *from inside her*. Her mother's voice doesn't kill the want, it feeds it. *Floozie*, and her thighs press shut on their own. She wants to be exactly the thing the voice accuses her of, and she wants him watching her be it. That's a real woman with a real kink and a real history, not a heroine who just "melts." She's the one who calls him in. She keeps his eyes the whole way down the buttons. Then she deliberately looks down so his eyes follow hers, and she sees herself through him: the sheer wet bra, the gooseflesh, the drop of rain running between her breasts. And he doesn't touch her. He just *looks*, glad and still. It's completely clothed (well, mostly) and it's hotter than half the full-on sex I've read this year.
+The first half I liked more than I expected. The moleskin scene was quietly sexy in a foot-in-his-hand way, and the shame clench letting go "without her catching it go" was lovely. The cherry pits! Leave no trace, from a man who's been leaving traces all over two women. I see you, title. The food writing is a lot, though. The sandwich got a full paragraph of sinus, and that's the third time this book has made eating the foreplay. It's working, but it's becoming a signature, and signatures turn into tics.
 
-And then she grabs his hand to start the next thing and it's shaking. He's been out in the rain freezing for her, and she chooses him over the heat. "Pace. You're freezing." That's when I felt something turn between them. Before this she was being taken care of. Now she's the one taking care of him.
+Things I'm suspicious of:
+- The russet dress. He's going to buy it. Or Randi is, which would be worse and also better. "That sounds like a beautiful dress," with no weight on it, is exactly the voice of a man filing something away.
+- The campus cop siren killing her sentence. That felt like the author's hand on the scene. It's the closest this book has come to the unsent-text kind of manufactured interruption. It's small, but I noticed.
+- The date. My notes have the hike on Sunday the 20th, and this is the 27th. So either it got pushed or my memory's off. Either way it means there's a week of Pace I haven't seen. And he hasn't reported any of this to Randi on the page. I want Randi's face when she hears "she took her shirt off and I didn't touch her."
 
-Gripes, because I keep a count. "His shirt, and then the truck. Both." I'd figured that out already, thanks. And "the heat that knew the voice was right" spells out a little what the scene had already shown me beautifully. That's one tick, maybe a tick and a half. The summit paragraph got close to showing off ("that not-caring was the most beautiful part"), but I'll allow one big view per book. The campus cop siren is pretty convenient as a cockblock. But it isn't manufactured conflict, just the world honking at them, and it leaves her in his flannel under the overhang with her sentence unfinished. Yes, it worked on me.
+Cassie: "I had your blood type ready." "Borrow real boots next time." I love her. And "Vee," set down "where it wouldn't break." She's not being shed after all, or not yet.
 
-Small thing: I had the hike down for the 20th, and it's the 27th now. Either it got pushed or I misremembered. It doesn't bother me.
+What I'd text at 1 a.m.: *she did a slow striptease in a pickup to her mother's voice saying floozie and he just LOOKED at her and then she noticed he was hypothermic. I'm unwell.*
 
-No Randi in this chapter, and I felt her missing from it the whole time. "Ravish" walked up the trail behind Vee. What Pace will tell Randi about this, and what he'll *keep*, is the question now. Vee stripping for him in a truck is exactly the kind of thing he holds back for himself. And "Leave No Trace" as a title, when everything here is leaving a trace? Cute. I see it.
+Structural note to self: this is technically the fourth Vee chapter running, but it doesn't read like a quiet one. The stall worry is off. Next, I need Randi.
+
+---
 
 GATE 11 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "His shirt, and then the truck. Both." That's a small eye-roll, not anywhere near leaving.
-WHY: I finally got the charge, and it came out of Vee's own head and her mother's voice, which is exactly the depth-plus-heat combination I came for. Him standing in the rain and her choosing his cold hands over her own next move is a real turn between them. Now I need to know what he tells Randi, and what happens with that dress.
+ALMOST-STOPPED: "a dark bread first, deeper and more sour than the soft white loaf at home, with seeds in it she had no name for" (the sandwich paragraph, where I thought we'd get another whole chapter of sensory eating and nothing else)
+WHY: The truck scene gave me heat and interiority in the same breath. The mother's voice working as the turn-on instead of the obstacle is the grown-up thing I came for, and it ended on tenderness instead of a grope. I'm pulled forward because now Pace has to tell Randi, and the dress is a loaded gun on the rock.

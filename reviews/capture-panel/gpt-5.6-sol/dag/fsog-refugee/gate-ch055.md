@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7514bd75e597 · 2026-10-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 REACTION
 
-Oh, this got me. Not because anybody touched anybody under that table, but because Randi took one tiny sentence—*I don’t*—and laid it inside Vee like a lit match. No lecture, no pushing after it, no telling her what she ought to want. Just the truth of Randi’s own desire, offered so calmly that Vee couldn’t dismiss it as one of their jokes. And then Vee’s body remembered the kiss with Pace and answered before her shame could get organized. That is exactly the awakening I’ve been waiting for: not Vee being persuaded into a new appetite, but Vee discovering that the appetite was already there.
+Oh, Vee. That one breath of distance absolutely got me.
 
-God, though, Randi knows precisely what she is doing. “Give me the real one—the harder one” thrilled me because Vee wants to tell her, wants to be seen all the way through the cleaned-up version, and Randi really does make room for the parts Vee cannot say anywhere else. But it also scared me, because Randi has privileged information Vee doesn’t have. She knows Pace’s mouth, his enthusiasm, possibly this exact taste of him and another woman; she is listening to Vee describe their shared lover while performing innocent best friend. So even when she handles Vee beautifully, the hidden structure is sitting beneath every word. Vee thinks she is asking the one friend who can help her understand herself. Randi knows why she can.
+I wanted her to close it, badly—not because tasting herself is some required threshold, but because the wanting was so plainly hers. Nobody was there coaxing or watching. Pace wasn’t asking. Randi’s voice helped open the possibility, yes, but Vee was alone with her own body, following a question her body had already answered twice. She got close enough to smell herself, close enough for her tongue to come forward, and then she couldn’t. I felt the ache of that unfinished reach more sharply than I would have felt triumph if she’d simply done it.
 
-And I cannot stop thinking about that clean plate. Vee swam, arrived hungry, ate the entire meal without noticing, and then left still carrying the thing she thought she had handed over. That is her whole relationship with Randi right now. Randi feeds her, draws everything out of her, makes her feel full and understood—and somehow Vee remains the only one who has actually given anything away.
+And I am so relieved the chapter let her stop. She wanted to, she couldn’t, and nothing punished or overruled her. She wiped her fingers on the sheet, went back to what she did want, and came with Pace’s calm, glad face in her mind. That is precisely the intensity I keep looking for: his acceptance still making room for her when he isn’t even present. She remembers him stopping. She remembers having to pull him back. His care has become part of how she can touch herself.
 
-The neck kiss nearly killed me. Twice now Vee’s mouth has gone there before her mind calls a meeting, and twice Randi has felt it so strongly she has had to hide behind *ticklish*. That little involuntary rise of her body was hotter to me than most explicit scenes. Vee is not merely receptive here. She sees the open neck, wants it, and kisses it. Her desire is choosing its own route while she continues calling the destination friendship.
+But that word—*greedy*—hurt. She is alone in a locked room, taking absolutely nothing from anyone, and still imagines her pleasure as excess. Even the amount of her wetness becomes evidence against her. Then she buttons the flannel “respectable,” forces the window open, and stands half naked in January until the room no longer smells like what she did. God. She isn’t only airing the room for Cassie; she is trying to erase the fact that her wanting occupied space.
 
-I’m also delighted by Vee getting dressed for Randi with the same keyed-up pleasure she reserves for Pace. The fitted sweater, the appraisal, Randi’s hands around her waist—Vee enjoys being looked at by this woman. She arranged herself to be looked at. She may not have named it, but I have eyes.
+And still she lies down on the damp patch. That mattered enormously to me. “Her mess. Hers to lie in” could have felt punishing, but it didn’t land only that way. She finds what she left, puts her body over it, and stays. She has not tasted herself, but she has not entirely scrubbed herself out either.
 
-The chapter’s sweetness makes me angrier about the lie, not less. “You picked well” is almost unbearable coming from Randi, who helped pick Vee first and then helped steer her back to Pace without the truth. And Vee thanking her for the “good advice” made my stomach turn. Vee is grateful to Randi for helping her surrender the boundary that Randi herself had every reason to erase. Randi’s “Only for you” is sincere, loving, and awful.
+Randi is all through this without being in the room. That thrilled me and worried me in equal measure. Vee is imagining whether Randi meant a lover’s mouth or Randi’s own fingers. She is not merely borrowing Randi’s permission anymore; she is picturing Randi’s body doing the thing, wondering about Randi’s wetness, carrying Randi’s words into bed. The reach is toward herself, but it is also unmistakably toward Randi now. Her mouth is empty, and I know exactly whose mouth I’m afraid she is beginning to want there.
 
-Still, I’m absolutely reading on. Vee has now learned that Randi finds tasting herself on a lover powerful and arousing, and that knowledge followed her home through the wind. She can call it Randi’s preference tonight. Her body has already started making it hers.
-
-GATE 62 — A Clean Plate
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The whole dinner felt like intimate undressing without either woman taking off a thing, and Vee’s desire kept answering before she could explain it away. I’m desperate for her to understand what the neck kisses and that persistent *I don’t* are telling her—but the closer she gets to Randi, the less tolerable Randi’s concealed knowledge becomes.
+WHY: This put me completely inside Vee’s desire and let her limit remain real even at the hottest point. The unfinished inch between her tongue and her fingers—and the question of Randi’s mouth or fingers—has me already reaching for the next chapter.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
 
 REACTION
 
-God, my heart. My actual, physical chest hurts.
+Oh, Randi is *sick*. She is physically, profoundly sick with this, and she thinks she can just screw it out of her system on top of him.
 
-This was so short, barely three pages, but it felt like drinking a glass of cold, clean water. After the suffocating, performative gloss of the smoothie shop with Randi—where everything felt staged, like being put up on a display shelf—coming back into the dorm room with Cassie is pure relief. Cassie is the absolute anchor of this book. The fact that she dropped the dry routine the second Vee started talking about the truck, that she just went *still* and *listened*... it made me want to cry. "Vee," she says. Just her name. Like setting something down where it wouldn't break. Cassie knows. She knows Vee is tumbling headfirst into something massive, and instead of throwing up a wall of judgment or telling her she’s being reckless, she just tells her to borrow real boots next time and keep the damn shirt.
+The whiplash between Chapter 13 and Chapter 14 gave me genuine chills. We just left Vee sitting in an oversized flannel shirt, glowing, feeling completely cherished and seen because this man stood out in the freezing rain to give her dignity—and then we cut straight to Randi barging through his door, tearing his clothes off, demanding a sensory debrief like a junkie needing a fix.
 
-And look at Vee. The way she recounts it: "And then we ate." Said like other girls say *and then we kissed.* This girl has been starving her whole life—for calories, for approval, for someone to see her body without shame—and Pace is feeding all of it. Taking off her shirt in that truck wasn't just horny (though sweet lord, it was scorching in chapter 12); it was an act of total, intentional defiance against her mother's voice. "I took my wet shirt off in front of him. On purpose. Me." She owns her desire so fiercely right now.
+*"Tell me."* And Pace gives it to her! He feeds her Vee's scent, the chlorine, the musk, the gardenia. But then—and this is what made my stomach drop and twist in the best, darkest way—he tells her *"Her stomach is soft,"* but *he doesn't tell her why he knows.* He kept the rain. He kept the unbuttoned shirt in the cab. He kept Vee giving herself to him for *himself*. Randi thinks she owns the whole game, but Pace is already building a secret room inside of it that Randi isn't allowed into.
 
-That is what makes this so excruciating. She feels so *safe*. She feels so chosen, so in control of her own yeses. She's sitting in his enormous flannel, with her sore legs and her blister taped up, feeling like a woman who climbed a mountain and claimed her own sexuality. And the entire time, there is this ticking clock in the back of my mind. Randi is lurking out there. The "Pointing Game" is out there. That damn walnut bench off 614 is waiting. Pace is giving her everything she needs to bloom, but the ground she's planted in is a secret between him and another woman.
+And Randi felt it. You could see the exact moment the wire snapped in her head. That clench, the nails digging into his chest, riding him with that frantic, desperate violence, trying to fuck the ghost of Vee out of the bed—or trying to fuck Vee through him, I honestly don't know which is worse. *"I want us,"* she says, torn out of her, and it sounds like someone screaming from the bottom of an elevator shaft. She knows she's losing. She set this entire nightmare in motion to feel safe, to outsource her forbidden desires, and now it's an avalanche rolling right over her.
 
-I don't want the illusion to break, but I can't look away from it. I need to see what happens when the two of them are alone in a room that isn't a truck cab.
+And then she gets up and leaves. She doesn't even stay the night. She puts her armor back on—the skirt, the silk, the cardigan—and runs. She is starving, she is freezing, and she leaves him standing in an empty doorway with his own hunger.
 
-GATE 13 — Rye
+Pace thinks it was just "the want," because for all his terrifying emotional intelligence, he still has that blind spot. He thinks he can calculate people like equations. He doesn't see that Randi is utterly unraveling. Meanwhile, poor sweet Vee is back in her dorm falling hopelessly in love with a man who is currently washing another woman's sweat off his sheets. The psychological tension here is unbearable. I am glued to the page.
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It was a very brief cooldown chapter, but Cassie's quiet, genuine love for Vee gave the emotional aftermath of the hike the exact weight it deserved. I am completely hooked and need to see where Pace takes this next.
+WHY: The dark, frantic psychology of this chapter was breathtaking. Watching Randi use Pace's body to process her sickening obsession and jealousy over Vee—while Pace quietly holds back the truth of what happened in the truck—is masterclass tension. I have to see the fallout.

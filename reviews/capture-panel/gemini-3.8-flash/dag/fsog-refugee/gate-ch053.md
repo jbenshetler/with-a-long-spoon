@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a79198d30e3 · 2026-10-11*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9feb48dd23cb · 2026-10-11*
 
 REACTION
 
-I am sitting here with my hands flat on my desk, just staring at my screen, feeling like I am watching a car crash happen in absolute, glamorous, horrifying slow motion.
+I feel like I need to pace the floor. My hands are shaking. I am so turned on and so profoundly sick to my stomach at the exact same time, which is this book's absolute specialty, but tonight it reached an unbearable pitch.
 
-The title of the anthro lecture at the beginning—*the gift carries what they called hau, the spirit of the one who gave it, and the hau wants to go home*—hit me like a brick in the ribs. The scarf around Randi’s hair that was once around Vee’s neck. The heels on Vee’s feet that Randi handed her. The coat Randi told her to wear bare. And Randi sitting across that table in the loft, wearing cashmere and lace, drinking red wine, drawing every single drop of Friday night out of Vee like a spider draining a fly.
+Let’s talk about the seduction of it first, because God help me, Pace was magnificent in that pine room. That is the exact man I fell in love with reading this genre: the man who commands a room not by puffing his chest out or acting like a bully, but by stepping *back*. By asking the one question that unlocks a shy boy talking about jazz. By remembering the roommate story for Meg, the dress for Kayla, asking Cassie about the Bricklayers without a drop of condescension. He didn't boast, he didn't drop his deadlift numbers to Danny—he just served them, gave them room to be their best selves, and in doing so, laid down an absolute masterclass in courtship. And him repeating "Vee's boyfriend" like a mantra? *Six times.* A man claiming her plainly, with zero hesitation, after months of her dying for him to name what they are. It made my chest ache for her. It was so deeply tender, and Cassie giving him that dry *"You can stay"* was the ultimate seal of approval. For a girl like Vee, whose whole life has been starvation and feeling like a side dish, watching the man she adores love and honor her chosen family is the ultimate aphrodisiac.
 
-Vee literally showed her the stain on the satin lining. *The stain from when she touched herself on the drive.* I gasped out loud. The sheer, terrifying intimacy of that! And Randi wasn’t just listening like a supportive sorority sister getting the dish—Randi was getting off on it. You could see the temperature in the room spike. When Randi asked, *"Could he see you were ready?"* with those dark, liquid eyes, she wasn't asking as a spectator; she was stoking the fire she helped build.
+Which is why the cab of that truck caught fire. That blowjob in the dark lot, her taking control, her being greedy, his hand going *still* in her hair—God, that specific detail, the man who does six things at once going completely motionless as he comes apart under her mouth. And then the ride home. Her stripping her jeans down while he drives on one wrist, pulling the wet lace aside with her own fingers, him sliding into her with that steady, terrifying familiarity while the mile markers blur past... it is blistering. The heat is a 3, without question. The consent is gorgeous on the surface—she initiates every single move, she puts his hands where she wants them, she is the architect of her own pleasure.
 
-And then Vee has to go down to the bathroom and finish what the conversation started, and *whose face does she see when she goes over the edge?* Not Pace. Randi. *"There’s no way he couldn’t."* Vee comes back up and tries to tell herself it was all about Pace, but the lie is cracking so fast it’s practically audible. And then Randi’s little double-entendre: *"Things were really heated. It's a good thing you got relief."* My heart stopped. Randi knew. Or Randi was playing with the edge of knowing, baiting her, testing the waters.
+*Except she isn’t.*
 
-And that ending on the sidewalk. Randi pointing to the spot on her neck, Vee kissing it without a second thought, and Randi flinching and claiming it "tickles." Randi is losing control of her own game. She thought she was the cool, detached puppet master setting up a delicious little threesome dynamic where she dictates the terms, but Vee’s genuine affection and unguarded physicality are getting under her skin. Randi looked genuinely rattled for half a second.
+And this is where the nausea kicks in. The dramatic irony is practically choking me.
 
-And tomorrow night is the dinner.
-Pace. Randi. Cassie. Kayla. Meg. All in one room.
-Vee thinks she’s bringing her lovely, supportive friend to meet her tender, devoted boyfriend. She has no idea that the two of them have already fucked on that couch, that they planned her, that Randi’s cashmere blanket is the one Vee curled up in on Saturday morning. It is a powder keg with a lit match an inch away from the fuse, and Cassie is going to be sitting right there watching every glance. I need Wednesday night immediately. I cannot look away.
+"They share an interest... You." Pace said that with a straight face while driving her home. *Randi and your friends share an interest.* It is the most monstrous, chillingly brilliant double-talk I have ever read. He and Randi sat at that table, three feet away from Vee, exchanging looks, playing along with the "first meeting" charade. Randi raising a glass to "my beautiful best friend" with her eyes blazing, going into that glazed quiet because she is so turned on by the web she’s spinning. Randi pulling Vee in for that soft, lingering mouth-kiss in the dark lot, *knowing* Pace is watching three steps away.
 
-GATE 60 — Covering
+Vee thinks her body is coming awake to her own boldness. She thinks the wet stain in her coat and her soaking panties are just about how much she wants her boyfriend. But the text literally reminds us: she got that wet coat on the drive after Randi sent her off; she came in the bathroom yesterday thinking of Randi; and Randi kissed her on the mouth two minutes before Vee climbed over the console to take Pace down. Vee is practically vibrating from the unspoken, erotic current running between all three of them, and she *doesn't know she's in the current.*
+
+She felt the "trapdoor" for half a second when Pace was laughing at Randi's elbow. Her instincts are screaming at her—the stinger, the little sentence standing at the window watching a glass turn—and she is actively drowning those instincts in orgasms and sweet brisket memories because the reality is too horrifying to face. She wants to be loved so badly that she is helping them blindfold her.
+
+I am sweating. The sheer audacity of Pace and Randi pulling this off without a single crack showing to Cassie or the dorm crew makes them terrifying. And the fact that I still melted when he put his hand on her bare breast makes me feel entirely complicit. I have to see what happens at this "debrief" dinner tomorrow. I cannot put this down.
+
+***
+
+GATE 61 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological tension between Vee and Randi across that table was electric and deeply unsettling, and the impending collision of Pace, Randi, and Cassie at tomorrow's dinner is impossible to put down.
+WHY: The tension is an absolute masterpiece—Pace giving Vee everything she’s ever dreamed of publicly, while executing a breathtakingly cold deception right in front of her face. The cab scene was incandescent, and the sick dread of what’s coming at the Thursday dinner with Randi has me completely hooked.

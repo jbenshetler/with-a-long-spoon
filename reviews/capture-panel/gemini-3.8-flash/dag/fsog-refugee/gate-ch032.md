@@ -1,29 +1,30 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
 
 REACTION:
 
-Oh my god. My stomach is in absolute knots.
+Oh, this chapter just completely wrecked me in the best possible way.
 
-The whiplash between how safe and adored Pace makes her feel and the spiderweb Randi is spinning around her is getting unbearable. In the best, most terrifying way.
+I was carrying so much tension after the last chapter with Randi—that weird, slick, manipulative energy over pastries and bathroom stalls had me feeling almost sick for Vee. And then to walk into this chapter and have it be pure, unhurried, devoted shelter. The contrast hit like a physical wave.
 
-First of all, Vee giving up the goods about the spanking—I was squirming in my seat right along with her. The way she tries to downplay it, and Randi just *drills* down with that laser-focused, smiling persistence until Vee is basically confessing her whole sexual awakening over mimosas. And Vee's body! Her body just betrays her every single time, soaking through her underwear in a sunlit brunch restaurant just from *remembering* his hand and saying it out loud.
+First of all: the door opening and him lifting her clean off the floor. That whole reunion, dropping their coats where they stood, the fact that he *always* brings her over the edge first before he even thinks about taking anything for himself. That’s what I read this genre for. That exact thing. It’s not just dominance; it’s an obsession that manifests as absolute, meticulous care. The cooking, the cold wine, the salmon, the coming back to her an hour later on the couch—the ordinary domestic poetry of a man who is completely, hopelessly in love with a woman and showing it through every single sense.
 
-And then Randi's little story. "Doing a private dance." God. Randi knew *exactly* what she was doing. She baited the hook, cast the line, and reeled Vee all the way in until Vee literally had to flee to a public restroom stall.
+And then the admission: she loves him. She whispers his real name while he’s asleep. My heart was in my throat, because on one hand, it is the most earned, beautiful feeling in the world, and on the other, I am still terrified of the secret between him and Randi that sits under this whole book like a landmine. When Vee counts all the ways he says it without saying it—"a man didn't do all of that for a girl he was only passing a season with"—I wanted to cry, because she is right. Whatever game they started, he is not just passing a season anymore. He's down in it.
 
-That bathroom scene was devastating. The heat of it was blazing—Vee touching herself, desperate, the slickness of it—and then she can't even come because Randi's face is right there behind her eyes. It went from pure erotic burn straight into that cold, twisting ache of being observed, judged, *cowed*. She couldn't even give herself release. That hurt to read.
+But the ending. *The drawers.*
 
-And then the "sticky fingers" line. I swear my heart stopped for a second. The cruelty of that double meaning, whether intentional or just Randi playing with her food! And the detail about Randi taking *one* bite of the pastry, declaring it delicious, and leaving the rest? That’s Randi in a nutshell. She takes a taste, controls herself completely, and leaves the mess behind.
+When she saw the bare counter, my stomach dropped right alongside hers. That awful, familiar panic of a woman who has spent her whole life feeling too big, too loud, too messy, suddenly thinking she’s taken up too much space and worn out her welcome. And then she pulls that top drawer open.
 
-And then at the curb: "You're my best friend in the whole world."
-*Ouch.* The emotional manipulation is so surgical it makes me want to scream at Vee to run, even while I'm completely mesmerized by it. Vee is so starved for validation, so stunned that this glamorous creature chose her, that she swallows the hook whole. And that kiss—tasting the pastry glaze on Randi's lips. The sensory writing here is just unreal. The trap is closing, and Vee thinks she's being loved. I need the next chapter immediately.
+He didn't just tidy up. He didn't leave an exasperated sticky note or put her things in a basket on the floor. He crammed his own life into the bottom drawer—the cramped one, the inconvenient one—and gave her the top one. The easy one. The one your hand goes to first. He made a home for her mess inside his neatness. He carved out permanent, physical room for her.
+
+No words, just the quietest, most devastating act of devotion. If a man did that for me, I would lay down on the floor and weep. I don't care that there wasn't a whip or a spanking bench in this chapter; the intimacy here was completely breathtaking.
 
 ***
 
-GATE 37 — One Bite
+GATE 38 — Above Him
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 1
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it’s humming. Watching Randi manipulate Vee’s desire while Vee genuinely believes she’s found a soulmate and best friend is thrilling, deeply sexy, and completely terrifying.
+WHY: The quiet devotion of this chapter completely cleared out the bad taste of the brunch from before; the gesture with the bathroom drawer was one of the most tender, heart-melting moments of domestic intimacy I've ever read in romance.

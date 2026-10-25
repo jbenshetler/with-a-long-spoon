@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch035 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch035 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
 
-REACTION — Oh, this chapter. This is the one I'd hand to somebody who doesn't get why I read this stuff. That whole photo sequence — I actually had to put the book down for a second. She offers, he catches her wrist not to stop her but to say *you don't have to, I like you exactly like this* — and she goes and makes herself up anyway, *because she wants to be chosen-looking*, and then he doesn't just take the picture, he *arranges* her, unhurried, a kiss after every place his hands set her. That's the whole book in one gesture: his control making room for her, her body laid out like something worth keeping, and she's glad of all of it. And the detail that undid me — she wanted pinup, and that's what he handed back, "lovelier than anything she'd have caught of herself alone," because it was *her as his eyes had her.* I'm going to be thinking about that line for days.
+REACTION — So Randi's finally back at the table, and the hum I've been hearing for chapters just got louder — except this time it didn't come from anything Randi *did*. That's what's unsettling me. She barely steered anything. She asked "how it is," and Vee poured the whole spring out over eggs Benedict — the sex, the sheets in both fists, the sleeping, "like he wants *me* with the body attached" — and the part that got me was Randi going bright and unfixed, that little head-shake, the breath she couldn't smooth. The jacket said it: *she has moved the two who arranged her spring as surely as they have opened her.* I watched it happen in real time at that booth. Randi came to harvest and got caught in her own field. There was no "did you deserve it" theatre, no glaze on the lip — she just got *reached*, and I don't think she was braced for it either.
 
-And then the cold sane thought — "the cold sane thought any girl had about a picture like this" — the book *named it*. It knows exactly what a naked photo means and it let her be brave in the real world, with real stakes, believing his "never, I'd never share your photograph." He promised the same about the induction photo and kept it, so I believe him too, but I love that the book makes belief the act of courage. That's consent with the price tag showing, and it's sexier for it.
+And then the photo. My stomach did drop for half a second — I have "never share" underlined in red in my head — but the book kept the promise clean: *Vee* showed it, Vee's thumb found it before the rest of her voted, and when Randi needled her with "you only gave him half?" Vee reached for the whole thing herself. It was even more Vee than the original send — she wasn't going to be the girl who flinched, not at that table. That's my girl. She out-authored the con three times in one brunch without knowing there's a con. The two-of-them-laughing-pink-and-delighted moment was so warm I almost forgot to be worried, and then I remembered whose idea brunch was in the first place and sat with that for a minute.
 
-The kitchen after — I'm a complete pushover for the aftercare-changes-shape chapters. Water before wine. Her not coming up for air. "You've used me terribly. Promise to use me again soon. But feed me first, or I'll starve to death." She's funny and wrung out and *hers*, and he cooks with his whole self gone down into a pan, and she can taste each piece of the sauce separately now — "she had used to just eat. Now she tasted" — and I got a little emotional about a chicken breast, I don't know what to tell you.
+The kiss at the end — Vee leaning up that last half-inch, *taking a second of it for herself*, and noticing, and deciding. That's the jacket's second door being raised an inch, and it's being raised from Vee's side, on her own nerve, the same way everything with Pace has been. I trust this book's hands with that. What I trust slightly less is "Just us," coming out rough, and "Does he have a brother?" landing right after Randi's breath caught — she's still playing the game even moved. And now they've signed up for Tuesdays and Thursdays, seven a.m., a standing appointment in Vee's gray weekdays. The con just got a schedule.
 
-Then the door. "This is my home." "I don't go back." Four words again, level, clean and apart — and she took her hand off it and let the quiet be kind, and the book didn't push, and I noticed the exact shape of what's sealed in there: parents, the scar, Daphne, all behind it. He said "This is my home" *easily* and it warmed her, and it warmed me, and then it closed. That's twice now he's said it exactly that way. The clock on that door is ticking louder.
+Also: Cassie did her elective "with that oddball Wardy" — a shrug, one line — and I felt the distance in that shrug like a cold spot. The clean table is drifting.
 
-And the last beat — Sheri's coming over, "she'll bring a pie and pretend she made it," and for one flicker Vee was jealous, another woman at his table on a family day — and then "She's alone," said like a person glad to feed someone, and the flicker went out. I felt that flicker *with* her, I've had that flicker. And I noticed my own hum underneath: Sheri knows about both women, and Vee doesn't know Sheri exists in this shape at all. Two of them at one table on Thanksgiving while Vee's on a plane. The book is quiet but nothing is idle.
-
-The one thing niggling at me — the con is still running, and Randi's been offstage for chapters now, and the longer this domestic warmth goes on, the more I dread the harvest. But this chapter is pure gold: "a man wholly focused on one woman" — this is the book I was looking for when I left the other shelf.
-
-GATE 41 — In His Hands
+GATE 2 — All the Time
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The photo sequence is the best thing this stretch — his hands arranging her, a kiss at every placement, her sending it as an act of brave belief — and the after in the kitchen is tenderness I can live in. It knocked a point off NEXT only because the sealed "I don't go back" door and Randi's long silence both got louder by being quiet, and I need to see where one of them is going before the warmth lulls me.
+WHY: No Pace at all and I still couldn't put it down — that's how I know the brunch machinery works. Vee's confession was her wanting rendered from inside, the photo beat was entirely hers to give, and Randi cracking a little is the first real movement under the con in chapters. I want to see what Tuesdays at seven a.m. does to the hum.

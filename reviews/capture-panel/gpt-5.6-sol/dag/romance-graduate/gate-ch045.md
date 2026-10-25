@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. This hurt in the very specific way of going home and discovering your old life still fits around your body but no longer contains you. The too-short bed, the trophies, the dead friendships still pinned up like evidence—her room loves a version of her who doesn’t exist anymore, while the people she actually loves have left her with nothing she can name. That loneliness got me.
+Oh, Pace. You absolute emotionally constipated disaster. He understood her. That is the knife. He understood the crackers and the meal perfectly, felt the true answer rise, watched his smaller answer fail her, and chose safety anyway. I’ve spent chapters wondering whether he simply could not translate himself into words. No. He could. He was afraid, and he let Vee pay for that fear.
 
-And I’m furious with Pace now. Not because he didn’t text over the holiday in some ordinary boyfriend-maintenance sense, but because he knows exactly what she asked at his door. He watched her cry over the absence of a word, let her walk into the cold, and then allowed the entire break to pass in silence. “He always left you the room” used to sound respectful. Here it feels like abandonment disguised in his preferred virtue. He gets to call his silence space because he isn’t the one lying awake inside it.
+And somehow that makes me more furious with him and more tender toward him at once. Damn this book for refusing to make the deception cancel the love. His grief over Vee is not decorative brooding. It is ugly and bodily and humiliating: drinking alone when he never drinks alone, being sick, bleaching the bathroom, eating joyless chicken and broccoli because his body requires fuel. Then hearing an engine and knowing from the sound that it isn’t hers, but hoping for the length of one impossible second anyway. Him missing not merely her body but the moment her face changes when she sees him waiting absolutely broke me.
 
-The photograph split in two made my stomach drop: the whole Vee sent to Pace, the cropped Vee permitted into her parents’ house. She thinks she chose where each version went, but the whole version went into the least honest relationship in her life. And now she can’t even keep her own first night intact. Watching the invented blonde take Vee’s place at the table was horrible because that memory had been foundational—proof that Pace wanted precisely her—and the lack of a name has begun eating backward through even the things she knew.
+Sheri was exactly what he needed and exactly what I needed: one person who likes him enough not to indulge him. “Then not saying it matters more to you than having her” is the whole ruling, cleanly delivered. He can stack up every loving act he has performed, and they are real, but Vee did not ask for evidence because she doubted the evidence. She asked him to risk himself. He wanted her to believe what he does while refusing to do the one thing that would leave him exposed too.
 
-Meanwhile, “the one sure thing” is Randi. God. Vee reaches toward the person who will light up and call her gorgeous and mean it, and I believe completely that Randi means it. That is what makes this vicious. Randi is stable because she has concealed the information that would make Vee reevaluate her. Pace is uncertain because he refuses to speak; Randi feels certain because she speaks in two meanings and lets Vee hear the safer one. Vee thinks she has one opaque lover and one transparent friend. She actually has two lovers withholding the same reality in different dialects.
+The Daphne revelation finally makes his refusal emotionally legible without excusing it. He has turned one catastrophic loss into a superstition: if he does not say the words, love cannot consume his life when it ends. Except look at him. The words stayed locked up and the loss still found every room in the house. “Whiskey River was a liar” nearly made me laugh, and then the passing truck finished me off.
 
-I also cannot get past Vee protecting Randi’s dignity over the PPP revelation. She saw the truth, understood the wound, and gave Randi somewhere to put her hands. That is such clean, instinctive love. Then Randi replies by giving her the fairytale instead of the truth, while lying beside the man she used to prove to herself that Vee is what she wants. Vee offers “I’m here if you want to talk. Or not,” and Randi takes the escape hatch. Again.
+I am also extremely alert to what Pace was imagining before the collapse. That kitchen scene with Vee in his sheet and Randi across from her is not just a threesome fantasy. It is domestic. It is the life he wants: food going on the stove, both women safe in his house, the two of them laughing together. He is worrying about whether Vee could “carry” the room while still withholding the facts she would need to decide whether she ever wants to enter it. He can see her desire for Randi. He can see Randi’s desire for her. He still cannot see—or will not accept—that wanting two people separately is not consent to their secret arrangement.
 
-There’s no erotic charge for me here, even when Vee remembers the sheet and the kitchen. The jealousy corrodes it too fast. But emotionally I’m caught hard. I need January. I need Randi to see Vee’s face light up and understand that she is accepting trust she has not earned. And Pace had better not be waiting serenely in his warm house as though Vee merely needed enough “room” to return.
+And the casual confirmation that Randi’s blanket has a permanent home at the foot of his bed while Vee was begging for a name made me feel sick. Vee thinks she is asking whether Pace belongs to her at all. Meanwhile another woman’s cashmere blanket already “lives” in the room where Vee sleeps. That detail is quieter than a confrontation and somehow more brutal.
 
-GATE 49 — Old Acquaintances
+I need the next chapter immediately. Pace has finally admitted the exact truth to himself: he loves Vee, he knew what she asked, and he chose cowardice. Now he has to do something that costs him. Saying “I love you” is necessary, but it will not be enough—not with Randi still hidden inside the house, inside the bed, inside every confidence Vee thought she was giving separately. Go get her, yes. But take the whole truth with you.
+
+GATE 50 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s loneliness, and the terrible inversion by which deceiving Randi feels dependable while silent Pace feels unknowable, has me completely. I need to see what happens when the semester begins and both hidden halves of her life come back within reach.
+WHY: Pace’s internal admission changed the emotional shape of everything without absolving him, and the passing-truck breakdown destroyed me. I’m already turning the page because recognition is no longer enough: I need to see whether he chooses honesty before he tries to win Vee back.

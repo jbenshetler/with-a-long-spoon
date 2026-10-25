@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0738735086d3 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, Randi. That lunch was a seduction disguised as a debrief disguised as friendship, and Vee has absolutely no idea how completely she was handled.
 
-Oh, this got me. This is exactly the thing I keep opening these books hoping to find: explicit without becoming mechanical, psychologically exact without standing outside the desire and dissecting it to death. I could feel every retreat of his hands. That rhythm—touch, withdraw, write her down—would have destroyed me too.
+The contrast with Cassie made it almost unbearable. Cassie listens without taking. She lets Vee choose the shape of the telling, lets a silence stay a silence, touches her knee once and gives it back. Randi opens Vee like she already knows the combination. She normalizes the nudity, praises the exact body Vee is ashamed of, turns embarrassment into complicity, then walks her down through the memory one soft question at a time until Vee is about to surrender the most private part. And then: “You don’t have to tell me.” That was viciously effective. Kind on the surface, almost exquisitely considerate—and also a withdrawal at the precise second Vee was ready to give her everything. I felt the absence hit. Randi made herself the person Vee wanted to confess to, then left the confession suspended between them.
 
-And the wet panties worked because they weren’t treated as a shortcut to “look how sexy she is.” For Vee, they are evidence against her. Her body has always been the thing that betrays her, takes up too much room, wants too visibly, gives other people grounds to name her. So when he is finally at eye level with the proof and she forces herself to look, I was braced right beside her. Him craning his neck past all of it to wait for her eyes—God. That was the chapter for me. Not because he politely pretended not to notice, but because he refused to let her shame decide what the moment meant. He looked at *her*. And then her whole posture changed.
+I also do not believe that scarf story for one second. Maybe some version happened once, but “beautiful idiot,” tied wrists, helplessness, letting go—Randi was feeding Vee a fantasy and calling it gossip. She was teaching her a language for what Pace might do and making herself the woman who could safely hear about it. Except she is not safely outside any of this. Her thumbnail digging into the glass while Vee talked about Pace seeing her naked was jealousy so sharp I could practically feel it under my own nail.
 
-That little rise onto her toes nearly killed me. It was such a physical, involuntary answer: she has spent her life folding herself down, and under his gaze she gets taller.
+And then the kiss. The second press is what got me. One kiss can be social camouflage if you’re desperate enough to explain it away. Drawing back and returning with more is a choice. Randi put her hand on Vee’s jaw and kissed her exactly as deliberately as Pace leaves space for Vee to cross—except Randi has built the entire emotional corridor leading to that moment and knows Vee won’t recognize where she has arrived. It was hot. It was also frightening, because Vee’s first response was pleasure and her second was surveillance: who saw, which windows, what this could cost. That landed hard after watching Randi move through money, restaurants, and fire lanes as if consequences belong to other people.
 
-Then she discovers she can affect him, and I loved how quickly she became wicked with it. The deliberate breast against his cheek, the fake “Oops. Sorry,” him going red—yes. Finally she isn’t merely the grateful recipient of his exquisite attention. She starts spending power of her own. His “Keep still” was hotter than half the explicit sex scenes I’ve read this year because it cost him something to say it. He wants her, she knows he wants her, he knows she knows, and neither of them needs the book to translate every breath into a speech.
+I want Vee to realize she wants Randi before Randi gets to define that want for her. I want Cassie in the room when the truth finally breaks. And I desperately need Pace and Randi’s next private conversation, because Randi just crossed a line I’m not convinced they agreed she would cross—and she did it while pretending, perhaps even to herself, that it was simply how women like her say goodbye.
 
-I am also painfully aware that this gorgeous experience is occurring inside the larger lie. That has not gone away. He bought the silk before inviting her, arranged the room, warmed the house, built the riser, and knew exactly what being measured would require. Vee consented to each disclosed thing, but she still does not know how far in advance she was selected or how much of her arrival here has been engineered. The horrifying part is that I believe his tenderness completely. I believe he wants to make her the dress. I believe he wants this day to belong to her. That sincerity is what will make the truth devastating.
-
-But inside this chapter? I was gone. The dress, the attention, the shame transmuted into power, the contained man visibly fraying while still keeping his promise—I would be texting a friend at one in the morning: *He made her stand half naked in the sunlight so he could build a silk dress on her, and somehow the hottest part was that he finished the hem.*
-
-GATE 16 — A Round
+GATE 17 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the depth and the heat at exactly the same point: Vee’s humiliation becoming stature, agency, and play without ceasing to be emotionally dangerous. I need the next chapter immediately, because she is finally learning her effect on Pace while still having no idea that Randi is woven into the room with them.
+WHY: Randi’s jealousy, manipulation, genuine longing, and that unmistakable second kiss all collided at once. I’m already turning the page because the triangle has finally changed shape, even though Vee is still explaining it away.

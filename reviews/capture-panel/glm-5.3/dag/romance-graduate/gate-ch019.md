@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 96625992569d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8d06f617de36 · dated · 2026-10-24*
 
-REACTION:
+REACTION — Okay, I'm still catching my breath. That was the chapter I've been waiting twenty chapters for and it managed to be about ten things at once without dropping any of them.
 
-Oh, this one hurt. This is the chapter I've been waiting for since the hand-squeeze at the smoothie shop, and it arrived sideways, in HER kitchen voice, in his house, and it landed harder than I braced for. Randi sat at his table with the small bowl — the apple bowl, the VEE bowl, he sliced apples into that one, he set it for HER — drew one line through the top of the sauce, and didn't eat. And the book never underlined it. He ladled her bowl and I went cold before I'd consciously clocked why. She got the girlfriend bowl and she used it as a place to not-eat in. Randi, who "can't eat that," doing Vee's starvation right back at him, and he noticed and left it. These two people who never say the thing, saying it in china.
+The dress in the window. I actually put my hand over my mouth with her, I didn't plan to. "He'd taken all that trouble and then taken the further trouble to hide the trouble" — that's the most Pace sentence this book has ever written, and I'm going to be carrying it around. The screw heads still bright on the mirror. He hung a *mirror*. This man stayed up all night so she could see herself the way he sees her, and then he went and stood in the den and waited like a kid outside a door.
 
-"It's selfish, Pace." — I gasped. Because she's wrong and she's right and the book knows both. He's kneeling at a pedestal "not touching a girl who had been wet through her clothes for him, and finished the hem," and calling it selflessness — taking the long road with Vee because the long road is the one that feels like virtue to HIM — and Randi, who can't admit WHY she wants the timeline moved up, found the one accusation that's true from inside her own lie. Neither of them said the real sentence. She wants more of Vee and wants her sooner and can't say it, so it came out as "you're selfish." He wants to be the kind of man who waits and can't hear that it might be vanity, so it came out as "she chooses it, or it isn't anything." Two people fluent in subtext, having a fight entirely in subtext, and it's the best scene in the book and nobody took their clothes off until they took their clothes off and it was WORSE.
+And the *floozy* moment — that word flaring up automatic and her staying anyway, making herself look until the looking "stopped being shame." That's the whole Vee arc in one paragraph. Four chapters ago she was keeping her steps small so the underwear wouldn't show. Now she takes the underwear off *because of* what shows. She stripped for the mirror before she ever stripped for him, and the book knows those are two different acts and let both of them be hers.
 
-The sex. God. The inch-and-the-stop is her signature, her whole performance architecture — "she did not do the thing she did." Eyes shut, hair down over her face, fast, no *tell me*. Every night she's said tell me — she's been running their sex off Vee's fuel, off the gardenia and the chlorine and "her stomach is soft," and tonight she wanted Vee without the proxy and without the confession of the proxy. She rode him like the third person in the bed was the only one in it. And him underneath, waiting for the tell me that never comes, understanding "it was not for him," and giving it to her anyway — that's the most devastating tenderness he's shown and it was invisible to her, eyes shut.
+But the part that undid me — the part I'd text someone about at 1 a.m. — is the logistics. The fumbling. "Don't point down." "There's a lot of you covered in a lot of me." Her laughing so hard he has to stop undressing her. I have read five hundred sex scenes and not one of them has ever been *funny like this* — funny because two actual people were trying to protect a silk dress mid-emergency and neither could let go of anything. The laughing didn't break the heat, it *was* the heat. And then he takes her fingers into his mouth mid-relay, slow, eyes on hers, and my knees went with hers. That man studied her fingertips like a hem.
 
-And then the back. The blanket, the turned-away. The chill that always takes her — but she's never skipped the staying-down before, and now twice in two weeks, and he knows enough to not put his hand in her hair, and I'm lying there with him going through the pieces that "would not go together into anything he could name." He's not stupid. He's just missing one fact. That's the whole tragedy of this book, isn't it — everyone's smart and everyone's missing one fact.
+I'm suspicious of exactly one thing and the book planted it on purpose, I know it did: the daydream. "It just felt like what she was for." Standing in the middle of the light while the room turns. That's Randi's whole philosophy wearing Vee's skin — that's *being Randi* — and Vee drifted into it in a post-orgasm haze without noticing whose thought she borrowed. Twenty chapters of me waiting for the econ eye to finish its ledger and instead it's been quietly writing a different entry: he's not just making her happy, he's making her *someone*, and that someone might be a person she didn't choose to become. And Pace asleep, arm coming down around her without surfacing — the loneliness thing again, the cling even unconscious. Both men in my head are true at once and the book still won't let me sort them.
 
-The bowl under the plate in the refrigerator, "for her." He doesn't know what he did and he saves her dinner. I had to put the book down for a second.
+Also: "getting away with something." That's the last line and it's doing double work — happy-Vee reads it as delight, paranoid-me reads it literally. She *is* getting away with something. She doesn't know what yet.
 
-What scared me: Randi's voice going flat. "That's how it works for you." I've been afraid FOR Randi and afraid OF Randi, and this is the chapter both fears shook hands. She's accelerating the plan not because the plan is going well but because she can't hold the two lies apart anymore — the Vee-lie and the Pace-lie and the I-want-her truth all in one throat. "How long are you going to take" is a woman whose timeline is emotional, not strategic, and she's the only one who doesn't know it.
+The fight with Randi hangs over all of it like weather that hasn't arrived. Three of them in one room is still coming. The dress is off the table now — worn, christened, hanging in the dark window — and the induction countdown clock is ticking louder.
 
-Also: "She's happy." Three words, delivered over the rim of the glass, thumbnail pressing — my Randi- tells catalog lit up like a Christmas tree. She's genuinely glad for Vee AND being eaten alive by it. That's the most human she's been in her own POV.
-
-One small sour note — the sex here was deliberately joyless, which is the point, but it means this is the first chapter where the heat was a wound instead of a charge. I felt it as dread, not arousal, and I think that's exactly what Helen Rivers wanted. Fine. But I note it.
-
-GATE 20 — Portion
+GATE 21 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 9
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The fight nobody said the true thing in, the apple bowl she didn't eat from, the tell me that didn't come — this is the crack in the plan I've been reading toward for twenty chapters, and every character is now more honest in their body than their mouth. I need to see what Randi does next more than I need to see the dress finished.
+WHY: This is the payoff chapter the whole book has been building — the dress, her choosing her own bare leg, the laughing relay — and it earned every beat of it. I'm only holding back one point of NEXT because I'm braced for whatever the "getting away with something" line is loaded with, and I need to see Randi's face when she hears about this dress.
+
+EXIT NOTE: n/a

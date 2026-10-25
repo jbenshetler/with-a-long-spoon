@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch025 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch025 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0dc82afa8adc · experiment merge-space · dated · 2026-10-25*
 
 **REACTION**
 
-BROOKE. Fourteen chapters I've been watching dorm windows for her, and she turns up at the sorority door with a coffee and "Oh — you're the stats friend." *The house had a folder on her anyway.* I got a chill. Everybody in that house knows who Vee is, and Vee thinks she's just Randi's friend from class.
+"She cried."
 
-I tensed up when the fight got retold. That's my least favorite thing this book does, and I had my thumb ready to skim. Then I noticed she isn't retelling it straight. She tells Randi she asked whether his services "carried on inside." She didn't say that. She says she left him holding both drinks, but she set hers down. And the bartender bit she reports, the water, "he's a good guy," never happened. She's making herself worse, sharper and crueler, in the version she hands Randi. Either Vee is punishing herself out loud, or Vee is keeping a third set of books now. Either way, I stopped skimming. If it's an author slip I don't want to know.
+She didn't. I was in that room a chapter ago. Vee fixed her sad-clown face at her own sink, walked across campus eating an apple, and told it straight in the desk chair. She laughed about Edna Mode. Randi handed Pace a crying girl because a crying girl is softer and needier and easier to move around. It's such a small lie, and it told me more about Randi than any of the slips with the accent did. Then there's "Give her a day," which Pace notices is said "as if the day were his to give." Right, Pace, it isn't yours. Randi set the schedule this morning, out loud, in her bedroom, and now she's delivering it to you as a forecast. She's running both of them, and for one line he almost sees it.
 
-Then Randi takes over, and god, she's so good at it. "Not today." That's an instruction, not advice. Tomorrow night. "He won't text you." *How do you know that, Randi.* She doesn't guess, she knows, and Vee lets go of the clench "because Randi had said so." That line scared me more than anything at the Rusty Nail. Randi is choreographing the reconciliation, and then she literally dresses Vee for Pace. Her shoes, which are the same size because of course they are. Her scarf, the one that'd be "criminal" on Vee, which is the exact word she used about Vee's breasts in Pace's bed. She's sending Vee to his door wrapped in Randi. Is he going to recognize the scarf? Does Randi *want* him to? I need to know whether that silk smells like bitter orange.
+The sex scene is the whole engine of this book, and I'm uncomfortable admitting how well it worked on me. Randi rides him and tells him about Vee in her bra, Vee on her rug, the slow walk around her, her hands up under the skirt. Then: "she made a sound and hoped I didn't hear it." I *was* there for that sound. I watched Vee hope it wasn't out loud. Now it's being served up as pillow talk while she clenches on every word. That's hot and it's a violation, and the book knows the two are the same thing. That's why it lands. I'm angry on Vee's behalf and I'm turned on, and I don't get to pick one. That's exactly what I came to this book for, and it's horrible.
 
-The shoe scene was hot in a way I didn't expect, because Vee can't see it. The long skirt hides everything. There's a cool hand bracing high on the back of her thigh, a thumb pressing the hollow behind her knee, and her breath doing something she hopes isn't audible. Randi's face moves at Vee's bare feet, "there and gone." This is the boutique foot thing again, closer and more private, and the skirt makes it feel like something done under a table. That's real heat with nothing explicit, and the book trusted me with it.
+What's really changing is Randi. "I haven't stopped thinking about her." Her voice "had gone somewhere without her." For the first time she's not reporting for the game, she's confessing. And she comes through the door pleased and *lets it show*, after a whole chapter of eating everything on her plate. She's happy because Vee came to her. That scares me more than the starving Randi did.
 
-"Maybe you just haven't met your Evil Queen yet." Randi just told her. Out loud, laughing, on her knees with Vee's foot in her hands. And Vee laughs.
+The things I'm holding onto: Pace keeps what Vee said at the bar to himself. "Those were his, and that was Vee's." Twice now he's kept something of hers back from Randi. That's the thread I'm hanging on. Then he babbles to Sheri about Vee's thumb on the walnut grain, and Sheri says "Listen to you," and he doesn't even know what she means. Lovely. He's gone and can't see it.
 
-Other stuff I'm keeping: no makeup, a few freckles she never thinks about. The real face at 9 a.m. The accent leaking on "gorgeous," and Vee filing it "somewhere across an ocean." The kiss where Vee didn't brace, *it was only what they did.* That's the frog in the pot, and the pot is a sorority foyer under fifty years of composite photos.
+THE BENCH. It's the table against the bedroom wall, not the low table in the den. I had the wrong room. Randi folds her clothes on top of it and looks at it in a way that's "not the look you give a table." Facedown, "please," the voice he's never heard from her since. So now I know what's waiting for Vee, and that Randi went first and has never stopped wanting it. Every time Vee takes another step, the bench is the obvious next one.
 
-Small gripes: "ablutions." "A surrender wearing the coat of a defense" is cute and knows it's cute. Edna Mode was fun, but it felt like the book winking at me. And Pace is offstage, so the romance here is all Vee and Randi, which may be the point.
+Sheri's great. Faster on the climbs and never lets it go unmentioned, comments on women like the weather. Finally somebody in Pace's life who isn't in the game. But "If that's not already complicated, it will be. But I bet it's worth it" is the book clearing its throat at me. I'd already gotten there. Also, Pace calls it "two of them at once," like he's dating two women. He isn't. Vee doesn't know there's a "two."
 
-What I'd text at 1 a.m.: *she's dressing her for him in her own clothes and calling herself the evil queen and nobody hears it.*
+Small eye-roll: "the tit goddess was generous." I believe Randi would say it. I still winced.
 
-GATE 26 — broken-in
+Saturday night is next. Vee shows up in Randi's shoes and Randi's scarf, with Randi's timing, to a man Randi warmed up the night before by telling him about her thighs. It's dread, and I'm going to read it right now.
+
+**GATE 27 — Space**
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn." Here we go, the fight retold again.
-WHY: The recap almost lost me until I caught Vee changing the story, and after that the whole chapter was Randi steering her: the timeline, the outfit, the scarf, the "Evil Queen." The hand under the skirt was hotter than half the sex I've read this year. Tomorrow night Vee walks into Pace's house wearing Randi, and I have to see his face.
+ALMOST-STOPPED: "The tit goddess was generous with that girl." It was a wince, not a real exit.
+WHY: The lie that Vee cried, and Vee's private sound sold as sex talk, made me furious and kept me hot at the same time, which is the exact both/and I came for. The Sheri coda cooled the chapter a notch, but it ends pointed straight at Saturday night, with Vee walking into a room Randi has already staged.

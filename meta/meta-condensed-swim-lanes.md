@@ -1,6 +1,6 @@
 # Condensed — Swim Lanes
 
-*VIGNETTE · Draft complete · `swim-lanes.md` · ~1,620 words · Pace POV, close third · Sun Sep 27 night, after {{Rye}} and the hike · Pace's kitchen, then his bedroom · present: Pace, Randi — Vee absent, discussed throughout*
+*VIGNETTE · Draft complete · `swim-lanes.md` · ~1,620 words · Pace POV, close third · Sun Sep 27 night, after {{Leave No Trace}}'s dorm movement and the hike · Pace's kitchen, then his bedroom · present: Pace, Randi — Vee absent, discussed throughout*
 *Craft companion: `meta-note-swim-lanes.md`.*
 
 ## Summary

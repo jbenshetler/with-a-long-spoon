@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
 
-REACTION — Oh, this is so much worse now, because Pace knows. He knows exactly which question matters—*does she want it?*—and he can hear every time Randi answers a neighboring question instead. “She’d be sad if we stopped” is not consent. “She chooses every Saturday” is not consent to being cultivated for a threesome or having her private disclosures carried home and used in bed. He catches every dodge, strips every justification away, and then gets so turned on by the proof that Vee pursued the kiss that he loses control. He sees the structural failure perfectly. He simply likes what is happening too much to stop it.
+REACTION
 
-And God help me, that was blisteringly hot. Randi insisting the kisses are *work* while her body betrays her from the inside is exactly the kind of scene I came to this book for: explicit, psychologically merciless, and not remotely interchangeable with anything else on my Kindle. “You don’t have to do it for me” was practically a blade. He removed the last shelter she had—the fiction that she touches Vee only as his agent—and she came because there was nowhere left to hide. Then “I’m inspired by her. God, I want her.” Finally. FINALLY. Four clean words of truth, immediately followed by the cowardly little repair: *For us. When she’s ready.* No, darling. You want her for you. That doesn’t become less true because Pace wants her too.
+Oh, Vee. She sees *everything*. That is what hurts.
 
-What really got under my skin was the tenderness afterward. Randi asking him to hold her tighter, confessing that being seen makes her feel real and frightens her, asking him to say something nice—and Pace actually thinking before he answers. These two know how to care for each other. They are not cold predators playing with Vee for sport. They are emotionally perceptive, genuinely attached people using all that perceptiveness to maintain an arrangement that denies the woman they love the central fact of her own life. Their tenderness makes the betrayal feel intimate rather than mitigating it.
+She reads the exact instant Randi’s body leaves the room, understands that those two words are personal before she has any proof beyond their texture, and then gives her cover without making a performance of being kind. The laptop moved toward herself. The practical questions. Keeping Randi included without forcing her to speak. That is such intimate care, and it asks for absolutely nothing back.
 
-And “You are extraordinary” hurt, because we already know Pace used almost that exact word for Vee. Randi needs from him the thing Vee needs from both of them: to be seen specifically and named. They are giving each other comfort with truths while feeding Vee comfort through lies.
+Meanwhile Randi has been taking Vee’s most private disclosures straight to Pace and turning them into shared erotic material. The imbalance is brutal. Vee sees someone’s shame and instinctively protects it; Randi sees Vee’s vulnerability and thinks about how to guide it somewhere useful. I don’t doubt Randi loves her, but this chapter just showed me that Vee already knows how to love Randi more ethically than Randi knows how to love her.
 
-Also: I am furious about the photograph now. Vee made Pace promise, “never share me with anyone,” and he has not shared the literal image, fine—but he is sitting here receiving an erotic verbal rendering of Vee in class, right down to what was inside her clothes, from a woman Vee believes is only her friend. He is honoring the narrow wording while violating the actual trust. That is his whole moral catastrophe in miniature.
+And of course Vee misreads the shape of the secret because she has been given no reason to imagine Randi herself might be implicated. She supplies the kindest possible explanation: a rotten father, an innocent daughter, inherited shame that shouldn’t be hers to carry. Maybe that is true. But “There could be no other Miranda” is sitting there like a blade. Was the business actually in Randi’s name? Did her father use her? Did she sign something? Does she know more than she is letting herself know? “Cheating bastards” being plural feels like she has just discovered betrayal, but I no longer trust the book to let the easiest merciful reading stand.
 
-I need the next chapter immediately. The secret cannot survive much more of this without the book asking me to participate in Vee’s humiliation instead of dread it. Randi has finally said the true sentence aloud, Pace has finally challenged her consent fiction aloud, and both of them have still chosen pleasure over disclosure. Something has to break.
+Cassie’s presence made it worse in exactly the right way. Her father was laid off. Randi defended the loans because her father supposedly used them properly. Then the data quietly puts Randi’s own name above the worst point in the county while Cassie calls it proof of the whole theft. Nobody is manufacturing conflict with one missing text here. The conflict is already embedded in money, family, class, and what each woman believes the other can bear knowing.
 
-GATE 40 — Four
+Also: Vee “sat between them and loved them both.” Well. There it is, slipped into a sentence as though it isn’t enormous. Not *wanted*, not confused warmth, not best-friend language—the narration knows she loves Randi. Vee may still be sorting that love into the wrong drawer, but the book isn’t pretending anymore.
+
+There was no heat here, and I didn’t miss it for a second. This is exactly the kind of quiet chapter I’ll follow anywhere because the intimacy is active and costly. I would text a friend: *Vee just protected Randi’s secret without being asked, while Randi is still secretly distributing Vee’s entire inner life. I am unwell.*
+
+GATE 41 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This gave me the exact collision I’ve been waiting for: volcanic heat, real love, and the moral argument happening inside the sex rather than safely afterward. I’m furious with both of them, aching for all three of them, and already turning the page because Randi’s “God, I want her” cannot be put back where it was.
+WHY: Vee’s instinctive protection of Randi made the hidden betrayal feel newly vicious, and the name on that government record has opened a second secret with real moral weight. I need to know whether Randi was used, complicit, or both—and how long Vee’s kindness can keep being answered with concealment.

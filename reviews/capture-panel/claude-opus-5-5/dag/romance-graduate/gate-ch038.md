@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, so we get a stats project. Right after chapter 40, which was the hottest thing in the book, it hands me PPP loans and a professor clicking his slides back and forth like he's checking tire pressure. For the first page and a half I was honestly braced. Cassie's dad, Randi's dad, the aggregate against the county. I've DNF'd literary books for exactly this, a seminar dressed up as a scene. I almost thumbed ahead to see how long it was.
+Okay, *this* is the sex I've been asking for since chapter 35. It isn't summarized and it isn't "two, three… mornings," it's in the room with me. The clothes trail down the hall did it: the jeans "sensible in the car and the enemy now," hopping out of them one-legged and inside out, white cotton socks, her laughing and having to stop laughing to finish. I've read four hundred frantic-reunion undressings and they're always choreographed, slick, everything sliding off. This one is clumsy and funny and real, and it's hot *because* it's clumsy. "There was no dignity anywhere in any of it and she'd have burned the house down for him." I'd text that line to someone. Same with "her body having just published the number she'd gone to such trouble to keep private." That's the five nights she counted and wouldn't admit to, given away by how fast she came. That's interiority doing the heat's work, which is the whole thing I'm here for.
 
-Then MIRA, and Randi went still, and I sat up. "Not a motion — the withdrawal of motion." That's a real sentence, and it does real work. This is the closest I've been to Randi's insides, and it isn't even her POV. It's Vee watching the person and not the page, which is what Vee's good at and what nobody gives her credit for. "Cheating bastards," plural, ragged, said for the first time. Who's the other bastard? The mother? The whole family? Or is Randi, the girl who invents men when she needs them, saying it about a man she can't invent her way out of? I'm turning that plural over. Randi built the graph to prove Daddy was the good exception, and her own graph caught him. She's the outlier. That's her whole wound in one data point, and it explains the "It doesn't" from chapter 39 better than any backstory dump would have.
+And him catching the back of her bra and just *holding* it so she has to unwind herself out of it like thread off a spool. "I'm helping." God. He's so still and so smug and I'm into it.
 
-What wrecks me is Vee. She slides the laptop over, picks up the busywork, gives Randi "somewhere to put her hands," and never tells her what she saw. Vee is keeping a secret FOR Randi, protecting her, while Randi is the one keeping the biggest secret in the book from Vee. The asymmetry hurts. Vee is being a better friend to Randi than Randi has ever been to her, and Randi "had no idea she'd been looked at." For once Vee is the one a step ahead, and she's using it to be kind.
+The part that got under my skin was the opening, though, before any of that. She took the five nights for school, and some unreasonable corner of her wanted him to fight for them, and he didn't. "Take the time you need, I'll be here." Grace that costs her more than a fight would have. That's the jacket's missing word again, coming at it from the side. He never says he wants her. He opens the door and waits. Then the shirt scene lands the same note from the other direction. She confesses she breathed a dying flannel every night, which is the most naked thing she's said all book, more naked than the hallway. He doesn't tease her and he doesn't flinch. He puts it on over his own shirt and wears two shirts in his warm kitchen. "That was the whole of his answer, as it always was." I teared up a little with her. I'm also furious, because I *know* what he did Monday with Randi over the white oak rail. "Then I'll be careful with you." He's careful with everyone. The shirt will smell like him, and like whatever else that house holds.
 
-Cassie "didn't carry things into rooms she meant to walk out of." Cassie "drank nothing." I love her. She took the grunt work without sting, and she's right about the world while being wrong about the room.
+Which brings me to the thing I'm side-eyeing: "the long, unusually proportioned table that stood in the middle of his bedroom." Excuse me? Has that always been there? A table in the middle of a bedroom, flagged as *unusually proportioned*, with her thong landing on it and her never looking? That's a gun on the mantel. I don't remember it from earlier, and my notes don't have it. Either I've forgotten furniture or the book is planting something, and I'm betting on the second.
 
-My gripes. The last paragraph is the book explaining its own title to me again: "easy to see if you knew to look for it, invisible if you didn't." I GOT it. That line describes the whole series premise, and it reads like a wink to the reader. I wish it had ended on Vee's thought about luck instead. And there's zero heat, zero Pace, zero body. One quiet chapter after 40 is fine, and this one earned its quiet. But it's a time-jump back to November 4, which is that step-ahead trick again, and if 42 is also soft I'll start counting pages.
+Gripes, smaller this time. The pizza was gorgeous, but it's another long menu, and the cotton-candy-versus-strawberries line edges toward the book explaining itself. I *get* that she's tasting everything separately now, that her senses woke up, the body-as-new-country thing. She didn't need to hand me the metaphor. The water buffalo mozzarella was a lovely little Pace-ism though.
 
-What I'd text a friend at 1 a.m.: "randi's dad is a PPP fraud and vee saw it and is keeping it secret to PROTECT her. while randi is literally running a long con on her. I'm unwell."
+I'm also noticing what *isn't* here. After 41, where Vee quietly protected Randi from her father's name on a fraud record (and I loved her for that), this chapter has zero Randi. No phone buzzing, no scratch on his shoulder, no trace in the bathroom while she's filling her drawer. Honestly that felt deliberate. It's the "new ordinary," and the dramatic irony does the work without the book pointing at it. Good. But I'm going to start needing the plot engine to turn over soon. Thanksgiving is a week out.
 
-GATE 41 — The Outlier
+**GATE 42 — The New Ordinary**
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 8
 NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "He clicked back a slide. Then forward."
-WHY: The first page was a syllabus, and I nearly bailed. The MIRA moment gave Randi a real wound and gave Vee a quiet, grown-up act of love that turns the deception inside out. I want the heat back next, and I want to know who the second bastard is.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "It was the difference, she thought, between cotton candy and a bowl of cut strawberries."
+WHY: Finally a sex scene shown in full, funny and clumsy and hot, with her inner life running through every beat. The shirt confession is the deepest the bond has gone, and it's crushing to read knowing what I know. I'm pulled forward a notch less than I was pulled in because nothing moved on the deception, but the planted table and Thanksgiving coming up keep me turning pages.

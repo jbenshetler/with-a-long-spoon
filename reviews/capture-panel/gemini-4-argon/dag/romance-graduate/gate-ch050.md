@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch050 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
 REACTION
 
-Oh, my heart just melted into a puddle on the kitchen floor. After the wild, scorching marathon of Friday night and Saturday morning, this little Sunday evening kitchen scene is the most deeply romantic thing he could have possibly done.
+Oh, I love this so much. After the emotional wringer of December and the blazing, breathless weekend of chapters 52–54, this little dorm-room landing with Cassie feels like letting out a long, warm breath.
 
-Look at what Pace is doing here. In December, she walked out on him because she felt kept in a box—because she didn't know what she was to him "out there" and whether they would ever be seen in public again. He didn't say the words at the door on Friday night (though I still haven't forgotten that cut-off *"Vee, I l—"* before she opened the coat!!), and instead of making a big theatrical speech now, he stands at the sink washing dishes and quietly opens the door to her entire world: *"I want to meet your people."*
+The comedy of Vee scrambling to explain why she came home in Pace's sweats and Randi's hooker heels with zero clothes of her own—*"We talked"* (sure you did, honey, with your coat wide open on the front porch!) and then inventing a lie on the spot about Pace shrinking a cranberry wool sweater to doll-size and dyeing her pants—had me grinning from ear to ear. And Cassie just staring at her with the highlighter in her hand: *"Pace. Shrank your sweater."* Because even Cassie, who hasn't met him yet, knows from four months of stories that the man who supremes blood oranges and salts persimmons with three grains of sea salt ("They do it that way in Japan") would NEVER accidentally wash wool in hot water! The way Cassie just puts her head back and laughs instead of calling her out, letting the ridiculous lie stand because she's happy her friend is happy, is the best kind of roommate intimacy.
 
-And the way he proves he's been listening! That detail about Meg's boots from the October hike—*"Your heel came up out of the right one when you pushed off"*—and quoting her own joke about Kayla talking the paint off a wall back to her in his dry voice. Every woman who has ever dated a man who just nods while his brain is on standby knows how intoxicating it is when someone actually *keeps* the small dumb news of your life on a shelf in his head.
+And then that quiet little beat at the end when Vee puts the flannel shirt back on—the exact same flannel shirt she stripped off in the dark in December because *"the heat in the shirt was her own, given back"*—and brings the collar up to her nose, deciding he'll just have to wear it for her again this weekend. Even the cold cinderblock wall against her hand doesn't hurt anymore because *"the wall was only a wall: he was out there west of town in the wide bed, hers again."*
 
-Wait, though—let's also clock the double layer here! When Vee immediately lights up and says, *"We could do a dinner. The three of us"* (meaning him, her, and Randi, somewhere with real napkins!), Pace immediately pivots and says, *"Bring Cassie, too."* And then adds Meg, and Kayla, and says *"Then it can't be a dinner table. Tables have ends. Somebody ends up at one."* On one level, he's genuinely giving Vee the public claim she was starving for in December—he wants to stand in a room with all her friends, even Theo who asked her out last spring (*"Bring Theo"* with zero insecure alpha posturing, god, how hot is a man who isn't threatened?). On another level... is he also steering away from a cosy three-person dinner with Randi because he knows how dangerous or loaded that would be before he and Randi have figured out how to handle the truth? Or is he already laying the track toward that Valentine's weekend dance hall Sheri mentioned?! Wait—"Let me handle it"?! Where is he going to take them? Could he just host them at his house, or has he got a spot in mind where his sensory issues won't get blown out?
+That's two quiet, short chapters in a row now (54 and 55) closing out the weekend and resetting the board for the semester, which works as a gentle exhale, though I am *very* ready for Tuesday to get here—Anthro class and dinner with Randi, where Vee is going to spill every detail of the coat, the heels, and that Saturday morning kiss where she tasted herself on Pace's mouth!
 
-And Vee! Look at the emotional maturity on her in this chapter. First, refusing to pick a restaurant where either Cassie or Randi would have to "be a good sport" for two hours (and that quiet pang where she remembers watching someone "be fine about it" before—whether that's Pace at Chili's or her own family). And then, right in the middle of her excitement, remembering Pace squaring his fork against the table at Chili's with four TVs roaring at him, and immediately handing him the choice of venue without making a fuss so he won't be ambushed by sensory overload again. *That* is two people actually learning how to love each other in practice.
-
-Also, I'm obsessed with the domestic image of her just casually sitting butt-naked on a lacquered chair he built, sipping wine and chatting at his back while he scrubs pans. However, the timeline tiny-brain in me noticed that the very end of Chapter 52 already gave us the little flash-forward epilogue of *Sunday, January 17* when she walked back into the dorm in his rolled sweats and Randi's heels to Cassie's *"Hmm"*—so this is earlier that same Sunday evening before she heads back! Now bring on Tuesday's anthro class and dinner with Randi, because Vee has a *lot* to report!
-
-GATE 54 — Back
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A short, quiet bridge chapter, but every beat of it lands like pure gold. Watching Pace answer December's fight by asking to meet all of her friends—and proving he remembers every tiny detail she's ever told him—while Vee quietly protects his sensory needs after the Chili's disaster is peak grown-up romance.
+WHY: A warm, funny, deeply affectionate Sunday-night coda with Cassie—"Pace. Shrank your sweater"—and the lovely full-circle beat of Vee putting his flannel shirt back on in her top bunk now that they're solid again. That's two short, quiet chapters in a row to close out the weekend, so I'm ready for the heat and the Tuesday night dinner with Randi next.

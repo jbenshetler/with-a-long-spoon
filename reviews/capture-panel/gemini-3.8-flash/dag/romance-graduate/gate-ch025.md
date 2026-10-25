@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0dc82afa8adc · experiment merge-space · dated · 2026-10-25*
 
 REACTION
 
-I am sweating. I am genuinely, physically sweating.
+*Oh, my god.* My stomach actually dropped through the floor.
 
-The whiplash of Vee running to *Randi* to confess her fight with Pace—and Randi playing the absolute maestro of this entire orchestra—is making my stomach drop out. Vee thinks she has this fairy-godmother best friend who is just effortlessly glamorous and European-affectionate, and the dramatic irony is so thick you could carve it with a dull knife. When Brooke opened that door and casually clocked Vee as "the stats friend," I gasped. Of course Randi talks about her. Of course the house has a file on her.
+The whiplash between chapter 26 and chapter 27 is downright sickening. In 26, you have Vee, so deeply tender and vulnerable, completely breaking down in Randi’s room, thinking she has found this sisterhood, this unbelievable, miraculous safe harbor in another woman. Vee sits there bare-legged, crying, taking all the blame on herself, letting Randi dress her up like a doll, feeling Randi’s cool hands smoothing up her calves and resting on her thighs, thinking: *I have never in my life had a friend like this.*
 
-And then that bedroom scene. Holy *god*. Randi kneeling on the floor, sliding her hands up under Vee’s skirt to brace the back of her bare thigh, pressing a thumb into the soft hollow behind her knee—all while Vee stands there in just her bra, being literally dressed and styled by the woman who is sleeping with the man she’s about to go seduce. It is so dirty, so exquisitely tense, and so heartbreakingly intimate. When Randi told her, *"Maybe you just haven't met your Evil Queen yet,"* my jaw hit the floor. The author is playing with pure fire here. Randi knows exactly what she’s doing, and yet she’s also so utterly captivated by Vee that she can’t help herself. She’s dressing Vee up like an offering, but she’s also putting her own marks on her: her shoes, her scarf, her thumbprints on Vee’s thighs, her mouth lingering on Vee’s lips in the foyer.
+And then chapter 27 opens, and Randi drives straight out to Pace’s house on Friday night and weaponizes every single drop of Vee’s humiliation and nakedness as dirty talk while she *rides him*.
 
-And Vee just… leaning into that kiss at the end. Not bracing. Just accepting Randi’s mouth on hers as the new normal. *"It was only what they did."* Baby girl, *no*, straight girls do not kiss their sorority friends on the mouth with a lingering second press like that! The sensual rewiring that Pace started on her body is now bleeding directly into how she receives Randi, and she is so wide-eyed and innocent about it she thinks it’s just high-fashion manners.
+It was utterly scorching and genuinely monstrous. The heat in that bedroom scene was off the charts—Randi holding Pace’s mouth off her so she can straddle him, look him dead in the eyes, and feed him the play-by-play of Vee standing in her black lace bra, of sliding her hands under Vee's skirt, of pressing her thumb into the back of Vee's knee until Vee gasped. And Pace! Pace lying there, getting rock hard listening to the details of the girl he supposedly cares about being stripped down and handled, driving up into Randi while picturing both of them. It is so dirty, so exquisitely written, and so deeply, fundamentally twisted.
 
-The psychological maneuvering here is breathtaking. Randi commanding her *not* to go to Pace in a panic, telling her to wait until Saturday, making it a calculated entrance—Randi is actively directing the movie of Vee and Pace, but she’s writing herself into every seam of the wardrobe. Now Vee is going to walk into Pace’s house wearing Randi’s shoes and Randi’s silk scarf. When Pace sees those cognac heels and that green-and-gold silk, what is he going to do? He knows Randi’s closet inside and out. He *knows* her clothes.
+Randi is terrifying. The sheer audacity to orchestrate Vee’s apology timeline—telling Vee, *"Not today, give it a day so it looks like you chose it"*—just so Randi could have Friday night alone with Pace to get fucked on the exact currency of Vee’s misery? She bought herself a night with him using Vee’s tears as the ticket. *"I haven't stopped thinking about her."* Randi is so obsessed she can't even touch Pace without bringing Vee into the bed between them.
 
-Saturday night is going to be a bloodbath or an absolute erotic detonation, and I am not moving from this couch until I find out which.
+And then the tonal shift to Saturday morning with Sheri on the bikes—what a brilliant, chilling little sequence. Sheri is the blunt reality check of the outside world, just riding alongside him, laying out the plain truth that Pace refuses to look at: *"And the redhead?" "Not yet."* He sounds so calm, so matter-of-fact. *"Not yet."* Like it’s just an eventuality on a syllabus. He is so high on his own supply, so convinced he is a benevolent master craftsman managing two women who adore him.
 
-GATE 26 — broken-in
+The trap is set. Tonight is Saturday night. Vee is coming to that house in the little black dress, wearing Randi’s shoes and Randi’s green-and-gold silk scarf tied tight at her throat, completely unaware that the bed she’s about to climb into still smells like the woman who put her in those clothes. I am sweating. I need the next chapter immediately.
+
+GATE 27 — Space
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it feels dangerous to breathe. Watching Randi touch Vee under her skirt, style her in her own clothes, and kiss her on the mouth—all to send her back to Pace—is top-tier psychological erotica. I need Saturday night immediately.
+WHY: The absolute psychological brutality of Randi using Vee's breakdown and bare skin as dirty talk while riding Pace was magnificent, scorched-earth erotica; I am completely hooked on the sheer dread of Vee walking into that house tonight.

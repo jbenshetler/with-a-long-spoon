@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-I am screaming into a pillow. I am actually gripping my Kindle so hard my knuckles are white.
+Holy shit. The mask didn't just slip in this chapter—it completely cracked open.
 
-"Only if you promise you'll never share me with anyone." That was two days ago! She made him promise not to share her photograph, and then what does she do? She takes the phone out of her own purse, gets insecure because Randi teases her for only showing the half-crop, and hands over the *entire naked pinup* of herself to the woman who is sleeping with her boyfriend.
+I feel sick, thrilled, furious, and utterly riveted all at the exact same time. Seeing Randi and Pace alone in that house, knowing that Vee was just there, knowing that Randi is taking the intimate, tender, private things Vee confessed over eggs Benedict and serving them up to Pace as foreplay to get fucked four times in an afternoon? It is depraved. It is brilliant. It makes my skin crawl in the best possible way a dark, psychological romance can.
 
-The psychological warfare Randi is running here is terrifying because she barely has to push. She just sits back in that dark velvet booth, acts warm and indulgent, drops the exact line from the book's jacket—*you're just finally hungry out loud*—and Vee practically turns herself inside out to offer up every sacred detail. She gave her the sex, the playlists, the cooking, the sleeping through the night, and then the actual photographic proof of her bare body laid out on Pace's sheets.
+What floored me here wasn't even the filth—though watching Randi use the goodbye kisses on the sidewalk to drive both Pace and herself out of their minds while braced against the couch was scorching. It was the sudden, raw vulnerability underneath Randi’s sociopathic exterior. She is unraveling. She claims she’s "doing the work" for this grand threesome design, but she blurted out the absolute truth down into the wood: *"God, I want her."* Not just for Pace. Not as an offering. Randi is falling apart with genuine, agonizing lust and obsession for Vee, and she’s terrified of how much Pace sees right through her.
 
-And that moment where Randi faltered? When Vee talked about feeling looked at, about him wanting *her* and not just a body, and Randi actually lost her footing for half a second? That gave me chills. Randi is realizing that this isn't just an erotic game or a hot little project anymore. Pace is falling in love with Vee, and Vee is in love with him, and Randi is caught between being turned on by the performance and realizing the ground is giving way beneath her feet.
+And Pace! God, Pace is so chillingly methodical. The way he remembered picking Vee on the lawn—reading Randi’s micro-reactions like a data set, knowing he was going to take Vee before he even pointed—it proves how calculating he is. But his little moral high ground? *"She consents—every time—or I'm done."* He actually thinks he has ethics! He genuinely believes that because Vee is consenting to him in his bed, the massive, monstrous lie they are living doesn't violate that consent. He thinks he’s an honorable shepherd guiding these two women into his bed, when in reality he’s building a bomb.
 
-Then the kiss outside the restaurant—Vee chasing it! Leaning in for that extra half-inch, tasting the goodbye. Vee thinks she's just basking in the glow of an ultra-glamorous friendship, but she's walking straight into the spider's web with a smile on her face. Signing up for an evening class together next semester? "Just us"? The slow-motion car crash is breathtaking. I cannot look away.
+The tragic contrast is what killed me: Vee floating around campus thinking she’s found a fairy-tale love and a soulmate best friend, while these two predators are counting their orgasms and comparing notes on the scent of her hair. When this explodes, the blast radius is going to level everyone. I need the fallout yesterday.
 
-***
-
-GATE 39 — All the Time
+GATE 40 — Four
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The sheer dramatic tension of Vee handing over her explicit photos to Randi while believing she's just confiding in her best friend is unbearable in the best way possible.
+WHY: The psychological tension reached a boiling point here, exposing the raw obsession and delusion driving both Pace and Randi behind Vee's back. The pacing is immaculate, the erotic charge is scorching, and the impending catastrophe makes it impossible to put down.

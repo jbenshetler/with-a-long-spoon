@@ -1,31 +1,30 @@
-*capture-dag-v2-rich · gate ch024 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 61c7a0ea34af · 2026-10-10*
+*capture-dag-v2-rich · gate ch024 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e9e0311de50b · 2026-10-10*
 
-## Reaction
+**REACTION**
 
-Oh, that concrete pad. The battered boom box with its handle taped up, a pressed crease in his jeans, short sleeves in October because he dressed for the dancing and not for the weather. Then "If you want to, I'll teach you," and of course she repeats it to Meg word for word. I'd have done the same.
+Okay. I closed this one and sat with my hand flat on the page for a minute. It's a lovely chapter and I'm afraid for her. Both of those are true at once, and Randi keeps doing that to me.
 
-The lesson is the thing I came to this genre for, laid out on the page as plainly as a diagram. "You have a job here. Give me something to push back against. Being jelly doesn't work." He leads, and the lead only works if she's pushing back. His control needs her firm under his hand. It doesn't need her limp. Then there's "That's what gets you stepped on. The space you're keeping. Close it." I had to set the book on my chest for a second. That line covers her whole body history, the cardigan and *floozie* and all of it, and he says it about feet. "There's no sorry unless you take off a foot." And "There it is," said quietly, while she's too busy to answer. It's not hot exactly. It hums. His hand on her shoulder blade did more to me than half the sex scenes I've read this year.
+I liked the opening more than I expected to. She refuses Cassie's alarm, rations his shirt, sticks her face in cold water "like a verdict," and calls her own face "sad clown." The funk was a choice and she's done making it. That's my girl. She gets up, puts bare legs out in October, eats an apple, and walks across a rinsed blue day to fix what she broke. After the last chapter, where she called herself a slut in her own head and paid for a cab with money meant for other things, I needed her to stand up on her own. She did, before Randi said a word.
 
-Then the Rusty Nail, and my stomach dropped right along with hers. The count she didn't mean to start. Her mother arriving "flat as ever." The blonde with the heavy makeup saying "Knows how to get a girl to do just what he wants her to." That woman knew exactly what she was doing. Vee's line to him, "Does your *service*…", made me wince, because I've said that exact sentence to a man. And then "she'd spread her legs like a slut." God. That's her mother's word with interest added on, and she turns it on herself. It hurt to read, but it's hers and the book isn't agreeing with her, so I stayed.
+Then the house. Brooke opens the door, "you're the stats friend," and there's already a folder on her. My skin went cold. Vee has never told that house anything, and they know her. Then Randi comes down the stairs with no makeup on, freckles across her nose, and I melted, which I resent. "Oh, honey. Come up." She's so good at this. She takes the worst minute of Vee's life, turns it over, and hands her the back of it. "You don't get that jealous over a man you don't care about." It's true, and it's kind. I'd want a friend who said that to me.
 
-What I keep turning over is that he left. He set his beer down untouched and walked out, and she was stranded and paid for a gross cab with money meant for something else. Part of me wanted him to stay by the door. But she said "I'll handle that myself," and he took her at her word. That's the whole ethic of this man, isn't it? A no counts with him even when it's a no he'd hate. I can't be mad at the thing I asked for. It still stings.
+Then "Not today." That's an instruction, not advice, and Vee stops mid-rise out of the chair. Everything Randi says to justify it sounds wise: it'll read as panic, go in *sure*, give it a day. But I know what Vee doesn't. Randi sleeps in that man's bed. The delay buys Randi a night, maybe two, with Pace in that silence first. And "He won't text you, by the way" is said with a confidence only his girlfriend could have. It sounds like a good friend's intuition, and it's really inside knowledge. Vee says thank you for it. I wanted to grab her wrist.
 
-The bartender is the best scene in the chapter. "Wasn't him they were jealous of, honey." I'm a little suspicious of how neatly she certifies him as a saint ("I'd have heard otherwise"), but I'll take it. Then the washed shirt, which smells of fabric softener and no one. That broke my heart more than the fight did.
+Then the dressing, and wow. "Stand up, top off." The Edna Mode bit made me laugh out loud, and I loved that Vee was the one who got the joke in. The two of them cracking up in that cold bright room felt real, like girls. Then the hand comes up under the skirt to the outside of her thigh, the thumb presses into the hollow behind her knee, and "her skin came up singing." That was hot, and I didn't expect it to be hot. Vee can't see any of it under the long skirt, so she just stands there and gets tended to. Was it asked for? No. Did Vee want it? Her body did, clearly, from the inside, and the book shows me her desire and not just Randi's hands. I'm not upset about it. I'm *watching* it. The shoes do exactly what Pace's lead did on the dance floor: "Being given no say in where her foot went made her surer of it." The book is putting the two of them side by side on purpose. Pace's version of that is "if you want to, I'll teach you." Randi's version is the two-finger spiral, *up, off*, and Randi crouching to the closet floor and choosing the shoes.
 
-Then the last line hit me with real dread: *go to Randi's.* No. Not Randi. Of all the people she could take this to, she picked the one who carries everything back to his bed and says "Tell me." Vee is about to hand over her worst night and her shame to the woman sleeping with her boyfriend, the same woman who told him last week that it's "selfish" to wait. Cassie was three feet away. Wake Cassie. I'm yelling at the page.
+"Maybe you just haven't met your Evil Queen yet." That line is a woman telling on herself out loud, and Vee laughs. "Shoe whore." The scarf was set up two chapters back, when Vee pictured Randi tied up, and now it's around Vee's throat with Randi's hands over hers teaching her to make it hold. "Tension. Snug." I felt that line in my teeth.
 
-## GATE 28 — Lesson
+The kiss at the door, where Vee doesn't brace and her mouth just meets Randi's, is a quiet huge thing. The esses running long again, and Vee files it away "somewhere across an ocean." Honey, it's not French. I've been watching that tell for four chapters now.
 
-**DECISION:** CONTINUE
+Where am I with all of them? Pace hasn't been in a room with her since he walked out of the bar, and I miss him. I'll wait a day for him the way Vee has to. The bartender clearing his name was enough for me to trust him with this. But Randi now owns the timing of the reconciliation and the costume Vee wears to it: black dress, Randi's shoes, Randi's scarf. Vee will walk into Pace's house tomorrow dressed by his girlfriend. Something about that is gorgeous and something is awful, and I can't tell yet which one the book thinks it is. So far it hasn't winked. It lets Vee feel picked and lets me see the strings, which is why I'm still here.
 
-**CAPTURE:** 8
+What I'd text at 1 a.m.: *she sent her home in her own shoes and her own scarf and told her to wait a day. that woman is either the best friend in the book or the villain and I think she doesn't know which either.*
 
-**NEXT:** 9
-
-**HEAT:** 1
-
-**ROMANCE:** 2
-
-**ALMOST-STOPPED:** "three dates, and she'd spread her legs like a slut." For a second I worried the book would let that word stand as her truth. It didn't, and the bartender took it apart.
-
-**WHY:** The dance lesson is the clearest picture yet of dominance that needs her to push back, and I loved it. Then she wrecked it herself, and the morning sends her straight to Randi. Of everything this book could do, that frightens me most, and I have to see how it goes.
+GATE 29 — broken-in
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Not today." I didn't nearly put the book down there, but it's the one spot I tensed up and thought: if the book wants me to read this as pure wisdom, I'm out.
+WHY: Pace isn't in this chapter, but the Randi-Vee charge on the closet floor was real, it came from inside Vee, and I didn't see it coming. And now I need tomorrow night: Vee at his door in Randi's shoes, and whether that delay was a gift or a theft.

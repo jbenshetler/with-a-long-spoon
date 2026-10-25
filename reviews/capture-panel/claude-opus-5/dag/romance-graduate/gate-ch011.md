@@ -1,26 +1,36 @@
-*capture-dag-v2-rich · gate ch011 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 REACTION
 
-Two pages and she told *Cassie* first.
+Oh, she didn't bring the bag.
 
-That's the whole thing. That's what I'm going to be thinking about all night. The pattern this book has drilled into me for four chapters is that the debrief goes to Randi — the high table, the smoothie place, Vee handing over the *May I choose* and the *I liked it* and Randi holding it up to the light. That's the machine. And instead the mountain comes back and gets spent in a cold dorm room with the window cracked two inches, on the girl in sweats who said *Goodbye, Vee* and didn't fix it. She didn't fix it then. She fixed it now by swiveling her chair around and having the blood type ready.
+That's the thing I'm going to be chewing on all night. *He came through to meet her and saw the chair by the door with nothing on it, and set that aside.* The monogrammed overnight bag that goes on that chair every time. She walked in having already decided she wasn't staying — decided it in the car, maybe decided it on September 4th behind a locked bathroom door — and he registered the absence and shelved it, and then forty minutes later stood in his own doorway with the cold coming in trying to solve the mystery of why she left. He's the smartest person in this book and he cannot read the one piece of evidence that was lying on a chair in his entryway. I actually said *oh my God* out loud.
 
-I was braced for Cassie to be a device. She's not a device. Look at what she does with it: she gets the jokes out first, the van, the carried-you, keeping it light while Vee's legs file their complaint — and then Vee slows down the way she slowed at the tree, and the text says Cassie *went still and stayed that way.* She lets the whole thing be told. She doesn't flinch at the shirt coming off in a truck, she doesn't do the best-friend-warning-label scene, she doesn't say *honey, whose shirt.* She says her name. Soft. Not *oh, Vee* — and the book knowing the difference between *Vee* and *oh, Vee* is exactly why I'm still here. And Vee says *I know.* They both know. Neither of them says what. Then: borrow real boots. Keep the shirt. That's a friend. That's a grown woman loving somebody out loud by declining to make it smaller.
+And finally. FINALLY the floor opened. I'd been patient for four chapters and I was starting to compose the complaint, and then she walks him backward out of the kitchen with her mouth on his and doesn't let him put a word on the answer. The undressing is a little bit of standard spicy-book choreography for half a page — garment, hands, next garment — but then she puts a hand flat on his chest and pushes him down and *doesn't take him.* Holds him against herself and looks at his face, not at what she's holding, until he understands she means him to watch. An inch and a stop. An inch and a stop. Until he's saying her name, and the groan comes up out of him that he *did not decide on,* and she smiles because she earned it and she knows it. That's the whole chapter in one gesture: Randi getting back the one thing he took from her on that bench. He produced a sound in her that wasn't hers to produce. So she produced one in him. She is not making love to him, she is settling a score he doesn't know exists.
 
-And the thing that actually got me in the ribs: *"Rye bread and horseradish and cherries."* She said it the way other girls said *and then we kissed.* That's the sex of chapter eleven, retold. She's got a half-naked moment on her knees on a bench seat to report and what she lifts her voice about is the sandwich and *we didn't leave a pit.* Because the food and the moleskin and the pit on the wax paper are what being chosen felt like, and the bra going sheer was just the part she did on purpose. The retelling knows which was which. I'd text a friend at 1 a.m.: *she bragged about the bread.*
+And then *tell me.* God. He's *glad* to give it — gardenia and musk, warm on her since morning so by now it's mostly the musk, and the chlorine under the shampoo. Chlorine. He smelled the pool in her hair and handed it over, and Randi takes it in her body — I felt the grip tighten where I was sitting. But: "on her throat, *and lower.*" How does he know lower? He hasn't had his face anywhere near lower. Either he's filling in, embroidering a Vee for Randi the way you'd feed someone, or there's something I haven't been shown. I'm suspicious and I like being suspicious.
 
-Also: *I have never gotten anywhere on my own legs in my life and I got up a mountain.* The girl who swam synchro at sixteen and now won't look at her own body on a pool deck. That's not Pace's. That one's hers, and Cassie is the one who gets handed it, and Cassie says *look at you,* and meant it.
+*Tell me.* / *Her stomach is soft.* / **He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it.**
 
-Now the dread. The flannel came out of the gym bag behind the seat — the razor, the soap worn thin, the square-folded gray briefs. That bag is the bag of a man who sleeps somewhere other than his own house. Vee is now walking around campus inside the laundry of his other life, and she is going to be sitting at a high table in the window wearing it. Randi has blue toenail polish and a closet organized by discipline and an eye that misses nothing. Randi will know that shirt. And Pace *let her keep it* — didn't ask for it back, didn't think, or thought very hard. I can't tell which and both are bad.
+Second wall. He built the first one without noticing — *it's hers* — and now he's doing it consciously, mid-fuck, with Randi's nails in his chest. He gives her the fact and keeps the gift. And the fact he gives her is a *body* fact, which is the cruelest possible currency to hand this particular woman, whose mother lives on egg whites. *Her stomach is soft.* Said to a girl whose belly, two lines later, has gone tight as a board under the heel of his hand with the work of it, and he reads that as want. *If it was something else he could not have said what.* That's him being wrong in writing for the first time, and the book let it stand without a single word of explanation. I want to kiss whoever decided not to explain that.
 
-And I still don't know what Randi gets told. That's the other half of the plan and it didn't happen in this chapter. The report went sideways. Somebody is about to notice the report went sideways.
+*I want us.* Torn out of her, at his ear, and it went through him like the first swallow of something. Three words and I don't know which of the four possible things she means. Us as in don't leave me. Us as in let me keep you. Us as in the two of us having her. Us as in: whatever this is becoming, put me inside it, don't make me the one holding the door. She can't say *I want her,* so she says *I want us,* and that's the same dodge as *only in a threesome, with you,* just stripped down to the bone. The costume is getting thinner every chapter.
 
-GATE 12 — Rye
+Then she comes, and she skips the part she keeps for herself — the lying slack on his chest with her hair all over him. Skipped it. Got cold fast, like always, took the blanket, went looking for the camisole. And he says *stay, I'm starving, I'll cook, are you hungry* — and she says *"No thanks." Bright, from inside the camisole going over her head.* Bright. From inside the fabric so he can't see her face when she says it.
+
+That one wrecked me, and here's why: I just watched Vee eat a horseradish sandwich on a rock with her eyes streaming and not care that they ran, and eat cherries until she wanted the next one before she'd finished the one in her mouth. The book put those two chapters back to back and said nothing. Vee is hungry and gets fed and it's the plain animal rightness of needing something and being handed it. Randi is hungry and says no thanks, bright, and drives away, and then he eats alone at his table and *is still hungry after and makes more.* Three women's relationships to appetite in forty pages and not one line of commentary. That's the book I was promised.
+
+And she never asked again how it was. She asked at the door, didn't leave room for the answer, got what she came for, and left, and he noticed the hole where his answer should have gone. *Something in his chest he had not been ready for, low and plain, that she had not wanted to stay.* He's starting to get hurt. He doesn't have a vocabulary for it yet — he's calling it *it was the want, she couldn't lie still under it* — but it's landed, and he's standing in a cold doorway with it.
+
+Heart of Glass going low in the front rooms. Fine, book. I see you. You can have that one.
+
+What I'd text at 1 a.m.: *SHE DIDN'T BRING THE BAG. and he SAW the empty chair and SET IT ASIDE. and then he said her stomach is soft to a girl who won't eat dinner. I need the next chapter from Randi's side or I'm going to lose my mind*
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Cassie didn't say anything. Cassie was rapt."
-WHY: I've never read a two-page chapter before and this one earned its two pages — it's the same mountain told in the voice of the girl who climbed it, and the only new information in it is *who she chose to tell,* which is enormous. The one place it nudged me was spelling out *rapt* when the going-still had already done it. I want Randi's version of this conversation immediately, and the fact that I don't have it yet is the hook.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Every garment was an interruption." — for about half a page the undressing was pure genre choreography and my eye slid; then she pushed him down and I was back.
+WHY: The heat finally opened and it wasn't just heat — she took the sound out of him on purpose, he built a wall on purpose, and neither of them named a thing. The empty chair and the bright *no thanks* are the two best details in the book so far, and nobody stopped to tell me what they meant.

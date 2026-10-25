@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
 REACTION
 
-Oh, this chapter hurt in the most exact, recognizable way. If I have ever picked a stupid, ugly fight in the dark because I was terrified of saying *I love you* and hearing nothing back—and then watched a man answer the literal complaint instead of the fear underneath it—this was it.
+Oh, that broke my heart in about fifty places. *Two pages?* I don't think I've ever read a chapter this short in my life, and yet it landed like a punch to the solar plexus.
 
-Every single beat of the Chili's trip made my stomach clench. First, that she blurts out *"If we're just sex, I'd like to know"* in a daytime voice a handspan from his chest, and instead of fighting her or holding her, Pace goes into his math-proof stillness and says, *"Okay. Where do you want to go tonight?"* You can feel her swinging at thin air! And then sitting in the middle of a roaring Chili's with four TVs and ceiling music while Pace—who we already know is wired like a hyper-focused, sensory-exact creature—keeps getting his eyes pulled to the screen above her head, squaring his fork to the edge of the table over and over, until a flash of plain irritation crosses his face. And meanwhile she's chewing a loaded nacho chip that tastes like "a billboard is to a painting" because his homemade water-buffalo mozzarella pizza and lemon-caper chicken have permanently ruined her palate for normal life! That detail—*he had ruined it for her, was the thing. Not just this*—is devastating.
+Remember in Chapter 42 when she brought him the washed flannel shirt and asked him to wear it all weekend so it would smell like him again, and he put it on right over his own shirt in the kitchen? That was one of the sweetest, most tender moments in the whole book. And now, three weeks later—and wait, why is she in her dorm room on a *Friday night* (December 11)? Finals week? Or did she stay back on purpose?—she's lying in the top bunk, stripping off her own T-shirt so she can have his flannel directly against her bare skin, and then realizing: *the heat in the shirt was her own, given back. He wasn't in it.*
 
-And when they get back to the house and she tries to rewrite history (*"You went cold on me after the Rusty Nail"*), the way he doesn't get defensive or cruel, just quietly sets the truth down—*"You know what happened after the dance"*—before explaining that in a loud room with everything happening at once, *"I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now."* God, what do you even do with a man like that?! No wonder she collapses right into him and tells herself the cozy little lie that she's "forgiven" him just so she can have the clean shape of a resolved fight.
+That image of her pulling his shirt off over her head and choosing to lie there naked and freezing in the drafty dorm room rather than be tricked by her own body heat inside his cloth... god. That is someone hitting the absolute bottom of what they can stand. The comfort object stopped comforting her because it's a lie without the word attached. She's choosing the cold because at least the cold is real.
 
-And the sex that follows... the way he stays at her breasts forever, nursing at her like he's taking some quiet comfort for himself after the sensory overload of the restaurant, while she's practically vibrating out of her skin wanting him to lose his careful control and be rough with her. And when she finally comes under his mouth, drowning the word (*love* / *what are we*) right at the peak so she only cries out his name, and then he *does* lose his control—getting over her and into her in one motion with a low sound, driving into her with zero patience left until she comes a second time and pulls him over the edge shaking and undone inside her. It was so hot, and so deeply sad underneath the heat.
+Also, I love that she didn't send some stupid, manufactured-drama 1 a.m. text. She looked at the empty text box and knew that anything she typed would just get a small, warm, careful answer from him that would leave her in the exact same place. That's so smart and so painful. We are right at the edge of the cliff now—she cannot keep doing the unnamed thing anymore, her body is literally rejecting the flannel shirt. And where has Randi been since before Thanksgiving?! It's Friday, December 11—is Saturday brunch tomorrow?!
 
-Because the ending! Lying there in the dark with the sweat drying tight on her skin and his spend still warm inside her, realizing that even when she broke his control wide open, he *still* didn't say the word. She belongs to him in every cell of her body, and what she has of him stops at the edges of this bed. And tomorrow is Saturday—which means she is going to walk into brunch with Randi carrying all of this raw, unnamed ache.
-
-GATE 45 — Under the Rug
+GATE 46 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological accuracy of Vee picking a fight about going out in public because she's terrified to say "I love you" first, paired with the Chili's sensory overload and the desperate, control-breaking sex after, had me by the throat. And watching the "crackers and a meal" / pizza thread pay off when she tries to eat chain-restaurant nachos and realizes he's ruined her old life without giving her a name for her new one is brilliant writing.
+WHY: I've never read a chapter this short before, but taking the exact flannel shirt that broke my heart with sweetness in Chapter 42 and having her strip it off to lie bare in the cold because *"the heat in the shirt was her own, given back"* is devastatingly good writing. She's in her dorm on a Friday night choosing the cold over his comfort, which means the dam is finally about to break.

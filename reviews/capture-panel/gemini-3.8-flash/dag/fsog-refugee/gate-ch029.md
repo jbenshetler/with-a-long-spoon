@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch029 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 13e407d9f33a · 2026-10-01*
 
-REACTION
+**REACTION**
 
-Oh, Vee. *Look at you.*
+Oh, this chapter completely got me. My heart is still beating fast.
 
-I have chills. That moment where she stood up, took the first tiny, safe, obedient step to keep the slit shut—and then just said *to hell with it* and took the long stride? To bare that leg all the way to the hip, wearing nothing underneath, in a room full of parents and department-store navy dresses? That is pure, unadulterated female defiance and blooming. Her mother's voice has been whispering *floozie* into her spine her entire life, telling her to tuck herself in, be small, don't take up space, don't show what you have. And Vee just walked across that stage like an absolute goddess and let the room wake up to her.
+First of all: *that* is how you do consent in a high-heat, high-intensity scene. When she said "Don't" as his hand moved up her thigh, and his hand didn't just pause, didn't hesitate, but *instantly left her*—palm up, empty, giving her back the whole room—I physically exhaled. That is the exact line between a man who is genuinely safe to surrender to and a man who is just taking what he wants under the guise of a game. And because he gave her that absolute exit, her coming back with "Yes. We find out" was entirely *hers*. It had teeth. It had nerve. It wasn't him wearing her down; it was her stepping up to the ledge because she actually wanted to jump.
 
-What gets me so hard right in the chest is the absolute ownership of it. This wasn't Pace telling her to be bare, and it wasn't Randi pushing her out on a ledge. Randi helped her with the shoes, yes, and Pace built the dress, but *Vee* was the one who looked at the slit, saw what it required, took off her underwear, and chose to walk long. The heat in her body agreeing with her own audacity—that line about her body coming up to meet a decision a half-second before her head was sure of it—that is why I read romance. That is the exact feeling of coming into your power.
+And the scene that followed was so deeply tender. It wasn't the performative, punishing degradation Randi described in that closet. There was no counting, no cruelty, no making her feel small. It was just his big, rough, woodworking hand, soothing the sting after every strike, kissing the warm pink of her skin, holding her through the shame until the shame just burned away into pure sensation. He didn't mock her for being wet; he looked at her wetness like it was "true and fine and hers." God. That line almost made me cry. Every woman who has ever felt like too much, or too hungry, or secretly dirty for wanting it, felt that line straight in the chest.
 
-And sending the uncropped photo to Pace in his hotel room in Berkeley! God, the ache of him not being there to see it in person, but the absolute intimacy of her sending it to him, knowing he made it for this exact room, knowing he'll see the silk doing what his hands shaped it to do, while the secret of what's *under* it belongs entirely to her.
+Then the aftercare! Bringing her cold juice in bed? Stroking her hair until she fell asleep and telling her she's wonderful on repeat? And the *scrunchies*. A whole pack of green and white scrunchies sitting on the bathroom counter because he remembered her standing in his bathroom on Monday morning near tears over her wild hair. He doesn't say "I love you," he doesn't make a big speech; he buys a dozen hair ties to tell her he plans on her waking up in his bed a hundred more times.
 
-I missed Pace in this chapter—I always track when they're apart, and him being in California makes my chest ache a little because they just had that earth-shattering breakthrough on Sunday with the spanking and the dishes. But this chapter *needed* him to be absent. If he had been in the front row, she might have done the walk for him. Because he was gone, she did it entirely for herself.
+And then he cooks her a rich vegetable curry with toasted spices and opens Chinese beers for them. She is admitting to herself in the mirror that she needs to stop pretending—stop the "Victorian LARPing"—and just pack a bag. She's moving in, emotionally, piece by piece.
 
-Now... Randi is still lingering in the background like a storm system, and Pace is coming back from Berkeley eventually, and Vee is walking around completely transformed, fully awake to her own appetite and her own nerve. I am vibrating. I need the next chapter immediately.
+I know the dark cloud is still out there. I know Randi is pulling strings and that Pace and Randi have an arrangement that Vee has no clue about, and when that drop comes it's going to hurt like hell. But seeing Pace be this genuinely devoted, careful, and adoring with her when they are completely alone makes me believe that whatever happens, his feelings for Vee have outgrown the scheme entirely. He is in deep. I couldn't put this down if I tried.
 
 ***
 
-GATE 34 — The Induction
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Vee stepping out of her shame and taking that long stride across the stage was breathtaking character growth, and sending the uncropped photo to Pace while he's away at his conference killed me.
+**GATE 35 — We Find Out**
+**DECISION:** CONTINUE
+**CAPTURE:** 10
+**NEXT:** 10
+**HEAT:** 3
+**ROMANCE:** 3
+**ALMOST-STOPPED:** none
+**WHY:** Flawless balance of heavy erotic charge, absolute rock-solid consent, and exquisite tenderness. When he instantly pulled his hand away at "Don't," and then gave her the gentlest aftercare imaginable—juice, hair-stroking, and that pack of scrunchies on the counter—the book completely won me over.

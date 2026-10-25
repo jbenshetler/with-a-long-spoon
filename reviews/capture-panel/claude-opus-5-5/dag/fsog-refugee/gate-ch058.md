@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
 **REACTION**
 
-Oh, I needed this chapter. I didn't know how much until Sheri got off that stool at five foot nothing and the blonde had nowhere to stand.
+Oh, this one got under my ribs.
 
-After last chapter I came into this one braced and a little sour. I'd just watched Pace and Randi in bed together, trading Vee back and forth like a dirty secret that turns them both on: "she kisses me first now," "she kissed my neck again," Randi's hand on her own breast pretending it's Vee's. And Vee doesn't know any of it. So when he says "there's somebody I'd like you to meet" with his back to her, my stomach dropped right along with hers. I thought, here we go, another woman he's arranged.
+The first thing I noticed was the water glass on the paper towel. Then the shirt he pulled over her head, the forehead kiss "after he thought she was already gone," and the gap where the walk from the truck should be. I've read the other version of this morning, in the books I left. The drunk girl wakes up in his bed and the book treats what happened while she was out as hot. Here she gets two Advil, a glass she's told to finish, his undershirt down to her knees, and that's all. Everything he did that night was for her and none of it was about what he could take. It's the kind of care I came back to this genre hoping someone would write. Then he baked bread. Of course he did.
 
-Then it wasn't that at all. Sheri's look went down Vee's body and it wasn't pricing her, it was *enjoying* her. Vee laughed at nothing and a month of dread just left her. I laughed too, out loud, on my couch. "And you get to motorboat them things?" And Pace BLUSHED. Up into his ears, rubbing the back of his neck. That's the first time this man has looked unguarded to me in a way that isn't grief or sex, and it took a five-foot lesbian with crooked makeup to do it. I love her more every time she's on the page.
+Then "my one friend. There isn't anyone else." That knocked the wind out of me. Everything I watched at the roadhouse, him handing everyone the first line and standing back, was a skill he learned because nobody ever did it for him. The part about friendship living in small questions like "what are you doing for Christmas" made me think of December. He didn't text over the break, "home for Christmas" hit a bruise, and every one of those questions sits over a hole for him. That's not an excuse, but it does read differently now.
 
-Then the coming-out story. "Whole tablecloth come off the table and nobody caught a dish." Donuts on the porch, the lock, the faucet, Sunday rides, a bacon cheeseburger. "He never handed me one false word." This is the man I've been trying to believe in for sixty chapters, told by someone with no stake in selling him to me. And the dance hall bit: every other man is making a down payment, and his hands stay where the dance puts them. For someone like me, who left whole shelves of books because of men who thought three songs bought them something, that landed hard. That's exactly what I came looking for, stated plainly by a witness.
+And Daphne. The book finally let Vee get close to the word she won't say, and I'm saying it: he was fifteen, Daphne was his tutor, and she was clearly older. "The thing about it that was wrong." I'm glad Vee held both pictures at once, the best two years of his life and what it actually was, and didn't make him give up either one. I'm also a little sick about it. A boy alone in a building of grown men, where some "weren't safe," and the one person who was kind to him was also the one who crossed that line. It explains the "love" problem better than anything has. It makes me angrier at Daphne and softer on him, both at once.
 
-Then "went bad with his daddy. Hasn't been home since he was sixteen." So "I don't go back" isn't only Daphne, or it's Daphne on top of that. I'm rearranging him in my head again. And again Vee is getting him secondhand. She's finding out who he is from Sheri, the same way she's been finding out who she is from Randi. He tells his things to other women. He doesn't tell them to her. Sheri said it herself: "to the one person he tells things to." That should be Vee by now.
+Now what I'm suspicious of. "His one friend on this earth a five-foot woman who could never want him." Vee, honey. I read chapter 64. He has Randi. Randi's in his bed while she grinds her own breast saying "I want her to know exactly what she does to me." So when she asks about his other friends and he says there isn't anyone, I believe that's true in his head, because Randi isn't a friend, she's something else. But it's an omission standing in the middle of the most honest conversation they've had, and Vee hugs him for it. That ruins the moment a little for me. I don't think he's lying, I think he's hiding. "Women misunderstand it." Some of them understand it just fine and team up with you, Peter.
 
-The ending wrecked me in a quiet way. He makes Sheri leave her truck. He holds the headlights on her door until the porch light comes on. Then his arm around Vee's waist, "It read as affection. It worked as ballast." "Bacon cheeseburgers," to the window. Ten and two, carrying something full. That's tenderness and steadiness in one man with nothing to apologize for in it, and I believe all of it.
+Still, the hug. She came around the counter, didn't say sorry, held him "with her whole weight committed," the way Sheri did. He didn't perform being comforted, he just let himself be held. That's the bond turning. Nobody said the word and it didn't matter in that kitchen.
 
-Here's what I'd text at 1 a.m.: he is so good, and he is still lying to her by omission. Sheri knows about the brunette. "Bet those legs feel like Christmas," so Sheri heard all about December. The man who won't hand out one false word is living one with Vee. He's put her in a room with every person who knows except her. I'm softer on him than ever, and that makes the Randi thing feel worse, not better. Also, they haven't been alone together in an actual bed since the truck. This was a lovely evening with a third person in it, which is starting to feel like the whole book.
+1 a.m. text: "he made BREAD while she slept off three ciders. also he has exactly one friend and I'm going to need a minute. also Daphne was grooming him and the book knows it."
 
-GATE 65 — Another Round
+GATE 66 — Hangover
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "There's somebody I'd like you to meet." Right after the Randi chapter, I nearly put it down rather than watch him arrange another woman around her.
-WHY: Sheri gave me the Pace I've been hoping was real: the porch, the hands where the dance puts them, the headlights on her door, and I believe him more than ever. But every good thing Vee learns about him still comes through someone else, and the bigger that gap gets, the more I dread the day she finds the Randi part out.
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: It's a quiet morning with no heat at all, and it's the clearest look I've had inside him. The drunk-night care is exactly how I want a man like this to behave. But Vee is crying over his loneliness while Randi's in his bed, and that irony keeps me from settling. I want Tuesday's dinner with Randi and the dance hall Saturday, but I'm not tearing into them yet.

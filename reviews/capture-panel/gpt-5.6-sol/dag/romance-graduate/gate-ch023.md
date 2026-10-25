@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
 
-REACTION — Oh, this is the good stuff. This is exactly why I’ll forgive a book almost anything except shallowness: two people under a quilt, talking until the tea goes cold, and I was more exposed than they were.
+REACTION
 
-Pace going straight to the affection underneath Vee’s beige Ohio casseroles absolutely got me. He never makes her history feel provincial or embarrassing; he finds the loving hand inside it. And then she does the same for him. “They took the thing you loved, and made it the punishment” is such a devastatingly exact gift to give someone. He understands her shame because someone taught him shame too, only his was about the brilliance that now makes him seem almost superhuman.
+Oh, Vee. That was painful in the exact way jealousy is painful when it finds the oldest, ugliest explanation you have for yourself and suddenly every innocent thing looks like proof. I felt the trap close the moment she started counting the women. Not because Pace had done anything wrong, but because her mother’s voice had been waiting for a room like this: *a man like that has girls, and you’d be one of them.* One poisonous little speech from the blonde and Vee turned all his decency into evidence against him.
 
-Peter. God. Of course there is a Peter underneath Pace. Fifteen years old, sent away because adults saw an opportunity they could not “waste,” safer leaving home than staying, building his body in a dorm full of men so he would never have to discover whether he needed it. Suddenly all that strength and competence feels less like effortless masculine fantasy and more like architecture he built around a frighteningly young boy.
+And the dancing was so hot. Not flashy-hot—intimate-hot. “Give me something to push back against.” Closing the space so he cannot step on her. The information traveling through his hand. Her having to stop anticipating him and actually feel what he is doing. That is practically their whole relationship in bodily form, and I didn’t need the book to explain it to me. Then it became emotionally frightening because she briefly asked herself whether she was seeing Pace or a wish she had laid over him. That is an intelligent question. She just asked it in the worst possible room, surrounded by women who wanted what she had.
 
-And Daphne. No, sweetheart. No. The careful insistence that nothing happened and nobody did anything wrong made my stomach turn much more than an accusation would have. He has filed every part of it under gratitude because she made those lonely years bearable, and Vee understands enough not to rip the story away from him before he can survive seeing it differently. “He had handed her the thing that had hurt him and named it luck” nearly finished me. That is grown-up emotional intelligence: she sees the ugly word, does not deny it, and also does not use it to seize authority over his own memory.
+Her line about his “service” made my stomach drop. It was cruel because it struck directly at one of the things I love most about him: he notices vulnerability and makes people safe without charging them for it. And he didn’t defend himself or punish her or perform wounded nobility. He answered honestly and left when she told him she didn’t need him. That hurt. He took her stated boundary seriously even while she was using it to hurt him.
 
-The scar refusal was incredibly intimate. “Not tonight” without removing her hand—yes. That is what his consent language looks like when he is the vulnerable one, and Vee receives it beautifully. Turning her palm beneath his so they can hold hands over the unanswered thing was hotter to me than plenty of full sex scenes. So was his palm resting on her breast while they talked, frankly. Their bodies are becoming a place where conversation can happen, not an interruption that has to lead immediately to penetration.
+The bartender’s correction was almost unbearable. “Wasn’t him they were jealous of, honey.” Of course. Of course Vee walked into a room where everyone knew Pace and assumed she was the interchangeable one, when she was the event. She still cannot imagine being the woman other women measure themselves against, even after the dress, even after the shoes, even after Pace has shown her in every possible language.
 
-I am deeply, dangerously in love with them together now, which makes the last section unbearable. Vee lying there thinking she “stumbled into” Randi, that Pace crossed the coffee shop because chance handed her happiness, while I know those coincidences were manufactured—absolutely not. Her happiness is real. Her gratitude is real. Pace’s tenderness is real. That makes the deception worse, not better. She thinks the universe chose her when two people did, secretly, as part of a game. I want to shake them both.
+I’m angry with her, but I’m not alienated from her. The book let her behave badly without making her stupid. She knew she was feeding the spiral and did it anyway; then, once the heat went out of it, she correctly understood what she had done. No manufactured misunderstanding here. The wound is real, the mistake is hers, and she intends to repair it rather than wait for him to read her mind. That is exactly the grown-up emotional consequence I wanted.
 
-Also, Pace explaining mathematics as a living poem would have had me taking off my clothes again. “Most people walk around inside the poem and never get to read a line of it” is offensively attractive. This man has now cooked for her, made her a dress, rebuilt her relationship with her body, and made Newton erotic. I understand why she is gone. I’m gone too. Unfortunately, I am also staring at the trapdoor beneath her happiness.
+But naturally she is going to Randi. Not Cassie, who would come in pajamas and help without taking anything from her. Randi, who helped engineer the entire relationship, receives every intimate confession, and now has the perfect opening to shape Vee’s interpretation of a rupture with Pace. I am screaming. This is the most dangerous possible person for Vee to bring her guilt to, especially when Randi is in love with both of them and has not admitted it even to herself cleanly. I need the next chapter immediately because Randi could help mend this, exploit it, or do both at once—and with her, both at once is always the likeliest answer.
 
-GATE 24 — Rock
+GATE 25 — Lesson
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a quiet chapter with the emotional voltage of a sex scene: Peter, the hallway, Daphne, the scar, their joined hands over the thing he could not tell her yet. And Vee calling herself fortunate because she believes she stumbled into both of them has me desperate for the truth to break before her beautiful happiness becomes even more expensive.
+WHY: The dance had me completely, and the rupture hurt because it attacked something specific and genuinely good between them. Vee deciding to repair the damage satisfies me; Vee choosing Randi as the person to help her do it has me already turning the page in dread.

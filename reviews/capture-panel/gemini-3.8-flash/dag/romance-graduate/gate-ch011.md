@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 REACTION
 
-God, my chest hurts for her. This was barely two pages—a tiny little exhale of a chapter—and it knocked the wind right out of me.
+Oh, Randi is *sick*. She is physically, violently ill with this, and she thinks she can fuck her way out of it.
 
-There is something so terribly, exquisitely painful about Vee sitting in that dorm room, swimming in Pace’s flannel, babbling to Cassie with her whole face open like a girl who just discovered what the sun feels like. "She said it the way other girls said *and then we kissed.*" That line gutted me. She is counting every single crumb of ordinary human care—the moleskin, the rye bread, the boy standing in the rain so she has privacy—like it's a miracle from heaven. Because for her, it *is* a miracle. She has been so starved for so long that being treated like a person, being fed, having someone look at her naked body with reverence instead of greedy hands, feels like salvation.
+The whiplash from chapter 11 to 13 is breathtaking. Vee is back in the dorm basking in the holy, golden afterglow of being seen, clutching that giant flannel like a talisman, telling Cassie about rye bread and horseradish—and meanwhile, Randi is barging through Pace’s door like a battering ram, stripping before she even hits the bedroom, using Pace’s body like a blunt instrument to drown out her own mind.
 
-And Cassie. Cassie is the absolute beating heart of sanity in this story. She started out with her usual razor-sharp defense mechanism—"No windowless van," "I had your blood type ready"—ready to laugh it off, ready to be the cynic. But the moment Vee slowed down, Cassie dropped the shield. The way Cassie just went quiet, rapt, and said her name: *"Vee... Just her name, like setting something down where it wouldn't break."* Cassie *knows*. She doesn't know about Randi, she doesn't know about the leather bench or the threesome plot, but she knows her best friend is falling headfirst off a cliff, entirely unprotected. Cassie didn't mock her. She didn't scold her. She just told her to borrow real boots next time and keep the shirt. That's real love.
+*“Tell me.”*
+And what does Pace give her? *“She wears gardenia… and subtly, underneath it, a hint of chlorine.”* And then: *“Her stomach is soft.”*
+God, the psychological cruelty of him keeping the truck scene to himself while feeding Randi just enough sensory detail to choke on! He tells her about the smell of Vee’s skin, but he keeps the actual holy sacrament—Vee opening her buttons, Vee choosing him—locked behind his teeth. And Randi *feels* the omission, even if she can’t name it. That clench around him, her belly going tight as a board, her nails digging into his chest—she isn’t just riding him for a thrill, she’s trying to brand him so he doesn’t belong to the other girl. *“I want us,”* she says, torn out of her. Not *I want her.* *I want us.* She’s terrified. She started this whole game to protect herself from Pace’s terrifying gaze, and now she’s looking at the monster she built and realizing she’s losing both of them.
 
-The tragedy hanging over this entire scene is so thick you could choke on it. Vee thinks she's finally safe. She thinks she broke the rules of her mother's voice and won something holy. Meanwhile, we know the architecture under it. We know Pace is going to have to go back to Randi, or Randi is going to corner Vee for another smoothie debrief, and every pure, shining memory Vee is clutching in that dorm room is going to be weighed and measured for someone else's kink.
+And then the cold snap. Skipping the afterglow. Slipping out of his bed, putting the silk and the wool back on like armor, dropping that bright, manic little sorority *“No thanks, I’m good,”* and vanishing into the gravel.
 
-It was short, yes—almost a vignette—but it didn't feel like a shortcut. It felt like the echo in the room after the bell rings. Now, please: I need to see where this wave crashes next.
+Pace standing in the open doorway in just his jeans, watching her expensive car disappear, feeling that hollow ache in his chest—he is so smart, such a master manipulator, but he is completely blind to what is actually happening to the women in his orbit. He thinks she left because the want was too big to lie still under. Pace, baby, she left because she is drowning in a pool of her own vomit and denial.
 
-GATE 12 — Rye
+The tension here is unbearable in the best way. Every single one of them is operating on a different set of hidden rules now.
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It was short, but it packed an incredible emotional punch. Seeing Vee lay out her heart to Cassie while wrapped in Pace's shirt made the impending wreckage feel ten times more devastating.
+WHY: The desperation in this sex scene was absolute perfection—raw, hurried, and choked with panic. Watching Randi unravel while Pace completely misdiagnoses her terror is high-wire psychological drama, and I need to see what she does next.

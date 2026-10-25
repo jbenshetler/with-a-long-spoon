@@ -59,7 +59,7 @@ Recount = words re-narrating a seen event. Safe cut = what the inventory judged 
 | 10 | {{Off Six-Fourteen}} | 1,111 | ~290 | 60–80 (tree scaffolding l. 15/19; bare ask l. 37) | leave — see Conclusion |
 | 38 | {{School Nights}} | 643 | 198 | 50–60 (l. 13 generic cooked/watched clause) | leave — see Conclusion |
 | 44 | {{Cropped}} | 760 | ~85 | ≤20 | leave |
-| 13 | {{Rye}} | 569 | 348 | 0 — the chapter *is* the reception | leave |
+| 13 | {{Leave No Trace}}'s dorm movement | 569 | 348 | 0 — the chapter *is* the reception | leave |
 | 21 | {{Toenails}} | 789 | 181 | 0 — already the model | leave |
 | 25 | {{Sorority}} (Friday movement) | 1,176 | 76 | 0 | leave |
 | — | {{Water Wings}}, {{The Induction}}, {{The Outlier}}, {{Bare}} | | not retellings | | n/a |
@@ -71,8 +71,8 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 - {{Toenails}} names *frosted plum* before {{Fed}} asks its name; {{Fed}} ties it to the silk. Cut the dinner list in {{Fed}}, never in {{Toenails}}.
 - {{Off Six-Fourteen}} *I did it on purpose. Me.* / *a few days* ↔ {{Dear}} *Because of him* / *Two days*. Both sides stay.
 - {{Dear}} *May I choose* gloss → {{Turned Up}} *May I look* → the asking motif.
-- {{Rye}} *he just looked* ↔ {{Turned Up}} *I locked eyes with him. And then I let him look.* Both stay.
-- {{Turned Up}} "he made one" (the shirt) is the reveal; {{Rye}} *I kept the shirt* is its setup.
+- {{Leave No Trace}}'s dorm movement *he just looked* ↔ {{Turned Up}} *I locked eyes with him. And then I let him look.* Both stay.
+- {{Turned Up}} "he made one" (the shirt) is the reveal; {{Leave No Trace}}'s dorm movement *I kept the shirt* is its setup.
 - {{The Practice Room}} Randi's counting script → {{One Bite}} *It wasn't quite like you said*; *love tap* → *the little love tap*.
 - {{School Nights}} *fine* → {{All the Time}} *calling it fine*.
 - Kiss shape (hand at the hinge, second press) and *See you soon, gorgeous*: designed escalation across {{How It's Done}}, {{Fed}}, {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{All the Time}}. Not repetition to cut.

@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch063 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8d4da29edf92 · 2026-10-07*
+*capture-dag-v2-rich · gate ch063 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
 
-REACTION — Okay. Okay. I have to sit here a minute.
+REACTION:
 
-That kiss. I've been watching this come since the foyer in the fall, since the composites, since Vee's mouth going hunting on its own, and the book held it and held it and then it spent it on a dance floor under cover of a joke — and I felt every inch of the held moment before it landed. "She held Vee there, a breath short of her mouth, and the held inch became its own long event." That's it, that's exactly what I read for. The pause where she could leave. Vee leaning down into it because she's the taller one — she had to *give herself to the angle* — do you understand how much that sentence did to me? The kiss is hers too. Vee's mouth moved toward Randi's breath on its own. Months of small uncounted wanting. I was moaning right along with her, I'm not ashamed.
+I had to put the book down in the middle of this one. Not because it lost me — because I had to breathe.
 
-And the want underneath — "she wanted Randi's hands under the skirt" — rendered from inside her, exactly the way I need it to be. This is what I left the bully books hoping to find someday: a woman's desire, hers, at full volume, nobody pretending it's happening to her. The kiss was enthusiastic. Both of them. And the taste of her — salt and lime and the specific her of her — went through me like it went through Vee.
+The first thing: this is the hottest chapter in the book so far and it's hot *because of the truth-telling*, not despite it. Him holding her an inch off his body and making her pay for her own pleasure in confessions — "Tell me the real story, and I'll give you what you want" — that is the thing I've been reading this whole genre looking for. He doesn't trick it out of her, doesn't punish her, doesn't sulk. He *prices* it, and she laughs and pays, and every payment is her getting closer to her own truth. "That's cheating." "A little." I actually said something out loud. And the way the inch-giving escalates with the *trueness* of the answer, not the dirtiness — he gives more for the harder honest thing — that's the whole ethics of the book in one sex scene.
 
-But. God. "You really did a great job putting on a show. I almost believed it."
+And then he tips her over not when she's paid enough, but when she says the real thing: "I wanted the kiss. I wanted her mouth on me." He was never collecting filth. He was waiting for her to stop tidying. God.
 
-I had to put the book down. That's Randi doing the thing — the thing I've been holding against her since the coat plan — routing around Vee's yes. She couldn't ask, so she built a room where asking wasn't needed, and afterward she folded the whole thing back into a joke so Vee wouldn't have to decide anything. And I know it's her terror — I've been inside the scenario she can't run, Vee's face while she says it — and I know Brooke's clock is ticking and she chose, out loud, in front of the president: "I chose." "You." That landed hard. But the kiss happened inside a costume, and when it was over Vee got handed the cover story like a coat, and she took it because it was the only thing held out to her, and her body is still out there ringing with nowhere to put any of it. The book is not winking. It knows exactly what Randi just did — Vee "found out twice over: once to the room, and once, worse, to herself" was a few pages earlier, and now she's found out a third time and can't ask. That ache is unbearable in the way I pay money for.
+But here's where I sat with my hand over my mouth: **he already knows.** He's known since chapter 64 — he's in bed with Randi, they *designed* this spring, he watched the roadhouse kiss three steps from the truck. So every "gentle question" tonight, every "Do you want to sleep with a woman, Vee?" with the name so carefully stepped around — he's not asking. He's *managing* her. He's letting her lie to him ("No. Nothing.") about things he watched happen. And the book knows I know, because it gave me the flicker — "Something crossed his face" when she flung "you want Randi" at him, and then the sweetest, most damning thing he's ever done: *he defended himself.* The man who never covers himself, this once, needed her to know she had it wrong. Because she had it *right* — he does want it, he's part of it — and I don't know if his face moved because the lie landed wrong or because the truth did.
 
-Also: the bracelet is called Love. It doesn't come off without tools. I gasped. And I'm going to think about that in the shower.
+And the lie itself. Vee's first lie to him, and the book renders it sitting in her "cold, under all the rest of it" — and then the hot little thrill under the guilt. She's not just hiding from Pace anymore; she's hiding from herself behind "I'm not gay" and the reflex-quick "No" and the thin laugh and the sex-brain story. The chapter starts with her fingering the new bare and imagining *Randi's* mouth on it, hips tilting before the thought finishes — and it ends with "however much we get, I just want more" said out loud to the wrong person. She drove to his house specifically to fuck the picture of Randi out of her head, and the picture was still there at the end, "sharp as the dancefloor." "She could not make it come back."
 
-The skirt climbing all night — I felt her arithmetic, the shame flipping over into the other thing, and I loved that the book let her be scared AND lit about it at once, because that's a real girl at her first party in a borrowed scrap. And Cassie's eyebrow going up and staying there. And "no Pace tonight?" "Tonight I'm Randi's date." Oh, Vee.
+The line that wrecked me most, quietly: her own self-awareness about the lie — "it wasn't the doing that made you a cheat, it was the keeping of it" — said by a girl whose two closest people have been keeping her whole spring in a locked drawer. The dramatic irony is now *structural.* She's doing to Pace exactly what Pace and Randi are doing to her. And she can feel how cold it sits.
 
-The gap I've been tracking — the two of them alone in a room — this was the whole chapter, and it was worth every quiet chapter between. The question now isn't whether Vee wants her. We all watched her want her. The question is whether Randi can ever let it be real out loud, and I genuinely don't know, and that's why I'm picking it back up tonight.
+Also: he caught it immediately. "That was angry, Vee." After she used him, face in his neck so she wouldn't "have to see him see her" — and he still just opened his hand on her back and waited. Even in the scene where she treats him as a wall to beat a picture against, he's *reading* her. The care never stops.
 
-GATE 70 — On Her Floor
+Tuesday is circled in my head. Two nights. Her whole body pointed at a classroom with Randi's lipstick in it.
+
+GATE 71 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The kiss this whole volume has been building toward, given to me from inside Vee's want with full consent in the moment — and then taken back by Randi under a joke, which hurt exactly the way the book meant it to. Vee can't ask for it again, and I need to know what happens when she does — or doesn't.
+WHY: The confession scene is the book's whole promise delivered — heat and tenderness and consent braided into one act, him earning every inch of her truth — and the lie at the end, mirrored against the third game, means the countdown I've been carrying is now inside her own chest too. I need Tuesday like I need sleep.

@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch015 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch015 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0738735086d3 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I'm texting someone about this one at 1 a.m.
+Okay. I need to complain first and then lose my mind.
 
-This is what I've been starving for. It's an hour of a man measuring a woman with a tape, she never gets fully naked, nobody comes, and I felt it more than half the sex scenes on my Kindle. The rhythm got me before I noticed it: he comes close, touches her in two places, steps back, writes. By the third round I was holding my breath on the step-back the same way she was. "The withdrawal left the place his hands had been ringing." Yes. That's the whole trick of him, and the book finally let me feel it from inside her body.
+The complaint: this book keeps retelling its own scenes. Chi Latte got replayed at Smoothie Bird. The truck got told to Cassie, then told again to Meg and Kayla. Now the riser, which I *just* read, the best chapter in the book, gets told twice in one chapter, once to Cassie and once to Randi. When Vee said "Burgundy" and started explaining the shirt has no tag, I actually said "I know, babe, I was there" out loud. Then the Cassie scene drifted into sitcom. "Are you sure he's not gay?" was a dorm-room bit I've read in fifty KU books. And the grinding confession didn't work for me. He was *on his knees* behind her. How is she feeling his package against her ass from down there? Either the geometry is off or Vee is making the story better, and I can't tell which one the book means. I did love "Vivienne." I loved Cassie's hand on her knee, once, then taken back. Cassie's still my canary, even if she's talking a lot more than four words a day now.
 
-The wet satin is the bravest thing this book has done. It's not tasteful and it's not hidden in a metaphor. It's a thumbprint, then a big dark stupid patch on the hopeful underwear she picked that morning. Her shame about it is the most specific inner life I've had from a heroine in a year. "The hope was visible." Ouch. Then she shuts her eyes, counts, and opens them, and he's on his knees with his chin craned all the way up so he can meet her face. He has *not looked down*. He waited for her. I put the Kindle on my chest for a second there. That's the man the jacket promised, and the scene earned it.
+Then Randi pulled up in a green Mercedes and the chapter got its teeth back.
 
-Then the power shift, and the book got playful, which I didn't know it could do. "I was worried I was going to have to come over here pre-aroused every time I wore it." I laughed out loud. "Oops. Sorry." and he goes red. That's a full-grown woman being funny and hot in the same breath, which is rare. The pin, the kiss on the drop of blood, the "Keep still" that came a beat too late: hot as hell, and you can see what saying no costs him. And the small cheats after it, the finger behind her knee, the long breath below her navel, "technically." Gorgeous.
+The retelling to Randi works where the Cassie one didn't. It isn't a recap, it's an *interrogation*, and I knew more than Vee the whole way through. Randi already has "her stomach is soft" from Pace in bed. She knows how this story goes. So she's feeding off it: "which hip?" "The left one." "All the best ones start at the left hip." Oh my god. She's leading Vee down one small "yeah" at a time, and it was hot in a way that made me shift on the couch. It's the "ask and then ravish" lesson again, except now Randi is doing the asking and doing it to Vee.
 
-Now the part that's sitting cold in my stomach under all that. "Who'd walked right past Randi, Randi!, without even looking." Oh, honey. He didn't walk past her. She *pointed* at you. And I just read chapter 13, where Randi sat on him and said "Tell me," and he gave her Vee's gardenia and her soft stomach while he was inside her. So every gorgeous beat of this afternoon reads to me like it's going into his report. The wet satin. Her rising onto her toes. Is he going to *tell* that? I don't think I could forgive him. Not knowing is what makes it delicious and what makes me want to throw up a little, both at once. Also, small note: he didn't ask about the bra, he told her. "The bra too." That's the first time Mr. Asks-Before-He-Takes just took. It was framed as craft, and maybe it really was, but I clocked it.
+Then her thumbnail goes under the rim of the water glass. THE BOTTLE CAP. Same move, same woman, same pain under the nail while she keeps her face pleasant. Vee reads it as "she's moved, she's happy for me," and I wanted to grab her by the cardigan.
 
-Gripes, for the count. "Wryly." stuck alone after a sentence like a stage direction. That's a clunker. "No, not grinning. Smiling." That's the book changing its mind in front of me. The cutting interlude says the wetness thing three ways when one would do. And the last stretch, "It had to do with the fact that she had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting." I *had* that. I was in it. You didn't need to staple the thesis to the hem. That's +2 on the subtext-explaining tally. None of it came close to breaking the spell. It just made me roll my eyes in the middle of being turned on.
+And the scarf story. I don't believe a word of it. A "beautiful idiot" on Saturday, the same Saturday Pace had Vee on the box? It's the bad-date story again, a lesson in what to want, "a little helpless can be a very good thing." Except this time I think Randi accidentally told the truth inside the lie: "the only time some of us ever put them down." That's the bench. That's the woman who locked the bathroom door.
 
-My structural worry is gone, too. After three quiet Vee chapters, this one is the charge.
+"You don't have to tell me." That line gutted me. Randi gets Vee right up to the edge of the secret, the wet satin, the thing she's never told anyone. Then Randi can't take it, whether it's jealousy or want or terror, and she closes the door "very softly." The book named it a door closing, and of course it did. One tick on my subtext count, but I'll forgive it, because Vee is left with her secret half out and no laugh to catch it. That's cruel, and Randi did it to protect herself.
 
-**GATE 16 — A Round**
+Then the kiss. The second press, "something in it the first one hadn't." Vee explaining it away as "a French thing" in under a second, and then scanning the dorm windows. Brooke. It's going to be Brooke, or Brooke's tall silent friend. I've got that cold spreading feeling too.
+
+1 a.m. text: *the girlfriend just kissed the girl her boyfriend is dating, on the mouth, in a fire lane, and the girl thinks it's because Randi's been to Paris. I'm not okay.*
+
+---
+
+GATE 17 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 9
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "*Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly." Not really close to stopping. It's just the one line that pulled me out.
-WHY: This is the book's thesis made flesh: fully clothed, nobody comes, and it hit 3 heat with a heroine whose shame and nerve I felt from inside her. The opened-eyes moment turned the bond. I need the next chapter right now, mostly because I'm terrified of what Pace tells Randi tonight.
+ALMOST-STOPPED: "Burgundy," she said. "For the honor society induction. A dress. Like the magazine. He's making it." That was the moment I realized I was about to get the riser chapter retold, and then again on top of that.
+WHY: The Cassie half is the book's recap habit at its worst, and it's slipping toward sitcom. The Randi half is the best Randi has been since the bench. I believe her body (the thumbnail, the kiss) and none of her stories, and now I need her POV after that fire lane more than I need anything from Pace.

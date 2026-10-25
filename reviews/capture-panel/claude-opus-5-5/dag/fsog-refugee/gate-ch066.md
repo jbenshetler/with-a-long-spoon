@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c10b93dddd9c · 2026-10-15*
+*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 710d07207a12 · 2026-10-15*
 
 **REACTION**
 
-She asked it. Cassie asked it. *Is this what you want?* I've been waiting seventy-odd chapters for somebody in this book to ask Vee that plainly. Nobody had a game running underneath it, nobody was holding out an inch to trade for the answer. And it came from the one person in the room who doesn't want anything from her. Pace asked "Do you want to sleep with a woman" with his hands on her hips and a stake in the reply. Randi has never asked her anything straight in her life. Cassie asked the consent question as if it were the simplest thing in the world, then stood there in her coat and let the silence sit.
+Oh, the outfit. She put the skirt back. She dressed like she was going to meet somebody's parents, buttoned the cuffs, did the coat up to the collar, and then sat in that booth and got undone anyway. The charcoal crewneck "was no help at all." I laughed, and then I hurt for her, because I know that move. You dress like a locked door when you don't trust yourself.
 
-What got me was Vee actually going to look for the answer. "There was a shape there, close and large, and she came up against the edge of it and stepped back." I felt that in my chest. That's the girl I've been rooting for: her desire is hers, and she just can't stand on it yet.
+I was scared of a different version of this chapter. I'd made myself a promise: if Pace handed the painting to Randi the way she hands him Vee's neck kisses, I was done with him. He didn't. Vee told it herself, at her own table, to her own best friend, laughing about the cantaloupe and "Oops." That's hers to give, and I didn't mind it. What I minded was the ten minutes Randi spent alone with the phone. "Pressed the side of the phone with her thumb, and the light went out, and she turned it face-down." Face-down, the exact thing Vee said a cheat does, in Pace's bed. I'd bet my last dollar something left that phone. Did she send it to herself? To him? And the glassy eyes. Vee reads it as "I've done something a friend doesn't do," which is so Vee: everything is her fault. I read it as a woman in love holding a picture of the girl she can't have, a picture another person made. Maybe both. I don't know, and the not-knowing has me by the collar.
 
-Then she swung it onto Cassie, "you don't like her," and I winced, because it's the exact same move she pulled on Pace three nights ago: "you want Randi." When the floor goes, she grabs the nearest person and makes it about them. I see the pattern now, and I don't think she does. Cassie stepping over the plank without looking down is the best thing anyone's done in this book in a while.
+The gesso part. "If it doesn't mean no anymore, honey, maybe you should tell him." That's good advice. It's the most consent-shaped thing Randi has ever said, and it came out of her mouth while her stockinged foot was pressed at the front of Vee's pants, uninvited. Vee caught it and then held on to it, thumb going over the toes, so I can't call it unwanted. The book let me feel exactly how wanted it was. And Pace wiping his mouth on the sheet, "Don't wipe it," had me shouting at the page. He did what she asked. He left her mouth alone until she came and took it herself. That's the man I came here for. The tragedy is that his respect is now a wall she has to climb, and she can't climb it because the hand in the fantasy isn't his anymore.
 
-Then the Cocoa Pebbles. "You didn't have dinner." I nearly cried. That's care with no curriculum in it. A want the size of a bowl, something she could actually answer. It's small, it's the right size, and it's the most honest yes Vee has given anybody all week.
+The bathroom scene was very hot. The empty space in front of her lips that she can't close, even in her head, and then Randi's mouth filling it, lipstick gone soft at the edges, not wiping anything. I was right inside her for that. Her desire is completely hers, wanted and fought in the same breath. Then the pink soap, washing twice, and "Starting now." Oh, honey.
 
-What's still nagging me from the walk home: "I've got to go discipline a bad girl." Standards committee. Randi says it with a martyr's groan, and I don't like how cute that word sounds in her mouth. And "How do you like it?" after the neck. She's still playing turnabout, and Vee is ringing and calling it nothing. Brunch Saturday, which Vee asked for out of the ringing and not out of thinking. I'm scared for that brunch and I want it right now.
+Here's what soured it for me. Vee gave her a closed mouth and stepped back. Randi asked, "Is something wrong?" and Vee said no. That's a no. Then "Let me say goodbye right," and both hands on her face. On Tuesday Vee turned her mouth away and Randi went for the neck and said "How do you like it?" That's twice now that Vee has drawn a line and Randi has walked through it smiling. Vee melted, and her hands went to Randi's coat, and I believe she wanted it. But "Vee was glad she hadn't left her uncertain" is Vee taking care of the person who just overrode her, and I'm trusting the book knows that. Randi's breath wasn't steady, and that wasn't worry. Meanwhile Pace said "okay" once and has never taken it back. I can see what the book is doing with the two of them side by side. I just need it to keep knowing.
 
-Also: has Pace told Randi about the denial game yet? I bet he has. I'd bet the painting too. That's the shoe I'm waiting to hear drop.
+It's been three chapters since Pace was in a room with her, and I feel it. But this one was all Vee, and I'm not tired at all.
 
-GATE 73 — Some of Mine
+What I'd text a friend at 1 a.m.: "She showed her the PICTURE. Randi had it ten minutes alone. Phone face-down. I'm going to scream."
+
+GATE 74 — Gesso
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: It's short and quiet, but Cassie finally asked the question this whole book is about, and Vee went looking for the answer for real before she flinched. The Cocoa Pebbles was more tenderness than I've had from either of her lovers in three chapters, and now I need Saturday's brunch and to know what Pace has handed Randi.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "Let me say goodbye right." I tensed up hard there, because it was a second refusal stepped over. Vee wanting it is what kept me in.
+WHY: Vee's desire was hers from the inside the whole way, the bathroom took me completely, and Pace's restraint shows even when he isn't in the room. I'm uneasy about Randi's hands and frantic about that phone, so I'm reading on right now.

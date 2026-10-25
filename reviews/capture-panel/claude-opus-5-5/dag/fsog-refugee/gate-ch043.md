@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
 
 **REACTION**
 
-Oh, *Vee*.
+I didn't expect to get Randi from the inside, and now I can't stop seeing her.
 
-She sat in the car making herself feel the wanting all the way through before she went in, with her coat buttoned to the throat and that coin taste in her mouth. I've been that girl in the driveway. I knew how the chapter would end before she reached the door, and I still read the rest with my hand over my mouth.
+At first I was impatient. The last thing I had was Vee crying in a buttoned coat with her bag still in the car, and the book took me to Gstaad: steak and eggs, a tennis bracelet, a stranger in the lift line. I wanted to know whether Pace texted. I still do, and the book hasn't told me. But then came "eating her revulsion" in the first paragraph, and "the invented ones were safer than the real ones; they always had been, at this table," and I sat up. Revulsion at her *father's* hug? I'm keeping that one. It reads like more than ordinary disappointment in a parent.
 
-He said it. "You're the most important person in my life." I've waited fifty chapters for that man to put words on a feeling, and he finally said something that big, flat and plain, and she went right over it: "But what am I?" She couldn't hear it, because it was an answer about the inside of the house and she was asking about the outside. And I know why he can't answer the outside. I sat on that couch in chapter forty-three. I know who was folded over the back of it. When he says "Do any of your friends have a relationship you'd rather have than this one," that isn't a dodge for him. It's literally the only honest thing he can say without saying *Randi*. He won't lie to her and he can't tell her, so he hands her the closest true thing, which is a math answer to a heart question. Then "Words are cheap. Believe what I do." That's his whole religion: the drawer, the shirt worn over a shirt, the heat turned up hours before she comes. I've been preaching it for him in my own notes. And she turned it into a knife. "Words are cheap, and you still won't spend them on me." God. I'd text that line to someone at 1 a.m. with nothing after it.
+John is a perfect fairytale, and the book knows it. The lift-line game was charming. I laughed when the three made-up kids got names, and the skiing paragraph got me: he had the run to spare and spent none of it proving it. For about ten pages I was falling for him too, which I think was the point. Then she compares the dancing. Pace's lead is "the lightest pressure, a thing she'd had to be listening for… and it left the rest of the way to her." John's hand just *sends* her. She decides easier is better. Then John never asks where the night is going, and she likes not being asked, and "Pace made her say it, out loud, every time."
 
-The arms folding scared me. It's the wall again, the same flinch she poked on the Friday she pantsed him. For one second I thought he was going to go cold on her, the way she accused him of after Chili's, and then I'd have had to decide what I thought of him. But he didn't. The moment she cried, the cold went out of him and his hand came up. And I loved her for "not the hand in place of the word." She's right. That hand is how he answers everything, and tonight it's the wrong currency, and she knew it and refused it. And he said her name once and let her go. He didn't grab her and he didn't follow her down the steps. I left three subgenres behind because men in them did follow, and the book wanted me to swoon over it. This one let her no be a no, at the door, at the cost of his own evening, with the wine already poured. That's the thing I came here for, and it broke my heart a little to get it like this.
+That sentence is the whole thing for me. It's the consent I came to this genre looking for, and the book handed it to me through the woman who doesn't want it. It doesn't wink at John's assuming, either. Afterward the sex is a "good sandwich eaten fast," and she's cold everywhere except the one seam where she's touching him. A lipstick ring left on him "from a long way off." That was erotic and empty at the same time, and the emptiness was the point. I've read a hundred alphas who never ask. This book took one, made him faultless, and showed that what you get from him is nothing.
 
-What I'm sick about is how much she doesn't know. She thinks this is about whether he loves her. Part of it is. But the real reason there's no name is sitting in a low green Mercedes, and she's going to drive to *her* for comfort. I'd bet money she's in a booth with Randi by Saturday, and Randi will be warm as a bath about it. Two chapters ago that woman said "God, I want her" into the back of his couch and then took it back. The table with three chairs just got a lot closer, and Vee is going to walk up to it crying. That scares me more than anything Pace did tonight.
+Then Randi lets herself admit things. "Pace on his worst night reached further than this man had managed at his best. She wished it wasn't true." And "Vee was her gorgeous." She says she has never told anyone she loved them without meaning it as currency, and with Vee there's no catch. I want to believe her, and I mostly do. But I've also got "somebody has to get her used to my mouth. It's *work*" in my notes, said on Pace's couch. So either that line was a performance for him, or this one is a performance for herself, and I honestly can't tell which. And her plan is to keep the word under cover and "let Vee arrive at it on her own." That is still steering Vee. It's just steering out of fear now instead of appetite, and I'm softer on her for it, and still wary.
 
-And underneath all of it: they were alone in a room again, finally, after the cold dorm night. It lasted two pages and it was this. If this is the end of the volume, it's the door closing, and it earned it. I'd have bought the next one before I slept.
+The texts broke me a little. Vee writes "i'm here if you want to talk. or not." Vee is the one who just walked out of Pace's house crying, and she's the one checking on Randi. Randi sends back the fairytale, "every word of it true. None of it the thing," then the one line she means, and turns the phone face down. Then she goes back and lies down in "the warmth she could borrow and could not make." The cold she brought in with her and would carry back out is the book's whole temperature system again: Pace turning the heat up hours early, Vee lying bare in her cold dorm room.
 
-GATE 50 — Believe Me
+At 1 a.m. I'd text: *the villain-ish best friend just went to bed with the perfect rich hot guy and the book made it the saddest thing in it. and Pace is in it without even being there.*
+
+What I miss: Vee and Pace haven't been alone in a room since the door closed, and now it's New Year's. I don't know what happened over break. I'm not panicking yet, because this chapter was about them anyway.
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none. The nearest I came was "Words are cheap. Believe what I do." and it made me want to shake him, not close the book.
-WHY: He finally said the biggest thing he's got and it was the wrong size for the question, and I know exactly why he can't say the right one. She refused his hand, he let her walk out without chasing her, and now I'm terrified of who she runs to.
+ROMANCE: 2
+ALMOST-STOPPED: "Randi delicately clomped through the snow toward the lift queue": I realized I was getting a whole ski romance instead of finding out what happened after Vee walked out.
+WHY: The book took the man who never asks, made him perfect, and showed he's empty, and it let Pace's "say it out loud" carry the whole chapter without him on the page. I understand Randi now and trust her a little more, but I still don't trust her plan. I need to get back to Vee and to whatever has happened between her and Pace.

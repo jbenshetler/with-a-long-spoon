@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I came into this one with my arms crossed. My own notes say one more solo scene and I'm skimming, and here's Vee alone on a table, with Tuesday's booth dialogue pasted back in front of me *word for word*. "Oh, you're going to *love* it," Sondra, Draper Street, the fish eaten to the middle, the fork laid across it. I read all of that four days ago, book-time and real-time. That's where my thumb went to the corner of the screen. The book doesn't trust me to remember a conversation from the last chapter, and that's the explaining-itself thing I hate.
+Okay. *Okay.* I'm putting the phone down for a second.
 
-Then Sondra said "Don't move" and I forgot I was annoyed.
+Last time I told myself I needed two bodies in a room and something new happening between them. I got it, and the book made me sweat for it. I'd been tired coming into this one: the loft retelling again in 64, then a whole solo chapter on a waxing table in 65 (and the waxing chapter was good and awful in a way I respected). Then this chapter opens with her alone in the shower, and for a second I thought it was going to be another chapter of Vee alone with her body. It wasn't.
 
-That passage about the wrong hand is the best thing the book has done with Pace in a while, and he isn't even in the room. Her body "knew that grammar." A stranger's palm pins her exactly the way she's learned to want, with "everything true scooped out of the middle," and it opens "a hole in her a mile across where the right hand should have been." That's what I'm starving for. It isn't a sex scene and it's hotter than half the sex scenes I've read this year, because it's about *who* the hand belongs to. And she keeps it all behind her teeth "where it belonged to him." God. The girl who said sorry to furniture saying "*Fuck—*" out loud to a stranger. The mother's kitchen voice: *the kind of girl who.* The jeans folded over the underwear "where it couldn't be seen." That's a heroine with an inner life, every inch of it.
+She gets there first. I loved that. She pushes him onto the bed before he can explain the champagne and goes down on him on the rug, and she's proud of it, "the gladdest she had ever been on a floor." That's my girl. Then the scar. "She put her mouth to it once, soft, asked it nothing, and went on." He's moved her hand off it before, and right after Sheri's "hasn't been home since he was sixteen" and his "weren't safe," that one line hit me in the chest. It was a better I-love-you than the one she stepped on at the porch.
 
-And then the floor drops out: "Roll over for me, hon." I actually said "oh no" out loud. *The part Randi hadn't said.* Randi, who got Vee to say her name in the first sentence of the phone call. Randi, whose waxer this is, so Sondra knows Randi's body. Randi, who said "barely stings." Did she leave it out to spare her, or to have her arrive exactly this open? I don't trust a single omission from that woman anymore. And I'm side-eyeing Pace too. "I'd like you waxed. By the weekend. Bare." Since when does he have opinions about this, and whose body taught them to him? Chapter 61 is sitting in my head like a stone. I know what that bed looks like on Thursdays.
+Then the painting, and honestly I've never read anything like it. The rule was simple: if she holds still, the brush comes back, and if she moves, it leaves. The game isn't really about holding still. It's about her letting go of holding herself together, and the scene makes her learn that through her armpit and her nipples before it ever says it. Each color ends with a kiss and a bite of food: walnut, parsley, grape, cashew, cantaloupe, cherry. I rolled my eyes at the walnut and then grinned when she figured out the pattern, because I was guessing right along with her. Smearing her half-painted breast into his face with "Oops. Sorry," and then he WEARS IT for the rest of the chapter. "Occupational hazard." I love him.
 
-What gutted me in a quieter way was the "yes" paragraph. She fills the place where the reason should be "every time, with *yes, yes, tell me when*," and she's already "so far past every line… another line seemed like a joke, a thing for a girl who had any lines left." That's the blurb's "daring itself becomes the thing she craves," and it's also a little frightening. I'm cheering her on and wincing at the same time. I'm worried she's handing over the steering wheel and calling it nerve.
+Then the gesso. He's painting her with her own wetness, and she has that hot shame-then-pulse moment. And the thing I've been tracking for chapters finally gets tested on purpose: every color came with a kiss and a taste except this one. *He did not kiss her mouth.* She wonders what it would taste like and doesn't give the wondering words. Afterward he wipes his mouth. TWICE. Once with his hand, and once more with the sheet. Meanwhile in 61 Randi was licking the same thing off his chin and calling it mutual. So he's trained to do that with Vee and not with Randi, and Vee still only gets "a trace," "something faintly sour, gone when her tongue sought it." I don't know if he's protecting her or managing her, and I'm still suspicious about the champagne already poured and the towel set out. Did 61's pillow talk turn into this evening? Did Randi know about the "roll over" part of the wax and leave it out?
 
-The ending landed: her own hand, a sound that was "not one of pain," and "the most expensive thing in the room, and no one in it knew but her." Now I have to watch him find out.
+My gripes: "pleasure princess" again, I'm begging. And the paragraph that goes "He had taken every part of her the world called too much... and made abundance the whole point" spelled out what the scene had already shown me perfectly well. I didn't need the caption.
 
-What I'd text a friend: *She got a Brazilian and it was the most erotic thing in 10 chapters and nobody touched her on purpose. Also Randi set her up, I'm sure of it.*
+But the ending is what's going to keep me up. The photo he never asked to keep, so nobody on earth has seen it but her. She tries to imagine Randi's hoarse voice reacting to it, can't, and catches herself holding her breath. Then: *She would not be telling her about this.* Randi has gotten everything. Every stain, the stall, the coat lining. This is the first thing Vee is keeping back from her, and she's telling herself it's because it's "too much." Honey, that is not why.
 
-GATE 65 — Barely Stings
+**GATE 66 — Still Life**
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 8
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "Tuesday, up in the loft — the corner booth, the end of the red, the jukebox going somewhere slow below them…" It's the whole booth scene again, nearly verbatim, a chapter after I read it.
-WHY: A fourth solo/retelling-shaped chapter should have lost me. It didn't, because it's a new room, a stranger's hands, and the "wrong hand" passage is real desire with real interiority. I'm hungrier for the next chapter than I was absorbed in this one: I need Pace's hand finding her bare, and I need to know whether Randi's "barely stings" was a kindness or a move.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "because a pleasure princess did not rush an unveiling simply because she was the one dying of impatience"
+WHY: This was the payoff I'd stopped believing in. The scene was both explicit and smart, and the brush game was really teaching her to surrender. The scar kiss did more for the romance than any declaration has. I'm not quite at 10 for the next one only because "tomorrow was Randi's" probably means another sit-down chapter, but Vee hiding something from Randi for the first time is a real hook.

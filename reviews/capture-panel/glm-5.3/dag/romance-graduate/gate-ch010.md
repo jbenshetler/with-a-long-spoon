@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9a0a6a7ebe4 · experiment merge-rye · dated · 2026-10-25*
 
-REACTION —
+REACTION — okay, I need a minute.
 
-Okay. I had to put the Kindle down after the flannel scene and just sit there for a minute.
+That was the chapter I've been waiting eleven chapters for and it wasn't the one I expected. I expected the hike to be pretty and I expected him to be perfect on it, and he was — the moleskin, the lettuce against the bread, the cherry pits on the wax paper, "that sounds like a beautiful dress" with NO weight on it, which is the single most devastating thing a man has said in this book because he's so clearly not going to buy it for her, he's just letting her want it out loud and not flinching. That's the romance, honestly, more than anything below the neck.
 
-The whole chapter is the hunger thing again — the moleskin, the sandwich, the cherries — and I know what the book is doing, it's been doing it for eleven chapters, and it still gets me because the prose earns it. The sandwich paragraph is practically erotic and nobody's touched anybody. "The hunger coming up to meet the food, the food good enough to be worth the hunger" — that's the whole thesis of this book in one line and it's about a roast beef sandwich. I'd text someone that line at 1 a.m.
+But the truck. THE TRUCK. I have read four hundred of these scenes and this is the first time in years a strip scene has made my chest hurt. She knocks on the glass with her knuckles and crooks her finger at him and he doesn't know yet what she's calling him back for — and then she keeps his eyes while she does the buttons, and she DOESN'T look down for the first three, and then she chooses to look down, and the book makes it clear that looking down is her giving herself to herself, showing herself her own body through his eyes. The mother's voice running underneath as FUEL — "the voice was the heat and the heat was the voice" — that's the psychologically exact thing the jacket promised and it actually delivered. I've never seen the internalized-shame-as-aphrodisiac thing done without either sanitizing it or wallowing.
 
-But the truck. THE TRUCK. She unbuttons her own shirt, in his only dry shirt's place, keeping his eyes the whole way — and then his hand is *shaking*. He was freezing the whole time. He gave her the dry shirt and stood in the rain and then sat there watching her strip with water running down his own collar, so far from the question of whether he was cold that he didn't even know he was shivering — "He'd been a long way from the question of whether he was cold" — that's the line that got me. That's not an alpha. That's a man so gone on her that his body didn't report in. And SHE stops. She was three seconds into her own seduction — mouth headed for his knuckles, next thing, more — and she calls it off to take care of him. "You're freezing. Get warm. Please." The girl who couldn't eat is now the one feeding other people. I actually got a little misty, I'll admit it.
+And then the flannel. His one dry shirt and he gets out and stands in the rain so she can change with privacy — and then she puts ON the shirt and reaches for his hand to start "the next thing" and his hand is SHAKING. He's been standing in freezing rain being a gentleman about it and not saying a word. And she just stops. Puts his hand against her belly. "You're freezing." Do you understand how rare it is that the heroine's arousal gets interrupted by her TENDERNESS and the tenderness is the peak of the scene? That's what I've been starving for. Not him choosing for her — her wanting, full out, and then her choosing care. Grown-up. Both things.
 
-And the mother-voice threaded through the strip — voice and heat fused together, "the voice was the heat and the heat was the voice" — that's the most psychologically exact thing this book has done. It's not shame fighting desire, it's shame *as* desire, and she takes the floozie word and presses her thighs to it. That's a sentence I'll remember.
+Also I'm furious at that cop. The siren eating her sentence — that's the book withholding on purpose and I respect it and I'm mad about it. And Cassie. "Just her name, like setting something down where it wouldn't break." If this book hurts Cassie I am finished. "Keep the shirt" as a benediction.
 
-The dress. God, the dress. "You put a thing back on the shelf and you keep walking" — and he says "That sounds like a beautiful dress" with no weight on it and picks up a cherry and DOESN'T BUY IT FOR HER. Any other book on my shelf, the billionaire shows up with the silk dress in a box by chapter twelve. His not picking it up is the most romantic thing he's done, and also — I clocked it — the con-man move. Refusing the obvious gift buys him infinite credit later. I'm holding both again.
-
-The cop at the fire lane. The siren eating her sentence. Cruel, perfect placement — whatever big thing she was going to say is still in her, unspent, and I want it. Also mildly: he pulled into a fire lane and drove off with a campus cop behind him, which is a very small flag I'm filing next to the Daphne flag.
-
-Pace still hasn't cracked. But the shaking hand cracked him a little, honestly. The body confessed what the courtliness wouldn't.
+One small itch: Pace is STILL frictionless — even his flaw this chapter (not asking about the boots, standing in the rain) is a flaw made of virtue. Daphne remains the only crack. But the hand shaking was at least a body-level cost, so I'll give it one more chapter before I sour.
 
 GATE 11 — Leave No Trace
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The cab scene is the best thing this book has done — her choosing, him shivering, her stopping to care for him — and it's the first time both people got fully naked emotionally in one beat. I need whatever her siren-swallowed sentence was, and Randi hasn't detonated yet.
+WHY: The truck scene is the first time in years an explicit beat has actually moved me — her initiation, his stillness, the shaking hand. Tender and hot at once, no trade-off. Only lingering worry is Pace's perfection, and Daphne is still an unpaid debt.

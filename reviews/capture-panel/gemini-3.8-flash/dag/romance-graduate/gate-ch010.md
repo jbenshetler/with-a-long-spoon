@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha e9a0a6a7ebe4 · experiment merge-rye · dated · 2026-10-25*
 
 REACTION
 
-Oh, my God. *Oh, my God.*
+*Oh.* Holy shit.
 
-My stomach actually dropped in that truck. When he stepped out into the pouring rain to give her privacy, and she sat there cold and shivering and realized *no, I don't want privacy, I want him in here, I want him to look at me*—and then tapped on the glass with her knuckles and crooked a finger? My jaw hit the floor. The absolute brazen, delicious nerve of her! For a girl who has spent her entire life shrinking away from the leering gaze of frat boys and the suffocating, shame-soaked policing of her mother, choosing to summon him back into that cab, getting up on her knees on the bench, and slowly unbuttoning her wet shirt while holding his eyes? That wasn't just hot; it was a revelation. It was her taking the heavy, awful shame of her mother’s voice—*floozie, what kind of girl*—and turning it into pure, unadulterated erotic fuel.
+That cab scene. I am sweating. My pulse is genuinely erratic right now. That was so filthy and so unbelievably tender and hot it made my stomach drop.
 
-And Pace! The discipline on that man is a lethal weapon. He didn't pounce, he didn't reach for her, he didn't try to play the conquering hero. He just sat there, taking in the gift she was offering, with that stillness and gladness, letting her command the moment entirely. And then the twist that broke my heart and made me want to climb through the page: she reaches for his hand to pull him into a kiss, and he is *shivering*. He stood out in the freezing mountain downpour without a coat, soaked to the bone, just so she could feel safe. And she tucks his frozen hand under the dry flannel against her bare stomach to warm him. The tenderness of that! The sheer, staggering weight of it!
+Look at what this book just did: Pace didn't push. He didn't corner her. He did the exact, impeccably gentlemanly thing—he gave her his dry flannel, stepped out into the freezing downpour, and stood there with his back turned so she had utter privacy and dignity. And because he gave her complete control, because he backed off, *she* was the one who climbed onto her knees. *She* knocked on the glass. *She* crooked her finger to summon him back into that cab, and then held his gaze and unbuttoned herself down to the wet, sheer bra just to make him watch. The psychological mastery of that! The internal voice of her mother chanting *floozie* while her body presses her thighs together—that is so achingly, devastatingly real. Women are so policed, so suffocated by modesty, and the sheer erotic high of choosing to be "shameless" for a man who is treating you like a miracle? God.
 
-The hike itself was gorgeous, too. The cherry pits on the wax paper, the horseradish catching in her throat, the way he cut the moleskin and laced her boot without an ounce of condescension—he's not just seducing her, he is steadily, methodically teaching her that she is allowed to have needs, allowed to take up space, allowed to want things. That moment where she confesses she wants the russet silk dress, instantly shames herself for wanting something beyond her station, and he just softly says, *"That sounds like a beautiful dress,"* leaving it on the rock between them? He is going to buy that dress. I know it in my bones. And it's going to wreck her.
+And then the detail of his hand shaking. She thinks he's trembling because he was standing in the rain—and sure, the cold is real—but he is *vibrating* with restraint. He is an apex predator having his mind blown by this girl, and instead of pouncing, he lets her pull his frozen hand against the warmth of her belly under the flannel. The sheer erotic charge of a fully clothed, shivering man being held against a warm stomach... I swear to god, this author writes intimacy better than 99% of the explicit books on my Kindle.
 
-The only thing that made me want to scream was that campus cop barking the siren at the very end, cutting off whatever she was about to say and sending her scurrying inside like a scolded kid. But maybe that's perfect. She walks into that dorm smelling of him, wearing his dry flannel, soaked jeans clinging to her legs, holding a balled-up wet shirt, with Cassie sitting right up there waiting. Cassie is going to look at her in that oversized flannel and know *everything* shifted.
+The whole hike, honestly. The moleskin on her raw heel without making her feel dirty or embarrassed. The sandwich with the sinus-clearing horseradish and dark rye. The cherries—"We take nothing and leave nothing"—and the russet silk dress. Oh, the dress! That is a Chekhov's gun if I've ever seen one. You know damn well Pace is going to remember that russet dress.
+
+And then coming home to Cassie. Cassie is the beating heart of this book's sanity. The way Cassie listened, the way Vee confessed stripping in the truck without shame, and Cassie didn't lecture her, didn't make a crude joke, just said her name softly: *"Vee... Borrow real boots next time. Keep the shirt."* I could cry.
+
+Now, my gut is screaming because Pace has to go home. He has to go back to Randi. How the *fuck* is he going to explain this to Randi? Does he tell her Vee stripped for him in the truck? Does he hold that back, too, like he held back the frozen yogurt confession? If he keeps this truck scene private, Randi will smell it on him. And Randi is going to see that flannel is missing, or Vee is going to wear it, or Randi is going to lose her absolute mind.
+
+I need the next chapter immediately. Turn the page right now.
 
 GATE 11 — Leave No Trace
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The absolute electric charge of her summoning him back into the truck to watch her strip, combined with the staggering tenderness of her warming his freezing hand against her stomach. I'm completely hooked—give me the next chapter right now.
+WHY: The truck scene was an absolute masterclass in erotic psychology—her summoning him to watch her strip while defying her mother's internal shame, followed by the quiet tenderness of Cassie at the end. I am completely, utterly hooked.

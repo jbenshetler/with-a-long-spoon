@@ -26,7 +26,7 @@ Not a question. Vee opened her mouth to argue it and Cassie just waited, and Vee
 
 "Mm," said Cassie, which was Cassie for whatever you say. "I don't get it." Kindly, though. "You've had boyfriends. You never went like this over one."
 
-And Vee tried to say it, and what came was the small word, fine. The ones before him had been fine. Nice enough, a good enough time, and she'd gone along thinking that was the whole of what there was to have. Pace wasn't fine. She reached for the word after it and didn't have one, and laughed at herself reaching. She put both hands up at all of it instead, at the cooking and the watching and the whole of himself turned on her until the rest of the room went dark around her.
+Vee tried to say it, and what came was the small word, fine. The ones before him had been fine. Nice enough, a good enough time, and she'd gone along thinking that was the whole of what there was to have. Pace wasn't fine. She reached for the word after it and didn't have one, and laughed at herself reaching. She put both hands up at all of it instead, at the cooking and the watching and the whole of himself turned on her until the rest of the room went dark around her.
 
 Cassie watched her run clean out of words, which Vee never did. She let it sit. "Do you love him," she said, the same flat way she'd said the rest of it.
 

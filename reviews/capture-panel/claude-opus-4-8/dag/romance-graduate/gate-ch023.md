@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
 
 REACTION
 
-Oh, he gave it to me. Not all of it — the scar's still sealed, "not tonight" — but Daphne cracked open and it's exactly the shape I was dreading and worse because of how he holds it. Nineteen and fifteen. A *tutor*, assigned to the child so he'd find his feet, and she found them for him in bed for two years, and he sets it down in front of me in that flat careful voice — "Nobody did anything wrong," "It would have been stranger if she'd stayed" — and names it luck. I did the arithmetic in my stomach right alongside Vee. The ugly clean grown-up word came up under my tongue the same second it came up under hers, and I held it there the same way, because he *believes* every word of what he told her. That's the thing that gutted me. Not that it happened. That he's defending it between the memory and the word she won't say, and he can't hear himself doing it. The man who reads every body cannot read the single most important thing that was ever done to his own.
+Okay so my first thought, three paragraphs into the dance lesson, was *oh no, here it comes* — the jealousy chapter. I have read this chapter a hundred times. The hero has a past, the heroine sees women flock to him, a planted line from a mean-pretty stranger, and boom, manufactured rupture out of nothing, two people who could fix it in one sentence not fixing it for 40 pages. That's the exact machinery I DNF over. I braced.
 
-And the hallway. God, the hallway. They moved his desk out and gave him long-division worksheets for a *year* because he asked a question his teacher couldn't answer. "They took the thing you loved and made it the punishment." That's Vee saying it, and it's the master key to him — now I understand the whole method from the inside. He finds where a woman's been shamed out of her own body and he hands it back to her, because somebody once took the thing he loved and made it the punishment and then one person — Daphne — gave it back. He's running his own rescue on every woman he touches. Which is tender and real and also means Vee is a reenactment. He's doing *to* Vee what was done *to* him, in the good version, not knowing the good version was the crime.
+And then the book did two things that bought it back.
 
-"He didn't make it *for* you, he made it *to* you" was last chapter and it's ringing now — he makes everything *to* people.
+One: the dance teaching is the sex. "Give me something to push back against. Otherwise you cannot feel my lead." "Close it — come all the way in — and my feet can't land anywhere but past yours." "Don't think. Just feel the lead." That's the fitting, that's the bed, that's the whole method rendered in a clothed thing on a concrete pad under cold field lights, and I felt it in my stomach. The moment it *gave* — "guessing stopped happening, the decision pulled from her somehow" — that's her coming undone with her clothes on. He takes the portioning away again. Same man, same scalpel. I was warm the whole lesson.
 
-Peter. She said it twice, once to taste it and once at the end just to keep it, and I believe her that it wasn't a move. For once Vee wasn't performing and wasn't being harvested — Randi's not in the room, nobody's keeping an account, it was just two people telling each other where they came from. That's why this landed as the realest thing in the book so far. The whole evening I kept bracing for the scalpel and it never came; this was the tenderness genuine, no inventory. Which somehow scares me *more*, because now there's something true to break.
+Two: the bartender. "Wasn't him they were jealous of, honey." That flipped the whole cheap-jealousy beat inside out — the women weren't circling *him*, they were sizing up *her*, the one he brought on a Thursday when he never brings anyone. So the trope got used and then detonated, and I exhaled. The venom-blonde was a plant, yes, but the book knows she's a plant; it doesn't ask me to believe the lie, it asks me to watch Vee believe it.
 
-What kept me at arm's length, just slightly: the math monologue — paint and coastlines and Newton's three sentences — ran a beat long and I could feel it being The Beautiful Mind Speech, the book wanting me to fall for him on cue. I didn't need the coastline *and* the paint *and* the stars. But it's a small thing and the stars paid it off ("it's all one piece," and then her lying awake thinking her whole lucky semester came to her all of a piece — that's the hook closing, and it's a hook).
+Because — and this is the part that actually has me — the dramatic irony is vicious now. Vee spent this whole night torching herself over *phantom* rivals, bar girls she'll never see again, while the one real rival drove her shoe shopping and knelt on the boutique floor and ran a thumb across her painted toenail. She aimed her jealousy at the empty part of the sky. And the "slut" self-talk came roaring back the second she felt exposed — three dates and she "spread her legs like a slut" — all that shame he'd spent weeks draining came back in one gulp the instant she felt played. That told me how thin the floor still is under her.
 
-I'm not reading toward the couple. I'm reading toward the wreck. He just handed Vee the thing that broke him and called it his best two years, and she's lying there calling herself the most fortunate woman alive with a credit card bill she can't pay sitting in next month. Everybody in this book is grateful for exactly the thing that's hurting them.
+The thing that actually chilled me is the last line. She wakes up, resolves to fix it, and the fix is: *go to Randi's.* She's going to carry the rawest, most broken-open version of this night — her cruelty, her shame, her terror of being just-the-next-one — straight to the woman who harvests it for Pace. She came closest to the real truth she'll ever get (the whole bar basically told her she's special, she's the exception, he chose her) and she's going to hand it to the exact person who'll make sure it costs her. The machine didn't break this chapter. It's about to get fed its best meal yet.
 
-GATE 24 — Rock
+What I'd text a friend: SHE'S GOING TO RANDI. She got jealous of the wrong women ALL NIGHT and now she's taking it to the actual one. I want to scream through the page.
+
+Also, quietly: "Peter." Two chapters running his real name has sat in her mouth. And I still don't have the scar. Not tonight, he said. The door with a time on it.
+
+GATE 25 — Lesson
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "There isn't enough paint in the world for the outside of a thing you just filled with a cup" — somewhere in the back half of the math speech I felt the book working to make me swoon and leaned back an inch.
-WHY: This is the Daphne chapter I've been braced for and it did the worst, best thing — made him sympathetic and complicit in the same flat sentence and let him not hear it. The bond turned hard here, which is precisely why I want to watch it break; a quiet two-page-feeling talk did more to me than the sex did.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Does your *service* include getting the girls home safe from here, too?" — right there, when the jealousy-from-a-planted-line trope kicked in, I felt the old boredom rise and almost checked out.
+WHY: The dance-as-lead made me feel it in my body and the bartender flipped the cheap beat into something true, so the trope earned its keep instead of just running. And the last line — she's taking this straight to Randi — is the most loaded cliffhanger the book has handed me; I'm reading on tonight.

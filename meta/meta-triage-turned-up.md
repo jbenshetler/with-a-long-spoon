@@ -14,7 +14,7 @@ evidence** (audit verdicts re-open on a text edit to the passage).
   chair at the no-tag story → up → desk lean at the heat confession, held
   through the catechism → up for the strip-narration → first bed contact at
   the weighted ":137 Just the edge" sit, which is now genuinely first).
-- "You did?" → "You did." — Cassie already knows (from {{Rye}}); the flat
+- "You did?" → "You did." — Cassie already knows (from {{Leave No Trace}}'s dorm movement); the flat
   declarative is the key-change, acknowledgment not news-surprise.
 
 ## Left standing — do not re-litigate

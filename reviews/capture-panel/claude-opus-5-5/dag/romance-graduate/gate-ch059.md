@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I'm wrecked, in a quiet way, which isn't what I expected from a chapter called "Hangover."
+Okay. First, the thing I'm annoyed about. This is the booth again, the jukebox with the green water again, and Vee telling the story again. I've now had the Sheri look three times in four chapters: lived in 62, told to Pace over eggs in 63, and told to Randi here, with the keyhole, the leg and the shoes in the same order every time. That is exactly the retelling I warned myself about. When she said "Start over and go slower" I nearly started skimming for dialogue.
 
-The first page got me before anything happened. The water glass on a folded paper towel so it wouldn't mark the wood. The undershirt pulled down over her head. The kiss on her forehead "after he thought she was already gone." Then the bread. A man baked cinnamon raisin bread from scratch while she slept off three ciders. I've read a hundred morning-after scenes where the hero brings coffee and a smirk, and this one made the care feel like labor she didn't see, which is what care actually is. "She hadn't done one single thing for herself since the third cider." That line got me.
+What kept me in my seat was 61. That chapter rewired how I read this one. I now know Randi lay on top of Pace two nights before Sheri and said "her breast in my hand… all that softness." So when Vee gets to "she was enjoying herself" and Randi's thumb stops on the back of her hand, I felt it in my own hand. Then the flat "And you liked it," with none of the evening's music in it. That isn't a guard dog going back to her post. Randi is asking whether the door is open. Is a woman wanting Vee a thing Vee could want?
 
-Then "My one friend. There isn't anyone else." I put the Kindle down for a second. I didn't see it coming, and it's built out of things I already had: the man who works a room like Randi, who has everyone at the roadhouse standing taller. Of course he does. It's a skill he learned standing outside the room. The competing-boys explanation, "the window opens once," "that door's on a timer," and the Christmas questions with "a gap under it" all felt like a real person explaining himself, not an author handing me a wound. "Either weren't safe or weren't welcoming," and no name. Good. And her not saying sorry, just crossing the kitchen and hugging him the way Sheri did, "whole weight committed": that's the book using its own furniture right. The ending with no comfort offered, just the bread cooling, is the kind of scene I tell people I want.
+Vee says "No." Too fast, then patched: "Not my thing." On Sunday, in his robe, she told Pace "I liked it, honestly. Best thing that's happened to my legs in a Virginia January." So Pace gets yes, Randi gets no, and the person she's lying to is the one person who needed the yes. Then Vee reads Randi going still as protectiveness and feels warm about it. I wanted to reach into the page. Randi taking "I know she isn't, gorgeous" back on the chin is heartbreak on a delay. That two-line exchange was worth the whole chapter.
 
-Now the 1 a.m. text: *HE SAID "MY ONE FRIEND" AND HE WAS INSIDE RANDI TWO DAYS AGO.* Chapter 61 is sitting right under this one. Randi rode him while talking about Vee's breast, and told him "she's not the only one in love." And Vee, in her head, lists Randi among her own riches and thinks of Pace, "No Randi to bring it to." I actually said "oh no" out loud. Either Randi doesn't count as a friend to him, which says something chilling about what she is to him, or he just lied to Vee's face in the most tender scene they've had. Either way the dramatic irony is huge, and it's the good kind. Also: "a five-foot woman who could never want him — the only kind the world had ever quite let him keep." Honey. The other one wants you plenty, and she wants your girlfriend too.
+The waxing: what? There was nothing about it in 63. I read that kitchen scene closely, and it was bread and "one friend" and her hugging him. So either it happened offstage or it's another continuity slip. Either way I'm suspicious. "In the voice he uses for facts." Randi has Sondra on Draper Street ready to go, "say my name in the first sentence," and "the whole week arranged in her eyes." Whose taste is this? Who's dressing her this time? I'll bet you money that what Pace wants is something he learned from Randi's body. And the bare-skin thing is coming on a Friday, which is a Pace night.
 
-And Vee's "I don't have to be jealous," tried out over the eggs, "held from every side." Sure, it held. You're pointing it at the wrong woman. Plus "I liked it, honestly" about Sheri's look. The waking thing is waking, and she's filing it under comedy.
+The goodbye. The jacket's own line comes true: the goodbye kiss outlasts the goodbye. But what got me was that Vee turns her face up first, eyes already closed, waiting for the hand. She's the one asking. Her mouth goes to Randi's neck "in passing" and nobody says anything about it, not even "*Ticklish*" this time. The fact that neither of them says anything is the loudest thing in the chapter. And the last line, "She had that one cold," made me grin. She didn't write that one down. She's memorizing Randi.
 
-Gripes. The middle sags under Vee's rumination. The freshman-year paragraphs, the dorm carpet, the lecture hall, the campus empty at Thanksgiving: I got it the first time and the book kept going. And "He set it in good order and the good order was the tell" is exactly the book explaining its own subtext to me, which I hate. The Daphne passage made my stomach turn. "The ugly grown-up word" she keeps pressing down is grooming, and the anthro lecture already wrote that word on the board in chalk. I believe the book means it, and it's heavy. I'm not sure I wanted it served with eggs. Also, she's already rehearsing the Tuesday retelling for Randi. If chapter 64 or 65 is the booth with the jukebox again, I'm skimming.
+Small stuff I noticed. Randi stops eating halfway through her fish, and Vee nudges a gnocchi to the edge of her plate. The weight thread is still breathing. The coat goes on lining-to-the-wall, a habit she doesn't notice she has. And she kept the "one friend" story to herself, which tells me she can keep something of his.
 
-Structure check: 61 was explicit, 62 was a new room with a new person saying true things out loud (exactly what I asked for), and 63 is two people talking. That's my favorite kind of scene, but it's the second chapter in a row with no charge. I'm still in. I need heat next.
-
-GATE 63 — Hangover
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "He set it in good order and the good order was the tell." That, plus the freshman-year rumination right after it, where I started skimming.
-WHY: "My one friend" is the realest thing Pace has said all book, and it detonates against chapter 61 in a way that makes me need to see Randi's face when Vee tells her. But that's two quiet chapters in a row now and a fourth booth retelling is coming. The book owes me bodies soon.
+CAPTURE: 6
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "So Vee went slower, and took her time with it, because the table was hers tonight and the story was good"
+WHY: This was one more retelling at the same booth, and the first half was all stuff I'd already heard. But the stopped thumb, "And you liked it," and the "No" Vee told Randi after telling Pace yes are the best small knife this book has used on me. I need Friday: Sondra, Pace, and whoever actually ordered the waxing.

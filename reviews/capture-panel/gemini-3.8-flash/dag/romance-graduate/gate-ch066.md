@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
 
-REACTION
+REACTION —
 
-Cassie is the only person on this entire campus with both feet on the ground, and this tiny scene just about broke my heart.
+I feel like I need to step outside into the freezing parking lot myself just to catch my breath. The sheer psychological pressure cooker of this chapter was unreal. Vee putting on the black trousers and the high-neck charcoal sweater like armor so she wouldn’t feel like a “sex pervert,” only to end up with Randi’s stockinged toes pressed right against her crotch under the table while she confesses every single explicit detail of Pace’s paint night—it’s diabolical.
 
-The absolute whiplash of Vee’s life right now: from having fruit painted on her bare mons and confessing an erotic awakening on Pace’s bed, to dodging Randi’s mouth at the dorm door, to standing in a drafty room with her church-coat on, taking a box of Cocoa Pebbles because it is the only appetite she is allowed to admit to out loud. It is so painfully, perfectly college. You can be in the middle of a massive, identity-shattering psychosexual crisis, but your roommate can still look at your wrecked face, bypass all the defensive bullshit, and just hand you cereal because she knows you forgot to eat.
+And the photo. She actually showed her. The rationalizations she went through to justify handing that phone across the linen—convincing herself that *keeping* it hidden would make it weird, when handing over a picture of her glistening, swollen, painted-bare mons to the woman she’s actively fantasizing about is the most sexually charged move on the planet—shows how completely fried her self-awareness is. Randi’s foot flexing in Vee’s lap while Vee describes the firm bristles dipping into her own wetness? My stomach flipped.
 
-"Is this what you want?" Cassie asking that—not *what happened*, not accusing her, just cutting straight to the core of the rot—was brutal. And Vee’s immediate flinch into "You just hate sororities/you've never liked her" is so childish and real. When you’re caught doing something you don't even have a name for yet, you reach for the oldest, dumbest fight in your arsenal just to put up a wall. But Cassie didn't bite. She just let the plank rot on the floor and offered her cereal.
+Then the bathroom scene. The absolute, unhinged ferocity of that orgasm. The way her mind started with Pace’s clinical precision, lingered on the agonizing disappointment of him wiping his mouth with the back of his hand and the sheet, and then immediately substituted Randi—the dark hair, the glossed lips that *wouldn’t* wipe anything away, coming up to kiss her soaked in her own taste. It’s the ultimate convergence of shame, appetite, and pure repressed hunger. When she caught the sink and let that broken sound out, it felt earned in a way romance so rarely earns a solo scene.
 
-It’s a tiny beat—barely a scene, really—but the emotional architecture here is doing serious heavy lifting. Vee’s entire world is accelerating into this hyper-sensory, manipulated fantasy orchestrated by Pace and Randi, and Cassie is the sole anchor tethering her to plain reality. That silence between them felt massive.
+What broke my heart, though, was Randi’s face when Vee walked back out. Not smug, not teasing, but glassy and deeply sad. Randi was sitting there in the booth with that screen glowing, holding the undeniable evidence of Vee being cracked open by someone else, waiting while Vee literally went to get off to the thought of her. And that parking lot goodbye—Randi making sure she gave her the full, uninterrupted two-stage kiss, holding Vee’s jaw until Vee went limp and clung to her coat. Vee sitting in the cold Corolla telling her fogged windshield to get her sex brain under control is the most desperate, transparent lie she’s told yet. The collision is coming, and I am strapped in.
 
-GATE 70 — Some of Mine
+GATE 71 — Gesso
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It’s a very short chapter, almost just an epilogue to the previous one, but Cassie's grounded presence is the exact reality check this book needed right now. The Cocoa Pebbles gesture completely disarmed me, and now I'm desperate to see how Vee handles Saturday brunch with Randi.
+WHY: The transition from the foot under the booth to that agonizing, mirror-fogging release in the bathroom was top-tier, suffocating tension. Watching Randi look at that lit screen with genuine heartbreak while Vee scrambles to lie to her own windshield made putting this down impossible.

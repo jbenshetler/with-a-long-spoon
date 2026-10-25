@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
 
 REACTION
 
-Oh, God. Oh, *God.* My chest actually aches.
+I am sitting here with my stomach in my absolute throat.
 
-This chapter felt so painfully, breathtakingly intimate that I almost felt like an intruder reading it—and yet it is everything I read this genre for. That entire sequence in the overheated dorm room, alone with Pace’s flannel shirt and the radiator ticking, trying so hard to understand her own desire. It was agonizing and beautiful.
+Look, I knew what this book was. The jacket told me: *“Vee is a willing player in two games. She doesn’t know there are three.”* I knew Pace and Randi had a thing. I *knew* it. But having it dropped directly on my head in chapter 64, right after watching Vee agonizing alone in her dorm bed over tasting herself, buttoned into his giant shirt, wondering if she was "greedy"—to turn the page and see Pace with his mouth buried between Randi’s legs? Tasting Randi off his own mouth without an ounce of hesitation? It hit me like a slap across the face.
 
-That moment where she brings her wet fingers to her mouth—the strands stretching between her fingers, that heavy realization of her own "excess," the boys' stupid high school jokes about women's bodies lurking in the back of her head, and then smelling herself: *a hothouse with its doors shut, the air around a tropical flower without its sweetness.* And she brings her fingers to her lips, wanting so desperately to understand what Pace felt, what Randi felt, wanting to accept herself the way they seem to accept her—and she *can't close the distance.* She stops one breath away. That broke my heart. The shame is so deeply rooted. She can let a man worship her, she can let Randi orchestrate her, she can even demand orgasms until she whites out, but she cannot fully, unconditionally love the fact of her own body yet.
+It is brilliant, and it makes me physically sick.
 
-And wiping her hand on the sheet—twice!—and then lying in it at the end? *Her mess. Hers to lie in. Her mouth was still empty.* That final line is haunting. It’s an empty mouth in every sense: empty of her own self-acceptance, empty of the words she still hasn't heard from Pace, and empty of whatever it is she’s circling with Randi.
+The sheer, staggering hypocrisy of it. Vee is over in her dorm room treating Pace like he’s made of spun gold, weeping with gratitude because he called her his "girlfriend" in a barbecue joint, and here he is lifting Randi by the hips, letting Randi call herself his "fuck doll," while both of them get off talking about Vee like she’s a dessert they’re splitting.
 
-Because Randi was right there in the bed with her. Pace was the body, but Randi was the permission. *Had Randi meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth?* Vee’s desire is expanding in directions she can't even safely name yet, even while she's wearing Pace's shirt.
+*“Her breast in my hand,” Randi said... “All that softness. The weight of it.” ... “And her nipple in my mouth.” He sucked.*
 
-This was completely solo, totally internal, and yet the erotic charge and the psychological precision were off the charts. It wasn't cheap smut; it was a woman genuinely wrestling with the threshold of her own shame and appetite. I am so deeply in this girl's corner. I need her to be okay.
+My God. The heat of it is insane, I can’t even lie. It’s filthy and intense and psychologically twisted in a way that had my heart pounding against my ribs. But the emotional betrayal is breathtaking. Randi is in love with her. Pace is in love with her—Randi called him out on it directly (*"She's not the only one in love"*) and he couldn't deny it. They both love Vee. And instead of being honest, instead of dealing with the fact that they have brought an innocent, completely devoted girl into the center of their web, they are using her name as dirty talk while they fuck each other into the mattress.
 
-GATE 63 — The Reach
+And then the dialogue at the end completely broke the spell for a second. *“I did my part. Now stick that inside me.”* What the hell was that? It sounded like a badly translated porno script dropped into the middle of a high-end psychological novel. Randi has never spoken like that in her life. It felt jarring and clunky, a bizarre stumble in a chapter that was otherwise suffocatingly intense.
+
+I am furious at them. I want to shake Pace until his teeth rattle. He sits there in his noble silence with Vee, holding back *I love you* because of his tragic past, but he has zero problem fucking Randi while she narrates what she wants to do to Vee’s breasts. The sheer arrogance of these two people playing god with Vee’s heart is about to detonate, and I am terrified for her. But God help me, I have to see the explosion. I cannot look away.
+
+GATE 64 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The psychological depth of Vee's masturbation scene—the absolute ache of her trying to bridge the gap between her deep-seated shame and her awakening desire—was stunning. Watching her hover one breath away from tasting herself, caught between Pace's worship and Randi's casual power, was agonizingly good erotica. I could not turn away.
+ROMANCE: 1
+ALMOST-STOPPED: “I did my part. Now stick that inside me.”
+WHY: That clunky, porno-dialogue line completely broke the atmosphere of the scene, but the sheer narrative bomb that just went off makes it impossible not to turn the page immediately. The betrayal is sickening, but I have to see how Vee survives this.

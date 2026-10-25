@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in absolute knots. I don't know whether to scream, throw the book across the room, or melt into a puddle on the floor.
+*Oh, my god.* My stomach just dropped out through the floor.
 
-First of all: the sheer, devastating erotic perfection of that bedroom scene. Pace's control when he’s *serving* her is my absolute kryptonite. Him following her pointing finger like an obedient gladiator, tiling her body with kisses, worshiping every single inch of her without skipping a centimeter of skin, taking her completely over the edge before he even touches his own pleasure—that is everything I read this genre for. The tenderness wrapped up inside absolute, unhurried dominance. And then, when she recoiled from the taste of herself on his mouth—*"Ugh — gross. That’s — no. Wrong."*—the way he handled her "no" was breathtaking. He didn't pounce, he didn't mock her, he didn't sulk or get defensive. He literally froze mid-stroke, started to withdraw to protect her space, and when she clarified that she just didn't want the kiss, he gave her jaw that one tiny kiss, wiped his mouth with the back of his hand, said *"Okay,"* and went right back to making love to her throat and temples until *she* was the one who reached for him. That is real consent. That is a man making room for a woman's boundaries in real time, without punishing her for having them. It was gorgeous.
+I was sitting here melting—literally *melting*—because on the surface, this is the most romantic, attentive, Fifty-Shades-level fantasy beat a man could possibly pull. She’s sitting naked in a chair he built with his bare hands, drinking wine, rambling at his back the way women do when they feel completely safe, and he starts pulling names out of thin air. Meg. Her boots from October that slipped at the heel. Kayla talking paint off a wall. *Bring Theo.* No jealousy, no petty ego, just pure, total recall of every tiny syllable that has ever crossed her lips. It feels like absolute devotion. It feels like the answer to her walkout: *I don't just want you hidden in my dark house anymore; I want your whole world. I want to meet your people.*
 
-...And it makes the poison underneath it a thousand times worse.
+And then the cold, sick reality hits: **Randi is one of those people.**
 
-I was sitting there, breathless, watching them lay together under that cashmere blanket—and then the horror hit me like ice water. *The cashmere blanket.* The blanket that Randi uses after they fuck. The blanket Pace specifically keeps folded for Randi's post-sex chills. Vee is lying naked on it, soaking it in her own wetness, wrapping it up to her chin, marveling that *"even the blanket here knew how to touch her,"* completely blind to the fact that Randi's scent and sweat are woven into the damn fibers. It made me physically sick. It is so intimate, and it is entirely built on an invisible, suffocating lie.
+Vee says, *"We could do a dinner. The three of us."* And Pace—standing there with his sleeves rolled, scrubbing a pot—doesn't choke. He doesn't flinch. He just smoothly pivots to dilute the room: *"Bring Cassie, too."*
 
-And then the ending. Vee lying there, realizing that Pace *loves* tasting her, wondering why he's so obsessed with it, wondering why he came up to kiss her without wiping his mouth—and planning to take that exact question to *Randi*. *"Randi would know what to make of it. Randi always did."*
+He and Randi have been fucking on his living room furniture. Randi has his cashmere blanket on her bed. Pace and Randi plotted *together* on the lawn in September to target Vee. And now Pace is volunteering to stand in a public room, acting like he’s meeting Randi for the first time, while Vee beams with pride because her two favorite people are finally in the same room. It is breathtakingly sociopathic.
 
-I gasped out loud. She's going to tell Randi! Randi, who got him to admit he went down on Vee, Randi who is sleeping with him, Randi who *orchestrated the entire coat stunt*! The dramatic irony is ratcheted up so tight it's about to snap my spine. Pace is trapped in his own web of unspoken love and sick threesome grooming; Vee thinks she's a "pleasure princess" finally getting the meal she was starved of; and Randi is sitting in the center of the web waiting for Tuesday dinner. I am terrified for Vee. When this explodes—and it HAS to explode—it is going to level the entire county. I need the next chapter right this second.
+The tragic part is that he *does* love her. He remembers the boots. He remembers Kayla. He wants to give Vee this party because he knows he almost lost her forever in December. But he is building this entire public debut on top of a landmine, and he’s doing it with a calm smile. If Cassie is in that room, with her sharp eyes, watching Randi and Pace interact... Cassie is going to smell the smoke instantly.
 
-***
+"Let me handle it," he says. Pace, you arrogant, beautiful idiot. You think you can calculate the arithmetic of a room containing your secret lover, the girl you worship, and the skeptical roommate who already hates the dress you sewed? This party is going to be a bloodbath. I need the next chapter right this second.
 
-GATE 56 — Missed a Spot
+GATE 57 — Back
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The erotic tension and consent were masterclass level, but the dramatic irony of Vee wrapping herself in Randi's blanket and planning to tell Randi everything has me in an absolute chokehold.
+WHY: The absolute whiplash between how tender Pace's attentiveness is and the terrifying dramatic irony of putting Randi, Vee, Cassie, and Pace in the same room. I could not put this book down right now if my house was on fire.

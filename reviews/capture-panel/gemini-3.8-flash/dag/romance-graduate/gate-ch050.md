@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this man is playing chess while she is playing with doll clothes.
+Oh, this was *medicine*. After the sheer sensory overload and emotional whiplash of chapters 51 through 54—the weeping in Randi’s room, that desperate, soaked-coat reunion on the porch, the sheer indulgence of the persimmon-and-cashmere Saturday, and the mounting tension of Pace wanting to enter her real world—we desperately needed this room. We needed the two-inch draft, the hot popcorn dust, the stacked white athletic socks, and Cassie’s dry, grounded sanity.
 
-I was completely ready to melt. Seriously, when he dropped Meg’s hiking boots and the fact that Vee’s heel slipped out of the right one? When he casually quoted her own line about Kayla talking paint off a wall? My stomach did the exact backflip Vee’s did. Because what woman *hasn't* starved for a man to simply pay attention like that? To actually catalog the boring, domestic rubble of her college life and treat it like gold? He gave her the absolute masterclass in "I see you, I value your world," and she is sitting there naked on a chair he carved with his bare hands, floating on a cloud of feeling loved.
+Vee fabricating an entire sitcom plotline about Pace shrinking her cranberry sweater to explain why she was stranded naked in his kitchen had me grinning like an idiot. *“Pace. Shrank your sweater.”* Cassie’s deadpan delivery is unmatched. Cassie knows it’s total bullshit, Vee knows she knows, but it’s the exact kind of face-saving, affectionate lie that best friends let stand because the joy radiating off the girl in the beanbag is too big to pop.
 
-And then the cold water hit me.
+And then that tiny, breathtaking beat at the end: *“My mother says thank you for the card. She wants to know when she gets to see you again.”*
 
-*“I want to meet your people.”*
-*"Bring Cassie, too."*
-*"Tables have ends. Somebody ends up at one."*
+My breath caught. It hit like a soft punch to the sternum. While Vee’s own mother was busy scrutinizing her weight and fussing over high-necked sweaters back in Ohio, Cassie’s mom is keeping a card on a mantel and asking when the girl is coming back. In a book overflowing with Michelin-star food and feverish, border-crossing sex, the quiet emotional weight Rivers gives to the *other* kinds of nourishment Vee is receiving is just stunning. Cassie provides a totally different kind of sanctuary than Pace’s house or Randi’s velvet trap. It’s narrow and drafty and smells like radiator dust, but it’s completely real.
 
-He doesn't want a three-person dinner where he has to sit across from Randi under a spotlight and pretend he hasn't been orchestrating a psychological menage for five months. He knows Cassie is sharp enough to cut glass and would smell the tension between the three of them within four minutes of bread service. A big, sprawling party? A mixer? It’s *cover*. It dilutes the blast radius. It lets him bring Randi into his orbit *in front of Vee* under the guise of being the most generous, open, un-secretive boyfriend on earth, while completely neutralizing the threat of a small, intimate interrogation.
+What gives this chapter its low hum of dramatic irony, though, is the ticking clock. Vee falls asleep with her hand against the cold cinderblock feeling like the world is finally stitched back together: Pace is hers, he volunteered to meet her people, and Friday will come. But she has *no idea* what’s waiting for her on Tuesday. She has to sit next to Randi—who kissed her, who Brooke explicitly warned about the house watching, who gave her the shoes that started all of this—and Pace is gearing up to step into the daylight. The peace in this dorm room is gorgeous, but God, I know it's the eye of the hurricane.
 
-"Let me handle it." The sheer dread that sentence gave me! What is he planning? Is he hosting this at his house? Is he taking over a tavern? Is this the Valentine's dance cover-band situation Sheri told him to go to?
-
-And poor Vee. Sweet, blind Vee, happily constructing her little fantasy where her fancy best friend and her gruff, perfect man finally get to know each other. *"You could meet Randi... properly, I mean."* God, the dramatic irony in this book is like a piano dangling by a frayed rope over her head. She thinks she's finally coaxed him out into the daylight. She thinks her naked-in-a-coat gambit fixed the foundation of their entire relationship, and instead she just handed the architect a brand new set of blueprints. I am vibrating with anxiety for Tuesday night.
-
-GATE 54 — Back
+GATE 55 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 10
+NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological chess here is immaculate—Pace remembering the tiny details of her friends felt utterly swoon-worthy until the trap beneath his "generosity" clicked into place. I need Tuesday night and the Anthro class immediately.
+WHY: A perfect, quiet decompression chapter that gave Cassie the stage she deserved. The cranberry sweater lie was hilarious, the beat about Cassie’s mom was deeply touching, and the contrast between the narrow dorm bunk and Pace's king bed lands beautifully right before the chaos of the semester begins.

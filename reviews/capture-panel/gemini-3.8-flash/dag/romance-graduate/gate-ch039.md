@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · experiment merge-cropped · dated · 2026-10-25*
 
-**REACTION**
+REACTION
 
-Oh, this chapter just about broke my heart in two.
+Oh, my chest hurts. My god, that hurt to read.
 
-It is utterly exquisite, devastating domesticity. Seeing Vee so desperate after five days apart—fumbling with her boots, practically tackling him through the door, letting her body completely betray how fiercely she missed him—was gorgeous. She thinks she is building a quiet, sacred sanctuary with a partner who cooks intricate meals with real technique, pays quiet attention to every single detail of her pleasure, and holds space for her awkward, vulnerable confessions without a single ounce of judgment.
+*"I had been eating crackers my whole life. And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know."*
 
-The moment with the flannel shirt destroyed me. When he thought for a second she was returning it, and you saw that tiny flicker of genuine hurt on his face, followed by her blurting out that she needed him to recharge it with his scent so she could survive the nights away from him... God, it is so painfully tender. She handed him her entire, unguarded heart, and he put that second shirt on right over his own without a heartbeat of hesitation.
+She handed him her whole raw, tender heart on a plate, disguised as an analogy so she wouldn't break her own rule, and he looked at it, calculated the exact perimeter of his neat little non-consensual science experiment, and handed her back: *"I love how good we are together. What you do — what your body does — I've never."*
 
-And that is exactly why this whole thing feels like a high-wire act over a pit of fire.
+*What your body does.*
 
-Because while she is standing in that warm kitchen feeling like the most cherished woman on earth, we *know* what happened four days ago on that same couch. We know Randi was bent over it, shouting that she wants Vee, while Pace took her from behind. We know this man has a mathematical, predatory architecture running underneath all this courtly devotion. It makes every single gentle touch feel loaded with tragedy. He is giving her an experience of romance so thorough and deep that it's going to utterly shatter her when the truth lands. I am completely hooked on the agony of loving this couple while dreading the inevitable drop.
+He pivoted her soul directly back to her flesh. He heard her reach for *love*, and he parried it with *performance*. He is so terrified of compromising his master plan—or of letting her become an actual emotional commitment instead of a shared erotic theorem with Randi—that he reduced her beautiful, heartbreaking confession to "we have great sex." And the terrifying part is that he probably thinks he was being so sweet. He kissed the crown of her head! He pulled the quilt closer! The jacket said it from day one: *A warm reception is also what you call walking into fire.* She literally told herself, *"She had been received warmly,"* and it made me want to scream at the page.
 
-***
+And then the ending in the laundry room. That is the most devastatingly accurate depiction of a woman slowly realizing a man doesn't love her the way she loves him that I have read in *years*. Sitting on the folding table, watching the dryer spin, running the tapes back. Her sentence, then his. Realizing they were completely different shapes. And worse—she's already building the little mental closet where women hide the things they can't bear to look at. *"The place was not empty. There were other things in it already... This joined them."* She is tucking away the discrepancies just to survive staying with him.
 
-GATE 42 — The New Ordinary
+Also, the dining hall conversation with Cassie was fantastic grounding before the heartbreak. The detail about her father—that he'd be fine with a man taking the dress off her, but deeply unsettled by a man *sewing* it for her—was so psychologically astute. Cassie asking the flat, terrifying question: *"Is it that you can't say, or that you don't want to?"* Cassie knows. Vee knows. Pace knows, but he’s lying to himself. The cracks are officially spreading through the foundation.
+
+GATE 43 — Cropped
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
+NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tender vulnerability of the shirt scene hit me right in the chest, and the contrast between this breathtaking domestic intimacy and the secret betrayal waiting to detonate makes it impossible to put down.
+WHY: The psychological precision of her confession and his deliberate deflection was agonizingly good; watching her pack that rejection away into the dark corners of her mind in the laundry room made my stomach drop.

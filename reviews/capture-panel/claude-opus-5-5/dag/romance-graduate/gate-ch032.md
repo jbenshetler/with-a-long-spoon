@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, she's *good*. Randi, I mean. The whole thing hinges on one word: "Vanilla." She lets it sit a beat and Vee gives up everything she has just to deny it. Three chapters ago I was praying Pace would keep the kitchen spank to himself. He did, as far as I know, and then my girl handed over the bedroom herself, piece by piece, in daylight, over mimosas. The bet, the checking, "Not at all," face down on the covers, "there was no way he couldn't." I sat there holding my breath at every answer, wanting her to stop and also not wanting her to, which is exactly where Randi had her.
+Okay. The drawer got me. I'm annoyed at how much it got me.
 
-What I loved is that this retelling doesn't drag. I've stopped skimming these, and this one is the best of them. Vee tells it more truthfully than she ever has, and she says "It wasn't quite like you said." She's comparing Pace to the invented mouse-that-roars and correcting the fiction with the real man, and she has no idea she's correcting it to the woman who made it up. Randi's questions are perfect: "Walk me." "And how was it settled?" "Close call?" Every one is a hand on her back.
+First, the opening, because I have to say it: a whole week apart, he spins her off the porch, the coats come off inside the door, and then it's all *recap*. "Some nights he started with his mouth, some with his hands." That isn't a scene, it's a summary of scenes. After chapter 32 put the finger and the bet and the juice right on the page, this felt like the book stepping out of the room and texting me about what went on in there. It's not quite a fade to black, and it's not euphemism. It's more like it got the lights down to a dimmer. Coming off the hottest run in the book, I felt the step down. The line "it always came around to her first, brought all the way over and usually more than once" does real work about who he is, though. It's character, even if it isn't heat.
 
-Then comes the Redford boy. I rolled my eyes, I'll admit it: Radford, Robert Redford, another invented man showing up right on cue. Then I watched what the story was *built* to do. He's a man who leaves, so Randi is "on a stranger's bed with the engine running," and that's how we get "Dress up, panties to the side, knees wide." It's placed like a stone in a sling and fired straight at Vee, while Randi looks her in the eye. Then "Do what you need to," without a flicker of curiosity, which is the scariest line in the chapter.
+Then the weight-loss paragraph, and I tensed up. My girl has spent thirty-four chapters learning to stop apologizing for her body, and now the reward is her bras riding higher? I don't love the book quietly pleasing me with her shrinking. To be fair, it's handled sideways, about clothes and money and racks that never believed in her, not about her finally being "good." The tailor she could never afford is the bit that stings, and that's earned, because the one man who did tailor for her is asleep beside her. I'm watching that thread anyway.
 
-The bathroom scene got me in a way the practice room didn't. Last time Vee stopped on principle: "not over a story." This time she stops because Randi's face shows up behind her eyes at the first give. *It was not the thinking, it was the looking.* That's the turn I've been waiting for. Her body has named it even if her mouth won't call it anything but friendship. And she stops "cowed" and "obedient," which means Randi now has a say in Vee's body without having been in the room. I felt sick and turned on at once, which seems to be this book's whole recipe.
+"She loved him. There." Of course she does. And she says *Peter* into the ear of a sleeping man so it can't land. That mirrors him perfectly: he says it in everything and never in words, and she says the word only where he can't hear it. They're both doing it now. "She could live clear inside the everything-he-did and not go hungry for the saying" made my stomach drop, because the jacket literally says *the silence where his word should be*. She's making peace with the exact thing that's going to cut her. I want to shake her and I also completely understand her.
 
-"Sticky fingers?" I actually gasped. Then it turns out to be the pastries, and Vee can't tell whether she's been handed a door or shown that there never was one, and neither can I. That's the right place to leave both of us.
+Then the mirror. His eyes go to her mess on the counter and he says nothing, and I felt her guest-ring-on-good-wood panic in my own chest. The next Friday the counter is bare and my heart went *oh no*, and then the top drawer. He's folded his whole ordered self into one cramped drawer and given her "the one your hand goes to first." No note, never a note. That's the most romantic thing in the book after the dress, and it's the same move as the dress: trouble, then hiding the trouble. *He hadn't told her it didn't matter. He'd gone and made her a place instead.* I'd text that line to someone at 1 a.m.
 
-Then the kiss, and the glaze on her lip from a pastry she never touched. Randi took one bite. I want to text someone at 1 a.m. that the Evil Queen put the apple in the kiss. One bite. And right before it comes "best friend in the whole world," which hits Vee where she's softest, in that old *picked her, out of everyone* place. Randi is giving her the friendship word while Pace still holds back his word for what they are. I want to scream.
+But I'm still me, and I came straight off Randi with Vee's pastry glaze on her own mouth and "best friend in the whole world." This chapter doesn't even mention Randi, and that silence feels loud. Randi folds her clothes on the bench in this house. Randi uses this bathroom. Who opens that drawer first, and what does her face do? A place made for Vee is a place Randi will see. The nicer he gets, the more I can see coming.
 
-Small gripes: her body "giving" without being asked is in this chapter about four times, so I get it. The Radford/Redford pun is too cute. And three chapters running now end with some version of Vee's body being out ahead of her, which is starting to feel like a pattern I'll eventually tire of. Not yet, though. Also, the mimosa was the cheapest yes on the card. The money thread is still breathing, and I'm grateful.
+This is the first quiet chapter after four charged ones, and it earns being quiet. If the next one is quiet too, I'll start counting.
 
-GATE 34 — One Bite
+GATE 35 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "there's this blond boy, a young Robert Redford, I swear it, and we just *caught*."
-WHY: This is the best retelling yet. It's a seduction disguised as brunch, and the turn in Vee's body (Randi's face stopping her hand) is the first time the bond has moved out loud inside her. "Sticky fingers?" and the glaze on her lip mean I have to know what Randi does with all this in Pace's bed.
+ALMOST-STOPPED: "Some nights he started with his mouth, some with his hands, some he just put her where he wanted her and used the rest of himself"
+WHY: The week-apart reunion got told to me, not shown, and that cost the chapter some of its pull. But she let herself say "love," she whispered *Peter* to a man asleep, and he gave her the drawer: a real turn, made of pure gesture with no words. Now she has a place in his house to lose, Randi hasn't seen it yet, and I need to know what happens when she does.

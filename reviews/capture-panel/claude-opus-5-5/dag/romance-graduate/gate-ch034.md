@@ -1,28 +1,33 @@
-*capture-dag-v2-rich · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 42df1ce07fbc · experiment merge-school · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. Cassie finally got her scene, and it was so *Cassie*. "You're a public utility." "Mm." She didn't argue with the maybe and she didn't say I know. She just went back to her book. I've been begging for her to get one real moment before she's shed, and she got it, and she used it to ask the only straight question anyone has asked Vee in thirty-six chapters. Sheri asks Pace. Cassie asks Vee. The two honest women in this book never get answered.
+Okay, I need to talk about the photograph.
 
-And Vee said *maybe*. Last chapter she lay in his bed and let "I love him" be true in her own chest, and she whispered *Peter* to him while he slept. Then her roommate asks plainly and it comes out as "maybe." The book doesn't tell me why, and neither can Vee, and I loved that. My guess is she can say it to herself and to a sleeping man but not to anyone who might hold her to it. Or some part of her already knows it's going to cost her. Whichever it is, it's the most honest thing she's done in a while.
+"Only if you promise you'll never share me with anyone."
+"Never. I'd never share your photograph."
 
-The burn on the side of her breast from a baked tomato, and "There's only one way *that* burn happens. Not enough on." I laughed. And the house staying warm now, "warm enough that she never once thought about how much she had on." That's the dress-and-heels Vee, carried into the everyday.
+I read that exchange three times. She asked him not to share *her*, and he promised not to share *the photograph*. He's a mathematician, so I don't think he slid out of it by accident. Maybe he doesn't even know he did it. He just answered the one part he can honestly keep. I believe he'll never forward that file to Randi. I also believe Randi will hear about it before the week's out, the pose, the calendar-girl arrangement, the kiss on each knee, the way he grinned over the top of the phone. "She sent it before the nerve could leave her" and "believing him was the brave part" hurt to read. It's the bravest thing she's done, and the book makes sure I can see the hole in it. The jacket said the reader would be a step ahead of Vee, and right now I hate being a step ahead.
 
-Then the swim, and here's where my thumb started tapping. For a few paragraphs it was good. The lane she keeps taking, the butterfly man and the flip-turn woman settling in around her without a word, "the green-and-white suit had nowhere left to go on her," "any more than she had ever once decided the second verse of a hymn." That's real interiority, a body she owns that has nothing to do with being looked at. Then it went into the set for what felt like forever, and I could feel the book doing its fade-the-words-down thing on purpose. *Do you love him. Did he mind. Then the count.* Fine, I get it, the words wear off. And then it told me: "It never answered anything, the swimming. That was the whole use of it." I didn't need that sentence. You just showed me.
+The posing scene itself was lovely, though, and I mean that. He arranges her body and puts his mouth on every place his hands set her, then tilts the lampshade to get the glare off her skin. He says "Hm. Yeah. That's the one," mostly to himself. That's the walnut-grain guy, the hem guy, giving her the same attention he gives his work, and it's a real tenderness. It's also exactly what makes the photo dangerous: whoever hears about it is going to know how much care went into it. The opening was good too. He lies across her with his head on her breast, and she builds a theory that it's comfort and not sex, and his mouth spoils the theory in a breath. I liked that she enjoyed being wrong. The "girl who had a body, not a body with a girl attached" line spelled the point out a little more than I needed, but I let it go.
 
-But buried in the middle are four strokes I'm going to carry for the rest of the book: *whether he was that good or she had made him that good, out of wanting.* It's the first crack. She can't see Randi, but she's started to wonder whether she built him. That's the right question pointed at the wrong person, or maybe at exactly the right one, since half of what she knows about "who Pace is" has been steered.
+The third time is just "she reached over and closed her hand around him," and then we cut to the kitchen. I'll allow it, since we'd already had two, but I noticed the cut.
 
-What's bugging me is what isn't here. Two chapters ago Randi kissed her with pastry glaze on her lips, glaze from the pastry Randi took one bite of, and said "sticky fingers," and called her "best friend in the whole world." Since then Vee hasn't thought about it once. Not in bed with Pace, not across from Cassie, not with seventy-five minutes in the lane and nothing to do but think. She tells Cassie everything about him and doesn't say Randi's name. That might be deliberate, the thing she can't even bring into the lane with her. But I'm reading it as a held breath, and I want the book to exhale.
+The piccata went on a long time. I enjoyed it, the lemon zest "in a fine bright rain," the garlic smashed under the heel of his hand, "the pan needed it worse than she did." Still, a wine note with grapefruit and cut grass, then a whole recipe, after two quiet chapters in a row (Cassie, the pool)? I was starting to skim, and then the chapter turned the knife at the table, which I think was the point.
 
-Also, this is a Monday-Tuesday, and I've already read the following Friday's drawer. So "did he mind" goes past me as dramatic irony. I know he didn't mind, he gave her the top drawer, and it softened the dread a lot. That's sweet, but there's no tension in it.
+"This is my home." "I don't go back." That's the first time I've seen him close a door on her. It's a fifteen-year-old who went to college with no parents in the picture, and Daphne filling the space. Vee took her hand off it, which was kind and grown-up of her, and I want to know so badly. Then Sheri. "She's alone." Vee's flicker of jealousy goes toward the one woman in his life who's honest, the only person who isn't a threat to her at all. Meanwhile Randi isn't even mentioned, and that's how the book does dread now.
 
-Counting it up: 35 was tender, but its sex was summary ("They hadn't made the kitchen"), and 36 has none. That's my second quiet one in a row. I'm not mad, Cassie earned it. But if 37 is a third, I'm skimming for Randi's name.
+Also, it's Thursday, and the drawer happens tomorrow. Chapter 35 already showed me the drawer, so I'm reading the "did he mind" worry knowing the answer is no. That softens Pace for me. Then the photo hardens him again. I keep swinging back and forth on this man.
 
-GATE 36 — School Nights
+The tooth tap, three times with a nail. Is that hers? Did she pick it up from somewhere? I'm noting it.
+
+What I'd text a friend at 1 a.m.: *he promised not to share the PHOTO. not HER. I'm going to be sick.*
+
+GATE 38 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "By the sixth she had *him*, and the ache, and the count. Then the count."
-WHY: Cassie's "Do you love him" and Vee's "maybe" hit hard, and the four strokes of "or she had made him that good" are the best seed the book has planted lately. But the swim went long and then explained itself, and this is the second chapter in a row without real heat or Randi. My patience for quiet is getting low, and I need the next one to bring the fire back.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Then he poured in enough of the wine to make her genuinely sad, the same wine she was drinking, a long unbothered glug of it." This was deep in the recipe, after two quiet chapters, and I caught myself skimming.
+WHY: The heat came back and it was intimate, not by-the-numbers, but what grabbed me was one carefully worded promise and one shut door about his parents. Both leave me needing the next Randi scene to find out where that photograph goes. NEXT is higher than CAPTURE because the dread built at the end, and the long cooking middle pulled CAPTURE down.

@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 42df1ce07fbc · experiment merge-school · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
 
 REACTION
 
-Oh, Cassie. She does exactly what I’ve been waiting for and does it without jealousy, accusation, or one grab for control. She just says, “You don’t come home school nights,” and lets Vee discover the shape of her own absence. Then she asks the real question plainly and accepts the answer Vee can manage. No seduction, no interpretation handed back to her, no attempt to make Vee’s feelings useful. I could kiss her.
+Oh, that photograph made my stomach turn over in two completely different directions.
 
-And Vee saying “maybe” when she already knows she loves him hurt. Not because she’s uncertain about the feeling, exactly, but because some part of her finally senses that loving him and knowing him may not be the same thing. Those four strokes—wondering whether Pace is truly that good or whether she has built that goodness out of wanting him—are the first hairline crack in the enchantment. She doesn’t pursue it, but it existed. She thought it without Randi or Cassie putting it in her mouth. That matters enormously.
+The posing is so intimate. He doesn’t just take a naked picture; he arranges her with that same absorbed, capable attention he gives food and furniture and dresses, kissing each place after he puts it where he wants it. And then he gives her back an image in which she can finally see herself as beautiful. That is exactly the combination I’m here for: explicit without becoming generic, erotic because it is about *this* woman being seen by *this* man. I absolutely understood why she sent it. I felt the risk with her, and the trust, and that terrifying sweetness of believing someone enough to hand them something that can’t really be taken back.
 
-The swimming got me. That bodily competence is so different from all the erotic attention her body has been receiving. Nobody is looking, nobody is reading her responses, nobody is teaching her what her hunger means. Her body simply knows its work and does it. After so many chapters in which Pace and especially Randi keep translating Vee to herself, watching her strip the words away until only the underlying shape remains felt almost medicinal. I wanted her to stay in that lane where no one else gets to author her.
+But: “Only if you promise you’ll never share me with anyone.”
 
-I also noticed what Cassie actually interrupted: Vee arrived ready to glow at her about the burn, the warmth, Pace fussing over her, while apparently spending most nights away and letting schoolwork slide. None of those things alone frightens me. Together, this quickly, with the secret still underneath everything? Yes, they frighten me. The romance is becoming her entire atmosphere. A drawer in his bathroom can be achingly lovely and still not answer what she is to him—or what he and Randi have done.
+Sir.
 
-This was a quiet chapter, but it wasn’t stalled. It gave Vee back to herself for seventy-five minutes, and I needed that nearly as much as she did. Now I need the thought from those four strokes to survive contact with Pace.
+His answer is technically narrower—“I’d never share your photograph”—and I do not believe for one second that the distinction is accidental. He won’t pass around the pixels, perhaps, while he and Randi pass around Vee’s wanting, her wetness, her shame, her discoveries, her entire unsuspecting self. She thinks she has established the boundary that matters. He has promised only the literal thing she named. That cold little gap between her sentence and his is the whole moral horror of this relationship, and it contaminated “gave him herself to keep” exactly as it should. I was turned on and furious at once.
 
-GATE 36 — School Nights
+And still, damn him, the tenderness works on me. His head on her breast. The kisses that are comfort until they are also sex. Thinking about her first bite when he touches himself. Cooking with the same wine they’re drinking, feeding her tastes, watching her discover that she has a palate because he taught her to pay attention. This is why I can’t reduce him to a manipulative man with a consent loophole. He loves her in a hundred daily verbs and refuses her the noun. Vee telling him to use her again with enormous satisfaction also delighted me; that doesn’t read like self-erasure. It reads like a woman discovering that submission-flavored language can belong to her pleasure.
+
+The Thanksgiving turn frightened me more than I expected. “This is my home” initially landed as warm and self-possessed, and then “I don’t go back” shut the whole room down. Vee did exactly the right thing: she noticed the boundary and didn’t make his pain perform for her. That is grown-up tenderness. I want the story of his family badly now, especially because leaving at fifteen was already framed as safer than staying.
+
+And Sheri. Of course it’s Sheri. Another woman Vee doesn’t know is already inside the truth, sitting at Pace’s table on a family holiday while Vee flies home. Vee’s jealousy flickers and corrects itself because the explanation is humane—but she is correcting herself with incomplete information again. I’m increasingly scared that when the secret breaks, she won’t only lose trust in them. She’ll lose trust in her own ability to recognize goodness, because so much of what is good here is genuinely good and has still been used to conceal something enormous.
+
+I’m not remotely putting this down. But I am now glaring at every precisely worded promise Pace makes.
+
+GATE 38 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie’s plain question and Vee’s four-stroke doubt shifted something important without forcing it into a revelation. I’m continuing because Vee has finally wondered, entirely on her own, whether the man she loves and the man she imagines are the same man.
+WHY: The photograph scene gave me the exact fusion of explicitness, trust, and interior danger I want, and Pace’s carefully narrowed promise made it hurt. Now Thanksgiving, his family, Sheri’s place at his table, and the secret all feel close enough to strike.
