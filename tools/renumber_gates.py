@@ -84,11 +84,20 @@ def title_index(chronology="meta/meta-plan-chronology.md"):
     return out
 
 
+# Lane scope (--lanes): "<model>/<persona>" globs. Default is every lane. Scoping
+# exists for a tree whose lanes are not all at the same baseline (2026-10-25: the
+# Turned Up merge was never propagated to the non-romance-graduate lanes), where
+# a position-moving edit is only correct on the lanes that are aligned.
+LANES = ["*/*"]
+
+
 def gate_files():
-    for p in sorted(glob.glob("reviews/capture-panel/*/dag/*/gate-ch*.md")):
-        if "/.failed/" in p:
-            continue
-        yield p
+    for pat in LANES:
+        model, persona = pat.split("/")
+        for p in sorted(glob.glob(f"reviews/capture-panel/{model}/dag/{persona}/gate-ch*.md")):
+            if "/.failed/" in p:
+                continue
+            yield p
 
 
 def lane_of(path):
@@ -296,10 +305,17 @@ def main():
     ap.add_argument("--removed-policy", choices=["delete", "retire"], default="retire",
                     help="what to do with gates sitting at a --removed position")
     ap.add_argument("--retire-name", help="retired basename; merges default to unique names per source")
+    ap.add_argument("--lanes", nargs="+", metavar="MODEL/PERSONA",
+                    help="restrict to these lanes (globs, e.g. '*/romance-graduate'); default all")
     m = ap.add_mutually_exclusive_group()
     m.add_argument("--check", action="store_true")
     m.add_argument("--apply", action="store_true")
     a = ap.parse_args()
+    if a.lanes:
+        if any(x.count("/") != 1 for x in a.lanes):
+            ap.error("--lanes takes MODEL/PERSONA globs")
+        global LANES
+        LANES = a.lanes
 
     if a.verify:
         return verify()

@@ -1,34 +1,26 @@
-*capture-dag-v2-rich · gate ch071 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch071 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2db97916f454 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. OKAY. This is the chapter I asked for: two bodies in a room. It turns out the room was a booth, and the second body was mostly a foot in sheer nylon.
+Okay, first: where is Valentine's? I went back to check the date line. Chapter 71 was Saturday the 6th. This one opens Thursday the 18th, and that whole stretch is gone. The hall, Sheri and the Brooks and Dunn cover band, "bring your opinions," Thursday's standards committee, a Tuesday with Randi after that kiss in the parking lot: none of it is here. I spent two weeks of reading waiting for Sheri to clock Randi in four seconds, and the book walked right past it. Maybe it comes back as memory. If it doesn't, I'm going to be annoyed for a long time.
 
-I nearly sighed at the opening. Another closet, another mirror, and I'd told myself I'd skim those. But this one had a point. She dressed down for Randi, buttoned to the collarbone like she was meeting somebody's parents, and the chapter spent the next hour taking that armor apart without a single button coming undone. The crewneck stayed on the whole time and it didn't help her at all. I loved that.
+Then Randi has "some sorority thing Saturday," and Pace says "while you have your girl time." Girl time. Does he know exactly where Randi is? Is the sorority thing Brooke? Did Pace offer the gym, which he has never once offered her, to keep Vee busy? I can't read a line of his anymore without hunting for the second meaning, and I like that the book has done that to me.
 
-I laughed at the feet-pics story. It's a great bit, and it's also Randi warming up the room. Then "Barely stings." "You left that part out." "I did." She isn't sorry, and "it was lovely on her." I'd been holding that roll-over omission as a possible move, and Randi just owned it with a smile. Kindness and move turn out to be the same thing with her.
+The gym took a while to get going. The cinderblock, the girders, the blue bay doors, the no-music "like a missing tooth": I was skimming, thinking we're at the third quiet opening. Then he sets her under a bar that weighs nothing and seats her grip and her shoulders the way he would for a man pressing twice his weight. "That the smallness of what she was doing bought her back none of his care." That got me. So did "Everything gets a collar." That's Pace in three words: the man who leaves water on a folded paper towel. Then she sees he kept his own set inside what he could rack alone so she was never responsible for what she couldn't hold. I put my phone down for a second. That's the sweetest and scariest thing about him: he arranges the room so you never feel the danger. That's love, or it's exactly how you farm someone. Probably both.
 
-Then Vee tells her about the painting. My notes say she wouldn't tell Randi about this one, and she tells her all of it. That wall I was waiting for never went up. It came down in one brunch, and Vee gave her reasons: a friend would just hand it over, and refusing would *mean* something. That's the most heartbreaking logic in the book so far. She hands over the most naked picture of herself that exists specifically to prove it means nothing.
+The no-underwear-from-below thing made me laugh along with her. The injury was well done. "Apologize to the woman you hurt," said quietly, and the boys looked to him and not to her for release. Usually that protective-alpha moment makes me roll my eyes. This one didn't, because he never raised his voice and never asked whether she was okay. He just decided. I'll notice later that it was his decision, not hers, but tonight it worked. Small thing: the floor is "bare rubber" at the start and a "flat old carpet" when the plate rolls. Gripe tally.
 
-The foot. Randi slides down in the booth and presses her toes right against the "skin in question," and Vee catches it in both hands and can't let go, "to let go now would be to make something of it." Then her thumb is stroking the arch while she says "Into me." That was the hottest thing in the chapter for me, hotter than the photo, and they're in a restaurant at noon. "Was it a soft brush?" Randi is drinking this, and Vee thinks it's girl talk.
+Then the Tiger Balm. God. I've read a hundred nipple scenes and never one built like this: the burn spreading down from the neck so she can "read her own future clean off her own skin. The neck was what the breast would be. The breast was what the tip would be." That's dread as foreplay, and it's real. He held one breast plain out of mercy and she refused the mercy. "Do you want me to keep going?" with all of him waiting on the word. "Yes. Small." The consent is right there, it's hot, and it didn't make me cringe. Then the denial: "Not tonight. We need to wait." *We.* Him hard against her spine and not moving. "The stillness he made of his own wanting was worse than any taking would have been." Yes. Exactly.
 
-"I thought you said no to that." "If it doesn't mean no anymore, honey, maybe you should tell him." And Randi's mouth curving when Vee describes Pace wiping it off with the sheet. I'm now nearly certain that wipe was never only courtesy. Whether he's being careful or following instructions, Randi knows exactly why that mouth gets wiped and hers doesn't. She's steering Vee toward her own taste, step by step, and that road ends at Randi's mouth. Vee got there by herself in the ladies' room.
+My complaints: the burn sequence goes a beat or two long, and by "married it" and "the fire under the fire" I'd started to feel the prose straining. The book also told me things it had already shown me ("It was mercy, and her body knew it for mercy," "Her pleasure had demanded steel"). I didn't need the caption. I was there.
 
-The bathroom scene was peak for me, explicit and in her head the whole way. Pace wipes it "every time she ran it back," and then a dark curtain, a lip line drawn a hair outside the lip, the mouth not wiping anything. "*what would Randi taste like*" and her knees go. That's the book doing exactly what I came for: you can't separate the heat from the self-knowledge. The aftermath was gorgeous too. She washes her hands, smells them, washes them again, and patches her face with a paper towel.
+What I'm sitting with: after 71, the bathroom, Randi's mouth coming up wet, "Starting now," this chapter is Vee doing exactly what she promised the windshield. All Pace, no Randi, and her body wanted him the whole drive. Good. But she can't finish, and she goes home carrying "the places he had not finished touching." Unspent want, two weeks after she promised to get her sex brain under control. That's a loaded gun, and Tuesday is coming.
 
-Then the phone. Randi was alone with it the whole time, screen still lit when Vee came back. My 1 a.m. text: "SHE HAD THE PHONE FOR TEN MINUTES. DID SHE SEND IT TO HERSELF. TO PACE." Even if she didn't, those glassy eyes. I believe that was grief. Randi is in love with her and just sat ten feet from her while Vee went off to come over a picture Randi was holding. Vee reads it as disapproval. I read it as a woman who's starving too. Her folder was already signed.
-
-The kiss, redone. "Let me say goodbye right." Vee's hands closing on her coat. Randi's breath isn't steady, and Vee decides she "must have been worried." Oh, honey. Then "You have a boyfriend," said to the windshield. I was wrecked.
-
-Gripes, short: "sex pervert" and "sex brain" are a bit juvenile, though they're in Vee's voice. There are more scenes I don't remember: "when you asked me about the taste," and "a sink under a blue light." "Miss November" landed anyway. And the retelling of the painting is a booth retelling, but it earned its place because the audience is the point.
-
----
-
-GATE 71 — Gesso
+GATE 72 — Burn
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 7
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "*Randi is your friend,* she told herself. *Don't be a sex pervert.*" For a line I thought it was going to be another getting-dressed opening.
-WHY: This is the book at full power: heat and interiority fused, with a clothed restaurant scene hotter than most of my Kindle. The redone goodbye kiss and Randi's glassy eyes over the phone turned the bond for both of them. I need to know what Randi did with that phone, and what Pace hears about it Thursday.
+ROMANCE: 2
+ALMOST-STOPPED: "There was no music. The absence of it sat in the room like a missing tooth the tongue keeps going back to." That was three paragraphs of warehouse with me wondering where Valentine's went.
+WHY: The care-as-foreplay at the bench and the burn-and-denial scene are this book at full power: a man whose restraint is the heat, and a heroine who chooses the fire on her own nerve. NEXT is lower than CAPTURE because the book silently skipped the two weeks I most wanted, Valentine's at the hall, Sheri and standards committee, and because I want Randi back in the room, not another Pace weekend.

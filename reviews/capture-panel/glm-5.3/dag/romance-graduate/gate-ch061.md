@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
-REACTION — Oh, this book. THIS is what I've been waiting sixty chapters for and didn't know it: the camera finally inside the room where the two of them are alone, and the answer is they're drowning just as bad as she is, maybe worse. This whole chapter is the blurb's promise being kept — "the two who moved her have fallen every bit as far" — and it's hotter for being the admission it is. The sex isn't the dirty part. The dirty part is that every confession arrives on a stroke. "I miss her during the day. More at night." Randi says it with him inside her and neither of them pretends it's pillow filler. And then "her nipple in my mouth" — coming while imagining Vee's breast in her own hand, "as if the wanting could cross through the body she offered him." That line is going to live in my head. That's the exact sentence the whole third game needed.
+REACTION — Oh, this book. I came off two chapters of the third-game pressure cooker — Randi saying "I want her to know exactly what she does to me" with Pace still inside her — and this chapter just... set all that down and took me to a taproom, and I'm not even mad, I'm moved.
 
-The power dynamics here are doing cartwheels and I loved every one. Pace lifting her and stopping — "I said all right" / "I heard you" — the consent-check-that-isn't-a-pause, both of them fluent in each other. Then he holds her still mid-stroke to ask "why didn't you?" and her answer about Vee making her laugh — "she knows exactly when I'm about to ask for more" / "and you let her" / "every time" — that's the warmest thing anyone's said about Vee in the whole book and it's said inside another person.
+The dread was so well done. The blonde Sheri Vee built — "the hair went gold, the leg went tan" — and then five foot nothing of permed roots and crooked makeup stands up off a stool, and the blonde "didn't die so much as fail to find anywhere to stand." I felt that in my actual chest. And the LOOK — the slow trip down that wasn't pricing her, wasn't ranking her, was ENJOYING her — stuck on the induction heels like "a word being kept for later." Vee laughing before she voted on it, a month of dread leaving in one breath. That's the good stuff, that's the interiority I'm here for.
 
-But the gut-punch: "You know she loves you, right?" — RANDI said it. Randi, who engineered a world where nobody has to spend words, told HIM the word on Vee's behalf. "She doesn't have to." And Pace's face softening before he can stop it, and Randi seeing it and landing "She's not the only one in love" and giving him no rescue from the sentence. He couldn't tell her she was wrong — and she meant herself as much as Vee, maybe more, and the book left it deliciously ambiguous which cut of that blade is which. The "Vee, I l—" from twelve chapters ago is finally being paid off sideways: the word everyone refuses to say is now sitting in THREE throats.
+But it's Sheri's second confidence that wrecked me. "Whole tablecloth come off the table and nobody caught a dish." And then Pace: drove her home, didn't ask one question, porch with coffee and donuts, fixed the lock, "he never handed me one false word." It retroactively explains everything — the hands that stay where the dance puts them, the whole hall giving up on him — and then "Went bad with his daddy. He hasn't been home since he was sixteen." The book just opened his back story through a stranger's mouth and had the grace not to decorate it. And Vee watching his back across the room while she learns it — I had to put my Kindle down for a second.
 
-Also — "her mouth stayed open around Vee's name without saying it." Nobody in this triangle can say her name at the moment of truth. It's becoming the book's whole grammar and I'm feral about it.
+The blush. Twice. "Bet those legs feel like Christmas" and this man who worked a whole party without blinking goes red to the EARS. Vee's right: she could watch that all night, and so could I.
 
-The comedy landed too — "Subtle." / "Elegant." / "I value your professional opinion" — this pairing is funnier than I expected, they're two control freaks with the same dry religion. And "I better clean up that mess before you stick it inside me" is the least romantic line in the chapter and I cackled because it's the most relaxed Randi has ever been. She stops performing for a whole paragraph there.
+I'm noticing what this chapter did structurally, too, because I can't not: the last two chapters were the third game running hot — Pace and Randi in bed talking about HER — and this one is the two-person bond getting re-fortified before Valentine's Saturday, which now has Sheri commanding attendance AND "bring your opinions." That's a loaded night on the calendar. And Randi didn't exist in this chapter at all, which after ch 61 is a silence I can feel on purpose.
 
-One thing I clocked and I'm not letting go: this is the first we've SEEN of Pace and Randi's sex life. It's exact, careful, permission-anchored — he stops, he checks, he waits — same architecture as with Vee. "You're still leading." "Yes." Now I know what the floor under everything is made of. Whether that floor is for Vee or for the system, still open.
+Small quibble, honestly barely one: the chapter is long and the middle sags a touch with the drinking-montage compression. But the ending bought it all back — headlights held on her door until the porch light comes on, "which he had done just now the exact same easy unannounced way he apparently did everything, everywhere, for everyone he kept, and had never once mentioned." Bacon cheeseburgers, to the window, to nobody. Ten and two. I'm fine. I'm completely fine.
 
-GATE 61 — My Pleasure
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The third game finally showed its face from the inside, the word-love is loose in all three of them, and it came wrapped in the hottest, funniest scene in the book. I would read the next chapter standing in the kitchen at 2 a.m. and I have.
+WHY: Zero heat and I didn't care — this was the tenderest chapter in the book, and the Pace-reveal through Sheri's mouth ("hasn't been home since he was sixteen") is the kind of payoff you read sixty chapters for. I want Valentine's Saturday and I want back to whatever Randi's doing after that ch 61 confession, and I want both immediately.

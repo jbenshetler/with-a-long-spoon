@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch049 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch049 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
 
-REACTION:
+REACTION — Oh. *Oh.* I've been waiting for this POV since the drawer, and the book held out on me until it would hurt most.
 
-Two New Year's Eves in a row, and I need to lie down. Randi's chapter was "she lay down in the middle of the perfect life and felt nothing" — and now Vee, in the childhood bed, in the lavender-and-fabric-softener dark, doing the same math from the other end of the money. What got me was that they were texting *at the same time*. Two phones, two facedown phones, both girls lying to the other with true words. Randi sent "miss your face most" and meant it two ways; Vee read it as a fairytale and envied it. Neither one is alone tonight and both of them are, and the book just held them side by side and said nothing, which is exactly how this book says everything.
+The Sheri scene first — that's the best conversation in the book and nobody took their clothes off. "She's told you what you have to do. So say it." Sheri is the only person who talks to him like a person and not a monument, and "never did learn my name" about Randi — Sheri clocked Randi in five seconds, filed her under harem applicant, and the terrible joke is that Randi is the *one woman who isn't*, and Sheri doesn't know it. "The curvy one." "The one with the big tits." I cackled and then felt gross for cackling because Sheri's describing Vee the way the whole world sees Vee's body, and Pace's whole thing has been that he never once did.
 
-The room not knowing her wrecked me. The ribbons, the little gold swimmers frozen mid-lift, "the room kept all of it dusted and had no idea who was in the bed" — that's the saddest sentence in a book that also contains Randi putting her face back on in a mirror at midnight. And the photo thing coming back around: her mother's version scissored at the waist by Vee's own thumb, "the exact thing that had made her feel like herself" cut away. She crops herself for her parents the same way the chapter's title got cropped off the photo Randi took. I keep noticing this book plants its wounds a hundred pages early and I only feel the depth of them when I step in one.
+And then the night alone. The photos, in order, "like reading." Randi's blanket folded back where it lives. The kitchen-in-the-morning fantasy — Vee in his sheet, Randi's feet up on the lacquered seat, the two of them laughing at something he missed — and I had to put the book down because he built the picture from things Randi told him in bed about Vee's kisses and things he's watched happen across his own kitchen, and it's a fantasy of being outgrown by two women he can't say the word to, and he's *glad* in it. Glad is not what's wrong with him. God.
 
-The blonde at the stove. God. "She could not keep her own night." That's the whole chapter — she reaches for her best memory to be warm and the memory mutates under her, gold hair, tan leg, a body that never needed building for. Spite as a coping mechanism, midnight certainty. I've *been* that girl at midnight. Not with a Pace, but with the believing-your-worst-invention part, absolutely.
+But the part that wrecked me is the engine. An engine on the highway, not slowing, and his whole body turned toward it before his head had a vote — and he sobbed over a truck that wasn't hers. Pace. PACE. This man who does everything in measured doses, drinking alone for the first time, eating chicken he has to command down his throat, and then the wrong car in the dark takes his legs out. "He had hurt her because he was afraid of how much she could hurt him." That's the whole book in one sentence and he said it to himself in a hangover, alone, with cold broccoli.
 
-And underneath all of it, the thing nobody's said yet: they had a fight — the real one, "words are cheap, and you still won't spend them on me," and she walked out, and there's been *nothing since*. Not across the whole break. She doesn't know if they're broken up and neither do I, and I genuinely don't know which way the book is going, and that's the thing pulling me forward more than anything. He's had a week she "couldn't see into." He cooked for Sheri at Thanksgiving and said nothing about Christmas. The book has taught me that Pace's silences are always full — the drawer with no note — but Vee can't know that, and I'm only half-sure of it myself now.
+And the Daphne logic — he taught himself that the words were the difference, that unspoken love is survivable love, and the tragedy is it WORKED for years, it's a working system, and Vee broke it by asking for the one payment the system doesn't accept. "Whiskey River was a liar" — that line is going to live in me. The whiskey took his balance and his dinner and left every memory of Vee intact. Yes. That's what being wrecked actually is.
 
-Also: "He is not just any safe. He was the whole safe life" was last chapter, and this chapter Vee's envying it from the twin bed — the poisoned Gstaad — while Randi's lying in it unable to feel a thing. The two of them want each other's lives. Neither can run the scenario where they just have each other. I'm going to need term to start immediately because I need Randi's face lighting up and I need it about five pages from now, even though I know — I *know* — that the light-up is part of what's costing everyone.
+I noticed the date — this is New Year's Eve, the SAME night as chapters 48 and 49. The book braided it: Randi lying in borrowed warmth in Gstaad, Vee in the lavender dark letting sleep take her still reaching, and Pace sobbing over a truck in the dark. Three people, one midnight, all three alone and all three lying to themselves about the shape of it. I only clocked it partway through the diner scene and had to go back. Worth it.
 
-This was a quiet chapter but it's the second one after Randi's, technically — though Randi's had the ball and the sleigh and the bed. This is the first truly still one. It held me anyway because it's all interiority and the interiority is earned. But if the next chapter is also somebody lying awake with a phone, I'll start skimming.
+"He ate anyway." Kill me. The man disciplines his grief like a meal plan.
 
-GATE 49 — Old Acquaintances
+GATE 50 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "and what about Pace? and nothing came after it" — not a stop, but the closest I came to flipping ahead out of impatience; I want the reunion, not another vigil.
-WHY: A whole chapter of a girl alone in her childhood bed and I never once wanted to leave it — the cropping, the mutated memory, the twin-texting symmetry with Randi all landed. The Pace fight is unresolved and the book has me genuinely unsure, which is the thing I read for. Heat zero, need for the next chapter enormous.
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Zero heat and the highest romance score I can give, because the engine-not-slowing undid me more than any sex scene in the book — this is the interiority I've been starving for, the exact place where love and failure share a body. All three of them are alone on the same midnight and the new year is about to slam them back together. I need to know if he says it — or if Randi's counting gets there first.

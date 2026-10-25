@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch009 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha be1dc7d466f1 · experiment merge-substitution · dated · 2026-10-25*
+
+REACTION
+
+Okay so the structural thing I clocked immediately: she tells the date twice. Cassie first, then Randi, same beats, the tree and the starchy line and *I kissed him*. My thumb twitched there — I've been trained by five hundred books to skim the second telling. And then I didn't skim, because the two tellings aren't the same transaction at all and the book knows it. With Cassie it's confession; Cassie's first instinct is *how much did he give you to drink*, which is the single most loving line in the chapter and also the only sane question anyone has asked in nine chapters. With Randi it's a *deposit*. Vee hands it over and Randi takes it and turns it a quarter inch — "You let him choose for you. And you liked it." — and Vee's dignified version ("I made an exception") dies in her mouth and out comes "Because of him." That's not a friend drawing you out. That's a woman setting a hook and I watched her set it and I could not look away.
+
+And **"Paul?"** The finger-snap. Randi pretending she can't remember the name of the man she was straddling on a couch two days ago tasting wine out of his mouth while she made him *tell*. I actually said something out loud. That's the thing I came to this book for and never get — I'm not being handed irony, I'm being handed a performance and left to hold both scripts at once. Same with "Was Cassie not coming? We could have dragged her." She absolutely could not have. She's been subtracting Cassie since chapter four and this is her doing it with the warmest possible face, and Vee builds the rationalization herself — *it's fine to have your own people* — and the book just says "underneath it something turned over, small, and she let it lie." Thank you for not explaining it to me. One sentence, no footnote, move on.
+
+The Cassie thing is starting to actually hurt. That look going past Vee to Randi and then folded away before Vee can see it. "I'll see you at the dorm." *Goodbye, Vee* in chapter four is now a different word than it was. I have a bad feeling that Cassie is going to be collateral and that it will be done entirely by omission — nobody will be cruel, Vee will just stop being available, and that's going to be worse than if someone were cruel.
+
+Then Brooke. Brooke scared me more than Pace's bench did, which is a sentence I didn't expect to write. The smile that "took her measure, top to bottom, and stayed warm the whole way." The silent tall one doing her slow circuit and handing back nothing but more smile, the look you give a thing *once you're done turning it over*. And "We missed you Thursday" — one friendly sentence that puts a whole private week on the table that Vee isn't in. Vee going "very slightly the wrong size for the room." God. I know that feeling in my body and I have never seen it written that economically.
+
+And then the actual event: *Vee's my dear friend.* With the cool damp hand taken on the white tabletop in front of the chapter president who interrogated her in a common room about whether Pace was real. Vee reads it as generosity and cannot name what it cost; I can name exactly what it cost, because I read chapter two. That's Randi putting a sliver of the real thing on the table in front of the one woman in her life with the authority to price it. That's the first time she's spent anything on Vee that wasn't strategy — or it's strategy that happens to be true, which is the whole machine of this book, and I genuinely cannot tell which and I don't think *Randi* can either. The hand being damp from the iced cup is why I believe it.
+
+Also: "No bra is not an option for me" + the lift to make the case. That's the first time Vee's body has been funny instead of a problem, and Randi's bark of a laugh turning a head at the counter, the two of them up on their shelf laughing — that was the warmest thing in the chapter and it's the thing that makes Randi dangerous, because she's *fun*. And then "Ask and then ravish," a beat late, at Vee's own volume. Randi slipping. Her hand on her own thighs. Vee half up the trail and feeling her *there in it beside her*. That's the whole jacket in two lines and nobody said a word about it.
+
+What I'd text at 1 a.m.: *the villain just called her "my dear friend" in front of her boss and MEANT IT and that's the problem.* Also: I want the hike. It's been promised twice now, Randi has pre-loaded it with a fantasy, Pace is going to have real shoes and water and a trail he knows, and Vee has never done this in her life. Take me up the mountain.
+
+GATE 9 — Dear
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "There's this tree. And he stops." — the second full retelling of the kiss, when I'd just read the kiss; I nearly thumbed past it.
+WHY: It's a debrief chapter and I don't care, because the debrief *is* the mechanism — Randi harvesting Vee with her own hands while pretending not to remember Pace's name. "Vee's my dear friend" is the first real cost anyone in this book has paid out loud, and it got paid in the wrong direction. Give me the mountain.

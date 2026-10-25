@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ba0f4b39c8e6 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 18336f94a8c1 · experiment merge-substitution · dated · 2026-10-25*
 
 REACTION
 
-God, the sick, delicious dread of this whole setup. My stomach was in knots from the second Randi picked up her phone to text him.
+Oh, this is devilish. This is so deeply, deliciously fucked up and I am eating it with a spoon.
 
-The sheer *craft* of their little trap. Randi steering Vee to "the place on Wilson" (which we already know from Chapter 2 is where Randi claims she goes to study late—it's their territory), Vee being stuck on a math problem, Randi casually texting under the table, and then Pace just happening to walk in and "notice" a girl struggling with calculus. And the terrifying thing is that Pace didn't even have to fake being brilliant or gentle. He actually *is* that patient, exact, courtly man who hands you back the pencil so the victory belongs to you. That’s what makes it so lethal. He isn't playing a caricature of a predator; he is playing *himself*, just weaponized into a meet-cute.
+The dramatic irony is suffocating in the best way possible. Watching Vee walk blindly into the spiderweb while feeling so *special* and so *seen*—god, it hurts. The texture of it is so sharp. When she uses Randi's little "Yes, like the university" bit to seem charming? That made my chest ache. She is already trying on Randi’s skin, completely unaware that Randi and Pace literally *picked her out like fruit at a stand* a week ago.
 
-Watching Vee from inside her own head while knowing the blueprint from Chapters 1 and 3 is pure psychological torture. She's so hungry to be seen, so sharp with her economics brain—ironically noting "the gap between what people say they're doing and what they're doing"—while she is walking blindfolded into an architectural marvel of an ambush. When she borrowed Randi’s little self-deprecating bit about her name, my heart just broke for her. She wants so badly to belong to this effortless, shining world, and she thinks she's blooming, but she's being cultivated.
+And Pace's absolute mastery of the setup. The way he approaches the math problem—not flexing, not taking the pencil to show off his PhD, but handing her the tool, making her feel smart, asking for the pencil with his eyes—it's pure seduction masquerading as respect. "He had kept himself out of it so the solving stayed hers." That line is brilliant because that is his entire MO. He did it with the bench, he does it with the math, he does it with the conversation. He builds the container and lets the woman think she's filling it entirely by her own choice. *Every yes was freely given.* Christ, the tagline is already ringing.
 
-And Randi! Randi sitting there, nursing an empty cup, not taking a single sip, performing the supportive girlfriend/cool-girl friend while her heart is probably beating out of her ribs. That detail where she asked about Bessel's correction—just to give Pace an excuse to demonstrate his authority, or to hear him speak to her in public, or maybe just to make the stranger-routine airtight. Then pointing out that he left without his coffee to seal the deal in Vee's mind? Diabolical. Truly diabolical work.
+And Randi! Watching Randi play the disinterested, slightly bored friend while her hands betray her—holding the coffee cup with both hands, not taking a sip, giving Pace the flat, unadorned "Randi" with no charm because she's terrified and electrified all at once. Then pushing Vee toward him immediately. "He wants to see you naked." Randi orchestrating her own cuckoldry/fantasy in real time, getting off on the edges of it while Cassie sits right there, being the grounded Greek chorus who sees everything and says nothing. (Cassie's line about him looking at Randi "the way you'd look at somebody's great-aunt"—perfection. Pure operational cover from Pace.)
 
-Cassie remains the MVP Greek chorus. "He looked at her the way you'd look at somebody's great-aunt." Cassie knows something doesn't smell right, even if she can't name the game yet.
-
-There wasn't a stitch of clothing removed here, but the tension was thick enough to choke on. The "May I call you?" hit like a physical shock because we already know what this man sounds like when he's taking someone apart on a leather bench. I need the next chapter immediately.
+The froyo date was quiet, but it had that terrifying, tender weight. When Vee admits, "This is the nicest a person has been to me in a really long time," I felt a physical pang. She is twenty-one and starving for actual attention, and this predator-craftsman is giving her the exact dosage she needs to unravel completely. It’s not explicit in this chapter, but the psychological charge is sky-high. I am locked in.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
@@ -21,4 +19,4 @@ NEXT: 10
 HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The dramatic irony is wound so tight it's practically humming; watching Vee fall completely under Pace's exact, courtly spell while Randi puppeteers from the next chair is masterclass psychological suspense.
+WHY: The trap snapped shut with absolute elegance; the tension of Vee feeling truly seen by a man who is running a bespoke, pre-planned campaign on her is agonizingly good. The writing has real emotional intelligence and trusts me to feel the horror and the pull at the same time.

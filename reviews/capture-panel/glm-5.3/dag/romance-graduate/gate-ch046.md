@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch046 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
 
-REACTION — Well, that's the shirt arc closed and it closed like a knife. I need a minute.
+REACTION:
 
-It's two in the morning and I'm sitting here in my own dark having *feelings about a flannel*. That's what this book does to me. It takes a trope I've read a hundred times — the girl in the boy's shirt, I've seen it on a thousand covers — and it follows the trope all the way down to the truth underneath it, which is that a shirt is a stand-in, and a stand-in only works until you notice it's standing in. She *names* it: "the heat in the shirt was her own, given back." That's the loneliest sentence this book has written. Not the parents wall, not the brunch lies — this. She wore his smell like a promise and then felt her own body heat it and understood there was nobody in it. And then she took it off and lay in the cold *on purpose*. She stayed in the worse thing. That's not wallowing, that's a girl refusing the comfort she's figured out is fake. That's the econ eye coming back online and I both cheered and hurt.
+I put the book down and had to sit there for a minute. That was the fight I've been waiting the whole volume for and it hurt exactly the way it was built to hurt.
 
-Because here's what I clocked, and I'm a little smug about catching it: this is the answer to chapter 44. The porch — "I love how good we are together" — the small *wait* behind her breastbone. The book told us she filed it. It didn't tell us it would keep rusting in the drawer. And now it's five nights of his shirt, then no shirt, then bare in a cold room while he sleeps "easy as a man with nothing grinding in him." That's the pile she wouldn't look at in the laundry room, and now she's lying in it. Literally.
+"Words are cheap, and you still won't spend them on me." I actually gasped. That's the line of the book so far. Because she's RIGHT and the book knows she's right and Pace knows she's right — you can see him know it, "something went across his face and shut." He's not withholding because he doesn't love her. We know he loves her; we've watched him love her in drawer-joists and pre-heated houses and wearing two shirts in his own kitchen. He's withholding because the word costs him something we haven't been shown yet, and I keep coming back to that wall — "I don't go back." There's a reason the word is dangerous to him and I dread finding out what it is almost as much as I need it.
 
-And I have to hold the thing I know that she doesn't, which is getting harder every chapter. He's lying there easy because *the architecture is settled* — Randi's on the other line, the con ran exactly as designed, and the man got everything he built for. Except we've watched it stop being a con for him too — the drawer, the two shirts, "I'll be careful with you." So his ease isn't cruelty, it's a man who doesn't know yet that he's in the thing he built. But she doesn't know ANY of that, and she's stripped down to nothing in the cold trying to find the seam with her hands, and the seam is on the other side of a woman she calls her best friend. The blurb promised cost. I can hear it coming now, and it's going to arrive through Cassie or through that graph — MIRA, God, "that's more than three" — and I don't know which of them breaks first.
+But God, the awfulness of "Do any of your friends have a relationship you'd rather have than this one?" — it's TRUE, it's even generous, and it's still a dodge dressed as wisdom. He answered a question about her with a question about other people. And then "words are cheap" from a man who has never once spent one carelessly — the cheapness argument doesn't even hold in his own mouth, and I think he heard that a half-second too late.
 
-The phone thing wrecked me too. "The ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." She's finally learned the shape of the trap — she KNOWS the warm answer is a pacifier now. That's growth, in the cruelest direction. My girl learned to count again and it's ruining her.
+What gutted me most is the machinery of the whole chapter working against her: the house already warm, the wine poured, the chicken going, the piano. She walked into an ambush of tenderness and held anyway. Coat buttoned to the throat. No bag. She didn't even bring the overnight bag — the bag that was her idea, weeks ago, "I'm going to start bringing a bag." She left it in the car. That detail is doing so much work and none of it is underlined and I love this writer for it.
 
-Okay. It's a short chapter, a two-page chapter, and I finally know how I feel about those: it's not a shortcut, it's a held note. That one worked on me.
+And him reaching for her with the hands when he can't reach with the word — "not the hand in place of the word" — and her WALKING. She walked. Vee, who files every yes with her body and lets the mouth catch up later, finally let her body carry her OUT of the warm instead of into it. That's the biggest thing she's done all book and I'm terrified for her because I don't know if the book agrees with her or if it's going to punish her for wanting the word.
 
-GATE 46 — Bare
+Which is my one flicker of unease: I'm braced for the narrative to side with Pace. That the lesson will be "the word was in the drawer all along, you just had to stop needing it said." If that's where this goes, I will throw the book. She's allowed to want a name. Wanting the name isn't a defect in her — it's the first fully adult thing she's demanded since the induction stride. Please let the book know that.
+
+One a.m. text to my friend would read: "SHE WALKED OUT. he said WORDS ARE CHEAP. I need the next chapter like I need oxygen."
+
+GATE 47 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat at all and I don't care — this is the emotional turn the whole fall has been earning, done in her own body and nobody's dialogue. I need to see what she does in the morning with no shirt and no sleep, and whether she finally says the thing out loud to anyone who isn't asleep.
+WHY: Zero heat and I couldn't look away for a second — the fight the whole book has been winding toward, and both of them were allowed to be right and wrong at once. The only thing that would have lost me is the book taking his side cheaply, and the writing has earned too much of my trust to expect that. I need the next chapter tonight.

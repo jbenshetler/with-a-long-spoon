@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha be1dc7d466f1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
 
 REACTION
 
-Jesus Christ, the dramatic irony in this book is like a slow-moving piano dangling over Vee’s head by a single thread, and I cannot look away.
+Oh, my God. *Oh, my God.*
 
-Watching Vee report everything back to Randi with that breathless, starry-eyed college girl innocence—completely unaware that every single detail she's confessing is being fed directly into the machine Randi and Pace built for her—is devastating and delicious. Randi casually throwing out, *"Ask and then ravish,"* and Vee feeling like she has this intimate coconspirator, when in reality Randi is literally choreographing the steps. And then the detail of Randi deliberately misremembering his name at first? *"Paul?"* God, she is so calculated, but the cracks are already there.
+My stomach actually dropped in that truck. When he stepped out into the pouring rain to give her privacy, and she sat there cold and shivering and realized *no, I don't want privacy, I want him in here, I want him to look at me*—and then tapped on the glass with her knuckles and crooked a finger? My jaw hit the floor. The absolute brazen, delicious nerve of her! For a girl who has spent her entire life shrinking away from the leering gaze of frat boys and the suffocating, shame-soaked policing of her mother, choosing to summon him back into that cab, getting up on her knees on the bench, and slowly unbuttoning her wet shirt while holding his eyes? That wasn't just hot; it was a revelation. It was her taking the heavy, awful shame of her mother’s voice—*floozie, what kind of girl*—and turning it into pure, unadulterated erotic fuel.
 
-Because then Brooke walks in. That scene at Smoothie Bird gave me chills. The predatory social geometry of the sorority alpha clocking the "new friend," and then Randi taking Vee’s hand on the table—cold and damp from the cup—and saying, *"Vee’s my dear friend."* Randi spent social capital right there. In Chapter 2, Randi was terrified of Brooke's little spreadsheet interrogations, lying through her teeth about Pace to protect her standing. Here, she willingly takes a hit from Brooke's immaculate, razor-sharp smile to claim Vee in public. Vee thinks it’s this pure, intoxicating validation of being "chosen" (which she is so desperately starved for), but for Randi, it’s this messy, dangerous intersection of the game, her actual burgeoning obsession, and defiance against her own gilded cage.
+And Pace! The discipline on that man is a lethal weapon. He didn't pounce, he didn't reach for her, he didn't try to play the conquering hero. He just sat there, taking in the gift she was offering, with that stillness and gladness, letting her command the moment entirely. And then the twist that broke my heart and made me want to climb through the page: she reaches for his hand to pull him into a kiss, and he is *shivering*. He stood out in the freezing mountain downpour without a coat, soaked to the bone, just so she could feel safe. And she tucks his frozen hand under the dry flannel against her bare stomach to warm him. The tenderness of that! The sheer, staggering weight of it!
 
-Also, Cassie continues to be the only person with both feet on the damn ground. *"Rich people hike. Poor people walk."* God, I love her. Her quiet skepticism and dry protective instincts ground this entire narrative so it doesn't float off into pure fantasy.
+The hike itself was gorgeous, too. The cherry pits on the wax paper, the horseradish catching in her throat, the way he cut the moleskin and laced her boot without an ounce of condescension—he's not just seducing her, he is steadily, methodically teaching her that she is allowed to have needs, allowed to take up space, allowed to want things. That moment where she confesses she wants the russet silk dress, instantly shames herself for wanting something beyond her station, and he just softly says, *"That sounds like a beautiful dress,"* leaving it on the rock between them? He is going to buy that dress. I know it in my bones. And it's going to wreck her.
 
-The heat here wasn't between two people in a bed; it was in the friction between Randi and Vee over a table, the heavy subtext when Vee talks about her chest and Randi barks that laugh, the cool hand covering hers. It’s simmering, psychological, and completely compelling.
+The only thing that made me want to scream was that campus cop barking the siren at the very end, cutting off whatever she was about to say and sending her scurrying inside like a scolded kid. But maybe that's perfect. She walks into that dorm smelling of him, wearing his dry flannel, soaked jeans clinging to her legs, holding a balled-up wet shirt, with Cassie sitting right up there waiting. Cassie is going to look at her in that oversized flannel and know *everything* shifted.
 
-GATE 10 — Dear
+GATE 11 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is humming now. Watching Randi defy Brooke to claim Vee as her "dear friend" completely shifts the dynamic from a clinical seduction game into something messy, dangerous, and emotionally real. I need to see what happens when Pace gets Vee on that mountain.
+WHY: The absolute electric charge of her summoning him back into the truck to watch her strip, combined with the staggering tenderness of her warming his freezing hand against her stomach. I'm completely hooked—give me the next chapter right now.

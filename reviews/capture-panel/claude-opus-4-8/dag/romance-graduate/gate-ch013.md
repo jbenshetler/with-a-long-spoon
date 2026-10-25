@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch013 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
 REACTION
 
-Oh, now we're cooking. This is the chapter I didn't know I was waiting for — the whole operation turned inside out and laid on a bed with the lamp on.
+Okay, so this is the hike a third time. I watched it happen in eleven, I watched Cassie get the stripped-down version in twelve, and now Meg and Kayla get it over cafeteria fries with the shirt as the serialized cliffhanger they've apparently been waiting on. And here's the thing that annoys me and then doesn't: I came into this chapter with my thumb already twitching because I know this move, the recap-to-the-girlfriends, and nine books out of ten it's padding. But Rivers isn't retelling the hike for the hike. She's showing me Vee *performing* it. The story's "getting better in the telling and she did not care" — that's the tell. Vee's building the legend of Pace in real time, out loud, to an audience, and she doesn't hear that she's doing exactly the thing Randi taught her to do at the white table. She's the one pouring now. Different mouths, same spilling.
 
-So Chapter 11 she takes her shirt off for him in the truck, the big brave underwater self coming up for air, and he's so cold he can't even — he just looks, and it's the most generous thing. And then THIS. He drives home, showers the cold out, and Randi comes over and climbs on top of him and won't let him answer "how was it" with his own mouth — she takes the answer off his tongue. And then: *Tell me.* And what she wants isn't the trail, it's Vee. She wants the gardenia and the musk and the chlorine under the shampoo. She fucks him while he reads Vee's body aloud like a menu, and I felt the floor drop. *Everyone here drinking the thing they want through someone else's mouth.* I wrote that in my own notes two chapters ago and here it is, naked, no longer a motif — it's the actual mechanics of her orgasm. She comes on the words. "Her stomach is soft" and she clenches like a board.
+What actually got me was Meg. "Everybody's different at the start. I said it about Danny. Word for word, I think. He's different." And Vee lets it go by, "it didn't catch on anything." That's the scariest line in the chapter and it's thrown away on purpose — the one ordinary warning a normal friend would give, and it bounces right off her because her version really *is* different, except not in the direction she thinks. Meg's wrong about why and right that Vee can't be reached.
 
-And he KEEPS the truck. He doesn't tell her how he knows the stomach is soft. He curates again — withholds the real tender thing, the shirt, the shaking hands, the knock on the glass. He gives Randi the surface and keeps the inch that mattered. That's the asset-management I flagged, and it's getting sharper, not softer.
+And then the detail that made me actually put the book down for a second — these are Meg's boots. The ones that gave Vee the blister in eleven. Meg is sitting right there eating cheese, no idea her boots are a load-bearing part of the romance she's following "in installments like her shows." Everybody in this book is watching a different show than the one they're in.
 
-But here's what actually has me sitting up at 1 a.m.: *"I want us,"* torn out of her, and then — she doesn't stay. She NEVER leaves after. She stays, she sleeps, she drives home in the morning clothes. Tonight she pulls the blanket around herself the second the chill hits, says "no thanks," gets dressed, kisses him thoroughly, and goes. And he's left standing in the open door with the cold coming in and this low plain thing in his chest he "had not been ready for." The man who reads every body in every room can't read her. He files it as "the want, too big to lie still under." He's wrong and I know he's wrong and that's the whole book.
+The invitation. "Would you come to my house Saturday. Two o'clock." Kayla calling it a ransom note, "there's no meal at two, Vee, he's not asking you over to eat, he wants you for the afternoon" — and I went cold, because I know what's at that house. The bench. "Do you think she'll like the bench." Saturday at two is the thing the whole book has been walking toward, and Vee's heart doing "something quick and light and stupid, and she let it" is unbearable because she thinks she's going to a man's house for the first time and I think she's going to find Randi there. The least-information text in the world, and we're the only ones who can read it.
 
-Because I know what "I want us" is. It's the bench from Chapter 1. It's the thing she begged for and then bolted behind the face "not ever." She let it out — *I want us* — and the instant it was out she couldn't stay in the room with him. The leaving IS the sealing. He thinks he gave her more than she could lie still under; what actually happened is she got too close to the thing she can't survive wanting, and she ran, and ate nothing, and he ate alone twice. The architect is losing. The jacket said it gets real for all three and I'm watching it get real for *her* first, against her will, and she's terrified.
+So: a bridge, and I clocked it as the third telling and nearly skimmed. But it's a bridge that cocks the gun. I want Saturday now.
 
-What I'd text a friend: HE DOESN'T KNOW SHE LEFT BECAUSE SHE'S IN LOVE. He thinks it's appetite. And she'd rather die than let him see it was the opposite.
-
-Also — crucial — the chlorine. He smelled a pool in Vee's hair. Cassie swims. Vee swims, used to, underwater is her one safe place. He hands Randi "chlorine, like a pool" as an erotic detail and it goes straight through her and tightens her grip. Nobody in that bed knows what the pool means to Vee. It's the most private thing she has and it got served as garnish. That's the scalpel starting to turn, even if no one's holding it on purpose yet.
-
-Three short-ish chapters in a row now, all same-day, Sept 27 — but this isn't a stall, it's a triptych. Vee's version (truck), Vee telling Cassie (Rye), Randi's version (this). Same evening, three mouths. The structure is doing the substitution thing too. I'm not skimming. I'm hungry.
-
-GATE 13 — Swim Lanes
+GATE 14 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 5
 NEXT: 9
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The "tell me" scene made the book's whole thesis carnal and then gutted it — Randi coming on Vee's secondhand chlorine and then fleeing the bed the one time she says "I want us" is the architect getting caught in her own net, exactly the thing I've been reading toward. Heat and depth finally fused in one body, and he's reading it wrong in real time, which is unbearable in the right way. I want the next one now.
+ALMOST-STOPPED: "The shirt. Vee felt the smile arrive before she'd cleared it." — the hike starting over a third time, and me thinking, I was *there*, I don't need the tour again.
+WHY: It's the recap chapter I'd normally resent, but the performance underneath it is the point and that bought it back, and the Saturday-two-o'clock summons landed the exact hook I've been waiting ten chapters for. I'm not reading on for *this* chapter — I'm reading on for what it just scheduled.

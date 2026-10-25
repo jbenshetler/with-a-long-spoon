@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch008 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
 REACTION
 
-God, that paragraph underwater hit me right in the chest. "She had loved this before she had a body to be a problem, and the water was the one part of it that had never been taken." Every woman who developed early or developed *a lot* knows that exact grief—the before and after of when your body stopped being just how you moved through the world and became public property that men in bleachers feel entitled to yell at. Carrying the rolled towel down at her side instead of holding it across her chest, making it an entrance because the only path is past the bleachers... it's such a specific, exhausting armor.
+Oh, I am in so much trouble with this book.
 
-And I love Cassie so much it actually hurts a little. Especially coming right after Chapter 7 with Randi and Pace doing their dark, hot, tangled little dance on the couch (where Pace totally misread Randi going stiff with jealousy when he said *I made her laugh* and *She's easy to listen to*—he thinks she's holding back desire for Vee, and I'm ninety percent sure Randi just felt the first cold prickle of Pace actually liking the girl). Putting this sweet, chlorine-smelling, zero-agenda friendship right after that is almost cruel, because Cassie sees Vee completely without wanting to consume her. She doesn't pitch her voice to the bleachers to make a scene, she keeps the joke low just to break Vee's held breath. She doesn't ask "what's wrong" when Vee surfaces sad, because "asking was for people who wanted the sad version to get bigger"—she just shoots water at her head until Vee makes her ugly shriek-laugh.
+Everything about this chapter shouldn't be as hot as it is—they literally eat Lebanese food and hold hands and kiss once—and yet my stomach was doing flips the entire time. Because the blurb promised me *"he asks before he takes, until choosing becomes the most erotic thing she has ever done,"* and watching him lay that foundation with her here is just masterful.
 
-It’s three short chapters in a row now, and zero heat in this one, which normally would make me twitchy, but they haven't felt like throat-clearing—each one is a clean little cut showing a different angle of this trap before it closes. Though I'm definitely ready for a full-length scene again, and ready to see what Pace and Randi do next now that Friday is here.
+First of all, the contrast between Randi and Vee around food is breaking my heart in the best way. In Chapter 1, Pace had to slice an apple paper-thin and lay it cut-side up just to get Randi to let herself eat a few pieces. And here's Vee, who forgot to eat lunch because she was trying on dresses with Cassie, tearing into hot pita and baba ghanoush and tabbouleh until the hollow in her goes quiet, not watching herself eat for once because he doesn't think there's anything to police. And when that drip of smoky dip hits the side of his hand and he just licks it off without breaking his sentence, and she completely loses the thread of what he's saying? God. I felt that right in my spine. Also, I clocked the detail about him only eating with his right hand—he actually knows the cultural etiquette, he speaks the Arabic words softly and properly, he knows Christine the owner—he's a real person who has lived a real life, not a cardboard "cultured alpha" ordering the whole menu to flex his Amex.
 
-GATE 8 — Water Wings
+Wait—actually, something spooky just clicked for me. When Vee completely zones out at dinner and stops tracking the words, just floating inside the warmth of his voice while he carries the whole conversation... she did the *exact* same thing with Randi at Chi Latte in Chapter 4! Remember? She walked away from that coffee date unable to remember a single word Randi said, just totally high on the feeling of being chosen and held in the light. She's so starved for someone to take the weight off her that when either of them does it, she basically goes into subspace at the table. That's fascinating and also makes me so nervous for her, because she is walking into the jaws of two people who are *very* good at this.
+
+And then the kiss! Look, I've read chapter one. When he gives her a small kiss and eases back a breath of space and waits so she has to be the one to lean back in and take it—*that's his move!* We saw him do that exact thing to Randi at the front door ("that was what he did, he backed off and let her decide"). And yet it doesn't feel cheap or sleazy when he does it with Vee; it feels like that's just genuinely who he is and how he operates. When she dropped her little rule ("I don't kiss a man I've known a couple of days") and he didn't argue or smirk or wait her out, he just smiled like it was a lovely thing about her and started walking again until *she* pulled his hand taut... I actually held my breath.
+
+Cassie continues to be the MVP ("That's not a boy. That's a man."). And now I am dying to know what happens after this walk, and whether Randi is about to show up at his house with another glass of wine demanding every detail, or if Vee is going to spill it all to Randi at lunch on Monday.
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat or romance here, just a gorgeous, aching two-page portrait of Vee's relationship with her own body and the one friend who loves her with no strings attached. It makes the coming trainwreck with Pace and Randi matter ten times more, though after three brief chapters I'm ready to sink into a long scene again.
+WHY: Who knew tearing hot bread and a single first kiss could carry this much erotic and emotional weight? The parallel between how Pace handles Vee and how he handles Randi—and how deeply Vee is falling into the relief of letting him lead—has me completely hooked.

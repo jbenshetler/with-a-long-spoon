@@ -1,16 +1,26 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · dated · 2026-10-24*
 
-REACTION — There is something deeply grounding about watching a girl who has been spun off her axis for weeks finally get into cold chlorinated water and just do the physical labor of being an athlete again. The sensory details of lap swimming—the rhythm of the strokes, the breath count, the way exhaustion strips the chatter out of your head until there’s only the black line on the bottom of the pool—felt completely earned and real.
+REACTION
 
-What stopped my heart for a second wasn't erotic heat; it was that sudden, terrifying flash of grown-up clarity she gets mid-set: wondering if the man she's falling for is actually who he appears to be, or if she simply fabricated him out of sheer, starving need because someone finally looked at her. That is the first real crack of self-awareness we’ve seen in her all book, and it’s huge. It proves she isn't just an empty vessel being passed back and forth between two manipulative lovers; she has a spine and a brain in there, even if she quickly submerges it again to finish her laps.
+My stomach dropped into my shoes the second she asked, "Would a picture help?"
 
-That being said, my romance-reader radar is pinging hard. We just had the quiet domestic evening and the drawer reorganization, followed by the quick dorm room debrief with Cassie, and now an entire solo chapter of swimming and zero spoken dialogue. This is three low-simmer, contemplative beats strung together. I love interiority—I live for it when it's this sharp—but after the high-wire act of the brunch confession and the spanking bet, the plot momentum is starting to drift. I’m giving it grace because the psychological insight here was necessary to keep Vee from looking like a total dupe, but the book is testing my patience for quiet bridge sequences. Something needs to collide soon—Randi, Pace, the looming secret—before the tension goes completely cold.
+Vee, no. Oh, honey, *no*.
 
-GATE 37 — Strokes
+The sheer dramatic irony in this book is becoming an actual physical ache. She sits there thinking, *He’s all mine,* looking down at him resting his head on her chest, completely convinced she has found the ultimate sanctuary. And then she gives him a naked picture on the condition that he never share it, and he says he’d never share her photograph—which, knowing this exact, technical bastard, is probably mathematically true in his head because he won’t *forward the file*, he’ll just describe every millimeter of it to Randi over a bottle of wine while Randi rides him into the mattress. Or worse, Randi will just pick up his phone on a Friday night.
+
+The staging of that photo shoot was so intensely Pace. Unhurried, meticulous, moving her limbs like he was arranging a sculpture, adjusting the lampshade to cut the glare, making sure the lighting was technically perfect before taking the shot. It’s that exact blend of profound intimacy and clinical curation that makes him so fascinating and so terrifying. She thinks she’s doing an empowering pinup shoot for the man she loves; he’s archiving her.
+
+And then the domesticity in the kitchen, which just makes the trap hurt worse. The way Rivers writes food—the lemon zest, the garlic crushed under the palm, the sizzle of the chicken, the unbothered glug of wine—is just as sensual as the bedroom scenes. But look at the landmines laid in the last four paragraphs! "I don't go back." He shuts the door on his parents so fast and flat it gives you whiplash, another glimpse into that deep, isolated well of his childhood. And then Sheri. He drops Sheri’s name so casually—cycling partner, coming over for Thanksgiving with a fake-homemade pie—and Vee just swallows it whole because she thinks they’re two lonely orphans sharing a holiday meal. Meanwhile, Sheri already knows about the whole tangled mess, knows he's juggling two women, and Vee is totally blind.
+
+The house of cards is getting so tall and so intricate that even a stiff breeze is going to level it. Vee is completely, helplessly in love, walking around in his t-shirts and his drawers, handing him naked photos, while he lives in an entirely separate reality that she isn't even allowed to glimpse. It’s breathtakingly cruel and utterly addictive.
+
+***
+
+GATE 38 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological honesty of Vee wondering whether she invented this dream man out of pure desperation kept me hooked, even while three quiet chapters in a row have noticeably cooled the book's pacing. I need the triangle to heat back up soon, but I respect that her inner life is finally catching up to her body.
+WHY: The sheer impending catastrophe of her handing him a naked photo on the promise of secrecy, combined with the chilling, casual mention of Thanksgiving with Sheri, made my chest tight. The intimacy is gorgeous, which only makes the inevitable detonation feel that much more devastating.

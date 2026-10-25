@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
 
-REACTION — God, this one got me in the ribs. It's a quiet chapter — nothing but two girls and a dorm room at eleven at night — and I've said a hundred times the best scene is two people talking, and here's my proof. The tomato sliding off the fork, and her hand going to the side of her breast *without knowing it moved* — that little unconscious gesture did more to show me how far gone she is than a whole sex scene would have.
+REACTION — Okay. So this is what I get after Cassie's "do you love him" — a lap pool. A whole chapter of a lap pool.
 
-But the thing that actually ached: Cassie. Chekhov's roommate finally went off, except not the way I was braced for. I kept expecting her to *notice* — the demotion, the secrets, the Randi of it all — and instead she did something better and worse. She just asked the plain question. "Do you love him." Same flat voice as "you don't come home school nights." Cassie is the only person in Vee's entire life who isn't running a seduction on her, isn't curating what she sees, isn't feeding her erotic vocabulary one brunch at a time. She's just sitting in a bean bag with a book, counting the empty nights, and saying the true thing plainly. And Vee told her the truth! "Maybe. I think so. It's all so fast." That's more honest with Cassie in one scene than she's been with anyone, including herself in the bathroom at that bistro. I loved her for it and I'm terrified for her, because everything Vee tells Cassie now, I keep thinking — does it stay here? The blurb taught me nothing travels where I think it does.
+And here's my problem: I *liked* it. I liked it more than I want to admit to a gate number. "It never answered anything, the swimming. That was the whole use of it. It took the words off things one at a time until what was left was the shape underneath" — that's the best sentence in the book since "he made it to you." The four strokes where she can't tell Pace from the Pace she built out of wanting him — that's the most honest thing this book has done with her. That's not a romance-novel heroine; that's a woman doing actual inventory. "Her body, which had opinions all day long every day of her life, had none at all down here. It only worked." Yes. I know that feeling from the treadmill and nobody's ever written it for me.
 
-The small stuff landed too. "You're a public utility" is exactly the kind of dry Cassie line I've missed — she's been demoted to the side of Vee's head for ten chapters and she still stays up and holds the door open. And the way she let the "maybe" stand without poking it. That's love, that restraint. If she'd pushed, Vee would've shut; she knows that.
+But. This is the second quiet chapter in a row. Monday night was Cassie and the beanbag, Tuesday is chlorine and reps. Nothing happened tonight except a woman not answering a question she already knows the answer to, and I'm doing exactly what the book wants — holding the *maybe* in my mouth with her — and I notice I'm doing it, and there's a small part of me that's starting to wonder if Rivers knows how to hold a note so long it stops being tension and starts being stalling. The drawer chapter was the answer to "did he mind." The *maybe* is not the answer to "do you love him" and I don't need it to be — but I need the book to know that Randi's bill is coming due. The pastry glaze on her lip. The "sticky fingers" that Vee couldn't read. That's the loaded gun on the wall and it's been sitting there for chapters now while I watch swimming.
 
-What I'm chewing on: "school nights." The chapter's titled that, and it's Cassie's line, and there's something in it — Vee's basically moved her life to his house without moving anything. The drawer, the scrunchies, the bras going loose, and now the empty bed more nights than not. The book is building her a whole new home and a whole new body and a whole new self simultaneously, and the econ-eye part of me keeps circling the same ledger: none of this costs nothing. The credit card is still out there. The induction photo is still on Pace's phone. Randi is still accelerating. "It's all so fast" is Vee saying the cliff-edge sentence out loud to the one person who'll hear it.
+Also, small thing, and it's a real thing: this book keeps giving Vee's body to me as honest and her mouth as a liar, and the gap between them is the whole engine, and I get why. But there was a beat in the lane — "her body, which had opinions" — where I felt the book stroke its own thesis a little. Don't explain it, Rivers. You already showed me the kitchen, the bet, the bathroom at brunch. I felt it. Trust me.
 
-Two quiet-ish chapters back to back if you count the drawer chapter — but this one isn't quiet to me, it's load-bearing. The Cassie door finally opened and I want to see what walks through it.
+Still. I put the book down and realized I'd been breathing every third. That's not nothing.
 
-GATE 36 — School Nights
+GATE 37 — Strokes
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none — though "You never went like this over one" made me sit up, because Cassie is now officially noticing things, and that can only end one way.
-WHY: No heat to speak of, but the Cassie scene finally paid off ten chapters of quiet demotion with the plainest, truest exchange in the book — "do you love him" asked flat and answered honestly. The drawer-scene momentum plus the feeling that Cassie just lit a fuse keeps me reaching.
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "It never answered anything, the swimming. That was the whole use of it." — actually the opposite of a stop, that line bought the whole chapter; closest to leaving was the opening lane-setup paragraph, which I nearly skimmed
+WHY: Second quiet chapter in a row and I felt it, but the prose is doing the one thing I can't quit — turning want into an object she can hold and look at. One more quiet chapter with no Randi movement and no step toward the truth, though, and I'm skimming to dialogue.

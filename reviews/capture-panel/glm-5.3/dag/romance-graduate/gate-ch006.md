@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
-**REACTION**
+REACTION: Okay, that was barely three pages and I'd read ten more of it. It's chapter 1 flipped on its head and I felt the flip in my body — back then Randi was the one unraveling, hiding in the bathroom; now she comes through that door and *takes*, no hello, deadbolt and straight into him, and for once she's the one doing the hunting. That heat is real. "Tell me" against his ear, the wine passed mouth to mouth, him never pouring his own glass — that's the kind of detail I starve for. He's getting drunk on her secondhand, and neither of them says so, and the book doesn't underline it. Perfect.
 
-The froyo chapter. I knew it was coming — the jacket promised "courtly and exact" and this is that, in miniature — but I didn't expect the *cup* to be the scene that got me. Her cone leaning, too much, and no mother-voice arriving to stop it. "Today there was nothing." That's the whole book in one soft-serve, and it landed harder than the bench did, honestly. The bench was craft — gorgeous, deliberate craft — but this is the chapter where I actually *like* him. "Your tart's holding up." The man watched her overfill herself and instead of correcting it, he told her it was standing. I had to put the Kindle down for a second at that line.
+But what got me was the *jealousy*, and how precisely it's drawn. It never announces itself. It's her thighs setting instead of tightening. The smile arriving a beat late. "She's easy to listen to" — that innocent little sentence — and the whole room goes still under his hands. He reads it exactly: a want too big for her face, and the face staying on anyway. Randi wanting Vee is no longer the game's clean little thrill; it has a tooth in it now. She wants the girl AND she's already afraid of losing the man's attention to the girl, or maybe of what it means that his face does something when he talks about Vee eating. I don't fully know which it is yet and that's the pleasure.
 
-And the text-message interlude at the top — "He looked like a man who wants you. He wants to see you naked" — Randi saying that, flat, while she's the one who picked Vee out on a lawn for her boyfriend to hunt. I love that the reader knows and Vee doesn't. It's not dramatic-irony cheap either, because the thing Randi's doing is *also* true: she does want Vee, that's the poison in it. Every warm thing Randi says is a real feeling wearing a disguise, and the book never winks at me about it. Nobody's explained the subtext yet, thank god.
+And he protected Vee's secret — the "nicest a person has been to me in a really long time" — kept it hers. He keeps other women's interiority like a vault, this man. It's hot and it's also slightly unnerving, which I suspect is the point of the whole series.
 
-Cassie's "as long as he doesn't make you roll a healer again" — the one flat joke that also happens to be the sound of a friend who's been watching Vee disappear into other people's needs her whole life. Goodbye, Vee. *See you later.* Cassie's running a private countdown and I'm starting to trust her more than anyone on the page.
+First two-page-ish chapter of my life, and my verdict: technique, not shortcut. It lands because it's all compression — the scene is one held breath from deadbolt to bedroom door. More of these would have to keep earning it, though.
 
-My one complaint: it's short. Two pages, and I'm not sure yet whether that shortness is confidence or a sampler tray. What's in the two pages is dense — every beat earning its place — but I notice the structure: hot chapter, then a quiet chapter, then a hot chapter, then a getting-to-know-you chapter. The book's breathing in a deliberate rhythm, and this is the exhale. One exhale is fine. I'm watching for the second.
-
-The pace of it, though — him texting in twenty minutes, her not playing the wait-a-day game because "you're not unsure" — that's the romance-novel move done with the machinery exposed. Randi dismantles the rule in two lines and it's more grown-up than any banter version of the same beat I've read this year.
-
-**GATE 6 — The Long Way**
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tart-holding-up line and the unpoliced cup got me somewhere real — tenderness doing the work smut usually fakes. I want the next one *now* mostly because I can feel the froyo-walk's softness is setup, and I know what this book does when the setup pays off.
+WHY: The jealousy blooming inside the heat caught me completely — Randi's want finally having an edge of fear in it, shown only in her thighs and a half-beat-late smile. Short chapter, but it moved the triangle forward more than chapters four times its size, and I need to see what happens behind that bedroom door.

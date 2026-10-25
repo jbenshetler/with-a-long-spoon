@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, *there* it is. I asked for a charge from Pace's head or Randi's body and the book gave me both in the same scene, and then made the sex the worst thing that's happened to anyone yet.
+So she lied to them. Or she didn't lie exactly, she edited. With Cassie in Ch 12 she told the whole thing: "I took my wet shirt off in front of him. On purpose. Me." With Meg and Kayla, the version where she took her shirt off just disappears. "I'm not going to kiss a man who's about to go hypothermic on me." Meg even calls it out: "you keep getting to it and going soft and skipping the middle." And Vee skips it again, right there, in front of them. I loved that. The real thing has become hers, something she keeps, the same way Pace kept "her stomach is soft" from Randi and wouldn't say how he knew. All three of them are hoarding pieces of each other now. Cassie gets the truth and the dining-hall girls get the edited version, and that tells me who Vee's real person is. Cassie isn't even in this chapter, and I noticed her gone.
 
-First, the heat. It's fully on the page with no euphemism. Every piece of clothing coming off reads as an interruption, and his hands keep going back to her between each one. Then she lowers onto him an inch at a time with her eyes on his because "she meant him to watch." That's a woman in control, and it's hot. Then "Tell me," and he starts describing Vee into Randi's ear while he's inside her: gardenia and musk, "on her throat, and lower," chlorine under the shampoo. I made a noise. It's filthy in exactly the way I came to this book for, a third person brought into the bed as a smell.
+Here's my problem though. This is the third time I've heard the shirt story: once when it happened, once to Cassie, and now once to the table. The edit is the only thing that makes this third telling worth it, and I had to wade through Theo waving and Meg's boyfriend's roommate to get there. Kayla and Meg are fine. Kayla's "that's not a message, that's a ransom note" made me laugh. But they're new furniture this late, and the first half of the chapter felt like throat-clearing. It's a girls-at-dinner chapter, and I've read a thousand of those. I was skimming for anything with a charge in it until the phone buzzed.
 
-Then "Her stomach is soft," and my whole chest dropped. He knows that from the truck, from her holding his shaking hand against her belly under the flannel. He gives Randi the fact and keeps where it came from. That's the second piece of Vee he's held back from her, and this time it's the important one. He thinks he's protecting something tender. What he's actually doing is handing Randi a detail she can't account for, at the exact moment she's clenched and shaking on top of him.
+Then it buzzed and everything sharpened. *Would you come to my house Saturday. Two o'clock.* And I'm sitting there with dread in my stomach, because the house means the bench. And I just watched Randi ride him in Ch 13 with "I want us" torn out of her, and then leave without staying for the first time ever. Is Randi going to be there Saturday? Is two o'clock the polite invitation from the title? Kayla's line, "He wants you for the afternoon. Bring a change of clothes," landed on me completely differently than it landed on her. She's giddy and I'm the one who knows what furniture is in that house.
 
-And Randi. "She clenched around him. Hard, all at once, her eyes shut… long enough that he said her name." Then she drives at him harder and her belly goes "tight as a board." Pace reads that as want, and I'm reading it as a woman holding back a sob with her abs while she rides it out. The book lets him get it wrong without flagging it for me. All I get is "If it was something else he could not have said what," which is restraint, and I'm not adding it to my subtext-explaining count. Her laugh coming out "thin, not her laugh" is the bathroom-mirror girl again. The face is cracking and he can't see it from underneath.
+And the chapter title is "What to Wear," and he "didn't say what to wear," and two chapters ago she set the russet silk dress down on the rock and he didn't pick it up again. I'd bet money a box shows up. If it does, I'll melt and narrow my eyes at the same time, which is pretty much my permanent state with Pace.
 
-"I want us." I don't know what that means, and I love that. Us as in the two of them, against Vee? Us as in the three? Or her begging him not to fall for the soft-stomach girl? Pace hears it as a declaration and it goes "through him like the first swallow of something," and I want to shake him.
+Also "powerlifter" made me laugh. The book finally said it out loud, and of course it did it through Vee showing off. That I'll allow.
 
-Then she leaves. "No thanks," "I'm good," and the bright voice. She'd decided in chapter 1 that he'd never see her like that again, and this is that decision costing something, because she can't lie there after. He offers to feed her and she refuses. He feeds every hungry woman in this book, and this one won't eat. He stands in the open door with the cold coming in, "that she had not wanted to stay," and then eats twice over. God. He's been lonely the whole time and only just noticed.
+Text to a friend: *she's getting invited to the bench house and she thinks it's a date. also she's protecting the truck moment from her friends and it's the most romantic thing she's done.*
 
-Little things I caught: the empty chair by the door, where her cashmere blanket usually goes. She came in not planning to stay. And "how was it?" asked into his mouth so he couldn't answer. She didn't want to hear about the hike, only the inventory of Vee.
-
-One tiny snag: "the freckles across her chest." Isn't Vee the freckled one? Either that's a slip or it's Pace's eyes laying Vee over Randi. I'm choosing to believe the second, and it gave me a chill.
-
-Text to a friend at 1 a.m.: "he's describing the redhead's smell to his gf DURING and she's basically crying through an orgasm and he thinks it's a breakthrough AGAIN. also he kept the stomach thing. I'm not okay."
-
-GATE 13 — Swim Lanes
+**GATE 14 — What to Wear**
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This is the chapter I was afraid the book wouldn't deliver after three quiet Vee chapters. It's explicit, it's psychologically vicious, and the sex is what drives the plot. Randi leaving after is the first real crack I've seen Pace feel, and I need to know what "I want us" costs all three of them.
+CAPTURE: 5
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Across the room Theo lifted a hand at her, tray balanced, and she lifted hers back." That's where I thought the book was introducing a whole new friend group instead of moving.
+WHY: It's a quiet retelling chapter right after Cassie already got the retelling, and the first half dragged. But Vee cutting the shirt scene out for these friends was quietly sharp, and that text from Pace put my dread right back on the house and the bench. I'll give Saturday everything. If Saturday is another walk-and-talk, though, I'll be counting.

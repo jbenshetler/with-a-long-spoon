@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch027 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4425eb351a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch027 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · dated · 2026-10-24*
 
-REACTION
+REACTION — Okay, so this is the first two-page chapter, and I don't know what to do with the *length* — I've never had a book hand me something this small before. It reads like a palate cleanse, or like the author taking a breath before tomorrow night, which, fine, but I notice it.
 
-Okay. So this is the chapter where the book stops letting me pretend I don't know what I'm looking at.
+What's IN it, though, got me. Pace babbling. Pace, who measures his words like he's cutting them on a table saw, out on a bike ride telling Sheri about the thumb on the chair grain, the math book — "he heard himself going and didn't stop." That's the tell I've been waiting for; the man is gone and his mouth knows it before his ledger does. Sheri clocking it — "Listen to you" — is doing the work of ME sitting here yelling it at him, and I like her for it. I like her anyway. "Hell of a backside on her, though" delivered like a weather report; the "you want me to not like her?" with the whole threat and warmth of her packed into one line. She's a real person in four paragraphs, and she's apparently the only person in Pace's life who exists OUTSIDE the triangle. That's worth something.
 
-Every "tell me" scene up to now has been Randi extracting Vee out of Pace in bed — I've been braced for it, hating it a little, loving it a lot. This time it flipped, and it flipped HARD. Pace is the one who gives first ("I'm glad it was you"), gives the shape of the bar fight but keeps the wound to himself — "those were his, and that was Vee's" — and I actually loved him for that line. That's the man who stood in the rain with his back turned. He protects her even inside the betrayal. And then Randi takes over the telling and it's not extraction anymore, it's confession. She's not fishing. She went home and *couldn't stop thinking about her*. "I haven't stopped thinking about her" said while he's inside her — that's not a threesome being engineered, that's a woman falling and narrating it in real time. The chapter title is doing so much work: "Space," the table-look, "give her a day" — the day "as if the day were his to give, and he set that down beside the rest." She's cataloguing who owns what. Randi is keeping a ledger on this relationship and Pace doesn't even know she's keeping score.
+But here's what's sitting cold in my stomach after the warmth wore off: "She knows. She likes her." / "And the redhead?" / "Not yet." Said to a third party, easy as road talk. This man has a WOMAN WHO KNOWS THE WHOLE SHAPE and a Vee-shaped hole where the truth goes, and I knew that, the jacket told me that, but hearing him *say it out loud* like it's a scheduling matter — "not yet," like she's an appointment — that hit different. Twenty-eight chapters of him making everything feel safe and chosen and consensual, and the whole architecture is still running on his timeline. Sheri running the arithmetic anybody could run — "if that's not already complicated, it will be" — is the book whistling past the graveyard, and I felt it.
 
-The hottest thing in the chapter, honestly, was not the shoe story under the skirt (though — the thumb behind the knee, and *I heard it*, I made an actual noise on the couch) — it was the moment he stops moving when she says "I had my hands on her legs." Full stop. And she keeps going. The power in this bed is completely fluid now and neither of them is steering and Vee is the one being steered toward, and she has NO IDEA. She's in her dorm room right now in his washed shirt practicing a scarf knot, and these two are lying in the afterglow of her, both of them, comparing notes on her skin. That's the engine of this whole book and it has never run this hot.
+Also: Randi was HERE last night. While Vee was home rehearsing her outfit, washing her face, getting her marching orders from Randi *herself* that morning. The two-track week has never been this visible. Tomorrow night is Vee walking into his door in the black dress and somebody else's shoes, and I genuinely do not know if I'm watching a reconciliation or the trap closing.
 
-But here's the thing that got under my ribs and stays there: "I wanted to keep her." Randi said that. And Pace — Pace is the one I'm newly worried about. He's relieved Vee "had somewhere to go, and that it was here." He thinks the closeness between his two lovers is a sweet bonus and not the trapdoor. Twenty-seven chapters and the man who reads rooms for a living cannot read this one. Or — and this is the thought I keep circling — he can, and the long-road vanity Randi named in the fight is exactly this: he's letting it all converge because he wants it to, and he's calling it patience.
+Also, petty note: a Saturday-morning bike ride POV chapter with a new character we've never met — in the middle of the biggest emotional runway of the book? Bold. It worked on me *because* the Sheri exchange was good, but if the next chapter doesn't deliver tomorrow night, I'll remember this as the chapter that stalled me.
 
-Also, tiny devastating thing: the music. His own trumpet-and-brushes record was already playing when Randi came in, and "it did not occur to him to change it." Whose music was that for? He was alone on a Friday with wine kept back and the good record on, and I don't think it was for Randi.
-
-Tomorrow night. Black dress, borrowed shoes, the scarf, the walk up that drive. And the reader knows both of them will be thinking about what happened in this bed tonight. I would not put this book down if you paid me.
-
-GATE 27 — Space
+GATE 28 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The tell-me dynamic inverted into Randi's open confession is the most charged scene in the book, and the dramatic irony is now a held breath — I know exactly what Vee is walking into tomorrow and she doesn't. Heat and dread in the same glass.
+CAPTURE: 6
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "If that's not already complicated, it will be. But I bet it's worth it." — the chapter almost losing me by having a side character do the book's worrying out loud.
+WHY: Nothing happens, nothing's hot, and yet Pace confessing Vee to Sheri without meaning to is the realest beat he's had. I'm only forgiving the smallness because tomorrow night is loaded and I need it NOW.

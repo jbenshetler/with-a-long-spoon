@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
 
 REACTION
 
-Oh, thank God she asked. Thank God she left the bag in the car. That detail had me braced before she even opened the door: she did not arrive prepared to be absorbed into his warm house again. And then she stood on the mat and refused the kiss, refused the wine already poured and the chicken and the porch and the beautiful evening he had constructed so perfectly that she could disappear inside it without ever getting an answer.
+Oh, Randi. This is the exact emotional disaster I wanted from her and also the choice that makes me want to shake her.
 
-“What am I to you?” is not a difficult question when someone is the most important person in your life. It might be frightening. The answer might be complicated. But it is not incomprehensible. He understood her. I do not believe for one second that he didn’t. “Do any of your friends have a relationship you’d rather have?” made me furious because it is such an intelligent, precise evasion: he made her happiness testify against her need. He took the undeniable goodness of what they have and used it to imply that asking for clarity is ingratitude.
+The fairytale got me despite knowing better. The mountain, the man who could keep up without showing off, the dress, his face at the bottom of the stairs, the dancing, the sleigh—I understood why she wanted to step into the story and let it carry her. Especially after that breakfast, where she had to manufacture an acceptable version of herself before she had even finished her tea. For a while I wanted John to be real enough to offer her an exit. Not necessarily forever, just one clean night in which she could be wanted without all the secrecy and moral rot attached.
 
-And then: “Words are cheap, and you still won’t spend them on me.” Jesus Christ. Yes. Exactly. She finally saw that his actions do not make the missing words unnecessary; they make his refusal to say them more conspicuous. He will buy the scrunchies, empty the drawer, heat the house, make the dress, cook the meal, learn every response of her body—and fold his arms rather than give her a word she can carry outside his door.
+And then: nothing. Good sex, perfect man, perfect room, and nobody home inside it. The lipstick left on his body while she remained untouched absolutely chilled me. “This was the best the acceptable world could do for her” is the kind of realization that changes what escape even means. She cannot marry her way into safety because the safety requires her absence.
 
-The folded arms changed something for me. Until then I could almost let him be a damaged man who genuinely could not reach the language. But that was a line being defended. He chose the silence while watching what it cost her. And the moment she cried, he reached for her with the hands that have always been able to make her stop asking. I wanted her out of reach so badly. “Not the hand in place of the word” felt like Vee finally recognizing the mechanism that has kept all those little waits buried.
+But the dancing comparison hurt most. John directs; Pace leaves room. Randi thinks she is tired of the work, and for one gorgeous evening she wants to be led so completely that she does not have to reveal or choose anything. Of course that feels wonderful right up until she realizes no one has found her. Pace’s lighter hand asks more of her because it assumes there is a person there whose movement matters. I hate what Pace and Randi are doing to Vee, but I completely believe why Pace is the terror she cannot replace.
 
-Her leaving wrecked me, but I am fiercely proud of her. She did not accept warmth as an answer. She did not let excellent sex, exquisite care, or “most important person in my life” blur the question. She walked out into something colder because at least the cold was honest.
+Then Vee. God. Vee sending that soft, undemanding little message—*I’m here if you want to talk. Or not.* She offers Randi exactly what Randi refuses to offer her: room to tell the truth without being maneuvered. And Randi answers with a perfectly true lie.
 
-And now I need to know what Pace does when care cannot repair what truth would prevent—because “Vee” absolutely was not the word, and she was right not to turn around.
+That final decision is where my sympathy curdled into fury. She understands everything. She knows telling Vee would mean letting Vee decide. She knows “best friend” is cover. She knows she is preserving access to Vee by keeping the meaning divided between them. “Let Vee arrive at it on her own” is not tenderness or patience; it is Randi choosing the outcome she wants while making Vee responsible for crossing the line. There is no innocence left in this plan.
 
-GATE 47 — Believe Me
+And yet “Vee was her gorgeous” nearly broke me. That is so nakedly hers, so unlike the polished currency she spends everywhere else. She loves Vee without a private qualifier—and immediately uses that love to justify denying Vee the truth. That contradiction is the whole fire now. I’m furious with her, aching for her, and absolutely reading on.
+
+GATE 48 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was the confrontation I have been waiting for, and Vee held onto the exact question through every beautiful evasion. I am already turning the page because Pace has finally lost the protection of his warm house, and whatever he does next will tell me whether he can love her without controlling what she knows.
+WHY: The glamorous fantasy collapsing into emotional vacancy had me completely, but Randi’s conscious decision to keep her love disguised made the next chapter urgent. She knows disclosure would give Vee a choice, and she has chosen continued access instead.

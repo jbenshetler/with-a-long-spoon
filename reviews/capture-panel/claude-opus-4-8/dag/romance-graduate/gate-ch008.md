@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch008 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this one got me, and in a way I wasn't braced for. After seven chapters of Vee and Randi being *worked on* — the bench, the pointing game, the froyo, the wine Pace never drank — I needed a chapter that was just somebody being a human being with no agenda, and this is it. Cassie fighting her swimsuit, "Who designed this? Genuinely. What man?" — I laughed out loud. And then "Tossers. They will never know the love of a woman," pitched low, *kept for Vee* instead of thrown up into the bleachers. That line about how she *could* have pitched it, she had the lungs, she used them all rec season, but she kept it for Vee — that's the whole friendship in one move. Cassie is the only person in this book so far who wants nothing from Vee. No plan. No game. She just loves her.
+Okay, so here's the thing — I came into this book braced for the gimmick to collapse, and chapter 9 is the one where I stopped waiting for it to collapse. This is a *date chapter*. A dinner. Froyo already happened. On paper I should be bored — second quiet chapter in a row if you count the pool, third if you're strict — and instead I'm sitting here warm as the stupid brass tea glass.
 
-And God, the underwater passage. "The room switched off." Weightless, nobody could see her, nobody wanted anything, something that had stood at attention all afternoon quietly sat down. I felt that in my sternum. This is a girl who has been looked at and catcalled and portioned and measured — "legs for *days*," the floaties joke — and the only place she's ever been free is a place where her body can't be seen. "She had loved this before she had a body to be a problem." That line is doing more honest work about being a woman than most whole books on my Kindle. And it grieved me a little too, right alongside her, because I *know* what the next chapters are going to do. She's going to be watched the entire rest of this book. The water is the last place nobody's hunting her.
+What's doing it is that I know what Vee doesn't, and the book is trusting me to hold both at once without ever once leaning over to explain it to me. That's the whole reason I'm still here. I *watched* Pace and Randi build this girl in the pointing-game chapter. I know the froyo and the "may I choose" and the hand under the moonlit tree are a designed thing, an invitation with a plan behind it. And yet the chapter is written so completely inside Vee's hunger that the tenderness reads as real even though I know its provenance is poison. That double-exposure is the most genuinely adult thing this book does. A lesser book would wink at me. This one just lets me ache in two directions.
 
-And then Cassie, who never asks because asking makes the sad version bigger, just shoots a sheet of water across ten feet. Doesn't come closer. Doesn't talk about it. Breaks it with the splash. "You can't grieve and fight your best friend for a mouthful of pool at the same time." I'd text a friend at 1 a.m.: *the book finally showed me why I should be scared for her — by showing me the one person who'd never do what Randi and Pace are doing.*
+The food. God, the food. The hollow opening wider the more she eats — that's the apple from chapter one rhyming across the whole book, Randi portioning herself with thin slices and now Vee building a froyo cup that leans and not hearing her mother's voice for once. These are two starving girls and one man who has made feeding women his entire erotic project, and I don't fully trust what that *is* yet, but the writing of appetite here is doing something to me that a hundred billionaire-buys-her-dinner scenes never did. She loses the thread of what he's saying and *nothing bad happens*. That line undid me a little. The whole chapter is a woman discovering she's allowed to stop performing, and the horror underneath it — the thing I can't unsee — is that Randi discovered the exact same thing on the bench in chapter one and then locked it away forever. Vee is walking the road Randi already walked. I know how that movie ends and I want to yell at the screen.
 
-What it did craft-wise that I'm quietly grateful for: no Randi, no Pace, not even an echo of them except the dread I brought in myself. That's confident. A lesser book would've had Vee thinking about the frozen yogurt text the whole time. Instead it gave her an inner life that has nothing to do with either of them, which is *exactly* the thing I was starving for and almost never get. Vee has a self. It lives underwater.
+The kiss. The "I don't kiss a man I've known a couple of days" and then standing her ground when he lets it go, and then *choosing* — "I'm making an exception." He leaves the last inch for her every single time. "May I choose." "May I call you." The whole asking-before-taking thing is laid right on the jacket copy and normally I'd gag at a book telling me its own kink so plainly, but it's working because the book earns it in the body of the scene instead of announcing it. She closes the distance. He meets her all the way only once she's taken it. That's hot in a way that's about consent-as-power and not about abs, and I'm the exact reader who's been starving for precisely that.
 
-Heat, zero, and I don't care — this chapter wasn't for that. The ache was the point. And it sharpens everything: now I actually like Vee as a person, not just as prey, and that makes the hunt worse to watch, in the good way.
+What I'm suspicious of, at 1 a.m., texting a friend: *this man is too good and I know why he's too good and it's going to be used on her like a scalpel.* The froyo-and-tea tenderness is the bait. Randi drinking the wine she made him describe, tasting the other girl secondhand — chapter 7 already told me these two eat Vee's evenings like a shared meal. So every soft moment in chapter 9 has a thin cold wire running under it, and that's what's keeping a bridge-y date chapter at a 9 for me instead of a 6.
 
-GATE 8 — Water Wings
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: A quiet chapter that earned its quiet — it gave Vee a self the predators haven't touched, and gave me Cassie, the one clean love in the book, which makes the dread land harder. I want the next one not because I'm titillated but because I'm now genuinely afraid for her and can't look away.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none — honestly the closest thing to a wobble was realizing it was a third low-heat chapter in a row, but the dread-under-the-sweetness carried it
+WHY: The dramatic irony is the engine and this chapter runs it beautifully — Vee's surrender reads as romance and plays as horror because I know the plan, and the book never once explains that to me. I want the next one because I need to see whether Randi's at the next dinner.

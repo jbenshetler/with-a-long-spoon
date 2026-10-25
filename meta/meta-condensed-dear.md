@@ -44,4 +44,4 @@ The kiss via the **agency→appetite reframe** (canon sort mechanism): Vee bring
 
 The confidante track and the social-penalty thread cross here for the first time; the very thing that makes the friendship precious is the thing the world prices.
 
-**Reading position in sequence:** …{{The Long Way}} → {{May I Choose}} → **Dear** → {{Leave No Trace}} → {{Rye}} → {{Two Towels}} → {{How It's Done}} → {{Famished}} → {{Toenails}} → {{Fed}} → {{Lesson}} → {{Broken In}}.
+**Reading position in sequence:** …{{Substitution}} → {{May I Choose}} → **Dear** → {{Leave No Trace}} → {{Rye}} → {{Two Towels}} → {{How It's Done}} → {{Famished}} → {{Toenails}} → {{Fed}} → {{Lesson}} → {{Broken In}}.

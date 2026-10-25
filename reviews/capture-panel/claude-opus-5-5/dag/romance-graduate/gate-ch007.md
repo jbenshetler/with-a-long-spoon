@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh, *there* it is. After two Vee chapters, froyo and a calculus problem and a girl being sweet about a sweet man (which I liked, but I was starting to drum my fingers), the book takes me back into that house and the deadbolt goes over, and I actually sat up. Same night. He came home from walking her and Randi was already on her way over. That timing is nasty in the best way.
+Okay, I didn't expect a pool chapter to land with me, and this one did, mostly. After last night's "Tannin," where Randi was on Pace's lap drinking in every detail about Vee and his fingers were under her top, the book cuts to Vee in a green-and-white suit she wore at sixteen, "when there'd been less of her to fill it." It's quiet and it's smart. It's the first time we've been inside Vee's body without anyone steering her, and that body turns out to be a sore spot. She's carrying the same kind of policing as Randi's apple slices, just in another form. With Randi it's the mother living on egg whites, and with Vee it's the mother's voice saying *that's plenty* and *that's not the kind of attention a nice girl*. The froyo cup she didn't stop building suddenly makes more sense. I like the book quietly pairing them up like that.
 
-The wine kiss got me. He didn't pour himself a glass because "everything he was going to have of it he was going to have like this." That's hot, and it's also a little sinister, because the whole chapter is built that way. Randi is drinking Vee secondhand through Pace's mouth. "*Tell.*" One word, hot against his ear, his hands put on her breasts as payment for the story. That's a filthy little arrangement and it's all clothed. She's getting off on the debrief, and the book trusts me to feel how wrong and how good that is without spelling it out.
+The walk past the bleachers is very real. "You won't need floaties with *those*" is exactly how that sounds in real life, and her long blink with half her mouth pursed is exactly the face you make. Then there's Cassie. "They will never know the love of a woman," said low, just for Vee, when she has the lungs to yell it at the whole room. I adore Cassie. She's quickly turning into my favorite person in this book. I'm also filing that line: is Cassie queer, does Cassie want Vee, is Cassie the one person here who loves her without a plan? After that "Goodbye, Vee" in chapter four, I'm a bit scared for her. I think she's the canary.
 
-What actually made me put the Kindle down for a second was Pace keeping Vee's line for himself. *This is the nicest a person has been to me in a really long time.* He doesn't hand it over. "It was hers." Two chapters in and he's already protecting something of Vee's *from Randi*. That's the crack. The jacket said "how real it will get for each of them," and I think I just watched it start for him, and he hasn't noticed.
+The underwater part is the best writing in the chapter. "The room switched off." The sculling her hands remember. The water as "the one part of it that had never been taken." It made my chest ache a little. It's real interiority, and it feeds me instead of showing off. Two things grated. "And grieved, a little" names the feeling, which the scene had already given me. And the last line, "The body that was such a problem stayed up on the deck," spells out the subtext I'd already picked up three paragraphs earlier. That's the book explaining itself, which is a pet peeve of mine. It's small, but I noticed it.
 
-Then "She's easy to listen to," and Randi goes still. Her thighs "set." Pace reads it as "the wanting, held," and I'm sitting here going no, honey, you have been wrong about her since chapter one. He thought the bench was a breakthrough, and she went into his bathroom and locked herself away from him for good. So which is it? Is she jealous of Vee getting him, or of him getting Vee, or scared that her boyfriend just said something tender about the girl she wants? Probably all three, and he has no idea. Then she chugs the rest of the glass and gets bright and easy, "I already do." That's the face from the mirror in chapter one, back on. I love that I can see it and he can't. That's the dramatic irony I came for.
+Zero heat, and I'm okay with that for one chapter, because what it adds is stakes. Now I know what Pace is going to be looking at, and how much it'll cost her to let him look, given the man who leaves the lights up. That's the charge it builds, and it's a slow one. But I'm counting. This is chapter eight, and Vee has had froyo and a walk. Nobody has touched her yet. The book has earned some patience from me, and this chapter spent a little of it well. I want her date with Pace soon, or at least a long lunch with Randi.
 
-One small complaint: Pace's narration still does a little too much "he read it: X." It's mostly earned here, because he's reading it *wrong*, but sometimes it gets close to the book explaining itself. And it ends on her holding out her hand, so I don't get the sex. Normally that would annoy me, but this book has already shown me it will go all the way in (the bench!), so this reads like a chapter break and not a fade. The last line, "He had not had a drop of it. He could taste nothing else," is a mic drop. Texting my friend: "the boyfriend is already lying to the girlfriend by omission about the girl they're hunting TOGETHER and it's chapter 7."
-
-GATE 7 — Tannin
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none. If anything, "He read it: the wanting, held." It's the narration telling me what to think, but here it's telling me something false, so it worked.
-WHY: Short, hot and sly. It brought the charge back right after two quieter chapters, and it planted the first real secret between Pace and Randi. I want to know whether she takes him to bed tonight to have him or to have Vee.
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "The body that was such a problem stayed up on the deck with the rolled towel, where it could wait." It isn't a stopping moment, just the point where my eyes rolled, because the book told me what I'd already felt.
+WHY: It's short, tender, and Vee finally has a body and a history of her own. Cassie is wonderful. But this is a second low-heat Vee chapter, and I want her and Pace in a room together soon.

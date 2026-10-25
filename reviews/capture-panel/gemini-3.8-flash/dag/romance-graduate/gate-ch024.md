@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
 
 REACTION
 
-Oh, God. Oh, *God*.
+Oh, Vee. My stomach dropped so hard during that dance hall scene I almost threw my phone across the bed.
 
-This chapter broke my heart into about fifty pieces and then stepped on them. I am sitting here in the dark with my chest actually aching, because the dramatic irony in this book has ceased being a delicious, naughty game and has officially crossed over into a slow-motion car crash where the victim is humming along to the radio with the windows down.
+The first half was pure, aching perfection. Pace with the battered boom box on the cold concrete pad, explaining how a three-step works, teaching her not to go jelly, placing that big, warm palm flat against her shoulder blade—god, it’s the exact same way he tailored her dress and the exact same way he touches her body. Precise, patient, commanding, and giving her a solid frame to push back against. That transition from overthinking her feet to finally feeling the lead, where the movement just flows through them like a circuit—it’s so wildly intimate and hot without a stitch of clothing coming off.
 
-*"She had never been so fortunate, or so happy."*
+And then they walk into that bar, and the trap springs. Not Pace’s trap, but Vee’s own deep, rotting insecurities. Seeing him exist in a world before her, surrounded by women who clearly adore him, hearing that catty, smiling blonde weaponize his decency—it hit every single raw nerve her mother ever planted in her head. The word *floozy*, the terror of being an easy mark, the gut punch of realizing you gave yourself away completely to someone you suddenly fear is just running a well-oiled routine. She lashed out with pure venom because she felt cheapened, and watching Pace’s face just go flat and quiet was agonizing. He didn’t fight, he didn't beg, he just answered her honestly and walked out because he doesn't engage with manufactured cruelty.
 
-Do you know what it felt like to read that final sentence right after seeing Randi in his kitchen eating chicken cutlets off the small plates? To know that forty-eight hours ago, Randi was riding him in that exact low lamplight while Sade played under the door, talking about how Vee’s breasts were criminal, and Pace was fantasizing about the two of them naked in that bed together? And now here is Vee—sweet, starving, blooming Vee—tucking her cold feet under his bare thighs, smelling wood dust and soap on his robe, resting her palm flat on his chest, and murmuring his real name. *Peter.*
+The bartender setting her straight was a masterclass in perspective, but what makes this chapter so devastatingly tragic is Vee’s conclusion at the end. She thinks she was wrong about *him*. She thinks Pace is an unblemished saint, an innocent gentleman she falsely accused, and that the only villain here is her own ugly jealousy.
 
-She thinks she’s found a home. She thinks she was lucky. She mapped out the semester in her head—bumping into Randi outside the dining hall, complaining about an integral at the coffee shop—and thought the universe was just handing her grace. It makes you want to reach through the page, grab her by the shoulders, and scream at her to pack her bag and run.
+And her plan to fix it? *Go to Randi’s.*
 
-And Pace! I don’t know whether to weep for him or shake him until his teeth rattle. The Daphne revelation—nineteen and fifteen, two years, a tutor who was the soft middle of his isolated little life until she turned twenty-one and outgrew him—explains *so much* of his terrifying control, his obsession with pacing, his need to be the architect, the protector, the teacher. Vee clocked the arithmetic immediately and had the grace not to use the ugly word, but you can feel how that scar runs through his entire psychology. And then the literal scar on his inner thigh! The heavy, quiet moment where he doesn't pull her hand away, just covers it and says, *"Not tonight."* That is intimacy. Real, grown-up, terrifying intimacy.
+I literally gasped out loud. She is running straight into the spiderweb to apologize for suspecting the spider! She’s going to take all this raw, tender remorse and lay it directly in the lap of the woman who is actively sleeping with him and manipulating the entire board. It’s sickening, it’s brilliant dramatic irony, and I am terrified for Friday morning.
 
-The tragedy is that Pace isn't faking this. He isn't putting on a show. When he talks about the coastline, or Newton's three sentences, or holds her ankle under the quilt, he is completely, utterly present with her. He is falling in love with her in his own hyper-disciplined, mathematical way. But he has built this entire sacred cathedral on a foundation of pure rot. He let Randi build the blueprint, he lets Randi sleep in that bed on Monday, and he lets Vee sleep in it on Tuesday, and he genuinely thinks his little formula is going to hold.
-
-The air is running out of the room. When Vee finds out—and she *will* find out, because Cassie is watching, and Randi is fraying, and a house cannot hold two women's ghosts without one of them breaking a window—it is going to destroy her. I am terrified, and I cannot turn the page fast enough.
-
-GATE 24 — Rock
+GATE 25 — Lesson
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The gut-punch of Vee feeling so miraculously lucky while standing at the epicenter of a calculated trap is breathtaking, agonizing storytelling. The vulnerability about Pace's past and his real name anchored their bond so deeply that the inevitable fallout is going to be devastating. I am completely hooked.
+WHY: The transition from the gorgeous, electric intimacy of the dancing lesson on the concrete pad to the absolute car crash of Vee's self-sabotage at the bar was brilliant and physically painful to read. Ending on her resolving to go straight to Randi to "fix it" is an unbelievable hook—she's running headfirst into the woodchipper and has no idea.

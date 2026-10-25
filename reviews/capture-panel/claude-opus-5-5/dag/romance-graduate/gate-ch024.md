@@ -1,34 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch024 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · dated · 2026-10-24*
 
-## Reaction
+**REACTION**
 
-Okay. I'm sitting with this one.
+The first half of this chapter was the best thing this book has done outside a bedroom. The concrete pad under the field lights, the boom box with electrical tape on the handle, the creased jeans, the short sleeves in October because he dressed for the dancing and not the weather. And "Give me something to push back against. Being jelly doesn't work." I loved that. It's the first time he's asked her to *do* something instead of just receive. "There's no sorry unless you take off a foot," and then his smile breaking through the seriousness. Then the moment it clicks, when the steps come through his body before they reach her feet. "There it is." That was charged without a single button undone. The hand at her shoulder blade, "specific and firm," did more for me than half the sex scenes on my Kindle.
 
-His name is Peter. That landed harder than any sex scene in the book so far, and I didn't see it coming. All this time "Pace" has been the man with the perfect résumé, a name that's always moving forward. Then she asks what his mother calls him, and he skips the mother and gives her the name. "No forward motion in it." She says it once to try it, and at the end once more to keep it. I got a little wet-eyed, which is embarrassing over a man's legal name.
+Yes, the dance lesson is also a lesson about the two of them: close the gap or get stepped on, stop guessing, follow the lead. I saw that. But it stays inside the dancing and the book doesn't stop to explain it, so I'll allow it. It also hit me sideways. "Follow the lead, don't think" is exactly what Randi and Pace are doing to her on a much bigger floor, and I'm not sure the book wants me to feel that. I did. The blonde's line, "Knows how to get a girl to do just what he wants her to," landed like a cold hand. She meant something small and petty. In the context of this book it's the whole jacket in one sentence.
 
-Then Daphne. Nineteen and fifteen. My stomach did exactly what Vee's did. I loved that Vee had the word ready and kept it under her tongue, and that she said "you were so young" and nothing else. That's the grown-up emotional intelligence I came to this book for: a heroine who knows the word and also knows it isn't hers to say yet. I've been calling Vee braver than she knows, and here she's wiser than she knows too.
+Then the fight, and I groaned out loud. A jealous blonde plants a seed, the heroine blows up, the hero leaves, and a wise older bartender explains everything. That is the KU playbook. It's literally the misunderstanding plot I swore off. What saved it, barely, is that it isn't really about the blonde. It's about the missing word on the jacket. He's never told her what she is to him, so of course she reaches for "next." And it's her mother's voice: "a man like that has girls, and you'd be one of them," "spread her legs like a slut," "Floozies." That's the wire I've been tracking since chapter one, and this time it short-circuited in public. That part I believe. The bartender I don't. "Wasn't him they were jealous of, honey" is a tidy little exit line that hands Vee, and me, the answer on a plate. I'd rather she'd had to figure it out alone in that cab.
 
-And now I'm rereading the whole book through it. He was a boy picked out and taken in by an older girl who "helped him find his feet," and he calls it the best two years he'd had. Now he's on the other side, with Randi, choosing a younger girl and planning how to "get her to us." He doesn't see the shape at all. Last chapter Randi said "I wasn't going to wait" about him. Is the scar from those years? The hall, the tutor, the scar: I think that's all one closed door, and "Not tonight" with her hand pressed flat on it under his is a door with a time on it. I believe it.
+Small things that got me: the cab money "meant for other things," right on top of the credit card from the shoe store. Somebody is going to get hurt with money and nobody's watching. She washed his shirt and it came back smelling of "fabric softener and no one." Ouch. And she didn't call Cassie, and didn't wake her when she was three feet away. Cassie gets shed a little more every chapter, and it makes me sad every time.
 
-The seventh-grade desk in the hallway made me want to punch a math teacher in 1990-whatever. "They took the thing you loved and made it the punishment." Good, Vee.
+Then the last line. *Go to Randi's.* No. NO. Baby, don't. She's taking the rawest, most humiliating thing she's ever done to the one person who will cradle it and then carry it straight to his bed. Randi is going to be wonderful about it, too. That's the worst part. I'd text a friend "she's going to Randi for advice about Pace, I'm screaming."
 
-Now my complaints. The book explained its subtext to me again: "the good order was the tell," and "he had handed her the thing that had hurt him and named it luck." I had it, I promise. The scene had already shown me the full glass. Then the math monologue: the paint shape, the coastline, Newton, "the language the world is written in," "walk around inside the poem." Parts of it were lovely, and it's in character, but around the Newton part I started to feel like I was at a TED talk. The Ohio stuff was charming. The unopened saffron "old enough to vote" got a real laugh out of me.
+I'm still not sure about Pace walking out without a word. Was it dignity or wounded pride? I want his side.
 
-Heat-wise this was a fireside chapter: his palm on her breast without asking, a hand on her bare hip. It's warm, not hot. Normally I'd be getting itchy, but chapter 21 was the dress against the wall and 23 was Randi on top, so a talking chapter here doesn't feel like a stall. It's the bridge chapter where I learn who these people are, and I've said out loud that's sometimes the best scene in a book.
-
-The ending made me want to throw my Kindle. She lies there thinking how she *stumbled into* Randi, a stranger outside the dining hall, then a man crossed a coffee shop to help her, "for no reason she had done anything to deserve." Babe, there was a reason. It wasn't anything you did. "Never been so fortunate, or so happy" is the second time she's said she's never been so happy, and the countdown is getting loud.
-
-One more thing I'm holding from chapter 23: Randi cleaned her plate. Something's shifting in her, and I want her POV badly.
-
-1 a.m. text: *his real name is PETER and he was 15 with a 19yo "tutor" and he thinks it was LUCK. and she still thinks she bumped into randi by accident. I'm going to be sick (reading next one)*
-
----
-
-GATE 24 — Rock
+**GATE 25 — Lesson**
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 9
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "Most people walk around inside the poem and never get to read a line of it, and I got to read some."
-WHY: There's barely any heat here, but this is the biggest turn in the bond so far: Peter, Daphne, the scar under both their hands. And Vee handled all of it like a grown woman. The ending's "stumbled into her" irony means I need the next chapter more than I needed this one, and I want the induction and Randi's head.
+ALMOST-STOPPED: "Wasn't him they were jealous of, honey."
+WHY: The dance lesson was gorgeous and the fight was a trope I'm sick of, rescued only because it grows out of her shame and his silence. But ending on "go to Randi's" is a gut-punch hook. I need to watch Randi take this in and see what she does with it, and I need Pace's side of that drive home.

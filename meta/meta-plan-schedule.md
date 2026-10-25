@@ -26,10 +26,10 @@ The jobs are distinct and have **opposite stability profiles**:
 
 ### Layer 1 — Identity: the name
 
-The **distinctive scene name is the permanent handle.** "{{Two Towels}}," "{{The Long Way}}," "{{Standards}}." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
+The **distinctive scene name is the permanent handle.** "{{Two Towels}}," "*The Long Way* (now {{Substitution}}'s second movement)," "{{Standards}}." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
 
 - **Cross-references use names, not numbers:** "see {{Two Towels}}," not "see scene 15."
-- **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. {{The Long Way}} is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
+- **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. *The Long Way* (now {{Substitution}}'s second movement) is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
 - **"X of ~41 complete"** is a *count*, not a max-number. It lives as prose in `meta-brief.md`, computed from how many are drafted — never inferred from the highest scene number.
 
 ### Layer 2 — Sequence: phase-grouped, list-ordered
@@ -100,7 +100,7 @@ A date earns a hard pin **only when the prose depends on the specific day**, not
 
 Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned hard. Everything else relative.
 
-**All-soft case — {{The Long Way}}:**
+**All-soft case — *The Long Way* (now {{Substitution}}'s second movement):**
 > *Season: early fall, warm, leaves green, cool evening ("gone blue and cool"). Term: week 3, settling-in, pre-midterm. Day: omitted — the prose names no day-of-week; timing is carried relatively ("hours after the meet-cute," "by evening"). (≈ Thu Sep 17.)*
 
 Nothing pinned. Reorder it, add a summer, shift the calendar — the *warm-day / cool-evening / early-fall / nothing-due-yet* texture is untouched, because that is what the prose was written against.
@@ -116,7 +116,7 @@ The *break window* is pinned (the empty town is the engine); the specific date i
 
 - **Reordering is never free** — *something* must record that a scene moved. This system shrinks the cost to updating one scene's position; it does not eliminate the move itself.
 - **"How far along at a glance"** is lost from the numbering and must come from a count in the brief instead.
-- **Verbal shorthand** is slightly longer ("{{The Long Way}}" vs "scene 8") — but names were already the working register in conversation.
+- **Verbal shorthand** is slightly longer ("*The Long Way* (now {{Substitution}}'s second movement)" vs "scene 8") — but names were already the working register in conversation.
 - **One central maintenance point** — the anchor block — must be kept as the single source of truth. The payoff: revise the calendar once, never re-stamp scenes.
 
 The recurring renumbering tax is **not** the irreducible price of refactoring. It was avoidable, and this ends it. The irreducible price is small: when a scene moves, update where it sits — once.

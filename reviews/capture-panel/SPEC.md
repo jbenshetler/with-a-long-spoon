@@ -1241,3 +1241,21 @@ How to use it, provisionally:
 | 2026-10-12 | ch3 the-pointing-game | :49 one statement (version a) | 16 | 8.94 | 9.38 | 1 ALMOST-STOPPED on it; 14/16 restate the move in their own words (full version: 13/16) |
 | 2026-10-12 | ch55 nothing-underneath | door-line + "Vee, I—" (standing gates, mixed read dates) | 16 | 9.25 | 8.88 | baseline; 4 readers quote the door-line feeling December come back |
 | 2026-10-12 | ch55 nothing-underneath | no door-line; "Vee, I l—", Vee reads the wall | 16 | 9.25 | 8.88 | 16/16 quote "l—"; 15/16 hear *love*, fable rg holds it open; 3 ALMOST-STOPPED on it (at 8, 9, 10) |
+
+### Lane-scoped renumbering and the Long Way merge (2026-10-25)
+
+`renumber_gates.py --lanes MODEL/PERSONA ...` restricts a plan (and `--verify`) to the
+named lanes. It exists because the lanes are not all at one baseline: the
+{{How It's Done}} merge of 2026-10-23 (Turned Up folded in) was never propagated to the
+`fsog-refugee` and `queer-woman` lanes or to `claude-fable-5-1/romance-graduate`, which
+`--verify` reports as +1 from ch018 (438 mismatches at 5c61a4ed). Those lanes were left
+untouched and still need an identity-keyed repair before their numbers can be trusted.
+
+The Long Way was merged into {{Substitution}} on 2026-10-25 after a capture test
+(`split-experiments/merge-substitution/`). On the seven aligned romance-graduate lanes
+(claude-opus-4-8, claude-opus-5, claude-opus-5-5, gemini-3.8-flash, gemini-4-argon,
+glm-5.3, gpt-5.6-sol), each standalone Substitution read was retired by hand to
+`read-merged-substitution-ch005.md`, the test's merged read was placed at `gate-ch005.md`,
+and `--merged 5 6 --preserve-prose-sha 18336f94a8c1 --lanes …` moved 483 gates and retired
+7 Long Way reads; `--verify` on those lanes reports zero mismatches. Checkpoints were not
+reminted, so `ck-ch010` and above consolidate a span one chapter longer than their name.

@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
 REACTION
 
-Oh, my God. *Oh, my God.*
+God, my chest hurts for her. This was barely two pages—a tiny little exhale of a chapter—and it knocked the wind right out of me.
 
-My stomach actually dropped in that truck. When he stepped out into the pouring rain to give her privacy, and she sat there cold and shivering and realized *no, I don't want privacy, I want him in here, I want him to look at me*—and then tapped on the glass with her knuckles and crooked a finger? My jaw hit the floor. The absolute brazen, delicious nerve of her! For a girl who has spent her entire life shrinking away from the leering gaze of frat boys and the suffocating, shame-soaked policing of her mother, choosing to summon him back into that cab, getting up on her knees on the bench, and slowly unbuttoning her wet shirt while holding his eyes? That wasn't just hot; it was a revelation. It was her taking the heavy, awful shame of her mother’s voice—*floozie, what kind of girl*—and turning it into pure, unadulterated erotic fuel.
+There is something so terribly, exquisitely painful about Vee sitting in that dorm room, swimming in Pace’s flannel, babbling to Cassie with her whole face open like a girl who just discovered what the sun feels like. "She said it the way other girls said *and then we kissed.*" That line gutted me. She is counting every single crumb of ordinary human care—the moleskin, the rye bread, the boy standing in the rain so she has privacy—like it's a miracle from heaven. Because for her, it *is* a miracle. She has been so starved for so long that being treated like a person, being fed, having someone look at her naked body with reverence instead of greedy hands, feels like salvation.
 
-And Pace! The discipline on that man is a lethal weapon. He didn't pounce, he didn't reach for her, he didn't try to play the conquering hero. He just sat there, taking in the gift she was offering, with that stillness and gladness, letting her command the moment entirely. And then the twist that broke my heart and made me want to climb through the page: she reaches for his hand to pull him into a kiss, and he is *shivering*. He stood out in the freezing mountain downpour without a coat, soaked to the bone, just so she could feel safe. And she tucks his frozen hand under the dry flannel against her bare stomach to warm him. The tenderness of that! The sheer, staggering weight of it!
+And Cassie. Cassie is the absolute beating heart of sanity in this story. She started out with her usual razor-sharp defense mechanism—"No windowless van," "I had your blood type ready"—ready to laugh it off, ready to be the cynic. But the moment Vee slowed down, Cassie dropped the shield. The way Cassie just went quiet, rapt, and said her name: *"Vee... Just her name, like setting something down where it wouldn't break."* Cassie *knows*. She doesn't know about Randi, she doesn't know about the leather bench or the threesome plot, but she knows her best friend is falling headfirst off a cliff, entirely unprotected. Cassie didn't mock her. She didn't scold her. She just told her to borrow real boots next time and keep the shirt. That's real love.
 
-The hike itself was gorgeous, too. The cherry pits on the wax paper, the horseradish catching in her throat, the way he cut the moleskin and laced her boot without an ounce of condescension—he's not just seducing her, he is steadily, methodically teaching her that she is allowed to have needs, allowed to take up space, allowed to want things. That moment where she confesses she wants the russet silk dress, instantly shames herself for wanting something beyond her station, and he just softly says, *"That sounds like a beautiful dress,"* leaving it on the rock between them? He is going to buy that dress. I know it in my bones. And it's going to wreck her.
+The tragedy hanging over this entire scene is so thick you could choke on it. Vee thinks she's finally safe. She thinks she broke the rules of her mother's voice and won something holy. Meanwhile, we know the architecture under it. We know Pace is going to have to go back to Randi, or Randi is going to corner Vee for another smoothie debrief, and every pure, shining memory Vee is clutching in that dorm room is going to be weighed and measured for someone else's kink.
 
-The only thing that made me want to scream was that campus cop barking the siren at the very end, cutting off whatever she was about to say and sending her scurrying inside like a scolded kid. But maybe that's perfect. She walks into that dorm smelling of him, wearing his dry flannel, soaked jeans clinging to her legs, holding a balled-up wet shirt, with Cassie sitting right up there waiting. Cassie is going to look at her in that oversized flannel and know *everything* shifted.
+It was short, yes—almost a vignette—but it didn't feel like a shortcut. It felt like the echo in the room after the bell rings. Now, please: I need to see where this wave crashes next.
 
-GATE 11 — Leave No Trace
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute electric charge of her summoning him back into the truck to watch her strip, combined with the staggering tenderness of her warming his freezing hand against her stomach. I'm completely hooked—give me the next chapter right now.
+WHY: It was short, but it packed an incredible emotional punch. Seeing Vee lay out her heart to Cassie while wrapped in Pace's shirt made the impending wreckage feel ten times more devastating.

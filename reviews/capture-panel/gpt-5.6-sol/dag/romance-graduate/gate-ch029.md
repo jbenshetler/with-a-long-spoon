@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this got me. The apology did exactly what I needed it to do: Vee didn’t just arrive beautifully dressed and offer Pace a polished “sorry.” He asked what happened, and she told him the humiliating truth—that she recognized the manipulation, chose the lie anyway, and used it to punish him. That is grown-up emotional accountability. And Pace thanking her for telling him instead of instantly declaring everything fine made the forgiveness feel earned. He wanted to understand her, not merely restore the pleasant version of the evening.
+Oh, she is so far gone for Randi, and she still thinks she is telling Randi about Pace.
 
-The heels nearly killed me. Vee deciding that accidentally standing taller than him constitutes another act of disrespect is so painfully, specifically her—and then he simply puts her scarf right and gives her that line about beauty loaned by the gods. Of course the scarf is working. Randi has dressed Vee for Pace after sleeping with him the night before, and Vee is walking into that house wearing Randi’s shoes and silk while believing she is repairing a private relationship. The dramatic irony is becoming almost physically unbearable. Every beautiful thing now has Randi’s fingerprints on it.
+That practice room made me feel trapped in the best and worst way. The soundproofing, the two chairs facing each other, Vee bringing back the shoes Randi put on her—it all felt indecent before either of them said anything indecent. And this time Vee created the privacy. She touched Randi’s wrist. She chose only Randi. She pulled her away from Cassie because this was the person she needed to tell the whole thing to. That is not friendship with a couple of unusually European kisses attached anymore. Her mind can keep filing it there, but her body has left the building.
 
-And then the kitchen. Jesus. The accidental swat, Vee’s body answering before she has language, Pace seeing it, and her frantic campaign to keep talking so the question cannot enter the room—that felt genuinely erotic because it belonged to her psychology, not to a prefab kink checklist. She is discovering something that collides directly with the shame she has only just begun to loosen. I loved that Pace did not repeat the strike as an experiment. He put his hand over the place, asked only “This?”, and let her answer from inside the wanting. That tiny exchange was hotter than pages of instructions would have been.
+And Randi knew exactly what she was doing. The wet hand detail—Jesus. Vee hadn’t even understood that detail as a lever until Randi handed it back to her. Then “Did you deserve it?” What an exquisitely dangerous question to ask a woman who is only just discovering that the answer might turn her on. Randi didn’t merely listen; she guided Vee into the meaning of her own response, watched it happen in real time, and then supplied another story calibrated to take her the rest of the way.
 
-Her trying to hide her face while arranging the entire encounter around the sensation was also painfully believable. She wanted it, chose toward it, and still could not bear to be seen wanting it. Then “please” came out before she could build a respectable explanation around it. That is exactly the collision I’m here for: explicit body, actual interior life.
+I do not believe in that apologetic little man for one second. He has joined the parade of Randi’s imaginary educational boyfriends. The specificity is almost cruel now: the lap, the raised skirt, the counting, the humiliation, the hand slipping between her legs. She built that scene for Vee and watched Vee’s body receive it. Vee had to flee to a locked bathroom because Randi made her wet by talking, and still she comes back asking, “Where were we,” as though they’d been interrupted over coffee.
 
-I did twitch at the sentence that skipped over Saturday night—after all that emotional buildup, “first lighter and then not light at all” is perilously close to the kind of coy curtain-pulling I hate. But the Sunday scene more than paid the chapter’s erotic bill, and it was specific enough that I never felt cheated overall.
+And the thing that really got me was Vee stopping her own hand. She knows enough to understand that touching herself would mean something. Not everything, not yet, but something she is not ready to admit. She can tolerate her body answering Randi as long as she can call the answer involuntary. Choosing to finish it would make the desire hers. That is painfully, perfectly Vee: the wanting is already enormous, and her last defense is refusing authorship.
 
-The ending made me soft and nervous. Two nights in his clothes, washed in his soap, smelling entirely like him: lovely, intimate, and also another step into a life whose architecture she still cannot see. “You’re always beautiful” absolutely worked on me. But Randi sent her there dressed in Randi’s things, told Pace she would come, and effectively directed both sides of the reconciliation while Vee believes the whole weekend belongs only to her and Pace. I am desperate for the truth now. The warmer and safer this house becomes, the worse the eventual betrayal is going to hurt.
+I’m also furious on Cassie’s behalf again. Cassie is right there, saving Vee a seat, and Vee barely hears her because she is already touching Randi’s wrist and drawing her away. Cassie would never turn Vee’s confession into an erotic experiment, which is precisely why Vee keeps giving the dangerous material to Randi instead. Safety cannot compete with intoxication when you don’t yet know you’re intoxicated.
 
-GATE 29 — A Recognized Method
+The goodbye nearly made me yell. “Barely clocked it,” my ass. Vee’s arms stayed around her after Randi had already moved on. That held note is the truth. Vee wants Randi to stay, and the book is making me endure the agony of watching her explain every unmistakable signal with exhaustion, France, friendship, Pace—anything except the woman whose kiss she is still holding after it ends.
+
+I’m wildly turned on and deeply uneasy. Randi’s desire is real; her tenderness is real; Vee’s response is absolutely real. So is the manipulation. Randi is manufacturing fantasies and quietly collecting proof of what they do to Vee, while Vee still does not know Randi went directly from hearing her confession to Pace’s bed and used it to make them both come. The secret has become unbearable now. If Vee learns that this intimate little practice-room awakening was effectively reconnaissance for two people already discussing her body together, it is going to detonate everything.
+
+Text to a friend at 1 a.m.: SHE GOT SO WET LISTENING TO RANDI TALK THAT SHE HAD TO HIDE IN A BATHROOM, THEN CAME BACK AND KISSED HER GOODBYE AND STILL THINKS THIS IS FRIENDSHIP. I am losing my mind.
+
+GATE 30 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “though the evening went on a long time after it, first lighter and then not light at all.”
-WHY: That brief coy skip irritated me, but the kitchen scene immediately delivered the psychologically exact heat I want. The apology deepened Vee and Pace’s bond beautifully, while Randi’s invisible control over the entire weekend has me already reaching for the next chapter.
+ALMOST-STOPPED: none
+WHY: Vee finally initiated the private intimacy, responded to Randi with her whole body, and held on after the goodbye kiss was over. I need the next chapter immediately because this attraction is no longer remotely deniable to me, while the lie underneath it has become almost too loaded to survive.

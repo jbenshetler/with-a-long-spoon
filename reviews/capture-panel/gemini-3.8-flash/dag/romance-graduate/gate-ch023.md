@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b529b5725542 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, the venom running under all this silk. I feel sick in the best, most twisted way possible.
+Oh, God. Oh, *God*.
 
-Look at what Randi is doing here. In chapter 20, she showed up angry, refused his stew, fucked him with her eyes closed, and threw his selfishness in his face. Now, on Monday, she’s back, and she’s completely changed tactics. She doesn't fight him on Vee anymore—she *climbs into the obsession with him*. She lies on his chest, purring, feeding his ego, talking about Vee like they’re two connoisseurs admiring a vintage they bought together at auction. She strokes his chest, tells him how romantic it is, and then—lethally—she rubs her breasts down his ribs, literally acting out the fantasy of them both on Vee to get him hard. It works, because of course it does; Pace has the emotional foresight of a fence post.
+This chapter broke my heart into about fifty pieces and then stepped on them. I am sitting here in the dark with my chest actually aching, because the dramatic irony in this book has ceased being a delicious, naughty game and has officially crossed over into a slow-motion car crash where the victim is humming along to the radio with the windows down.
 
-And then Pace walks right into the trap. Randi asks him what Vee does, and he says it: *"She comes in and the whole thing goes brighter. Like somebody found the lamp."*
+*"She had never been so fortunate, or so happy."*
 
-The absolute *frost* that went through the room right there. *"Randi went still on him. Not the loose stillness of after. A different one, the kind that takes holding."* You can feel the floor drop out from under her. Randi thought she was running an erotic triangulation where she gets to consume Vee vicariously and keep Pace tethered to her. But Pace isn't just playing tailor anymore. Pace is *enchanted*.
+Do you know what it felt like to read that final sentence right after seeing Randi in his kitchen eating chicken cutlets off the small plates? To know that forty-eight hours ago, Randi was riding him in that exact low lamplight while Sade played under the door, talking about how Vee’s breasts were criminal, and Pace was fantasizing about the two of them naked in that bed together? And now here is Vee—sweet, starving, blooming Vee—tucking her cold feet under his bare thighs, smelling wood dust and soap on his robe, resting her palm flat on his chest, and murmuring his real name. *Peter.*
 
-And watch what Randi does immediately after that chill: she uses Vee’s ghost to fuck him, and then she demands the very thing she refused in chapter 20. She puts on his shirt, sits in his kitchen, and lets him cook for her. She eats every single bite on the plate. She stakes her territory in that house down to the grain of couscous. It’s terrifying, it’s desperately sad, and it’s completely fascinating. Pace genuinely thinks this is domestic harmony; he thinks everyone is fed and happy. He has no idea he's sitting on a powder keg.
+She thinks she’s found a home. She thinks she was lucky. She mapped out the semester in her head—bumping into Randi outside the dining hall, complaining about an integral at the coffee shop—and thought the universe was just handing her grace. It makes you want to reach through the page, grab her by the shoulders, and scream at her to pack her bag and run.
 
-GATE 23 — Gone
+And Pace! I don’t know whether to weep for him or shake him until his teeth rattle. The Daphne revelation—nineteen and fifteen, two years, a tutor who was the soft middle of his isolated little life until she turned twenty-one and outgrew him—explains *so much* of his terrifying control, his obsession with pacing, his need to be the architect, the protector, the teacher. Vee clocked the arithmetic immediately and had the grace not to use the ugly word, but you can feel how that scar runs through his entire psychology. And then the literal scar on his inner thigh! The heavy, quiet moment where he doesn't pull her hand away, just covers it and says, *"Not tonight."* That is intimacy. Real, grown-up, terrifying intimacy.
+
+The tragedy is that Pace isn't faking this. He isn't putting on a show. When he talks about the coastline, or Newton's three sentences, or holds her ankle under the quilt, he is completely, utterly present with her. He is falling in love with her in his own hyper-disciplined, mathematical way. But he has built this entire sacred cathedral on a foundation of pure rot. He let Randi build the blueprint, he lets Randi sleep in that bed on Monday, and he lets Vee sleep in it on Tuesday, and he genuinely thinks his little formula is going to hold.
+
+The air is running out of the room. When Vee finds out—and she *will* find out, because Cassie is watching, and Randi is fraying, and a house cannot hold two women's ghosts without one of them breaking a window—it is going to destroy her. I am terrified, and I cannot turn the page fast enough.
+
+GATE 24 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological knife-fight happening beneath the post-coital haze was magnificent. Randi using Vee to turn Pace on, only to get gutted when Pace describes Vee as the light in the room, is absolute top-tier drama. I have to see how long they can keep this pretense alive before the induction dress blows it to pieces.
+WHY: The gut-punch of Vee feeling so miraculously lucky while standing at the epicenter of a calculated trap is breathtaking, agonizing storytelling. The vulnerability about Pace's past and his real name anchored their bond so deeply that the inevitable fallout is going to be devastating. I am completely hooked.

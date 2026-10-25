@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch063 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch063 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
 
 REACTION
 
-Okay so here's where I am at 1 a.m.: I know what Vee doesn't, and it's ruining me. Two chapters ago I watched Pace eat Randi out and then listen to her say *she's not the only one in love* with his hands locked around her waist. And now here's Vee, hungover in his undershirt, drinking the water he left on a folded square of paper towel so it wouldn't ring the wood, crossing the kitchen to put her whole weight against him because she's decided he's the loneliest man alive and she's going to be the one who *sees* him. And she is seeing him. That's the thing. Everything she worked out standing there is true. He did go to college at fifteen. He did have no one. The door really was on a timer. It's all real — and it's all also exactly the kind of thing that makes a woman cross a counter.
+Oh, she almost had it. She *almost had it* and then she filed it under "Randi's still worried about me." I actually put the book down on my chest for a second.
 
-I can't tell anymore whether I'm watching a man get comforted or a man get fed, and I've stopped pretending I'm meant to.
+Here's what got me. The whole Sheri telling is a victory lap — and it's a real one, it earned itself over three chapters, the blonde who "didn't have anywhere to stand," the month of her own idiocy handed over as a gift. And Randi's doing her Randi thing, turning each piece in the light, handing it back improved, taking Vee's hand across the cloth and turning the fingers one at a time. Warm as a bath. And I'm reading it going okay, okay, we're on the rails again, Marsh-walk-loft-fish-neck-kiss, I can feel the frame — and then Vee gets to the *look.* Sheri's eyes coming down the keyhole, the bare leg, sticking on the shoes. "She was enjoying herself."
 
-Sheri though. Sheri I loved before this chapter even started — the phantom blonde walking off the stool as five foot nothing with two colors of hair and crooked makeup and *you get to motorboat them things,* the blush coming up his neck past anything deniable. The whole month of Vee's invented rival collapsing into a tiny loud gay woman who looked her up and down and went *oh.* That was a gift of a chapter. And it set this one up, because Sheri's the one who handed Vee the first brick — *went bad with his daddy, hasn't been home since he was sixteen* — low across the table like she was reporting soil conditions. So when Vee does the arithmetic this morning, she's not doing it alone; she's finishing a sentence Sheri started. I like that the book made her earn it in two steps.
+And Randi's thumb stops.
 
-The "one friend" thing gutted me, I'll be honest. *Nobody had one friend. One friend wasn't a number a person had.* And then Daphne — the reader and I both know what Daphne was, and the book won't say it, and Vee won't say it, and this morning she tries to *hold it as he holds it* and can't, stacks the two truths and lets them refuse to reconcile, and that's the single most honest thing anyone's done with Daphne in sixty-three chapters. She's not forgiving it. She's not naming it. She's holding both and it hurts. Good. That's the grown-up thing I keep this book for.
+That's the whole chapter for me. "A thumb gone still mid-pass, sitting where it had been moving, a woman losing the thread of what her own hand was doing." The architect dropped a stitch. Because another woman looked at Vee the way Randi can't let herself be caught looking, and told the story to Vee's own face, lit up, not knowing she was putting a knife on the table. And then — this is the part that iced me — "And you liked it." Flat. None of the evening's music in it. That is *jealousy,* naked, for exactly one sentence, and Randi can't keep it off her mouth. The woman who runs every beat of every dinner lost control of her own voice for a line and a half.
 
-What I'm suspicious of: the long freshman riff. *Eighteen was a whole world and she'd lived every inch of it* — the cafeteria trays, the forty-to-a-floor, the ones you keep. It went on a beat past where I'd connected it myself, and for a second I felt the book making sure I got it. That's the move I DNF people for. It survived here because it's Vee grieving, not the narrator lecturing, and because she's grieving *on his behalf a thing she can't let him see her grieve* — but it was the closest the chapter came to over-explaining, and I noticed.
+And Vee's "No." Too fast. She patched it — "Not my thing." And here's the thing that's killing me: Vee *felt* Randi go still, "had it under her skin before she had it anywhere else," looked up — and read it completely wrong. Did "the only arithmetic she had for it." She's *still worried about me.* And felt warm and looked-after. The reach in the dark from chapter 60, the three forks into the fantasy, the empty mouth — all of that is sitting right under this table and Vee just mistook her own guard going up for Randi's. The irony didn't surface. It got *closer* and then she paved right over it, and I wanted to shake her and I also completely believed it, because that's exactly the lie that's cheapest for her to reach for.
 
-And the real horror underneath all of it: she wants to hand this whole tender morning to Randi on Tuesday. The win, the phantom laid to rest, Sheri, *I don't have to be jealous.* She's going to carry the most intimate thing Pace has ever told her straight to the woman who co-picked her and is in love with her and sleeps with him. The pipeline's still running. The gift still wants to go home to the table. Marsh is somewhere grading papers being right.
+And "I know she isn't, gorgeous." Randi recovered. Thumb took up where it left off. The architect blinked and then she was back. But I *saw* it go.
 
-GATE 63 — Hangover
+The wax. Okay. Pace asked for bare, in the voice he uses for facts, and Randi lit up over Sondra and the glass of something and "the most expensive thing in the room." I clocked it. It's one more thing arriving as Vee's own nerve that somebody else wrote — but honestly after the thumb I almost didn't have room for it. Though: Friday, waxed bare, and then Sheri's Valentine's dance is coming, and Pace requesting it two days after a taproom night — I don't love what my brain is doing with the timeline but I'm not putting it down, I'm leaning in.
+
+The goodbye kiss did its thing again — the draw-back no wider than a breath, the wait held inside it, "and this time it stayed" — and Vee turning her own face up *before Randi started to,* eyes already closed, waiting on the hand. She's the one reaching now. "The other part she didn't write down. She had that one cold." Chills. She means the kiss. She doesn't know she means the kiss.
+
+This was the frame-break I was waiting for. Third loft dinner on paper and instead of counting rails I got the one crack in the architect I've been promised since chapter 51. That bought the whole thing.
+
+GATE 64 — Between
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "Eighteen was a whole world and she'd lived every inch of it: the cafeteria trays and the tables you fought your way onto... That was the year they handed you people your own age" — the one stretch where I felt the book making sure I understood instead of trusting me.
-WHY: Quiet chapter, but it cracked Pace open wider than the cold ever did, and I know what she doesn't, so every tender beat landed with a second edge. The near-over-explain cost it nothing because it was grief, not instruction — and now she's going to carry the whole thing to Randi, which is the only place I want to be reading next.
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The thumb going still and "And you liked it" is the first time Randi's jealousy cracked the surface in front of Vee, and Vee misreading it as protectiveness is the irony finally almost-surfacing and then going back under — that's the beat I've been reading toward and it landed. I want the next one because the wax, the Valentine's dance, and a Randi who just slipped are all loaded now.

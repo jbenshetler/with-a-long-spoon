@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
 
-REACTION — Oh, this is lovely, and it is making me furious.
+REACTION
 
-Vee sitting naked at that little table, talking happily at Pace’s back while he washes up, is exactly the domestic intimacy I want from this book. No performance, no crisis, no sex required to prove they belong in the room together. And him remembering Meg’s boots, which heel slipped, Kayla talking the paint off a wall—yes. That got me. This is what being listened to feels like, and of course it reaches Vee more deeply than some generic romantic speech would. Then Theo’s name causes no possessive-alpha routine whatsoever. He simply makes room. Grown man behavior. Delicious.
+Oh, Vee. No, sweetheart. You did not talk.
 
-And Vee remembering Chili’s and quietly giving Pace the choice of venue nearly undid me. She understands now. She doesn’t make him explain himself again or turn his sensory limits into a ceremony about her generosity; she just adjusts the plan so he can actually enjoy meeting her people. That is love with its sleeves rolled up.
+That lie landed so softly I almost missed how enormous it was. She is glowing, she is home in both senses, she wants to hand Cassie the happiness without handing her anything that might make Cassie look too closely—and suddenly Pace shrinking a sweater is easier to say than *I went to his house naked because Randi told me words were the problem, and we had sex before he could finish his first sentence.* The invented laundry disaster is funny enough to carry everyone straight past the missing truth. Even Cassie laughs. Especially Cassie laughs. That hurt.
 
-But Pace saying he wants to meet her people when one of those people is his existing lover? Sir. Absolutely not. Vee hears “Randi” as a gift, starts glowing over the fantasy of introducing her two favorite people, and he lets her. Worse, “bring Cassie too,” “and Meg,” “and Kayla,” is such perfect camouflage. Now the meeting can happen in a crowd where any flicker between Pace and Randi can disappear into noise. Maybe he sincerely wants all of Vee’s life—and I believe he does—but he is building the beautiful inclusive room on top of the fact that Vee does not know two of its occupants have already chosen her together.
+And the worst part is that Vee believes her own headline. “We talked,” when the actual talking was Pace trying to say something and Vee stopping him with her body. She went there needing an answer, came back exquisitely fed and cared for, and has translated relief into resolution. I understand exactly why. I felt the sweetness of her being able to enjoy the crappy dorm shower and the draft and Cassie’s ordinary room because Pace is no longer a terrifying blank. But the thing that broke them has not been repaired. It has been covered with sex, pancakes, mushrooms, and a lie clever enough to make her best friend laugh.
 
-“Let me handle it” should feel wonderfully competent. Instead it made the back of my neck prickle. He is handling far too much already. I want this gathering desperately, and I dread it. If he arranges some apparently accidental reunion with Randi and watches Vee delight in “introducing” them, I am going to be livid. The tenderness is real. The listening is real. That is precisely why the concealment hurts this much.
+Cassie’s mother thanking her for the card nearly undid me. That tiny moment has more honest belonging in it than all Vee’s claims about the weekend. Cassie hears the emotional size of Vee’s little “Oh” and does not make her perform gratitude or vulnerability. She just gives her the fact and lets it be warm. That is love without leverage. I wanted Vee to climb down and tell her everything right then.
 
-GATE 54 — Back
+The ending was genuinely soothing despite all my dread: the narrow bunk not becoming a deprivation, the wall only being a wall, Friday reliably coming. I’m glad Vee has her happiness back. I’m also watching her build it on missing information and now actively crop the truth for Cassie. Pace remembers every friend’s name and wants them all brought into his world; Vee has just begun falsifying that world before anyone enters it. This gathering is going to be a live grenade.
+
+GATE 55 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This quiet domestic chapter gave me the emotional intimacy I’ve been starving for, then planted dread directly underneath it. Pace remembering Vee’s whole life is gorgeous; Pace preparing to enter that life beside Randi while Vee thinks they are strangers is intolerable, and I need to see what he means by “handle it.”
+WHY: The chapter made domestic happiness feel lovely and dangerous at exactly the same time. Vee saying “we talked” when they absolutely did not has me desperate for the moment Cassie, Randi, Pace, and Vee occupy one room and the edited stories can no longer stay separate.

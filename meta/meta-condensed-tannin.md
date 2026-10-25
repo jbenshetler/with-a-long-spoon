@@ -1,6 +1,6 @@
 # Condensed — Tannin
 
-*VIGNETTE · Draft complete · `tannin.md` · ~1,080 words · Pace POV, close third · Thu Sep 17 evening, hours after {{The Long Way}} · Pace's den · present: Pace, Randi — Vee absent, discussed throughout*
+*VIGNETTE · Draft complete · `tannin.md` · ~1,080 words · Pace POV, close third · Thu Sep 17 evening, hours after the froyo date ({{Substitution}}) · Pace's den · present: Pace, Randi — Vee absent, discussed throughout*
 *Craft companion: `meta-note-tannin.md`. Title provisional (author to vet).*
 
 ## Summary

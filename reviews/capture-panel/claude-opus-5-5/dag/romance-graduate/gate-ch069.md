@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. She turned her mouth away. On purpose. Not "an accident got up to look like one." My stomach dropped harder at that than at the whole dance floor, because it's the first time in sixty-nine chapters that Vee has *refused* Randi anything. The refusal is the confession. Randi read it in an inch ("What's up?"), and then she went for the neck. The neck. Vee's own move, the one she got "Ticklish" for twice, handed back to her wet with "See? How do you like it?" I yelled at my Kindle. That's Randi telling her *I knew exactly what you were doing every time*, dressed up as a tease, and Vee is too lit up to hear it.
+Two pages. I actually flipped back to check I hadn't skipped something. Then I sat there holding the phone and thought: oh, she's doing this on purpose.
 
-And I know things Vee doesn't. I read 61. I watched Randi say "I want her to know exactly what she does to me" with her hand on her own breast. So "Having you at the dance was so great. I've wanted to do that for the longest time" isn't a slip, it's a play. *Having.* The same word Vee fed Pace in bed while he rationed her inches. Randi is laying track, Vee's body is on it, and the girl thinks she's the only one with a secret. The dramatic irony is so thick I could spread it.
+Because Cassie asked the question. My notes have literally been begging for someone in a room to say a true thing out loud, and the someone turns out to be the roommate in her coat, with no wine, no booth and no jukebox. Cassie doesn't ask what happened, and she doesn't ask what Randi is to her. She asks "Is this what you want?" That's the exact question every chapter since the dance has been circling with its eyes closed. What got me is that Vee actually *goes and looks* for the answer, comes up against "the edge of it," and steps back before she can see how big it is. That's the most honest Vee has been since the porch, and she still doesn't get there. Her neck said yes. Of course her neck said yes. Randi put her mouth exactly where Vee had put hers and asked "How do you like it?" I'm still mad about that line, in a good way.
 
-What I loved most was how much this chapter lets Vee *not know*. She doesn't narrate it for us. She can't tell if she's dressing to be looked at or to be covered, arms stuck in the plum sweater, and that's a perfect image. The wintergreen Lifesaver, the fingertip on the inside of her wrist, "Static," she told herself, "and it went on not being static." That's the charge I came for, with nobody naked. Then the ending. Cassie, coat still on, asking straight out, *worried*, and Vee with nothing. Cassie is the one person in this book who sees everything, and she just put her finger on it. Good. Somebody had to.
+Then she reaches for the sorority fight, the one they'd agreed never to run again, and Cassie just steps over it. Doesn't take the bait, doesn't defend herself. And then: "Do you want some of my Cocoa Pebbles?" I laughed out loud and then felt a little teary, which is embarrassing over cereal. Cassie is the only person in this whole book who wants nothing from Vee. Pace is collecting her confessions inch by inch, Randi is collecting her full stop, and Brooke is collecting everybody. Cassie notices she skipped dinner. "A want the size of a bowl." That's the line I'd text someone at 1 a.m.
 
-Sunday summarized as a sex marathon she kept starting, "full of him and not, somehow, filled": I bought it, and I was grateful it wasn't written out beat by beat after three straight fully choreographed chapters. She's using him as a fire extinguisher and he's letting her. And the lie from 68 is still sitting under all of it cold.
+Small gripes. "That was the whole trouble of it" is the second "whole trouble" in two chapters. And the chapter half-explains its own ending ("that was the size of what she could answer tonight"), when the cereal box had already said it. Trust me, I got it. The opening paragraph also mostly re-runs the last page of 69. If I hadn't just read 69 I'd have enjoyed the recap. Since I had, it felt like the book clearing its throat.
 
-Gripes. Monday in the bunk is ANOTHER solo-in-bed scene, my fourth in about ten chapters, even if this time it's about *not* touching. I warned myself, and I tensed up. It worked only because it's about restraint and it's short. Marsh is chalking the theme again: reciprocity, "a gift was a debt you laid on someone," in a chapter titled "Coming Due." I see it, book. At least it "slid off her." "Behind the door stood something larger than heat" leans toward telling me my own subtext. "Been told not to weaponize" and the Lifesaver-every-class ritual are news to me. Maybe I lost them, but they felt invented to fit.
+On the two-page chapter thing: I don't have a verdict yet. As a beat after the 67–68 bomb and the long wired interior of 69, it plays like a held breath, and it lands. But this is the second quiet chapter in a row. It's a tiny one, so I'm not docking much, but I'm counting. Saturday brunch is set up, Randi is off "disciplining a bad girl" at standards committee on Thursday (Brooke's hand all over that), and Pace has watched Vee tell him her first lie. The next chapter needs to put two bodies in a room. And I'm now quietly certain Cassie saw the neck.
 
-Suspicious of: "Standards committee… I've got to go discipline a bad girl." After Brooke's "you need to choose" and Randi's "I chose" at the mixer, I don't believe for a second that Randi is the one holding the paddle Thursday. And brunch on Saturday, which is supposed to be Pace's day now? Vee asked for it herself, straight out of her ringing neck. Valentine's at the hall is two weeks out. Everything is coming due at once.
-
-1 a.m. text: *she turned away from the kiss and then ASKED HER TO BRUNCH. and cassie just asked her point blank. I'm not sleeping.*
-
-GATE 69 — Coming Due
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "She kept her hand on her stomach." Another night in the top bunk, another solo scene. For one paragraph I thought the book had stalled into a pattern.
-WHY: This is a quiet chapter after three loud ones, and it earns it with one real turn: Vee refuses the kiss, which is the first time she's ever admitted anything, even to herself. The wrist, the neck, and "how do you like it?" ran hotter than plenty of explicit scenes I've read. Ending on Cassie's plain question with no answer has my thumb already moving.
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 1
+ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." It's the opening rehash, a second chapter starting in the same doorway, and for a second I thought it was going to be another whole interior chapter.
+WHY: It's tiny and it doesn't move the plot, but it finally lets someone ask Vee the real question to her face, and the cereal answer is one of the truest things the book has done. I want the next one now because I've had two quiet chapters and everything I'm waiting for (Saturday brunch, Thursday's standards committee, Pace and the lie) is right there.

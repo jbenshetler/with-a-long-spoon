@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · dated · 2026-10-24*
 
-REACTION — Oh, Cassie sees it. Not the sex, not the drawer or the scrunchies or the spanking—she sees the vanishing. “You don’t come home school nights” landed like a hand quietly laid across the path. No accusation, no jealousy, no attempt to make Vee defend Pace. Just: I have noticed that your life is somewhere else now.
+REACTION
 
-And Vee is so lit up I can feel why she keeps going. The baked-tomato burn is absurdly intimate: obviously half naked, obviously being fed, obviously Pace treating one small hurt as worthy of his complete attention. The house staying warm enough that she never considers what she’s wearing is almost more erotic to me than another explicit scene would have been. Her body has become ordinary there. Welcome there.
+Oh, this was quiet in exactly the way Vee needed. Her body has spent so much of this book betraying her, exposing her, wanting before she permits it, becoming a spectacle for somebody else’s attention. In the water it simply works. No shame, no audience, no interpretation. “Her legs were doing something honest” got me. So did her arms feeling like they belonged to somebody generous. I hadn’t realized how badly I wanted her to have one bodily experience that Randi and Pace had not helped create.
 
-But “It’s all so fast” frightened me because yes, honey. It is. She finally hears the speed when Cassie makes her count the empty bed, and this is still without knowing she has entered a relationship whose other two members were discussing and arranging her before she understood there was a relationship at all. Pace has made space for her in his bathroom while keeping her outside the truth of his life. Those two facts are becoming unbearable together.
+And there it is, finally: the first hairline crack in the beautiful version of Pace. Not whether she loves him—she does—but whether he is truly that good or whether she has built him out of wanting and two months of being seen. Four strokes and gone, yes, but that question matters enormously because she does not know enough to answer it. Pace really is tender, observant, and generous. He is also carefully presenting a version of himself while withholding the fact that her best friend is his lover. Vee’s instinct has reached the structural problem before her conscious mind can bear to examine it.
 
-This was tiny, but it did not feel empty. It felt like Cassie touching the emergency brake without pulling it. She gave Vee the question and then left her dignity intact. I love her for not converting concern into a prosecution—and I am suddenly desperate for Vee to come home one night capable of telling her the whole truth.
+The drawer misunderstanding is painful in retrospect too. She is so ready to interpret silence as quiet rejection, then so grateful when an object proves otherwise. Pace keeps giving her acts instead of words, and she has decided she can live inside that—but acts can be curated. A drawer can say *you belong here* while silence conceals what “here” actually is.
 
-GATE 36 — School Nights
+I liked being in the lane with her, but this is now the second very quiet chapter in succession after several chapters that have delayed the central explosion. I’m not bored yet; the interiority is too real, and this doubt is movement even if Vee refuses to pursue it. But the book has put the question in the water. It cannot keep letting it swim away.
+
+GATE 37 — Strokes
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 9
-HEAT: 1
+NEXT: 8
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Cassie quietly made Vee see the speed and scale of what is happening without telling her what to think, and that landed hard. I’m reading on because the domestic sweetness is now sitting directly on top of the secret, and something has to crack.
+WHY: The swimming gave Vee’s body back to her for seventy-five minutes, and the fleeting question about whether she has invented Pace’s goodness is the first real tremor beneath her happiness. I’m continuing eagerly, but I need the secret—or at least Vee’s suspicion—to start moving now.

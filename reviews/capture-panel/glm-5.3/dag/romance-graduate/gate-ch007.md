@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
 
-REACTION: Okay, that was barely three pages and I'd read ten more of it. It's chapter 1 flipped on its head and I felt the flip in my body — back then Randi was the one unraveling, hiding in the bathroom; now she comes through that door and *takes*, no hello, deadbolt and straight into him, and for once she's the one doing the hunting. That heat is real. "Tell me" against his ear, the wine passed mouth to mouth, him never pouring his own glass — that's the kind of detail I starve for. He's getting drunk on her secondhand, and neither of them says so, and the book doesn't underline it. Perfect.
+REACTION — Okay, this is the quietest chapter yet, and I know exactly what it is: the breath between beats. Book just gave me three charged ones in a row — the pointing game, the coffee shop, the wine-on-the-couch scene that honestly did something to me — and now it's parking Vee at a pool with Cassie. And here's the thing: I'd be annoyed if the writing weren't this good. But it is. The line about having loved the water "before she had a body to be a problem" — that's the whole book in one sentence, isn't it. Vee's the girl whose body is a problem to be managed, hers to be covered with cardigans, and the only place she's ever been free of that is underwater where nobody can see her. And this book is about to put her in front of two people who see *everything*. That's not nothing. That's actually the engine.
 
-But what got me was the *jealousy*, and how precisely it's drawn. It never announces itself. It's her thighs setting instead of tightening. The smile arriving a beat late. "She's easy to listen to" — that innocent little sentence — and the whole room goes still under his hands. He reads it exactly: a want too big for her face, and the face staying on anyway. Randi wanting Vee is no longer the game's clean little thrill; it has a tooth in it now. She wants the girl AND she's already afraid of losing the man's attention to the girl, or maybe of what it means that his face does something when he talks about Vee eating. I don't fully know which it is yet and that's the pleasure.
+Cassie is quietly becoming my favorite. "They will never know the love of a woman" kept for Vee, pitched under the bleachers instead of at them — that's friendship rendered exactly. And the splash that barely got her, "outrage out of all proportion to the actual amount of water, which was the point" — I know that move, I've *been* that friend. The ugly shriek-laugh being something she "hadn't made in a while" landed harder than I expected. Little grief note about the grief not surviving the splashing war — the book keeps doing that, sneaking the ache in under the funny.
 
-And he protected Vee's secret — the "nicest a person has been to me in a really long time" — kept it hers. He keeps other women's interiority like a vault, this man. It's hot and it's also slightly unnerving, which I suspect is the point of the whole series.
+But let's be honest about what's missing: heat. Zero. Not even a flicker — Pace is absent, Randi is absent, and my eyes are already doing the thing where they're scanning ahead for when the triangle comes back. I forgive it this once because the bleacher heckles are doing real work — the body-as-public-property theme, the "water wings with those" guys as the crass version of everyone who's ever looked at her — and because I trust where this is going. Two quiet chapters from now, though, and we're going to have a problem. Vee crying underwater and Cassie's flat kindness can only carry me so far without somebody's mouth on somebody.
 
-First two-page-ish chapter of my life, and my verdict: technique, not shortcut. It lands because it's all compression — the scene is one held breath from deadbolt to bedroom door. More of these would have to keep earning it, though.
+What I'm chewing on: Cassie said "goodbye" last chapter, flat, and I clocked it then. Now she's the person who sees Vee's face come up wrong from ten feet off and answers it with a wave of water instead of a question. If this book hurts Cassie on the way to the threesome, I'm going to be genuinely upset, and I want you to know I see it being set up. That's good plotting, actually — making the friend too lovable. Damn it.
 
-GATE 7 — Tannin
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 5
+NEXT: 6
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The jealousy blooming inside the heat caught me completely — Randi's want finally having an edge of fear in it, shown only in her thighs and a half-beat-late smile. Short chapter, but it moved the triangle forward more than chapters four times its size, and I need to see what happens behind that bedroom door.
+WHY: No heat and neither love interest on the page, but the pool scene is doing real character work — Vee's body-sorrow and Cassie's care are the emotional floor the whole seduction stands on. I'm staying because I trust the next chapter brings the triangle back, and I want to see how Randi plays her next card.

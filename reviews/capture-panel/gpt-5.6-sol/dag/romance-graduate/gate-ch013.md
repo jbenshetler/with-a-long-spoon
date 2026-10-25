@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
 
-REACTION — Oh, Randi. That was incredibly hot, and I felt worse with every line.
+REACTION
 
-She came there ravenous, but not for Pace—not exactly. She wanted Vee brought into the bed through his mouth, and she wanted to control the version she received. “Tell me” is filthy as hell, but it is also an interrogation. She never actually wanted to hear how the hike was. She wanted evidence: Vee’s scent, Vee’s softness, proof of what Pace had been allowed to know. Then “I want us” absolutely gutted me, because I don’t know whether she means the three of them, herself and Pace restored as a unit, or herself and Vee inside the only sentence she can currently survive saying. Probably all three at once. That is the problem.
+Oh, she is so gloriously gone. Twelve days, instantly, without counting. His name lights up her phone and the fry becomes irrelevant. I know that exact humiliating stage, and I loved getting to watch her be giddy with girls who are neither managing her nor warning her—just letting the insanity be fun.
 
-And Pace still cannot read the person directly on top of him when the thing she feels does not fit his theory of her. He registers that laugh as not her laugh. He feels her body lock around “her stomach is soft.” He even thinks it might be something besides want—and then gives her more anyway because he cannot name the something else. This is exactly what I feared after the bench: his attention is exquisite, but once he has decided what a response means, he trusts his interpretation too much. Randi is practically breaking open in his hands and he thinks she is merely overwhelmed by desire.
+Also: thank God Vee has more friends than the people currently engineering her life. Meg’s “everybody’s different at the start” landed with me even though it didn’t land with Vee. That is such a grown-woman truth tucked into an ordinary dining-hall conversation: sometimes he really is different, and you still cannot know yet. Kayla declaring that there is no meal at two made me laugh, because yes, ma’am, we all understand the appointment.
 
-Also: sir, you did not “keep” what Vee gave you. You withheld the setting, but you took an intimate detail from a private act of trust and fed it into sex with the woman who secretly arranged her. That landed badly for me even while the scene itself worked extremely well. The erotic charge is real; so is the violation underneath it.
+But the whole conversation has a terrible little shadow under it after Randi riding Pace and demanding details about Vee. Vee is telling the shirt story as her private, precious evidence of who Pace is, while Randi has already used parts of that same afternoon to get off. Pace protected the one piece Vee explicitly gave him in the truck, which matters to me, but he still participated in turning Vee into erotic material without her knowledge. So when Vee says he waits for “the real answer,” I ache. He does. That’s why this is so potent and why the larger deception is becoming harder to forgive. He is teaching her that her wanting belongs to her while concealing how deliberately he and Randi cultivated it.
 
-Randi leaving immediately is the first time I have felt her hurt Pace in a way he cannot smooth into benevolence. She has always stayed. He knows that, and the plain little wound of realizing she did not want the afterward hurt more than a dramatic fight would have. And then he eats, is still hungry, and makes more—God. Every person in this book is starving, and none of them can admit what the hunger is actually for.
+And now the house. Two o’clock. No stated purpose. I am absolutely reading on. I know what is in that house, I know what Vee does not know, and I am already tense about whether Pace intends to show her the bench, use it, or simply let her encounter his private world. After all this exquisite asking, the invitation itself being so bare feels almost indecent. “Would you come to my house Saturday” is not remotely explicit, but at this point it might as well be a hand between my thighs.
 
-My 1 a.m. text would be: “The sex was a jealousy attack disguised as a threesome fantasy, she said I WANT US while coming, then fled before he could feed her, and this man still thinks he understands women.”
-
-GATE 13 — Swim Lanes
+GATE 14 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was exactly the combination I’m here for: explicit enough to make me feel it, psychologically ugly enough that the sex changes every relationship in the room, including the one person who isn’t physically there. Randi has finally made her jealousy impossible to dismiss, Pace has finally been wounded by her retreat, and I need to know whether either of them can recognize what just happened.
+WHY: Vee’s dizzy happiness is infectious, but I can feel the concealed plan pressing against every innocent thing she treasures about Pace. Two o’clock at his house, with that bench waiting somewhere inside, has me turning the page immediately.

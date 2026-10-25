@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, Cassie. “Not *Oh, Vee.* Just her name” got me. She can be funny without hiding behind funny, and when Vee hands her something fragile, she knows how to hold it without grabbing. “Keep the shirt” is exactly the blessing Vee needed—and Cassie gives it without making Vee pay in confession, embarrassment, or concern for Cassie’s feelings. I trust her so much it’s starting to hurt.
 
-Oh, that truck scene got me. Not because she took off a shirt—God knows I have read women take off shirts—but because she decided exactly how he was going to see her. She called him back. Put his eyes where she wanted them. Held them there. Let herself become the kind of girl her mother uses as a threat, and found out that wanting to be seen could belong to her instead of to the men looking. That is the charge I keep begging these books for. I could feel the cold, the wet bra, the shame turning molten, and his absolute stillness while he waited to understand what she was offering. Peak heat, and he never touched her.
+Normally a chapter that mostly retells the scene I literally just read would make me impatient, especially this short. But Vee choosing what to tell Cassie mattered. She leads with the mountain and the food and the competence Pace gave her room to discover in herself; then she tells the undressing as something she did, not something he got from her. And Cassie is rapt. That tiny fact relieved me—I’ve been scared she was already halfway out the door.
 
-And then his hand was shaking. That stopped me dead. She was reaching for the next erotic beat and suddenly perceived his body, his cold, his cost. Until then he had been the composed man who anticipates every need: fixes the boot, carries the food, knows the weather, offers privacy. The second she tucked his freezing hand against her belly, he became a person she could care for rather than merely the extraordinarily attentive source of her own awakening. That was a real turn between them. “He’d been a long way from the question of whether he was cold” is exactly the kind of devastating intimacy I want mixed into my filth.
+Also, yes, the flannel works on me. Of course it does. This is catnip with an actual emotional nervous system: his restraint, her deliberate exhibition, and now the enormous shirt carrying the whole encounter back into her room. I would absolutely text a friend, “She flashed the consent king in a rainstorm and now she’s wearing his flannel, unfortunately I live here.”
 
-The boot and cherry-pit moments worked on me too, almost painfully. He keeps teaching her things without making ignorance humiliating, which is apparently one of my deepest vulnerabilities now. Her mother’s voice can turn a bare foot into a moral failure; Pace can hold that foot, fix what hurts, and make the whole thing ordinary. He can correct the pit and then quietly put his own beside hers. I understand why she is falling this hard. I am falling with her despite knowing better.
+The chapter feels like one held breath after the hike, though. I’m ready for the book to move again immediately—preferably toward Randi finding out exactly what happened, because there is no universe in which she hears this story calmly.
 
-But I do know better. “The hike had made her hungry first. That was the trick of it” made the whole beautiful day flicker sinister for me, because that is also the structure of what Randi and Pace are doing to her. Create the hunger, arrange the conditions, arrive with exactly the food. Every individual act is generous. The architecture is still concealed. Even the dress worries me: I loved that he didn’t seize her wish and turn it into a promise, but I am already braced for that russet silk to reappear as proof that he listens, and for Vee to experience being studied as magic.
-
-The chapter also made Randi’s erotic scripting feel newly invasive. “Ravish” followed Vee up the mountain. Randi planted the fantasy and Vee brought it into the truck believing the whole flowering was private. Her choice there was absolutely real—I will not take it away from her—but Randi is already inside Vee’s desire without Vee knowing why.
-
-And that ending is wicked. The stupid campus cop steals the sentence, the goodbye, the release, everything. Vee is left in his shirt with the experience still humming against her skin, and I am absolutely turning the page. Also: the moleskin still holding on her heel almost undid me. His care remains on her body after he disappears.
-
-GATE 11 — Leave No Trace
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This gave me explicit charge through choice, looking, shame, and restraint, then turned the erotic moment into reciprocal care without cooling it. I’m thrilled for Vee, frightened by how perfectly Pace can feed every hunger, and already furious that the siren stole whatever she was finally going to say.
+WHY: It briefly risked feeling like a recap, but Cassie’s quiet, nonpossessive tenderness made the retelling earn its place. Now I desperately want Randi’s reaction to the shirt, the looking, and Vee’s pride in choosing it.

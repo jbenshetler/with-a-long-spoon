@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Wait—that's it?
+Oh, the irony in this room is thick enough to choke on, and it is *electric*. First of all, the wine callback to the apple in Chapter 1 — him only pouring one glass because he knows everything he's going to get of it will be from her mouth, the tannin replacing the honeycrisp — is so deeply sexy. And then the way Randi's body reacts to the line *"She built a cup like nobody had ever told her when to stop."* Of course that gets her! For a girl who polices every sliver of apple she eats because of her mother and her sorority, hearing about a lush, unapologetic girl building a massive cup of froyo and eating all of it is pure, vicarious appetite. Her thighs tightening on him at that exact detail is incredible writing.
 
-I literally just swiped my thumb expecting the rest of the walk and hit the end of the chapter. I don't think I've ever read a chapter this short in my life, except maybe a cheeky epilogue. I don't hate it, though? It feels like a Polaroid, or one of those breathless little transitions in a movie where the music swells and you just see them walking. Because the writing inside that tiny space is *so* dense.
+Wait, though — the back half of this tiny chapter just laid a massive bomb under the floorboards. When Pace thinks of Vee's confession on the walk (*this is the nicest a person has been to me*) and decides *not to hand it over* because "it was hers"? That's the very first secret he's kept from Randi about Vee, on day one. And then when he says *"She's easy to listen to,"* and Randi goes completely still, her thighs *setting* instead of tightening, the smile arriving a fraction late (just like it did with Brooke in the sorority house!). And Pace — this man who prides himself on reading every micro-adjustment of her body — totally misreads it! He thinks it's her wanting Vee so much she's holding it down. No, sir! She's stiffening because you just said another girl was easy to listen to, right after she asked how *you* felt about her! Remember in the coffee shop when Randi kept picking up her empty cup and setting it down while Pace was absorbed in Vee's econ monologue?
 
-First of all, Randi taking the phone out of Vee's hand and saying "He wants to see you naked" with a grin—knowing what we know from Chapter 3, knowing that *Randi* is the one who wants to see her naked too, and that Randi just texted him twenty minutes ago to summon him to the coffee shop in the first place—is deliciously unhinged. And Cassie's one-liner about rolling a healer for a business major! In two sentences I know Vee's entire tragic dating history: she's a giver who makes herself useful to mediocre men who take up her time and don't look at her.
+These two page-and-a-half chapters back to back (6 and 7) are wild to me — I've never read a book paced like this, cutting from the froyo walk straight to the couch debrief the same night like two sides of a coin. It doesn't feel like a shortcut at all; it feels like a fuse burning faster.
 
-And then the froyo cup. Notice how in Chapter 1, Pace had to slice an apple paper-thin for Randi because her mother and her sorority have policed her appetite down to nothing, and here Vee is with her own mother's voice (*that's plenty, that's enough now*) going totally silent so she overflows the cup and doesn't even care that it's going to drip. She is *starving*, just like the blurb said, and around him she immediately lets herself take too much.
-
-When she said "This is the nicest a person has been to me in a really long time. And it's froyo," my chest actually ached for her. She's so wide open. It's terrifying because we know it's a setup, and yet Pace isn't faking who he is—he really *is* that attentive, he really does listen like that. That's what makes it dangerous. Okay, the two-page chapter worked on me as a beat, a little intake of breath, *if* the next chapter actually delivers the meal. Don't make me read three postcard chapters in a row, book. Give me a scene.
-
-GATE 6 — The Long Way
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It's a tiny bridge of a chapter—barely two pages—so it was over before I could fully sink in, which keeps CAPTURE at a 7, but every single line pulled its weight. Between Randi pushing Vee straight into Pace's arms ("He wants to see you naked") and Vee's heartbreakingly earnest confession over an overflowing cup of froyo, I'm completely hooked and immediately turning the page for a full-length scene.
+WHY: The erotic charge of the wine-kissing and Randi getting turned on by Vee's unpoliced appetite is top-tier, and the psychological fault lines opening up — Pace keeping Vee's vulnerability to himself while completely misreading Randi's sudden stillness — have me hooked by the throat.

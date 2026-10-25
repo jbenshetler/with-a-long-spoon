@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this got me. The froyo itself is almost aggressively ordinary, and somehow that makes his attention feel more intimate than the bench did. Him listening past the point where she expects to lose him—yes. That is exactly the grown-up fantasy I’m here for. Not merely a man who wants her body, but a man who can make room for a whole sentence and doesn’t immediately turn her vulnerability into a Big Moment about himself.
+Oh, this is dangerous in exactly the way I wanted.
 
-And the overflowing cup hurt me a little. She serves herself too much because her mother’s voice goes quiet for once, and Pace’s silly system means it all holds. I know what this man and Randi are doing. I know this encounter was engineered. So watching Vee experience uncomplicated kindness while I’m holding that knowledge makes the sweetness feel almost dangerous. “This is the nicest a person has been to me in a really long time” is such a bleak little confession—and he handles it perfectly. No interrogation, no pity, no demand that she explain. Just lets it be true and gives her somewhere gentle to look.
+Randi arriving already wound tight, climbing onto him, making him tell her about Vee while she uses his body to pull the story out of him—I felt that everywhere. She is turned on by Vee’s appetite, but “she’s easy to listen to” hits somewhere much less manageable. That tiny freeze was the whole chapter for me. She can package wanting Vee as their game; she cannot package the possibility that Pace genuinely likes her. And he sees the reaction without flattening it into jealousy or explaining it to Randi, which makes me trust the book to let this get complicated.
 
-Also: “Your tart’s holding up.” Sir. That is flirting, caretaking, and a promise in five words, and unfortunately I am extremely susceptible.
+The thing that really got me, though, was Pace withholding Vee’s confession because “It was hers.” Thank God. That single choice kept him from becoming a smug puppet master trading women’s vulnerabilities for foreplay. He is orchestrating something ethically precarious, absolutely, but he understands that access is not ownership. That distinction matters enormously to me.
 
-This chapter is tiny, which startled me. It feels like a held breath rather than a full meal, but it landed exactly where it needed to. I’m not annoyed yet; I’m turning the page because now I need to know whether Pace can remain this careful once Vee’s trust is no longer hypothetical—and how much of this tenderness is real already, whether he understands it or not.
+And the wine. Jesus. He pours one glass for her and intends to taste every drop through her mouth. That is the kind of erotic detail I cannot predict three sentences ahead. Nothing explicit happens, technically, and this was hotter than whole interchangeable sex scenes I’ve read.
 
-GATE 6 — The Long Way
+Also: this is my first two-page chapter, apparently, and it did not feel like a shortcut. It felt like a struck match. I’m already reaching for the next chapter because that held-out hand is not an ending; it is a door.
+
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The chapter barely gives me a scene, but the emotional charge is enormous: Vee admits how starved she is, and Pace neither exploits the confession nor retreats from it. Knowing she was deliberately selected makes me deeply uneasy, but his quiet tenderness has me completely hooked.
+WHY: The chapter gave me erotic charge, emotional danger, and proof that Pace recognizes a confidence is not his to spend. Randi’s desire has now collided with jealousy—or fear, or hunger she cannot disguise—and I need to see what she does with it.

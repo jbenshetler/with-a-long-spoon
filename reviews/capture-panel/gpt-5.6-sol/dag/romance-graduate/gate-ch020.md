@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 96625992569d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8d06f617de36 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this got me. The dress reveal made me cry before the sex even started, because it isn’t really about silk or money or Pace being absurdly competent. It’s that he learned the exact shape of her and made something that assumes she deserves to occupy it. No generic sizing, no apologetic slack, no asking her body to become easier. After a lifetime of clothes made “for no one in particular,” he made one for her. That is romance catnip, and I am not immune.
 
-Oh, this hurt. The small bowl—the one he slices her apples into—made my stomach drop before either of them said a word. He knows exactly how much Randi permits herself to eat, knows it tenderly enough to have a designated bowl for her, and still doesn’t know what he’s looking at when she draws one line through the food and stops. He can read Vee’s face through an orgasm, but Randi is starving at his table and he has no language for it except observation.
+And Vee looking in the mirror—hearing *floozy*, staying anyway, then taking off her own underwear because she wants the line clean—was everything I want from her awakening. Pace didn’t instruct that choice or even witness it. She looked at herself and decided what kind of woman she wanted to be in that dress. That matters enormously when so much of her life is being directed without her knowledge. The woman striding into the den with the slit opening to her hip felt like Vee authoring herself, even inside the larger trap.
 
-And then he says, “She chooses it, Randi. Every step of it. Or it isn’t anything,” and I wanted to throw something. Yes, Pace. Correct. Now explain the engineered collision, the relocated study session, and the woman extracting Vee’s sexual secrets over lunch so she can steer her toward “us.” His ethics are exquisitely rigorous inside the inch he is presently looking at and catastrophically incomplete around the whole arrangement. He genuinely believes patience makes the concealed plan clean. It does not.
+Then the sex was genuinely hot and, thank God, funny. “There’s a lot of you covered in a lot of me” followed by her discovering she can make him twitch just by repeating it? That delighted me. The entire ridiculous operation of trying to preserve the silk while neither of them can bear to stop felt like two actual horny people, not bodies hitting their assigned genre marks. Her wiping her hands down his sides while his arms are trapped overhead, then holding up her fingers for inspection—absolutely obscene, playful, specific. Him taking them into his mouth with all the grave attention he gives a hem nearly killed me.
 
-Randi scared me here, but mostly she broke my heart. This isn’t just impatience to get the threesome she was promised. Vee is happy with Pace, telling Randi about Pace, spending whole weekends with Pace—and Randi has made herself the confidante because that is the only role from which she can get close enough to hear everything. She is helping Vee fall in love with him and then going home famished. Of course she can’t eat his stew. Of course she pours her own wine for the first time. Every tiny broken ritual between them felt louder than the argument.
+I also loved that her power kept developing instead of vanishing once penetration happened. She stopped him with both feet on his chest; he stayed exactly where she put him. She let him look. She pulled him back when she wanted him. This is the same girl who once believed being visibly hungry was an offense, now naked with her knees open asking, “Well?” I felt that change in my bones.
 
-The sex was explicit and almost anti-erotic for me—not because it wasn’t physically charged, but because she used his body to outrun a feeling and he knew it “was not for him” without understanding what it was. That line chilled me. He gives her what she is demanding because he can read the immediate yes, but once again he cannot read the person disappearing inside it. Her closed eyes, no “tell me,” getting off him immediately, turning her back: she could not have made the absence clearer without saying Vee’s name.
+The ending made the happiness hurt. Pace unconsciously pulling her close, Vee imagining entering the induction late and letting the whole room turn toward her—I want that for her so badly. But “getting away with something” landed like a soft alarm. She thinks the transgression is the slit, the bare skin, the audacity of being looked at. She still doesn’t know she is inside someone else’s much larger transgression. And Pace has poured so much real care into this dress that the secret, when it breaks, is going to stain something she should have been allowed to keep uncomplicated.
 
-And then he covers the untouched bowl and saves it for her. God. It is such a Pace gesture: practical, tender, attentive, and completely beside the point. He is preserving the portion she could not eat while having no idea she is starving for something he is helping keep out of reach.
+Also: Randi’s absence was loud. Vee is lying in the warm house with Pace’s arm around her, imagining herself transformed by the thing he stayed up all night making. Meanwhile Randi wants “us” and is starving herself at the edge of this intimacy. I loved every minute here, but I can feel the triangle tightening. Texting a friend at 1 a.m.: HE MADE THE DRESS, SHE WORE IT WITHOUT UNDERWEAR FOR APPROXIMATELY NINETY SECONDS, AND I AM EMOTIONALLY COMPROMISED.
 
-I need the next chapter immediately. The arrangement is no longer merely dangerous in theory; it is actively injuring Randi, and Pace still thinks the problem must be somewhere in the evening’s observable sequence. He cannot find what he did because what he did began weeks ago.
-
-GATE 20 — Portion
+GATE 21 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
-HEAT: 1
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was the rupture I’d been waiting for: Randi’s jealousy finally came out, and Pace’s beautiful consent philosophy exposed its enormous blind spot. I’m already turning the page because he has no idea what he has done, and the untouched small bowl says Randi cannot keep surviving this arrangement as designed.
+WHY: This gave me exactly the combination I came for: explicit sex with personality and play in it, anchored to a profound change in how Vee inhabits her own body. I’m deeply satisfied by the chapter itself, but the dress, the induction, Randi’s conspicuous absence, and the still-hidden betrayal have me already reaching for the next one.

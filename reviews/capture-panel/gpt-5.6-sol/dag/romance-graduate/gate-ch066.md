@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c6c4f08ae565 · dated · 2026-10-24*
 
-REACTION — Oh, this fed me.
+REACTION
 
-The painting should have been ridiculous. Grapevines and cantaloupe breasts and a giant cherry painted over her freshly waxed body should have tipped straight into twee erotic-pageant nonsense, and instead I was completely inside it. The discipline of the brushes, the food placed on her tongue, the rule that movement made pleasure disappear—God. That is the kind of explicit scene I keep looking for and almost never get: not interchangeable choreography, but something built specifically out of who these two people are. Pace turns patience into erotic pressure; Vee keeps trying to perform stillness until she finally understands that surrender is not another performance. “Not stillness built and guarded—simply the bed taking her arm” absolutely got me.
+Oh, Randi. You absolute coward.
 
-And the picture. I felt almost ferocious when she saw herself and no shame came. Pace didn’t make her smaller, prettier, tidier, or more tasteful. He made abundance the subject. Her breasts are too much, her wetness is too much, her body refuses containment—and the answer is not reassurance that she is actually acceptable. The answer is: yes, look how much. Take the picture. That is romance to me. So is his not asking for a copy afterward. He created the image, handed it back, and left ownership with her. That tiny choice mattered enormously.
+I was gone from the moment Vee saw her in the lobby. Not “girls are pretty” gone. Not best-friend admiration. Vee stood there taking in Randi’s shoulders, mouth, braid, eyes, jewelry, every controlled inch of her, and then believed that tonight she was allowed to look because she “belonged to Randi.” Her body has known for weeks, but this is the first time the wanting felt awake all the way through. She watched Randi’s gloss part while she spoke. She identified the mouth as one a boy would want to kiss and then kept looking. Baby, the boy is camouflage and you are starving.
 
-The tasting thread nearly killed me. Her own wetness used as the primer; every other stage bringing food and his mouth except that one; Vee noticing the missing taste without being instructed to notice it; then searching his mouth afterward and finding only an uncertain trace. I love that she still hasn’t been pushed across the final inch. Her curiosity is getting hotter because the book permits it to remain unresolved and hers.
+And Brooke knew. “I chose.” “I can see.” That exchange made my stomach drop because Vee heard inclusion, while I heard the ultimatum being answered. Randi brought Vee into the room as her date, put an arm around her, and told Brooke she had chosen her. That is enormous. It is romantic. It is also another truth spoken in code directly over Vee’s head. Brooke understands more about Vee’s relationship than Vee does, and Vee is standing there thanking her for being kind.
 
-But I am not letting the gorgeousness erase what bothered me before she reached his house. Pace asked her to be bare by the weekend without telling her why, and Vee said yes before she understood what she was agreeing to because his requests have become commands she experiences as gifts. Then Randi sold the wax as “barely stings” and omitted half the procedure. Vee explicitly thought she had already crossed so many lines that another boundary would be a joke. That scared me. The later pleasure was real; it does not retroactively make that thought safe. These people keep giving her transcendent experiences after withholding the information she would need to choose them whole.
+I also do not believe for one second that the skirt was an accident. Randi knew exactly where it was in the closet, knew exactly how differently it would fit Vee’s body, dismissed Vee’s concern with “not that short,” then put her hands on Vee’s hips, lifted her arms, and let that hem climb until Vee’s thong was visible to the room. I was turned on—the whole held, exposed, guided quality of it absolutely worked on me—but I was also furious. Vee liked being looked at. That desire is real and delicious. It still should have been hers to choose knowingly. Randi keeps arranging situations in which Vee discovers an appetite only after Randi has made refusal socially or emotionally difficult.
 
-And now the photograph is sitting in her hand like a lit match.
+Then that kiss. God. That was not a kiss for Harrison. Randi held the inch open until Vee crossed it. Vee wanted her with her whole body: the smell she has secretly catalogued, the breasts pressed together, the involuntary push of her hips, her hand in Randi’s hair, the shock of Randi’s particular taste. She wanted hands under the skirt and a private room and more. There is no remaining ambiguity about Vee’s desire. None. She kissed Randi back because she wanted Randi, and the wanting was so immediate and complete that the whole watching room vanished.
 
-“She would not be telling her about this.” Sure, Vee. Absolutely. The woman whose voice you tried to hear responding to it while you lay naked under your sleeping boyfriend’s arm is definitely not getting anywhere near that picture. Tomorrow is Randi’s, apparently, and that sentence has enough electricity in it to run the whole dorm. The fact that Vee has begun dividing her life into Pace’s nights and Randi’s days without seeing what she is building makes me want to shake her and immediately turn the page.
+Which makes “I almost believed it” genuinely vicious.
 
-Also: Pace knows Randi’s waxing person. Randi knew precisely where to send Vee for the body Pace requested. I am increasingly unable to experience any of their erotic discoveries without wondering how much has been privately coordinated. If tomorrow’s mixer puts Randi’s hands—or eyes—anywhere near the newly bare Vee, I may combust and then become furious all over again.
+I actually felt slapped by that line. Randi felt Vee moan. She felt Vee open to her tongue, pull her deeper, press against her. She came out of the kiss dazed herself. She knew. And rather than risk one honest sentence, she stuffed the entire experience back into the performance excuse and made Vee participate in erasing herself before she had even caught her breath. Worse, she made the denial sound like praise. Vee cannot ask for more now without admitting she failed at the agreed joke, imagined something Randi insists was not there, and perhaps endangered their friendship. It is exquisitely engineered cowardice.
 
-GATE 66 — Still Life
+I ache for Randi because I know exactly why a public room full of sorority eyes terrifies her, and Brooke’s presence makes the retreat understandable. But Randi created the public scene. She chose the skirt, the exposure, Harrison, the handful of Vee’s ass, the hair, the held breath before the kiss. She wanted something real and built herself an alibi before taking it. Her fear explains that. It does not make it fair.
+
+And Vee taking the only version offered—laughing about Harrison while her body is still waiting for the rest—hurt unbearably. She finally knows three clean things: she kissed Randi, it was good, and she desperately wants to do it again. That recognition belongs to her now. Randi cannot entirely put it back in the box, no matter how neatly she folds the lie.
+
+I would text a friend at one in the morning: THEY FINALLY KISSED FOR REAL AND THEN RANDI SAID “I ALMOST BELIEVED IT,” SO I AM CURRENTLY ATTRACTED TO A WOMAN I WOULD ALSO LIKE TO SHAKE BY THE SHOULDERS.
+
+GATE 67 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The scene gave me explicitness, psychological specificity, play, surrender, and a genuine turn in how Vee sees her own abundance. Now she is carrying a photograph she absolutely wants Randi to see into “Randi’s” day, and there is no chance I am stopping here.
+WHY: The kiss gave me exactly the desire I have been waiting for and then turned the aftermath into an emotional knife. Vee knows she wants Randi now, while Randi has made honesty almost impossible, and there is no chance I am putting the book down before I see what Vee does with that knowledge.

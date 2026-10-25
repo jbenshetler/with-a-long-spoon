@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
-REACTION — Oh, Cassie. Thank God Vee has Cassie.
+REACTION — Oh, this got me. The feeding, the choosing, the way he lets her hand things over without making her disappear inside the surrender—that is exactly the grown-up version of an alpha I keep hoping these books will give me and almost never do. “May I choose?” should not have hit as hard as it did, but after watching Vee constantly monitor her appetite, her body, her timing, her social performance, seeing her eat until she was full and simply stop watching herself felt almost indecently intimate.
 
-I didn’t realize how badly I needed to see Vee with someone who loves her without trying to get anything from her. Cassie sees the exact moment her face is wrong and doesn’t interrogate it, doesn’t turn it into intimacy Vee now has to perform, doesn’t announce that she sees through her. She just splashes her. That got me embarrassingly hard. It’s such an ordinary, precise kindness: *I noticed; I’m here; you don’t have to explain yourself; come back when you’re ready.*
+And Pace leaving that last inch between them? Yes. That was hotter to me than half the anatomically exhaustive sex scenes I’ve read this year. She states a boundary, he accepts it without turning acceptance into a technique for changing her mind, and then she gets to discover that she wants to cross it herself. The second kiss belongs to her. I felt the difference.
 
-And the underwater passage hurt. “She had loved this before she had a body to be a problem” is the whole wound, isn’t it? Vee is so used to being looked at that invisibility feels like returning to herself. Then she surfaces into having a body again—and Cassie gives her a way to inhabit it that isn’t display, judgment, or seduction. She gets to be strong and ridiculous and loud. The ugly shriek-laugh felt more intimate to me than anything Randi has managed with her yet.
+I am also frightened for her now, because she thinks this lovely, attentive man has just happened upon her, and I know Randi and Pace placed him in that coffee shop like bait. The tenderness is real—that’s what makes it worse. If he were only manipulating her, I could brace against him. Instead he’s feeding her, listening to her, making room for her, and very clearly beginning to care. She is going to fall so hard, and I can already feel the betrayal waiting inside every beautiful thing he gives her.
 
-Which also makes me more frightened for her. Randi and Pace are studying Vee’s hunger so carefully, while Cassie already knows how to care for her without making that care a claim. Cassie’s “Goodbye” last chapter is still ringing in my ears, and this makes it worse. She knows something is happening. Maybe not the plan, but she knows Vee is being drawn away from the part of her life where she can be unobserved and unperformed. I am now fiercely attached to this friendship, which means I assume the book is preparing to hurt me with it.
+Tiny complaint: the chapter occasionally tells me the meaning of a gesture after I’ve already felt it. I understood the last inch was hers. I didn’t need the annotation. But honestly, the mint in both their mouths and the grin arriving inside the kiss wiped out my irritation immediately. I’m reading on.
 
-No heat, and I didn’t miss it. After the charged machinery of the previous chapters, this felt like air—and it made Vee more real to me, not less. I would text a friend at 1 a.m.: “The best person in this sex book is currently the blunt lesbian-coded best friend standing chest-deep in a pool, and if anything happens to her I’m suing.”
-
-GATE 8 — Water Wings
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 0
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it gave me exactly the emotional intelligence I came for: Vee being seen without being consumed. Now I’m desperate to know whether Cassie can protect any part of her—or whether Vee is already too dazzled to understand what she’s leaving behind.
+WHY: This gave me appetite, surrender, consent, and emotional danger in the same scene, then ended on a kiss that actually changed something. I desperately want the tenderness to be genuine, and I’m sick with knowing the circumstances around it aren’t.

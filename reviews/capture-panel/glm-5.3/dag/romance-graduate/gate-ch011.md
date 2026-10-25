@@ -1,26 +1,18 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
-REACTION —
+REACTION — God, this is the quiet one right after the truck, and it's exactly right. Vee telling Cassie everything is the oldest beat in romance — the post-date debrief — but the detail she chooses to lead with is "he fixed my blister and didn't make it weird," and the way she says "and then we ate" like other girls say *and then we kissed* — that's the whole appetite arc of this book in one line and I felt it land in my chest.
 
-Okay. I had to put the Kindle down after the flannel scene and just sit there for a minute.
+What got me most is Cassie. I've been carrying dread about her since "Goodbye, Vee," and here she is, rapt, dry-warm in her sweats, revising her file on him in real time — "you're alive," the blood type, and then just "Vee," soft, not "Oh, Vee." Setting something down where it wouldn't break. That's the most trusted character in the book doing the exact thing I trust her for. She heard the siren-sized omission too, I think — Vee never said what she was going to tell him when the cop interrupted. Cassie didn't push. Cassie never pushes. But I notice the book gave us the unsaid thing and then gave us the debrief WITHOUT it. Vee reported the shirt, the looking, the not-touching — and skipped "I was about to say something bigger than my words." Even her best friend gets the edited version. That's so her, and it hurts a little.
 
-The whole chapter is the hunger thing again — the moleskin, the sandwich, the cherries — and I know what the book is doing, it's been doing it for eleven chapters, and it still gets me because the prose earns it. The sandwich paragraph is practically erotic and nobody's touched anybody. "The hunger coming up to meet the food, the food good enough to be worth the hunger" — that's the whole thesis of this book in one line and it's about a roast beef sandwich. I'd text someone that line at 1 a.m.
+Also: "I kept the shirt. I didn't ask. He didn't ask for it back." That flannel is going to be a whole character in this series, I can already tell. She's going to sleep in it. Randi is going to see it. Oh — Randi is going to SEE it, and Randi reads everything, and that shirt is going to detonate something in her. I'm already braced.
 
-But the truck. THE TRUCK. She unbuttons her own shirt, in his only dry shirt's place, keeping his eyes the whole way — and then his hand is *shaking*. He was freezing the whole time. He gave her the dry shirt and stood in the rain and then sat there watching her strip with water running down his own collar, so far from the question of whether he was cold that he didn't even know he was shivering — "He'd been a long way from the question of whether he was cold" — that's the line that got me. That's not an alpha. That's a man so gone on her that his body didn't report in. And SHE stops. She was three seconds into her own seduction — mouth headed for his knuckles, next thing, more — and she calls it off to take care of him. "You're freezing. Get warm. Please." The girl who couldn't eat is now the one feeding other people. I actually got a little misty, I'll admit it.
+It's short, though. Two-ish pages, and it's a rest beat — after the mountain and the rain and the buttons, I didn't need heat here, I needed Cassie's face going still, and I got it. But I notice the shape: this is the book breathing, and what I want NOW is the thing this chapter is standing on tiptoe waiting for. Don't give me two more of these in a row.
 
-And the mother-voice threaded through the strip — voice and heat fused together, "the voice was the heat and the heat was the voice" — that's the most psychologically exact thing this book has done. It's not shame fighting desire, it's shame *as* desire, and she takes the floozie word and presses her thighs to it. That's a sentence I'll remember.
-
-The dress. God, the dress. "You put a thing back on the shelf and you keep walking" — and he says "That sounds like a beautiful dress" with no weight on it and picks up a cherry and DOESN'T BUY IT FOR HER. Any other book on my shelf, the billionaire shows up with the silk dress in a box by chapter twelve. His not picking it up is the most romantic thing he's done, and also — I clocked it — the con-man move. Refusing the obvious gift buys him infinite credit later. I'm holding both again.
-
-The cop at the fire lane. The siren eating her sentence. Cruel, perfect placement — whatever big thing she was going to say is still in her, unspent, and I want it. Also mildly: he pulled into a fire lane and drove off with a campus cop behind him, which is a very small flag I'm filing next to the Daphne flag.
-
-Pace still hasn't cracked. But the shaking hand cracked him a little, honestly. The body confessed what the courtliness wouldn't.
-
-GATE 11 — Leave No Trace
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 6
 NEXT: 8
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The cab scene is the best thing this book has done — her choosing, him shivering, her stopping to care for him — and it's the first time both people got fully naked emotionally in one beat. I need whatever her siren-swallowed sentence was, and Randi hasn't detonated yet.
+WHY: No heat at all, and that's correct — the truck chapter carried it and this one is the exhale. Cassie's "Vee" and the kept flannel did the emotional work; Randi seeing that shirt is the fuse I'm now impatient for. A second quiet chapter in a row would start to worry me, but this one earned its place.

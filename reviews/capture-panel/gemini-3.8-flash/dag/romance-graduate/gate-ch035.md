@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · dated · 2026-10-24*
 
-REACTION
+**REACTION**
 
-Oh, my god. He gave her the top drawer.
+Oh, this one hurt in a completely different way. After the scorching run of chapters 32 through 35—the spanking, the costume reveal in the den, that absolutely suffocating brunch with Randi, the top drawer in his bathroom—this sudden, quiet pivot back to the dorm room felt like walking out of a sauna directly into November wind.
 
-He didn’t leave a cute little sticky note, he didn’t make a speech about "taking the next step," he just took his entire hyper-regimented, hyper-ordered bachelor life, crammed all of his own things into the bottom drawer like puzzle pieces, and gave her the one your hand reaches for first. With her bobby pins in a neat little dish. I swear to god, my chest physically ached reading that. That is so painfully, perfectly *him*. A boy who was shoved into a hallway with long division, a boy who learned to build invisible walls and control every square inch of his environment, giving up his physical territory to make a home for the girl he loves. And Vee—standing there in his oversized robe, realizing she isn't a messy imposition, that he didn't wipe her away, he just built a permanent pocket for her. It is so achingly tender.
+Cassie is the conscience of this entire novel, and every time she opens her mouth, I get a knot in my stomach. She isn’t being judgmental or shrill or jealous; she’s just holding up a plain, unclouded mirror. She clocks the food burn on Vee's bare breast with one dry sentence. She clocks the empty bed on school nights. And then she asks the question that cuts through all the velvet, food, and orgasms: *Do you love him?*
 
-And that’s what makes this entire book feel like a high-wire act over an active volcano. I am in agony. Pure emotional agony!
+Watching Vee shrink from the breathless, chattering euphoria of being worshipped down to that terrified, honest little *"Maybe. I think so"* broke my heart. She knows it’s moving at terrifying speed. She knows she has handed her entire life over to this man and this house, and she hasn’t even realized she’s sharing him with the woman buying her mimosas. It’s a very brief bridge chapter, barely two pages, but it lands because it grounds the intoxicating erotica back into real life. It’s the calm before the floor gives out.
 
-Because while I am swooning over salmon with dill sauce, warm windowsill tomatoes, and him spinning her around the minute she walks through the door, my stomach is in absolute knots. She’s lying there in the dark, whispering *Peter* to his sleeping shoulder, finally letting herself admit that she loves him. She is completely, utterly sunk. She feels treasured, safe, fed, seen. She’s losing weight just from the sheer aerobic joy of being thoroughly loved by a man who takes all night to touch her. It is the exact romance every woman wants.
+***
 
-And it is built on a fault line that is going to swallow her whole.
-
-I keep looking at the dates. Friday, November 6th. Then section iii skips to "the next Friday"—November 13th? What happened to the week in between? Did Randi take another bite out of her? What is Randi doing right now while Pace is clearing out his top drawer for Vee? Pace is acting like a man who is softly, irrevocably rearranging his entire life around one woman, but he *still hasn't blown up the arrangement with Randi*. Or has he? Has Randi stepped back, or is she just letting the line play out so she can yank the hook harder?
-
-The contrast between the sheer filthy psychological electricity of Chapter 34—Randi practically getting Vee off with her voice at brunch and kissing the taste of sweet glaze onto her mouth—and this chapter's domestic, heart-melting devotion is dizzying. It’s like watching someone decorate a nursery inside a burning building. Pace’s silence—the exact thing that feels so profound and poetic to her when it comes to the top drawer—is the very weapon that is going to destroy her when she finds out what he’s been keeping quiet about.
-
-I don't want to stop. I need to be there when the other shoe drops.
-
-GATE 35 — Above Him
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The top drawer beat was an absolute masterclass in character-driven romance—quiet, devastatingly sweet, and terrifying because of the secrets looming over them. The emotional stakes are through the roof.
+WHY: A tiny, sharp bridge chapter that pulls the brake on the runaway erotic high to let Cassie hold up a mirror. It hurts to watch Vee start admitting out loud that she loves him, knowing the trap she's in, and I need to see the next collision.

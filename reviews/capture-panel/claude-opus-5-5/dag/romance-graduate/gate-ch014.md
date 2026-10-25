@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch014 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch014 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · dated · 2026-10-24*
 
 **REACTION**
 
-So she lied to them. Or she didn't lie exactly, she edited. With Cassie in Ch 12 she told the whole thing: "I took my wet shirt off in front of him. On purpose. Me." With Meg and Kayla, the version where she took her shirt off just disappears. "I'm not going to kiss a man who's about to go hypothermic on me." Meg even calls it out: "you keep getting to it and going soft and skipping the middle." And Vee skips it again, right there, in front of them. I loved that. The real thing has become hers, something she keeps, the same way Pace kept "her stomach is soft" from Randi and wouldn't say how he knew. All three of them are hoarding pieces of each other now. Cassie gets the truth and the dining-hall girls get the edited version, and that tells me who Vee's real person is. Cassie isn't even in this chapter, and I noticed her gone.
+Okay. I have to talk about the towels first, because the chapter is named after them and the book drops them in passing like it doesn't care: "a bathroom, plain, clean, two towels on the rod." A man who owns exactly one right pair of shoes for each thing he does has two towels hanging. One of them is Randi's. She was in that shower six days ago, after she rode him and asked him to *tell* her. Vee walked right past it and the book let her. That's the kind of thing I read this book for. It doesn't underline it, it just trusts me to feel cold.
 
-Here's my problem though. This is the third time I've heard the shirt story: once when it happened, once to Cassie, and now once to the table. The edit is the only thing that makes this third telling worth it, and I had to wade through Theo waving and Meg's boyfriend's roommate to get there. Kayla and Meg are fine. Kayla's "that's not a message, that's a ransom note" made me laugh. But they're new furniture this late, and the first half of the chapter felt like throat-clearing. It's a girls-at-dinner chapter, and I've read a thousand of those. I was skimming for anything with a charge in it until the phone buzzed.
+Then there's the long low table in the den. Vee crouched down and put her fingers on the joint, and I almost threw my Kindle. My notes say the bench is "disguised as a table." Is that it? Is she touching it? Randi's "Do you think she'll like the bench?" has been in my head for eleven chapters, and Vee was down on her heels stroking the grain while he watched her hand "more than her face." I can't tell whether I'm reading too much into it, and that not knowing is doing a lot to me.
 
-Then it buzzed and everything sharpened. *Would you come to my house Saturday. Two o'clock.* And I'm sitting there with dread in my stomach, because the house means the bench. And I just watched Randi ride him in Ch 13 with "I want us" torn out of her, and then leave without staying for the first time ever. Is Randi going to be there Saturday? Is two o'clock the polite invitation from the title? Kayla's line, "He wants you for the afternoon. Bring a change of clothes," landed on me completely differently than it landed on her. She's giddy and I'm the one who knows what furniture is in that house.
+The house is too warm and Vee files it under "small mysteries." My notes already say "too-warm house." Randi gets cold after sex. So who is the heat for? Vee's going to be measured "down to what you'd wear under it," and the room needs to be warm for that, so it's for her. Every kind thing he does here is also staging. The closed bedroom door, after she wore the satin on purpose, felt like that too. And him being the one to break off the kiss. "No boy she'd ever been with had once been the one to stop." I believe him and I don't. It's exactly what makes it work on her, and he knows it.
 
-And the chapter title is "What to Wear," and he "didn't say what to wear," and two chapters ago she set the russet silk dress down on the rock and he didn't pick it up again. I'd bet money a box shows up. If it does, I'll melt and narrow my eyes at the same time, which is pretty much my permanent state with Pace.
+Now the dress. I'll admit it: my eyes stung when he held the cloth up to her face like a paint chip. He matched *her*, not the magazine. That's a real turn. It's the "nicest a person has been to me" line made out of silk. But the book then said "He'd matched *her*" in italics, and spelled out "her own willingness to be looked at" in case I'd missed what the whole measuring setup is. Add both to the gripe count. I got it the moment he said "in good light."
 
-Also "powerlifter" made me laugh. The book finally said it out loud, and of course it did it through Vee showing off. That I'll allow.
+What's starting to bother me is how complete he is. He builds furniture, makes his own shirts, mixes his own shellac, cooks, powerlifts, holds a patent that gets sick kids out of the MRI faster, and doesn't preen about any of it. That's a billionaire romance hero in a henley. I came here to get away from that guy. I'll forgive it only if the book knows it's building a trap, and I think it might. The patent is literally about finding the signal in the noise. He reads people for a living. And the error-correcting codes speech, "say it more than once so the noise can't kill it," is the book telling on itself. It's also Randi's "Tell," and every detail he hands her about Vee. The flicker at "parents" is the first crack in him that I've actually liked.
 
-Text to a friend: *she's getting invited to the bench house and she thinks it's a date. also she's protecting the truck moment from her friends and it's the most romantic thing she's done.*
+Structurally, this is the second quiet chapter in a row after the hot one, and it's a house tour. A house tour. The closet, the kitchen, the office, the shelves, the shop. Midway through the bookshelf I was checking how far I had left. It's saved because every room has a tripwire in it, and because it ends on "Yes — of course, yes." Then it cuts away, right before the measuring tape. That's a series-writer's ending, and my thumb is already moving.
 
-**GATE 14 — What to Wear**
+The text I'd send at 1 a.m.: "he's going to measure her in her underwear in a glass room and then go tell his girlfriend every number. there are TWO TOWELS."
+
+**GATE 15 — Two Towels**
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 8
+CAPTURE: 7
+NEXT: 9
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Across the room Theo lifted a hand at her, tray balanced, and she lifted hers back." That's where I thought the book was introducing a whole new friend group instead of moving.
-WHY: It's a quiet retelling chapter right after Cassie already got the retelling, and the first half dragged. But Vee cutting the shirt scene out for these friends was quietly sharp, and that text from Pace put my dread right back on the house and the bench. I'll give Saturday everything. If Saturday is another walk-and-talk, though, I'll be counting.
+ROMANCE: 3
+ALMOST-STOPPED: "lit up like a six-year-old who'd just found out everything there was to know about dinosaurs." That's where he tipped from a man into a list of perfections, and I was most of the way through a house tour.
+WHY: The tour sagged and Pace is getting too perfect, so capture took a hit. But the towels, the maybe-bench, and the too-warm room kept the dread alive, and the dress was a real turn in the bond. It ends on her yes to being measured in good light, so I have to read the next chapter now.

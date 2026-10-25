@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-Holy shit. The mask didn't just slip in this chapter—it completely cracked open.
+Oh, this book is so wickedly smart.
 
-I feel sick, thrilled, furious, and utterly riveted all at the exact same time. Seeing Randi and Pace alone in that house, knowing that Vee was just there, knowing that Randi is taking the intimate, tender, private things Vee confessed over eggs Benedict and serving them up to Pace as foreplay to get fucked four times in an afternoon? It is depraved. It is brilliant. It makes my skin crawl in the best possible way a dark, psychological romance can.
+On paper, this chapter could have been the death of momentum—a college study session about federal loan data in a statistics class right after the unhinged, sweat-soaked Monday Randi and Pace just had. But instead, it landed like a cold, quiet blade between the ribs.
 
-What floored me here wasn't even the filth—though watching Randi use the goodbye kisses on the sidewalk to drive both Pace and herself out of their minds while braced against the couch was scorching. It was the sudden, raw vulnerability underneath Randi’s sociopathic exterior. She is unraveling. She claims she’s "doing the work" for this grand threesome design, but she blurted out the absolute truth down into the wood: *"God, I want her."* Not just for Pace. Not as an offering. Randi is falling apart with genuine, agonizing lust and obsession for Vee, and she’s terrified of how much Pace sees right through her.
+Watching the dynamic between these three women when they're actually functioning in the real world is mesmerizing. Cassie, completely unimpressed by privilege, armed with nothing but cold facts and the memory of her laid-off dad. Randi, gliding in on the easy, golden-child assumption that her family's wealth is benevolent and clean. And Vee, stuck in the middle, loving them both, trying to smooth every rough edge with her own soft hands.
 
-And Pace! God, Pace is so chillingly methodical. The way he remembered picking Vee on the lawn—reading Randi’s micro-reactions like a data set, knowing he was going to take Vee before he even pointed—it proves how calculating he is. But his little moral high ground? *"She consents—every time—or I'm done."* He actually thinks he has ethics! He genuinely believes that because Vee is consenting to him in his bed, the massive, monstrous lie they are living doesn't violate that consent. He thinks he’s an honorable shepherd guiding these two women into his bed, when in reality he’s building a bomb.
+And then Randi clicks the outlier.
 
-The tragic contrast is what killed me: Vee floating around campus thinking she’s found a fairy-tale love and a soulmate best friend, while these two predators are counting their orgasms and comparing notes on the scent of her hair. When this explodes, the blast radius is going to level everyone. I need the fallout yesterday.
+That beat in the glass room made the back of my neck prickle. Randi realizing in real time, in black-and-white government data, that her father didn't protect anyone—that the money that paid for her ease, her clothes, her confidence, was built on pure, unadulterated fraud. The way her entire body locked up. The flat, broken way she choked out that little curse to the screen. It is the absolute first time we've seen Randi's reality crack from something *outside* the triangle.
 
-GATE 40 — Four
+And of course, Vee's immediate, instinctual reaction isn't to judge or gloat—it’s pure, protective grace. She covers for Randi instantly. She shields her from Cassie's sharp eye, takes the laptop, and gives Randi a bridge back to sanity without ever demanding an explanation or weaponizing the secret. It breaks my heart because it proves, yet again, how deeply good and loyal Vee is. She gives Randi unconditional grace, completely unaware that Randi is systematically setting her up to be dismantled.
+
+This was a bridge chapter, absolutely, but it gave Randi a sudden, sharp layer of vulnerability that is going to make the eventual fallout hit ten times harder.
+
+***
+
+GATE 41 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension reached a boiling point here, exposing the raw obsession and delusion driving both Pace and Randi behind Vee's back. The pacing is immaculate, the erotic charge is scorching, and the impending catastrophe makes it impossible to put down.
+WHY: Even without Pace or any physical heat, the psychological tension here was taut and fascinating. Watching Vee instinctively protect Randi's humiliation while Randi is actively deceiving her was brilliant character work.

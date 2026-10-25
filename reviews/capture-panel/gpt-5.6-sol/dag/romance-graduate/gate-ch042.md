@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, Cassie. She asks the question everyone else keeps arranging Vee not to ask, and then she accepts the answer without turning Vee’s uncertainty into an opening she can use. “Is it that you can’t say, or that you don’t want to?” That is such a clean, adult question. And Vee being grateful Cassie didn’t push while also wishing she had—yes. That’s exactly the loneliness of knowing something is wrong-shaped but not yet being able to make yourself look directly at it.
 
-Oh, this got me. The frantic undressing was hot because it was *hers*—not some interchangeable alpha hauling her over his shoulder, but Vee trying to tow this enormous patient man down the hall by two shirt buttons, losing a fight with her jeans, hopping in one sock, laughing, and wanting him badly enough to burn the house down. Five nights came out of her body before she could make them dignified. Yes. That is the explicitness I want: not just anatomy, but her body betraying the careful little story she told herself about how manageable her need was.
+The boyfriend with the audible question mark hurt. Vee has built her whole week and half her physical life around this man. She sleeps in his smell when she can’t sleep beside him. He made her a dress by hand because she once mentioned wanting one. Yet when she needs one ordinary word to carry him home, she has to borrow one she doesn’t know she’s allowed to use. His acts are beautiful, but I’m done letting their beauty excuse that absence. If he can make room in a drawer, replenish a shirt with his scent, and construct a dress around her body, he can tell her what she is to him.
 
-And then the chapter quietly hurt me.
+And the cropping is everywhere. She crops the photograph for her parents. She gives her father only the facts that fit. She substitutes dancing for sex, “boyfriend” for the unnamed thing, gifted dress for a love object Pace built with his own hands. None of that makes her dishonest in some ugly way; families get edited versions. But she is also living inside a cropped version herself. Pace and Randi possess the uncropped picture of her life, and Vee is the only one who cannot see beyond the frame.
 
-She wanted him to fight for those nights. Not control her, not punish her—just *say he wanted them*. He gives her perfect freedom and perfect care, but still leaves her to infer the feeling beneath it. She keeps translating his actions into the words he won’t offer, and most of the time the translation is probably right. That almost makes it worse. The man can hear the entire confession inside a washed shirt. He can understand exactly what it means that she slept inside his fading scent for five nights. He can put on two shirts without embarrassing her and promise to fill the flannel back up with himself. He is not emotionally obtuse. He is choosing the language of acts because acts let him answer without naming anything.
+The weight loss is no longer a sensual little side effect I can ignore. Her mother is a nurse, watched her eat, sat on the bed, and asked whether she was making herself sick. Vee is eating plenty, yes, but “the amount of sex” is not enough of an answer for me anymore. Something is happening to her body at the same time that these relationships are consuming every available part of her life.
 
-The shirt absolutely wrecked me, though. I would have folded on the spot at “All weekend.” Her asking for his smell is so needy and animal and tender, and his complete lack of teasing made it safe for her to be that needy. That is romance. That is also the trap: he is exceptionally good at giving her an answer that feels whole while leaving the central question untouched.
+Also: Cassie absolutely sees that “too good is its own kind of suspicious,” even if Vee attributes the thought to her father. She doesn’t prosecute Pace. She just keeps putting precise questions where Vee can find them later. I trust her so much, and I’m frightened that Vee’s safest friendship is becoming the place where she brings only the cropped version.
 
-And “He was good at not asking things” landed like a blade. Vee has just protected Randi by seeing something devastating and choosing not to ask. Now Pace nearly does the same with her, and she has to rush in and correct the story he is silently preparing to accept. She gives both of them the mercy of not having to speak—but neither of them is giving her the truth she cannot know to request. I’m swooning over the stupid double shirt while wanting to shake all three of them.
-
-Also, *The New Ordinary* is not comforting to me. Her drawer, his food, the sex, the shirt traveling back and forth to carry his scent through the nights she spends elsewhere: this is a domestic relationship in everything but the word. She thinks the arrangement is becoming secure. I know the foundation is still booby-trapped. I am absolutely reading on.
-
-GATE 42 — The New Ordinary
+GATE 43 — Cropped
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The hall scene gave me heat with personality, and the shirt gave me exactly the humiliating, specific tenderness I read romance for. But Pace’s refusal to say what Vee needs is no longer coy mystery; the chapter shows how exquisitely he understands unspoken meaning, which makes his larger silence feel more deliberate than ever.
+WHY: This was quiet, but it pressed directly on the missing word and made the title cut in several directions at once. I need the next chapter because Vee has finally heard herself put a question mark after “boyfriend,” and I don’t think she can entirely unhear it.

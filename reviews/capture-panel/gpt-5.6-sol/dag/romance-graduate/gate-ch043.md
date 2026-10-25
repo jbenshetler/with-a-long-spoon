@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
 
-REACTION — Oh, Cassie. She asks the question everyone else keeps arranging Vee not to ask, and then she accepts the answer without turning Vee’s uncertainty into an opening she can use. “Is it that you can’t say, or that you don’t want to?” That is such a clean, adult question. And Vee being grateful Cassie didn’t push while also wishing she had—yes. That’s exactly the loneliness of knowing something is wrong-shaped but not yet being able to make yourself look directly at it.
+REACTION
 
-The boyfriend with the audible question mark hurt. Vee has built her whole week and half her physical life around this man. She sleeps in his smell when she can’t sleep beside him. He made her a dress by hand because she once mentioned wanting one. Yet when she needs one ordinary word to carry him home, she has to borrow one she doesn’t know she’s allowed to use. His acts are beautiful, but I’m done letting their beauty excuse that absence. If he can make room in a drawer, replenish a shirt with his scent, and construct a dress around her body, he can tell her what she is to him.
+Oh, that hurt. That hurt more than if he had simply said nothing.
 
-And the cropping is everywhere. She crops the photograph for her parents. She gives her father only the facts that fit. She substitutes dancing for sex, “boyfriend” for the unnamed thing, gifted dress for a love object Pace built with his own hands. None of that makes her dishonest in some ugly way; families get edited versions. But she is also living inside a cropped version herself. Pace and Randi possess the uncropped picture of her life, and Vee is the only one who cannot see beyond the frame.
+She gave him the most Vee-shaped declaration of love imaginable—food, appetite, the entire awakening of her body and senses, all of it distilled into one brave little offering—and he answered the part he was willing to receive. *I love how good we are together.* Not *you*. Not even close enough to let her pretend without doing the repair work herself. He loved the arrangement, the pleasure, what her body does, the shared experience. And then: “I’m glad you feel it too,” as though she had been praising the sex. Sir. She handed you her whole heart in a bowl and you complimented the meal.
 
-The weight loss is no longer a sensual little side effect I can ignore. Her mother is a nurse, watched her eat, sat on the bed, and asked whether she was making herself sick. Vee is eating plenty, yes, but “the amount of sex” is not enough of an answer for me anymore. Something is happening to her body at the same time that these relationships are consuming every available part of her life.
+And the awful thing is that his response was tender. He was moved. The stopped hand, the two breaths, pulling her closer, the long kiss in her hair—none of that was fake. I believe he felt the size of what she gave him. Which means I’m no longer willing to let him hide behind emotional awkwardness. He understood enough to be shaken and then built the safest accurate sentence he could: one that offered warmth without naming her, promised nothing, and could survive whatever secret definitions he is maintaining with Randi. This is exactly what he does with language. “I’d never share your photograph.” “I love how good we are together.” Every word true, every missing word doing the damage.
 
-Also: Cassie absolutely sees that “too good is its own kind of suspicious,” even if Vee attributes the thought to her father. She doesn’t prosecute Pace. She just keeps putting precise questions where Vee can find them later. I trust her so much, and I’m frightened that Vee’s safest friendship is becoming the place where she brings only the cropped version.
+Her little bodily *wait* devastated me. Vee knows. She knows before she permits herself to know, just as she knew Randi’s name on that government record mattered before she understood why. Her perception is excellent; it’s the permission afterward that keeps failing her. She receives the warning, then lets warmth push it down, then reconstructs the exchange as evidence that she was “received warmly.” That phrase, with the title of the book hanging over it, made my stomach drop. A warm reception is not an answer. Being held is not an answer. Tenderness can be real and still be used to keep a question from finishing itself.
 
-GATE 43 — Cropped
+And then the laundry room. God. There’s something so lonely about realizing beside a turning dryer that your best sentence went somewhere other than where you sent it. “The words went through him first” is the whole trap. She has made his silence into a rule governing her own mouth, so the only person who can resolve her uncertainty is also the person she has decided she cannot question. That is not safety, however safe his arms feel.
+
+The pile of earlier flickers matters enormously. She has not forgotten them; she has been repairing over them. This is the first one too large to disappear completely into the repair. I want her to tell Cassie. Cassie asked exactly the right question earlier—can’t say, or don’t want to?—and Vee answered both. Now we know the third answer: she does want to say it, desperately, but she believes Pace has first rights over the language of their relationship.
+
+I’m furious with him, and still painfully convinced that he loves her. That contradiction is why I’m already turning the page. If he did not understand, he is emotionally obtuse in a way the entire book disproves. If he did understand, he chose the narrower sentence. Either possibility demands an answer now.
+
+GATE 44 — Seconds
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it pressed directly on the missing word and made the title cut in several directions at once. I need the next chapter because Vee has finally heard herself put a question mark after “boyfriend,” and I don’t think she can entirely unhear it.
+WHY: Vee finally pushed her love into the air, and Pace answered with a sentence engineered around its missing object. Her body has begun refusing the comforting interpretation her mind keeps building, and I need to see whether she trusts that small *wait* before Pace and Randi ask her to ignore something even larger.

@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, god. This hurt. This one got under my ribs and twisted.
+This broke my heart in two pages.
 
-Because we’ve all been her in that Chili's booth. Every woman who has ever loved a man who is keeping her in a beautiful, gilded terrarium has sat across a table like that, ordering the stupid, messy food from before she met him, trying desperately to prove that they exist in the daylight, under the fluorescent bulbs, among the screaming TVs and the sticky menus. And watching him disintegrate under the sensory overload—his hands obsessively squaring the fork, his eyes darting to the screen, that tiny flash of irritation—and having her stomach plummet because she thinks *he is ashamed of me. He only wants me in the dark.*
+The shirt. That damn flannel shirt. In Chapter 42 it was the sweetest, most tender piece of domestic romance—she washed it, she asked him to wear it for an entire weekend just to recharge his scent, and he put it on over his clothes without a second thought. And here, in the freezing dark of her top bunk, the comfort curdles. The realization that the warmth in the cloth is just her own heat reflected back at her, that he is sleeping soundly across town while she is unraveling over a blank text box, is utterly devastating.
 
-And his explanation is so brilliantly, deviously, devastatingly *Pace*. "In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now." It is the most beautiful, seductive poison a man could ever pour into an insecure girl's ear. It completely disarms her. It makes her feel small for picking the fight, makes her feel like *she's* the one who doesn't appreciate the cathedral he's built for them, and hands her the fake moral high ground of "forgiving" him so she can crawl back into his bed and let him obliterate her with his mouth.
+She stripped it off and chose to freeze instead. That is the first real act of emotional self-preservation Vee has shown in this entire book. Up until now, she’s made excuses for his silences, rationalized his control, and let his incredible physical attention soothe away every doubt. But the physical comfort can't cover the hole anymore. She knows, in her bones, that he gives her everything he does, but the silence where his word should be is deafening.
 
-And the sex! God, the sex had teeth this time. It wasn't just his usual courtly, almost clinical worship. Vee *wanted* the control to snap. She was practically begging for him to stop being so goddamn patient, stop curating her orgasms like a gourmet tasting menu, and just *take* her. And when he finally broke—when he lost that architectural restraint, shoving into her and coming undone, shaking and desperate—it was electric. But the morning after... Jesus. The crash back to reality.
+It’s a tiny, quiet chapter, but the psychological precision is razor-sharp. She is finally, painfully waking up to the asymmetry between them, right before the whole house of cards collapses.
 
-Lying in the dark, sticky with his come, completely hollowed out because she realizes that even with his control shattered, even with his face buried in her neck shaking with his own release, he *still didn't say the word*. He gave her his body, his house, his food, his patience, his breakdown, and not a single inch of public certainty. "He'd given her all of it and not the name." That line hit like a slap.
-
-The tragedy is so thick I could choke on it. She’s lying there agonizing over whether "boyfriend" is too small a word, wondering how to explain him to her dad, completely blind to the fact that she's not his secret girlfriend—she's his and Randi's shared project. The clock is ticking so loudly now. She’s suffocating inside the trap, and she doesn't even know the door is locked from the outside.
-
-GATE 45 — Under the Rug
+GATE 46 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute psychological precision of that Chili's scene broke my heart, and the sex finally had the desperate, raw friction I've been waiting for. Watching her lie in the dark realizing that incredible sex and domestic reverence still leave her completely nameless and alone is top-tier emotional gut-punching. I need the fallout immediately.
+WHY: The shirt coming off and being left in a heap is the exact turning point I’ve been waiting for. Vee is finally feeling the cold of what he isn't giving her, and I need to see what she does with that ache next.

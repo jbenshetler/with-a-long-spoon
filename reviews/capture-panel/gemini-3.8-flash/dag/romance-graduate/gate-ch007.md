@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
 
 REACTION
 
-*Oh, this is delicious and sick.*
+Oh, Vee. My heart just broke for her a little bit, and that makes what Randi and Pace are doing so much more dangerous and awful and magnetic.
 
-Look at what this book is doing. We just had two chapters completely from Vee’s perspective—sweet, vulnerable Vee, quietly starving for someone to just *listen* to her, being so utterly disarmed by a cup of tart froyo and a man who doesn’t rush her—and now we snap right back into Pace’s living room, to the other side of the mirror.
+This chapter is tiny, but God, it does so much heavy lifting emotionally. We’ve seen Vee through Pace’s appraising, calculating eyes (the "lavish scale," the "hourglass clothes weren't cut for"), through Randi’s predatory fascination, through her own anxious attempt to perform poise at Chi Latte. But here, stripped down to a green-and-white suit she’s overflowing, walking the gauntlet of college douchebags barking at her breasts from the bleachers, we finally feel the *exhaustion* of being her. "The whole business of having a body in a place where people were." That line hit me right in the chest. To be an object of constant consumption, constantly performing chin-up grace while your mother’s voice polices your appetite and men treat your hips like public property—it makes you understand completely why she melted when Pace asked about her econ thesis and waited for her to finish a sentence. She is starving for someone to see her as a person, and the sheer tragedy is that Pace and Randi *are* seeing her, profoundly so, but also treating her like a gourmet meal they’ve conspired to share.
 
-And Randi. Jesus, Randi. She didn't come over to casually check in; she came over *feral*. Straddling him on the couch, putting his hands on her bare breasts, practically demanding to be fed the details like an aphrodisiac: *“Tell.”* It turns her on so intensely that it’s almost violent, the thought of Vee. But then—and this is why this writer has me by the throat—the shift. The tiny, lethal hairline fracture in the fantasy.
+And Cassie. I love Cassie so much it hurts. "Tossers. They will never know the love of a woman." Cassie is the absolute tether of reality in this book. She’s the anti-Randi: no performance, no Greek letters, boxy frame in an ugly navy suit she doesn't apologize for, standing in the shallow end "like a person." The contrast between Cassie’s clean, uncomplicated love—splashing water in Vee’s face to knock the melancholy out of her without demanding an explanation—and the intricate spiderweb Randi and Pace are weaving around her is breathtaking.
 
-*“Did she make you laugh?”*
-*“No. I made her laugh... She’s easy to listen to.”*
-And then the absolute, telling silence: *“He thought of what she had said after, on the walk... and did not hand it over. It was hers.”*
+It’s a quiet chapter. There’s zero heat. But after the thick, wine-dark erotic tension of Chapter 7, this was the exact breath Vee needed to take. We needed to be under the water with her, weightless, before the trap snaps shut.
 
-Pace is already keeping secrets. Not out of malice, but out of that quiet, terrifying tenderness of his. He kept Vee's fragile little confession behind his own closed door. And Randi felt the walls move. Her thighs didn't tighten with lust; they *set*. She realized, in a microsecond she had to cover up with a bright voice and a gulp of wine, that this isn't just an erotic game of dress-up to break her out of her shell. Pace is genuinely seeing Vee, the same way he saw Randi. And Randi wanted to watch, wanted to orchestrate, wanted to consume—she didn't plan on Pace having a private room with this girl that doesn't belong to the two of them.
-
-The heat here is unbelievable, and nobody even took their pants off. Randi feeding him the red wine out of her own mouth so he tastes it only through her? Her using him as an instrument to process her own burning, forbidden hunger for this girl? The psychological entanglement is getting so thick you could choke on it.
-
-I need the next chapter immediately. I want to see what happens in that bedroom tonight, and I want to see how long Randi can pretend she's the one holding the leash.
-
-GATE 7 — Tannin
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The contrast between Vee’s sweet, innocent afternoon and Randi’s desperate, wine-soaked interrogation on the couch was masterful. The moment Pace kept Vee's vulnerability to himself, and Randi physically stiffened at the boundary, the entire power dynamic shifted beneath their feet. I am completely hooked.
+WHY: It’s short, completely un-erotic, and yet totally essential—it gives Vee the aching, tender interiority that makes the impending game between her, Randi, and Pace feel terrifyingly high-stakes. Plus, Cassie is the absolute best kind of romance-novel best friend: zero bullshit and fiercely protective. I need to see what happens when the three of them inevitably collide again.

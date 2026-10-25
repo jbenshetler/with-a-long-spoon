@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh my *god*. My jaw is on the floor and my pulse is completely out of control. This chapter did something to me that very few books have ever managed: it gave me absolute, skin-prickling erotic heat while making me want to scream at the top of my lungs in sheer psychological dread.
+Oh, my god. *Oh my god.* I am sweating. My heart is in my throat.
 
-First of all—Marcel Mauss’s essay on the *gift* and *hau*? *“The thing you were given is inhabited, and it pulls back toward its giver, and that pull is why a gift can never really be free.”* The book just handed us the entire philosophical autopsy of this three-way dynamic right in the syllabus lecture, and Vee has NO idea that the house, the bread, the coat, the shoes, the orgasms—none of it is "free." It’s all tethered to the two of them.
+First of all: *"Vee's boyfriend."* He said it. He said it six times! He said it to Cassie, he said it to Danny, he said it *to Randi.* After weeks of Pace holding those words behind his teeth like gold bullion, terrified that naming the thing would invite Daphne’s ghost to destroy him, he just laid it down on the table like a fact. And watching him work that room—God, this man is terrifyingly observant. He didn’t flex, he didn’t pull rank, he just casually fed every single person in Vee's life the exact line that made them feel seen and let them shine. That isn't just charming; it’s an art form. He memorized every single scrap of dorm gossip Vee ever babbled into his back while he did dishes and kept it safe on a shelf.
 
-And then this dinner. The tension was suffocating. Watching Randi lean across that loft table, playing the supportive bestie while practically drinking Vee’s confessions like fine wine, was hypnotic. When Vee turned the olive coat around to show her the stain on the satin lining?! I stopped breathing. The pure, unhinged nerve of that, and Randi staring at it with her eyes dark and liquid!
+And then the sheer, suffocating psychological horror of the triangle happening in plain daylight.
 
-And then Vee having to excuse herself to the restaurant bathroom to make herself come against the partition because she got so wound up talking to Randi about Pace—only to realize, right at the climax, that it was *Randi’s* face driving her over the edge? *“Because that had been about Pace, obviously. All of it. About Pace.”* Oh honey, the denial is cracking. The absolute terror when Randi said, *“Things were really heated. It’s a good thing you got relief,”* almost made me drop my phone. Randi totally knew. She baited her into that stall!
+Randi showed up *first*. Of course she did. She had her claws in the room before the hosts even arrived. And that toast: *"To my beautiful best friend."* The white-knuckled grip on the wine glass until her fingernail turned white, the glazed, haunted look in her eyes—Vee thinks she’s looking at a friend deeply touched by love, but we know the truth. Randi is drowning. She is watching the man she orchestrated this whole setup with claim the girl she is secretly, desperately in love with, and she can't say a damn word without burning her own house down. And Pace: *"They share an interest... You."* The double meaning in that line hit me like a physical blow. He knows. Randi knows. And Vee is just sitting between them, radiating pure, golden, innocent triumph. The tension is so thick you couldn't cut it with a chef's knife; it’s a guillotine hanging by a single thread.
 
-And that kiss on the neck on the sidewalk. Randi pointing at the spot, Vee kissing it without a second thought, and Randi flinching—because Randi is in love with her and dying inside, while Vee thinks it's all just sisterhood and giggles. And now tomorrow is the big dinner. Pace, Randi, Cassie, and Vee in the same room. The collision is here. I need chapter 58 yesterday.
+And the truck. *Jesus Christ, the truck.*
 
-GATE 57 — Covering
+The heat in the second half of this chapter was completely unhinged. Vee on her knees on the bench seat taking him into her mouth right there in the gravel lot, needing that specific stillness out of him—the complete surrender of the man who controls everything. But then her pulling her own jeans down to her knees while he’s driving? Holding her own soaked lace aside so he can finger her on the bench seat at fifty miles an hour with one hand on the wheel? It was raw, reckless, utterly filthy, and completely earned. It wasn't just physical; it was Vee's absolute hunger to be *claimed* after surviving the starvation of December.
+
+This book is firing on every single cylinder right now. The emotional intelligence, the dramatic irony, the sheer, unapologetic explicitness—it’s everything I have been begging romance to be for ten years.
+
+***
+
+GATE 58 — Among Friends
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological friction between Vee and Randi is at an absolute fever pitch. Between the coat stain reveal, the restaurant bathroom scene, and the imminent group dinner, the book is completely firing on all cylinders.
+WHY: The tension between the public declaration ("Vee's boyfriend") and the suffocating secret Randi and Pace are keeping is absolute psychological perfection, capped off by one of the hottest truck scenes I've ever read.

@@ -48,7 +48,7 @@ both fixed. Model tally on this chapter: `claude-opus-5` 2, `gpt-6-astra` 2,
   :217 ("He typed it into his phone, repeated it back to her once to confirm,
   and pocketed the phone") against its own Fact Ledger §5, which claims Pace
   "leaves his number with Vee". The prose is correct — he takes *her* number,
-  and {{The Long Way}} turns on exactly that ("She'd given him hers; it hadn't
+  and *The Long Way* (now {{Substitution}}'s second movement) turns on exactly that ("She'd given him hers; it hadn't
   occurred to her to ask for his"). The same bad ledger entry produced a
   HIGH-confidence false positive against `long-way:7`. Tell for the class: the
   AGAINST side cites a ledger line rather than a passage.

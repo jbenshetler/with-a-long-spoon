@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch006 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c7525ec1c0b8 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch006 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 822fde509de8 · dated · 2026-10-24*
 
 REACTION
 
-Oh, this little thing. Two pages and it got me anyway, which I did not expect, because when I saw how short it was my first thought was *don't you dare bridge me.*
+Okay so the apple. *The apple.* "She built a cup, like nobody had ever told her when to stop" — I actually sat up. Chapter one he's slicing a honeycrisp thin because thick slices don't get eaten, watching the little accountant behind her face approve each piece, and now he comes home and feeds her a *girl who overfilled her froyo cup* and she goes tight in the thighs over it. That's not a sex scene, that's a diagnosis delivered as foreplay. Randi's starving and she's going to eat through Vee's mouth. I didn't have words for what Randi wanted until this chapter and now I do and it's worse than I thought.
 
-The froyo. He gave her calculus the same attention he gave the flavor placards and I laughed out loud at "you put chocolate on tart and it's an argument the whole way down," because that's a man with a *system*, and the book has been very quietly telling me for six chapters that his systems are the whole thing. He built a bench with silent oiled mechanisms. He slices an apple thin and cut-side-up because she eats more that way. He knows which yogurt holds up under weight. Same man. Nobody pointed at it. The book did not lean over and explain to me that the man who engineers pleasure also engineers a dessert cup, and I am so grateful I could cry — that restraint is the entire reason I'm still here.
+And the wine. He doesn't pour himself a glass. She drinks and brings it to him in her mouth and that's the only way he gets any — *"He had not had a drop of it. He could taste nothing else."* I'd text that line to someone at 1 a.m. with no context. It's the whole book in two sentences: everything he has of a thing, he has secondhand, through her, and he's built his whole appetite around liking it that way. Which is exactly what he's doing with Vee, and he thinks it's generosity.
 
-And then the part that actually went through me: she builds her cup and it gets away from her and *the mother-voice doesn't come.* "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing." After chapter one — Randi doing the calculation behind her face over four thin slices of honeycrisp, the mother on egg whites with a knife in it — and after Pace's "let's go feed you" at the end of the pointing game, this book is building something about appetite and permission that it has not once said out loud, and it put it in a plastic cup of frozen yogurt with dusty fake ivy over it. She bit her lip knowing it would drip and found she didn't care. That's the erotic content of the chapter. There isn't a hand anywhere near her and I felt it land lower than most sex scenes I read last year.
+But here's what I'm actually chewing on. He held something back. The true embarrassing thing Vee said on the walk — *this is the nicest a person has been to me in a really long time and it's froyo* — he doesn't hand it over. "It's hers." That's the first wall in this book and he built it, without announcing it, while she was literally saying *tell, tell, TELL* into his ear. Four weeks of her handing him every evening and he's just quietly started keeping something. He doesn't even register it as a decision. That's the crack and it's hairline and the book didn't underline it for me, which I'm grateful for — nobody stopped to explain that this was significant. It just happened and moved on.
 
-The thing I can't get out from under is Randi taking the phone out of her hand. *He looked like a man who wants you. He wants to see you naked.* And Vee going for the flaw — is he desperate — because wanting it is unbearable, and Randi, who has been in bed with this man, who stood on a lawn and pointed herself at this girl, says *you should go.* And then the rule. "You wait a day. You don't answer the first one." That's the one beat in the chapter where I felt the floor of a thousand other books under my feet — and Randi kills it in a single line: *the rule's for boys you're not sure about.* She's not giving Vee dating advice. She's removing the only speed bump between Vee and the plan, and she's doing it by telling Vee the truth about herself, which is the most frightening kind of help there is. "Vee wasn't, and all three of them knew it, and that was the whole debate." I would text a friend that sentence at 1 a.m. with no commentary.
+The other thing: Randi going *level.* Not relaxed, not keyed up — set. Thighs that don't tighten, hands that stop in his hair, a smile arriving a beat after it was called for. And he reads it as "a want too big for her face, and keeping the face over it anyway," and he's *moved* by it. He's moved by the exact mechanism she told the mirror she was going to hide behind forever. She decided in that bathroom he could have the face, and he's out here finding the face poignant. These two are so close and so wrong about each other and the book is not telling me which one of them I'm supposed to be worried for.
 
-Cassie. *As long as he doesn't make you roll a healer again.* A whole semester of Vee up till two keeping a business major alive. Four words a day and every one of them a scan. She clocked the look at the coffee shop, she said *goodbye, Vee* in a lecture hall like a word for a longer parting, and now she's the only person at that table whose warmth isn't being spent on Vee for a reason. I'm bracing for her.
+"I already do." Said bright and fast about a girl she met once in a lecture hall. Sure, honey.
 
-What it cost: I was in and out before I'd settled. "Your tart's holding up" is a lovely last line — he doesn't pretend, doesn't inflate it, hands her back something small and true and *walks* — but I got exactly one date beat and no kiss and no edge, and the previous chapter already did the charged version of this. If the next one is also two pages of gold light and good manners I'm going to start skimming for Randi, because Randi is the live wire and I know, from the jacket, that there's a plan in a room I keep not being shown. I don't want tidy. I want to watch somebody start to lose.
+The one thing I'll grumble about: it ends with her hand held out and I don't get to follow. I don't know how I feel about two-page chapters yet — I've never read one. This one didn't feel like a shortcut; it felt like a held breath. But I want the rest of the breath.
 
-But I'd be lying if I said I wasn't warm. He waited out her sentences. She noticed she wasn't used to being the thing a person waited on. That's the hook in my mouth, and the book knows it's a hook, and so does Randi.
-
-GATE 6 — The Long Way
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "It's the rule. You wait a day. You don't answer the first one."
-WHY: For one line I was back in every interchangeable book on my Kindle, and then Randi dismantled the rule in a way that was about *Vee* and not about dating, and I was hooked harder than before. The chapter is small and I wanted more of it, which is the good kind of short — but I'm keeping count, and the thing I actually want now is Randi's side of this, not another golden hour.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Two pages and it reframed everything I thought I knew about what Randi's hunger is for — the apple callback did more work than most full chapters do. And he kept a secret from her without either of them noticing, which is the first real fault line in this thing. She held out her hand and I want to know where she took him.

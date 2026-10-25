@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
 
-**REACTION**
+REACTION
 
-Oh, this chapter just about broke my heart in two.
+The contrast between who Vee is with Pace and who she has to pretend to be in front of everyone else is getting excruciating to watch. Sitting across from Cassie in an athletic dining hall, breaking down her Thanksgiving trip, Vee finally has to look at the shape of her life from the outside. Her parents see the physical evidence of what’s happening—the weight falling off her, the bare collarbones, the silk dress—and they immediately read it as trouble or an older man buying access. And Vee’s instinct is so sharp and so tragic: she knows her dad would understand a man undressing his daughter far better than a man *sewing the dress for her*. She knows how bizarre, how singular, how outside normal human behavior Pace’s brand of domestic devotion actually is.
 
-It is utterly exquisite, devastating domesticity. Seeing Vee so desperate after five days apart—fumbling with her boots, practically tackling him through the door, letting her body completely betray how fiercely she missed him—was gorgeous. She thinks she is building a quiet, sacred sanctuary with a partner who cooks intricate meals with real technique, pays quiet attention to every single detail of her pleasure, and holds space for her awkward, vulnerable confessions without a single ounce of judgment.
+What kills me is that Cassie is the only one asking the clean, direct, uncorrupted questions. Cassie doesn’t have an angle. She isn’t getting off on the details like Randi, and she isn’t building a behavioral theorem like Pace. She just looks at Vee across a tray of food and asks the fundamental question that the jacket promised from the start: *“So what is he... Not to your dad. To you.”*
 
-The moment with the flannel shirt destroyed me. When he thought for a second she was returning it, and you saw that tiny flicker of genuine hurt on his face, followed by her blurting out that she needed him to recharge it with his scent so she could survive the nights away from him... God, it is so painfully tender. She handed him her entire, unguarded heart, and he put that second shirt on right over his own without a heartbeat of hesitation.
+And Vee has nothing. She has to admit it’s both that she can’t say and that she doesn’t want to say. Because giving it a name would require examining what the silence actually means, and she’s terrified that if she names it, she’ll find out the house has no floor. It’s quiet, it’s short, but the psychological tension is just humming under the surface. Cassie’s calm presence is the mirror Vee can barely bring herself to look into.
 
-And that is exactly why this whole thing feels like a high-wire act over a pit of fire.
-
-Because while she is standing in that warm kitchen feeling like the most cherished woman on earth, we *know* what happened four days ago on that same couch. We know Randi was bent over it, shouting that she wants Vee, while Pace took her from behind. We know this man has a mathematical, predatory architecture running underneath all this courtly devotion. It makes every single gentle touch feel loaded with tragedy. He is giving her an experience of romance so thorough and deep that it's going to utterly shatter her when the truth lands. I am completely hooked on the agony of loving this couple while dreading the inevitable drop.
-
-***
-
-GATE 42 — The New Ordinary
+GATE 43 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tender vulnerability of the shirt scene hit me right in the chest, and the contrast between this breathtaking domestic intimacy and the secret betrayal waiting to detonate makes it impossible to put down.
+WHY: The dialogue between Vee and Cassie is razor-sharp; watching Vee try to translate her intense, secretive world into normal reality highlights just how dangerously deep she’s fallen.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
-## REACTION
+**REACTION**
 
-I keep coming back to "We *talked*." No, babe, you didn't. He stood in the door and started "Vee, I l—" and you cut him off with a coat. I yelled at the page in chapter 52 and then got swept along, because the doorstep was so good I let it slide. Now she's sitting in a bean bag telling Cassie the whole month came down "like a tent with the pole pulled" because they *talked*. The thing she walked out over in December is still unsaid. She was the one who stopped it from being said, and she's already rewriting it into a conversation. It's the Rusty Nail lie all over again, the one she knew was a lie. I'm not mad at her for it. I'm worried. She keeps everyone on a different set of books, and now the account she's fudging is her own.
+Okay, the one line in this chapter that sat me straight up: *"'It's late. Is everything alright?'"*
 
-Then there's the sweater. I was cackling. Cassie *saw* her walk in Sunday night in the coat, his sweats and Randi's stilettos. "Didn't bring a bag?" "And your clothes?" Cassie isn't asking because she doesn't know. She's asking to see what Vee will do with it. Vee invents a whole laundry disaster, a cranberry sweater shrunk to doll size and dye in her good pants, and Cassie just looks at her and says "Pace. Shrank your sweater." Then she laughs her rare full laugh. That laugh is Cassie knowing exactly what the lie is and loving her anyway. "Corrected by nobody." That's friendship, and it also means Cassie has noted one more half-answer. She keeps doing this: she doesn't push.
+He didn't say that. I was there. He opened the door and said "Vee, I l—" and she cut him off with the coat. I'd half-forgotten that myself, buried under everything after. And now, telling her friends, she swaps in a polite, courteous Pace line that never happened. That isn't discretion, it's replacement. She's rewriting the one moment where he might finally have said the thing, and I can't tell if she even registered what she stopped. Did she hear "I l—" and decide it didn't count? Did she want to win so badly she stepped on the word she'd walked out over? That's the most interesting thing in three chapters and the book doesn't point at it. Good. Don't.
 
-Then the card, which got me in the throat. "My mother says thank you for the card. She wants to know when she gets to see you again." Vee's hand goes to her collar, the exact gesture her own mother made touching her collarbone. Is Cassie's mom the mother Vee wishes she had? A mom who saves boxes and gets you a better one? I loved "the baby is a baby" and the brother-in-law wearing snowshoes in the house. Cassie "could hear the size of things," and she was done with the subject the moment before it would have needed anything from either of them. I'd read a whole book of Cassie being dry.
+So now I count it: Cassie got the shrunken-sweater story, the girls get "we talked all night," and Randi will get "nearly everything." Every friend has their own version of the weekend. I flagged this months ago with the cropped photo, and now it's a habit, and it's cheerful, which is scarier than when it was anxious. "It sat on the table looking exactly true." Yep.
 
-My shape alarm is going off a little, though. 54 was two people talking at a sink, which I loved. 55 is a dorm room and a top bunk, and it's lovely, but that's two quiet chapters in a row. I came off the hottest two chapters of the book (the doorstep, and the princess-and-slave morning, which I'm still thinking about) and right now I'm aching to get to Tuesday. The dinner with Randi. Vee planning to tell her "nearly everything," including the taste thing. Randi having to "choose" after Brooke's warning. Pace saying "let me handle it" about a party with Randi in the middle of it. Those are the loaded guns, and this chapter didn't touch any of them. That was fine for one chapter. It won't be for another.
+The brunch itself was fun. Kayla is a delight in small doses: "This is the last morning of my life and it's going to be peanut butter crackers." Shrieking "in front of *God*." Meg's heating-pad story made me laugh. I liked Vee picking up the check for herself with Christmas money and doing no arithmetic. That's her growing up, quietly. But Meg's "make it right in their language" and "that's a big apology" kind of bugged me. Vee didn't owe the apology. I don't love the book having the girls frame the coat as her saying sorry, and I really hope that isn't the book's own view.
 
-The flannel going faint, and "he would just have to wear it for her this weekend": small and sweet, and it closes the book on the cold-bedroom image properly. Her hand flat on the cinderblock, and "the wall was only a wall." Good. She isn't in the cold anymore. I'll take that.
+My real problem is this: 54, 55, 56. Kitchen talk, dorm talk, brunch talk. Three quiet chapters in a row, all warm, all likable, all people being happy in rooms. The first was lovely ("tables have ends"), the second had Cassie's mom and the card, and this one is basically the girls getting their invitations to the Wednesday dinner. I was skimming the middle for the next line of dialogue, and that's my stall alarm going off. Meanwhile the actual bombs are offstage: Brooke told Randi "You need to choose," Pace is "handling it" for a dinner with Randi and Vee at the same table, and Vee is planning to take the not-gross-maybe thing to Randi. That's where the book is. Get me there.
 
----
+Who's at Wednesday dinner, and what's Pace building? He wanted everyone. That might be love, or it might be cover. I want Randi's face across from him with Vee in the middle.
 
-GATE 55 — Unpacking
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 5
 NEXT: 7
 HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "and the record stood exactly where Vee had left it, corrected by nobody." That isn't where I wanted to leave. It's where I noticed the book was coasting on charm for the second chapter running.
-WHY: Cassie is a delight, and the shrunk-sweater lie told to someone who already saw the heels is a sly, funny little scene with a real sting under it, because "we talked" is the biggest lie in the chapter. But it's a bridge after a bridge, and every thread I care about (Randi, Brooke's ultimatum, the taste question, the party) is parked until Tuesday. If chapter 56 isn't that dinner, I'll start skimming.
+ROMANCE: 1
+ALMOST-STOPPED: "for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday"
+WHY: A charming bridge, but it's the third quiet room in a row and I felt my thumb speeding up. What keeps me here is the swapped doorway line, which is quietly huge, plus Brooke's ultimatum and a Wednesday dinner with all three of them at one table. If Tuesday's dinner with Randi isn't charged, I'm going to start bargaining with this book.

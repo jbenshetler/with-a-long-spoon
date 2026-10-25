@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch042 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch042 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, *this* is the sex I've been asking for since chapter 35. It isn't summarized and it isn't "two, three… mornings," it's in the room with me. The clothes trail down the hall did it: the jeans "sensible in the car and the enemy now," hopping out of them one-legged and inside out, white cotton socks, her laughing and having to stop laughing to finish. I've read four hundred frantic-reunion undressings and they're always choreographed, slick, everything sliding off. This one is clumsy and funny and real, and it's hot *because* it's clumsy. "There was no dignity anywhere in any of it and she'd have burned the house down for him." I'd text that line to someone. Same with "her body having just published the number she'd gone to such trouble to keep private." That's the five nights she counted and wouldn't admit to, given away by how fast she came. That's interiority doing the heat's work, which is the whole thing I'm here for.
+It's a short one, and it went somewhere I didn't expect. The heat isn't the point here. The point is her family seeing the edges of the picture.
 
-And him catching the back of her bra and just *holding* it so she has to unwind herself out of it like thread off a spool. "I'm helping." God. He's so still and so smug and I'm into it.
+The title got me before anything happened. *Cropped.* Mom has the induction photo printed and in her purse, cut off at the waist. Cassie gets "maybe." Randi gets the full uncropped one. Dad gets "the parts that fit." Pace gets the word only while he's asleep. Vee has been cropping herself for every audience all book, and now she's doing it to her own parents and can feel it. "I put a question mark on it. Out loud. Like I was asking them." That line hurt. *Boyfriend?* is exactly the word the jacket says he won't give her, and she said it in her parents' kitchen with nobody there to back her up.
 
-The part that got under my skin was the opening, though, before any of that. She took the five nights for school, and some unreasonable corner of her wanted him to fight for them, and he didn't. "Take the time you need, I'll be here." Grace that costs her more than a fight would have. That's the jacket's missing word again, coming at it from the side. He never says he wants her. He opens the door and waits. Then the shirt scene lands the same note from the other direction. She confesses she breathed a dying flannel every night, which is the most naked thing she's said all book, more naked than the hallway. He doesn't tease her and he doesn't flinch. He puts it on over his own shirt and wears two shirts in his warm kitchen. "That was the whole of his answer, as it always was." I teared up a little with her. I'm also furious, because I *know* what he did Monday with Randi over the white oak rail. "Then I'll be careful with you." He's careful with everyone. The shirt will smell like him, and like whatever else that house holds.
+Then her mom. The nurse face. Watching her eat seconds "like they might be a trick." Sitting on the end of the bed to ask if she's making herself sick. I've been tracking the weight loss warily since the bras started riding higher, and now somebody in the book has said it out loud. Her mother is the person who taught her shame, and she's also the one person who noticed. That's an uncomfortable spot to put me in, and I liked it. Vee lies with "dancing." She's gone once. Cassie catches it in one line. I laughed at "How am I supposed to tell her it's the sex? The amount of sex?", and then I stopped laughing, because she is eating everything on her tray and still getting thinner. Is that just the sex and the swimming? Or is the book planting something? I don't trust it yet.
 
-Which brings me to the thing I'm side-eyeing: "the long, unusually proportioned table that stood in the middle of his bedroom." Excuse me? Has that always been there? A table in the middle of a bedroom, flagged as *unusually proportioned*, with her thong landing on it and her never looking? That's a gun on the mantel. I don't remember it from earlier, and my notes don't have it. Either I've forgotten furniture or the book is planting something, and I'm betting on the second.
+The dad material was sweet. The burned rolls, him pricing the dress, picturing a man going grey. But the run where Vee talks about her dad and the weird-versus-wrong bit felt like the book explaining itself to me again. "Weird is something that doesn't fit anywhere in how he sees the world." I got that the moment she said he'd sew it. That's a mini-essay coming out of a 21-year-old's mouth in a cafeteria, and it's a gripe for the tally. "Sex he understands. The sewing he never would" was enough on its own. It's a great line, so let it stand.
 
-Gripes, smaller this time. The pizza was gorgeous, but it's another long menu, and the cotton-candy-versus-strawberries line edges toward the book explaining itself. I *get* that she's tasting everything separately now, that her senses woke up, the body-as-new-country thing. She didn't need to hand me the metaphor. The water buffalo mozzarella was a lovely little Pace-ism though.
+Cassie, though. "Is it that you can't say, or that you don't want to?" "Both." And then Cassie doesn't push. Vee is grateful, "and also, a little, not." That's the most honest thing she's said to Cassie in ten chapters. Cassie keeps asking the right questions and getting half-answers, and I'm worried this friendship gets crushed between the two people who are actually keeping score.
 
-I'm also noticing what *isn't* here. After 41, where Vee quietly protected Randi from her father's name on a fraud record (and I loved her for that), this chapter has zero Randi. No phone buzzing, no scratch on his shoulder, no trace in the bathroom while she's filling her drawer. Honestly that felt deliberate. It's the "new ordinary," and the dramatic irony does the work without the book pointing at it. Good. But I'm going to start needing the plot engine to turn over soon. Thanksgiving is a week out.
+What I'm cross about is that we skipped Thanksgiving at Pace's. Sheri, the pie she'd pretend to have made, and "I don't go back" played out at a table without Vee. Was Randi there? I've been waiting chapters for that, and I got Ohio told in retrospect. Maybe it's coming in a Pace chapter, the way the drawer came out of order. I hope so. Otherwise this is a hole.
 
-**GATE 42 — The New Ordinary**
+And Randi isn't here at all, right after 41 handed me her father's fraud and "cheating bastards." So that thread is on a fuse I can't see.
+
+What I'd text a friend at 1am: "her MOM asked if she's making herself sick and she said 'dancing.' she's been dancing ONCE. also she called him her boyfriend with a question mark in front of her parents and I need to lie down."
+
+**GATE 43 — Cropped**
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 6
 NEXT: 7
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "It was the difference, she thought, between cotton candy and a bowl of cut strawberries."
-WHY: Finally a sex scene shown in full, funny and clumsy and hot, with her inner life running through every beat. The shirt confession is the deepest the bond has gone, and it's crushing to read knowing what I know. I'm pulled forward a notch less than I was pulled in because nothing moved on the deception, but the planted table and Thanksgiving coming up keep me turning pages.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "In some ways weird is worse than wrong. Wrong is something he understands and rejects. Weird is something that doesn't fit anywhere in how he sees the world." It's the book narrating its own theme at me in a cafeteria.
+WHY: It's quiet, but it's sharp. The cropped photo, the question-marked "boyfriend," and a mother who finally says the weight thing out loud all hit. I want the next chapter more than this one held me, because I'm owed Thanksgiving at Pace's, and Randi has been gone since her father's name showed up on the screen.

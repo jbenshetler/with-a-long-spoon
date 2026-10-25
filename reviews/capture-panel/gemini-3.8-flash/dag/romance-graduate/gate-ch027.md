@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch027 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4425eb351a · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch027 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · dated · 2026-10-24*
 
-REACTION:
-God, the absolute hypocrisy and sheer, breath-stealing heat of this. I am torn right down the middle—sick to my stomach for Vee, and completely electrified by how feral Randi and Pace are together.
+REACTION
 
-Seeing the exact mirror image of Friday morning from Randi’s perspective—and watching her use Vee’s innocent vulnerability as direct, filthy fuel to ride Pace—is jaw-dropping. Vee thought she was in a safe harbor, having a sweet, restorative morning with a friend who built her back up. She had no idea she was being undressed and cataloged so Randi could bring the memory straight to Pace’s bed that very night. The voyeurism, the dirty talk, the way Randi literally used the physical details of touching Vee under her skirt to climax—it’s diabolical. And Pace! Pace just absorbs it, gets hard on it, and lets Randi choreograph Vee’s apology for him. He tells himself he’s noble, giving Vee "space," but he’s just sitting back letting Randi pull the strings and feed him the show.
+Oh, Pace. You absolute, arrogant, blind fool.
 
-The collision course here is terrifying. When Vee walks in tomorrow night in those borrowed shoes and that scarf, believing she’s executing her own brave romantic gesture, she’s actually walking right into the center of their trap. I cannot look away.
+*"If that's not already complicated, it will be. But I bet it's worth it."*
 
-GATE 27 — Space
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: The sheer psychological tension of watching Randi feed Pace every detail of her morning with Vee while riding him is incredible. The trap is completely set for Saturday night, and I have to see what happens when Vee walks through that door.
+The way this book uses these incidental characters—first the bartender clearing glasses at the Rusty Nail, and now Sheri on a bicycle—to hold up a mirror to the sheer insanity of what these three are doing is brilliant. And the contrast between how Pace sees himself versus what he’s actually pulling off is sickening. In chapter 24 he’s this tender, wounded, mathematically poetic boy-turned-man giving Vee the world, and in chapter 27 he’s fucking Randi while she gets off on practically groping Vee under a skirt, and now on Saturday morning he’s just out riding bikes, chatting casually about how Vee doesn’t know *"yet."*
+
+*"Listen to you,"* Sheri says, because he can’t stop talking about Vee running her thumb over the walnut grain. He thinks he’s a chivalrous craftsman who just happens to have two gorgeous women circling him. He thinks he’s in control of the machine. He has *no idea* that Randi is weaponizing her desire for Vee to cope with her own starvation, or that Vee is currently home psyching herself up to walk into his den in Randi's shoes and Randi's silk scarf like an offering.
+
+It’s a short, quiet bridge of a chapter, but it’s the quiet before the absolute detonator goes off. Saturday night is here. Vee is getting dressed. Randi dressed her. Pace is waiting. My stomach is in knots.
 
 ***
 
-Would you like a summary of the next chapter?
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 10
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: It’s a very brief breather chapter, but the tension of knowing Vee is about to arrive at his house on Saturday night wearing Randi's shoes and scarf makes it impossible not to immediately turn the page.

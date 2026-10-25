@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · dated · 2026-10-24*
 
-REACTION:
+**REACTION**
 
-Oh, this book is so wickedly smart.
+Oh, this chapter just about broke my heart in two.
 
-On paper, this chapter could have been the death of momentum—a college study session about federal loan data in a statistics class right after the unhinged, sweat-soaked Monday Randi and Pace just had. But instead, it landed like a cold, quiet blade between the ribs.
+It is utterly exquisite, devastating domesticity. Seeing Vee so desperate after five days apart—fumbling with her boots, practically tackling him through the door, letting her body completely betray how fiercely she missed him—was gorgeous. She thinks she is building a quiet, sacred sanctuary with a partner who cooks intricate meals with real technique, pays quiet attention to every single detail of her pleasure, and holds space for her awkward, vulnerable confessions without a single ounce of judgment.
 
-Watching the dynamic between these three women when they're actually functioning in the real world is mesmerizing. Cassie, completely unimpressed by privilege, armed with nothing but cold facts and the memory of her laid-off dad. Randi, gliding in on the easy, golden-child assumption that her family's wealth is benevolent and clean. And Vee, stuck in the middle, loving them both, trying to smooth every rough edge with her own soft hands.
+The moment with the flannel shirt destroyed me. When he thought for a second she was returning it, and you saw that tiny flicker of genuine hurt on his face, followed by her blurting out that she needed him to recharge it with his scent so she could survive the nights away from him... God, it is so painfully tender. She handed him her entire, unguarded heart, and he put that second shirt on right over his own without a heartbeat of hesitation.
 
-And then Randi clicks the outlier.
+And that is exactly why this whole thing feels like a high-wire act over a pit of fire.
 
-That beat in the glass room made the back of my neck prickle. Randi realizing in real time, in black-and-white government data, that her father didn't protect anyone—that the money that paid for her ease, her clothes, her confidence, was built on pure, unadulterated fraud. The way her entire body locked up. The flat, broken way she choked out that little curse to the screen. It is the absolute first time we've seen Randi's reality crack from something *outside* the triangle.
-
-And of course, Vee's immediate, instinctual reaction isn't to judge or gloat—it’s pure, protective grace. She covers for Randi instantly. She shields her from Cassie's sharp eye, takes the laptop, and gives Randi a bridge back to sanity without ever demanding an explanation or weaponizing the secret. It breaks my heart because it proves, yet again, how deeply good and loyal Vee is. She gives Randi unconditional grace, completely unaware that Randi is systematically setting her up to be dismantled.
-
-This was a bridge chapter, absolutely, but it gave Randi a sudden, sharp layer of vulnerability that is going to make the eventual fallout hit ten times harder.
+Because while she is standing in that warm kitchen feeling like the most cherished woman on earth, we *know* what happened four days ago on that same couch. We know Randi was bent over it, shouting that she wants Vee, while Pace took her from behind. We know this man has a mathematical, predatory architecture running underneath all this courtly devotion. It makes every single gentle touch feel loaded with tragedy. He is giving her an experience of romance so thorough and deep that it's going to utterly shatter her when the truth lands. I am completely hooked on the agony of loving this couple while dreading the inevitable drop.
 
 ***
 
-GATE 41 — The Outlier
+GATE 42 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Even without Pace or any physical heat, the psychological tension here was taut and fascinating. Watching Vee instinctively protect Randi's humiliation while Randi is actively deceiving her was brilliant character work.
+WHY: The tender vulnerability of the shirt scene hit me right in the chest, and the contrast between this breathtaking domestic intimacy and the secret betrayal waiting to detonate makes it impossible to put down.

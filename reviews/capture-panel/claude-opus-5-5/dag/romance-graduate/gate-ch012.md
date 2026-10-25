@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. Two pages, and four-fifths of it is Vee telling Cassie the chapter I just read. Right after Ch 10 replayed Chi Latte, that pattern is starting to itch. I already had the blister, the blue shirt, the lake, the sandwich and the truck, and I had them better the first time. "He looked at me like I'd handed him something" is a flatter version of a moment that wrecked me an hour ago. My thumb was ready to skim.
+Oh, *there* it is. I asked for a charge from Pace's head or Randi's body and the book gave me both in the same scene, and then made the sex the worst thing that's happened to anyone yet.
 
-What kept me reading was what she leaves out. She doesn't mention the dress. She doesn't tell Cassie about the cherry pit or the face-burning "no one taught you," and she doesn't mention the siren cutting her off mid-sentence. The russet dress is the most wanting thing she said all day, and she keeps it back even from Cassie. I clocked that hard. It's going to come back, and I'd bet money it comes back through Randi or a package or both. She's also retelling the truck as "he got soaked on purpose so I wouldn't have anybody looking at me." She's already turning it into a story about his decency, when in the moment it was about her wanting to be seen. She takes her own nerve and files it under his goodness. Maybe that's my reading and not the book's. I like that the book lets me do it.
+First, the heat. It's fully on the page with no euphemism. Every piece of clothing coming off reads as an interruption, and his hands keep going back to her between each one. Then she lowers onto him an inch at a time with her eyes on his because "she meant him to watch." That's a woman in control, and it's hot. Then "Tell me," and he starts describing Vee into Randi's ear while he's inside her: gardenia and musk, "on her throat, and lower," chlorine under the shampoo. I made a noise. It's filthy in exactly the way I came to this book for, a third person brought into the bed as a smell.
 
-And Cassie. "I had your blood type ready." "Keep the shirt." She goes still and rapt, says just "Vee" like setting something down where it won't break, and doesn't ask a single prying question. I still think she loves her, and it still hurts a little to watch. Then the book had to add "Not *Oh, Vee*." I didn't need that. Add one to the gripe count, a small one.
+Then "Her stomach is soft," and my whole chest dropped. He knows that from the truck, from her holding his shaking hand against her belly under the flannel. He gives Randi the fact and keeps where it came from. That's the second piece of Vee he's held back from her, and this time it's the important one. He thinks he's protecting something tender. What he's actually doing is handing Randi a detail she can't account for, at the exact moment she's clenched and shaking on top of him.
 
-Vee's "I got up a mountain. Me." got me, though. It's the first time she's been proud of her body as a thing that does something, and that matters for her.
+And Randi. "She clenched around him. Hard, all at once, her eyes shut… long enough that he said her name." Then she drives at him harder and her belly goes "tight as a board." Pace reads that as want, and I'm reading it as a woman holding back a sob with her abs while she rides it out. The book lets him get it wrong without flagging it for me. All I get is "If it was something else he could not have said what," which is restraint, and I'm not adding it to my subtext-explaining count. Her laugh coming out "thin, not her laugh" is the bathroom-mirror girl again. The face is cracking and he can't see it from underneath.
 
-What I'd text at 1 a.m.: "she didn't tell her roommate about the dress. she's going to tell RANDI about the dress. oh no."
+"I want us." I don't know what that means, and I love that. Us as in the two of them, against Vee? Us as in the three? Or her begging him not to fall for the soft-stomach girl? Pace hears it as a declaration and it goes "through him like the first swallow of something," and I want to shake him.
 
-What I need now is Pace driving home soaked and shaking, or Randi hearing this story. If the next chapter is Vee again, I'm skimming.
+Then she leaves. "No thanks," "I'm good," and the bright voice. She'd decided in chapter 1 that he'd never see her like that again, and this is that decision costing something, because she can't lie there after. He offers to feed her and she refuses. He feeds every hungry woman in this book, and this one won't eat. He stands in the open door with the cold coming in, "that she had not wanted to stay," and then eats twice over. God. He's been lonely the whole time and only just noticed.
 
-GATE 12 — Rye
+Little things I caught: the empty chair by the door, where her cashmere blanket usually goes. She came in not planning to stay. And "how was it?" asked into his mouth so he couldn't answer. She didn't want to hear about the hike, only the inventory of Vee.
+
+One tiny snag: "the freckles across her chest." Isn't Vee the freckled one? Either that's a slip or it's Pace's eyes laying Vee over Randi. I'm choosing to believe the second, and it gave me a chill.
+
+Text to a friend at 1 a.m.: "he's describing the redhead's smell to his gf DURING and she's basically crying through an orgasm and he thinks it's a breakthrough AGAIN. also he kept the stomach thing. I'm not okay."
+
+GATE 13 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "And then it rained. On the way down, out of nowhere, freezing, and we got to the truck wet through, both of us." That's where I realized I was getting the whole truck scene again as a recap.
-WHY: It's a recap chapter, and the second in a row in this book to replay something I already saw, but Cassie carries it and the missing dress is a real hook. I'm more keyed up for what's next than I was inside this one. I want Pace's head or Randi's face, now.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This is the chapter I was afraid the book wouldn't deliver after three quiet Vee chapters. It's explicit, it's psychologically vicious, and the sex is what drives the plot. Randi leaving after is the first real crack I've seen Pace feel, and I need to know what "I want us" costs all three of them.

@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
-REACTION — Okay, this is the quietest chapter yet, and I know exactly what it is: the breath between beats. Book just gave me three charged ones in a row — the pointing game, the coffee shop, the wine-on-the-couch scene that honestly did something to me — and now it's parking Vee at a pool with Cassie. And here's the thing: I'd be annoyed if the writing weren't this good. But it is. The line about having loved the water "before she had a body to be a problem" — that's the whole book in one sentence, isn't it. Vee's the girl whose body is a problem to be managed, hers to be covered with cardigans, and the only place she's ever been free of that is underwater where nobody can see her. And this book is about to put her in front of two people who see *everything*. That's not nothing. That's actually the engine.
+REACTION — Okay, so this is the chapter where I have to admit what this book is actually doing to me, because nothing "happened" — a dinner, a walk, a kiss — and I got completely lost in it anyway. The whole restaurant section had me in a kind of trance alongside Vee. That bit where she stops watching herself eat — "she wasn't watching herself eat, as some part of her almost always was, and she didn't notice she'd stopped" — that landed somewhere real. After the apple slices in chapter one, after the froyo cup that "got away from her," this book keeps using appetite as the whole engine, and it's working on me. Vee finally eating until the hollow closes, in the company of a man who ordered for her because she *asked him to* and then took the choosing seriously — that's the heat here, even though nobody's taken a stitch of clothing off.
 
-Cassie is quietly becoming my favorite. "They will never know the love of a woman" kept for Vee, pitched under the bleachers instead of at them — that's friendship rendered exactly. And the splash that barely got her, "outrage out of all proportion to the actual amount of water, which was the point" — I know that move, I've *been* that friend. The ugly shriek-laugh being something she "hadn't made in a while" landed harder than I expected. Little grief note about the grief not surviving the splashing war — the book keeps doing that, sneaking the ache in under the funny.
+And the hand. I need to text someone about the hand. "It felt less like something beginning than something resolving — like her hand had been wrong all evening, all its life maybe, for want of his exactly." That's the line of the book so far for me. That's the kind of sentence I stay up for.
 
-But let's be honest about what's missing: heat. Zero. Not even a flicker — Pace is absent, Randi is absent, and my eyes are already doing the thing where they're scanning ahead for when the triangle comes back. I forgive it this once because the bleacher heckles are doing real work — the body-as-public-property theme, the "water wings with those" guys as the crass version of everyone who's ever looked at her — and because I trust where this is going. Two quiet chapters from now, though, and we're going to have a problem. Vee crying underwater and Cassie's flat kindness can only carry me so far without somebody's mouth on somebody.
+What's doing the double work, and what I keep noticing: *I know what Pace is doing and Vee doesn't.* Every chapter since the pointing game has this dramatic irony humming under it — "May I choose?" is practically a callback to "I point. You pick," the man is running the same courtly manipulation at the dinner table that he ran on the bench, and the book is letting me hold both things at once: this is genuinely the nicest anyone has ever been to her, AND it is a planned campaign. The right-hand-only detail. The knowing her hunger before she does. It's tender and it's eerie in the same breath, and I don't think the book thinks it's hiding it, which is what makes it okay. When Randi said "I already do" with the wine — oof. That girl is in trouble and knows it exactly as much as she'll admit, which is not at all.
 
-What I'm chewing on: Cassie said "goodbye" last chapter, flat, and I clocked it then. Now she's the person who sees Vee's face come up wrong from ten feet off and answers it with a wave of water instead of a question. If this book hurts Cassie on the way to the threesome, I'm going to be genuinely upset, and I want you to know I see it being set up. That's good plotting, actually — making the friend too lovable. Damn it.
+The kiss earned every ounce of the wait. Her throwing the rule out and then her feet refusing to leave — that's the first time Vee has gotten a full interior beat of *choosing*, and the fact that he left the last inch and she took it... I'm done for. This is the grown-up emotional intelligence I keep saying I want and never get. Two quiet chapters in a row (water wings was quiet too) and I don't care — the water chapter was about her body, this one was about her mouth, it's all one long appetite and I see the shape now.
 
-GATE 8 — Water Wings
+The only flicker of impatience: I want the three of them in a room together. The Vee/Randi thread has been simmering since Chi Latte and Randi's chapter is now eight days back. But the kiss at the end is a real turn in the bond, and if the next chapter doesn't start moving Randi back toward the center I might start drumming my fingers.
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat and neither love interest on the page, but the pool scene is doing real character work — Vee's body-sorrow and Cassie's care are the emotional floor the whole seduction stands on. I'm staying because I trust the next chapter brings the triangle back, and I want to see how Randi plays her next card.
+WHY: No explicit content, but the dinner-and-kiss did the thing I actually read for — the tenderness is load-bearing and the "may I" pattern is doing double duty as seduction once you know about the plan. I'm in it, and I want Randi back in the frame soon because the triangle is the engine.

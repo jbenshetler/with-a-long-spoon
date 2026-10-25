@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
 
 REACTION
 
-Oh, I love this so much. After the emotional wringer of December and the blazing, breathless weekend of chapters 52–54, this little dorm-room landing with Cassie feels like letting out a long, warm breath.
+God, the way this book uses ordinary girl-talk to lay landmines under my feet is almost cruel. On the surface, this is such a bright, warm, sun-drenched MLK Day brunch—Vee bringing Kayla and Meg into the fancy Saturday brunch world she usually shares with Randi, ordering mimosas, laughing over Kayla's laundry-basket obliviousness—and I loved every second of Kayla shriek-laughing over *"I flashed him on his front porch"* and *"you were standing there talking to me about my socks."*
 
-The comedy of Vee scrambling to explain why she came home in Pace's sweats and Randi's hooker heels with zero clothes of her own—*"We talked"* (sure you did, honey, with your coat wide open on the front porch!) and then inventing a lie on the spot about Pace shrinking a cranberry wool sweater to doll-size and dyeing her pants—had me grinning from ear to ear. And Cassie just staring at her with the highlighter in her hand: *"Pace. Shrank your sweater."* Because even Cassie, who hasn't met him yet, knows from four months of stories that the man who supremes blood oranges and salts persimmons with three grains of sea salt ("They do it that way in Japan") would NEVER accidentally wash wool in hot water! The way Cassie just puts her head back and laughs instead of calling her out, letting the ridiculous lie stand because she's happy her friend is happy, is the best kind of roommate intimacy.
+But look at the version of Friday night Vee tells them, and worse, the version she's telling *herself*: she makes up dialogue Pace never even said (*"'It's late. Is everything alright?'"*) when in reality he opened that door and started to say *"Vee, I l—"* before she cut him off with the coat! And then Meg, completely well-meaning, frames the whole thing as *"That's a big apology"*—comparing Vee stripping naked on Pace's porch after he refused to name their relationship to Meg buying Danny maple-bacon donuts after being mean to him on her period. And Vee just nods along! *"We talked all night."* Girl, you didn't talk at all! You bypassed the entire December fight with your body, and now you're translating it to your friends—and yourself—as *you* apologizing to *him* for picking a fight!
 
-And then that quiet little beat at the end when Vee puts the flannel shirt back on—the exact same flannel shirt she stripped off in the dark in December because *"the heat in the shirt was her own, given back"*—and brings the collar up to her nose, deciding he'll just have to wear it for her again this weekend. Even the cold cinderblock wall against her hand doesn't hurt anymore because *"the wall was only a wall: he was out there west of town in the wide bed, hers again."*
+Meanwhile, she's walking on air because Wednesday night is officially set: Pace is taking Kayla, Meg, Cassie, Randi, and maybe Theo out to dinner, his treat, at a place he's picking. Meg calls it *"Meet your man,"* and Vee is glowing in the center of her life, completely unaware that Wednesday night is going to put Pace and Randi at the same table in front of all her friends while Randi is secretly in love with her and wearing Pace's locked bracelet. I am already holding my breath for Tuesday's anthro class with Randi and Wednesday's group dinner.
 
-That's two quiet, short chapters in a row now (54 and 55) closing out the weekend and resetting the board for the semester, which works as a gentle exhale, though I am *very* ready for Tuesday to get here—Anthro class and dinner with Randi, where Vee is going to spill every detail of the coat, the heels, and that Saturday morning kiss where she tasted herself on Pace's mouth!
-
-GATE 55 — Unpacking
+GATE 56 — Across
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: A warm, funny, deeply affectionate Sunday-night coda with Cassie—"Pace. Shrank your sweater"—and the lovely full-circle beat of Vee putting his flannel shirt back on in her top bunk now that they're solid again. That's two short, quiet chapters in a row to close out the weekend, so I'm ready for the heat and the Tuesday night dinner with Randi next.
+WHY: This is the second quiet aftermath chapter in a row, which I always clock, but it completely earns its keep: watching Vee edit Friday night for Kayla and Meg (turning her porch reveal into an "apology" and claiming "we talked all night" when she literally cut Pace off mid-"I l—") is fascinating and low-key nerve-wracking, and locking in the Wednesday group dinner with Pace and Randi has me turning the page immediately for Tuesday night with Randi.

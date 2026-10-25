@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
 
 REACTION
 
-Oh, Vee. My heart just broke for her a little bit, and that makes what Randi and Pace are doing so much more dangerous and awful and magnetic.
+Oh, this is devilish. It's completely intoxicating and so deeply sinister I have a lump in my throat.
 
-This chapter is tiny, but God, it does so much heavy lifting emotionally. We’ve seen Vee through Pace’s appraising, calculating eyes (the "lavish scale," the "hourglass clothes weren't cut for"), through Randi’s predatory fascination, through her own anxious attempt to perform poise at Chi Latte. But here, stripped down to a green-and-white suit she’s overflowing, walking the gauntlet of college douchebags barking at her breasts from the bleachers, we finally feel the *exhaustion* of being her. "The whole business of having a body in a place where people were." That line hit me right in the chest. To be an object of constant consumption, constantly performing chin-up grace while your mother’s voice polices your appetite and men treat your hips like public property—it makes you understand completely why she melted when Pace asked about her econ thesis and waited for her to finish a sentence. She is starving for someone to see her as a person, and the sheer tragedy is that Pace and Randi *are* seeing her, profoundly so, but also treating her like a gourmet meal they’ve conspired to share.
+Look at the difference between how he feeds them. With Randi, it’s thin slices of Honeycrisp laid cut-side up because she’s policing every calorie and he's managing her neurosis down to the millimeter. With Vee, it’s tearing hot blistered flatbread, ordering the whole table full of rich, smoky, sour unfamiliar things, and giving her permission to *eat*. The blurb called her "quietly starving" and to see him just effortlessly unlock her appetite—not just for food, but for being cared for, for surrendering control—is agonizingly sexy. "May I choose?" God, three words and I felt my own shoulders drop an inch. The relief of being with a man who simply handles it, who doesn't make you perform, who lets you be a person who receives instead of manages.
 
-And Cassie. I love Cassie so much it hurts. "Tossers. They will never know the love of a woman." Cassie is the absolute tether of reality in this book. She’s the anti-Randi: no performance, no Greek letters, boxy frame in an ugly navy suit she doesn't apologize for, standing in the shallow end "like a person." The contrast between Cassie’s clean, uncomplicated love—splashing water in Vee’s face to knock the melancholy out of her without demanding an explanation—and the intricate spiderweb Randi and Pace are weaving around her is breathtaking.
+And then the kiss. The way he lets her say her silly, defensive little rule—"I don't kiss a man I've known a couple of days"—and *doesn't fight her on it*. He just honors it and starts walking! That is the deadliest seduction technique on earth because it makes *her* break her own rule. It makes every single step forward entirely her choice, exactly as the jacket warned us: *Every yes was freely given. That was the problem.*
 
-It’s a quiet chapter. There’s zero heat. But after the thick, wine-dark erotic tension of Chapter 7, this was the exact breath Vee needed to take. We needed to be under the water with her, weightless, before the trap snaps shut.
+And the dramatic irony is hanging over the whole thing like a piano by a thread. The line from Randi in Chapter 3: *"Do you think she'll like the bench?"* echoing in my head while this sweet, uncurated, lovely girl sits there drinking mint tea out of a brass-caged glass, thinking she's found a courtly prince who just happens to be a great listener. He's building the trap out of the exact things she's starved for: gentleness, patience, being fed, being seen. It feels so romantic, and the romance is real, which makes the fact that it's an orchestrated game between him and his lover feel genuinely dangerous. I couldn't put this down if I tried.
 
-GATE 8 — Water Wings
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It’s short, completely un-erotic, and yet totally essential—it gives Vee the aching, tender interiority that makes the impending game between her, Randi, and Pace feel terrifyingly high-stakes. Plus, Cassie is the absolute best kind of romance-novel best friend: zero bullshit and fiercely protective. I need to see what happens when the three of them inevitably collide again.
+WHY: The psychological precision of him seducing her through food, restraint, and courtliness is brilliant, especially with the shadow of Randi and the bench hanging over every tender beat. I'm utterly hooked.

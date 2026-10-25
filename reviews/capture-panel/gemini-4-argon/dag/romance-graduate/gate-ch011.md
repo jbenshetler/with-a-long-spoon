@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · dated · 2026-10-24*
 
 REACTION
 
-Oh my god. That scene in the truck cab just ruined me for normal romance novels forever. Nobody even got touched until she grabbed his hand at the end, and it was hotter than 95% of the full-blown sex scenes sitting on my Kindle right now.
+God, this was barely two pages long and it still hit me right in the chest.
 
-First of all, let’s talk about the subverted script. Randi spent all of Friday afternoon planting that "he'll ask and then ravish you against a rock at the top" fantasy in Vee's head, and Vee carried it all the way up the mountain watching his muscles move under that bright blue synthetic shirt. And then they get to the top, and instead of a bodice-ripper ravishment, the world just cracks open into this massive, indifferent autumn valley, and Pace just... lets her have the view alone. And feeds her horseradish roast beef sandwiches on dark seeded bread ("lettuce against the bread, keeps the wet from going through"—marry me) and dark cherries.
+I love Cassie so much. Every single time Vee comes back to the dorm, Cassie is the anchor—she starts with the deadpan "I had your blood type ready" banter, and then the second she hears Vee's voice drop into that quiet, awestruck register, she puts away the jokes and just *listens*. That distinction at the end—not "Oh, Vee," just "Vee," like setting something down where it wouldn't break—made my throat tight. Cassie knows her best friend is completely, hopelessly gone on this man, and because what Pace actually did on that mountain was so genuinely tender and respectful, Cassie doesn't even have anything to snark on here.
 
-Every single caretaking detail on that hike had me clutching my chest. The moleskin! The way her mother's awful voice immediately popped up about her sweaty forty-minute sock, and Pace just knelt in the dirt, took her bare foot in his hand, pressed the foam to her heel to warm the adhesive with his thumb, re-laced her borrowed boot properly, and apologized for not checking at the trailhead. And the cherry pit! When she spat the pit on the rock and he gently picked it up ("We take nothing and leave nothing") and then laid his *own* pit right next to hers on the wax paper without looking at her so she wouldn't feel small or "common"—I actually gasped a little. And I am *locking away* that russet brick-red silk dress she mentioned wanting for her honor society induction. He didn't do the tacky billionaire thing and say "I'll buy it for you," he just looked at her and said "That sounds like a beautiful dress" and left it on the rock between them. Ten bucks says that dress shows up later, or becomes a huge plot point with Randi.
+And watching Vee process what she did in the truck out loud is so good. "And then we ate" said the way other girls say *and then we kissed*! And realizing that she had the nerve to knock on the window and strip in front of him on purpose—for a girl with her mother's voice constantly hissing *floozie* in her ear, claiming that moment with pride in front of her best friend feels huge.
 
-And then the truck. *The truck.*
+Also, I clocked the title immediately: *Rye*. On the mountain she didn't even have the name for the dark, sour bread with the seeds in it. By the time she gets back to the dorm, she knows what it's called. She's collecting the pieces of him.
 
-When he handed her his only dry flannel shirt out of his gym bag and just stepped out into the pouring mountain rain in a thin wet synthetic t-shirt with his back turned to give her privacy... the way Pace operates is lethal. Because he *never* pushes. He literally stood out in the freezing rain so she could change alone. Which meant that for anything to happen, Vee had to want it, choose it, and call him back.
+Now that we've had the sweet, warm exhale with Cassie, though, I am *dying* for the other shoe to drop. We haven't heard from Randi since Friday at Smoothie Bird. Randi scripted a whole "he's going to ravish you against a tree" fantasy for this hike, and instead Pace gave Vee moleskin, rye bread, his only dry flannel, and shivering, reverent restraint in the cab of his truck—after Vee casually mentioned an unaffordable russet silk dress that you *know* Pace filed away. What happens when Vee debriefs Randi, or when Pace reports back to Randi tonight?
 
-Watching her kneel on that bench seat, knock on the glass, crook her finger at him, and unbutton her soaked shirt while holding his eyes—and using her mother's shaming voice (*floozie*, *three dates*, *girls in trucks*) as the exact fuel to get herself wetter and hotter—was *incredible*. That beat where she didn't even need to look down at the fourth button, she could have done it by feel, *and she looked down anyway so his eyes would have to follow hers to her breasts*? I wanted to cheer out loud. She wasn't being seduced; she was claiming him. And then the turn when she reaches for his hand to kiss his knuckles and start the next thing, and realizes he's *shaking* because he's been standing in freezing mountain rain in a wet shirt waiting for her—and she pulls his freezing hand under the flannel against her warm belly and tells him they need to go get warm. The tenderness of that right on the heels of all that erotic charge gave me full-body chills.
-
-Also, that ending! The campus cop barking the siren in the fire lane and chasing his truck away before she could say whatever huge thing was in her throat, leaving her standing at the dorm doors in his warm flannel shirt with the moleskin still on her heel. Now what happens when Randi asks how the hike went?! Randi scripted a mountain ravishing; instead, Vee got something ten times more intimate, and she's wearing his shirt.
-
-GATE 11 — Leave No Trace
+GATE 12 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: That truck cab scene is a masterclass in erotic tension and agency—a woman unbuttoning a wet shirt while holding a man's eyes, followed immediately by the gut-punch tenderness of realizing his hands are shaking from the cold. Combine that with the moleskin on her heel, the cherry pits on the wax paper, and the russet silk dress she had to put back on the shelf, and I am completely, hopelessly hooked.
+WHY: It's a tiny two-page exhale after the intensity of the hike, but every single line between Vee and Cassie lands with so much warmth and character truth. Now that Vee has debriefed her real friend, I'm desperate to see how this hike plays out when it gets back to Randi.
