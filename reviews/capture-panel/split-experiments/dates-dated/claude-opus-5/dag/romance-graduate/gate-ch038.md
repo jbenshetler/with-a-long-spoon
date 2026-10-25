@@ -1,0 +1,32 @@
+*capture-dag-v2-rich · gate ch038 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · experiment dates-dated · dated · 2026-10-24*
+
+REACTION
+
+*"Only if you promise you'll never share me with anyone."*
+
+I put the Kindle down. I actually put it down. Because he said **"Never. I'd never share your photograph,"** and that is not the same sentence, and he knows it isn't, and I don't think she can hear the difference and I could hear nothing else. He will keep that photo. He will never show it to anyone. And meanwhile every single thing she says in that bed goes to a brunch table and comes back around, and he's the one who hears it, and the one object in this whole arrangement he will guard with his life is the one that doesn't matter. That's the cruelest joke the book has made and it made it in four words without raising its voice. He's not lying. That's what's unbearable. He answered exactly what she asked and nothing she meant.
+
+And she *sent it anyway*, and the book gave me the cold sane thought first — "the cold sane thought any girl had about a picture like this" — and then *believing him was the brave part*, and I'm sitting here going no, baby, don't be brave, be boring. Keep the photo. But I also know why she sent it, and that's the part that got me in the chest: she got the phone back and *didn't want to give it up*, because it was her as his eyes have her. She's been collecting evidence of herself for the whole book. The dress, the leg out of the slit on that stage, the hallway in nothing but heels. Now she's got a file of it. He made her a picture of herself she can't take alone and then she handed it to him. Nobody is going to need to use that against her for it to already have cost something.
+
+The posing killed me, separately, and in the good way. Him moving her hip, her elbow, her knee, and putting his mouth where each hand had been — a kiss to the shoulder, the hip, the knee. That's him *building* her and signing every joint. And "Hm. Yeah. That's the one," and then looking up over the phone at her and not the picture, grinning like a boy who got away with something. I love him in that beat and I don't trust one thing he does with his silences. She cleaned up and put her face back on and he said *I like you exactly like this* — the truest thing in the chapter — and she went and did it anyway, because being looked at on purpose is the thing she's learned she's for. He let her. He always lets her. "Every step further is hers" is doing so much work in this book and it's starting to look like a way of never having to be the one who decided.
+
+Then: **"This is my home." "I don't go back."**
+
+That's the wall. That's the one thing in him with no date on it — not *not tonight*, not *not yet*, just a door with nothing behind it she's allowed into. Each word set down clean and apart from the last. And she took her hand off it, and *let the quiet be kind*, which is exactly the decent thing to do and exactly what everyone in this novel keeps doing instead of asking, and I'm starting to think the whole book is about how gentleness and cowardice are the same gesture performed by different people. She didn't ask. Randi doesn't ask. He doesn't tell. The hallway, the mother who stays home, the chemical plant — there's a reason a twenty-two-year-old builds a house in the woods and a bench behind a closed door and feeds everyone who walks in. He said *this is my home* and he meant *I made one, because the other one wasn't*.
+
+And then he moved her wine an inch closer, as if that were the thing that wanted doing. God.
+
+But here's what I'm actually vibrating about. She's flying to Ohio for Thanksgiving. And the book just told me who's at that table while she's gone: **Pace and Sheri.** Not Randi. Nobody said Randi. Sheri, who is the only person in this novel who has looked at the arrangement from the outside and said so, is going to be sitting at that man's table with a store-bought pie and no Vee in the state and *two of them at once, how do you sleep* still hanging in the air from the bike ride. Vee's little flicker about another woman at his table went out too fast and mine didn't. And where is Randi on the fourth Thursday of November? Nowhere in that sentence. Either she's got a family she's never once mentioned or she's going to be alone, and a Randi alone on a holiday with Vee two states away and a plan she's been losing control of since October is the scariest unsupervised hour in the book.
+
+Which brings me to the thing my thumb noticed. That's four chapters now without Randi in them — and she's the live wire. The drawer was perfect. Cassie was good. The swim was *really* good, that was the best quiet chapter in the book, *it took the words off things one at a time until what was left was the shape underneath.* And now this one, which is hot and tender and well made, and I got through it and realized: we're five chapters past the pastry glaze on her lip and nothing has moved. Vee's been happy for five chapters. I'm not bored of her being happy — I'm bored of being parked. And can I say the food thing out loud? The salmon, the curry, the baked tomatoes, now the chicken with the lemon and the capers and the long unbothered glug of wine into the pan. I read that whole paragraph, every clove getting hit with the heel of his hand, and I thought: this book has started cooking at me when it doesn't have anything to tell me. It's a comfort gesture now. I can feel the writer loving the pan. I'd trade three pans for one sentence of Randi lying on his chest.
+
+What I'd text at 1 a.m.: *he promised not to share the photograph. the PHOTOGRAPH. she gave him a picture and he's been handing over her entire inner life for two months and he's going to keep the jpg safe forever. i may never recover.*
+
+GATE 38 — In His Hands
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Stock after the wine, and then the lemon, sharp and immediate across everything the pan had been building" — fourth dinner in five chapters, and I caught myself scrolling for the next line of dialogue.
+WHY: The photograph promise is the best piece of quiet horror in the book and *I don't go back* finally put a wall where I've been waiting for a door, so I'm in. But that's five chapters of Vee being happy in that house and the plot hasn't moved an inch; I need Randi back in the frame, and I need to know who's at that Thanksgiving table while Vee's in Ohio.

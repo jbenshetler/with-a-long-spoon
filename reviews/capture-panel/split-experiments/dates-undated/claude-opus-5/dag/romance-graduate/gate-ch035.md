@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch035 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+He gave her the top drawer.
+
+Okay. I need a second. That's the dress lining again — bodice and hips, oyster-pale, never mentioned, found with her hands — except this time he had to *unbuild* something to do it. I've read that drawer before: spare blades, comb, small ordered ranks, a man whose shop has the tools in painted outlines. And he pressed all of it down into one drawer too small for it and left her the easy one, the one your hand goes to first, with *room to spare, room for more of her.* Then said nothing. There was no note. There was never a note. I made a sound in my kitchen.
+
+And the thing that actually got me is that she walked in there braced for the opposite. She reached for the scrunchy, found bare counter, and her whole morning fell through the floor — *he'd minded after all, and now she was going to have to learn where a guest's things went once the guest had been too much.* **Guest.** She has no word for what she is, so her mind reaches for one and comes up with *guest.* And *too much* — that's not even her mother's word, that's Randi's, from the night she told him Vee comes in and the room goes brighter and spends the whole time sure she's too much, and Randi went still and said *yeah. She is.* Vee has never heard that sentence and she is now afraid in its exact vocabulary. I don't know how this book keeps doing that but it did it again.
+
+The mirror bit before it is the one that worries me, in the good way. She watches his eyes in the glass leave her face and go down to her sprawl on his one clean surface, and she holds still and waits to see what he'll do, and he does nothing, and she carries *the smallest tail of it* out of the room: *Had he minded? She couldn't tell. He hadn't said. He never said.* That's the book's whole thesis sitting in a bathroom, and I nearly flinched at it being said that plainly — but it's hers, she's the one doing the reading, so it's allowed. What it told me is that she has started doing unpaid labor on his silences. She's guessing, and she guessed *fearful,* and she was wrong in the kindest possible direction this time. She will not always be wrong in the kindest direction.
+
+Which makes section i genuinely frightening to me under all the warmth. She said it. *She loved him, and he had never once said it to her,* and she lay there and counted the ways he'd said it without saying it — the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her — and then: *she could live clear inside the everything-he-did and not go hungry for the saying.* That is a woman building a tolerance. That's a girl who grew up on a bright voice kept for the things they couldn't give her, deciding she's fine on deeds. The drawer is going to make her more fine. Every wordless gift lowers the price she'd ever charge for the word, and he is a very generous man, and that's the trap, and it's not even cruel, it's just *shaped* — and *Peter,* once, into the dark, for the second time, with him asleep and unable to hear it. She can only use his real name when he can't answer it.
+
+Two things I'm side-eyeing. One: the weight. *She'd been losing weight since she met him, her body quietly burning down whole weekends of him, and she'd never asked it to.* The craft of it is honest — the bras riding higher as the only honest measurement, everything else bought a size up because the racks never believed a build like hers and there was never money for a tailor, so she swims in her own clothes and lets the bras keep the secret. That's real and it's hers. But this is a book whose entire project is that the body she hid becomes the treasured thing *as it is,* and if the reward for being loved turns out to be getting smaller, the book has quietly agreed with her mother and I will be furious. Watching. Two: no Randi. Not one line. After a chapter that ended with another woman's pastry glaze on Vee's mouth and *sticky fingers* said out loud across a tablecloth — and then a whole chapter of nothing but him. It plays as peace. It reads to me as the held breath before. Nobody has told Vee anything, the clock Pace put on *not yet* is still running, and she just got given a drawer in that house, which means she is moving in on the ground floor of a building two other people own.
+
+Would text a friend: *he took every single one of his own things out of the good drawer and crammed them into the bad one and didn't tell her. she thought he was throwing her out. I am unwell.*
+
+GATE 35 — Above Him
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "He'd cooked after, the way he near always did." — the whole opening page summarizing a week's worth of want and a night of it in past-habitual, telling me about sex instead of giving it to me.
+WHY: Quiet chapter, and it earned its quiet with one object — a drawer he emptied and never mentioned. But it also showed me her deciding out loud that she can live without the word, which is the scariest thing in the book so far, and Randi's complete absence from it feels loaded rather than restful.

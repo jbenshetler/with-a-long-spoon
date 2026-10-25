@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch057 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · experiment dates-undated · undated · 2026-10-24*
+
+**REACTION**
+
+Okay, I need to start with the doorway, because I sat up in bed. In 52 he opened the door and said "Vee, I l—" and she cut him off with the coat. She walked out in December for that word, and when he started to give it to her she wouldn't let him finish. Now she's told Kayla and Randi that he said "It's late. Is everything alright?" and the narration says "That part was true." No, it wasn't. Either the book slipped, which I'd hate, or the chapter is called *Covering* for a reason. Vee shrank a sweater for Cassie that never got shrunk, told Kayla "we talked all night," and now she's swapped out the single most important syllable of her love life for the polite voice. I think she can't hear it, even in her own memory. If it's deliberate, it's devastating and I want someone to make her look at it. If it's a mistake, it's a bad one. I'm betting deliberate, because of the title, and that's me trusting the book. I'm marking it.
+
+Randi. She hears the clean version and gives Vee nothing back but "Hmm," twice. Then she lays her whole palm on Vee's chest and nudges the wrap a quarter inch truer. She's working the rim of her glass with her fingernail the whole time she says "I'm so happy for you." Then the lawn-boy story walks right off the edge of its own punchline into the mother: "They're not mine. They're your color." I stopped breathing at that. She'd had them for days, she'd had them washed, and she waited for the boy to be at the table. It explains Randi more than the PPP fraud did. Of course she hides behind brightness and never lets anyone see what she wants. Of course Brooke's "you need to choose" lands on a woman who learned at sixteen what happens when your private self gets folded and set beside your plate. I have stopped pitying her with a cold edge. I just ache for her now.
+
+Then it got hot, and the heat came from the telling, not from anything happening at the table. Turning the coat around on the hook to show her the lining. "Very. Ready." Randi's eyes dark and liquid, hoarse "Wow," and you can hear her breathing. "Could he see you were ready?" That was the hottest exchange in the chapter, and nobody touched anybody except a hand on a wrist. The restroom scene got me. The face that arrives at the top isn't Pace's, and the question changes into Randi's voice. Then "Because that had been about Pace, obviously." That's Vee lying to herself in her own voice, which is fair game. It's not the book explaining itself to me, and I laughed out loud. When Randi says "It's a good thing you got relief," my stomach dropped right along with Vee's.
+
+The goodbye. The second press "with its little more in it." Then the kiss on her neck, and Randi *flinches*. "Tickles." Sure it does, honey. That flinch is Brooke, or it's Randi being hit harder than she can afford to show on a public sidewalk. Probably both.
+
+What I didn't love: the pleasure-princess bit retold almost line for line, shimmy and all. I read it two chapters ago and skimmed it here. Same with the coat. This is the third time I've heard the porch story (the scene itself, Kayla, Randi). I get why: watching what she tells each person is the point. Kayla gets the flash, Randi gets the lining, nobody gets "I l—." But the book needs to stop making me reread the parts I already know. Dr. Marsh's hau lecture is a little on the nose (gifts that carry the giver and pull home: heels, scarf, a cashmere blanket that I know is Randi's and Vee thinks is Pace's). But I liked Marsh and her trailhead boots, so I'll allow one.
+
+And then the stone of relief at not telling Randi about the kiss. She has told Randi everything since October, and suddenly there's one thing she doesn't want to put in Randi's hands. Tomorrow all three of them are at one table, plus Kayla, plus Theo. What I'd text a friend: *the girlfriend's going to sit across from the boyfriend tomorrow and she just came in a restaurant bathroom thinking about the girlfriend's face. pray for me.*
+
+**GATE 57 — Covering**
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Vee, the pleasure slave." Randi giggled. "It has a ring to it." That's where the retelling of 53 turned into reading the same pages again and my thumb started flicking.
+WHY: The robin's-egg underwear story and "Could he see you were ready?" were the best charged talking this book has given me since the crackers. NEXT is higher than CAPTURE because the chapter ends right before Pace, Randi, and Vee are all in one room. The "That part was true" line about the doorway is the most suspicious thing in the book right now, and I need to know whether it's on purpose.

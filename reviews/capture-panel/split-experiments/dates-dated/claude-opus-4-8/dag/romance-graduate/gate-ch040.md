@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch040 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · experiment dates-dated · dated · 2026-10-24*
+
+REACTION
+
+Okay so this is the third one of these now — Randi on the couch, talking Vee, working herself on him — and I came in braced for the pattern to have gone stale. It hasn't, and I'm a little annoyed at how it hasn't, because the trick this time is that the *sex is the confession extraction*. He keeps asking the real question and she keeps dodging into the scripted answer and he keeps not letting her, and every time he slows down or pinches harder he's prying another true thing out of her. "Do you like it?" / "I'm doing it for *you.*" / "I didn't ask who it was for." That's the whole chapter in two lines and it gutted me. He knows. He's known for a while. He's not checking whether Vee consents — he says that outright, "it isn't you I'm checking on" — he's checking on *Randi*, and she can't stand to be checked on because the gauge reads exactly what she won't say.
+
+"God, I want her." Into the wood, with nothing around it. And she *hears it leave her* — "He felt her hear it" — and then scrambles the net back up: "For us. When she's ready. That's all I meant." That retraction is the saddest thing in the book so far. The machine confessing and un-confessing in the same breath on her knees. And the kiss stuff — "I have to hold myself back from going for more," "seeing that makes me—" and she doesn't finish, *twice* she can't finish a sentence, Randi who fills every room, who's never once needed air at that table, having to stop for breath. The body telling on the operator. I've been waiting for that and here it is.
+
+The thing that actually scared me: he's not innocent in this chapter and the book finally lets me see it clean. "I'd have taken you right there on the quad." He went hard on a public lawn having *already chosen Vee* — the pointing was theater, he says so, "only to find out whether they had chosen the same." He built the picture — black hair into red on his pillows — before Vee had said one word to him. So the Daphne read holds and gets worse: he's not drifting into a rescue, he staged the casting. And "She consents — every time — or I'm done" is him genuinely believing the consent of a woman who doesn't have the facts is consent. That's the rot right at the center and he thinks it's his ethics.
+
+What I can't get out of my head is the morning picture he builds that he never saw — Vee pink to the shoulders in an 11 a.m. class, hair wet down her back, "leaking quietly into the green," writing it all down and knowing what it is. That's gorgeous and it's horrible and the book knows it's both. And Randi tucking the hair back "because it was an excuse and I took it." She touched her and called it an excuse. The leash and the loving are the same hand, again, and I've stopped being able to pretend otherwise and so has Randi, almost.
+
+"That's more than three." "Nothing at all. It's a lot, though." The counting-out-loud, him knowing his numbers like weight on a bar. The fourth one crossing over into hurt and him staying in it. "Say something nice to me." "You are extraordinary." Not *beautiful*, not *I love you* — *extraordinary*, which is what you say to a thing, an instrument, a machine that performs. And she takes it like it landed where she wanted, and won't let go of his arm, and he lies there "and took her holding on for the compliment it was." That last line is so cold and so tender I had to sit with it. He's cataloguing her need as data even while he's being careful with her. He's always doing both.
+
+What I'd text a friend at 1 a.m.: *she said "God I want her" out loud and then spent the next paragraph taking it back and I think that's the whole tragedy, she built a trap for Vee and walked into it herself and now there are two women in it and she's the only one who knows.* And then: *the hero point-and-chose a stranger off a lawn before they'd spoken and calls it love and I believe him and that's the problem.*
+
+I'm not tired of the POV-flip. But I notice this is the second straight chapter that's mostly Randi-on-Vee talk (39 was the brunch, this is the debrief of the brunch), and if the next one is *also* someone narrating Vee instead of Vee doing something, I'll feel the wheel spinning. I want Vee back in her own body, and I badly want the three of them in a room — "when she's ready" has been dangled for forty chapters and I can feel the book finally loading it.
+
+GATE 40 — Four
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none — though the beat where she turns to face the couch back and "forgot the framed mirror" so he gets her face the whole time came the closest to feeling like the book flexing its own cleverness at me instead of just letting it happen.
+WHY: The sex-as-interrogation structure made a third couch-confession land harder than the first two instead of softer, and "God, I want her" said out loud then instantly retracted is the crack in the machine I've been reading toward. I'm one beat worried it's two Randi-narrates-Vee chapters in a row, but the dangle of the threesome and the scar still sealed have me reaching for the next one.

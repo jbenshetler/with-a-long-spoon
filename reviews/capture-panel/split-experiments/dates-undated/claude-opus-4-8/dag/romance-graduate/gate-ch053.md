@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch053 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Okay so I went in braced for a victory lap — morning-after chapter, the reconciliation already landed, I figured this was the book letting us both have a cigarette. And for a while that's what it was: wakes up naked, bread timed to her waking, the "I can't get dressed, poor me" reframe. Cute. The "pleasure princess, not pleasure slave" bit where she counts off on her fingers that *he's* the one serving — that actually got me, because it's her doing the thing she always does, building a whole frame to live inside so she doesn't have to look at the plain thing underneath. She's decorating. And the "missed a spot" / breast-on-the-cheek callbacks, the pointing finger as a scepter, him going *puzzled* for once — genuinely fun, genuinely hot, and she's running the table for the first time in the whole book. I liked watching her win.
+
+Then the oral scene, which is long and which the author clearly knows is long, and this is where I have to be honest with myself: I have eaten at this exact table. Pace worships Vee by inches, no skin skipped, she loses her verbs one lit window at a time — I could've told you the shape of it before it started. Beautifully done, but it's the fourth time I've watched him light her up like a hallway and I felt the pattern under it. The purple got away from me in the middle — *"A gladiator, once. Her beauty had turned him."* — I rolled my eyes, I'm sorry, that's Vee's own greeting-card brain but I still rolled them.
+
+And then. The kiss with her own wet on his mouth, and "ugh, gross, wrong," the little-girl hand across the mouth — and the whole back third of the chapter turning into this quiet, awful, brilliant thing where she's lying on his chest realizing *he liked it.* Not endured — liked. That he always wipes, every time, hundreds of times, except this once. Her tongue going hunting on its own, finding salt or the memory of salt, and the installed voice slamming a door over the top of what her body already said yes to. *Why does he like it so much.* The minor-key thing that comes and sits on the edge of the bed and then settles somewhere under the affection and *stays, waiting.* That's the book I signed up for. That's the gap — what she sees versus what I see — and this time it's not about the word, it's about her own shame and his comfort with her body, and I don't fully know yet whether the salt is just her or whether this book is being sly about it with a triangle running underneath. I don't trust it. I don't trust the "he just forgot to wipe, this once" that she tucks herself into like the short childhood blanket.
+
+And the kicker, the thing I'd text a friend about at 1 a.m.: she's going to take this — the strange small unresolved thing — to *Randi* tomorrow. "Randi would know what to make of it. Randi always did." No, honey. No. That's the trap closing its hand and her walking the newest, rawest, most private thing she owns straight into it. The cashmere blanket that appeared with no card is the same move as everything he gives her, love and wall the same act, and now she's got a second person who gives her things with no card and she's about to hand that person the keys again.
+
+GATE 53 — Missed a Spot
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "A princess, groomed by her own pleasure slave. A gladiator, once. Her beauty had turned him." — the role-play narration got thick enough there that I surfaced out of the scene and nearly skimmed to the next beat.
+WHY: The oral build is one I've read a hundred times and I felt the repetition, but the back third — the salt, the installed voice, "why does he like it so much," the minor-key thing that settles and *stays* — is exactly the depth-under-heat I don't get anywhere else, and the final turn to "I'll tell Randi, Randi always knows" is a hook straight in the gut. I want that dinner now.

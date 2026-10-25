@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch048 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Oh, my god. *This* is why I could never just make Randi the villain, even at her most manipulative.
+
+First of all, the continuity from the stats project in Chapter 41 straight to the breakfast table in Gstaad—having to hug her father and "eat her revulsion" while he eats rare steak and eggs, because she now knows he's a "cheating bastard" who pocketed PPP money and cut his workers—already made my stomach turn for her. And look at what she orders across from her sharp-edged mother: smoked salmon on a single slice of dark rye, no butter, lemon and capers, tea, ice water. While Vee is learning how to taste butter and cream and eat seconds, Randi is trapped at the table where women eat egg whites and dry rye and invent safe boys to make their fathers guffaw.
+
+And then she tries to escape into the fairytale! I actually held my breath during the whole sequence with John—the Yale Law guy who skis blacks quietly without showing off, who buys her champagne at the hütte, who gets her a sleigh with two grey horses, who dances like he was taught at cotillion at twelve. Because on paper, in any normal romance novel, John *is* the hero! And watching Randi talk herself into it—comparing him to Pace (*"Pace's lead was the lightest pressure, a thing she'd had to be listening for... Easier was better"*, and *"Pace made her say it, out loud, every time. She found, tonight, that she liked not being asked"*), trying so desperately to want the easy, safe, mother-approved life where she doesn't have to do the terrifying work of being known—was devastating. Notice how even when John spins her out on the dance floor, that locked white-gold band catches on the heel of her hand!
+
+Wait—normally a fade-to-black or skipped sex scene is my ultimate hair trigger, the thing that makes me slam a book shut. Here, skipping the actual sex with John and cutting straight to the aftermath is the single smartest, most brutal choice the author could have made. Because the sex with John *was* nothing—*"no more than a good sandwich eaten fast on a busy afternoon"*! Seeing itonly through the forensic evidence afterward—the ring of her lipstick around the base of his cock where she felt her own mouth take him "from a long way off," and her eyeliner at the mirror ("The eyeliner had held. Of course it had. Nothing had happened to her eyes")—hit me ten times harder than an explicit scene with a stranger ever could.
+
+And then the mirror scene broke me wide open. First Pace (*"Pace on his worst night reached further than this man had managed at his best"*), and then **Vee**. Oh, my heart: *"Something came off Vee across a table on a nothing Tuesday that this room could not counterfeit one thread of, and her whole body knew it, and she knew exactly what it was."* She's not just playing a game with Vee for Pace anymore, and she's not even just competing with Vee—she is genuinely, terrifyingly in love with Vee, her best friend, "her gorgeous," the only person she's ever said *I love you* to without meaning it as currency. And when Vee's text lights up from Ohio (*i'm here if you want to talk. or not.*—because Vee remembers what she saw on that PPP screen in the library!!), and Randi sends back the bright, fake chalet fairytale with the one true line tucked at the bottom (*miss your face most though, gorgeous 💋*) before climbing back into bed with "the perfect nothing"... I want to cry. Also, wait a second: it's New Year's Eve! Which means Vee walked out of Pace's house in Chapter 47 right before Christmas/New Year's break, and now the new semester—and that Tuesday/Thursday night Anthro class with Randi—is right around the corner!
+
+GATE 48 — Fairytale
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Skipping the sex with the "perfect" Yale Law bachelor to show only the lipstick ring left on him and Randi's unsmudged eyeliner ("Nothing had happened to her eyes") was devastatingly brilliant. Watching Randi realize that neither the safe fairytale man nor anyone in her approved world can touch what Pace does to her—or what comes off Vee across a table on a nothing Tuesday—turned my chest inside out, and now New Year's is over and they're all coming back to campus.

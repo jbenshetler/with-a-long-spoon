@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch059 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · experiment dates-dated · dated · 2026-10-24*
+
+REACTION
+
+The comb did me in before the dinner even started. Marsh standing there going "somebody in this room, by spring break, is going to tell me what you spend it on now" while a four-thousand-year-old lice comb travels hand to hand up the rows and gets absorbed, kept, never asked back — that's this whole book talking about itself in a classroom and not one character in the room knows it. Vee and Randi sharing a wintergreen Lifesaver without looking at each other is the grooming. The finger tapped on the wrist, the palm that closes. Mauss's hau, the gift that carries the giver's spirit and wants to go home — I wrote that down, actually wrote it in my notes, because what is the flannel shirt, what is the coat with the dark bloom she keeps and turns to the wall? The book is telling me what it's doing and I don't mind because it doesn't *stop* to tell me. Marsh lectures, the novel doesn't.
+
+And the dinner. God. The thing this chapter is actually about is Vee telling the grossest, tenderest story of her life — the kiss, the "ugh, gross," the whole Saturday morning — and Randi's response being "I don't [think it's gross]. It was powerful. It turned me on." Said flat, in the restaurant-recommendation voice, and then she EATS THE BREAD and never picks it up again. That's the most devastating thing Randi has done since Gstaad. Because I know what I know from the carry-forward — Randi and Pace chose Vee together, Randi gets the bedside reports — and this dinner is the con running in real time, except the con keeps snagging on the truth. Randi's "Don't you fade to firelight and leave me wondering. You just made it smaller. Give me the real one — the harder one." On its face that's a friend demanding the good gossip. Underneath it's a woman who needs the real thing and can't say why. Her fingernail on the rim of the glass, "the thin edge singing almost too low to hear," and she draws her hand back into her lap. I felt that in my wrists.
+
+The neck kiss at the end. "Randi's whole body did a small quick thing, a catch and then a rise, and the rise went on a beat too long" — and then "ticklish," laughed off, shoulder up. The book is being so careful here, so exact about what a body admits before the mouth vetoes it. Randi flinched at the same kiss on Tuesday. Vee's clocked it and filed it under "pleased with herself." The dramatic irony is getting heavy enough to bend the table — I know Randi's Gstaad secret, I know her "she was not brave enough to lose her," and now Brooke's threat from chapter 51 is sitting over all of it like a weather system, and these two are standing on a sidewalk taking four full seconds to end a goodbye kiss.
+
+Also: "He likes it. Actually — he's enthusiastic." Vee said that about Pace's mouth, out loud, and Randi said "Mm, warmly, the sound of a woman finding everything in order" — because Randi KNOWS. She knows exactly how enthusiastic he is. She's had the reports. Vee's whole graphic debrief is being received by the one woman on earth who's heard the other side of it, and the book just lets me hold that while Vee can't. And then the closing sentence — "I don't" keeping pace with her the whole six minutes, the wind shoving, the sentence keeping up easily — Vee's own appetite waking up on the walk home and her not convening on the question. This is the blurb's "this spring she learns her appetite runs in more directions than one" starting to actually happen, through a Lifesaver and a neck.
+
+Two dinners in a row of talking — but I can't call it a stall when the talking IS the heat. The braise went uneaten by Randi, one bite. The plate Vee polished clean without noticing. The food is doing the feelings the whole time and I refuse to call that a quiet chapter.
+
+GATE 59 — A Clean Plate
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none — closest flicker was the story retread at the top ("you should've seen how I thanked him"), re-hearing Wednesday night, before the comb and Randi's verdict changed what the chapter was
+WHY: Randi saying "I don't" and eating the bread, the rise that went on a beat too long, and Vee's sentence keeping pace with her in the wind — the slow turn of the whole triangle is happening at exactly the speed I trust. The Marsh lecture braiding gift-theory into the book's spine doesn't hurt either. I'd read the Tuesday dinner tonight if it existed.

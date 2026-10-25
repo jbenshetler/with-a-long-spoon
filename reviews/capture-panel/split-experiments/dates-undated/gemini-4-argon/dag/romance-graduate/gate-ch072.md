@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch072 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2db97916f454 · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Okay, stop everything. A scene with zero penetration and *zero orgasms* just hit a full 3 on the heat scale and left my heart hammering in my ribs. How does Helen Rivers do this?!
+
+First of all, the gym sequence was so quietly, intensely competent that I was already halfway gone before they even got back to his house. I’ve read a million cheesy gym scenes in romance novels where the hero is showing off and growling at guys looking at her ass, and this was the exact opposite—and ten times hotter for it. The detail that Pace doesn't wear headphones because he *reads* a room instead of sealing himself off from it; the way he treats her tiny beginner weights with the exact same unhurried, methodical gravity he gives a bar bowed under three plates a side (*"Everything gets a collar"*); the realization that on his heavy set, he kept himself strictly inside what he could put back down on his own so she was never responsible for saving him from weight she couldn't hold. And then when those two idiot frat-bro types didn't collar their bar and smacked each other mid-squat and the plate rolled into her cage—Pace didn't do the chest-beating alpha roar. His voice went *down* and quiet: *"You hurt her. Your carelessness hurt her. ... Apologize to the woman you hurt."* I got literal chills.
+
+And then the camphor ointment. Good god. The transition from pure, wordless caretaking (lifting her shirt over her hurt arm, unhooking her bra one-handed so she wouldn't have to reach back, warming the house while she was in the shower, holding his forearm across her back so her muscles could stop fighting the pressure) into that slow-motion, inevitable trainwreck of sensation was unreal. When he pulled his hand back from her breast (*"Keep still"*) and she grabbed his wrist and put his greased palm flat over her nipple—and then when he tried to give her mercy by using the dry backs of his knuckles on her other breast, and she pressed it into his closed hand and demanded *"Yes"* before he even asked!
+
+The pacing of the balm waking up from the top of her throat down to her collarbone, down the pale slope of her breast, while she can *feel* her own future coming down her skin toward her nipples where he's tugging her—I was holding my breath reading those paragraphs. *"The neck was what the breast would be. The breast was what the tip would be."* That marriage of dread and wanting, where she's pressing the backs of his hands down to keep him there while the fire hits her tips in staggered waves, is some of the best erotic writing I have ever read in my life. And the ending! When he takes his mouth off hers and moves behind her half a second before she tries to turn her head, and then *won't let her come* because her back wants to arch and the first inch of the arch flashes white in her torn neck (*"Easy. Not tonight. We need to wait"*), banking the heat under his flat palms while he's rock-hard against her spine and refusing to spend her against her injury. Leaving her—and us!—stranded right at the peak with nowhere to put it.
+
+Wait—one tiny continuity question that made my ears perk up at the very start: when did this happen? Last chapter was Saturday brunch, where Vee came in the bathroom thinking of Randi's mouth and told her windshield *"Get your sex brain under control. Starting now."* Now she's at dinner with Pace saying Randi has a sorority thing *this* Saturday so she won't get her brunch this weekend. Did a whole week just pass while Vee kept her head down and stuck to her windshield vow, or is Randi dodging Saturday brunch after what she saw in Vee's face coming back from the bathroom?! Either way, Vee is walking out of Pace's house carrying a banked, unspent fire in her body, and Tuesday night Anthro is waiting.
+
+GATE 72 — Burn
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This chapter took a classic caretaking trope and turned it into something astonishingly fresh, psychologically razor-sharp, and unbearably erotic—proving that denial out of pure protective tenderness can be hotter than any climax. Between the quiet authority of the gym scene and the slow-motion agony/ecstasy of the camphor balm, I couldn't turn the page fast enough.

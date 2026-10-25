@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch060 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · experiment dates-dated · dated · 2026-10-24*
+
+REACTION
+
+Okay so here's the thing — on paper this is the chapter I should've been bored by. Alone in the flannel, hand between her legs, the same inventory I've now watched her run three times: the nipples drawing up before the fingers get there, the long road down, the gathering of the wet. I know this sequence. I could've recited the choreography before she started. And for about a page I was braced to be — the second time she took the weight of her breasts one in each palm I thought, *I have read this exact paragraph in this exact book.*
+
+And then it stopped being that. Because this one isn't about getting off, it's about the *reach she can't make*, and that's new, and it gutted me quietly. She coats two fingers to the knuckle, she lifts them, she braces for the stink the boys promised and it isn't there — it's *hers, a hothouse with the doors shut* — and her body clenches on nothing, and her tongue comes forward, and *stops.* A breath's width. Lungs starting to hurt, and she cannot close it. "Nothing in the room told her why." That's the whole book in one gesture. Her body said yes a page ago, it's been saying yes all night, and the installed voice — the mother, the "that's wrong, that's not a thing you do" — reaches past the tongue that already wants it and shuts the lid. I've watched her fail to cross a floor to Pace. Now she can't cross a breath's width to her own hand. Same muscle. Same no that isn't hers.
+
+But that's not even the part that made me put the book down on my chest. It's that *Randi is in the bed with her.* Not named as a want — threaded in sideways, the way the true thing always comes into Vee sideways. "Had Randi's looked like this?" "Or Randi's own fingers." "A mouth carrying it back. Or Randi's own fingers." Three times the fantasy forks, and one fork is Pace's mouth and the other is *Randi* — Randi who said *it's powerful, it turned me on,* flat, like a recommendation, and then ate the bread. The tasting-herself thing was never really about tasting herself. Randi loaded it at the table Thursday and now Vee's running it alone and it keeps opening onto Randi's hands, Randi's mouth, and Vee has no idea that's what she's doing. The reach she can't complete toward her own fingers is the reach she can't complete toward Randi, and the book is too disciplined to say so, which is exactly why it landed.
+
+And the ending — opening the window, January coming in "like water through a broken door," and then *searching the sheet for the cold damp patch and settling her hip over it.* "Her mess. Hers to lie in." "Her mouth was still empty." God. She let the cold back in — that was the December move, the real no, refusing to run the trick on herself — but she can't actually leave the wanting, so she lies down in the evidence of it. That's not resolution, that's a woman pacing her own cage and lying down in the one corner that's still warm. "Greedy." She can't even keep Randi's absolution — *hungry out loud* — from curdling back into her mother's word the second she's alone.
+
+What I'm sick about: the fuse is now *inside* her, not out in the plot. Nobody has to expose anything. Randi's doing it from across a wine glass, one mild sentence at a time, and Vee is doing the rest to herself in the dark, and she thinks it's about oral sex and Pace. The irony-gap didn't close, it went *underground.* I'd text a friend: she's masturbating to her best friend and calling it a question about her boyfriend's kissing, and I want to scream.
+
+GATE 60 — The Reach
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "She touched herself more now than she ever had before him… She caught one between finger and thumb, rolled it slowly" — right there in the opening inventory, the fourth run of a sequence I've got memorized, I thought *not again, I've read this body do this exact thing.*
+WHY: It earns the repeated solo beat by making it about a reach she physically cannot complete and by letting Randi leak into the fantasy three separate times without ever naming it — that's the fuse moving underground, and it's the thing I've been bracing for since the brunches started. It's short and structurally a rerun, which caps the capture, but it leaves me wanting the Tuesday table more than any plot chapter has in a while.

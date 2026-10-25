@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch056 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Okay so this is a sunny little nothing chapter and I ate it in four minutes and I'm not mad about it, but I counted: 54 was talk at a sink, 55 was talk in a bunk, 56 is talk on a sun porch. Three. That's my number. The difference is that 54 and 55 were *doing* something — Pace taking Meg's boots down off a shelf I didn't know he had, Cassie's mother asking when she gets to see Vee again — and this one is mostly logistics with butter on it. Kayla at the locked door wailing about waffles went on about a paragraph past where I needed it. I know what Kayla is. I've known since September. I don't need the aria.
+
+But. Two things in here went off like a flashbulb and I don't think they were meant to be comfortable.
+
+**Vee told Cassie a lie and told Kayla the truth, and it's the wrong way round.** Monday night she gave Cassie a cranberry sweater shrunk to doll size and a load of hot laundry, a whole comic architecture, to explain why she came home in his t-shirt. Tuesday — er, Monday morning here, whatever, the calendar's mush as ever — she puts the coat on the table in front of Kayla and Meg, straight out, *I flashed him on his front porch*, and takes the shriek. And the reason is so clean it hurts: Kayla will make it an anecdote. Cassie would have made it a question. Cassie says *is it that you can't say, or that you don't want to* and Vee has to answer **both**; Kayla says *and did he...?* and Vee gets to smile hugely and say *yeah* and be done. She tells the truth to the person it costs nothing with. That's not hypocrisy, it's a whole nervous system, and it's the same one that cropped the leg off the photograph.
+
+**And the record is going in wrong, and Vee is the one filing it.** Meg lifts her glass: *that's a big apology.* And Vee says *it was a big fight* and lets it sit there "looking exactly true." It is not true. She drove out there in December and asked a man what she was to him and he folded his arms and said words are cheap, and the thing she apologized for was **asking**. And it was Randi who framed it that way — *you backed him into a corner, name it or lose me, the one thing he can't do, give him a peace sign he can't misread* — and I half bought it in the moment because Randi is persuasive and Vee was wrecked off a red-eye, and now it's two days later and the story has hardened in public and the apology is Vee's. Meg's maple-bacon speech is sweet and she means it and it's also the book handing me its own thesis in the dumbest available register — *sometimes you have to make it right in their language* — except Meg was actually a hag to Danny for five days and Vee asked one fair question. Nobody at that table knows the difference, including Vee. I notice I didn't like being told the thesis; I liked very much that the thesis is wrong in Vee's case and only I can see it.
+
+The money, though. That was lovely and quiet and I don't think most books would bother: *It's a little expensive. Is that okay?* — asked out loud, before anyone starts walking. And the check split three ways with the little terminal going round the table, *nobody letting anybody cover anybody.* Which is the exact opposite of every meal she's ever had with Randi, where she is not allowed near the check and never asks where the money came from. She's living in three economies now — Randi's unquestioned, Cassie's counted, and her own Christmas money spent on an occasion with no arithmetic done — and she moves between them without noticing, and I noticed, and that's the kind of thing that makes me keep reading a book that otherwise just gave me waffles.
+
+And oh God, **Wednesday.** He said *bring Theo* without turning around, which is either the most secure man alive or a man who already knows exactly how big a room he's building. Randi is coming. Randi, who has been handed a choose-or-lose by her chapter president in her own kitchen four days ago, who has spent four months being the one who leans in and just got kissed back under fifty years of composites, who picked out the shoes Vee walked into that house in. She is going to sit at a table with Pace. The man who chose her — with her — and the girl neither of them will say a true sentence to. And Vee's going to be in the middle of it beaming, saying *he's handling it,* liking how it sounds. He picked the place. He picks rooms by how well he can hear in them. He is going to seat seven people somewhere with no ends to the table and I want to see it so badly I'd read it standing up.
+
+What I'd text at 1 a.m.: *she apologized for asking. and her friend toasted her for it. and randi wrote the apology. WEDNESDAY.*
+
+GATE 56 — Across
+DECISION: CONTINUE
+CAPTURE: 5
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "I have been thinking about waffles since I woke up. I planned my *morning* around it."
+WHY: Third soft chapter running and this one's the thinnest — a locked dining hall, a long Kayla solo, and a dinner invitation I already had. But the lie-swap and the falsified apology are real work done in sunlight, and it ends with seven place settings and two people who chose her together about to sit at the same table. I'm not putting it down two days out from that.

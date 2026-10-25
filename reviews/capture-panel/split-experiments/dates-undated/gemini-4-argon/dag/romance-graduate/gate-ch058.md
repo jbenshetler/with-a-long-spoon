@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch058 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Oh my god, this chapter had my heart in my throat the entire time—both from pure joy and from the sheer high-wire tension of watching Pace and Randi finally in the same room with Vee's whole world.
+
+First of all: *"Vee's boyfriend."* He said it! Not just once to placate her in private, not hedged, not dragged out of him—he walked right up to Randi first, put his hand out, and introduced himself as *"Vee's boyfriend,"* and then said it five more times to every single one of her friends like it was his only credential on earth! And when Randi said *"She hides you very well,"* and he answered *"Not anymore"* and pulled out her chair... I melted into a puddle. Watching him work that pine-paneled BBQ buffet room—no TVs! He picked a place with no screens so he could actually hear her people!—using every tiny detail Vee had babbled to his back while he washed dishes all fall to draw Danny, Theo, Meg, Kayla, and even *Cassie* out of their shells was peak competence porn of the emotional variety. When Cassie gave him the once-over on the way out and said *"You can stay,"* I actually teared up a little.
+
+Wait, though—let's talk about the minefield underneath that table at the end of the night! When Vee caught Pace and Randi laughing together by the buffet and felt that sharp Christmas stinger (*"him, easy, somewhere she wasn't, being wonderful at a woman"*) before talking herself out of it because "this was Randi"—girl, your instincts are screaming at you! And then the three of them at the round table after everyone left: Randi raising her glass with *"What I didn't tell him is that meeting Vee was the highlight of my year. To my beautiful best friend,"* and then going glazed and quiet, turning her wine glass a quarter turn at a time until her thumbnail went white under the rim. Randi is *dying* inside. She is sitting across from the man she shares a bed with and the girl she is in love with, watching them be "boyfriend" and "girlfriend" in public, and Vee reaches over and puts her hand right over Randi's locked bracelet! And then in the parking lot, Randi kisses Vee goodbye on the mouth (with the second press!) right in front of Pace, and Vee wonders for a half-second what Pace thinks of it while he looks up at the sky! And in the truck when Vee asks what he and Randi talked about, his mouth corners up in the dash light: *"We get along. They share an interest... You."* The double meaning of that line nearly stopped my heart.
+
+And the truck scene!! Holy hell. Vee taking all that pride and relief and claiming him right there in the dark parking lot—going down on him across the bench seat until the man who tracks six things at once goes completely still with his hand stunned and weightless in her hair (*"She could live on that stillness — the man who did six things at once, down to zero"*). And then on the drive home, the callback to both the September mountain road in the cold cab and her solo drive in the coat on Friday night—shoving her own jeans down her thighs on a moving county road, holding her soaked lace thong aside with her own fingers (*"an offering she had to keep making, choosing it again every second it went on"*) while he drives one-handed and brings her off hard and loud against the vinyl seat. And that last line—that some small sentence in her was still standing at a window watching a glass turn a slow quarter at a time, drowned out by her own blood. This book is firing on every single cylinder.
+
+GATE 58 — Among Friends
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Pace introducing himself six times as "Vee's boyfriend" and winning over Cassie while Randi quietly breaks her own thumbnail against a wine glass at the same table—followed by that scorching parking-lot blowjob and one-handed truck drive home—is everything I read romance for. I need Thursday's dinner debrief with Randi immediately.

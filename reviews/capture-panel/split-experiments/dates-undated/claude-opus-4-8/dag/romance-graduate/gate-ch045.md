@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch045 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Okay so chapter 41 was the one, wasn't it — MIRA, MIRANDA, the point off alone in the white, "cheating bastards" said ragged to a screen, and Vee doing the one kind thing which was to never say the name. That chapter has been sitting in me cold for days. And now 45 comes and it's got none of that in it, and I have to sit here and decide whether that's fine.
+
+Here's the honest thing: I can feel the machine now. This is the third chapter in a row — 44 and 45 both — that runs the exact same figure: Vee builds up a careful not-quite-"I love you," pushes it toward him, and his hand does the two-starts-and-stops thing, and he answers *adjacent* to the word, near enough that the fight drains out of her, and she takes the warmth and lies awake after knowing it wasn't the thing. Chapter 44 was "I had been eating crackers my whole life." Chapter 45 is "Is this what we are now?" Same move. Same aftermath — the lying in the dark, the name drowned at the top of the orgasm, "he gave me everything but the one." I could set these two chapters side by side and they'd rhyme line for line. By the second dark-bedroom-no-name coda I'm not aching, I'm *cataloguing*.
+
+And yet. The Chili's scene. God, the Chili's scene is so good it almost makes me forgive the pattern. Because the book did a thing I didn't see coming: it took his screen-glancing, his fork-squaring, his flicker of irritation, and let Vee read it *completely wrong* — "just-sex, proven in fluorescent light" — and then handed us the real answer later in the truck: the room's too loud, "I listen as hard as I know how and I still can't hear you." That's the whole book in one gesture. He's not bored of her in public. He physically cannot process her in a room with four TVs and pooled noise, and the thing that reads as coldness is the thing that's most true about how he's built. And the nachos — "to food what a billboard is to a painting," the one muddy brown you always get — that's the induction working in reverse. He ruined Chili's for her the way he ruined the plain version of herself. "He had ruined it for her, was the thing. Not just this." That line has teeth.
+
+But here's what's souring under me, and it's the con, not the craft. Vee invents a fight. "You went cold on me after the Rusty Nail. It wasn't true. Some back room of her knew which of them had gone cold." She manufactures a grievance so she has a shape to stand in, and then she *forgives him for it* — "forgiven, warm and large and easy to wear" — and the forgiveness is the drug. She's doing to herself exactly what they do to her: handing herself a clean story to live inside. And I know, I *know* from the other room, that "you know what happened after the dance" is being wielded by a man who knows precisely how guilt steers her. He set the true thing down and let it be true — except I've been in his head, I've heard "it isn't you I'm checking on," and I can't read his quiet patience as innocent anymore. The listening speech is beautiful AND it's a lever. Same organ. The book keeps proving its own thesis and I keep believing it.
+
+What's starting to wear is that I've now watched her drown the word at the peak twice, and the second time it read as technique on the page, not just on her. "Her body broke over the edge and took it back down, drowned it clean, as it always did, as she let it." *As it always did.* The book is telling me it's a loop. I don't need to be told it's a loop; I need the loop to break, or for someone to walk into the room. And nobody's walking into the room. Thanksgiving still hasn't happened, Randi's secret is sitting unused in Vee's pocket, and I'm being given variation-on-a-theme while the three things I'm actually waiting for stay offstage.
+
+I'd text a friend at 1 a.m.: the Chili's scene made me put the book down and stare at the wall, he can't hear her in loud rooms and she thinks it's shame, god. And then thirty seconds later: but if she lies awake not-saying the word one more chapter I'm going to scream, break something please.
+
+GATE 45 — Under the Rug
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "She came with his name in her mouth and not the other thing" — because I'd just read the identical beat in 44 and felt my attention slide off it into the pattern instead of into her.
+WHY: The Chili's misread-into-truth is some of the sharpest work the book's done — the listening-in-loud-rooms reveal landed hard and the nachos-as-billboard image earned its ache. But this is the third no-name-in-the-dark coda running and I can feel the figure repeating now; I'm continuing for the collision the jacket promised and the MIRANDA powder keg from 41, not for another lap of the loop.

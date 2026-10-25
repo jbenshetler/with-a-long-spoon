@@ -1,0 +1,49 @@
+*capture-dag-v2-rich · carry-forward ck-ch070 · gemini-3.8-flash · romance-graduate · prompt-sha b3c0511c266a · experiment dates-undated · undated · 2026-10-24*
+
+WHO'S WHO
+
+- **Vee (Vivienne Thorne):** Twenty-one, drowning in the deep end and kicking toward the bottom. In the span of a single weekend, she got waxed entirely bare at Pace's quiet request, let him turn her into a literal still life painting using her own soaking wetness as primer, got her face painted with his mouth, made out with Randi on a crowded dance floor until her soul left her body, ran to Pace at 1:00 AM to use his cock as an exorcism, paid for his strokes with the explicit truth of how badly she wanted Randi's mouth on her, and then lied to his face about the rest. She is physically raw, deeply sore, completely addicted, and utterly terrified. She clings to the word "boyfriend" like a life raft while her body screams for her best friend.
+- **Pace (Peter):** Twenty-two. We finally have the keys to the fortress: he went to college at fifteen, his home life "went bad with his daddy," and he hasn't been home since he was sixteen. He builds kitchens, bakes midnight cinnamon raisin bread, and fixes locks because he lost his entire foundation in one clean break. But sexually and psychologically, he is a terrifying chess master. In Ch 61, he had Randi riding him while she fantasized about holding Vee's breasts; by Ch 68, he held Vee suspended over his lap, doling out his cock inch by inch to extract every filthy confession about the mixer kiss. He knows Randi wants Vee; he knows Vee wants Randi; he knows they're all in love. He is orchestrating a three-way psychological trap and letting Vee think she’s the one driving.
+- **Randi (Miranda):** The golden wolf. She opened Ch 61 by cleaning Pace's cum and her own slick off his body with her tongue and begging him to suck her nipples so she could pretend it was Vee. Then she gave Vee an iridescent micro-skirt, dragged her to the sorority mixer, made out with her in front of Harrison to "put on a show," slipped her tongue in like a plea, and immediately gaslit Vee afterward with "I almost believed it." She is starving for Vee, daring the Greek system to catch her, and weaponizing every inch of plausible deniability she has left.
+- **Cassie:** The absolute MVP and the only sober person in the state of Virginia. She watched Vee walk out in the skirt, watched the aftermath on the sidewalk, and met Vee at the door not with judgment, but with the terrifyingly direct question: *"Is this what you want?"* When Vee tried to pick a fight, Cassie ignored the bait and handed her a box of Cocoa Pebbles. She sees the whole car crash coming.
+- **Sheri:** Pace’s *only* real friend. Five-foot-nothing, butch, loud, bleached roots, utterly genuine. Pace rescued her when her family and church disowned her for coming out last spring. She read Vee down to her induction heels, openly appreciated what Pace gets to come home to, and gave Vee the entire tragic backstory of Pace’s isolation.
+
+WHERE THINGS STAND
+
+- **The Shared Bed / The Confession (Ch 61):** Pace and Randi fucked with feral, practiced intensity. Randi cupped her own breast, imagining it was Vee's, and made Pace suck her nipple while whispering about Vee's softness. Pace lost total control when Randi confessed she wants Vee to know what she does to her. Randi told Pace flat-out: "She's not the only one in love." Afterward, Randi cleaned Pace off with her mouth and took him back inside her.
+- **Sheri & The History (Ch 62–63):** Pace introduced Vee to Sheri at a local taproom. Vee braced for a glamorous threat and found an ally who adores her. Sheri revealed Pace hasn't been home since sixteen after a bad break with his father, and that he has zero male friends. Back at his house, over fresh cinnamon raisin bread, Pace confirmed the isolation: he skipped his childhood, Daphne carried too much of him, and he has built a life with a door on a timer. Vee held him with her whole weight, completely blind to the fact that Randi is in his bed.
+- **The Wax & The Fruit (Ch 64–66):** Pace asked Vee to be waxed entirely bare. Randi curated the salon (Sondra on Draper St.) and omitted the pain and the fact that you have to flip over. Vee endured it, aching for Pace's hands. That night, Pace painted a grapevine up her arm, cantaloupes on her breasts, and a dark cherry on her mons using *her own slick* as gesso. He licked the paint and her wetness off her, had her taste herself on his mouth when he fucked her, and took an explicit photo of her that Vee secretly hoards on her phone.
+- **The Mixer & The Kiss (Ch 67):** Randi gave Vee an iridescent micro-skirt that barely covered her ass and took her as her "date" to the sorority mixer. On the floor, Randi held Vee’s arms up, letting the room see her bare thighs, then pulled Vee into a make-out session under the guise of teasing Harrison. It wasn't a bit: Randi slipped her tongue in, gripped Vee’s bare ass, and Vee groaned into her mouth, soaking wet and utterly responsive. Randi backed off with a breezy "I almost believed it," leaving Vee shattered.
+- **The Midnight Confession (Ch 68):** Panicked and hyper-aroused, Vee drove to Pace's at 1:00 AM wearing Randi's skirt over her soaked thong. She tried to fuck the memory out of herself, but Pace took total control: he held her off him, making her buy each stroke by confessing the mixer piece by piece until she admitted she wanted Randi's mouth on her bare skin. She lied and said there was "nothing else," then deflected by accusing him of wanting Randi. Pace gently countered: "You keep saying her name. Not me."
+- **The Reckoning & Cocoa Pebbles (Ch 69–70):** Vee spent Sunday riding Pace to exhaust the ache, but drove home "full of him and not, somehow, filled." In Tuesday's anthropology class, Randi's knee against hers and a simple touch on the wrist set Vee on fire. Vee dodged their usual post-class dinner out of panic, taking the miss on the goodbye kiss—only for Randi to plant a wet, deliberate kiss on the hollow of Vee's neck. Flustered, Vee blurted out an invitation for Saturday brunch. In their dorm, Cassie confronted Vee: *"Is this what you want?"* Unable to answer, Vee took refuge in a handful of dry Cocoa Pebbles.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+- **Vee:** My heart is in my throat for her. She is practically vibrating with anxiety, shame, and sheer unadulterated horniness. Watching her try to use Pace’s body as a shield against her own waking queerness is painful, especially because Pace is actively collaborating with the "threat." She thinks she survived the weekend, but she just scheduled Saturday brunch with Randi. She is walking right into the blades.
+- **Pace:** An absolute psychological menace, and I cannot tear my eyes away. Learning about his abusive past and his profound isolation made him devastatingly human—and then watching him ruthlessly extract Vee’s sexual confession about Randi by holding her inches off his cock made him terrifying again. He is building his shared table, and he doesn't care how dirty the construction gets.
+- **Randi:** Lethal, tragic, and utterly reckless. She is playing with fire in front of her entire sorority. She tasted Vee at that party, and you can tell the taste broke whatever last shred of discipline she had left. Kissing Vee's neck on the dark sidewalk was pure territorial aggression.
+- **Cassie:** I love this woman with my whole soul. She doesn't judge, she doesn't preach, and she doesn't let Vee bullshit her. She is the anchor in a sea of pure erotic chaos.
+
+WHAT I'M CARRYING
+
+- Randi licking Pace's cock clean of their combined mess in Ch 61, looking up with bright eyes to demand he stick it back inside her.
+- Sheri standing flat-footed on a taproom floor, dropping her volume to tell Vee that Pace hasn't been home since he was sixteen.
+- Pace kneeling between Vee's thighs, dipping a bristle brush into her overflowing slick and painting crossing strokes of "gesso" over her mons.
+- The photo on Vee's phone: red hair wild, breasts painted as cantaloupes, sex open and dripping under a painted black cherry.
+- Randi’s hand digging into the meat of Vee’s ass through that iridescent knit, sliding her tongue into Vee’s mouth like a plea while Harrison watched.
+- Pace holding Vee suspended a fraction of an inch above his cock, demanding: *"You finish when you've finished."*
+- Randi's mouth striking the hollow of Vee's neck in the freezing air, whispering: *"See? How do you like it?"*
+- Cassie holding out the box of Cocoa Pebbles in the quiet dorm room.
+
+WHAT I'M WAITING FOR
+
+- **Saturday Brunch:** Vee panicked and offered up Saturday morning. After the neck kiss and the mixer, how are they supposed to sit across a table with mimosas and pretend they're just sorority pals?
+- **The Photo:** Vee swears she won't show Randi the picture of her painted and bare. Which means Randi is *definitely* going to see it. What happens when Randi sees the evidence of what Pace did to Vee’s newly waxed body?
+- **The Collusion Reveal:** Vee still believes she is keeping a secret from Pace, and that Pace and Randi barely know each other outside of her. When she realizes they were fucking and talking about her breasts *the day before* Pace painted her, the explosion will be nuclear.
+- **Brooke and Standards:** Randi had to run off to "discipline a bad girl" on the standards committee after Brooke already warned her about playing too close to the edge. When does the Greek hammer fall on Randi?
+
+WHAT'S FADING
+
+- The names of the minor dorm girls like Meg and Kayla (except for Meg's borrowed keyhole shirt).
+- The specifics of the anthropology lecture beyond the recurring theme of the *hau* and debts that must be repaid.
+- Any lingering memory of John or Randi's Swiss vacation.
