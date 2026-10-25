@@ -715,6 +715,21 @@ class ChapterDateTests(unittest.TestCase):
     def setUp(self):
         self.dates = importlib.import_module("chapter_dates")
 
+    def test_epub_renders_heading_section_line_and_first_break(self):
+        # A chapter with no editorial note: its first rule is a real break.
+        epub = importlib.import_module("build_epub")
+        text = "# X\n\nFriday prose.\n\n---\n\nSaturday came.\n"
+        meta = {"x": '*Fri Jan 22 – Sat Jan 23* · days: Fri Jan 22 | Sat Jan 23 @ "Saturday came" · slug: x'}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta), \
+                patch.object(self.dates, "_check_anchors"):
+            heading, at = self.dates.date_lines("x", text)
+        self.assertEqual(heading, "Friday, January 22")
+        self.assertEqual(at, {6: "Saturday, January 23"})
+        body = epub.scene_body_html(text, at)
+        self.assertIn('class="break"', body)
+        self.assertLess(body.index('class="break"'), body.index("Saturday, January 23"))
+        self.assertIn('<p class="first">Saturday came.</p>', body)
+
     def test_heading_is_weekday_month_day_with_no_year(self):
         meta = {"x": "*Early fall · Mon Oct 19 · somewhere* · slug: x"}
         with patch.object(self.dates, "_metadata_lines", return_value=meta):

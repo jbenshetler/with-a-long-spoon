@@ -24,7 +24,8 @@ section (after a `---` break) where it begins. The chapter heading shows the
 first day; each later day gets its own line at that section.
 
 The stable source for chapter-date calculation (author ruling 2026-10-24): the
-capture/cold-read dated packets and the epub heading line both call heading().
+capture/cold-read dated packets, the epub and the chronology reader all take their
+date lines from here (date_lines() for renderers).
 Open-questions #48 (prose temporal claims vs. this spine) builds on it.
 """
 
@@ -200,6 +201,27 @@ def dated_text(slug: str, text: str) -> str:
         else:
             raise AnchorMissing(f"{slug}: anchor {anchor!r} not found in the text given")
     return "\n".join(lines)
+
+def date_lines(slug: str, text: str) -> tuple[str | None, dict[int, str]]:
+    """(heading, {0-based line index: date line}) for a renderer.
+
+    The index is the source line that opens each later day's section, so a
+    renderer can place the date there without altering the text (the chronology
+    reader keys `:N` jumps to source lines). A chapter without an exact date
+    returns (None, {}): nothing is shown rather than a guess."""
+    try:
+        days = section_days(slug)
+    except DateError:
+        return None, {}
+    lines = text.split("\n")
+    at: dict[int, str] = {}
+    for anchor, line in days[1:]:
+        for i, ln in enumerate(lines):
+            if anchor and ln.strip().startswith(anchor):
+                at[i] = line
+                break
+    return days[0][1], at
+
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,

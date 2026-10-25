@@ -53,6 +53,9 @@ import zipfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import chapter_dates  # noqa: E402  (the stable source for chapter dates)
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 import volume_scenes  # noqa: E402  (the volume-membership authority)
 
 SERIES_NAME = "With a Long Spoon"
@@ -326,30 +329,38 @@ def inline(s: str) -> str:
     return s
 
 
-def scene_body_html(text: str) -> str:
+def scene_body_html(text: str, section_dates: dict[int, str] | None = None) -> str:
     """Scene .md -> chapter body html.
 
     Drops the H1 title and the leading italic editorial note above the first
     horizontal rule (and that rule itself); interior rules render as scene
     breaks. Each non-blank source line is one paragraph (house prose format).
+    `section_dates` (from chapter_dates.date_lines) puts a later day's date line
+    above the source line that opens its section.
     """
     out = []
     seen_rule = False
     started = False  # first prose paragraph emitted
-    for raw in text.split("\n"):
+    for idx, raw in enumerate(text.split("\n")):
         line = raw.strip()
         if not line:
             continue
+        if section_dates and idx in section_dates:
+            out.append(f'<p class="dateline">{esc(section_dates[idx])}</p>')
         if HR_RE.match(line):
-            if not seen_rule:
+            # Only a rule before any prose closes the editorial note; in a
+            # chapter with no note the first rule is a real scene break (it was
+            # being dropped from 16 chapters until 2026-10-25).
+            if not seen_rule and not out:
                 seen_rule = True
                 continue
+            seen_rule = True
             out.append('<p class="break">* * *</p>')
             started = False  # paragraph after a break is unindented
             continue
         if line.startswith("#"):
             continue
-        if not seen_rule and re.match(r"^\*.+\*$", line):
+        if not seen_rule and not out and re.match(r"^\*.+\*$", line):
             continue  # editorial note before the first rule
         cls = "" if started else ' class="first"'
         out.append(f"<p{cls}>{inline(line)}</p>")
@@ -376,6 +387,9 @@ div.chapter-open { margin-bottom: 2.5em; }
 p { margin: 0; text-indent: 1.3em; text-align: justify; }
 p.first { text-indent: 0; }
 p.break { text-indent: 0; text-align: center; margin: 1.2em 0; }
+p.dateline { text-indent: 0; text-align: center; font-style: italic; font-size: 0.9em;
+  margin: 0 0 1.2em; color: #444; }
+div.chapter-open p.dateline { margin: 0.6em 0 0; }
 /* front & back matter */
 .cover { text-align: center; margin: 0; padding: 0; }
 .cover img { max-width: 100%; max-height: 100%; }
@@ -464,9 +478,13 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     toc = []  # (href, label) — chapters + back matter
     for i, (title, path) in enumerate(chapters, 1):
         href = f"ch{i:03d}.xhtml"
+        text = path.read_text(encoding="utf-8")
+        # Reader-facing date lines (author ruling 2026-10-25); the year is never shown.
+        heading, section_dates = chapter_dates.date_lines(path.stem, text)
+        dateline = f'<p class="dateline">{esc(heading)}</p>' if heading else ""
         body = (f'<div class="chapter-open"><p class="chapnum">Chapter {i}'
-                f"</p><h1 class=\"chapter\">{esc(title)}</h1></div>\n"
-                + scene_body_html(path.read_text(encoding="utf-8")))
+                f"</p><h1 class=\"chapter\">{esc(title)}</h1>{dateline}</div>\n"
+                + scene_body_html(text, section_dates))
         add(f"ch{i:03d}", href, "application/xhtml+xml", page(title, body))
         toc.append((href, f"{i} · {title}"))
 

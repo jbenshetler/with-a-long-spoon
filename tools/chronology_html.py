@@ -41,6 +41,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import volume_scenes  # noqa: E402  (the volume-membership authority)
+import chapter_dates  # noqa: E402  (the stable source for chapter dates)
 
 def _panel_models() -> frozenset[str]:
     # The shared loader (tomllib), not a regex: a "]" in a comment inside
@@ -948,6 +949,16 @@ def chapter_label(e) -> str:
     return f"Ch {e.chapter_no} · {e.title}" if e.chapter_no else e.title
 
 
+def _dates_attr(e) -> str:
+    """JSON {"h": heading, "at": {1-based source line: date}} for the reader,
+    from chapter_dates (the stable source); empty when the date is not exact."""
+    import json
+    heading, at = chapter_dates.date_lines(e.file_slug or "", e.scene_md)
+    if not heading:
+        return ""
+    return json.dumps({"h": heading, "at": {str(i + 1): d for i, d in at.items()}})
+
+
 def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None,
                with_reviews=False):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
@@ -994,7 +1005,8 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
         f'<div class="scenesrc" id="src-{e.slug}" '
-        f'data-title="{html.escape(chapter_label(e), quote=True)}" hidden>'
+        f'data-title="{html.escape(chapter_label(e), quote=True)}" '
+        f'data-dates="{html.escape(_dates_attr(e), quote=True)}" hidden>'
         f'{html.escape(e.scene_md)}</div>'
         for e in entries if e.scene_md)
     # hidden per-chapter cold-read blobs the reader opens the same way as prose
@@ -1111,6 +1123,7 @@ READER_CSS = """
     width:3em; text-align:right; font:12px/1.6 ui-monospace,Menlo,Consolas,monospace;
     color:var(--mut); opacity:.5; user-select:none; pointer-events:none; }
   #reader-body h1 { font-size:26px; margin:0 0 .7em; }
+  #reader-body p.dateline { font-style:italic; text-align:center; opacity:.75; margin:0 0 1.15em; }
   #reader-body h2 { font-size:22px; margin:1.3em 0 .5em; }
   #reader-body h3 { font-size:19px; margin:1.3em 0 .5em; color:var(--mut); }
   #reader-body hr { border:none; border-top:1px solid var(--line); width:42%; margin:1.9em auto; }
@@ -1189,13 +1202,18 @@ READER_JS = r"""
   // Each non-blank source line becomes one block tagged with its 1-based line
   // number, so ':N' lands where line N would in the .md file (blank lines are
   // absent, so goto falls back to the nearest earlier line).
-  function renderMarkdown(text){
-    var lines = text.split('\n'), out = [];
+  // `dates` (optional, from data-dates): the chapter's date line under its H1
+  // and each later day's line above the source line that opens its section.
+  function renderMarkdown(text, dates){
+    var lines = text.split('\n'), out = [], headed = false;
     for (var i=0; i<lines.length; i++){
       var ln = i+1, t = lines[i].trim();
       if (t === '') continue;
+      if (dates && dates.at[ln]) out.push('<p class="dateline">'+escHtml(dates.at[ln])+'</p>');
       var h = t.match(/^(#{1,6})\s+(.*)$/);
-      if (h){ var lv=h[1].length; out.push('<h'+lv+' data-line="'+ln+'">'+inline(h[2])+'</h'+lv+'>'); continue; }
+      if (h){ var lv=h[1].length; out.push('<h'+lv+' data-line="'+ln+'">'+inline(h[2])+'</h'+lv+'>');
+              if (dates && lv === 1 && !headed){ out.push('<p class="dateline">'+escHtml(dates.h)+'</p>'); headed = true; }
+              continue; }
       if (/^([-*_])\1\1+$/.test(t)){ out.push('<hr data-line="'+ln+'">'); continue; }
       if (t.charAt(0) === '>'){ out.push('<blockquote data-line="'+ln+'">'+inline(t.replace(/^>\s?/,''))+'</blockquote>'); continue; }
       out.push('<p data-line="'+ln+'">'+inline(t)+'</p>');
@@ -1239,7 +1257,8 @@ READER_JS = r"""
       body.classList.remove('lnum');
       collapseBtn.hidden = false; updateCollapseLabel();
     } else {
-      body.innerHTML = renderMarkdown(src);
+      var dj = el.getAttribute('data-dates');
+      body.innerHTML = renderMarkdown(src, dj ? JSON.parse(dj) : null);
       applyLnum();
       collapseBtn.hidden = true;
     }
