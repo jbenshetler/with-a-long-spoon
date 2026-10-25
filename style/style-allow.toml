@@ -1740,6 +1740,13 @@ text = "The bistro had a sun porch along its south side, a long room of glass an
 note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
+fp   = "fda6067d4476"
+rule = "without-asking"
+file = "scenes/fed.md"
+text = "Sunday's bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking."
+note = "author re-accepted 2026-10-25 after 'Sunday's bistro' edit re-armed it"
+
+[[ok]]
 fp   = "0b907300d44e"
 rule = "the-way"
 file = "scenes/gesso.md"

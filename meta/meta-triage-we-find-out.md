@@ -517,3 +517,5 @@ This isolated pass held ck-030 constant. The **fuller Phase-2** re-validation
 (professor thread + this consent edit + the other oracle-flagged items) will
 re-mint ck-030/ck-040 — which now contain the edited ch22/ch30 — and re-read the
 downstream, catching any interaction. Tracked with the professor Phase-2.
+
+**Day named in the prose (author ruling 2026-10-25).** `we-find-out.md:137`: "She woke ravenous" → "Saturday she woke ravenous". The Saturday section line stays shown as well: readers in both arms of the dated-heading test misplaced this scene's day. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).

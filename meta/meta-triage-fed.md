@@ -306,3 +306,5 @@ acked with rationale in `style/style-allow.toml`:
   four readers.
 - `there-was-were` `:27` `#e1f81bd5e9a1` — dialogue ("Like there was no clock
   anywhere in the world"), praised by terra and sol.
+
+**Day named in the prose (author ruling 2026-10-25).** `fed.md:49`: "The bistro had" → "Sunday's bistro had", so the prose names the day and the Sunday section line goes quiet. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).

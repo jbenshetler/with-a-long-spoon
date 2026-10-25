@@ -175,3 +175,5 @@ applied, the remaining 17 hits suppressed with per-group rationale in
 ### Author ruling — lecture-hall quiet is same-day (2026-10-24)
 
 `:107` "the same quiet as yesterday in the lecture hall" → "the same quiet as this morning in the lecture hall." The try-on follows stats class the same Friday (`:77`, "at eight that morning"); the quiet it recalls is `:51`, Randi in the aisle seat with "nothing at all on her face." Caught by the dated-heading capture test and independently by a blind undated reader.
+
+**Day named in the prose (author ruling 2026-10-25).** `sorority.md:115`: "The Mercedes sat" → "On Saturday the Mercedes sat", so the prose names the day and the Saturday section line goes quiet. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).

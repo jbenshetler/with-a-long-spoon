@@ -46,7 +46,7 @@ Vee stood in the cold, emptied room. She let the towel fall, and stepped out of 
 
 ---
 
-The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
+Sunday's bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
 Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend. "There's my girl," she said. "God, you're glowing. Sit, sit."
 

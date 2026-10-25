@@ -21,7 +21,8 @@ e.g. `days: Sat Sep 19 | Fri Sep 25 @ "Six days later, the professor"`: the
 first day runs from the top (it may precede the entry's own date, as for a
 diptych whose first panel is earlier); each later day names the opening words of the
 section (after a `---` break) where it begins. The chapter heading shows the
-first day; each later day gets its own line at that section.
+first day; each later day gets its own line at that section, unless the part
+ends `(quiet)`: recorded for the tools, not shown to readers.
 
 The stable source for chapter-date calculation (author ruling 2026-10-24): the
 capture/cold-read dated packets, the epub and the chronology reader all take their
@@ -58,6 +59,7 @@ ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE)\]\s+")
 SLUG_RE = re.compile(r"slug:\s*([a-z0-9-]+)")
 DAYS_RE = re.compile(r"days:\s*([^·*]+)")
 SCENES = CHRONOLOGY.parent.parent / "scenes"
+QUIET = "(quiet)"
 
 
 class DateError(ValueError):
@@ -127,10 +129,13 @@ def _chapter_range(slug: str, meta: str) -> tuple[dt.date, dt.date]:
     return pts[0], pts[-1]
 
 
-def section_days(slug: str) -> list[tuple[str | None, str]]:
+def section_days(slug: str, *, include_quiet: bool = False) -> list[tuple[str | None, str]]:
     """[(anchor, date line), ...]: anchor None for the opening day.
 
-    Single-day and range chapters with no `days:` field return one entry."""
+    Single-day and range chapters with no `days:` field return one entry.
+    A part ending `(quiet)` is recorded but not shown (author ruling
+    2026-10-25: a section line only where the prose does not land the day
+    itself); it is omitted unless `include_quiet`."""
     meta = _metadata_lines().get(slug)
     if meta is None:
         raise DateError(f"{slug}: no chronology entry with this slug")
@@ -143,6 +148,9 @@ def section_days(slug: str) -> list[tuple[str | None, str]]:
     prev = None
     for k, part in enumerate(p.strip() for p in m.group(1).split("|")):
         anchor = None
+        quiet = part.endswith(QUIET)
+        if quiet:
+            part = part[: -len(QUIET)].strip()
         if "@" in part:
             part, anchor = (x.strip() for x in part.split("@", 1))
             anchor = anchor.strip('"').strip()
@@ -154,9 +162,11 @@ def section_days(slug: str) -> list[tuple[str | None, str]]:
         if prev and pts[0] < prev:
             raise DateError(f"{slug}: `days:` dates run backwards")
         prev = pts[0]
-        out.append((anchor, _render(pts[0])))
-    _check_anchors(slug, [a for a, _ in out if a])
-    return out
+        if quiet and k == 0:
+            raise DateError(f"{slug}: the opening day cannot be quiet")
+        out.append((anchor, _render(pts[0]), quiet))
+    _check_anchors(slug, [a for a, _, _ in out if a])
+    return [(a, line) for a, line, q in out if include_quiet or not q]
 
 
 def _section_openings(text: str) -> list[str]:
@@ -242,8 +252,10 @@ def main() -> None:
         if not args.check or line[:2] in ("!!", "~ "):
             print(f"{n:3d}  {s['tag']:<8} {s['slug']:<22} {line}")
             if not args.check and not line.startswith(("!!", "~")):
-                for anchor, later in section_days(s["slug"])[1:]:
-                    print(f"{'':37}{later}   @ {anchor!r}")
+                shown = section_days(s["slug"])
+                for day in section_days(s["slug"], include_quiet=True)[1:]:
+                    tag = "" if day in shown else "   (quiet: not shown)"
+                    print(f"{'':37}{day[1]}   @ {day[0]!r}{tag}")
     if args.check:
         print(f"{len(drafted) - errors - inexact}/{len(drafted)} exact · "
               f"{inexact} without an exact date · {errors} error(s) (weekday mismatch or lost anchor)")
