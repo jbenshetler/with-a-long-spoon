@@ -46,7 +46,7 @@ She read it, and read it again, and the second time she read it her hips had alr
 
 She put the phone face-down on her chest.
 
-*Okay,* she told the ceiling. She lay there with the phone on her sternum and her heart going underneath it, and she thought about a great many perfectly reasonable things: that it was eleven forty at night and she had to be up, that she was in a bed with a man in it, that it was a joke, that Randi sent her everything, that this was what Randi was like, that Randi had once sent her a nine-second video of a dog in a raincoat at two in the morning with no message attached.
+*Okay,* she told the ceiling. She lay there with her heart going under the phone, and she thought about a great many perfectly reasonable things: that it was eleven forty at night and she had to be up, that she was in a bed with a man in it, that it was a joke, that Randi sent her everything, that this was what Randi was like, that Randi had once sent her a nine-second video of a dog in a raincoat at two in the morning with no message attached.
 
 Then she turned the phone back over.
 
@@ -244,7 +244,7 @@ He held her hips down and came up into her and finished a moment later with his 
 
 They lay there, and the room went on being a room.
 
-Her heart came down slowly. She was still on top of him, her cheek on his sternum, his hand moving on her back, and the green sheets were wrecked under her knees and the phone had gone dark again somewhere in the bed and there was a patch of gray under the blind that was a little wider than before.
+Her heart came down slowly. She was still on top of him, her cheek on his chest, his hand moving on her back, and the green sheets were wrecked under her knees and the phone had gone dark again somewhere in the bed and there was a patch of gray under the blind that was a little wider than before.
 
 She wanted to say something. The pressure had gone out of her and the other thing was coming into where it had been, and she reached, without looking at what she was reaching for, for the thing that had worked in January.
 
@@ -284,4 +284,4 @@ Vee put her thumb on the box at the bottom and the cursor came up, patient, blin
 
 She looked at it for a while.
 
-Then she turned the phone face-down on the nightstand and lay back in the dark with her hand on Pace's chest, and out past the blind the gray went on getting wider, and Tuesday was ten days off, and she did not know yet what her face was going to do.
+Then she turned the phone face-down on the nightstand and lay back in the dark with her hand on Pace's chest, and out past the blind the gray went on getting wider, and Tuesday was only days off, and she did not know yet what her face was going to do.

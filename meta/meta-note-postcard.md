@@ -127,3 +127,5 @@ One source leads per movement; do not route everything through (1) (`meta-craft-
 2. The Randi-loss chapter's container (Pace POV / managed-surface with the sisters / both).
 3. Title ratification, and whether the chronology entry's slug migrates to `postcard`.
 4. Whether to re-sound the spent *"he wasn't in it"* (the {{Nothing Underneath}} flannel line) at beat 11.
+
+**Author rulings 2026-10-25.** Ending: "Tuesday was ten days off" → "Tuesday was only days off" (`postcard.md:287`): from Friday dawn the Tuesday class with Randi is four days away, and the count read as arithmetic. Chronology date narrowed to the chapter's own span (Sat Mar 6 – Fri Mar 12) inside the break. Two banned *sternum* uses fixed (`:49` "with her heart going under the phone"; `:247` "her cheek on his chest").
