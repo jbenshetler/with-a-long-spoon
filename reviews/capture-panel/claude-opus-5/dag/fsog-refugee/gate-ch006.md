@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch006 · claude-opus-5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c7525ec1c0b8 · 2026-09-26*
+*capture-dag-v2-rich · gate ch006 · claude-opus-5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e27492614e32 · 2026-09-26*
 
 REACTION
 
-Short one, and I didn't want it to end.
+Oh, this is the one that made my stomach turn over.
 
-Okay so the thing that got me, the actual thing, was the cup. She builds it without thinking and it gets away from her, leaning, too much — and she waits for her mother's voice and *it doesn't come*. "Today there was nothing." And then she bites her lip knowing it'll drip and decides she doesn't care. I put my hand over my mouth. Because chapter one was Pace slicing an apple *thin*, cut-sides up, because that's the only way Randi would eat it — a man carefully working inside the cage a woman has built around her own appetite. And here's Vee, who has no idea any of this exists, just… overfilling a cup in front of him and nobody says a word. Same man, two women, and one of them gets the cage accommodated and the other one gets the cage to just quietly not be there for ten minutes. I don't think Vee noticed it happened. I noticed it happened. That's the whole book, isn't it.
+Because I *liked* it. That's the problem. The whole chapter is hot — she comes in already kissing him, no hello, she straddles him the way she does, she takes his hands and puts them where she wants them, she says *Tell* into his ear like a command and he laughs into her shoulder because he likes being bossed. That's my catnip, that exact thing: a man who's plainly in charge in a bedroom and who also lights up when she takes the wheel in a front room. And the wine. God, the wine. He poured one glass. He didn't pour himself one. Everything he gets of it he gets out of her mouth. *He had not had a drop of it. He could taste nothing else.* I read that line three times. That's the most erotic sentence in the book so far and nobody took their clothes off.
 
-And "your tart's holding up." God. She says the embarrassing true thing — *this is the nicest a person has been to me in a really long time, and it's froyo* — and winces and tries to take it back, and he doesn't rescue her and he doesn't inflate it, he just walks beside her and lets it sit there like it's allowed to exist, and then hands her back something small and dumb and warm. That's the move. That's the exact move I've been looking for in this whole genre for years. Not a speech. Not a smolder. Just: *your true thing is fine here, keep it.*
+And underneath the whole thing I was going cold, steadily, the way you do when the lovely warm bath turns out to be running.
 
-The waiting, too. "She'd get to the end of a sentence and find him still there." "She wasn't used to being the thing a person waited on." I felt that in my sternum, honestly. That's not a sexy line and it absolutely is.
+Because what she's come over for — what she's *paying* for with her mouth and her weight on his thighs — is a report on Vee. She's buying a girl with kisses. And Vee ate her frozen yogurt and said the true embarrassing thing on the walk and went home warm. I've got that chapter still sitting right there in front of me, the gold light, "this is the nicest a person has been to me in a really long time." And then this. Randi asking *did she eat all of it*, and going tight in the thighs when she hears the answer, and Pace clocking the tightening before her face catches up.
 
-And underneath all of it I am sick. Because I know. I watched him point at her across the lawn. I watched Randi say *do you think she'll like the bench* with her face in his shirt. So every gorgeous careful thing he does in this chapter lands twice — once as the tenderest first date I've read in ages, and once as evidence of how good he is at this, how deliberate, how *practiced*. The froyo flavor system bit — "I've thought about most things," said without apology — read as charming and then read again as a threat. He's thought about her. He thought about her before she knew there was a her to think about.
+Here's the thing that actually saved it for me, and it's thin but it's real: he didn't hand over the froyo line. *It was hers.* He kept one thing back. That's him with the bathroom door in chapter one — a closed door is hers, you don't go in because you can hear through it. So he does have a line. He has a line about Vee's *interior* even while he's sitting there feeding her exterior to Randi as an aphrodisiac. I don't know what to do with a man who has that exact line in that exact place. It's not nothing. It's also not enough, and I think the book knows it's not enough, which is why it put the line there — so I'd notice him having a conscience about the one part that costs him nothing.
 
-Randi taking the phone out of Vee's hand to read it herself gave me a small cold feeling. Not the hand — the ease of it. And "he wants to see you naked," said by the woman whose boyfriend this is, grinning, pushing. She's steering and it looks exactly like a girlfriend being a girlfriend. That's what's scaring me: I cannot find the seam, and Vee will never look for one.
+And Randi. God, Randi. "I already do," bright and easy, and then killing the glass in one swallow. She's doing the exact thing from the bathroom mirror — the face going back over the thing underneath. Except now what's under it isn't shame about begging, it's how much she wants this girl, and it's *growing*, and Pace is standing there admiring it like weather. He's *moved* by her keeping the face on. He finds her repression tender. That's the merciless part the jacket promised and I felt it land: he loves her real self so much that he's using another human girl as the crowbar.
 
-Cassie continues to be the only person in this book with a functioning nervous system. The healer line — a whole semester of Vee up till two keeping a business major alive in a video game — is the most efficient character history I've gotten all book. Vee gives herself away. She's been doing it for years. And Cassie *says goodbye like she means it* and nobody listens, including me, apparently, because I keep thinking about it.
+What I'm sitting with at 1 a.m.: I still believe these two adore each other. The care between them is genuinely on the page — his hands flat on her back, drawing her down, *she's fun, you'll like her.* That's warmth. That's real. And it's being spent on a plan Vee doesn't know exists. The jacket told me. I signed up. I keep waiting to hate him and instead I keep wanting to be in that room.
 
-The one thing I'd flag: "The rule's for boys you're not sure about. You're not unsure." Smooth. Very smooth. Randi didn't give her a reason to go, she gave her a reason she'd already gone. That's not friendship, that's a closer.
+The thing I'd text a friend: *the wine glass. he never drinks any of it. he only gets it out of her mouth. that's the whole book isn't it, he only takes things secondhand, he pointed and let HER go do the collision—* and then I'd stop typing because I'd realize what I just said.
 
-Would text a friend at 1am: *he let her overfill the cup and I nearly cried, and he's going to destroy her, and I want chapter seven.*
+Four chapters now since he and Vee were in a room together, more or less, and I want them back. But honestly what I want more is to see Randi put her mouth somewhere and stop pretending it's a gift to her boyfriend. That's the scene the book is withholding and it is withholding it *very* well.
 
-GATE 6 — The Long Way
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: Sweetest chapter in the book and the most frightening one, in the same breath — the cup she was allowed to overfill did more to me than the entire bench. I want to watch him call her, and I want to know whether he's going to keep being this good to her when Randi's not the one holding the leash.
+ALMOST-STOPPED: "Did she eat all of it?" — that's the closest I came to putting it down, because Vee's body is being served at a table she doesn't know she's at, and for one second I thought, I don't want to be at this table either.
+WHY: The eroticism and the dread are coming from the exact same source now, which is a hell of a trick and I'm not immune to it. Short chapter, no skin, and it's the hottest thing in the book so far. I need the next one badly, and I'm a little suspicious of myself for it.

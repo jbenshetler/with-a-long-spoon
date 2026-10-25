@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f4bbb5872a6b · 2026-09-29*
 
-REACTION
+Oh, this made me feel complicit in exactly the way I’ve been dreading.
 
-Oh, Vee. Oh, honey. The instant that blonde said, “All us girls love him,” I felt exactly where this was going, because Vee’s mother already lives inside every happiness waiting to tell her she was foolish to believe she’d been chosen. And the awful thing is that Pace had spent the whole evening making her choice possible. *If you want to.* Teaching her patiently. Giving her something firm to push against. Telling her to come closer because the distance she was keeping was what would get her hurt. Then the first woman who knows how to touch the bruise makes Vee turn all that goodness into evidence against him.
+It was hot. Randi astride Pace, telling him about Vee in the bra, about walking around her, about touching her under the skirt—yes, that got me. The fact that Randi’s desire is finally spilling out of her instead of being disguised as sophisticated friendship got me badly. She wanted Vee’s little sound. She kept it. Then she brought it home and put it between herself and Pace while he was inside her. That is absolutely the intensity I came for, and it is also such a violation that I couldn’t relax into it.
 
-Her line about his “service” hurt. It was cruel, and she knew it was cruel as it left her mouth. But I’m not angry with her the way I expected to be. I’m heartsick for both of them. She has only just begun to believe a man’s attention could be particular to her, and suddenly she walks into a room full of women who know him, hug him, and have stories about how safe he makes them feel. Of course her mother’s voice says she is only the latest. Of course she panics. That does not excuse what she said, but it makes emotional sense all the way down.
+Vee thought she was safe in Randi’s bedroom. She thought she was being comforted and dressed by a friend. She did not consent to having those vulnerable details turned into erotic material for Pace. Worse, Randi deliberately instructed her to wait a day before apologizing, then came here and reassured Pace that Vee would return—as though Vee’s movements belong to Randi because she arranged them. “Give her a day” chilled me both times. That isn’t confidence in Vee. It’s confidence in the mechanism.
 
-And Pace just answered her. No games, no possessive scene, no chasing her across the room and forcing an explanation out of her. “Yes. Sometimes. When it’s required.” Then, when she told him she could handle herself, he respected the boundary even though it plainly wounded him and left. God, that nearly undid me. The dominant fantasy here is still built out of restraint: he can lead her body around a crowded floor without hesitation, but when she withdraws permission for his care, he does not impose it.
+And Pace disappointed me here. He has this beautiful instinct that some things Vee tells him are hers, yet he accepts Randi’s report of her crying, her underwear, her body, her involuntary sound. He stops when Randi says she had her hands on Vee’s legs, but only because it arouses him—not because he recognizes he has just been handed something Vee never offered. Immediate consent remains sacred to him while informational consent apparently doesn’t even register. That contradiction is no longer background dread. It is the center of the bed.
 
-The bartender’s answer made me want to put my head down on the table. He gets drunk women home safely, leaves them at their doors, and apparently refuses every opportunity people keep hoping he’ll take. And he does not usually bring dates. Vee wasn’t looking at the rule. She was the exception, and the other women knew it before she did. “Wasn’t him they were jealous of, honey” is absolutely the line I’d text a friend at one in the morning with twelve exclamation marks.
+Still, Randi staying down afterward, sleeping against his heart, affected me. She is becoming softer and more at home with him at precisely the moment her conduct toward Vee becomes hardest to forgive. That is what hurts: none of this feels fake. Their tenderness is real. Their desire for Vee is real. Their care may even be real. But they are using Vee’s trust as shared intimacy before she knows there is a “they.”
 
-What I loved most, though, is that the chapter did not let jealousy become sexy proof that she cares. Vee hurt him. She sees exactly what she did: punished him for being the man she wants him to be. She doesn’t excuse herself with insecurity, and she doesn’t wait for him to come soothe her into innocence. By morning she has decided she must repair it. That makes me trust her.
+I’m continuing because Vee is about to walk through that door believing the clothes, the timing, and the reconciliation are hers alone, while both people waiting behind it have already discussed and eroticized the entire morning. I need the book to understand how grave that is. If it treats the eventual threesome as proof that the deception was harmless, I’m gone.
 
-But she is going to Randi, and every alarm in me is ringing. Not Cassie, who would come immediately and tell her the truth without using it. Randi—the woman who already knows Pace, already knows his history, and cannot answer Vee honestly without exposing the entire game. Vee is about to bring her fear of being interchangeable to the person most responsible for making her situation something other than what she believes it is. Randi may comfort her beautifully. She may even mean every word. That is what frightens me.
-
-And the dancing itself was almost indecently tailored to me. “Give me something to push back against.” “Come all the way in.” The fixed frame letting her stop anticipating and feel his lead. That is exactly the control I want: she is not limp, she has a job, she supplies resistance, and because the structure is secure she can surrender the guessing. It was hotter than plenty of explicit scenes. The fact that the sensation of his lead is what stays in her body after everything goes wrong makes it hurt even better.
-
-I need the next chapter immediately. I need to see what Randi does with this confession, and whether Vee goes to Pace herself afterward and gives him a real apology without making him comfort her for having wounded him.
-
-GATE 28 — Lesson
+GATE 30 — Space
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “Does your *service* include getting the girls home safe from here, too?”
-WHY: That line hurt enough to make me want to flee the scene, but the chapter understood it was a wound Vee inflicted, not a cute jealous claim. The dance gave me the exact consensual dominance I read for, the rupture mattered, and now Vee is walking straight toward the most dangerous possible confidante.
+ROMANCE: 2
+ALMOST-STOPPED: “She’ll come. Randi said it easily, as a thing already known. ‘Give her a day.’”
+WHY: This was intensely hot and deeply violating at the same time. I’m racing onward because the trap is now fully visible, but the reckoning must honor that Vee never consented to being made into their shared secret and sexual material.

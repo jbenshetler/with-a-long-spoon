@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
 **REACTION**
 
-He took two breaths. I read that line three times. *He took a second breath. She had not heard him do that before.* His hand began two different answers on her shin and put both down. So the meal sentence got to him. It went in. Then he looked at it and handed her back the bed: "I love how good we are together." That was the safe word, the one with "love" in it that's really about sex. And "what your body does." She gave him a poem about being fed, about the hunger she's had since girlhood that the jacket keeps promising, and he answered about her body. It's the exact thing she told Randi she loved about him, that he wants *her* with the body attached and not the other way round. For one sentence on that porch he turned it the other way round. I don't think he meant it cruelly. I think it was the only answer he could give without saying the words. That's worse.
+Oh, the shirt. I'd forgotten I was carrying it until it came back. She washed it in forty-five because it had stopped smelling like him, and he put it on over his own shirt in his kitchen and wore it all weekend for her. That was one of the tenderest things in the book. Now here it is in her bunk at two in the morning, and it's doing its job perfectly, and that's the problem. Every part of him is in the cloth: the sawdust, the salt, the rooms he keeps warm for her. And none of it tells her what she is to him. Then "it was warm because she was warm" hit me the way the cold hits her when she pulls it off. The comfort was her own heat coming back at her. I've been in that bed. Most of us have.
 
-What really gets me is the contrast I'm carrying from four chapters ago. Randi asked for "something nice" and he thought about it "because she would know the difference," and gave her "extraordinary." He gave her "I'll be careful with you." Vee doesn't ask for anything. She builds a whole structure so she never has to ask, hands it over finished, and gets a kiss on the hair that lasts one beat too long. I'll give him that kiss. It was real. The arm around her shoulders was deliberate, and the book says so. The care is on the page, I'm not stupid. But the care is there in place of the answer, and he knows she'll take it as one. That was my worry from the mirror, and now it's happened at dawn under his own quilt.
+What I love is that she doesn't put it back on. She lies there bare in a cold room with the window cracked two inches and won't let herself be soothed by a stand-in. She doesn't write a text designed to fish for something. She doesn't let a small warm reply put her to sleep. It isn't a breakdown. It's a refusal, and it's hers. I can't tell if it's self-punishment or the start of a spine. I think she can't tell either, and I trust the book more for not telling me.
 
-And she knows the rule is hers. "She did not know the rule was a rule until she had bumped against it from the inside." That isn't him coercing her. It's something she was raised into, or taught herself. He isn't making her wait to say it. He's just letting her. I'd forgive him almost anything else, but this is him being good at not asking things, which the book told me two chapters ago, over the flannel. Then it was a gift. Here it's a wall.
+But I know things she doesn't, and it stings. "Across town in his own bed, gone down easy as a man with nothing grinding in him." Maybe. Or maybe Randi is folded over the back of his couch telling him how Vee leaned up after her on the sidewalk. I've seen him use that word, "work," and I've seen him with Randi's head under his jaw saying "I'll be careful with you." That's the closest he's come to it with anyone. After that, Vee lying uncovered in the cold over the word he hasn't said is almost too much. I want to shake him again. Then I remember Chili's, the fork squared to the table, "I'm listening now." Not saying it may not be withholding. It may just be how he's built. She's reading a man who can't take a loud room as a man who won't take her. Nobody has given her the information that would fix that, and the person who could is the one sitting across the brunch table collecting her confessions.
 
-The laundry room hurt in the right way. "Either end of it hurt." "The place was not empty." So there's a pile now: "I don't go back," Sheri's pie, the smile in the mirror, and now this. She's filing him. The cracker-and-meal will never come out of her mouth again. I feel like I watched a girl decide to be smaller and it was so quiet nobody in the house heard it.
+My honest hesitation is that this is the third chapter in a row of her circling the unsaid word: the porch, the bed after Chili's, now the bunk. "Not the big one and not the small one" came back almost word for word. The ache is real and the writing earns it, but I'm starting to feel the loop. This was short and exact, and I'll take one more. But the next thing needs to be him in a room with her, or someone saying something out loud. I've done my time in the cold with her. Now I want her to get something for it.
 
-I'll be honest: the prose went round in circles on me. All that "the not-saying had a shape pushed into it," every thought restated twice. Some of it worked, the circling is what she's doing, but in the middle of the porch section I wanted the book to stop explaining her and let me feel her. The laundry room fixed it. The dryer stopping fixed it.
-
-At least they were alone in a room, no Randi, no story. Not even sex, and I didn't miss it. I wanted the kiss on the hair to be the answer. It almost was.
-
-What I'd text at 1 a.m.: *she said she'd been eating crackers her whole life and he said he loves how good they are TOGETHER. he took two breaths first. two. he knew.*
-
-GATE 47 — Seconds
+GATE 49 — Bare
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
-HEAT: 0
+NEXT: 7
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "and the not-saying had a particular shape pushed into it now that the rest of the not-saying did not have." That's where the circling nearly made me put it down, right before the dryer saved it.
-WHY: Quiet and alone with him, and it hurt properly. It's the first crack she actually feels, and it's built from his restraint, not his cruelty, which is the version I can bear to read. I need to know what that second breath was, and whether he ever goes back to the porch to say it.
+ALMOST-STOPPED: "there was no name in her for it, not the big one and not the small one" — the book repeating itself after three chapters on the same ache.
+WHY: Taking off the shirt and staying cold is a real choice that belongs to her, and the "warm because she was warm" line got me. But I'm at my limit for the unsaid-word loop. The next chapter needs a door to open, not another night of her lying awake.

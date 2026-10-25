@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
 REACTION:
 
-Oh, this broke my heart into a dozen pieces.
+Oh, god. My stomach is in knots. This chapter felt so exposed, so humiliatingly real, and so profoundly lonely.
 
-I was not prepared for this chapter. After the pure adrenaline rush of Wednesday's roadhouse, and then that fever-pitch chapter 64 where Pace and Randi are fucking like demons while obsessing over Vee, and then the absolute riot of meeting Sheri in the taproom... to wake up here, in this quiet, cold, hangover-bright kitchen, felt like walking into an empty church.
+First of all, I felt that wax strip in my *teeth*. Anyone who has ever had a first-time Brazilian knows the absolute lie of "barely stings," but seeing it happen to Vee—who goes into it armed only with Randi’s silky, high-end, minimizing lies and Pace’s quiet, devastating asks—just broke my heart. Randi leaving out the part where you have to flip over onto your stomach? Of *course* she left that out. Randi is so practiced at curating Vee’s degradation into "luxury" and "power." *The most expensive thing in the room.* God, that phrase is poison. It sounds like an elevation, but it literally means *an object with a price tag.*
 
-Pace making cinnamon raisin bread from scratch while she sleeps off her cider. The folded paper towel under the water glass so the wood wouldn't mark. It’s those tiny, devastating details of domestic care that make me love him so hopelessly, even while I want to shake him until his teeth rattle. He is so profoundly *good* to her in the physical world. He waters her like a plant; he feeds her; he puts his softest clothes on her back.
+And Pace. Look, he asked. He looked her in the eye and said "Will you?" and that consent mechanism is the reason I haven't thrown the book across the room. But the dynamic happening underneath it is getting so dangerous. He asks for something extreme ("Bare. By the weekend.") without giving her a reason, because he knows her appetite and her hunger to please him will override every single instinct of self-preservation she has. He doesn't have to force her; she forces *herself* to cross the line before she even knows where the line is drawn.
 
-And then the ax falls. Not with a shout, but with that awful, flat, mathematical plainness: *"Sheri is my friend. My one friend. There isn't anyone else."*
+The part that actually made my breath catch, the part that was so brilliant and horrifying, was when Sondra pinned her leg down:
+*“The wrong hand. It held her the exact way she wanted to be held and it did not want her at all, and what it did, pinning her under the flat of its palm, was open a hole in her a mile across where the right hand should have been.”*
+That is so psychologically devastating. Her body has been conditioned to associate physical control and restraint with Pace’s all-consuming attention and tenderness. When an indifferent aesthetician in rubber gloves puts a firm hand on her thigh just to do a job, Vee's brain short-circuits. She feels the ghost of his dominance, realizes there is zero love or warmth behind this specific touch, and the emptiness of it nearly swallows her whole.
 
-My god. The sheer, echoing loneliness of that sentence. When Vee started pushing—because she’s twenty-one and her whole life is noisy dorm rooms and borrowed clothes and shared cafeteria trays—and he laid out his entire life like an autopsy report... I had a lump in my throat the size of an apple. *“Men make friends by competing... I was never once in the pack.”* And then that knife-twist about the men who *“either weren't safe or weren't welcoming,”* tying straight into his father and him fleeing home at sixteen.
+And then she rolls over. That false floor. She realizes she could say no, but she feels so compromised, so far down the road of "giving over," that she thinks she doesn't have the standing to have a boundary anymore. That is the trap. When you give away the big pieces, you convince yourself that fighting for the small ones makes you a hypocrite.
 
-Vee seeing Daphne clearly for what it was—not just romantic tragedy, but grooming, an older predator taking advantage of a brilliant, isolated fifteen-year-old boy who had literally no one else in the world—was such a mature, devastating turn in her head. She finally stopped seeing Daphne as a romantic rival and saw the horror of it. Pace had one person who carried all of him, and she abandoned him, and he has spent the last decade building a fortress of polite distance, baking bread, and convincing himself that isolation isn't tragic.
+Yet at the very end, when she touches herself and feels that terrifying, alien smoothness, her mind immediately flies to him. She endures the white-hot pain and the clinical exposure just to buy that one second of him realizing what she suffered for his pleasure. It is submissive devotion at its most raw, but she is doing it in a vacuum, entirely unaware that the man she's suffering for spent Thursday afternoon getting ridden by her best friend while they talked about Vee's breasts.
 
-And then Vee’s reaction. She didn't offer pity. She didn't patronize him with easy words. She walked around that counter and gave him the exact hug Sheri gave him—full weight committed, no demands. When he rested his chin on her head, looking out the window, just letting her hold him... that was pure, aching intimacy.
-
-The tragedy, of course, is that while he's telling her Sheri is his only friend, he's actively hiding Randi. Randi, who is currently tearing through his bed and his psyche, an accomplice rather than a friend. Vee thinks she's holding a man who has nothing, completely unaware of the web he's spun around her. But the tenderness here? The absolute emotional weight of it? It gutted me.
+The collision is coming. She is offering up her absolute vulnerability on an altar, and the two people at the altar are keeping a secret that will level her when it breaks. I need to see his face when he sees what she did. I need to see if he flinches with guilt, or if he just takes it.
 
 ***
 
-GATE 66 — Hangover
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The quiet emotional devastation of Pace explaining his complete isolation, paired with Vee finally seeing the reality of his trauma without pitying him, was masterclass character work. It aches so beautifully.
+WHY: The psychological accuracy of the consent dynamic—how she gives away her boundaries before she even understands the cost, and how her body misinterprets clinical restraint because of how Pace has conditioned her—was completely gripping. I felt every rip of the wax, and the impending weekend where Pace discovers what she did for him makes it impossible to put down.

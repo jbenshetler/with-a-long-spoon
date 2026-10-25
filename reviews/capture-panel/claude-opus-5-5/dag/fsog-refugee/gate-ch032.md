@@ -1,20 +1,33 @@
-*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 14896ed4fc37 · 2026-10-10*
+*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-10*
 
-**REACTION**
+## Reaction
 
-Oh, I loved this one. I needed it after the practice room, too. I finished chapter 33 with my stomach in a knot. Randi steered "did you deserve it?" until Vee agreed, then told her own story until Vee was in a bathroom with her hand pinned flat on her knee. This chapter gave Vee back to herself. Nobody here is narrating her body to anybody. She makes one decision on the second step, *made the second step long,* and every bit of the heat afterward belongs to her. I felt it come up with her. The murmur in the rows, keeping her face exactly where it was, "the room knew, and not a soul in it could have said so out loud." This is what I mean when I say I want a heroine's desire rendered from inside. A woman with no underwear in a room full of strangers' parents could have gone cheap fast. It doesn't, because she's choosing and the book never invites anyone to leer at her. It's simply her nerve.
+Oh, this one I loved. It's just her, all the way through.
 
-Then there's the line about her mother, "nobody in this room who had ever taught her what to be ashamed of." I had to stop on it. Pace told Randi "She's ashamed. Somebody taught her," and here it lands in Vee's own head, without anybody handing it to her. She's relieved her mother isn't there and hates herself for it, and Cassie's kind answer was "not it." That felt true to me. Cassie got so close! And finally, FINALLY, Cassie sees the dress. "You look—" with no ending, "which from Cassie was a standing ovation." Then she takes the photo, buys her a terrible sandwich, and calls her "streetlight." Cassie is still the only person in this book who wants nothing from Vee, and I'd follow her anywhere.
+She's the one who plans it, and he's told no to everything. "Do I get to guess?" No. "Do I get to help?" No. She puts him in the recliner and he stays there. Then the dress hits him and he starts to get up, and she puts out one flat hand and he sits back down. I had to stop and breathe at that line. It's the feet on his chest from the sun porch again, *he stopped where she put him*, except this time she's standing, fully dressed and then not, and she's running the whole thing. "She watched him make himself do it." And his hand comes partway up and he puts it away, and she can see what that costs him. That's the man I came to this genre hoping for and left it without ever finding. Twice now I've watched him want her that badly and wait to be invited.
 
-What I'm watching: the photo. She sends it to Pace "uncropped," and "that part was hers." It's the ladle again, and she keeps the middle. Fine, she's allowed. But my notes keep reminding me who else ends up with Vee's things. If that photo turns up on Randi's phone, or comes out of Randi's mouth, I'll feel sick. Randi is in this chapter too, kneeling to do the ankle strap with two fingers, so she's in the shoes even when she isn't in the room. And the outlier lecture from last chapter is still in my ear, the kind that "comes in through the part that carries forward." I don't think the book put it there for nothing.
+And it's her desire, told from inside her. Nobody asked her to bring the dress. She packed no overnight bag but she packed the dress, which made me laugh, because it's so her: she won't admit she's planning to stay, but she's thought hard about being seen. She clomps out to the car in his boots like a kid playing dress-up. She hangs the silk up properly before she goes back out naked, "a thing somebody's hands were in." The blush is going down her chest, she knows it, and she walks out anyway: "the entire costume." The last line got me: "she did not cover one inch of it." This is the girl with *floozie* and *slut* in her head, the one who was ashamed of how wet she gets, standing in his lamplight letting herself be looked at, by her own choice, and it's not a punishment.
 
-On Pace: I'm reassured by how he's missing. He's quietly sorry, he remembers the cherries on the mountain, and he made the dress for exactly this room. I'm not worried about the gap. Chapter 32 was so recent, and its back half was so good: the hand on the place, "This?" and *please* attached to nothing. Still, Vee has now had a kitchen discovery, a Randi story, and a public walk that lit her up, and Pace is in Berkeley for three days while Randi is right here. I want him home.
+"The other is for the world. This is just for me." That's possessive and I want it. It's the good kind, because she offered it to him and he's only naming what she gave. Sunrise and sunset is a corny line, and she gives him an eyebrow for it, which I liked too.
 
-GATE 34 — The Induction
-DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: Vee owned her heat start to finish, with no one steering her, and Cassie finally got the dress. That gave me back some of the trust the practice room cost. I want the next chapter mostly out of worry: Pace is away for three days, Randi is close, and Vee has a new secret she's keeping from everyone.
+What's still nagging at me, quietly: Randi's in the room even here. "The dear black straps Randi had knelt to buckle." The heels are Randi's find, on a card Vee can't pay off. The heels have sat by his bedroom wall since the bet, and that bet started with Randi's spanking story in the practice room and his hand on the inside of her knee. I told myself the knee was my line. In the moment it read as his, it read as asked, and when she said "Don't" his hand was just gone. So I let it go, but I haven't forgotten. Then there's Sheri. He told her that Randi "knows" and "likes her," and when Sheri asked about the redhead he said "Not yet." Vee is giving him everything with nothing on, and she still doesn't know what he is to Randi. This chapter is pretty enough that it makes me nervous about the bill coming.
+
+And Cassie's in town on Halloween, presumably, while Vee is twenty minutes out. Again.
+
+What I'd text a friend at 1 a.m.: "She made him sit in the chair and HE STAYED IN THE CHAIR. I'm fine. I'm totally fine."
+
+## GATE 36 — Made-Up
+
+**DECISION:** CONTINUE
+
+**CAPTURE:** 8
+
+**NEXT:** 7
+
+**HEAT:** 2
+
+**ROMANCE:** 2
+
+**ALMOST-STOPPED:** none. The closest was a small flinch at "the dear black straps Randi had knelt to buckle in the boutique," which reminded me who's really in this room.
+
+**WHY:** She stages it, she's in charge of it, and the one time he moves she stops him with a flat palm and he obeys. That's control making room for her, and her nakedness here is pride, not shame. It doesn't pull me forward hard on its own because it's a held breath, not a door closing. What drives me on is the Randi lie still sitting under all this sweetness.

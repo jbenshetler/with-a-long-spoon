@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch013 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-24*
+*capture-dag-v2-rich · gate ch013 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1ce3e8ef8f1d · 2026-10-24*
 
 REACTION
 
-Oh my god, Randi is *breaking my heart* and she's doing it to herself and Pace is completely blind to it.
+Okay, *yes*. We are finally going to the house! Two o'clock on a Saturday. Kayla is completely right—"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon." My stomach actually did a little flip when the text came through on the table. After the truck scene on Sunday, and then watching Randi come over in Chapter 13 and ride him while begging for details about Vee ("Her stomach is soft"—and him keeping the truck secret to himself!), it has been two chapters since Pace and Vee were in the same space, and they *still* haven't been alone in an actual room with a door that closes. Now Saturday is right here.
 
-Can we talk about what just happened in that bed? Because on the surface it's hot as hell — her walking him backward out of the kitchen, pushing him down on the bed, sinking down onto him an inch at a time and making him watch her face until he groans. I was right there for it. And Pace keeping the truck scene private again ("That she had given him herself, in the truck with the rain coming down, and he kept it") made my chest ache in the best way. He is so careful with what belongs to Vee.
+I loved seeing Vee at this table in the golden light, laughing with her whole body—Wait. Hold on. The athletic dorm dining hall, laughing with her whole body so loud and easy the next table looks over... is *this* the dining hall she was walking out of with Meg and Kayla when Randi and Pace spotted her on the quad in the pointing game?! Oh god, it totally is. She has actual normal, warm college friends who hype her up and steal fries, and it makes me love her even more.
 
-Except in keeping the *story* of the truck private, he just gave Randi the sensation of it: *"Her stomach is soft."*
+Notice what she left out when she told Meg and Kayla about the shirt, though! With Cassie, she told the whole truth: *I knocked on the glass and I called him back in and I took my wet shirt off in front of him.* With Meg and Kayla, she skipped right over stripping for him and just said she turned around and he was shivering so she didn't kiss him. She kept the real part of the truck for him (and Cassie). Just like Pace kept the truck from Randi! They are already building a private world between the two of them that nobody else gets let into, even when they're talking about each other to other people.
 
-I gasped when I read that. Literally put my hand over my mouth. Because remember who he is saying that to! He is saying "Her stomach is soft" to the girl who starves herself on thin apple slices and gray egg-white smoothies, whose mother and sorority have trained her to hate every ounce of flesh on a body, who is riding him right that second with her own belly *"tight as a board."* Look at what happens to her the second he says it: she clenches hard, shuts her eyes, freezes, and then starts driving on him like she's trying to outrun something or punish herself, and tears out *"I want us"* at his ear. Not "I want her." Not "I want the three of us." *I want us.* And Pace — this man who notices a hot spot on a heel and reads the rain in a silver sky — thinks it's just the want for Vee being too big for her! He has no idea that hearing him praise a soft stomach just gutted her, or that she's terrified she's already being replaced.
+And her trying to explain to her friends why he's driving her crazy: *"He's not pushing. It's the opposite. He asks me first. The small things. What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it... And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner."* God, if that isn't the entire thesis of why I'm obsessed with this man. When a man isn't grabbing at you or trying to talk you out of your boundaries, all the space left over gets filled up by *your own want*. Twelve days since they kissed under the tree, plus that electric strip in the truck, and now she's walking through his front door at two in the afternoon with his flannel shirt folded on her pillow right now. Put me in Saturday immediately.
 
-And the details before they even got to the bed! She turned the deadbolt when she came in. She didn't put her coat or her bag on the chair by the door. She walked in knowing she was leaving right after. And afterwards, she skips the one part of sex she usually keeps for herself (lying loose on his chest), grabs the cashmere blanket just for a second while she shivers, dresses with that awful bright "No thanks" / "I'm good" voice ("the face" is back on!), and leaves him standing in the doorway.
-
-And seeing Pace hurt at the end — standing in the open door with that low, plain ache in his chest because for the first time since their first night she didn't want to stay, and then eating alone at the table and still being hungry — really got to me. For twelve chapters he's been the unshakeable center of the room, the one holding the space for everyone else, and here he is confused and lonely in his warm kitchen because Randi locked a door he doesn't even realize is closed. This book is so good it's making me dizzy. I need to know where Randi goes in that car right now.
-
-GATE 13 — Swim Lanes
+GATE 14 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 9
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The erotic heat of Randi taking control on the bed was a 3, right up until "Her stomach is soft" turned the whole scene into an emotional landmine. Watching Pace protect Vee's secret while accidentally breaking Randi's heart — and then feeling his quiet hurt when Randi leaves for the first time ever — has me completely hooked.
+WHY: A short, warm bridge chapter that gives me the exact invitation I've been waiting fourteen chapters for: Vee finally going to Pace's house for the afternoon. Watching her try to explain how his patience and asking have her climbing the walls—while keeping what she did in the truck private from her dinner table—has me turning the page immediately for Saturday.

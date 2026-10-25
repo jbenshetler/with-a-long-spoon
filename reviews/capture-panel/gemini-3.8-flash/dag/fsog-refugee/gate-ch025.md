@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3e3674d6874c · 2026-10-01*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 08b46669b5c5 · 2026-10-01*
 
 REACTION:
 
-Oh, god. My stomach is completely on the floor.
+Oh, god. My stomach is in knots. Actual, physical knots.
 
-I’m sitting here in the dark after reading this, and my chest hurts so badly I can barely breathe. This chapter was breathtakingly tender—the kind of quiet, clothed intimacy that cuts a hundred times deeper than any sex scene—and it is utterly terrifying because of what we know. The dramatic irony has officially turned into a knife that the book is twisting inch by inch into my ribs.
+The first half of this—the sheer, miserable reality of the morning after a fight you started and immediately regretted—was so painfully accurate it made my chest ache. Sleeping in his shirt to hoard the smell of him until you hate yourself for washing it, hiding under the covers while your roommate gets dressed, the cold water shock at the sink trying to wash off the clown makeup. I felt every single second of that walk across campus. Vee carrying her little panic like a cup filled to the brim that she doesn't want to spill.
 
-First of all: *Peter*. Hearing him give her his real name, and telling her about his childhood? Him at fifteen, a literal boy who got his desk put out in the hallway because a teacher didn't know how to handle his brilliance, doing long-division worksheets as a punishment for loving the thing that made him alive? That broke me. And then Daphne. When Vee did that arithmetic—nineteen and fifteen, assigned to him as an older tutor, the only soft place in a dorm full of adult men, and he defends it and calls it luck because he has no idea how vulnerable he was—my hand went right over my mouth just like Vee’s. It makes his absolute, immovable reverence for consent so achingly clear. He knows what it is to have people take things from you before you're ready, or maneuver you when you don't have the map. He protects Vee's pace with his life because he knows the cost of having your pace stolen.
+And then she walks straight into the spider’s parlor.
 
-And that moment with the scar on his inner thigh! *"Not tonight."* No defensiveness, no snapping shut, just covering her hand with his, keeping her skin pressed against his, and saying *not yet*. He leaves the door unlocked. He lets her hold the mystery without shutting her out. That is pure romance. That is a bond snapping into place so hard it feels structural.
+Randi is *so* terrifying because she is genuinely, brilliantly good at this. She gives Vee the exact medicine she needs: she doesn't scold her, she validates her jealousy (*"You don't get that jealous over a man you don't care about"*), she re-centers Vee's power, and she makes her laugh. Calling her out on Edna Mode had me laughing out loud. But the absolute masterclass in grooming and possession that happens next made my skin prickle with heat and dread all at the same time.
 
-And then... the ending.
+Randi getting down on her knees. Reaching *up under the skirt* to steady Vee's bare thigh. The thumb pressing into the hollow behind her knee. Testing the architecture of the shoes, putting her own silk around Vee's neck, and then—the line that made the hair on my arms stand up: *"Maybe you just haven't met your Evil Queen yet."* She's telling her right to her face! She is literally dressing Vee up like a doll to send her back to the man *they are both sleeping with*, and Vee is so starved for female warmth, for glamour, for someone to tell her she looks like "dinner in Paris," that she's drinking the poison down like sweet wine.
 
-The last three paragraphs made me want to throw up. Vee lying in his bed, listening to him breathe, feeling lucky. Thinking about how six weeks ago she "stumbled" into Randi outside the dining hall, and then ten days later she complained about an integral and this magnificent man crossed the room. *"One piece, he'd said, about the leaf and the stars. It felt like that. It had come to her all of a piece, the one and then the other, in six weeks, for no reason she had done anything to deserve. She had never been so fortunate, or so happy."*
+And that kiss in the foyer. *"She hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."*
 
-Helen Rivers is a sadist. She is setting us up for an absolute demolition. Vee thinks it was fate, a miracle, a gift from the universe because she finally bloomed. She doesn't know it was a design. She doesn't know Randi aimed him at her like a weapon. Seeing Randi in chapter 26 practically drooling over Pace's descriptions of Vee, pacing the kitchen in his undershirt, talking about Vee like a meal they're preparing together—and now Vee is lying in his bed, utterly safe, whispering his real name into the dark.
+It’s normalized now. The trap has closed. Randi has successfully insinuated her mouth, her clothes, her scent, and her rules into Vee’s life, and Vee thinks she just found the best big sister in the world. Meanwhile, Pace is sitting in that house off 614 waiting out the silence, having no idea that the girl who is about to walk through his door in cognac heels and green silk is carrying Randi’s fingerprints all over her bare skin.
 
-I can't stop. I couldn't stop if the building caught fire. I need the next chapter right now.
+I feel sick for them, and I cannot put this book down.
 
-GATE 27 — Rock
+GATE 29 — broken-in
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute emotional weight of Peter opening up his past, paired with the nauseating gut-punch of Vee's innocent gratitude at the end, makes this impossible to put down.
+WHY: The psychological tension between Vee and Randi is suffocatingly good; watching Randi groom her and dress her under the guise of sisterly comfort is brilliant, erotic, and deeply ominous. I need to see Vee walk through Pace's door tomorrow night.

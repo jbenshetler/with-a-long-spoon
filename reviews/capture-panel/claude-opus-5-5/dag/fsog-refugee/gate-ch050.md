@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8219a10af610 · 2026-10-11*
 
 **REACTION**
 
-Oh, Vee. The two texts crossed, and I had already read the other end of them. Last chapter I watched Randi type "fairytale" with the lipstick still on John and the cold lying beside her. Now I watched Vee get it under the little gold swimmers and turn it into a billionaire and a weekend so wild she wouldn't recognize half of it. "Every word of it true. None of it the thing." And Vee bought the whole thing and felt grateful that Randi made the time. I wanted to reach into the book and turn her phone over for her. Both of them were lying in the cold that night, six hours apart, each sure the other one had the warmth.
+Oh, Randi. You gorgeous, terrible, half-honest thing.
 
-The part that got me was the fra diavolo memory going wrong while she was inside it. She reached for her best night to warm herself up and her imagination took it away from her, put a blonde in her sheet and Pace smiling at someone else. I've lain awake like that, and it's exactly how midnight jealousy works: your own good memory turns against you. "She could not keep her own night." That hurt.
+What wrecks me is how *good* her advice is. Most of it is just true. I was in that diner with him last chapter. I watched him say "I want Vee. I miss her," sob over a bowl of freezer chicken, and get told by Sheri, who is dating a girl named *Paige*, to say the damn word. So when Randi tells Vee "fear needs a face to point at" and takes the blonde apart piece by piece, I wanted to stand up and clap. Making her start the story over slow, setting down the warm house and the poured wine one at a time, is real care. "That's a boy holding himself still so it won't show how much you got him" is the most accurate thing anyone has said about Pace in this whole book. She's right. She's completely right.
 
-I'm angry at Pace again, and this time it's with her, not just for her. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." Yes. The no-chase at the door felt like respect two chapters ago. A whole week of silence over Christmas feels like something else. Giving someone room is a kindness when she asks for it, and she didn't ask for this. A text would have cost him nothing. One word. He's the man who turns the heat up hours before she arrives, and he's let her lie in a cold room for a week. I know the book is holding him offstage on purpose. I can feel it doing it, and I'm counting. This is two chapters since they were last in a room together, and that room was a door closing.
+And then: "Words are the whole war." Pace said "words are cheap." Now Randi says "don't do it with words." Two people who love Vee, and neither will say love to her, and both are steering her off the one thing she asked for. Vee walked out of that house because she wanted a word. She's walking back tonight having agreed not to need one. Randi made it sound like courage, and some of it is. Walking her past "slutty" was genuinely kind, and I loved watching Vee find the end of the sentence herself. "And nothing under it." That's her desire, from inside, and it's hers. But I know what Randi gets if Vee stops asking for a name. The arrangement stays exactly as it is. The table stays where it is. "Let Vee arrive at it on her own." She said that to herself in Gstaad, and here she is building the road.
 
-The scissored photo got me too: "Same picture, one house, and she was the one who had divided it." She cut it herself, before anyone else had to. Then there's the little moment where she knows whose money paid for Gstaad and envies the mountains anyway. That's honest, and I liked her for not pretending to be better than that.
+The shoes. Her nipples go tight holding Randi's shoes, with Randi's fingers still hooked through the straps, and she files it under "tonight" before the ache is even over. I said out loud, *honey, no.* The book is winking, but at me, not at her, and I'll take that kind of wink. Randi is going to be on her feet when she walks into his house. That's a claim, whether Randi knows she's making it or not.
 
-Two things knocked me out of it for a second. One was the "you burrowed" in the very first sentence, which read like a slip. The other was "a stripper's" about her own body. I understand it's what she thinks of herself at midnight, but it stung, and I'm not sure the book knows how hard.
+Then Vee came back and kissed her. Vee started it, for once, and the whole chapter flipped. Randi with the back of her hand to her mouth like she's fifteen, the idiotic laugh in an empty hall, "she came back." I've been angry at Randi for forty chapters and I melted. That's the realest she's been since "It doesn't."
 
-What I'd text at 1 a.m.: *they sent each other the SAME lonely night and both thought the other one was at the ball. And he still hasn't texted her. I'm going to scream.*
+Then Brooke, smiling the whole time: "You need to choose." Lauren Pike. Play all you want, for the boys. That one chilled me. I never thought the threat would come from inside the sorority house.
 
-GATE 52 — Old Acquaintances
+I'd text a friend at 1 a.m.: *she's going to his house tonight in a coat and Randi's heels and I don't know whose gift she is anymore.* It's been four chapters since they were in a room together, and I feel every one of them. I need that door to open.
+
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "a fashion model's body where Vee's was a stripper's" — it pulled me out for a beat and left a sour taste.
-WHY: A quiet, lonely chapter, and it pulled me in mostly through the crossed texts and the memory that turned on her. What I want right now is term starting and the two of them back in a room, and I want him to be the one who reaches first. I'll give the separation one more chapter on credit, but I'm counting.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Pace is not going to open his own door, see what you brought him, and say no." For a second it sounded like his yes was being taken for granted, the old genre logic. But I know him. He'll ask anyway.
+WHY: Randi gave Vee the truth and a trap in the same breath, and I can't separate them any better than Vee can. Then Vee kissed her first, and Brooke made Randi choose, and Pace has spent a month sobbing over chicken. Tonight is the door I've been waiting four chapters for.

@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION — Oh, the drawer. The *top* drawer. He took his own careful life and compressed it so she wouldn’t have to apologize for taking up space in his house. He didn’t tidy her away; he made somewhere for her to belong. That is so precisely the thing I want from him that it nearly hurts. No speech, no grand claim, just: your hand should find your things first.
+REACTION
 
-And she loves him. I knew she was falling, obviously, but hearing her finally let the word exist—and then whisper “Peter” when he couldn’t hear her—got me. His private name is almost her answer to an “I love you” he hasn’t said. I understand why she can live inside everything he does, because the open door, the food, the scrunchies, the drawer, his arms around her amid the mess: those are not small gestures. He is building her into the ordinary shape of his life.
+Oh, I needed her to have somewhere that belonged only to her. Not Pace’s house, not Randi’s table, not Cassie watching clearly from across the room—just Vee in a lane her body has known since she was twelve, doing something nobody arranged for her. Even the fact that she chose lane three once and everyone else quietly learned to move around her felt important. She is so constantly being looked at now, interpreted, desired, dressed, guided. Here her body has no opinion and no audience. It only works. What a relief.
 
-But I also felt that tiny ache every time she thought, *He never said.* She says she can live without the words, and perhaps she can for now, but she is already watching his silences for answers. The bathroom counter frightened her because he never tells her what he minds. Then the empty counter frightened her again because she had to open a drawer and discover what he meant. This time his silence concealed something beautiful. Silence will not always be so kind—especially with the enormous truth he and Randi are still withholding.
+And I’m glad the book let the doubt exist without turning it into a warning siren or immediately answering it for her. “Is he really this good, or have I made him this good because I want him?” is exactly the question she should be able to ask when she is this happy and moving this fast. I don’t think Pace is imaginary—his care is in the scrunchies, the drawer, the food, the way he stops—but Vee is living almost entirely inside the force of his attention now. Her own bed is becoming the exception. Love may be true, and “too fast” may also be true. I want her to keep enough of herself outside his house that she can tell the difference.
 
-The reunion itself made me melt. A week apart, and he lifts and spins her before she even reaches the door—but even hungry, even with her clawing at him, he remains attentive and unhurried about her pleasure. That is the intensity I came for: not a man overwhelming her because her wishes are irrelevant, but a man wholly focused on what her body is saying and delighted to give. Then he feeds her. Then he comes back to her. Yes. Exactly that.
+The swimming not answering anything worked on me. It didn’t solve her; it returned her to herself. By the end she can carry the shape of the question without having to surrender it to somebody else for interpretation. Especially Randi. Especially now. I’m not desperate because this was quiet, but I am very ready for the next door to open—and increasingly frightened by how much happiness is accumulating before Vee learns the frame around it.
 
-The weight-loss passage worried me slightly—not because I think Pace is doing anything wrong, but because Vee’s body changing without intention is another thing happening faster than she is examining it. Mostly, though, I loved that she eats freely at his table now. She is hungry and answers the hunger.
-
-I would text a friend at one in the morning: “HE GAVE HER THE TOP DRAWER AND SQUASHED ALL HIS OWN THINGS INTO THE BOTTOM ONE. I am not well.”
-
-GATE 38 — Above Him
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: This was Pace at his most devastating: desire, food, domestic tenderness, and room deliberately made for her. I’m deeply happy for Vee—and increasingly afraid of what his beautiful silence is still hiding.
+WHY: This gave Vee back to herself for seventy-five minutes, and I badly needed that for her. The doubt under her happiness makes me more invested, not less: she loves Pace, but she is finally asking whether love and being wholly absorbed are the same thing.

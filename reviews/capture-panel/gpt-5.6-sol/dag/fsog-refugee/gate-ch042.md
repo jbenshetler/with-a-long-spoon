@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
-Oh, that hurts. Vee sees one thing Randi did not choose to show her, understands almost immediately that it is private and painful, and protects it. No interrogation, no clever little question designed to draw out the next confession, no using Randi’s face to tell her what she must be feeling. She gives her work. She gives her ordinary decisions. She gives her a way to recover without being watched recovering. That is such clean, instinctive care—and the contrast with what Randi has been doing to Vee is brutal.
+REACTION — Oh, Cassie. Again she asks the cleanest possible question and leaves Vee completely free to answer it. “Not to your dad. To you.” That went straight through me. No teasing, no seductive interpretation, no secret agenda—just *what is he to you?* And when Vee can’t say, Cassie distinguishes can’t from won’t, accepts “both,” and stops. I trust her so much.
 
-Because Vee thinks the kindest thing a friend can do is not make someone carry a painful secret in front of anyone. Meanwhile Randi has been carrying Vee’s intimate disclosures straight into Pace’s house and into their bed. Vee saw the name by accident and immediately made herself safe to Randi. Randi and Pace chose Vee deliberately and have made her ignorance useful. I want to shake both of them with this chapter in my hand.
+But Vee being grateful Cassie didn’t push and also wishing she had made me ache. She wants help naming this. Maybe she even wants someone to notice that the story she can tell about Pace is a cropped version, just like the photograph: respectable doctorate, hiking, dancing, age close enough not to alarm anyone. Below the crop is the bare leg, the expensive dress he made, the sex, the drawer, the shirt she sleeps in, the dominance, the love—and still farther outside the frame is the truth Pace and Randi are keeping from her. She thinks she’s the one deciding what her family can bear, while she still doesn’t know her own picture has already been cropped for her.
 
-And still, damn it, I ache for Randi. That “Cheating bastards” is the sound of her world changing before she has time to arrange her face. She wasn’t defending an abstract system; she was defending her father. She believed him. Whatever else Randi is doing, that wound is real, and Vee’s response to it is so tender that I understand all over again why Randi wants her. Not because Vee is beautiful or deliciously flustered or useful to their fantasy. Because she notices a person leaving herself and quietly builds her a path back.
+The boyfriend question mark bothered me more than I expected. She spends most of her nights in his bed, keeps herself in his bathroom, carries his scent home, and loves him—but they apparently have never plainly said what they are. That could have felt dreamy earlier. Now it feels dangerous. Pace’s actions are wonderfully eloquent, yes, but silence is doing too much work in this relationship. Vee cannot tell Cassie what he is because Pace and Vee have never made the language together, and Pace knows there is a whole hidden answer she has not been allowed to see.
 
-Cassie’s presence makes it worse in exactly the right way emotionally: her father was laid off, Randi’s father apparently took the money and cut people anyway, and Vee is sitting between the two of them protecting Randi from the full collision. I don’t blame Vee. I’m not even sure she should have exposed Randi there. But Randi’s family secret is tied directly to harm done to people like Cassie’s father, so Vee’s kindness cannot make the underlying thing small. That point is going to stay there.
+And the dress—God. I love that she is proud he made it. I love the weirdness of him: this enormous controlled man at a sewing machine, building beauty for her because she once mentioned wanting it. That remains intensely romantic to me. But her father’s instinct that “too good is its own kind of suspicious” landed with a thud. He would be looking for the wrong catch, perhaps, but there *is* one.
 
-This was not a sexy chapter at all, but it made Vee more lovable to me than another naked walk could have. She knows how to hold information without turning possession of it into power. God, I need Pace and Randi to learn from the woman they think they are educating.
+I would text a friend: “Her life is cropped at the waist and she doesn’t know someone else chose the frame.”
 
-GATE 44 — The Outlier
+GATE 46 — Cropped
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee’s instinctive protection of Randi was painfully tender, especially when Randi has not offered Vee the same privacy. Now I desperately want to know what Randi does with the truth about her father—and whether the book understands how completely this chapter exposes the moral difference between her care and Vee’s.
+WHY: This was quiet, but it pressed directly on the thing frightening me most: Vee cannot name what Pace is to her because their beautiful domestic intimacy still has no spoken frame—and the real frame is being hidden from her. Cassie’s restraint felt like love, but Vee’s tiny wish that she would push tells me she is getting close to needing the question she cannot yet ask.

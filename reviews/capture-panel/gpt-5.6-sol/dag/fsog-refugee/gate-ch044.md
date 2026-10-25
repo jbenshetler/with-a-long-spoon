@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION — Oh, Cassie. Again she asks the cleanest possible question and leaves Vee completely free to answer it. “Not to your dad. To you.” That went straight through me. No teasing, no seductive interpretation, no secret agenda—just *what is he to you?* And when Vee can’t say, Cassie distinguishes can’t from won’t, accepts “both,” and stops. I trust her so much.
+REACTION — Oh, Vee. He answered the easiest part of the question and she let the sex bury the part she actually asked.
 
-But Vee being grateful Cassie didn’t push and also wishing she had made me ache. She wants help naming this. Maybe she even wants someone to notice that the story she can tell about Pace is a cropped version, just like the photograph: respectable doctorate, hiking, dancing, age close enough not to alarm anyone. Below the crop is the bare leg, the expensive dress he made, the sex, the drawer, the shirt she sleeps in, the dominance, the love—and still farther outside the frame is the truth Pace and Randi are keeping from her. She thinks she’s the one deciding what her family can bear, while she still doesn’t know her own picture has already been cropped for her.
+I felt for both of them at Chili’s. The minute his eyes kept slipping to the television and he started squaring the fork, I knew the room itself was hurting him; it wasn’t embarrassment about being seen with her. His explanation made complete sense, and “Somewhere quieter, I can. And I do. I’m listening now” got me because it is so Pace: no defensiveness, no punishment, just the exact truth and reassurance she needs. But she asked, “Is this what we are now?” She asked whether they were only sex. He answered by taking her out, then explaining why that particular restaurant overwhelmed him. He still did not tell her what she is to him.
 
-The boyfriend question mark bothered me more than I expected. She spends most of her nights in his bed, keeps herself in his bathroom, carries his scent home, and loves him—but they apparently have never plainly said what they are. That could have felt dreamy earlier. Now it feels dangerous. Pace’s actions are wonderfully eloquent, yes, but silence is doing too much work in this relationship. Vee cannot tell Cassie what he is because Pace and Vee have never made the language together, and Pace knows there is a whole hidden answer she has not been allowed to see.
+And Vee knows it. That is what hurts. She keeps accepting adjacent answers because the real question feels too dangerous to repeat. Calling it forgiveness made me wince—not because Pace needed forgiving for sensory overload, but because she needed a clean little story that would let her cross the room and be held. She is doing emotional repair work for an answer he never gave.
 
-And the dress—God. I love that she is proud he made it. I love the weirdness of him: this enormous controlled man at a sewing machine, building beauty for her because she once mentioned wanting it. That remains intensely romantic to me. But her father’s instinct that “too good is its own kind of suspicious” landed with a thud. He would be looking for the wrong catch, perhaps, but there *is* one.
+The sex was intensely hot, especially because she wanted his control to break and then felt it break. But it also scared me. Not anything he did—he remained attentive and gave her exactly the rough urgency she wanted—but because her orgasms are becoming a trapdoor she uses to drop the unbearable question through. She keeps almost saying love, and her body keeps drowning the word. That is no longer just erotic surrender. It is avoidance, and afterward everything comes back sharper.
 
-I would text a friend: “Her life is cropped at the waist and she doesn’t know someone else chose the frame.”
+“She belonged to him. But did he belong to her?” That is the wound. She has given him a photograph on the promise that he will never share her, while he is already sharing the intimate substance of her with Randi. She thinks his loss of control is the last wall coming down, but I know there is an entire relationship standing behind the wall. And the awful thing is that Pace clearly does care for her—deeply, tenderly, probably lovingly. Yet he keeps choosing careful phrases that stop one inch short of giving her anything she can name or test in daylight.
 
-GATE 46 — Cropped
+I am furious with him now. Not because he failed to say “I love you” on command, but because he knows there is a reason he cannot honestly define them while keeping Randi secret. Vee thinks the problem is that her feelings outran the facts. The hidden fact is that two people arranged the road she has been running down.
+
+I would text a friend at one in the morning: “This man can hear one whispered no in bed, but somehow cannot hear WHAT ARE WE when she says it at full volume.”
+
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet, but it pressed directly on the thing frightening me most: Vee cannot name what Pace is to her because their beautiful domestic intimacy still has no spoken frame—and the real frame is being hidden from her. Cassie’s restraint felt like love, but Vee’s tiny wish that she would push tells me she is getting close to needing the question she cannot yet ask.
+WHY: I’m aching for Vee and furious that Pace keeps giving her exquisitely tender answers beside the question. The sex pulled me all the way in, but the return of the unnamed want afterward is what has me already turning the page—I need this truth out from under the rug.

@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
-REACTION
+Oh, this hurt. The shirt was one of the tenderest things Pace had ever done for her: wearing two shirts all weekend because she needed to carry his smell away. And now she has discovered the limit of it. It can hold everything he does for her, but it cannot tell her what any of it means. Worse, its warmth is only her own warmth coming back. That absolutely gutted me.
 
-Oh, that hurt. That hurt worse than if he had simply failed to understand her, because I think he understood perfectly.
+She is lying bare in a cold room because the comfort he gave her has become unbearable. That is not a small wobble anymore. She offered him the truest sentence she could manage without saying “I love you,” and he answered beside it. Now every loving act—the cooking, the drawer, the heated house, the shirt—is failing under the weight of the missing word. I want to reach into this book and shake him. He clearly loves her in action, but he has left her alone to translate every action, and she is exhausted from making the translation come out kindly.
 
-“I love how good we are together” is such a devastatingly careful answer. He put *love* into the room while keeping it attached to their compatibility, their sex, what her body does—not to her. She offered him the closest thing to an I-love-you she could survive saying, and he answered beside it. Then he wrapped her in all the tenderness I usually melt for, and for once the tenderness made it worse. He knows how to make her feel received without actually giving her the thing she asked for.
+And the person sleeping underneath her is Cassie. That hurts in a different way. Vee is inches from the one person who asks clean questions and leaves room for honest answers, yet she is stranded above her, literally hiding how far gone she is. I kept wanting her to climb down and wake Cassie. Not because Cassie can solve it, but because Vee desperately needs one room where she does not have to protect Pace, minimize herself, or turn uncertainty into gratitude.
 
-And Vee knows. Her body knows immediately. That little *wait* behind her breastbone—I felt sick for her. She keeps trying to use his warmth as evidence against her own perception, and then two days later the sentence comes back because her body will not let her falsify what happened. “The two things had not been the same shape.” Exactly. She said: you changed my life. He said: we work well together, and I like what your body does. That is not the same shape at all.
+The ugliest part is that Vee still does not know the uncertainty is engineered. She thinks she is asking too much of an unusually good man. She thinks the empty center is simply a word he cannot say. But he is also withholding Randi, the arrangement, and the fact that her two safest relationships were built around a decision made without her. So when she thinks, “I have everything he does and not the one thing he wouldn’t say,” I am screaming that there is so much more he has not said. His silence is no longer shy or merely emotionally limited. It is doing damage.
 
-What really frightens me is the pile. The “small repair work” she has already been doing to keep what she believes about him functioning. That is the first time her private doubts have felt less like healthy uncertainty and more like the beginning of self-abandonment. She cannot ask him because she has decided the words must go through him first; he is good at not asking things; and both of them are building a silence that protects him and hurts her.
+I am completely captured, but not romantically soothed. This is the chapter where all those beautiful objects—the shirt, the drawer, the warm rooms—stop being evidence strong enough to hold her. I need the next chapter immediately. I need someone to tell the truth before Vee freezes herself trying to live inside its absence.
 
-I am still gone over him, which makes me furious. The coffee waiting, the heater, the quilt, the hand on her shin, the kiss held against her hair—every physical answer says love. But he had the opening. She handed it to him whole. If he withheld the words because of Randi, because he knows the relationship Vee thinks she is declaring herself inside is not the relationship he has actually arranged, then this is the bill coming due. He cannot ethically accept her love before telling her the truth, but he also cannot keep taking the intimacy, the body, the drawer, the shirt, the whole surrendered heart while letting her believe his careful avoidance is merely reserve.
-
-And she has retired the sentence. That broke me. She tried once, beautifully, and now she thinks the failure belongs somewhere inside herself where failed things are stored. I wanted him to say it so badly. Now I need the truth more than I need the declaration, because another tender morning laid over this silence is going to start feeling like anesthesia.
-
-GATE 47 — Seconds
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee finally reached for him with everything except the forbidden words, and Pace’s exquisitely careful non-answer changed the meaning of all his tenderness. I need to know whether he withheld himself because of fear, because of Randi, or because the love I have been reading in every domestic gesture is not the love Vee thinks it is.
+WHY: The realization that the shirt’s warmth is only her own warmth returned broke my heart. I am reading on immediately because Vee cannot keep translating Pace’s care into answers he refuses to give, especially when the far larger concealed truth is still waiting underneath all of this.

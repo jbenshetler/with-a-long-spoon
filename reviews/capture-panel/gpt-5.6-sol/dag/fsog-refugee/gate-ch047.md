@@ -1,20 +1,32 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
 
-Oh, this hurt. The shirt was one of the tenderest things Pace had ever done for her: wearing two shirts all weekend because she needed to carry his smell away. And now she has discovered the limit of it. It can hold everything he does for her, but it cannot tell her what any of it means. Worse, its warmth is only her own warmth coming back. That absolutely gutted me.
+REACTION
 
-She is lying bare in a cold room because the comfort he gave her has become unbearable. That is not a small wobble anymore. She offered him the truest sentence she could manage without saying “I love you,” and he answered beside it. Now every loving act—the cooking, the drawer, the heated house, the shirt—is failing under the weight of the missing word. I want to reach into this book and shake him. He clearly loves her in action, but he has left her alone to translate every action, and she is exhausted from making the translation come out kindly.
+Oh, Randi. This hurt in exactly the place I needed it to.
 
-And the person sleeping underneath her is Cassie. That hurts in a different way. Vee is inches from the one person who asks clean questions and leaves room for honest answers, yet she is stranded above her, literally hiding how far gone she is. I kept wanting her to climb down and wake Cassie. Not because Cassie can solve it, but because Vee desperately needs one room where she does not have to protect Pace, minimize herself, or turn uncertainty into gratitude.
+For most of the chapter I was watching her manufacture a perfect life in real time—the stranger on the lift, the skiing, the dress, the staircase, the ball, the sleigh—and I could feel how desperately she wanted the arrangement to become feeling if she made every detail beautiful enough. The part that got me was not that John was secretly disappointing. He wasn’t. He was the absolute best version of the man she is supposed to want. And still he could only reach her body. “A faultless man asleep in a faultless room” is such a bleak answer to the whole fantasy.
 
-The ugliest part is that Vee still does not know the uncertainty is engineered. She thinks she is asking too much of an unusually good man. She thinks the empty center is simply a word he cannot say. But he is also withholding Randi, the arrangement, and the fact that her two safest relationships were built around a decision made without her. So when she thinks, “I have everything he does and not the one thing he wouldn’t say,” I am screaming that there is so much more he has not said. His silence is no longer shy or merely emotionally limited. It is doing damage.
+I was wary the instant he assumed she would go upstairs. “She liked not being asked” made everything in me tense, because that is precisely the kind of sentence these books so often use to turn disregard into erotic authority. But Randi did choose: she understood, teased him, and went because she wanted to. More importantly, the chapter did not confuse his assumption with intimacy. The night can be pleasurable and consensually entered and still leave her completely untouched inside. That distinction matters to me.
 
-I am completely captured, but not romantically soothed. This is the chapter where all those beautiful objects—the shirt, the drawer, the warm rooms—stop being evidence strong enough to hold her. I need the next chapter immediately. I need someone to tell the truth before Vee freezes herself trying to live inside its absence.
+And Pace. Of course Pace asks every time. Of course the labor of answering can occasionally feel less glamorous than being swept along by the fairytale. But the contrast lands brutally: John’s certainty moves Randi’s body beautifully; Pace’s attention finds the hidden person. “Pace on his worst night reached further than this man had managed at his best” made me ache, because now I understand more fully why Randi cannot let him go even while building a life designed to conceal everything he sees.
 
-GATE 49 — Bare
+Then Vee, and that is where the ache turned into anger. Randi knows. She knows Vee says plain true things. She knows she could tell her. She knows the friendship would change because Vee would finally have something real to decide. And her answer is to preserve the relationship by denying Vee the decision: let Vee arrive on her own, keep the word under cover, keep receiving everything while risking nothing.
+
+That is not cowardice harmlessly contained inside Randi. It is the operating principle of the whole scheme.
+
+“Vee was her gorgeous” nearly broke me. Randi’s love is real. Vee really is the best friend she has ever had. That makes the concealment more tragic, but it does not make it tender. Randi even predicts Vee will be kind and will not cut her loose, yet she still cannot bear to put the truth in Vee’s hands. She would rather manage Vee toward the answer than ask her. That is exactly what I have been afraid of.
+
+And Vee’s text—God. She offers presence with no demand: talk, or don’t. Randi answers entirely in truths and still lies about the only thing that matters. “Every word of it true. None of it the thing.” That is Pace’s language too. Adjacent truths. Accurate sentences arranged to prevent Vee from seeing the structure. They are both doing it to her.
+
+I am more emotionally attached to Randi after this chapter and less willing to excuse her. I see the cold she carries, the life built as camouflage, the terror of being known, and the genuine love underneath the performance. I also see her consciously choose concealment because honesty might cost her. She understands the moral shape of what she is doing. She simply wants Vee badly enough to keep doing it.
+
+I would text a friend: “This woman has finally met the one person she loves without using love as currency, and her response is to turn honesty into the only price she refuses to pay.”
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: The realization that the shirt’s warmth is only her own warmth returned broke my heart. I am reading on immediately because Vee cannot keep translating Pace’s care into answers he refuses to give, especially when the far larger concealed truth is still waiting underneath all of this.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “She found, tonight, that she liked not being asked.”
+WHY: The chapter walked directly onto my most sensitive ground, but it did not ask me to mistake John’s assumption for proof that he knew her; Randi knowingly chose the night, and its emptiness exposed the difference between confident handling and genuine attention. Now I understand her love and fear far better—and I need the book to return to Vee leaving Pace’s house and make these two stop protecting themselves with technically true lies.

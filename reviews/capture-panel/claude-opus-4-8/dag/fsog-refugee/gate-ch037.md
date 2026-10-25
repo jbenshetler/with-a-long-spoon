@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch037 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
 REACTION
 
-Oh, this one's a breather, and I needed it — but it's a breather with Cassie's hand on my shoulder the whole way through, and Cassie is the only person in this book who stands where I stand.
+Okay so this is the photo chapter again, except it isn't — the first one was the nude, the real-as-she-was one, "never share me," shoulder-hip-knee. This one she goes and *puts her face back on.* That's the part that got me and not in the good way. She comes up off him wrecked and sated and real and lovely, and then she goes to the mirror and builds "the version of herself she wanted him to keep." A girl who decided to be looked at. And I know what the book wants me to feel — that's she's claiming it, reaching for it, it's hers, the brave part is believing him — and I *did* feel the warm thing when he grinned over the phone like a boy who got away with something. That landed. I'm not made of stone.
 
-Here's the thing that got me: Vee came in "lit up" and ran her mouth the way she always does, backward on the chair, arms along the top, giving Cassie "not any one night but the shape her weeks had taken" — and I noticed, with a little drop, that she's narrating her own life to a roommate now instead of living it in front of me. She's not in the room with him. She hasn't been in the room with him, on the page, for a whole chapter, and I felt that gap exactly the way I always feel it — the warmth is all secondhand, reported, past tense. And that's *fine*, because the care is still on the page: the baked tomato that slid off the fork and caught her, the cold cloth pressed to the burn before she got the first swear out, him fussing over the small hurt for days. That's real. That's the man I keep almost letting myself trust.
+But underneath. She makes an artifact of herself and sends it into a house that runs a plan, and the word under the bar goes to Delivered, and my whole stomach went cold reading "gave him herself to keep." Because that's the second photo now living on a phone in that house, and the jacket told me there's a third game. I can't unhear it. The better the tenderness, the louder the dread — it's the exact trap I wrote down after chapter 40. He posed her with a kiss at every joint. He also *posed* her. Both are true and the book keeps serving me both on one spoon and I keep tasting each piece apart, which is the whole grim joke of this book, isn't it — he taught her to taste instead of just eat, and I've learned to taste his tenderness apart from his handling and I can't go back to just swallowing it either.
 
-But then Cassie — God, Cassie — "There's only one way *that* burn happens. Not enough on." Dry as a bone. And she's right, and she's telling Vee she's right, and Vee is "already past it," skating. Cassie does this three times in one short chapter: the burn, "you don't come home school nights," and then the flat one, "Do you love him." She's not pulling the seam, still not, but she's laying a finger on every single soft spot and pressing, gently, to see if Vee flinches. And Vee doesn't flinch — Vee goes *small*. "Maybe. I think so. It's all so fast." That's the first time Vee's said the fast part out loud to anyone, and she said it to the one person who isn't selling her anything.
+The "you do this to me," the taking care of himself thinking of her — that's genuinely hot, the man wholly focused, that's my drug and the book knows it. "Remembering you is a pale thing next to you being here." Fine. Yes. Good.
 
-What I keep turning over: the losing weight. "Her body quietly burning down whole weekends of him." Last chapter it was tender — the drawer he gave her, the bras keeping the secret. Here Cassie frames the same facts without a wink, and under a plain light they read different. The girl is disappearing by degrees and calling it happiness, and the book, for once, put a sober woman in the chair across from her who won't coo about it.
+But then the kitchen, the chicken piccata basically, and I'm watching him cook like it's a love language because it is, and then she asks about his parents. "I don't go back." The face going level and exact, each word set down clean and apart. That's the scar again in a different register — the thing with no door. And she takes her hand off it and lets the quiet be kind, and I love her for it, and I'm also screaming a little because *nobody in this book has a past you're allowed into* and that is never, ever an accident in a book that's running a con.
 
-And here's why I'm not gone yet, why this chapter actually held my exit line at bay instead of tripping it: I keep waiting for the moment the book touches Vee tender with *no counter-voice in the room*. This chapter is the opposite of that. The tenderness is all reported, and the live voice in the room is Cassie's, and Cassie is skeptical. The dread wasn't bolted onto a swoon this time — the dread *was* the chapter. Cassie is my proxy and she got the last word: "Go to sleep, streetlight," and she "let the maybe stand," didn't say a thing against it, didn't say *I know*. She's holding her fire. She's still holding it. I would follow Cassie anywhere.
+And Sheri at Thanksgiving. "She's alone." The flicker of another woman at his table and then it goes out because of course, two strays, feed them both. I noticed my own flicker go out right alongside Vee's and I didn't like how smoothly it happened. That's the book doing to me what it does to her.
 
-What I'd text a friend at 1 a.m.: *the roommate asked her if she loves him and she said "maybe, I think so, it's all so fast" and I think I actually exhaled. somebody in this book finally said the quiet part in a normal voice.*
+What I'm actually tracking: it has still not crossed my line. This was close to a tender chapter — but the counter-voice didn't go quiet, it just moved fully inside me. The dread wasn't dropped. There was no Cassie, no Randi, no next room — and still I couldn't be simply happy for her, because "I don't go back" and the delivered photo did the dread's work without anyone having to say it. The day it's genuinely dropped I'm gone. Today it held.
 
-I notice how long it's been since Vee and Pace were alone in a room where I got to watch — the whole last stretch has been her telling it to Randi, telling it to Cassie, the drawer, the brunch. I'm starting to want them back behind the door, not in the retelling. That's the only thing tugging my NEXT down a notch — I've had a run of recounting and I'm ready for the thing itself again. But Cassie earned this chapter clean.
+1 a.m. text: *he put makeup on her memory and she helped. and he has no parents he'll name. I'm not okay.*
 
-GATE 39 — School Nights
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: A quiet reported chapter, but the care's on the page and for once the live voice in the room is the skeptic's, not a swoon with its counter-voice stripped out — Cassie pressing every soft spot and Vee finally saying "it's all so fast" is exactly the honesty that keeps my exit line unspent. I want the next one because I'm ready to be back behind the door with the two of them instead of hearing about it secondhand.
+ALMOST-STOPPED: "She was composed, arranged, a girl who had decided to be looked at." — the second photo going out, Delivered, into that house, was the closest I came to setting it down in disgust at myself for still being moved.
+WHY: It gave me real heat and a real warm beat and then immediately salted it with "I don't go back" and a delivered artifact nobody in that house should hold — the tenderness and the dread arrived on the same spoon, which is exactly why I can't quit yet. It hasn't crossed my exit line: no outside counter-voice, but the wound and the photo did the dread's work on their own, so I'm still reading toward the third game cashing.

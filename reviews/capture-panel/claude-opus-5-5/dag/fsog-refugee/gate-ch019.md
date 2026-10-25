@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch019 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0eff5df4f29c · 2026-10-10*
+*capture-dag-v2-rich · gate ch019 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 96625992569d · 2026-10-10*
 
 **REACTION**
 
-Okay. *Okay.* It's 1 a.m. and I'm texting nobody because nobody I know reads this.
+Oh, Randi. Oh, *honey*.
 
-This is the scene I left the genre looking for. She walks into his kitchen and says "Famished" and hears the double meaning a beat after he does, and from there every move belongs to her. She's the one who says she never thanked him for the shirt, pulls the apron strap, and asks "Will you show me your bedroom?" The one closed door from the tour, and she's the one who opens it. When she breaks the kiss he starts to step back, "the beginning of care," and she *doesn't want that kind*. She wants the other kind, and the book knows there are two kinds. That got me.
+I started this chapter braced. Pace's kitchen, Randi coming up the gravel the morning after Vee's brunch, and I'd been dreading this exact scene for chapters: she says *tell me* and he hands over the green panties and the riser and the sheet. Then she said "She told me about Friday," and he "did not ask what Vee had said. That was Vee's." I put the book face down on my chest. That's the line I needed. He didn't spend her this time. He's never going to know about the frosted plum or the bought-new underwear. The only thing that came up in his face was gladness, and Randi had to sit and watch him be glad. I believe that's the cruelest thing that's happened to her in the book, and he has no idea he did it.
 
-He's on his knees again, and this time he asks the real question out loud: "Would you be bothered if I was too hard?" It's a strange, lovely, slightly crooked question. It's the fitting's smile put into words, telling her that her wetness is a gift and asking if his wanting is welcome too. She says no "and made herself say it so it was true." Then inside her he holds still and *waits to be told*, and what tells him is her hips. That's the whole thing I came for. His restraint makes room for her, and when he finally stops governing himself it's because she put her heels into him. He isn't overriding anything.
+Then "*How long are you going to take?*" There it is, out loud on the page: "from where she is to us." The game from the jacket isn't a vibe anymore. It's a schedule, with two people arguing over whose it is. This is the part I have to hold honestly. Pace's answer, "She chooses it, Randi. Every step of it. Or it isn't anything," is the answer I came to this genre hoping a man would give. I believe he means it. I also notice he said it inside a plan Vee has never heard of, about a destination nobody's asked her about. "She chooses every step" only means something if she can see the staircase. So he gets my respect and an asterisk, again. The book seems to know it, too: "He heard how it had come out. He did not take it back, because it was true, and because he did not know how."
 
-The "floozie" loop worried me for about a page. Shame used as fuel can tip into the book enjoying her humiliation. But it never comes from him. It's her mother's word, inside her, and the chapter keeps letting her burn through it: "the shame ran the whole length of it and never closed her." Then "It was the first time that had been true" knocked the wind out of me a little. Him watching her face in the light the whole way, and her turning into the pillow and him following, was so intense. I felt that one in my body, not on the page.
+But Randi is the one who wrecked me. The line drawn across the top of the sauce and then the spoon put down. Pace's "It's wonderful" read as the alarm it was. Pouring her own glass, when he's poured every glass she's ever drunk in that house. The bare nails, after a whole chapter of Vee's frosted plum. Eating every leaf of salad and never touching the bowl. "Selfish," because he has Vee Friday to Sunday and she gets brunch and a borrowed kiss at the curb. And the "old boyfriend in a hurry" story she told Vee? Friday night she was alone. She made up a sad date to cover a real one, and the real one was being home by herself while the girl she wants was in his bed. The liquid eyes, the drawn-out vowels on one mimosa: that wasn't drink. That was her coming apart while saying "you're lucky."
 
-Then the kitchen. He cooks, she sits in a sheet, they eat and don't need to talk. I couldn't help setting it against chapter 14, where Randi left without eating and he stood in his door hollow and ate alone. Vee stayed. Vee was hungry. The book is doing that on purpose and it hurts.
+The sex was meant to land cold, and it did. No inch-and-stop, no *tell me*, eyes shut, back to him in the cashmere. It wasn't hot, it was grief, and the book didn't pretend otherwise. I'm grateful it didn't ask me to find that sexy.
 
-And "Trade." The folded green panties, spot centered, for his shirt. She drops the sheet and doesn't stop. That's her desire, fully hers, a woman handing a man the evidence she was most ashamed of as a *gift*. I loved her for it.
+And Pace walking back through the evening "from the gravel forward" looking for what he did wrong. He's looking in the wrong place. He thinks it's sex, "the want, with an edge on it." It's that she's losing, and maybe it's that she wanted Vee for herself the whole time. Then he puts a plate over her bowl and sets it in the fridge for her. I could have cried. He's so careful, and so blind about her.
 
-So here's what has me unable to put this down, and it's dread, not just heat. *Tell me.* Every time Pace has had a piece of Vee, he's carried it to Randi's lap. "Her stomach is soft." The froyo cup. Now he's holding the most intimate thing Vee has ever given anyone. "Something in his shoulders was private and she let it be private." Private from Vee, maybe. Will it stay private from Randi? If those panties end up on that bench as a story, I don't know what I'll do. And Vee just slept with a man who has a girlfriend she *had lunch with last Sunday*, who kissed her on the mouth in a fire lane. Vee doesn't know. I do. That's the knife the jacket promised and I'm holding the handle.
+What I'd text at 1 a.m.: *he didn't ask. HE DIDN'T ASK. but they literally have a timeline for her and randi is starving herself in his kitchen and I'm scared for all three of them.*
 
-Smaller things: she bought *green* the week after Randi's "bright and green" scent was in her hair. I clocked that. And there's the scar high on his inner thigh, which she stops at and then gets pulled past. That's a Daphne-sized door, or a parents-sized one ("No," at *parents*). I want it.
+My biggest dread got answered in the best way, and a new one replaced it. Randi isn't going to wait for "as long as she needs." Something's going to break, and it's going to be Vee standing where it breaks.
 
-On Pace: I'm still holding him to "may," and tonight he earned it. That makes it worse when I remember what he's going to do with it.
+---
 
-GATE 20 — Famished
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "*Floozie,* said the voice. That was the worst it had." That's the third or fourth floozie, and I braced for the shame to become the kink the book was selling me. It didn't. It stayed hers and he never touched it.
-WHY: Finally both of them alone in a room, and it was everything: she chose every step, he asked and waited and then let go when she wanted him to. The next chapter pulls just as hard for a different reason. I need to know whether those folded green panties stay his or become Randi's next "Tell me."
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "How do I get her from where she is to us, on your schedule?" For a second the whole book tilted toward two people managing a girl. Then "She chooses it… Or it isn't anything" pulled it back, just barely.
+WHY: He kept Vee's night as Vee's. That was the thing I'd have walked over, and he chose right without being asked. Now the plan is out loud, Randi is cracking, and I can't put this down until I know who breaks first and whether it's Vee who pays for it.

@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3cfa40cceb07 · 2026-10-01*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha be1dc7d466f1 · 2026-10-24*
 
-REACTION — Oh, this is exactly the thing I came here for. Not the kiss by itself—the room he keeps leaving around her. The text she doesn’t have to answer immediately. The menu he chooses only after she asks him to. The way he asks what she won’t eat, takes her yes seriously, and then gives her something better than she knew how to request. Even the first kiss: she says no, and he simply accepts it. No coaxing, no wounded performance, no treating her rule as foreplay. He is genuinely leaving. So when she stops him, it is unmistakably hers.
+REACTION — Oh, Vee. Her bursting into the room needing Cassie to understand that nobody persuaded her, that she chose the kiss herself—I felt that right in my chest. That is exactly the distinction I need this book to understand, and it understands it from inside her. Pace accepting her no so completely that she had room to discover her own yes is more erotic to me than if he’d kissed her under that tree immediately. “He was already walking away and I pulled him back and I did it. Me.” Yes. That’s it. That’s the whole thing I came for.
 
-And then he leaves her that last inch. God. That is the whole promise of this book in one tiny space: he could close it, she wants him to close it, and he still waits. Her wanting gets to become an action rather than something he extracts from her. The second kiss got me far more than a more explicit scene might have, because she chooses it twice—first the exception, then more.
+And then I spent the rest of the chapter increasingly worried about Cassie. She keeps seeing what Vee won’t, and Vee is already helping herself exclude Cassie by calling these places “not her thing.” That explanation is just plausible enough to go down smoothly, which makes it worse. Cassie’s little look being folded away hurt. I don’t want Vee to lose the friend who knows her well enough to ask the blunt safety question and then genuinely believe her answer.
 
-The dinner made me ache, too. She isn’t merely hungry because she skipped lunch. She is exhausted from monitoring every appetite she has, and for one evening she gets to say, “May I let you choose?” and discover that surrender can feel like rest when the person holding it is careful. Watching her eat without watching herself eat felt intimate enough to make my throat tighten. Pace’s attention is so focused without being invasive; he notices what lets her open and doesn’t grab at the opening.
+Randi absolutely had me at “ask and then ravish.” The fact that she dropped into Vee’s private register for it—oh, I noticed. Vee felt her there too. There is real desire moving between them now, even if Vee still has nowhere to put its name.
 
-I did tense when he took her hand “with no question in it,” because this book has trained me to care about every inch of consent. But then she states a boundary at the kiss and he releases the entire moment without testing her, which tells me the hand wasn’t the book sneaking past her no—it was the easy confidence of something she was already participating in. That distinction matters enormously to me.
+But I do not trust Randi, and I’m not supposed to. That invented bad date was exquisitely calculated: she handed Vee a counterfeit intimacy, then used it to draw out every private detail of the real one. She’s learning exactly what Pace’s asking and choosing are doing to Vee, while Vee thinks she is confiding in a dear friend. And the cruel complication is that I think Randi’s feeling is real. Calling Vee her “dear friend” in front of Brooke cost her something; taking her hand cost something; I believed that completely. It moved me. It also bound Vee tighter to her at exactly the moment Vee felt socially exposed. Randi may be sincerely protecting her and expertly handling her at the same time, and that combination scares me far more than a simple villain would.
 
-And because I know the jacket and what Randi and Pace have already done, there is a deliciously sick little shadow under all this tenderness. Vee believes she has stumbled into a man who somehow answers hungers she can’t name. I know he was placed in her path, and I know Randi helped choose the path. So I’m falling for Pace right alongside Vee while also wanting to grab her shoulders and tell her the room around her was built before she entered it. That tension is working on me hard.
+The jacket’s “every yes was freely given” is beginning to feel like a knife being sharpened. Vee’s yes to Pace is beautifully free. Her yes to Randi’s friendship is being cultivated inside a lie. I’m already reading on because I need to know whether the care becomes strong enough to make them confess—or merely makes the eventual betrayal hurt more.
 
-My 1 a.m. text would be: “HE RESPECTED HER NO SO COMPLETELY THAT SHE HAD TO PULL HIM BACK, AND THEN HE STILL MADE HER TAKE THE LAST INCH. I am unwell.”
-
-GATE 9 — May I Choose
+GATE 10 — Dear
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me dominance as care: he chooses when invited, stops when told, and makes her desire belong visibly to her. I’m deeply invested in the tenderness now—and increasingly nervous about what it will mean when Vee learns that this apparently effortless courtship was arranged.
+WHY: Vee claiming her own desire gave me exactly the consent-and-intensity combination I want, while Randi’s public choice of her turned their bond into something unmistakably charged. I’m frightened by how genuine Randi’s tenderness seems inside the manipulation, and I need to see what that contradiction does to all three of them.

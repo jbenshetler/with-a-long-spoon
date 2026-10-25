@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e27492614e32 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION
+REACTION:
 
-God, this is twisted. It’s gorgeous and hot and it makes my stomach hurt in the absolute best way.
+Oh, this hurt in the best, quietest way.
 
-The whiplash between Chapter 6 and Chapter 7 is where the knife really goes in. In 6, you’re inside Vee’s skin, feeling this fragile, quiet bloom of hope—she’s eating too much yogurt without hearing her mother’s voice for once, and she admits out loud that this stranger is being nicer to her than anyone has been in ages, and Pace holds that gently. It felt so real and tender. And then Chapter 7 opens, the deadbolt turns, and boom: Pace is right back in his warm house with Steely Dan playing, waiting for Randi to come demand the debriefing.
+To go from the heat and the tangled games of the last chapter straight into the stark, chlorine-smelling reality of what it actually feels like to live in Vee's body—it grounded me completely. We've spent so much time watching Pace watch her, and Randi watch her, and Randi and Pace orchestrating things around her. But here, we’re entirely inside Vee. And it’s heartbreaking. The casual catcalls from the bleachers, the endless vigilance, the way she had to learn to roll the towel and carry it down so it didn't look like hiding—God, I felt that. Every woman has had that walk past the bleachers. The sheer exhaustion of having a body that the world treats like public property.
 
-The heat between Pace and Randi is just undeniable. The wine, the mouth-to-mouth sharing of the tannin, her straddling him and putting his hands right under her bra—she is practically vibrating with arousal over the fact that he was out with Vee. It turns her on so much it terrifies her.
+And then she goes under the water, and it just... stops. *"Nobody down here wanted anything."* That line nearly made me cry. Because up on dry land, everybody wants something from her. Pace wants to unpack her, Randi wants to possess her/offer her up, the boys in the bleachers want to gawk at her, her mother wants her smaller. The water is the only place where she isn't an appetite, an object, or a project.
 
-And Pace! I am fascinated by him. He’s carrying out this orchestrated setup, but he has these lines he won't cross. When Randi asks if Vee made him laugh, he thinks of Vee's quiet, vulnerable admission—*this is the nicest a person has been to me in a really long time*—and *he doesn't tell Randi*. He keeps it. "It was hers." That floored me. Even inside this game, he is fiercely protective of the dignity of the person he’s focusing on. He gives Randi the physical details (the yogurt cup), but he keeps Vee’s soul private.
+And Cassie! I adore Cassie so much. She is the anchor in this entire book. She doesn't pry, she doesn't perform, she just stands in the water "like a person" and splashes her friend out of her own head. In a story that's about to get incredibly dark and morally complex with this triangle, Cassie feels like real, unpolluted safety.
 
-And Randi freezing when he says Vee was easy to listen to? Oh, she thinks she wants this—she thinks this is just a spicy, illicit little gift for Pace that lets her satisfy a secret craving without owning it—but she has no idea what she’s actually invited into the room. The jealousy, the possessiveness, the genuine appetite—it’s going to completely unravel her carefully managed sorority-girl control.
+It’s a quiet chapter, no Pace, no Randi, no kink, but it did the vital work: it made me love Vee for Vee, not just as the prize being hunted. Now, when the trap inevitably springs, it's going to hurt so much worse because I know what she's trying to protect.
 
-I’m on the edge of my seat. The consent dynamic here is so complicated because Vee thinks she’s making every choice freely, and on the surface she is, but the deck is so thoroughly stacked. Yet neither Pace nor Randi feels malicious; they’re just operating like a tide coming in. I need the three of them in a room together so badly.
-
-GATE 7 — Tannin
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 8
 ALMOST-STOPPED: none
-WHY: The tension is incredible; the contrast between Vee’s sweet, earnest afternoon and Randi aggressively pulling the details out of Pace with red wine on her lips made my pulse race. Pace keeping Vee's private confession to himself showed exactly the kind of quiet integrity and care that keeps me completely hooked on him as a dominant lead.
+WHY: A beautifully observed, tender breath of fresh air that grounded Vee's inner life and made her feel fully human. Cassie is an incredible foil to the suffocating games Randi and Pace are playing. I need to see where this goes next.

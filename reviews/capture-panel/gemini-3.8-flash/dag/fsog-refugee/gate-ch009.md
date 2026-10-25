@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3cfa40cceb07 · 2026-10-01*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha be1dc7d466f1 · 2026-10-24*
 
 REACTION
 
-Oh, God. This is ruining me.
+Oh, this chapter broke my heart in two different directions, and I am sitting here with a lump in my throat.
 
-The contrast between what he does with Randi and what he is doing here with Vee—it is so calculated, so incredibly deliberate, and yet inside Vee’s perspective it feels like pure grace. She has been starving her whole life. Literally starving—we saw it with the egg-white mother and the sorority scale, and now here she is with a hollow in her that’s been open for years, and he sits across from her and says, *"May I choose?"*
+First: Cassie. Cassie is the absolute anchor of this book for me right now. That moment where Vee bursts into their room, doing that clumsy, joyous, breathless little dance, and Cassie is just sitting on the bunk with her sock feet and her dry wit, loving Vee so completely—that is real friendship. And Vee having that fierce, proud clarity: *"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."* God, I felt that in my bones! That’s the feeling every woman wants after a date that felt too good to be true: the ownership of her own desire. The fact that she stopped *him*, that she made the choice.
 
-That line. The absolute drop in my stomach when he asked that. Because in any other romance novel, a man ordering for a woman is this clunky, aggressive alpha-jerk move that makes me want to throw the book across the room. But Pace *asks permission to relieve her of the burden of deciding*. He sees that she’s overwhelmed, he asks, she gives it to him, and then he feeds her. He watches her hands, he watches her mouth, he feeds that massive, uncurated appetite she’s spent her life hiding under oversized cardigans and synchronized-swimming discipline.
+And then the contrast when Vee goes to Randi. It makes my stomach drop.
 
-And then the ending on the walk back. The rule: *"I don't kiss a man I've known a couple of days."* And what does he do? He doesn't pout, he doesn't wheedle, he doesn't use his size or his charm to push past it. He just accepts it. Completely. He turns to keep walking. And because he gives her the absolute safety of a boundary respected, she’s the one who pulls the leash taut. She’s the one who breaks her own rule. That is *real* dominance. It’s dominance through complete, unshakeable restraint. When he leaves that last inch between their mouths and forces her to cross it herself? Holy shit.
+Because on the surface, Randi is giving her everything Vee has ever craved: validation from the golden girl, being claimed in front of the shark tank (Brooke and Sloane terrify me in a very specific, deeply real way), being called a "dear friend" out loud while Randi holds her hand on the table. To Vee, that hand hold is a shield. It’s an embrace. It’s proof that she belongs. But because we know what happened in chapters 1, 3, and 7, watching Randi draw her out—watching Randi pump her for details about Pace, casually feeding the fantasy ("hair down, no bra, let your mountain man ravish you against a tree")—feels like watching someone set out sweet cream for a trap.
 
-My heart hurts for her, though, because I have Chapter 1 and Chapter 3 burned into my brain. I know what he built in his bedroom. I know Randi asked, *"Do you think she'll like the bench?"* I know this entire evening, down to the way he shaved and the way he walked her down that specific street, is part of a trap. But it doesn't feel like a trap of cruelty—it feels like a trap of total indulgence. He is giving her the exact medicine she needs, and the fact that it's an orchestration makes the intimacy almost unbearable to read. I cannot stop.
+And what killed me was this beat:
+*"He'd ask, though," she said, quieter... "Before he ravished me."*
+*"Ask and then ravish," Randi said.*
 
-GATE 9 — May I Choose
+That sentence knocked the breath out of me. Because that *is* Pace. Pace *does* ask. He asks before he takes, he watches for the answer, he is exact and patient and tender. Vee feels safe with him because of that consent. And yet, the larger architecture around her is an ambush. She doesn't know she's in a play that Randi and Pace scripted together. The consent is real inside each individual room, but the context is a game. That tension—between how genuinely Pace cares, how much Randi actually seems drawn to Vee ("Vee's my dear friend" felt like a defensive wall against Brooke that was half-real and half-cover), and how completely defenseless Vee actually is—is unbearable in the best way.
+
+I need Sunday. I need this hike. I need to see Pace and Vee alone in the woods, because I want to see if Pace stays the man who waits for her, or if the game starts bleeding through.
+
+GATE 10 — Dear
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension of his absolute restraint paired with her desperate, blooming hunger is suffocatingly good. Watching him give her space so she can willingly step forward into his hands is the exact kind of control I read this genre for.
+WHY: The contrast between Cassie’s grounded love and Randi’s intoxicating, slightly poisonous validation is brilliant; Vee admitting she wants a man who will "ask and then ravish" hits the exact nerve of what I read for, and the anticipation for this hike is through the roof.

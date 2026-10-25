@@ -1,16 +1,22 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
 
-REACTION — Oh, this made me ache in the nicest way. Vee tells Cassie the whole charged, vulnerable thing, and Cassie neither shames her nor makes her defend it. She listens closely enough to understand that Pace’s restraint is the important part: Vee called him back, Vee chose to undress, he received what she offered, and he did not turn her offering into permission for anything else. “He looked at me like I’d handed him something” is exactly it. That is the heat I want—the looking means something because he knows it was a gift.
+REACTION — Oh, Randi. That was hot enough to make me forget to breathe and sad enough to ruin it while it was still happening.
 
-And “Then we ate,” delivered like another woman might say they kissed, made me grin. Yes, sweetheart. The mountain, the sandwich, learning how to leave no trace without being humiliated: it all belongs to her pleasure. She’s becoming proud of wanting things, not only sexually but bodily, openly. She got herself up that mountain, and Cassie immediately gives that accomplishment back to her with “Look at you.” Pace may have set the pace and tended the blister, but neither he nor the chapter gets to steal the climb.
+Her coming straight from Vee’s date to climb onto Pace and make him describe Vee while she rides him should have felt like the fantasy finally catching fire—and physically, it absolutely did. The eye contact, the slow way she took him, making him watch, making him tell her: yes. Very much yes. And Pace understands exactly what she wants without turning Vee’s private moment in the truck into currency. “Her stomach is soft” nearly killed me, especially because he refuses to tell Randi how he knows. That distinction matters enormously to me. Vee gave him that sight; it remains his to keep, not Randi’s to interrogate out of him.
 
-Mostly, though, I love Cassie so much I could cry. She had his location and Vee’s blood type mentally ready, but once Vee comes home glowing and tells her exactly what happened, Cassie believes her. No interrogation, no jealous little puncture, no warning inserted just to prove she was right to worry. Just that soft “Vee,” placed carefully under her happiness. Cassie’s suspicion has always been about hidden danger, not about controlling her friend, and this chapter confirms the difference beautifully.
+But Randi isn’t really there with him. She is using sex to get close to Vee at one remove, and the moment she says “I want us,” I believe her completely—and I also think the truth of it terrifies her so badly that she has to get dressed before her body has even stopped shaking. She doesn’t stay warm. She doesn’t eat. She doesn’t let Pace hold her afterward. She gets what she came for and runs before he can ask her to be a person inside it.
 
-“I’m keeping the shirt.” “Keep the shirt.” That is friendship as shelter. And yes, keep it. I want her sleeping in it tonight, surrounded by the evidence that a man wanted desperately and still waited for what she chose to give.
+And Pace, sweetheart, no. He knows her aftercare pattern well enough to notice immediately that she has broken it, but he still explains the rupture as too much desire instead of considering fear, jealousy, grief, or the possibility that she came apart when he described another woman’s softness with tenderness. He is so attentive to bodies and still missing the emotional emergency happening directly in front of him. Him asking her to stay because he is hungry landed like an accidental plea for ordinary intimacy, and her bright “I’m good” hurt worse than if she had slammed the door.
 
-GATE 13 — Rye
+Then he eats and is still hungry. Of course he is. None of them is being fed by the thing they are pretending this is.
+
+I’m desperately invested now, but the secret is starting to feel less wicked and more cruel. Vee thinks Randi is her dear friend and Pace is becoming hers, while Randi is taking Vee into Pace’s bed as scent, softness, and fantasy without Vee knowing she is there. Vee’s desire may eventually make the three of them real, but right now she is the absent center of an intimacy designed around her. I need the book to understand that difference as sharply as I do.
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it let Vee’s happiness survive contact with the person I trust most. Now I badly want her alone with Pace again—and I want to see what happens when he finds her still wearing his shirt.
+WHY: “I want us” is the first naked truth Randi has managed to say, and then she flees the tenderness that might make it real. I need to know whether Pace finally recognizes that she is not simply overwhelmed by wanting Vee—she is frightened of being known wanting both of them.

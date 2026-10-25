@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch063 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
+*capture-dag-v2-rich · gate ch063 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
 
-**REACTION**
+## Reaction
 
-Oh, I needed this chapter. I didn't know how much until Sheri got off that stool at five foot nothing and the blonde had nowhere to stand.
+What I felt most was "No. Not my thing." Too fast, and patched smaller right after. I physically winced. Two chapters ago I sat in Randi's bed while she told Pace "I want her to know exactly what she does to me." Now I'm watching Randi's thumb stop on Vee's knuckles, and Vee reads it as Randi standing guard. "She's still worried." Oh, honey. Randi just heard the girl she's in love with say that a woman looking at her is not her thing, and she had to say "I know she isn't, gorgeous" with her thumb starting up again like nothing happened. The dramatic irony is cruel and it's good. I ached for Randi in a way I didn't expect to after the "words are the whole war" business. For once she wasn't steering. She just got hit.
 
-After last chapter I came into this one braced and a little sour. I'd just watched Pace and Randi in bed together, trading Vee back and forth like a dirty secret that turns them both on: "she kisses me first now," "she kissed my neck again," Randi's hand on her own breast pretending it's Vee's. And Vee doesn't know any of it. So when he says "there's somebody I'd like you to meet" with his back to her, my stomach dropped right along with hers. I thought, here we go, another woman he's arranged.
+And Vee is lying, isn't she? "Best thing that's happened to my legs in a Virginia January," she told Pace over the bread. She laughed out loud on the taproom floor. To Randi it's "not my thing." She's still splitting herself in half for each audience. But this cut doesn't feel like protecting anyone. It feels like a door she slammed on herself without looking at it. That worries me more than the restroom lie did.
 
-Then it wasn't that at all. Sheri's look went down Vee's body and it wasn't pricing her, it was *enjoying* her. Vee laughed at nothing and a month of dread just left her. I laughed too, out loud, on my couch. "And you get to motorboat them things?" And Pace BLUSHED. Up into his ears, rubbing the back of his neck. That's the first time this man has looked unguarded to me in a way that isn't grief or sex, and it took a five-foot lesbian with crooked makeup to do it. I love her more every time she's on the page.
+The waxing is where I put the book down for a second and frowned. "He asked me to get waxed. All of it. Bare." I only get it secondhand, in "the voice he uses for facts," and that's exactly what bothers me. Everything I trust about Pace is on the page: he watches, waits for her answer, says "Okay" and leaves his mouth for her to come back to. This happens offstage. I can't see whether he asked or announced, or whether she had room to say no. Then Randi lights up instantly: Sondra, Draper Street, say my name in the first sentence. My stomach turned over a little. Whose request is this, really? After chapter 64 I can't hear Pace ask for something about Vee's body without wondering whether Randi's hand is in it. Vee seems glad, and I'm holding onto that. But I want the kitchen scene. I want to see him ask. If the book never shows it, I'll hold that against it.
 
-Then the coming-out story. "Whole tablecloth come off the table and nobody caught a dish." Donuts on the porch, the lock, the faucet, Sunday rides, a bacon cheeseburger. "He never handed me one false word." This is the man I've been trying to believe in for sixty chapters, told by someone with no stake in selling him to me. And the dance hall bit: every other man is making a down payment, and his hands stay where the dance puts them. For someone like me, who left whole shelves of books because of men who thought three songs bought them something, that landed hard. That's exactly what I came looking for, stated plainly by a witness.
+The goodbye, though. The second kiss that stayed. Her mouth at Randi's neck and *neither of them said a word about it*. No "ticklish," no laugh to cover it. That was the first time Randi didn't deflect, and Vee didn't need her to. It was quiet and it was hot. And then: "The other part she didn't write down. She had that one cold." I want to know which part. Sondra's name is on her hand, so is it Randi's mouth? I hope it's the kiss.
 
-Then "went bad with his daddy. Hasn't been home since he was sixteen." So "I don't go back" isn't only Daphne, or it's Daphne on top of that. I'm rearranging him in my head again. And again Vee is getting him secondhand. She's finding out who he is from Sheri, the same way she's been finding out who she is from Randi. He tells his things to other women. He doesn't tell them to her. Sheri said it herself: "to the one person he tells things to." That should be Vee by now.
+I'd text a friend: "she told the woman in love with her 'not my thing' and then kissed her neck on the way out. I'm going to need a minute."
 
-The ending wrecked me in a quiet way. He makes Sheri leave her truck. He holds the headlights on her door until the porch light comes on. Then his arm around Vee's waist, "It read as affection. It worked as ballast." "Bacon cheeseburgers," to the window. Ten and two, carrying something full. That's tenderness and steadiness in one man with nothing to apologize for in it, and I believe all of it.
+The Sheri retelling was warm, and I loved Vee choosing to hold back the part that's Sheri's. She's learning whose stories are whose. But it was a retelling. The live wire in this chapter was the thumb.
 
-Here's what I'd text at 1 a.m.: he is so good, and he is still lying to her by omission. Sheri knows about the brunette. "Bet those legs feel like Christmas," so Sheri heard all about December. The man who won't hand out one false word is living one with Vee. He's put her in a room with every person who knows except her. I'm softer on him than ever, and that makes the Randi thing feel worse, not better. Also, they haven't been alone together in an actual bed since the truck. This was a lovely evening with a third person in it, which is starting to feel like the whole book.
-
-GATE 65 — Another Round
+GATE 67 — Between
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
-HEAT: 1
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "There's somebody I'd like you to meet." Right after the Randi chapter, I nearly put it down rather than watch him arrange another woman around her.
-WHY: Sheri gave me the Pace I've been hoping was real: the porch, the hands where the dance puts them, the headlights on her door, and I believe him more than ever. But every good thing Vee learns about him still comes through someone else, and the bigger that gap gets, the more I dread the day she finds the Randi part out.
+ALMOST-STOPPED: "He asked me to get waxed. All of it. Bare." Him asking about her body offstage, with Randi waiting to route her to "Sondra," made me worry the request wasn't really his, or wasn't really a question.
+WHY: The thumb going still and "Not my thing" hurt in the best way. Randi finally got hit instead of steering, and the kiss that stayed made up for it. I'm pulled forward partly by dread about the wax. I need to see it was Pace's real question to Vee and not the two of them arranging her.

@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
+*capture-dag-v2-rich · gate ch051 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1e04263f57c9 · 2026-10-12*
 
 **REACTION**
 
-Sheri said it. Somebody finally said it to his face. "Then not saying it matters more to you than having her." Then she held his eyes until he looked down. I've been saying that line in my head since the door closed. I wrote "I'd make him say it first" in my own notes, and here's a five-foot girl with dark roots and too much makeup doing it for me over a chocolate shake. I loved her for it. And then she stole his fries, which is exactly right.
+"Vee, I l—"
 
-What got me most was him doing the brick-on-brick thing out loud. "Every weekend, I'm there… I told her she was the most important thing in my life." The book lets him hear himself doing it and not be able to stop, "because every brick was true and the true things were supposed to come to something." That's the closest the book has ever taken me inside why he won't say it, and it isn't a power move. He honestly thinks the evidence should add up to the word, and he can't see that she wants the word because it's the one thing evidence can't give her. "She looked at me like I'd handed her half of something." He saw it. He *saw* her face. That hurts more than if he'd been oblivious.
+I put the book face down on my chest and said "NO" out loud to an empty room. He was going to say it. After all those chapters, after the Daphne chapter and the whiskey and him sobbing over a truck that didn't turn in, he opened the door and the word was already in his mouth. And she cut him off with a button, because Randi told her words are the whole war. I know he was about to say it and she doesn't. Maybe she does, on some level, and she just didn't want to hear it out on that step. The book never tells me whether she noticed, and that's going to bother me for days.
 
-"I want Vee. I miss her." Plain, no math in it. And "Her name is Vee" when Sheri goes "the redhead" for the second time. I melted a little at that. Same with the table under the glass: "Vee would either love this place or never see it at all, and he wanted very badly to know which." And "Here he could have heard her whisper. He wondered whether she'd let him." He's thinking about her the way she thinks about him at the stove. It hurts because she's in a twin bed in Ohio building a blonde out of spite, and the woman he actually cooked for is gay, just lost a girl named Paige, and thinks his food philosophy is ridiculous. I want to text Vee so badly: *babe, Sheri is NOT the blonde. She's into YOU. Your backside specifically.*
+The coat plan was Randi's. "You don't do it with words." Randi handed her the script, handed her the shoes, sent her out to settle this with her body. That's the one way to settle it that leaves the frame untouched: nobody names anything, nobody asks what anyone is to anyone. I'm not saying Randi planned to stop the word. I think she partly meant it kindly. But it served her, and the shoes on Vee's feet in his house are hers. Then he says "Those stay on," and he's looking at Randi's heels on Vee. I felt that one in my stomach.
 
-"She find out about the brunette, then?" That landed like a dropped plate. Sheri knows there's a brunette, which means Pace has told *someone* the outside truth he won't tell Vee. "Not like that." Not like what, Pace? I wrote the last time that he won't lie and he won't tell, and here he is telling, just to the wrong woman.
+That said, the chapter itself got me, and I'm not going to pretend otherwise. The mirror scene is exactly what I came to this genre for and almost never get. Her desire is hers, from the inside. She takes the weight of her own breasts and finally understands why he never wants to leave them. Her mother's word turns up and finds nothing to hold on to. She stops herself before she comes, on purpose, and feels powerful about it. Nobody did anything to this girl. She chose all of it, in her right mind, and carried it out to him. The bra drawer closing on "everything not invited tonight" made me laugh. Kayla's laundry report while Vee stands there bare under the wool is pure comedy, and I loved her for it.
 
-The opening scared me a little: "he would not bring her down today… long practice at deciding a thing could keep." Then Elvis, "home for Christmas" pressing a bruise, and "People who've never lost anything think grief is a choice." So "I don't go back" isn't estrangement, it's loss, or both. I'm guessing that's what's actually under "I can't." If so, I'll forgive him a lot. Not all of it.
+The cop siren was the one moment that tipped toward farce for me. I rolled my eyes, then laughed anyway, then she pulled over shaking and I forgave it.
 
-He hasn't texted her the whole break, though, and the chapter doesn't make him answer for that. She was holding her thumb over the empty field at midnight, and he was out at a diner laughing. That's three chapters since they were last in a room, and I can feel it.
+The doorstep was everything I wanted. The wall in his face comes down all at once. "Like a starving man, and like a man just told he is forgiven, and the two were one look." Her yes was the open coat, about as unmistakable as a yes gets, and he still went slow, mouth at her throat and collarbone on a freezing porch. The door banging in the wind with neither of them moving to shut it. Three hobbling steps toward the bed with his jeans around his thighs, then giving up on the couch. Graceless, which is exactly what they were that night, and so hot. Afterward his head on her breasts, keeping her lit and asking for nothing. Then he got up, shut the door, tucked a blanket around her and made pancakes from scratch at midnight. "Those stay on" is the dominance I want: one quiet sentence, she blushes and leaves them on, and nothing about her disappears under it.
 
-Sheri's mouth about Vee's body made me wince for a second ("the one with the big tits"), then I decided it's how she loves him, and he blushed and talked about the philosophy anyway. He's a good man who can't do one thing. Sheri's right that from where I sit, it feels pretty shitty.
+Then he goes down on one knee by her chair, voice cracking: "I'm sorry. I never meant to hurt you. I missed you so much." It's lovely, and it's still not the word. And she's so full she has no room to want what he didn't give her, "tonight." That "tonight" is doing a lot of work. The book knows it's a truce and not an answer. The word is still out there, one syllable from being said, and she's the one who put it back.
 
-GATE 53 — The Usual
+And somewhere across campus Randi is holding a cold, empty mug with Brooke's "you need to choose" in her ears. Meanwhile Vee is walking home in his sweats and Randi's heels like that's nothing at all. Cassie's "Hmm" was perfect.
+
+If I texted a friend at 1 a.m.: "HE WAS GOING TO SAY IT AND SHE UNBUTTONED HER COAT OVER IT."
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "I can't." I let out a groan at it, but Sheri wouldn't let it stand, so neither did I.
-WHY: The book said my complaint out loud through the one character with no stake in flattering him, and it gave me the first real hint of what's behind his silence. He misses her plainly, and she thinks he's with a blonde. I need the term to start and the two of them back in one room.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car" (the one beat that felt like sitcom, and even that only for a second)
+WHY: Her desire was hers from start to finish, and his care held even while he was wrecked with wanting her. That's what I came back to this genre hoping to find, and the reunion earned every chapter of that gap. NEXT is a notch under CAPTURE only because the reunion settled the night without settling them. The cut-off "I l—" and Randi's shoes still being on her feet are the reasons I'm still turning pages.

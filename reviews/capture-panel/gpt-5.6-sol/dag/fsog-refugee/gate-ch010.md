@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha be1dc7d466f1 · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
-REACTION — Oh, Vee. Her bursting into the room needing Cassie to understand that nobody persuaded her, that she chose the kiss herself—I felt that right in my chest. That is exactly the distinction I need this book to understand, and it understands it from inside her. Pace accepting her no so completely that she had room to discover her own yes is more erotic to me than if he’d kissed her under that tree immediately. “He was already walking away and I pulled him back and I did it. Me.” Yes. That’s it. That’s the whole thing I came for.
+REACTION — Oh. Oh, this is exactly what I came back to this genre hoping somebody would finally give me.
 
-And then I spent the rest of the chapter increasingly worried about Cassie. She keeps seeing what Vee won’t, and Vee is already helping herself exclude Cassie by calling these places “not her thing.” That explanation is just plausible enough to go down smoothly, which makes it worse. Cassie’s little look being folded away hurt. I don’t want Vee to lose the friend who knows her well enough to ask the blunt safety question and then genuinely believe her answer.
+He gets out into the freezing rain so she can change privately, and she calls him back because privacy is no longer what she wants. That distinction is everything to me. He does not “accidentally” see her. He does not open the door early. He doesn’t decide her soaked clothes entitle him to help. He gives her the truck, the dry shirt, and his turned back—and then she chooses the audience. She summons him. She places his eyes where she wants them. She undoes every button herself. And when her desire is right there, unmistakable, he still doesn’t turn it into permission for anything she has not offered. God. Yes. This. A man’s control making room for her instead of swallowing her whole.
 
-Randi absolutely had me at “ask and then ravish.” The fact that she dropped into Vee’s private register for it—oh, I noticed. Vee felt her there too. There is real desire moving between them now, even if Vee still has nowhere to put its name.
+And it was intensely hot. Not just because he saw her breasts through the wet bra, though obviously that worked on me. It was the held gaze. Her knowing she could keep looking at him and choosing the moment they both looked down. The slow return of his eyes to her face. The fact that his answer was want and gladness, not conquest. She wanted to be seen doing the forbidden thing, and he let the seeing itself be enough. I felt completely inside her desire rather than outside watching a man do something to her.
 
-But I do not trust Randi, and I’m not supposed to. That invented bad date was exquisitely calculated: she handed Vee a counterfeit intimacy, then used it to draw out every private detail of the real one. She’s learning exactly what Pace’s asking and choosing are doing to Vee, while Vee thinks she is confiding in a dear friend. And the cruel complication is that I think Randi’s feeling is real. Calling Vee her “dear friend” in front of Brooke cost her something; taking her hand cost something; I believed that completely. It moved me. It also bound Vee tighter to her at exactly the moment Vee felt socially exposed. Randi may be sincerely protecting her and expertly handling her at the same time, and that combination scares me far more than a simple villain would.
+Then she reaches for his hand because she wants more—and discovers he is shaking. That turn nearly undid me. He has been so consumed by what she freely offered that he has apparently forgotten his own cold, but the instant she notices, she takes care of him. Pulling his hand beneath the flannel against her warm belly was somehow more intimate than the kiss she had intended. It made the heat belong to both of them. They are not yet declaring feelings, but this is already tenderness with a body.
 
-The jacket’s “every yes was freely given” is beginning to feel like a knife being sharpened. Vee’s yes to Pace is beautifully free. Her yes to Randi’s friendship is being cultivated inside a lie. I’m already reading on because I need to know whether the care becomes strong enough to make them confess—or merely makes the eventual betrayal hurt more.
+The whole hike got to me before that, too. The bare foot in his hand could so easily have become a little humiliation scene, especially with her mother’s voice already loading it with shame. Instead he just fixes what hurts. He notices that he should have asked about the boots and apologizes without making a production of being considerate. Same with the cherry pit: he corrects her gently, puts his own pit beside hers, and gives her a way to know better without making ignorance into a character flaw. “She had it and he hadn’t made her small to give it to her” is almost the entire reason I trust him with her.
 
-GATE 10 — Dear
+And the dress. He heard the wanting and did not immediately seize it, promise it, buy it, or turn her desire into a debt. He simply said it sounded beautiful. I absolutely believe he has memorized “russet silk,” though, and I am both thrilled and wary about what he may eventually do with that knowledge.
+
+Randi is still inside this encounter in a way that makes my skin prickle. Her word, her fantasy, her delighted instruction came up the trail with Vee. Yet what happened in the truck was not Randi’s script. Randi imagined Pace ravishing her; Vee called him in and made him watch. That is Vee’s erotic imagination beginning to take authorship, even if Randi helped wake it. I desperately want Vee to realize that difference someday.
+
+And then that miserable little siren stole whatever she was about to say. I wanted the quiet sentence. I wanted his answer. Instead she is left in his shirt, soaked and warm and carrying the whole unfinished thing upstairs. I am not putting this book down.
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee claiming her own desire gave me exactly the consent-and-intensity combination I want, while Randi’s public choice of her turned their bond into something unmistakably charged. I’m frightened by how genuine Randi’s tenderness seems inside the manipulation, and I need to see what that contradiction does to all three of them.
+WHY: This gave me exactly the combination I read for: his restraint creates the space in which her desire becomes bold, deliberate action, and then her care for his shivering body turns the erotic moment tender without cooling it. The interrupted goodbye has me already reaching for the next chapter.

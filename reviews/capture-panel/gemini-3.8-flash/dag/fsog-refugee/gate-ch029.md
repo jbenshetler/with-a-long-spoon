@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch029 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
 REACTION
 
-*Oh.*
+Oh my god. My jaw is on the floor. I literally had to put my hand over my mouth in that practice room.
 
-My stomach dropped when Sheri asked, *"And the redhead?"* and Pace just said, flat out, without blinking: *"Not yet."*
+The psychological game Randi is playing right now is breathtakingly dangerous, and Vee is walking right into it like a lamb with a bell around its neck. But what makes it so intensely hot—and so completely terrifying—is that Vee isn't being pushed; she is *pulling*. Vee is the one who grabbed Randi’s wrist! Vee is the one who wanted to go somewhere private to spill her guts! And Randi, like the absolute master predator she is, just gently set the bait, sat back in that battered chair in the soundproof cell, and let Vee unravel herself.
 
-"Not yet." That hit me like cold water to the face.
+The way Randi drew that detail out of her—*“His hand was wet... so his hand was wet”*—and then immediately normalized it, fed it, and gave it a name by telling her own story. *“Over his knee. Like a naughty little girl. Skirt up. Panties down.”* Randi knew *exactly* what she was doing. She knew what Pace built in that bedroom (the bench disguised as a table), she knows Pace’s tastes, and she is actively prepping Vee's mind and body to accept what’s coming next from Pace, all while stoking Vee's arousal right in front of her.
 
-Look, I knew it from the jacket, I knew it from his apartment, I knew Randi was in his bed the night before—I *know* the setup. But hearing Pace say it aloud to an outsider, out on a bike ride on a cold Saturday morning, made the reality of the deception land with a sickening thud. Vee was in that bar Thursday night drowning in humiliation and insecurity, sitting alone staring at the floor because of this very blonde woman, then running to Randi to confess her deepest, rawest vulnerabilities—and here is Pace, talking about Vee like she's a piece of walnut wood he admires, admitting so casually that she doesn't know she's being shared.
+And Vee having to literally bolt to the bathroom because she is *soaked through* just from Randi talking about being spanked and touched? Having to physically pin her own hand to her knee so she wouldn't touch herself in a campus restroom stall over a story another woman just told her? God. The heat in this chapter was completely psychological and completely off the charts. It's that simmering, unspoken triangle where Vee still thinks these are two separate, miraculous relationships in her life, and both of them are quietly carving out the exact shape of her surrender.
 
-"Two of them at once. How do you sleep?" Sheri laughs. It’s treated like a high-five, like a guy getting away with something enviable. "I bet it's worth it."
+I’m watching the trap snap shut and I cannot look away. It’s so intimate, it’s completely rooted in Vee's own awakening appetite, and the tension of when the shoe is finally going to drop is almost unbearable.
 
-I didn't hate the chapter—honestly, seeing Pace run his mouth about how Vee touched the walnut joint and didn't drop the math book was sweet, because it shows how deeply she’s actually gotten under his skin. He couldn't help himself. He sounded completely smitten, to the point where his friend instantly clocked it ("Listen to you"). But the tenderness doesn't erase the knife he's holding behind his back.
-
-He protects Vee from Sheri ("She couldn't take your heat"), but who is protecting Vee from *him* and Randi? The consent I cling to with him inside his bedroom—the way he watches her, asks her, waits for her—is built on a foundation where the most important door in the house is kept locked and hidden from her sight. "Not yet." God. That answer chilled me. I need Vee back on the page, and I need her to start seeing the corners of this frame, because the longer this goes, the worse the break is going to be when that shoe drops.
-
-GATE 31 — hills-and-valleys
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 1
-ALMOST-STOPPED: "And the redhead?" / "Not yet."
-WHY: It’s chilling to hear him so casually state that Vee is completely in the dark while he and Randi orchestrate her life. But his blurted-out softness about her touching his woodwork proves she isn't just an experiment to him, and the narrative tension around when the truth breaks is pulling me hard.
+ALMOST-STOPPED: none
+WHY: The sheer psychological tension in that soundproof practice room was incredible; watching Randi gently draw Vee's deepest desires to the surface while Vee has no idea how orchestrated it is had me completely hooked.

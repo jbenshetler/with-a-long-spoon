@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is what I wanted. Just the two of them in his house, the dishes and the wine and his back under his shirt—and then Vee deciding, entirely for herself, that she wants to show him. Not because Randi arranged the entrance, not because Pace requested a performance. She invents the game, puts him in the chair, tells him to wait, and makes him obey. I loved every second of that reversal. His control makes room for hers without becoming less powerful.
 
-Oh, I loved this for her. I loved that the grand entrance she had imagined did not conveniently present itself, so she made the moment happen. That second, longer step was entirely Vee’s. Nobody instructed it, nobody coaxed it out of her, nobody was even there to reward her for it. She chose to let the room see her, felt her body answer the choice, and kept walking. That is exactly the distinction I have been desperate for this book to protect: desire can be influenced, dressed, encouraged, even awakened by other people, and still become genuinely hers.
+And the restraint nearly killed me. His hand starting toward her and then being put away. Him staying exactly where she placed him while she walks naked down that hall. He wants her unmistakably, but wanting does not become entitlement. He lets looking be the touch because looking is what she has offered. That is the intensity I came here for: not less consuming because he waits, but more.
 
-And God, the secret of nothing beneath the dress worked on me. Her hand keeping the slit closed, the careful first step, then deliberately opening her stride—it was hot because she had complete control over what the room received. Everyone saw the leg; only Vee knew the full truth. Even Pace does not get all of it when she sends the photograph. I especially loved that. She gave him the image of his dress doing what he made it to do, but kept the private charge for herself. For once, information flowed exactly where Vee chose to send it.
+The dress walk felt triumphant, but the second entrance felt intimate in a way the induction never could. She isn’t merely enduring being seen now. She is constructing the sight, carrying it to him, standing inside his attention, and refusing to cover herself. Her desire is doing the directing. Even the blush belongs to her; it doesn’t send her running.
 
-I missed Pace. I wanted him in that room almost painfully, because the dress is his attention made physical and because he would have understood what it cost her to cross that stage without shrinking. But his absence did not hollow the chapter out. In a strange way it made the triumph cleaner: she was not performing only for the man she wants. She wanted the room’s eyes for herself.
+“The other is for the world. This is just for me” absolutely got me. Yes, it is possessive, and yes, I wanted it—because he says it after she has chosen what is his to see. He doesn’t claim what she gave the room. He recognizes the private gift as private. I would text a friend at one in the morning: *He stayed in the chair. She told him to wait, walked in wearing only heels, and he stayed in the chair.*
 
-And Cassie—“somebody had to document it” nearly got me. No prying, no interpretation, no trying to own the moment. She simply saw that Vee had done something important and preserved it for her. Then “you can be famous at me,” which is such a Cassie way of loving her: dry enough not to embarrass her, warm enough that I felt it anyway.
+Randi is still present at the edges through those shoes, and the buried deception has not become less dangerous. But this moment between Vee and Pace is theirs. I believe that completely. And after so much arranging done around Vee, watching her arrange him was delicious.
 
-The heels still put a little stone in my stomach because I remember the emergency card even when Vee is letting herself forget it. Randi’s kneeling is embedded in this look, Pace’s labor is embedded in the dress, and Vee believes she assembled the whole transformation herself. But this particular walk belongs to her. Nobody gets to take that away later—not even the truth.
-
-GATE 34 — The Induction
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s long second step was the most purely self-authored thing she has done in chapters, and it thrilled me. I want to stay with the woman who walked back to her chair carrying a secret even Pace did not own.
+WHY: Vee authored every part of this encounter, and Pace’s visible desire was matched by equally visible restraint. I am already turning the page because she is standing naked in his light, he has just named the difference between public display and private offering, and neither of them has moved yet.

@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch027 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e9e0311de50b · 2026-10-10*
+*capture-dag-v2-rich · gate ch027 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-10*
 
-**REACTION**
+## REACTION
 
-Okay. I closed this one and sat with my hand flat on the page for a minute. It's a lovely chapter and I'm afraid for her. Both of those are true at once, and Randi keeps doing that to me.
+This one was short, but it hit me twice, about a page apart.
 
-I liked the opening more than I expected to. She refuses Cassie's alarm, rations his shirt, sticks her face in cold water "like a verdict," and calls her own face "sad clown." The funk was a choice and she's done making it. That's my girl. She gets up, puts bare legs out in October, eats an apple, and walks across a rinsed blue day to fix what she broke. After the last chapter, where she called herself a slut in her own head and paid for a cab with money meant for other things, I needed her to stand up on her own. She did, before Randi said a word.
+The first hit was him talking about her. Sheri says "Vee," and he's off. He tells her about Vee running her thumb down the walnut joint he spent a weekend on, and about her pulling a math book off his shelf and not putting it back, "like it had burned her." He doesn't hear himself. Sheri says "Listen to you," and "He didn't know what there was to listen to" just about finished me. He's gone on her and he's the last to know. That's the man I've been following since the sun porch. I also needed Sheri's report on the bar more than I realized. Vee sat alone with one drink, danced with nobody and left alone. Someone watched her that night when he couldn't, and now he knows that she was okay and that she was loyal to him. I let out a breath for her.
 
-Then the house. Brooke opens the door, "you're the stats friend," and there's already a folder on her. My skin went cold. Vee has never told that house anything, and they know her. Then Randi comes down the stairs with no makeup on, freckles across her nose, and I melted, which I resent. "Oh, honey. Come up." She's so good at this. She takes the worst minute of Vee's life, turns it over, and hands her the back of it. "You don't get that jealous over a man you don't care about." It's true, and it's kind. I'd want a friend who said that to me.
+The second hit was "Not yet."
 
-Then "Not today." That's an instruction, not advice, and Vee stops mid-rise out of the chair. Everything Randi says to justify it sounds wise: it'll read as panic, go in *sure*, give it a day. But I know what Vee doesn't. Randi sleeps in that man's bed. The delay buys Randi a night, maybe two, with Pace in that silence first. And "He won't text you, by the way" is said with a confidence only his girlfriend could have. It sounds like a good friend's intuition, and it's really inside knowledge. Vee says thank you for it. I wanted to grab her wrist.
+"She know about the redhead?" "She knows. She likes her." *Likes* her. Randi is in love with Vee and lying to both of them, and he hands Sheri "likes her" like it's the weather. Then "And the redhead?" gets "Not yet." Those two words carry a plan. It isn't "no," and it isn't "I don't know how to tell her." It's a timeline, and Vee has never been told it exists. It's the staircase again, "from where she is to us." The night before Vee walks up to his door in Randi's shoes, he's describing her to a friend as someone who doesn't know *yet*.
 
-Then the dressing, and wow. "Stand up, top off." The Edna Mode bit made me laugh out loud, and I loved that Vee was the one who got the joke in. The two of them cracking up in that cold bright room felt real, like girls. Then the hand comes up under the skirt to the outside of her thigh, the thumb presses into the hollow behind her knee, and "her skin came up singing." That was hot, and I didn't expect it to be hot. Vee can't see any of it under the long skirt, so she just stands there and gets tended to. Was it asked for? No. Did Vee want it? Her body did, clearly, from the inside, and the book shows me her desire and not just Randi's hands. I'm not upset about it. I'm *watching* it. The shoes do exactly what Pace's lead did on the dance floor: "Being given no say in where her foot went made her surer of it." The book is putting the two of them side by side on purpose. Pace's version of that is "if you want to, I'll teach you." Randi's version is the two-finger spiral, *up, off*, and Randi crouching to the closet floor and choosing the shoes.
+Then Sheri says "Two of them at once. How do you sleep? That must be better than your dreams," and he doesn't answer. To be fair to the book, Sheri is the one winking, not the narration. She's running the arithmetic "anybody could run," and his silence could be discomfort as easily as agreement. I want it to be discomfort. I can't tell, and I think the book wants it that way. "But I bet it's worth it." Worth it for whom, Sheri? You watched Vee nurse one drink alone and glare at the floor. You know what she looks like when she's hurt.
 
-"Maybe you just haven't met your Evil Queen yet." That line is a woman telling on herself out loud, and Vee laughs. "Shoe whore." The scarf was set up two chapters back, when Vee pictured Randi tied up, and now it's around Vee's throat with Randi's hands over hers teaching her to make it hold. "Tension. Snug." I felt that line in my teeth.
+I like Sheri a lot. She's small and fierce, faster on the climbs and never lets him forget it, with the bleached ponytail and the temper that's "worth everything" from the other side. "She couldn't take your heat" was sweet and a little protective. I think she's the bartender who set Vee straight, and if so I love her more.
 
-The kiss at the door, where Vee doesn't brace and her mouth just meets Randi's, is a quiet huge thing. The esses running long again, and Vee files it away "somewhere across an ocean." Honey, it's not French. I've been watching that tell for four chapters now.
+The gap: it's Saturday morning. He and Vee haven't been alone together since the fire, and tonight is the door. This chapter kept me out of the room on purpose, and it worked. I'm wound tight. I needed to hear that he's lit up about her, and I got it. In the same breath I got the reason I'm scared of tonight.
 
-Where am I with all of them? Pace hasn't been in a room with her since he walked out of the bar, and I miss him. I'll wait a day for him the way Vee has to. The bartender clearing his name was enough for me to trust him with this. But Randi now owns the timing of the reconciliation and the costume Vee wears to it: black dress, Randi's shoes, Randi's scarf. Vee will walk into Pace's house tomorrow dressed by his girlfriend. Something about that is gorgeous and something is awful, and I can't tell yet which one the book thinks it is. So far it hasn't winked. It lets Vee feel picked and lets me see the strings, which is why I'm still here.
+1 a.m. text: *he talks about her like a boy with a crush and then says "not yet" like it's a schedule. I'm reading the next one RIGHT NOW.*
 
-What I'd text at 1 a.m.: *she sent her home in her own shoes and her own scarf and told her to wait a day. that woman is either the best friend in the book or the villain and I think she doesn't know which either.*
+---
 
-GATE 29 — broken-in
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 6
 NEXT: 9
-HEAT: 2
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "Not today." I didn't nearly put the book down there, but it's the one spot I tensed up and thought: if the book wants me to read this as pure wisdom, I'm out.
-WHY: Pace isn't in this chapter, but the Randi-Vee charge on the closet floor was real, it came from inside Vee, and I didn't see it coming. And now I need tomorrow night: Vee at his door in Randi's shoes, and whether that delay was a gift or a theft.
+ALMOST-STOPPED: "And the redhead?" / "Not yet."
+WHY: It's a small, quiet chapter, but his not hearing how he sounds about her is real tenderness, and I believe it. "Not yet" made me sure there's a plan Vee has never been shown. With Saturday night next, I can't put the book down. I need to see which man opens that door.

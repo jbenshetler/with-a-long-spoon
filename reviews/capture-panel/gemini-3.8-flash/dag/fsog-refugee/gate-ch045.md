@@ -1,34 +1,28 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION
 
-Oh, God. My chest actually aches. That physical hollow you get right beneath your collarbones when you watch someone hand their whole bleeding heart to someone on a platter, and the person just… smiles, pats it, and sets it on a side table.
+Oh, God. This hurt. This one went right between the ribs.
 
-*“I had been eating crackers my whole life. And you fed me a meal.”*
+Taking off the flannel. Stripping it off her bare skin and leaving it in a heap on the mattress because the smell of him isn't enough anymore—that is an absolute gut punch. Because remember what that flannel was: it was her talisman. She made him wear it for a whole weekend just so she could breathe him into her lungs when they were apart, so she wouldn't feel so starved in that cold dorm. And now, she can't even stand the comfort of it because she realized the terrible, crushing truth: *the heat in the shirt was her own, given back.*
 
-It was poetry. It was her soul. She spent weeks constructing a safe little vessel that could carry all her terrifying, starving love for him without breaking the rule, without scaring him, without demanding what he hadn't offered yet. She gave him the truest piece of herself.
+That line completely leveled me.
 
-And what does he say?
-*“I love how good we are together.”*
-And then: *“What your body does—I've never.”*
+She is waking up from the dream, and it’s not because she discovered the trap with Randi—it’s worse, it’s happening from the inside out. It’s happening because of the silence. It’s the sheer agony of a woman who has offered up her entire body, her absolute trust, her private appetites, her vulnerability, and is met with exquisite care, unbelievable sex, gourmet meals... and an impenetrable wall where his heart should be spoken aloud.
 
-*What your body does.*
+Chapter 43 showed us Pace and Randi tangled up in his living room, fucking and scheming and casually dissecting Vee like a prized piece of fruit they're waiting to split. And here is Vee, alone on the top bunk, freezing, realizing that all his attentiveness might just be a very elaborate, very beautiful cage that doesn't actually name her as his. She tried to tell him on the porch: *I had been eating crackers my whole life, and you fed me a meal.* And he gave her: *I love how good we are together.* A mathematician’s deflection. An evasion wrapped in a kiss to the crown of her head.
 
-He reduced her feast to an athletic performance. He reduced her soul to great sex. And knowing what I know—knowing that he and Randi sat on that couch, plotting her, dividing her, fucking while talking about her wetness and her kissing—it made that sentence feel like a dull knife twisting between her ribs. He literally couldn't say the words back because he’s running a game on her. He likes what her body does. He likes how good they are together. But he is withholding the one thing she is starving for, and worse, he deflected her love with a compliment about her physical responses.
+I’m furious at him. I really am. In the early chapters I was swooning over the drawers and the scrunchies and the tenderness, but this is the dark side of a man who keeps total control. He controls the thermostat, he controls the meals, he controls the pace of her orgasms, and he strictly controls the narrative. He refuses to give her the word. He won't say *I love you*, he won't say *girlfriend*, he won't let her hold him to anything real, because the second he names it, the threesome trap he's engineering with Randi becomes an outright betrayal instead of just a "game."
 
-And then rivers of tenderness to smooth it over. The deliberate pull. The cheek against her crown. The warm quilt. That’s what makes Pace so devastatingly dangerous. He isn’t cold. He isn’t a brute who brushes her off and walks away. He gives her so much physical comfort, so much *warmth*, that her brain short-circuits. He buries the slight in kisses until she feels crazy for even feeling the flinch. *She had been received warmly.* God, the sheer tragedy of that thought. That’s what the volume is called, isn't it? *A Warm Reception.* She's being received warmly, but she isn't being loved.
+And Vee is finally, blessedly, feeling the cold. Stripping that shirt off and choosing the raw, miserable draft of that cracked window over the false comfort of his scent... that's the spine in her. That's the woman who walked bare-legged across the stage. She's realizing that starvation isn't cured just by being fed; you have to be chosen. Really chosen, out loud, in the light.
 
-The laundry room scene broke me. Sitting on the folding table with the dryer humming, running the tape back. That sickening realization that your sentences didn't have the same shape. And her putting it into that dark little internal drawer—the drawer of things that don't fit, the small repair jobs she's had to do all autumn. She's starting to keep a tally of the cracks, even if she refuses to look at the pile.
+I need to see what she does when morning comes. I need her to look at him with that shirt still balled up on the floor.
 
-She offered him her heart, and he kissed her hair and talked about her body. I am furious at him, I am grieving for her, and I am utterly gripped.
-
-***
-
-GATE 47 — Seconds
+GATE 49 — Bare
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The emotional precision of this chapter was agonizing. Watching her offer him pure, vulnerable devotion only for him to deflect it into physical praise—while smothering the sting with tender aftercare—is masterclass character work that hurts so good. I have to see the fallout.
+WHY: The emotional ache of her pulling his flannel off and leaving it in a heap because his attentiveness can no longer hide his silence was devastating and completely earned; I have to see how she faces him next.

@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch007 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0aa35383c08b · 2026-10-11*
+*capture-dag-v2-rich · gate ch007 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b0e38f522c99 · 2026-10-11*
 
 REACTION
 
-Okay. So that's what the couch is for.
+Okay, so that was a breather, and I know it was a breather, and I still got a little wet-eyed at the bottom of a rec pool, which I did not have on my card for tonight.
 
-I knew this scene was coming — the jacket told me, flat out, that I'd be ahead of her the whole way — and I still felt my stomach drop when Randi came through that door with no hello in her. The deadbolt, then her mouth, then *tell me*. Three words in and I knew what she'd come for, and it wasn't him. Or it was him, but him as the window she gets to watch Vee through. And the thing is, I was right there with her. I wanted him to tell too. I sat on that couch wanting the report like I'd paid for it, and that's the "merciless" part the blurb was bragging about, I guess. It works. I hate a little that it works.
+The bleachers thing — "you won't need floaties with those" — I felt it in my own shoulders. Fifty yards of walking with your face on. And then Cassie, low, just for her: *Tossers. They will never know the love of a woman.* I actually said "oh, Cassie" out loud. Because she *has the lungs*. She could have thrown it up at them and made it a scene, and she kept it small and gave it to Vee instead. That's the second time now this girl has done the thing that protects Vee without asking for credit — the *Goodbye, Vee* in the lecture hall is sitting in my chest completely differently after this chapter. I think Cassie's in love with her. I think Cassie knows exactly what she's watching Vee walk into with Randi and knows she can't say it, and I think the book knows I'm thinking this and is letting me.
 
-The wine. God, the wine. He pours one glass, doesn't touch it, and takes every swallow off her tongue. That's the Pace I've been reading for since the apple — the man who sets the table an hour ahead because he knew "since about the second block of the walk home" that she'd come, and then lets her climb onto him and run the whole scene. She takes his hands and puts them where she wants them, she says *Tell* into his ear like an order, and he *laughs*, because she's directing him and he likes it. That's the trick I never get in the mafia books: the man in control who is genuinely delighted to be bossed. His stillness isn't withholding. It's room.
+The underwater part got me. "She had loved this before she had a body to be a problem." Oh. The one place nobody up there can see her and nobody down there wants anything — and she *grieves*, a little, because she knows she has to come up. I know that water. And here's what the book is doing to me that I can't quite forgive it for yet: I'm reading that line about the one thing that's never been taken, and I'm the reader who knows there's a plan. I know a man with a bench and a girl with a clipboard-sorority smile have already picked her, and I'm watching her float in the last room that's hers. It's merciless, exactly like the jacket promised. And the thing is, Pace with the pencil — *asked for it with his eyes first*, gave it back at the exact line she could solve it herself — I believed that. I believed *May I call you.* So I'm sitting here wanting him for her and afraid for her in the same breath, which is the exact feeling I came to this genre for and almost never get without the book cheating.
 
-But here's what I'd text you at 1 a.m.: *"She built a cup like nobody had ever told her when to stop."* I actually put the book down on my chest for a second. Because I was there, last chapter, inside Vee's head when her mother's voice went silent and the cup leaned and she bit her lip and didn't care. That was HERS. That was the first time in six chapters a girl in this book ate without permission. And he hands it to Randi as — what, foreplay? And Randi's thighs go tight at it. Randi, who portions herself to thin apple slices, getting off on a stranger's appetite. It's so sharp I could cut myself on it. It's also the hottest line in the chapter, which is the problem, which is the whole book, which — fine. Fine. I see what you're doing, Helen Rivers.
+What I'm clocking, honestly: it's been two chapters since Pace and Vee were alone, and the one they had was froyo and a walk. Lovely, but short. And the hot chapter in between was Randi tasting the wine and saying *tell* — which, fine, hot, I'm not immune — but it's Randi's heat, and I'm starting to feel the book keeping Vee's actual desire at arm's length while two other people handle it for her. I'll give it this. The care on the page tonight was real, it was just Cassie's care, not his. I don't need every chapter in the bedroom. I do need the next one to put him in a room with her, because I can feel the gap now the way you feel a tooth with your tongue.
 
-And then the thing that kept me. He doesn't give her the froyo confession. *This is the nicest a person has been to me in a really long time* — Vee asked him to pretend she hadn't said it, and he's sitting there with Randi's weight on him and Randi's wine in his mouth and he thinks, *it's hers*, and keeps it. That's the line I needed. That's the difference between a man running a game and a man who's already, without noticing, started protecting the girl inside it. He gave Randi the cup. He wouldn't give her the sentence. I'm going to hold him to that.
+The splash fight ending was perfect, though. "You can't grieve and fight your best friend for a mouthful of pool at the same time." That's a true thing. I'd text Jen that line.
 
-Randi, though. "Did she make you laugh?" — and then the quiet. He reads it as want held behind the face, and he's probably right, but I read something else under it too, something that looked an awful lot like a girl realizing the man she hands every evening to just spent an afternoon listening to someone else and came home *easy*. "She's easy to listen to." Oof. I don't think Randi knows which one she's jealous of. I don't think she wants to know. And after the bathroom in chapter one — the deadbolt in her ribs, *not ever* — I'm genuinely scared for her, because she walked in here wanting something out loud for the first time and it's a girl, and she's going to have to put the face back over it every single time.
-
-What's turning me on: the economy of it. Clothed, one glass, a couch, and I'm flushed. What's scaring me: the sentence *he had done nothing to grow it but leave it alone*, because that's his whole method and it's working on three people now, me included. What I'm suspicious of: whether this stays a game between two people who love each other once Vee starts actually being a person to both of them. The last line — he's had none of the wine and can taste nothing else — that's about Randi. I want to see what it costs him when it's about Vee.
-
-Give me the phone call. Give me Vee's side of this. I'll read until it's light out.
-
-GATE 7 — Tannin
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "She built a cup," he said, "like nobody had ever told her when to stop."
-WHY: The cup line turned my stomach — Vee's one unguarded moment handed over as a kink — and then he refused to hand over the other one, the true thing she'd asked him to pretend she hadn't said, and that kept me. Randi's hunger is finally out loud and it's for a girl, and he's running the whole thing from underneath her without a drop of wine. I'm complicit and I want the next chapter now.
+ALMOST-STOPPED: none
+WHY: A quiet chapter where the tenderness is real — just aimed at Vee from the one person who isn't in on the plan, which makes it ache more than it should. I'm keen for the next one mostly because I can feel how long it's been since Pace and Vee were alone, and the book owes me that room.

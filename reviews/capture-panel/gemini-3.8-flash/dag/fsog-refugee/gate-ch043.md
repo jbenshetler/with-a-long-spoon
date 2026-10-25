@@ -1,24 +1,34 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION
 
-God, that flannel shirt at the end. That completely wrecked me.
+Oh, God. My chest actually aches. That physical hollow you get right beneath your collarbones when you watch someone hand their whole bleeding heart to someone on a platter, and the person just… smiles, pats it, and sets it on a side table.
 
-The five nights apart—the fact that she called for the break because she was falling behind, and he just gave it to her without punishing her, without going cold, without playing a single mind game. That grace costing her more than a fight because she secretly wanted him to beg her to stay. I know that feeling so intimately. And then the absolute desperation of coming through the door, the ungraceful, frantic, peeling-off-clothes scramble where she loses all her dignity hopping on one foot in the hallway trying to yank her jeans off. It’s so real. It’s not a choreographed porn scene; it’s two people who have been physically and emotionally starving for five days colliding in an entryway.
+*“I had been eating crackers my whole life. And you fed me a meal.”*
 
-And the dominance in it is so effortless because it’s totally grounded in her wanting him. He stops her with one hand on her waist. He catches her bra strap and lets her spin herself out of it. He takes her right on the edge of the bed and lets her come fast and hard because her body just can't keep the secret of how much she missed him.
+It was poetry. It was her soul. She spent weeks constructing a safe little vessel that could carry all her terrifying, starving love for him without breaking the rule, without scaring him, without demanding what he hadn't offered yet. She gave him the truest piece of herself.
 
-Then the aftercare—the homemade pizza, the slow sauce with the splash of wine and cream, the quiet reverence of him just feeding her. But handing him that washed flannel and confessing that she sleeps in it every night, that it lost his scent, and demanding he wear it all weekend so she can take him back with her? The way his face did that tiny flicker of hurt thinking she was returning it, and then breaking into that rare, expensive smile when he realized what she was really asking? Putting it on immediately over his clothes, standing there in two shirts just so he can marinate it for her?
+And what does he say?
+*“I love how good we are together.”*
+And then: *“What your body does—I've never.”*
 
-I am so deeply in love with this man, and I am so profoundly terrified. Because two chapters ago, I watched him and Randi in that exact same house, on that couch, fucking like animals and talking about her like a shared project. The contrast makes me want to scream into my pillow. Vee is building an entire sanctuary out of this man's gentleness, and the floor under her feet is made of glass.
+*What your body does.*
+
+He reduced her feast to an athletic performance. He reduced her soul to great sex. And knowing what I know—knowing that he and Randi sat on that couch, plotting her, dividing her, fucking while talking about her wetness and her kissing—it made that sentence feel like a dull knife twisting between her ribs. He literally couldn't say the words back because he’s running a game on her. He likes what her body does. He likes how good they are together. But he is withholding the one thing she is starving for, and worse, he deflected her love with a compliment about her physical responses.
+
+And then rivers of tenderness to smooth it over. The deliberate pull. The cheek against her crown. The warm quilt. That’s what makes Pace so devastatingly dangerous. He isn’t cold. He isn’t a brute who brushes her off and walks away. He gives her so much physical comfort, so much *warmth*, that her brain short-circuits. He buries the slight in kisses until she feels crazy for even feeling the flinch. *She had been received warmly.* God, the sheer tragedy of that thought. That’s what the volume is called, isn't it? *A Warm Reception.* She's being received warmly, but she isn't being loved.
+
+The laundry room scene broke me. Sitting on the folding table with the dryer humming, running the tape back. That sickening realization that your sentences didn't have the same shape. And her putting it into that dark little internal drawer—the drawer of things that don't fit, the small repair jobs she's had to do all autumn. She's starting to keep a tally of the cracks, even if she refuses to look at the pile.
+
+She offered him her heart, and he kissed her hair and talked about her body. I am furious at him, I am grieving for her, and I am utterly gripped.
 
 ***
 
-GATE 45 — The New Ordinary
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The shirt scene broke my heart in the best way possible. The utter tenderness between them juxtaposed against the secret arrangement hanging over her head is peak emotional torture—I can't put this down.
+WHY: The emotional precision of this chapter was agonizing. Watching her offer him pure, vulnerable devotion only for him to deflect it into physical praise—while smothering the sting with tender aftercare—is masterclass character work that hurts so good. I have to see the fallout.

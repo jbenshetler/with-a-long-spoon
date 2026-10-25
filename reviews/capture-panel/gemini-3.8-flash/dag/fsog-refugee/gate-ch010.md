@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha be1dc7d466f1 · 2026-10-24*
+*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
 REACTION
 
-Oh, this chapter broke my heart in two different directions, and I am sitting here with a lump in my throat.
+*Oh my god.* My chest is physically tight right now.
 
-First: Cassie. Cassie is the absolute anchor of this book for me right now. That moment where Vee bursts into their room, doing that clumsy, joyous, breathless little dance, and Cassie is just sitting on the bunk with her sock feet and her dry wit, loving Vee so completely—that is real friendship. And Vee having that fierce, proud clarity: *"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."* God, I felt that in my bones! That’s the feeling every woman wants after a date that felt too good to be true: the ownership of her own desire. The fact that she stopped *him*, that she made the choice.
+This man got out of the truck in the pouring rain to give her privacy. He stepped out into a freezing downpour with only a thin, soaked blue shirt on his back, shivering so hard his hands were shaking, just so she wouldn't feel crowded while she changed. The sheer, breathtaking *respect* in that gesture—and the fact that Vee saw it, understood what he was offering her, and chose to shatter it entirely by knocking on that glass and calling him back in?
 
-And then the contrast when Vee goes to Randi. It makes my stomach drop.
+I can’t even describe the sound I made when she crooked her finger at him.
 
-Because on the surface, Randi is giving her everything Vee has ever craved: validation from the golden girl, being claimed in front of the shark tank (Brooke and Sloane terrify me in a very specific, deeply real way), being called a "dear friend" out loud while Randi holds her hand on the table. To Vee, that hand hold is a shield. It’s an embrace. It’s proof that she belongs. But because we know what happened in chapters 1, 3, and 7, watching Randi draw her out—watching Randi pump her for details about Pace, casually feeding the fantasy ("hair down, no bra, let your mountain man ravish you against a tree")—feels like watching someone set out sweet cream for a trap.
+That whole scene in the cab is everything I read this genre for. Everything. Fifty Shades could *never*. Captive-bride books could *never*. It wasn't him pinning her down or ripping her clothes off while telling her she wanted it; it was *her* on her knees on that unbroken bench seat, her heart pounding against her mother’s shameful, shaming voice, holding his eyes while she undid every single button herself. She made him watch. She weaponized her own exposure and turned it into total, absolute power. And the way he looked at her—not like a dog looking at a steak, but with that profound stillness, that utter gladness, leaving his hands completely to himself until she pulled him in... God. The tension was suffocating. When she realized his hand was trembling from the cold and pressed it against her bare belly under the dry flannel to warm him? That is the intimacy I am starving for in books. It’s tender and filthy and psychologically devastating all at the same time.
 
-And what killed me was this beat:
-*"He'd ask, though," she said, quieter... "Before he ravished me."*
-*"Ask and then ravish," Randi said.*
+And the rest of the hike! The way he fixed her boot without making her feel stupid or gross. The way he handled the cherry pit—"We take nothing and leave nothing"—giving her the lesson without an ounce of humiliation, and then casually eating another one so she could match him without shame. He is teaching her how to take up space in the world, how to have an appetite, how to be hungry and get fed.
 
-That sentence knocked the breath out of me. Because that *is* Pace. Pace *does* ask. He asks before he takes, he watches for the answer, he is exact and patient and tender. Vee feels safe with him because of that consent. And yet, the larger architecture around her is an ambush. She doesn't know she's in a play that Randi and Pace scripted together. The consent is real inside each individual room, but the context is a game. That tension—between how genuinely Pace cares, how much Randi actually seems drawn to Vee ("Vee's my dear friend" felt like a defensive wall against Brooke that was half-real and half-cover), and how completely defenseless Vee actually is—is unbearable in the best way.
+Which is why the dread in my stomach is just getting heavier and heavier.
 
-I need Sunday. I need this hike. I need to see Pace and Vee alone in the woods, because I want to see if Pace stays the man who waits for her, or if the game starts bleeding through.
+Because behind all of this exquisite care, there is the shadow of Randi. There is the bet, the game, the spanking bench waiting off 614. Pace is treating Vee with more reverence and gentleness than anyone ever has in her entire life, and yet the foundation is built on an ambush. The russet dress detail nearly broke my heart—she mentions a dress she loves and can't afford, and I *know* how romance plots work; that dress is going to show up. But in a normal romance, it’s a swoon. Here? With Randi whispering in the wings and Pace choreographing her desires? Every gift feels like a silk thread tightening around her wrists.
 
-GATE 10 — Dear
+I was furious at that campus cop for barking the siren and cutting their goodbye short, but honestly, leaving her standing under the dorm overhang in his giant flannel, completely transformed, with his scent all over her skin... what a final image. I am completely obsessed with this.
+
+***
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The contrast between Cassie’s grounded love and Randi’s intoxicating, slightly poisonous validation is brilliant; Vee admitting she wants a man who will "ask and then ravish" hits the exact nerve of what I read for, and the anticipation for this hike is through the roof.
+WHY: The sequence in the truck cab—Vee calling him in from the rain to watch her strip, turning her internalized shame directly into pure erotic power—is the exact pinnacle of what I read this genre for. Pace's unwavering restraint and the profound tenderness between them makes the underlying trap utterly agonizing to watch. I am desperately locked in.

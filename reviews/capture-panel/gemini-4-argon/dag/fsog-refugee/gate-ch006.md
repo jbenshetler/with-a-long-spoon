@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch006 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c7525ec1c0b8 · 2026-10-24*
+*capture-dag-v2-rich · gate ch006 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 822fde509de8 · 2026-10-24*
 
 REACTION
 
-Oh, my heart. "This is the nicest a person has been to me in a really long time. And it's froyo." And the way he doesn't brush it off or make a big awkward production out of it—he just lets the truth of it sit there between them and then gives her a gentle, grounding off-ramp ("Your tart's holding up"). That is *everything* I read for. That quiet, steady attentiveness where a man actually listens and waits for her to finish her sentences because what she's saying matters to him. And look at the contrast with Chapter 1: Randi counting out thin apple slices because of her mother's voice in her head, and here's Vee piling her froyo cup too high and suddenly realizing her mother's voice (*that's plenty, that's enough now*) went quiet because she's with him. He makes room for her to have an appetite.
+Oh, this short little chapter did SO MUCH. First of all, the wine kiss—him pouring just the one glass because he knew she was coming over, and then not pouring himself one because "everything he was going to have of it he was going to have like this"—I actually had to pause and fan myself. The callback to the apple in Chapter 1, her straddling him, putting his hands under her bra wire herself and demanding *"Tell."* And then her reaction to hearing that Vee piled her froyo cup high like nobody had ever told her when to stop! For a girl who polices every thin slice of apple and says "I can't eat that" to a cheeseburger without even looking at it, hearing about a lush, uncurated girl just *taking* what she wants and eating it all went straight between Randi's legs. That is so hot and so psychologically loaded.
 
-Also, Cassie's little comment about Vee staying up until two in the morning playing a healer for some business major—that tells me everything about how Vee has been starving in her relationships before this, always the one taking care of someone else, never the one being waited on. Of course she's falling in twenty minutes.
+And I am *so* relieved by one specific beat in here: when Pace thinks of what Vee said on the walk ("This is the nicest a person has been to me in a really long time") and *doesn't* tell Randi. "It was hers." Thank god. Because with the premise of this book—two lovers setting up a third in a game—the thing that could make me turn on Pace instantly is if he treats Vee's real vulnerability like locker-room fodder to get Randi off. Knowing he's already keeping Vee's private hurt safe, even from Randi, makes me trust him so much more.
 
-I'm still holding my breath a little because of the setup—Randi steering her right into it ("He wants to see you naked," "You're not unsure"), playing the part while knowing full well she's handing Vee over to her own Dom. It's a dizzying tightrope because it *is* a game they started, just like the jacket promised, and normally a setup like this would have my hackles up. But when Pace is actually with Vee, there's no wink, no cruelty, no sense that she's a joke to him. He's completely present with her. That's a short little chapter, just a bridge really, and now they're finally alone together and walking into the evening. Give me the next one immediately.
+Also... did Pace just completely misread Randi at the end there?! When Randi asks "Did she make you laugh?" and he says "She's easy to listen to," Randi goes still and her smile comes in a fraction late—the exact same "fraction late" from Chapter 2 with Brooke! And Pace thinks, *oh, it's her wanting Vee, a want too big for her face.* Wait. Is it?! Or did Randi just feel the first tiny prick of jealousy/threat because Pace is never just listening to *her* like that, or because he actually liked Vee for real? He thinks he can read every millimeter of Randi, and for the first time I'm wondering if he just missed something huge because he's only looking for her desire for Vee. I am completely hooked.
 
-GATE 6 — The Long Way
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It's a short, sweet chapter, and the way Pace listens to her and lets her embarrassment breathe without mocking or dismissing it is pure gold for me. He's finally alone with Vee, her mother's voice in her head went quiet around him, and I want to see where this date goes right now.
+WHY: Short, electric, and loaded with subtext. The wine-sharing and Randi getting turned on by Vee's appetite was scorching, Pace protecting Vee's vulnerable confession kept my trust in him intact, and that split-second misread at the end has me dying to see what happens next.

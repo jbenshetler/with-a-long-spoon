@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 822fde509de8 · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b0e38f522c99 · 2026-10-24*
 
 REACTION
 
-Oh, this short little chapter did SO MUCH. First of all, the wine kiss—him pouring just the one glass because he knew she was coming over, and then not pouring himself one because "everything he was going to have of it he was going to have like this"—I actually had to pause and fan myself. The callback to the apple in Chapter 1, her straddling him, putting his hands under her bra wire herself and demanding *"Tell."* And then her reaction to hearing that Vee piled her froyo cup high like nobody had ever told her when to stop! For a girl who polices every thin slice of apple and says "I can't eat that" to a cheeseburger without even looking at it, hearing about a lush, uncurated girl just *taking* what she wants and eating it all went straight between Randi's legs. That is so hot and so psychologically loaded.
+Oh, I love Cassie. And my chest actually aches for Vee right now.
 
-And I am *so* relieved by one specific beat in here: when Pace thinks of what Vee said on the walk ("This is the nicest a person has been to me in a really long time") and *doesn't* tell Randi. "It was hers." Thank god. Because with the premise of this book—two lovers setting up a third in a game—the thing that could make me turn on Pace instantly is if he treats Vee's real vulnerability like locker-room fodder to get Randi off. Knowing he's already keeping Vee's private hurt safe, even from Randi, makes me trust him so much more.
+That line—"She had loved this before she had a body to be a problem"—just went straight through me. Every woman who grew up into a body that men decided was public property knows that exact grief, that feeling of having to put on a "game face" just to walk fifty yards past a row of bleachers, carrying your towel at your side so they don't get the satisfaction of seeing you cover up. And then sinking to the bottom of the pool where nobody can see you and nobody wants anything from you. God.
 
-Also... did Pace just completely misread Randi at the end there?! When Randi asks "Did she make you laugh?" and he says "She's easy to listen to," Randi goes still and her smile comes in a fraction late—the exact same "fraction late" from Chapter 2 with Brooke! And Pace thinks, *oh, it's her wanting Vee, a want too big for her face.* Wait. Is it?! Or did Randi just feel the first tiny prick of jealousy/threat because Pace is never just listening to *her* like that, or because he actually liked Vee for real? He thinks he can read every millimeter of Randi, and for the first time I'm wondering if he just missed something huge because he's only looking for her desire for Vee. I am completely hooked.
+It makes me understand immediately why Pace's way of looking at her—waiting for her, asking, letting her finish a sentence—landed on her the way it did, and why Randi's bright warm attention feels so intoxicating. Vee is constantly being *yelled at* or *taken in* by idiots on bleachers, and her own mother's voice in her head tells her to cover up because of it. Of course she's starving for someone to look at her with care.
 
-GATE 7 — Tannin
+And it also makes the whole setup with Randi and Pace—and Cassie's flat "Goodbye, Vee" back in Chapter 4—feel so much heavier. Because here is Cassie, who *actually* loves Vee, who keeps her joke quiet just for Vee's ears so it doesn't turn into a spectacle, who watches Vee surface with her face wrong and shoots water at her instead of poking at the sadness until Vee is making her ugly shriek-laugh. Cassie is a real friend. Randi is playing a game she started in bed with her boyfriend. I want Pace and Vee in a room together, badly—we've only had froyo and a math problem so far—but right now I'm mostly protective of this girl.
+
+GATE 8 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
+ROMANCE: 0
 ALMOST-STOPPED: none
-WHY: Short, electric, and loaded with subtext. The wine-sharing and Randi getting turned on by Vee's appetite was scorching, Pace protecting Vee's vulnerable confession kept my trust in him intact, and that split-second misread at the end has me dying to see what happens next.
+WHY: Zero heat and Pace isn't even in the chapter, and I didn't care for a second—this made Vee completely real to me from the inside, especially what it costs her to walk around in her own body. Cassie is wonderful, and now I'm dying to see what happens the next time Vee is actually alone with Pace (and honestly a little scared for her).

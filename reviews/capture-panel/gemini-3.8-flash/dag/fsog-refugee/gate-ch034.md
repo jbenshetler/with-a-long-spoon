@@ -1,20 +1,30 @@
-*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
 
-REACTION
+REACTION:
 
-*Oh, my God.* Look at her. Just look at what she did!
+Oh, this chapter just completely wrecked me in the best possible way.
 
-The sheer nerve of this girl! After spending chapters hiding behind nervous chatter, blushing until she practically burst into flames, frantically making jokes so she wouldn't have to face her own hunger—she put him in that chair, held up a flat hand to keep all that powerful muscle pinned right where she wanted it, and took absolute command of the room. She didn't wait to be coaxed. She didn't wait for him to ask. She walked out in that silk dress, gave him the induction stride that belongs to him because he built the damn thing, and then went right back to strip down to those expensive strappy heels and brought him her bare skin, her secret, her choice. "And this is what I had on under it." My jaw literally dropped. It is so breathtakingly bold, and it came entirely from *inside* her.
+I was carrying so much tension after the last chapter with Randi—that weird, slick, manipulative energy over pastries and bathroom stalls had me feeling almost sick for Vee. And then to walk into this chapter and have it be pure, unhurried, devoted shelter. The contrast hit like a physical wave.
 
-And Pace—god, this man. A massive powerlifter who could pick her up with one arm, who dominated her over the sheets twenty-four hours ago, and when she puts out one flat palm, *he sits back down.* He obeys her! He stays in that recliner with his hands politely tucked away, fighting his own body to give her the stage she asked for. He doesn't lunge. He doesn't grab her by the hips and turn it into a display of his ownership. He lets the looking be the touch. He understands that this is *her* offering, her theater, her bravery, and he honors it by letting her hold the power.
+First of all: the door opening and him lifting her clean off the floor. That whole reunion, dropping their coats where they stood, the fact that he *always* brings her over the edge first before he even thinks about taking anything for himself. That’s what I read this genre for. That exact thing. It’s not just dominance; it’s an obsession that manifests as absolute, meticulous care. The cooking, the cold wine, the salmon, the coming back to her an hour later on the couch—the ordinary domestic poetry of a man who is completely, hopelessly in love with a woman and showing it through every single sense.
 
-That is what I read for. That exact balance. A man with all the control in the world who yields it instantly the second she steps up to claim hers. "The other is for the world. This is just for me." The tenderness wrapped up inside that scorching, clothed-and-unclothed visual... I'm clutching my chest. It's so intimate, so warm, and so utterly electric.
+And then the admission: she loves him. She whispers his real name while he’s asleep. My heart was in my throat, because on one hand, it is the most earned, beautiful feeling in the world, and on the other, I am still terrified of the secret between him and Randi that sits under this whole book like a landmine. When Vee counts all the ways he says it without saying it—"a man didn't do all of that for a girl he was only passing a season with"—I wanted to cry, because she is right. Whatever game they started, he is not just passing a season anymore. He's down in it.
 
-GATE 36 — Made-Up
+But the ending. *The drawers.*
+
+When she saw the bare counter, my stomach dropped right alongside hers. That awful, familiar panic of a woman who has spent her whole life feeling too big, too loud, too messy, suddenly thinking she’s taken up too much space and worn out her welcome. And then she pulls that top drawer open.
+
+He didn't just tidy up. He didn't leave an exasperated sticky note or put her things in a basket on the floor. He crammed his own life into the bottom drawer—the cramped one, the inconvenient one—and gave her the top one. The easy one. The one your hand goes to first. He made a home for her mess inside his neatness. He carved out permanent, physical room for her.
+
+No words, just the quietest, most devastating act of devotion. If a man did that for me, I would lay down on the floor and weep. I don't care that there wasn't a whip or a spanking bench in this chapter; the intimacy here was completely breathtaking.
+
+***
+
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee fully claiming her exhibitionism and her desire, coupled with Pace's reverent, disciplined restraint when she tells him to stay put, is the absolute gold standard of this genre. It's completely scorching and deeply tender at the exact same time.
+WHY: The quiet devotion of this chapter completely cleared out the bad taste of the brunch from before; the gesture with the bathroom drawer was one of the most tender, heart-melting moments of domestic intimacy I've ever read in romance.

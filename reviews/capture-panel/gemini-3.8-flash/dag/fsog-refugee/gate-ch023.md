@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b529b5725542 · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3e3674d6874c · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, my stomach just completely dropped out.
+Oh, god. My stomach is completely on the floor.
 
-I knew it was coming—I’ve known since the damn jacket blurb that this was a game between them—but reading it, watching it play out in the exact same bed where he held Vee the night before? It makes me physically sick. It is so brilliant, so sickeningly intimate, and so profoundly twisted.
+I’m sitting here in the dark after reading this, and my chest hurts so badly I can barely breathe. This chapter was breathtakingly tender—the kind of quiet, clothed intimacy that cuts a hundred times deeper than any sex scene—and it is utterly terrifying because of what we know. The dramatic irony has officially turned into a knife that the book is twisting inch by inch into my ribs.
 
-The betrayal isn't just that they're sleeping together; it's the *way* they're using Vee. They are literally passing her between them like a shared high. Randi lying on his chest, laughing about the shoe store, getting turned on by Vee’s shame ("*She went so red... That was kind of hot*"), and Pace—God, Pace, you absolute bastard—getting hard because Randi is dragging her breasts across his chest while talking about Vee's body! And then Pace fantasizes about the two of them together, Randi over Vee, before picturing Vee alone in his kitchen wrapped in his sheet. He's actively getting off on using Vee's vulnerability as foreplay with his lover.
+First of all: *Peter*. Hearing him give her his real name, and telling her about his childhood? Him at fifteen, a literal boy who got his desk put out in the hallway because a teacher didn't know how to handle his brilliance, doing long-division worksheets as a punishment for loving the thing that made him alive? That broke me. And then Daphne. When Vee did that arithmetic—nineteen and fifteen, assigned to him as an older tutor, the only soft place in a dorm full of adult men, and he defends it and calls it luck because he has no idea how vulnerable he was—my hand went right over my mouth just like Vee’s. It makes his absolute, immovable reverence for consent so achingly clear. He knows what it is to have people take things from you before you're ready, or maneuver you when you don't have the map. He protects Vee's pace with his life because he knows the cost of having your pace stolen.
 
-And yet, look at the cracks forming. The psychology here is terrifyingly precise. Pace tells Randi, *"You know what she does to a room... She comes in and the whole thing goes brighter... and she's the most alive person standing there."* And you can feel the temperature in the room instantly freeze. Randi *felt* that. She caught the edge of him slipping away, and what does she do? She weaponizes her body immediately. She shifts her hips, finds him hard, and rides him to reassert her claim, to make sure she still owns him.
+And that moment with the scar on his inner thigh! *"Not tonight."* No defensiveness, no snapping shut, just covering her hand with his, keeping her skin pressed against his, and saying *not yet*. He leaves the door unlocked. He lets her hold the mystery without shutting her out. That is pure romance. That is a bond snapping into place so hard it feels structural.
 
-Then the aftermath in the kitchen. Randi wearing his undershirt, curled up in the chair, letting him cook for her, eating *every bite* on the plate—Randi, who survives on green juice and cigarettes, clearing a plate because Vee cleared a plate. She's mimicking Vee's appetite to keep Pace’s care focused on her. She asks about his math presentation, plays the soft, domestic partner, stakes her claim on his ordinary life.
+And then... the ending.
 
-It makes the previous chapter—Vee practically vibrating with joy, running into class to see her two best friends, putting her emergency credit card down because she thought she had this magical sisterhood and this devoted lover—feel like a brutal tragedy waiting to detonate. Vee thinks she's blooming in the sun; she has no idea she's being passed back and forth like a stolen jewel in the dark.
+The last three paragraphs made me want to throw up. Vee lying in his bed, listening to him breathe, feeling lucky. Thinking about how six weeks ago she "stumbled" into Randi outside the dining hall, and then ten days later she complained about an integral and this magnificent man crossed the room. *"One piece, he'd said, about the leaf and the stars. It felt like that. It had come to her all of a piece, the one and then the other, in six weeks, for no reason she had done anything to deserve. She had never been so fortunate, or so happy."*
 
-I am horrified, furious at Pace, deeply unnerved by Randi, and completely, utterly hooked. I need the explosion. I need Vee to find out, and I need to see Pace realize the absolute ruin of what he's done to a girl he's actually, truly falling for.
+Helen Rivers is a sadist. She is setting us up for an absolute demolition. Vee thinks it was fate, a miracle, a gift from the universe because she finally bloomed. She doesn't know it was a design. She doesn't know Randi aimed him at her like a weapon. Seeing Randi in chapter 26 practically drooling over Pace's descriptions of Vee, pacing the kitchen in his undershirt, talking about Vee like a meal they're preparing together—and now Vee is lying in his bed, utterly safe, whispering his real name into the dark.
 
-GATE 23 — Gone
+I can't stop. I couldn't stop if the building caught fire. I need the next chapter right now.
+
+GATE 27 — Rock
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The utter devastation of watching Pace and Randi use Vee's joy and innocence as their private erotic fuel is sickening, but the psychological tension is unmatched—I cannot look away from this trainwreck.
+WHY: The absolute emotional weight of Peter opening up his past, paired with the nauseating gut-punch of Vee's innocent gratitude at the end, makes this impossible to put down.

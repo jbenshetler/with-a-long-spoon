@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9feb48dd23cb · 2026-10-11*
+*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 ## REACTION
 
-I need to talk about the hand in the lap first. Everything else in this chapter is warm and good, and then that.
+I put the book face-down on my chest after this one and lay there a minute.
 
-"One hand gone down off the table into her lap." The glazed look, eyes on the middle of the tabletop. Vee thinks she's moved her best friend and is "privately, foolishly proud" of it. I read that paragraph twice, then a third time, and I went cold. Pace is the one who set it up: "Randi said something you should hear." He tipped back in his chair and served Vee's blush across the table like a course, then leaned out of the light "exactly as he had all night for the others." Randi watched the heat climb Vee's throat "with open delight," brighter than the lamplight called for. Then Vee put her hand over Randi's wrist, over the bracelet, and the smile "got loose from her." Oh God. If this is what I think it is, Vee was just used in a public room. She was the dish, and the two of them were playing, and she toasted it. That's the third game from the jacket, right there on the page. I hate it. I'm also not sure the book is asking me to find it sexy. The sentence about Vee's pride is so tender and so wrong that it reads like the book knows, which is the only reason I didn't close it.
+What gets me is that the shame sits so far down. "Excessive, the shameful plenty of her." That's the old verdict, older than Pace, from boys who made jokes she believed. Then she smells her own fingers expecting what they promised her, and it isn't there: "a hothouse with its doors shut." I've been reading this genre since Fifty Shades and I can't remember a heroine actually checking whether she's disgusting and finding out she isn't. That's desire rendered from inside, which is exactly what I came here for. The book is the one making me feel it. It isn't Pace.
 
-Then I went back and everything else curdled a little. "He set them up... handing people the first line and then he stood back and laughed at their second one." That paragraph made me love him, a man who makes Danny and Theo and Cassie feel taller. Then I realized it's the same move they've used on Vee since October. Pace wasn't being charming with her friends. He was showing his method. "They share an interest. You." I'd text that line to someone at 1 a.m. with no comment, just the line.
+Then she stops a breath's width from her mouth, and the book lets her stop. It doesn't push her past it to give me a payoff. "Nothing in the room told her why." She wipes her fingers on the sheet, finishes anyway, and lies down on the wet patch on purpose: "Her mess. Hers to lie in." I loved that line. It's her own nerve and her own limit, both of them hers, and nobody gets to override either one, including Randi's voice in her head. That's the consent I care about, and it's working at the level of a girl alone in her own bed.
 
-And Randi's grip at "Vee's boyfriend," hard enough to feel the bones, which Vee reads as joy. Pace watched the kiss in the lot with "nothing on him." Vee's arm came across her body at the twinge, and she talked herself out of it as a trapdoor-checking habit. Her gut is right every time, and she apologizes to it every time.
+Here's my suspicion, and I'd text it at 1 a.m.: **Randi is in this bed.** "Had Randi's looked like this?" "A mouth carrying it back. Or Randi's own fingers." The whole chapter is a seed Randi planted across a white tablecloth with "I don't" and "it turned me on," and it's sprouting exactly where she aimed it. Vee thinks she's working out her own appetite, and she is. But somebody chose the soil. The jacket did warn me: "She doesn't know there are three." I don't think Randi is cruel. I think she's the most skilled steerer in the book, and every chapter I like her a little more and trust her hands a little less.
 
-But "Vee's boyfriend." Six times, flat and the same each time, and her saying it under her breath at the brisket. I melted, I'm not going to pretend I didn't. It still isn't the word, though. It's the smaller truth again, the public one. It's a title, not a confession. Cassie saying "You can stay" got me, and so did the whale under the boat. Cassie got the best story of their two years, and she gave it to him. Gave it to *him*.
+Two smaller things. This is the third chapter running that circles the taste-of-herself moment: the bed, then the booth, now alone. I'm starting to feel the book pressing the same bruise. It's done well each time, but I don't want a fourth. And Pace isn't here, apart from his flannel and his glad face. He said "Vee's boyfriend" six times on Wednesday and gave her a truck ride I'm still thinking about, but he still hasn't said the word. I'm not counting the days since they were alone together yet. I'm counting the days since anyone in this book said something true out loud.
 
-The truck. This is what I came to the genre for, and I'll say it plainly: her mouth, her greed, "the man who did six things at once, down to zero." His hand holding her hair, not steering. Her jeans, her hand, her fingers holding the lace aside, "an offering she had to keep making, choosing it again every second it went on." That's consent written as heat, desire that's all hers. "Yes, ma'am." The cold vents and September. Hot, honestly. I was right there in the cab.
+Cassie's window, shut and then shoved open again so the room doesn't tell on her: lovely. It's the coat lining again. Her body keeps leaving evidence, and she keeps choosing to keep it.
 
-Then the last line, the glass turning a slow quarter at a time and some small sentence at a window. Her own mind is keeping notes she won't read. So am I.
+---
 
-So: he's a wonderful boyfriend, and possibly also a stage manager. Randi loves her, and possibly got off on her across a tablecloth. I'm more frightened for Vee now than at any point in the book, and I'm still turned on. I hate that the book can do both to me at once.
-
-GATE 61 — Among Friends
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "one hand gone down off the table into her lap. Vee knew that quiet... she was privately, foolishly proud of being able to do it"
-WHY: The truck is everything I want, with her desire hers and every second chosen. The table scene before it might be the two of them using her without her knowing, and Pace staged the toast. I'm staying because the book seems to be holding that up to the light rather than winking at it. I need Thursday's debrief and Vee's gut to finally get a hearing, and if the book ever asks me to find that lap romantic, I'm gone.
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: "Had Randi's looked like this? Sticky too. Shining." For a second I thought the book might be about to make her reach for it on Randi's account, and I braced to leave.
+WHY: It's the most honest chapter about shame and appetite I've read in this genre, and the book respected her "not yet" at the edge of her own mouth. But it's the third pass at the same moment, Pace is only a memory in it, and I can feel Randi's hand on the whole thing. I want the next chapter to move. I don't want it to circle this again.

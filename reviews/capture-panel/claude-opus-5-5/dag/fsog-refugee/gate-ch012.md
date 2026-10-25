@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 60685a587d38 · 2026-10-10*
+*capture-dag-v2-rich · gate ch012 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-10*
 
 ## Reaction
 
-Oh, Cassie. Good. She got it first.
+God. Okay. It's 1 a.m. and I need to text someone about this.
 
-That's what I'm holding onto. Vee came home in his flannel and told the true version to the girl with the cracked window and the blood type ready, not to Randi over a bruise-colored smoothie. I'd been dreading the "Goodbye, Vee" turning out to be a prophecy, and in Chapter 11 I watched Cassie fold her look away and go up the aisle alone. Then Vee gave her the one thing in this book that's only hers: "I took my wet shirt off in front of him. On purpose. Me." It felt like the book letting me exhale. Cassie went still and stayed still. She said "Vee," soft, "like setting something down where it wouldn't break," and I set the book down for a second too.
+First, I got what I asked for: Pace's interior. I'd been wondering where he goes in himself, and the answer is that he showers the cold out, puts on Blondie, and stands at the open fridge, hungry, because he hasn't eaten since the rock. He gave Vee his only dry shirt and drove home soaked. I liked that before the chapter even got going.
 
-It's a coda, not a chapter, and that's fine. The truck scene is still burning in me. That was the most erotic thing in the book so far, and it was hers: her knuckles on the glass, her crooked finger, her eyes holding his, her mother's "floozie" turning into heat under her own control. He didn't lift a hand. He looked like she'd handed him something, which is exactly how she tells it here. Hearing her say it out loud to someone who loves her makes it more real. It isn't a secret she's ashamed of. It's news. "I'm reporting what I observed." "There's a whole situation under there." I laughed.
+Then Randi comes in, the deadbolt goes over, and I knew. Of course she came tonight, the same day as the hike. She asks "How was it?" right into his mouth and doesn't let him answer. She doesn't want the trail. She wants to not hear about the trail. She gets on top and makes him watch her take him an inch at a time, and all I could think about was that mirror: *he gets the face, never her again.* That's what this whole scene is. She's in total control and she's armored all the way through. It's hot, and I won't pretend it isn't. Him unable to keep his hands off her between garments, the groan he "had not decided on." But it's hot the way watching someone run on a broken ankle is.
 
-Then I noticed the retelling bends a little. "So I wouldn't have anybody looking at me." She's already turning him into a saint in the story, and maybe he is one, out there in the rain. But I still don't know what was in his head in that truck, or as he drove away with a campus cop behind him. Three chapters and no Pace interior. The tighter I hold "may," the more I notice the book won't let me inside the man who says it.
+Then "Tell me," and he tells her about the gardenia. The chlorine in Vee's hair. And then "Her stomach is soft," and my stomach dropped. That's from the truck. Vee took her shirt off with her mother's voice in her ear and gave him that, and here it is in Randi's lap, again. Same as the froyo cup. He keeps back *how* he knows, and the book wants partial credit for that: "she had given him herself... and he kept it." No. You kept the scene, Pace. You spent the fact. I'm still holding him to "may," and he didn't ask Vee whether this could leave the truck. I came closer to closing the book there than anywhere else so far.
 
-The thing that actually scares me now is the dress. Russet like brick, set down on the rock, and his "That sounds like a beautiful dress," with no weight on it at all. I'd bet money that dress shows up in a box. Whether that turns out lovely or turns out to be another move in the game depends entirely on whose idea it was. And somewhere Randi is going to get her full report, and Pace is going to get his on Randi's lap. That buttoned-to-the-collar flannel is going to become "*Tell*."
+But Randi. She clenches and goes still with her eyes shut, then drives down on him so hard her belly goes "tight as a board," and he reads it as want. He *takes it for the want*. He has no idea. That's not desire, that's someone punishing herself or punishing him or just trying to outrun it. And "I want us," torn out of her. I read that as *us, just us, not her*, and he hears it as the first swallow of something good. Then she does the thing she's never done and leaves. "See you." No food (of course no food), and a cardigan over bare arms. *A cardigan.* Is that Vee's armor on Randi now, or am I seeing things?
 
-"Keep the shirt." I'd die for Cassie.
+And him standing in the open door with the cold coming in, that low plain ache: *she had not wanted to stay.* Let me be clear, I felt for him. It's real. He's the most attentive man in the book and he's completely blind about the woman in his bed. Then he eats twice. Hungry and still hungry after. Everybody in this book is starving, and only Vee is allowed to eat.
 
-## Gate
+So where I am on them now: I'm still protective of Vee, which hasn't moved an inch. Randi is cracking, and it frightens me, because a cracked Randi is the one with her hand on Vee's in public. Pace is human now, sad, and guilty, though he doesn't know he's guilty. The book isn't winking at me. It's making me watch him misread and not saying anything about it, and that's the only reason I'm still in.
 
-GATE 13 — Rye
+---
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 8
 NEXT: 8
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: It's a short, warm exhale after the truck, and it gave the true story to the one person in Vee's life with no plan behind her love. The capture is gentle because it's a debrief. What I want next is high because I need Pace's side of that cab and Randi's face when she hears it, and I can feel the russet dress coming.
+ALMOST-STOPPED: "Her stomach is soft."
+WHY: The sex is real heat with something rotten underneath, and the book knows it, which is why I stay. Pace handing over Vee's truck moment, even half of it, made me want to slam the book shut, but Randi breaking and leaving, and Pace's ache in the doorway, are exactly what I've been waiting to see crack. I need to know what Randi does next, and I need Vee alone with him again soon.

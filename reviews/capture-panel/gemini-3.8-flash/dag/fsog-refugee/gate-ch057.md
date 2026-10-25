@@ -1,20 +1,32 @@
-*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · 2026-10-11*
+*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9feb48dd23cb · 2026-10-11*
 
-REACTION — God, my chest is so tight reading this, and it’s not because the chapter is bad—it’s because it’s *so sweet* and I am watching a girl walk straight toward a landmine with an armful of flowers.
+REACTION
 
-Seeing Vee with her dorm friends—with Kayla losing her mind over waffles and socks, and Meg being that dry, solid presence talking about her period and *The Matrix*—is pure sunshine. It feels so grounded and normal. Vee telling the flashed-him-on-the-porch story to her friends over mimosas is such a real, funny, college-girl moment. She’s beaming. She feels loved, she feels chosen, and having Pace offer to take *all* her people out to dinner feels to her like the ultimate public validation. She thinks she won. She thinks she took a brave gamble, stripped off the past, and brought her man out into the light.
+I feel like I need to pace the floor. My hands are shaking. I am so turned on and so profoundly sick to my stomach at the exact same time, which is this book's absolute specialty, but tonight it reached an unbearable pitch.
 
-And I am sitting here on the other side of the page wanting to throw up, because I know what’s waiting on Wednesday night.
+Let’s talk about the seduction of it first, because God help me, Pace was magnificent in that pine room. That is the exact man I fell in love with reading this genre: the man who commands a room not by puffing his chest out or acting like a bully, but by stepping *back*. By asking the one question that unlocks a shy boy talking about jazz. By remembering the roommate story for Meg, the dress for Kayla, asking Cassie about the Bricklayers without a drop of condescension. He didn't boast, he didn't drop his deadlift numbers to Danny—he just served them, gave them room to be their best selves, and in doing so, laid down an absolute masterclass in courtship. And him repeating "Vee's boyfriend" like a mantra? *Six times.* A man claiming her plainly, with zero hesitation, after months of her dying for him to name what they are. It made my chest ache for her. It was so deeply tender, and Cassie giving him that dry *"You can stay"* was the ultimate seal of approval. For a girl like Vee, whose whole life has been starvation and feeling like a side dish, watching the man she adores love and honor her chosen family is the ultimate aphrodisiac.
 
-Pace didn't just agree to meet her friends; he's bringing *Randi* to that table. He is hosting a dinner with the college friends, the roommate, the girl who loves him, and the woman he’s been sleeping with and plotting to share Vee with. Randi and Pace across from Cassie, Kayla, and Meg, with Vee sitting proudly in the middle thinking she orchestrated the whole thing. It is going to be an absolute powder keg. Meg and Kayla are going to be watching Pace like hawks, Cassie is already suspicious as hell, and Randi is going to have to sit there playing the "supportive sorority bestie" while looking at the man who bent her over his counter.
+Which is why the cab of that truck caught fire. That blowjob in the dark lot, her taking control, her being greedy, his hand going *still* in her hair—God, that specific detail, the man who does six things at once going completely motionless as he comes apart under her mouth. And then the ride home. Her stripping her jeans down while he drives on one wrist, pulling the wet lace aside with her own fingers, him sliding into her with that steady, terrifying familiarity while the mile markers blur past... it is blistering. The heat is a 3, without question. The consent is gorgeous on the surface—she initiates every single move, she puts his hands where she wants them, she is the architect of her own pleasure.
 
-Vee is so happy, and the drop is going to be so far. It’s almost painful watching her enjoy this waffles-and-mimosas morning because the dramatic irony is suffocating. Wednesday is two days away. I am terrified for her, but my God, I need to see this dinner.
+*Except she isn’t.*
 
-GATE 59 — Across
+And this is where the nausea kicks in. The dramatic irony is practically choking me.
+
+"They share an interest... You." Pace said that with a straight face while driving her home. *Randi and your friends share an interest.* It is the most monstrous, chillingly brilliant double-talk I have ever read. He and Randi sat at that table, three feet away from Vee, exchanging looks, playing along with the "first meeting" charade. Randi raising a glass to "my beautiful best friend" with her eyes blazing, going into that glazed quiet because she is so turned on by the web she’s spinning. Randi pulling Vee in for that soft, lingering mouth-kiss in the dark lot, *knowing* Pace is watching three steps away.
+
+Vee thinks her body is coming awake to her own boldness. She thinks the wet stain in her coat and her soaking panties are just about how much she wants her boyfriend. But the text literally reminds us: she got that wet coat on the drive after Randi sent her off; she came in the bathroom yesterday thinking of Randi; and Randi kissed her on the mouth two minutes before Vee climbed over the console to take Pace down. Vee is practically vibrating from the unspoken, erotic current running between all three of them, and she *doesn't know she's in the current.*
+
+She felt the "trapdoor" for half a second when Pace was laughing at Randi's elbow. Her instincts are screaming at her—the stinger, the little sentence standing at the window watching a glass turn—and she is actively drowning those instincts in orgasms and sweet brisket memories because the reality is too horrifying to face. She wants to be loved so badly that she is helping them blindfold her.
+
+I am sweating. The sheer audacity of Pace and Randi pulling this off without a single crack showing to Cassie or the dorm crew makes them terrifying. And the fact that I still melted when he put his hand on her bare breast makes me feel entirely complicit. I have to see what happens at this "debrief" dinner tomorrow. I cannot put this down.
+
+***
+
+GATE 61 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sweet, funny normalcy of Vee giggling over brunch with Kayla and Meg made my stomach twist into knots knowing the absolute nightmare waiting for her at this upcoming Wednesday dinner. The anticipation is through the roof.
+WHY: The tension is an absolute masterpiece—Pace giving Vee everything she’s ever dreamed of publicly, while executing a breathtakingly cold deception right in front of her face. The cab scene was incandescent, and the sick dread of what’s coming at the Thursday dinner with Randi has me completely hooked.

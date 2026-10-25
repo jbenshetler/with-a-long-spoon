@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION
+REACTION — Wait, what just happened? I had to stop reading, scroll up, and stare at my own notes because I genuinely thought I was losing my mind. This isn’t a new chapter—or rather, it’s a scene I already watched happen!
 
-Oh, god, my chest hurts.
+In my notes from Chapter 37/38, Vee already offered him the picture (*"Would a picture help?"* / *"Only if you promise you'll never share me with anyone"*), he arranged her like an old calendar pinup, took the shot on her phone, she watched it go to *Delivered*, and then he cooked her the lemon chicken piccata with the capers and paper-thin lemons, shut down the talk about his parents with *"I don't go back,"* and brought up Sheri coming over for Thanksgiving. Hell, in Chapter 39 she *already took that picture to brunch and showed it to Randi!*
 
-This chapter is tiny, barely a couple of pages, but it hit me right in the center. Cassie calling her a "public utility" because she's glowing like a streetlight—Cassie is such a good, grounding friend. She doesn't judge, she doesn't pry like Randi does with those sharp little velvet claws, she just leaves the door open and lets Vee spill. And what Vee spills is so heartbreakingly sweet: the baked tomatoes, the cold cloth pressed to her skin before she even finished swearing, him keeping the house warm so she doesn't have to think about being bare, the way he watches her eat like *she* is the entire show.
+Why am I reading the exact same scene again under the title "In His Hands"? Word for word, beat for beat, from the tapping of the nail on her front tooth to the knob of butter swirled into the pan to Sheri bringing the fake homemade pie. Did the author accidentally duplicate a chapter? Is this an alternate draft that got dropped in by mistake?
 
-That is what I read this genre for. That total, focused, unhurried care. A man whose entire world narrows down to tending to this one woman, making her feel safe, making her feel fed. It’s what Fifty Shades promised in between the helicopters, but here it’s just warm tomatoes and a top drawer cleared out for her hairpins.
+The scene itself, when I read it the first time, was gorgeous. The tenderness, him arranging her limbs, the food, the tension over his past—it hit all the right notes. But getting handed the exact same text I read three chapters ago, completely out of sequence after we *already* moved past it to the PPP loan revelation in the library, completely jerks me out of the story. I'm not in Vee's head right now; I'm sitting here as a confused reader wondering what happened to the file. I want to see what happens *after* the library, not reread the chicken piccata!
 
-And then Cassie drops the anchor: *"You don't come home school nights."* And then: *"Do you love him."*
-
-The way Vee shrinks into "Maybe. I think so. It's all so fast." When we literally just watched her whisper *Peter* to his sleeping back in the dark the chapter before! She knows she loves him. But saying it out loud in the cold, fluorescent reality of a dorm room makes it real, and making it real makes it terrifying. Because it *is* fast. And the reader's dread is sitting right beside her, because we know what's underneath this foundation. We know about Randi. We know about the setup, the bench by the wall, the third game Vee doesn't even know is being played.
-
-Every time Pace is this tender, this domestic, this breathtakingly good to her, I fall more in love with him, and I get more terrified of the glass shattering. She is falling with both hands open, completely defenseless, trusting him down to her bones. I need them back in a room together immediately.
-
-GATE 39 — School Nights
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: It’s a brief breather chapter, but the emotional weight of Vee trying to explain what Pace is to someone on the outside—and realizing she's in over her head—is gorgeous and aching. The romance here is absolute, earned through all the domestic care she's carrying back to her dorm. I need to see where this momentum goes next.
+CAPTURE: 2
+NEXT: 5
+HEAT: 1
+ROMANCE: 1
+ALMOST-STOPPED: The moment I realized, halfway through the photo setup, that I was reading the exact text of a chapter I’d already finished several beats ago.
+WHY: This is a straight-up duplicate of the scene from around Chapter 37/38—the bed, the pinup photo, the chicken piccata, the Sheri conversation—which we already moved way past (she already showed Randi the photo and saw the PPP loan!). I'm only continuing because I want to see where the actual plot went, but reading a carbon-copy rerun completely killed the momentum.

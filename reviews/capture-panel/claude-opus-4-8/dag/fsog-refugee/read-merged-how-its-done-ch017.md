@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch017 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
+
+REACTION
+
+Oh, this one was a exhale. After chapter 17 left me strung out on that box with her — I needed Cassie. I needed the room to cool down and someone I trust to be in it. And there she was, highlighter down, "Well?", knees pulled up, doing the thing she does where the attention lands on you like sun. God, I love her. She is the whole clean ledger of this book and every time she's on the page I feel my shoulders come down.
+
+Here's what got me, though, and it's a little sideways: this is the first time I've watched Vee try to *narrate* the fitting, and watching her fail to find the words for it told me more than the fitting did. "It was like his eyes asked, may I look." "Like I was supposed to be there." She keeps reaching and coming up with the smaller truer thing, the way she did with Randi at the smoothie table — except with Randi the words go blank and she loses them, and with Cassie the words come but they're too big and she just... sets them down and lets Cassie catch them. "No," Cassie said. "I think I have it." That's the difference between the two friendships laid bare, and Vee has no idea she's showing it to me. One woman draws her open and keeps the words. The other one already has it and doesn't need her to perform.
+
+And the comedy of it — the pillow throwing, "you keep taking your shirt off in front of this guy and not getting any?", "are you sure he's not gay?" — I laughed, I did, but I clocked what it *is*. That's Cassie's radar again, pointed at the wrong danger, exactly like "is he rich, what's his name, off six-fourteen." She's screening for a boy who's playing a game or hiding something, and the actual game is being run by two people she's never met, and her instincts are perfect and aimed forty degrees off the real thing. "He's a bodybuilder who makes dresses." She's turning the pieces over trying to make them fit and they won't fit because the shape they make is a thing she can't imagine yet. That frown, "walk me through this" — I love her for it and I'm scared of it, because it's the closest anyone in Vee's life gets to the truth and it keeps sliding off.
+
+What I keep coming back to: the heat turned up hours early. Vee saving it for the middle of the debrief, almost not saying it. "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then." And Cassie going still. That's the detail that undid both of them and it undid me too — except. Except I know what I know. I know the froyo apple was sliced thin because he watched how she eats. I know the tenderness might be him or might be the most exact tool in the kit, and a man who turns the thermostat up hours early so a woman can stand bare and unashamed is *also* a man running a flawless procedure on a target chosen across a quad. The chapter wants me warm and I was warm and the whole time the second face was sitting right there. That's the trap this book keeps setting and I keep half-falling into on purpose.
+
+But honestly? Nothing *happened* here. It's a recap chapter. Sweet, funny, a real girls'-on-a-bed hour, and I needed it after 17 — but it's Vee telling me a thing I already read, one room removed from the man, and what I'm feeling underneath the whole cozy scene is: it has been a while since I got Pace and Vee alone with something at stake, and the last time I did (the fitting) was extraordinary. This is the cooldown. I'll take a cooldown. But I can feel the gap, and I can feel that the engine of the book — the two of them, or the horror of Randi — isn't in this room. Cassie's here and Cassie's safe and I'd text a friend at 1 a.m.: *the redhead's best friend just asked if the mathematician's gay and she has NO idea the trap her friend is standing in, and it's breaking my heart in the good way.*
+
+GATE 18 — Turned Up
+DECISION: CONTINUE
+CAPTURE: 5
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none — though when it tipped into pure recap of a fitting I'd just lived through in full, I felt the air go out of it a little.
+WHY: A warm, funny cooldown with the one person I fully trust, and the two-friendships-side-by-side thing landed quietly hard — but it's a debrief of a chapter I already read, one room away from the man, and the care I came for is being reported instead of happening. I want the next one because the dress isn't finished, Randi's been off-page too long, and I can feel the plan running somewhere I can't see.

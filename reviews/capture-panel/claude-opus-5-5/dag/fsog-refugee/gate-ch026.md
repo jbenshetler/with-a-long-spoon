@@ -1,31 +1,28 @@
-*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 61c7a0ea34af · 2026-10-10*
+*capture-dag-v2-rich · gate ch026 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c86197f57ec7 · 2026-10-10*
 
-## Reaction
+**REACTION**
 
-Oh, that concrete pad. The battered boom box with its handle taped up, a pressed crease in his jeans, short sleeves in October because he dressed for the dancing and not for the weather. Then "If you want to, I'll teach you," and of course she repeats it to Meg word for word. I'd have done the same.
+Oh no. Oh, *no*.
 
-The lesson is the thing I came to this genre for, laid out on the page as plainly as a diagram. "You have a job here. Give me something to push back against. Being jelly doesn't work." He leads, and the lead only works if she's pushing back. His control needs her firm under his hand. It doesn't need her limp. Then there's "That's what gets you stepped on. The space you're keeping. Close it." I had to set the book on my chest for a second. That line covers her whole body history, the cardigan and *floozie* and all of it, and he says it about feet. "There's no sorry unless you take off a foot." And "There it is," said quietly, while she's too busy to answer. It's not hot exactly. It hums. His hand on her shoulder blade did more to me than half the sex scenes I've read this year.
+My stomach was in a knot from the first line. I knew that engine the second he did: low, expensive, slowing for the cut. Then the bag goes on the chair by the door, and I finally know what that chair is for.
 
-Then the Rusty Nail, and my stomach dropped right along with hers. The count she didn't mean to start. Her mother arriving "flat as ever." The blonde with the heavy makeup saying "Knows how to get a girl to do just what he wants her to." That woman knew exactly what she was doing. Vee's line to him, "Does your *service*…", made me wince, because I've said that exact sentence to a man. And then "she'd spread her legs like a slut." God. That's her mother's word with interest added on, and she turns it on herself. It hurt to read, but it's hers and the book isn't agreeing with her, so I stayed.
+The scene I've dreaded since chapter 11 just happened, only with the roles swapped. This time Pace isn't the one spending Vee. Randi is. She spends that whole morning in her room, the morning that happened *yesterday* on my page. The bra, Randi circling her slowly, the hand under the skirt, the thumb behind the knee, "she made a sound and hoped I didn't hear it." Randi tells all of it into his ear while she rides him, clenching on the words, and he gets harder for it. The book writes his excitement plainly: "the taking was the part that fired him." I read that line and set the book face-down on my chest for a minute.
 
-What I keep turning over is that he left. He set his beer down untouched and walked out, and she was stranded and paid for a gross cab with money meant for something else. Part of me wanted him to stay by the door. But she said "I'll handle that myself," and he took her at her word. That's the whole ethic of this man, isn't it? A no counts with him even when it's a no he'd hate. I can't be mad at the thing I asked for. It still stings.
+What makes it worse is that he's still *decent* in the narrow way he always is. "Those were his, and that was Vee's." He won't repeat what Vee said at the bar. He guards Vee's words like he guarded her face on the riser, and then he lies there while Randi hands him Vee's *body*, and he drives up into her. Vee had no idea she was in that room. She was playing dress-up with her best friend. She tipped and a hand caught her, and that's now foreplay for two people she trusts. I keep thinking of her in the mirror, liking herself for once, with Randi behind her "watching her like her own good work." I thought that line was sweet. Now it makes my skin crawl.
 
-The bartender is the best scene in the chapter. "Wasn't him they were jealous of, honey." I'm a little suspicious of how neatly she certifies him as a saint ("I'd have heard otherwise"), but I'll take it. Then the washed shirt, which smells of fabric softener and no one. That broke my heart more than the fight did.
+Then there are the lies. Randi lies to *him* now, not just to Vee. "She cried." She didn't. She laughed so hard she did Edna Mode. "I wanted to keep her." And she's playing them both with the same line: "Give her a day." She told Vee not to go today, and now she's telling Pace to wait a day, so she gets her Friday night in between. The book let him catch it: "as if the day were his to give, and he set that down beside the rest." He sets it down and doesn't pick it up. He's so blind about her.
 
-Then the last line hit me with real dread: *go to Randi's.* No. Not Randi. Of all the people she could take this to, she picked the one who carries everything back to his bed and says "Tell me." Vee is about to hand over her worst night and her shame to the woman sleeping with her boyfriend, the same woman who told him last week that it's "selfish" to wait. Cassie was three feet away. Wake Cassie. I'm yelling at the page.
+The bench. So it's under the top of that table against the wall. Facedown, flushed, "please." I've waited all book for the bench, and now I know what it is and whose it already is, and that Randi stood with her hand flat on it, looking at it like it wasn't a table. I think she was picturing Vee on it. I think he is too, now.
 
-## GATE 28 — Lesson
+Is the book winking? I honestly can't tell this time, and that's what frightens me. It's in his POV, and his POV thinks this is beautiful. The thumbnail under the glass rim and "the day was in it" tell me the author knows. But for most of that scene I was being asked to find it hot, and part of me did, and I hated that part. Randi's voice going "somewhere without her" is the one true thing in the chapter. She's in love with Vee and can only say it through his body. That's tragic. It's also a woman narrating another woman's unconsenting body for a man's pleasure, and I left a whole shelf over less.
 
-**DECISION:** CONTINUE
+It's been three chapters since he and Vee were alone and kind to each other. Tomorrow she walks in wearing Randi's shoes and Randi's scarf, tied the way Randi taught her, scripted by the woman who just came on his cock talking about her knees. I have to see that door. I'm not sure I'll like who opens it.
 
-**CAPTURE:** 8
-
-**NEXT:** 9
-
-**HEAT:** 1
-
-**ROMANCE:** 2
-
-**ALMOST-STOPPED:** "three dates, and she'd spread her legs like a slut." For a second I worried the book would let that word stand as her truth. It didn't, and the bartender took it apart.
-
-**WHY:** The dance lesson is the clearest picture yet of dominance that needs her to push back, and I loved it. Then she wrecked it herself, and the morning sends her straight to Randi. Of everything this book could do, that frightens me most, and I have to see how it goes.
+GATE 30 — Space
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 7
+HEAT: 2
+ROMANCE: 0
+ALMOST-STOPPED: "She was giving him a thing and taking a thing at the same time, and the taking was the part that fired him."
+WHY: This is the betrayal I said I'd most likely close the book over. Only the small tells kept me in: the lies he half-notices, "as if the day were his to give." They suggest the book sees what he can't. I'm going on for Vee at his door tomorrow, and if he takes what Randi gave him tonight and uses any of it on her, I'm done.

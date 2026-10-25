@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
+*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
 
-**REACTION — Chapter 40: Strokes**
+REACTION — So Randi's finally back at the table, and the hum I've been hearing for chapters just got louder — except this time it didn't come from anything Randi *did*. That's what's unsettling me. She barely steered anything. She asked "how it is," and Vee poured the whole spring out over eggs Benedict — the sex, the sheets in both fists, the sleeping, "like he wants *me* with the body attached" — and the part that got me was Randi going bright and unfixed, that little head-shake, the breath she couldn't smooth. The jacket said it: *she has moved the two who arranged her spring as surely as they have opened her.* I watched it happen in real time at that booth. Randi came to harvest and got caught in her own field. There was no "did you deserve it" theatre, no glaze on the lip — she just got *reached*, and I don't think she was braced for it either.
 
-A whole chapter in the pool, alone, and I didn't miss him once — that's the trick of it, and I mean it as a compliment. The book gave Vee something I almost never see in this genre: an interior that works when no one is in the room with her. My girl has a lane she's owned since her first week back, regulars who arrange around her without a word, a body that "only works" down there. That's a person, not a heroine-shaped receiver of attention.
+And then the photo. My stomach did drop for half a second — I have "never share" underlined in red in my head — but the book kept the promise clean: *Vee* showed it, Vee's thumb found it before the rest of her voted, and when Randi needled her with "you only gave him half?" Vee reached for the whole thing herself. It was even more Vee than the original send — she wasn't going to be the girl who flinched, not at that table. That's my girl. She out-authored the con three times in one brunch without knowing there's a con. The two-of-them-laughing-pink-and-delighted moment was so warm I almost forgot to be worried, and then I remembered whose idea brunch was in the first place and sat with that for a minute.
 
-And what the swimming *did* — that's the part I'll keep. Cassie's question went in with her at the wall — *do you love him, did he mind* — and the set stripped them one at a time until she could tell which one had weight. *Do you love him* stayed, a pressure under the ribs with dread riding it. *Did he mind* "was nothing at all." That's the answer to the drawer chapter she's not ready to say out loud: she already knows he made her a place and it terrified her more than the counter did. And the four strokes where she couldn't tell Pace from the man she might have *built* out of wanting — four strokes and then the wall came — that's the most honest thing the book has done with her since the blonde in the bar. She doubts, the water doesn't fix it, she doesn't go looking for the answer after. She goes to think about a sandwich. That's a real twenty-one-year-old and I love her.
+The kiss at the end — Vee leaning up that last half-inch, *taking a second of it for herself*, and noticing, and deciding. That's the jacket's second door being raised an inch, and it's being raised from Vee's side, on her own nerve, the same way everything with Pace has been. I trust this book's hands with that. What I trust slightly less is "Just us," coming out rough, and "Does he have a brother?" landing right after Randi's breath caught — she's still playing the game even moved. And now they've signed up for Tuesdays and Thursdays, seven a.m., a standing appointment in Vee's gray weekdays. The con just got a schedule.
 
-The first-person-plural drowning of this book needed this exhale. The last stretch was Randi-pastry-kitchen brims and confession roulette, and I was starting to hold my breath every time those two sat down at a table. A chapter where the worst thing that happens is that her legs go loose in the water — yes. Give me one of those every ten chapters forever.
+Also: Cassie did her elective "with that oddball Wardy" — a shrug, one line — and I felt the distance in that shrug like a cold spot. The clean table is drifting.
 
-What I'm tracking underneath: it's been chapters since the three of them — or even the two pairings — have been in a room together, and the book is spending that gap making Vee *sturdier* instead of lonelier, which is the opposite of how the captive-bride books did it and exactly why I stayed. The bench is still loaded. Randi's "sticky fingers" is still sitting there unsorted. The drawer and the scrunchies and the *maybe* are all going to collide with something eventually. But tonight the book let her swim it off, and so did I.
-
-GATE 40 — Strokes
+GATE 2 — All the Time
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A quiet chapter that earned its quiet — the swimming did real psychological work on the "maybe," and Vee alone and self-possessed in her own lane is exactly the girl I came back for. No heat, no drop in tenderness either, just a woman getting her own feet under her; I want the next one because the book has been stacking loaded guns (the bench, Randi, the maybe) and this calm is the breath before one of them goes off.
+WHY: No Pace at all and I still couldn't put it down — that's how I know the brunch machinery works. Vee's confession was her wanting rendered from inside, the photo beat was entirely hers to give, and Randi cracking a little is the first real movement under the con in chapters. I want to see what Tuesdays at seven a.m. does to the hum.

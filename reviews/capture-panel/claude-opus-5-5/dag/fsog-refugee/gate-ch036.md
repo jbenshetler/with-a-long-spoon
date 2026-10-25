@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-10*
+*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-10*
 
 **REACTION**
 
-Oh, the drawer. The drawer got me. He folded his whole careful self into one tight drawer and gave her the top one, "the one your hand goes to first." There was no note and no speech, and he didn't tell her it didn't matter, he just made room for her. That's exactly what I wrote in my notes I came looking for: control that makes room instead of erasing. I sat with the two drawers open in my head the way she did and my throat went tight.
+I came out of this one quieter than I went in, which I think was the idea.
 
-So yes, this is the sun-porch man, and I love him tonight. "Always brought all the way over and usually more than once before he took a single thing for himself." "She hadn't known a man would want to." That's her desire rendered from inside, and it's warm. The spin at the door made me laugh out loud. I liked that the heat was all memory and summary this time. After the brunch I didn't need another scene of somebody's body being worked up in public. I needed them alone in a room, good, for a whole chapter, and I got it. That gap's been fed.
+My first reaction was a small irritated *wait*. "Did he mind"? He gave her the drawer. He packed his own things into one drawer so hers could have the top one, the one your hand goes to first. That was the best thing in chapter 38, maybe the best non-sex thing he's done, and here she is in the lane still asking whether he minded the counter. It knocked me out for a second. Then I decided I believe it anyway. A woman with a "floozie" voice in her head doesn't stop asking because a man handed her one drawer. Being given the answer and not being able to keep hold of it is the most Vee thing there is. I'm still not sure the book meant it that way rather than losing track of its own week, but it reads true either way.
 
-But I'm reading this with chapter 31 sitting on my chest. Sheri asked "And the redhead?" and he said "Not yet." So when Vee lies there counting all the ways he's said it without saying it, telling herself "a man didn't do all of that for a girl he was only passing a season with," I'm the one who knows what she doesn't. Randi was in that bed the Friday before Vee's apology. Randi rode him and told him about Vee's knees. Vee whispering "Peter" to him asleep, the name she kept, nearly undid me, because she's handing over the whole of herself and she's working from half the facts. "He never said. He never said." The book puts that line in twice and I don't think it's an accident. His silence is lovely when it's a drawer. It's something else when it's Randi.
+What actually got me was the four strokes: "whether he was that good or she had made him that good." That's the question I've been carrying since chapter 30, and the book just put it in her head. She doesn't know what I know. She doesn't know Randi drove up the gravel that Friday, or that her black lace bra was narrated into his ear. She doesn't know "She's ashamed" was handed over across his pillow. Then the bet chapter landed and I let myself go soft on him. He said "Don't" and the hand was just gone, palm up. He said "Slow. For me," and she felt it was *asked*. He brought juice and said "wonderful" until she fell asleep. That's the man I left a whole genre looking for, and I'm almost embarrassed at how hard it worked on me. But Sheri's "She know about the redhead?" / "Not yet," the practice room, and "Sticky fingers?" are all still sitting there. Vee is building a man out of two months of being looked at, and some of that looking was Randi's handiwork. So a chapter where she's alone, a little afraid, and asking herself if he's real felt like the book standing a little closer to her than I expected.
 
-There's one small thing I'm not sure about. The weight loss: "her body quietly burning down whole weekends of him, and she'd never asked it to." It's framed as happiness, but the bras riding high and the clothes going loose made me look up for a second. Maybe it's nothing. Maybe it's the book setting up that she's being consumed. I'm watching it.
+I loved the swimming itself, too. Breathe every third, a hymn you're already in the second verse of, a body that "had opinions all day long" and has none in the water. It's her version of his lift, "only this lift." That's two people who can only go quiet one way, and she doesn't know it's a match. She also said "maybe" to Cassie when the answer was right there, while she has already told a sleeping man "Peter." The dread riding under "do you love him" is the realest thing she's felt on the page in a while.
 
-And no Randi. After "Sticky fingers?" and the glaze on Vee's lip from a pastry she never touched, a whole chapter without her feels like the eye of a storm. I want the next chapter because I'm happy, and I want it because I'm scared.
+No Pace in the room, no Randi in the room. Honestly that was a relief after the brunch. The brunch left me feeling handled on Vee's behalf: the glaze on her lip from a pastry she never touched. I needed an hour in the lane too.
 
-GATE 38 — Above Him
+The gap doesn't scare me yet, because 38 and 39 were full of him. But a chapter like this is the calm before the thing I've been waiting for, Vee finding out. If the next one is another breather I'll start to feel it.
+
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The drawer is the most romantic thing he's done, because she didn't have to ask and he didn't have to say anything. I'm stuck between loving this man and knowing Vee told him she loves him in the dark while he still hasn't told her about Randi. A quiet chapter made me hungrier, not less.
+CAPTURE: 5
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "which he had looked at and said nothing whatever about, and which she had been turning over since Saturday" — for a second I thought the book had forgotten the drawer.
+WHY: It's a quiet, lovely chapter with nobody in it but her, and it was the right size. It handed her the exact doubt I've been holding for her, "whether he was that good or she had made him that good," and that makes me need to see what happens when she finds out what was said in his bed.

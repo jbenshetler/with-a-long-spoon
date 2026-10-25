@@ -37,7 +37,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import volume_scenes  # noqa: E402  (same inventory; no reader/API dependencies)
 
 GATE_RE = re.compile(r"gate-ch(\d+)\.md$")
-TITLE_RE = re.compile(r"^GATE\s+\d+\s*[—\-–]\s*(.+?)\s*$", re.M)
+TITLE_RE = re.compile(r"^\**GATE\s+\d+\s*[—\-–]\s*(.+?)\s*\**\s*$", re.M)
 HEADER_RE = re.compile(r"(· gate ch)\d+( ·)")
 DELETE = "DELETE"
 

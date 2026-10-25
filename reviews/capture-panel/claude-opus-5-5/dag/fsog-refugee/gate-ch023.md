@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b529b5725542 · 2026-10-24*
+*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3c75252adda8 · 2026-10-10*
 
 **REACTION**
 
-She ate. She cleaned the plate, gathered the last of the couscous off the edge with her fork, said "That was lovely," and took his hand across the table. I've watched this woman order egg whites for twenty chapters and never once seen food go into her mouth. Now it happens on his kitchen chair, in his undershirt, after she's spent the whole night talking about Vee. Title's "Gone." I think it's Randi who's gone. "She got past me before I could help it." "I keep waiting to get bored of her." That's a woman falling in love, and she doesn't have the words, so she says it to the man she's sleeping with. The undefended face. The stillness "that takes holding" when he says Vee makes the room go brighter. She asks for more wine with the glass still half full, just to keep him standing next to her. I'm sad for her and I can't stop being sad for her.
+Oh, this one got under my ribs.
 
-I came in braced for "Tell me," and it came, and my stomach dropped. Then he gave her the lamp. Not the green panties, not the riser, not the wet satin, not Vee's toes on his chest. He gave her what Vee does to a room. He kept the bed to himself. I let out a breath I'd been holding since chapter 20. He doesn't get off clean, though. "She's ashamed. Somebody taught her to be ashamed of her body." That's true and it's kind, and it's still hers to tell, and now Randi has it. I'm putting another asterisk on him, a smaller one.
+It's the first chapter in a long while that's only the two of them, with nobody else at the table. No Randi steering, no lunch where someone fishes the truth out of her. Just a quilt, a fire, cold tea, and the black window. I didn't know how hungry I was for that until I was in it. The cumin line made me laugh out loud. So did the saffron "old enough to vote." Then he says "and affectionate" about the casseroles, and I melted a little. He goes first to the hand underneath the thing. That's what I want from a man in these books, and it has nothing to do with sex.
 
-The threesome images, the black hair falling into the red. They got me, I'll admit it, and the book doesn't pretend they didn't get him. It's all inside his head, it's honest, and nobody's being pushed into anything. But then his mind drifts off the fantasy back to Vee in the sheet at his table, and that's the part that went through me. The fantasy doesn't hold him. She does.
+Then Peter. His real name is *Peter*. He gives her the name instead of his mother, and she lets him. She says it once to try it, and at the end she says it again "the way you say a word to keep it." I had to put the book face-down on my chest for a second.
 
-What turned me cold was "You do nice work." Like Vee's a commission. Like they're grading a project. Then I remembered the credit card with nothing behind it, Randi holding Vee's bare foot, "practically a marriage," the plum polish. I'm not even sure who's working on whom anymore. And Vee's going to sit next to her in stats on Monday thinking it's jealousy over a man who stays up nights.
+The desk in the hall. "They took the thing you loved and made it the punishment." She's good at this. She doesn't say sorry. She just presses her shoulder against his arm.
 
-At 1 a.m. I'd text: *he didn't tell her the wet stuff. AND RANDI ATE A WHOLE PLATE. I think she's in love with Vee and doesn't know it.*
+And then Daphne. Nineteen and fifteen. I did the arithmetic at the same moment Vee did, and it landed in my stomach exactly where it landed in hers. The book didn't hide it or prettify it. It let her hold the ugly word under her tongue, and it let him defend the memory without hearing himself do it. "He had handed her the thing that had hurt him and named it luck." That's the most frightening sentence in the book so far, and it's frightening because it's tender. Suddenly I understand him differently. An older girl was assigned to him, chose him, and had him before he could know what he was handing over. Now there's Randi, older and glamorous, choosing Vee off a lawn, and Pace calls *his* part of the plan "patience." I don't think he sees the shape. I'm not sure the book wants me to forgive him for not seeing it, but it does want me to understand him, and I do. It scared me and made me ache for him in the same breath.
 
-**GATE 23 — Gone**
+The scar. "Not tonight," with his hand pressing hers *down onto it* instead of pushing it away. A door with a time on it. Then she turns her hand over so they're palm to palm. That's consent running both ways, and it's what I came looking for when I left the other books. A man can have a no that's gentle and still keep you close.
+
+One small asterisk. His hand on her breast "without pressing, without asking." The book says "without asking" out loud, so it knows. They're lovers, her robe is open, she softens at it, and I'll let it go. I'm noting it anyway, because this book notices things on purpose.
+
+Then the ending knifed me. "She had stumbled into her." "A man had crossed a coffee shop for it." "For no reason she had done anything to deserve." No, honey. There were reasons. Two people made them. She's lying there happier than she's ever been, counting her luck, and I'm reading over her shoulder with the jacket in my other hand. It's the Simpson's paradox lecture all over again: each piece on its own looks like one thing, and put together it's the opposite. I wanted to wrap her in the quilt and also shake her.
+
+At 1 a.m. I'd text: *he told HER his real name and the Daphne thing, not Randi, and now I'm terrified of the next "Tell me."*
+
+GATE 27 — Rock
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "You do nice work."
-WHY: The dread I'd been carrying ("Tell me") came and he protected her, mostly, so I'm still trusting him, with a smaller asterisk for the shame line. Randi undone at his table, eating, is the biggest crack yet, and I need to see what it does to her when she's next alone with Vee. It's only been two chapters since Vee and Pace were alone, so I'm not starving.
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none. The nearest was "without pressing, without asking," and it was a flinch, not a step toward the door.
+WHY: This is the closest they've been, and none of it is sex: Peter, the hallway, the scar he says "not tonight" about with her hand held on it. The Daphne arithmetic changed how I read him and the whole plan, and her counting her "luck" in the dark has me desperate to know who he gives these things to next.

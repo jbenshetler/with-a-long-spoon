@@ -1,29 +1,24 @@
-*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh my god. My stomach is in absolute knots.
+Oh, god, my chest hurts.
 
-The whiplash between how safe and adored Pace makes her feel and the spiderweb Randi is spinning around her is getting unbearable. In the best, most terrifying way.
+This chapter is tiny, barely a couple of pages, but it hit me right in the center. Cassie calling her a "public utility" because she's glowing like a streetlight—Cassie is such a good, grounding friend. She doesn't judge, she doesn't pry like Randi does with those sharp little velvet claws, she just leaves the door open and lets Vee spill. And what Vee spills is so heartbreakingly sweet: the baked tomatoes, the cold cloth pressed to her skin before she even finished swearing, him keeping the house warm so she doesn't have to think about being bare, the way he watches her eat like *she* is the entire show.
 
-First of all, Vee giving up the goods about the spanking—I was squirming in my seat right along with her. The way she tries to downplay it, and Randi just *drills* down with that laser-focused, smiling persistence until Vee is basically confessing her whole sexual awakening over mimosas. And Vee's body! Her body just betrays her every single time, soaking through her underwear in a sunlit brunch restaurant just from *remembering* his hand and saying it out loud.
+That is what I read this genre for. That total, focused, unhurried care. A man whose entire world narrows down to tending to this one woman, making her feel safe, making her feel fed. It’s what Fifty Shades promised in between the helicopters, but here it’s just warm tomatoes and a top drawer cleared out for her hairpins.
 
-And then Randi's little story. "Doing a private dance." God. Randi knew *exactly* what she was doing. She baited the hook, cast the line, and reeled Vee all the way in until Vee literally had to flee to a public restroom stall.
+And then Cassie drops the anchor: *"You don't come home school nights."* And then: *"Do you love him."*
 
-That bathroom scene was devastating. The heat of it was blazing—Vee touching herself, desperate, the slickness of it—and then she can't even come because Randi's face is right there behind her eyes. It went from pure erotic burn straight into that cold, twisting ache of being observed, judged, *cowed*. She couldn't even give herself release. That hurt to read.
+The way Vee shrinks into "Maybe. I think so. It's all so fast." When we literally just watched her whisper *Peter* to his sleeping back in the dark the chapter before! She knows she loves him. But saying it out loud in the cold, fluorescent reality of a dorm room makes it real, and making it real makes it terrifying. Because it *is* fast. And the reader's dread is sitting right beside her, because we know what's underneath this foundation. We know about Randi. We know about the setup, the bench by the wall, the third game Vee doesn't even know is being played.
 
-And then the "sticky fingers" line. I swear my heart stopped for a second. The cruelty of that double meaning, whether intentional or just Randi playing with her food! And the detail about Randi taking *one* bite of the pastry, declaring it delicious, and leaving the rest? That’s Randi in a nutshell. She takes a taste, controls herself completely, and leaves the mess behind.
+Every time Pace is this tender, this domestic, this breathtakingly good to her, I fall more in love with him, and I get more terrified of the glass shattering. She is falling with both hands open, completely defenseless, trusting him down to her bones. I need them back in a room together immediately.
 
-And then at the curb: "You're my best friend in the whole world."
-*Ouch.* The emotional manipulation is so surgical it makes me want to scream at Vee to run, even while I'm completely mesmerized by it. Vee is so starved for validation, so stunned that this glamorous creature chose her, that she swallows the hook whole. And that kiss—tasting the pastry glaze on Randi's lips. The sensory writing here is just unreal. The trap is closing, and Vee thinks she's being loved. I need the next chapter immediately.
-
-***
-
-GATE 37 — One Bite
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 1
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it’s humming. Watching Randi manipulate Vee’s desire while Vee genuinely believes she’s found a soulmate and best friend is thrilling, deeply sexy, and completely terrifying.
+WHY: It’s a brief breather chapter, but the emotional weight of Vee trying to explain what Pace is to someone on the outside—and realizing she's in over her head—is gorgeous and aching. The romance here is absolute, earned through all the domestic care she's carrying back to her dorm. I need to see where this momentum goes next.

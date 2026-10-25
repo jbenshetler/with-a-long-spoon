@@ -1248,8 +1248,8 @@ How to use it, provisionally:
 named lanes. It exists because the lanes are not all at one baseline: the
 {{How It's Done}} merge of 2026-10-23 (Turned Up folded in) was never propagated to the
 `fsog-refugee` and `queer-woman` lanes or to `claude-fable-5-1/romance-graduate`, which
-`--verify` reports as +1 from ch018 (438 mismatches at 5c61a4ed). Those lanes were left
-untouched and still need an identity-keyed repair before their numbers can be trusted.
+`--verify` reports as +1 from ch018 (438 mismatches at 5c61a4ed). Repaired the same day
+(see below).
 
 The Long Way was merged into {{Substitution}} on 2026-10-25 after a capture test
 (`split-experiments/merge-substitution/`). On the seven aligned romance-graduate lanes
@@ -1259,3 +1259,18 @@ glm-5.3, gpt-5.6-sol), each standalone Substitution read was retired by hand to
 and `--merged 5 6 --preserve-prose-sha 18336f94a8c1 --lanes …` moved 483 gates and retired
 7 Long Way reads; `--verify` on those lanes reports zero mismatches. Checkpoints were not
 reminted, so `ck-ch010` and above consolidate a span one chapter longer than their name.
+
+**Drift repair (2026-10-25).** The 16 drifted lanes were brought forward in two steps,
+each against the chronology it belongs to. (1) With the 5c61a4ed chronology restored
+in the working tree: `--merged 17 18 --preserve-prose-sha 0738735086d3 --keep-aligned`
+(446 moved, 16 Turned Up / standalone How It's Done reads retired; the one merged read,
+gemini-4-argon/fsog-refugee, preserved). (2) With the current chronology: each standalone
+Substitution read retired by hand, then `--merged 5 6` (556 moved, 9 Long Way reads
+retired). `--verify` over all lanes: 1,110 gates, 0 mismatches.
+Two casualties of the drift were found and handled. The 2026-10-24 fresh {{Gone}} reads
+had been written into `gate-ch023`, which in the drifted lanes held each lane's
+{{Sorority}} read; those eight Sorority reads were restored from `c8fc38af^` to their
+correct slot, and the older, now duplicate Gone reads were retired as
+`read-superseded-gone-chNNN.md`. Gates whose `GATE n — Title` line is bold
+(`**GATE …**`) had been counted as untitled and moved by position alone; `TITLE_RE`
+now accepts the bold form (untitled, position-trusted gates across all lanes: 55 at 5c61a4ed, 8 now).

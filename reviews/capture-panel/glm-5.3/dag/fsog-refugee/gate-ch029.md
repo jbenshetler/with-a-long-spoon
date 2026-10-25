@@ -1,20 +1,25 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
-REACTION — A whole chapter with nobody's hands on anybody, and I still liked it, mostly because of what it did to *him*. "Listen to you," Sheri says, and she's right — he's past the name before he's decided to be, telling her about a thumb on a chair joint, about a girl pulling a math book off the shelf, and he *hears himself going and doesn't stop*. That's the man I'm in love with, undone by walnut grain and a book not put back. He has no idea what Sheri is looking at. Nobody in this book can see their own love except Vee, apparently.
+REACTION
 
-Sheri I liked immediately — women the way other people remark on the weather, faster on every climb and never once letting it go unmentioned. "Hell of a backside on her, though," about the woman who picked a fight with him in front of half a bar. That's a friend. And "No, she couldn't take your heat" was the exact right answer to the wrong question — Sheri can turn it on and keep it burning for years, and he defused it with flattery and honesty at once, which is very him.
+Well. That happened. I'm sitting here with my tea gone cold.
 
-But here's the line that stopped my pedaling: "She knows. She likes her." — "And the redhead?" — "Not yet." He's running the same arithmetic Randi runs, out loud to a third party, and he's still lying by omission in the same direction. Randi knows Vee doesn't know. Sheri now knows Randi doesn't know Pace is... whatever Pace is doing. Everyone is narrating everyone to someone else. Vee remains the only person in the book who tells the truth only sometimes. And Sheri — sharp, outside, running the arithmetic anybody could run — said it plainly: "If that's not already complicated, it will be." That's the blurb's third game showing a heel under the curtain.
+The practice room chapter is the exact flavor of this book that makes me crazy — nothing "happens" in it, two women in a soundproof closet and a pair of heels on a music stand, and I had to put the book down twice. When Vee said "Walk me out?" and took *Randi's* wrist — after weeks of it going the other way — I actually said "there it is" out loud to nobody. That's her reaching. That's hers, and the jacket promised me the reaching would be hers, and here it is, in her hand, unembarrassed. The freshman-year blush about what the practice rooms are "used for," the unfinished sentences, the hug she didn't mean to hold on to at the end. She's falling and she doesn't have the word yet. I have the word. I've had it since the shoe fitting. It's agony in the best way.
 
-My one honest complaint: it's Saturday morning, and I was promised Friday night. The chapter is good and the voice is good and the cold in his fingers is good, but I turned the page wanting the black dress and the deadbolt and his face when she walks in, and I got a bike ride with a friend. The book has earned a slow beat, so I'm not mad — but the account is now one chapter of delay against the entrance I've been dressed-by-committee waiting for since ch 30. One more and I start tapping my foot.
+But — and this is the ache under the whole chapter — I cannot read Randi clean anymore and I hate that I can't. Because the Randi I love would be sitting there lit up for Vee, and she IS, that's real, "so pleased to see her that Vee felt it land, warm all through." But the Randi I've been watching since chapter 30 also just did it again. Vee skids past the middle of the weekend, and Randi doesn't let her. "Did you deserve it?" — and my girl, underslept and glowing and with no armor in that little room, says *probably, yeah* — a beat late, and knows a moment too late what she agreed to. Randi walked her straight into saying it. Then the story. Over his knee, count out loud, "it made me buck." She fed it in perfect pieces, watching Vee's face take each one, and Vee ended up in a hallway bathroom with her hand on her own knee *refusing to say yes to it.* That refusal is the most Vee thing in the whole chapter — the book keeps letting her own her yes, even when the yes is being grown in her by somebody else's story, and I love the book for that even as it's breaking my heart.
 
-GATE 31 — hills-and-valleys
+And here's the thing the book knows and Randi half-knows: Randi's spanking story is a *confession.* "If I'd had too much wine and gotten flirty with other men at dinner" — she's told Vee, on the record, what she does when she cares and gets scared. She just dressed it as erotica. The mouse that roars. And Pace still doesn't know his partner is drowning. The gap between what Randi told Vee in that closet and what Vee told Cassie (nothing, ever) and what Pace knows (nothing) is getting so wide I can hear wind through it.
+
+The outliers lecture is doing exactly what I suspected this author's lectures do — the first kind you lift out and the line goes on; the second kind is in everything that comes after. Randi is the second kind. Vee is the dot flung off the line. I see you, professor.
+
+The kiss at the stairs — "so worn-in now that Vee barely clocked it" — and then Vee's arms slow coming down. She didn't hold on to Cassie's goodbyes. She held on to that one. I put it down to that too, sweetheart. We all do.
+
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: No heat, nobody touches, but the care is on the page sideways — a man in love, narrated by a friend who can see it and a reader who's been watching it build. I'm staying because tomorrow night is still loaded and this chapter ended with the safety off.
-
-ALMOST-STOPPED correction if needed: the closest I came was realizing it was a bike ride instead of Friday night — a flicker of impatience, not a quit.
+ALMOST-STOPPED: "Did you deserve it?" — the manipulation landed for a second and I felt the old Fifty-Shades chill, but the book framed Vee's late awareness of what she'd agreed to, and her bathroom refusal, so clearly that it stayed honest.
+WHY: The reaching is finally Vee's — she towed Randi out of that lecture — and her "no, not here, not over a story" is the consent line I stay for. But Randi's harvest and her disguised confession are compounding, and I'm reading toward the crash more than the sweetness now.
+NEXT-focus note: two chapters from Vee's POV alone with Pace still hum in me; the next one needs to move either the bench, Cassie, or Vee naming the thing she has no word for — any of the three and I'm up past midnight again.

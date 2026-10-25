@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
 
 REACTION
 
-Oh, God. Oh, *God.* My chest actually aches.
+Oh, my God. I needed this chapter like air after the absolute emotional whiplash of the last two.
 
-This chapter felt so painfully, breathtakingly intimate that I almost felt like an intruder reading it—and yet it is everything I read this genre for. That entire sequence in the overheated dorm room, alone with Pace’s flannel shirt and the radiator ticking, trying so hard to understand her own desire. It was agonizing and beautiful.
+After sitting through chapter 64—which made me want to throw up, watching Randi and Pace fuck like that, talking about Vee while he’s buried inside Randi, using Vee's innocence and devotion as dirty talk between them—chapter 65 brought me straight back to why I love this book, and why it is tearing me apart.
 
-That moment where she brings her wet fingers to her mouth—the strands stretching between her fingers, that heavy realization of her own "excess," the boys' stupid high school jokes about women's bodies lurking in the back of her head, and then smelling herself: *a hothouse with its doors shut, the air around a tropical flower without its sweetness.* And she brings her fingers to her lips, wanting so desperately to understand what Pace felt, what Randi felt, wanting to accept herself the way they seem to accept her—and she *can't close the distance.* She stops one breath away. That broke my heart. The shame is so deeply rooted. She can let a man worship her, she can let Randi orchestrate her, she can even demand orgasms until she whites out, but she cannot fully, unconditionally love the fact of her own body yet.
+Sheri is everything. An absolute, unfiltered, five-foot-nothing angel with bleached roots and crooked makeup. The moment Vee walked into that taproom in her armor—Meg’s keyhole top, the micro-skirt, Randi’s lethal induction heels—ready to do battle with the mythical golden-blonde dance-hall queen she invented in her December grief, and Sheri just slowly looked her up and down, appreciated the view, and went, *"And you get to motorboat them things?"*—I screamed. And Pace *blushed*. The man who can command a room, who flips women across dance floors and never breaks a sweat, blushing bright red up to his ears over a table of cider and pretzels. That is the vulnerability I crave from him. Not the cold, slick, sociopathic control he shares with Randi, but *this* man. The man who takes a ribbing, who lets himself be loved by people who see right through his quiet dignity.
 
-And wiping her hand on the sheet—twice!—and then lying in it at the end? *Her mess. Hers to lie in. Her mouth was still empty.* That final line is haunting. It’s an empty mouth in every sense: empty of her own self-acceptance, empty of the words she still hasn't heard from Pace, and empty of whatever it is she’s circling with Randi.
+And then Sheri’s story. God, my heart broke wide open. Hearing how they actually became friends—not some sexy two-step romance, but Sheri coming out, losing her entire family, her church, her entire world overnight, weeping in the middle of a dance floor. And Pace didn't offer cheap platitudes. He drove her home in silence, showed up the next morning with donuts and coffee, fixed her broken lock, fixed her leaking faucet, and asked her to ride bikes. *Because his own daddy threw him out at sixteen and he hasn't been home since.*
 
-Because Randi was right there in the bed with her. Pace was the body, but Randi was the permission. *Had Randi meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth?* Vee’s desire is expanding in directions she can't even safely name yet, even while she's wearing Pace's shirt.
+It explains so much about him. Why he builds shelters out of bacon, pancakes, and quiet competency. Why he fixes things instead of saying words. Why he hoards people and protects them like precious cargo, but won't ever say *I love you* because the people who were supposed to love him discarded him. He is a profoundly wounded stray who has spent his adulthood building an impenetrable fort of service and domestic perfection so nobody can ever hurt him again.
 
-This was completely solo, totally internal, and yet the erotic charge and the psychological precision were off the charts. It wasn't cheap smut; it was a woman genuinely wrestling with the threshold of her own shame and appetite. I am so deeply in this girl's corner. I need her to be okay.
+And seeing Vee realize it—sitting in that truck, watching his headlights illuminate Sheri’s porch until the light clicks on, watching his hands steady at ten and two—she’s falling so deeply, truly in love with him. Real love. Not just the hot, thrilling hunger of his touch, but love for the broken, steady man underneath.
 
-GATE 63 — The Reach
+Which makes what he is doing with Randi an absolute, unforgivable crime. The tragedy hanging over this story is unbearable. Pace isn't an emotionless playboy; he is a man capable of this breathtaking, sacred tenderness, and yet he is actively participating in a scheme that is going to blow Vee’s world into a million jagged pieces. When Vee finds out about him and Randi, it’s not just going to break her heart; it’s going to destroy her belief in this very goodness Sheri just revealed to her. I am terrified, and I cannot look away.
+
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological depth of Vee's masturbation scene—the absolute ache of her trying to bridge the gap between her deep-seated shame and her awakening desire—was stunning. Watching her hover one breath away from tasting herself, caught between Pace's worship and Randi's casual power, was agonizingly good erotica. I could not turn away.
+WHY: Finding out Pace's father kicked him out at sixteen and seeing how he showed up for Sheri when she lost her family gave him the deepest, most beautiful emotional anchor he's had yet. It makes the romance infinitely richer and the looming betrayal a thousand times more devastating.

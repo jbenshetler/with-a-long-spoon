@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a79198d30e3 · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7514bd75e597 · 2026-10-11*
 
 **REACTION**
 
-Oh, she showed her the *lining*. I put the book face-down on my chest for a second. Vee turning that coat around on the hook, Friday's mark held out into the light, and Randi going dark-eyed and still, and Vee could *hear her breathing*. That was the hottest moment in the chapter, and the only thing touching anyone was a coat lining. The thing is, Vee chose it. The big drink, the breath, then her own hand reaching back for the coat. Nobody had to dare her. Her desire was hers, coming from inside her, which is exactly what I came to this genre for, and it was aimed at the wrong person for the book she thinks she's in.
+The swimming opening got me before anything else did. An hour of the black line and her own breath, and her body "needing no opinion from her about itself." Then the toffee sweater bought in the smaller size, and the line about shopping with your eye and not your budget. I know that arithmetic. I like her so much when the book lets her just be pleased in a mirror and leave it there.
 
-Then the restroom. "Because that had been about Pace, obviously. All of it. About Pace." Oh, honey. Randi's face showed up at the top and the question turned itself into "there's no way he couldn't," and Vee went over on it, then put her mental label on afterward, the way she cropped the photo for her mother. She's dividing herself again. I wasn't put off. I was *in* it with her, and also sitting a little way off watching her lie to herself. That's a good place for a reader to be.
+Then Marsh pulls out a lice comb and talks about grooming, and I sat up. "Watch who grooms whom in a troop for one week and you can draw the whole politics of it." Then the cleaner fish that could swallow the little ones whole and never do. Then the comb going hand to hand until some row can't bear to give it up. Then Vee walks into dinner and gets groomed for two hours. The book isn't being subtle, and I don't mind that, because it's telling me how to read the next scene.
 
-Randi is the one I can't settle on. The "Hmm. Hmm." when Vee gave her the line she'd been saving, the clean version with the wall coming down: Randi didn't want the clean version and let her know with two syllables. Then "You gave me the after-school-special version. Back up." Then, chin in hand, "What exactly was he not looking at?" She's pulling the next thing out of Vee and the next, exactly as the jacket promised, and it's the move from the half-dare over the photo all over again. And Vee gave her Pace's porch, his mouth, the couch. That was the most private night they've had, handed across a table to the woman who's been narrating Vee to him in bed. That's the second thing of his she's given away over a meal. And "It's a good thing you got relief" landed in me the way the blue lights landed in Vee. Randi knew. She let her squirm a beat and then handed her a cover story to take. That's power, and it's played lightly, and I don't love how good she is at it.
+The restaurant was hot, and I won't pretend it wasn't. Vee retelling the truck and the apron morning with her body right back in it: the wrist "toll booth," "he parked," the toes, the trill like a nineties phone, "he opened me like the orange." The apron story is everything I come for. She puts her palm up and he stops dead from across the room. He looks puzzled, which she's never seen. She leads, he follows, he reads her. When it's just the two of them, Pace is the man I keep wanting.
 
-But then the robin's-egg-blue underwear. "They're your color." Her mother had them laundered and *waited for him* and set them down next to her plate at Sunday dinner. That's real cruelty, and it explains everything about Randi I've been afraid of: why she arranges, why she can't say it, why she gave Vee the fairytale on New Year's. Her fingernail working the rim of the glass. The boy who'd knelt in the grass, pushing his food around. I'm angry for teenage Randi, and that makes it harder to just be wary of grown Randi. It also explains the flinch at the neck kiss. That wasn't a tickle. Brooke said "choose" on Sunday, and on Tuesday Vee's mouth is on her neck on a public sidewalk. "Don't you dare weaponize that." Randi's scared, and for once I believe the fear more than the charm.
+What I was really watching, though, was Randi's hands. "Did you take it all?" "Didn't spill a drop?" "You *did* it. And you can't even say it." The book calls that "delighted and tender and without a scrap of mercy," and something in me flinched, because the book is enjoying the no-mercy part. Vee *can't* say it. Her mouth goes dry, her hand shakes on the glass, and Randi keeps pressing. "Don't you dare fade to firelight." Meanwhile Randi's hand is down in her lap, her nail is on the rim of the glass again, and her breath isn't steady. Randi is getting off on this across the tablecloth, and Vee thinks she's being a good audience.
 
-Mauss and the hau. A gift wants to go home to its giver. The burgundy dress he sewed. The cashmere blanket that "just appeared," the one she soaked. The shoes are *Randi's*. Vee's walking around inside other people's gifts and doesn't know one of the givers is two people. Dr. Marsh just told us the book's thesis, and I'm going to think about it every time Vee touches something someone gave her.
+Is Vee consenting? Mostly, yes. She came in dying to tell it and she's glowing, and the jacket keeps promising nothing is taken that she doesn't hand over. But it's being *pulled* out of her, and the pulling is what I can't settle about.
 
-And she held back the kiss story with "a little unweighable stone of relief." First time since October she's kept something from Randi. Good. I want her to keep it, and I know she won't.
+Then "I don't." That one went cold down my back. The whole taste-of-herself thing was never really about Pace. Randi is softening "gross, wrong" ahead of time, because the taste Vee just called gross is a woman's taste, and Randi wants Vee's mouth someday. "It was powerful. It turned me on." "How does he act?" Then "Mm," and she eats the bread, and the subject is closed forever. That's very good manipulation. It's tender and it's patient, and it's still steering. Vee walks home with Randi's sentence and her own "he's enthusiastic" stuck in her head like a song. That's exactly how you plant something.
 
-Wednesday is tomorrow. Pace, Randi, Cassie, Kayla, Theo, all at one table, and he picked the place. I'm reading on.
+Then "You picked well." I put the book face down for a second. She didn't pick. The book even has Vee half notice it: he was already halfway across the floor. Randi says it with a straight face, a woman who picked *for* her, praising her for the choice.
 
-GATE 60 — Covering
+And then the neck. "Must have forgotten," my foot. She laid it open, and the rise in her body "went on a beat too long." "Ticklish." Randi, you're drowning in plain sight, and Vee thinks she won a little game.
+
+One tiny snag: the food was a braise over polenta, then the plate goes back with "the fennel thing" and a chop bone. I blinked at that. It didn't cost the book anything.
+
+Where I am: I believe Randi loves her, and I can't bear how good she is at this. The text I'd send at 1 a.m. is "the best friend just pre-approved her own taste for the girl and the girl doesn't know it."
+
+GATE 62 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 7
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "You gave me the after-school-special version. Back up and tell me what really happened." Randi prying the porch out of her made my skin crawl for a beat. Vee was so glad to give it, and it wasn't hers alone to give.
-WHY: The lining reveal and the restroom were Vee's own wanting, from inside her and turned toward Randi, with the lie she tells herself left right there on the page. Randi's mother and the underwear cracked her open for me even while she was steering. With the dinner of everyone tomorrow, I'm not putting this down.
+ALMOST-STOPPED: "'You *did* it,' Randi said, low, delighted and tender and without a scrap of mercy. 'And you can't even say it.'" For a second the book was winking at Vee being cornered.
+WHY: Vee's desire is still hers, and the apron morning is the consent I came for, so I'm happy. But Randi is grooming her in the exact sense of Marsh's lecture, and "I don't" plus "you picked well" have me tense in a way I want to follow. I need to see whether the book knows what Randi's doing, or whether it thinks this is just flirting.

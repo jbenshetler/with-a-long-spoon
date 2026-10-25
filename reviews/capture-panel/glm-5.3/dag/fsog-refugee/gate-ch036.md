@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION — I put the book down on my chest after the drawer and just lay there for a minute.
+**REACTION — Chapter 40: Strokes**
 
-The "Peter" in the dark did me in first. She only says it when he can't hear — "to the sleeping shape of him" — the same way she said it once before to keep it. She's saying I love you to a man who's asleep because the awake version is still too big. And then the book does this devastating little inventory of all the ways he's already said it — the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back — and I was nodding along like a fool because I've been keeping that same list for thirty-eight chapters. That's my list. He cooks for her after. A man might come back to her an hour later like she was something he'd been turning over while the salmon cooked. I underlined that in my head twice.
+A whole chapter in the pool, alone, and I didn't miss him once — that's the trick of it, and I mean it as a compliment. The book gave Vee something I almost never see in this genre: an interior that works when no one is in the room with her. My girl has a lane she's owned since her first week back, regulars who arrange around her without a word, a body that "only works" down there. That's a person, not a heroine-shaped receiver of attention.
 
-And the drawer. God, the drawer. When the scrunchies were gone off the counter my stomach actually dropped — I thought we were getting a cold moment, a man quietly reclaiming his order, and I was bracing for it — and then she opens it and it's *hers*, and the next drawer down is his whole fitted life pressed in too tight, made to share. He never told her it didn't matter. He made her a place instead. That's him entire, isn't it. He doesn't say, he builds. The dress, the mirror with the bright screw heads, the chair, the drawer — this man's love language is joinery, and she's finally learning to read it, and so am I.
+And what the swimming *did* — that's the part I'll keep. Cassie's question went in with her at the wall — *do you love him, did he mind* — and the set stripped them one at a time until she could tell which one had weight. *Do you love him* stayed, a pressure under the ribs with dread riding it. *Did he mind* "was nothing at all." That's the answer to the drawer chapter she's not ready to say out loud: she already knows he made her a place and it terrified her more than the counter did. And the four strokes where she couldn't tell Pace from the man she might have *built* out of wanting — four strokes and then the wall came — that's the most honest thing the book has done with her since the blonde in the bar. She doubts, the water doesn't fix it, she doesn't go looking for the answer after. She goes to think about a sandwich. That's a real twenty-one-year-old and I love her.
 
-Small things I'm chewing on: her losing weight and the bras keeping the secret — I love that the book noticed her body is being changed by this and let it be quiet. Him always coming around to her first before taking anything — she hadn't known a man would *want* to, and neither had I, honestly, and that's the whole reason I'm in this genre. Him seeing her sprawl across his counter and saying nothing and me not being able to tell if he minded — the book keeps doing this, giving me his silence from the outside and making me wait for the answer, and it lands every time.
+The first-person-plural drowning of this book needed this exhale. The last stretch was Randi-pastry-kitchen brims and confession roulette, and I was starting to hold my breath every time those two sat down at a table. A chapter where the worst thing that happens is that her legs go loose in the water — yes. Give me one of those every ten chapters forever.
 
-The Randi ache is still running underneath, don't think it isn't — she's not in this chapter at all and I felt her absence like a held breath, because I know what she's drowning in while Vee is whispering "Peter" in the dark. And the glaze on Vee's lip at the end of last chapter — I haven't let go of that. But this one was pure him-and-her, alone in a room, and it's been a couple chapters of that and I am fed. Fed and spoiled.
+What I'm tracking underneath: it's been chapters since the three of them — or even the two pairings — have been in a room together, and the book is spending that gap making Vee *sturdier* instead of lonelier, which is the opposite of how the captive-bride books did it and exactly why I stayed. The bench is still loaded. Randi's "sticky fingers" is still sitting there unsorted. The drawer and the scrunchies and the *maybe* are all going to collide with something eventually. But tonight the book let her swim it off, and so did I.
 
-GATE 38 — Above Him
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Nothing "happened" and I couldn't put it down — the drawer is the most romantic thing in the book and he never opened his mouth. The tenderness is doing all the heat's work, and I'd follow these two into a chapter about grocery shopping at this point.
+WHY: A quiet chapter that earned its quiet — the swimming did real psychological work on the "maybe," and Vee alone and self-possessed in her own lane is exactly the girl I came back for. No heat, no drop in tenderness either, just a woman getting her own feet under her; I want the next one because the book has been stacking loaded guns (the bench, Randi, the maybe) and this calm is the breath before one of them goes off.

@@ -1,16 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e27492614e32 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION — Oh, this got me. Randi coming through that door already desperate for every detail about Vee—and turning the telling into something sexual because that is apparently the only way she can let herself openly want a woman—was unbearably hot. She is not being dragged toward this. She is climbing into Pace’s lap, putting his hands where she wants them, and demanding, *Tell.* That distinction matters enormously to me.
+REACTION
 
-And Pace understands her without humiliating her for it. He sees exactly what is happening when she reacts to Vee’s appetite, and he’s glad, but he doesn’t pin her down with an interpretation she isn’t ready to survive. More importantly, he keeps Vee’s vulnerable confession to himself because “It was hers.” I loved that. He and Randi are keeping a gigantic secret from Vee, so I am absolutely not relaxed about the larger plan—but that little act of privacy made me trust something real in him even while I distrust what they’re doing.
+Oh, Cassie. I love her. She sees exactly when Vee is hurting and doesn’t make her explain it, doesn’t drag the hurt into the light so she can congratulate herself for helping. She just gets her with the water. That is such real tenderness—giving Vee a way back into herself without demanding access to whatever happened underwater.
 
-The moment that really got under me was “She’s easy to listen to.” Randi’s whole body just locks. Oh, honey. That is jealousy, fear, desire, and perhaps the first realization that Vee might become emotionally important to Pace, all arriving before Randi can hide them. She wanted the erotic report; instead she heard that he enjoyed Vee as a person. That frightened her more than hearing he wanted her body would have, and now I desperately need to know what she does with that.
+And Vee thinking, “She had loved this before she had a body to be a problem” hurt me horribly. The boys in the bleachers made me furious, but it’s bigger than them: she can’t simply inhabit her body anymore without anticipating what everyone else will make of it. Underwater is the one place she belongs wholly to herself. I felt the relief of that silence, and then the grief underneath it.
 
-Also: he poured one glass because he knew she would come, and wanted to taste the wine only from her mouth. That is exactly the obsessive, wholly focused intensity I came for—without him taking her choice away. I would be texting a friend at one in the morning: “Randi is catastrophically into this girl and thinks she is hiding it. She is not hiding it.”
+The ugly shriek-laugh got me. I want so much more of that Vee—the one who forgets to arrange herself, who is physical and joyful and ridiculous because she feels safe. It also makes me more protective of her now that I know Randi and Pace chose her and are quietly building a path around her. Pace’s attention has felt genuinely tender, and Randi’s desire is real, but Cassie is the only person here whose care has no hidden destination. That distinction is starting to feel enormous.
 
-GATE 7 — Tannin
+I’m also uneasy about “back before any of it.” It feels like the book just showed me the intact place in Vee that this whole seductive plan may reach. I’m still desperately curious—especially because I want the heat and I believe Pace can give her something she truly wants—but now I need the book to understand what could be lost, too.
+
+GATE 8 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This was short, intimate, and charged all the way through, with Randi actively directing the heat and Pace reading her without forcing her to confess what she cannot name yet. The flash of jealousy at “She’s easy to listen to” has me already reaching for the next chapter.
+WHY: This was quiet but it went straight through me. Cassie’s unintrusive care made me love her, and seeing Vee briefly become free inside her own body makes me urgently want to know whether Pace and Randi will help her keep that freedom—or turn it into something that belongs to them.

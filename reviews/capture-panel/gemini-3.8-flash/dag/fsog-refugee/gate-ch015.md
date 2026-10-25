@@ -1,16 +1,22 @@
-*capture-dag-v2-rich · gate ch015 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch015 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9480caafaef2 · 2026-10-01*
 
-**REACTION**
+REACTION
 
-Oh, my god. My chest actually hurts.
+I am sitting here with my hand flat against my chest trying to catch my breath.
 
-I need to sit down for a minute, because the emotional whiplash of knowing what we know versus what Vee is living right now is becoming almost unbearable. She walks into that house expecting to maybe be taken into a bedroom, feeling a little sting when he closes the door—and instead of pushing her into bed, this man has bought yards of heavy burgundy silk to *sew her an evening gown*. Because she casually mentioned it on a rock while spitting cherry pits. Who does that?! It is the most intensely tender, devoted, attentive thing a hero has ever done in a romance novel, and the fact that it is happening inside a house where Randi was just writhing on his bed begging for scraps of Vee’s scent makes me want to scream into a pillow.
+This is it. This is the exact reason I read romance, the thing I spent years digging through Fifty Shades knockoffs and mafia garbage hoping to find, only done a thousand times better. The tension in this room was so thick, so completely unbearable, and not *once* did he cross a line she didn't beg him to cross. In fact, he did the most intensely dominant, exquisitely caring thing possible: he held the line *for* her, so that the gift stayed a gift, while letting her see just how much holding it cost him.
 
-The details Rivers drops here are just exquisite. The workshop that is clean and squared away, the lack of tags on the shirt she’s been living in—of *course* he made the flannel himself! It completely reframes that scene in the truck: he didn’t just give her his only dry shirt, he gave her something he built with his own two hands. And then the patent for MRI machines to make scared kids spend less time in a tube? Come on. He is written to be utterly irresistible to someone like Vee, who has spent her whole life shrinking herself down to avoid taking up too much room.
+When she was on that box dying of shame over being wet—over her body doing what women are taught to despise themselves for—and she finally forced her eyes open expecting disgust, or that awful polite pity… and he was just *looking up at her, smiling like he’d been handed a gift*? I felt the knot in my own throat give way. That is healing. That is the kind of gaze that undoes a lifetime of being told you’re too big, too loud, too hungry, too much. He didn't look down to leer, and he didn't look away to pretend. He just looked at her face and let her know she was wonderful to him.
 
-And that ending. "To do it right I'd measure you first — down to what you'd wear under it, in good light, so I can see how it'll fall." That is pure, unadulterated dominance disguised as courtly service. He’s not shoving her against a wall; he’s offering her a gift so stunning that she *wants* to strip down to her underwear in a sunlit room and let his hands and a measuring tape trace every single curve her mother taught her to hate. The consent is so thick, so completely hers to give, and yet he orchestrates every single beat so the only possible answer is yes. It’s breathtaking, it’s hot as hell, and it terrifies me for the day the curtain gets pulled back.
+And then Vee! God, I love her. The moment she realized she was safe, she didn't just relax—she stepped into her power. Rising up on her toes, pressing her breast against his cheek on purpose, saying "Oops. Sorry." That is a woman discovering her desire from the *inside out*, not just performing it for a man. Watching Pace flush red, fighting that grin, kissing the spot where the pin pricked her ribs, and then telling her, low and strained, *"Keep still"*? Holy hell. The erotic charge of a fully clothed man exercising that kind of restraint while kneeling in front of a woman in nothing but pinned silk and soaked satin is a million times hotter than any graphic scene where someone gets thrown against a wall.
 
-***
+Underneath all the heat, there's that ache in my stomach, because I remember Randi. I remember the bet, the stalking on the quad, the bench. But right here, in this glass porch in the afternoon light, Pace isn't running a script. You cannot fake the sweat on your neck or fighting a laugh or having your hands tremble over a hemline. He is falling for her. And she is completely, utterly his.
 
-**GATE 16 — Two Towels**
-**DECISION:**
+GATE 17 — A Round
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The psychological precision of her shame turning into power under his gaze was breathtaking. This is masterclass intimacy and restraint.

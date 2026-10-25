@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1889af8db5c0 · 2026-10-01*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, God. Oh, *God*. My stomach completely dropped through the floor.
+Oh, *Vee*. Oh no, no, no. My stomach completely dropped the second that blonde leaned over her drink at the bar.
 
-I feel physically sick, and at the exact same time, it is so sickeningly well-written that I couldn't look away. For twenty chapters I have been totally in love with Pace—ruined for any other man, convinced his care and his courtly patience were the gold standard. But sitting here watching him fuck Randi while they *reminisce about Vee*? Watching them eat chicken in the very kitchen where Vee sat wrapped in a sheet, talking about Vee’s shame, talking about Vee’s body, using Vee’s bright, innocent joy as the foreplay to get hard again? It made my skin crawl.
+This hurt so bad to read because it was so completely, brutally *earned*. The author didn't invent some ridiculous contrived misunderstanding; she just let Vee’s deepest, most toxic wiring take the wheel. Vee has spent her entire life having *floozie* drilled into her head by her mother, hiding her body in oversized cardigans, terrified that being hungry and wanting to be looked at makes her dirty. And she just spent a week being treated like a queen, bloomed open, had him sew a silk gown to her bare skin, slept in his bed—and the second she’s in a public room and sees other women smiling at him, the old poison flares up like gasoline on a fire. *“Three dates, and she’d spread her legs like a slut.”* That line made my chest ache. The viciousness of her turning on him wasn't really about him at all—it was the terror of having handed her whole heart over without armor, desperate to strike first before she could be made a fool of.
 
-It’s the sheer *arrogance* of Pace’s interior fantasy that broke my heart: *"he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them... He wanted to tell Vee. He could not, not yet."*
+And Pace! God, his reaction broke my heart. No yelling, no defending himself, no chasing her down to aggressively dominate her into listening. Just that terrible, quiet stillness when the venom hit him, the light completely going out of his face, and then setting his untouched beer down and walking out into the cold. He gave her the space she demanded because that’s who he is. He doesn't trap.
 
-He thinks this is going to be some beautiful, enlightened triad where he lovingly cures Vee of her shame while he and Randi share her like a prized possession. He honestly believes he is serving her! He talks about her shame like he’s an expert psychoanalyzing a patient—*"Somebody taught her to be ashamed of her body... you know what she does to a room"*—completely blind to the fact that when Vee finds out she was a shared project, a curated meal between two predators who discuss her over dinner and then ride each other using her image, it will destroy her ten times worse than her mother ever did.
+The bartender giving her the reality check was medicine, but the real agony is at the end: she's going to *Randi* to fix it. *NO.* Vee, call Cassie! Wake Cassie up! Cassie is three feet away in the dark, Cassie loves you, Cassie has no skin in this game! Going to Randi—who literally uses Pace as a proxy for her own twisted obsession with Vee, who is seething with jealousy over how slow and tender Pace is being with her—is like walking straight into a combine harvester. Randi is going to weaponize this fight so fast Vee won't know what hit her.
 
-And Randi. Jesus, Randi. She is coming completely undone. She’s terrified because she’s actually falling for Vee—*"She got past me before I could help it"*—and the moment Pace started waxing poetic about how Vee lights up a room, Randi felt the walls closing in. The sheer jealousy and territorial panic in her! She instantly weaponized Vee’s body to get him back: pulling off his shirt, dragging her bare breasts down his chest, whispering *“What she keeps under there... It’s criminal, Pace.”* She is using Vee as the conduit to keep Pace, and using Pace to possess Vee, and it is brilliant and tragic and utterly monstrous.
-
-Vee is sitting in her dorm right now, having put hundreds of dollars on an emergency credit card she can't afford, smiling at the ceiling because she thinks a man stayed up all night sewing for her out of pure devotion, and that a glamorous friend loves her just for being her. And meanwhile, those two are in his bed with his undershirt on the kitchen floor, treating her like a mutual addiction.
-
-I’m furious at Pace. I feel betrayed by him. But my god, the dramatic tension is a razor wire pulled so tight it's humming. The crash that is coming when this all detonates at the honors induction is going to be catastrophic, and I am trapped until I see how Vee survives it.
+I feel sick. I need the next chapter immediately.
 
 ***
 
-GATE 26 — Gone
+GATE 28 — Lesson
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
-ROMANCE: 0
-ALMOST-STOPPED: "And then, before he had decided to, he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them, the way they already smiled about each other."
-WHY: The sheer, sickening complacency of Pace imagining a happy little polyamorous breakfast with a girl he is actively deceiving made me want to slap him. It borders on total psychological disregard for Vee, but the tragic inevitability of the impending crash is impossible to look away from.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Vee's self-sabotaging lash-out felt heartbreakingly true to her trauma, Pace's dignified retreat wrecked me, and the impending car crash of her going to Randi for help has me by the throat.

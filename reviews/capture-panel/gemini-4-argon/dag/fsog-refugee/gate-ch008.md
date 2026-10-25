@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b0e38f522c99 · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3cfa40cceb07 · 2026-10-24*
 
 REACTION
 
-Oh, I love Cassie. And my chest actually aches for Vee right now.
+Oh, I am *melting*. This chapter did everything I want a romance to do and almost never get.
 
-That line—"She had loved this before she had a body to be a problem"—just went straight through me. Every woman who grew up into a body that men decided was public property knows that exact grief, that feeling of having to put on a "game face" just to walk fifty yards past a row of bleachers, carrying your towel at your side so they don't get the satisfaction of seeing you cover up. And then sinking to the bottom of the pool where nobody can see you and nobody wants anything from you. God.
+Look at the way he handles her rule under the tree: *"I don't kiss a man I've known a couple of days."* In ninety-nine percent of the books I've walked away from, the hero smirks, pins her against the tree anyway, says something about how she doesn't mean it, and kisses her until she gives in. And you're supposed to swoon because he wanted her too much to listen. Pace *stops*. He doesn't pout, he doesn't do the fake-patient hovering thing that's really just pressure in a nicer shirt—he smiles like she told him something good about herself and starts walking her home. And *because* he actually gives up the ground, she gets to plant her feet, pull on his hand, and cross the distance herself. And then he does the exact same thing with her that he did with Randi in Chapter 1! Gives her the small kiss she asked for, eases back a breath, and lets her decide if she wants the real one. Watching her stand in that inch of space and *let herself want it* before she goes back in—that's it. That's the whole thing the jacket promised: *until choosing becomes the most erotic thing she has ever done.* I felt that in my chest.
 
-It makes me understand immediately why Pace's way of looking at her—waiting for her, asking, letting her finish a sentence—landed on her the way it did, and why Randi's bright warm attention feels so intoxicating. Vee is constantly being *yelled at* or *taken in* by idiots on bleachers, and her own mother's voice in her head tells her to cover up because of it. Of course she's starving for someone to look at her with care.
+And the dinner! The dinner is basically a whole scene before they ever touch. *"May I choose?"* and the relief in her when she hands it over—if you like dominant men, you know that exact exhale. It isn't about being bossed around; it's about finally not having to manage everything for five minutes because the person across from you is paying actual attention. And watching her eat without policing herself—after Chapter 1 with Randi calculating an apple, and Chapter 6 with her mother's voice in her head over froyo—seeing Vee tear into hot bread and sour green salad and smoky baba ghanoush while he eats with his right hand and licks a drip off his skin without breaking his sentence... I didn't expect a Lebanese dinner where nobody gets undressed to feel this sensual, but my god it did. Even the way her head goes soft and floaty before the mint tea brings her up—that's subspace at a restaurant table!
 
-And it also makes the whole setup with Randi and Pace—and Cassie's flat "Goodbye, Vee" back in Chapter 4—feel so much heavier. Because here is Cassie, who *actually* loves Vee, who keeps her joke quiet just for Vee's ears so it doesn't turn into a spectacle, who watches Vee surface with her face wrong and shoots water at her instead of poking at the sadness until Vee is making her ugly shriek-laugh. Cassie is a real friend. Randi is playing a game she started in bed with her boyfriend. I want Pace and Vee in a room together, badly—we've only had froyo and a math problem so far—but right now I'm mostly protective of this girl.
+Only one tiny thing made me squint for half a second: in the middle of dinner she stops following his words and can't remember later what they talked about, and for one beat it echoed Chapter 4 at Chi Latte where she couldn't remember a word Randi said either. It gave me a tiny shiver because we know Randi and Pace are running a game on her. Is she just so starved for warmth that she goes floaty whenever someone gives it to her, or am I watching her get spun? Either way, Pace in this chapter doesn't feel like a man running a con—he shaved for her, he took her toChristine's, he kept her secret from the froyo walk. Whatever this started as on the quad, he is *in* this with her. And Cassie—"That's not a boy. That's a man." Yes, Cassie. Exactly.
 
-GATE 8 — Water Wings
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Zero heat and Pace isn't even in the chapter, and I didn't care for a second—this made Vee completely real to me from the inside, especially what it costs her to walk around in her own body. Cassie is wonderful, and now I'm dying to see what happens the next time Vee is actually alone with Pace (and honestly a little scared for her).
+WHY: The kiss under the tree—where he accepts her "no" without a hint of pressure or games, so that her "but I'm making an exception" is a hundred percent hers—is the exact dynamic I read this genre hoping to find. Between "May I choose?" at the table and him backing off a breath so she can come take the real kiss, I am completely hooked.

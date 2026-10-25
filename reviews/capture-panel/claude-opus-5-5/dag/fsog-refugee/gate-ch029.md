@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch029 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-10*
+*capture-dag-v2-rich · gate ch029 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-10*
 
 ## REACTION
 
-This one was short, but it hit me twice, about a page apart.
+The outliers lecture got me right away. *The second kind comes in through the part that carries forward. It's in everything that comes after.* Then Randi's knee lands against Vee's under the desk, and I put the book down for a second, because I know which kind of outlier this chapter is.
 
-The first hit was him talking about her. Sheri says "Vee," and he's off. He tells her about Vee running her thumb down the walnut joint he spent a weekend on, and about her pulling a math book off his shelf and not putting it back, "like it had burned her." He doesn't hear himself. Sheri says "Listen to you," and "He didn't know what there was to listen to" just about finished me. He's gone on her and he's the last to know. That's the man I've been following since the sun porch. I also needed Sheri's report on the bar more than I realized. Vee sat alone with one drink, danced with nobody and left alone. Someone watched her that night when he couldn't, and now he knows that she was okay and that she was loyal to him. I let out a breath for her.
+I came in still glowing from 32. When he asked "This?" into her hair with his palm just resting there and nothing new added, that was the man I left a whole genre looking for. He watched her face and he asked. She said please twice, it went unnamed, and she got to keep it. *Hers.* So I walked into this chapter feeling protective of that kitchen, and then I watched Randi take it apart in forty-five minutes in a soundproof room.
 
-The second hit was "Not yet."
+"Did you deserve it?" That's where my stomach dropped. Pace never put that frame on it. He didn't punish her for anything. She swatted him, she twisted, his hand landed, he saw what it did to her, and then he asked. Randi took that and slid *deserve* under it in one easy breath, Vee agreed before she heard herself, and Randi's smile *brightened*. That's the exact grammar I left the mafia books to get away from: discipline, naughty little girl, made to count. And it wasn't Pace who brought it into the room. It was the girlfriend.
 
-"She know about the redhead?" "She knows. She likes her." *Likes* her. Randi is in love with Vee and lying to both of them, and he hands Sheri "likes her" like it's the weather. Then "And the redhead?" gets "Not yet." Those two words carry a plan. It isn't "no," and it isn't "I don't know how to tell her." It's a timeline, and Vee has never been told it exists. It's the staircase again, "from where she is to us." The night before Vee walks up to his door in Randi's shoes, he's describing her to a friend as someone who doesn't know *yet*.
+Then there's "Mine." She says "Slight little thing, apologized to the furniture," and I don't believe a word of it. My notes say she already invented an old boyfriend "in a hurry" for Vee. Someone who lies that smoothly about a past man can build a mouse that roars to order, fitted exactly to the shape of what Vee just admitted. And "his hand would slip... by then it's welcome" is the line where it moves from story to rehearsal. She's showing Vee a door and calling it a memory.
 
-Then Sheri says "Two of them at once. How do you sleep? That must be better than your dreams," and he doesn't answer. To be fair to the book, Sheri is the one winking, not the narration. She's running the arithmetic "anybody could run," and his silence could be discomfort as easily as agreement. I want it to be discomfort. I can't tell, and I think the book wants it that way. "But I bet it's worth it." Worth it for whom, Sheri? You watched Vee nurse one drink alone and glare at the floor. You know what she looks like when she's hurt.
+I'll be honest that it worked on me too. The room was hot. Randi is a terrifyingly good storyteller, and the book made me feel Vee's body go before Vee could stop it, which is what I read for, and that's exactly what makes it creepy. But the bathroom saved the chapter for me. "Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it." That's Vee's own line, drawn by her, with her hand held flat on her knee. Her desire is hers and she's deciding where it goes. I want to hug her.
 
-I like Sheri a lot. She's small and fierce, faster on the climbs and never lets him forget it, with the bleached ponytail and the temper that's "worth everything" from the other side. "She couldn't take your heat" was sweet and a little protective. I think she's the bartender who set Vee straight, and if so I love her more.
+The book also knows what it's doing, which helps. "Couldn't tell whether she had." The arms slow to come down. "She put it down to that." Cassie gets "see you in the room" said to the side of Vee's head, and I flinched for her again. Cassie is being cut out of the herd the same way Vee was, and this time Vee is the one doing it.
 
-The gap: it's Saturday morning. He and Vee haven't been alone together since the fire, and tonight is the door. This chapter kept me out of the room on purpose, and it worked. I'm wound tight. I needed to hear that he's lit up about her, and I got it. In the same breath I got the reason I'm scared of tonight.
+Here's what really scares me, what I'd text at 1 a.m.: **Randi is going to drive up that gravel and tell Pace.** The wet hand, "it went right through me," "I'm sure he saw it," and now "did you deserve it?" with Vee's yes attached. He kept the kitchen as hers, unnamed. If he hears it named from Randi's mouth in bed and it fires him, then the next time his hand finds that spot it isn't Vee's anymore. That's my line. In 32 he passed every test I had, so for now I'm holding Randi responsible and not him.
 
-1 a.m. text: *he talks about her like a boy with a crush and then says "not yet" like it's a schedule. I'm reading the next one RIGHT NOW.*
-
----
-
-GATE 31 — hills-and-valleys
+## GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 8
 NEXT: 9
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "And the redhead?" / "Not yet."
-WHY: It's a small, quiet chapter, but his not hearing how he sounds about her is real tenderness, and I believe it. "Not yet" made me sure there's a plan Vee has never been shown. With Saturday night next, I can't put the book down. I need to see which man opens that door.
+HEAT: 3
+ROMANCE: 1
+ALMOST-STOPPED: "So. Did you deserve it?" … "Yeah. Probably I deserved it." / "Randi's smile brightened."
+WHY: Randi pulled the punishment frame out of Vee, and I could feel the book sliding toward everything I left this genre to escape. Vee stopping her own hand in the bathroom is what kept me reading. Pace wasn't in the room, but what Vee said there is going to reach him, and I have to know whether he stays the man who asked "This?"

@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8611b8522702 · 2026-10-01*
 
-REACTION
+REACTION:
 
-God, my heart. My actual heart.
+Oh my god. *Oh my god.* I am sitting here with my hands shaking, trying to breathe, and I don't think I've ever read a first-time scene that utterly wrecked me like this.
 
-Every time Vee comes back to that dorm room to debrief with Cassie, I feel like I can finally breathe again, but this time I was holding my breath for a completely different reason. I am so deeply, hopelessly in love with their friendship. Cassie isn’t just a sounding board; she is the mirror Vee needs so desperately. The way Cassie catches the weight of what Vee is saying—the fact that she dropped her textbook the second Vee walked in, the way she clocked the shirt immediately, the quiet, devastating beat when Vee realized *he turned the heat up hours before so she wouldn't be cold*—it kills me.
+*“Would you be bothered if I was too hard?”*
+The way he asks. The fact that he asks it from his knees, looking up at her, right after seeing those soaked, green satin panties that she bought just for this, completely stripping away every scrap of plausible deniability. That isn't just dirty talk—it’s Pace doing that terrifying, breathtaking thing he does where he makes room for her desire first, but he also names the exact physical reality of what they are about to do. He gives her the choice, and in giving her the choice, he makes stepping into it the most intensely erotic surrender imaginable.
 
-"Oh, Vee." That little soft murmur from Cassie when she understood the heat. That’s love. That’s pure, unconditional tenderness from a best friend who knows how hard Vee’s life has been, how policed and starved she’s felt, seeing her finally be cared for.
+And Vee. God, Vee. The psychological accuracy of her shame loop—her mother’s voice hissing *floozie* at every single biological betrayal of her own want—running side by side with the heat on the very same wire? That is so real it hurts. Every woman who has ever felt like she was “too much”—too loud, too hungry, too wet, too big—carries that exact wound. Watching Pace meet every drop of that, not looking away, not treating it like an embarrassing mess to be politely ignored, but actively worshipping it, staying in the wet of her and tasting it like it’s the best thing on earth? He literally heals her with his mouth on that floor. He burns right through her shame. When she stood there and came so hard her knees gave out and his hand just took her weight? I had to put the phone down for a second.
 
-And what Vee took away from that sun porch! That line: *"It was like his eyes asked, May I look."* That is the entire crux of what I have been looking for in this genre for ten years. A man who wants her out of his mind, who is strong enough to snap a board in half, but who holds his hands still, leaves the door wide open, and asks with his eyes. And because he left her room to exist, Vee didn't shrink. She didn't hide behind her mother's ugly shame. She stepped into her own power.
+Then the bedroom. Him looking at her face the entire time. No hiding in the dark, no closing her eyes and pretending to be somewhere else. He demands that she be *there*, with him, in the light, being seen. And when he lifted her hips to find that new angle and finally let go of that iron control—hearing him break into her shoulder, low and helpless? That is what I read this genre for. The intensity of a powerful, perfectly composed man being completely brought to his knees by one specific woman.
 
-When she told Cassie, *"I was grinding on him"* and fell back onto the bed laughing into the pillow? I kicked my feet. I literally kicked my feet on my couch. The utter joy of a girl realizing her desire belongs to *her*, that she can tease, that she can want, that she drove this terrifyingly controlled, brilliant man to the absolute edge while he was trying to pin a hem—it is intoxicating. She isn't just an object being seduced; she is waking up.
+And then the ending. The sheer, glorious, heart-stopping audacity of her dropping the sheet, standing bare in his kitchen, folding those panties in thirds with the wet mark right in the center, and handing them to him. *“Trade.”*
+For the flannel shirt! The trade for the shirt! She is claiming her own desire so completely now. She handed him the proof of her hunger as a trophy, as an offering, as an equal.
 
-The only thing that aches, the shadow sitting at the edge of the bed with them, is what I know that Cassie and Vee don't. Pace and Randi. The game. Every time Vee experiences real, transformative tenderness from Pace, it’s built on a foundation that started as a secret wager. It makes the beauty of it almost painful to read, because Pace *does* care. You cannot fake turning the heat up hours in advance. You cannot fake kneeling at a woman's feet to save her from her own shame. When the truth comes out, it is going to tear her in half.
+My heart aches because underneath all this absolute perfection is the shadow of Randi and that goddamn spanking bench. Pace is falling for Vee—you can feel it in every breath, in the way he cooked for her, the way he watched her, the heavy privacy in his shoulders when he took those panties. He isn't just executing Randi's twisted little game anymore. This is real for him. But the higher this goes, the more devastating it will be when the truth of the beginning comes out. Right now, though? I am completely, utterly captive.
 
-Until then? I am drinking down every drop of this warmth.
-
-GATE 18 — Turned Up
+GATE 20 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The decompression between Vee and Cassie is unmatched; watching Vee process the incredible tenderness of Pace turning up the heat and asking with his eyes—and then gleefully owning her own power and teasing—made my chest ache in the best possible way. I need the next chapter immediately.
+WHY: The absolute pinnacle of what this genre should be: blistering heat driven entirely by deep psychological intimacy, exquisite consent, and a heroine finally stepping out of her lifelong shame and claiming her own massive appetite.

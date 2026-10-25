@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch022 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8d06f617de36 · 2026-10-10*
+*capture-dag-v2-rich · gate ch022 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b529b5725542 · 2026-10-24*
 
 **REACTION**
 
-I'm grinning like an idiot. I didn't expect to *laugh* during a sex scene in this book, and I laughed out loud. "There's a lot of you covered in a lot of me," and him twitching at it, and her saying it again slower just to watch it happen again. Then the leg sliding off his hip so he has to catch it, "which helped nothing." I've read a lot of this genre, and the intense books almost never let the two of them be funny together, mid-act, half-tangled in a dress they're both terrified of ruining. Here it's happening between two specific people. You couldn't swap anyone else into that hallway.
+She ate. She cleaned the plate, gathered the last of the couscous off the edge with her fork, said "That was lovely," and took his hand across the table. I've watched this woman order egg whites for twenty chapters and never once seen food go into her mouth. Now it happens on his kitchen chair, in his undershirt, after she's spent the whole night talking about Vee. Title's "Gone." I think it's Randi who's gone. "She got past me before I could help it." "I keep waiting to get bored of her." That's a woman falling in love, and she doesn't have the words, so she says it to the man she's sleeping with. The undefended face. The stillness "that takes holding" when he says Vee makes the room go brighter. She asks for more wine with the glass still half full, just to keep him standing next to her. I'm sad for her and I can't stop being sad for her.
 
-What got me most is that every move was hers. She strips off the underwear because the pale edge was spoiling the line. The book stays inside her while she does it, with the shame flaring and turning into want "almost before it was shame at all." She strides into the den with the slit swinging. She's the one who opens his belt and takes him in. That's exactly the heroine I came here for, whose desire is hers and rendered from the inside. The feet on his chest was the moment I'd frame. She holds him off at the length of her own legs, "he could have come through it without trying and he did not; he stopped where she put him." That one line is the whole reason I left the mafia books and the whole reason I'm still here. Then he makes her wait, and she knows it's costing him, and he spends it anyway. Tenderness and dominance in the same man, with no contradiction. The fingers in his mouth went straight through me too.
+I came in braced for "Tell me," and it came, and my stomach dropped. Then he gave her the lamp. Not the green panties, not the riser, not the wet satin, not Vee's toes on his chest. He gave her what Vee does to a room. He kept the bed to himself. I let out a breath I'd been holding since chapter 20. He doesn't get off clean, though. "She's ashamed. Somebody taught her to be ashamed of her body." That's true and it's kind, and it's still hers to tell, and now Randi has it. I'm putting another asterisk on him, a smaller one.
 
-And the dress. He hid the trouble so she'd only see the part that looked effortless. I cried a little with her. He lined it only where "the dress had decided not to give away," and I keep turning that over.
+The threesome images, the black hair falling into the red. They got me, I'll admit it, and the book doesn't pretend they didn't get him. It's all inside his head, it's honest, and nobody's being pushed into anything. But then his mind drifts off the fantasy back to Vee in the sheet at his table, and that's the part that went through me. The fantasy doesn't hold him. She does.
 
-Now the part that sits wrong, and it isn't the chapter's fault. I just came from the Ch23 kitchen. Randi said "It's selfish, Pace," poured her own glass, and rode him with her eyes shut, and the covered bowl went in the fridge. So when Vee lies there guessing he was up all night finishing the dress, I know what kind of night he'd had before that. He still hasn't told her anything. Then the induction daydream ends on "It just felt like what she was for." The blurb's "appetite that can only give her the best of herself by taking it" rang in my head, and I felt a chill. "Getting away with something" as the last line is the book winking at *me*, not at her. That's the right kind of wink. Meanwhile I know she's going to need shoes she doesn't own, and I'd bet my rent Randi is the one who takes her to buy them.
+What turned me cold was "You do nice work." Like Vee's a commission. Like they're grading a project. Then I remembered the credit card with nothing behind it, Randi holding Vee's bare foot, "practically a marriage," the plum polish. I'm not even sure who's working on whom anymore. And Vee's going to sit next to her in stats on Monday thinking it's jealousy over a man who stays up nights.
 
-The thing I'm still guarding is this afternoon. It's hers now: the slit, the laughing, the feet. If Randi gets a "tell me" about it, it'll hurt twice as much because it was this sweet. Text to a friend at 1 a.m.: "they LAUGHED during it. and she stopped him with her FEET and he STOPPED. i'm unwell."
+At 1 a.m. I'd text: *he didn't tell her the wet stuff. AND RANDI ATE A WHOLE PLATE. I think she's in love with Vee and doesn't know it.*
 
-GATE 24 — Peekaboo
+**GATE 23 — Gone**
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none. The nearest I came was a small chill at "It just felt like what she was for," and it pulled me forward rather than away.
-WHY: This was the consent-rich heat I've been hunting for years, she drove all of it, and the laughter made it theirs alone. My next is a hair under my capture only because I'm braced for Randi to come asking what happened this afternoon, and I want to see whether the book protects it.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "You do nice work."
+WHY: The dread I'd been carrying ("Tell me") came and he protected her, mostly, so I'm still trusting him, with a smaller asterisk for the shame line. Randi undone at his table, eating, is the biggest crack yet, and I need to see what it does to her when she's next alone with Vee. It's only been two chapters since Vee and Pace were alone, so I'm not starving.

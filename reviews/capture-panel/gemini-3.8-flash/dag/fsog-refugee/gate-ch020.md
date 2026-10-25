@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch020 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
+*capture-dag-v2-rich · gate ch020 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0894d4db7f65 · 2026-09-27*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in knots. It is an absolute sick, thrilled, terrified knot.
+Oh my god. *Oh my god.* This chapter felt like drinking warm honey, and it is going to make the eventual explosion hurt ten times worse.
 
-Look at what this author is doing with Vee. The pure, shining afterglow of Chapter 20—driving home bare under her skirt, grinning at every red light, walking into the dorm smelling like cereal and cool autumn air—it is so sweet and earned. Vee realizing she gave her green satin away, having to pull her zipper back up in front of Cassie because she’s literally naked underneath, that is the most delicious "walk of shame" (except she feels zero shame!) I’ve ever read. And Cassie, bless her heart, tossing out that dry little "Was he worth painting your toenails?" while drinking brown cereal milk. Cassie is the anchor. She’s the safe harbor.
+First of all, the dress. The fact that he took the trouble to hide the trouble—no visible closures, the oyster lining just where she needed the structure, cut so exactly to her body that it felt like water finding its level—I almost cried with her. When you’ve spent your whole life wearing off-the-rack clothes meant for smaller, tidier bodies, feeling like an oversized mistake, having a gorgeous man build something exclusively for your actual hips and breasts is the most romantic thing on earth. And then her taking off her underwear because the pale band broke the clean line of the slit! The way her lifelong shame of being a "floozy" flipped into sheer, defiant erotic agency—she didn't scurry, she *strode* into the den to show him what he'd built.
 
-And then Vee walks straight into the spider’s web.
+And then the sheer, messy reality of them trying to navigate sex in a couture gown! This is what so many romance novels miss—the hilarious, awkward physics of being so ravenous for each other that you mess up the logistics. Her holding his slick dick while he tries to unzip the side seam, her realizing her hands are covered in him and wiping them down his ribs while his arms are pinned above his head, the dress at half-mast while she laughs so hard they have to pause—it was *so* profoundly intimate. It felt like two real people who actually like each other, who have fun together, who aren't performing for a camera. And then Pace cleaning her slickness off her fingers with his tongue while looking right into her eyes? *Mercy.* My heart was in my throat. That combination of unhurried reverence and absolute filth is why I read this man. Carrying her down the hall while buried inside her, hitting the wall and laughing—it's pure fire because the affection and the consent are baked into every single second.
 
-Randi at brunch. God, Randi is *evil* in the most breathtaking, deeply pathetic, intoxicating way. The manipulation is so quiet you can barely hear the gears turning, but they are grinding away. That story about running into an "old boyfriend" who was "in such a hurry"—she is talking about *Pace*, isn’t she?! She has to be talking about Pace in Chapter 14! Or she’s setting up this contrast just to extract every drop of intimacy out of Vee. And the way she interrogates her—not like a gossip, but like a predator savoring every detail of a meal someone else ate for her. *“You didn’t buy those hoping he’d be a gentleman. You bought them hoping he’d give you no reason to keep them on.”*
+And yet, sitting under all of this gorgeous, domestic bliss is the ghost of Chapter 23. Randi riding him cold with her eyes shut, Randi telling him he's selfish, Randi starving for Vee while Pace insists on Vee choosing every step. Vee lies in his bed thinking she's getting away with something, daydreaming about wearing this scandalous gown into the induction room to blow away the girls in department-store navy—and Randi will be standing right there. Randi, who knows the color, who knows the game, who is losing her mind with jealousy.
 
-And Vee, poor, starved, beautiful Vee, thinks this is what having an older sister or an amazing best friend feels like. *“The friend she’d wanted at fifteen and stopped expecting to get.”* That line broke my damn heart. Vee thinks Randi is validating her, cheering for her appetite, freeing her from her mother’s voice. And Randi *is* doing that—while simultaneously getting high off the secondhand contact high of Pace, and grooming Vee into her own orbit!
-
-When Randi’s voice started slipping—the esses running long, the liquid look in her eyes, Vee thinking *she's drunk* but she barely touched her mimosa—my breath caught. Randi is drunk on *her*. She is drunk on the arousal and the proximity and the possession.
-
-And then the curb. The first kiss in the convertible was a test. This second kiss—the light hand on the hinge of the jaw, the mouth soft, the drawing-back and the *second press*, and Vee meeting it? And not even checking the street this time?!
-
-The trap is springing shut, and Vee is driving home with the radio up thinking she’s finally happy. I need Chapter 22 immediately. I feel like I'm watching someone dance on a trapdoor.
+Vee is so happy, and the floor beneath her is made of tissue paper. God, I need the induction. I need to see the collision.
 
 ***
 
-GATE 21 — Fed
+GATE 24 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological tension is suffocating in the best way; watching Randi gently, ruthlessly weave herself into Vee's newfound sexual confidence makes me want to scream at the page and read fifty more chapters right now.
+WHY: The perfect blend of breathtaking erotic charge, genuine laugh-out-loud intimacy, and the creeping psychological dread of knowing the trap she's happily dancing inside.

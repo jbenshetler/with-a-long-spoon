@@ -1,28 +1,32 @@
-*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6e62cd46bbc6 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh my god. *Oh my god.* My stomach is completely in my throat. I am sitting here vibrating with a mixture of sheer, breathless arousal and absolute, paralyzing dread.
+Oh, this was *gorgeous*. This was the exact medicine I needed after the ache and prickle of the country bar.
 
-First of all: the table. *The table against the wall with the top that lifts off.* The spanking bench is right there in the bedroom, masked as an ordinary piece of furniture. Randi touched it, looked at it, and Pace flashed back to her facedown on it, flush the color of wine, begging for more. We finally know where it is, and we know Randi was on it.
+First of all, her showing up in Randi’s heels and the borrowed silk scarf, holding a supermarket pie labeled "HUMBLE PIE" printed out on the stats lab adhesive paper—that is *so* exquisitely, painfully Vee. The clumsy, brilliant armor of a girl who is terrified of being nakedly penitent. And then the heels make her an inch taller than him, and you can feel her stomach drop through the floorboards because she thinks she’s broken the cardinal rule of her own feminine deferral. But Pace—god, Pace’s brain! *“Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up.”* He doesn't just dismantle her panic; he makes room for her whole presence. He lets her be tall. He takes the pie so her hands are free. And when she tries to run her little rehearsed "clean machine" speech, he doesn't punish her, but he doesn't let her hide behind it, either. *“What happened?”* Just genuine, unbruised curiosity. When she broke down and admitted what the blonde said—that ugly, sickening insinuation that his care is just a calculated snare—and he just tipped her chin down and said, *“Thank you for telling me what she said.”* No defensiveness. No wounded ego. Just immense, steady gratitude that she trusted him with the truth.
 
-And then this entire scene happened. I need to scream into a pillow. It was filthy, it was electrifying, and it was horrifying. Watching Randi use Vee’s bare skin, Vee’s vulnerability, Vee’s little involuntary gasp when Randi touched the back of her knee as *dirty talk* to get off on top of Pace? I felt like I was watching a car crash in slow motion, except the car crash was unbelievably hot. Randi is completely obsessed. She isn’t just coordinating a campaign anymore; she is physically, mentally consumed by Vee. She’s getting wet just describing Vee standing in her room in her bra. And Pace—god, Pace. He claims he wants Vee to choose every step, he claims he wants her to get there on her own, but he didn’t stop Randi for a second. He let that story drive him out of his mind. He thrust up into her harder because of it.
+And then the kitchen. The kitchen!
 
-That is what makes this book so lethal. In any trashy bully romance or mafia captive book, this would just be callous disregard—two awful people laughing at a victim. But here, the twisted thing is that *both* of them actually adore Vee. Randi’s voice goes soft when she talks about Vee’s heart; she tells Pace Vee doesn't do anything halfway. Pace is relieved Vee had somewhere safe to go. They both genuinely revere her! And yet, they are passing her between them like a delicious secret, turning her earnest, raw, crying confession into fuel for their own bed. It’s an emotional vivisection disguised as devotion.
+This is what I live for in this genre, right here on this page. It wasn't planned. It wasn't a dungeon scene with negotiated implements and heavy theatrical breathing. It was Sunday morning domesticity, dishwater and bare feet and her nagging him about "the soak," teasing, swatting his ass—and him swatting her back in the playful scuffle. And that *one* open-handed crack across her bare backside waking up something entirely unintended, wild, and shocking inside her.
 
-Vee is across campus, sleeping with his shirt, carefully planning out her little black dress and her borrowed silk scarf, thinking she’s preparing a brave, mature apology to a good, patient man. She thinks Randi gave her sisterly advice. She has no idea she was ordered to wait a day so Randi could spend Friday night in his bed, feeding him every detail of her body, orchestrating the exact terms of Saturday night.
+The psychology of her reaction was breathtaking. The instant tightening of her nipples, the shock, and the desperate, frantic scramble to cover it up with sex and chatter because if she doesn't name it, it isn't real. She takes him to bed to hide from what just happened, riding him, talking nonstop to keep the room from asking questions. But he *knows*. He saw the look on her face. And instead of pinning her down or forcing the issue, instead of demanding she perform submission for him, he just… places that heavy, warm palm right over the sting. Not hitting her again. Just holding the heat. Grounding the wire.
 
-"She's going to be so beautiful when she walks in. You wait."
+*“This?” he said, into her hair.*
 
-The trap is so tight now. Saturday night is coming. Vee is walking into that house wearing Randi’s shoes, Randi’s scarf, and Pace’s expectations. I can barely breathe. If I don't get the next chapter immediately I am going to lose my mind.
+The absolute perfection of that question. That is what real dominance looks like. He doesn't presume; he doesn't force a label onto her before she's ready to bear it; he just offers the pressure and watches to see if she leans into it. And she breaks on it. *“Please.”* It’s messy and involuntary and completely consensual in the deepest sense: she is discovering her own appetite right alongside him, terrified and undone, and he is holding the shape of the container so she doesn't spill over.
+
+And then the Monday morning rush, her hair a disaster, feeling overwhelmed and out of place, and he just gathers the hair at the nape of her neck and murmurs, *"You're always beautiful."*
+
+My heart is completely full. I have zero notes. I just want to keep living inside this weekend.
 
 ***
 
-GATE 30 — Space
+GATE 32 — A Recognized Method
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it's unbearable—watching Randi weaponize Vee's vulnerability as dirty talk while straddling Pace was sickeningly hot and devastating. I am completely hooked on the collision course they've set for Saturday night.
+WHY: The absolute masterclass in pacing, psychological truth, and tender dominance—from the accidental swat at the sink to his hand simply holding the sting while asking "This?" It gave me everything I read this genre to find.

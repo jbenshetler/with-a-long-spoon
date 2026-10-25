@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch018 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
+*capture-dag-v2-rich · gate ch018 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
 
 REACTION:
 
-Oh my god. My stomach is in actual knots.
+Oh, god. My stomach is in knots. It is an absolute sick, thrilled, terrified knot.
 
-The *manipulation* here is so subtle and so terrifyingly effective I feel like I need a cold shower. Randi is a masterclass in psychological extraction. The way she sets up the environment—the dark green velvet booth, the intimate alcove, the expensive ease of the convertible, the wine—and then immediately disarms Vee with her own "vulnerability." Telling that story about getting tied up with the Hermès scarf and tickled to the point of crying? It’s brilliant, it’s completely unhinged, and it immediately sets the conversational permission structure to: *We talk about our wildest, most humiliating, most submissive bedroom secrets here, girlie.*
+Look at what this author is doing with Vee. The pure, shining afterglow of Chapter 20—driving home bare under her skirt, grinning at every red light, walking into the dorm smelling like cereal and cool autumn air—it is so sweet and earned. Vee realizing she gave her green satin away, having to pull her zipper back up in front of Cassie because she’s literally naked underneath, that is the most delicious "walk of shame" (except she feels zero shame!) I’ve ever read. And Cassie, bless her heart, tossing out that dry little "Was he worth painting your toenails?" while drinking brown cereal milk. Cassie is the anchor. She’s the safe harbor.
 
-And Vee, who is so deeply, desperately starved to be known and accepted, just walks right into the parlor. Watching Randi steer her from the dress to the measuring, to *“Nobody measures over a bra,”* to drawing out the exact physical geometry of Pace on his knees in front of the platform... it made my chest tight. Randi knows *exactly* how Pace works because Pace did it to her, or because they planned it together, and she is feeding on Vee’s experience like oxygen.
+And then Vee walks straight into the spider’s web.
 
-And then the moment Randi pulled the brake:
-*“You don’t have to tell me.”*
-That wasn't mercy. That was Randi suddenly hitting her own absolute limit of what she could bear to hear Pace doing to another woman, or it was the absolute masterstroke of control, pulling the rug out right when Vee was about to hand over her deepest shame. The whiplash! Leaving Vee with her soul completely bared and hanging out over the tomato soup, and Randi just casually checking her watch and looking for the bill. It is *merciless*.
+Randi at brunch. God, Randi is *evil* in the most breathtaking, deeply pathetic, intoxicating way. The manipulation is so quiet you can barely hear the gears turning, but they are grinding away. That story about running into an "old boyfriend" who was "in such a hurry"—she is talking about *Pace*, isn’t she?! She has to be talking about Pace in Chapter 14! Or she’s setting up this contrast just to extract every drop of intimacy out of Vee. And the way she interrogates her—not like a gossip, but like a predator savoring every detail of a meal someone else ate for her. *“You didn’t buy those hoping he’d be a gentleman. You bought them hoping he’d give you no reason to keep them on.”*
 
-And THEN. The kiss in the car.
-*“Not the dry tight press Vee gave her grandmother. Soft, and in no hurry... a second press that had something in it the first one hadn't...”*
-My jaw hit the floor. Randi didn't just cross a line; she blew right through it. The sheer predatory thrill of it, mixed with whatever real, terrifying, suppressed queer hunger Randi is clearly harboring—it’s intoxicating and deeply unsettling. And poor Vee, standing on the curb in the dying light, frantically trying to convince herself it was *French*, while her body is entirely electric and terrified that someone in the dorm saw her.
+And Vee, poor, starved, beautiful Vee, thinks this is what having an older sister or an amazing best friend feels like. *“The friend she’d wanted at fifteen and stopped expecting to get.”* That line broke my damn heart. Vee thinks Randi is validating her, cheering for her appetite, freeing her from her mother’s voice. And Randi *is* doing that—while simultaneously getting high off the secondhand contact high of Pace, and grooming Vee into her own orbit!
 
-Pace makes Vee feel seen and safe. Randi makes her feel seen and entirely destabilized. I am sick with anticipation for what happens when these two currents smash into each other.
+When Randi’s voice started slipping—the esses running long, the liquid look in her eyes, Vee thinking *she's drunk* but she barely touched her mimosa—my breath caught. Randi is drunk on *her*. She is drunk on the arousal and the proximity and the possession.
+
+And then the curb. The first kiss in the convertible was a test. This second kiss—the light hand on the hinge of the jaw, the mouth soft, the drawing-back and the *second press*, and Vee meeting it? And not even checking the street this time?!
+
+The trap is springing shut, and Vee is driving home with the radio up thinking she’s finally happy. I need Chapter 22 immediately. I feel like I'm watching someone dance on a trapdoor.
 
 ***
 
-GATE 19 — How It's Done
+GATE 21 — Fed
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension between Vee and Randi is wound so tight it feels like a piano wire; that slow, lingering kiss in the convertible pushed this whole triangle into an entirely new, dangerous gear.
+WHY: The psychological tension is suffocating in the best way; watching Randi gently, ruthlessly weave herself into Vee's newfound sexual confidence makes me want to scream at the page and read fifty more chapters right now.

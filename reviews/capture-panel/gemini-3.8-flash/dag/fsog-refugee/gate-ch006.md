@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch006 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c7525ec1c0b8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch006 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e27492614e32 · 2026-09-26*
 
 REACTION
 
-God, my heart aches for her. *“This is the nicest a person has been to me in a really long time. And it's froyo.”* That line went right through my ribs. Because it’s so small, so painfully real for a twenty-one-year-old girl who has been surviving on fine, surviving on policing her appetite, constantly hearing her mother’s voice in her head telling her *that’s enough, that’s plenty.* She builds this huge, leaning cup of frozen yogurt and for once she doesn’t shrink herself. And he just pays for it, holds the door with his back, and *listens* to her like her grandfather used to.
+God, this is twisted. It’s gorgeous and hot and it makes my stomach hurt in the absolute best way.
 
-It’s completely devastating because of what we know. The dramatic irony is dialed up so high it’s almost unbearable. In chapter 1, we saw him with the apple, slicing it thin for Randi because of her mother and her sorority scale. Now Vee’s mother is hovering over her food choices too, and Pace is just effortlessly stepping into the exact shape of what she’s starving for. Is it calculated? Yes, we saw the setup, we saw Randi literally orchestrating the texts twenty minutes after he walked out of the coffee shop. *“He wants to see you naked.”* Randi pushing her, clearing the path, laughing about it. It’s an ambush disguised as a date.
+The whiplash between Chapter 6 and Chapter 7 is where the knife really goes in. In 6, you’re inside Vee’s skin, feeling this fragile, quiet bloom of hope—she’s eating too much yogurt without hearing her mother’s voice for once, and she admits out loud that this stranger is being nicer to her than anyone has been in ages, and Pace holds that gently. It felt so real and tender. And then Chapter 7 opens, the deadbolt turns, and boom: Pace is right back in his warm house with Steely Dan playing, waiting for Randi to come demand the debriefing.
 
-And yet—it doesn’t feel cold. When Pace doesn’t make her feel small for being vulnerable, when he just lets her embarrassing truth sit in the air without mocking it or making it heavy, and then says, *“Your tart’s holding up”*... that is such pure, exquisite tenderness. It’s the exact thing I crave in these books: a man whose steady presence gives a woman room to breathe. The fact that this genuine warmth is tangled up in this elaborate, secret game between him and Randi makes my stomach drop in the best, most delicious way. I want him to take care of her so badly, and I’m terrified of the moment she realizes the table was laid before she even walked into the room.
+The heat between Pace and Randi is just undeniable. The wine, the mouth-to-mouth sharing of the tannin, her straddling him and putting his hands right under her bra—she is practically vibrating with arousal over the fact that he was out with Vee. It turns her on so much it terrifies her.
 
-GATE 6 — The Long Way
+And Pace! I am fascinated by him. He’s carrying out this orchestrated setup, but he has these lines he won't cross. When Randi asks if Vee made him laugh, he thinks of Vee's quiet, vulnerable admission—*this is the nicest a person has been to me in a really long time*—and *he doesn't tell Randi*. He keeps it. "It was hers." That floored me. Even inside this game, he is fiercely protective of the dignity of the person he’s focusing on. He gives Randi the physical details (the yogurt cup), but he keeps Vee’s soul private.
+
+And Randi freezing when he says Vee was easy to listen to? Oh, she thinks she wants this—she thinks this is just a spicy, illicit little gift for Pace that lets her satisfy a secret craving without owning it—but she has no idea what she’s actually invited into the room. The jealousy, the possessiveness, the genuine appetite—it’s going to completely unravel her carefully managed sorority-girl control.
+
+I’m on the edge of my seat. The consent dynamic here is so complicated because Vee thinks she’s making every choice freely, and on the surface she is, but the deck is so thoroughly stacked. Yet neither Pace nor Randi feels malicious; they’re just operating like a tide coming in. I need the three of them in a room together so badly.
+
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The quiet tenderness between them on this walk broke my heart, especially knowing the trap she's walking into. The contrast between her genuine starvation for real attention and the calculated game behind it is completely gripping.
+WHY: The tension is incredible; the contrast between Vee’s sweet, earnest afternoon and Randi aggressively pulling the details out of Pace with red wine on her lips made my pulse race. Pace keeping Vee's private confession to himself showed exactly the kind of quiet integrity and care that keeps me completely hooked on him as a dominant lead.

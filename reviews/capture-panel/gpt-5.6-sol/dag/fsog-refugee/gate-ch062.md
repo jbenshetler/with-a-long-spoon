@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
-REACTION — Oh, this was scorching, and I am furious.
+REACTION
 
-Pace and Randi know each other so well. The ease of her tasting herself from his mouth, turning him beneath her, accepting his lead and then deliberately taking command back—it is everything I want from dominance when consent is real. He pauses even after she says all right because he is reading her body, and she can tease him about showing off because she trusts what his control means. Then she places his hands beside him and moves under her own command, and he lets her. That is the exact physical language that keeps undoing me with Pace: control that makes room instead of taking room away.
+Oh, this hurt me. Not loudly. It got under my ribs one ordinary question at a time, exactly the way it got Vee.
 
-And Randi saying, “She’s not the only one in love” landed like a hand around my heart. She loves him too. He cannot deny it. There is a whole bond here that is tender, practiced, funny, and real—not merely two conspirators sharing Vee. The palm kiss especially got me. That was more intimate than half the sex.
+The water waiting where she would reach first, the paper towel under the glass, the pills already given, his shirt pulled over her, bread made while she slept—this is the Pace I am helpless for. He never turns care into a performance or a debt. He simply notices what her body will need next and puts it there. Even the forehead kiss after he thought she was asleep nearly undid me. That is love, whether he can force the word through his teeth or not.
 
-But God, they are making Vee the third person in this bed without her knowledge. They are using her kisses, her body, her awakening desire as erotic material between them. “She looks at you, too.” “She kissed my neck again.” Pace asking where Randi wants to touch her, Randi describing Vee’s breast while he moves her—it is enormously hot, and it also made me feel almost sick, because Vee thinks these two have only just met. She tells Randi everything because she believes that room is safe. Pace and Randi then carry those confidences into bed and turn them into a shared fantasy.
+And then: “Sheri’s my friend. My one friend.” God. I knew he was solitary. I did not understand that he was this alone.
 
-The most damning part is that neither of them doubts Vee’s desire. They are probably right about it. That still does not make this consent. Her wanting both of them is not permission for them to secretly build a sexual relationship around her. Randi wants Vee to know exactly what she does to her—but apparently not enough to tell her. Pace knows Vee loves him, loves her back, and still lets Randi be the one to say all the dangerous truths in a room where Vee cannot hear them.
+His explanation about friendship forming in the middle of the pack felt horribly convincing because it is so specific to him. He was too young for the men around him, too far ahead by the time boys his age arrived, and whatever happened at home had already taught him that ordinary questions were traps with holes underneath them. “What are you doing for Christmas?” should be nothing. For him it is an invitation to either expose the wound or quietly step away from intimacy. Of course the doorway never became a room.
 
-I wanted this scene. I wanted proof of what Pace and Randi are together, and now I have it: heat, humor, trust, tenderness, love. That makes the concealment worse, not better. They are not protecting something casual. They are hiding an entire living relationship from the woman they both claim to love.
+And Daphne becomes even more complicated and frightening here. She was not merely his first girlfriend. She was tutor, guide, best friend, family, social map, and apparently the only person in his entire life who held all the roles Vee distributes among four women. I understand more completely why losing her destroyed him—and I am even less comfortable with how that bond began. Vee pressing back the “ugly grown-up word” is exactly where I am too. He can remember those years as salvation, and the imbalance can still have been profoundly wrong. Both truths hurt.
 
-And yes, I am already reaching for the next chapter. I need the bill for this pleasure to come due.
+Vee’s response was perfect. She did not make him comfort her for his own pain. She did not tell him it was tragic after he had explicitly said it wasn’t. She crossed the counter and held him with her whole weight, borrowing Sheri’s language of care because she had finally understood what that hug meant. That is a real turn in their bond. She is learning to serve him without trying to make him smaller enough to be served.
 
-GATE 64 — My Pleasure
+I also felt a chill at her certainty that Sheri is the only friend the world “let him keep” because she could never want him. Vee still does not know Randi is also in his life, knows him deeply, and absolutely wants him. She is building this tender picture of his loneliness with one enormous person cut out of it. When that hidden fact arrives, it will contaminate even this morning.
+
+But right now I just want to sit in the kitchen with them while the bread cools. He has been alone at the table for so long, and she came around it.
+
+GATE 66 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 8
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: “You like hearing me want her,” she said.
-WHY: The physical dynamic was almost painfully perfect for me—mutual, playful, dominant, and fully responsive—but using Vee’s unwitting desire inside their sex made the betrayal impossible to ignore. The revelation that Randi loves Pace too deepened everything, and now I urgently need Vee to learn the truth.
+ALMOST-STOPPED: none
+WHY: This chapter reached straight into my weakness: quiet service, painful honesty, and Vee answering him with care instead of pity. I need the concealed Randi relationship exposed, but this tenderness between Vee and Pace is exactly why I cannot leave them.

@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in knots. This chapter felt so exposed, so humiliatingly real, and so profoundly lonely.
+I feel like I just watched someone casually flick a lit cigarette into an open pool of gasoline, and then turn around and say, *“Good job on the smoke effects!”*
 
-First of all, I felt that wax strip in my *teeth*. Anyone who has ever had a first-time Brazilian knows the absolute lie of "barely stings," but seeing it happen to Vee—who goes into it armed only with Randi’s silky, high-end, minimizing lies and Pace’s quiet, devastating asks—just broke my heart. Randi leaving out the part where you have to flip over onto your stomach? Of *course* she left that out. Randi is so practiced at curating Vee’s degradation into "luxury" and "power." *The most expensive thing in the room.* God, that phrase is poison. It sounds like an elevation, but it literally means *an object with a price tag.*
+My jaw is genuinely on the floor. I am sweating. The absolute, suffocating, master-class tension of this chapter took the air right out of my chest.
 
-And Pace. Look, he asked. He looked her in the eye and said "Will you?" and that consent mechanism is the reason I haven't thrown the book across the room. But the dynamic happening underneath it is getting so dangerous. He asks for something extreme ("Bare. By the weekend.") without giving her a reason, because he knows her appetite and her hunger to please him will override every single instinct of self-preservation she has. He doesn't have to force her; she forces *herself* to cross the line before she even knows where the line is drawn.
+Look at what Randi just pulled. Look at it! Chapter 64 was Pace and Randi in bed, sweating into the sheets, with Randi admitting—out loud, while Pace had his mouth on her nipple—that she wants Vee, that she’s thinking about Vee’s heavy breasts, that she wanted to turn around on the freezing sidewalk and put her mouth on Vee’s neck. And now, she dresses Vee up in a skirt that is basically a strip of scotch tape, takes her to her own sorority mixer, parades her around, dances her until her panties are showing to a room full of college guys, and then uses a generic boy named Harrison as an *excuse* to pull Vee down by the hair, cup her ass, and tongue-fuck her in the middle of the dance floor.
 
-The part that actually made my breath catch, the part that was so brilliant and horrifying, was when Sondra pinned her leg down:
-*“The wrong hand. It held her the exact way she wanted to be held and it did not want her at all, and what it did, pinning her under the flat of its palm, was open a hole in her a mile across where the right hand should have been.”*
-That is so psychologically devastating. Her body has been conditioned to associate physical control and restraint with Pace’s all-consuming attention and tenderness. When an indifferent aesthetician in rubber gloves puts a firm hand on her thigh just to do a job, Vee's brain short-circuits. She feels the ghost of his dominance, realizes there is zero love or warmth behind this specific touch, and the emptiness of it nearly swallows her whole.
+And then—the absolute sociopathy of it—she pulls back, blinks out of her own daze, slaps Vee on the arm, and goes: *“You really did a great job putting on a show. I almost believed it.”*
 
-And then she rolls over. That false floor. She realizes she could say no, but she feels so compromised, so far down the road of "giving over," that she thinks she doesn't have the standing to have a boundary anymore. That is the trap. When you give away the big pieces, you convince yourself that fighting for the small ones makes you a hypocrite.
+*I almost believed it.* ARE YOU KIDDING ME, MIRANDA?! You cowardly, brilliant, manipulative little architect! She just gave herself the exact feast she has been starving for since October, tasted Vee with salt and lime on her tongue, felt Vee moan and grind back against her—and then shoved Vee straight back into the closet of "we're just two silly straight girls playing a prank on a frat boy." She weaponized the performative male gaze to steal a kiss she was terrified to ask for honestly, and left poor Vee standing there soaked, trembling, utterly bewildered, and holding the bag of her own shame and confusion.
 
-Yet at the very end, when she touches herself and feels that terrifying, alien smoothness, her mind immediately flies to him. She endures the white-hot pain and the clinical exposure just to buy that one second of him realizing what she suffered for his pleasure. It is submissive devotion at its most raw, but she is doing it in a vacuum, entirely unaware that the man she's suffering for spent Thursday afternoon getting ridden by her best friend while they talked about Vee's breasts.
+And Vee. God, my sweet, hungry, easily led Vee. She has been waking up in stages, but this wasn't the slow, safe, patient waking up Pace does with paint and walnuts and three layers of consent. This was a lightning strike. The contrast between Chapter 69 (where Pace reverently asked to paint her, held every brushstroke still when she flinched, and treated her lush body like a museum piece) and this chapter is staggering. With Pace, Vee felt safe enough to giggle at an orange breast-print on his cheek. Here, with Randi, it’s an absolute freefall. Her body responded instantly—wet, aching, hips rocking into Randi's—because she *loves* Randi, she is completely infatuated with Randi, and her body doesn't know how to lie.
 
-The collision is coming. She is offering up her absolute vulnerability on an altar, and the two people at the altar are keeping a secret that will level her when it breaks. I need to see his face when he sees what she did. I need to see if he flinches with guilt, or if he just takes it.
+I was terrified this scene would cross into pure non-consensual violation, but Rivers writes the psychology with such excruciating precision: Vee *wanted* it. She had been wanting it for months without a name. The consent wasn't violated by the kiss itself—Vee met her tongue, Vee held her hair, Vee was begging for hands under the skirt—it was violated by the *gaslighting afterward*. Calling it a "show." Pretending it didn't mean the world. Leaving Vee to pretend she was in on the joke when her entire soul just got turned inside out.
 
-***
+Pace gets her tomorrow. Sunday. Pace, who knows Randi is obsessing over Vee. Pace, who just spent Friday night erasing Vee's shame with his mouth. If Vee walks into his house with Randi's salt still on her conscience, I am going to combust. I need the next chapter right this second.
 
-GATE 68 — Barely Stings
+GATE 70 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 1
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological accuracy of the consent dynamic—how she gives away her boundaries before she even understands the cost, and how her body misinterprets clinical restraint because of how Pace has conditioned her—was completely gripping. I felt every rip of the wax, and the impending weekend where Pace discovers what she did for him makes it impossible to put down.
+WHY: The absolute emotional and erotic devastation of that kiss, followed by Randi's cowardly, brilliant retreat behind the 'it was just a prank for a boy' mask, is top-tier psychological drama. I couldn't look away if I tried.

@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 96625992569d · 2026-10-10*
+*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad8401af7036 · 2026-10-10*
 
 **REACTION**
 
-Oh, Randi. Oh, *honey*.
+That thumb on her toenail. I'm still sitting here with it.
 
-I started this chapter braced. Pace's kitchen, Randi coming up the gravel the morning after Vee's brunch, and I'd been dreading this exact scene for chapters: she says *tell me* and he hands over the green panties and the riser and the sheet. Then she said "She told me about Friday," and he "did not ask what Vee had said. That was Vee's." I put the book face down on my chest. That's the line I needed. He didn't spend her this time. He's never going to know about the frosted plum or the bought-new underwear. The only thing that came up in his face was gladness, and Randi had to sit and watch him be glad. I believe that's the cruelest thing that's happened to her in the book, and he has no idea he did it.
+Randi on one knee on that pale floor, waving off the saleswoman with "I've got her," holding Vee's bare foot in both hands and turning it to the light like a fabric swatch. Then "Mm," and one pass of her thumb across the plum polish. Vee's room tips and she has to grab Randi's shoulder to steady herself. Two chapters ago that was Pace kneeling on the riser, chin craned up, never once looking down. Now Randi's doing the same thing, and she *is* looking down, at the toes Vee painted for him. Randi knows exactly what that polish was for, because she got it out of Vee over mimosas. So it isn't only a touch. She's putting her hand on the thing Pace has. It turned me on and it scared me, and I can't pull those two apart. Vee doesn't have a shelf for it, and the book won't give her one. I want that kiss in the fire lane to *go* somewhere, and I'm afraid of where Randi is taking it.
 
-Then "*How long are you going to take?*" There it is, out loud on the page: "from where she is to us." The game from the jacket isn't a vibe anymore. It's a schedule, with two people arguing over whose it is. This is the part I have to hold honestly. Pace's answer, "She chooses it, Randi. Every step of it. Or it isn't anything," is the answer I came to this genre hoping a man would give. I believe he means it. I also notice he said it inside a plan Vee has never heard of, about a destination nobody's asked her about. "She chooses every step" only means something if she can see the staircase. So he gets my respect and an asterisk, again. The book seems to know it, too: "He heard how it had come out. He did not take it back, because it was true, and because he did not know how."
+What made my stomach drop wasn't the foot, though. It was the credit card. "There was nothing under it." This girl prices the mimosa and does the arithmetic to see if Thursday survives. She pays for her own soup. Then Randi says "your *lover*" and "a dress a man sat up nights making," and the last careful thing in Vee gives way. She's using *Pace's* work as the lever. Meanwhile Randi drops a multiple of that number on loafers she has nowhere to wear and never glances at the total. She doesn't offer to cover Vee or split it, or even notice her face. Maybe she can't, without giving something away. I still wanted to grab Vee's wrist at that counter. And the book doesn't wink. It shows me she knows she doesn't have next month and signs anyway. "Every yes was freely given. That was the problem." Right, I see it now. This is what the jacket meant.
 
-But Randi is the one who wrecked me. The line drawn across the top of the sauce and then the spoon put down. Pace's "It's wonderful" read as the alarm it was. Pouring her own glass, when he's poured every glass she's ever drunk in that house. The bare nails, after a whole chapter of Vee's frosted plum. Eating every leaf of salad and never touching the bowl. "Selfish," because he has Vee Friday to Sunday and she gets brunch and a borrowed kiss at the curb. And the "old boyfriend in a hurry" story she told Vee? Friday night she was alone. She made up a sad date to cover a real one, and the real one was being home by herself while the girl she wants was in his bed. The liquid eyes, the drawn-out vowels on one mimosa: that wasn't drink. That was her coming apart while saying "you're lucky."
+Then there's the dorm. Randi goes still at "He was up all night finishing it." Vee reads it as jealousy, of *him*, of a man who sits up nights for someone, and she wants that for Randi so badly it hurts. I wanted to put my face in my hands. Randi's the one he sat up nights *beside*, and I just watched her in Chapter 23 drinking a full glass she poured herself and calling him selfish. "He didn't make this *for* you. He made it *to* you." It's the truest thing anyone's said about that dress, and it's coming from his girlfriend, who knows exactly how it was made. Randi isn't a villain to me here. She's grieving something in plain sight. She's also running Vee's whole Saturday.
 
-The sex was meant to land cold, and it did. No inch-and-stop, no *tell me*, eyes shut, back to him in the cashmere. It wasn't hot, it was grief, and the book didn't pretend otherwise. I'm grateful it didn't ask me to find that sexy.
+Simpson's paradox. Each year the first man hits better, put the years together and the second man does, and nobody touched a number. Okay, book, I heard you. Vee's two friendships each look fine on their own, and the total says something else. A little on the nose, but I liked being trusted to catch it.
 
-And Pace walking back through the evening "from the gravel forward" looking for what he did wrong. He's looking in the wrong place. He thinks it's sex, "the want, with an edge on it." It's that she's losing, and maybe it's that she wanted Vee for herself the whole time. Then he puts a plate over her bowl and sets it in the fridge for her. I could have cried. He's so careful, and so blind about her.
+Cassie. God, Cassie. She doesn't look at the board once, just watches her friend, then asks "Was it a good night?" and goes back to her highlighter. She's the only one in the whole chapter who wants nothing from Vee. Then Cassie has a lab, Randi walks Vee home, and Randi is the first living soul to see her in the dress. Cassie, whose blood type I'd have trusted with my life, hasn't seen it. I clocked that. That's the drift I've been watching for.
 
-What I'd text at 1 a.m.: *he didn't ask. HE DIDN'T ASK. but they literally have a timeline for her and randi is starving herself in his kitchen and I'm scared for all three of them.*
+I also laughed out loud. The yeti shoe, the pink rhinestone platforms, "one brisk walk from becoming a sandal." It's real fun between two women, and that's exactly why the rest of it hurts. "It's not going to *spoil*" made me laugh and then made me sad.
 
-My biggest dread got answered in the best way, and a new one replaced it. Randi isn't going to wait for "as long as she needs." Something's going to break, and it's going to be Vee standing where it breaks.
+No Pace on the page, and I didn't miss him, which tells me something. I'm still fed from the sun porch.
 
 ---
 
-GATE 23 — Portion
+GATE 25 — Sorority
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-HEAT: 1
+NEXT: 8
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "How do I get her from where she is to us, on your schedule?" For a second the whole book tilted toward two people managing a girl. Then "She chooses it… Or it isn't anything" pulled it back, just barely.
-WHY: He kept Vee's night as Vee's. That was the thing I'd have walked over, and he chose right without being asked. Now the plan is out loud, Randi is cracking, and I can't put this down until I know who breaks first and whether it's Vee who pays for it.
+ALMOST-STOPPED: "felt the last careful thing in her give way, and put it back, and took out the other one" — I didn't want to watch Randi spend Vee's money for her. But the book made me look instead of asking me to cheer, so I stayed.
+WHY: The foot scene charged me in a way I didn't expect, and the "practically a marriage" bond between Vee and Randi is turning into the real romance of this stretch. The credit card and Cassie getting quietly left out made me afraid for Vee. Now I need the induction, and I need to know what Randi does with what she touched today.

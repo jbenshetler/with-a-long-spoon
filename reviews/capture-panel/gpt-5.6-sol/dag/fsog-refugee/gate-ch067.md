@@ -1,36 +1,30 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
 
 REACTION
 
-Oh, this is what I stayed in the genre hoping somebody would finally give me.
+Oh, this hurt. Vee drove twenty minutes in the cold to use her boyfriend as a wall against her own desire, and then discovered Randi was still in the room with them. Still in her mouth, still in her body, still waiting on Tuesday. There is no putting this back now. She can call it drinks and a joke and a dumb body as many times as she likes; her desire has become more truthful than she is.
 
-He asked. He waited for her yes. Then, when she arrived, he didn’t treat the waxing like she had delivered him a more convenient body. He looked at her face first. That mattered enormously to me. He was glad to see *her* before he noticed what she had done for him, and even once he saw it, he kissed his way through the whole of her instead of rushing to inspect his present. “Now I can see more of you” nearly undid me. Not improved. Not cleaner. More of *you*.
+And Pace—God, Pace. The whole confession game was exactly the kind of dominance I want to melt for: he knew when she was tidying the truth, held her still, waited, and made honesty the way back to pleasure. “You finish when you’ve finished” absolutely got me. He didn’t punish the wanting or shame her for it. He made her say that Randi’s tongue was a please, that she wanted the kiss, that she wanted Randi’s mouth lower. He let her hear herself. In another book, with an actually unsuspecting boyfriend, I would have been gone over that scene.
 
-And Vee! Taking him apart first, keeping his hands at his sides, making him wait while she unveiled herself—yes. This is why their dominance works for me. His control has never required her to be smaller. She can kneel because she wants the power of undoing him; she can order his wrists down; she can turn her breast into his face just to make him laugh. She is not enduring his attention. She is playing inside it.
+But he already knows. That changes everything.
 
-The painting was almost unbearably intimate. Ridiculous, tender, filthy, funny—all at once, exactly the combination I want and almost never get. The walnut, parsley, grape, cashew, melon, cherry ritual should have made me laugh my way out of the heat, but instead it made the heat worse because Pace was giving every part of her time. And the orange smear left on his face! He knew it was there and wore it through the entire scene because she had put it there. I loved that stupid mark so much.
+He is not lovingly helping Vee discover a truth neither of them understands yet. He is secretly collecting confirmation of the desire he and Randi have been cultivating together. He asked “How did this happen?” as though he did not know Randi brought Vee as her date, dressed her, and wanted her. He made Vee pay out the story inch by inch while holding an entire hidden relationship behind his teeth. Vee thinks she has never concealed anything from him; he is lying to her by omission in the very moment he turns honesty into an erotic requirement for her. That imbalance made the hottest scene in the chapter feel both irresistible and sickening.
 
-The waiting with the brushes absolutely got me. “Still meant the brush. Moving meant the brush going away” is control, but it is control she understands, chooses, tests, and finally relaxes into. When she quits forcing herself to perform stillness and lets the bed hold her—lets Pace be responsible for the next touch—that is precisely the surrender I read for. Not her will being erased. Her being able to lay it down safely for a while.
+And then she tells her first real lie to him—“Nothing”—while he gives her another chance to tell him about Randi. I felt the cold of it land in her. I hate that she thinks she “got away with it,” but I understand exactly why she lied: she has no language yet that does not threaten the safe, straight structure she has only just been given. “Boyfriend” is not merely a relationship word for her. It is the rail she grabs to stop herself falling into knowledge about who she is and what she wants.
 
-And using her own wetness as the primer—good God. That could so easily have become humiliation, especially with her shame about being “too much.” Instead her abundance was literally the material of the picture. He made the parts she has spent her life apologizing for into the entire point: the breasts, the hips, the wetness, all lush and excessive and magnificent. Then she saw the photograph and felt pride before shame could even get through the door. I wanted to cheer for her.
+What makes me furious is that Pace knows the floor is there. He could tell her. Instead he gets to be infinitely accepting—“I don’t mind”—without risking his own truth. Vee experiences that as the sweetest defense of her he has ever made, while I know it is also a grotesquely easy generosity. Of course he does not mind. He and Randi chose her. He has already had sex with Randi while they talked about Randi’s mouth on Vee. His tenderness is real, and the concealment inside it is real too, and I am reaching the point where the second thing is poisoning the first.
 
-The picture staying hers may have been the most romantic thing in an extremely romantic chapter. He took it because she asked, chose the best frame, handed the phone back, and never presumed the image belonged to him. That is the difference. Possessive intensity without entitlement. He can paint every inch of her, command her body, photograph her completely open—and still understand that the photograph is hers.
+I also flinched at Vee being raw because she did not stop when she should have. Pace recognized the anger and asked what happened, which matters, but once the game began he used her need to draw out the confession. She wanted the control—very clearly—and the charge between them was enormous. Still, because he possessed information she did not, he was directing her toward a revelation whose destination he already knew. That is not the clean consent I thought I was watching from Vee’s side.
 
-The mouth afterward was almost too hot to process, particularly because he had wanted her through the whole slow game and finally stopped pretending patience. But even there the emotional center was Vee searching his kiss for herself. She didn’t quite find a clean, identifiable taste, and she didn’t recoil. She went looking. That unfinished reach from the dorm is not finished exactly, but she crossed most of the distance without forcing herself across the final inch. I’m proud of her for that too.
+And Tuesday. Yes. That is the hook in me. Vee can flee to Pace, climax, confess almost everything, deny everything, be held all night—and her mind still goes straight back to Randi. I desperately want her to sit beside Randi and discover whether Randi will keep pretending. If Randi gives her another bright little friendship smile and acts as though that kiss meant nothing, I may throw the book. If she risks one honest sentence, I will forgive more than I currently want to.
 
-And then, because apparently I wasn’t already wrecked enough, her first private impulse while looking at the photograph was Randi.
+What I would text at one in the morning: “She went to her boyfriend to fuck the wanting-for-Randi out of herself, and he made her confess every detail while secretly already sleeping with Randi. I am incandescent and unfortunately still extremely turned on.”
 
-That is not “best friends share everything.” Vee wants to be seen by Randi in this specific state. She wants Randi’s breath, Randi’s low voice, Randi’s eyes on her abundance. She cannot imagine the words because some part of her finally knows what those words would mean. “This one was too much” means it matters too much. She says she will not tell Randi, and I do not believe that decision is going to survive inside her.
-
-But the ending also put the concealed arrangement back under my ribs. Pace has just given Vee an experience built on exquisite bodily consent and complete ownership of her own image, while he and Randi are still denying her ownership of the larger truth. Tomorrow belongs to Randi, and Vee has no idea how literally that is true. I can adore him here and still be furious with both of them.
-
-This chapter gave me the whole thing I came for: control that makes room for her, filth with feeling in it, laughter inside surrender, and a heroine whose desire belongs entirely to herself. I’m already turning the page.
-
-GATE 69 — Still Life
+GATE 71 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was my exact fantasy of dominance made safe enough to surrender into: Pace controls every sensation while making Vee’s abundance—not her obedience—the center of worship. And now she is privately imagining Randi seeing the photograph, so there is no chance I’m stopping before tomorrow.
+ROMANCE: 2
+ALMOST-STOPPED: “Tell me—the real story, and I'll give you what you want.”
+WHY: The scene hit my exact weakness—tender dominance used to make her speak her own desire—but Pace’s hidden knowledge makes that same control ethically filthy in a way the book absolutely must confront. I need Tuesday immediately, and I need either Randi or Pace to stop taking Vee’s honesty while offering her only beautifully managed lies.

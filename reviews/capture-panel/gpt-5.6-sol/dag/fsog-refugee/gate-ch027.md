@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 08b46669b5c5 · 2026-10-01*
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION — Oh, Randi. You almost had me.
+REACTION
 
-Vee showing up wrecked and ashamed, and Randi getting out of bed bare-faced to hold her hand and listen—I felt why Vee went to her. I did. Randi knows how to take the unbearable thing and make it survivable. But then she turned Vee’s cruelty into proof of love before letting her fully own what she had done, and worse, she stopped her from apologizing today. Pace was hurt last night. Vee knows she was wrong. Why on earth should making him wait be part of presenting herself as “sure”? An apology is not an entrance. It does not need styling.
+Oh, Pace. “He heard himself going and didn’t stop.” That got me. Not because he tells Sheri Vee is beautiful, but because the things pouring out of him are that she noticed the joint in his chair and touched the grain, that she picked up one of his math books and wasn’t frightened away by it. He is in love with being seen by her. Sheri hears it immediately even if he doesn’t, and so do I. That is exactly the particularity I need: not generic obsession, not a gorgeous redhead installed in his fantasies, but Vee noticing the place where the arm meets the leg.
 
-And that sentence—“because Randi had said so”—scared me. This is exactly the control I distrust: not force, not an obvious command Vee would resist, but Randi making herself the person who names Vee’s feelings, sets her timing, chooses her clothes, and tells her what Pace will think. Vee walked in with a plan that was hers and walked out with marching orders. The chapter knows that, I think. I desperately need the book to know how serious it is.
+And then: “She knows. She likes her.” / “And the redhead?” / “Not yet.”
 
-Which is inconvenient, because the shoe fitting was hot as hell. Randi under the skirt, tending to her where she couldn’t see, holding her high on the thigh, the thumb behind the knee—yes. Absolutely yes. Vee’s body responding to being steadied and arranged, to structure that holds without binding, is precisely the thing I want this book to understand. And Vee standing there in her bra laughing with Randi felt genuinely easy and intimate before the looking changed it. I want these two women together. I want Randi to ask.
+My stomach dropped. He can say the entire problem in three words and still apparently hear it only as timing. Randi possesses the full map; Vee does not even know there is a map. Sheri runs the obvious arithmetic—two women at once—while Vee is preparing an apology at his door believing these are separate relationships. Pace is not confused about the facts. He is choosing to let Vee remain confused about them.
 
-That goodbye kiss has now become “only what they did,” and that phrase made my stomach drop. Vee kissed back. She wants it; I believe that completely. But Randi created the custom by repeatedly kissing her without ever having the conversation, and now familiarity is standing in for consent. Wanting the kiss does not make that okay. Randi is engineering inevitability again, just more beautifully every time.
+What makes it hurt worse is how ordinary and benign this conversation feels to him. Cold fingers, familiar teasing, two friends riding shoulder to shoulder—and casually, there is Vee’s ignorance laid out between them as the one unfinished part of an arrangement. Sheri doesn’t know enough to challenge it, and Pace doesn’t seem ashamed. “Not yet” means he believes disclosure is coming, but also that he believes he gets to decide when. For a man whose entire moral center is supposedly her choosing every step, that is becoming impossible to excuse.
 
-Also: Vee could have woken Cassie. She didn’t. She could have followed her own instinct and gone to Pace today. She won’t. Randi is becoming the authority between Vee and her own choices, and I am now frightened of her in a way I wasn’t before.
+I still melted when he said Vee couldn’t take Sheri’s heat, because he knows her tenderness and doesn’t offer her up for inspection or approval. And I liked Sheri’s fierce, uncomplicated loyalty: she watched Vee after he left, reports that Vee didn’t dance with anyone and left alone, then asks whether he wants her to dislike Vee. There is real care inside her bluntness. But the backside remark did nothing for me, and “the redhead” kept Vee at a distance that made the whole conversation feel slightly colder than Pace’s involuntary little love speech deserved.
 
-I’m still going straight on, obviously. I need Vee at Pace’s door. I need to see whether she gives him a real apology or performs the reconciliation Randi dressed her for—and whether Pace notices the difference.
+I want to shake him. He can see the exact joint in a chair and the exact beauty in a mathematical structure, yet he cannot—or will not—see the structure enclosing Vee. Now take me to the door. I need to know whether, when she arrives dressed inside Randi’s plan, Pace will actually look at *her* closely enough to hear what is hers.
 
-GATE 29 — broken-in
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 7
+NEXT: 9
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: “And the thing Vee had been holding clenched since last night let go of her, all at once — because Randi had said so.”
-WHY: That line made Randi’s influence feel genuinely dangerous, and delaying Vee’s apology for presentation’s sake made me angry. But the attraction between the women is undeniable, and I urgently need to know whether Vee reaches Pace as herself or as the woman Randi has staged.
+ALMOST-STOPPED: none
+WHY: Pace’s helpless spilling-over about the chair and the math book made me ache for him, but “Not yet” made the concealed arrangement feel stark and deliberate. I need Vee at his door now, because his response will tell me whether all that exquisite attention can recognize a choice shaped by somebody else.
