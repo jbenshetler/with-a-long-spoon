@@ -1,0 +1,179 @@
+{
+ "L119": {
+  "correct": 3,
+  "wrong": 0,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 1,
+  "errors": [],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L163": {
+  "correct": 16,
+  "wrong": 1,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 4,
+  "errors": [
+   "ch017 \"Right where the cop chased Pace off the night before, Randi parks her Mercedes like rules don't apply to her, holds Vee's jaw, and kisses her on the mouth\u2014and then comes back for that *second press*!\" \u2014 cop's lights ended the hike night, Sun Sep 27; the fire-lane kiss is Sun Oct 4, a week later, not 'the night before'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L176": {
+  "correct": 9,
+  "wrong": 1,
+  "vague": 1,
+  "unsure": 0,
+  "not_temporal": 3,
+  "errors": [
+   "ch017 \"The banter about whether a guy who sews and powerlifts is gay, Vee throwing the pillow, the sheer breathless delight of Vee admitting she was the one leaning into him\u2014it felt like real girl-talk in a dorm room on a Sunda\" \u2014 the Cassie dorm-room talk is Sat Oct 3 (how-its-done part one); Sunday Oct 4 is the Randi lunch"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L280": {
+  "correct": 16,
+  "wrong": 1,
+  "vague": 1,
+  "unsure": 0,
+  "not_temporal": 1,
+  "errors": [
+   "ch021 \"Vee knows it without being told \u2014 first time she's read *him* \u2014 and I know what Randi was doing that same night, which is lying with her back to him.\" \u2014 Randi lying with her back to him was Sun Oct 11 (portion); the night Pace sat up finishing the dress was Wed Oct 14"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L296": {
+  "correct": 5,
+  "wrong": 1,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 5,
+  "errors": [
+   "ch022 \"The polish Vee chose weeks ago to catch the light the way the silk does \u2014 the polish she painted *for Pace* \u2014 and Randi's thumb moves once across the nail of the big toe, light, and it goes all the way up the length of V\" \u2014 the toes were painted Fri Oct 9 ('You did those Friday'); ch22 is Fri Oct 16/Sat Oct 17, about a week, not 'weeks'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L415": {
+  "correct": 39,
+  "wrong": 0,
+  "vague": 2,
+  "unsure": 0,
+  "not_temporal": 1,
+  "errors": [],
+  "unsure_quotes": [],
+  "meta": [
+   "ch007 \"These two page-and-a-half chapters back to back (6 and 7) are wild to me \u2014 I've never read a book paced like this, cutting from the froyo walk straight to the couch debrief the same night like two sides of a coin.\"",
+   "ch024 \"Look at the dates, too: Monday night (Oct 19) was Randi in his bed, eating every bite of her chicken and couscous, feeling close to him again.\""
+  ]
+ },
+ "L638": {
+  "correct": 9,
+  "wrong": 2,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 4,
+  "errors": [
+   "ch014 \"He invited her the day after Randi came over, took what she wanted, said *I want us*, and then left for the first time ever and drove off down the gravel \u2014 and the next thing that happens is a door and a time and no reas\" \u2014 the text arrives Thu Oct 1 (ch14); Randi came over Sun Sep 27, four days earlier, not 'the day after'",
+   "ch018 \"But here's what's sitting cold in my stomach while all this is going on: Randi kissed her on the mouth in the fire lane, twice, the day before, and this chapter does not contain the word Randi.\" \u2014 the fire-lane kiss was Sun Oct 4; ch18 is Fri Oct 9, five days later, not 'the day before'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L702": {
+  "correct": 10,
+  "wrong": 2,
+  "vague": 2,
+  "unsure": 0,
+  "not_temporal": 5,
+  "errors": [
+   "ch005 \"the girl thinks she got picked by a cute math boy and actually she got ordered off a menu on a lawn two days ago.\" \u2014 Randi chose Vee on the lawn Tue Sep 8; the coffee shop is Thu Sep 17, nine days, not two",
+   "ch007 \"She begged on that bench and bolted behind the mirror, and here she is a week later straddling him and demanding to be told about the girl she's supposed to be procuring *for them*, and the demand is the hunger she won't\" \u2014 bench was Fri Sep 4; tannin is Thu Sep 17, about two weeks, not one"
+  ],
+  "unsure_quotes": [],
+  "meta": [
+   "ch013 \"Three short-ish chapters in a row now, all same-day, Sept 27 \u2014 but this isn't a stall, it's a triptych.\"",
+   "ch017 \"Four straight chapters now circling one Saturday, and I should be restless \u2014 but 15 and 16 were the fitting, which was molten, and 17 is the debrief that turns the fitting into a weapon, and together they're the engine o\""
+  ]
+ },
+ "L764": {
+  "correct": 9,
+  "wrong": 1,
+  "vague": 1,
+  "unsure": 0,
+  "not_temporal": 4,
+  "errors": [
+   "ch022 \"Randi kneeling on that pale floor, taking Vee's foot in both hands, turning it to the light to look at the plum polish \u2014 the polish SHE clocked at brunch weeks ago, that Pace's girls wear \u2014 and one thumb across the big t\" \u2014 the brunch was Sun Oct 11; the shoe shop is Sat Oct 17, six days, not 'weeks'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L770": {
+  "correct": 2,
+  "wrong": 0,
+  "vague": 2,
+  "unsure": 0,
+  "not_temporal": 2,
+  "errors": [],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L843": {
+  "correct": 8,
+  "wrong": 1,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 6,
+  "errors": [
+   "ch019 \"Randi said \"You're not caught, sweetheart, you're lucky\" to a girl who was caught weeks before she ever met him.\" \u2014 Vee was picked Tue Sep 8 and met Pace Thu Sep 17, nine days, not 'weeks'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L860": {
+  "correct": 6,
+  "wrong": 1,
+  "vague": 1,
+  "unsure": 0,
+  "not_temporal": 4,
+  "errors": [
+   "ch015 \"And the man heard \"russet, brick-red, can't afford it\" over cherries weeks ago, said *that sounds like a beautiful dress* with no weight on it \u2014 I remember noting at the time that he \"didn't pick it up again,\" I REMEMBER\" \u2014 the cherries and dress talk were on the hike, Sun Sep 27; ch15 is Sat Oct 3, six days, not 'weeks'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L886": {
+  "correct": 4,
+  "wrong": 2,
+  "vague": 0,
+  "unsure": 0,
+  "not_temporal": 2,
+  "errors": [
+   "ch005 \"And Randi sitting there, holding her empty coffee cup, pretending to be a bored sorority sister playing wingwoman while the man who had her sobbing and begging facedown on a custom-built sex bench three days ago casually\" \u2014 bench was Fri Sep 4; the coffee shop is Thu Sep 17, thirteen days, not three",
+   "ch015 \"Randi was in that house *yesterday*.\" \u2014 Randi's last visit was Sun Sep 27 (swim-lanes); ch15 is Sat Oct 3, six days, not 'yesterday'"
+  ],
+  "unsure_quotes": [],
+  "meta": []
+ },
+ "L987": {
+  "correct": 8,
+  "wrong": 0,
+  "vague": 8,
+  "unsure": 3,
+  "not_temporal": 6,
+  "errors": [],
+  "unsure_quotes": [
+   "ch022 \"The timeline also confused me.\"",
+   "ch022 \"Last chapter was a \"midweek afternoon,\" and now it's \"a Friday\"?\"",
+   "ch022 \"And \"same quiet as yesterday in the lecture hall\" when that was the same morning?\""
+  ],
+  "meta": [
+   "ch022 \"The timeline also confused me.\"",
+   "ch022 \"Last chapter was a \"midweek afternoon,\" and now it's \"a Friday\"?\"",
+   "ch022 \"And \"same quiet as yesterday in the lecture hall\" when that was the same morning?\""
+  ]
+ }
+}

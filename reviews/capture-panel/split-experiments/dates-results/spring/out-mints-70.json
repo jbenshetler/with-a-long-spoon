@@ -1,0 +1,140 @@
+{
+ "result": {
+  "L173": {
+   "correct": 18,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 2,
+   "precise_dates": 11,
+   "errors": []
+  },
+  "L247": {
+   "correct": 17,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 9,
+   "errors": []
+  },
+  "L300": {
+   "correct": 47,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 37,
+   "errors": []
+  },
+  "L330": {
+   "correct": 19,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 15,
+   "errors": []
+  },
+  "L472": {
+   "correct": 14,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 8,
+   "errors": []
+  },
+  "L488": {
+   "correct": 41,
+   "wrong": 1,
+   "vague": 2,
+   "unsure": 0,
+   "precise_dates": 25,
+   "errors": [
+    "Sun\u2013Tues Feb 1\u20132 \u2014 coming due. \u2014 Sunday was January 31 (Monday was February 1, Tuesday was February 2)"
+   ]
+  },
+  "L518": {
+   "correct": 35,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 24,
+   "errors": []
+  },
+  "L534": {
+   "correct": 23,
+   "wrong": 2,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 16,
+   "errors": [
+    "Valentine's dance, Feb 14, Brooks and Dunn cover band, the hall on 460 \u2014 the Valentine's Saturday dance is Saturday, February 13 (Valentine's Day is Sunday, February 14)",
+    "Valentine's, Feb 14, the hall on 460. \u2014 the Valentine's Saturday dance is Saturday, February 13, not Feb 14"
+   ]
+  },
+  "L554": {
+   "correct": 34,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 19,
+   "errors": []
+  },
+  "L685": {
+   "correct": 14,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 7,
+   "errors": []
+  },
+  "L792": {
+   "correct": 29,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 19,
+   "errors": []
+  },
+  "L836": {
+   "correct": 31,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 18,
+   "errors": []
+  },
+  "L899": {
+   "correct": 32,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 26,
+   "errors": []
+  },
+  "L936": {
+   "correct": 12,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 5,
+   "errors": [
+    "When she realizes they were fucking and talking about her breasts *the day before* Pace painted her \u2014 Pace and Randi slept together on Thursday, January 21 (ch 61), eight days before Pace painted Vee on Friday, January 29 (ch 66)"
+   ]
+  }
+ },
+ "usage": {
+  "input": 92174,
+  "output": 1103,
+  "reasoningTokens": 0,
+  "totalTokens": 93277,
+  "cacheRead": 0,
+  "cacheWrite": 0,
+  "promptTokens": 92174,
+  "nonMessageTokens": 0,
+  "cost": 0.195378,
+  "provider": "Google",
+  "finishReason": "stop",
+  "duration_ms": 20268.451690673828,
+  "turns": 1,
+  "max_output_tokens": 48000,
+  "incomplete": false
+ }
+}

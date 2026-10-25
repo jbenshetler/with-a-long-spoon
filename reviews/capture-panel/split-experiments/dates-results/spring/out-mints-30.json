@@ -1,0 +1,139 @@
+{
+ "result": {
+  "L173": {
+   "correct": 24,
+   "wrong": 1,
+   "vague": 3,
+   "unsure": 2,
+   "precise_dates": 18,
+   "errors": [
+    "then Wednesday Meg, Thursday dancing \u2014 Meg's outfit-lending scene is part of Chapter 25 on Thursday, October 22, not Wednesday"
+   ]
+  },
+  "L247": {
+   "correct": 19,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 12,
+   "errors": []
+  },
+  "L300": {
+   "correct": 35,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 25,
+   "errors": []
+  },
+  "L330": {
+   "correct": 21,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 11,
+   "errors": []
+  },
+  "L472": {
+   "correct": 13,
+   "wrong": 1,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 1,
+   "errors": [
+    "spent two nights sleepless \u2014 Vee had one sleepless night (Thursday Oct 22 after the bar fight) before going to Randi on Friday morning and reconciling with Pace on Saturday night"
+   ]
+  },
+  "L488": {
+   "correct": 44,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 16,
+   "errors": []
+  },
+  "L518": {
+   "correct": 34,
+   "wrong": 0,
+   "vague": 2,
+   "unsure": 0,
+   "precise_dates": 16,
+   "errors": []
+  },
+  "L534": {
+   "correct": 24,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 12,
+   "errors": []
+  },
+  "L554": {
+   "correct": 39,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 20,
+   "errors": [
+    "dress Wednesday-ish \u2014 Chapter 21 (the dress reveal) is Thursday, October 15"
+   ]
+  },
+  "L685": {
+   "correct": 9,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 1,
+   "errors": []
+  },
+  "L792": {
+   "correct": 25,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 13,
+   "errors": []
+  },
+  "L836": {
+   "correct": 26,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 15,
+   "errors": []
+  },
+  "L899": {
+   "correct": 29,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 15,
+   "errors": []
+  },
+  "L936": {
+   "correct": 5,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 0,
+   "errors": []
+  }
+ },
+ "usage": {
+  "input": 63499,
+  "output": 1013,
+  "reasoningTokens": 0,
+  "totalTokens": 64512,
+  "cacheRead": 0,
+  "cacheWrite": 0,
+  "promptTokens": 63499,
+  "nonMessageTokens": 0,
+  "cost": 0.137128,
+  "provider": "Google",
+  "finishReason": "stop",
+  "duration_ms": 17745.245933532715,
+  "turns": 1,
+  "max_output_tokens": 48000,
+  "incomplete": false
+ }
+}

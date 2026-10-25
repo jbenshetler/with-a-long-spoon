@@ -1,0 +1,244 @@
+{
+ "result": {
+  "L173": {
+   "correct": 66,
+   "wrong": 5,
+   "vague": 3,
+   "unsure": 1,
+   "not_temporal": 7,
+   "errors": [
+    "ch052 Words are the whole war.\" That's Randi, the night after Brooke's ultimatum, steering Vee out of the word with a straight face. \u2014 Randi said this in ch051 on the same morning (Friday, Jan 15), right before Brooke's ultimatum.",
+    "ch058 Then the parking-lot kiss is kept small, \"nothing in it a parking lot couldn't hold,\" three days after Brooke told her to choose. \u2014 Wednesday, Jan 20 is five days after Friday, Jan 15.",
+    "ch060 The recycled build-up cost it a point, and I want the next chapter to put two people in a room where something gets *said*: Randi and Vee Tuesday, or Brooke's ultimatum coming due. \u2014 Thursday, Jan 21; Vee's next scheduled days with Pace/Randi are Friday/weekend before Tuesday.",
+    "ch065 I read all of that two days ago. \u2014 In-story, Friday Jan 29 is three days after Tuesday Jan 26.",
+    "ch069 Meanwhile Pace is offstage holding a lie she told him three nights ago, and I can feel him not being in this chapter. \u2014 She lied to Pace on Sunday night (Jan 31); ch069 ends Tuesday night (Feb 2), two nights later."
+   ],
+   "unsure_quotes": [
+    "ch055 And a timeline snag: 52 ended with Cassie at her desk saying \"Hmm\" when Vee walked in, and now Cassie's been back an hour and asks about the weekend."
+   ],
+   "meta": [
+    "ch055 And a timeline snag: 52 ended with Cassie at her desk saying \"Hmm\" when Vee walked in, and now Cassie's been back an hour and asks about the weekend."
+   ]
+  },
+  "L247": {
+   "correct": 18,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "not_temporal": 3,
+   "errors": [],
+   "unsure_quotes": [],
+   "meta": []
+  },
+  "L300": {
+   "correct": 86,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "not_temporal": 7,
+   "errors": [],
+   "unsure_quotes": [
+    "ch072 Wait, did they go or did we skip it, or is she going to remember it?!), and now she's going home from Pace's on Saturday, Feb 20 with her neck hurt and her body *lit on fire* and completely unspent because Randi had a sorority thing Saturday morning..."
+   ],
+   "meta": [
+    "ch054 However, the timeline tiny-brain in me noticed that the very end of Chapter 52 already gave us the little flash-forward epilogue of *Sunday, January 17* when she walked back into the dorm in his rolled sweats and Randi's heels to Cassie's *\"Hmm\"*\u2014so this is earlier that same Sunday evening before she heads back!",
+    "ch061 *Thursday, January 21.* \u2014 This is *Thursday, January 21*\u2014the exact same night Vee just sat across from Randi in that loft booth",
+    "ch072 Wait\u2014also, look at the dates at the top: *Thursday, February 18 \u2013 Saturday, February 20*.",
+    "ch075 First of all, we jumped to *April 10*\u2014and in that jump, apparently Vee and Pace played a whole \"space princess / chase / interrogation\" game that Vee just spilled to Randi over four mimosas at Saturday brunch!"
+   ]
+  },
+  "L330": {
+   "correct": 43,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 0,
+   "not_temporal": 2,
+   "errors": [
+    "ch068 She has no idea\u2014none, zero, not a damn clue\u2014that Pace and Randi literally fucked two days ago talking about this exact thing. \u2014 Pace and Randi were together on Thursday, Jan 21 (ch061); ch068 is Sunday, Jan 31 (ten days later)."
+   ],
+   "unsure_quotes": [],
+   "meta": [
+    "ch061 *Thursday, January 21.* Do you understand what that date stamp means?!"
+   ]
+  },
+  "L472": {
+   "correct": 46,
+   "wrong": 0,
+   "vague": 2,
+   "unsure": 1,
+   "not_temporal": 12,
+   "errors": [],
+   "unsure_quotes": [
+    "ch075 How long has he known?"
+   ],
+   "meta": []
+  },
+  "L488": {
+   "correct": 103,
+   "wrong": 2,
+   "vague": 9,
+   "unsure": 0,
+   "not_temporal": 8,
+   "errors": [
+    "ch057 She's telling it the night after Brooke stood in a kitchen and told her to choose. \u2014 Ch057 is Tuesday, Jan 19; Brooke's ultimatum in the foyer was Friday morning, Jan 15 (four days earlier).",
+    "ch072 What I'd text a friend at 1 a.m.: he loaded his own bar to what he could put back down alone so she'd never have to save him, AND he made her buy her own pleasure with true sentences at one in the morning three weeks ago, and those are the same skill, and I don't know yet which one the book thinks it is. \u2014 The interrogation in ch068 was Sunday night, Jan 31, not 1 a.m. after Saturday's mixer."
+   ],
+   "unsure_quotes": [],
+   "meta": [
+    "ch067 *He gets me Friday. / He gets me Sunday. / You get me Saturday night* \u2014 she said it like the luckiest girl in Virginia, divvying her own week up between the two people who **chose her together before she was anything to either of them**, and they have her on a schedule now, and she thinks she made it.",
+    "ch072 The chapter header says February 18 and the last one said February 6 and I sat there doing arithmetic with my thumb on the screen, because Valentine's Saturday was *on the page*.",
+    "ch073 REACTION Okay, first thing, before anything nice: **where was Valentine's.** The hall on 460, Brooks and Dunn, settled since December, *leave them shoes home, bring your opinions,* Sheri waiting with her held card \u2014 and chapter 72 opens on February eighteenth like nothing happened and 73 is the twenty-sixth.",
+    "ch073 Two chapters and the book just drove past the one date it had set on the page, in a character's own mouth, two volumes deep."
+   ]
+  },
+  "L518": {
+   "correct": 87,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 2,
+   "not_temporal": 5,
+   "errors": [],
+   "unsure_quotes": [
+    "ch072 Did a whole week just pass while Vee kept her head down and stuck to her windshield vow, or is Randi dodging Saturday brunch after what she saw in Vee's face coming back from the bathroom?!",
+    "ch075 Wait\u2014let's talk about the timeline here, because something huge just clicked or jumped: Randi says at brunch Vee told her about *\"the space princess, the chase, the interrogation.\"* So we've jumped forward a bit\u2014or this is after a brunch where Vee told Randi about a game we haven't even seen Vee play yet, OR a game from earlier!"
+   ],
+   "meta": [
+    "ch075 Wait\u2014let's talk about the timeline here, because something huge just clicked or jumped: Randi says at brunch Vee told her about *\"the space princess, the chase, the interrogation.\"*"
+   ]
+  },
+  "L534": {
+   "correct": 55,
+   "wrong": 1,
+   "vague": 5,
+   "unsure": 0,
+   "not_temporal": 12,
+   "errors": [
+    "ch062 Brooks and Dunn cover band, Feb 14, the hall on 460, \"settled back in December.\" \u2014 Valentine's Saturday dance is Saturday, Feb 13 (Feb 14 is Sunday)."
+   ],
+   "unsure_quotes": [],
+   "meta": [
+    "ch064 Though: Friday, waxed bare, and then Sheri's Valentine's dance is coming, and Pace requesting it two days after a taproom night \u2014 I don't love what my brain is doing with the timeline but I'm not putting it down, I'm leaning in."
+   ]
+  },
+  "L554": {
+   "correct": 103,
+   "wrong": 9,
+   "vague": 7,
+   "unsure": 1,
+   "not_temporal": 6,
+   "errors": [
+    "ch056 Monday night she gave Cassie a cranberry sweater shrunk to doll size and a load of hot laundry, a whole comic architecture, to explain why she came home in his t-shirt. \u2014 That conversation in ch055 took place on Sunday night, Jan 17, not Monday night.",
+    "ch056 And it was Randi who framed it that way \u2014 *you backed him into a corner, name it or lose me, the one thing he can't do, give him a peace sign he can't misread* \u2014 and I half bought it in the moment because Randi is persuasive and Vee was wrecked off a red-eye, and now it's two days later and the story has hardened in public and the apology is Vee's. \u2014 Monday, Jan 18 is three days after Friday, Jan 15.",
+    "ch062 and he's doing it now, two nights after a party he built out of names Vee dropped at his back. \u2014 The roadhouse dinner was Wednesday, Jan 20; the taproom with Sheri is Saturday, Jan 23 (three nights later; Friday Jan 22 is the kitchen opening).",
+    "ch063 She crosses the counter and does **Sheri's hug** \u2014 both arms, cheek flat to his chest, whole weight committed \u2014 learned off a taproom floor two nights ago and carried straight into his kitchen and spent on him. \u2014 The taproom was Saturday night, Jan 23; ch063 is Sunday morning, Jan 24 (the next morning, not two nights later).",
+    "ch065 and three weeks ago I sat through a woman's mother laundering a pair, folding them, holding them three days, and setting them down beside the plate. \u2014 Randi told that story in ch057 on Tuesday, Jan 19, which was ten days before Friday, Jan 29.",
+    "ch066 The timing is the Sunday after the taproom. \u2014 Ch066 is Friday, Jan 29 (though recalling Pace's request from Sunday, Jan 24).",
+    "ch067 Randi has one week before the Valentine's hall \u2014 Ch067 is Saturday, Jan 30; Valentine's Saturday is Feb 13, two weeks away.",
+    "ch069 She's been using that man as a fire extinguisher since Saturday at one in the morning and he keeps letting her, and she keeps walking out of there still burning. \u2014 Vee went to Pace's on Sunday, Jan 31, not Saturday at 1 a.m.",
+    "ch072 One week ago Randi handed her the exact words \u2014 *if it doesn't mean no anymore, honey, maybe you should tell him* \u2014 Ch071 was Saturday, Feb 6; ch072 is Feb 18\u201320, two weeks later."
+   ],
+   "unsure_quotes": [
+    "ch056 Tuesday \u2014 er, Monday morning here, whatever, the calendar's mush as ever \u2014 she puts the coat on the table in front of Kayla and Meg, straight out, *I flashed him on his front porch*, and takes the shriek."
+   ],
+   "meta": [
+    "ch056 Tuesday \u2014 er, Monday morning here, whatever, the calendar's mush as ever \u2014 she puts the coat on the table in front of Kayla and Meg, straight out, *I flashed him on his front porch*, and takes the shriek."
+   ]
+  },
+  "L685": {
+   "correct": 35,
+   "wrong": 4,
+   "vague": 11,
+   "unsure": 0,
+   "not_temporal": 12,
+   "errors": [
+    "ch053 she's going to take this \u2014 the strange small unresolved thing \u2014 to *Randi* tomorrow. \u2014 Ch053 is Saturday, Jan 16; Vee sees Randi on Tuesday, Jan 19 (three days later, not tomorrow).",
+    "ch055 If Friday's dinner chapter is ALSO a warm nothing, I'm going to start skimming for who finally collides. \u2014 The upcoming dinner with Randi is on Tuesday (and the group dinner is Wednesday), not Friday.",
+    "ch062 And he did it the week after he threw the roadhouse dinner. \u2014 Ch062 (Jan 22/23) is two/three days after the Wednesday, Jan 20 roadhouse dinner, in the same week.",
+    "ch065 And two weeks ago I'd have read that as Randi being warm and a little breezy. \u2014 If in-story, Tuesday Jan 26 was three days before Friday Jan 29."
+   ],
+   "unsure_quotes": [],
+   "meta": []
+  },
+  "L792": {
+   "correct": 64,
+   "wrong": 2,
+   "vague": 4,
+   "unsure": 0,
+   "not_temporal": 11,
+   "errors": [
+    "ch065 And the kiss at the door Thursday before this \u2014 mouth, held, again, stayed \u2014 is getting less deniable every chapter while her thumb goes still over \"and you liked it\" and Vee says \"No\" too fast and reads it as protectiveness. \u2014 That dinner and kiss in ch064 took place on Tuesday, Jan 26, not Thursday.",
+    "ch071 The Valentine's dance is Saturday. \u2014 Ch071 is Saturday, Feb 6; the Valentine's Saturday dance is next Saturday, Feb 13."
+   ],
+   "unsure_quotes": [],
+   "meta": [
+    "ch055 REACTION: This is the comedown chapter and I knew it would be the moment I saw \"Sunday, January 17\" again \u2014 we've now had the door, the kitchen, the whole ecstatic weekend, and this is Vee back in the dorm with Cassie."
+   ]
+  },
+  "L836": {
+   "correct": 31,
+   "wrong": 0,
+   "vague": 2,
+   "unsure": 0,
+   "not_temporal": 0,
+   "errors": [],
+   "unsure_quotes": [],
+   "meta": []
+  },
+  "L899": {
+   "correct": 68,
+   "wrong": 8,
+   "vague": 7,
+   "unsure": 3,
+   "not_temporal": 13,
+   "errors": [
+    "ch061 So he hears it from Randi before he ever hears it from her, the night after the porch where Vee stepped on his sentence. \u2014 Ch061 is Thursday, Jan 21, which is six nights after the porch scene on Friday, Jan 15.",
+    "ch063 text: *HE SAID \"MY ONE FRIEND\" AND HE WAS INSIDE RANDI TWO DAYS AGO.* \u2014 Thursday, Jan 21 to Sunday, Jan 24 is three days.",
+    "ch065 I read all of that four days ago, book-time and real-time. \u2014 Tuesday, Jan 26 to Friday, Jan 29 is three days in book-time.",
+    "ch067 tomorrow is Pace's day, and she's going to lie to Randi about the painting while Randi lies to her about this. \u2014 The painting happened the night before (Friday, Jan 29) and Vee already kept it from Randi on Saturday, Jan 30.",
+    "ch073 He bought plum lingerie the week after the plum sweater. \u2014 The plum sweater was in Fall (Oct/Nov); ch073 is late February (months later).",
+    "ch074 Since when is Tuesday a 7 p.m. / class with Randi \"since January\"? / My notes say Tuesday was the booth. \u2014 Anthropology class with Dr. Marsh and the booth dinner with Randi have both been on Tuesday evenings since ch051/ch057 in January."
+   ],
+   "unsure_quotes": [
+    "ch062 Gripes, quickly: - The timeline is mush.",
+    "ch074 Since when is Tuesday a 7 p.m.",
+    "ch074 class with Randi \"since January\"?"
+   ],
+   "meta": [
+    "ch062 Gripes, quickly: - The timeline is mush.",
+    "ch062 \"Two nights after the roadhouse,\" then \"Saturday,\" then \"the week ahead of her,\" and the header says Jan 23.",
+    "ch072 I went back to check the date line. / Chapter 71 was Saturday the 6th. / This one opens Thursday the 18th, and that whole stretch is gone.",
+    "ch072 NEXT is lower than CAPTURE because the book silently skipped the two weeks I most wanted, Valentine's at the hall, Sheri and standards committee, and because I want Randi back in the room, not another Pace weekend.",
+    "ch075 And we jumped from March 11 to April 10 with Tuesday's \"what her face was going to do\" just skipped."
+   ]
+  },
+  "L936": {
+   "correct": 35,
+   "wrong": 1,
+   "vague": 1,
+   "unsure": 0,
+   "not_temporal": 3,
+   "errors": [
+    "ch064 And Randi\u2014who was literally riding Pace like a rented mule three nights ago while begging him to suck her nipples so she could pretend it was Vee\u2019s mouth, who came apart sobbing Vee's name\u2014has to sit across from this girl and hear that Vee felt a jolt of pleasure from a gay woman checking her out. \u2014 Ch061 was Thursday, Jan 21; ch064 is Tuesday, Jan 26 (five nights later, not three)."
+   ],
+   "unsure_quotes": [],
+   "meta": []
+  }
+ },
+ "usage": {
+  "input": 56382,
+  "output": 4536,
+  "reasoningTokens": 0,
+  "totalTokens": 60918,
+  "cacheRead": 0,
+  "cacheWrite": 0,
+  "promptTokens": 56382,
+  "nonMessageTokens": 0,
+  "cost": 0.158124,
+  "provider": "Google",
+  "finishReason": "stop",
+  "duration_ms": 57868.47472190857,
+  "turns": 1,
+  "max_output_tokens": 48000,
+  "incomplete": false
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "L702": {
+  "arm": "dated",
+  "model": "claude-opus-4-8"
+ },
+ "L280": {
+  "arm": "dated",
+  "model": "claude-opus-5"
+ },
+ "L843": {
+  "arm": "dated",
+  "model": "claude-opus-5-5"
+ },
+ "L176": {
+  "arm": "dated",
+  "model": "gemini-3.8-flash"
+ },
+ "L415": {
+  "arm": "dated",
+  "model": "gemini-4-argon"
+ },
+ "L764": {
+  "arm": "dated",
+  "model": "glm-5.3"
+ },
+ "L119": {
+  "arm": "dated",
+  "model": "gpt-5.6-sol"
+ },
+ "L296": {
+  "arm": "undated",
+  "model": "claude-opus-4-8"
+ },
+ "L638": {
+  "arm": "undated",
+  "model": "claude-opus-5"
+ },
+ "L987": {
+  "arm": "undated",
+  "model": "claude-opus-5-5"
+ },
+ "L886": {
+  "arm": "undated",
+  "model": "gemini-3.8-flash"
+ },
+ "L163": {
+  "arm": "undated",
+  "model": "gemini-4-argon"
+ },
+ "L860": {
+  "arm": "undated",
+  "model": "glm-5.3"
+ },
+ "L770": {
+  "arm": "undated",
+  "model": "gpt-5.6-sol"
+ }
+}

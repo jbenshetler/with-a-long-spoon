@@ -1,0 +1,139 @@
+{
+ "result": {
+  "L173": {
+   "correct": 12,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 4,
+   "errors": []
+  },
+  "L247": {
+   "correct": 16,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 5,
+   "errors": []
+  },
+  "L300": {
+   "correct": 34,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 25,
+   "errors": [
+    "Valentine's weekend (second Saturday in February, Sheri's country dance hall) is only three weeks away! \u2014 from Thursday, Jan 21, Saturday, Feb 13 is just over three weeks away (23 days), though 'second Saturday in February' is the 13th; minor, actually 'a month of radio silence' from Dec 11 to Jan 15 is 5 weeks (35 days), not a month, though tolerable; main error: none severe, except 'four months of dishwashing stories' (Sept 17 to Jan 20 is four months, correct). Actually let's flag: 'flew back from Ohio on Friday, Jan 15... a month of radio silence' \u2014 Dec 11 to Jan 15 is 5 weeks (35 days)."
+   ]
+  },
+  "L330": {
+   "correct": 16,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 8,
+   "errors": []
+  },
+  "L472": {
+   "correct": 15,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 6,
+   "errors": []
+  },
+  "L488": {
+   "correct": 30,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 20,
+   "errors": []
+  },
+  "L518": {
+   "correct": 28,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 16,
+   "errors": [
+    "Valentine's weekend (second Saturday in February) at the dance hall... We are now at the end of January\u2014only two weeks out! \u2014 Ch 60 is Thursday, January 21 (mid-to-late January, and over three weeks before Saturday, February 13)."
+   ]
+  },
+  "L534": {
+   "correct": 24,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 13,
+   "errors": []
+  },
+  "L554": {
+   "correct": 25,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 11,
+   "errors": []
+  },
+  "L685": {
+   "correct": 10,
+   "wrong": 1,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 4,
+   "errors": [
+    "They're back together and have been for weeks. \u2014 They reconciled on Friday, January 15, and after Ch 60 it is only Thursday, January 21 (six days, not weeks)."
+   ]
+  },
+  "L792": {
+   "correct": 24,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 12,
+   "errors": []
+  },
+  "L836": {
+   "correct": 22,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 10,
+   "errors": []
+  },
+  "L899": {
+   "correct": 23,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 14,
+   "errors": []
+  },
+  "L936": {
+   "correct": 12,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 4,
+   "errors": []
+  }
+ },
+ "usage": {
+  "input": 86335,
+  "output": 1201,
+  "reasoningTokens": 0,
+  "totalTokens": 87536,
+  "cacheRead": 0,
+  "cacheWrite": 0,
+  "promptTokens": 86335,
+  "nonMessageTokens": 0,
+  "cost": 0.18468,
+  "provider": "Google",
+  "finishReason": "stop",
+  "duration_ms": 19395.339727401733,
+  "turns": 1,
+  "max_output_tokens": 48000,
+  "incomplete": false
+ }
+}

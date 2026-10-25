@@ -1,0 +1,28 @@
+  1  fall-1   the-bench              Friday, September 4
+  2  fall-1   standards              Saturday, September 5
+  3  fall-1   the-pointing-game      Tuesday, September 8
+  4  fall-1   see-you-later          Wednesday, September 9
+  5  fall-1   substitution           Thursday, September 17
+  6  fall-1   long-way               Thursday, September 17
+  7  fall-1   tannin                 Thursday, September 17
+  8  fall-1   water-wings            Friday, September 18
+  9  fall-1   may-i-choose           Saturday, September 19
+ 10  fall-1   dear                   Saturday, September 19
+                                     Friday, September 25   @ 'Six days later, the professor'
+ 11  fall-1   leave-no-trace         Sunday, September 27
+ 12  fall-1   rye                    Sunday, September 27
+ 13  fall-1   swim-lanes             Sunday, September 27
+ 14  fall-1   what-to-wear           Thursday, October 1
+ 15  fall-1   two-towels             Saturday, October 3
+ 16  fall-1   a-round                Saturday, October 3
+ 17  fall-1   how-its-done           Saturday, October 3
+                                     Sunday, October 4   @ 'The next day, the Mercedes'
+ 18  fall-1   famished               Friday, October 9
+ 19  fall-1   fed                    Saturday, October 10
+                                     Sunday, October 11   @ 'The bistro had a sun porch'
+ 20  fall-1   portion                Sunday, October 11
+ 21  fall-1   peekaboo               Thursday, October 15
+ 22  fall-1   sorority               Friday, October 16
+                                     Saturday, October 17   @ 'The Mercedes sat in the bypass lot'
+ 23  fall-1   gone                   Monday, October 19
+ 24  fall-1   rock                   Tuesday, October 20

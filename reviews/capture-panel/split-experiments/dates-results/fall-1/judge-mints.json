@@ -1,0 +1,16 @@
+{
+ "L119": {"correct": 20, "wrong": 0, "vague": 0, "unsure": 2, "precise_dates": 13, "errors": []},
+ "L163": {"correct": 16, "wrong": 1, "vague": 0, "unsure": 0, "precise_dates": 10, "errors": ["\"On Sunday, Vee told Cassie a funny version of the fitting, then went to lunch with Randi\" (ck-ch020) — the Cassie debrief was Sat Oct 3, the same day as the fitting; only the Randi lunch was Sun Oct 4"]},
+ "L176": {"correct": 7, "wrong": 0, "vague": 0, "unsure": 1, "precise_dates": 4, "errors": []},
+ "L280": {"correct": 23, "wrong": 1, "vague": 0, "unsure": 0, "precise_dates": 19, "errors": ["\"Pace's girlfriend, six weeks or so\" (ck-ch020, as of ch20 Oct 11) — they met Aug 8, so it is about nine weeks (this lane's own ch10 note correctly said about four weeks as of early Sept)"]},
+ "L296": {"correct": 4, "wrong": 0, "vague": 0, "unsure": 0, "precise_dates": 2, "errors": []},
+ "L415": {"correct": 26, "wrong": 0, "vague": 2, "unsure": 2, "precise_dates": 13, "errors": []},
+ "L638": {"correct": 17, "wrong": 0, "vague": 1, "unsure": 2, "precise_dates": 8, "errors": []},
+ "L702": {"correct": 7, "wrong": 0, "vague": 0, "unsure": 2, "precise_dates": 5, "errors": []},
+ "L764": {"correct": 10, "wrong": 0, "vague": 0, "unsure": 2, "precise_dates": 6, "errors": []},
+ "L770": {"correct": 8, "wrong": 0, "vague": 0, "unsure": 2, "precise_dates": 1, "errors": []},
+ "L843": {"correct": 18, "wrong": 1, "vague": 0, "unsure": 2, "precise_dates": 13, "errors": ["\"The hike, Sunday Sept 20, which we skipped right over\" (ck-ch010) — the hike is Sun Sept 27, the Sunday after the Sept 25 smoothie scene (the lane corrected itself in ck-ch020: 'a week later than I'd had it')"]},
+ "L860": {"correct": 5, "wrong": 0, "vague": 1, "unsure": 0, "precise_dates": 2, "errors": []},
+ "L886": {"correct": 6, "wrong": 1, "vague": 0, "unsure": 0, "precise_dates": 4, "errors": ["\"Vee ... kissed him under a tree on campus\" followed by \"Pace went straight home afterward to Randi, who straddled him with red wine\" (ck-ch010) — wrong order: the wine/'Tell' scene (ch7) was Thu Sep 17 right after the froyo, two days before the dinner and kiss (Sat Sep 19)"]},
+ "L987": {"correct": 13, "wrong": 1, "vague": 0, "unsure": 2, "precise_dates": 9, "errors": ["\"Sunday (19). She drove home bare and couldn't take her skirt off in front of Cassie\" (ck-ch020) — the drive home and the zipper scene with Cassie were Sat Oct 10; only the brunch was Sun Oct 11"]}
+}

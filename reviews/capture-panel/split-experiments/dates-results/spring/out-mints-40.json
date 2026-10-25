@@ -1,0 +1,143 @@
+{
+ "result": {
+  "L173": {
+   "correct": 12,
+   "wrong": 1,
+   "vague": 2,
+   "unsure": 2,
+   "precise_dates": 8,
+   "errors": [
+    "Halloween Friday, brunch Saturday \u2014 Halloween (ch 33) is Saturday, October 31, and the 'One Bite' brunch (ch 34) is Sunday, November 1."
+   ]
+  },
+  "L247": {
+   "correct": 9,
+   "wrong": 0,
+   "vague": 2,
+   "unsure": 1,
+   "precise_dates": 4,
+   "errors": []
+  },
+  "L300": {
+   "correct": 29,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 22,
+   "errors": []
+  },
+  "L330": {
+   "correct": 14,
+   "wrong": 2,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 6,
+   "errors": [
+    "Two days later, on Halloween, she showed up early at his house... The next night, she put on the heels and walked down his lit hallway \u2014 Ch 32 (showing up early, air guitar, spanking) begins Friday, October 30, two days after Wednesday's induction; Halloween is the next day, Saturday, October 31 (ch 33), when she does the hallway walk.",
+    "Immediately after [ch 38 photo on Thu Nov 12], Vee took that exact uncropped naked photo to her next Saturday brunch... Over the next two weeks, Vee fell entirely into Pace's world... surrendered completely when she found he had cleared his top bathroom drawer... When she offered to let him take a sexy pinup photo \u2014 Inverted order slightly: the top drawer reveal happens Friday, November 13 (end of ch 35), the day after the Thursday, November 12 pinup photo (ch 38), though narrated earlier."
+   ]
+  },
+  "L472": {
+   "correct": 5,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 2,
+   "errors": []
+  },
+  "L488": {
+   "correct": 33,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 20,
+   "errors": []
+  },
+  "L518": {
+   "correct": 25,
+   "wrong": 2,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 14,
+   "errors": [
+    "On Sunday night (October 31st), while Pace did the dishes, Vee fetched the burgundy dress... staged a two-costume show \u2014 Halloween, October 31, is a Saturday, not a Sunday.",
+    "At their next Saturday brunch in a bright glassed-in bistro [ch 34] \u2014 Ch 34 ('One Bite') takes place on Sunday, November 1, not Saturday."
+   ]
+  },
+  "L534": {
+   "correct": 18,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 10,
+   "errors": []
+  },
+  "L554": {
+   "correct": 32,
+   "wrong": 1,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 16,
+   "errors": [
+    "then the dark-green brunch, then Randi's couch Saturday \u2014 Ch 40 ('Four', Randi on Pace's couch) is Monday, November 16, two days after the Saturday brunch, not Saturday."
+   ]
+  },
+  "L685": {
+   "correct": 9,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 4,
+   "errors": []
+  },
+  "L792": {
+   "correct": 22,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 1,
+   "precise_dates": 14,
+   "errors": []
+  },
+  "L836": {
+   "correct": 22,
+   "wrong": 0,
+   "vague": 0,
+   "unsure": 0,
+   "precise_dates": 13,
+   "errors": []
+  },
+  "L899": {
+   "correct": 25,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 1,
+   "precise_dates": 17,
+   "errors": []
+  },
+  "L936": {
+   "correct": 6,
+   "wrong": 0,
+   "vague": 1,
+   "unsure": 0,
+   "precise_dates": 2,
+   "errors": []
+  }
+ },
+ "usage": {
+  "input": 68828,
+  "output": 1306,
+  "reasoningTokens": 0,
+  "totalTokens": 70134,
+  "cacheRead": 0,
+  "cacheWrite": 0,
+  "promptTokens": 68828,
+  "nonMessageTokens": 0,
+  "cost": 0.150716,
+  "provider": "Google",
+  "finishReason": "stop",
+  "duration_ms": 20353.418588638306,
+  "turns": 1,
+  "max_output_tokens": 48000,
+  "incomplete": false
+ }
+}
