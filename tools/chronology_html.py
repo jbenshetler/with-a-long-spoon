@@ -47,7 +47,7 @@ def _panel_models() -> frozenset[str]:
     # [panel].models truncated the roster here (2026-10-24).
     import cold_read_config
 
-    models = frozenset(cold_read_config.panel_models())
+    models = frozenset(cold_read_config.panel_models(include_available=True))
     if not models:
         raise RuntimeError("cold-read panel roster missing from ensemble-config.toml")
     return models

@@ -17,8 +17,6 @@ version = 1
 # ===========================================================================
 [panel]
 models = [
-  "claude-opus-4-8",
-  "claude-opus-5",
   "gpt-5.6-sol",
   "glm-5.3",
   "deepseek-v4-pro-0813",
@@ -29,7 +27,11 @@ models = [
   # OpenRouter lanes (glm-5.3, deepseek-v4-pro-0813). Already on [capture].
   "gemini-4-argon",
 ]
-fast = ["claude-opus-4-8", "gpt-5.6-sol"]
+fast = ["gemini-4-argon", "gpt-5.6-sol"]
+# On demand: off the default panel, run only when named with --models (author
+# ruling 2026-10-24). Their reads stay in the tree and still show in the
+# chronology view; they are not retired.
+available = ["claude-opus-4-8", "claude-opus-5"]
 # Retired from the cold panel. Reads on disk were erased 2026-09-26 (git history
 # keeps them); qwen cannot be routed under the quantization floor (its single
 # Alibaba endpoint reports `unknown`) and the floor stands. `claude-fable-5`
@@ -54,8 +56,6 @@ retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flas
 
 [capture]
 models = [
-  "claude-opus-4-8",
-  "claude-opus-5",
   "gpt-5.6-sol",
   "glm-5.3",
   "gemini-3.8-flash",
@@ -74,6 +74,9 @@ models = [
   # romance-graduate through Volume 3.
   "gemini-4-argon",
 ]
+# On demand: not run by default, accepted by capture_dag when named, and still
+# counted by capture_stats (author ruling 2026-10-24). Not retired.
+available = ["claude-opus-4-8", "claude-opus-5"]
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
 # the rest by author ruling the same day; git history holds the record).

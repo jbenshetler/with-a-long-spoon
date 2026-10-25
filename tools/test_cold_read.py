@@ -826,7 +826,7 @@ class HarnessParsingTests(unittest.TestCase):
         # The roster is never restated (author ruling 2026-09-26): the consumers
         # must load exactly what [panel].models says, whatever it says today.
         config = importlib.import_module("cold_read_config")
-        expected = set(config.panel_models())
+        expected = set(config.panel_models(include_available=True))
         self.assertTrue(expected, "config panel is empty")
         self.assertEqual(html.PANEL_MODELS, expected)
         self.assertEqual(augment.PANEL_MODELS, expected)

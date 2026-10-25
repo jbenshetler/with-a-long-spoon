@@ -1,5 +1,5 @@
 ---
-description: Grounded cold read — run the full 8-model blind panel on a chapter (or range)
+description: Grounded cold read — run the full blind panel on a chapter (or range)
 argument-hint: <scene-slug | volN | N | A..B> [--models <id,...>] [--fresh]
 ---
 
@@ -112,7 +112,7 @@ OpenRouter calls.
 
 ## Step 4 — Verify and report
 
-- Count active-roster files from `ensemble-config.toml`; a full-panel run is 8.
+- Count active-roster files from `ensemble-config.toml`; a full-panel run is the length of `[panel].models` (on-demand `available` readers run only when named).
 - Skim each for a refusal/no-read signature before trusting it; a refusal is
   re-run, not recorded.
 - Report per model: Heat/Romance (0–3), what landed as designed, what confused

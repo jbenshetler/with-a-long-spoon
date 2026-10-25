@@ -18,7 +18,8 @@ check that each weekday matches its date on the hidden 2026–27 calendar
 
 A multi-day chapter carries a `days:` metadata segment in its chronology entry,
 e.g. `days: Sat Sep 19 | Fri Sep 25 @ "Six days later, the professor"`: the
-first day runs from the top; each later day names the opening words of the
+first day runs from the top (it may precede the entry's own date, as for a
+diptych whose first panel is earlier); each later day names the opening words of the
 section (after a `---` break) where it begins. The chapter heading shows the
 first day; each later day gets its own line at that section.
 
@@ -151,8 +152,6 @@ def section_days(slug: str) -> list[tuple[str | None, str]]:
             raise DateError(f"{slug}: only the first `days:` part may omit an anchor")
         if prev and pts[0] < prev:
             raise DateError(f"{slug}: `days:` dates run backwards")
-        if not (first <= pts[0] <= last):
-            raise DateError(f"{slug}: `days:` date {part!r} falls outside the entry's dates")
         prev = pts[0]
         out.append((anchor, _render(pts[0])))
     _check_anchors(slug, [a for a, _ in out if a])

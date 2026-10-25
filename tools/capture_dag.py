@@ -474,7 +474,7 @@ def main() -> None:
         return
 
     # The roster lives in ensemble-config.toml [capture]; anything else is drift.
-    roster = set(cold_read_config.capture_models())
+    roster = set(cold_read_config.capture_models(include_available=True))
     retired_models = set(cold_read_config.capture_retired())
     unknown = [m for m in args.models if m not in roster and m not in retired_models]
     if unknown:

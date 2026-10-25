@@ -146,7 +146,7 @@ class MergeGateTests(unittest.TestCase):
 class RetiredCaptureTests(unittest.TestCase):
     def test_default_statistics_exclude_retired_history(self):
         # Loading historical scores should not need a model SDK or provider call.
-        stub = types.SimpleNamespace(capture_models=lambda: ('active-reader',))
+        stub = types.SimpleNamespace(capture_models=lambda **_: ('active-reader',))
         spec = importlib.util.spec_from_file_location('capture_stats_for_test', TOOLS / 'capture_stats.py')
         module = importlib.util.module_from_spec(spec)
         with patch.dict(sys.modules, {'checkpoint_bundle': types.SimpleNamespace(), 'cold_read_config': stub}):

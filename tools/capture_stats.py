@@ -80,7 +80,7 @@ def _int(text: str, pat: str) -> int | None:
 
 def load(model=None, persona=None) -> list[Gate]:
     out = []
-    active = set(cold_read_config.capture_models())
+    active = set(cold_read_config.capture_models(include_available=True))
     for gp in sorted(PANEL_ROOT.glob("*/dag/*/gate-ch*.md")):
         mo, pe = gp.parts[-4], gp.parts[-2]
         # Retired history remains inspectable with --model, but cannot vote in

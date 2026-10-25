@@ -29,18 +29,31 @@ def load_config() -> dict[str, Any]:
     return config
 
 
-def panel_models(*, fast: bool = False) -> tuple[str, ...]:
+def panel_models(*, fast: bool = False, include_available: bool = False) -> tuple[str, ...]:
+    """The default panel; `include_available` adds the on-demand readers, whose
+    reads are current and displayed but which run only when named."""
     key = "fast" if fast else "models"
-    return tuple(load_config()["panel"][key])
+    models = tuple(load_config()["panel"][key])
+    return models + panel_available() if include_available and not fast else models
+
+
+def panel_available() -> tuple[str, ...]:
+    return tuple(load_config()["panel"].get("available", ()))
 
 
 def panel_retired() -> tuple[str, ...]:
     return tuple(load_config()["panel"].get("retired", ()))
 
 
-def capture_models() -> tuple[str, ...]:
-    """The capture-DAG roster (`[capture].models`) — the single source of truth."""
-    return tuple(load_config()["capture"]["models"])
+def capture_models(*, include_available: bool = False) -> tuple[str, ...]:
+    """The capture-DAG roster (`[capture].models`) — the single source of truth.
+    `include_available` adds the on-demand readers (run only when named)."""
+    models = tuple(load_config()["capture"]["models"])
+    return models + capture_available() if include_available else models
+
+
+def capture_available() -> tuple[str, ...]:
+    return tuple(load_config()["capture"].get("available", ()))
 
 
 def capture_retired() -> tuple[str, ...]:
@@ -161,7 +174,9 @@ def checkpoint_provenance(model_id: str, boundary: int) -> str:
 if __name__ == "__main__":  # `tools/cold_read_config.py` — print the live rosters
     print("cold-read panel :", ", ".join(panel_models()))
     print("  fast probe    :", ", ".join(panel_models(fast=True)))
+    print("  on demand     :", ", ".join(panel_available()))
     print("  retired       :", ", ".join(panel_retired()))
     print("capture roster  :", ", ".join(capture_models()))
+    print("  on demand     :", ", ".join(capture_available()))
     print("  retired       :", ", ".join(capture_retired()))
     print("openrouter map  :", ", ".join(f"{k}={v}" for k, v in openrouter_models().items()))
