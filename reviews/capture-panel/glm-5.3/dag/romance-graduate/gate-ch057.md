@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch057 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch057 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
-REACTION:
+REACTION — Oh, this book. THIS is what I've been waiting sixty chapters for and didn't know it: the camera finally inside the room where the two of them are alone, and the answer is they're drowning just as bad as she is, maybe worse. This whole chapter is the blurb's promise being kept — "the two who moved her have fallen every bit as far" — and it's hotter for being the admission it is. The sex isn't the dirty part. The dirty part is that every confession arrives on a stroke. "I miss her during the day. More at night." Randi says it with him inside her and neither of them pretends it's pillow filler. And then "her nipple in my mouth" — coming while imagining Vee's breast in her own hand, "as if the wanting could cross through the body she offered him." That line is going to live in my head. That's the exact sentence the whole third game needed.
 
-God. This book keeps doing the thing where the sex scenes are actually about something and I can't get away with skimming them.
+The power dynamics here are doing cartwheels and I loved every one. Pace lifting her and stopping — "I said all right" / "I heard you" — the consent-check-that-isn't-a-pause, both of them fluent in each other. Then he holds her still mid-stroke to ask "why didn't you?" and her answer about Vee making her laugh — "she knows exactly when I'm about to ask for more" / "and you let her" / "every time" — that's the warmest thing anyone's said about Vee in the whole book and it's said inside another person.
 
-That chapter wrecked me a little. It's just her, alone in a hot room, and it's one long failed reach — she gets all the way to her own mouth and stops, a breath's width, "until her lungs began to hurt," and the book makes me sit there with her in the not-doing-it. That's brave writing. The easy version of this scene is she tries it, it's a breakthrough, empowering, roll credits. This version — where wanting and shame run in the same wire and wanting loses by a fingernail, tonight — is truer to every woman I've ever been, including me at twenty-one. "Her mouth was still empty" as the closing line. Christ.
+But the gut-punch: "You know she loves you, right?" — RANDI said it. Randi, who engineered a world where nobody has to spend words, told HIM the word on Vee's behalf. "She doesn't have to." And Pace's face softening before he can stop it, and Randi seeing it and landing "She's not the only one in love" and giving him no rescue from the sentence. He couldn't tell her she was wrong — and she meant herself as much as Vee, maybe more, and the book left it deliciously ambiguous which cut of that blade is which. The "Vee, I l—" from twelve chapters ago is finally being paid off sideways: the word everyone refuses to say is now sitting in THREE throats.
 
-And the thing that made it ache is who's in the room with her even though nobody's there: Pace, glad and unbothered, and Randi, level and mild: *It was powerful. It turned me on.* She's caught between the two of them and doesn't know she's caught between the two of them. The whole chapter is her wanting Pace's ease and Randi's permission in the same breath. "Had Randi's looked like this?" — she's not asking about fingers, she's asking *what was it like for you*, and she doesn't know that's what she's asking. The blurb said "Vee is a willing player in two games. She doesn't know there are three," and this is the first time I've felt the third game actually ticking — that her wanting keeps arriving with Randi's face attached and she keeps filing it under Pace.
+Also — "her mouth stayed open around Vee's name without saying it." Nobody in this triangle can say her name at the moment of truth. It's becoming the book's whole grammar and I'm feral about it.
 
-Small things I loved: her wiping her fingers on the sheet — twice — and then settling her hip over the damp patch. *Her mess. Hers to lie in.* The girl who stood bare in the cold in chapter 46 rather than take fake comfort, now lying down in her own stain on purpose, half penance half claim. And opening Cassie's window at the end, airing out the room before her roommate comes home — that tiny domestic shame-management, then letting January in to scour it. The flannel with every button open and then buttoned to mid-thigh, respectable again. Her body's whole evening in two states of one shirt.
+The comedy landed too — "Subtle." / "Elegant." / "I value your professional opinion" — this pairing is funnier than I expected, they're two control freaks with the same dry religion. And "I better clean up that mess before you stick it inside me" is the least romantic line in the chapter and I cackled because it's the most relaxed Randi has ever been. She stops performing for a whole paragraph there.
 
-I notice this is the second chapter running that's mostly one woman in a bed or a booth talking/thinking, and I don't care yet, because both of them were lit fuses, not throat-clearing. But the fuse is long now. Between Brooke's threat to Randi, the "he's enthusiastic / I don't" crack from Thursday, and this — the book has three bombs sitting in a row and I need one of them to start beeping soon. If next chapter is another solo recalibration I'll start tapping my foot.
+One thing I clocked and I'm not letting go: this is the first we've SEEN of Pace and Randi's sex life. It's exact, careful, permission-anchored — he stops, he checks, he waits — same architecture as with Vee. "You're still leading." "Yes." Now I know what the floor under everything is made of. Whether that floor is for Vee or for the system, still open.
 
-GATE 60 — The Reach
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Almost nobody writes a failed climax-of-courage this honestly — the stopped tongue, the wiped fingers, the empty mouth — and it's clearly load-bearing: Vee's want is migrating toward Randi and the book knows it. I need the next chapter to move (Brooke, or the telling, or something external) because three consecutive interior-chamber chapters is my limit and this is chapter two.
+WHY: The third game finally showed its face from the inside, the word-love is loose in all three of them, and it came wrapped in the hottest, funniest scene in the book. I would read the next chapter standing in the kitchen at 2 a.m. and I have.

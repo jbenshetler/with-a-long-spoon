@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
 
-REACTION:
+REACTION
 
-Oh, god. My throat is actually tight. She finally did it. She walked into that warm, perfectly orchestrated house with her coat buttoned to her chin, left the bag in the car, and refused to let him smooth over the rot with a glass of wine and an unhurried kiss.
+I am genuinely reeling. What an incredible, devastating contrast to place right after Vee’s breaking point in the cold.
 
-And his response—*his absolute audacity.* "Believe what I do." It’s right there off the back cover, and reading it in the context of him sleeping with Randi on Monday afternoons, tracking her micro-reactions on the quad, and carefully withholding the truth makes it so breathtakingly insidious. He genuinely believes his own high-minded, philosophical bullshit. He thinks setting the thermostat, cooking chicken, and worshipping her body excuses the fact that he is keeping her in an ethical cage. The deflection about her friends' relationships was such a classic, brilliant manipulator move—weaponizing a truth to evade the actual question—and Vee seeing right through it was thrilling.
+Watching Randi walk through this pristine, high-gloss world of wealth and eligible suitors was chilling. It looks like a magazine spread—Gstaad, bespoke tailoring, horse-drawn sleighs, and an impossibly charming man who looks like he walked out of central casting. On paper, it is the exact life her family expects her to live, the golden path laid out before her. And yet, sitting at that breakfast table with parents whose affection feels completely transactional, keeping her guard fully up while trading polite lies, you see the cage she was raised in.
 
-Her comeback cut him straight to the bone: the fact that words are cheap, yet he still refuses to spend even that on her. Seeing him shut down, fold his arms, and then reach out with his hands because his hands are the only currency he wants to pay her with—and her refusing to let his physical comfort buy her silence this time—was devastating. She walked out into the dark. She actually left. Now she's raw, broken open, and heading straight into a weekend where Randi will be waiting with open arms to scoop up every shattered piece. I need the next chapter immediately.
+Then she gets the fantasy. John is practically designed in a lab to be the ultimate safe, high-status catch. He says all the right things, skis effortlessly, effortlessly conjures tables and sleigh rides, and leads her around a ballroom like he was born to it. And the brutal tragedy of it is that *she can feel how hollow it is*.
 
-GATE 47 — Believe Me
+The contrast between this shiny, frictionless encounter and what she experiences back home is staggering. With John, it’s competent, pleasurable, and entirely surface-level—she describes it as being no more significant than grabbing a quick lunch, gone the second it’s over. He never sees her. He doesn't even know there's a person under the presentation to look for. Meanwhile, Pace sees right through every defense she has, demanding total, spoken presence, and it terrifies her because he dismantles the armor she spent her whole life building.
+
+And then there's Vee. The realization that Randi is utterly, helplessly hung up on Vee hit like a freight train. She is lying next to a golden boy in an alpine suite, and her entire interior life is consumed by the girl from Ohio. She admits to herself that Vee is the only person she has ever told she loved without it being a calculation. But she's trapped by her own cowardice; she would rather manipulate the edges of their dynamic, hiding behind the safety of "friendship" and double meanings, than risk honesty and face rejection or lose her entirely.
+
+When Vee’s sweet, open-hearted text popped up, offering quiet support, and Randi immediately slipped the mask back on to feed her the sparkling illusion—punctuated by the one tiny scrap of genuine longing she could slip past the censor—it broke my heart. Everyone in this book is starving for something real, and the ones who have a taste of it are too terrified or compromised to call it by its true name.
+
+GATE 48 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee finally demanding a name for what they are and refusing to let his physical touch overwrite her reality was the exact grown-up emotional reckoning this book has been building toward. Watching his high-minded architecture completely fail him under her direct honesty made for the most gripping scene of the book so far.
+WHY: The psychological depth here is staggering—watching Randi get the literal "prince charming" fantasy she was bred for and feel totally empty, while realizing she is hopelessly in love with Vee, adds so much fuel to the coming collision.

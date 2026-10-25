@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch057 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · dated · 2026-10-24*
 
 REACTION
 
-Oh my god, this chapter was *so* intense and so astonishingly well-written. I was holding my breath right along with her when her fingers stopped an inch from her mouth. Look at how most romance novels write solo scenes: a quick, frictionless two paragraphs of "she thought of his abs and came." Here, we get the entire psychological anatomy of a twenty-one-year-old girl trying to unlearn twenty-one years of bodily shame in a hot, closed-up dorm room.
+HOLD ON. Stop everything. This is *Thursday, January 21*—the exact same night Vee just sat across from Randi in that loft booth, told her about Pace's wet mouth on Saturday morning, watched Randi say *"It was powerful. It turned me on,"* kissed the hollow of Randi's neck on the cold sidewalk, and then went back to her hot dorm room to touch herself and stop one breath short of tasting her own slick off her fingers! While Vee is lying in her dorm bed in Pace's flannel shirt with *"her mouth still empty,"* Randi went straight from that sidewalk to Pace's bed and did *this*?!
 
-The physical details in this scene are almost unbearably intimate—Shutting Cassie's two-inch window first so the radiator bakes the room; putting on Pace's flannel and leaving every button open; pulling two fingers out coated to the knuckles and rubbing thumb and finger together to watch the sticky strands stretch in the lamplight. And then that description of her actually smelling herself, braced for the gross high-school-boy jokes she's internalized her whole life, and finding instead *"a hothouse with its doors shut, the air around a tropical flower without its sweetness."* That is gorgeous, fearless writing.
+My jaw is on the floor and my heart is in my throat. Everything in this chapter is a dark, glittering mirror of what just happened with Vee, and the emotional and erotic charge of watching Randi and Pace together when they are both completely, irreversibly in love with Vee is almost too much to bear. In the booth, Vee was still fighting her childhood conditioning about tasting herself on Pace's mouth—and here, the very first thing that happens is Pace lifting his wet mouth from between Randi's legs, giving her time to see it, and Randi pulling him in with zero hesitation, licking his lower lip clean, and wiping the corner of his mouth with her thumb to suck it off her own skin (*"There. Now it's mutual"*). She didn't just tell Vee it turned her on in the restaurant; she walked out of that restaurant and lived it an hour later.
 
-And what really made my stomach flip is *who* is in the bed with her mentally. Yes, it starts with Pace—his wet mouth, his lack of recoil, the way he looked at the plenty of her like it needed no pardon. But the catalyst, the permission slip, and the image that keeps braided right through the center of her arousal is *Randi*.
+And the dynamic between Pace and Randi here is so distinct from how he is with Vee. They're equals who know every inch of each other's playbooks—trading control back and forth (*"Showing off"* / *"My turn"*), laughing in the middle of sex, Randi putting his hands flat on the mattress when she takes over. Yet the third person in the bed is the one driving them both over the edge. When Randi says *"I miss her during the day. More at night,"* and then puts her own hand over her own breast to show Pace where she wanted to touch Vee on the sidewalk—*"Her breast in my hand. All that softness. The weight of it... And her nipple in my mouth"*—while offering her own nipple to Pace's mouth and coming around him as if Vee's body could cross through hers? That is some of the hottest, most psychologically loaded erotica I have ever read. It isn't a cheap betrayal scene; they are literally using each other's bodies as a conduit for their shared obsession with Vee.
 
-> *Had Randi's looked like this? Sticky too. Shining. Had she meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth? It was powerful. It turned me on.*
+And then the gut-punch right in the middle of the afterglow, when Randi kisses the center of his palm and says, *"You know she loves you, right?"* and catches his face softening before dropping the hammer: *"She's not the only one in love."* Notice she doesn't even say *you're in love with her*—she leaves the sentence wide open so it means *you, and me, and her*, all three of them caught in the trap they built. And *that* is what gets him hard inside her all over again! The ending—with their combined wetness spilling out of her, both of them laughing (*"Subtle"* / *"Elegant"*), and Randi going down to lick the mess of both of them off his thighs and stomach and cock until he's hard again so she can kiss it back into his mouth—was filthy, funny, intimate, and devastating all at once.
 
-Vee is literally lying in her bunk, fingers shining with her own wetness, wondering what *Randi's* wetness looks like and what it looks like on Randi's fingers or mouth! The line between "I want to be brave like Randi" and "I am thinking about Randi's wet fingers while I touch myself" has completely dissolved, even if Vee still hasn't named what's happening to her.
+Also: Vee's nightmare over Christmas break was that Pace was sleeping with "Sheri" in his bed while they were apart. Meanwhile, now that Vee and Pace are back together and he just introduced himself six times as *"Vee's boyfriend"* on Wednesday night, he is in bed with *Randi* on Thursday night! If Vee walks into his house this weekend and finds one hair, or smells Randi, or realizes the cream cashmere blanket is hers... I can hardly breathe thinking about when these three collide.
 
-I also loved that she *couldn't* quite close the distance to her mouth yet. It felt so psychologically true. Twenty years of installed shame doesn't vanish in one night just because your friend said it was hot over wine. Stopping a breath's width away, wiping her hand on the sheet, coming hard with her mouth open in the hothouse air of the shut room, and then having to get up and shove the window back open before Cassie comes home from the basketball game—only to lie back down, find the cool wet patch on the sheet, settle her hip directly over her own mess, and end on:
-
-> *A mouth carrying it back. Or Randi's own fingers.*
-> ...
-> *Her mouth was still empty.*
-
-That last line! *Her mouth was still empty.* That is a promise. She didn't cross the line tonight alone in the dark, which means that line is still waiting to be crossed—with Pace, or with Randi, or both.
-
-GATE 60 — The Reach
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the exact blend of explicit, unblinking eroticism and deep psychological interiority I read for—watching Vee confront her own body's "excess" and nearly taste herself while her thoughts braid Pace's mouth together with Randi's wet fingers was mesmerizing. And the restraint of having her stop one breath short leaves that tension coiled tight for what comes next.
+WHY: Placing this scene on the exact same Thursday night that Vee left the restaurant and tried to taste herself in her dorm room is pure structural genius. The explicitness has real emotional weight behind every touch, the dialogue between Randi and Pace crackles with history and shared longing for Vee, and *"She's not the only one in love"* turned the heat all the way into heartbreak and back again.

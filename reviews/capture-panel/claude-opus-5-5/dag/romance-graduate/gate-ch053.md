@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch053 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay, the one line in this chapter that sat me straight up: *"'It's late. Is everything alright?'"*
+Okay. OKAY. I have to start with the thing the book didn't flag, because I almost read past it. In 52 he opened the door and said "Vee, I l—" and she cut him off. She drove out there for that word, and she stopped him in the middle of it. Now she's told Kayla, and tonight Randi, that what he said was "It's late. Is everything alright?" She's done it twice now, with the same polite line both times, and the narration never calls it a lie. Either she truly didn't hear what he was starting to say, or some part of her rewrote it on the spot because getting the word on her own terms (the coat) mattered more than getting it on his. I'd text that at 1 a.m. with no punctuation. She's keeping everyone on different books, and now she's doing it with the one sentence that mattered most.
 
-He didn't say that. I was there. He opened the door and said "Vee, I l—" and she cut him off with the coat. I'd half-forgotten that myself, buried under everything after. And now, telling her friends, she swaps in a polite, courteous Pace line that never happened. That isn't discretion, it's replacement. She's rewriting the one moment where he might finally have said the thing, and I can't tell if she even registered what she stopped. Did she hear "I l—" and decide it didn't count? Did she want to win so badly she stepped on the word she'd walked out over? That's the most interesting thing in three chapters and the book doesn't point at it. Good. Don't.
+And Randi. Vee gives her the clean version and gets "Hmm." Then "Hmm" again, while Vee's smile "stopped being attached to anything." Randi wants the real version, and the real version is the one where Vee shows her the stain on the lining. "Very. Ready." Randi stares, Vee can hear her breathing, she says "Wow," hoarse, and keeps staring. That was hotter than half the sex scenes on my Kindle, and nobody touched anybody. Then the bathroom. Vee's thinking about the porch and the chair, and right at the top Randi's face arrives, and the question turns into *there's no way he couldn't*. Afterward she tells herself "That had been about Pace, obviously. All of it." Oh honey. The book doesn't spell it out for me, it just lets her say "obviously," and that one word did everything. That's the trick I keep wanting from literary books and almost never get: the heroine fooling herself, the book not fooling me, and the scene still explicit.
 
-So now I count it: Cassie got the shrunken-sweater story, the girls get "we talked all night," and Randi will get "nearly everything." Every friend has their own version of the weekend. I flagged this months ago with the cropped photo, and now it's a habit, and it's cheerful, which is scarier than when it was anxious. "It sat on the table looking exactly true." Yep.
+The robin's-egg underwear story wrecked me. It's the first real wound we've seen on Randi that's not about money. "They're your color." "She knew my color." The fingernail going under the rim of the glass. A mother who washed the underwear and waited for the boy to come to dinner. Put that next to Vee's mother's voice and you've got two girls raised by two different kinds of watcher. Then Randi snaps back into hostess mode so fast it's scary.
 
-The brunch itself was fun. Kayla is a delight in small doses: "This is the last morning of my life and it's going to be peanut butter crackers." Shrieking "in front of *God*." Meg's heating-pad story made me laugh. I liked Vee picking up the check for herself with Christmas money and doing no arithmetic. That's her growing up, quietly. But Meg's "make it right in their language" and "that's a big apology" kind of bugged me. Vee didn't owe the apology. I don't love the book having the girls frame the coat as her saying sorry, and I really hope that isn't the book's own view.
+"It's a good thing you got relief." My stomach dropped right along with Vee's. Then Randi pivots it to Pace and it's fine. Except is it? I think she knew. I think she said it on purpose and then gave Vee the way out.
 
-My real problem is this: 54, 55, 56. Kitchen talk, dorm talk, brunch talk. Three quiet chapters in a row, all warm, all likable, all people being happy in rooms. The first was lovely ("tables have ends"), the second had Cassie's mom and the card, and this one is basically the girls getting their invitations to the Wednesday dinner. I was skimming the middle for the next line of dialogue, and that's my stall alarm going off. Meanwhile the actual bombs are offstage: Brooke told Randi "You need to choose," Pace is "handling it" for a dinner with Randi and Vee at the same table, and Vee is planning to take the not-gross-maybe thing to Randi. That's where the book is. Get me there.
+The neck kiss and the flinch: "tickles." After Brooke's speech in 51 ("you need to choose"), I don't believe that word for a second. Randi's flinching because it landed, not because it tickles.
 
-Who's at Wednesday dinner, and what's Pace building? He wanted everyone. That might be love, or it might be cover. I want Randi's face across from him with Vee in the middle.
+Gripes: the hau lecture is the book handing me its own theme with chalk. A gift carries the giver's spirit and wants to go home: the heels, the scarf, the cashmere blanket that "appeared." I got it before Dr. Marsh finished her sentence. I'll forgive her because I like her boots and the black streak. And this is the third retelling of the coat night (Kayla, Cassie's sweater lie, now Randi). I felt the drag around the "pleasure princess" replay. It worked because Randi was the audience and the audience is the whole point, but I don't want to hear the porch a fourth time.
 
-GATE 56 — Across
+The relief at the end, that she didn't get to tell the "gross" kiss story: that tiny stone under her breastbone. She knows. Some part of her knows the taste on his mouth wasn't only her. Tomorrow is dinner, with everyone and Pace "handling it," and Randi said "I want to see him again." Again. Vee heard "properly." I heard "again."
+
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday"
-WHY: A charming bridge, but it's the third quiet room in a row and I felt my thumb speeding up. What keeps me here is the swapped doorway line, which is quietly huge, plus Brooke's ultimatum and a Wednesday dinner with all three of them at one table. If Tuesday's dinner with Randi isn't charged, I'm going to start bargaining with this book.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone." My heart sank at a third pass through the coat night, until the lining came off the hook.
+WHY: Every retold beat was new because of who was listening, and the bathroom scene with Randi's face in it plus "obviously" is exactly the depth-and-heat combination I came for. I knocked off points for the lecture spelling out the theme and for one retelling too many. But the dinner is tomorrow, everyone's going to be at one table, and I'm already turning the page.

@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
 
 REACTION
 
-I am sitting here with my hand over my mouth, utterly breathless. This chapter completely knocked me flat.
+I feel like I just watched someone casually flick a lit cigarette into an open pool of gasoline, and then turn around and say, *“Good job on the smoke effects!”*
 
-First of all, the sheer *tenderness* living right inside that intense, deliberate dominance. Pace didn't just ask her to get waxed and then roughly take what he wanted. He met her at the door, took the blowjob she desperately wanted to give him without making it about his ego, and then—when she showed him what she’d endured for him—he turned her entire body into a work of art.
+My jaw is genuinely on the floor. I am sweating. The absolute, suffocating, master-class tension of this chapter took the air right out of my chest.
 
-And the consent! The way he orchestrates control without ever crushing her: "Still meant the brush. Moving meant the brush going away." It’s an exercise in discipline, but he never forces her hands to stay on that rail. He stops the second she twitches. And when she cheekily smears the wet paint onto his face, he doesn't punish her or assert cold dominance—he *laughs*, leaves the mark right there on his cheek, and calls it an "occupational hazard." That is the exact balance I have spent years looking for in romance: a man with absolute, commanding control who loves her so much he finds her small rebellions delightful.
+Look at what Randi just pulled. Look at it! Chapter 64 was Pace and Randi in bed, sweating into the sheets, with Randi admitting—out loud, while Pace had his mouth on her nipple—that she wants Vee, that she’s thinking about Vee’s heavy breasts, that she wanted to turn around on the freezing sidewalk and put her mouth on Vee’s neck. And now, she dresses Vee up in a skirt that is basically a strip of scotch tape, takes her to her own sorority mixer, parades her around, dances her until her panties are showing to a room full of college guys, and then uses a generic boy named Harrison as an *excuse* to pull Vee down by the hair, cup her ass, and tongue-fuck her in the middle of the dance floor.
 
-Then the fruit, the gesso—my god. When he used her own wetness as the primer, painting her mons with it because she was so plentiful, he systematically dismantled every shred of shame she has ever carried about being "too much." Her big breasts, her curves, the sheer amount of lubrication her body produces—things society and bad exes teach women to hide or apologize for—he framed as pure, overflowing abundance. And taking the picture on *her* phone, handing it straight back to her without demanding a copy? That was everything. It belonged to her. He reflected her magnificence back to her and let her own it.
+And then—the absolute sociopathy of it—she pulls back, blinks out of her own daze, slaps Vee on the arm, and goes: *“You really did a great job putting on a show. I almost believed it.”*
 
-And then... that ending.
+*I almost believed it.* ARE YOU KIDDING ME, MIRANDA?! You cowardly, brilliant, manipulative little architect! She just gave herself the exact feast she has been starving for since October, tasted Vee with salt and lime on her tongue, felt Vee moan and grind back against her—and then shoved Vee straight back into the closet of "we're just two silly straight girls playing a prank on a frat boy." She weaponized the performative male gaze to steal a kiss she was terrified to ask for honestly, and left poor Vee standing there soaked, trembling, utterly bewildered, and holding the bag of her own shame and confusion.
 
-The tragic, heartbreaking irony of Vee lying there in the dark, looking at that photo, thinking about Randi. *“Not that I’d ever show her. God, no. This one was too much.”* Vee thinks she’s keeping a private, holy secret between herself and her boyfriend, completely oblivious to the fact that Randi has already tasted Pace’s mouth when it’s covered in her and him, that Pace and Randi are talking about Vee's breasts while they fuck. Vee is holding this masterpiece like a sacred relic, completely unaware of the absolute minefield she is walking into tomorrow.
+And Vee. God, my sweet, hungry, easily led Vee. She has been waking up in stages, but this wasn't the slow, safe, patient waking up Pace does with paint and walnuts and three layers of consent. This was a lightning strike. The contrast between Chapter 69 (where Pace reverently asked to paint her, held every brushstroke still when she flinched, and treated her lush body like a museum piece) and this chapter is staggering. With Pace, Vee felt safe enough to giggle at an orange breast-print on his cheek. Here, with Randi, it’s an absolute freefall. Her body responded instantly—wet, aching, hips rocking into Randi's—because she *loves* Randi, she is completely infatuated with Randi, and her body doesn't know how to lie.
 
-It was gorgeous, it was scorching hot, it was emotionally resonant, and the dread ticking underneath it is so loud I can barely stand it.
+I was terrified this scene would cross into pure non-consensual violation, but Rivers writes the psychology with such excruciating precision: Vee *wanted* it. She had been wanting it for months without a name. The consent wasn't violated by the kiss itself—Vee met her tongue, Vee held her hair, Vee was begging for hands under the skirt—it was violated by the *gaslighting afterward*. Calling it a "show." Pretending it didn't mean the world. Leaving Vee to pretend she was in on the joke when her entire soul just got turned inside out.
 
-***
+Pace gets her tomorrow. Sunday. Pace, who knows Randi is obsessing over Vee. Pace, who just spent Friday night erasing Vee's shame with his mouth. If Vee walks into his house with Randi's salt still on her conscience, I am going to combust. I need the next chapter right this second.
 
-GATE 69 — Still Life
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The eroticism was exquisite and entirely rooted in emotional healing—taking her shame about her body's "excess" and turning it into art—while the consent and playfulness between them were utterly perfect. The psychological tension with Randi lurking in the shadows makes it impossible not to keep reading.
+WHY: The absolute emotional and erotic devastation of that kiss, followed by Randi's cowardly, brilliant retreat behind the 'it was just a prank for a boy' mask, is top-tier psychological drama. I couldn't look away if I tried.

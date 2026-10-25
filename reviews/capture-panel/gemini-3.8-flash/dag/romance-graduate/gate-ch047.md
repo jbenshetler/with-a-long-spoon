@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
-REACTION
+REACTION:
 
-God, finally. Finally the pristine, calculated surface of Peter "Pace" cracks, and it’s ugly and pathetic and entirely earned.
+*Holy shit.* My jaw is actually on the floor.
 
-Watching him sit across from Sheri—who is absolute gold in this chapter, stripping every ounce of pretension right off him—was delicious. Sheri calling him out on his self-righteous code and his "philosophy of food" made me want to cheer. She laid it out with total country clarity: if you can't say the words, you don't actually get to keep the girl, and hiding behind your noble silence just makes you a coward. He needed someone to shove that mirror in his face.
+First of all: Vee taking Randi’s face in BOTH hands and kissing her in the sorority foyer—not a sweet little cheek peck, but staying until Randi’s breath stopped against her mouth and Randi gripped the back of her coat? *Finally.* The sheer, agonizing dramatic irony of Vee thinking she’s just giving an overflow of sisterly gratitude, while Randi is left standing alone in the dark putting the back of her hand to her mouth like an enraptured fifteen-year-old? I felt that straight through my chest. Randi laughing that “short idiotic sound” in the empty hallway because Vee *came back for her*—god, the pining is immaculate.
 
-And then the descent into New Year's Eve alone. For forty chapters this man has been a walking architectural blueprint of control—cooking exact meals, pacing sex like a metronome, orchestrating threesome fantasies while keeping his emotional ledger balanced to zero. To see him get blackout drunk on whiskey, throw up all over his pristine bathroom, and wake up on New Year’s Day with the smell of bleach and boiled chicken… I needed that. It drags him down into the dirt where Vee has been suffering alone in her twin bed.
+And then Brooke. *Brooke.* That scene in the kitchen made the hair on my arms stand up. That wasn't just sorority house politics; that was a velvet-gloved execution. "Play all you want, privately, or for the boys... The day he thinks it's true—" and bringing up Lauren Pike like a ghost story? The social terror in that house is so real and suffocating. You can perform bisexuality for fraternity boys, but the second it’s genuine, soft, and between women, you are toxic waste to the brand. Randi is caught in an absolute vise: her family money is built on fraud, her sorority status is hanging by a thread under Brooke’s surveillance, and she is hopelessly, desperately in love with a girl who just kissed her and then immediately walked out the door to throw herself naked at another man.
 
-The reveal of Daphne finally explains the pathology behind the fortress. He convinced himself that withholding the three words was a magical shield against heartbreak. It’s an incredibly human, deeply stupid piece of emotional baggage, and recognizing that he gave Vee the "smaller truth" because he was plain terrified makes him so much more compelling than just a manipulative villain.
+Which brings me to the plan itself. Randi sending Vee to Pace’s doorstep in literally nothing but an open coat and those fetishistic, strappy stilettos is so wildly fucked up and brilliant. On one hand, Randi is practically pimping Vee out to their shared lover, manipulating Vee’s shame and hunger into a physical surrender so Vee won’t demand the words Pace can't give. On the other hand, Randi is basically dressing Vee up in her own desire—giving Vee *her* shoes, imagining Vee naked under that coat, practically orchestrating the fantasy she wants to consume. And Vee, bless her, thinks Randi is just the best friend in the world, even while her body responds to the shoes with tightening nipples and a hot rush of arousal she doesn't even fully unpack.
 
-And yet—the audacity of this man! In the middle of crying over Vee and agonizing over his inability to say "I love you," he is *still* running the three-way scenario in his head. He's picturing Vee and Randi laughing together at his kitchen table in the morning sun. The arrogance hasn't fully burned out of him; he still thinks he can thread this impossible needle.
+Tonight is going to be an absolute powder keg. Pace sitting in his cold house after New Year's, and Vee showing up on his porch bare under a coat in Randi’s heels? Give it to me immediately.
 
-That ending hit like a truck. The sound of an engine on the road, that desperate, pathetic leap of hope in his chest, and then breaking down into dry heaves of sobs over a cold bowl of chicken and broccoli. He broke the rule, he broke her heart, and now he's choking on the silence he built.
+***
 
-GATE 50 — The Usual
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace finally got dismantled. Seeing him get sick, miserable, and completely broken down by his own cowardice gives the entire emotional arc the weight it was missing. I need to see what happens when school starts and these three collide again.
+WHY: The tension is coiled so tight it's vibrating. Vee kissing Randi on the mouth, Brooke's chilling, velvet-draped threat in the kitchen, and the sheer insanity of Vee driving to Pace's house naked under a coat in Randi's heels makes it physically impossible to put this book down.

@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 7220c1bbc1df · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · experiment merge-cropped · dated · 2026-10-25*
 
-REACTION — Oh, Cassie. She asks the question everyone else keeps arranging Vee not to ask, and then she accepts the answer without turning Vee’s uncertainty into an opening she can use. “Is it that you can’t say, or that you don’t want to?” That is such a clean, adult question. And Vee being grateful Cassie didn’t push while also wishing she had—yes. That’s exactly the loneliness of knowing something is wrong-shaped but not yet being able to make yourself look directly at it.
+REACTION
 
-The boyfriend with the audible question mark hurt. Vee has built her whole week and half her physical life around this man. She sleeps in his smell when she can’t sleep beside him. He made her a dress by hand because she once mentioned wanting one. Yet when she needs one ordinary word to carry him home, she has to borrow one she doesn’t know she’s allowed to use. His acts are beautiful, but I’m done letting their beauty excuse that absence. If he can make room in a drawer, replenish a shirt with his scent, and construct a dress around her body, he can tell her what she is to him.
+Oh, that hurt. She handed him *I love you* translated into the most Vee-shaped sentence imaginable—food, appetite, the whole life he has awakened in her—and he answered the part about what her body does. “I love how good we are together” is so close to the right sentence that for half a second it can pass as one, and then it opens underneath you. He loves the *how*. He loves the togetherness. He loves what happens. He still will not say that he loves *her*.
 
-And the cropping is everywhere. She crops the photograph for her parents. She gives her father only the facts that fit. She substitutes dancing for sex, “boyfriend” for the unnamed thing, gifted dress for a love object Pace built with his own hands. None of that makes her dishonest in some ugly way; families get edited versions. But she is also living inside a cropped version herself. Pace and Randi possess the uncropped picture of her life, and Vee is the only one who cannot see beyond the frame.
+And I don’t believe it went past him. I can’t. The stopped hand, the two breaths, the two abandoned responses: he understood. Maybe he was frightened, maybe he has some private rule as rigid as hers, maybe the word is tangled up with whatever happened in his family—but he understood what she had placed in his hands and deliberately gave her a cropped answer. Warm, tender, true as far as it went, and missing exactly the part she needed. That is Pace all over: exquisite care inside the boundary he has chosen, and silence where answering fully would cost him control.
 
-The weight loss is no longer a sensual little side effect I can ignore. Her mother is a nurse, watched her eat, sat on the bed, and asked whether she was making herself sick. Vee is eating plenty, yes, but “the amount of sex” is not enough of an answer for me anymore. Something is happening to her body at the same time that these relationships are consuming every available part of her life.
+The fact that Vee knows is almost a relief, even though it broke my heart. Her body caught the mismatch before she let herself name it. Then she did name it: not the same shape. And the pile of earlier flickers exists. She is not oblivious or stupid or simply intoxicated; she has been doing repair work to preserve the version of him she can live inside. That laundry-room realization frightened me more than a fight would have, because she has already decided she will never try again. She offered him her best sentence once, received warmth instead of an answer, and has now retired the need rather than risk hearing the truth.
 
-Also: Cassie absolutely sees that “too good is its own kind of suspicious,” even if Vee attributes the thought to her father. She doesn’t prosecute Pace. She just keeps putting precise questions where Vee can find them later. I trust her so much, and I’m frightened that Vee’s safest friendship is becoming the place where she brings only the cropped version.
+Also: Cassie asking “What is he—to you?” and then refusing to pry is exactly why I trust her. Vee was grateful and also wished she would push. Yes. Because some part of her wants someone to make the question unavoidable. She called Pace her boyfriend to her parents with a question mark in her voice, and he still has not given her even that small public word. She is cropping every version of her life for everyone: the photograph for her parents, Pace’s age and house and sewing for her father, the sex for her mother, the uncertainty for Cassie, *I love you* for Pace. And everyone receives a version that fits except Vee, who is left holding all the pieces.
+
+I would text a friend: HE HEARD HER. TWO BREATHS. HE ABSOLUTELY HEARD HER AND SAID “I LOVE HOW GOOD WE ARE TOGETHER.” I am furious with him, and worse, I still believe he loves her. That is what makes this unbearable. He could feed her, clothe her, photograph her, make room for her, hold her until sunrise—and still leave her starving at the exact place where she finally asked to be fed.
 
 GATE 43 — Cropped
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it pressed directly on the missing word and made the title cut in several directions at once. I need the next chapter because Vee has finally heard herself put a question mark after “boyfriend,” and I don’t think she can entirely unhear it.
+WHY: This is exactly the grown-up emotional damage I came for: no fake misunderstanding, no missing text, just two intelligent people building protective sentences around the words they cannot risk. Vee has finally felt the crop in Pace’s love, and I need to know whether she keeps filing that knowledge away or finally trusts it.

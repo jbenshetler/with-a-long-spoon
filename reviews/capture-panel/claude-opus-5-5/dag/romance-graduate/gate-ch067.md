@@ -1,22 +1,34 @@
-*capture-dag-v2-rich · gate ch067 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch067 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9fa65f2a939b · dated · 2026-10-24*
 
 **REACTION**
 
-Two pages. I actually flipped back to check I hadn't skipped something. Then I sat there holding the phone and thought: oh, she's doing this on purpose.
+Okay. OKAY. This is the chapter I asked for: two bodies in a room. It turns out the room was a booth, and the second body was mostly a foot in sheer nylon.
 
-Because Cassie asked the question. My notes have literally been begging for someone in a room to say a true thing out loud, and the someone turns out to be the roommate in her coat, with no wine, no booth and no jukebox. Cassie doesn't ask what happened, and she doesn't ask what Randi is to her. She asks "Is this what you want?" That's the exact question every chapter since the dance has been circling with its eyes closed. What got me is that Vee actually *goes and looks* for the answer, comes up against "the edge of it," and steps back before she can see how big it is. That's the most honest Vee has been since the porch, and she still doesn't get there. Her neck said yes. Of course her neck said yes. Randi put her mouth exactly where Vee had put hers and asked "How do you like it?" I'm still mad about that line, in a good way.
+I nearly sighed at the opening. Another closet, another mirror, and I'd told myself I'd skim those. But this one had a point. She dressed down for Randi, buttoned to the collarbone like she was meeting somebody's parents, and the chapter spent the next hour taking that armor apart without a single button coming undone. The crewneck stayed on the whole time and it didn't help her at all. I loved that.
 
-Then she reaches for the sorority fight, the one they'd agreed never to run again, and Cassie just steps over it. Doesn't take the bait, doesn't defend herself. And then: "Do you want some of my Cocoa Pebbles?" I laughed out loud and then felt a little teary, which is embarrassing over cereal. Cassie is the only person in this whole book who wants nothing from Vee. Pace is collecting her confessions inch by inch, Randi is collecting her full stop, and Brooke is collecting everybody. Cassie notices she skipped dinner. "A want the size of a bowl." That's the line I'd text someone at 1 a.m.
+I laughed at the feet-pics story. It's a great bit, and it's also Randi warming up the room. Then "Barely stings." "You left that part out." "I did." She isn't sorry, and "it was lovely on her." I'd been holding that roll-over omission as a possible move, and Randi just owned it with a smile. Kindness and move turn out to be the same thing with her.
 
-Small gripes. "That was the whole trouble of it" is the second "whole trouble" in two chapters. And the chapter half-explains its own ending ("that was the size of what she could answer tonight"), when the cereal box had already said it. Trust me, I got it. The opening paragraph also mostly re-runs the last page of 69. If I hadn't just read 69 I'd have enjoyed the recap. Since I had, it felt like the book clearing its throat.
+Then Vee tells her about the painting. My notes say she wouldn't tell Randi about this one, and she tells her all of it. That wall I was waiting for never went up. It came down in one brunch, and Vee gave her reasons: a friend would just hand it over, and refusing would *mean* something. That's the most heartbreaking logic in the book so far. She hands over the most naked picture of herself that exists specifically to prove it means nothing.
 
-On the two-page chapter thing: I don't have a verdict yet. As a beat after the 67–68 bomb and the long wired interior of 69, it plays like a held breath, and it lands. But this is the second quiet chapter in a row. It's a tiny one, so I'm not docking much, but I'm counting. Saturday brunch is set up, Randi is off "disciplining a bad girl" at standards committee on Thursday (Brooke's hand all over that), and Pace has watched Vee tell him her first lie. The next chapter needs to put two bodies in a room. And I'm now quietly certain Cassie saw the neck.
+The foot. Randi slides down in the booth and presses her toes right against the "skin in question," and Vee catches it in both hands and can't let go, "to let go now would be to make something of it." Then her thumb is stroking the arch while she says "Into me." That was the hottest thing in the chapter for me, hotter than the photo, and they're in a restaurant at noon. "Was it a soft brush?" Randi is drinking this, and Vee thinks it's girl talk.
 
-GATE 70 — Some of Mine
+"I thought you said no to that." "If it doesn't mean no anymore, honey, maybe you should tell him." And Randi's mouth curving when Vee describes Pace wiping it off with the sheet. I'm now nearly certain that wipe was never only courtesy. Whether he's being careful or following instructions, Randi knows exactly why that mouth gets wiped and hers doesn't. She's steering Vee toward her own taste, step by step, and that road ends at Randi's mouth. Vee got there by herself in the ladies' room.
+
+The bathroom scene was peak for me, explicit and in her head the whole way. Pace wipes it "every time she ran it back," and then a dark curtain, a lip line drawn a hair outside the lip, the mouth not wiping anything. "*what would Randi taste like*" and her knees go. That's the book doing exactly what I came for: you can't separate the heat from the self-knowledge. The aftermath was gorgeous too. She washes her hands, smells them, washes them again, and patches her face with a paper towel.
+
+Then the phone. Randi was alone with it the whole time, screen still lit when Vee came back. My 1 a.m. text: "SHE HAD THE PHONE FOR TEN MINUTES. DID SHE SEND IT TO HERSELF. TO PACE." Even if she didn't, those glassy eyes. I believe that was grief. Randi is in love with her and just sat ten feet from her while Vee went off to come over a picture Randi was holding. Vee reads it as disapproval. I read it as a woman who's starving too. Her folder was already signed.
+
+The kiss, redone. "Let me say goodbye right." Vee's hands closing on her coat. Randi's breath isn't steady, and Vee decides she "must have been worried." Oh, honey. Then "You have a boyfriend," said to the windshield. I was wrecked.
+
+Gripes, short: "sex pervert" and "sex brain" are a bit juvenile, though they're in Vee's voice. There are more scenes I don't remember: "when you asked me about the taste," and "a sink under a blue light." "Miss November" landed anyway. And the retelling of the painting is a booth retelling, but it earned its place because the audience is the point.
+
+---
+
+GATE 71 — Gesso
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." It's the opening rehash, a second chapter starting in the same doorway, and for a second I thought it was going to be another whole interior chapter.
-WHY: It's tiny and it doesn't move the plot, but it finally lets someone ask Vee the real question to her face, and the cereal answer is one of the truest things the book has done. I want the next one now because I've had two quiet chapters and everything I'm waiting for (Saturday brunch, Thursday's standards committee, Pace and the lie) is right there.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "*Randi is your friend,* she told herself. *Don't be a sex pervert.*" For a line I thought it was going to be another getting-dressed opening.
+WHY: This is the book at full power: heat and interiority fused, with a clothed restaurant scene hotter than most of my Kindle. The redone goodbye kiss and Randi's glassy eyes over the phone turned the bond for both of them. I need to know what Randi did with that phone, and what Pace hears about it Thursday.

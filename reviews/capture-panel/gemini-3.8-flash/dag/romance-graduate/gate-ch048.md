@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha dd5e714ddb25 · dated · 2026-10-24*
 
 REACTION:
 
-*Holy shit.* My jaw is actually on the floor.
+Oh, god. My chest is in knots. That was phenomenal, completely electric, and simultaneously tragic in a way that made my stomach drop.
 
-First of all: Vee taking Randi’s face in BOTH hands and kissing her in the sorority foyer—not a sweet little cheek peck, but staying until Randi’s breath stopped against her mouth and Randi gripped the back of her coat? *Finally.* The sheer, agonizing dramatic irony of Vee thinking she’s just giving an overflow of sisterly gratitude, while Randi is left standing alone in the dark putting the back of her hand to her mouth like an enraptured fifteen-year-old? I felt that straight through my chest. Randi laughing that “short idiotic sound” in the empty hallway because Vee *came back for her*—god, the pining is immaculate.
+The build-up to this was absolute perfection. Vee in her room, facing down her own conditioning—the sheer psychological hurdles of putting on the shoes first, leaving the bra behind, touching herself in the mirror to prime the engine and then *denying* herself the release so she can carry it like live ammunition out into the cold. That is such sophisticated, filthy, character-driven erotica. And then the car ride! Touching herself on a pitch-black county road, the sheer reckless momentum of it, getting terrified by the passing police cruiser, soaking the satin lining of her church coat—it was so vivid and dirty and true.
 
-And then Brooke. *Brooke.* That scene in the kitchen made the hair on my arms stand up. That wasn't just sorority house politics; that was a velvet-gloved execution. "Play all you want, privately, or for the boys... The day he thinks it's true—" and bringing up Lauren Pike like a ghost story? The social terror in that house is so real and suffocating. You can perform bisexuality for fraternity boys, but the second it’s genuine, soft, and between women, you are toxic waste to the brand. Randi is caught in an absolute vise: her family money is built on fraud, her sorority status is hanging by a thread under Brooke’s surveillance, and she is hopelessly, desperately in love with a girl who just kissed her and then immediately walked out the door to throw herself naked at another man.
+And then the doorstep. Pace opening the door with "Vee, I l—" right on the edge of his mouth, and she cuts him off by opening the coat. *God.* The irony of it is so sharp it bleeds: he was actually about to try and say it, or start to say it, and she silenced him with the exact currency she thought was the only thing that worked. The sex on the freezing porch, him dropping to his knees on the cold wood while her nipples are stinging wet in the January air, the frantic, graceless carry to the couch with his jeans around his knees—it was hungry, frantic, and peak heat.
 
-Which brings me to the plan itself. Randi sending Vee to Pace’s doorstep in literally nothing but an open coat and those fetishistic, strappy stilettos is so wildly fucked up and brilliant. On one hand, Randi is practically pimping Vee out to their shared lover, manipulating Vee’s shame and hunger into a physical surrender so Vee won’t demand the words Pace can't give. On the other hand, Randi is basically dressing Vee up in her own desire—giving Vee *her* shoes, imagining Vee naked under that coat, practically orchestrating the fantasy she wants to consume. And Vee, bless her, thinks Randi is just the best friend in the world, even while her body responds to the shoes with tightening nipples and a hot rush of arousal she doesn't even fully unpack.
+And then the emotional comedown, which hurt almost as much as it comforted. Him making her midnight scratch pancakes, the domestic ritual that is his actual love language, and going down on his knee to say he missed her and never meant to hurt her. She feels completely victorious. She thinks she solved the puzzle. She walked in naked, gave up the words, and won him back.
 
-Tonight is going to be an absolute powder keg. Pace sitting in his cold house after New Year's, and Vee showing up on his porch bare under a coat in Randi’s heels? Give it to me immediately.
+Except... she gave up her spine to do it. Randi handed her those heels and told her to bypass the words, and Vee did exactly that. She went back on his terms. She traded daylight and commitment for scratch-made pancakes, an apology that still didn't name what they are, and the thrill of being his dirty secret again. And Randi is orchestrating all of it. Coming back into that room on Sunday night in his rolled-up sweats and Randi's dominatrix heels under Cassie's razor-sharp eyebrow? Cassie knows. Cassie clocked the whole pathetic, glorious mess in one second flat. I am breathless, I am dying for the fallout, and I cannot turn these pages fast enough.
 
 ***
 
-GATE 51 — My Friend Randi
+GATE 52 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it's vibrating. Vee kissing Randi on the mouth, Brooke's chilling, velvet-draped threat in the kitchen, and the sheer insanity of Vee driving to Pace's house naked under a coat in Randi's heels makes it physically impossible to put this book down.
+WHY: The tension from the mirror to the dark highway to that freezing porch was absolute perfection, mixing raw physical heat with deep emotional compromise. She won him back by giving up her own terms, and watching that collision loom is totally addictive.

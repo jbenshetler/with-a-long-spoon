@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · dated · 2026-10-24*
 
-**REACTION**
+REACTION:
 
-Oh, that made my stomach drop. That made me physically cold.
+Oh, god. This hurt. This one got under my ribs and twisted.
 
-Look at what he did. Look at the absolute, terrifying calculation in his response. Vee offered him her whole throat—she gave him the most poetic, tender, vulnerable metaphor for how completely he has saved and transformed her soul (*"I had been eating crackers my whole life... And you fed me a meal"*), practically begging him without the words to say *I love you*. And what does the architect do? He pauses, measures the load-bearing capacity of the wall, and counters with: *"I love how good we are together... What your body does—I've never."*
+Because we’ve all been her in that Chili's booth. Every woman who has ever loved a man who is keeping her in a beautiful, gilded terrarium has sat across a table like that, ordering the stupid, messy food from before she met him, trying desperately to prove that they exist in the daylight, under the fluorescent bulbs, among the screaming TVs and the sticky menus. And watching him disintegrate under the sensory overload—his hands obsessively squaring the fork, his eyes darting to the screen, that tiny flash of irritation—and having her stomach plummet because she thinks *he is ashamed of me. He only wants me in the dark.*
 
-He reduced her soul-baring confession to sexual compatibility. He heard her reach for love, panicked or calculated his boundaries, and shoved it immediately, neatly back into the physical box. *Your body.* Not *you*. And the worst part—the part that makes this book so devastatingly good—is that Vee felt it. Her body clocked the deflection before her brain could even process the math of it. That small "wait" behind her breastbone. That cold little realization in the laundry room two days later that their sentences weren't the same shape.
+And his explanation is so brilliantly, deviously, devastatingly *Pace*. "In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now." It is the most beautiful, seductive poison a man could ever pour into an insecure girl's ear. It completely disarms her. It makes her feel small for picking the fight, makes her feel like *she's* the one who doesn't appreciate the cathedral he's built for them, and hands her the fake moral high ground of "forgiving" him so she can crawl back into his bed and let him obliterate her with his mouth.
 
-The tragedy of Vee is that she has already built a closet inside herself where she stacks all the little discrepancies—the things that need "repair work" so she can keep loving him. And she just filed this massive, heartbreaking rejection right on top of the pile. "She had been received warmly." The title drop hit like a slap to the face. The jacket warned us: *A warm reception is also what you call walking into fire.* She is burning, and she's telling herself it's just the heat of the quilt.
+And the sex! God, the sex had teeth this time. It wasn't just his usual courtly, almost clinical worship. Vee *wanted* the control to snap. She was practically begging for him to stop being so goddamn patient, stop curating her orgasms like a gourmet tasting menu, and just *take* her. And when he finally broke—when he lost that architectural restraint, shoving into her and coming undone, shaking and desperate—it was electric. But the morning after... Jesus. The crash back to reality.
 
-This was quiet, but it was easily one of the most brutal emotional chapters in the entire book. He won't give her the word. He won't even meet her halfway with a metaphor. He just holds her down in the physical until the sun comes up and she stops asking. God, the fallout is going to destroy her.
+Lying in the dark, sticky with his come, completely hollowed out because she realizes that even with his control shattered, even with his face buried in her neck shaking with his own release, he *still didn't say the word*. He gave her his body, his house, his food, his patience, his breakdown, and not a single inch of public certainty. "He'd given her all of it and not the name." That line hit like a slap.
 
-***
+The tragedy is so thick I could choke on it. She’s lying there agonizing over whether "boyfriend" is too small a word, wondering how to explain him to her dad, completely blind to the fact that she's not his secret girlfriend—she's his and Randi's shared project. The clock is ticking so loudly now. She’s suffocating inside the trap, and she doesn't even know the door is locked from the outside.
 
-**GATE 44 — Seconds**
-**DECISION:** CONTINUE
-**CAPTURE:** 9
-**NEXT:** 10
-**HEAT:** 1
-**ROMANCE:** 3
-**ALMOST-STOPPED:** none
-**WHY:** The emotional psychological knife-work here is breathtaking; watching Pace deliberately deflect her love confession into physical praise made my chest ache. Vee's gut instinct sounding the alarm while she forces herself to ignore it is masterclass character work, and I need the next chapter immediately.
+GATE 45 — Under the Rug
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The absolute psychological precision of that Chili's scene broke my heart, and the sex finally had the desperate, raw friction I've been waiting for. Watching her lie in the dark realizing that incredible sex and domestic reverence still leave her completely nameless and alone is top-tier emotional gut-punching. I need the fallout immediately.

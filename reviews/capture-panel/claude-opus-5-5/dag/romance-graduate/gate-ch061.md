@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. First, the thing I'm annoyed about. This is the booth again, the jukebox with the green water again, and Vee telling the story again. I've now had the Sheri look three times in four chapters: lived in 62, told to Pace over eggs in 63, and told to Randi here, with the keyhole, the leg and the shoes in the same order every time. That is exactly the retelling I warned myself about. When she said "Start over and go slower" I nearly started skimming for dialogue.
+Okay. I came into this one with my arms crossed. My own notes say one more solo scene and I'm skimming, and here's Vee alone on a table, with Tuesday's booth dialogue pasted back in front of me *word for word*. "Oh, you're going to *love* it," Sondra, Draper Street, the fish eaten to the middle, the fork laid across it. I read all of that four days ago, book-time and real-time. That's where my thumb went to the corner of the screen. The book doesn't trust me to remember a conversation from the last chapter, and that's the explaining-itself thing I hate.
 
-What kept me in my seat was 61. That chapter rewired how I read this one. I now know Randi lay on top of Pace two nights before Sheri and said "her breast in my hand… all that softness." So when Vee gets to "she was enjoying herself" and Randi's thumb stops on the back of her hand, I felt it in my own hand. Then the flat "And you liked it," with none of the evening's music in it. That isn't a guard dog going back to her post. Randi is asking whether the door is open. Is a woman wanting Vee a thing Vee could want?
+Then Sondra said "Don't move" and I forgot I was annoyed.
 
-Vee says "No." Too fast, then patched: "Not my thing." On Sunday, in his robe, she told Pace "I liked it, honestly. Best thing that's happened to my legs in a Virginia January." So Pace gets yes, Randi gets no, and the person she's lying to is the one person who needed the yes. Then Vee reads Randi going still as protectiveness and feels warm about it. I wanted to reach into the page. Randi taking "I know she isn't, gorgeous" back on the chin is heartbreak on a delay. That two-line exchange was worth the whole chapter.
+That passage about the wrong hand is the best thing the book has done with Pace in a while, and he isn't even in the room. Her body "knew that grammar." A stranger's palm pins her exactly the way she's learned to want, with "everything true scooped out of the middle," and it opens "a hole in her a mile across where the right hand should have been." That's what I'm starving for. It isn't a sex scene and it's hotter than half the sex scenes I've read this year, because it's about *who* the hand belongs to. And she keeps it all behind her teeth "where it belonged to him." God. The girl who said sorry to furniture saying "*Fuck—*" out loud to a stranger. The mother's kitchen voice: *the kind of girl who.* The jeans folded over the underwear "where it couldn't be seen." That's a heroine with an inner life, every inch of it.
 
-The waxing: what? There was nothing about it in 63. I read that kitchen scene closely, and it was bread and "one friend" and her hugging him. So either it happened offstage or it's another continuity slip. Either way I'm suspicious. "In the voice he uses for facts." Randi has Sondra on Draper Street ready to go, "say my name in the first sentence," and "the whole week arranged in her eyes." Whose taste is this? Who's dressing her this time? I'll bet you money that what Pace wants is something he learned from Randi's body. And the bare-skin thing is coming on a Friday, which is a Pace night.
+And then the floor drops out: "Roll over for me, hon." I actually said "oh no" out loud. *The part Randi hadn't said.* Randi, who got Vee to say her name in the first sentence of the phone call. Randi, whose waxer this is, so Sondra knows Randi's body. Randi, who said "barely stings." Did she leave it out to spare her, or to have her arrive exactly this open? I don't trust a single omission from that woman anymore. And I'm side-eyeing Pace too. "I'd like you waxed. By the weekend. Bare." Since when does he have opinions about this, and whose body taught them to him? Chapter 61 is sitting in my head like a stone. I know what that bed looks like on Thursdays.
 
-The goodbye. The jacket's own line comes true: the goodbye kiss outlasts the goodbye. But what got me was that Vee turns her face up first, eyes already closed, waiting for the hand. She's the one asking. Her mouth goes to Randi's neck "in passing" and nobody says anything about it, not even "*Ticklish*" this time. The fact that neither of them says anything is the loudest thing in the chapter. And the last line, "She had that one cold," made me grin. She didn't write that one down. She's memorizing Randi.
+What gutted me in a quieter way was the "yes" paragraph. She fills the place where the reason should be "every time, with *yes, yes, tell me when*," and she's already "so far past every line… another line seemed like a joke, a thing for a girl who had any lines left." That's the blurb's "daring itself becomes the thing she craves," and it's also a little frightening. I'm cheering her on and wincing at the same time. I'm worried she's handing over the steering wheel and calling it nerve.
 
-Small stuff I noticed. Randi stops eating halfway through her fish, and Vee nudges a gnocchi to the edge of her plate. The weight thread is still breathing. The coat goes on lining-to-the-wall, a habit she doesn't notice she has. And she kept the "one friend" story to herself, which tells me she can keep something of his.
+The ending landed: her own hand, a sound that was "not one of pain," and "the most expensive thing in the room, and no one in it knew but her." Now I have to watch him find out.
 
-GATE 64 — Between
+What I'd text a friend: *She got a Brazilian and it was the most erotic thing in 10 chapters and nobody touched her on purpose. Also Randi set her up, I'm sure of it.*
+
+GATE 65 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "So Vee went slower, and took her time with it, because the table was hers tonight and the story was good"
-WHY: This was one more retelling at the same booth, and the first half was all stuff I'd already heard. But the stopped thumb, "And you liked it," and the "No" Vee told Randi after telling Pace yes are the best small knife this book has used on me. I need Friday: Sondra, Pace, and whoever actually ordered the waxing.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: "Tuesday, up in the loft — the corner booth, the end of the red, the jukebox going somewhere slow below them…" It's the whole booth scene again, nearly verbatim, a chapter after I read it.
+WHY: A fourth solo/retelling-shaped chapter should have lost me. It didn't, because it's a new room, a stranger's hands, and the "wrong hand" passage is real desire with real interiority. I'm hungrier for the next chapter than I was absorbed in this one: I need Pace's hand finding her bare, and I need to know whether Randi's "barely stings" was a kindness or a move.

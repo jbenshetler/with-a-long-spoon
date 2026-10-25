@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
 **REACTION**
 
-Okay. I have to text someone about the blanket.
+I'm smiling, and I don't fully trust that I'm smiling.
 
-For most of this chapter I was purely happy, the kind of happy this whole genre had stopped giving me. She wakes up alone and gets one second of December panic, then remembers his voice saying "farmers market, sleep as long as you like." He set out the sweats and she leaves them folded. "Poor thing," she can't dress. The pleasure slave idea turning inside out halfway down the hall into "pleasure princess" made me laugh out loud, because that's the book answering my whole reading history in one shimmy. *Not kept for a man's pleasure. Kept in pleasure.* That's exactly what I left the mafia books looking for, and here she found it herself, barefoot, counting it off on her fingers.
+The kitchen is the reason I came to this book. She's naked on the chair he built and running on at his back, and he's got his sleeves rolled. Then he hands her own line about Kayla back to her, and remembers that her heel came up out of the right boot on the mountain. I melted at "Your heel came up out of the right one when you pushed off." That's the man I keep saying I want: attention as devotion, nothing performed, just kept. He's been storing her small news on a shelf all fall. "Believe what I do" finally looks like something here, because asking to meet her people is a doing that sounds a lot like the word.
 
-The toast burning. "I got mushrooms," level as a plank. "I can put the sweats on if you need to concentrate." "No," before she's finished. I adore him in this chapter. Then the bedroom. She runs the whole thing with one finger and he goes exactly where she points: wrist, arm, armpit, breast. The control is hers to give out, and his patience still gets to be his own. "Bad slave" was perfect, because the slow road is the thing she's begging for, and they both know the pointing is a game they're playing together. I was completely in it. Her wetness on the blanket, the shame and heat as "one arrival," him drinking it and holding her open, "nothing in them asked her to be any less." That's the book making me *feel* it, not watch it. HEAT is easy.
+Theo got me too. She braces for the jealous question and it never comes. "Bring Theo," and he reaches for the next pan. No possessiveness, no little test. Then she gets to look after him. The Chili's picture comes up on its own, the fork squared and squared again, and she gives him the choice of venue without making him ask. That's care going both ways, two people who've each learned something about the other. "Tables have ends. Somebody ends up at one" is very him, and so is her refusing to build a dinner where one of her people has to be a good sport. She's growing kinder and sharper at once.
 
-Then the kiss, and it matters to me that he did exactly the right thing. She says "gross, wrong," and he starts pulling out. She says "not that," and he reads which no is which. He wipes his mouth, says "Okay," doesn't sulk or explain, and leaves her mouth for her to come back to. That's the man I asked for. If the chapter had ended there I'd have called it the best one in the book.
+Here's what I'd text at 1 a.m.: why does he want Randi in a room with her? I know about the couch. I know about the quad. I know he's been picturing three people in his kitchen in the morning, adding to it for weeks, sheet and honey and feet up on the lacquered seat. And now he's asking for "her people," steering it big and casual so it doesn't read as a setup, and ending on "Let me handle it" with a happiness he won't let out. That could be a man who misses her and wants into her life. It could just as easily be him building the room. Probably both, and that's what scares me. With Vee everything he does is real care. The frame around it still isn't hers to see.
 
-But it doesn't end there. "He must have forgotten to wipe. This once." So he has *always* wiped, hundreds of times, carefully. "A faint edge of sharp and salt that had not been there this morning." Her tongue went looking before her mind could vote. And the last line has her planning to take the strange small thing to Randi, "Randi would know what to make of it." *Somebody has to get her used to my mouth.* I wrote that down as the ugliest sentence in the book, and now I'm watching it happen. He's been training her palate one careful wipe at a time, and today was either a slip or a step. I honestly can't tell which, and that scares me more than either answer would.
+And the word. She got her apology, the pancakes, his voice cracking on "I missed you so much." She didn't get "I love you," and she's stopped asking. He knows he loves her. He worked it out over the whiskey and Daphne. He still hasn't said it to her face. Going to her friends instead is lovely, and it's also a sidestep. I'm keeping count.
 
-And then the blanket. She spreads "the cream cashmere" over the foot of the bed as her own little gift to him, soaks it, pulls it up over them both, and thinks it's how he gives presents, no card, no thank-you. My notes have it from the night he drank alone: Randi's cashmere blanket, for the chill that takes her after, kept on the chair for her. Vee came three times on Randi's blanket and went to sleep under it thinking it was a love note. He let her think so, said nothing, the same as always. The heels are Randi's too, and the coat was Randi's idea. Every piece of this perfect morning has Randi's fingerprints on it, and Vee is glowing.
-
-Where I stand: I still believe him. "Okay," and leaving her mouth for her, is real consent and real care. He also still hasn't said the word. Last night he said he was sorry and he missed her, and she was "too full to want anything he hadn't given," which is lovely and also exactly how the word goes unsaid for another volume. I'm suspicious of the frame, not of the man in the bed. Vee's desire this chapter was hers from the inside, every bit of it. I just want her to get to know what she's lying on.
-
-1 a.m. text: *she slept under RANDI'S BLANKET and thinks it was a gift for her. also he's definitely been wiping his mouth on purpose for four months. I'm fine.*
-
-GATE 56 — Missed a Spot
+**GATE 57 — Back**
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: none. The closest I came to bristling was "He must have forgotten to wipe. This once," because it changed what the whole slow scene had been. It made me grab the book harder, not put it down.
-WHY: This is the consent I came for, tenderness and play with her running the show, and "Okay" said like she'd done something young and dear. Then the wipe, the salt and the blanket made me sure the room has a third person in it that Vee can't see. Tuesday dinner with Randi is next, and I'm not stopping before it.
+ALMOST-STOPPED: none
+WHY: A quiet kitchen chapter full of real attention. The boots, Kayla's line, "Bring Theo," and her looking after him over the noise are the tenderness I read for. I'm keener for the next chapter than this one held me, because "Let me handle it" sounds like Pace setting a table, and I need to see who's at it.

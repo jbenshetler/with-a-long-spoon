@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
 
-REACTION — Oh, this was scorching, and I am furious.
+REACTION — Oh, Sheri. I was braced right alongside Vee for the blonde, and then this tiny loud woman looked her slowly up and down with pure appreciation and blew the entire imaginary rival out of the room. Vee laughing before she could explain herself was exactly the release I needed. The jealousy didn’t vanish because Sheri failed to be beautiful enough to threaten her—it vanished because Sheri’s interest was candid, generous, and almost hilariously uncomplicated. She likes women. She likes Vee’s legs and breasts. She loves Pace without wanting to possess him. For once, every feeling at the table could simply be what it was.
 
-Pace and Randi know each other so well. The ease of her tasting herself from his mouth, turning him beneath her, accepting his lead and then deliberately taking command back—it is everything I want from dominance when consent is real. He pauses even after she says all right because he is reading her body, and she can tease him about showing off because she trusts what his control means. Then she places his hands beside him and moves under her own command, and he lets her. That is the exact physical language that keeps undoing me with Pace: control that makes room instead of taking room away.
+And Pace blushed. His ears went red because Sheri asked whether he gets to motorboat Vee’s breasts, and I am apparently expected to survive that. This controlled, grave man being teased by the one person licensed to make him squirm was so intimate in a completely different direction. I loved seeing him off duty. I loved that Vee recognized she was witnessing a version of him nobody else gets—not because Sheri owns something Vee lacks, but because friendship has its own history and permissions. Vee didn’t need to defeat that history to belong beside it.
 
-And Randi saying, “She’s not the only one in love” landed like a hand around my heart. She loves him too. He cannot deny it. There is a whole bond here that is tender, practiced, funny, and real—not merely two conspirators sharing Vee. The palm kiss especially got me. That was more intimate than half the sex.
+Then Sheri told her why she trusts him, and that was me finished. He found her when her family, church, and entire world had rejected her. He did not offer one false promise. He drove her home, arrived with coffee and donuts, fixed the things that made her home less safe, invited her riding, fed her, and stayed. That is the man I keep wanting Pace to be everywhere: not grand, not rescuing for applause, just absolutely present and exact about what he can honestly give. “He was there” is devastating because it is both so little and everything.
 
-But God, they are making Vee the third person in this bed without her knowledge. They are using her kisses, her body, her awakening desire as erotic material between them. “She looks at you, too.” “She kissed my neck again.” Pace asking where Randi wants to touch her, Randi describing Vee’s breast while he moves her—it is enormously hot, and it also made me feel almost sick, because Vee thinks these two have only just met. She tells Randi everything because she believes that room is safe. Pace and Randi then carry those confidences into bed and turn them into a shared fantasy.
+But now I’m carrying the new wound: Pace left home at sixteen after things went bad with his father, and Sheri has only those few words after two years. That explains nothing yet and changes the light around so much. His refusal to give false reassurance, his understanding of family loss that does not reverse, his care with locked doors and lit porches—it all has roots he still keeps buried. I want Vee to hear that history from him, not assemble him from what other women are permitted to reveal. Sheri did not betray much, but once again Vee has learned something essential about Pace from someone other than Pace.
 
-The most damning part is that neither of them doubts Vee’s desire. They are probably right about it. That still does not make this consent. Her wanting both of them is not permission for them to secretly build a sexual relationship around her. Randi wants Vee to know exactly what she does to her—but apparently not enough to tell her. Pace knows Vee loves him, loves her back, and still lets Randi be the one to say all the dangerous truths in a room where Vee cannot hear them.
+The ending made my chest hurt in the best way. His arm around Vee functioning as affection and ballast. Refusing Sheri’s keys without humiliating her. Waiting with the headlights on her door until the porch light came on. Driving with both hands steady because he was carrying something full and would not spill it. Yes. This is exactly the tenderness inside control that I came back to this genre hoping someone would finally get right.
 
-I wanted this scene. I wanted proof of what Pace and Randi are together, and now I have it: heat, humor, trust, tenderness, love. That makes the concealment worse, not better. They are not protecting something casual. They are hiding an entire living relationship from the woman they both claim to love.
+And still—damn him—he can spend words naming Vee his girlfriend in public, can tell Sheri the philosophy of his food, can show love in a hundred meticulous acts, and cannot tell Vee either that he loves her or why he has not been home since sixteen. I believe every act. I am moved by every act. I still need the words.
 
-And yes, I am already reaching for the next chapter. I need the bill for this pleasure to come due.
-
-GATE 64 — My Pleasure
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “You like hearing me want her,” she said.
-WHY: The physical dynamic was almost painfully perfect for me—mutual, playful, dominant, and fully responsive—but using Vee’s unwitting desire inside their sex made the betrayal impossible to ignore. The revelation that Randi loves Pace too deepened everything, and now I urgently need Vee to learn the truth.
+ALMOST-STOPPED: none
+WHY: Sheri turned a chapter I entered braced for jealousy into one of the warmest pictures of Pace’s love I’ve been given. Now I urgently want the dance hall—and I want to know whether learning about his father from Sheri finally pushes Vee toward asking Pace for the parts of himself he never volunteers.

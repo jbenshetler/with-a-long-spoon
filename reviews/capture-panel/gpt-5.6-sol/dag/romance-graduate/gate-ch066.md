@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · dated · 2026-10-24*
 
-REACTION — Oh, Vee. She has now had so much sex with Pace that she is physically sore, and the wanting still will not stay with him. That landed harder than any label could have. Her body is no longer confused, and honestly neither am I. She is trying to exhaust desire into obedience. She is using Pace as proof, relief, distraction, and almost punishment, and none of it can make Tuesday stop coming.
+REACTION
 
-The hand held flat on her stomach absolutely got me. Not touching herself because she knows exactly whose face will appear is such a painfully precise form of denial: if she refuses the act, maybe she can refuse the knowledge. Except the desire is already true. She does not have to consummate it, confess it, or name herself for it to count. The poor woman is treating her own orgasm like notarization.
+Oh, Cassie. Thank God somebody finally asks Vee the clean question without loading the answer first.
 
-And then Randi is just there, exactly herself, which is so much worse than if she had turned seductive. The knee, the saved seat, the wintergreen, the fingertip inside Vee’s wrist—ordinary gestures now carrying an unbearable second meaning. I felt trapped in Vee’s body with her, where every familiar kindness has become evidence and every bit of contact is suddenly loud. “Having you at the dance” nearly undid me too. Pace used that word during sex and gave her somewhere to pour the response; Randi says it over class notes, casually, and Vee has nowhere to relocate what it does to her.
+“Is this what you want?” went straight through me because Vee genuinely looks—and then retreats the instant she feels the size of what she might find. That matters. This isn’t her failing to notice anymore. She knows there is an answer in her, close and large, and she is actively refusing to look at its shape. Her body is no longer confused, her mind is no longer innocent, and “that was nothing, a thing skin did on its own” is getting painfully flimsy.
 
-I am proud of Vee for turning her mouth away. Not because kissing Randi would be wrong in some simple sense, but because for once she recognized that she wanted something too much to keep pretending it was nothing. That was a boundary. Awkward, improvised, hidden behind a fake illness—but hers. She did not let Randi take another “ordinary” goodbye kiss while knowing it would not feel ordinary to her.
+I hated the moment she tried to turn Cassie’s concern into Cassie’s prejudice, because that is exactly the defensive move she made with Pace: grab the nearest accusation and put the discomfort on the person asking. But Cassie refusing the old argument was perfect. She doesn’t manipulate, interrogate, flatter, eroticize, or tell Vee what she wants. She leaves the question standing and feeds her. Cocoa Pebbles instead of a grand speech nearly broke my heart.
 
-Which makes Randi kissing her neck immediately afterward incredibly hot and also infuriating. Randi knows that spot is charged. Vee has put her mouth there twice; Randi explicitly warned her not to weaponize it; then the instant Vee refuses the mouth kiss, Randi uses the neck to get the reaction anyway. “How do you like it?” is playful on the surface and a deliberate erotic repayment underneath. I wanted it. Vee wanted it. I still do not like Randi taking the side door around a boundary Vee had just barely managed to create.
+And Vee’s immediate, uncomplicated yes to food—“a want the size of a bowl”—is such a small mercy. She can’t name the enormous appetite yet, but she can answer this one. Cassie gives her something she can safely want without owing anyone a performance.
 
-And then Vee asks for brunch. Of course she does. She escapes dinner because she cannot survive two hours across from Randi, dodges the kiss because she wants it, gets one touch on the neck, and immediately secures the next private meeting. That is painfully human. She is not ready to approach the truth, but she cannot bear distance from its source either.
+This was very short, but it didn’t feel like a shortcut. It felt like the held breath after the last several chapters, and Cassie has now seen enough that the secret arrangement is not going to remain contained inside Pace and Randi’s careful management. I am absolutely reading on. I need to know whether brunch finally forces Vee to look at the answer she just backed away from.
 
-Cassie seeing them at the end made my stomach drop. Finally. Someone outside the sealed circuit noticed, and it had to be Cassie—the person who watches without steering Vee toward an outcome. “What was that with you and Randi?” is the question the entire book has been tightening toward, and Vee has no prepared edit because she genuinely no longer understands the category she is trying to hide inside. I need Cassie to keep looking. I need Vee to answer her before Randi supplies another interpretation.
-
-GATE 69 — Coming Due
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee finally acted on the knowledge she keeps refusing: she turned away because Randi’s kiss means too much, not too little. Then Randi went around that refusal, Vee booked brunch anyway, and Cassie witnessed enough to ask the one question Vee cannot edit—I’m already turning the page.
+WHY: Cassie asked the exact question everyone else has been steering Vee around, then cared for her without demanding an answer. The chapter was tiny and quiet, but the emotional pressure increased rather than paused, and Saturday brunch is now glowing like a lit fuse.

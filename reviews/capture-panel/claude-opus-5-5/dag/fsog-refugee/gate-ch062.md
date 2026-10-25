@@ -1,24 +1,27 @@
-*capture-dag-v2-rich · gate ch062 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch062 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-11*
 
 **REACTION**
 
-Okay. I need to put the book down for a second, and the reason isn't the wax.
+Okay. I need a minute.
 
-The scene itself is good. It's very good. That first "*Fuck—*" out of a girl who apologizes to furniture had me wincing in sympathy. "The kind of girl who" in her mother's flat kitchen voice hit me physically. And the "Don't move" part is the best thing the book has done with dominance in a while, because it pulls the wrong version apart from the right one. The hand on her thigh has the same grammar as his, with "everything true scooped out of the middle." That's exactly what I left the mafia books over. Same shape, no wanting in it. Vee feels the gap "a mile across," and so did I. I believed her ache for the right hand completely, and the ending, alone, her fingertips on her own skin, thinking about *his* hand finding it, was lovely. Her desire is hers there.
+This is the chapter I've been reading the whole genre for and mostly not getting. The front door alone did it: he's out on the stoop before she can knock and lifts her off the boards. Then he looks at her face first, and only after that does the second look come. The book keeps the order, and I noticed.
 
-But I'm keeping score, and here's the tally.
+She runs the start. She pushes him onto the bed and says "No. You wait," and he answers "Do I," pleased instead of thrown. Then the scar, the one he moved her hand off before. She puts her mouth to it once, asks it nothing, and goes on. I held my breath, and he didn't stop her. I don't know what that scar is (his father? I'm afraid it's his father), but he let her past it. That counts for more than anything else in this chapter.
 
-He asked. "Will you?" Eyes on hers, waiting. Fine, technically. That's what I came for. Then the book tells me, almost proudly, that he never says why and that "the fear came after… that was nearly the point of it." A deadline. "By the weekend." Her yes is out of her mouth before her mind catches up, and the book calls that the thing that "undid her." I've read that sentence in a dozen books I quit. A question asked so it can't really be answered isn't the same as asking.
+Then the painting. God. It's control, and it's real control: hands on the rail, eyes shut, the brush lifting away whenever she moves. But it never once feels like he's erasing her. She's laughing the whole time. She turns her breast into his face with "Oops. Sorry," he laughs helplessly, and then he wears the orange smear for the rest of the scene. He's in charge, he's tender, and he's completely delighted by her disobedience. The fruit after every color, the walnut and the parsley and the grape, and her working out *grapevine* in the dark. Then "They're melons," and "Not finished." That's play. That's two particular people. And I liked best that the stillness only works when she gives up holding it. That's her surrender, written from inside her, not done to her.
 
-Then Randi. "Barely stings." Sondra, Draper Street, say my name in the first sentence. Not one word about rolling over. After chapter 64 I don't think this request is Pace's alone at all. I think it's the two of them, in bed, deciding what Vee's body should be next, and Randi sending her to *her* waxer with a glass of wine and a lie by omission. So Vee was managed into the "whole of it" by both of them. And then the line that nearly lost me: she *could* say no, and doesn't, because another line "seemed like a joke, a thing for a girl who had any lines left." That's consent eroding by momentum, inside her own head. My question is whether the book knows that's a wound. I think it does. The face-down part is written as bleak, "No wanting in this one," and not as hot. That's the only reason I'm still here.
+The photo got me more than the sex did. *She* asks for it. He frames it, hands the phone back, and never asks for a copy. "Nobody on earth had seen it but her." A man who could keep that and chooses not to: that's the consent I left three subgenres looking for. The line about him taking every part of her the world called too much and making abundance the whole point made me tear up a bit, after the twin bed and the tent-sized sweaters.
 
-Pace has a lot to answer for this weekend. If he finds her and it's all tenderness and no "why," and Randi gets a debrief and a smile, I'm going to feel the trapdoor Vee keeps checking for. I want somebody in this book to tell her what room she's in.
+Now the part that's sitting cold in my stomach. The gesso: he paints her with her own wetness, and then he *doesn't kiss her*. Every other color came with his mouth and something to taste, and this one comes with nothing. Three chapters ago she held her fingers a breath from her mouth and couldn't close the distance. One chapter after that I watched Randi lick that exact taste off his mouth while he and Randi talked about Vee. So is this a gift, or is it a lesson? Is he teaching her to want something, step by step, the way the waxing was a yes she gave before her mind caught up, with no reason ever offered? The towel over the paints means he planned the whole evening, and I believe he planned it with love. I also think he's laying a path. And the end, "She would not be telling her about this," made me want to throw the book. Vee keeps this one thing private from Randi, and I'm almost sure Pace will hand it to Randi himself, in bed, with Randi on top. The privacy he so carefully gave her may not survive his other bed. If it doesn't, I'll be angry at him in a way I haven't been yet.
 
-GATE 68 — Barely Stings
+He still hasn't said the word. Randi told him "she loves you," and he's had a whole chapter. Still, I'm in. They were alone, and it was everything.
+
+**GATE 69 — Still Life**
+
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over."
-WHY: The chapter knows the difference between a hand that wants her and one that doesn't, and it lets Vee's own wanting at the end be hers, so I trust the writing. What I don't trust is the setup: an unexplained "by the weekend," Randi's omission, and a girl talking herself past a no because she's already said yes. I'll read the weekend, but Pace needs to give her a why, and soon.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "He did not kiss her mouth." It didn't put me off the scene. It made me suspicious of the man, because it reads like a curriculum, and I know who else is on the syllabus.
+WHY: Control that made room for her, laughter all the way through, and a photo he refused to keep. I've been looking for that combination for years. I want the next chapter now because tomorrow is Randi's, Vee is hiding this from her, and I need to know whether Pace keeps it hidden too or spends it.

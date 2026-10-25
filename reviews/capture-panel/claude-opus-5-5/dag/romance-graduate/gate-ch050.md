@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I need a minute.
+I was not expecting the book to do this right after the doorstep and the breakfast. It's two people in a kitchen, her naked with her wine and him at the sink, and it's the best answer to December the book has given her.
 
-First, the blanket. She went back down the hall with her coffee and spread **the cream cashmere** over the foot of the bed, square and smooth, like she was making a nest. Then she soaked it, "the softest thing in the house taking the ruin of her." And her afterthought is that it's "the beautiful blanket he had never said one word about … which was how he gave gifts." NO. My notes have it in caps. That's *Randi's* blanket, for "the chill that took her after." Vee lay on it and came three times thinking it was a love letter to her. I actually put the Kindle face-down on my chest. That's the best kind of dramatic irony, the kind the book doesn't explain to me. It trusted me to remember, and I did, and it made me a little sick and very turned on at the same time. That's exactly the double feeling I'm here for.
+She walked out of his house asking "what am I to you out there?" and he couldn't say it. Now, with his back to her, he says "I want to meet your people." It's the same man and the same refusal to use the word, but he's answering with "Believe what I do." Last time that line made me want to throw the book. This time it actually lands. He kept Meg's boots and her heel lifting out of the right one, and he handed back her own line about Kayla in his flat voice. I melted at "He had been listening. Not the polite kind." And then "Bring Theo," reaching for the next pan, no question, no jealousy. Vee feels it "settle in her, warm side down," and so did I.
 
-Then the taste. On the surface it's a sweet scene. He goes down on her slow, kisses her wrist and her armpit and her toes, and comes up wet and kisses her. She says "Ugh — gross… Wrong." Her mother's voice does it, the flat clean "that's not a thing you do." He wipes his mouth, says "Okay," and leaves her mouth alone until she comes and takes it back. I loved that "Okay." Him not sulking and not explaining, "as though her mouth could wait for her." That's the grown-up man I've wanted since chapter 44.
+Then the Chili's picture came back to her, the fork being squared. She asks him to pick the place and doesn't say why. She's protecting him from loud rooms without ever telling him she noticed. That's the grown-up emotional intelligence I came for. Same with the Cassie bit, refusing to build a dinner where one of her people has to be a good sport. "She'd watched somebody be fine about it before. She wasn't going to look at when." Who? Her mom? Herself at Randi's tables? I want to know.
 
-But her tongue went *hunting*. Twice. It reached for the taste before her mind could rule on it. Then she lies there licking her own lip, "looking for something," and "*Why does he like it so much?*" stays on the edge of the bed. The jacket said her appetite runs in more directions than one, and the book just made her curious about what a woman tastes like. Then it closes on her planning to tell *Randi*, of all people, about this exact thing. In chapter 51 she stared at Randi's mouth until it passed, and then kissed her under the composites. "Randi would know what to make of it." Oh, honey, she would.
+Now my suspicion. He says "I want to meet your people" and her brain fills in *Randi*, with her friend's name "already on it." A dinner, "the three of us." He steers away from it right away, toward Cassie and Meg and a whole party. Is that because he's already met Randi a hundred times and can't sit at a small table with both of them and act? I think so. And she's sitting on "the lacquered seat of a chair he'd made," which is the seat from his drunk fantasy with Randi's feet on it. I noticed, book. I'm cold. "Let me handle it" is lovely and also a man taking control of a room where his two games meet.
 
-Then there's "he must have forgotten to wipe." So he's been careful every time? Hundreds of times? Why would a man who loves it that much always wipe? Is it a habit someone taught him? Daphne? I'm suspicious and I can't say of what, and that's fun.
+Also, I can't stop thinking about "Vee, I l—" on the doorstep two chapters back. She cut him off. He was trying to say it, and she opened the coat instead. Nobody has brought it up since. That's a bomb sitting on the porch.
 
-The heat was real heat. It was fully explicit, no euphemism, and the anatomy was right: "past the grip of her," the spot that makes you want to pee and scream at once. The orange paragraph comes back on purpose ("opening her as he had opened the orange"), and that's earned, not decoration. The pointing game, the gladiator, "Bad slave." "His hurry died at her skin." Him burning the toast because she put her foot on the chair. "I got mushrooms," level as a plank. I laughed out loud.
+This is a short, quiet chapter after two very hot ones, so it doesn't trip my stall alarm. It reads like a breath, and the last line has an engine in it. A party with Randi and Pace in the same room, both pretending they "said about nine words at the coffee shop." I'd text a friend: "HE WANTS TO MEET HER FRIENDS. and Randi's going to be there. I'm sick."
 
-Gripes, because I keep a tally. The pleasure-princess bit went one shimmy too long. I got the reversal the first time; I didn't need the giggle, the shimmy, and the "kingdom" too. The breakfast-tasting paragraph is gorgeous, but "a taste that was almost masculine, if a flavor could be a gender" is the book leaning over to make sure I see the set-up. And the "it had been in the room a long time … come and sat on the edge of the bed" paragraph is close to explaining its own subtext. Close, not over the line.
-
-The quiet thing I'm carrying is from chapter 52. He started "Vee, I l—" in the doorway and she cut him off with the coat. Randi's plan was "you don't do it with words," and it may have cost Vee the exact word she walked out over. Nobody in this chapter mentions it. I'm watching for it.
-
-Two hot chapters after a long cold stretch, so my stall alarm is off. And the Brooke ultimatum ("you need to choose") is sitting under all of it like a ticking thing. The text I'd send a friend: *she just came all over the other woman's blanket and thinks it's a love gift, and now she wants to know what she tastes like, and she's going to ask THE OTHER WOMAN.*
-
-GATE 53 — Missed a Spot
+**GATE 54 — Back**
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "she was a pleasure princess. Not the kind of woman who is kept for a man's pleasure. The kind a man keeps *in* pleasure."
-WHY: It's a long, filthy, generous morning, and the book hid a landmine in it (the blanket) without pointing at it. The taste beat finally starts waking up the thing in Vee the jacket promised. The princess cuteness sagged a little, but the last line sends her straight to Randi with exactly the wrong confession, and I want that dinner tonight.
+ALMOST-STOPPED: none
+WHY: It's a bridge chapter that's really two people talking, and it quietly answers her "out there" question with an action instead of the word. It also sets up a party where everyone who's lying will be in one room, so I'm reading on right now.

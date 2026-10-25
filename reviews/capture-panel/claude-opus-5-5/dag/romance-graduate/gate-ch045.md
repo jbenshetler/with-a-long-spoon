@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
 
 **REACTION**
 
-Okay. I closed 47 with Vee crying out his door into the cold, and the book's answer was to hand me a ski holiday in Gstaad. Twenty days gone. No Vee, no Pace, no idea whether she drove back the next morning or whether they've spoken at all. I'll be honest: for the first two pages I was mad about that.
+Okay. The two texts. I read *thinking about you 💛* and *you ANGEL 😇* last chapter from Randi's side of the glass: lipstick on a stranger, the face going back on in a hotel mirror. Now I got to watch them land in a twin bed in Ohio, under the synchro-swimming trophies, and it was exactly what I wanted from this book. It's the retelling weapon again, but quieter. Both girls wrote "the thing" and both meant something they weren't saying. Randi put "Every word of it true. None of it the thing." Vee put "Not the thing — the thing she'd folded away in the glass room." Two women hiding two different things inside the same eleven words, and each one thinks *she's* the one being kind. I said "oh no" out loud.
 
-The opening breakfast nearly lost me. It reads like an inventory: Dad's steak, Mom's omelette, the tennis bracelet, her salmon on dark rye. "Randi delicately clomped" made me make a face. Then "eating her revulsion" landed, and I remembered MIRA, the dot off in the white. That's why she hugs her father like a sorority sister. Every gold thing in this chapter is the PPP money. It's a stolen-money chalet, and later she texts Vee "dad's got us in this insane chalet" with a heart. That irony doesn't need explaining, and thank god the book doesn't explain it.
+Vee also *invented* the billionaire. Randi never typed the word "man." Vee built him herself, "devastatingly handsome," "a weekend so wild," straight out of the Redford-boy stories Randi has been feeding her all fall. Randi lies by giving out the fairytale and Vee fills in the rest. So I watched Randi's real night, flat and lonely, get turned into the glamorous version by the one person who'd have been gentle with the truth. That's the "step ahead of Vee" the jacket promised me, and it hurts in the right place.
 
-Then John shows up, and it's every book I've stopped reading. A towering stranger who cuts the line, a fake marriage bit, the guy who's secretly better at skiing, champagne at the hut, a gown bought that afternoon, white tie, a chef with a star, white truffle, a sleigh behind two grey horses. I actually laughed. It's the billionaire-romance checklist, start to finish, and for about five pages I couldn't tell if the book knew it. Then the dance. He's "a better dancer than Pace," and "easier was better," and "this is the one." By then I knew it was going to go bad, and I wanted it to.
+The fra diavolo memory got me. She reaches for her best night to keep warm, and the blonde climbs into her own memory and takes her chair, her sheet, her wine light. "She could not keep her own night." That's real jealousy, the 1 a.m. kind that rewrites your past instead of just worrying about the future. And "a fashion model's body where Vee's was a stripper's." Oof. The mother-voice wire I had marked as quiet is back, at full volume, in the one room it was built in. Also note to self: she's still lying about the dancing, and she still cropped the leg off for her mother's phone. "Same picture, one house, and she was the one who had divided it." I liked that a lot.
 
-The cut to "he drew her in, and she went. Afterward" is my hair trigger, the exact closed door I DNF books over. Here I'll allow it, barely, because the missing scene is the point: there's nothing to show. "A good sandwich eaten fast on a busy afternoon." The lipstick ring on him, "felt her own mouth do it from a long way off." The eyeliner held because "nothing had happened to her eyes." That line is cold and it's good. Still, I've noticed the book's explicitness depends on whose bed it is. Pace gets shown and John gets skipped, and that's a choice I'll keep an eye on.
+Now the gripes, because I have them. This is the second Vee-alone-in-a-cold-bed-not-texting-him chapter. Chapter 46 already did the thumb over the empty field and the "no message comes back in the shape of what she needed" beat, and this one says it again almost word for word. I noticed. The last line, "the cold room kept watch over the girl who was gone," is the book underlining its own theme. "A room that loved a girl who no longer lived inside her" already did that job a page earlier. I don't need it twice.
 
-After that, the book does what I've been begging for since chapter 40: it gets inside Randi. "Pace went straight to her. That was the whole terror of him." That goes with "you make me feel real… it frightens me" in my notes, and now I believe it from her side too. Then: "Vee was her gorgeous." I had to put the phone down. She has never once said "I love you" without it being currency, except to Vee. She can run every scenario to the end except Vee's face. So she picks cowardice, and she picks it knowingly: "let the word keep its cover." It's heartbreaking and selfish in the same breath. That's what I've wanted from her.
+The bigger thing: I haven't seen Pace since she walked out his door on December 11, and it's now three weeks of silence in story time. Chapter 48 was Randi and chapter 49 is Vee missing him. I want him. I want to know whether he really did nothing for three weeks, or whether there's a reason I'm not being shown (Christmas with Sheri? Randi? Nobody?). If chapter 50 is another inner monologue I'll start skimming. If it's January and his door, I'm all in.
 
-Still, the last stretch tells me things I already felt. "He was safe. She had put nothing on the table and had won exactly that." "The flaw was hers." The chapter starts explaining itself around there. I got the cold-seam image the first time; I didn't need it paraphrased.
+Also, small thing: Vee knows about the PPP money and envies Gstaad anyway. "Even a poisoned Gstaad was more life than she had." That's honest, it's not pretty, and it's very twenty-one. I believed her.
 
-What I'm suspicious of: Randi's whole inner monologue about Vee leaves out the scheme. There's no "we chose her," no Pace-and-Randi plan. She thinks about Vee as if she were simply in love, which she is, but she's also a co-conspirator, and she doesn't let herself think about that. Maybe that's the most honest thing about her.
+---
 
-And Vee's text, "i'm here if you want to talk. or not." That's my girl being the generous one from Ohio, with her own heart in pieces after the 11th, and Randi sends back the fairytale. I need to know if Vee told Randi about the door. Of course she did. So Randi knows, and she lay in that hotel bed knowing.
-
-What I'd text at 1 a.m.: "the book did a whole Hallmark billionaire chapter just to kill it in bed and I kind of loved it. also Randi is a mess and I'd die for her."
-
-GATE 48 — Fairytale
+GATE 49 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
+CAPTURE: 6
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "His room was high in the hotel with the mountains black in the window, and he drew her in, and she went." The door closed right where I'd usually close the book.
-WHY: The first half is the trope parade I left KU to get away from, but it's there so it can fail, and Randi's real interior when it does ("Vee was her gorgeous," the face she can't picture) is the payoff I've waited eight chapters for. NEXT is higher than CAPTURE because there's a three-week hole after Vee walked out of Pace's house, and Randi lying in that bed knowing about it makes me need January.
+ALMOST-STOPPED: "There was nothing to put there. She'd learned that already, in another bed, in another cold room." The book knows it's repeating chapter 46, and so did I, and I counted pages.
+WHY: The mirrored text exchange and the blonde taking over the fra diavolo night are the best things this book does: same moment, two rooms, and I'm the only one who sees both. But it's the second solo cold-bed vigil, Pace has been offstage for three weeks, and the lyrical close leaned on me. I'm turning the page for *him*, not for more of her ceiling.

@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch061 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 REACTION
 
-Oh, she almost had it. She *almost had it* and then she filed it under "Randi's still worried about me." I actually put the book down on my chest for a second.
+Oh, this book. This is the first chapter in a while that wasn't two people talking at a table, and I didn't resent a second of it — because it put me in a room I've read a hundred times and made it feel like somewhere I'd never been.
 
-Here's what got me. The whole Sheri telling is a victory lap — and it's a real one, it earned itself over three chapters, the blonde who "didn't have anywhere to stand," the month of her own idiocy handed over as a gift. And Randi's doing her Randi thing, turning each piece in the light, handing it back improved, taking Vee's hand across the cloth and turning the fingers one at a time. Warm as a bath. And I'm reading it going okay, okay, we're on the rails again, Marsh-walk-loft-fish-neck-kiss, I can feel the frame — and then Vee gets to the *look.* Sheri's eyes coming down the keyhole, the bare leg, sticking on the shoes. "She was enjoying herself."
+First: the two girls on the couch. "One had come to be looked at... the other she understood only after a second... she had come to be touched." And Vee sitting between them knowing which one she is. That's the whole book in three sentences and it didn't once tell me which one she was, it let me land on it. God, this writer.
 
-And Randi's thumb stops.
+And the thing I keep waiting for — the taste-thread dread, the body voting before the mother's voice slams the lid — it paid off HERE, sideways, in a way I didn't see coming. The wax. The arousal in the cold bright room under the bored hands, "a lit thing, it moved in her low and wrong," and then the second, smaller horror: what the woman can see. The body telling on her. That's been the engine since the cum-taste morning and here it is again, naked, literal. I love that the charge showed up in the least sexy room in Virginia.
 
-That's the whole chapter for me. "A thumb gone still mid-pass, sitting where it had been moving, a woman losing the thread of what her own hand was doing." The architect dropped a stitch. Because another woman looked at Vee the way Randi can't let herself be caught looking, and told the story to Vee's own face, lit up, not knowing she was putting a knife on the table. And then — this is the part that iced me — "And you liked it." Flat. None of the evening's music in it. That is *jealousy,* naked, for exactly one sentence, and Randi can't keep it off her mouth. The woman who runs every beat of every dinner lost control of her own voice for a line and a half.
+But the thing that actually took the top of my head off: the WRONG HAND. "Don't move." The flat palm on her thigh that holds her exactly the way she wants to be held and wants nothing from her. "It held her the exact way she wanted to be held and it did not want her at all." I actually put the book down for a second. That's the reach-in-the-dark thing from chapter 60 made flesh — the grammar her body learned in Pace's room, played back with everything true scooped out of the middle. This writer keeps finding the physical object that IS the feeling. A hand on a thigh. I'd text a friend just that line.
 
-And Vee's "No." Too fast. She patched it — "Not my thing." And here's the thing that's killing me: Vee *felt* Randi go still, "had it under her skin before she had it anywhere else," looked up — and read it completely wrong. Did "the only arithmetic she had for it." She's *still worried about me.* And felt warm and looked-after. The reach in the dark from chapter 60, the three forks into the fantasy, the empty mouth — all of that is sitting right under this table and Vee just mistook her own guard going up for Randi's. The irony didn't surface. It got *closer* and then she paved right over it, and I wanted to shake her and I also completely believed it, because that's exactly the lie that's cheapest for her to reach for.
+And then the floor dropping twice. "That's the hard part behind you" — and then "Roll over for me." The part Randi didn't say. And THAT'S the knife I've been waiting for — because I've got Randi's whole "barely stings" and the wine and "the most expensive thing in the room" sitting right there, and not one word about rolling over. Randi curated this the way she curates everything. She sent Vee bare into a thing and left out the part that would've let her choose. It's small and it's loving and it's also exactly what Randi does — gives you the sanded-down version so you arrive where she wants you. The venom under the warmth, again, and Vee can't see it.
 
-And "I know she isn't, gorgeous." Randi recovered. Thumb took up where it left off. The architect blinked and then she was back. But I *saw* it go.
+What chilled me cleanest: "she had never once in her life thought of as a thing that got done." And she rolls over anyway, because "another line seemed like a joke, a thing for a girl who had any lines left." That's the slide the whole book has been engineering, and the book knows it, and didn't say so out loud. Thank you.
 
-The wax. Okay. Pace asked for bare, in the voice he uses for facts, and Randi lit up over Sondra and the glass of something and "the most expensive thing in the room." I clocked it. It's one more thing arriving as Vee's own nerve that somebody else wrote — but honestly after the thumb I almost didn't have room for it. Though: Friday, waxed bare, and then Sheri's Valentine's dance is coming, and Pace requesting it two days after a taproom night — I don't love what my brain is doing with the timeline but I'm not putting it down, I'm leaning in.
+The ending got me — alone, her own hand, "the right hand, the one she'd kept everything back for," wanting his touch on the new smoothness so badly it's a cleaner ache than the other. It's genuinely tender and genuinely hot and I believe both at once, which is the only reason I'm still here 65 chapters in.
 
-The goodbye kiss did its thing again — the draw-back no wider than a breath, the wait held inside it, "and this time it stayed" — and Vee turning her own face up *before Randi started to,* eyes already closed, waiting on the hand. She's the one reaching now. "The other part she didn't write down. She had that one cold." Chills. She means the kiss. She doesn't know she means the kiss.
+Was it hot-hot? No. It was a 1 that mattered more than most 3s. And Randi barely in it except as the voice she's lying through by omission — which honestly made me miss her and want the Thursday fallout.
 
-This was the frame-break I was waiting for. Third loft dinner on paper and instead of counting rails I got the one crack in the architect I've been promised since chapter 51. That bought the whole thing.
-
-GATE 64 — Between
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The thumb going still and "And you liked it" is the first time Randi's jealousy cracked the surface in front of Vee, and Vee misreading it as protectiveness is the irony finally almost-surfacing and then going back under — that's the beat I've been reading toward and it landed. I want the next one because the wax, the Valentine's dance, and a Randi who just slipped are all loaded now.
+ALMOST-STOPPED: none — though the second the service turned out to have a back half, I braced for this to tip into pure degradation-for-its-own-sake, and it didn't, it stayed about her.
+WHY: The wrong-hand passage is the best single image the book's handed me since the reach in the dark, and the "roll over" reveal quietly indicted Randi without a word of narration. A bridge chapter in a salon that hit harder than most of the bedroom ones, and I want to see this smoothness meet the right hand — and watch what Randi left out start to cost.

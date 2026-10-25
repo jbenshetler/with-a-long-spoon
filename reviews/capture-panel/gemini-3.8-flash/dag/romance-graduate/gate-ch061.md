@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · dated · 2026-10-24*
 
 REACTION
 
-God, the tragic, delicious blindness of Vivienne Thorne is going to kill me. She sits there across the white tablecloth thinking she’s handing Randi a funny little victory lap about the phantom blonde, totally oblivious to the live wire she just stepped on.
+Holy shit. The absolute psychological violence of an aesthetician saying *"Roll over for me, hon"* when you thought the horror was already over. I felt that in my marrow.
 
-When Vee described Sheri checking her out—the slow, appreciative, unhurried look taking in the keyhole shirt, the bare winter leg, the strappy shoes—and Randi’s thumb just *stopped* dead on her knuckles? My stomach dropped. Vee actually tells herself Randi is freezing up out of protective instinct, like a guard dog still worried about a threat to Vee’s relationship with Pace. Girl, open your eyes! Randi didn’t freeze because she thought Sheri was competition for Pace; Randi froze because a woman looked at Vee with pure sexual appreciation, and Randi is starving to know if the door to Vee wanting women is finally cracking open. And then Vee’s panicked, too-fast church-girl defense—*“No. Not my thing”*—slams the bolt right back in Randi’s face. You can practically hear Randi swallowing the glass.
+This chapter took something that could have been a silly, throwaway chick-lit trope—the awkward first Brazilian wax—and turned it into an absolute masterclass in erotic vulnerability and body horror. The way Rivers writes interiority is just sick. That moment where Sondra puts a flat, bored hand on Vee’s thigh to pin her down and says *"Don't move"*—and Vee’s body instantly recognizes the grammar of it, but short-circuits because there is no desire behind it, just a stranger doing maintenance on her meat? That broke my brain. It’s so accurate to how intimacy ruins you for ordinary physical boundaries. She is so thoroughly conditioned by Pace’s dominance now that an impersonal hand holding her down opens a cavernous ache for the *right* hand to be the one taking her apart.
 
-And then we get the Sunday fallout: Pace asking her to get waxed bare. The coordination between Pace and Randi without Vee knowing it is chilling and hypnotic. Pace puts the request in Vee's ear, but who does Vee run to for coaching, validation, and the appointment? Randi. Randi immediately hands over her own aesthetician, tells her she’ll feel like the most expensive thing in the room, and maps out the week behind her eyes. It is Dr. Marsh’s grooming lecture made entirely real. They are preparing her, smoothing her down, passing the dish back and forth.
+And Randi. Oh, Randi, you gorgeous, calculating demon. *"Barely stings."* Leaving out the entire back half of the service on purpose so Vee would walk in blind, because Randi knows the exact hazing ritual of becoming that kind of woman. She’s grooming Vee into her own mirror image, piece by piece, while Pace is waiting at the end of the line to collect the prize.
 
-The goodbye on the sidewalk made the hair on my arms stand up. Vee isn't just accepting the affection anymore; she’s anticipating it. She turns her face up with her eyes already closed, waiting for Randi’s hand on her jaw. And Randi giving her that hesitation—pulling back just a breath, waiting, and then going back in for a second, lingering mouth-to-mouth kiss—before Vee casually buries her lips in Randi’s neck? That’s not friendship. That’s a ritual. Friday is already circled in red ink on my calendar.
+And the ending! The contrast between the clinical humiliation of the table and that quiet, private second afterward where she touches herself and realizes the sheer, terrifying luxury of being that smooth. The old church-girl prudery getting bulldozed by the sheer sensory shock of it. She didn't do it because she wanted it; she did it because he asked in that quiet, undeniable voice, and now she is practically vibrating to present the finished product to him. I need Friday night to happen right this second. Put her in front of him.
 
-***
-
-GATE 64 — Between
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 1
+NEXT: 10
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological tension in that booth was suffocating, especially when Randi froze at the mention of Sheri checking Vee out. Watching Pace and Randi groom Vee from both sides while Vee thinks she's just living an enchanted life is masterclass pacing. Friday's appointment can't come fast enough.
+WHY: The psychological tension during what could have been a routine comedic trope was incredible—Rivers made a clinical waxing feel intimately violating and deeply erotic at the exact same time. Vee's surrender to Pace's unspoken demands has reached an absolute fever pitch, and I need to see him find her like this.

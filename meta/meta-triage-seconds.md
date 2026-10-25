@@ -59,7 +59,7 @@ Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropp
 ## Rulings recorded post-review (2026-07-30)
 
 - **Music thread: silence.** The registry triggers for any scene at Pace's house; ruled silent here — the soundscape is his breaths and the *mm*.
-- **Porch heat backstory** ruled coherent in `meta-plan-pace-house.md` (register + thermostat; warm for {{A Round}}, cool at night for {{Rock}}/{{Seconds}}).
+- **Porch heat backstory** ruled coherent in `meta-plan-pace-house.md` (register + thermostat; warm for {{A Round}}, cool at night for {{Rock}}/{{Cropped}} porch).
 - **Same-day sequencing with {{Cropped}} is intentional** — first reunion after Thanksgiving, Vee full of missing him and the who-are-we questions the break raised.
 - **Moon rises over the mountains** (behind the nearer ridge) — line 17 aligned.
 - **Coda re-grounded (author-directed):** the "would"-heavy flash-forward landed as a lived scene in the dorm **laundry room** (bus cut — on-campus resident, container ruled: physically inside, physically quiet); one prophetic *would* retained at the close. Pile now already-not-empty (canon: smaller porch-register moments precede this one, `meta-craft-pace.md`). Flannel deliberately kept out of the load.

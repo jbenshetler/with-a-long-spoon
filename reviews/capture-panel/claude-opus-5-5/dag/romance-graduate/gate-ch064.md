@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c6c4f08ae565 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · dated · 2026-10-24*
 
 **REACTION**
 
-Sixty-seven chapters. SIXTY-SEVEN. I said out loud "oh my god" at "a breath short of her mouth" and then didn't breathe for the next page and a half.
+Okay. OKAY. I'm texting this one at 1 a.m. with all caps.
 
-The kiss earned every bit of the wait. It opens as the goodbye kiss, the shape we've watched for months, and then it simply doesn't stop where goodbye stops. That's the blurb's line come true in real time. The writing in that passage is the book at its best: the held inch, Vee's eyes finally allowed over Randi's face, "the file" of perfume she's been keeping without admitting it, salt and lime, her hips pressing "once, asking." Vee's own hand going up into Randi's hair and her not taking it back. That's the clothed 3 I've been starving for. Vee wanting Randi's mouth lower "in this room" and being scared of the size of the want is exactly the grown-up interiority I keep coming back for.
+This is what I asked for in my notes: two bodies in a new room, and somebody saying a true thing out loud. The book gave me both, but the true thing gets pulled out of her an inch at a time while he holds her hips off him. I've read a hundred orgasm-denial scenes and they're always a power trick with nothing riding on it. This one has her conscience riding on it. Every inch is a confession. "Tell me the real story, and I'll give you what you want." She hears "date" again the way he hears it, and "she just gets to *have* me" lands harder the second time. Her own words come back hotter in his mouth than they were in hers, and that's the scene's whole engine. When she said "danced bigger," he just stopped, and I said "oh you're GOOD" out loud. The stalls are how he catches her tidying.
 
-Then "You really did a great job putting on a show. I almost believed it." I want to throw my Kindle across the room. *Almost.* That's Randi telling the truth inside a lie, the way she always does. Look at how she built the whole night. She picked the skirt from her own closet ("it'll look better on you"), which Cassie clocked in one sentence. She put the hands on the hips, lifted the arms, and handed the room Vee's thong. Then "Your panties are showing" with her lips on Vee's ear. Then Harrison, chosen precisely because he doesn't matter, so the kiss can be "for the boys." That's Brooke's own permission: *play all you want… for the boys.* Randi found the one frame her president already blessed, and she kissed Vee inside it, in front of the whole house. That's genius and it's cowardice, and I can't tell how much of each.
+But I read Chapter 61. I know exactly what's happening here. He isn't jealous. He's gathering material. This is the same man who had Randi on top of him saying "I want her to know exactly what she does to me." Now he's lying under Vee and pulling every detail out of her: the salt and lime, the hard little points, "I wanted her mouth lower." I'd bet my Kindle all of it ends up in Randi's ear by Thursday. So the hottest scene in the book is also the creepiest, and I can't separate the two, and I don't want to. "You finish when you've finished" made me squirm in both directions at once.
 
-Then "I chose." / "I can see." My skin went cold. Brooke reciting Vee's history by heart, stats and the cardigan and the Friday she came in "early, half of us in robes," was a threat dressed as a welcome. And Vee thinks Brooke is *kind*. Oh, baby. The Chambord line is the book telling me how to read Brooke. It might also be telling me how to read Randi: spend a fortune so you think she didn't spend a dime.
+Then the aftermath. "No. Nothing." Her first lie to him, and the narration gives it a cold little paragraph of its own. I believed it, because she really does live by "the keeping is the cheating." And then she remembers the kiss in the roadhouse lot with him three steps away. I don't have that kiss clearly in my notes. Either I lost it or it's being added after the fact, and I'm flagging it. Her "I'm not gay," then flipping it onto him with "you want Randi," and his flicker: "You keep saying her name. Not me." She reads that as the sweetest thing he's ever done. Babe. He didn't defend himself because it mattered to him. He defended himself because you got close. That flicker was a man nearly caught.
 
-The Love bracelet. "Taking it off requires tools." I'm sitting up. Who put that on her? Is there a screwdriver in Pace's nightstand? Every bit of jewelry agreeing with her skin while that one thing is locked on.
+AND THEN HE TUCKS HER IN WITH THE CREAM CASHMERE. Randi's blanket. She just confessed to wanting Randi, and now she's lying under her. I laughed and my stomach dropped at the same time.
 
-Small stuff that bugged me. The elevator doors show Vee "dark hair down," but she's a redhead, and the next page even says so. Another mirror-in-pieces getting-dressed opening; I'm noticing a pattern there. The inventory of Randi in the foyer ran a paragraph long. Two boys with beers who half-know her face, and I couldn't tell if they're the same boy. And "the kiss had been going on forever and had only just begun" is a line I've read in a hundred books, though here the rest of the passage carries it.
+Opening on her stopping her own hand on the bare skin, thinking Randi would be the one to find it there, then putting the skirt back on and leaving the thong stuck to her: good. That's not a mirror scene, it's her running. The anger-sex is clean and short, and "she was trying to get free of something" is the right note. The soreness at the end and the "raw inside" are real consequences, which this genre almost never gives you.
 
-But the shape of this stretch is working for me now. Randi and Pace in bed talking about wanting her, Sheri blowing up the blonde, the bread, the painting, and now this. Two bodies in a new room and something true said out loud. That's exactly what my notes begged for. And the dread is perfect: tomorrow is Pace's day, and she's going to lie to Randi about the painting while Randi lies to her about this.
+Gripes, small ones. The narrator explains her misreadings a beat too often ("Now she could see she had taken that tenderness entirely wrong"), and I'd trust me more. The inch-for-truth beat runs maybe two rounds longer than it needs to. "Sex brain" made me wince, though I think that's on purpose.
 
-1 a.m. text: "THEY KISSED. at a sorority party. as a 'joke for a boy.' and then randi said 'i almost believed it' and I need to lie down."
+Mostly I'm sitting here with "What is wrong with me?" and wanting to hug her. Nothing's wrong with you, honey. You're being farmed. And Tuesday is circled.
 
-GATE 67 — On Her Floor
+GATE 68 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The mirror over the sink gave her her face and shoulders and quit at her bust." Another getting-dressed-in-fragments opening, and for a paragraph I thought I was in for a third mirror chapter.
-WHY: The kiss the whole series has been holding back finally happened, and it's hot, specific, and full of Vee's inner life. Then Randi folded it back into "a show" with one devastating "almost." Between "I chose," the bracelet that needs tools, and Pace getting her tomorrow, I couldn't put this down if I tried.
+ALMOST-STOPPED: "He'd defended himself. In every argument they'd ever had he left her the whole of the room" (the narration handing me Vee's misreading as a little essay; an eye-roll, not a near-exit)
+WHY: The confession works as the sex, and the sex works as an interrogation, so the heat and the psychology run on one engine for once. Her first lie to him, his flicker, and Randi's blanket around her shoulders mean the triangle finally has weight on all three corners. I want Tuesday's seat next to Randi now.

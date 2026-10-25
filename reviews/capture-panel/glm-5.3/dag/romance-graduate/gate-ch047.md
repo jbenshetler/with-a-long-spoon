@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f7f72ed3f943 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch047 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d47c039c2f2c · dated · 2026-10-24*
 
-REACTION — Oh. *Oh.* I've been waiting for this POV since the drawer, and the book held out on me until it would hurt most.
+REACTION
 
-The Sheri scene first — that's the best conversation in the book and nobody took their clothes off. "She's told you what you have to do. So say it." Sheri is the only person who talks to him like a person and not a monument, and "never did learn my name" about Randi — Sheri clocked Randi in five seconds, filed her under harem applicant, and the terrible joke is that Randi is the *one woman who isn't*, and Sheri doesn't know it. "The curvy one." "The one with the big tits." I cackled and then felt gross for cackling because Sheri's describing Vee the way the whole world sees Vee's body, and Pace's whole thing has been that he never once did.
+I read the last page of this with my actual hand over my mouth.
 
-And then the night alone. The photos, in order, "like reading." Randi's blanket folded back where it lives. The kitchen-in-the-morning fantasy — Vee in his sheet, Randi's feet up on the lacquered seat, the two of them laughing at something he missed — and I had to put the book down because he built the picture from things Randi told him in bed about Vee's kisses and things he's watched happen across his own kitchen, and it's a fantasy of being outgrown by two women he can't say the word to, and he's *glad* in it. Glad is not what's wrong with him. God.
+The whole first half I was warm and settled and being exactly as managed as Vee was. That's the terrible genius of the Randi chapters: the comfort works on you too. When she talked Vee down off "he was using me" — "the fear's a liar, and you haven't slept" — I believed her, because it's TRUE, the Sheri-girl is a three-in-the-morning ghost and Randi dismantles her with facts like a good economist's daughter-in-law. And then somewhere around "you don't do it with words. Words are the whole war" my stomach went cold, because I heard it. Randi just took the one adult thing Vee has ever demanded — the WORD — and buried it under a coat and a pair of heels. The fight was about being named, and the plan she sends Vee out the door with is the opposite of a name: it's showing up as the answer so nobody ever has to say anything. That's not the con anymore. That might be worse than the con. Randi is keeping the word under its cover by handing Vee a beautiful, brave, genuinely good-feeling way to stop asking for it. And she'd tell herself she's doing it out of love, and she IS doing it out of love, and I want to shake her.
 
-But the part that wrecked me is the engine. An engine on the highway, not slowing, and his whole body turned toward it before his head had a vote — and he sobbed over a truck that wasn't hers. Pace. PACE. This man who does everything in measured doses, drinking alone for the first time, eating chicken he has to command down his throat, and then the wrong car in the dark takes his legs out. "He had hurt her because he was afraid of how much she could hurt him." That's the whole book in one sentence and he said it to himself in a hangover, alone, with cold broccoli.
+But God, the shoes. I'm not made of stone. The shoes held "by two of them holding the same shoes," Randi's fingers still in the straps — that's the most charged two seconds of physical contact this book has done since the bra, and nothing happened in it. And Vee's body answering before her head — the book keeps doing this thing where her desire arrives as proof of something and I keep flinching on her behalf.
 
-And the Daphne logic — he taught himself that the words were the difference, that unspoken love is survivable love, and the tragedy is it WORKED for years, it's a working system, and Vee broke it by asking for the one payment the system doesn't accept. "Whiskey River was a liar" — that line is going to live in me. The whiskey took his balance and his dinner and left every memory of Vee intact. Yes. That's what being wrecked actually is.
+And then she KISSED HER. Vee initiated. Four months, "never once started it," and she goes back and takes Randi's face in both hands — and the book flipped the POV and I got Randi with her hand flat on the door and her heart going like she'd come up three flights, the woman who "narrates anything" going quiet over Gstaad because "Pace on his worst night reached further than John at his best" and she can't say THAT either. The two people in this book who are starving for the same word, and neither can say it, and they're holding each other in a foyer. Randi putting the back of her hand to her own mouth like a fifteen-year-old. I underlined it in my head.
 
-I noticed the date — this is New Year's Eve, the SAME night as chapters 48 and 49. The book braided it: Randi lying in borrowed warmth in Gstaad, Vee in the lavender dark letting sleep take her still reaching, and Pace sobbing over a truck in the dark. Three people, one midnight, all three alone and all three lying to themselves about the shape of it. I only clocked it partway through the diner scene and had to go back. Worth it.
+And then Brooke. Jesus. The kindest menace I've read all year — "the warmth never moved" while she does it. Every beat of that scene is doing double duty: it's the house's judgment, it's the external threat the plot's been quietly owed for fifty chapters, and it lands on the exact day Vee finally kissed her. "You need to choose." And Randi — no counter, no performance, just up the stairs and a shut door. When Randi has no move, I actually worry.
 
-"He ate anyway." Kill me. The man disciplines his grief like a meal plan.
+Also can we talk about how Randi told the Gstaad story and stopped at "we went up"? Vee read it as discretion. I know what's under it. The book keeps letting me be the one person in the room with the whole file, and it's starting to feel like weight I'm carrying for all three of them.
 
-GATE 50 — The Usual
+Tonight's going to be the coat and the heels, and I'm terrified in a way I want to be — because if Pace takes what she brings without giving the word back, Vee loses, and if he says it because she showed up naked in heels, I'll wonder forever whether it was the word or the coat. This book has trained me not to trust relief.
+
+GATE 51 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Zero heat and the highest romance score I can give, because the engine-not-slowing undid me more than any sex scene in the book — this is the interiority I've been starving for, the exact place where love and failure share a body. All three of them are alone on the same midnight and the new year is about to slam them back together. I need to know if he says it — or if Randi's counting gets there first.
+WHY: The comfort chapter that's secretly a trap chapter, and it got me twice — once in the warmth, once when I heard the trap. Vee's first kiss, Randi's shut door, and tonight hanging over everything. I'm not sleeping on this book tonight.

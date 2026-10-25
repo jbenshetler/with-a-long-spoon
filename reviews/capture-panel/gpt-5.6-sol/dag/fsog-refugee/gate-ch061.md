@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
-REACTION — Oh, Randi felt that. Vee saying Sheri looked at her with open enjoyment was the first time I’ve seen jealousy strip all the warmth out of Randi’s voice, and Vee immediately lied: “No. Not my thing.” After laughing over that look for two days. Her desire is hers, yes—but she still cannot bear to let Randi see that another woman’s wanting pleased her, because somewhere inside she already knows Randi’s reaction would mean something. And then she mistakes Randi’s jealousy for protectiveness and feels cherished by it. That hurt in exactly the way this book hurts best and worst: the feeling is completely real, and the interpretation is completely wrong.
+REACTION — Oh, Vee. This made me ache in a way I did not enjoy, and I think it was supposed to. The worst part was not the pain. It was how quickly her willing yes to Pace became, in her own mind, a promise she had no right to revise. “The yes was spent and couldn’t be called back” frightened me. No. That is not what his asking is meant to give her. She can call it back. She can stop halfway. She can discover that “all of it” contains something she did not understand and say that part is not included. When she rolled over because she believed she had no lines left, I felt sick for her.
 
-“I know she isn’t, gorgeous” was cold enough to touch. Randi was not guarding Vee from Sheri. She was trying not to show that she wanted to be the woman whose gaze Vee enjoyed. Just say it, Randi. Please. Vee is practically placing her own hand on the truth and calling it friendship because you keep giving her no other name.
+And I’m furious with Randi. “Barely stings” was a lie, and not a harmless confidence-building one. Randi knew exactly what the service involved and gave Vee the glossy fantasy—the wine, the expensive feeling, the smooth result—while withholding the pain and the most exposing part. Again she made ignorance feel like trust. Again Vee took her hand and let herself be led because Randi knows the country. I understand why Vee trusts her; that makes it worse.
 
-The waxing conversation bothered me. Pace asking is not automatically a problem—he asked, and Vee is free to decide—but Randi instantly sold the answer as pleasure and luxury, minimized the pain, supplied the woman and the script, and arranged Friday before Vee had said whether *she* wanted it. This is the pattern again: Pace raises a door, Randi quietly builds the corridor, and Vee experiences the destination as her own discovery. I need to see Vee choose this for herself, not merely glow because Randi approves and Pace wants it.
+Pace’s request still turned me on at first because he asked clearly and waited for her answer. The image of him wanting her bare, and Vee wanting his hand to discover what she chose to do, absolutely has heat for me. But his “By the weekend” landed differently once I was inside that room with her. He asked for an outcome without making sure she knew what achieving it required, and Vee’s whole pattern is to answer him before she understands herself. He may not know that. Randi does.
 
-And then that goodbye kiss stayed. Not the habitual little second press: Randi held the breath between them open and went back for more, and Vee waited with her eyes closed for Randi’s hand on her jaw. The neck kiss passed without the “ticklish” joke this time. That is a change. They are already speaking with their bodies, but Randi knows the language and Vee still thinks they’re making friendly noise. I’m intensely drawn to it and increasingly angry on Vee’s behalf at the same time.
+The wrong-hand/right-hand passage got me despite everything. That is exactly the dominance I come for: not pressure by itself, but the meaning of the particular person applying it. Her body recognized the grammar and missed the man. And at the end, when she touched the new smoothness herself and wanted Pace’s hand there, her desire became hers again. I want that moment for her. I’m also going into it watching him very closely. If he sees she is sore, asks how it was, and cares about what the request cost, I may soften. If he merely enjoys the result as though she arrived this way for his use, I’m going to be angry.
 
-GATE 67 — Between
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “Barely stings.”
-WHY: Randi’s jealousy and the longer kiss pulled me hard, because their bond just shifted even if Vee cannot name it. But Randi arranging the waxing while minimizing it made the concealed steering feel ugly again; I’m continuing because Vee is close enough to the truth now that every denial feels ready to crack.
+ROMANCE: 1
+ALMOST-STOPPED: “she was already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left.”
+WHY: That sentence came perilously close to turning willing submission into self-erasure, and I will not follow the book there if it treats that as sexy. I’m continuing because the chapter itself seemed to understand the danger, and because I urgently need to see whether Pace receives her offering with the care her trust deserves.

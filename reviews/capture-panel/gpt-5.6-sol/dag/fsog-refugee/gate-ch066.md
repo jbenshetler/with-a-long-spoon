@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~be90efe95687 · 2026-09-12*
 
-REACTION
+REACTION — Oh, Cassie. Thank God for Cassie.
 
-Oh, Vee. She is trying so hard to make wanting Randi not count. She can have Pace over and over, keep her hand pinned safely to her stomach, swim her head empty, dress without admitting who she dresses for—but none of it changes where her body goes when nobody is directing it. That matters to me. Her desire is not something Pace or Randi manufactured in the moment. It persists when she is alone, when she resists it, when it frightens her, when there is no pleasure in admitting it. It is hers.
+“Is this what you want?” is exactly the question nobody else is asking Vee. Pace asks what she wants in the moment, sexually, and that matters enormously—but he already knows the hidden shape around her. Randi keeps creating moments Vee can consent to without admitting what those moments mean. Cassie alone asks about the whole thing, plainly, without supplying the answer or nudging Vee toward one.
 
-And I ached at her realizing that Pace cannot be used as the explanation anymore. In his bed she could pour every response to Randi into him and call it heterosexual, call it his fantasy, call it sex brain. Sitting beside Randi, with one knee touching hers and one fingertip crossing her wrist, there is nowhere to assign the wanting except Randi herself. The Lifesaver nearly did me in. Such a tiny established intimacy, and now every ordinary thing between them has changed temperature.
+And Vee cannot answer. That hurts, because her body’s yes is real—the chapter does not let her dismiss it, however desperately she tries—but wanting Randi and wanting *this situation* are not the same question. She wants the kiss, the hands, the friendship, probably far more than she can name. Does she want to be maneuvered into it while Randi keeps calling desire a joke? Does she want Pace quietly turning her confession into foreplay while concealing that Randi is already his lover? She cannot answer Cassie because she does not know enough to answer honestly.
 
-But Vee turning away from the goodbye kiss was a choice. A real one. She wanted that mouth terribly and still decided not to take it because she was not ready for what it meant. I was proud of her for the half-second before Randi made me furious.
+Her snapping “You don’t like her” scared me more than angered me. That is Vee grabbing the oldest available defense because Cassie has come too close. But Cassie does not fight for the right to be correct. She sees Vee has no dinner in her and offers cereal. That tiny kindness nearly undid me. She leaves the large question open and gives Vee one small want she can safely say yes to. No seduction, no leverage, no reward for disclosure. Just: you haven’t eaten; do you want some of mine?
 
-Randi may have believed the excuse about illness, but she absolutely noticed Vee refusing the kiss. Then she stayed inside the hug, put her mouth on Vee’s neck instead, and laughed when Vee’s body reacted. “See? How do you like it?” No. I know Vee has kissed that same place on her twice, and I know Randi experiences this as teasing reciprocity—but Vee had just turned her mouth away. That was information. Randi once again took the route that let her get what she wanted without asking what had changed. And of course Vee’s aroused body immediately asked for brunch, because this is exactly why bodily response cannot be treated as permission or clarity.
+Honestly, that bowl of Cocoa Pebbles may be the cleanest act of care in this entire book.
 
-What saves the chapter for me is Cassie. Thank God Cassie saw them. Thank God the book did not let Randi’s little triumph float away as uncomplicated flirtation. Cassie takes one look at Vee and asks the question with worry in it. She is the one person who might help Vee separate “I want her” from “therefore everything Randi does is all right,” and Vee desperately needs that distinction.
-
-Also, brunch. Vee has just arranged private time with Randi after spending three days unable to manage an hour beside her. I am already braced. I want the honest conversation so badly, but I do not trust Randi to stop arranging and finally risk a plain answer. And now Cassie is standing there, having apparently witnessed enough to be alarmed. There is no chance I’m putting this down.
-
-GATE 72 — Coming Due
+GATE 68 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “Randi laughed, delighted, not sorry at all. ‘See?’ she said. ‘How do you like it?’”
-WHY: Vee’s desire finally survives every attempt to explain or exhaust it away, and that pulled me hard. Randi overriding the turned-away kiss made me angry, but Cassie’s immediate worried question tells me the book sees the trouble too—and I need her to make Vee look directly at it.
+ALMOST-STOPPED: none
+WHY: Cassie asked the moral and emotional question at the exact moment Vee could no longer lie convincingly, then cared for her without forcing an answer. I need the truth to break soon, and Cassie suddenly feels like the person most capable of helping Vee keep hold of herself when it does.

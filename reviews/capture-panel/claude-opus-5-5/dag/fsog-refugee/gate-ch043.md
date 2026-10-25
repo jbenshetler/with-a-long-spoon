@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
 
 **REACTION**
 
-Oh, the shirt. I'd forgotten I was carrying it until it came back. She washed it in forty-five because it had stopped smelling like him, and he put it on over his own shirt in his kitchen and wore it all weekend for her. That was one of the tenderest things in the book. Now here it is in her bunk at two in the morning, and it's doing its job perfectly, and that's the problem. Every part of him is in the cloth: the sawdust, the salt, the rooms he keeps warm for her. And none of it tells her what she is to him. Then "it was warm because she was warm" hit me the way the cold hits her when she pulls it off. The comfort was her own heat coming back at her. I've been in that bed. Most of us have.
+Oh, *Vee*.
 
-What I love is that she doesn't put it back on. She lies there bare in a cold room with the window cracked two inches and won't let herself be soothed by a stand-in. She doesn't write a text designed to fish for something. She doesn't let a small warm reply put her to sleep. It isn't a breakdown. It's a refusal, and it's hers. I can't tell if it's self-punishment or the start of a spine. I think she can't tell either, and I trust the book more for not telling me.
+She sat in the car making herself feel the wanting all the way through before she went in, with her coat buttoned to the throat and that coin taste in her mouth. I've been that girl in the driveway. I knew how the chapter would end before she reached the door, and I still read the rest with my hand over my mouth.
 
-But I know things she doesn't, and it stings. "Across town in his own bed, gone down easy as a man with nothing grinding in him." Maybe. Or maybe Randi is folded over the back of his couch telling him how Vee leaned up after her on the sidewalk. I've seen him use that word, "work," and I've seen him with Randi's head under his jaw saying "I'll be careful with you." That's the closest he's come to it with anyone. After that, Vee lying uncovered in the cold over the word he hasn't said is almost too much. I want to shake him again. Then I remember Chili's, the fork squared to the table, "I'm listening now." Not saying it may not be withholding. It may just be how he's built. She's reading a man who can't take a loud room as a man who won't take her. Nobody has given her the information that would fix that, and the person who could is the one sitting across the brunch table collecting her confessions.
+He said it. "You're the most important person in my life." I've waited fifty chapters for that man to put words on a feeling, and he finally said something that big, flat and plain, and she went right over it: "But what am I?" She couldn't hear it, because it was an answer about the inside of the house and she was asking about the outside. And I know why he can't answer the outside. I sat on that couch in chapter forty-three. I know who was folded over the back of it. When he says "Do any of your friends have a relationship you'd rather have than this one," that isn't a dodge for him. It's literally the only honest thing he can say without saying *Randi*. He won't lie to her and he can't tell her, so he hands her the closest true thing, which is a math answer to a heart question. Then "Words are cheap. Believe what I do." That's his whole religion: the drawer, the shirt worn over a shirt, the heat turned up hours before she comes. I've been preaching it for him in my own notes. And she turned it into a knife. "Words are cheap, and you still won't spend them on me." God. I'd text that line to someone at 1 a.m. with nothing after it.
 
-My honest hesitation is that this is the third chapter in a row of her circling the unsaid word: the porch, the bed after Chili's, now the bunk. "Not the big one and not the small one" came back almost word for word. The ache is real and the writing earns it, but I'm starting to feel the loop. This was short and exact, and I'll take one more. But the next thing needs to be him in a room with her, or someone saying something out loud. I've done my time in the cold with her. Now I want her to get something for it.
+The arms folding scared me. It's the wall again, the same flinch she poked on the Friday she pantsed him. For one second I thought he was going to go cold on her, the way she accused him of after Chili's, and then I'd have had to decide what I thought of him. But he didn't. The moment she cried, the cold went out of him and his hand came up. And I loved her for "not the hand in place of the word." She's right. That hand is how he answers everything, and tonight it's the wrong currency, and she knew it and refused it. And he said her name once and let her go. He didn't grab her and he didn't follow her down the steps. I left three subgenres behind because men in them did follow, and the book wanted me to swoon over it. This one let her no be a no, at the door, at the cost of his own evening, with the wine already poured. That's the thing I came here for, and it broke my heart a little to get it like this.
 
-GATE 49 — Bare
+What I'm sick about is how much she doesn't know. She thinks this is about whether he loves her. Part of it is. But the real reason there's no name is sitting in a low green Mercedes, and she's going to drive to *her* for comfort. I'd bet money she's in a booth with Randi by Saturday, and Randi will be warm as a bath about it. Two chapters ago that woman said "God, I want her" into the back of his couch and then took it back. The table with three chairs just got a lot closer, and Vee is going to walk up to it crying. That scares me more than anything Pace did tonight.
+
+And underneath all of it: they were alone in a room again, finally, after the cold dorm night. It lasted two pages and it was this. If this is the end of the volume, it's the door closing, and it earned it. I'd have bought the next one before I slept.
+
+GATE 50 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
+CAPTURE: 9
+NEXT: 10
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "there was no name in her for it, not the big one and not the small one" — the book repeating itself after three chapters on the same ache.
-WHY: Taking off the shirt and staying cold is a real choice that belongs to her, and the "warm because she was warm" line got me. But I'm at my limit for the unsaid-word loop. The next chapter needs a door to open, not another night of her lying awake.
+ROMANCE: 3
+ALMOST-STOPPED: none. The nearest I came was "Words are cheap. Believe what I do." and it made me want to shake him, not close the book.
+WHY: He finally said the biggest thing he's got and it was the wrong size for the question, and I know exactly why he can't say the right one. She refused his hand, he let her walk out without chasing her, and now I'm terrified of who she runs to.

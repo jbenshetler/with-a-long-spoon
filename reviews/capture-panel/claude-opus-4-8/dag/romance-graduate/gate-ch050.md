@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch050 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-10-24*
 
 REACTION
 
-Okay so first thing, 1 a.m. text: he started to SAY it. "Vee, I l—" at the door in 52 and she didn't let him finish, buried it under the coat — and I've been chewing on that through this whole chapter. The word she drove three states and a county road of self-abuse to get might have been right there in his mouth and she preempted it with her body because Randi told her words are the whole war. That's the thing I can't put down. She won him back by agreeing to his own terms — no words, believe what I do — and she thinks she scored a victory and I think she signed the treaty he always wanted.
+Oh, he's coming into her *life* now. That's the whole chapter and it made the back of my neck go cold even while it was being sweet, because of course the first name out of her mouth is Randi. "You could meet Randi. Properly." Properly. Vee wants to set a table and watch her two favorite people find out about each other — and they already found out about each other, before she was anything to either of them, they *picked her over coffee* — and she's going to sit between them glowing while they perform a first meeting. I had to put the book down for a second. The dinner she's building is the exact shape of the trap, and she's choosing the napkins for it.
 
-And then the chapter itself. Look — the heat is genuinely good. "He was opening her as he had opened the orange, nothing hurried, nothing skipped, everything in the order the fruit demanded." That's the whole book's trick in one line, food and sex as the same grammar, and it still works on me. The pointing-finger game, the wordless chain of command, the shame-and-wanting arriving as one indivisible thing — that fused cringe-and-heat is this author's signature and nobody else on my Kindle does it this cleanly. The breakfast is pornographic in its own right and I mean that as praise.
+But here's what got me, what actually got me, and I hate that it did: he kept everything. Meg's boots and her heel coming up out of the right one when she pushed off. Kayla talking the paint off a wall, handed back in his flat voice. All fall she ran on at his back thinking she was just filling the quiet, and he was *shelving* it, every scrap, her whole little world of floor-mates and half-sentences. After the nachos — after "I listen as hard as I know how and I still can't hear you," after he ruined the chips going soft under the cheese — this is him proving he was listening the whole time in the only currency he'll spend. Not words. Deeds. He remembered the boots. God. The man won't say four letters to her but he memorized Meg's shoe size by inference. That's the leash again, both hands, tender and withholding in the same gesture, and I felt it work on me exactly the way it works on her.
 
-BUT. This is two sex chapters stacked, and the "pleasure princess / pleasure slave, a gladiator once, her beauty had turned him" bit went on about a paragraph and a half past where it was cute. I felt the author enjoying it more than I was. That's the closest I came to drifting.
+And the Theo thing — "Bring Theo," no look up, no question, reach for the next pan. Vee reads it as this huge generosity and I read it as the formula doing its quiet arithmetic: he can't be jealous because jealousy is ownership and ownership is the word, so a man who asked her out last spring is nothing to him, genuinely nothing, invite him. She feels chosen. I felt the cold floor under it. That's the thing this book does to me over and over and I'm so tired of being this moved by it.
 
-What saved it — what turned the whole thing sideways in the last stretch — is the taste. She tastes herself on his mouth, does the scandalized-aunt flinch, fine, that's the mother-voice installed in her and it tracks. But then: "a faint edge of sharp and salt that had not been there this morning." And he didn't wipe, this once, when he ALWAYS wipes. And "why does he like it so much." And that thread going minor-key and settling under the afterglow and NOT going all the way out. The book just planted something under the bliss and walked away whistling. I don't know yet if the salt is nothing, or her own body, or — given what I'm holding — something I don't want it to be. But the fact that her tongue went hunting twice, uninstructed, "hers," and the chapter ends on it "waiting" — that's not afterglow, that's a fuse with a second fuse inside it.
+The "tables have ends, somebody ends up at one" — she won't build a dinner one of her people has to be a good sport at, and "she'd watched somebody be fine about it before. She wasn't going to look at when." That's Randi in the glass room, that's the clothes, that's class sitting at the table unnamed. She clocked it and refused to look. She's getting sharper about everyone except the one thing.
 
-And Tuesday. She's going to sit across a little table from Randi — Randi who handed her the sword, Randi she KISSED under the composites two days ago, Randi who stood in that foyer with her hand on the door going "that girl had kissed her," Randi with Brooke's ultimatum ringing — and tell her "nearly everything," and ask her what to make of the strange small thing. Randi always knows what to make of it. I want to throw the book. She's bringing the one person who chose her the full report of the plan working, and she's going to hand Randi the taste too, and Randi is the last person on earth who should be asked to interpret it.
+What I'd text a friend at 1 a.m.: HE WANTS TO MEET HER FRIENDS AND SHE PICKED RANDI FIRST. the dinner is happening. put Pace and Randi in one room in front of her and light it.
 
-GATE 53 — Missed a Spot
+A quiet chapter and I didn't resent one second of it — it's a bridge but it's the bridge *onto the thing*. "Let me handle it." He's going to handle it. I'm scared of what handling it means with these two.
+
+GATE 54 — Back
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "So that's settled, then, she thought, silken with satisfaction. A princess, groomed by her own pleasure slave. A gladiator, once. Her beauty had turned him." — the framing ran long enough there that I felt the prose petting itself.
-WHY: The heat is real and the orange-and-opening line earns the page, but I'd have dinged it for being the second sex chapter running if it hadn't closed on the taste and that minor-key "waiting." That thread plus Tuesday's Randi dinner has me turning the page before I've finished this sentence.
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: A true bridge chapter and it still had my pulse up — the listening reveal is the first real deed-answer to the nachos, and watching Vee cheerfully draw up the guest list for the one dinner that could detonate her is the cruelest, best dramatic irony the book's handed me yet. I want that table set now.

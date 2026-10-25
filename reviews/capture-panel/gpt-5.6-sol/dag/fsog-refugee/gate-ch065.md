@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 REACTION
 
-Oh, this hurt. Vee drove twenty minutes in the cold to use her boyfriend as a wall against her own desire, and then discovered Randi was still in the room with them. Still in her mouth, still in her body, still waiting on Tuesday. There is no putting this back now. She can call it drinks and a joke and a dumb body as many times as she likes; her desire has become more truthful than she is.
+Oh, Vee. She is trying so hard to make wanting Randi not count. She can have Pace over and over, keep her hand pinned safely to her stomach, swim her head empty, dress without admitting who she dresses for—but none of it changes where her body goes when nobody is directing it. That matters to me. Her desire is not something Pace or Randi manufactured in the moment. It persists when she is alone, when she resists it, when it frightens her, when there is no pleasure in admitting it. It is hers.
 
-And Pace—God, Pace. The whole confession game was exactly the kind of dominance I want to melt for: he knew when she was tidying the truth, held her still, waited, and made honesty the way back to pleasure. “You finish when you’ve finished” absolutely got me. He didn’t punish the wanting or shame her for it. He made her say that Randi’s tongue was a please, that she wanted the kiss, that she wanted Randi’s mouth lower. He let her hear herself. In another book, with an actually unsuspecting boyfriend, I would have been gone over that scene.
+And I ached at her realizing that Pace cannot be used as the explanation anymore. In his bed she could pour every response to Randi into him and call it heterosexual, call it his fantasy, call it sex brain. Sitting beside Randi, with one knee touching hers and one fingertip crossing her wrist, there is nowhere to assign the wanting except Randi herself. The Lifesaver nearly did me in. Such a tiny established intimacy, and now every ordinary thing between them has changed temperature.
 
-But he already knows. That changes everything.
+But Vee turning away from the goodbye kiss was a choice. A real one. She wanted that mouth terribly and still decided not to take it because she was not ready for what it meant. I was proud of her for the half-second before Randi made me furious.
 
-He is not lovingly helping Vee discover a truth neither of them understands yet. He is secretly collecting confirmation of the desire he and Randi have been cultivating together. He asked “How did this happen?” as though he did not know Randi brought Vee as her date, dressed her, and wanted her. He made Vee pay out the story inch by inch while holding an entire hidden relationship behind his teeth. Vee thinks she has never concealed anything from him; he is lying to her by omission in the very moment he turns honesty into an erotic requirement for her. That imbalance made the hottest scene in the chapter feel both irresistible and sickening.
+Randi may have believed the excuse about illness, but she absolutely noticed Vee refusing the kiss. Then she stayed inside the hug, put her mouth on Vee’s neck instead, and laughed when Vee’s body reacted. “See? How do you like it?” No. I know Vee has kissed that same place on her twice, and I know Randi experiences this as teasing reciprocity—but Vee had just turned her mouth away. That was information. Randi once again took the route that let her get what she wanted without asking what had changed. And of course Vee’s aroused body immediately asked for brunch, because this is exactly why bodily response cannot be treated as permission or clarity.
 
-And then she tells her first real lie to him—“Nothing”—while he gives her another chance to tell him about Randi. I felt the cold of it land in her. I hate that she thinks she “got away with it,” but I understand exactly why she lied: she has no language yet that does not threaten the safe, straight structure she has only just been given. “Boyfriend” is not merely a relationship word for her. It is the rail she grabs to stop herself falling into knowledge about who she is and what she wants.
+What saves the chapter for me is Cassie. Thank God Cassie saw them. Thank God the book did not let Randi’s little triumph float away as uncomplicated flirtation. Cassie takes one look at Vee and asks the question with worry in it. She is the one person who might help Vee separate “I want her” from “therefore everything Randi does is all right,” and Vee desperately needs that distinction.
 
-What makes me furious is that Pace knows the floor is there. He could tell her. Instead he gets to be infinitely accepting—“I don’t mind”—without risking his own truth. Vee experiences that as the sweetest defense of her he has ever made, while I know it is also a grotesquely easy generosity. Of course he does not mind. He and Randi chose her. He has already had sex with Randi while they talked about Randi’s mouth on Vee. His tenderness is real, and the concealment inside it is real too, and I am reaching the point where the second thing is poisoning the first.
+Also, brunch. Vee has just arranged private time with Randi after spending three days unable to manage an hour beside her. I am already braced. I want the honest conversation so badly, but I do not trust Randi to stop arranging and finally risk a plain answer. And now Cassie is standing there, having apparently witnessed enough to be alarmed. There is no chance I’m putting this down.
 
-I also flinched at Vee being raw because she did not stop when she should have. Pace recognized the anger and asked what happened, which matters, but once the game began he used her need to draw out the confession. She wanted the control—very clearly—and the charge between them was enormous. Still, because he possessed information she did not, he was directing her toward a revelation whose destination he already knew. That is not the clean consent I thought I was watching from Vee’s side.
-
-And Tuesday. Yes. That is the hook in me. Vee can flee to Pace, climax, confess almost everything, deny everything, be held all night—and her mind still goes straight back to Randi. I desperately want her to sit beside Randi and discover whether Randi will keep pretending. If Randi gives her another bright little friendship smile and acts as though that kiss meant nothing, I may throw the book. If she risks one honest sentence, I will forgive more than I currently want to.
-
-What I would text at one in the morning: “She went to her boyfriend to fuck the wanting-for-Randi out of herself, and he made her confess every detail while secretly already sleeping with Randi. I am incandescent and unfortunately still extremely turned on.”
-
-GATE 71 — Boyfriend
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: “Tell me—the real story, and I'll give you what you want.”
-WHY: The scene hit my exact weakness—tender dominance used to make her speak her own desire—but Pace’s hidden knowledge makes that same control ethically filthy in a way the book absolutely must confront. I need Tuesday immediately, and I need either Randi or Pace to stop taking Vee’s honesty while offering her only beautifully managed lies.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “Randi laughed, delighted, not sorry at all. ‘See?’ she said. ‘How do you like it?’”
+WHY: Vee’s desire finally survives every attempt to explain or exhaust it away, and that pulled me hard. Randi overriding the turned-away kiss made me angry, but Cassie’s immediate worried question tells me the book sees the trouble too—and I need her to make Vee look directly at it.

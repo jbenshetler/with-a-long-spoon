@@ -1,34 +1,30 @@
-*capture-dag-v2-rich · gate ch065 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 **REACTION**
 
-Oh, this chapter. I'm going to need a minute.
+Okay. I'm going to talk about Saturday night first, because this chapter is its fallout and I can't separate them.
 
-The first part is everything I read for. Vee in the dark room with her finger stopped on the new bare skin, and the picture that comes is Randi. It's not Pace and it's not the afternoon. "An offering with the wrong name on it." Her hips tilt before the thought finishes, and then she holds the hand against her breastbone like something she caught stealing. That's desire written from inside her, and it's hers and messy and ashamed of itself. Then she puts the skirt back on and leaves the thong on, "wanted it there and wouldn't ask herself why," and drives the county road with the radio off so nothing in the car can ask her questions. I loved her and was scared for her all at once. She takes the lead the whole way in. She rings twice, puts a hand in his boxers, says "I need you." Nobody acts on this girl here. She's using him, and the book knows she's using him: "she was not trying to have him. She was trying to get free of something." The sex with teeth, coming with her face turned into his neck so she won't have to see him see her. That hurt to read.
+The inch-for-a-truth game in his bed was the hottest thing in the book so far, and I'm still not sure how I feel about that. She wanted it, it was her rule as much as his, and she kept testing it and it held. "That's *cheating*," nowhere near offended. I believe that consent, and I loved it. But then he asked "Anything else you want to tell me? About Randi," in the flat true voice, and he already knows. Randi tells him everything in bed. He was asking a question he had the answer to, and he got her first lie. She lied to the man who knows, about the woman who told him. I hate that for her. It's the three-games thing from the jacket made physical: everyone in that room had more information than Vee.
 
-Then he says "That was angry, Vee," and I melted, because that's the man who reads her. And then the game.
+This chapter is quiet, and it works on me. Sunday is her reaching for him again and again, and "full of him and not, somehow, filled" broke my heart a little. She's using the man she loves as a lid. Monday night with her hand flat on her stomach, "a lid held down on a pot," is the best thing in the chapter. Her desire is completely hers, rendered from inside, and she's refusing it because if she touches herself it becomes *true*. That's the heroine I read for: her own appetite, her own terror of it. Also "Pace had made a point of telling her so, in the dark, in the way that stuck." What did he tell her? When? That one line reads like he's been giving her permission to want things without telling her who's on the other end of the permission.
 
-I need to be honest about the game, because I was squirming in two ways at once. As heat, it's a 3. It's the hottest thing in the book for me, maybe the hottest thing I've read in years. He holds her off all but the head of him and she pays for every inch with something true. Every time she tidies a story he just stops, and the stopping turns her around to look at what she smoothed over. "Were you wet?" "I don't know." Nothing. "Soaked." Three strokes. "You finish when you've finished." She laughs and says "that's cheating," and the book takes care to show she leans her whole weight on the rule and it holds, she wants it, it feels right. I believe her. It's consensual, it's playful, and it's control that makes room for her. Technically it's exactly the thing I left three subgenres looking for.
+The Lifesaver on the inside of her wrist. "Static." Ha. Sweetheart.
 
-But I know what she doesn't. He's sleeping with Randi. And every piece he pulls out of her tonight, the wrists over her head, "I didn't try that hard to get my hands back," salt and lime, "I wanted her mouth lower," he can carry down the hall and lay on the bed like a card. "She kisses me first now." I kept seeing Randi propped on an elbow hearing "her tongue was a please" in his voice. So the hottest scene in the book is also, maybe, an extraction. He isn't forcing her. She wants every second of it. But the confession under the sex is going somewhere she doesn't know about, and that's the third game. That's exactly what the jacket told me. *She doesn't know there are three.* I just watched the third game being played inside her body.
+Then Randi's "having you at the dance... I've wanted to do that for the longest time." *Having.* Again. The same word Randi used about guys you have to manage. I think Randi chose it.
 
-Then after. She lies to him, "No. Nothing," her first lie to him ever, and it sits cold in her. She's tearing herself apart over the goodbye kisses and her own hand, and he's lying in that bed holding a whole second relationship. He asks "Do you want to sleep with a woman, Vee?" like a man clearing a plate, and she says "I'm not gay." She throws "you want Randi" at him, which is the truest thing anyone says in this chapter. And he answers "You keep saying her name. Not me." Gentle. Then "I don't mind." And Vee takes it as the sweetest thing he's ever done, because for once he defended himself. I wanted to throw the book. He didn't defend himself. He covered himself, and it worked like a blanket over her. He even gives her the actual grey blanket a page later. The book knows what it's doing. The flicker that crossed his face is right there on the page for me and not for her. I'm not angry at the book. I'm angry at him. That's different, and it's why I'm still here.
+The doorstep is where my old alarm went off. Vee turned her mouth away on purpose, with a reason, and Randi accepted the excuse. Then she put her mouth on Vee's neck anyway, right on the spot Vee had been "told not to weaponize," and laughed, "not sorry at all. See? How do you like it?" Vee said no to one kiss and Randi went around the no to the place she knew would land. It's small, it's playful, and Vee's body lit up. Out of that came "Brunch," her own word, her own reach. So I can't call it coercion, and the book isn't winking at it either. Cassie is right there in the next scene with worry in her voice. But I'm marking it. Randi steers. She's never once just taken the answer. And "discipline a bad girl" on standards committee? That's Randi talking about Vee to Vee's face.
 
-And she's raw inside, "from not stopping when you should have." Hers. But I noticed it.
+And Cassie. FINALLY Cassie. "What was that with you and Randi?" I said in my notes I wanted her to be the one who says something, and she did. Vee couldn't answer her oldest friend's plainest question, and that's the scariest moment in the chapter for me, in a good way.
 
-The ending is Tuesday, circled, the perfume, the lipstick, two nights to find a face for it. "What is wrong with me?" Nothing, honey. Nothing is wrong with you. The two people around you are what's wrong.
+What I'd text at 1 a.m.: *She asked for brunch. With her neck still ringing. Saturday is going to wreck everyone, and I bet Randi tells Pace about the neck kiss by Thursday.*
 
-At 1 a.m. I'd text: *he edged a confession out of her about kissing Randi and she called it the sweetest thing he's ever done and HE IS SLEEPING WITH RANDI. also it was the hottest scene I've ever read and I hate that.*
+The gap I feel: Pace alone was only Sunday, in summary. I don't need him yet. I need Saturday.
 
-A couple of things threw me. She says "Saturday's mine with you, it always is." I had him getting Sundays, and the mixer was Saturday. And "a day bare," with him spending the afternoon learning her by mouth. I had the painting as Friday night. Maybe I'm misremembering. Also, where was Sheri's dance hall? He was home asleep.
-
----
-
-GATE 71 — Boyfriend
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
-HEAT: 3
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "You keep saying her name." Gentle, no edge in it anywhere. "Not me." — him lying to her face in the softest voice he has, and her taking it as tenderness.
-WHY: It's the most explicit I've ever been made to feel it from inside her: her wanting, her shame, and her yes to the game, all hers. But now I know the man running that game is carrying her confession to the other woman in his bed. I have to see Tuesday, and I have to see whether he spends this.
+ALMOST-STOPPED: "Randi laughed, delighted, not sorry at all. 'See?' she said. 'How do you like it?'"
+WHY: Vee's restraint and wanting are completely her own, and that's what keeps me here. The doorstep kiss went around a no Vee had just given, and I'll be watching to see whether the book ever makes Randi answer for that kind of thing. Cassie's question and "Brunch" coming out of Vee's own mouth mean I want Saturday right now.
