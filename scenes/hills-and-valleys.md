@@ -1,4 +1,4 @@
-They rode most Saturdays, out past his place. The road rolled, and they talked where it let them, on the flats and the long descents, and went quiet on the climbs, which took the breath for themselves.
+They rode most Saturdays, and they rode this one, out past his place. The road rolled, and they talked where it let them, on the flats and the long descents, and went quiet on the climbs, which took the breath for themselves.
 
 Sheri rode on his left, close enough that he could have put a hand on her bars. She had been faster than him on the climbs for as long as he'd known her and never once let it go unmentioned.
 

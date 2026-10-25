@@ -206,3 +206,5 @@ kiss both register as quietly enormous, freely-given steps. Heat 1–2 / Romance
 2–3 across the board; two readers called friction "almost none." Consensus
 dread going forward: the photo now living in Randi's memory, the Anthro class
 as on-ramp, and whether Randi reports to Pace.
+
+**Photo-to-brunch interval left as is (author ruling 2026-10-25).** In the dated-heading capture test, readers in both arms took Randi's "two *weeks* old" (`all-the-time.md:97`, about the older pictures) as the age of the In His Hands photo (Thu Nov 12; brunch Sat Nov 14). "Since the morning after" (`:103`) stays unpinned: nothing later depends on the photo's age.

@@ -64,10 +64,10 @@ the date lines themselves.
 
 ## Possible prose ambiguities (wrong in both arms, so the prose may be the cause)
 
-- ch28 {{Hills and Valleys}}: Vee's arrival placed "tomorrow night" by three undated lanes (opus-5-5, glm, opus-4-8) and one dated lane (glm). The phrase is Randi's, from {{Broken In}} on the Friday.
+- ch28 {{Hills and Valleys}}: Vee's arrival placed "tomorrow night" by three undated lanes (opus-5-5, glm, opus-4-8) and one dated lane (glm). The phrase is Randi's, from {{Broken In}} on the Friday. Fixed 2026-10-25: the opening now names this Saturday ("and they rode this one").
 - ch29 {{Recognized Method}}: NOT an ambiguity — a judge error. The prose has Vee stay to Monday morning (`recognized-method.md:157-159`, "Monday came at her sideways"); the truth file stopped at Sunday because the `days:` entry did. Fixed 2026-10-25. The "Monday morning" readings marked WRONG (argon, opus-5, both arms) were right.
-- ch39: the gap from the photo (Thu Nov 12) to brunch (Sat Nov 14) is read as "two weeks",
-  "four days" or "six days".
+- ch39 {{All the Time}}: the gap from the photo (Thu Nov 12) to brunch (Sat Nov 14) is read as "two weeks",
+  "four days" or "six days". Cause: Randi's "two *weeks* old" (`:97`) is about the older pictures, and "since the morning after" (`:103`) is unpinned. Left as is (author ruling 2026-10-25): nothing later depends on the photo's age.
 
 ## Next
 

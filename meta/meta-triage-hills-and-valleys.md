@@ -158,3 +158,5 @@ All 12 active hits acked; 0 errors. Nothing unruled among them:
 - The chronology entry (line 144) lists `present: Pace` — Sheri is the other
   participant and is not listed. Flagged, not changed (chronology metadata is
   the author's).
+
+**This Saturday, not every Saturday (author ruling 2026-10-25).** `hills-and-valleys.md:1`: "They rode most Saturdays, out past his place." → "They rode most Saturdays, and they rode this one, out past his place." In the dated-heading capture test, readers carried Randi's "tomorrow night" ({{Broken In}}, Friday) into this chapter and placed Vee's arrival a day late; the habitual opening never moved them to the Saturday itself.
