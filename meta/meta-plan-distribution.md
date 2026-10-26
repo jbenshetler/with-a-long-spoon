@@ -212,6 +212,51 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   (Meta/Amazon/Google and most promo newsletters exclude explicit). This suits a long
   series: each volume grows the list that sells the next.
 
+### ARC round — NetGalley via Victory Editing co-op (recorded 2026-10-26)
+
+**Phase: after the beta read (`meta-plan-test-readers.md`), before publication.**
+Locked text, ISBN, and a set publication date; list 8–10 weeks before launch.
+Public reviews (Goodreads/Amazon cross-posts), so its job is social proof, not
+feedback.
+
+**Field report (author, from YouTube — "HOW TO GET ARC READERS | Booksprout vs
+Book Sirens vs NetGalley + more!", https://youtu.be/9TNlVlXuVdI; secondhand,
+one Fantasy Romance title):** the expensive channel far outperformed the cheap ones —
+**NetGalley 38 reviews** vs. **BookSirens 6 Goodreads + 2 Amazon** vs.
+**BookSprout 2 readers, 0 reviews**. Relevant because NetGalley's reviewer
+pool is romance-heavy, and **romance graduates are this book's best potential
+reader pool** (`meta-plan-test-readers.md`, target-market fit).
+
+**NetGalley (published terms, checked 2026-10-26):** Erotica is a standard
+catalog category (US and UK). No content ban found; publishers are responsible
+for their titles, and removal grounds are defamation, harm/threats, hate speech,
+and rights violations — sexual content is not among them. Publisher help center
+encourages a content warning on the title record ("sexually explicit" is its own
+example). Publisher/client agreement not retrieved — confirm at signup.
+Publisher approves each request (or opens as Read Now); reviewers commonly
+cross-post to Goodreads/Amazon but are not required to. Reported review yield
+30–50% of downloads.
+
+**Cost:** direct listing **$575 / 6 months** (US, NetGalley order page, Sep–Oct
+2026); IBPA route $139/yr membership + $199 (3 mo) or $399 (6 mo) (figures ~18
+months old); Featured Title $125–150/week.
+
+**Victory Editing co-op** — the cheap door to the same pool: **$75/month** per
+e-book slot (audiobook $80; both $155). No minimum term stated, but the page
+called it once-a-year as of September — **confirm the term before paying**.
+Allow one week to go live; refundable only before upload. Author manages own
+listing, approvals, widgets, and follow-ups; titles list under publisher
+"Victory Editing" (own imprint can show on Title Details). Needs EPUB/PDF and a
+unique 13-digit number (an ISBN works; without one, retailer links are off).
+ARC need not be final-proofed. No content restrictions stated. **AI:** NetGalley
+permits AI-assisted titles and encourages disclosure in the description; the
+co-op doesn't verify, but its administrator personally opposes AI in creative
+work.
+
+Sources: victoryediting.com/services/netgalley-co-op;
+publishing.co.uk/guides/netgalley-for-indie-authors; netgalley.com/terms;
+netgalleyclient.zendesk.com (Content Warnings; How to Add Books).
+
 ### Author bio (locked — author sign-off 2026-08-15)
 
 Workshopped 2026-08-14, **settled 2026-08-15**. Three surfaces, each a different job —
