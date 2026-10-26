@@ -845,7 +845,7 @@ friend. Four subscription models × seven personas: revised `romance-graduate` a
 `fsog-refugee` (history and habits, no numeric thresholds; the FSoG reader's dark-romance
 exit added), `consent-sensitive` unchanged, two new drafts (`romantasy-refugee`,
 `relationship-first`), and the two v1 texts as controls. 28 reads, all CONTINUE.
-Report: `calibration/drafts-2026-09-27/REPORT.md`.
+Report: `calibration/drafts-2026-09-27/REPORT.md` (removed 2026-10-25; in git history at `1903b4fb`).
 
 **Findings.** Personas do not move scores (every persona within tenths per chapter; the
 opus-4-8/sol lane offset of 1.06 exceeds any persona gap). Every persona treats the
@@ -1252,7 +1252,7 @@ named lanes. It exists because the lanes are not all at one baseline: the
 (see below).
 
 The Long Way was merged into {{Substitution}} on 2026-10-25 after a capture test
-(`split-experiments/merge-substitution/`). On the seven aligned romance-graduate lanes
+(`split-experiments/merge-substitution/` (removed 2026-10-25; in git history at `1903b4fb`)). On the seven aligned romance-graduate lanes
 (claude-opus-4-8, claude-opus-5, claude-opus-5-5, gemini-3.8-flash, gemini-4-argon,
 glm-5.3, gpt-5.6-sol), each standalone Substitution read was retired by hand to
 `read-merged-substitution-ch005.md`, the test's merged read was placed at `gate-ch005.md`,
