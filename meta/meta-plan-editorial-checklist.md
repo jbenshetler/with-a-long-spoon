@@ -64,6 +64,13 @@ mark items done with dates as they complete.*
   **Per-edit check 2026-10-23, How It’s Done approved after-explanation cuts:** subscription fact check repeated the already-settled Cassie living-room/sun-porch shorthand; no new issue from the cuts. Limited per-edit check only.
   **Per-edit check 2026-10-23, Gone workshop restoration:** gpt-5.6-sol checked the restored bedroom sequence/new kitchen aftermath against the existing Volume One ledger. Three flags compare older scene numbers with the current merged chronology (Sorority before Gone); no new factual conflict identified by continuity review. Raw report retained; no automatic prose fixes. Workshop draft pending author review, limited per-edit check only.
   **Per-edit check 2026-10-23, Gone conference revision:** gpt-5.6-sol checked the replacement of the proof discussion with the prior Chicago presentation. Only flag compares old ledger chapter 25 with current chapter 23; no new factual conflict flagged. Limited per-edit check only.
+- [ ] **Close-third pass** — narration that explains what a beat already
+  showed, announces a line before it is said, recaps, or supplies a motive or
+  verdict from outside the POV character; everything left should be something
+  she senses, thinks or feels. Read by eye, one chapter at a time, via
+  `/wals-close-third` (state: `audits/close-third/STATUS.md`; batches in
+  `audits/close-third/<slug>.md`; rulings in each `meta-triage-<slug>.md`).
+  Started 2026-10-25: substitution and dear reviewed.
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
   a revision removed. Worked case: a cut passer-by "in a camel coat too warm
   for the afternoon" whose later callback, "the closed camel-coat project,"

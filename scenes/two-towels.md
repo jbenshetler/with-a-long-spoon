@@ -34,7 +34,7 @@ By the door a coat closet stood open, and while he hung her jacket she looked at
 
 "Depends how many things he does." Not defending it — just true. One right pair for each thing and no more; she could have read half of him off that closet floor without a word.
 
-The kitchen was small, and out of old habit she braced for one of the two things a kitchen ever got to be — the granite kind nobody cooked in, or the one-fork-and-a-jar-of-sauce kind. It was neither. It looked like it had a purpose. A white counter with the shine worn off, wiped down; a kettle; a few good knives standing in a block, not a set, only the ones a cook keeps reaching for; a couple of heavy pans; a KitchenAid on the counter, white and old, a corner of the paint chipped, worn to the shine of a thing used every day.
+The kitchen was small, and out of old habit she braced for one of the two things a kitchen ever got to be — the granite kind nobody cooked in, or the one-fork-and-a-jar-of-sauce kind. It was neither. A white counter with the shine worn off, wiped down; a kettle; a few good knives standing in a block, not a set, only the ones a cook keeps reaching for; a couple of heavy pans; a KitchenAid on the counter, white and old, a corner of the paint chipped, worn to the shine of a thing used every day.
 
 Down a hall to the left: a bathroom, plain, clean, two towels on the rod. And then a room he called the office, and the office was the opposite of the rest of the house — the one room that had thrown over order entirely. A closed laptop pushed to the side of the desk, and beside it a real workstation, matte and serious, not one glowing light on it — the first expensive thing she'd seen in the whole house, and nothing like the game rigs the boys she knew lit their rooms up with. Everything else was paper. Green graph paper covered edge to edge in neat square handwriting — symbols in some language she'd never been taught, and squiggles she understood after a second were diagrams. And printer pages, typeset, drafts of articles gone dense with corrections in the same square hand — marking up somebody's argument, or his own.
 
@@ -102,7 +102,7 @@ Then he brought her back up the steps and through the house to the last room, an
 
 A bolt of cloth was on the long table, and Pace stopped beside it like a man who'd done something and wasn't sure yet whether he should have.
 
-For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—* the reflex of a woman who'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and in a framed mirror on the wall she caught the two of them together — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
+For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—* she'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and in a framed mirror on the wall she caught the two of them together — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
 
 The magazine shade would have fought her. This one didn't. This one looked like it had been mixed for exactly her, and she understood in the space of a breath that he hadn't matched the dress she'd described. He'd matched *her*.
 
@@ -110,7 +110,7 @@ It was the silk she'd named at the summit, days ago. Cherries in her hand, the s
 
 She'd hung the idea back up beside the good-enough black dress she'd worn to everything, decided that was what she'd wear to the induction, and not thought about it again. It would have been fine.
 
-"I can't sew," she said. It came out before anything else, a reflex, a small panic. As if that were the problem.
+"I can't sew," she said. It came out before anything else, a reflex, a small panic.
 
 "That's okay," he said — easy, like it had never occurred to him she'd need to. "You don't have to."
 
@@ -120,7 +120,7 @@ Counterfeit. Sample. Off-brand. She'd never landed on the answer because the ans
 
 "You made the shirt," she said.
 
-He didn't preen. That was the thing about him she kept not being ready for. A different man would have let the moment be about him, and he just tipped his head, a little sheepish, and said, "I couldn't find a shirt I liked, so I made one," and reached for a measuring tape coiled on the table, and that was the end of his interest in being admired.
+He didn't preen. That was the thing about him she kept not being ready for. A different man would have let the moment be about him, and he just tipped his head, a little sheepish, and said, "I couldn't find a shirt I liked, so I made one," and reached for a measuring tape coiled on the table.
 
 "I'd like to make it for you," he said. "The dress. If you'll let me."
 

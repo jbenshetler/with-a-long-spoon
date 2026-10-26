@@ -229,3 +229,13 @@ phrasing is ever negotiable.
 - **"What she'd gotten was — she hunted for the word — *admired*."** — tagged
   *told-after-shown*; no other reader quoted it (0 of 159 files). Author ruling
   2026-09-30: stands — "admired is strong."
+
+## Explain-after-show pass — 2026-10-26
+
+Close-third pass (`/wals-close-third`; batch and rulings in `audits/close-third/a-round.md`), walked one item at a time with the author.
+
+- **Cut:** `:174` "That was the bravest thing she did all day, the not being able to stand it." The narrator's verdict from after the day, grading her at the suspense peak. Now: "She couldn't stand not knowing. She opened her eyes."
+- **Reworded:** `:202` "and they both felt the difference in it" → "and she felt the difference in it" (no report of Pace's interior). The resulting `filter-verbs` hit was acked by the author.
+- **Left standing — do not re-litigate:**
+  - `:56` "She had not anticipated this part. She had thought the measuring would be the exposure. The measuring was only half of it." This is her surprise at his frank, unhidden looking, not a repeat of the withdrawal at `:52`/`:54`.
+  - `:130` "not building a dress on a form… *for her*": her realization at the turn; `:134` deepens it.

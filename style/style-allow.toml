@@ -221,6 +221,13 @@ text = "Pace's reply is **delayed — engaged concentration, not defense** (the 
 note = "Under the Rug: author-reviewed during close drafting. Name/word antitheses load-bearing engine; filtered/existential constructions are intentional voice. 'all the way down through her' kept by author choice."
 
 [[ok]]
+fp   = "2965878dc08d"
+rule = "filter-verbs"
+file = "scenes/a-round.md"
+text = "It was also the first time he had touched her since the reveal, and she felt the difference in it."
+note = "author 2026-10-26: POV marker; replaces 'they both felt' (close-third pass)"
+
+[[ok]]
 fp   = "2bf55ab4df60"
 rule = "held-past"
 file = "scenes/a-round.md"

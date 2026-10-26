@@ -240,3 +240,19 @@ evidence** (verdicts re-open on a text edit to the passage).
   private way you remind yourself of evidence"). If that split is right, the
   real FIX-AT set is two chapters, not seven. **Not actioned — the ledger was
   left untouched pending an author ruling.**
+
+## Explain-after-show pass — 2026-10-26
+
+Close-third pass (`/wals-close-third`; batch and rulings in `audits/close-third/two-towels.md`), walked one item at a time with the author.
+
+- **Cut:** `:37` "It looked like it had a purpose." (the inventory is the evidence, per the 2026-08-06 ruling); `:113` "As if that were the problem." (a narrator's wink at `:133`); `:123` "and that was the end of his interest in being admired" (the narrator reading Pace's interior; the sentence now ends on the tape).
+- **Reworded:** `:105` "the reflex of a woman who'd had the shade fixed for weeks" → "she'd had the shade fixed for weeks". Author: it is Vee remembering, so it goes into her voice rather than out. "reflex" now appears only at `:113`. The sol authorship audit had quoted the old wording.
+- **Left standing — do not re-litigate:**
+  - `:21` "he invited": a tag choice, not explanation.
+  - `:39` "the opposite of the rest of the house — the one room that had thrown over order entirely": the only place the house's order is named, in Vee's perception.
+  - `:57` "She'd worn it out here on purpose.": an agency beat; Vee's "on purpose".
+  - `:97` "she'd been wanting to ask since her hand was on the joint": keeps the request as curiosity, not flight.
+  - `:109` "Said it the way you say things you've already let go of.": her memory, in her voice.
+  - `:123` "That was the thing about him she kept not being ready for. A different man…": hers; marks the admiration as hers.
+  - `:129` "and then he left the rest to her, open": her read of his manner, and the line's only marker of tone. fable: "left it open and didn't fill the silence"; sol: "leaves the rest open".
+  - `:131` the whole reconstruction ("because once, offhand… made real."): the volume's hinge, all Vee, her reading of his motive, carrying the dramatic irony.

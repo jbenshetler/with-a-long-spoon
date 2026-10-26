@@ -171,7 +171,7 @@ The blood was loud in her ears. She could hear it, the rush of it under her own 
 
 She did not want to see disgust. She wanted even less to see the other thing — the kind careful nothing, the gentleman's pretense that he hadn't noticed, which would tell her he'd noticed everything. She didn't want to see the lifted-eyebrow patience of a man waiting for her to get over herself. She didn't want to see his face working not to laugh. She didn't want, most of all, to find out that the whole tender hour had been a courtesy he was holding in place around something else.
 
-She couldn't stand not knowing. That was the bravest thing she did all day, the not being able to stand it. She opened her eyes.
+She couldn't stand not knowing. She opened her eyes.
 
 He was grinning at her.
 
@@ -199,7 +199,7 @@ Something shifted in her after that. The dread drained out and something warmer 
 
 She started spending it. It wasn't a plan — nothing in her sat down and schemed; it spilled out of her the way everything did, the wanting rising up and out before she could decide to want it. When he reached past her hip her hand found the back of his and ran up to his wrist. When he knelt at the back of her she bent into it more than the dress asked, slow, and was glad of him there. She turned when he hadn't said turn — and he looked up, and registered the change, and instead of saying anything he simply stood and stepped close and smoothed the silk back into place along her newly straightened frame, both hands, unhurried, reading the fall of the fabric from her shoulders down. It was completely justified by the work.
 
-It was also the first time he had touched her since the reveal, and they both felt the difference in it.
+It was also the first time he had touched her since the reveal, and she felt the difference in it.
 
 And twice, leaning into his work, her bare breast came soft against the side of his face as he pinned, warm skin to his jaw — accidents, the kind of accident her body kept arranging without consulting her — and both times she heard his breath stop and his hands gripped just a little tighter, and the maddening difference between the falter in his breath and the steadiness of his hands went to her head like the wine the color of the cloth.
 
