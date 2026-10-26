@@ -60,7 +60,7 @@ Vee laughed, because it was funny, because Randi made it funny, the way she made
 
 "But that," Randi said, leveling a finger, "is a sad woman's tale, and you, my darling, have a smile you have been failing to hide since you walked in. So. Give me something to live on. Be cruel. Tell me everything."
 
-And Vee wanted to. That was the thing she would not have been able to explain to anyone, least of all herself: how much she had wanted, all weekend, to set it down on a table in front of someone who would not flinch.
+And Vee wanted to. She had wanted, all weekend, to set it down on a table in front of someone who would not flinch.
 
 She gave Randi the same dinner. When she came to the middle, she went soft and quick, a hand waved at the air, *and then, well,* the way you fold a thing back into its tissue before anyone can pick it up. She didn't slow down again until she was back in his kitchen, after.
 

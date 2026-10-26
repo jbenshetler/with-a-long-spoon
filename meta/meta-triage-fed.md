@@ -308,3 +308,31 @@ acked with rationale in `style/style-allow.toml`:
   anywhere in the world"), praised by terra and sol.
 
 **Day named in the prose (author ruling 2026-10-25).** `fed.md:49`: "The bistro had" → "Sunday's bistro had", so the prose names the day and the Sunday section line goes quiet. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).
+
+## Explain-after-show pass — 2026-10-26
+
+Source: `audits/close-third/fed.md` (`/wals-close-third`). The author asked for
+an aggressive read with protections ignored (25 clauses listed there, ranked);
+six walked.
+
+### Changed
+
+- `:63` — "That was the thing she would not have been able to explain to
+  anyone, least of all herself: how much she had wanted" → "She had wanted,
+  all weekend, to set it down…". The narrator's claim about what she can't
+  account for, flagging her want for Randi; the Cassie/Randi contrast (the
+  ladle, the kept middle) carries it. No praise.
+
+### Left standing — do not re-litigate
+
+- `:75` "glad for her friend" — Vee's (mis)reading of Randi, the same one she
+  makes in her own voice at `how-its-done.md:1032`; "her friend" is her
+  savouring the role.
+- `:69` "and meant it" — Vee judging Randi's sincerity.
+- `:59` "the way she made everything that had cost her into a story that had
+  cost her nothing" — Vee's generalization: every Randi story is her losing at
+  love to a disappointing man (Dear's lacrosse date, the hurried old
+  boyfriend, How It's Done's scarf man). The irony is what the pattern may
+  hide, not the clause.
+- `:45` "She had never in her life been so happy.", `:125` "and the day was
+  good." — her own feeling and verdict; readers take both as ominous.

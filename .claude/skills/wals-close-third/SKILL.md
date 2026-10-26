@@ -106,6 +106,17 @@ Leave these alone and say why in the report:
 - **Her memory, in her own generalizing voice** ("Said it the way you say things
   you've already let go of", `two-towels.md:109`, kept).
 - **Her perception of someone's manner or tone.** A clause saying *how* a line was said is often the only thing setting its tone; without it the line can read as pressure (`two-towels.md:129`, withdrawn).
+- **Her reading of another character's interior — surface it as a question,
+  don't decide it.** "Narrator reading his interior" (`two-towels.md:123`) is
+  only the narrator's when Vee could not be the one reading. When she might be —
+  from what she has seen or heard, or a reading she makes elsewhere in her own
+  voice — put it to the author as an open question ("Vee's reading, or the
+  narrator's?") with the evidence both ways, rather than proposing a cut or
+  silently leaving it (author preference, 2026-10-26). Fed cases, both kept:
+  `fed.md:75` "glad for her friend" (her own wrong reading, as at
+  `how-its-done.md:1032`); `fed.md:59` "everything that had cost her into a
+  story that had cost her nothing" (the cost is visible to her: every Randi
+  story is her losing at love to a disappointing man).
 - **Plain redundancy that is not explanation** (a reaction stated twice in
   physical terms). Mention it separately as a trim, not as a finding.
 
