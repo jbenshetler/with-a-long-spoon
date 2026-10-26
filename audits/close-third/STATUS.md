@@ -27,8 +27,8 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 10. leave-no-trace — pending
 11. swim-lanes — pending
 12. what-to-wear — pending
-13. two-towels — reviewed 2026-10-26 (11 proposed: 4 applied, 3 kept, 4 withdrawn)
-14. a-round — reviewed 2026-10-26 (4 proposed: 2 applied, 2 withdrawn; :202 filter-verbs acked)
+13. two-towels — reviewed 2026-10-26 (11 proposed: 4 applied, 3 kept, 4 withdrawn; `616ba975`)
+14. a-round — reviewed 2026-10-26 (4 proposed: 2 applied, 2 withdrawn; :202 filter-verbs acked; `616ba975`)
 15. how-its-done — pending
 16. famished — pending
 17. fed — pending
