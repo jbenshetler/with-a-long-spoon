@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha be1dc7d466f1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 47d317c3eaa5 · dated · 2026-10-26*
 
 REACTION
 
-Jesus Christ, the dramatic irony in this book is like a slow-moving piano dangling over Vee’s head by a single thread, and I cannot look away.
+Oh, the air in that smoothie shop went *freezing* cold, and not because of the AC.
 
-Watching Vee report everything back to Randi with that breathless, starry-eyed college girl innocence—completely unaware that every single detail she's confessing is being fed directly into the machine Randi and Pace built for her—is devastating and delicious. Randi casually throwing out, *"Ask and then ravish,"* and Vee feeling like she has this intimate coconspirator, when in reality Randi is literally choreographing the steps. And then the detail of Randi deliberately misremembering his name at first? *"Paul?"* God, she is so calculated, but the cracks are already there.
+That was a masterclass in social violence. When Brooke and the silent girl materialized, my stomach completely bottomed out. Brooke is terrifying because she operates with surgical, lethal politeness—she already clocked Pace ("he goes by *Pace*?") back in chapter two, and now here she is, circling the perimeter, assessing the strays Randi is picking up. And Vee, bless her heart, instantly regressed to feeling too big, improperly dressed, out of place on that display shelf of a barstool.
 
-Because then Brooke walks in. That scene at Smoothie Bird gave me chills. The predatory social geometry of the sorority alpha clocking the "new friend," and then Randi taking Vee’s hand on the table—cold and damp from the cup—and saying, *"Vee’s my dear friend."* Randi spent social capital right there. In Chapter 2, Randi was terrified of Brooke's little spreadsheet interrogations, lying through her teeth about Pace to protect her standing. Here, she willingly takes a hit from Brooke's immaculate, razor-sharp smile to claim Vee in public. Vee thinks it’s this pure, intoxicating validation of being "chosen" (which she is so desperately starved for), but for Randi, it’s this messy, dangerous intersection of the game, her actual burgeoning obsession, and defiance against her own gilded cage.
+And then Randi did that.
 
-Also, Cassie continues to be the only person with both feet on the damn ground. *"Rich people hike. Poor people walk."* God, I love her. Her quiet skepticism and dry protective instincts ground this entire narrative so it doesn't float off into pure fantasy.
+*“Vee’s my dear friend.”* And reached out, deliberately, publicly, and took her hand right on the table in front of Brooke.
 
-The heat here wasn't between two people in a bed; it was in the friction between Randi and Vee over a table, the heavy subtext when Vee talks about her chest and Randi barks that laugh, the cool hand covering hers. It’s simmering, psychological, and completely compelling.
+My skin prickled. Because on the surface, to Vee, it feels like the ultimate, breathtaking validation. It feels like a queen throwing a velvet cloak over a peasant in front of the court. "No one had chosen her out loud like that in a long time." God, the ache in that line! It hurts because Vee is *so* starved for it, and it feels entirely protective. But we know the game. We know Randi picked her off a quad like an apple off a tree. We know Randi is getting off on the secret, and yet... is it *only* that? Randi was genuinely rattled by Brooke in chapter two, practically hiding under her duvet in last night's clothes. Taking Vee's hand in front of the chapter president isn't just grooming Vee—it's a middle finger to Brooke's surveillance. It’s defiant. Randi is spending actual capital to mark Vee as *hers*, and the line between "manipulative huntress" and "woman genuinely drawn into an obsession" is already blurring. Randi’s "Ask and then ravish" said at Vee’s volume? Whew.
 
-GATE 10 — Dear
+Also, Cassie continues to be the absolute grounding anchor of this book. Her dynamic with Vee on the bunks was so warm and real—"Rich people hike. Poor people walk"—and you can feel the tragic little arc of Cassie quietly getting displaced. The way Cassie gave that look in the lecture hall, clocking Randi sliding in, and just folded herself away and left? Oof. Cassie sees the freight train coming, even if she doesn't know what track it's on.
+
+And now Vee is going into the woods with him. With real shoes. I am vibrating.
+
+GATE 9 — Dear
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is humming now. Watching Randi defy Brooke to claim Vee as her "dear friend" completely shifts the dynamic from a clinical seduction game into something messy, dangerous, and emotionally real. I need to see what happens when Pace gets Vee on that mountain.
+WHY: The tension is coiled so tight it's humming. Watching Randi stake a public claim on Vee right in front of Brooke gave me literal chills, and the psychological interplay between the three of them is magnificent. I need this hike immediately.

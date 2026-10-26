@@ -6,11 +6,11 @@
 
 The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking, and Vee had come in out of the night still warm from the evening, from the walk, from him, and the thin line of cold off the sill found her at the door and she didn't mind it. She didn't mind anything. She was already talking.
 
-She'd been talking, really, since the door — it had spilled out of her before she'd got her coat off — and Cassie had been pulled out of the desk chair by it the way good news pulls you to your feet, the highlighter set down somewhere, the reading abandoned, Cassie down on the edge of the lower bunk now with her sock feet up and her arms around her knees, in it, grinning, asking the small questions that kept it coming. The tea had come in little brass cages, Vee was saying, you held them by a handle off the side because the glass was too hot to hold, she'd never explain it right —
+She'd been talking, really, since the door — it had spilled out of her before she'd got her coat off — and Cassie had been pulled out of the desk chair by it the way good news pulls you to your feet, the highlighter set down somewhere, the reading abandoned, Cassie down on the edge of the lower bunk now with her sock feet up and her arms around her knees, in it, grinning, asking the small questions that kept it coming.
 
 "And then walking back," Vee said, and slowed.
 
-She hadn't meant to slow. But here was the part, and the part wanted a different voice than the brass-cage voice, and her own went down into it without her deciding — quieter, the words coming smaller and one at a time, so that Cassie leaned the last inch in to have them.
+Her voice went down into it without her deciding — quieter, the words coming smaller and one at a time, so that Cassie leaned the last inch in to have them.
 
 "There's this tree. And he stops. And you could just — you could tell what was supposed to happen." Vee was looking at her hands. "And I said this stupid starchy thing. I told him I don't kiss a man I've known a few days." A breath. "Which is true. I don't. I never have."
 
@@ -22,11 +22,11 @@ She hadn't meant to slow. But here was the part, and the part wanted a different
 
 "And I didn't go." Vee looked up. "Cass. I stopped. I made *him* stop. And I kissed him." It was barely above the cold air in the room. "He was already walking away and I pulled him back and I did it. Me."
 
-Cassie's whole face was open with it, glad, all the way in — and then, because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head.
+Cassie's whole face was open with it, glad, all the way in — and then she tipped her head.
 
 "How much did he give you to drink?"
 
-"*Nothing*." Vee laughed, surprised up out of the quiet. "We had *tea*, Cassie, I just told you, the little — there was no wine, there was nothing. He didn't —" and here the thing she most wanted Cassie to have, the whole of it, came up plain and certain. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
+"*Nothing*." Vee laughed, surprised up out of the quiet. "We had *tea*, Cassie, I just told you, the little — there was no wine, there was nothing. He didn't — nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
 
 "Okay," Cassie said, and this time the okay had her believing it, and she was grinning again. "Look at you."
 
@@ -46,7 +46,7 @@ Cassie considered her from the edge of the bed, sock feet, chin on her knees.
 
 Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
-"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to, somewhere. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
+"His name is Pace, he is *lovely*, and I am not going to go missing. He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to, somewhere. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
 
 "Off six-fourteen," Cassie repeated. "That's the whole address."
 
@@ -54,7 +54,7 @@ Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
 "Is he rich?" Cassie said. "Rich people hike. Poor people walk. A trail he *goes to* — is he rich?"
 
-Vee opened her mouth and found she didn't have it. "I don't — I haven't been out there yet. To the house." It hadn't occurred to her until just now that she didn't know, and it didn't trouble her now that it had; it went into the pile of things she'd get to find out, which was the best pile there was. "I'll tell you when I've seen it. Either way I have to wear real shoes — that's the one thing he said. Real shoes."
+Vee opened her mouth and found she didn't have it. "I don't — I haven't been out there yet. To the house." It didn't trouble her; it went into the pile of things she'd get to find out, which was the best pile there was. "I'll tell you when I've seen it. Either way I have to wear real shoes — that's the one thing he said. Real shoes."
 
 "You don't own real shoes."
 
@@ -96,7 +96,7 @@ The weather had decided to be kind to Blacksburg. The light came long and clean 
 
 The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, hair up, faces done light and exact. She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, underdressed before she had looked at a single person.
 
-They ordered at the counter with their bags still on their shoulders. Randi ordered something the boy had to ask her to say again, beet and wheatgrass and egg white and oat milk, blended down with ice, an order that sounded like a sentence handed down, a drink the color of a bruise when it came, and she ordered it as though it were her usual. Vee got the strawberry banana. With oat milk, she said, in place of the regular, and felt faintly that she had said the oat milk because Randi was standing right there, and let herself not look at that either.
+They ordered at the counter with their bags still on their shoulders. Randi ordered something the boy had to ask her to say again, beet and wheatgrass and egg white and oat milk, blended down with ice, an order that sounded like a sentence handed down, a drink the color of a bruise when it came, and she ordered it as though it were her usual. Vee got the strawberry banana. With oat milk, she said, in place of the regular, and felt faintly that she had said the oat milk because Randi was standing right there.
 
 The only seats left were a high white table in the window, two tall chairs that left your feet hanging. Vee climbed onto one and understood at once that she had been set up on a shelf. The window at her back, the whole bright room laid out in front of her, her drink already sweating in her hand. Up there, she was a thing the room could turn and look at. She didn't like it and didn't know what to do with not liking it, so she leaned in toward Randi and decided to be happy.
 
@@ -122,7 +122,7 @@ It wasn't a question. "…Yeah." It came out small, and Vee felt her own face st
 
 "Mm," said Randi, warm, and let her have it, and went no further, and Vee felt the letting-go as one more kindness in a day that had been full of them.
 
-She wanted to keep telling it. That was the strange part, how much she wanted to put all of it into Randi's hands. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about. All of it over, I don't know, some bridge. Who built it, why it still stands." She was watching Randi while she said it, to see it land. "I felt good just sitting there listening to him."
+She wanted to keep telling it. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about. All of it over, I don't know, some bridge. Who built it, why it still stands." She was watching Randi while she said it, to see it land. "I felt good just sitting there listening to him."
 
 Randi's smile went brighter. It came up a whole notch at that, the full wattage of it turned on her, and Vee sat up a little under it, and was glad she'd said the last part out loud.
 
@@ -178,11 +178,11 @@ And Vee, with the two finished women looking at her where she sat, did the thing
 
 She had taken Vee's hand somewhere in the saying of it, easily, the way she might have reached for anything on the table, her fingers cool and a little damp from the iced cup, and she held it there on the white top in plain view of the two of them and was in no hurry to let go.
 
-And something went through Vee at that, at *dear friend,* at the cool, damp hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it. She did not know what it had cost Randi to say it in front of them. She knew only, without being able to say how, that it had cost something, that Randi had spent it on her without appearing to count it, and that no one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
+And something went through Vee at that, at *dear friend,* at the cool, damp hand closing over hers in front of these women, a warmth that came with weight on it. It had gone through the other two as well. She felt it more than saw it, a charge come into the air over the white table, every smile staying exactly where it was and the room underneath them rearranged. Vee knew that charge from high school, from the top of every table she'd sat at there: Randi had just spent something on her, in front of the girls who decided what it was worth. No one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
 
 Brooke's smile took it all in, the *dear friend* and the cool hand on the table, and did not change. "We should all get dinner sometime," she said, which was lovely, and meant nothing, and was plainly the end of it.
 
-Vee had been looking at the side of Randi's face while it happened, close enough to see how the work was done. The brows were not drawn on and they were not plucked to a line; they were thick and shaped and lying exactly where somebody had decided they would lie, and the deciding had cost money. Vee had a drugstore tweezer and a bathroom mirror two girls shared. She looked at them until she caught herself doing it, and then she looked at the table.
+Vee had been looking at the side of Randi's face while it happened. The brows were thick and dark, every hair lying the same way. Even from the side, the blue of her eye was so bright it looked lit. Vee looked until she caught herself doing it, and then she looked at the table.
 
 The taller one had not said a word. She had drunk her coffee and watched, and now she gave Vee one last look, friendly enough, the look you turn on a thing once you are done turning it over, and then the two of them were moving off toward the door, a wave, a *love you* tossed back across a shoulder, and the bright matched room closed over them and they were gone.
 
@@ -192,7 +192,7 @@ The room seemed to let its breath out, or Vee did. She reached for her drink and
 
 "Do what." Randi said it like the question was real and the answer was obviously nothing, and she knocked her knee against Vee's under the high table. "You were perfect. Annoyingly perfect. I'm going to have to stop taking you out in public."
 
-And Vee, who had meant to apologize for the fright, found she didn't need to anymore. It was still in her somewhere, the cool finished force of the woman, the way you stay aware of deep water for a while after you are back in the boat. But it had been answered. Randi had stood up into all of it and put a hand on her where everyone could see and called her what she'd called her. And Vee, warm again, felt the thing settle in her that settles when someone picks you out loud in a roomful of people: that she had a place now, and that the place was here, next to Randi.
+And Vee, who had meant to apologize for the fright, found she didn't need to anymore. It was still in her somewhere, the cool finished force of the woman, the way you stay aware of deep water for a while after you are back in the boat. But it had been answered.
 
 Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a person." She was already swinging the good bag up onto her shoulder.
 

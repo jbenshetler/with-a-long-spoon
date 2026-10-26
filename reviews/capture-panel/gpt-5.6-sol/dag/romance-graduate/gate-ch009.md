@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha be1dc7d466f1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 47d317c3eaa5 · dated · 2026-10-26*
 
-REACTION
+REACTION — Oh, Vee. She’s so happy that she kissed him because she wanted to, and that distinction matters so much to her—“nobody did anything to me”—that it made my chest ache. She’s treating her own desire like a country she’s just discovered. The spin into the beanbag was adorable. And Cassie believes her, lets her have the happiness, then quietly makes sure she has enough information to send the state troopers. I love Cassie more every time she opens her mouth.
 
-Oh, Randi is *good*. Too good. “Vee’s my dear friend” with her hand over Vee’s, right when Vee feels cheap and exposed beside Brooke—that would have worked on me too. It’s exactly the rescue Vee needs, delivered in public, at apparently some social cost to Randi. Of course Vee walks away feeling chosen. I felt the weight of it even while knowing the whole friendship was engineered to get her onto a bench.
+Which means I am now extremely alert to Vee beginning to edit Cassie out. “It isn’t really her place” felt awful precisely because it was so plausible and so easy. Nobody banished Cassie; Vee just supplied a reasonable explanation for why she didn’t belong. Then she soothed herself with the idea that healthy friends have separate lives. Girl, no. That little thing turning over underneath the thought is your survival instinct, and I need you to listen to it.
 
-And that’s what’s making this so deliciously uncomfortable: Randi isn’t merely steering Vee toward Pace anymore. She’s learning exactly how to soothe her, flatter her, and make herself indispensable. The tiny echo of “ask and then ravish,” in Vee’s own lowered register, got me. That wasn’t girlfriend chatter. Randi was in the picture with her, whether Vee can admit it or not. There’s heat here, but it’s buried under friendship language, which honestly makes it hotter.
+And Randi is *good*. God, she is good. She takes every genuine thing Vee tells her and gently tilts it toward the plan: you let him choose, you couldn’t help kissing him because of him, he wants you alone, imagine him ravishing you. She never pushes hard enough for Vee to feel pushed. She makes the interpretation feel like another gift. Even “he’d ask, though” becomes something erotically shared between them, and that tiny drop into Vee’s register—“ask and then ravish”—had more charge for me than pages of generic dirty talk would have. Vee felt her there beside her. So did I.
 
-Meanwhile Cassie is watching herself get replaced in real time, and Vee keeps producing reasonable little explanations for why it isn’t happening. Cassie has practice. The smoothie place isn’t her thing. It’s healthy to have separate people. Sure. Each explanation is plausible, and together they’re a trapdoor. I want someone to notice Cassie’s quiet goodbyes before Vee has given away the one friendship in which she’s actually known rather than dazzled.
+I do not believe Randi’s terrible Friday-date story for one second. Maybe the date happened, but it is too perfectly engineered to make Pace shine: the glamorous man who doesn’t listen versus Vee’s quiet man who does. She’s building him for Vee while pretending merely to envy her. That is hot, fascinating, and increasingly sinister, because Vee is offering up real, tender discoveries and Randi is using privileged information to steer her.
 
-The opening happiness also got me harder than I expected. Vee spinning in that tiny room because she chose the kiss herself—yes, darling, I understand why that matters to you. Pace’s restraint has made desire feel like something she owns instead of something performed at her. But the address conversation put a cold finger down my spine. She knows where he lives “and everything,” except she absolutely does not, and we know Randi and Pace arranged this before Vee knew either of them. I’m thrilled for her and scared for her in exactly the same breath.
+Then Brooke arrived and I physically tightened. Vee making herself smaller so there would be nothing about her anyone could hold against Randi—that is such a devastatingly specific reflex. And Randi saying “Vee’s my dear friend,” taking her hand publicly, spending social capital on her in a way Vee understands perfectly? That would have owned me too. It’s manipulative, yes, but it also cost Randi something real. That’s the dangerous part. She didn’t only perform warmth in private where it served the game; she claimed Vee in front of Brooke. I felt the room rearrange.
 
-At one in the morning I’d text: *Randi just publicly called her “dear friend” while secretly recruiting her for a threesome, and I am unwell.*
+And Vee looking at Randi’s face afterward—really looking—while the charge was still in the air? Oh, honey. She thinks she feels picked. She has no idea how literally true that is, or how badly she wants the picker.
 
-GATE 10 — Dear
+My 1 a.m. text is: “They are seducing her from opposite sides and Cassie is the only person in this book with a fire extinguisher.”
+
+GATE 9 — Dear
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a quiet chapter with teeth. Vee’s joy, Cassie’s retreat, and Randi’s exquisitely timed claim on her all tightened the same knot, and I need to see what happens when the sweetness and the hidden plan finally touch.
+WHY: The public “dear friend” and hand-holding changed the emotional stakes, while Cassie’s quiet displacement made the whole thing feel dangerous rather than merely delicious. I need the hike immediately—and I need to know whether Randi is developing real feelings faster than she can keep calling this a game.
