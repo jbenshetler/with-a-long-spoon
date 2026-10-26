@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 6aca597414de · dated · 2026-10-26*
 
-REACTION — Oh, this got me. The feeding, the choosing, the way he lets her hand things over without making her disappear inside the surrender—that is exactly the grown-up version of an alpha I keep hoping these books will give me and almost never do. “May I choose?” should not have hit as hard as it did, but after watching Vee constantly monitor her appetite, her body, her timing, her social performance, seeing her eat until she was full and simply stop watching herself felt almost indecently intimate.
+REACTION
 
-And Pace leaving that last inch between them? Yes. That was hotter to me than half the anatomically exhaustive sex scenes I’ve read this year. She states a boundary, he accepts it without turning acceptance into a technique for changing her mind, and then she gets to discover that she wants to cross it herself. The second kiss belongs to her. I felt the difference.
+Oh, this got me. This is exactly the kind of seduction I keep hoping these books will understand: not a man ordering for a woman because he’s an alpha and therefore knows best, but him asking, *May I choose?*—and then treating her yes like something precious enough to pay attention to. The care is the heat. The choice is the heat. Her relief is the heat. I felt myself unclench with her.
 
-I am also frightened for her now, because she thinks this lovely, attentive man has just happened upon her, and I know Randi and Pace placed him in that coffee shop like bait. The tenderness is real—that’s what makes it worse. If he were only manipulating her, I could brace against him. Instead he’s feeding her, listening to her, making room for her, and very clearly beginning to care. She is going to fall so hard, and I can already feel the betrayal waiting inside every beautiful thing he gives her.
+And the food. God. Watching Vee eat without watching herself eat nearly broke my heart, especially after the apple slices and everything we know about how carefully these women ration themselves. She’s hungry in every possible direction, and Pace feeds her without congratulating himself for it or making her hunger into a spectacle. He gives her unfamiliar things, lets her discover them, and never once tells her what her own experience means. That is so much sexier to me than another growling billionaire ordering a steak medium rare.
 
-Tiny complaint: the chapter occasionally tells me the meaning of a gesture after I’ve already felt it. I understood the last inch was hers. I didn’t need the annotation. But honestly, the mint in both their mouths and the grin arriving inside the kiss wiped out my irritation immediately. I’m reading on.
+The kiss absolutely worked. Her rule mattered because he accepted it immediately. The moment he started walking again, I knew she was going to stop him, but knowing didn’t flatten it—I wanted her to stop him. He leaves her the final inch, and then he leaves her the next choice too. That second kiss, with the mint still in both their mouths and the grin breaking through, was genuinely hot and painfully sweet. I believe her wanting him. Worse, I believe the feeling she has that her hand has finally found where it belongs, and that is dangerous because I know this meeting was engineered.
 
-GATE 9 — May I Choose
+That knowledge is the thorn under everything lovely here. Pace is being genuinely attentive, but Vee doesn’t know she was selected, approached, and guided into this date. Her sense of safety is real; the circumstances producing it are not innocent. And Randi is somewhere outside this chapter wanting Vee too, while Vee thinks she has simply wandered into the nicest evening of her life. I’m not recoiling from it—the book has made the moral tension the point—but I am holding my breath. This is already much more emotionally loaded than a game has any right to be.
+
+Also: the repeated right-hand detail is lodged in my brain. That is not decorative. I don’t know what it means yet, and I badly want to.
+
+GATE 8 — May I Choose
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me appetite, surrender, consent, and emotional danger in the same scene, then ended on a kiss that actually changed something. I desperately want the tenderness to be genuine, and I’m sick with knowing the circumstances around it aren’t.
+WHY: This gave me grown-up attentiveness, real interior hunger, and a kiss charged by restraint and choice rather than swagger. I’m fully invested—and deeply uneasy about how beautiful Vee’s experience is when she still doesn’t know she was chosen before she ever chose back.

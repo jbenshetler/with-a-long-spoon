@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch005 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 18336f94a8c1 · experiment merge-substitution · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch005 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha acce4835cff0 · dated · 2026-10-26*
 
-REACTION:
+REACTION — Okay, this is the chapter I was waiting for without knowing I was waiting for it. The whole book tilts here, because now we're inside Vee, and Vee is *good*. Her brain is good. The way she catalogs his forearms and then catches herself; the way she files Randi's too-long hand on the coffee cup as "she's bored"; the borrowed Randi-name-joke she tries on and then wants her own name back — that last one is doing so much work I almost gasped. She performs one piece of Randi and immediately misses herself. That's the whole tragedy of what these two are doing to her, compressed into four sentences.
 
-I know. I *know* it's staged. I've known since the blurb — "a game Randi and Pace started in bed" — and Chapter 3 told me exactly which girl they picked and why, and I read the whole froyo walk anyway with my hand over my mouth.
+And the dramatic irony is delicious in a way that's almost hard to hold. When Pace asks "May I call you?" and she hears the *may* like a word from another vocabulary — meanwhile I know he courtly-exacts at Randi in exactly the same register, that "may I" is literally his kink as a person. Vee thinks she's discovered something rare, and she has, and it's also bait on a hook. Same with the coffee shop bit — Vee does Randi's bit with "V.T., like the university," and it *lands*, and she feels the lift of pulling it off... and I'm sitting there with the sour knowledge that she's performing Randi's moves for Randi's boyfriend while Randi watches from behind her cup without sipping. That cup-with-no-sip is the best piece of stage business in the chapter. Randi sitting there watching her plan work, hands busy in her lap, saying "he wants to see you naked" to Vee's face. The cruelty of it is so smooth I have to admire it.
 
-That's the trick of this chapter and it's a mean one in the best way: the blurb told me the con, so I'm not the mark. Vee is. I sat there watching her get "chosen" and I felt *complicit* — watching her catalog his forearms, watching her feel chosen by the smile, and every beat landed double because I know he was standing in line on purpose. Cassie called it without knowing she called it: "He looked at her like he'd forgotten there was anyone else in the room." Cassie, my girl, the flat-voiced prophet. And her weird "goodbye" from last chapter — I'm keeping that in my pocket. Something in Cassie reads the whole genre correctly.
+The math scene as seduction is genuinely clever — I've never seen "he handed the pencil back at the exact line where she could solve it herself" used as a romance beat, and it works *because* we've already seen that's his whole erotic signature with Randi: consent as the turn-on, asking before taking. He's doing to Vee's mind exactly what he did to Randi on the bench, and she clocks it ("what he had done. Not the math part") a full second before she can name it. Vee's body running ahead of her mind — that's her version of Randi's orgasm-answering-the-question in chapter 3. These two women are rhyming and neither knows it.
 
-But here's what got me, and it's not the con. It's that the con required him to actually *be* that good. The pencil thing — asked for it with his eyes first, gave it back at the exact line where she could solve it herself — I put the book down for a second after "She hadn't known she was allowed." Because the performance and the man are the same man, and now *I* don't know how to hold him either. Is the courtliness the disguise, or is the con borrowing something real? That's the question the book is building, and it's a better question than any "miscommunication" plot has asked me in five years.
+Also — Cassie. Cassie watching Randi text (we know who she was texting), Cassie saying "Goodbye, Vee" last chapter and now clocking exactly how Pace looked at Randi. Cassie is the only person in this book not lying, and I'm terrified for her usefulness. If something happens to Cassie's friendship because Vee gets swallowed into the Randi-Pace weather system, I will be genuinely upset.
 
-And the Vee interiority is feeding me. The cup that got away from her with no mother-voice stopping it. Randi's hand going to the coffee cup and no sip happening — Randi watching her husband-toy work on their mark and drinking nothing. That's the best image in the chapter, Vee registering it and her brain filing it as "she's bored." No, baby. She's watching.
-
-Froyo ending was almost too sweet — "Your tart's holding up" — and then I remembered the bench. "Do you think she'll like the bench?" The whole time he's being gentle with the cup, I'm thinking about the walnut and the leather, and the sweetness went cold in a way I don't think the book did by accident.
-
-I do notice this is two scenes, no heat, and the chapter runs long on charm. It works because the heat is all underneath it. But if the next one is another meet-cute-without-contact I'll start tapping my foot.
+No heat this chapter, and I didn't miss it for a second — this is the charged kind of quiet, everything double-meaninged, everything loaded. My one flicker of impatience: the froyo ending is very sweet and I get the "your tart's holding up" line is doing metaphor work, but it ran a beat past where I'd have cut. Minor. I turned the page already. I want the date. I want the first time Vee finds out, eventually, what the game was, and I'm scared of it, and that's exactly the feeling I read these books for.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The dramatic irony is doing real work — knowing the con makes every courtesy land like a held breath, and Vee's interiority ("she hadn't known she was allowed") is exactly the grown-up writing I'm here for. I need the next chapter to start closing the distance, though; I've been fed on undercurrent for two chapters now.
+WHY: A whole chapter of clothed math help and it's the most charged thing since the bench — because every beat is dramatic irony with teeth, and Vee's interiority finally got full airtime and she's worth it. The heat's on layaway and I trust the payout.

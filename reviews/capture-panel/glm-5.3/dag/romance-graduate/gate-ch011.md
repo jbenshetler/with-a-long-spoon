@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · dated · 2026-10-26*
 
-REACTION — Okay. This is the chapter I've been waiting for and it hurt exactly the way I wanted it to. We're in *his* head for the first time, or close to it, and the first thing the book does with that access is show me the two of them fucking — Randi riding him, inch by inch, making him watch — and then the whole thing curdles into the most devastating sex scene I've read in a while, because of what she's actually doing. "Tell me." She's not there for him. She's there for *gardenia and musk and a hint of chlorine*. She's using his body as a listening device. He narrates Vee's smell to her and she *clenches*. He narrates her soft stomach and Randi shatters. I had to put the Kindle down for a second.
+REACTION — Okay, so that was a gut-punch dressed as a sex scene, and I need a minute.
 
-And the detail I can't get over: Vee took her shirt off for him in the truck — the bravest thing she's ever done, the thing she did on purpose against her mother's whole voice — and Pace *keeps it private*. "He did not say how he knew. That she had given him herself... and he kept it." On one hand: decent of him, it was hers to give. On the other — and this is where the book is so much smarter than its genre — he's still feeding the machine. He tells Randi about the gardenia but not the truck, and Randi asks for more, and he gives it, and they're both of them getting off on a girl who thinks she has two separate people and actually has an audience. The plan is working and it's already poison and everybody's drinking it.
+First: the heat is real. Her walking him backward through the house with her mouth on his, the inch-and-a-stop descent while she makes him watch — Rivers can write it, that's never been in question. But this is the first time I've been in Pace's head for a whole chapter, and it's Randi's want I'm watching, not his. "Tell me." Twice. She's riding him and pulling Vee out of him like drawing a splinter — the gardenia, the musk, the chlorine. And he *knows* what she's asking for and is glad to give it. The two of them are using each other as a window to look at Vee through, and neither of them says so, and I sat there with my hand over my mouth the way I do at horror movies.
 
-"I want us." Torn out of her mid-stroke, not finished, and he *felt it go through him like the first swallow of something* and didn't understand it either. That's the fracture I've been watching for — "dear friend" was a hairline crack and this is the crack going through the load-bearing wall. She means "us" as her-and-Vee and she can't say the rest of the sentence even inside an orgasm she staged.
+And the line that got me: "She clenched around him... and her eyes stayed shut." That's Randi somewhere Vee's perfume is. That wasn't for Pace. Even the orgasm — I don't fully believe it was about him. And then "I want us," torn out of her — *us*, and I don't think she meant her and Pace. I think she meant the three of them, or she meant her and Vee, and the sentence escaped before she could decide. She kissed him before the laugh finished coming out of her — thin, not her laugh. Everything in this woman is leaking.
 
-Then she leaves. First time ever. Won't eat — of course she won't eat, the woman has Vee's appetite arc running in reverse — pulls the blanket around herself, gets the camisole on while he's asking her to stay. And him standing in his own open door watching taillights, "something in his chest he was not ready for, low and plain." He finally got a flaw and it's *loneliness*, and it's the right one. The man who waits an hour to hear the real please just found out what it's like when someone won't stay.
+But the part that actually hurt: "He did not say how he knew. That she had given him herself, in the truck... and he kept it." HE KEPT IT. The flannel scene, the thing Vee did with her eyes down and his hand shaking — Randi is asking for Vee secondhand and he has it firsthand and he's holding it back. That's not just a lie by omission, that's Pace beginning to have something of his own with Vee that exists off the Randi-grid. My splinter just got bigger. The script — if that's what he is — is developing private pages.
 
-Also — small thing, huge thing — the chair by the door with nothing on it. Her chair. The deadbolt going over. He noticed the empty chair before she even got to the kitchen. These two have a whole domestic liturgy and she just broke it, and I'm sitting here at midnight with my heart going, because I already know the geometry: Randi is falling, Pace is lonely, and Vee is falling, and there is no configuration of three people where nobody lies that doesn't end with the one who was lied to walking away. I texted my friend "the book just made a threesome a tragedy before the threesome even happened."
+And then the leaving. She has never left after. Never, since the first night. She gets the chill, skips the lying-on-him part she "keeps for herself," dresses with that horrible brightness — "No thanks" from inside the camisole — and goes. And he stands in his own door with "something in his chest, low and plain." Oh, Pace. That's the first time the book has let him want something back and not get it, and it's about *being stayed with*, not sex. He eats twice and is still hungry and I want to lie down on the floor of his kitchen with him.
 
-GATE 13 — Swim Lanes
+What I'm afraid of: Randi got what she came for — the gardenia, the musk, "her stomach is soft" — and then fled because it was too big for the compartment. This is the bathroom mirror decision happening in real time and failing. She's coming apart. And Vee, meanwhile, has no idea she was inside that bed with them tonight. She was. That's the threesome. That's what it is right now — Vee as a scent passed between their mouths like the wine.
+
+One small dread: the chair by the door with nothing on it. He saw it and "set that aside." Whose chair? Something's been left there before. Filed.
+
+This chapter scared me and fed me. That's the combination I'm here for.
+
+GATE 11 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The book finally opened Pace's head and used the sex scene as the weapon — Randi wanting Vee through him is the hottest and saddest thing it's done, and "I want us" plus the first-time-leaving gives the plot its first real wound. I need the morning after this one like I need coffee.
+WHY: The most explicit chapter so far is also the loneliest — Randi using Pace's body to get at Vee, Pace keeping Vee's truck moment private, and Randi leaving for the first time ever. Heat and heartbreak in the same breath is exactly what I begged this genre for, and the seams of the plan are visibly pulling apart.

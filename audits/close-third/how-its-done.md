@@ -34,3 +34,4 @@ Praise counted by `praise_check` plus a paraphrase search of the cold reads and 
 - 2 `:294` "because it did" — **cut** (author). Narrator vouching for (or winking at) Randi's path over Vee's head; "like it followed naturally" stays as her impression.
 
 **Applied 2026-10-26:** 1, 2. Lint: 0 errors; 44 active hits, the same as before. The `warm` info hit at `:269` re-keyed to the new sentence text and is not new. praise_check over the diff: no mentions. orphan_refs: nothing flagged. No later chapter recalls either clause.
+- `:338` "It was a door closing very softly." — author challenge after the pass; **kept, "very" cut** (author). Vee's own door figure (`:95`, `:282`); multi-vendor reader uptake; one opus-5-5 gate complaint.

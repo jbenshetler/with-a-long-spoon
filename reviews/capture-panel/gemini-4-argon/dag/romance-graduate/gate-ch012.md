@@ -1,22 +1,21 @@
-*capture-dag-v2-rich · gate ch012 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch012 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 78f7225e818e · dated · 2026-10-26*
 
 REACTION
 
-Okay, first of all: *"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon."* THANK YOU, KAYLA. Two o'clock on a Saturday in that warm little house off Route 614! We are finally going to his house. Where the bench is. Where Randi just rode him in the lamplight four days ago and then bolted out the door into the cold.
+Look at what she kept to herself! She told Meg and Kayla the whole romantic movie version of the truck in the rain—he gave me his dry shirt, he stood out in the pouring rain with his back turned—and she completely skipped the part where she knocked on the glass, called him in, unbuttoned her soaked shirt in front of his eyes, and put his freezing hand under the flannel against her bare belly. Just like Pace kept her soft stomach to himself when Randi was riding him in Chapter 11! Neither of them is telling anyone about that moment in the cab. It’s already their secret.
 
-This was a total palate-cleanser bridge chapter, and honestly, it did something really smart by zooming out to normal twenty-one-year-old college life. After the intense, suffocating, stomach-dropping charge of Chapters 11 and 13, sitting in a golden dining hall with Meg and Kayla made me realize just how far out of normal college waters Vee actually is—and how completely she doesn't see it.
+God, seeing Vee at a normal college dining hall table with normal friends like Meg and Kayla—girls who eat cheesy pasta and steal fries and get hyped about doing her hair—makes the whole thing ache so much more. Look how radiant and happy she is here. And look at how normal friends react to her happiness versus Randi at the Smoothie Bird or Cassie in the dorm room. Meg saying *"Everybody's different at the start. I said it about Danny... Sometimes they even are"* is so grounded and affectionate, and Vee just lets it float right past her because she is completely, hopelessly gone on this man. Holding her own arm up near the shoulder talking about how she's climbing the walls over a man who asks what she wants and waits for the real answer. And his flannel shirt is folded on her pillow right now!
 
-Look at what she edits out of the truck story! With Cassie, she told the whole truth: *I knocked on the glass and I took my wet shirt off in front of him on purpose.* With Meg and Kayla, she skips the entire strip-show in the cab and jumps straight from "he stood in the rain so I could change" to "I turned and he was right there, shivering." Even when Meg calls her out on *"skipping the middle,"* Vee keeps that secret between her, Pace, and Cassie. Just like Pace kept it from Randi! Everybody is hoarding little pieces of that truck scene.
+And then the text. *"Would you come to my house Saturday. Two o'clock."*
+Kayla nailed it immediately: *"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon."*
 
-And then there's Vee trying to explain Pace's dom game to two regular college girls who are dating guys named Danny and turning down sweet guys named Theo. *"It sounds like nothing. I can hear it sounding like nothing. And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner."* And Meg—bless her normal, well-adjusted heart—just smiles into her mac and cheese and goes, *"Everybody's different at the start. I said it about Danny."* The dramatic irony is killing me. Meg thinks Vee is just dickmatized by a polite grad student who powerlifts; she has *no idea* that Vee is being systematically walked into a D/s threesome trap by a guy with a custom spanking bench in his bedroom and a sorority Standards chair who knows what Vee's perfume smells like after six hours on her throat. (Also, Kayla joking *"That's not a message, that's a ransom note"* after Cassie's *"No windowless van"* last chapter? The universe is literally screaming at this girl and she's just folding his flannel on her pillow.)
+My stomach is doing flips for her and I have genuine dread in the back of my throat at the exact same time, because I know what’s in that house. We were *just* in that house four days ago when Randi was riding him with her eyes shut, clenching down on the words *"Her stomach is soft"* and then bolting out the front door without staying the night for the first time ever. Where is Randi while Pace is sending this Saturday 2 p.m. text? Does Randi know Vee is coming over Saturday afternoon? Did Randi and Pace plan this, or is Pace inviting Vee into that house on his own after Randi left him standing in the doorway in the cold? And when Vee walks through that door at two o'clock in the afternoon, that walnut bench is sitting right there in his bedroom. I cannot get to the next chapter fast enough.
 
-I'm ready for Saturday at two. Let's get her through that front door.
-
-GATE 14 — What to Wear
+GATE 12 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
+CAPTURE: 8
+NEXT: 10
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It's a classic setup/bridge chapter, so the immediate tension is lower than the hike or the bedroom scene, but watching Vee edit the truck story for her normal friends—and seeing that Saturday 2:00 PM text land—has me dying to see what happens when she finally walks into Pace's house.
+WHY: A classic bridge chapter done completely right—watching Vee keep the real truck moment secret from her normal dorm friends mirrors Pace keeping it from Randi, and that 2 p.m. Saturday invite has me desperate to see what happens when Vee finally walks through his front door.

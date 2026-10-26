@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 78f7225e818e · dated · 2026-10-26*
 
-REACTION
+REACTION:
 
-Oh, the sheer dramatic irony is delicious and agonizing.
+Oh, my stomach just dropped through the floor.
 
-I was laughing out loud at the table talk, but my stomach was in absolute knots the entire time. Watching Vee sit in that golden afternoon light with her friends, giggling over french fries, telling the story of the truck—deliberately skipping the part where she stripped off her shirt and made him watch her wet bra, of course, because that’s the sacred, dirty little secret she’s clutching to her chest—is so utterly normal. It’s what twenty-one-year-old girls *do*. They dissect the texts, they plan the outfits, they obsess over the fact that it’s been twelve days and only one kiss.
+First of all, I am obsessed with the stark, brilliant, awful contrast between this chapter and the last one. Chapter 11 was dark, soaked in sweat, predatory, and suffocating—Randi riding Pace like an exorcism, demanding to hear about Vee’s scent and her soft stomach while Pace holds back the most sacred parts of the truck cab. And then we snap into Chapter 12: six p.m. in the athletic dining hall, golden October light pouring through floor-to-ceiling windows, girls trading French fries and screaming over a boy’s text message. It is so *normal*. It is so painfully, heartbreakingly young and clean and real.
 
-Except *we* know what's waiting at that house.
+And that’s what makes it utterly terrifying. Vee sitting there with Kayla and Meg, glowing, laughing with her whole body, completely wrapped up in that delicious, dizzying, universal girl-talk ritual where you dissect every comma of a crush’s text—while we, the readers, know she is walking straight into the spider’s parlor.
 
-We know about the custom bench. We know about the Blondie record. We know that just four days ago, Randi rode him into the mattress in that very house, demanding to know what Vee smelled like, before bolting into the night because she's panicking. And now Pace texts: *would you come to my house Saturday. Two o'clock.*
+Kayla saying, *"That's not a message, that's a ransom note. What do you wear? He's not asking you over to eat... He wants you for the afternoon,"* made the hair on my arms stand up. Because Kayla is right, but she has *no idea* how right she is. She thinks it’s just college-boy horniness and a first hookup. She doesn’t know about the bench sitting in his bedroom. She doesn’t know that Randi was just in that house four days ago, clawing Pace's chest and screaming *“I want us.”* She doesn't know that Pace isn't just an older guy who powerlifts; he's a master craftsman who has laid out an entire psychological runway for Vee to land on.
 
-Kayla is so dead-on it hurts: "That's not a message, that's a ransom note." And her calling out the timing! "Two in the afternoon is not dinner... He wants you for the afternoon." Kayla thinks she's just being the sassy best friend hyping up an afternoon hookup, but she has no idea how right she actually is. Two o'clock means daylight. Two o'clock means he isn't hiding behind dim restaurant lighting or mountain shadows. He is bringing her into his space, into the snare, in broad daylight.
+I also loved seeing Vee lie—or rather, edit—the story of the truck. She tells her friends the sanitized rom-com version: he chivalrously stood in the rain, she took the dry shirt, and the cop moved them along before they could kiss. She leaves out kneeling on the bench seat, taking her wet top off, letting him look at her bare breasts, pressing his freezing hand against her warm stomach. She kept the erotic core of that moment completely private, just like Pace kept it from Randi. They are already keeping secrets for each other, building this private room that belongs only to the two of them, even while the game is running around them.
 
-This was a classic bridge chapter, but it worked because the contrast is so sharp. You take Vee out of the intense, claustrophobic heat of the truck and the woods and drop her right into the bright, mundane chatter of the athletic dining hall. It highlights just how young and normal she is, which makes the calculated, erotic web Pace and Randi are spinning around her feel ten times more dangerous.
+The dread for Saturday is almost unbearable. "Would you come to my house Saturday. Two o'clock." No context. Just an open door. And Vee's heart doing something quick and light and stupid. God, Saturday is going to wreck us all.
 
-Saturday is coming. The bench is in that house. I need Saturday immediately.
+***
 
-GATE 14 — What to Wear
+GATE 12 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A light, chatty palate cleanser, but the dramatic irony elevates it completely—knowing the architecture of the house and the bench while her friends debate afternoon outfits makes the impending Saturday invite feel thrillingly tense.
+WHY: The contrast between Vee’s sunny, innocent excitement in the dining hall and the dark sexual trap we know is waiting for her on Saturday is masterclass-level tension; I need Chapter 13 immediately.

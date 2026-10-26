@@ -2,17 +2,21 @@
 
 REACTION
 
-This is the first chapter in a while that made me uneasy in a way I think is the point. Nothing explicit here, and I can feel it, but it didn't read like a hole. Vee is the one lit up, and the book keeps letting me see the strings she can't. Randi, who we know is wrecked and hiding behind her face, sits at the high table and gets Vee to say "because of him." She calls it "ask and then ravish" in a low voice a beat late. She takes Vee's hand in front of Brooke and says "dear friend." I read that as a woman spending real currency and also as staking a claim. Vee reads it as being chosen. The gap between those two readings is where the book lives, and I love it.
+Okay, this is the first chapter in a while with no heat at all, and I noticed. It's the second quiet one in a row, and the third if you count Vee's pool chapter. But the quiet was doing work, so I didn't skim.
 
-The subtle stuff worked better than I expected. The dossier of "I know where he lives" with no address. Cassie's goodbye and her quiet exit, and Vee smoothing over the small cruelty of leaving her out ("not her thing") without noticing she did it. Brooke's tour of Vee with her eyes. The shelf of the high table, again. I'm suspicious of how much Randi is steering the conversation toward Pace's choosing and Vee's yielding. She's feeding herself on it.
+The Smoothie Bird scene is the real chapter, and it's cruel in the way I like. Because I've seen the jacket and Chapters 1 to 6, I know what Vee can't. Randi's "ask and then ravish," said a beat late and low, is the best line in the chapter. So is "dear friend," with the cool damp hand held in front of Brooke. I read that as Randi spending something she can't afford. Vee reads it as being picked. The gap between those two readings is what keeps me reading.
 
-The cost is that this is the third gentle, mostly-talking chapter after the sharp ones, and there was no heat on the page. Nobody touched anybody except hands and a hug, and the one thing close to charge was Vee's hands running down her thighs. I noticed the pattern of the bright girl-talk scene repeating (coffee, high table, report, "love you, girl"). I'd tolerate one more, but I'm skimming-adjacent. I want the hike.
+The Randi who coaxes Vee to give up the "may I choose" story is the same Randi who nearly flinched at "easy to listen to" on the couch. She's farming Vee for Pace's moves while telling Vee they're sweet. And Vee hands it all over gladly. The "you liked it" line was almost too neat. I'm a little suspicious of how efficiently the book lines these up. But I don't mind being steered.
+
+Vee's side is good too. The cardigan over the better shirt, the "floozies" in her mother's voice, and the way she shrinks herself for Brooke are real interiority. The Cassie thread worries me. "It isn't really her place... not her thing" is Vee sliding off her one honest friend, and the book let me watch her do it. The dorm scene opening was warm and funny, with the pillow and the state troopers.
+
+What I wanted and didn't get: any of the charge the first six chapters had. The hand on Vee's thigh and the "no bra" bit gave me a flicker, no more. The book is making me wait for the hike, and I'm willing, but I want the payoff to be real.
 
 GATE 9 — Dear
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Vee walked the other way with her empty pink cup, into the gold afternoon." (the repeated coffee-date-and-hug shape, not a real urge to leave)
-WHY: The dramatic irony is rich. Randi is hungry and steering, and Vee thinks she's picked. But it's another quiet, talky chapter, and I need the hike to pay off with real charge soon.
+ALMOST-STOPPED: none. If anything, "Six days later, the professor took them up to the edge of something he found more interesting than they did" was a clumsy time jump, but it didn't tempt me to leave.
+WHY: The dramatic irony between Vee's "picked" and Randi's spending social capital pulled me through a chapter with almost no heat. I want the hike, and I want to see what Randi does with everything Vee keeps handing her.

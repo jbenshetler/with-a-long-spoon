@@ -335,7 +335,7 @@ Vee had gone dreamy. The booth was very far away. She was back on the platform w
 
 "You don't have to tell me."
 
-It was gentle. It was kind. It was a door closing very softly.
+It was gentle. It was kind. It was a door closing softly.
 
 And the laugh did not come. Here, where the laugh had always come up between them and joined them, there was instead a clean silence, and her secret was still half out of her with nowhere to go.
 

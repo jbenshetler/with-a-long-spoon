@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 18336f94a8c1 · experiment merge-substitution · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha acce4835cff0 · dated · 2026-10-26*
 
 REACTION
 
-Oh, this is devilish. This is so deeply, deliciously fucked up and I am eating it with a spoon.
+Oh, this is devilish. I mean truly, deliciously sick.
 
-The dramatic irony is suffocating in the best way possible. Watching Vee walk blindly into the spiderweb while feeling so *special* and so *seen*—god, it hurts. The texture of it is so sharp. When she uses Randi's little "Yes, like the university" bit to seem charming? That made my chest ache. She is already trying on Randi’s skin, completely unaware that Randi and Pace literally *picked her out like fruit at a stand* a week ago.
+Watching this whole operation from behind Vee’s ribs is genuinely thrilling because we know the trap she is stepping into, but the writing makes her fall *so completely earned*. She isn’t stupid; she’s starving. That line about applied math—the gap between what people say they’re doing and what they’re actually doing—and she doesn’t even see it happening to herself in real time! She thinks she’s just being noticed by an attentive, courtly guy with thick knuckles and rolled-up sleeves who knows how to listen. God, the way he handed her back the pencil? The way he didn't solve it for her, just showed her the piece she already had and let her have the victory? It’s pure seduction masquerading as respect. It’s so good it makes my stomach hurt.
 
-And Pace's absolute mastery of the setup. The way he approaches the math problem—not flexing, not taking the pencil to show off his PhD, but handing her the tool, making her feel smart, asking for the pencil with his eyes—it's pure seduction masquerading as respect. "He had kept himself out of it so the solving stayed hers." That line is brilliant because that is his entire MO. He did it with the bench, he does it with the math, he does it with the conversation. He builds the container and lets the woman think she's filling it entirely by her own choice. *Every yes was freely given.* Christ, the tagline is already ringing.
+And Randi. Holy shit, Randi sitting there playing the bored, supportive sorority sister, drinking her coffee that she never actually sips, watching her boyfriend run the play *she* picked out for him. That beat where Randi asks about Bessel’s correction just to throw a tiny bit of grit into the scene, to establish cover, to hear his voice—it was masterclass. And Cassie! "He looked at her the way you'd look at somebody's great-aunt." I choked. Cassie is the unsung Greek chorus in the corner, seeing the surface weirdness without having the decoder ring, and it adds this incredible layer of tension because you just know Cassie is going to be the one who clocks something truly off later.
 
-And Randi! Watching Randi play the disinterested, slightly bored friend while her hands betray her—holding the coffee cup with both hands, not taking a sip, giving Pace the flat, unadorned "Randi" with no charm because she's terrified and electrified all at once. Then pushing Vee toward him immediately. "He wants to see you naked." Randi orchestrating her own cuckoldry/fantasy in real time, getting off on the edges of it while Cassie sits right there, being the grounded Greek chorus who sees everything and says nothing. (Cassie's line about him looking at Randi "the way you'd look at somebody's great-aunt"—perfection. Pure operational cover from Pace.)
-
-The froyo date was quiet, but it had that terrifying, tender weight. When Vee admits, "This is the nicest a person has been to me in a really long time," I felt a physical pang. She is twenty-one and starving for actual attention, and this predator-craftsman is giving her the exact dosage she needs to unravel completely. It’s not explicit in this chapter, but the psychological charge is sky-high. I am locked in.
+Then the froyo scene at the end—Vee letting her cup get heavy and tall because her mother’s voice didn’t kick in for once. "Your tart's holding up." He sees how neglected she feels by the world, and he is stepping in to feed her, exactly like he fed Randi the thin-sliced apples. It’s methodical, it’s tender, and it’s predatory as hell, but dressed in the cleanest linen. The eroticism here isn't physical yet, but the psychological setup has my pulse racing. I am totally hooked on how this web is being spun.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 1
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The trap snapped shut with absolute elegance; the tension of Vee feeling truly seen by a man who is running a bespoke, pre-planned campaign on her is agonizingly good. The writing has real emotional intelligence and trusts me to feel the horror and the pull at the same time.
+WHY: The dramatic irony is exquisite; watching Pace and Randi execute their game through Vee’s unaware, hungry perspective makes the emotional manipulation feel shockingly intimate and utterly compelling.

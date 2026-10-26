@@ -1,26 +1,31 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3b67aa444f62 · dated · 2026-10-26*
 
 **REACTION**
 
-Okay. I have to talk about the towels first, because the chapter is named after them and the book drops them in passing like it doesn't care: "a bathroom, plain, clean, two towels on the rod." A man who owns exactly one right pair of shoes for each thing he does has two towels hanging. One of them is Randi's. She was in that shower six days ago, after she rode him and asked him to *tell* her. Vee walked right past it and the book let her. That's the kind of thing I read this book for. It doesn't underline it, it just trusts me to feel cold.
+I CALLED THE DRESS. I literally wrote "I'd bet money on it" and here it is on a table in a glass porch. I'm a little smug and a little scared, because the book did exactly what I thought it would, and that means the plan is working exactly the way Randi and Pace meant it to.
 
-Then there's the long low table in the den. Vee crouched down and put her fingers on the joint, and I almost threw my Kindle. My notes say the bench is "disguised as a table." Is that it? Is she touching it? Randi's "Do you think she'll like the bench?" has been in my head for eleven chapters, and Vee was down on her heels stroking the grain while he watched her hand "more than her face." I can't tell whether I'm reading too much into it, and that not knowing is doing a lot to me.
+The part that got me wasn't the dress showing up. It was the color being wrong. Her small "oh, it's not the right—" and then the cloth held up to her face like a paint chip, and the mirror. *He'd matched her.* That hit me hard. It's the thing I keep coming back to with Pace: his attention really is that good, and that's exactly why it's dangerous. Then the shirt with no tag clicked into place, and I said "oh no" out loud. He made the shirt. She's been wearing his handiwork to bed without knowing it.
 
-The house is too warm and Vee files it under "small mysteries." My notes already say "too-warm house." Randi gets cold after sex. So who is the heat for? Vee's going to be measured "down to what you'd wear under it," and the room needs to be warm for that, so it's for her. Every kind thing he does here is also staging. The closed bedroom door, after she wore the satin on purpose, felt like that too. And him being the one to break off the kiss. "No boy she'd ever been with had once been the one to stop." I believe him and I don't. It's exactly what makes it work on her, and he knows it.
+Things I'm side-eyeing:
 
-Now the dress. I'll admit it: my eyes stung when he held the cloth up to her face like a paint chip. He matched *her*, not the magazine. That's a real turn. It's the "nicest a person has been to me" line made out of silk. But the book then said "He'd matched *her*" in italics, and spelled out "her own willingness to be looked at" in case I'd missed what the whole measuring setup is. Add both to the gripe count. I got it the moment he said "in good light."
+- **The kiss.** He's the one who stopped it, and Vee's whole body went to attention. This is a deliberate move, and she can't tell it's a move. She wore the satin. She leaned toward the bedroom door and he didn't take the hint. I felt her face not doing anything. That's good writing about wanting something.
+- **The den.** "A long low table" in the den, and she crouched and put her fingers on the joint. Is that the bench? Is the bench under her hand while she says "you made *furniture*"? My skin crawled. If it is, this is the creepiest, best scene in the book so far.
+- **The house.** Too warm, which is Randi's heat. Two towels on the rod. The closed bedroom door. And the line about walking past "a wrapped box on the counter without asking who it's for." I see you, book.
+- **"Parents."** That small closing in his face. Okay, Pace has a wound. Noted.
 
-What's starting to bother me is how complete he is. He builds furniture, makes his own shirts, mixes his own shellac, cooks, powerlifts, holds a patent that gets sick kids out of the MRI faster, and doesn't preen about any of it. That's a billionaire romance hero in a henley. I came here to get away from that guy. I'll forgive it only if the book knows it's building a trap, and I think it might. The patent is literally about finding the signal in the noise. He reads people for a living. And the error-correcting codes speech, "say it more than once so the noise can't kill it," is the book telling on itself. It's also Randi's "Tell," and every detail he hands her about Vee. The flicker at "parents" is the first crack in him that I've actually liked.
+What bugged me: the error-correcting codes. "Say it more than once so the noise can't kill it." Then the MRI patent, "finds the picture in the noise." I get it. He reads signal through noise, he reads women. That's twice in one chapter, which is a bit much. Ironically, the book is saying its own theme more than once so I can't miss it. I was also starting to tally his résumé: math PhD, powerlifter, woodworker, cook, patent holder, and now he sews couture. That's dangerously close to the billionaire-who-can-do-everything I came here to get away from. What saves it is that I'm watching it through Vee falling for it, while I know it's partly a performance aimed at her. Still, give the man one thing he's bad at.
 
-Structurally, this is the second quiet chapter in a row after the hot one, and it's a house tour. A house tour. The closet, the kitchen, the office, the shelves, the shop. Midway through the bookshelf I was checking how far I had left. It's saved because every room has a tripwire in it, and because it ends on "Yes — of course, yes." Then it cuts away, right before the measuring tape. That's a series-writer's ending, and my thumb is already moving.
+And now: "measure you first — down to what you'd wear under it, in good light." Plus the satin she already has on. Plus "her own willingness to be looked at." The next chapter is a woman standing in her underwear in a glass room while a man with a tape measure asks before he touches. I'm already there.
 
-The text I'd send at 1 a.m.: "he's going to measure her in her underwear in a glass room and then go tell his girlfriend every number. there are TWO TOWELS."
+I missed Randi. After Chapter 11, where she said "I want us," clenched like she was in pain, and couldn't stay, I want to know where her head is. She's the absence in this house. Her towel's on the rod.
 
-**GATE 15 — Two Towels**
+---
+
+GATE 13 — Two Towels
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 9
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "lit up like a six-year-old who'd just found out everything there was to know about dinosaurs." That's where he tipped from a man into a list of perfections, and I was most of the way through a house tour.
-WHY: The tour sagged and Pace is getting too perfect, so capture took a hit. But the towels, the maybe-bench, and the too-warm room kept the dread alive, and the dress was a real turn in the bond. It ends on her yes to being measured in good light, so I have to read the next chapter now.
+ALMOST-STOPPED: "Say it more than once so the noise can't kill it." That, plus the MRI speech right after it. The book was underlining its own theme, and Pace's list of talents was tipping toward fantasy-man.
+WHY: This is the second quiet chapter in a row, but it isn't really quiet. The kiss he stops, the satin, and the possible bench under her fingertips all carry charge. The burgundy-not-russet moment is a real turn in the bond. And it ends on the most loaded setup in the book so far: she's agreed to be measured.

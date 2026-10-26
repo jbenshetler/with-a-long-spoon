@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b0e38f522c99 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f8dd715a4e55 · dated · 2026-10-26*
 
 **REACTION**
 
-Okay, I didn't expect a pool chapter to land with me, and this one did, mostly. After last night's "Tannin," where Randi was on Pace's lap drinking in every detail about Vee and his fingers were under her top, the book cuts to Vee in a green-and-white suit she wore at sixteen, "when there'd been less of her to fill it." It's quiet and it's smart. It's the first time we've been inside Vee's body without anyone steering her, and that body turns out to be a sore spot. She's carrying the same kind of policing as Randi's apple slices, just in another form. With Randi it's the mother living on egg whites, and with Vee it's the mother's voice saying *that's plenty* and *that's not the kind of attention a nice girl*. The froyo cup she didn't stop building suddenly makes more sense. I like the book quietly pairing them up like that.
+Okay, I didn't expect the best thing in this chapter to be Cassie. "They will never know the love of a woman," said quietly, just for Vee, when she has the lungs to yell it at the whole bleachers and chooses not to. I love her. She's the only person in this book who isn't working an angle on anybody. Then she does the water-shooting trick instead of asking what's wrong, because "asking was for people who wanted the sad version to get bigger." That line is grown-up and kind. I'm now pretty sure Cassie's "Goodbye, Vee" is going to hurt me later.
 
-The walk past the bleachers is very real. "You won't need floaties with *those*" is exactly how that sounds in real life, and her long blink with half her mouth pursed is exactly the face you make. Then there's Cassie. "They will never know the love of a woman," said low, just for Vee, when she has the lungs to yell it at the whole room. I adore Cassie. She's quickly turning into my favorite person in this book. I'm also filing that line: is Cassie queer, does Cassie want Vee, is Cassie the one person here who loves her without a plan? After that "Goodbye, Vee" in chapter four, I'm a bit scared for her. I think she's the canary.
+The underwater part is what got me. Up to now Vee has been a girl looking at Randi through a window. Here she finally has a body and a history: the synchronized-swimming suit she's grown out of, her mother's "that's plenty" moved into her own head, and the water as "the one part of it that had never been taken." That's real inner life, and it's quiet about it. It tells me what Pace and Randi are walking into. She's a girl who has been told her body is a problem, and they're two people who make that exact kind of wound into foreplay. I felt a little sick for her, the good kind of sick, the kind that keeps me reading.
 
-The underwater part is the best writing in the chapter. "The room switched off." The sculling her hands remember. The water as "the one part of it that had never been taken." It made my chest ache a little. It's real interiority, and it feeds me instead of showing off. Two things grated. "And grieved, a little" names the feeling, which the scene had already given me. And the last line, "The body that was such a problem stayed up on the deck," spells out the subtext I'd already picked up three paragraphs earlier. That's the book explaining itself, which is a pet peeve of mine. It's small, but I noticed it.
+The catcalls were fine. Familiar, but the long blink and the eyeroll at the ceiling made Vee's armor feel like hers.
 
-Zero heat, and I'm okay with that for one chapter, because what it adds is stakes. Now I know what Pace is going to be looking at, and how much it'll cost her to let him look, given the man who leaves the lights up. That's the charge it builds, and it's a slow one. But I'm counting. This is chapter eight, and Vee has had froyo and a walk. Nobody has touched her yet. The book has earned some patience from me, and this chapter spent a little of it well. I want her date with Pace soon, or at least a long lunch with Randi.
+"Don't answer tonight." Oh, he's good. On the page it reads as gentlemanly, as giving her room. But it's the bench move again: leave her hanging on purpose and let the wanting build until she's the one asking. Randi was texting someone at the coffee shop right before he walked in, and now there's this. I don't trust any of it, and I'm enjoying not trusting it.
 
-GATE 8 — Water Wings
+My one sigh: the shower. She's in a towel thinking about his thick knuckles, which is exactly where I want her head, and then "She got her sweats on pretty fast after that." Cute, but it's a small door closing. I know she's twenty-one and covered to the collarbone, and maybe the coyness is meant to be hers and not the book's. But that's seven chapters, and the girl from the jacket hasn't let herself have one full dirty thought on the page. I'm holding off judgment because chapter one paid out big. Saturday dinner had better do something.
+
+Ending on her thumb over the keyboard while the light changes and changes back was a nice touch. Small, but it moved my thumb too.
+
+GATE 7 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "The body that was such a problem stayed up on the deck with the rolled towel, where it could wait." It isn't a stopping moment, just the point where my eyes rolled, because the book told me what I'd already felt.
-WHY: It's short, tender, and Vee finally has a body and a history of her own. Cassie is wonderful. But this is a second low-heat Vee chapter, and I want her and Pace in a room together soon.
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "She got her sweats on pretty fast after that."
+WHY: This was a quiet chapter, but it finally gave Vee a body and a wound, and it made me love Cassie. "Don't answer tonight" has me suspicious and wanting the date. I'm not bored yet, but I need the next one to pay off the heat, not just the setup.

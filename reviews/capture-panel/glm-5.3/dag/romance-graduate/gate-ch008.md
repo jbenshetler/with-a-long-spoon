@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch008 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6aca597414de · dated · 2026-10-25*
+*capture-dag-v2-rich · gate ch008 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6aca597414de · dated · 2026-10-26*
 
-REACTION — Okay. I finished this chapter with my hand literally over my mouth, and I need someone to understand what just happened to me.
+REACTION — Okay. I've been braced since chapter one of this book to be managed, and instead I keep being *fed*. That dinner scene did something to me. The hummus thing — Vee saying "I'm solid on hummus" and then openly enjoying having no map — that's a girl I actually believe in, and the "May I choose?" went through me the same way it went through her. That's the whole erotic engine of this book and it's barely touched her yet: choice as the turn-on. And the *right hand* detail! He's eating with only the right hand, over and over, deliberately, and the book doesn't wink at me about it. I clocked it with her and I don't know what it means yet and I'm a little thrilled to not know. That's trust. That's a book that thinks I'm smart.
 
-Chapter 1 was one of the hottest things I've read in years — that bench scene was doing something real with submission, and Randi in the bathroom mirror deciding to go back behind her face was genuinely devastating. I actually gasped at the end of Chapter 3 when the girl turned out to be named Vee — I'd read the jacket, I knew the premise, and it still landed like a twist, because watching Randi hunt her across that quad while thinking she's choosing freely... God. "Do you think she'll like the bench?" might be the most chilling, sexiest line in the book so far.
+Also, the eating. I know what the author's doing — Randi portioning herself down to apple slices on one side of this book, Vee forgetting to eat and then eating "down into something that had been empty a lot longer than since noon" on the other — and it's landing, it's landing hard, because it's not underlined. Nobody said "Vee had an eating thing." The hollow opened and she went into it and I went with her.
 
-And now this. This chapter is a dinner date with the mark. This is the chapter where, if I didn't know, I'd be swooning — and I DO know, so I spent the whole thing with my stomach in knots. He chose the restaurant for her. He's feeding her — literally, the woman we watched refuse a cheeseburger and portion apple slices, and he ordered for her without asking what she'd already decided she couldn't have, and she ATE, she ate with her hands, she stopped watching herself eat. The apple in Chapter 1 was him learning her hunger; this is him answering it. The symmetry is doing things to me.
+The hand-holding paragraph embarrassed me a little with how well it worked on me. "Less like something beginning than something resolving" — fine, yes, I put my hand over my mouth on the couch, are you happy, Helen Rivers.
 
-The "may I" pattern — "May I call you," "May I choose" — I see what Rivers is building and it's elegant. The whole book is about consent as eroticism, consent as the trap, and here he is making choosing itself the seduction and I know it's a script, I know Randi got a full debrief over wine while using his hands on herself, and Vee is falling for a performance that is ALSO somehow not a performance because you can't fake the way he listens. That's the horror and the romance of it. "Every yes was freely given. That was the problem." The jacket told me the thesis and I still wasn't ready.
+But. Real talk with myself at 1 a.m.: that's two quiet chapters in a row. The pool chapter was lovely and I meant it, and this one was lovely and I meant it too, but the last time anyone was actually *naked* was three chapters ago, and I know — I *know* — this is the long game, the Vee side of the table has to be built slowly or the bench means nothing. Randi's whole interiority (the bathroom mirror, the deadbolt, "do you think she'll like the bench") is still humming underneath every bite Vee takes, and I can feel the two stories closing on each other. That's why I'm still here. But the next chapter needs to move. I'll take another dinner conversation from Pace because the writing earns it, but the *shape* is telling me something has to start converging — the text, the third date, Randi getting back in the frame. Vee not kissing a man she's known a couple of days and then making an exception was the exact right first-kiss scene and I'm warm all over, but if chapter 9 is another cozy montage I'm going to start skimming for dialogue.
 
-The kiss. THE KISS. She pulled out her rule, the old reflex, and he just — let it close. And then she stood in the space he left her and CHOSE, and that's the book's whole engine in one beat under a tree. "It felt less like something beginning than something resolving" — I had to put the Kindle down.
-
-Only complaint: zero heat this chapter, and I felt the absence. But it's earned — this is the best quiet chapter of the run, and I know exactly what the quiet is for. Cassie though. Cassie said "goodbye" and it hasn't come back around yet. I'm watching Cassie. That girl sees everything.
+The kiss itself: him leaving the last inch, her closing it, the grin in both mouths. That's the charge. That's what I'm here for — wanting as the actual event. Keep it.
 
 GATE 8 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 7
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat at all, but this is the tenderest chapter yet and the dramatic irony has me physically anxious for Vee. The hand-holding beat and the kiss she had to choose are worth three sex scenes. I'm reading on tonight.
+WHY: First-kiss scene of my entire year — the left-last-inch beat and her choosing to take it did more to me than most explicit scenes do. It's my second quiet chapter in a row, though, and the heat is all promise right now; I'm reading on because I trust where the two storylines are colliding, not because tonight's chapter alone would have pulled me off the shelf.

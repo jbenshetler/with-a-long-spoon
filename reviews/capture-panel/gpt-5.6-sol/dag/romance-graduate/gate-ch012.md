@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 78f7225e818e · dated · 2026-10-26*
 
 REACTION
 
-Oh, she is so gloriously gone. Twelve days, instantly, without counting. His name lights up her phone and the fry becomes irrelevant. I know that exact humiliating stage, and I loved getting to watch her be giddy with girls who are neither managing her nor warning her—just letting the insanity be fun.
+Oh, she is gone. Completely gone. That helpless pride when she says he’s nearly finished with his doctorate, the exact count of twelve days, the fry becoming “just a thing in her hand” when his name appears—I know this stage. I could feel her vibrating across the table.
 
-Also: thank God Vee has more friends than the people currently engineering her life. Meg’s “everybody’s different at the start” landed with me even though it didn’t land with Vee. That is such a grown-woman truth tucked into an ordinary dining-hall conversation: sometimes he really is different, and you still cannot know yet. Kayla declaring that there is no meal at two made me laugh, because yes, ma’am, we all understand the appointment.
+And I loved being allowed to see her with other women who aren’t Randi or Cassie. Kayla and Meg feel like actual friends, not props waiting to deliver warnings, and the whole table has that delicious communal hysteria of a man sending six words and three women immediately holding a tribunal over them. “That’s not a message, that’s a ransom note” made me laugh. So did Meg putting down her fork like Pace’s house invitation had triggered an emergency protocol.
 
-But the whole conversation has a terrible little shadow under it after Randi riding Pace and demanding details about Vee. Vee is telling the shirt story as her private, precious evidence of who Pace is, while Randi has already used parts of that same afternoon to get off. Pace protected the one piece Vee explicitly gave him in the truck, which matters to me, but he still participated in turning Vee into erotic material without her knowledge. So when Vee says he waits for “the real answer,” I ache. He does. That’s why this is so potent and why the larger deception is becoming harder to forgive. He is teaching her that her wanting belongs to her while concealing how deliberately he and Randi cultivated it.
+But the way Vee tells the shirt story has lodged under my skin. She edits herself out of it. She leaves out rapping on the window. Leaves out calling him back inside. Leaves out undressing while he watched. Leaves out putting his hand against her belly. The most daring thing she has done—maybe ever—gets retold as a lovely man sacrificing his dry shirt while she receives his goodness. Some of that is privacy, obviously. She doesn’t owe the table the erotic middle. But it also shows how quickly Pace’s courtliness can become the whole story, even in her own mind, while her wanting disappears from the official version. I need her to keep what happened in that truck as hers.
 
-And now the house. Two o’clock. No stated purpose. I am absolutely reading on. I know what is in that house, I know what Vee does not know, and I am already tense about whether Pace intends to show her the bench, use it, or simply let her encounter his private world. After all this exquisite asking, the invitation itself being so bare feels almost indecent. “Would you come to my house Saturday” is not remotely explicit, but at this point it might as well be a hand between my thighs.
+And Cassie is not at this table. I noticed immediately. These women are warm and fun, and I’m not objecting to Vee having a life bigger than one roommate, but Randi isn’t the only bright new thing pushing Cassie outward. “We’re doing hair Saturday” is exactly the kind of happy momentum Cassie won’t interrupt once it reaches their room. I can already feel her standing at the edge of the preparations, seeing more than anybody wants her to say.
 
-GATE 14 — What to Wear
+The timing has me staring at Pace’s message like it really is a ransom note. Four days after Randi arrived, used Vee’s body as the erotic third in their bed, said “I want us,” and then fled rather than stay, he opens the door of the house to Vee. Does he understand that these are connected? Does Randi know about Saturday? Is this the plan advancing, or Pace responding to the lonely hurt of being left, or both so tangled together he couldn’t separate them if he tried?
+
+And two o’clock. Sir. You own a bench.
+
+That last stretch absolutely got me. A door, Saturday behind it, no stated purpose: it’s such a small invitation carrying an obscene amount of voltage. Vee is thrilled, I am thrilled, and underneath both is the sick knowledge that she thinks the mystery begins at his front door. It began before he ever asked for her number.
+
+GATE 12 — What to Wear
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee’s dizzy happiness is infectious, but I can feel the concealed plan pressing against every innocent thing she treasures about Pace. Two o’clock at his house, with that bench waiting somewhere inside, has me turning the page immediately.
+WHY: This was a bridge chapter and it did exactly what I need one to do: made me laugh, deepened my unease, and wound the spring until Saturday feels unbearable. Pace’s house means the plan, Randi’s flight, Vee’s hunger, and very possibly that bench are about to occupy the same room, so yes, I’m already turning the page.
