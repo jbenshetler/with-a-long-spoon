@@ -22,7 +22,7 @@ Across the room Theo lifted a hand at her, tray balanced, and she lifted hers ba
 
 "Lifts," Kayla said.
 
-"He's a powerlifter. An actual one." Vee shrugged like it was nothing, and it was not nothing. "You don't expect it off a man who does math for a living. Then again, I'd just spent a whole mountain climbing up behind him, so I'd had the time to work it out."
+"He's a powerlifter. An actual one." Vee shrugged like it was nothing, and it was not nothing. "You don't expect it off a man who does math for a living. Then again, I'd just spent a whole mountain climbing up behind him, so I'd had the time to believe it."
 
 Meg, who followed the Pace situation in installments like her shows, pointed the fork at Vee now. "Okay, but the shirt. You have to tell the shirt. You keep getting to it and going soft and skipping the middle."
 

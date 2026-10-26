@@ -4,13 +4,15 @@
 
 ---
 
-The text came Friday evening, when she was still coming down off an afternoon in the water, chlorine in her hair, the good heavy tiredness of it sitting in her arms, Cassie folded up on the bottom bunk with her knees to her chest, narrating a professor's crimes. Vee's phone lit on the desk and she reached for it without thinking, expecting nothing.
+She sent it Friday evening, when she was still coming down off an afternoon in the water, chlorine in her hair, the good heavy tiredness of it sitting in her arms, Cassie folded up on the bottom bunk with her knees to her chest, narrating a professor's crimes. She'd typed it at the crosswalk and in the elevator and on the edge of the bed, longer every time, and every time taken it back down. What she sent was the shortest one.
 
-It was him. Saturday, he said. Dinner. He didn't say where, and he didn't ask her to answer that night.
+*I'd love to.*
 
-She read it twice, then a third time slower, as if the words might hold more than they did, and maybe the more was hers: the plainness of it, a man saying a thing he'd already decided and leaving all the rest of the room to her. Nothing in it needed her right this second. She could carry it around a while first. That she could, that he'd built the quiet into it without being asked, eased something behind her ribs, and she had the phone pressed to her chest, the day's warmth in her going up a degree it had no cause to.
+His came back before she'd set the phone down. *I'll meet you in your lobby at seven.*
 
-The froyo had been yesterday, and here he was asking for tomorrow, and the wanting had already outrun anything she'd have called sensible. She was grinning at a dark screen in a way she'd have died to have anyone see.
+She read it twice, then a third time slower, as if the words might hold more than they did, and maybe the more was hers: the plainness of it. Nothing in it needed anything back from her. That eased something behind her ribs, and she had the phone pressed to her chest, the day's warmth in her going up a degree it had no cause to.
+
+The froyo had been yesterday, and tomorrow was already his, and the wanting had already outrun anything she'd have called sensible. She was grinning at a dark screen in a way she'd have died to have anyone see.
 
 Anyone but Cassie.
 
@@ -18,9 +20,9 @@ Anyone but Cassie.
 
 "It's nothing." It was not nothing. "It's—Saturday. We're getting dinner."
 
-"He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man?"
+"Since when?" The grin came up under Cassie's surprise. "What've you got on this man?"
 
-She set the phone screen-down on the blanket, which cost her more than it should have. "The other ones always made you answer. Right then, on the phone." It came sideways, ahead of her deciding to say it. Then she said the rest half to herself: "So they'd know where they stood." She turned the last of it over before she let it go. "He just left it with me. Like it could keep."
+"Since last night. He asked, and then he told me not to answer till today." She set the phone screen-down on the blanket, which cost her more than it should have. "The other ones always made you answer. Right then, on the phone." It came sideways, ahead of her deciding to say it. Then she said the rest half to herself: "So they'd know where they stood." She turned the last of it over before she let it go. "He just left it with me. Like it could keep."
 
 Cassie took a second with it. She teased Vee about everything; she didn't tease her about this.
 
@@ -42,7 +44,7 @@ The doors clanked and started to slide shut — the elevator timing out, done wa
 
 The place was close enough to walk to — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it.
 
-They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
+They walked without rushing. He kept to the street side without making anything of it. He asked what music she liked, and she said Carole King before she could think of anything cooler, and he asked what she liked about it, and she found she could just tell him. The talk came easy after that, the walk and the talk the same thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
 
 She hadn't eaten since breakfast. She'd meant to — there'd been a whole afternoon to walk over to the dining hall — but the afternoon had gone to other things: the dress and then the other dress, Cassie cross-legged on her bunk delivering verdicts, the shoes borrowed off a girl down the hall because nothing of Vee's was right. Noon had come and gone somewhere in there and she hadn't felt it. It found her now — the hollow had been opening in her since midday without her noticing, and the smell off the warm doorway ahead reached into it and pulled. She was suddenly, enormously hungry.
 
@@ -60,7 +62,7 @@ He didn't take it lightly, which she hadn't expected. He looked at the page a mo
 
 She didn't catch the words so much as feel them. They came out of him soft, rounded, opening at the ends as her own flat words never did — little exhalations, more breath than edge, and she understood none of it. *Baba ghanoush.* *Tabbouleh.* They meant nothing to her and so they could mean anything: each soft sound a closed door with something behind it, and she sat there with her mouth watering at promises she couldn't have read aloud, wanting things she had no names for, content for once not to know.
 
-The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from — he asked her things and listened like getting to hear her was the point, and the talk started up between them and went along while the kitchen worked somewhere behind her.
+The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from. She asked how he'd ever found the place, and he thought about it before he answered, as if it were a real question. "I was hungry," he said, "and it smelled like this." A pause, and she thought that might be all of it. "Christine fed me twice what I ordered and wouldn't put it on the bill. I've been coming back to get even. I'm losing." Then he wanted to know what she'd have ordered without him, and laughed when she said the hummus, twice, and the talk went along like that while the kitchen worked somewhere behind her — her asking, mostly, and him answering.
 
 Then it came, more than she'd pictured: the little dishes first, crowding in, the ones whose names she'd heard and couldn't have repeated — real now, set down in front of her, the soft promises turned solid. The bright green one. The smoke-dark one under its dust of spice. And the bread last, blistered and steaming, straight from the oven and set down hot among them. She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for.
 
@@ -80,9 +82,19 @@ A little later a drip of the smoky one slipped off his bread and caught the side
 
 She lost the thread of what he was saying.
 
-Ordinarily she'd have caught it again before he noticed, as she always did, the small constant work of keeping up her end. She didn't, this time. The thread went and she let it go and nothing bad happened. He kept talking, low and easy, and she found she didn't need to follow the words exactly to be inside the warmth of them, and the not-needing-to was the most restful thing she had felt in as long as she could remember.
+Ordinarily she'd have caught it again before he noticed, as she always did, the small constant work of keeping up her end. She didn't, this time. The thread went and she let it go and nothing bad happened. He kept talking, low and easy, and she let the words come and go. Four years he'd been in town. He wrote six hours a day and then stopped, because after six it was no good. Then he stopped there too, and left her a little room, and she drifted in it a while before she found she wanted more.
 
-After that the evening went soft at the edges. She couldn't, later, have laid out what they talked about or how long they sat there — the food kept coming and slowing in her, the hollow gone quiet and full, his voice going on, and she stopped doing any of the things she normally did and was not, for once, anywhere except exactly where she was. She let him carry it. It hadn't occurred to her that she could.
+"What then?"
+
+"Hmm?"
+
+"That's only part of the day." She heard herself, slow, coming up out of it. "What then?"
+
+"Before that, I lift." A beat. "I'm a powerlifter. I compete." Something wry came up at the corner of his mouth. "Badly. Best I've ever done is third."
+
+She laughed, and he went on, and she sank back into the sound of him. Following him took nothing out of her. It was the most restful thing she had felt in as long as she could remember.
+
+After that the evening went soft at the edges. She couldn't, later, have said how long they sat there — the food kept coming and slowing in her, the hollow gone quiet and full, his voice going on, and she stopped doing any of the things she normally did and was not, for once, anywhere except exactly where she was. She let him carry it. It hadn't occurred to her that she could.
 
 She didn't know how long they'd been sitting there when the tea came and brought her up. The smell reached her first — mint, sharp and green and clean, cutting up through the warm heavy fullness of everything she'd eaten — and she surfaced into it, and the sounds of the place came back to her, all the ones that weren't his voice: the low clatter, a chair somewhere, the door. She'd stopped hearing any of it. And it was late — it had gotten late without her, the room half-emptied around them while she'd been somewhere else.
 

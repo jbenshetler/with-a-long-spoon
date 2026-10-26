@@ -12,7 +12,7 @@ She had been stuck on the problem for forty minutes when Randi suggested they mo
 
 "You've been *not solving it* for an hour. That's different."
 
-Vee laughed because Randi was right, the way Randi was usually right about the social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked over at Randi, who had her laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
+Vee laughed, and the laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked over at Randi, who had her laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
 
 "It's really hard," Vee said.
 
@@ -34,7 +34,7 @@ She pulled in a breath and let it out and set the pencil down again.
 
 Vee looked up. Randi was texting — thumbs quick, eyes down, the private, absorbed focus of a girl writing to someone who had her attention. Some boy, Vee thought, amused, and looked back at her page.
 
-But the page didn't hold her, and when she looked up again Cassie was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
+But the page didn't hold her, and when she looked up again Cassie was watching Randi thumb at her phone, her own pencil stopped in her hand. Cassie set it down and reached for her coffee.
 
 "How's it going over there?" Cassie said.
 
@@ -74,11 +74,11 @@ Vee had been being looked at for the four steps it took him to cross the floor a
 
 "Let me try?"
 
-The voice was smaller this time — different from the one he had used a half-sentence ago. He was still looking at her. Her social face came online and she became aware that she had not introduced herself and that the offer was a real offer and that the courteous response was to take it or decline it. She took it.
+The voice was smaller this time — different from the one he had used a half-sentence ago. He was still looking at her.
 
 "Yes," she said. "Please. Thank you."
 
-He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. He pulled out the empty chair at their table without dragging it and sat. There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending. He was not a big man. He moved like someone who had never once had to think about where his body was.
+He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. He pulled out the empty chair at their table without dragging it and sat. There was an economy in how he folded down into it — nothing in the movement spent that did not need spending. He was not a big man. He moved like someone who had never once had to think about where his body was.
 
 "I'm Pace," he said.
 
@@ -100,7 +100,7 @@ One word. She did not do the adjective thing. She did not do the parents-had-a-s
 
 He rolled his cuffs back first, two easy turns each — a man readying to do something with his hands — and her eye caught on his forearms and stayed a half-second past where she would have chosen, before she made it move. Whatever else the loose shirt was keeping to itself, it did not keep that. They were not a math tutor's forearms.
 
-She handed him the page. His hand took it the way a person's hand takes a piece of paper they are about to actually read — at the corner, fingers placed so the page would not bend. She watched him read it. He read it once through, slowly, with his eyes moving in the way her econ TA's eyes moved when he was reading a problem he had not seen before — taking it in as a structure rather than as a sequence of words. Then he read it again, more slowly. She had the time to notice that his hand was steady and that his fingers were thick at the knuckles in the way that meant a person used his hands for things besides writing, and to notice that her own coffee had gone slightly cool in her cup, and to wonder, in a small unfinished way, what he did with his hands besides math.
+She handed him the page. His hand took it the way a person's hand takes a piece of paper they are about to actually read — at the corner, fingers placed so the page would not bend. She watched him read it. He read it once through, slowly, with his eyes moving in the way her econ TA's eyes moved when he was reading a problem he had not seen before — taking it in as a structure rather than as a sequence of words. Then he read it again, more slowly. She had the time to notice that his hand was steady and that his fingers were thick at the knuckles in the way that meant a person used his hands for things besides writing, and to notice that her own coffee had gone slightly cool in her cup, and to wonder, in a small unfinished way, what he did with his hands besides math. She was rolling her earlobe between two fingers. She stopped, and put the hand back around her cup.
 
 His clothes gave her nothing to hold. Not like the boys she knew, whose clothes did all the talking — the label at the chest, the right jacket, the effort pointed out at whoever might be looking. His weren't talking to anyone. A work shirt gone soft with washing; everything on him built to be used and nothing built to be seen. He dressed like a man who fixed things for a living — except the cloth was too good for that, and it hung on him too well, loose in the shoulders the easy way her own things hung loose on her, and a man who fixed things did not own a shirt cut like this one. She kept reaching for the shape under him and it would not come. He didn't fit anything she had. That interested her a good deal more than it should have.
 
@@ -118,7 +118,7 @@ He set the page down between them.
 
 She turned the page so he could see her scratch work. He looked at it for maybe ten seconds. He nodded once.
 
-"Your work's right. This one's just built to send you in circles — you can go around it all night." He picked up her pencil — *asked for it with his eyes first,* it reached her before anything else — and wrote something in the margin from memory, a long crowded thing, fractions stacked on fractions. "There's a formula. That's the formula. You could memorize that."
+"Your work's right. This one's just built to send you in circles — you can go around it all night." He picked up her pencil — *asked for it with his eyes first* — and wrote something in the margin from memory, a long crowded thing, fractions stacked on fractions. "There's a formula. That's the formula. You could memorize that."
 
 She looked at it and shuddered before she could help it.
 
@@ -130,11 +130,11 @@ She looked at it and shuddered before she could help it.
 
 She hadn't known she was allowed.
 
-She went on from there. The thing she had learned years ago and set aside as a curiosity — a true thing she had never once needed — came out and did the work in a few clean lines. The crowded formula he'd written went quietly beside the point. At the bottom sat a plain answer with no circle left in it. It had gone easy. It had gone clear. She checked it. It held. She looked up at him with the private elation of a person who has just been handed something she is going to use for the rest of her life.
+She went on from there. The thing she had learned years ago and set aside as a curiosity — a true thing she had never once needed — came out and did the work in a few clean lines. The crowded formula he'd written went quietly beside the point. At the bottom sat a plain answer with no circle left in it. It had gone easy. It had gone clear. She checked it. It held. She looked up at him.
 
 "That's it," he said.
 
-She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not catch until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. He had picked, out of the several possible paths into the problem, the path that was a tutor's path and not a mathematician's. The path he picked was — she could see it with her econ eye, the eye for *how a smart person handles a problem they could handle in any of several ways* — the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers. He had not pretended the problem was hard. He had simply not done the thing he could have done, which was solve it for her in two lines. He had given her the question and given her back the pencil. The way he had—
+She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not catch until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. The way he had—
 
 The thought did not finish. She was already smiling at him. He was already saying something to Randi, who had asked a question of her own.
 
@@ -147,8 +147,6 @@ The thought did not finish. She was already smiling at him. He was already sayin
 "Sure."
 
 He turned back to Vee. Beside her, Randi's hand went to her coffee cup, held it with both hands a second longer than the sip required, then set it down. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
-
-The thought did not finish that one either.
 
 "What are you studying?" Pace said. "Apart from stats."
 
@@ -184,7 +182,7 @@ She wanted to hand some of it back. She had taken the whole table and he had let
 
 "Math."
 
-It reached her body a half-second before it reached her sense of proportion. Her own voice came back from the top of all this, small, warning him off: *It's pretty hard. It's calculus.* She put her fingers over her eyes.
+Her own voice came back from the top of all this, small, warning him off: *It's pretty hard. It's calculus.* She put her fingers over her eyes.
 
 "How far along?" she said, into her hand.
 
@@ -198,7 +196,7 @@ The laugh got away from her, the good kind. Underneath it he seemed young to be 
 
 He glanced, finally, properly, at his watch.
 
-What went through her at the glance made her want to fall through her seat — she was embarrassed to be looking at him and could not look anywhere else. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in.
+What went through her at the glance made her want to fall through her seat — she was embarrassed to be looking at him and could not look anywhere else. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in. Under the table she pressed her palms flat to her thighs and held them there.
 
 "I should—" he said.
 
@@ -208,7 +206,7 @@ What went through her at the glance made her want to fall through her seat — s
 
 She heard the *may.*
 
-She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was, she understood, simply how he had asked. She had a fraction of a second to receive it and her body had already responded. She was nodding before her mouth caught up.
+She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was, she understood, simply how he had asked. She was nodding before her mouth caught up.
 
 "Yes."
 
@@ -218,7 +216,7 @@ She gave it to him. He typed it into his phone, repeated it back to her once to 
 
 The bell above the door tinkled again.
 
-Vee sat with her hand still on the page, on the clean lines she had written out under his crossed mark. The page was the same page. The room was the same room. Her coffee was the same coffee. Something in her chest was doing what her chest sometimes did when she had taken stairs too fast.
+Vee sat with her hand still on the page, on the clean lines she had written out under his crossed mark. The page was the same page. The room was the same room. Her coffee was the same coffee. Her heart was going as if she'd just pushed up off the bottom of the deep end.
 
 Randi spoke first.
 
@@ -242,9 +240,9 @@ Vee looked at her page — Pace's small crossed mark in the margin, her own clea
 
 ---
 
-He'd been gone twenty minutes and the table had gone back to its books, the coffee cooling, when the phone lit up facedown where she'd left it. Her stomach went before she did, the drop of a stair missed in the dark. A number she didn't know. She'd given him hers; it hadn't occurred to her to ask for his, and now here it was, a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt.
+He'd been gone twenty minutes and the table had gone back to its books, the coffee cooling, when the phone lit up facedown where she'd left it. Her stomach dropped, the high-board drop, nothing under her for a second. A number she didn't know. She'd given him hers; it hadn't occurred to her to ask for his, and now here it was, a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt.
 
-"Is he desperate?" Vee said. "Texting this fast?" It was easier to go looking for the flaw than to sit in the wanting.
+"Is he desperate?" Vee said. "Texting this fast?"
 
 Randi took the phone out of her hand to see for herself. "He didn't look like a man who needs to be desperate." She looked at it a moment longer. "He looked like a man who wants you." She slid it back across the table, grinning. "He wants to see you naked."
 
@@ -278,7 +276,7 @@ By late afternoon she and Pace were standing under the neon in a too-bright shop
 
 She built her cup without thinking, and it got away from her — too much, the cone of it leaning. Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing. She bit her lower lip, knowing the cup would drip, and then found she didn't care. He weighed his own cup and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out.
 
-Outside it had gone gold and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn. Like the sentence had been worth waiting out. She wasn't used to being the thing a person waited on.
+Outside it had gone gold and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn.
 
 "I'm going to say something embarrassing," she said, "and then we can both pretend I didn't."
 
@@ -286,4 +284,4 @@ Outside it had gone gold and cool. They walked the long way, not toward anything
 
 "This is the nicest a person has been to me in a really long time. And it's froyo." She heard how it landed and winced. "See. Pretend."
 
-He didn't pretend. He didn't make it large either. He just walked beside her a moment, like he was letting the true thing have its space, and then he said, "Your tart's holding up," and she looked down and it was, the whole stack of it, still standing.
+He didn't pretend. He didn't make it large either. He just walked beside her a moment, and then he said, "Your tart's holding up," and she looked down and it was, the whole stack of it, still standing.
