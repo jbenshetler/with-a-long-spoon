@@ -277,7 +277,11 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
             "max_tokens": max_output_tokens,
             # Resolved per call: routing policy can be overridden per reader,
             # and the model is only known here.
-            "extra_body": {"provider": cold_read_config.openrouter_routing(model)},
+            "extra_body": {"provider": cold_read_config.openrouter_routing(model),
+                           # Ask for the billed cost on every response. The key's
+                           # running total posts in delayed batches, so before/after
+                           # snapshots cannot split a run by model (2026-10-26).
+                           "usage": {"include": True}},
         }
         if effort and effort != "none":
             kwargs["reasoning_effort"] = effort
@@ -309,6 +313,13 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
         reasoning_tok = (getattr(details, "reasoning_tokens", 0) or 0) if details else 0
         finish_reason = getattr(response.choices[0], "finish_reason", None)
         text = (response.choices[0].message.content or "").strip()
+        cost = getattr(usage, "cost", None)
+        if cost is None:
+            cost = (getattr(usage, "model_extra", None) or {}).get("cost")
+        # One line per paid call, on stderr so it lands in the run log beside the
+        # gate it paid for: `grep '^  cost ' <log>` sums a run by model.
+        print(f"  cost {label} {model} in={in_tok} out={out_tok} reasoning={reasoning_tok} "
+              f"usd={cost if cost is not None else 'unknown'}", file=sys.stderr, flush=True)
         return {
             "output": text,
             "id": getattr(response, "id", None) or label,
@@ -321,7 +332,7 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
                 "cacheWrite": 0,
                 "promptTokens": in_tok,
                 "nonMessageTokens": 0,
-                "cost": getattr(usage, "cost", None),
+                "cost": cost,
                 "provider": getattr(response, "provider", None),
                 "finishReason": finish_reason,
                 "duration_ms": duration_ms,

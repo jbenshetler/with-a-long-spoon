@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-26*
 
-REACTION — Oh, this is what I have been waiting for. Not merely the sex—the book finally letting Vee have exactly the sex it has been teaching me she needs, without suddenly turning her into Generic Horny Romance Heroine the second her clothes come off. She is still completely herself in bed: wanting, ashamed of wanting, turned on by the shame, furious at her own evidence, and then gradually too present inside her body to keep standing outside it judging. The fact that the shame never conveniently disappears, but simply loses its power to close her, got me. “It was the first time that had been true” landed harder than either orgasm.
+REACTION — Oh, this is what I have been waiting for. Not merely the sex—though yes, finally, and it was genuinely hot—but for the book to put Vee’s shame inside the sex instead of curing it before she was allowed to have pleasure. The shame stays. Her mother’s voice keeps firing. And Vee comes anyway. Twice. “The shame ran the whole length of it and never closed her” got me right in the chest because that is an actual change in her, not one magical attentive man deleting twenty-one years of damage with his tongue.
 
-And yes, extremely hot. Pace asking, “Would you be bothered if I was too hard?” nearly killed me. He takes the thing she believes exposes her as excessive and gives her his matching evidence of want. He doesn’t reassure her with some bloodless speech about bodies being natural; he makes her wetness erotic, welcome, answered. That is grown-up emotional intelligence doing actual work inside an explicit scene. This is precisely the combination I keep looking for and almost never get.
+“Would you be bothered if I was too hard?” Jesus Christ. He takes the physical evidence she is most humiliated by and gives her the male equivalent as something desirable, almost matter-of-factly. He doesn’t reassure her with a speech or pretend not to see. He sees, he wants, he lets wanting be symmetrical. That worked on me obscenely well.
 
-I also loved that his restraint finally broke without vanishing. He waited inside her until she told him with her body, then eventually stopped governing himself because she had been asking for that surrender too. It felt earned by the mountain, the truck, the fitting, every withdrawal that left her wanting. And thank God the prose didn’t go coy when they finally got here. I did not wait eighteen chapters to hear that they “became one” beneath moonlight.
+And Pace finally losing control only after all that attention and waiting felt earned. I believed the carefulness, and then I believed the moment the careful thing in him gave way. The fact that Vee wanted his weight, his helpless sound, the part of him he had been governing—that matters. She isn’t merely being expertly handled. She is discovering that she can affect him, undo him, ask for more with her whole body. That is the difference between a technically excellent sex scene and one I will remember.
 
-The scar snagged my attention hard. She notices it, then he redirects her into him before either of them speaks about it. I am absolutely filing that beside Daphne and the closed reaction to his parents. Pace has been almost unnervingly complete until now—competent at mathematics, cooking, woodworking, sewing, sex, emotional attention—and that scar felt like the first physical tear in the polished picture. I want to know what happened, but I’m glad she didn’t stop this first encounter to interrogate him.
+I also loved the quiet afterward. Food, wine, no compulsory processing conversation, no sudden declaration pasted over the intimacy. “The evening had used her well” is exactly it. She is fed in every sense without the chapter underlining that for me.
 
-The quiet afterward may have been even more intimate than cuddling would have been. She follows him wrapped in his sheet, eats his food, doesn’t perform conversation, gets full, then walks naked into his kitchen to offer him the soaked green panties she deliberately bought for him. “Trade” is such a perfect little word after the flannel: not gratitude, not repayment, not him furnishing another need. She gives him something chosen, unmistakable, and hers. That ending made me grin like an idiot.
+And then the panties. That ending is filthy, tender, and so specifically theirs that I actually grinned. She goes back for the evidence she once experienced as unbearable, deliberately centers the stain, hands it to him naked, and calls it a trade for the shirt she has been sleeping in. That is not just a sexy souvenir exchange. She is giving him proof of her appetite because she has finally begun to understand it as a gift. Pace’s private reaction saved it from becoming smug.
 
-My fear has not gone anywhere. Pace is giving Vee a profound experience of agency while withholding the fact that he and Randi selected and arranged her. The better and more real this becomes, the worse that concealed beginning becomes. And after Randi kissed Vee, extracted almost every intimate detail of the fitting, and then abruptly closed the door when Vee was about to confess the wetness, I desperately need to know what happens when Randi hears about this. She said she wanted “us.” I no longer believe any of them mean the same thing by that word.
+I am still not forgetting the deception. If anything, this makes the eventual reveal more frightening, because now there is so much more for Vee to wonder whether she chose on real ground. But this night itself felt like hers. Also: that scar high on Pace’s thigh was placed there far too deliberately for me not to clock it. I want the story, but I’m glad Vee didn’t stop the entire moment to demand one.
 
-The 1 a.m. text is: HE COOKED FRA DIAVOLO AFTER RUINING HER AND SHE TRADED HIS FLANNEL FOR HER WET GREEN PANTIES. ALSO THIS MAN HAS A MYSTERY SCAR AND A MASSIVE ETHICAL TIME BOMB. I am not sleeping.
+What I’d text at 1 a.m.: “THE WET PANTIES WERE A TRADE FOR HIS SHIRT. I am unwell. Also this book finally understands that shame does not have to disappear before a woman gets to come.”
 
-GATE 18 — Famished
+GATE 16 — Famished
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This paid off the entire slow accumulation of looking, choosing, hunger, food, shame, and restraint without flattening Vee into a different woman once sex began. I need the next chapter immediately—not because this encounter was incomplete, but because it made the emotional stakes of the secret almost unbearable.
+WHY: This gave me the explicitness I came for and made every physical beat carry Vee’s actual interior life. The ending transformed her shame into an offering without pretending she is healed, and I need to know what happens when this newly bolder Vee collides with Randi, the plan, and the truth.

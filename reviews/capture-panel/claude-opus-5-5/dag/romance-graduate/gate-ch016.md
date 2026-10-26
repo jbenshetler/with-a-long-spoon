@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · dated · 2026-10-26*
 
-**REACTION**
+## Reaction
 
-Okay. *Okay.* It finally happened, and the book didn't flinch. No door closing, nothing coy, and the explicit part wasn't kept at arm's length either. It stayed inside her head the whole way through. The shame and the heat run together the entire time and he never "fixes" it. The shame never shuts her down. "The shame ran the whole length of it and never closed her." Then "It was the first time that had been true" sits by itself after it. I put the Kindle face-down on my chest for a second. I've read a thousand first times where the heroine's hang-ups melt away like a spell has been broken. Here they don't go anywhere. She just stops letting them steer. That felt like a grown-up wrote it.
+Finally. *Finally.* Sixteen chapters, one kiss under a tree, a shirt in the rain, a whole afternoon on a box, and the book made me wait exactly as long as it made her wait. It paid off. I'm a little wrecked.
 
-The scene is hot in the places I actually care about. Him taking the skirt down with both palms, "like a man learning ground he meant to come back to." Him going down on her before the panties come off, so his hand meets the wet through the satin before anything is bared. That's the fitting paying off. A whole chapter of her dying over that thumbprint, and he answers it with his mouth. He watches her face the whole time, and turning into the pillow buys her nothing. The control finally slipping when he lifts her. All of it landed.
+What got me isn't that they slept together. It's that the thing she's been most ashamed of, her body giving her away, is the hinge of the whole scene. The book has been building it since the satin went dark on the riser, and here he peels the green satin down, sees the strings, and asks "Would you be bothered if I was too hard?" I laughed out loud and then I had to put my phone down for a second. It's such a strange, exact, generous line. It's his way of telling her his body is doing the same shameless thing, so if one of them is a floozie they both are. And she has to say "no" and *make* it true. That's the sexiest moment in the chapter and it's a question.
 
-Then the ending. "Trade." She folds the panties in thirds with the spot centered, the sheet drops, and she just finishes the fold. That's a woman who stood on a box ashamed two chapters ago, and it's the best character beat in the book so far. I said "oh, Vee" out loud, and I can't tell whether I meant pride or fear.
+The sex itself is properly written. It's explicit without being a checklist. I loved him watching her face the whole time in the light, and her turning into the pillow and it buying her nothing. And the shame doesn't magically vanish, which is what most books would do. It keeps running, she burns through it, and "it never closed her." That's grown-up. That's the thing I've been starving for. Heat with an actual mind inside it.
 
-Because now I'm scared. Ch 13 is still fresh. He gave Randi the gardenia, the chlorine and "her stomach is soft" while Randi rode him and said "Tell me." So where do those panties end up? Does Randi get told about this? Does she *see* them? "Something in his shoulders was private and she let it be private." Is it private, though? He did keep the truck back from Randi, so maybe he's starting to keep Vee for himself. I'm clinging to that.
+The ending, though. Folding the panties in thirds with the spot centered, the sheet dropping and her not stopping for it, then "Trade." For the shirt. That's a callback the book didn't explain, and it trusted me to get it. I could have kissed it.
 
-Also: what is that scar? Big, high on the inside of his thigh, and his first move is to pull her arms up around his neck and steer her away from it. Daphne? Parents? The patent man went shut at the word "parents." I'm writing it down.
+Now the dread. He *took* the panties. Last time he went home, Randi climbed on him and said "Tell me," and he handed Vee's gardenia and her soft stomach over as foreplay. So who are those panties for? I'm sick about it. I want to believe this is the line he keeps for himself. I'm not sure it is. "Something in his shoulders was private and she let it be private" could be him being moved, or him being guilty. And that scar high on his inner thigh is a new door, which I clocked and put in my pocket.
 
-Gripes, smaller ones. "Floozie" comes up something like five times in this chapter, and by the last one it's a drumbeat I could hear coming. "There was no seam, they ran on the same wire" is the book explaining its own subtext again. I'm adding one to the count. And "Would you be bothered if I was too hard?" made me squint. I think I know what he means, and Vee reads it as a real question, but the line is clunky in a scene that's otherwise exact. The mall-and-nail-polish opening is a slow walk-up, but the anticipation carries it, and the plum toenails hidden in ballet flats are a nice touch.
+Something else I noticed: Vee doesn't think about Randi once this whole chapter. The kiss in the fire lane, the scanning of the dorm windows, all of it is gone, and the week was "quiet." Either the book dropped it or Vee is very busy not thinking about it. I'm betting on the second.
 
-No Randi in this one. After that lingering second kiss in the fire lane, I *need* her next chapter.
+Small gripes. "Floozie" gets rung one or two times too many. "She understood it was a real question. She understood it was something else as well" is the book nudging me when it didn't need to. And the short-story skirt line to the mirror is an old joke, and I winced. None of it mattered by the end.
 
-GATE 18 — Famished
+Text to my friend at 1 a.m.: *ok the slow-burn math book finally delivered and he asked her if she'd mind if he was too hard and I am DECEASED. also she gave him her panties and I'm terrified he's bringing them home to his girlfriend.*
+
+GATE 16 — Famished
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Would you be bothered if I was too hard?" (not close to stopping, but the only line that pulled me out)
-WHY: It's the first-time scene I've been starving for. It's explicit and slow, and it stays in her head, with the shame still running and her refusing to obey it. The panty trade is perfect and terrifying, because now I need to know whether Pace keeps it for himself or "tells."
+ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." That one was more of a wince than a real exit.
+WHY: The wait paid off with sex that had both her shame and her mind running through it, and the "Trade" ending hit me in the chest. Now I need Pace's next chapter right away, because if Randi says "Tell me" and those panties come out of his pocket, I'll have to decide how much I can forgive him.
