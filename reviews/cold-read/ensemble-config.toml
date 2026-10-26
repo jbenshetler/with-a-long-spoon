@@ -31,7 +31,10 @@ fast = ["gemini-4-argon", "gpt-5.6-sol"]
 # On demand: off the default panel, run only when named with --models (author
 # ruling 2026-10-24). Their reads stay in the tree and still show in the
 # chronology view; they are not retired.
-available = ["claude-opus-4-8", "claude-opus-5"]
+available = []
+# claude-opus-4-8 and claude-opus-5 retired from both rosters 2026-10-25 (author
+# ruling): not different enough from claude-opus-5-5. Their reads stay on disk
+# until the author rules on them.
 # Retired from the cold panel. Reads on disk were erased 2026-09-26 (git history
 # keeps them); qwen cannot be routed under the quantization floor (its single
 # Alibaba endpoint reports `unknown`) and the floor stands. `claude-fable-5`
@@ -52,7 +55,7 @@ available = ["claude-opus-4-8", "claude-opus-5"]
 # so searches cannot pick them up). `reviews/cold-read/gpt-5.5/checkpoints/` is
 # KEPT until `core` is rebuilt on gemini-4-argon: the shipped core manifests
 # (ck-ch010/050/060) still hash against it.
-retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash", "claude-fable-5", "kimi-k3", "gpt-5.5"]
+retired = ["claude-opus-4-8", "claude-opus-5", "claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash", "claude-fable-5", "kimi-k3", "gpt-5.5"]
 
 [capture]
 models = [
@@ -76,13 +79,20 @@ models = [
 ]
 # On demand: not run by default, accepted by capture_dag when named, and still
 # counted by capture_stats (author ruling 2026-10-24). Not retired.
-available = ["claude-opus-4-8", "claude-opus-5"]
+# claude-sonnet-5-5: trial lane, 2026-10-25 (author request), first read is
+# May I Choose (ch8, romance-graduate). claude-opus-4-8 and claude-opus-5
+# retired the same day (see [capture].retired).
+available = ["claude-sonnet-5-5"]
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
 # the rest by author ruling the same day; git history holds the record).
 # gpt-6-astra was a one-day trial replaced by gpt-6-sol; gpt-6-sol was itself
 # retired 2026-09-26 and its gates erased.
 retired = [
+  # Retired 2026-10-25 (author ruling): not different enough from
+  # claude-opus-5-5. Gates stay on disk until the author rules on them.
+  "claude-opus-4-8",
+  "claude-opus-5",
   "gpt-5.5",
   "claude-fable-5",
   "gpt-6-sol",

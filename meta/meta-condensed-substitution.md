@@ -17,6 +17,6 @@ finishing a PhD, and she set the thought down without opening it"* (`:197`), on 
 this the **first rung of the three-step age reveal** — Substitution (young, unexamined) →
 {{What to Wear}} (*"He must be… Almost finished already"*, Kayla's older-man premise waved
 through) → {{Rock}}'s porch, where *"Twenty-two"* lands and Vee catches her own assumption
-in the act. The ladder's later two rungs are recorded in `meta-triage-what-to-wear.md` and
+in the act. {{Water Wings}}' coda (2026-10-25) adds a half-rung, still with no number and no PhD comparison: *"and young. Put him in a hoodie and he could have been any boy from the dorms."* The ladder's later two rungs are recorded in `meta-triage-what-to-wear.md` and
 `meta-triage-rock.md`; this rung was undocumented until now.
 

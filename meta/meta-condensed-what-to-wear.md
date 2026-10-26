@@ -16,7 +16,7 @@ A standalone dorm-friends dinner in the athletic dorm's dining hall — the one 
 
 - The good dining hall: better food, better light; the three of them in it, easy and loud.
 - They already know the whole Pace saga — the Hallmark-warm dates, the wet-shirt gift on the trail as the raciest thing to date. This is the next installment, not the pilot.
-- The "what does he do" beat: PhD in math (Vee's pride) and the gym-mornings/writing routine — surfaces the powerlifter category (routine register, no hands) as a seed for the Fitting/{{Turned Up}}.
+- The "what does he do" beat: PhD in math (Vee's pride) and the gym-mornings/writing routine — surfaces the powerlifter category (routine register, no hands) as a seed for the Fitting/{{Turned Up}}. Since 2026-10-25 Vee first hears the routine and *powerlifter* from Pace at {{May I Choose}} (`:89`), so this is her retelling to Kayla and Meg ("so I'd had the time to believe it").
 - The text lands mid-meal. Render Vee's reaction — the buzz, the glance, the reread, the food forgotten — not the message.
 - The invite is spare and logistics-only: his house. It says nothing about the dress (the Fitting's surprise depends on it).
 - Knowing mock-shock: *"His house. For what?"* Vee is high-status and no innocent; the teasing is playful, not naive. The joke is the invite won't say. Mysterious.
