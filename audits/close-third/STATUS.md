@@ -31,7 +31,7 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 14. a-round — reviewed 2026-10-26 (4 proposed: 2 applied, 2 withdrawn; :202 filter-verbs acked; `616ba975`)
 15. how-its-done — reviewed 2026-10-26 (2 proposed: 2 applied; `a2591886`; :338 "very" cut later)
 16. famished — reviewed 2026-10-26 (7 proposed: 4 applied, 3 kept; `736a1679`)
-17. fed — reviewed 2026-10-26 (aggressive list of 25; 6 walked: 1 changed, 5 kept; 19 not walked; COMMIT)
+17. fed — reviewed 2026-10-26 (aggressive list of 25; 6 walked: 1 changed, 5 kept; 19 not walked; `8cdc01f1`)
 18. portion — pending
 19. peekaboo — pending
 20. sorority — pending
