@@ -76,13 +76,16 @@ models = [
   # Added 2026-10-21 (author request): paid OpenRouter lane, first run is
   # romance-graduate through Volume 3.
   "gemini-4-argon",
+  # Promoted 2026-10-25 (author ruling, "use sonnet going forward") after a
+  # one-chapter trial on May I Choose (ch8, romance-graduate). It has no native
+  # lane history yet: chapter-local reads before its first mint read raw prose
+  # only (fine below ch10).
+  "claude-sonnet-5-5",
 ]
 # On demand: not run by default, accepted by capture_dag when named, and still
 # counted by capture_stats (author ruling 2026-10-24). Not retired.
-# claude-sonnet-5-5: trial lane, 2026-10-25 (author request), first read is
-# May I Choose (ch8, romance-graduate). claude-opus-4-8 and claude-opus-5
-# retired the same day (see [capture].retired).
-available = ["claude-sonnet-5-5"]
+# claude-opus-4-8 and claude-opus-5 retired 2026-10-25 (see [capture].retired).
+available = []
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
 # the rest by author ruling the same day; git history holds the record).
