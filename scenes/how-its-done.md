@@ -264,7 +264,7 @@ And Vee, who had spent a day building the version she would tell — the dress, 
 
 "Okay, so." She told her about the magazine dress she couldn't afford, the silk he'd found. She heard her own voice do the thing it did for Randi, the slightly-up thing, the trying-to-sound-like-this-happens-to-me thing. "He's making me a dress. For the induction. Burgundy silk, the real thing. It's —" Vee looked down, and back up. "It's kind of the most romantic thing anyone's ever done for me."
 
-Randi listened the way she listened, which was completely — chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back. There was something keyed-up in the attention today, a brightness wound a notch tighter than the coffee places had ever drawn out of her, though Vee could not have said so and did not try. Nobody else listened like that.
+Randi listened the way she listened, which was completely — chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back. There was something keyed-up in the attention today, a brightness wound a notch tighter than the coffee places had ever drawn out of her. Nobody else listened like that.
 
 "Mm," Randi said, warm, settling in. "Start at the beginning. He measured you himself?"
 "He measured me himself," Vee said. "It's not like a store, there's no — he does all of it. He had the house warm for me when I got there, he'd thought of that, that I'd be cold, so he turned everything up before I came so I wouldn't be." The memory came up around her as she said it and she let it, because it was a good one and because Randi's whole face was turned to her like a lamp. "And he had me take my top off. For the fit. And, Randi — I wasn't even embarrassed. He just made it the most normal thing in the world, like of course, like it wasn't anything, and I stood there and he looked at me and I was just — fine. I was completely fine."
@@ -291,7 +291,7 @@ Vee looked at her.
 
 "The bra too," Vee said. "Yeah."
 
-"There it is." Randi sat back an inch, pleased, and let it land, and then came the next thing, easy, like it followed naturally, because it did. "So how did he manage that *fabulous* bust? God." She looked frankly at Vee's chest, the way a woman looks at another woman's good feature, with open longing. "The tit goddess was good to you." 
+"There it is." Randi sat back an inch, pleased, and let it land, and then came the next thing, easy, like it followed naturally. "So how did he manage that *fabulous* bust? God." She looked frankly at Vee's chest, the way a woman looks at another woman's good feature, with open longing. "The tit goddess was good to you." 
 
 Vee laughed, helpless, complimented, the heat in her face turning to pleasure — because this was the thing about Randi, she could make you feel like the lucky one, like the thing you'd been ashamed of your whole life was, all along, something to be glad of.
 

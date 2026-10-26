@@ -266,3 +266,10 @@ Opus 5 again questions the broader charitable reinterpretation paragraph at :274
 Heat/Romance: Opus 4.8 2/2; Opus 5 2/2; Opus 5.5 2/2; Sol 3/2; GLM 2/3; Gemini 2/2. Ratings fluctuate in both directions against the preceding wave; do not use them as evidence of an edit effect.
 
 GLM’s first response lacked required structured fields; the harness rejected it and did not write a new reaction. One fresh blind retry completed validly. Successful paid usage: GLM 40,978 input / 2,257 output, finish stop; Gemini 44,374 input / 2,222 output, finish stop. Read reasoning breakdowns and exact provider costs were not returned in the console. Estimate for those two successful calls at configured rates: about $0.15, excluding any charge for GLM’s rejected attempt (usage unavailable). All reader reactions retained verbatim. Changes and new reviews remain uncommitted.
+
+## Explain-after-show pass — 2026-10-26
+
+Close-third pass (`/wals-close-third`; batch and rulings in `audits/close-third/how-its-done.md`). Very light after the 2026-08-06 and 2026-10-23 passes.
+
+- **Cut:** `:267` "though Vee could not have said so and did not try" (the narrator reporting what lies below her awareness). Vee now senses the keyed-up brightness and moves on to "Nobody else listened like that." `:294` "because it did" (the narrator vouching for, or winking at, Randi's path). "Like it followed naturally" stays as Vee's impression.
+- **Left standing — do not re-litigate:** `:376` "She had it explained away almost before her mouth was her own again." Vee's, quoted by the glm and opus-5-5 cold reads, and the idea is carried in four gates. `:219` "You could have said anything in that booth." is Vee's sense of the enclosure, quoted by opus-5-5. The other interpretive lines are hers; the batch file lists them.
