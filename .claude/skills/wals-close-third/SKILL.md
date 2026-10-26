@@ -131,6 +131,14 @@ for the ruling before showing the next item. The batch file holds:
    Give lettered options (8a / 8b) where there is more than one honest cut, with
    a recommendation and what each costs.
 3. **Leaving alone, with reasons** — the Step 3 lines.
+4. **Borderline — likely hers, walk if the author wants.** Do not drop a line
+   silently because it *might* be hers. The whose-is-it test is for ranking,
+   not for hiding: after the Two Towels withdrawals the first Famished batch
+   held back everything arguable, and the author, asking "that was all you
+   found?", cut two of the five held back (`famished.md:51`, a repeat in the
+   abstract; `:83`, explaining the callback). Rank this tier strongest first.
+   **"Told herself" plus her own denial is character, not a narrator's wink**
+   (`famished.md:13`, kept: "completely her", sol).
 
 Header: chapter, date, model. Set the chapter's row in `STATUS.md` to
 `proposed`. Record each ruling in the batch file as it comes, and apply the

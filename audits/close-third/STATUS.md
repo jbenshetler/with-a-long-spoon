@@ -30,7 +30,7 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 13. two-towels — reviewed 2026-10-26 (11 proposed: 4 applied, 3 kept, 4 withdrawn; `616ba975`)
 14. a-round — reviewed 2026-10-26 (4 proposed: 2 applied, 2 withdrawn; :202 filter-verbs acked; `616ba975`)
 15. how-its-done — reviewed 2026-10-26 (2 proposed: 2 applied; `a2591886`; :338 "very" cut later)
-16. famished — pending
+16. famished — reviewed 2026-10-26 (7 proposed: 4 applied, 3 kept; COMMIT)
 17. fed — pending
 18. portion — pending
 19. peekaboo — pending

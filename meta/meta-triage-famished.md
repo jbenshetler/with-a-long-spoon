@@ -202,3 +202,54 @@ complaints (impressionistic blur; missing threshold check-in) cleared.
   and continued — friction, not a bounce. Canon stays silent on contraception
   volume-wide. Do not add a pill/condom beat to this or any scene, and do not
   re-flag the absence in later review passes.
+
+## Explain-after-show pass — 2026-10-26
+
+Source: `audits/close-third/famished.md` (`/wals-close-third`). The chapter was
+already light; seven items proposed over two batches, four applied, three kept.
+
+### Cut
+
+- `:21` — "He'd done all the preparation and stopped." The dry pan and the
+  laid-out board carry the stopped meal; the open question (eat, or something
+  else) now reaches the reader the way it reaches her. Author challenged it as
+  her own inference and cut it on the `:23` precedent (an inference stated flat
+  that adds nothing to what she sees). `:105` "from where he'd stopped" still
+  reads.
+- `:37` — "and this was different from him asking if he could order her
+  dinner, and asking if he could make her a dress, and every narrow register
+  she'd held herself to since, because it had nowhere to go except forward"
+  → "She kissed him before he could answer, and did not try to slow it." The
+  narrator setting the kiss against the asking motif, in a register too
+  articulate for her at this heat; her actions (apron strap, "Will you show me
+  your bedroom?") carry the turn, and readers credited her initiative from
+  those, not from this sentence.
+
+- `:51` — "The anticipation sat on top of the fact of it, which made it worse,
+  which made more anticipation." Repeat in the abstract of "She was already
+  ashamed of what he hadn't seen yet."; no praise. (Second batch, after the
+  author asked whether two items was all.)
+- `:83` — "That was the first of it, the answer to his question arriving ahead
+  of everything else, unmistakable." Explaining the joke: "He was so hard"
+  pays off `:63` unaided. **Cut over praise** — the gpt-5.6-sol cold read
+  quoted it ("mattered more in that moment than mechanics"); one reader, author
+  ruled 3a, cut.
+
+### Left standing — do not re-litigate
+
+- `:7` "without thinking too hard about why", `:13` "told herself none of this
+  meant anything", `:39` "the beginning of care…", `:49` "no seam… the same
+  wire", `:51`, `:59` "That was the worst it had.", `:83` "the answer to his
+  question", `:93` "the thing he'd been holding… He stopped governing it.",
+  `:123` "Something in his shoulders was private": all hers (her refusals to
+  look, her reading of him, her processing at the peak).
+- `:93` — walked and **kept** (author). "He stopped governing it" is quoted or
+  echoed by fable and opus (fsog-refugee) and sol (romance); with `:83`'s
+  pointer cut, the recap "since he'd asked her a question on his knees and
+  been told no" is the chapter's one link from `:67` to the letting go.
+- `:57` "so he met it before he had bared her at all" — walked and **kept**
+  (author). Her inference from her own sensation; "met" is contact, and `:61`
+  "She saw him see them" is the step up. Do not add a "she knew" filter.
+  Paraphrase praise: fable and flash (romance).
+- `:13` — walked and **kept** (author). Her own denial, not a narrator's wink;
+  sol cold read: "funny, aching, and completely her."

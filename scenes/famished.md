@@ -18,7 +18,7 @@ He opened the door in a canvas apron over a dark henley, sleeves pushed to the e
 
 "Hi," he said, and stepped back to let her in.
 
-She stepped inside, and the house smelled of garlic and red pepper and nothing else. Fleetwood Mac was going low somewhere back in the house, "Dreams" just coming up out of whatever had been playing before it — and she loved that song, and said nothing about it at all. On the counter the cutting board held everything ready: garlic minced, onion diced, pepper flakes measured into a bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
+She stepped inside, and the house smelled of garlic and red pepper and nothing else. Fleetwood Mac was going low somewhere back in the house, "Dreams" just coming up out of whatever had been playing before it — and she loved that song, and said nothing about it at all. On the counter the cutting board held everything ready: garlic minced, onion diced, pepper flakes measured into a bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner.
 
 A Chianti Classico open on the counter, already breathing.
 
@@ -34,7 +34,7 @@ She set the glass on the counter.
 
 "I never thanked you for the shirt," she said.
 
-She kissed him before he could answer, and this was different from him asking if he could order her dinner, and asking if he could make her a dress, and every narrow register she'd held herself to since, because it had nowhere to go except forward and she did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. Her nipples were hard before his hands reached them, crinkled against the satin, her body announcing itself ahead of her, and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
+She kissed him before he could answer, and did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. Her nipples were hard before his hands reached them, crinkled against the satin, her body announcing itself ahead of her, and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
 
 She broke from the kiss. He stilled, the question already in his hands — the beginning of care, the beginning of stepping back — and she did not want his care, not that kind. She reached up and took the strap of the apron behind his neck and pulled.
 
@@ -48,7 +48,7 @@ She reached for the hem of his henley and he raised his arms and she pulled it o
 
 He opened her blouse from the bottom and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
 
-She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd dressed tonight, for Pace, for their first time. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation.
+She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd dressed tonight, for Pace, for their first time. She was already ashamed of what he hadn't seen yet.
 
 He unzipped the skirt at her hip and took it down himself, both palms flat to the outsides of her legs and following the fabric down, slower than it needed to go. The callus of his hands dragged warm over her thighs, her knees, the swell of her calves. He was in no hurry. She had good legs, the one thing about herself she had never once doubted, and he took his time down the length of them like a man learning ground he meant to come back to.
 
@@ -80,7 +80,7 @@ The sheets were plain white cotton and very soft, washed many times, and when sh
 
 He was careful with his weight until she pulled him in — her heels at the backs of his thighs, her hand spread flat on the small of his back, her hips rising to meet him. And then he wasn't careful.
 
-He was so hard. That was the first of it, the answer to his question arriving ahead of everything else, unmistakable. He rocked into her in short pushes, drawing back and returning, opening her a little at a time, and her body gave to him and went on giving. She was wet enough that nothing had to be forced — only the steady press past where her body was accustomed to being asked, and then all of him was in her, and there was nowhere further to go.
+He was so hard. He rocked into her in short pushes, drawing back and returning, opening her a little at a time, and her body gave to him and went on giving. She was wet enough that nothing had to be forced — only the steady press past where her body was accustomed to being asked, and then all of him was in her, and there was nowhere further to go.
 
 Then he held there, his kisses stealing the sounds her mouth made without consulting her. He did not move, and she understood he was waiting to be told. What told him was her hips. They had started without her, small greedy movements she had not authorized, and she could no more have called them back than she could have called her body's name.
 
