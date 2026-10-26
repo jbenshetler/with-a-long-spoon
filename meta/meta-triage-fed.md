@@ -313,7 +313,7 @@ acked with rationale in `style/style-allow.toml`:
 
 Source: `audits/close-third/fed.md` (`/wals-close-third`). The author asked for
 an aggressive read with protections ignored (25 clauses listed there, ranked);
-six walked.
+six walked, then three of the remaining 19 the assistant flagged as concerns.
 
 ### Changed
 
@@ -322,6 +322,20 @@ six walked.
   all weekend, to set it down…". The narrator's claim about what she can't
   account for, flagging her want for Randi; the Cassie/Randi contrast (the
   ladle, the kept middle) carries it. No praise.
+
+- `:109` — "and had known, even telling herself, that it was a lie of a
+  particular size." → "and knew now that it had been a lie, one she'd
+  needed." (author's wording). The old line put her knowing on Friday, which
+  made Randi's "You drove over there sure" (`:111`) a plain fact and undercut
+  the 2026-08-07 ruling that the overstatement is Randi's operation. Now the
+  realization comes at the table under Randi's tease; Randi hardens it into
+  certainty; `:115` takes it on. "One she'd needed" is Vee seeing why she lied
+  (cf. the unpacked bag, `:9`). The "particular size" wordplay is gone (two
+  authorship audits had quoted it; fable romance twitched at it); the
+  `famished:13` echo "anything in particular" stays.
+- `:119` — cut "The light moved across the porch." Near-verbatim repeat of
+  `:113` "the light moved on the porch"; "They stayed another hour" carries
+  the time.
 
 ### Left standing — do not re-litigate
 
@@ -336,3 +350,8 @@ six walked.
   hide, not the clause.
 - `:45` "She had never in her life been so happy.", `:125` "and the day was
   good." — her own feeling and verdict; readers take both as ominous.
+- `:119` "Not the way Pace was easy — Pace was the thing the week bent
+  around." — Vee's own comparison, holding the seen/picked vocabularies apart.
+  Fable romance's "the book explaining a friendship" complaint is aimed at "the
+  friend she wanted at fifteen" (praised by flash and opus-5-5), not at this
+  sentence; do not cite it against this sentence.

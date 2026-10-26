@@ -106,7 +106,7 @@ Vee laughed, a little wet, and let herself be lucky for a second.
 
 "You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's not nothing, that's a *campaign*." She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
 
-Vee laughed again, helpless, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and had known, even telling herself, that it was a lie of a particular size.
+Vee laughed again, helpless, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and knew now that it had been a lie, one she'd needed.
 
 Randi didn't tease her for it. She looked at her, like the planning was the part she liked best. "You knew how that night was going to end before you ever got in the car," she said. "You drove over there sure." A beat. "So why are you telling me like it's a confession?"
 
@@ -116,7 +116,7 @@ Something had come into Randi's voice over the last few minutes. Vee heard it wi
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
-They stayed another hour. The light moved across the porch. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
+They stayed another hour. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
 
 Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small drawing-back and then the second press. Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them, the way she had the first time.
 

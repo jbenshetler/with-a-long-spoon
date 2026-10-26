@@ -95,3 +95,11 @@ the narrator's. Tallies are current Fed reads only (`praise_check --slug fed`,
 - 4 `:63` "That was the thing she would not have been able to explain to anyone, least of all herself:" — **changed** (author) → "And Vee wanted to. She had wanted, all weekend, to set it down on a table in front of someone who would not flinch." The narrator's claim about what she can't explain, flagging her unexamined want for Randi; the Cassie/Randi contrast carries it.
 
 **Closed 2026-10-26** at the author's word, after the six. Items 1, 5, 8, 9, 11–25 of the aggressive list were not walked; they stand as listed above for a later pass. Lint: 0 errors, 5 pre-existing advisory hits. praise_check: nothing new. orphan_refs: nothing flagged.
+
+### Follow-up walk (author: "are any of the 19 of particular concern?") — 2026-10-26
+
+- A `:109` "and had known, even telling herself, that it was a lie of a particular size." — **rewritten** (author) → "and knew now that it had been a lie, one she'd needed." The old line put the knowing on Friday, which made Randi's "You drove over there sure" (`:111`) a plain fact and contradicted the 08-07 ruling that the overstatement is Randi's operation. Now the realization happens at the table under Randi's tease, Randi hardens it into certainty, and `:115` takes it on. "One she'd needed" is Vee seeing why she lied (cf. the unpacked bag, `:9`). Loses the "particular size" wordplay; the `famished:13` echo ("anything in particular") stays.
+- B `:119` "Not the way Pace was easy — Pace was the thing the week bent around." — **withdrawn** (author challenge). Fable romance's complaint names "the friend she wanted at fifteen", the line flash fsog and opus-5-5 cold praise; nobody mentions the Pace sentence, so cutting it would not touch the complaint. It is Vee's own comparison, holding the seen/picked vocabularies apart (`meta-craft-vivienne.md` Console). Keep.
+- C `:119` "The light moved across the porch." — **trimmed** (author). Near-verbatim repeat of `:113` "the light moved on the porch" six lines up; "They stayed another hour" carries the time. `:113` stays (part of the praised nudge). No praise either way.
+
+**Applied 2026-10-26 (follow-up):** A, C. Lint: 0 errors, 5 pre-existing advisory hits. praise_check / orphan_refs below.
