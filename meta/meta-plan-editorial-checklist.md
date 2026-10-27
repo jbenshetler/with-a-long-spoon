@@ -1,217 +1,342 @@
-# Editorial checklist — road to publication (Volume One)
+# Editorial procedure — road to publication
 
-*Recorded 2026-08-01 from an editorial-pipeline review: what a trade editor
-would do, mapped against what this project has already done. Working checklist —
-mark items done with dates as they complete.*
+*The pre-publication passes, in the order they run. This doc defines each pass:
+what it catches, its instrument, where its state lives, what must be settled
+before it runs, and what edits make it stale. **Progress is not recorded here**:
+it lives in one status doc per volume (`meta-plan-editorial-status-vol<N>.md`)
+and in each pass's own `STATUS.md`. First recorded 2026-08-01 from an editorial-pipeline review;
+restructured into phases 2026-10-27.*
 
-## Done / in progress
+## How the order works
 
-- [x] **Developmental edit** — the `meta/` architecture + thesis, multi-model
-  cold-read panels, triage verdicts, oracle probes. Ongoing as scenes land.
-- [x] **Continuity/logic line audit** — sentence-level, per chapter, via
-  `/wals-line-audit` (state: `audits/line-audit/STATUS.md`). Complete
-  2026-08-03: all 49 chapters audited and reviewed with the author.
-- [x] **Style-tic policing** — `na.py style` + `style/style-allow.toml`
-  ledger. Ongoing per draft.
+- **A pass runs after every pass that can invalidate it.** Cutting passes change
+  facts, break callbacks and shift dates, so the passes that verify those run on
+  the text the cuts leave. A verification pass run before the cuts has to run
+  again after them.
+- **Stale is a status.** A pass is complete only for the prose it read. When a
+  later edit lands in a chapter the pass covered, the pass is **stale** for that
+  chapter. Each entry below says what makes it stale.
+- **Re-run the delta, not the book.** A stale pass is re-run on the chapters
+  changed since it last covered them (`git log --since=<pass date> -- scenes/`),
+  and `tools/ruling_anchors.py` names the settled rulings those edits broke.
+- **A chapter merge, split or insertion stales everything after Phase 0**
+  for the chapters it touches, and any record keyed by chapter number.
+- **Per-edit steps are not passes.** CLAUDE.md (*Before writing any prose*)
+  requires lint, the orphan check, the praise check and the fact check on every
+  edit. Those keep a revision clean; they do not replace the systematic sweep.
+- **Every instrument flags; the author rules.** Token rule throughout:
+  subscription lanes by default; OpenRouter is paid and needs the author's
+  authorization for each run.
 
-## To do
+---
 
-- [x] **True line edit** — rhythm, cross-chapter repetition and unintentional
-  echoes, pet constructions the linter doesn't yet know, paragraph pacing.
-  Systematic front-to-back, distinct from the continuity audit. Complete
-  2026-08-14: all 50 chapters reviewed (`audits/line-edit/STATUS.md`).
-- [x] **Copyedit against a style sheet** — build the style sheet as the pass
-  runs: names/spellings, places, hyphenation rulings, numerals, italics
-  conventions (interiority italics applied consistently?), dash/ellipsis
-  house rules, capitalization of recurring objects. Sheet lives in `style/`.
-  **Decision 2026-08-01: this is its own skill/command, separate from
-  `/wals-line-audit`** (that pass is mid-flight; don't graft a second rubric
-  onto it). Complete 2026-08-03: Pass 0/1/2 all done 2026-08-02, escalated
-  candidates ruled (`ef57bdc`); sheet at `style/style-sheet.md` with no open
-  items. Curly-quote conversion deferred to epub typesetting.
-- [x] **Whole-book timeline sweep** — one closing audit reconciling every
-  elapsed-time claim against the master chronology in a single pass; run
-  after all chapters clear the line audit. Complete 2026-08-03: 734 claims
-  across 49 chapters (`audits/timeline/`), 9 findings ruled, no cumulative
-  drift.
-- [ ] **Cross-chapter fact audit (Lane A)** — the class every per-chapter
-  instrument is blind to: a fact established in one chapter **contradicted in
-  another**. The linter has a closed vocabulary, the lore-keeper only answers
-  what it's asked, and a cold reader holds no other chapter in memory — none of
-  them can see it. Worked case: `the-usual.md` panel two (scanned as `not-enough.md`; merged 2026-10-07), where Pace waits for a truck
-  turning in four lines before *her car* finds the drive, and Vee drives a car.
-  Tool `tools/fact_audit.py` / `/wals-fact-audit`; per-model ledgers in
-  `audits/fact-audit/<model>/`; state: `audits/fact-audit/STATUS.md`. Runs
-  **independent ledgers across vendors** — five models, four vendors as of
-  2026-09-19 (`b082c4f6`: a *second vendor* is what finds real problems, so
-  spend on cross-vendor breadth, not depth in one family) — and keeps what more
-  than one lands on. **Over-flags by design — the author rules on every item.**
-  Token rule: subscription lanes are the default; OpenRouter is paid and
-  author-authorized only. **RESET 2026-10-09 — not started.** The
-  2026-09-19 run (72 reports, 7 models, 12 of 79 chapters) was dumped: nothing had
-  been ruled with the author, the ledgers were stale by 76+ prose commits, and the
-  `vol1` label meant the whole fall, which the volume split made wrong. Recoverable
-  at `62b06759`. **When re-run, prefer ONE whole-book ledger** — the book is ~350k
-  tokens and every roster lane is 1M-class (ceilings in
-  `tools/cold_read_pricing.toml`), while per-volume ledgers are structurally blind
-  to the cross-volume contradiction this pass exists to catch. **Dates are out of
-  scope for this pass** (the whole-book timeline sweep above owns them).
-  **Per-edit check 2026-10-23:** merged *Fed* (former *Toenails* plus *Fed*, both passages verbatim) checked by gpt-5.6-sol against a freshly derived Volume One ledger; no factual contradictions flagged. Rechecked after the subsequent 225-word retelling reduction, again with no contradictions flagged. Rechecked after the further 85-word explanation pass: no contradictions flagged. This limited check does not complete the whole-book, cross-volume Lane A pass.
-  **Per-edit check 2026-10-23, Dear diptych:** gpt-5.6-sol checked both merged movements against the existing Volume One ledger; no factual contradictions flagged. Limited per-edit check only.
-  **Per-edit check 2026-10-23, How It’s Done diptych draft:** gpt-5.6-sol checked the merged chapter against the existing Volume One ledger. Final run found no factual contradictions. First-run room flag was already settled in the Turned Up triage. Limited per-edit check only.
-  **Per-edit check 2026-10-23, How It’s Done explanation draft:** gpt-5.6-sol rechecked the 22-word reduction against the existing Volume One ledger; no factual contradictions flagged. Limited per-edit check only.
-  **Per-edit check 2026-10-23, How It’s Done author restoration:** subscription check retained; its two flags compare the old ledger’s chapter 18/19 citations with merged chapter 17. They concern approved structural renumbering, not changed events. No prose fix made from them.
-  **Per-edit check 2026-10-23, How It’s Done approved after-explanation cuts:** subscription fact check repeated the already-settled Cassie living-room/sun-porch shorthand; no new issue from the cuts. Limited per-edit check only.
-  **Per-edit check 2026-10-23, Gone workshop restoration:** gpt-5.6-sol checked the restored bedroom sequence/new kitchen aftermath against the existing Volume One ledger. Three flags compare older scene numbers with the current merged chronology (Sorority before Gone); no new factual conflict identified by continuity review. Raw report retained; no automatic prose fixes. Workshop draft pending author review, limited per-edit check only.
-  **Per-edit check 2026-10-23, Gone conference revision:** gpt-5.6-sol checked the replacement of the proof discussion with the prior Chicago presentation. Only flag compares old ledger chapter 25 with current chapter 23; no new factual conflict flagged. Limited per-edit check only.
-- [ ] **Close-third pass** — narration that explains what a beat already
-  showed, announces a line before it is said, recaps, or supplies a motive or
-  verdict from outside the POV character; everything left should be something
-  she senses, thinks or feels. Read by eye, one chapter at a time, via
-  `/wals-close-third` (state: `audits/close-third/STATUS.md`; batches in
-  `audits/close-third/<slug>.md`; rulings in each `meta-triage-<slug>.md`).
-  Started 2026-10-25: substitution and dear reviewed.
-- [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
-  a revision removed. Worked case: a cut passer-by "in a camel coat too warm
-  for the afternoon" whose later callback, "the closed camel-coat project,"
-  survived the cut and now names a character the reader never meets. Tool
-  `tools/orphan_refs.py`; sweeps in `audits/orphan-refs/`; state:
-  `audits/orphan-refs/STATUS.md`. Deterministic and
-  free, so it is also a **per-edit step** (`AGENTS.md` → *Before writing any
-  prose*, 3b) and runs advisory-only in `.githooks/pre-commit --staged`; this
-  checklist item is the **systematic front-to-back sweep**, which the hook
-  cannot substitute for (it fires after staging, is silenced, and sees only
-  staged paths). **First Vol 1 sweep run 2026-09-19
-  (`audits/orphan-refs/vol1-2026-09-19.txt`) — 26 candidates, none ruled with
-  the author.** Heaviest in the most-revised chapters: `the-bench` 10,
-  `the-pointing-game` 6 (including the camel-coat cluster, the pass's own worked
-  case).
-- [ ] **Reading-effort sweep** — sentences that charge the reader more than
-  they pay back: one idea split across stacked subordinate clauses, or across a
-  sentence boundary, where a rearrangement carries the same content at lower
-  cost. From human reader feedback on `the-bench`, 2026-09-20. Worked case:
-  `the-bench.md:49`, where "She slid her hands up over the front of his shirt"
-  was held open across a 41-word dash interruption before the clause resumed —
-  rearranged into three sentences at 92 → 91 words, nothing cut, peak open
-  dependencies 8 → 6. Tool `tools/reading_effort.py` (deterministic: a fixed
-  spaCy dependency parse plus arithmetic, no model calls, no tokens);
-  per-chapter worklists at `audits/reading-effort/<slug>.md`, author rulings in
-  `audits/reading-effort/rulings.toml`, state:
-  `audits/reading-effort/STATUS.md`. **Over-flags by design — the author rules
-  on every item**, and high effort is frequently earned: suspension is a real
-  device and the accretive tail is deliberate voice. **Not a per-edit step
-  (author ruling 2026-09-20)** — unlike Lane B this is a deliberate sweep only,
-  because it returns ~87 findings on a single chapter and every one needs a
-  ruling; running it per keystroke would swamp the drafting loop. Scored
-  relative to this book's own corpus, never an external readability index.
-  **Protocol (author ruling 2026-09-20): the tool AND a blind model panel,
-  both required — this is a pre-publication pass, not a diagnostic.** The
-  tool's `chain`/`strand`/`suspend` classes are the structural half (its
-  `hold`/`nest`/`front`/`pp`/`split` are demoted: weak predictors). A blind
-  model panel — `tools/effort_blind.py`, **at least four models**; a
-  three-model consensus is unstable (Jaccard 0.56 to five) — is the semantic
-  half, and 58% of what 2+ readers converge on the parser cannot see
-  (compressed metaphor, ambiguous reference, abstraction). Work **convergent**
-  findings (2+ of 5) first, highest vote count first; a sentence only one
-  reader flags is noise. Subscription lanes by default; `glm-5.3` is
-  OpenRouter, paid, author-authorized per run, and fails first-try half the
-  time. Validation, F1, class tiering, and the published-comp calibration:
-  `audits/reading-effort/STATUS.md`. **Progress 2026-09-20: `the-bench` and
-  `the-pointing-game` swept by tool + five models; the three top convergent
-  sentences (5/5, 4/5, 4/5) rewritten and ruled; 31 convergent findings still
-  open (5 at 4+ votes, 8 at 3); 1 tool finding left standing.**
-- [ ] **Flat-interrogative sweep** — a question closed with a period or comma
-  where a person saying it would voice it as a question. The Bible rule
-  (Global Craft Rules, *Questions get question marks — every time*) and the
-  linter both stopped at dialogue, so italic interiority and recalled speech
-  were invisible: `the-pointing-game.md:143` shipped *is this one mine to
-  take.* with 19 more flat italic interrogatives book-wide. Author ruling
-  2026-09-20: **the voicing test, every register** — flat only where the page
-  marks the line as not really asked (rhetorical, a glossed laugh or gesture),
-  and recalled **Cassie** stays flat, hers by design. Tool: `na.py style` rule
-  `flat-interrogative`, widened the same day to see `*italic*` spans (20 hits,
-  no noise); the linter's live hit list is the state, there is no separate
-  file. **Blind spot: an elliptical question with no interrogative word (*Your
-  folks coming up.*) is undetectable by pattern, so the front-to-back sweep
-  needs a human eye — and the assistant's bias is one-directional (drops
-  marks, never over-marks), so when in doubt, mark it.** **Progress
-  2026-09-20: 14 marks applied across 11 chapters. Left flat pending author
-  ack: `strokes` ×4 (Cassie, marked on the page), `standards:131` (glossed
-  laugh), `covering:77` (gesture), `boyfriend:49` (noun, false positive).
-  Five pre-existing dialogue hits still unruled: `one-bite:39,51`,
-  `two-towels:73`, `clean-plate:163`, `covering:155`.**
-- [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
-  built epub: section-rule breaks, italics at chapter boundaries, curly
-  quotes/apostrophes, scene-break rendering.
-- [x] **Legal/content read** — real-institution exposure (VT identifiability:
-  professors, campus police behavior), no quoted lyrics, brand-name usage.
-  Counsel sourcing/briefing: `meta-plan-lawyer.md`; per-volume findings sheet:
-  `meta-plan-legal-read.md` (Vol 1). **Complete for the ARC/beta round (author
-  ruling 2026-09-18.)** All nine risk≥2 items closed without counsel
-  (2026-09-13), Dr. Marsh archive leg run and clear, Miranda Holdings resolved
-  by canon rename plus the prose naming no entity at all. Deferred to *wide
-  release*, not to beta: the ALLi-grade platform consult (category pairing) and
-  one flat-fee pre-publication read before Volume 2 or first revenue.
-- [ ] **Front/back matter completeness** — dedication and acknowledgments
-  decisions; Helen Rivers bio (**copy locked 2026-08-15**, three surfaces in
-  `meta-plan-distribution.md` §5 → *Author bio*; use surface 1, the
-  About-the-Author, which already ends on the newsletter CTA — remaining work
-  is wiring it into `build_epub.py`, not writing it); series page pointing at
-  Volume Two; the call-to-action / mailing-list page (the funnel's conversion
-  point — required for the indie lane, see `meta-plan-free-sample.md`). All
-  three are **wide-release** back matter, deliberately absent from the test
-  epub.
-- [x] **Capture/retention panel (simulated target readers)** — standing
-  instrument, run 2026-09-07/08; contract and results in
-  `reviews/capture-panel/SPEC.md`; harnesses `tools/capture_panel.py`
-  (4-chapter sample, jacket/cold arms) and `tools/capture_dag.py`
-  (full-volume cold-reader model: per-chapter runs, reader-owned decade
-  mints, STOP gates). Persona panel = romance-graduate, FSoG-refugee,
-  relationship-first (third seat since 2026-09-27); consent-sensitive and
-  line-editor on request; dark-romance-control retired 2026-09-12 (the
-  wrong-reader control — its stops were the success, delivered). What it measures at this stage: per-chapter
-  capture/survival, almost-stopped moments, trust-ledger drift, Book Two
-  conversion, and the tiered comeuppance funnel. Already produced prose
-  revisions (`we-find-out` ch32 consent beat, flag→fix→re-measure loop) and
-  the cold-posting framing rule in `meta-plan-free-sample.md`.
-  **Re-run triggers:** any substantive revision to a Vol 1 chapter (re-read
-  the affected gates, as done for ch32); the Vol 2 draft-complete milestone
-  (fresh DAG); before the human beta round (its hypotheses — the ch-2 dip,
-  gate-3 cold exposure, comeuppance tripwire — shape that round's question
-  set). Simulated readers are hypothesis generators; the human pipeline below
-  is the confirmatory instrument.
-- [ ] **Line-editor pass (whole-volume, per volume)** — the `line-editor`
-  persona through its own frame, one call per volume
-  (`tools/capture_panel.py --volume --personas line-editor`), then
-  `tools/notes_verify.py --volume <record> --uptake`. Brings the author only:
-  zero-uptake interpretive flags (`explains` / `told-after-shown` /
-  `editorial` lines no other reader quoted, ≥6 readers on file), verified
-  repeats, and gestures that bleed between characters (ACROSS THE VOLUME).
-  Scene shapes are excluded by contract — the brunches, the meals, the
-  arrival-drink-bed evening are the structure. Rule: an interpretive sentence
-  earns its place when it is the sentence readers quote. Contract and
-  findings: `reviews/capture-panel/SPEC.md`, "`line-editor` reframed". Run per
-  volume before its seam is final and after any structural change (a removed,
-  split, or inserted chapter stales the record whole; re-run, don't patch).
-  First run: Book A, fable-5-1, 2026-09-30 — 121/121 quotes verified, the
-  glass-turn tell found bleeding Randi→Vee in {{What to Wear}} and {{Fed}}, five
-  interpretive lines with no reader uptake (rulings pending).
-- [ ] **Age-coded language sweep (per volume, before publication)** — added
-  2026-10-20. Retailers screen erotica for wording that could suggest a minor
-  in a sexual context (author-community experience, not a published Amazon
-  list; Draft2Digital and Apple are stricter). Sweep each volume's **sex
-  scenes** for "girl" in **narration**, especially beside words stressing
-  smallness or youth; prefer her name or "woman" there. **Dialogue is out of
-  scope** — twenty-one-year-olds say "girl" constantly and scrubbing it reads
-  stiff. Flag, never fix; the author rules each hit, and an erotica-experienced
-  editor's assessment has the final word on current retailer sensitivities.
-  Jacket, title, keywords and metadata are covered separately by the blurb
-  rule in `meta-blurb.md` (Craft discipline). Status: Vol 1 — · Vol 2 — ·
-  Vol 3 — · Vol 4 —.
-- [ ] **Beta/test-reader pipeline** — full plan in `meta-plan-test-readers.md`
-  (recruit → collect → deliver channel layers, intake screener, Helen Rivers
-  recruit copy, behavioral-first question set). Value at *this* stage is
-  affective / arousal / reader-implication / drop-off + target-market fit +
-  social proof — **not** line/continuity fixes (those passes are done, 2026-08).
-  Recruit via BookSprout/BookSirens; collect via StoryOrigin Beta Copies;
-  deliver via BookFunnel. Confirm each platform's adult-content ToS first.
+## Volumes
+
+**The procedure runs per volume.** Each volume moves through the phases on its
+own, with its own status doc. Volume membership and order come from
+`tools/volume_scenes.py` (titles from `meta-blurb.md`); never restate the
+chapter lists here.
+
+- **A volume enters pre-publication when its drafting is complete.** Before
+  that, only the per-edit steps apply. Phase 0's exit (structure declared
+  final) is per volume.
+- **Status docs:** `meta-plan-editorial-status-vol1.md`,
+  `meta-plan-editorial-status-vol2.md`. A volume gets one when it enters
+  pre-publication.
+- **Volumes may move together.** Running a chapter pass over two volumes at
+  once is fine; each volume's status doc records its own chapters.
+
+**Every pass has a scope**, which says how it splits:
+
+| Scope | Passes | How it runs for volume N |
+|---|---|---|
+| **chapter** | retell, explain audit, close-third, true line edit, reading effort, continuity line audit, ruling anchors, copyedit, style tics, flat interrogatives, age-coded | On volume N's chapters only. Progress is counted per volume. |
+| **volume** | line-editor whole-volume pass, capture panel (fresh DAG), legal read, front and back matter, typesetting, proofread, beta round | Once per volume, on that volume as a whole. |
+| **cross-volume** | fact audit (Lane A), figure sweep, date check, orphaned references, cross-chapter echo triage | On volume N **against itself and every earlier volume**. These catch a contradiction or a repeat between chapters, and a later volume can collide with an earlier one. |
+
+**Cross-volume collisions are fixed in the later volume once the earlier one
+is published.** A published volume is frozen: when volume N contradicts or
+repeats something in a published volume, the fix goes in volume N. Before
+publication, either side may change, and the author rules which. *(Author ruling
+2026-10-27.)* **Volumes publish separately** (author ruling 2026-10-27), so the
+rule first applies between Volume 1 and Volume 2. A cross-volume pass is re-run
+for each new volume, never skipped because an earlier volume passed it.
+
+---
+
+## Phase 0 — Structure
+
+### Developmental edit
+- **Catches:** arc, architecture and thesis problems; chapters that should not
+  exist, should merge, or are missing.
+- **Instrument:** the `meta/` architecture and thesis; `/wals-scene-review`,
+  `/wals-place-in-novel`; cold-read panels (`/wals-cold-read`) and
+  `wals-cold-reader-feedback`; triage docs (`meta-triage-<slug>.md`); oracle
+  probes.
+- **Exit:** the chapter inventory in `meta-plan-chronology.md` is final for
+  the volume. **Every later phase assumes it.** The October diptych merges ({{Fed}},
+  {{Dear}}, {{How It's Done}}) are part of why the August passes are stale.
+
+---
+
+## Phase 1 — Cutting passes
+
+Passes that remove interpretive or retold text. Run the corpus-driven ones
+first (they find what readers said out loud), then the by-eye pass (it finds
+the rest), so the author rules on each line once.
+
+### Retell pass
+- **Catches:** the prose re-narrating an event the reader has already seen.
+  Processing and reception stay; retelling goes. The gap between what Cassie
+  and Randi are told is the arc and is never cut across the pair.
+- **Instrument:** `meta-plan-retell-pass.md` (test, stacks, gauge).
+- **Stale when:** a confidante chapter is added or re-scoped.
+
+### Line-editor whole-volume pass
+- **Catches:** interpretive lines no other reader quoted (`explains`,
+  `told-after-shown`, `editorial`), verified repeats, and gestures that bleed
+  between characters across the volume. Rule: an interpretive sentence earns
+  its place when it is the sentence readers quote. Scene shapes (the brunches,
+  the meals, the arrival-drink-bed evening) are the structure and excluded.
+- **Instrument:** `tools/capture_panel.py --volume --personas line-editor`, then
+  `tools/notes_verify.py --volume <record> --uptake`. Contract:
+  `reviews/capture-panel/SPEC.md`, "`line-editor` reframed". Cross-chapter
+  findings feed `meta-plan-echo-triage.md`.
+- **Stale when:** any chapter in the volume is removed, split, inserted or
+  substantially revised. Re-run; never patch.
+
+### Explain audit
+- **Catches:** a line that states what the prose just enacted, harvested from
+  the reader corpus (cold reads and capture gates) and filtered against
+  settled triage rulings and the complaining lane's capture score.
+- **Instrument:** skill `wals-explain-audit`.
+- **Stale when:** the chapter's reads are re-run.
+
+### Close-third pass
+- **Catches:** narration that explains a beat already shown, announces a line
+  before it is said, recaps, or supplies a motive or verdict from outside the
+  POV character. Everything left should be something the POV character senses,
+  thinks or feels. Finds what no reader said out loud.
+- **Instrument:** skill `wals-close-third`, one chapter at a time by eye.
+  State: `audits/close-third/STATUS.md`; batches in
+  `audits/close-third/<slug>.md`; rulings in each `meta-triage-<slug>.md`.
+- **Needs first:** that chapter's explain-audit and line-editor flags, folded
+  into its batch.
+
+---
+
+## Phase 2 — Sentence craft
+
+### True line edit
+- **Catches:** rhythm, word-level precision, paragraph pacing, pet
+  constructions the linter does not know yet, within-chapter and cross-chapter
+  echoes.
+- **Instrument:** `/wals-line-edit` (state `audits/line-edit/STATUS.md`);
+  `tools/echo_harvest.py` for within-chapter repeats;
+  `meta-plan-echo-triage.md` for returning phrases and gestures across
+  chapters.
+- **Stale when:** the chapter is revised.
+
+### Figure sweep
+- **Catches:** repeated metaphors and similes across the whole book: the same
+  picture returning in different words ("like a missed stair", "the rail on a
+  stair", "climbing the same stair"), one picture applied to different people
+  (the lamp that is Randi's attention and Vee's presence), and different
+  pictures rendering one sensation (the missed stair, the floor going out, the
+  high-board drop). Readers remember a figure; reuse spends it. Word search
+  cannot find these (a figure returns in other words), so extraction is a
+  model reading in context.
+- **Instrument:** skill `wals-figure-sweep`; `tools/figure_harvest.py`
+  (extraction on `claude-sonnet-5-5` and `gpt-6.1-terra`, unioned; local
+  grouping); acceptance set `audits/figures/gold.md`; state
+  `audits/figures/STATUS.md`.
+- **Needs first:** Phase 1 complete for the volume (cuts remove figures).
+  **Gate:** the gold set must pass before any volume run. Re-run the gold
+  chapters first if either model has changed.
+- **Run at pre-publication** (author ruling 2026-10-27), per volume:
+  `extract --volume N` for each model, then `group --through N` so the
+  volume's figures are grouped with every earlier volume's. About 25–35
+  minutes per model per 24 chapters, in parallel on subscription lanes.
+- **Stale when:** a chapter is revised (each record carries its prose sha).
+
+### Reading-effort sweep
+- **Catches:** sentences that charge the reader more than they pay back (one
+  idea split across stacked clauses or a sentence boundary) where a
+  rearrangement carries the same content at lower cost. Scored against this
+  book's own corpus, never an external readability index.
+- **Instrument:** `tools/reading_effort.py` (deterministic; `chain`, `strand`
+  and `suspend` are the classes that matter) **and** a blind model panel,
+  `tools/effort_blind.py`, at least four models. Both are required (author
+  ruling 2026-09-20). Work convergent findings (2+ readers) first; a sentence
+  one reader flags is noise. State and calibration:
+  `audits/reading-effort/STATUS.md`; rulings in `rulings.toml`.
+- **Not a per-edit step** (author ruling 2026-09-20): ~87 findings per
+  chapter, each needing a ruling.
+- **Stale when:** the chapter is revised.
+
+---
+
+## Phase 3 — Verification
+
+Run on the text Phases 1–2 leave.
+
+### Continuity and logic line audit
+- **Catches:** sentence-level continuity and logic errors inside a chapter.
+- **Instrument:** `/wals-line-audit` (state `audits/line-audit/STATUS.md`).
+- **Stale when:** the chapter is revised.
+
+### Cross-chapter fact audit (Lane A)
+- **Catches:** a fact established in one chapter contradicted in another,
+  which the linter, the lore-keeper and a cold reader are each blind to. Worked
+  case: in `the-usual.md` Pace waits for a truck four lines before *her car*
+  finds the drive, and Vee drives a car.
+- **Instrument:** `tools/fact_audit.py` / `/wals-fact-audit`; ledgers per model
+  in `audits/fact-audit/<model>/`; state `audits/fact-audit/STATUS.md`.
+  **Independent ledgers across vendors** (a second vendor is what finds real
+  problems, `b082c4f6`); keep what more than one lands on. **One ledger over
+  the volume and every earlier volume** (cross-volume scope, above), never a
+  ledger of one volume alone: that cannot see the cross-volume contradiction
+  this pass exists to catch. **Dates are out of scope** (the date
+  check below owns them).
+- **Stale when:** any chapter in its scope is revised.
+
+### Date check
+- **Catches:** a date, weekday or interval in the prose that disagrees with the
+  chapter's date. Chapters now print their date at the top, so a "Friday" in
+  the prose under a Sunday heading is visible to every reader.
+- **Instrument, two halves:**
+  - **Headings: built.** `tools/chapter_dates.py` is the sole source of
+    chapter dates; the epub takes its date lines from it, and `--check` runs
+    in pre-commit (weekday against the hidden calendar; multi-day section
+    anchors still present).
+  - **Prose claims: not built** (open question #48). Weekday names,
+    "yesterday", "N days/weeks", "in October", "before Thanksgiving", checked
+    against each chapter's date. Deterministic, built on `chapter_dates.py`,
+    never a second parser. It replaces the 2026-08-03 timeline sweep
+    (`audits/timeline/`), which is keyed to old chapter numbers.
+- **Stale when:** a chapter is revised or its chronology date moves.
+
+### Orphaned-reference sweep (Lane B)
+- **Catches:** text still pointing at something a revision removed. Worked
+  case: a cut passer-by "in a camel coat" whose later callback, "the closed
+  camel-coat project", survived the cut.
+- **Instrument:** `tools/orphan_refs.py`; sweeps and state in
+  `audits/orphan-refs/`. Deterministic and free, so it is also a per-edit step
+  and an advisory pre-commit hook; neither replaces the front-to-back sweep
+  (the hook sees only staged paths).
+- **Needs first:** every cut in Phases 1–2.
+
+### Ruling-anchor check
+- **Catches:** settled rulings (line audit, line edit, triage) whose quoted
+  prose an edit has since changed, so the ruling no longer applies to what is
+  on the page. These go stale silently, unlike linter acks, which re-arm.
+- **Instrument:** `tools/ruling_anchors.py`. Deterministic and free.
+- **Runs:** after each revision round, and as the input to every delta re-run.
+
+---
+
+## Phase 4 — Mechanics
+
+### Copyedit against the style sheet
+- **Catches:** names and spellings, places, hyphenation, numerals, italics
+  conventions, dash and ellipsis rules, capitalization of recurring objects.
+- **Instrument:** `style/style-sheet.md`. Curly quotes are converted at
+  typesetting.
+- **Stale when:** the chapter is revised.
+
+### Style-tic policing
+- **Catches:** the book's known tics and canon breaches, by closed vocabulary.
+- **Instrument:** `na.py style` with `style/style-rules.toml` and
+  `style/style-allow.toml`. A per-edit step; the pre-publication pass is one
+  whole-volume run with every remaining `ASK` hit ruled.
+
+### Flat-interrogative sweep
+- **Catches:** a question closed with a period or comma where a person saying
+  it would voice it as a question, in every register: dialogue, italic
+  interiority, recalled speech (author ruling 2026-09-20). Flat only where the
+  page marks it as not really asked; recalled Cassie stays flat by design.
+- **Instrument:** `na.py style` rule `flat-interrogative` (its live hit list is
+  the state). **Blind spot:** an elliptical question with no interrogative
+  word (*Your folks coming up.*) needs a human eye. The assistant's bias is
+  one-directional (it drops marks), so when in doubt, mark it.
+
+### Age-coded language sweep
+- **Catches:** narration in sex scenes that could suggest a minor to a
+  retailer's screen: "girl" in narration, especially beside words stressing
+  smallness or youth. Prefer her name or "woman" there. **Dialogue is out of
+  scope.** Retailers' sensitivities come from author-community experience, not
+  a published list; Draft2Digital and Apple are stricter than Amazon.
+- **Instrument:** none yet; by eye, per volume. Flag, never fix; an
+  erotica-experienced editor's assessment has the final word. Jacket, title
+  and metadata are covered by the blurb rule in `meta-blurb.md`.
+
+---
+
+## Phase 5 — Reader confirmation
+
+### Capture/retention panel
+- **Measures:** per-chapter capture and survival, almost-stopped moments,
+  trust-ledger drift, Book Two conversion, the comeuppance funnel. Simulated
+  readers generate hypotheses; the human beta round confirms them.
+- **Instrument:** `/wals-capture-read`; `tools/capture_panel.py`,
+  `tools/capture_dag.py`; contract `reviews/capture-panel/SPEC.md`. Personas:
+  romance-graduate, FSoG-refugee, relationship-first; consent-sensitive and
+  line-editor on request.
+- **Re-run:** the gates of any substantively revised chapter
+  (`capture_dag.py --check-stale` lists them; staleness is a warning, never a
+  blocker); a fresh DAG at a volume's draft-complete milestone; before the
+  human beta round.
+
+---
+
+## Phase 6 — Package
+
+### Legal and content read
+- **Catches:** real-institution exposure (Virginia Tech identifiability,
+  professors, campus police), quoted lyrics, brand names.
+- **Instrument:** `meta-plan-legal-read.md` (findings, per volume);
+  `meta-plan-lawyer.md` (counsel). A publication-time tail is scheduled there.
+
+### Front and back matter
+- **Covers:** dedication and acknowledgments; the author bio (copy in
+  `meta-plan-distribution.md` §5, surface 1); the series page pointing at the
+  next volume; the call-to-action / mailing-list page
+  (`meta-plan-free-sample.md`). All are wide-release matter, deliberately
+  absent from the test epub.
+
+### Typesetting
+- **Instrument:** skill `wals-epub` (`tools/build_epub.py`).
+
+### Proofread after typesetting
+- **Catches:** on-device (Books, Kindle) against the built epub: section-rule
+  breaks, italics at chapter boundaries, curly quotes and apostrophes,
+  scene-break rendering, and **the date lines**: each later day's line at the
+  right section break, and chapters without an exact date rendering as
+  intended.
+- **Needs first:** every earlier phase.
+
+---
+
+## Phase 7 — Readers
+
+### Beta / test-reader round
+- **Value at this stage:** affective response, arousal, reader implication,
+  drop-off, target-market fit, social proof. Not line or continuity fixes.
+- **Instrument:** `meta-plan-test-readers.md` (recruit via
+  BookSprout/BookSirens; collect via StoryOrigin Beta Copies; deliver via
+  BookFunnel; confirm each platform's adult-content terms first).
+
+---
+
+## Gaps in the instruments
+
+Not yet built; tracked here so the procedure does not pretend otherwise.
+
+- **Date check, prose half** (open question #48).
+- **Delta re-run tooling:** a skill or `--since <ref>` mode that lists, per
+  verification pass, the chapters changed since it last covered them.
+- **Reading-effort skill:** the tool + panel protocol lives only in prose.
+- **Orphan-sweep walk:** the first sweep's candidates have no walking skill.
+- **Age-coded rule:** a narration-only `na.py style` rule would make this
+  sweep a hit list, as `flat-interrogative` is.
+- **Proofread aid:** epubcheck plus a per-chapter device checklist.

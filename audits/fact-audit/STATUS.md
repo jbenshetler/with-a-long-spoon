@@ -80,3 +80,43 @@ this tracker.
 (default-indexed), not under `audits/`, and the triage docs are what stop a
 settled criticism from being re-litigated by a later pass. Note here only that
 the chapter reached `reviewed` and where the verdicts landed.
+
+## Per-edit checks (moved from the editorial checklist, 2026-10-27)
+
+Limited per-edit checks against an existing ledger. None of them completes the
+whole-book pass.
+
+- **Per-edit check 2026-10-23:** merged *Fed* (former *Toenails* plus *Fed*,
+  both passages verbatim) checked by gpt-5.6-sol against a freshly derived Volume
+  One ledger; no factual contradictions flagged. Rechecked after the subsequent
+  225-word retelling reduction, again with no contradictions flagged. Rechecked
+  after the further 85-word explanation pass: no contradictions flagged. This
+  limited check does not complete the whole-book, cross-volume Lane A pass.
+- **Per-edit check 2026-10-23, Dear diptych:** gpt-5.6-sol checked both merged
+  movements against the existing Volume One ledger; no factual contradictions
+  flagged. Limited per-edit check only.
+- **Per-edit check 2026-10-23, How It’s Done diptych draft:** gpt-5.6-sol
+  checked the merged chapter against the existing Volume One ledger. Final run
+  found no factual contradictions. First-run room flag was already settled in the
+  Turned Up triage. Limited per-edit check only.
+- **Per-edit check 2026-10-23, How It’s Done explanation draft:** gpt-5.6-sol
+  rechecked the 22-word reduction against the existing Volume One ledger; no
+  factual contradictions flagged. Limited per-edit check only.
+- **Per-edit check 2026-10-23, How It’s Done author restoration:**
+  subscription check retained; its two flags compare the old ledger’s chapter
+  18/19 citations with merged chapter 17. They concern approved structural
+  renumbering, not changed events. No prose fix made from them.
+- **Per-edit check 2026-10-23, How It’s Done approved after-explanation
+  cuts:** subscription fact check repeated the already-settled Cassie
+  living-room/sun-porch shorthand; no new issue from the cuts. Limited per-edit
+  check only.
+- **Per-edit check 2026-10-23, Gone workshop restoration:** gpt-5.6-sol checked
+  the restored bedroom sequence/new kitchen aftermath against the existing Volume
+  One ledger. Three flags compare older scene numbers with the current merged
+  chronology (Sorority before Gone); no new factual conflict identified by
+  continuity review. Raw report retained; no automatic prose fixes. Workshop
+  draft pending author review, limited per-edit check only.
+- **Per-edit check 2026-10-23, Gone conference revision:** gpt-5.6-sol checked
+  the replacement of the proof discussion with the prior Chicago presentation.
+  Only flag compares old ledger chapter 25 with current chapter 23; no new
+  factual conflict flagged. Limited per-edit check only.

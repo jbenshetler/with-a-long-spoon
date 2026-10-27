@@ -165,7 +165,7 @@ Sort every open item into one phase, and mark **what it blocks**, not just that
 it's open. An item is only a *blocker* for a phase if that phase cannot start
 without it.
 
-1. **Manuscript** — drafted, per-scene reviewed, six editorial passes (developmental, continuity/logic audit, style-tic, true line edit, copyedit, timeline sweep).
+1. **Manuscript** — drafted, per-scene reviewed, and the editorial passes of `meta-plan-editorial-checklist.md` Phases 0–5, in that order (structure, cutting, sentence craft, verification, mechanics, reader confirmation). Read the pass list from the checklist rather than restating it here; it grew from six manuscript passes to eighteen between August and October. A pass marked complete is `STALE` for every chapter revised after it ran; the checklist's "Stale when" lines say which edits count. **Report per volume:** each volume has its own status doc (`meta-plan-editorial-status-vol<N>.md`) and moves through the phases on its own; a volume with no status doc has not entered pre-publication. Cross-volume passes (fact audit, figure sweep, date check, orphans) for volume N include every earlier volume.
 2. **Packaging** — cover, jacket/blurb copy, epub assembly, typeset proofread.
 3. **Legal & platform risk** — content read, ask-the-lawyer rows, platform ToS posture.
 4. **Beta / test-reader round** — pen-name infra, platform accounts, screener, delivery, synthesis structure.

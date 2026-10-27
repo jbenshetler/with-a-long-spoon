@@ -68,8 +68,20 @@ tools/figure_harvest.py score
 lines should be at least 90%, no LITERAL line should come back as a figure,
 and each gold group should share one family (`ok`, not `SPLIT`). If it falls
 short, fix the prompts or the grouping and re-run the gold chapters with
-`--fresh`. Never edit the gold set to pass. Then run `extract` on both
-models with no `--gold`, then `group` and `report`.
+`--fresh`. Never edit the gold set to pass.
+
+**Then run it per volume** (the sweep has cross-volume scope,
+`meta-plan-editorial-checklist.md`, Volumes): extract the volume's chapters on
+both models, then group and report **through** that volume, so its figures are
+grouped with every earlier volume's. A repeat of a figure from a published
+volume is fixed in the later volume.
+
+```
+tools/figure_harvest.py extract --model claude-sonnet-5-5 --volume 2
+tools/figure_harvest.py extract --model gpt-6.1-terra --volume 2
+tools/figure_harvest.py group --through 2
+tools/figure_harvest.py report --through 2
+```
 
 How it groups (step 2, deterministic):
 - **Pictures** come from each figure's vehicle nouns, lemmatized and merged

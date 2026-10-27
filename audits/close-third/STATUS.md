@@ -1,4 +1,4 @@
-# Close-third pass status — Volume One
+# Close-third pass status — all volumes
 
 Progress log for `/wals-close-third` (explain-after-showing, narrator
 interpretation, close-third slippage). One row per drafted chapter, epub order
@@ -14,6 +14,11 @@ interpretation, close-third slippage). One row per drafted chapter, epub order
 Restart: finish the first `proposed` chapter with the author, else read the
 first `pending` one. Chapter numbers follow the chronology; if chapters merge or
 move, renumber the rows from `tools/chapter_dates.py` and keep the states.
+Work volume by volume (`meta-plan-editorial-checklist.md`, Volumes): Volumes 1
+and 2 are in pre-publication cleanup; Volume 3 enters when its drafting is
+complete.
+
+### Volume 1 — *A Polite Invitation* (22 chapters)
 
  1. the-bench — pending
  2. standards — pending
@@ -37,6 +42,9 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 20. sorority — reviewed 2026-10-27 (3 proposed: 3 applied; 2 questions: both left; 6 borderline: 2 cut, 4 kept; `5f4b13e1`)
 21. gone — reviewed 2026-10-27 (1 proposed: 1 applied — :67 cut; 1 question: left; 2 borderline: both kept; `7d87cc5a`)
 22. rock — reviewed 2026-10-27 (6 proposed: 6 applied; 1 question: left; 6 borderline: 3 cut (:211, :265, :91 second clause), 3 kept; 2 trims applied; `66aaaec5`)
+
+### Volume 2 — *A Warm Reception* (25 chapters)
+
 23. lesson — pending
 24. broken-in — pending
 25. space — pending
@@ -62,6 +70,9 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 45. the-usual — pending
 46. my-friend-randi — pending
 47. nothing-underneath — pending
+
+### Volume 3 — *A Proper Serving* (24 chapters)
+
 48. missed-a-spot — pending
 49. back — pending
 50. unpacking — pending
@@ -86,4 +97,7 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 69. postcard — pending
 70. in-her-place — pending
 71. vee-on-the-bench — pending
+
+### Volume 4 — *A Hot Meal* (1 chapter)
+
 72. ignition-scalding — pending

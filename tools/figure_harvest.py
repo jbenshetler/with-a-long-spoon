@@ -57,8 +57,9 @@ Usage:
     tools/figure_harvest.py extract --model claude-sonnet-5-5 --gold
     tools/figure_harvest.py group                                         # union of both
     tools/figure_harvest.py score
-    tools/figure_harvest.py extract --model gpt-6.1-terra                 # whole book
-    tools/figure_harvest.py report
+    tools/figure_harvest.py extract --model gpt-6.1-terra --volume 2      # one volume
+    tools/figure_harvest.py group --through 2                             # volumes 1-2
+    tools/figure_harvest.py report --through 2
 """
 from __future__ import annotations
 
@@ -259,7 +260,10 @@ def extract_chapter(agent_fn, model: str, slug: str) -> dict:
 
 
 def cmd_extract(args) -> None:
-    targets = args.slugs or (gold_slugs() if args.gold else drafted_slugs())
+    if args.volume:
+        targets = volume_scenes.volume_slugs(args.volume, drafted_only=True)
+    else:
+        targets = args.slugs or (gold_slugs() if args.gold else drafted_slugs())
     unknown = [s for s in targets if not (REPO / "scenes" / f"{s}.md").exists()]
     if unknown:
         raise SystemExit(f"no such scene: {', '.join(unknown)}")
@@ -326,8 +330,18 @@ def all_figures(model_id: str) -> list[dict]:
     return out
 
 
-def union_dir(models: list[str]) -> Path:
-    return ROOT / "+".join(m.replace("/", "--") for m in models)
+def union_dir(models: list[str], through: int | None = None) -> Path:
+    name = "+".join(m.replace("/", "--") for m in models)
+    return ROOT / (f"{name}--through-vol{through}" if through else name)
+
+
+def through_slugs(through: int | None) -> set[str] | None:
+    """Chapters of volumes 1..N: a cross-volume pass checks volume N against
+    itself and every earlier volume (meta-plan-editorial-checklist.md)."""
+    if not through:
+        return None
+    return {s for o in volume_scenes.volume_ordinals() if o <= through
+            for s in volume_scenes.volume_slugs(o, drafted_only=True)}
 
 
 STOP = set("""a an the and or but of to in on at by for from with as like than
@@ -463,6 +477,14 @@ def vehicle_families(lems: list[str], weight: dict[str, int]) -> dict[str, str]:
 
 def cmd_group(args) -> None:
     figs = load_union(args.models)
+    keep = through_slugs(args.through)
+    if keep is not None:
+        figs = [f for f in figs if f["slug"] in keep]
+        unread = sorted(keep - {f["slug"] for f in figs})
+        if unread:
+            print(f"[group] warning: {len(unread)} chapter(s) of volumes 1-{args.through} "
+                  f"have no figures yet: {', '.join(unread[:8])}"
+                  + (" …" if len(unread) > 8 else ""), file=sys.stderr)
     if not figs:
         raise SystemExit("no extracted figures; run extract first")
     missing = [f for f in figs if "sensation" not in f]
@@ -486,7 +508,7 @@ def cmd_group(args) -> None:
         qlem = {t.lemma_.lower() for t in nlp()(f["quote"])}
         f["grounded_families"] = sorted({fam[l] for l in f["lemmas"]
                                          if l in qlem or l in q})
-    d = union_dir(args.models)
+    d = union_dir(args.models, args.through)
     d.mkdir(parents=True, exist_ok=True)
     (d / "groups.json").write_text(json.dumps(
         {"models": args.models, "date": date.today().isoformat(),
@@ -519,15 +541,15 @@ def person(applies_to: str) -> str:
     return w if w[:1].isupper() and w.lower() not in ("the", "a", "her", "his") else applies_to
 
 
-def load_groups(models: list[str]) -> dict:
-    p = union_dir(models) / "groups.json"
+def load_groups(models: list[str], through: int | None = None) -> dict:
+    p = union_dir(models, through) / "groups.json"
     if not p.exists():
         raise SystemExit(f"no {p}; run group first")
     return json.loads(p.read_text(encoding="utf-8"))
 
 
 def cmd_report(args) -> None:
-    g = load_groups(args.models)
+    g = load_groups(args.models, args.through)
     order = {s: i for i, s in enumerate(drafted_slugs())}
     designed = designed_families()
     corpus, fam = g["corpus"], g["families"]
@@ -561,7 +583,8 @@ def cmd_report(args) -> None:
     rows.sort(key=lambda r: (r[0] in designed, section[r[0].split(":", 1)[0]],
                              r[0].startswith("picture:") and r[4] < RARITY_FLOOR,
                              -len(r[2]), -len(r[3]), -len(r[1])))
-    out = [f"# Figure sweep — {' + '.join(args.models)}\n",
+    scope = f" · volumes 1–{args.through}" if args.through else " · all drafted chapters"
+    out = [f"# Figure sweep — {' + '.join(args.models)}{scope}\n",
            f"*{date.today().isoformat()} · families in 2+ chapters · picture families "
            f"on the page first (picture), then shared sensations, then pictures the "
            "models inferred but the prose never names (inferred); within each, most "
@@ -586,7 +609,7 @@ def cmd_report(args) -> None:
             by = "" if len(f["found_by"]) > 1 else f" [{f['found_by'][0]} only]"
             out.append(f"- `{f['slug']}.md:{f['line']}` · {f['applies_to'] or '?'} · "
                        f"\"{f['quote']}\" — *{f['picture']}* / {f['sensation']}{flag}{by}")
-    p = union_dir(args.models) / "report.md"
+    p = union_dir(args.models, args.through) / "report.md"
     p.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"[report] {len(rows)} families · {p}", file=sys.stderr)
 
@@ -622,7 +645,7 @@ def match(figs: list[dict], slug: str, line: int, quote: str) -> dict | None:
 
 
 def cmd_score(args) -> None:
-    gpath = union_dir(args.models) / "groups.json"
+    gpath = union_dir(args.models, args.through) / "groups.json"
     grouped_ok = gpath.exists()
     figs = (json.loads(gpath.read_text())["figures"] if grouped_ok
             else [f for m in args.models for f in all_figures(m)])
@@ -677,12 +700,15 @@ def main() -> None:
     p.add_argument("--effort", default="medium")
     p.add_argument("--slugs", nargs="*")
     p.add_argument("--gold", action="store_true", help="only chapters in gold.md")
+    p.add_argument("--volume", type=int, help="every drafted chapter of this volume")
     p.add_argument("--fresh", action="store_true", help="redo existing chapters")
     p.add_argument("--jobs", type=int, default=4)
     for name in ("group", "report", "score"):
         q = sub.add_parser(name)
         q.add_argument("--models", nargs="+", default=list(DEFAULT_MODELS),
                        help="model result dirs to union")
+        q.add_argument("--through", type=int, default=None,
+                       help="only volumes 1..N (a volume's sweep includes every earlier one)")
     args = ap.parse_args()
     if args.cmd == "extract":
         args.model_id = args.model_id or args.model
