@@ -293,3 +293,16 @@ After “So soon?” the line now ends with Pace using his grip on her ass to br
 ### Author ruling — aftermath trims and Randi's hair (2026-10-24)
 
 Cut “Fifteen minutes, perhaps.” (a clock measure in a scene of feeling; the two songs already carry the time). “Are you hungry?” → “You're hungry?” Undershirt beat: she frees her hair from the neck and it falls to the tops of her shoulder blades; the shirt gets its own subject (“The shirt came to the middle of her thighs”). Randi's hair is longer than Vee's (Vee's curl shortens hers); book-wide reconciliation is open as `meta-todo-open-questions.md` #51.
+
+
+## Explain-after-show pass — 2026-10-27
+
+Close-third pass (`audits/close-third/gone.md`). Very light: the October workshop had already taken most of the narrator out.
+
+**Cut.** `:67` "He wasn't looking at anything; he was seeing it." This described Pace from outside while he talked, in an x-not-y shape. The speech now runs as one. The speech carries the picture, and `:69` still has him register Randi's stillness, which matches the craft rule that he catches every signal and assembles none. No reader praise.
+
+**Left standing — do not re-litigate.**
+- `:9` "Whatever she ran on out in the world, she set it down at his door." This is his reading of her, and a wrong one, so it is dramatic irony.
+- `:79` "and there was nothing quiet left in either of them now". Also his. He feels her urgency through his own body, and the clause is the only place his urgency returns after `:9`'s "the urgency had gone out of him". One capture gate (claude-opus-5-5, romance-graduate) called it "a bit of a gloss", as part of a general complaint that the ride is summary. Not decisive.
+- `:100` "He could do this without leaving her to wait long." His practical thought; gift-logic.
+- `:69` "the kind that takes holding" remains protected. The claude-opus-5-5 romance-graduate gate ("which I didn't need, but fine") is one reader against the earlier wave's four.

@@ -64,7 +64,7 @@ It went through him low. Her breasts were small and firm, the tight points of he
 
 "Tell me."
 
-"She comes in and the whole thing goes brighter. Like somebody found the lamp." He wasn't looking at anything; he was seeing it. "And she has no idea she does it. She spends the entire time sure she's too much, and she's the most alive person standing there, and it never once occurs to her."
+"She comes in and the whole thing goes brighter. Like somebody found the lamp. And she has no idea she does it. She spends the entire time sure she's too much, and she's the most alive person standing there, and it never once occurs to her."
 
 Randi went still on him. Not the loose stillness of after. A different one, the kind that takes holding. Then something gathered under it, the faintest tightening of her against him.
 
