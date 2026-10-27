@@ -226,11 +226,14 @@ Rulings only; the readings behind them are in `meta-triage-the-bench.md` (same d
   not anticipate what came next") to effect ("until she stopped being able to tell
   which was coming") per `meta-craft-pace.md` Console rule 21. The "locked" note
   above no longer applies.
-- **Kitchen: the three pricing paragraphs cut** (counters she disliked, the wood
-  "whose price tag she cannot read", "raised to register cost by appearance") and
-  **one paragraph restored** in their place: small kitchen in a small house, the
-  laminate with the shine gone, her eyes going over the counters and saying
-  nothing, what is good in the room being what he built. **He has attention, not
+- **Kitchen (blended 2026-10-04, revised 2026-10-27):** the furniture inventory
+  and "raised to register cost by appearance" cut. Kept: a *working* kitchen in a
+  small house (set up for purpose — never minimized as "small"), the laminate plain
+  and cheap with the shine gone, which she clocks every visit and never mentions
+  (rhymes with {{Fairytale}}'s "the house would clock him"), and the wood "whose
+  price tag she cannot read" + "He had told her… She had not really heard it." The
+  price tag is *her* misreading of what he made, not a wealth signal — the mirror of
+  {{Two Towels}}, where Vee touches the joint and asks. **He has attention, not
   wealth; he must never read as rich.** The warmth clause at the top ("because he
   liked being able to take his time without thinking about whether someone else
   was cold") cut; the too-warm house stays as motif, its reason arrives in
