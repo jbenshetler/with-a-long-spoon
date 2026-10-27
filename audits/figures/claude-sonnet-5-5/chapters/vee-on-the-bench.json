@@ -1,0 +1,7803 @@
+{
+ "slug": "vee-on-the-bench",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "054e7c495ac6",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "vee-on-the-bench",
+   "line": 9,
+   "verified": true,
+   "quote": "her whole body already leaning toward the weekend the way a plant leans at a window",
+   "picture": "plant at window",
+   "feeling": "yearning toward the weekend",
+   "vehicles": [
+    "plant",
+    "window"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 9,
+   "verified": true,
+   "quote": "The not-knowing was its own engine.",
+   "picture": "an engine",
+   "feeling": "not-knowing drives desire",
+   "vehicles": [
+    "engine"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the not-knowing",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 9,
+   "verified": true,
+   "quote": "the wanting had a weight she carried between classes like a stone warmed in a pocket",
+   "picture": "warm stone in pocket",
+   "feeling": "carried warm desire",
+   "vehicles": [
+    "stone",
+    "pocket"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the wanting",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 9,
+   "verified": true,
+   "quote": "it had got into her sleep",
+   "picture": "something seeping in",
+   "feeling": "desire invading sleep",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "the wanting",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 11,
+   "verified": true,
+   "quote": "So the rule had her.",
+   "picture": "being seized",
+   "feeling": "trapped by the rule",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 11,
+   "verified": true,
+   "quote": "her body already gone on ahead of her",
+   "picture": "traveler ahead",
+   "feeling": "body outpacing her will",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 11,
+   "verified": true,
+   "quote": "cost more than the ache did. So she paid the ache instead.",
+   "picture": "paying a price",
+   "feeling": "embarrassment outweighs ache",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 11,
+   "verified": true,
+   "quote": "to put into his hands, in words",
+   "picture": "handing over",
+   "feeling": "surrendering knowledge",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 13,
+   "verified": true,
+   "quote": "the one toll she could not pay",
+   "picture": "toll",
+   "feeling": "cost of telling",
+   "vehicles": [
+    "toll"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 13,
+   "verified": true,
+   "quote": "It was hers for the telling.",
+   "picture": "currency",
+   "feeling": "relief available",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "relief",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 19,
+   "verified": true,
+   "quote": "she was so wound that the wondering leaked anyway",
+   "picture": "wound spring, leak",
+   "feeling": "tightly strung anticipation",
+   "vehicles": [
+    "spring",
+    "liquid"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 19,
+   "verified": true,
+   "quote": "did more to her across two days than most men had managed with their hands",
+   "picture": "acting on her",
+   "feeling": "arousal from words",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the text message",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 21,
+   "verified": true,
+   "quote": "had carried for weeks the way you carry a sentence someone said to you once",
+   "picture": "carrying a burden/gift",
+   "feeling": "holding a remembered phrase",
+   "vehicles": [
+    "sentence"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 21,
+   "verified": true,
+   "quote": "beauty made for the gods and only loaned out",
+   "picture": "loaned object",
+   "feeling": "beauty as borrowed",
+   "vehicles": [
+    "god"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 21,
+   "verified": true,
+   "quote": "These put her over him.",
+   "picture": "height as dominance",
+   "feeling": "being above him",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the heels",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 21,
+   "verified": true,
+   "quote": "she gave him the heels",
+   "picture": "gift",
+   "feeling": "offering",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 23,
+   "verified": true,
+   "quote": "The house met her with its warmth.",
+   "picture": "house greeting",
+   "feeling": "welcome",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the house",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 23,
+   "verified": true,
+   "quote": "his whole body cocked forward toward her",
+   "picture": "leaning toward",
+   "feeling": "eager welcome",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 23,
+   "verified": true,
+   "quote": "a thing kept ready for her",
+   "picture": "kept object",
+   "feeling": "being prepared for",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "the warmth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 25,
+   "verified": true,
+   "quote": "the heat was already up in her face and lower than her face",
+   "picture": "rising heat",
+   "feeling": "arousal and blush",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 25,
+   "verified": true,
+   "quote": "felt the week coming off her",
+   "picture": "radiating off",
+   "feeling": "week's want radiating",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 25,
+   "verified": true,
+   "quote": "a week behind it",
+   "picture": "stored weight behind",
+   "feeling": "week of want pushing",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 25,
+   "verified": true,
+   "quote": "he let her run it as long as she wanted",
+   "picture": "running a machine",
+   "feeling": "her control",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 27,
+   "verified": true,
+   "quote": "The noticing of it moved through her chest the way his small attentions always did, landing somewhere just under her heart.",
+   "picture": "something landing",
+   "feeling": "touched by attention",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 27,
+   "verified": true,
+   "quote": "the kind a person had to actually want to put out",
+   "picture": "effort offering",
+   "feeling": "effortful care",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the grapes",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 29,
+   "verified": true,
+   "quote": "the whole week coming out of her",
+   "picture": "pouring out",
+   "feeling": "unburdening",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 31,
+   "verified": true,
+   "quote": "as though there were nothing in the world he would rather hear",
+   "picture": "hyperbole",
+   "feeling": "total attention",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 31,
+   "verified": true,
+   "quote": "her small daily weather",
+   "picture": "weather",
+   "feeling": "daily moods",
+   "vehicles": [
+    "weather"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's life",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 31,
+   "verified": true,
+   "quote": "the part that warmed her better than the room did",
+   "picture": "warming",
+   "feeling": "being valued",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 31,
+   "verified": true,
+   "quote": "it was not a trick of manner",
+   "picture": "conjuring trick",
+   "feeling": "sincerity",
+   "vehicles": [
+    "trick"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 31,
+   "verified": true,
+   "quote": "She talked herself out slowly, the week unwinding off her",
+   "picture": "unwinding thread",
+   "feeling": "tension released",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 33,
+   "verified": true,
+   "quote": "An offering, and a challenge.",
+   "picture": "offering",
+   "feeling": "gift with dare",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the box",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 33,
+   "verified": true,
+   "quote": "When she had wound down",
+   "picture": "winding down clock",
+   "feeling": "running out of talk",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 39,
+   "verified": true,
+   "quote": "the way they had when she was small",
+   "picture": "childhood",
+   "feeling": "childlike glee",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 39,
+   "verified": true,
+   "quote": "saw something move behind his face",
+   "picture": "moving behind a surface",
+   "feeling": "hidden emotion",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 41,
+   "verified": true,
+   "quote": "it ran over her fingers cool and liquid",
+   "picture": "liquid",
+   "feeling": "fluid smoothness",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the satin",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 41,
+   "verified": true,
+   "quote": "the color of a clay pot left out in the sun",
+   "picture": "sunbaked clay pot",
+   "feeling": "warm orange hue",
+   "vehicles": [
+    "pot",
+    "clay",
+    "sun"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the tap pants",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 41,
+   "verified": true,
+   "quote": "She knew it the way she knew her own face.",
+   "picture": "own face",
+   "feeling": "intimate recognition",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 41,
+   "verified": true,
+   "quote": "she had always belonged in it",
+   "picture": "belonging in a place",
+   "feeling": "fit",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 49,
+   "verified": true,
+   "quote": "the week would not let her not",
+   "picture": "week as agent",
+   "feeling": "compulsion",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the week",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 49,
+   "verified": true,
+   "quote": "the kiss started warm and stopped being warm",
+   "picture": "warmth turning to heat",
+   "feeling": "kiss turning hot",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 49,
+   "verified": true,
+   "quote": "before it could become the thing it was already trying to become",
+   "picture": "kiss as striving creature",
+   "feeling": "escalation",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 55,
+   "verified": true,
+   "quote": "the cool air found her",
+   "picture": "seeking",
+   "feeling": "exposure",
+   "vehicles": [
+    "air"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 55,
+   "verified": true,
+   "quote": "the chill of the floor coming up through her arches",
+   "picture": "rising chill",
+   "feeling": "cold",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 57,
+   "verified": true,
+   "quote": "her stomach dropped the way it always dropped",
+   "picture": "falling",
+   "feeling": "sinking dread",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 57,
+   "verified": true,
+   "quote": "the fabric having gone over from cloth to something else",
+   "picture": "transformation",
+   "feeling": "soaked",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "the panties",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 61,
+   "verified": true,
+   "quote": "her body had already laid out its evidence",
+   "picture": "courtroom evidence",
+   "feeling": "body betraying",
+   "vehicles": [
+    "evidence"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 61,
+   "verified": true,
+   "quote": "managing out of existence",
+   "picture": "managing away",
+   "feeling": "suppression",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 61,
+   "verified": true,
+   "quote": "the lit doorway of the evening ahead of her",
+   "picture": "doorway",
+   "feeling": "evening ahead",
+   "vehicles": [
+    "doorway"
+   ],
+   "sensation": "opening",
+   "applies_to": "the evening",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 63,
+   "verified": true,
+   "quote": "pressing the dry towel to herself the way you press a thing to make it keep",
+   "picture": "pressing to preserve",
+   "feeling": "futile containment",
+   "vehicles": [
+    "towel"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 63,
+   "verified": true,
+   "quote": "the small practical dread that ran under everything",
+   "picture": "undercurrent",
+   "feeling": "constant dread",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 63,
+   "verified": true,
+   "quote": "Satin had no give in it for hiding.",
+   "picture": "fabric lacking give",
+   "feeling": "no concealment",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "the satin",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 63,
+   "verified": true,
+   "quote": "would tell on her",
+   "picture": "informant",
+   "feeling": "betrayal by fabric",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the satin",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 65,
+   "verified": true,
+   "quote": "the satin was cool for a moment and then was not",
+   "picture": "warming",
+   "feeling": "warming",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the satin",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 65,
+   "verified": true,
+   "quote": "something the color of her own skin",
+   "picture": "skin",
+   "feeling": "matched color",
+   "vehicles": [
+    "skin"
+   ],
+   "sensation": "none",
+   "applies_to": "the tap pants",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 71,
+   "verified": true,
+   "quote": "the not-knowing went down her spine cool and bright and pooled low",
+   "picture": "liquid pooling",
+   "feeling": "thrilled anticipation",
+   "vehicles": [
+    "spine",
+    "pool"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the not-knowing",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 71,
+   "verified": true,
+   "quote": "the no-hurry climbed into her and made her need worse",
+   "picture": "climbing",
+   "feeling": "slowness stoking need",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 73,
+   "verified": true,
+   "quote": "the thought let go of her and floated off",
+   "picture": "floating away",
+   "feeling": "thought dissipating",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "the thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 73,
+   "verified": true,
+   "quote": "It snagged at her",
+   "picture": "snag",
+   "feeling": "nagging oddness",
+   "vehicles": [
+    "snag"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the table",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 75,
+   "verified": true,
+   "quote": "as if she were already enough to stop on",
+   "picture": "stopping place",
+   "feeling": "being sufficient",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 75,
+   "verified": true,
+   "quote": "the way you unwrap a thing you mean to take your time with",
+   "picture": "unwrapping gift",
+   "feeling": "savoring",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 75,
+   "verified": true,
+   "quote": "her breasts came free",
+   "picture": "freed",
+   "feeling": "release",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 75,
+   "verified": true,
+   "quote": "He undressed her the way she had stopped being surprised by and had not stopped being undone by.",
+   "picture": "unraveling",
+   "feeling": "undone by tenderness",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 77,
+   "verified": true,
+   "quote": "the appraising hunger that takes the curves and forgets the woman carrying them",
+   "picture": "hunger",
+   "feeling": "objectifying desire",
+   "vehicles": [
+    "hunger"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "other men",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 77,
+   "verified": true,
+   "quote": "a thing in the way",
+   "picture": "obstacle",
+   "feeling": "body as obstacle",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 77,
+   "verified": true,
+   "quote": "she did not yet know how to stand inside it",
+   "picture": "standing inside a space",
+   "feeling": "unaccustomed to being wanted",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 79,
+   "verified": true,
+   "quote": "the looking wound her tighter, not looser",
+   "picture": "winding spring",
+   "feeling": "rising tension",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 79,
+   "verified": true,
+   "quote": "the other current running",
+   "picture": "electric/water current",
+   "feeling": "undercurrent of intent",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 79,
+   "verified": true,
+   "quote": "her body had begun, without her, to get ready for it",
+   "picture": "body as separate agent",
+   "feeling": "body acting independently",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 81,
+   "verified": true,
+   "quote": "with no more weight or campaign behind it than if he had told her water was wet",
+   "picture": "campaign; weight",
+   "feeling": "plain statement",
+   "vehicles": [
+    "campaign",
+    "water"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 81,
+   "verified": true,
+   "quote": "got past the place where she usually kept such words from getting",
+   "picture": "gate/defense",
+   "feeling": "breaching defenses",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Pace's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 81,
+   "verified": true,
+   "quote": "bat it away",
+   "picture": "batting",
+   "feeling": "deflecting praise",
+   "vehicles": [
+    "bat"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 81,
+   "verified": true,
+   "quote": "no clock, no end she could see coming",
+   "picture": "clock",
+   "feeling": "timelessness",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the slowness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 81,
+   "verified": true,
+   "quote": "her own climbing need",
+   "picture": "climbing",
+   "feeling": "rising need",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 85,
+   "verified": true,
+   "quote": "her skin alight everywhere his hands had been",
+   "picture": "lit up",
+   "feeling": "tingling skin",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 85,
+   "verified": true,
+   "quote": "she felt the pull of it low in her",
+   "picture": "pull",
+   "feeling": "desire",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 85,
+   "verified": true,
+   "quote": "all that strength in them that he was forever reining down",
+   "picture": "reining a horse",
+   "feeling": "restraint of strength",
+   "vehicles": [
+    "rein"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 85,
+   "verified": true,
+   "quote": "where the table had been was the rest of it",
+   "picture": "unveiling",
+   "feeling": "reveal",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "the device",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 87,
+   "verified": true,
+   "quote": "her eye took in and set aside",
+   "picture": "handling objects",
+   "feeling": "avoidance",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 87,
+   "verified": true,
+   "quote": "she noticed the gap and slid past it",
+   "picture": "sliding past",
+   "feeling": "evading",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 89,
+   "verified": true,
+   "quote": "her body understood it half a second before she did",
+   "picture": "body knowing",
+   "feeling": "bodily knowing",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 89,
+   "verified": true,
+   "quote": "the cool bright thing went down her spine again and this time did not stop at the bottom",
+   "picture": "liquid down spine",
+   "feeling": "thrill",
+   "vehicles": [
+    "spine"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 95,
+   "verified": true,
+   "quote": "the one awkward thing in a house of graceful ones",
+   "picture": "awkward",
+   "feeling": "misfit",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the device",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 97,
+   "verified": true,
+   "quote": "the truth of it went up her face hot",
+   "picture": "rising heat",
+   "feeling": "blush",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 97,
+   "verified": true,
+   "quote": "the misdirection had been true the whole time",
+   "picture": "stage magic",
+   "feeling": "deception",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 99,
+   "verified": true,
+   "quote": "ground-level, hers",
+   "picture": "ground",
+   "feeling": "grounded self",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 103,
+   "verified": true,
+   "quote": "a change in the air at her back",
+   "picture": "air shifting",
+   "feeling": "presence behind",
+   "vehicles": [
+    "air"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 107,
+   "verified": true,
+   "quote": "she felt some of the dread let go of her",
+   "picture": "releasing grip",
+   "feeling": "relief",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 111,
+   "verified": true,
+   "quote": "as if the places had been made to her measure",
+   "picture": "tailored fit",
+   "feeling": "perfect fit",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 113,
+   "verified": true,
+   "quote": "her breasts swung forward into nothing",
+   "picture": "hanging in void",
+   "feeling": "exposed",
+   "vehicles": [
+    "nothing"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "a kind of falling that did not finish",
+   "picture": "endless fall",
+   "feeling": "unfinished falling",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "an emptiness exactly where there should have been something",
+   "picture": "emptiness",
+   "feeling": "absence",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "It had been waiting for this.",
+   "picture": "gap as waiting",
+   "feeling": "inevitability",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the gap",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "the blood already in her cheeks ahead of her",
+   "picture": "racing ahead",
+   "feeling": "blush",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "her face went hot",
+   "picture": "heat",
+   "feeling": "embarrassment",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "her body registered it as a kind of falling that did not finish",
+   "picture": "an unfinished fall",
+   "feeling": "suspended exposure, unanchored",
+   "vehicles": [
+    "fall"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "the gap she had slid past with her eyes",
+   "picture": "sliding past an opening",
+   "feeling": "avoiding a thought",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the gap",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "It had been left open to exactly the size of the part of her she would not look at in mirrors",
+   "picture": "a made-to-measure opening",
+   "feeling": "shame fitted to body",
+   "vehicles": [
+    "mirror"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the gap",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "her body had filled it the instant he laid her down",
+   "picture": "filling a space",
+   "feeling": "body fitting exposure",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 115,
+   "verified": true,
+   "quote": "her face went hot against the warming leather",
+   "picture": "heat of blushing",
+   "feeling": "embarrassment",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 117,
+   "verified": true,
+   "quote": "her grip was the restraint",
+   "picture": "grip as bond",
+   "feeling": "self-binding",
+   "vehicles": [
+    "restraint"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 117,
+   "verified": true,
+   "quote": "the truth of it traveled up her own arms",
+   "picture": "traveling",
+   "feeling": "realization spreading",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 117,
+   "verified": true,
+   "quote": "the part of her that watched her own life with her mother's eyes leaned in close and clipped its judgment",
+   "picture": "watchful person",
+   "feeling": "inner critic",
+   "vehicles": [
+    "eye",
+    "mother"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 117,
+   "verified": true,
+   "quote": "his fingers circling them",
+   "picture": "circling",
+   "feeling": "encircling grip",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 117,
+   "verified": true,
+   "quote": "she shut her face harder against the leather to get away from it",
+   "picture": "shutting a door",
+   "feeling": "hiding",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 121,
+   "verified": true,
+   "quote": "It came out small.",
+   "picture": "small object",
+   "feeling": "timid voice",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "the offer just set down beside her where she could reach it",
+   "picture": "an object set down",
+   "feeling": "offer left available",
+   "vehicles": [
+    "offer"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the safeword",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "get there before the spell broke",
+   "picture": "a breaking spell",
+   "feeling": "fragile mood",
+   "vehicles": [
+    "spell"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "previous men",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "a body could be a thing rushed through",
+   "picture": "a thing hurried through",
+   "feeling": "being treated as an obstacle",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "He had all the time there was and he was spending it on the curve of her hip",
+   "picture": "spending money",
+   "feeling": "lavish unhurried attention",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "the unhurriedness undid something in her",
+   "picture": "undoing a knot",
+   "feeling": "release of defense",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 127,
+   "verified": true,
+   "quote": "left her nothing to brace against, no clock to wait out",
+   "picture": "bracing; a clock",
+   "feeling": "no resistance possible",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "His palms went roaming",
+   "picture": "wandering traveler",
+   "feeling": "unhurried exploring",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "her skin woke and quieted, woke and quieted",
+   "picture": "waking sleeper",
+   "feeling": "skin rousing",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "the watching part of her began to loosen its grip",
+   "picture": "a hand loosening",
+   "feeling": "self-surveillance easing",
+   "vehicles": [
+    "grip"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "the wing of her shoulder",
+   "picture": "a wing",
+   "feeling": "shape of shoulder",
+   "vehicles": [
+    "wing"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "kissed the shell of it",
+   "picture": "a seashell",
+   "feeling": "ear's curve",
+   "vehicles": [
+    "shell"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's ear",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "like a man who could not believe his luck",
+   "picture": "lucky man",
+   "feeling": "wonder at her body",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "went down into it, down under the surface where it was quiet",
+   "picture": "deep water",
+   "feeling": "sinking into sensation",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "the slow weight of being tended",
+   "picture": "a weight",
+   "feeling": "being cared for",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 129,
+   "verified": true,
+   "quote": "small warm kisses she felt travel the whole length of her",
+   "picture": "travel",
+   "feeling": "sensation spreading",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "kisses",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 131,
+   "verified": true,
+   "quote": "he said it the way a man says a thing he has just discovered to be true",
+   "picture": "a man discovering",
+   "feeling": "sincerity",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 131,
+   "verified": true,
+   "quote": "the warmth of his words pooled where his hand was",
+   "picture": "liquid pooling",
+   "feeling": "warmth gathering",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "his words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 133,
+   "verified": true,
+   "quote": "the not-going-near was its own slow torment",
+   "picture": "torture",
+   "feeling": "teasing frustration",
+   "vehicles": [
+    "torment"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 133,
+   "verified": true,
+   "quote": "the moment the air first found them",
+   "picture": "air finding",
+   "feeling": "exposure",
+   "vehicles": [
+    "air"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "nipples",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 133,
+   "verified": true,
+   "quote": "sunk down under the surface where there were no words",
+   "picture": "deep water",
+   "feeling": "wordless absorption",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 137,
+   "verified": true,
+   "quote": "It went through her like a hand laid flat on a bruise.",
+   "picture": "pressed bruise",
+   "feeling": "sore exposure",
+   "vehicles": [
+    "hand",
+    "bruise"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "his words",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 137,
+   "verified": true,
+   "quote": "The naming dragged her up out of the warm quiet into her own head, where her mother kept watch.",
+   "picture": "being hauled; a watchman",
+   "feeling": "pulled back to shame",
+   "vehicles": [
+    "watch"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 137,
+   "verified": true,
+   "quote": "The old reflex came up before she had decided anything at all.",
+   "picture": "rising thing",
+   "feeling": "automatic denial",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 143,
+   "verified": true,
+   "quote": "The word had a smile in it.",
+   "picture": "container with smile",
+   "feeling": "amused tone",
+   "vehicles": [
+    "smile"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 143,
+   "verified": true,
+   "quote": "It left the word she had just said sitting there between them, available for inspection.",
+   "picture": "an object on display",
+   "feeling": "exposed denial",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 145,
+   "verified": true,
+   "quote": "he had left the first one sitting there and she could not bear it sitting there alone",
+   "picture": "a stranded thing",
+   "feeling": "unsupported denial",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 149,
+   "verified": true,
+   "quote": "Her face went hot against the leather.",
+   "picture": "heat",
+   "feeling": "blushing",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 149,
+   "verified": true,
+   "quote": "her whole body seemed to lean toward them",
+   "picture": "leaning plant",
+   "feeling": "craving touch",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 157,
+   "verified": true,
+   "quote": "the sentence she had just made broke in her body before it had finished being true in the room",
+   "picture": "a breaking object",
+   "feeling": "lie shattering",
+   "vehicles": [
+    "sentence"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's denial",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 157,
+   "verified": true,
+   "quote": "went through her so hard and so welcome",
+   "picture": "piercing",
+   "feeling": "sharp pleasure",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "touch",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 159,
+   "verified": true,
+   "quote": "the lie collapsing under his fingers the instant he put weight on it",
+   "picture": "collapsing structure",
+   "feeling": "denial failing",
+   "vehicles": [
+    "lie"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's lie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 159,
+   "verified": true,
+   "quote": "That one didn't last at all.",
+   "picture": "something that lasts",
+   "feeling": "brief denial",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's lie",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 161,
+   "verified": true,
+   "quote": "The oldest one, the first one she had ever reached for",
+   "picture": "reaching for a tool",
+   "feeling": "habitual excuse",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's lie",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 165,
+   "verified": true,
+   "quote": "the full humiliating fact of how hard she was in his hands",
+   "picture": "in someone's hands",
+   "feeling": "helpless exposure",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 169,
+   "verified": true,
+   "quote": "the bright thread of pleasure",
+   "picture": "a thread",
+   "feeling": "thin sharp pleasure",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 169,
+   "verified": true,
+   "quote": "not enough to let it go anywhere",
+   "picture": "travel",
+   "feeling": "pleasure stalled",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 173,
+   "verified": true,
+   "quote": "holding still was the last little proof she had, and he took that from her too",
+   "picture": "taking an object",
+   "feeling": "loss of control",
+   "vehicles": [
+    "proof"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 173,
+   "verified": true,
+   "quote": "too little to surrender to and too much to ignore",
+   "picture": "surrender",
+   "feeling": "stuck between",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 173,
+   "verified": true,
+   "quote": "The pleasure of it climbed and climbed with nowhere to break",
+   "picture": "a climbing wave",
+   "feeling": "building pleasure",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 173,
+   "verified": true,
+   "quote": "the sound torn out of her",
+   "picture": "tearing",
+   "feeling": "involuntary cry",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 177,
+   "verified": true,
+   "quote": "only enough to make the pleasure sharpen its teeth",
+   "picture": "teeth",
+   "feeling": "pleasure turning sharp",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 179,
+   "verified": true,
+   "quote": "Your mouth keeps making one argument and the rest of you keeps winning it for me.",
+   "picture": "a debate",
+   "feeling": "body contradicting words",
+   "vehicles": [
+    "argument"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 181,
+   "verified": true,
+   "quote": "her nipples singing where his fingers had left them",
+   "picture": "singing",
+   "feeling": "lingering tingle",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 181,
+   "verified": true,
+   "quote": "he would let her hold the lie up herself",
+   "picture": "holding up a weight",
+   "feeling": "self-sustained denial",
+   "vehicles": [
+    "lie"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 181,
+   "verified": true,
+   "quote": "under the shame of it a thing had been shown to her",
+   "picture": "something beneath",
+   "feeling": "hidden realization",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 183,
+   "verified": true,
+   "quote": "soothing her back down out of her head",
+   "picture": "coaxing down",
+   "feeling": "calming",
+   "vehicles": [
+    "head"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 185,
+   "verified": true,
+   "quote": "That was what took the breath out of her",
+   "picture": "breath removed",
+   "feeling": "surprise",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 185,
+   "verified": true,
+   "quote": "The room swung.",
+   "picture": "swinging",
+   "feeling": "disorientation",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 185,
+   "verified": true,
+   "quote": "The blood leaned toward her head.",
+   "picture": "leaning",
+   "feeling": "rush of blood",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 185,
+   "verified": true,
+   "quote": "the not-knowing came back over her cold and bright",
+   "picture": "a cold wave",
+   "feeling": "alarm",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 185,
+   "verified": true,
+   "quote": "It was a thing that did the work to her.",
+   "picture": "agent acting on her",
+   "feeling": "passivity",
+   "vehicles": [
+    "work"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the bench",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 187,
+   "verified": true,
+   "quote": "Her hips were the top of her now.",
+   "picture": "inversion",
+   "feeling": "upended body",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 187,
+   "verified": true,
+   "quote": "the pressing rolled the soaked satin against her and told her",
+   "picture": "cloth speaking",
+   "feeling": "betrayal by body",
+   "vehicles": [
+    "satin"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the satin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 187,
+   "verified": true,
+   "quote": "exactly how it would tell on her",
+   "picture": "a tattletale",
+   "feeling": "giving her away",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the satin",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 189,
+   "verified": true,
+   "quote": "the way a man handles a thing he has wanted a long while and finally has",
+   "picture": "prized possession",
+   "feeling": "savoring",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 189,
+   "verified": true,
+   "quote": "ran straight down into the soaked center of her",
+   "picture": "liquid running",
+   "feeling": "shame becoming arousal",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "shame",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 193,
+   "verified": true,
+   "quote": "feeling the give of her through it",
+   "picture": "yielding material",
+   "feeling": "softness yielding",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 197,
+   "verified": true,
+   "quote": "the silence made her feel the whole dark place of the cloth as if he had lit it",
+   "picture": "a lit lamp",
+   "feeling": "exposed stain",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 197,
+   "verified": true,
+   "quote": "She had felt the words gather in the room",
+   "picture": "gathering storm",
+   "feeling": "anticipation",
+   "vehicles": [
+    "storm"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 197,
+   "verified": true,
+   "quote": "blooming through the very cloth she had chosen to swallow it",
+   "picture": "a flower; swallowing",
+   "feeling": "stain spreading",
+   "vehicles": [
+    "flower",
+    "mouth"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the wet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 199,
+   "verified": true,
+   "quote": "all stacked with nothing under them",
+   "picture": "stack without base",
+   "feeling": "accumulated pressure",
+   "vehicles": [
+    "stack"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 199,
+   "verified": true,
+   "quote": "They moved without her",
+   "picture": "independent agents",
+   "feeling": "loss of control",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "her hips",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 199,
+   "verified": true,
+   "quote": "she felt it begin to gather far too soon",
+   "picture": "gathering storm",
+   "feeling": "orgasm building",
+   "vehicles": [
+    "storm"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 199,
+   "verified": true,
+   "quote": "she went over without a sound that meant anything",
+   "picture": "going over an edge",
+   "feeling": "orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 201,
+   "verified": true,
+   "quote": "the spasm wringing up through the center of her",
+   "picture": "wringing cloth",
+   "feeling": "clenching",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 201,
+   "verified": true,
+   "quote": "the wet blooming warm and fresh through the satin",
+   "picture": "a flower",
+   "feeling": "spreading wetness",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the wet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 201,
+   "verified": true,
+   "quote": "her body going off the instant it was tilted up",
+   "picture": "a device going off",
+   "feeling": "sudden orgasm",
+   "vehicles": [
+    "alarm"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 201,
+   "verified": true,
+   "quote": "this proof had moved too fast even for the lie",
+   "picture": "a runner outpacing",
+   "feeling": "speed outstripping denial",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the orgasm",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 205,
+   "verified": true,
+   "quote": "She was burning.",
+   "picture": "fire",
+   "feeling": "intense shame and heat",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 205,
+   "verified": true,
+   "quote": "wrung and panting into the warm leather",
+   "picture": "wrung cloth",
+   "feeling": "spent exhaustion",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 205,
+   "verified": true,
+   "quote": "come the way her mother had always promised girls like her would come",
+   "picture": "a prophecy",
+   "feeling": "shame fulfilled",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 209,
+   "verified": true,
+   "quote": "the wet had glued the cloth to her",
+   "picture": "glue",
+   "feeling": "clinging",
+   "vehicles": [
+    "glue"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "satin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 209,
+   "verified": true,
+   "quote": "it gave up its hold on her an inch at a time",
+   "picture": "reluctant grip",
+   "feeling": "clinging cloth",
+   "vehicles": [
+    "hold"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "satin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 209,
+   "verified": true,
+   "quote": "the cool air came in behind it the way water comes into a footprint",
+   "picture": "water filling a footprint",
+   "feeling": "cool air filling absence",
+   "vehicles": [
+    "water",
+    "footprint"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "air",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 209,
+   "verified": true,
+   "quote": "the thing she had meant to be the cover",
+   "picture": "a cover",
+   "feeling": "concealment",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "satin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 211,
+   "verified": true,
+   "quote": "There was no cloth left to take the blame.",
+   "picture": "cloth taking blame",
+   "feeling": "nothing to hide behind",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 211,
+   "verified": true,
+   "quote": "the shame of that went through her low and total, hotter than the air",
+   "picture": "heat passing through",
+   "feeling": "deep shame",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 211,
+   "verified": true,
+   "quote": "as if she could put it somewhere he could not reach",
+   "picture": "hiding an object",
+   "feeling": "hiding face",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 211,
+   "verified": true,
+   "quote": "the most lit and the most looked-at thing in the room",
+   "picture": "spotlight",
+   "feeling": "maximum exposure",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the wet spot",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 213,
+   "verified": true,
+   "quote": "she felt it the way you feel the sun move onto your skin through a window",
+   "picture": "sunlight on skin",
+   "feeling": "warm gaze felt",
+   "vehicles": [
+    "sun",
+    "window"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 213,
+   "verified": true,
+   "quote": "the weight of being looked at settling over the backs of her thighs",
+   "picture": "a settling weight",
+   "feeling": "gaze felt physically",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 213,
+   "verified": true,
+   "quote": "the blood went thick in the side of her head",
+   "picture": "thick liquid",
+   "feeling": "pounding flush",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 215,
+   "verified": true,
+   "quote": "became only a place that was held",
+   "picture": "being held",
+   "feeling": "shame turned to safety",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 217,
+   "verified": true,
+   "quote": "like a man naming a thing that is true and good",
+   "picture": "a man naming",
+   "feeling": "plain pleasure",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 219,
+   "verified": true,
+   "quote": "a hand thrown up to hold the thing at arm's length where she could go on living beside it",
+   "picture": "fending off with a hand",
+   "feeling": "distancing from truth",
+   "vehicles": [
+    "hand",
+    "arm"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's denial",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 219,
+   "verified": true,
+   "quote": "there was nothing on the end of it now",
+   "picture": "a rope end",
+   "feeling": "denial with no support",
+   "vehicles": [
+    "end"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "denial",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 227,
+   "verified": true,
+   "quote": "every slick parting of her under his hand made public in the warm room",
+   "picture": "public display",
+   "feeling": "exposure",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 231,
+   "verified": true,
+   "quote": "the sound climbed with it",
+   "picture": "climbing",
+   "feeling": "rising loudness",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the sound",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 231,
+   "verified": true,
+   "quote": "threaded all the way through it",
+   "picture": "a thread",
+   "feeling": "pervasive wish",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "none",
+   "applies_to": "the wish",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 231,
+   "verified": true,
+   "quote": "the new thing the nipples had taught her",
+   "picture": "a teacher",
+   "feeling": "learned desire",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 231,
+   "verified": true,
+   "quote": "holding the lie out to him like a thing she wanted taken away",
+   "picture": "offering an object",
+   "feeling": "wanting to be caught",
+   "vehicles": [
+    "lie"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 237,
+   "verified": true,
+   "quote": "the denial broke into a sound and the sound broke into wanting",
+   "picture": "things breaking",
+   "feeling": "denial dissolving",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 237,
+   "verified": true,
+   "quote": "until the denial broke into a sound and the sound broke into wanting",
+   "picture": "something breaking",
+   "feeling": "resistance giving way",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 239,
+   "verified": true,
+   "quote": "the one bright place where the rest of her was all broad and warm",
+   "picture": "a bright spot",
+   "feeling": "sharp sensitivity",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 239,
+   "verified": true,
+   "quote": "the bright point of her began to climb",
+   "picture": "climbing",
+   "feeling": "building arousal",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 239,
+   "verified": true,
+   "quote": "the climb hung where it was with nowhere to go",
+   "picture": "hanging",
+   "feeling": "stalled arousal",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 239,
+   "verified": true,
+   "quote": "her breath went out of her",
+   "picture": "breath leaving",
+   "feeling": "involuntary release",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 239,
+   "verified": true,
+   "quote": "the climb hung where it was with nowhere to go and no way of her own to send it on",
+   "picture": "a stalled climb",
+   "feeling": "arousal stalled, stuck",
+   "vehicles": [
+    "climb"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 241,
+   "verified": true,
+   "quote": "the way a man polishes a thing he prizes and means to keep",
+   "picture": "polishing a treasure",
+   "feeling": "possessive tenderness",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 241,
+   "verified": true,
+   "quote": "waking every small nerve in the skin and leaving them standing and lit and waiting",
+   "picture": "waking sentries; lamps",
+   "feeling": "nerves alert",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 247,
+   "verified": true,
+   "quote": "the last time was in the room with them",
+   "picture": "a presence in the room",
+   "feeling": "memory vividly present",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 247,
+   "verified": true,
+   "quote": "the burn still opening in her skin",
+   "picture": "a blossom opening",
+   "feeling": "spreading sting",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 247,
+   "verified": true,
+   "quote": "what her no had made of her",
+   "picture": "a thing made",
+   "feeling": "her refusal exposing her",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 251,
+   "verified": true,
+   "quote": "That answer came back wet last time.",
+   "picture": "an answer returning wet",
+   "feeling": "body contradicting words",
+   "vehicles": [
+    "answer"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 253,
+   "verified": true,
+   "quote": "The ache climbed and stood and had nowhere to go",
+   "picture": "a climbing thing stuck",
+   "feeling": "frustrated arousal",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 253,
+   "verified": true,
+   "quote": "to find some edge to work against",
+   "picture": "a ledge",
+   "feeling": "seeking leverage",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 253,
+   "verified": true,
+   "quote": "the bench gave her nothing, made as it was to give her nothing",
+   "picture": "a withholding giver",
+   "feeling": "denied relief",
+   "vehicles": [
+    "bench"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the bench",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 253,
+   "verified": true,
+   "quote": "taking the friction he would not give her",
+   "picture": "giving and taking",
+   "feeling": "seizing what is withheld",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "the white blank instant came with it",
+   "picture": "a white blank",
+   "feeling": "stunned pause before pain",
+   "vehicles": [
+    "page"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "the stunned hush of her skin not yet knowing",
+   "picture": "a hushed person",
+   "feeling": "delayed sensation",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "The burn bloomed up out of the blank a beat behind",
+   "picture": "a flower blooming",
+   "feeling": "heat arriving",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "spreading wide and singing across the curve of her",
+   "picture": "a singing spread",
+   "feeling": "ringing sting",
+   "vehicles": [
+    "song"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "the throb came in under the heat, deep and slow, beating with her own blood",
+   "picture": "a drumbeat",
+   "feeling": "deep pulse",
+   "vehicles": [
+    "drum"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "met the wet ache at the center of her and fed it",
+   "picture": "feeding a fire",
+   "feeling": "pain feeding arousal",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 255,
+   "verified": true,
+   "quote": "that landed in her harder than his hand had",
+   "picture": "a blow landing",
+   "feeling": "realization hitting hard",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 257,
+   "verified": true,
+   "quote": "Your thighs have gone to shine",
+   "picture": "going to shine",
+   "feeling": "glistening wetness",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 257,
+   "verified": true,
+   "quote": "the lamp loving every inch of it",
+   "picture": "a loving lamp",
+   "feeling": "light caressing",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the lamp",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "The word got into her and did what his hands could not",
+   "picture": "a word entering",
+   "feeling": "words penetrating",
+   "vehicles": [
+    "word",
+    "hand"
+   ],
+   "sensation": "opening",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "lifted her a moment up out of her body to see the thing he was calling it",
+   "picture": "leaving the body",
+   "feeling": "dissociated self-watching",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "No one had tied them there.",
+   "picture": "bound hands",
+   "feeling": "self-imposed restraint",
+   "vehicles": [
+    "rope"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "there was no rope in the world she could have laid the blame on",
+   "picture": "rope as excuse",
+   "feeling": "no excuse, own complicity",
+   "vehicles": [
+    "rope"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "They bore down. They gripped and braced and drove her into it",
+   "picture": "hands as driving engine",
+   "feeling": "own hands betraying her",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's hands",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 259,
+   "verified": true,
+   "quote": "her own two hands working with his",
+   "picture": "accomplices",
+   "feeling": "complicity",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's hands",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 261,
+   "verified": true,
+   "quote": "the late bloom of a second burn rising to lie down beside the first",
+   "picture": "a flower, a bedfellow",
+   "feeling": "second burn arriving",
+   "vehicles": [
+    "flower",
+    "bed"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 261,
+   "verified": true,
+   "quote": "knowing now what it would buy her, and bought it",
+   "picture": "a purchase",
+   "feeling": "trading shame for pleasure",
+   "vehicles": [
+    "currency"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 261,
+   "verified": true,
+   "quote": "she had gone back",
+   "picture": "returning to a place",
+   "feeling": "repeated surrender",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 265,
+   "verified": true,
+   "quote": "it broke in the middle of itself",
+   "picture": "something snapping",
+   "feeling": "voice cracking",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 271,
+   "verified": true,
+   "quote": "She hung in the nothing of it",
+   "picture": "hanging in a void",
+   "feeling": "suspended deprivation",
+   "vehicles": [
+    "void"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 271,
+   "verified": true,
+   "quote": "the ache standing high and unanswered",
+   "picture": "a standing figure",
+   "feeling": "unrelieved want",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 271,
+   "verified": true,
+   "quote": "the small promise of it simply gone",
+   "picture": "a promise",
+   "feeling": "loss of expected relief",
+   "vehicles": [
+    "promise"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the finger",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 275,
+   "verified": true,
+   "quote": "a different thing to bear",
+   "picture": "carrying a load",
+   "feeling": "difficult to endure",
+   "vehicles": [
+    "load"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the dry finger",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 277,
+   "verified": true,
+   "quote": "You can keep this one clean",
+   "picture": "clean hand",
+   "feeling": "avoiding complicity",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace's hand",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 279,
+   "verified": true,
+   "quote": "the ache did not care what she had sworn",
+   "picture": "an indifferent person",
+   "feeling": "body overriding will",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the ache",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 279,
+   "verified": true,
+   "quote": "of their own greedy accord",
+   "picture": "willful hips",
+   "feeling": "body acting on its own",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's hips",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 279,
+   "verified": true,
+   "quote": "She held out longer than she would have believed she could",
+   "picture": "holding out a siege",
+   "feeling": "resisting",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 281,
+   "verified": true,
+   "quote": "a bright stinging bite of it that bloomed faster and hotter",
+   "picture": "a bite, a bloom",
+   "feeling": "sharp sting",
+   "vehicles": [
+    "bite",
+    "flower"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the blow",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 281,
+   "verified": true,
+   "quote": "would not spread soft the way the dry ones had",
+   "picture": "spreading softness",
+   "feeling": "sting not diffusing",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the blow",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 283,
+   "verified": true,
+   "quote": "I only carried it up.",
+   "picture": "carrying something up",
+   "feeling": "her own making",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 283,
+   "verified": true,
+   "quote": "working her own slick into the burn",
+   "picture": "working in ointment",
+   "feeling": "intensifying sting",
+   "vehicles": [
+    "salve"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 289,
+   "verified": true,
+   "quote": "reaching up after the burn the way a body reaches after a thing it has decided that it wants",
+   "picture": "reaching for something",
+   "feeling": "eager yearning",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 289,
+   "verified": true,
+   "quote": "the shield was nowhere, the no was nowhere",
+   "picture": "a lost shield",
+   "feeling": "defenses gone",
+   "vehicles": [
+    "shield"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 289,
+   "verified": true,
+   "quote": "no breath left in her anywhere that was shaped like no",
+   "picture": "breath shaped like a word",
+   "feeling": "refusal exhausted",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 291,
+   "verified": true,
+   "quote": "pleased the way a man is pleased when a thing has at last come open to him",
+   "picture": "something opening",
+   "feeling": "satisfied possession",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 291,
+   "verified": true,
+   "quote": "There she is",
+   "picture": "finding a hidden person",
+   "feeling": "true self revealed",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 293,
+   "verified": true,
+   "quote": "ran her up the long slope of it",
+   "picture": "a slope",
+   "feeling": "building arousal",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 293,
+   "verified": true,
+   "quote": "the wave gathering far off and huge",
+   "picture": "an ocean wave",
+   "feeling": "orgasm approaching",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 293,
+   "verified": true,
+   "quote": "the touch of him drowning the watching self under the flood",
+   "picture": "drowning in a flood",
+   "feeling": "self-awareness overwhelmed",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 297,
+   "verified": true,
+   "quote": "it caught her like a hook in the back of the head and dragged her straight up out of her body",
+   "picture": "a fish hook",
+   "feeling": "yanked into awareness",
+   "vehicles": [
+    "hook"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 297,
+   "verified": true,
+   "quote": "an inch from going over",
+   "picture": "going over an edge",
+   "feeling": "nearly climaxing",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 299,
+   "verified": true,
+   "quote": "somewhere below the place words meant one thing at a time",
+   "picture": "depth below words",
+   "feeling": "pre-verbal ambivalence",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 301,
+   "verified": true,
+   "quote": "The wave stood there under his still fingers",
+   "picture": "a standing wave",
+   "feeling": "arousal poised",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 301,
+   "verified": true,
+   "quote": "trapped in the half-second before the loss of it",
+   "picture": "a trap",
+   "feeling": "helpless dread",
+   "vehicles": [
+    "trap"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 305,
+   "verified": true,
+   "quote": "the wave dropped back down all at once and left her gasping on the near side of it",
+   "picture": "a wave falling, a shore",
+   "feeling": "climax denied",
+   "vehicles": [
+    "wave",
+    "shore"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 307,
+   "verified": true,
+   "quote": "And she lifted after his hand.",
+   "picture": "chasing",
+   "feeling": "involuntary pursuit",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 309,
+   "verified": true,
+   "quote": "the body chasing what it had lost with its own naked want and no shame fast enough to catch it first",
+   "picture": "a chase",
+   "feeling": "want outrunning shame",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 309,
+   "verified": true,
+   "quote": "that the shame caught, a half-second too late",
+   "picture": "catching a runner",
+   "feeling": "shame arriving late",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 311,
+   "verified": true,
+   "quote": "how he had her",
+   "picture": "holding captive",
+   "feeling": "being mastered",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 317,
+   "verified": true,
+   "quote": "The words went through her low and hot",
+   "picture": "words passing through",
+   "feeling": "words penetrating",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 317,
+   "verified": true,
+   "quote": "the perfume she had dabbed at her wrists gone under it",
+   "picture": "submerged",
+   "feeling": "scent overpowered",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the perfume",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 317,
+   "verified": true,
+   "quote": "the voice in her sharp and clipped and her mother's",
+   "picture": "an inner voice",
+   "feeling": "internalized condemnation",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 317,
+   "verified": true,
+   "quote": "the first release having let none of it out, only woken the rest",
+   "picture": "pressure vented, sleeper woken",
+   "feeling": "want intensified",
+   "vehicles": [
+    "valve"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 317,
+   "verified": true,
+   "quote": "the kind that does not negotiate",
+   "picture": "a hard bargainer",
+   "feeling": "unyielding need",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee's need",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 319,
+   "verified": true,
+   "quote": "find some edge to bear down on",
+   "picture": "an edge for leverage",
+   "feeling": "seeking friction",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 319,
+   "verified": true,
+   "quote": "giving her no purchase",
+   "picture": "a grip",
+   "feeling": "nothing to hold",
+   "vehicles": [
+    "grip"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the bench",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 321,
+   "verified": true,
+   "quote": "the name coming out younger than her",
+   "picture": "a younger voice",
+   "feeling": "childlike plea",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 323,
+   "verified": true,
+   "quote": "the lag came, the crack and the blank and then the late slow bloom of the burn",
+   "picture": "a blooming flower",
+   "feeling": "delayed sting",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 323,
+   "verified": true,
+   "quote": "she was so far up the climb already",
+   "picture": "a climb",
+   "feeling": "arousal high",
+   "vehicles": [
+    "climb"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 323,
+   "verified": true,
+   "quote": "racing it, helping",
+   "picture": "a race",
+   "feeling": "eager rush",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 323,
+   "verified": true,
+   "quote": "the gather came up fast and huge",
+   "picture": "a gathering wave",
+   "feeling": "orgasm building",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 323,
+   "verified": true,
+   "quote": "it broke over her",
+   "picture": "a breaking wave",
+   "feeling": "climax washing over",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "The first had ambushed her",
+   "picture": "an ambush",
+   "feeling": "taken by surprise",
+   "vehicles": [
+    "ambush"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "This one she had hunted.",
+   "picture": "a hunt",
+   "feeling": "pursued deliberately",
+   "vehicles": [
+    "prey"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "it came pouring through her now wide and long",
+   "picture": "pouring liquid",
+   "feeling": "climax flowing",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "she rode every wave of it down",
+   "picture": "riding waves",
+   "feeling": "riding out climax",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "when it loosed her and let her sink, wrung and shaking on the rise",
+   "picture": "release, wrung cloth",
+   "feeling": "spent exhaustion",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "the shame that came down over her",
+   "picture": "something falling over",
+   "feeling": "shame descending",
+   "vehicles": [
+    "cloak"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "ashamed in the deepest place and lit up by the shame",
+   "picture": "lit up",
+   "feeling": "shame arousing",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 325,
+   "verified": true,
+   "quote": "the way her body already knew",
+   "picture": "body knowing",
+   "feeling": "bodily certainty",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 331,
+   "verified": true,
+   "quote": "the whole of her was open",
+   "picture": "an opened thing",
+   "feeling": "total exposure",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 331,
+   "verified": true,
+   "quote": "the shame of it went through her like cold water poured down her spine",
+   "picture": "cold water",
+   "feeling": "shame shiver",
+   "vehicles": [
+    "water",
+    "spine"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 331,
+   "verified": true,
+   "quote": "lit her up in the same wave, the same wire",
+   "picture": "a live wire",
+   "feeling": "shame and arousal together",
+   "vehicles": [
+    "wave",
+    "wire"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 331,
+   "verified": true,
+   "quote": "the last of her laid bare to the lamp",
+   "picture": "laid bare",
+   "feeling": "total exposure",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 331,
+   "verified": true,
+   "quote": "the deepest part of her up in the light",
+   "picture": "something brought to light",
+   "feeling": "exposure",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 333,
+   "verified": true,
+   "quote": "drowned under the plain hot smell of how much her body wanted this",
+   "picture": "drowning",
+   "feeling": "scent overwhelmed",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the perfume",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "a kind of hunger gone past words",
+   "picture": "hunger",
+   "feeling": "intense desire",
+   "vehicles": [
+    "hunger"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "undone by it",
+   "picture": "unraveling",
+   "feeling": "overcome",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "all the smooth gone out of it",
+   "picture": "smoothness drained",
+   "feeling": "polish stripped",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "every word pressed on the bruise and stroked it at once",
+   "picture": "pressing a bruise",
+   "feeling": "hurt and pleasure together",
+   "vehicles": [
+    "bruise"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "the old voice rose to condemn the very same fact",
+   "picture": "a voice rising",
+   "feeling": "internalized judgment",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 337,
+   "verified": true,
+   "quote": "It ran straight down into her and pooled hot and shaming between her opened thighs.",
+   "picture": "pooling liquid",
+   "feeling": "heat gathering",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 339,
+   "verified": true,
+   "quote": "her whole body leaned after them without moving at all",
+   "picture": "leaning",
+   "feeling": "attention drawn",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 341,
+   "verified": true,
+   "quote": "the soaked open mouth of her",
+   "picture": "a mouth",
+   "feeling": "body as opening",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 341,
+   "verified": true,
+   "quote": "The threshold touched and not crossed",
+   "picture": "a doorway",
+   "feeling": "on the brink",
+   "vehicles": [
+    "threshold"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 341,
+   "verified": true,
+   "quote": "he had run her up and over and back down",
+   "picture": "running up and over",
+   "feeling": "arousal guided",
+   "vehicles": [
+    "hill"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 343,
+   "verified": true,
+   "quote": "the word drawing out long and coming apart in the middle",
+   "picture": "thread fraying",
+   "feeling": "resistance dissolving",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 345,
+   "verified": true,
+   "quote": "That's a lot of work for no",
+   "picture": "labor",
+   "feeling": "contradiction between effort and word",
+   "vehicles": [
+    "work"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 347,
+   "verified": true,
+   "quote": "Then the strain broke.",
+   "picture": "something snapping",
+   "feeling": "effort collapsing",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 349,
+   "verified": true,
+   "quote": "And his hand came with her. It followed her down",
+   "picture": "a following companion",
+   "feeling": "unrelenting accompaniment",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 349,
+   "verified": true,
+   "quote": "The distance was simply gone.",
+   "picture": "vanished distance",
+   "feeling": "ground cannot be recovered",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 349,
+   "verified": true,
+   "quote": "the rest of the way was hers to find",
+   "picture": "a path",
+   "feeling": "she must go on herself",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 349,
+   "verified": true,
+   "quote": "he would keep whatever she gave him",
+   "picture": "giving and keeping",
+   "feeling": "no retreat",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 351,
+   "verified": true,
+   "quote": "She won another small reach of him up into herself",
+   "picture": "winning ground",
+   "feeling": "hard-earned depth",
+   "vehicles": [
+    "territory"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 353,
+   "verified": true,
+   "quote": "That 'no' keeps getting deeper.",
+   "picture": "depth",
+   "feeling": "refusal becoming surrender",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's no",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 355,
+   "verified": true,
+   "quote": "a giving-up into it",
+   "picture": "sinking in",
+   "feeling": "surrender",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 355,
+   "verified": true,
+   "quote": "it failed partway and had nothing left under it",
+   "picture": "failed support",
+   "feeling": "no conviction",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's no",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 355,
+   "verified": true,
+   "quote": "the thing inside her that had been clenching all night on nothing closed at last on something",
+   "picture": "a grasping hand",
+   "feeling": "emptiness filled",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 355,
+   "verified": true,
+   "quote": "the relief of it was so large and so shaming",
+   "picture": "a large object",
+   "feeling": "overwhelming relief",
+   "vehicles": [
+    "size"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 357,
+   "verified": true,
+   "quote": "All the way down on 'no'.",
+   "picture": "descent",
+   "feeling": "surrender completed",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 359,
+   "verified": true,
+   "quote": "Her body folded around him greedy and grateful",
+   "picture": "folding",
+   "feeling": "eager embrace",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 359,
+   "verified": true,
+   "quote": "her mouth had only just given up saying no",
+   "picture": "giving up",
+   "feeling": "surrender",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "the whole front of her caught fire from both places at once",
+   "picture": "catching fire",
+   "feeling": "intense arousal",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "the wave start to build, far off and enormous, the long slow swell of it",
+   "picture": "an ocean swell",
+   "feeling": "climax building",
+   "vehicles": [
+    "wave",
+    "swell"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "she gave herself up the slope toward it, climbing",
+   "picture": "climbing a slope",
+   "feeling": "ascent to climax",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "the wave start to build, far off and enormous, the long slow swell of it rising under her belly",
+   "picture": "an ocean wave",
+   "feeling": "approaching orgasm",
+   "vehicles": [
+    "wave",
+    "swell"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's climax",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "after the long while of being kept to the outside of herself",
+   "picture": "being kept outside",
+   "feeling": "denied intimacy",
+   "vehicles": [
+    "outside"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 361,
+   "verified": true,
+   "quote": "her breath going ragged",
+   "picture": "torn cloth",
+   "feeling": "uneven breathing",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 363,
+   "verified": true,
+   "quote": "the wave checked an inch from its crest and sliding back a notch",
+   "picture": "a wave receding",
+   "feeling": "climax held off",
+   "vehicles": [
+    "wave",
+    "crest"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 363,
+   "verified": true,
+   "quote": "there was no more stopping it than stopping a blink",
+   "picture": "a reflex blink",
+   "feeling": "involuntary reflex",
+   "vehicles": [
+    "blink"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 363,
+   "verified": true,
+   "quote": "no more stopping it than stopping a blink",
+   "picture": "a blink",
+   "feeling": "involuntary reflex",
+   "vehicles": [
+    "blink"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 363,
+   "verified": true,
+   "quote": "the deep inside of her clutch down on his stilled fingers",
+   "picture": "a fist clutching",
+   "feeling": "involuntary gripping",
+   "vehicles": [
+    "fist"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "How you've got hold of me.",
+   "picture": "gripping",
+   "feeling": "clutching",
+   "vehicles": [
+    "grip"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "it hauled her up off the flooded body and into her head",
+   "picture": "hauling from a flood",
+   "feeling": "pulled into awareness",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "The shame went up her in a sheet of heat.",
+   "picture": "a sheet of flame",
+   "feeling": "flush of shame",
+   "vehicles": [
+    "sheet"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "hanging the way the whole of her hung",
+   "picture": "hanging",
+   "feeling": "suspended",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "And the word did what the hand had quit doing",
+   "picture": "word as a hand",
+   "feeling": "words acting as touch",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "Her jaw clamped down against the sound climbing her throat.",
+   "picture": "a climbing creature",
+   "feeling": "suppressing a cry",
+   "vehicles": [
+    "clamp"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 365,
+   "verified": true,
+   "quote": "the flooded body",
+   "picture": "flood",
+   "feeling": "saturated with arousal",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 369,
+   "verified": true,
+   "quote": "the screaming point of her",
+   "picture": "a screaming thing",
+   "feeling": "urgent need",
+   "vehicles": [
+    "scream"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's clitoris",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 369,
+   "verified": true,
+   "quote": "for one bright half-second she almost had it",
+   "picture": "bright light",
+   "feeling": "brief near-success",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 369,
+   "verified": true,
+   "quote": "the very lip of the support grazing her",
+   "picture": "a lip or rim",
+   "feeling": "edge of the bench",
+   "vehicles": [
+    "lip"
+   ],
+   "sensation": "none",
+   "applies_to": "the bench",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 369,
+   "verified": true,
+   "quote": "it curved away under her exactly there",
+   "picture": "retreating curve",
+   "feeling": "denial by design",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the bench",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 371,
+   "verified": true,
+   "quote": "She heard the smile in it.",
+   "picture": "a sound with a smile",
+   "feeling": "hearing his amusement",
+   "vehicles": [
+    "smile"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 371,
+   "verified": true,
+   "quote": "That's trying to get out of answering.",
+   "picture": "escaping",
+   "feeling": "evasion",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 373,
+   "verified": true,
+   "quote": "like something that had lost its manners",
+   "picture": "an ill-mannered animal",
+   "feeling": "shameful lack of restraint",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 373,
+   "verified": true,
+   "quote": "went through her hotter than the wave had",
+   "picture": "heat passing through",
+   "feeling": "burning shame",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "shame",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 373,
+   "verified": true,
+   "quote": "the going was its own torment",
+   "picture": "torment",
+   "feeling": "anguish of absence",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "his leaving",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 373,
+   "verified": true,
+   "quote": "a small broken sound",
+   "picture": "broken object",
+   "feeling": "cracked voice",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 375,
+   "verified": true,
+   "quote": "the wet cord of her nape",
+   "picture": "a cord",
+   "feeling": "tendon of neck",
+   "vehicles": [
+    "cord"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's nape",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 375,
+   "verified": true,
+   "quote": "the want gone quiet under it, down to a low warm hum",
+   "picture": "a humming engine",
+   "feeling": "desire subsiding",
+   "vehicles": [
+    "hum"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 375,
+   "verified": true,
+   "quote": "until her breathing had come back down",
+   "picture": "descending",
+   "feeling": "calming",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 375,
+   "verified": true,
+   "quote": "He gentled her like that",
+   "picture": "gentling an animal",
+   "feeling": "soothing",
+   "vehicles": [
+    "horse"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 377,
+   "verified": true,
+   "quote": "he ran her up a second time, savoring the long climb of her",
+   "picture": "a climb",
+   "feeling": "arousal building",
+   "vehicles": [
+    "climb"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 377,
+   "verified": true,
+   "quote": "eased her down again just under the crest",
+   "picture": "a wave crest",
+   "feeling": "withheld climax",
+   "vehicles": [
+    "crest"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 377,
+   "verified": true,
+   "quote": "he set the word against her",
+   "picture": "a tool pressed against",
+   "feeling": "words as pressure",
+   "vehicles": [
+    "tool"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 381,
+   "verified": true,
+   "quote": "she felt it land",
+   "picture": "something landing",
+   "feeling": "words striking",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "his words",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 381,
+   "verified": true,
+   "quote": "begin to lift her toward the cold high place",
+   "picture": "a high cold place",
+   "feeling": "harsh awareness",
+   "vehicles": [
+    "height"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "The old reflex came up to meet it",
+   "picture": "rising to meet",
+   "feeling": "habitual denial",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's reflex",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "the hand flung out to hold the thing at arm's length",
+   "picture": "holding at arm's length",
+   "feeling": "keeping away",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's denial",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "the body would not give her the height this time",
+   "picture": "height",
+   "feeling": "no emotional distance",
+   "vehicles": [
+    "height"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "It dragged her back down before the shame could set",
+   "picture": "mortar setting",
+   "feeling": "shame hardening",
+   "vehicles": [
+    "mortar"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "down into the flooded want where the words went thin and came apart",
+   "picture": "water and fraying cloth",
+   "feeling": "words dissolving",
+   "vehicles": [
+    "flood",
+    "cloth"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 385,
+   "verified": true,
+   "quote": "the thing the denial had always been thrown over",
+   "picture": "cloth thrown over",
+   "feeling": "denial concealing desire",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's denial",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 387,
+   "verified": true,
+   "quote": "nothing left of the tall composed woman who had walked in",
+   "picture": "a depleted container",
+   "feeling": "composure stripped away",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 387,
+   "verified": true,
+   "quote": "Small and high and broken",
+   "picture": "broken thing",
+   "feeling": "cracked voice",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 389,
+   "verified": true,
+   "quote": "blurring the floorboards under her to a smear",
+   "picture": "smear",
+   "feeling": "blurred vision",
+   "vehicles": [
+    "smear"
+   ],
+   "sensation": "none",
+   "applies_to": "the floorboards",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 389,
+   "verified": true,
+   "quote": "had nothing fresh left in them",
+   "picture": "emptied container",
+   "feeling": "exhaustion",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's arms",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 389,
+   "verified": true,
+   "quote": "no more say over than she had over the sweat",
+   "picture": "having a say",
+   "feeling": "loss of control",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "found her breast where it hung",
+   "picture": "finding",
+   "feeling": "searching touch",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "after all the snatching-back it was a true pleasure given and left to stay",
+   "picture": "snatching a gift",
+   "feeling": "relief from denial",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "pleasure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "she sank toward it grateful",
+   "picture": "sinking",
+   "feeling": "yielding relief",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "A small mercy in the middle of the storm.",
+   "picture": "a storm",
+   "feeling": "respite in turmoil",
+   "vehicles": [
+    "storm"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the touch",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "the single steady kindness within her reach",
+   "picture": "kindness within reach",
+   "feeling": "comfort",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "the touch",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 391,
+   "verified": true,
+   "quote": "Even the fine tremble in her arms let go",
+   "picture": "letting go",
+   "feeling": "release",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's tremble",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 393,
+   "verified": true,
+   "quote": "That was the trick folded inside the mercy",
+   "picture": "a folded trick",
+   "feeling": "hidden cruelty",
+   "vehicles": [
+    "fold"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the mercy",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 393,
+   "verified": true,
+   "quote": "leave the rest of her howling",
+   "picture": "howling animal",
+   "feeling": "unsatisfied need",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 393,
+   "verified": true,
+   "quote": "the small sweetness only sharpened the great want by feeding it nothing",
+   "picture": "a whetted blade, starved animal",
+   "feeling": "intensified craving",
+   "vehicles": [
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's want",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 393,
+   "verified": true,
+   "quote": "Her knuckles stayed white on the grips.",
+   "picture": "white knuckles",
+   "feeling": "strain",
+   "vehicles": [
+    "knuckle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 393,
+   "verified": true,
+   "quote": "ached for what he would not",
+   "picture": "ache",
+   "feeling": "longing",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 395,
+   "verified": true,
+   "quote": "the late slow bloom of the burn spreading out across her already-hot skin",
+   "picture": "a blooming flower",
+   "feeling": "spreading sting",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the spank",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 395,
+   "verified": true,
+   "quote": "the white blank",
+   "picture": "a white blank",
+   "feeling": "moment of numbness",
+   "vehicles": [
+    "blank"
+   ],
+   "sensation": "none",
+   "applies_to": "the spank",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 395,
+   "verified": true,
+   "quote": "the two became one fire",
+   "picture": "fire",
+   "feeling": "merged sensation",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "spank and fingers",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "the want past all managing",
+   "picture": "unmanageable thing",
+   "feeling": "uncontrollable desire",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's want",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "the not-knowing what was on his face filled the silence",
+   "picture": "filling a space",
+   "feeling": "dread of unknown",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "the certain weight of his looking",
+   "picture": "weight",
+   "feeling": "being watched",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "She felt the heat of being watched lie on her skin like a hand.",
+   "picture": "a hand",
+   "feeling": "being watched",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "a word she could have answered; the silence left her nothing to do but be seen inside it",
+   "picture": "silence as a container",
+   "feeling": "exposed in silence",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the silence",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 397,
+   "verified": true,
+   "quote": "and the silence held",
+   "picture": "a held thing",
+   "feeling": "tense quiet",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the silence",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 401,
+   "verified": true,
+   "quote": "Everything in him had gone quiet and unhurried and entirely here.",
+   "picture": "presence as place",
+   "feeling": "full attention",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 403,
+   "verified": true,
+   "quote": "There you are.",
+   "picture": "arrival",
+   "feeling": "her self returning",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 405,
+   "verified": true,
+   "quote": "Her own eyes must have been a ruin",
+   "picture": "a ruin",
+   "feeling": "devastated look",
+   "vehicles": [
+    "ruin"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's eyes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 405,
+   "verified": true,
+   "quote": "he looked into them as though there were nothing behind her in the room at all",
+   "picture": "empty room",
+   "feeling": "undivided attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 407,
+   "verified": true,
+   "quote": "You still with me?",
+   "picture": "accompanying",
+   "feeling": "checking presence",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 411,
+   "verified": true,
+   "quote": "the tenderness of it landed somewhere the pleasure had not reached",
+   "picture": "something landing",
+   "feeling": "deep tenderness",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "tenderness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 411,
+   "verified": true,
+   "quote": "her eyes filled",
+   "picture": "a filling vessel",
+   "feeling": "tears welling",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 411,
+   "verified": true,
+   "quote": "the closeness folded away and the hands came back",
+   "picture": "folding cloth",
+   "feeling": "intimacy withdrawn",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the closeness",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 411,
+   "verified": true,
+   "quote": "the man working her open from behind",
+   "picture": "opening something",
+   "feeling": "unlocking her",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 413,
+   "verified": true,
+   "quote": "no mercy in it",
+   "picture": "mercy",
+   "feeling": "relentlessness",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Pace's touch",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 415,
+   "verified": true,
+   "quote": "was a kind of clock",
+   "picture": "a clock",
+   "feeling": "measure of elapsed time",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "none",
+   "applies_to": "the dried wet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 415,
+   "verified": true,
+   "quote": "it said how long she had hung open",
+   "picture": "speaking",
+   "feeling": "evidence of time",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the tacky nipple",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 415,
+   "verified": true,
+   "quote": "the tacky one told her how long she had been here",
+   "picture": "telling",
+   "feeling": "evidence of time",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the nipple",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 417,
+   "verified": true,
+   "quote": "he ran her up again, higher than before",
+   "picture": "climb",
+   "feeling": "arousal building",
+   "vehicles": [
+    "height"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 417,
+   "verified": true,
+   "quote": "past pride",
+   "picture": "going past a point",
+   "feeling": "abandoning dignity",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 419,
+   "verified": true,
+   "quote": "the burn poured inward to meet his fingers",
+   "picture": "poured liquid",
+   "feeling": "spreading heat",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the burn",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 419,
+   "verified": true,
+   "quote": "her whole body bucked open against the supports",
+   "picture": "a bucking horse",
+   "feeling": "violent arching",
+   "vehicles": [
+    "horse"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 423,
+   "verified": true,
+   "quote": "holding on by that one thread",
+   "picture": "a thread",
+   "feeling": "fragile hold",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 423,
+   "verified": true,
+   "quote": "And the thread was gone.",
+   "picture": "a snapped thread",
+   "feeling": "losing control",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 427,
+   "verified": true,
+   "quote": "knocked her loose of it",
+   "picture": "knocking free",
+   "feeling": "rhythm lost",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 429,
+   "verified": true,
+   "quote": "a hand she could not see and could not get ahead of",
+   "picture": "a race",
+   "feeling": "unpredictability",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 429,
+   "verified": true,
+   "quote": "jolted and flooded and stroked",
+   "picture": "flood",
+   "feeling": "overwhelmed",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 431,
+   "verified": true,
+   "quote": "had smeared away to nothing",
+   "picture": "smear",
+   "feeling": "vision blurring",
+   "vehicles": [
+    "smear"
+   ],
+   "sensation": "none",
+   "applies_to": "the feet",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 431,
+   "verified": true,
+   "quote": "Blind too, then. Beatless and open.",
+   "picture": "blindness",
+   "feeling": "disorientation",
+   "vehicles": [],
+   "sensation": "darkness or shadow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 433,
+   "verified": true,
+   "quote": "she went down into her body and stayed there",
+   "picture": "descent",
+   "feeling": "embodied surrender",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "she reached back up the slope after it",
+   "picture": "slope",
+   "feeling": "striving toward climax",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "her arms by now were burning past the place where the burning meant anything",
+   "picture": "burning",
+   "feeling": "muscle exhaustion",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's arms",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "the strength simply went out of them",
+   "picture": "liquid draining",
+   "feeling": "strength failing",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's arms",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "her body took the choice from her",
+   "picture": "taking an object",
+   "feeling": "loss of agency",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "it emptied too",
+   "picture": "emptying vessel",
+   "feeling": "exhaustion",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's arm",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "her hips sank forward off his hand",
+   "picture": "sinking",
+   "feeling": "giving way",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 435,
+   "verified": true,
+   "quote": "the muscles she was screaming at to push",
+   "picture": "screaming at",
+   "feeling": "desperate urging",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 437,
+   "verified": true,
+   "quote": "The bright pressed point of her went dark all at once",
+   "picture": "a light switched off",
+   "feeling": "sensation abruptly lost",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 437,
+   "verified": true,
+   "quote": "the old empty clench on nothing",
+   "picture": "a fist",
+   "feeling": "hollow ache",
+   "vehicles": [
+    "fist"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 437,
+   "verified": true,
+   "quote": "thinning and thinning back down",
+   "picture": "thinning",
+   "feeling": "fading fullness",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the ache",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 439,
+   "verified": true,
+   "quote": "the dark where the bright point had been",
+   "picture": "darkness",
+   "feeling": "sensation lost",
+   "vehicles": [
+    "dark"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 439,
+   "verified": true,
+   "quote": "the want still up and roaring",
+   "picture": "roaring fire or beast",
+   "feeling": "raging desire",
+   "vehicles": [
+    "beast"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's want",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 439,
+   "verified": true,
+   "quote": "with nothing laid against it",
+   "picture": "nothing placed against",
+   "feeling": "unanswered need",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's want",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 439,
+   "verified": true,
+   "quote": "the long unmeetable present",
+   "picture": "unmeetable distance",
+   "feeling": "unfulfillable need",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 441,
+   "verified": true,
+   "quote": "so wet and so open that it could no longer hold what it held",
+   "picture": "overfull vessel",
+   "feeling": "overflowing",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "a fine shining string the lamp turned to crystal",
+   "picture": "crystal string",
+   "feeling": "glistening thread",
+   "vehicles": [
+    "string",
+    "crystal"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "paid out on the air",
+   "picture": "paying out a line",
+   "feeling": "lengthening thread",
+   "vehicles": [
+    "rope"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "dancing on its thread",
+   "picture": "dancer on a string",
+   "feeling": "trembling drop",
+   "vehicles": [
+    "dancer",
+    "thread"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "her own excess made a jewel in the light",
+   "picture": "a jewel",
+   "feeling": "glittering exposure",
+   "vehicles": [
+    "jewel"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "mocking her",
+   "picture": "a mocker",
+   "feeling": "humiliation",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 443,
+   "verified": true,
+   "quote": "bright and alive and obscene",
+   "picture": "a living thing",
+   "feeling": "vivid exposure",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "the drop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 445,
+   "verified": true,
+   "quote": "faster than the shame could close over each one",
+   "picture": "water closing over",
+   "feeling": "shame overwhelmed",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 445,
+   "verified": true,
+   "quote": "fallen out of her now on its own",
+   "picture": "falling out",
+   "feeling": "involuntary release",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 453,
+   "verified": true,
+   "quote": "the hand thrown out to hold the thing at arm's length",
+   "picture": "arm's length",
+   "feeling": "denial",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 453,
+   "verified": true,
+   "quote": "it did not reach her mouth",
+   "picture": "traveling to mouth",
+   "feeling": "denial not voiced",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the reflex",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 453,
+   "verified": true,
+   "quote": "the saying-nothing was the truest thing her body had done all night",
+   "picture": "speech by silence",
+   "feeling": "honest surrender",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 457,
+   "verified": true,
+   "quote": "gathered her up out of the falling",
+   "picture": "gathering from a fall",
+   "feeling": "rescue",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 457,
+   "verified": true,
+   "quote": "it brings her up the long rise, it lifts away at the top and leaves her there",
+   "picture": "a rise",
+   "feeling": "pattern of denial",
+   "vehicles": [
+    "hill"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Pace's pattern",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 457,
+   "verified": true,
+   "quote": "She braced for it with no strength to meet it.",
+   "picture": "bracing for a blow",
+   "feeling": "anticipating denial",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 459,
+   "verified": true,
+   "quote": "the gentleness laid against the sore of her",
+   "picture": "a salve",
+   "feeling": "soothing",
+   "vehicles": [
+    "salve"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "gentleness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 459,
+   "verified": true,
+   "quote": "it did not fit the lesson",
+   "picture": "a puzzle piece",
+   "feeling": "mismatch",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "none",
+   "applies_to": "the kiss",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 459,
+   "verified": true,
+   "quote": "the dread turned over and became another dread",
+   "picture": "turning over",
+   "feeling": "shifting fear",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 459,
+   "verified": true,
+   "quote": "her mind came up out of her body",
+   "picture": "rising out",
+   "feeling": "mind surfacing",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 459,
+   "verified": true,
+   "quote": "where the red had come up hot in the cheek of her",
+   "picture": "rising color",
+   "feeling": "flushed cheek",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 461,
+   "verified": true,
+   "quote": "every fraction of the way back was its own long age to her",
+   "picture": "an age",
+   "feeling": "time stretched",
+   "vehicles": [
+    "age"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 461,
+   "verified": true,
+   "quote": "the need so far out ahead of his hand",
+   "picture": "a race",
+   "feeling": "desire outpacing touch",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's need",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 461,
+   "verified": true,
+   "quote": "one long unwinding sound",
+   "picture": "unwinding coil",
+   "feeling": "release",
+   "vehicles": [
+    "coil"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 461,
+   "verified": true,
+   "quote": "like the close of a sentence",
+   "picture": "a sentence's end",
+   "feeling": "finality",
+   "vehicles": [
+    "sentence"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's thumb",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 463,
+   "verified": true,
+   "quote": "he took her up the last of the slope and over",
+   "picture": "a slope",
+   "feeling": "orgasm",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 463,
+   "verified": true,
+   "quote": "over the top",
+   "picture": "summit",
+   "feeling": "climax",
+   "vehicles": [
+    "summit"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "And the surface broke.",
+   "picture": "shattered surface",
+   "feeling": "composure shattering",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "The whole careful architecture of her",
+   "picture": "a building",
+   "feeling": "constructed composure",
+   "vehicles": [
+    "architecture"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "the costume of not-wanting",
+   "picture": "a costume",
+   "feeling": "performed indifference",
+   "vehicles": [
+    "costume"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "the way a dropped plate goes on a stone floor",
+   "picture": "a dropped plate",
+   "feeling": "total shattering",
+   "vehicles": [
+    "plate",
+    "floor"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's composure",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "into pieces too small and too many to gather",
+   "picture": "shards",
+   "feeling": "irreparable",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's composure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "she came up whole out of the middle of it",
+   "picture": "emerging from water",
+   "feeling": "renewal",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 465,
+   "verified": true,
+   "quote": "alive in the ringing wreck of everything she had used to hide",
+   "picture": "a wreck, a ringing bell",
+   "feeling": "alive amid ruin",
+   "vehicles": [
+    "wreck",
+    "bell"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "the shards of it still ringing",
+   "picture": "ringing glass",
+   "feeling": "aftershock",
+   "vehicles": [
+    "shard"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the orgasm",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "not in one clean arc but in waves that did not match",
+   "picture": "waves",
+   "feeling": "uneven orgasm",
+   "vehicles": [
+    "arc",
+    "wave"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the orgasm",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "a great shudder rolling up the whole length of her",
+   "picture": "rolling wave",
+   "feeling": "orgasm",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "every careful thing she was dying at once under his hand",
+   "picture": "dying",
+   "feeling": "old self dissolving",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "fed by it, wrung and soaked and undone",
+   "picture": "wrung cloth, fed body",
+   "feeling": "spent nourished",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 467,
+   "verified": true,
+   "quote": "The blood was thick in her head",
+   "picture": "thick liquid",
+   "feeling": "pressure",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "breathed in great ragged pulls",
+   "picture": "pulling rope",
+   "feeling": "labored breath",
+   "vehicles": [
+    "rope"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "his voice was full of something close to awe",
+   "picture": "a filled vessel",
+   "feeling": "reverence",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "the warm weight of it the only fixed thing in the world",
+   "picture": "anchor",
+   "feeling": "grounding",
+   "vehicles": [
+    "anchor"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's hand",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "she came, slowly, all the way back",
+   "picture": "return journey",
+   "feeling": "returning to awareness",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "I've got you.",
+   "picture": "holding",
+   "feeling": "reassurance",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 471,
+   "verified": true,
+   "quote": "her whole body loose and emptied",
+   "picture": "emptied vessel",
+   "feeling": "spent",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "while the room found its level again",
+   "picture": "water finding level",
+   "feeling": "dizziness settling",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "pooled the blood in her head and her hands",
+   "picture": "pooling liquid",
+   "feeling": "blood rush",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "slow and dizzy and wrung",
+   "picture": "wrung cloth",
+   "feeling": "exhausted",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "Her legs would not answer",
+   "picture": "unresponsive servant",
+   "feeling": "weak legs",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's legs",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "the long tilt had pooled the blood in her head and her hands",
+   "picture": "a pooling liquid",
+   "feeling": "blood gathered, heavy and slow",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "she came up off the leather slow and dizzy and wrung",
+   "picture": "wrung cloth",
+   "feeling": "wrung out, depleted",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 475,
+   "verified": true,
+   "quote": "She was leaking still, down the inside of one thigh, and past minding it.",
+   "picture": "a leaking vessel",
+   "feeling": "spent, unguarded",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 477,
+   "verified": true,
+   "quote": "left to come back by herself",
+   "picture": "returning from a distance",
+   "feeling": "recovering alone",
+   "vehicles": [
+    "journey"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 477,
+   "verified": true,
+   "quote": "after where he had just taken her",
+   "picture": "a place travelled to",
+   "feeling": "carried to extremity",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 477,
+   "verified": true,
+   "quote": "all of him still held and given over to her this whole last hour",
+   "picture": "an object handed over",
+   "feeling": "his attention devoted to her",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 477,
+   "verified": true,
+   "quote": "she turned into him",
+   "picture": "turning toward shelter",
+   "feeling": "seeking closeness",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 479,
+   "verified": true,
+   "quote": "Her voice was a ruin.",
+   "picture": "a ruin",
+   "feeling": "wrecked voice",
+   "vehicles": [
+    "ruin"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 481,
+   "verified": true,
+   "quote": "the understanding broke something open in her chest",
+   "picture": "a breaking container",
+   "feeling": "emotional opening",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 481,
+   "verified": true,
+   "quote": "she would not be talked out of it",
+   "picture": "being moved out",
+   "feeling": "resolve",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 481,
+   "verified": true,
+   "quote": "held back behind all that patience",
+   "picture": "restraint behind a barrier",
+   "feeling": "restraint",
+   "vehicles": [
+    "barrier"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 481,
+   "verified": true,
+   "quote": "a thing she had that the whole long hour had not used, the giving-back",
+   "picture": "an unspent tool or currency",
+   "feeling": "unspent capacity to give",
+   "vehicles": [
+    "tool"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 481,
+   "verified": true,
+   "quote": "the understanding broke something open in her chest that the orgasms had not reached",
+   "picture": "a container cracked open",
+   "feeling": "emotional breaking open",
+   "vehicles": [
+    "chest",
+    "container"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "laid out and arranged and pointed and opened by his hands",
+   "picture": "an object arranged",
+   "feeling": "being positioned",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "watched the patience finally go out of it",
+   "picture": "leaving",
+   "feeling": "restraint giving way",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's face",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "the thing she had never once seen him lose begin, under her, to come loose",
+   "picture": "a loosening knot",
+   "feeling": "control slipping",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "her own knees bracketing his hips",
+   "picture": "brackets",
+   "feeling": "enclosing him",
+   "vehicles": [
+    "bracket"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "the spent and soaked and wide-open center of herself",
+   "picture": "a core",
+   "feeling": "her innermost self",
+   "vehicles": [
+    "center"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 485,
+   "verified": true,
+   "quote": "they directed nothing, only held on",
+   "picture": "holding on to a rail",
+   "feeling": "clinging",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's hands",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "given out, wrung empty",
+   "picture": "wrung cloth emptied",
+   "feeling": "utterly spent",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "no fourth wave",
+   "picture": "sea waves",
+   "feeling": "orgasm as recurring surge",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "the warm used ache of having already been taken everywhere she could be taken",
+   "picture": "territory traversed",
+   "feeling": "thoroughly spent",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "her whole attention turned down out of herself and into his face",
+   "picture": "attention poured or aimed",
+   "feeling": "focus on him",
+   "vehicles": [
+    "beam"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "the crack widening in it",
+   "picture": "a widening crack",
+   "feeling": "composure breaking",
+   "vehicles": [
+    "crack"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "A man undone by the hour he had spent not being undone",
+   "picture": "unravelling thread",
+   "feeling": "losing control",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "the woman who had bloomed open under his hands",
+   "picture": "a flower blooming",
+   "feeling": "opening up",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "the thing break loose in him",
+   "picture": "something breaking free",
+   "feeling": "release of climax",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "the one unguarded thing he had handed her all night",
+   "picture": "a gift handed over",
+   "feeling": "his vulnerability given",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 487,
+   "verified": true,
+   "quote": "took it, watched it, kept her eyes on him for it, the way he had kept his on her",
+   "picture": "receiving a gift",
+   "feeling": "receiving his release",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 489,
+   "verified": true,
+   "quote": "did not want a room with a lock on the door",
+   "picture": "a locked room",
+   "feeling": "not wanting retreat",
+   "vehicles": [
+    "lock",
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 489,
+   "verified": true,
+   "quote": "let the even heat of the room close over them both",
+   "picture": "water closing over",
+   "feeling": "enveloped, submerged",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 491,
+   "verified": true,
+   "quote": "heavier than she had ever let herself be",
+   "picture": "weight",
+   "feeling": "letting go of self-containment",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 491,
+   "verified": true,
+   "quote": "his heart going under her, slowing, and her own slowing to meet it",
+   "picture": "two travelers meeting",
+   "feeling": "heartbeats syncing",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 491,
+   "verified": true,
+   "quote": "the two of them not undone from each other",
+   "picture": "knot not untied",
+   "feeling": "joined together",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee and Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 491,
+   "verified": true,
+   "quote": "the room went soft and far",
+   "picture": "fading distance",
+   "feeling": "drifting into sleep",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 491,
+   "verified": true,
+   "quote": "she went down into sleep on top of him and did not surface",
+   "picture": "deep water",
+   "feeling": "sinking into sleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "vee-on-the-bench",
+   "line": 433,
+   "verified": false,
+   "quote": "the watching part of her ... let go, finally, all the way, and dropped",
+   "picture": "a falling weight",
+   "feeling": "surrender",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

@@ -1,0 +1,2671 @@
+{
+ "slug": "covering",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "07f368d7b25a",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "covering",
+   "line": 5,
+   "verified": true,
+   "quote": "like everything from the after-Christmas sales",
+   "picture": "sale-rack goods",
+   "feeling": "pretty but impractical",
+   "vehicles": [
+    "sale"
+   ],
+   "sensation": "none",
+   "applies_to": "the bra",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 5,
+   "verified": true,
+   "quote": "doing a better job of showing her breasts off than of controlling them",
+   "picture": "a worker on the job",
+   "feeling": "bra failing at its task",
+   "vehicles": [
+    "job"
+   ],
+   "sensation": "none",
+   "applies_to": "the bra",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 5,
+   "verified": true,
+   "quote": "as if someone had painted them wet",
+   "picture": "wet paint bleeding",
+   "feeling": "soft blurred edges",
+   "vehicles": [
+    "paint"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "the blue flowers",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 5,
+   "verified": true,
+   "quote": "The cream wrap blouse had won in the end",
+   "picture": "a contest won",
+   "feeling": "choice settled after struggle",
+   "vehicles": [
+    "contest"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the blouse",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "She was running on a deficit of their hugs",
+   "picture": "a financial deficit",
+   "feeling": "lack of affection",
+   "vehicles": [
+    "deficit"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "the loss accumulated over the small weeks of break",
+   "picture": "accumulating debt",
+   "feeling": "deprivation building",
+   "vehicles": [
+    "debt"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "the small weeks of break that had dripped by",
+   "picture": "slow dripping water",
+   "feeling": "slow-passing time",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the break",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "paid against just once, and she'd cried through that one",
+   "picture": "paying down a debt",
+   "feeling": "partial relief of lack",
+   "vehicles": [
+    "payment"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "gossip besides that wouldn't keep until dinner",
+   "picture": "perishable food",
+   "feeling": "urgent to tell",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the gossip",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "Students funneled past her in ones and twos",
+   "picture": "liquid through a funnel",
+   "feeling": "crowd flowing through",
+   "vehicles": [
+    "funnel"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the students",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 9,
+   "verified": true,
+   "quote": "she gave up the door",
+   "picture": "surrendering a post",
+   "feeling": "abandoning the watch",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 11,
+   "verified": true,
+   "quote": "her coat folded over the chair beside her like a reserved sign",
+   "picture": "a reserved sign",
+   "feeling": "seat held",
+   "vehicles": [
+    "sign"
+   ],
+   "sensation": "none",
+   "applies_to": "the coat",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 11,
+   "verified": true,
+   "quote": "the one that had gone along to say sorry and had worked",
+   "picture": "an envoy that succeeded",
+   "feeling": "scarf as apology",
+   "vehicles": [
+    "envoy"
+   ],
+   "sensation": "none",
+   "applies_to": "the scarf",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 11,
+   "verified": true,
+   "quote": "the smile that came was the one that came before anything was arranged on it",
+   "picture": "a face arranged like a set",
+   "feeling": "unguarded genuine smile",
+   "vehicles": [
+    "arrangement"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 13,
+   "verified": true,
+   "quote": "dropped into the held seat",
+   "picture": "a held reservation",
+   "feeling": "seat saved",
+   "vehicles": [
+    "seat"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 15,
+   "verified": true,
+   "quote": "built like a marathon",
+   "picture": "a marathon",
+   "feeling": "long spare endurance",
+   "vehicles": [
+    "marathon"
+   ],
+   "sensation": "none",
+   "applies_to": "Dr. Marsh",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 15,
+   "verified": true,
+   "quote": "nothing carried that wasn't needed",
+   "picture": "a traveler's pack",
+   "feeling": "efficient leanness",
+   "vehicles": [
+    "pack"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Dr. Marsh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 15,
+   "verified": true,
+   "quote": "a hike that had been out of style for half a generation",
+   "picture": "a fashion",
+   "feeling": "outdated outfit",
+   "vehicles": [
+    "hike",
+    "style"
+   ],
+   "sensation": "none",
+   "applies_to": "Dr. Marsh's clothes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 15,
+   "verified": true,
+   "quote": "boots that had seen actual ground",
+   "picture": "eyes that have seen",
+   "feeling": "well-used boots",
+   "vehicles": [
+    "boot",
+    "ground"
+   ],
+   "sensation": "none",
+   "applies_to": "the boots",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 15,
+   "verified": true,
+   "quote": "she moved like a woman with somewhere better to be who had decided this was it",
+   "picture": "a person in transit",
+   "feeling": "purposeful brisk energy",
+   "vehicles": [
+    "woman"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Dr. Marsh",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 21,
+   "verified": true,
+   "quote": "the hau wants to go home",
+   "picture": "a homing creature",
+   "feeling": "gift's spirit returning",
+   "vehicles": [
+    "home"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the gift",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 21,
+   "verified": true,
+   "quote": "The thing you were given is inhabited, and it pulls back toward its giver",
+   "picture": "a haunted house, tethered",
+   "feeling": "gift bound to giver",
+   "vehicles": [
+    "house",
+    "tether"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the gift",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "You're free to file that under mysticism.",
+   "picture": "filing cabinet",
+   "feeling": "dismissing as category",
+   "vehicles": [
+    "file"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the students",
+   "pov": "Dr. Marsh",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "feels like she's selling a person",
+   "picture": "selling a person",
+   "feeling": "object equals the owner",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the wedding ring",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "There's no reasoning to it you could put on a page.",
+   "picture": "writing on a page",
+   "feeling": "unformalizable",
+   "vehicles": [
+    "page"
+   ],
+   "sensation": "none",
+   "applies_to": "the reasoning",
+   "pov": "Dr. Marsh",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "And you're held anyway.",
+   "picture": "physical restraint",
+   "feeling": "bound by obligation",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "the students",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "Something is riding inside the object.",
+   "picture": "a rider or passenger",
+   "feeling": "hidden presence in gift",
+   "vehicles": [
+    "rider",
+    "object"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the gift",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "taking a kind of attendance",
+   "picture": "roll call",
+   "feeling": "surveying the room",
+   "vehicles": [
+    "attendance"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Dr. Marsh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 23,
+   "verified": true,
+   "quote": "as if the lecture were a trailhead",
+   "picture": "a trailhead",
+   "feeling": "eager start of journey",
+   "vehicles": [
+    "trailhead"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the lecture",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 25,
+   "verified": true,
+   "quote": "had come in braced for a syllabus voice",
+   "picture": "bracing for impact",
+   "feeling": "expecting dullness",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 25,
+   "verified": true,
+   "quote": "Beside her Randi's pen moved and stopped and moved.",
+   "picture": "a walking creature",
+   "feeling": "intermittent note-taking",
+   "vehicles": [
+    "pen"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's pen",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 27,
+   "verified": true,
+   "quote": "stretching itself a little above student budgets",
+   "picture": "stretching upward",
+   "feeling": "reaching beyond means",
+   "vehicles": [
+    "budget"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the restaurant",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 27,
+   "verified": true,
+   "quote": "Where the newness could have felt off-putting, it felt instead ready.",
+   "picture": "a person readied",
+   "feeling": "welcoming newness",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "the restaurant",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 27,
+   "verified": true,
+   "quote": "The narrow old building made the most of itself",
+   "picture": "a person making the most",
+   "feeling": "building using space well",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the building",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 27,
+   "verified": true,
+   "quote": "It was playing something with an accordion in it, quietly, to nobody.",
+   "picture": "performing to an audience",
+   "feeling": "lonely music",
+   "vehicles": [
+    "audience"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the jukebox",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 31,
+   "verified": true,
+   "quote": "the neckline went further south than any note-taking required",
+   "picture": "travel southward",
+   "feeling": "daring neckline",
+   "vehicles": [
+    "south"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the blouse",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 31,
+   "verified": true,
+   "quote": "the only thing on her tonight doing any controlling",
+   "picture": "a controlling agent",
+   "feeling": "knot as only restraint",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "the knot",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 35,
+   "verified": true,
+   "quote": "That's a neckline with somewhere to be.",
+   "picture": "a person with an appointment",
+   "feeling": "neckline meant for occasion",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the neckline",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 39,
+   "verified": true,
+   "quote": "the green and gold riding above it all in her black hair",
+   "picture": "a rider on top",
+   "feeling": "scarf sitting atop",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the scarf",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 39,
+   "verified": true,
+   "quote": "none of it asking to be noticed",
+   "picture": "a person asking",
+   "feeling": "understated clothing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's clothes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 39,
+   "verified": true,
+   "quote": "with the look of a woman owed a story",
+   "picture": "a creditor owed a debt",
+   "feeling": "entitled expectation",
+   "vehicles": [
+    "debt"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 41,
+   "verified": true,
+   "quote": "That text nearly killed me",
+   "picture": "death",
+   "feeling": "extreme suspense",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "the text",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 43,
+   "verified": true,
+   "quote": "the wall was in the plan",
+   "picture": "a wall",
+   "feeling": "pace's defenses",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 47,
+   "verified": true,
+   "quote": "And the wall came down. All of it, all at once — you could watch it go.",
+   "picture": "a collapsing wall",
+   "feeling": "defenses collapsing",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 51,
+   "verified": true,
+   "quote": "it bought her a Hmm",
+   "picture": "a purchase",
+   "feeling": "meager payoff",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's line",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 51,
+   "verified": true,
+   "quote": "Vee's smile stayed up. It just stopped being attached to anything.",
+   "picture": "a detached fixture",
+   "feeling": "hollow smile",
+   "vehicles": [
+    "fixture"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's smile",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 53,
+   "verified": true,
+   "quote": "that middle ground between collarbone and breast",
+   "picture": "territory",
+   "feeling": "in-between spot",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's chest",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 55,
+   "verified": true,
+   "quote": "warm as a verdict",
+   "picture": "a verdict",
+   "feeling": "warm final judgment",
+   "vehicles": [
+    "verdict"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's voice",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 57,
+   "verified": true,
+   "quote": "there was no bringing that to this table",
+   "picture": "carrying goods to table",
+   "feeling": "topic excluded",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the fight",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 57,
+   "verified": true,
+   "quote": "What she wanted to give her was midnight.",
+   "picture": "a gift",
+   "feeling": "sharing the moment",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 59,
+   "verified": true,
+   "quote": "the kitchen was arriving whole",
+   "picture": "something arriving intact",
+   "feeling": "vivid recollection",
+   "vehicles": [
+    "kitchen"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's memory",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 61,
+   "verified": true,
+   "quote": "Saying it lit her face from underneath",
+   "picture": "a lamp lit from below",
+   "feeling": "face flushing with glow",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 61,
+   "verified": true,
+   "quote": "she felt the heat arrive",
+   "picture": "arrival",
+   "feeling": "blush rising",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 61,
+   "verified": true,
+   "quote": "His voice didn't make it all the way through the sentence.",
+   "picture": "a failed journey",
+   "feeling": "voice breaking with emotion",
+   "vehicles": [
+    "journey"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 71,
+   "verified": true,
+   "quote": "the evening legitimate and paid for",
+   "picture": "a bought, licensed thing",
+   "feeling": "evening sanctioned, earned",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the evening",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 71,
+   "verified": true,
+   "quote": "class letting them out into the cold",
+   "picture": "a keeper releasing",
+   "feeling": "release from class",
+   "vehicles": [
+    "cold"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "class",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 73,
+   "verified": true,
+   "quote": "It's cheating. It ought to be illegal.",
+   "picture": "crime/foul play",
+   "feeling": "kneeling is overpowering",
+   "vehicles": [
+    "law"
+   ],
+   "sensation": "none",
+   "applies_to": "the kneeling",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 77,
+   "verified": true,
+   "quote": "we were trying the whole thing on",
+   "picture": "trying on clothes",
+   "feeling": "experimenting with lifestyle",
+   "vehicles": [
+    "clothes"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's family",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 77,
+   "verified": true,
+   "quote": "very costume drama",
+   "picture": "period drama",
+   "feeling": "quaint romance",
+   "vehicles": [
+    "costume drama"
+   ],
+   "sensation": "none",
+   "applies_to": "the flirtation",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 89,
+   "verified": true,
+   "quote": "A bed with guest parking.",
+   "picture": "a car lot",
+   "feeling": "huge bed",
+   "vehicles": [
+    "parking"
+   ],
+   "sensation": "none",
+   "applies_to": "the bed",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 89,
+   "verified": true,
+   "quote": "my room had a bed I'd have had to fold him in half to use",
+   "picture": "folding something",
+   "feeling": "tiny bed",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the bed",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 89,
+   "verified": true,
+   "quote": "I floated around the rest of the day",
+   "picture": "floating",
+   "feeling": "blissful lightness",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 93,
+   "verified": true,
+   "quote": "the shape of the story stood there for a second, ready to be laughed at",
+   "picture": "a figure standing waiting",
+   "feeling": "punchline poised",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 99,
+   "verified": true,
+   "quote": "the fun had gone out of the brightness somewhere, and Vee heard it go",
+   "picture": "something departing",
+   "feeling": "mood draining",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Randi's tone",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 105,
+   "verified": true,
+   "quote": "her voice had come down out of the story's key",
+   "picture": "musical key",
+   "feeling": "tone dropping to seriousness",
+   "vehicles": [
+    "key"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 105,
+   "verified": true,
+   "quote": "after a beat that had nothing bright in it",
+   "picture": "a beat of light",
+   "feeling": "dark pause",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 109,
+   "verified": true,
+   "quote": "The color was climbing her neck",
+   "picture": "climbing",
+   "feeling": "blush rising",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 115,
+   "verified": true,
+   "quote": "the accordion faint under everything",
+   "picture": "a layer beneath",
+   "feeling": "muted background music",
+   "vehicles": [
+    "accordion"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the loft",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 119,
+   "verified": true,
+   "quote": "One word, flat as a dropped card.",
+   "picture": "a dropped card",
+   "feeling": "flat, final",
+   "vehicles": [
+    "card"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's word",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 123,
+   "verified": true,
+   "quote": "smiled him back down",
+   "picture": "guiding with a smile",
+   "feeling": "dismissing server charmingly",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 123,
+   "verified": true,
+   "quote": "something warmer had come up in its place, aimed at Vee",
+   "picture": "a weapon or light aimed",
+   "feeling": "warmth turning to vee",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 127,
+   "verified": true,
+   "quote": "brought it back whole",
+   "picture": "retrieving an object",
+   "feeling": "memory fully restored",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the memory",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 127,
+   "verified": true,
+   "quote": "her throat closed on it now, one beat, without her permission",
+   "picture": "a door shutting",
+   "feeling": "emotion choking her",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 127,
+   "verified": true,
+   "quote": "the pride and the happiness all one thing",
+   "picture": "fused substance",
+   "feeling": "merged emotions",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 145,
+   "verified": true,
+   "quote": "her eyes had their wickedness back",
+   "picture": "a returned possession",
+   "feeling": "mischief returning",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 145,
+   "verified": true,
+   "quote": "Back up and tell me what really happened. And don't start at his door. That's not where a night like that starts.",
+   "picture": "a journey with a starting point",
+   "feeling": "asking for fuller account",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the story",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 147,
+   "verified": true,
+   "quote": "So Vee went back — all the way back, to her dorm room at seven o'clock",
+   "picture": "traveling back in time",
+   "feeling": "retelling from the start",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 149,
+   "verified": true,
+   "quote": "I shut the drawer on all of it. Every neat little row of everything that wasn't invited.",
+   "picture": "closing a drawer on things",
+   "feeling": "rejecting conventional dressing",
+   "vehicles": [
+    "drawer",
+    "row"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's underwear",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 149,
+   "verified": true,
+   "quote": "I catch myself — no.",
+   "picture": "catching a falling thing",
+   "feeling": "stopping a thought",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 163,
+   "verified": true,
+   "quote": "Stop, I'm dying.",
+   "picture": "death",
+   "feeling": "overwhelmed delight",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 165,
+   "verified": true,
+   "quote": "in a coat and two shoes that mean business",
+   "picture": "shoes with intent",
+   "feeling": "seriousness of purpose",
+   "vehicles": [
+    "business"
+   ],
+   "sensation": "tightening",
+   "applies_to": "the shoes",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 167,
+   "verified": true,
+   "quote": "the dark bloom on the pale satin",
+   "picture": "a flower blooming",
+   "feeling": "stain spreading",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "opening",
+   "applies_to": "the stain",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 171,
+   "verified": true,
+   "quote": "Randi's eyes were very dark and liquid",
+   "picture": "liquid pools",
+   "feeling": "aroused softness",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 173,
+   "verified": true,
+   "quote": "hoarse and low",
+   "picture": "a low register",
+   "feeling": "aroused voice",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 179,
+   "verified": true,
+   "quote": "every thought in my head was one word. Caught.",
+   "picture": "mind reduced to one word",
+   "feeling": "panic narrowing thought",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 179,
+   "verified": true,
+   "quote": "very ready — all over me",
+   "picture": "coating substance",
+   "feeling": "arousal covering her",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 183,
+   "verified": true,
+   "quote": "the scare didn't take one thing off it. It wound it tighter.",
+   "picture": "a wound spring",
+   "feeling": "arousal heightened by fear",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 183,
+   "verified": true,
+   "quote": "She let a breath out, the same one she'd let out on the gravel that night.",
+   "picture": "a recurring breath",
+   "feeling": "relief after strain",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 193,
+   "verified": true,
+   "quote": "And the wall came down.",
+   "picture": "a collapsing wall",
+   "feeling": "his resistance giving way",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 195,
+   "verified": true,
+   "quote": "The wall didn't just come down. It *crumbled*.",
+   "picture": "a crumbling wall",
+   "feeling": "complete collapse of restraint",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 195,
+   "verified": true,
+   "quote": "He looked at me like a starving man who'd just been told he's forgiven.",
+   "picture": "a starving, forgiven man",
+   "feeling": "hunger mixed with relief",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 199,
+   "verified": true,
+   "quote": "He took me over right there.",
+   "picture": "taking possession",
+   "feeling": "being overwhelmed by pleasure",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 209,
+   "verified": true,
+   "quote": "You'd make Mae West blush.",
+   "picture": "outshocking a famous siren",
+   "feeling": "extreme boldness",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 211,
+   "verified": true,
+   "quote": "like a woman banking a fire",
+   "picture": "banking a fire",
+   "feeling": "tending the warmth of the mood",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 213,
+   "verified": true,
+   "quote": "easier than it had any business being",
+   "picture": "a thing with business",
+   "feeling": "unexpected ease",
+   "vehicles": [
+    "business"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the telling",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 215,
+   "verified": true,
+   "quote": "He keeps that house toasty warm when I'm there",
+   "picture": "a warm house",
+   "feeling": "cosy design to undress her",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the house",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 215,
+   "verified": true,
+   "quote": "a woman kept naked in a man's house, his for the taking. A pleasure slave.",
+   "picture": "a slave",
+   "feeling": "possessed, kept sexually",
+   "vehicles": [
+    "slave"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 215,
+   "verified": true,
+   "quote": "She turned a palm up: exhibit A.",
+   "picture": "courtroom evidence",
+   "feeling": "presenting proof",
+   "vehicles": [
+    "exhibit"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 217,
+   "verified": true,
+   "quote": "It has a ring to it.",
+   "picture": "a ringing sound",
+   "feeling": "pleasing sound of a phrase",
+   "vehicles": [
+    "ring"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the phrase",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 219,
+   "verified": true,
+   "quote": "bare as the day I was born",
+   "picture": "birth",
+   "feeling": "complete nakedness",
+   "vehicles": [
+    "day"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 219,
+   "verified": true,
+   "quote": "*some slave.* If anybody in that house is a pleasure slave, it is not me.",
+   "picture": "a slave",
+   "feeling": "ironic reversal of servitude",
+   "vehicles": [
+    "slave"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 219,
+   "verified": true,
+   "quote": "a pleasure *princess.*",
+   "picture": "a princess",
+   "feeling": "being doted on",
+   "vehicles": [
+    "princess"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 219,
+   "verified": true,
+   "quote": "A woman a man keeps *in* pleasure.",
+   "picture": "pleasure as a container",
+   "feeling": "being kept in delight",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 219,
+   "verified": true,
+   "quote": "He brings me off first",
+   "picture": "bringing to a place",
+   "feeling": "orgasm",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 223,
+   "verified": true,
+   "quote": "That's going on your crown.",
+   "picture": "a crown",
+   "feeling": "title earned",
+   "vehicles": [
+    "crown"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 227,
+   "verified": true,
+   "quote": "the one that got all the way out before she could dress it",
+   "picture": "dressing a laugh",
+   "feeling": "unguarded laughter",
+   "vehicles": [
+    "clothing"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 227,
+   "verified": true,
+   "quote": "Vee ran on downhill into the breakfast",
+   "picture": "running downhill",
+   "feeling": "momentum in telling",
+   "vehicles": [
+    "hill"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 227,
+   "verified": true,
+   "quote": "the blood oranges peeled down to jewels",
+   "picture": "jewels",
+   "feeling": "glistening fruit",
+   "vehicles": [
+    "jewel"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the oranges",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 227,
+   "verified": true,
+   "quote": "making a project of being impossible not to look at",
+   "picture": "an undertaking",
+   "feeling": "deliberate display",
+   "vehicles": [
+    "project"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 227,
+   "verified": true,
+   "quote": "the first thread of smoke going up off the skillet",
+   "picture": "a thread",
+   "feeling": "burning beginning",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the smoke",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 233,
+   "verified": true,
+   "quote": "You were a public hazard.",
+   "picture": "a hazard",
+   "feeling": "danger of distraction",
+   "vehicles": [
+    "hazard"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 235,
+   "verified": true,
+   "quote": "he stepped on the end of my sentence",
+   "picture": "stepping on something",
+   "feeling": "interrupting quickly",
+   "vehicles": [
+    "sentence"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 235,
+   "verified": true,
+   "quote": "a long way from campus",
+   "picture": "distance",
+   "feeling": "far removed in mood",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 235,
+   "verified": true,
+   "quote": "the morning's whole education assembling itself again in the retelling",
+   "picture": "parts assembling",
+   "feeling": "lesson reconstituting",
+   "vehicles": [
+    "school"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the morning",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 237,
+   "verified": true,
+   "quote": "Paint it for me.",
+   "picture": "painting a picture",
+   "feeling": "asking for vivid description",
+   "vehicles": [
+    "paint"
+   ],
+   "sensation": "opening",
+   "applies_to": "the story",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 237,
+   "verified": true,
+   "quote": "Her eyes had their wickedness in them, patient.",
+   "picture": "a container of wickedness",
+   "feeling": "patient mischief",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 239,
+   "verified": true,
+   "quote": "I study the frosted plum like there is nothing else on my mind anywhere in the world",
+   "picture": "total absorption",
+   "feeling": "feigned obliviousness",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 239,
+   "verified": true,
+   "quote": "behind me the skillet goes quiet",
+   "picture": "a skillet falling silent",
+   "feeling": "attention turned on her",
+   "vehicles": [
+    "skillet"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the skillet",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 241,
+   "verified": true,
+   "quote": "Somewhere in the painting the heat had stopped being remembered and was simply there, low and insistent under the silk.",
+   "picture": "heat as a presence",
+   "feeling": "arousal returning in body",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 241,
+   "verified": true,
+   "quote": "Somewhere in the painting the heat had stopped being remembered and was simply there",
+   "picture": "memory turning present",
+   "feeling": "arousal becoming immediate",
+   "vehicles": [
+    "painting",
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 241,
+   "verified": true,
+   "quote": "low and insistent under the silk",
+   "picture": "pressing heat",
+   "feeling": "insistent arousal",
+   "vehicles": [
+    "silk"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the heat",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 253,
+   "verified": true,
+   "quote": "the part after breakfast was next, already arriving",
+   "picture": "an approaching visitor",
+   "feeling": "story approaching",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the story",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 255,
+   "verified": true,
+   "quote": "with her pulse in odd places",
+   "picture": "pulse traveling through body",
+   "feeling": "scattered arousal",
+   "vehicles": [
+    "pulse"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 259,
+   "verified": true,
+   "quote": "the same hard blue as every restroom light",
+   "picture": "hard material",
+   "feeling": "harsh clinical light",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the light",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 259,
+   "verified": true,
+   "quote": "a light that found everything and forgave none of it",
+   "picture": "a judge or searcher",
+   "feeling": "merciless exposure",
+   "vehicles": [
+    "judge"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the light",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 259,
+   "verified": true,
+   "quote": "she had stopped caring somewhere on the stairs",
+   "picture": "losing something on a journey",
+   "feeling": "inhibition dropping away",
+   "vehicles": [
+    "stair"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 259,
+   "verified": true,
+   "quote": "her body a full course ahead of her permission",
+   "picture": "a meal's course",
+   "feeling": "body outrunning consent",
+   "vehicles": [
+    "course",
+    "meal"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 259,
+   "verified": true,
+   "quote": "nothing to do about the shame of that but use it",
+   "picture": "shame as fuel/tool",
+   "feeling": "turning shame into arousal",
+   "vehicles": [
+    "tool"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "the small needy knot of herself",
+   "picture": "a knot",
+   "feeling": "concentrated need",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's clitoris",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "The weekend came with her hand",
+   "picture": "weekend arriving as company",
+   "feeling": "memory flooding in",
+   "vehicles": [
+    "weekend"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the weekend",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "the build came fast and mean",
+   "picture": "a building structure/creature",
+   "feeling": "rapid fierce climb",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "a whole hour of tablecloth underneath it",
+   "picture": "a foundation",
+   "feeling": "long teasing buildup",
+   "vehicles": [
+    "tablecloth"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the hour at table",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "Her breath went to pieces against the partition.",
+   "picture": "something shattering",
+   "feeling": "breath fragmenting",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "right where the drop began",
+   "picture": "a fall",
+   "feeling": "edge of orgasm",
+   "vehicles": [
+    "drop"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "Randi's face arrived behind her eyes",
+   "picture": "a visitor arriving",
+   "feeling": "vivid mental image",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "eyes dark and liquid",
+   "picture": "liquid",
+   "feeling": "soft heavy-lidded desire",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "the question changed as it asked itself, stopped being a question at all",
+   "picture": "a self-acting question",
+   "feeling": "question turning to assertion",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "Her hand ran on.",
+   "picture": "running",
+   "feeling": "hand continuing",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "Vee went over hard",
+   "picture": "going over an edge",
+   "feeling": "orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 261,
+   "verified": true,
+   "quote": "the cry swallowed down to one long breath through her nose",
+   "picture": "swallowing",
+   "feeling": "suppressed cry",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 263,
+   "verified": true,
+   "quote": "the last pulses walking themselves out under her fingers",
+   "picture": "walking away",
+   "feeling": "orgasm ebbing",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the pulses",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 263,
+   "verified": true,
+   "quote": "letting her ears clear",
+   "picture": "clearing",
+   "feeling": "senses returning",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 265,
+   "verified": true,
+   "quote": "put herself back together",
+   "picture": "reassembling",
+   "feeling": "recomposing herself",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 265,
+   "verified": true,
+   "quote": "promised the girl in the mirror",
+   "picture": "mirror self as person",
+   "feeling": "talking to oneself",
+   "vehicles": [
+    "mirror"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 267,
+   "verified": true,
+   "quote": "the practiced apology of a place that would like to go home",
+   "picture": "a place with wishes",
+   "feeling": "restaurant closing politely",
+   "vehicles": [
+    "apology",
+    "home"
+   ],
+   "sensation": "none",
+   "applies_to": "the restaurant",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 267,
+   "verified": true,
+   "quote": "The loft had changed while she was gone.",
+   "picture": "a changing place",
+   "feeling": "altered atmosphere",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the loft",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 271,
+   "verified": true,
+   "quote": "Vee's whole face stopped.",
+   "picture": "a stopped machine",
+   "feeling": "freezing in shock",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 273,
+   "verified": true,
+   "quote": "The heat fell out of it all at once",
+   "picture": "something dropping out",
+   "feeling": "warmth draining away",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 273,
+   "verified": true,
+   "quote": "the loft tilted a degree and stayed there",
+   "picture": "a tilting floor",
+   "feeling": "disorienting shift",
+   "vehicles": [
+    "loft"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the loft",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 273,
+   "verified": true,
+   "quote": "It arrived the way the blue lights had — whole, certain, out of nowhere",
+   "picture": "sudden arrival of light",
+   "feeling": "sudden certainty",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the realization",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 273,
+   "verified": true,
+   "quote": "a woman who could read her through a floor",
+   "picture": "reading through a barrier",
+   "feeling": "uncanny perception",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 275,
+   "verified": true,
+   "quote": "pleasant as a hostess",
+   "picture": "a hostess",
+   "feeling": "polite composure",
+   "vehicles": [
+    "hostess"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 275,
+   "verified": true,
+   "quote": "He took care of you, but good.",
+   "picture": "taking care",
+   "feeling": "sexual satisfaction euphemism",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 277,
+   "verified": true,
+   "quote": "The floor came back under her one board at a time.",
+   "picture": "floor returning",
+   "feeling": "slow regaining of footing",
+   "vehicles": [
+    "floor",
+    "board"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 281,
+   "verified": true,
+   "quote": "They had shut the place down",
+   "picture": "shutting a machine",
+   "feeling": "staying until closing",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee and Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 281,
+   "verified": true,
+   "quote": "its green water still climbing its pipes for nobody",
+   "picture": "climbing water",
+   "feeling": "lonely purposeless motion",
+   "vehicles": [
+    "pipe",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the jukebox",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 281,
+   "verified": true,
+   "quote": "cold that took the breath and gave it back sharpened",
+   "picture": "thief returning blade",
+   "feeling": "sharp cold shock",
+   "vehicles": [
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the cold",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 283,
+   "verified": true,
+   "quote": "it stood there between them anyway, settled, a done thing nobody had ever decided",
+   "picture": "a standing figure",
+   "feeling": "unspoken fixed routine",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the Tuesday-Thursday routine",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 285,
+   "verified": true,
+   "quote": "like a present she was allowed to shake",
+   "picture": "a wrapped present",
+   "feeling": "playful anticipation",
+   "vehicles": [
+    "present"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "tomorrow",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 285,
+   "verified": true,
+   "quote": "You're gone for that boy.",
+   "picture": "being gone",
+   "feeling": "smitten",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 285,
+   "verified": true,
+   "quote": "Vee glowed",
+   "picture": "a glowing light",
+   "feeling": "pleased warmth",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 287,
+   "verified": true,
+   "quote": "the small drawing-back and then the second press with its little more in it",
+   "picture": "container holding more",
+   "feeling": "lingering tender kiss",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 287,
+   "verified": true,
+   "quote": "the bitter-orange of her rising off her collar",
+   "picture": "rising scent/vapor",
+   "feeling": "warm intimate scent",
+   "vehicles": [
+    "collar"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi's perfume",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 287,
+   "verified": true,
+   "quote": "warm in the cold",
+   "picture": "shelter",
+   "feeling": "cozy closeness",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the hug",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "covering",
+   "line": 297,
+   "verified": true,
+   "quote": "don't you dare weaponize that",
+   "picture": "a weapon",
+   "feeling": "playful warning",
+   "vehicles": [
+    "weapon"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "ticklishness",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 297,
+   "verified": true,
+   "quote": "turned her loose",
+   "picture": "releasing a held creature",
+   "feeling": "letting go",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "with the evening loose and warm in her still",
+   "picture": "liquid warmth in body",
+   "feeling": "lingering relaxed pleasure",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the evening",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "arriving in its own time, the small flat fact",
+   "picture": "arriving visitor; flat object",
+   "feeling": "slow-dawning realization",
+   "vehicles": [
+    "fact"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the realization",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "the closing had gotten her out of it",
+   "picture": "rescue from a trap",
+   "feeling": "reprieve",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "It had been in her mouth.",
+   "picture": "words held in the mouth",
+   "feeling": "on the verge of saying",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the story",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "a little unweighable stone of relief",
+   "picture": "a stone",
+   "feeling": "small heavy relief",
+   "vehicles": [
+    "stone"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's relief",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "covering",
+   "line": 303,
+   "verified": true,
+   "quote": "a kiss that had gone sideways",
+   "picture": "movement off course",
+   "feeling": "awkward mishap",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  }
+ ]
+}

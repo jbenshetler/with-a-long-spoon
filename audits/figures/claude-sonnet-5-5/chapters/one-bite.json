@@ -1,0 +1,1980 @@
+{
+ "slug": "one-bite",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "e646e57bf55e",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "one-bite",
+   "line": 3,
+   "verified": true,
+   "quote": "The morning had teeth in it",
+   "picture": "a biting animal",
+   "feeling": "sharp cold of morning",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the morning",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 3,
+   "verified": true,
+   "quote": "the bistro took her all at once",
+   "picture": "a seizing embrace",
+   "feeling": "room overwhelming her senses",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "the bistro",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 3,
+   "verified": true,
+   "quote": "There was no velvet here, nothing to drink the noise.",
+   "picture": "cloth absorbing sound",
+   "feeling": "noise unmuffled",
+   "vehicles": [
+    "velvet"
+   ],
+   "sensation": "none",
+   "applies_to": "the bistro",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 3,
+   "verified": true,
+   "quote": "the late morning came through the white muntins and lay over the cloths and the people",
+   "picture": "light as a visitor lying down",
+   "feeling": "sunlight settling over room",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the morning light",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 5,
+   "verified": true,
+   "quote": "the girl's face cleared",
+   "picture": "sky clearing",
+   "feeling": "sudden understanding",
+   "vehicles": [
+    "sky"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the hostess",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 5,
+   "verified": true,
+   "quote": "a half-step behind the morning",
+   "picture": "following a leader",
+   "feeling": "trailing the day's brightness",
+   "vehicles": [
+    "step"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 7,
+   "verified": true,
+   "quote": "her whole face came on, warm and sure",
+   "picture": "a light switched on",
+   "feeling": "welcome lighting up",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 7,
+   "verified": true,
+   "quote": "as though of all the people and all the mornings this was the one she had been keeping the table for",
+   "picture": "a reserved table",
+   "feeling": "being specially chosen",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 9,
+   "verified": true,
+   "quote": "the one mercy in it her budget cared about",
+   "picture": "a mercy granted",
+   "feeling": "small relief from cost",
+   "vehicles": [
+    "mercy"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the drinks card",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 9,
+   "verified": true,
+   "quote": "a mimosa was the cheapest yes on the card",
+   "picture": "a purchasable yes",
+   "feeling": "cheap way to agree",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the mimosa",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 9,
+   "verified": true,
+   "quote": "as though she had ordered a thousand of them",
+   "picture": "habitual orderer",
+   "feeling": "feigned ease",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 9,
+   "verified": true,
+   "quote": "something small in Vee sat up and warmed itself at it",
+   "picture": "creature at a fire",
+   "feeling": "small glad warmth of belonging",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 9,
+   "verified": true,
+   "quote": "Something pleased moved over Randi's face.",
+   "picture": "a creature crossing a surface",
+   "feeling": "pleasure flickering",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 11,
+   "verified": true,
+   "quote": "the makeup so finely done it passed for skin",
+   "picture": "counterfeit passing",
+   "feeling": "undetectable artifice",
+   "vehicles": [
+    "skin"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's makeup",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 15,
+   "verified": true,
+   "quote": "I had him filed under spicy",
+   "picture": "filing system",
+   "feeling": "categorized mentally",
+   "vehicles": [
+    "file"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's boyfriend",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 15,
+   "verified": true,
+   "quote": "She let the pause carry it.",
+   "picture": "a pause bearing a load",
+   "feeling": "silence delivering meaning",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 17,
+   "verified": true,
+   "quote": "It was out before Vee decided to spend it.",
+   "picture": "spending money",
+   "feeling": "reckless disclosure",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 25,
+   "verified": true,
+   "quote": "A pause, to hold her there.",
+   "picture": "holding a captive",
+   "feeling": "keeping randi in suspense",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 25,
+   "verified": true,
+   "quote": "Randi's face waiting for it",
+   "picture": "face as an expectant person",
+   "feeling": "eager anticipation",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 27,
+   "verified": true,
+   "quote": "the real article",
+   "picture": "genuine goods",
+   "feeling": "authentic shriek",
+   "vehicles": [
+    "article"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 33,
+   "verified": true,
+   "quote": "Like a top.",
+   "picture": "a spinning toy",
+   "feeling": "being whirled helplessly",
+   "vehicles": [
+    "top"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 33,
+   "verified": true,
+   "quote": "The saying of it put his hands back on her",
+   "picture": "words as touch",
+   "feeling": "memory felt bodily",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 33,
+   "verified": true,
+   "quote": "something low turned over once, lazily, and settled lower",
+   "picture": "a sleeper turning over",
+   "feeling": "lazy arousal stirring",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 39,
+   "verified": true,
+   "quote": "You just yada-yada'd straight past the good part.",
+   "picture": "traveling past something",
+   "feeling": "skipping over details",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 39,
+   "verified": true,
+   "quote": "Walk me.",
+   "picture": "leading on a walk",
+   "feeling": "asking for step-by-step account",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 41,
+   "verified": true,
+   "quote": "the light would have it whole, every degree of it",
+   "picture": "light possessing/seeing",
+   "feeling": "blush exposed",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 41,
+   "verified": true,
+   "quote": "I lost a bet.",
+   "picture": "a gamble",
+   "feeling": "literal bet",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 43,
+   "verified": true,
+   "quote": "Oh, now we're somewhere.",
+   "picture": "arriving at a place",
+   "feeling": "story getting interesting",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the conversation",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 49,
+   "verified": true,
+   "quote": "she felt the print of his hand arrive again where the seat met her, low and bright",
+   "picture": "a stamped mark arriving",
+   "feeling": "remembered sting returning",
+   "vehicles": [
+    "print"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 49,
+   "verified": true,
+   "quote": "the warmth of it ran forward and pooled",
+   "picture": "liquid flowing and pooling",
+   "feeling": "warmth gathering low",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 51,
+   "verified": true,
+   "quote": "Randi's voice came down, quieter",
+   "picture": "voice descending",
+   "feeling": "lowered voice",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 57,
+   "verified": true,
+   "quote": "It went almost to nothing in her throat",
+   "picture": "fading away",
+   "feeling": "voice failing from shame",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 57,
+   "verified": true,
+   "quote": "the words were going to be hers",
+   "picture": "ownership of words",
+   "feeling": "owning an admission",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 61,
+   "verified": true,
+   "quote": "her whole face alight with it",
+   "picture": "a lit lamp",
+   "feeling": "glowing excitement",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 61,
+   "verified": true,
+   "quote": "gave without being asked, a slow soft give she felt all the way down",
+   "picture": "yielding material",
+   "feeling": "body yielding in arousal",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 61,
+   "verified": true,
+   "quote": "the chair and the cloth and the bright room were very far off",
+   "picture": "distance",
+   "feeling": "world receding",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 65,
+   "verified": true,
+   "quote": "there it was a third time, going through her",
+   "picture": "current passing through",
+   "feeling": "wave of arousal",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 65,
+   "verified": true,
+   "quote": "her breath would not sit flat",
+   "picture": "surface not lying level",
+   "feeling": "uneven breathing",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 69,
+   "verified": true,
+   "quote": "out into the burning glass",
+   "picture": "glass on fire",
+   "feeling": "dazzling sunlit window",
+   "vehicles": [
+    "glass"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the window",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 71,
+   "verified": true,
+   "quote": "Whew. Is it warm in here.",
+   "picture": "heat in room",
+   "feeling": "arousal at the story",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 73,
+   "verified": true,
+   "quote": "There was no flat left in her voice at all.",
+   "picture": "flatness used up",
+   "feeling": "voice charged",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 73,
+   "verified": true,
+   "quote": "lay each piece of it on the table between them",
+   "picture": "laying objects down",
+   "feeling": "laying out confession",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 73,
+   "verified": true,
+   "quote": "the laying-down was its own hand on her",
+   "picture": "a touching hand",
+   "feeling": "telling felt as touch",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 73,
+   "verified": true,
+   "quote": "her body kept faith with every word",
+   "picture": "loyalty",
+   "feeling": "body echoing the telling",
+   "vehicles": [
+    "faith"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 73,
+   "verified": true,
+   "quote": "crawling warm and total up the backs of her bare thighs",
+   "picture": "creeping creature",
+   "feeling": "creeping exposure",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the certainty of being looked at",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 77,
+   "verified": true,
+   "quote": "almost as a confession to a priest",
+   "picture": "confessional",
+   "feeling": "shameful disclosure",
+   "vehicles": [
+    "priest",
+    "confession"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 77,
+   "verified": true,
+   "quote": "they were one thing, and the one thing was sitting in her now with nowhere to go",
+   "picture": "a trapped occupant",
+   "feeling": "trapped heat and shame",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 85,
+   "verified": true,
+   "quote": "I was so taken up with what was happening back there",
+   "picture": "being carried off",
+   "feeling": "absorbed attention",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 85,
+   "verified": true,
+   "quote": "I'd not have known if there was a fire next door",
+   "picture": "fire next door",
+   "feeling": "total absorption",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 87,
+   "verified": true,
+   "quote": "You had your own fire",
+   "picture": "a fire",
+   "feeling": "her own arousal",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 89,
+   "verified": true,
+   "quote": "would not put themselves away",
+   "picture": "things tidied away",
+   "feeling": "feelings unsuppressible",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 89,
+   "verified": true,
+   "quote": "too full of people to be a body in",
+   "picture": "body as a dwelling",
+   "feeling": "unfit place for arousal",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the porch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 91,
+   "verified": true,
+   "quote": "did he take care of your fire?",
+   "picture": "tending a fire",
+   "feeling": "satisfying arousal",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 93,
+   "verified": true,
+   "quote": "the way she had gone all the way down into it",
+   "picture": "descending into depths",
+   "feeling": "surrender to pleasure",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 93,
+   "verified": true,
+   "quote": "her face did something she couldn't call back",
+   "picture": "a released thing unrecallable",
+   "feeling": "involuntary expression",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 95,
+   "verified": true,
+   "quote": "let her own night take the floor",
+   "picture": "speaker taking the floor",
+   "feeling": "her turn to tell",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 95,
+   "verified": true,
+   "quote": "we just *caught*",
+   "picture": "catching fire",
+   "feeling": "instant spark",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Randi and the boy",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 95,
+   "verified": true,
+   "quote": "I was already down in my body by then",
+   "picture": "depth within body",
+   "feeling": "sensual immersion",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 95,
+   "verified": true,
+   "quote": "your own skin is the whole party",
+   "picture": "a party",
+   "feeling": "body alive with pleasure",
+   "vehicles": [
+    "party",
+    "skin"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 97,
+   "verified": true,
+   "quote": "Her own skin was, just then, a good deal more party than she wanted it to be",
+   "picture": "a party",
+   "feeling": "body too aroused",
+   "vehicles": [
+    "party",
+    "skin"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 99,
+   "verified": true,
+   "quote": "he kissed like he meant it",
+   "picture": "sincerity",
+   "feeling": "earnest kissing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the boy",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 99,
+   "verified": true,
+   "quote": "leave you the room to come after him",
+   "picture": "space/room",
+   "feeling": "space to pursue",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "the boy",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 99,
+   "verified": true,
+   "quote": "find *my* dark corners",
+   "picture": "exploring a house",
+   "feeling": "touching her hidden places",
+   "vehicles": [
+    "corner"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 99,
+   "verified": true,
+   "quote": "which is the entire art",
+   "picture": "an art form",
+   "feeling": "skill of seduction",
+   "vehicles": [
+    "art"
+   ],
+   "sensation": "none",
+   "applies_to": "kissing",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 99,
+   "verified": true,
+   "quote": "So we take it upstairs.",
+   "picture": "carrying upstairs",
+   "feeling": "escalating intimacy",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 101,
+   "verified": true,
+   "quote": "Her body answered the phrase straight off",
+   "picture": "body replying",
+   "feeling": "instant arousal",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 103,
+   "verified": true,
+   "quote": "Dents the mood",
+   "picture": "dented object",
+   "feeling": "mood damaged",
+   "vehicles": [
+    "dent"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the mood",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 103,
+   "verified": true,
+   "quote": "sitting on a stranger's bed with the engine running and nobody left to drive it",
+   "picture": "idling car",
+   "feeling": "aroused and abandoned",
+   "vehicles": [
+    "engine",
+    "car"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 103,
+   "verified": true,
+   "quote": "he gets a face",
+   "picture": "acquiring a face",
+   "feeling": "expression changing",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "none",
+   "applies_to": "the boy",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 111,
+   "verified": true,
+   "quote": "they'd have got an eyeful",
+   "picture": "filling the eye",
+   "feeling": "seeing a lot",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "onlookers",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 113,
+   "verified": true,
+   "quote": "The picture came into Vee entire.",
+   "picture": "image entering",
+   "feeling": "vivid imagining",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 113,
+   "verified": true,
+   "quote": "Her body, which had been climbing the whole morning one careful confession at a time, simply reached the top.",
+   "picture": "climbing a hill",
+   "feeling": "arousal peaking",
+   "vehicles": [
+    "top"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 113,
+   "verified": true,
+   "quote": "The heat was no longer happening near her. It was the main fact in the chair",
+   "picture": "heat as occupant",
+   "feeling": "arousal overwhelming",
+   "vehicles": [
+    "chair"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 117,
+   "verified": true,
+   "quote": "as if she had said nothing at all",
+   "picture": "a blank slate",
+   "feeling": "unbothered ease",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 119,
+   "verified": true,
+   "quote": "a light that found everything and forgave none of it",
+   "picture": "a judging seeker",
+   "feeling": "harsh exposure",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the bathroom light",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 119,
+   "verified": true,
+   "quote": "in her head it slammed",
+   "picture": "slamming door",
+   "feeling": "imagined loud noise",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the stall door",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 119,
+   "verified": true,
+   "quote": "every fork going still, every face turning",
+   "picture": "imagined audience",
+   "feeling": "imagined public attention",
+   "vehicles": [
+    "fork"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the porch",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 119,
+   "verified": true,
+   "quote": "a sound the whole bright porch must have heard and understood",
+   "picture": "listening crowd",
+   "feeling": "fear of being overheard",
+   "vehicles": [
+    "porch"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the sound",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 121,
+   "verified": true,
+   "quote": "her body so far out ahead of her permission",
+   "picture": "a runner ahead",
+   "feeling": "body outpacing will",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 121,
+   "verified": true,
+   "quote": "no one to give the shame to",
+   "picture": "shame as handed object",
+   "feeling": "shame unshared",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 121,
+   "verified": true,
+   "quote": "with no one to give the shame to",
+   "picture": "handing over an object",
+   "feeling": "shame with no outlet",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 121,
+   "verified": true,
+   "quote": "put her fingers where the wanting was",
+   "picture": "want as a place",
+   "feeling": "desire located in body",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "The build came fast.",
+   "picture": "something being built",
+   "feeling": "arousal mounting",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "Randi's face arrived behind her eyes.",
+   "picture": "a visitor arriving",
+   "feeling": "vivid image intruding",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "as though Vee were the best thing in the room",
+   "picture": "being prized",
+   "feeling": "being adored",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Randi's gaze",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "the small needy knot of herself",
+   "picture": "a knot",
+   "feeling": "concentrated need",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "The build came fast. It had been building an hour",
+   "picture": "a structure rising",
+   "feeling": "mounting arousal",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "it wanted more than a fingertip, wanted variety, wanted filling",
+   "picture": "a hungry creature",
+   "feeling": "craving",
+   "vehicles": [
+    "appetite"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the build",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 123,
+   "verified": true,
+   "quote": "Randi's face arrived behind her eyes",
+   "picture": "a visitor arriving",
+   "feeling": "intrusive vivid image",
+   "vehicles": [
+    "visitor",
+    "eye"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Randi's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 125,
+   "verified": true,
+   "quote": "the two would not hold in one body",
+   "picture": "container",
+   "feeling": "incompatible feelings",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 127,
+   "verified": true,
+   "quote": "the peak one unfair inch off",
+   "picture": "a summit just out of reach",
+   "feeling": "frustrated near-release",
+   "vehicles": [
+    "peak",
+    "inch"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee's climax",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 127,
+   "verified": true,
+   "quote": "the bright wanting curdled into something low and ashamed and obedient",
+   "picture": "milk curdling",
+   "feeling": "desire souring",
+   "vehicles": [
+    "milk"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's wanting",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 127,
+   "verified": true,
+   "quote": "herself barely breached",
+   "picture": "a breached wall",
+   "feeling": "barely entered",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 129,
+   "verified": true,
+   "quote": "the ache still beating down there like a second pulse",
+   "picture": "a second pulse",
+   "feeling": "throbbing desire",
+   "vehicles": [
+    "pulse"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the ache",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 131,
+   "verified": true,
+   "quote": "drown whatever this fever was and come back up a person",
+   "picture": "drowning a fever",
+   "feeling": "wanting to be rid of desire",
+   "vehicles": [
+    "water",
+    "fever"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 131,
+   "verified": true,
+   "quote": "a careful face, built that morning to be looked at",
+   "picture": "a built structure",
+   "feeling": "constructed appearance",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 131,
+   "verified": true,
+   "quote": "cold water would take it down to ruin",
+   "picture": "a ruined building",
+   "feeling": "makeup destroyed",
+   "vehicles": [
+    "ruin"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 131,
+   "verified": true,
+   "quote": "someone caught",
+   "picture": "being caught",
+   "feeling": "guilt of discovery",
+   "vehicles": [
+    "trap"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 131,
+   "verified": true,
+   "quote": "the too-blue light make her look like exactly what she was",
+   "picture": "light that reveals",
+   "feeling": "exposure",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 137,
+   "verified": true,
+   "quote": "The floor left the room.",
+   "picture": "floor vanishing",
+   "feeling": "sudden lurch of dread",
+   "vehicles": [
+    "floor",
+    "room"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 137,
+   "verified": true,
+   "quote": "Vee could not get a breath to come in.",
+   "picture": "breath refusing",
+   "feeling": "shock",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 137,
+   "verified": true,
+   "quote": "The heat climbed her throat and flooded her face",
+   "picture": "climbing flood",
+   "feeling": "rush of blushing",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 137,
+   "verified": true,
+   "quote": "the porch turned gently on some new axis",
+   "picture": "a tilted world",
+   "feeling": "disorientation",
+   "vehicles": [
+    "axis"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the porch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 141,
+   "verified": true,
+   "quote": "her face on fire",
+   "picture": "fire",
+   "feeling": "burning blush",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 141,
+   "verified": true,
+   "quote": "her friend had just handed her a door or shown her there had never been one",
+   "picture": "a door offered or absent",
+   "feeling": "ambiguous opening",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 141,
+   "verified": true,
+   "quote": "her pulse in her ears",
+   "picture": "pounding pulse",
+   "feeling": "racing alarm",
+   "vehicles": [
+    "pulse"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 143,
+   "verified": true,
+   "quote": "It went past her in pieces.",
+   "picture": "passing fragments",
+   "feeling": "fragmented memory",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the meal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 143,
+   "verified": true,
+   "quote": "in a way that closed the subject",
+   "picture": "a closed door",
+   "feeling": "conversation ended",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's word",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 143,
+   "verified": true,
+   "quote": "one corner going up, and staying up, in no hurry to come back down",
+   "picture": "a leisurely traveler",
+   "feeling": "slow suppressed smile",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi's mouth",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 143,
+   "verified": true,
+   "quote": "the morning kept moving and nobody stopped it",
+   "picture": "a moving vehicle",
+   "feeling": "time carrying on",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the morning",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 145,
+   "verified": true,
+   "quote": "The cold caught her at the door and took her breath clean out",
+   "picture": "a seizing hand",
+   "feeling": "cold shock",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the cold",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 145,
+   "verified": true,
+   "quote": "the world came back to its right size",
+   "picture": "resized world",
+   "feeling": "regained perspective",
+   "vehicles": [
+    "size"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the world",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 145,
+   "verified": true,
+   "quote": "a lit box she had climbed out of",
+   "picture": "a box escaped",
+   "feeling": "separation from the ordeal",
+   "vehicles": [
+    "box"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the porch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 145,
+   "verified": true,
+   "quote": "herself again, or near enough to pass",
+   "picture": "passing as someone",
+   "feeling": "restored composure",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 151,
+   "verified": true,
+   "quote": "Randi's whole face opened, warm all the way through",
+   "picture": "opening door, warm material",
+   "feeling": "warm relief",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 151,
+   "verified": true,
+   "quote": "I couldn't bear it if there was something between us.",
+   "picture": "obstacle between",
+   "feeling": "estrangement",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi and Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 153,
+   "verified": true,
+   "quote": "the floor went out from under Vee again, but kindly this time",
+   "picture": "floor vanishing",
+   "feeling": "dizzying joy",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 153,
+   "verified": true,
+   "quote": "in a direction she had no guard up against at all",
+   "picture": "a defended front",
+   "feeling": "defenseless",
+   "vehicles": [
+    "guard"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 153,
+   "verified": true,
+   "quote": "walked into a room and rearranged it",
+   "picture": "rearranged furniture",
+   "feeling": "commanding presence",
+   "vehicles": [
+    "room",
+    "furniture"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 153,
+   "verified": true,
+   "quote": "picked her, out of everyone, for the closest place there was",
+   "picture": "a chosen seat",
+   "feeling": "being chosen",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 153,
+   "verified": true,
+   "quote": "The cold morning went briefly luminous.",
+   "picture": "lit-up morning",
+   "feeling": "joy",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the morning",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 155,
+   "verified": true,
+   "quote": "that bright green scent",
+   "picture": "color for scent",
+   "feeling": "fresh vivid scent",
+   "vehicles": [
+    "green"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's scent",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 155,
+   "verified": true,
+   "quote": "the small drawing-off, the held half-breath",
+   "picture": "a held breath",
+   "feeling": "lingering hesitation",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 155,
+   "verified": true,
+   "quote": "Randi gathered her in",
+   "picture": "gathering",
+   "feeling": "embrace",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 157,
+   "verified": true,
+   "quote": "already light",
+   "picture": "weightlessness",
+   "feeling": "easy unburdened mood",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 157,
+   "verified": true,
+   "quote": "folded herself down into the Mercedes",
+   "picture": "folding",
+   "feeling": "compact graceful entry",
+   "vehicles": [
+    "paper"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "one-bite",
+   "line": 159,
+   "verified": true,
+   "quote": "the quiet the car left behind",
+   "picture": "a trail left behind",
+   "feeling": "lingering absence",
+   "vehicles": [
+    "trail"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the quiet",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "one-bite",
+   "line": 159,
+   "verified": true,
+   "quote": "there was a thread of sweetness",
+   "picture": "a thread",
+   "feeling": "faint lingering taste",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the taste",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

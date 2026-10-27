@@ -1,0 +1,1289 @@
+{
+ "slug": "peekaboo",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "26862a392baf",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "peekaboo",
+   "line": 3,
+   "verified": true,
+   "quote": "the best she'd had by a distance",
+   "picture": "a long distance",
+   "feeling": "a large difference",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "none",
+   "applies_to": "the night",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 3,
+   "verified": true,
+   "quote": "She'd carried the low warm hum of it the whole drive",
+   "picture": "a warm hum",
+   "feeling": "lingering pleasant anticipation",
+   "vehicles": [
+    "hum"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "her anticipation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 3,
+   "verified": true,
+   "quote": "it was most of the way to a decision her body had already made",
+   "picture": "a journey",
+   "feeling": "desire nearing a decision",
+   "vehicles": [
+    "journey",
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her anticipation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 5,
+   "verified": true,
+   "quote": "a careful peck, a question; and when it answered itself",
+   "picture": "a question answered",
+   "feeling": "tentative affection reciprocated",
+   "vehicles": [
+    "question",
+    "answer"
+   ],
+   "sensation": "none",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 7,
+   "verified": true,
+   "quote": "the kiss went deep and certain",
+   "picture": "movement into depth",
+   "feeling": "intensifying mutual desire",
+   "vehicles": [
+    "depth"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 9,
+   "verified": true,
+   "quote": "he broke it",
+   "picture": "a broken object",
+   "feeling": "an abrupt interruption",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 9,
+   "verified": true,
+   "quote": "not holding a thing over her",
+   "picture": "something held overhead",
+   "feeling": "no threat or leverage",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 9,
+   "verified": true,
+   "quote": "the way a kid can't keep a surprise in his mouth one more second",
+   "picture": "a contained surprise",
+   "feeling": "eagerness to reveal",
+   "vehicles": [
+    "kid",
+    "mouth",
+    "surprise"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 11,
+   "verified": true,
+   "quote": "Her body had assumed left",
+   "picture": "a body thinking",
+   "feeling": "physical expectation of intimacy",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her expectation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 11,
+   "verified": true,
+   "quote": "the light reached her first",
+   "picture": "light reaching",
+   "feeling": "immediate sensory impact",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the light",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 15,
+   "verified": true,
+   "quote": "a shadow alive in it",
+   "picture": "a living shadow",
+   "feeling": "richness and movement",
+   "vehicles": [
+    "shadow"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 15,
+   "verified": true,
+   "quote": "the bias of the cut took the bare shoulder and ran it down in one long clean line",
+   "picture": "a line drawn",
+   "feeling": "graceful visual continuity",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 19,
+   "verified": true,
+   "quote": "no seam of effort showing on it anywhere",
+   "picture": "a visible seam",
+   "feeling": "hidden work and skill",
+   "vehicles": [
+    "seam"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 19,
+   "verified": true,
+   "quote": "build it onto her out of nothing",
+   "picture": "creation from nothing",
+   "feeling": "astonishment at creation",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 19,
+   "verified": true,
+   "quote": "catching the sun like it had been bought that way",
+   "picture": "a bought dress",
+   "feeling": "polished apparent effortlessness",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 19,
+   "verified": true,
+   "quote": "that got to her",
+   "picture": "something reaching her",
+   "feeling": "being deeply moved",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her response",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 19,
+   "verified": true,
+   "quote": "It got in and opened the small place the tears came from",
+   "picture": "a small opening place",
+   "feeling": "emotion released into tears",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "opening",
+   "applies_to": "her response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 21,
+   "verified": true,
+   "quote": "It came out wet",
+   "picture": "wet speech",
+   "feeling": "speech thick with tears",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "none",
+   "applies_to": "her voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 21,
+   "verified": true,
+   "quote": "the dumb happy kind that always beat her to it",
+   "picture": "a race",
+   "feeling": "tears arriving before intention",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her tears",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 23,
+   "verified": true,
+   "quote": "didn't make it smaller",
+   "picture": "something diminished",
+   "feeling": "acceptance of its importance",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 31,
+   "verified": true,
+   "quote": "It came down her like water finding its level",
+   "picture": "water finding level",
+   "feeling": "fluid close fit",
+   "vehicles": [
+    "water",
+    "level"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 31,
+   "verified": true,
+   "quote": "her skin knew before her head did",
+   "picture": "skin knowing",
+   "feeling": "bodily recognition before thought",
+   "vehicles": [
+    "skin",
+    "head"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "her awareness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 33,
+   "verified": true,
+   "quote": "a soft wall set into the only parts of her the dress had decided not to give away",
+   "picture": "a soft wall",
+   "feeling": "soft concealment and protection",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the dress lining",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 33,
+   "verified": true,
+   "quote": "the dress had decided not to give away",
+   "picture": "a deciding dress",
+   "feeling": "selective concealment",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 35,
+   "verified": true,
+   "quote": "like it had been waiting",
+   "picture": "a waiting person",
+   "feeling": "easy, receptive closure",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the closure",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 39,
+   "verified": true,
+   "quote": "All of her was there, gathered up and set out like it had nothing to apologize for",
+   "picture": "something displayed",
+   "feeling": "unashamed visible fullness",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her appearance",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 39,
+   "verified": true,
+   "quote": "The word flared up automatic",
+   "picture": "a sudden flame",
+   "feeling": "sudden self-reproach",
+   "vehicles": [
+    "flame"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 39,
+   "verified": true,
+   "quote": "She looked like a still out of an old film",
+   "picture": "an old film still",
+   "feeling": "timeless cinematic beauty",
+   "vehicles": [
+    "still",
+    "film"
+   ],
+   "sensation": "none",
+   "applies_to": "her appearance",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 41,
+   "verified": true,
+   "quote": "The hem pooled at her feet",
+   "picture": "a pool of liquid",
+   "feeling": "excess fabric gathering",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the hem",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 41,
+   "verified": true,
+   "quote": "the dress wanted a height she wasn't giving it",
+   "picture": "a wanting dress",
+   "feeling": "the dress requiring height",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 41,
+   "verified": true,
+   "quote": "they'd have read like an apology",
+   "picture": "a written apology",
+   "feeling": "a timid visual effect",
+   "vehicles": [
+    "apology"
+   ],
+   "sensation": "none",
+   "applies_to": "the pumps",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 41,
+   "verified": true,
+   "quote": "this wasn't a dress you apologized for",
+   "picture": "an apology",
+   "feeling": "boldness without regret",
+   "vehicles": [
+    "apology"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 41,
+   "verified": true,
+   "quote": "watched the line finish itself",
+   "picture": "a self-drawn line",
+   "feeling": "a completed silhouette",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "her silhouette",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 45,
+   "verified": true,
+   "quote": "gave her whole leg to the room",
+   "picture": "a gift to a room",
+   "feeling": "sudden exposure",
+   "vehicles": [
+    "gift",
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her leg",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 45,
+   "verified": true,
+   "quote": "the heat came up to take its place",
+   "picture": "rising heat",
+   "feeling": "sudden arousal",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 45,
+   "verified": true,
+   "quote": "her body answering the glass on its own",
+   "picture": "a body answering",
+   "feeling": "involuntary physical response",
+   "vehicles": [
+    "body",
+    "glass"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 47,
+   "verified": true,
+   "quote": "cutting across the long line the dress had made of her",
+   "picture": "a line cut",
+   "feeling": "an interrupted silhouette",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the edge of her underwear",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 49,
+   "verified": true,
+   "quote": "The second came up hot behind the first",
+   "picture": "a hot pursuer",
+   "feeling": "a fierce second impulse",
+   "vehicles": [
+    "pursuer"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her second thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 49,
+   "verified": true,
+   "quote": "The long line ran clean the whole length of her",
+   "picture": "a running line",
+   "feeling": "an uninterrupted silhouette",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her silhouette",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 49,
+   "verified": true,
+   "quote": "The shame of it went through her hot",
+   "picture": "heat passing through",
+   "feeling": "intense bodily shame",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her shame",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 49,
+   "verified": true,
+   "quote": "it crossed into wanting",
+   "picture": "crossing a boundary",
+   "feeling": "shame becoming desire",
+   "vehicles": [
+    "boundary"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her shame",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 51,
+   "verified": true,
+   "quote": "the length of her given and taken back and given",
+   "picture": "a recurring gift",
+   "feeling": "alternating exposure and concealment",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her exposed leg",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 53,
+   "verified": true,
+   "quote": "the grin went off his face into something quieter",
+   "picture": "movement into quiet",
+   "feeling": "a change in expression",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's expression",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 57,
+   "verified": true,
+   "quote": "closed the last of the distance herself",
+   "picture": "a closing gap",
+   "feeling": "physical union",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "their closeness",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 57,
+   "verified": true,
+   "quote": "drawing a groan out of him",
+   "picture": "something pulled out",
+   "feeling": "an involuntary response",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's groan",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 59,
+   "verified": true,
+   "quote": "It was the sliding that reached her",
+   "picture": "a reaching touch",
+   "feeling": "sensation becoming arousal",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her arousal",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 77,
+   "verified": true,
+   "quote": "the dress needed her out of it",
+   "picture": "a needing dress",
+   "feeling": "urgency to protect it",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 77,
+   "verified": true,
+   "quote": "the burgundy rising off her like a curtain going up",
+   "picture": "a rising curtain",
+   "feeling": "gradual playful exposure",
+   "vehicles": [
+    "curtain"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 77,
+   "verified": true,
+   "quote": "the dress at half-mast",
+   "picture": "a lowered flag",
+   "feeling": "undressing temporarily halted",
+   "vehicles": [
+    "flag",
+    "mast"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 79,
+   "verified": true,
+   "quote": "two long deliberate stripes down his flanks",
+   "picture": "painted stripes",
+   "feeling": "playful deliberate contact",
+   "vehicles": [
+    "stripe"
+   ],
+   "sensation": "none",
+   "applies_to": "her hand movements",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 81,
+   "verified": true,
+   "quote": "he studied them with the care he'd give a hem",
+   "picture": "a scrutinized hem",
+   "feeling": "attentive playful scrutiny",
+   "vehicles": [
+    "hem"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's attention",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 81,
+   "verified": true,
+   "quote": "It went through her knees",
+   "picture": "a passing current",
+   "feeling": "arousal weakening her legs",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 87,
+   "verified": true,
+   "quote": "there was no patience left anywhere in the house",
+   "picture": "an emptied supply",
+   "feeling": "shared urgent desire",
+   "vehicles": [
+    "supply"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "their patience",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 87,
+   "verified": true,
+   "quote": "she gave up all claim to quiet",
+   "picture": "a surrendered claim",
+   "feeling": "abandoning restraint",
+   "vehicles": [
+    "claim"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her vocal response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 87,
+   "verified": true,
+   "quote": "the wall caught them",
+   "picture": "a catching person",
+   "feeling": "an abrupt supported impact",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the wall",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 91,
+   "verified": true,
+   "quote": "it went all the way down her",
+   "picture": "a traveling gaze",
+   "feeling": "being looked over",
+   "vehicles": [
+    "gaze"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's gaze",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 91,
+   "verified": true,
+   "quote": "nothing left to put in front of any of it",
+   "picture": "a concealing barrier",
+   "feeling": "complete exposure",
+   "vehicles": [
+    "barrier"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 99,
+   "verified": true,
+   "quote": "what the holding was costing him",
+   "picture": "a price paid",
+   "feeling": "effort of restraint",
+   "vehicles": [
+    "price"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's restraint",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 99,
+   "verified": true,
+   "quote": "he meant to spend it anyway",
+   "picture": "money spent",
+   "feeling": "willing sacrifice of restraint",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's effort",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 107,
+   "verified": true,
+   "quote": "the headboard talking",
+   "picture": "a speaking headboard",
+   "feeling": "rhythmic audible movement",
+   "vehicles": [
+    "headboard"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the headboard",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 107,
+   "verified": true,
+   "quote": "she went over",
+   "picture": "crossing an edge",
+   "feeling": "reaching orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her orgasm",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 107,
+   "verified": true,
+   "quote": "he was a breath behind her",
+   "picture": "a close race",
+   "feeling": "nearly simultaneous release",
+   "vehicles": [
+    "race",
+    "breath"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 107,
+   "verified": true,
+   "quote": "letting everything he'd held all afternoon go into her at last",
+   "picture": "a held thing released",
+   "feeling": "long restraint released",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's release",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 113,
+   "verified": true,
+   "quote": "the laugh rising in her",
+   "picture": "something rising",
+   "feeling": "renewed amusement",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "her laughter",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 113,
+   "verified": true,
+   "quote": "the whole ridiculous relay of it",
+   "picture": "a relay race",
+   "feeling": "comic coordinated effort",
+   "vehicles": [
+    "relay",
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "their efforts with the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 113,
+   "verified": true,
+   "quote": "she wouldn't have given back a minute",
+   "picture": "time returned",
+   "feeling": "pleasure in every moment",
+   "vehicles": [
+    "minute"
+   ],
+   "sensation": "none",
+   "applies_to": "their time together",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 115,
+   "verified": true,
+   "quote": "He'd gone down hard and fast",
+   "picture": "a sudden fall",
+   "feeling": "falling quickly asleep",
+   "vehicles": [
+    "fall"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 115,
+   "verified": true,
+   "quote": "gone down hard and fast",
+   "picture": "a sudden fall",
+   "feeling": "falling asleep quickly",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 115,
+   "verified": true,
+   "quote": "some hour with no business being awake in it",
+   "picture": "improper business",
+   "feeling": "an unusually late hour",
+   "vehicles": [
+    "business"
+   ],
+   "sensation": "none",
+   "applies_to": "the hour",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 117,
+   "verified": true,
+   "quote": "she put the dress on, in her head",
+   "picture": "a space inside",
+   "feeling": "imagining wearing the dress",
+   "vehicles": [
+    "head"
+   ],
+   "sensation": "none",
+   "applies_to": "her imagined dress",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "a thing that looked flown in from Milan",
+   "picture": "a dress flown in",
+   "feeling": "glamorous sophistication",
+   "vehicles": [
+    "dress",
+    "airplane"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "The way the room would turn. She let it turn.",
+   "picture": "a turning room",
+   "feeling": "everyone's attention turning",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "the looking didn't cost her a thing",
+   "picture": "a price paid",
+   "feeling": "exposure without shame",
+   "vehicles": [
+    "price"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "being looked at",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "She could see the whole thing",
+   "picture": "a visible scene",
+   "feeling": "imagining the event",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "her imagined induction",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "looked flown in from Milan",
+   "picture": "a flown-in dress",
+   "feeling": "fashionable foreign glamour",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "The way the room would turn",
+   "picture": "a turning room",
+   "feeling": "attention turned toward her",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "She let it turn",
+   "picture": "a turning room",
+   "feeling": "welcoming their attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 119,
+   "verified": true,
+   "quote": "find the wall",
+   "picture": "retreat to a wall",
+   "feeling": "withdrawing from attention",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the woman",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "peekaboo",
+   "line": 121,
+   "verified": true,
+   "quote": "without his ever surfacing",
+   "picture": "surfacing from water",
+   "feeling": "remaining deeply asleep",
+   "vehicles": [
+    "water",
+    "surface"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "peekaboo",
+   "line": 121,
+   "verified": true,
+   "quote": "getting away with something",
+   "picture": "an unpunished transgression",
+   "feeling": "private mischievous pleasure",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "her happiness",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  }
+ ]
+}

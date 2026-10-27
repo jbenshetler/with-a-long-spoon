@@ -1,0 +1,1896 @@
+{
+ "slug": "among-friends",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "478fa4b0ec66",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "among-friends",
+   "line": 3,
+   "verified": true,
+   "quote": "defended the place like a lawyer, sight unseen, on no evidence at all",
+   "picture": "a defense lawyer",
+   "feeling": "loyal, unfounded defense",
+   "vehicles": [
+    "lawyer"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 5,
+   "verified": true,
+   "quote": "fifty years of other people's good nights had rubbed matte",
+   "picture": "hands polishing wood",
+   "feeling": "worn by years of use",
+   "vehicles": [
+    "night"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the pine walls",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 5,
+   "verified": true,
+   "quote": "the whole room was warm with it",
+   "picture": "warm room",
+   "feeling": "welcoming comfort",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 5,
+   "verified": true,
+   "quote": "a fact that went by like a room's ceiling height, half a second, gone",
+   "picture": "unnoticed ceiling height",
+   "feeling": "barely registered detail",
+   "vehicles": [
+    "ceiling"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the absence of screens",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 7,
+   "verified": true,
+   "quote": "a standard other people's RSVPs could only wave at",
+   "picture": "a bar set too high",
+   "feeling": "unmatched promptness",
+   "vehicles": [
+    "standard",
+    "rsvp"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 7,
+   "verified": true,
+   "quote": "a cold beer already sweating in front of her like she'd been drinking beer all her life",
+   "picture": "practiced beer drinker",
+   "feeling": "false ease",
+   "vehicles": [
+    "beer"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 7,
+   "verified": true,
+   "quote": "the blue doing what blue always did to her eyes",
+   "picture": "color acting on eyes",
+   "feeling": "eyes brightened",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 7,
+   "verified": true,
+   "quote": "a full register too nice for the tile",
+   "picture": "musical register",
+   "feeling": "overdressed",
+   "vehicles": [
+    "register"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's shoes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 7,
+   "verified": true,
+   "quote": "there was a floor below which Randi's closet did not go",
+   "picture": "a lower limit",
+   "feeling": "minimum standard of dress",
+   "vehicles": [
+    "floor",
+    "closet"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 13,
+   "verified": true,
+   "quote": "She'd carried the thought in with her like a folded map.",
+   "picture": "a folded map",
+   "feeling": "worry kept ready",
+   "vehicles": [
+    "map"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 13,
+   "verified": true,
+   "quote": "Manage a seam somewhere.",
+   "picture": "a seam in cloth",
+   "feeling": "friction between friends",
+   "vehicles": [
+    "seam"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's worry",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 15,
+   "verified": true,
+   "quote": "ninety seconds of standard deviation",
+   "picture": "statistics",
+   "feeling": "brief meaningless contact",
+   "vehicles": [
+    "deviation"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 17,
+   "verified": true,
+   "quote": "Like he was a lamp.",
+   "picture": "a lamp",
+   "feeling": "flat object-like introduction",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 17,
+   "verified": true,
+   "quote": "in the little gap her sentence left",
+   "picture": "a gap",
+   "feeling": "an opening",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "opening",
+   "applies_to": "the sentence",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 21,
+   "verified": true,
+   "quote": "it went through Vee like the first swallow of something hot",
+   "picture": "hot drink swallowed",
+   "feeling": "warmth spreading",
+   "vehicles": [
+    "swallow"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 21,
+   "verified": true,
+   "quote": "a word he had never once needed anywhere, spent here, on her",
+   "picture": "spending money",
+   "feeling": "valued word given",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 21,
+   "verified": true,
+   "quote": "a man supplying a fact",
+   "picture": "a supplier",
+   "feeling": "plain delivery",
+   "vehicles": [
+    "fact"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 23,
+   "verified": true,
+   "quote": "her voice all warm coin",
+   "picture": "warm coin",
+   "feeling": "rich, bright voice",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 27,
+   "verified": true,
+   "quote": "done and dusted",
+   "picture": "a finished chore",
+   "feeling": "finished",
+   "vehicles": [
+    "dust"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 27,
+   "verified": true,
+   "quote": "The folded map went wherever unneeded things go.",
+   "picture": "discarded map",
+   "feeling": "worry dismissed",
+   "vehicles": [
+    "map"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's worry",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 27,
+   "verified": true,
+   "quote": "The night stood open in front of her",
+   "picture": "an open door",
+   "feeling": "free possibility",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 29,
+   "verified": true,
+   "quote": "Cassie's SUV announced itself from the lot, suspension first",
+   "picture": "a herald",
+   "feeling": "noisy arrival",
+   "vehicles": [
+    "suspension"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Cassie's SUV",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 33,
+   "verified": true,
+   "quote": "the room had a running start on him",
+   "picture": "a head start in a race",
+   "feeling": "already warmed up room",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 35,
+   "verified": true,
+   "quote": "like closing a deal",
+   "picture": "a business deal",
+   "feeling": "formal single handshake",
+   "vehicles": [
+    "deal"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 35,
+   "verified": true,
+   "quote": "a man with exactly one credential and no plans to produce another",
+   "picture": "credentials",
+   "feeling": "single identity",
+   "vehicles": [
+    "credential"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 35,
+   "verified": true,
+   "quote": "the night's running joke",
+   "picture": "a running joke",
+   "feeling": "repeated laugh",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 35,
+   "verified": true,
+   "quote": "It landed somewhere low every single time.",
+   "picture": "something landing",
+   "feeling": "felt deep inside",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the words",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 35,
+   "verified": true,
+   "quote": "trying it on with her own mouth",
+   "picture": "trying on clothes",
+   "feeling": "testing a new word",
+   "vehicles": [
+    "clothes"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 37,
+   "verified": true,
+   "quote": "Dinner organized itself around the buffet",
+   "picture": "self-organizing",
+   "feeling": "loose flow",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "dinner",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 37,
+   "verified": true,
+   "quote": "the buffet kept dealing them out and gathering them back in new arrangements",
+   "picture": "dealing cards",
+   "feeling": "people reshuffled",
+   "vehicles": [
+    "card"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the guests",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 37,
+   "verified": true,
+   "quote": "wherever he stopped, something got easier",
+   "picture": "easing",
+   "feeling": "social ease",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 39,
+   "verified": true,
+   "quote": "The buffet dealt her out a while, and then it dealt her back in",
+   "picture": "dealing cards",
+   "feeling": "drifting in and out",
+   "vehicles": [
+    "card"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 39,
+   "verified": true,
+   "quote": "the room's currents washing people up to it",
+   "picture": "tide currents",
+   "feeling": "people drifting over",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 39,
+   "verified": true,
+   "quote": "like a man handling somebody else's tools",
+   "picture": "borrowed tools",
+   "feeling": "awkward unfamiliar word",
+   "vehicles": [
+    "tool"
+   ],
+   "sensation": "none",
+   "applies_to": "Danny",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 41,
+   "verified": true,
+   "quote": "Vee watched them work.",
+   "picture": "working tool",
+   "feeling": "words taking effect",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace's words",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 41,
+   "verified": true,
+   "quote": "Danny sat down like the chair had been pulled out for him",
+   "picture": "a chair pulled out",
+   "feeling": "welcomed",
+   "vehicles": [
+    "chair"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Danny",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 41,
+   "verified": true,
+   "quote": "like it was a medical matter",
+   "picture": "medical secrecy",
+   "feeling": "hushed seriousness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Danny",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 43,
+   "verified": true,
+   "quote": "Theo washed up to the table on the next current",
+   "picture": "washed ashore",
+   "feeling": "drifting arrival",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Theo",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 43,
+   "verified": true,
+   "quote": "shoulders still up around his ears",
+   "picture": "tense shoulders",
+   "feeling": "tension",
+   "vehicles": [
+    "ear"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Theo",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 43,
+   "verified": true,
+   "quote": "the smile of a man auditing a class",
+   "picture": "auditing a class",
+   "feeling": "tentative observer",
+   "vehicles": [
+    "class"
+   ],
+   "sensation": "none",
+   "applies_to": "Theo",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 45,
+   "verified": true,
+   "quote": "Vee watched a key go into a lock.",
+   "picture": "key in lock",
+   "feeling": "right fit, opening up",
+   "vehicles": [
+    "key",
+    "lock"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace's question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 45,
+   "verified": true,
+   "quote": "nothing to flunk",
+   "picture": "a test",
+   "feeling": "no risk of failure",
+   "vehicles": [
+    "test"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 45,
+   "verified": true,
+   "quote": "his shoulders came down and his hands came up",
+   "picture": "relaxing posture",
+   "feeling": "relief and eagerness",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Theo",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 45,
+   "verified": true,
+   "quote": "in it and not in it",
+   "picture": "half-present",
+   "feeling": "present yet apart",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "from her orbits",
+   "picture": "planetary orbits",
+   "feeling": "circling the room",
+   "vehicles": [
+    "orbit"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "he had the story's whole geography",
+   "picture": "a map",
+   "feeling": "knowing every detail",
+   "vehicles": [
+    "geography"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "let Meg have the room",
+   "picture": "giving the stage",
+   "feeling": "ceding attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "low and urgent, as if from a war",
+   "picture": "war report",
+   "feeling": "urgent report",
+   "vehicles": [
+    "war"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Kayla",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "He set them up.",
+   "picture": "setting up a play",
+   "feeling": "preparing others to shine",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 47,
+   "verified": true,
+   "quote": "everyone he left was standing a little taller",
+   "picture": "standing taller",
+   "feeling": "raised confidence",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the guests",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 49,
+   "verified": true,
+   "quote": "straight, no wind-up",
+   "picture": "a pitcher",
+   "feeling": "direct",
+   "vehicles": [
+    "wind-up"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 49,
+   "verified": true,
+   "quote": "in his grocery-list voice",
+   "picture": "a grocery list",
+   "feeling": "flat, plain tone",
+   "vehicles": [
+    "list"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 49,
+   "verified": true,
+   "quote": "recalibrating something",
+   "picture": "instrument calibration",
+   "feeling": "reassessing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "she knew this story like a song from its first bar",
+   "picture": "a familiar song",
+   "feeling": "deep familiarity",
+   "vehicles": [
+    "song",
+    "bar"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "a thing Cassie still relitigated like a bad call",
+   "picture": "disputed referee call",
+   "feeling": "lingering grievance",
+   "vehicles": [
+    "call"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "two problems solving each other over bad pizza",
+   "picture": "problems solving each other",
+   "feeling": "mutual rescue",
+   "vehicles": [
+    "problem"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie and her roommate",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "like a goalkeeper watching a corner kick",
+   "picture": "goalkeeper",
+   "feeling": "vigilant guarding",
+   "vehicles": [
+    "goalkeeper",
+    "corner kick"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "glowing, insofar as Cassie glowed, which was drily, at low wattage",
+   "picture": "a dim bulb",
+   "feeling": "muted warmth",
+   "vehicles": [
+    "wattage"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 51,
+   "verified": true,
+   "quote": "felt something enormous and quiet go by underneath her, like a whale under a boat",
+   "picture": "whale under boat",
+   "feeling": "vast quiet emotion",
+   "vehicles": [
+    "whale",
+    "boat"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 57,
+   "verified": true,
+   "quote": "something went through Vee with a stinger on it",
+   "picture": "a sting",
+   "feeling": "sharp jealousy",
+   "vehicles": [
+    "stinger"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 57,
+   "verified": true,
+   "quote": "the stinger backed out of it",
+   "picture": "a sting retreating",
+   "feeling": "jealousy fading",
+   "vehicles": [
+    "stinger"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's jealousy",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 57,
+   "verified": true,
+   "quote": "being wonderful at a woman",
+   "picture": "performing at someone",
+   "feeling": "charming someone",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 57,
+   "verified": true,
+   "quote": "the rest of the room caught up",
+   "picture": "catching up",
+   "feeling": "reason returning",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 57,
+   "verified": true,
+   "quote": "checking it for the trapdoor",
+   "picture": "a trapdoor",
+   "feeling": "distrust of good fortune",
+   "vehicles": [
+    "trapdoor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 59,
+   "verified": true,
+   "quote": "Winter weeknights empty a room early, and this one obliged",
+   "picture": "obliging night",
+   "feeling": "cooperating night",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 59,
+   "verified": true,
+   "quote": "Kayla left in a flurry of hugs",
+   "picture": "a flurry",
+   "feeling": "quick bustle",
+   "vehicles": [
+    "flurry"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Kayla",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 61,
+   "verified": true,
+   "quote": "the steel guitar walking along under the last of the conversation",
+   "picture": "a walker",
+   "feeling": "gentle accompaniment",
+   "vehicles": [
+    "guitar"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the music",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 61,
+   "verified": true,
+   "quote": "taking the night apart the way you do at the end of one that went right",
+   "picture": "disassembling",
+   "feeling": "post-event review",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the three",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 63,
+   "verified": true,
+   "quote": "a man whose evening had gone the distance",
+   "picture": "a boxing match",
+   "feeling": "full satisfying evening",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 65,
+   "verified": true,
+   "quote": "flat panic",
+   "picture": "flat",
+   "feeling": "sudden fear",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 65,
+   "verified": true,
+   "quote": "*knows* was suddenly a live word",
+   "picture": "live wire",
+   "feeling": "charged danger",
+   "vehicles": [
+    "wire"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 65,
+   "verified": true,
+   "quote": "the heat came up her throat anyway",
+   "picture": "rising heat",
+   "feeling": "blush",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 65,
+   "verified": true,
+   "quote": "watching it climb",
+   "picture": "climbing",
+   "feeling": "blush rising",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's blush",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 65,
+   "verified": true,
+   "quote": "brighter than the lamplight called for",
+   "picture": "light",
+   "feeling": "glittering delight",
+   "vehicles": [
+    "lamplight"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's eyes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 69,
+   "verified": true,
+   "quote": "leaned back out of the light",
+   "picture": "stepping out of light",
+   "feeling": "ceding attention",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 71,
+   "verified": true,
+   "quote": "the blush arriving whole this time",
+   "picture": "arrival",
+   "feeling": "complete blush",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 71,
+   "verified": true,
+   "quote": "eyes flashing",
+   "picture": "a flash",
+   "feeling": "sparkling mischief",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 73,
+   "verified": true,
+   "quote": "Vee sat pinned in the brightness of it",
+   "picture": "pinned insect",
+   "feeling": "held in intense attention",
+   "vehicles": [
+    "brightness"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 73,
+   "verified": true,
+   "quote": "the teasing going out of her voice",
+   "picture": "something leaving",
+   "feeling": "playfulness vanishing",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 73,
+   "verified": true,
+   "quote": "it was turning true",
+   "picture": "turning",
+   "feeling": "becoming real",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's words",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 73,
+   "verified": true,
+   "quote": "the highlight of my year",
+   "picture": "highlight",
+   "feeling": "best part",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "meeting Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 75,
+   "verified": true,
+   "quote": "too full to aim her face at either of them",
+   "picture": "full vessel, aiming",
+   "feeling": "overwhelmed",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "a glazed sort of quiet",
+   "picture": "glazed surface",
+   "feeling": "absent stillness",
+   "vehicles": [
+    "glaze"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "when something she'd told got all the way in",
+   "picture": "penetration",
+   "feeling": "deeply affecting",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "moved whole rooms for a living and was so rarely moved herself",
+   "picture": "moving",
+   "feeling": "emotional affect",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "loved her so much it ached",
+   "picture": "aching",
+   "feeling": "intense love",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "Randi came back from wherever she'd been",
+   "picture": "travel",
+   "feeling": "returning from absorption",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 77,
+   "verified": true,
+   "quote": "the smile got loose from her a little",
+   "picture": "escaping animal",
+   "feeling": "unplanned smile",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 79,
+   "verified": true,
+   "quote": "the pine room had that end-of-the-reel feel",
+   "picture": "film reel ending",
+   "feeling": "warm completion",
+   "vehicles": [
+    "reel"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 79,
+   "verified": true,
+   "quote": "the cold hit like a dropped curtain",
+   "picture": "dropped curtain",
+   "feeling": "sudden cold",
+   "vehicles": [
+    "curtain"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 81,
+   "verified": true,
+   "quote": "nothing in it a parking lot couldn't hold",
+   "picture": "container",
+   "feeling": "innocuous public",
+   "vehicles": [
+    "lot"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the kiss",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "Vee stood a second in the wake of it",
+   "picture": "boat wake",
+   "feeling": "aftermath of randi leaving",
+   "vehicles": [
+    "wake"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "looking at the sky like a man checking for weather",
+   "picture": "checking weather",
+   "feeling": "casual unreadable",
+   "vehicles": [
+    "weather"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "a wondering went through Vee, light as a moth",
+   "picture": "a moth",
+   "feeling": "faint curiosity",
+   "vehicles": [
+    "moth"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "the wondering blew off across the blacktop with her breath",
+   "picture": "blown away",
+   "feeling": "thought dispersing",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's wondering",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "finally landing where it had been headed all night",
+   "picture": "landing",
+   "feeling": "culmination",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the kiss",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "the night she'd been carrying behind her ribs all evening, all its lamps lit",
+   "picture": "carried lit lamps",
+   "feeling": "held glowing anticipation",
+   "vehicles": [
+    "rib",
+    "lamp"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 85,
+   "verified": true,
+   "quote": "her whole body answered its own boldness",
+   "picture": "answering",
+   "feeling": "body responding",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "like a man setting something down",
+   "picture": "setting down a burden",
+   "feeling": "relief",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "she was greedy about it",
+   "picture": "greed",
+   "feeling": "hungry desire",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "listening to him come apart by degrees",
+   "picture": "unraveling",
+   "feeling": "losing control",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "every part of him pulled down to one place",
+   "picture": "gathering",
+   "feeling": "focused concentration",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "his hand sat weightless and stunned in her hair",
+   "picture": "stunned creature",
+   "feeling": "dazed limpness",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Pace's hand",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "She could live on that stillness",
+   "picture": "sustenance",
+   "feeling": "deep craving",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 89,
+   "verified": true,
+   "quote": "down to zero",
+   "picture": "a number",
+   "feeling": "complete stillness",
+   "vehicles": [
+    "zero"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 91,
+   "verified": true,
+   "quote": "his heartbeat enormous under her ear",
+   "picture": "large sound",
+   "feeling": "intimate closeness",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace's heartbeat",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 95,
+   "verified": true,
+   "quote": "the wanting came up through her so plainly it was almost calm",
+   "picture": "rising water",
+   "feeling": "clear steady desire",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 101,
+   "verified": true,
+   "quote": "her blood still down somewhere low and humming",
+   "picture": "humming blood",
+   "feeling": "lingering arousal",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "let it warm her from the middle out",
+   "picture": "warming",
+   "feeling": "spreading comfort",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "too sweet to poke at",
+   "picture": "sweetness",
+   "feeling": "preciousness",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "the truth",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "the warmth kept going. It went down.",
+   "picture": "traveling warmth",
+   "feeling": "arousal descending",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "with the whole state of Virginia between them",
+   "picture": "distance",
+   "feeling": "far separation",
+   "vehicles": [
+    "state"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "the dark bloom of herself",
+   "picture": "a blooming flower",
+   "feeling": "stain spreading",
+   "vehicles": [
+    "bloom"
+   ],
+   "sensation": "opening",
+   "applies_to": "the stain on the coat",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 111,
+   "verified": true,
+   "quote": "there was another dark road in her all at once",
+   "picture": "road within her",
+   "feeling": "memory flooding",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 115,
+   "verified": true,
+   "quote": "her face was burning",
+   "picture": "fire",
+   "feeling": "embarrassed flush",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 117,
+   "verified": true,
+   "quote": "an offering she had to keep making",
+   "picture": "an offering",
+   "feeling": "deliberate giving",
+   "vehicles": [
+    "offering"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 117,
+   "verified": true,
+   "quote": "the unbearable sweet center of it",
+   "picture": "center of fruit",
+   "feeling": "intense sweetness",
+   "vehicles": [
+    "center"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "the moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 117,
+   "verified": true,
+   "quote": "like the road itself was something he was doing to her",
+   "picture": "road as his act",
+   "feeling": "being carried by him",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the truck ride",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 117,
+   "verified": true,
+   "quote": "he drove her through it, easy, all the way down the far side of it",
+   "picture": "driving over a hill",
+   "feeling": "guided through climax",
+   "vehicles": [
+    "hill"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 117,
+   "verified": true,
+   "quote": "lay flat on his forearm like something washed ashore",
+   "picture": "washed ashore",
+   "feeling": "limp exhaustion",
+   "vehicles": [
+    "shore"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's hand",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 119,
+   "verified": true,
+   "quote": "some small sentence in her was still standing at a window somewhere",
+   "picture": "someone at a window",
+   "feeling": "lingering unease watching",
+   "vehicles": [
+    "window"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 119,
+   "verified": true,
+   "quote": "it couldn't have made itself heard tonight over her own blood",
+   "picture": "drowned voice",
+   "feeling": "doubt drowned out",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's doubt",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "among-friends",
+   "line": 119,
+   "verified": true,
+   "quote": "riding claimed and easy and openly undone",
+   "picture": "riding",
+   "feeling": "settled satisfaction",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

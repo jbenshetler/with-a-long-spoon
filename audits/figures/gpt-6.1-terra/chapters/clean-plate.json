@@ -1,0 +1,4360 @@
+{
+ "slug": "clean-plate",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "1c498de0e360",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "clean-plate",
+   "line": 7,
+   "verified": true,
+   "quote": "there was nothing in the world but the black line and her own breath",
+   "picture": "an emptied world",
+   "feeling": "complete absorption in swimming",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 7,
+   "verified": true,
+   "quote": "her head went quiet",
+   "picture": "a quiet room",
+   "feeling": "thoughts falling still",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 7,
+   "verified": true,
+   "quote": "her body doing work it had known since she was twelve",
+   "picture": "a knowing person",
+   "feeling": "familiar bodily skill",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 9,
+   "verified": true,
+   "quote": "the old drill",
+   "picture": "a practiced drill",
+   "feeling": "familiar automatic routine",
+   "vehicles": [
+    "drill"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's routine",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 11,
+   "verified": true,
+   "quote": "the water came out of that showerhead like an apology",
+   "picture": "an apologetic person",
+   "feeling": "weak shower flow",
+   "vehicles": [
+    "apology"
+   ],
+   "sensation": "none",
+   "applies_to": "the shower water",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 11,
+   "verified": true,
+   "quote": "talk her hair back down",
+   "picture": "calming a person",
+   "feeling": "hair brought under control",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Vee's hair",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 13,
+   "verified": true,
+   "quote": "she'd quietly built the rest of it around",
+   "picture": "a surrounding structure",
+   "feeling": "anticipation shaping her day",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's day",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 15,
+   "verified": true,
+   "quote": "Only the second table",
+   "picture": "a dinner table",
+   "feeling": "downplaying the second date",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's dinner with Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 15,
+   "verified": true,
+   "quote": "keyed-up gladness",
+   "picture": "a tightened spring",
+   "feeling": "excited anticipatory happiness",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "the whole weekend to hand across",
+   "picture": "a handed gift",
+   "feeling": "eagerness to share experiences",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's weekend",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "saved up two days",
+   "picture": "stored valuables",
+   "feeling": "experiences held for sharing",
+   "vehicles": [
+    "valuable"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's weekend",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "built to take a story like that at full value",
+   "picture": "a valued gift",
+   "feeling": "confidence in randi's appreciation",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "Tuesday they'd almost gotten there",
+   "picture": "a journey's destination",
+   "feeling": "nearly reaching the ending",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "the place stacked the chairs on the best of it",
+   "picture": "chairs covering a story",
+   "feeling": "story interrupted by closing",
+   "vehicles": [
+    "chair"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 17,
+   "verified": true,
+   "quote": "sent the rest home in her pocket",
+   "picture": "a pocketed object",
+   "feeling": "story kept for later",
+   "vehicles": [
+    "pocket",
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "turning that ending over",
+   "picture": "a handled object",
+   "feeling": "repeatedly considering the ending",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the ending of Vee's story",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "polishing the parts",
+   "picture": "polished objects",
+   "feeling": "refining the story",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "the way you carry a thing you can't wait to give away",
+   "picture": "a carried gift",
+   "feeling": "eager anticipation of sharing",
+   "vehicles": [
+    "thing",
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "one small wrinkle near the finish",
+   "picture": "a small wrinkle",
+   "feeling": "a minor unresolved complication",
+   "vehicles": [
+    "wrinkle"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's experience",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "everything gone sideways",
+   "picture": "sideways movement",
+   "feeling": "a moment of wrongness",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's experience",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "that was a footnote",
+   "picture": "a textual footnote",
+   "feeling": "a detail treated as minor",
+   "vehicles": [
+    "footnote"
+   ],
+   "sensation": "none",
+   "applies_to": "the strange moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 19,
+   "verified": true,
+   "quote": "dying to tell",
+   "picture": "approaching death",
+   "feeling": "intense eagerness to tell",
+   "vehicles": [
+    "death"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 21,
+   "verified": true,
+   "quote": "Tuesday's verdict on that was in",
+   "picture": "a court verdict",
+   "feeling": "a decision already made",
+   "vehicles": [
+    "verdict"
+   ],
+   "sensation": "none",
+   "applies_to": "the wrap",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 21,
+   "verified": true,
+   "quote": "no plan to confess it across a white cloth",
+   "picture": "a confession",
+   "feeling": "reluctance to reveal the price",
+   "vehicles": [
+    "confession"
+   ],
+   "sensation": "none",
+   "applies_to": "the skirt's price",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 23,
+   "verified": true,
+   "quote": "The arithmetic had run one way since high school",
+   "picture": "a calculation",
+   "feeling": "a recurring clothing problem",
+   "vehicles": [
+    "calculation"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's clothing choices",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 23,
+   "verified": true,
+   "quote": "drowned her waist",
+   "picture": "a drowning",
+   "feeling": "waist hidden by loose clothing",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's waist",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 23,
+   "verified": true,
+   "quote": "lived in the tent",
+   "picture": "a roomy tent",
+   "feeling": "wearing excessively loose clothes",
+   "vehicles": [
+    "tent"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's clothing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 25,
+   "verified": true,
+   "quote": "Stretch changed the math",
+   "picture": "a changed calculation",
+   "feeling": "a new clothing possibility",
+   "vehicles": [
+    "calculation"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's clothing choices",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 25,
+   "verified": true,
+   "quote": "on the strength of it",
+   "picture": "physical strength",
+   "feeling": "confidence in the stretch",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's choice",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 25,
+   "verified": true,
+   "quote": "you shopped with your eye and not your budget",
+   "picture": "an eye choosing",
+   "feeling": "desire overriding financial restraint",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's shopping",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 27,
+   "verified": true,
+   "quote": "the knit going everywhere it was sent",
+   "picture": "a directed traveler",
+   "feeling": "fabric fitting her body",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the sweater",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 27,
+   "verified": true,
+   "quote": "left the deciding there",
+   "picture": "a set-down object",
+   "feeling": "ending her deliberation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's decision",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 29,
+   "verified": true,
+   "quote": "that had answered itself",
+   "picture": "a speaking question",
+   "feeling": "an obvious prior decision",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "whether Vee would eat first",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 29,
+   "verified": true,
+   "quote": "hungry in the pleasant, banked way",
+   "picture": "a banked fire",
+   "feeling": "contained pleasurable anticipation",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's hunger",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 35,
+   "verified": true,
+   "quote": "Vee dropped into the held seat",
+   "picture": "a falling body",
+   "feeling": "quick relaxed sitting",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 35,
+   "verified": true,
+   "quote": "Randi's hand found hers",
+   "picture": "a searching hand",
+   "feeling": "familiar affectionate contact",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's hand",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 37,
+   "verified": true,
+   "quote": "the room noticed",
+   "picture": "an attentive room",
+   "feeling": "shared audience attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the audience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 39,
+   "verified": true,
+   "quote": "so the lecture hall could fail to see it",
+   "picture": "a seeing hall",
+   "feeling": "audience unable to see",
+   "vehicles": [
+    "hall"
+   ],
+   "sensation": "none",
+   "applies_to": "the audience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 43,
+   "verified": true,
+   "quote": "She let that sit",
+   "picture": "an object at rest",
+   "feeling": "allowing the statement to settle",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Dr. Marsh's statement",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 43,
+   "verified": true,
+   "quote": "a row of teeth",
+   "picture": "a row of teeth",
+   "feeling": "closely spaced comb prongs",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "none",
+   "applies_to": "the comb",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 45,
+   "verified": true,
+   "quote": "A baboon budgets a fifth of its waking life",
+   "picture": "a money budget",
+   "feeling": "time devoted to grooming",
+   "vehicles": [
+    "budget",
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "a baboon's time",
+   "pov": "Dr. Marsh",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 45,
+   "verified": true,
+   "quote": "you can draw the whole politics of it",
+   "picture": "a drawn map",
+   "feeling": "social relations made visible",
+   "vehicles": [
+    "map"
+   ],
+   "sensation": "none",
+   "applies_to": "the troop's politics",
+   "pov": "Dr. Marsh",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 47,
+   "verified": true,
+   "quote": "a hiker sighting a ridgeline",
+   "picture": "a hiker and ridgeline",
+   "feeling": "alert forward-looking anticipation",
+   "vehicles": [
+    "hiker",
+    "ridgeline"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Dr. Marsh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 47,
+   "verified": true,
+   "quote": "gone from the budget",
+   "picture": "a money budget",
+   "feeling": "time no longer allocated",
+   "vehicles": [
+    "budget",
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "people's waking time",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 47,
+   "verified": true,
+   "quote": "Nothing is free",
+   "picture": "a financial cost",
+   "feeling": "activities having a cost",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "people's use of time",
+   "pov": "Dr. Marsh",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 47,
+   "verified": true,
+   "quote": "what you spend it on now",
+   "picture": "money being spent",
+   "feeling": "time allocated to activities",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "people's waking time",
+   "pov": "Dr. Marsh",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 49,
+   "verified": true,
+   "quote": "the comb went hand to hand up the rows behind it like a slow rumor",
+   "picture": "a spreading rumor",
+   "feeling": "slow movement through the audience",
+   "vehicles": [
+    "rumor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the comb",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 49,
+   "verified": true,
+   "quote": "absorbed into some row",
+   "picture": "liquid being absorbed",
+   "feeling": "comb disappearing among students",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "none",
+   "applies_to": "the comb",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 51,
+   "verified": true,
+   "quote": "a whole reef economy of trust and cheating",
+   "picture": "an economic system",
+   "feeling": "complex reciprocal reef relationships",
+   "vehicles": [
+    "economy"
+   ],
+   "sensation": "none",
+   "applies_to": "the reef",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 51,
+   "verified": true,
+   "quote": "keep her mostly out of her own head",
+   "picture": "a room in the head",
+   "feeling": "attention diverted from thoughts",
+   "vehicles": [
+    "head",
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 51,
+   "verified": true,
+   "quote": "the whole good evening sat banked and waiting to be spent",
+   "picture": "money in reserve",
+   "feeling": "pleasurable anticipation held in reserve",
+   "vehicles": [
+    "money",
+    "bank"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the evening",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 53,
+   "verified": true,
+   "quote": "it lived there all winter",
+   "picture": "a resident",
+   "feeling": "candy kept habitually nearby",
+   "vehicles": [
+    "resident"
+   ],
+   "sensation": "none",
+   "applies_to": "the Lifesavers roll",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 55,
+   "verified": true,
+   "quote": "the hall let them out",
+   "picture": "a releasing person",
+   "feeling": "class ending",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the lecture hall",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 57,
+   "verified": true,
+   "quote": "the cold took their breath and handed it back sharpened",
+   "picture": "a sharpened object",
+   "feeling": "cold air sharpening their breath",
+   "vehicles": [
+    "object",
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee and Randi's breath",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 57,
+   "verified": true,
+   "quote": "the edge of campus",
+   "picture": "an object's edge",
+   "feeling": "leaving campus",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "campus",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 59,
+   "verified": true,
+   "quote": "a smile already loading in Randi's voice",
+   "picture": "a loaded object",
+   "feeling": "audible emerging amusement",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's voice",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 61,
+   "verified": true,
+   "quote": "it came up out of her all at once",
+   "picture": "a rising substance",
+   "feeling": "sudden rush of words",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 61,
+   "verified": true,
+   "quote": "she'd been full of it",
+   "picture": "a filled container",
+   "feeling": "pent-up eagerness to tell",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 61,
+   "verified": true,
+   "quote": "the one person built to take the whole thing",
+   "picture": "a receptive container",
+   "feeling": "confidence in randi's understanding",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 63,
+   "verified": true,
+   "quote": "He was a *hit.*",
+   "picture": "a successful performance",
+   "feeling": "strong social success",
+   "vehicles": [
+    "performance"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 65,
+   "verified": true,
+   "quote": "still not over it",
+   "picture": "an obstacle crossed",
+   "feeling": "lingering delighted surprise",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 65,
+   "verified": true,
+   "quote": "Like he'd been calling me that for years",
+   "picture": "a longstanding habit",
+   "feeling": "easy repeated familiarity",
+   "vehicles": [
+    "habit"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace calling Vee his girlfriend",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 69,
+   "verified": true,
+   "quote": "I about fell over",
+   "picture": "a falling person",
+   "feeling": "strong surprise",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 71,
+   "verified": true,
+   "quote": "what lived down there",
+   "picture": "a hidden inhabitant",
+   "feeling": "recognition of intimate meaning",
+   "vehicles": [
+    "inhabitant"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's lowered voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 71,
+   "verified": true,
+   "quote": "the cold street made a private room",
+   "picture": "a private room",
+   "feeling": "intimacy amid the street",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the street",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 75,
+   "verified": true,
+   "quote": "the words tumbling now",
+   "picture": "tumbling objects",
+   "feeling": "rapid eager speech",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 81,
+   "verified": true,
+   "quote": "the door breathing heat onto the walk",
+   "picture": "a breathing mouth",
+   "feeling": "warm air issuing outside",
+   "vehicles": [
+    "mouth",
+    "breath"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the restaurant door",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 81,
+   "verified": true,
+   "quote": "It came up on them like a hand laid over her mouth mid-word",
+   "picture": "a silencing hand",
+   "feeling": "speech abruptly interrupted",
+   "vehicles": [
+    "hand",
+    "mouth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the restaurant's arrival",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 83,
+   "verified": true,
+   "quote": "a little unstrung",
+   "picture": "a loosened string",
+   "feeling": "excited and unsettled",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee and Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 83,
+   "verified": true,
+   "quote": "a good way down a road and hauled up by a destination neither had been watching for",
+   "picture": "an interrupted journey",
+   "feeling": "story abruptly interrupted",
+   "vehicles": [
+    "road",
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee and Randi's conversation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 87,
+   "verified": true,
+   "quote": "the story yanked out from under her",
+   "picture": "a pulled support",
+   "feeling": "abrupt loss of momentum",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 89,
+   "verified": true,
+   "quote": "a violin walking through it",
+   "picture": "a walking person",
+   "feeling": "a moving violin line",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the violin music",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "The corner booth in the loft had waited",
+   "picture": "a waiting person",
+   "feeling": "a familiar place awaiting them",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the corner booth",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "They shed coats",
+   "picture": "a shed skin",
+   "feeling": "hurried removal of coats",
+   "vehicles": [
+    "skin"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee and Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "like people with somewhere to be",
+   "picture": "hurried travelers",
+   "feeling": "shared eagerness to continue",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee and Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "the story, still standing open back on the sidewalk",
+   "picture": "an open book",
+   "feeling": "a story awaiting continuation",
+   "vehicles": [
+    "book"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "the door had cut it off",
+   "picture": "a severed object",
+   "feeling": "story abruptly interrupted",
+   "vehicles": [
+    "blade",
+    "object"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "the dark bloom of herself",
+   "picture": "a dark flower",
+   "feeling": "a visible trace of her body",
+   "vehicles": [
+    "bloom",
+    "flower"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the mark inside Vee's coat",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 91,
+   "verified": true,
+   "quote": "the body telling on her",
+   "picture": "a tattling person",
+   "feeling": "private evidence exposed",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 93,
+   "verified": true,
+   "quote": "coming up bright",
+   "picture": "a bright light",
+   "feeling": "randi's cheerful emergence",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 93,
+   "verified": true,
+   "quote": "The coat had remembered, and shown her",
+   "picture": "a remembering person",
+   "feeling": "a private trace revealed",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's coat",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 93,
+   "verified": true,
+   "quote": "she'd shut it away against the wall like a drawer closing on a photograph",
+   "picture": "a drawer and photograph",
+   "feeling": "private evidence concealed",
+   "vehicles": [
+    "drawer",
+    "photograph"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the mark in Vee's coat",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 95,
+   "verified": true,
+   "quote": "frank as an appraisal",
+   "picture": "an appraisal",
+   "feeling": "open admiring scrutiny",
+   "vehicles": [
+    "appraisal"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's look",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 97,
+   "verified": true,
+   "quote": "It's criminal what you've been hiding",
+   "picture": "a criminal offense",
+   "feeling": "playful admiring reproach",
+   "vehicles": [
+    "crime"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's concealed figure",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 97,
+   "verified": true,
+   "quote": "the way you hold a thing up to the light to see it properly",
+   "picture": "an examined object",
+   "feeling": "close appreciative attention",
+   "vehicles": [
+    "thing",
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 99,
+   "verified": true,
+   "quote": "a warmth climbed her face",
+   "picture": "a climbing thing",
+   "feeling": "pleased blushing",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 99,
+   "verified": true,
+   "quote": "pleasure, the whole distance of it",
+   "picture": "a traveled distance",
+   "feeling": "pleasure fully unfolding",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's pleasure",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 105,
+   "verified": true,
+   "quote": "no idea on earth",
+   "picture": "the whole earth",
+   "feeling": "complete lack of knowledge",
+   "vehicles": [
+    "earth"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's knowledge of the special",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 107,
+   "verified": true,
+   "quote": "the sidewalk had cut Vee off",
+   "picture": "a severed object",
+   "feeling": "speech interrupted by arrival",
+   "vehicles": [
+    "blade",
+    "object"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's story",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 107,
+   "verified": true,
+   "quote": "holding the place open like a thumb in a book",
+   "picture": "a thumb in a book",
+   "feeling": "inviting the story to resume",
+   "vehicles": [
+    "thumb",
+    "book"
+   ],
+   "sensation": "opening",
+   "applies_to": "the place in Vee's story",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 109,
+   "verified": true,
+   "quote": "the version that crossed a white cloth clean",
+   "picture": "a clean table crossing",
+   "feeling": "a socially presentable account",
+   "vehicles": [
+    "cloth",
+    "table"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's version of the story",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 109,
+   "verified": true,
+   "quote": "he *came apart.*",
+   "picture": "an object coming apart",
+   "feeling": "pace losing composure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 109,
+   "verified": true,
+   "quote": "his hand came into my hair and forgot it was there",
+   "picture": "a forgetful person",
+   "feeling": "absorbed loss of awareness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's hand",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 109,
+   "verified": true,
+   "quote": "She reached for the clean word",
+   "picture": "a reachable object",
+   "feeling": "searching for restrained phrasing",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's choice of words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 111,
+   "verified": true,
+   "quote": "the true thing folded down to something you could set on a cloth",
+   "picture": "a folded object",
+   "feeling": "experience made small and presentable",
+   "vehicles": [
+    "object",
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 111,
+   "verified": true,
+   "quote": "Randi had the size of exactly what was missing",
+   "picture": "a measured gap",
+   "feeling": "randi understanding the omission",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the omitted details",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 113,
+   "verified": true,
+   "quote": "Randi let that sit, and set one finger down on it",
+   "picture": "a finger on an object",
+   "feeling": "pointed attention to the omission",
+   "vehicles": [
+    "finger",
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 115,
+   "verified": true,
+   "quote": "the question put her body back in the cab",
+   "picture": "a body moved back",
+   "feeling": "vivid bodily recollection",
+   "vehicles": [
+    "body",
+    "cab"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 115,
+   "verified": true,
+   "quote": "her nipples singing",
+   "picture": "a singing voice",
+   "feeling": "lingering physical arousal",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's nipples",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 115,
+   "verified": true,
+   "quote": "Half of her was still down there; the word came from the other half",
+   "picture": "a divided person",
+   "feeling": "attention split between moments",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 117,
+   "verified": true,
+   "quote": "Didn't spill a drop?",
+   "picture": "spilled liquid",
+   "feeling": "teasing sexual inquiry",
+   "vehicles": [
+    "drop"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 119,
+   "verified": true,
+   "quote": "that dropped her into the end of it",
+   "picture": "a sudden fall",
+   "feeling": "sudden immersion in memory",
+   "vehicles": [
+    "fall"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 119,
+   "verified": true,
+   "quote": "the pulse and the flood",
+   "picture": "a flood",
+   "feeling": "intense remembered ejaculation",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Pace's ejaculation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 119,
+   "verified": true,
+   "quote": "undone a man that steady",
+   "picture": "an unfastened object",
+   "feeling": "pace's composure coming apart",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 121,
+   "verified": true,
+   "quote": "without a scrap of mercy",
+   "picture": "a small scrap",
+   "feeling": "playful relentless teasing",
+   "vehicles": [
+    "scrap"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 125,
+   "verified": true,
+   "quote": "the part she could stand to give",
+   "picture": "a handed object",
+   "feeling": "limited willingness to disclose",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 125,
+   "verified": true,
+   "quote": "The sly came back with the ground under it",
+   "picture": "ground underfoot",
+   "feeling": "teasing confidence returning",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's manner",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 129,
+   "verified": true,
+   "quote": "The sanded version",
+   "picture": "a sanded surface",
+   "feeling": "an account made smoother",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 129,
+   "verified": true,
+   "quote": "her eyes going soft on it",
+   "picture": "eyes becoming soft",
+   "feeling": "tenderness toward the memory",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 135,
+   "verified": true,
+   "quote": "let her round it",
+   "picture": "rounding an edge",
+   "feeling": "refusal to soften details",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 137,
+   "verified": true,
+   "quote": "pinned again",
+   "picture": "a pinned person",
+   "feeling": "pressed to answer",
+   "vehicles": [
+    "pin"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 137,
+   "verified": true,
+   "quote": "gave it — but small, close, the way you hand over the true thing",
+   "picture": "an object handed over",
+   "feeling": "cautious intimate disclosure",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 137,
+   "verified": true,
+   "quote": "pushed on",
+   "picture": "pushing forward",
+   "feeling": "continuing despite hesitation",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 137,
+   "verified": true,
+   "quote": "I went off",
+   "picture": "something going off",
+   "feeling": "sexual climax",
+   "vehicles": [
+    "explosion"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 141,
+   "verified": true,
+   "quote": "fell on it",
+   "picture": "falling on food",
+   "feeling": "eager hunger",
+   "vehicles": [
+    "food",
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 141,
+   "verified": true,
+   "quote": "Her whole mind was still up the county road",
+   "picture": "a mind on a road",
+   "feeling": "absorbed in the memory",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "you still owe me Tuesday",
+   "picture": "an unpaid debt",
+   "feeling": "demand for the story",
+   "vehicles": [
+    "debt"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "The bawdy note came into it",
+   "picture": "a musical note",
+   "feeling": "a teasing tone emerges",
+   "vehicles": [
+    "note"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "they turned the lights out on me",
+   "picture": "lights switched off",
+   "feeling": "a story interrupted",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "the pleasure princess",
+   "picture": "a royal princess",
+   "feeling": "playful sexual grandeur",
+   "vehicles": [
+    "princess"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "her slave",
+   "picture": "an enslaved servant",
+   "feeling": "playful sexual submission",
+   "vehicles": [
+    "slave"
+   ],
+   "sensation": "none",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 143,
+   "verified": true,
+   "quote": "Court's back in session",
+   "picture": "a court assembled",
+   "feeling": "the royal game resumes",
+   "vehicles": [
+    "court"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi and Vee's conversation",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 145,
+   "verified": true,
+   "quote": "it had all her appetite in it",
+   "picture": "appetite inside laughter",
+   "feeling": "eager enjoyment",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's laughter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 153,
+   "verified": true,
+   "quote": "the story mid-air",
+   "picture": "a story suspended",
+   "feeling": "story abruptly interrupted",
+   "vehicles": [
+    "air",
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee's story",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 159,
+   "verified": true,
+   "quote": "Her eyes were dancing",
+   "picture": "dancing eyes",
+   "feeling": "playful amusement",
+   "vehicles": [
+    "eye",
+    "dancer"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 159,
+   "verified": true,
+   "quote": "You do like a flavor",
+   "picture": "a flavor tasted",
+   "feeling": "teasing sexual innuendo",
+   "vehicles": [
+    "flavor"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 163,
+   "verified": true,
+   "quote": "losing it now",
+   "picture": "lost control",
+   "feeling": "overcome by laughter",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 165,
+   "verified": true,
+   "quote": "caught full in it",
+   "picture": "a person caught",
+   "feeling": "absorbed in the joke",
+   "vehicles": [
+    "trap"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 165,
+   "verified": true,
+   "quote": "hand flying to her chest",
+   "picture": "a flying hand",
+   "feeling": "quick mock surprise",
+   "vehicles": [
+    "hand",
+    "bird"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 169,
+   "verified": true,
+   "quote": "They are *adjacent!*",
+   "picture": "neighboring things",
+   "feeling": "playful connection acknowledged",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "none",
+   "applies_to": "the two subjects",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 169,
+   "verified": true,
+   "quote": "She waved it off",
+   "picture": "something waved away",
+   "feeling": "playful dismissal",
+   "vehicles": [
+    "hand",
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's teasing",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 169,
+   "verified": true,
+   "quote": "the story pulled her back down into the house",
+   "picture": "a person pulled",
+   "feeling": "memory draws her in",
+   "vehicles": [
+    "house",
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 169,
+   "verified": true,
+   "quote": "it's a whole liturgy",
+   "picture": "a religious ritual",
+   "feeling": "familiar ordered devotion",
+   "vehicles": [
+    "liturgy"
+   ],
+   "sensation": "none",
+   "applies_to": "the man's cooking and clearing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 173,
+   "verified": true,
+   "quote": "I'd been fed within an inch of my life",
+   "picture": "a tiny remaining distance",
+   "feeling": "extravagant fullness",
+   "vehicles": [
+    "inch"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 173,
+   "verified": true,
+   "quote": "Like a front nobody forecast",
+   "picture": "an unforecast weather front",
+   "feeling": "desire arriving suddenly",
+   "vehicles": [
+    "front"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 181,
+   "verified": true,
+   "quote": "Like it was an accident that took two full seconds",
+   "picture": "a prolonged accident",
+   "feeling": "deliberate feigned innocence",
+   "vehicles": [
+    "accident"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's touch",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 183,
+   "verified": true,
+   "quote": "That exact crime",
+   "picture": "a repeated crime",
+   "feeling": "playful accusation",
+   "vehicles": [
+    "crime"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's touch",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 189,
+   "verified": true,
+   "quote": "It was like catching an eclipse",
+   "picture": "an eclipse observed",
+   "feeling": "surprise at a rarity",
+   "vehicles": [
+    "eclipse"
+   ],
+   "sensation": "none",
+   "applies_to": "the man's puzzled expression",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 195,
+   "verified": true,
+   "quote": "sitting up like a woman at a parade",
+   "picture": "a parade spectator",
+   "feeling": "eager amused attention",
+   "vehicles": [
+    "woman",
+    "parade"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 195,
+   "verified": true,
+   "quote": "The pleasure princess",
+   "picture": "a royal princess",
+   "feeling": "playful sexual grandeur",
+   "vehicles": [
+    "princess"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 195,
+   "verified": true,
+   "quote": "Processing to her chambers",
+   "picture": "a royal procession",
+   "feeling": "ceremonious playful dignity",
+   "vehicles": [
+    "procession",
+    "chamber"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 195,
+   "verified": true,
+   "quote": "bare as the day",
+   "picture": "a newborn baby",
+   "feeling": "complete nakedness",
+   "vehicles": [
+    "baby"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 195,
+   "verified": true,
+   "quote": "the slave *follows",
+   "picture": "an enslaved servant",
+   "feeling": "playful sexual submission",
+   "vehicles": [
+    "slave"
+   ],
+   "sensation": "none",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 197,
+   "verified": true,
+   "quote": "The slave followed",
+   "picture": "an enslaved servant",
+   "feeling": "playful sexual submission",
+   "vehicles": [
+    "slave"
+   ],
+   "sensation": "none",
+   "applies_to": "the man",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 199,
+   "verified": true,
+   "quote": "Off to be royally—",
+   "picture": "a royal occasion",
+   "feeling": "teasing anticipation",
+   "vehicles": [
+    "royalty"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 203,
+   "verified": true,
+   "quote": "serene as a saint",
+   "picture": "a serene saint",
+   "feeling": "composed mischievous satisfaction",
+   "vehicles": [
+    "saint"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 205,
+   "verified": true,
+   "quote": "Her voice went back down into it",
+   "picture": "a voice descending",
+   "feeling": "return to the memory",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 205,
+   "verified": true,
+   "quote": "the telling pulling her inside the house",
+   "picture": "a person pulled indoors",
+   "feeling": "memory draws her in",
+   "vehicles": [
+    "house",
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 205,
+   "verified": true,
+   "quote": "he stopped like the hand had touched him",
+   "picture": "a hand touching someone",
+   "feeling": "immediate responsive attention",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the man",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 207,
+   "verified": true,
+   "quote": "all her lights aimed",
+   "picture": "lights aimed at someone",
+   "feeling": "complete focused attention",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 213,
+   "verified": true,
+   "quote": "like a bird leaving",
+   "picture": "a bird taking flight",
+   "feeling": "swift fluid movement",
+   "vehicles": [
+    "bird"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the apron",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 213,
+   "verified": true,
+   "quote": "all three drawing on the same account",
+   "picture": "a shared bank account",
+   "feeling": "causes blending together",
+   "vehicles": [
+    "account"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's flush",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 215,
+   "verified": true,
+   "quote": "She'd set the court down",
+   "picture": "a court set down",
+   "feeling": "playful royal framing abandoned",
+   "vehicles": [
+    "court"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 217,
+   "verified": true,
+   "quote": "the wrist is a toll booth — you pay it and drive on",
+   "picture": "a roadside toll booth",
+   "feeling": "a perfunctory passing gesture",
+   "vehicles": [
+    "wrist",
+    "toll booth",
+    "car"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "men's attention to the wrist",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 217,
+   "verified": true,
+   "quote": "He parked",
+   "picture": "a parked car",
+   "feeling": "unexpected sustained attention",
+   "vehicles": [
+    "car"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the man",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 219,
+   "verified": true,
+   "quote": "her fingernail found the rim of her glass and rode it",
+   "picture": "a rider on an edge",
+   "feeling": "quiet absorbed attention",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's fingernail",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 219,
+   "verified": true,
+   "quote": "the thin edge singing almost too low to hear",
+   "picture": "a singing edge",
+   "feeling": "a faint sustained sound",
+   "vehicles": [
+    "singer"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the glass",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 221,
+   "verified": true,
+   "quote": "he made me feel it coming from about a mile out",
+   "picture": "an approach from afar",
+   "feeling": "extended physical anticipation",
+   "vehicles": [
+    "mile",
+    "traveler"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 221,
+   "verified": true,
+   "quote": "He went down the wrong side of everything",
+   "picture": "a wrong route",
+   "feeling": "deliberate unexpected attention",
+   "vehicles": [
+    "road",
+    "side"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the man",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 221,
+   "verified": true,
+   "quote": "I aimed him one place and he'd detour",
+   "picture": "a traveler taking detours",
+   "feeling": "desire playfully redirected",
+   "vehicles": [
+    "traveler",
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the man",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 223,
+   "verified": true,
+   "quote": "Each toe got its own kiss like it had done something",
+   "picture": "a person rewarded",
+   "feeling": "amused attentive tenderness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's toes",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 223,
+   "verified": true,
+   "quote": "A sound came out of me I'm not reprinting",
+   "picture": "words printed again",
+   "feeling": "amused embarrassment",
+   "vehicles": [
+    "print"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's sound",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 225,
+   "verified": true,
+   "quote": "Reprint it",
+   "picture": "words printed again",
+   "feeling": "playful demand to repeat",
+   "vehicles": [
+    "print"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's sound",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 227,
+   "verified": true,
+   "quote": "Like a phone from the nineties",
+   "picture": "a ringing phone",
+   "feeling": "a high trilling sound",
+   "vehicles": [
+    "phone"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's sound",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 227,
+   "verified": true,
+   "quote": "I'd been arriving for half an hour",
+   "picture": "a traveler arriving",
+   "feeling": "prolonged sexual anticipation",
+   "vehicles": [
+    "traveler",
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 227,
+   "verified": true,
+   "quote": "He opened me like the orange",
+   "picture": "an orange opened",
+   "feeling": "patient intimate uncovering",
+   "vehicles": [
+    "orange"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 229,
+   "verified": true,
+   "quote": "She heard herself land it",
+   "picture": "an object landing",
+   "feeling": "the comparison taking effect",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's comparison",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 229,
+   "verified": true,
+   "quote": "her body was way out ahead of her",
+   "picture": "a body racing ahead",
+   "feeling": "physical response outruns composure",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 229,
+   "verified": true,
+   "quote": "everything in her pulled tight and humming",
+   "picture": "a taut vibrating string",
+   "feeling": "intense bodily arousal",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 231,
+   "verified": true,
+   "quote": "the room made its noise and left the booth alone",
+   "picture": "a room acting",
+   "feeling": "private quiet amid bustle",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 231,
+   "verified": true,
+   "quote": "didn't hand anything back",
+   "picture": "an object handed back",
+   "feeling": "no answering remark",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 231,
+   "verified": true,
+   "quote": "let the quiet sit",
+   "picture": "quiet seated",
+   "feeling": "silence allowed to remain",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the quiet",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 233,
+   "verified": true,
+   "quote": "fold it up small, tuck it back to a size she could sit behind",
+   "picture": "a folded object",
+   "feeling": "retreat into safer disclosure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 233,
+   "verified": true,
+   "quote": "you can fill in the—",
+   "picture": "a blank filled",
+   "feeling": "leaving details unsaid",
+   "vehicles": [
+    "blank"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "the fond had gone out of her and something level had come in behind it",
+   "picture": "things leaving and entering",
+   "feeling": "affection gives way to firmness",
+   "vehicles": [
+    "container",
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "fade to firelight",
+   "picture": "a scene fading",
+   "feeling": "details softened into suggestion",
+   "vehicles": [
+    "firelight",
+    "scene"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Vee's account",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "You just made it smaller",
+   "picture": "an object made smaller",
+   "feeling": "experience diminished in telling",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's account",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "the fond had gone out of her",
+   "picture": "something leaving a container",
+   "feeling": "affection giving way",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "something level had come in behind it",
+   "picture": "a level object entering",
+   "feeling": "composure replacing affection",
+   "vehicles": [
+    "object",
+    "container"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 235,
+   "verified": true,
+   "quote": "the harder one",
+   "picture": "a hard object",
+   "feeling": "difficulty of telling honestly",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's account",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "the real one was right there, present-tense, running through her again",
+   "picture": "a current running through",
+   "feeling": "memory felt immediately",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's experience",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "as if the booth had gone and turned into the bedroom",
+   "picture": "a room transformed",
+   "feeling": "memory replaces present surroundings",
+   "vehicles": [
+    "booth",
+    "bedroom"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's experience",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "the thing she couldn't call back",
+   "picture": "someone recalled",
+   "feeling": "an uncontrollable expression",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's expression",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "the real one was right there",
+   "picture": "something present nearby",
+   "feeling": "memory immediately present",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "running through her again",
+   "picture": "a current running through",
+   "feeling": "experience returning vividly",
+   "vehicles": [
+    "current",
+    "body"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 237,
+   "verified": true,
+   "quote": "she gave it up",
+   "picture": "an object surrendered",
+   "feeling": "yielding the full account",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 239,
+   "verified": true,
+   "quote": "Like the last of something he'd been promised",
+   "picture": "a final promised portion",
+   "feeling": "eager consuming desire",
+   "vehicles": [
+    "portion"
+   ],
+   "sensation": "none",
+   "applies_to": "the man's attention",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 239,
+   "verified": true,
+   "quote": "legs in the air like a cartoon",
+   "picture": "a cartoon figure",
+   "feeling": "comically exaggerated abandon",
+   "vehicles": [
+    "cartoon"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 239,
+   "verified": true,
+   "quote": "the second one whited me out",
+   "picture": "a field of white",
+   "feeling": "senses overwhelmed by climax",
+   "vehicles": [
+    "whiteout"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 239,
+   "verified": true,
+   "quote": "not tidy at all now",
+   "picture": "an untidy arrangement",
+   "feeling": "speech losing composure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's speech",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 241,
+   "verified": true,
+   "quote": "her bright register",
+   "picture": "a bright musical register",
+   "feeling": "usual playful vocal tone",
+   "vehicles": [
+    "register",
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "the punchline assembled itself in her",
+   "picture": "an object assembling itself",
+   "feeling": "a prepared joke forming",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "the one she'd built on the walk home Tuesday",
+   "picture": "an object built",
+   "feeling": "a joke deliberately constructed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "the one she'd polished in the shower since",
+   "picture": "an object polished",
+   "feeling": "a joke carefully refined",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "funny, closed",
+   "picture": "a closed object",
+   "feeling": "a neatly contained joke",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "the one she'd built",
+   "picture": "a constructed object",
+   "feeling": "deliberately preparing a joke",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 243,
+   "verified": true,
+   "quote": "the one she'd polished",
+   "picture": "a polished object",
+   "feeling": "rehearsing and refining",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's punchline",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 247,
+   "verified": true,
+   "quote": "then it arrives, the taste",
+   "picture": "an arriving visitor",
+   "feeling": "taste suddenly recalled",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's remembered taste",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 249,
+   "verified": true,
+   "quote": "it arrived now, in the booth",
+   "picture": "an arriving visitor",
+   "feeling": "taste returning vividly",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's remembered taste",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 249,
+   "verified": true,
+   "quote": "the bit fell out of her hands",
+   "picture": "a dropped object",
+   "feeling": "losing control of the joke",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's performance",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 251,
+   "verified": true,
+   "quote": "she got hold of it again",
+   "picture": "an object grasped",
+   "feeling": "regaining the comic account",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's performance",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 251,
+   "verified": true,
+   "quote": "a full-system objection",
+   "picture": "a protesting system",
+   "feeling": "whole-body revulsion",
+   "vehicles": [
+    "system"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 251,
+   "verified": true,
+   "quote": "the back of my hand over my mouth like a Victorian",
+   "picture": "a shocked victorian",
+   "feeling": "theatrical shock",
+   "vehicles": [
+    "victorian",
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 253,
+   "verified": true,
+   "quote": "the gesture rerun",
+   "picture": "a replayed recording",
+   "feeling": "a gesture repeated",
+   "vehicles": [
+    "recording"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's gesture",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 255,
+   "verified": true,
+   "quote": "the whole shape",
+   "picture": "a shaped object",
+   "feeling": "the completed account",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's story",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 255,
+   "verified": true,
+   "quote": "her own outrage arranged on the table like a party trick",
+   "picture": "a displayed party trick",
+   "feeling": "outrage made into entertainment",
+   "vehicles": [
+    "table",
+    "trick"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's outrage",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 255,
+   "verified": true,
+   "quote": "she went for the closer",
+   "picture": "a closing performance",
+   "feeling": "aiming for the final joke",
+   "vehicles": [
+    "performance"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 257,
+   "verified": true,
+   "quote": "I want that on the record",
+   "picture": "an official record",
+   "feeling": "insisting on an acknowledgment",
+   "vehicles": [
+    "record"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's statement",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 257,
+   "verified": true,
+   "quote": "wiped his mouth, one pass, like a gentleman",
+   "picture": "a courteous gentleman",
+   "feeling": "calm, courteous response",
+   "vehicles": [
+    "gentleman"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 259,
+   "verified": true,
+   "quote": "longer than Vee had budgeted",
+   "picture": "a time budget",
+   "feeling": "unexpectedly prolonged consideration",
+   "vehicles": [
+    "budget"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi's consideration",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 263,
+   "verified": true,
+   "quote": "It was flat",
+   "picture": "a flat surface",
+   "feeling": "an uninflected answer",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 263,
+   "verified": true,
+   "quote": "Not cold",
+   "picture": "cold temperature",
+   "feeling": "absence of unkindness",
+   "vehicles": [],
+   "sensation": "cold or chill",
+   "applies_to": "Randi's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 263,
+   "verified": true,
+   "quote": "a fact set down on the cloth between them",
+   "picture": "an object on cloth",
+   "feeling": "a calmly stated fact",
+   "vehicles": [
+    "object",
+    "cloth"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 263,
+   "verified": true,
+   "quote": "Vee's laugh came down off its step and stood there in the loft with nowhere to go",
+   "picture": "a stranded person",
+   "feeling": "laughter left awkwardly stranded",
+   "vehicles": [
+    "person",
+    "step",
+    "loft"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 271,
+   "verified": true,
+   "quote": "the deco lines of her",
+   "picture": "art deco lines",
+   "feeling": "randi's composed elegance",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 271,
+   "verified": true,
+   "quote": "the voice she used for restaurant recommendations",
+   "picture": "a restaurant recommendation",
+   "feeling": "matter-of-fact assurance",
+   "vehicles": [
+    "restaurant"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 273,
+   "verified": true,
+   "quote": "It turned me on",
+   "picture": "a switched-on device",
+   "feeling": "sexual arousal",
+   "vehicles": [
+    "switch",
+    "device"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 275,
+   "verified": true,
+   "quote": "that dropped Vee back into the bed",
+   "picture": "a person dropped into bed",
+   "feeling": "sudden immersion in memory",
+   "vehicles": [
+    "bed"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 275,
+   "verified": true,
+   "quote": "Her body remembered the whole of it",
+   "picture": "a remembering body",
+   "feeling": "physical memory of pleasure",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 275,
+   "verified": true,
+   "quote": "had no complaint",
+   "picture": "a contented speaker",
+   "feeling": "unqualified physical pleasure",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 277,
+   "verified": true,
+   "quote": "her eyes listening",
+   "picture": "listening eyes",
+   "feeling": "attentive observation",
+   "vehicles": [
+    "eye",
+    "ear"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 279,
+   "verified": true,
+   "quote": "a settled thing",
+   "picture": "an object at rest",
+   "feeling": "an apparently resolved matter",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 279,
+   "verified": true,
+   "quote": "how little Randi had spent saying the opposite",
+   "picture": "money spent",
+   "feeling": "randi's economical response",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's response",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 279,
+   "verified": true,
+   "quote": "she couldn't take the volume back",
+   "picture": "an object taken back",
+   "feeling": "regret at speaking loudly",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 281,
+   "verified": true,
+   "quote": "pleasant as a hostess",
+   "picture": "a pleasant hostess",
+   "feeling": "composed social warmth",
+   "vehicles": [
+    "hostess"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 285,
+   "verified": true,
+   "quote": "The morning was right there",
+   "picture": "a nearby object",
+   "feeling": "morning vividly recalled",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 285,
+   "verified": true,
+   "quote": "the word was out before any part of her had vetted it",
+   "picture": "an unchecked object released",
+   "feeling": "unguarded admission",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 287,
+   "verified": true,
+   "quote": "warmly",
+   "picture": "warm temperature",
+   "feeling": "gentle approval",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 287,
+   "verified": true,
+   "quote": "the sound of a woman finding everything in order",
+   "picture": "an orderly arrangement",
+   "feeling": "quiet satisfaction",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 289,
+   "verified": true,
+   "quote": "no little bow on it",
+   "picture": "a bow on a package",
+   "feeling": "no neat conclusion",
+   "vehicles": [
+    "bow",
+    "package"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 291,
+   "verified": true,
+   "quote": "assigned like a woman who'd forgotten students took other courses",
+   "picture": "a forgetful instructor",
+   "feeling": "an excessive workload",
+   "vehicles": [
+    "woman"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Marsh",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 293,
+   "verified": true,
+   "quote": "under it, at the bottom of her glass",
+   "picture": "something beneath a drink",
+   "feeling": "a buried uneasy feeling",
+   "vehicles": [
+    "glass"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 293,
+   "verified": true,
+   "quote": "Vee kept arriving at a slightly wrong feeling",
+   "picture": "arrival at a place",
+   "feeling": "repeated return to unease",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 293,
+   "verified": true,
+   "quote": "she'd handed the morning over and was still holding it",
+   "picture": "an object held and handed",
+   "feeling": "sharing without relinquishing experience",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 293,
+   "verified": true,
+   "quote": "put it where she put things",
+   "picture": "an object put away",
+   "feeling": "setting aside unease",
+   "vehicles": [
+    "object",
+    "place"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 293,
+   "verified": true,
+   "quote": "it went, mostly",
+   "picture": "something departing",
+   "feeling": "unease mostly receding",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's feeling",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 295,
+   "verified": true,
+   "quote": "shut the place down",
+   "picture": "a place shut",
+   "feeling": "staying until closing",
+   "vehicles": [
+    "door",
+    "place"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee and Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 295,
+   "verified": true,
+   "quote": "cold that had teeth in it",
+   "picture": "a biting creature",
+   "feeling": "the cold's sharp intensity",
+   "vehicles": [
+    "tooth",
+    "creature"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the cold",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 297,
+   "verified": true,
+   "quote": "The sidewalk had them to itself",
+   "picture": "a solitary companion",
+   "feeling": "being alone outdoors",
+   "vehicles": [
+    "sidewalk",
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the sidewalk",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 305,
+   "verified": true,
+   "quote": "Vee glowed",
+   "picture": "a glowing light",
+   "feeling": "pleasure at the compliment",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 305,
+   "verified": true,
+   "quote": "took it",
+   "picture": "an accepted object",
+   "feeling": "accepting the compliment",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 305,
+   "verified": true,
+   "quote": "the smallest part of her went to the one word",
+   "picture": "a part traveling",
+   "feeling": "a brief inward reservation",
+   "vehicles": [
+    "body",
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attention",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 305,
+   "verified": true,
+   "quote": "you didn't hand a compliment back on a technicality",
+   "picture": "a returned gift",
+   "feeling": "accepting praise despite misgivings",
+   "vehicles": [
+    "gift",
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's compliment",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 307,
+   "verified": true,
+   "quote": "the bitter orange finding her",
+   "picture": "a seeking visitor",
+   "feeling": "scent reaching vee",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the scent",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 307,
+   "verified": true,
+   "quote": "green at its edge",
+   "picture": "a green edge",
+   "feeling": "a fresh note in scent",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "the scent",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "a whole December's crying had once soaked in",
+   "picture": "tears soaking into skin",
+   "feeling": "remembered prolonged grief",
+   "vehicles": [
+    "tear",
+    "skin"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Randi's neck",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "the kiss she'd set there",
+   "picture": "an object placed",
+   "feeling": "a gentle remembered kiss",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's kiss",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "weaponize that",
+   "picture": "a weapon",
+   "feeling": "using tenderness as leverage",
+   "vehicles": [
+    "weapon"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the remembered kiss",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "laid the whole of it open",
+   "picture": "an opened surface",
+   "feeling": "the neck exposed",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi's neck",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "Vee's mouth found the way again",
+   "picture": "a traveler finding a route",
+   "feeling": "a kiss repeated instinctively",
+   "vehicles": [
+    "traveler",
+    "route"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's mouth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "the kiss was landed",
+   "picture": "a landing object",
+   "feeling": "a kiss completed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's kiss",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 309,
+   "verified": true,
+   "quote": "before any of her had convened on the question",
+   "picture": "a meeting convened",
+   "feeling": "action preceding conscious decision",
+   "vehicles": [
+    "meeting",
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 313,
+   "verified": true,
+   "quote": "light, laughing it off",
+   "picture": "a light weight",
+   "feeling": "an easy dismissal",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 313,
+   "verified": true,
+   "quote": "laughing it off",
+   "picture": "something shaken off",
+   "feeling": "dismissing the moment",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 313,
+   "verified": true,
+   "quote": "take the spot back",
+   "picture": "a reclaimed possession",
+   "feeling": "ending access to her neck",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 313,
+   "verified": true,
+   "quote": "let her have it",
+   "picture": "a possession yielded",
+   "feeling": "accepting randi's withdrawal",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 315,
+   "verified": true,
+   "quote": "a beat behind her own mouth",
+   "picture": "a delayed follower",
+   "feeling": "awareness trailing speech",
+   "vehicles": [
+    "follower"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 317,
+   "verified": true,
+   "quote": "a full-stop of a squeeze",
+   "picture": "a full stop",
+   "feeling": "a decisive final squeeze",
+   "vehicles": [
+    "stop"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's squeeze",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 317,
+   "verified": true,
+   "quote": "it's arctic",
+   "picture": "the arctic",
+   "feeling": "intense outdoor cold",
+   "vehicles": [
+    "arctic"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the weather",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 325,
+   "verified": true,
+   "quote": "The evening rode along inside her coat",
+   "picture": "a sheltered passenger",
+   "feeling": "warm memories accompanying vee",
+   "vehicles": [
+    "passenger",
+    "coat"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the evening",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 325,
+   "verified": true,
+   "quote": "the court and its whole warm session",
+   "picture": "a warm courtroom",
+   "feeling": "comforting shared judgment",
+   "vehicles": [
+    "court",
+    "courtroom"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the evening",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 325,
+   "verified": true,
+   "quote": "keeping pace, having apparently walked out of the restaurant with her, came one sentence",
+   "picture": "a walking companion",
+   "feeling": "a persistent remembered sentence",
+   "vehicles": [
+    "companion",
+    "restaurant"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 325,
+   "verified": true,
+   "quote": "arriving again at its own intervals, like a song that gets in",
+   "picture": "a song lodging inside",
+   "feeling": "a thought repeatedly returning",
+   "vehicles": [
+    "song",
+    "container"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's sentence",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 329,
+   "verified": true,
+   "quote": "Under oath, more or less",
+   "picture": "a sworn witness",
+   "feeling": "an admission treated as testimony",
+   "vehicles": [
+    "witness",
+    "courtroom"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's statement",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 329,
+   "verified": true,
+   "quote": "somewhere below it",
+   "picture": "an object underneath",
+   "feeling": "a quieter underlying thought",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi's remembered answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 329,
+   "verified": true,
+   "quote": "taking up almost no room at all",
+   "picture": "a small object",
+   "feeling": "a quiet persistent answer",
+   "vehicles": [
+    "object",
+    "space"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's remembered answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "clean-plate",
+   "line": 331,
+   "verified": true,
+   "quote": "The wind shoved at her",
+   "picture": "a pushing person",
+   "feeling": "force of the wind",
+   "vehicles": [
+    "person",
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the wind",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "clean-plate",
+   "line": 331,
+   "verified": true,
+   "quote": "the sentence kept up with her easily",
+   "picture": "a walking companion",
+   "feeling": "a thought remaining present",
+   "vehicles": [
+    "companion"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

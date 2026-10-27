@@ -1,0 +1,2511 @@
+{
+ "slug": "sorority",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "ace7751bd695",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "sorority",
+   "line": 5,
+   "verified": true,
+   "quote": "the morning running ahead of her",
+   "picture": "a runner ahead",
+   "feeling": "time outpacing her",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the morning",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 5,
+   "verified": true,
+   "quote": "a tattletale in the cold morning light for anyone who cared to read it",
+   "picture": "a tattletale",
+   "feeling": "bed betraying her night",
+   "vehicles": [
+    "tattletale",
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's bed",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 7,
+   "verified": true,
+   "quote": "none of it touched her",
+   "picture": "untouched by contact",
+   "feeling": "unaffected by lateness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 7,
+   "verified": true,
+   "quote": "all of it was carrying her toward the same thought",
+   "picture": "being carried",
+   "feeling": "drawn toward a thought",
+   "vehicles": [
+    "vehicle"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 7,
+   "verified": true,
+   "quote": "She walked in fit to burst.",
+   "picture": "a bursting vessel",
+   "feeling": "bursting with news",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 9,
+   "verified": true,
+   "quote": "underslept and overfull",
+   "picture": "a filled container",
+   "feeling": "brimming with feeling",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 9,
+   "verified": true,
+   "quote": "beat the professor to the front of the room by a breath",
+   "picture": "a race",
+   "feeling": "narrow timing",
+   "vehicles": [
+    "race",
+    "breath"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 17,
+   "verified": true,
+   "quote": "The eyebrow she kept in reserve stayed in reserve.",
+   "picture": "a reserve supply",
+   "feeling": "held-back disapproval",
+   "vehicles": [
+    "eyebrow",
+    "reserve"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 21,
+   "verified": true,
+   "quote": "turned the full warmth of her attention on, like a lamp finding you",
+   "picture": "a lamp",
+   "feeling": "attention turned on someone",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 29,
+   "verified": true,
+   "quote": "like she'd cracked a case",
+   "picture": "detective work",
+   "feeling": "mock triumph",
+   "vehicles": [
+    "case"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 29,
+   "verified": true,
+   "quote": "Cassie had cracked it hours ago off the made bed",
+   "picture": "detective work",
+   "feeling": "quick deduction",
+   "vehicles": [
+    "case",
+    "bed"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 31,
+   "verified": true,
+   "quote": "the improbable man building it onto her",
+   "picture": "construction",
+   "feeling": "making dress on her body",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "none",
+   "applies_to": "the tailor",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 31,
+   "verified": true,
+   "quote": "a window with the sun pouring through it",
+   "picture": "pouring liquid",
+   "feeling": "abundant light",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the sun",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 35,
+   "verified": true,
+   "quote": "in the flat unbothered voice of a man reading the back of a cereal box",
+   "picture": "cereal box",
+   "feeling": "monotone boredom",
+   "vehicles": [
+    "cereal box"
+   ],
+   "sensation": "none",
+   "applies_to": "the professor",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 37,
+   "verified": true,
+   "quote": "He smiled the smile of a man who had laid the same trap a hundred times.",
+   "picture": "a trap",
+   "feeling": "practiced deception",
+   "vehicles": [
+    "trap"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the professor",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 39,
+   "verified": true,
+   "quote": "the good student coming up for air from her own life",
+   "picture": "surfacing from water",
+   "feeling": "emerging from absorption",
+   "vehicles": [
+    "air",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 41,
+   "verified": true,
+   "quote": "she came back up out of the numbers",
+   "picture": "surfacing from depth",
+   "feeling": "emerging from absorption",
+   "vehicles": [
+    "depth"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 41,
+   "verified": true,
+   "quote": "Cassie had never gone down into them at all",
+   "picture": "descending into depth",
+   "feeling": "never absorbed in numbers",
+   "vehicles": [
+    "depth"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 43,
+   "verified": true,
+   "quote": "it landed on Vee then, plain as the made bed",
+   "picture": "something landing",
+   "feeling": "obvious realization",
+   "vehicles": [
+    "bed"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 49,
+   "verified": true,
+   "quote": "Something eased in Cassie's face",
+   "picture": "loosening",
+   "feeling": "relief",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 51,
+   "verified": true,
+   "quote": "Randi had not gone down into them either.",
+   "picture": "descending into depth",
+   "feeling": "not absorbed in numbers",
+   "vehicles": [
+    "depth"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 53,
+   "verified": true,
+   "quote": "the register of the whole thing tipped over",
+   "picture": "tipping container",
+   "feeling": "tone shifting",
+   "vehicles": [
+    "register"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 53,
+   "verified": true,
+   "quote": "already turning the dress over in her hands without a hand on it",
+   "picture": "handling an object",
+   "feeling": "imagining the dress",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 55,
+   "verified": true,
+   "quote": "\"Slut\" landed lower than Randi meant it to.",
+   "picture": "a thing landing",
+   "feeling": "word hitting body",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 55,
+   "verified": true,
+   "quote": "Vee's body had been keeping the night's account since eight",
+   "picture": "a ledger",
+   "feeling": "body recording the night",
+   "vehicles": [
+    "account",
+    "ledger"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 55,
+   "verified": true,
+   "quote": "the whole room could read it off her",
+   "picture": "reading text",
+   "feeling": "feeling exposed",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 57,
+   "verified": true,
+   "quote": "the one snag in the gold of the day",
+   "picture": "a snag in fabric",
+   "feeling": "small flaw in perfect day",
+   "vehicles": [
+    "snag",
+    "gold"
+   ],
+   "sensation": "none",
+   "applies_to": "the day",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 57,
+   "verified": true,
+   "quote": "Randi had reached in and found it",
+   "picture": "reaching in",
+   "feeling": "finding the flaw",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 59,
+   "verified": true,
+   "quote": "the problem already solved in her hands",
+   "picture": "held object",
+   "feeling": "confident mastery",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 59,
+   "verified": true,
+   "quote": "We are not quitting until the shoes are as right as the dress.",
+   "picture": "a campaign",
+   "feeling": "determination",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 61,
+   "verified": true,
+   "quote": "It went through her warm",
+   "picture": "warmth passing through",
+   "feeling": "pleasure of being wanted",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 69,
+   "verified": true,
+   "quote": "He let it sit.",
+   "picture": "letting settle",
+   "feeling": "pause for effect",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the professor",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 73,
+   "verified": true,
+   "quote": "the loose knot of the emptying room",
+   "picture": "a knot",
+   "feeling": "clustered crowd",
+   "vehicles": [
+    "knot"
+   ],
+   "sensation": "tightening",
+   "applies_to": "the students",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 73,
+   "verified": true,
+   "quote": "Randi on the other already deep into Saturday",
+   "picture": "deep water",
+   "feeling": "absorbed in planning",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 73,
+   "verified": true,
+   "quote": "on time, now, for nothing",
+   "picture": "punctuality with no goal",
+   "feeling": "freedom with no deadline",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 77,
+   "verified": true,
+   "quote": "She had torn through it at eight that morning",
+   "picture": "tearing",
+   "feeling": "hurried disorder",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 79,
+   "verified": true,
+   "quote": "the room reorganized itself around her",
+   "picture": "an object rearranging",
+   "feeling": "room transformed by presence",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 79,
+   "verified": true,
+   "quote": "taking the whole double in with one bright sweep",
+   "picture": "a sweeping beam",
+   "feeling": "gaze scanning",
+   "vehicles": [
+    "beam",
+    "broom"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 79,
+   "verified": true,
+   "quote": "lit by what Randi had brought in with her",
+   "picture": "light",
+   "feeling": "harsh new scrutiny",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 79,
+   "verified": true,
+   "quote": "the desk gone under a drift of paper",
+   "picture": "snowdrift",
+   "feeling": "buried in clutter",
+   "vehicles": [
+    "drift",
+    "snow"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the desk",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 81,
+   "verified": true,
+   "quote": "I'm dying, genuinely dying",
+   "picture": "death",
+   "feeling": "intense impatience",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 81,
+   "verified": true,
+   "quote": "nobody home",
+   "picture": "empty house",
+   "feeling": "absent occupant",
+   "vehicles": [
+    "house"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Cassie's bunk",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 83,
+   "verified": true,
+   "quote": "the wanting got there before the plan",
+   "picture": "a race",
+   "feeling": "desire outrunning plan",
+   "vehicles": [
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 87,
+   "verified": true,
+   "quote": "The full beam, all at once",
+   "picture": "a beam of light",
+   "feeling": "intense attention",
+   "vehicles": [
+    "beam"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 87,
+   "verified": true,
+   "quote": "the way you take in a thing you're going to have to account for",
+   "picture": "auditing",
+   "feeling": "careful appraisal",
+   "vehicles": [
+    "account"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 89,
+   "verified": true,
+   "quote": "It came out on a breath.",
+   "picture": "carried on breath",
+   "feeling": "softly exhaled speech",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 89,
+   "verified": true,
+   "quote": "felt the slit fall open on her leg and swing shut",
+   "picture": "a door",
+   "feeling": "slit moving",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 91,
+   "verified": true,
+   "quote": "reading the cut as her eyes had",
+   "picture": "reading text",
+   "feeling": "fingers perceiving the design",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 91,
+   "verified": true,
+   "quote": "where the burgundy ran down into the plum beneath",
+   "picture": "flowing liquid",
+   "feeling": "color blending",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 91,
+   "verified": true,
+   "quote": "Vee warm under it",
+   "picture": "warmth beneath",
+   "feeling": "body heat",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 97,
+   "verified": true,
+   "quote": "felt the word land",
+   "picture": "landing object",
+   "feeling": "word striking home",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 97,
+   "verified": true,
+   "quote": "he'd built it onto her out of nothing",
+   "picture": "construction",
+   "feeling": "creating dress on body",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "none",
+   "applies_to": "the tailor",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 97,
+   "verified": true,
+   "quote": "her throat did the thing again",
+   "picture": "throat acting",
+   "feeling": "tightening with emotion",
+   "vehicles": [
+    "throat"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 99,
+   "verified": true,
+   "quote": "not letting her finish it small",
+   "picture": "shrinking",
+   "feeling": "refusing diminishment",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 101,
+   "verified": true,
+   "quote": "the whole room is going to stop",
+   "picture": "halting machine",
+   "feeling": "awe at entrance",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the room",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 101,
+   "verified": true,
+   "quote": "the one dress she owns that has to do for everything",
+   "picture": "a workhorse",
+   "feeling": "one dress serving all",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the girls",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 105,
+   "verified": true,
+   "quote": "It came out of her the way the tears had, without asking.",
+   "picture": "liquid spilling",
+   "feeling": "involuntary outflow",
+   "vehicles": [
+    "tears"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 107,
+   "verified": true,
+   "quote": "Randi was somewhere else, behind her own face",
+   "picture": "retreating behind a mask",
+   "feeling": "withdrawn absence",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 107,
+   "verified": true,
+   "quote": "the breath ran long",
+   "picture": "running distance",
+   "feeling": "extended pause",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 107,
+   "verified": true,
+   "quote": "she wanted that for Randi so much it hurt",
+   "picture": "pain",
+   "feeling": "aching tenderness",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 107,
+   "verified": true,
+   "quote": "her beautiful boys in a hurry",
+   "picture": "rush",
+   "feeling": "hasty men",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's boys",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 109,
+   "verified": true,
+   "quote": "glamour gone businesslike",
+   "picture": "changing garment",
+   "feeling": "mode switch",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 111,
+   "verified": true,
+   "quote": "the burgundy disappearing tooth by tooth behind the gray nylon",
+   "picture": "teeth",
+   "feeling": "zip closing",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 115,
+   "verified": true,
+   "quote": "dark green going to black",
+   "picture": "darkening",
+   "feeling": "color darkening",
+   "vehicles": [],
+   "sensation": "darkness or shadow",
+   "applies_to": "the Mercedes",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 115,
+   "verified": true,
+   "quote": "let the window drop its half-inch to the handle on its own",
+   "picture": "a living thing",
+   "feeling": "car quirk",
+   "vehicles": [
+    "window"
+   ],
+   "sensation": "none",
+   "applies_to": "the car",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 115,
+   "verified": true,
+   "quote": "the seat would give under her and then hold",
+   "picture": "yielding support",
+   "feeling": "cushioned support",
+   "vehicles": [
+    "seat"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the seat",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 115,
+   "verified": true,
+   "quote": "like a girl who rode in cars like this",
+   "picture": "playing a role",
+   "feeling": "borrowed ease",
+   "vehicles": [
+    "girl",
+    "car"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 115,
+   "verified": true,
+   "quote": "onto her own asphalt",
+   "picture": "claimed territory",
+   "feeling": "ownership of her ground",
+   "vehicles": [
+    "asphalt"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "Here the ground was hers.",
+   "picture": "home ground",
+   "feeling": "familiar territory",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "She knew which racks lied about a size",
+   "picture": "liars",
+   "feeling": "misleading sizes",
+   "vehicles": [
+    "rack"
+   ],
+   "sensation": "none",
+   "applies_to": "the racks",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "which aisle hid the real half-offs",
+   "picture": "hiding",
+   "feeling": "concealed bargains",
+   "vehicles": [
+    "aisle"
+   ],
+   "sensation": "none",
+   "applies_to": "the aisle",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "something that could stand next to burgundy and not apologize",
+   "picture": "a person standing",
+   "feeling": "shoe holding its own",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoe",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "which racks lied about a size",
+   "picture": "racks that lie",
+   "feeling": "knowing the store's tricks",
+   "vehicles": [
+    "rack"
+   ],
+   "sensation": "none",
+   "applies_to": "the racks",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 117,
+   "verified": true,
+   "quote": "a clearance wall in the back you had to earn",
+   "picture": "earned reward",
+   "feeling": "bargains taking effort",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "none",
+   "applies_to": "the clearance wall",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 119,
+   "verified": true,
+   "quote": "the sexy was cheap where it showed",
+   "picture": "cheap goods",
+   "feeling": "flaws showing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the shoes",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 119,
+   "verified": true,
+   "quote": "nothing that would hold her",
+   "picture": "support",
+   "feeling": "lack of support",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "the shoes",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 119,
+   "verified": true,
+   "quote": "a bench between them stacked with nos",
+   "picture": "stacked objects",
+   "feeling": "pile of rejections",
+   "vehicles": [
+    "stack"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the bench",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 119,
+   "verified": true,
+   "quote": "they had a bench between them stacked with nos",
+   "picture": "a stack of refusals",
+   "feeling": "accumulated rejection",
+   "vehicles": [
+    "bench",
+    "stack"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the bench",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 119,
+   "verified": true,
+   "quote": "nothing built to stand next to a dress a man had cut by hand",
+   "picture": "a companion standing beside",
+   "feeling": "worthy pairing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the shoes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 121,
+   "verified": true,
+   "quote": "a single shoe the size of a canoe",
+   "picture": "a canoe",
+   "feeling": "comic enormity",
+   "vehicles": [
+    "canoe"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoe",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 121,
+   "verified": true,
+   "quote": "a sole like a snow tire",
+   "picture": "a snow tire",
+   "feeling": "comic bulk",
+   "vehicles": [
+    "tire"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoe",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 121,
+   "verified": true,
+   "quote": "Do yetis shop here?",
+   "picture": "a yeti",
+   "feeling": "teasing about big feet",
+   "vehicles": [
+    "yeti"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 121,
+   "verified": true,
+   "quote": "Randi gave her a wounded look",
+   "picture": "an injury",
+   "feeling": "mock hurt",
+   "vehicles": [
+    "wound"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 121,
+   "verified": true,
+   "quote": "some people just needed to make peace with their feet",
+   "picture": "a truce",
+   "feeling": "accepting one's body",
+   "vehicles": [
+    "peace"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 123,
+   "verified": true,
+   "quote": "taking it as her usual altitude",
+   "picture": "height",
+   "feeling": "at-home loftiness",
+   "vehicles": [
+    "altitude"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 123,
+   "verified": true,
+   "quote": "turned a foot to the light to weigh it honestly",
+   "picture": "weighing",
+   "feeling": "careful appraisal",
+   "vehicles": [
+    "scale"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 123,
+   "verified": true,
+   "quote": "went to top it",
+   "picture": "outdoing, adding a top",
+   "feeling": "competitive one-upping",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 123,
+   "verified": true,
+   "quote": "gone a full head taller and taking it as her usual altitude",
+   "picture": "height as altitude",
+   "feeling": "comfortable loftiness",
+   "vehicles": [
+    "altitude"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 123,
+   "verified": true,
+   "quote": "a woman at serious work",
+   "picture": "a professional at labor",
+   "feeling": "mock gravity",
+   "vehicles": [
+    "work"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 125,
+   "verified": true,
+   "quote": "Vee lost it",
+   "picture": "losing something",
+   "feeling": "losing composure",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 125,
+   "verified": true,
+   "quote": "laughed till her legs quit",
+   "picture": "quitting",
+   "feeling": "helpless laughter",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 127,
+   "verified": true,
+   "quote": "the seam already grinning loose from the sole",
+   "picture": "a grin",
+   "feeling": "shoe falling apart",
+   "vehicles": [
+    "grin"
+   ],
+   "sensation": "opening",
+   "applies_to": "the flat",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 127,
+   "verified": true,
+   "quote": "one brisk walk from becoming a sandal",
+   "picture": "a short distance to transformation",
+   "feeling": "comic fragility",
+   "vehicles": [
+    "sandal"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the flat",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 129,
+   "verified": true,
+   "quote": "got her all the way, folded her over the bench",
+   "picture": "a hit or fold",
+   "feeling": "overwhelmed by laughter",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 129,
+   "verified": true,
+   "quote": "the one that costs her something to give",
+   "picture": "a payment",
+   "feeling": "laugh given at a price",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's laugh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 129,
+   "verified": true,
+   "quote": "the ruined-shoe wreckage of her own store",
+   "picture": "a wreck",
+   "feeling": "chaos of laughter",
+   "vehicles": [
+    "wreckage"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the store",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 129,
+   "verified": true,
+   "quote": "feeling like the funniest woman in Virginia",
+   "picture": "a title",
+   "feeling": "proud elation",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 131,
+   "verified": true,
+   "quote": "a little flush, there and gone",
+   "picture": "a flash of color",
+   "feeling": "brief embarrassment",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 133,
+   "verified": true,
+   "quote": "They pulled themselves together.",
+   "picture": "gathering parts",
+   "feeling": "regaining composure",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee and Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 133,
+   "verified": true,
+   "quote": "a price that didn't make the debit flinch",
+   "picture": "a flinching card",
+   "feeling": "affordable",
+   "vehicles": [
+    "debit"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the debit card",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 135,
+   "verified": true,
+   "quote": "It's not going to stop the room",
+   "picture": "halting a room",
+   "feeling": "commanding attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the shoe",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 135,
+   "verified": true,
+   "quote": "instead of it living in a box",
+   "picture": "a creature living in a box",
+   "feeling": "shoe unused",
+   "vehicles": [
+    "box"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the shoe",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 141,
+   "verified": true,
+   "quote": "Something delighted broke over Randi's whole face.",
+   "picture": "a wave breaking",
+   "feeling": "delight spreading",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 143,
+   "verified": true,
+   "quote": "found she had nowhere on earth to stand",
+   "picture": "no footing",
+   "feeling": "cornered, no defense",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 145,
+   "verified": true,
+   "quote": "gathering her bag and her sunglasses and the whole afternoon with them",
+   "picture": "gathering the afternoon",
+   "feeling": "sweeping energy",
+   "vehicles": [
+    "afternoon"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 145,
+   "verified": true,
+   "quote": "it's practically a marriage",
+   "picture": "marriage",
+   "feeling": "intimate sharing",
+   "vehicles": [
+    "marriage"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi and Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 145,
+   "verified": true,
+   "quote": "the delight had folded into something warmer and surer",
+   "picture": "folding cloth",
+   "feeling": "mood shifting",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 147,
+   "verified": true,
+   "quote": "she could feel where this was going",
+   "picture": "a path",
+   "feeling": "seeing it coming",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 149,
+   "verified": true,
+   "quote": "low and lit, a conspirator",
+   "picture": "a conspirator",
+   "feeling": "playful intimacy",
+   "vehicles": [
+    "conspirator",
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 149,
+   "verified": true,
+   "quote": "A dress a man sat up nights making doesn't want to go with everything.",
+   "picture": "a dress with desires",
+   "feeling": "the dress deserves better",
+   "vehicles": [
+    "dress"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 149,
+   "verified": true,
+   "quote": "stop the room cold",
+   "picture": "freezing a room",
+   "feeling": "commanding attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the dress",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 149,
+   "verified": true,
+   "quote": "the whole day tipping after her",
+   "picture": "tipping after",
+   "feeling": "pull of randi's momentum",
+   "vehicles": [
+    "day"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 151,
+   "verified": true,
+   "quote": "Hearing it in someone else's mouth made it real",
+   "picture": "words made real",
+   "feeling": "admission becoming fact",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 151,
+   "verified": true,
+   "quote": "made her face go warm",
+   "picture": "warmth",
+   "feeling": "embarrassment",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 155,
+   "verified": true,
+   "quote": "matched to the block at last",
+   "picture": "a matched pair",
+   "feeling": "belonging in place",
+   "vehicles": [
+    "block"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the car",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 155,
+   "verified": true,
+   "quote": "a place that was all Randi's and still not at all hers",
+   "picture": "owned territory",
+   "feeling": "outsider in randi's world",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the shop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 159,
+   "verified": true,
+   "quote": "nothing so vulgar as a price anywhere near them",
+   "picture": "a vulgar guest kept away",
+   "feeling": "exclusive luxury",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the shoes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 159,
+   "verified": true,
+   "quote": "the number on that sole started beyond where her most ended and kept on going",
+   "picture": "a road continuing past an end",
+   "feeling": "price beyond reach",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the price",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 159,
+   "verified": true,
+   "quote": "She ran the math she knew how to run, the TJMaxx math",
+   "picture": "running a calculation",
+   "feeling": "budget reckoning",
+   "vehicles": [
+    "math"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 161,
+   "verified": true,
+   "quote": "who belonged here the way she belonged everywhere",
+   "picture": "belonging",
+   "feeling": "easy belonging",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 161,
+   "verified": true,
+   "quote": "which was its own kind of going under",
+   "picture": "drowning",
+   "feeling": "sinking under pressure",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 161,
+   "verified": true,
+   "quote": "this expensive hush",
+   "picture": "a hush as a space",
+   "feeling": "intimidating quiet",
+   "vehicles": [
+    "hush"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the shop",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 161,
+   "verified": true,
+   "quote": "holding a quiet the exact shape of what was in her account",
+   "picture": "holding a shaped object",
+   "feeling": "silence of poverty",
+   "vehicles": [
+    "quiet"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 163,
+   "verified": true,
+   "quote": "before the quiet could set",
+   "picture": "setting like concrete",
+   "feeling": "silence hardening",
+   "vehicles": [
+    "concrete"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the quiet",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 163,
+   "verified": true,
+   "quote": "Pace rearranged in her own chest into something adult and lit",
+   "picture": "rearranged furniture, a lit lamp",
+   "feeling": "inner shift, glowing",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 165,
+   "verified": true,
+   "quote": "a few thin black straps webbed across the foot",
+   "picture": "a web",
+   "feeling": "delicate intricate straps",
+   "vehicles": [
+    "web"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoe",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 165,
+   "verified": true,
+   "quote": "a heel that looked like it could not possibly hold her",
+   "picture": "a fragile support",
+   "feeling": "improbable fragility",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the heel",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 165,
+   "verified": true,
+   "quote": "look like an apology she'd been about to make to no one",
+   "picture": "an apology",
+   "feeling": "timid inadequate choice",
+   "vehicles": [
+    "apology"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the tan shoe",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 173,
+   "verified": true,
+   "quote": "Vee felt it go all the way up the length of her",
+   "picture": "a current traveling",
+   "feeling": "desire surging upward",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 173,
+   "verified": true,
+   "quote": "felt the floor of her tip, a small swing of the room",
+   "picture": "a tilting floor",
+   "feeling": "dizzy loss of balance",
+   "vehicles": [
+    "floor",
+    "room"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 175,
+   "verified": true,
+   "quote": "Vee rose up into them",
+   "picture": "rising into a shape",
+   "feeling": "gaining height and poise",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 175,
+   "verified": true,
+   "quote": "the line of her finishing itself",
+   "picture": "completion of a drawing",
+   "feeling": "body completed",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 175,
+   "verified": true,
+   "quote": "instead of waiting on a height she wasn't giving it",
+   "picture": "waiting on a debt",
+   "feeling": "unfulfilled potential",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee's line",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 177,
+   "verified": true,
+   "quote": "the shoe held her",
+   "picture": "a supporting grip",
+   "feeling": "secure support",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the shoe",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 177,
+   "verified": true,
+   "quote": "the arch of it firm as a hand under her foot",
+   "picture": "a hand",
+   "feeling": "firm support",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the shoe",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 177,
+   "verified": true,
+   "quote": "all her weight caught and carried instead of only balanced",
+   "picture": "being carried",
+   "feeling": "supported weight",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 177,
+   "verified": true,
+   "quote": "being stood up by one",
+   "picture": "being stood up by a person",
+   "feeling": "being lifted by the shoe",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 179,
+   "verified": true,
+   "quote": "the picture she'd been rehearsing in private for a week",
+   "picture": "a rehearsed scene",
+   "feeling": "imagined entrance",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 179,
+   "verified": true,
+   "quote": "the whole room turning to find her",
+   "picture": "a room turning",
+   "feeling": "being the center of attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 181,
+   "verified": true,
+   "quote": "the number on the sole quietly stopped being the thing",
+   "picture": "a thing leaving",
+   "feeling": "price losing importance",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the price",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 181,
+   "verified": true,
+   "quote": "A different arithmetic had taken the wheel",
+   "picture": "a driver taking the wheel",
+   "feeling": "new logic takes control",
+   "vehicles": [
+    "wheel",
+    "arithmetic"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 181,
+   "verified": true,
+   "quote": "set a thing like that down onto shoes that were an apology",
+   "picture": "placing on a base, apology",
+   "feeling": "inadequate pairing",
+   "vehicles": [
+    "apology"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 181,
+   "verified": true,
+   "quote": "They were what the dress was owed.",
+   "picture": "a debt",
+   "feeling": "moral obligation",
+   "vehicles": [
+    "debt"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the shoes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "felt the last careful thing in her give way",
+   "picture": "a structure giving way",
+   "feeling": "prudence collapsing",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "the one that only ever spent what was already behind it",
+   "picture": "a card with backing",
+   "feeling": "safe limited spending",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "the debit card",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "There was nothing under it.",
+   "picture": "no foundation",
+   "feeling": "unsupported spending",
+   "vehicles": [
+    "foundation"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the credit card",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "the months that ran long",
+   "picture": "running long",
+   "feeling": "money outlasting supply",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the months",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "let none of it reach her face",
+   "picture": "traveling to the face",
+   "feeling": "concealed worry",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 185,
+   "verified": true,
+   "quote": "the one thing she would not do in this room was flinch",
+   "picture": "a flinch",
+   "feeling": "resolve",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 189,
+   "verified": true,
+   "quote": "the price of the shoes Vee was white-knuckling",
+   "picture": "gripping tightly",
+   "feeling": "straining to afford",
+   "vehicles": [
+    "knuckle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 189,
+   "verified": true,
+   "quote": "a card came out of her wallet without her seeming to choose it",
+   "picture": "a card acting alone",
+   "feeling": "effortless spending",
+   "vehicles": [
+    "card"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 189,
+   "verified": true,
+   "quote": "her hands going",
+   "picture": "hands in motion",
+   "feeling": "animated talk",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 191,
+   "verified": true,
+   "quote": "like it was nothing on earth",
+   "picture": "nothing",
+   "feeling": "casual ease",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 191,
+   "verified": true,
+   "quote": "like shoes were a thing you simply traded mid-afternoon",
+   "picture": "trade",
+   "feeling": "disposable ease",
+   "vehicles": [
+    "shoe"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 191,
+   "verified": true,
+   "quote": "holding the thing she'd just bought like it might get up and leave her",
+   "picture": "a living thing leaving",
+   "feeling": "anxious clinging",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 193,
+   "verified": true,
+   "quote": "The afternoon had gone gold on the sidewalk.",
+   "picture": "turning gold",
+   "feeling": "warm late light",
+   "vehicles": [
+    "gold"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the afternoon",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "sorority",
+   "line": 195,
+   "verified": true,
+   "quote": "It's not going to *spoil*.",
+   "picture": "spoiling food",
+   "feeling": "teasing over-protectiveness",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoebox",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 197,
+   "verified": true,
+   "quote": "it caught Vee right under the rib",
+   "picture": "a snag or blow",
+   "feeling": "laugh ambushing her",
+   "vehicles": [
+    "rib"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 197,
+   "verified": true,
+   "quote": "like a girl who had never in her life bought a beautiful thing",
+   "picture": "a naive girl",
+   "feeling": "awe and mistrust",
+   "vehicles": [
+    "girl"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 197,
+   "verified": true,
+   "quote": "the laugh came up out of her whole and unrehearsed",
+   "picture": "something rising up",
+   "feeling": "spontaneous laughter",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 197,
+   "verified": true,
+   "quote": "the kind that bends you at the middle",
+   "picture": "bending",
+   "feeling": "doubling-over laughter",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the laugh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "sorority",
+   "line": 197,
+   "verified": true,
+   "quote": "pleased, lit with it",
+   "picture": "a lit lamp",
+   "feeling": "radiant delight",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

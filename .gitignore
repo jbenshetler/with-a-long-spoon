@@ -26,6 +26,8 @@ reviews/capture-panel/*/dag/*/.failed/
 # Fact-audit scratch: persistent by design (a model may write its artifact
 # here rather than reply with it), but machine output, not canon.
 audits/fact-audit/.work/
+audits/figures/.work/
+audits/figures/.old/
 # Reading-effort parse cache: machine scratch, regenerable, ~9MB. The pass's
 # worklists and rulings under audits/reading-effort/ ARE tracked.
 audits/reading-effort/cache.json
@@ -34,3 +36,4 @@ audits/reading-effort/cache.json
 # are committable, the extracted prose is not.
 audits/reading-effort/.calib/
 reviews/cold-read/*/.failed/
+audits/figures/*/groups.json

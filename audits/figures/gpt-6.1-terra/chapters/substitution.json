@@ -1,0 +1,1822 @@
+{
+ "slug": "substitution",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "e909d04cbf9d",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "substitution",
+   "line": 7,
+   "verified": true,
+   "quote": "stuck on the problem",
+   "picture": "being stuck",
+   "feeling": "unable to make progress",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 7,
+   "verified": true,
+   "quote": "stuck on it for another twenty",
+   "picture": "being stuck",
+   "feeling": "continued lack of progress",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 7,
+   "verified": true,
+   "quote": "the page had the kind of look she did not like",
+   "picture": "a person's expression",
+   "feeling": "visible evidence of frustration",
+   "vehicles": [
+    "face",
+    "expression"
+   ],
+   "sensation": "none",
+   "applies_to": "the page",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 7,
+   "verified": true,
+   "quote": "the margins crowded",
+   "picture": "a crowded space",
+   "feeling": "work filling the margins",
+   "vehicles": [
+    "crowd"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the margins",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 15,
+   "verified": true,
+   "quote": "the laugh let her sit back from the page",
+   "picture": "moving away",
+   "feeling": "brief relief from concentration",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 19,
+   "verified": true,
+   "quote": "Don't beat yourself up",
+   "picture": "beating oneself",
+   "feeling": "self-directed criticism",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 29,
+   "verified": true,
+   "quote": "I know what it wants",
+   "picture": "a person's desire",
+   "feeling": "understanding the problem's demand",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 29,
+   "verified": true,
+   "quote": "this one just won't go",
+   "picture": "something refusing movement",
+   "feeling": "an integral resisting solution",
+   "vehicles": [
+    "vehicle"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the integral",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 31,
+   "verified": true,
+   "quote": "Every road she took curved back and set her down exactly where she had started",
+   "picture": "a returning road",
+   "feeling": "repeatedly reaching the beginning",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's approaches",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 31,
+   "verified": true,
+   "quote": "as if she had walked a wide careful circle in the dark and arrived at her own back",
+   "picture": "a circle in darkness",
+   "feeling": "bewildering return to the start",
+   "vehicles": [
+    "circle",
+    "dark",
+    "back"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attempts",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 35,
+   "verified": true,
+   "quote": "someone who had her attention",
+   "picture": "holding an object",
+   "feeling": "absorbed interest in someone",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 37,
+   "verified": true,
+   "quote": "the page didn't hold her",
+   "picture": "being held",
+   "feeling": "attention drifting from work",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's attention",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 41,
+   "verified": true,
+   "quote": "the problem hates me",
+   "picture": "a hostile person",
+   "feeling": "frustration with the problem",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 47,
+   "verified": true,
+   "quote": "It had circled back on her",
+   "picture": "a returning circle",
+   "feeling": "repeated return to difficulty",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 47,
+   "verified": true,
+   "quote": "It circled back the fourth time",
+   "picture": "a returning circle",
+   "feeling": "another return to difficulty",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 51,
+   "verified": true,
+   "quote": "I'm stuck on this integral",
+   "picture": "being stuck",
+   "feeling": "unable to solve it",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 61,
+   "verified": true,
+   "quote": "Something in her chest went quiet",
+   "picture": "a sound falling silent",
+   "feeling": "a sudden inward stillness",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 65,
+   "verified": true,
+   "quote": "nothing her eye would have caught in a crowd",
+   "picture": "an eye catching something",
+   "feeling": "little immediate visual appeal",
+   "vehicles": [
+    "eye",
+    "crowd"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 65,
+   "verified": true,
+   "quote": "not one feature in it that asked for a second look",
+   "picture": "a person making a request",
+   "feeling": "no feature demanding attention",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's face",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 65,
+   "verified": true,
+   "quote": "the room settle a half-degree around where he stood",
+   "picture": "a room settling",
+   "feeling": "a subtle shift in atmosphere",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 65,
+   "verified": true,
+   "quote": "a smile that seemed to have picked her out of the whole day",
+   "picture": "a person selecting someone",
+   "feeling": "feeling singled out",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 65,
+   "verified": true,
+   "quote": "decided she was the reason it had come across the room",
+   "picture": "a person crossing a room",
+   "feeling": "feeling deliberately chosen",
+   "vehicles": [
+    "person",
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 77,
+   "verified": true,
+   "quote": "The voice was smaller this time",
+   "picture": "a smaller object",
+   "feeling": "a more subdued voice",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 81,
+   "verified": true,
+   "quote": "he folded down into it",
+   "picture": "a folding object",
+   "feeling": "compact, economical movement",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 81,
+   "verified": true,
+   "quote": "nothing in the movement spent that did not need spending",
+   "picture": "money being spent",
+   "feeling": "absence of wasted movement",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's movement",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 81,
+   "verified": true,
+   "quote": "He moved like someone who had never once had to think about where his body was",
+   "picture": "an unselfconscious mover",
+   "feeling": "effortless physical confidence",
+   "vehicles": [
+    "person",
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 85,
+   "verified": true,
+   "quote": "it came out automatically",
+   "picture": "something emerging",
+   "feeling": "an instinctive response",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's name",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 85,
+   "verified": true,
+   "quote": "being looked at like that had loosened something",
+   "picture": "a loosened fastening",
+   "feeling": "inhibition giving way",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 85,
+   "verified": true,
+   "quote": "she reached for the line",
+   "picture": "reaching for an object",
+   "feeling": "choosing a practiced remark",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 85,
+   "verified": true,
+   "quote": "the practiced little swerve",
+   "picture": "a sudden change of direction",
+   "feeling": "a practiced conversational turn",
+   "vehicles": [
+    "vehicle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's manner",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 85,
+   "verified": true,
+   "quote": "some part of her had tucked it away to try on later",
+   "picture": "storing and trying clothes",
+   "feeling": "saving a manner to imitate",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's manner",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 87,
+   "verified": true,
+   "quote": "It landed",
+   "picture": "an object landing",
+   "feeling": "the remark having effect",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's remark",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 87,
+   "verified": true,
+   "quote": "Pace's mouth did something warm at the corner",
+   "picture": "warmth",
+   "feeling": "a kindly amused response",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 87,
+   "verified": true,
+   "quote": "the small lift of having pulled it off",
+   "picture": "being lifted",
+   "feeling": "pleasure at succeeding",
+   "vehicles": [
+    "lift"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 87,
+   "verified": true,
+   "quote": "having pulled it off",
+   "picture": "pulling something free",
+   "feeling": "successfully delivering the line",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 87,
+   "verified": true,
+   "quote": "the borrowed poise sitting on her better than she'd expected",
+   "picture": "a well-fitting garment",
+   "feeling": "confidence in an adopted manner",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's poise",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 89,
+   "verified": true,
+   "quote": "wanting her own name back",
+   "picture": "recovering a possession",
+   "feeling": "wanting her familiar identity",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 93,
+   "verified": true,
+   "quote": "her name as a single bare word",
+   "picture": "an uncovered object",
+   "feeling": "an unadorned introduction",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's name",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 101,
+   "verified": true,
+   "quote": "her eye caught on his forearms",
+   "picture": "an eye caught on something",
+   "feeling": "attention arrested by attraction",
+   "vehicles": [
+    "eye",
+    "hook"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's gaze",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 101,
+   "verified": true,
+   "quote": "the loose shirt was keeping to itself",
+   "picture": "a person keeping secrets",
+   "feeling": "his body remaining concealed",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace's shirt",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "His clothes gave her nothing to hold",
+   "picture": "something to grasp",
+   "feeling": "no clear clue to him",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace's clothes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "whose clothes did all the talking",
+   "picture": "clothes speaking",
+   "feeling": "clothes signaling social identity",
+   "vehicles": [
+    "clothing"
+   ],
+   "sensation": "none",
+   "applies_to": "the boys' clothes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "the effort pointed out at whoever might be looking",
+   "picture": "an object pointed outward",
+   "feeling": "effort directed toward observers",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the boys' dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "His weren't talking to anyone",
+   "picture": "clothes speaking",
+   "feeling": "clothes making no obvious claim",
+   "vehicles": [
+    "clothing"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's clothes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "He dressed like a man who fixed things for a living",
+   "picture": "a working repairman",
+   "feeling": "a practical working appearance",
+   "vehicles": [
+    "repairman"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "She kept reaching for the shape under him and it would not come",
+   "picture": "grasping a shape",
+   "feeling": "unable to place him",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's impression of Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 105,
+   "verified": true,
+   "quote": "He didn't fit anything she had",
+   "picture": "an object fitting a container",
+   "feeling": "his resistance to classification",
+   "vehicles": [
+    "object",
+    "container"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 115,
+   "verified": true,
+   "quote": "It keeps coming back around",
+   "picture": "a returning circle",
+   "feeling": "repeated return to the start",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the integral",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 115,
+   "verified": true,
+   "quote": "It keeps coming back around.",
+   "picture": "circular movement",
+   "feeling": "returning to the problem",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 121,
+   "verified": true,
+   "quote": "built to send you in circles",
+   "picture": "a circular path",
+   "feeling": "the problem causing repeated attempts",
+   "vehicles": [
+    "circle",
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the problem",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 121,
+   "verified": true,
+   "quote": "you can go around it all night",
+   "picture": "circling an object",
+   "feeling": "prolonged unproductive effort",
+   "vehicles": [
+    "object",
+    "circle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attempts",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 121,
+   "verified": true,
+   "quote": "asked for it with his eyes",
+   "picture": "eyes making a request",
+   "feeling": "a silent request",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 125,
+   "verified": true,
+   "quote": "Nobody should have to carry that around",
+   "picture": "carrying a burden",
+   "feeling": "the burden of memorization",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the formula",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 125,
+   "verified": true,
+   "quote": "carry that around",
+   "picture": "carrying a burden",
+   "feeling": "burden of memorizing",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the formula",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 129,
+   "verified": true,
+   "quote": "you push and they won't give",
+   "picture": "resistant objects",
+   "feeling": "difficulty manipulating expressions",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the two expressions",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "set aside as a curiosity",
+   "picture": "object put aside",
+   "feeling": "knowledge left unused",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the thing she had learned",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "came out and did the work",
+   "picture": "worker emerging",
+   "feeling": "old knowledge becoming useful",
+   "vehicles": [
+    "worker"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the thing she had learned",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "The crowded formula he'd written went quietly beside the point.",
+   "picture": "person moving aside",
+   "feeling": "formula becoming irrelevant",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the formula",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "At the bottom sat a plain answer",
+   "picture": "answer sitting",
+   "feeling": "answer resting on page",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the answer",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "no circle left in it",
+   "picture": "circular path",
+   "feeling": "problem resolved",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 133,
+   "verified": true,
+   "quote": "It held.",
+   "picture": "structure staying intact",
+   "feeling": "answer proving sound",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the answer",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 137,
+   "verified": true,
+   "quote": "her body got ahead of her mind",
+   "picture": "runners in a race",
+   "feeling": "feeling preceding understanding",
+   "vehicles": [
+    "runner",
+    "race"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 137,
+   "verified": true,
+   "quote": "the kind of beat she would not catch until later",
+   "picture": "beat caught",
+   "feeling": "delayed recognition",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 137,
+   "verified": true,
+   "quote": "he had read it like a problem he was meeting for the first time",
+   "picture": "first encounter",
+   "feeling": "fresh attention to work",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 137,
+   "verified": true,
+   "quote": "his pencil-mark had been a margin note, not a rewrite",
+   "picture": "note and rewrite",
+   "feeling": "guidance without taking over",
+   "vehicles": [
+    "note",
+    "rewrite"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's help",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 143,
+   "verified": true,
+   "quote": "uses up a degree of freedom",
+   "picture": "resource consumed",
+   "feeling": "statistical freedom reduced",
+   "vehicles": [
+    "resource"
+   ],
+   "sensation": "none",
+   "applies_to": "estimating the mean",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 149,
+   "verified": true,
+   "quote": "Vee filed it without filing it",
+   "picture": "document filed",
+   "feeling": "noticing without examining",
+   "vehicles": [
+    "file",
+    "document"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 155,
+   "verified": true,
+   "quote": "What's drawing you to it?",
+   "picture": "person pulled closer",
+   "feeling": "interest in economics",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 157,
+   "verified": true,
+   "quote": "What's drawing you to it?",
+   "picture": "person pulled closer",
+   "feeling": "interest in economics",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 157,
+   "verified": true,
+   "quote": "The question had room in it.",
+   "picture": "roomy container",
+   "feeling": "space for a full answer",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "opening",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 159,
+   "verified": true,
+   "quote": "The gap between what they say they're doing and what they're doing.",
+   "picture": "space between things",
+   "feeling": "difference between words and actions",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "none",
+   "applies_to": "people's behavior",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 167,
+   "verified": true,
+   "quote": "opened the topic up",
+   "picture": "container opening",
+   "feeling": "discussion becoming broader",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "opening",
+   "applies_to": "the topic",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 167,
+   "verified": true,
+   "quote": "his laugh was warm",
+   "picture": "physical warmth",
+   "feeling": "friendly amusement",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 171,
+   "verified": true,
+   "quote": "at the edges of her attention",
+   "picture": "edge of a space",
+   "feeling": "faint peripheral awareness",
+   "vehicles": [
+    "edge",
+    "space"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's attention",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 171,
+   "verified": true,
+   "quote": "made a mental note",
+   "picture": "written note",
+   "feeling": "intention to remember",
+   "vehicles": [
+    "note"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 171,
+   "verified": true,
+   "quote": "wrap up her econ monologue",
+   "picture": "package wrapped",
+   "feeling": "intention to finish talking",
+   "vehicles": [
+    "package"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's monologue",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 171,
+   "verified": true,
+   "quote": "She wrapped it up.",
+   "picture": "package wrapped",
+   "feeling": "finishing her account",
+   "vehicles": [
+    "package"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's monologue",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 177,
+   "verified": true,
+   "quote": "hand some of it back",
+   "picture": "object handed back",
+   "feeling": "desire to reciprocate",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 177,
+   "verified": true,
+   "quote": "taken the whole table",
+   "picture": "table taken",
+   "feeling": "dominating the conversation",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 185,
+   "verified": true,
+   "quote": "Her own voice came back from the top of all this",
+   "picture": "voice returning from above",
+   "feeling": "earlier words recalled",
+   "vehicles": [
+    "voice",
+    "height"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's earlier words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 185,
+   "verified": true,
+   "quote": "warning him off",
+   "picture": "person turned away",
+   "feeling": "earlier caution to pace",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's earlier voice",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 195,
+   "verified": true,
+   "quote": "The laugh got away from her",
+   "picture": "escaping creature",
+   "feeling": "uncontrolled amusement",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 195,
+   "verified": true,
+   "quote": "Underneath it",
+   "picture": "layer beneath another",
+   "feeling": "thought beneath amusement",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 195,
+   "verified": true,
+   "quote": "she set the thought down without opening it, the way she'd set down the pencil",
+   "picture": "unopened object",
+   "feeling": "thought left unexplored",
+   "vehicles": [
+    "object",
+    "pencil"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's thought",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 199,
+   "verified": true,
+   "quote": "What went through her at the glance",
+   "picture": "force passing through",
+   "feeling": "sudden embarrassment",
+   "vehicles": [
+    "force"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 199,
+   "verified": true,
+   "quote": "want to fall through her seat",
+   "picture": "fall through a seat",
+   "feeling": "acute embarrassment",
+   "vehicles": [
+    "seat"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 199,
+   "verified": true,
+   "quote": "the day was about to take him out of the chair",
+   "picture": "person led away",
+   "feeling": "pace's impending departure",
+   "vehicles": [
+    "person",
+    "chair"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's day",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 205,
+   "verified": true,
+   "quote": "Gotta run.",
+   "picture": "person running",
+   "feeling": "need to leave",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 209,
+   "verified": true,
+   "quote": "a word that does not belong to the room it has just been spoken in",
+   "picture": "misplaced object",
+   "feeling": "surprise at formality",
+   "vehicles": [
+    "word",
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's word",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 209,
+   "verified": true,
+   "quote": "her mouth caught up",
+   "picture": "runner catching up",
+   "feeling": "speech lagging behind assent",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 215,
+   "verified": true,
+   "quote": "crash your study session",
+   "picture": "forceful intrusion",
+   "feeling": "joining uninvited",
+   "vehicles": [
+    "crash"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 219,
+   "verified": true,
+   "quote": "Her heart was going as if she'd just pushed up off the bottom of the deep end.",
+   "picture": "surfacing from deep water",
+   "feeling": "racing heart and excitement",
+   "vehicles": [
+    "heart",
+    "bottom",
+    "pool",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 229,
+   "verified": true,
+   "quote": "He looked at you like he'd forgotten there was anyone else in the room",
+   "picture": "room emptied of others",
+   "feeling": "absorbed attention on vee",
+   "vehicles": [
+    "room",
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's look at Vee",
+   "pov": "Cassie",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 229,
+   "verified": true,
+   "quote": "the way you'd look at somebody's great-aunt",
+   "picture": "look at great-aunt",
+   "feeling": "polite familial regard",
+   "vehicles": [
+    "great-aunt"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's look at Randi",
+   "pov": "Cassie",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 231,
+   "verified": true,
+   "quote": "the one that slid off Cassie every day of her life",
+   "picture": "look sliding off",
+   "feeling": "look repeatedly directed at cassie",
+   "vehicles": [
+    "look",
+    "surface"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the look",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 231,
+   "verified": true,
+   "quote": "without a flicker",
+   "picture": "flicker of light",
+   "feeling": "no visible hesitation",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 237,
+   "verified": true,
+   "quote": "spent the whole time on you",
+   "picture": "time as money",
+   "feeling": "sustained attention to vee",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 243,
+   "verified": true,
+   "quote": "the table had gone back to its books",
+   "picture": "table returning to books",
+   "feeling": "group resuming study",
+   "vehicles": [
+    "table",
+    "book"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the people at the table",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 243,
+   "verified": true,
+   "quote": "Her stomach dropped",
+   "picture": "falling stomach",
+   "feeling": "sudden excited shock",
+   "vehicles": [
+    "stomach"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 243,
+   "verified": true,
+   "quote": "the high-board drop, nothing under her for a second",
+   "picture": "high-board dive",
+   "feeling": "sudden excited shock",
+   "vehicles": [
+    "diving board"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 243,
+   "verified": true,
+   "quote": "a stranger's string of digits",
+   "picture": "digits on a string",
+   "feeling": "unfamiliar phone number",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "none",
+   "applies_to": "the phone number",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 269,
+   "verified": true,
+   "quote": "the whole place humming with the machines and quick with people coming and going",
+   "picture": "a lively body",
+   "feeling": "the shop's busy activity",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the shop",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 269,
+   "verified": true,
+   "quote": "a thread of lemon cleaner cutting through the sugar in the air",
+   "picture": "a cutting thread",
+   "feeling": "cleaner scent amid sweetness",
+   "vehicles": [
+    "thread",
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the smell of lemon cleaner",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 271,
+   "verified": true,
+   "quote": "it's an argument the whole way down",
+   "picture": "an ongoing argument",
+   "feeling": "flavors clashing while eaten",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "chocolate on tart frozen yogurt",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 275,
+   "verified": true,
+   "quote": "as if he'd set something down exactly where he meant it to go",
+   "picture": "a placed object",
+   "feeling": "satisfaction with his remark",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 277,
+   "verified": true,
+   "quote": "She built her cup",
+   "picture": "a constructed object",
+   "feeling": "assembling the yogurt",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's frozen yogurt",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 277,
+   "verified": true,
+   "quote": "it got away from her",
+   "picture": "an escaping thing",
+   "feeling": "the serving grew excessive",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's frozen yogurt",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 279,
+   "verified": true,
+   "quote": "it had gone gold",
+   "picture": "the color of gold",
+   "feeling": "late afternoon light",
+   "vehicles": [
+    "gold"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the outdoors",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "substitution",
+   "line": 279,
+   "verified": true,
+   "quote": "the way her grandfather used to ask things, as though the answer mattered and there was no wrong one",
+   "picture": "her grandfather asking",
+   "feeling": "patient, accepting attention",
+   "vehicles": [
+    "grandfather"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's questions",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 279,
+   "verified": true,
+   "quote": "get to the end of a sentence",
+   "picture": "a journey's end",
+   "feeling": "finishing a thought",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's speech",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 285,
+   "verified": true,
+   "quote": "how it landed",
+   "picture": "an object landing",
+   "feeling": "how her remark sounded",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's remark",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "substitution",
+   "line": 287,
+   "verified": true,
+   "quote": "He didn't make it large",
+   "picture": "an enlarged object",
+   "feeling": "he avoided making a fuss",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's remark",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

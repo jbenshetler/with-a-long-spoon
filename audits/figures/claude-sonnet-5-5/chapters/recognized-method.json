@@ -1,0 +1,2489 @@
+{
+ "slug": "recognized-method",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "6893f692834c",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "recognized-method",
+   "line": 9,
+   "verified": true,
+   "quote": "the floor went solid under her",
+   "picture": "firm ground",
+   "feeling": "steadiness after unease",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 9,
+   "verified": true,
+   "quote": "took her foot and held it and steadied her",
+   "picture": "a supporting hand",
+   "feeling": "shoe as support",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the heels",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 9,
+   "verified": true,
+   "quote": "It helped to put them on, as a uniform helps.",
+   "picture": "a uniform",
+   "feeling": "armor of role",
+   "vehicles": [
+    "uniform"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the heels",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 11,
+   "verified": true,
+   "quote": "carrying her contrition out in front of her where they could both look at it",
+   "picture": "carried object on display",
+   "feeling": "guilt held at a distance",
+   "vehicles": [
+    "contrition"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 11,
+   "verified": true,
+   "quote": "not have to be too naked about it",
+   "picture": "nakedness",
+   "feeling": "emotional exposure",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 13,
+   "verified": true,
+   "quote": "handed a man a problem to solve",
+   "picture": "handing over an object",
+   "feeling": "burdening someone",
+   "vehicles": [
+    "problem"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "a woman wringing her hands",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 13,
+   "verified": true,
+   "quote": "left him nothing to do but forgive her",
+   "picture": "cornered options",
+   "feeling": "forgiveness made inevitable",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "the sure woman",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 13,
+   "verified": true,
+   "quote": "built the thing she would say like a small clean machine",
+   "picture": "a machine",
+   "feeling": "precise rehearsed control",
+   "vehicles": [
+    "machine"
+   ],
+   "sensation": "tightening",
+   "applies_to": "the apology",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 13,
+   "verified": true,
+   "quote": "so her own hands would have somewhere to be",
+   "picture": "hands needing a place",
+   "feeling": "nervous awkwardness eased",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 17,
+   "verified": true,
+   "quote": "undid one of the buttons of her composure",
+   "picture": "a button undone",
+   "feeling": "composure loosening",
+   "vehicles": [
+    "button"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 23,
+   "verified": true,
+   "quote": "her body had learned him as a man she looked up at",
+   "picture": "learning a lesson",
+   "feeling": "ingrained habit",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 23,
+   "verified": true,
+   "quote": "the small wrongness of it went through her like a missed stair",
+   "picture": "a missed stair",
+   "feeling": "sudden lurch of wrongness",
+   "vehicles": [
+    "stair"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 23,
+   "verified": true,
+   "quote": "the knowing arrived all at once",
+   "picture": "a sudden arrival",
+   "feeling": "sudden realization",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 23,
+   "verified": true,
+   "quote": "her eyes came level with his and kept going",
+   "picture": "travel past a mark",
+   "feeling": "height discovered",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's eyes",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 27,
+   "verified": true,
+   "quote": "the heat came up her neck in a sheet",
+   "picture": "a sheet rising",
+   "feeling": "flushing mortification",
+   "vehicles": [
+    "sheet"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 27,
+   "verified": true,
+   "quote": "it read as one more disrespect laid at his feet",
+   "picture": "offering at feet",
+   "feeling": "insult delivered",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the heels",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 27,
+   "verified": true,
+   "quote": "the apology she'd built coming apart in her mouth",
+   "picture": "a structure falling apart",
+   "feeling": "speech disintegrating",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the apology",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 27,
+   "verified": true,
+   "quote": "the inch between them",
+   "picture": "a measured gap",
+   "feeling": "height difference",
+   "vehicles": [
+    "inch"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 31,
+   "verified": true,
+   "quote": "the way you take a glass from someone about to drop it",
+   "picture": "catching a glass",
+   "feeling": "gentle rescue",
+   "vehicles": [
+    "glass"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 31,
+   "verified": true,
+   "quote": "out of the fold she'd started to make of herself",
+   "picture": "folding paper",
+   "feeling": "collapsing in on herself",
+   "vehicles": [
+    "fold"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 31,
+   "verified": true,
+   "quote": "under the wreckage of her entrance",
+   "picture": "a wreck",
+   "feeling": "ruined arrival",
+   "vehicles": [
+    "wreckage"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's entrance",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 31,
+   "verified": true,
+   "quote": "a small vanity lifted its head, absurd and unkillable",
+   "picture": "an animal lifting its head",
+   "feeling": "vanity resurfacing",
+   "vehicles": [
+    "head"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's vanity",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 31,
+   "verified": true,
+   "quote": "The scarf was working.",
+   "picture": "a tool working",
+   "feeling": "scarf succeeding",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the scarf",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 33,
+   "verified": true,
+   "quote": "Beauty like yours made for the gods and loaned out",
+   "picture": "a loan from gods",
+   "feeling": "extravagant praise",
+   "vehicles": [
+    "god",
+    "loan"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 33,
+   "verified": true,
+   "quote": "I'm not going to insult the loan by complaining",
+   "picture": "a borrowed object",
+   "feeling": "graceful gratitude",
+   "vehicles": [
+    "loan"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's beauty",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 35,
+   "verified": true,
+   "quote": "it went in under whatever you had up",
+   "picture": "slipping under a guard",
+   "feeling": "defenses bypassed",
+   "vehicles": [
+    "guard"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 35,
+   "verified": true,
+   "quote": "left you standing there with your eyes stinging",
+   "picture": "stinging eyes",
+   "feeling": "tears rising",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 37,
+   "verified": true,
+   "quote": "find the top of the speech again",
+   "picture": "finding a place on a page",
+   "feeling": "recovering her script",
+   "vehicles": [
+    "top"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 37,
+   "verified": true,
+   "quote": "steadied her",
+   "picture": "steadying a wobbling thing",
+   "feeling": "calm restored",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 39,
+   "verified": true,
+   "quote": "before I lose my nerve",
+   "picture": "losing an object",
+   "feeling": "courage slipping",
+   "vehicles": [
+    "nerve"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 41,
+   "verified": true,
+   "quote": "gave her his attention, all of it, which was its own kind of difficulty",
+   "picture": "giving a gift",
+   "feeling": "intense focus",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 43,
+   "verified": true,
+   "quote": "the clean machine, running",
+   "picture": "a machine running",
+   "feeling": "rehearsed speech proceeding",
+   "vehicles": [
+    "machine"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the apology",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 43,
+   "verified": true,
+   "quote": "threw it back at you in front of people",
+   "picture": "throwing an object back",
+   "feeling": "rejecting kindness",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 43,
+   "verified": true,
+   "quote": "I've been sick about it since.",
+   "picture": "sickness",
+   "feeling": "guilt",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 45,
+   "verified": true,
+   "quote": "for one bright second she had the relief",
+   "picture": "brightness",
+   "feeling": "brief relief",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 47,
+   "verified": true,
+   "quote": "let a closed door stay closed",
+   "picture": "a closed door",
+   "feeling": "leaving a topic alone",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "other people",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 51,
+   "verified": true,
+   "quote": "He wasn't cornering her",
+   "picture": "cornering an animal",
+   "feeling": "pressure of questioning",
+   "vehicles": [
+    "corner"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 51,
+   "verified": true,
+   "quote": "There was no edge in it.",
+   "picture": "a blade's edge",
+   "feeling": "no harshness",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Pace's voice",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 53,
+   "verified": true,
+   "quote": "The clean machine had no part for this.",
+   "picture": "a machine lacking a part",
+   "feeling": "script failing",
+   "vehicles": [
+    "machine",
+    "part"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the apology",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 53,
+   "verified": true,
+   "quote": "the whole structure she'd come in behind simply wasn't there anymore",
+   "picture": "a shelter vanishing",
+   "feeling": "defenses gone",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the apology",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 53,
+   "verified": true,
+   "quote": "with his face open and waiting",
+   "picture": "an open door",
+   "feeling": "receptive sincerity",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 55,
+   "verified": true,
+   "quote": "The words were coming now without her choosing them",
+   "picture": "words arriving on their own",
+   "feeling": "unchecked flow of speech",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 55,
+   "verified": true,
+   "quote": "the way it had been replaying for two nights",
+   "picture": "a replaying recording",
+   "feeling": "obsessive memory",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the memory",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 55,
+   "verified": true,
+   "quote": "She heard herself slip into the blonde's exact words",
+   "picture": "slipping into clothing",
+   "feeling": "involuntary mimicry",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 55,
+   "verified": true,
+   "quote": "The lilt of it came out of her own mouth and she hated it.",
+   "picture": "a voice taking over",
+   "feeling": "disgust at mimicry",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 57,
+   "verified": true,
+   "quote": "the thing the blonde had built out of his kindness",
+   "picture": "construction",
+   "feeling": "insinuation fabricated",
+   "vehicles": [
+    "kindness"
+   ],
+   "sensation": "none",
+   "applies_to": "the blonde",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 57,
+   "verified": true,
+   "quote": "too ugly to set down in his front hall",
+   "picture": "setting down an object",
+   "feeling": "unspeakable thought",
+   "vehicles": [
+    "hall"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the idea",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 59,
+   "verified": true,
+   "quote": "it got into me anyway",
+   "picture": "a poison entering",
+   "feeling": "insinuation taking hold",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the blonde's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 59,
+   "verified": true,
+   "quote": "said your name like she owned a piece of it",
+   "picture": "owning property",
+   "feeling": "possessive familiarity",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "none",
+   "applies_to": "the blonde",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 59,
+   "verified": true,
+   "quote": "She handed me a lie and I picked it up",
+   "picture": "handing over an object",
+   "feeling": "accepting a falsehood",
+   "vehicles": [
+    "lie"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 59,
+   "verified": true,
+   "quote": "you can't put a label on that",
+   "picture": "a label",
+   "feeling": "joke inadequate",
+   "vehicles": [
+    "label"
+   ],
+   "sensation": "none",
+   "applies_to": "the pie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 59,
+   "verified": true,
+   "quote": "some part of me was just standing there waiting for one",
+   "picture": "a waiting person",
+   "feeling": "readiness to believe",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 61,
+   "verified": true,
+   "quote": "Her eyes had gone.",
+   "picture": "something departed",
+   "feeling": "tears welling",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 61,
+   "verified": true,
+   "quote": "would have closed it over too easily",
+   "picture": "closing a wound",
+   "feeling": "premature reassurance",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "the confession",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 61,
+   "verified": true,
+   "quote": "the small distance she'd been keeping",
+   "picture": "kept distance",
+   "feeling": "emotional guardedness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 65,
+   "verified": true,
+   "quote": "before the night took her under",
+   "picture": "drowning",
+   "feeling": "surrender to sleep and desire",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 65,
+   "verified": true,
+   "quote": "the hope was too big and too new to say even to herself",
+   "picture": "a bulky object",
+   "feeling": "overwhelming hope",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's hope",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 65,
+   "verified": true,
+   "quote": "carried the whole weight of it up the hill to his door",
+   "picture": "carrying a load uphill",
+   "feeling": "burden of guilt",
+   "vehicles": [
+    "weight",
+    "hill",
+    "door"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 65,
+   "verified": true,
+   "quote": "he had simply reached over and lifted it out of her hands, like the pie",
+   "picture": "lifting a pie",
+   "feeling": "burden relieved",
+   "vehicles": [
+    "pie",
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 65,
+   "verified": true,
+   "quote": "first lighter and then not light at all",
+   "picture": "weight",
+   "feeling": "mood deepening",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the evening",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 71,
+   "verified": true,
+   "quote": "she surfaced in that animal way",
+   "picture": "surfacing from water",
+   "feeling": "waking instinctively",
+   "vehicles": [
+    "water",
+    "animal"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 71,
+   "verified": true,
+   "quote": "Then the room arranged itself.",
+   "picture": "things arranging themselves",
+   "feeling": "orientation returning",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 71,
+   "verified": true,
+   "quote": "Two nights of no sleep had been paid back all at once",
+   "picture": "debt repaid",
+   "feeling": "sleep debt settled",
+   "vehicles": [
+    "debt"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 71,
+   "verified": true,
+   "quote": "her body did not so much wake as agree to be awake",
+   "picture": "agreeing",
+   "feeling": "reluctant waking",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 73,
+   "verified": true,
+   "quote": "did something to her chest",
+   "picture": "an effect on the chest",
+   "feeling": "tender emotion",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 73,
+   "verified": true,
+   "quote": "her hair a disaster",
+   "picture": "a disaster",
+   "feeling": "messy hair",
+   "vehicles": [
+    "disaster"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's hair",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 77,
+   "verified": true,
+   "quote": "gave him her whole weight, a dead drowsy weight",
+   "picture": "a gift of weight",
+   "feeling": "leaning in drowsily",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 83,
+   "verified": true,
+   "quote": "moving them slow, lobbying",
+   "picture": "political lobbying",
+   "feeling": "persuasion by touch",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's hands",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 83,
+   "verified": true,
+   "quote": "the water does the work",
+   "picture": "water as laborer",
+   "feeling": "passive effort",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "none",
+   "applies_to": "the water",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 83,
+   "verified": true,
+   "quote": "here you are undermining the soak",
+   "picture": "sabotage",
+   "feeling": "mock accusation",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 83,
+   "verified": true,
+   "quote": "things that want to be left alone",
+   "picture": "things with wants",
+   "feeling": "mock personification",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the dishes",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 83,
+   "verified": true,
+   "quote": "Soaking is a recognized method.",
+   "picture": "official doctrine",
+   "feeling": "mock authority",
+   "vehicles": [
+    "method"
+   ],
+   "sensation": "none",
+   "applies_to": "soaking",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 85,
+   "verified": true,
+   "quote": "She felt the laugh go through his back before she heard it.",
+   "picture": "a laugh travelling",
+   "feeling": "his amusement felt",
+   "vehicles": [
+    "back"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 87,
+   "verified": true,
+   "quote": "she could feel that he was enjoying her",
+   "picture": "savoring food",
+   "feeling": "being relished",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 89,
+   "verified": true,
+   "quote": "the whole argument she'd already won",
+   "picture": "a won contest",
+   "feeling": "playful triumph",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 91,
+   "verified": true,
+   "quote": "she came apart",
+   "picture": "falling to pieces",
+   "feeling": "helpless laughter",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 91,
+   "verified": true,
+   "quote": "Fingers dug in exactly where she couldn't bear it",
+   "picture": "digging",
+   "feeling": "ticklish intensity",
+   "vehicles": [
+    "finger"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 91,
+   "verified": true,
+   "quote": "already too far gone to defend herself",
+   "picture": "going far away",
+   "feeling": "helplessness",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 97,
+   "verified": true,
+   "quote": "something changed in the quality of his attention",
+   "picture": "changing quality",
+   "feeling": "shift in mood",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 97,
+   "verified": true,
+   "quote": "It came around and settled on her fully",
+   "picture": "something landing",
+   "feeling": "attention turned on her",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's attention",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 99,
+   "verified": true,
+   "quote": "it swung her right into his hand",
+   "picture": "a swinging motion",
+   "feeling": "accident turned fate",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 101,
+   "verified": true,
+   "quote": "The sting of it was not.",
+   "picture": "a sting",
+   "feeling": "sharp pain",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the slap",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 103,
+   "verified": true,
+   "quote": "a bright hot line straight up from the place his hand had been",
+   "picture": "a line of fire",
+   "feeling": "sudden arousal",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 103,
+   "verified": true,
+   "quote": "it arrived before any thought could get in front of it",
+   "picture": "a race",
+   "feeling": "feeling outrunning thought",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "the sensation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 103,
+   "verified": true,
+   "quote": "She felt her eyes go somewhere far off",
+   "picture": "eyes travelling",
+   "feeling": "dazed arousal",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 103,
+   "verified": true,
+   "quote": "her body saying two or three things at once that she had not agreed to have it say",
+   "picture": "a speaking body",
+   "feeling": "involuntary body signals",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 103,
+   "verified": true,
+   "quote": "a sound that didn't come, a soundless *oh*",
+   "picture": "silent sound",
+   "feeling": "breathless arousal",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 105,
+   "verified": true,
+   "quote": "no joke for this, no doctrine, no clean machine",
+   "picture": "tools lost",
+   "feeling": "script gone",
+   "vehicles": [
+    "machine"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 105,
+   "verified": true,
+   "quote": "The words that had carried her all weekend were just gone, lifted out of her hands.",
+   "picture": "lifted load",
+   "feeling": "defenses removed",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 107,
+   "verified": true,
+   "quote": "to cover the thing he'd seen with a thing she was choosing",
+   "picture": "covering something",
+   "feeling": "concealment by action",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 107,
+   "verified": true,
+   "quote": "her fingers not as sure as the kiss was trying to be",
+   "picture": "unsteady performance",
+   "feeling": "faked assurance",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 109,
+   "verified": true,
+   "quote": "exactly where it wanted to be",
+   "picture": "a pan with desire",
+   "feeling": "playful personification",
+   "vehicles": [
+    "pan"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the pan",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 111,
+   "verified": true,
+   "quote": "a quiet room was a room with a question standing in it",
+   "picture": "a person standing",
+   "feeling": "silence pressing",
+   "vehicles": [
+    "room",
+    "question"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 113,
+   "verified": true,
+   "quote": "still ringing under the cotton",
+   "picture": "a bell ringing",
+   "feeling": "lingering sting",
+   "vehicles": [
+    "bell"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's skin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 113,
+   "verified": true,
+   "quote": "her hands wanted to go somewhere else",
+   "picture": "hands with wants",
+   "feeling": "urge to touch herself",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's hands",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 115,
+   "verified": true,
+   "quote": "He let her run.",
+   "picture": "letting an animal run",
+   "feeling": "allowing her to ramble",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 115,
+   "verified": true,
+   "quote": "the same attention he'd turned on her at the sink",
+   "picture": "a turned light",
+   "feeling": "focused gaze",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 115,
+   "verified": true,
+   "quote": "answering when she left him room to",
+   "picture": "space to move in",
+   "feeling": "gap in her talk",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 115,
+   "verified": true,
+   "quote": "before it could get any further than that",
+   "picture": "a journey",
+   "feeling": "stopping things progressing",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the moment",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 117,
+   "verified": true,
+   "quote": "worked herself onto him in short sinking pushes",
+   "picture": "sinking",
+   "feeling": "slow descent",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 117,
+   "verified": true,
+   "quote": "got her face down into his neck where he couldn't see it",
+   "picture": "hiding",
+   "feeling": "concealment",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 117,
+   "verified": true,
+   "quote": "taking a little and giving it back and taking more",
+   "picture": "a trade or loan",
+   "feeling": "measured give and take",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 119,
+   "verified": true,
+   "quote": "It solved one thing and made another.",
+   "picture": "a problem solved",
+   "feeling": "trade-off",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the position",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 119,
+   "verified": true,
+   "quote": "her back ran up and open into the low light",
+   "picture": "a landscape",
+   "feeling": "exposed back",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's back",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 119,
+   "verified": true,
+   "quote": "her whole body jumped, one hard jolt she had no say in",
+   "picture": "a jolt",
+   "feeling": "involuntary reaction",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 123,
+   "verified": true,
+   "quote": "It came out about half the size she'd meant it.",
+   "picture": "a sized object",
+   "feeling": "faltering voice",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 125,
+   "verified": true,
+   "quote": "the sting woke and answered, in time with her",
+   "picture": "waking and replying",
+   "feeling": "pain echoing motion",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "the sting",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 125,
+   "verified": true,
+   "quote": "the motion was the thing lighting it",
+   "picture": "lighting a flame",
+   "feeling": "motion kindling sensation",
+   "vehicles": [
+    "flame"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the sting",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 125,
+   "verified": true,
+   "quote": "She was hiding it under motion",
+   "picture": "hiding under cover",
+   "feeling": "concealing arousal",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 125,
+   "verified": true,
+   "quote": "the sting woke and answered",
+   "picture": "a sleeper waking",
+   "feeling": "pain reviving",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "the sting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "starved and thorough",
+   "picture": "hunger",
+   "feeling": "ravenous need",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Saturday",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "he had taken all the time in the world with her",
+   "picture": "unlimited time",
+   "feeling": "unhurried",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "His breath went rough early",
+   "picture": "rough texture",
+   "feeling": "uneven breathing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "what had got into him",
+   "picture": "possession",
+   "feeling": "unexplained change in him",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "him",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "killed the question before it reached her mouth",
+   "picture": "killing a creature",
+   "feeling": "suppressing a question",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 127,
+   "verified": true,
+   "quote": "there was something to see",
+   "picture": "a visible object",
+   "feeling": "hidden vulnerability",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "The first one came up on her",
+   "picture": "a wave rising",
+   "feeling": "orgasm approaching",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "sentences she'd started for cover",
+   "picture": "taking shelter",
+   "feeling": "talking to hide",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her sentences",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "broken pieces of sentences",
+   "picture": "broken objects",
+   "feeling": "fragmented speech",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "her sentences",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "it went through her hard and clean",
+   "picture": "something passing through",
+   "feeling": "orgasm sweeping through",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "the orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "she rode it out",
+   "picture": "riding a wave",
+   "feeling": "enduring climax",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "When it let her go",
+   "picture": "a grip released",
+   "feeling": "climax ending",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the orgasm",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 129,
+   "verified": true,
+   "quote": "the part of her still keeping books",
+   "picture": "bookkeeping",
+   "feeling": "cool tallying self",
+   "vehicles": [
+    "book"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 131,
+   "verified": true,
+   "quote": "air with a shape in it and no words in it at all",
+   "picture": "a vessel of air",
+   "feeling": "wordless sound",
+   "vehicles": [
+    "air",
+    "shape"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "her voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 131,
+   "verified": true,
+   "quote": "reached for something to say",
+   "picture": "reaching for an object",
+   "feeling": "searching for words",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 133,
+   "verified": true,
+   "quote": "where the print of it still lived",
+   "picture": "a living thing",
+   "feeling": "mark persisting",
+   "vehicles": [
+    "print"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the handprint",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 133,
+   "verified": true,
+   "quote": "bore her down onto him",
+   "picture": "weight pressing",
+   "feeling": "pressed down",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 135,
+   "verified": true,
+   "quote": "Heat over the sting.",
+   "picture": "warmth laid over",
+   "feeling": "soothing warmth over pain",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 137,
+   "verified": true,
+   "quote": "Everything she'd been holding up came down at once.",
+   "picture": "a collapsing structure",
+   "feeling": "defenses collapsing",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 137,
+   "verified": true,
+   "quote": "She had nothing left to put over it",
+   "picture": "a cover over something",
+   "feeling": "no way to conceal",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 139,
+   "verified": true,
+   "quote": "Small, wrecked, attached to nothing",
+   "picture": "a wreck, tether",
+   "feeling": "broken unanchored voice",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "her voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 139,
+   "verified": true,
+   "quote": "out of her before she could see what it was asking for",
+   "picture": "escaping thing",
+   "feeling": "involuntary utterance",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 141,
+   "verified": true,
+   "quote": "His hand answered before he did",
+   "picture": "a reply",
+   "feeling": "hand responding",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 141,
+   "verified": true,
+   "quote": "taking the place and keeping it",
+   "picture": "holding territory",
+   "feeling": "hand settling firmly",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 145,
+   "verified": true,
+   "quote": "out of the bottom of her voice",
+   "picture": "depths",
+   "feeling": "low deep voice",
+   "vehicles": [
+    "bottom"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "her voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 145,
+   "verified": true,
+   "quote": "still attached to nothing, and both of them left it there",
+   "picture": "a loose object left",
+   "feeling": "unexplained plea left unspoken",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 147,
+   "verified": true,
+   "quote": "the second one took her apart",
+   "picture": "dismantling",
+   "feeling": "undone completely",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 147,
+   "verified": true,
+   "quote": "This one she could not file.",
+   "picture": "filing a document",
+   "feeling": "cannot categorize",
+   "vehicles": [
+    "file"
+   ],
+   "sensation": "none",
+   "applies_to": "the orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 147,
+   "verified": true,
+   "quote": "she came on it",
+   "picture": "riding onto",
+   "feeling": "climax triggered",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 147,
+   "verified": true,
+   "quote": "a sound she would have paid money to take back",
+   "picture": "buying back",
+   "feeling": "mortification",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 149,
+   "verified": true,
+   "quote": "everything in him letting go at once",
+   "picture": "releasing a grip",
+   "feeling": "release",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 149,
+   "verified": true,
+   "quote": "a groan bitten off against her shoulder",
+   "picture": "biting off",
+   "feeling": "stifled groan",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 149,
+   "verified": true,
+   "quote": "the deep spill of him and the long shudders running out of him",
+   "picture": "liquid spilling and running",
+   "feeling": "emptying release",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 149,
+   "verified": true,
+   "quote": "held on and rode them down",
+   "picture": "riding waves",
+   "feeling": "following aftershocks",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 151,
+   "verified": true,
+   "quote": "The thing he had seen sat in the room with them",
+   "picture": "a presence in the room",
+   "feeling": "unspoken knowledge present",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the thing he saw",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 151,
+   "verified": true,
+   "quote": "neither of them reached for it",
+   "picture": "reaching for an object",
+   "feeling": "declining to address",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "them",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 151,
+   "verified": true,
+   "quote": "let it sit there, unnamed, hers",
+   "picture": "a possession set down",
+   "feeling": "private owned secret",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 157,
+   "verified": true,
+   "quote": "Saturday had become Sunday and Sunday had kept her",
+   "picture": "days as captor",
+   "feeling": "time keeping her there",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 157,
+   "verified": true,
+   "quote": "like the last clean thing in the world",
+   "picture": "scarce last item",
+   "feeling": "precious scarcity",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "her bra",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 157,
+   "verified": true,
+   "quote": "nothing of her own left anywhere on her skin",
+   "picture": "erasure",
+   "feeling": "self overwritten by him",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 157,
+   "verified": true,
+   "quote": "She had gone a little still over it",
+   "picture": "stillness",
+   "feeling": "quiet emotion",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "Monday came at her sideways.",
+   "picture": "an attacker approaching",
+   "feeling": "monday catching her off guard",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Monday",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "it kept a clock set for the dorm",
+   "picture": "an internal clock",
+   "feeling": "bodily habit of waking",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "the clock did not know it was twenty minutes outside of town",
+   "picture": "a clock that knows",
+   "feeling": "body habit mismatched",
+   "vehicles": [
+    "clock"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "So she surfaced late",
+   "picture": "surfacing from water",
+   "feeling": "waking",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "before the morning arrived all at once",
+   "picture": "a visitor arriving",
+   "feeling": "sudden realization",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "the morning",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 159,
+   "verified": true,
+   "quote": "she would have to fly to the dorm first",
+   "picture": "flying",
+   "feeling": "rushing",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 161,
+   "verified": true,
+   "quote": "had become a thing with its own weather",
+   "picture": "weather",
+   "feeling": "unruly wild hair",
+   "vehicles": [
+    "weather"
+   ],
+   "sensation": "none",
+   "applies_to": "her hair",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 161,
+   "verified": true,
+   "quote": "the fright of it",
+   "picture": "a frightening sight",
+   "feeling": "hair looks awful",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "her hair",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 161,
+   "verified": true,
+   "quote": "felt her eyes go hot",
+   "picture": "heat",
+   "feeling": "tears rising",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 163,
+   "verified": true,
+   "quote": "It came out in a rush",
+   "picture": "a rush of water",
+   "feeling": "words spilling",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "her speech",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 165,
+   "verified": true,
+   "quote": "the way you hold a thing you mean to keep",
+   "picture": "holding a treasured thing",
+   "feeling": "tender possessiveness",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "recognized-method",
+   "line": 165,
+   "verified": true,
+   "quote": "swept the wild hair back off her face",
+   "picture": "sweeping",
+   "feeling": "gentle clearing",
+   "vehicles": [
+    "broom"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "recognized-method",
+   "line": 165,
+   "verified": true,
+   "quote": "She stood inside it as long as she could afford to",
+   "picture": "standing in a shelter, paying",
+   "feeling": "dwelling in the words",
+   "vehicles": [
+    "shelter"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

@@ -1,0 +1,2364 @@
+{
+ "slug": "fairytale",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "29e636bb5036",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "fairytale",
+   "line": 3,
+   "verified": true,
+   "quote": "the mirror aperture that confirms the configuration has no substitute",
+   "picture": "a mirror aperture",
+   "feeling": "confirmation of an arrangement",
+   "vehicles": [
+    "mirror",
+    "aperture"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the conventionally perfect man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "eating her revulsion",
+   "picture": "swallowed food",
+   "feeling": "concealed disgust",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "all edges and points against her",
+   "picture": "sharp edges",
+   "feeling": "a sharp, ungenerous embrace",
+   "vehicles": [
+    "edge",
+    "point"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Randi's mother",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "a tennis bracelet played with the window's light",
+   "picture": "a playful bracelet",
+   "feeling": "sparkling movement",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's mother's bracelet",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "locked on her wrist",
+   "picture": "a locked restraint",
+   "feeling": "being unable to remove it",
+   "vehicles": [
+    "lock",
+    "restraint"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's bracelet",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "how many hearts she had broken",
+   "picture": "broken hearts",
+   "feeling": "romantic disappointment",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi's admirers",
+   "pov": "Randi's father",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "the boys who chased her and the one or two she'd let catch her a little",
+   "picture": "a chase",
+   "feeling": "romantic pursuit",
+   "vehicles": [
+    "pursuer",
+    "quarry"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's invented admirers",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "keep her eye out for an eligible bachelor",
+   "picture": "an eye searching",
+   "feeling": "looking for a partner",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "as brittle as it felt",
+   "picture": "brittle material",
+   "feeling": "strained, fragile laughter",
+   "vehicles": [
+    "glass"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi's laugh",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 7,
+   "verified": true,
+   "quote": "ducked out",
+   "picture": "ducking under something",
+   "feeling": "a quick departure",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "feeling vaguely disconnected from the world by her helmet, goggles, and gloves",
+   "picture": "a severed connection",
+   "feeling": "distance from her surroundings",
+   "vehicles": [
+    "connection"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "the lift swept the front of the queue up the mountain",
+   "picture": "a sweeping motion",
+   "feeling": "people carried steadily upward",
+   "vehicles": [
+    "broom"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the lift queue",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "a towering body",
+   "picture": "a tower",
+   "feeling": "imposing height",
+   "vehicles": [
+    "tower"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "Play along",
+   "picture": "a shared performance",
+   "feeling": "joining a pretense",
+   "vehicles": [
+    "play"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "John",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "for the audience of the line behind them",
+   "picture": "a theater audience",
+   "feeling": "people watching a performance",
+   "vehicles": [
+    "audience"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the lift line",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 9,
+   "verified": true,
+   "quote": "a snafu with our dry cleaning that I had to straighten out",
+   "picture": "a tangled object",
+   "feeling": "resolving a problem",
+   "vehicles": [
+    "tangle"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the invented dry-cleaning problem",
+   "pov": "John",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 11,
+   "verified": true,
+   "quote": "What do you think you're playing at?",
+   "picture": "a game",
+   "feeling": "questioning his intentions",
+   "vehicles": [
+    "game"
+   ],
+   "sensation": "none",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 13,
+   "verified": true,
+   "quote": "join forces",
+   "picture": "allied forces",
+   "feeling": "acting together",
+   "vehicles": [
+    "army"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "John and Randi",
+   "pov": "John",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 13,
+   "verified": true,
+   "quote": "That's what we're playing at",
+   "picture": "a game",
+   "feeling": "their shared pretense",
+   "vehicles": [
+    "game"
+   ],
+   "sensation": "none",
+   "applies_to": "John and Randi",
+   "pov": "John",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 17,
+   "verified": true,
+   "quote": "The line shuffled them forward",
+   "picture": "a moving crowd",
+   "feeling": "gradual movement forward",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi and John",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 27,
+   "verified": true,
+   "quote": "I wouldn't dream of it",
+   "picture": "a dream",
+   "feeling": "a playful denial",
+   "vehicles": [
+    "dream"
+   ],
+   "sensation": "none",
+   "applies_to": "John",
+   "pov": "John",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 29,
+   "verified": true,
+   "quote": "Her hand disappeared into his glove",
+   "picture": "an engulfed hand",
+   "feeling": "the difference in size",
+   "vehicles": [
+    "hand",
+    "glove"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's hand",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 29,
+   "verified": true,
+   "quote": "neither of them missed a beat",
+   "picture": "an uninterrupted rhythm",
+   "feeling": "effortless shared invention",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi and John",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 33,
+   "verified": true,
+   "quote": "the trees closed under them",
+   "picture": "a closing cover",
+   "feeling": "the town disappearing below",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the trees",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 35,
+   "verified": true,
+   "quote": "the cold came up under the chair and through her jacket and settled against the small of her back",
+   "picture": "an approaching presence",
+   "feeling": "cold reaching her back",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the cold",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 51,
+   "verified": true,
+   "quote": "fighting for the next",
+   "picture": "a fight",
+   "feeling": "effort on each turn",
+   "vehicles": [
+    "fight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's skiing",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 51,
+   "verified": true,
+   "quote": "what she couldn't get past",
+   "picture": "a blocked path",
+   "feeling": "persistent astonishment",
+   "vehicles": [
+    "obstacle",
+    "path"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 51,
+   "verified": true,
+   "quote": "he had the run to spare and spent none of it proving it",
+   "picture": "unspent money",
+   "feeling": "unadvertised reserve of skill",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "John's skiing",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 55,
+   "verified": true,
+   "quote": "His smile brightened into a chuckle",
+   "picture": "brightening light",
+   "feeling": "growing amusement",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "John's smile",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 55,
+   "verified": true,
+   "quote": "A beat",
+   "picture": "a musical beat",
+   "feeling": "a brief pause",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the pause",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 57,
+   "verified": true,
+   "quote": "The morning ran on the one rhythm",
+   "picture": "a steady rhythm",
+   "feeling": "repeated skiing and riding",
+   "vehicles": [
+    "rhythm"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the morning",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 57,
+   "verified": true,
+   "quote": "they ran out of things to say",
+   "picture": "an exhausted supply",
+   "feeling": "conversation coming to rest",
+   "vehicles": [
+    "supply"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Randi and John",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 57,
+   "verified": true,
+   "quote": "The talk turned from where-are-you-from to something with an edge on it",
+   "picture": "a sharp edge",
+   "feeling": "conversation becoming charged",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "their talk",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 57,
+   "verified": true,
+   "quote": "she caught him looking at her",
+   "picture": "a person caught",
+   "feeling": "discovering his attention",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 57,
+   "verified": true,
+   "quote": "he caught her at it",
+   "picture": "a person caught",
+   "feeling": "her attention discovered",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 59,
+   "verified": true,
+   "quote": "They traded the lead",
+   "picture": "an exchanged object",
+   "feeling": "taking turns leading",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi and John",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 59,
+   "verified": true,
+   "quote": "her legs were shot",
+   "picture": "damaged machinery",
+   "feeling": "exhausted legs",
+   "vehicles": [
+    "machine"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi's legs",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 63,
+   "verified": true,
+   "quote": "a shelf halfway down the mountain",
+   "picture": "a shelf",
+   "feeling": "a level mountain ledge",
+   "vehicles": [
+    "shelf"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the mountainside",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 63,
+   "verified": true,
+   "quote": "a thread of smoke",
+   "picture": "a thread",
+   "feeling": "a thin line of smoke",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the smoke",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 65,
+   "verified": true,
+   "quote": "by some string she didn't catch him pulling",
+   "picture": "a pulled string",
+   "feeling": "unseen influence",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "John's securing the table",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 67,
+   "verified": true,
+   "quote": "break whatever plans she had",
+   "picture": "a broken object",
+   "feeling": "canceling prior plans",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi's plans",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 69,
+   "verified": true,
+   "quote": "pencil you in for eight",
+   "picture": "a penciled appointment",
+   "feeling": "playfully accepting his invitation",
+   "vehicles": [
+    "pencil",
+    "calendar"
+   ],
+   "sensation": "none",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 69,
+   "verified": true,
+   "quote": "exactly the errand they'd sent her out here to run. She would let them think she'd run it",
+   "picture": "an assigned errand",
+   "feeling": "meeting her parents' expectations",
+   "vehicles": [
+    "errand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's meeting John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 77,
+   "verified": true,
+   "quote": "It found the dancer in her",
+   "picture": "a hidden dancer",
+   "feeling": "her dancer's form revealed",
+   "vehicles": [
+    "dancer"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's dress",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 77,
+   "verified": true,
+   "quote": "it went to work on her eyes",
+   "picture": "a worker at work",
+   "feeling": "the dress enhancing her eyes",
+   "vehicles": [
+    "worker"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's dress",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 77,
+   "verified": true,
+   "quote": "the pale blue of the dress woke them up and gave them to the room",
+   "picture": "awakened eyes",
+   "feeling": "her eyes made vivid",
+   "vehicles": [
+    "person",
+    "gift"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's eyes",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 81,
+   "verified": true,
+   "quote": "ran the whole night through",
+   "picture": "a played sequence",
+   "feeling": "imagining the evening",
+   "vehicles": [
+    "film"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's anticipated night",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 83,
+   "verified": true,
+   "quote": "both hands coming up and crossing over his heart as if to keep it where it belonged",
+   "picture": "a heart escaping",
+   "feeling": "astonished romantic excitement",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 85,
+   "verified": true,
+   "quote": "him swallowed in ski gear",
+   "picture": "a swallowed person",
+   "feeling": "his body hidden by clothing",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 85,
+   "verified": true,
+   "quote": "the bulk of the mountain gone off him",
+   "picture": "a mountain's bulk",
+   "feeling": "his ski gear removed",
+   "vehicles": [
+    "mountain"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 89,
+   "verified": true,
+   "quote": "a hall blazing against the dark of the mountain",
+   "picture": "a blazing fire",
+   "feeling": "brilliant light in darkness",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the hall",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 89,
+   "verified": true,
+   "quote": "the tables were dressed in black",
+   "picture": "tables in clothing",
+   "feeling": "formal black table coverings",
+   "vehicles": [
+    "clothing"
+   ],
+   "sensation": "none",
+   "applies_to": "the tables",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 91,
+   "verified": true,
+   "quote": "a star to his name",
+   "picture": "a star",
+   "feeling": "professional distinction",
+   "vehicles": [
+    "star"
+   ],
+   "sensation": "none",
+   "applies_to": "the chef",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 91,
+   "verified": true,
+   "quote": "a run of small illusions",
+   "picture": "a sequence of tricks",
+   "feeling": "surprising courses of food",
+   "vehicles": [
+    "illusion"
+   ],
+   "sensation": "none",
+   "applies_to": "the dinner",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 91,
+   "verified": true,
+   "quote": "a curl of scented smoke",
+   "picture": "a curl",
+   "feeling": "smoke winding upward",
+   "vehicles": [
+    "curl"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the smoke",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 91,
+   "verified": true,
+   "quote": "the smell of it lifted off the table and turned every head nearby",
+   "picture": "a force turning heads",
+   "feeling": "attention drawn by the aroma",
+   "vehicles": [
+    "head"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the truffle's smell",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 91,
+   "verified": true,
+   "quote": "take it all in",
+   "picture": "something taken inside",
+   "feeling": "fully appreciating the meal",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 93,
+   "verified": true,
+   "quote": "the whole shape of the thing changed",
+   "picture": "a changed shape",
+   "feeling": "their roles reversing",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi and John's dynamic",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 95,
+   "verified": true,
+   "quote": "her body knew before she did",
+   "picture": "a knowing body",
+   "feeling": "instinctive dancing",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's body",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 95,
+   "verified": true,
+   "quote": "with everything in reserve",
+   "picture": "a stored supply",
+   "feeling": "controlled, unexerted skill",
+   "vehicles": [
+    "supply"
+   ],
+   "sensation": "none",
+   "applies_to": "John's dancing",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 95,
+   "verified": true,
+   "quote": "the turn of his hand sent her",
+   "picture": "a dispatched object",
+   "feeling": "yielding to his lead",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 95,
+   "verified": true,
+   "quote": "a half-step opening into a long gliding arc",
+   "picture": "an opening passage",
+   "feeling": "movement expanding smoothly",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi's dance step",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 95,
+   "verified": true,
+   "quote": "She let him have the steering",
+   "picture": "steering a vehicle",
+   "feeling": "surrendering control",
+   "vehicles": [
+    "steering wheel",
+    "vehicle"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "John's dance lead",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "She turned the thought over",
+   "picture": "an object turned over",
+   "feeling": "examining a thought",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's thought",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "his hand told her body where to go",
+   "picture": "a speaking hand",
+   "feeling": "a clear dance lead",
+   "vehicles": [
+    "hand",
+    "speaker"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "John's hand",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "she could have followed it in her sleep",
+   "picture": "a sleeping dancer",
+   "feeling": "effortless response",
+   "vehicles": [
+    "sleeper"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "a thing she'd had to be listening for and good enough to catch",
+   "picture": "a faint sound",
+   "feeling": "attentiveness to pace's lead",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace's lead",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "it left the rest of the way to her",
+   "picture": "an unfinished path",
+   "feeling": "responsibility for following",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's lead",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "he reeled her back against him",
+   "picture": "a reeled-in line",
+   "feeling": "being drawn back",
+   "vehicles": [
+    "reel",
+    "line"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 97,
+   "verified": true,
+   "quote": "the room went by in a smear of silver and light",
+   "picture": "a smear",
+   "feeling": "the blur of turning",
+   "vehicles": [
+    "smear"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the room",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 99,
+   "verified": true,
+   "quote": "the whole hall broke open into noise",
+   "picture": "a breaking container",
+   "feeling": "a sudden burst of celebration",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the hall",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 101,
+   "verified": true,
+   "quote": "his mouth telling her what it wanted",
+   "picture": "a speaking mouth",
+   "feeling": "a confident kiss",
+   "vehicles": [
+    "speaker"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "John's mouth",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 101,
+   "verified": true,
+   "quote": "She let him go",
+   "picture": "a released person",
+   "feeling": "putting pace out of mind",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 101,
+   "verified": true,
+   "quote": "the room erupted around them",
+   "picture": "an erupting volcano",
+   "feeling": "a burst of celebration",
+   "vehicles": [
+    "volcano"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the room",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 103,
+   "verified": true,
+   "quote": "She had wanted the night to be a story, and here he was writing another page of it",
+   "picture": "a story's page",
+   "feeling": "a romantic night unfolding",
+   "vehicles": [
+    "story",
+    "page"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the night",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 107,
+   "verified": true,
+   "quote": "where the night was going",
+   "picture": "a journey",
+   "feeling": "the night's expected outcome",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the night",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 107,
+   "verified": true,
+   "quote": "conjured the sleigh",
+   "picture": "a magician's conjuring",
+   "feeling": "effortless provision",
+   "vehicles": [
+    "magician"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 111,
+   "verified": true,
+   "quote": "it came out anyway",
+   "picture": "words emerging",
+   "feeling": "unplanned speech",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi's remark",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 115,
+   "verified": true,
+   "quote": "already going under",
+   "picture": "sinking underwater",
+   "feeling": "falling asleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 115,
+   "verified": true,
+   "quote": "going under",
+   "picture": "sinking underwater",
+   "feeling": "falling asleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 115,
+   "verified": true,
+   "quote": "waiting to see what the holding would develop into",
+   "picture": "something growing",
+   "feeling": "anticipation of deeper intimacy",
+   "vehicles": [
+    "plant"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the holding",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "still humming in the ordinary places",
+   "picture": "a humming vibration",
+   "feeling": "lingering physical pleasure",
+   "vehicles": [
+    "instrument"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Randi's body",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "it had meant no more than a good sandwich eaten fast on a busy afternoon",
+   "picture": "a quickly eaten sandwich",
+   "feeling": "fleeting, ordinary pleasure",
+   "vehicles": [
+    "sandwich"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "sex with John",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "gone before the plate was cleared, nothing left behind it to keep",
+   "picture": "a cleared plate",
+   "feeling": "pleasure leaving nothing lasting",
+   "vehicles": [
+    "plate"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "sex with John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "her body was still loose with how good",
+   "picture": "loosened binding",
+   "feeling": "relaxation after pleasure",
+   "vehicles": [
+    "binding"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "gone before the plate was cleared",
+   "picture": "a cleared plate",
+   "feeling": "pleasure quickly passing",
+   "vehicles": [
+    "plate"
+   ],
+   "sensation": "none",
+   "applies_to": "the pleasure",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 117,
+   "verified": true,
+   "quote": "nothing left behind it to keep",
+   "picture": "an abandoned object",
+   "feeling": "absence of lasting meaning",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the pleasure",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 119,
+   "verified": true,
+   "quote": "Along that one seam, her chest to his side, her thigh over his",
+   "picture": "a joined seam",
+   "feeling": "warmth at their contact",
+   "vehicles": [
+    "seam"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi and John's touching bodies",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 119,
+   "verified": true,
+   "quote": "the cold did not belong to the room. It was hers. She had brought it in with her and she would carry it back out",
+   "picture": "a carried possession",
+   "feeling": "her enduring inner cold",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 119,
+   "verified": true,
+   "quote": "Along that one seam",
+   "picture": "a sewn seam",
+   "feeling": "limited physical connection",
+   "vehicles": [
+    "seam"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi and the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 119,
+   "verified": true,
+   "quote": "except the cold did not belong to the room. It was hers.",
+   "picture": "possessed cold",
+   "feeling": "personal emotional coldness",
+   "vehicles": [
+    "cold"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 119,
+   "verified": true,
+   "quote": "She had brought it in with her and she would carry it back out",
+   "picture": "a carried burden",
+   "feeling": "enduring personal coldness",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's cold",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 121,
+   "verified": true,
+   "quote": "he was under",
+   "picture": "a person underwater",
+   "feeling": "being asleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 121,
+   "verified": true,
+   "quote": "where she had left herself on him",
+   "picture": "a person left behind",
+   "feeling": "physical traces of intimacy",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's marks on John",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 121,
+   "verified": true,
+   "quote": "felt her own mouth do it from a long way off",
+   "picture": "a distant observer",
+   "feeling": "detachment during intimacy",
+   "vehicles": [
+    "observer"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 121,
+   "verified": true,
+   "quote": "Her body had spent itself on him",
+   "picture": "an exhausted supply",
+   "feeling": "physical effort expended",
+   "vehicles": [
+    "supply"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi's body",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 121,
+   "verified": true,
+   "quote": "she remained unmoved",
+   "picture": "an unmoved object",
+   "feeling": "emotional detachment",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 123,
+   "verified": true,
+   "quote": "the rest of the face had thinned and smeared",
+   "picture": "a painted face",
+   "feeling": "makeup worn away",
+   "vehicles": [
+    "paint"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's makeup",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 123,
+   "verified": true,
+   "quote": "The eyeliner had held",
+   "picture": "a held position",
+   "feeling": "makeup remaining intact",
+   "vehicles": [
+    "position"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's eyeliner",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 125,
+   "verified": true,
+   "quote": "put the face back on",
+   "picture": "a worn mask",
+   "feeling": "restoring her outward appearance",
+   "vehicles": [
+    "mask"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's makeup",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 125,
+   "verified": true,
+   "quote": "The smile still worked",
+   "picture": "a working mechanism",
+   "feeling": "a usable outward expression",
+   "vehicles": [
+    "mechanism"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's smile",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 127,
+   "verified": true,
+   "quote": "never found her underneath",
+   "picture": "a hidden person",
+   "feeling": "failure to know her",
+   "vehicles": [
+    "person",
+    "cover"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 127,
+   "verified": true,
+   "quote": "She had put nothing on the table and had won exactly that",
+   "picture": "a gambling table",
+   "feeling": "risking and gaining nothing",
+   "vehicles": [
+    "table",
+    "stake"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "he was the whole safe life",
+   "picture": "a complete life",
+   "feeling": "embodiment of security",
+   "vehicles": [
+    "life"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "the one she'd been pointed at since she was a girl",
+   "picture": "a directed arrow",
+   "feeling": "being directed toward security",
+   "vehicles": [
+    "arrow",
+    "target"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "the house would clock him",
+   "picture": "a watchful house",
+   "feeling": "social recognition of him",
+   "vehicles": [
+    "house"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the house",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "on his arm",
+   "picture": "an attached companion",
+   "feeling": "appearing as his partner",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "the joke had sat that close to a life she could actually have",
+   "picture": "neighboring objects",
+   "feeling": "possibility close to fantasy",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "the joke",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "waiting on her yes",
+   "picture": "a waiting person",
+   "feeling": "life awaiting her consent",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the possible life",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "She had lain down in the middle of all of it",
+   "picture": "lying amid things",
+   "feeling": "immersed in that life",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 129,
+   "verified": true,
+   "quote": "The flaw was hers, carried into the room the same as the cold",
+   "picture": "a carried flaw",
+   "feeling": "a persistent personal defect",
+   "vehicles": [
+    "flaw",
+    "cold"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 131,
+   "verified": true,
+   "quote": "Pace on his worst night reached further than this man had managed at his best",
+   "picture": "a reaching hand",
+   "feeling": "deeper emotional contact",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being touched or reached",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 133,
+   "verified": true,
+   "quote": "Pace went straight to her",
+   "picture": "a direct path",
+   "feeling": "immediate emotional access",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 133,
+   "verified": true,
+   "quote": "he found the person she kept hidden",
+   "picture": "a hidden person",
+   "feeling": "her inner self recognized",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 133,
+   "verified": true,
+   "quote": "did not look away",
+   "picture": "an unwavering gaze",
+   "feeling": "continued attention to her",
+   "vehicles": [
+    "gaze"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 133,
+   "verified": true,
+   "quote": "the life she had built to keep her hidden",
+   "picture": "a constructed shelter",
+   "feeling": "a life concealing her",
+   "vehicles": [
+    "shelter"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's life",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 135,
+   "verified": true,
+   "quote": "Something came off Vee across a table",
+   "picture": "an emitted presence",
+   "feeling": "vee's felt presence",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 135,
+   "verified": true,
+   "quote": "this room could not counterfeit one thread of",
+   "picture": "a forged thread",
+   "feeling": "vee's irreplaceable quality",
+   "vehicles": [
+    "room",
+    "thread"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 135,
+   "verified": true,
+   "quote": "her whole body knew it",
+   "picture": "a knowing body",
+   "feeling": "physical certainty about vee",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "The thought sat where it always sat, and she took it out",
+   "picture": "a stored object",
+   "feeling": "reconsidering a familiar thought",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi's thought",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "picture Vee's face",
+   "picture": "a mental picture",
+   "feeling": "imagining vee's reaction",
+   "vehicles": [
+    "picture",
+    "face"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "the one scenario she could not run to the end",
+   "picture": "a running course",
+   "feeling": "unable to imagine the outcome",
+   "vehicles": [
+    "course"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's imagined scenario",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "run a scenario to the end",
+   "picture": "a running course",
+   "feeling": "imagining an entire outcome",
+   "vehicles": [
+    "course"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's imagined scenarios",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "The rest she could run",
+   "picture": "a running course",
+   "feeling": "imagining other outcomes",
+   "vehicles": [
+    "course"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's imagined scenarios",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "Vee would not cut her loose",
+   "picture": "a severed tether",
+   "feeling": "fear of being abandoned",
+   "vehicles": [
+    "tether"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 137,
+   "verified": true,
+   "quote": "find something soft to say",
+   "picture": "a soft object",
+   "feeling": "gentle words of response",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Vee's words",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "The talk that ran hot and easy between them",
+   "picture": "a warm current",
+   "feeling": "easy, lively conversation",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi and Vee's talk",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "would learn to watch itself",
+   "picture": "a watchful person",
+   "feeling": "conversation becoming guarded",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Randi and Vee's talk",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "trading the most important hour of her week for the terrified hope",
+   "picture": "an exchange of goods",
+   "feeling": "risking friendship for hope",
+   "vehicles": [
+    "goods"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "meaning it as currency",
+   "picture": "money in exchange",
+   "feeling": "love used for advantage",
+   "vehicles": [
+    "currency"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's declarations of love",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "lose her",
+   "picture": "a lost possession",
+   "feeling": "fear of losing friendship",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 139,
+   "verified": true,
+   "quote": "Vee was her gorgeous",
+   "picture": "a claimed endearment",
+   "feeling": "particular affection for vee",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 141,
+   "verified": true,
+   "quote": "what to do with it",
+   "picture": "a handled object",
+   "feeling": "responding to her confession",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's feelings",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 141,
+   "verified": true,
+   "quote": "Let the thing keep the shape it was already taking",
+   "picture": "a forming object",
+   "feeling": "letting feelings develop gradually",
+   "vehicles": [
+    "object",
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi and Vee's relationship",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 141,
+   "verified": true,
+   "quote": "Let Vee arrive at it on her own",
+   "picture": "arrival at a place",
+   "feeling": "vee reaching understanding",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 141,
+   "verified": true,
+   "quote": "the word kept its cover",
+   "picture": "a concealed object",
+   "feeling": "meaning remaining concealed",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the word",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 143,
+   "verified": true,
+   "quote": "the year had minutes left",
+   "picture": "a dwindling supply",
+   "feeling": "year nearing its end",
+   "vehicles": [
+    "supply"
+   ],
+   "sensation": "none",
+   "applies_to": "the year",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "the parents who loved Vee out loud",
+   "picture": "audible love",
+   "feeling": "openly expressed parental love",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's parents",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "living the fairytale",
+   "picture": "a fairy tale",
+   "feeling": "an enviable imagined life",
+   "vehicles": [
+    "fairytale"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "Randi gave her the fairytale",
+   "picture": "a gifted story",
+   "feeling": "presenting an idealized account",
+   "vehicles": [
+    "fairytale"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "you ANGEL",
+   "picture": "an angel",
+   "feeling": "affection and gratitude",
+   "vehicles": [
+    "angel"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "it's honestly a fairytale out here",
+   "picture": "a fairy tale",
+   "feeling": "an idyllic setting",
+   "vehicles": [
+    "fairytale"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's surroundings",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "mountains for days",
+   "picture": "endless mountains",
+   "feeling": "abundance of mountain scenery",
+   "vehicles": [
+    "mountain"
+   ],
+   "sensation": "none",
+   "applies_to": "the mountain scenery",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 145,
+   "verified": true,
+   "quote": "miss your face most",
+   "picture": "a beloved face",
+   "feeling": "missing vee",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "fairytale",
+   "line": 147,
+   "verified": true,
+   "quote": "The perfect nothing asleep behind her",
+   "picture": "an empty thing",
+   "feeling": "his emotional absence",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "fairytale",
+   "line": 147,
+   "verified": true,
+   "quote": "in the warmth she could borrow and could not make",
+   "picture": "borrowed warmth",
+   "feeling": "temporary comfort from him",
+   "vehicles": [
+    "warmth"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  }
+ ]
+}

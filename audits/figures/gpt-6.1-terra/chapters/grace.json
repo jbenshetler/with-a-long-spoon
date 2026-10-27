@@ -1,0 +1,4829 @@
+{
+ "slug": "grace",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "03bb8337a0e0",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "grace",
+   "line": 7,
+   "verified": true,
+   "quote": "The gravel ran out the last of itself",
+   "picture": "a runner stopping",
+   "feeling": "the gravel road ending",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the gravel road",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 7,
+   "verified": true,
+   "quote": "the cabin stood waiting for them",
+   "picture": "a waiting person",
+   "feeling": "the cabin's quiet welcome",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the cabin",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "where the damp sat longest",
+   "picture": "a seated person",
+   "feeling": "moisture lingering in seams",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the damp",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "fine lines of shadow ran down between the boards",
+   "picture": "running lines",
+   "feeling": "shadows tracing narrow gaps",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the shadows",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "where the weather got at them",
+   "picture": "an attacking person",
+   "feeling": "weather wearing the wood",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the board edges",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "A masonry chimney climbed one end of it",
+   "picture": "a climbing person",
+   "feeling": "the chimney rising upward",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the chimney",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "The windows were shuttered, blind",
+   "picture": "sightless eyes",
+   "feeling": "the windows' closed appearance",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the windows",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 9,
+   "verified": true,
+   "quote": "left to age into itself",
+   "picture": "growing into a shape",
+   "feeling": "the cabin aging naturally",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the cabin",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 11,
+   "verified": true,
+   "quote": "the cold came up to meet her",
+   "picture": "an approaching person",
+   "feeling": "cold greeting her outside",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 11,
+   "verified": true,
+   "quote": "with an edge on it",
+   "picture": "a sharp edge",
+   "feeling": "the cold's sharpness",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 11,
+   "verified": true,
+   "quote": "the valley took off the air down there",
+   "picture": "removing an edge",
+   "feeling": "the valley's gentler cold",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "softening",
+   "applies_to": "the air in the valley",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 13,
+   "verified": true,
+   "quote": "I'd made my peace with it",
+   "picture": "a peace agreement",
+   "feeling": "acceptance of expected discomfort",
+   "vehicles": [
+    "agreement"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 15,
+   "verified": true,
+   "quote": "like he was standing by the word",
+   "picture": "standing beside something",
+   "feeling": "pace's mild insistence",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 17,
+   "verified": true,
+   "quote": "There are people who'd kill for your lean-to",
+   "picture": "killing for shelter",
+   "feeling": "others would greatly desire it",
+   "vehicles": [
+    "person",
+    "shelter"
+   ],
+   "sensation": "none",
+   "applies_to": "the cabin",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 19,
+   "verified": true,
+   "quote": "the quiet got her",
+   "picture": "quiet catching someone",
+   "feeling": "silence arresting her attention",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 19,
+   "verified": true,
+   "quote": "She stood a moment inside it",
+   "picture": "an enclosing space",
+   "feeling": "silence surrounding her",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 19,
+   "verified": true,
+   "quote": "the wind working in the dry grass",
+   "picture": "a working person",
+   "feeling": "wind moving the grass",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the wind",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 23,
+   "verified": true,
+   "quote": "it did not want to give",
+   "picture": "an unwilling person",
+   "feeling": "the door resisting opening",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the door",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 27,
+   "verified": true,
+   "quote": "the air had the held, shut-up stillness",
+   "picture": "a held breath",
+   "feeling": "stale, enclosed stillness",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the air",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 27,
+   "verified": true,
+   "quote": "waiting to be come back to",
+   "picture": "a waiting person",
+   "feeling": "the cabin's long emptiness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the cabin",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 29,
+   "verified": true,
+   "quote": "the whole long weekend still in front of them",
+   "picture": "a road ahead",
+   "feeling": "time together still ahead",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the weekend",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 31,
+   "verified": true,
+   "quote": "the thin watery blue light",
+   "picture": "thin water",
+   "feeling": "faint winter light",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "none",
+   "applies_to": "the light",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 31,
+   "verified": true,
+   "quote": "the flame caught and ran and started to climb",
+   "picture": "a running climber",
+   "feeling": "flames spreading upward",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the flame",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 31,
+   "verified": true,
+   "quote": "fed it up a little at a time",
+   "picture": "feeding a creature",
+   "feeling": "the fire growing gradually",
+   "vehicles": [
+    "creature",
+    "food"
+   ],
+   "sensation": "none",
+   "applies_to": "the fire",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 31,
+   "verified": true,
+   "quote": "have the cold beaten back",
+   "picture": "an enemy repelled",
+   "feeling": "warmth displacing the cold",
+   "vehicles": [
+    "enemy"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 33,
+   "verified": true,
+   "quote": "the last of the day was going fast",
+   "picture": "a departing traveler",
+   "feeling": "daylight quickly diminishing",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the day",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 35,
+   "verified": true,
+   "quote": "threw up a smell of warmth and spice",
+   "picture": "something tossed upward",
+   "feeling": "aroma rising from food",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the food",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 35,
+   "verified": true,
+   "quote": "round and full",
+   "picture": "a rounded shape",
+   "feeling": "rich, balanced flavor",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "the food",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 35,
+   "verified": true,
+   "quote": "the cold settling down over the meadow",
+   "picture": "a descending cover",
+   "feeling": "cold spreading over the meadow",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 45,
+   "verified": true,
+   "quote": "at the edge of nowhere",
+   "picture": "an edge of space",
+   "feeling": "the porch's remote location",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "the porch",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 47,
+   "verified": true,
+   "quote": "drawn out of him by the asking",
+   "picture": "something pulled out",
+   "feeling": "questions prompting his answer",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's answers",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 47,
+   "verified": true,
+   "quote": "like facts he was glad to be holding",
+   "picture": "objects held in hand",
+   "feeling": "pleasure in sharing knowledge",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's knowledge",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 47,
+   "verified": true,
+   "quote": "garam masala, which was its own little crowd",
+   "picture": "a small crowd",
+   "feeling": "many spices gathered together",
+   "vehicles": [
+    "crowd"
+   ],
+   "sensation": "none",
+   "applies_to": "garam masala",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 55,
+   "verified": true,
+   "quote": "only the spine of it left",
+   "picture": "a spine",
+   "feeling": "the cider's firm character",
+   "vehicles": [
+    "spine"
+   ],
+   "sensation": "none",
+   "applies_to": "the cider",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 55,
+   "verified": true,
+   "quote": "the dryness cut clean through the richness of the food",
+   "picture": "a cutting blade",
+   "feeling": "dryness balancing rich food",
+   "vehicles": [
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the cider's dryness",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 55,
+   "verified": true,
+   "quote": "set her mouth back to the beginning",
+   "picture": "returning to a starting point",
+   "feeling": "her palate refreshed",
+   "vehicles": [
+    "starting point"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's palate",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 57,
+   "verified": true,
+   "quote": "Those should not be friends",
+   "picture": "two friends",
+   "feeling": "unexpectedly compatible flavors",
+   "vehicles": [
+    "friend"
+   ],
+   "sensation": "none",
+   "applies_to": "the cider and food",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 57,
+   "verified": true,
+   "quote": "the dry edge wiping it clean",
+   "picture": "an edge wiping clean",
+   "feeling": "dryness clearing rich flavor",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the cider's dryness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 57,
+   "verified": true,
+   "quote": "sending her straight back to the bowl",
+   "picture": "a person sent back",
+   "feeling": "renewed desire for food",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 59,
+   "verified": true,
+   "quote": "it would not have crossed her mind",
+   "picture": "something crossing a space",
+   "feeling": "an idea never occurring",
+   "vehicles": [
+    "object",
+    "space"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's thoughts",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 59,
+   "verified": true,
+   "quote": "was of a piece with all of it",
+   "picture": "pieces of one object",
+   "feeling": "his thoughtfulness fitting together",
+   "vehicles": [
+    "piece",
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's planning",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 59,
+   "verified": true,
+   "quote": "something low in her chest went soft and open",
+   "picture": "a soft opening",
+   "feeling": "tenderness and receptiveness",
+   "vehicles": [
+    "opening"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 61,
+   "verified": true,
+   "quote": "when she'd surfaced",
+   "picture": "rising from water",
+   "feeling": "emerging from inward feeling",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "it went into her and warmed a place the cider hadn't reached",
+   "picture": "warmth entering a place",
+   "feeling": "his words moving her",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "He carried her into rooms she wasn't even in",
+   "picture": "carrying someone into rooms",
+   "feeling": "his thoughts including her",
+   "vehicles": [
+    "person",
+    "room"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's thoughts of Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "the warmest thing she knew about him",
+   "picture": "a warm object",
+   "feeling": "his deeply tender consideration",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's thoughtfulness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "under the warmth",
+   "picture": "a warm covering",
+   "feeling": "another feeling beneath tenderness",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's feelings",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "the old wish moved in her",
+   "picture": "a moving creature",
+   "feeling": "an old desire stirring",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "the thing she had reached for in December and not been given",
+   "picture": "reaching for an object",
+   "feeling": "an unfulfilled emotional desire",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's desired declaration",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "it surfaced and went back down",
+   "picture": "a surfacing creature",
+   "feeling": "a wish briefly appearing",
+   "vehicles": [
+    "creature",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "before she could close her hand on it",
+   "picture": "grasping an object",
+   "feeling": "a wish escaping her grasp",
+   "vehicles": [
+    "hand",
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 65,
+   "verified": true,
+   "quote": "She let it go",
+   "picture": "releasing an object",
+   "feeling": "setting aside her wish",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 67,
+   "verified": true,
+   "quote": "the wind came up and worked in the dry grass",
+   "picture": "a working person",
+   "feeling": "wind moving the grass",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the wind",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 67,
+   "verified": true,
+   "quote": "leaves skating out across the meadow",
+   "picture": "skaters on ice",
+   "feeling": "leaves sliding in wind",
+   "vehicles": [
+    "skater",
+    "ice"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the leaves",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 67,
+   "verified": true,
+   "quote": "the light failed",
+   "picture": "a failing lamp",
+   "feeling": "daylight fading",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the light",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 67,
+   "verified": true,
+   "quote": "the cold had worked its way down past where the cider could reach",
+   "picture": "a penetrating traveler",
+   "feeling": "cold overcoming cider's warmth",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 71,
+   "verified": true,
+   "quote": "The fire had eaten the cold out of it",
+   "picture": "a creature eating",
+   "feeling": "fire warming the room",
+   "vehicles": [
+    "creature",
+    "food"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the fire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 71,
+   "verified": true,
+   "quote": "the small space held the warmth the way the porch had held the cold",
+   "picture": "containers holding contents",
+   "feeling": "warmth filling the room",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 75,
+   "verified": true,
+   "quote": "they're freezing",
+   "picture": "hands turning to ice",
+   "feeling": "hands intensely cold",
+   "vehicles": [
+    "ice"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's hands",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 75,
+   "verified": true,
+   "quote": "I'm like a popsicle",
+   "picture": "a frozen popsicle",
+   "feeling": "vee feeling intensely cold",
+   "vehicles": [
+    "popsicle"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 77,
+   "verified": true,
+   "quote": "her ice on his warmth",
+   "picture": "ice against warmth",
+   "feeling": "cold hands against skin",
+   "vehicles": [
+    "ice"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's hands",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 77,
+   "verified": true,
+   "quote": "the ache in her fingers began to loosen and let go",
+   "picture": "a grip releasing",
+   "feeling": "pain gradually easing",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's fingers",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 79,
+   "verified": true,
+   "quote": "Not a popsicle",
+   "picture": "a frozen popsicle",
+   "feeling": "vee's hands warming",
+   "vehicles": [
+    "popsicle"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 81,
+   "verified": true,
+   "quote": "the warmth went on building between them",
+   "picture": "a growing structure",
+   "feeling": "their intimacy increasing",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 81,
+   "verified": true,
+   "quote": "until it was its own thing in the room with them",
+   "picture": "a separate presence",
+   "feeling": "intimacy becoming palpable",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "their warmth",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 83,
+   "verified": true,
+   "quote": "the whole hard tangle of December",
+   "picture": "a hard tangle",
+   "feeling": "december's difficult complications",
+   "vehicles": [
+    "tangle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "December",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 83,
+   "verified": true,
+   "quote": "the cold weekend and the long winter and the whole hard tangle of December went off somewhere far away",
+   "picture": "departing travelers",
+   "feeling": "difficulties receding from attention",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's difficulties",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 83,
+   "verified": true,
+   "quote": "they lay folded together",
+   "picture": "folded fabric",
+   "feeling": "their bodies nestled together",
+   "vehicles": [
+    "fabric"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 87,
+   "verified": true,
+   "quote": "the cold of it ringing",
+   "picture": "a ringing bell",
+   "feeling": "bright, intense morning cold",
+   "vehicles": [
+    "bell"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the cold",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 87,
+   "verified": true,
+   "quote": "the meadow blazing white-gold",
+   "picture": "a blazing fire",
+   "feeling": "the meadow shining brightly",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the meadow",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 91,
+   "verified": true,
+   "quote": "in what seemed now another life",
+   "picture": "a different lifetime",
+   "feeling": "the past seeming distant",
+   "vehicles": [
+    "lifetime"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's earlier experience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 93,
+   "verified": true,
+   "quote": "the not-knowing slid off her",
+   "picture": "a slipping covering",
+   "feeling": "uncertainty quickly falling away",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's uncertainty",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "the word she had reached for in December",
+   "picture": "reaching for an object",
+   "feeling": "a desired declaration",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's desired word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "the old wish rising",
+   "picture": "a rising object",
+   "feeling": "her old desire returning",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "meeting something solid under it to stand on",
+   "picture": "solid ground",
+   "feeling": "her wish finding support",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "the one with a hearth in it",
+   "picture": "a hearth",
+   "feeling": "the hoped-for sense of home",
+   "vehicles": [
+    "hearth"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the word Vee wants",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "She let it go",
+   "picture": "releasing an object",
+   "feeling": "setting aside her wish",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's wish",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 97,
+   "verified": true,
+   "quote": "the word she wanted had only ever been air",
+   "picture": "insubstantial air",
+   "feeling": "the word's lack of substance",
+   "vehicles": [
+    "air"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the word Vee wants",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 99,
+   "verified": true,
+   "quote": "the gladness in her too big now to stay sitting still under",
+   "picture": "a swelling weight",
+   "feeling": "joy demanding expression",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's gladness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 99,
+   "verified": true,
+   "quote": "the kiss went long and then went past itself",
+   "picture": "a journey past a point",
+   "feeling": "a kiss becoming more",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the kiss",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 99,
+   "verified": true,
+   "quote": "no dark anywhere to keep her",
+   "picture": "a protective covering",
+   "feeling": "vee exposed to view",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 99,
+   "verified": true,
+   "quote": "as though the light were a thing he had set out on purpose to have her in",
+   "picture": "a deliberately placed object",
+   "feeling": "deliberate, exposed attention",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 99,
+   "verified": true,
+   "quote": "the gladness needing somewhere to go",
+   "picture": "a traveling person",
+   "feeling": "joy seeking expression",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's gladness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 101,
+   "verified": true,
+   "quote": "no wall of woods pitched up in front of her",
+   "picture": "a raised wall",
+   "feeling": "woods no longer obstructing her",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the woods",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 101,
+   "verified": true,
+   "quote": "to read with her legs before her eyes could",
+   "picture": "reading a text",
+   "feeling": "feeling terrain before seeing it",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's experience of the path",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 101,
+   "verified": true,
+   "quote": "it came to her without weight",
+   "picture": "a weightless object arriving",
+   "feeling": "a memory without burden",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee's memory",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 101,
+   "verified": true,
+   "quote": "certain to her bones",
+   "picture": "certainty in bones",
+   "feeling": "deeply felt certainty",
+   "vehicles": [
+    "bone"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 101,
+   "verified": true,
+   "quote": "her feet had learned the ground",
+   "picture": "feet learning",
+   "feeling": "her growing physical confidence",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 103,
+   "verified": true,
+   "quote": "a lacework of ice",
+   "picture": "delicate lace",
+   "feeling": "ice forming fine patterns",
+   "vehicles": [
+    "lace"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the ice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 105,
+   "verified": true,
+   "quote": "the climb that would have undone her once",
+   "picture": "something coming apart",
+   "feeling": "a formerly overwhelming climb",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 105,
+   "verified": true,
+   "quote": "She let it lie there being a promise",
+   "picture": "a tangible promise",
+   "feeling": "anticipation of the evening",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the plum silk",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 109,
+   "verified": true,
+   "quote": "its silvering gone to leopard at the edges",
+   "picture": "a leopard's spots",
+   "feeling": "the mirror's spotted aging",
+   "vehicles": [
+    "leopard",
+    "spot"
+   ],
+   "sensation": "none",
+   "applies_to": "the mirror",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 109,
+   "verified": true,
+   "quote": "she caught a slip of plum and skin in it",
+   "picture": "catching a fragment",
+   "feeling": "a fleeting reflected glimpse",
+   "vehicles": [
+    "fragment"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's reflection",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 109,
+   "verified": true,
+   "quote": "undone, sure and slow",
+   "picture": "something unfastened",
+   "feeling": "anticipation of being undressed",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 111,
+   "verified": true,
+   "quote": "the way a man asks for a dance",
+   "picture": "an offered dance",
+   "feeling": "a gentle invitation",
+   "vehicles": [
+    "dancer"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's gesture",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 115,
+   "verified": true,
+   "quote": "the ones with a door in them she hadn't walked through yet",
+   "picture": "an unopened door",
+   "feeling": "new experiences awaiting her",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "new experiences",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 115,
+   "verified": true,
+   "quote": "the old lift under her ribs",
+   "picture": "something lifting",
+   "feeling": "nervous, eager anticipation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 121,
+   "verified": true,
+   "quote": "she went past it gladly to the easier thing",
+   "picture": "passing a place",
+   "feeling": "turning attention away from herself",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attention",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 123,
+   "verified": true,
+   "quote": "Something crossed his face — a shadow",
+   "picture": "a passing shadow",
+   "feeling": "a fleeting change of expression",
+   "vehicles": [
+    "shadow"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Pace's expression",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 123,
+   "verified": true,
+   "quote": "before she could put a name to it",
+   "picture": "attaching a label",
+   "feeling": "an expression escaping identification",
+   "vehicles": [
+    "label"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's expression",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 123,
+   "verified": true,
+   "quote": "steady and warm",
+   "picture": "a warm touch",
+   "feeling": "pace's reassuring attention",
+   "vehicles": [
+    "touch"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 127,
+   "verified": true,
+   "quote": "it takes the afternoon light like the inside of a shell",
+   "picture": "a lit shell",
+   "feeling": "delicate luminous beauty",
+   "vehicles": [
+    "shell"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "her skin",
+   "pov": "Pace",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 127,
+   "verified": true,
+   "quote": "lit from within",
+   "picture": "an inner light",
+   "feeling": "soft luminous beauty",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "her skin",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 131,
+   "verified": true,
+   "quote": "his voice even and certain in the glass",
+   "picture": "a level surface",
+   "feeling": "calm assured speech",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 131,
+   "verified": true,
+   "quote": "the kind a man's hands go to without being told",
+   "picture": "hands acting independently",
+   "feeling": "instinctive physical attraction",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her waist",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 131,
+   "verified": true,
+   "quote": "like the floor ought to thank her for the use of it",
+   "picture": "a grateful floor",
+   "feeling": "admiration for her presence",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her legs",
+   "pov": "Pace",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 133,
+   "verified": true,
+   "quote": "her eyes wouldn't hold the woman in the glass — slid off her",
+   "picture": "a slipping grip",
+   "feeling": "difficulty meeting her reflection",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her gaze",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 137,
+   "verified": true,
+   "quote": "something in her chest pulled tight and tender",
+   "picture": "a tightened cord",
+   "feeling": "tender emotional tension",
+   "vehicles": [
+    "cord"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 137,
+   "verified": true,
+   "quote": "give the looking over to him",
+   "picture": "a handed object",
+   "feeling": "trusting him to look",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 139,
+   "verified": true,
+   "quote": "the room went out",
+   "picture": "an extinguished light",
+   "feeling": "sudden loss of sight",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 141,
+   "verified": true,
+   "quote": "her bare feet found the edge of the rug",
+   "picture": "feet finding something",
+   "feeling": "finding footing while blindfolded",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "her feet",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 143,
+   "verified": true,
+   "quote": "the little plum nothing of a cami",
+   "picture": "almost nothing",
+   "feeling": "scant covering",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the cami",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 143,
+   "verified": true,
+   "quote": "the light would hold a good while yet",
+   "picture": "something holding steady",
+   "feeling": "continued visible exposure",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the daylight",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 145,
+   "verified": true,
+   "quote": "Wine held up to a lamp",
+   "picture": "wine against lamplight",
+   "feeling": "rich translucent red",
+   "vehicles": [
+    "wine",
+    "lamp"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "her hair",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 145,
+   "verified": true,
+   "quote": "something in her loosened toward it",
+   "picture": "something loosening",
+   "feeling": "reluctant yielding to touch",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 145,
+   "verified": true,
+   "quote": "it answers everything",
+   "picture": "a spoken answer",
+   "feeling": "hair responding to touch",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her hair",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 145,
+   "verified": true,
+   "quote": "There's a live thing in it",
+   "picture": "a living creature",
+   "feeling": "lively responsive movement",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her hair",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 147,
+   "verified": true,
+   "quote": "her spine answer the touch",
+   "picture": "a spoken answer",
+   "feeling": "a shiver in response",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "her spine",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 147,
+   "verified": true,
+   "quote": "I've lost whole evenings to it",
+   "picture": "lost time",
+   "feeling": "prolonged fascination",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 149,
+   "verified": true,
+   "quote": "it won't let you stop at the knee, it takes you up the inside of the thigh and leaves you there",
+   "picture": "a guiding hand",
+   "feeling": "attention drawn upward",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her leg",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 149,
+   "verified": true,
+   "quote": "it's the soft that finishes me",
+   "picture": "a finishing blow",
+   "feeling": "overwhelming desire for softness",
+   "vehicles": [
+    "blow"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 149,
+   "verified": true,
+   "quote": "his fingers found the inside of her knee, and climbed",
+   "picture": "a climbing person",
+   "feeling": "slow upward touch",
+   "vehicles": [
+    "climber"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Pace's fingers",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 151,
+   "verified": true,
+   "quote": "makes all the rest of you read the way it does",
+   "picture": "a readable text",
+   "feeling": "shape influencing overall appearance",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "the touches began to run together into one long unbroken thing",
+   "picture": "merging streams",
+   "feeling": "touches blending together",
+   "vehicles": [
+    "stream"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "the touches",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "she went soft again",
+   "picture": "softened material",
+   "feeling": "relaxation after surprise",
+   "vehicles": [
+    "material"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "it had gone its whole life unadmired",
+   "picture": "a person seeking admiration",
+   "feeling": "playful attention to her toe",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her toe",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "she was somewhere now without edges",
+   "picture": "an edgeless place",
+   "feeling": "loss of ordinary boundaries",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "time come loose",
+   "picture": "a loosened fastening",
+   "feeling": "loss of time's order",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "time",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "his voice the only thing holding the dark together",
+   "picture": "darkness held together",
+   "feeling": "voice anchoring her awareness",
+   "vehicles": [
+    "darkness"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 153,
+   "verified": true,
+   "quote": "she could have stood there inside it for an hour or a year",
+   "picture": "a surrounding space",
+   "feeling": "timeless immersion in darkness",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 155,
+   "verified": true,
+   "quote": "she felt the room sharpen around her",
+   "picture": "a sharpened edge",
+   "feeling": "sudden heightened awareness",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 157,
+   "verified": true,
+   "quote": "the one her hands knew before she did",
+   "picture": "knowing hands",
+   "feeling": "automatic urge to cover",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her hands",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 157,
+   "verified": true,
+   "quote": "It cost more than she'd have guessed",
+   "picture": "a price paid",
+   "feeling": "effort to remain exposed",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "lowering her arms",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 159,
+   "verified": true,
+   "quote": "the body that always said more than she'd agreed to say",
+   "picture": "a speaking body",
+   "feeling": "unwanted bodily disclosure",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 159,
+   "verified": true,
+   "quote": "everything in her flinched from the bareness of the word",
+   "picture": "an exposed body",
+   "feeling": "vulnerability at being named",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 159,
+   "verified": true,
+   "quote": "wanted it back in the dark where she'd always kept it",
+   "picture": "a hidden object",
+   "feeling": "wish to conceal it",
+   "vehicles": [
+    "darkness",
+    "object"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 161,
+   "verified": true,
+   "quote": "it overfills my hand and spills past",
+   "picture": "an overflowing liquid",
+   "feeling": "fullness beyond his hand",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "her breast",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 163,
+   "verified": true,
+   "quote": "in one breath",
+   "picture": "a single breath",
+   "feeling": "naming and wanting together",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace's words",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 163,
+   "verified": true,
+   "quote": "It got in under the guard before the guard knew to close",
+   "picture": "a closing guard",
+   "feeling": "acceptance bypassing her defenses",
+   "vehicles": [
+    "guard"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 165,
+   "verified": true,
+   "quote": "the upper slope of her",
+   "picture": "a sloping hillside",
+   "feeling": "the contour of her breast",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her breast",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 165,
+   "verified": true,
+   "quote": "like a man reading something written small",
+   "picture": "reading small writing",
+   "feeling": "careful attentive touch",
+   "vehicles": [
+    "writing"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's touch",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 165,
+   "verified": true,
+   "quote": "raised gooseflesh in its wake",
+   "picture": "a passing vessel's wake",
+   "feeling": "skin responding to touch",
+   "vehicles": [
+    "wake",
+    "vessel"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace's touch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 165,
+   "verified": true,
+   "quote": "peach gone into milk",
+   "picture": "peach and milk",
+   "feeling": "skin fading to paleness",
+   "vehicles": [
+    "peach",
+    "milk"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "her skin",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 165,
+   "verified": true,
+   "quote": "turned in the light and gone over inch by inch like a found thing",
+   "picture": "an examined object",
+   "feeling": "being closely studied",
+   "vehicles": [
+    "object",
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 167,
+   "verified": true,
+   "quote": "the wake and the gather",
+   "picture": "waking and gathering",
+   "feeling": "rapid bodily arousal",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "her nipple",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 167,
+   "verified": true,
+   "quote": "her body answering him out loud",
+   "picture": "a speaking body",
+   "feeling": "arousal made unmistakable",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 169,
+   "verified": true,
+   "quote": "Your body answered",
+   "picture": "a speaking body",
+   "feeling": "visible bodily response",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 169,
+   "verified": true,
+   "quote": "the cold verdict",
+   "picture": "a chilling judgment",
+   "feeling": "feared harsh judgment",
+   "vehicles": [
+    "verdict"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the expected judgment",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 169,
+   "verified": true,
+   "quote": "her body — traitor, truth-teller",
+   "picture": "a betraying witness",
+   "feeling": "involuntary revelation of desire",
+   "vehicles": [
+    "traitor",
+    "truth-teller"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 171,
+   "verified": true,
+   "quote": "time came loose again",
+   "picture": "a loosened fastening",
+   "feeling": "loss of time's order",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "time",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 171,
+   "verified": true,
+   "quote": "each thing he did stretching long past its size",
+   "picture": "a stretched object",
+   "feeling": "actions seeming prolonged",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace's actions",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 171,
+   "verified": true,
+   "quote": "his breath bloom warm over her skin",
+   "picture": "an opening flower",
+   "feeling": "warm breath spreading",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's breath",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 171,
+   "verified": true,
+   "quote": "thumbs riding the points of bone",
+   "picture": "riding a ridge",
+   "feeling": "touch following her hips",
+   "vehicles": [
+    "rider",
+    "ridge"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's thumbs",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 171,
+   "verified": true,
+   "quote": "the crest of one",
+   "picture": "a hill crest",
+   "feeling": "the curve of her hip",
+   "vehicles": [
+    "crest",
+    "hill"
+   ],
+   "sensation": "none",
+   "applies_to": "her hip",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 175,
+   "verified": true,
+   "quote": "the silk slide down her legs and pool at her feet",
+   "picture": "a pool of liquid",
+   "feeling": "clothing falling away",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the silk",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 175,
+   "verified": true,
+   "quote": "the knowing-that went through her hot and terrible and somehow, underneath, like power",
+   "picture": "heat passing through",
+   "feeling": "frightening sense of power",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her awareness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 179,
+   "verified": true,
+   "quote": "the not-seeing made the floor seem to shift under her feet",
+   "picture": "a shifting floor",
+   "feeling": "blindness unsettling her",
+   "vehicles": [
+    "floor",
+    "foot"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 181,
+   "verified": true,
+   "quote": "the way you'd hold something in cupped hands",
+   "picture": "a cupped object",
+   "feeling": "careful sustained holding",
+   "vehicles": [
+    "hand",
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's hold",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 181,
+   "verified": true,
+   "quote": "the heat of it soak all the way in",
+   "picture": "soaking liquid",
+   "feeling": "warmth penetrating her",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "his hand's heat",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 181,
+   "verified": true,
+   "quote": "the one that undoes me",
+   "picture": "an undone fastening",
+   "feeling": "overwhelming attraction",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 181,
+   "verified": true,
+   "quote": "the hand begin to move, slow, learning the whole shape of her",
+   "picture": "a learning person",
+   "feeling": "careful exploration by touch",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 183,
+   "verified": true,
+   "quote": "Something tilted in her at that, some floor she'd stood on her whole life",
+   "picture": "a tilting floor",
+   "feeling": "lifelong certainty shifting",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 183,
+   "verified": true,
+   "quote": "she put nothing back in its place",
+   "picture": "a displaced object",
+   "feeling": "accepting the altered certainty",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 185,
+   "verified": true,
+   "quote": "a thing that didn't hurt and only said *here, this, mine,*",
+   "picture": "a speaking touch",
+   "feeling": "tender possessive attention",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's bite",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 185,
+   "verified": true,
+   "quote": "the give of herself answer it",
+   "picture": "a spoken answer",
+   "feeling": "flesh responding to touch",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her flesh",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 187,
+   "verified": true,
+   "quote": "the blind room turning slowly around her",
+   "picture": "a turning room",
+   "feeling": "blind disorientation",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 187,
+   "verified": true,
+   "quote": "The fire's warmth, steady all this while down her right side, swung dark",
+   "picture": "a swinging shadow",
+   "feeling": "warmth briefly blocked",
+   "vehicles": [
+    "shadow"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the fire's warmth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 189,
+   "verified": true,
+   "quote": "everything in her drew tight",
+   "picture": "a tightened cord",
+   "feeling": "anticipatory tension",
+   "vehicles": [
+    "cord"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 189,
+   "verified": true,
+   "quote": "the part that gave her away",
+   "picture": "a revealing informant",
+   "feeling": "body revealing her desire",
+   "vehicles": [
+    "informant"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 189,
+   "verified": true,
+   "quote": "her fear had finished its sentence",
+   "picture": "a speaking person",
+   "feeling": "fear still forming",
+   "vehicles": [
+    "person",
+    "sentence"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "her fear",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 191,
+   "verified": true,
+   "quote": "she felt the looking land on the most hidden part of her like warmth, like weight",
+   "picture": "warmth and weight",
+   "feeling": "intense intimate attention",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's gaze",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 191,
+   "verified": true,
+   "quote": "reached her before any word",
+   "picture": "an arriving object",
+   "feeling": "hearing his response first",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the sound of his breath",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 193,
+   "verified": true,
+   "quote": "as though they had the rest of their lives",
+   "picture": "a lifetime ahead",
+   "feeling": "unhurried patience",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace's patience",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 193,
+   "verified": true,
+   "quote": "the wax-smooth skin",
+   "picture": "smooth wax",
+   "feeling": "smoothness of her skin",
+   "vehicles": [
+    "wax"
+   ],
+   "sensation": "none",
+   "applies_to": "her skin",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 195,
+   "verified": true,
+   "quote": "the thing she'd braced against her whole life",
+   "picture": "resisting a force",
+   "feeling": "long anticipated exposure",
+   "vehicles": [
+    "force"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "being looked at",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 195,
+   "verified": true,
+   "quote": "it was not the cold thing she'd feared",
+   "picture": "a cold object",
+   "feeling": "absence of feared harshness",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "being looked at",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": true,
+   "quote": "she flinched and burned",
+   "picture": "a burning body",
+   "feeling": "intense exposed embarrassment",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": true,
+   "quote": "keeping to themselves",
+   "picture": "reserved people",
+   "feeling": "closed and unobtrusive",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her outer lips",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": true,
+   "quote": "they never asked me first",
+   "picture": "a speaking person",
+   "feeling": "involuntary bodily response",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "opening",
+   "applies_to": "her outer lips",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": true,
+   "quote": "People would call that a flower",
+   "picture": "an open flower",
+   "feeling": "visible opening and softness",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "opening",
+   "applies_to": "her vulva",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": true,
+   "quote": "More a peach with a bite out of it",
+   "picture": "a bitten peach",
+   "feeling": "exposed soft fullness",
+   "vehicles": [
+    "peach",
+    "bite"
+   ],
+   "sensation": "opening",
+   "applies_to": "her vulva",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 199,
+   "verified": true,
+   "quote": "The shame came up scalding",
+   "picture": "scalding liquid",
+   "feeling": "sudden intense shame",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "her shame",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 201,
+   "verified": true,
+   "quote": "That's you. Answering.",
+   "picture": "a spoken answer",
+   "feeling": "body responding to attention",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 201,
+   "verified": true,
+   "quote": "the whole blind world narrowed to his fingers",
+   "picture": "a narrowing space",
+   "feeling": "attention concentrated on touch",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her awareness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 201,
+   "verified": true,
+   "quote": "under the shame, twined right through it past pulling apart, the helpless lift of being wanted that much",
+   "picture": "intertwined strands",
+   "feeling": "shame entwined with desire",
+   "vehicles": [
+    "strand"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her feelings",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 201,
+   "verified": true,
+   "quote": "the helpless lift of being wanted that much",
+   "picture": "something lifting",
+   "feeling": "involuntary pleasure at being wanted",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 203,
+   "verified": true,
+   "quote": "hidden under its hood",
+   "picture": "a covering hood",
+   "feeling": "a sheltered sensitive point",
+   "vehicles": [
+    "hood"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "her clit",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 203,
+   "verified": true,
+   "quote": "reaching for the next thing I do before I do it",
+   "picture": "a reaching hand",
+   "feeling": "eager involuntary responsiveness",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her clit",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 205,
+   "verified": true,
+   "quote": "looking at it like treasure",
+   "picture": "precious treasure",
+   "feeling": "valued rather than shamed",
+   "vehicles": [
+    "treasure"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her wetness",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 205,
+   "verified": true,
+   "quote": "Your body heard itself talked about and wept for it",
+   "picture": "a weeping person",
+   "feeling": "arousal as emotional response",
+   "vehicles": [
+    "person",
+    "tear"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "her body",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 207,
+   "verified": true,
+   "quote": "the old voice came scrabbling back up",
+   "picture": "a scrambling creature",
+   "feeling": "old shame returning",
+   "vehicles": [
+    "creature",
+    "voice"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the old voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 207,
+   "verified": true,
+   "quote": "the two ran in her at once",
+   "picture": "running currents",
+   "feeling": "conflicting feelings together",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "shame and being treasured",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 207,
+   "verified": true,
+   "quote": "neither one won",
+   "picture": "a contest",
+   "feeling": "neither feeling prevailing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "shame and being treasured",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 207,
+   "verified": true,
+   "quote": "she stood there strung between them",
+   "picture": "a stretched string",
+   "feeling": "tension between conflicting feelings",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 213,
+   "verified": true,
+   "quote": "the loss of his nearness as a kind of cold",
+   "picture": "a chill",
+   "feeling": "absence of his closeness",
+   "vehicles": [],
+   "sensation": "cold or chill",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 215,
+   "verified": true,
+   "quote": "cold as the marble they're cut from",
+   "picture": "cold marble",
+   "feeling": "impersonal beauty",
+   "vehicles": [
+    "marble"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "beautiful bodies",
+   "pov": "Pace",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 215,
+   "verified": true,
+   "quote": "you've never once made a soul pay for it",
+   "picture": "a payment demanded",
+   "feeling": "intelligence without cruelty",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 215,
+   "verified": true,
+   "quote": "you meet a thing that frightens you and you walk straight into it",
+   "picture": "walking into danger",
+   "feeling": "facing fear directly",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 219,
+   "verified": true,
+   "quote": "the ache he'd built sitting low and heavy in her and asking to be finished",
+   "picture": "a seated petitioner",
+   "feeling": "persistent unfinished arousal",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "her ache",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 221,
+   "verified": true,
+   "quote": "You're all worked up",
+   "picture": "a wound mechanism",
+   "feeling": "heightened sexual arousal",
+   "vehicles": [
+    "mechanism"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 223,
+   "verified": true,
+   "quote": "the hands that would take her the rest of the way",
+   "picture": "a guided journey",
+   "feeling": "anticipated sexual relief",
+   "vehicles": [
+    "path",
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's hands",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 227,
+   "verified": true,
+   "quote": "the wanting in her swung once, hard, with nowhere to land",
+   "picture": "a swinging object",
+   "feeling": "desire meeting sudden absence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her wanting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "She waited inside it, certain it would give",
+   "picture": "a yielding enclosure",
+   "feeling": "expectation of delay ending",
+   "vehicles": [
+    "enclosure"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "This was a held breath",
+   "picture": "a held breath",
+   "feeling": "temporary expectant pause",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the pause",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "he was drawing it out",
+   "picture": "a stretched object",
+   "feeling": "deliberately prolonged waiting",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the wait",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "the warmth would step in against her",
+   "picture": "an approaching person",
+   "feeling": "expected return of closeness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's warmth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "the wanting still aimed where his body should have been",
+   "picture": "an aimed arrow",
+   "feeling": "desire directed toward him",
+   "vehicles": [
+    "arrow"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her wanting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 229,
+   "verified": true,
+   "quote": "waited to be let in on it",
+   "picture": "entry through a door",
+   "feeling": "waiting to understand",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 231,
+   "verified": true,
+   "quote": "It didn't give",
+   "picture": "an unyielding surface",
+   "feeling": "the pause continuing",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 231,
+   "verified": true,
+   "quote": "The silence held past the length of any held breath",
+   "picture": "a held breath",
+   "feeling": "an unnaturally prolonged pause",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 233,
+   "verified": true,
+   "quote": "didn't fill the silence",
+   "picture": "a filled container",
+   "feeling": "silence left unbroken",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 233,
+   "verified": true,
+   "quote": "the waiting was its own pressure, gentle and total",
+   "picture": "a pressing weight",
+   "feeling": "gentle insistent expectation",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the waiting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 233,
+   "verified": true,
+   "quote": "the ache went on without her leave",
+   "picture": "an independent person",
+   "feeling": "uncontrolled continuing desire",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her ache",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 233,
+   "verified": true,
+   "quote": "building on what his words and his hands and his mouth had left unfinished",
+   "picture": "an unfinished structure",
+   "feeling": "arousal continuing to intensify",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her ache",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 233,
+   "verified": true,
+   "quote": "standing still cost her more than reaching for herself would",
+   "picture": "a price paid",
+   "feeling": "restraint becoming harder",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 237,
+   "verified": true,
+   "quote": "everything in her body had gone ahead of her all night",
+   "picture": "a person moving ahead",
+   "feeling": "body acting before consent",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 237,
+   "verified": true,
+   "quote": "it hung a moment in the dark and fluttered, not knowing where to land",
+   "picture": "a hovering bird",
+   "feeling": "hesitant searching movement",
+   "vehicles": [
+    "bird"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "her hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 237,
+   "verified": true,
+   "quote": "everything in her body had gone ahead of her",
+   "picture": "a person going ahead",
+   "feeling": "involuntary bodily response",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her body's responses",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "following his own path",
+   "picture": "a traveled path",
+   "feeling": "retracing his touch",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her fingers",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "the pale slope he'd called milk",
+   "picture": "a milky slope",
+   "feeling": "pale curve of skin",
+   "vehicles": [
+    "slope",
+    "milk"
+   ],
+   "sensation": "none",
+   "applies_to": "her breast",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "the skin drew up tight and pebbled",
+   "picture": "a pebbled surface",
+   "feeling": "skin tightening under touch",
+   "vehicles": [
+    "pebble"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her skin",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "the seam of herself",
+   "picture": "a sewn seam",
+   "feeling": "the line of her vulva",
+   "vehicles": [
+    "seam"
+   ],
+   "sensation": "none",
+   "applies_to": "her vulva",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "her body knew was coming before it landed",
+   "picture": "a knowing person",
+   "feeling": "predictability of self touch",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "the soft rise of her belly",
+   "picture": "a gentle hill",
+   "feeling": "her belly's curve",
+   "vehicles": [
+    "hill"
+   ],
+   "sensation": "none",
+   "applies_to": "her belly",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "all promise",
+   "picture": "a promise",
+   "feeling": "anticipation in his touch",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "his touch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 239,
+   "verified": true,
+   "quote": "a small absurd lurch close to laughter",
+   "picture": "a sudden lurch",
+   "feeling": "amused sudden understanding",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "her understanding",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 241,
+   "verified": true,
+   "quote": "the trying fell away",
+   "picture": "a falling covering",
+   "feeling": "letting effort go",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her effort",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 241,
+   "verified": true,
+   "quote": "The one at her breast climbed past anything he had done",
+   "picture": "a climbing person",
+   "feeling": "touch exceeding his intensity",
+   "vehicles": [
+    "climber"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 241,
+   "verified": true,
+   "quote": "still feeling herself through his hands",
+   "picture": "hands as a lens",
+   "feeling": "imagining his experience of her",
+   "vehicles": [
+    "hand",
+    "lens"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 241,
+   "verified": true,
+   "quote": "climbed past anything he had done",
+   "picture": "climbing past a point",
+   "feeling": "touch becoming more intense",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "her hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "a high private roar that walled her in",
+   "picture": "enclosing walls",
+   "feeling": "isolated inside bodily sound",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the sound in her ears",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "her body answering the eyes it could not see by wanting more",
+   "picture": "a spoken answer",
+   "feeling": "arousal responding to observation",
+   "vehicles": [
+    "voice",
+    "eye"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "it fed her hand",
+   "picture": "feeding a creature",
+   "feeling": "arousal driving her touch",
+   "vehicles": [
+    "food",
+    "creature"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her arousal",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "even walled in like that",
+   "picture": "an enclosing wall",
+   "feeling": "isolation in the sound",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "nothing of him reaching her",
+   "picture": "something crossing a distance",
+   "feeling": "distance from him",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his presence",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "The shame came up",
+   "picture": "something rising",
+   "feeling": "shame emerging",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her shame",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 243,
+   "verified": true,
+   "quote": "her body answering the eyes it could not see",
+   "picture": "a body answering eyes",
+   "feeling": "arousal at being watched",
+   "vehicles": [
+    "body",
+    "eye"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her body's response",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "the roar thinned",
+   "picture": "thinning material",
+   "feeling": "sound becoming less overwhelming",
+   "vehicles": [
+    "material"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the roar",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "a man's breath coming apart",
+   "picture": "an object breaking apart",
+   "feeling": "breath becoming ragged",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Pace's breath",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "in the dark she gave it a body",
+   "picture": "a body given form",
+   "feeling": "imagining him from sound",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's breath",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "the two of them climbing the same stair",
+   "picture": "a shared stair",
+   "feeling": "shared rising arousal",
+   "vehicles": [
+    "stair"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her and Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "It lit her",
+   "picture": "a kindled flame",
+   "feeling": "knowledge intensifying desire",
+   "vehicles": [
+    "flame"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "being wanted only pushed her higher",
+   "picture": "an upward push",
+   "feeling": "desire rising through attention",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "the wanting running both ways and carrying her up toward the edge she could feel coming now",
+   "picture": "a current toward an edge",
+   "feeling": "mutual desire approaching climax",
+   "vehicles": [
+    "current",
+    "edge"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her wanting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "ragged at the edge of it",
+   "picture": "a ragged edge",
+   "feeling": "uneven strained breathing",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "his breath",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "The knowing did not steady her",
+   "picture": "steadying a person",
+   "feeling": "continued excitement",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "drove her hand harder",
+   "picture": "driving something forward",
+   "feeling": "intensified movement",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "the wanting running both ways",
+   "picture": "two-way flowing current",
+   "feeling": "mutual desire",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "their desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 245,
+   "verified": true,
+   "quote": "carrying her up toward the edge she could feel coming",
+   "picture": "an approaching edge",
+   "feeling": "approaching orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "She went down into it",
+   "picture": "descending into a place",
+   "feeling": "immersion in sensation",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "the world shrinking to the dark behind the flannel and the heat under her hands",
+   "picture": "a shrinking world",
+   "feeling": "attention narrowing to sensation",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "her awareness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "time loosening",
+   "picture": "a loosened binding",
+   "feeling": "altered sense of time",
+   "vehicles": [
+    "binding"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her sense of time",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "the watching no longer a thing outside her but folded into the heat itself",
+   "picture": "something folded in",
+   "feeling": "being watched becoming arousing",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "his watching",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "the most naked sound there was",
+   "picture": "a naked body",
+   "feeling": "exposure in the sound",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the sound of her fingers",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 247,
+   "verified": true,
+   "quote": "she was almost there",
+   "picture": "a destination",
+   "feeling": "nearness to orgasm",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 251,
+   "verified": true,
+   "quote": "broke the last thin shell she had sealed around herself",
+   "picture": "a broken shell",
+   "feeling": "protective isolation broken",
+   "vehicles": [
+    "shell"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "her self-protection",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 251,
+   "verified": true,
+   "quote": "she was pulled up out of her body and into her head",
+   "picture": "a person pulled upward",
+   "feeling": "abrupt return to thought",
+   "vehicles": [
+    "body",
+    "head"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "the word torn loose",
+   "picture": "something torn free",
+   "feeling": "difficulty speaking",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "saying it was its own undoing",
+   "picture": "something coming undone",
+   "feeling": "control giving way",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her saying the word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "the heat that had been climbing all evening breaking loose",
+   "picture": "rising escaped heat",
+   "feeling": "arousal bursting free",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "as if once it was out there was no holding the rest of it",
+   "picture": "something escaping a hold",
+   "feeling": "words becoming uncontrollable",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her words",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "it came apart",
+   "picture": "something coming apart",
+   "feeling": "speech losing coherence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "her speech",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "the word failing with it, breaking down",
+   "picture": "something breaking down",
+   "feeling": "speech losing coherence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "her word",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "It took her all at once",
+   "picture": "a force taking hold",
+   "feeling": "sudden overwhelming orgasm",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her orgasm",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "everything she had held back all evening pouring out of her",
+   "picture": "a released flood",
+   "feeling": "restrained desire released",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "her restrained feelings",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 253,
+   "verified": true,
+   "quote": "at the bottom of that one word",
+   "picture": "the bottom of a vessel",
+   "feeling": "release through speech",
+   "vehicles": [
+    "bottom",
+    "vessel"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "her word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 255,
+   "verified": true,
+   "quote": "Her legs went",
+   "picture": "support giving way",
+   "feeling": "sudden loss of strength",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her legs",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 261,
+   "verified": true,
+   "quote": "her heels finding the bare backs of his legs",
+   "picture": "heels finding a place",
+   "feeling": "her legs securing their hold",
+   "vehicles": [
+    "heel"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "her heels",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 261,
+   "verified": true,
+   "quote": "a sound low in his chest like something giving way",
+   "picture": "something giving way",
+   "feeling": "strained release",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his sound",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 263,
+   "verified": true,
+   "quote": "the lock of her legs",
+   "picture": "a lock",
+   "feeling": "her legs holding tight",
+   "vehicles": [
+    "lock"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her legs",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 263,
+   "verified": true,
+   "quote": "the broken movements of his hips",
+   "picture": "something broken",
+   "feeling": "interrupted hip movements",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "his movements",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 263,
+   "verified": true,
+   "quote": "taking the taste of her like a man who had been waiting all night for just this",
+   "picture": "a long-awaited taste",
+   "feeling": "eager gratification",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 263,
+   "verified": true,
+   "quote": "low and grateful and undone",
+   "picture": "something coming undone",
+   "feeling": "unrestrained gratitude",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his sound",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "he came apart like this",
+   "picture": "something coming apart",
+   "feeling": "his control giving way",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "the face she couldn't read",
+   "picture": "a written page",
+   "feeling": "his expression inscrutable",
+   "vehicles": [
+    "page"
+   ],
+   "sensation": "none",
+   "applies_to": "his face",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "the man who never lost the thread of anything losing it",
+   "picture": "a lost thread",
+   "feeling": "his composure slipping",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "both her hands were his now",
+   "picture": "possessed hands",
+   "feeling": "her hands occupied",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "her hands",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "under the shame",
+   "picture": "a covering layer",
+   "feeling": "power beneath shame",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her feeling of power",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "before she had half come down",
+   "picture": "descending from a height",
+   "feeling": "lingering arousal after orgasm",
+   "vehicles": [
+    "height"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 265,
+   "verified": true,
+   "quote": "the raw oversensitive shock of it",
+   "picture": "raw exposed flesh",
+   "feeling": "acute physical sensitivity",
+   "vehicles": [
+    "flesh"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her sensation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "She was so raw from the first",
+   "picture": "raw exposed flesh",
+   "feeling": "sensitivity after orgasm",
+   "vehicles": [
+    "flesh"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "the second built",
+   "picture": "a structure being built",
+   "feeling": "another orgasm approaching",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her second orgasm",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "before she could brace for it",
+   "picture": "bracing against a force",
+   "feeling": "no time to prepare",
+   "vehicles": [
+    "force"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "the rough private climb of her own hand",
+   "picture": "a rough climb",
+   "feeling": "self-directed rising arousal",
+   "vehicles": [
+    "climb"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her first orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "something he was drawing up out of her",
+   "picture": "something drawn upward",
+   "feeling": "pleasure elicited by him",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her second orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "her peak",
+   "picture": "a mountain peak",
+   "feeling": "climax of arousal",
+   "vehicles": [
+    "peak",
+    "mountain"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 267,
+   "verified": true,
+   "quote": "when it took her",
+   "picture": "a force taking hold",
+   "feeling": "orgasm overtaking her",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "her orgasm",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 269,
+   "verified": true,
+   "quote": "The light had failed",
+   "picture": "a failing light",
+   "feeling": "daylight fading",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the daylight",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 269,
+   "verified": true,
+   "quote": "The windows held only the last gray of the day",
+   "picture": "windows holding color",
+   "feeling": "fading evening light",
+   "vehicles": [
+    "window"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the windows",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 269,
+   "verified": true,
+   "quote": "the fire had the rest of the room",
+   "picture": "fire possessing a room",
+   "feeling": "firelight filling the room",
+   "vehicles": [
+    "fire",
+    "room"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the firelight",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 269,
+   "verified": true,
+   "quote": "his face was above her in it, near, undone",
+   "picture": "something coming undone",
+   "feeling": "his composure relaxed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 271,
+   "verified": true,
+   "quote": "the dark came up full in the room",
+   "picture": "a rising dark liquid",
+   "feeling": "darkness filling the room",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the darkness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 271,
+   "verified": true,
+   "quote": "like a man who could not quite get over the softness of it and meant to keep checking",
+   "picture": "a man checking softness",
+   "feeling": "continued wonder at her softness",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "none",
+   "applies_to": "his stroking",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 273,
+   "verified": true,
+   "quote": "It makes me feel close to you",
+   "picture": "physical closeness",
+   "feeling": "emotional intimacy",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "him",
+   "pov": "him",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 275,
+   "verified": true,
+   "quote": "the old reflex",
+   "picture": "an automatic reflex",
+   "feeling": "habitual impulse to hide",
+   "vehicles": [
+    "reflex"
+   ],
+   "sensation": "none",
+   "applies_to": "her turning her face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 275,
+   "verified": true,
+   "quote": "turned the embarrassment into something warmer and steadier",
+   "picture": "a warmer substance",
+   "feeling": "embarrassment becoming reassurance",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "her embarrassment",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 285,
+   "verified": true,
+   "quote": "her mind running on ahead",
+   "picture": "a runner going ahead",
+   "feeling": "anticipation of sex",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her mind",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 285,
+   "verified": true,
+   "quote": "the way you say yes to something small",
+   "picture": "an easy casual yes",
+   "feeling": "unthinking ready agreement",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "her answer",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 287,
+   "verified": true,
+   "quote": "the asking and the answer dissolved into the slow welcome of sinking down onto him",
+   "picture": "something dissolving",
+   "feeling": "words giving way to intimacy",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "their exchange",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "grace",
+   "line": 287,
+   "verified": true,
+   "quote": "the cabin held the two of them",
+   "picture": "an enclosing embrace",
+   "feeling": "shared sheltered intimacy",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the cabin",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "grace",
+   "line": 197,
+   "verified": false,
+   "quote": "she did not die of it",
+   "picture": "death from exposure",
+   "feeling": "surviving intense embarrassment",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

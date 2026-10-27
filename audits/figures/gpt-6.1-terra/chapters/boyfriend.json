@@ -1,0 +1,4093 @@
+{
+ "slug": "boyfriend",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "d79fff225029",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "the paths were mostly hers now",
+   "picture": "owned paths",
+   "feeling": "privacy on campus",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "the party already a block behind and falling away",
+   "picture": "receding place",
+   "feeling": "the party receding",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the party",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "strumming with the evening",
+   "picture": "strummed strings",
+   "feeling": "lingering excited energy",
+   "vehicles": [
+    "string"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "it had not settled",
+   "picture": "settling substance",
+   "feeling": "excitement still active",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "It had given her away",
+   "picture": "betrayed secret",
+   "feeling": "desire made visible",
+   "vehicles": [
+    "secret"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "it had not taken it back",
+   "picture": "retrieved disclosure",
+   "feeling": "desire still revealed",
+   "vehicles": [
+    "disclosure"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 3,
+   "verified": true,
+   "quote": "it stayed with her",
+   "picture": "accompanying presence",
+   "feeling": "lingering bodily excitement",
+   "vehicles": [
+    "companion"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's excitement",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 5,
+   "verified": true,
+   "quote": "the lower bunk breathing slow and even",
+   "picture": "breathing bunk",
+   "feeling": "cassie's sleeping presence",
+   "vehicles": [
+    "bunk"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 5,
+   "verified": true,
+   "quote": "Cassie long down and gone",
+   "picture": "departed sleeper",
+   "feeling": "deep sleep",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 5,
+   "verified": true,
+   "quote": "as if it were the only thing that had misbehaved tonight",
+   "picture": "misbehaving person",
+   "feeling": "trouble attributed to skirt",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the skirt",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 7,
+   "verified": true,
+   "quote": "her fingertip running down over it",
+   "picture": "running person",
+   "feeling": "finger moving downward",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's fingertip",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 7,
+   "verified": true,
+   "quote": "without being told to",
+   "picture": "independent finger",
+   "feeling": "unplanned lingering touch",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's fingertip",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 9,
+   "verified": true,
+   "quote": "the picture that came",
+   "picture": "arriving picture",
+   "feeling": "memory coming to mind",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 9,
+   "verified": true,
+   "quote": "an offering with the wrong name on it",
+   "picture": "mislabeled offering",
+   "feeling": "desire directed elsewhere",
+   "vehicles": [
+    "offering",
+    "name"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's bare skin",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 9,
+   "verified": true,
+   "quote": "Her hips tilted toward the idea",
+   "picture": "movement toward object",
+   "feeling": "involuntary physical desire",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's hips",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 11,
+   "verified": true,
+   "quote": "held it against her own breastbone like something she'd caught stealing",
+   "picture": "caught thief",
+   "feeling": "hand treated as culprit",
+   "vehicles": [
+    "thief"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's hand",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 13,
+   "verified": true,
+   "quote": "a strange new word to reach for",
+   "picture": "grasped object",
+   "feeling": "finding a reassuring word",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the word boyfriend",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 13,
+   "verified": true,
+   "quote": "she reached for it the way you reach for the rail on a stair",
+   "picture": "stair rail",
+   "feeling": "seeking steady support",
+   "vehicles": [
+    "rail",
+    "stair"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee reaching for the word boyfriend",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 19,
+   "verified": true,
+   "quote": "the furnace hall",
+   "picture": "furnace",
+   "feeling": "heat in the hallway",
+   "vehicles": [
+    "furnace"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the hall",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 23,
+   "verified": true,
+   "quote": "The Corolla took the cold badly",
+   "picture": "suffering person",
+   "feeling": "car struggling in cold",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the Corolla",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 23,
+   "verified": true,
+   "quote": "the heater breathing lukewarm on her shins",
+   "picture": "breathing person",
+   "feeling": "weak warmth from heater",
+   "vehicles": [
+    "person",
+    "breath"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the heater",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 23,
+   "verified": true,
+   "quote": "the campus lights fell behind",
+   "picture": "falling lights",
+   "feeling": "campus receding behind her",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the campus lights",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 23,
+   "verified": true,
+   "quote": "the white line coming and coming",
+   "picture": "approaching line",
+   "feeling": "continuous forward travel",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the road's white line",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 23,
+   "verified": true,
+   "quote": "anything in the car with her that might start asking questions",
+   "picture": "questioning passenger",
+   "feeling": "avoiding intrusive thoughts",
+   "vehicles": [
+    "passenger"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the radio",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 25,
+   "verified": true,
+   "quote": "The white truck sat",
+   "picture": "sitting person",
+   "feeling": "truck standing in place",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the truck",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 25,
+   "verified": true,
+   "quote": "The little house held back through the trees",
+   "picture": "withdrawing person",
+   "feeling": "house distant and concealed",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's house",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 27,
+   "verified": true,
+   "quote": "before the sense could catch up to the wanting",
+   "picture": "pursuing runners",
+   "feeling": "desire outrunning judgment",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's judgment and desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 29,
+   "verified": true,
+   "quote": "A long nothing",
+   "picture": "stretch of emptiness",
+   "feeling": "waiting without response",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the wait at the door",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 29,
+   "verified": true,
+   "quote": "his face still half in sleep",
+   "picture": "partly submerged face",
+   "feeling": "lingering sleepiness",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 31,
+   "verified": true,
+   "quote": "he took her in",
+   "picture": "drawing something inside",
+   "feeling": "taking notice of her",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's attention to Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 31,
+   "verified": true,
+   "quote": "the whole wrecked look of her",
+   "picture": "wrecked object",
+   "feeling": "vee's disordered appearance",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's appearance",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 33,
+   "verified": true,
+   "quote": "She needed him the way you need a wall at your back",
+   "picture": "supporting wall",
+   "feeling": "need for firm support",
+   "vehicles": [
+    "wall",
+    "back"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's need for Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 33,
+   "verified": true,
+   "quote": "to crowd the other thing out of her head",
+   "picture": "crowded room",
+   "feeling": "displacing an unwanted thought",
+   "vehicles": [
+    "room",
+    "head"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's thoughts",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 33,
+   "verified": true,
+   "quote": "no room left for the picture that would not leave her alone",
+   "picture": "unwelcome picture",
+   "feeling": "persistent unwanted memory",
+   "vehicles": [
+    "room",
+    "picture"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's memory of Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 33,
+   "verified": true,
+   "quote": "She was wound up",
+   "picture": "wound spring",
+   "feeling": "sexual tension",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 33,
+   "verified": true,
+   "quote": "She kissed the rest of his sentence back into his mouth",
+   "picture": "returned words",
+   "feeling": "interrupting his speech",
+   "vehicles": [
+    "mouth",
+    "word"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace's unfinished sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "wired",
+   "picture": "electrical wiring",
+   "feeling": "heightened sexual excitement",
+   "vehicles": [
+    "wire"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "keyed-up",
+   "picture": "wound mechanism",
+   "feeling": "tense excitement",
+   "vehicles": [
+    "key",
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "this had a different engine in it",
+   "picture": "different engine",
+   "feeling": "different motive driving her",
+   "vehicles": [
+    "engine"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's urgency",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "an ugly one she'd never run at him before",
+   "picture": "running engine",
+   "feeling": "unfamiliar motive directed at him",
+   "vehicles": [
+    "engine"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's motive",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "trying to get free of something",
+   "picture": "confining restraint",
+   "feeling": "wanting escape from distress",
+   "vehicles": [
+    "restraint"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 37,
+   "verified": true,
+   "quote": "her body went about it like a fight",
+   "picture": "physical fight",
+   "feeling": "forceful struggle for release",
+   "vehicles": [
+    "fight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "He caught up fast",
+   "picture": "pursuing runner",
+   "feeling": "quickly matching her arousal",
+   "vehicles": [
+    "runner"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "the slow reading",
+   "picture": "read text",
+   "feeling": "patient attention to her",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's attention to Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "bring her over",
+   "picture": "crossing a threshold",
+   "feeling": "bringing her to orgasm",
+   "vehicles": [
+    "threshold"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "did not want to be read",
+   "picture": "read text",
+   "feeling": "resistance to close attention",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "it was hard and it had teeth",
+   "picture": "biting creature",
+   "feeling": "harshness of their encounter",
+   "vehicles": [
+    "tooth",
+    "creature"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee and Pace's encounter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "like she could grind the thing loose against the plain fact of him",
+   "picture": "ground loose object",
+   "feeling": "trying to dislodge distress",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's distress",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "work it out of her",
+   "picture": "extracted object",
+   "feeling": "trying to expel distress",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's distress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "leave it somewhere in the dark between their bodies",
+   "picture": "discarded object",
+   "feeling": "wanting to abandon distress",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's distress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 39,
+   "verified": true,
+   "quote": "drive someone else out of her head",
+   "picture": "expelled person",
+   "feeling": "trying to banish thoughts",
+   "vehicles": [
+    "person",
+    "head"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's thoughts of Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 41,
+   "verified": true,
+   "quote": "It didn't go",
+   "picture": "departing presence",
+   "feeling": "thought remaining present",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's thought of Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 41,
+   "verified": true,
+   "quote": "her heart slamming",
+   "picture": "slamming object",
+   "feeling": "forceful rapid heartbeat",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee's heart",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 41,
+   "verified": true,
+   "quote": "the picture still there, sharp as the dancefloor",
+   "picture": "sharp picture",
+   "feeling": "vivid persistent memory",
+   "vehicles": [
+    "picture",
+    "dancefloor"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 43,
+   "verified": true,
+   "quote": "the attention come up in him",
+   "picture": "rising substance",
+   "feeling": "pace's attention awakening",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Pace's attention",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 49,
+   "verified": true,
+   "quote": "you wound up",
+   "picture": "wound spring",
+   "feeling": "vee's familiar excitement",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "there was no folding that back up",
+   "picture": "folded object",
+   "feeling": "knowledge cannot be concealed",
+   "vehicles": [
+    "paper"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace's knowledge",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "some part of her was already reaching for this",
+   "picture": "reaching hand",
+   "feeling": "desire to confide",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "dying to set the whole weight of it down in front of somebody",
+   "picture": "put down burden",
+   "feeling": "urgent need to confide",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's secret",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "one she'd have carried this to",
+   "picture": "carried burden",
+   "feeling": "wish to confide in randi",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's secret",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "it had gone nowhere, all night, only built",
+   "picture": "growing accumulation",
+   "feeling": "unshared feeling growing",
+   "vehicles": [
+    "pile"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's secret",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "holding open the one door there was",
+   "picture": "open door",
+   "feeling": "opportunity to confide",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace's question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 51,
+   "verified": true,
+   "quote": "The caught part of her and the dying-to-tell part reached for it together",
+   "picture": "hands reaching for door",
+   "feeling": "conflicting impulses seeking disclosure",
+   "vehicles": [
+    "hand",
+    "door"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 53,
+   "verified": true,
+   "quote": "gone in the ground with it",
+   "picture": "buried person",
+   "feeling": "resolve to keep secret",
+   "vehicles": [
+    "ground",
+    "grave"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's secret",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 53,
+   "verified": true,
+   "quote": "from behind a shut door",
+   "picture": "shut door",
+   "feeling": "refusal to disclose",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's resisting part",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 55,
+   "verified": true,
+   "quote": "The waiting did what his hands did",
+   "picture": "acting hands",
+   "feeling": "waiting prompts disclosure",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's waiting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 55,
+   "verified": true,
+   "quote": "the door came open anyway",
+   "picture": "opening door",
+   "feeling": "resistance to disclosure yielding",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's disclosure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 57,
+   "verified": true,
+   "quote": "paying it out a piece at a time",
+   "picture": "unwinding rope",
+   "feeling": "gradual hesitant disclosure",
+   "vehicles": [
+    "rope"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 59,
+   "verified": true,
+   "quote": "the name, handed back",
+   "picture": "returned object",
+   "feeling": "repeating the name",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "the name Harrison",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 61,
+   "verified": true,
+   "quote": "it landed wrong",
+   "picture": "bad landing",
+   "feeling": "name causing misunderstanding",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the name Harrison",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 61,
+   "verified": true,
+   "quote": "what she'd built him: a clean little picture with a *him* in the middle of it",
+   "picture": "constructed picture",
+   "feeling": "misleading impression of kiss",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's understanding",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 61,
+   "verified": true,
+   "quote": "a false thing lodged in his chest, hurting him",
+   "picture": "object lodged in chest",
+   "feeling": "pain from false belief",
+   "vehicles": [
+    "object",
+    "chest"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's false belief",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 61,
+   "verified": true,
+   "quote": "The truth tore loose to kill it",
+   "picture": "escaping attacker",
+   "feeling": "urgent correction of misunderstanding",
+   "vehicles": [
+    "attacker"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's disclosure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 63,
+   "verified": true,
+   "quote": "no floor left anywhere",
+   "picture": "vanished floor",
+   "feeling": "sudden loss of security",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 63,
+   "verified": true,
+   "quote": "It cost her the whole breath",
+   "picture": "breath as payment",
+   "feeling": "effort of confession",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's confession",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 65,
+   "verified": true,
+   "quote": "like setting a stone down",
+   "picture": "placed stone",
+   "feeling": "careful weight of words",
+   "vehicles": [
+    "stone"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's statement",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 65,
+   "verified": true,
+   "quote": "pressed up hard behind her teeth and did not get out",
+   "picture": "trapped object",
+   "feeling": "suppressed unspoken feeling",
+   "vehicles": [
+    "tooth",
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's unspoken truth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 69,
+   "verified": true,
+   "quote": "grounded her",
+   "picture": "feet on ground",
+   "feeling": "feeling steady again",
+   "vehicles": [
+    "ground",
+    "foot"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 69,
+   "verified": true,
+   "quote": "put her back down into her own body",
+   "picture": "person lowered into body",
+   "feeling": "renewed bodily belonging",
+   "vehicles": [
+    "body",
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 69,
+   "verified": true,
+   "quote": "she could stand on it to say the rest",
+   "picture": "supporting surface",
+   "feeling": "confidence to continue speaking",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's sense of being Pace's girlfriend",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 75,
+   "verified": true,
+   "quote": "There was a current under it",
+   "picture": "underwater current",
+   "feeling": "underlying sexual interest",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 75,
+   "verified": true,
+   "quote": "she handed him the ordinary version",
+   "picture": "handed object",
+   "feeling": "giving a safer account",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 75,
+   "verified": true,
+   "quote": "the one with the exits built in",
+   "picture": "room with exits",
+   "feeling": "account allowing escape",
+   "vehicles": [
+    "room",
+    "exit"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 77,
+   "verified": true,
+   "quote": "he stalled her",
+   "picture": "stalled vehicle",
+   "feeling": "motion brought to stop",
+   "vehicles": [
+    "vehicle"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 81,
+   "verified": true,
+   "quote": "catch the shape of it",
+   "picture": "grasped shape",
+   "feeling": "understanding his intention",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's proposition",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 81,
+   "verified": true,
+   "quote": "make her buy it back, inch by inch, pay for her own pleasure in the one coin she had",
+   "picture": "purchase with coin",
+   "feeling": "pleasure exchanged for truth",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's pleasure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 81,
+   "verified": true,
+   "quote": "A laugh got out of her",
+   "picture": "escaping captive",
+   "feeling": "involuntary nervous laughter",
+   "vehicles": [
+    "captive"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's laugh",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 83,
+   "verified": true,
+   "quote": "the warmth of him with a new thing folded in",
+   "picture": "folded material",
+   "feeling": "familiar warmth altered",
+   "vehicles": [
+    "fabric"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 83,
+   "verified": true,
+   "quote": "a hunger he wasn't troubling to hide",
+   "picture": "hunger for food",
+   "feeling": "open sexual appetite",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace's desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 83,
+   "verified": true,
+   "quote": "it only turned the screw tighter",
+   "picture": "tightened screw",
+   "feeling": "intensified sexual pressure",
+   "vehicles": [
+    "screw"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's arousal",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 83,
+   "verified": true,
+   "quote": "Something in her leaned its whole weight on the rule he'd set — and it held",
+   "picture": "supporting structure",
+   "feeling": "trust in his rule",
+   "vehicles": [
+    "weight",
+    "support"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's trust in Pace's rule",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 85,
+   "verified": true,
+   "quote": "gave him something true to see what it bought",
+   "picture": "purchase with truth",
+   "feeling": "testing their exchange",
+   "vehicles": [
+    "payment"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's disclosure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 87,
+   "verified": true,
+   "quote": "It came back warmer and worse than she'd said it",
+   "picture": "returning warm object",
+   "feeling": "word gaining emotional force",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the word date",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 89,
+   "verified": true,
+   "quote": "the mixer that kicks off spring semester",
+   "picture": "kicked ball",
+   "feeling": "start of semester",
+   "vehicles": [
+    "ball"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the mixer",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 89,
+   "verified": true,
+   "quote": "she spent it on me",
+   "picture": "spent money",
+   "feeling": "using invitation for vee",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's plus-one",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 89,
+   "verified": true,
+   "quote": "It came easier once it was moving",
+   "picture": "moving object",
+   "feeling": "speech becoming easier",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 91,
+   "verified": true,
+   "quote": "another game, running just as he liked",
+   "picture": "running game",
+   "feeling": "pleasure in their exchange",
+   "vehicles": [
+    "game"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace and Vee's exchange",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 91,
+   "verified": true,
+   "quote": "the heat climbed",
+   "picture": "rising heat",
+   "feeling": "arousal growing stronger",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 91,
+   "verified": true,
+   "quote": "him buried to the root in her",
+   "picture": "buried root",
+   "feeling": "deep physical penetration",
+   "vehicles": [
+    "root"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 93,
+   "verified": true,
+   "quote": "that scrap you had on tonight",
+   "picture": "scrap of fabric",
+   "feeling": "skirt's scant size",
+   "vehicles": [
+    "scrap"
+   ],
+   "sensation": "none",
+   "applies_to": "the skirt",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 95,
+   "verified": true,
+   "quote": "The pride came up in her",
+   "picture": "rising substance",
+   "feeling": "pride returning",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's pride",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 95,
+   "verified": true,
+   "quote": "dumb and warm",
+   "picture": "warmth",
+   "feeling": "pleased affectionate pride",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's pride",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 97,
+   "verified": true,
+   "quote": "the compliment and the fact of him landed together",
+   "picture": "objects landing",
+   "feeling": "words and touch felt together",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's compliment and touch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 97,
+   "verified": true,
+   "quote": "tipped her into the wet heat of herself",
+   "picture": "tipped into liquid",
+   "feeling": "sudden immersion in arousal",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 97,
+   "verified": true,
+   "quote": "He had her pleasure in his two hands now, portioning it out",
+   "picture": "portioned substance",
+   "feeling": "pace controlling her pleasure",
+   "vehicles": [
+    "hand",
+    "portion"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's pleasure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 97,
+   "verified": true,
+   "quote": "underlining, with a stroke, with a degree of depth, the parts that ran the hottest",
+   "picture": "underlined hot text",
+   "feeling": "emphasizing most arousing details",
+   "vehicles": [
+    "line",
+    "text",
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 101,
+   "verified": true,
+   "quote": "The floor went out from under the true answer",
+   "picture": "vanishing floor",
+   "feeling": "true answer losing support",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's true answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 101,
+   "verified": true,
+   "quote": "she snatched at the short one",
+   "picture": "snatched object",
+   "feeling": "grabbing a safer answer",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's short answer",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 103,
+   "verified": true,
+   "quote": "He heard the middle go missing",
+   "picture": "missing middle",
+   "feeling": "noticing omitted details",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 103,
+   "verified": true,
+   "quote": "taking back everything the last few answers had earned her",
+   "picture": "withdrawn payment",
+   "feeling": "pleasure withdrawn after evasion",
+   "vehicles": [
+    "payment"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's pleasure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 113,
+   "verified": true,
+   "quote": "It just got — looser",
+   "picture": "loosened restraint",
+   "feeling": "dancing becoming less restrained",
+   "vehicles": [
+    "restraint"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the dancing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 115,
+   "verified": true,
+   "quote": "She'd tidied it, and he heard the tidying",
+   "picture": "tidied mess",
+   "feeling": "account made less revealing",
+   "vehicles": [
+    "mess"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 115,
+   "verified": true,
+   "quote": "it turned her back to look at the thing she'd smoothed over",
+   "picture": "smoothed surface",
+   "feeling": "forced attention to omission",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's account of dancing",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 115,
+   "verified": true,
+   "quote": "She'd tidied it",
+   "picture": "a tidied space",
+   "feeling": "making the account orderly",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 115,
+   "verified": true,
+   "quote": "he heard the tidying",
+   "picture": "a tidied space",
+   "feeling": "recognizing her evasiveness",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 115,
+   "verified": true,
+   "quote": "the thing she'd smoothed over",
+   "picture": "a smoothed surface",
+   "feeling": "a detail made unobtrusive",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 117,
+   "verified": true,
+   "quote": "to steal the friction off his hands",
+   "picture": "stolen object",
+   "feeling": "seeking unauthorized pleasure",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attempt to move",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 117,
+   "verified": true,
+   "quote": "steal the friction off his hands",
+   "picture": "a stolen touch",
+   "feeling": "seeking forbidden friction",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 119,
+   "verified": true,
+   "quote": "She made me bigger than I'd dance",
+   "picture": "enlarged person",
+   "feeling": "movement beyond usual restraint",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's dancing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 121,
+   "verified": true,
+   "quote": "a reward with a slope to it",
+   "picture": "sloping surface",
+   "feeling": "reward increasing gradually",
+   "vehicles": [
+    "slope"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's reward",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 123,
+   "verified": true,
+   "quote": "the skirt rode up",
+   "picture": "riding traveler",
+   "feeling": "skirt moving upward",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the skirt",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 127,
+   "verified": true,
+   "quote": "got nowhere",
+   "picture": "a blocked journey",
+   "feeling": "failure to move him",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 127,
+   "verified": true,
+   "quote": "the reconsidering caught her mid-word",
+   "picture": "a person catching someone",
+   "feeling": "sudden interruption by thought",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 127,
+   "verified": true,
+   "quote": "the thing the stall had turned her around to see",
+   "picture": "a person turned around",
+   "feeling": "recognition of an evasion",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 129,
+   "verified": true,
+   "quote": "That one cost her and it bought her more than the others",
+   "picture": "a purchase",
+   "feeling": "painful honesty earning reward",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 129,
+   "verified": true,
+   "quote": "a tightness crossing his face",
+   "picture": "movement across a face",
+   "feeling": "pace's visible strain",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 131,
+   "verified": true,
+   "quote": "the silk of her",
+   "picture": "silk",
+   "feeling": "randi's smooth softness",
+   "vehicles": [
+    "silk"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 133,
+   "verified": true,
+   "quote": "right at the edge where she always cut them off",
+   "picture": "an edge and a cut",
+   "feeling": "approaching her usual limit",
+   "vehicles": [
+    "edge",
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's revelations",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 135,
+   "verified": true,
+   "quote": "There it was, out — and once it was out the rest came with it",
+   "picture": "things coming out",
+   "feeling": "one admission releasing others",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's admissions",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 135,
+   "verified": true,
+   "quote": "how much of the rest of her it gave up",
+   "picture": "something surrendered",
+   "feeling": "uncertain bodily exposure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the skirt",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 141,
+   "verified": true,
+   "quote": "The question walked straight into the shame of it and stood there",
+   "picture": "a person entering",
+   "feeling": "shame directly confronted",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 145,
+   "verified": true,
+   "quote": "the truth came up to end it",
+   "picture": "a person approaching",
+   "feeling": "truth emerging under pressure",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 147,
+   "verified": true,
+   "quote": "they landed right in the middle of her trying to say the rest",
+   "picture": "objects landing",
+   "feeling": "strokes interrupting speech",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's strokes",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 147,
+   "verified": true,
+   "quote": "came apart in her mouth, broken over what he was doing to her",
+   "picture": "a broken object",
+   "feeling": "speech disrupted by pleasure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 147,
+   "verified": true,
+   "quote": "she lost the room",
+   "picture": "a lost place",
+   "feeling": "awareness of surroundings vanishing",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 147,
+   "verified": true,
+   "quote": "the thing he was drawing it out of",
+   "picture": "something drawn from a container",
+   "feeling": "a concealed admission extracted",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's concealed admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 151,
+   "verified": true,
+   "quote": "he'd taken the whole tangle and narrowed it to this",
+   "picture": "a narrowed tangle",
+   "feeling": "complex feelings made clear",
+   "vehicles": [
+    "tangle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's feelings",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 153,
+   "verified": true,
+   "quote": "Back to the exits",
+   "picture": "exits from a room",
+   "feeling": "returning to evasions",
+   "vehicles": [
+    "exit",
+    "room"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 153,
+   "verified": true,
+   "quote": "the safe shape of it",
+   "picture": "a safe shape",
+   "feeling": "a reassuring version",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 153,
+   "verified": true,
+   "quote": "the instant she tidied",
+   "picture": "a tidied space",
+   "feeling": "making her account orderly",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 155,
+   "verified": true,
+   "quote": "the tease plain on him",
+   "picture": "a visible covering",
+   "feeling": "his teasing clearly visible",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 155,
+   "verified": true,
+   "quote": "wanted it in her own mouth",
+   "picture": "a thing in a mouth",
+   "feeling": "wanting her to say it",
+   "vehicles": [
+    "mouth",
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 159,
+   "verified": true,
+   "quote": "another shape under this one",
+   "picture": "one shape beneath another",
+   "feeling": "a deeper account concealed",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 159,
+   "verified": true,
+   "quote": "It left her short",
+   "picture": "an incomplete journey",
+   "feeling": "unsatisfied physical desire",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 159,
+   "verified": true,
+   "quote": "got nowhere",
+   "picture": "a blocked journey",
+   "feeling": "failure to move lower",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 159,
+   "verified": true,
+   "quote": "his fingers had drifted",
+   "picture": "floating fingers",
+   "feeling": "fingers moving gradually",
+   "vehicles": [
+    "finger"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Pace's fingers",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 159,
+   "verified": true,
+   "quote": "pulled toward the heat of her",
+   "picture": "a pull toward heat",
+   "feeling": "desire drawing his fingers",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's fingers",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 165,
+   "verified": true,
+   "quote": "the plain shape",
+   "picture": "a plain shape",
+   "feeling": "a simplified account",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 165,
+   "verified": true,
+   "quote": "braced for the toll",
+   "picture": "a toll to pay",
+   "feeling": "anticipating a demanded admission",
+   "vehicles": [
+    "toll"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 165,
+   "verified": true,
+   "quote": "until she paid in the truer version",
+   "picture": "payment",
+   "feeling": "honesty demanded as payment",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 167,
+   "verified": true,
+   "quote": "the pleasure climbed",
+   "picture": "an upward climb",
+   "feeling": "pleasure increasing rapidly",
+   "vehicles": [
+    "climber"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's pleasure",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 167,
+   "verified": true,
+   "quote": "she lost the thread of the room",
+   "picture": "a lost thread",
+   "feeling": "awareness of surroundings fading",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 167,
+   "verified": true,
+   "quote": "He wasn't trading her inches for truths anymore",
+   "picture": "a trade",
+   "feeling": "physical reward for honesty",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's actions",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 167,
+   "verified": true,
+   "quote": "He was taking her somewhere, and taking her fast",
+   "picture": "a rapid journey",
+   "feeling": "rapid approach to orgasm",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 167,
+   "verified": true,
+   "quote": "let herself go up toward it",
+   "picture": "an upward journey",
+   "feeling": "yielding to rising pleasure",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 169,
+   "verified": true,
+   "quote": "He ran her right to the edge and stopped",
+   "picture": "a run to an edge",
+   "feeling": "approaching orgasm then stopping",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 169,
+   "verified": true,
+   "quote": "over the drop, and would not tip her",
+   "picture": "a drop from a height",
+   "feeling": "orgasm held just out of reach",
+   "vehicles": [
+    "drop",
+    "ledge"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 171,
+   "verified": true,
+   "quote": "the words coming apart",
+   "picture": "objects breaking apart",
+   "feeling": "speech disrupted by arousal",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 173,
+   "verified": true,
+   "quote": "He held her at the brink",
+   "picture": "a brink",
+   "feeling": "orgasm held just out of reach",
+   "vehicles": [
+    "brink"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 173,
+   "verified": true,
+   "quote": "the need of it drove the next of it out of her",
+   "picture": "something forced out",
+   "feeling": "need compelling further speech",
+   "vehicles": [
+    "object",
+    "container"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 175,
+   "verified": true,
+   "quote": "Her tongue — it wasn't a demand, it was a *please.*",
+   "picture": "a spoken request",
+   "feeling": "a kiss felt as asking",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's tongue",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 177,
+   "verified": true,
+   "quote": "at the edge",
+   "picture": "an edge",
+   "feeling": "close to orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 177,
+   "verified": true,
+   "quote": "she climbed straight to the top and hung there",
+   "picture": "a climber hanging",
+   "feeling": "pleasure held at its peak",
+   "vehicles": [
+    "climber",
+    "summit"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 177,
+   "verified": true,
+   "quote": "made a sound — needy, asking, a question",
+   "picture": "a spoken question",
+   "feeling": "an urgent wordless request",
+   "vehicles": [
+    "question"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's sound",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 181,
+   "verified": true,
+   "quote": "him rationing her like this, doling her own pleasure back to her a coin at a time",
+   "picture": "coins handed out",
+   "feeling": "pleasure given in increments",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's pleasure",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 183,
+   "verified": true,
+   "quote": "there was nowhere else to put the need",
+   "picture": "a place for an object",
+   "feeling": "need finding an outlet",
+   "vehicles": [
+    "object",
+    "container"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's need",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 183,
+   "verified": true,
+   "quote": "the words were coming in pieces",
+   "picture": "broken pieces",
+   "feeling": "fragmented speech",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 183,
+   "verified": true,
+   "quote": "the two thin nothings we had on",
+   "picture": "two thin nothings",
+   "feeling": "clothes offering little barrier",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee and Randi's clothing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 185,
+   "verified": true,
+   "quote": "holding her under the edge",
+   "picture": "a person below an edge",
+   "feeling": "orgasm held just out of reach",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 189,
+   "verified": true,
+   "quote": "He had her at the top again and held her there",
+   "picture": "a person held at a summit",
+   "feeling": "pleasure held at its peak",
+   "vehicles": [
+    "summit"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 189,
+   "verified": true,
+   "quote": "what the last coin was",
+   "picture": "a final coin",
+   "feeling": "the final admission required",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 191,
+   "verified": true,
+   "quote": "wrecked",
+   "picture": "a wreck",
+   "feeling": "overwhelmed and spent",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 191,
+   "verified": true,
+   "quote": "It was so hot",
+   "picture": "heat",
+   "feeling": "intense sexual excitement",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "the kiss",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 193,
+   "verified": true,
+   "quote": "He drove her over",
+   "picture": "a person driven over an edge",
+   "feeling": "being brought to orgasm",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 193,
+   "verified": true,
+   "quote": "she came apart on him",
+   "picture": "a body coming apart",
+   "feeling": "release in orgasm",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 193,
+   "verified": true,
+   "quote": "gone where he'd sent her",
+   "picture": "a distant destination",
+   "feeling": "absorption in orgasm",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 195,
+   "verified": true,
+   "quote": "She came back to herself in pieces, from a long way off",
+   "picture": "a return in pieces",
+   "feeling": "gradual return to awareness",
+   "vehicles": [
+    "piece",
+    "road"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 195,
+   "verified": true,
+   "quote": "his heart, hammering into her breast",
+   "picture": "a hammer striking",
+   "feeling": "his forceful heartbeat",
+   "vehicles": [
+    "hammer"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace's heart",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 195,
+   "verified": true,
+   "quote": "going like it had somewhere to be",
+   "picture": "a hurried traveler",
+   "feeling": "his rapid heartbeat",
+   "vehicles": [
+    "traveler",
+    "destination"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace's heart",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 197,
+   "verified": true,
+   "quote": "the third one she'd carried in on her mouth",
+   "picture": "a person carried in",
+   "feeling": "randi's lingering presence",
+   "vehicles": [
+    "person",
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 197,
+   "verified": true,
+   "quote": "the woman was still in her mouth",
+   "picture": "a person in a mouth",
+   "feeling": "randi's lingering taste",
+   "vehicles": [
+    "person",
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 197,
+   "verified": true,
+   "quote": "which of them she'd been chasing at the end",
+   "picture": "a person chased",
+   "feeling": "uncertainty about her desire",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 201,
+   "verified": true,
+   "quote": "the pressure was gone and the fear came in where it had been",
+   "picture": "one occupant replacing another",
+   "feeling": "fear replacing physical urgency",
+   "vehicles": [
+    "occupant",
+    "room"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "dropped the register down into something rueful",
+   "picture": "a lowered register",
+   "feeling": "adopting a rueful tone",
+   "vehicles": [
+    "register"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "that was the rail on the stair",
+   "picture": "a stair rail",
+   "feeling": "self-mockery providing support",
+   "vehicles": [
+    "rail",
+    "stair"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's self-mockery",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "It took the whole thing too far",
+   "picture": "a journey too far",
+   "feeling": "desire exceeding her intention",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's sex brain",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "my dumb body didn't get the memo",
+   "picture": "an unread memo",
+   "feeling": "her body's unexpected response",
+   "vehicles": [
+    "memo"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "it came out thin",
+   "picture": "a thin substance",
+   "feeling": "a strained laugh",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 203,
+   "verified": true,
+   "quote": "I wasn't going to sit on it",
+   "picture": "sitting on an object",
+   "feeling": "refusing to conceal information",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 205,
+   "verified": true,
+   "quote": "warm, wholly present",
+   "picture": "warmth",
+   "feeling": "pace's reassuring attention",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 211,
+   "verified": true,
+   "quote": "a wall of it built around her",
+   "picture": "a protective wall",
+   "feeling": "wanting reassurance and protection",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's reassurance",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 213,
+   "verified": true,
+   "quote": "his hand found her hair",
+   "picture": "a searching hand",
+   "feeling": "a gentle touch",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 213,
+   "verified": true,
+   "quote": "the flat plain voice",
+   "picture": "a flat surface",
+   "feeling": "an uninflected serious voice",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 213,
+   "verified": true,
+   "quote": "the one with no push in it at all",
+   "picture": "a physical push",
+   "feeling": "speech without pressure",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 217,
+   "verified": true,
+   "quote": "it came up out of the rule",
+   "picture": "something rising from a container",
+   "feeling": "an answer arising from belief",
+   "vehicles": [
+    "container",
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 217,
+   "verified": true,
+   "quote": "the lie in the dark",
+   "picture": "an object in darkness",
+   "feeling": "a concealed lie",
+   "vehicles": [
+    "darkness"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "a lie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 217,
+   "verified": true,
+   "quote": "the thing carried around behind your teeth where no one could reach it",
+   "picture": "an object behind teeth",
+   "feeling": "a secret kept unspoken",
+   "vehicles": [
+    "object",
+    "tooth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "a secret",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 217,
+   "verified": true,
+   "quote": "handing him every piece of it",
+   "picture": "pieces handed over",
+   "feeling": "telling him every detail",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's account",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 219,
+   "verified": true,
+   "quote": "she had taken that tenderness entirely wrong",
+   "picture": "something taken",
+   "feeling": "misunderstanding randi's tenderness",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 223,
+   "verified": true,
+   "quote": "She held the two of them a moment",
+   "picture": "two objects held",
+   "feeling": "considering two memories",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's memories",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 227,
+   "verified": true,
+   "quote": "It came out level",
+   "picture": "a level surface",
+   "feeling": "a steady spoken lie",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 227,
+   "verified": true,
+   "quote": "It went down into her and sat there, cold, under all the rest of it",
+   "picture": "a cold object inside",
+   "feeling": "the lie settling within her",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's lie",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 229,
+   "verified": true,
+   "quote": "The guilt came up hot under her ribs",
+   "picture": "heat rising under ribs",
+   "feeling": "sudden rising guilt",
+   "vehicles": [
+    "heat",
+    "rib"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's guilt",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 229,
+   "verified": true,
+   "quote": "inside it, small and bright, a thrill",
+   "picture": "a small bright object",
+   "feeling": "a thrill within guilt",
+   "vehicles": [
+    "object",
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee's thrill",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 231,
+   "verified": true,
+   "quote": "before she could get her feet back under her",
+   "picture": "a person regaining footing",
+   "feeling": "before she regained composure",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 231,
+   "verified": true,
+   "quote": "like a man clearing the last small thing off a table",
+   "picture": "a man clearing a table",
+   "feeling": "a question posed casually",
+   "vehicles": [
+    "man",
+    "object",
+    "table"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 233,
+   "verified": true,
+   "quote": "he'd stepped around the name like a gentleman stepping around a puddle",
+   "picture": "a gentleman avoiding a puddle",
+   "feeling": "pace's tactful avoidance",
+   "vehicles": [
+    "gentleman",
+    "puddle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 233,
+   "verified": true,
+   "quote": "the room he'd left her that she walked straight into it",
+   "picture": "an open space entered",
+   "feeling": "accepting an offered opening",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "before the question had finished landing",
+   "picture": "an object landing",
+   "feeling": "answering before fully absorbing",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's question",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "The reflex gave out and left her over open air",
+   "picture": "a support failing over air",
+   "feeling": "sudden loss of an answer",
+   "vehicles": [
+    "support",
+    "air"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "she felt the drop and got a floor down over it",
+   "picture": "a floor over a drop",
+   "feeling": "recovering through hurried speech",
+   "vehicles": [
+    "drop",
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "I was so keyed up",
+   "picture": "a tightened mechanism",
+   "feeling": "high nervous excitement",
+   "vehicles": [
+    "key",
+    "mechanism"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "she felt the drop",
+   "picture": "a sudden fall",
+   "feeling": "sudden loss of footing",
+   "vehicles": [
+    "drop"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "got a floor down over it",
+   "picture": "a covering floor",
+   "feeling": "regaining verbal footing",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 235,
+   "verified": true,
+   "quote": "keyed up",
+   "picture": "a tightened mechanism",
+   "feeling": "heightened nervous excitement",
+   "vehicles": [
+    "mechanism"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 237,
+   "verified": true,
+   "quote": "a stupid joke that got away from me",
+   "picture": "an escaping creature",
+   "feeling": "a joke becoming uncontrolled",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the joke",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 237,
+   "verified": true,
+   "quote": "too far in to stop it",
+   "picture": "a person deep inside",
+   "feeling": "unable to stop speaking",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 239,
+   "verified": true,
+   "quote": "the quiet went on until it had a shape",
+   "picture": "a shaped object",
+   "feeling": "silence becoming palpable",
+   "vehicles": [
+    "shape",
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the quiet",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 243,
+   "verified": true,
+   "quote": "She reached for the hardest wall she had",
+   "picture": "a hard wall",
+   "feeling": "seeking a firm defense",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's defense",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 249,
+   "verified": true,
+   "quote": "the ground was giving under her",
+   "picture": "collapsing ground",
+   "feeling": "loss of emotional footing",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 249,
+   "verified": true,
+   "quote": "grabbed the nearest thing that would take her weight",
+   "picture": "grasping a support",
+   "feeling": "grasping for safety",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 249,
+   "verified": true,
+   "quote": "swung the whole matter off herself and onto him",
+   "picture": "shifting a burden",
+   "feeling": "redirecting scrutiny toward pace",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the matter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 249,
+   "verified": true,
+   "quote": "the name was out",
+   "picture": "an escaping object",
+   "feeling": "name spoken prematurely",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's name",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 249,
+   "verified": true,
+   "quote": "she'd just so carefully folded away",
+   "picture": "a folded object",
+   "feeling": "name deliberately concealed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's name",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 251,
+   "verified": true,
+   "quote": "Something crossed his face",
+   "picture": "a passing movement",
+   "feeling": "brief change in expression",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 251,
+   "verified": true,
+   "quote": "a flicker",
+   "picture": "a flickering light",
+   "feeling": "fleeting visible reaction",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 253,
+   "verified": true,
+   "quote": "no edge in it anywhere",
+   "picture": "a sharp edge",
+   "feeling": "absence of harshness",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Pace's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "he left her the whole of the room",
+   "picture": "space in a room",
+   "feeling": "freedom to speak",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "without once reaching to cover himself",
+   "picture": "protecting one's body",
+   "feeling": "refraining from self-defense",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "her anger found nothing to push on",
+   "picture": "pushing against resistance",
+   "feeling": "anger meeting no resistance",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's anger",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "spent itself and passed",
+   "picture": "a dwindling force",
+   "feeling": "anger gradually subsiding",
+   "vehicles": [
+    "force"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's anger",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "the sweetest thing she had ever seen him do",
+   "picture": "a sweet taste",
+   "feeling": "tenderness toward pace",
+   "vehicles": [
+    "sweetness"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's action",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 255,
+   "verified": true,
+   "quote": "it settled over her like a warm blanket",
+   "picture": "a warm blanket",
+   "feeling": "comforting tenderness",
+   "vehicles": [
+    "blanket"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 259,
+   "verified": true,
+   "quote": "the cream cashmere that lived at the foot of the bed",
+   "picture": "a resident creature",
+   "feeling": "blanket's familiar place",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "none",
+   "applies_to": "the blanket",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 259,
+   "verified": true,
+   "quote": "his mouth against her hair keeping her gently lit",
+   "picture": "a gentle light",
+   "feeling": "warmth of his affection",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 259,
+   "verified": true,
+   "quote": "the relief of it came over her in a slow flood",
+   "picture": "a slow flood",
+   "feeling": "gradually enveloping relief",
+   "vehicles": [
+    "flood"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 261,
+   "verified": true,
+   "quote": "the first clean feeling",
+   "picture": "a clean surface",
+   "feeling": "uncomplicated relief",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 261,
+   "verified": true,
+   "quote": "brought the whole dangerous thing in here and set it down",
+   "picture": "a carried explosive",
+   "feeling": "bringing a dangerous subject",
+   "vehicles": [
+    "explosive"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the dangerous matter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 261,
+   "verified": true,
+   "quote": "it had not gone off",
+   "picture": "an unexploded bomb",
+   "feeling": "dangerous subject causing no rupture",
+   "vehicles": [
+    "bomb"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the dangerous matter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 261,
+   "verified": true,
+   "quote": "it would all be behind her",
+   "picture": "a passed place",
+   "feeling": "trouble left in the past",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the evening's trouble",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 263,
+   "verified": true,
+   "quote": "the pressure gone",
+   "picture": "a lifted weight",
+   "feeling": "strain having eased",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 263,
+   "verified": true,
+   "quote": "nothing left to fight",
+   "picture": "a finished battle",
+   "feeling": "conflict having ended",
+   "vehicles": [
+    "battle"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 265,
+   "verified": true,
+   "quote": "talked her into",
+   "picture": "movement into a place",
+   "feeling": "persuading randi to enroll",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 265,
+   "verified": true,
+   "quote": "find a face for it",
+   "picture": "a chosen face",
+   "feeling": "finding a convincing demeanor",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 265,
+   "verified": true,
+   "quote": "Tuesday sat there at the end of the dark, circled, coming",
+   "picture": "a circled calendar date",
+   "feeling": "approaching unavoidable meeting",
+   "vehicles": [
+    "calendar",
+    "circle"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Tuesday",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "gone at him tonight like she never had",
+   "picture": "an attack",
+   "feeling": "intense sexual pursuit",
+   "vehicles": [
+    "attack"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "taken every bit of it",
+   "picture": "receiving physical portions",
+   "feeling": "fully receiving sexual contact",
+   "vehicles": [
+    "portion"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "the good soreness that used to keep the night's account for her",
+   "picture": "a written account",
+   "feeling": "soreness recalling pleasurable sex",
+   "vehicles": [
+    "account"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's soreness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "her body finally quiet",
+   "picture": "a quiet sound",
+   "feeling": "bodily arousal subsiding",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "her mind gone straight down the county road and back to campus and into a warm cluttered room",
+   "picture": "a traveler on a road",
+   "feeling": "thoughts returning to randi",
+   "vehicles": [
+    "traveler",
+    "road",
+    "campus",
+    "room"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's mind",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 267,
+   "verified": true,
+   "quote": "she could not make it come back",
+   "picture": "a returning traveler",
+   "feeling": "inability to redirect thoughts",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's mind",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "boyfriend",
+   "line": 109,
+   "verified": false,
+   "quote": "being held there ... was a question of its own",
+   "picture": "spoken question",
+   "feeling": "physical demand for disclosure",
+   "vehicles": [
+    "question"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace holding Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

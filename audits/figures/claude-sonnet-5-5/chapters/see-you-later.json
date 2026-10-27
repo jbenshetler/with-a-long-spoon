@@ -1,0 +1,2005 @@
+{
+ "slug": "see-you-later",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "312662680218",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "see-you-later",
+   "line": 7,
+   "verified": true,
+   "quote": "a man checking that the road was still there",
+   "picture": "a road checked",
+   "feeling": "nervous reassurance-seeking ritual",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "none",
+   "applies_to": "the professor",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 7,
+   "verified": true,
+   "quote": "whoever you sat next to was whoever the row gave you",
+   "picture": "row as giver",
+   "feeling": "seating assigned by chance",
+   "vehicles": [
+    "row"
+   ],
+   "sensation": "none",
+   "applies_to": "the seating",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 11,
+   "verified": true,
+   "quote": "wearing her clothes like they'd been made for her",
+   "picture": "tailored clothes",
+   "feeling": "effortless fit",
+   "vehicles": [
+    "clothes"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 11,
+   "verified": true,
+   "quote": "The girl was simply better than the morning around her: better lit, better put together",
+   "picture": "stage lighting",
+   "feeling": "radiant standing out",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 11,
+   "verified": true,
+   "quote": "the kind of somebody a campus orbits",
+   "picture": "planets orbiting",
+   "feeling": "social gravity",
+   "vehicles": [
+    "campus",
+    "orbit"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 13,
+   "verified": true,
+   "quote": "Vee had walked back to her dorm not feeling her feet.",
+   "picture": "floating",
+   "feeling": "dazed elation",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 13,
+   "verified": true,
+   "quote": "like an hour she'd been let borrow inside a brighter life",
+   "picture": "borrowed hour",
+   "feeling": "borrowed glamour",
+   "vehicles": [
+    "hour",
+    "life"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 15,
+   "verified": true,
+   "quote": "She had run it both ways enough times to wear a groove.",
+   "picture": "worn groove",
+   "feeling": "obsessive rumination",
+   "vehicles": [
+    "groove"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 17,
+   "verified": true,
+   "quote": "so that her hand would have somewhere to be",
+   "picture": "hand needing a place",
+   "feeling": "anxious occupation",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 25,
+   "verified": true,
+   "quote": "she'd meant it like you mean *we should get lunch*",
+   "picture": "empty pleasantry",
+   "feeling": "insincere offer",
+   "vehicles": [
+    "lunch"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 25,
+   "verified": true,
+   "quote": "the question was about to be answered by default",
+   "picture": "default win",
+   "feeling": "deflating resignation",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 29,
+   "verified": true,
+   "quote": "looking at Vee with her whole face lit",
+   "picture": "lit lamp",
+   "feeling": "radiant delight",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 33,
+   "verified": true,
+   "quote": "a warm wave of her came with it",
+   "picture": "warm wave",
+   "feeling": "presence washing over",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 33,
+   "verified": true,
+   "quote": "This room is a *cave*.",
+   "picture": "a cave",
+   "feeling": "dark enclosed room",
+   "vehicles": [
+    "cave"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the room",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 33,
+   "verified": true,
+   "quote": "dressed for a Wednesday-morning stats lecture like it was somewhere worth being seen",
+   "picture": "stage",
+   "feeling": "dressing to be seen",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 33,
+   "verified": true,
+   "quote": "Her face was done, with the kind of light hand",
+   "picture": "deft touch",
+   "feeling": "skilled subtle makeup",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 35,
+   "verified": true,
+   "quote": "it warmed her like praise she'd worked for",
+   "picture": "earned praise warmth",
+   "feeling": "pleased flattery",
+   "vehicles": [
+    "praise"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 37,
+   "verified": true,
+   "quote": "the warmth swung over and landed there, total, undimmed",
+   "picture": "swinging lamp",
+   "feeling": "attention turned on someone",
+   "vehicles": [
+    "lamp",
+    "light"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 37,
+   "verified": true,
+   "quote": "as though Cassie were the next wonderful thing in a room full of them",
+   "picture": "wonders in a room",
+   "feeling": "lavish attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 47,
+   "verified": true,
+   "quote": "She didn't take the bit's open door",
+   "picture": "open door",
+   "feeling": "declined invitation",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 47,
+   "verified": true,
+   "quote": "she just put her name down flat in the space",
+   "picture": "setting an object down",
+   "feeling": "blunt plain answer",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 49,
+   "verified": true,
+   "quote": "Vee felt the small hitch of it",
+   "picture": "a snag",
+   "feeling": "small social snag",
+   "vehicles": [
+    "hitch"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 49,
+   "verified": true,
+   "quote": "her own social fluency came up under it",
+   "picture": "support rising beneath",
+   "feeling": "reflexive rescue",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 49,
+   "verified": true,
+   "quote": "You'll learn to read them like tea leaves.",
+   "picture": "tea leaves",
+   "feeling": "cryptic meaning",
+   "vehicles": [
+    "tea leaf"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie's words",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 51,
+   "verified": true,
+   "quote": "taking the flat little *Cassie* as if it were the best thing anyone had handed her",
+   "picture": "handed gift",
+   "feeling": "delight at receiving",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 51,
+   "verified": true,
+   "quote": "like nine of them land",
+   "picture": "landing",
+   "feeling": "few words connecting",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's words",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 53,
+   "verified": true,
+   "quote": "an opening left for her that she didn't take",
+   "picture": "open gap",
+   "feeling": "invitation offered",
+   "vehicles": [
+    "opening"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 53,
+   "verified": true,
+   "quote": "being the one the warmth returned to",
+   "picture": "warmth returning",
+   "feeling": "favored attention",
+   "vehicles": [
+    "warmth"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 53,
+   "verified": true,
+   "quote": "the granular happy fact of the three of them in a row",
+   "picture": "grain",
+   "feeling": "small concrete happiness",
+   "vehicles": [
+    "grain"
+   ],
+   "sensation": "none",
+   "applies_to": "the moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 55,
+   "verified": true,
+   "quote": "the room came down to a murmur and then to nothing",
+   "picture": "descending",
+   "feeling": "quieting",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "Randi was a presence at her right elbow the whole hour",
+   "picture": "a presence",
+   "feeling": "dominating nearness",
+   "vehicles": [
+    "presence"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "like she had been given something to do, a small office",
+   "picture": "an official post",
+   "feeling": "feeling useful and chosen",
+   "vehicles": [
+    "office"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "the drone you surface from to copy a definition and sink back under",
+   "picture": "water",
+   "feeling": "drifting attention",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the lecture",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "Vee surfaced. Vee sank.",
+   "picture": "swimmer",
+   "feeling": "attention rising and falling",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "the pleasure of the problem opening",
+   "picture": "opening",
+   "feeling": "understanding unfolding",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "the problem",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "she was letting it go by like scenery",
+   "picture": "passing scenery",
+   "feeling": "ignoring passing",
+   "vehicles": [
+    "scenery"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the lecture",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 57,
+   "verified": true,
+   "quote": "smelling like cold citrus",
+   "picture": "citrus",
+   "feeling": "fresh scent",
+   "vehicles": [
+    "citrus"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 59,
+   "verified": true,
+   "quote": "the room made its small collective shift, sensing the end",
+   "picture": "a creature sensing",
+   "feeling": "collective restlessness",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 61,
+   "verified": true,
+   "quote": "the word sat there in her notebook, underlined once, going nowhere",
+   "picture": "stranded object",
+   "feeling": "inert leftover",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 65,
+   "verified": true,
+   "quote": "Okay, I'm *dying*",
+   "picture": "death",
+   "feeling": "intense craving",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 67,
+   "verified": true,
+   "quote": "going into it alone felt like walking into someone's party that you hadn't been invited to",
+   "picture": "uninvited party",
+   "feeling": "excluded trespassing",
+   "vehicles": [
+    "party"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 67,
+   "verified": true,
+   "quote": "Vee felt the *yes* arrive in her chest fully formed",
+   "picture": "arriving thing",
+   "feeling": "eager assent",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 67,
+   "verified": true,
+   "quote": "so it would not come out the size it actually was",
+   "picture": "sized object",
+   "feeling": "hiding eagerness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's eagerness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 69,
+   "verified": true,
+   "quote": "got most of the eagerness folded down",
+   "picture": "folded cloth",
+   "feeling": "suppressed eagerness",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 71,
+   "verified": true,
+   "quote": "Randi turned the wattage.",
+   "picture": "lamp wattage",
+   "feeling": "intensified charm",
+   "vehicles": [
+    "lamp",
+    "wattage"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 71,
+   "verified": true,
+   "quote": "the warmth swinging over again, with nothing held back",
+   "picture": "swinging lamp",
+   "feeling": "attention turned",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 79,
+   "verified": true,
+   "quote": "a voice with nothing in it but the fact",
+   "picture": "empty vessel",
+   "feeling": "flat plainness",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 79,
+   "verified": true,
+   "quote": "something passed over her face, brief",
+   "picture": "passing shadow",
+   "feeling": "fleeting emotion",
+   "vehicles": [
+    "shadow"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 83,
+   "verified": true,
+   "quote": "It landed a little wrong.",
+   "picture": "awkward landing",
+   "feeling": "slightly off",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Cassie's goodbye",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 83,
+   "verified": true,
+   "quote": "Something in the word caught, briefly",
+   "picture": "snagging",
+   "feeling": "unease",
+   "vehicles": [
+    "snag"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 83,
+   "verified": true,
+   "quote": "flat and finished",
+   "picture": "closed object",
+   "feeling": "finality",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "the word goodbye",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 83,
+   "verified": true,
+   "quote": "her face did the thing it did with wrongness, which was to smooth it",
+   "picture": "smoothing surface",
+   "feeling": "covering unease",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 87,
+   "verified": true,
+   "quote": "She let it stand. She didn't fix it.",
+   "picture": "standing structure",
+   "feeling": "leaving unresolved",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 87,
+   "verified": true,
+   "quote": "the better thing was moving and Vee went with it",
+   "picture": "a current",
+   "feeling": "swept along",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 91,
+   "verified": true,
+   "quote": "the letters resolved as they hadn't before",
+   "picture": "image coming into focus",
+   "feeling": "sudden understanding",
+   "vehicles": [
+    "lens"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the sign",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 95,
+   "verified": true,
+   "quote": "the rest tipping over into English in her mouth",
+   "picture": "tipping",
+   "feeling": "sound shifting into meaning",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the sign",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 95,
+   "verified": true,
+   "quote": "the way a thing is funny only once you're allowed in on it",
+   "picture": "being let in",
+   "feeling": "insider belonging",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "the joke",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 95,
+   "verified": true,
+   "quote": "She had stood outside this exact joke.",
+   "picture": "standing outside",
+   "feeling": "exclusion",
+   "vehicles": [
+    "joke"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 95,
+   "verified": true,
+   "quote": "that small fact went through her, warm, all the way down",
+   "picture": "warmth traveling",
+   "feeling": "pleased belonging",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 97,
+   "verified": true,
+   "quote": "bright as a kitchen in a commercial",
+   "picture": "commercial kitchen",
+   "feeling": "staged brightness",
+   "vehicles": [
+    "kitchen",
+    "commercial"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the coffee shop",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 97,
+   "verified": true,
+   "quote": "the smell you'd want to live in",
+   "picture": "a home",
+   "feeling": "cozy desire",
+   "vehicles": [
+    "house"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the smell",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 97,
+   "verified": true,
+   "quote": "dark and warm and close",
+   "picture": "enclosing",
+   "feeling": "cozy density",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the smell",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 99,
+   "verified": true,
+   "quote": "taking its measure to find her own place in it",
+   "picture": "measuring",
+   "feeling": "assessing",
+   "vehicles": [
+    "measure"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 101,
+   "verified": true,
+   "quote": "the kind other girls measured themselves against",
+   "picture": "yardstick",
+   "feeling": "social standard",
+   "vehicles": [
+    "yardstick"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Chi Latte girls",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 101,
+   "verified": true,
+   "quote": "faces done exactly and a shade too loudly",
+   "picture": "loud volume",
+   "feeling": "overdone makeup",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "none",
+   "applies_to": "the girls",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 103,
+   "verified": true,
+   "quote": "the word arriving whole and in her mother's voice",
+   "picture": "arriving voice",
+   "feeling": "inherited judgment",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 105,
+   "verified": true,
+   "quote": "riding under it where she didn't look",
+   "picture": "undercurrent",
+   "feeling": "hidden attraction",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's looking",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 105,
+   "verified": true,
+   "quote": "the easy ownership of being mostly bare in a public room",
+   "picture": "owning",
+   "feeling": "confidence",
+   "vehicles": [
+    "property"
+   ],
+   "sensation": "none",
+   "applies_to": "the girls",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 107,
+   "verified": true,
+   "quote": "the one that lived in her mother's mouth and had moved into hers",
+   "picture": "tenant moving",
+   "feeling": "internalized judgment",
+   "vehicles": [
+    "mouth",
+    "house"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the second voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 107,
+   "verified": true,
+   "quote": "the picture closed itself",
+   "picture": "closing door",
+   "feeling": "shutting off desire",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the thought",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 109,
+   "verified": true,
+   "quote": "she was the most of what the room was selling",
+   "picture": "merchandise",
+   "feeling": "embodying allure",
+   "vehicles": [
+    "merchandise"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 109,
+   "verified": true,
+   "quote": "she did not look at either fact straight",
+   "picture": "averted gaze",
+   "feeling": "avoidance",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 111,
+   "verified": true,
+   "quote": "all of it went quiet",
+   "picture": "quiet falling",
+   "feeling": "inner stillness",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's mind",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 113,
+   "verified": true,
+   "quote": "Randi wasn't in it.",
+   "picture": "outside the room",
+   "feeling": "set apart",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 113,
+   "verified": true,
+   "quote": "the want had nowhere to put itself",
+   "picture": "want as object",
+   "feeling": "overflowing longing",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 113,
+   "verified": true,
+   "quote": "it sat there in Vee's chest, warm, unexamined, glad",
+   "picture": "warm thing resting",
+   "feeling": "settled gladness",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's want",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 113,
+   "verified": true,
+   "quote": "the want you keep for a thing you've only ever seen from a distance",
+   "picture": "kept treasure",
+   "feeling": "distant longing",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "like something in a display",
+   "picture": "shop display",
+   "feeling": "being on show",
+   "vehicles": [
+    "display"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "girls on stools",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "her body presented at the height the whole room could see",
+   "picture": "presented object",
+   "feeling": "exposure",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "up at the bright window like something in a display",
+   "picture": "a shop display",
+   "feeling": "being put on show",
+   "vehicles": [
+    "display"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the girls at the high table",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "that's where you sit if you belong here",
+   "picture": "a seat of belonging",
+   "feeling": "social belonging as placement",
+   "vehicles": [
+    "seat"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the high table",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "Her body knew how to do this much.",
+   "picture": "a body that knows",
+   "feeling": "practiced bodily competence",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 117,
+   "verified": true,
+   "quote": "she was a girl at the high table at Chi Latte",
+   "picture": "a role taken on",
+   "feeling": "new identity of belonging",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "the ordinary opening moves of two people finding the shape of each other",
+   "picture": "chess opening",
+   "feeling": "getting acquainted",
+   "vehicles": [
+    "chess",
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "something in her shifted",
+   "picture": "shifting weight",
+   "feeling": "inner adjustment",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "she knew what she'd just been handed",
+   "picture": "handed object",
+   "feeling": "receiving information",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "she'd turned all that warmth on Vee anyway",
+   "picture": "turned lamp",
+   "feeling": "attention directed",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "hold onto it",
+   "picture": "gripping something",
+   "feeling": "keeping up with talk",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "opening moves of two people finding the shape of each other",
+   "picture": "a chess game; shaping",
+   "feeling": "tentative getting acquainted",
+   "vehicles": [
+    "chess",
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "she was near the top of it",
+   "picture": "a hierarchy as height",
+   "feeling": "high social standing",
+   "vehicles": [
+    "top"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "she'd turned all that warmth on Vee",
+   "picture": "a lamp or tap turned on",
+   "feeling": "attention directed at someone",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 119,
+   "verified": true,
+   "quote": "what she'd just been handed",
+   "picture": "a gift passed over",
+   "feeling": "receiving information as given",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 121,
+   "verified": true,
+   "quote": "this was the part she would not be able to give back",
+   "picture": "returnable gift",
+   "feeling": "unrecoverable memory",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 121,
+   "verified": true,
+   "quote": "the part she would not be able to give back",
+   "picture": "returning an object",
+   "feeling": "unretrievable memory",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "as if a word were a thing you held to the light before letting go of it",
+   "picture": "held to light",
+   "feeling": "savoring words",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's speech",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "the a's came up arched and lifted",
+   "picture": "arched shape",
+   "feeling": "elegant vowels",
+   "vehicles": [
+    "arch"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi's accent",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "come from further off than a sister in the house",
+   "picture": "distance",
+   "feeling": "exotic origin",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "Randi had something in her mouth that wasn't from anywhere near here",
+   "picture": "an object in the mouth",
+   "feeling": "foreign accent",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's accent",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "the esses ran a half-beat long, and the a's came up arched and lifted",
+   "picture": "moving, arched shapes",
+   "feeling": "accent's shaped vowels",
+   "vehicles": [
+    "arch"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi's speech",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "further off than a sister in the house and a parking ticket",
+   "picture": "physical distance",
+   "feeling": "exotic origin",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 123,
+   "verified": true,
+   "quote": "left it alone",
+   "picture": "leaving an object",
+   "feeling": "not probing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "felt it go in like a key in a lock",
+   "picture": "key in lock",
+   "feeling": "perfect fit of flattery",
+   "vehicles": [
+    "key",
+    "lock"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "She had hung on every one of them",
+   "picture": "hanging on",
+   "feeling": "rapt attention",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "felt clever and chosen and lit up at the window",
+   "picture": "lit lamp",
+   "feeling": "glowing pride",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "the leaning-in was the whole content",
+   "picture": "container",
+   "feeling": "feeling over substance",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the conversation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "the feeling was total and the transcript was blank",
+   "picture": "blank page",
+   "feeling": "lost words",
+   "vehicles": [
+    "transcript",
+    "page"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's memory",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "the words it had been leaning toward had not stayed",
+   "picture": "words leaving",
+   "feeling": "memory fading",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "reconstruct what they had actually talked about",
+   "picture": "rebuilding a structure",
+   "feeling": "recalling conversation",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "She could get the *shape* of it",
+   "picture": "an outline",
+   "feeling": "general outline of memory",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "none",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "Vee had felt it go in like a key in a lock",
+   "picture": "a key in a lock",
+   "feeling": "flattery fitting perfectly",
+   "vehicles": [
+    "key",
+    "lock"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the flattery",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "the words were gone",
+   "picture": "vanished things",
+   "feeling": "memory lost",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the words",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "had leaned in",
+   "picture": "leaning toward",
+   "feeling": "eager attention",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "the sweet-smelling yellow room with the spoons ringing all around",
+   "picture": "ringing bells",
+   "feeling": "cafe sounds",
+   "vehicles": [
+    "bell"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the cafe",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 125,
+   "verified": true,
+   "quote": "She had not been keeping the words. She had been keeping the feeling",
+   "picture": "keeping possessions",
+   "feeling": "retaining feeling not words",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 129,
+   "verified": true,
+   "quote": "the cold-citrus smell of her",
+   "picture": "cold citrus",
+   "feeling": "crisp scent",
+   "vehicles": [
+    "citrus"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 129,
+   "verified": true,
+   "quote": "looked at her with the whole lit face",
+   "picture": "a lit lamp",
+   "feeling": "radiant attention",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 129,
+   "verified": true,
+   "quote": "the gold Greek sign",
+   "picture": "gold",
+   "feeling": "sign's color",
+   "vehicles": [
+    "gold"
+   ],
+   "sensation": "none",
+   "applies_to": "the sign",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 131,
+   "verified": true,
+   "quote": "to land the last of it warm and easy and certain",
+   "picture": "landing a throw",
+   "feeling": "delivering a parting line",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 131,
+   "verified": true,
+   "quote": "warm and easy and certain",
+   "picture": "warmth",
+   "feeling": "affectionate ease",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's farewell",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 133,
+   "verified": true,
+   "quote": "a thing already scheduled in some calendar Vee couldn't see",
+   "picture": "an unseen calendar",
+   "feeling": "fate decided by another",
+   "vehicles": [
+    "calendar"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the later",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 133,
+   "verified": true,
+   "quote": "the queen having decided there would be a later",
+   "picture": "a queen's decree",
+   "feeling": "randi's sovereign power",
+   "vehicles": [
+    "queen"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "into the bright cool day",
+   "picture": "entering a space",
+   "feeling": "going out into day",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "the sign she had finally been let in under",
+   "picture": "a gate admitting entry",
+   "feeling": "admitted to the group",
+   "vehicles": [
+    "gate"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "spinning a little",
+   "picture": "a spinning top",
+   "feeling": "giddy elation",
+   "vehicles": [
+    "top"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "the *later* doing in her chest what the right pen had done",
+   "picture": "an agent acting in the chest",
+   "feeling": "chest swell of delight",
+   "vehicles": [
+    "chest",
+    "pen"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the word later",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "Already the words were going.",
+   "picture": "things departing",
+   "feeling": "memory fading",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the words",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 137,
+   "verified": true,
+   "quote": "came up with none of them",
+   "picture": "fishing up",
+   "feeling": "failing to recall",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "see-you-later",
+   "line": 139,
+   "verified": true,
+   "quote": "warm the whole way there",
+   "picture": "warmth",
+   "feeling": "contentment",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "see-you-later",
+   "line": 139,
+   "verified": true,
+   "quote": "went home the long way",
+   "picture": "a longer road",
+   "feeling": "unhurried",
+   "vehicles": [
+    "way"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  }
+ ]
+}

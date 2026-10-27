@@ -1,0 +1,837 @@
+{
+ "slug": "gone",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "668ab9892c84",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "gone",
+   "line": 7,
+   "verified": true,
+   "quote": "her hair spilled black and fine across his skin",
+   "picture": "spilled liquid",
+   "feeling": "hair spreading over him",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Randi's hair",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 7,
+   "verified": true,
+   "quote": "The room held the smell",
+   "picture": "a container",
+   "feeling": "their scent lingering",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the room",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 7,
+   "verified": true,
+   "quote": "that cool voice with the warmth folded under it",
+   "picture": "folded warm material",
+   "feeling": "warmth beneath restraint",
+   "vehicles": [
+    "material"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Sade's voice",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 9,
+   "verified": true,
+   "quote": "the urgency had gone out of him",
+   "picture": "something leaving a container",
+   "feeling": "urgency subsiding",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 9,
+   "verified": true,
+   "quote": "Whatever she ran on out in the world",
+   "picture": "a fueled machine",
+   "feeling": "randi's outward energy",
+   "vehicles": [
+    "machine",
+    "fuel"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 9,
+   "verified": true,
+   "quote": "she set it down at his door",
+   "picture": "a carried burden",
+   "feeling": "release from outward demands",
+   "vehicles": [
+    "burden",
+    "door"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 17,
+   "verified": true,
+   "quote": "this canoe of a shoe",
+   "picture": "a canoe",
+   "feeling": "the shoe's great size",
+   "vehicles": [
+    "canoe"
+   ],
+   "sensation": "none",
+   "applies_to": "the shoe",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 17,
+   "verified": true,
+   "quote": "does the whole bigfoot for me",
+   "picture": "a big foot",
+   "feeling": "playful oversized-foot performance",
+   "vehicles": [
+    "foot"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 17,
+   "verified": true,
+   "quote": "She went so red I thought she'd go up",
+   "picture": "something catching fire",
+   "feeling": "intense embarrassment",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 17,
+   "verified": true,
+   "quote": "That was kind of hot",
+   "picture": "heat",
+   "feeling": "sexual attraction",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's embarrassment",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 21,
+   "verified": true,
+   "quote": "She got past me before I could help it",
+   "picture": "passing a guard",
+   "feeling": "unguarded attachment",
+   "vehicles": [
+    "guard"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 31,
+   "verified": true,
+   "quote": "She's got it *bad*",
+   "picture": "an illness",
+   "feeling": "strong romantic attachment",
+   "vehicles": [
+    "illness"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 33,
+   "verified": true,
+   "quote": "There was something undefended in her face",
+   "picture": "unguarded defenses",
+   "feeling": "visible vulnerability",
+   "vehicles": [
+    "defense"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 35,
+   "verified": true,
+   "quote": "she stayed in it a moment",
+   "picture": "an enclosing space",
+   "feeling": "lingering in the kiss",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 37,
+   "verified": true,
+   "quote": "You've spoiled her for being hurried",
+   "picture": "something spoiled",
+   "feeling": "preference for unhurried intimacy",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 39,
+   "verified": true,
+   "quote": "taking my time",
+   "picture": "time as a possession",
+   "feeling": "unhurried attention",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 41,
+   "verified": true,
+   "quote": "take your time",
+   "picture": "time as a possession",
+   "feeling": "unhurried attention",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 45,
+   "verified": true,
+   "quote": "You do nice work",
+   "picture": "skilled work",
+   "feeling": "appreciation of his intimacy",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 49,
+   "verified": true,
+   "quote": "Her fingers found the white-gold bracelet",
+   "picture": "fingers searching",
+   "feeling": "a small familiar gesture",
+   "vehicles": [
+    "finger"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's fingers",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 51,
+   "verified": true,
+   "quote": "Vee, glowing",
+   "picture": "a glowing light",
+   "feeling": "radiant beauty",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 53,
+   "verified": true,
+   "quote": "she hides in that cardigan",
+   "picture": "a hiding place",
+   "feeling": "concealment of her body",
+   "vehicles": [
+    "hiding place"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 55,
+   "verified": true,
+   "quote": "without heat",
+   "picture": "heat",
+   "feeling": "absence of anger",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Pace's speech",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 57,
+   "verified": true,
+   "quote": "softened past it",
+   "picture": "softening material",
+   "feeling": "tenderness after reflection",
+   "vehicles": [
+    "material"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 57,
+   "verified": true,
+   "quote": "she's so gone over you",
+   "picture": "going away",
+   "feeling": "strong romantic attachment",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 59,
+   "verified": true,
+   "quote": "her voice dropped half a register",
+   "picture": "a downward drop",
+   "feeling": "voice becoming lower",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Randi's voice",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 59,
+   "verified": true,
+   "quote": "went somewhere low and hoarse",
+   "picture": "travel to a low place",
+   "feeling": "voice becoming low and hoarse",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's voice",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 59,
+   "verified": true,
+   "quote": "It's *criminal*",
+   "picture": "a crime",
+   "feeling": "astonished sexual admiration",
+   "vehicles": [
+    "crime"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 61,
+   "verified": true,
+   "quote": "It went through him low",
+   "picture": "something passing through a body",
+   "feeling": "sudden sexual response",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 61,
+   "verified": true,
+   "quote": "his body remembered the other weight",
+   "picture": "a remembering body",
+   "feeling": "sensual recall of vee",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 61,
+   "verified": true,
+   "quote": "the whole room taken up with her",
+   "picture": "a filled room",
+   "feeling": "vee dominating his attention",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 63,
+   "verified": true,
+   "quote": "what she does to a room",
+   "picture": "a changed room",
+   "feeling": "vee's effect on others",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 67,
+   "verified": true,
+   "quote": "the whole thing goes brighter",
+   "picture": "a brightening room",
+   "feeling": "vee enlivening the room",
+   "vehicles": [
+    "room",
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the room",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 67,
+   "verified": true,
+   "quote": "Like somebody found the lamp",
+   "picture": "a lamp lit",
+   "feeling": "vee enlivening the room",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the room",
+   "pov": "Pace",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 69,
+   "verified": true,
+   "quote": "the kind that takes holding",
+   "picture": "holding something still",
+   "feeling": "deliberate restrained stillness",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's stillness",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 69,
+   "verified": true,
+   "quote": "something gathered under it",
+   "picture": "something accumulating",
+   "feeling": "tension building beneath stillness",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 73,
+   "verified": true,
+   "quote": "a slow smile came up out of the still",
+   "picture": "something rising",
+   "feeling": "smile emerging from stillness",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi's smile",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 79,
+   "verified": true,
+   "quote": "coming apart by degrees",
+   "picture": "something coming apart",
+   "feeling": "gradual loss of composure",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 79,
+   "verified": true,
+   "quote": "the blue on her toes the last composed thing left of her",
+   "picture": "composure as intactness",
+   "feeling": "physical abandon",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 79,
+   "verified": true,
+   "quote": "as it built",
+   "picture": "a growing structure",
+   "feeling": "mounting sexual intensity",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's arousal",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 79,
+   "verified": true,
+   "quote": "there was nothing quiet left in either of them",
+   "picture": "quiet as a substance",
+   "feeling": "shared physical abandon",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Pace and Randi",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 82,
+   "verified": true,
+   "quote": "the chill took her fast",
+   "picture": "a grasping chill",
+   "feeling": "sudden cold",
+   "vehicles": [],
+   "sensation": "cold or chill",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 82,
+   "verified": true,
+   "quote": "the shivering went through",
+   "picture": "something passing through",
+   "feeling": "shivering running its course",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 84,
+   "verified": true,
+   "quote": "the cold had left her",
+   "picture": "a departing presence",
+   "feeling": "cold subsiding",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 96,
+   "verified": true,
+   "quote": "freed her hair from the neck",
+   "picture": "hair held captive",
+   "feeling": "hair released from shirt",
+   "vehicles": [
+    "captive"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi's hair",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 102,
+   "verified": true,
+   "quote": "a disagreement over flowers",
+   "picture": "something held above",
+   "feeling": "dispute about flowers",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the disagreement",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 102,
+   "verified": true,
+   "quote": "survive the first minute",
+   "picture": "a living creature",
+   "feeling": "disagreement continuing unexpectedly",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "none",
+   "applies_to": "the disagreement",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 102,
+   "verified": true,
+   "quote": "occupied most of an hour",
+   "picture": "occupied space",
+   "feeling": "time spent disagreeing",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "none",
+   "applies_to": "the disagreement",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 110,
+   "verified": true,
+   "quote": "she unwound one hand from the shirt",
+   "picture": "unwinding a coil",
+   "feeling": "hand released from shirt",
+   "vehicles": [
+    "coil"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi's hand",
+   "pov": "Pace",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "gone",
+   "line": 114,
+   "verified": true,
+   "quote": "It started a little rough",
+   "picture": "a rough surface",
+   "feeling": "an uneasy beginning",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's presentation",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 118,
+   "verified": true,
+   "quote": "the area I'm working in",
+   "picture": "an area of land",
+   "feeling": "his field of study",
+   "vehicles": [
+    "area",
+    "land"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's field",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 120,
+   "verified": true,
+   "quote": "turn out okay",
+   "picture": "something coming out",
+   "feeling": "the result of an event",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the event",
+   "pov": "speaker",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 122,
+   "verified": true,
+   "quote": "I got into presenting",
+   "picture": "entering a space",
+   "feeling": "becoming absorbed in presenting",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Pace",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 122,
+   "verified": true,
+   "quote": "got into presenting",
+   "picture": "entering a space",
+   "feeling": "becoming engaged in presenting",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the speaker",
+   "pov": "speaker",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "gone",
+   "line": 126,
+   "verified": true,
+   "quote": "Pace, darling.",
+   "picture": "a measured walking speed",
+   "feeling": "moderating the drinking",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "her drinking",
+   "pov": "she",
+   "kind": "idiom",
+   "literal_maybe": false
+  }
+ ]
+}

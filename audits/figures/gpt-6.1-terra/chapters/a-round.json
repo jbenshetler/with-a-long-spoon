@@ -1,0 +1,2990 @@
+{
+ "slug": "a-round",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "845cb645993d",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "a-round",
+   "line": 3,
+   "verified": true,
+   "quote": "\"Keep still\" holds the line",
+   "picture": "a held boundary",
+   "feeling": "contact kept at bay",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "\"Keep still\"",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 13,
+   "verified": true,
+   "quote": "the question that came",
+   "picture": "an approaching visitor",
+   "feeling": "a question arising",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's question",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 13,
+   "verified": true,
+   "quote": "The traitorous question",
+   "picture": "a betrayer",
+   "feeling": "unwelcome self-doubt",
+   "vehicles": [
+    "traitor"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 13,
+   "verified": true,
+   "quote": "she set it down where she'd set the jeans",
+   "picture": "a put-down object",
+   "feeling": "question put aside",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 17,
+   "verified": true,
+   "quote": "her body was still lean and straight",
+   "picture": "a straight line",
+   "feeling": "an earlier body shape",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 17,
+   "verified": true,
+   "quote": "the way the sport wanted them",
+   "picture": "a demanding person",
+   "feeling": "pressure to fit",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the sport",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 17,
+   "verified": true,
+   "quote": "it had come in, all at once, into curves",
+   "picture": "an arriving shape",
+   "feeling": "sudden bodily change",
+   "vehicles": [
+    "curve"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 17,
+   "verified": true,
+   "quote": "curves the clean line had no use for",
+   "picture": "a clean line",
+   "feeling": "body excluded by swimming",
+   "vehicles": [
+    "curve",
+    "line"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 19,
+   "verified": true,
+   "quote": "the warmth to soak all the way into the rooms",
+   "picture": "soaking liquid",
+   "feeling": "rooms warmed through",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the warmth",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 19,
+   "verified": true,
+   "quote": "something in her let go",
+   "picture": "a loosened grip",
+   "feeling": "relief at his care",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 21,
+   "verified": true,
+   "quote": "It changes the line",
+   "picture": "an altered outline",
+   "feeling": "body shape altered",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "none",
+   "applies_to": "the bra",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 21,
+   "verified": true,
+   "quote": "It'll lie to me",
+   "picture": "a lying person",
+   "feeling": "a misleading measurement",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the bra",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 22,
+   "verified": true,
+   "quote": "Something dropped out of her",
+   "picture": "a falling object",
+   "feeling": "sudden dismay",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 22,
+   "verified": true,
+   "quote": "the way you let yourself not know a thing for as long as the room permits",
+   "picture": "a permitting room",
+   "feeling": "knowledge held at bay",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 22,
+   "verified": true,
+   "quote": "The room no longer permitted",
+   "picture": "a forbidding room",
+   "feeling": "avoidance becoming impossible",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's situation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "handed him the sight of her",
+   "picture": "a handed gift",
+   "feeling": "deliberate self-exposure",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "the gladness in him the whole of the answer",
+   "picture": "a spoken answer",
+   "feeling": "gladness as reassurance",
+   "vehicles": [
+    "answer"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's gladness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "a charged, dripping minute",
+   "picture": "an electrical charge",
+   "feeling": "intense mutual desire",
+   "vehicles": [
+    "charge"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the earlier moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "the wanting already loud in both of them",
+   "picture": "a loud sound",
+   "feeling": "urgent mutual desire",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee and Pace's wanting",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "the seeing swept up inside it",
+   "picture": "a sweeping current",
+   "feeling": "seeing absorbed by desire",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's seeing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 24,
+   "verified": true,
+   "quote": "gone past the point where being looked at could be its own event",
+   "picture": "a point on a path",
+   "feeling": "self-consciousness overtaken by desire",
+   "vehicles": [
+    "point",
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the earlier moment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 26,
+   "verified": true,
+   "quote": "A small ugly word arrived from the back of her mind",
+   "picture": "an arriving visitor",
+   "feeling": "an intrusive judgment",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the word stripper",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 26,
+   "verified": true,
+   "quote": "in her mother's register",
+   "picture": "a voice register",
+   "feeling": "her mother's familiar judgment",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "none",
+   "applies_to": "the word stripper",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 26,
+   "verified": true,
+   "quote": "The word stayed where it was, the way her mother's words always did",
+   "picture": "a lingering object",
+   "feeling": "judgment refusing to leave",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the word stripper",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 28,
+   "verified": true,
+   "quote": "the move a woman makes in the dark or under cover laid bare in the afternoon light",
+   "picture": "an exposed body",
+   "feeling": "private gesture made visible",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's gesture",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 32,
+   "verified": true,
+   "quote": "Her arms wanted to come up across herself",
+   "picture": "arms with wishes",
+   "feeling": "urge to cover herself",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's arms",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 32,
+   "verified": true,
+   "quote": "the wrongness of the geometry",
+   "picture": "a geometric arrangement",
+   "feeling": "unequal exposure",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 32,
+   "verified": true,
+   "quote": "to take it back",
+   "picture": "a retrieved object",
+   "feeling": "urge to undo consent",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's consent",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "She had braced for the look",
+   "picture": "a body bracing",
+   "feeling": "expectation of discomfort",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "She had braced for a particular kind of male attention",
+   "picture": "a body bracing",
+   "feeling": "expectation of unwanted attention",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "she hunted for the word",
+   "picture": "a hunted animal",
+   "feeling": "searching for a description",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "she wasn't blind",
+   "picture": "impaired eyesight",
+   "feeling": "awareness of his desire",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "his want at the edges of how he held the tape",
+   "picture": "an object's edges",
+   "feeling": "desire subtly apparent",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's want",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 36,
+   "verified": true,
+   "quote": "he saw her, fully",
+   "picture": "full sight",
+   "feeling": "being fully recognized",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 44,
+   "verified": true,
+   "quote": "His eyes dropped",
+   "picture": "falling eyes",
+   "feeling": "attention moving downward",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 48,
+   "verified": true,
+   "quote": "the light fell",
+   "picture": "falling light",
+   "feeling": "light reaching the riser",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the light",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 48,
+   "verified": true,
+   "quote": "the full reach of the afternoon light",
+   "picture": "a reaching arm",
+   "feeling": "complete visual exposure",
+   "vehicles": [
+    "arm"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the afternoon light",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 48,
+   "verified": true,
+   "quote": "her feet caught up with her",
+   "picture": "a pursuing traveler",
+   "feeling": "belated awareness of footing",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's feet",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 48,
+   "verified": true,
+   "quote": "the wood under them smooth as fine furniture",
+   "picture": "fine furniture",
+   "feeling": "smooth finished wood",
+   "vehicles": [
+    "furniture"
+   ],
+   "sensation": "none",
+   "applies_to": "the riser",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 50,
+   "verified": true,
+   "quote": "he started gently, the way you'd gentle a horse",
+   "picture": "a gentled horse",
+   "feeling": "care with her unease",
+   "vehicles": [
+    "horse"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Pace's manner with Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 52,
+   "verified": true,
+   "quote": "anchor the tape",
+   "picture": "an anchored vessel",
+   "feeling": "tape held in place",
+   "vehicles": [
+    "anchor",
+    "vessel"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the tape",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 52,
+   "verified": true,
+   "quote": "he held her inside that closeness",
+   "picture": "an enclosing space",
+   "feeling": "brief intimate contact",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 52,
+   "verified": true,
+   "quote": "the withdrawal left the place his hands had been ringing",
+   "picture": "a ringing bell",
+   "feeling": "touch lingering after withdrawal",
+   "vehicles": [
+    "bell"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's skin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 54,
+   "verified": true,
+   "quote": "she fought a small lurch of wanting to cross her arms",
+   "picture": "a sudden lurch",
+   "feeling": "sudden urge to hide",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's urge",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 56,
+   "verified": true,
+   "quote": "his gaze slowed",
+   "picture": "a slowing traveler",
+   "feeling": "lingering visual attention",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's gaze",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 58,
+   "verified": true,
+   "quote": "the pads of his fingers rode the whole length of her arm",
+   "picture": "a rider",
+   "feeling": "continuous moving contact",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's fingers",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 58,
+   "verified": true,
+   "quote": "reading the shape of her through his hands",
+   "picture": "a read text",
+   "feeling": "shape understood through touch",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace's touch",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 58,
+   "verified": true,
+   "quote": "She was learning the rhythm of it",
+   "picture": "a repeated beat",
+   "feeling": "growing familiarity with measuring",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the measuring",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 60,
+   "verified": true,
+   "quote": "his breath arriving against her skin",
+   "picture": "an arriving visitor",
+   "feeling": "awareness of his breath",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's breath",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 60,
+   "verified": true,
+   "quote": "his fingertips finding each other",
+   "picture": "people finding each other",
+   "feeling": "hands meeting behind her",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's fingertips",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 60,
+   "verified": true,
+   "quote": "the shop still on his skin",
+   "picture": "a workshop",
+   "feeling": "his work lingering on him",
+   "vehicles": [
+    "shop"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's scent",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 62,
+   "verified": true,
+   "quote": "the soft unguarded place",
+   "picture": "an unguarded place",
+   "feeling": "physical vulnerability",
+   "vehicles": [
+    "guard"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's waist",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 62,
+   "verified": true,
+   "quote": "a sound that wasn't quite a laugh caught behind her teeth",
+   "picture": "a trapped object",
+   "feeling": "a restrained involuntary sound",
+   "vehicles": [
+    "object",
+    "tooth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's sound",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 64,
+   "verified": true,
+   "quote": "the grin arrived",
+   "picture": "an arriving visitor",
+   "feeling": "spontaneous delight",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's grin",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 64,
+   "verified": true,
+   "quote": "the careful steadiness he'd been holding",
+   "picture": "a held object",
+   "feeling": "deliberate composure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Pace's manner",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 66,
+   "verified": true,
+   "quote": "his knuckles riding the underside of her",
+   "picture": "a rider",
+   "feeling": "continuous intimate contact",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's knuckles",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 66,
+   "verified": true,
+   "quote": "the tape found its level",
+   "picture": "a searching person",
+   "feeling": "tape settling into place",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the tape",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 70,
+   "verified": true,
+   "quote": "his fingers finding the path",
+   "picture": "a path",
+   "feeling": "careful movement across her",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's fingers",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 70,
+   "verified": true,
+   "quote": "the texture of him arriving all at once",
+   "picture": "an arriving visitor",
+   "feeling": "sudden awareness of touch",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace's touch",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 70,
+   "verified": true,
+   "quote": "the way a thing your skin has brushed a dozen times will suddenly be the only thing you can feel",
+   "picture": "a brushed surface",
+   "feeling": "familiar touch becoming vivid",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace's touch",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 70,
+   "verified": true,
+   "quote": "none of it had reached her the way it did now",
+   "picture": "an arriving object",
+   "feeling": "touch newly registering",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Pace's touch",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 74,
+   "verified": true,
+   "quote": "She came back",
+   "picture": "a returning traveler",
+   "feeling": "attention returning to present",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 78,
+   "verified": true,
+   "quote": "a real laugh, surprised out of him",
+   "picture": "a forced-out object",
+   "feeling": "involuntary laughter",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's laugh",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 78,
+   "verified": true,
+   "quote": "the laugh tapered",
+   "picture": "a narrowing shape",
+   "feeling": "laughter gradually fading",
+   "vehicles": [
+    "shape"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's laugh",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 78,
+   "verified": true,
+   "quote": "the one he wore",
+   "picture": "a worn garment",
+   "feeling": "a familiar expression",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's look",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 78,
+   "verified": true,
+   "quote": "something genuinely interesting had landed in front of him",
+   "picture": "a landed object",
+   "feeling": "a question catching interest",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace's thought",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 78,
+   "verified": true,
+   "quote": "he was turning it over",
+   "picture": "a turned object",
+   "feeling": "thoughtful examination",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's thought",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 82,
+   "verified": true,
+   "quote": "He was still looking up at her but he was somewhere else now, somewhere behind his own eyes",
+   "picture": "a place behind eyes",
+   "feeling": "absorption in thought",
+   "vehicles": [
+    "place",
+    "eye"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 82,
+   "verified": true,
+   "quote": "in his hands, something worth getting right",
+   "picture": "an object in hands",
+   "feeling": "her concern treated seriously",
+   "vehicles": [
+    "hand",
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's concern",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 82,
+   "verified": true,
+   "quote": "the laugh in her own chest like something releasing",
+   "picture": "a released object",
+   "feeling": "tension giving way",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's laugh",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 82,
+   "verified": true,
+   "quote": "the grin was out before she had any say in it",
+   "picture": "an escaping object",
+   "feeling": "involuntary pleasure",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's grin",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 82,
+   "verified": true,
+   "quote": "I stumped him",
+   "picture": "an obstructing stump",
+   "feeling": "having puzzled him",
+   "vehicles": [
+    "stump"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 86,
+   "verified": true,
+   "quote": "Then he was back",
+   "picture": "a returning traveler",
+   "feeling": "attention returning to work",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 88,
+   "verified": true,
+   "quote": "the line of her",
+   "picture": "a line",
+   "feeling": "the contour of her leg",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's leg",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 88,
+   "verified": true,
+   "quote": "Her stomach dropped",
+   "picture": "a falling stomach",
+   "feeling": "sudden anxious anticipation",
+   "vehicles": [
+    "stomach"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 88,
+   "verified": true,
+   "quote": "as if she'd walked into class and seen **QUIZ TODAY** on the board when she'd forgotten there was one",
+   "picture": "a surprise quiz",
+   "feeling": "sudden unprepared anxiety",
+   "vehicles": [
+    "class",
+    "quiz",
+    "board"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 90,
+   "verified": true,
+   "quote": "her mother's voice arrived from somewhere it had no business being",
+   "picture": "an arriving intruder",
+   "feeling": "an intrusive remembered judgment",
+   "vehicles": [
+    "intruder"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her mother's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 92,
+   "verified": true,
+   "quote": "She closed her eyes for a beat against it",
+   "picture": "a physical assault",
+   "feeling": "resistance to intrusive fear",
+   "vehicles": [
+    "assailant"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 96,
+   "verified": true,
+   "quote": "The pad was full of her",
+   "picture": "a filled container",
+   "feeling": "body recorded in measurements",
+   "vehicles": [
+    "pad",
+    "container"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the pad",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 96,
+   "verified": true,
+   "quote": "Every part of her, turned into numbers",
+   "picture": "a transformed body",
+   "feeling": "body rendered as measurements",
+   "vehicles": [
+    "number"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 96,
+   "verified": true,
+   "quote": "the rhythm of it had worked on her like a slow tide",
+   "picture": "a slow tide",
+   "feeling": "desire gradually building",
+   "vehicles": [
+    "tide"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the measuring",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 96,
+   "verified": true,
+   "quote": "standing on nothing but the wanting",
+   "picture": "an unstable footing",
+   "feeling": "desire dominating her awareness",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 96,
+   "verified": true,
+   "quote": "the wanting it had left stacked up in her with nowhere to go",
+   "picture": "a stack of objects",
+   "feeling": "accumulated unreleased desire",
+   "vehicles": [
+    "stack",
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's wanting",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 102,
+   "verified": true,
+   "quote": "attention turned sideways",
+   "picture": "a turned object",
+   "feeling": "care expressed indirectly",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's attention",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 106,
+   "verified": true,
+   "quote": "learned to manage out of existence in public",
+   "picture": "an erased object",
+   "feeling": "habitual concealment of arousal",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 108,
+   "verified": true,
+   "quote": "Her stomach went cold",
+   "picture": "a chilled stomach",
+   "feeling": "sudden dread",
+   "vehicles": [
+    "stomach"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 110,
+   "verified": true,
+   "quote": "the silk falling open into shapes",
+   "picture": "a falling object",
+   "feeling": "fabric opening under cutting",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "opening",
+   "applies_to": "the silk",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 110,
+   "verified": true,
+   "quote": "the color went deeper still",
+   "picture": "a deep place",
+   "feeling": "color growing more intense",
+   "vehicles": [
+    "depth"
+   ],
+   "sensation": "none",
+   "applies_to": "the silk's color",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 110,
+   "verified": true,
+   "quote": "almost living",
+   "picture": "a living creature",
+   "feeling": "color appearing vividly alive",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "none",
+   "applies_to": "the silk's color",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 110,
+   "verified": true,
+   "quote": "she tried to drown in that",
+   "picture": "deep water",
+   "feeling": "seeking complete distraction",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 110,
+   "verified": true,
+   "quote": "not in what was happening lower down",
+   "picture": "deep water",
+   "feeling": "fear of engulfing arousal",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 112,
+   "verified": true,
+   "quote": "asking her body a thing she'd long since learned it doesn't answer to",
+   "picture": "an unresponsive person",
+   "feeling": "inability to control arousal",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 116,
+   "verified": true,
+   "quote": "the size of a thumbprint",
+   "picture": "a thumbprint",
+   "feeling": "small visible stain",
+   "vehicles": [
+    "thumbprint"
+   ],
+   "sensation": "none",
+   "applies_to": "the spot",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 118,
+   "verified": true,
+   "quote": "if she gave in",
+   "picture": "a yielding barrier",
+   "feeling": "resistance giving way",
+   "vehicles": [
+    "barrier"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 118,
+   "verified": true,
+   "quote": "the wanting would quiet",
+   "picture": "a quieting sound",
+   "feeling": "desire becoming less urgent",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's wanting",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 120,
+   "verified": true,
+   "quote": "the way you know weather coming in",
+   "picture": "approaching weather",
+   "feeling": "certainty of worsening arousal",
+   "vehicles": [
+    "weather"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's anticipation",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 120,
+   "verified": true,
+   "quote": "she had a long way still to fall",
+   "picture": "a long fall",
+   "feeling": "anticipation of worsening arousal",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 120,
+   "verified": true,
+   "quote": "counted the maybes",
+   "picture": "counted objects",
+   "feeling": "repeated uncertain hopes",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "her hopes",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 122,
+   "verified": true,
+   "quote": "the small steady spreading wrongness",
+   "picture": "a spreading stain",
+   "feeling": "growing awareness of arousal",
+   "vehicles": [
+    "stain"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 128,
+   "verified": true,
+   "quote": "his palm flat over the silk reading the lie of it against her",
+   "picture": "reading a text",
+   "feeling": "careful tactile attention",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "his palm",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 128,
+   "verified": true,
+   "quote": "a kind of living dress form",
+   "picture": "a dress form",
+   "feeling": "herself as a support",
+   "vehicles": [
+    "dress form"
+   ],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 128,
+   "verified": true,
+   "quote": "no different in function from the wooden riser under her feet",
+   "picture": "a wooden riser",
+   "feeling": "herself as an object",
+   "vehicles": [
+    "riser"
+   ],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 128,
+   "verified": true,
+   "quote": "lend her own body out to the work",
+   "picture": "a loaned object",
+   "feeling": "distance from her body",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 130,
+   "verified": true,
+   "quote": "building a dress on a form",
+   "picture": "a dress form",
+   "feeling": "impersonal attention to her",
+   "vehicles": [
+    "dress form"
+   ],
+   "sensation": "none",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 132,
+   "verified": true,
+   "quote": "She stopped being a dress form",
+   "picture": "a dress form",
+   "feeling": "her sense of being seen",
+   "vehicles": [
+    "dress form"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 132,
+   "verified": true,
+   "quote": "she set it down quickly",
+   "picture": "a set-down object",
+   "feeling": "a thought quickly dismissed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the word Muse",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 134,
+   "verified": true,
+   "quote": "a picture in his head",
+   "picture": "a mental picture",
+   "feeling": "his imagined design",
+   "vehicles": [
+    "picture",
+    "head"
+   ],
+   "sensation": "none",
+   "applies_to": "his idea of her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 134,
+   "verified": true,
+   "quote": "there was no way to be a dress form for that",
+   "picture": "a dress form",
+   "feeling": "her individuality being noticed",
+   "vehicles": [
+    "dress form"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 134,
+   "verified": true,
+   "quote": "there was nowhere in that to hide",
+   "picture": "a hiding place",
+   "feeling": "inescapable personal exposure",
+   "vehicles": [
+    "hiding place"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 136,
+   "verified": true,
+   "quote": "the whole shape of his palm reading the shape of her",
+   "picture": "reading a text",
+   "feeling": "intimate tactile attention",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his palm",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 136,
+   "verified": true,
+   "quote": "felt like less than nothing under his hand",
+   "picture": "no intervening layer",
+   "feeling": "almost unmediated touch",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the silk",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 138,
+   "verified": true,
+   "quote": "the work forgotten for a breath",
+   "picture": "a single breath",
+   "feeling": "a brief distraction",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the pause in his work",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 138,
+   "verified": true,
+   "quote": "his attention left the dress and came to rest on her",
+   "picture": "something settling on her",
+   "feeling": "attention turned toward her",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "his attention",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 138,
+   "verified": true,
+   "quote": "he had the dress to build, and it had him",
+   "picture": "a captor holding someone",
+   "feeling": "his absorption in work",
+   "vehicles": [
+    "captor"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 138,
+   "verified": true,
+   "quote": "It thrilled her and it unnerved her in the same breath",
+   "picture": "a single breath",
+   "feeling": "excitement mixed with anxiety",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "her feelings",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 140,
+   "verified": true,
+   "quote": "underneath it, the old thing",
+   "picture": "something beneath a layer",
+   "feeling": "an underlying familiar feeling",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her arousal",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 142,
+   "verified": true,
+   "quote": "the warm betrayal of it",
+   "picture": "a betrayer",
+   "feeling": "her body exposing desire",
+   "vehicles": [
+    "betrayer"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "her wetness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 142,
+   "verified": true,
+   "quote": "there was nowhere to put it",
+   "picture": "an object without a place",
+   "feeling": "no way to contain embarrassment",
+   "vehicles": [
+    "object",
+    "place"
+   ],
+   "sensation": "none",
+   "applies_to": "her wetness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 142,
+   "verified": true,
+   "quote": "her mind kept snagging on",
+   "picture": "something caught on a snag",
+   "feeling": "repeated fixation",
+   "vehicles": [
+    "snag"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her mind",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 142,
+   "verified": true,
+   "quote": "he pinned his way down her",
+   "picture": "a path downward",
+   "feeling": "his gradual progress downward",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his pinning",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 144,
+   "verified": true,
+   "quote": "her body had decided",
+   "picture": "a deciding person",
+   "feeling": "involuntary bodily response",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 144,
+   "verified": true,
+   "quote": "the air found it",
+   "picture": "a searching person",
+   "feeling": "air reaching wet fabric",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the air",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 144,
+   "verified": true,
+   "quote": "the slow appalling spread of evidence",
+   "picture": "physical evidence",
+   "feeling": "visible proof of desire",
+   "vehicles": [
+    "evidence"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the spreading wet patch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 152,
+   "verified": true,
+   "quote": "The hope was visible",
+   "picture": "visible hope",
+   "feeling": "her desire made visible",
+   "vehicles": [
+    "hope"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the wet patch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 152,
+   "verified": true,
+   "quote": "The hope was sized to be seen across the room",
+   "picture": "a visible object",
+   "feeling": "her desire conspicuously exposed",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the wet patch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 152,
+   "verified": true,
+   "quote": "Her shame made plain and dressed up in the fabric",
+   "picture": "shame wearing fabric",
+   "feeling": "embarrassment made visible",
+   "vehicles": [
+    "fabric",
+    "clothing"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the wet patch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 156,
+   "verified": true,
+   "quote": "She felt the geography of it",
+   "picture": "a landscape",
+   "feeling": "awareness of his position",
+   "vehicles": [
+    "landscape"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his movement around her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 156,
+   "verified": true,
+   "quote": "couldn't read his face",
+   "picture": "reading a text",
+   "feeling": "uncertainty about his reaction",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "his face",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 158,
+   "verified": true,
+   "quote": "It landed low in her stomach and stayed",
+   "picture": "something landing",
+   "feeling": "touch felt deep inside",
+   "vehicles": [
+    "object",
+    "stomach"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his touch",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 160,
+   "verified": true,
+   "quote": "His hands loosened another notch of her",
+   "picture": "a loosened fastening",
+   "feeling": "another release of desire",
+   "vehicles": [
+    "fastening",
+    "notch"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 160,
+   "verified": true,
+   "quote": "more wanting worked loose than she could hold still around",
+   "picture": "something worked loose",
+   "feeling": "desire escaping restraint",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her wanting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 160,
+   "verified": true,
+   "quote": "the thought arrived with a lurch",
+   "picture": "a sudden lurch",
+   "feeling": "sudden anxious realization",
+   "vehicles": [
+    "lurch"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "her thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 162,
+   "verified": true,
+   "quote": "Pedestal",
+   "picture": "a pedestal",
+   "feeling": "her elevated exposed position",
+   "vehicles": [
+    "pedestal"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the riser",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 162,
+   "verified": true,
+   "quote": "the place she'd been dying over",
+   "picture": "dying",
+   "feeling": "intense embarrassment",
+   "vehicles": [
+    "death"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her embarrassment",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 166,
+   "verified": true,
+   "quote": "the whole furniture of shame",
+   "picture": "a furnished room",
+   "feeling": "familiar furnishings of shame",
+   "vehicles": [
+    "furniture",
+    "room"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her shame",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 168,
+   "verified": true,
+   "quote": "the room held still",
+   "picture": "a person holding still",
+   "feeling": "suspended silence",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 172,
+   "verified": true,
+   "quote": "the whole tender hour had been a courtesy he was holding in place around something else",
+   "picture": "a covering held in place",
+   "feeling": "fear of concealed disgust",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "his courtesy",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 178,
+   "verified": true,
+   "quote": "The joke of her",
+   "picture": "a joke",
+   "feeling": "herself as an object of ridicule",
+   "vehicles": [
+    "joke"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 178,
+   "verified": true,
+   "quote": "She'd been bracing for it her whole life",
+   "picture": "bracing against an impact",
+   "feeling": "lifelong expectation of ridicule",
+   "vehicles": [
+    "impact"
+   ],
+   "sensation": "tightening",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 180,
+   "verified": true,
+   "quote": "the smile of a man who had just received an unexpected gift",
+   "picture": "an unexpected gift",
+   "feeling": "delight at an unexpected offering",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "his smile",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 182,
+   "verified": true,
+   "quote": "he could reach her eyes from down there",
+   "picture": "reaching a destination",
+   "feeling": "his effort to meet her gaze",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "his gaze",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 182,
+   "verified": true,
+   "quote": "the smile had had time to settle onto him and stay",
+   "picture": "something settling on him",
+   "feeling": "a lasting smile",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his smile",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 184,
+   "verified": true,
+   "quote": "The whole time she'd been dying",
+   "picture": "dying",
+   "feeling": "intense embarrassment",
+   "vehicles": [
+    "death"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 188,
+   "verified": true,
+   "quote": "She caught herself doing it",
+   "picture": "catching a moving person",
+   "feeling": "sudden self-awareness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 190,
+   "verified": true,
+   "quote": "The apologetic stoop she'd been holding since she stepped up came undone",
+   "picture": "an undone fastening",
+   "feeling": "her posture releasing",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her stoop",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 190,
+   "verified": true,
+   "quote": "lifting toward something she had no name for",
+   "picture": "rising toward something",
+   "feeling": "an unnamed emerging feeling",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 192,
+   "verified": true,
+   "quote": "He cut his eyes sideways",
+   "picture": "a sideways cut",
+   "feeling": "a quick sideways glance",
+   "vehicles": [
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "his gaze",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 198,
+   "verified": true,
+   "quote": "Something shifted in her",
+   "picture": "a shifting object",
+   "feeling": "an inner change",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "her feelings",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 198,
+   "verified": true,
+   "quote": "The dread drained out",
+   "picture": "liquid draining",
+   "feeling": "dread subsiding",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "her dread",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 198,
+   "verified": true,
+   "quote": "something warmer and bolder rushed in to fill the space",
+   "picture": "warm liquid rushing in",
+   "feeling": "boldness replacing dread",
+   "vehicles": [
+    "liquid",
+    "space"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "her emerging feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 198,
+   "verified": true,
+   "quote": "a kind of power she'd never been issued",
+   "picture": "an issued possession",
+   "feeling": "newly discovered personal power",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "none",
+   "applies_to": "her power",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "She started spending it",
+   "picture": "spending money",
+   "feeling": "using her new power",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "none",
+   "applies_to": "her power",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "nothing in her sat down and schemed",
+   "picture": "a seated schemer",
+   "feeling": "her actions arising spontaneously",
+   "vehicles": [
+    "person",
+    "seat"
+   ],
+   "sensation": "none",
+   "applies_to": "her intentions",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "it spilled out of her",
+   "picture": "spilling liquid",
+   "feeling": "uncontrolled expression of desire",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "her behavior",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "the wanting rising up and out",
+   "picture": "rising liquid",
+   "feeling": "desire emerging unbidden",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "her wanting",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "her hand found the back of his",
+   "picture": "a searching hand",
+   "feeling": "her hand meeting his",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "her hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "more than the dress asked",
+   "picture": "a person asking",
+   "feeling": "movement beyond the work",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 200,
+   "verified": true,
+   "quote": "reading the fall of the fabric",
+   "picture": "reading a text",
+   "feeling": "careful attention to fabric",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "his attention",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 204,
+   "verified": true,
+   "quote": "her body kept arranging without consulting her",
+   "picture": "a scheming person",
+   "feeling": "bodily actions seeming independent",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "her body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 204,
+   "verified": true,
+   "quote": "went to her head like the wine the color of the cloth",
+   "picture": "wine going to the head",
+   "feeling": "intoxicating excitement",
+   "vehicles": [
+    "wine",
+    "head"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "his faltering breath and steady hands",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 212,
+   "verified": true,
+   "quote": "blooming under his skin",
+   "picture": "a blooming flower",
+   "feeling": "his flush spreading",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "his flush",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 214,
+   "verified": true,
+   "quote": "He fought it",
+   "picture": "a fight",
+   "feeling": "resistance to smiling",
+   "vehicles": [
+    "opponent"
+   ],
+   "sensation": "tightening",
+   "applies_to": "his grin",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 214,
+   "verified": true,
+   "quote": "press his lips together to kill it",
+   "picture": "killing a living thing",
+   "feeling": "an attempt to suppress smiling",
+   "vehicles": [
+    "living thing"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "his grin",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 214,
+   "verified": true,
+   "quote": "a small helpless laugh escape him",
+   "picture": "an escaping captive",
+   "feeling": "involuntary laughter",
+   "vehicles": [
+    "captive"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his laugh",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 214,
+   "verified": true,
+   "quote": "losing the line entirely",
+   "picture": "a lost line",
+   "feeling": "losing composure completely",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his composure",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 218,
+   "verified": true,
+   "quote": "the tiny bead of it",
+   "picture": "a tiny bead",
+   "feeling": "a small drop of blood",
+   "vehicles": [
+    "bead"
+   ],
+   "sensation": "none",
+   "applies_to": "her blood",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 220,
+   "verified": true,
+   "quote": "the way you put your hand out before you think",
+   "picture": "an outstretched hand",
+   "feeling": "an instinctive response",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his kiss",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 222,
+   "verified": true,
+   "quote": "a man on the very edge of a thing he could have fallen into so easily",
+   "picture": "an edge and a fall",
+   "feeling": "nearness to yielding to desire",
+   "vehicles": [
+    "edge",
+    "fall"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 226,
+   "verified": true,
+   "quote": "a silence she watched him spend deciding",
+   "picture": "spending money",
+   "feeling": "time used in deliberation",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 226,
+   "verified": true,
+   "quote": "the easy yes she was all but handing him",
+   "picture": "an offered object",
+   "feeling": "her apparent invitation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "her implied consent",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 226,
+   "verified": true,
+   "quote": "the choosing cost him",
+   "picture": "a payment",
+   "feeling": "effort required for restraint",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his choice",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 234,
+   "verified": true,
+   "quote": "as if that were the clearest way to ask",
+   "picture": "a spoken request",
+   "feeling": "touch used as a request",
+   "vehicles": [
+    "request"
+   ],
+   "sensation": "none",
+   "applies_to": "his touch behind her knee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 238,
+   "verified": true,
+   "quote": "reading the lie of the fabric",
+   "picture": "reading a text",
+   "feeling": "attention to the fabric",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 240,
+   "verified": true,
+   "quote": "like it had grown there",
+   "picture": "growth from skin",
+   "feeling": "cloth fitting naturally",
+   "vehicles": [
+    "skin",
+    "plant"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the cloth",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 240,
+   "verified": true,
+   "quote": "everything he went all the way into",
+   "picture": "entering a space",
+   "feeling": "his thorough involvement",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his pursuits",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 240,
+   "verified": true,
+   "quote": "her whole skin was singing",
+   "picture": "singing skin",
+   "feeling": "intense bodily excitement",
+   "vehicles": [
+    "singer"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "her skin",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 240,
+   "verified": true,
+   "quote": "the cloth lying against her bare skin like it had grown there",
+   "picture": "grown skin",
+   "feeling": "cloth fitting intimately",
+   "vehicles": [
+    "skin"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the cloth",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 242,
+   "verified": true,
+   "quote": "Somewhere under the singing",
+   "picture": "something beneath a sound",
+   "feeling": "knowledge beneath excitement",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "her knowledge",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 242,
+   "verified": true,
+   "quote": "she had nearly toppled this contained, careful man",
+   "picture": "a person toppling",
+   "feeling": "nearly overturning his restraint",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "him",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 242,
+   "verified": true,
+   "quote": "Somewhere under the singing was the dazed new knowledge",
+   "picture": "things in layers",
+   "feeling": "knowledge beneath bodily awareness",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "none",
+   "applies_to": "her knowledge",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 242,
+   "verified": true,
+   "quote": "this contained, careful man",
+   "picture": "a closed container",
+   "feeling": "controlled emotional bearing",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the man",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 246,
+   "verified": true,
+   "quote": "under the singing and under the knowledge",
+   "picture": "layers covering something",
+   "feeling": "an unrecognized deeper feeling",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "her unnamed feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 246,
+   "verified": true,
+   "quote": "find words for",
+   "picture": "finding an object",
+   "feeling": "difficulty expressing a feeling",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "her unnamed feeling",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "a-round",
+   "line": 248,
+   "verified": true,
+   "quote": "being seen at her most ashamed",
+   "picture": "an exposed person",
+   "feeling": "shame witnessed by another",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "a-round",
+   "line": 248,
+   "verified": true,
+   "quote": "been found wanting",
+   "picture": "a failed inspection",
+   "feeling": "accepted despite her shame",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "her",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  }
+ ]
+}

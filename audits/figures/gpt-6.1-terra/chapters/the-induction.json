@@ -1,0 +1,1006 @@
+{
+ "slug": "the-induction",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "86cc66636148",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "the-induction",
+   "line": 5,
+   "verified": true,
+   "quote": "inductees peeled off",
+   "picture": "a layer peeling away",
+   "feeling": "people separating from others",
+   "vehicles": [
+    "layer"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the inductees",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 7,
+   "verified": true,
+   "quote": "It came out flatter than she meant it",
+   "picture": "a flattened object",
+   "feeling": "speech lacking intended feeling",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 7,
+   "verified": true,
+   "quote": "the rest of it came out too",
+   "picture": "contents leaving a container",
+   "feeling": "remaining thoughts spoken aloud",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's thoughts",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 11,
+   "verified": true,
+   "quote": "Vee went after the true one",
+   "picture": "pursuing a target",
+   "feeling": "searching for truthful words",
+   "vehicles": [
+    "target"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 11,
+   "verified": true,
+   "quote": "a sentence Cassie could take",
+   "picture": "an object being received",
+   "feeling": "words cassie could accept",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's sentence",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 11,
+   "verified": true,
+   "quote": "left it where it was",
+   "picture": "an object left untouched",
+   "feeling": "leaving a thought unspoken",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's thought",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 13,
+   "verified": true,
+   "quote": "from Cassie was a standing ovation",
+   "picture": "an audience applauding",
+   "feeling": "exceptionally strong unspoken praise",
+   "vehicles": [
+    "audience",
+    "ovation"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Cassie's unfinished remark",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 15,
+   "verified": true,
+   "quote": "the light in bars along the floor",
+   "picture": "bars across a floor",
+   "feeling": "light in long strips",
+   "vehicles": [
+    "bar"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the light",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 15,
+   "verified": true,
+   "quote": "the safe department-store navy",
+   "picture": "safety from danger",
+   "feeling": "reassuringly conventional clothing",
+   "vehicles": [
+    "danger"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the navy clothing",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 17,
+   "verified": true,
+   "quote": "cut across the long line the dress made of her",
+   "picture": "a line being cut",
+   "feeling": "the dress's shape interrupted",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the edge of underwear",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 17,
+   "verified": true,
+   "quote": "the small choreography of a woman with a secret keeping it",
+   "picture": "a choreographed dance",
+   "feeling": "careful movements concealing exposure",
+   "vehicles": [
+    "dance"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's movements",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 17,
+   "verified": true,
+   "quote": "it had felt like a private joke she was in on",
+   "picture": "a shared private joke",
+   "feeling": "private amusement and complicity",
+   "vehicles": [
+    "joke"
+   ],
+   "sensation": "none",
+   "applies_to": "wearing the dress bare",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 19,
+   "verified": true,
+   "quote": "they had gone around it twice",
+   "picture": "circling an obstacle",
+   "feeling": "repeatedly discussing the cost",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee and her parents",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 19,
+   "verified": true,
+   "quote": "the bright voice",
+   "picture": "bright light",
+   "feeling": "cheerfulness masking disappointment",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee's mother",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 19,
+   "verified": true,
+   "quote": "the part she had not been able to hand Cassie",
+   "picture": "an object handed over",
+   "feeling": "a feeling she couldn't convey",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's unspoken feeling",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 19,
+   "verified": true,
+   "quote": "arriving now on its own",
+   "picture": "a visitor arriving",
+   "feeling": "an unbidden realization emerging",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's unspoken feeling",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 21,
+   "verified": true,
+   "quote": "the dress wanted the height",
+   "picture": "a person wanting something",
+   "feeling": "the dress calling for heels",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 21,
+   "verified": true,
+   "quote": "a frosted plum that woke",
+   "picture": "a person waking",
+   "feeling": "nail polish becoming luminous",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee's nail polish",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 21,
+   "verified": true,
+   "quote": "threw the light",
+   "picture": "a thrown object",
+   "feeling": "nail polish reflecting light",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Vee's nail polish",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 23,
+   "verified": true,
+   "quote": "the dates came clear",
+   "picture": "an image clearing",
+   "feeling": "the scheduling conflict becoming apparent",
+   "vehicles": [
+    "image"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the dates",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 23,
+   "verified": true,
+   "quote": "neither would move",
+   "picture": "an immovable object",
+   "feeling": "both events staying scheduled",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the conference and induction",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 23,
+   "verified": true,
+   "quote": "it had come out thin",
+   "picture": "a thin object",
+   "feeling": "reassurance sounding unconvincing",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's reassurance",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 23,
+   "verified": true,
+   "quote": "the whole thing still ahead of her",
+   "picture": "a journey ahead",
+   "feeling": "the ceremony still to come",
+   "vehicles": [
+    "journey"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the induction",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 25,
+   "verified": true,
+   "quote": "She'd built a picture of this",
+   "picture": "a constructed picture",
+   "feeling": "imagining the ceremony",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 25,
+   "verified": true,
+   "quote": "the room turning to look",
+   "picture": "a room turning",
+   "feeling": "everyone watching her entrance",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 25,
+   "verified": true,
+   "quote": "the actual room was warm and dull and kind",
+   "picture": "a kindly person",
+   "feeling": "an unthreatening social atmosphere",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 25,
+   "verified": true,
+   "quote": "No one was going to turn on their own",
+   "picture": "a person turning",
+   "feeling": "no one looking unprompted",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 29,
+   "verified": true,
+   "quote": "the careful one, the slit lying shut, safe",
+   "picture": "safety from danger",
+   "feeling": "concealment from others' notice",
+   "vehicles": [
+    "danger"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's first step",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "she gave the room her leg",
+   "picture": "a gift given",
+   "feeling": "deliberate display of her leg",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "she let it travel down the rows",
+   "picture": "an object traveling",
+   "feeling": "her leg seen by spectators",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's leg",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "She stalked across the stage",
+   "picture": "a stalking animal",
+   "feeling": "deliberate confident movement",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "giving them away a step at a time",
+   "picture": "gifts given away",
+   "feeling": "deliberately displaying her legs",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's legs",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "did not once make herself small",
+   "picture": "a shrinking body",
+   "feeling": "refusing to appear timid",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "a murmur went through the crowd",
+   "picture": "a traveling object",
+   "feeling": "the crowd collectively reacting",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the murmur",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 33,
+   "verified": true,
+   "quote": "the sound a dull room makes when it wakes up",
+   "picture": "a person waking",
+   "feeling": "the crowd becoming alert",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "the heat came up",
+   "picture": "rising heat",
+   "feeling": "arousal rising in her",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "her body agreeing",
+   "picture": "a person giving agreement",
+   "feeling": "physical assent to her choice",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "coming up to meet a thing she'd decided",
+   "picture": "a person approaching another",
+   "feeling": "physical response meeting her decision",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's physical response",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "The eyes found her leg",
+   "picture": "searchers finding something",
+   "feeling": "spectators noticing her leg",
+   "vehicles": [
+    "searcher"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the spectators",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "the beat someone's camera wanted",
+   "picture": "a person wanting something",
+   "feeling": "time needed for a photograph",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the camera",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "absurdly light for the weight of the walk",
+   "picture": "a heavy load",
+   "feeling": "the walk's emotional consequence",
+   "vehicles": [
+    "load"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's walk",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "her name still hanging over the chairs",
+   "picture": "an object suspended overhead",
+   "feeling": "her announced name lingering",
+   "vehicles": [
+    "object",
+    "chair"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee's name",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 35,
+   "verified": true,
+   "quote": "the room knew",
+   "picture": "a knowing person",
+   "feeling": "the crowd sharing an understanding",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the people in the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 37,
+   "verified": true,
+   "quote": "Whatever the room had understood it folded up and put away",
+   "picture": "folded fabric stored away",
+   "feeling": "the crowd setting understanding aside",
+   "vehicles": [
+    "fabric"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the room's understanding",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 37,
+   "verified": true,
+   "quote": "running under the dress",
+   "picture": "a flowing current",
+   "feeling": "a continuing physical response",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's physical response",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 37,
+   "verified": true,
+   "quote": "her heart went like she'd run the whole way",
+   "picture": "a runner's racing heart",
+   "feeling": "her heart beating rapidly",
+   "vehicles": [
+    "runner",
+    "heart"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's heart",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 39,
+   "verified": true,
+   "quote": "read her fast and whole",
+   "picture": "a text being read",
+   "feeling": "quickly understanding vee",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 39,
+   "verified": true,
+   "quote": "deny to the grave",
+   "picture": "a grave",
+   "feeling": "denying it until death",
+   "vehicles": [
+    "grave"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 43,
+   "verified": true,
+   "quote": "Like a movie star",
+   "picture": "a movie star",
+   "feeling": "glamorous and commanding appearance",
+   "vehicles": [
+    "star"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Cassie",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 43,
+   "verified": true,
+   "quote": "the burgundy taking the window light",
+   "picture": "a person taking something",
+   "feeling": "fabric catching the light",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 43,
+   "verified": true,
+   "quote": "like it was lit from inside",
+   "picture": "light inside fabric",
+   "feeling": "the dress appearing luminous",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 43,
+   "verified": true,
+   "quote": "her face giving away absolutely nothing",
+   "picture": "an object given away",
+   "feeling": "her expression concealing feelings",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's face",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 43,
+   "verified": true,
+   "quote": "every part of it handled",
+   "picture": "an object held in hand",
+   "feeling": "complete control of the situation",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 45,
+   "verified": true,
+   "quote": "knew to the heartbeat what second it was",
+   "picture": "a heartbeat marking time",
+   "feeling": "precise recognition of the moment",
+   "vehicles": [
+    "heartbeat"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 45,
+   "verified": true,
+   "quote": "None of that was in the picture. Or all of it was",
+   "picture": "feelings inside a photograph",
+   "feeling": "hidden experience within an image",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's experience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 47,
+   "verified": true,
+   "quote": "what else was in the frame",
+   "picture": "feelings inside a frame",
+   "feeling": "private meaning in the photograph",
+   "vehicles": [
+    "frame"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's experience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 49,
+   "verified": true,
+   "quote": "streetlight",
+   "picture": "a glowing streetlight",
+   "feeling": "vee's striking luminous appearance",
+   "vehicles": [
+    "streetlight"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "Cassie",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 49,
+   "verified": true,
+   "quote": "Cassie steered her by the elbow",
+   "picture": "a vehicle being steered",
+   "feeling": "cassie guiding vee",
+   "vehicles": [
+    "vehicle"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 51,
+   "verified": true,
+   "quote": "the high room emptying of its light",
+   "picture": "a container being emptied",
+   "feeling": "daylight fading in the room",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 51,
+   "verified": true,
+   "quote": "The dread of it was behind her now",
+   "picture": "an obstacle left behind",
+   "feeling": "dread giving way to relief",
+   "vehicles": [
+    "obstacle"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's dread",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "the-induction",
+   "line": 51,
+   "verified": true,
+   "quote": "didn't make herself small",
+   "picture": "a shrinking body",
+   "feeling": "refusing to appear timid",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "the-induction",
+   "line": 51,
+   "verified": true,
+   "quote": "the same heat still running",
+   "picture": "a flowing current",
+   "feeling": "arousal continuing through her",
+   "vehicles": [
+    "current",
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

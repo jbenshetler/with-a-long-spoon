@@ -1,0 +1,3268 @@
+{
+ "slug": "how-its-done",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "62977f81721c",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "how-its-done",
+   "line": 15,
+   "verified": true,
+   "quote": "Vee felt the attention like sun on her face",
+   "picture": "sun on skin",
+   "feeling": "warm focused attention",
+   "vehicles": [
+    "sun",
+    "face"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Cassie's attention",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 19,
+   "verified": true,
+   "quote": "it came out",
+   "picture": "something emerging",
+   "feeling": "unplanned disclosure",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee's confession",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 19,
+   "verified": true,
+   "quote": "I'd already let it go.",
+   "picture": "releasing a held thing",
+   "feeling": "giving up a hope",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the induction dress hope",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 29,
+   "verified": true,
+   "quote": "he went *deeper*",
+   "picture": "depth of colour",
+   "feeling": "richer, darker colour",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the silk colour",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 29,
+   "verified": true,
+   "quote": "the image had come back, the two of them caught in the mirror",
+   "picture": "returning visitor, trapped catch",
+   "feeling": "memory resurfacing",
+   "vehicles": [
+    "mirror"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's memory",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 31,
+   "verified": true,
+   "quote": "working it",
+   "picture": "working a problem like material",
+   "feeling": "mentally processing",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 31,
+   "verified": true,
+   "quote": "like she was setting the fact down somewhere",
+   "picture": "setting down an object",
+   "feeling": "deliberate absorption of fact",
+   "vehicles": [
+    "fact"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Cassie",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 47,
+   "verified": true,
+   "quote": "the small smile settling in",
+   "picture": "something settling in",
+   "feeling": "smile taking hold",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Cassie's smile",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 49,
+   "verified": true,
+   "quote": "none of it added up",
+   "picture": "arithmetic sum",
+   "feeling": "puzzling inconsistency",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the shirt",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 49,
+   "verified": true,
+   "quote": "Filed it under weird things about him.",
+   "picture": "filing a document",
+   "feeling": "setting aside a puzzle",
+   "vehicles": [
+    "file"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the shirt mystery",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 49,
+   "verified": true,
+   "quote": "So I gave up on it.",
+   "picture": "surrender",
+   "feeling": "abandoning the puzzle",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the shirt mystery",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 53,
+   "verified": true,
+   "quote": "He said it like it was nothing.",
+   "picture": "nothing",
+   "feeling": "casual offhandedness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 55,
+   "verified": true,
+   "quote": "the answer in her hands the whole time",
+   "picture": "answer held in hands",
+   "feeling": "missed obvious answer",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the shirt",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 55,
+   "verified": true,
+   "quote": "she'd decided it was a riddle and stopped looking",
+   "picture": "a riddle",
+   "feeling": "puzzle left unsolved",
+   "vehicles": [
+    "riddle"
+   ],
+   "sensation": "none",
+   "applies_to": "the shirt",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 57,
+   "verified": true,
+   "quote": "the quiet had gone on a beat too long",
+   "picture": "musical beat",
+   "feeling": "awkward pause",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 65,
+   "verified": true,
+   "quote": "I just filed it away.",
+   "picture": "filing a document",
+   "feeling": "noticing then setting aside",
+   "vehicles": [
+    "file"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the warm house",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 73,
+   "verified": true,
+   "quote": "her face had gone soft with it",
+   "picture": "softening",
+   "feeling": "tender sympathy",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 77,
+   "verified": true,
+   "quote": "Cassie let the pivot happen.",
+   "picture": "a turning hinge",
+   "feeling": "allowing topic change",
+   "vehicles": [
+    "pivot"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 79,
+   "verified": true,
+   "quote": "narrating with her hands",
+   "picture": "hands as storytellers",
+   "feeling": "animated gesturing",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 79,
+   "verified": true,
+   "quote": "it's basically a swimsuit",
+   "picture": "a swimsuit",
+   "feeling": "downplaying exposure",
+   "vehicles": [
+    "swimsuit"
+   ],
+   "sensation": "none",
+   "applies_to": "the bra",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 79,
+   "verified": true,
+   "quote": "okay, I survived, that's the hard part",
+   "picture": "surviving an ordeal",
+   "feeling": "relief after embarrassment",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 83,
+   "verified": true,
+   "quote": "her hands cupped her breasts and then flew outward and away",
+   "picture": "birds in flight",
+   "feeling": "sudden exposed release",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee's hands",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 83,
+   "verified": true,
+   "quote": "Like, here you go, I guess.",
+   "picture": "offering a gift",
+   "feeling": "shrugging exposure",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 85,
+   "verified": true,
+   "quote": "Cassie cracked up.",
+   "picture": "something cracking",
+   "feeling": "sudden laughter",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 87,
+   "verified": true,
+   "quote": "riding it",
+   "picture": "riding a wave",
+   "feeling": "carried by comic momentum",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 91,
+   "verified": true,
+   "quote": "Her energy ebbed half a step.",
+   "picture": "a tide going out",
+   "feeling": "energy dropping",
+   "vehicles": [
+    "tide",
+    "step"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 95,
+   "verified": true,
+   "quote": "He said it the way he says things about the work",
+   "picture": "comparison to manner",
+   "feeling": "matter-of-fact tone",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 95,
+   "verified": true,
+   "quote": "Like it was a fact.",
+   "picture": "a fact",
+   "feeling": "neutral matter-of-fact tone",
+   "vehicles": [
+    "fact"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's statement",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 95,
+   "verified": true,
+   "quote": "he left it open. He left me a door.",
+   "picture": "an open door",
+   "feeling": "offered choice",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 117,
+   "verified": true,
+   "quote": "I locked eyes with him.",
+   "picture": "a lock",
+   "feeling": "fixed mutual gaze",
+   "vehicles": [
+    "lock",
+    "eye"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 119,
+   "verified": true,
+   "quote": "The warmth in her voice had changed its key.",
+   "picture": "musical key change",
+   "feeling": "tone shifting",
+   "vehicles": [
+    "key"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Cassie's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 125,
+   "verified": true,
+   "quote": "I was braced for it to stay weird.",
+   "picture": "bracing for impact",
+   "feeling": "anticipating discomfort",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 129,
+   "verified": true,
+   "quote": "It was like his eyes asked, *May I look.*",
+   "picture": "eyes speaking",
+   "feeling": "silent request for consent",
+   "vehicles": [
+    "eye",
+    "question"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 133,
+   "verified": true,
+   "quote": "not at Cassie, at the inside of the sentence",
+   "picture": "a sentence with an interior",
+   "feeling": "turning inward on own words",
+   "vehicles": [
+    "sentence",
+    "inside"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 135,
+   "verified": true,
+   "quote": "I think I have it.",
+   "picture": "grasping an object",
+   "feeling": "understanding",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Cassie",
+   "pov": "Cassie",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 141,
+   "verified": true,
+   "quote": "Let the geometry say itself.",
+   "picture": "shapes speaking",
+   "feeling": "letting the arrangement imply meaning",
+   "vehicles": [
+    "geometry"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 155,
+   "verified": true,
+   "quote": "the afternoon had gone late and gold",
+   "picture": "gold light",
+   "feeling": "warm late light",
+   "vehicles": [
+    "gold"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the afternoon",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 161,
+   "verified": true,
+   "quote": "The quiet sat there, warm, for a moment longer.",
+   "picture": "a creature sitting",
+   "feeling": "lingering comfortable silence",
+   "vehicles": [
+    "seat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the quiet",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 161,
+   "verified": true,
+   "quote": "the way she worked a puzzle when the pieces wouldn't fit",
+   "picture": "a jigsaw puzzle",
+   "feeling": "mentally sorting facts",
+   "vehicles": [
+    "puzzle",
+    "piece"
+   ],
+   "sensation": "none",
+   "applies_to": "Cassie",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 163,
+   "verified": true,
+   "quote": "Walk me through this.",
+   "picture": "a guided walk",
+   "feeling": "asking for step-by-step account",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Cassie",
+   "pov": "Cassie",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 173,
+   "verified": true,
+   "quote": "like she was indicating it on a diagram",
+   "picture": "a diagram",
+   "feeling": "mock clinical detachment",
+   "vehicles": [
+    "diagram"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 173,
+   "verified": true,
+   "quote": "grave as a witness",
+   "picture": "a solemn witness",
+   "feeling": "mock solemnity",
+   "vehicles": [
+    "witness"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 181,
+   "verified": true,
+   "quote": "the thing she'd been keeping all the way at the bottom, and she felt it surface",
+   "picture": "something rising from deep water",
+   "feeling": "secret rising to be said",
+   "vehicles": [
+    "bottom",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 199,
+   "verified": true,
+   "quote": "it sat the way expensive things sit, without apology",
+   "picture": "a person unapologetic",
+   "feeling": "unashamed privilege",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the Mercedes",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 199,
+   "verified": true,
+   "quote": "taking up exactly the room it intended to",
+   "picture": "a person claiming space",
+   "feeling": "entitled presence",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the Mercedes",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "the performance gone out of it, the edges soft",
+   "picture": "a stage act; soft-edged object",
+   "feeling": "unguarded gentleness",
+   "vehicles": [
+    "performance",
+    "edge"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Randi's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "that took a whole room in at a stroke",
+   "picture": "seizing a room",
+   "feeling": "commanding everyone's attention",
+   "vehicles": [
+    "room",
+    "stroke"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "that Randi turned on her sisters",
+   "picture": "a tap or light switched on",
+   "feeling": "deployed charm",
+   "vehicles": [
+    "switch"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's smile",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "it stayed past when it might have stopped",
+   "picture": "a lingering guest",
+   "feeling": "smile lingering",
+   "vehicles": [
+    "guest"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "Her eyes went down Vee and came back up",
+   "picture": "eyes travelling",
+   "feeling": "appraising look",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "taking her in like the first good thing of a day that had been built around it",
+   "picture": "a day built around an object",
+   "feeling": "being prized",
+   "vehicles": [
+    "day",
+    "building"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's gaze",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 201,
+   "verified": true,
+   "quote": "Warm, approving, a little lit.",
+   "picture": "a lit lamp",
+   "feeling": "glowing delight",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 203,
+   "verified": true,
+   "quote": "Vee warmed under it",
+   "picture": "warming under sun",
+   "feeling": "pleasure at attention",
+   "vehicles": [
+    "sun"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 203,
+   "verified": true,
+   "quote": "a thing spent rather than handed around",
+   "picture": "currency",
+   "feeling": "smile as costly gift",
+   "vehicles": [
+    "coin"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's smile",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 203,
+   "verified": true,
+   "quote": "the smoothie place still to set against the doubt",
+   "picture": "weights on a scale",
+   "feeling": "counterweight to doubt",
+   "vehicles": [
+    "scale"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 203,
+   "verified": true,
+   "quote": "choosing Vee at a cost",
+   "picture": "purchase",
+   "feeling": "sacrifice made",
+   "vehicles": [
+    "price"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 203,
+   "verified": true,
+   "quote": "It had not quite finished the job.",
+   "picture": "a worker finishing a task",
+   "feeling": "doubt not fully resolved",
+   "vehicles": [
+    "job"
+   ],
+   "sensation": "none",
+   "applies_to": "the smoothie memory",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "the car closed around her",
+   "picture": "an enclosing hand",
+   "feeling": "enveloped",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the car",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "like the car was tucking itself in around her",
+   "picture": "tucking into bed",
+   "feeling": "being cared for",
+   "vehicles": [
+    "bed",
+    "blanket"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the car",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "The seat took her weight and gave it back cradled.",
+   "picture": "a cradle",
+   "feeling": "being supported",
+   "vehicles": [
+    "cradle"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the seat",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "The smell came up all around her",
+   "picture": "rising water or mist",
+   "feeling": "enveloping scent",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the smell",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "Everything she touched gave slightly and then held.",
+   "picture": "a yielding, steady body",
+   "feeling": "quality, reassuring resistance",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the car interior",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 205,
+   "verified": true,
+   "quote": "she set the thought where she set those thoughts",
+   "picture": "shelving an object",
+   "feeling": "putting away a worry",
+   "vehicles": [
+    "shelf"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 207,
+   "verified": true,
+   "quote": "throwing copper across her face",
+   "picture": "thrown metal",
+   "feeling": "hair whipping",
+   "vehicles": [
+    "copper"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's hair",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 207,
+   "verified": true,
+   "quote": "as if it were flirting with the wind and had decided how far it would go",
+   "picture": "a flirting person",
+   "feeling": "controlled playfulness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's hair",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 207,
+   "verified": true,
+   "quote": "dark and finished",
+   "picture": "a finished artwork",
+   "feeling": "polished completeness",
+   "vehicles": [
+    "artwork"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's hair",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 209,
+   "verified": true,
+   "quote": "the wind finding the collar of the cashmere and laying it open another half-inch",
+   "picture": "a hand opening a collar",
+   "feeling": "wind as intimate touch",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "opening",
+   "applies_to": "the wind",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 209,
+   "verified": true,
+   "quote": "a person to whom the wind was simply permitted that much and no more",
+   "picture": "wind granted permission",
+   "feeling": "randi's control over world",
+   "vehicles": [
+    "permit"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 209,
+   "verified": true,
+   "quote": "the one fixed thing in a wardrobe that changed itself daily",
+   "picture": "a fixed anchor",
+   "feeling": "constancy amid change",
+   "vehicles": [
+    "anchor"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the band",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 209,
+   "verified": true,
+   "quote": "kept looking too long",
+   "picture": "lingering",
+   "feeling": "staring",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 211,
+   "verified": true,
+   "quote": "felt herself lift inside it",
+   "picture": "rising",
+   "feeling": "elevated status",
+   "vehicles": [
+    "lift"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 211,
+   "verified": true,
+   "quote": "She sat in the feeling",
+   "picture": "sitting in a place",
+   "feeling": "savoring a feeling",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 211,
+   "verified": true,
+   "quote": "held the look a beat",
+   "picture": "holding an object; music beat",
+   "feeling": "lingering stare",
+   "vehicles": [
+    "beat"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the girl",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "dark as a billiard table",
+   "picture": "green billiard cloth",
+   "feeling": "deep dark green",
+   "vehicles": [
+    "billiard table"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the velvet",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "the velvet ate sound",
+   "picture": "eating",
+   "feeling": "muffled acoustics",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the velvet",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "a low textured hum with the hard edges taken off",
+   "picture": "a sanded object",
+   "feeling": "softened noise",
+   "vehicles": [
+    "edge",
+    "fabric"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "the room noise",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "Sinatra was working through one of those old standards",
+   "picture": "labour",
+   "feeling": "singer moving through song",
+   "vehicles": [
+    "work"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Sinatra",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "smooth and worn-in",
+   "picture": "worn leather",
+   "feeling": "comfortable voice",
+   "vehicles": [
+    "leather"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Sinatra's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 215,
+   "verified": true,
+   "quote": "from somewhere that was not quite anywhere",
+   "picture": "a nowhere place",
+   "feeling": "unlocated sound",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "the music",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 217,
+   "verified": true,
+   "quote": "a smell that arrived in the body before the mind",
+   "picture": "an arriving traveller",
+   "feeling": "instinctive bodily response",
+   "vehicles": [
+    "traveller"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the smell",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 217,
+   "verified": true,
+   "quote": "said *here is plenty*",
+   "picture": "smell speaking",
+   "feeling": "abundance promised",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the smell",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 219,
+   "verified": true,
+   "quote": "the hum of the rest of the room held off at the partition's edge",
+   "picture": "a barrier holding back",
+   "feeling": "seclusion",
+   "vehicles": [
+    "barrier"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the booth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 219,
+   "verified": true,
+   "quote": "each one its own half-room",
+   "picture": "a room",
+   "feeling": "semi-privacy",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the booths",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 221,
+   "verified": true,
+   "quote": "the champagne silk caught what light there was",
+   "picture": "catching an object",
+   "feeling": "silk gleaming",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the camisole",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 221,
+   "verified": true,
+   "quote": "the body you were graded against",
+   "picture": "school grading",
+   "feeling": "being measured by standard",
+   "vehicles": [
+    "grade"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 221,
+   "verified": true,
+   "quote": "Vee's own chest, under the safe black, did not do elegant.",
+   "picture": "performing a role",
+   "feeling": "incapable of elegance",
+   "vehicles": [
+    "act"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's chest",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 221,
+   "verified": true,
+   "quote": "settled into the corner of the booth like the booth had been waiting for her",
+   "picture": "a waiting host",
+   "feeling": "entitled ease",
+   "vehicles": [
+    "booth"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 221,
+   "verified": true,
+   "quote": "lit somehow in the dim room the way money is lit",
+   "picture": "lit wealth",
+   "feeling": "glowing privilege",
+   "vehicles": [
+    "money",
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 225,
+   "verified": true,
+   "quote": "She read it the way you read a road in fog, looking for what was passable.",
+   "picture": "a road in fog",
+   "feeling": "cautious navigation",
+   "vehicles": [
+    "road",
+    "fog"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 225,
+   "verified": true,
+   "quote": "The egg dishes were the low end and the low end was not low.",
+   "picture": "low position",
+   "feeling": "cheap end being expensive",
+   "vehicles": [
+    "end"
+   ],
+   "sensation": "none",
+   "applies_to": "the menu",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 227,
+   "verified": true,
+   "quote": "The salmon here is stupid",
+   "picture": "intelligence",
+   "feeling": "extremely good",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the salmon",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 227,
+   "verified": true,
+   "quote": "never once in her life had to find the bottom of a column",
+   "picture": "a column with a bottom",
+   "feeling": "never needing to economize",
+   "vehicles": [
+    "column",
+    "bottom"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 237,
+   "verified": true,
+   "quote": "I'll be facedown in the stacks this afternoon",
+   "picture": "collapsed body",
+   "feeling": "drunken collapse",
+   "vehicles": [
+    "stack"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 237,
+   "verified": true,
+   "quote": "they'll have to check me out at the desk like overdue reserve",
+   "picture": "a library book",
+   "feeling": "comic helplessness",
+   "vehicles": [
+    "book",
+    "desk"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 239,
+   "verified": true,
+   "quote": "like Vee had handed her a present",
+   "picture": "a gift",
+   "feeling": "delight",
+   "vehicles": [
+    "present"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 239,
+   "verified": true,
+   "quote": "turned the full warm beam of her attention on, all at once, like a room light coming on",
+   "picture": "a light beam",
+   "feeling": "attention turned on",
+   "vehicles": [
+    "beam",
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 245,
+   "verified": true,
+   "quote": "You're a woman of mystery.",
+   "picture": "mystery figure",
+   "feeling": "teasing unknowability",
+   "vehicles": [
+    "mystery"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 247,
+   "verified": true,
+   "quote": "the kind you keep around for the view",
+   "picture": "scenery",
+   "feeling": "man as decoration",
+   "vehicles": [
+    "view"
+   ],
+   "sensation": "none",
+   "applies_to": "the man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 247,
+   "verified": true,
+   "quote": "I'm dying to tell you anyway",
+   "picture": "dying",
+   "feeling": "eagerness",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 247,
+   "verified": true,
+   "quote": "She was grinning, lit up with it, and the grin was an invitation.",
+   "picture": "lit lamp; invitation",
+   "feeling": "radiant welcome",
+   "vehicles": [
+    "light",
+    "invitation"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 247,
+   "verified": true,
+   "quote": "bringing Vee in with her",
+   "picture": "drawing someone in",
+   "feeling": "intimacy pulled in",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 251,
+   "verified": true,
+   "quote": "I was gone",
+   "picture": "departed",
+   "feeling": "lost to laughter",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 251,
+   "verified": true,
+   "quote": "right when I think I'm going to actually die",
+   "picture": "dying",
+   "feeling": "extreme overload",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 251,
+   "verified": true,
+   "quote": "pulling Vee bodily toward it",
+   "picture": "physical tow",
+   "feeling": "drawn into laughter",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi's laugh",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 251,
+   "verified": true,
+   "quote": "the gap left wide open, generous, delighted",
+   "picture": "open doorway",
+   "feeling": "invitation to ask",
+   "vehicles": [
+    "gap"
+   ],
+   "sensation": "opening",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 251,
+   "verified": true,
+   "quote": "I went off like a *rocket*. Boom.",
+   "picture": "rocket launch",
+   "feeling": "explosive climax",
+   "vehicles": [
+    "rocket"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "under the laughing a heat had come up that she did not look at directly",
+   "picture": "rising heat, hidden thing",
+   "feeling": "arousal rising",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "that finished surface finally cracked all the way open",
+   "picture": "cracking shell",
+   "feeling": "polish breaking",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "a heat she had no shelf for",
+   "picture": "storage shelf",
+   "feeling": "no place for it",
+   "vehicles": [
+    "shelf"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "would have died before naming at this table",
+   "picture": "dying",
+   "feeling": "extreme shame",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "heading it off",
+   "picture": "intercepting",
+   "feeling": "deflecting",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 253,
+   "verified": true,
+   "quote": "Vee felt the heat get a half-second of cover",
+   "picture": "shelter",
+   "feeling": "momentary concealment",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 255,
+   "verified": true,
+   "quote": "Randi's warmth came down over it and made it nothing",
+   "picture": "blanket smothering",
+   "feeling": "question smoothed over",
+   "vehicles": [
+    "blanket"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 255,
+   "verified": true,
+   "quote": "from nearer than she liked",
+   "picture": "nearness",
+   "feeling": "exposure of real feeling",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 255,
+   "verified": true,
+   "quote": "the small heat of having asked it at all",
+   "picture": "heat",
+   "feeling": "embarrassment",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 257,
+   "verified": true,
+   "quote": "Like she was handing Vee something across the table.",
+   "picture": "handing a gift",
+   "feeling": "offering gently",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 257,
+   "verified": true,
+   "quote": "holding the reins so tight your hands cramp",
+   "picture": "horse reins",
+   "feeling": "rigid control",
+   "vehicles": [
+    "rein",
+    "hand"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 257,
+   "verified": true,
+   "quote": "somebody takes them, and you *can't* hold them",
+   "picture": "reins taken",
+   "feeling": "surrender of control",
+   "vehicles": [
+    "rein"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 257,
+   "verified": true,
+   "quote": "the smile came back and closed the thing up",
+   "picture": "closing a box",
+   "feeling": "shutting the intimacy",
+   "vehicles": [
+    "smile",
+    "box"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 259,
+   "verified": true,
+   "quote": "the same slow ache",
+   "picture": "ache",
+   "feeling": "yearning in music",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the song",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 259,
+   "verified": true,
+   "quote": "The booth held its quiet around them.",
+   "picture": "container holding",
+   "feeling": "enclosed hush",
+   "vehicles": [
+    "booth"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the booth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 261,
+   "verified": true,
+   "quote": "You've got a face on.",
+   "picture": "wearing a face",
+   "feeling": "visible mood",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 261,
+   "verified": true,
+   "quote": "don't you dare clean it up",
+   "picture": "tidying",
+   "feeling": "unedited telling",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's story",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 263,
+   "verified": true,
+   "quote": "building the version she would tell",
+   "picture": "construction",
+   "feeling": "careful composition",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 263,
+   "verified": true,
+   "quote": "all of it arranged and pressed and ready",
+   "picture": "pressed garment",
+   "feeling": "neat presentability",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's story",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 263,
+   "verified": true,
+   "quote": "felt the careful version rise up smooth and rehearsed, and felt, underneath it, the other thing shift and strain to get out",
+   "picture": "restrained creature beneath surface",
+   "feeling": "suppressed secret pushing",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 263,
+   "verified": true,
+   "quote": "which one she was going to let win",
+   "picture": "contest",
+   "feeling": "inner conflict",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 267,
+   "verified": true,
+   "quote": "a brightness wound a notch tighter",
+   "picture": "wound spring",
+   "feeling": "strained intensity",
+   "vehicles": [
+    "spring",
+    "notch"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 267,
+   "verified": true,
+   "quote": "going where Vee's animation took them",
+   "picture": "eyes traveling",
+   "feeling": "gaze following",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 270,
+   "verified": true,
+   "quote": "Randi's whole face was turned to her like a lamp",
+   "picture": "lamp",
+   "feeling": "warm attention",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 270,
+   "verified": true,
+   "quote": "The memory came up around her",
+   "picture": "rising water",
+   "feeling": "memory enveloping",
+   "vehicles": [],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 272,
+   "verified": true,
+   "quote": "She was rolling in it now",
+   "picture": "rolling in something",
+   "feeling": "indulgent immersion",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 272,
+   "verified": true,
+   "quote": "turning it over so it caught the light",
+   "picture": "gem turned",
+   "feeling": "savoring a memory",
+   "vehicles": [
+    "gem",
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "something had gone tight behind it, some muscle she was holding",
+   "picture": "clenched muscle",
+   "feeling": "hidden strain",
+   "vehicles": [
+    "muscle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "Vee's stomach dropped toward it",
+   "picture": "falling",
+   "feeling": "dread",
+   "vehicles": [
+    "stomach"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "the worldly face would break",
+   "picture": "cracking mask",
+   "feeling": "composure collapsing",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "the way you reach for the kinder thing because you want it to be true",
+   "picture": "reaching",
+   "feeling": "choosing comfort",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "Vee, surfacing for a second out of her own story",
+   "picture": "coming up from water",
+   "feeling": "emerging from absorption",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 274,
+   "verified": true,
+   "quote": "Vee felt herself settle, warmed",
+   "picture": "settling",
+   "feeling": "relief and ease",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 276,
+   "verified": true,
+   "quote": "the tightness was gone, folded away somewhere",
+   "picture": "folded cloth",
+   "feeling": "concealed tension",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 280,
+   "verified": true,
+   "quote": "Vee felt her face go hot",
+   "picture": "heat",
+   "feeling": "blush",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 280,
+   "verified": true,
+   "quote": "the room narrowing to the two of them",
+   "picture": "narrowing room",
+   "feeling": "intimacy closing in",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 282,
+   "verified": true,
+   "quote": "the door, swung open and waiting",
+   "picture": "open door",
+   "feeling": "invitation to confide",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 282,
+   "verified": true,
+   "quote": "She had meant to keep this part folded up.",
+   "picture": "folded cloth",
+   "feeling": "keeping hidden",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 282,
+   "verified": true,
+   "quote": "The wanting got there before the plan did.",
+   "picture": "a race",
+   "feeling": "desire outrunning intent",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 284,
+   "verified": true,
+   "quote": "the way you lean to give up a secret",
+   "picture": "leaning in confidence",
+   "feeling": "confiding closeness",
+   "vehicles": [
+    "secret"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 284,
+   "verified": true,
+   "quote": "dropping down into something hushed",
+   "picture": "descent",
+   "feeling": "voice lowering",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 290,
+   "verified": true,
+   "quote": "the way you'd tell someone the salad fork goes on the outside",
+   "picture": "etiquette lesson",
+   "feeling": "casual authority",
+   "vehicles": [
+    "fork",
+    "salad"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 290,
+   "verified": true,
+   "quote": "the clench in Vee's chest let go",
+   "picture": "released fist",
+   "feeling": "anxiety releasing",
+   "vehicles": [
+    "fist"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 294,
+   "verified": true,
+   "quote": "let it land",
+   "picture": "something landing",
+   "feeling": "letting words sink in",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 294,
+   "verified": true,
+   "quote": "like it followed naturally",
+   "picture": "natural sequence",
+   "feeling": "feigned ease",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 294,
+   "verified": true,
+   "quote": "the way a woman looks at another woman's good feature",
+   "picture": "admiring look",
+   "feeling": "frank admiration",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 294,
+   "verified": true,
+   "quote": "The tit goddess was good to you.",
+   "picture": "goddess",
+   "feeling": "bust as divine favor",
+   "vehicles": [
+    "goddess"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's breasts",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 296,
+   "verified": true,
+   "quote": "the heat in her face turning to pleasure",
+   "picture": "heat changing",
+   "feeling": "blush becoming pleasure",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 298,
+   "verified": true,
+   "quote": "He must've had his work cut out",
+   "picture": "work laid out",
+   "feeling": "difficult task",
+   "vehicles": [
+    "work"
+   ],
+   "sensation": "none",
+   "applies_to": "the tailor",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 300,
+   "verified": true,
+   "quote": "The word sat there with its little hook in it.",
+   "picture": "baited hook",
+   "feeling": "snare in a word",
+   "vehicles": [
+    "hook"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the word challenges",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 300,
+   "verified": true,
+   "quote": "felt the floor tilt",
+   "picture": "tilting floor",
+   "feeling": "sudden unsteadiness",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 300,
+   "verified": true,
+   "quote": "her face was already betraying her",
+   "picture": "traitor",
+   "feeling": "involuntary giveaway",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 306,
+   "verified": true,
+   "quote": "Just the word, set down on the table between them, turned over once.",
+   "picture": "object on table",
+   "feeling": "word weighed",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 308,
+   "verified": true,
+   "quote": "unable in the swim of it to remember",
+   "picture": "swimming",
+   "feeling": "disorientation",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 308,
+   "verified": true,
+   "quote": "the ground had shifted somewhere a few sentences back",
+   "picture": "shifting ground",
+   "feeling": "unseen change",
+   "vehicles": [
+    "ground"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the conversation",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 308,
+   "verified": true,
+   "quote": "the laugh of the absolutely cornered",
+   "picture": "cornered animal",
+   "feeling": "trapped",
+   "vehicles": [
+    "corner"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 308,
+   "verified": true,
+   "quote": "It came up out of her",
+   "picture": "rising from within",
+   "feeling": "laugh welling",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 312,
+   "verified": true,
+   "quote": "the laugh of someone setting down something she'd carried up too many stairs",
+   "picture": "burden carried",
+   "feeling": "relief after strain",
+   "vehicles": [
+    "stair"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 312,
+   "verified": true,
+   "quote": "Randi's a half-beat behind and folding right around it",
+   "picture": "folding around",
+   "feeling": "laugh enveloping",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 314,
+   "verified": true,
+   "quote": "She let the laugh ebb",
+   "picture": "tide",
+   "feeling": "laughter fading",
+   "vehicles": [
+    "tide"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 314,
+   "verified": true,
+   "quote": "her voice came down again into the warm low register",
+   "picture": "descending",
+   "feeling": "voice lowering",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 314,
+   "verified": true,
+   "quote": "Dresses don't stop at your gorgeous chest.",
+   "picture": "stopping place",
+   "feeling": "pressing on",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "dresses",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 318,
+   "verified": true,
+   "quote": "They put you up on a literal pedestal.",
+   "picture": "pedestal",
+   "feeling": "being worshipped",
+   "vehicles": [
+    "pedestal"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 320,
+   "verified": true,
+   "quote": "heard her own voice go soft and faraway",
+   "picture": "distance",
+   "feeling": "dreamy trance",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 330,
+   "verified": true,
+   "quote": "landed like a benediction",
+   "picture": "blessing",
+   "feeling": "blessed approval",
+   "vehicles": [
+    "benediction"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's remark",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 330,
+   "verified": true,
+   "quote": "led, one small *yeah* at a time, down and down",
+   "picture": "descent, being led",
+   "feeling": "drawn deeper",
+   "vehicles": [
+    "stair"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 330,
+   "verified": true,
+   "quote": "the whole room gone",
+   "picture": "vanished room",
+   "feeling": "world dropping away",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 332,
+   "verified": true,
+   "quote": "The booth was very far away.",
+   "picture": "distance",
+   "feeling": "dissociated trance",
+   "vehicles": [
+    "booth"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "the booth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 332,
+   "verified": true,
+   "quote": "the thing she had folded up the smallest and pushed the deepest",
+   "picture": "folded cloth buried",
+   "feeling": "buried secret",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's secret",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 332,
+   "verified": true,
+   "quote": "it rose now, all on its own",
+   "picture": "rising",
+   "feeling": "secret surfacing",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "the secret",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 332,
+   "verified": true,
+   "quote": "to set it down on the table with everything else",
+   "picture": "laying down object",
+   "feeling": "unburdening",
+   "vehicles": [
+    "table"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 332,
+   "verified": true,
+   "quote": "the wanting opened her mouth",
+   "picture": "wanting as agent",
+   "feeling": "desire forcing speech",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 338,
+   "verified": true,
+   "quote": "It was a door closing softly.",
+   "picture": "closing door",
+   "feeling": "confidence shut off",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's remark",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 340,
+   "verified": true,
+   "quote": "a clean silence",
+   "picture": "clean surface",
+   "feeling": "stark absence",
+   "vehicles": [],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the silence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 340,
+   "verified": true,
+   "quote": "her secret was still half out of her with nowhere to go",
+   "picture": "stranded thing",
+   "feeling": "exposed, unreceived",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 342,
+   "verified": true,
+   "quote": "the air going out of the closeness all at once",
+   "picture": "deflating",
+   "feeling": "intimacy deflating",
+   "vehicles": [
+    "air"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the booth",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 342,
+   "verified": true,
+   "quote": "tucked a strand of the dark hair back where it lived",
+   "picture": "home",
+   "feeling": "restored polish",
+   "vehicles": [
+    "home"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 342,
+   "verified": true,
+   "quote": "easy, ordinary, daylight",
+   "picture": "daylight",
+   "feeling": "plain, unmagical",
+   "vehicles": [
+    "daylight"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 344,
+   "verified": true,
+   "quote": "Big day,",
+   "picture": "significant day",
+   "feeling": "dismissive wrap-up",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 352,
+   "verified": true,
+   "quote": "felt the little familiar drop as she let go of it",
+   "picture": "falling",
+   "feeling": "money anxiety",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 352,
+   "verified": true,
+   "quote": "the number it was speaking to",
+   "picture": "card speaking",
+   "feeling": "awareness of balance",
+   "vehicles": [
+    "card"
+   ],
+   "sensation": "none",
+   "applies_to": "the card",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 352,
+   "verified": true,
+   "quote": "the broke girl",
+   "picture": "broke",
+   "feeling": "poverty",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "the energy came up off the road and the music and the speed and washed the whole heaviness clean away",
+   "picture": "washing",
+   "feeling": "cleansing relief",
+   "vehicles": [
+    "water",
+    "road"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the drive",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "the ones that lived in every girl's body already",
+   "picture": "living inside",
+   "feeling": "song deeply known",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the songs",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "a girl who'd been turned inside out over tomato soup",
+   "picture": "garment inside out",
+   "feeling": "emotionally exposed",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "the wind doing what it did to Vee's hair",
+   "picture": "wind as agent",
+   "feeling": "windblown hair",
+   "vehicles": [
+    "wind"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the wind",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "the energy came up off the road and the music and the speed",
+   "picture": "rising vapor",
+   "feeling": "exhilaration rising",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the energy",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "washed the whole heaviness clean away",
+   "picture": "washing away dirt",
+   "feeling": "relief from heaviness",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the heaviness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 358,
+   "verified": true,
+   "quote": "the whole heaviness",
+   "picture": "a physical weight",
+   "feeling": "emotional burden",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's mood",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 360,
+   "verified": true,
+   "quote": "like fire lanes were a thing that happened to other people",
+   "picture": "misfortune for others",
+   "feeling": "entitled carelessness",
+   "vehicles": [
+    "fire lane"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 366,
+   "verified": true,
+   "quote": "Randi's hand came up and found the hinge of her jaw",
+   "picture": "door hinge",
+   "feeling": "deft touch",
+   "vehicles": [
+    "hinge",
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 366,
+   "verified": true,
+   "quote": "a second press that had something in it the first one hadn't",
+   "picture": "container holding something",
+   "feeling": "deepened kiss",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "the kiss",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 366,
+   "verified": true,
+   "quote": "found the hinge of her jaw",
+   "picture": "a hinge",
+   "feeling": "precise tender touch",
+   "vehicles": [
+    "hinge"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 366,
+   "verified": true,
+   "quote": "Randi's hand came up and found",
+   "picture": "hand seeking",
+   "feeling": "hand moving with purpose",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 370,
+   "verified": true,
+   "quote": "the sound of it thinned into the ordinary evening",
+   "picture": "thinning fabric or fog",
+   "feeling": "fading away",
+   "vehicles": [
+    "fabric"
+   ],
+   "sensation": "fading",
+   "applies_to": "the car sound",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 372,
+   "verified": true,
+   "quote": "The smell of her had come away too, caught in Vee's hair",
+   "picture": "smell snagged like cloth",
+   "feeling": "lingering trace",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's scent",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 372,
+   "verified": true,
+   "quote": "something bright and green she had no name for",
+   "picture": "color for smell",
+   "feeling": "fresh, unnamed scent",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "the smell",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 376,
+   "verified": true,
+   "quote": "She had it explained away almost before her mouth was her own again.",
+   "picture": "mouth belonging to another",
+   "feeling": "self-possession returning",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 378,
+   "verified": true,
+   "quote": "a colder thought, all at once",
+   "picture": "cold temperature",
+   "feeling": "sudden dread",
+   "vehicles": [
+    "cold"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's thought",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 378,
+   "verified": true,
+   "quote": "her heart went fast",
+   "picture": "racing heart",
+   "feeling": "anxious alarm",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 378,
+   "verified": true,
+   "quote": "the cold thing spreading",
+   "picture": "spreading cold",
+   "feeling": "dread spreading",
+   "vehicles": [
+    "cold"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee's dread",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "how-its-done",
+   "line": 378,
+   "verified": true,
+   "quote": "gone gold in the low sun",
+   "picture": "turning to gold",
+   "feeling": "warm evening light",
+   "vehicles": [
+    "gold"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the courtyard",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "how-its-done",
+   "line": 378,
+   "verified": true,
+   "quote": "the dark ones, the ones where someone could have been standing",
+   "picture": "dark windows as watchers",
+   "feeling": "feeling watched",
+   "vehicles": [
+    "window"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the windows",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  }
+ ]
+}

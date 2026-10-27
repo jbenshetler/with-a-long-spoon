@@ -1,0 +1,2779 @@
+{
+ "slug": "my-friend-randi",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "7d7f90c26b42",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "my-friend-randi",
+   "line": 3,
+   "verified": true,
+   "quote": "the confidante track",
+   "picture": "a track",
+   "feeling": "a course of action",
+   "vehicles": [
+    "track"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's role",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 7,
+   "verified": true,
+   "quote": "the drone had gotten down into her bones",
+   "picture": "sound entering bones",
+   "feeling": "deeply felt fatigue",
+   "vehicles": [
+    "bone"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 9,
+   "verified": true,
+   "quote": "Her chest had opened",
+   "picture": "an opening chest",
+   "feeling": "relief after strain",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 9,
+   "verified": true,
+   "quote": "the first full breath since before Christmas",
+   "picture": "a full breath",
+   "feeling": "relief after strain",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 9,
+   "verified": true,
+   "quote": "the whole visit spent holding her shoulders a particular way",
+   "picture": "held shoulders",
+   "feeling": "sustained guarded tension",
+   "vehicles": [
+    "shoulder"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 9,
+   "verified": true,
+   "quote": "a jetway door shutting on all of it",
+   "picture": "a shutting door",
+   "feeling": "leaving the visit behind",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's visit",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 11,
+   "verified": true,
+   "quote": "the girl it had been built for was gone",
+   "picture": "a departed girl",
+   "feeling": "change since childhood",
+   "vehicles": [
+    "girl"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 11,
+   "verified": true,
+   "quote": "she turned the grief over once and set it down",
+   "picture": "a handled object",
+   "feeling": "briefly considering grief",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's grief",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 11,
+   "verified": true,
+   "quote": "underneath it was the better thing",
+   "picture": "something underneath",
+   "feeling": "comfort beneath grief",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's relief",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 13,
+   "verified": true,
+   "quote": "the whole afternoon in front of them",
+   "picture": "a path ahead",
+   "feeling": "unhurried time together",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the afternoon",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 15,
+   "verified": true,
+   "quote": "Nothing riding on any of it",
+   "picture": "a rider",
+   "feeling": "freedom from pressure",
+   "vehicles": [
+    "rider"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's swimming",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 15,
+   "verified": true,
+   "quote": "her body had no opinions about itself",
+   "picture": "a thinking person",
+   "feeling": "freedom from self-consciousness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 19,
+   "verified": true,
+   "quote": "she was holding all of it perfectly well",
+   "picture": "a held weight",
+   "feeling": "managing her situation",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 21,
+   "verified": true,
+   "quote": "a gray that had not decided to be morning",
+   "picture": "an undecided person",
+   "feeling": "indistinct early light",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the morning",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 23,
+   "verified": true,
+   "quote": "Her hands knew this drive",
+   "picture": "knowing hands",
+   "feeling": "familiarity with the route",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 23,
+   "verified": true,
+   "quote": "her whole body already at the end of it",
+   "picture": "an arrived body",
+   "feeling": "anticipation of arrival",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 23,
+   "verified": true,
+   "quote": "Same fields, same leaning",
+   "picture": "a leaning body",
+   "feeling": "longing toward him",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 23,
+   "verified": true,
+   "quote": "not one inch of him for her",
+   "picture": "a measured body",
+   "feeling": "his emotional unavailability",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 23,
+   "verified": true,
+   "quote": "It came up in her",
+   "picture": "a rising feeling",
+   "feeling": "grief resurfacing",
+   "vehicles": [
+    "liquid"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's grief",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 25,
+   "verified": true,
+   "quote": "the silence had come down over the both of them",
+   "picture": "a falling covering",
+   "feeling": "shared prolonged silence",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 25,
+   "verified": true,
+   "quote": "She had kept him out of the whole flight",
+   "picture": "a closed space",
+   "feeling": "suppressing thoughts of him",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 25,
+   "verified": true,
+   "quote": "The road gave him back to her",
+   "picture": "a giving person",
+   "feeling": "memories returning",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's thoughts of Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 25,
+   "verified": true,
+   "quote": "her face wrecked",
+   "picture": "a wreck",
+   "feeling": "visible distress from crying",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's face",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 25,
+   "verified": true,
+   "quote": "her chest gone hollow",
+   "picture": "a hollow chest",
+   "feeling": "grief and emptiness",
+   "vehicles": [
+    "chest"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 27,
+   "verified": true,
+   "quote": "the empty of it met Vee at the door like more of the same",
+   "picture": "a person greeting",
+   "feeling": "renewed loneliness",
+   "vehicles": [
+    "person",
+    "door"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the room's emptiness",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 27,
+   "verified": true,
+   "quote": "the picture she'd built",
+   "picture": "a constructed picture",
+   "feeling": "an imagined rival",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's imagined scene",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 27,
+   "verified": true,
+   "quote": "came back and sat on her chest",
+   "picture": "a sitting weight",
+   "feeling": "oppressive jealous fear",
+   "vehicles": [
+    "weight",
+    "chest"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's imagined scene",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 29,
+   "verified": true,
+   "quote": "she took in Vee's face",
+   "picture": "taking something in",
+   "feeling": "noticing vee's distress",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the blonde",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 31,
+   "verified": true,
+   "quote": "The warmth arrived ahead of the chapter president",
+   "picture": "a person arriving",
+   "feeling": "brooke's immediate kindness",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Brooke",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 31,
+   "verified": true,
+   "quote": "gave back nothing but more warmth",
+   "picture": "given warmth",
+   "feeling": "brooke's continued kindness",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Brooke",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 31,
+   "verified": true,
+   "quote": "Vee shrank inside her coat",
+   "picture": "a shrinking body",
+   "feeling": "embarrassed vulnerability",
+   "vehicles": [
+    "body",
+    "coat"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 31,
+   "verified": true,
+   "quote": "she held the rest of it behind her teeth",
+   "picture": "words behind teeth",
+   "feeling": "withholding her feelings",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 33,
+   "verified": true,
+   "quote": "away from the eyes",
+   "picture": "watching eyes",
+   "feeling": "escape from scrutiny",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 33,
+   "verified": true,
+   "quote": "Vee felt them file her",
+   "picture": "a filed document",
+   "feeling": "being categorized by others",
+   "vehicles": [
+    "document",
+    "file"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "Vee went in and came apart",
+   "picture": "a breaking object",
+   "feeling": "emotional release",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "the whole flat break",
+   "picture": "a flat surface",
+   "feeling": "a dull holiday",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "the break",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "the one midnight text laid across it",
+   "picture": "an object laid across",
+   "feeling": "one interruption to absence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's text",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "green at the edge",
+   "picture": "a green edge",
+   "feeling": "a fresh scent",
+   "vehicles": [
+    "edge",
+    "color"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's scent",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "it steadied her",
+   "picture": "a steadied body",
+   "feeling": "comfort and composure",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 35,
+   "verified": true,
+   "quote": "She held the hug past the end of it",
+   "picture": "a boundary passed",
+   "feeling": "lingering closeness",
+   "vehicles": [
+    "boundary"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's hug",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 37,
+   "verified": true,
+   "quote": "When it finally broke",
+   "picture": "a breaking bond",
+   "feeling": "the embrace ending",
+   "vehicles": [
+    "bond"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the hug",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 37,
+   "verified": true,
+   "quote": "the room came back",
+   "picture": "a returning room",
+   "feeling": "renewed awareness",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's awareness of the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 37,
+   "verified": true,
+   "quote": "no drawer had claimed them",
+   "picture": "a claiming person",
+   "feeling": "things still unpacked",
+   "vehicles": [
+    "person",
+    "drawer"
+   ],
+   "sensation": "none",
+   "applies_to": "the sweaters",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 37,
+   "verified": true,
+   "quote": "it reached Vee",
+   "picture": "a reaching hand",
+   "feeling": "recognition of randi's care",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 37,
+   "verified": true,
+   "quote": "the wrecked girl",
+   "picture": "a wreck",
+   "feeling": "vee's visible distress",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 39,
+   "verified": true,
+   "quote": "it came out in the wrong order and all at once",
+   "picture": "a rushing flow",
+   "feeling": "hurried emotional disclosure",
+   "vehicles": [
+    "flow"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's account",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 39,
+   "verified": true,
+   "quote": "It broke off in her throat",
+   "picture": "a broken strand",
+   "feeling": "speech suddenly stopping",
+   "vehicles": [
+    "strand",
+    "throat"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's speech",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 43,
+   "verified": true,
+   "quote": "I don't bite",
+   "picture": "a biting animal",
+   "feeling": "reassurance of safety",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 45,
+   "verified": true,
+   "quote": "Randi let the quiet sit a moment before she moved into it",
+   "picture": "a occupied space",
+   "feeling": "allowing a pause",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the quiet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 45,
+   "verified": true,
+   "quote": "the fear talking",
+   "picture": "a speaking person",
+   "feeling": "fear shaping thoughts",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's fear",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 45,
+   "verified": true,
+   "quote": "the fear's a liar",
+   "picture": "a lying person",
+   "feeling": "fear distorting judgment",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's fear",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 47,
+   "verified": true,
+   "quote": "a face Randi had not had time to put on",
+   "picture": "a worn mask",
+   "feeling": "randi without makeup",
+   "vehicles": [
+    "mask",
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's face",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 49,
+   "verified": true,
+   "quote": "Two glasses of wine poured out on the counter, waiting for her",
+   "picture": "waiting people",
+   "feeling": "being anticipated",
+   "vehicles": [
+    "person",
+    "glass"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the wine",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 51,
+   "verified": true,
+   "quote": "setting each thing down where Vee could see it",
+   "picture": "objects set down",
+   "feeling": "making evidence visible",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's account",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 57,
+   "verified": true,
+   "quote": "Her voice went thin",
+   "picture": "a narrowing strand",
+   "feeling": "vulnerability in speech",
+   "vehicles": [
+    "strand"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 59,
+   "verified": true,
+   "quote": "Randi let it sit",
+   "picture": "a sitting object",
+   "feeling": "allowing words to register",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Pace's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 61,
+   "verified": true,
+   "quote": "Vee made herself go back",
+   "picture": "a return journey",
+   "feeling": "recalling the encounter",
+   "vehicles": [
+    "journey"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 61,
+   "verified": true,
+   "quote": "the voice going flat",
+   "picture": "a flat surface",
+   "feeling": "controlled emotional withdrawal",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 61,
+   "verified": true,
+   "quote": "Words are cheap",
+   "picture": "low-priced goods",
+   "feeling": "distrust of verbal promises",
+   "vehicles": [
+    "goods"
+   ],
+   "sensation": "none",
+   "applies_to": "words",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 61,
+   "verified": true,
+   "quote": "he just — went away. Behind his face",
+   "picture": "a person behind a screen",
+   "feeling": "emotional withdrawal",
+   "vehicles": [
+    "person",
+    "screen",
+    "face"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 63,
+   "verified": true,
+   "quote": "You backed him into a corner",
+   "picture": "a trapped person",
+   "feeling": "pressure with no escape",
+   "vehicles": [
+    "person",
+    "corner"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 63,
+   "verified": true,
+   "quote": "didn't let her off it",
+   "picture": "release from a hold",
+   "feeling": "insisting on accountability",
+   "vehicles": [
+    "hold"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 63,
+   "verified": true,
+   "quote": "from where he was standing",
+   "picture": "a standing place",
+   "feeling": "pace's perspective",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 65,
+   "verified": true,
+   "quote": "Cornered",
+   "picture": "a trapped person",
+   "feeling": "pressure with no escape",
+   "vehicles": [
+    "person",
+    "corner"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 67,
+   "verified": true,
+   "quote": "He goes behind a wall",
+   "picture": "a wall",
+   "feeling": "emotional withdrawal",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 67,
+   "verified": true,
+   "quote": "the both of you dug in",
+   "picture": "entrenched soldiers",
+   "feeling": "mutual stubborn resistance",
+   "vehicles": [
+    "soldier",
+    "trench"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee and Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 67,
+   "verified": true,
+   "quote": "each waiting on the other to break first",
+   "picture": "a breaking object",
+   "feeling": "waiting for surrender",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee and Pace",
+   "pov": "Randi",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 67,
+   "verified": true,
+   "quote": "how much you got him",
+   "picture": "a captured person",
+   "feeling": "his strong attachment",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 71,
+   "verified": true,
+   "quote": "pushed the hair off Vee's face like she would a child's",
+   "picture": "a cared-for child",
+   "feeling": "tender reassurance",
+   "vehicles": [
+    "child"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's gesture",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 73,
+   "verified": true,
+   "quote": "Built like a model",
+   "picture": "a fashion model",
+   "feeling": "an imagined ideal figure",
+   "vehicles": [
+    "model"
+   ],
+   "sensation": "none",
+   "applies_to": "Sheri",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 77,
+   "verified": true,
+   "quote": "I built her",
+   "picture": "a constructed figure",
+   "feeling": "imagining a rival",
+   "vehicles": [
+    "figure"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's image of Sheri",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 79,
+   "verified": true,
+   "quote": "Randi's voice went all warmth",
+   "picture": "spreading heat",
+   "feeling": "tender reassurance",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 79,
+   "verified": true,
+   "quote": "fear needs a face to point at",
+   "picture": "a pointing person",
+   "feeling": "fear seeking a target",
+   "vehicles": [
+    "person",
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's fear",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 79,
+   "verified": true,
+   "quote": "you gave it one",
+   "picture": "a given face",
+   "feeling": "giving fear a target",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's fear",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 79,
+   "verified": true,
+   "quote": "She let Vee sit in it a second",
+   "picture": "a surrounding space",
+   "feeling": "absorbing an insight",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 79,
+   "verified": true,
+   "quote": "the ones you built at three in the morning",
+   "picture": "constructed objects",
+   "feeling": "imagined fearful details",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's imagined details",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 81,
+   "verified": true,
+   "quote": "my grades were slipping",
+   "picture": "a sliding object",
+   "feeling": "declining academic performance",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's grades",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 83,
+   "verified": true,
+   "quote": "your grades slipped",
+   "picture": "a sliding object",
+   "feeling": "declining academic performance",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's grades",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 83,
+   "verified": true,
+   "quote": "you cut it back",
+   "picture": "a cut object",
+   "feeling": "reducing their meetings",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee and Pace's time together",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 87,
+   "verified": true,
+   "quote": "The whole world could go off",
+   "picture": "an exploding world",
+   "feeling": "pace's complete attention",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 87,
+   "verified": true,
+   "quote": "a man half-starved for the one he's got",
+   "picture": "a starving man",
+   "feeling": "intense desire for vee",
+   "vehicles": [
+    "man",
+    "food"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 87,
+   "verified": true,
+   "quote": "hand him to a woman",
+   "picture": "a handed object",
+   "feeling": "giving up on pace",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 87,
+   "verified": true,
+   "quote": "a woman who doesn't even have a face",
+   "picture": "a faceless woman",
+   "feeling": "an unsubstantiated rival",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's imagined Sheri",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 91,
+   "verified": true,
+   "quote": "Underneath all of it",
+   "picture": "a buried object",
+   "feeling": "desire beneath confusion",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's feelings",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 93,
+   "verified": true,
+   "quote": "Saying it plainly was its own small collapse",
+   "picture": "a collapsing structure",
+   "feeling": "vulnerable emotional surrender",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 93,
+   "verified": true,
+   "quote": "a whole taste of my life without him",
+   "picture": "a taste of food",
+   "feeling": "experiencing his absence",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's life without Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 95,
+   "verified": true,
+   "quote": "dynamite in bed",
+   "picture": "exploding dynamite",
+   "feeling": "exciting sexual skill",
+   "vehicles": [
+    "dynamite",
+    "bed"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 95,
+   "verified": true,
+   "quote": "you blindsided him with a fight",
+   "picture": "an unseen blow",
+   "feeling": "unexpected confrontation",
+   "vehicles": [
+    "blow"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 95,
+   "verified": true,
+   "quote": "Give him a peace sign he can't misread",
+   "picture": "a peace sign",
+   "feeling": "clear reconciliation gesture",
+   "vehicles": [
+    "sign"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's proposed gesture",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 99,
+   "verified": true,
+   "quote": "take this into your own hands",
+   "picture": "hands holding something",
+   "feeling": "taking personal control",
+   "vehicles": [
+    "hand",
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 99,
+   "verified": true,
+   "quote": "Words are the whole war",
+   "picture": "a war",
+   "feeling": "speech as conflict",
+   "vehicles": [
+    "war"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee and Pace's words",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 99,
+   "verified": true,
+   "quote": "Vee felt it settle over her like a thing being decided for her and by her at once",
+   "picture": "a settling covering",
+   "feeling": "shared sense of decision",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Randi's voice",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 99,
+   "verified": true,
+   "quote": "let the rest hang in the room",
+   "picture": "a suspended object",
+   "feeling": "an unspoken suggestion",
+   "vehicles": [
+    "object",
+    "room"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi's suggestion",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 103,
+   "verified": true,
+   "quote": "show up already being the answer",
+   "picture": "an answer",
+   "feeling": "embodying reconciliation",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 103,
+   "verified": true,
+   "quote": "You've got the goods",
+   "picture": "merchandise",
+   "feeling": "vee's sexual appeal",
+   "vehicles": [
+    "goods"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 103,
+   "verified": true,
+   "quote": "see what you brought him",
+   "picture": "a delivered gift",
+   "feeling": "vee's sexual offering",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 105,
+   "verified": true,
+   "quote": "the end of the sentence Randi had left hanging",
+   "picture": "a suspended object",
+   "feeling": "an unfinished suggestion",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi's suggestion",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 107,
+   "verified": true,
+   "quote": "The old voice came up in her fast and hot",
+   "picture": "rising heat",
+   "feeling": "sudden internalized judgment",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's remembered judgment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 107,
+   "verified": true,
+   "quote": "her mother's worn smooth into her own",
+   "picture": "a worn surface",
+   "feeling": "internalized maternal judgment",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's inner voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 107,
+   "verified": true,
+   "quote": "the burn went straight up her neck into her face",
+   "picture": "a spreading burn",
+   "feeling": "a rush of shame",
+   "vehicles": [
+    "burn",
+    "neck",
+    "face"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 107,
+   "verified": true,
+   "quote": "bare under a coat like something ordered in",
+   "picture": "delivered food",
+   "feeling": "shame at sexual availability",
+   "vehicles": [
+    "food",
+    "delivery"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 107,
+   "verified": true,
+   "quote": "it was already in her mouth",
+   "picture": "a word in a mouth",
+   "feeling": "an imminent self-judgment",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 109,
+   "verified": true,
+   "quote": "she wasn't letting go of it",
+   "picture": "a held object",
+   "feeling": "insistence on naming it",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 111,
+   "verified": true,
+   "quote": "The word cost her",
+   "picture": "a price paid",
+   "feeling": "pain of saying it",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "Randi's voice stayed warm",
+   "picture": "warmth",
+   "feeling": "steady reassurance",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "walked her down off the ledge a word at a time",
+   "picture": "a person on a ledge",
+   "feeling": "easing vee's distress",
+   "vehicles": [
+    "person",
+    "ledge"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "knows that body by heart",
+   "picture": "a knowing heart",
+   "feeling": "intimate familiarity",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's knowledge of Vee",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "asked you for on his knees",
+   "picture": "a kneeling supplicant",
+   "feeling": "intense desire for vee",
+   "vehicles": [
+    "person",
+    "knee"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "hand him everything",
+   "picture": "a handed gift",
+   "feeling": "complete sexual openness",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's proposed gesture",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 113,
+   "verified": true,
+   "quote": "there's not a man alive who survives it",
+   "picture": "a fatal blow",
+   "feeling": "overwhelming romantic impact",
+   "vehicles": [
+    "blow"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "a man's response",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "the other thing turn over under the burn",
+   "picture": "an object under fire",
+   "feeling": "desire stirring beneath shame",
+   "vehicles": [
+    "object",
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "once the shame was lit",
+   "picture": "a lit fire",
+   "feeling": "shame beginning to burn",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's shame",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "the wanting coming up hand in hand with the mortification",
+   "picture": "people holding hands",
+   "feeling": "desire accompanying shame",
+   "vehicles": [
+    "person",
+    "hand"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's desire and shame",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "sharper for it",
+   "picture": "a sharp edge",
+   "feeling": "desire intensified by shame",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "walking past the part of her that would rather die",
+   "picture": "a person passed",
+   "feeling": "moving beyond shame",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 115,
+   "verified": true,
+   "quote": "the shame was lit",
+   "picture": "a lit fire",
+   "feeling": "shame flaring up",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's shame",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 117,
+   "verified": true,
+   "quote": "before the nerve went",
+   "picture": "a departing person",
+   "feeling": "fear of losing courage",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's courage",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 121,
+   "verified": true,
+   "quote": "with my whole heart",
+   "picture": "a whole heart",
+   "feeling": "affectionate sincerity",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 121,
+   "verified": true,
+   "quote": "like a raccoon who lost a fight",
+   "picture": "a battered raccoon",
+   "feeling": "vee's smudged appearance",
+   "vehicles": [
+    "raccoon"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 121,
+   "verified": true,
+   "quote": "Make yourself into the thing",
+   "picture": "a made object",
+   "feeling": "preparing her appearance",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 127,
+   "verified": true,
+   "quote": "her stomach went over",
+   "picture": "a turning stomach",
+   "feeling": "sudden nervous excitement",
+   "vehicles": [
+    "stomach"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 127,
+   "verified": true,
+   "quote": "bands laddering up",
+   "picture": "a ladder",
+   "feeling": "straps ascending the leg",
+   "vehicles": [
+    "ladder"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the shoe straps",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 129,
+   "verified": true,
+   "quote": "like a pair of flats",
+   "picture": "ordinary flat shoes",
+   "feeling": "casualness about the heels",
+   "vehicles": [
+    "flat"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi handing over the heels",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 131,
+   "verified": true,
+   "quote": "her body answered",
+   "picture": "a speaking body",
+   "feeling": "involuntary physical response",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 131,
+   "verified": true,
+   "quote": "a girl's body would get ahead of her",
+   "picture": "a body moving ahead",
+   "feeling": "arousal preceding conscious thought",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 131,
+   "verified": true,
+   "quote": "She had the answer before the ache was finished",
+   "picture": "an answer to a question",
+   "feeling": "quick recognition of desire",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee's recognition",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 131,
+   "verified": true,
+   "quote": "she put them away together",
+   "picture": "objects put away",
+   "feeling": "setting feelings aside",
+   "vehicles": [],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's answer and ache",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 133,
+   "verified": true,
+   "quote": "one piece of tonight already decided",
+   "picture": "a piece of something",
+   "feeling": "relief at a decision",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's plans for tonight",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 135,
+   "verified": true,
+   "quote": "give something back into the warmth",
+   "picture": "shared warmth",
+   "feeling": "returning randi's affection",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee and Randi's affection",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 135,
+   "verified": true,
+   "quote": "left me dying all break",
+   "picture": "a dying person",
+   "feeling": "eager suspense",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 137,
+   "verified": true,
+   "quote": "Randi waved it off",
+   "picture": "waving something away",
+   "feeling": "dismissing the subject",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's New Year",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 137,
+   "verified": true,
+   "quote": "a lot of white tie",
+   "picture": "white neckties",
+   "feeling": "formal social occasions",
+   "vehicles": [
+    "tie"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's New Year",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 143,
+   "verified": true,
+   "quote": "neither one missing a beat",
+   "picture": "an uninterrupted rhythm",
+   "feeling": "effortless shared improvisation",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi and the man",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 145,
+   "verified": true,
+   "quote": "it went into her sideways",
+   "picture": "something entering sideways",
+   "feeling": "unexpected emotional impact",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 145,
+   "verified": true,
+   "quote": "the easy forward motion of it",
+   "picture": "smooth forward movement",
+   "feeling": "effortless romantic progress",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's encounter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 145,
+   "verified": true,
+   "quote": "build the whole future out loud",
+   "picture": "a constructed future",
+   "feeling": "freely imagining a future",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "none",
+   "applies_to": "the man's imagined future",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 149,
+   "verified": true,
+   "quote": "Somewhere in it",
+   "picture": "a place inside",
+   "feeling": "absorption in the story",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's story",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 149,
+   "verified": true,
+   "quote": "the plum on her big toe",
+   "picture": "a plum",
+   "feeling": "dark purple polish",
+   "vehicles": [
+    "plum"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's toenail polish",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 151,
+   "verified": true,
+   "quote": "a story with a shape already",
+   "picture": "a shaped object",
+   "feeling": "a coherent romantic story",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's encounter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 151,
+   "verified": true,
+   "quote": "a man who was a story you'd tell",
+   "picture": "a tellable story",
+   "feeling": "instant memorable romance",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's man",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 155,
+   "verified": true,
+   "quote": "half into the fairy tale herself",
+   "picture": "entering a fairy tale",
+   "feeling": "absorption in romantic fantasy",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 159,
+   "verified": true,
+   "quote": "Vee read the quiet as discretion",
+   "picture": "reading a text",
+   "feeling": "interpreting randi's silence",
+   "vehicles": [
+    "text"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's silence",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 159,
+   "verified": true,
+   "quote": "kept behind the door",
+   "picture": "a closed door",
+   "feeling": "intimacy kept private",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Randi's private experience",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 161,
+   "verified": true,
+   "quote": "came back up into her smile",
+   "picture": "rising into a smile",
+   "feeling": "returning to cheerfulness",
+   "vehicles": [
+    "smile"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 161,
+   "verified": true,
+   "quote": "A masterpiece",
+   "picture": "a masterwork",
+   "feeling": "admiration for the man",
+   "vehicles": [
+    "masterpiece"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's man",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 161,
+   "verified": true,
+   "quote": "a tip of the hand",
+   "picture": "a revealed card hand",
+   "feeling": "a hint of disclosure",
+   "vehicles": [
+    "hand",
+    "card"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's disclosure",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 161,
+   "verified": true,
+   "quote": "the bedroom's the room I actually live in",
+   "picture": "a lived-in bedroom",
+   "feeling": "sex matters most",
+   "vehicles": [
+    "bedroom",
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's priorities",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 163,
+   "verified": true,
+   "quote": "when it broke",
+   "picture": "a broken embrace",
+   "feeling": "the hug ending",
+   "vehicles": [],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee and Randi's hug",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 169,
+   "verified": true,
+   "quote": "What came up in her had no shape",
+   "picture": "a shapeless thing rising",
+   "feeling": "unformed emotion rising",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's emotion",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 169,
+   "verified": true,
+   "quote": "she had been wreckage on a bed",
+   "picture": "wreckage",
+   "feeling": "emotional devastation",
+   "vehicles": [
+    "wreckage"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 175,
+   "verified": true,
+   "quote": "the thing in her chest had somewhere to go",
+   "picture": "a thing moving out",
+   "feeling": "emotion finding expression",
+   "vehicles": [
+    "thing",
+    "chest"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's emotion",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 177,
+   "verified": true,
+   "quote": "I'm such a mess",
+   "picture": "a disordered mess",
+   "feeling": "feeling emotionally disordered",
+   "vehicles": [
+    "mess"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 181,
+   "verified": true,
+   "quote": "a plan sitting where the wreckage had been",
+   "picture": "a plan replacing wreckage",
+   "feeling": "direction replacing devastation",
+   "vehicles": [
+    "wreckage"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's state of mind",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 181,
+   "verified": true,
+   "quote": "be the thing",
+   "picture": "a particular thing",
+   "feeling": "embodying a desired image",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 189,
+   "verified": true,
+   "quote": "like she was something worth holding still",
+   "picture": "a cherished object",
+   "feeling": "being valued and held",
+   "vehicles": [
+    "thing"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 195,
+   "verified": true,
+   "quote": "a sentence was trying to assemble itself",
+   "picture": "a self-assembling object",
+   "feeling": "an emerging realization",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 195,
+   "verified": true,
+   "quote": "she left it where it was",
+   "picture": "an object left in place",
+   "feeling": "deferring a realization",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Randi's thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 197,
+   "verified": true,
+   "quote": "hold on to this",
+   "picture": "a held object",
+   "feeling": "preserving the moment",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Randi's experience of the kiss",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 199,
+   "verified": true,
+   "quote": "her heart going like she'd come up three flights",
+   "picture": "a racing heart after stairs",
+   "feeling": "excitement after the kiss",
+   "vehicles": [
+    "heart",
+    "flight"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 203,
+   "verified": true,
+   "quote": "the warmth got there before she did",
+   "picture": "warmth arriving first",
+   "feeling": "brooke's immediate friendliness",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Brooke's manner",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 205,
+   "verified": true,
+   "quote": "Her hands were not entirely hers",
+   "picture": "hands belonging elsewhere",
+   "feeling": "disorientation after the kiss",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Randi's hands",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 207,
+   "verified": true,
+   "quote": "looking like the end of the world",
+   "picture": "the world's end",
+   "feeling": "visible distress",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Brooke",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 207,
+   "verified": true,
+   "quote": "the rough patches",
+   "picture": "rough stretches of ground",
+   "feeling": "difficult periods",
+   "vehicles": [
+    "patch",
+    "ground"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's difficulties",
+   "pov": "Brooke",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 211,
+   "verified": true,
+   "quote": "Brooke let that sit",
+   "picture": "a statement sitting",
+   "feeling": "allowing words to linger",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Brooke's remark",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 217,
+   "verified": true,
+   "quote": "she knew to the inch what every room in it was worth",
+   "picture": "measuring rooms",
+   "feeling": "precise social knowledge",
+   "vehicles": [
+    "inch",
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Brooke's knowledge of the house",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 219,
+   "verified": true,
+   "quote": "One shoulder climbed",
+   "picture": "a climbing shoulder",
+   "feeling": "a casual shrug",
+   "vehicles": [
+    "shoulder"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Brooke's shoulder",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 223,
+   "verified": true,
+   "quote": "The warmth never moved",
+   "picture": "stationary warmth",
+   "feeling": "unchanging friendly manner",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Brooke's manner",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 227,
+   "verified": true,
+   "quote": "So play",
+   "picture": "a game",
+   "feeling": "casual romantic exploration",
+   "vehicles": [
+    "game"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi and Vee's intimacy",
+   "pov": "Brooke",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 227,
+   "verified": true,
+   "quote": "not one girl in this house will say a word",
+   "picture": "a single spoken word",
+   "feeling": "promised silence",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the women in the house",
+   "pov": "Brooke",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 227,
+   "verified": true,
+   "quote": "The curious bright note came up",
+   "picture": "a bright musical note",
+   "feeling": "a curious tone emerging",
+   "vehicles": [
+    "note"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Brooke's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 227,
+   "verified": true,
+   "quote": "Ninety girls under one roof",
+   "picture": "a shared roof",
+   "feeling": "a crowded shared household",
+   "vehicles": [
+    "roof"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the women in the house",
+   "pov": "Brooke",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 227,
+   "verified": true,
+   "quote": "She let that one go",
+   "picture": "a released object",
+   "feeling": "leaving a warning unfinished",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Brooke's unfinished warning",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 138,
+   "verified": false,
+   "quote": "",
+   "picture": "",
+   "feeling": "",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "my-friend-randi",
+   "line": 224,
+   "verified": false,
+   "quote": "",
+   "picture": "",
+   "feeling": "",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "slug": "made-up",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "34a39f696230",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "made-up",
+   "line": 7,
+   "verified": true,
+   "quote": "the thirty-first was going to pass the house by",
+   "picture": "a passerby",
+   "feeling": "holiday skipping the house",
+   "vehicles": [
+    "passerby"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Halloween",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 7,
+   "verified": true,
+   "quote": "it would be wall to wall by now",
+   "picture": "packed room",
+   "feeling": "crowded town",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the town",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 11,
+   "verified": true,
+   "quote": "so the rest of him stayed with her",
+   "picture": "a companion staying",
+   "feeling": "his attention on her",
+   "vehicles": [],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 11,
+   "verified": true,
+   "quote": "She watched it work under his shirt",
+   "picture": "a machine working",
+   "feeling": "muscles moving",
+   "vehicles": [
+    "machine"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's back",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 15,
+   "verified": true,
+   "quote": "with the ceremony still on her skin",
+   "picture": "a coating",
+   "feeling": "lingering aftermath",
+   "vehicles": [
+    "skin"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 15,
+   "verified": true,
+   "quote": "the hem waiting on a height she didn't own yet",
+   "picture": "someone waiting",
+   "feeling": "incompleteness",
+   "vehicles": [
+    "height"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 15,
+   "verified": true,
+   "quote": "The finished thing had crossed a stage for everyone but its maker.",
+   "picture": "a traveler",
+   "feeling": "dress shown to all but him",
+   "vehicles": [
+    "stage"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "made-up",
+   "line": 17,
+   "verified": true,
+   "quote": "it got ahead of her",
+   "picture": "a runner",
+   "feeling": "impulse outrunning thought",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's plan",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 17,
+   "verified": true,
+   "quote": "the rest of it was still arriving",
+   "picture": "a late arrival",
+   "feeling": "mind catching up",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 25,
+   "verified": true,
+   "quote": "gave her his whole attention, like a door coming open",
+   "picture": "a door opening",
+   "feeling": "attention opening toward her",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 33,
+   "verified": true,
+   "quote": "feeling like a child playing dress-up in a parent's closet",
+   "picture": "child in dress-up",
+   "feeling": "smallness, borrowed size",
+   "vehicles": [
+    "child",
+    "closet"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 33,
+   "verified": true,
+   "quote": "The cold outside was clean and enormous, the sky rinsed black",
+   "picture": "washed cloth",
+   "feeling": "crisp vast night",
+   "vehicles": [
+    "sky"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 33,
+   "verified": true,
+   "quote": "loud in all that quiet",
+   "picture": "sound in silence",
+   "feeling": "conspicuousness",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "made-up",
+   "line": 33,
+   "verified": true,
+   "quote": "like something sleeping",
+   "picture": "a sleeping creature",
+   "feeling": "careful tenderness",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the bag",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 35,
+   "verified": true,
+   "quote": "the lamp throwing its circle and leaving the book wall in shadow",
+   "picture": "a thrower",
+   "feeling": "pooled light",
+   "vehicles": [
+    "circle"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the lamp",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 35,
+   "verified": true,
+   "quote": "guitars under a woman's voice",
+   "picture": "layers",
+   "feeling": "music texture",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "the music",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "made-up",
+   "line": 37,
+   "verified": true,
+   "quote": "the zipper's long tearing whisper",
+   "picture": "tearing, whispering",
+   "feeling": "hushed sound",
+   "vehicles": [
+    "whisper"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the zipper",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 37,
+   "verified": true,
+   "quote": "The house went back to the music and let her alone",
+   "picture": "a person withdrawing",
+   "feeling": "privacy",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "the house",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "before her nerve could hear about it",
+   "picture": "a person overhearing",
+   "feeling": "acting before courage fails",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's nerve",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "The dress had settled that question a long time ago",
+   "picture": "a settled dispute",
+   "feeling": "decided matter",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "the slit gave up the edge of anything",
+   "picture": "surrender",
+   "feeling": "revealing everything",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "the slit",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "it came down her like it remembered her",
+   "picture": "a remembering thing",
+   "feeling": "fit, familiarity",
+   "vehicles": [],
+   "sensation": "melting or softening",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "cool for half a second and then hers",
+   "picture": "possession",
+   "feeling": "warming into ownership",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 39,
+   "verified": true,
+   "quote": "stood up four inches taller into the long line",
+   "picture": "a line",
+   "feeling": "elongated posture",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 41,
+   "verified": true,
+   "quote": "cut off at the collarbone",
+   "picture": "a cut",
+   "feeling": "partial view",
+   "vehicles": [],
+   "sensation": "sharpness or cutting",
+   "applies_to": "the mirror image",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "made-up",
+   "line": 41,
+   "verified": true,
+   "quote": "had already been given the rest to guess at",
+   "picture": "a gift",
+   "feeling": "others saw the dress",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "strangers",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 45,
+   "verified": true,
+   "quote": "deep red going bottomless where the light moved on it",
+   "picture": "deep water",
+   "feeling": "depth of color",
+   "vehicles": [
+    "bottom"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 45,
+   "verified": true,
+   "quote": "Then the dress landed on him",
+   "picture": "a blow",
+   "feeling": "impact of sight",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 47,
+   "verified": true,
+   "quote": "His eyes took her in and stopped at her feet and stayed there.",
+   "picture": "traveling eyes",
+   "feeling": "gaze fixing",
+   "vehicles": [],
+   "sensation": "being seen or exposed",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 51,
+   "verified": true,
+   "quote": "the walk the room got",
+   "picture": "a gift",
+   "feeling": "audience received it",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the walk",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 51,
+   "verified": true,
+   "quote": "given and taken back and given",
+   "picture": "offering",
+   "feeling": "revealing and covering",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "the slit",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 51,
+   "verified": true,
+   "quote": "His face did what the room's murmur had done, except silently, and to her it was louder.",
+   "picture": "loudness",
+   "feeling": "silent reaction stronger",
+   "vehicles": [
+    "murmur"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Pace's face",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 53,
+   "verified": true,
+   "quote": "the putting-away cost him something she could see",
+   "picture": "a price",
+   "feeling": "restraint's effort",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 53,
+   "verified": true,
+   "quote": "with her heart going",
+   "picture": "a running engine",
+   "feeling": "racing heart",
+   "vehicles": [
+    "engine"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 61,
+   "verified": true,
+   "quote": "a thing somebody's hands were in",
+   "picture": "hands inside",
+   "feeling": "crafted by hand",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 61,
+   "verified": true,
+   "quote": "the pink was not stopping there",
+   "picture": "a spreading thing",
+   "feeling": "blush spreading",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's blush",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 61,
+   "verified": true,
+   "quote": "was the entire costume",
+   "picture": "a costume",
+   "feeling": "nerve and exposure as outfit",
+   "vehicles": [
+    "costume"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 65,
+   "verified": true,
+   "quote": "lamplight standing at the end of it",
+   "picture": "a figure waiting",
+   "feeling": "lit destination",
+   "vehicles": [],
+   "sensation": "light coming on",
+   "applies_to": "the lamplight",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 65,
+   "verified": true,
+   "quote": "the house's warmth moving over every part of her at once",
+   "picture": "touch",
+   "feeling": "nakedness felt",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "the house",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 65,
+   "verified": true,
+   "quote": "She'd put him there, and he'd stayed put.",
+   "picture": "placed object",
+   "feeling": "obedient stillness",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 67,
+   "verified": true,
+   "quote": "as the dress had taught her",
+   "picture": "a teacher",
+   "feeling": "posture learned",
+   "vehicles": [
+    "teacher"
+   ],
+   "sensation": "none",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 67,
+   "verified": true,
+   "quote": "the long line finishing itself",
+   "picture": "a drawn line",
+   "feeling": "completed posture",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 71,
+   "verified": true,
+   "quote": "the music was the only voice in the house",
+   "picture": "a voice",
+   "feeling": "silence between them",
+   "vehicles": [
+    "voice"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the music",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 71,
+   "verified": true,
+   "quote": "let the looking be the touch",
+   "picture": "touch",
+   "feeling": "gaze as caress",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 71,
+   "verified": true,
+   "quote": "a man being handed something and taking his time about the taking",
+   "picture": "receiving a gift",
+   "feeling": "savoring",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 73,
+   "verified": true,
+   "quote": "her hip cocked out on its own",
+   "picture": "a will of its own",
+   "feeling": "involuntary boldness",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 75,
+   "verified": true,
+   "quote": "That's like asking me to choose between sunrise and sunset.",
+   "picture": "sunrise and sunset",
+   "feeling": "two equal beauties",
+   "vehicles": [
+    "sunrise",
+    "sunset"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the two costumes",
+   "pov": "Pace",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 79,
+   "verified": true,
+   "quote": "The other is for the world.",
+   "picture": "a gift for the world",
+   "feeling": "public versus private",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the dress",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 81,
+   "verified": true,
+   "quote": "She stood in his light",
+   "picture": "standing in light",
+   "feeling": "under his regard",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "made-up",
+   "line": 81,
+   "verified": true,
+   "quote": "the blush went down and down",
+   "picture": "descending",
+   "feeling": "blush spreading",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  }
+ ]
+}

@@ -1,0 +1,2083 @@
+{
+ "slug": "under-the-rug",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "6828701f1e32",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "under-the-rug",
+   "line": 7,
+   "verified": true,
+   "quote": "the word was right there, simple, wanting out",
+   "picture": "a confined creature",
+   "feeling": "urge to speak",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 7,
+   "verified": true,
+   "quote": "the distance it would have to cross to reach him",
+   "picture": "a journey across space",
+   "feeling": "risk of speaking",
+   "vehicles": [
+    "distance"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 7,
+   "verified": true,
+   "quote": "the chance it came back empty",
+   "picture": "an empty return",
+   "feeling": "fear of unanswered love",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 7,
+   "verified": true,
+   "quote": "a room that didn't say it back",
+   "picture": "a silent listener",
+   "feeling": "fear of no reply",
+   "vehicles": [
+    "room",
+    "listener"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 9,
+   "verified": true,
+   "quote": "the dark kept handing her lately",
+   "picture": "a giving person",
+   "feeling": "recurring nighttime doubt",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the dark",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 9,
+   "verified": true,
+   "quote": "the best of him wore down",
+   "picture": "material wearing away",
+   "feeling": "pleasure gradually fading",
+   "vehicles": [
+    "material"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the best of him",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 9,
+   "verified": true,
+   "quote": "her feelings had gotten out ahead of her",
+   "picture": "a person moving ahead",
+   "feeling": "feelings outrunning understanding",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's feelings",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 9,
+   "verified": true,
+   "quote": "Her heart was going at a speed the facts hadn't earned",
+   "picture": "a speeding traveler",
+   "feeling": "love exceeding the evidence",
+   "vehicles": [
+    "heart",
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's feelings",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 11,
+   "verified": true,
+   "quote": "she held the word",
+   "picture": "a held object",
+   "feeling": "withholding her confession",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "tightening",
+   "applies_to": "the word",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 11,
+   "verified": true,
+   "quote": "what came out came out at the wrong size for the room",
+   "picture": "an oversized object",
+   "feeling": "speech too loud",
+   "vehicles": [
+    "object",
+    "room"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 15,
+   "verified": true,
+   "quote": "a daytime voice in a room built for murmuring",
+   "picture": "daytime in darkness",
+   "feeling": "voice unsuited to intimacy",
+   "vehicles": [
+    "day",
+    "room"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's voice",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 15,
+   "verified": true,
+   "quote": "She heard it land",
+   "picture": "an object landing",
+   "feeling": "impact of her question",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's question",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 17,
+   "verified": true,
+   "quote": "The edge came up under the words",
+   "picture": "a sharp edge",
+   "feeling": "unintended harshness",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 17,
+   "verified": true,
+   "quote": "She'd meant it light. She'd had it light",
+   "picture": "a light object",
+   "feeling": "intended conversational ease",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 17,
+   "verified": true,
+   "quote": "didn't bring the volume down",
+   "picture": "a lowered level",
+   "feeling": "voice remaining loud",
+   "vehicles": [
+    "level"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's voice",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 19,
+   "verified": true,
+   "quote": "sharp enough to ring",
+   "picture": "a ringing blade",
+   "feeling": "harshness of her words",
+   "vehicles": [
+    "blade"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 19,
+   "verified": true,
+   "quote": "she couldn't take it back",
+   "picture": "a retrieved object",
+   "feeling": "irreversible spoken words",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's words",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 19,
+   "verified": true,
+   "quote": "The quiet afterward was the exact size of what she'd done to it",
+   "picture": "a measurable space",
+   "feeling": "silence matching her disruption",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the quiet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 21,
+   "verified": true,
+   "quote": "the pause come and knew its shape",
+   "picture": "a shaped object",
+   "feeling": "recognition of his thoughtfulness",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "his pause",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 25,
+   "verified": true,
+   "quote": "nothing in it to push against",
+   "picture": "a resisting surface",
+   "feeling": "absence of resistance",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his answer",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 25,
+   "verified": true,
+   "quote": "The thing she'd been winding up swung out, met all that calm, and found nothing to catch on",
+   "picture": "a swinging mechanism",
+   "feeling": "anger meeting calm",
+   "vehicles": [
+    "mechanism",
+    "catch"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's anger",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 25,
+   "verified": true,
+   "quote": "the loud ugly thing she'd thrown",
+   "picture": "a thrown object",
+   "feeling": "her harsh accusation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's accusation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 25,
+   "verified": true,
+   "quote": "set it down, carefully, and handed her back a plain question",
+   "picture": "objects carefully exchanged",
+   "feeling": "his calm response",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his response",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 27,
+   "verified": true,
+   "quote": "the first name her mouth found",
+   "picture": "a found object",
+   "feeling": "an immediate choice",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "the restaurant name",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 33,
+   "verified": true,
+   "quote": "she gave him back the short ends of answers",
+   "picture": "short leftover pieces",
+   "feeling": "brief reluctant replies",
+   "vehicles": [
+    "end"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answers",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 33,
+   "verified": true,
+   "quote": "not picking any of it up",
+   "picture": "objects picked up",
+   "feeling": "failure to engage",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "his small talk",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 33,
+   "verified": true,
+   "quote": "couldn't find the part of herself that was supposed to be glad",
+   "picture": "a missing part",
+   "feeling": "inability to feel glad",
+   "vehicles": [
+    "part"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 35,
+   "verified": true,
+   "quote": "the bright roar of the place",
+   "picture": "a roaring animal",
+   "feeling": "overwhelming restaurant noise",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the restaurant",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 35,
+   "verified": true,
+   "quote": "the sound seemed to pool",
+   "picture": "pooled water",
+   "feeling": "noise gathering around them",
+   "vehicles": [
+    "water",
+    "pool"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "the sound",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 37,
+   "verified": true,
+   "quote": "It had him before the drinks came",
+   "picture": "a captive person",
+   "feeling": "his attention captured",
+   "vehicles": [
+    "captive"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "the television",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 37,
+   "verified": true,
+   "quote": "working to keep it light",
+   "picture": "a light object",
+   "feeling": "maintaining easy conversation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "floating or weightless",
+   "applies_to": "the conversation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 37,
+   "verified": true,
+   "quote": "his eyes would lift to hers and then slip",
+   "picture": "slipping objects",
+   "feeling": "attention drifting away",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his gaze",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 37,
+   "verified": true,
+   "quote": "caught on whatever had moved on the screen",
+   "picture": "a caught object",
+   "feeling": "attention snagged by movement",
+   "vehicles": [
+    "object",
+    "hook"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "his gaze",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 37,
+   "verified": true,
+   "quote": "the bringing-back had a cost",
+   "picture": "a price paid",
+   "feeling": "effort of returning attention",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his returning gaze",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 41,
+   "verified": true,
+   "quote": "The song overhead gave way to a louder one",
+   "picture": "a person yielding passage",
+   "feeling": "one song replacing another",
+   "vehicles": [
+    "person",
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the song",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 41,
+   "verified": true,
+   "quote": "something crossed his face",
+   "picture": "a passing shadow",
+   "feeling": "brief visible irritation",
+   "vehicles": [
+    "shadow",
+    "face"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "his expression",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 41,
+   "verified": true,
+   "quote": "a flicker of plain irritation",
+   "picture": "a flickering flame",
+   "feeling": "brief visible irritation",
+   "vehicles": [
+    "flame"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "his irritation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 41,
+   "verified": true,
+   "quote": "he dropped his eyes to the table",
+   "picture": "falling eyes",
+   "feeling": "averting his gaze",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "his gaze",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 41,
+   "verified": true,
+   "quote": "as if he didn't want her to have it",
+   "picture": "an unwanted gift",
+   "feeling": "withholding his irritation",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "his irritation",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 43,
+   "verified": true,
+   "quote": "She'd dragged him out",
+   "picture": "a person dragged",
+   "feeling": "pressuring him to go",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "his outing",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 43,
+   "verified": true,
+   "quote": "he couldn't hold his eyes on her face",
+   "picture": "eyes held in place",
+   "feeling": "his wandering attention",
+   "vehicles": [
+    "eye"
+   ],
+   "sensation": "tightening",
+   "applies_to": "his gaze",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 43,
+   "verified": true,
+   "quote": "The room roared its agreement",
+   "picture": "a roaring crowd",
+   "feeling": "noise confirming her fear",
+   "vehicles": [
+    "room",
+    "crowd"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "the thing lay there, dead",
+   "picture": "a dead thing",
+   "feeling": "food tasting lifeless",
+   "vehicles": [
+    "corpse"
+   ],
+   "sensation": "none",
+   "applies_to": "the chip",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "want past it",
+   "picture": "a place beyond",
+   "feeling": "desire for something more",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "all of it landing at once and saying nothing",
+   "picture": "a silent arrival",
+   "feeling": "flavors without distinction",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the nachos' flavors",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "It was to food what a billboard is to a painting",
+   "picture": "billboard and painting",
+   "feeling": "crude overwhelming food",
+   "vehicles": [
+    "billboard",
+    "painting"
+   ],
+   "sensation": "none",
+   "applies_to": "the nachos",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "he gave each thing on the plate its own voice and its own turn",
+   "picture": "speakers taking turns",
+   "feeling": "distinct balanced flavors",
+   "vehicles": [
+    "speaker",
+    "voice"
+   ],
+   "sensation": "none",
+   "applies_to": "his cooking",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "the lemon came up first and then the butter under it and then the char",
+   "picture": "successive arrivals",
+   "feeling": "flavors emerging in sequence",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "his cooking",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 45,
+   "verified": true,
+   "quote": "every color on the palette squeezed out and stirred together at once until you got the one muddy brown you always got",
+   "picture": "paints mixed together",
+   "feeling": "flavors muddled together",
+   "vehicles": [
+    "color",
+    "palette",
+    "paint"
+   ],
+   "sensation": "none",
+   "applies_to": "the nachos",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 49,
+   "verified": true,
+   "quote": "The talk gave out somewhere and didn't catch again",
+   "picture": "a failing fire",
+   "feeling": "conversation stopping",
+   "vehicles": [
+    "fire"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the conversation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 49,
+   "verified": true,
+   "quote": "talk under",
+   "picture": "a covering layer",
+   "feeling": "privacy amid noise",
+   "vehicles": [
+    "cover"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the restaurant noise",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "his shoulders came down off wherever they'd been all through dinner",
+   "picture": "raised shoulders",
+   "feeling": "physical tension easing",
+   "vehicles": [
+    "shoulder"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his shoulders",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "the ease came back into him like a light turned up",
+   "picture": "a brightening light",
+   "feeling": "ease returning visibly",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "his ease",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "the place she'd dragged them to",
+   "picture": "people dragged along",
+   "feeling": "pressure to go out",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "their restaurant outing",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "It didn't sit right",
+   "picture": "an ill-fitting object",
+   "feeling": "unease with her interpretation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's interpretation",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "some small wrong note",
+   "picture": "a discordant note",
+   "feeling": "a hint of error",
+   "vehicles": [
+    "note"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's interpretation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "turn over to hear properly",
+   "picture": "an object turned",
+   "feeling": "examining her doubt",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's doubt",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 53,
+   "verified": true,
+   "quote": "her mouth still tasted of nothing",
+   "picture": "an empty taste",
+   "feeling": "lingering dissatisfaction",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 55,
+   "verified": true,
+   "quote": "reading her for what she wanted",
+   "picture": "a written page",
+   "feeling": "studying her wishes",
+   "vehicles": [
+    "page"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 55,
+   "verified": true,
+   "quote": "She couldn't hold still under it",
+   "picture": "a weight overhead",
+   "feeling": "discomfort under his attention",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "You went cold on me",
+   "picture": "falling temperature",
+   "feeling": "emotional withdrawal",
+   "vehicles": [],
+   "sensation": "cold or chill",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "Some back room of her knew",
+   "picture": "a back room",
+   "feeling": "buried awareness of truth",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "which of them had gone cold",
+   "picture": "falling temperature",
+   "feeling": "emotional withdrawal",
+   "vehicles": [],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "she needed the line of it to hold",
+   "picture": "a taut line",
+   "feeling": "need for a coherent accusation",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's accusation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "you thaw right out",
+   "picture": "ice thawing",
+   "feeling": "sudden emotional warmth",
+   "vehicles": [
+    "ice"
+   ],
+   "sensation": "melting or softening",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 61,
+   "verified": true,
+   "quote": "You only warm to me",
+   "picture": "rising temperature",
+   "feeling": "affection returning",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 63,
+   "verified": true,
+   "quote": "He set the true thing down between them and let it be true",
+   "picture": "an object set down",
+   "feeling": "calmly stating the truth",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his statement",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 65,
+   "verified": true,
+   "quote": "Whatever had been holding her up collapsed",
+   "picture": "a collapsing support",
+   "feeling": "her resistance giving way",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 65,
+   "verified": true,
+   "quote": "She didn't have anywhere to put *you know* except where it belonged",
+   "picture": "an object put away",
+   "feeling": "recognition of the truth",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his words",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 67,
+   "verified": true,
+   "quote": "He let the quiet sit",
+   "picture": "a seated person",
+   "feeling": "allowing silence to remain",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the quiet",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 67,
+   "verified": true,
+   "quote": "he gave her the other true thing",
+   "picture": "a given object",
+   "feeling": "offering an explanation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "his explanation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 71,
+   "verified": true,
+   "quote": "the fight left her all at once",
+   "picture": "a departing person",
+   "feeling": "sudden end of resistance",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's anger",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 71,
+   "verified": true,
+   "quote": "The fear that had stood on her chest since the dark of the bedroom stepped off",
+   "picture": "a person standing on a chest",
+   "feeling": "fear releasing its pressure",
+   "vehicles": [
+    "person",
+    "chest"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's fear",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 73,
+   "verified": true,
+   "quote": "It sat well in her",
+   "picture": "an object resting inside",
+   "feeling": "comfort in forgiveness",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's idea of forgiveness",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 73,
+   "verified": true,
+   "quote": "*forgiven*, warm and large and easy to wear",
+   "picture": "a warm garment",
+   "feeling": "comfort in forgiving him",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's idea of forgiveness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 73,
+   "verified": true,
+   "quote": "she'd let it go",
+   "picture": "a released object",
+   "feeling": "releasing her grievance",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's grievance",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 73,
+   "verified": true,
+   "quote": "the night had that clean shape now, and she could rest inside a shape like that",
+   "picture": "a sheltering shape",
+   "feeling": "comfort in a tidy account",
+   "vehicles": [
+    "shape",
+    "shelter"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the night",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 75,
+   "verified": true,
+   "quote": "her breath started to come apart",
+   "picture": "something breaking apart",
+   "feeling": "breathing becoming uneven",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's breathing",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 75,
+   "verified": true,
+   "quote": "a long pull that went all the way down through her",
+   "picture": "a pull through the body",
+   "feeling": "pleasure traveling through her",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 75,
+   "verified": true,
+   "quote": "his weight settling into her like a man come home",
+   "picture": "a man coming home",
+   "feeling": "familiar bodily closeness",
+   "vehicles": [
+    "man",
+    "home"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "his weight",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 75,
+   "verified": true,
+   "quote": "as though he were taking something there for himself",
+   "picture": "an object taken",
+   "feeling": "his search for comfort",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "his attention to her",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 75,
+   "verified": true,
+   "quote": "her back lifting off the bed to feed him more of it",
+   "picture": "feeding someone",
+   "feeling": "giving him more comfort",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "It drove her need up and up",
+   "picture": "something driven upward",
+   "feeling": "intensifying desire",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's need",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "with a sharpness that startled her",
+   "picture": "a sharp edge",
+   "feeling": "startling intensity of desire",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "for his control to give",
+   "picture": "a yielding restraint",
+   "feeling": "his restraint weakening",
+   "vehicles": [
+    "restraint"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his control",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "the want in him to get the better of him",
+   "picture": "a winning opponent",
+   "feeling": "desire overcoming restraint",
+   "vehicles": [
+    "opponent"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "his desire",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "he held himself",
+   "picture": "a restrained person",
+   "feeling": "maintaining self-control",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "tightening",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "the wanting he wouldn't yet spend",
+   "picture": "unspent money",
+   "feeling": "desire held in reserve",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "his desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 77,
+   "verified": true,
+   "quote": "pooled in her as her own",
+   "picture": "pooling water",
+   "feeling": "desire gathering in her",
+   "vehicles": [
+    "water",
+    "pool"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 79,
+   "verified": true,
+   "quote": "the room went out",
+   "picture": "a light extinguished",
+   "feeling": "surroundings fading from awareness",
+   "vehicles": [
+    "light",
+    "room"
+   ],
+   "sensation": "darkness or shadow",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 79,
+   "verified": true,
+   "quote": "patience should have broken",
+   "picture": "a breaking object",
+   "feeling": "patience reaching its limit",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "his patience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 79,
+   "verified": true,
+   "quote": "reading her by the one language her body couldn't lie in",
+   "picture": "a truthful language",
+   "feeling": "understanding her bodily responses",
+   "vehicles": [
+    "language",
+    "text"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 79,
+   "verified": true,
+   "quote": "the wanting had nowhere left to climb and climbed anyway",
+   "picture": "a climber ascending",
+   "feeling": "desire exceeding its limit",
+   "vehicles": [
+    "climber"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 81,
+   "verified": true,
+   "quote": "right at the top of it, with all of her drawn to the edge",
+   "picture": "a high edge",
+   "feeling": "approaching orgasm",
+   "vehicles": [
+    "edge",
+    "height"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 81,
+   "verified": true,
+   "quote": "the name for what they were, whole, pushing for the surface",
+   "picture": "something surfacing",
+   "feeling": "unspoken name rising",
+   "vehicles": [
+    "surface",
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the name",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 81,
+   "verified": true,
+   "quote": "her body broke over the edge",
+   "picture": "a wave breaking",
+   "feeling": "orgasm breaking through",
+   "vehicles": [
+    "wave",
+    "edge"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 81,
+   "verified": true,
+   "quote": "took it back down, drowned it clean",
+   "picture": "something drowned underwater",
+   "feeling": "unspoken name submerged",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "the name",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "the patience went out of him",
+   "picture": "something leaving a container",
+   "feeling": "his patience ending",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his patience",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "like a man who'd run clean out of the strength to wait",
+   "picture": "an exhausted runner",
+   "feeling": "exhausted self-restraint",
+   "vehicles": [
+    "man",
+    "runner"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "the loss of it caught her up",
+   "picture": "a person swept along",
+   "feeling": "sudden shared urgency",
+   "vehicles": [
+    "person",
+    "current"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "his urgency striking the spark of her own",
+   "picture": "a struck spark",
+   "feeling": "his urgency igniting hers",
+   "vehicles": [
+    "spark"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee's urgency",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "she was climbing again",
+   "picture": "a climber ascending",
+   "feeling": "arousal rising again",
+   "vehicles": [
+    "climber"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "her body answering his",
+   "picture": "a spoken reply",
+   "feeling": "involuntary bodily response",
+   "vehicles": [
+    "speaker"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "her passion reaching up and pulling him over after her",
+   "picture": "a person pulled over an edge",
+   "feeling": "her orgasm drawing his",
+   "vehicles": [
+    "person",
+    "edge"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's passion",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "spent himself in her",
+   "picture": "something spent",
+   "feeling": "his orgasm",
+   "vehicles": [
+    "money"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 83,
+   "verified": true,
+   "quote": "shaking, undone",
+   "picture": "a fastening undone",
+   "feeling": "restraint dissolved by orgasm",
+   "vehicles": [
+    "fastening"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 85,
+   "verified": true,
+   "quote": "the relief had her",
+   "picture": "a person held",
+   "feeling": "relief taking hold",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 85,
+   "verified": true,
+   "quote": "swept clean through, loose and emptied",
+   "picture": "a swept container",
+   "feeling": "complete bodily release",
+   "vehicles": [
+    "broom",
+    "container"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 87,
+   "verified": true,
+   "quote": "He went down into it easy",
+   "picture": "a descent into water",
+   "feeling": "easily falling asleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "his sleep",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 89,
+   "verified": true,
+   "quote": "as though the kisses were still set there",
+   "picture": "objects set on skin",
+   "feeling": "lingering sensation of kisses",
+   "vehicles": [
+    "object",
+    "skin"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "his kisses",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 89,
+   "verified": true,
+   "quote": "marked all over with where he'd been",
+   "picture": "marks on skin",
+   "feeling": "his touch lingering",
+   "vehicles": [
+    "mark",
+    "skin"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 89,
+   "verified": true,
+   "quote": "the want of the name came back and found her",
+   "picture": "a returning seeker",
+   "feeling": "desire for a name returning",
+   "vehicles": [
+    "seeker"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "a body that had learned to wait for him and open for him and give her away",
+   "picture": "a person given away",
+   "feeling": "involuntary surrender to desire",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "lose himself",
+   "picture": "a lost person",
+   "feeling": "loss of self-control",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "taken the careful apart in him",
+   "picture": "an object dismantled",
+   "feeling": "undoing his restraint",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "his carefulness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "nothing left in him to keep behind any wall",
+   "picture": "a hiding wall",
+   "feeling": "complete emotional exposure",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "He'd given her his control and all of his body",
+   "picture": "gifts handed over",
+   "feeling": "his surrender to her",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "his surrender",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "what she had of him she could not have held up to anyone",
+   "picture": "an object held up",
+   "feeling": "relationship impossible to demonstrate",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's bond with him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 91,
+   "verified": true,
+   "quote": "It lived only here, in the dark, in this bed, and stopped at its edges",
+   "picture": "a confined living thing",
+   "feeling": "bond confined to privacy",
+   "vehicles": [
+    "creature",
+    "bed",
+    "edge"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's bond with him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 93,
+   "verified": true,
+   "quote": "taken her apart with his hands and his mouth and put her back together warm",
+   "picture": "a dismantled restored object",
+   "feeling": "pleasure and tender restoration",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 93,
+   "verified": true,
+   "quote": "the best thing that had ever come into her life",
+   "picture": "an arrival",
+   "feeling": "his importance to her",
+   "vehicles": [
+    "traveler"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 93,
+   "verified": true,
+   "quote": "could not take a bit of it in",
+   "picture": "food taken in",
+   "feeling": "inability to absorb comfort",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "the unease turned over and came up with it again",
+   "picture": "something turning underwater",
+   "feeling": "recurring unsettled thought",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's unease",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "no other way out of her",
+   "picture": "an enclosed space",
+   "feeling": "thought needing expression",
+   "vehicles": [
+    "container",
+    "exit"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's unease",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "a word with any business near what they were",
+   "picture": "a person approaching",
+   "feeling": "doubt about the label",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the word boyfriend",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "the word gone small and wrong",
+   "picture": "a shrinking object",
+   "feeling": "label feeling inadequate",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the word boyfriend",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "how she'd lay him out for her father",
+   "picture": "an object displayed",
+   "feeling": "explaining him to her father",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "him",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "under-the-rug",
+   "line": 95,
+   "verified": true,
+   "quote": "the not-knowing ground in her and would not quiet",
+   "picture": "a grinding mechanism",
+   "feeling": "persistent painful uncertainty",
+   "vehicles": [
+    "mechanism"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's uncertainty",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

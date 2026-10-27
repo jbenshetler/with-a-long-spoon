@@ -1,0 +1,2015 @@
+{
+ "slug": "postcard",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "cce2cb07f858",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "postcard",
+   "line": 3,
+   "verified": true,
+   "quote": "inside spring break",
+   "picture": "an enclosing space",
+   "feeling": "being within a time",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "none",
+   "applies_to": "the events of the chapter",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 9,
+   "verified": true,
+   "quote": "the drawer took everything she had brought",
+   "picture": "a person accepting things",
+   "feeling": "ample room for belongings",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the drawer",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 13,
+   "verified": true,
+   "quote": "something in her went sideways and dropped",
+   "picture": "a falling object",
+   "feeling": "sudden sense of absence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 17,
+   "verified": true,
+   "quote": "The texts came in clumps",
+   "picture": "clusters of objects",
+   "feeling": "messages arriving unevenly",
+   "vehicles": [
+    "clump"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's texts",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 17,
+   "verified": true,
+   "quote": "the water was the color of a cleaning product",
+   "picture": "a cleaning product",
+   "feeling": "strikingly artificial blue water",
+   "vehicles": [
+    "cleaning product"
+   ],
+   "sensation": "none",
+   "applies_to": "the water",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 17,
+   "verified": true,
+   "quote": "Randi's day ran alongside Vee's at a slant",
+   "picture": "slanting parallel paths",
+   "feeling": "days out of alignment",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's and Vee's days",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 17,
+   "verified": true,
+   "quote": "the phone would be dead all afternoon",
+   "picture": "a lifeless body",
+   "feeling": "absence of incoming messages",
+   "vehicles": [
+    "body"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's phone",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 25,
+   "verified": true,
+   "quote": "the room came back around her in pieces",
+   "picture": "pieces assembling around someone",
+   "feeling": "gradual return of awareness",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's awareness of the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 35,
+   "verified": true,
+   "quote": "the light found them",
+   "picture": "a person finding something",
+   "feeling": "tan lines becoming visible",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi's tan lines",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 53,
+   "verified": true,
+   "quote": "like a person doing something innocent",
+   "picture": "an innocent person",
+   "feeling": "feigned casual innocence",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 53,
+   "verified": true,
+   "quote": "she came down the thread the way you come down a stair in the dark in somebody else's house",
+   "picture": "a dark staircase",
+   "feeling": "cautious, uneasy anticipation",
+   "vehicles": [
+    "stair",
+    "house"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee reading the messages",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 53,
+   "verified": true,
+   "quote": "she did not pretend she was going anywhere else",
+   "picture": "travel to a destination",
+   "feeling": "acknowledgment of her intention",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attention to the photograph",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 55,
+   "verified": true,
+   "quote": "Somebody had drawn a line on Randi with the sun",
+   "picture": "a line drawn",
+   "feeling": "sharp contrast of tan lines",
+   "vehicles": [
+    "line",
+    "sun"
+   ],
+   "sensation": "sharpness or cutting",
+   "applies_to": "Randi's tan lines",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 57,
+   "verified": true,
+   "quote": "the part of her that might have had something to say about it arriving and finding the matter settled",
+   "picture": "a late arriving person",
+   "feeling": "conscious thought following action",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's conscious judgment",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 59,
+   "verified": true,
+   "quote": "the arrival of it",
+   "picture": "an arriving visitor",
+   "feeling": "arousal appearing unnoticed",
+   "vehicles": [
+    "visitor"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 59,
+   "verified": true,
+   "quote": "the fact of her waiting for her, arrived without a vote",
+   "picture": "an unvoted arrival",
+   "feeling": "arousal preceding conscious choice",
+   "vehicles": [
+    "visitor",
+    "ballot"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 63,
+   "verified": true,
+   "quote": "the part that got her",
+   "picture": "a person seizing someone",
+   "feeling": "intense emotional impact",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's response to her action",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 63,
+   "verified": true,
+   "quote": "the shame came up under it and lifted it and drove the whole thing along faster",
+   "picture": "a lifting propelling force",
+   "feeling": "shame intensifying arousal",
+   "vehicles": [
+    "force"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's shame and arousal",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 65,
+   "verified": true,
+   "quote": "Pace surfaced",
+   "picture": "surfacing from water",
+   "feeling": "pace entering her thoughts",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's thought of Pace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 67,
+   "verified": true,
+   "quote": "The idea of him, arriving in the dark the way a face does",
+   "picture": "a face appearing",
+   "feeling": "pace's sudden mental presence",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's idea of Pace",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 67,
+   "verified": true,
+   "quote": "like a bell going off in another room, the sentence",
+   "picture": "a ringing bell",
+   "feeling": "sudden intrusive recollection",
+   "vehicles": [
+    "bell",
+    "room"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Pace's remembered sentence",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 67,
+   "verified": true,
+   "quote": "It came up whole",
+   "picture": "an object rising intact",
+   "feeling": "a complete sentence recalled",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Pace's remembered sentence",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 67,
+   "verified": true,
+   "quote": "the size of what it would cost to wake him and say it",
+   "picture": "a large price",
+   "feeling": "anticipated difficulty of confessing",
+   "vehicles": [
+    "price"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "telling Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 69,
+   "verified": true,
+   "quote": "the picture came back and she went with it",
+   "picture": "traveling with someone",
+   "feeling": "returning attention to desire",
+   "vehicles": [
+    "companion"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's attention to Randi's picture",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 69,
+   "verified": true,
+   "quote": "the bell stopped",
+   "picture": "a bell falling silent",
+   "feeling": "intrusive recollection subsiding",
+   "vehicles": [
+    "bell"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's memory of Pace's request",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 71,
+   "verified": true,
+   "quote": "at the edge",
+   "picture": "an edge of space",
+   "feeling": "thought at awareness's margin",
+   "vehicles": [
+    "edge"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's awareness",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 71,
+   "verified": true,
+   "quote": "the clean emptiness where the toll should have been",
+   "picture": "an absent toll",
+   "feeling": "absence of perceived obligation",
+   "vehicles": [
+    "toll"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's sense of obligation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 71,
+   "verified": true,
+   "quote": "looking at it would have meant standing still",
+   "picture": "a person standing still",
+   "feeling": "pausing to consider implications",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee considering her situation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 73,
+   "verified": true,
+   "quote": "she was past that",
+   "picture": "travel past a point",
+   "feeling": "desire moving beyond touch",
+   "vehicles": [
+    "point"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 73,
+   "verified": true,
+   "quote": "she was nearly there",
+   "picture": "nearing a destination",
+   "feeling": "approaching orgasm",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 73,
+   "verified": true,
+   "quote": "the whole of her gathering up toward it",
+   "picture": "things gathering together",
+   "feeling": "arousal building toward orgasm",
+   "vehicles": [
+    "bundle"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 77,
+   "verified": true,
+   "quote": "her hand stopped as if it had been caught in a door",
+   "picture": "a hand caught in a door",
+   "feeling": "sudden arrested movement",
+   "vehicles": [
+    "hand",
+    "door"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee's hand",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 79,
+   "verified": true,
+   "quote": "Her pulse went on without her",
+   "picture": "a person going on alone",
+   "feeling": "bodily arousal continuing involuntarily",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's pulse",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 89,
+   "verified": true,
+   "quote": "She was wound to a pitch that had nowhere to go",
+   "picture": "a tightly wound spring",
+   "feeling": "pent-up sexual tension",
+   "vehicles": [
+    "spring"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 89,
+   "verified": true,
+   "quote": "the relief of it went all the way up through her",
+   "picture": "a rising current",
+   "feeling": "relief spreading through her",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's relief",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 91,
+   "verified": true,
+   "quote": "ride longer than her legs would have carried her",
+   "picture": "riding a mount",
+   "feeling": "sustained sexual movement",
+   "vehicles": [
+    "mount"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee having sex with Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 91,
+   "verified": true,
+   "quote": "the picture stayed where it was in the back of her head",
+   "picture": "an object stored in a head",
+   "feeling": "image remaining in memory",
+   "vehicles": [
+    "picture",
+    "head"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's memory of the picture",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 93,
+   "verified": true,
+   "quote": "the words came out on the same current as everything else",
+   "picture": "things carried by a current",
+   "feeling": "speech flowing involuntarily",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's speech",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 93,
+   "verified": true,
+   "quote": "she'd nearly fallen asleep on the couch at four in the afternoon like an old woman",
+   "picture": "an old woman",
+   "feeling": "amusement at her tiredness",
+   "vehicles": [
+    "woman"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 101,
+   "verified": true,
+   "quote": "Something in her went over sideways, small and thrilling",
+   "picture": "an object tipping sideways",
+   "feeling": "sudden intimate excitement",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 111,
+   "verified": true,
+   "quote": "it had come up and gone by her in the dark like a car on a country road",
+   "picture": "a passing car",
+   "feeling": "unease apparently passing",
+   "vehicles": [
+    "car",
+    "road"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's moment of unease",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 113,
+   "verified": true,
+   "quote": "So they don't feel left out",
+   "picture": "excluded people",
+   "feeling": "playful concern for fingers",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's other fingers",
+   "pov": "Pace",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 119,
+   "verified": true,
+   "quote": "there was no version of the next ten seconds where she got out of it",
+   "picture": "escape from confinement",
+   "feeling": "inescapable impending exposure",
+   "vehicles": [
+    "enclosure"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's predicament",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 119,
+   "verified": true,
+   "quote": "the whole patient weight of him under her and around her and inside her",
+   "picture": "a surrounding weight",
+   "feeling": "his enveloping patience",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 123,
+   "verified": true,
+   "quote": "the shame came up her body in one clean sheet from her feet to her scalp",
+   "picture": "a rising sheet",
+   "feeling": "shame engulfing her body",
+   "vehicles": [
+    "sheet"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's shame",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 131,
+   "verified": true,
+   "quote": "It came out fast, all in one piece, scrambling",
+   "picture": "a scrambling object",
+   "feeling": "hurried, tangled speech",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 131,
+   "verified": true,
+   "quote": "she heard it land in the dark between them and go on lying there",
+   "picture": "a fallen object",
+   "feeling": "words lingering between them",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 133,
+   "verified": true,
+   "quote": "Something crossed his face",
+   "picture": "a passing object",
+   "feeling": "a fleeting expression",
+   "vehicles": [
+    "object",
+    "face"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 133,
+   "verified": true,
+   "quote": "the room had come up enough",
+   "picture": "a rising light",
+   "feeling": "growing visibility",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 133,
+   "verified": true,
+   "quote": "something went over it, there and gone",
+   "picture": "a passing object",
+   "feeling": "a fleeting expression",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Pace's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 133,
+   "verified": true,
+   "quote": "faster than she could put a hand on",
+   "picture": "a grasping hand",
+   "feeling": "an elusive expression",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's expression",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 135,
+   "verified": true,
+   "quote": "taking his time with it",
+   "picture": "a held object",
+   "feeling": "unhurried attention",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 135,
+   "verified": true,
+   "quote": "a warmth that ran right through the middle of her mortification and made a mess of it",
+   "picture": "warmth disturbing a substance",
+   "feeling": "reassurance disrupting embarrassment",
+   "vehicles": [
+    "substance"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 135,
+   "verified": true,
+   "quote": "He was working through her hand like a man with nowhere to be",
+   "picture": "an unhurried man",
+   "feeling": "unhurried attention",
+   "vehicles": [
+    "man"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 139,
+   "verified": true,
+   "quote": "the four words she had just put in the air",
+   "picture": "objects placed in air",
+   "feeling": "words spoken aloud",
+   "vehicles": [
+    "object",
+    "air"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 139,
+   "verified": true,
+   "quote": "she could not take them back",
+   "picture": "objects retrieved",
+   "feeling": "irrevocability of her words",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 147,
+   "verified": true,
+   "quote": "there was a hole in the sentence",
+   "picture": "a hole",
+   "feeling": "an unanswered implication",
+   "vehicles": [
+    "hole"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 147,
+   "verified": true,
+   "quote": "she heard exactly what shape it was",
+   "picture": "a shaped hole",
+   "feeling": "recognition of the implication",
+   "vehicles": [
+    "hole"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the hole in the sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 147,
+   "verified": true,
+   "quote": "what a person lying in the dark would put in a hole like that",
+   "picture": "a filled hole",
+   "feeling": "an imagined interpretation",
+   "vehicles": [
+    "hole"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "the hole in the sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 149,
+   "verified": true,
+   "quote": "The voice had gone",
+   "picture": "a departing person",
+   "feeling": "loss of composure",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 149,
+   "verified": true,
+   "quote": "what came out was smaller and younger and stripped of everything",
+   "picture": "a stripped person",
+   "feeling": "exposed vulnerability",
+   "vehicles": [
+    "person",
+    "clothing"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 149,
+   "verified": true,
+   "quote": "saying it would build the picture",
+   "picture": "a constructed picture",
+   "feeling": "making the implication vivid",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's unspoken word",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 153,
+   "verified": true,
+   "quote": "woke it",
+   "picture": "a sleeping person",
+   "feeling": "phone becoming active",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the phone",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 165,
+   "verified": true,
+   "quote": "the root of herself",
+   "picture": "a plant root",
+   "feeling": "deep physical sensation",
+   "vehicles": [
+    "root",
+    "plant"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 167,
+   "verified": true,
+   "quote": "The relief that went through her",
+   "picture": "a moving current",
+   "feeling": "relief throughout her body",
+   "vehicles": [
+    "current"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 169,
+   "verified": true,
+   "quote": "that easy greedy thing that lit up in them",
+   "picture": "a light coming on",
+   "feeling": "sudden sexual interest",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "men's reaction",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 169,
+   "verified": true,
+   "quote": "going warm all over with the ordinariness of it",
+   "picture": "spreading warmth",
+   "feeling": "comfort in perceived normality",
+   "vehicles": [
+    "warmth"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 175,
+   "verified": true,
+   "quote": "Her voice had come partway back",
+   "picture": "a returning person",
+   "feeling": "partial return of composure",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 187,
+   "verified": true,
+   "quote": "the whole ache of herself hanging an inch off him",
+   "picture": "a hanging weight",
+   "feeling": "suspended physical longing",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 191,
+   "verified": true,
+   "quote": "the heat came up over her face",
+   "picture": "rising heat",
+   "feeling": "sudden embarrassment",
+   "vehicles": [
+    "heat"
+   ],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 197,
+   "verified": true,
+   "quote": "it turned her around and made her look at the thing she had just smoothed over",
+   "picture": "a person turned around",
+   "feeling": "forced reconsideration",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the stillness",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 197,
+   "verified": true,
+   "quote": "the thing she had just smoothed over",
+   "picture": "a smoothed surface",
+   "feeling": "an evaded truth",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 197,
+   "verified": true,
+   "quote": "As though she had been studying a pool",
+   "picture": "a pool",
+   "feeling": "detached attention",
+   "vehicles": [
+    "pool"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's description of looking",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 207,
+   "verified": true,
+   "quote": "something cold going through the middle of all that heat",
+   "picture": "cold through heat",
+   "feeling": "uneasy recognition amid arousal",
+   "vehicles": [
+    "heat",
+    "cold"
+   ],
+   "sensation": "cold or chill",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 209,
+   "verified": true,
+   "quote": "She shoved it down",
+   "picture": "an object pushed down",
+   "feeling": "suppressed recognition",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's thought",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 211,
+   "verified": true,
+   "quote": "Her voice cracked",
+   "picture": "a cracked object",
+   "feeling": "strain in her voice",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 211,
+   "verified": true,
+   "quote": "I was nearly there",
+   "picture": "a destination",
+   "feeling": "approaching orgasm",
+   "vehicles": [
+    "destination"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 217,
+   "verified": true,
+   "quote": "she cast back over the last minute",
+   "picture": "a backward search",
+   "feeling": "searching her memory",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 217,
+   "verified": true,
+   "quote": "the tidy thing, the smoothed thing",
+   "picture": "a smoothed surface",
+   "feeling": "an evasive answer",
+   "vehicles": [
+    "surface"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 217,
+   "verified": true,
+   "quote": "the place she had gone around",
+   "picture": "a place bypassed",
+   "feeling": "an avoided truth",
+   "vehicles": [
+    "place",
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 225,
+   "verified": true,
+   "quote": "the thing she had been carrying since before she woke him",
+   "picture": "a carried object",
+   "feeling": "an unspoken desire",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 225,
+   "verified": true,
+   "quote": "she had put it down",
+   "picture": "a set-down burden",
+   "feeling": "disclosure of her desire",
+   "vehicles": [
+    "burden"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's desire",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 227,
+   "verified": true,
+   "quote": "the one she had already spent and paid for and walked out of",
+   "picture": "a paid-for place",
+   "feeling": "a past experience concluded",
+   "vehicles": [
+    "place",
+    "money"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's earlier experience",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 235,
+   "verified": true,
+   "quote": "It came out of her in pieces",
+   "picture": "broken pieces",
+   "feeling": "fragmented confession",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's words",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "It went through the end of the sentence and broke it",
+   "picture": "a broken object",
+   "feeling": "speech interrupted by sensation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's sentence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "it built so fast",
+   "picture": "a growing structure",
+   "feeling": "rapidly mounting pleasure",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's arousal",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "the whole of it going out of her at once",
+   "picture": "an outgoing flow",
+   "feeling": "sudden bodily release",
+   "vehicles": [
+    "flow"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "she rode it",
+   "picture": "riding a mount",
+   "feeling": "moving with his thrusts",
+   "vehicles": [
+    "mount"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "no words left anywhere in her",
+   "picture": "an empty container",
+   "feeling": "unable to speak",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "she was over before she had understood it was coming",
+   "picture": "a journey's end",
+   "feeling": "sudden completed orgasm",
+   "vehicles": [
+    "journey"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's orgasm",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 239,
+   "verified": true,
+   "quote": "folding down onto his chest",
+   "picture": "a folding object",
+   "feeling": "body collapsing against him",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 247,
+   "verified": true,
+   "quote": "Her heart came down slowly",
+   "picture": "a descending heart",
+   "feeling": "gradual return to calm",
+   "vehicles": [
+    "heart"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 247,
+   "verified": true,
+   "quote": "the green sheets were wrecked",
+   "picture": "a wreck",
+   "feeling": "sheets left disordered",
+   "vehicles": [
+    "wreck"
+   ],
+   "sensation": "none",
+   "applies_to": "the sheets",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 249,
+   "verified": true,
+   "quote": "The pressure had gone out of her",
+   "picture": "pressure escaping a vessel",
+   "feeling": "tension has passed",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 249,
+   "verified": true,
+   "quote": "the other thing was coming into where it had been",
+   "picture": "something entering a space",
+   "feeling": "another feeling replacing tension",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee's feeling",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 249,
+   "verified": true,
+   "quote": "she reached, without looking at what she was reaching for, for the thing that had worked in January",
+   "picture": "reaching for an object",
+   "feeling": "seeking a familiar explanation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 251,
+   "verified": true,
+   "quote": "my sex brain",
+   "picture": "a separate brain",
+   "feeling": "sexual thoughts taking over",
+   "vehicles": [
+    "brain"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's sexual thoughts",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 251,
+   "verified": true,
+   "quote": "It's a whole separate organ",
+   "picture": "a separate organ",
+   "feeling": "sexual thoughts acting independently",
+   "vehicles": [
+    "organ"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's sex brain",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 251,
+   "verified": true,
+   "quote": "it came out with a hole in it",
+   "picture": "a hollow laugh",
+   "feeling": "laughter lacking conviction",
+   "vehicles": [
+    "hole"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's laugh",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "She could not get the rest of it out",
+   "picture": "words inside a container",
+   "feeling": "unable to finish speaking",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "it was still in here with them",
+   "picture": "words occupying a room",
+   "feeling": "her admission remains present",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "it did not fit under any of that",
+   "picture": "an object under a covering",
+   "feeling": "admission resists her explanation",
+   "vehicles": [
+    "object",
+    "covering"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee's admission",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "You could not put *my sex brain* over the top of it",
+   "picture": "a covering over something",
+   "feeling": "explanation cannot conceal admission",
+   "vehicles": [
+    "covering"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's explanation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "She had built something in January out of exactly these materials",
+   "picture": "a built structure",
+   "feeling": "constructing a reassuring explanation",
+   "vehicles": [
+    "structure",
+    "material"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's January explanation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "I was keyed up",
+   "picture": "a wound mechanism",
+   "feeling": "tense sexual excitement",
+   "vehicles": [
+    "mechanism",
+    "key"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "it had held, it had held beautifully, it had held so well",
+   "picture": "a stable structure",
+   "feeling": "explanation remaining convincing",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's January explanation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "she had slept the night in his arms inside it",
+   "picture": "shelter inside a structure",
+   "feeling": "comfort within her explanation",
+   "vehicles": [
+    "structure",
+    "shelter"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 255,
+   "verified": true,
+   "quote": "it would not hold this",
+   "picture": "a structure giving way",
+   "feeling": "explanation failing this time",
+   "vehicles": [
+    "structure"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee's January explanation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 259,
+   "verified": true,
+   "quote": "build the wall himself, out of his own words, and hand it to her finished",
+   "picture": "a wall of words",
+   "feeling": "wanting him to provide cover",
+   "vehicles": [
+    "wall"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Pace's potential reassurance",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 259,
+   "verified": true,
+   "quote": "nothing to hide behind",
+   "picture": "a hiding place",
+   "feeling": "having no protective excuse",
+   "vehicles": [
+    "barrier"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "it came up out of the quiet on its own",
+   "picture": "something rising from stillness",
+   "feeling": "memory emerging unbidden",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "with nothing pulling at it",
+   "picture": "something being pulled",
+   "feeling": "memory arising without prompting",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's memory",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "no question anywhere in the room",
+   "picture": "a question occupying space",
+   "feeling": "absence of a prompt",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "like a man clearing the last small thing off a table",
+   "picture": "clearing a table",
+   "feeling": "casual completion of questioning",
+   "vehicles": [
+    "man",
+    "thing",
+    "table"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's question",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "it had sorted itself before it reached her mouth",
+   "picture": "objects sorting themselves",
+   "feeling": "answer forming before speech",
+   "vehicles": [
+    "object",
+    "mouth"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "level as a countertop",
+   "picture": "a level countertop",
+   "feeling": "even, controlled delivery",
+   "vehicles": [
+    "countertop"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "her own hand only hours behind her",
+   "picture": "time as distance",
+   "feeling": "recent memory of touch",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's earlier act",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 267,
+   "verified": true,
+   "quote": "Randi's name in her head",
+   "picture": "a name inside a head",
+   "feeling": "thinking of randi",
+   "vehicles": [
+    "head"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's thoughts",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 273,
+   "verified": true,
+   "quote": "the not-saying settle into her somewhere and take up a small permanent amount of room",
+   "picture": "an object occupying space",
+   "feeling": "lasting weight of silence",
+   "vehicles": [
+    "object",
+    "room"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee's silence",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 275,
+   "verified": true,
+   "quote": "His breathing lengthened out",
+   "picture": "breaths growing longer",
+   "feeling": "breathing slowing into sleep",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Pace's breathing",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "postcard",
+   "line": 281,
+   "verified": true,
+   "quote": "The thread was where she had left it",
+   "picture": "a thread",
+   "feeling": "conversation still available",
+   "vehicles": [
+    "thread"
+   ],
+   "sensation": "none",
+   "applies_to": "the message conversation",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 283,
+   "verified": true,
+   "quote": "the cursor came up, patient, blinking",
+   "picture": "a patient person",
+   "feeling": "an invitation awaiting response",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the cursor",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 287,
+   "verified": true,
+   "quote": "Tuesday was only days off",
+   "picture": "time as distance",
+   "feeling": "tuesday approaching soon",
+   "vehicles": [
+    "path"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Tuesday",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "postcard",
+   "line": 287,
+   "verified": true,
+   "quote": "she did not know yet what her face was going to do",
+   "picture": "a face acting independently",
+   "feeling": "uncertainty about visible reaction",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's expression",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  }
+ ]
+}

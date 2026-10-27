@@ -1,0 +1,1550 @@
+{
+ "slug": "old-acquaintances",
+ "model": "gpt-6.1-terra",
+ "date": "2026-10-27",
+ "prose_sha": "50ccaebc775f",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "old-acquaintances",
+   "line": 3,
+   "verified": true,
+   "quote": "One panel of the break triptych",
+   "picture": "a three-panel artwork",
+   "feeling": "one part of a whole",
+   "vehicles": [
+    "panel",
+    "triptych"
+   ],
+   "sensation": "none",
+   "applies_to": "the break",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 7,
+   "verified": true,
+   "quote": "you burrowed under the blankets",
+   "picture": "a burrowing animal",
+   "feeling": "seeking warmth and shelter",
+   "vehicles": [
+    "animal",
+    "burrow"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 9,
+   "verified": true,
+   "quote": "The house had gone down early",
+   "picture": "a person lying down",
+   "feeling": "the household settling to sleep",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the household",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 9,
+   "verified": true,
+   "quote": "worked the floor",
+   "picture": "a hospital floor",
+   "feeling": "working a hospital shift",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's mother",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 9,
+   "verified": true,
+   "quote": "slept like the dead",
+   "picture": "a dead person",
+   "feeling": "sleeping very deeply",
+   "vehicles": [
+    "dead person"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's mother",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 11,
+   "verified": true,
+   "quote": "each one creeping by her",
+   "picture": "a creeping creature",
+   "feeling": "time passing slowly",
+   "vehicles": [
+    "creature"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the minutes",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 11,
+   "verified": true,
+   "quote": "sleep to come and muffle the hour",
+   "picture": "a sound being muffled",
+   "feeling": "escape from waiting",
+   "vehicles": [
+    "sound"
+   ],
+   "sensation": "none",
+   "applies_to": "the hour",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "The room did not know her",
+   "picture": "an unrecognizing person",
+   "feeling": "estrangement from home",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "It had known Vivienne — knew her still, in high resolution, and loved her",
+   "picture": "a detailed image",
+   "feeling": "a former self preserved",
+   "vehicles": [
+    "image"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "the little gold girls frozen mid-lift",
+   "picture": "a frozen person",
+   "feeling": "movement held still",
+   "vehicles": [
+    "person",
+    "ice"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "the trophies",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "the girls she'd once have said were her whole life",
+   "picture": "a whole life",
+   "feeling": "former consuming attachment",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "the girls",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "The room kept all of it dusted and had no idea who was in the bed",
+   "picture": "an unrecognizing caretaker",
+   "feeling": "estrangement from home",
+   "vehicles": [
+    "caretaker"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "it had been the whole world",
+   "picture": "the whole world",
+   "feeling": "a once complete life",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "the ceiling came down close over her",
+   "picture": "a descending ceiling",
+   "feeling": "confinement at home",
+   "vehicles": [
+    "ceiling"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "breathing bigger air",
+   "picture": "a larger open space",
+   "feeling": "a more expansive life",
+   "vehicles": [
+    "air",
+    "space"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 13,
+   "verified": true,
+   "quote": "a place that no longer fit her",
+   "picture": "an ill-fitting garment",
+   "feeling": "outgrowing her former home",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's home",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "The days behind her ran together beige",
+   "picture": "colors running together",
+   "feeling": "days blending into sameness",
+   "vehicles": [
+    "color"
+   ],
+   "sensation": "none",
+   "applies_to": "the days",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "the news muttering low",
+   "picture": "a muttering person",
+   "feeling": "quiet background news",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the news",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "it was love",
+   "picture": "food as love",
+   "feeling": "love expressed through food",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "none",
+   "applies_to": "the food",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "had never once been the thing Vee was hungry for",
+   "picture": "hunger for food",
+   "feeling": "an unmet emotional need",
+   "vehicles": [
+    "food"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "the question, come at from a fresh angle every day",
+   "picture": "approaching an object",
+   "feeling": "repeated indirect questioning",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the question",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "landing every time on a door she kept shut and smiled in front of",
+   "picture": "a shut door",
+   "feeling": "guarding a private subject",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "no answer that would fit in this house",
+   "picture": "an object fitting inside",
+   "feeling": "inability to answer openly",
+   "vehicles": [
+    "object",
+    "house"
+   ],
+   "sensation": "tightening",
+   "applies_to": "Vee's answer",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 15,
+   "verified": true,
+   "quote": "one that fit anywhere",
+   "picture": "an object fitting somewhere",
+   "feeling": "uncertainty about any answer",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's answer",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "the way you worry a sore tooth",
+   "picture": "a sore tooth",
+   "feeling": "compulsive painful revisiting",
+   "vehicles": [
+    "tooth"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "the small warm things he'd sent",
+   "picture": "small warm objects",
+   "feeling": "affection in his messages",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's messages",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "came back in the shape of what she needed",
+   "picture": "a shaped object",
+   "feeling": "an inadequate response",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "a message",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "Anything she typed would be small",
+   "picture": "a small object",
+   "feeling": "words feeling inadequate",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's message",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "a man who lived on his phone",
+   "picture": "living on a phone",
+   "feeling": "constant phone use",
+   "vehicles": [
+    "phone"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 17,
+   "verified": true,
+   "quote": "He left you the room",
+   "picture": "room to move",
+   "feeling": "space to act freely",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 19,
+   "verified": true,
+   "quote": "her face open",
+   "picture": "an open door",
+   "feeling": "unguarded expression",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 19,
+   "verified": true,
+   "quote": "the burgundy lit like it held its own light",
+   "picture": "a self-lit garment",
+   "feeling": "vivid luminous color",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the dress",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 19,
+   "verified": true,
+   "quote": "All of her handed to the frame at once",
+   "picture": "a person handed over",
+   "feeling": "complete self revealed",
+   "vehicles": [
+    "person",
+    "frame"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 19,
+   "verified": true,
+   "quote": "Her body come up to meet the moment",
+   "picture": "a person meeting another",
+   "feeling": "readiness and self-possession",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 19,
+   "verified": true,
+   "quote": "she was the one who had divided it",
+   "picture": "a divided picture",
+   "feeling": "separating parts of herself",
+   "vehicles": [
+    "picture"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 21,
+   "verified": true,
+   "quote": "Randi's feed was another country",
+   "picture": "another country",
+   "feeling": "distance from randi's life",
+   "vehicles": [
+    "country"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Randi's feed",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 21,
+   "verified": true,
+   "quote": "wealth dressed it as another world",
+   "picture": "a dressed world",
+   "feeling": "wealth making life unfamiliar",
+   "vehicles": [
+    "world",
+    "clothing"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's feed",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 21,
+   "verified": true,
+   "quote": "what had bought the dream",
+   "picture": "a purchased dream",
+   "feeling": "the source of luxury",
+   "vehicles": [
+    "dream"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's trip",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 21,
+   "verified": true,
+   "quote": "a poisoned Gstaad",
+   "picture": "a poisoned place",
+   "feeling": "luxury tainted by money",
+   "vehicles": [
+    "poison"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's trip",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 23,
+   "verified": true,
+   "quote": "She wrote to Randi, warm",
+   "picture": "physical warmth",
+   "feeling": "friendly affection",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee's message",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 23,
+   "verified": true,
+   "quote": "an open hand offered",
+   "picture": "an open hand",
+   "feeling": "undemanding offer of support",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "opening",
+   "applies_to": "Vee's message",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 23,
+   "verified": true,
+   "quote": "the thing she'd folded away",
+   "picture": "a folded object",
+   "feeling": "a concealed troubling truth",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's knowledge",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 23,
+   "verified": true,
+   "quote": "let Randi cover",
+   "picture": "a covered object",
+   "feeling": "allowing a truth concealed",
+   "vehicles": [
+    "object",
+    "cover"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 23,
+   "verified": true,
+   "quote": "anything that gave her away",
+   "picture": "a person given away",
+   "feeling": "fear of revealing knowledge",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's message",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 25,
+   "verified": true,
+   "quote": "the year wore toward its end",
+   "picture": "a wearing object",
+   "feeling": "time passing slowly",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the year",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "Past that Vee couldn't see",
+   "picture": "an obscured view",
+   "feeling": "uncertainty about randi",
+   "vehicles": [
+    "view"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "filled it in",
+   "picture": "a filled blank",
+   "feeling": "imagining missing details",
+   "vehicles": [
+    "blank"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "came at her like something off a screen",
+   "picture": "an image on a screen",
+   "feeling": "randi's life seeming unreal",
+   "vehicles": [
+    "screen",
+    "image"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's telling",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "a man out of the stories",
+   "picture": "a storybook man",
+   "feeling": "romantic larger-than-life glamour",
+   "vehicles": [
+    "man",
+    "story"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's imagined companion",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "the whole lit spectacle of a life lived out loud",
+   "picture": "an illuminated performance",
+   "feeling": "a vivid public life",
+   "vehicles": [
+    "spectacle",
+    "light",
+    "performance"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Randi's life",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 27,
+   "verified": true,
+   "quote": "Vee kept the best of hers behind a shut door",
+   "picture": "a shut door",
+   "feeling": "a private hidden life",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Vee's life",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 31,
+   "verified": true,
+   "quote": "you ANGEL",
+   "picture": "an angel",
+   "feeling": "affectionate gratitude",
+   "vehicles": [
+    "angel"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 31,
+   "verified": true,
+   "quote": "it's honestly a fairytale out here",
+   "picture": "a fairy tale",
+   "feeling": "enchantment with the trip",
+   "vehicles": [
+    "fairy tale"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's trip",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 31,
+   "verified": true,
+   "quote": "mountains for days",
+   "picture": "mountains lasting days",
+   "feeling": "an abundance of mountains",
+   "vehicles": [
+    "mountain",
+    "day"
+   ],
+   "sensation": "none",
+   "applies_to": "the mountains",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 33,
+   "verified": true,
+   "quote": "a devastatingly handsome billionaire",
+   "picture": "devastating force",
+   "feeling": "striking physical attractiveness",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "the billionaire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 33,
+   "verified": true,
+   "quote": "a weekend so wild",
+   "picture": "an untamed animal",
+   "feeling": "exciting uninhibited activity",
+   "vehicles": [
+    "animal"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's weekend",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 33,
+   "verified": true,
+   "quote": "Randi, the year's gift",
+   "picture": "a gift",
+   "feeling": "gratitude for randi",
+   "vehicles": [
+    "gift"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 35,
+   "verified": true,
+   "quote": "her mother's question in her own mouth",
+   "picture": "a question in a mouth",
+   "feeling": "repeating her mother's concern",
+   "vehicles": [
+    "mouth"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 35,
+   "verified": true,
+   "quote": "his answer warm and level and wrong",
+   "picture": "physical warmth",
+   "feeling": "kindness without reassurance",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Pace's answer",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 35,
+   "verified": true,
+   "quote": "the quiet that neither of them broke",
+   "picture": "a breakable object",
+   "feeling": "unbroken mutual silence",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the quiet",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 35,
+   "verified": true,
+   "quote": "She turned it over and it would not come out even",
+   "picture": "an uneven object",
+   "feeling": "unresolved anxious thinking",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee's thoughts",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 37,
+   "verified": true,
+   "quote": "no name to put on herself there was none to put on him",
+   "picture": "labels placed on people",
+   "feeling": "uncertain relationship status",
+   "vehicles": [
+    "label"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee and Pace",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 37,
+   "verified": true,
+   "quote": "had folded it away as pity",
+   "picture": "a folded object",
+   "feeling": "setting aside an explanation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "Pace's explanation",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 37,
+   "verified": true,
+   "quote": "a whole week she couldn't see into",
+   "picture": "an opaque space",
+   "feeling": "uncertainty about his week",
+   "vehicles": [
+    "space"
+   ],
+   "sensation": "none",
+   "applies_to": "Pace's week",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 37,
+   "verified": true,
+   "quote": "drawing the hunger out of her",
+   "picture": "something drawn out",
+   "feeling": "desire growing in anticipation",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's hunger",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 37,
+   "verified": true,
+   "quote": "the same building, then giving, that his hands worked on her in the dark",
+   "picture": "something built and given",
+   "feeling": "desire building and releasing",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's desire",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 39,
+   "verified": true,
+   "quote": "The face came up on its own",
+   "picture": "a face rising",
+   "feeling": "an unwanted image appearing",
+   "vehicles": [
+    "face"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the imagined girl",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 39,
+   "verified": true,
+   "quote": "Vee built her from spite",
+   "picture": "a constructed person",
+   "feeling": "imagining a rival",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the imagined girl",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 39,
+   "verified": true,
+   "quote": "She handed Pace the exact opposite of herself",
+   "picture": "a person handed over",
+   "feeling": "imagining his desired partner",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "none",
+   "applies_to": "the imagined girl",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 41,
+   "verified": true,
+   "quote": "She reached the other way to get out from under it",
+   "picture": "a weight overhead",
+   "feeling": "escaping oppressive thoughts",
+   "vehicles": [
+    "weight"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 41,
+   "verified": true,
+   "quote": "Reached for the best night she had, to put herself back inside it",
+   "picture": "entering a place",
+   "feeling": "seeking comfort in memory",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 41,
+   "verified": true,
+   "quote": "the garlic and pepper blooming",
+   "picture": "flowers opening",
+   "feeling": "aroma and flavor unfolding",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "opening",
+   "applies_to": "the garlic and pepper",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 41,
+   "verified": true,
+   "quote": "the evening having used her well",
+   "picture": "an evening using someone",
+   "feeling": "satisfied physical exhaustion",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 41,
+   "verified": true,
+   "quote": "She went into it to be warm",
+   "picture": "entering a warm place",
+   "feeling": "seeking comfort in memory",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 43,
+   "verified": true,
+   "quote": "it turned while she was in it",
+   "picture": "a turning place",
+   "feeling": "memory becoming threatening",
+   "vehicles": [
+    "place"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee's memory",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 43,
+   "verified": true,
+   "quote": "the garlic and pepper blooming",
+   "picture": "flowers opening",
+   "feeling": "aroma and flavor unfolding",
+   "vehicles": [
+    "flower"
+   ],
+   "sensation": "opening",
+   "applies_to": "the garlic and pepper",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 43,
+   "verified": true,
+   "quote": "She could not keep her own night",
+   "picture": "a possession slipping away",
+   "feeling": "losing a cherished memory",
+   "vehicles": [
+    "possession"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 45,
+   "verified": true,
+   "quote": "he leaves you the room",
+   "picture": "room to move",
+   "feeling": "space to act freely",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "opening",
+   "applies_to": "Pace",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 45,
+   "verified": true,
+   "quote": "She reached for those too",
+   "picture": "grasping objects",
+   "feeling": "seeking reassurance in words",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 45,
+   "verified": true,
+   "quote": "they had only ever held her up",
+   "picture": "physical support",
+   "feeling": "words providing reassurance",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the assurances",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 45,
+   "verified": true,
+   "quote": "they went straight through her hands",
+   "picture": "objects slipping through hands",
+   "feeling": "reassurance failing her",
+   "vehicles": [
+    "object",
+    "hand"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "the assurances",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 45,
+   "verified": true,
+   "quote": "The floor was gone",
+   "picture": "a vanished floor",
+   "feeling": "loss of emotional footing",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 47,
+   "verified": true,
+   "quote": "make it hold",
+   "picture": "a support holding",
+   "feeling": "trying to sustain reassurance",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee's reassurance",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 47,
+   "verified": true,
+   "quote": "a room that loved a girl",
+   "picture": "a loving person",
+   "feeling": "attachment to a former self",
+   "vehicles": [
+    "person"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 47,
+   "verified": true,
+   "quote": "a girl who no longer lived inside her",
+   "picture": "a person inside another",
+   "feeling": "distance from her former self",
+   "vehicles": [
+    "girl"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee's former self",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 49,
+   "verified": true,
+   "quote": "it would not hold",
+   "picture": "a failing support",
+   "feeling": "comfort failing to last",
+   "vehicles": [
+    "support"
+   ],
+   "sensation": "loosening or release",
+   "applies_to": "Vee's imagined embrace",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 49,
+   "verified": true,
+   "quote": "in the same breath",
+   "picture": "a single breath",
+   "feeling": "two thoughts arriving together",
+   "vehicles": [
+    "breath"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's thoughts",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "the one sure thing the new year held",
+   "picture": "a year holding something",
+   "feeling": "certainty about randi's return",
+   "vehicles": [
+    "container"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "the new year",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "a face that would light up",
+   "picture": "a light coming on",
+   "feeling": "visible joy at seeing vee",
+   "vehicles": [
+    "light"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "small in it again",
+   "picture": "a small child in a bed",
+   "feeling": "feeling like her younger self",
+   "vehicles": [
+    "child",
+    "bed"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "holding both of them and setting neither down",
+   "picture": "two held objects",
+   "feeling": "carrying two relationships mentally",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "Too tired to chase it",
+   "picture": "pursuing a fleeing thing",
+   "feeling": "exhaustion with unanswered thoughts",
+   "vehicles": [
+    "object"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "she was still reaching",
+   "picture": "a reaching hand",
+   "feeling": "continuing to seek an answer",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "sleep pulled her under",
+   "picture": "being pulled underwater",
+   "feeling": "slipping into sleep",
+   "vehicles": [
+    "water"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 51,
+   "verified": true,
+   "quote": "the cold room kept watch over the girl who was gone",
+   "picture": "a watching guardian",
+   "feeling": "a former self remembered",
+   "vehicles": [
+    "guardian"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "the room",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "old-acquaintances",
+   "line": 40,
+   "verified": false,
+   "quote": "",
+   "picture": "",
+   "feeling": "",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  }
+ ]
+}

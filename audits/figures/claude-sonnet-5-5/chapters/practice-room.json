@@ -1,0 +1,1211 @@
+{
+ "slug": "practice-room",
+ "model": "claude-sonnet-5-5",
+ "date": "2026-10-27",
+ "prose_sha": "ddf9132ef399",
+ "failed_windows": [],
+ "figures": [
+  {
+   "slug": "practice-room",
+   "line": 3,
+   "verified": true,
+   "quote": "The weekend was still in her. He was still in her",
+   "picture": "a container",
+   "feeling": "lingering weekend inside her",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 3,
+   "verified": true,
+   "quote": "she had lain awake inside it",
+   "picture": "a container",
+   "feeling": "immersed in the memory",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "being held or supported",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 3,
+   "verified": true,
+   "quote": "the whole long ordinary miracle of it",
+   "picture": "a miracle",
+   "feeling": "wonder at the ordinary",
+   "vehicles": [
+    "miracle"
+   ],
+   "sensation": "glow from within",
+   "applies_to": "the weekend",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 3,
+   "verified": true,
+   "quote": "come to class wearing it like a coat she'd forgotten to take off",
+   "picture": "a coat",
+   "feeling": "carrying the weekend visibly",
+   "vehicles": [
+    "coat"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 5,
+   "verified": true,
+   "quote": "the warm green-citrus wave of her got there first",
+   "picture": "a wave",
+   "feeling": "scent arriving ahead",
+   "vehicles": [
+    "wave"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 11,
+   "verified": true,
+   "quote": "a thing she set down on the desk between them to pick up later",
+   "picture": "a set-down object",
+   "feeling": "deferred noncommittal reply",
+   "vehicles": [
+    "desk",
+    "thing"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi's 'Mm'",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 13,
+   "verified": true,
+   "quote": "a man making sure the road was still there",
+   "picture": "a road",
+   "feeling": "anxious checking",
+   "vehicles": [
+    "road"
+   ],
+   "sensation": "none",
+   "applies_to": "the professor",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 13,
+   "verified": true,
+   "quote": "in the flat voice of a man reading a course catalog aloud",
+   "picture": "a catalog reading",
+   "feeling": "monotone dullness",
+   "vehicles": [
+    "catalog"
+   ],
+   "sensation": "none",
+   "applies_to": "the professor",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 17,
+   "verified": true,
+   "quote": "a line of dots walking left to right",
+   "picture": "walking",
+   "feeling": "data trending",
+   "vehicles": [
+    "dot"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "the plot",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 17,
+   "verified": true,
+   "quote": "one dot flung up off the line",
+   "picture": "a thrown object",
+   "feeling": "outlier jumping",
+   "vehicles": [
+    "dot"
+   ],
+   "sensation": "rising or lifting",
+   "applies_to": "the dot",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 17,
+   "verified": true,
+   "quote": "the line goes on like it was never there",
+   "picture": "erased trace",
+   "feeling": "no lasting trace",
+   "vehicles": [
+    "line"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the line",
+   "pov": "the professor",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 17,
+   "verified": true,
+   "quote": "The second kind comes in through the part that carries forward.",
+   "picture": "an intruder entering",
+   "feeling": "contamination spreading",
+   "vehicles": [
+    "door"
+   ],
+   "sensation": "opening",
+   "applies_to": "the outlier",
+   "pov": "the professor",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 19,
+   "verified": true,
+   "quote": "it rose in her with no decent proportion to its cause",
+   "picture": "a rising tide",
+   "feeling": "disproportionate arousal",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 19,
+   "verified": true,
+   "quote": "She gave the board another honest minute.",
+   "picture": "giving a gift",
+   "feeling": "dutiful attention",
+   "vehicles": [
+    "minute"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 21,
+   "verified": true,
+   "quote": "The hour broke up",
+   "picture": "something breaking",
+   "feeling": "class ending",
+   "vehicles": [
+    "hour"
+   ],
+   "sensation": "breaking or cracking",
+   "applies_to": "the class",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 21,
+   "verified": true,
+   "quote": "already turned a few degrees the other way",
+   "picture": "a compass turn",
+   "feeling": "attention shifting",
+   "vehicles": [
+    "degree"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 25,
+   "verified": true,
+   "quote": "cutting her gently out of the herd of an afternoon",
+   "picture": "cattle herd",
+   "feeling": "being singled out",
+   "vehicles": [
+    "herd"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 25,
+   "verified": true,
+   "quote": "towing the most interesting person she knew toward the door",
+   "picture": "towing a vehicle",
+   "feeling": "pulling someone eagerly",
+   "vehicles": [
+    "tow"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 25,
+   "verified": true,
+   "quote": "it had gone the other way",
+   "picture": "a direction",
+   "feeling": "roles reversed",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the dynamic",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 27,
+   "verified": true,
+   "quote": "the little soundproof cells nobody used at lunch",
+   "picture": "prison cells",
+   "feeling": "small enclosed rooms",
+   "vehicles": [
+    "cell"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the practice rooms",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 29,
+   "verified": true,
+   "quote": "felt her neck go hot",
+   "picture": "heat",
+   "feeling": "embarrassment",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 37,
+   "verified": true,
+   "quote": "When the door shut the building went away.",
+   "picture": "vanishing",
+   "feeling": "total isolation",
+   "vehicles": [
+    "building"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the building",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 37,
+   "verified": true,
+   "quote": "The kind of quiet you could hear your own blood in.",
+   "picture": "a medium of sound",
+   "feeling": "deep silence",
+   "vehicles": [
+    "blood"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 39,
+   "verified": true,
+   "quote": "sat with her attention coming on like a lamp",
+   "picture": "a lamp",
+   "feeling": "attention turned on",
+   "vehicles": [
+    "lamp"
+   ],
+   "sensation": "light coming on",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 43,
+   "verified": true,
+   "quote": "the whole floor of the evening had tilted",
+   "picture": "a tilting floor",
+   "feeling": "world shifting",
+   "vehicles": [
+    "floor"
+   ],
+   "sensation": "drop or lurch",
+   "applies_to": "the evening",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 43,
+   "verified": true,
+   "quote": "Beauty made for the gods and loaned out; he wasn't going to insult the loan",
+   "picture": "a loan",
+   "feeling": "heels as borrowed gift",
+   "vehicles": [
+    "loan",
+    "god"
+   ],
+   "sensation": "none",
+   "applies_to": "the heels",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 51,
+   "verified": true,
+   "quote": "skid past the middle of it, the part she had no words arranged for, and land on the morning",
+   "picture": "skidding vehicle",
+   "feeling": "skipping over",
+   "vehicles": [
+    "skid"
+   ],
+   "sensation": "movement or travel",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 53,
+   "verified": true,
+   "quote": "something in her had gone very still and very interested, the way a cat goes still",
+   "picture": "a stalking cat",
+   "feeling": "predatory attention",
+   "vehicles": [
+    "cat"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Randi",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 65,
+   "verified": true,
+   "quote": "The question landed somewhere Vee wasn't braced for.",
+   "picture": "a blow landing",
+   "feeling": "caught off guard",
+   "vehicles": [
+    "blow"
+   ],
+   "sensation": "jolt or shock",
+   "applies_to": "the question",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 67,
+   "verified": true,
+   "quote": "It went down through her like a swallow of something warm.",
+   "picture": "a warm drink",
+   "feeling": "warmth of gratification",
+   "vehicles": [
+    "swallow"
+   ],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's smile",
+   "pov": "narrator",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 75,
+   "verified": true,
+   "quote": "the warm wet weight of his hand landing where the shirt had ridden up",
+   "picture": "landing",
+   "feeling": "remembered touch",
+   "vehicles": [],
+   "sensation": "pressure or weight",
+   "applies_to": "his hand",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 75,
+   "verified": true,
+   "quote": "her voice when it came out had gone down into something lower and slower",
+   "picture": "descent",
+   "feeling": "voice deepening",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's voice",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 81,
+   "verified": true,
+   "quote": "It went right through me.",
+   "picture": "piercing",
+   "feeling": "shock of the slap",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "the warmth of his hand",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 83,
+   "verified": true,
+   "quote": "The room held still.",
+   "picture": "held breath",
+   "feeling": "tense stillness",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "the room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 85,
+   "verified": true,
+   "quote": "an attention so complete it was nearly a pressure, nearly a hand",
+   "picture": "a hand pressing",
+   "feeling": "intense gaze felt physically",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "pressure or weight",
+   "applies_to": "Randi's attention",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 85,
+   "verified": true,
+   "quote": "in a hot slow drop",
+   "picture": "a drop",
+   "feeling": "dawning realization",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 85,
+   "verified": true,
+   "quote": "In a piano closet",
+   "picture": "a closet",
+   "feeling": "small hidden space",
+   "vehicles": [
+    "closet"
+   ],
+   "sensation": "closing or shutting",
+   "applies_to": "the practice room",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 89,
+   "verified": true,
+   "quote": "felt her own body answer the memory",
+   "picture": "a reply",
+   "feeling": "body responding",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 89,
+   "verified": true,
+   "quote": "with no way to know how much the cloth was telling",
+   "picture": "cloth speaking",
+   "feeling": "fear of exposure",
+   "vehicles": [
+    "cloth"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's top",
+   "pov": "narrator",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 89,
+   "verified": true,
+   "quote": "couldn't for her life have said",
+   "picture": "a life staked",
+   "feeling": "complete uncertainty",
+   "vehicles": [
+    "life"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 91,
+   "verified": true,
+   "quote": "Her voice sounded far off.",
+   "picture": "distance",
+   "feeling": "dissociation",
+   "vehicles": [],
+   "sensation": "floating or weightless",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 93,
+   "verified": true,
+   "quote": "The word she needed wasn't a word she owned yet.",
+   "picture": "owning a possession",
+   "feeling": "lacking language",
+   "vehicles": [
+    "word"
+   ],
+   "sensation": "hollow or emptiness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 93,
+   "verified": true,
+   "quote": "She couldn't find the end of it.",
+   "picture": "searching",
+   "feeling": "unable to finish",
+   "vehicles": [
+    "end"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 95,
+   "verified": true,
+   "quote": "Randi let her hang there a moment, kindly.",
+   "picture": "hanging",
+   "feeling": "left in suspense",
+   "vehicles": [],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 97,
+   "verified": true,
+   "quote": "Sometimes it's the mouse that roars.",
+   "picture": "a roaring mouse",
+   "feeling": "meek person is fierce",
+   "vehicles": [
+    "mouse"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's husband",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 99,
+   "verified": true,
+   "quote": "apologized to the furniture",
+   "picture": "apologizing to objects",
+   "feeling": "extreme meekness",
+   "vehicles": [
+    "furniture"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's husband",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 99,
+   "verified": true,
+   "quote": "You'd never have picked him out of a room.",
+   "picture": "a lineup",
+   "feeling": "unremarkable",
+   "vehicles": [
+    "room"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi's husband",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 107,
+   "verified": true,
+   "quote": "while he turned me as red as he wanted",
+   "picture": "dyeing color",
+   "feeling": "spanked skin reddening",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 107,
+   "verified": true,
+   "quote": "watching Vee's face take each piece",
+   "picture": "taking food",
+   "feeling": "absorbing details",
+   "vehicles": [
+    "piece"
+   ],
+   "sensation": "none",
+   "applies_to": "Vee's face",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 113,
+   "verified": true,
+   "quote": "if I weren't already warm",
+   "picture": "warmth",
+   "feeling": "aroused",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Randi",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 115,
+   "verified": true,
+   "quote": "something turned over low in Vee's belly with a soft wet heaviness she had no vote in",
+   "picture": "turning over; voting",
+   "feeling": "involuntary arousal",
+   "vehicles": [
+    "vote"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 115,
+   "verified": true,
+   "quote": "the thing her body had been building toward since the morning arrived",
+   "picture": "a journey",
+   "feeling": "arousal peaking",
+   "vehicles": [],
+   "sensation": "rising or lifting",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 115,
+   "verified": true,
+   "quote": "something turned over low in Vee's belly",
+   "picture": "a turning object",
+   "feeling": "visceral stir of desire",
+   "vehicles": [],
+   "sensation": "drop or lurch",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 115,
+   "verified": true,
+   "quote": "a soft wet heaviness she had no vote in",
+   "picture": "a voting body",
+   "feeling": "body acting without her consent",
+   "vehicles": [
+    "vote"
+   ],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 115,
+   "verified": true,
+   "quote": "she stood up too fast",
+   "picture": "none",
+   "feeling": "flustered escape",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 117,
+   "verified": true,
+   "quote": "I just need.",
+   "picture": "none",
+   "feeling": "trailing off",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 121,
+   "verified": true,
+   "quote": "the story still running in it",
+   "picture": "a running machine",
+   "feeling": "lingering arousal",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's body",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 121,
+   "verified": true,
+   "quote": "her body was still going, the story still running in it",
+   "picture": "a running engine",
+   "feeling": "arousal continuing",
+   "vehicles": [
+    "engine"
+   ],
+   "sensation": "hum or vibration",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 121,
+   "verified": true,
+   "quote": "the proof was there before she wanted to know it",
+   "picture": "evidence in a case",
+   "feeling": "arousal undeniable",
+   "vehicles": [
+    "proof"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee's body",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 121,
+   "verified": true,
+   "quote": "the bolt was loud",
+   "picture": "none",
+   "feeling": "sudden audible privacy",
+   "vehicles": [],
+   "sensation": "jolt or shock",
+   "applies_to": "the bolt",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 123,
+   "verified": true,
+   "quote": "Her hand knew the way. It moved before she did.",
+   "picture": "an autonomous agent",
+   "feeling": "body acting on its own",
+   "vehicles": [
+    "hand"
+   ],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Vee's hand",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 123,
+   "verified": true,
+   "quote": "To do that would be to say yes to it",
+   "picture": "consent as speech",
+   "feeling": "giving in",
+   "vehicles": [],
+   "sensation": "opening",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 123,
+   "verified": true,
+   "quote": "She caught it and put it flat against her own knee and held it there.",
+   "picture": "restraining a creature",
+   "feeling": "self-restraint",
+   "vehicles": [],
+   "sensation": "tightening",
+   "applies_to": "Vee's hand",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 125,
+   "verified": true,
+   "quote": "flushed to the throat, too bright in the eyes",
+   "picture": "brightness",
+   "feeling": "aroused look",
+   "vehicles": [],
+   "sensation": "heat or burning",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "idiom",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 125,
+   "verified": true,
+   "quote": "the woman in the mirror",
+   "picture": "a stranger",
+   "feeling": "self seen as other",
+   "vehicles": [
+    "woman",
+    "mirror"
+   ],
+   "sensation": "being seen or exposed",
+   "applies_to": "Vee",
+   "pov": "narrator",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 125,
+   "verified": true,
+   "quote": "for the woman to pass for collected",
+   "picture": "counterfeit passing",
+   "feeling": "performed composure",
+   "vehicles": [],
+   "sensation": "none",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 127,
+   "verified": true,
+   "quote": "so pleased to see her that Vee felt it land, warm all through",
+   "picture": "a thrown object landing",
+   "feeling": "warmth received",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi's pleasure",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 133,
+   "verified": true,
+   "quote": "already let it go",
+   "picture": "releasing a held thing",
+   "feeling": "dropping the matter",
+   "vehicles": [],
+   "sensation": "loosening or release",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 133,
+   "verified": true,
+   "quote": "warm as anything",
+   "picture": "warmth",
+   "feeling": "affectionate manner",
+   "vehicles": [],
+   "sensation": "warmth spreading",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 133,
+   "verified": true,
+   "quote": "as if she'd meant nothing in the world by it",
+   "picture": "innocence",
+   "feeling": "feigned innocence",
+   "vehicles": [
+    "world"
+   ],
+   "sensation": "none",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 135,
+   "verified": true,
+   "quote": "the ordinary noise of the building",
+   "picture": "a stream/medium entered",
+   "feeling": "re-entering normal world",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "the building",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 135,
+   "verified": true,
+   "quote": "the bad fluorescent hum",
+   "picture": "none",
+   "feeling": "unpleasant ambient noise",
+   "vehicles": [],
+   "sensation": "hum or vibration",
+   "applies_to": "the building",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 135,
+   "verified": true,
+   "quote": "Randi pulled her into the goodbye",
+   "picture": "being drawn into a space",
+   "feeling": "being drawn into embrace",
+   "vehicles": [],
+   "sensation": "being pulled or drawn",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 135,
+   "verified": true,
+   "quote": "so worn-in now that Vee barely clocked it",
+   "picture": "a worn garment",
+   "feeling": "familiar routine",
+   "vehicles": [
+    "garment"
+   ],
+   "sensation": "settling or landing",
+   "applies_to": "the touch",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 139,
+   "verified": true,
+   "quote": "already half-turned toward wherever she had to be",
+   "picture": "leaving mid-turn",
+   "feeling": "already departing",
+   "vehicles": [],
+   "sensation": "movement or travel",
+   "applies_to": "Randi",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 141,
+   "verified": true,
+   "quote": "Vee's arms were slow coming down.",
+   "picture": "lowering weights",
+   "feeling": "reluctance to let go",
+   "vehicles": [],
+   "sensation": "sinking or heaviness",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "verb",
+   "literal_maybe": true
+  },
+  {
+   "slug": "practice-room",
+   "line": 141,
+   "verified": true,
+   "quote": "She noticed it the way you notice a held note after the song has already moved on",
+   "picture": "a held note",
+   "feeling": "lingering past the moment",
+   "vehicles": [
+    "note",
+    "song"
+   ],
+   "sensation": "suspension or held breath",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "simile",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 141,
+   "verified": true,
+   "quote": "She was still so full of him",
+   "picture": "a filled vessel",
+   "feeling": "preoccupied with him",
+   "vehicles": [
+    "vessel"
+   ],
+   "sensation": "flooding or overflow",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "metaphor",
+   "literal_maybe": false
+  },
+  {
+   "slug": "practice-room",
+   "line": 141,
+   "verified": true,
+   "quote": "She put it down to that.",
+   "picture": "assigning a debt/cause",
+   "feeling": "rationalizing",
+   "vehicles": [],
+   "sensation": "settling or landing",
+   "applies_to": "Vee",
+   "pov": "Vee",
+   "kind": "idiom",
+   "literal_maybe": false
+  }
+ ]
+}
