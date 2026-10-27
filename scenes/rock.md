@@ -1,6 +1,6 @@
 # Rock
 
-Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point.
+Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was.
 
 She had her feet tucked under his thigh. He had handed her the robe off the back of the closet door and taken the quilt down without being asked, and now they were under it, his boxers and her skin and his robe over her shoulders, and the tea gone cool in the mugs on the low table because they had stopped drinking it in order to keep talking.
 
@@ -86,9 +86,9 @@ He had taken his mother out of the answer. Vee let him.
 
 "Peter," she said, once, quietly, to feel how it sat in her own mouth.
 
-She let it be. She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet.
+She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet.
 
-"How old are you?" she asked, because the name had made him seem suddenly unmeasured by the usual campus categories, and because this was the kind of question new people were allowed to ask each other after born-where and brother and mother.
+"How old are you?" she asked, because the name had made him seem suddenly unmeasured by the usual campus categories.
 
 "Twenty-two."
 
@@ -208,19 +208,19 @@ He took a moment. "Daphne," he said.
 
 Just the name, and then he let it stand there. She had given him a whole marching season.
 
-The flatness in it reminded her of how he'd sounded when she asked about his parents. "How did you know her?"
+"How did you know her?"
 
 "When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
 
-Vee went still. She didn't choose it. She simply stopped moving.
+Vee went still.
 
 "It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He set the cold mug down on the floor beside his foot. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
 
-He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
+He laid it out in good order, every reason accounted for and set in its slot. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
 
 She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
 
-So she did not say the word, and she did not say she was sorry. She set the mug on the table, turned under the quilt, and fitted herself along his side, her head to his shoulder, her palm flat on his chest over the place the careful voice had come out of.
+She set the mug on the table, turned under the quilt, and fitted herself along his side, her head to his shoulder, her palm flat on his chest over the place the careful voice had come out of.
 
 "You were so young," she said. That much got past her. She kept the rest behind her teeth.
 
@@ -248,7 +248,7 @@ She was quiet. She was putting something together, and it came together in her b
 
 He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed.
 
-Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found the place where the skin was not like the rest, high up the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved, and found the place where the skin was not like the rest, high up the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
 
 "This?" she said.
 
@@ -256,13 +256,13 @@ His hand came over hers. Not fast, not to move it. He laid his hand on top of he
 
 "Not tonight," he said.
 
-He did not take her hand away. He kept it there under his, on the thing he wasn't going to tell her about yet, and the not-tonight had no wall in it, only a door with a time on it that wasn't now. She turned her hand over under his so their palms were together over the scar, and left it, and that was the whole of the asking and the whole of the answer.
+He did not take her hand away. He kept it there under his, on the thing he wasn't going to tell her about yet, and the not-tonight had no wall in it, only a door with a time on it that wasn't now. She turned her hand over under his so their palms were together over the scar, and left it.
 
 They stayed like that. The tea had gone fully cold. Past the glass the yard held its black and the ridge held its darker black and the stars did not move that she could see, though he had just told her they were moving, that they were doing the same thing the leaf did, that it was all one piece.
 
-"Peter," she said. Softly. No question in it this time. She was not asking him for anything, and she was not trying it on. She was only saying it, once, into the warm dark, the way you say a word to keep it.
+"Peter," she said. Softly. No question in it this time. She was only saying it, once, into the warm dark, the way you say a word to keep it.
 
-He let it sit. He did not answer it and did not need to. His hand closed around hers over the old scar, slow, and held, and the fire kept its small business behind them, and the cold stayed on its own side of the glass, and neither of them said anything else for a while.
+He let it sit. His hand closed around hers over the old scar, slow, and held, and the fire kept its small business behind them, and the cold stayed on its own side of the glass, and neither of them said anything else for a while.
 
 Later, in his bed, he went to sleep before she did. He went as he did everything, all at once and without fuss: one minute his hand was moving on her back and the next it had stopped where it was, and his breathing had changed under her ear, and he was gone.
 

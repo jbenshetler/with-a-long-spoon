@@ -175,3 +175,64 @@ All 29 active hits acked (0 errors). Rationale recorded in
 - `learn` ×3 — precise (it accrued over time), not autopilot.
 - `:215` `began-to` ("started to form") — the word is forming, not formed;
   the aspect is the point.
+
+---
+
+## Explain-after-show pass — 2026-10-27
+
+Source: `audits/close-third/rock.md` (`/wals-close-third`). Rulings by the
+author, item by item.
+
+### Cut
+
+- `:3` ", and the smallness of it was the point": the narrator stating what
+  the opening image means.
+- `:91` ", and because this was the kind of question new people were allowed
+  to ask each other after born-where and brother and mother": the second
+  motive clause. The first ("because the name had made him seem suddenly
+  unmeasured…") stays, since it sets up "You're not."
+- `:211` "The flatness in it reminded her of how he'd sounded when she asked
+  about his parents.": it explained a callback the reader makes from :77 and
+  :209.
+- `:215` "She didn't choose it. She simply stopped moving.": a gloss after
+  "Vee went still." (the `dear.md:13` shape).
+- `:219` ", and the good order was the tell": a verdict on what :217 shows.
+  Two capture gates complained of it (claude-fable-5-1 and claude-opus-5-5,
+  romance: "you didn't need to grade it for me"). The glm-5.3 fsog gate quoted
+  it approvingly. The cut was made over that one approval.
+- `:223` "So she did not say the word, and she did not say she was sorry.":
+  a summary restating :221 and :159.
+- `:259` ", and that was the whole of the asking and the whole of the
+  answer": a summary after the gesture. The protected "door with a time on
+  it" is untouched.
+- `:263` "She was not asking him for anything, and she was not trying it
+  on.": it explained the callback to :87.
+- `:265` "He did not answer it and did not need to.": restated "He let it
+  sit" with a verdict.
+
+### Left standing — do not re-litigate
+
+- `:221` "It was not hers to say.": the author asked about cutting it (with
+  the "So") instead of the :223 sentence. Kept on the evidence: three gates
+  praise it (claude-opus-5-5 romance, glm-5.3 romance "I gasped", glm-5.3
+  fsog), and it is the only statement of her reason. `praise_check` missed
+  all three, which are paraphrases.
+- `:117` "because he was too precise…": her fond reading of his face.
+- `:245` "it came together in her body before it came together as a
+  thought": body before mind. Two gates praise the beat (fable-5-1, glm-5.3
+  romance). fable's flinch is at the dialogue that follows.
+- `:189` "not because she understood the mathematics, but because he did":
+  hers. It says the cause is him, not the math, and nothing else does.
+- `:5` "because they had stopped drinking it in order to keep talking":
+  kept.
+- `:227` "named it luck": still protected. The claude-opus-5-5 romance gate
+  lists it as explanation. One reader, against three who protect it.
+
+### Trims (redundancy)
+
+- `:251` "without her deciding it": "drifted" already makes the hand's
+  movement unchosen. "Before she thought about whether to" is kept, because
+  it carries the question of permission that "This?" and "Not tonight"
+  answer.
+- `:89` "She let it be.": a second "let" after :85 "Vee let him." The
+  foot-against-leg gesture closes the beat.
