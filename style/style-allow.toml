@@ -3658,6 +3658,13 @@ text = "She watched him breathe and didn't wake him."
 note = "':63 She watched him breathe and didn't wake him' — not the frame the rule targets: the watching IS the act (she is the only one awake; the not-waking is the beat). Same reasoning as the acked famished:61. Line-edit 2026-08-07 group F."
 
 [[ok]]
+fp   = "ec90f2b4c24a"
+rule = "filter-verbs"
+file = "scenes/peekaboo.md"
+text = "She tried to take the rest of him with her heels and he simply held, heavy and still above her, and he twitched against the inside of her, once, and she felt what the holding was costing him, and that he meant to spend it anyway."
+note = "Author sign-off 2026-10-26, close-third pass: R2 rephrase, 'she felt' is her reading through the body"
+
+[[ok]]
 fp   = "5491fabeda76"
 rule = "learn"
 file = "scenes/peekaboo.md"

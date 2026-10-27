@@ -241,3 +241,41 @@ errors. Ruled in groups:
   the act; same reasoning as the acked `famished:61`.
 - **`x-not-y` ×3 and `learn` ×1** — three antitheses is under the density
   threshold; `:27` "not far, never far" is reader-praised by terra.
+
+---
+
+## Explain-after-show pass — 2026-10-26
+
+Close-third pass (`/wals-close-third`), Vee's POV. Batch and rulings:
+`audits/close-third/peekaboo.md`. The chapter was very light.
+
+### Cut / changed
+
+- `:49` "the shame of having stripped herself bare on purpose to be looked at,"
+  cut. It was a gloss after the underwear beat, in the design note's own words.
+  One reader (claude-opus-5-5 romance-graduate gate) paraphrased the clause
+  approvingly; the author cut it. The sentence is now "The shame of it went
+  through her hot, and it crossed into wanting almost before it was shame at
+  all, and she let it come."
+- `:99` "which was the whole point, and she knew it was the point" became "and
+  she knew it was the point". The narrator's statement of his intent is gone;
+  her knowing stays.
+- `:99` "and she knew exactly what it was costing him…" became "and she felt
+  what the holding was costing him, and that he meant to spend it anyway". This
+  makes the reading hers, through her body, instead of an explanation of the
+  twitch. It also avoids a second "she knew" now that the paragraph opens on
+  one. The cost/spend wording two readers echoed (fable-5-1 and opus-5-5
+  fsog-refugee gates) is kept. Its `filter-verbs` hit was acked with the
+  author's sign-off.
+- `:7` "It didn't." cut. It confirmed what the next sentence shows.
+
+### Left standing
+
+- `:9` "and couldn't wait another minute for her to see": her reading of his
+  eyes and grin; praised by three readers (above).
+- `:41` "because the shoes this called for weren't anything she owned": the
+  shoe plant. Four gates pick it up, and one quotes it verbatim.
+- `:19` "That was the thing that got to her…": her working out why she is
+  moved; quoted by three gates.
+- `:91` "should have shamed her but didn't"; `:113` the callback to hanging the
+  dress; `:115` "she knew without being told": hers.

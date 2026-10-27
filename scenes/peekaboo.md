@@ -4,7 +4,7 @@ He'd asked her over for the afternoon and left the rest of it to her: whether, a
 
 He opened the door, and for a second neither of them was sure how to do it — the hello after, which they hadn't done yet. He took both her hands in the doorway. Then he leaned in and kissed her, small, a careful peck, a question; and when it answered itself he drew her into a hug, the whole warm front of him, and it swung her half a turn off the step and into the house, holding each other longer than hello —
 
-And then it wasn't a hug. His face was in her hair, and then it wasn't in her hair, and she turned her mouth up and found his, and under the circumstances it was never going to stay gentle. It didn't. His hand slid up into the hair at the back of her head; she got a fistful of his shirt at the small of his back and pulled, and the kiss went deep and certain, the door not even shut, both of them already past stopping —
+And then it wasn't a hug. His face was in her hair, and then it wasn't in her hair, and she turned her mouth up and found his, and under the circumstances it was never going to stay gentle. His hand slid up into the hair at the back of her head; she got a fistful of his shirt at the small of his back and pulled, and the kiss went deep and certain, the door not even shut, both of them already past stopping —
 
 And he broke it. Stepped back half a step. Not sly, not holding a thing over her — *grinning*, helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything, only took her hand and pulled.
 
@@ -46,7 +46,7 @@ And the slit came open all the way up. To the hip. The silk parted and gave her 
 
 And there, where the slit had opened, was the pale edge of her underwear, cutting across the long line the dress had made of her.
 
-Her first thought was to keep her steps small, so it wouldn't show. The second came up hot behind the first and didn't care what showed. She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it, left it on the chair with everything else she'd walked in wearing. Then she turned back to the glass and took a step, as before. The slit fell open on her bare leg, calf to hip, and this time nothing crossed it. The long line ran clean the whole length of her, and she was the one who'd taken the edge away. The shame of it went through her hot, the shame of having stripped herself bare on purpose to be looked at, and it crossed into wanting almost before it was shame at all, and she let it come.
+Her first thought was to keep her steps small, so it wouldn't show. The second came up hot behind the first and didn't care what showed. She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it, left it on the chair with everything else she'd walked in wearing. Then she turned back to the glass and took a step, as before. The slit fell open on her bare leg, calf to hip, and this time nothing crossed it. The long line ran clean the whole length of her, and she was the one who'd taken the edge away. The shame of it went through her hot, and it crossed into wanting almost before it was shame at all, and she let it come.
 
 And then she walked to him. Not the careful walk — she strode, the slit swinging open on her bare leg and her hip with every step, the length of her given and taken back and given, all the way to the den where he was waiting, to show him what he'd made.
 
@@ -96,7 +96,7 @@ She got her feet up between them instead, flat on his chest, both of them, and h
 
 "I noticed." Her heels slid down off his chest and found the backs of his thighs and pulled.
 
-He came back into her slower than she wanted, which was the whole point, and she knew it was the point: a little, and stopped, and watched her face; a little more, and stopped there. She was so wet it made no sound at all. She tried to take the rest of him with her heels and he simply held, heavy and still above her, and he twitched against the inside of her, once, and she knew exactly what it was costing him and that he meant to spend it anyway.
+He came back into her slower than she wanted, and she knew it was the point: a little, and stopped, and watched her face; a little more, and stopped there. She was so wet it made no sound at all. She tried to take the rest of him with her heels and he simply held, heavy and still above her, and he twitched against the inside of her, once, and she felt what the holding was costing him, and that he meant to spend it anyway.
 
 "You're enjoying this," she said.
 
