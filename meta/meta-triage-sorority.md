@@ -177,3 +177,44 @@ applied, the remaining 17 hits suppressed with per-group rationale in
 `:107` "the same quiet as yesterday in the lecture hall" → "the same quiet as this morning in the lecture hall." The try-on follows stats class the same Friday (`:77`, "at eight that morning"); the quiet it recalls is `:51`, Randi in the aisle seat with "nothing at all on her face." Caught by the dated-heading capture test and independently by a blind undated reader.
 
 **Day named in the prose (author ruling 2026-10-25).** `sorority.md:115`: "The Mercedes sat" → "On Saturday the Mercedes sat", so the prose names the day and the Saturday section line goes quiet. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).
+
+---
+
+## Explain-after-show pass — 2026-10-27
+
+Close-third pass (`/wals-close-third`), Vee's POV. Batch and rulings:
+`audits/close-third/sorority.md`.
+
+### Cut
+
+- `:85` "Coming back was its own small ceremony." It labelled the beat before
+  showing it.
+- `:91` "A verdict, in a word Vee would never have reached for." It labelled
+  Randi's "And a good weight."
+- `:119` "and the hunt tipped over into the other thing" announced the comedy,
+  following August's cut of its gloss. `:121` "It started when Randi" became
+  "Then Randi".
+- `:133` "and talked herself into it out loud, which was the same as talking
+  Randi into it" announced the speech. Her own awareness ("She could hear
+  exactly how it sounded") carries it.
+- `:151` "Randi had just said out loud, easy and offhand, the thing Vee had been
+  running behind her own eyes all week, and" explained the callback to the
+  {{Peekaboo}} daydream. Randi's line carries the echo, and `:179` restates
+  it in Vee's head.
+  - **Cut over one reader's paraphrase:** the fable-5-1 romance-graduate gate.
+  - The gemini-4-argon gate reached the echo from Randi's line alone.
+  - The sentence is now "Vee didn't answer. Hearing it in someone else's mouth
+    made it real, and made her face go warm, and she followed her out."
+
+### Left standing
+
+- `:43` "because the friend was the only part of any of it Cassie had ever been
+  able to see": her realisation. glm-5.3 quotes it in both its cold read and
+  its gate.
+- `:29` "Cassie had cracked it hours ago off the made bed, and let Randi have it
+  anyway": hers. Cassie has just told her about the bed.
+- `:51` "Vee took it the only way there was to take it": her certainty, which
+  is the designed misreading.
+- `:57` "the one snag in the gold of the day": her figure.
+- `:65` "happy in the middle": kept.
+- `:73` "still shown to not one living soul": kept; quoted by glm.

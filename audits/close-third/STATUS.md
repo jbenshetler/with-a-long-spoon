@@ -34,7 +34,7 @@ move, renumber the rows from `tools/chapter_dates.py` and keep the states.
 17. fed — reviewed 2026-10-26 (aggressive list of 25; 6 walked: 1 changed, 5 kept; 19 not walked; `8cdc01f1`; follow-up: :109 rewritten, :119 trimmed, :119 Pace sentence kept; `8e10f902`)
 18. portion — reviewed 2026-10-26 (2 proposed, 2 questions, 2 borderline: 6 changed — :85, :81, :79, :37 cut; :65 reworked; :69 rewritten, jealousy guard amended; `c53377df`)
 19. peekaboo — reviewed 2026-10-26 (2 proposed, 2 questions, 2 borderline: 4 changed — :49, :7 cut; :99 trimmed and rephrased; :9, :41 kept; `5a62d7e9`)
-20. sorority — pending
+20. sorority — reviewed 2026-10-27 (3 proposed: 3 applied; 2 questions: both left; 6 borderline: 2 cut, 4 kept; commit pending)
 21. gone — pending
 22. rock — pending
 23. lesson — pending
