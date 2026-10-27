@@ -36,9 +36,11 @@ has never heard from her — *"Or you're not."* / *"I want her to get there on h
 (the sentence {{Gone}} will hand back to him). *"On her own. With you." … "That's how it
 works for you."* / ***"It's selfish, Pace."***
 
-He feels it land — not where she aimed, but in the place that knelt an hour at a pedestal
-not touching a girl who had been wet through her clothes for him, and finished the hem.
-His one flash is exact rather than loud: *"How do I get her from where she is to us, on
+He feels it land, and it hurts. *Friday, then.* She came from Vee's table this morning to
+his and watched him be glad; she wants Vee as much as he does (the want too big for her
+face in {{Tannin}}, *"I want us"* torn out of her in {{Swim Lanes}}); they picked Vee
+together, and Friday happened without her. He can see why that would sting, and not what
+he is supposed to do about it. His one flash is exact rather than loud: *"How do I get her from where she is to us, on
 your schedule?"* and then *"She chooses it, Randi. Every step of it. Or it isn't
 anything."* He hears how it came out and does not take it back.
 

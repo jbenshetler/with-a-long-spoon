@@ -34,7 +34,7 @@ It went through him and came up in his face before he could do anything about it
 
 Randi watched him be glad. She did not say anything else about it. She took a fork to the salad and ate a leaf of it, and then another, and the bowl in front of her did not move.
 
-He ate. The stew was good. He watched her fork go to the salad and come back and go to the salad, and her bowl sat where he had put it with the one line drawn through the top of the sauce, and he noticed it, and left it.
+He ate. The stew was good. He watched her fork go to the salad and come back and go to the salad, and her bowl sat where he had put it with the one line drawn through the top of the sauce, and he left it.
 
 "How long, Pace?"
 
@@ -62,11 +62,11 @@ He put his spoon down.
 
 "Isn't it?"
 
-He looked at her. Her face was doing very little. The blue of her eyes was on him and level, and the thing at the corner of her mouth that came a beat late when she was holding something was not there, because she was not holding anything. It was out.
+He looked at her. Her face was doing very little. The blue of her eyes was on him, level and sharp, in a way he had not seen before.
 
 "It's selfish, Pace."
 
-He felt it land. Not where she had aimed it; somewhere to the side of that, in the place that had knelt an hour at a pedestal not touching a girl who had been wet through her clothes for him, and finished the hem. He heard his own voice go exact.
+He felt it land, and it hurt. Friday, then. She had come from Vee's table this morning to his, and told him, and watched him be glad. She wanted Vee as much as he did. He had felt it in her, on his couch and in his bed, a want too big for her face, and *I want us*, torn out of her. They had picked Vee together, and Friday had happened without her. He could see why that would sting. He could not see what he was supposed to do about it. He heard his own voice go exact.
 
 "How do I get her from where she is to us, on your schedule?"
 
@@ -76,13 +76,13 @@ She did not answer.
 
 He heard how it had come out. He did not take it back, because it was true, and because he did not know how.
 
-She reached across the table and took the bottle by the neck and poured her own glass, a full one, and set the bottle down. He had poured every glass she had drunk in this house. He watched her hand do it and it went in somewhere and stayed, and he could not have said where.
+She reached across the table and took the bottle by the neck and poured her own glass, a full one, and set the bottle down. He had poured every glass she had drunk in this house. He watched her hand do it and it went in somewhere and stayed.
 
-She ate the salad. All of it, down to the leaves at the bottom that had taken the most of the dressing, with the second glass, and when it was gone she laid the fork across the plate and sat back. The bowl had not moved. He finished his own, because it was in front of him and he was who he was, and it did not taste like anything.
+She ate the salad. All of it, down to the leaves at the bottom that had taken the most of the dressing, with the second glass, and when it was gone she laid the fork across the plate and sat back. The bowl had not moved. He finished his own, because it was in front of him, and it did not taste like anything.
 
 She got up. She did not come around the table and put her mouth on his. She went out of the kitchen and he heard her heels go down the hall and around the corner, and he sat a moment with the two bowls, and then he got up and followed.
 
-She was already out of the skirt. She had him out of the henley and down onto the bed before he had said her name, and up over him, and she did not do the thing she did, the inch and the stop and the eyes. She put him inside her in one motion and drove. Her eyes were shut. Her nails were in his chest. She did not say *tell me*. Every night in this house she had said it, at his ear, against his mouth, and he lay under her with his hands on her hips and waited for it and it did not come. After a while he understood it was not going to, and that whatever this was, it was not for him. He knew that much and not the rest, and he gave it to her anyway. She was quick about it. She rode him hard and fast with her eyes shut and her hair down over her face and came loud, her forehead dropping to his shoulder, and he was a breath behind her, his hands locked on her, and then it was done.
+She was already out of the skirt. She had him out of the henley and down onto the bed before he had said her name, and up over him, and she did not do the thing she did, the inch and the stop and the eyes. She put him inside her in one motion and drove. Her eyes were shut. Her nails were in his chest. She did not say *tell me*. Every night in this house she had said it, at his ear, against his mouth, and he lay under her with his hands on her hips and waited for it and it did not come. After a while he understood it was not going to, and that whatever this was, it was not for him, and he gave it to her anyway. She was quick about it. She rode him hard and fast with her eyes shut and her hair down over her face and came loud, her forehead dropping to his shoulder, and he was a breath behind her, his hands locked on her, and then it was done.
 
 She went off him at once.
 

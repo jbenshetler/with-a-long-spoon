@@ -39,12 +39,20 @@ Pace is taking and how long he intends to take.
   it. Or it isn't anything."* This is the sentence the whole book is written against; it
   must read as conviction, not as an excuse, and he must not be softened into negotiating
   it.
-- **Randi's accusation is the laundered jealousy and must never be named as jealousy** —
-  not by her, not by him, not by the narration. The reader supplies it.
+- **Randi's accusation is the laundered jealousy; he reads only its surface layer.** She
+  never names it, and neither does the narration. He is not thick: he connects *"It's
+  selfish"* to Friday at once, knows she wants Vee (the want too big for her face in {{Tannin}};
+  *"I want us"* in {{Swim Lanes}}), and may take it as her stung, or jealous, that Friday
+  happened without her. The deeper layers — jealousy of Vee, fear of losing him, her own
+  hunger for Vee — are not barred from him, but he is unlikely to reach them: he reads
+  bodies, and like many young men he struggles to see layered or hidden emotion. The
+  reader supplies the rest. (Author ruling 2026-10-26, close-third pass; supersedes "never
+  named as jealousy — not by her, not by him, not by the narration.")
 - **Her interior stays closed.** The only tells are the spoon, the untouched bowl, the flat
   repetition, the bare nails and the white gold on the cloth, the bottle, the shut eyes and
   the back. Nothing else.
-- **He clocks every piece and assembles none**, and the misattribution is given in his own
+- **He clocks every piece and assembles only the first** — Friday (see the guard above).
+  The rest he cannot put together, and the misattribution is given in his own
   words — *the want, with an edge on it tonight, from somewhere.* That is the two-layer
   behaviour/cause doctrine; do not let the narration know better than he does.
 - **He does not put his hand in her hair**, having done so at {{Space}} and elsewhere. The
