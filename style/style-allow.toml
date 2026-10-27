@@ -5429,6 +5429,13 @@ text = "He looked at the bare smooth cleft between her legs, waxed clean, a smal
 note = "her body — literally small"
 
 [[ok]]
+fp   = "df5802b64821"
+rule = "a-small"
+file = "scenes/the-bench.md"
+text = "She turned away from him and moved through his kitchen as she did every time — a working kitchen in a small house, the white laminate counters plain and cheap, the shine long gone off them."
+note = "'a small house' — the house is small; the kitchen is a working one. Author ruling 2026-10-27"
+
+[[ok]]
 fp   = "26fcab16d146"
 rule = "clock-verb"
 file = "scenes/the-bench.md"
