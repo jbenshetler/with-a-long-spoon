@@ -122,13 +122,11 @@ It wasn't a question. "…Yeah." It came out small, and Vee felt her own face st
 
 "Mm," said Randi, warm, and let her have it, and went no further, and Vee felt the letting-go as one more kindness in a day that had been full of them.
 
-She wanted to keep telling it. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about. All of it over, I don't know, some bridge. Who built it, why it still stands." She was watching Randi while she said it, to see it land. "I felt good just sitting there listening to him."
+She wanted to keep telling it. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited about an idea, like it's the most beautiful thing he knows and he'd rather give it to you than keep it. I didn't follow half of it. All of it over, I don't know, some bridge. Who built it, why it still stands." She was watching Randi while she said it, to see it land. "I felt good just sitting there listening to him."
 
 Randi's smile went brighter. It came up a whole notch at that, the full wattage of it turned on her, and Vee sat up a little under it, and was glad she'd said the last part out loud.
 
-"Six years old," Randi said.
-
-"Not six years old when I kissed him." It came out flat and proud. "I kissed him. Two days I'd known him. I do not do that, I have never once in my life done that, and I just did it."
+"I kissed him." It came out flat and proud. "Two days I'd known him. I do not do that, I have never once in my life done that, and I just did it."
 
 Randi sat back. "You kissed him." She let a beat pass, weighing it as she had the other thing. "Two days. You, who doesn't do that." Her voice came down soft, near tender, as though she were agreeing with something Vee hadn't said yet. "Because you couldn't not. Because of him."
 
