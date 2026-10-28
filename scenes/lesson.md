@@ -182,7 +182,7 @@ He'd answered straight — and it wouldn't have mattered what he said. She was a
 
 "I don't need you to get me home safely." Her face was hot. "I'll handle that myself."
 
-She set the bottle on the ledge and walked off before he could say anything — fast, not toward anywhere, just away. She was angry about the girls, and angrier that she'd let herself be played: three dates, and she'd spread her legs like a slut. She got clear of him before any of it could reach her face.
+She set the bottle on the ledge and walked off before he could say anything — fast, not toward anywhere, just away. She was angry about the girls, and angrier that she'd let herself be played: a few dates and she'd spread her legs like a slut. She got clear of him before any of it could reach her face.
 
 ---
 
