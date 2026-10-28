@@ -292,7 +292,7 @@ The talk went on being easy. Class Tuesday, the reading, whether Marsh assigned 
 
 And under it, at the bottom of her glass, Vee kept arriving at a slightly wrong feeling — that she'd handed the morning over and was still holding it. She had another sip of wine and put it where she put things, and it went, mostly.
 
-They split the check at the little terminal. Ten o'clock again — they'd done it again, shut the place down on a school night, and the boy downstairs was stacking chairs with his practiced apology, and they went down the steep stair with their coats on and out past the jukebox and its climbing green water into cold that had teeth in it now, the real end-of-January kind.
+They split the check at the little terminal. Ten o'clock again — they'd done it again, shut the place down on a school night, and the boy downstairs was stacking chairs, closing up, and they went down the steep stair with their coats on and out past the jukebox and its climbing green water into cold that had teeth in it now, the real end-of-January kind.
 
 The sidewalk had them to itself. Streetlight, breath.
 

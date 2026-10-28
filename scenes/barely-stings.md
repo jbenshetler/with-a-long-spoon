@@ -50,7 +50,7 @@ The first of it was almost pleasant — warm, the wax laid on thick with a woode
 
 Sondra tore it off.
 
-"*Fuck—*" It was out of her before she knew her mouth had opened, loud in the small room, and it hung there. She never talked like that. Under everything she was still a girl who said sorry to furniture. But no joke was quick enough for this, nothing clever to get out ahead of it — the wax took the words off with the hair, and what was left underneath with nothing over it was just that, just the plain animal size of it.
+"*Fuck—*" It was out of her before she knew her mouth had opened, loud in the small room, and it hung there. She never talked like that. Sondra had found her sore spot on the first try. But no joke was quick enough for this, nothing clever to get out ahead of it — the wax took the words off with the hair, and what was left underneath with nothing over it was just that, just the plain animal size of it.
 
 "Mm-hm," Sondra said, unmoved, already laying the next stripe. "First one's the surprise. You settle."
 

@@ -120,7 +120,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 "Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."
 
-At ten the room below them began stacking chairs at people with practiced apology. They paid at the little terminal and took their coats off the hook — Vee turning hers lining-to-the-wall, a habit she had stopped noticing she had — and came down the steep stair past the jukebox, its green water still climbing for nobody.
+At ten the room below them began shutting down. They paid at the little terminal and took their coats off the hook — Vee turning hers lining-to-the-wall, a habit she had stopped noticing she had — and came down the steep stair past the jukebox, its green water still climbing for nobody.
 
 Then the cold, and Randi's hands came onto both her arms, and Vee brought her face up and around before Randi had started to, and stopped there with her eyes already closed, waiting on the hand. It came — fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: a draw-back no wider than a breath, a wait held inside it, and her mouth again, and this time it stayed. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face landed at the side of Randi's neck and her mouth went there in passing, and neither of them said a word about it.
 
