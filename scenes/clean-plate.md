@@ -138,7 +138,7 @@ And Vee, pinned again, gave it — but small, close, the way you hand over the t
 
 Randi let a breath go that wasn't quite steady.
 
-The food came up the stair then, two plates of the special, whatever it turned out to be — a dark braise over soft polenta — and Vee, who'd swum a mile and gone cold through and eaten nothing since noon, fell on it and ate like she meant it. It was good; she said so, once, and let it go. A student place's braise, hot and gone. Her whole mind was still up the county road. Randi took one small, exact bite of her own, set the fork down, and left it.
+The food came up the stair then, two plates of the special, whatever it turned out to be — short rib braised dark over soft polenta, roasted fennel at the side — and Vee, who'd swum a mile and gone cold through and eaten nothing since noon, fell on it and ate like she meant it. It was good; she said so, once, and let it go. A student place's braise, hot and gone. Her whole mind was still up the county road. Randi ate the fennel and an even half of the meat, in small, neat bites, and set her fork face down. The polenta she never touched.
 
 Randi turned her glass by the stem, slow. "And you still owe me Tuesday." The bawdy note came into it, low and warm. "You left me with your foot up on the man's chair and the toast on fire, and they turned the lights out on me. I need to know what the pleasure princess did with her slave. Court's back in session."
 
@@ -166,7 +166,7 @@ And Vee laughed — caught full in it, hand flying to her chest, mock-scandalize
 
 "Are they?"
 
-"They are *adjacent!*" She waved it off, delighted, and the story pulled her back down into the house. "*Anyway.* So breakfast ends. And he gets up and clears, because he clears — he cooks, he clears, it's a whole liturgy — and he ties the apron strings tighter and runs the water hot, and he'd made me tea, black with the honey stirred in, it's just at my elbow, it appeared there at some point — things appear in that house. And I'm sitting at his counter in nothing, drinking my tea, watching this man do dishes."
+"They are *adjacent!*" She waved it off, delighted, and the story pulled her back down into the house. "*Anyway.* So breakfast ends. And he gets up and clears, because he clears — he cooks, he clears, it's a whole liturgy — and he ties the apron strings tighter and runs the water hot, and he'd made me tea, black with the honey stirred in, it's just at my elbow, it appeared there at some point — things appear in that house. And I'm sitting at his table in nothing, drinking my tea, watching this man do dishes."
 
 "In the apron."
 
@@ -190,7 +190,7 @@ Randi's mouth curved.
 
 "So you have the wet hands, the apron, the puzzled look." Randi fed the edge of the glass in under a nail and bore down on it. "And a decision to make."
 
-"I'd made it. I got off the stool and walked out of the kitchen. Didn't say a word, didn't look back."
+"I'd made it. I got up out of my chair and walked out of the kitchen. Didn't say a word, didn't look back."
 
 "*Naked,*" Randi said, sitting up like a woman at a parade. "The pleasure princess. Processing to her chambers, bare as the day — and the slave *follows —*"
 
@@ -206,7 +206,7 @@ Her voice went back down into it then, the telling pulling her inside the house.
 
 Randi was very still, arms folded, all her lights aimed.
 
-"And I sat down on that cashmere blanket, and I looked at him standing there in a flowered apron with his hands still damp, and I did this." She made the little swirl in the air, a circling of two fingers, *all of it, off.* "And sat back to watch."
+"And I sat down on that cashmere blanket, and I looked at him standing there in his apron with his hands still damp, and I did this." She made the little swirl in the air, a circling of two fingers, *all of it, off.* "And sat back to watch."
 
 "And?"
 
@@ -284,9 +284,9 @@ Randi looked at her, pleasant as a hostess, and asked her only question.
 
 "He—" Vee stopped. The morning was right there: the mouth that came to her wet and in no way sorry, the one economical pass of the hand, the *Okay* against her jaw with the smile under it. "He likes it. Actually—" and the word was out before any part of her had vetted it, "—he's enthusiastic."
 
-"Mm," Randi said, warmly, the sound of a woman finding everything in order, and ate the bread.
+"Mm," Randi said, warmly, the sound of a woman finding everything in order, and drank.
 
-And that was all. No verdict, no lecture, no little bow on it. The server came up the stair for the plates, and Vee looked down at hers as it went — polished clean, the fennel thing gone entire, the chop reduced to its bone; she had eaten all of it without noticing she was doing it — and Randi asked the server what the violin piece downstairs had been, and nobody at the table thought anything else worth saying about Saturday morning, apparently, ever again.
+And that was all. No verdict, no lecture, no little bow on it. The server came up the stair for the plates, and Vee looked down at hers as it went — polished clean, the fennel gone entire, the rib reduced to its bone, the polenta scraped to the china — and Randi asked the server what the violin piece downstairs had been, and nobody at the table thought anything else worth saying about Saturday morning, apparently, ever again.
 
 The talk went on being easy. Class Tuesday, the reading, whether Marsh assigned like a woman who'd forgotten students took other courses. It was fine. It was lovely.
 
