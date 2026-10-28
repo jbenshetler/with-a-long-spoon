@@ -134,7 +134,9 @@ def chapter_block(i: int) -> str:
     body = checkpoint_bundle.clean_scene_text(s)
     head = f"===== CHAPTER {i}: {checkpoint_bundle.display_title(s)} =====\n\n"
     if DATED:
-        head += f"*{chapter_dates.heading(s)}*\n\n"
+        line = chapter_dates.heading(s)
+        if line:  # None: the chapter opens undated (a flashback panel)
+            head += f"*{line}*\n\n"
         body = chapter_dates.dated_text(s, body)
     return f"{head}{body}\n"
 

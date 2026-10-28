@@ -762,6 +762,23 @@ class ChapterDateTests(unittest.TestCase):
             with self.assertRaises(self.dates.AnchorMissing):
                 self.dates.section_days("x")
 
+    def test_undated_opening_shows_no_heading_but_dates_later_sections(self):
+        meta = {"x": '*Wed Nov 18* · days: Wed Nov 4 (undated) | Wed Nov 18 @ "The library" · slug: x'}
+        text = "Panel one.\n\n---\n\nThe library gave them a room."
+        with patch.object(self.dates, "_metadata_lines", return_value=meta), \
+                patch.object(self.dates, "_check_anchors"):
+            self.assertIsNone(self.dates.heading("x"))
+            self.assertEqual(self.dates.date_lines("x", text), (None, {4: "Wednesday, November 18"}))
+            self.assertIn("---\n\n*Wednesday, November 18*\n\nThe library", self.dates.dated_text("x", text))
+
+    def test_step_backs_list_a_chapter_opening_before_the_latest_day(self):
+        meta = {"a": '*Fri Nov 6* · days: Fri Nov 6 | Fri Nov 13 @ "Next" (quiet) · slug: a',
+                "b": "*Mon Nov 9* · slug: b",
+                "c": "*Mon Nov 16* · slug: c"}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta):
+            backs = self.dates.step_backs(["a", "b", "c"])
+        self.assertEqual([(n, s, p) for n, s, _lo, p, _hi in backs], [(2, "b", "a")])
+
     def test_approximate_date_is_not_rendered(self):
         meta = {"x": "*~Sat Feb 6* · slug: x"}
         with patch.object(self.dates, "_metadata_lines", return_value=meta):

@@ -60,6 +60,7 @@ SLUG_RE = re.compile(r"slug:\s*([a-z0-9-]+)")
 DAYS_RE = re.compile(r"days:\s*([^·*]+)")
 SCENES = CHRONOLOGY.parent.parent / "scenes"
 QUIET = "(quiet)"
+UNDATED = "(undated)"  # opening part only: recorded, but the chapter shows no heading date
 
 
 class DateError(ValueError):
@@ -129,8 +130,14 @@ def _chapter_range(slug: str, meta: str) -> tuple[dt.date, dt.date]:
     return pts[0], pts[-1]
 
 
-def section_days(slug: str, *, include_quiet: bool = False) -> list[tuple[str | None, str]]:
+def section_days(slug: str, *, include_quiet: bool = False) -> list[tuple[str | None, str | None]]:
     """[(anchor, date line), ...]: anchor None for the opening day.
+
+    The opening part may end `(undated)`: the chapter then carries no heading
+    date (its line is None) and readers meet the first dated section instead.
+    This is for a chapter that opens on a flashback, where a heading would show
+    a date earlier than the one the reader has reached (the outlier: panel one
+    is earlier in the term, panel two is dated).
 
     Single-day and range chapters with no `days:` field return one entry.
     A part ending `(quiet)` is recorded but not shown (author ruling
@@ -144,10 +151,15 @@ def section_days(slug: str, *, include_quiet: bool = False) -> list[tuple[str | 
     if not m:
         line = _render(first) if first == last else f"{_render(first)} – {_render(last)}"
         return [(None, line)]
-    out: list[tuple[str | None, str]] = []
+    out: list[tuple[str | None, str | None, bool]] = []
     prev = None
     for k, part in enumerate(p.strip() for p in m.group(1).split("|")):
         anchor = None
+        undated = part.endswith(UNDATED)
+        if undated:
+            if k:
+                raise DateError(f"{slug}: only the opening `days:` part may be undated")
+            part = part[: -len(UNDATED)].strip()
         quiet = part.endswith(QUIET)
         if quiet:
             part = part[: -len(QUIET)].strip()
@@ -164,7 +176,7 @@ def section_days(slug: str, *, include_quiet: bool = False) -> list[tuple[str | 
         prev = pts[0]
         if quiet and k == 0:
             raise DateError(f"{slug}: the opening day cannot be quiet")
-        out.append((anchor, _render(pts[0]), quiet))
+        out.append((anchor, None if undated else _render(pts[0]), quiet))
     _check_anchors(slug, [a for a, _, _ in out if a])
     return [(a, line) for a, line, q in out if include_quiet or not q]
 
@@ -191,8 +203,10 @@ def _check_anchors(slug: str, anchors: list[str]) -> None:
             )
 
 
-def heading(slug: str) -> str:
-    """The date line under the chapter title; raises DateError if not exact."""
+def heading(slug: str) -> str | None:
+    """The date line under the chapter title; None for an `(undated)` opening.
+
+    Raises DateError if the chronology date is not exact."""
     return section_days(slug)[0][1]
 
 
@@ -233,6 +247,38 @@ def date_lines(slug: str, text: str) -> tuple[str | None, dict[int, str]]:
     return days[0][1], at
 
 
+def _span(slug: str) -> tuple[dt.date, dt.date]:
+    """Earliest and latest day the chapter covers, quiet days included."""
+    meta = _metadata_lines()[slug]
+    pts = list(_chapter_range(slug, meta))
+    m = DAYS_RE.search(meta)
+    if m:
+        for part in m.group(1).split("|"):
+            part = part.replace(QUIET, "").replace(UNDATED, "")
+            pts += _points(part.split("@", 1)[0], slug)
+    return min(pts), max(pts)
+
+
+def step_backs(slugs: list[str]) -> list[tuple[int, str, dt.date, str, dt.date]]:
+    """Chapters that open on a day before the latest day already read.
+
+    Not an error: the chronology orders some chapters inside an earlier one's
+    span (above-him's two Fridays) or opens on a flashback (outlier's panel
+    one). Listed so a reader's "time went backwards" can be traced to the spine,
+    and so the step back is a choice, not an accident."""
+    out, latest, latest_slug = [], None, None
+    for n, slug in enumerate(slugs, 1):
+        try:
+            lo, hi = _span(slug)
+        except DateError:
+            continue
+        if latest and lo < latest:
+            out.append((n, slug, lo, latest_slug, latest))
+        if not latest or hi > latest:
+            latest, latest_slug = hi, slug
+    return out
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -242,7 +288,7 @@ def main() -> None:
     errors = inexact = 0
     for n, s in enumerate(drafted, 1):
         try:
-            line = heading(s["slug"])
+            line = heading(s["slug"]) or "(undated opening)"
         except (WeekdayMismatch, AnchorMissing) as exc:
             errors += 1
             line = f"!! {exc}"
@@ -256,6 +302,9 @@ def main() -> None:
                 for day in section_days(s["slug"], include_quiet=True)[1:]:
                     tag = "" if day in shown else "   (quiet: not shown)"
                     print(f"{'':37}{day[1]}   @ {day[0]!r}{tag}")
+    for n, slug, lo, prev, latest in [] if args.check else step_backs([s["slug"] for s in drafted]):
+        print(f"  step back: {n} {slug} opens {_render(lo)}, after {prev} "
+              f"reached {_render(latest)} (story order, not an error)")
     if args.check:
         print(f"{len(drafted) - errors - inexact}/{len(drafted)} exact · "
               f"{inexact} without an exact date · {errors} error(s) (weekday mismatch or lost anchor)")

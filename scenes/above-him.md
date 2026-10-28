@@ -4,8 +4,6 @@
 
 ---
 
-**i.**
-
 The sheet had gone cool everywhere her skin wasn't touching his, and she lay in that cooling with the whole day still loud in her body and let it come back to her.
 
 A week since the last time, the longest they'd gone — the conference, several days of it, and a brutal week on campus on top of it, so the midweek night they'd have stolen never happened and the seven days stood empty between them.
@@ -28,7 +26,7 @@ She moved closer and tucked herself along his side and put her mouth up near his
 
 He didn't stir. She hadn't meant him to. She shut her eyes against the warm of him, and the day finished letting go of her, and she was under before she could think one more thing.
 
-**ii.**
+---
 
 In the morning her hair had kept the whole night in it.
 
@@ -44,7 +42,7 @@ Something small went through her. Not the deep thing. Only the surface worry of 
 
 He did nothing. His eyes came back up and found hers in the glass, and he smiled, the small private one, and put his mouth back to her shoulder where it had been, and that was all of it. Not one word. She let her breath out and leaned into him and let the worry go, and carried only the smallest tail of it out of the room with her. *Had he minded?* She couldn't tell. He hadn't said. He never said.
 
-**iii.**
+---
 
 The next Friday the scrunchies weren't on the counter.
 

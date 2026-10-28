@@ -954,8 +954,8 @@ def _dates_attr(e) -> str:
     from chapter_dates (the stable source); empty when the date is not exact."""
     import json
     heading, at = chapter_dates.date_lines(e.file_slug or "", e.scene_md)
-    if not heading:
-        return ""
+    if not heading and not at:
+        return ""  # no exact date; an `(undated)` opening still dates its later sections
     return json.dumps({"h": heading, "at": {str(i + 1): d for i, d in at.items()}})
 
 
@@ -1212,7 +1212,7 @@ READER_JS = r"""
       if (dates && dates.at[ln]) out.push('<p class="dateline">'+escHtml(dates.at[ln])+'</p>');
       var h = t.match(/^(#{1,6})\s+(.*)$/);
       if (h){ var lv=h[1].length; out.push('<h'+lv+' data-line="'+ln+'">'+inline(h[2])+'</h'+lv+'>');
-              if (dates && lv === 1 && !headed){ out.push('<p class="dateline">'+escHtml(dates.h)+'</p>'); headed = true; }
+              if (dates && dates.h && lv === 1 && !headed){ out.push('<p class="dateline">'+escHtml(dates.h)+'</p>'); headed = true; }
               continue; }
       if (/^([-*_])\1\1+$/.test(t)){ out.push('<hr data-line="'+ln+'">'); continue; }
       if (t.charAt(0) === '>'){ out.push('<blockquote data-line="'+ln+'">'+inline(t.replace(/^>\s?/,''))+'</blockquote>'); continue; }
