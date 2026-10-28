@@ -14,7 +14,7 @@
 - [ ] Voice regresses under pressure — smaller, younger, simpler — never up into precision or sophistication
 - [ ] Body responds before mind permits — response rendered first, cognition follows
 - [ ] Her signature deflection is preemptive self-exposure as a joke, not armor-reaching
-- [ ] The mother is audible in dialogue only as displaced prim judgment of *other* women's sexuality (*floozy* etc.) — never self-directed in dialogue
+- [ ] The mother is audible in dialogue only as displaced prim judgment of *other* women's sexuality (*floozie* etc.) — never self-directed in dialogue
 - [ ] With Cassie: unguarded-bawdy. With Randi: warmth-pressure takes her voice. With Pace: deflection fires early and recedes with trust
 
 **Interior and shame**

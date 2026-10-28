@@ -628,7 +628,7 @@ Clean — no findings.
 | 1 | institution | VT campus police — fire-lane move-along *(tier: n/a)* | Blue and white came on behind them, strobing in the rain across the back glass. The campus cop, pulled up behind, lights going. | final section, dorm drop-off | No change needed; could genericize to 'a campus cruiser' if the lawyer wants distance. |
 | 1 | age-signal | 'Girls'/'dorm girl' language cluster near the truck striptease *(tier: n/a)* | *This is what girls who. Three dates. Your mother would never.* | truck-cab undressing sequence, ~three-quarters through | No change needed; if flagged, the chapter's own 'Intermediate Micro thinned the major' upper-classman detail is the on-page adult anchor. |
 | 0 | institution | Fire-lane parking at a VT dorm *(tier: n/a)* | He pulled the truck up the drive to the entrance — the fire lane, the red-painted curb — | final section, dorm drop-off | None needed. |
-| 0 | age-signal | 'floozy' / 'what kind of girl' mother's-voice epithets in sexual beat *(tier: n/a)* | The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own | truck-cab undressing sequence | None needed. |
+| 0 | age-signal | 'floozie' / 'what kind of girl' mother's-voice epithets in sexual beat *(tier: n/a)* | The voice said *floozie* in her mother's exact word and her thighs pressed once, hard, on their own | truck-cab undressing sequence | None needed. |
 
 ### Rye (`rye.md`)
 

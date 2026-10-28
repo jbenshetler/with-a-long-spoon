@@ -120,7 +120,7 @@ rationale**, so later passes don't re-litigate.
   ("made me wince… narrows her body down") and gpt-5.6-sol ("catches badly in
   me… feels planted by shame") both flinched. **Working as designed — author
   ruling 2026-07-30, discussed at length.** The clause is Vee's
-  seven-years-internalized shame ("floozy," "too much," "slut," "stripper,"
+  seven-years-internalized shame ("floozie," "too much," "slut," "stripper,"
   since fourteen) converted to armor for the sluttiest act of her life; the
   essentialism is *hers*, deliberately — an internalized verdict, no longer her
   mother's quoted speech. Re-attributing it to the mother (e.g. "the one thing
