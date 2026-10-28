@@ -168,7 +168,7 @@ Vee looked down at her lap. She took a big drink of her wine, and a breath — a
 
 "Very. Ready."
 
-Randi's eyes were very dark and liquid, staring. Vee could hear her breathing.
+Randi's eyes were very dark and liquid, ringed in intense blue, staring. Vee could hear her breathing.
 
 "Wow," Randi said finally, hoarse and low. And kept staring.
 
