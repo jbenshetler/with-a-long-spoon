@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch033 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e6c251d7b57f · dated · 2026-10-27*
+
+REACTION
+
+Oh, I love this chapter, and I love Cassie so much. *"You're doing the streetlight thing again. You're a public utility."* Every woman in a relationship that is consuming her whole life needs a roommate like Cassie sitting in a bean bag chair with a book, listening without an ounce of jealousy or agenda, and then just dropping the flat truth on the floor: *"You don't come home school nights."* And *"Do you love him."*
+
+Wait—I just realized something about the timeline! The end of Chapter 32 flashed forward to *"the next Friday"* (which would be November 13) when Vee finds that Pace cleared out his top drawer for her things. This chapter is Monday, November 9, and Tuesday, November 10—right in the middle of that week *before* she opens that top drawer! That’s why, when she’s in the pool on Tuesday, she’s still turning over *"Did he mind"* about her hairbrush and her things scattered across his clean counter on Saturday morning! Oh, my heart. We already know that while she's swimming laps and worrying whether she took up too much space in his house, he has either already cleared out his own top drawer for her or is about to do it before Friday. Knowing the answer is already waiting for her at the end of the week takes all the sting out of her anxiety and just makes me ache for how careful she still is with her own heart.
+
+Because look at what she does when Cassie asks her out loud if she loves him: Friday night in the dark against his back, she let the word be completely true inside her own chest, and yet when Cassie asks her in their dorm room, her voice goes small and she says *"Maybe. I think so. It's all so fast."* Why? Because saying it out loud to another person in a lit room makes the stakes real, and Pace still hasn't given her a single word for what they are. Look at that four-stroke thought in the middle of her swim set: *"she could not tell, for about four strokes, whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good, out of wanting, out of two months of being looked at like that."* That is such a deeply honest, terrifying thought when you've never been loved like this before—wondering if you're hallucinating how good he is just because you were starving.
+
+And can we talk about the baked tomato burn?! She's eating dinner naked at his table (because *"the house stayed warm now, warm enough that she never once thought about how much she had on"*—he keeps his house warm so she'll be comfortable bare!), gets greedy over his baked tomatoes with breadcrumbs and cheese and herbs, drops a hot tomato on the side of her bare breast, and he has a cold cloth pressed to her skin before she even finishes swearing, and then fusses over the tiny burn for *days*. That is my exact drug: a man who rules the bedroom and then turns around and keeps the thermostat up so she can sit naked at his table and fusses for days over a tiny burn on her breast.
+
+I also really loved being inside her body in the pool. After so many chapters where her body is either a site of old shame or new erotic overwhelm, seeing her in the water where her body is just an engine that works—*"Her legs were doing something honest. Her hands knew where to be. Nobody was counting but her and nothing was riding on it, and her body, which had opinions all day long every day of her life, had none at all down here"*—felt so grounding. She's a whole person with muscles and habits she's had since she was twelve, burning the words off her dread until all that's left is the quiet shape underneath. Now I want to see the rest of this week, and I want Friday to get here so she can open that drawer!
+
+GATE 33 — School Nights
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A quiet, deeply grounding chapter that lets us see Vee from the outside through Cassie's steady eyes and from the inside as she swims the anxiety out of her body. The small details of Pace's care—keeping the house warm enough that she eats naked, fussing for days over a dropped hot tomato on her breast—kept the romance warm even while he's off-page, and realizing this takes place *before* she finds the drawer on Friday made her quiet fear ("whether he was that good or she had made him that good") hit hard.

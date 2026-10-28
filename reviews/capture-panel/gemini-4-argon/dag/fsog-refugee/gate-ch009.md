@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch009 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha be1dc7d466f1 · 2026-10-24*
+*capture-dag-v2-rich · gate ch009 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 47d317c3eaa5 · dated · 2026-10-27*
 
 REACTION
 
-Okay, my heart is in my throat and I'm split right down the middle between grinning like an idiot and wanting to shake someone.
+Okay, the mirror scenes of Vee telling Cassie vs. Vee telling Randi about the exact same date are doing so much work, and it’s making my stomach flip in two completely different ways at once.
 
-First of all, Vee in her dorm room with Cassie after the date—*“Nobody did anything to me. I wasn’t talked into it. I did it because I wanted to and I did it on purpose.”* YES. God, that line went straight into my bloodstream. That is the exact feeling I read this whole genre trying to find and almost never get: a woman who isn't pushed or cornered or tricked into her own desire, who gets given enough space that she gets to step into it herself and feel proud of wanting what she wants. Her spinning around the tiny dorm room and collapsing into the beanbag chair made me love her so much. And Cassie! Cassie with her feet not reaching the floor, asking for the address for the state troopers, quietly clocking everything while Vee is floating six feet off the ground.
+With Cassie, it’s pure oxygen. When Vee says *"He was already walking away and I pulled him back and I did it. Me."* and then when Cassie asks how much he gave her to drink and Vee says *"We had tea... I wasn't talked into it. I did it because I wanted to and I did it on purpose"* — God, I loved that so much. That is the exact thing I read for, put right into the heroine's mouth. Because Pace *actually* walked away when she set a boundary, she got to feel what it was like to choose, and she is so proud of herself she literally has to get up and spin around the dorm room. And Cassie’s reaction! Pragmatic, protective (*"What's his name, so I know what to tell the state troopers"*), a little sharp about class (*"Rich people hike. Poor people walk"*), and totally solid. It makes my heart ache a little watching Vee drift away from Cassie six days later in lecture because Randi is dazzling her, and Cassie just quietly packs up and sees it happening.
 
-And then the Smoothie Bird scene. Look, I know the setup. I read the jacket, I read Chapter 3, I know Randi pretending to forget Pace's name (*"Paul?"*) is a total lie and that she is working Vee. Under normal circumstances, that kind of manipulation would have me closing the book. What is keeping me glued to the page is that Randi is *not* untouched by this. When Vee puts her hand under her own breast and says *"I'd black my own eye,"* and Randi barks out a real laugh that turns heads? And then when Vee goes quiet and strokes her own thighs thinking about the trail and says *"He'd ask, though. Before he ravished me,"* and Randi answers a beat late and low, *"Ask and then ravish"*—Randi is in the fantasy with her! Randi isn't just running a play for Pace; Randi wants her, and she's getting pulled under too.
+Because then we get the Smoothie Bird scene with Randi, and it is *loaded*. I am so split on Randi right now. On one hand, she is running a game—pretending to forget Pace's name (*"Paul?"*), feeding Vee a fake bad-date story just to set up the contrast, nudging Vee's framing from *"I made an exception"* to *"Because you couldn't not. Because of him."* That’s subtle, dangerous work. She’s gently steering Vee into feeling more helpless and more swept away than Vee actually felt on the night of!
 
-And the Brooke moment sealed it for me. We saw in Chapter 2 what Brooke and that sorority hierarchy do to Randi, how carefully Randi has to manage her status in that house. So when Vee tries to shrink herself down to *"We have stats together"* so she won't embarrass Randi in front of Brooke, and Randi reaches right across the table in plain view of the chapter president, takes Vee's hand, and says *"Vee's my dear friend"*? That cost Randi real social capital. She spent it on Vee without blinking. Even inside a game, that protection was real.
+And yet... Randi isn't faking her desire for Vee. When Vee puts a hand under her own breast and says *"I'd black my own eye"* and Randi barks out a real laugh that turns heads? And when Vee gets quiet, stroking her own thighs, thinking about Pace on the trail and saying *"He'd ask, though... Before he ravished me,"* and Randi drops down into Vee's quiet register a beat late: *"Ask and then ravish."* That wasn't just manipulation; Randi was right there in the fantasy with her.
 
-Still, the dramatic irony is making my stomach hurt in the best, most anxious way—Vee walking home feeling so *picked* while having no idea how she was picked. Also, it's been one full chapter without Pace on the page now, and they have a Sunday hike coming up. I need them on that mountain immediately.
+And then Brooke walks up. We know from Chapter 2 what Brooke is and how much social power she holds over Randi in that sorority house. Vee immediately tries to shrink herself—*"We have stats together"*—so she won't be an embarrassment to Randi in front of the queen bee. And Randi doesn't let her! Randi grabs her hand on top of the white table in front of Brooke and says, *"Vee's my dear friend."* She actually spends her own social capital with Brooke to claim Vee out loud. Even knowing the setup, that felt real, and it gave me chills.
 
-GATE 10 — Dear
+Now I need Sunday. I need the hike. It’s been a chapter of girl-talk (great girl-talk, full of tension), and now I want Vee and Pace on that mountain.
+
+GATE 9 — Dear
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee claiming her own agency after the kiss ("I did it because I wanted to and I did it on purpose") is everything I read for, and watching Randi genuinely step up for Vee in front of Brooke—plus that low, shared beat of heat over "Ask and then ravish"—keeps the secret setup feeling messy and human rather than cold. Now I'm dying to get to Sunday and see Vee and Pace alone on that hike.
+WHY: Seeing Vee glow over her own agency with Cassie, and then watching the complicated, charged dynamic between Vee and Randi at the smoothie shop—especially Randi claiming Vee in front of Brooke—kept me completely hooked. Now I'm dying to get to Sunday and see Vee and Pace alone on that hike.

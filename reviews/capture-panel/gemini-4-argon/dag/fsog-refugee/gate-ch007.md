@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b0e38f522c99 · 2026-10-24*
+*capture-dag-v2-rich · gate ch007 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f8dd715a4e55 · dated · 2026-10-27*
 
 REACTION
 
-Oh, I love Cassie. And my chest actually aches for Vee right now.
+I love this chapter so much, even though it’s quiet. Maybe *because* it’s quiet.
 
-That line—"She had loved this before she had a body to be a problem"—just went straight through me. Every woman who grew up into a body that men decided was public property knows that exact grief, that feeling of having to put on a "game face" just to walk fifty yards past a row of bleachers, carrying your towel at your side so they don't get the satisfaction of seeing you cover up. And then sinking to the bottom of the pool where nobody can see you and nobody wants anything from you. God.
+First of all, the contrast between the girls in Randi's sorority house and Cassie is everything. Cassie is a real friend. The way she handled those gross guys in the bleachers—not making a big scene that would embarrass Vee more, just dropping that dry little line for Vee’s ears only so Vee could let her breath out—and then splashing her when she came up from the bottom of the pool looking sad? I would die for Cassie. And it makes me ache for Vee, because you can see how much she has to armor herself just to walk across a room in the body she has. That line about loving the water before she had a body to be a problem, and grieving down at the bottom of the pool where nobody wants anything from her... god, I felt that in my chest. It makes you realize why she covers up in cardigans at Chi Latte and why she’s so hungry for the way Pace and Randi look at her.
 
-It makes me understand immediately why Pace's way of looking at her—waiting for her, asking, letting her finish a sentence—landed on her the way it did, and why Randi's bright warm attention feels so intoxicating. Vee is constantly being *yelled at* or *taken in* by idiots on bleachers, and her own mother's voice in her head tells her to cover up because of it. Of course she's starving for someone to look at her with care.
+And then the back half in the locker room! *"Don't answer tonight."* Excuse me?! Who does that! Pace does that, because Pace is never in a hurry. I actually smiled at the page. It fits the jacket ("he asks before he takes, until choosing becomes the most erotic thing she has ever done") and it fits the man we saw in Chapter 1, who waited out every rush. He didn't want her automatic, polite, swept-up-in-the-moment yes on the street corner. He wanted her to go home, sleep on it, sit on a wet locker room bench in her towel thinking about his hands, and *choose* to text him the next day. And look at what it did to her: she’s sitting there in a towel, warm from the shower, winding a wet curl around her finger and thinking about his thick knuckles and what he does with his hands besides math. (We know what he does with his hands, Vee!! He builds walnut benches and furniture!)
 
-And it also makes the whole setup with Randi and Pace—and Cassie's flat "Goodbye, Vee" back in Chapter 4—feel so much heavier. Because here is Cassie, who *actually* loves Vee, who keeps her joke quiet just for Vee's ears so it doesn't turn into a spectacle, who watches Vee surface with her face wrong and shoots water at her instead of poking at the sadness until Vee is making her ugly shriek-laugh. Cassie is a real friend. Randi is playing a game she started in bed with her boyfriend. I want Pace and Vee in a room together, badly—we've only had froyo and a math problem so far—but right now I'm mostly protective of this girl.
+Yes, there’s the creepy undercurrent of the setup from the earlier chapters—I haven't forgotten how calculated the coffee shop meet-cute was—but inside Vee's head right now, this feels so genuine and earned. Her desire is completely hers, rendered from the inside out, and I cannot wait for Saturday night.
 
-GATE 8 — Water Wings
+GATE 7 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 0
-ROMANCE: 0
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Zero heat and Pace isn't even in the chapter, and I didn't care for a second—this made Vee completely real to me from the inside, especially what it costs her to walk around in her own body. Cassie is wonderful, and now I'm dying to see what happens the next time Vee is actually alone with Pace (and honestly a little scared for her).
+WHY: Seeing Vee inside her own body—both the grief of being ogled by idiots and the quiet, private simmer of thinking about Pace's hands in the locker room—made me care about her ten times more. And "Don't answer tonight" is peak Pace; I need to see their Saturday dinner immediately.

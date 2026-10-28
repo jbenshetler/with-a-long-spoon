@@ -1,0 +1,27 @@
+*capture-dag-v2-rich · gate ch048 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · dated · 2026-10-27*
+
+REACTION
+
+Oh my god, this chapter was pure bliss and then sneaky, devastating, and *so* hot all at once.
+
+First of all, let's talk about the cream cashmere blanket!! In Chapter 45 we just saw Pace wake up on New Year's Day and fold "Randi's cashmere blanket, the one for the chill that took her after," which had slid off the foot of the bed, and put it back where it lived. And here is Vee, spreading the cream cashmere square and smooth over the foot of the bed before breakfast, soaking it during sex, and then pulling it up over both of them afterward thinking: *"The beautiful blanket he had never said one word about, which had simply appeared at the foot of the bed sometime after she'd started staying nights, which was how he gave gifts: no card, no notes, no moment where you had to say thank you."* My stomach dropped straight through the floor when I read that! He DID do that with the top drawer—that one really was a silent gift for her—so of course she assumes the cashmere blanket at the foot of the bed appeared for her too! Meanwhile it's Randi's aftercare blanket, and Vee just christened it as her "pleasure princess" throne. The dramatic irony is so sharp I almost couldn't breathe, and yet in the moment it's also weirdly, deliciously tangled, because all three of them are wrapped up in that blanket now without Vee knowing it.
+
+And the "pleasure princess" reversal—God, I loved being inside Vee's head for this. Starting down the hall thinking *his for the taking, a pleasure slave,* and then counting on her fingers: he brings her off first every single time, he gets up in the dark to start fresh bread so she wakes up inside the smell of it, he cooks, he cleans while she drinks wine, he's out in the January cold buying mushrooms and blood oranges and persimmons for her. *"Not the kind of woman who is kept for a man's pleasure. The kind a man keeps in pleasure."* The way she claims that power—sitting naked in her green-dotted scrunchie, driving him so distracted that this hyper-competent, exact man literally stands there with his back to the toaster and burns the toast black ("I got mushrooms" when he walked in took me out, too)—was pure joy. And then "Missed a spot" at the sink, wagging her finger at him when he reaches for her waist, strutting down the hall swaying everything she has while he drops the dish towel and follows her in his apron, and swirling her finger for him to strip at the foot of the bed while she watches and points to the inside of her wrist! That is the exact dynamic I live for: a man who is strong and completely in command of his craft, who will happily drop to his knees and obey her silent pointing finger because giving her pleasure is his whole religion.
+
+The oral scene itself was scorching—him kissing all the way down to her plum-painted toes and back up, tiling her skin, opening her like the blood orange, breathing warm air over her, and then the noisy, unapologetic relish of him drinking her down while she's caught between mortification and heat.
+
+And then the kiss! What a brilliant, psychologically exact beat. When he comes up and kisses her with her own slick all over his mouth and chin, her body and her tongue reach for it *first*—clenching hard around him, curious, tasting—before her mother's old installed voice kicks in and makes her sputter *"Ugh — gross. That's — no. Wrong."* Look at what Pace does the second she says "no. Wrong":
+> He went still. Deep in her, his weight on his arms, entirely still — and then, carefully, he began to draw back out of her.
+
+He doesn't argue, he doesn't get defensive or insulted even though she just called the taste of her on his mouth "gross"—he immediately stops and starts to withdraw in case the "no" is for the whole act. And when she locks her heels around his ass ("No — not that. It's fine. Don't stop. Don't you dare stop"), he reads which *no* is which, wipes his mouth with the back of his hand without a speck of sulking or wounded ego, says a gentle *"Okay"* against her jaw, and keeps her mouth completely off-limits until *she* reaches into his hair and pulls him back down to kiss him. And then her own tongue goes hunting in his mouth for that faint sharp-salt taste and she comes apart mid-kiss!
+
+And the way that plants the seed for Tuesday night after anthropology dinner with Randi! Because now Vee is lying there wondering *Why does he like tasting a woman so much?* and realizing her own tongue went hunting for the taste of a woman on his lips... and she's deciding she's going to ask Randi about it across a dinner table on Tuesday! "Maybe she'd just say it anyway. Randi would know what to make of it. Randi always did." I am practically vibrating for Tuesday night.
+
+GATE 48 — Missed a Spot
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Pace burning the toast because Vee is sitting naked in her scrunchie, submitting completely to her "pleasure princess" finger-commands, and then immediately pausing to pull out when she says "no, wrong" before gently wiping his mouth and letting her come back to kiss him on her own terms is peak consent and peak heat. Plus, Vee hunting for her own taste on his mouth and planning to bring it up to Randi after their first Tuesday night Anthro class has me dying for the next chapter.

@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch035 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5794cafc164c · dated · 2026-10-27*
+
+REACTION
+
+Oh, my chest hurts in the best, most terrifying way. We just hit the exact line from the back cover — *"You're not greedy. You're just finally hungry out loud"* — and reading it in the room after thirty-five chapters of building to it hit so much deeper than I expected. Because it’s *true*. Everything Vee is pouring out across this booth about Pace is the exact thing I came to this genre praying to find: a man who wants her three times a night and mornings and afternoons, who can hold her anywhere he wants because he's so strong and then be so gentle a minute later she could cry, who cooks from scratch with the piano music already rolling before she walks in the door, who gives her a quiet she can float in and whole nights of real sleep.
+
+And then look at what happens to Randi when Vee says, *"Like he wants me. With the body attached. Not — the other way around."* Randi's eyes going bright and unfixed, that little shake of her head to clear it, the catch in her breath she can't quite smooth over! Vee thinks she just told a really sexy, moving story over brunch, and I'm sitting here with my hand over my mouth because I know what Randi is hearing. Randi is hearing how Pace loves Vee. She's hearing *"like somebody found the lamp"* from Vee's side of the bed — the quiet, the whole nights in the woods, the attention that never turns off — and at the exact same time she's so undone by Vee herself that she has to shake her head to recover.
+
+Now let's talk about the pinup photo, because my stomach dropped and my pulse went right up at the same time. Remember in Chapter 34 when Vee made Pace promise *never* to share her photograph with anyone, and he promised *"Never. I'd never share your photograph"*? HE kept his promise. He didn't show Randi. And then Vee walks into Saturday brunch and shows Randi *herself*! First the cropped one — because Randi does that brilliant, subtle push-pull where she slides the phone back and says *"You don't have to show me"* — and then when Randi teases her about only giving him half with legs like hers, Vee pulls up the full, uncropped naked pinup that Pace posed her for and puts it right into Randi's hand! Still warm from her own pride and shame and thrill, foot tapping under the table while Randi stares and stares at her bare breasts and her legs. It didn't feel coerced to me because Vee was bursting to share her secret life and her pride in her own beauty with the one woman who makes her feel like a knockout, even though I know the secret underneath.
+
+And that ending! Vee asking Randi to take a Tuesday/Thursday night Anthro class with her just so she can have more of her (*"Just us,"* and the roughness in Randi's voice when she repeats it!), and then out on the sidewalk, *Vee* is the one who chases Randi's mouth when Randi starts to pull back from the kiss! *"Leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up. She noticed it, and decided it was what she wanted, and didn't bother about it again."* That right there is everything I love in a heroine: her desire is hers, she notices herself chasing a second kiss from her "best friend," decides she wants it, and doesn't even flinch before driving right back to Pace's house in the trees already aching for him. I am completely hooked. I need to see what Randi does with everything she just took home from that booth.
+
+GATE 35 — All the Time
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Watching Vee hand Randi the full uncropped pinup photo Pace took — after making Pace swear never to share it — and then lean in to chase a second kiss on the sidewalk had me completely breathless. The emotional weight of Randi's breath catching when Vee described how Pace looks at her, paired with Vee's overflowing joy in how Pace loves and tends to her, makes every beat between all three of them feel huge.

@@ -1,0 +1,18 @@
+*capture-dag-v2-rich · gate ch052 · gemini-4-argon · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a79198d30e3 · dated · 2026-10-27*
+
+REACTION
+
+Oh my god, I am screaming into my pillow over so many things in this chapter. First of all: Vee showing Randi the actual stain on the satin lining of her church coat?! And Randi staring at it with dark, liquid eyes and a hoarse *"Wow"* while Vee can literally hear her breathing across the booth! And then Randi drawing the whole Saturday morning breakfast out of her (*"How much could he see? ... Could he see you were ready?"*) while taking her hand across the table until Vee is so soaked she has to run downstairs to the bathroom stall, where— RIGHT at the peak of coming—it's *Randi's* face that shows up behind her eyes! *"Because that had been about Pace, obviously. All of it. About Pace."* Girl, you are lying to yourself so hard I'm dizzy! And when she comes back upstairs and Randi says *"It's a good thing you got relief"* and lets her panic for three full heartbeats before adding *"After driving out to see Pace"*... Randi 100% knew what she just went downstairs to do! And that little kiss on Randi's neck at the end where Randi flinches and covers it up with *"I'm ticklish, girl"*—my heart is in my throat for both of them.
+
+And wait—the story about Randi's mother and the lawn boy!! That started out like such a charming, sweet teenage memory (the boy going down on one knee in the grass, the merry-go-round, the teddy bear) and then turned into one of the coldest, most sadistic pieces of psychological cruelty I've ever read from a parent. Having the robin's-egg blue underwear washed and folded, keeping them for *days*, inviting the boy to Sunday dinner so he thinks he's welcome, and then setting them down next to Randi's plate in front of him: *"They're not mine. They're your color."* No wonder Randi is the way she is about control and masks and never letting anyone see where it hurts. Between her fraudster father and a mother who executes a hit like that over Sunday roast, my heart just broke all over again for her.
+
+Also, Dr. Marsh's lecture on *hau*—the spirit of the giver riding inside a gift and pulling back toward home—gave me actual chills when you think about what's circulating between these three: the green-and-gold silk scarf in Randi's hair tonight, Randi's matte-black stilettos, Pace's flannel shirt, and that cream cashmere blanket on Pace's bed that Vee thinks is hers! Everything they've given each other is inhabited. And notice what Vee *didn't* tell Randi at the end, feeling that little unweighable stone of relief under her breastbone: she kept back the moment she tasted herself on Pace's mouth. Because deep down, whether she admits it or not, tasting a woman and coming from it isn't just a funny thirty-second story about Pace anymore—not when she's coming in a bathroom stall to Randi's dark eyes and kissing Randi's neck under a streetlight. And tomorrow is Wednesday night dinner with Pace, Randi, Cassie, Meg, Kayla, and maybe Theo all at one table!!
+
+GATE 52 — Covering
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Between Randi's heartbreaking story about her mother and the robin's-egg blue underwear, Vee showing Randi the stained lining of her coat, and Vee coming in the restaurant bathroom with Randi's dark eyes behind her lids while telling herself it's "all about Pace," this chapter had me completely hooked. Tomorrow is the Wednesday group dinner where Pace and Randi have to "properly meet" in front of all of Vee's friends—I need the next chapter immediately.
