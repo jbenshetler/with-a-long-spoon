@@ -207,3 +207,7 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 - The title's trap and the pointing-game echo clocked on reader memory, unforced.
   *(Title-trap finding pertains to the former title "Forbidden Kiss"; renamed to "Missed
   a Spot" 2026-08-24 — see Title, top.)*
+
+## Palate-thread pass (author, 2026-10-30)
+
+- **`:59` "six weeks had not made it smaller" stands** — read as six weeks *apart*, not six weeks since she last watched him cook. (The 2026-08-19 count from {{Under the Rug}} predates {{Nothing Underneath}}'s midnight pancakes, which she watches the night before.) Being glad of his kitchen again the morning after is not overselling: {{Old Acquaintances}} `:41`–`:43` makes the kitchen table the thing she lost. Thinning went to {{Nothing Underneath}} `:119` instead.

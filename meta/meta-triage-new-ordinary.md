@@ -214,3 +214,4 @@ Design points, recorded so a later pass doesn't undo them:
 The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
 
 - **`:55` "That was the strange thing, the thing she had no frame for" cut;** Vee now voices it first — "I used to just *eat*," around the bite (moved from {{In His Hands}}, praised there 6/6). Both protected contrasts stand. `:57`: "as if she had just told him… He said nothing to it."
+- **`:47` watching clause cut** (walk of the watching-him-cook beats): "the place he went when he cooked that she'd learned to simply sit and watch" → "gone down into the work." `:51` owns the watching; `:45` already sets the habit; "gone down" keeps its echo of `:41`. No reviewer praise for the cut text.

@@ -120,3 +120,11 @@ whole-book pass.
   the replacement of the proof discussion with the prior Chicago presentation.
   Only flag compares old ledger chapter 25 with current chapter 23; no new
   factual conflict flagged. Limited per-edit check only.
+- **Per-edit check 2026-10-30, palate-thread pass:** gpt-5.6-sol built a new
+  Volume Two ledger (`ledger-vol2.md`) and checked *Above Him*, *In His Hands*,
+  *The New Ordinary*, *Under the Rug*, *Believe Me* and *Nothing Underneath*.
+  One flag (MEDIUM): *Under the Rug* `:95` "couldn't hear herself say
+  [*boyfriend*] to her mother" against *Cropped* `:35` ("I told them he was my
+  boyfriend… a question mark on it"); the line predates the pass. Awaiting
+  author ruling. *Nothing Underneath* was edited again after its check (cut
+  and smile beat, no fact change), so its report is stale by prose-sha.
