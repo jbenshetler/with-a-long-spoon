@@ -125,6 +125,6 @@ whole-book pass.
   *The New Ordinary*, *Under the Rug*, *Believe Me* and *Nothing Underneath*.
   One flag (MEDIUM): *Under the Rug* `:95` "couldn't hear herself say
   [*boyfriend*] to her mother" against *Cropped* `:35` ("I told them he was my
-  boyfriend… a question mark on it"); the line predates the pass. Awaiting
-  author ruling. *Nothing Underneath* was edited again after its check (cut
+  boyfriend… a question mark on it"); the line predates the pass. Author ruled
+  2026-10-30: stands (`meta-triage-under-the-rug.md`). *Nothing Underneath* was edited again after its check (cut
   and smile beat, no fact change), so its report is stale by prose-sha.

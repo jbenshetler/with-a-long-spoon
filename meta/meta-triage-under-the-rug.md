@@ -188,3 +188,7 @@ party as the pressure the chapter builds toward.
 The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
 
 - **`:45`** cut the remembered-bite clause ("how he gave each thing on the plate its own voice… the char"), the third component-listing in the book; billboard and palette are now one image. "He had ruined it for her" carries the cost.
+
+## Fact audit (author, 2026-10-30)
+
+- **`:95` "couldn't hear herself say it to her mother" stands** against {{Cropped}} `:35` ("I told them he was my boyfriend. I think I put a question mark on it."). Flagged MEDIUM by gpt-5.6-sol (`audits/fact-audit/gpt-5.6-sol/under-the-rug.md`). She said it once, as a question; now it won't come at all — "the word gone small and wrong" is that question mark. Not a contradiction; do not re-flag.
