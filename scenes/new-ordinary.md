@@ -52,9 +52,11 @@ She'd been drinking the wine he'd poured her, a Nebbiolo, he'd said, dark and fu
 
 Fifteen minutes and he drew it back out on the peel and cut it on the board and put a slice in front of her, and she ate it too hot and then stopped with her mouth full and her eyes up.
 
-She could taste all of it. That was the strange thing, the thing she had no frame for. Not one flavor but every flavor in it, separately, laid out for her to walk down one at a time. The yeast in the crust, faintly sour and alive. The bright acid of the tomato and beneath it a sweetness the long cooking had pulled up out of it. A late heat that arrived after the rest and sat on the back of her tongue. The onion still with a crunch to it and a clean sting. The mushroom gone soft and giving, holding the wine. It was nothing like the pizza she knew, the flat orange sameness of that, one taste pretending all on its own to be a meal. This came apart on her tongue into all its separate pieces and let her count them. It was the difference, she thought, between cotton candy and a bowl of cut strawberries.
+"I used to just *eat*," she said, around it.
 
-He was watching her when she looked up, the small private smile, as if her face had just told him something he'd wanted to know. She didn't ask what. She ate the rest of the slice down to the crust and held her plate out for another.
+She could taste all of it. Not one flavor but every flavor in it, separately, laid out for her to walk down one at a time. The yeast in the crust, faintly sour and alive. The bright acid of the tomato and beneath it a sweetness the long cooking had pulled up out of it. A late heat that arrived after the rest and sat on the back of her tongue. The onion still with a crunch to it and a clean sting. The mushroom gone soft and giving, holding the wine. It was nothing like the pizza she knew, the flat orange sameness of that, one taste pretending all on its own to be a meal. This came apart on her tongue into all its separate pieces and let her count them. It was the difference, she thought, between cotton candy and a bowl of cut strawberries.
+
+He was watching her when she looked up, the small private smile, as if she had just told him something he'd wanted to know. He said nothing to it. She ate the rest of the slice down to the crust and held her plate out for another.
 
 Later, with the plates done and the kitchen gone dark behind them, she knelt over the bag at last to put herself away into the drawer, the makeup and the creams, the few things that still traveled. At the bottom, folded into a square, was the shirt.
 

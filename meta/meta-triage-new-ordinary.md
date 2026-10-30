@@ -208,3 +208,9 @@ Design points, recorded so a later pass doesn't undo them:
 
 - `meta-condensed-new-ordinary.md` does not yet describe the hall strip
   sequence; the brief and the chapter have diverged. Worth a pass.
+
+## Palate-thread pass (author, 2026-10-30)
+
+The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
+
+- **`:55` "That was the strange thing, the thing she had no frame for" cut;** Vee now voices it first — "I used to just *eat*," around the bite (moved from {{In His Hands}}, praised there 6/6). Both protected contrasts stand. `:57`: "as if she had just told him… He said nothing to it."

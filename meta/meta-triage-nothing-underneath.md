@@ -399,3 +399,9 @@ the telegraphing charge; and **`going out of him`** — sonnet quoted the shorte
 **dropped the pre-existing "the title gives away the premise" complaint**, sol
 retracting it explicitly ("the title sharpened the anticipation rather than
 spoiling it").
+
+## Palate-thread pass (author, 2026-10-30)
+
+The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
+
+- **`:121`** cut "like nothing she could have named, only better" ("nothing out of a box or off a diner griddle… made and not poured" stays). **`:123`** "I feel like I haven't eaten anything real…" → "I missed this," she said. "You, doing that." — care, not palate; one capture reader read the old line as a weight alarm.

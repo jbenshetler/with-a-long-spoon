@@ -118,9 +118,9 @@ She took a chair and watched him work. He lit the burner, the blue flame catchin
 
 She sat with her chin in her hand and watched, mesmerized, as she always was by the sight of him bent to some exact thing and getting it right. This, more than almost anything, was what she'd missed over the break, a warm room and this man making her something with his full attention.
 
-In a few minutes there were pancakes in front of her, gold and steaming, a pat of butter going glassy on top, the maple syrup and the hot tea he'd made her set down beside. She cut into the stack and ate, and it tasted like nothing out of a box or off a diner griddle, like nothing she could have named, only better, made and not poured.
+In a few minutes there were pancakes in front of her, gold and steaming, a pat of butter going glassy on top, the maple syrup and the hot tea he'd made her set down beside. She cut into the stack and ate, and it tasted like nothing out of a box or off a diner griddle, made and not poured.
 
-"I feel like I haven't eaten anything real since the last time you cooked for me," she said.
+"I missed this," she said. "You, doing that."
 
 He came around the counter, and before she'd swallowed the bite in her mouth he went down on one knee beside her chair, bringing his face up under hers, and kissed her once on the forehead.
 

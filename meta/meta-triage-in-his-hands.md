@@ -128,3 +128,10 @@ re-litigate. Verdicts re-open on a text edit to the passage.*
   declarative. Never propose cutting it, and never accept a proposal to. The
   rationale is invisible from the page, so a reviewer who does not know about
   Randi will read it as a tic.
+
+## Palate-thread pass (author, 2026-10-30)
+
+The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
+
+- **Reversal of the 2026-08-10 left-standing ruling on `:81` "She had used to just eat."** The tasting run is cut: it pre-empted {{The New Ordinary}}'s discovery (this chapter falls a week earlier, against `meta-condensed-in-his-hands.md`'s own intent). The praised line moves there as Vee's spoken "I used to just *eat*." `:81` is now the spoon beat: he blows on each taste and corrects the dish off her face.
+- **`:77`** watching line recast: "He cooked with his head tipped a little toward the pan, listening, and she sat back with her wine and watched him wait on it."

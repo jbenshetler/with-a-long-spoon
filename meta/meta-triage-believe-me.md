@@ -320,3 +320,9 @@ fairness of the indictment ("I'm not complaining about one minute of it");
 Randi-shaped suspicion exactly as designed); the ending — "Vee" as not the
 word she'd come for, and "it was worse, and she did not go back in" (load-
 bearing for the January payoff in {{Nothing Underneath}}, First Weekend Back).
+
+## Palate-thread pass (author, 2026-10-30)
+
+The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
+
+- **`:35`** "you feed me things I didn't know food could be" → "you feed me." The food stays in the inventory of what her bravery costs; the palate claim (an echo of {{Rock}}) goes.

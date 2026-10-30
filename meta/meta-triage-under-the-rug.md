@@ -182,3 +182,9 @@ readings ("Both readings sit on the page and I can't pick one. That's the book
 working"), 5.6-sol trusted it; the real-AND-instrumental knot dramatized. Heat 3 /
 Romance 2 across the board. Fable-5 and Opus unprompted named the offstage third
 party as the pressure the chapter builds toward.
+
+## Palate-thread pass (author, 2026-10-30)
+
+The book was repeating "her palate woke up" in near-identical words across Book Two. The waking now belongs to {{All the Time}} (told) and {{The New Ordinary}} (the discovery); the other chapters keep their food and give it a different job.
+
+- **`:45`** cut the remembered-bite clause ("how he gave each thing on the plate its own voice… the char"), the third component-listing in the book; billboard and palette are now one image. "He had ruined it for her" carries the cost.
