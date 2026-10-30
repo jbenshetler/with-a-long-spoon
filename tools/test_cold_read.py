@@ -276,10 +276,16 @@ class DonorMemoryTests(unittest.TestCase):
         )
         self.assertFalse(self.config.can_mint_checkpoint("qwen3.8-max-0902"))
         self.assertFalse(self.config.can_mint_checkpoint("qwen/qwen3.8-max-0902"))
-        self.assertRegex(
-            self.grounded.memory_line("qwen3.8-max-0902", 59, 50),
-            r"ensemble core ck-ch050@[0-9a-f]{12} \+ raw ch051\.\.ch058",
-        )
+        # The manifest lives in the sandbox, not the repo: the live ensemble
+        # tree is rebuilt as the book is renumbered.
+        with tempfile.TemporaryDirectory() as td:
+            manifest = Path(td) / "ck-ch050.json"
+            manifest.write_text(json.dumps({"ensemble_sha256": "ab" * 32}), encoding="utf-8")
+            with patch.object(self.config, "checkpoint_manifest_path", return_value=manifest):
+                self.assertRegex(
+                    self.grounded.memory_line("qwen3.8-max-0902", 59, 50),
+                    r"ensemble core ck-ch050@[0-9a-f]{12} \+ raw ch051\.\.ch058",
+                )
 
     def test_donor_resume_requires_current_memory_header(self):
         with tempfile.TemporaryDirectory() as td:
@@ -346,6 +352,10 @@ class DonorMemoryTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as td, \
                 healthy_seam(self.grounded.checkpoint_bundle):
             packet_dir = Path(td)
+            # The frozen seed lives in the sandbox, not the repo: the live
+            # checkpoint tree is reminted as the book is renumbered.
+            seed = packet_dir / "ck-ch050.md"
+            seed.write_text("# seed\n\n---\n\nseed body\n", encoding="utf-8")
             fingerprints = {
                 "source_sha256": "s",
                 "bundle_sha256": "b",
@@ -353,6 +363,8 @@ class DonorMemoryTests(unittest.TestCase):
                 "extractor_sha256": "e",
             }
             with patch.object(
+                self.grounded, "checkpoint_path", return_value=seed,
+            ), patch.object(
                 self.grounded.checkpoint_bundle,
                 "build_reader_bundle",
                 return_value="cross-volume bundle",

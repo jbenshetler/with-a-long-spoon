@@ -119,19 +119,24 @@ retired = [
 # checkpoint through the PRIOR volume's last drafted chapter, never decade to
 # decade; the first seeded boundary's slug must equal that chapter or
 # checkpoint_plan fails closed. A boundary with no entry fails closed too
-# ("no explicit checkpoint seed policy") — add ch070 here, same slug, when
-# Volume 2 reads past chapter 70 are wanted.
+# ("no explicit checkpoint seed policy") — add the next boundary here when
+# reads past it are wanted (Volume Four, from ch072, seeds from Volume Three's
+# last drafted chapter).
 #
 # Cut over 2026-09-26 from `not-enough` (ch051) to `nothing-underneath` (now
 # ch053). Every shipped ck-ch060 (seed-boundary 50) is therefore stale until
 # reminted; the remints and the core-ensemble rebuild on claude-fable-5-1 are
 # deferred by the author.
 [checkpoint_seeds]
-# author-approved 2026-10-12: volume seams are Rock (ch027, end of Volume One) and
-# Nothing Underneath (ch055, end of Volume Two). Boundary 27 is a raw Volume One pass.
+# author-approved 2026-10-12, renumbered 2026-10-30 after the chapter merges:
+# volume seams are Rock (ch022, end of Volume One) and Nothing Underneath (ch047,
+# end of Volume Two). Boundary 22 is a raw Volume One pass; 30/40/47 are Volume
+# Two and seed from Rock; 50/60/70 are Volume Three and seed from Nothing
+# Underneath.
 "30" = "rock"
 "40" = "rock"
-"55" = "rock"
+"47" = "rock"
+"50" = "nothing-underneath"
 "60" = "nothing-underneath"
 "70" = "nothing-underneath"
 
