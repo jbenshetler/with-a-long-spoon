@@ -129,6 +129,8 @@ retired = [
 [checkpoint_seeds]
 # author-approved 2026-10-12: volume seams are Rock (ch027, end of Volume One) and
 # Nothing Underneath (ch055, end of Volume Two). Boundary 27 is a raw Volume One pass.
+"30" = "rock"
+"40" = "rock"
 "55" = "rock"
 "60" = "nothing-underneath"
 "70" = "nothing-underneath"
