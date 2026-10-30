@@ -14,25 +14,39 @@ They hadn't made the kitchen. They hadn't made the hall. Their coats came off th
 
 He'd cooked after, the way he near always did. Some nights it was a production, four pans going and a smell building she had no names for, and tonight it had been plain: salmon laid in a hot pan and turned once, a sauce gone pale green with dill, a salad with the tomatoes still warm off the sill and a mustard thing he'd whisked up in a glass that she'd wanted to drink straight. A cold white wine he said came from Greece, a little stony.
 
-She'd sat at the little table with it while he cooked, and he split himself between her and the stove, turning to flip the fish or stir the sauce or shake something in, and coming back to her each time as if she'd only paused. So she talked: about the week, the worst of it, and then about Randi.
+She'd sat at the little table at the end of the room in one of his shirts with her bare legs tucked up on the rung of the chair, the wine cold in her hand and her body still loose and humming from the floor inside the door. Across the kitchen he worked along the L of the counter, between the sink on the right and the stove on the left, splitting himself between the dinner and her — turning to flip the fish or stir the sauce or shake something in, and whenever a pan could be left to itself for a minute, crossing the floor to her for no reason except to put a hand in her hair or his mouth to her temple before he went back. So she talked: about the week, the worst of it, and then, wanting to tell him about Randi, she started at the beginning.
 
-"You remember Randi? My friend from stats. You met her the froyo day." He said he did, and turned to the pan. "I walked right into her outside the dining hall, right after Labor Day. Sometimes I'm such a klutz." He looked back at her over his shoulder, and she made a face at him. "And the next morning she turned up in stats and sat down with us. So now we sit together."
+"You remember Randi? From the froyo day."
 
-"Cassie doesn't like her. Randi's in a sorority, and Cassie's got a thing about sororities." She shrugged it off. "But she's so much fun. She dresses so smart, and she's got the funniest stories about guys. A girl that pretty, and she can't get what she wants." She shook her head at it. "And she's got this little accent, you'd never hear it unless you were listening. Like she lived in Europe when she was little."
+He glanced over his shoulder from the counter. "A bit."
 
-"So we go to brunch, and we talk about boys." Her face went hot before she could stop it, and she laughed at herself. "Yes. Your name might come up." She took a sip of the wine. "It's fun."
+"She's a new friend." She tipped her glass at him. "I walked right into her outside the dining hall, right after Labor Day." He raised one brow at her from across the room, and she made a face at him. "Yes, I know. Such a klutz. And the next morning she turned up in stats and sat right down with us, so now we sit together."
 
-He turned the fish, and when he turned back he was smiling at her, a rare one, wide open, and she liked it: a man glad she had a friend like that, somebody that good and that interesting, who'd picked her.
+He left the counter to bring the bowl of tomatoes over, and stayed a moment behind her chair after he set it down, his hand settling in the heavy loose fall of her hair, his thumb brushing the bare hollow behind her ear. She tipped her head into it without losing the thread.
 
-"And she does this European goodbye."
+"Cassie doesn't like her. Randi's in a sorority, and Cassie's got a whole thing about sororities." She shrugged a shoulder under his palm. "But she's so much fun. She dresses so smart, and she's got the funniest stories about guys. A girl who looks like that, and she still can't get what she wants." She shook her head at it. "And she's got this little accent you'd never catch unless you were listening for it. Like she lived in Europe when she was little."
 
-He did it for her, the spatula still in his hand: a kiss to the air beside one cheek and then the other, eyebrows up, very grand.
+He went back to the stove to turn the fish, and she took a sip of the Greek wine and watched his shoulders move under his shirt.
 
-She laughed. "No. On the mouth. And then she comes back and does it again." Her tongue had gone to her lower lip while she said it, and she took it back. "It's a French thing, I guess. The kiss-kiss."
+"Anyway, we go to brunch on the weekends and talk about boys." Heat came up her neck before she could head it off, and she laughed at herself into the glass. "Yes. Your name might come up."
 
-At *French* the smile went over into a grin, and the word caught up with her, and she laughed again. "Not *that* kind of French."
+He looked back at her from the pan, smiling — a rare one, wide open — and she liked it: a man glad she had a friend like that, somebody that sharp and that interesting, who'd picked her.
 
-He set the plate down in front of her. "I hope you like it."
+"Only good things, I hope."
+
+"I'm not telling you a word." She grinned at him over the rim. "And when we leave, she does this European goodbye."
+
+He turned from the stove and did it for her, the spatula still in his hand: a kiss to the air beside one cheek and then the other, eyebrows up, very grand.
+
+She laughed. "No. On the mouth. And then she comes back and does it a second time." Her tongue went to her lower lip before she caught it and took it back. "It's a French thing, I guess. The kiss-kiss."
+
+At *French* his smile went over into a slow grin, and when the word caught up with her ear she laughed at him. "Don't be silly. Not *that* kind of French."
+
+He set the spatula down by the stove and crossed the kitchen to her with nothing in his hands at all, and leaned down over her chair and kissed her on the mouth — slow, lingering, his hand at the nape of her neck until her breath caught against his lips, and when he straightened up his eyes were dark and pleased on hers.
+
+"Behave," she said, a little breathless, with no weight in it at all.
+
+He went back for the plates, and a minute later he set hers down in front of her. "I hope you like it."
 
 She did. She'd eaten all of it. She ate like a field hand at his table now, she who'd spent years pushing a plate away half done, and her clothes had gone *looser* for it. Not all of them. Her bras, the band riding higher than it used to sit. The few good pairs of underwear cut to fit her and not to a guess. Everything else she owned had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would. So she swam in most of what she owned and let the bras keep the secret, that she'd been losing weight since she met him, her body quietly burning down whole weekends of him, and she'd never asked it to.
 
