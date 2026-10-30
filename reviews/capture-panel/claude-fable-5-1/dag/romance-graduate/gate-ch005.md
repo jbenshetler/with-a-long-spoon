@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch005 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha acce4835cff0 · dated · 2026-10-30*
+
+REACTION
+
+Okay. I knew what was happening the second Randi's thumbs started going on her phone and I still sat there with my stomach up under my ribs for the whole scene, which is a trick — I have read the setup chapter a thousand times and I've never once read one where I was on the *inside* of the con and the girl getting conned was the one I liked best. "Some boy, Vee thought, amused." Girl. GIRL. And then Cassie's pencil stops and Cassie is *watching Randi text*, and I actually said "oh no" out loud to my cat, because Cassie sees it. Cassie saw it last chapter — "Goodbye, Vee" — and I thought that was the book being spooky and it wasn't, it was a girl who's in love with her roommate watching the good thing get taken away in real time and not having the words. Cassie is going to wreck me. The great-aunt line, Cassie naming the exact look that slides off her every day of her life "without a flicker" — that's the sentence that hurt, and it was a throwaway.
+
+And Randi. Randi gave him her name as one bare word. After she did the whole Yes-Like-The-Adjective number on Cassie last chapter, she sits there and says "Randi" flat and waits — and Vee *borrows the bit*, does Randi's exact little swerve at Pace, and it lands, and Pace's mouth goes warm at the corner, and Randi's hand goes to the coffee cup. The cup that comes up to her mouth twice and no sip happens. Vee reads it as boredom. I read it as the woman who begged on a bench nine days ago watching her boyfriend give the look she's been living on to a redhead with freckles, in daylight, and finding out — surprise — that she didn't actually know what she'd ordered. The jacket told me she's the one it gets real for. I believe it now. I want her POV of that cup so badly I could scream.
+
+The math. I braced. I'm not going to pretend I didn't skim the Bessel's thing a little. But the Euler bit — two things that won't give on their own, put them at right angles and they turn into one plain thing you already know what to do with — I mean, come on. The chapter's called *Substitution*. It's not subtle but it isn't explaining itself either, it just sits there in the margin, and what actually got me wasn't the metaphor, it was *he gave her back the pencil*. That's the whole man. That's what he did to Randi on the bench — he doesn't finish you, he hands you the pencil at the exact line where you can finish yourself — and watching him do the chaste daylight version of it to a girl who's never been looked at and hearing her say "Yes. Please. Thank you." before she knows what she's agreeing to — reader, I was not okay. "She hadn't known she was allowed." I highlighted that. She's going to hear *may I* as manners for about two more chapters.
+
+Heat-wise, nothing happened and I was still warm the whole time, which I'll give it. The forearms. "He wants to see you naked" from Randi, grinning, with me knowing exactly what the bench looks like with the top off. Vee overfilling her cup and her mother's voice just — not being there. That's the apple. He fed Randi the apple thin because she'd only eat it thin; Vee builds the whole leaning tower and doesn't care that it'll drip. The book's going to make me cry about dessert and I'm going to let it.
+
+What I'm clocking, because I always clock it: this is two coffee-shop chapters in a row. Chapter 4 was Randi charming her at the high table, chapter 5 is Pace charming her at the low one, and both of them end with Vee walking home glowing. I don't resent either one — the dramatic irony is carrying so much that nothing feels quiet from where I'm sitting — but I'm aware the heat's been coasting since the pointing game, and if chapter 6 is a third outing where someone is nice to Vee in a public place I'll start looking for the dialogue. I don't think it will be. "Your tart's holding up" is a man who's about to call. And I need to know whether Randi was texting him *come now* or whether Pace just walked in and she had to watch.
+
+1 a.m. text: "they're running a play on her and it's the nicest anyone's been to her in years and I know what the table is and I feel sick and I cannot stop."
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Bessel's correction. It accounts for the fact that you've estimated the mean from the data, which uses up a degree of freedom." — a half-page of stats exposition in my second coffee-shop chapter running, and my thumb twitched.
+WHY: A chaste chapter that kept me hot anyway because I know what's under the table and she doesn't, and because Randi's un-sipped coffee and Cassie's stopped pencil told me the real story is already going wrong for the people who planned it. Second quiet chapter in a row, duly noted; it earned it, but the next one has to touch her.

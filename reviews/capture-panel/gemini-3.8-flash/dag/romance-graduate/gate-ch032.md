@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 205ee797b34a · dated · 2026-10-30*
 
 REACTION
 
-Oh, my god. He gave her the top drawer.
+Oh, my God. My chest actually hurts. I have a physical ache in my ribs from reading this.
 
-He didn’t leave a cute little sticky note, he didn’t make a speech about "taking the next step," he just took his entire hyper-regimented, hyper-ordered bachelor life, crammed all of his own things into the bottom drawer like puzzle pieces, and gave her the one your hand reaches for first. With her bobby pins in a neat little dish. I swear to god, my chest physically ached reading that. That is so painfully, perfectly *him*. A boy who was shoved into a hallway with long division, a boy who learned to build invisible walls and control every square inch of his environment, giving up his physical territory to make a home for the girl he loves. And Vee—standing there in his oversized robe, realizing she isn't a messy imposition, that he didn't wipe her away, he just built a permanent pocket for her. It is so achingly tender.
+This chapter is the absolute, most diabolical kind of torture, because on the surface it is pure romance heaven. It is the dream. The way he lifts her off the floor the second the door opens, the unhurried way he loves her body, cooking salmon with dill and warm tomatoes off the sill, the Greek wine, the quiet reverence. And then—the drawer. *The drawer.* In every romance novel ever written, getting the top drawer in a brooding, hyper-controlled man’s bathroom is the ultimate declaration of domestic devotion. He folded his own razor and combs down into a crowded lower drawer just so her chaotic bottles and green polka-dot scrunchies would have the easy reach, lined up and waiting for her. It is breathtakingly tender. If I didn’t know the truth, I would be sobbing happy tears into my pillow.
 
-And that’s what makes this entire book feel like a high-wire act over an active volcano. I am in agony. Pure emotional agony!
+Instead, I am sitting here with my stomach in a cold knot, wanting to scream at my screen.
 
-Because while I am swooning over salmon with dill sauce, warm windowsill tomatoes, and him spinning her around the minute she walks through the door, my stomach is in absolute knots. She’s lying there in the dark, whispering *Peter* to his sleeping shoulder, finally letting herself admit that she loves him. She is completely, utterly sunk. She feels treasured, safe, fed, seen. She’s losing weight just from the sheer aerobic joy of being thoroughly loved by a man who takes all night to touch her. It is the exact romance every woman wants.
+Because while he is clearing that drawer for her, he is playing the most chilling game of poker in contemporary fiction. When Vee casually talks about Randi at the counter—*"You remember Randi? From the froyo day... She does this funny goodbye kiss... kiss-kiss on the mouth"*—I couldn't breathe. Vee is laughing, chattering in his oversized shirt with her feet on the chair rung, completely innocent, describing the French double-kiss to the man who *taught* Randi that kiss. And Pace just stands there with a spatula in his hand, mocking air-kisses, smiling, perfectly composed. Not a single slip. Not a flinch. The sheer, terrifying sociopathy of his self-control! He listens to her talk about her "best friend" knowing that Randi is riding him on Friday nights using Vee's tears as lube, and he doesn't drop the spatula. He kisses her hair. He feeds her fish.
 
-And it is built on a fault line that is going to swallow her whole.
+And Vee is falling so deeply, terrifyingly in love. She admits it to herself in the dark, watching his chest rise and fall. *"He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying."* That sentence broke me. It’s the tragic trap of the romance reader and the romantic woman: we accept the silence because the gestures are so immaculate. He gives her everything except the truth.
 
-I keep looking at the dates. Friday, November 6th. Then section iii skips to "the next Friday"—November 13th? What happened to the week in between? Did Randi take another bite out of her? What is Randi doing right now while Pace is clearing out his top drawer for Vee? Pace is acting like a man who is softly, irrevocably rearranging his entire life around one woman, but he *still hasn't blown up the arrangement with Randi*. Or has he? Has Randi stepped back, or is she just letting the line play out so she can yank the hook harder?
+The drop from the heights of this tenderness is going to destroy her. When she finds out that the sanctuary of this house, this bathroom drawer, this kitchen, is a stage set shared with the girl who kisses her on the mouth at brunch, it won't just break her heart—it's going to wipe out her sanity. I am so hooked it's sickening. Turn the page right now.
 
-The contrast between the sheer filthy psychological electricity of Chapter 34—Randi practically getting Vee off with her voice at brunch and kissing the taste of sweet glaze onto her mouth—and this chapter's domestic, heart-melting devotion is dizzying. It’s like watching someone decorate a nursery inside a burning building. Pace’s silence—the exact thing that feels so profound and poetic to her when it comes to the top drawer—is the very weapon that is going to destroy her when she finds out what he’s been keeping quiet about.
+***
 
-I don't want to stop. I need to be there when the other shoe drops.
-
-GATE 35 — Above Him
+GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The top drawer beat was an absolute masterclass in character-driven romance—quiet, devastatingly sweet, and terrifying because of the secrets looming over them. The emotional stakes are through the roof.
+WHY: The dramatic irony is so agonizing it made my throat tight—watching her fall completely in love over a cleared bathroom drawer while innocently telling him about Randi's mouth-kisses is psychological torture of the highest order.
