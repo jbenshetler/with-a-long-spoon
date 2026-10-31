@@ -65,6 +65,13 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   neutral ending keeps the body-quietly-burning observation without Vee endorsing
   the loss.
 
+  **Superseded wording — author revision, 2026-10-30:** the bras' “secret” and
+  “she'd never asked it to” were reopened and replaced, along with “burning down
+  whole weekends of him.” The loss remains incidental, neither reward nor omen:
+  eating to fullness on his cooking, a physically active relationship, and a
+  passing fit observation. Piccata versus cafeteria pizza and the last tomato
+  return the passage to supper. The curvy-not-heavy and budget/fit rules stand.
+
 ## Left standing — do not re-litigate
 
 - **"He felt it in everything he did and said it in nothing… not go hungry for the
@@ -279,3 +286,39 @@ this pass's own edits (`warm` :29) and was re-acked.
 
 None new. The chapter's only reader-flagged friction (the surgeon simile) was
 resolved by replacement rather than left standing.
+
+# Triage — Above Him (capture panel, 2026-10-30)
+
+Capture readers (gate ch032, both personas, most models) read Pace at supper as
+structurally cruel: a composed man smiling at Vee's innocence and kissing her to
+close the subject.
+
+## Applied
+
+- **The supper kiss reworked (author workshop, 2026-10-30).** After his grin,
+  Vee sets her wine down and crosses to him at the stove with *"Don't be silly.
+  Not that kind of French."* She kisses him, her hand goes down the front of him,
+  and she finds him hard — an involuntary response tied to the story she just
+  told. *"Umm, yeah,"* is **hers**. His free hand settles over her breast. Her
+  line: *"I'll pretend it was that kind of French. After you feed me."* Cut:
+  *"I'll give you an hour to stop that. But you need to feed me first. I've got
+  to keep up my strength."* (praise check: no verbatim praise; one capture
+  reader quoted it inside dread). Rationale: his composure was the cruelty
+  signal; a body that gives him away exposes him instead, and Vee holds the
+  moment. Her *pretending* is Vee hiding from herself something she likes; she
+  knows two girls kissing excites a lot of men. It plants {{Boyfriend}}'s *"a
+  man who'd heard two girls"* — she doesn't mind him thinking this way when she
+  brought the idea.
+
+## Left standing — do not re-litigate
+
+- **Pace says nothing in the beat** — only *"He laughed."* Anything he says
+  either claims the idea or pushes it; his answer is in actions (the plate, *"I
+  hope you like it,"* the couch after). Rejected candidates: *"Tell me all about
+  it later"* (asks for Randi), *"Two minutes,"* *"You brought it up,"* *"Every
+  man alive"* (spends {{Boyfriend}}'s generalizing move).
+
+## Open
+
+- Reread `boyfriend.md:75` (*"a man who'd heard two girls and wanted the
+  rest"*) — it now has a kitchen referent; decide whether it lands as recall.

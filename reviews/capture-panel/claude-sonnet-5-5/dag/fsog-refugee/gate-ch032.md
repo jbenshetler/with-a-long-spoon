@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 205ee797b34a · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7764083c7359 · dated · 2026-10-30*
 
 REACTION
 
-This chapter is a breather and a knife at once. I got Pace and Vee alone again, and it's tender in the way I came for. The door swinging open and her feet swinging off the ground. Him never going straight for his own finish. The salmon, the warm tomatoes. Then the drawers. I actually put a hand to my chest at the drawers. He folded his whole ordered self into one drawer and gave her the easy one, with no note and no speech. That's the care I read for, and he does it without making her ask. She loves him, and I love that she's decided she can live inside the everything-he-did without the saying. I also know the saying is the very thing the jacket promises he won't give. It hurts to watch her be at peace with it.
+Ugh, I'm so torn. After ch 31 I wanted Randi's interior and I got none of it. I got Vee and Pace, which is lovely, but it's almost a recap chapter. Brunch is a week gone and the chapter doesn't touch it.
 
-But the kitchen scene made my stomach drop. Vee is cheerfully handing Pace the Randi material over the stove. The kiss-kiss, "on the mouth," the stories about the boys, "your name might come up." And Pace just grins and kisses her. He's laughing along while Randi's lover hears about Randi's mouth. And Vee has no idea she's narrating to the one man who already knows. I'm a step ahead and it's uncomfortable in a delicious way.
+What I love is that this is the domestic tenderness I came for. The door swinging open and the spin. He never goes straight at his own finish, and it always comes around to her first. The salmon, the warm tomatoes, "I hope you like it." And the drawer. Oh, the drawer. He didn't say it didn't matter, he made her a place, and he folded his whole ordered self into the bottom one so she'd have the top. That is exactly the tenderness-and-control-in-one-man thing I read for. It made my chest hurt a little. No note, never a note, and that's the whole thing about him.
 
-The part I'm mad about is that Vee's chapter 31 humiliation (the bathroom, the stopped hand, the "sticky fingers?") is not touched. It's like Vee has it filed away. Randi's still holding all the keys. And the sweetness on Vee's lip is from a pastry she never touched. Randi's long gone from the page.
+She loves him and he hasn't said it. She whispers "Peter" to his sleeping back, and I want to climb into the book.
 
-I miss Randi. It's been a while since she and Pace shared a room. I want them together, and I want her interior at last.
+But now the dramatic irony is working on me. She sits in his kitchen telling him about Randi's goodbye kiss, and he mimes the French kiss with a grin, and she doesn't know he's grinning because he knows. And "He turned from the stove" at the very name. She told him about the kiss, he's amused, and she laughs. It's uncomfortable and I love it. I also noticed that she's telling Pace what she told Randi, and Randi is telling Pace what Vee told her. Vee is the only one in the loop who isn't in the loop.
 
-Heat was a simmer here, mostly remembered. Romance was strong.
+Smaller things: the chapter is tidy, with some stray repetition, but it doesn't bother me much. Her weight loss worries me a little. I want Cassie. And I still want Randi and Pace in a room. It's been since ch 25, and the gap is loud now.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 7
+NEXT: 7
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The drawers are exactly the tenderness-without-words I read for, and the kitchen scene, with Vee telling Pace about Randi's kiss, made my dread spike. I'm hungry for Randi and Pace in a room, and for the day someone says the truth out loud.
+WHY: The drawer is the best beat in ages, and the kitchen gossip lands because the reader knows what Vee doesn't. But Randi's interior is still withheld and the plot didn't move, so I'm happily waiting rather than desperate.

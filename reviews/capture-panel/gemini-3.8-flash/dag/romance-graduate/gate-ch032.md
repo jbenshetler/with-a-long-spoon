@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 205ee797b34a · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7764083c7359 · dated · 2026-10-30*
 
 REACTION
 
-Oh, my God. My chest actually hurts. I have a physical ache in my ribs from reading this.
+I am sick to my stomach. Literally sick.
 
-This chapter is the absolute, most diabolical kind of torture, because on the surface it is pure romance heaven. It is the dream. The way he lifts her off the floor the second the door opens, the unhurried way he loves her body, cooking salmon with dill and warm tomatoes off the sill, the Greek wine, the quiet reverence. And then—the drawer. *The drawer.* In every romance novel ever written, getting the top drawer in a brooding, hyper-controlled man’s bathroom is the ultimate declaration of domestic devotion. He folded his own razor and combs down into a crowded lower drawer just so her chaotic bottles and green polka-dot scrunchies would have the easy reach, lined up and waiting for her. It is breathtakingly tender. If I didn’t know the truth, I would be sobbing happy tears into my pillow.
+The horror of this chapter is completely suffocating because on the surface, it is the sweetest, softest, most romantic romance-novel fantasy imaginable. A man who cooks salmon with tomatoes warm from the sill! A man who clears out his *own* top drawer—cramming all his meticulous, bachelor-ordered grooming supplies into the bottom drawer just so she has the easy drawer, the first one your hand goes to, lined with a little dish for her bobby pins! He gives her a home. He gives her room to be disordered and loud and hungry. And Vee standing there, whispering *"Peter"* into his sleeping shoulder, realizing she loves him, thinking that his silence is just his poetic way of loving her without needing words... God, it broke my heart into pieces.
 
-Instead, I am sitting here with my stomach in a cold knot, wanting to scream at my screen.
+Because sitting right in the middle of this domestic paradise is the absolute monster under the bed.
 
-Because while he is clearing that drawer for her, he is playing the most chilling game of poker in contemporary fiction. When Vee casually talks about Randi at the counter—*"You remember Randi? From the froyo day... She does this funny goodbye kiss... kiss-kiss on the mouth"*—I couldn't breathe. Vee is laughing, chattering in his oversized shirt with her feet on the chair rung, completely innocent, describing the French double-kiss to the man who *taught* Randi that kiss. And Pace just stands there with a spatula in his hand, mocking air-kisses, smiling, perfectly composed. Not a single slip. Not a flinch. The sheer, terrifying sociopathy of his self-control! He listens to her talk about her "best friend" knowing that Randi is riding him on Friday nights using Vee's tears as lube, and he doesn't drop the spatula. He kisses her hair. He feeds her fish.
+Vee sitting at his kitchen counter in his shirt, innocently sipping Greek wine and literally *feeding* him the Randi updates. *"You remember Randi? From the froyo day... She does this funny goodbye kiss... on the mouth... It's French, I guess."*
 
-And Vee is falling so deeply, terrifyingly in love. She admits it to herself in the dark, watching his chest rise and fall. *"He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying."* That sentence broke me. It’s the tragic trap of the romance reader and the romantic woman: we accept the silence because the gestures are so immaculate. He gives her everything except the truth.
+And Pace. That ice-cold, mathematical sociopath. He just stands there, turning the fish, miming European cheek-kisses with a spatula, letting her babble on about how Randi dresses so beautifully and can't seem to find the right boy. He doesn't flinch. He doesn't drop the pan. His pulse probably doesn't even spike. He gets hard right there against the stove, listening to the girl he’s secretly sharing with his mistress talk about said mistress kissing her on the mouth. He takes her on the couch an hour later with all of it humming in his blood.
 
-The drop from the heights of this tenderness is going to destroy her. When she finds out that the sanctuary of this house, this bathroom drawer, this kitchen, is a stage set shared with the girl who kisses her on the mouth at brunch, it won't just break her heart—it's going to wipe out her sanity. I am so hooked it's sickening. Turn the page right now.
+And the dramatic irony is so sharp it cuts: Vee tells him, *"Cassie doesn't like sororities on principle. Even though Randi goes out of her way to invite Cassie."* Randi isn't inviting Cassie because she's being sweet, Vee! She’s trying to manage Cassie because Cassie is the only person in your orbit who isn't blinded by glamour and orgasms!
 
-***
+The top drawer is what destroys me. Giving a girl a drawer in romance is sacred shorthand for *you belong here, you’re staying.* But Pace is doing it while holding the detonator to her entire life behind his back. When the truth comes out—and it has to, the structure can't hold this much tension without cracking—she isn't just going to lose a lover. She is going to realize that the sanctuary, the green scrunchies, the top drawer, the salmon, the *French kiss* she laughed about over wine, were all part of a grotesque, coordinated theater. I was holding my breath through the whole bathroom scene. This book is a slow-motion car crash in the most gorgeous, devastating way.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dramatic irony is so agonizing it made my throat tight—watching her fall completely in love over a cleared bathroom drawer while innocently telling him about Randi's mouth-kisses is psychological torture of the highest order.
+WHY: The gut-wrenching dramatic irony of Vee chatting about Randi's mouth-kisses while Pace calmly turns the salmon, followed by him giving her his top bathroom drawer, was pure, agonizing brilliance. The tenderness feels completely genuine and entirely poisoned at the same time. I need the fallout immediately.

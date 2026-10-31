@@ -46,23 +46,29 @@ His smile opened at that, and she sat there smiling back until he had to turn to
 
 She took another sip. "And she's got this little accent. You hardly hear it. She must have lived in Europe when she was little. Oh, and she does this funny goodbye kiss she must have picked up there."
 
-He turned with the spatula still in his hand and kissed the air beside one cheek, then the other, eyebrows up, very grand.
+He turned from the stove, spatula still in hand, and mimed the two cheek kisses across the kitchen at her, eyebrows up, very grand.
 
 "No, on the mouth." She laughed. "And then she comes back and does it again." Her tongue brushed her lower lip. "This kiss-kiss. It's French, I guess."
 
 His grin spread.
 
-"Don't be silly. Not *that* kind of French."
+She set her wine down and went to him at the stove. "Don't be silly. Not *that* kind of French."
 
-He put the spatula down and walked over to her. She tipped her face up, and his hand went into her hair as he kissed her. She caught his shirt and held him there, and after a while his other hand settled over her breast through the shirt.
+She kissed him, and he kissed her back with the spatula held out of the way. She caught his shirt and held him there, then let her hand go lower, down the front of him, and found him hard.
 
-"I'll give you an hour to stop that. But you need to feed me first. I've got to keep up my strength."
+"Umm, yeah," she said against his mouth.
+
+His free hand came up and settled over her breast through the shirt.
+
+"I'll pretend it was that kind of French. After you feed me."
 
 He laughed. Behind him the pan hissed, and she let him go.
 
 When he brought her plate he set it down with a hand still on her shoulder. "I hope you like it."
 
-She did. She'd eaten all of it. She ate like a field hand at his table now, she who'd spent years pushing a plate away half done, and her clothes had gone *looser* for it. Not all of them. Her bras, the band riding higher than it used to sit. The few good pairs of underwear cut to fit her and not to a guess. Everything else she owned had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would. So she swam in most of what she owned and let the bras keep the secret, that she'd been losing weight since she met him, her body quietly burning down whole weekends of him, and she'd never asked it to.
+She did. She'd eaten all of it. She ate like a field hand at his table now. Chicken piccata instead of cafeteria pizza, salmon with the tomatoes still warm from the sill, and she kept eating until she'd had enough. By the time they got to supper she'd worked up an appetite.
+
+Her bras had gone looser, the bands riding higher than they used to sit. The few good pairs of underwear, too. Those were the things that fitted her; everything else had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would. She'd lost some weight. There was still a tomato on her plate. She ate that too.
 
 After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them. There could be an *after*. A man might come back to her an hour later like she was something he'd been turning over the whole time the salmon cooked.
 

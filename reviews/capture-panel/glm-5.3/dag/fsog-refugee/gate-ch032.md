@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch032 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 205ee797b34a · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7764083c7359 · dated · 2026-10-30*
 
-REACTION — The drawer. The *drawer*. I had to put the book down for a minute after the drawer, and I'm the person who reads through earthquakes. He didn't say "it doesn't matter" — he folded his entire ordered self, the comb, the ranked blades, everything I know is his whole personality in objects, down into one cramped drawer, and gave her the top one, the one your hand goes to first, with *room to spare, room for more of her*. "Prepared and waiting." I have spent two books watching this man say everything in deeds and nothing in words, and this is the deed of deeds, and the fact that there's no note — "there was never a note" — is somehow the most romantic sentence in the whole book. That's the thing I left the genre to find, right there. Control that makes room.
+REACTION — I put the book down after the drawer and just sat there for a minute.
 
-And then she names it. She loves him. Lying against his sleeping shoulder, she finally lets the word be true in her own chest where she can't take it back — and I love that she gave it to *herself* first, that's exactly what I've been waiting for her to do with the Randi word, and now I've seen the grammar the book uses when Vee claims something. But oh, honey, the dramatic irony is being laid on with a trowel now and it's making me anxious in a way I don't enjoy: she sat at his table and told him *everything* about Randi. The brunches, the kiss-kiss, "on the mouth, and then she comes back and does it again." She thinks she's sharing girl talk with her boyfriend; she's performing the whole surveillance operation *directly into the ear of the man running it*. The worst part is he kissed her mid-conversation, easy and warm, and I can't tell how much of his grin was Pace the lover and how much was Pace keeping the operation fed. I hate that I can't tell. The book is doing that to me on purpose.
+Because here's the thing — I spent that whole bathroom scene with my stomach in my throat. Her whole kit across his clean counter, his eyes moving down to it in the mirror, holding there, and her waiting. I know that wait. That's the wait of every woman who's ever loved an ordered man and wondered when her mess would become too much for him. And the book let it sit — he smiled, said nothing, kissed her shoulder — and I *thought* that was the beat. Grace, silent, done. Lovely. Chapter over.
 
-Small things I'm holding: her eating like a field hand and losing weight "burning down whole weekends of him" — the book is still keeping the body ledger and I'm still scared of it. The counter moment, where he looks at her sprawl and does nothing and she spends a week not knowing — and then the answer is a drawer. Her saying "Peter" to his sleeping shape like a word to keep it. The counter-disaster as the first time she's colonized a man's space, and the whole chapter being about whether she's allowed to.
+And then it wasn't. Then the scrunchies were gone the next Friday and my heart went down like hers did — he minded after all, the quiet clearing-out, the guest who'd been too much — and I actually got a little angry at him, at the book, at the whole thing. And then she opened the drawer.
 
-The one flat note for me: the dinner conversation ran long and I could feel it carrying information the book needed moved more than she needed to say it. But the drawer bought it all back with interest. He'd folded himself down to make her a place. I'm gone.
+He didn't tell her it didn't matter. He made her a place instead. And his own things — the blades, the comb, the ordered ranks of a careful man — pressed down into the single bottom drawer, too tight, made to fit half of what it was built for. He folded *himself* down to make room for her. That's not "I don't mind your mess." That's "rearrange me." I have read a hundred heroes say I love you and not one of them has ever said it in drawer form. That's the "always beautiful" grammar again — he never says the word, he does the word, in objects, and this book keeps making me fall for a man through hardware.
+
+And Vee, lying in the dark, letting "I loved him" be true in her own chest where she couldn't take it back. That sentence wrecked me a little, in the good way. She's not waiting for him to say it anymore — she's decided to live "clear inside the everything-he-did" — and I want so badly for that to be safe, and I know the frame is rigged, and the kitchen scene where she tells him all about Randi while I know *Randi is his* — "she does this funny goodbye kiss... on the mouth... and then she comes back and does it again" — and he mimed the cheek kisses, playing innocent, and I had to laugh at the sheer audacity of this man receiving a full briefing on his own girlfriend from his girlfriend. The dramatic irony in this book is a slow drip and I'm the one tied to the chair.
+
+Also: she's losing weight. The looser bras, the tomato she ate anyway. The book is keeping that ledger and it's the thing I'm most scared of now — she's being fed in every sense by these two and something in her is still running down.
+
+But the drawer. "No note. There was never a note." I'm going to be thinking about that all week.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "He turned with the spatula still in his hand and kissed the air beside one cheek, then the other, eyebrows up, very grand." — not nearly a stop, but it's the moment I most felt the book winking at the reader over Vee's head, and I got a chill I didn't like.
-WHY: The drawer is the love declaration this book was always going to give me instead of a word, and I'm a wreck about it. But Vee just narrated the entire Randi operation into Pace's ear without knowing, and the collision clock is now audibly ticking — I need to see what breaks first.
+ALMOST-STOPPED: none
+WHY: The drawer undid me — a man folding himself into one drawer to make her the easy one is the tenderest thing this book has done, and Vee finally letting herself love him makes the coming wreck matter more, not less. Not much heat this chapter, and I don't care; the care between them is on every page and that's what I'm actually here for.

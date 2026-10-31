@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 205ee797b34a · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7764083c7359 · dated · 2026-10-30*
 
 **REACTION**
 
-Two words in this chapter wrecked me: "Short brunette?"
+Okay. The drawer. I'm holding the book against my chest like an idiot. He moved his whole careful self down into one cramped drawer and gave her the top one, "the one your hand goes to first." No note, because there's never a note. That's the whole jacket in one piece of furniture: he gives her everything except the word. Right now, tonight, I'm on the side of the everything. She reached for the green scrunchy and closed her hand on nothing, and my stomach dropped with hers. I truly thought he'd cleared her away. Then he hadn't. He'd made room. "He hadn't told her it didn't matter. He'd gone and made her a place instead." I'd underline that if I were the kind of woman who wrote in books.
 
-He knows exactly who Randi is. She owns his second dresser drawer. She's been facedown on that bench saying please. A week ago she was riding him while she narrated Vee's knee. Now he's standing at the stove turning salmon and asking his girlfriend to remind him who her friend is, like he's searching his memory. Then Vee tells him about the kiss, the one that stays a beat too long and comes back for more, and he does the grand air-kiss bit with his eyebrows up and grins. He *grins*. I read it twice to make sure I wasn't imagining it. It's the most at ease I've ever seen him while lying, and it's the first time the lie has been out loud, to her face, in his own kitchen. Before, it was a silence I could half explain away: Sheri's "Not yet," Daphne, a boy who never saw the whole board. This was a choice made with a spatula in his hand. And then I'm supposed to watch Vee lay out every one of his tells as proof of love? "A man didn't do all of that for a girl he was only passing a season with." Oh, honey.
+And she loves him. She says it to herself flat and plain in the dark, then whispers "Peter" to a sleeping man so it can't cost her anything. That broke my heart a little. She's counting the ways he's said it without saying it: the door, the spin, the salmon, the warm tomatoes. I want to believe her count. I mostly do. *It always came around to her first.* That line is exactly why I'm here.
 
-Then he goes and does the drawer. God help me, the drawer. He folds his whole careful self into one tight drawer and hands her the top one, "the one your hand goes to first," with no note, because there's never a note. That's the most romantic thing he's done, and it hurt to read because it's exactly what the blurb warned me about: believe what he does. And what he does is real. I believe the drawer. I also believe "Short brunette?" Both of those live in the same man, and the book won't let me pick one.
+But the kitchen. God, the kitchen. She's chattering in his shirt about her new friend Randi, the one with the funny European goodbye kiss, and he says "**Short brunette?**" Like he has to dig for the name. Like Randi doesn't keep things in his dresser. Then he mimes the cheek kisses, all eyebrows, and when she says "no, on the mouth" and touches her lip, "his grin spread." It's not silence anymore. He's lying to her face, playfully, and he's *enjoying* it. Then she goes to him and finds him hard, and I couldn't tell how much of that was her and how much was the picture she'd just handed him. I hated that I couldn't tell. Last chapter she told Randi all of it, the bet, "he checked," the heels, the face in the covers. Now she's giving him Randi's kiss. Both of them are drinking from her, and she's pouring for both, happy.
 
-Vee whispering "Peter" to him while he sleeps, the word kept for when he can't hear it, and her deciding she can live inside the everything-he-did "and not go hungry for the saying": that was so tender it made me angry for her. She's happy. She told me so plainly. I want her to stay happy, and I know what's coming.
+Then the bathroom in the morning. He looks at her mess, and "*Had he minded? He never said*." That's the asterisk again, just a gentle one. The drawer answers the small question beautifully. It doesn't answer the big one.
 
-The weight thing sat a little wrong with me. "Her body quietly burning down whole weekends of him." Maybe it's just joy and appetite. But Randi scraped her plate clean, Randi took one bite of the pastry, and now Vee's clothes are getting loose. I'm watching it.
+One more thing nagged at me: she's eating like a field hand and her bras are looser. I don't know what the book means by that yet. Happiness, sex, walking up gravel? I'm keeping an eye on it.
 
-As for heat, the sex this time was mostly remembered rather than lived, the door and the spin and "always came around to her first." It was warm and it was nice, but I wasn't inside it the way I was on the 30th. After the brunch chapter, though, the dread made up for it. Randi got the bet, the check, the heels, all of it, plus the glaze on Vee's lip. Then he had a conference week and a "brutal" week with no midweek night, which means a week Randi could have had him. Has the story already traveled up the gravel? Was that grin partly because he's already heard it? That's what will keep me up.
+And a sly little note to myself: Randi's sold-out Radford boy got a phone call and left her in a dark room. I'm not ruling anything out with that woman. Also, Pace and Randi are offstage *again*. That's two weeks now with nothing on her side, and the fuse is getting shorter.
 
-I'd text my friend: *he pretended not to know her. while cooking her dinner. and then gave her his drawer. I hate how much I love him.*
+Text to my friend at 1 a.m.: "he gave her the top drawer and moved all his razors into the bottom one and I'm crying. also he pretended not to know randi's name and I want to kill him. both true."
 
-**GATE 32 — Above Him**
+GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Short brunette?" It wasn't quite a stop, but it's the first time I've felt contempt for him, and if the book ever asks me to find that charming, I'm out.
-WHY: The drawer and "Peter" whispered in the dark are the bond turning for real on her side, and maybe on his. But he lied to her face with a grin while she described his lover's kiss, and I have to know whether Randi has already carried the bet up to his bed.
+ALMOST-STOPPED: "Short brunette?" (that's where the omission became a performance and I felt the floor tilt under him)
+WHY: The drawer is a real turn. It's care without words, the man I came for, and she finally names her love to herself. But his grin at the kiss story tells me he's enjoying the secret, so I'm reading on with my heart full and my eyes narrowed.

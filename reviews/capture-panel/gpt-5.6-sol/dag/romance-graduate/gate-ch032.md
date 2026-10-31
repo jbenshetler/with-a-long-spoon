@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 205ee797b34a · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 7764083c7359 · dated · 2026-10-30*
 
 REACTION
 
-Oh, the drawer. The top drawer. He crushed all his careful little ordered things into the inconvenient space so hers could be easy to reach, and there is no universe in which that doesn’t hit me directly in the chest. This is exactly why I love him: he doesn’t tolerate her taking up space, he quietly rearranges his own space around her. And she understands it as love because that is the language he actually speaks. I was already gone at her whispering “Peter” into his sleeping ear, but the drawer absolutely finished me.
+Oh, the drawer got me. It absolutely got me. The top drawer, the easy one, his own things compressed below because he would rather inconvenience himself than make her feel like an inconvenience—that is exactly the kind of domestic intimacy I’m helpless against. Not a grand gesture, not a speech, just room made where his room used to be. And “There was never a note” hurt because she understands his language so completely now. I believe he loves her. I believe she is right about every meal, every return, every scrunchy, every inch he gives her in the house.
 
-Except I cannot surrender to it, because she told him about Randi.
+And that is becoming the problem.
 
-She told him everything except the truth she doesn’t know. She gave him the collision outside the dining hall, Randi sitting down with her the next morning, the brunches, the boy stories, the kisses on the mouth—and this man stood there holding a spatula and listened to her sweetly explain his own lover to him as a wonderful new friend. Then when she described the double kiss and called it French, his grin spread. That grin made me feel sick. He knows exactly what those kisses are. He knows Randi did not acquire them in Europe. He knows Vee is trying to fit her attraction into an innocent shape, and he finds it charming.
+Because she finally told him about Randi’s kisses. On the mouth. Twice. She handed him the whole misunderstanding—French, friendly, harmless—and his response was that spreading grin. He knows exactly what kind of kiss it is. He knows exactly who Randi is. He knows what Randi wants. And he watched Vee explain away her own desire and Randi’s advances, then let her turn it into flirtation with him. That grin made me cold. Not because he doesn’t care, but because he cares and still permits himself to enjoy her ignorance.
 
-No. I love you, Peter, but no.
+The chapter kept seducing me into accepting silence as Pace’s beautiful private vocabulary: the food, the slow attention, coming back for her, accepting the bag, making the drawer. Then it quietly showed me the limit of that romance. Vee can live inside everything-he-does without needing the word *love*, perhaps. But she cannot safely live inside everything-he-does when he uses silence to conceal facts she needs. Making space for her toiletries does not make space for her informed self.
 
-What makes it unbearable is that Vee has just consciously named her love. She is lying beside him counting the door and the salmon and the slowness as all the ways he says it without the word, and she is right. He does love her. The drawer is love. The food is love. The scrunchies are love. But his silence is not merely a shy man trusting actions over declarations anymore. It is now doing two jobs: expressing the tenderness he cannot say and concealing the truth he refuses to say. Vee notices the pattern—“He never said”—without knowing how dangerous that pattern is. She thinks she can live inside everything he does and not hunger for words. Honey, one of the words you need is Randi.
+And Peter whispered into his sleeping ear—God. That was almost unbearably tender. She used the name under the name while he slept, gave him her love without making him answer, and I wanted to stay inside that softness. But she is loving him partly because she believes she has correctly learned to read what he never says. The book is making that trust exquisitely dangerous.
 
-And this is the cruelest possible version because her happiness feels so bodily safe. She eats freely with him. She sprawls across his bathroom. She says his real name only when he cannot hear her. She has brought the bag. Every little domestic threshold I’ve been waiting for is here, and instead of finding Randi’s drawer, she is given one of her own. Pace has made room for Vee without removing Randi from the house or telling either woman what that room means. I am melting and furious at the same time.
+Also: “She ate like a field hand at his table now” beside the loosening bras and underwear, immediately after watching Randi take one bite and stop, landed hard. Pace feeds both women, and food seems to become possible for each of them when it is care rather than scrutiny. I’m watching this closely.
 
-Also: Randi’s supposedly funny stories are being served right in front of him now, and he knows they’re fiction. Vee is praising Randi’s beauty, touching her lip while describing the kisses, telling Pace she cannot understand why Randi hasn’t found what she wants—and Pace knows Randi has found it. She is sitting at his table wearing his shirt. He lets Vee remain the only person in the scene who cannot read it.
-
-The sex itself was mostly remembered rather than lived on the page, but the hunger worked on me: not making it down the hall, him still refusing to rush her, then returning to her after dinner as though he had been thinking about her the whole time. That “There could be an after” landed. It isn’t interchangeable stamina fantasy; it is Vee discovering that desire can survive satisfaction and ordinary domestic time.
-
-I would text a friend: “HE GAVE HER THE TOP DRAWER AND I AM CRYING, BUT SHE TOLD HIM RANDI KISSES HER AND HE JUST GRINNED, SO ACTUALLY PUT HIM IN JAIL.”
+The drawer is one of the most romantic things he has done. The grin may be one of the worst. I would text a friend: **HE GAVE HER THE TOP DRAWER WHILE KNOWING HIS OTHER LOVER KISSES HER ON THE MOUTH. I am unwell.**
 
 GATE 32 — Above Him
 DECISION: CONTINUE
@@ -27,4 +23,4 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The top drawer and the whispered “Peter” gave me the domestic love turn I wanted, while Pace’s knowing grin at the Randi kisses made the concealment suddenly intolerable. I’m already turning the page because Vee has moved into his house emotionally, and the truth is now standing inside it with her.
+WHY: The domestic tenderness pulled me all the way in, but the Randi conversation turned every beautiful silence double-edged. I need the truth now: he knows Vee is being kissed, knows she has mistaken it for friendship, and chose to grin instead of speak.
