@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
+*capture-dag-v2-rich · gate ch036 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 **REACTION**
 
-I had to put the phone face down on the duvet for a minute.
+Oh, Randi. Oh, *Pace*.
 
-He picked her off a lawn. In September, the second week of term, holding Randi's hand. He was hard on the quad over the two of them together on his pillows, "black hair and all that red", before Vee had said one word to him. *He had already chosen; the pointing was only to find out whether they had chosen the same.* Everything in my column one, the drawer, the juice, the empty palm at "Don't", has to be reread through that sentence now. I don't think any of it was fake. That's worse. It was all real, and it was also inside something she doesn't know she's standing in.
+I'll start with the line I've been waiting thirty-five chapters to hear from him: "She consents — every time — or I'm done." I stopped reading for a second. He asked "Is she all right?" and pushed back with "That isn't the same answer." Later, in the middle of sex, he asked "Does she want it?" and then "That isn't what I asked." He wouldn't let Randi's polish slide past him. That's the man I came for. He watches for the answer, even when it's someone else's answer he's watching for.
 
-It's the same day. She left his house Monday morning with her hair wet, using pins from the drawer he gave her on Friday. By the middle of the afternoon the deadbolt goes over for Randi "the way it always did", and they're against the same kitchen counter. *Always.* And Randi sat in stats and leaned in and told Vee she'd come to class still full of him, and Vee went red and put her hands in her lap. She thought she was being teased by her best friend. She was being reported on, and the report got delivered in the very house she'd just left, and it turned him on. Every brunch she paid for herself, tipped too much, never said a word about the number. All of it got carried up the hill to this couch. She thinks Saturdays are the one thing that's hers. "Well. She told me first." Christ.
+And at the same time I wanted to throw the book across the room. Because consent to *what*, Peter? Vee says yes to a kiss from her best friend. She doesn't say yes to a kiss from a woman who's "getting her used to my mouth" for a threesome she's never heard of. He's careful about every single step while hiding the staircase. I believe he means it. But he means it inside a frame that makes it impossible, and I don't think he sees that. That's Daphne all over again. He's sure the person who has the whole board can be the one who protects the person who doesn't.
 
-This is the shelf I said I wanted to see, and now I've seen it.
+What Randi did in class made my stomach turn. She leaned over in front of everyone and told Vee she'd "come to class still full of you." Vee put her hands in her lap and went "the most beautiful color." Randi tells it like a love story. Vee lived it as being caught, the same blue-light bathroom feeling from the "sticky fingers" brunch, and Randi brought it to his couch as foreplay. And he got hard picturing Vee "leaking quietly into the green." That's my asterisk on him, still there, still heavy.
 
-Here's why I didn't throw the book. It isn't winking. It's the first time the book has stood inside his head, and it doesn't flatter him. It lets him be the one asking "Does she want it?" and "That isn't what I asked," while Randi slides away from the question twice. It lets him say "She consents — every time — or I'm done," and I believe he means it. I also know exactly what's wrong with it. You can't consent to a frame nobody's shown you. Every yes she's given him was hers, and I'll still die on that. None of them was a yes to this. He checks the gauge on a machine she doesn't know exists. That isn't the sneering cruelty I left those other books over. It's more careful than that, and it's colder.
+But Randi broke my heart in this chapter. "I'm doing it for *you*." "It's *work*." Then he said, gently, "You don't have to do it for me," and that's what made her come. Because it took away her cover. Then "God, I want her," and she heard herself say it. Then "Twenty-one years old and she found out this autumn that a person can sleep." Randi is in love with Vee, the book has stopped hiding it, and she's realizing it too.
 
-And Randi. Oh, Randi. "God, I want her," out of her mouth into the wood, and she heard it leave her. "I'm doing it for *you*." "It's *work*." Then "you don't have to do it for me," said kindly, and that's the line she comes on. That isn't a woman running a seduction. That's a woman in love with the girl she was sent to fetch, using the man's permission as cover so she never has to say it straight. "Twenty-one years old and she found out this autumn that a person can sleep." She couldn't look at him when she said it. I was right that she's drowning. I just didn't know whose boat she was on.
+Then the morning. Jesus. Vee's green satin, kept since the first night, folded in thirds, at the bottom of the second drawer. *Randi's* drawer, if I'm remembering it right. She went to get one of his shirts and found the one thing of Vee's he keeps hidden, under the place he lets her keep things. She never asked for a drawer, never offered him anything to keep, and she found out exactly where she stands. Then she put his hand on her for the first time ever, rode him with Vee's underwear in her fist, and made a sound he'd never heard from her. "It's hormones." He let it be hormones. Of course he did. He's tender and exact everywhere except where it would cost him something to name it, and that's the jacket's whole promise: everything but a word.
 
-The heat was real, and I resent that. The mirror he could see her face in the whole time and she'd forgotten, the clench on "I kiss her mouth." It worked on me, and I could feel exactly what it was built from: a girl's goodbye kiss on a sunny sidewalk, carried off and spent here. It's hot and it tastes like stolen money.
+The untouched coffee. Vee's drawer open an inch. He blamed the house settling, and I don't believe that for one second. Randi went through Vee's drawer. What did she take, or touch, or just stand and look at? I'm scared.
 
-Two things keep me in. First, "Then I'll be careful with you" to Randi, and him lying there holding her while she holds on. He does have tenderness in him for her, and it's not a costume. Second, the book clearly knows that Vee showing Randi the uncropped photo, after he promised "I'd never share your photograph," is a fuse. Somebody is going to get burned here, and I think the book knows who deserves it.
+Last note: Vee hasn't been in a room with him for a whole chapter, and I felt it. But this didn't feel like a stall. It felt like the fuse burning down.
 
-What I'd text at 1 a.m.: *he picked her on the quad. with randi. before ch 1. i'm going to be sick and i'm reading the next one.*
-
-GATE 43 — Four
+GATE 36 — Four
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "He had already chosen; the pointing was only to find out whether they had chosen the same."
-WHY: The book showed me the thing I'd been afraid of, from inside him, and didn't ask me to find it charming. I'm reading on now to see whether it knows what it owes her. If the next stretch plays the threesome as Vee's reward without her ever being told the frame, I'm gone, and it'll be the cleanest exit I've ever made.
+ALMOST-STOPPED: "She sat down next to me failing to hide her grin, being modest about it, still full of your come." When I read his reaction to that I nearly closed the book on him.
+WHY: He finally said the consent thing out loud, and the book showed me straight away why it isn't enough while Vee can't see what she's consenting to. Randi cracking over the green satin is the realest she's ever been. I need to know what she did in that drawer and how long "hormones" can hold.

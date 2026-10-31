@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 REACTION
 
-Oh, my God. Oh my absolute, terrifying God.
+Holy shit.
 
-I feel sick. I feel filthy, I feel electric, I feel completely gutted. This chapter was like being held underwater.
+I feel like I just got hit by a truck. The jacket warned us from page one that they were in this together, but reading it—actually being inside Pace’s head while he’s fucking Randi on the couch, while they talk about Vee like she’s a prize they're grooming for the slaughter—made my stomach drop straight through the floor. It is deeply, intensely erotic and at the exact same second, completely horrifying.
 
-The title—"Four." The sick, petty arithmetic of it. Vee sits at brunch bragging that he loved her three times in an evening, and Randi comes to his house on Monday and takes him four times just to beat the number. Just to write herself over Vee’s weekend. And the scratch on his shoulder! Randi putting a mark on him. And the couch—she’s bent over the couch, taking him from behind while they talk about Vee sitting in class leaking him into her skirt, and he *finishes* while Randi tells him how Vee leaned into her kiss on the sidewalk.
+Pace saying, *"She consents — every time — or I'm done. It isn't you I'm checking on."* God, the absolute psychological knots this book is tying. He thinks he’s so honorable. He thinks because he stops when Vee flinches, because he waits for her 'yes,' that he has clean hands. But you’re building a trap around a girl who loves you! She’s telling Randi about her mouth waking up, and Randi is bringing those exact words home to his bed like currency to get off on.
 
-It is monstrous. It is brilliant. It makes my skin crawl and my pulse hammer at the exact same time.
+And then the morning. Jesus. Randi finding the green satin panties hidden under his undershirts. That whole scene where she rides him with Vee’s underwear clutched in her fist against his bare chest, not letting him touch her, staring at the wall, and then *sobbing* afterward into his neck. Randi is unraveling. She started this game to be the cool girl, the puppet master, the one holding all the strings, and now she’s looking at Vee’s drawer in his bathroom—Vee’s scrunchies, Vee’s life moving in—and she is choking on her own jealousy and her own twisted obsession. She told him, *"You see more of me than anybody ever has... It makes me feel real. And some nights it frightens me."* She's terrified of losing him, but she's also half in love with Vee herself.
 
-And Pace—god damn you, Pace. "She consents—every time—or I'm done." He says it so level, so absolute, like he’s the high priest of morality. He actually believes he’s protecting her! He thinks because he checks the gauge and asks "Does she want it?" that he’s clean. You arrogant, blind idiot. How can she consent to something she *doesn't even know she's in*? You gave her a drawer for her hairpins and you cooked her lemon chicken, and now you’re fucking Randi on the couch using Vee’s confessions as foreplay!
+And Pace, walking past the bathroom, seeing Vee's top drawer open an inch and just thinking, *Oh, the house shifts in the autumn.* You brilliant, blind idiot. Randi went through that drawer. Randi stood in that bathroom and saw that you gave Vee the top drawer, the easy drawer, the one you put your hand to first.
 
-And yet... look at what's actually happening in that room. Pace thinks he’s playing Randi, Randi thinks she’s playing Vee, but Randi is slipping. She is falling so hard for Vee it’s terrified her. "God, I want her." That slipped right out of her mouth before she could stop it. The facade cracked. Randi claiming she's "doing the work" for the threesome, that it’s grueling, when she’s practically vibrating with jealousy and lust and raw need. And then that ending—Randi shivering under the blanket, clinging to his arm, saying "You see more of me than anybody ever has... it makes me feel real. And some nights it frightens me." Randi is hollow. She’s desperate. And Pace is feeding both of them, controlling both of them, orchestrating this entire sick symphony.
+I’m furious for Vee, my heart is breaking for her, I'm turned on, and I'm practically holding my breath waiting for the bomb to go off. This is sick and it is utterly gripping.
 
-Vee is walking around like a girl stepped out of a fairytale, totally, completely defenseless. She thinks she has a dedicated lover and a glamorous best friend. She has no idea she was picked out on a lawn like an apple from a tree. When this breaks—and it is going to break, it has to—it’s going to level everything.
-
-I am horrified, I am furious at both of them, and I cannot put this book down. Give me the next chapter right now.
-
-***
-
-GATE 43 — Four
+GATE 36 — Four
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The sheer psychological dread and illicit heat of watching the trap from the inside is breathtaking; I'm furious at Pace and terrified for Vee, but I am utterly hooked.
+WHY: The betrayal made my chest physically ache for Vee, but the psychological mess between Pace and Randi—her weeping over Vee's green panties while riding him—is absolute, unputdownable drama. The tension is wound so tight right now I couldn't look away if I tried.

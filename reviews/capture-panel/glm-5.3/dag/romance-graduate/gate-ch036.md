@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
-REACTION:
+REACTION — I need a minute.
 
-Oh, this chapter. This is the one where the book stops letting me be a step ahead of Vee and makes me a step ahead of *Randi* instead — and it turns out that hurts differently, watching the operator operate on herself.
+This is the chapter I've been waiting thirty-five chapters for without knowing it, and it did the thing the best ones do: it took the secret I've been carrying (I've known about Randi and Pace since the jacket) and made it *cost* — not for Vee, for them. For the first time we're on the dark side of the glass, in the house, on the night Randi finally runs out of performance.
 
-"You had me picking women off a lawn in broad daylight, and I was delighted with myself the whole way." I had to put the book down after that line. So the pointing walk — the thing I remember as Pace choosing Vee — was actually Pace *reading Randi* the whole time, testing whether they'd chosen the same woman, and Randi walked the whole way already had. And then, the picture he didn't tell her: the two of them in his bed and himself kissing the redhead with his hand on Randi's face. He went hard on a public lawn. He'd already chosen before the pointing. This book has been running two plots the entire time and I've only been reading one of them, and the reveal didn't feel cheap because it reorganizes everything I already knew instead of replacing it.
+"That's more than three." "God, I want her." And then the scramble — "For us. When she's ready. That's all I meant." The book let her hear it leave her mouth, and it let ME watch her hear it, and I put the book down and stared at the ceiling for a second because that's the exact shape of a woman losing an argument with herself mid-stroke. And him — "You don't have to do it for me," said kindly, into her neck — and she comes ON the kindness. Not on the filth. On being let off the hook she's hanging herself on. That's the most psychologically exact sex scene this book has written, and it's the least about the sex.
 
-But the real meat is the mirror. She turned her face away so he couldn't see it and forgot the mirror on the wall — that's the whole book in one prop. Randi, who watches everyone, who reads Vee's face across brunch tables like sheet music, forgot she was being watched, and everything she said after that came out of her without her quickness on it, and I believed every syllable. "She stands there in the sun with her eyes shut, waiting for me to come back to her." Randi has been running a seduction through interrogations and shoe fittings and I've been half afraid of her for thirty chapters — and here she is confessing that the goodbye kiss is the thing she carries for two days waiting to share. She engineered this. Nobody engineered her falling.
+The consent exchange gutted me. "She consents — every time — or I'm done." He draws that line at *Randi*, not at Vee — he's checking the engine, not the gauge — and Randi's flat little "I have always known what I'm doing" while her hand opens and closes on the couch arm. The gloss is OFF. Twenty chapters of that woman performing total control and here she is doing damage control in silk, and the tell is that she's bad at it. Randi is never bad at anything. That's how I know it's real.
 
-And Pace — "I'm doing it for *you*." / "I didn't ask who it was for." I actually applauded, alone, at eleven at night. He heard "for the threesome, it's *work*" and did the arithmetic in real time and kindly took the lie apart with one question. And she came on the word "kissing her" mid-denial — the body settling the matter before the mouth does, which is Vee's exact grammar, it's the same book teaching both women the same lesson, and I don't think that's an accident.
+And then the morning. THE MORNING. She finds the drawer. We've been tracking Vee's drawer since the chapter he cleared the counter — the green scrunchies, the pins in the little dish, the place he "made her" — and Randi goes in there, sees the whole architecture of a woman being kept, and comes out with Vee's green nightgown clenched in her fist and her eyes liquid, and fucks him with it pressed between their chests. And doesn't shut her eyes. Keeps them on the *wall*. "You see more of me than anybody ever has. It makes me feel real. And some nights it frightens me." I underlined it. And then — "It's hormones" — and he lets it be hormones, because what else is there, and the untouched coffee on the counter, and the "she had never once offered him anything to keep." He kept a thing of Vee's. She found it. She didn't say it. I felt that like a hand on my own chest.
 
-What undid me, though — genuinely, hand over mouth — was "She said she didn't know she *could*" and Randi's hand closing on the couch arm. Twenty-one years old and she found out this autumn that a person can sleep. And Randi can't say the tender thing out loud about Vee without it costing her something, so she says it to a low table, at nothing. And then: "That's more than three." / "More than three what?" / "Nothing." She's counting now. Pace counts — pounds, reps, the ledger — and Randi just caught herself keeping one. The two of them are turning into each other around a girl who doesn't know either one has fallen.
+The detail that's going to keep me up: he folds the green in thirds, spot centered, "as Vee had folded it the first night" — he remembers the fold. And Vee's drawer standing open an inch and him blaming the house shifting in autumn. He's WRONG and I know he's wrong, or the book wants me unsure, and either way something in that house has come off its latch and it isn't the cold. The whole last page is a held breath.
 
-"Then I'll be careful with you." I'm gone. I'm absolutely gone on all three of these idiots. The only shadow: "Is she all right?" — he checks the gauge on Randi's ethics and takes "she's choosing it" for an answer, and I don't think it was one. That's the crack the whole triangle is going to come through. And Sheri's still coming for Thanksgiving, and Vee's standing in the sun with her eyes shut.
+Also — the quad origin. "I pointed at her and watched your face." He was reading Randi, not the lawn. The pointing was a compatibility test and they both passed and I got a little chill at "I'd have taken you right there on the quad, if you'd let me."
 
-GATE 40 — Four
+My worry list shifted. Vee is still the one owed the truth, still the one being managed ("She told me first" — that tiny possessive pause). But the person closest to breaking is Randi, and the person closest to the break is *Pace*, who now knows things Vee doesn't know he knows. Sheri's "If that's not already complicated, it will be" is aging like milk. The bench is still unvisited. The white gold was on Randi's *wrist* and I clocked it and the book didn't explain it.
+
+Next Saturday's brunch is going to be unbearable. She has to sit across from Vee — Vee who's radiant, who took the last half-inch of the kiss — knowing what she did with the green between them. I would read forty pages of that brunch. I'd read it tonight.
+
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The mirror does in furniture what this book does in prose — makes the person hiding watch themselves get caught — and Randi's unraveling ("it's not a treat, it's work" to "God, I want her" in one scene) is the emotional payoff the whole triangle has been earning. Heat and tenderness in the same breath, nobody explaining anything to me. I'd start the next chapter now.
+WHY: This is the book's whole promise paid off — explicit and psychologically exact in the same breath, the collapse happening inside the sex instead of around it. Randi cracking, the green satin, the drawer open an inch: every thread I've been holding just pulled tight at once. I need the next chapter immediately.

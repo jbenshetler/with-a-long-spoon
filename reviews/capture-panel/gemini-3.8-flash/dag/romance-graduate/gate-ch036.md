@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 49d5da6cd2e9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
-REACTION
+REACTION:
 
-Holy shit. The mask didn't just slip in this chapter—it completely cracked open.
+Holy *shit*. My hands are actually shaking.
 
-I feel sick, thrilled, furious, and utterly riveted all at the exact same time. Seeing Randi and Pace alone in that house, knowing that Vee was just there, knowing that Randi is taking the intimate, tender, private things Vee confessed over eggs Benedict and serving them up to Pace as foreplay to get fucked four times in an afternoon? It is depraved. It is brilliant. It makes my skin crawl in the best possible way a dark, psychological romance can.
+I feel sick, I feel electric, I feel completely gutted. This chapter is an absolute masterclass in psychological horror masquerading as the filthiest, most complicated erotica I have ever read. The structural audacity of this book—to spend the last few chapters showing us Vee slowly, exquisitely unfurling, blooming into her confidence, falling in love, believing this man has given her the top drawer and built an altar out of fresh lemons and garlic—and then to pull the curtain back on Monday night with *Randi and Pace in that exact same house*.
 
-What floored me here wasn't even the filth—though watching Randi use the goodbye kisses on the sidewalk to drive both Pace and herself out of their minds while braced against the couch was scorching. It was the sudden, raw vulnerability underneath Randi’s sociopathic exterior. She is unraveling. She claims she’s "doing the work" for this grand threesome design, but she blurted out the absolute truth down into the wood: *"God, I want her."* Not just for Pace. Not as an offering. Randi is falling apart with genuine, agonizing lust and obsession for Vee, and she’s terrified of how much Pace sees right through her.
+The mechanics of their dynamic are terrifying. Randi isn't just an accessory; she is unraveling at the seams. Sitting on that couch, picking fights about consent while using Vee’s confessions as foreplay, insisting it’s "work" to kiss Vee on the mouth while her body betrays her on the very word. *"I'm doing it for you... for the threesome."* The lie is so thin it’s practically translucent, and Pace just quietly dismantles it with a single sentence: *"You don't have to do it for me."* And Randi *comes* on the truth of it. She is in love with Vee, or obsessed with Vee, or so hopelessly entangled in her own voyeurism that she can't separate her desire for Pace from her hunger for this girl.
 
-And Pace! God, Pace is so chillingly methodical. The way he remembered picking Vee on the lawn—reading Randi’s micro-reactions like a data set, knowing he was going to take Vee before he even pointed—it proves how calculating he is. But his little moral high ground? *"She consents—every time—or I'm done."* He actually thinks he has ethics! He genuinely believes that because Vee is consenting to him in his bed, the massive, monstrous lie they are living doesn't violate that consent. He thinks he’s an honorable shepherd guiding these two women into his bed, when in reality he’s building a bomb.
+And then the morning. Jesus, the morning. Randi finding Vee’s green lace bra in the bedroom drawer, realizing Pace has kept a relic of Vee—and instead of screaming, instead of having the fight she has every right to have, she clenches that satin in her fist, walks into the kitchen soaking wet, and rides him like a weapon. The green silk pressed between her palm and his bare chest. The fact that she wouldn't let go of it to take off his shirt. And then the crying after—the absolute, wrecked devastation of a woman who realizes she orchestrated her own replacement, calling it "hormones."
 
-The tragic contrast is what killed me: Vee floating around campus thinking she’s found a fairy-tale love and a soulmate best friend, while these two predators are counting their orgasms and comparing notes on the scent of her hair. When this explodes, the blast radius is going to level everyone. I need the fallout yesterday.
+And Pace! The cold, calculating, arrogant brilliance of him. *"The house was old and shifted each autumn as the cold came into it; doors that had shut true in August stood off their latches now."* He sees Vee's bathroom drawer popped open an inch. He literally thinks the *house* shifted. The genius mathematician, the master craftsman who thinks he has human psychology mapped out on a chalkboard, doesn't even realize that Randi opened that top drawer, saw Vee's scrunchies, saw Vee's face cream, and is quietly losing her goddamn mind.
 
-GATE 40 — Four
+This isn't just a love triangle; it’s a three-car pileup happening in slow motion on black ice, and none of them have touched the brakes. I need the next chapter right now.
+
+GATE 36 — Four
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension reached a boiling point here, exposing the raw obsession and delusion driving both Pace and Randi behind Vee's back. The pacing is immaculate, the erotic charge is scorching, and the impending catastrophe makes it impossible to put down.
+WHY: The psychological tension was so thick I could barely breathe. Watching Randi use Vee's green satin bra to fuck Pace while crying on his chest was devastating, filthy, and brilliant.
