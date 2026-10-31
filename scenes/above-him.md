@@ -18,7 +18,7 @@ She'd sat at the little table in one of his shirts, her feet tucked onto the run
 
 "You remember Randi? From the froyo day."
 
-"Short brunette?"
+"Sure."
 
 "She's a new friend. I walked right into her outside the dining hall, beginning of the semester. Nearly knocked her over. It's a small world — found out we have a stats class together." She smiled into her wine. "And then the next morning, she comes and sits right down with me."
 
@@ -50,7 +50,7 @@ He turned from the stove, spatula still in hand, and mimed the two cheek kisses 
 
 "No, on the mouth." She laughed. "And then she comes back and does it again." Her tongue brushed her lower lip. "This kiss-kiss. It's French, I guess."
 
-His grin spread.
+His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke.
 
 She set her wine down and went to him at the stove. "Don't be silly. Not *that* kind of French."
 

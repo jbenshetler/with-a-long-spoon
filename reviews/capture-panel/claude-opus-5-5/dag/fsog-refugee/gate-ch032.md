@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7764083c7359 · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1d4d9d8f78ec · dated · 2026-10-31*
 
 **REACTION**
 
-Okay. The drawer. I'm holding the book against my chest like an idiot. He moved his whole careful self down into one cramped drawer and gave her the top one, "the one your hand goes to first." No note, because there's never a note. That's the whole jacket in one piece of furniture: he gives her everything except the word. Right now, tonight, I'm on the side of the everything. She reached for the green scrunchy and closed her hand on nothing, and my stomach dropped with hers. I truly thought he'd cleared her away. Then he hadn't. He'd made room. "He hadn't told her it didn't matter. He'd gone and made her a place instead." I'd underline that if I were the kind of woman who wrote in books.
+"Sure."
 
-And she loves him. She says it to herself flat and plain in the dark, then whispers "Peter" to a sleeping man so it can't cost her anything. That broke my heart a little. She's counting the ways he's said it without saying it: the door, the spin, the salmon, the warm tomatoes. I want to believe her count. I mostly do. *It always came around to her first.* That line is exactly why I'm here.
+That one syllable is going to keep me up. Vee lays out the whole fairy tale: she bumped into Randi, what a small world, they have stats together, Randi came and sat down with her the next morning. And he says "Sure" and "You like her" and turns the salmon. He knows exactly who Randi is. He knows her second dresser drawer and the bench under the tabletop. He let Vee explain his own lover to him as a chance meeting outside the dining hall, and he flipped the fish without a crack in his face. I've been holding "Not yet" against him for chapters, but this is the first time I've watched him actively perform not knowing, right in front of her, while she's in his shirt with her feet on the chair rung. It's one thing to stay silent. This is sitting across the kitchen while she tells you a story you've already heard from the other side, in bed.
 
-But the kitchen. God, the kitchen. She's chattering in his shirt about her new friend Randi, the one with the funny European goodbye kiss, and he says "**Short brunette?**" Like he has to dig for the name. Like Randi doesn't keep things in his dresser. Then he mimes the cheek kisses, all eyebrows, and when she says "no, on the mouth" and touches her lip, "his grin spread." It's not silence anymore. He's lying to her face, playfully, and he's *enjoying* it. Then she goes to him and finds him hard, and I couldn't tell how much of that was her and how much was the picture she'd just handed him. I hated that I couldn't tell. Last chapter she told Randi all of it, the bet, "he checked," the heels, the face in the covers. Now she's giving him Randi's kiss. Both of them are drinking from her, and she's pouring for both, happy.
+Then the kiss. The book still hasn't let me see whether he already knew. Randi kisses Vee on the mouth, and comes back to do it again. Did Randi narrate that to him too, riding him? His grin goes and the bed look arrives, and he's hard. I can't tell whether that's a man hearing something new about his girlfriend, or a man hearing the plan working. I hate that I can't tell. And Vee, God love her, turns it into a joke and a promise, "I'll pretend it was that kind of French." She's offering him the fantasy without knowing it's not a fantasy for him. Her tongue goes to her lower lip, and I remember the pastry glaze she never touched. I'm the only one at that table who knows how much is in that kitchen.
 
-Then the bathroom in the morning. He looks at her mess, and "*Had he minded? He never said*." That's the asterisk again, just a gentle one. The drawer answers the small question beautifully. It doesn't answer the big one.
+The rest of the chapter undid me anyway, which is the problem with this book. The drawer. He doesn't say "it's fine," he doesn't say anything. He folds his whole careful life into the bottom drawer and gives her the top one, the one your hand goes to first, with room to spare. "He hadn't told her it didn't matter. He'd gone and made her a place instead." That's the man I came for. That's love as an act, and I believe it. And she whispers "Peter" to him asleep and lets herself know she loves him, and decides she can live without the word. Oh, honey. The jacket told me that's the trap, and here she is building a house in it, happily.
 
-One more thing nagged at me: she's eating like a field hand and her bras are looser. I don't know what the book means by that yet. Happiness, sex, walking up gravel? I'm keeping an eye on it.
+I noticed the drawers. Randi has a dresser drawer. Now Vee has the bathroom drawer. He's giving them each a drawer. I don't know if that's tender or a filing system.
 
-And a sly little note to myself: Randi's sold-out Radford boy got a phone call and left her in a dark room. I'm not ruling anything out with that woman. Also, Pace and Randi are offstage *again*. That's two weeks now with nothing on her side, and the fuse is getting shorter.
+Two smaller things. The sex was almost all memory: summarized, afterglow, "it always came around to her first." I believe it, and it's the right kind of man, but I wanted to be in it after a week apart, not told about it. And the weight. Her bras riding looser, "she'd lost some weight." That gave me a little flinch in a book whose whole promise is that her body is treasured as it is. If that becomes a reward the story hands her, I'll mind. Right now it's just a fact she noticed, so I'm letting it sit.
 
-Text to my friend at 1 a.m.: "he gave her the top drawer and moved all his razors into the bottom one and I'm crying. also he pretended not to know randi's name and I want to kill him. both true."
+Randi hasn't been alone with Pace on the page since the 23rd. That's two weeks now, and Vee basically has a toothbrush there. The other shoe is in the air and I can hear it.
+
+What I'd text at 1 a.m.: *he said "Sure." SURE. and then gave her a drawer. I want to hug him and shake him and I'm reading the next one.*
 
 GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "Short brunette?" (that's where the omission became a performance and I felt the floor tilt under him)
-WHY: The drawer is a real turn. It's care without words, the man I came for, and she finally names her love to herself. But his grin at the kiss story tells me he's enjoying the secret, so I'm reading on with my heart full and my eyes narrowed.
+ALMOST-STOPPED: "His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke."
+WHY: The drawer and the whispered "Peter" are the most in love I've been with these two. But "Sure" and that bed look over Randi's kiss mean he's lying to her face in his own kitchen, and he's turned on by what she doesn't know. I need to see what he does with that, and what Randi does when she hears about the drawer.

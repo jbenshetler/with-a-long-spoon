@@ -314,6 +314,12 @@ above `claude-opus-4-8` on identical prose and reports `ALMOST-STOPPED: none` mo
 of the time, so **sol complaining at all outranks opus complaining**, even though
 opus's number looks worse. A grumble from a generous lane is the louder signal.
 
+**3a. The author's read of the lanes (author ruling 2026-10-31).** `gemini-4-argon`
+reads closest to the author's own read of chapters. `gpt-5.6-sol` is a fair reader.
+`gemini-3.8-flash` is a cheerleader — its praise carries little signal. The Anthropic
+models read as readers who wouldn't pick up this kind of book; weigh their complaints
+about appetite and register accordingly (craft and trust complaints still count).
+
 **4. An ALMOST-STOPPED attached to a high score is the single most valuable datum
 the instrument produces** — no survivorship bias: the book held the reader
 completely and still nearly lost her, at a line she will quote. Five readers

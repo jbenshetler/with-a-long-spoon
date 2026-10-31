@@ -322,3 +322,15 @@ close the subject.
 
 - Reread `boyfriend.md:75` (*"a man who'd heard two girls and wanted the
   rest"*) — it now has a kitchen referent; decide whether it lands as recall.
+
+## Applied (2026-10-31)
+
+- **:21 "Short brunette?" → "Sure."** Readers took the question as an acted lie;
+  the author prefers Pace lying by omission. Re-read: no ALMOST-STOPPED on it.
+- **:53 "His grin spread." → "...and then it left, and under it was the look she
+  knew from his bed, and that look was no joke."** The bare grin read as Pace
+  enjoying Vee's ignorance (sol, opus, fable, glm). Vee knows his arousal face;
+  her recognition is close third, not narration, and it motivates her crossing.
+  Re-read: the cruelty reading is gone; argon reads "genuine, heavy, bedroom
+  heat." Sol (10) and opus nearly stopped on the line as *arousal at what she
+  doesn't know* — the engine, intended. Stands.

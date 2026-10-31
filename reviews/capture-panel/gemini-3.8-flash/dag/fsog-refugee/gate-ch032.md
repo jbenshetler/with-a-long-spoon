@@ -1,20 +1,16 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7764083c7359 · dated · 2026-10-30*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1d4d9d8f78ec · dated · 2026-10-31*
 
 REACTION
 
-Oh, my God. *The top drawer.*
+*Oh.* Oh, my god. My chest actually aches.
 
-I am sitting here with my hand over my mouth. That hit me right in the center of my chest. He didn't leave a note, he didn't make a speech, he didn't tell her it was fine—he literally took his immaculate, hyper-ordered bachelor life, crammed all of his own things into the cramped bottom drawer, and gave her the top one. The easy one. The one your hand goes to first. A little dish for her loose bobby pins! That is pure, quiet, suffocating devotion. If a man did that for me I think I would simply dissolve into the floorboards.
+The top drawer. The *top* drawer. He compressed his whole rigid, mathematically neat life down into the lower drawer and put her loose pins into a little dish and set her scrunchies right where her hand would reach first. Without a single word. Without making a production of it or demanding credit or using it as a lever. That is what I mean when I say I want tenderness and devotion. He doesn’t perform his care; he just builds it into the wood.
 
-And she loves him. She admitted it to herself in the dark, watching him sleep, whispering his name into his ear. She loves him and she's living inside the "everything-he-did" because he doesn't say it.
+And at the same time, this entire chapter felt like standing on the edge of a cliff while someone softly rubs your back. I was clutching my kindle during the kitchen scene. When she starts blabbing to him about Randi—about the brunch, about the good-bye kisses on the mouth, about Randi’s stories about "the boys"—I couldn't breathe. *He knows.* He knows every single inch of what she’s describing. He knows Randi’s lips taste like pastry glaze. When Vee tells him, "What else is there about you?" after admitting his name came up at brunch, the dramatic irony is sickeningly thick. He gets hard right there at the stove because the web is vibrating, and Vee thinks it’s just sweet domestic desire.
 
-Which is what makes the rest of this chapter make my stomach hurt in the absolute best, most agonizing way.
+It’s almost agonizing how good he is to her inside this bubble. The slow, unselfish sex where he never rushes his own finish, the salmon with the warm sill tomatoes, the way he catches her at the door and spins her until her feet fly out—he is giving her the absolute best experience of being cherished she has ever had. She whispered *Peter* into his ear while he slept! She admitted she loves him! And every single brick of this safe house is resting on a fault line.
 
-The dramatic irony is so sharp it’s cutting me. Watching her sit on his kitchen counter, drinking his Greek wine, innocently babbling to him about Randi! *"She's a new friend... she's got the funniest stories about the boys... she does this funny goodbye kiss... kiss-kiss on the mouth."* And Pace just turning from the stove, spatula in hand, smiling at her, letting her talk. He knows. He *knows*. He and Randi are talking about her, orchestrating this, and Vee is sitting there completely unaware, bringing Randi into his kitchen like a stray kitten she made friends with. When she said "Cassie isn't a fan," my heart ached because Cassie is the only one who actually smells a rat, but Vee is so dazzled by Randi's shine and Pace's care that she's totally defenseless.
-
-And the sex in this chapter felt so lived-in and real. The week apart, the porch door swinging open, the bright undignified laugh when he spins her around, dropping their coats on the floor—it’s intense, ravenous, but the fact that he *always* brings her over first, that he comes back for her on the couch after dinner because he's been turning her over in his mind the whole time he cooked... that is the romance. That is the care.
-
-She thinks she's safe. She thinks she's found an oasis where a man cooks salmon with warm sill tomatoes and tucks her pins into dishes and gives her his drawers. And the trap is closing, but it's lined with velvet. I am completely hooked. I need the next chapter immediately.
+I loved that she brought her bag. I loved that her bras are looser because she’s eating real food and living in her skin and not hiding under oversized cardigans anymore. She is thriving under this attention. And the fact that he gave her that drawer makes it hurt so much worse, because it proves what the jacket warned: it *has* become real for them. He isn't just running a callous game; he is folding his life around her. Which means when the bottom drops out, it’s going to take all three of them down.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
@@ -23,4 +19,4 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The drawer gesture was breathtakingly tender—tenderness and quiet possession executed to absolute perfection. The dramatic tension of her chatting about Randi while he cooks for her is practically vibrating off the page.
+WHY: The top drawer gesture brought tears to my eyes, but the agonizing tension of her casually describing Randi to him while he cooked at the stove had my heart in my throat. I need the next chapter instantly.
