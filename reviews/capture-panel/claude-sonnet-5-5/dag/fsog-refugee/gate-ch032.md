@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1d4d9d8f78ec · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4708cce761f3 · dated · 2026-10-31*
 
 REACTION
 
-Oh, that finally let me breathe. After ch 31 I was braced and angry, because Randi turned Vee's confession into her own private show and left Vee sitting there, shamed and cowed, in a bathroom stall. Then this chapter just lets Vee be happy. I took it as a gift.
+Oh, this one is soft, and I'm both melting and gritting my teeth.
 
-Pace here is everything I came for. The door swinging open, the spin, a man who goes slowly and brings her over first, and the line about how she "hadn't known a man would want to." That is the tenderness and the control together. The kitchen scene is warm and a little funny. The "that kind of French" bit made me grin and then made my stomach drop. Vee is describing Randi to Pace as a new friend, with the accent and the mouth-kiss, and he's the one man alive who knows exactly who she means. His smile spread, then left. That look "was no joke." I'd give a lot to know what he was feeling right then. I think he flinched. Was it at the kiss, or at Randi being described to him by the girl who doesn't know what she's describing? Either way I want to see him with Randi again. It's been since ch 25, and I feel that gap.
+First, what I loved. The drawer. God, the drawer. He gave her the top one, the easy one, and folded his whole ordered self into the bottom one. No note, no speech. That is exactly the tenderness-and-control combination I came here for. Even his silence has care in it. I got the lump in my throat. And the mirror moment, where he looks at her mess on his clean counter and does nothing but kiss her shoulder, was lovely. Vee's "had he minded?" followed by the drawer reveal made the answer land hard.
 
-The drawers are what got me. She braces for him to have minded. Instead he gives her the top drawer, the easy one, and crams himself into the bottom. That is care without a speech. It's also the "he never says" pattern, and she's now decided to live on the doing and not the saying. She loves him, she said "Peter" to his sleeping back, and I'm terrified for that. It's sweet and it's a trap, because it's built on things he does and never says, and everything is secretly being relayed.
+"Peter," whispered to his sleeping back. She's said it where he can't hear it, and she loves him, and he has never said it. I'm in love with him too and I'm scared for her, because I know what's behind this house.
 
-I'm uneasy about how much she's telling him about Randi. It's harmless, but it's also feeding the loop. Nothing in this chapter is coercive, though. The only shadow is the missing word.
+Now the knife. Vee sits at his table and tells him all about Randi. The new friend, the brunch, "your name might come up," the goodbye kiss. She sells it to him as a funny story, and he mimes the cheek kisses. Then his grin leaves and something else is under it. I think that's the first time I've seen Pace nearly crack. And she doesn't read it at all. She heads straight to the kiss, "not that kind of French." She is handing him Randi's mouth, and he knows exactly whose mouth it is. I'm squirming. The dramatic irony is delicious and a bit sick.
+
+Also, Randi's "accent" is a detail I'll hold. And the brunch in ch 31, which I'm still chewing on: Vee stopped herself in the stall because of Randi's *look*, and Randi tasting nothing. This chapter opens with her telling Pace "we talk about boys" like it's innocent. Nobody has said the truth yet, and I want someone to.
+
+The gap is bothering me. It's been since ch 25 that Randi and Pace shared a room. I want them in one, now, with him saying something about that kiss. Also nothing about the scar or Daphne. Pleasant chapter, low on plot, but the drawer carried it.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was the warm, consensual, tender Pace I'm here for, and the drawer gesture is exactly the kind of care I trust. Her saying "Peter" to his sleeping back, plus "that kind of French" landing on a man who knows exactly who Randi is, has me desperate to see him and Randi in a room together again.
+WHY: The drawer is the exact tenderness I read for, and Vee telling Pace about Randi's kiss while his grin turned is a delicious knife. I'm desperate for Randi and Pace in a room together and for any crack in the lie.

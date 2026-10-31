@@ -334,3 +334,12 @@ close the subject.
   Re-read: the cruelty reading is gone; argon reads "genuine, heavy, bedroom
   heat." Sol (10) and opus nearly stopped on the line as *arousal at what she
   doesn't know* — the engine, intended. Stands.
+- **Weight paragraph (:69–71), 2026-10-31.** Readers split thriving / omen /
+  filler. Cut *"She'd lost some weight."* (read as reward or warning); moved the
+  last tomato into the eating paragraph (after the bras it read as
+  compensating); replaced *"worked up an appetite"* with the diet contrast and
+  *"there was always enough"*; the loss shows as *"Her bras had gone in a
+  hook."* Re-read: every reader mentioning it reads thriving (sol: "She is
+  learning that 'enough' can include her"; fable fsog, previously the omen
+  read: "a direction that isn't *hidden*"). Doubled *there was* at :69 acked.
+  Cause stays for {{Cropped}}.

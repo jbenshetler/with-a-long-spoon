@@ -333,11 +333,25 @@ text = "There was never a note."
 note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
 
 [[ok]]
+fp   = "667066b02a45"
+rule = "there-was-were"
+file = "scenes/above-him.md"
+text = "There was still a tomato on her plate."
+note = "author ack 2026-10-31: tomato line stands beside 'always enough'"
+
+[[ok]]
 fp   = "8e940c151737"
 rule = "there-was-were"
 file = "scenes/above-him.md"
 text = "There was everything of his, the blades and the comb and the rest, pressed in and fitted too tight together, made to share the one drawer that had been built to hold half of it."
 note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "c3d68b2a9bf0"
+rule = "there-was-were"
+file = "scenes/above-him.md"
+text = "She ate like a field hand at his table now, chicken piccata instead of cafeteria pizza, salmon instead of fries, water and wine instead of soda, and she kept eating until she'd had enough, and there was always enough."
+note = "author ack 2026-10-31: 'there was always enough' is the passage's high point (sol); doubled there-was stands"
 
 [[ok]]
 fp   = "7ef412ba7513"

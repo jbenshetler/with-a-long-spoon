@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4d9d8f78ec · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 4708cce761f3 · dated · 2026-10-31*
 
 REACTION
 
-God, my stomach hurts. I mean that literally. My stomach dropped so hard reading this that I felt sick.
+*Oh, my god.* My chest physically hurts. I am sitting here with my hand over my mouth because the dramatic irony is officially suffocating. It is breathtaking and it is sickening.
 
-The sheer *cruelty* of how good he is to her. That’s what makes this whole sick, twisted arrangement so unbearable—Pace isn’t a cartoon villain twirling a mustache. He’s doing the absolute real thing. He catches her at the door, spins her off her feet, lets her claw at him, and still takes an hour to make sure she comes twice before he even touches himself. He cooks her salmon with fresh dill and warm windowsill tomatoes. He folds his entire hyper-controlled, minimalist life in half—cramming his own razors and combs into a crowded bottom drawer—just to give her the top drawer. The easy one. The one your hand reaches for first.
+First of all: Vee casually leaning against his counter, drinking Greek wine in his shirt, telling him—*to his face*—about her wonderful new bestie Randi who kisses her on the mouth. *"She does this funny goodbye kiss she must have picked up there... No, on the mouth. And then she comes back and does it again."* AND HE GETS HARD. The absolute, unmitigated gall of Peter Pace! The man stands there with a spatula in his hand, keeping his back turned so she can’t see the calculation running across his face, and his cock literally responds to the confirmation that his two worlds are rubbing together. Vee thinks he’s getting turned on by the idea of "that kind of French," laughing like it’s a sexy little joke between lovers, completely blind to the fact that she just handed him the progress report on Randi’s trap. It’s monstrous. It’s so fucking hot and it makes me want to scream at her to run.
 
-*“He hadn’t told her it didn’t matter. He’d gone and made her a place instead.”*
+And then—the drawer.
 
-That line almost made me cry, and at the exact same second I wanted to scream at her to run for her life. Because it’s so tender, so completely earned on the surface, and it is built entirely on quicksand. Vee is standing there in his oversized robe, tucking her green polka-dot scrunchie into her hair, realizing she’s in love with him, whispering his real name while he sleeps... and meanwhile, she sat at his kitchen counter and chattered happily about her sweet new best friend Randi.
+This author knows *exactly* how to break a romance reader in half. The drawer is the ultimate, sacred romance trope. The man clearing out his razor and his comb, cramming his own hyper-organized life into the bottom compartment just so *she* has the top drawer—the easy one, the one your hand reaches for first—with her loose bobby pins gathered into a little dish? That is top-tier, five-star swoon material. If this were any other book, I would be melting into a puddle on the floor. I’d be screenshotting it to send to every romance group chat I’m in with crying emojis.
 
-*“She’s got this little accent... and she does this funny goodbye kiss she must have picked up there. No, on the mouth. And then she comes back and does it again.”*
+And that’s why it’s terrifying. Because Vee is standing there in his bathroom, feeling cherished, feeling *chosen*, letting herself finally whisper the word *love* into the dark while he sleeps—and it is all built on a fault line. He *does* care for her; you can feel the genuine tenderness in how he feeds her and makes space for her. He isn’t faking the domestic devotion. But he is letting her fall in love with a fantasy while he shares the reality with a woman who kisses Vee on the mouth and then goes home to plot. Giving her the top drawer while keeping her completely in the dark isn't just romantic—it’s an enclosure. He's cementing her inside his world without giving her a single honest word.
 
-Watching Pace hear that was chilling. He didn't drop the spatula, he didn't flinch—his brain just cataloged it, his cock got hard, and he smirked into the pan. He knows *exactly* what Randi is doing. He knows Randi is tasting Vee on Saturday and then riding him on Friday, and now Vee is sitting at his table describing Randi’s mouth on hers like it’s just quirky European girl behavior. It turned him on. He literally had an erection against her hand at the stove while she talked about Randi kissing her. The absolute nerve of him. The compartmentalization is psychopathic.
-
-And the time jump! Moving from November 6th to Friday the 13th—a whole week where Randi presumably saw Vee, or Pace saw Randi, or the gears kept grinding. Vee thinks she's moving in. She thinks giving a girl the top bathroom drawer means forever. The fall from this height is going to shatter her into a million pieces, and I cannot look away.
+The drop when this shatters is going to be fatal. I cannot look away.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
@@ -23,4 +21,4 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The contrast between Vee's genuine, heartbreaking love for him and the horrific trap she doesn't know she's in is peak psychological tension. The drawer gesture was breathtakingly romantic and completely terrifying.
+WHY: The sheer psychological tension of Vee describing Randi’s mouth-kisses to Pace while he gets hard at the stove, followed immediately by the gut-punch tenderness of the bathroom drawer, is masterclass storytelling. It’s so romantic it hurts, precisely because you know the bomb is ticking under the floorboards.

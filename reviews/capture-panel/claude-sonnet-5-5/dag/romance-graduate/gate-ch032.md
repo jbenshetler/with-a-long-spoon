@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4d9d8f78ec · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch032 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4708cce761f3 · dated · 2026-10-31*
 
 REACTION
 
-Okay, so that's what a bridge chapter looks like when it's trying to pass as a payoff. I was braced for the brunch fallout, and the book just skipped it. Randi's "Sticky fingers?" went off in ch31, and now we're a week later in bed with the wrong person. I'm annoyed, and I'm also impressed at how rude that is.
+This is a quiet chapter, and it's the second one in a row where the heat is somewhere else. Ch31 had the brunch confession and the bathroom stall. This one is salmon and drawers. I noticed that, and I'm not skimming yet. But I'm counting.
 
-The opening is warm and I liked it. The lift at the door and "they hadn't made the kitchen" both worked. But it's told in summary, "he'd been slow," "taken her again, on the couch." The heat is reported to me instead of happening in front of me. After the bathroom stall in ch31, that's a big step down. I wanted the sex on the page.
+What got me is that this chapter is the dramatic irony turned on its head. Vee sits at Pace's table and tells him about Randi. She says "kiss-kiss." She says Randi dresses beautifully. She laughs about the mouth kiss. He gives her the look from his bed, and she reads it as jealousy about French kissing. She's handing him material at his own stove, and he's playing the sweet, spatula-holding boyfriend. I read that scene half sick. He mimes the cheek kisses with his eyebrows up, and he knows exactly who she's talking about, because Randi lay on his chest and told him. The chapter doesn't say so, and I didn't need it to. That's the best thing in it.
 
-The kitchen scene is where I sat up, and it's all dramatic irony. Vee chats to Pace about Randi: the accent, the funny stories about boys, the goodbye kiss. "No, on the mouth." "Not *that* kind of French." Pace mimes the cheek kisses, then his grin leaves and he gets the look from his bed. I'm sure he's picturing Randi. She's feeding the man her best friend's mouth, and she's flirting with him about it. That's the book doing exactly what the jacket promised. Pace says nothing and Randi's name never gets said back to her, so I'm braced for it to land in a later chapter.
+Then there's "Peter," whispered to a sleeping man. She loves him, and she's decided she can live without the word. That hurt. The jacket promised me this, and it's landing. I'm furious at him and I ache for her. The line about living "clear inside the everything-he-did and not go hungry for the saying" is the self-deception I came for.
 
-"She loved him. He never said it." She whispers "Peter" at his sleeping back. That got me. It's tender, and I'm furious for her, because everything he did instead of saying it is a performance he's very good at. The "believe what he does" line from the jacket is now her whole religion. Then the drawer. He cleared a drawer for her and crammed his own things into the other one, and no note. It's lovely and it's a little sinister, because he did it without a word and she reads it as a vow. The scene is quiet and tender and I hate that I'm moved.
+The drawers are the strangest and best bit. He folds his whole ordered self into the bottom drawer and gives her the top one, and there's no note. It's tender, and it's also management by furniture. He never says it and he always shows it. I can't tell if I'm supposed to melt or shiver, and I think the answer is both. Honestly it's the first time he's felt like more than Randi's accomplice.
 
-Two things nagged. The chapter dips in and out of tenses and dates with no warning, and the "she'd lost weight" paragraph and the "a man might come back an hour later" line felt like filler. I also still don't know what happened between Vee and Randi after "Sticky fingers?" Ch31 ended on a kiss tasting of a pastry Vee never touched, and ch32 acts like it didn't happen. If that's deliberate, fine, but the second quiet chapter in a row is where I start counting, and I'm counting.
+What I missed: Randi. The brunch ended on that stolen glaze on Vee's lip, and I wanted her in this chapter. Vee barely thinks about the bathroom stall and what she nearly did. It's like it's been wiped off the counter. Cassie is mentioned in one line. And the sex is all summary. "He'd taken her again, on the couch." I came for the heat, and it's reported to me from a distance. That's the coy thing that makes me twitchy.
+
+The two-week jump with a dateline is fine. I get the shape. But if the next chapter is another domestic one, I'll be skimming.
 
 GATE 32 — Above Him
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 7
+NEXT: 6
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "By the time they got to supper she'd worked up an appetite." The sex was summarized and the chapter drifted into filler about her bras and the tomatoes.
-WHY: The kitchen scene, where Vee describes Randi's kiss to Pace and watches his face change, is the best dramatic irony in a while, and the drawer ending is quietly devastating. But the heat was told instead of shown, and the book skipped the brunch fallout I'd been waiting for.
+ROMANCE: 3
+ALMOST-STOPPED: "After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them." The sex arrives as a summary, in a book I'm reading for the sex.
+WHY: The stove scene, where she feeds him Randi while he plays dumb, is the best irony in the book so far. The drawer is a real turn in the bond. But it's a second low-charge chapter in a row, with the sex summarized and Randi absent, so I'm keen but on a short leash.

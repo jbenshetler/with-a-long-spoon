@@ -66,9 +66,9 @@ He laughed. Behind him the pan hissed, and she let him go.
 
 When he brought her plate he set it down with a hand still on her shoulder. "I hope you like it."
 
-She did. She'd eaten all of it. She ate like a field hand at his table now. Chicken piccata instead of cafeteria pizza, salmon with the tomatoes still warm from the sill, and she kept eating until she'd had enough. By the time they got to supper she'd worked up an appetite.
+She did. She'd eaten all of it. She ate like a field hand at his table now, chicken piccata instead of cafeteria pizza, salmon instead of fries, water and wine instead of soda, and she kept eating until she'd had enough, and there was always enough. There was still a tomato on her plate. She ate that too.
 
-Her bras had gone looser, the bands riding higher than they used to sit. The few good pairs of underwear, too. Those were the things that fitted her; everything else had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would. She'd lost some weight. There was still a tomato on her plate. She ate that too.
+Her bras had gone in a hook, the bands riding higher than they used to sit. The few good pairs of underwear, too. Those were the only things that fitted her; everything else had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would.
 
 After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them. There could be an *after*. A man might come back to her an hour later like she was something he'd been turning over the whole time the salmon cooked.
 
