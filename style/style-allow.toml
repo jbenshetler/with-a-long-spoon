@@ -1768,6 +1768,48 @@ text = "Sunday's bistro had a sun porch along its south side, a long room of gla
 note = "author re-accepted 2026-10-25 after 'Sunday's bistro' edit re-armed it"
 
 [[ok]]
+fp   = "43236c3e4c10"
+rule = "filter-verbs"
+file = "scenes/four.md"
+text = "He had the coffee made, hers poured black and waiting on the counter, and the pan heating for his eggs by the time he heard her stir."
+note = "author 2026-10-31: listening from the kitchen; earned"
+
+[[ok]]
+fp   = "bb83a61fcaae"
+rule = "filter-verbs"
+file = "scenes/four.md"
+text = "The tap ran, and stopped, and for a while after that he heard nothing at all."
+note = "author 2026-10-31: the silence needs a listener; earned"
+
+[[ok]]
+fp   = "c2c35cf1bc35"
+rule = "filter-verbs"
+file = "scenes/four.md"
+text = "Then she folded onto his chest, and he felt her shake, and then the wet at his neck."
+note = "author 2026-10-31: tactile, she is on his chest; earned"
+
+[[ok]]
+fp   = "c7c113b8212c"
+rule = "the-way"
+file = "scenes/four.md"
+text = "She was wet all the way, hot under his fingers, and she pressed down onto his hand and breathed out against his mouth, and still she had not said a word."
+note = "author 2026-10-31: 'wet all the way' stands"
+
+[[ok]]
+fp   = "5ab59e95f376"
+rule = "there-was-were"
+file = "scenes/four.md"
+text = "If there was a grief in it, he thought, it was a fair one, and it was his: he kept a thing of Vee's, and Randi had never once offered him anything to keep."
+note = "author 2026-10-31: Pace's half-read of the grief stands"
+
+[[ok]]
+fp   = "7c4d504befdb"
+rule = "warm"
+file = "scenes/four.md"
+text = "Her hand with the green in it stayed flat against his chest, and he could feel the satin there between her palm and his skin, already warm from her hand."
+note = "author 2026-10-31: the satin warm from Randi's hand, author's detail"
+
+[[ok]]
 fp   = "0b907300d44e"
 rule = "the-way"
 file = "scenes/gesso.md"

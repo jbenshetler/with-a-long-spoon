@@ -262,13 +262,13 @@ He was up before the light, as he always was, with the gym ahead of him, and she
 
 He looked up and she was in the hall at the bathroom door, naked, her hair down out of its tie and slept flat on one side. She looked down the length of the house at him and smiled, the sleepy one with nothing arranged in it, which he did not often get, and he smiled back. Neither of them said anything. Nothing wanted saying.
 
-She went in. He heard the door. Then the tap.
+She went in. The door. Then the tap.
 
 He put butter in the pan. The tap ran, and stopped, and for a while after that he heard nothing at all. Then the bathroom door again, and she came out and went on down the hall without a look toward the kitchen, and he leaned back from the stove to watch her go, the whole pale small length of her and the walk she had even half asleep, until she turned at the office and the corner took her. Then the second drawer down in the bedroom, which he knew by its sound.
 
 Then nothing, for longer than it took to find a shirt.
 
-He noticed the length of it. He cracked five eggs into the pan.
+He cracked five eggs into the pan.
 
 When she came back she was in one of his undershirts, and she had something in her hand, and it took three of her steps for him to know what it was. Deep green satin with dark lace. Its edges dangled from her clenched hand.
 
