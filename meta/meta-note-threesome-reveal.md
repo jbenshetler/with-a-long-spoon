@@ -218,11 +218,11 @@ She **integrates rather than breaks down** — a **half-minute of not breathing*
 
 - **Seen and left:** the **green sheets** (used, on the bed) and **Danaë** (on the wall) — her claim on his space and his claim on her body, both renounced (`meta-note-danae.md`).
 - **Realized and left:** the **two pairs of shoes** side by side — she realizes she wore both borrowed pairs to his house (→ the shoe motif).
-- **Unseen and kept:** the **green panties** in Pace's drawer, the one artifact he keeps (below).
+- **Kept:** the **green panties** at the bottom of Pace's undershirt drawer, the one artifact he keeps (below). Vee doesn't see them on her way out; Randi has found them (author ruling 2026-10-31, replacing *unseen*; scene and placement in workshop).
 
 She **closes the bedroom door** and walks out **barefoot to her Corolla.** **The friendship betrayal hits hardest** — harder than the romantic. She gives Pace and Randi nothing (she tells Cassie everything days later — the thesis scene).
 
-**The green thread converges here.** Green is Vee's interior color; at the climax the three green things distribute across the two who took her, each a different fate: **green sheets** (used, seen — her claim on his space, left); **green panties** (kept, unseen — Pace's, the one thing he keeps); **deep-green scrunchie** (stolen, seen — on Randi's wrist, the whole scrunchie-gaslight arc paid off in one image).
+**The green thread converges here.** Green is Vee's interior color; at the climax the three green things distribute across the two who took her, each a different fate: **green sheets** (used, seen — her claim on his space, left); **green panties** (kept — Pace's, the one thing he keeps); **deep-green scrunchie** (stolen, seen — on Randi's wrist, the whole scrunchie-gaslight arc paid off in one image).
 
 ### The panties (the ending object)
 

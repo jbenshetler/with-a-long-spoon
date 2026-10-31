@@ -1,6 +1,6 @@
 # Four
 
-*[VIGNETTE] · Pace's POV, close third · Monday night, mid-November · Pace's den. The woman is **Randi**; Vee does not appear — they talk about her.*
+*[VIGNETTE] · Pace's POV, close third · Monday night, mid-November · Pace's den; then the next morning, his kitchen and bed. The woman is **Randi**; Vee does not appear — they talk about her.*
 
 The deadbolt had gone over in the middle of the afternoon, before her coat was off, the way it always did. The house had been warm a long while by then; he had put the heat up a couple of hours ahead of her.
 
@@ -222,9 +222,7 @@ She stayed where she was, folded over the back of his couch. Then she said, into
 
 "More than three what?"
 
-"Nothing." She laughed, wrecked. "Nothing at all. It's a lot, though. For one day."
-
-He knew his own numbers the way he knew to the pound what he could get over his head, and by them this had been a good day, and he was not sorry to hear her counting out loud in his own house.
+She laughed, wrecked. "Of you in me. That's a lot, lover."
 
 "With the right encouragement," he said.
 
@@ -257,3 +255,69 @@ He thought about it, because she would know the difference.
 "You are extraordinary."
 
 "Mn," Randi said, in the voice she used when a thing had landed where she wanted it. Her hands stayed shut on his arm. She did not let go of it for a long time, and he lay there in the dark with the music going on in the front rooms and took her holding on for the compliment it was.
+
+---
+
+He was up before the light, as he always was, with the gym ahead of him, and she had morning class to be ready for. He had the coffee made, hers poured black and waiting on the counter, and the pan heating for his eggs by the time he heard her stir.
+
+He looked up and she was in the hall at the bathroom door, naked, her hair down out of its tie and slept flat on one side. She looked down the length of the house at him and smiled, the sleepy one with nothing arranged in it, which he did not often get, and he smiled back. Neither of them said anything. Nothing wanted saying.
+
+She went in. He heard the door. Then the tap.
+
+He put butter in the pan. The tap ran, and stopped, and for a while after that he heard nothing at all. Then the bathroom door again, and she came out and went on down the hall without a look toward the kitchen, and he leaned back from the stove to watch her go, the whole pale small length of her and the walk she had even half asleep, until she turned at the office and the corner took her. Then the second drawer down in the bedroom, which he knew by its sound.
+
+Then nothing, for longer than it took to find a shirt.
+
+He noticed the length of it. He cracked five eggs into the pan.
+
+When she came back she was in one of his undershirts, and she had something in her hand, and it took three of her steps for him to know what it was. Deep green satin with dark lace. Its edges dangled from her clenched hand.
+
+He looked at her face. She had washed it. Her eyes were very bright, gone liquid, and her mouth was set in a line he did not know.
+
+"Good morn—"
+
+She crossed the kitchen and kissed him before he had it out. It was not a good-morning kiss. She came up on her toes into him and kissed him hard and long with the hand that held the satin gone up into his hair, and when he put a hand to her waist she took his wrist with the other and moved it, down under the hem of the shirt and between her legs, and held it there. She had put his hands on her before, but never there. She was wet all the way, hot under his fingers, and she pressed down onto his hand and breathed out against his mouth, and still she had not said a word.
+
+He reached behind him without looking and turned off the burner.
+
+She took him by the wrist again and led him out of the kitchen and down the hall, and he went.
+
+In the bedroom she put him on his back and came over him in the shirt. He went to turn her under him, to start with his mouth where he always started, and she put a hand flat on his chest and pushed him back down. He tried again with his hand. She took it off herself and set it on her hip and held it there, and shook her head once, and he understood that he would be given nothing to do.
+
+She left the shirt on. To get it off she would have had to open her hand.
+
+So he let her. She took him in and rode him hard, without any of the talk she kept for his bed, nothing out of her but breath. Her hand with the green in it stayed flat against his chest, and he could feel the satin there between her palm and his skin, already warm from her hand. Vee's, between the two of them. He could not pretend it did nothing to him. She did not shut her eyes. She kept them on the wall above his head. She worked him without mercy and without pause, faster than he would have chosen, and he was nearly there when she went over ahead of him, with a sound he had never heard out of her, high and thin and drawn out a long way, nothing like the low one he knew. Her hand opened on his chest. He went after her.
+
+She stayed up over him a moment with her head down. Then she folded onto his chest, and he felt her shake, and then the wet at his neck.
+
+Some women cried after. He had known it a long time; it was the body putting down what it had been carrying, and it meant nothing, or nothing bad. He had seen her cry once, on the bench in the first month, the tears running sideways across her nose without her seeming to know they were there. This time she knew. The chill came for her on schedule and he got the blanket up over both of them and put his hand flat on her back, and under it she went on shaking.
+
+"Hey," he said. "Talk to me."
+
+She shook her head against him.
+
+"What is it?"
+
+"Nothing." It came out thick. Then she laughed, wet, and the laugh nearly came off. "I'm fine. It's hormones."
+
+He looked down at what he could see of her: the black hair, the edge of her cheek, the green gone loose between them against his ribs. He knew what lay there and he knew where she had found it. If there was a grief in it, he thought, it was a fair one, and it was his: he kept a thing of Vee's, and Randi had never once offered him anything to keep. He did not know what he would say to that if she said it. She did not say it.
+
+"Hormones," he said.
+
+"Mm-hm." She found his forearm and pulled it in tighter around her, and then tighter again.
+
+He let it be hormones.
+
+After a while she pushed up off his chest and put the hair back out of her face. "Go eat your breakfast," she said. "Go on. I have to get ready."
+
+He went. The eggs had sat half-cooked in the pan the whole time and were past saving. He scraped them into the trash and cracked the three he had left. He would be hungry long before lunch.
+
+She was a long time in the bedroom. Then the bathroom, and the tap, and after that longer still.
+
+She came into the kitchen dressed, made up and smiling. She dropped her bag on the chair by the door and came to him and kissed him with both hands on his face, long and thorough. She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it. Then she took up her bag, and the deadbolt drew back and the door shut behind her. Her coffee stood on the counter where he had poured it, untouched.
+
+The green was on the sheet where it had slid from her hand.
+
+He sat on the edge of the bed and folded it in thirds, the spot centered, as Vee had folded it the first night standing in his kitchen with the sheet on the floor around her feet. He held it a moment. Then he opened the second drawer, lifted the undershirts out, and laid it flat at the bottom where it had always been, and put the shirts back over it, squared.
+
+On his way back up the hall the bathroom door stood open, and Vee's drawer stood out from the cabinet an inch. He looked at it a moment. The house was old and shifted each autumn as the cold came into it; doors that had shut true in August stood off their latches now. He pushed it shut with two fingers and went on up the hall.

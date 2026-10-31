@@ -112,6 +112,10 @@ out to the **garage / woodshop** is off the kitchen itself — see Woodshop.)
 Off the foyer to the **left**; runs past the **bathroom** and the **office**, around a
 corner, to the **bedroom** at the back (`the-bench.md`). The bedroom is down the hall, not
 visible from the kitchen.
+**Stove-to-hall sightline (author ruling 2026-10-31):** a straight line of sight runs from
+the stove through the foyer and down the hall, so Pace at the stove sees the bathroom door
+and anyone in the hall up to the **right-hand turn at the office**, where the hall bends
+toward the bedroom ({{Four}}, the morning panel).
 
 ### His bedroom — the bench room `[PAGE]`
 **One room.** The **bed** and the **bench** are here; the whole bench scene plays out in
@@ -121,7 +125,7 @@ this single space (the bathroom is off the hall, not in the room). **There is no
 - A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
   **bedside table** (water bottle pre-staged for aftercare).
 - A **chair** he folds her clothes onto.
-- A **chest of drawers** `[PAGE]` — his clothes; the **white undershirts are in the second drawer down** ({{Gone}}: Randi *opened the second one down without looking for it*). Distinct from the bathroom drawer where his toiletries live (below).
+- A **chest of drawers** `[PAGE]` — his clothes; the **white undershirts are in the second drawer down** ({{Gone}}: Randi *opened the second one down without looking for it*). Vee's panties from the *"Trade."* ({{Famished}}) lie at the bottom of that drawer, under the undershirts (author ruling 2026-10-31). Distinct from the bathroom drawer where his toiletries live (below).
 - A **closet**; his **toy box** kept at the bottom, under the bottom shelf (`in-her-place.md`) — Randi's eyes go to it before the bench (`the-bench.md`).
 - Lit by **lamplight**, not overhead.
 - A framed **Klimt *Danaë* giclée** on the wall `[PLAN]` — Pace's summer gift to Vee, in a frame he built; hung here once his bedroom becomes theirs. Meaning and arc owned by `meta-note-danae.md`.
@@ -135,8 +139,9 @@ load-bearing small room (Vee uses it later too).
 - **Vee's top drawer** `[PAGE]` (canonical): gifted at {{Above Him}} (after {{We Find Out}}) —
   he consolidated his things to a lower drawer; the top one holds her form of
   scrunchies (deep green with white dots, chosen for her hair — gifted at {{We Find Out}}),
-  her pins, room to spare. **The drawer is hers; he never touches it** — the
-  founding act is the only time his hand changes its contents. Her loose nest of
+  her pins, room to spare. **The drawer is hers; he never opens it** — the
+  founding act is the only time his hand changes its contents. Found standing open, he
+  pushes it shut and leaves it at that ({{Four}}, the morning panel; author ruling 2026-10-31). Her loose nest of
   entropy inside his precise house, and the man whose domestic compulsion adjusts
   everything after she leaves never tidies this one drawer: visible restraint as
   unworded declaration. Vee's habit: scrunchies off the form, returns dropped
@@ -144,7 +149,9 @@ load-bearing small room (Vee uses it later too).
   Site of the spring gaslight grains.
 - **POV key** (canonical): this room and the drawer are on-camera **only in Vee's
   POV** from the fall onward (the Bench-night mirror predates the drawer). In
-  Pace-POV scenes the camera rides Pace and does not enter with anyone else. No
+  Pace-POV scenes the camera rides Pace and does not enter with anyone else. Pace sees
+  the bathroom door from the stove (the stove-to-hall sightline) and may see the drawer from
+  the doorway; that is not a POV breach (author ruling 2026-10-31). No
   staged "opportunity" beats anywhere in the house (chronology flag 15).
 - **Vee's mirror-time ritual:** washing her face, hair up at the sink — installed
   across the fall as domestic warmth; in spring the same container holds the

@@ -1,6 +1,6 @@
 # Condensed — Four
 
-*VIGNETTE · Draft complete · `four.md` · ~3,600 words · Pace POV, close third · Mon Nov 16 evening · Pace's den · present: Pace, Randi — Vee absent, discussed throughout*
+*VIGNETTE · Draft complete · `four.md` · ~3,600 words · Pace POV, close third · Mon Nov 16 evening → Tue Nov 17 morning · Pace's den; next morning his kitchen and bed · present: Pace, Randi — Vee absent, discussed throughout*
 *Craft companion: `meta-note-four.md`. Triage: `meta-triage-four.md`. Rejected alternate: `meta-alt-four-grooming.md`.*
 
 ## Summary
@@ -45,12 +45,42 @@ dodge; she gives him Saturday's new fact: *Vee wouldn't let it end. She came aft
 **Close.** Her alibi (*it's work, for the threesome*) is undone by his kindness, not a cut
 — *"You don't have to do it for me"* — and she comes on it. The fourth takes work from
 both of them; she sets the angle, goes over a second time, and that finishes him. Then the
-count she will not say aloud (*"That's more than three"*), his quiet pride (*"With the
+count she will not explain (*"That's more than three"* → *"Of you in me. That's a lot, lover."*), his quiet pride (*"With the
 right encouragement"*), and the admission that arrives unwrapped — *"I'm inspired by her
 … God, I want her"* — re-wrapped a beat too late as *"For us."* The chill, the blanket
 fetched before she asks, her answer to his pointing-game reading (*"You see more of me than
 anybody ever has … some nights it frightens me"*), his *"Then I'll be careful with you,"*
 and *"Say something nice to me."* He takes her grip on his arm for a compliment.
+
+**The morning (second panel, added 2026-10-31).** Tue Nov 17: he is up for the gym, she has
+morning class; her coffee poured black (she doesn't eat breakfast), five eggs in his pan.
+Naked at the bathroom door she smiles at him down the hall (the stove-to-hall sightline);
+the tap, a silence, and she goes on to the bedroom without looking toward the kitchen; the
+second drawer, then longer than it takes to find a shirt. She comes back in his undershirt
+with Vee's green panties from the *"Trade."* in her hand, eyes gone liquid, and does not
+speak: she kisses him with the satin hand in his hair, puts his hand between her legs
+(never there before), leads him to bed, refuses his mouth and his hand, keeps the shirt on
+(to take it off she would have to open her hand), and rides him with the satin flat between
+her palm and his chest, which he reads as Vee between them and cannot pretend does nothing
+to him. She comes ahead of him with a sound he has never heard from her, high and thin;
+her hand opens. Then she cries. He has seen her cry once, on the bench, *"This time she
+knew."* He asks (*"Talk to me"*); she gives him *"I'm fine. It's hormones,"* and pulls his
+arm tighter, twice, as the night before. He half-reads a fair grief (he keeps a thing of
+Vee's; Randi has never offered him anything to keep) and lets it be hormones. She sends him
+to his breakfast; the five eggs have spoiled and go in the trash; he cracks the three he
+has left, knowing he'll be hungry before lunch. She is a long time in the bedroom, longer in
+the bathroom, then comes out dressed, made up and smiling, drops her bag on the chair by
+the door and kisses him long with both hands on his face; he reads her as fired by the
+three of them, as he is, and as having come through whatever it was. Her coffee untouched.
+He folds the panties in thirds as Vee did and lays them back at the bottom of the drawer;
+Vee's bathroom drawer stands an inch open, which he puts down to the old house shifting
+each autumn, and pushes shut.
+
+**Author's design notes (2026-10-31).** Five eggs = the fifth time in the day, and the batch
+spoils; three is what he had with Vee, not enough, leaving him hungry, and the hunger
+eventually comes for him. The panel supplies the cause of the Pace/Randi silence that runs
+to {{My Pleasure}}. Pace never opens Vee's drawer; he closes it when he finds it open
+(`meta-plan-pace-house.md`).
 
 ## What only this chapter establishes
 
@@ -64,3 +94,8 @@ and *"Say something nice to me."* He takes her grip on his arm for a compliment.
 - That they had each other that **Monday morning** before she left for the eleven
   o'clock. Nothing else in the book states it; this chapter is where it is settled
   (author ruling 2026-10-10).
+- Randi finds Vee's panties at the bottom of the undershirt drawer (Tue Nov 17), and Pace
+  knows she found them; neither ever mentions it.
+- Pace sees Randi cry for the second time, and the first time it is grief; he accepts
+  *"hormones."*
+- Pace closes Vee's drawer when he finds it open, setting it down to the house.
