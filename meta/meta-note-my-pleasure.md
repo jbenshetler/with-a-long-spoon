@@ -79,3 +79,16 @@ is withheld, and Pace reads the look without assembling it. The paragraph ends o
 by ruling: *"She was here. He would not spend it on a question"* was cut as telling after
 showing. Guard: canon has Randi coordinating visits around Vee's schedule, so do not write
 that she "never asked" before.
+
+## Protected positive (author ruling 2026-11-01)
+
+- **"Look at you, using me like your fuck doll."** Keep it. This is Randi's armour at full
+  strength (crude self-objectification, said sweetly), and the chapter erodes it until she
+  *"lose[s] every polished defense"* over Vee. Praised or read as working by sol (cold read),
+  deepseek (cold read: *"starts as performance… then the performance erodes, exactly where it
+  should"*), glm in both personas, and fable fsog-refugee. Fable romance-graduate's ch57 gate
+  uses it as the measure for Pace's blush at Sheri. The objection is 4 Anthropic gates (opus
+  and fable romance-graduate, sonnet in both personas). Three of those resolve into
+  acceptance; only sonnet romance-graduate holds (*"genre autopilot"*). Rejected softer
+  options: *"Use me however you want"* and *"Move me for your pleasure"*. Both shorten the
+  distance the erosion travels and leave her voice. Do not re-flag it on a flinch.
