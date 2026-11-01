@@ -239,7 +239,7 @@ run, not as stale. They are not re-read automatically and should not be.
 
 ## Step 5 — Read out and report
 
-Run `tools/capture_stats.py` (`--chapters A-B` to zoom, `--persona`/`--model` to
+For a **re-read of a revised chapter**, run `tools/capture_delta.py --chapter <N>` first: it tests the panel's paired change against a measured, baseline-conditioned null from git (SPEC rule 3b) and says whether the edit moved the panel. For a reading of the volume, run `tools/capture_stats.py` (`--chapters A-B` to zoom, `--persona`/`--model` to
 scope) and follow its discipline:
 
 1. **Raw CAPTURE is not comparable across lanes** — measured lane offset on

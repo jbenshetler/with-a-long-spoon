@@ -320,16 +320,23 @@ reads closest to the author's own read of chapters. `gpt-5.6-sol` is a fair read
 models read as readers who wouldn't pick up this kind of book; weigh their complaints
 about appetite and register accordingly (craft and trust complaints still count).
 
-**3b. Re-read significance is a panel-mean question (author ruling 2026-10-31).** A
-±1 move on one (model, persona) lane is noise. A move in the **panel's paired mean** is
-not, and it can be significant well under one point. For a re-read, compute the paired
-change per lane (new − old, lanes that read the chapter both times; first reads excluded),
-then mean change ÷ (SD of changes / √n). Treat **> 2** as significant, and report the
-up/down count beside it (a sign test). Worked case, ch36 Four's morning panel: n = 12,
-CAPTURE +0.08 (SD 0.51, SE ≈ 0.15), NEXT +0.17 (SD 0.58): not significant; the bar there
-was ≈ 0.3, roughly 4 of 12 lanes moving one point the same way. **Ceiling caveat:** a
-chapter already near 10 cannot show a gain; "no significant change" there means the
-revision cost nothing, not that it added nothing.
+**3b. Re-read significance: run `tools/capture_delta.py --chapter N` (author rulings
+2026-10-31, revised 2026-11-01).** A ±1 move on one (model, persona) lane is noise; the
+question is whether the panel moved more than chance allows, and chance is MEASURED: git
+holds 370 test-retest pairs (same gate, same prose-sha, same prompt-sha), and drift depends
+on the old score (from 10 a lane drops ~1 re-read in 4 by chance; from 8 it rises ~1 in 3;
+regression to the mean plus the ceiling). The tool conditions each lane's null on its old
+score and model (shrunk toward the pool), and reports: the **exact test** (per-lane nulls
+convolved; one-sided P; verdict improved / held against expected slippage / dropped /
+noise, α = 0.05), a **grid posterior** (P(improved) and the effect in points per lane,
+90% interval), a **bootstrap band** on P over resampled null pairs, and a **model-clustered**
+check (personas are not independent). First reads and lanes not re-read are excluded.
+Reactions are listed, not scored; rule 3a's lane weighting is a separate read and never
+mixed into the numbers. The earlier paired t-test is retired: it ignored the baseline and
+got ch36 wrong (called noise; the exact test gives P = 0.011, the panel held a near-ceiling
+chapter against expected slippage). Worked results 2026-11-01: ch56 first arrival edit
+improved (P < 0.001, P(improved) 0.98); its revision −3 against an expected −2.0 is noise
+(P = 0.36); ch45 and ch46 plants, noise.
 
 **4. An ALMOST-STOPPED attached to a high score is the single most valuable datum
 the instrument produces** — no survivorship bias: the book held the reader
