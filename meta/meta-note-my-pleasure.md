@@ -61,3 +61,17 @@ Canon has Randi’s sex with Pace running “over a wire that includes Vee” (t
 - **Same-night triptych:** {{A Clean Plate}} (Vee/Randi dinner) → {{The Reach}} (Vee alone) → My Pleasure (Randi/Pace). Vee reaches alone under Pace’s name while Randi rides Pace talking about Vee — the two women wanting, apart. Cf. the {{Old Acquaintances}}/{{Fairytale}} same-night parallel in Volume Two.
 - **Intel boundary:** only the ratified neck rung from {{A Clean Plate}} enters Randi’s report. Vee’s questions about tasting herself inform the reader’s immediate wet-kiss contrast but remain unspoken here; Vee’s later near-reach in {{The Reach}} remains private.
 - **Randi’s fixation ladder:** **breasts** (here) → **mouth** ({{For You}}) → **taste** ({{Scalding Jealousy Ignition}}). Both women arrive at taste last, from opposite directions: Vee inward through shame, Randi outward through appetite. See `meta-note-for-you.md` for the mouth rung and staircase crack, and `meta-plan-satc-tracks.md` and `meta-plan-spring.md` for the warm echoes. The eyes-before-hands rule remains intact.
+
+## The arrival (author, 2026-11-01)
+
+At the `:79` lull, before *"I miss her during the day"*, there is one recalled paragraph.
+Randi called that afternoon, the first time since {{Four}}'s morning, when she cried. All
+she said was *"I want to see you. Can I come over?"* At the door she threw the deadbolt.
+When he opened his mouth to ask, she put a finger to her lips and stood smiling gently,
+looking at him *"as if she were seeing him anew,"* for most of a minute, then kissed him.
+This pays off {{The Usual}}'s *"When she was ready, she would call. If she was."* The look
+is the Randi-loves-Pace deck, shown before *"She's not the only one in love."* Her interior
+is withheld, and Pace reads the look without assembling it. The paragraph ends on the kiss
+by ruling: *"She was here. He would not spend it on a question"* was cut as telling after
+showing. Guard: canon has Randi coordinating visits around Vee's schedule, so do not write
+that she "never asked" before.
