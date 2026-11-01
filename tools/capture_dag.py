@@ -530,6 +530,10 @@ def main() -> None:
         list(pool.map(lambda t: one(*t), readers))
 
     print("\n".join(results))
+    if args.fresh:
+        print(f"\nRe-read done. Before committing these gates, run "
+              f"`tools/capture_delta.py --chapter {args.to}` (SPEC rule 3b) and report it.",
+              flush=True)
     if failures:
         print("failures:")
         for f in failures:

@@ -192,6 +192,13 @@ commits. Retrieve a prior read with `git show <rev>:<path>` and compare with
 `git diff <rev> -- <path>`. Do not create `archive/` copies — they duplicate
 history and clutter every persona directory.
 
+**Then, before committing the gates, run `tools/capture_delta.py --chapter <N>`**
+(required for every re-read; SPEC rule 3b). With uncommitted gates it compares them with
+HEAD. It tests the panel's paired change against a measured null and gives, per metric,
+the verdict, the one-sided p-value, the probability the edit improved the chapter, and
+the effect in points per lane. Report those four in the read-out, before the reactions.
+The harness prints this reminder at the end of every `--fresh` run.
+
 Note the re-read is only a true before/after for readers that
 had *already* reached N; for readers caught up from behind it is a first read,
 and the difference must be stated in the report. Gates *after* N are now stale
