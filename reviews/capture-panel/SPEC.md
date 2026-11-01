@@ -1417,5 +1417,13 @@ admitted 231 (47 four-way, 80 three-way, 104 two-way), 1,894 words; POV consensu
 chapters; audit 248 FACT / 1 INFERENCE / 1 TRIM / 1 UNSUPPORTED of 251 sentences. Paid:
 argon $0.38 over two runs, glm $0.04. The auditor once escaped quote marks inside its quotes
 (`\"Red,\" she said`) and 19 true facts failed verification until the matcher stripped
-escapes. Open: the audit drops two-model knowledge-gap claims ("Vee does not know that Pace
-and Randi planned his approach") as INFERENCE.
+escapes. **Knowledge-gap rule B (author ruling 2026-11-01).** The page shows an event without a
+character present; "X does not know" is a deduction, so the audit labels it INFERENCE, yet it
+is the dramatic irony the reader carries ("Vee does not know that Pace and Randi planned his
+approach", written independently by sol, argon and glm). In a consensus artifact a KNOW claim
+the audit calls INFERENCE is kept when (1) ≥ 2 slots wrote it, (2) its quote is on the page,
+and (3) it is in plain knowledge form — "X (and Y) does not know / knows / knew / was not told
+/ thinks / believes / assumes", checked by code (`checkpoint_audit.KNOWLEDGE_FORM`). The form
+check keeps readings out: "Randi will never know", "Retellings drift", "The reader suspects…"
+do not match. UNSUPPORTED and CONTRADICTED are never kept. Single-model checkpoints stay
+strict (no slot support exists there).

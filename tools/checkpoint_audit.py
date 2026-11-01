@@ -217,6 +217,35 @@ def run_audit(ck: Path, auditor: str | None = None, force: bool = False) -> dict
         return doc
 
 
+# Knowledge-gap rule B (author ruling 2026-11-01). The page shows an event without a
+# character present; "X does not know" is a deduction, so the audit calls it INFERENCE —
+# but it is the dramatic irony a reader carries. In a consensus artifact, such a claim is
+# kept when >= 2 slots wrote it independently with a verified quote AND it is in plain
+# knowledge form. The form check is what keeps readings out: predictions ("will never
+# know"), generalisations ("Retellings drift") and reader talk ("The reader suspects")
+# do not match. UNSUPPORTED and CONTRADICTED are never overridden.
+KNOWLEDGE_FORM = re.compile(
+    r"^[A-Z][\w'’-]+(?:\s+and\s+[A-Z][\w'’-]+)?\s+(?:already\s+|still\s+|now\s+)?"
+    r"(?:(?:does|do|did)\s+not\s+know|(?:doesn't|don't|didn't)\s+know|knows|know|knew|"
+    r"(?:was|were|is|are)\s+not\s+told|(?:does\s+not|doesn't|did\s+not|didn't)\s+realize|"
+    r"thinks|believes|assumes)\b")
+
+
+def knowledge_keeps(ck: Path) -> set[str]:
+    """Normalised texts of consensus KNOW claims that rule B keeps (empty if `ck` is
+    not a consensus artifact)."""
+    side = ck.with_suffix(".json")
+    if not side.exists():
+        return set()
+    try:
+        doc = json.loads(side.read_text(encoding="utf-8"))
+    except ValueError:
+        return set()
+    return {norm(c["text"]).rstrip(".") for c in doc.get("admitted", [])
+            if c.get("section") == "KNOW" and len(c.get("support", [])) >= 2
+            and KNOWLEDGE_FORM.match(c["text"].strip())}
+
+
 def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
     """(fact-only text, note). With an audit, only FACT sentences survive; without
     one, the fact sections are kept whole (and the note says so)."""
@@ -226,7 +255,11 @@ def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
     # to how lines are split can't move a label onto the wrong sentence.
     keep, trims = None, {}
     if audit and audit.get("checkpoint_sha256") == sha(raw):
-        keep = {norm(u["text"]) for u in audit["units"] if u["final"] in ("FACT", "TRIM")}
+        rule_b = knowledge_keeps(ck)
+        keep = {norm(u["text"]) for u in audit["units"]
+                if u["final"] in ("FACT", "TRIM")
+                or (u["final"] == "INFERENCE" and rule_b
+                    and norm(u["text"]).split(" (ch")[0].rstrip(".") in rule_b)}
         trims = {norm(u["text"]): u["kept"] for u in audit["units"] if u["final"] == "TRIM"}
     out, k, section, dropped = [], 0, None, 0
     for r in rows:
