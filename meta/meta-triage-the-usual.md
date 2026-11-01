@@ -144,3 +144,13 @@ double read all landed as designed across all four models.
 - **Style acks recorded** in `style/style-allow.toml`: "She watched him" (l.53 — the
   scrutiny is the beat), three literal `the-way` uses (extent, not the tic), three
   load-bearing `warm` uses (the fog/warm-cold frame).
+
+## Protected positives (author ruling 2026-11-01)
+
+- **"He had hurt her because he was afraid of how much she could hurt him."** Keep it. In
+  the capture panel (2026-11-01, plus fable's earlier round), 8 gates across 6 models praise
+  it or quote it approvingly. glm called it *"the worst true thing in the whole book… I put
+  the book down"*, and argon *"everything I read this genre for"*. Sol, opus, glm and sonnet
+  carry it in their ck-ch050 memory, and three volume records quote it. The objection
+  (*"answer key"*, *"case file"*) comes from 3 gates, all Anthropic and all romance-graduate:
+  opus and sonnet as ALMOST-STOPPED, and fable. Do not re-flag it on that complaint.

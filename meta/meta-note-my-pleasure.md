@@ -65,9 +65,13 @@ Canon has Randi’s sex with Pace running “over a wire that includes Vee” (t
 ## The arrival (author, 2026-11-01)
 
 At the `:79` lull, before *"I miss her during the day"*, there is one recalled paragraph.
-Randi called that afternoon, the first time since {{Four}}'s morning, when she cried. All
-she said was *"I want to see you. Can I come over?"* At the door she threw the deadbolt.
-When he opened his mouth to ask, she put a finger to her lips and stood smiling gently,
+Randi called late, after the dinner with Vee ({{A Clean Plate}}), the first time since
+{{Four}}'s morning, when she cried. All she said was *"I want to see you. Can I come over?"*
+The call is unplanned, so it is a leak: two hours across from Vee, and her hunger or love
+beats her pride (author, 2026-11-01; an afternoon call read as premeditation). At the door
+she threw the deadbolt and said quietly *"Where have you been?"* He has been home the whole
+time; she is the one who went missing. The irony is left unspoken.
+When he opened his mouth to answer, she put a finger to her lips and stood smiling gently,
 looking at him *"as if she were seeing him anew,"* for most of a minute, then kissed him.
 This pays off {{The Usual}}'s *"When she was ready, she would call. If she was."* The look
 is the Randi-loves-Pace deck, shown before *"She's not the only one in love."* Her interior

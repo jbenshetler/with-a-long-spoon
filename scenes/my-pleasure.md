@@ -78,7 +78,7 @@ His grip tightened. He lifted her higher and brought her down hard enough to pul
 
 For a while, neither of them spoke.
 
-She had called that afternoon, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" At the door she had thrown the deadbolt, as she always did. When he opened his mouth to ask, she put a finger to her lips. Then she stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
+She had called late, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" At the door she threw the deadbolt, as she always did, and turned to him and said, quietly, "Where have you been?" When he opened his mouth to answer, she put a finger to her lips. Then she stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
 
 “I miss her during the day,” Randi said. “More at night.”
 
