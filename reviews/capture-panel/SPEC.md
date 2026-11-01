@@ -320,6 +320,17 @@ reads closest to the author's own read of chapters. `gpt-5.6-sol` is a fair read
 models read as readers who wouldn't pick up this kind of book; weigh their complaints
 about appetite and register accordingly (craft and trust complaints still count).
 
+**3b. Re-read significance is a panel-mean question (author ruling 2026-10-31).** A
+±1 move on one (model, persona) lane is noise. A move in the **panel's paired mean** is
+not, and it can be significant well under one point. For a re-read, compute the paired
+change per lane (new − old, lanes that read the chapter both times; first reads excluded),
+then mean change ÷ (SD of changes / √n). Treat **> 2** as significant, and report the
+up/down count beside it (a sign test). Worked case, ch36 Four's morning panel: n = 12,
+CAPTURE +0.08 (SD 0.51, SE ≈ 0.15), NEXT +0.17 (SD 0.58): not significant; the bar there
+was ≈ 0.3, roughly 4 of 12 lanes moving one point the same way. **Ceiling caveat:** a
+chapter already near 10 cannot show a gain; "no significant change" there means the
+revision cost nothing, not that it added nothing.
+
 **4. An ALMOST-STOPPED attached to a high score is the single most valuable datum
 the instrument produces** — no survivorship bias: the book held the reader
 completely and still nearly lost her, at a line she will quote. Five readers

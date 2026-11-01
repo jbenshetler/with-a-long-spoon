@@ -16,9 +16,9 @@ He waited.
 
 It started again in him, low, with the whole evening to get where it was going.
 
-He had never seen the room. He had seen the morning — in her an hour before she left, and then her up on her toes at his bathroom mirror with her hair in her hands and her pins out of the drawer he had given her on Friday. The dark green she had stepped into while he watched. Then gone, out the door with it still wet.
+He had never seen the room. He had seen the morning — in her an hour before she left, and then her up on her toes at his bathroom mirror with her hair in her hands and her pins out of the drawer he had given her on Friday. The black she had stepped into while he watched. Then gone, out the door with it still wet.
 
-And then a bright room at eleven o'clock, the professor talking, and Vee in the middle of it scrubbed pink to the shoulders and leaking quietly into the green, writing it all down, and knowing what it was every time she shifted in her seat.
+And then a bright room at eleven o'clock, the professor talking, and Vee in the middle of it scrubbed pink to the shoulders and leaking quietly into the black, writing it all down, and knowing what it was every time she shifted in her seat.
 
 "What did you do?"
 
@@ -270,7 +270,7 @@ Then nothing, for longer than it took to find a shirt.
 
 He cracked five eggs into the pan.
 
-When she came back she was in one of his undershirts, and she had something in her hand, and it took three of her steps for him to know what it was. Deep green satin with dark lace. Its edges dangled from her clenched hand.
+When she came back she was in one of his undershirts, and she had something in her hand, and it took three of her steps for him to know what it was: the panties Vee had handed him the first night. Deep green satin with dark lace. Its edges dangled from her clenched hand.
 
 He looked at her face. She had washed it. Her eyes were very bright, gone liquid, and her mouth was set in a line he did not know.
 
