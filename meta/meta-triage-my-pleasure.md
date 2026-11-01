@@ -14,3 +14,30 @@
   acceptance; only sonnet romance-graduate holds (*"genre autopilot"*). Rejected softer
   options: *"Use me however you want"* and *"Move me for your pleasure"*. Both shorten the
   distance the erosion travels and leave her voice. Do not re-flag it on a flinch.
+
+## Telling-after-showing pass (author rulings 2026-11-01)
+
+After the ch56 capture re-read. Cut lines had no praise in reviews (praise_check).
+
+**Cut:**
+- *"…breast still in her own hand, as if the wanting could cross through the body she offered
+  him."* The clause is Pace assembling the proxy (he catches signals, assembles none), and the
+  dialogue already shows it (*"Her breast in my hand… And her nipple in my mouth"*). Sol's
+  "erotic peak" praise is for the beat, which survives.
+- *"her mouth stayed open around Vee's name without saying it"* became *"her mouth stayed open,
+  saying nothing."* Pace can't know which name she is holding back, and a sonnet gate called it
+  "on the nose."
+- *"Randi saw."* before *"Her eyes stayed on the softness in his face."* It named what the next
+  sentence shows. Argon quotes the passage; the rest of it stands.
+- *"Vee's name stayed in the room between their breathing. The open sentence stayed with it."*
+  This was narrator commentary after the line had landed.
+- *"The warmth in him changed shape."* This was narration: an abstract summary of his state,
+  not something he would feel. His flat *"She hasn't said it"* and the softening face carry it.
+
+**Kept:**
+- *"Randi gave him no smile and no rescue from the sentence."* It is Pace's experience, since he
+  is the one left without rescue, and it shows her making him sit in the sentence.
+- *"…when cleanup no longer named what she was doing."* It is Pace's dry noticing, in the
+  register of *"Subtle." / "Elegant."* (he plays).
+- *"gingerly, without her usual authority"* (the arrival). It is Pace's memory of her usual
+  entrance, which "gingerly" cannot carry alone.

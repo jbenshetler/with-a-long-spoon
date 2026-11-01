@@ -78,7 +78,7 @@ His grip tightened. He lifted her higher and brought her down hard enough to pul
 
 For a while, neither of them spoke.
 
-She had called late, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" At the door she threw the deadbolt, as she always did, and turned to him and said, quietly, "Where have you been?" When he opened his mouth to answer, she put a finger to her lips. Then she stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
+She had called late, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" She had come in gingerly, without her usual authority, and stopped just inside, and only then had she reached back and thrown the deadbolt. "Where have you been?" she whispered. When he opened his mouth to answer, she laid two fingers against it. She stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
 
 “I miss her during the day,” Randi said. “More at night.”
 
@@ -142,7 +142,7 @@ Her nipple slipped from his lips. She drew it back.
 
 He sucked.
 
-Her body locked around him. Pace held her through the first contraction and moved her into the next. She came with a broken sound, breast still in her own hand, as if the wanting could cross through the body she offered him.
+Her body locked around him. Pace held her through the first contraction and moved her into the next. She came with a broken sound, breast still in her own hand.
 
 He kept his mouth on her until the last contraction loosened.
 
@@ -186,7 +186,7 @@ Her eyes closed. When they opened, the answer had stripped the humor from her fa
 
 Pace’s control broke.
 
-He drove her down as he thrust up, once, then again. Randi held his gaze and let him take the pace harder. Her breasts lifted with every stroke; her mouth stayed open around Vee’s name without saying it.
+He drove her down as he thrust up, once, then again. Randi held his gaze and let him take the pace harder. Her breasts lifted with every stroke; her mouth stayed open, saying nothing.
 
 His body gathered beneath her. Randi felt it and gave him more of her weight.
 
@@ -202,15 +202,13 @@ Then his chest. She took one hand from her waist and kissed the center of his pa
 
 “You know she loves you, right?”
 
-The warmth in him changed shape.
-
 “She hasn’t said it.”
 
 “She doesn’t have to.”
 
 His face softened before he could do anything about it.
 
-Randi saw. Her eyes stayed on the softness in his face.
+Her eyes stayed on the softness in his face.
 
 “She’s not the only one in love.”
 
@@ -218,7 +216,7 @@ Pace looked at her. He couldn’t tell her she was wrong.
 
 Randi gave him no smile and no rescue from the sentence. Her thumb moved once over the center of his palm.
 
-She moved once in the hold of his other hand. Her nipple brushed his chest, still wet from his mouth. Vee’s name stayed in the room between their breathing. The open sentence stayed with it.
+She moved once in the hold of his other hand. Her nipple brushed his chest, still wet from his mouth.
 
 He thickened inside her.
 

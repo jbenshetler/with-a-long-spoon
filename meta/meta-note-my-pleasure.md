@@ -68,11 +68,18 @@ At the `:79` lull, before *"I miss her during the day"*, there is one recalled p
 Randi called late, after the dinner with Vee ({{A Clean Plate}}), the first time since
 {{Four}}'s morning, when she cried. All she said was *"I want to see you. Can I come over?"*
 The call is unplanned, so it is a leak: two hours across from Vee, and her hunger or love
-beats her pride (author, 2026-11-01; an afternoon call read as premeditation). At the door
-she threw the deadbolt and said quietly *"Where have you been?"* He has been home the whole
-time; she is the one who went missing. The irony is left unspoken.
-When he opened his mouth to answer, she put a finger to her lips and stood smiling gently,
-looking at him *"as if she were seeing him anew,"* for most of a minute, then kissed him.
+beats her pride (author, 2026-11-01; an afternoon call read as premeditation). She came in gingerly, without her usual authority, stopped just inside, and only then
+threw the deadbolt. Her signature habit comes late, after she is sure she is staying. She
+whispered *"Where have you been?"* He has been home the whole time; she is the one who went
+missing. The irony is left unspoken.
+When he opened his mouth to answer, she laid two fingers against it. Their first touch in
+nine weeks closes his question, and her fingers stay there through the look: she stood
+smiling gently, looking at him *"as if she were seeing him anew,"* for most of a minute,
+then kissed him. Revised after the 2026-11-01 ch56 capture re-read. glm fsog-refugee read
+the first version (said quietly, a finger to her own lips, a confident entrance) as *"the
+cruelty version of the con."* The gingerly entrance and the whisper are the fix. Sonnet
+romance-graduate lost the flashback when its past perfect lapsed, so the entrance keeps
+*had*.
 This pays off {{The Usual}}'s *"When she was ready, she would call. If she was."* The look
 is the Randi-loves-Pace deck, shown before *"She's not the only one in love."* Her interior
 is withheld, and Pace reads the look without assembling it. The paragraph ends on the kiss

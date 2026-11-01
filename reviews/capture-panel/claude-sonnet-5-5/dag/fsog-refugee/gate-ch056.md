@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch056 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 66512bb29767 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch056 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a91977d2c49a · dated · 2026-11-01*
 
 REACTION
 
-Oh. Oh, this one rearranged my stomach. We finally get Randi and Pace in a bed after twenty chapters of waiting, and they spend it talking about Vee. That's exactly what I was hungry for, and it's also unnerving.
+Oh. Oh, *that's* the third game. The jacket said I didn't know there were three, and I get it now, because this chapter is Randi and Pace in bed, using Vee as the fuel. I waited twenty chapters for them to be in a room together, and what I got was a warm-up for something I'm not sure I'm allowed to like.
 
-The unsettling part is that Pace asks Randi about the neck kiss and goes straight to "Why didn't you turn around?" He wants her to want Vee, he's pleased by it, and he says "She makes me happy." Meanwhile Vee is in a dorm room, unable to taste her own fingers, with no idea she's the subject of this conversation. The dramatic irony works as a pleasure and also makes me feel a bit sick. I'm a little worried for Vee. They talk about her like an object they share, and she's the one person not in the room. I don't think they mean harm. Randi's "I want her to know exactly what she does to me" is the most honest line she's said, and she sounds wrecked saying it. But I notice how comfortable they are with the secret. The jacket said they chose her together, and this reads as co-ownership more than I'd like.
+The heat works, I'll admit that. The "my turn" lift, the slow lowering, the "I heard you." Pace stays in charge and keeps asking, and she keeps answering. That's the control-that-makes-room I came for. The two of them are good together. There's real play in it, the "subtle" and "elegant" and "I value your professional opinion." They like each other. That's the warmest thing in the chapter.
 
-What kept me in is the tenderness. "You know she loves you, right?" is Randi handing him the thing he can't say. "She's not the only one in love" stopped me, because he can't tell her she's wrong. That's a man who can't say the words and gets said to anyway. I want Pace to say it to Vee. I want it so badly I could scream.
+But then I sat there thinking about Vee. Three nights ago she came in that booth with her whole body open and told Randi about the taste, and Randi said "I don't" and "it turned me on." I thought that was a friend being generous. Now I'm watching Randi go home and *lick Pace clean* right after, and I want to throw the book. The wet kiss was Vee's sharp-salt question from ch 48, and this is the answer: it was Randi on his mouth. He's been kissing Vee with Randi on him. I'm sick about that and I can't look away from it.
 
-The sex was hot, and it was consensual in a way I recognize: "My turn," "I said all right," and she takes control back without any fuss. The "fuck doll" line made me flinch, but she says it herself, playing, and he tightens and she's fine. I'll accept it.
+And "She kissed my neck again" told to the man while he's inside her. "You like hearing me want her." "Yes." Pace says it flat. I don't love how they talk about her like a shared appetite while she's across campus smelling her own fingers. Randi's the one telling him "you know she loves you, right," and "she's not the only one in love." It's tender, and it turns my stomach. Neither of them is telling her. They both know exactly what they're doing, and the coat, the heels, "no words" all come back around.
 
-I'm tired of the mouth-taste mirroring. The whole book keeps landing on it, though here it at least paid off. Randi licking herself off his mouth against Vee's "gross" is deliberate and a little cruel to Vee. But it's the first time Randi has been in a room with Pace, and I didn't want it to end.
+The "fuck doll" line from Randi, sweetly, sat strange too, but he tightened his grip and she liked it, and I let it pass.
+
+I'm angry and I'm hooked. I want Vee to find out, and I want it to be soon and not cruel.
 
 GATE 56 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Look at you, using me like your fuck doll." (a flinch, but it's her own game and he checks nothing, so I let it go)
-WHY: At last Randi and Pace are alone, and the real subject is Vee, who doesn't know, and "She's not the only one in love" is the turn I wanted. I'm uneasy about how comfortably they discuss her, but the care between those two is real, so I'm in for the next one.
+ROMANCE: 2
+ALMOST-STOPPED: "I better clean up that mess before you stick it inside me." (Vee is across campus not knowing, and Randi's licking the evidence off him.)
+WHY: This is the chapter I'd been hungry for since ch 36, and it pays off the taste mystery in the worst, best way. The consent between the two of them is clean and warm. The discomfort is about Vee, who's being talked about while she lies in the dark, and that's why I'm reading on.

@@ -1,24 +1,16 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 66512bb29767 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a91977d2c49a · dated · 2026-11-01*
 
-REACTION
+REACTION — Oh, this is vicious. It is unbelievably hot, and I feel sick for Vee.
 
-Oh, this is *filthy* in exactly the way I wanted—and morally appalling in exactly the way I feared.
+Randi tasting herself from Pace’s mouth without hesitation—then licking their combined mess off him and carrying both of them back into the kiss—is exactly the answer to Vee lying alone one breath away from her own fingers. Vee is trying to cross that distance by herself while these two are already living on the other side of it together. That parallel nearly took my head off. The explicitness absolutely delivered, but none of it felt detachable from who they are or what they’re hiding.
 
-The opening answered Vee’s unfinished reach so explicitly I nearly yelled. There is Randi doing without hesitation the thing Vee could bring herself within one breath of doing, taking her own taste from Pace’s mouth and then making it “mutual.” And then cleaning both of them from his body, tasting the mixture, carrying it back into his mouth. So now I know precisely what Randi meant by powerful. Vee spent the previous chapter alone, ashamed of the physical evidence of her own wanting, opening the window to erase herself; Randi is here looking directly at the mess, laughing, naming it elegant, and turning it into more pleasure. That contrast is brutally hot and genuinely painful.
+And then they put Vee inside the sex. Not vaguely. Her kisses, her neck, her breasts, her nipple in Randi’s mouth. Pace likes hearing Randi want her because Vee makes him happy. Randi comes imagining touching her. Pace loses control when Randi says she wants Vee to know what she does to her. This is the triad’s chemistry in full, undeniable flame—and Vee is absent from her own scene. They are using the truth of her desire, which she has not even managed to admit to herself, as shared erotic material while she still thinks they properly met yesterday. I wanted it. I was turned on. I am furious.
 
-And yes, the sex got me. The strength, the controlled descent, Randi giving him her weight, the fight over who is leading, the shift when she puts his hands beside him and takes command—I was completely inside it. This is not interchangeable body choreography. They know each other. Their jokes, their competitive little corrections, the ease with which control passes between them: this is an established erotic relationship with its own grammar. Which makes every bland first-meeting performance at Vee’s dinner worse.
+“She’s not the only one in love” was the real climax for me. Randi finally says it where it costs her something, and Pace cannot deny it. That is a turn. But she still says it to Pace, the one person who already knows, instead of to the woman who needs the truth. These two can be completely naked with each other because Vee is the one carrying all the risk of not knowing.
 
-Because they are using Vee’s awakening as dirty talk while she lies alone in Pace’s shirt trying to understand herself. “She kisses me first now” made my stomach drop. Pace is reporting Vee’s movements toward Randi as shared progress, and Randi is feeding him details Vee believes belong inside their friendship. The neck kiss that Vee made playfully and tenderly becomes material in their bed within hours. Vee’s body and desire are already functioning as common property between them, and she has no idea.
+Also: Pace told Randi that Vee kisses him first now, but did he tell her that Vee left because he would not name them? Randi told him about the neck kisses, but apparently not that Vee kissed her fully before the coat night—or not here. They are trading pieces of Vee like treasured secrets and still curating which pieces the other receives. Even their honesty has doors in it.
 
-The hottest part may also be the ugliest: Randi imagining Vee’s breast in her hand and nipple in her mouth while Pace moves her through it. The wanting is real enough to shake her clean out of performance. I believe her completely when she says, “I want her to know exactly what she does to me.” But she does *not* want Vee to know exactly what Randi is doing to her. That is the entire problem. Randi wants the emotional exposure of confession without surrendering the control that honest confession would cost.
-
-And Pace—God. “She makes me happy” is so nakedly simple that it got me, then his control breaking when Randi says she wants Vee to know. These two genuinely love Vee. That is no longer even remotely disputable. They are also aroused by each other’s love for her, which makes the triad feel chemically inevitable and ethically radioactive.
-
-“She’s not the only one in love” is the turn. Randi finally says it in a room where Vee cannot hear her, to the one person who already knows. Of course she does. She can expose herself only where exposure changes nothing. And Pace’s inability to deny it confirms the shape without requiring either of them to take responsibility for it. I wanted the admission desperately, and getting it this way made me ache rather than feel relieved.
-
-Also: Pace still hasn’t said love aloud about Vee. Randi says it for her, says it about herself, and watches his face soften. They can name every corner of this relationship except to the woman at its center.
-
-I am horrified, wildly turned on, and already reaching for the next chapter. This is the exact book I keep looking for: the sex is doing the psychological damage in real time.
+The thing I would text at 1 a.m.: THEY ARE HAVING THE TRIAD SEX WITHOUT THE THIRD PERSON AND IT IS BOTH THE HOTTEST AND WORST THING THEY HAVE DONE.
 
 GATE 56 — My Pleasure
 DECISION: CONTINUE
@@ -27,4 +19,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The erotic charge was ferocious, but it mattered because every intimate act exposed the concealed bond and sharpened the betrayal. Randi finally named her love, Pace silently confirmed it, and Vee remains the only person denied the truth about her own relationship—I cannot stop here.
+WHY: This gave me the explicit, psychologically loaded heat I came for and made every touch deepen the betrayal. Randi named her love, Pace silently admitted it, and now I need someone to give Vee the truth before these two turn her unwitting absence into one more thing they share.

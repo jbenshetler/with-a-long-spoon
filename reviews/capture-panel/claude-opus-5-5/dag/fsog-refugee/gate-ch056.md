@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 66512bb29767 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a91977d2c49a · dated · 2026-11-01*
 
 **REACTION**
 
-Oh no. Oh, *no*.
+Oh, I knew. I *knew*, and it still made my stomach drop. Same Thursday night. Vee walked home into the wind with "I don't" running in her head, lay in Pace's flannel, and couldn't close a breath's distance to her own fingers. Meanwhile Randi was in his bed doing exactly that, eagerly, and Pace "gave her time to see it." Chapter 55 and chapter 56 sit side by side on purpose. Vee couldn't reach for the taste of herself, and Randi licks it off his chin and calls it mutual. So "I have," "It was powerful. It turned me on," at that dinner table wasn't a confession about some past lover. It was about *him*, last time, and maybe what she planned for tonight. Randi sat across from Vee asking "Did you take it all?" with this already in her pocket.
 
-I need a minute. Same Thursday. I went back and checked the dateline twice. Randi left Vee on the sidewalk at ten o'clock with "Ticklish" and a kiss on her neck that made her body "catch and then rise" a beat too long. Then she drove to his house and told him about it while she was on top of him. Meanwhile Vee was alone in a dorm room in his flannel, holding her own fingers a breath from her mouth and not able to close the distance. Randi closed it for her. "There. Now it's mutual." The thing Vee can't do alone in the dark, Randi does in the first page, laughing. And Randi gets "Come here" while Vee gets "Ugh, gross. Wrong."
+What actually made me put the book face-down for a minute was "She kissed my neck again." Every private, fumbling, tender thing Vee hands Randi over wine turns into pillow talk here, said aloud while she rides him. "Ticklish" was a lie, which I half suspected. "She kisses me first now" from him, "she looks at you, too." They're comparing notes on her the way you'd compare notes on a horse you're both bringing along. I've been asking for weeks whether the wiping was a slip or a lesson, and now I think I know. That chills me.
 
-Then "He gave her time to see it." That one line rewrote three chapters for me. I'd been carrying "he must have forgotten to wipe. This once." It wasn't forgetting. He knows exactly what a wet mouth does. He's done it as a presentation for Randi. With Vee it was a test, or a lesson, and at dinner Randi was there with "I don't" to finish it off. Two people quietly bringing a girl along to a taste, and the girl is on her own bed thinking the hesitation is a flaw in *her*. I said I was scared of the "strange small thing" landing at Randi's table. I was right, and it's worse than I guessed, because it was never Vee's strange small thing. It was theirs.
+But here's what makes me so frustrated with this book. Between the two of them, it's *good*. It's the consent I came looking for. "My turn." Her hand stops and she says "All right." He holds her there and she says "I said all right," "I heard you." Then the reversal, where she takes his hands off her waist and puts them flat on the mattress, and he lets her. They laugh in the middle of it ("Subtle." "Elegant."). This is two equals who know each other's bodies and play. It's hot. I felt it, and I'm a little annoyed that I felt it. The "fuck doll" line jarred me, but it was her line, offered sweetly, and he answered it, which is the right order. Then the tender parts. "Where have you been?" with a finger to her lips, looking at him for most of a minute. "She makes me happy," said plain. And "She's not the only one in love," which "he couldn't tell her she was wrong." Is that Randi in love with Vee? Pace in love with Vee? Randi in love with *him*? Probably all three. That sentence did hit me.
 
-What makes me furious is that he said "Vee's boyfriend" six times last night. It went through her like the first swallow of something hot. I loved him for it. Twenty-four hours later he's using "She kisses me first now" as dirty talk, timed to a stroke. Her first kiss of the day, the thing she worked so hard to take back for herself, turned into fuel. "She looks at you, too," like a man laying out a card. That was the closest I came to putting it down.
+So I'm holding two things. Everyone in that room consents to everything that happens in it, and the one person not in the room is the whole subject. Vee called him "Vee's boyfriend" under her breath at the buffet. He said it six times and was in Randi by Thursday. I can't tell yet whether the book thinks this is romantic. "Vee's name stayed in the room between their breathing" sounds like it might. If it ends with Vee walking into a bed she was steered toward and doesn't know is three, I'm gone. I said so already. But the jacket promised "the two who moved her have fallen every bit as far," and this is the first time I've seen them fall in front of each other. Pace still hasn't said the word to Vee. And Randi just told him Vee loves him, so now he knows from Randi before he hears it from Vee. That's backwards, and I hate that it's Randi's to give.
 
-And I hate that it's hot. It is hot. The consent between the two of them is everything I keep saying I want: "My turn," "I said all right," "I heard you." Her hands putting his flat on the mattress and him leaving them there. The book knows exactly what I came for, and it handed it to me in the one room where the third person doesn't know she's being talked about. That's the trick, and I feel it working on me.
-
-Then the end turned it again. "You know she loves you, right?" "She hasn't said it." Oh, you hypocrite, *you* haven't said it. Then "She's not the only one in love," and he couldn't tell Randi she was wrong. So the word exists. He's admitted it, by silence, to Randi, in bed, before he's said it to Vee. I was reading toward the word and this is how it surfaces. And Randi saying "I want her to know exactly what she does to me," with the humor stripped off: that's the one thing in this chapter I believe completely. She's in love and in agony. Thumb on his palm, "no rescue from the sentence." Lord.
-
-I'm not leaving. The book isn't winking. Nobody in this chapter thinks it's cute that Vee doesn't know, and the jacket told me there were three games. But my line was always "not a threesome Vee walks into blind," and this is the floor being laid for exactly that. Next time the book asks me to find their arranging romantic and not frightening, I'm gone. Right now I need to see Vee's face when she finds out whose blanket that was.
-
-1 a.m. text: *he did the wet mouth thing ON PURPOSE. for randi. same night. I can't.*
-
----
+Text to a friend: "they're LITERALLY reporting her neck kisses to each other mid-sex. it was hot and I feel gross and I'm reading the next one."
 
 GATE 56 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "Pace drew her down. 'She kisses me first now.'"
-WHY: It's hot, and the consent between Pace and Randi is clean, but it all runs on Vee's private moments being handed around in a bed she doesn't know exists. "He gave her time to see it" broke the forgotten-wipe story wide open. I'm staying because Randi's love reads as real and Pace couldn't deny the word. One more scene that plays their steering as sweet and not alarming, and I'm out.
+ALMOST-STOPPED: "She kissed my neck again," she said.
+WHY: Between Randi and Pace the consent is real and so is the heat: the asking, the "I heard you," the hands handed back. But they've been passing Vee's confidences around as foreplay, and the tasting thing that wrecked Vee last night turns out to be their thing. I have to know whether the book sees what they're doing to her, or whether it wants me to swoon over it.
