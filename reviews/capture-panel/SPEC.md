@@ -327,16 +327,16 @@ holds 370 test-retest pairs (same gate, same prose-sha, same prompt-sha), and dr
 on the old score (from 10 a lane drops ~1 re-read in 4 by chance; from 8 it rises ~1 in 3;
 regression to the mean plus the ceiling). The tool conditions each lane's null on its old
 score and model (shrunk toward the pool), and reports: the **exact test** (per-lane nulls
-convolved; one-sided P; verdict improved / held against expected slippage / dropped /
-noise, α = 0.05), a **grid posterior** (P(improved) and the effect in points per lane,
-90% interval), a **bootstrap band** on P over resampled null pairs, and a **model-clustered**
+convolved; one-sided p-value; verdict improved / held against expected slippage / dropped /
+noise, α = 0.05), a **grid posterior** (the probability the edit improved the chapter and the effect in points per lane,
+90% interval), a **bootstrap band** on the p-value over resampled null pairs, and a **model-clustered**
 check (personas are not independent). First reads and lanes not re-read are excluded.
 Reactions are listed, not scored; rule 3a's lane weighting is a separate read and never
 mixed into the numbers. The earlier paired t-test is retired: it ignored the baseline and
-got ch36 wrong (called noise; the exact test gives P = 0.011, the panel held a near-ceiling
+got ch36 wrong (called noise; the exact test gives p = 0.011, the panel held a near-ceiling
 chapter against expected slippage). Worked results 2026-11-01: ch56 first arrival edit
-improved (P < 0.001, P(improved) 0.98); its revision −3 against an expected −2.0 is noise
-(P = 0.36); ch45 and ch46 plants, noise.
+improved (p < 0.001, probability improved 0.98); its revision −3 against an expected −2.0 is noise
+(p = 0.36); ch45 and ch46 plants, noise.
 
 **4. An ALMOST-STOPPED attached to a high score is the single most valuable datum
 the instrument produces** — no survivorship bias: the book held the reader

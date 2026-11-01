@@ -363,13 +363,13 @@ def main() -> int:
         c_obs, c_hi, c_lo = clustered(mrows, metric, null)
         print(f"\n{metric}  ({len(mrows)} lanes: {up} up, {dn} down)")
         print(f"  exact test     observed sum {obs:+d}, null expects {mean:+.2f}; "
-              f"P(this {'high' if obs >= mean else 'low'} or more) = {p_dir:.3f}  "
+              f"one-sided p-value ({'this high or higher' if obs >= mean else 'this low or lower'}) = {p_dir:.3f}  "
               f"→ {verdict(obs, mean, hi, lo)}")
-        print(f"  posterior      P(improved) = {p_up:.2f}; effect {eff:+.2f} pts/lane "
+        print(f"  posterior      probability improved = {p_up:.2f}; effect {eff:+.2f} pts/lane "
               f"(90% {e_lo:+.2f} to {e_hi:+.2f})")
-        print(f"  bootstrap      P across resampled nulls: {b5:.3f}–{b95:.3f} (5–95%)")
+        print(f"  bootstrap      p-value across resampled nulls: {b5:.3f}–{b95:.3f} (5–95%)")
         print(f"  by model       net models up−down {c_obs:+d}; "
-              f"P(≥) = {c_hi:.3f}, P(≤) = {c_lo:.3f}")
+              f"p-value (≥) = {c_hi:.3f}, p-value (≤) = {c_lo:.3f}")
 
     print("\nALMOST-STOPPED (new gates; reactions are listed, not scored):")
     for r in rows:
