@@ -362,7 +362,7 @@ Randi takes ~6 scrunchies from the form (~38 → ~32) during one of her weekday 
 
 ### [VIGNETTE] Grain #1 — The First Flicker
 *~late February · an overnight at Pace's* · Unwritten · Vee POV · mirror-time · slug: grain-1-the-first-flicker · present: ?
-Vee at the drawer mid-ritual: is the form lower than it should be? A steeper drop than her own use explains — but down is the plausible direction, so it's unconfirmable, unsayable. The question arrives mixed into the post-Christmas-Fight stream (what am I to him, why won't he say it) so it reads as one more symptom of wanting definiteness from a man who doesn't issue it. Both readings stay open — anxious attachment or accurate instrument; the reader is given no more certainty than Vee has. Puts her half-consciously on watch.
+Vee at the drawer mid-ritual: is the form lower than it should be? A steeper drop than her own use explains — but down is the plausible direction, so it's unconfirmable, unsayable. The question arrives mixed into the post-Christmas-Fight stream (what am I to him, why won't he say it) so it reads as one more symptom of wanting definiteness from a man who doesn't issue it. Both readings stay open — anxious attachment or accurate instrument; the reader is given no more certainty than Vee has. Puts her half-consciously on watch. **Before drafting:** see the drawer-open A/B candidate in `meta-plan-scrunchie-gaslight.md` (Open questions) and {{The Drawer — First Visit}}.
 
 ### [VIGNETTE] Grain #2 — Worn in Plain Sight
 *~ongoing from March onward · recurring* · Architecture complete, prose not drafted · [detail](meta-condensed-grain-2-scrunchies.md) · slug: grain-2-worn-in-plain-sight · present: ?
