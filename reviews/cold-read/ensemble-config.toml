@@ -85,13 +85,18 @@ models = [
 # On demand: not run by default, accepted by capture_dag when named, and still
 # counted by capture_stats (author ruling 2026-10-24). Not retired.
 # claude-opus-4-8 and claude-opus-5 retired 2026-10-25 (see [capture].retired).
-available = []
+# muse-spark-1.3 and muse-wonder added 2026-11-01 for the author's assessment (romance-graduate).
+available = ["muse-spark-1.3", "muse-wonder"]
 # Memory v3 (capture_dag.py --memory grounded; author ruling 2026-11-01): the
 # shared FACT memory every capture lane reads — this model's native grounded
 # checkpoints under reviews/cold-read/<id>/checkpoints/. Facts are not what the
 # capture instrument measures; the persona memory (her verbatim reactions and
 # ledger) stays per lane.
 fact_checkpoint = "claude-opus-5-5"
+# The model that audits those checkpoints' fact sections against the raw prose
+# (tools/checkpoint_audit.py; runs itself at mint and on first capture use). Needs a
+# context window for the whole raw book through the boundary (~370k tokens at ch70).
+fact_auditor = "claude-opus-5-5"
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
 # the rest by author ruling the same day; git history holds the record).
@@ -225,6 +230,20 @@ provider_model = "google/gemini-4-argon"
 # zero endpoints.
 quantizations = []
 
+[readers."muse-spark-1.3"]
+vendor = "meta"
+provider_model = "meta/muse-spark-1.3"
+# Added 2026-11-01 (author): diversity-slot candidate. First-party Meta only,
+# `quantization: unknown`, so the fp8/bf16 floor would leave zero endpoints.
+quantizations = []
+
+[readers."muse-wonder"]
+vendor = "meta"
+provider_model = "meta/muse-wonder"
+# Added 2026-11-01 (author): diversity-slot last resort, used only when glm-5.3
+# and muse-spark-1.3 both fail. First-party Meta only, quantization unknown.
+quantizations = []
+
 [readers."qwen3.8-max-0902"]
 vendor = "alibaba"
 provider_model = "qwen/qwen3.8-max-0902"
@@ -240,6 +259,26 @@ checkpoint_source = "ensemble:core"
 can_mint_checkpoint = false
 review_effort = "low"
 review_max_output_tokens = 18000
+
+# ---------------------------------------------------------------------------
+# Consensus fact memory (tools/fact_consensus.py; author ruling 2026-11-01).
+# SLOTS, not models: each artifact records who filled each slot when it was
+# minted and is judged current by its prose hash alone, so changing a slot here
+# affects only the next mint. Every slot extracts from raw prose ch1..B (no
+# lineage). The google slot is OpenRouter: PAID, author-authorized per run.
+[facts]
+quorum = 2
+matcher = "claude-opus-5-5"
+
+[facts.slots]
+anthropic = "claude-opus-5-5"
+openai = "gpt-5.6-sol"
+google = "gemini-4-argon"
+# The diversity slot: the less stable families (deepseek and kimi were solid,
+# then flaky for a month). A list is a fallback chain, tried in order until one
+# succeeds; muse-wonder ($4/$20) only if glm and muse-spark both fail. Quorum
+# stays 2, now of 4. All three candidates are OpenRouter: PAID.
+diversity = ["glm-5.3", "muse-spark-1.3", "muse-wonder"]
 
 [ensembles.core]
 matcher_model = "gpt-5.6-terra"

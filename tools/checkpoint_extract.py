@@ -362,6 +362,13 @@ def main() -> None:
         f"incomplete={usage.get('incomplete')}",
         file=sys.stderr,
     )
+    # Evidence audit of the fact sections (author ruling 2026-11-01): automatic, never
+    # blocks the mint, never asks anyone. capture_dag re-runs it on first use if absent.
+    try:
+        import checkpoint_audit
+        checkpoint_audit.run_audit(out_path)
+    except Exception as e:  # noqa: BLE001
+        print(f"[audit] skipped for {disp}: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -96,6 +96,22 @@ max_input = 920576
 max_output = 943718
 # catalog: google/gemini-4-argon
 
+# muse-spark-1.3 / muse-wonder: read 2026-11-01 from the OpenRouter catalog —
+# first-party Meta only, quantization unknown, 1M context, 943,718 max output.
+[models."meta/muse-spark-1.3"]
+input = 1.25
+output = 4.25
+context_window = 1048576
+max_input = 920576
+max_output = 943718
+
+[models."meta/muse-wonder"]
+input = 4.00
+output = 20.00
+context_window = 1048576
+max_input = 920576
+max_output = 943718
+
 [models."deepseek/deepseek-v4-pro-0813"]
 input = 1.06
 output = 3.17

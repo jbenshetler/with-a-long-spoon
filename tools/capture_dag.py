@@ -336,7 +336,9 @@ def fact_model() -> str:
 def fact_checkpoint(b: int) -> tuple[str, str]:
     """(body, provenance) of the shared grounded checkpoint at boundary b."""
     m = fact_model()
-    p = cold_read_config.checkpoint_path(m, b)
+    # "consensus" = the slot-consensus fact memory (tools/fact_consensus.py).
+    p = (REPO / "reviews" / "cold-read" / "fact-consensus" / f"ck-ch{b:03d}.md"
+         if m == "consensus" else cold_read_config.checkpoint_path(m, b))
     if not p.exists():
         raise RuntimeError(
             f"missing grounded checkpoint {p.relative_to(REPO)} — mint it with "
@@ -349,8 +351,18 @@ def fact_checkpoint(b: int) -> tuple[str, str]:
               f"changed (chapters 1..{b}). A style edit leaves it true; a plot addition does "
               "not (SPEC 'Checkpoint staleness after a plot addition') — re-mint with "
               "tools/checkpoint_extract.py. Proceeding.", flush=True)
-    return (checkpoint_bundle.checkpoint_body(raw),
-            f"ck-ch{b:03d}@{m}" + (" (stale)" if stale else ""))
+    # Facts only (author ruling 2026-11-01): the fact sections, with every sentence the
+    # evidence audit did not establish as FACT removed. Her feelings come from her own
+    # reactions and ledger, never from the extractor's Impression. The audit runs itself
+    # on first use; if it fails, the read proceeds on the unaudited fact sections.
+    import checkpoint_audit
+    try:
+        audit = checkpoint_audit.run_audit(p)
+    except Exception as e:  # noqa: BLE001
+        print(f"  audit of {p.name} failed ({e}); using unaudited fact sections", flush=True)
+        audit = None
+    body, note = checkpoint_audit.projection(p, audit)
+    return (body, f"ck-ch{b:03d}@{m} ({note})" + (" (stale)" if stale else ""))
 
 
 _FACT_STALE: dict[int, bool] = {}
@@ -870,7 +882,9 @@ def main() -> None:
     print_stale_report(stale_report(args.models, list(args.personas), args.to))
     if MEMORY == "grounded":
         for b in sorted({boundary(n) for n in range(max(args.start, 1), args.to + 1)} - {0}):
-            p = cold_read_config.checkpoint_path(fact_model(), b)
+            p = (REPO / "reviews" / "cold-read" / "fact-consensus" / f"ck-ch{b:03d}.md"
+                 if fact_model() == "consensus"
+                 else cold_read_config.checkpoint_path(fact_model(), b))
             if p.exists() and fact_stale(b, p.read_text(encoding="utf-8")):
                 print(f"  STALE FACTS: {p.relative_to(REPO)} predates a prose change in "
                       f"ch1..{b} (re-mint after a plot addition)", flush=True)

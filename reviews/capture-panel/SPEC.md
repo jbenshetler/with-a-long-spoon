@@ -1365,6 +1365,57 @@ the gate header. Found by the trial: the shared `ck-ch040` (minted 2026-10-30) p
 morning panel (2026-10-31), and glm's v3 ch45 read called the green panties "the green
 nightgown". Same rule as above: after a plot addition, re-mint before re-reading.
 
+**Facts only, audited (author ruling 2026-11-01).** The checkpoint is someone else's memory;
+its Impression, Symbolism, Open questions and relationship axes are the extractor's readings,
+and the fact sections leak readings too (opus ch022/030/040 carried "the reader sees the whole
+thing was steered", "'Not yet' implies…", "The reader suspects Randi looked in it"). So v3
+feeds only the fact sections (Who's who, Relationships without axis lines, What I know that
+they don't, Motifs & images, Story so far), and only the sentences an evidence audit
+established. `tools/checkpoint_audit.py` labels each sentence against raw prose ch1..B — FACT
+with a verbatim quote, INFERENCE, UNSUPPORTED, CONTRADICTED — and code verifies every quote
+(a FACT whose quote is not on the page becomes UNSUPPORTED). A mixed sentence may be TRIMmed to its fact part, but
+code accepts a trim only if the kept text is a contiguous run of the original: the auditor
+can delete, never write. Bold structural labels are kept as structure, not audited.
+Decisions are keyed to each claim's text, never its position, and the auditor's raw output
+is stored, so `--reparse` re-scores after a code change without a model call. It writes
+`audit-ck-ch<B>.json` beside the checkpoint, keyed to its sha256. First results (opus
+auditing opus): ck-ch030 29 sentences dropped / 23 trimmed of 509; ck-ch040 37 / 15 of 618,
+including every reading planted in the fact sections. **No one acks anything**
+(author: mints are infrequent and should not need the author): the audit runs at the end of
+every `checkpoint_extract.py` mint and on first use by `capture_dag.py`, and the projection
+applies it deterministically. If an audit fails, the read proceeds on the unaudited fact
+sections and the gate header says so. Auditor: `[capture].fact_auditor`. The cold-read
+lane's reads are unchanged.
+
 **Risk to watch.** A model fed its own words tends to escalate a grudge and quote itself. The
 ledger makes FORGIVEN / DISPROVED / FADED first-class, and the frame says she may have changed
 her mind. The trial compares complaint inflation against the chain gates for the same chapter.
+
+## Consensus fact memory: slots, no lineage, 2 agreeing (author rulings 2026-11-01)
+
+`tools/fact_consensus.py --to B` → `reviews/cold-read/fact-consensus/ck-ch<B>.md`; capture v3
+reads it when `[capture].fact_checkpoint = "consensus"`. Replaces one model's checkpoint as
+the fact source without inheriting `core`'s brittleness (exact model ids pinned in manifests;
+per-model seed lineage, so a swap meant minting a model's whole history).
+
+- **Slots, not models** (`[facts.slots]`): anthropic, openai, google, and **diversity** — the
+  less stable families (deepseek and kimi were solid, then flaky for a month), a fallback chain
+  tried in order: glm-5.3, muse-spark-1.3, then muse-wonder ($4/$20) only if both fail. Each
+  artifact records who filled each slot and is judged current by its prose hash alone; a slot
+  change affects only the next mint.
+- **No lineage:** every slot reads raw ch1..B every time (all families have 1M windows).
+- **Claims:** `SECTION | ch<n> | fact | "quote"`, one fact per line; every quote verified on
+  the page by code. POV is its own section, settled by code majority (a POV folded into a
+  compound claim was lost at ch8–10 in the first test).
+- **Agreement:** a matcher only groups; code admits a group with members from ≥ 2 slots and
+  uses the shortest member's own words. A failed slot degrades, never fails, the build.
+- **Then the evidence audit** (two models can share a reading).
+- `--force` rebuilds from cached slot extractions; `--reextract` calls the slots again.
+
+Test, ch1–10 (2026-11-01): 3 slots admitted 185 facts (76 unanimous); adding diversity (glm)
+admitted 231 (47 four-way, 80 three-way, 104 two-way), 1,894 words; POV consensus on all ten
+chapters; audit 248 FACT / 1 INFERENCE / 1 TRIM / 1 UNSUPPORTED of 251 sentences. Paid:
+argon $0.38 over two runs, glm $0.04. The auditor once escaped quote marks inside its quotes
+(`\"Red,\" she said`) and 19 true facts failed verification until the matcher stripped
+escapes. Open: the audit drops two-model knowledge-gap claims ("Vee does not know that Pace
+and Randi planned his approach") as INFERENCE.
