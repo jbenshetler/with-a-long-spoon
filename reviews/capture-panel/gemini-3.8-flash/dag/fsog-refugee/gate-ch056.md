@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 66512bb29767 · dated · 2026-11-01*
 
 REACTION
 
-I am sitting here with my stomach in my absolute throat.
+I feel like I just watched someone build an altar out of glass, cover it in silk, and then take a sledgehammer to it. My stomach is in actual knots.
 
-Look, I knew what this book was. The jacket told me: *“Vee is a willing player in two games. She doesn’t know there are three.”* I knew Pace and Randi had a thing. I *knew* it. But having it dropped directly on my head in chapter 64, right after watching Vee agonizing alone in her dorm bed over tasting herself, buttoned into his giant shirt, wondering if she was "greedy"—to turn the page and see Pace with his mouth buried between Randi’s legs? Tasting Randi off his own mouth without an ounce of hesitation? It hit me like a slap across the face.
+Chapter 55 was so unbearably tender and painful—Vee lying in his giant flannel, trying to overcome her own shame, trying to bring her fingers to her mouth because Randi normalized it, because Pace loved it, and falling *one breath short*. She’s lying there in her dorm room alone, aching for them, feeling greedy and excessive, totally blind. And then we turn the page to Thursday night, and *this* is where Randi went after dinner. This is what Pace was doing while Vee was falling asleep with cold air blowing on her hip.
 
-It is brilliant, and it makes me physically sick.
+The sheer, staggering hypocrisy of it. Randi sitting across from Vee at dinner, playing the worldly big sister, teasing out every drop of Vee’s private weekend, absorbing every detail of how Pace tastes her and loves her—and then walking straight over to Pace’s house, throwing the deadbolt, getting eaten out on the white sheets, and making him kiss her so she can taste herself on him just like they talked about. And Pace! Pace, who on Wednesday night looked six people in the eye and said "Vee's boyfriend" until it became a running joke. Pace, who held Vee in the cab of his truck while she came with her jeans around her knees. He lets Randi walk in, throws her onto the mattress, and uses her body while they both get off on *talking about Vee*.
 
-The sheer, staggering hypocrisy of it. Vee is over in her dorm room treating Pace like he’s made of spun gold, weeping with gratitude because he called her his "girlfriend" in a barbecue joint, and here he is lifting Randi by the hips, letting Randi call herself his "fuck doll," while both of them get off talking about Vee like she’s a dessert they’re splitting.
+*"I miss her during the day. More at night."*
+*"She kissed my neck again."*
+*"Her breast in my hand... and her nipple in my mouth."*
 
-*“Her breast in my hand,” Randi said... “All that softness. The weight of it.” ... “And her nipple in my mouth.” He sucked.*
+They are literally using each other as a stand-in for the girl they are both actively lying to. It is depraved, it is breathtakingly hot, and it makes me want to scream at the two of them until my voice gives out. Because the sex between them is incredible—Pace’s physical control, the way he lifts her, the raw filthy banter, the fact that Randi just openly claims what she wants—it has all the heat and dominance I read this genre for. But the foundation is pure poison. When Randi says, *"You know she loves you, right? ... She's not the only one in love,"* and Pace *can't deny it*... my heart broke clean in two for Vivienne Thorne. He loves her. Randi loves her. And neither of them has the basic decency to stop fucking each other long enough to tell her the truth.
 
-My God. The heat of it is insane, I can’t even lie. It’s filthy and intense and psychologically twisted in a way that had my heart pounding against my ribs. But the emotional betrayal is breathtaking. Randi is in love with her. Pace is in love with her—Randi called him out on it directly (*"She's not the only one in love"*) and he couldn't deny it. They both love Vee. And instead of being honest, instead of dealing with the fact that they have brought an innocent, completely devoted girl into the center of their web, they are using her name as dirty talk while they fuck each other into the mattress.
+They are feeding on her warmth. They're two starving, sophisticated vampires passing her blood back and forth between their mouths. I am horrified, I am completely glued to the page, and I need the explosion to happen immediately.
 
-And then the dialogue at the end completely broke the spell for a second. *“I did my part. Now stick that inside me.”* What the hell was that? It sounded like a badly translated porno script dropped into the middle of a high-end psychological novel. Randi has never spoken like that in her life. It felt jarring and clunky, a bizarre stumble in a chapter that was otherwise suffocatingly intense.
+***
 
-I am furious at them. I want to shake Pace until his teeth rattle. He sits there in his noble silence with Vee, holding back *I love you* because of his tragic past, but he has zero problem fucking Randi while she narrates what she wants to do to Vee’s breasts. The sheer arrogance of these two people playing god with Vee’s heart is about to detonate, and I am terrified for her. But God help me, I have to see the explosion. I cannot look away.
-
-GATE 64 — My Pleasure
+GATE 56 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 1
-ALMOST-STOPPED: “I did my part. Now stick that inside me.”
-WHY: That clunky, porno-dialogue line completely broke the atmosphere of the scene, but the sheer narrative bomb that just went off makes it impossible not to turn the page immediately. The betrayal is sickening, but I have to see how Vee survives this.
+ALMOST-STOPPED: none
+WHY: The betrayal is sickening, but the psychological tension is wound so tight I could barely breathe reading it. Watching them use each other while openly obsessing over Vee is twisted, devastating, and impossible to look away from.

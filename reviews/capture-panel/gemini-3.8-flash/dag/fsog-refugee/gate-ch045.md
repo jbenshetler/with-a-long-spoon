@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c177611de749 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 REACTION
 
-Good. *Good.*
+Oh, Pace. You absolute, stubborn, beautiful idiot.
 
-I needed to see him bleed, and god, did he bleed. He drank himself sick, threw up in his bathroom, cleaned it with bleach until the bucket foamed, and then sat there choking down boiled, unseasoned gym-rat chicken while his hands shook so hard he couldn't hold his fork. And then—the sound of a truck on the highway that wasn't hers, and he just broke completely in half over his cold coffee and sobbed until he couldn't breathe.
+I was bracing myself for this chapter because I knew he was meeting Sheri on New Year's Eve, and after Vee's agonizing spiral in chapter 44—imagining him cooking for some blonde at his stove—I was ready to be furious with him. Instead, we get a dingy trailer-diner, a plate of diner burgers, and Sheri holding a mirror right up to his face and refusing to let him look away. God bless Sheri. She sees right through his brick-by-brick rationalizations. *"Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty."* She clocked him completely. He tried to hide behind his usual armor—*I cook for her, I'm there every weekend, words are cheap*—and Sheri just knocked the whole stack over.
 
-I don't feel smug about it, either. That’s the terrible thing. I wanted him punished for hiding behind his little semantic walls, but reading him actually unravel inside his own empty house hurt like hell. Because it’s real. It’s not an act he’s putting on to manipulate someone; nobody was there to see him cry.
+And then he went home.
 
-Sheri was an absolute godsend in that diner. Every single word out of her mouth was a bullet straight through his defenses. When he started laying up his neat little bricks—*I’m there every weekend, I told her she’s the most important thing, she gets the philosophy of my food*—Sheri looked him right in his stupid, handsome face and said: *"Get over yourself."* And then the kill shot: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."* THANK YOU, SHERI. Call him out! Drag him into the daylight! He needed someone who doesn't want to fuck him to look at his noble-martyr logic and tell him it’s pure, unadulterated bullshit.
+Seeing him drink alone in the dark, getting violently sick, scrubbing his own bathroom floor with bleach at three in the morning, and waking up shaking over cold, boiled gym-bro chicken... it broke something open in me. This man who is always so composed, whose control is his whole religion, completely undone.
 
-And now we finally get the ghost in his machine: Daphne. The girl who taught him how to survive college, the only girl he ever told he loved, who walked away and left him so wrecked he convinced himself the *words* were the weapon. That if he just withheld the three words, the loss wouldn't kill him. It’s pathetic, it’s cowardly, and it makes complete, agonizing psychological sense. He built this entire fortress of control, this entire sick game of sharing and orchestrating and emotional withholding, just because a girl broke his heart at nineteen and he swore he’d never be defenseless again.
+The Daphne reveal finally gives us the key to the lock. He convinced himself that *the words* were what destroyed him when Daphne left. If he never says the words, he survives the ending. It’s so messed up, so tragically human, and so infuriating because in trying to protect himself from the pain of losing Vee, he literally drove her out into the cold night. He admitted it right there at his kitchen table: *He knew he loved her.* He knew what she was offering on the porch, he chose the smaller truth out of cowardice, and now he's choking on it.
 
-He knows he loves Vee. He admitted it to himself right there at the kitchen table. He knows he had the words ready on the porch and choked them down out of pure, selfish terror.
+And then that ending. Hearing the truck on the highway, his whole body snapping to attention, hoping against hope that her little car was turning into the drive—and when the sound just rolls on past, he breaks. A full, chest-heaving sob over his cold breakfast.
 
-He broke her heart to save his own skin, and now he’s sitting in a cold house with boiled broccoli, dying inside every time an engine passes on the road. Now what are you going to do about it, Pace? Are you going to keep hiding behind your frozen meal preps, or are you going to go get your girl?
+I'm still sick about the Randi of it all—the fact that he still has that twisted fantasy of the three of them at his table, the lingering betrayal that Vee still doesn't know about. But seeing him shattered on his own floor, grieving her, admitting to himself that he loves her and that his silence was weakness... it hurts so good. He's not an unfeeling puppet-master. He's a terrified man who broke his own heart trying to keep it safe.
 
-GATE 53 — The Usual
+Now he has to fix it. He has to drive into town, find her, and spend the damn words.
+
+***
+
+GATE 45 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Pace finally stripped of all his control—called out ruthlessly by Sheri, drinking until he pukes, and sobbing over his kitchen table when a passing car isn't Vee—was utterly gripping, necessary medicine. He finally admitted he loves her and that his silence was cowardice, and now I need to see what he does when the term starts.
+WHY: Seeing Pace completely unravel in the quiet of his own house, facing his cowardice over Daphne and finally admitting to himself that he loves Vee, gutted me. Sheri gave him the harsh truth he deserved, and that final sob when the car on the highway wasn't Vee broke my heart; I need to see him go get her.

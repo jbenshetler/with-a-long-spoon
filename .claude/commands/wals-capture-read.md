@@ -216,6 +216,15 @@ silent, and is classified in **three tiers, which matter very differently**:
 | **window** | a changed chapter sat in this gate's raw window (B+1…N−1) | Rarely. The reader saw the old text as context, not as subject. |
 | **checkpoint** | a changed chapter fed this gate's `ck-ch<B>` mint | **Almost never.** The reader's memory of it is a consolidated summary, which a style edit leaves true. |
 
+**Exception: an edit that ADDS a plot event later chapters refer to** (author ruling
+2026-11-01). The summary no longer covers it, so checkpoint-tier staleness is real for any
+re-read downstream that names the event. Before re-reading such a chapter, delete the stale
+`ck-ch<B>` (and every later `ck-ch*` in that lane up to the target; git keeps them) so the
+harness re-mints from current prose. Worked case: Four's morning panel (ch36) was added
+2026-10-31; argon fsog-refugee's `ck-ch040` from Oct 28 lacked it, and its ch45 re-read
+answered The Usual's reference to "the November morning" with *"We haven't even seen that
+morning yet!"*
+
 **The tiers exist to stop a style edit from looking like a catastrophe.** Cutting
 a beat from chapter 2 marks well over a thousand downstream gates as touched —
 but nearly all are `checkpoint`-tier, i.e. noise. Without the tiering the only

@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 REACTION
 
-Oh, Pace. “She wants a declaration” is such a bloodless way to describe the woman you love standing in your doorway crying and asking what she is to you. And then he does it again with Sheri: answers the question beside the question, stacks up all the things he does for Vee as if enough true bricks will somehow build the missing sentence by themselves. I felt exactly what Sheri felt: don’t bullshit me. Vee did not ask whether he shows up on weekends. She asked what all that showing up means.
+Oh, finally. Finally he says the sentence without shaving it down to something safer: he loves her, he understood exactly what she gave him on the porch, and he knowingly answered with less because he was afraid. I have been waiting for him to admit that his precision is not innocence. He did not misunderstand Vee. He watched his smaller answer hurt her and let it stand. That landed hard, but almost as relief, because at least I am no longer being asked to wonder whether he genuinely cannot find the word. He can. He has been holding it hostage to an old loss.
 
-And still, damn him, the moment he thought Vee might love this quiet little diner—or might never agree to see it at all—I hurt for him. He misses her in every empty space. He wants to know how she would see the amber tabletop and the old photographs; he imagines her whispering where he could finally hear her. Then he talks about the air crackling when she enters a room and about her understanding the idea beneath his food, and there he is, saying love everywhere except in the one form she has explicitly asked him to use. He doesn’t merely desire her. He is fascinated by the particular mind inside her body. That is precisely why his refusal is making me furious instead of letting me dismiss him.
+Sheri was exactly the person he needed and I loved her for refusing every lovely adjacent fact. He misses Vee, gives her his whole attention, makes her food with a philosophy underneath it—fine. “She didn’t ask you for reasons.” Yes. And then the clean blade: if he cannot say it, not saying it matters more than having her. That is what Vee has been living, stripped of all the warm-house romance. I wanted to hug Sheri and steal his fries with her.
 
-Sheri is wonderful. She likes him without wanting anything from him, which means she can take his careful self-explanation, turn it over once, and hand him the ugly truth: “Then not saying it matters more to you than having her.” Yes. That is the whole wound. Whatever stands behind “I can’t”—Randi, his history, terror, some private rule—he is actively choosing it over Vee. I needed someone he respects to make him look directly at that choice.
+And I did ache for him. More than I expected to. The wrong engine, his whole body recognizing that it was not Vee’s and still refusing to release the hope, and then him sobbing over the food he made only to sustain a body—that got me. The contrast with how he feeds Vee was brutal. Without her first bite, food has become prison food again. He has made his house into a place organized around receiving her, and now every neat row in the freezer proves how long he can survive without living.
 
-But the brunette conversation chilled me. Sheri knows there is another woman; Pace knows Vee has not “found out”; and “Not like that” is another precision answer that conceals far more than it reveals. He is discussing Vee’s body and their rupture with someone who already knows pieces of the hidden arrangement, while Vee is alone believing she has no right even to ask where he is. I don’t think Sheri means harm, and her crude comments felt like the rough language of their friendship, but Pace allowing them while protecting the actual truth made Vee’s exclusion feel even larger.
+Daphne makes his silence intelligible, but it does not make it acceptable. He decided the words caused the devastation rather than loving her and losing her. That is such frightened magical thinking for a man who prides himself on exactness. Worse, he tried to control the eventual damage by withholding the truth from Vee, which meant hurting her now so he might hurt less later. I believe his fear. I also believe Vee was right to walk out.
 
-Also: he decided before walking in that he would not “bring her down.” Bring whom down—Sheri? And what had he carried from the truck that could keep? That opening put a little cold hand on the back of my neck. Pace has compartments inside compartments, and I am done accepting “long practice” as romantic mystery. I want the contents now.
+What chilled me was how quickly his thinking about the three of them slid back into presumption. “Not whether she wanted it”—Pace, yes, whether she wants it. She wants Randi in ways she is only beginning to own, but she does not want the concealed arrangement because she does not know it exists. Brunches, kisses, smiles, and coming back “lit” are not consent to discovering that her lover and best friend chose her together and have been exchanging her intimacies all along. He worries whether the room will ask more of Vee than she has in her, but still imagines placing her in that room before giving her the truth. He understands local consent exquisitely and remains almost willfully blind to structural consent.
 
-I would text a friend: *His lesbian country friend just diagnosed him over cheeseburgers in one sentence, and this impossible man can explain the philosophy of feeding Vee but still says he “can’t” tell her he loves her. I am going to shake him.*
+His tenderness toward Randi hurt too. The folded blanket still living where she needs it. Six weeks without her, and he will not call because her choosing matters to him. There it is again: he fiercely protects Randi’s right to choose whether she comes back, while Vee remains the one person whose right to choose the whole situation he does not protect. That asymmetry is becoming unbearable.
 
-GATE 53 — The Usual
+Still, I am in. Completely. He has crossed an internal line: he cannot go back to pretending words are cheap or that actions have already answered everything. He knows he loves Vee. He knows he failed her deliberately. Now he has to get off that chair, tell her, and then tell her the much more dangerous truth. “I love you” will matter enormously, but it cannot be used as a beautiful curtain drawn across Randi.
+
+And the three of them spending New Year’s in separate beds, each cold in a different way, each wanting the others and choosing silence—God. I would text a friend: *HE KNOWS HE LOVES HER. HE KNEW ON THE PORCH. ALSO I AM STILL MAD.*
+
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Sheri forced Pace to confront the exact truth he has been evading, and his description of Vee made his love unmistakable even as his refusal made me angrier. Now I need to know what “I can’t” is protecting—and whether losing her will finally matter more.
+WHY: Pace finally names both the love and the cowardice behind his silence, and the wrong engine broke me. I need the next chapter immediately because his emotional truth has arrived, but the concealed triangle is still the larger betrayal, and “I love you” cannot be allowed to substitute for disclosure.

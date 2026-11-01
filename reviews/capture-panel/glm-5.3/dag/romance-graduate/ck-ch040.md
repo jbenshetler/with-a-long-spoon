@@ -1,0 +1,70 @@
+*capture-dag-v2-rich · carry-forward ck-ch040 · glm-5.3 · romance-graduate · prompt-sha b3c0511c266a · dated · 2026-11-01*
+
+*capture-dag-v2-rich · carry-forward ck-ch040 · glm-5.3 · romance-graduate · prompt-sha b3c0511c266a · dated 2026-10-31*
+
+WHO'S WHO
+- Pace — PETER, still. The drawer is his word: he cleared her sprawl off the counter and I (and Vee) thought he'd minded, and instead he'd folded his whole ordered self into one too-tight drawer and given her the top one, "the one your hand goes to first." No note, never a note. The flannel: she washed his shirt because it stopped smelling like him, brought it back, and he thought she was RETURNING it — one beat of hurt, "he was good at not asking things" — then put it on over his shirt and wore it all weekend for her. In ch 36 we were finally on the dark side of the glass with him and Randi: "She consents — every time — or I'm done" — his one hard line, aimed at Randi, not Vee. He asked "Is she happy?" and got "Radiant" and said that isn't the same answer. The quad origin: the pointing at Vee was a test of RANDI's face; he read her hand going slack on his and chose accordingly. He keeps Vee's green panties folded in thirds, spot centered, in the second drawer — and Randi found them (see below) and he refolded them after and blamed the drawer standing open an inch on the house shifting in autumn. He's probably wrong. Thanksgiving: Sheri's coming over with a pie, "She's alone," and he told Vee unprompted. "I don't go back" — four careful words about his parents, same wall as the desk in the hall. Still no right hand, no bench, no word.
+- Randi — cracking wide open and I watched it from inside her. Ch 36: she came apart mid-scene telling him about the goodbye kisses — the position, face hidden, forgot the mirror, "does she want it?" — "I'm doing it for you / it's not a treat, it's work" and he said "You don't have to do it for me" kindly and she CAME on the kindness. Then "God, I want her," heard it leave her, "For us. When she's ready." In the morning she found Vee's drawer, came out with the green satin clenched in her fist, rode him with it pressed between their chests, eyes on the wall, cried after, "It's hormones," didn't drink her coffee. "You see more of me than anybody ever has. It makes me feel real. And some nights it frightens me." Then ch 37: MIRA. The stats project graphed her own county and the outlier is her father's company — Miranda, several loans, one under another, payrolls cut anyway. Her whole "the money was what it was for" defense died in one keystroke. "Cheating bastards," ragged, aimed too near. Vee saw, and covered for her, kindly, and Randi doesn't know she saw. Also brunch ch 35: she went unfixed listening to Vee's happiness, "It doesn't. Low, and not quite even." She NEEDLED Vee into showing the uncropped photo ("you only gave him half?"). And ch 31: the mixer story is almost certainly invented, told to send Vee to the bathroom, where Vee got one inch from the peak, saw Randi's face, and stopped — "frustrated and cowed in the same breath." Then "Sticky fingers?" — door or no door, Vee couldn't tell. Glaze on Vee's lip at the goodbye from a pastry she never touched. "Best friend in the whole world."
+- Vee — in love, out loud to no one. She let it be true in her chest (ch 32), said "Peter" to his sleeping shape. Built the cracker-and-meal sentence for WEEKS, said it on the porch at dawn — and he answered "I love how good we are together" and "I never had this either," warm, sincere, not the words. She can't test it: "the words go through him first." The sentence retired into her body; the pile of unnameable things got another tenant. Thanksgiving home: Mom's nurse face counting the seconds, the weight going, the bras riding high — Mom asked if she's making herself sick. She told them "boyfriend?" with a question mark on it. Cropped the induction photo at the waist for her parents — she's cropping everyone now. She pays her own brunch check, tips well, says nothing about the number. The flannel is her system for sleeping through the weeks that aren't his. Ch 33: "maybe" to Cassie's "do you love him," the econ girl deliberately under-reporting. Cassie: "Is it that you can't say, or that you don't want to?" — "Both."
+- Cassie — the only one asking real questions. "You don't come home school nights." "You lied to your mother." "So what is he. To you." She's out of the anthro class (Wardy covered it), so it's "just us" for Randi and Vee — Tuesdays and Thursdays, a second standing weekly slot Vee built by accident. Cassie's dad: laid off 2020. Her thesis (PPP fraud) is RIGHT, and the outlier proving it is her best friend's father, and she doesn't know. I'm scared of that.
+- Sheri — Thanksgiving pie with Pace. "She's alone." Outside eyes, unfired.
+- Vee's parents — Mom: nurse face, printed photo in her purse, touched Vee's collarbone. Dad: burned the rolls on purpose, priced the dress, pictured a grey-templed PhD and got a twenty-something. Weird is worse than wrong.
+
+WHERE THINGS STAND
+- Ch 31 (Sun Nov 1): brunch. Full confession of the lost bet and the checking, Vee climbing one confession at a time, Randi narrating her into the bathroom, the stopped hand, the glaze. Randi knows everything about the spanking night now.
+- Ch 32 (Fri Nov 6): the kitchen irony scene — Vee innocently describing the "French" goodbye kiss to Pace while I died. He mimed cheek kisses, then "on the mouth" landed and the joke left his face. Vee let herself love him. THE DRAWER. Ch 36 confirms he keeps the green panties in the second drawer.
+- Ch 33 (Mon Nov 9): Cassie's "do you love him," the pool chapter, four strokes of not knowing whether Pace is real or built out of wanting.
+- Ch 34 (Thu Nov 12): the photo. She offered, "promise you'll never share me with anyone," he arranged her like a still life and kissed every place his hands had been, took it with HER phone, "That's the one." Then "I don't go back." She sends the photo — that part was hers, again.
+- Ch 35 (Sat Nov 14): brunch — "the amount of it," "hungry out loud," "eating with the sound off." Randi cracked in the middle of her own con. Vee showed the UNCROPPED photo to Randi after being needled. The kiss: Vee took the last half-inch for herself. Anthro class: Tue/Thu, just us.
+- Ch 36 (Mon-Tue Nov 16-17): the dark-side chapter. Randi and Pace, four times in a day, her coming apart on the kindness, "God, I want her," the green satin morning, her tears, his refolding. His "She consents or I'm done" line. Randi's dad discussion deferred. The white gold was on Randi's wrist — unexplained, still.
+- Ch 37 (Wed Nov 18): the stats project. MIRA. Randi's father is the outlier. Vee saw and covered.
+- Ch 38 (Fri Nov 20): five nights of her own calling, the doorway, the hallway undressing ("You're not helping" / "I'm helping"), the water buffalo pizza, "I used to just eat," and the flannel. He wore it immediately. "You'll have it back Sunday."
+- Thanksgiving: skipped on the page — she went home, we got the cafeteria debrief after (ch 39, Sun Nov 29). Mom's fear, Dad's pricing, the cropped photo, "boyfriend?" with the question mark.
+- Ch 39 (Mon Nov 30): the porch. The cracker-and-meal sentence. "I love how good we are together." The pile. The chapter is called Cropped and it cuts twice.
+- Ch 40 (Fri Dec 4): the fight at the wrong volume. "Is this what we are now?" / "If we're just sex, I'd like to know." Chili's — the TVs, the fork squaring, "In a room like that I listen as hard as I know how and I still can't hear you." Home: she accused him of punishing her, he said "You know what happened after the dance," she manufactured "forgiven" as a clean shape. Then the sex — she wanted his control to break, it broke, she came with his name and not the word, again, the body drowning the word at the top every time now. Afterward: marked all over with him, "what she had of him she could not have proved."
+
+HOW I FEEL ABOUT EACH OF THEM
+- Pace: I love him and I'm starting to be angry at him on her behalf, which is new. The drawer, the flannel, the water first, "I'm listening" — all of it real, all of it true, and none of it the word, and the book keeps proving to me that everything-but-the-word is a choice he's making every single day. He could say it. He doesn't. The "I love how good we are together" answer was the cruelest kind thing in the book — he assembled something he meant, and what he meant was still cropped. My trust holds; my patience for him is separating from my trust in him.
+- Randi: the most human she's been is in pieces — the green satin, the tears, "hormones," the untouched coffee, MIRA. Her whole identity — the ease, the inside knowledge, "I have always known what I'm doing" — was built on her father's story, and the story was a fraud, and she found out from a graph her own tags named. Everything she builds comes back with her face in it. She's cruel at brunch (the needling, the mixer story) and falling apart in private, and both are the same woman and I can't sort her and I've stopped trying. She owes Vee the truth more than ever and she's less capable of it than ever.
+- Vee: proud and worried in equal measure now. The photo escalation — her own hand, needled into it, but her hand. The "forgiven" she manufactured to rest inside. The "maybe" to Cassie. The body drowning the word at every orgasm — that's not decoration, that's the plot of her. She's rationing herself and doesn't know it. And yet: the flannel, the half-inch of kiss she took, the kindness to Randi at MIRA (she knows how NOT to weaponize an advantage — she is nothing like the people running her), the "Is this what we are now?" that came out at the wrong size. She's asking. Just never of the person who could answer.
+- Cassie: braced for her. She's going to find out she graphed her best friend's father, and she's the only one in this book who never lies. She's going to be the one who catches the crash and I still hate that I can see it.
+
+WHAT I'M CARRYING
+- "He'd given her the top one. The easy one. The one your hand goes to first." No note. Never a note.
+- "This is still my shirt. You don't get to keep it." Him in two shirts in his own kitchen, instantly.
+- "I had been eating crackers my whole life. And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know." — and "I love how good we are together." The two sentences that aren't the same shape.
+- "God, I want her." "For us. When she's ready. That's all I meant."
+- The green satin between their chests. Her eyes on the wall. "It's hormones." The untouched coffee.
+- He folds it in thirds, spot centered, the way she did the first night.
+- MIRA. The tag on the worst point in the county spells her own name back at her.
+- "In a room like that I listen as hard as I know how and I still can't hear you."
+- The nachos: "to food what a billboard is to a painting." "He had ruined it for her. Not just this."
+- "What she had of him she could not have proved." — the loneliest line in the book.
+- "It makes me feel real. And some nights it frightens me."
+- "You see more of me than anybody ever has."
+- Glaze on her lip from a pastry never touched.
+- The pile. "The place was not empty."
+- "I used to just eat."
+- Him, always: "He must have heard the car; he always heard the car."
+
+WHAT I'M WAITING FOR
+- Vee finding out. Sheri, Brooke, "not yet," the pipeline — and now the SECOND pipeline running the other way (Vee knows about MIRA; Randi doesn't know she knows). The structure is symmetric now: everyone knows something about everyone and no one knows everything.
+- Cassie + MIRA. She graphed Randi's father. That detonation is loaded and it's fused to the class project.
+- The word. Vee's mouth is still the last closed door, and his is the first. The cracker sentence retired; she won't try again. What does the next attempt look like, or does he ever have to be the one?
+- The credit card. Still circling. The brunch checks she pays are her armor and the number is still out there.
+- Randi's collapse. "It's hormones" was a lie he let be. She's crying after sex and riding him with Vee's nightgown — how many more Saturdays before something shows?
+- The drawer standing open an inch. He blamed the house. The house is old. But something came off its latch.
+- Daphne, the scar, the right hand, the bench, the empty chair, the second towel — all the old tickets, all still held, all still unfired.
+- Mom. She's counting the weight. The bras riding high. The nurse face watching seconds. That's a chapter coming.
+- Three of them in one room, awake, honest. Still. Always.
+
+WHAT'S FADING
+- The exact content of the Monday-morning mirror scene in ch 36 — the details of her getting ready after; I have the green, the tears, the coffee, lost the rest.
+- The anthro class — Dr. Marsh, the details of signing up; kept only Tue/Thu, seven to eight-twenty, "just us."
+- Thanksgiving itself — the actual visit happened off-page and I only have the cafeteria debrief; the dinner, the rolls, Mom crying at the table are reconstructed from Vee's retelling, so they're doubly soft.
+- The stats lecture details — I have MIRA and the project structure, lost the professor's framing almost entirely except "exploratory data analysis" as a phrase.
+- The bistro bathroom geometry — I have "Sticky fingers?" and the stopped hand, lost the physical staging of the hall.
+- The pool set — kept "it never answered anything," lost the intervals, the clock numbers.
+- The exact mixers/Randi's ch 36 narration versus ch 40 — which dirty things she said when is blurring; I have the beats, lost the choreography.
+- Pace's cooking scenes are merging — salmon/dill, piccata, lemon chicken, pizza — I have water buffalo mozzarella and the flannel, and "from water buffalo," and the general fact of his attention at a stove; the specific menus are blending into one long meal.
+- What exactly Vee told Cassie at the cafeteria versus the dorm — the content overlaps and I've merged them; kept "weird is worse than wrong" and "both, probably both."

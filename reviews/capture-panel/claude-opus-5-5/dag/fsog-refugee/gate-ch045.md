@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 **REACTION**
 
-Sheri said it. Somebody finally said it to his face. "Then not saying it matters more to you than having her." Then she held his eyes until he looked down. I've been saying that line in my head since the door closed. I wrote "I'd make him say it first" in my own notes, and here's a five-foot girl with dark roots and too much makeup doing it for me over a chocolate shake. I loved her for it. And then she stole his fries, which is exactly right.
+Sheri. I knew it. I wrote "trust, still" in my notes and I was right. She's gay, she had a Paige, and she's alone at Christmas because her family won't talk to her. That's why "she's alone." Meanwhile Vee was lying in her twin bed in Ohio building a tan blonde out of spite. I want to reach into the last chapter and shake her: the woman he cooked for at Thanksgiving is the one telling him off over a chocolate shake. Then Sheri said what I've been saying for ten chapters, only better and in a booth: "Then not saying it matters more to you than having her. And from this seat, that feels pretty shitty." He looked down. Good. He should.
 
-What got me most was him doing the brick-on-brick thing out loud. "Every weekend, I'm there… I told her she was the most important thing in my life." The book lets him hear himself doing it and not be able to stop, "because every brick was true and the true things were supposed to come to something." That's the closest the book has ever taken me inside why he won't say it, and it isn't a power move. He honestly thinks the evidence should add up to the word, and he can't see that she wants the word because it's the one thing evidence can't give her. "She looked at me like I'd handed her half of something." He saw it. He *saw* her face. That hurts more than if he'd been oblivious.
+Then the whiskey, and I didn't expect what it did to me. I've wondered for a long time whether his silence was decency or cowardice, and he answered it himself: "because he was afraid, and because at the moment she had asked him to be brave he had been weak." "He had hurt her because he was afraid of how much she could hurt him." Daphne was his tutor and his everything, and when she left there was nobody to tell, because she was the person he'd have told. So he made himself a rule: the word is what makes a loss unsurvivable. That's a real wound. It isn't an excuse, and he doesn't use it as one. He knows he loves her. He's known all along. Him sobbing over cold freezer chicken because a truck went past on the highway and didn't turn in just wrecked me. That's the man I left a genre for, shaking too hard to hold a fork.
 
-"I want Vee. I miss her." Plain, no math in it. And "Her name is Vee" when Sheri goes "the redhead" for the second time. I melted a little at that. Same with the table under the glass: "Vee would either love this place or never see it at all, and he wanted very badly to know which." And "Here he could have heard her whisper. He wondered whether she'd let him." He's thinking about her the way she thinks about him at the stove. It hurts because she's in a twin bed in Ohio building a blonde out of spite, and the woman he actually cooked for is gay, just lost a girl named Paige, and thinks his food philosophy is ridiculous. I want to text Vee so badly: *babe, Sheri is NOT the blonde. She's into YOU. Your backside specifically.*
+But I caught on one passage. He's sitting there drunk with the cashmere blanket he keeps for Randi, wondering "how she would carry it. Not whether she wanted it — she wanted it, and a man would have to work at it to miss her wanting it." No, Pace. She wants a friend's kiss on a sidewalk. You learned about that kiss while you were inside Randi, and it "still worked on him." Vee never chose that frame, so you can't read it as her yes. And there's the kitchen picture, the three of them, Vee in his sheet, which he's been "adding to for weeks." Meanwhile Vee lost that exact scene in her own head to an imaginary blonde. Both of them are rewriting the first-night table and neither knows the other is doing it. It's beautiful and it's horrible. He told Randi "she consents — every time — or I'm done," and here he's quietly deciding the consent for her because the evidence looks good. That's the Daphne-with-better-manners thing I keep worrying about, and he still can't see it.
 
-"She find out about the brunette, then?" That landed like a dropped plate. Sheri knows there's a brunette, which means Pace has told *someone* the outside truth he won't tell Vee. "Not like that." Not like what, Pace? I wrote the last time that he won't lie and he won't tell, and here he is telling, just to the wrong woman.
+Even so, I believe him more tonight than I ever have. He knows the word and he knows why he wouldn't say it. Now he has to drive to Ohio, or wait on a porch, or *something*. They haven't really been alone in a room since Chili's. The door-slam on the 11th doesn't count. I feel that gap in my chest now. But this was the right chapter to spend inside it.
 
-The opening scared me a little: "he would not bring her down today… long practice at deciding a thing could keep." Then Elvis, "home for Christmas" pressing a bruise, and "People who've never lost anything think grief is a choice." So "I don't go back" isn't estrangement, it's loss, or both. I'm guessing that's what's actually under "I can't." If so, I'll forgive him a lot. Not all of it.
+1 a.m. text: *Sheri's GAY and she just read him to filth over cheeseburgers. Also he sobbed at a passing truck. Also he's still planning the threesome. I hate everyone, keep going.*
 
-He hasn't texted her the whole break, though, and the chapter doesn't make him answer for that. She was holding her thumb over the empty field at midnight, and he was out at a diner laughing. That's three chapters since they were last in a room, and I can feel it.
-
-Sheri's mouth about Vee's body made me wince for a second ("the one with the big tits"), then I decided it's how she loves him, and he blushed and talked about the philosophy anyway. He's a good man who can't do one thing. Sheri's right that from where I sit, it feels pretty shitty.
-
-GATE 53 — The Usual
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "I can't." I let out a groan at it, but Sheri wouldn't let it stand, so neither did I.
-WHY: The book said my complaint out loud through the one character with no stake in flattering him, and it gave me the first real hint of what's behind his silence. He misses her plainly, and she thinks he's with a blonde. I need the term to start and the two of them back in one room.
+ROMANCE: 3
+ALMOST-STOPPED: "Not whether she wanted it — she wanted it, and a man would have to work at it to miss her wanting it."
+WHY: He finally admitted, to himself, that he loves her and that keeping quiet was fear. Sheri finally said the true thing out loud. Both of those turn the bond even though Vee isn't in the room. The kitchen fantasy and his reading of "she wants it" keep my old fear alive, but now I need the next chapter to be them, in a room, with the word.

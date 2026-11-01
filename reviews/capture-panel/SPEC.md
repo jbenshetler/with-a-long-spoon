@@ -1291,3 +1291,15 @@ correct slot, and the older, now duplicate Gone reads were retired as
 `read-superseded-gone-chNNN.md`. Gates whose `GATE n — Title` line is bold
 (`**GATE …**`) had been counted as untitled and moved by position alone; `TITLE_RE`
 now accepts the bold form (untitled, position-trusted gates across all lanes: 55 at 5c61a4ed, 8 now).
+
+## Checkpoint staleness after a plot addition (author ruling 2026-11-01)
+
+The staleness tiers treat `checkpoint` as "almost never" actionable, because a style edit
+leaves a consolidated summary true. **An edit that adds a plot event later chapters refer
+back to is the exception.** The old mint does not contain the event, so any downstream
+re-read that names it reads against memory that never saw it. Before re-reading, delete the
+stale `ck-ch<B>` through the target's boundary in each affected lane and let the harness
+re-mint. Worked case: Four's morning panel (ch36, added 2026-10-31). Argon fsog-refugee's
+Oct 28 `ck-ch040` lacked it, and its ch45 re-read of The Usual said *"WHAT?! We haven't even
+seen that morning yet!"* That gate was discarded and re-read after re-minting `ck-ch040` and
+`ck-ch050`.
