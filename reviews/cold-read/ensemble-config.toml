@@ -86,6 +86,12 @@ models = [
 # counted by capture_stats (author ruling 2026-10-24). Not retired.
 # claude-opus-4-8 and claude-opus-5 retired 2026-10-25 (see [capture].retired).
 available = []
+# Memory v3 (capture_dag.py --memory grounded; author ruling 2026-11-01): the
+# shared FACT memory every capture lane reads — this model's native grounded
+# checkpoints under reviews/cold-read/<id>/checkpoints/. Facts are not what the
+# capture instrument measures; the persona memory (her verbatim reactions and
+# ledger) stays per lane.
+fact_checkpoint = "claude-opus-5-5"
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
 # the rest by author ruling the same day; git history holds the record).

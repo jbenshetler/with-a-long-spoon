@@ -110,6 +110,8 @@ def sysprompt(persona: str, frame: str) -> tuple[str, str]:
 
 
 def dag_dir(model_id: str, persona: str) -> Path:
+    if MEMORY != "chain":
+        return v3_root(model_id) / persona
     if EXPERIMENT:
         return PANEL_ROOT / "split-experiments" / EXPERIMENT / model_id / "dag" / persona
     return PANEL_ROOT / model_id / "dag" / persona
@@ -286,6 +288,305 @@ def mint_prompt(d: Path, n: int) -> str:
     return "\n".join(parts)
 
 
+# ---------------------------------------------------------------------------
+# Memory v3 (author ruling 2026-11-01): no summary of a summary.
+#
+# The chain mint above re-summarises its own previous summary every decade, in the
+# persona's voice, and by ck-ch050 the bench night was one line. v3 splits memory:
+#   facts   — the cold-read lane's grounded checkpoint (one hop from raw prose,
+#             spec-blind extractor), or in `full` mode the raw book itself;
+#   persona — her own words, never re-summarised: every reaction verbatim for the
+#             current volume, the gate blocks verbatim for earlier volumes, and a
+#             LEDGER (fears, loves, grudges, suspicions, waiting-fors) that code
+#             folds from the per-gate LEDGER deltas.
+# v3 gates live in dag-v3/ (dag-v3-full/), outside the */dag/* glob that
+# capture_stats and capture_delta read, so the eras never mix. SPEC "Memory v3".
+MEMORY = "chain"
+BORROW = False
+PROTOCOL_V3 = "capture-dag-v3"
+LEDGER_KINDS = {"FEAR": "F", "LOVE": "L", "GRUDGE": "G", "SUSPICION": "S", "WAITING": "W"}
+OPEN_STATUSES = {"DEEPENED", "SHIFTED"}
+SETTLED_STATUSES = {"CONFIRMED", "DISPROVED", "RESOLVED", "FORGIVEN", "ANSWERED", "FADED"}
+_KIND = "|".join(LEDGER_KINDS)
+_STATUS = "|".join(sorted(OPEN_STATUSES | SETTLED_STATUSES))
+LEDGER_HEAD_RE = re.compile(r"(?im)^\W*LEDGER\W*$")
+ADD_RE = re.compile(rf"(?i)^\W*\+\s*\**({_KIND})\**\s*[:\-—–]\s*(.+)$")
+UPDATE_RE = re.compile(rf"(?i)^\W*~\s*\[?([A-Za-z]\d+\.\d+)\]?\s+\**({_STATUS})\**\s*[:\-—–]\s*(.+)$")
+SEED_RE = re.compile(rf"(?i)^\W*\+\s*\**({_KIND})\**\s*\(ch\s*(\d+)\)\s*"
+                     rf"(?:\**({_STATUS})\**\s*ch\s*(\d+))?\s*[:\-—–]\s*(.+)$")
+GATE_LINE_RE = re.compile(r"(?m)^\W*GATE\s+\d+")
+
+
+def v3_root(model_id: str) -> Path:
+    sub = "dag-v3-full" if MEMORY == "full" else "dag-v3"
+    if EXPERIMENT:
+        return PANEL_ROOT / "split-experiments" / EXPERIMENT / model_id / sub
+    return PANEL_ROOT / model_id / sub
+
+
+def chain_dir(model_id: str, persona: str) -> Path:
+    """The chain-era lane, the only source a --borrow-history trial borrows from."""
+    return PANEL_ROOT / model_id / "dag" / persona
+
+
+def fact_model() -> str:
+    return str(cold_read_config.load_config()["capture"]["fact_checkpoint"])
+
+
+def fact_checkpoint(b: int) -> tuple[str, str]:
+    """(body, provenance) of the shared grounded checkpoint at boundary b."""
+    m = fact_model()
+    p = cold_read_config.checkpoint_path(m, b)
+    if not p.exists():
+        raise RuntimeError(
+            f"missing grounded checkpoint {p.relative_to(REPO)} — mint it with "
+            f"tools/cold_read_grounded.py (see reviews/cold-read/SPEC.md); "
+            "the capture harness never mints facts itself")
+    raw = p.read_text(encoding="utf-8")
+    stale = fact_stale(b, raw)
+    if stale:
+        print(f"  STALE FACTS — {p.relative_to(REPO)} was minted from prose that has since "
+              f"changed (chapters 1..{b}). A style edit leaves it true; a plot addition does "
+              "not (SPEC 'Checkpoint staleness after a plot addition') — re-mint with "
+              "tools/checkpoint_extract.py. Proceeding.", flush=True)
+    return (checkpoint_bundle.checkpoint_body(raw),
+            f"ck-ch{b:03d}@{m}" + (" (stale)" if stale else ""))
+
+
+_FACT_STALE: dict[int, bool] = {}
+
+
+def fact_stale(b: int, raw: str) -> bool:
+    """Does the checkpoint's recorded bundle-sha256 still match the prose of 1..b?
+    The bundle covers every chapter the checkpoint (and its seed) consolidated."""
+    if b not in _FACT_STALE:
+        recorded = checkpoint_bundle.checkpoint_metadata(raw, "bundle-sha256")
+        current = hashlib.sha256(
+            checkpoint_bundle.build_reader_bundle(b, start=1).encode()).hexdigest()
+        _FACT_STALE[b] = recorded != current
+    return _FACT_STALE[b]
+
+
+def strip_header(text: str) -> str:
+    """Drop the harness's provenance line; keep exactly what the reader wrote."""
+    lines = text.strip().splitlines()
+    if lines and lines[0].startswith("*") and " · gate ch" in lines[0]:
+        lines = lines[1:]
+    return "\n".join(lines).strip()
+
+
+def split_ledger(text: str) -> tuple[str, str]:
+    """(everything before the LEDGER heading, the LEDGER lines)."""
+    heads = list(LEDGER_HEAD_RE.finditer(text))
+    if not heads:
+        return text.strip(), ""
+    h = heads[-1]
+    return text[:h.start()].strip(), text[h.end():].strip()
+
+
+def gate_block(text: str) -> str:
+    body, _ = split_ledger(strip_header(text))
+    hits = list(GATE_LINE_RE.finditer(body))
+    return body[hits[-1].start():].strip() if hits else body
+
+
+def history_source(d: Path, model_id: str, persona: str, i: int) -> tuple[Path, bool] | None:
+    """(gate file for chapter i, borrowed?) — the v3 gate, else the chain gate if
+    the run borrows history. None if neither exists."""
+    own = gate_path(d, i)
+    if own.exists():
+        return own, False
+    if BORROW:
+        b = gate_path(chain_dir(model_id, persona), i)
+        if b.exists():
+            return b, True
+    return None
+
+
+def history(d: Path, model_id: str, persona: str, n: int) -> tuple[str, list[int]]:
+    """WHAT I SAID for chapters 1..n-1, plus the chapters that were borrowed."""
+    vol = checkpoint_bundle.volume_scenes.volume_of(slugs()[n - 1])
+    parts, borrowed, missing = [], [], []
+    for i in range(1, n):
+        src = history_source(d, model_id, persona, i)
+        if src is None:
+            missing.append(i)
+            continue
+        path, was_borrowed = src
+        if was_borrowed:
+            borrowed.append(i)
+        text = path.read_text(encoding="utf-8")
+        title = checkpoint_bundle.display_title(slugs()[i - 1])
+        if checkpoint_bundle.volume_scenes.volume_of(slugs()[i - 1]) == vol:
+            body, _ = split_ledger(strip_header(text))
+        else:
+            body = gate_block(text)
+        parts.append(f"--- chapter {i}: {title} ---\n{body}\n")
+    if missing:
+        raise RuntimeError(
+            f"no reaction on file for chapter(s) {missing[:8]}{'…' if len(missing) > 8 else ''} "
+            f"in {d.relative_to(REPO)} — read from chapter 1, or pass --borrow-history "
+            "for a diagnostic that borrows the chain-era reactions")
+    return "\n".join(parts), borrowed
+
+
+class Ledger:
+    """Folded deterministically from the seed and the per-gate deltas. Never summarised."""
+
+    def __init__(self):
+        self.items: dict[str, dict] = {}
+        self.unmatched: list[str] = []
+
+    def _new_id(self, kind: str, born: int) -> str:
+        k = 1 + sum(1 for i in self.items if i.split(".")[0][1:] == str(born))
+        return f"{LEDGER_KINDS[kind]}{born}.{k}"
+
+    def add(self, kind: str, born: int, text: str, status: str | None = None,
+            at: int | None = None) -> None:
+        kind = kind.upper()
+        iid = self._new_id(kind, born)
+        self.items[iid] = {"kind": kind, "born": born, "text": text.strip(), "history": []}
+        if status:
+            self.items[iid]["history"].append((at or born, status.upper(), ""))
+
+    def update(self, iid: str, status: str, text: str, at: int) -> None:
+        iid = iid.upper()
+        if iid not in self.items:
+            self.unmatched.append(f"ch{at} ~ {iid} {status}: {text}")
+            return
+        self.items[iid]["history"].append((at, status.upper(), text.strip()))
+
+    def apply(self, lines: str, at: int) -> None:
+        for line in lines.splitlines():
+            if m := UPDATE_RE.match(line):
+                self.update(m.group(1), m.group(2), m.group(3), at)
+            elif m := ADD_RE.match(line):
+                self.add(m.group(1), at, m.group(2))
+
+    def apply_seed(self, lines: str) -> None:
+        for line in lines.splitlines():
+            if m := SEED_RE.match(line):
+                kind, born, status, at, text = m.groups()
+                self.add(kind, int(born), text, status, int(at) if at else None)
+
+    @staticmethod
+    def settled(item: dict) -> bool:
+        return any(s in SETTLED_STATUSES for _, s, _ in item["history"])
+
+    def render(self) -> str:
+        def line(iid, it):
+            out = [f"[{iid}] {it['kind']}, since ch{it['born']}: {it['text']}"]
+            out += [f"    ch{at} {s}" + (f": {t}" if t else "") for at, s, t in it["history"]]
+            return "\n".join(out)
+        open_ = [line(i, it) for i, it in self.items.items() if not self.settled(it)]
+        done = [line(i, it) for i, it in self.items.items() if self.settled(it)]
+        parts = ["Open:", *(open_ or ["(nothing yet)"])]
+        if done:
+            parts += ["", "Settled:", *done]
+        return "\n".join(parts)
+
+
+def seed_path(d: Path, k: int) -> Path:
+    return d / f"ledger-seed-ch{k:03d}.md"
+
+
+def ledger_for(d: Path, model_id: str, persona: str, n: int) -> tuple[Ledger, str]:
+    """The ledger as of chapter n-1: the newest seed at or before n-1 whose later
+    chapters are all v3 gates, then every v3 gate's deltas after it."""
+    led, note = Ledger(), "no seed"
+    seeds = sorted((int(p.stem[-3:]), p) for p in d.glob("ledger-seed-ch*.md"))
+    k0 = 0
+    for k, p in reversed(seeds):
+        if k <= n - 1 and all(gate_path(d, i).exists() for i in range(k + 1, n)):
+            _, lines = split_ledger(p.read_text(encoding="utf-8"))
+            led.apply_seed(lines)
+            k0, note = k, f"seed ch{k:03d}"
+            break
+    for i in range(k0 + 1, n):
+        gp = gate_path(d, i)
+        if gp.exists():
+            _, lines = split_ledger(strip_header(gp.read_text(encoding="utf-8")))
+            led.apply(lines, i)
+    return led, note
+
+
+def seed_prompt(model_id: str, persona: str, k: int) -> str:
+    d = v3_root(model_id) / persona
+    parts = ["===== WHAT I SAID — your reactions, verbatim =====\n"]
+    for i in range(1, k + 1):
+        src = history_source(d, model_id, persona, i)
+        if src is None:
+            raise RuntimeError(f"no reaction on file for chapter {i} to seed the ledger from")
+        body, _ = split_ledger(strip_header(src[0].read_text(encoding="utf-8")))
+        title = checkpoint_bundle.display_title(slugs()[i - 1])
+        parts.append(f"--- chapter {i}: {title} ---\n{body}\n")
+    parts.append(f"Write your LEDGER as it stands after chapter {k}.")
+    return "\n".join(parts)
+
+
+def read_prompt_v3(d: Path, model_id: str, persona: str, n: int) -> tuple[str, str]:
+    """(prompt, memory provenance for the gate header)."""
+    b = boundary(n)
+    parts = [jacket_block(n)]
+    if MEMORY == "full":
+        if n > 1:
+            parts.append(f"===== THE BOOK SO FAR (chapters 1–{n - 1}) =====\n")
+            parts += [chapter_block(i) for i in range(1, n)]
+        facts = f"raw ch001..ch{n - 1:03d}" if n > 1 else "none"
+    else:
+        facts = "none"
+        if b:
+            body, facts = fact_checkpoint(b)
+            parts.append(f"===== WHAT HAPPENED (a record of the story through chapter {b}) "
+                         f"=====\n\n{body}\n")
+        if n - 1 > b:
+            facts += f" + raw ch{b + 1:03d}..ch{n - 1:03d}"
+    said, borrowed = history(d, model_id, persona, n) if n > 1 else ("", [])
+    if said:
+        parts.append("===== WHAT I SAID (your own reactions, verbatim: everything for "
+                     "this volume, the gate notes for earlier ones) =====\n\n" + said)
+    led, note = ledger_for(d, model_id, persona, n)
+    if n > 1:
+        parts.append(f"===== MY LEDGER (as of chapter {n - 1}) =====\n\n{led.render()}\n")
+    if MEMORY != "full" and n - 1 > b:
+        parts.append("===== RECENT CHAPTERS (raw, still fresh) =====\n")
+        parts += [chapter_block(i) for i in range(b + 1, n)]
+    parts.append("===== THE NEW CHAPTER =====\n")
+    parts.append(chapter_block(n))
+    parts.append(f"Read chapter {n} and produce your REACTION, then your single gate "
+                 "block, then your LEDGER.")
+    prompt = "\n".join(parts)
+    hist = f"history ch001..ch{n - 1:03d}" if n > 1 else "history none"
+    if borrowed:
+        hist += f" (borrowed from chain ch{borrowed[0]:03d}..ch{borrowed[-1]:03d})"
+    lsha = hashlib.sha256(led.render().encode()).hexdigest()[:12]
+    prov = f"memory {MEMORY}: facts {facts} · {hist} · ledger {note} {lsha}"
+    if led.unmatched:
+        print(f"  ledger: {len(led.unmatched)} update(s) name an unknown id "
+              f"(first: {led.unmatched[0]})", flush=True)
+    return prompt, prov
+
+
+def ensure_seed(model_id: str, persona: str, agent_fn, n: int) -> None:
+    """A borrowed-history trial needs a ledger the chain gates never wrote: one call
+    over her verbatim reactions (one hop from raw, never re-summarised after)."""
+    d = v3_root(model_id) / persona
+    k = n - 1
+    while k > 0 and gate_path(d, k).exists():
+        k -= 1
+    if k == 0 or seed_path(d, k).exists():
+        return
+    sys_text, sha = sysprompt(persona, "core-ledger-seed.md")
+    label = f"{model_id}·{persona}·ledger-seed-ch{k:02d}"
+    raw = agent_fn(sys_text, seed_prompt(model_id, persona, k), label).strip()
+    if not SEED_RE.search(raw.replace("\r", "")) and "LEDGER" not in raw.upper():
+        raise RuntimeError(f"malformed ledger seed for {label} — {save_raw(d, k, label, raw)}")
+    write_doc(seed_path(d, k), f"*{PROTOCOL_V3} · ledger seed ch{k:03d} · {model_id} · "
+                               f"{persona} · prompt-sha {sha} · from borrowed chain reactions "
+                               f"ch001..ch{k:03d} · {date.today().isoformat()}*", raw)
+    print(f"  seed {label}", flush=True)
+
+
 def clean_markdown(text: str) -> str:
     return "\n".join(line.rstrip() for line in text.strip().splitlines()) + "\n"
 
@@ -326,6 +627,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
     sits on a boundary) is overwritten instead of resumed past — the re-read of
     a revised chapter. Scoped to one chapter on purpose: the run's scope is the
     whole range 1..to_n, so a blanket refresh would re-read the entire book."""
+    if MEMORY != "chain":
+        return run_reader_v3(model_id, persona, agent_fn, to_n, fresh, start)
     d = dag_dir(model_id, persona)
     stopped = d / "STOPPED"
     read_frame, mint_frame = PERSONA_FRAMES.get(persona, ("core-chapter.md", "core-mint.md"))
@@ -365,6 +668,40 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
                               f"{persona} · prompt-sha {mint_sha}{variant_tag()} · "
                               f"{date.today().isoformat()}*", raw)
                 print(f"  mint {label}", flush=True)
+    return f"{model_id}·{persona}: through ch{to_n}"
+
+
+def run_reader_v3(model_id: str, persona: str, agent_fn, to_n: int,
+                  fresh: int | None = None, start: int = 1) -> str:
+    """The v3 loop: no mints. A STOP still ends the reader."""
+    if persona in PERSONA_FRAMES:
+        raise RuntimeError(f"{persona} reads through its own frame; v3 memory is for capture readers")
+    d = dag_dir(model_id, persona)
+    stopped = d / "STOPPED"
+    read_sys, read_sha = sysprompt(persona, "core-chapter-v3.md")
+    for n in range(start, to_n + 1):
+        if stopped.exists():
+            return f"{model_id}·{persona}: stopped earlier"
+        gp = gate_path(d, n)
+        if not gp.exists() or n == fresh:
+            if BORROW and n > 1:
+                ensure_seed(model_id, persona, agent_fn, n)
+            label = f"{model_id}·{persona}·ch{n:02d}·{MEMORY}"
+            prompt, prov = read_prompt_v3(d, model_id, persona, n)
+            raw = agent_fn(read_sys, prompt, label).strip()
+            if "DECISION" not in raw.upper():
+                raise RuntimeError(f"malformed gate for {label}"
+                                   f" — {save_raw(d, n, label, raw)}")
+            if not LEDGER_HEAD_RE.search(raw):
+                print(f"  note: {label} wrote no LEDGER", flush=True)
+            write_doc(gp, f"*{PROTOCOL_V3}-{MEMORY} · gate ch{n:03d} · {model_id} · {persona} · "
+                          f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)}{variant_tag()} · "
+                          f"{prov} · {date.today().isoformat()}*", raw)
+            print(f"  gate {label} (~{len(prompt) // 4} tokens in)", flush=True)
+        if re.search(r"DECISION:\s*STOP", gp.read_text(), re.I):
+            stopped.write_text(f"stopped at ch{n:03d}\n")
+            print(f"  STOP {model_id}·{persona} at ch{n}", flush=True)
+            return f"{model_id}·{persona}: STOPPED at ch{n}"
     return f"{model_id}·{persona}: through ch{to_n}"
 
 
@@ -464,15 +801,38 @@ def main() -> None:
                     help="experiments only: read without date lines (the default for experiments)")
     ap.add_argument("--show-packet", type=int, metavar="N",
                     help="print chapter N as the reader would see it, then exit (no calls)")
+    ap.add_argument("--memory", choices=["chain", "grounded", "full"], default="chain",
+                    help="chain = the decade-mint lanes in dag/; grounded = memory v3 "
+                         "(grounded fact checkpoint + her verbatim reactions + ledger) in "
+                         "dag-v3/; full = v3 with the raw book in place of the checkpoint "
+                         "(pre-pub reads), in dag-v3-full/")
+    ap.add_argument("--borrow-history", action="store_true",
+                    help="v3 diagnostic: where the v3 lane has no gate, use the chain-era "
+                         "reaction, and seed the ledger from those reactions (one call)")
+    ap.add_argument("--show-prompt", type=int, metavar="N",
+                    help="v3: print the assembled prompt for chapter N of the first "
+                         "model/persona and its token estimate, then exit (no calls)")
     args = ap.parse_args()
 
-    global EXPERIMENT, DATED
+    global EXPERIMENT, DATED, MEMORY, BORROW
     EXPERIMENT = args.experiment
+    MEMORY = args.memory
+    BORROW = args.borrow_history
+    if BORROW and MEMORY == "chain":
+        raise SystemExit("--borrow-history is for --memory grounded|full")
     if not EXPERIMENT and args.undated:
         raise SystemExit("--undated requires --experiment: the real lanes read the book as it ships, dated")
     DATED = args.dated if EXPERIMENT else True
     if args.show_packet:
         print(chapter_block(args.show_packet))
+        return
+    if args.show_prompt:
+        if MEMORY == "chain":
+            raise SystemExit("--show-prompt is for --memory grounded|full")
+        m, p = args.models[0], args.personas[0]
+        prompt, prov = read_prompt_v3(dag_dir(m, p), m, p, args.show_prompt)
+        print(prompt)
+        print(f"\n[{prov} · ~{len(prompt) // 4} tokens]", file=sys.stderr)
         return
 
     if args.assemble:
@@ -508,6 +868,12 @@ def main() -> None:
     # Staleness is a warning, never a gate. A style edit to an early chapter must not
     # force a re-read of every downstream chapter; report the tiers and proceed.
     print_stale_report(stale_report(args.models, list(args.personas), args.to))
+    if MEMORY == "grounded":
+        for b in sorted({boundary(n) for n in range(max(args.start, 1), args.to + 1)} - {0}):
+            p = cold_read_config.checkpoint_path(fact_model(), b)
+            if p.exists() and fact_stale(b, p.read_text(encoding="utf-8")):
+                print(f"  STALE FACTS: {p.relative_to(REPO)} predates a prose change in "
+                      f"ch1..{b} (re-mint after a plot addition)", flush=True)
     if args.check_stale:
         return
 
@@ -530,7 +896,7 @@ def main() -> None:
         list(pool.map(lambda t: one(*t), readers))
 
     print("\n".join(results))
-    if args.fresh:
+    if args.fresh and MEMORY == "chain" and not EXPERIMENT:
         print(f"\nRe-read done. Before committing these gates, run "
               f"`tools/capture_delta.py --chapter {args.to}` (SPEC rule 3b) and report it.",
               flush=True)

@@ -1,0 +1,37 @@
+*capture-dag-v3-grounded · gate ch045 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4aadfb50d940 · experiment v3-ch45 · dated · memory grounded: facts ck-ch040@claude-opus-5-5 + raw ch041..ch044 · history ch001..ch044 (borrowed from chain ch001..ch044) · ledger seed ch044 bc47743ebbfe · 2026-11-01*
+
+REACTION — I need to be honest about the first thing I felt, which was a flash of *oh no, not another person lying awake* — third chapter in a row of some principal alone in the dark — and then the diner got its claws in me and I stopped counting chapters entirely.
+
+Because this is the chapter that answers S1.4, the IOU I've been carrying since the scar. "He had taught himself that the words were the difference." There it is. Not a dodge, not a commitment-phobe trope — a man who said "I love you" once, at fifteen, to the one person, and when she left there was *no one to tell that Daphne was gone. Daphne was the person he would have told.* I had to put the Kindle down at that. Of course he never said it again. He built a whole life with edges of his own, care without catastrophe, and it worked, and then Vee came and cracked the whole architecture and he KNEW the true answer was "there, whole and ready" on the porch and chose the smaller truth *because it was safe, and because he was afraid, and because at the moment she had asked him to be brave he had been weak.* The book just let him convict himself in his own kitchen. That's what I was afraid wouldn't happen — I was braced for the narrative to side with him (F42.1), and instead it gave me his confession, plain, no hedging. "He had hurt her because he was afraid of how much she could hurt him." I forgive him about forty percent and I think that's the right number, and I love that the book made me set the number myself.
+
+And Sheri. God, Sheri. This is the best dialogue chapter in the book since the practice room, and it's two people eating cheeseburgers under a piece of amber glass with young Elvis in it. "That's a hell of a lot of reasons for a man who's already got the girl. She didn't ask you for reasons." She took the exact thing I've been screaming since ch42 and said it to his face, with a french fry. And him laying the bricks — "I told her she was the most important thing in my life. I said it, out loud, in words" — hearing him know the true things were supposed to come to something. Also "the philosophy of your food. Lord almighty. Get over yourself" — I laughed out loud and then felt caught, because I've been dining on the philosophy of his food for forty-four chapters and she's right and so is he. And the Paige thing — "people who've never lost anything think grief is a choice" — two people who don't touch the irony because there's nothing clever enough. That's the grown-up emotional intelligence I'm starving for, sitting in a diner I could smell.
+
+Small horrified delight: Sheri was the one who saw Randi at the Nail — "looked at me like I was one more of your harem applicants" — okay, that's the blonde-adjacent thread pulling tighter, but I noticed the book still won't bind her to the bar blonde and I'm officially done trying.
+
+The things that wrecked me in the second half, in order: the blanket. *Randi's* cashmere blanket lives on the chair in his bedroom — "the blanket she wanted about a minute after, every time, so reliably that he kept it for her" — and he folds it and puts it back where it lives the morning after drinking himself sick. And the Randi paragraph: six weeks of silence told him what the morning with the green panties didn't. He knows she's gone. "If she was." That door is standing open and cold and he won't take the choosing from her, and that's the same grammar as everything he does with Vee and I finally see it's also how he loses people.
+
+The drunk-pictures sequence: "a girl with brown hair and glasses who laughed with her hand over her mouth. He had not let himself down there in a long time." Daphne arriving *before* the reveal does. The man drinks alone for the first time — "he did not drink alone. There had never been an occasion" — and then the morning, the prison food, the shaking hands, "it went down because he told it to." He eats anyway. That last page — the engine on the highway that isn't her, the one second the house gives him Vee, the sobbing bent over the table — this man sobbing is the thing I'd text my friend about at 1 a.m. I have never once seen him break and the book saved it for a truck that was never going to turn in.
+
+And his imagined morning-after picture: the three of them in the kitchen, Vee laughing with Randi, honey in her tea. He's still building toward the threesome, and I sat there doing the terrible math — the reader's math — that the woman he's picturing at that table hasn't called him in six weeks and is lying in a Swiss bed feeling nothing. The plan is dead on both ends and only he doesn't know it.
+
+No heat, no Vee, and it's a 10 anyway. Two quiet chapters was my limit; this makes three, and I'm going to allow it, because this wasn't a vigil — this was the answer. But term starts next chapter. I need her face lighting up, I need Randi's, and I need them in a room together soon or the ache stops being delicious.
+
+GATE 50 — The Usual
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: The opening of the diner half, when I felt a third solitary chapter assembling — until "The usual?" and the amber glass, and then it had me.
+WHY: The Daphne wound finally paid out — "he had taught himself that the words were the difference" — and the book sided against him in his own voice, which is the only way I'd have accepted it. Sheri saying everything I've wanted said, plus the sobbing-over-a-truck-that-isn't-her ending, has me fully committed; I just need the reunion within a chapter or two or the ache curdles.
+
+LEDGER
++ LOVE: Sheri, fully — "she didn't want him, she wasn't impressed by him, she just liked him and gave him hell." The best friend in the book's whole cast, and she said the true thing with a french fry.
++ LOVE: "The first bite always told him" — him watching her face open before the words. He's been in love the whole time and the book finally let him know it on the page.
++ FEAR: Pace knows he loves her and still can't say it — the fear is constitutional now, built from Daphne, and knowing WHY doesn't fix it. This could genuinely end with nobody saying the word.
++ SUSPICION: Sheri saw Randi at the Nail and Randi clocked her as competition — the two women who know everything about this triangle have now met twice, and I don't think that's furniture.
+~ S1.4 STATUS: CONFIRMED — the frictionlessness was armor all along; "he taught himself the words were the difference." The scar is still unexplained but the man is explained.
+~ F42.1 STATUS: SHIFTED — the book did not side with Pace; it let him convict himself ("because he was weak"). The grudge is half-forgiven, not the fear.
+~ W42.3 STATUS: SHIFTED — still unresolved from Vee's side, but now I know his: he wants her, he misses her, and he knows he hurt her. Term starts any chapter now.
+~ S11.1 STATUS: SHIFTED — his script finally has a visible cost line in it; the man six moves ahead turns out to have been running from a fifteen-year-old's winter the whole time.
+~ W22.2 STATUS: SHIFTED — Daphne is half-paid (the departure, the tutor years, the love spoken once); the scar itself and "the door" are still out.

@@ -1310,3 +1310,61 @@ re-mint. Worked case: Four's morning panel (ch36, added 2026-10-31). Argon fsog-
 Oct 28 `ck-ch040` lacked it, and its ch45 re-read of The Usual said *"WHAT?! We haven't even
 seen that morning yet!"* That gate was discarded and re-read after re-minting `ck-ch040` and
 `ck-ch050`.
+
+## Memory v3: no summary of a summary (author ruling 2026-11-01, on trial)
+
+**The defect.** The chain mint (`ck-ch<B>` = previous `ck-ch<B−10>` + the decade's raw prose +
+her gates, in her voice) is the retired cold-read chain at decade granularity: by ch70, seven
+re-summaries deep. Measured on opus romance-graduate, `ck-ch050` holds ~170k words of novel in
+2,192 words, and the bench night, chapter 1, has decayed to *"Where the bench/table sits in
+his bedroom. Still haven't seen it again."* The grounded cold-read `ck-ch040` (one hop from
+raw prose) still has the whole night and a per-chapter POV index. Readers treated the
+recollections as news — glm romance-graduate at ch45: *"there's a bench scene in his history
+with Randi I never saw."* The cold-read SPEC already ruled the cause: the decay is the chain
+itself, not a missing instruction.
+
+**Option 1 (adopted for trial).** `tools/capture_dag.py --memory grounded`, gates in
+`<model>/dag-v3/<persona>/` (outside the `*/dag/*` glob of `capture_stats`/`capture_delta`):
+
+- **Facts:** the cold-read lane's grounded checkpoint at the decade boundary, shared by every
+  capture lane (`ensemble-config.toml [capture].fact_checkpoint`), plus the raw window.
+  The capture harness never mints facts.
+- **Persona, never re-summarised:** WHAT I SAID — every reaction verbatim for the current
+  volume, the gate blocks verbatim for earlier volumes; and MY LEDGER — fears, loves, grudges,
+  suspicions, waiting-fors. Each gate ends with a `LEDGER` block of deltas (`+ KIND: …`,
+  `~ <id> <STATUS>: …`); code folds them. Ids are `<kind letter><born chapter>.<k>`, so a
+  re-read never renumbers another chapter's entries. Settled entries stay visible: a reader
+  remembers a grudge she let go of.
+- **No capture mints at all.** Frame: `prompts/core-chapter-v3.md`.
+- `--borrow-history` (diagnostic): missing v3 gates are taken from the chain lane, and the
+  ledger is seeded by one call over those verbatim reactions (`prompts/core-ledger-seed.md`,
+  `ledger-seed-ch<K>.md`), the one permitted hop.
+
+`--memory full` is the same persona memory with the raw book (ch1..N−1) in place of the
+checkpoint and window: for final pre-pub reads only (~380k tokens at ch72).
+
+**Cost.** Measured prompts (characters ÷ 4): ch45 opus 34k → 55k, sonnet → 45k. At the end of
+Volume Two (ch47) the verbatim-everything variant measured 75–109k against 32–37k; option 1
+sits between, because earlier volumes contribute only their gate blocks.
+
+**A new era.** The prompt sha changes, so v3 gates are never compared to chain gates by
+`capture_delta`. Adoption needs a baseline v3 read and fresh test-retest pairs.
+
+**Stored alternatives, to reconsider if option 1 disappoints:**
+- *All reactions verbatim, every volume:* the purest; ~2.5–3× chain input by ch47 (fable most).
+- *Ledger plus gate blocks only, no full reactions:* ~1.5×; keeps the fears and grudges, loses
+  her texture.
+- *Cap reaction length in the persona frame:* cheapest; changes the instrument itself.
+- *A persona summary at each volume seam:* the one summary hop the author allowed; not needed
+  while the gate blocks and ledger carry earlier volumes.
+
+**Fact staleness.** v3 reads a checkpoint the capture harness does not own, so the gate
+staleness report cannot see it. The harness recomputes the checkpoint's recorded
+`bundle-sha256` against current prose (ch1..B) and warns `STALE FACTS` before the run and in
+the gate header. Found by the trial: the shared `ck-ch040` (minted 2026-10-30) predated Four's
+morning panel (2026-10-31), and glm's v3 ch45 read called the green panties "the green
+nightgown". Same rule as above: after a plot addition, re-mint before re-reading.
+
+**Risk to watch.** A model fed its own words tends to escalate a grudge and quote itself. The
+ledger makes FORGIVEN / DISPROVED / FADED first-class, and the frame says she may have changed
+her mind. The trial compares complaint inflation against the chain gates for the same chapter.
