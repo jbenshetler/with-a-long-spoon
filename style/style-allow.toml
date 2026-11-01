@@ -1789,6 +1789,13 @@ text = "Then she folded onto his chest, and he felt her shake, and then the wet 
 note = "author 2026-10-31: tactile, she is on his chest; earned"
 
 [[ok]]
+fp   = "ffce342b84df"
+rule = "filter-verbs"
+file = "scenes/four.md"
+text = "The black she had stepped into while he watched."
+note = "author 2026-10-31: re-ack after green->black; wording otherwise unchanged"
+
+[[ok]]
 fp   = "c7c113b8212c"
 rule = "the-way"
 file = "scenes/four.md"
