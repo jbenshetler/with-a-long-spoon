@@ -38,6 +38,8 @@ When it finally broke, Randi's neck and shoulder were wet where she'd cried, and
 
 She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted her once the whole break. Not one word. Over a month of nothing. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
 
+"Not a word," Randi said. It came out low and not quite to Vee, and for a moment her eyes were somewhere past Vee's shoulder. Some boy, then. Some boy had done this to her once, gone quiet and never called, and she had not forgotten it. Of course Randi knew. Randi knew everything that could happen to a girl.
+
 Randi didn't tell her she was wrong. She toed her slippers off and got up onto the bed, and Vee stayed where she was, on the edge of it with her knees together and her feet still on the floor.
 
 Randi put a hand on her knee and pushed it an inch sideways. "I don't bite."

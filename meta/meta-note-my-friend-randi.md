@@ -282,3 +282,13 @@ house, and you've got her. You need to choose."*
 - **Lauren Pike** (new canon): a former sister who left the house under this pressure. Randi sat on the Standards board that pressed her out (author 2026-10-12); it surfaces as hall gossip at {{Inversion}}.
   Nobody asked her to go. She shows the pattern, and that the penalty is functional and
   real, not a threat.
+
+## Randi's leak (author, 2026-10-31)
+
+After Vee's *"Over a month of nothing"*, Randi says *"Not a word"* low and not quite to Vee,
+her eyes past Vee's shoulder. She is two months without Pace, since {{Four}}'s morning panel
+({{The Usual}} plants it). Vee fills it in from Randi's tellings: *"Some boy had done this to her
+once, gone quiet and never called"*. She is right about everything but who. That reloads `:67`
+(*"each waiting on the other to break first… a boy holding himself still"*) as Randi's own
+case. The beat is kept in Vee's thought, without the verb *read*, so it does not double the
+*"Vee read the quiet as discretion"* beat after the Gstaad story.

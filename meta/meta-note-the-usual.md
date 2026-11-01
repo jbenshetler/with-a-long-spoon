@@ -193,3 +193,17 @@ carries *lover* (`:207`) and no age; the book never puts them on one page. A rea
 here and assuming Pace was nineteen is the accepted cost — {{Rock}} already runs the
 arithmetic explicitly, including Vee holding the word behind her teeth. Do not "fix" the
 misread by naming fifteen here.
+
+## Randi's silence (author, 2026-10-31)
+
+Panel one, after *"Say something nice to me"*: Pace has not seen Randi since {{Four}}'s
+morning panel, when she came down his hall with Vee's green; she has not come out or called.
+Six weeks of that tells him the morning's crying was bad (until then he had not gone a week
+without seeing her; many weeknight visits are unrendered), which is not like the bench, *"when
+her crying was the truest thing he had ever had from her"*. That is his misread of the bench,
+and it stays intact. *"He had let it be hormones"* recalls {{Four}}. He waits on principle (the
+choosing is hers; *"When she was ready, she would call. If she was."*), which is the same
+posture that keeps him silent toward Vee, a few pages after Sheri's *"not saying it matters
+more to you than having her."* *"When she was ready"* also echoes Randi's *"For us. When she's
+ready"* about Vee. Also fixed: the November-kiss recall no longer puts Randi's mouth at his
+ear, because in {{Four}} she told it facing away.
