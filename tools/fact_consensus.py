@@ -89,8 +89,17 @@ def call(model: str, system: str, prompt: str, label: str) -> str:
         fn = cold_read.make_openrouter_agent_fn(
             system_prompt=system, api_key=key, policy="capture", effort="medium",
             timeout=3600, max_output_tokens=OR_MAX_OUTPUT)
-        r = fn(prompt=prompt, model=routes[model], label=label) or {}
-        return r.get("output") or ""
+        # A cut-off response is a failure, not a thin slot: argon at ch70 returned 146
+        # lines ending mid-sentence with in=0 out=0 billed. Retry once, then fail the slot.
+        why = ""
+        for _attempt in range(2):
+            r = fn(prompt=prompt, model=routes[model], label=label) or {}
+            u = r.get("usage") or {}
+            if u.get("output") and u.get("finishReason") in ("stop", "end_turn", None):
+                return r.get("output") or ""
+            why = f"finish={u.get('finishReason')} out={u.get('output')}"
+            print(f"  {label}: incomplete response ({why}); retrying", flush=True)
+        raise RuntimeError(f"incomplete response twice ({why})")
     f, close = cold_read.make_codex_agent_fn(system_prompt=system, effort="medium")
     try:
         return (f(prompt=prompt, model=model, label=label) or {}).get("output") or ""
@@ -133,9 +142,27 @@ def extract(slot: str, model: str, b: int, page: str, page_sha: str, force: bool
     system = EXTRACT_PROMPT.read_text(encoding="utf-8")
     prompt = (f"===== THE NOVEL, CHAPTERS 1–{b} =====\n\n{page}\n\n"
               f"Write the facts of chapters 1–{b} now, one per line.")
-    raw = call(model, system, prompt, f"facts·{slot}·{model}·ch{b:03d}")
+    try:
+        raw = call(model, system, prompt, f"facts·{slot}·{model}·ch{b:03d}")
+        ranges = f"1-{b}"
+    except Exception as e:  # noqa: BLE001
+        if "maximum length" not in str(e):
+            raise
+        # The codex lane caps a message at 1,048,576 characters (~262k tokens), well under
+        # the model's window; sol hit it at ch60. Every claim names its chapter, so the book
+        # can be read in chapter ranges and the claims joined: still raw prose, no lineage.
+        raw, spans = [], []
+        for lo, hi in chunk_ranges(b):
+            part = checkpoint_bundle.build_reader_bundle(hi, start=lo)
+            ask = (f"===== THE NOVEL, CHAPTERS {lo}–{hi} =====\n\n{part}\n\n"
+                   f"Write the facts of chapters {lo}–{hi} now, one per line.")
+            raw.append(call(model, system, ask, f"facts·{slot}·{model}·ch{b:03d}·{lo}-{hi}"))
+            spans.append(f"{lo}-{hi}")
+        raw, ranges = "\n".join(raw), ",".join(spans)
+        print(f"  slot {slot} ({model}): read in chapter ranges {ranges}", flush=True)
     p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(f"{head} · {date.today().isoformat()}\n\n{raw.strip()}\n", encoding="utf-8")
+    p.write_text(f"{head} · ranges {ranges} · {date.today().isoformat()}\n\n{raw.strip()}\n",
+                 encoding="utf-8")
     print(f"  slot {slot} ({model}): {len(raw.splitlines())} lines", flush=True)
     return p.read_text(encoding="utf-8")
 
@@ -158,6 +185,21 @@ def pov_consensus(lists: dict[str, list[dict]], quorum: int) -> dict[int, list[s
                 seen.add(key)
                 votes.setdefault(c["ch"], Counter())[key[1]] += 1
     return {ch: [n for n, k in v.most_common() if k >= quorum] for ch, v in votes.items()}
+
+
+CHUNK_CHARS = 900_000
+
+
+def chunk_ranges(b: int) -> list[tuple[int, int]]:
+    """Consecutive chapter ranges covering 1..b, each bundle under CHUNK_CHARS."""
+    out, lo = [], 1
+    while lo <= b:
+        hi = lo
+        while hi < b and len(checkpoint_bundle.build_reader_bundle(hi + 1, start=lo)) < CHUNK_CHARS:
+            hi += 1
+        out.append((lo, hi))
+        lo = hi + 1
+    return out
 
 
 def match(lists: dict[str, list[dict]], matcher: str, b: int) -> str:

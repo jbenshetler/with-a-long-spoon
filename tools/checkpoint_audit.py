@@ -122,6 +122,11 @@ def parse(body: str, structural: bool = True) -> list[dict]:
     return rows
 
 
+# `(Vee POV.)` / `(Pace then Randi POV.)`: the consensus settles POV by code majority. It
+# is structure, never a claim: one ch60 audit labelled all 64 tags INFERENCE.
+POV_TAG = re.compile(r"^\((?:[A-Z][\w'’-]+)(?: then [A-Z][\w'’-]+)* POV\.\)$")
+
+
 def units(rows: list[dict]) -> list[tuple[str, str, str]]:
     out, k = [], 0
     for r in rows:
@@ -129,7 +134,8 @@ def units(rows: list[dict]) -> list[tuple[str, str, str]]:
             continue
         for u in r["units"]:
             k += 1
-            out.append((f"U{k:03d}", r["section"], u.strip()))
+            if not POV_TAG.match(u.strip()):
+                out.append((f"U{k:03d}", r["section"], u.strip()))
     return out
 
 
@@ -294,7 +300,7 @@ def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
         for u in r["units"]:
             k += 1
             uid = norm(u)
-            if keep is None or uid in keep:
+            if keep is None or uid in keep or POV_TAG.match(u.strip()):
                 part = trims.get(uid)
                 if part:
                     part = part.rstrip(" ,;:—-")
