@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch045 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+
+REACTION — God, Pace. *God.*
+
+I finished this one sitting very still, which is not how I usually finish chapters in this book. Usually I'm either wrecked over Vee or furious at Randi or both at once. This time I just kept thinking: so you *know*. You actually know. It's not that the word isn't in you, it's not that you don't feel the shape of it — you felt it rise on that porch, whole and ready, and you picked the smaller sentence anyway because you were scared. Because Daphne.
+
+And somehow that makes it worse and better at the same time? Better because I'm not crazy for believing him — the drawer, the shirt over the shirt, the blown-on spoon, all of it was real, it was love acting without its name. Worse because "Words are cheap" was never the truth. The truth is *words cost me too much once, so you don't get them.* He'd decided the words were the difference between losing Daphne and having his life consumed, and surviving everybody after her. He built a whole rule out of being fifteen and annihilated, and now Vee is paying the bill for Daphne in a cold dorm room, in her childhood twin bed, inventing a blonde at his stove.
+
+Sheri. I loved Sheri in this in a way that almost scared me. Four seconds at a bar and half the book's outside world in one diner booth — *she didn't ask you for reasons, so say it, then not saying it matters more to you than having her.* No softening, steals his fries right after. She's the only person who talks to him like Cassie talks, flat and clean, and he laughs with her — that big real laugh over "the philosophy of your food" — and I could feel how starved *he* is for somebody who wants nothing off him. And then of course the other shoe: she has no idea. She thinks there's a redhead and a brunette, two separate applicants in his harem, she never learned Randi's name, and she's giving him perfect advice about a situation that is rotten in a way she can't even see. Everybody at every table knows one true piece and nobody has the whole picture except Randi and Pace, and they built it that way.
+
+The drunk section got under my skin in a quieter way. The man does not drink alone, does not lose control, loses control at *Chili's* only in the sense that his body finally slipped its leash — and here he is filling the glass again, folding Randi's cashmere blanket back where it lives, going through the phone pictures in order like reading, then bleach smell and a mop bucket in the hall and prison food he eats anyway because he told it to go down. That last image — hearing a truck, his whole body gathering toward the drive, sobbing over cold chicken and broccoli, then picking the fork back up, not hungry, eating anyway — that's the most unguarded I've ever seen him and there's no one there to see it. Which is the whole tragedy of him, isn't it. He can do the feeling. He can even, alone and hungover, name it to himself perfectly: *I hurt her because I was afraid of how much she could hurt me.* He just cannot hand it to the person it's for.
+
+And I won't pretend the kitchen picture didn't snag me. Vee in his sheet with honey in her tea, Randi's feet up on the chair, the two of them laughing at something he missed — he's been *adding to it for weeks*, further along each time, wondering how Vee would "carry" a room he and Randi designed before Vee ever walked into it. Even in his loneliest, guiltiest hour, the fantasy isn't confessing. It's the three of them, after, with nobody hurrying anywhere. He misses Randi too — six weeks since the green panties in her fist and he let it ride on "hormones," he keeps her blanket on the chair, *she had always been the one who came and the choosing was hers* — and I believe he misses her, and I also notice that "respecting her choice" is the exact same move as "believe what I do": it lets him never be the one who has to walk toward anybody and say the exposing thing first.
+
+If he'd sent even a piece of this chapter to Vee it would change everything, and that's what has me by the throat going forward. The word exists. It's been said to exactly one person, she left, and now it's in a dark house with the lamp off, said to no one. Vee is lying in Ohio believing it might be over and he is on his stoop in his head watching her taillights. I need to know what breaks first — his rule, Randi's silence, or Vee.
+
+GATE 45 — The Usual
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "Then he had chosen the smaller truth."
+WHY: He knows he loves her, knows exactly why he won't say it, can sob it over cold chicken alone in his kitchen — and the plan in his head is still the two of them laughing at his table, not the truth. I can't leave him, or Vee, in that house.

@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch047 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha e4c9afc17bfa · dated · 2026-11-01*
+
+Oh, I am *gone* again. And annoyed that I'm gone, because I can see exactly whose hands built this night and I'm still sitting here with my heart in my throat over it.
+
+That mirror scene got me before Pace even opened the door. Not just because it was hot — it was, Jesus, the heels on first and *only*, her making herself wait, rolling her own nipples and thinking about his mouth, starting herself twice and refusing to finish because she wanted to carry it to *him* like that — but because for once she wasn't being looked at and arranged. She was looking. She chose the stripper's body word herself, she took the weight of herself in her own hands, she decided this body that's been hidden and apologized for since she was fourteen was going to be *used*, on purpose, by her. I have read that coat fantasy a hundred times and it's usually just a cute little porno shortcut. This one had four months of shame and hunger loaded into the buttons. When she giggled alone in the room — "last thing, only thing" — I loved her so much I could have cried.
+
+And then Randi. Because I can't not see Randi all over it, can I? The peace sign he can't misread. *Words are the whole war. You've got the goods, gorgeous.* The shoes pressed into her hands, two of them holding the straps together for a second. Randi literally costumed Vee's big brave autonomous gesture, and the worst part is it *worked*, and it worked partly because Randi knows both of them better than they know themselves. Vee walked out thinking she'd taken it into her own hands. She had. She also had Randi's script in her mouth and Randi's heels laddered up her calves. Both things true at once, which is this whole book in one outfit.
+
+The car. Um. The car nearly took me out. One hand back on the wheel, coat, wet fingers, blue and red lights wheeling through — my whole body clenched like *I* was about to have to explain myself to a state trooper. It should have been too much, too reckless-cute, and instead the scare just wound her tighter and left that dark mark on the pale lining of her good church coat and she decided it meant she meant it. That's Vee now. The body tells on her and she's stopped flinching from the evidence.
+
+And the doorstep — he said it. He *started* it. "Vee, I l—" and she cut him off because she'd rehearsed a reveal, not a conversation. I wanted to shake her and I completely understood her. She'd come to not lose, and listening felt like losing. Then she opens the coat and the wall just *goes*. Not seduced down, not argued down. Gone. The glad and the wrecked in one look, him on his knees on cold boards in an open doorway with the wind banging the door and her wet nipples stinging in the January air while his mouth is on her — that's a 1 a.m. text with seventeen exclamation points from me. Standing, held up off the floor, coat fluttering around both of them, then the hopeless three steps toward the bed with his jeans around his thighs. Graceless. Yes. Real bodies, real urgency, nobody performing pretty.
+
+But what actually undid me wasn't the sex, it was after. Him going back down beside the couch just to keep her gently lit, not to start anything. The blanket tucked around her. *Those stay on.* Pancakes at midnight because she's starved and forgot to eat, him making them exactly right without looking, and then — on one knee by her chair, forehead kiss, voice cracking — "I'm sorry. I never meant to hurt you. I missed you so much." No name for it. Still no name for it. And tonight she doesn't need it, she's full of food and warmth and relief, and I'm sitting here like: honey. *Honey.* He almost said it on the porch and you stopped him, and now sorry is doing all the work love was supposed to do, and you're too happy and too well-fed to notice the substitution. Again.
+
+That's why I can't stop. The reunion is everything I wanted and it solves *nothing*. They're back inside the warm house with the door shut — literally, he shuts it himself this time — and Randi is out there somewhere knowing exactly what Vee wore and why, and Pace still has a word in his throat he choked on in December and fumbled again tonight. She came home in his sweats and another woman's heels and Cassie's whole review was "Hmm." Perfect. Correct. I need the morning after this wears off.
+
+GATE 47 — Nothing Underneath
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The doorstep and the pancakes together are exactly the depth-plus-heat I've been starving for, and her choosing her own body undid me. I'm continuing happy and suspicious in equal measure — he almost said it, she stopped him, and Randi built the whole brave night.
