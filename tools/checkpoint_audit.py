@@ -128,12 +128,19 @@ def units(rows: list[dict]) -> list[tuple[str, str, str]]:
     return out
 
 
-def verify(quote: str, page_norm: str) -> bool:
-    q = norm(quote.strip().strip('"'))
-    if len(q.split()) < 3:
+def words(s: str) -> str:
+    """Letters and digits only: a quote is verified on its words, not its punctuation
+    (glm wrote `Trade, she said.` for the page's `"Trade," she said.`)."""
+    return " " + " ".join(re.findall(r"[a-z0-9]+(?:'[a-z]+)?", norm(s))) + " "
+
+
+def verify(quote: str, page_words: str) -> bool:
+    """`page_words` is words(page). Each run between ellipses must be on the page."""
+    pieces = [words(p) for p in re.split(r"\.\.\.|…|\[\.\.\.\]", quote)]
+    pieces = [p for p in pieces if len(p.split()) >= 2]
+    if sum(len(p.split()) for p in pieces) < 3:
         return False
-    pieces = [p.strip(" .,;:") for p in re.split(r"\.\.\.|\[\.\.\.\]", q)]
-    return all(p and p in page_norm for p in pieces if len(p.split()) >= 2)
+    return all(p in page_words for p in pieces)
 
 
 def finalize(us: list[tuple[str, str, str]], out: str, page: str) -> list[dict]:
@@ -143,7 +150,7 @@ def finalize(us: list[tuple[str, str, str]], out: str, page: str) -> list[dict]:
     for line in out.splitlines():
         if m := OUT_RE.match(line.strip()):
             got[m.group(1)] = (m.group(2), m.group(3).strip())
-    page_norm = norm(page)
+    page_norm = words(page)
     results, missing = [], 0
     for i, s, t in us:
         label, rest = got.get(i, ("MISSING", ""))
@@ -158,7 +165,7 @@ def finalize(us: list[tuple[str, str, str]], out: str, page: str) -> list[dict]:
         final = label
         if label == "FACT" and not ok:
             # A short line of dialogue is its own evidence when it is on the page verbatim.
-            claim = norm(t).strip('" .')
+            claim = words(t)
             ok = len(claim.split()) >= 2 and claim in page_norm
         if label in ("FACT", "TRIM") and not ok:
             final = "UNSUPPORTED"

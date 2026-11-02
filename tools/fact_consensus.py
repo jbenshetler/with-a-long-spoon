@@ -110,13 +110,19 @@ def parse_claims(text: str, page_norm: str) -> tuple[list[dict], int]:
     return out, total
 
 
-def slot_raw_path(b: int, slot: str) -> Path:
-    return ROOT / "slots" / f"ck-ch{b:03d}.{slot}.txt"
+def slot_raw_path(b: int, slot: str, model: str) -> Path:
+    """One cache file per slot AND model: a fallback must not overwrite the first
+    model's output (it did at ch20, and the rebuild re-paid glm)."""
+    return ROOT / "slots" / f"ck-ch{b:03d}.{slot}.{model}.txt"
 
 
 def extract(slot: str, model: str, b: int, page: str, page_sha: str, force: bool) -> str:
     """The slot's raw claim list, reused if already minted from this exact prose by this model."""
-    p = slot_raw_path(b, slot)
+    p = slot_raw_path(b, slot, model)
+    legacy = ROOT / "slots" / f"ck-ch{b:03d}.{slot}.txt"   # pre-2026-11-01 name
+    if not p.exists() and legacy.exists() and f"model {model} " in legacy.read_text(
+            encoding="utf-8").split("\n", 1)[0]:
+        legacy.rename(p)
     head = f"# slot {slot} · model {model} · bundle-sha256 {page_sha} · prompt-sha256 " \
            f"{sha(EXTRACT_PROMPT.read_text(encoding='utf-8'))}"
     if p.exists() and not force and p.read_text(encoding="utf-8").startswith(head):
@@ -152,33 +158,50 @@ def pov_consensus(lists: dict[str, list[dict]], quorum: int) -> dict[int, list[s
 
 
 def match(lists: dict[str, list[dict]], matcher: str, b: int) -> str:
-    blocks = []
-    for letter, claims in lists.items():
-        rows = [f"{letter}{i + 1} [{c['section']} ch{c['ch']}] {c['text']}"
-                for i, c in enumerate(claims) if c["section"] != "POV"]
-        blocks.append(f"===== EXTRACTOR {letter} ({len(claims)} claims) =====\n" + "\n".join(rows))
-    prompt = "\n\n".join(blocks) + "\n\nGroup them now, one group per line."
-    return call(matcher, MATCH_PROMPT.read_text(encoding="utf-8"), prompt,
-                f"facts·match·{matcher}·ch{b:03d}")
+    """Group same-fact claims chapter by chapter (one call over ~1,500 claims under-grouped:
+    sol's "Vee trades her panties for Pace's shirt" was left alone at ch22). Ids stay
+    global, so `admit` is unchanged. Calls run in parallel."""
+    system = MATCH_PROMPT.read_text(encoding="utf-8")
+
+    def one(ch):
+        blocks = []
+        for letter, claims in lists.items():
+            rows = [f"{letter}{i + 1} [{c['section']}] {c['text']}"
+                    for i, c in enumerate(claims) if c["section"] != "POV" and c["ch"] == ch]
+            if rows:
+                blocks.append(f"===== EXTRACTOR {letter} =====\n" + "\n".join(rows))
+        if sum(1 for x in blocks) < 2:
+            return ""
+        prompt = (f"These claims are all about chapter {ch}.\n\n" + "\n\n".join(blocks)
+                  + "\n\nGroup them now, one group per line.")
+        return call(matcher, system, prompt, f"facts·match·{matcher}·ck{b:03d}·ch{ch:03d}")
+
+    chapters = sorted({c["ch"] for cl in lists.values() for c in cl})
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        outs = list(pool.map(one, chapters))
+    return "\n".join(o.strip() for o in outs if o.strip())
 
 
 def admit(lists: dict[str, list[dict]], groups_raw: str, quorum: int) -> list[dict]:
-    """Deterministic: a group needs members from >= quorum distinct slots; each claim
-    joins at most one admitted group; the admitted text is the shortest member's own."""
-    used, admitted = set(), []
+    """Deterministic: a group needs members from >= quorum distinct slots; the admitted
+    text is the shortest member's own (each admitted text once)."""
+    # A claim may back more than one group: a compound claim states several facts
+    # (argon's "first sex… and she trades him her panties" was spent on the first one).
+    seen_texts, admitted = set(), []
     for line in groups_raw.splitlines():
         ids = [(l, int(n)) for l, n in GROUP_TOKEN.findall(line)]
         members, letters = [], set()
         for letter, n in ids:
-            if letter in lists and 1 <= n <= len(lists[letter]) and (letter, n) not in used \
-                    and letter not in letters:
+            if letter in lists and 1 <= n <= len(lists[letter]) and letter not in letters:
                 members.append((letter, n))
                 letters.add(letter)
         if len(letters) < quorum:
             continue
-        used.update(members)
         cs = [lists[l][n - 1] for l, n in members]
         best = min(cs, key=lambda c: len(c["text"]))
+        if best["text"] in seen_texts:
+            continue
+        seen_texts.add(best["text"])
         sec = Counter(c["section"] for c in cs).most_common(1)[0][0]
         admitted.append({"section": sec, "ch": min(c["ch"] for c in cs), "text": best["text"],
                          "quote": best["quote"], "support": [f"{l}{n}" for l, n in members]})
@@ -212,7 +235,7 @@ def build(b: int, force: bool = False, reextract: bool = False) -> Path:
     quorum = int(cfg.get("quorum", 2))
     matcher = str(cfg.get("matcher", "claude-opus-5-5"))
     page = checkpoint_bundle.build_reader_bundle(b, start=1)
-    page_sha, page_norm = sha(page), checkpoint_audit.norm(page)
+    page_sha, page_norm = sha(page), checkpoint_audit.words(page)
     out_md = ROOT / f"ck-ch{b:03d}.md"
     if out_md.exists() and not force and f"bundle-sha256: {page_sha}" in out_md.read_text():
         print(f"  {out_md.relative_to(REPO)} is current", flush=True)
@@ -226,9 +249,13 @@ def build(b: int, force: bool = False, reextract: bool = False) -> Path:
         for model in chain:
             try:
                 raw = extract(slot, model, b, page, page_sha, reextract)
-                if not CLAIM_RE.search(raw.split("\n", 2)[-1] if raw else "") and \
-                        not any(CLAIM_RE.match(l.strip()) for l in raw.splitlines()):
-                    raise RuntimeError("no parseable claims")
+                # A slot that ignores the format fails, so the chain falls back: glm at
+                # ch20 wrote 239 lines with no quotes, and 2 survived verification.
+                body = [l for l in raw.splitlines()[1:] if l.strip()]
+                good, _ = parse_claims(raw, page_norm)
+                if len(good) < max(20, len(body) // 2):
+                    raise RuntimeError(f"only {len(good)} of {len(body)} lines are "
+                                       "quote-verified claims")
                 return slot, model, raw, "; ".join(errors) or None
             except Exception as e:  # noqa: BLE001
                 errors.append(f"{model}: {e}")

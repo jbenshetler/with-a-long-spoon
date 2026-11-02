@@ -8,6 +8,8 @@ Rules:
 - Claims agree when a reader would say they assert the same fact. A claim that adds a
   detail the other lacks still agrees on the shared fact; group them.
 - Do not group claims that merely share a topic, or that contradict each other.
+- A claim that states more than one fact may appear in more than one group, once
+  for each fact it shares with another extractor.
 - A claim with no counterpart is left out.
 
 Output one group per line, the claim ids separated by spaces, nothing else:

@@ -1,0 +1,5977 @@
+{
+ "checkpoint": "reviews/cold-read/fact-consensus/ck-ch022.md",
+ "checkpoint_sha256": "6d927508384c071ba445ea5b796d8e1b599642c34ffbb9ae369178b838c203fd",
+ "auditor": "claude-opus-5-5",
+ "prompt_sha256": "6bd7a907436eed73dc0cc6159ce03d6df0642815ae6e938ea9099239aa6515a3",
+ "date": "2026-11-01",
+ "bundle_sha256": "add3282e2a8a12f97cf821b500a42a772a3f72de00bfd837dd34b89d632a127f",
+ "counts": {
+  "FACT": 584,
+  "INFERENCE": 3,
+  "TRIM": 6,
+  "UNSUPPORTED": 3
+ },
+ "units": [
+  {
+   "id": "U001",
+   "section": "Who's who",
+   "text": "Randi is petite. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was petite, and her face tilted up to him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U002",
+   "section": "Who's who",
+   "text": "Randi has blue eyes. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The blue eyes, which were her best feature\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U003",
+   "section": "Who's who",
+   "text": "Randi has black hair. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He brushed a strand of black hair back behind her ear\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U004",
+   "section": "Who's who",
+   "text": "Randi is twenty-one. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"everything she had spent twenty-one years making sure was all there was to find\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U005",
+   "section": "Who's who",
+   "text": "Randi is in a sorority. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"her sorority took only girls built to the one scale\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U006",
+   "section": "Who's who",
+   "text": "Randi's mother lives on egg whites and tofu. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her mother lived on egg whites and tofu\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U007",
+   "section": "Who's who",
+   "text": "Randi paints her toenails blue. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Nothing like the blue lacquer on the toenails\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U008",
+   "section": "Who's who",
+   "text": "Pace built the furniture in his house. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had told her, when she toured the house, that he had built the furniture.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U009",
+   "section": "Who's who",
+   "text": "Pace's kitchen has cheap laminate counters. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the white laminate counters plain and cheap\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U010",
+   "section": "Who's who",
+   "text": "Brooke is someone Randi lies to about having a paper. (ch1)",
+   "label": "INFERENCE",
+   "kept": null,
+   "quote": "",
+   "quote_verified": null,
+   "final": "INFERENCE"
+  },
+  {
+   "id": "U011",
+   "section": "Who's who",
+   "text": "Daphne is someone from Pace's past whose privacy he once failed to respect. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Daphne had built a door, once, and he had not respected it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U012",
+   "section": "Who's who",
+   "text": "Brooke is the chapter president. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Brooke was the chapter president and did not need to stand\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U013",
+   "section": "Who's who",
+   "text": "Randi sits on the sorority board as Standards. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she sat on the board herself, Standards\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U014",
+   "section": "Who's who",
+   "text": "Randi has a single room because of her Standards position. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Standards rated a single — one of the few tangible perquisites\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U015",
+   "section": "Who's who",
+   "text": "Kinsey is a sorority sister. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Kinsey cross-legged on the rug with a bowl of cereal.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U016",
+   "section": "Who's who",
+   "text": "Sloane is one of Randi's sorority sisters. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Sloane on the couch with the coffee and the laptop.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U017",
+   "section": "Who's who",
+   "text": "Pace is a grad student. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He's grad school, right? Pace?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U018",
+   "section": "Who's who",
+   "text": "Kinsey calls Pace short-cute. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Like — short-cute? I feel like he's a short-cute.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U019",
+   "section": "Who's who",
+   "text": "Vee is tall and lavishly built. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Tall, and built on a lavish scale\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U020",
+   "section": "Who's who",
+   "text": "Vee has dark red hair. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a warm dark red that sparked to copper wherever the wind lifted it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U021",
+   "section": "Who's who",
+   "text": "Vee has freckles. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"cinnamon freckles thrown across it and the tops of her cheeks\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U022",
+   "section": "Who's who",
+   "text": "Vee laughs without self-consciousness. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U023",
+   "section": "Who's who",
+   "text": "Meg lives on Vee's floor. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"coming out of the dining hall with Meg from her floor\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U024",
+   "section": "Who's who",
+   "text": "Cassie wears a ball cap. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"her ball cap pulled out of the side pocket and set on her head\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U025",
+   "section": "Who's who",
+   "text": "Cassie has a lab at noon. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a person who had a lab at noon\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U026",
+   "section": "Who's who",
+   "text": "Vee jokes that Cassie barely talks. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie says about four words a day\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U027",
+   "section": "Who's who",
+   "text": "Cassie is Vee's quiet roommate who wears a ball cap and has a boxy frame. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she'd sooner put her boxy frame in a t-shirt and cut-offs\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U028",
+   "section": "Who's who",
+   "text": "Randi has her own room. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she had her own room, and said it like it was nothing\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U029",
+   "section": "Who's who",
+   "text": "Randi speaks with a foreign-sounding accent. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi had something in her mouth that wasn't from anywhere near here\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U030",
+   "section": "Who's who",
+   "text": "Chi Latte is on Draper. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"it's the yellow one on Draper\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U031",
+   "section": "Who's who",
+   "text": "Vivienne Thorne is called Vee. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"People call me Vee.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U032",
+   "section": "Who's who",
+   "text": "Vivienne goes by Vee. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"People call me Vee.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U033",
+   "section": "Who's who",
+   "text": "Pace has an ordinary face and short light brown hair. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"light brown hair cut short and easy\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U034",
+   "section": "Who's who",
+   "text": "Vee studies econ. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"two years of econ had gotten her through calculus\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U035",
+   "section": "Who's who",
+   "text": "Pace is a math PhD student. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Did I just warn a math PhD that my calculus was hard?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U036",
+   "section": "Who's who",
+   "text": "Vee's grandfather asked questions as though the answers mattered. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He asked her things the way her grandfather used to ask things, as though the answer mattered\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U037",
+   "section": "Who's who",
+   "text": "Vee did synchronized swimming at sixteen. (ch7)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the one she'd worn at sixteen, for synchronized swimming\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U038",
+   "section": "Who's who",
+   "text": "Vee's body has filled out since sixteen. (ch7)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"when there'd been less of her to fill it. There was more of her now.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U039",
+   "section": "Who's who",
+   "text": "Cassie has a boxy frame. (ch7)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she'd sooner put her boxy frame in a t-shirt and cut-offs\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U040",
+   "section": "Who's who",
+   "text": "Cassie stays in the shallow end. (ch7)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie waded to the middle of her ribs and stopped\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U041",
+   "section": "Who's who",
+   "text": "Vee lives in Vawter. (ch7)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"at the corner where she turned off for Vawter\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U042",
+   "section": "Who's who",
+   "text": "Christine recognizes Pace at the restaurant. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and she knew him — something in her eased at who'd walked in\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U043",
+   "section": "Who's who",
+   "text": "Pace dresses in a pressed broadcloth shirt and polished boots. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a broadcloth shirt, clean and pressed and easy on him, the good boots worn but polished\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U044",
+   "section": "Who's who",
+   "text": "Pace eats with his right hand. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"always the right, never the other\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U045",
+   "section": "Who's who",
+   "text": "Pace lives west of town off route 614. (ch9)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He lives out west of town, off six-fourteen, past where it goes to gravel.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U046",
+   "section": "Who's who",
+   "text": "Cassie has practice. (ch9)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She's got practice.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U047",
+   "section": "Who's who",
+   "text": "Vee has never hiked before. (ch10)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You've never hiked in your life.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U048",
+   "section": "Who's who",
+   "text": "Vee wears gardenia perfume. (ch11)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Gardenia and musk. On her throat, and lower.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U049",
+   "section": "Who's who",
+   "text": "Meg is calm and dark-haired. (ch12)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Meg was the calm one, dark-haired and level\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U050",
+   "section": "Who's who",
+   "text": "Kayla is round-faced and blonde with curls. (ch12)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was round-faced and blonde, a head of curls\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U051",
+   "section": "Who's who",
+   "text": "Theo previously asked Vee to a fall event. (ch12)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Theo asked you to the fall thing.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U052",
+   "section": "Who's who",
+   "text": "Danny is Meg's boyfriend. (ch12)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Everybody's different at the start. I said it about Danny.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U053",
+   "section": "Who's who",
+   "text": "Pace's house is small and post-war. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was small. Older than she'd built it in her head — post-war\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U054",
+   "section": "Who's who",
+   "text": "Pace's patent speeds up MRI imaging. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Mine does that part faster. Finds the picture in the noise\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U055",
+   "section": "Who's who",
+   "text": "Pace makes his own shirts. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I couldn't find a shirt I liked, so I made one\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U056",
+   "section": "Who's who",
+   "text": "Pace owns old fantasy paperbacks. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a run of fantasy paperbacks, spines cracked white from opening\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U057",
+   "section": "Who's who",
+   "text": "Randi's Mercedes is a very dark green. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a green so dark it read as black until the sun moved on it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U058",
+   "section": "Who's who",
+   "text": "Vee drives a Corolla. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She thought of the Corolla, the cloth seats she kept clean\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U059",
+   "section": "Who's who",
+   "text": "Randi wears a heavy white-gold band. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"white gold, plain and heavy, no stone\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U060",
+   "section": "Who's who",
+   "text": "Pace's legal first name is Peter. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My real name is Peter\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U061",
+   "section": "Who's who",
+   "text": "Vee is from Ohio. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Ohio. Casseroles. One brother. Nurse mother.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U062",
+   "section": "Who's who",
+   "text": "Vee's mother is a nurse. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My mother's a nurse.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U063",
+   "section": "Who's who",
+   "text": "Vee's father works on jet engines. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My dad works on jet engines for a major airline.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U064",
+   "section": "Who's who",
+   "text": "Vee's father calls her Vee. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My dad calls me Vee.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U065",
+   "section": "Who's who",
+   "text": "Vee has an older brother. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"One. A brother. Three years up.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U066",
+   "section": "Who's who",
+   "text": "Vee's brother is in the Army. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He's in the Army. Not married.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U067",
+   "section": "Who's who",
+   "text": "Vee is twenty-one. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'm twenty-one and a junior.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U068",
+   "section": "Who's who",
+   "text": "Pace's mother stays home. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My mother stays home\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U069",
+   "section": "Who's who",
+   "text": "Pace's father works in a chemical plant. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My father works in a chemical plant.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U070",
+   "section": "Who's who",
+   "text": "Pace taught himself trigonometry in seventh grade. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"In seventh grade I taught myself trigonometry\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U071",
+   "section": "Who's who",
+   "text": "Daphne was Pace's tutor. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"When I got there, they assigned me someone. A tutor.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U072",
+   "section": "Who's who",
+   "text": "Daphne was nineteen when she became Pace's assigned tutor. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"an older student, to help the child find his feet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U073",
+   "section": "Who's who",
+   "text": "Pace entered college at fifteen. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I was fifteen in a dormitory full of men.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U074",
+   "section": "Who's who",
+   "text": "Pace's real name is Peter, and he is twenty-two years old. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My real name is Peter\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U075",
+   "section": "Relationships",
+   "text": "Pace asks Randi whether she wants to taste another woman. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Would you like to taste another woman?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U076",
+   "section": "Relationships",
+   "text": "Randi asks Pace to do something different with her. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had asked for something different with her eyes on the table.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U077",
+   "section": "Relationships",
+   "text": "Randi orgasms when Pace asks about another woman. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The question reached her body before it reached her, and it took her all at once — she came, hard\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U078",
+   "section": "Relationships",
+   "text": "Randi immediately chooses the red-haired woman. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The word came out alone, with nothing around it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U079",
+   "section": "Relationships",
+   "text": "Pace asks Vee to get frozen yogurt. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"asking whether she liked frozen yogurt\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U080",
+   "section": "Relationships",
+   "text": "Pace first introduces himself to Vee at the coffee shop. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'm Pace,\\\" he said.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U081",
+   "section": "Relationships",
+   "text": "Vee initiates their first kiss. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and closed the distance he'd already given up\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U082",
+   "section": "Relationships",
+   "text": "Pace takes the kiss no further than Vee does. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He wasn't going to take it any further than she had.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U083",
+   "section": "Relationships",
+   "text": "Vee chooses to let Pace see her undressed. (ch10)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Then her hands went to the top button of her shirt.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U084",
+   "section": "Relationships",
+   "text": "This is the first time Randi has left after sex. (ch11)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had never left after. Not once, since the first night\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U085",
+   "section": "Relationships",
+   "text": "Pace matches the silk to Vee rather than the magazine dress. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he hadn't matched the dress she'd described\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U086",
+   "section": "Relationships",
+   "text": "Vee is not found wanting at her most ashamed. (ch14)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"had not, once, been found wanting\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U087",
+   "section": "Relationships",
+   "text": "Pace takes the panties. (ch16)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He took them. Something in his shoulders was private\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U088",
+   "section": "Relationships",
+   "text": "Vee gives Pace her green panties in exchange for the flannel. (ch16)",
+   "label": "TRIM",
+   "kept": "Vee gives Pace her green panties",
+   "quote": "\"She kissed him, briefly, and held the folded panties out toward him.\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U089",
+   "section": "Relationships",
+   "text": "Vee is not consumed by her shame for the first time. (ch16)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the shame ran the whole length of it and never closed her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U090",
+   "section": "Relationships",
+   "text": "Randi kisses Vee goodbye for the second time. (ch17)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee had half-expected it this time, and met it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U091",
+   "section": "Relationships",
+   "text": "Randi and Pace argue over how slowly he is going with Vee. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee.\" She set the fork down. \"How long are you going to take?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U092",
+   "section": "Relationships",
+   "text": "Pace does not know what he did wrong. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He did not know what he had done.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U093",
+   "section": "Relationships",
+   "text": "Pace finished the dress late at night. (ch19)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the dress had been finished at some hour with no business being awake in it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U094",
+   "section": "Relationships",
+   "text": "Pace completes the burgundy dress for Vee. (ch19)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He'd hung it from the lip of the window frame\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U095",
+   "section": "Relationships",
+   "text": "Vee and Pace have sex while she first wears the dress. (ch19)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and then, arms and leg, she closed the last of the distance herself and took him in\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U096",
+   "section": "Relationships",
+   "text": "Randi says Vee got past her defenses. (ch21)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She got past me before I could help it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U097",
+   "section": "Relationships",
+   "text": "Pace tells Vee his real name. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My real name is Peter\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U098",
+   "section": "Relationships",
+   "text": "Pace tells Vee about Daphne. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"When I got there, they assigned me someone. A tutor.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U099",
+   "section": "Relationships",
+   "text": "Pace declines to explain his thigh scar that night. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"on the thing he wasn't going to tell her about yet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U100",
+   "section": "What I know that they don't",
+   "text": "Pace does not know Randi has resolved to keep her real self hidden; he thinks the evening went remarkably well. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He thought that this had been a remarkably good evening.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U101",
+   "section": "What I know that they don't",
+   "text": "Randi's sorority sisters do not know Pace's last name. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a man whose last name her own sorority sisters did not know\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U102",
+   "section": "What I know that they don't",
+   "text": "Randi conceals her night with Pace from Brooke. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"There's the place on Wilson that stays open.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U103",
+   "section": "What I know that they don't",
+   "text": "Vee does not know the collision was staged. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"it had genuinely not been clear, one of those collisions where both people apologize\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U104",
+   "section": "What I know that they don't",
+   "text": "Vee does not know that Pace and Randi know each other. (ch5)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She gave him her name as a single bare word and waited.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U105",
+   "section": "What I know that they don't",
+   "text": "Pace keeps from Randi what Vee said on the walk. (ch6)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and did not hand it over. It was hers.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U106",
+   "section": "What I know that they don't",
+   "text": "Pace does not tell Randi about the truck. (ch11)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He did not say how he knew. That she had given him herself, in the truck\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U107",
+   "section": "What I know that they don't",
+   "text": "Vee has told no one, including Cassie, that she got wet at the fitting. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the thing she had never told a single soul, not Cassie, not anyone\"",
+   "quote_verified": false,
+   "final": "UNSUPPORTED"
+  },
+  {
+   "id": "U108",
+   "section": "What I know that they don't",
+   "text": "Randi tells Vee a fabricated story about being tied with a scarf. (ch15)",
+   "label": "INFERENCE",
+   "kept": null,
+   "quote": "",
+   "quote_verified": null,
+   "final": "INFERENCE"
+  },
+  {
+   "id": "U109",
+   "section": "What I know that they don't",
+   "text": "Cassie is not told about the sex. (ch17)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"What she kept was the middle.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U110",
+   "section": "What I know that they don't",
+   "text": "Vee does not tell Randi why she chose the plum color. (ch17)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She didn't say any of it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U111",
+   "section": "What I know that they don't",
+   "text": "Pace does not ask what Vee told Randi. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He did not ask what Vee had said. That was Vee's.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U112",
+   "section": "What I know that they don't",
+   "text": "Vee cannot pay off the credit card charge. (ch20)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"that she did not have the next part, the paying-it-back part\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U113",
+   "section": "What I know that they don't",
+   "text": "Vee believes she met Randi by chance. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had stumbled into her.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U114",
+   "section": "What I know that they don't",
+   "text": "Vee believes Pace approached her because of her complaint. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had complained about math to her own table\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U115",
+   "section": "Motifs & images",
+   "text": "The bench is concealed beneath a table top. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he lifted the top off a table, revealing the bench it hid\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U116",
+   "section": "Motifs & images",
+   "text": "Pace slices apples thin for Randi. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had sliced it thin because she would eat thin slices\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U117",
+   "section": "Motifs & images",
+   "text": "Randi locks Pace's front door after entering. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she always locked it behind her, first thing, before anything else\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U118",
+   "section": "Motifs & images",
+   "text": "Steely Dan plays low in Pace's house. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Steely Dan was going low under it all\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U119",
+   "section": "Motifs & images",
+   "text": "Randi presses a sharp edge under her thumbnail. (ch1)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"set the sharp inner edge of the cap under her thumbnail and pressed\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U120",
+   "section": "Motifs & images",
+   "text": "Randi has told the girls that Pace is hard to say no to. (ch2)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"when the girls had asked why she had agreed to go on a date with him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U121",
+   "section": "Motifs & images",
+   "text": "The concealed bench remains present as a table. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she had slowed at the long table with its top back on\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U122",
+   "section": "Motifs & images",
+   "text": "The pointing game, played on the campus quad. (ch3)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had no name for the game yet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U123",
+   "section": "Motifs & images",
+   "text": "Vee hears \"floozie\" in her mother's voice. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the word arriving whole and in her mother's voice\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U124",
+   "section": "Motifs & images",
+   "text": "Randi smells of citrus. (ch4)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a warm wave of her came with it, citrus, not sweet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U125",
+   "section": "Motifs & images",
+   "text": "Pace pours no wine for himself. (ch6)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had not poured himself one.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U126",
+   "section": "Motifs & images",
+   "text": "Randi locks Pace's door upon arrival. (ch6)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The deadbolt went over before he had got up off the couch.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U127",
+   "section": "Motifs & images",
+   "text": "Randi shares wine with Pace through kisses. (ch6)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she came down and kissed him with it still in her mouth\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U128",
+   "section": "Motifs & images",
+   "text": "Pace asks permission before acting. (ch8)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"But I'd love to see you sometime. May I call you?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U129",
+   "section": "Motifs & images",
+   "text": "Randi says \"Love you, girl\" at parting. (ch9)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi said, and held her a second by the arms, the whole lit face on her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U130",
+   "section": "Motifs & images",
+   "text": "Pace's flannel smells of him. (ch10)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It smelled of soap and of a man and of the inside of a gym bag\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U131",
+   "section": "Motifs & images",
+   "text": "Pace wears a bright blue shirt. (ch10)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"His shirt was bright blue.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U132",
+   "section": "Motifs & images",
+   "text": "Vee tells Cassie everything and keeps the flannel shirt without asking. (ch10)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I kept the shirt. I didn't ask. He didn't ask for it back.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U133",
+   "section": "Motifs & images",
+   "text": "Blondie plays in the front rooms. (ch11)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Blondie was going low in the front rooms\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U134",
+   "section": "Motifs & images",
+   "text": "Randi's belly goes tight during sex. (ch11)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"her belly had gone tight as a board with the work of it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U135",
+   "section": "Motifs & images",
+   "text": "Vee keeps the flannel on her pillow. (ch12)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She'd had the shirt, folded on her pillow at this exact hour.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U136",
+   "section": "Motifs & images",
+   "text": "Pace's house is overheated. (ch13)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The house was warm. Too warm\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U137",
+   "section": "Motifs & images",
+   "text": "Pace warms the house for Vee. (ch14)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The whole house cranked up so a woman could stand half-bare in it and not be cold.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U138",
+   "section": "Motifs & images",
+   "text": "Randi parks in the fire lane. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"stopped the car in the fire lane like fire lanes were a thing that happened to other people\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U139",
+   "section": "Motifs & images",
+   "text": "Vee reads the prices first. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"did the thing she did, which was to read the right side first\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U140",
+   "section": "Motifs & images",
+   "text": "Pace leaves Vee a figurative door when requesting consent. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He left me a door.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U141",
+   "section": "Motifs & images",
+   "text": "Randi closes the conversational door before Vee reveals her secret. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was gentle. It was kind. It was a door closing softly.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U142",
+   "section": "Motifs & images",
+   "text": "Randi kisses Vee twice at goodbye. (ch15)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a second press that had something in it the first one hadn't\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U143",
+   "section": "Motifs & images",
+   "text": "Vee trades her panties for Pace's shirt. (ch16)",
+   "label": "TRIM",
+   "kept": "Vee trades her panties",
+   "quote": "\"She kissed him, briefly, and held the folded panties out toward him.\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U144",
+   "section": "Motifs & images",
+   "text": "Vee hears \"floozie\" while aroused. (ch16)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"her mother's word exactly, and the loop ran\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U145",
+   "section": "Motifs & images",
+   "text": "Fleetwood Mac plays in Pace's house. (ch16)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Fleetwood Mac was going low somewhere back in the house\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U146",
+   "section": "Motifs & images",
+   "text": "Pace opens wine in advance. (ch16)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A Chianti Classico open on the counter, already breathing.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U147",
+   "section": "Motifs & images",
+   "text": "Vee edits the story she gives Cassie. (ch17)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She lifted it out clean as she went\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U148",
+   "section": "Motifs & images",
+   "text": "Randi's accent strengthens. (ch17)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the esses running long, the a's lifting, more of whatever it was than there had been\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U149",
+   "section": "Motifs & images",
+   "text": "The small apple bowl holds Randi's stew. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Hers was the small one, the one he sliced her apples into.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U150",
+   "section": "Motifs & images",
+   "text": "Randi presses her glass under her thumbnail. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She set the rim of the glass in under her thumbnail and pressed.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U151",
+   "section": "Motifs & images",
+   "text": "Depeche Mode's Violator plays. (ch18)",
+   "label": "TRIM",
+   "kept": "Violator plays",
+   "quote": "\"a dark voice over machines, every sound in it polished\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U152",
+   "section": "Motifs & images",
+   "text": "Randi wears her white-gold band. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the white-gold band at her wrist\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U153",
+   "section": "Motifs & images",
+   "text": "Randi does not eat from her small bowl. (ch18)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and the bowl in front of her did not move\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U154",
+   "section": "Motifs & images",
+   "text": "Vee's plum toenails. (ch19)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The plum on her toes against all that skin.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U155",
+   "section": "Motifs & images",
+   "text": "Randi touches her bracelet. (ch21)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her fingers found the white-gold bracelet she always wore.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U156",
+   "section": "Motifs & images",
+   "text": "Randi's blue toenails. (ch21)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the blue on her toes the last composed thing left of her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U157",
+   "section": "Motifs & images",
+   "text": "Sade plays. (ch21)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Sade, smooth and slow, that cool voice with the warmth folded under it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U158",
+   "section": "Motifs & images",
+   "text": "Randi finally eats a complete plate prepared by Pace. (ch21)",
+   "label": "TRIM",
+   "kept": "eats a complete plate prepared by Pace",
+   "quote": "\"When she set it down, there was nothing left on it.\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U159",
+   "section": "Motifs & images",
+   "text": "Vee repeats Pace's real name in the dark. (ch22)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was only saying it, once, into the warm dark\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U160",
+   "section": "Story so far",
+   "text": "**Ch1 The Bench.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 1: The Bench\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U161",
+   "section": "Story so far",
+   "text": "(Pace then Randi POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"In the bathroom, Randi stood at the sink and looked at her face in the mirror.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U162",
+   "section": "Story so far",
+   "text": "Pace uncovers the hidden bench before Randi arrives.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he lifted the top off a table, revealing the bench it hid\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U163",
+   "section": "Story so far",
+   "text": "Randi arrives at Pace's house after her chapter dinner.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I left right after chapter dinner, Pace.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U164",
+   "section": "Story so far",
+   "text": "Pace gives Randi thin slices of honeycrisp apple.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The apple was a honeycrisp.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U165",
+   "section": "Story so far",
+   "text": "Randi straddles Pace while eating apple slices.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She ate several slices like that. Bite, kiss, bite.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U166",
+   "section": "Story so far",
+   "text": "Pace shows Randi the uncovered bench.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She walked three steps into the bedroom and stopped.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U167",
+   "section": "Story so far",
+   "text": "Pace undresses Randi in the bedroom.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He reached up and took off her cardigan first\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U168",
+   "section": "Story so far",
+   "text": "Randi's safeword is \"Red.\".",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The word came out small. The word came out hers.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U169",
+   "section": "Story so far",
+   "text": "Pace repeatedly brings Randi near orgasm before stopping.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He did not begin the edging until her ass was beautifully red\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U170",
+   "section": "Story so far",
+   "text": "Randi begs Pace to make her come.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Please. Please, Pace. Please.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U171",
+   "section": "Story so far",
+   "text": "Pace gives Randi permission to orgasm.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He put his fingers between her legs and stroked her as he had been, and this time he did not stop.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U172",
+   "section": "Story so far",
+   "text": "Randi cries after her orgasm.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was crying quietly with her face turned sideways against the head pad\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U173",
+   "section": "Story so far",
+   "text": "Randi flinches when Pace calls her beautiful.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She flinched. Involuntary, the kind of flinch a body makes\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U174",
+   "section": "Story so far",
+   "text": "Randi locks herself in Pace's bathroom.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he heard the small click of the lock turning over\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U175",
+   "section": "Story so far",
+   "text": "Randi decides to hide the self Pace found.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The one he had found was going back behind it, and she was not coming out again.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U176",
+   "section": "Story so far",
+   "text": "Pace wraps Randi in the cashmere blanket she brought.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the cashmere one she had brought after the second week\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U177",
+   "section": "Story so far",
+   "text": "Randi agrees to stay overnight with Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she said, against his neck.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U178",
+   "section": "Story so far",
+   "text": "Randi returns to Pace with a smile arranged on her face.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"with the blanket around her shoulders and the smile arranged on her face\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U179",
+   "section": "Story so far",
+   "text": "Pace positions Randi facedown on the bench.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Hands on the grips. Get the position. I'll adjust you.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U180",
+   "section": "Story so far",
+   "text": "**Ch2 Standards.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she sat on the board herself, Standards\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U181",
+   "section": "Story so far",
+   "text": "(Randi POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi closed it behind her quietly, which was already wrong.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U182",
+   "section": "Story so far",
+   "text": "Randi returns to the sorority house in the previous night's clothes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"in last night's clothes, on a Saturday\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U183",
+   "section": "Story so far",
+   "text": "Sloane is present in the common room.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Sloane on the couch with the coffee and the laptop.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U184",
+   "section": "Story so far",
+   "text": "Randi lies about working at a place on Wilson.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"There's the place on Wilson that stays open.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U185",
+   "section": "Story so far",
+   "text": "Brooke questions Randi about Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That's actually his name? Like he goes by Pace?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U186",
+   "section": "Story so far",
+   "text": "Sloane asks whether the white pickup parked behind Hahn is Pace's.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"is that the white pickup I keep seeing parked behind Hahn?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U187",
+   "section": "Story so far",
+   "text": "Randi says Pace does not teach her course section.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"it's a different course. He's not anywhere near mine\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U188",
+   "section": "Story so far",
+   "text": "Brooke ends the questioning and lets Randi go.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The conversation was over because Brooke had decided it was over.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U189",
+   "section": "Story so far",
+   "text": "Randi lies on her bed in her clothes and shoes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She lay down on her bed on her back, in last night's clothes, with her shoes still on.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U190",
+   "section": "Story so far",
+   "text": "Randi does not cry.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She lay under the duvet and looked at the ceiling and did not cry.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U191",
+   "section": "Story so far",
+   "text": "Brooke asks Randi about the paper she claimed to be writing.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I was going to ask about it last night and you'd already left.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U192",
+   "section": "Story so far",
+   "text": "Randi retreats to her private bedroom.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The room was hers alone.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U193",
+   "section": "Story so far",
+   "text": "**Ch3 The Pointing Game.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 3: The Pointing Game\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U194",
+   "section": "Story so far",
+   "text": "(Pace POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He knew the difference between a woman performing release and a woman delivered to it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U195",
+   "section": "Story so far",
+   "text": "Afterward Pace asks the question again.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Do you actually want to taste another woman?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U196",
+   "section": "Story so far",
+   "text": "Randi frames it as a threesome with Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she said against his throat, smiling, all silk\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U197",
+   "section": "Story so far",
+   "text": "Pace suggests a walk on campus.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Let's go for a walk on campus\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U198",
+   "section": "Story so far",
+   "text": "Pace points out women for Randi to assess.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Pace leaned in close, his mouth at the shell of her ear\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U199",
+   "section": "Story so far",
+   "text": "Pace sets the rule of the game.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I point. You pick.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U200",
+   "section": "Story so far",
+   "text": "Randi turns down a matched pair of girls.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Those two go everywhere together. You'd get both or neither.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U201",
+   "section": "Story so far",
+   "text": "Pace points out a tall red-haired woman leaving the dining hall.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She came out of the dining hall and drew the eye\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U202",
+   "section": "Story so far",
+   "text": "Pace points at the redhead.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Pace said, and pointed.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U203",
+   "section": "Story so far",
+   "text": "Randi says yes to the redhead at once.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the bare arrival of a thing already true before she got to it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U204",
+   "section": "Story so far",
+   "text": "Pace tells Randi to approach the chosen woman for them.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her eyes came open. \"For us?\"\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U205",
+   "section": "Story so far",
+   "text": "Pace watches from a light pole.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He found a light pole at a comfortable angle to the lawn\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U206",
+   "section": "Story so far",
+   "text": "Randi stages a collision with the redhead.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi giving half a head and enough weight that the accident appeared entirely to happen to her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U207",
+   "section": "Story so far",
+   "text": "After the collision the redhead apologizes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was the redhead who pulled up short, stricken, apologizing\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U208",
+   "section": "Story so far",
+   "text": "Randi comes back with the redhead's name.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her name is Vee.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U209",
+   "section": "Story so far",
+   "text": "Randi and Vee have a stats class together.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And we've got a stats class together.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U210",
+   "section": "Story so far",
+   "text": "Randi asks whether Vee will like the bench.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Do you think she'll like the bench?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U211",
+   "section": "Story so far",
+   "text": "Randi looks at the covered bench before asking for something different.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she had slowed at the long table with its top back on\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U212",
+   "section": "Story so far",
+   "text": "Pace brings Randi to orgasm with his mouth.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She came the first time with his mouth on her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U213",
+   "section": "Story so far",
+   "text": "Randi says maybe about a woman on the library steps.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A girl on the library steps with a friend\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U214",
+   "section": "Story so far",
+   "text": "Randi strongly rejects a white-blond woman in a blazer.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a blazer and a white-blond blowout in loose curls\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U215",
+   "section": "Story so far",
+   "text": "**Ch4 See You Later.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 4: See You Later\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U216",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee got there early, as she always did\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U217",
+   "section": "Story so far",
+   "text": "Vee sits in the stats lecture beside Cassie.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"with Cassie beside her unpacking a granola bar\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U218",
+   "section": "Story so far",
+   "text": "Vee recalls meeting Randi outside the dining hall.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had met Randi yesterday.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U219",
+   "section": "Story so far",
+   "text": "Vee watches the door for Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You keep looking at the door\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U220",
+   "section": "Story so far",
+   "text": "Randi chooses the seat beside Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"But it was Vee she kept coming back to, Vee she'd picked the seat beside.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U221",
+   "section": "Story so far",
+   "text": "Randi arrives through the back of the lecture room.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had come in the back, which Vee had not thought to watch\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U222",
+   "section": "Story so far",
+   "text": "Randi introduces herself to Cassie.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Hi — I'm Randi. Yes, like the adjective.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U223",
+   "section": "Story so far",
+   "text": "Cassie answers with only her name.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she just put her name down flat in the space, one word\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U224",
+   "section": "Story so far",
+   "text": "Randi invites Vee and Cassie to Chi Latte.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Come to Chi Latte with me. Both of you.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U225",
+   "section": "Story so far",
+   "text": "Cassie declines.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"just a person declining a thing that wasn't hers\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U226",
+   "section": "Story so far",
+   "text": "Cassie says a full \"Goodbye\" to Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the whole word, flat and finished, the word for a longer parting than a Wednesday\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U227",
+   "section": "Story so far",
+   "text": "Vee goes to Chi Latte with Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"walking up under it with Randi\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U228",
+   "section": "Story so far",
+   "text": "Randi buys Vee an oat-milk latte.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi had ordered her an oat-milk latte\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U229",
+   "section": "Story so far",
+   "text": "Vee sits with Randi at Chi Latte's high table.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she was a girl at the high table at Chi Latte\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U230",
+   "section": "Story so far",
+   "text": "Vee cannot afterward recall what they talked about.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the feeling was total and the transcript was blank\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U231",
+   "section": "Story so far",
+   "text": "Randi tells Vee she will see her later.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"See you later, okay?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U232",
+   "section": "Story so far",
+   "text": "Randi says \"Love you, girl\" to Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"This was the best. *Love you, girl.*\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U233",
+   "section": "Story so far",
+   "text": "Randi hugs Vee before leaving for a meeting.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi pulled her into a hug — quick, warm, complete\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U234",
+   "section": "Story so far",
+   "text": "**Ch5 Substitution.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"turn the thing in front of you into a thing you already knew how to do\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U235",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had been stuck on the problem for forty minutes\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U236",
+   "section": "Story so far",
+   "text": "Cassie works with headphones at the next table.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie sat with her own work spread out in her quiet manner, headphones in\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U237",
+   "section": "Story so far",
+   "text": "Randi texts on her phone.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi was texting — thumbs quick, eyes down\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U238",
+   "section": "Story so far",
+   "text": "Cassie points out a man looking at Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That cute guy in line is looking at you.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U239",
+   "section": "Story so far",
+   "text": "Pace offers to help Vee with her math.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It sounds like you're having trouble with math. Can I help?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U240",
+   "section": "Story so far",
+   "text": "Vee introduces herself with Randi's style of joke.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had watched Randi do it the day they'd met\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U241",
+   "section": "Story so far",
+   "text": "Pace helps Vee solve the integral with Euler's formula.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The thing she had learned years ago and set aside as a curiosity\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U242",
+   "section": "Story so far",
+   "text": "Randi asks Pace about Bessel's correction.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It accounts for the fact that you've estimated the mean from the data\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U243",
+   "section": "Story so far",
+   "text": "Vee tells Pace about a research project.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She talked for what was probably four or five minutes about a research project\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U244",
+   "section": "Story so far",
+   "text": "Pace asks to call Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"But I'd love to see you sometime. May I call you?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U245",
+   "section": "Story so far",
+   "text": "Pace takes Vee's number.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He typed it into his phone, repeated it back to her once to confirm\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U246",
+   "section": "Story so far",
+   "text": "Pace leaves the coffee shop without buying coffee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"walked out of a coffee shop empty-handed\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U247",
+   "section": "Story so far",
+   "text": "Pace texts Vee about frozen yogurt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"asking whether she liked frozen yogurt\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U248",
+   "section": "Story so far",
+   "text": "Pace and Vee go to a frozen yogurt shop.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"standing under the neon in a too-bright shop\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U249",
+   "section": "Story so far",
+   "text": "Pace pays for both cups.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He weighed his own cup and paid for both before she'd found her wallet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U250",
+   "section": "Story so far",
+   "text": "Vee tells Pace that his kindness matters to her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"This is the nicest a person has been to me in a really long time.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U251",
+   "section": "Story so far",
+   "text": "Randi urges Vee to date Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You should go out with him.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U252",
+   "section": "Story so far",
+   "text": "Pace gives Vee the pencil back so she can finish the solution.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He set the pencil back in her hand.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U253",
+   "section": "Story so far",
+   "text": "Vee struggles with an optional economics problem.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's just the challenge problem — nobody has to do it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U254",
+   "section": "Story so far",
+   "text": "**Ch6 Tannin.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the tannin catching at the inside of his lips\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U255",
+   "section": "Story so far",
+   "text": "(Pace POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he knew the sound of it now as he knew his own name\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U256",
+   "section": "Story so far",
+   "text": "Randi enters Pace's house without greeting him verbally.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"There was no hello in it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U257",
+   "section": "Story so far",
+   "text": "Pace has poured one glass of red wine.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"one glass on the low table, red, poured and left to open\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U258",
+   "section": "Story so far",
+   "text": "Randi straddles Pace on the couch.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She put a knee to either side of his thighs and settled\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U259",
+   "section": "Story so far",
+   "text": "Randi asks Pace to describe his date with Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she said again, against his mouth\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U260",
+   "section": "Story so far",
+   "text": "Pace describes Vee's overfull cup.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"like nobody had ever told her when to stop\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U261",
+   "section": "Story so far",
+   "text": "Pace says he made Vee laugh.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I made her laugh.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U262",
+   "section": "Story so far",
+   "text": "Pace finds Vee easy to listen to.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She's easy to listen to.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U263",
+   "section": "Story so far",
+   "text": "Randi goes quiet when Pace says Vee is easy to listen to.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi went quiet under his hands.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U264",
+   "section": "Story so far",
+   "text": "Randi says she already likes Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Randi said, and it came out easy and bright\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U265",
+   "section": "Story so far",
+   "text": "Randi finishes the wine in one swallow.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"finished the glass in one long swallow\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U266",
+   "section": "Story so far",
+   "text": "Randi leads Pace toward the bedroom.",
+   "label": "INFERENCE",
+   "kept": null,
+   "quote": "",
+   "quote_verified": null,
+   "final": "INFERENCE"
+  },
+  {
+   "id": "U267",
+   "section": "Story so far",
+   "text": "Randi drinks Pace's wine before kissing him.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She drank, and looked at him over the rim while she did, and then she came down and kissed him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U268",
+   "section": "Story so far",
+   "text": "**Ch7 Water Wings.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 7: Water Wings\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U269",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee stood on the wet tile in the old smell of chlorine\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U270",
+   "section": "Story so far",
+   "text": "Vee and Cassie go to the rec pool.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The rec pool made you wear a real suit\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U271",
+   "section": "Story so far",
+   "text": "Men in the bleachers catcall Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the bleachers breaking up behind it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U272",
+   "section": "Story so far",
+   "text": "Cassie insults the catcallers quietly.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie said it low, just for the two of them, still walking.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U273",
+   "section": "Story so far",
+   "text": "Vee swims under the water by herself.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"took the breath she'd taken ten thousand times, and went under\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U274",
+   "section": "Story so far",
+   "text": "Cassie splashes Vee from the shallow water.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"sink her cupped hands to the wrists and drive them forward, fast\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U275",
+   "section": "Story so far",
+   "text": "Vee remembers Pace inviting her to dinner on Saturday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Saturday, he'd said — would she have dinner with him.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U276",
+   "section": "Story so far",
+   "text": "Pace tells Vee not to answer immediately.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Who asked a girl out and then told her not to answer?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U277",
+   "section": "Story so far",
+   "text": "Vee opens Pace's text thread at a crosswalk.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"At the crosswalk she took her phone out and opened the thread\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U278",
+   "section": "Story so far",
+   "text": "**Ch8 May I Choose.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 8: May I Choose\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U279",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She sent it Friday evening\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U280",
+   "section": "Story so far",
+   "text": "Vee accepts Pace's dinner invitation.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"What she sent was the shortest one.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U281",
+   "section": "Story so far",
+   "text": "Pace replies right away.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"His came back before she'd set the phone down.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U282",
+   "section": "Story so far",
+   "text": "Cassie calls Pace a man rather than a boy.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That's not a boy,\" she said. \"That's a man.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U283",
+   "section": "Story so far",
+   "text": "Pace picks Vee up in her dorm lobby.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'll meet you in your lobby at seven.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U284",
+   "section": "Story so far",
+   "text": "Pace walks Vee to a small restaurant.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The place was close enough to walk to\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U285",
+   "section": "Story so far",
+   "text": "Vee lets Pace order for her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the relief of handing the choice across the table went through her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U286",
+   "section": "Story so far",
+   "text": "Pace tells Vee he writes six hours a day.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He wrote six hours a day and then stopped\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U287",
+   "section": "Story so far",
+   "text": "Pace tells Vee he competes as a powerlifter.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'm a powerlifter. I compete.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U288",
+   "section": "Story so far",
+   "text": "Vee drinks mint tea after the meal.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The smell reached her first — mint, sharp and green and clean\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U289",
+   "section": "Story so far",
+   "text": "Pace takes Vee's hand for the first time.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It should have been nothing, and it wasn't. It was the first time.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U290",
+   "section": "Story so far",
+   "text": "Vee says she doesn't kiss a man she has only just met.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I don't kiss a man I've known a couple of days\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U291",
+   "section": "Story so far",
+   "text": "Vee declares an exception to her rule.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'm making an exception.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U292",
+   "section": "Story so far",
+   "text": "Vee eats without monitoring herself.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She wasn't watching herself eat, as some part of her almost always was\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U293",
+   "section": "Story so far",
+   "text": "Pace holds Vee's hand during the walk home.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"started them gently back along the path, her hand drawn along with his\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U294",
+   "section": "Story so far",
+   "text": "Pace accepts Vee's stated boundary without arguing.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He didn't argue.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U295",
+   "section": "Story so far",
+   "text": "Vee stops Pace from walking onward.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a few inches on it pulled taut between them and stopped him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U296",
+   "section": "Story so far",
+   "text": "Vee kisses Pace beneath a tree.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"under it he slowed, and stopped, and turned to her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U297",
+   "section": "Story so far",
+   "text": "Pace kisses Vee back fully the second time.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"This time he met her all the way.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U298",
+   "section": "Story so far",
+   "text": "Pace asks \"May I choose?\" and orders for Vee; she stops watching herself eat for the first time.",
+   "label": "TRIM",
+   "kept": "Pace asks \"May I choose?\" and orders for Vee",
+   "quote": "\"he ordered, unhurried, deliberate, building it as he went\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U299",
+   "section": "Story so far",
+   "text": "**Ch9 Dear.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee's my dear friend\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U300",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was already talking.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U301",
+   "section": "Story so far",
+   "text": "Vee spins around the dorm room.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she spun, once, quick, arms going up\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U302",
+   "section": "Story so far",
+   "text": "Vee tells Cassie about the kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He was already walking away and I pulled him back and I did it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U303",
+   "section": "Story so far",
+   "text": "Pace invited Vee hiking.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And he asked me hiking.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U304",
+   "section": "Story so far",
+   "text": "Six days later Vee goes to stats with Cassie and Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Six days later, the professor took them up to the edge\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U305",
+   "section": "Story so far",
+   "text": "Randi takes Vee to the Smoothie Bird.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The Smoothie Bird sat on its corner\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U306",
+   "section": "Story so far",
+   "text": "Randi tells Vee about a bad date.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My love life is a disaster.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U307",
+   "section": "Story so far",
+   "text": "Vee tells Randi that Pace asked \"May I choose?\".",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and then he said, 'May I choose?'\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U308",
+   "section": "Story so far",
+   "text": "Vee tells Randi she kissed Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Two days I'd known him.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U309",
+   "section": "Story so far",
+   "text": "Vee says the hike is on Sunday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Sunday. There's a trail he goes to.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U310",
+   "section": "Story so far",
+   "text": "Randi sexualizes Vee's coming hike with Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Hair down, no bra, let your mountain man ravish you against a tree.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U311",
+   "section": "Story so far",
+   "text": "Vee says Pace would ask first.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Before he ravished me.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U312",
+   "section": "Story so far",
+   "text": "Brooke approaches Randi's table.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Two of them, threading between the tables.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U313",
+   "section": "Story so far",
+   "text": "Randi publicly calls Vee her dear friend.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee's my dear friend\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U314",
+   "section": "Story so far",
+   "text": "Randi holds Vee's hand before Brooke.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she held it there on the white top in plain view of the two of them\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U315",
+   "section": "Story so far",
+   "text": "**Ch10 Leave No Trace.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 10: Leave No Trace\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U316",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had said yes to this walking back from the dinner\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U317",
+   "section": "Story so far",
+   "text": "Meg's borrowed boot rubs Vee's heel.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Meg's boots, a half-size big, stiff at the ankle\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U318",
+   "section": "Story so far",
+   "text": "Pace treats her heel with moleskin.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"cut a square of moleskin, pressed it to her heel with his thumb\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U319",
+   "section": "Story so far",
+   "text": "Vee reaches the summit overlook.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The summit was a shelf of black rock\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U320",
+   "section": "Story so far",
+   "text": "Pace made sandwiches that morning.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Made them this morning\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U321",
+   "section": "Story so far",
+   "text": "The sandwiches have horseradish.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's the horseradish. It does that.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U322",
+   "section": "Story so far",
+   "text": "Pace tells Vee not to leave cherry pits behind.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"We take nothing and leave nothing\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U323",
+   "section": "Story so far",
+   "text": "Vee tells Pace about her honor society induction.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She told him about the induction.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U324",
+   "section": "Story so far",
+   "text": "Vee describes a silk dress she saw in a magazine.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"In a magazine. The one they leave out in the lobby. It was silk.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U325",
+   "section": "Story so far",
+   "text": "Vee says she can't afford the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I can't afford it. Obviously.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U326",
+   "section": "Story so far",
+   "text": "Pace calls the described dress beautiful.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That sounds like a beautiful dress.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U327",
+   "section": "Story so far",
+   "text": "Rain begins during the descent.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It came down hard.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U328",
+   "section": "Story so far",
+   "text": "Pace gives Vee his only dry shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"His only dry shirt.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U329",
+   "section": "Story so far",
+   "text": "Pace leaves the truck to give Vee privacy.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He opened his door and got out.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U330",
+   "section": "Story so far",
+   "text": "Vee calls Pace back into the truck.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She lifted a hand off the bench and crooked a finger at him.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U331",
+   "section": "Story so far",
+   "text": "Vee takes off her wet shirt while holding Pace's eyes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Then her hands went to the top button of her shirt.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U332",
+   "section": "Story so far",
+   "text": "Pace does not touch her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He didn't lean in. He didn't lift a hand.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U333",
+   "section": "Story so far",
+   "text": "Vee finds Pace shivering.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He was shivering. He'd been shivering.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U334",
+   "section": "Story so far",
+   "text": "Pace parks in the dorm fire lane.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the fire lane, the red-painted curb\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U335",
+   "section": "Story so far",
+   "text": "A campus police vehicle interrupts Vee's goodbye.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The campus cop, pulled up behind, lights going.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U336",
+   "section": "Story so far",
+   "text": "Vee tells Cassie about the hike.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"So Vee told her: the boots that didn't fit, the blister\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U337",
+   "section": "Story so far",
+   "text": "Pace removes Vee's boot to inspect her heel.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He worked the heel free and slid it off\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U338",
+   "section": "Story so far",
+   "text": "Cassie tells Vee to keep Pace's shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'm keeping the shirt.\" \"Keep the shirt.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U339",
+   "section": "Story so far",
+   "text": "**Ch11 Swim Lanes.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 11: Swim Lanes\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U340",
+   "section": "Story so far",
+   "text": "(Pace POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had driven home in the wet shirt with the heater on high\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U341",
+   "section": "Story so far",
+   "text": "Randi texts Pace that she is on her way.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her text was on his phone when he got out\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U342",
+   "section": "Story so far",
+   "text": "Randi brings no overnight bag.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"saw the chair by the door with nothing on it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U343",
+   "section": "Story so far",
+   "text": "Randi demands that Pace tell her about Vee during sex.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He knew what she was asking for, and it was not the trail\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U344",
+   "section": "Story so far",
+   "text": "Pace tells Randi how Vee smells.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her hair smells shampoo-clean, and subtly, underneath it, a hint of chlorine.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U345",
+   "section": "Story so far",
+   "text": "Vee wears gardenia and musk perfume.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Gardenia and musk. On her throat, and lower.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U346",
+   "section": "Story so far",
+   "text": "Pace tells Randi Vee's stomach is soft.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Her stomach is soft.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U347",
+   "section": "Story so far",
+   "text": "Randi tells Pace she wants \"us.\".",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she said, at his ear, torn out of her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U348",
+   "section": "Story so far",
+   "text": "Randi declines Pace's offer of food.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Bright, from inside the camisole going over her head.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U349",
+   "section": "Story so far",
+   "text": "Randi dresses and leaves.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"turned the deadbolt back and let herself out\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U350",
+   "section": "Story so far",
+   "text": "Pace eats alone.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He ate at the table. He was still hungry after and made more.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U351",
+   "section": "Story so far",
+   "text": "Randi immediately leads Pace into the bedroom.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she got him through the bedroom door with her mouth still on his\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U352",
+   "section": "Story so far",
+   "text": "Randi mounts Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she came up over him, a knee to either side of his hips\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U353",
+   "section": "Story so far",
+   "text": "Randi leaves Pace's house without staying overnight.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had never left after. Not once, since the first night\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U354",
+   "section": "Story so far",
+   "text": "Pace returns home soaked from the hike.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had driven home in the wet shirt with the heater on high\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U355",
+   "section": "Story so far",
+   "text": "**Ch12 What to Wear.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 12: What to Wear\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U356",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee sat between them, laughing with her whole body\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U357",
+   "section": "Story so far",
+   "text": "Vee eats with Meg and Kayla in the athletic dorm dining hall.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Meg was working through a plate of something with too much cheese\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U358",
+   "section": "Story so far",
+   "text": "Theo waves to Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Across the room Theo lifted a hand at her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U359",
+   "section": "Story so far",
+   "text": "Vee tells them about Pace's lifting and writing.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He lifts in the morning, first thing, before anything.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U360",
+   "section": "Story so far",
+   "text": "Vee tells them about the shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It started raining on the way down\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U361",
+   "section": "Story so far",
+   "text": "Vee says they have kissed once, twelve days ago.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Twelve days. Walking home from dinner.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U362",
+   "section": "Story so far",
+   "text": "Pace texts Vee asking her to his house.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He's asking me to his house.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U363",
+   "section": "Story so far",
+   "text": "The text sets Saturday at two.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"would you come to my house Saturday. Two o'clock.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U364",
+   "section": "Story so far",
+   "text": "Kayla says she will do Vee's hair on Saturday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"We're doing hair Saturday. I'm coming to your room.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U365",
+   "section": "Story so far",
+   "text": "Pace asks Vee about small choices.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He asks me first. The small things.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U366",
+   "section": "Story so far",
+   "text": "Kayla says two o'clock is not a mealtime invitation.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Two in the afternoon is not dinner.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U367",
+   "section": "Story so far",
+   "text": "Kayla tells Vee to bring spare clothes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Bring a change of clothes.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U368",
+   "section": "Story so far",
+   "text": "Vee recounts Pace standing in the rain while she changed.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Stands there with his back to the truck, soaking to the skin\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U369",
+   "section": "Story so far",
+   "text": "**Ch13 Two Towels.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 13: Two Towels\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U370",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she drove straight past the driveway and had to come back for it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U371",
+   "section": "Story so far",
+   "text": "Vee drives to Pace's house down a gravel road.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"twenty minutes past the edge of town the pavement gave out\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U372",
+   "section": "Story so far",
+   "text": "Vee kisses Pace at the door.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and then she leaned in and kissed him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U373",
+   "section": "Story so far",
+   "text": "Pace is the one who ends the kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And then he was the one who stopped it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U374",
+   "section": "Story so far",
+   "text": "Pace gives Vee a tour of the house.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I want to see where you live.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U375",
+   "section": "Story so far",
+   "text": "Vee examines Pace's mathematics work.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She picked up a page.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U376",
+   "section": "Story so far",
+   "text": "The bedroom door stays shut.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"At the end of the hall a door was shut, the only closed door in the house.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U377",
+   "section": "Story so far",
+   "text": "Pace's bathroom has two towels.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a bathroom, plain, clean, two towels on the rod\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U378",
+   "section": "Story so far",
+   "text": "Vee admires the white oak furniture Pace made.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"all of it in a pale white oak she could name on sight\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U379",
+   "section": "Story so far",
+   "text": "Pace explains error-correcting codes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"How to send a message so it survives getting chewed up on the way out.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U380",
+   "section": "Story so far",
+   "text": "Pace shows Vee his woodshop.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"to the reason a house this size had a two-car garage\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U381",
+   "section": "Story so far",
+   "text": "Vee finds burgundy silk on the sun-porch table.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A bolt of cloth was on the long table\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U382",
+   "section": "Story so far",
+   "text": "Vee realizes Pace made the flannel shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You made the shirt\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U383",
+   "section": "Story so far",
+   "text": "Pace offers to make the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I'd like to make it for you\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U384",
+   "section": "Story so far",
+   "text": "Vee accepts.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Yes — of course, yes.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U385",
+   "section": "Story so far",
+   "text": "Pace licenses a patent.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I license a patent. It pays a little.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U386",
+   "section": "Story so far",
+   "text": "**Ch14 A Round.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 14: A Round\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U387",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She said okay, or thought she did. And then she stood there.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U388",
+   "section": "Story so far",
+   "text": "Vee undresses to her underwear for the fitting.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She stood there in her bra and her panties\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U389",
+   "section": "Story so far",
+   "text": "Pace asks her to take off her bra.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It changes the line. It'll lie to me.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U390",
+   "section": "Story so far",
+   "text": "Vee removes her bra.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"unhooked the bra, and brought the straps forward down her arms\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U391",
+   "section": "Story so far",
+   "text": "Vee stands on a riser Pace built.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"of course there was a riser in the corner of a woodworker's house, of course he'd built it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U392",
+   "section": "Story so far",
+   "text": "Pace measures her, writing down each number.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Rose. Stepped back. Wrote it down.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U393",
+   "section": "Story so far",
+   "text": "Pace measures Vee's neck and shoulder.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He set two fingers at the base of her throat to anchor the tape\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U394",
+   "section": "Story so far",
+   "text": "Pace measures Vee's waist while kneeling.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Around the waist. He knelt in front of her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U395",
+   "section": "Story so far",
+   "text": "Pace measures across Vee's bust.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Across the bustline. He stayed standing for this one\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U396",
+   "section": "Story so far",
+   "text": "Vee jokes about wearing the dress while aroused.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I was worried I was going to have to come over here pre-aroused every time I wore it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U397",
+   "section": "Story so far",
+   "text": "Pace has never thought about it.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I've never thought about it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U398",
+   "section": "Story so far",
+   "text": "Pace gives Vee tea and a fleece blanket.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He put a mug of tea in her hands\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U399",
+   "section": "Story so far",
+   "text": "Pace cuts the burgundy silk.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He laid the burgundy out on the long table and weighted it and went at it with shears\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U400",
+   "section": "Story so far",
+   "text": "Vee's underwear becomes visibly wet.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was big and dark and stupid.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U401",
+   "section": "Story so far",
+   "text": "Pace drapes the cut panels directly on Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he began to build the dress on her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U402",
+   "section": "Story so far",
+   "text": "Pace touches Vee's ass while draping.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"On her ass. Both of them, flat and warm\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U403",
+   "section": "Story so far",
+   "text": "Vee shuts her eyes in shame.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She screwed her eyes shut and turned her face away\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U404",
+   "section": "Story so far",
+   "text": "Vee opens her eyes to find Pace smiling up at her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Smiling at her, the smile of a man who had just received an unexpected gift.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U405",
+   "section": "Story so far",
+   "text": "Vee rises onto her toes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"up onto her toes, half an inch, an inch\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U406",
+   "section": "Story so far",
+   "text": "Vee deliberately presses her breast to Pace's cheek.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"So the third time she did it on purpose.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U407",
+   "section": "Story so far",
+   "text": "Pace blushes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He went red.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U408",
+   "section": "Story so far",
+   "text": "A pin pricks Vee's ribs.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A bright small sting at the side of her ribs\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U409",
+   "section": "Story so far",
+   "text": "Pace kisses the pinprick.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He bent and kissed it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U410",
+   "section": "Story so far",
+   "text": "Pace tells her to keep still.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It came out low. It came out a beat too late\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U411",
+   "section": "Story so far",
+   "text": "Pace finishes working while Vee holds still.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She stood very still and let him work.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U412",
+   "section": "Story so far",
+   "text": "**Ch15 How It's Done.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 15: How It's Done\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U413",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie was on her bed with a textbook and a highlighter when Vee came in\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U414",
+   "section": "Story so far",
+   "text": "Vee tells Cassie about the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"For the honor society induction. A dress.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U415",
+   "section": "Story so far",
+   "text": "Cassie points out that Vee sleeps in Pace's shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You've been sleeping in that shirt all week\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U416",
+   "section": "Story so far",
+   "text": "Cassie realizes Pace made the flannel shirt.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Did he make that too?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U417",
+   "section": "Story so far",
+   "text": "Vee tells Cassie Pace warmed the house for her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He turned the heat up before I got there. So I wouldn't be cold.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U418",
+   "section": "Story so far",
+   "text": "Cassie asks whether Pace is gay.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Are you sure he's not gay?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U419",
+   "section": "Story so far",
+   "text": "Vee admits she pressed back against Pace during the fitting.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A little. When he was back there. I leaned\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U420",
+   "section": "Story so far",
+   "text": "Randi picks Vee up in a dark-green Mercedes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the Mercedes was at the curb when Vee came down\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U421",
+   "section": "Story so far",
+   "text": "Randi takes Vee to lunch.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"The place was off Prices Fork\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U422",
+   "section": "Story so far",
+   "text": "Randi orders salmon and Rombauer.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And a glass of the Rombauer.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U423",
+   "section": "Story so far",
+   "text": "Vee orders tomato soup and water.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And water's great, thanks.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U424",
+   "section": "Story so far",
+   "text": "Randi tells Vee about being tied up with a Hermès scarf.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Tied to a man's headboard with a Hermès scarf.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U425",
+   "section": "Story so far",
+   "text": "Randi explains the appeal of letting go.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and it turns out that's the only time some of us ever put them down\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U426",
+   "section": "Story so far",
+   "text": "Vee tells Randi about taking her top off for the fitting.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And he had me take my top off. For the fit.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U427",
+   "section": "Story so far",
+   "text": "Randi presses her water glass's rim under her thumbnail as Vee talks.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"her thumb had found the rim of her water glass and set the edge of it in under the nail\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U428",
+   "section": "Story so far",
+   "text": "Vee claims the house was cold.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was cold in the house.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U429",
+   "section": "Story so far",
+   "text": "Randi draws out details one by one.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I bet he started at your hip. Didn't he.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U430",
+   "section": "Story so far",
+   "text": "Randi stops Vee before she reveals her secret.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You don't have to tell me.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U431",
+   "section": "Story so far",
+   "text": "Vee pays her own check with her debit card.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee laid the debit card on her own folder\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U432",
+   "section": "Story so far",
+   "text": "Randi kisses Vee on the mouth at the dorm.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and kissed her on the mouth\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U433",
+   "section": "Story so far",
+   "text": "Vee checks whether anyone saw the kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She turned and looked at the courtyard\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U434",
+   "section": "Story so far",
+   "text": "Vee explains Randi's kiss as a French habit.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's a French thing, she does the kiss-kiss\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U435",
+   "section": "Story so far",
+   "text": "Vee tells Cassie that Pace measured her without a bra.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"So off it comes, and now I'm\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U436",
+   "section": "Story so far",
+   "text": "Vee describes Pace's look as a request for permission.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was like his eyes asked\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U437",
+   "section": "Story so far",
+   "text": "**Ch16 Famished.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and heard it a beat after he did\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U438",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"By Tuesday she had started to wonder.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U439",
+   "section": "Story so far",
+   "text": "Pace texts Vee from Chicago asking her to dinner Friday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the morning he flew to Chicago, the text came\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U440",
+   "section": "Story so far",
+   "text": "Vee buys green satin underwear for her date.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"satin with a fine dark lace at the edges\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U441",
+   "section": "Story so far",
+   "text": "Vee buys frosted plum nail polish.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a frosted plum she chose without thinking too hard about why\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U442",
+   "section": "Story so far",
+   "text": "Vee paints her toenails on Friday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She left the toenails for Friday.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U443",
+   "section": "Story so far",
+   "text": "Vee wears a cream blouse, black skirt, and ballet flats.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the soft cream blouse that buttoned up the front and the black skirt\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U444",
+   "section": "Story so far",
+   "text": "Pace answers the door in an apron.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He opened the door in a canvas apron over a dark henley\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U445",
+   "section": "Story so far",
+   "text": "Vee thanks Pace for the shirt and kisses him.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She kissed him before he could answer\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U446",
+   "section": "Story so far",
+   "text": "Vee asks to see his bedroom.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Will you show me your bedroom?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U447",
+   "section": "Story so far",
+   "text": "Pace undresses Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He opened her blouse from the bottom and pushed it from her shoulders.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U448",
+   "section": "Story so far",
+   "text": "Pace asks Vee a question on his knees.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Would you be bothered if I was too hard?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U449",
+   "section": "Story so far",
+   "text": "Pace brings Vee to orgasm with his mouth.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It broke over her standing up.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U450",
+   "section": "Story so far",
+   "text": "Vee sees a large scar on Pace's inner thigh.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a scar, large, high on the inside of his thigh\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U451",
+   "section": "Story so far",
+   "text": "Vee and Pace have sex for the first time.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"for Pace, for their first time\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U452",
+   "section": "Story so far",
+   "text": "Pace finishes cooking fra diavolo after sex.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He built the fra diavolo from where he'd stopped\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U453",
+   "section": "Story so far",
+   "text": "Vee eats dinner wrapped in Pace's sheet.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"wound the top sheet around herself instead\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U454",
+   "section": "Story so far",
+   "text": "Vee offers Pace her folded panties.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She kissed him, briefly, and held the folded panties out toward him.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U455",
+   "section": "Story so far",
+   "text": "Pace sees crystal strands of Vee's arousal.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the crystal strings came with it, obvious and excessive\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U456",
+   "section": "Story so far",
+   "text": "Vee orgasms during intercourse.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She broke around him with her mouth open against his shoulder\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U457",
+   "section": "Story so far",
+   "text": "**Ch17 Fed.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 17: Fed\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U458",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Cassie was on the bottom bunk with her knees up\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U459",
+   "section": "Story so far",
+   "text": "Vee returns to the dorm grinning after sleeping at Pace's.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"because Vee was grinning and the grin was the entire story\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U460",
+   "section": "Story so far",
+   "text": "Vee omits the sexual middle of the night.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"What she kept was the middle.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U461",
+   "section": "Story so far",
+   "text": "Vee stops undressing because she has no underwear.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Nothing under the skirt. She had given them away.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U462",
+   "section": "Story so far",
+   "text": "Cassie leaves for a game.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I've got a game.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U463",
+   "section": "Story so far",
+   "text": "Vee tells Cassie about Pace's prepared Chianti.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the Chianti he'd opened before she came so it would be ready when she was\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U464",
+   "section": "Story so far",
+   "text": "Vee meets Randi for brunch.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Sunday's bistro had a sun porch along its south side\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U465",
+   "section": "Story so far",
+   "text": "Vee orders a mimosa.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee closed her menu and said she'd have the same\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U466",
+   "section": "Story so far",
+   "text": "Randi tells Vee about a hurried old boyfriend.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I ran into an old boyfriend on campus.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U467",
+   "section": "Story so far",
+   "text": "Vee tells Randi about wearing the sheet while Pace cooked.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"so I took the top sheet off the bed and wrapped up in it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U468",
+   "section": "Story so far",
+   "text": "Vee says Pace was not in a hurry.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He wasn't in a hurry\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U469",
+   "section": "Story so far",
+   "text": "Randi asks about Vee's nail polish.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's beautiful. What's it called?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U470",
+   "section": "Story so far",
+   "text": "Vee admits she bought new underwear.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You went to a store and bought new underwear for this man.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U471",
+   "section": "Story so far",
+   "text": "Vee says she wanted sex with Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And I took it. For once.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U472",
+   "section": "Story so far",
+   "text": "Vee meets Randi's goodbye kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Vee had half-expected it this time, and met it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U473",
+   "section": "Story so far",
+   "text": "Vee does not check whether anyone witnessed the kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she didn't look down the street for who might have seen them\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U474",
+   "section": "Story so far",
+   "text": "Vee does not price her second mimosa.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the second one she did not price at all\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U475",
+   "section": "Story so far",
+   "text": "Cassie asks whether he was worth painting her toenails.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Was he worth painting your toenails?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U476",
+   "section": "Story so far",
+   "text": "**Ch18 Portion.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 18: Portion\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U477",
+   "section": "Story so far",
+   "text": "(Pace POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had set out two bowls.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U478",
+   "section": "Story so far",
+   "text": "Pace cooks chicken stew for Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Chicken and potatoes in a white sauce\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U479",
+   "section": "Story so far",
+   "text": "Randi calls the food wonderful, which she has never said to him.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"in his kitchen she had never once told him a thing was wonderful\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U480",
+   "section": "Story so far",
+   "text": "Randi says Vee told her about Friday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She told me about Friday.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U481",
+   "section": "Story so far",
+   "text": "Pace is glad.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He was glad all the way down.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U482",
+   "section": "Story so far",
+   "text": "Randi asks how long Pace will take with Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"How long are you going to take?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U483",
+   "section": "Story so far",
+   "text": "Pace says as long as Vee needs.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"As long as she needs.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U484",
+   "section": "Story so far",
+   "text": "Pace says Vee must choose every step.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She chooses it, Randi. Every step of it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U485",
+   "section": "Story so far",
+   "text": "Randi pours her own wine.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"poured her own glass, a full one\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U486",
+   "section": "Story so far",
+   "text": "Randi eats all the salad.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She ate the salad. All of it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U487",
+   "section": "Story so far",
+   "text": "Randi has fast sex with Pace with her eyes shut.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She rode him hard and fast with her eyes shut\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U488",
+   "section": "Story so far",
+   "text": "Randi turns her back to Pace after sex.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"lay on her side with her back to him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U489",
+   "section": "Story so far",
+   "text": "Pace refrigerates the bowl for Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He covered the bowl with a plate and put it in the refrigerator, for her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U490",
+   "section": "Story so far",
+   "text": "Randi does not say \"tell me\" during sex.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he lay under her with his hands on her hips and waited for it and it did not come\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U491",
+   "section": "Story so far",
+   "text": "Pace has always poured Randi's wine.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had poured every glass she had drunk in this house.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U492",
+   "section": "Story so far",
+   "text": "Randi calls Pace selfish.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's selfish, Pace.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U493",
+   "section": "Story so far",
+   "text": "Randi tastes only the surface of the stew.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She drew the spoon through the sauce, not down into the bowl, along the top of it\"",
+   "quote_verified": false,
+   "final": "UNSUPPORTED"
+  },
+  {
+   "id": "U494",
+   "section": "Story so far",
+   "text": "Pace covers Randi's untouched bowl.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He covered the bowl with a plate and put it in the refrigerator, for her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U495",
+   "section": "Story so far",
+   "text": "**Ch19 Peekaboo.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 19: Peekaboo\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U496",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She'd dressed to be lovely and soft to touch\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U497",
+   "section": "Story so far",
+   "text": "Vee goes to Pace's on a midweek afternoon in a dark dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the dark dress, the long-sleeved one, feminine and easy\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U498",
+   "section": "Story so far",
+   "text": "Pace leads Vee to the sun porch.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"drew her the other way, through the den and into the sun porch\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U499",
+   "section": "Story so far",
+   "text": "The finished gown hangs in the window.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He'd hung it from the lip of the window frame\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U500",
+   "section": "Story so far",
+   "text": "Pace has hung a new mirror.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"newly hung, the screw heads still bright\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U501",
+   "section": "Story so far",
+   "text": "Vee cries at the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She hadn't decided to cry and she was crying\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U502",
+   "section": "Story so far",
+   "text": "Vee tries on the gown with no bra.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"then the bra, because she'd known since the fitting he'd built this to be worn bare\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U503",
+   "section": "Story so far",
+   "text": "The gown is lined at the bodice and hips.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He'd lined it, there and nowhere else\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U504",
+   "section": "Story so far",
+   "text": "The slit opens to the hip.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And the slit came open all the way up. To the hip.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U505",
+   "section": "Story so far",
+   "text": "Vee takes off her underwear.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She hooked her thumbs in the waistband and slid the underwear down her legs\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U506",
+   "section": "Story so far",
+   "text": "Vee strides to Pace in the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she strode, the slit swinging open on her bare leg\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U507",
+   "section": "Story so far",
+   "text": "Vee initiates intercourse while standing.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and then, arms and leg, she closed the last of the distance herself and took him in\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U508",
+   "section": "Story so far",
+   "text": "Vee stops to protect the dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"There was no putting her down: the skirt hung exactly where the mess would be\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U509",
+   "section": "Story so far",
+   "text": "Pace licks Vee's fingers clean.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"cleaning her own slickness off her fingers with his eyes on hers\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U510",
+   "section": "Story so far",
+   "text": "They hang the dress back in the window.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"hung in the window it had come from\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U511",
+   "section": "Story so far",
+   "text": "Pace carries Vee down the hall.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Then he walked. Every step of the hall moved him in her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U512",
+   "section": "Story so far",
+   "text": "Vee holds Pace off with her feet.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She got her feet up between them instead, flat on his chest\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U513",
+   "section": "Story so far",
+   "text": "Pace falls asleep afterward.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Pace was asleep.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U514",
+   "section": "Story so far",
+   "text": "Vee imagines wearing the dress to the induction.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she put the dress on, in her head, and walked into the induction\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U515",
+   "section": "Story so far",
+   "text": "Pace welcomes Vee with a cautious kiss.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a careful peck, a question\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U516",
+   "section": "Story so far",
+   "text": "Vee sees herself in the mirror.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She turned to the mirror.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U517",
+   "section": "Story so far",
+   "text": "Pace removes the dress without soiling it.",
+   "label": "TRIM",
+   "kept": "Pace removes the dress",
+   "quote": "\"the dress up and off over her raised arms\"",
+   "quote_verified": true,
+   "final": "TRIM"
+  },
+  {
+   "id": "U518",
+   "section": "Story so far",
+   "text": "Vee and Pace orgasm during intercourse.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"when she went over his eyes were open and on her, and he was a breath behind her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U519",
+   "section": "Story so far",
+   "text": "**Ch20 Sorority.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"a sorority habit, four years of never being the one they waited on\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U520",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had been late to everything all morning\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U521",
+   "section": "Story so far",
+   "text": "Vee leaves Pace's at eight on Friday morning.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Eight was when she'd left Pace's\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U522",
+   "section": "Story so far",
+   "text": "Vee is late to her morning classes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was late to her nine and barely made her ten\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U523",
+   "section": "Story so far",
+   "text": "Cassie points out that Vee's bed is made.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Your bed's made\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U524",
+   "section": "Story so far",
+   "text": "The professor teaches Simpson's paradox.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Simpson's paradox\"",
+   "quote_verified": false,
+   "final": "UNSUPPORTED"
+  },
+  {
+   "id": "U525",
+   "section": "Story so far",
+   "text": "Cassie watches Vee rather than the professor.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had not looked at the professor once.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U526",
+   "section": "Story so far",
+   "text": "Cassie asks whether it was a good night.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Was it a good night?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U527",
+   "section": "Story so far",
+   "text": "Vee says she lacks suitable shoes.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I don't have shoes\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U528",
+   "section": "Story so far",
+   "text": "Randi sets a shoe-shopping date for Saturday.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You and me, Saturday.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U529",
+   "section": "Story so far",
+   "text": "Randi walks Vee back to her room.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was Randi who said she'd walk her back\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U530",
+   "section": "Story so far",
+   "text": "Vee puts on the dress to show Randi.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She came out of the bathroom in it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U531",
+   "section": "Story so far",
+   "text": "Randi identifies the silk as charmeuse.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"not to Vee; to herself, or to the dress\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U532",
+   "section": "Story so far",
+   "text": "Vee tells Randi Pace stayed up all night finishing it.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He was up all night finishing it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U533",
+   "section": "Story so far",
+   "text": "Randi insists they bring the dress shopping.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It comes with us. We match the real thing or we don't bother.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U534",
+   "section": "Story so far",
+   "text": "They shop at a discount store off the bypass.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the big bright store off the bypass\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U535",
+   "section": "Story so far",
+   "text": "Vee jokes about yetis.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Do yetis shop here?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U536",
+   "section": "Story so far",
+   "text": "Randi models pink rhinestone platforms.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"six-inch platforms bedazzled toe to ankle in pink rhinestones\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U537",
+   "section": "Story so far",
+   "text": "Vee picks a sensible tan heel.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's the sensible one.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U538",
+   "section": "Story so far",
+   "text": "Vee and Randi both wear size seven.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Same feet, baby. Same size, same everything.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U539",
+   "section": "Story so far",
+   "text": "Randi takes Vee to an expensive boutique.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It was not a store Vee would ever have walked into on her own.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U540",
+   "section": "Story so far",
+   "text": "Randi kneels to fit the shoe on Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"went down onto one knee in front of the bench\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U541",
+   "section": "Story so far",
+   "text": "Randi runs her thumb over Vee's toenail.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"A thumb moved once across the nail of the big toe\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U542",
+   "section": "Story so far",
+   "text": "Vee pays with her emergency credit card.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the credit card she kept for emergencies and gas\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U543",
+   "section": "Story so far",
+   "text": "Randi buys loafers costing several times as much.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the number that rang up was a multiple of Vee's\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U544",
+   "section": "Story so far",
+   "text": "Vee tells Cassie and Randi that the dress is finished.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She told them it was finished\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U545",
+   "section": "Story so far",
+   "text": "Randi calls Vee lucky.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"You lucky slut.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U546",
+   "section": "Story so far",
+   "text": "Randi says Pace made the dress to Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He made it *to* you.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U547",
+   "section": "Story so far",
+   "text": "Randi names the dress as made to Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He made it *to* you.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U548",
+   "section": "Story so far",
+   "text": "Vee and Randi reject many shoes at the first store.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"they had a bench between them stacked with nos\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U549",
+   "section": "Story so far",
+   "text": "Randi buys expensive loafers without checking the price.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"and Randi never once looked at it\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U550",
+   "section": "Story so far",
+   "text": "**Ch21 Gone.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 21: Gone\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U551",
+   "section": "Story so far",
+   "text": "(Pace POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He had one hand in her hair and the other flat on the small of her back\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U552",
+   "section": "Story so far",
+   "text": "Randi stays lying on Pace after sex.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Tonight, she had stayed down.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U553",
+   "section": "Story so far",
+   "text": "Randi recounts shopping with Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Best time I've had in a store in years.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U554",
+   "section": "Story so far",
+   "text": "Randi says Vee's embarrassment was hot.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That was kind of hot.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U555",
+   "section": "Story so far",
+   "text": "Randi says she doesn't get bored of Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I keep waiting to get bored of her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U556",
+   "section": "Story so far",
+   "text": "Randi says Vee talks about Pace.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And she talks about you. The whole hour.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U557",
+   "section": "Story so far",
+   "text": "Pace says Vee was taught to be ashamed.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Somebody taught her to be ashamed of her body.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U558",
+   "section": "Story so far",
+   "text": "Pace says Vee brightens a room.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She comes in and the whole thing goes brighter.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U559",
+   "section": "Story so far",
+   "text": "They have sex again.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he used the hold to bring her back down the length of him\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U560",
+   "section": "Story so far",
+   "text": "Randi asks Pace to cook.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Will you make me something?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U561",
+   "section": "Story so far",
+   "text": "Randi wears one of Pace's undershirts.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"took out one of his white undershirts\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U562",
+   "section": "Story so far",
+   "text": "Pace cooks chicken, couscous, and asparagus.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He put the kettle on and took two boneless chicken breasts from the refrigerator.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U563",
+   "section": "Story so far",
+   "text": "Randi tells Pace about a fight over chapter flowers.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"There had been a disagreement over flowers\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U564",
+   "section": "Story so far",
+   "text": "Randi asks about Pace's Chicago presentation.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"How did your presentation in Chicago go?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U565",
+   "section": "Story so far",
+   "text": "Randi asks Pace to pour more wine.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Will you pour me a little more?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U566",
+   "section": "Story so far",
+   "text": "Randi eats everything Pace serves.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"When she set it down, there was nothing left on it.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U567",
+   "section": "Story so far",
+   "text": "Pace holds Randi until she sleeps.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"He held her until she slept.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U568",
+   "section": "Story so far",
+   "text": "Pace's grandsupervisor attended his talk.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My grandsupervisor was there.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U569",
+   "section": "Story so far",
+   "text": "Pace tells Randi that he likes taking his time with Vee.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I like taking my time with her\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U570",
+   "section": "Story so far",
+   "text": "Randi praises Pace's dress.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"And the dress is not bad.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U571",
+   "section": "Story so far",
+   "text": "Randi calls Vee extraordinary.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She's extraordinary. How she looks. Who she is.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U572",
+   "section": "Story so far",
+   "text": "Randi says she is hungry afterward.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Is there anything to eat in this house?\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U573",
+   "section": "Story so far",
+   "text": "Randi tells Pace the food was lovely.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That was lovely,\" she said.",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U574",
+   "section": "Story so far",
+   "text": "**Ch22 Rock.**",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"CHAPTER 22: Rock\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U575",
+   "section": "Story so far",
+   "text": "(Vee POV.)",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had her feet tucked under his thigh.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U576",
+   "section": "Story so far",
+   "text": "Vee and Pace sit under a quilt by the fire.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"the quilt over the two of them and the fire at their backs\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U577",
+   "section": "Story so far",
+   "text": "Vee describes her Ohio childhood food.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Meat in gravy. Potatoes under gravy.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U578",
+   "section": "Story so far",
+   "text": "Pace reveals that his name is Peter.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My real name is Peter\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U579",
+   "section": "Story so far",
+   "text": "Pace took the SAT at fourteen.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I took the SAT for a summer program when I was fourteen.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U580",
+   "section": "Story so far",
+   "text": "Pace's seventh-grade teacher moved his desk to the hall.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"So she moved my desk into the hall during math class\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U581",
+   "section": "Story so far",
+   "text": "Pace explains why math is beautiful.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It's the language the world is written in.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U582",
+   "section": "Story so far",
+   "text": "Vee tells Pace about her trumpet-player boyfriend.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I had a boyfriend at fifteen. A trumpet player.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U583",
+   "section": "Story so far",
+   "text": "Pace names Daphne.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Just the name, and then he let it stand there.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U584",
+   "section": "Story so far",
+   "text": "Daphne left the year she turned twenty-one.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She left the year she turned twenty-one.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U585",
+   "section": "Story so far",
+   "text": "Vee holds back a word for what Daphne did.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"she held it down under her tongue. It was not hers to say\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U586",
+   "section": "Story so far",
+   "text": "Pace started lifting at fifteen in a men's dorm.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"I was fifteen in a dormitory full of men.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U587",
+   "section": "Story so far",
+   "text": "Vee compares his lifting focus to how he is with her.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"That's how you are with me\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U588",
+   "section": "Story so far",
+   "text": "Pace declines to explain his scar tonight.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"on the thing he wasn't going to tell her about yet\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U589",
+   "section": "Story so far",
+   "text": "Vee says \"Peter.\".",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She was only saying it, once, into the warm dark\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U590",
+   "section": "Story so far",
+   "text": "Pace falls asleep first.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"he went to sleep before she did\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U591",
+   "section": "Story so far",
+   "text": "Vee's mother calls her Vivienne.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"My mother still calls me Vivienne.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U592",
+   "section": "Story so far",
+   "text": "Pace and Daphne were together two years.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"It went on two years\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U593",
+   "section": "Story so far",
+   "text": "Vee reflects that she met Randi six weeks earlier.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"Six weeks ago she had walked into a stranger outside the dining hall\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U594",
+   "section": "Story so far",
+   "text": "Vee is fortunate and happy.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She had never been so fortunate, or so happy.\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U595",
+   "section": "Story so far",
+   "text": "Vee touches Pace's inner-thigh scar.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"found the place where the skin was not like the rest, high up the inside of his thigh\"",
+   "quote_verified": true,
+   "final": "FACT"
+  },
+  {
+   "id": "U596",
+   "section": "Story so far",
+   "text": "Vee turns her hand beneath Pace's over the scar.",
+   "label": "FACT",
+   "kept": null,
+   "quote": "\"She turned her hand over under his so their palms were together over the scar\"",
+   "quote_verified": true,
+   "final": "FACT"
+  }
+ ],
+ "raw_output": "U001 FACT \"She was petite, and her face tilted up to him\"\nU002 FACT \"The blue eyes, which were her best feature\"\nU003 FACT \"He brushed a strand of black hair back behind her ear\"\nU004 FACT \"everything she had spent twenty-one years making sure was all there was to find\"\nU005 FACT \"her sorority took only girls built to the one scale\"\nU006 FACT \"Her mother lived on egg whites and tofu\"\nU007 FACT \"Nothing like the blue lacquer on the toenails\"\nU008 FACT \"He had told her, when she toured the house, that he had built the furniture.\"\nU009 FACT \"the white laminate counters plain and cheap\"\nU010 INFERENCE\nU011 FACT \"Daphne had built a door, once, and he had not respected it.\"\nU012 FACT \"Brooke was the chapter president and did not need to stand\"\nU013 FACT \"she sat on the board herself, Standards\"\nU014 FACT \"Standards rated a single — one of the few tangible perquisites\"\nU015 FACT \"Kinsey cross-legged on the rug with a bowl of cereal.\"\nU016 FACT \"Sloane on the couch with the coffee and the laptop.\"\nU017 FACT \"He's grad school, right? Pace?\"\nU018 FACT \"Like — short-cute? I feel like he's a short-cute.\"\nU019 FACT \"Tall, and built on a lavish scale\"\nU020 FACT \"a warm dark red that sparked to copper wherever the wind lifted it\"\nU021 FACT \"cinnamon freckles thrown across it and the tops of her cheeks\"\nU022 FACT \"laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen\"\nU023 FACT \"coming out of the dining hall with Meg from her floor\"\nU024 FACT \"her ball cap pulled out of the side pocket and set on her head\"\nU025 FACT \"a person who had a lab at noon\"\nU026 FACT \"Cassie says about four words a day\"\nU027 FACT \"she'd sooner put her boxy frame in a t-shirt and cut-offs\"\nU028 FACT \"she had her own room, and said it like it was nothing\"\nU029 FACT \"Randi had something in her mouth that wasn't from anywhere near here\"\nU030 FACT \"it's the yellow one on Draper\"\nU031 FACT \"People call me Vee.\"\nU032 FACT \"People call me Vee.\"\nU033 FACT \"light brown hair cut short and easy\"\nU034 FACT \"two years of econ had gotten her through calculus\"\nU035 FACT \"Did I just warn a math PhD that my calculus was hard?\"\nU036 FACT \"He asked her things the way her grandfather used to ask things, as though the answer mattered\"\nU037 FACT \"the one she'd worn at sixteen, for synchronized swimming\"\nU038 FACT \"when there'd been less of her to fill it. There was more of her now.\"\nU039 FACT \"she'd sooner put her boxy frame in a t-shirt and cut-offs\"\nU040 FACT \"Cassie waded to the middle of her ribs and stopped\"\nU041 FACT \"at the corner where she turned off for Vawter\"\nU042 FACT \"and she knew him — something in her eased at who'd walked in\"\nU043 FACT \"a broadcloth shirt, clean and pressed and easy on him, the good boots worn but polished\"\nU044 FACT \"always the right, never the other\"\nU045 FACT \"He lives out west of town, off six-fourteen, past where it goes to gravel.\"\nU046 FACT \"She's got practice.\"\nU047 FACT \"You've never hiked in your life.\"\nU048 FACT \"Gardenia and musk. On her throat, and lower.\"\nU049 FACT \"Meg was the calm one, dark-haired and level\"\nU050 FACT \"She was round-faced and blonde, a head of curls\"\nU051 FACT \"Theo asked you to the fall thing.\"\nU052 FACT \"Everybody's different at the start. I said it about Danny.\"\nU053 FACT \"It was small. Older than she'd built it in her head — post-war\"\nU054 FACT \"Mine does that part faster. Finds the picture in the noise\"\nU055 FACT \"I couldn't find a shirt I liked, so I made one\"\nU056 FACT \"a run of fantasy paperbacks, spines cracked white from opening\"\nU057 FACT \"a green so dark it read as black until the sun moved on it\"\nU058 FACT \"She thought of the Corolla, the cloth seats she kept clean\"\nU059 FACT \"white gold, plain and heavy, no stone\"\nU060 FACT \"My real name is Peter\"\nU061 FACT \"Ohio. Casseroles. One brother. Nurse mother.\"\nU062 FACT \"My mother's a nurse.\"\nU063 FACT \"My dad works on jet engines for a major airline.\"\nU064 FACT \"My dad calls me Vee.\"\nU065 FACT \"One. A brother. Three years up.\"\nU066 FACT \"He's in the Army. Not married.\"\nU067 FACT \"I'm twenty-one and a junior.\"\nU068 FACT \"My mother stays home\"\nU069 FACT \"My father works in a chemical plant.\"\nU070 FACT \"In seventh grade I taught myself trigonometry\"\nU071 FACT \"When I got there, they assigned me someone. A tutor.\"\nU072 FACT \"an older student, to help the child find his feet\"\nU073 FACT \"I was fifteen in a dormitory full of men.\"\nU074 FACT \"My real name is Peter\"\nU075 FACT \"Would you like to taste another woman?\"\nU076 FACT \"She had asked for something different with her eyes on the table.\"\nU077 FACT \"The question reached her body before it reached her, and it took her all at once — she came, hard\"\nU078 FACT \"The word came out alone, with nothing around it\"\nU079 FACT \"asking whether she liked frozen yogurt\"\nU080 FACT \"I'm Pace,\\\" he said.\"\nU081 FACT \"and closed the distance he'd already given up\"\nU082 FACT \"He wasn't going to take it any further than she had.\"\nU083 FACT \"Then her hands went to the top button of her shirt.\"\nU084 FACT \"She had never left after. Not once, since the first night\"\nU085 FACT \"he hadn't matched the dress she'd described\"\nU086 FACT \"had not, once, been found wanting\"\nU087 FACT \"He took them. Something in his shoulders was private\"\nU088 TRIM {Vee gives Pace her green panties} \"She kissed him, briefly, and held the folded panties out toward him.\"\nU089 FACT \"the shame ran the whole length of it and never closed her\"\nU090 FACT \"Vee had half-expected it this time, and met it\"\nU091 FACT \"Vee.\" She set the fork down. \"How long are you going to take?\"\nU092 FACT \"He did not know what he had done.\"\nU093 FACT \"the dress had been finished at some hour with no business being awake in it\"\nU094 FACT \"He'd hung it from the lip of the window frame\"\nU095 FACT \"and then, arms and leg, she closed the last of the distance herself and took him in\"\nU096 FACT \"She got past me before I could help it.\"\nU097 FACT \"My real name is Peter\"\nU098 FACT \"When I got there, they assigned me someone. A tutor.\"\nU099 FACT \"on the thing he wasn't going to tell her about yet\"\nU100 FACT \"He thought that this had been a remarkably good evening.\"\nU101 FACT \"a man whose last name her own sorority sisters did not know\"\nU102 FACT \"There's the place on Wilson that stays open.\"\nU103 FACT \"it had genuinely not been clear, one of those collisions where both people apologize\"\nU104 FACT \"She gave him her name as a single bare word and waited.\"\nU105 FACT \"and did not hand it over. It was hers.\"\nU106 FACT \"He did not say how he knew. That she had given him herself, in the truck\"\nU107 FACT \"the thing she had never told a single soul, not Cassie, not anyone\"\nU108 INFERENCE\nU109 FACT \"What she kept was the middle.\"\nU110 FACT \"She didn't say any of it.\"\nU111 FACT \"He did not ask what Vee had said. That was Vee's.\"\nU112 FACT \"that she did not have the next part, the paying-it-back part\"\nU113 FACT \"She had stumbled into her.\"\nU114 FACT \"She had complained about math to her own table\"\nU115 FACT \"he lifted the top off a table, revealing the bench it hid\"\nU116 FACT \"He had sliced it thin because she would eat thin slices\"\nU117 FACT \"she always locked it behind her, first thing, before anything else\"\nU118 FACT \"Steely Dan was going low under it all\"\nU119 FACT \"set the sharp inner edge of the cap under her thumbnail and pressed\"\nU120 FACT \"when the girls had asked why she had agreed to go on a date with him\"\nU121 FACT \"she had slowed at the long table with its top back on\"\nU122 FACT \"He had no name for the game yet\"\nU123 FACT \"the word arriving whole and in her mother's voice\"\nU124 FACT \"a warm wave of her came with it, citrus, not sweet\"\nU125 FACT \"He had not poured himself one.\"\nU126 FACT \"The deadbolt went over before he had got up off the couch.\"\nU127 FACT \"she came down and kissed him with it still in her mouth\"\nU128 FACT \"But I'd love to see you sometime. May I call you?\"\nU129 FACT \"Randi said, and held her a second by the arms, the whole lit face on her\"\nU130 FACT \"It smelled of soap and of a man and of the inside of a gym bag\"\nU131 FACT \"His shirt was bright blue.\"\nU132 FACT \"I kept the shirt. I didn't ask. He didn't ask for it back.\"\nU133 FACT \"Blondie was going low in the front rooms\"\nU134 FACT \"her belly had gone tight as a board with the work of it\"\nU135 FACT \"She'd had the shirt, folded on her pillow at this exact hour.\"\nU136 FACT \"The house was warm. Too warm\"\nU137 FACT \"The whole house cranked up so a woman could stand half-bare in it and not be cold.\"\nU138 FACT \"stopped the car in the fire lane like fire lanes were a thing that happened to other people\"\nU139 FACT \"did the thing she did, which was to read the right side first\"\nU140 FACT \"He left me a door.\"\nU141 FACT \"It was gentle. It was kind. It was a door closing softly.\"\nU142 FACT \"a second press that had something in it the first one hadn't\"\nU143 TRIM {Vee trades her panties} \"She kissed him, briefly, and held the folded panties out toward him.\"\nU144 FACT \"her mother's word exactly, and the loop ran\"\nU145 FACT \"Fleetwood Mac was going low somewhere back in the house\"\nU146 FACT \"A Chianti Classico open on the counter, already breathing.\"\nU147 FACT \"She lifted it out clean as she went\"\nU148 FACT \"the esses running long, the a's lifting, more of whatever it was than there had been\"\nU149 FACT \"Hers was the small one, the one he sliced her apples into.\"\nU150 FACT \"She set the rim of the glass in under her thumbnail and pressed.\"\nU151 TRIM {Violator plays} \"a dark voice over machines, every sound in it polished\"\nU152 FACT \"the white-gold band at her wrist\"\nU153 FACT \"and the bowl in front of her did not move\"\nU154 FACT \"The plum on her toes against all that skin.\"\nU155 FACT \"Her fingers found the white-gold bracelet she always wore.\"\nU156 FACT \"the blue on her toes the last composed thing left of her\"\nU157 FACT \"Sade, smooth and slow, that cool voice with the warmth folded under it\"\nU158 TRIM {eats a complete plate prepared by Pace} \"When she set it down, there was nothing left on it.\"\nU159 FACT \"She was only saying it, once, into the warm dark\"\nU160 FACT \"CHAPTER 1: The Bench\"\nU161 FACT \"In the bathroom, Randi stood at the sink and looked at her face in the mirror.\"\nU162 FACT \"he lifted the top off a table, revealing the bench it hid\"\nU163 FACT \"I left right after chapter dinner, Pace.\"\nU164 FACT \"The apple was a honeycrisp.\"\nU165 FACT \"She ate several slices like that. Bite, kiss, bite.\"\nU166 FACT \"She walked three steps into the bedroom and stopped.\"\nU167 FACT \"He reached up and took off her cardigan first\"\nU168 FACT \"The word came out small. The word came out hers.\"\nU169 FACT \"He did not begin the edging until her ass was beautifully red\"\nU170 FACT \"Please. Please, Pace. Please.\"\nU171 FACT \"He put his fingers between her legs and stroked her as he had been, and this time he did not stop.\"\nU172 FACT \"She was crying quietly with her face turned sideways against the head pad\"\nU173 FACT \"She flinched. Involuntary, the kind of flinch a body makes\"\nU174 FACT \"he heard the small click of the lock turning over\"\nU175 FACT \"The one he had found was going back behind it, and she was not coming out again.\"\nU176 FACT \"the cashmere one she had brought after the second week\"\nU177 FACT \"she said, against his neck.\"\nU178 FACT \"with the blanket around her shoulders and the smile arranged on her face\"\nU179 FACT \"Hands on the grips. Get the position. I'll adjust you.\"\nU180 FACT \"she sat on the board herself, Standards\"\nU181 FACT \"Randi closed it behind her quietly, which was already wrong.\"\nU182 FACT \"in last night's clothes, on a Saturday\"\nU183 FACT \"Sloane on the couch with the coffee and the laptop.\"\nU184 FACT \"There's the place on Wilson that stays open.\"\nU185 FACT \"That's actually his name? Like he goes by Pace?\"\nU186 FACT \"is that the white pickup I keep seeing parked behind Hahn?\"\nU187 FACT \"it's a different course. He's not anywhere near mine\"\nU188 FACT \"The conversation was over because Brooke had decided it was over.\"\nU189 FACT \"She lay down on her bed on her back, in last night's clothes, with her shoes still on.\"\nU190 FACT \"She lay under the duvet and looked at the ceiling and did not cry.\"\nU191 FACT \"I was going to ask about it last night and you'd already left.\"\nU192 FACT \"The room was hers alone.\"\nU193 FACT \"CHAPTER 3: The Pointing Game\"\nU194 FACT \"He knew the difference between a woman performing release and a woman delivered to it.\"\nU195 FACT \"Do you actually want to taste another woman?\"\nU196 FACT \"she said against his throat, smiling, all silk\"\nU197 FACT \"Let's go for a walk on campus\"\nU198 FACT \"Pace leaned in close, his mouth at the shell of her ear\"\nU199 FACT \"I point. You pick.\"\nU200 FACT \"Those two go everywhere together. You'd get both or neither.\"\nU201 FACT \"She came out of the dining hall and drew the eye\"\nU202 FACT \"Pace said, and pointed.\"\nU203 FACT \"the bare arrival of a thing already true before she got to it\"\nU204 FACT \"Her eyes came open. \"For us?\"\"\nU205 FACT \"He found a light pole at a comfortable angle to the lawn\"\nU206 FACT \"Randi giving half a head and enough weight that the accident appeared entirely to happen to her\"\nU207 FACT \"It was the redhead who pulled up short, stricken, apologizing\"\nU208 FACT \"Her name is Vee.\"\nU209 FACT \"And we've got a stats class together.\"\nU210 FACT \"Do you think she'll like the bench?\"\nU211 FACT \"she had slowed at the long table with its top back on\"\nU212 FACT \"She came the first time with his mouth on her\"\nU213 FACT \"A girl on the library steps with a friend\"\nU214 FACT \"a blazer and a white-blond blowout in loose curls\"\nU215 FACT \"CHAPTER 4: See You Later\"\nU216 FACT \"Vee got there early, as she always did\"\nU217 FACT \"with Cassie beside her unpacking a granola bar\"\nU218 FACT \"She had met Randi yesterday.\"\nU219 FACT \"You keep looking at the door\"\nU220 FACT \"But it was Vee she kept coming back to, Vee she'd picked the seat beside.\"\nU221 FACT \"She had come in the back, which Vee had not thought to watch\"\nU222 FACT \"Hi — I'm Randi. Yes, like the adjective.\"\nU223 FACT \"she just put her name down flat in the space, one word\"\nU224 FACT \"Come to Chi Latte with me. Both of you.\"\nU225 FACT \"just a person declining a thing that wasn't hers\"\nU226 FACT \"the whole word, flat and finished, the word for a longer parting than a Wednesday\"\nU227 FACT \"walking up under it with Randi\"\nU228 FACT \"Randi had ordered her an oat-milk latte\"\nU229 FACT \"she was a girl at the high table at Chi Latte\"\nU230 FACT \"the feeling was total and the transcript was blank\"\nU231 FACT \"See you later, okay?\"\nU232 FACT \"This was the best. *Love you, girl.*\"\nU233 FACT \"Randi pulled her into a hug — quick, warm, complete\"\nU234 FACT \"turn the thing in front of you into a thing you already knew how to do\"\nU235 FACT \"She had been stuck on the problem for forty minutes\"\nU236 FACT \"Cassie sat with her own work spread out in her quiet manner, headphones in\"\nU237 FACT \"Randi was texting — thumbs quick, eyes down\"\nU238 FACT \"That cute guy in line is looking at you.\"\nU239 FACT \"It sounds like you're having trouble with math. Can I help?\"\nU240 FACT \"She had watched Randi do it the day they'd met\"\nU241 FACT \"The thing she had learned years ago and set aside as a curiosity\"\nU242 FACT \"It accounts for the fact that you've estimated the mean from the data\"\nU243 FACT \"She talked for what was probably four or five minutes about a research project\"\nU244 FACT \"But I'd love to see you sometime. May I call you?\"\nU245 FACT \"He typed it into his phone, repeated it back to her once to confirm\"\nU246 FACT \"walked out of a coffee shop empty-handed\"\nU247 FACT \"asking whether she liked frozen yogurt\"\nU248 FACT \"standing under the neon in a too-bright shop\"\nU249 FACT \"He weighed his own cup and paid for both before she'd found her wallet\"\nU250 FACT \"This is the nicest a person has been to me in a really long time.\"\nU251 FACT \"You should go out with him.\"\nU252 FACT \"He set the pencil back in her hand.\"\nU253 FACT \"It's just the challenge problem — nobody has to do it.\"\nU254 FACT \"the tannin catching at the inside of his lips\"\nU255 FACT \"he knew the sound of it now as he knew his own name\"\nU256 FACT \"There was no hello in it.\"\nU257 FACT \"one glass on the low table, red, poured and left to open\"\nU258 FACT \"She put a knee to either side of his thighs and settled\"\nU259 FACT \"she said again, against his mouth\"\nU260 FACT \"like nobody had ever told her when to stop\"\nU261 FACT \"I made her laugh.\"\nU262 FACT \"She's easy to listen to.\"\nU263 FACT \"Randi went quiet under his hands.\"\nU264 FACT \"Randi said, and it came out easy and bright\"\nU265 FACT \"finished the glass in one long swallow\"\nU266 INFERENCE\nU267 FACT \"She drank, and looked at him over the rim while she did, and then she came down and kissed him\"\nU268 FACT \"CHAPTER 7: Water Wings\"\nU269 FACT \"Vee stood on the wet tile in the old smell of chlorine\"\nU270 FACT \"The rec pool made you wear a real suit\"\nU271 FACT \"the bleachers breaking up behind it\"\nU272 FACT \"Cassie said it low, just for the two of them, still walking.\"\nU273 FACT \"took the breath she'd taken ten thousand times, and went under\"\nU274 FACT \"sink her cupped hands to the wrists and drive them forward, fast\"\nU275 FACT \"Saturday, he'd said — would she have dinner with him.\"\nU276 FACT \"Who asked a girl out and then told her not to answer?\"\nU277 FACT \"At the crosswalk she took her phone out and opened the thread\"\nU278 FACT \"CHAPTER 8: May I Choose\"\nU279 FACT \"She sent it Friday evening\"\nU280 FACT \"What she sent was the shortest one.\"\nU281 FACT \"His came back before she'd set the phone down.\"\nU282 FACT \"That's not a boy,\" she said. \"That's a man.\"\nU283 FACT \"I'll meet you in your lobby at seven.\"\nU284 FACT \"The place was close enough to walk to\"\nU285 FACT \"the relief of handing the choice across the table went through her\"\nU286 FACT \"He wrote six hours a day and then stopped\"\nU287 FACT \"I'm a powerlifter. I compete.\"\nU288 FACT \"The smell reached her first — mint, sharp and green and clean\"\nU289 FACT \"It should have been nothing, and it wasn't. It was the first time.\"\nU290 FACT \"I don't kiss a man I've known a couple of days\"\nU291 FACT \"I'm making an exception.\"\nU292 FACT \"She wasn't watching herself eat, as some part of her almost always was\"\nU293 FACT \"started them gently back along the path, her hand drawn along with his\"\nU294 FACT \"He didn't argue.\"\nU295 FACT \"a few inches on it pulled taut between them and stopped him\"\nU296 FACT \"under it he slowed, and stopped, and turned to her\"\nU297 FACT \"This time he met her all the way.\"\nU298 TRIM {Pace asks \"May I choose?\" and orders for Vee} \"he ordered, unhurried, deliberate, building it as he went\"\nU299 FACT \"Vee's my dear friend\"\nU300 FACT \"She was already talking.\"\nU301 FACT \"she spun, once, quick, arms going up\"\nU302 FACT \"He was already walking away and I pulled him back and I did it.\"\nU303 FACT \"And he asked me hiking.\"\nU304 FACT \"Six days later, the professor took them up to the edge\"\nU305 FACT \"The Smoothie Bird sat on its corner\"\nU306 FACT \"My love life is a disaster.\"\nU307 FACT \"and then he said, 'May I choose?'\"\nU308 FACT \"Two days I'd known him.\"\nU309 FACT \"Sunday. There's a trail he goes to.\"\nU310 FACT \"Hair down, no bra, let your mountain man ravish you against a tree.\"\nU311 FACT \"Before he ravished me.\"\nU312 FACT \"Two of them, threading between the tables.\"\nU313 FACT \"Vee's my dear friend\"\nU314 FACT \"she held it there on the white top in plain view of the two of them\"\nU315 FACT \"CHAPTER 10: Leave No Trace\"\nU316 FACT \"She had said yes to this walking back from the dinner\"\nU317 FACT \"Meg's boots, a half-size big, stiff at the ankle\"\nU318 FACT \"cut a square of moleskin, pressed it to her heel with his thumb\"\nU319 FACT \"The summit was a shelf of black rock\"\nU320 FACT \"Made them this morning\"\nU321 FACT \"It's the horseradish. It does that.\"\nU322 FACT \"We take nothing and leave nothing\"\nU323 FACT \"She told him about the induction.\"\nU324 FACT \"In a magazine. The one they leave out in the lobby. It was silk.\"\nU325 FACT \"I can't afford it. Obviously.\"\nU326 FACT \"That sounds like a beautiful dress.\"\nU327 FACT \"It came down hard.\"\nU328 FACT \"His only dry shirt.\"\nU329 FACT \"He opened his door and got out.\"\nU330 FACT \"She lifted a hand off the bench and crooked a finger at him.\"\nU331 FACT \"Then her hands went to the top button of her shirt.\"\nU332 FACT \"He didn't lean in. He didn't lift a hand.\"\nU333 FACT \"He was shivering. He'd been shivering.\"\nU334 FACT \"the fire lane, the red-painted curb\"\nU335 FACT \"The campus cop, pulled up behind, lights going.\"\nU336 FACT \"So Vee told her: the boots that didn't fit, the blister\"\nU337 FACT \"He worked the heel free and slid it off\"\nU338 FACT \"I'm keeping the shirt.\" \"Keep the shirt.\"\nU339 FACT \"CHAPTER 11: Swim Lanes\"\nU340 FACT \"He had driven home in the wet shirt with the heater on high\"\nU341 FACT \"Her text was on his phone when he got out\"\nU342 FACT \"saw the chair by the door with nothing on it\"\nU343 FACT \"He knew what she was asking for, and it was not the trail\"\nU344 FACT \"Her hair smells shampoo-clean, and subtly, underneath it, a hint of chlorine.\"\nU345 FACT \"Gardenia and musk. On her throat, and lower.\"\nU346 FACT \"Her stomach is soft.\"\nU347 FACT \"she said, at his ear, torn out of her\"\nU348 FACT \"Bright, from inside the camisole going over her head.\"\nU349 FACT \"turned the deadbolt back and let herself out\"\nU350 FACT \"He ate at the table. He was still hungry after and made more.\"\nU351 FACT \"she got him through the bedroom door with her mouth still on his\"\nU352 FACT \"she came up over him, a knee to either side of his hips\"\nU353 FACT \"She had never left after. Not once, since the first night\"\nU354 FACT \"He had driven home in the wet shirt with the heater on high\"\nU355 FACT \"CHAPTER 12: What to Wear\"\nU356 FACT \"Vee sat between them, laughing with her whole body\"\nU357 FACT \"Meg was working through a plate of something with too much cheese\"\nU358 FACT \"Across the room Theo lifted a hand at her\"\nU359 FACT \"He lifts in the morning, first thing, before anything.\"\nU360 FACT \"It started raining on the way down\"\nU361 FACT \"Twelve days. Walking home from dinner.\"\nU362 FACT \"He's asking me to his house.\"\nU363 FACT \"would you come to my house Saturday. Two o'clock.\"\nU364 FACT \"We're doing hair Saturday. I'm coming to your room.\"\nU365 FACT \"He asks me first. The small things.\"\nU366 FACT \"Two in the afternoon is not dinner.\"\nU367 FACT \"Bring a change of clothes.\"\nU368 FACT \"Stands there with his back to the truck, soaking to the skin\"\nU369 FACT \"CHAPTER 13: Two Towels\"\nU370 FACT \"she drove straight past the driveway and had to come back for it\"\nU371 FACT \"twenty minutes past the edge of town the pavement gave out\"\nU372 FACT \"and then she leaned in and kissed him\"\nU373 FACT \"And then he was the one who stopped it.\"\nU374 FACT \"I want to see where you live.\"\nU375 FACT \"She picked up a page.\"\nU376 FACT \"At the end of the hall a door was shut, the only closed door in the house.\"\nU377 FACT \"a bathroom, plain, clean, two towels on the rod\"\nU378 FACT \"all of it in a pale white oak she could name on sight\"\nU379 FACT \"How to send a message so it survives getting chewed up on the way out.\"\nU380 FACT \"to the reason a house this size had a two-car garage\"\nU381 FACT \"A bolt of cloth was on the long table\"\nU382 FACT \"You made the shirt\"\nU383 FACT \"I'd like to make it for you\"\nU384 FACT \"Yes — of course, yes.\"\nU385 FACT \"I license a patent. It pays a little.\"\nU386 FACT \"CHAPTER 14: A Round\"\nU387 FACT \"She said okay, or thought she did. And then she stood there.\"\nU388 FACT \"She stood there in her bra and her panties\"\nU389 FACT \"It changes the line. It'll lie to me.\"\nU390 FACT \"unhooked the bra, and brought the straps forward down her arms\"\nU391 FACT \"of course there was a riser in the corner of a woodworker's house, of course he'd built it\"\nU392 FACT \"Rose. Stepped back. Wrote it down.\"\nU393 FACT \"He set two fingers at the base of her throat to anchor the tape\"\nU394 FACT \"Around the waist. He knelt in front of her\"\nU395 FACT \"Across the bustline. He stayed standing for this one\"\nU396 FACT \"I was worried I was going to have to come over here pre-aroused every time I wore it.\"\nU397 FACT \"I've never thought about it.\"\nU398 FACT \"He put a mug of tea in her hands\"\nU399 FACT \"He laid the burgundy out on the long table and weighted it and went at it with shears\"\nU400 FACT \"It was big and dark and stupid.\"\nU401 FACT \"he began to build the dress on her\"\nU402 FACT \"On her ass. Both of them, flat and warm\"\nU403 FACT \"She screwed her eyes shut and turned her face away\"\nU404 FACT \"Smiling at her, the smile of a man who had just received an unexpected gift.\"\nU405 FACT \"up onto her toes, half an inch, an inch\"\nU406 FACT \"So the third time she did it on purpose.\"\nU407 FACT \"He went red.\"\nU408 FACT \"A bright small sting at the side of her ribs\"\nU409 FACT \"He bent and kissed it.\"\nU410 FACT \"It came out low. It came out a beat too late\"\nU411 FACT \"She stood very still and let him work.\"\nU412 FACT \"CHAPTER 15: How It's Done\"\nU413 FACT \"Cassie was on her bed with a textbook and a highlighter when Vee came in\"\nU414 FACT \"For the honor society induction. A dress.\"\nU415 FACT \"You've been sleeping in that shirt all week\"\nU416 FACT \"Did he make that too?\"\nU417 FACT \"He turned the heat up before I got there. So I wouldn't be cold.\"\nU418 FACT \"Are you sure he's not gay?\"\nU419 FACT \"A little. When he was back there. I leaned\"\nU420 FACT \"the Mercedes was at the curb when Vee came down\"\nU421 FACT \"The place was off Prices Fork\"\nU422 FACT \"And a glass of the Rombauer.\"\nU423 FACT \"And water's great, thanks.\"\nU424 FACT \"Tied to a man's headboard with a Hermès scarf.\"\nU425 FACT \"and it turns out that's the only time some of us ever put them down\"\nU426 FACT \"And he had me take my top off. For the fit.\"\nU427 FACT \"her thumb had found the rim of her water glass and set the edge of it in under the nail\"\nU428 FACT \"It was cold in the house.\"\nU429 FACT \"I bet he started at your hip. Didn't he.\"\nU430 FACT \"You don't have to tell me.\"\nU431 FACT \"Vee laid the debit card on her own folder\"\nU432 FACT \"and kissed her on the mouth\"\nU433 FACT \"She turned and looked at the courtyard\"\nU434 FACT \"It's a French thing, she does the kiss-kiss\"\nU435 FACT \"So off it comes, and now I'm\"\nU436 FACT \"It was like his eyes asked\"\nU437 FACT \"and heard it a beat after he did\"\nU438 FACT \"By Tuesday she had started to wonder.\"\nU439 FACT \"the morning he flew to Chicago, the text came\"\nU440 FACT \"satin with a fine dark lace at the edges\"\nU441 FACT \"a frosted plum she chose without thinking too hard about why\"\nU442 FACT \"She left the toenails for Friday.\"\nU443 FACT \"the soft cream blouse that buttoned up the front and the black skirt\"\nU444 FACT \"He opened the door in a canvas apron over a dark henley\"\nU445 FACT \"She kissed him before he could answer\"\nU446 FACT \"Will you show me your bedroom?\"\nU447 FACT \"He opened her blouse from the bottom and pushed it from her shoulders.\"\nU448 FACT \"Would you be bothered if I was too hard?\"\nU449 FACT \"It broke over her standing up.\"\nU450 FACT \"a scar, large, high on the inside of his thigh\"\nU451 FACT \"for Pace, for their first time\"\nU452 FACT \"He built the fra diavolo from where he'd stopped\"\nU453 FACT \"wound the top sheet around herself instead\"\nU454 FACT \"She kissed him, briefly, and held the folded panties out toward him.\"\nU455 FACT \"the crystal strings came with it, obvious and excessive\"\nU456 FACT \"She broke around him with her mouth open against his shoulder\"\nU457 FACT \"CHAPTER 17: Fed\"\nU458 FACT \"Cassie was on the bottom bunk with her knees up\"\nU459 FACT \"because Vee was grinning and the grin was the entire story\"\nU460 FACT \"What she kept was the middle.\"\nU461 FACT \"Nothing under the skirt. She had given them away.\"\nU462 FACT \"I've got a game.\"\nU463 FACT \"the Chianti he'd opened before she came so it would be ready when she was\"\nU464 FACT \"Sunday's bistro had a sun porch along its south side\"\nU465 FACT \"Vee closed her menu and said she'd have the same\"\nU466 FACT \"I ran into an old boyfriend on campus.\"\nU467 FACT \"so I took the top sheet off the bed and wrapped up in it\"\nU468 FACT \"He wasn't in a hurry\"\nU469 FACT \"It's beautiful. What's it called?\"\nU470 FACT \"You went to a store and bought new underwear for this man.\"\nU471 FACT \"And I took it. For once.\"\nU472 FACT \"Vee had half-expected it this time, and met it\"\nU473 FACT \"she didn't look down the street for who might have seen them\"\nU474 FACT \"the second one she did not price at all\"\nU475 FACT \"Was he worth painting your toenails?\"\nU476 FACT \"CHAPTER 18: Portion\"\nU477 FACT \"He had set out two bowls.\"\nU478 FACT \"Chicken and potatoes in a white sauce\"\nU479 FACT \"in his kitchen she had never once told him a thing was wonderful\"\nU480 FACT \"She told me about Friday.\"\nU481 FACT \"He was glad all the way down.\"\nU482 FACT \"How long are you going to take?\"\nU483 FACT \"As long as she needs.\"\nU484 FACT \"She chooses it, Randi. Every step of it.\"\nU485 FACT \"poured her own glass, a full one\"\nU486 FACT \"She ate the salad. All of it\"\nU487 FACT \"She rode him hard and fast with her eyes shut\"\nU488 FACT \"lay on her side with her back to him\"\nU489 FACT \"He covered the bowl with a plate and put it in the refrigerator, for her\"\nU490 FACT \"he lay under her with his hands on her hips and waited for it and it did not come\"\nU491 FACT \"He had poured every glass she had drunk in this house.\"\nU492 FACT \"It's selfish, Pace.\"\nU493 FACT \"She drew the spoon through the sauce, not down into the bowl, along the top of it\"\nU494 FACT \"He covered the bowl with a plate and put it in the refrigerator, for her\"\nU495 FACT \"CHAPTER 19: Peekaboo\"\nU496 FACT \"She'd dressed to be lovely and soft to touch\"\nU497 FACT \"the dark dress, the long-sleeved one, feminine and easy\"\nU498 FACT \"drew her the other way, through the den and into the sun porch\"\nU499 FACT \"He'd hung it from the lip of the window frame\"\nU500 FACT \"newly hung, the screw heads still bright\"\nU501 FACT \"She hadn't decided to cry and she was crying\"\nU502 FACT \"then the bra, because she'd known since the fitting he'd built this to be worn bare\"\nU503 FACT \"He'd lined it, there and nowhere else\"\nU504 FACT \"And the slit came open all the way up. To the hip.\"\nU505 FACT \"She hooked her thumbs in the waistband and slid the underwear down her legs\"\nU506 FACT \"she strode, the slit swinging open on her bare leg\"\nU507 FACT \"and then, arms and leg, she closed the last of the distance herself and took him in\"\nU508 FACT \"There was no putting her down: the skirt hung exactly where the mess would be\"\nU509 FACT \"cleaning her own slickness off her fingers with his eyes on hers\"\nU510 FACT \"hung in the window it had come from\"\nU511 FACT \"Then he walked. Every step of the hall moved him in her\"\nU512 FACT \"She got her feet up between them instead, flat on his chest\"\nU513 FACT \"Pace was asleep.\"\nU514 FACT \"she put the dress on, in her head, and walked into the induction\"\nU515 FACT \"a careful peck, a question\"\nU516 FACT \"She turned to the mirror.\"\nU517 TRIM {Pace removes the dress} \"the dress up and off over her raised arms\"\nU518 FACT \"when she went over his eyes were open and on her, and he was a breath behind her\"\nU519 FACT \"a sorority habit, four years of never being the one they waited on\"\nU520 FACT \"She had been late to everything all morning\"\nU521 FACT \"Eight was when she'd left Pace's\"\nU522 FACT \"She was late to her nine and barely made her ten\"\nU523 FACT \"Your bed's made\"\nU524 FACT \"Simpson's paradox\"\nU525 FACT \"She had not looked at the professor once.\"\nU526 FACT \"Was it a good night?\"\nU527 FACT \"I don't have shoes\"\nU528 FACT \"You and me, Saturday.\"\nU529 FACT \"It was Randi who said she'd walk her back\"\nU530 FACT \"She came out of the bathroom in it\"\nU531 FACT \"not to Vee; to herself, or to the dress\"\nU532 FACT \"He was up all night finishing it\"\nU533 FACT \"It comes with us. We match the real thing or we don't bother.\"\nU534 FACT \"the big bright store off the bypass\"\nU535 FACT \"Do yetis shop here?\"\nU536 FACT \"six-inch platforms bedazzled toe to ankle in pink rhinestones\"\nU537 FACT \"It's the sensible one.\"\nU538 FACT \"Same feet, baby. Same size, same everything.\"\nU539 FACT \"It was not a store Vee would ever have walked into on her own.\"\nU540 FACT \"went down onto one knee in front of the bench\"\nU541 FACT \"A thumb moved once across the nail of the big toe\"\nU542 FACT \"the credit card she kept for emergencies and gas\"\nU543 FACT \"the number that rang up was a multiple of Vee's\"\nU544 FACT \"She told them it was finished\"\nU545 FACT \"You lucky slut.\"\nU546 FACT \"He made it *to* you.\"\nU547 FACT \"He made it *to* you.\"\nU548 FACT \"they had a bench between them stacked with nos\"\nU549 FACT \"and Randi never once looked at it\"\nU550 FACT \"CHAPTER 21: Gone\"\nU551 FACT \"He had one hand in her hair and the other flat on the small of her back\"\nU552 FACT \"Tonight, she had stayed down.\"\nU553 FACT \"Best time I've had in a store in years.\"\nU554 FACT \"That was kind of hot.\"\nU555 FACT \"I keep waiting to get bored of her\"\nU556 FACT \"And she talks about you. The whole hour.\"\nU557 FACT \"Somebody taught her to be ashamed of her body.\"\nU558 FACT \"She comes in and the whole thing goes brighter.\"\nU559 FACT \"he used the hold to bring her back down the length of him\"\nU560 FACT \"Will you make me something?\"\nU561 FACT \"took out one of his white undershirts\"\nU562 FACT \"He put the kettle on and took two boneless chicken breasts from the refrigerator.\"\nU563 FACT \"There had been a disagreement over flowers\"\nU564 FACT \"How did your presentation in Chicago go?\"\nU565 FACT \"Will you pour me a little more?\"\nU566 FACT \"When she set it down, there was nothing left on it.\"\nU567 FACT \"He held her until she slept.\"\nU568 FACT \"My grandsupervisor was there.\"\nU569 FACT \"I like taking my time with her\"\nU570 FACT \"And the dress is not bad.\"\nU571 FACT \"She's extraordinary. How she looks. Who she is.\"\nU572 FACT \"Is there anything to eat in this house?\"\nU573 FACT \"That was lovely,\" she said.\nU574 FACT \"CHAPTER 22: Rock\"\nU575 FACT \"She had her feet tucked under his thigh.\"\nU576 FACT \"the quilt over the two of them and the fire at their backs\"\nU577 FACT \"Meat in gravy. Potatoes under gravy.\"\nU578 FACT \"My real name is Peter\"\nU579 FACT \"I took the SAT for a summer program when I was fourteen.\"\nU580 FACT \"So she moved my desk into the hall during math class\"\nU581 FACT \"It's the language the world is written in.\"\nU582 FACT \"I had a boyfriend at fifteen. A trumpet player.\"\nU583 FACT \"Just the name, and then he let it stand there.\"\nU584 FACT \"She left the year she turned twenty-one.\"\nU585 FACT \"she held it down under her tongue. It was not hers to say\"\nU586 FACT \"I was fifteen in a dormitory full of men.\"\nU587 FACT \"That's how you are with me\"\nU588 FACT \"on the thing he wasn't going to tell her about yet\"\nU589 FACT \"She was only saying it, once, into the warm dark\"\nU590 FACT \"he went to sleep before she did\"\nU591 FACT \"My mother still calls me Vivienne.\"\nU592 FACT \"It went on two years\"\nU593 FACT \"Six weeks ago she had walked into a stranger outside the dining hall\"\nU594 FACT \"She had never been so fortunate, or so happy.\"\nU595 FACT \"found the place where the skin was not like the rest, high up the inside of his thigh\"\nU596 FACT \"She turned her hand over under his so their palms were together over the scar\"\n"
+}
