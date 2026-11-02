@@ -1427,3 +1427,15 @@ and (3) it is in plain knowledge form — "X (and Y) does not know / knows / kne
 check keeps readings out: "Randi will never know", "Retellings drift", "The reader suspects…"
 do not match. UNSUPPORTED and CONTRADICTED are never kept. Single-model checkpoints stay
 strict (no slot support exists there).
+
+**Through Volume One, and four fixes (2026-11-01).** ck-ch010/020/022 built. Fixes after the
+first ch22 build lost "Trade" (three slots wrote it): quotes verify on words, not punctuation;
+a compound claim may back several groups; matching runs chapter by chapter (opus, free);
+a slot that ignores the format (glm at ch20: 2 of 239 lines verified) fails and falls back;
+slot caches are per model. Admitted at ch22 rose 378 → ~550; against opus's single ck-ch022
+only the deadbolt went missing among 25 marker terms. **Detail quotes (author ruling):** the
+shortest member's wording flattened Randi's ch1 bottle cap to "a sharp edge under her
+thumbnail"; MOTIF, WHO and REL facts now carry the most detailed member's verified quote on a
+`  > "…"` line beneath them (the page, never a reading; the audit treats it as structure and
+drops it with its fact). STORY stays bare. ck-ch022 projection: 6,351 words.
+

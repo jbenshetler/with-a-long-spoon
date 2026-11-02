@@ -33,9 +33,9 @@
  "match_prompt_sha256": "4b9b98e91f65e3e7e61197d894ff05eb59f4e973b59c57349d892078d5d0bb33",
  "date": "2026-11-01",
  "support_sizes": {
-  "4": 157,
-  "3": 147,
-  "2": 146
+  "4": 156,
+  "3": 153,
+  "2": 145
  },
  "admitted": [
   {
@@ -43,6 +43,7 @@
    "ch": 1,
    "text": "Randi is petite.",
    "quote": "She was petite, and her face tilted up to him with the slight perpetual surprise",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the startlingly blue eyes.",
    "support": [
     "A4",
     "B6",
@@ -55,6 +56,7 @@
    "ch": 1,
    "text": "Randi has black hair.",
    "quote": "He brushed a strand of black hair back behind her ear with one hand, slowly",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the startlingly blue eyes.",
    "support": [
     "A5",
     "B7",
@@ -67,6 +69,7 @@
    "ch": 1,
    "text": "Randi has blue eyes.",
    "quote": "the flat oval and the startlingly blue eyes",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the startlingly blue eyes.",
    "support": [
     "A6",
     "B8",
@@ -79,6 +82,7 @@
    "ch": 1,
    "text": "Randi is twenty-one.",
    "quote": "past everything she had spent twenty-one years making sure was all there was to find",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried",
    "support": [
     "A7",
     "B9",
@@ -91,6 +95,7 @@
    "ch": 1,
    "text": "Randi did dance and cheer for about a decade.",
    "quote": "the line of her doing what a decade of dance and cheer had trained the line of her to do under pressure",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried",
    "support": [
     "A8",
     "C30",
@@ -102,6 +107,7 @@
    "ch": 1,
    "text": "Randi's mother lives on egg whites and tofu.",
    "quote": "Her mother lived on egg whites and tofu, a thing she had told him with a knife in it",
+   "detail_quote": "Her mother lived on egg whites and tofu, a thing she had told him with a knife in it",
    "support": [
     "A9",
     "C27"
@@ -112,6 +118,7 @@
    "ch": 1,
    "text": "Randi belongs to a sorority.",
    "quote": "I left right after chapter dinner, Pace.",
+   "detail_quote": "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried",
    "support": [
     "A10",
     "C26",
@@ -123,6 +130,7 @@
    "ch": 1,
    "text": "Randi paints her toenails blue.",
    "quote": "Nothing like the blue lacquer on the toenails, still in the heels he had not taken off",
+   "detail_quote": "Nothing like the blue lacquer on the toenails, still in the heels he had not taken off",
    "support": [
     "A12",
     "C29"
@@ -133,6 +141,7 @@
    "ch": 1,
    "text": "Pace lives in a small house with plain laminate counters.",
    "quote": "a working kitchen in a small house, the white laminate counters plain and cheap",
+   "detail_quote": "a working kitchen in a small house, the white laminate counters plain and cheap",
    "support": [
     "A13",
     "C22"
@@ -143,6 +152,7 @@
    "ch": 1,
    "text": "Pace builds furniture.",
    "quote": "He had told her, when she toured the house, that he had built the furniture.",
+   "detail_quote": "He had told her, when she toured the house, that he had built the furniture.",
    "support": [
     "A14",
     "B5",
@@ -155,6 +165,7 @@
    "ch": 1,
    "text": "Pace keeps his whole house warm.",
    "quote": "the even heat he kept the whole house at",
+   "detail_quote": "The foyer was warm when she came in, the even heat he kept the whole house at.",
    "support": [
     "A15",
     "C100",
@@ -166,9 +177,21 @@
    "ch": 1,
    "text": "Daphne is a woman from Pace's past whose emotional boundary he did not respect.",
    "quote": "Daphne had built a door, once, and he had not respected it.",
+   "detail_quote": "Daphne had built a door, once, and he had not respected it.",
    "support": [
     "A16",
     "C31",
+    "D18"
+   ]
+  },
+  {
+   "section": "REL",
+   "ch": 1,
+   "text": "Pace once loved Daphne, and crossing her boundary cost him a great deal.",
+   "quote": "he had gone in where he had not been asked, and it had cost him more than he had known",
+   "detail_quote": "he had gone in where he had not been asked, and it had cost him more than he had known",
+   "support": [
+    "A18",
     "D18"
    ]
   },
@@ -177,6 +200,7 @@
    "ch": 1,
    "text": "Daphne had a past relationship with Pace.",
    "quote": "Daphne had built a door, once, and he had not respected it.",
+   "detail_quote": "Daphne had built a door, once, and he had not respected it.",
    "support": [
     "A16",
     "B10"
@@ -187,6 +211,7 @@
    "ch": 1,
    "text": "Pace wraps Randi in her cashmere blanket.",
    "quote": "he wrapped it around her shoulders and over her hips",
+   "detail_quote": "the cashmere one she had brought after the second week when she had registered that she got cold after sex",
    "support": [
     "A19",
     "B33",
@@ -199,6 +224,7 @@
    "ch": 1,
    "text": "Randi locks the bathroom door.",
    "quote": "he heard the small click of the lock turning over",
+   "detail_quote": "he heard the small click of the lock turning over, which was not a thing she had ever done before in his house.",
    "support": [
     "A20",
     "B21",
@@ -210,10 +236,11 @@
    "ch": 1,
    "text": "Randi decides to hide the self Pace found.",
    "quote": "The one he had found was going back behind it",
+   "detail_quote": "something in her needed him not to know any more than he already did. Not tonight — and this arrived without words, quiet as a deadbolt going over — not ever.",
    "support": [
     "A21",
     "B35",
-    "C136",
+    "C89",
     "D19"
    ]
   },
@@ -222,6 +249,7 @@
    "ch": 1,
    "text": "Randi agrees to stay the night.",
    "quote": "And she thought — silently, with the new low hum she did not yet have a name for",
+   "detail_quote": "And she thought — silently, with the new low hum she did not yet have a name for",
    "support": [
     "A22",
     "B37",
@@ -234,6 +262,7 @@
    "ch": 1,
    "text": "Randi's sorority sisters do not know Pace's last name",
    "quote": "a man whose last name her own sorority sisters did not know",
+   "detail_quote": "a man whose last name her own sorority sisters did not know",
    "support": [
     "A23",
     "C88",
@@ -245,6 +274,7 @@
    "ch": 1,
    "text": "Randi tells Brooke that she has a paper.",
    "quote": "I told Brooke I had a paper.",
+   "detail_quote": "It's not due until Thursday.",
    "support": [
     "A24",
     "B11",
@@ -256,6 +286,7 @@
    "ch": 1,
    "text": "Randi locks Pace’s door after entering.",
    "quote": "then the deadbolt turn over as she locked it behind her",
+   "detail_quote": "she always locked it behind her, first thing, before anything else",
    "support": [
     "A26",
     "B17",
@@ -267,6 +298,7 @@
    "ch": 1,
    "text": "Steely Dan plays low in Pace's house.",
    "quote": "Steely Dan was going low under it all",
+   "detail_quote": "I left right after chapter dinner, Pace. I told Brooke I had a paper.",
    "support": [
     "A27",
     "C129"
@@ -277,6 +309,7 @@
    "ch": 1,
    "text": "Randi's perfume is sharp citrus.",
    "quote": "He smelled her perfume, sharp citrus and something colder underneath.",
+   "detail_quote": "He smelled her perfume, sharp citrus and something colder underneath.",
    "support": [
     "A28",
     "C102"
@@ -287,6 +320,7 @@
    "ch": 1,
    "text": "Pace serves Randi thin apple slices.",
    "quote": "He had sliced it thin because she would eat thin slices",
+   "detail_quote": "He had sliced it thin because she would eat thin slices and would not eat thick ones",
    "support": [
     "A29",
     "B18",
@@ -299,6 +333,7 @@
    "ch": 1,
    "text": "Randi presses a bottle cap edge under her thumbnail.",
    "quote": "set the sharp inner edge of the cap under her thumbnail and pressed",
+   "detail_quote": "set the sharp inner edge of the cap under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt.",
    "support": [
     "A30",
     "C103"
@@ -309,6 +344,7 @@
    "ch": 1,
    "text": "The bench Pace built, hidden under a table top",
    "quote": "In his bedroom he lifted the top off a table, revealing the bench it hid.",
+   "detail_quote": "In his bedroom he lifted the top off a table, revealing the bench it hid.",
    "support": [
     "A33",
     "B22",
@@ -319,8 +355,20 @@
   {
    "section": "STORY",
    "ch": 1,
+   "text": "Randi arrives at Pace's house and locks the door behind her.",
+   "quote": "and then the deadbolt turn over as she locked it behind her",
+   "detail_quote": "I left right after chapter dinner, Pace. I told Brooke I had a paper.",
+   "support": [
+    "A34",
+    "C129"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 1,
    "text": "Randi straddles Pace at his kitchen table.",
    "quote": "She straddled him.",
+   "detail_quote": "She ate several slices like that. Bite, kiss, bite.",
    "support": [
     "A35",
     "B24",
@@ -331,11 +379,11 @@
   {
    "section": "STORY",
    "ch": 1,
-   "text": "Randi asks Pace to show her the bench.",
-   "quote": "Show me,\" she said.",
+   "text": "Pace leads Randi to the bedroom, where she sees the bench.",
+   "quote": "She walked three steps into the bedroom and stopped.",
+   "detail_quote": "She walked three steps into the bedroom and stopped.",
    "support": [
     "A36",
-    "B25",
     "C131"
    ]
   },
@@ -344,6 +392,7 @@
    "ch": 1,
    "text": "Pace built the bench himself.",
    "quote": "He knew what she was reading — he had built it.",
+   "detail_quote": "He had told her, when she toured the house, that he had built the furniture.",
    "support": [
     "A37",
     "C23",
@@ -353,11 +402,11 @@
   {
    "section": "STORY",
    "ch": 1,
-   "text": "Pace undresses Randi in his bedroom.",
-   "quote": "She stood naked in the middle of his bedroom and let him look at her.",
+   "text": "Pace undresses her slowly, kneeling, folding each garment onto a chair",
+   "quote": "He reached up and took off her cardigan first",
+   "detail_quote": "He folded it and set it on the chair beside him.",
    "support": [
     "A38",
-    "B12",
     "C132",
     "D11"
    ]
@@ -367,6 +416,7 @@
    "ch": 1,
    "text": "Pace places Randi facedown on the bench.",
    "quote": "Facedown,\" he said. \"Hands on the grips.",
+   "detail_quote": "The word came out small. The word came out hers.",
    "support": [
     "A39",
     "B26",
@@ -379,6 +429,7 @@
    "ch": 1,
    "text": "Pace spanks Randi.",
    "quote": "He brought his hand down on her, the first strike, palm flat, not hard",
+   "detail_quote": "He kept going, varying the rhythm and placement, strikes and then touch and then strikes again",
    "support": [
     "A40",
     "B28",
@@ -391,6 +442,7 @@
    "ch": 1,
    "text": "Pace repeatedly stops stimulating Randi before orgasm.",
    "quote": "at the moment he could feel her body beginning to gather toward something he stopped",
+   "detail_quote": "The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used",
    "support": [
     "A41",
     "B29",
@@ -401,19 +453,9 @@
   {
    "section": "STORY",
    "ch": 1,
-   "text": "Randi begs Pace to make her come.",
-   "quote": "Please make me come.",
-   "support": [
-    "A41",
-    "B30",
-    "C63"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 1,
    "text": "Randi cries after she climaxes.",
    "quote": "She was crying. She was crying quietly with her face turned sideways against the head pad of the bench",
+   "detail_quote": "She was crying. She was crying quietly with her face turned sideways against the head pad of the bench",
    "support": [
     "A42",
     "B32",
@@ -426,6 +468,7 @@
    "ch": 1,
    "text": "Pace calls Randi by name when she comes back to herself.",
    "quote": "There you are, Randi.",
+   "detail_quote": "There you are, Randi.",
    "support": [
     "A43",
     "C134",
@@ -435,11 +478,12 @@
   {
    "section": "STORY",
    "ch": 1,
-   "text": "Randi flinches when Pace calls her beautiful.",
-   "quote": "She flinched. Involuntary, the kind of flinch a body makes when something lands somewhere it was not braced for.",
+   "text": "Pace tells Randi that she is beautiful.",
+   "quote": "You're beautiful,\" he said.",
+   "detail_quote": "She flinched. Involuntary, the kind of flinch a body makes when something lands somewhere it was not braced for.",
    "support": [
     "A44",
-    "B34",
+    "B20",
     "C135",
     "D17"
    ]
@@ -447,11 +491,13 @@
   {
    "section": "STORY",
    "ch": 1,
-   "text": "Pace tells Randi that she is beautiful.",
-   "quote": "You're beautiful,\" he said.",
+   "text": "In the mirror, Randi feels she was more alive on the bench than she has ever been.",
+   "quote": "she had been more alive on that bench than she could remember being anywhere, ever",
+   "detail_quote": "she had been more alive on that bench than she could remember being anywhere, ever",
    "support": [
-    "A44",
-    "B20"
+    "A45",
+    "C136",
+    "D19"
    ]
   },
   {
@@ -459,6 +505,7 @@
    "ch": 1,
    "text": "Randi returns wearing an arranged smile.",
    "quote": "the smile arranged on her face, the bright slightly surprised smile that was her best smile",
+   "detail_quote": "the smile arranged on her face, the bright slightly surprised smile that was her best smile",
    "support": [
     "A46",
     "B36",
@@ -466,10 +513,22 @@
    ]
   },
   {
+   "section": "REL",
+   "ch": 1,
+   "text": "Pace undresses Randi in his bedroom.",
+   "quote": "She stood naked in the middle of his bedroom and let him look at her.",
+   "detail_quote": "She stood naked in the middle of his bedroom and let him look at her.",
+   "support": [
+    "B12",
+    "D11"
+   ]
+  },
+  {
    "section": "STORY",
    "ch": 1,
    "text": "Pace gives Randi the safeword red.",
    "quote": "Tell me your word.",
+   "detail_quote": "Tell me your word.\" \"Red,\" she said.",
    "support": [
     "B13",
     "C132",
@@ -477,13 +536,15 @@
    ]
   },
   {
-   "section": "REL",
+   "section": "STORY",
    "ch": 1,
    "text": "Pace brings Randi to orgasm on the bench.",
    "quote": "A few slow strokes later she was coming.",
+   "detail_quote": "She was crying quietly with her face turned sideways",
    "support": [
     "B14",
-    "C134"
+    "C134",
+    "D15"
    ]
   },
   {
@@ -491,9 +552,10 @@
    "ch": 1,
    "text": "Pace reveals the hidden bench.",
    "quote": "The top was leaning against the wall. The bench, which she had seen without seeing, was now bare.",
+   "detail_quote": "The top was leaning against the wall. The bench, which she had seen without seeing, was now bare.",
    "support": [
     "B19",
-    "C131"
+    "D8"
    ]
   },
   {
@@ -501,6 +563,7 @@
    "ch": 1,
    "text": "Randi arrives early after chapter dinner.",
    "quote": "I left right after chapter dinner, Pace.",
+   "detail_quote": "I left right after chapter dinner, Pace. I told Brooke I had a paper.",
    "support": [
     "B23",
     "C129",
@@ -508,12 +571,58 @@
    ]
   },
   {
-   "section": "KNOW",
+   "section": "STORY",
+   "ch": 1,
+   "text": "Randi asks Pace to show her the bench.",
+   "quote": "Show me,\" she said.",
+   "detail_quote": "Show me,\" she said.",
+   "support": [
+    "B25",
+    "C131"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 1,
+   "text": "Randi begs Pace to make her come.",
+   "quote": "Please make me come.",
+   "detail_quote": "The one he had found was going back behind it, and she was not coming out again.",
+   "support": [
+    "B30",
+    "C63",
+    "D14"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 1,
+   "text": "Randi withdraws into the bathroom after Pace calls her beautiful.",
+   "quote": "I need the bathroom,\" she said.",
+   "detail_quote": "he heard the small click of the lock turning over, which was not a thing she had ever done before in his house.",
+   "support": [
+    "B34",
+    "D17"
+   ]
+  },
+  {
+   "section": "REL",
+   "ch": 1,
+   "text": "Pace and Randi are lovers, and he uses a custom spanking bench he built for her for the first time.",
+   "quote": "For you. Tonight.",
+   "detail_quote": "The bench, which she had seen without seeing, was now bare.",
+   "support": [
+    "C62",
+    "D9"
+   ]
+  },
+  {
+   "section": "REL",
    "ch": 1,
    "text": "In the mirror Randi decides the self Pace found is going back behind the face and never coming out",
    "quote": "The one he had found was going back behind it, and she was not coming out again.",
+   "detail_quote": "The one he had found was going back behind it, and she was not coming out again.",
    "support": [
-    "C89",
+    "C63",
     "D19"
    ]
   },
@@ -522,6 +631,7 @@
    "ch": 2,
    "text": "Brooke is the chapter president.",
    "quote": "Brooke was the chapter president and did not need to stand to stop someone in her own common room.",
+   "detail_quote": "Brooke was the chapter president and did not need to stand to stop someone in her own common room.",
    "support": [
     "A49",
     "B39",
@@ -534,6 +644,7 @@
    "ch": 2,
    "text": "Randi sits on the sorority board as Standards.",
    "quote": "she sat on the board herself, Standards",
+   "detail_quote": "Standards rated a single — one of the few tangible perquisites of a seat on the board",
    "support": [
     "A51",
     "B40",
@@ -546,6 +657,7 @@
    "ch": 2,
    "text": "Randi has a single room because of her board seat.",
    "quote": "Standards rated a single — one of the few tangible perquisites of a seat on the board",
+   "detail_quote": "Standards rated a single — one of the few tangible perquisites of a seat on the board",
    "support": [
     "A54",
     "C33",
@@ -557,11 +669,12 @@
    "ch": 2,
    "text": "Sloane is a sister in Randi's sorority.",
    "quote": "Sloane on the couch with the coffee and the laptop.",
+   "detail_quote": "Sloane on the couch with the coffee and the laptop.",
    "support": [
     "A52",
+    "B41",
     "C34",
-    "D23",
-    "B41"
+    "D23"
    ]
   },
   {
@@ -569,11 +682,12 @@
    "ch": 2,
    "text": "Kinsey is a sister in Randi's sorority.",
    "quote": "Kinsey cross-legged on the rug with a bowl of cereal.",
+   "detail_quote": "Kinsey cross-legged on the rug with a bowl of cereal.",
    "support": [
     "A53",
+    "B42",
     "C35",
-    "D23",
-    "B42"
+    "D23"
    ]
   },
   {
@@ -581,6 +695,7 @@
    "ch": 2,
    "text": "Pace drives a white pickup.",
    "quote": "is that the white pickup I keep seeing parked behind Hahn?",
+   "detail_quote": "is that the white pickup I keep seeing parked behind Hahn?",
    "support": [
     "A56",
     "C36",
@@ -588,14 +703,16 @@
    ]
   },
   {
-   "section": "KNOW",
+   "section": "STORY",
    "ch": 2,
-   "text": "Randi lies to Brooke that she worked at the place on Wilson.",
+   "text": "Randi conceals her night with Pace from Brooke.",
    "quote": "There's the place on Wilson that stays open.",
+   "detail_quote": "I — went to a study group at first and then I just wanted somewhere quieter.",
    "support": [
     "A57",
-    "C90",
-    "D27"
+    "C139",
+    "D27",
+    "B44"
    ]
   },
   {
@@ -603,6 +720,7 @@
    "ch": 2,
    "text": "Pace is a PhD student in math.",
    "quote": "Math,\" Randi said. \"PhD.",
+   "detail_quote": "A recalibration, barely there, the smile absorbing it without conceding the notch.",
    "support": [
     "A58",
     "B52",
@@ -614,6 +732,7 @@
    "ch": 2,
    "text": "Randi tells Brooke that Pace does not teach her section.",
    "quote": "He's not — it's a different course. He's not anywhere near mine.",
+   "detail_quote": "He's not — it's a different course. He's not anywhere near mine.",
    "support": [
     "A59",
     "B53",
@@ -625,6 +744,7 @@
    "ch": 2,
    "text": "Randi returns to the sorority house before ten on Saturday.",
    "quote": "Saturday morning, before ten.",
+   "detail_quote": "wanted to be at the stairs and up them before the house registered that she was only now coming in, in last night's clothes, on a Saturday.",
    "support": [
     "A60",
     "B49",
@@ -637,6 +757,7 @@
    "ch": 2,
    "text": "Brooke asks Randi how her paper is going.",
    "quote": "How's the paper coming?",
+   "detail_quote": "How's the paper coming?\" Brooke said.",
    "support": [
     "A61",
     "B50",
@@ -648,6 +769,7 @@
    "ch": 2,
    "text": "Brooke asks whether Pace is really his name.",
    "quote": "That's actually his name? Like he goes by Pace?",
+   "detail_quote": "Like — short-cute? I feel like he's a short-cute.",
    "support": [
     "A62",
     "C140",
@@ -659,11 +781,11 @@
    "ch": 2,
    "text": "Kinsey calls Pace short-cute.",
    "quote": "Like — short-cute? I feel like he's a short-cute.",
+   "detail_quote": "Like — short-cute? I feel like he's a short-cute.",
    "support": [
     "A63",
     "B54",
-    "C140",
-    "D29"
+    "C140"
    ]
   },
   {
@@ -671,6 +793,7 @@
    "ch": 2,
    "text": "Brooke ends the conversation and sends Randi to shower.",
    "quote": "Anyway, I'm sure you want to shower,\" she said. \"Sorry to grill you.",
+   "detail_quote": "Anyway, I'm sure you want to shower,\" she said. \"Sorry to grill you. Go.",
    "support": [
     "A64",
     "C141",
@@ -682,6 +805,7 @@
    "ch": 2,
    "text": "Randi lies on her made bed in the previous night’s clothes.",
    "quote": "She lay down on her bed on her back, in last night's clothes, with her shoes still on.",
+   "detail_quote": "She lay down on her bed on her back, in last night's clothes, with her shoes still on.",
    "support": [
     "A65",
     "B56",
@@ -692,23 +816,14 @@
   {
    "section": "STORY",
    "ch": 2,
-   "text": "Randi hears her own phrase about Pace in a different key.",
-   "quote": "He's hard to say no to, she heard, in her room, in a different key.",
-   "support": [
-    "A66",
-    "B48",
-    "D32"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 2,
    "text": "Randi does not cry.",
    "quote": "She lay under the duvet and looked at the ceiling and did not cry.",
+   "detail_quote": "She lay under the duvet and looked at the ceiling and did not cry.",
    "support": [
     "A67",
     "B57",
-    "D31"
+    "D31",
+    "C142"
    ]
   },
   {
@@ -716,9 +831,21 @@
    "ch": 2,
    "text": "Randi closes the sorority-house door quietly.",
    "quote": "Randi closed it behind her quietly, which was already wrong.",
+   "detail_quote": "wanted to be at the stairs and up them before the house registered that she was only now coming in",
    "support": [
     "B47",
     "D26"
+   ]
+  },
+  {
+   "section": "MOTIF",
+   "ch": 2,
+   "text": "Randi hears her own phrase about Pace in a different key.",
+   "quote": "He's hard to say no to, she heard, in her room, in a different key.",
+   "detail_quote": "He's hard to say no to, she heard, in her room, in a different key.",
+   "support": [
+    "B48",
+    "D32"
    ]
   },
   {
@@ -726,6 +853,7 @@
    "ch": 2,
    "text": "Randi goes alone to her single room.",
    "quote": "The room was hers alone.",
+   "detail_quote": "Anyway, I'm sure you want to shower,\" she said. \"Sorry to grill you. Go.",
    "support": [
     "B55",
     "C141",
@@ -737,19 +865,10 @@
    "ch": 2,
    "text": "Brooke questions Randi about where she spent the night.",
    "quote": "Where did you end up working?",
+   "detail_quote": "Pace. That's actually his name? Like he goes by Pace?",
    "support": [
     "B43",
     "D25"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 2,
-   "text": "Randi conceals her night with Pace from Brooke.",
-   "quote": "There's the place on Wilson that stays open.",
-   "support": [
-    "B44",
-    "C90"
    ]
   },
   {
@@ -757,10 +876,11 @@
    "ch": 3,
    "text": "Pace asks Randi whether she wants to taste another woman.",
    "quote": "Would you like to taste another woman?",
+   "detail_quote": "Would you like to taste another woman?\" The question reached her body before it reached her, and it took her all at once — she came, hard",
    "support": [
     "A71",
     "B60",
-    "C64",
+    "C144",
     "D34"
    ]
   },
@@ -769,6 +889,7 @@
    "ch": 3,
    "text": "Randi climaxes the moment he asks.",
    "quote": "The question reached her body before it reached her, and it took her all at once",
+   "detail_quote": "Would you like to taste another woman?\" The question reached her body before it reached her, and it took her all at once — she came, hard",
    "support": [
     "A72",
     "B67",
@@ -779,8 +900,21 @@
   {
    "section": "STORY",
    "ch": 3,
+   "text": "Randi asks Pace to do something different.",
+   "quote": "Let's do something different, she said. Today.",
+   "detail_quote": "Let's do something different, she said. Today.",
+   "support": [
+    "B59",
+    "C143",
+    "D34"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 3,
    "text": "Randi says she only wants another woman in a threesome with Pace.",
    "quote": "Only in a threesome,\" she said against his throat, smiling, all silk. \"With you.",
+   "detail_quote": "Only in a threesome,\" she said against his throat, smiling, all silk. \"With you.",
    "support": [
     "A73",
     "B61",
@@ -793,6 +927,7 @@
    "ch": 3,
    "text": "Pace suggests a walk on campus.",
    "quote": "Let's go for a walk on campus",
+   "detail_quote": "Let's go for a walk on campus,\" he said.",
    "support": [
     "A74",
     "B68",
@@ -805,6 +940,7 @@
    "ch": 3,
    "text": "Randi refuses a cheeseburger.",
    "quote": "Easy, automatic, not even a glance back at the tray.",
+   "detail_quote": "No.\" Easy, automatic, not even a glance back at the tray. \"I can't eat that.",
    "support": [
     "A75",
     "B70"
@@ -815,10 +951,11 @@
    "ch": 3,
    "text": "Pace points out several women for Randi to consider.",
    "quote": "What about her?",
+   "detail_quote": "I point. You pick.",
    "support": [
     "A76",
     "B71",
-    "C65",
+    "C146",
     "D37"
    ]
   },
@@ -827,10 +964,10 @@
    "ch": 3,
    "text": "Pace sets the rule that he points and Randi picks.",
    "quote": "I point. You pick.",
+   "detail_quote": "I point. You pick.",
    "support": [
     "A77",
-    "B62",
-    "C146"
+    "B62"
    ]
   },
   {
@@ -838,6 +975,7 @@
    "ch": 3,
    "text": "Randi gives a girl on the library steps a maybe.",
    "quote": "Randi's look stayed on her — past the quick verdicts she'd been handing down",
+   "detail_quote": "Randi's look stayed on her — past the quick verdicts she'd been handing down",
    "support": [
     "A78",
     "B72",
@@ -850,6 +988,7 @@
    "ch": 3,
    "text": "Randi strongly rejects a white-blond woman in a blazer.",
    "quote": "God, no,\" Randi said, fast",
+   "detail_quote": "God, no,\" Randi said, fast, and there was real feeling in the",
    "support": [
     "A79",
     "B73",
@@ -861,6 +1000,7 @@
    "ch": 3,
    "text": "Pace points at the red-haired woman leaving the dining hall.",
    "quote": "Her,\" Pace said, and pointed.",
+   "detail_quote": "Yes,\" she said. The word came out alone",
    "support": [
     "A80",
     "B74",
@@ -873,6 +1013,7 @@
    "ch": 3,
    "text": "Randi says yes to the redhead at once.",
    "quote": "The word came out alone, with nothing around it",
+   "detail_quote": "The word came out alone, with nothing around it",
    "support": [
     "A81",
     "B75",
@@ -885,6 +1026,7 @@
    "ch": 3,
    "text": "Randi stages a collision with the redhead.",
    "quote": "Randi giving half a head and enough weight that the accident appeared entirely to happen to her",
+   "detail_quote": "Randi giving half a head and enough weight that the accident appeared entirely to happen to her",
    "support": [
     "A82",
     "B77",
@@ -897,6 +1039,7 @@
    "ch": 3,
    "text": "Pace watches from a light pole.",
    "quote": "He found a light pole at a comfortable angle to the lawn and put his shoulder against it and watched.",
+   "detail_quote": "He found a light pole at a comfortable angle to the lawn and put his shoulder against it and watched.",
    "support": [
     "A83",
     "C149"
@@ -907,6 +1050,7 @@
    "ch": 3,
    "text": "Pace tells Randi to approach the chosen woman.",
    "quote": "Go get her.",
+   "detail_quote": "So the geometry arranged across thirty feet arrived all at once, and their shoulders met",
    "support": [
     "B76",
     "C149",
@@ -918,6 +1062,7 @@
    "ch": 3,
    "text": "Randi reports the redhead's name.",
    "quote": "Her name is Vee.",
+   "detail_quote": "Do you think she'll like the bench?",
    "support": [
     "A84",
     "B78",
@@ -929,10 +1074,11 @@
    "ch": 3,
    "text": "Randi and Vee share a stats class.",
    "quote": "And we've got a stats class together.",
+   "detail_quote": "And we've got a stats class together.",
    "support": [
     "A85",
     "B79",
-    "C66"
+    "C150"
    ]
   },
   {
@@ -940,6 +1086,7 @@
    "ch": 3,
    "text": "Randi asks whether Vee will like the bench",
    "quote": "Do you think she'll like the bench?",
+   "detail_quote": "Do you think she'll like the bench?",
    "support": [
     "A86",
     "B80",
@@ -948,20 +1095,11 @@
    ]
   },
   {
-   "section": "STORY",
-   "ch": 3,
-   "text": "The walk takes place on a Tuesday afternoon.",
-   "quote": "Students moved through it in the loose Tuesday-afternoon current",
-   "support": [
-    "A87",
-    "C143"
-   ]
-  },
-  {
    "section": "WHO",
    "ch": 3,
    "text": "Vee is tall and curvy.",
    "quote": "Tall, and built on a lavish scale, lush in a way that had nothing curated about it",
+   "detail_quote": "Tall, and built on a lavish scale, lush in a way that had nothing curated about it",
    "support": [
     "A88",
     "C38"
@@ -972,6 +1110,7 @@
    "ch": 3,
    "text": "Vee has dark red hair that shows copper in the sun.",
    "quote": "a warm dark red that sparked to copper wherever the wind lifted it into the sun",
+   "detail_quote": "Tall, and built on a lavish scale, lush in a way that had nothing curated about it",
    "support": [
     "A89",
     "C38"
@@ -982,30 +1121,21 @@
    "ch": 3,
    "text": "Vee has freckles.",
    "quote": "cinnamon freckles thrown across it and the tops of her cheeks",
+   "detail_quote": "Tall, and built on a lavish scale, lush in a way that had nothing curated about it",
    "support": [
     "A90",
     "C38"
    ]
   },
   {
-   "section": "STORY",
+   "section": "MOTIF",
    "ch": 3,
-   "text": "Randi asks Pace to do something different.",
-   "quote": "Let's do something different, she said. Today.",
+   "text": "Randi looks at the concealed bench.",
+   "quote": "she had slowed at the long table with its top back on",
+   "detail_quote": "she had slowed at the long table with its top back on",
    "support": [
-    "B59",
-    "C143",
-    "D34"
-   ]
-  },
-  {
-   "section": "WHO",
-   "ch": 4,
-   "text": "Vivienne is called Vee.",
-   "quote": "Vee got there early, as she always did",
-   "support": [
-    "B82",
-    "C39"
+    "B65",
+    "C143"
    ]
   },
   {
@@ -1013,6 +1143,7 @@
    "ch": 4,
    "text": "Cassie is Vee’s classmate.",
    "quote": "with Cassie beside her unpacking a granola bar",
+   "detail_quote": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one.",
    "support": [
     "A93",
     "B83",
@@ -1024,6 +1155,7 @@
    "ch": 4,
    "text": "Cassie wears a ball cap and has a lab at noon.",
    "quote": "a person who had a lab at noon and no particular feelings about the yellow one on Draper",
+   "detail_quote": "a person who had a lab at noon and no particular feelings about the yellow one on Draper",
    "support": [
     "A94",
     "D46"
@@ -1034,11 +1166,12 @@
    "ch": 4,
    "text": "Meg lives on Vee’s dorm floor.",
    "quote": "She'd been coming out of the dining hall with Meg from her floor",
+   "detail_quote": "She'd been coming out of the dining hall with Meg from her floor, dark-haired, easygoing Meg",
    "support": [
     "A95",
-    "B84",
     "C41",
-    "D47"
+    "D47",
+    "B84"
    ]
   },
   {
@@ -1046,6 +1179,7 @@
    "ch": 4,
    "text": "Randi has an accent that Vee cannot place.",
    "quote": "the esses ran a half-beat long, and the a's came up arched and lifted",
+   "detail_quote": "the esses ran a half-beat long, and the a's came up arched and lifted",
    "support": [
     "A96",
     "B85",
@@ -1057,6 +1191,7 @@
    "ch": 4,
    "text": "Randi has her own room.",
    "quote": "Randi didn't room with anyone; she had her own room",
+   "detail_quote": "she had been keeping the feeling, which was the feeling of being a person who got to sit at this table with this girl, and the feeling was total and the transcript was blank.",
    "support": [
     "A97",
     "C156"
@@ -1067,6 +1202,7 @@
    "ch": 4,
    "text": "Vee and Cassie live together.",
    "quote": "I'll see you at home in two hours.",
+   "detail_quote": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one.",
    "support": [
     "A98",
     "C40",
@@ -1078,9 +1214,11 @@
    "ch": 4,
    "text": "Vee does not know the collision with Randi was staged.",
    "quote": "one of those collisions where both people apologize and neither one did it",
+   "detail_quote": "one of those collisions where both people apologize and neither one did it",
    "support": [
     "A99",
-    "B90"
+    "B90",
+    "D48"
    ]
   },
   {
@@ -1088,6 +1226,7 @@
    "ch": 4,
    "text": "Vee cannot recall anything Randi said at coffee.",
    "quote": "the feeling was total and the transcript was blank",
+   "detail_quote": "she had been keeping the feeling, which was the feeling of being a person who got to sit at this table with this girl, and the feeling was total and the transcript was blank.",
    "support": [
     "A100",
     "B91",
@@ -1100,6 +1239,7 @@
    "ch": 4,
    "text": "Vee waits for Randi at the stats lecture.",
    "quote": "She had decided not to look at the door.",
+   "detail_quote": "Vee had looked up to say sorry and forgotten to.",
    "support": [
     "A101",
     "B93",
@@ -1110,23 +1250,27 @@
   {
    "section": "STORY",
    "ch": 4,
-   "text": "Randi arrives late and sits next to Vee.",
-   "quote": "Randi dropped into the seat on Vee's other side, the aisle side",
+   "text": "Randi sits beside Vee in statistics.",
+   "quote": "Randi dropped into the seat on Vee's other side",
+   "detail_quote": "Randi dropped into the seat on Vee's other side, the aisle side",
    "support": [
     "A102",
-    "B94",
+    "B86",
     "C152",
     "D49"
    ]
   },
   {
-   "section": "REL",
+   "section": "STORY",
    "ch": 4,
-   "text": "Randi sits beside Vee in statistics.",
-   "quote": "Randi dropped into the seat on Vee's other side",
+   "text": "Randi introduces herself to Cassie.",
+   "quote": "Hi — I'm Randi.",
+   "detail_quote": "Yes, like the adjective. No, it's not a coincidence.",
    "support": [
-    "B86",
-    "C67"
+    "A103",
+    "B95",
+    "C152",
+    "D50"
    ]
   },
   {
@@ -1134,8 +1278,8 @@
    "ch": 4,
    "text": "Cassie answers Randi with only her name.",
    "quote": "Cassie,\" Cassie said.",
+   "detail_quote": "she just put her name down flat in the space",
    "support": [
-    "A103",
     "B96",
     "C152",
     "D50"
@@ -1146,6 +1290,7 @@
    "ch": 4,
    "text": "The professor says latent variables come next.",
    "quote": "and the word sat there in her notebook, underlined once, going nowhere",
+   "detail_quote": "and the word sat there in her notebook, underlined once, going nowhere",
    "support": [
     "A104",
     "C153"
@@ -1154,22 +1299,13 @@
   {
    "section": "STORY",
    "ch": 4,
-   "text": "Randi insists that Vee come for coffee.",
-   "quote": "you have to come, I'm not asking, I've decided",
-   "support": [
-    "A105",
-    "B98",
-    "C154"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 4,
    "text": "Randi invites Vee to Chi Latte.",
    "quote": "Come to Chi Latte with me.",
+   "detail_quote": "Have fun,\" Cassie said. And then, plainly, as she said everything: \"Goodbye, Vee.",
    "support": [
+    "A105",
     "B87",
-    "C67"
+    "C154"
    ]
   },
   {
@@ -1177,6 +1313,7 @@
    "ch": 4,
    "text": "Cassie declines and tells Vee goodbye.",
    "quote": "the whole word, flat and finished, the word for a longer parting than a Wednesday",
+   "detail_quote": "the whole word, flat and finished, the word for a longer parting than a Wednesday",
    "support": [
     "A106",
     "B88",
@@ -1188,6 +1325,7 @@
    "ch": 4,
    "text": "Vee judges the girls at Chi Latte in her mother's voice.",
    "quote": "the word arriving whole and in her mother's voice before she had finished forming the picture",
+   "detail_quote": "Floozies, Vee thought, the word arriving whole and in her mother's voice before she had finished forming the picture.",
    "support": [
     "A107",
     "C105",
@@ -1199,6 +1337,7 @@
    "ch": 4,
    "text": "Vee wears the cardigan on purpose.",
    "quote": "She had worn the cardigan over the better shirt on purpose this morning",
+   "detail_quote": "Floozies, Vee thought, the word arriving whole and in her mother's voice",
    "support": [
     "A108",
     "D51"
@@ -1209,8 +1348,20 @@
    "ch": 4,
    "text": "Randi buys Vee a lavender latte.",
    "quote": "They had the lavender thing,\" Randi said, handing it over.",
+   "detail_quote": "They had the lavender thing,\" Randi said, handing it over. \"Trust me. Come on, the high table's open, I love the high table.",
    "support": [
     "A109",
+    "C155",
+    "D52"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 4,
+   "text": "Randi orders Vee an oat-milk latte.",
+   "quote": "Randi had ordered her an oat-milk latte",
+   "detail_quote": "They had the lavender thing,\" Randi said, handing it over. \"Trust me. Come on, the high table's open, I love the high table.",
+   "support": [
     "B101",
     "C155",
     "D52"
@@ -1221,6 +1372,7 @@
    "ch": 4,
    "text": "Vee calls it the best hour in months.",
    "quote": "It was the best hour she'd had in months.",
+   "detail_quote": "It was the best hour she'd had in months.",
    "support": [
     "A110",
     "B103"
@@ -1231,6 +1383,7 @@
    "ch": 4,
    "text": "Randi hugs Vee after coffee.",
    "quote": "Randi pulled her into a hug — quick, warm, complete",
+   "detail_quote": "Randi pulled her into a hug — quick, warm, complete",
    "support": [
     "A111",
     "B89",
@@ -1243,32 +1396,12 @@
    "ch": 4,
    "text": "Randi tells Vee that she will see her later.",
    "quote": "See you later, okay?",
+   "detail_quote": "This was the best. Love you, girl.",
    "support": [
     "B92",
     "C157",
-    "D54"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 4,
-   "text": "Randi calls Vee girl before leaving.",
-   "quote": "Love you, girl.",
-   "support": [
-    "B104",
-    "C157",
-    "D54"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 4,
-   "text": "Vee sits with Randi at the high table.",
-   "quote": "she was a girl at the high table at Chi Latte",
-   "support": [
-    "B102",
-    "C106",
-    "D52"
+    "D54",
+    "A111"
    ]
   },
   {
@@ -1276,9 +1409,44 @@
    "ch": 4,
    "text": "Randi smells of cold citrus.",
    "quote": "smelling like cold citrus, occasionally touching her arm",
+   "detail_quote": "smelling like cold citrus, occasionally touching her arm",
    "support": [
     "A113",
     "C104"
+   ]
+  },
+  {
+   "section": "WHO",
+   "ch": 4,
+   "text": "Vivienne is called Vee.",
+   "quote": "Vee got there early, as she always did",
+   "detail_quote": "Vivienne Thorne. V.T. Yes, like the university.",
+   "support": [
+    "B82",
+    "C39"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 4,
+   "text": "Randi enters from the back of the lecture room.",
+   "quote": "She had come in the back",
+   "detail_quote": "Cassie,\" Cassie said. That was all.",
+   "support": [
+    "B94",
+    "C152",
+    "D49"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 4,
+   "text": "Randi whispers to Vee during the lecture.",
+   "quote": "wait is this going to be on the thing",
+   "detail_quote": "Randi was a presence at her right elbow the whole hour",
+   "support": [
+    "B97",
+    "C153"
    ]
   },
   {
@@ -1286,9 +1454,34 @@
    "ch": 4,
    "text": "Vee enters Chi Latte with Randi.",
    "quote": "Now she was walking under it with Randi holding the door",
+   "detail_quote": "They had the lavender thing,\" Randi said, handing it over. \"Trust me. Come on, the high table's open, I love the high table.",
    "support": [
     "B100",
     "C155"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 4,
+   "text": "Vee sits with Randi at the high table.",
+   "quote": "she was a girl at the high table at Chi Latte",
+   "detail_quote": "The high table was by the window, two stools, tall.",
+   "support": [
+    "B102",
+    "C106",
+    "D52"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 4,
+   "text": "Randi calls Vee girl before leaving.",
+   "quote": "Love you, girl.",
+   "detail_quote": "This was the best. Love you, girl.",
+   "support": [
+    "B104",
+    "C157",
+    "D54"
    ]
   },
   {
@@ -1296,6 +1489,7 @@
    "ch": 5,
    "text": "Pace has light brown hair and an ordinary face.",
    "quote": "a pleasant, ordinary face, light brown hair cut short and easy",
+   "detail_quote": "a pleasant, ordinary face, light brown hair cut short and easy",
    "support": [
     "A116",
     "C43"
@@ -1306,6 +1500,7 @@
    "ch": 5,
    "text": "Pace is finishing a math PhD.",
    "quote": "Finishing a PhD.\" A pause. \"More or less.",
+   "detail_quote": "Did I just warn a math PhD that my calculus was hard?",
    "support": [
     "A118",
     "B121",
@@ -1313,23 +1508,26 @@
    ]
   },
   {
-   "section": "KNOW",
+   "section": "STORY",
    "ch": 5,
    "text": "Cassie watches Randi texting.",
    "quote": "Cassie was watching Randi thumb at her phone, her own pencil stopped in her hand.",
+   "detail_quote": "Cassie was watching Randi thumb at her phone, her own pencil stopped in her hand.",
    "support": [
     "A120",
+    "C159",
     "D56"
    ]
   },
   {
    "section": "KNOW",
    "ch": 5,
-   "text": "Vee assumes Randi is texting some boy.",
-   "quote": "Some boy, Vee thought, amused, and looked back at her page.",
+   "text": "Vee does not know Randi helped arrange Pace’s arrival.",
+   "quote": "Some boy, Vee thought, amused",
+   "detail_quote": "He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table",
    "support": [
-    "A119",
-    "C159"
+    "B114",
+    "C92"
    ]
   },
   {
@@ -1337,6 +1535,7 @@
    "ch": 5,
    "text": "At the place on Wilson, Vee is stuck on a challenge integral.",
    "quote": "I'm stuck on this integral I can't solve.",
+   "detail_quote": "She had been stuck on the problem for forty minutes when Randi suggested they move to the place on Wilson, and stuck on it for another twenty after they got there",
    "support": [
     "A122",
     "C158",
@@ -1348,6 +1547,7 @@
    "ch": 5,
    "text": "Cassie points out a guy looking at Vee.",
    "quote": "That cute guy in line is looking at you.",
+   "detail_quote": "That cute guy in line is looking at you.",
    "support": [
     "A123",
     "B117",
@@ -1360,6 +1560,7 @@
    "ch": 5,
    "text": "Pace offers to help Vee with math.",
    "quote": "It sounds like you're having trouble with math. Can I help?",
+   "detail_quote": "It sounds like you're having trouble with math. Can I help?",
    "support": [
     "A124",
     "B118",
@@ -1372,6 +1573,7 @@
    "ch": 5,
    "text": "Vee borrows Randi's name bit.",
    "quote": "She had watched Randi do it the day they'd met, in the lecture hall",
+   "detail_quote": "She had watched Randi do it the day they'd met, in the lecture hall",
    "support": [
     "A125",
     "C160",
@@ -1381,11 +1583,12 @@
   {
    "section": "STORY",
    "ch": 5,
-   "text": "Pace identifies a useful formula as Euler’s.",
-   "quote": "You've done Euler's. e-to-the-i-x.",
+   "text": "Vee solves the problem after Pace’s hint.",
+   "quote": "At the bottom sat a plain answer with no circle left in it.",
+   "detail_quote": "The way he had given her back the pencil at the exact line where she could solve it herself.",
    "support": [
     "A126",
-    "B119",
+    "B120",
     "C161",
     "D59"
    ]
@@ -1395,6 +1598,7 @@
    "ch": 5,
    "text": "Pace explains Bessel's correction to Randi.",
    "quote": "Bessel's correction. It accounts for the fact that you've estimated the mean from the data",
+   "detail_quote": "Put them together, at right angles, and they turn into a single thing that's suddenly plain",
    "support": [
     "A127",
     "C161",
@@ -1406,6 +1610,7 @@
    "ch": 5,
    "text": "Pace asks to call Vee.",
    "quote": "But I'd love to see you sometime. May I call you?",
+   "detail_quote": "A man doesn't forget his coffee over a girl he isn't going to call.",
    "support": [
     "A129",
     "B110",
@@ -1414,10 +1619,22 @@
    ]
   },
   {
+   "section": "REL",
+   "ch": 5,
+   "text": "Vee gives Pace her phone number.",
+   "quote": "She gave it to him.",
+   "detail_quote": "She gave it to him.",
+   "support": [
+    "B111",
+    "C68"
+   ]
+  },
+  {
    "section": "STORY",
    "ch": 5,
    "text": "Randi notes that Pace left without his coffee.",
    "quote": "A man doesn't forget his coffee over a girl he isn't going to call.",
+   "detail_quote": "A man doesn't forget his coffee over a girl he isn't going to call.",
    "support": [
     "A131",
     "B124",
@@ -1430,6 +1647,7 @@
    "ch": 5,
    "text": "Pace texts Vee twenty minutes later.",
    "quote": "He'd been gone twenty minutes and the table had gone back to its books",
+   "detail_quote": "a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt.",
    "support": [
     "A132",
     "B125",
@@ -1438,10 +1656,33 @@
    ]
   },
   {
+   "section": "REL",
+   "ch": 5,
+   "text": "Pace invites Vee for frozen yogurt.",
+   "quote": "a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt",
+   "detail_quote": "a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt",
+   "support": [
+    "B112",
+    "D64"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 5,
+   "text": "Vee accepts the frozen-yogurt outing.",
+   "quote": "You should go,\" Randi said.",
+   "detail_quote": "By late afternoon she and Pace were standing under the neon in a too-bright shop",
+   "support": [
+    "B126",
+    "C69"
+   ]
+  },
+  {
    "section": "STORY",
    "ch": 5,
    "text": "At froyo, Pace explains his topping system.",
    "quote": "Tart on the bottom holds up under the heavy ones.",
+   "detail_quote": "By late afternoon she and Pace were standing under the neon in a too-bright shop",
    "support": [
     "A134",
     "C165"
@@ -1450,12 +1691,24 @@
   {
    "section": "STORY",
    "ch": 5,
+   "text": "Pace pays for both frozen-yogurt cups.",
+   "quote": "He weighed his own cup and paid for both",
+   "detail_quote": "By late afternoon she and Pace were standing under the neon in a too-bright shop",
+   "support": [
+    "B127",
+    "C165",
+    "D65"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 5,
    "text": "Vee tells Pace that his kindness means a great deal to her.",
    "quote": "This is the nicest a person has been to me in a really long time.",
+   "detail_quote": "This is the nicest a person has been to me in a really long time. And it's froyo.",
    "support": [
     "A135",
-    "B128",
-    "D65"
+    "B128"
    ]
   },
   {
@@ -1463,41 +1716,21 @@
    "ch": 5,
    "text": "Pace marks a small right-angle cross in the margin.",
    "quote": "two short strokes crossing at a right angle, nothing else",
+   "detail_quote": "two short strokes crossing at a right angle, nothing else",
    "support": [
     "A136",
     "D58"
    ]
   },
   {
-   "section": "REL",
+   "section": "MOTIF",
    "ch": 5,
-   "text": "Pace introduces himself to Vee.",
-   "quote": "I'm Pace,\" he said.",
+   "text": "Pace returns Vee’s pencil when she can finish the problem herself.",
+   "quote": "He set the pencil back in her hand.",
+   "detail_quote": "He set the pencil back in her hand.",
    "support": [
-    "B108",
-    "C160"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 5,
-   "text": "Vee gives Pace her phone number.",
-   "quote": "She gave it to him.",
-   "support": [
-    "B111",
-    "C68",
-    "D63"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 5,
-   "text": "Pace invites Vee for frozen yogurt.",
-   "quote": "a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt",
-   "support": [
-    "B112",
-    "C69",
-    "D64"
+    "B115",
+    "D58"
    ]
   },
   {
@@ -1505,6 +1738,7 @@
    "ch": 5,
    "text": "Pace asks Vee what draws her to economics.",
    "quote": "What's drawing you to it?",
+   "detail_quote": "Did I just warn a math PhD that my calculus was hard?",
    "support": [
     "B122",
     "C162"
@@ -1515,6 +1749,7 @@
    "ch": 5,
    "text": "Vee tells Pace about a research project.",
    "quote": "She talked for what was probably four or five minutes about a research project",
+   "detail_quote": "She talked for what was probably four or five minutes about a research project",
    "support": [
     "B123",
     "C162",
@@ -1522,64 +1757,14 @@
    ]
   },
   {
-   "section": "STORY",
-   "ch": 5,
-   "text": "Vee accepts the frozen-yogurt outing.",
-   "quote": "You should go,\" Randi said.",
-   "support": [
-    "B126",
-    "C69"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 5,
-   "text": "Pace pays for both frozen-yogurt cups.",
-   "quote": "He weighed his own cup and paid for both",
-   "support": [
-    "B127",
-    "C165",
-    "D65"
-   ]
-  },
-  {
-   "section": "KNOW",
-   "ch": 5,
-   "text": "Vee does not know Randi helped arrange Pace’s arrival.",
-   "quote": "Some boy, Vee thought, amused",
-   "support": [
-    "B114",
-    "C92"
-   ]
-  },
-  {
    "section": "REL",
    "ch": 5,
-   "text": "Randi arranges for Pace to encounter Vee at the coffee shop.",
-   "quote": "Randi was texting — thumbs quick, eyes down",
+   "text": "Pace introduces himself to Vee.",
+   "quote": "I'm Pace,\" he said.",
+   "detail_quote": "I'm Pace,\" he said.",
    "support": [
-    "B107",
-    "C92"
-   ]
-  },
-  {
-   "section": "MOTIF",
-   "ch": 5,
-   "text": "Pace returns Vee’s pencil when she can finish the problem herself.",
-   "quote": "He set the pencil back in her hand.",
-   "support": [
-    "B115",
-    "D58"
-   ]
-  },
-  {
-   "section": "WHO",
-   "ch": 5,
-   "text": "Vee is studying economics.",
-   "quote": "What are you studying?\" Pace said. \"Apart from stats.\" \"Econ.",
-   "support": [
-    "C44",
-    "B122"
+    "B108",
+    "C160"
    ]
   },
   {
@@ -1587,6 +1772,7 @@
    "ch": 6,
    "text": "Randi asks Pace to tell her about Vee.",
    "quote": "Tell me,\" she said again, against his mouth.",
+   "detail_quote": "Tell me,\" she said again, against his mouth.",
    "support": [
     "A138",
     "B130",
@@ -1599,6 +1785,7 @@
    "ch": 6,
    "text": "Pace withholds Vee’s vulnerable statement from Randi.",
    "quote": "and did not hand it over. It was hers.",
+   "detail_quote": "He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over.",
    "support": [
     "A139",
     "B132",
@@ -1610,6 +1797,7 @@
    "ch": 6,
    "text": "Pace waits with one glass of red wine.",
    "quote": "one glass on the low table, red, poured and left to open while he waited for her",
+   "detail_quote": "She drank, and looked at him over the rim while she did, and then she came down and kissed him with it still in her mouth",
    "support": [
     "A140",
     "C167"
@@ -1620,6 +1808,7 @@
    "ch": 6,
    "text": "Randi straddles Pace on the couch.",
    "quote": "She put a knee to either side of his thighs and settled",
+   "detail_quote": "She drank, and looked at him over the rim while she did, and then she came down and kissed him with it still in her mouth",
    "support": [
     "A142",
     "B137",
@@ -1632,10 +1821,11 @@
    "ch": 6,
    "text": "Randi kisses Pace with wine in her mouth.",
    "quote": "she came down and kissed him with it still in her mouth",
+   "detail_quote": "Everything he was going to have of it he was going to have like this.",
    "support": [
     "A142",
     "B138",
-    "C167",
+    "C70",
     "D68"
    ]
   },
@@ -1644,6 +1834,7 @@
    "ch": 6,
    "text": "Pace tells Randi that Vee built a large frozen-yogurt cup.",
    "quote": "She built a cup,\" he said, \"like nobody had ever told her when to stop.",
+   "detail_quote": "She built a cup,\" he said, \"like nobody had ever told her when to stop.",
    "support": [
     "A143",
     "B131",
@@ -1654,11 +1845,11 @@
   {
    "section": "STORY",
    "ch": 6,
-   "text": "Pace says Vee is easy to listen to.",
-   "quote": "She's easy to listen to.",
+   "text": "Pace says Vee is easy to listen to, and Randi goes quiet.",
+   "quote": "Randi went quiet under his hands.",
+   "detail_quote": "Not the ease of a minute ago, and not the readiness either — something she was holding level.",
    "support": [
     "A144",
-    "B140",
     "C169",
     "D71"
    ]
@@ -1666,8 +1857,21 @@
   {
    "section": "STORY",
    "ch": 6,
+   "text": "Pace says Vee is easy to listen to.",
+   "quote": "She's easy to listen to.",
+   "detail_quote": "one glass on the low table, red, poured and left to open while he waited for her",
+   "support": [
+    "A140",
+    "B140",
+    "C169"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 6,
    "text": "Randi says she already likes Vee.",
    "quote": "I already do,\" Randi said",
+   "detail_quote": "She's easy to listen to.\" Randi went quiet under his hands.",
    "support": [
     "A145",
     "B141",
@@ -1678,22 +1882,23 @@
   {
    "section": "STORY",
    "ch": 6,
-   "text": "Randi finishes the wine in one swallow.",
-   "quote": "she reached past his shoulder and finished the glass in one long swallow",
+   "text": "Pace drank none of the wine.",
+   "quote": "He had not had a drop of it. He could taste nothing else.",
+   "detail_quote": "Everything he was going to have of it he was going to have like this.",
    "support": [
-    "A145",
-    "B142",
-    "D72"
+    "A146",
+    "D68"
    ]
   },
   {
    "section": "STORY",
    "ch": 6,
-   "text": "Pace drank none of the wine.",
-   "quote": "He had not had a drop of it. He could taste nothing else.",
+   "text": "Randi finishes the wine in one swallow.",
+   "quote": "she reached past his shoulder and finished the glass in one long swallow",
+   "detail_quote": "she reached past his shoulder and finished the glass in one long swallow",
    "support": [
-    "A146",
-    "D68"
+    "B142",
+    "D72"
    ]
   },
   {
@@ -1701,9 +1906,33 @@
    "ch": 6,
    "text": "Randi locks Pace’s door upon entering.",
    "quote": "The deadbolt went over before he had got up off the couch.",
+   "detail_quote": "The deadbolt went over before he had got up off the couch. She always locked it behind her, first thing",
    "support": [
     "B133",
     "C107"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 6,
+   "text": "Randi leads Pace away by the hand.",
+   "quote": "got up off him, and held out her hand",
+   "detail_quote": "She's easy to listen to.\" Randi went quiet under his hands.",
+   "support": [
+    "B143",
+    "C169",
+    "D72"
+   ]
+  },
+  {
+   "section": "MOTIF",
+   "ch": 6,
+   "text": "Randi transfers wine to Pace through kisses.",
+   "quote": "Everything he was going to have of it he was going to have like this.",
+   "detail_quote": "She drank, and looked at him over the rim while she did, and then she came down and kissed him with it still in her mouth",
+   "support": [
+    "B135",
+    "C167"
    ]
   },
   {
@@ -1711,6 +1940,7 @@
    "ch": 6,
    "text": "Randi repeats tell me.",
    "quote": "Tell me,\" she said again, against his mouth.",
+   "detail_quote": "She built a cup,\" he said, \"like nobody had ever told her when to stop.",
    "support": [
     "B134",
     "C168"
@@ -1721,20 +1951,11 @@
    "ch": 6,
    "text": "Randi enters Pace’s house without a verbal greeting.",
    "quote": "There was no hello in it.",
+   "detail_quote": "The deadbolt went over before he had got up off the couch.",
    "support": [
     "B136",
-    "C166"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 6,
-   "text": "Randi leads Pace away by the hand.",
-   "quote": "got up off him, and held out her hand",
-   "support": [
-    "B143",
-    "C169",
-    "D72"
+    "C166",
+    "D67"
    ]
   },
   {
@@ -1742,6 +1963,7 @@
    "ch": 7,
    "text": "Vee did synchronized swimming at sixteen.",
    "quote": "the one she'd worn at sixteen, for synchronized swimming, when there'd been less of her to fill it",
+   "detail_quote": "the one she'd worn at sixteen, for synchronized swimming, when there'd been less of her to fill it.",
    "support": [
     "A149",
     "C46"
@@ -1752,6 +1974,7 @@
    "ch": 7,
    "text": "Cassie has a boxy frame.",
    "quote": "she'd sooner put her boxy frame in a t-shirt and cut-offs.",
+   "detail_quote": "she'd sooner put her boxy frame in a t-shirt and cut-offs.",
    "support": [
     "A150",
     "C45",
@@ -1763,21 +1986,10 @@
    "ch": 7,
    "text": "Vee lives in Vawter.",
    "quote": "at the corner where she turned off for Vawter",
+   "detail_quote": "at the corner where she turned off for Vawter.",
    "support": [
     "A151",
     "C47"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 7,
-   "text": "Cassie shields Vee from the catcalls.",
-   "quote": "She'd kept it for Vee.",
-   "support": [
-    "A152",
-    "B146",
-    "C171",
-    "D75"
    ]
   },
   {
@@ -1785,6 +1997,7 @@
    "ch": 7,
    "text": "Men in the bleachers comment on Vee’s body.",
    "quote": "You won't need floaties with those!",
+   "detail_quote": "You won't need floaties with those!\" — the bleachers breaking up behind it",
    "support": [
     "A153",
     "B152",
@@ -1797,6 +2010,7 @@
    "ch": 7,
    "text": "Cassie calls them tossers.",
    "quote": "They will never know the love of a woman.",
+   "detail_quote": "Tossers.\" A beat. \"They will never know the love of a woman.",
    "support": [
     "A154",
     "B153",
@@ -1806,8 +2020,33 @@
   {
    "section": "STORY",
    "ch": 7,
+   "text": "Cassie makes Vee laugh after men heckle her.",
+   "quote": "And Vee laughed — more than the joke had earned",
+   "detail_quote": "Cassie waded to the middle of her ribs and stopped",
+   "support": [
+    "B146",
+    "C171",
+    "D75"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 7,
+   "text": "Vee swims into the deep water alone.",
+   "quote": "She crossed it, let her feet lose the floor",
+   "detail_quote": "She had loved this before she had a body to be a problem",
+   "support": [
+    "B154",
+    "C171",
+    "D76"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 7,
    "text": "Vee grieves underwater.",
    "quote": "She stayed until her lungs asked, and a beat past that",
+   "detail_quote": "She stayed until her lungs asked, and a beat past that, in the quiet and the old uncomplicated belonging, and grieved, a little.",
    "support": [
     "A155",
     "B155",
@@ -1818,8 +2057,21 @@
   {
    "section": "STORY",
    "ch": 7,
+   "text": "Vee experiences relief underwater.",
+   "quote": "Something in her chest that had stood at attention all afternoon quietly sat down.",
+   "detail_quote": "She stayed until her lungs asked, and a beat past that, in the quiet and the old uncomplicated belonging, and grieved, a little.",
+   "support": [
+    "B150",
+    "C172",
+    "D76"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 7,
    "text": "Cassie starts a water fight with Vee.",
    "quote": "a low sheet of water leaping the whole gap",
+   "detail_quote": "You can't grieve and fight your best friend for a mouthful of pool at the same time; the splashing won.",
    "support": [
     "A156",
     "B156",
@@ -1832,6 +2084,7 @@
    "ch": 7,
    "text": "Pace asks Vee to dinner on Saturday.",
    "quote": "Saturday, he'd said — would she have dinner with him.",
+   "detail_quote": "Saturday, he'd said — would she have dinner with him.",
    "support": [
     "A157",
     "B147",
@@ -1844,6 +2097,7 @@
    "ch": 7,
    "text": "Pace tells Vee not to answer his invitation that night.",
    "quote": "Don't answer tonight.",
+   "detail_quote": "when he said, \"Don't answer tonight.",
    "support": [
     "A157",
     "B148",
@@ -1854,20 +2108,9 @@
   {
    "section": "STORY",
    "ch": 7,
-   "text": "Vee opens Pace’s text thread at a crosswalk.",
-   "quote": "At the crosswalk she took her phone out and opened the thread",
-   "support": [
-    "A159",
-    "B158",
-    "C175",
-    "D80"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 7,
    "text": "Vee reflects on Pace’s dinner invitation in the locker room.",
    "quote": "Who asked a girl out and then told her not to answer?",
+   "detail_quote": "Who asked a girl out and then told her not to answer?",
    "support": [
     "B157",
     "C174",
@@ -1877,33 +2120,25 @@
   {
    "section": "STORY",
    "ch": 7,
-   "text": "Vee swims into the deep water alone.",
-   "quote": "She crossed it, let her feet lose the floor",
-   "support": [
-    "B154",
-    "C171",
-    "D76"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 7,
-   "text": "Vee experiences relief underwater.",
-   "quote": "Something in her chest that had stood at attention all afternoon quietly sat down.",
-   "support": [
-    "B150",
-    "C172",
-    "D76"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 7,
    "text": "Vee thinks Pace is not gorgeous.",
    "quote": "He wasn't gorgeous. She'd decided that on the walk, trying to be fair about it.",
+   "detail_quote": "He wasn't gorgeous. She'd decided that on the walk, trying to be fair about it.",
    "support": [
     "A158",
     "D79"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 7,
+   "text": "Vee opens Pace’s text thread at a crosswalk.",
+   "quote": "At the crosswalk she took her phone out and opened the thread",
+   "detail_quote": "her thumb hung over the keys while the light went to WALK, and back.",
+   "support": [
+    "A159",
+    "B158",
+    "C175",
+    "D80"
    ]
   },
   {
@@ -1911,6 +2146,7 @@
    "ch": 8,
    "text": "Christine works at the restaurant Pace chooses.",
    "quote": "the woman who came around the counter to seat them was older",
+   "detail_quote": "the woman who came around the counter to seat them was older",
    "support": [
     "A161",
     "B160",
@@ -1923,6 +2159,7 @@
    "ch": 8,
    "text": "Pace is a powerlifter.",
    "quote": "I'm a powerlifter. I compete.",
+   "detail_quote": "Best I've ever done is third.",
    "support": [
     "A162",
     "B161",
@@ -1935,6 +2172,7 @@
    "ch": 8,
    "text": "Pace has lived in town for four years.",
    "quote": "Four years he'd been in town.",
+   "detail_quote": "Four years he'd been in town. He wrote six hours a day and then stopped",
    "support": [
     "A163",
     "B162",
@@ -1945,8 +2183,20 @@
   {
    "section": "WHO",
    "ch": 8,
+   "text": "Pace has lived in town for four years and writes six hours a day.",
+   "quote": "Four years he'd been in town. He wrote six hours a day and then stopped",
+   "detail_quote": "Four years he'd been in town. He wrote six hours a day and then stopped",
+   "support": [
+    "A163",
+    "C50"
+   ]
+  },
+  {
+   "section": "WHO",
+   "ch": 8,
    "text": "Vee likes Carole King.",
    "quote": "she said Carole King before she could think of anything cooler",
+   "detail_quote": "she said Carole King before she could think of anything cooler",
    "support": [
     "A164",
     "B176"
@@ -1957,9 +2207,10 @@
    "ch": 8,
    "text": "Vee texts that she would love to go.",
    "quote": "What she sent was the shortest one.",
+   "detail_quote": "His came back before she'd set the phone down. I'll meet you in your lobby at seven.",
    "support": [
     "A165",
-    "B171",
+    "B163",
     "C176",
     "D82"
    ]
@@ -1969,6 +2220,7 @@
    "ch": 8,
    "text": "Cassie calls Pace a man, not a boy.",
    "quote": "That's not a boy,\" she said. \"That's a man.",
+   "detail_quote": "That's not a boy,\" she said. \"That's a man.",
    "support": [
     "A166",
     "B172",
@@ -1981,6 +2233,7 @@
    "ch": 8,
    "text": "Pace meets Vee in her dorm lobby.",
    "quote": "I'll meet you in your lobby at seven.",
+   "detail_quote": "He took her down it like it was obvious, and it wasn't",
    "support": [
     "A167",
     "B164",
@@ -1993,6 +2246,7 @@
    "ch": 8,
    "text": "Vee permits Pace to choose her food.",
    "quote": "May I choose?",
+   "detail_quote": "May I choose?",
    "support": [
     "A168",
     "B166",
@@ -2001,10 +2255,23 @@
    ]
   },
   {
+   "section": "REL",
+   "ch": 8,
+   "text": "Pace takes Vee to a Middle Eastern restaurant.",
+   "quote": "It was Middle Eastern.",
+   "detail_quote": "He took her hand. No ceremony, no question in it",
+   "support": [
+    "A168",
+    "B165",
+    "C71"
+   ]
+  },
+  {
    "section": "STORY",
    "ch": 8,
    "text": "Vee eats without watching herself.",
    "quote": "She wasn't watching herself eat, as some part of her almost always was",
+   "detail_quote": "it kept going down and down into something that had been empty a lot longer than since noon.",
    "support": [
     "A169",
     "B169",
@@ -2016,6 +2283,7 @@
    "ch": 8,
    "text": "They drink mint tea in brass-caged glasses.",
    "quote": "set into little cages of worked brass with a handle off the side",
+   "detail_quote": "set into little cages of worked brass with a handle off the side",
    "support": [
     "A170",
     "C181"
@@ -2026,6 +2294,7 @@
    "ch": 8,
    "text": "Pace takes Vee’s hand after dinner.",
    "quote": "He took her hand.",
+   "detail_quote": "like her hand had been wrong all evening, all its life maybe, for want of his exactly",
    "support": [
     "A171",
     "B182",
@@ -2038,6 +2307,7 @@
    "ch": 8,
    "text": "Vee states her rule against kissing a recently met man.",
    "quote": "I don't kiss a man I've known a couple of days",
+   "detail_quote": "But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.",
    "support": [
     "A172",
     "B183",
@@ -2050,6 +2320,7 @@
    "ch": 8,
    "text": "Vee makes an exception to her rule.",
    "quote": "I'm making an exception.",
+   "detail_quote": "But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.",
    "support": [
     "A173",
     "B185",
@@ -2057,32 +2328,13 @@
    ]
   },
   {
-   "section": "REL",
-   "ch": 8,
-   "text": "Vee accepts Pace’s dinner invitation.",
-   "quote": "I'd love to.",
-   "support": [
-    "B163",
-    "C176"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 8,
-   "text": "Pace takes Vee to a Middle Eastern restaurant.",
-   "quote": "It was Middle Eastern.",
-   "support": [
-    "B165",
-    "C71",
-    "D84"
-   ]
-  },
-  {
-   "section": "REL",
+   "section": "STORY",
    "ch": 8,
    "text": "Vee kisses Pace for the first time.",
    "quote": "She kissed him.",
+   "detail_quote": "I'm making an exception.",
    "support": [
+    "A173",
     "B167",
     "C72",
     "D89"
@@ -2093,6 +2345,7 @@
    "ch": 8,
    "text": "Pace leaves the final inch of their first kiss to Vee.",
    "quote": "He stood in the shadow with her and left the last inch where it was.",
+   "detail_quote": "He stood in the shadow with her and left the last inch where it was.",
    "support": [
     "B170",
     "D90"
@@ -2101,19 +2354,9 @@
   {
    "section": "STORY",
    "ch": 8,
-   "text": "Pace arrives groomed for the date.",
-   "quote": "He'd showered and shaved and dressed and come to get her",
-   "support": [
-    "B173",
-    "C178",
-    "D84"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 8,
    "text": "Christine greets Pace warmly.",
    "quote": "she knew him — something in her eased at who'd walked in",
+   "detail_quote": "she knew him — something in her eased at who'd walked in",
    "support": [
     "B177",
     "D85"
@@ -2124,6 +2367,7 @@
    "ch": 8,
    "text": "Vee admits she cannot read the menu.",
    "quote": "I have no map.",
+   "detail_quote": "I have no map.",
    "support": [
     "B178",
     "C179"
@@ -2134,10 +2378,10 @@
    "ch": 8,
    "text": "Pace orders several dishes for Vee.",
    "quote": "he ordered, unhurried, deliberate, building it as he went",
+   "detail_quote": "Before that, I lift.\" A beat. \"I'm a powerlifter. I compete.",
    "support": [
     "B179",
-    "C180",
-    "D85"
+    "C180"
    ]
   },
   {
@@ -2145,6 +2389,7 @@
    "ch": 8,
    "text": "Vee eats bread with tabbouleh.",
    "quote": "she did what he did. Tore the bread.",
+   "detail_quote": "Before that, I lift.\" A beat. \"I'm a powerlifter. I compete.",
    "support": [
     "B180",
     "C180"
@@ -2155,6 +2400,7 @@
    "ch": 8,
    "text": "Vee listens to Pace describe his daily routine.",
    "quote": "He wrote six hours a day and then stopped",
+   "detail_quote": "Before that, I lift.\" A beat. \"I'm a powerlifter. I compete.",
    "support": [
     "B181",
     "C180",
@@ -2166,6 +2412,7 @@
    "ch": 8,
    "text": "Pace accepts Vee’s refusal without argument.",
    "quote": "He didn't argue.",
+   "detail_quote": "But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.",
    "support": [
     "B184",
     "C182"
@@ -2174,18 +2421,9 @@
   {
    "section": "STORY",
    "ch": 8,
-   "text": "Vee initiates the first kiss.",
-   "quote": "She kissed him.",
-   "support": [
-    "B186",
-    "D89"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 8,
    "text": "Vee kisses Pace again.",
    "quote": "Then she leaned in and took it.",
+   "detail_quote": "But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.",
    "support": [
     "B188",
     "C182"
@@ -2196,6 +2434,7 @@
    "ch": 9,
    "text": "Pace lives west of town off 614 past the gravel.",
    "quote": "He lives out west of town, off six-fourteen, past where it goes to gravel.",
+   "detail_quote": "He lives out west of town, off six-fourteen, past where it goes to gravel.",
    "support": [
     "A175",
     "B195",
@@ -2208,6 +2447,7 @@
    "ch": 9,
    "text": "Cassie has practice.",
    "quote": "She's got practice.",
+   "detail_quote": "The Smoothie Bird sat on its corner with the windows full of orange.",
    "support": [
     "A176",
     "C185",
@@ -2219,9 +2459,23 @@
    "ch": 9,
    "text": "Randi publicly calls Vee her dear friend.",
    "quote": "Vee's my dear friend,\" Randi said.",
+   "detail_quote": "Vee's my dear friend,\" Randi said.",
    "support": [
     "A178",
     "B193",
+    "C73",
+    "D99"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 9,
+   "text": "Randi holds Vee's hand on the table.",
+   "quote": "she held it there on the white top in plain view of the two of them",
+   "detail_quote": "she held it there on the white top in plain view of the two of them",
+   "support": [
+    "A190",
+    "B194",
     "C188",
     "D99"
    ]
@@ -2231,6 +2485,7 @@
    "ch": 9,
    "text": "Vee tells Cassie she kissed Pace.",
    "quote": "He was already walking away and I pulled him back and I did it. Me.",
+   "detail_quote": "And I didn't go.\" Vee looked up. \"Cass. I stopped. I made him stop. And I kissed him.",
    "support": [
     "A179",
     "B190",
@@ -2242,6 +2497,7 @@
    "ch": 9,
    "text": "Cassie asks whether Pace gave Vee drinks.",
    "quote": "How much did he give you to drink?",
+   "detail_quote": "I did it because I wanted to and I did it on purpose.",
    "support": [
     "A180",
     "D92"
@@ -2252,6 +2508,7 @@
    "ch": 9,
    "text": "Pace invites Vee hiking.",
    "quote": "he asked me hiking.",
+   "detail_quote": "Oh — and he asked me hiking. After, walking back.",
    "support": [
     "A181",
     "B191",
@@ -2264,6 +2521,7 @@
    "ch": 9,
    "text": "Cassie asks whether Pace is rich.",
    "quote": "Rich people hike. Poor people walk.",
+   "detail_quote": "I don't — I haven't been out there yet.",
    "support": [
     "A182",
     "B196"
@@ -2274,6 +2532,7 @@
    "ch": 9,
    "text": "Six days later, Randi gets Pace's name wrong.",
    "quote": "What is his name.\" Randi snapped her fingers twice",
+   "detail_quote": "What is his name.\" Randi snapped her fingers twice, reaching after it and not catching it. \"Paul?",
    "support": [
     "A183",
     "C94"
@@ -2284,6 +2543,7 @@
    "ch": 9,
    "text": "Six days later Randi takes Vee to the Smoothie Bird.",
    "quote": "The Smoothie Bird sat on its corner with the windows full of orange.",
+   "detail_quote": "The Smoothie Bird sat on its corner with the windows full of orange.",
    "support": [
     "B203",
     "C185",
@@ -2295,6 +2555,7 @@
    "ch": 9,
    "text": "Randi tells Vee about a date who talked about himself.",
    "quote": "His summer in Switzerland. His lacrosse numbers.",
+   "detail_quote": "His summer in Switzerland. His lacrosse numbers.",
    "support": [
     "A185",
     "C186",
@@ -2306,6 +2567,7 @@
    "ch": 9,
    "text": "Vee tells Randi that Pace asked to choose for her.",
    "quote": "You let him choose for you.\" Randi said it slowly",
+   "detail_quote": "You let him choose for you.\" Randi said it slowly",
    "support": [
     "A186",
     "B204",
@@ -2317,6 +2579,7 @@
    "ch": 9,
    "text": "Randi imagines Pace ravishing Vee during the hike.",
    "quote": "let your mountain man ravish you against a tree",
+   "detail_quote": "let your mountain man ravish you against a tree",
    "support": [
     "B206",
     "C187",
@@ -2328,6 +2591,7 @@
    "ch": 9,
    "text": "Vee says Pace would ask first.",
    "quote": "Before he ravished me.",
+   "detail_quote": "Before he ravished me.",
    "support": [
     "A188",
     "B207"
@@ -2338,6 +2602,7 @@
    "ch": 9,
    "text": "Brooke approaches Randi’s table.",
    "quote": "Brooke,\" Randi said to the smile, warm",
+   "detail_quote": "We missed you Thursday,\" Brooke said to Randi",
    "support": [
     "A189",
     "B208",
@@ -2348,31 +2613,9 @@
   {
    "section": "STORY",
    "ch": 9,
-   "text": "Randi holds Vee's hand on the table.",
-   "quote": "she held it there on the white top in plain view of the two of them",
-   "support": [
-    "A190",
-    "B194",
-    "C188",
-    "D99"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 9,
-   "text": "Vee leaves feeling chosen.",
-   "quote": "She felt picked. She carried it the whole way home.",
-   "support": [
-    "A192",
-    "B211",
-    "D100"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 9,
    "text": "Vee tells Randi that she kissed Pace.",
    "quote": "I kissed him.",
+   "detail_quote": "Ask and then ravish,\" Randi said.",
    "support": [
     "B205",
     "C187",
@@ -2382,8 +2625,21 @@
   {
    "section": "STORY",
    "ch": 9,
+   "text": "Vee leaves feeling chosen.",
+   "quote": "She felt picked. She carried it the whole way home.",
+   "detail_quote": "She felt picked. She carried it the whole way home.",
+   "support": [
+    "A192",
+    "B211",
+    "D100"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 9,
    "text": "Vee spins around the dorm room from happiness.",
    "quote": "she spun, once, quick, arms going up",
+   "detail_quote": "And I didn't go.\" Vee looked up. \"Cass. I stopped. I made him stop. And I kissed him.",
    "support": [
     "B200",
     "C183",
@@ -2395,6 +2651,7 @@
    "ch": 9,
    "text": "Randi asks Vee for a report about Pace.",
    "quote": "I need a full report and I need it now.",
+   "detail_quote": "The Smoothie Bird sat on its corner with the windows full of orange.",
    "support": [
     "B192",
     "C185",
@@ -2402,30 +2659,11 @@
    ]
   },
   {
-   "section": "MOTIF",
-   "ch": 9,
-   "text": "Cassie tells Vee to borrow good hiking shoes.",
-   "quote": "Borrow good ones,\" she said",
-   "support": [
-    "B197",
-    "C184"
-   ]
-  },
-  {
-   "section": "WHO",
-   "ch": 10,
-   "text": "Pace drives an old white pickup with a bench seat.",
-   "quote": "the old white pickup, the white gone dull in the wet",
-   "support": [
-    "A194",
-    "C189"
-   ]
-  },
-  {
    "section": "STORY",
    "ch": 10,
    "text": "Vee is to be inducted into an honor society.",
    "quote": "The honor society, the one with the certificate and the dinner",
+   "detail_quote": "The honor society, the one with the certificate and the dinner",
    "support": [
     "A195",
     "B230",
@@ -2438,6 +2676,7 @@
    "ch": 10,
    "text": "Pace gives Vee his dry flannel shirt.",
    "quote": "He drew it out from under the rest and held it out to her",
+   "detail_quote": "He drew it out from under the rest and held it out to her and didn't say anything.",
    "support": [
     "A197",
     "B215",
@@ -2450,6 +2689,7 @@
    "ch": 10,
    "text": "Vee deliberately undresses before Pace in the truck.",
    "quote": "She looked down anyway, and his eyes went with hers.",
+   "detail_quote": "The shirt came open the whole way and her hands went up to her shoulders and pushed it back.",
    "support": [
     "A198",
     "B216",
@@ -2460,8 +2700,20 @@
   {
    "section": "STORY",
    "ch": 10,
+   "text": "Vee removes her wet shirt while Pace watches.",
+   "quote": "The shirt came open the whole way",
+   "detail_quote": "And I took my wet shirt off in front of him. On purpose.",
+   "support": [
+    "B235",
+    "C75"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 10,
    "text": "Vee tells Pace about the unaffordable silk dress.",
    "quote": "It was silk. Russet",
+   "detail_quote": "We take nothing and leave nothing,\" he said.",
    "support": [
     "A199",
     "B231",
@@ -2472,10 +2724,12 @@
   {
    "section": "STORY",
    "ch": 10,
-   "text": "Vee hikes in Meg's boots, which are a half size too big.",
-   "quote": "Meg's boots, a half-size big, stiff at the ankle",
+   "text": "Vee reports that her borrowed boot is rubbing.",
+   "quote": "The right one. It's rubbing.",
+   "detail_quote": "The boots were wrong. She'd known it putting them on — Meg's boots, a half-size big",
    "support": [
     "A200",
+    "B223",
     "C189",
     "D103"
    ]
@@ -2485,6 +2739,7 @@
    "ch": 10,
    "text": "Pace treats Vee’s blister.",
    "quote": "He took a kit from the pack, opened it on his knee, cut a square of moleskin",
+   "detail_quote": "He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb",
    "support": [
     "A201",
     "B214",
@@ -2497,6 +2752,7 @@
    "ch": 10,
    "text": "Pace watches Vee see the valley.",
    "quote": "he was already looking at her — not at the valley",
+   "detail_quote": "The summit was a shelf of black rock that ran out to where everything dropped away",
    "support": [
     "A202",
     "B226",
@@ -2509,6 +2765,7 @@
    "ch": 10,
    "text": "Pace gives Vee a homemade sandwich.",
    "quote": "Made them this morning,\" he said.",
+   "detail_quote": "The summit was a shelf of black rock that ran out to where everything dropped away",
    "support": [
     "A203",
     "B227",
@@ -2521,6 +2778,7 @@
    "ch": 10,
    "text": "Vee learns Pace’s leave-no-trace rule.",
    "quote": "We take nothing and leave nothing",
+   "detail_quote": "We take nothing and leave nothing,\" he said.",
    "support": [
     "A204",
     "B217",
@@ -2531,8 +2789,20 @@
   {
    "section": "STORY",
    "ch": 10,
+   "text": "Pace retrieves Vee’s discarded pit.",
+   "quote": "He picked the pit up between two fingers",
+   "detail_quote": "We take nothing and leave nothing,\" he said.",
+   "support": [
+    "B229",
+    "D106"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 10,
    "text": "Pace says the dress sounds beautiful.",
    "quote": "That sounds like a beautiful dress.",
+   "detail_quote": "That sounds like a beautiful dress.",
    "support": [
     "A205",
     "D107"
@@ -2543,6 +2813,7 @@
    "ch": 10,
    "text": "Rain hits on the descent.",
    "quote": "It came down hard. It came down the way mountain rain comes",
+   "detail_quote": "He drew it out from under the rest and held it out to her and didn't say anything.",
    "support": [
     "A206",
     "B232",
@@ -2555,6 +2826,7 @@
    "ch": 10,
    "text": "Vee calls Pace back into the cab.",
    "quote": "She rapped on the driver's window with her knuckles",
+   "detail_quote": "She lifted a hand off the bench and crooked a finger at him. Come in.",
    "support": [
     "A207",
     "B234",
@@ -2567,6 +2839,7 @@
    "ch": 10,
    "text": "A campus cop's siren ends the drop-off at the fire lane.",
    "quote": "The siren squawked — one short electronic bark",
+   "detail_quote": "The siren squawked — one short electronic bark",
    "support": [
     "A209",
     "B237",
@@ -2579,6 +2852,7 @@
    "ch": 10,
    "text": "Vee keeps the flannel.",
    "quote": "I kept the shirt. I didn't ask. He didn't ask for it back.",
+   "detail_quote": "a flannel shirt. Folded. Clean. Dry. He drew it out from under the rest and held it out to her",
    "support": [
     "A210",
     "B220",
@@ -2591,6 +2865,7 @@
    "ch": 10,
    "text": "Pace's bright blue shirt.",
    "quote": "His shirt was bright blue. Synthetic, fitted close",
+   "detail_quote": "The boots were wrong. She'd known it putting them on — Meg's boots, a half-size big",
    "support": [
     "A211",
     "C189"
@@ -2601,6 +2876,7 @@
    "ch": 10,
    "text": "Vee hears her mother's word, floozie.",
    "quote": "The voice said floozie in her mother's exact word",
+   "detail_quote": "The voice said floozie in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.",
    "support": [
     "A212",
     "C111"
@@ -2609,8 +2885,31 @@
   {
    "section": "STORY",
    "ch": 10,
+   "text": "Pace removes Vee’s boot and sock.",
+   "quote": "He had the boot unlaced.",
+   "detail_quote": "He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb",
+   "support": [
+    "B224",
+    "C190"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 10,
+   "text": "Vee brings Pace’s cold hand under the flannel.",
+   "quote": "She brought his hand in against her belly",
+   "detail_quote": "She lifted a hand off the bench and crooked a finger at him. Come in.",
+   "support": [
+    "B236",
+    "C194"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 10,
    "text": "Vee tells Cassie about the hike.",
    "quote": "So Vee told her",
+   "detail_quote": "I'm keeping the shirt.\" \"Keep the shirt.",
    "support": [
     "B238",
     "C195",
@@ -2622,6 +2921,7 @@
    "ch": 10,
    "text": "Pace takes Vee on her first hike.",
    "quote": "I have never gotten anywhere on my own legs in my life and I got up a mountain.",
+   "detail_quote": "I have never gotten anywhere on my own legs in my life and I got up a mountain.",
    "support": [
     "B213",
     "C74"
@@ -2630,22 +2930,12 @@
   {
    "section": "STORY",
    "ch": 10,
-   "text": "Pace retrieves Vee’s discarded pit.",
-   "quote": "He picked the pit up between two fingers",
+   "text": "Vee confronts the steep trail from the gravel lot.",
+   "quote": "The trail did not look like a trail.",
+   "detail_quote": "The trail did not look like a trail.",
    "support": [
-    "B229",
-    "C192",
-    "D106"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 10,
-   "text": "Pace removes Vee’s boot and sock.",
-   "quote": "He had the boot unlaced.",
-   "support": [
-    "B224",
-    "C190"
+    "B221",
+    "D102"
    ]
   },
   {
@@ -2653,19 +2943,10 @@
    "ch": 10,
    "text": "Pace gives Vee privacy to change in the truck.",
    "quote": "He opened his door and got out.",
+   "detail_quote": "He drew it out from under the rest and held it out to her and didn't say anything.",
    "support": [
     "B233",
     "C193"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 10,
-   "text": "Vee brings Pace’s cold hand under the flannel.",
-   "quote": "She brought his hand in against her belly",
-   "support": [
-    "B236",
-    "C194"
    ]
   },
   {
@@ -2673,6 +2954,7 @@
    "ch": 11,
    "text": "Randi says she wants \"us\".",
    "quote": "I want us,\" she said, at his ear, torn out of her",
+   "detail_quote": "I want us,\" she said, at his ear, torn out of her",
    "support": [
     "A214",
     "B244",
@@ -2685,6 +2967,7 @@
    "ch": 11,
    "text": "Randi leaves immediately after sex.",
    "quote": "she was up in the lamplight with the blanket held closed",
+   "detail_quote": "She had never left after. Not once, since the first night",
    "support": [
     "A215",
     "B254",
@@ -2697,6 +2980,7 @@
    "ch": 11,
    "text": "Pace keeps the truck scene from Randi.",
    "quote": "That she had given him herself, in the truck with the rain coming down, and he kept it.",
+   "detail_quote": "He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it.",
    "support": [
     "A216",
     "C95"
@@ -2707,6 +2991,7 @@
    "ch": 11,
    "text": "Randi texts that she is on her way.",
    "quote": "Her text was on his phone when he got out: on my way.",
+   "detail_quote": "Her text was on his phone when he got out: on my way.",
    "support": [
     "A218",
     "C196"
@@ -2717,6 +3002,7 @@
    "ch": 11,
    "text": "Blondie plays.",
    "quote": "Blondie was going low in the front rooms",
+   "detail_quote": "Her text was on his phone when he got out: on my way.",
    "support": [
     "A219",
     "C196"
@@ -2727,6 +3013,7 @@
    "ch": 11,
    "text": "Randi brings no bag.",
    "quote": "saw the chair by the door with nothing on it",
+   "detail_quote": "He came through to meet her and saw the chair by the door with nothing on it",
    "support": [
     "A220",
     "B249",
@@ -2738,6 +3025,7 @@
    "ch": 11,
    "text": "Pace describes Vee’s perfume.",
    "quote": "She wears gardenia,\" he said. \"Gardenia and musk.",
+   "detail_quote": "She wears gardenia,\" he said. \"Gardenia and musk.",
    "support": [
     "A221",
     "B252",
@@ -2750,6 +3038,7 @@
    "ch": 11,
    "text": "Pace says Vee's stomach is soft.",
    "quote": "Her stomach is soft.",
+   "detail_quote": "I want us,\" she said, at his ear, torn out of her",
    "support": [
     "A222",
     "B253",
@@ -2762,6 +3051,7 @@
    "ch": 11,
    "text": "Randi declines food and leaves.",
    "quote": "No thanks.\" Bright, from inside the camisole going over her head.",
+   "detail_quote": "No thanks.\" Bright, from inside the camisole going over her head.",
    "support": [
     "A223",
     "B255",
@@ -2774,6 +3064,7 @@
    "ch": 11,
    "text": "Pace eats alone.",
    "quote": "He ate at the table. He was still hungry after and made more.",
+   "detail_quote": "He ate at the table. He was still hungry after and made more.",
    "support": [
     "A224",
     "B257"
@@ -2784,6 +3075,7 @@
    "ch": 11,
    "text": "Randi arrives at Pace’s house after his hike with Vee.",
    "quote": "Her text was on his phone when he got out: on my way.",
+   "detail_quote": "How was it?\" she said, into his mouth, and did not leave room for the answer.",
    "support": [
     "B242",
     "C76",
@@ -2795,6 +3087,7 @@
    "ch": 11,
    "text": "Pace tells Randi that Vee smells faintly of chlorine.",
    "quote": "a hint of chlorine. Like a pool.",
+   "detail_quote": "She wears gardenia,\" he said. \"Gardenia and musk.",
    "support": [
     "B243",
     "C199",
@@ -2806,6 +3099,7 @@
    "ch": 11,
    "text": "Randi locks Pace’s door after arriving.",
    "quote": "The deadbolt went over.",
+   "detail_quote": "Her perfume first, the sharp citrus and the cold thing under it.",
    "support": [
     "B246",
     "C114"
@@ -2816,9 +3110,10 @@
    "ch": 11,
    "text": "Randi repeats tell me during sex.",
    "quote": "between one kiss and the next she said it again",
+   "detail_quote": "I want us,\" she said, at his ear, torn out of her",
    "support": [
     "B247",
-    "C198",
+    "C200",
     "D115"
    ]
   },
@@ -2827,6 +3122,7 @@
    "ch": 11,
    "text": "Pace returns home wet from the hike.",
    "quote": "stood in the shower until the cold came out of his back",
+   "detail_quote": "stood in the shower until the cold came out of his back",
    "support": [
     "B248",
     "C196"
@@ -2837,6 +3133,7 @@
    "ch": 11,
    "text": "Randi takes Pace directly to the bedroom.",
    "quote": "she got him through the bedroom door",
+   "detail_quote": "How was it?\" she said, into his mouth, and did not leave room for the answer.",
    "support": [
     "B250",
     "C197",
@@ -2848,6 +3145,7 @@
    "ch": 11,
    "text": "Randi rides Pace.",
    "quote": "She put her other hand flat on his chest and pushed.",
+   "detail_quote": "She came down over him, her hair falling black on either side of his face, her mouth at his ear. \"Tell me.",
    "support": [
     "B251",
     "C198",
@@ -2859,6 +3157,7 @@
    "ch": 11,
    "text": "Pace turns the heat up in his house before Randi arrives.",
    "quote": "He put on a henley and jeans and turned the heat up.",
+   "detail_quote": "How was it?\" she said, into his mouth, and did not leave room for the answer.",
    "support": [
     "C113",
     "D113"
@@ -2869,6 +3168,7 @@
    "ch": 12,
    "text": "Kayla is blonde with a round face.",
    "quote": "She was round-faced and blonde",
+   "detail_quote": "Kayla let nothing finish. She was round-faced and blonde, a head of curls that moved when she did",
    "support": [
     "A226",
     "B259",
@@ -2881,6 +3181,7 @@
    "ch": 12,
    "text": "Theo previously asked Vee to a fall event.",
    "quote": "Theo asked you to the fall thing.",
+   "detail_quote": "In September. And I said let's be friends, and now we're friends, and he waves.",
    "support": [
     "A227",
     "B261",
@@ -2893,6 +3194,7 @@
    "ch": 12,
    "text": "Meg's boyfriend is Danny.",
    "quote": "I said it about Danny.",
+   "detail_quote": "I said it about Danny. Word for word, I think.",
    "support": [
     "A228",
     "B262",
@@ -2905,6 +3207,7 @@
    "ch": 12,
    "text": "Meg is dark-haired and calm.",
    "quote": "Meg was the calm one, dark-haired and level",
+   "detail_quote": "Meg was the calm one, dark-haired and level",
    "support": [
     "B260",
     "D120"
@@ -2915,6 +3218,7 @@
    "ch": 12,
    "text": "Vee eats with Meg and Kayla in the athletic dining hall.",
    "quote": "They had the corner table that caught the last of the light.",
+   "detail_quote": "The athletic dorm had the better dining hall and everyone knew it.",
    "support": [
     "A229",
     "B266",
@@ -2926,6 +3230,7 @@
    "ch": 12,
    "text": "Theo waves at Vee.",
    "quote": "Across the room Theo lifted a hand at her",
+   "detail_quote": "The athletic dorm had the better dining hall and everyone knew it.",
    "support": [
     "B267",
     "C202"
@@ -2936,6 +3241,7 @@
    "ch": 12,
    "text": "Vee tells the shirt story.",
    "quote": "So I can change. Stands there with his back to the truck",
+   "detail_quote": "Once.\" Kayla sat back and stared at her. \"All that, and it's been once. Vee, that's insane.",
    "support": [
     "A230",
     "B269",
@@ -2948,6 +3254,7 @@
    "ch": 12,
    "text": "Vee says she has kissed Pace once.",
    "quote": "Once. One time, the whole time.",
+   "detail_quote": "Once.\" Kayla sat back and stared at her. \"All that, and it's been once. Vee, that's insane.",
    "support": [
     "A231",
     "B270",
@@ -2957,18 +3264,9 @@
   {
    "section": "STORY",
    "ch": 12,
-   "text": "Vee says Pace asks what she wants.",
-   "quote": "He asks me first.",
-   "support": [
-    "B271",
-    "D123"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 12,
    "text": "Pace invites Vee to his house.",
    "quote": "He's asking me to his house.",
+   "detail_quote": "It says, would you come to my house Saturday. Two o'clock.",
    "support": [
     "A232",
     "B264",
@@ -2979,8 +3277,21 @@
   {
    "section": "STORY",
    "ch": 12,
+   "text": "Pace’s text invites Vee over Saturday at two.",
+   "quote": "would you come to my house Saturday. Two o'clock.",
+   "detail_quote": "It says, would you come to my house Saturday. Two o'clock.",
+   "support": [
+    "B272",
+    "C204",
+    "D125"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 12,
    "text": "Kayla plans to do Vee's hair.",
    "quote": "We're doing hair Saturday. I'm coming to your room.",
+   "detail_quote": "We're doing hair Saturday. I'm coming to your room. This is happening.",
    "support": [
     "A233",
     "B273",
@@ -2991,8 +3302,20 @@
   {
    "section": "STORY",
    "ch": 12,
+   "text": "Vee says Pace asks what she wants.",
+   "quote": "He asks me first.",
+   "detail_quote": "climbing the walls over a man asking me what I want for dinner",
+   "support": [
+    "B271",
+    "D123"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 12,
    "text": "Kayla says Pace wants Vee for the afternoon.",
    "quote": "He wants you for the afternoon.",
+   "detail_quote": "He wants you for the afternoon.",
    "support": [
     "B274",
     "D126"
@@ -3003,6 +3326,7 @@
    "ch": 13,
    "text": "Pace licenses a patent.",
    "quote": "I license a patent. It pays a little.",
+   "detail_quote": "I license a patent. It pays a little.",
    "support": [
     "A236",
     "B281",
@@ -3015,6 +3339,7 @@
    "ch": 13,
    "text": "Pace's patent speeds up MRI imaging.",
    "quote": "Finds the picture in the noise in a fraction of the passes.",
+   "detail_quote": "they get the same picture and they're out of the tube in a fraction of it.",
    "support": [
     "A237",
     "B282",
@@ -3027,10 +3352,11 @@
    "ch": 13,
    "text": "Pace made the shirt he gave Vee.",
    "quote": "I couldn't find a shirt I liked, so I made one",
+   "detail_quote": "I couldn't find a shirt I liked, so I made one",
    "support": [
     "A238",
     "B280",
-    "C116",
+    "C58",
     "D138"
    ]
   },
@@ -3039,6 +3365,7 @@
    "ch": 13,
    "text": "Pace offers to make Vee an induction dress.",
    "quote": "I'd like to make it for you",
+   "detail_quote": "I'd like to make it for you,\" he said. \"The dress. If you'll let me.",
    "support": [
     "A239",
     "B278",
@@ -3047,20 +3374,11 @@
    ]
   },
   {
-   "section": "REL",
-   "ch": 13,
-   "text": "Vee accepts Pace’s offer to make the dress.",
-   "quote": "Yes — of course, yes.",
-   "support": [
-    "B279",
-    "C210"
-   ]
-  },
-  {
    "section": "STORY",
    "ch": 13,
    "text": "Vee misses the driveway.",
    "quote": "she drove straight past the driveway and had to come back for it",
+   "detail_quote": "The diamond darkened — someone behind it — and the door came open",
    "support": [
     "A241",
     "B286",
@@ -3073,6 +3391,7 @@
    "ch": 13,
    "text": "Pace ends the kiss first.",
    "quote": "And then he was the one who stopped it.",
+   "detail_quote": "And then he was the one who stopped it.",
    "support": [
     "A242",
     "B289",
@@ -3085,6 +3404,7 @@
    "ch": 13,
    "text": "Vee notices the house is too warm.",
    "quote": "The house was warm. Too warm",
+   "detail_quote": "The house was warm. Too warm — a close, even heat with no draft in it",
    "support": [
     "A243",
     "C115"
@@ -3095,6 +3415,7 @@
    "ch": 13,
    "text": "Pace shows Vee his paper-filled office.",
    "quote": "Everything else was paper.",
+   "detail_quote": "Show me,\" she said. \"The whole thing. I want to see where you live.",
    "support": [
     "A244",
     "B291",
@@ -3107,6 +3428,7 @@
    "ch": 13,
    "text": "Pace leaves the bedroom closed.",
    "quote": "and left the door shut.",
+   "detail_quote": "Show me,\" she said. \"The whole thing. I want to see where you live.",
    "support": [
     "A246",
     "B293",
@@ -3119,6 +3441,7 @@
    "ch": 13,
    "text": "Pace made the oak furniture.",
    "quote": "Where'd you get these?\" \"I made them.",
+   "detail_quote": "Where'd you get these?\" \"I made them.",
    "support": [
     "A247",
     "B294",
@@ -3131,6 +3454,7 @@
    "ch": 13,
    "text": "The garage is a clean workshop.",
    "quote": "This was cleaner than her kitchen at home",
+   "detail_quote": "to the reason a house this size had a two-car garage. It had been a garage. It wasn't one now.",
    "support": [
     "A248",
     "B296",
@@ -3143,6 +3467,7 @@
    "ch": 13,
    "text": "A bolt of burgundy silk lies in the sun porch.",
    "quote": "This was burgundy, deeper, wine-like, with purple under the red",
+   "detail_quote": "This was burgundy, deeper, wine-like, with purple under the red",
    "support": [
     "A249",
     "B297",
@@ -3155,6 +3480,7 @@
    "ch": 13,
    "text": "Two towels on the bathroom rod.",
    "quote": "a bathroom, plain, clean, two towels on the rod",
+   "detail_quote": "Down a hall to the left: a bathroom, plain, clean, two towels on the rod.",
    "support": [
     "A250",
     "B283",
@@ -3166,6 +3492,7 @@
    "ch": 13,
    "text": "Vee visits Pace’s house for the first time.",
    "quote": "The door came open before she'd made the top step.",
+   "detail_quote": "I'd like to make it for you,\" he said. \"The dress. If you'll let me.",
    "support": [
     "B276",
     "C77"
@@ -3174,28 +3501,9 @@
   {
    "section": "STORY",
    "ch": 13,
-   "text": "Pace explains error-correcting codes through spoken redundancy.",
-   "quote": "Say it more than once so the noise can't kill it.",
-   "support": [
-    "B295",
-    "D133"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 13,
-   "text": "Vee realizes Pace selected the color for her complexion.",
-   "quote": "He'd matched her.",
-   "support": [
-    "B298",
-    "D137"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 13,
    "text": "Pace opens the door before Vee reaches the top step.",
    "quote": "the door came open before she'd made the top step",
+   "detail_quote": "The diamond darkened — someone behind it — and the door came open",
    "support": [
     "B287",
     "D128"
@@ -3204,8 +3512,31 @@
   {
    "section": "STORY",
    "ch": 13,
+   "text": "Vee realizes Pace selected the color for her complexion.",
+   "quote": "He'd matched her.",
+   "detail_quote": "He'd matched her.",
+   "support": [
+    "B298",
+    "D137"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 13,
+   "text": "Pace explains error-correcting codes through spoken redundancy.",
+   "quote": "Say it more than once so the noise can't kill it.",
+   "detail_quote": "Say it more than once so the noise can't kill it.",
+   "support": [
+    "B295",
+    "D133"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 13,
    "text": "Pace shows Vee his kitchen.",
    "quote": "The kitchen was small",
+   "detail_quote": "Show me,\" she said. \"The whole thing. I want to see where you live.",
    "support": [
     "B290",
     "C207",
@@ -3217,6 +3548,7 @@
    "ch": 13,
    "text": "Pace says he must measure Vee in good light.",
    "quote": "down to what you'd wear under it, in good light",
+   "detail_quote": "I'd like to make it for you,\" he said. \"The dress. If you'll let me.",
    "support": [
     "B299",
     "C210"
@@ -3224,19 +3556,10 @@
   },
   {
    "section": "STORY",
-   "ch": 13,
-   "text": "In the sun porch a bolt of burgundy silk waits; he holds it to her face and she realizes he matched her, not the described dress",
-   "quote": "He'd matched her.",
-   "support": [
-    "C209",
-    "D137"
-   ]
-  },
-  {
-   "section": "STORY",
    "ch": 14,
    "text": "Vee removes her jeans for the fitting.",
    "quote": "undid the button of her jeans and the zipper",
+   "detail_quote": "A small ugly word arrived from the back of her mind, in her mother's register: stripper.",
    "support": [
     "A254",
     "B310",
@@ -3249,6 +3572,7 @@
    "ch": 14,
    "text": "Pace asks her to remove her bra.",
    "quote": "The bra too,\" he said, gently, plainly. \"It changes the line.",
+   "detail_quote": "The bra too,\" he said, gently, plainly. \"It changes the line. It'll lie to me.",
    "support": [
     "A255",
     "B303",
@@ -3259,8 +3583,21 @@
   {
    "section": "STORY",
    "ch": 14,
+   "text": "Pace explains that a bra would distort the dress line.",
+   "quote": "It changes the line. It'll lie to me.",
+   "detail_quote": "The bra too,\" he said, gently, plainly. \"It changes the line. It'll lie to me.",
+   "support": [
+    "B312",
+    "C211",
+    "D141"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 14,
    "text": "Vee stands on a riser Pace built.",
    "quote": "of course there was a riser in the corner of a woodworker's house",
+   "detail_quote": "She crossed to it barefoot and stepped up, and the step raised her bare top into the full reach of the afternoon light",
    "support": [
     "A256",
     "B307",
@@ -3273,9 +3610,11 @@
    "ch": 14,
    "text": "Pace grins when Vee flinches at a ticklish spot.",
    "quote": "the soft unguarded place where her waist curved in, she flinched",
+   "detail_quote": "She crossed to it barefoot and stepped up, and the step raised her bare top into the full reach of the afternoon light",
    "support": [
     "A257",
-    "B316"
+    "B316",
+    "C212"
    ]
   },
   {
@@ -3283,6 +3622,7 @@
    "ch": 14,
    "text": "Vee asks whether nipple arousal changes the measurement.",
    "quote": "Does this measurement change?",
+   "detail_quote": "Good. I was worried I was going to have to come over here pre-aroused every time I wore it.",
    "support": [
     "A258",
     "B319",
@@ -3295,6 +3635,7 @@
    "ch": 14,
    "text": "Pace laughs and admits he doesn't know.",
    "quote": "I don't know,\" he said. \"I've never thought about it.",
+   "detail_quote": "Good. I was worried I was going to have to come over here pre-aroused every time I wore it.",
    "support": [
     "A259",
     "B320",
@@ -3307,6 +3648,7 @@
    "ch": 14,
    "text": "Vee discovers a wet spot on her satin underwear.",
    "quote": "A spot, small, the size of a thumbprint",
+   "detail_quote": "the hope was visible. The hope was sized to be seen across the room.",
    "support": [
     "A260",
     "B324",
@@ -3319,6 +3661,7 @@
    "ch": 14,
    "text": "Pace touches Vee's backside for the first time.",
    "quote": "It was the first time he had ever touched her there.",
+   "detail_quote": "It was the first time he had ever touched her there.",
    "support": [
     "A261",
     "B326",
@@ -3330,6 +3673,7 @@
    "ch": 14,
    "text": "Pace smiles when Vee opens her eyes.",
    "quote": "He was grinning at her.",
+   "detail_quote": "He hadn't looked down. The whole time she'd been dying he hadn't looked down once.",
    "support": [
     "A262",
     "B309",
@@ -3342,6 +3686,7 @@
    "ch": 14,
    "text": "Pace kisses a pinprick on her ribs.",
    "quote": "He bent and kissed it. Just there, on her ribs",
+   "detail_quote": "She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident, and said, low and bright and not remotely sorry, \"Oops. Sorry.",
    "support": [
     "A263",
     "B305",
@@ -3354,6 +3699,7 @@
    "ch": 14,
    "text": "Pace tells Vee to keep still.",
    "quote": "Keep still,\" he said.",
+   "detail_quote": "She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident, and said, low and bright and not remotely sorry, \"Oops. Sorry.",
    "support": [
     "A264",
     "B331",
@@ -3362,55 +3708,50 @@
    ]
   },
   {
-   "section": "REL",
-   "ch": 14,
-   "text": "Pace measures Vee for the dress.",
-   "quote": "He uncoiled the tape and looked at her.",
-   "support": [
-    "B302",
-    "C78"
-   ]
-  },
-  {
-   "section": "REL",
+   "section": "STORY",
    "ch": 14,
    "text": "Vee deliberately presses her breast against Pace’s face.",
    "quote": "So the third time she did it on purpose.",
+   "detail_quote": "She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident, and said, low and bright and not remotely sorry, \"Oops. Sorry.",
    "support": [
     "B304",
-    "C79",
+    "C217",
     "D149"
    ]
   },
   {
    "section": "STORY",
    "ch": 14,
-   "text": "Pace explains that a bra would distort the dress line.",
-   "quote": "It changes the line. It'll lie to me.",
+   "text": "A pin pricks Vee’s ribs.",
+   "quote": "And then the pin caught her.",
+   "detail_quote": "He bent and kissed it. Just there, on her ribs, where the pin had been",
    "support": [
-    "B312",
-    "C211",
-    "D141"
+    "B330",
+    "C79",
+    "D150"
+   ]
+  },
+  {
+   "section": "REL",
+   "ch": 14,
+   "text": "Pace measures Vee for the dress.",
+   "quote": "He uncoiled the tape and looked at her.",
+   "detail_quote": "He uncoiled the tape and looked at her. \"Do you want to get started?",
+   "support": [
+    "B302",
+    "C78"
    ]
   },
   {
    "section": "STORY",
    "ch": 14,
-   "text": "Pace measures Vee’s neck and shoulder.",
-   "quote": "Neck to shoulder.",
+   "text": "Pace repeatedly approaches Vee before withdrawing to write.",
+   "quote": "closeness, two touches, withdrawal, the pencil",
+   "detail_quote": "She crossed to it barefoot and stepped up, and the step raised her bare top into the full reach of the afternoon light",
    "support": [
-    "B314",
-    "C212"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 14,
-   "text": "Pace measures Vee’s inseam.",
-   "quote": "last, the inside seam",
-   "support": [
-    "B321",
-    "D144"
+    "B308",
+    "C212",
+    "D142"
    ]
   },
   {
@@ -3418,6 +3759,7 @@
    "ch": 14,
    "text": "Pace gives Vee tea and a blanket.",
    "quote": "He put a mug of tea in her hands",
+   "detail_quote": "the hope was visible. The hope was sized to be seen across the room.",
    "support": [
     "B322",
     "C214",
@@ -3429,6 +3771,7 @@
    "ch": 14,
    "text": "Pace cuts the burgundy silk.",
    "quote": "watched a powerlifter cut silk",
+   "detail_quote": "The satin had gone slick against her.",
    "support": [
     "B323",
     "C214"
@@ -3439,9 +3782,11 @@
    "ch": 14,
    "text": "Pace pins dress panels onto Vee.",
    "quote": "he began to build the dress on her",
+   "detail_quote": "It was the first time he had ever touched her there.",
    "support": [
     "B325",
-    "C78"
+    "C215",
+    "D146"
    ]
   },
   {
@@ -3449,6 +3794,7 @@
    "ch": 14,
    "text": "Vee closes her eyes from shame.",
    "quote": "She shut her eyes.",
+   "detail_quote": "She screwed her eyes shut and turned her face away",
    "support": [
     "B327",
     "C215",
@@ -3460,6 +3806,7 @@
    "ch": 14,
    "text": "Vee straightens her posture after seeing Pace’s expression.",
    "quote": "The apologetic stoop she'd been holding since she stepped up came undone.",
+   "detail_quote": "He hadn't looked down. The whole time she'd been dying he hadn't looked down once.",
    "support": [
     "B329",
     "C216",
@@ -3469,42 +3816,35 @@
   {
    "section": "STORY",
    "ch": 14,
-   "text": "A pin pricks Vee’s ribs.",
-   "quote": "And then the pin caught her.",
-   "support": [
-    "B330",
-    "C79",
-    "D150"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 14,
    "text": "Pace finishes pinning while Vee holds still.",
    "quote": "She kept still.",
+   "detail_quote": "had not, once, been found wanting.",
    "support": [
     "B332",
     "D151"
    ]
   },
   {
-   "section": "MOTIF",
+   "section": "STORY",
    "ch": 14,
-   "text": "Pace repeatedly approaches Vee before withdrawing to write.",
-   "quote": "closeness, two touches, withdrawal, the pencil",
+   "text": "Pace measures Vee’s inseam.",
+   "quote": "last, the inside seam",
+   "detail_quote": "She crossed to it barefoot and stepped up, and the step raised her bare top into the full reach of the afternoon light",
    "support": [
-    "B308",
-    "D142"
+    "B321",
+    "C212",
+    "D144"
    ]
   },
   {
-   "section": "KNOW",
+   "section": "STORY",
    "ch": 14,
-   "text": "Pace sees that Vee’s underwear has become wet.",
-   "quote": "His face was right there, right at the height of the worst of it",
+   "text": "Pace waits for Vee to look at him.",
+   "quote": "he had been waiting for her to open them",
+   "detail_quote": "he had been waiting for her to open them",
    "support": [
-    "B306",
-    "D144"
+    "B328",
+    "D147"
    ]
   },
   {
@@ -3512,6 +3852,7 @@
    "ch": 15,
    "text": "Randi collects Vee in a dark-green Mercedes.",
    "quote": "a green so dark it read as black",
+   "detail_quote": "the Mercedes was at the curb when Vee came down, top already folded back",
    "support": [
     "A266",
     "B350",
@@ -3524,6 +3865,7 @@
    "ch": 15,
    "text": "Randi always wears a white gold band.",
    "quote": "white gold, plain and heavy, no stone, nothing to it but the weight",
+   "detail_quote": "And the band at her wrist — white gold, plain and heavy, no stone, nothing to it but the weight — that Vee had never once seen her without",
    "support": [
     "A267",
     "C120"
@@ -3534,6 +3876,7 @@
    "ch": 15,
    "text": "Vee drives a Corolla.",
    "quote": "She thought of the Corolla, the cloth seats she kept clean",
+   "detail_quote": "She thought of the Corolla, the cloth seats she kept clean",
    "support": [
     "A268",
     "C60"
@@ -3544,6 +3887,7 @@
    "ch": 15,
    "text": "Randi kisses Vee on the mouth.",
    "quote": "and kissed her on the mouth",
+   "detail_quote": "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.",
    "support": [
     "A269",
     "B339",
@@ -3556,6 +3900,7 @@
    "ch": 15,
    "text": "Randi kisses Vee twice in the car.",
    "quote": "a small drawing-back, the barest pause, and then back again with a little more",
+   "detail_quote": "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.",
    "support": [
     "B361",
     "C223"
@@ -3566,6 +3911,7 @@
    "ch": 15,
    "text": "Vee tells Cassie she ground against Pace.",
    "quote": "A little. When he was back there. I leaned — I sort of —",
+   "detail_quote": "A little. When he was back there. I leaned — I sort of —",
    "support": [
     "A270",
     "B337",
@@ -3574,14 +3920,15 @@
    ]
   },
   {
-   "section": "KNOW",
+   "section": "STORY",
    "ch": 15,
    "text": "Randi stops Vee before she reveals her wetness.",
    "quote": "It was gentle. It was kind. It was a door closing softly.",
+   "detail_quote": "You don't have to tell me.\" It was gentle. It was kind. It was a door closing softly.",
    "support": [
     "A271",
     "B359",
-    "C97",
+    "C222",
     "D162"
    ]
   },
@@ -3590,11 +3937,11 @@
    "ch": 15,
    "text": "Cassie asks if Pace made the shirt.",
    "quote": "Did he make that too?",
+   "detail_quote": "Burgundy,\" she said. \"For the honor society induction. A dress. Like the magazine. He's making it.",
    "support": [
     "A272",
     "B340",
-    "C218",
-    "D153"
+    "C218"
    ]
   },
   {
@@ -3602,6 +3949,7 @@
    "ch": 15,
    "text": "Cassie asks whether Pace is gay.",
    "quote": "Are you sure he's not gay?",
+   "detail_quote": "Are you sure he's not gay?",
    "support": [
     "A273",
     "C219",
@@ -3613,6 +3961,7 @@
    "ch": 15,
    "text": "Randi takes Vee to lunch off Prices Fork.",
    "quote": "The place was off Prices Fork, a freestanding building of red brick",
+   "detail_quote": "The next day, the Mercedes was at the curb when Vee came down, top already folded back",
    "support": [
     "A274",
     "B338",
@@ -3622,8 +3971,20 @@
   {
    "section": "STORY",
    "ch": 15,
+   "text": "Randi drives Vee to a dim restaurant.",
+   "quote": "the walls were hung with green velvet",
+   "detail_quote": "I'll do the tomato soup,\" she said. \"And water's great, thanks.",
+   "support": [
+    "B351",
+    "D158"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 15,
    "text": "Vee orders tomato soup with water.",
    "quote": "I'll do the tomato soup",
+   "detail_quote": "Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month.",
    "support": [
     "A275",
     "B352",
@@ -3636,6 +3997,7 @@
    "ch": 15,
    "text": "Randi claims a man tied her wrists with a scarf.",
    "quote": "I have him tie my wrists to the headboard.",
+   "detail_quote": "Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month.",
    "support": [
     "A276",
     "B353",
@@ -3648,6 +4010,7 @@
    "ch": 15,
    "text": "Randi presses her thumbnail into a glass rim while Vee talks.",
    "quote": "set the edge of it in under the nail, bearing down",
+   "detail_quote": "her thumb had found the rim of her water glass and set the edge of it in under the nail, bearing down.",
    "support": [
     "A277",
     "C121",
@@ -3659,9 +4022,9 @@
    "ch": 15,
    "text": "Randi says nobody measures over a bra.",
    "quote": "Nobody measures over a bra.",
+   "detail_quote": "You don't have to tell me.\" It was gentle. It was kind. It was a door closing softly.",
    "support": [
     "A278",
-    "B356",
     "C222",
     "D161"
    ]
@@ -3669,8 +4032,20 @@
   {
    "section": "STORY",
    "ch": 15,
+   "text": "Vee tells Randi that she removed her bra for the fitting.",
+   "quote": "The bra too,\" Vee said.",
+   "detail_quote": "Nobody measures over a bra.",
+   "support": [
+    "B356",
+    "C80"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 15,
    "text": "Vee falsely says Pace’s house was cold.",
    "quote": "It was cold in the house.",
+   "detail_quote": "It was cold in the house.",
    "support": [
     "A279",
     "B357"
@@ -3681,6 +4056,7 @@
    "ch": 15,
    "text": "Vee pays her own bill.",
    "quote": "the one thing she would not do at this table was let Randi buy her seat at it",
+   "detail_quote": "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.",
    "support": [
     "A280",
     "B360",
@@ -3693,6 +4069,7 @@
    "ch": 15,
    "text": "Vee checks whether anyone saw the kiss.",
    "quote": "had anyone seen?",
+   "detail_quote": "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.",
    "support": [
     "A281",
     "B362",
@@ -3705,6 +4082,7 @@
    "ch": 15,
    "text": "Vee explains Randi’s mouth kiss as a French custom.",
    "quote": "It's a French thing",
+   "detail_quote": "She put two fingers to her mouth without deciding to.",
    "support": [
     "B341",
     "D165"
@@ -3715,6 +4093,7 @@
    "ch": 15,
    "text": "Vee tells Cassie that Pace is making her a silk dress.",
    "quote": "He's making it.",
+   "detail_quote": "Burgundy,\" she said. \"For the honor society induction. A dress. Like the magazine. He's making it.",
    "support": [
     "B334",
     "C218",
@@ -3726,6 +4105,7 @@
    "ch": 15,
    "text": "Vee tells Cassie about being measured topless.",
    "quote": "And then he says, the bra too.",
+   "detail_quote": "Burgundy,\" she said. \"For the honor society induction. A dress. Like the magazine. He's making it.",
    "support": [
     "B335",
     "C218",
@@ -3735,8 +4115,20 @@
   {
    "section": "STORY",
    "ch": 15,
+   "text": "Cassie notices Vee has slept in Pace’s shirt all week.",
+   "quote": "You've been sleeping in that shirt all week",
+   "detail_quote": "You've been sleeping in that shirt all week,\" Cassie said pleasantly.",
+   "support": [
+    "B346",
+    "C118"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 15,
    "text": "Vee explains that Pace warmed the house for her.",
    "quote": "He turned the heat up before I got there.",
+   "detail_quote": "He turned the heat up before I got there. So I wouldn't be cold.",
    "support": [
     "B347",
     "C119",
@@ -3746,18 +4138,9 @@
   {
    "section": "STORY",
    "ch": 15,
-   "text": "Cassie notices Vee has slept in Pace’s shirt all week.",
-   "quote": "You've been sleeping in that shirt all week",
-   "support": [
-    "B346",
-    "C118"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 15,
    "text": "Vee says standing above Pace felt right.",
    "quote": "Like I was supposed to be there",
+   "detail_quote": "Like I was supposed to be there,\" she said.",
    "support": [
     "B349",
     "D155"
@@ -3766,11 +4149,35 @@
   {
    "section": "STORY",
    "ch": 15,
+   "text": "Randi explains the pleasure of letting go.",
+   "quote": "That's the whole point, baby",
+   "detail_quote": "A little helpless can be a very good thing. Done right.",
+   "support": [
+    "B354",
+    "D159"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 15,
    "text": "Vee tells Randi that Pace is making her a dress.",
    "quote": "He's making me a dress.",
+   "detail_quote": "her thumb had found the rim of her water glass and set the edge of it in under the nail",
    "support": [
     "B355",
+    "C222",
     "D160"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 15,
+   "text": "Vee returns to the dorm after the fitting.",
+   "quote": "Cassie was on her bed with a textbook",
+   "detail_quote": "Burgundy,\" she said. \"For the honor society induction. A dress. Like the magazine. He's making it.",
+   "support": [
+    "B344",
+    "C218"
    ]
   },
   {
@@ -3778,6 +4185,7 @@
    "ch": 16,
    "text": "Pace flies to Chicago and texts about dinner.",
    "quote": "the morning he flew to Chicago, the text came: Dinner Friday?",
+   "detail_quote": "Then, midweek, the morning he flew to Chicago, the text came: Dinner Friday?",
    "support": [
     "A284",
     "C224"
@@ -3788,6 +4196,7 @@
    "ch": 16,
    "text": "Vee buys deep-green satin lingerie.",
    "quote": "The green called to her.",
+   "detail_quote": "Then, midweek, the morning he flew to Chicago, the text came: Dinner Friday?",
    "support": [
     "A285",
     "B373",
@@ -3800,6 +4209,7 @@
    "ch": 16,
    "text": "Vee paints her toenails on Friday.",
    "quote": "she painted them, one knee drawn up and her foot on the edge of the chair",
+   "detail_quote": "she painted them, one knee drawn up and her foot on the edge of the chair",
    "support": [
     "A286",
     "B374",
@@ -3812,6 +4222,7 @@
    "ch": 16,
    "text": "Pace opens his door wearing an apron.",
    "quote": "He opened the door in a canvas apron",
+   "detail_quote": "He opened the door in a canvas apron over a dark henley",
    "support": [
     "A287",
     "B375",
@@ -3824,6 +4235,7 @@
    "ch": 16,
    "text": "Vee says she's famished.",
    "quote": "Famished,\" she said, and heard it a beat after he did.",
+   "detail_quote": "Famished,\" she said, and heard it a beat after he did.",
    "support": [
     "A288",
     "B369"
@@ -3834,6 +4246,7 @@
    "ch": 16,
    "text": "Vee asks Pace to show her his bedroom.",
    "quote": "Will you show me your bedroom?",
+   "detail_quote": "Will you show me your bedroom?",
    "support": [
     "A289",
     "B365",
@@ -3846,6 +4259,7 @@
    "ch": 16,
    "text": "Vee sees a scar on his thigh.",
    "quote": "a scar, large, high on the inside of his thigh",
+   "detail_quote": "a scar, large, high on the inside of his thigh.",
    "support": [
     "A290",
     "B368",
@@ -3858,6 +4272,7 @@
    "ch": 16,
    "text": "Vee and Pace have sex for the first time.",
    "quote": "It was the first time that had been true.",
+   "detail_quote": "He was looking at her. Not at her body — at her face",
    "support": [
     "A291",
     "B366",
@@ -3870,6 +4285,7 @@
    "ch": 16,
    "text": "Pace cooks after sex.",
    "quote": "He built the fra diavolo from where he'd stopped",
+   "detail_quote": "She kissed him, briefly, and held the folded panties out toward him. \"Trade,\" she said.",
    "support": [
     "A292",
     "B385",
@@ -3882,6 +4298,7 @@
    "ch": 16,
    "text": "Vee gives Pace her panties.",
    "quote": "held the folded panties out toward him",
+   "detail_quote": "She kissed him, briefly, and held the folded panties out toward him. \"Trade,\" she said.",
    "support": [
     "A293",
     "B367",
@@ -3894,6 +4311,7 @@
    "ch": 16,
    "text": "Vee folds her green panties into thirds.",
    "quote": "She finished the fold",
+   "detail_quote": "She kissed him, briefly, and held the folded panties out toward him. \"Trade,\" she said.",
    "support": [
     "B387",
     "C229",
@@ -3905,6 +4323,7 @@
    "ch": 16,
    "text": "Pace asks whether his arousal would bother Vee.",
    "quote": "Would you be bothered if I was too hard?",
+   "detail_quote": "He looked up at her and said: \"Would you be bothered if I was too hard?",
    "support": [
     "B370",
     "C227"
@@ -3913,22 +4332,13 @@
   {
    "section": "STORY",
    "ch": 16,
-   "text": "Pace prepares ingredients for fra diavolo.",
-   "quote": "garlic minced, onion diced, pepper flakes measured",
+   "text": "Vee sleeps in Pace’s flannel while awaiting Friday.",
+   "quote": "That night she lay in the flannel in the dark",
+   "detail_quote": "She was still chasing it when the word came: floozie, light, her mother's, quick and flat.",
    "support": [
-    "B376",
-    "C226"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 16,
-   "text": "Vee undresses Pace in his bedroom.",
-   "quote": "She reached for the hem of his henley",
-   "support": [
-    "B378",
-    "C227",
-    "D170"
+    "B372",
+    "C122",
+    "D167"
    ]
   },
   {
@@ -3936,6 +4346,7 @@
    "ch": 16,
    "text": "Pace brings Vee to orgasm with his mouth.",
    "quote": "It broke over her standing up.",
+   "detail_quote": "He looked up at her and said: \"Would you be bothered if I was too hard?",
    "support": [
     "B380",
     "C227",
@@ -3947,6 +4358,7 @@
    "ch": 16,
    "text": "Vee eats wrapped in Pace’s sheet.",
    "quote": "she ate until she was full",
+   "detail_quote": "She kissed him, briefly, and held the folded panties out toward him. \"Trade,\" she said.",
    "support": [
     "B386",
     "C229",
@@ -3956,20 +4368,55 @@
   {
    "section": "STORY",
    "ch": 16,
-   "text": "Vee sleeps in Pace’s flannel while awaiting Friday.",
-   "quote": "That night she lay in the flannel in the dark",
+   "text": "Pace prepares ingredients for fra diavolo.",
+   "quote": "garlic minced, onion diced, pepper flakes measured",
+   "detail_quote": "garlic minced, onion diced, pepper flakes measured",
    "support": [
-    "B372",
-    "C122",
-    "D167"
+    "B376",
+    "C226"
    ]
   },
   {
    "section": "STORY",
    "ch": 16,
-   "text": "They have sex for the first time, he watching her face throughout, until both come together and he lets his weight down",
-   "quote": "He was looking at her. Not at her body — at her face",
+   "text": "Vee undresses Pace in his bedroom.",
+   "quote": "She reached for the hem of his henley",
+   "detail_quote": "He looked up at her and said: \"Would you be bothered if I was too hard?",
    "support": [
+    "B378",
+    "C227"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 16,
+   "text": "He undresses her slowly; she stops him at the removal of the green panties, and the crystal strings show how ready she is",
+   "quote": "He looked up at her and said: \"Would you be bothered if I was too hard?",
+   "detail_quote": "He looked up at her and said: \"Would you be bothered if I was too hard?",
+   "support": [
+    "C227",
+    "D170"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 16,
+   "text": "She pulls him up, opens his jeans, and finds a large scar high on the inside of his thigh",
+   "quote": "a scar, large, high on the inside of his thigh.",
+   "detail_quote": "She broke around him with her mouth open against his shoulder, her body gripping him long and hard, and it took him with her",
+   "support": [
+    "C228",
+    "D172"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 16,
+   "text": "Pace comes inside Vee.",
+   "quote": "the heat of him landing where she was still breaking",
+   "detail_quote": "She broke around him with her mouth open against his shoulder, her body gripping him long and hard, and it took him with her",
+   "support": [
+    "B384",
     "C228",
     "D173"
    ]
@@ -3979,6 +4426,7 @@
    "ch": 17,
    "text": "Vee withholds the sex from Cassie.",
    "quote": "What she kept was the middle.",
+   "detail_quote": "What she kept was the middle. She lifted it out clean as she went",
    "support": [
     "A295",
     "B391",
@@ -3991,6 +4439,7 @@
    "ch": 17,
    "text": "Cassie asks about the painted toenails.",
    "quote": "Was he worth painting your toenails?",
+   "detail_quote": "Was he worth painting your toenails?",
    "support": [
     "A296",
     "B399"
@@ -4001,6 +4450,7 @@
    "ch": 17,
    "text": "Vee stops undressing in front of Cassie.",
    "quote": "She zipped the skirt back up.",
+   "detail_quote": "Nothing under the skirt. She had given them away.",
    "support": [
     "A297",
     "B401",
@@ -4013,6 +4463,7 @@
    "ch": 17,
    "text": "Cassie leaves for a game.",
    "quote": "I've got a game. Don't wait up, lover.",
+   "detail_quote": "Nothing under the skirt. She had given them away.",
    "support": [
     "A298",
     "B402",
@@ -4025,6 +4476,7 @@
    "ch": 17,
    "text": "Vee is happier than ever.",
    "quote": "She had never in her life been so happy.",
+   "detail_quote": "She had never in her life been so happy.",
    "support": [
     "A299",
     "B403",
@@ -4036,6 +4488,7 @@
    "ch": 17,
    "text": "Vee orders a mimosa.",
    "quote": "she'd have the same",
+   "detail_quote": "Randi ordered a mimosa without looking at the card at all",
    "support": [
     "A300",
     "B405",
@@ -4047,6 +4500,7 @@
    "ch": 17,
    "text": "Randi tells a story about an ex in a hurry.",
    "quote": "like the building's on fire",
+   "detail_quote": "That's not a story, honey. That's a painting. Keep that one.",
    "support": [
     "A301",
     "C231",
@@ -4058,8 +4512,10 @@
    "ch": 17,
    "text": "Randi notes Vee's toenails.",
    "quote": "You paint the toes for a man who's going to have your feet bare in his hands.",
+   "detail_quote": "The toes. You paint the toes for a man who's going to have your feet bare in his hands.",
    "support": [
     "A302",
+    "B408",
     "C232",
     "D182"
    ]
@@ -4069,6 +4525,7 @@
    "ch": 17,
    "text": "Vee admits buying new underwear.",
    "quote": "…I bought new ones,\" Vee said.",
+   "detail_quote": "You knew how that night was going to end before you ever got in the car,\" she said.",
    "support": [
     "A303",
     "B409",
@@ -4081,6 +4538,7 @@
    "ch": 17,
    "text": "Vee says she wanted it and took it.",
    "quote": "I wanted it,\" she said.",
+   "detail_quote": "I wanted it,\" she said.",
    "support": [
     "A305",
     "B410"
@@ -4091,6 +4549,7 @@
    "ch": 17,
    "text": "Vee tells Cassie about dinner with Pace.",
    "quote": "She gave her the dinner whole",
+   "detail_quote": "Nothing under the skirt. She had given them away.",
    "support": [
     "B390",
     "C230",
@@ -4102,6 +4561,7 @@
    "ch": 17,
    "text": "Vee tells Randi about watching Pace cook after sex.",
    "quote": "watching him cook.",
+   "detail_quote": "You knew how that night was going to end before you ever got in the car,\" she said.",
    "support": [
     "B392",
     "C232",
@@ -4113,6 +4573,7 @@
    "ch": 17,
    "text": "Randi reassures Vee about wanting Pace.",
    "quote": "You're not caught, sweetheart. You're lucky.",
+   "detail_quote": "You're not caught, sweetheart. You're lucky.",
    "support": [
     "B393",
     "D183"
@@ -4123,6 +4584,7 @@
    "ch": 17,
    "text": "Randi kisses Vee goodbye again.",
    "quote": "the mouth, soft, the small drawing-back and then the second press",
+   "detail_quote": "Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small drawing-back and then the second press.",
    "support": [
     "B394",
     "C84",
@@ -4134,6 +4596,7 @@
    "ch": 17,
    "text": "Cassie does not know that Vee gave her underwear to Pace.",
    "quote": "Nothing under the skirt. She had given them away.",
+   "detail_quote": "What she kept was the middle. She lifted it out clean as she went",
    "support": [
     "B395",
     "C98"
@@ -4144,6 +4607,7 @@
    "ch": 17,
    "text": "Vee returns home without her underwear.",
    "quote": "the green was given away",
+   "detail_quote": "Nothing under the skirt. She had given them away.",
    "support": [
     "B396",
     "C230",
@@ -4155,6 +4619,7 @@
    "ch": 17,
    "text": "Vee returns to the dorm smiling.",
    "quote": "Vee was grinning and the grin was the entire story.",
+   "detail_quote": "Vee was grinning and the grin was the entire story.",
    "support": [
     "B398",
     "D177"
@@ -4165,6 +4630,7 @@
    "ch": 17,
    "text": "Randi meets Vee for Sunday brunch.",
    "quote": "Sunday's bistro had a sun porch",
+   "detail_quote": "Sunday's bistro had a sun porch along its south side",
    "support": [
     "B404",
     "C231"
@@ -4173,29 +4639,9 @@
   {
    "section": "STORY",
    "ch": 17,
-   "text": "Vee admits that she painted her nails for Pace.",
-   "quote": "I painted my nails",
-   "support": [
-    "B408",
-    "C232",
-    "D182"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 17,
-   "text": "Vee orders a second mimosa without checking the price.",
-   "quote": "the second one she did not price at all",
-   "support": [
-    "B412",
-    "C233"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 17,
    "text": "Vee does not check who sees Randi’s second goodbye kiss.",
    "quote": "she didn't look down the street for who might have seen them",
+   "detail_quote": "Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them",
    "support": [
     "B413",
     "C233",
@@ -4207,6 +4653,7 @@
    "ch": 17,
    "text": "Randi's accent strengthens after one mimosa.",
    "quote": "the esses running long, the a's lifting",
+   "detail_quote": "Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them",
    "support": [
     "A304",
     "C233",
@@ -4218,10 +4665,11 @@
    "ch": 18,
    "text": "Randi calls Pace selfish.",
    "quote": "It's selfish, Pace.",
+   "detail_quote": "It's selfish, Pace.",
    "support": [
     "A307",
     "B418",
-    "C236",
+    "C85",
     "D191"
    ]
   },
@@ -4230,6 +4678,7 @@
    "ch": 18,
    "text": "Randi pours her own wine for the first time.",
    "quote": "He had poured every glass she had drunk in this house.",
+   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
    "support": [
     "A308",
     "B431",
@@ -4242,6 +4691,7 @@
    "ch": 18,
    "text": "Randi says Vee told her about Friday.",
    "quote": "She told me about Friday.",
+   "detail_quote": "She told me about Friday.",
    "support": [
     "A309",
     "B428",
@@ -4254,6 +4704,7 @@
    "ch": 18,
    "text": "Pace cooks chicken stew.",
    "quote": "Chicken and potatoes in a white sauce",
+   "detail_quote": "He had set out two bowls. Hers was the small one, the one he sliced her apples into.",
    "support": [
     "A310",
     "B424",
@@ -4266,9 +4717,10 @@
    "ch": 18,
    "text": "Randi does not eat the stew.",
    "quote": "the bowl in front of her did not move",
+   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
    "support": [
     "A311",
-    "B433",
+    "B423",
     "C237"
    ]
   },
@@ -4277,6 +4729,7 @@
    "ch": 18,
    "text": "Randi asks how long Pace will take with Vee.",
    "quote": "How long are you going to take?",
+   "detail_quote": "You've got her Friday to Sunday,\" Randi said.",
    "support": [
     "A312",
     "C236",
@@ -4288,6 +4741,7 @@
    "ch": 18,
    "text": "Pace says Vee must choose every step.",
    "quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
+   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
    "support": [
     "A313",
     "B417",
@@ -4300,6 +4754,7 @@
    "ch": 18,
    "text": "Randi does not say tell me during sex.",
    "quote": "She did not say tell me.",
+   "detail_quote": "She did not say tell me. Every night in this house she had said it",
    "support": [
     "A314",
     "B422",
@@ -4312,6 +4767,7 @@
    "ch": 18,
    "text": "Pace covers her bowl and refrigerates it.",
    "quote": "He covered the bowl with a plate and put it in the refrigerator",
+   "detail_quote": "He covered the bowl with a plate and put it in the refrigerator, for her",
    "support": [
     "A315",
     "B436",
@@ -4324,19 +4780,22 @@
    "ch": 18,
    "text": "Pace says Vee is not ready.",
    "quote": "She's not ready.",
+   "detail_quote": "How long are you going to take?",
    "support": [
     "B416",
     "D190"
    ]
   },
   {
-   "section": "STORY",
+   "section": "REL",
    "ch": 18,
-   "text": "Pace says he will take as long as Vee needs.",
-   "quote": "As long as she needs.",
+   "text": "Randi has angry sex with Pace.",
+   "quote": "She put him inside her in one motion and drove.",
+   "detail_quote": "She put him inside her in one motion and drove.",
    "support": [
-    "B429",
-    "D190"
+    "B419",
+    "C85",
+    "D194"
    ]
   },
   {
@@ -4344,6 +4803,7 @@
    "ch": 18,
    "text": "Pace does not know what he has done wrong.",
    "quote": "He did not know what he had done.",
+   "detail_quote": "He covered the bowl with a plate and put it in the refrigerator, for her",
    "support": [
     "B420",
     "D196"
@@ -4352,8 +4812,21 @@
   {
    "section": "STORY",
    "ch": 18,
+   "text": "Pace serves Randi from the small apple bowl.",
+   "quote": "Hers was the small one, the one he sliced her apples into.",
+   "detail_quote": "He had set out two bowls. Hers was the small one, the one he sliced her apples into.",
+   "support": [
+    "B421",
+    "C234",
+    "D188"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 18,
    "text": "Randi tastes only the surface of the stew.",
    "quote": "She drew it through the sauce, not down into the bowl",
+   "detail_quote": "She drew it through the sauce, not down into the bowl",
    "support": [
     "B427",
     "C235"
@@ -4362,8 +4835,20 @@
   {
    "section": "STORY",
    "ch": 18,
+   "text": "Pace says he will take as long as Vee needs.",
+   "quote": "As long as she needs.",
+   "detail_quote": "How long are you going to take?",
+   "support": [
+    "B429",
+    "D190"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 18,
    "text": "Randi accuses Pace of keeping Vee to himself on weekends.",
    "quote": "You've got her all weekend, every weekend",
+   "detail_quote": "You've got her Friday to Sunday,\" Randi said.",
    "support": [
     "B430",
     "C236",
@@ -4375,6 +4860,7 @@
    "ch": 18,
    "text": "Randi eats all the salad.",
    "quote": "She ate the salad. All of it",
+   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
    "support": [
     "B432",
     "C237"
@@ -4385,6 +4871,7 @@
    "ch": 18,
    "text": "Randi rides Pace without asking him to describe Vee.",
    "quote": "She did not say tell me.",
+   "detail_quote": "She did not say tell me. Every night in this house she had said it",
    "support": [
     "B434",
     "C238",
@@ -4396,42 +4883,34 @@
    "ch": 18,
    "text": "Randi turns her back to Pace afterward.",
    "quote": "lay on her side with her back to him",
+   "detail_quote": "lay on her side with her back to him",
    "support": [
     "B435",
-    "C238",
-    "D195"
-   ]
-  },
-  {
-   "section": "REL",
-   "ch": 18,
-   "text": "Randi has angry sex with Pace.",
-   "quote": "She put him inside her in one motion and drove.",
-   "support": [
-    "B419",
     "C85",
-    "D194"
+    "D195"
    ]
   },
   {
    "section": "STORY",
    "ch": 18,
-   "text": "Pace serves Randi from the small apple bowl.",
-   "quote": "Hers was the small one, the one he sliced her apples into.",
+   "text": "Randi confronts Pace about delaying the threesome.",
+   "quote": "How long are you going to take?",
+   "detail_quote": "You've got her Friday to Sunday,\" Randi said.",
    "support": [
-    "B421",
-    "C234",
-    "D188"
+    "B415",
+    "C236",
+    "D190"
    ]
   },
   {
    "section": "STORY",
    "ch": 19,
-   "text": "The finished dress hangs in the sun porch.",
+   "text": "Vee sees the dress hanging in sunlight.",
    "quote": "He'd hung it from the lip of the window frame",
+   "detail_quote": "He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk",
    "support": [
     "A317",
-    "B443",
+    "B447",
     "C239"
    ]
   },
@@ -4440,6 +4919,7 @@
    "ch": 19,
    "text": "Pace installed a new mirror.",
    "quote": "newly hung, the screw heads still bright",
+   "detail_quote": "He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk",
    "support": [
     "A318",
     "B448",
@@ -4451,6 +4931,7 @@
    "ch": 19,
    "text": "Vee wears the dress with nothing underneath.",
    "quote": "She hooked her thumbs in the waistband and slid the underwear down her legs",
+   "detail_quote": "She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it",
    "support": [
     "A319",
     "B439",
@@ -4463,10 +4944,11 @@
    "ch": 19,
    "text": "Vee initiates standing sex with Pace.",
    "quote": "she closed the last of the distance herself and took him in",
+   "detail_quote": "And then she walked to him. Not the careful walk — she strode, the slit swinging open on her bare leg and her hip with every step",
    "support": [
     "A320",
     "B440",
-    "C241",
+    "C86",
     "D201"
    ]
   },
@@ -4475,11 +4957,11 @@
    "ch": 19,
    "text": "Pace falls asleep after sex.",
    "quote": "Pace was asleep.",
+   "detail_quote": "Pace was asleep. He'd gone down hard and fast the way she was learning he did",
    "support": [
     "A321",
     "B461",
-    "C243",
-    "D205"
+    "C243"
    ]
   },
   {
@@ -4487,6 +4969,7 @@
    "ch": 19,
    "text": "Vee daydreams about the induction.",
    "quote": "She could see the whole thing. The high room, the good light",
+   "detail_quote": "Pace was asleep. He'd gone down hard and fast the way she was learning he did",
    "support": [
     "A322",
     "B462",
@@ -4499,6 +4982,7 @@
    "ch": 19,
    "text": "Vee cries when she sees the finished dress.",
    "quote": "she hadn't decided to cry and she was crying",
+   "detail_quote": "She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it",
    "support": [
     "B438",
     "C240",
@@ -4508,29 +4992,9 @@
   {
    "section": "STORY",
    "ch": 19,
-   "text": "Pace greets Vee with a careful kiss.",
-   "quote": "a careful peck, a question",
-   "support": [
-    "B445",
-    "D198"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 19,
-   "text": "Pace interrupts a deeper kiss to show Vee the dress.",
-   "quote": "And he broke it.",
-   "support": [
-    "B446",
-    "C239",
-    "D198"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 19,
    "text": "Vee undresses alone in the sun porch.",
    "quote": "She undressed where she stood",
+   "detail_quote": "She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it",
    "support": [
     "B449",
     "C240",
@@ -4542,6 +5006,7 @@
    "ch": 19,
    "text": "Vee puts on the finished gown.",
    "quote": "brought it down over her head",
+   "detail_quote": "She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it",
    "support": [
     "B450",
     "C240",
@@ -4553,6 +5018,7 @@
    "ch": 19,
    "text": "Vee sees that the dress has a hip-high slit.",
    "quote": "And the slit came open all the way up. To the hip.",
+   "detail_quote": "She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it",
    "support": [
     "B452",
     "C240",
@@ -4562,12 +5028,13 @@
   {
    "section": "STORY",
    "ch": 19,
-   "text": "Vee strides to Pace wearing the dress without underwear.",
-   "quote": "And then she walked to him.",
+   "text": "Pace interrupts a deeper kiss to show Vee the dress.",
+   "quote": "And he broke it.",
+   "detail_quote": "He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk",
    "support": [
-    "B454",
-    "C241",
-    "D201"
+    "B446",
+    "C239",
+    "D198"
    ]
   },
   {
@@ -4575,6 +5042,7 @@
    "ch": 19,
    "text": "Vee opens Pace’s belt.",
    "quote": "Her hands went down between them and had his belt open",
+   "detail_quote": "And then she walked to him. Not the careful walk — she strode",
    "support": [
     "B455",
     "C241"
@@ -4585,6 +5053,7 @@
    "ch": 19,
    "text": "Vee stops to protect the dress.",
    "quote": "Wait,\" she said, against his mouth",
+   "detail_quote": "cleaning her own slickness off her fingers with his eyes on hers the whole while",
    "support": [
     "B456",
     "C242"
@@ -4595,6 +5064,7 @@
    "ch": 19,
    "text": "Pace cleans Vee’s fingers with his mouth.",
    "quote": "took two of them into his mouth",
+   "detail_quote": "cleaning her own slickness off her fingers with his eyes on hers the whole while",
    "support": [
     "B457",
     "C242",
@@ -4606,6 +5076,7 @@
    "ch": 19,
    "text": "Vee and Pace return the dress to its hanger.",
    "quote": "hung in the window it had come from",
+   "detail_quote": "Pace was asleep. He'd gone down hard and fast the way she was learning he did",
    "support": [
     "B458",
     "C243"
@@ -4616,6 +5087,7 @@
    "ch": 19,
    "text": "Pace carries Vee toward the bedroom.",
    "quote": "Then he walked.",
+   "detail_quote": "Pace was asleep. He'd gone down hard and fast the way she was learning he did",
    "support": [
     "B459",
     "C243",
@@ -4627,19 +5099,10 @@
    "ch": 19,
    "text": "Vee holds Pace away with her feet.",
    "quote": "She got her feet up between them instead",
+   "detail_quote": "She got her feet up between them instead",
    "support": [
     "B460",
     "D203"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 19,
-   "text": "Vee imagines letting the room look at her.",
-   "quote": "she stood in the middle of the light and let them look",
-   "support": [
-    "B463",
-    "D205"
    ]
   },
   {
@@ -4647,9 +5110,21 @@
    "ch": 19,
    "text": "Pace has sex with Vee again in his bedroom.",
    "quote": "Then he gave her the rest of himself",
+   "detail_quote": "And then she walked to him. Not the careful walk — she strode, the slit swinging open on her bare leg and her hip with every step",
    "support": [
     "B441",
-    "C243"
+    "C86"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 19,
+   "text": "Vee imagines letting the room look at her.",
+   "quote": "she stood in the middle of the light and let them look",
+   "detail_quote": "she stood in the middle of the light and let them look",
+   "support": [
+    "B463",
+    "D205"
    ]
   },
   {
@@ -4657,6 +5132,7 @@
    "ch": 20,
    "text": "Cassie notices Vee's made bed.",
    "quote": "Your bed's made,\" said Cassie",
+   "detail_quote": "Your bed's made,\" said Cassie",
    "support": [
     "A324",
     "B470"
@@ -4667,6 +5143,7 @@
    "ch": 20,
    "text": "The professor teaches Simpson's paradox.",
    "quote": "Simpson's paradox,\" he said to the room",
+   "detail_quote": "That's not a problem, that's a date. You and me, Saturday. We are not quitting until the shoes are as right as the dress.",
    "support": [
     "A325",
     "B482",
@@ -4679,6 +5156,7 @@
    "ch": 20,
    "text": "Cassie watches Vee instead of the lecture.",
    "quote": "Cassie did not care about the dress.",
+   "detail_quote": "Same numbers. Nobody touched one of them.",
    "support": [
     "A326",
     "D209"
@@ -4689,6 +5167,7 @@
    "ch": 20,
    "text": "Randi calls Vee a lucky slut.",
    "quote": "You lucky slut.",
+   "detail_quote": "That's not a problem, that's a date. You and me, Saturday. We are not quitting until the shoes are as right as the dress.",
    "support": [
     "A327",
     "B472",
@@ -4701,6 +5180,7 @@
    "ch": 20,
    "text": "Randi plans a shoe-shopping day.",
    "quote": "You and me, Saturday.",
+   "detail_quote": "That's not a problem, that's a date. You and me, Saturday. We are not quitting until the shoes are as right as the dress.",
    "support": [
     "A328",
     "B466",
@@ -4713,21 +5193,12 @@
    "ch": 20,
    "text": "Randi sees the dress on Vee in the dorm.",
    "quote": "He didn't make this for you,\" she said.",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
    "support": [
     "A329",
     "B467",
-    "C246"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 20,
-   "text": "Vee changes into the dress before showing Randi.",
-   "quote": "carried the bag through to the bathroom and put it on",
-   "support": [
-    "B485",
     "C246",
-    "D212"
+    "D211"
    ]
   },
   {
@@ -4735,6 +5206,7 @@
    "ch": 20,
    "text": "Randi pauses at the shoulder seam.",
    "quote": "for a breath Randi was somewhere else, behind her own face",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
    "support": [
     "A330",
     "C246",
@@ -4746,6 +5218,7 @@
    "ch": 20,
    "text": "Vee and Randi both wear size seven.",
    "quote": "Same feet, baby.",
+   "detail_quote": "A dress a man sat up nights making doesn't want to go with everything.",
    "support": [
     "A331",
     "B493",
@@ -4758,6 +5231,7 @@
    "ch": 20,
    "text": "Randi touches Vee’s painted toenail.",
    "quote": "A thumb moved once across the nail of the big toe",
+   "detail_quote": "At the toes. At the polish there: a frosted plum, deliberate, chosen to catch the light as the silk did.",
    "support": [
     "A333",
     "B469",
@@ -4768,19 +5242,9 @@
   {
    "section": "STORY",
    "ch": 20,
-   "text": "Randi kneels to put a shoe on Vee.",
-   "quote": "went down onto one knee in front of the bench",
-   "support": [
-    "B468",
-    "C248",
-    "D216"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 20,
    "text": "Vee pays on her credit card.",
    "quote": "the credit card she kept for emergencies and gas",
+   "detail_quote": "A thumb moved once across the nail of the big toe, light",
    "support": [
     "A334",
     "B498",
@@ -4793,6 +5257,7 @@
    "ch": 20,
    "text": "Randi buys loafers and wears them out.",
    "quote": "She walked out of the boutique in brand-new shoes like it was nothing on earth",
+   "detail_quote": "She walked out of the boutique in brand-new shoes like it was nothing on earth",
    "support": [
     "A335",
     "B499",
@@ -4805,6 +5270,7 @@
    "ch": 20,
    "text": "Vee feels she never had a friend like Randi.",
    "quote": "she had never once in her life had a friend like this",
+   "detail_quote": "she had never once in her life had a friend like this.",
    "support": [
     "A336",
     "B501"
@@ -4815,9 +5281,22 @@
    "ch": 20,
    "text": "Vee tells Cassie and Randi that the dress is finished.",
    "quote": "She told them it was finished",
+   "detail_quote": "That's not a problem, that's a date. You and me, Saturday. We are not quitting until the shoes are as right as the dress.",
    "support": [
     "B465",
     "C245"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 20,
+   "text": "Randi kneels to put a shoe on Vee.",
+   "quote": "went down onto one knee in front of the bench",
+   "detail_quote": "A thumb moved once across the nail of the big toe, light",
+   "support": [
+    "B468",
+    "C248",
+    "D216"
    ]
   },
   {
@@ -4825,6 +5304,7 @@
    "ch": 20,
    "text": "Randi learns that Pace stayed up all night finishing Vee’s dress.",
    "quote": "He was up all night finishing it",
+   "detail_quote": "it came to her that it might be jealousy.",
    "support": [
     "B471",
     "D213"
@@ -4833,19 +5313,9 @@
   {
    "section": "STORY",
    "ch": 20,
-   "text": "Randi says the dress was made to Vee.",
-   "quote": "He made it to you.",
-   "support": [
-    "B488",
-    "C246",
-    "D212"
-   ]
-  },
-  {
-   "section": "STORY",
-   "ch": 20,
    "text": "Vee leaves Pace’s house at eight in the morning.",
    "quote": "Eight was when she'd left Pace's",
+   "detail_quote": "the one place she got both her girls in a single room",
    "support": [
     "B476",
     "C244",
@@ -4857,6 +5327,7 @@
    "ch": 20,
    "text": "Vee arrives late to her classes.",
    "quote": "She was late to her nine and barely made her ten",
+   "detail_quote": "the one place she got both her girls in a single room",
    "support": [
     "B477",
     "D207"
@@ -4867,6 +5338,7 @@
    "ch": 20,
    "text": "Vee sits between Cassie and Randi in statistics.",
    "quote": "They'd left the seat between them open",
+   "detail_quote": "the one place she got both her girls in a single room",
    "support": [
     "B478",
     "C244",
@@ -4878,10 +5350,11 @@
    "ch": 20,
    "text": "Vee confirms that she did not sleep in the dorm.",
    "quote": "I did not come home.",
+   "detail_quote": "That's not a problem, that's a date. You and me, Saturday. We are not quitting until the shoes are as right as the dress.",
    "support": [
     "B479",
-    "C245",
-    "D208"
+    "D208",
+    "C245"
    ]
   },
   {
@@ -4889,6 +5362,7 @@
    "ch": 20,
    "text": "Cassie asks whether Vee had a good night.",
    "quote": "Was it a good night?",
+   "detail_quote": "You and me, Saturday.",
    "support": [
     "B480",
     "D210"
@@ -4899,6 +5373,7 @@
    "ch": 20,
    "text": "Randi walks Vee back to the dorm.",
    "quote": "It was Randi who said she'd walk her back",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
    "support": [
     "B484",
     "C246",
@@ -4908,8 +5383,21 @@
   {
    "section": "STORY",
    "ch": 20,
+   "text": "Vee changes into the dress before showing Randi.",
+   "quote": "carried the bag through to the bathroom and put it on",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
+   "support": [
+    "B485",
+    "C246",
+    "D212"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 20,
    "text": "Randi identifies the fabric as charmeuse.",
    "quote": "Charmeuse,\" she said",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
    "support": [
     "B487",
     "C246"
@@ -4918,8 +5406,21 @@
   {
    "section": "STORY",
    "ch": 20,
+   "text": "Randi says the dress was made to Vee.",
+   "quote": "He made it to you.",
+   "detail_quote": "Randi stepped back to take in all of it again. \"He didn't make this for you,\" she said. \"He made it to you.",
+   "support": [
+    "B488",
+    "C246",
+    "D212"
+   ]
+  },
+  {
+   "section": "STORY",
+   "ch": 20,
    "text": "Vee and Randi reject shoes at a discount store.",
    "quote": "they had a bench between them stacked with nos",
+   "detail_quote": "Six-inch platforms bedazzled toe to ankle in pink rhinestones",
    "support": [
     "B490",
     "C247",
@@ -4931,6 +5432,7 @@
    "ch": 20,
    "text": "Randi tries six-inch pink rhinestone platforms.",
    "quote": "six-inch platforms bedazzled toe to ankle in pink rhinestones",
+   "detail_quote": "six-inch platforms bedazzled toe to ankle in pink rhinestones",
    "support": [
     "B491",
     "C247",
@@ -4942,6 +5444,7 @@
    "ch": 20,
    "text": "Vee selects a sensible tan heel.",
    "quote": "It's the sensible one.",
+   "detail_quote": "A dress a man sat up nights making doesn't want to go with everything.",
    "support": [
     "B492",
     "C247",
@@ -4953,9 +5456,11 @@
    "ch": 20,
    "text": "Randi takes Vee to an expensive boutique.",
    "quote": "It was not a store Vee would ever have walked into on her own.",
+   "detail_quote": "She came out of the bathroom in it, bare-shouldered, the hem just off the floor without the shoes, and stood in the middle of the room and let Randi look.",
    "support": [
     "B494",
-    "C248"
+    "C87",
+    "D216"
    ]
   },
   {
@@ -4963,6 +5468,7 @@
    "ch": 20,
    "text": "Randi chooses a high black strappy heel for Vee.",
    "quote": "a few thin black straps webbed across the foot",
+   "detail_quote": "A thumb moved once across the nail of the big toe, light",
    "support": [
     "B495",
     "C248",
@@ -4974,6 +5480,7 @@
    "ch": 20,
    "text": "Randi holds Vee’s foot on her knee.",
    "quote": "Randi lifted Vee's foot onto her knee",
+   "detail_quote": "A thumb moved once across the nail of the big toe",
    "support": [
     "B496",
     "D216"
@@ -4984,19 +5491,10 @@
    "ch": 20,
    "text": "Vee carries her shoe box against her chest.",
    "quote": "Vee carried her own box out against her chest",
+   "detail_quote": "Vee carried her own box out against her chest",
    "support": [
     "B500",
     "D219"
-   ]
-  },
-  {
-   "section": "MOTIF",
-   "ch": 20,
-   "text": "The burgundy dress remains hidden in its garment bag.",
-   "quote": "the dress three blocks back in a closet, zipped in its bag",
-   "support": [
-    "B473",
-    "C244"
    ]
   }
  ],
@@ -5063,5 +5561,5 @@
    "Vee"
   ]
  },
- "groups_raw": "A4 B6 C24 D3\nA5 B7 C24 D3\nA6 B8 C24 D3\nA7 B9 C25 D3\nA8 C30 D3\nA9 C27\nA10 C26 D3\nA12 C29\nA13 C22\nA14 B5 C23 D4\nA15 C100 D4\nA16 C31 D18\nA16 B10\nA19 B33 C135 D16\nA20 B21 D17\nA21 B35 C136 D19\nA22 B37 C136 D20\nA23 C88 D5\nA24 B11 D6\nA26 B17 C101\nA27 C129\nA28 C102\nA29 B18 C130 D7\nA30 C103\nA33 B22 C128 D8\nA34 B17 C129\nA35 B24 C130 D10\nA36 B25 C131\nA37 C23 D9\nA38 B12 C132 D11\nA39 B26 C132 D12\nA40 B28 C133 D12\nA41 B29 C133 D14\nA41 B30 C63\nA42 B32 C134 D15\nA43 C134 D16\nA44 B34 C135 D17\nA44 B20\nA46 B36 D20\nB13 C132 D13\nB14 C134\nB19 C131\nB23 C129 D9\nC89 D19\nA49 B39 C32 D22\nA51 B40 C33 D24\nA54 C33 D24\nA52 C34 D23 B41\nA53 C35 D23 B42\nA56 C36 B51\nA57 C90 C139 D27\nA58 B52 C37\nA59 B53 D28\nA60 B49 C137 D26\nA61 B50 C138\nA62 C140 D28\nA63 B54 C140 D29\nA64 C141 D30\nA65 B56 C142 D31\nA66 B48 D32\nA67 B57 D31\nB47 D26\nB55 C141 D31\nB43 D25\nB44 C90\nA71 B60 C64 D34\nA72 B67 C144 D34\nA73 B61 C145 D35\nA74 B68 C146 D36\nA75 B70\nA76 B71 C65 D37\nA77 B62 C146\nA78 B72 C147 D39\nA79 B73 C147\nA80 B74 C148 D41\nA81 B75 C148 D41\nA82 B77 C149 D42\nA83 C149\nB76 C149 D42\nA84 B78 C150\nA85 B79 C66\nA86 B80 C150 D43\nA87 C143\nA88 C38\nA89 C38\nA90 C38\nB59 C143 D34\nB82 C39\nA93 B83 C40\nA94 D46\nA95 B84 C41 D47\nA96 B85 C42\nA97 C156\nA98 C40 D46\nA99 B90\nA100 B91 C156 D53\nA101 B93 C151 D48\nA102 B94 C152 D49\nB86 C67\nA103 B96 C152 D50\nA104 C153\nA105 B98 C154\nB87 C67\nA106 B88 C154\nA107 C105 D51\nA108 D51\nA109 B101 C155 D52\nA110 B103\nA111 B89 C157 D54\nB92 C157 D54\nB104 C157 D54\nB102 C106 D52\nA113 C104\nB100 C155\nA116 C43\nA118 B121 C162\nA120 D56\nA119 C159\nA122 C158 D55\nA123 B117 C159 D57\nA124 B118 C160 D57\nA125 C160 D60\nA126 B119 B120 C161 D59\nA127 C161 D61\nA129 B110 C163 D63\nA131 B124 C163 D63\nA132 B125 C164 D64\nA134 C165\nA135 B128 D65\nA136 D58\nB108 C160\nB111 C68 C163 D63\nB112 C69 C164 D64\nB122 C162\nB123 C162 D62\nB126 C69\nB127 C165 D65\nB114 C92\nB107 C92\nB115 D58\nC44 B122\nA138 B130 C70 D67\nA139 B132 C93\nA140 C167\nA142 B137 C167 D67\nA142 B138 C167 D68\nA143 B131 C168 D69\nA144 B140 C169 D71\nA145 B141 C169 D72\nA145 B142 D72\nA146 D68\nB133 C107\nB134 C168\nB136 C166\nB143 C169 D72\nA149 C46\nA150 C45 D74\nA151 C47\nA152 B146 C171 D75\nA153 B152 C170 D75\nA154 B153 C171\nA155 B155 C172 D76\nA156 B156 C173 D77\nA157 B147 C174 D78\nA157 B148 C174 D78\nA159 B158 C175 D80\nB157 C174 D78\nB154 C171 D76\nB150 C172 D76\nA158 D79\nA161 B160 C48 D85\nA162 B161 C50 D87\nA163 B162 C49 C180 D87\nA164 B176\nA165 B171 C176 D82\nA166 B172 C177 D83\nA167 B164 C178 D84\nA168 B166 B168 C179 D85\nA169 B169 D86\nA170 C181\nA171 B182 C181 D88\nA172 B183 C182 D89\nA173 B185 C182\nB163 C176\nB165 C71 D84\nB167 C72 D89\nB170 B187 D90\nB173 C178 D84\nB177 D85\nB178 C179\nB179 C180 D85\nB180 C180\nB181 C180 D87\nB184 C182\nB186 D89\nB188 C182\nA175 B195 C51 D94\nA176 C185 D95\nA178 B193 C188 D99\nA179 B190 C183\nA180 D92\nA181 B191 C184 D93\nA182 B196\nA183 C94\nB203 C185 D95\nA185 C186 D96\nA186 B204 C187\nB206 C187 D98\nA188 B207\nA189 B208 C188 D99\nA190 B194 C188 D99\nA192 B211 D100\nB205 C187 D97\nB200 C183 D93\nB192 C185 D96\nB197 C184\nA194 C189\nA195 B230 C192 D107\nA197 B215 C193 D108\nA198 B216 C194 D109\nA199 B231 C192 D107\nA200 C189 D103\nA201 B214 C190 D103\nA202 B226 C191 D104\nA203 B227 C191 D105\nA204 B217 C192 D106\nA205 D107\nA206 B232 C193 D108\nA207 B234 C194 D109\nA209 B237 C195 D110\nA210 B220 C112 D111\nA211 C189\nA212 C111\nB238 C195 D111\nB213 C74\nB229 C192 D106\nB224 C190\nB233 C193\nB236 C194\nA214 B244 C200 D117\nA215 B254 C201 D118\nA216 C95\nA218 C196\nA219 C196\nA220 B249 C197\nA221 B252 C199 D115\nA222 B253 C200 D116\nA223 B255 C201 D118\nA224 B257\nB242 C76 D113\nB243 C199 D115\nB246 C114\nB247 C198 D115\nB248 C196\nB250 C197 D113\nB251 C198 D114\nC113 D113\nA226 B259 C53 D121\nA227 B261 C54 D124\nA228 B262 C55 D120\nB260 D120\nA229 B266 C202\nB267 C202\nA230 B269 C203 D122\nA231 B270 C203\nB271 D123\nA232 B264 B272 C204 D125\nA233 B273 C205 D126\nB274 D126\nA236 B281 C56 D134\nA237 B282 C208 D135\nA238 B280 C116 D138\nA239 B278 C210 D138\nB279 C210\nA241 B286 C206 D128\nA242 B289 C206 D129\nA243 C115\nA244 B291 C207 D130\nA246 B293 C207 D131\nA247 B294 C208 D132\nA248 B296 C57 D136\nA249 B297 C209 D137\nA250 B283 C96\nB276 C77\nB295 D133\nB298 D137\nB287 D128\nB290 C207 D130\nB299 C210\nC209 D137\nA254 B310 C211 D140\nA255 B303 C211 D141\nA256 B307 C212 D142\nA257 B316\nA258 B319 C213 D143\nA259 B320 C213 D143\nA260 B324 C214 D145\nA261 B326 D146\nA262 B309 C216 D147\nA263 B305 C217 D150\nA264 B331 C217 D150\nB302 C78\nB304 C79 C217 D149\nB312 C211 D141\nB314 C212\nB321 D144\nB322 C214 D145\nB323 C214\nB325 C78 C215\nB327 C215 D147\nB329 C216 D148\nB330 C79 D150\nB332 D151\nB308 D142\nB306 D144\nA266 B350 C59 D157\nA267 C120\nA268 C60\nA269 B339 C81 D164\nB361 C223\nA270 B337 C219 D156\nA271 B359 C97 D162\nA272 B340 C218 D153\nA273 C219 D154\nA274 B338 C220\nA275 B352 C221 D158\nA276 B353 C221 D159\nA277 C121 D160\nA278 B356 C222 D161\nA279 B357\nA280 B360 C223 D163\nA281 B362 C223 D165\nB341 D165\nB334 C218 D153\nB335 C218 D154\nB347 C119 D153\nB346 C118\nB349 D155\nB355 D160\nA284 C224\nA285 B373 C224 D168\nA286 B374 C225 D168\nA287 B375 C226 D169\nA288 B369\nA289 B365 C226 D169\nA290 B368 C61 D172\nA291 B366 C82 D173\nA292 B385 C229 D174\nA293 B367 C83 D175\nB387 C229 D175\nB370 C227\nB376 C226\nB378 C227 D170\nB380 C227 D171\nB386 C229 D174\nB372 C122 D167\nC228 D173\nA295 B391 C98 D178\nA296 B399\nA297 B401 C230 D179\nA298 B402 C230 D180\nA299 B403 D180\nA300 B405 C231\nA301 C231 D181\nA302 C232 D182\nA303 B409 C232 D184\nA305 B410\nB390 C230 D178\nB392 B406 C232 D181\nB393 B411 D183\nB394 C84 C233 D186\nB395 C98\nB396 C230 D179\nB398 D177\nB404 C231\nB408 C232 D182\nB412 C233\nB413 C233 D186\nA304 C233 D185\nA307 B418 C236 D191\nA308 B431 C237 D193\nA309 B428 C235 D189\nA310 B424 C234 D188\nA311 B433 C237 B423\nA312 C236 D190\nA313 B417 C237 D192\nA314 B422 C238 D194\nA315 B436 C238 D196\nB416 D190\nB429 D190\nB420 D196\nB427 C235\nB430 C236 D191\nB432 C237\nB434 C238 D194\nB435 C238 D195\nB419 C85 D194\nB421 C234 D188\nA317 B443 B447 C239\nA318 B448 C239\nA319 B439 B453 B454 C240 C86 D200\nA320 B440 C241 C86 D201\nA321 B461 C243 D205\nA322 B462 C243 D205\nB438 C240 D199\nB445 D198\nB446 C239 D198\nB449 C240 D199\nB450 C240 D199\nB452 C240 D200\nB454 C241 D201\nB455 C241\nB456 C242\nB457 C242 D202\nB458 C243\nB459 C243 D203\nB460 D203\nB463 D205\nB441 C243 C86\nA324 B470\nA325 B482 C245 D209\nA326 D209\nA327 B472 C245 D210\nA328 B466 C245 D210\nA329 B467 C246\nB485 C246 D212\nA330 C246 D212\nA331 B493 C247 D215\nA333 B469 C127 D216\nB468 C248 D216\nA334 B498 C248 D217\nA335 B499 C248 D218\nA336 B501\nB465 C245\nB471 D213\nB488 C246 D212\nB476 C244 D207\nB477 D207\nB478 C244 D207\nB479 C245 D208\nB480 D210\nB484 C246 D211\nB487 C246\nB490 C247 D214\nB491 C247 D214\nB492 C247 D215\nB494 C248\nB495 C248 D216\nB496 D216\nB500 D219\nB473 C244"
+ "groups_raw": "A4 B6 C24 D3\nA5 B7 C24 D3\nA6 B8 C24 D3\nA7 B9 C25 D3\nA8 C30 D3\nA9 C27\nA10 C26 D3\nA12 C29\nA13 C22\nA14 B5 C23 D4\nA15 C100 D4\nA16 C31 D18\nA18 D18\nA16 B10\nA19 B33 C135 D16\nA20 B21 D17\nA21 B35 C89 D19\nA22 B37 C136 D20\nA23 C88 D5\nA24 B11 D6\nA26 B17 C101\nA27 C129\nA28 C102\nA29 B18 C130 D7\nA30 C103\nA33 B22 C128 D8\nA34 C129\nA35 B24 C130 D10\nA36 C131\nA37 C23 D9\nA38 C132 D11\nA39 B26 C132 D12\nA40 B28 C133 D12\nA41 B29 C133 D14\nA42 B32 C134 D15\nA43 C134 D16\nA44 B20 C135 D17\nA45 C136 D19\nA46 B36 D20\nB12 D11\nB13 C132 D13\nB14 C134 D15\nB19 D8\nB23 C129 D9\nB25 C131\nB30 C63 D14\nB34 D17\nC62 D9\nC63 D19\nC136 B35\nA49 B39 C32 D22\nA51 B40 C33 D24\nA54 C33 D24\nA52 B41 C34 D23\nA53 B42 C35 D23\nA56 C36 B51 C140\nA57 C139 D27 C90 B44\nA58 B52 C37 C140\nA59 B53 D28\nA60 B49 C137 D26\nA61 B50 C138\nA62 C140 D28\nA63 B54 C140\nA64 C141 D30\nA65 B56 C142 D31\nA67 B57 D31 C142\nB47 D26\nB48 D32\nB55 C141 D31\nB43 D25\nA71 B60 C144 D34\nA72 B67 C144 D34\nB59 C143 D34\nA73 B61 C145 D35\nA74 B68 C146 D36\nA75 B70\nA76 B71 C146 D37\nA77 B62\nA78 B72 C147 D39\nA79 B73 C147\nA80 B74 C148 D41\nA81 B75 C148 D41\nA82 B77 C149 D42\nA83 C149\nB76 C149 D42\nA84 B78 C150\nA85 B79 C150\nA86 B80 C150 D43\nA88 C38\nA89 C38\nA90 C38\nB65 C143\nA93 B83 C40\nA94 D46\nA95 C41 D47 B84\nA96 B85 C42\nA97 C156\nA98 C40 D46\nA99 B90 D48\nA100 B91 C156 D53\nA101 B93 C151 D48\nA102 B86 C152 D49 C67\nA103 B95 C152 D50\nB96 C152 D50\nA104 C153\nA105 B87 C154 B98\nA106 B88 C154\nA107 C105 D51\nA108 D51\nA109 C155 D52\nB101 C155 D52\nA110 B103\nA111 B89 C157 D54\nB92 C157 D54 A111\nA113 C104\nB82 C39\nB94 C152 D49\nB97 C153\nB100 C155 C67\nB102 C106 D52\nB104 C157 D54\nA116 C43\nA118 B121 C162\nA120 C159 D56\nB114 C92\nA122 C158 D55\nA123 B117 C159 D57\nA124 B118 C160 D57\nA125 C160 D60\nA126 B120 C161 D59\nA127 C161 D61\nA129 B110 C163 D63\nB111 C68\nA131 B124 C163 D63\nA132 B125 C164 D64\nB112 D64\nB126 C69\nA134 C165\nB127 C165 D65\nA135 B128\nA136 D58\nB115 D58\nB122 C162\nB123 C162 D62\nB108 C160\nA138 B130 C70 D67\nA139 B132 C93\nA140 C167\nA142 B137 C167 D67\nA142 B138 C70 D68\nA143 B131 C168 D69\nA144 C169 D71\nA140 B140 C169\nA145 B141 C169 D72\nA146 D68\nB142 D72\nB133 C107 C166\nB143 C169 D72\nB135 C167\nB134 C168\nB136 C166 D67\nA149 C46\nA150 C45 D74\nA151 C47\nA153 B152 C170 D75\nA154 B153 C171\nB146 C171 D75\nB154 C171 D76\nA155 B155 C172 D76\nB150 C172 D76\nA156 B156 C173 D77\nA157 B147 C174 D78\nA157 B148 C174 D78\nB157 C174 D78\nA158 D79\nA159 B158 C175 D80\nA161 B160 C48 D85\nA162 B161 C50 D87\nA163 B162 C49 D87\nA163 C50\nA164 B176\nA165 B163 B171 C176 D82\nA166 B172 C177 D83\nA167 B164 B173 C178 D84\nA168 B166 B168 C179 D85\nA168 B165 C71\nA169 B169 D86\nA170 C181\nA171 B182 C181 D88\nA172 B183 C182 D89\nA173 B185 C182\nA173 B167 B186 C72 D89\nB170 B187 D90\nB177 D85\nB178 C179\nB179 C180\nB180 C180\nB181 C180 D87\nB184 C182\nB188 C182\nA175 B195 C51 D94\nA176 C185 D95\nA178 B193 C73 D99\nA190 B194 C188 D99\nA179 B190 C183\nA180 D92\nA181 B191 C184 D93\nA182 B196\nA183 C94\nB203 C185 D95\nA185 C186 D96\nA186 B204 C187\nB206 C187 D98\nA188 B207\nA189 B208 C188 D99\nB205 C187 D97\nA192 B211 D100\nB200 C183 D93\nB192 C185 D96\nA195 B230 C192 D107\nA197 B215 C193 D108\nA198 B216 C194 D109\nB235 C75\nA199 B231 C192 D107\nA200 B223 C189 D103\nA201 B214 C190 D103\nA202 B226 C191 D104\nA203 B227 C191 D105\nA204 B217 C192 D106\nB229 D106\nA205 D107\nA206 B232 C193 D108\nA207 B234 C194 D109\nA209 B237 C195 D110\nA210 B220 C112 D111\nA211 C189\nA212 C111\nB224 C190\nB236 C194\nB238 C195 D111\nB213 C74\nB221 D102\nB233 C193\nA214 B244 C200 D117\nA215 B254 C201 D118\nA216 C95\nA218 C196\nA219 C196\nA220 B249 C197\nA221 B252 C199 D115\nA222 B253 C200 D116\nA223 B255 C201 D118\nA224 B257\nB242 C76 D113\nB243 C199 D115\nB246 C114\nB247 C200 D115\nB248 C196\nB250 C197 D113\nB251 C198 D114\nC113 D113\nA226 B259 C53 D121\nA227 B261 C54 D124\nA228 B262 C55 D120\nB260 D120\nA229 B266 C202\nB267 C202\nA230 B269 C203 D122\nA231 B270 C203\nA232 B264 C204 D125\nB272 C204 D125\nA233 B273 C205 D126\nB271 D123\nB274 D126\nA236 B281 C56 D134\nA237 B282 C208 D135\nA238 B280 C58 D138\nA239 B278 C210 D138\nA241 B286 C206 D128\nA242 B289 C206 D129\nA243 C115\nA244 B291 C207 D130\nA246 B293 C207 D131\nA247 B294 C208 D132\nA248 B296 C57 D136\nA249 B297 C209 D137\nA250 B283 C96\nB276 C77\nB287 D128\nB298 D137\nB295 D133\nB290 C207 D130\nB299 C210\nA254 B310 C211 D140\nA255 B303 C211 D141\nB312 C211 D141\nA256 B307 C212 D142\nA257 B316 C212\nA258 B319 C213 D143\nA259 B320 C213 D143\nA260 B324 C214 D145\nA261 B326 D146\nA262 B309 C216 D147\nA263 B305 C217 D150\nA264 B331 C217 D150\nB304 C217 D149\nB330 C79 D150\nB302 C78\nB308 C212 D142\nB322 C214 D145\nB323 C214\nB325 C215 D146\nB327 C215 D147\nB329 C216 D148\nB332 D151\nB321 C212 D144\nB328 D147\nA266 B350 C59 D157\nA267 C120\nA268 C60\nA269 B339 C81 D164\nB361 C223\nA270 B337 C219 D156\nA271 B359 C222 D162\nA272 B340 C218\nA273 C219 D154\nA274 B338 C220\nB351 D158\nA275 B352 C221 D158\nA276 B353 C221 D159\nA277 C121 D160\nA278 C222 D161\nB356 C80\nA279 B357\nA280 B360 C223 D163\nA281 B362 C223 D165\nB341 D165\nB334 C218 D153\nB335 C218 D154\nB346 C118\nB347 C119 D153\nB349 D155\nB354 D159\nB355 C222 D160\nB344 C218\nA284 C224\nA285 B373 C224 D168\nA286 B374 C225 D168\nA287 B375 C226 D169\nA288 B369\nA289 B365 C226 D169\nA290 B368 C61 D172\nA291 B366 C82 D173\nA292 B385 C229 D174\nA293 B367 C83 D175\nB387 C229 D175\nB370 C227\nB372 C122 D167\nB380 C227 D171\nB386 C229 D174\nB376 C226\nB378 C227\nC227 D170\nC228 D172\nB384 C228 D173\nA295 B391 C98 D178\nA296 B399\nA297 B401 C230 D179\nA298 B402 C230 D180\nA299 B403 D180\nA300 B405 C231\nA301 C231 D181\nA302 B408 C232 D182\nA303 B409 C232 D184\nA305 B410\nB390 C230 D178\nB392 B406 C232 D181\nB393 B411 D183\nB394 C84 C233 D186\nB395 C98\nB396 C230 D179\nB398 D177\nB404 C231\nB413 C233 D186\nA304 C233 D185\nA307 B418 C85 D191\nA308 B431 C237 D193\nA309 B428 C235 D189\nA310 B424 C234 D188\nA311 B423 B433 C237\nA312 C236 D190\nA313 B417 C237 D192\nA314 B422 C238 D194\nA315 B436 C238 D196\nB416 D190\nB419 C85 D194\nB420 D196\nB421 C234 D188\nB427 C235\nB429 D190\nB430 C236 D191\nB432 C237\nB434 C238 D194\nB435 C85 D195\nB415 C236 D190\nA317 B447 B443 C239\nA318 B448 C239\nA319 B439 B453 B454 C240 D200\nA320 B440 C86 C241 D201\nA321 B461 C243\nA322 B462 C243 D205\nB438 C240 D199\nB449 C240 D199\nB450 C240 D199\nB452 C240 D200\nB446 C239 D198\nB455 C241\nB456 C242\nB457 C242 D202\nB458 C243\nB459 C243 D203\nB460 D203\nB441 C86 C243\nB463 D205\nA324 B470\nA325 B482 C245 D209\nA326 D209\nA327 B472 C245 D210\nA328 B466 C245 D210\nA329 B467 C246 D211\nA330 C246 D212\nA331 B493 C247 D215\nA333 B469 C127 D216\nA334 B498 C248 D217\nA335 B499 C248 D218\nA336 B501\nB465 C245\nB468 C248 D216\nB471 D213\nB476 C244 D207\nB477 D207\nB478 C244 D207\nB479 D208 C245\nB480 D210\nB484 C246 D211\nB485 C246 D212\nB487 C246\nB488 C246 D212\nB490 C247 D214\nB491 C247 D214\nB492 C247 D215\nB494 C87 D216\nB495 C248 D216\nB496 D216\nB500 D219"
 }

@@ -105,6 +105,11 @@ def parse(body: str, structural: bool = True) -> list[dict]:
             section = raw[4:].strip()
             rows.append({"text": raw, "section": section, "kind": "heading"})
             continue
+        # A `  > "…"` line under a consensus fact is the page's own words, verified when
+        # the claim was parsed: structure, not a claim to audit.
+        if re.match(r"^\s*>\s", raw):
+            rows.append({"text": raw, "section": section, "kind": "quote"})
+            continue
         label_only = re.fullmatch(r"\s*(?:[-*]\s+)?\*\*[^*]+\*\*:?\s*", raw)
         fact = (section in FACT_SECTIONS and "↔" not in raw and raw.strip()
                 and not (structural and label_only))
@@ -268,7 +273,7 @@ def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
                 or (u["final"] == "INFERENCE" and rule_b
                     and norm(u["text"]).split(" (ch")[0].rstrip(".") in rule_b)}
         trims = {norm(u["text"]): u["kept"] for u in audit["units"] if u["final"] == "TRIM"}
-    out, k, section, dropped = [], 0, None, 0
+    out, k, section, dropped, last_kept = [], 0, None, 0, False
     for r in rows:
         if r["kind"] == "heading":
             section = r["section"]
@@ -276,6 +281,10 @@ def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
                 out.append(r["text"])
             continue
         if section not in FACT_SECTIONS:
+            continue
+        if r["kind"] == "quote":
+            if last_kept:          # a quote follows its fact; an orphan is dropped
+                out.append(r["text"])
             continue
         if r["kind"] == "other":
             if "↔" not in r["text"]:
@@ -294,6 +303,7 @@ def projection(ck: Path, audit: dict | None) -> tuple[str, str]:
                     kept.append(u.strip())
             else:
                 dropped += 1
+        last_kept = bool(kept)
         if kept:
             out.append(r["prefix"] + " ".join(kept))
     text = re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip() + "\n"

@@ -62,6 +62,9 @@ CLAIM_RE = re.compile(r"^\W*(POV|WHO|REL|KNOW|MOTIF|STORY)\s*\|\s*ch\s*(\d+)\s*\
                       re.I)
 GROUP_TOKEN = re.compile(r"\b([A-D])(\d+)\b")
 OR_MAX_OUTPUT = 80000
+# Sections whose facts carry the page's own words beneath them (gestures, objects, people,
+# relationships: where the specifics carry the meaning). STORY stays bare; it is the bulk.
+QUOTED_SECTIONS = {"MOTIF", "WHO", "REL"}
 
 
 def sha(text: str) -> str:
@@ -203,8 +206,13 @@ def admit(lists: dict[str, list[dict]], groups_raw: str, quorum: int) -> list[di
             continue
         seen_texts.add(best["text"])
         sec = Counter(c["section"] for c in cs).most_common(1)[0][0]
+        # The page's own words carry the detail the shortest wording drops (author ruling
+        # 2026-11-01: "a sharp edge under her thumbnail" lost argon's "water bottle cap…
+        # into the nail bed"). The longest verified member quote is the book, not a reading.
+        detail = max(cs, key=lambda c: len(c["quote"]))["quote"]
         admitted.append({"section": sec, "ch": min(c["ch"] for c in cs), "text": best["text"],
-                         "quote": best["quote"], "support": [f"{l}{n}" for l, n in members]})
+                         "quote": best["quote"], "detail_quote": detail,
+                         "support": [f"{l}{n}" for l, n in members]})
     return admitted
 
 
@@ -224,7 +232,10 @@ def render(admitted: list[dict], b: int, povs: dict[int, list[str]]) -> str:
                 text = " ".join(c["text"].rstrip(".") + "." for c in rows if c["ch"] == ch)
                 out.append(f"**Ch{ch} {titles.get(ch, '')}.** {lead}{text}\n")
         else:
-            out += [f"- {c['text'].rstrip('.')}. (ch{c['ch']})" for c in rows]
+            for c in rows:
+                out.append(f"- {c['text'].rstrip('.')}. (ch{c['ch']})")
+                if code in QUOTED_SECTIONS and c.get("detail_quote"):
+                    out.append(f'  > "{c["detail_quote"].strip(chr(34))}"')
             out.append("")
     return "\n".join(out).strip() + "\n"
 
