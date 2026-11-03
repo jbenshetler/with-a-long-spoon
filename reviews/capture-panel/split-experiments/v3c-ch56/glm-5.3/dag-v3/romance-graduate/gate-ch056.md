@@ -1,0 +1,35 @@
+*capture-dag-v3-grounded · gate ch056 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a7b2e348a660 · experiment v3c-ch56 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) + raw ch051..ch055 · history ch001..ch055 (borrowed from chain ch001..ch055) · ledger seed ch055 efe9dc81f05c · 2026-11-02*
+
+REACTION
+
+I had to put the book down after "She's not the only one in love," and then pick it right back up because these two were not done.
+
+Okay. First things first: RANDI CAME BACK. We haven't seen her at his house since the November morning she cried and called it hormones — the ledger I've been carrying since chapter 36 finally paid out. "I want to see you. Can I come over?" — the woman who arrives with a plan arrived without one, stopped just inside, and needed to throw the deadbolt before she could even let him speak. The deadbolt! Still her first act in his house, fifty-six chapters in, except now it reads less like control and more like *I need the door shut before I do this.* And "Where have you been," whispered, with two fingers over his mouth before he could answer — she didn't want an answer, she wanted to stand there and look at him anew for a minute. That's the most unperformative thing Randi has done in the entire book. Six weeks of absence for them too. I felt the length of it in that doorway.
+
+And the sex. Here's what got me: this is the exact scene Vee has been narrating secondhand all volume — Pace's "enthusiasm," the wet kiss, the oral and what comes after — and watching it from inside HIS head, it's suddenly not a technique, it's *a conversation these two are having in Vee's absence.* Every line of the middle section is the con dissolving in real time: "I miss her during the day. More at night." Said mid-stroke, mid-calm, like it cost nothing, and it costs everything. Randi confessing the neck kiss — "I nearly turned around" — I actually gasped, because I was THERE on that sidewalk, I watched Vee land it and file Randi's flinch under *ticklish*, and now the other side of the same four seconds is playing and the flinch was a woman stopping herself with the last of her discipline. And Pace KNOWS — "She kissed my neck again," she reports, like filing intel, and he says "You liked it" with his hands stopped and her pinned full, and the interrogation-foreplay structure from chapter one's bench is back but the power has moved. He's asking the questions now. She's answering. Nobody's running anything anymore and that's the whole tragedy and the whole turn-on simultaneously.
+
+Heat-wise: yes, obviously, the cleanup scene, "I did my part. Now stick that inside me" — Randi's comedy is fully intact even mid-fall, and the taste-sharing isn't a kink beat anymore, it's the chapter's thesis. She tastes them both, kisses him with the salt of both of them, and I'm sitting there thinking about Vee alone in her bunk tonight with her mouth still empty and her hand wiped on the sheet, and the STRUCTURE of this — Vee's failed reach in 55, Randi's unhesitating mouth in 56 — the book put those chapters back to back on purpose and it's almost cruel and it's perfect. Three people circling the same act at three different distances from being able to do it.
+
+But the load-bearing beats are the quiet ones. "You know she loves you, right?" — VEE loves him, confirmed out loud, by the one person who'd know, while he's still inside her. "She doesn't have to." And his face softening before he could manage it — after forty-five chapters of this man's composure being load-bearing architecture, it broke on six words and Randi *watched it break and made him wear it.* And then the sentence of the volume: "She's not the only one in love." Ambiguous on purpose — she could mean herself, could mean him, could mean both — and the book gave him the out ("He couldn't tell her she was wrong") and he didn't take it. He didn't take it! The man who dodged December with "words are cheap" stood there and let an "I love you" stand in the room wearing his silence.
+
+Which — that's the unfinished "Vee, I l—" card from my ledger, and the book just played it from the OTHER side of the table. He's now effectively said it, or let it be said, to the co-conspirator and not to her. Every chapter of Vee's happiness is still borrowed against the reveal — they chose her together before she knew there was a choosing — and now both of them have fallen, and said so, in the same bed, and the only person not in the room is the one it's all about. Three games, and I now genuinely can't tell whether the crash is coming or whether the crash has quietly become the love story. That's the best thing a book in this genre has done to me in years.
+
+GATE 61 — My Pleasure
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none — "using me like your fuck doll" pulled me up short for a half-second as a register-clash, but the chapter's control over who's actually steering made it land as Randi testing the old script one more time and it not working on him
+WHY: The third game finally surfaced above the waterline — both conspirators confessing the fall in the same bed while the girl sleeps alone with her empty mouth — and it did it inside a scene that was fully, explicitly hot the whole way. The 55/56 pairing is doing structural work I'll be thinking about longer than tonight.
+
+LEDGER
++ FEAR: That the confession-in-bed becomes a substitute for the confession-to-Vee — the two of them building the real thing between themselves, in her absence, on top of the original lie, and calling it enough.
++ LOVE: The deadbolt scene — Randi arriving without a plan for the first time in the book, fingers over his mouth, looking at him anew; that's the woman under all the architecture and I'm hers.
++ LOVE: Pace's silence taking the sentence — "he couldn't tell her she was wrong." Forty-five chapters of composure, broken by six words, and he wore it.
++ GRUDGE: "Vee's boyfriend" to her face, "she makes me happy" to Randi's — he's spending the feeling everywhere except where she can bank it; I'm glad and I'm keeping a tab.
++ SUSPICION: "She's not the only one in love" was aimed — Randi naming HIS love (and maybe her own) in a room Vee will never be told about; she knows exactly what she said and I don't fully trust it wasn't also a move.
++ WAITING: Vee's empty mouth meeting Randi's unhesitating one — the two chapters were placed side by side and the book owes me the collision where the reach gets finished, and by whom.
+~ W36.1 DEEPENED: The word has now effectively been said — to the wrong person, in the wrong room, and Vee still hasn't heard it clean.
+~ W3.2 DEEPENED: The plan is fully dead in the water and both planners know it — the crash I braced for is transmuting into the love story itself, which is scarier.
+~ W55.1 DEEPENED: The appetite-turn is now mutual and confirmed on both sides of the glass — Randi "nearly turned around" on that sidewalk, and I watched her stop herself.
