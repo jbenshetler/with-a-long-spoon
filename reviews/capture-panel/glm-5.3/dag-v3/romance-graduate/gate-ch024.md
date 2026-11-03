@@ -1,0 +1,42 @@
+*capture-dag-v3-grounded · gate ch024 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e9e0311de50b · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 66f1626ba6a9 · 2026-11-02*
+
+REACTION — The chapter I've been dreading since the cab — Vee walking her shame into the farmer's house — and it was worse and better than I braced for, sometimes in the same sentence.
+
+First, the stuff I loved without reservation. Randi's freckles. Of course she has them — sparse, cocoa, never given a thought — while Vee just spent ten minutes at the sink burying hers. The book put the two faces side by side and let me do the math on which of them is at peace in her own skin. And the morning itself was a gorgeous small ritual of self-repair: the cold water "like a verdict," the apple, the bare legs in October. Vee deciding *I'm going to fix this* and putting length in her stride — she's learned to metabolize a bad night into a plan, and she learned that from a man who turns everything into procedure, and I notice she's the one it looks healthiest on.
+
+And God, the comedy. Edna Mode nearly took me out — the real laugh, bent over, both of them gone. This book keeps earning the right to its serious scenes by letting its women be silly together first, and I'd follow it anywhere for it.
+
+But the whole time the laugh was still ringing, my ledger was screaming. Randi heard the entire confession — the fight, the venom, the bartender's verdict, "I was just next" and the shame under it — across a bed still warm from her, about the man who was in *her* bed Tuesday. And she did the thing she does, took the worst minute and showed Vee the back of it — "you don't get that jealous over a man you don't care about" — which is true, and kind, and also *the plan functioning perfectly*. My F3.1 deepened so hard it hurt: Vee handed the rawest thing she's ever done to the one person on earth who's partly responsible for the setup, and got absolution, and the absolution was real. That's the trick of this whole book — the love is never fake, and that's what makes everything unforgivable.
+
+And then: "Not today." My whole spine went cold. Vee was half out of the chair — today, before I lose my nerve — and Randi closed a hand on the timing. The instruction was kind, exact, probably even *right* about how Pace reads a panic-apology. But Randi just took control of when Vee walks back into that door, and she knows exactly what she's doing — "he won't text you... he leaves you room and waits to see what you walk in wearing" — described his whole methodology like she's read his manual. Which she has. From inside it. Vee heard a wise friend; I heard a woman scheduling the reconciliation to her own spec, and I don't know yet whether it's love (give Vee the best possible entrance) or logistics (a night to brief him first, or worse). The book won't tell me which, and it's the same delicious, queasy ambiguity that's kept me in this thing since chapter one.
+
+The shoe scene. Okay. The shoe scene is the most quietly explicit thing this book has done since the fitting, and almost nothing in it was visible. Vee standing blind behind her own skirt while cool hands worked somewhere past the hem — the strap at the ankle, the hand on the outside of her thigh holding her steady, the thumb in the hollow behind her knee on the way down — the girl who files feelings got *tended to* and never got to watch it happen, and her breath doing something she "hoped wasn't out loud." And Randi's face at the bare feet — "something moved in her face, there and gone" — the column with no place for that want just did it again, and this time under the skirt. "You'd be my very own shoe whore" said like an endearment is the exact register of their whole friendship: the dirtiest words as love, and neither of them blinking.
+
+And the kiss. The kiss is the beat I'll be rereading: Vee caught up to the fact that she hadn't braced. Her mouth just met Randi's. "It was only what they did." A turn, quiet and enormous, and Vee filed it straight back across the ocean. The accent running long on "gorgeous" twice — the sealed door leaking at full volume on the doorstep, and Vee *heard it and liked it*. I put the book down for a second at that line because I could see both of them so clearly — the woman saying more than she's ever said out loud, and the girl filing it as foreign and lovely.
+
+Now the grudge: "he's the man you've just described — he doesn't sulk, he leaves you the room and waits to see what you walk in wearing." Randi said that with the calm of a woman who has watched him do exactly this, for years, to her. And Vee, who was told a few weeks ago that Pace "says nothing more" about what they are, is about to walk into his door tomorrow night in borrowed shoes and a stranger's silk, coached by his lover, with no idea she's been dressed by both halves of the same plan. The scarf being deep green — S16.4 just got worse. Everything green in this book touches Randi's Mercedes and Vee's underwear and now Vee's throat, and I don't know which of them she's dressed for anymore and I don't think the book does either, and that's the whole engine.
+
+Tomorrow night. Everything — the fight, the dress rehearsal of the reconciliation, the shoes, the induction looming — is aimed at one door, and I would read the next chapter standing in a cold shower.
+
+GATE 24 — broken-in
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The confession went straight into the plan's other half and came back absolution, the shoe-tending was the hottest thing in a chapter with no sex in it, and the unbraced kiss turned the friendship one degree truer while Vee filed it across an ocean. Randi now owns the timing of the apology and I'm terrified and electrified about what she does with the night in between.
+
+LEDGER
++ FEAR: that Randi's "not today" bought her a night — a night to see Pace first, to set the stage, to walk in Vee's shoes into his door before Vee does — and the reconciliation will be the plan's smoothest operation yet
++ GRUDGE: Randi described Pace's whole methodology — "he leaves you the room and waits to see what you walk in wearing" — in the calm voice of a woman reading from his manual, and Vee never once clocked how her friend knows so much about how that man works
++ LOVE: "dinner in Paris" — Randi dressing Vee for a life bigger than the one Vee's mother sized for her, the whole morning as an act of gorgeous friendship, and the fact that it's real is the problem
++ SUSPICION: the green scarf — deep greens and a thread of gold, chosen on purpose, in the same green as the Mercedes and the underwear and the boutique day; Randi is dressing Vee in her own color and I can't tell if it's claiming or gift
++ WAITING: tomorrow night — the black dress, the neckline down, the cognac shoes, the scarf Vee now ties herself, and the walk into his door to make it right; I need it the way the book needs me to
+~ F3.1 DEEPENED: the being-eaten now includes the apology — Vee brought her worst shame to the co-author of the setup and was absolved by her, warmly, and the absolution was the plan working
+~ S20.2 DEEPENED: the kneeling move went under the skirt — the thumb behind the knee, the hand bracing her thigh, the something that moved in Randi's face at the bare feet; the want with no column just performed itself at ankle height
+~ F17.1 DEEPENED: the kept-middle has a new resident — Cassie slept through the whole war and got a faked-sleep morning instead of a knock; the only clean witness is now being protected from the reconciliation too
+~ S17.5 DEEPENED: the accent went long and arched on "gorgeous," twice, on a doorstep, mid-goodbye — the leak is getting louder and Vee heard it and liked it
+~ W15.5 SHIFTED: the kiss fallout has arrived somewhere real — Vee didn't brace, didn't file it as French, met it as "what we do"; the wanting is becoming mutual grammar and only one of them knows the other's side
+~ G2.2 DEEPENED: Brooke opened the door with the folder already open — "the stats friend" — the surveillance now has Vee's name in it at the house level
+~ S12.3 SHIFTED: "he leaves you the room" — Randi confirmed she knows the minimum-information style from the inside; she can speak his withholding fluently, to Vee, in daylight
