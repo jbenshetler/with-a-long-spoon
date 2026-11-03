@@ -28,6 +28,12 @@ models = [
   "gemini-4-argon",
 ]
 fast = ["gemini-4-argon", "gpt-5.6-sol"]
+# Every panel reader's memory (author ruling 2026-11-02): the slot-consensus checkpoint,
+# tools/fact_consensus.py → fact-consensus/ck-ch<B>.reader.md (audited facts + agreed
+# readings). A reader block may still override `checkpoint_source`. Replaces per-model
+# native mints (sol, argon and glm had none, so the panel could not read past ch10) and
+# the `core` ensemble (retired, same day).
+checkpoint_source = "consensus"
 # On demand: off the default panel, run only when named with --models (author
 # ruling 2026-10-24). Their reads stay in the tree and still show in the
 # chronology view; they are not retired.
@@ -260,7 +266,8 @@ review_max_output_tokens = 18000
 [readers."deepseek-v4-pro-0813"]
 vendor = "deepseek"
 provider_model = "deepseek/deepseek-v4-pro-0813"
-checkpoint_source = "ensemble:core"
+# Was checkpoint_source = "ensemble:core"; core retired 2026-11-02, so it reads the panel
+# default (consensus) like every other panel reader.
 can_mint_checkpoint = false
 review_effort = "low"
 review_max_output_tokens = 18000
@@ -285,6 +292,8 @@ google = "gemini-4-argon"
 # stays 2, now of 4. All three candidates are OpenRouter: PAID.
 diversity = ["glm-5.3", "muse-spark-1.3", "muse-wonder"]
 
+# RETIRED 2026-11-02 (author ruling): replaced by the slot-consensus memory
+# ([facts], tools/fact_consensus.py). Kept so its history stays readable; no reader uses it.
 [ensembles.core]
 matcher_model = "gpt-5.6-terra"
 quorum = 2

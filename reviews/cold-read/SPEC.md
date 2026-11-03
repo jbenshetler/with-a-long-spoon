@@ -531,3 +531,27 @@ trajectory — trust/attraction/sympathy/suspicion per character; where suspicio
 Randi first leaks and whether the text earned it; where sympathy for Pace peaks and
 wobbles; erotic momentum; telegraphing / thumb-on-the-scale clusters. Cross-model
 comparison is done by hand across the per-model syntheses.
+
+## The panel's memory is the slot consensus (author ruling 2026-11-02)
+
+`[panel].checkpoint_source = "consensus"` (ensemble-config.toml): every panel reader reads
+`reviews/cold-read/fact-consensus/ck-ch<B>.reader.md`, written deterministically by
+`tools/fact_consensus.py` from (1) the audited consensus facts and (2) the agreed readings.
+A reader block may still override it; ids off the panel stay native. The `core` ensemble is
+retired (kept for history).
+
+- **Facts:** four slots (anthropic, openai, google, diversity) each extract quote-backed
+  claims from raw ch1..B, every time (no lineage); a claim enters when ≥ 2 slots agree; the
+  evidence audit then removes readings that slipped into the fact sections. Contract and
+  history: capture-panel SPEC "Consensus fact memory".
+- **Readings** (Impression, Symbolism, Open questions): the same slots, quote-backed,
+  admitted at ≥ 2 slots. Complementary readings all stay; a pair the matcher marks as
+  opposed is labelled `⟷ competes with`, never dropped.
+- **Why:** sol, argon and glm had no native checkpoints (the panel could not read past
+  ch10); opus's native ck-ch050 copied a line of Volume Three's jacket into memory, which
+  the jacket guardrail blocks for ch51–60; `core` pinned exact model ids and per-model
+  lineage and had no artifacts since 2026-10-11.
+- **Pilot (2026-11-02):** sol and argon cold-read ch36, ch45 and ch56 under consensus and
+  under opus's single-model checkpoints (`reviews/cold-read/pilot-*`): continuity at parity,
+  no contamination seen either way; consensus adopted for its operational gains.
+- Capture readers use the same facts but never the readings (capture-panel SPEC "Memory v3").

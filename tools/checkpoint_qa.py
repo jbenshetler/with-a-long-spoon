@@ -164,10 +164,7 @@ def _panel_config() -> tuple[list[str], dict[str, str]]:
     models = list(cold_read_config.panel_models(include_available=True))
     if not models:
         raise RuntimeError("active panel missing from ensemble-config.toml")
-    sources = {
-        model: cold_read_config.reader_settings(model).get("checkpoint_source", "native")
-        for model in cold_read_config.load_config().get("readers", {})
-    }
+    sources = {model: cold_read_config.checkpoint_source(model) for model in models}
     return models, sources
 
 
@@ -186,7 +183,9 @@ def discover_models(only: str | None, target: str) -> list[str]:
         unit = model if source == "native" else source
         if only and only not in {model, unit}:
             continue
-        if unit.startswith("ensemble:"):
+        if unit == "consensus":
+            eligible = (root / "fact-consensus").is_dir()
+        elif unit.startswith("ensemble:"):
             name = unit.split(":", 1)[1]
             eligible = (root / "checkpoint-ensembles" / name / "checkpoints").is_dir()
         else:
@@ -198,6 +197,12 @@ def discover_models(only: str | None, target: str) -> list[str]:
 
 def checkpoint_units(model: str):
     """Yield each independent native or shared-ensemble checkpoint once."""
+    if model == "consensus":   # the shared reader files, ck-ch<B>.reader.md
+        d = REPO / "reviews" / "cold-read" / "fact-consensus"
+        for f in sorted(d.glob("ck-ch*.reader.md")):
+            n = int(re.search(r"ck-ch(\d+)\.reader\.md$", f.name).group(1))
+            yield f"ck{n:03d}", n, f.read_text(encoding="utf-8")
+        return
     if model.startswith("ensemble:"):
         name = model.split(":", 1)[1]
         d = REPO / "reviews" / "cold-read" / "checkpoint-ensembles" / name / "checkpoints"

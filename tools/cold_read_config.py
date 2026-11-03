@@ -116,10 +116,19 @@ def openrouter_policy(tag: str) -> dict[str, Any]:
 
 
 def checkpoint_source(model_id: str) -> str:
-    return str(reader_settings(model_id).get("checkpoint_source", "native"))
+    """A reader block's own `checkpoint_source`; else, for a panel reader, the panel
+    default ([panel].checkpoint_source); else native."""
+    own = reader_settings(model_id).get("checkpoint_source")
+    if own:
+        return str(own)
+    if model_id in panel_models(include_available=True):
+        return str(load_config().get("panel", {}).get("checkpoint_source", "native"))
+    return "native"
 
 
 def can_mint_checkpoint(model_id: str) -> bool:
+    if checkpoint_source(model_id) == "consensus":
+        return False   # built by tools/fact_consensus.py, never minted per reader
     return bool(reader_settings(model_id).get("can_mint_checkpoint", True))
 
 
@@ -138,6 +147,10 @@ def checkpoint_path(model_id: str, boundary: int) -> Path:
     if source.startswith("ensemble:"):
         name = source.split(":", 1)[1]
         return REVIEWS_ROOT / "checkpoint-ensembles" / name / "checkpoints" / filename
+    if source == "consensus":
+        # The slot-consensus memory (author ruling 2026-11-02): audited facts + agreed
+        # readings, written deterministically by tools/fact_consensus.py.
+        return REVIEWS_ROOT / "fact-consensus" / f"ck-ch{boundary:03d}.reader.md"
     raise ValueError(f"unsupported checkpoint source for {model_id}: {source}")
 
 
@@ -159,6 +172,10 @@ def checkpoint_provenance(model_id: str, boundary: int) -> str:
     source = checkpoint_source(model_id)
     if source == "native":
         return f"ck-ch{boundary:03d}"
+    if source == "consensus":
+        p = checkpoint_path(model_id, boundary)
+        digest = hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else "missing"
+        return f"consensus ck-ch{boundary:03d}@{digest[:12]}"
 
     name = source.split(":", 1)[1]
     manifest_path = checkpoint_manifest_path(model_id, boundary)

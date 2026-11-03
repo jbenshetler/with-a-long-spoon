@@ -855,13 +855,15 @@ class HarnessParsingTests(unittest.TestCase):
     def test_grounded_mint_args_require_frozen_seed_after_volume_one(self):
         grounded = importlib.import_module("cold_read_grounded")
         with healthy_seam(grounded.checkpoint_bundle):
+            # A native-memory reader (any id off the panel: panel readers use the
+            # consensus memory since 2026-11-02) still mints with the frozen seed.
             args = grounded.checkpoint_extract_args(
-                "gpt-5.6-sol", "gpt-5.6-sol", 60
+                "gpt-5.6-terra", "gpt-5.6-terra", 60
             )
-        self.assertEqual(args[:6], ["--model", "gpt-5.6-sol", "--from", "51", "--to", "60"])
+        self.assertEqual(args[:6], ["--model", "gpt-5.6-terra", "--from", "51", "--to", "60"])
         self.assertIn("--reader-sequence", args)
         seed_index = args.index("--seed-checkpoint") + 1
-        self.assertTrue(args[seed_index].endswith("/gpt-5.6-sol/checkpoints/ck-ch050.md"))
+        self.assertTrue(args[seed_index].endswith("/gpt-5.6-terra/checkpoints/ck-ch050.md"))
 
     def test_chronology_consumers_load_exact_active_panel(self):
         html = importlib.import_module("chronology_html")
@@ -879,7 +881,9 @@ class HarnessParsingTests(unittest.TestCase):
         self.assertIn("deepseek-v4-pro-0813", qa.discover_models(None, "read"))
         self.assertNotIn("claude-sonnet-5", qa.discover_models(None, "read"))
         checkpoint_models = qa.discover_models(None, "checkpoint")
-        self.assertEqual(checkpoint_models.count("ensemble:core"), 1)
+        # One shared memory for the whole panel (consensus, 2026-11-02; core retired).
+        self.assertEqual(checkpoint_models.count("consensus"), 1)
+        self.assertNotIn("ensemble:core", checkpoint_models)
         self.assertNotIn("qwen3.8-max-0902", checkpoint_models)
         self.assertNotIn("deepseek-v4-pro-0813", checkpoint_models)
 

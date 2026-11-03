@@ -362,6 +362,7 @@ def build(b: int, force: bool = False, reextract: bool = False) -> Path:
     print(f"  admitted {len(admitted)} facts (support sizes {dict(by_letters)}) → "
           f"{out_md.relative_to(REPO)}", flush=True)
     checkpoint_audit.run_audit(out_md)
+    write_reader(b)
     return out_md
 
 
@@ -560,8 +561,31 @@ def build_readings(b: int, reextract: bool = False) -> Path:
         "date": date.today().isoformat(), "admitted": admitted, "groups_raw": groups_raw,
     }, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"  admitted {len(admitted)} readings → {out_md.relative_to(REPO)}", flush=True)
+    write_reader(b)
     return out_md
 
+
+
+def write_reader(b: int) -> Path | None:
+    """The cold readers' checkpoint: the audited fact projection + the agreed readings, as
+    one file in the checkpoint format (`# …` header, `---`, body). Deterministic, no model
+    calls; rewritten after every facts or readings build. Capture readers never read it."""
+    ck, rd = ROOT / f"ck-ch{b:03d}.md", ROOT / f"ck-ch{b:03d}.readings.md"
+    ap = checkpoint_audit.audit_path(ck)
+    if not (ck.exists() and rd.exists() and ap.exists()):
+        return None
+    facts, note = checkpoint_audit.projection(ck, json.loads(ap.read_text(encoding="utf-8")))
+    readings = rd.read_text(encoding="utf-8").split("\n---\n\n", 1)[-1]
+    page_sha = sha(checkpoint_bundle.build_reader_bundle(b, start=1))
+    out = ROOT / f"ck-ch{b:03d}.reader.md"
+    out.write_text(
+        f"# Checkpoint — through Chapter {b} (consensus facts + readings)\n\n"
+        f"*source: fact-consensus ck-ch{b:03d} ({note}) + ck-ch{b:03d}.readings · "
+        f"bundle-sha256: {page_sha} · facts-sha256: {sha(ck.read_text())[:12]} · "
+        f"readings-sha256: {sha(rd.read_text())[:12]}*\n\n---\n\n"
+        + facts.strip() + "\n\n" + readings.strip() + "\n", encoding="utf-8")
+    print(f"  reader checkpoint → {out.relative_to(REPO)}", flush=True)
+    return out
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
@@ -574,7 +598,12 @@ def main() -> None:
     ap.add_argument("--readings", action="store_true",
                     help="build ck-ch<B>.readings.md (Impression, Symbolism, Open questions; "
                          "competing readings kept) instead of the facts")
+    ap.add_argument("--reader", action="store_true",
+                    help="only rewrite ck-ch<B>.reader.md from the built facts + readings (no calls)")
     args = ap.parse_args()
+    if args.reader:
+        print(write_reader(args.to) or "facts, audit or readings missing")
+        return
     if args.readings:
         build_readings(args.to, args.reextract)
         return
