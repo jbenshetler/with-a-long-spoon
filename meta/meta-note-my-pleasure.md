@@ -64,7 +64,12 @@ Canon has Randi’s sex with Pace running “over a wire that includes Vee” (t
 
 ## The arrival (author, 2026-11-01)
 
-At the `:79` lull, before *"I miss her during the day"*, there is one recalled paragraph.
+At the first rest, after *"He gave her time to see it."* (`:11`), there is one recalled
+paragraph. It sat at the later `:79` lull until the v3 capture trial of 2026-11-02: four
+Anthropic gates (sonnet in both personas, opus romance-graduate) found it *"dropped into the
+middle of the scene"*, while argon and glm read it as working. Moved (author ruling B) so the
+memory lands in the pause where he looks at her, and every later beat plays against a reader
+who already knows this is the first night back.
 Randi called late, after the dinner with Vee ({{A Clean Plate}}), the first time since
 {{Four}}'s morning, when she cried. All she said was *"I want to see you. Can I come over?"*
 The call is unplanned, so it is a leak: two hours across from Vee, and her hunger or love

@@ -3329,11 +3329,39 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "2fbe3a56a8c8"
+rule = "filter-verbs"
+file = "scenes/my-pleasure.md"
+text = "“I heard you.”"
+note = "author ack 2026-11-02 (after the arrival move)"
+
+[[ok]]
+fp   = "d96465df3795"
+rule = "filter-verbs"
+file = "scenes/my-pleasure.md"
+text = "He watched her take it."
+note = "author ack 2026-11-02 (after the arrival move)"
+
+[[ok]]
 fp   = "94dd53fb26ae"
 rule = "look-at-her"
 file = "scenes/my-pleasure.md"
 text = "“Look at you, using me like your fuck doll.”"
 note = "Author approved: Randi's theatrical self-naming makes the first 'fuck' load-bearing in her chosen-submission register."
+
+[[ok]]
+fp   = "49915a354833"
+rule = "the-way"
+file = "scenes/my-pleasure.md"
+text = "The sound she made thinned, caught, and returned as a breath that seemed to empty her all the way down."
+note = "author ack 2026-11-02 (after the arrival move)"
+
+[[ok]]
+fp   = "9022edcf3f7b"
+rule = "warm"
+file = "scenes/my-pleasure.md"
+text = "She took him in increments, warmth closing around him, until he was deep inside her and her body had gone taut above his."
+note = "author ack 2026-11-02 (after the arrival move)"
 
 [[ok]]
 fp   = "0aac37e89bdc"

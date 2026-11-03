@@ -10,6 +10,8 @@ Randi lay open on the white sheets, one knee fallen wide, the other still hooked
 
 He gave her time to see it.
 
+She had called late, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" She had come in gingerly, without her usual authority, and stopped just inside, and only then had she reached back and thrown the deadbolt. "Where have you been?" she whispered. When he opened his mouth to answer, she laid two fingers against it. She stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
+
 Her eyes sharpened.
 
 “Come here.”
@@ -77,8 +79,6 @@ He lifted her, lowered her, and found the pace that made her eyes close. Her ple
 His grip tightened. He lifted her higher and brought her down hard enough to pull a low sound from her.
 
 For a while, neither of them spoke.
-
-She had called late, the first time since the morning she had cried, and all she had said was, "I want to see you. Can I come over?" She had come in gingerly, without her usual authority, and stopped just inside, and only then had she reached back and thrown the deadbolt. "Where have you been?" she whispered. When he opened his mouth to answer, she laid two fingers against it. She stood there, smiling gently, looking at him as if she were seeing him anew, and let it go on for most of a minute before she came up on her toes and kissed him.
 
 “I miss her during the day,” Randi said. “More at night.”
 

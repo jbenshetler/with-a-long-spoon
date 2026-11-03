@@ -14,6 +14,12 @@
   acceptance; only sonnet romance-graduate holds (*"genre autopilot"*). Rejected softer
   options: *"Use me however you want"* and *"Move me for your pleasure"*. Both shorten the
   distance the erosion travels and leave her voice. Do not re-flag it on a flinch.
+  *Re-checked 2026-11-02 (v3 trial, all lanes):* the hard objection is still Anthropic only
+  (opus romance-graduate in both memory modes, sonnet in v3). glm romance-graduate registers a
+  half-second "register-clash" twice and resolves it both times; argon, glm fsog-refugee, sol
+  and deepseek read it as working. A follow-up line in which Randi calls out his face ("Don't
+  make that face… your brain doesn't like it, but your cock does") was workshopped and **not
+  added**: it moves the beat's centre from her armour to his hypocrisy (author, 2026-11-02).
 
 ## Telling-after-showing pass (author rulings 2026-11-01)
 
