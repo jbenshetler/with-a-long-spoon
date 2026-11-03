@@ -364,6 +364,9 @@ def main() -> None:
     )
     # Evidence audit of the fact sections (author ruling 2026-11-01): automatic, never
     # blocks the mint, never asks anyone. capture_dag re-runs it on first use if absent.
+    if os.environ.get("CHECKPOINT_NO_AUDIT"):
+        print(f"[audit] skipped for {disp} (CHECKPOINT_NO_AUDIT)", file=sys.stderr)
+        return
     try:
         import checkpoint_audit
         checkpoint_audit.run_audit(out_path)

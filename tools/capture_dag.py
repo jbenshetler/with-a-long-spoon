@@ -813,8 +813,10 @@ def main() -> None:
                     help="experiments only: read without date lines (the default for experiments)")
     ap.add_argument("--show-packet", type=int, metavar="N",
                     help="print chapter N as the reader would see it, then exit (no calls)")
-    ap.add_argument("--memory", choices=["chain", "grounded", "full"], default="chain",
-                    help="chain = the decade-mint lanes in dag/; grounded = memory v3 "
+    ap.add_argument("--memory", choices=["chain", "grounded", "full"],
+                    default=str(cold_read_config.load_config()["capture"].get("memory", "chain")),
+                    help="default [capture].memory. chain = the retired decade-mint lanes in "
+                         "dag/; grounded = memory v3 "
                          "(grounded fact checkpoint + her verbatim reactions + ledger) in "
                          "dag-v3/; full = v3 with the raw book in place of the checkpoint "
                          "(pre-pub reads), in dag-v3-full/")

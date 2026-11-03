@@ -204,15 +204,19 @@ had *already* reached N; for readers caught up from behind it is a first read,
 and the difference must be stated in the report. Gates *after* N are now stale
 in memory terms — the reader's later checkpoints were minted from the old text.
 
-## Memory v3 (on trial since 2026-11-01)
+## Memory v3 — ADOPTED (author ruling 2026-11-02)
 
-`--memory grounded` reads with the cold-read lane's grounded checkpoint for facts, her
-reactions verbatim (everything for the current volume, gate blocks for earlier volumes) and a
-code-folded LEDGER; no capture mints. Gates go to `<model>/dag-v3/<persona>/` and never mix
-with the chain lanes. `--memory full` puts the raw book in place of the checkpoint — pre-pub
-reads only, author-authorized. `--borrow-history` is the diagnostic that borrows chain-era
-reactions and seeds the ledger; `--show-prompt N` prints the assembled prompt and its size,
-free. Until the author adopts v3, real re-reads stay on the chain lanes. SPEC "Memory v3".
+`[capture].memory = "grounded"` in `ensemble-config.toml` is the era switch that
+`capture_dag.py`, `capture_stats.py` and `capture_delta.py` all read. A run now reads with
+the consensus fact memory (`[capture].fact_checkpoint = "consensus"`, audited, facts only),
+her reactions verbatim (everything for the current volume, gate blocks for earlier
+volumes) and a code-folded LEDGER; no capture mints. Gates go to
+`<model>/dag-v3/<persona>/`. The chain lanes in `<model>/dag/` are history: read them with
+`--memory chain`, never mix them with v3. `--memory full` puts the raw book in place of
+the fact memory, for pre-pub reads, author-authorized. `--borrow-history` is the
+diagnostic that borrows chain-era reactions; `--show-prompt N` prints the prompt and its
+size, free. capture_delta's null comes from v3 test-retest pairs only, so it has no
+verdict until the v3 baseline and its repeat reads exist. SPEC "Memory v3".
 
 ## Step 4a — Staleness: warn and proceed, never re-run the volume
 

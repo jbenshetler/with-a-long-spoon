@@ -1311,7 +1311,7 @@ Oct 28 `ck-ch040` lacked it, and its ch45 re-read of The Usual said *"WHAT?! We 
 seen that morning yet!"* That gate was discarded and re-read after re-minting `ck-ch040` and
 `ck-ch050`.
 
-## Memory v3: no summary of a summary (author ruling 2026-11-01, on trial)
+## Memory v3: no summary of a summary (author ruling 2026-11-01; ADOPTED 2026-11-02)
 
 **The defect.** The chain mint (`ck-ch<B>` = previous `ck-ch<B−10>` + the decade's raw prose +
 her gates, in her voice) is the retired cold-read chain at decade granularity: by ch70, seven
@@ -1438,4 +1438,13 @@ shortest member's wording flattened Randi's ch1 bottle cap to "a sharp edge unde
 thumbnail"; MOTIF, WHO and REL facts now carry the most detailed member's verified quote on a
 `  > "…"` line beneath them (the page, never a reading; the audit treats it as structure and
 drops it with its fact). STORY stays bare. ck-ch022 projection: 6,351 words.
+
+**Adopted (author ruling 2026-11-02).** After trials at ch21, ch36, ch45 and ch56 (opus,
+sonnet, glm, argon; opus-only and consensus facts) held scores within noise and carried the
+cross-chapter facts the chain lost (the ch56 arrival tied to ch36's morning by every v3
+gate, where a chain gate asked "is this the first time since the green panties?").
+`[capture].memory = "grounded"` is the single era switch read by capture_dag (default
+memory), capture_stats and capture_delta (lane directory `dag-v3`). The chain lanes stay in
+`dag/` as history. Before capture_delta can judge a v3 re-read it needs a v3 baseline read
+and test-retest pairs; until then it reports no verdict.
 

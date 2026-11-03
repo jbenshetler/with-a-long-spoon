@@ -92,6 +92,11 @@ available = ["muse-spark-1.3", "muse-wonder"]
 # checkpoints under reviews/cold-read/<id>/checkpoints/. Facts are not what the
 # capture instrument measures; the persona memory (her verbatim reactions and
 # ledger) stays per lane.
+# The capture memory era (author ruling 2026-11-02: v3 ADOPTED). "grounded" = memory v3
+# (fact memory + her verbatim reactions + ledger), gates in <model>/dag-v3/<persona>/;
+# "chain" = the retired decade-mint lanes in <model>/dag/, kept as history. capture_dag,
+# capture_stats and capture_delta all read this one setting.
+memory = "grounded"
 fact_checkpoint = "consensus"
 # The model that audits those checkpoints' fact sections against the raw prose
 # (tools/checkpoint_audit.py; runs itself at mint and on first capture use). Needs a

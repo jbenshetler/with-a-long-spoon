@@ -39,6 +39,10 @@ sys.path.insert(0, str(REPO / "tools"))
 import checkpoint_bundle  # noqa: E402
 import cold_read_config  # noqa: E402
 
+# The memory era's lane directory ([capture].memory): dag-v3 since 2026-11-02, dag before.
+LANE_DIR = {"chain": "dag", "grounded": "dag-v3", "full": "dag-v3-full"}[
+    str(cold_read_config.load_config()["capture"].get("memory", "chain"))]
+
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 FREE_SAMPLE = 4  # ch1-4: no goodwill banked, a dip here is always a finding
 
@@ -81,7 +85,7 @@ def _int(text: str, pat: str) -> int | None:
 def load(model=None, persona=None) -> list[Gate]:
     out = []
     active = set(cold_read_config.capture_models(include_available=True))
-    for gp in sorted(PANEL_ROOT.glob("*/dag/*/gate-ch*.md")):
+    for gp in sorted(PANEL_ROOT.glob(f"*/{LANE_DIR}/*/gate-ch*.md")):
         mo, pe = gp.parts[-4], gp.parts[-2]
         # Retired history remains inspectable with --model, but cannot vote in
         # the current panel simply because its files still exist.

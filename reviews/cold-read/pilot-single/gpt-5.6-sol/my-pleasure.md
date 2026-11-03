@@ -1,0 +1,34 @@
+# Cold read (grounded) — My Pleasure
+
+*scene: scenes/my-pleasure.md · model: pilot-single/gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+I felt this chapter in my body before I had any room to feel its consequences. It is scorching: Randi looking at Pace’s wet mouth, tasting herself without hesitation, then making the pleasure “mutual”; Pace lifting and lowering her with that immense, deliberate strength; the shift at the end when she puts his hands aside and takes command. Their sex feels practiced without feeling stale. They know how to catch and provoke each other, and their consent is wonderfully legible: “My turn,” “All right,” “I heard you.” The hottest beat for me may be the simplest—“Randi gave him her weight.” It contains trust, surrender, and his pleasure in being strong for her. I wanted them badly, and the chapter delivered all the way.
+
+Randi moved me as much as she aroused me. She arrives “gingerly,” asks to come over, and looks at Pace as if seeing him anew after seven weeks away; that makes her feel unusually undefended even before she says anything nakedly true. I love her wit here—“Subtle,” “Elegant,” the mock-grave satisfaction after licking them both from him—but I trust the moments when the polish disappears more. “I nearly turned around,” “I want her to know exactly what she does to me,” and finally “She’s not the only one in love” leave her terribly exposed. She does not qualify that last sentence or rescue him from it. I read it as her telling Pace she loves Vee, though the sentence leaves open whether there is also love for him inside it. The page does not close that door, and neither can I.
+
+Pace is deeply attractive here, and also newly difficult for me. His attention to Randi’s body is exact and generous; he checks her even after she says “All right,” waits for her breath to loosen, and keeps giving her pleasure after he has already made her come. But he and Randi are eroticizing Vee’s awakening while Vee remains ignorant of their relationship. “She kisses me first now” and “She looks at you, too” are devastatingly hot because they prove how carefully both of them watch her—and unsettling for precisely the same reason. Pace’s “She makes me happy” landed with enormous tenderness. Yet the fact that Vee’s neck-kiss is carried straight into this bed makes the hidden circuit impossible to ignore. My suspicion is not that either of them is lying about loving her. It is that their love is still operating through a secret Vee has never consented to inhabit.
+
+The erotic peak keeps renewing itself rather than merely escalating. Randi describing Vee’s breast while Pace takes Randi’s nipple into his mouth almost collapses the absent woman into the room. Then the last movement answers the question Vee could not answer in “The Reach”: Randi joyfully tastes herself, Pace, and their combined wetness, carries it back to Pace’s mouth, and has him enter her again. It is explicit, playful, intimate, and entirely unashamed. The juxtaposition hurts: Vee stopped one breath from her own fingers, while Randi licks “every place the two of them had marked” and makes shared taste part of the game. I don’t read Randi’s ease as a correction that makes Vee’s hesitation wrong; it simply shows the freedom Vee is reaching toward and cannot yet take.
+
+My only real friction is the opening transition. After “The Reach,” beginning without orientation at Randi’s orgasm made me briefly wonder whether the book had jumped backward; the paragraph about her late call quickly locates me. After that, nothing drags. The chapter title, “My Pleasure,” lands in several directions at once: the conventional phrase of service, Pace and Randi’s mutual pleasure, each person’s claim over her own desire, and the almost painfully absent question of when Vee will be able to call her appetite hers. The cover-board title, *WITH A LONG SPOON · BOOK THREE — A PROPER SERVING*, now feels bodily and slyly literal: feeding, tasting, being served, taking a proper share. No cover tagline was supplied. “A Proper Serving” especially points toward appetite no longer reduced to something dainty or clean.
+
+I want the next chapter immediately. My guess from here is that Randi’s return to Pace means the stalled arrangement has begun moving again, and that neither of them will be able to keep Vee outside the truth much longer. I ache for Vee to discover that her wanting of Randi is real and hers—but I dread her learning how long it has been observed, discussed, and used between them. And “She’s not the only one in love” has changed the emotional stakes: this is no longer merely a planned threesome waiting to happen. It is three people already bound by love and desire, with only two of them able to see the whole shape.
+
+**Cast present (in person):** Randi, Pace.  
+**Mentioned only:** Vee.
+
+**Heat:** 3 — sustained, explicit mutual hunger dominates the chapter and keeps finding hotter forms.
+
+**Romance:** 3 — Pace’s “She makes me happy” and Randi’s unrescued declaration turn sex into an exposed confession of love.
+
+**Motifs & images:** The deadbolt repeats Randi’s earlier arrivals at Pace’s house. Lead and follow recur, first with Pace physically directing her, then Randi placing his hands aside and taking command. “Showing off” repeats their pleasure in display. Taste, mouths, wetness, and being fed return from Vee’s wet kiss and unfinished reach; here Randi freely tastes herself and their combined mess. The wrist kiss recalls Vee pointing Pace to her wrist. The hand at the hair roots echoes Vee’s fist in his hair and Pace holding Vee’s hair in the truck. “My turn” continues the book’s exchanges of service and pleasure.
+
+**Symbolism:** The shared taste makes their entanglement physical: neither body’s contribution remains cleanly separable. Randi moving Pace’s hands to the mattress marks a clear transfer of command, not rejection of his strength but her claim to set the next movement. The deadbolt feels like her deliberate return to a private world she had left closed for seven weeks.
+
+**Characterization:** Randi deepens sharply: funny, sexually fearless, vulnerable, and unwilling to soften her truth. Pace remains attentive and consent-conscious, but his open enjoyment of Randi wanting Vee intensifies the moral unease around their secret. Vee is absent yet vividly present through what each of them notices and loves.
+
+**Pace — within the chapter:** Fast opening, then controlled waves of sex and disclosure; it earns its length, with each change of lead changing the emotional pressure.
+
+**Pace — chapter to chapter:** Building hard—the private struggle of “The Reach” is answered by Randi’s ease, while the hidden triangle moves from implication into active, confessed love.

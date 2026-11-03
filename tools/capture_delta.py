@@ -65,7 +65,12 @@ ROOT = Path(__file__).resolve().parent.parent
 PANEL = "reviews/capture-panel"
 CONFIG = ROOT / "reviews/cold-read/ensemble-config.toml"
 METRICS = ("CAPTURE", "NEXT")
-GATE_RE = re.compile(r"/dag/[^/]+/gate-ch\d+\.md$")
+with open(CONFIG, "rb") as _fh:
+    _MEMORY = str(tomllib.load(_fh)["capture"].get("memory", "chain"))
+# The memory era's lane directory: dag-v3 since v3 was adopted (2026-11-02). Eras never
+# mix: a null mined from chain gates says nothing about v3 re-reads.
+LANE_DIR = {"chain": "dag", "grounded": "dag-v3", "full": "dag-v3-full"}[_MEMORY]
+GATE_RE = re.compile(rf"/{LANE_DIR}/[^/]+/gate-ch\d+\.md$")
 MAX_ABS_D = 3          # test-retest changes beyond this are parse/format accidents
 ALPHA = 0.05
 
@@ -272,7 +277,7 @@ def gather(chapter: int, models, personas, old_rev, new_rev, revs):
     rows, first, same = [], [], []
     for m in models:
         for p in personas:
-            path = f"{PANEL}/{m}/dag/{p}/gate-ch{chapter:03d}.md"
+            path = f"{PANEL}/{m}/{LANE_DIR}/{p}/gate-ch{chapter:03d}.md"
             if new_rev:
                 new_t = batch_show([f"{new_rev}:{path}"])[0]
             else:
@@ -312,9 +317,9 @@ def main() -> int:
     models = a.models or load_models()
     old_rev, new_rev = a.old_rev, a.new_rev
     if not old_rev and not new_rev:
-        dirty = git("status", "--porcelain", "--", f"{PANEL}/*/dag/*/gate-ch{a.chapter:03d}.md").strip()
+        dirty = git("status", "--porcelain", "--", f"{PANEL}/*/{LANE_DIR}/*/gate-ch{a.chapter:03d}.md").strip()
         if not dirty:   # nothing pending: the most recent committed re-read of this chapter
-            last = git("log", "-1", "--format=%H", "--", f"{PANEL}/*/dag/*/gate-ch{a.chapter:03d}.md").decode().strip()
+            last = git("log", "-1", "--format=%H", "--", f"{PANEL}/*/{LANE_DIR}/*/gate-ch{a.chapter:03d}.md").decode().strip()
             old_rev, new_rev = f"{last}^", last
             print(f"(no uncommitted gates; comparing the last re-read commit {last[:8]} with its parent)")
     rows, first, same = gather(a.chapter, models, a.personas, old_rev, new_rev, revs)
