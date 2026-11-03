@@ -1,0 +1,720 @@
+{
+ "boundary": 10,
+ "bundle_sha256": "b3c81cc612b7113ac291975e34a3f4b2f9cd5a8f0ddb1a2d5551112fe77ebee3",
+ "slots": {
+  "anthropic": {
+   "model": "claude-opus-5-5",
+   "letter": "A",
+   "parsed": 72,
+   "verified": 72
+  },
+  "openai": {
+   "model": "gpt-5.6-sol",
+   "letter": "B",
+   "parsed": 57,
+   "verified": 56
+  },
+  "google": {
+   "model": "gemini-4-argon",
+   "letter": "C",
+   "parsed": 35,
+   "verified": 35
+  },
+  "diversity": {
+   "model": "glm-5.3",
+   "letter": "D",
+   "parsed": 35,
+   "verified": 32
+  }
+ },
+ "quorum": 2,
+ "matcher": "claude-opus-5-5",
+ "prompt_sha256": "4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded",
+ "match_prompt_sha256": "14744a6c7649e473c2d7161d5a80ab04bc359470c46e2ccef8cbc9b41f39e2d6",
+ "date": "2026-11-02",
+ "admitted": [
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Her polished composure reads as armor: a face kept up so that nobody can actually reach her.",
+   "detail_quote": "That was what the face was for. The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face",
+   "support": [
+    "A1",
+    "C6",
+    "D1"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "After the bench she seems to decide, without saying it, to go back into hiding for good.",
+   "detail_quote": "The one he had found was going back behind it, and she was not coming out again.",
+   "support": [
+    "A2",
+    "B11",
+    "C7"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "She seems to turn distress into small, private, controlled pain.",
+   "detail_quote": "set the sharp inner edge of the cap under her thumbnail and pressed",
+   "support": [
+    "A3",
+    "D3"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Her desire for another woman reads as real and overwhelming, and her body shows it before her mind will admit it.",
+   "detail_quote": "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift",
+   "support": [
+    "A5",
+    "B10",
+    "C9"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Her \"accidental\" meeting with Vee reads as a skilled, deliberate performance of warmth.",
+   "detail_quote": "the geometry arranged across thirty feet arrived all at once",
+   "support": [
+    "A7",
+    "B9",
+    "D2"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Randi reads as using warmth, praise, and sexual suggestion to steer Vee while letting every step feel self-originating.",
+   "detail_quote": "A decade of dance and three years of whatever sorority actually taught under the mixers and the letters, all of it folded down into three seconds of execution",
+   "support": [
+    "B15",
+    "C10"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Watching Pace charm Vee seems to cost her something she hides behind small busy gestures.",
+   "detail_quote": "He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway.",
+   "support": [
+    "A9",
+    "C11"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Her own desire for Vee seems to slip out for a moment while she coaches Vee about Pace.",
+   "detail_quote": "It came a beat late and low, the first thing she had said all day at Vee's own volume",
+   "support": [
+    "A12",
+    "B12"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Randi seems capable of spending real social capital to protect and claim Vee in front of Brooke.",
+   "detail_quote": "Randi had just spent something on her, in front of the girls who decided what it was worth.",
+   "support": [
+    "A13",
+    "B14"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "He reads as patient and focused on consent, always handing the choice back to the woman.",
+   "detail_quote": "He stood in the shadow with her and left the last inch where it was.",
+   "support": [
+    "A14",
+    "B17",
+    "D5"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "He reads as a teacher who gives control back to the learner at exactly the right moment.",
+   "detail_quote": "She had it and he hadn't made her small to give it to her.",
+   "support": [
+    "A21",
+    "B22"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "His restraint seems shaped by an old regret about pushing into someone else's feelings.",
+   "detail_quote": "A closed door was hers, not his; you did not open it just because you could hear through it.",
+   "support": [
+    "A15",
+    "C3"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "Pace seems unaware that Randi has withdrawn the vulnerable self he believes he has safely found.",
+   "detail_quote": "He thought that this had been a remarkably good evening.",
+   "support": [
+    "A16",
+    "B21"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "Pace seems to eroticize bringing hidden appetite into the open, especially when another person can no longer maintain polish.",
+   "detail_quote": "the voice of a woman who was not performing because she had run out of the apparatus of performance.",
+   "support": [
+    "B19",
+    "C2"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "His friendly offer of help at the coffee shop reads as a staged approach in the game with Randi.",
+   "detail_quote": "He had no name for the game yet, only the live private charge of something he imagined they could make together.",
+   "support": [
+    "A19",
+    "C4",
+    "D4"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "He seems to quietly protect what Vee confides in him, even from Randi.",
+   "detail_quote": "He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over. It was hers.",
+   "support": [
+    "A20",
+    "B20",
+    "C5"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "He seems chivalrous enough to suffer cold and rain so Vee can change in private.",
+   "detail_quote": "he walked a few steps off and stood with his back to the truck",
+   "support": [
+    "A22",
+    "B23"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "He reads as unhurried, observant, and deeply attentive to a partner's smallest cues and appetites.",
+   "detail_quote": "He had sliced it thin because she would eat thin slices and would not eat thick ones",
+   "support": [
+    "B16",
+    "C1"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "She reads as hungry to belong, and dazzled at being picked by Randi.",
+   "detail_quote": "She'd carried the morning of it like an hour she'd been let borrow inside a brighter life, and she wanted more of it already.",
+   "support": [
+    "A24",
+    "B2",
+    "C12",
+    "D7"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "Her mother's judgments seem to have moved in and now speak in her own head.",
+   "detail_quote": "The voice said floozie in her mother's exact word and her thighs pressed once, hard, on their own",
+   "support": [
+    "A25",
+    "B4"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "Her shame and her arousal seem fused, and the forbidding voice itself feeds her daring.",
+   "detail_quote": "The voice was the heat and the heat was the voice, and she was hot in the cold cab with her nipples hard against the wet bra",
+   "support": [
+    "A29",
+    "C13",
+    "D8"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "She seems drawn to Randi in a way she won't let herself look at.",
+   "detail_quote": "And all Vee could do was look at her with a flat helpless want, the want you keep for a thing you've only ever seen from a distance",
+   "support": [
+    "A27",
+    "B3",
+    "C16"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "Letting someone else lead seems to bring her rare relief.",
+   "detail_quote": "He wasn't going to take it any further than she had. Whatever came next was hers too.",
+   "support": [
+    "A28",
+    "B6"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "Vee reads as hungry for experiences that let her stop monitoring herself and receive what she wants without shame.",
+   "detail_quote": "The whole night went soft. I stopped keeping track of myself. I can't say it better than that.",
+   "support": [
+    "B1",
+    "C14"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "She seems unguardedly brave in her willingness to reach for what she wants once Pace gives her room to choose.",
+   "detail_quote": "I wasn't talked into it. I did it because I wanted to and I did it on purpose.",
+   "support": [
+    "B5",
+    "C15"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Cassie",
+   "ch": 0,
+   "text": "She reads as a sharp, quiet observer who keeps an eye on Randi.",
+   "detail_quote": "She didn't take the bit's open door — didn't do the *oh, mine's a whole thing too* that the bit was built to be answered with",
+   "support": [
+    "A33",
+    "B25",
+    "C17"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Cassie",
+   "ch": 0,
+   "text": "She seems deeply loyal and protective of Vee without making a show of it.",
+   "detail_quote": "Cassie never asked — asking was for people who wanted the sad version to get bigger.",
+   "support": [
+    "A34",
+    "B26",
+    "C18"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Cassie",
+   "ch": 0,
+   "text": "She seems to hide her hurt, maybe a deeper feeling, each time Randi takes Vee away.",
+   "detail_quote": "whatever had been in them was folded away",
+   "support": [
+    "A36",
+    "B27"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Brooke",
+   "ch": 0,
+   "text": "Behind her warmth she reads as a watchful authority, collecting information on Randi.",
+   "detail_quote": "Brooke was the chapter president and did not need to stand to stop someone in her own common room.",
+   "support": [
+    "A38",
+    "B28",
+    "C19",
+    "D10"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Sloane",
+   "ch": 0,
+   "text": "Her friendliness reads as noncommittal and easy to turn against someone.",
+   "detail_quote": "the laugh that meant nothing on its own and was therefore available for anything",
+   "support": [
+    "A40",
+    "D11"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Kinsey",
+   "ch": 0,
+   "text": "She reads as an eager follower, trying to fit into the room.",
+   "detail_quote": "Kinsey, who had been waiting for the room to warm to her",
+   "support": [
+    "A41",
+    "B31"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Christine",
+   "ch": 0,
+   "text": "She seems to hold Pace in real, motherly affection, which counts as a witness to his goodness.",
+   "detail_quote": "Christine fed me twice what I ordered and wouldn't put it on the bill.",
+   "support": [
+    "A42",
+    "B33",
+    "D12"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Daphne",
+   "ch": 0,
+   "text": "She reads as Pace's wound, the woman whose privacy he once violated.",
+   "detail_quote": "He had wanted to be inside her feelings — he had been young, and had thought that loving someone was a kind of permission",
+   "support": [
+    "A43",
+    "B34",
+    "D13"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch1",
+   "ch": 1,
+   "text": "The disguised bench: hidden appetite and power waiting beneath an ordinary domestic surface",
+   "detail_quote": "Tomorrow he would put the top back on and the bench would be a long table again",
+   "support": [
+    "A45",
+    "B35",
+    "C20",
+    "D14"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch1",
+   "ch": 1,
+   "text": "The lock turning: Randi shutting herself away.",
+   "detail_quote": "The hum in her ribs continued, very low, very small, almost not there, the size of a key turning in a lock.",
+   "support": [
+    "A47",
+    "B37",
+    "D15"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch1",
+   "ch": 1,
+   "text": "The mirror face: the mask put back on over the self that was exposed.",
+   "detail_quote": "The face, in the mirror, was the face of a woman who had just had an extraordinary evening",
+   "support": [
+    "A48",
+    "C22"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch1",
+   "ch": 1,
+   "text": "Feeding, from the apple slices onward: Pace as the man who feeds women's rationed hunger.",
+   "detail_quote": "He had sliced it thin because she would eat thin slices and would not eat thick ones",
+   "support": [
+    "A49",
+    "B36",
+    "C21",
+    "D16"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch3",
+   "ch": 3,
+   "text": "The lone burning maple: a woman changing ahead of her surroundings.",
+   "detail_quote": "a single tree burning orange in a field of things that had not yet decided to change",
+   "support": [
+    "A51",
+    "B38",
+    "D19"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch5",
+   "ch": 5,
+   "text": "Pace's crossed mark: two separate desires or people becoming legible when placed in relation",
+   "detail_quote": "Put them together, at right angles, and they turn into a single thing that's suddenly plain",
+   "support": [
+    "A54",
+    "B40",
+    "C23",
+    "D21"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch7",
+   "ch": 7,
+   "text": "The pool: the one place where Vee's body was never a problem.",
+   "detail_quote": "Nobody up there could see her. Nobody down here wanted anything.",
+   "support": [
+    "A57",
+    "B41",
+    "C24",
+    "D22"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch10",
+   "ch": 10,
+   "text": "Cherry pits: learning a rule without shame and then freely joining the practice",
+   "detail_quote": "He picked the pit up between two fingers, smoothed a square of wax paper open on the rock",
+   "support": [
+    "B45",
+    "D24"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch10",
+   "ch": 10,
+   "text": "The flannel: Pace's care, which Vee now keeps as her own.",
+   "detail_quote": "It was soft, and it was warm — not warm from a body, warm the way dry folded cloth is warm against wet skin",
+   "support": [
+    "A60",
+    "B46",
+    "C25",
+    "D25"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch10",
+   "ch": 10,
+   "text": "The moleskin: small, practical care that holds.",
+   "detail_quote": "The square of foam was still on her heel, holding.",
+   "support": [
+    "A61",
+    "B47"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch1",
+   "ch": 1,
+   "text": "What will Randi do about the self Pace found, and about him?",
+   "detail_quote": "something in her needed him not to know any more than he already did. Not tonight — and this arrived without words, quiet as a deadbolt going over — not ever.",
+   "support": [
+    "A62",
+    "B48",
+    "C27",
+    "D26"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch1",
+   "ch": 1,
+   "text": "What did Pace's intrusion on Daphne cost him?",
+   "detail_quote": "he had gone in where he had not been asked, and it had cost him more than he had known, then, that anything could cost.",
+   "support": [
+    "A63",
+    "B49",
+    "C26"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch3",
+   "ch": 3,
+   "text": "Will Vee be brought to the bench, and will she want it?",
+   "detail_quote": "Do you think she'll like the bench?",
+   "support": [
+    "A65",
+    "C29"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch5",
+   "ch": 4,
+   "text": "Will Vee find out that Randi and Pace already knew each other?",
+   "detail_quote": "She gave him her name as a single bare word and waited.",
+   "support": [
+    "A68",
+    "D28"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch4",
+   "ch": 4,
+   "text": "What did Cassie see, or foresee, when she said \"Goodbye\"?",
+   "detail_quote": "Have fun,\" Cassie said. And then, plainly, as she said everything: \"Goodbye, Vee.",
+   "support": [
+    "A66",
+    "C31"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch4",
+   "ch": 4,
+   "text": "Where does Randi's accent come from, and what past is she hiding?",
+   "detail_quote": "Randi had something in her mouth that wasn't from anywhere near here — the esses ran a half-beat long",
+   "support": [
+    "A67",
+    "C30"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch9",
+   "ch": 8,
+   "text": "Is Pace rich, or something other than he appears?",
+   "detail_quote": "Underneath it he seemed young to be finishing a PhD, and she set the thought down without opening it",
+   "support": [
+    "A70",
+    "C33"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch10",
+   "ch": 10,
+   "text": "Will Pace get Vee the russet dress she gave up on?",
+   "detail_quote": "It was silk. Russet—like—\" the color, what to do with the color, \"—like the red of a brick. That kind of red. It just looked like the dress.",
+   "support": [
+    "A71",
+    "C34"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch10",
+   "ch": 10,
+   "text": "What was Vee about to tell Pace before the siren cut her off?",
+   "detail_quote": "The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went.",
+   "support": [
+    "A72",
+    "B56",
+    "C35",
+    "D32"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch3",
+   "ch": 3,
+   "text": "Will Randi's desire for Vee remain containable within the threesome she has framed as a gift to Pace?",
+   "detail_quote": "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift",
+   "support": [
+    "B50",
+    "D27"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch6",
+   "ch": 6,
+   "text": "Will Randi's held wanting turn into jealousy as Pace and Vee grow genuinely close on their own?",
+   "detail_quote": "He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway.",
+   "support": [
+    "B54",
+    "C32"
+   ],
+   "opposes": []
+  }
+ ],
+ "groups_raw": "A1 C6 D1\nA2 B11 C7\nA3 D3\nA5 B10 C9\nA7 B9 D2\nB15 C10\nA9 C11\nA12 B12\nA13 B14\nA14 B17 D5\nA21 B22\nA15 C3\nA16 B21\nB19 C2\nA19 C4 D4\nA20 B20 C5\nA22 B23\nB16 C1\nA24 B2 C12 D7\nA25 B4\nA29 C13 D8\nA27 B3 C16\nA28 B6\nB1 C14\nB5 C15\nA33 B25 C17\nA34 B26 C18\nA36 B27\nA38 B28 C19 D10\nA40 D11\nA41 B31\nA42 B33 D12\nA43 B34 D13\nA45 B35 C20 D14\nA47 B37 D15\nA48 C22\nA49 B36 C21 D16\nA51 B38 D19\nA54 B40 C23 D21\nA57 B41 C24 D22\nB45 D24\nA60 B46 C25 D25\nA61 B47\nA62 B48 C27 D26\nA63 B49 C26\nA65 C29\nA68 D28\nA66 C31\nA67 C30\nA70 C33\nA71 C34\nA72 B56 C35 D32\nB50 D27\nB54 C32"
+}

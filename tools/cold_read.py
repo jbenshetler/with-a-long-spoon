@@ -347,6 +347,32 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
     return agent_fn
 
 
+CODEX_TURN_CHARS = 940_000   # under the app-server's 1,048,576-character turn cap, with room
+                             # for the part header
+
+
+def split_for_codex(prompt: str, limit: int = CODEX_TURN_CHARS) -> list[str]:
+    """Split at paragraph breaks into parts of at most `limit` characters (a single
+    paragraph longer than that is cut hard). One part when the prompt fits."""
+    if len(prompt) <= limit:
+        return [prompt]
+    parts, cur = [], ""
+    for para in prompt.split("\n\n"):
+        piece = para if not cur else "\n\n" + para
+        if len(cur) + len(piece) <= limit:
+            cur += piece
+            continue
+        if cur:
+            parts.append(cur)
+        while len(para) > limit:
+            parts.append(para[:limit])
+            para = para[limit:]
+        cur = para
+    if cur:
+        parts.append(cur)
+    return parts
+
+
 def make_codex_agent_fn(*, system_prompt, effort):
     """Return a subscription-backed agent function and its resource cleanup.
 
@@ -408,8 +434,28 @@ def make_codex_agent_fn(*, system_prompt, effort):
             sandbox=Sandbox.read_only,
         )
         t0 = time.time()
+        # The codex app-server caps ONE turn's input at 1,048,576 characters
+        # (MAX_USER_INPUT_TEXT_CHARS = 1 << 20; openai/codex#20742, open), far below
+        # the model's ~1M-token window. Over the cap, the prompt goes in as several
+        # turns of one thread -- the split OpenAI's own codex-security uses -- so the
+        # model still holds the whole text in one context. Earlier parts ask only for
+        # "OK"; the last part carries the actual request.
+        parts = split_for_codex(prompt)
+        pre_usage = []
+        for i, part in enumerate(parts[:-1], start=1):
+            ack = thread.run(
+                f"[Part {i} of {len(parts)} of the material for the task. Read it and "
+                f"reply only: OK]\n\n{part}",
+                cwd=workdir.name, effort="low", model=model, sandbox=Sandbox.read_only,
+            )
+            if ack.error:
+                raise RuntimeError(f"Codex turn failed (part {i}/{len(parts)}): {ack.error}")
+            pre_usage.append(getattr(ack, "usage", None))
+        last = parts[-1] if len(parts) == 1 else (
+            f"[Part {len(parts)} of {len(parts)}: the last of the material, then the task]"
+            f"\n\n{parts[-1]}")
         result = thread.run(
-            prompt,
+            last,
             cwd=workdir.name,
             effort=None if effort == "none" else effort,
             model=model,
@@ -418,6 +464,9 @@ def make_codex_agent_fn(*, system_prompt, effort):
         duration_ms = (time.time() - t0) * 1000.0
         if result.error:
             raise RuntimeError(f"Codex turn failed: {result.error}")
+        if len(parts) > 1:
+            print(f"[codex] {label}: sent in {len(parts)} turns ({len(prompt):,} chars)",
+                  file=sys.stderr)
         text = result.final_response or ""
         token_usage = getattr(result, "usage", None)
         total = getattr(token_usage, "total", token_usage)
@@ -436,7 +485,7 @@ def make_codex_agent_fn(*, system_prompt, effort):
             "nonMessageTokens": 0,
             "cost": None,
             "duration_ms": getattr(result, "duration_ms", None) or duration_ms,
-            "turns": 1,
+            "turns": len(parts),
             "incomplete": getattr(result, "status", None) == "incomplete",
         }
         return {"output": text, "id": getattr(result, "id", None) or label, "usage": usage}
