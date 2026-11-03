@@ -201,10 +201,14 @@ def run_audit(ck: Path, auditor: str | None = None, force: bool = False) -> dict
         raw = ck.read_text(encoding="utf-8")
         ck_sha = sha(raw)
         ap = audit_path(ck)
+        prior = ""
         if ap.exists() and not force:
             cur = json.loads(ap.read_text(encoding="utf-8"))
             if cur.get("checkpoint_sha256") == ck_sha:
-                return cur
+                if not cur["counts"].get("MISSING") or "raw_output" not in cur:
+                    return cur
+                # An audit the auditor stopped short on: finish it, keep what it labelled.
+                prior, auditor = cur["raw_output"], cur["auditor"]
         auditor = auditor or auditor_model()
         b = boundary_of(ck)
         body = checkpoint_bundle.checkpoint_body(raw)
@@ -218,7 +222,23 @@ def run_audit(ck: Path, auditor: str | None = None, force: bool = False) -> dict
         import capture_dag
         fn, close = capture_dag.make_agent(auditor, "medium")
         try:
-            out = fn(system, prompt, f"audit·{auditor}·{ck.name}")
+            out = prior or fn(system, prompt, f"audit·{auditor}·{ck.name}")
+            # A long checkpoint can outrun one response; ask again for only the claims
+            # left unlabelled (the ch070 audit stopped at 1224 of 1290).
+            for _ in range(3):
+                done = {m.group(1) for line in out.splitlines()
+                        if (m := OUT_RE.match(line.strip()))}
+                rest = [(i, s, t) for i, s, t in us if i not in done]
+                if not rest:
+                    break
+                print(f"  audit {ck.name}: {len(rest)} claims unlabelled; asking again",
+                      flush=True)
+                claims = "\n".join(f"{i} [{s}] {t}" for i, s, t in rest)
+                out += "\n" + fn(system, (
+                    f"===== THE NOVEL, CHAPTERS 1–{b} =====\n\n{page}\n\n"
+                    f"===== CLAIMS ({len(rest)}) =====\n\n{claims}\n\n"
+                    f"Label all {len(rest)} claims now, {rest[0][0]} through {rest[-1][0]}."),
+                    f"audit·{auditor}·{ck.name}·rest")
         finally:
             close()
         results = finalize(us, out, page)

@@ -1,4 +1,4 @@
-# readings · slot anthropic · model claude-opus-5-5 · bundle-sha256 f0810ad8a8fc39d842b57af289e30e56419e634f9d208dffde5ad0479e9bc71e · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
+# readings · slot anthropic · model claude-opus-5-5 · bundle-sha256 c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
 
 IMPRESSION | Pace | He reads as courtly, a man who makes a habit of handing the choice back to the woman he's with. | "He started to back off — that was what he did, he backed off and let her decide"
 IMPRESSION | Pace | He seems to hold consent as a principle and not just a manner. | "She chooses it, Randi. Every step of it. Or it isn't anything."

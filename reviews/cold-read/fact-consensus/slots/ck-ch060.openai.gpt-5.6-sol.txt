@@ -1,4 +1,4 @@
-# slot openai · model gpt-5.6-sol · bundle-sha256 00e2f494ace9c2609b5d75ecbbe54188bd2992716a6e012e226771c2f9c08190 · prompt-sha256 0247e38c835f10047e0a517523dce68d86b4e9413f1061a4f04f2a4bac6abac6 · ranges 1-51,52-60 · 2026-11-02
+# slot openai · model gpt-5.6-sol · bundle-sha256 c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d · prompt-sha256 0247e38c835f10047e0a517523dce68d86b4e9413f1061a4f04f2a4bac6abac6 · ranges 1-51,52-60 · 2026-11-02
 
 POV | ch1 | Pace | "In his bedroom he lifted the top off a table"
 POV | ch1 | Randi | "In the bathroom, Randi stood at the sink"

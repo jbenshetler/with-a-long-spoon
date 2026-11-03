@@ -1,4 +1,4 @@
-# readings · slot openai · model gpt-5.6-sol · bundle-sha256 f0810ad8a8fc39d842b57af289e30e56419e634f9d208dffde5ad0479e9bc71e · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
+# readings · slot openai · model gpt-5.6-sol · bundle-sha256 c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
 
 IMPRESSION | Vee | Vee reads as ravenously receptive to being seen, fed, and guided because each attention reaches a self she had learned to hide. | "Like he wants me. With the body attached. Not — the other way around."
 IMPRESSION | Vee | Vee seems increasingly brave about displaying her body, turning former shame into a daring she can choose and enjoy. | "She stalked across the stage giving them away a step at a time, and did not once make herself small"

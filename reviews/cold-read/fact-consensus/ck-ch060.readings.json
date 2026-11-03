@@ -1,6 +1,6 @@
 {
  "boundary": 60,
- "bundle_sha256": "f0810ad8a8fc39d842b57af289e30e56419e634f9d208dffde5ad0479e9bc71e",
+ "bundle_sha256": "c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d",
  "slots": {
   "anthropic": {
    "model": "claude-opus-5-5",

@@ -1,4 +1,4 @@
-# slot anthropic · model claude-opus-5-5 · bundle-sha256 5c77d89596f7805369142f20d2a9d32d36b95c9bfffbe31e6e909c3a1418ab44 · prompt-sha256 0247e38c835f10047e0a517523dce68d86b4e9413f1061a4f04f2a4bac6abac6 · 2026-11-02
+# slot anthropic · model claude-opus-5-5 · bundle-sha256 da32d2e67ea169a6f18f6de70ae0c156ba2413c3f87bad01f01202b64cd41dfa · prompt-sha256 0247e38c835f10047e0a517523dce68d86b4e9413f1061a4f04f2a4bac6abac6 · 2026-11-02
 
 POV | ch1 | Pace | "He had left the front door unlocked for her."
 POV | ch1 | Randi | "In the bathroom, Randi stood at the sink and looked at her face in the mirror."

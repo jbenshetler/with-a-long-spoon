@@ -1,10 +1,10 @@
 {
  "checkpoint": "reviews/cold-read/fact-consensus/ck-ch060.md",
- "checkpoint_sha256": "698e9aeb72d55a4650240989bd1fa161f47f38404ecc76943e17eb980ce7673e",
+ "checkpoint_sha256": "8e45dd47f11670d7503c3ca038770600ec17b45163c37718c96c94a3f295d7b3",
  "auditor": "claude-opus-5-5",
  "prompt_sha256": "6bd7a907436eed73dc0cc6159ce03d6df0642815ae6e938ea9099239aa6515a3",
  "date": "2026-11-02",
- "bundle_sha256": "00e2f494ace9c2609b5d75ecbbe54188bd2992716a6e012e226771c2f9c08190",
+ "bundle_sha256": "c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d",
  "counts": {
   "FACT": 1151,
   "INFERENCE": 67,

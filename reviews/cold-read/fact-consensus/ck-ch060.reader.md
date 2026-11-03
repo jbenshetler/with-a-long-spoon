@@ -1,6 +1,6 @@
 # Checkpoint — through Chapter 60 (consensus facts + readings)
 
-*source: fact-consensus ck-ch060 (audited, 12 non-fact sentence(s) dropped, 2 trimmed) + ck-ch060.readings · bundle-sha256: f0810ad8a8fc39d842b57af289e30e56419e634f9d208dffde5ad0479e9bc71e · facts-sha256: 698e9aeb72d5 · readings-sha256: 9e32dd266078*
+*source: fact-consensus ck-ch060 (audited, 12 non-fact sentence(s) dropped, 2 trimmed) + ck-ch060.readings · bundle-sha256: c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d · facts-sha256: 8e45dd47f116 · readings-sha256: 82f3cd1e0abc*
 
 ---
 

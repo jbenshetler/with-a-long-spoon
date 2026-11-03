@@ -1,4 +1,4 @@
-# readings · slot diversity · model glm-5.3 · bundle-sha256 f0810ad8a8fc39d842b57af289e30e56419e634f9d208dffde5ad0479e9bc71e · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
+# readings · slot diversity · model glm-5.3 · bundle-sha256 c679556a9e4ba441d4eba02bf1c7c298ac50cf2dd530a0b5a46d8cf456b6f98d · prompt-sha256 4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded · 2026-11-02
 
 IMPRESSION | Vee | reads as a girl whose shame and appetite run on the same wire, learning to be looked at and fed at once, still calling both love | "The shame was still running and she could not find the top of it and she did not try."
 IMPRESSION | Vee | reads as someone who tells every secret she has to a table with Randi at it, believing it travels no farther, which is where the reader's dread lives | "She'd tell it Thursday."
