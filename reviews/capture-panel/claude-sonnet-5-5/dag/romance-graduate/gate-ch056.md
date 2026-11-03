@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch056 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a91977d2c49a · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch056 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
 
-Oh. *Oh.* So that's where Randi goes after the loft.
+Oh. *There's* the third game. I've been waiting since the jacket, and it landed in the middle of a Thursday night, in the same hours as Vee lying in a flannel shirt with her fingers a breath from her mouth. Whoever arranged that doesn't miss.
 
-I was braced for her to be hurt or brittle after Vee's "gross, wrong." She wasn't. She went straight to Pace's bed and came against his mouth. The first thing she did when he came up was kiss her own taste off him, with no flinch at all. "Now it's mutual." That's the answer to Vee's question, played out in the one place Vee can't see it. Vee spent three chapters standing on the edge of her own fingers, and Randi just does the thing. It's cruel in a way I loved, because I could hear "gross" still ringing from the booth.
+The two chapters work as a mirror, and I felt it click. Vee can't close the distance to her own taste. Randi licks it off his mouth, off his thumb, off his thigh, and does it with "theatrical care" like it's nothing. Vee said "gross," and "I don't" was the whole answer. Now I see where that answer lives. It's a woman who's been fed this way and isn't ashamed of any of it, and she's in bed with Vee's boyfriend while her whole head is full of Vee. I'm not sure whether I'm turned on or heartbroken, which is the right place to be.
 
-The heat is real. The strong-man lifting is hot, and so is "Showing off." / "You asked me to come here." They sound like two people who've done this a long time, with banter that's sexy because it's easy. The scene where she cleans him up with her tongue and then announces "I did my part" works for me as both filth and character. The "fuck doll" line landed too, because she's the one handing him the power while she directs. She leads everything, and he lets her.
+The sex is hot. The "fuck doll" line and the way he keeps control made me squirm. The best part was the talking. Randi narrates wanting Vee's breast in her hand while Pace has her nipple in his mouth, and he says "She makes me happy," and she says "I want her to know exactly what she does to me." Then the turn: "You know she loves you, right?" "She's not the only one in love." And he can't tell her she's wrong. Oh, that's the one that got me. Randi just told him she loves him too, in the middle of a conversation about Vee, with no smile and no rescue.
 
-What got me wasn't the sex but the talk during it. "I miss her during the day. More at night." "She kisses me first now." "I wanted to turn around. Put my hand on her." They're building her out of words over each other's bodies. And then Randi says it: "You know she loves you, right?" and "She's not the only one in love." Pace can't tell her she's wrong. He's the man who couldn't finish "Vee, I l—", and here he is looking at it from the side and not flinching. I wanted to scream at the page: tell *her*! Of course these two can say it to each other and not to the girl.
+The shape of the three of them is clear now. Randi can say it to him and can't say it to Vee. Pace can't say it to anyone, and he's the one holding Randi's wrist-kiss. And Vee is out there thinking she's got a pleasure-princess crown. I'm furious and tender at all three.
 
-The jacket's "three games" finally clicks, and Vee thinks she's playing the other two. Her neck kisses are not the accident she tells herself. Randi is turning *toward* them, and it's agony to watch her not turn.
+My one complaint is the prose. The chapter is a lot of "He did X. She did Y." with very short lines, and it's thinner than Vee's chapters. The dialogue carries it, though, so I don't mind much.
 
-The flashback paragraph, "Where have you been?" with the finger to the lips, dropped in mid-scene with no marker, jolted me. I couldn't tell whose it was, or when, until I worked it out. A little clumsy. And it's the one place I felt the book explaining itself, with "Vee's name stayed in the room" and "the open sentence stayed with it" leaning on me.
-
-I'm furious at everyone, tenderly. I want Vee to read this chapter. I want Thursday.
+I need the next one. I want to know what Vee does with "I don't." I also want to know what happens when Randi meets Vee on Tuesday with this on her.
 
 GATE 56 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none. The closest was the unmarked flashback paragraph ("She had called late, the first time since the morning she had cried…"), which briefly lost me.
-WHY: It answers Vee's "gross" with Randi's "now it's mutual," and it's hot and emotionally exact. "She's not the only one in love" is the turn I've been waiting for. I need to know whether Vee finds out, or whether the three of them can keep a straight face.
+ALMOST-STOPPED: none
+WHY: This is the third game finally on the page, and it mirrors Vee's unfinished reach from the chapter before. "She's not the only one in love," and Pace being unable to say she's wrong, is the turn in the bond. The staccato choreography is the only thing holding it back.

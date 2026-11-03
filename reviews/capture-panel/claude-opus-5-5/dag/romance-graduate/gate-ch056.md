@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a91977d2c49a · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
 
 **REACTION**
 
-Oh my GOD. I put the Kindle face-down on my chest and just lay there for a second.
+Oh my God. Oh my GOD.
 
-Same night. *Same Thursday.* Vee's alone in a shut room in his flannel with her fingers a breath from her mouth and she can't close the distance. And the very first page of the next chapter is Randi coming on his face, then reaching up and pulling the taste off his mouth with "no hesitation." Then the thumb into her own mouth. "Now it's mutual." The book didn't explain the rhyme to me. It just put the two women side by side and let me feel the gap between them. That's the cruelest structural thing this book has done, and I mean that as a compliment.
+It's the same night. I had to scroll back and check the dateline. Thursday, January 21. Vee is in her dorm in his flannel, buttoned up, lying on her own damp patch, "her mouth was still empty." Meanwhile Randi, the woman who just said "Tuesday" to her on the sidewalk, is coming against Pace's mouth with her heel in his back. The first line didn't ease me in. It put me straight in the bed, and I physically sat up.
 
-And the wrist. He kissed the inside of Randi's wrist. Vee told Randi about that *tonight*, at dinner: "Who stays? Everything I know about men says the wrist is a toll booth. He parked." She thought it was hers. Randi sat there running her nail around the glass, *knowing it isn't*. I actually said "oh no" out loud. That's one detail, not underlined at all, and it hurt more than the sex did.
+And the taste. The book did it to me on purpose, didn't it. Vee spent the whole last chapter one breath from her own fingers and couldn't close the distance. Randi pulls him down, tastes herself on his tongue "with a low sound," licks his lip clean, wipes the corner of his mouth with her thumb and sucks it. "There. Now it's mutual." She does it with no hesitation and no Victorian hand over the mouth. Then later she cleans the two of them off him with her tongue. Every single thing Vee couldn't do, Randi does like breathing. I don't need anyone to tell me what that means, and nobody did. I loved that. It trusted me completely.
 
-Here's where I've landed on the betrayal. My carry-forward notes said Pace owes Randi a phone call she's waiting on him to make. She made it. "Where have you been?" and the finger to her lips. I believed the jacket all along that there are three, and I knew they chose Vee together. Knowing it and watching it are very different. He said "Vee's boyfriend" six times last night, and twenty-four hours later he's telling another woman, mid-stroke, "She kisses me first now." He's *reporting* on her. Randi's reporting too: the neck kiss, "I nearly turned around." So the flinch I clocked twice was real, and Vee read it as ticklish twice. All those "Hmm"s at Tuesday dinner have changed color for me.
+Now the part that has me pacing my kitchen. Every confession from those two dinners went straight into this bed. The neck kiss, "again," so the very kiss from four hours ago. "She kisses me first now." "She looks at you, too." Those are Vee's stories, the ones she was so proud to hand over at full value, and they're being used as dirty talk. Randi isn't just his partner in the scheme. She's his *informant*. And it's *hot*, which is the problem. "Her breast in my hand… And her nipple in my mouth," with Pace taking Randi's nipple as a stand-in. I was turned on and a little sick at the same time, and I think that's exactly where the book wants me. Poor Vee walked home six minutes into the wind replaying "I don't." Randi went home and said "I want her to know exactly what she does to me," and that's what broke Pace's control. Not Randi herself. Vee.
 
-But I can't hate either of them, and that's what's messing with me. "She makes me happy" came out of him with no armor at all. Randi's "I want her to know exactly what she does to me" broke his control, so the hottest moment in the scene was a confession about someone who isn't in the room. Then "You know she loves you, right?" "She hasn't said it." "She doesn't have to." That's rich coming from a man whose whole philosophy is believe what I do. And then "She's not the only one in love," and "he couldn't tell her she was wrong." Wrong about *which* of them? Him, her, both? I read it three times. I think it's both, and I think the book means it to be both.
+Then the aftermath. "You know she loves you, right?" "She hasn't said it." Pace, you absolute hypocrite, you're the one who hasn't said it. Then: "She's not the only one in love." Wait. Who? Randi in love with Vee? With Pace? With both? "He couldn't tell her she was wrong." I read that line four times. I think it means both, and I think Pace knows it about himself too. That's the turn the jacket promised: the two who moved her have fallen.
 
-The heat was genuinely peak for me, even with my stomach in a knot. Randi's breast in her own hand, saying "her nipple in my mouth" while he takes it: she's using his body as a stand-in for Vee, and he's letting her because he *likes* it. That's dirty in the psychological way I'm always starving for. Two flat spots, though. "Using me like your fuck doll" and "I better clean up that mess before you stick it inside me" sound like stock porn dialogue. Randi's voice is sharper than that. "Subtle." "Elegant." *That's* her. For two lines the voice turned into somebody else's, and I felt it.
+And the opening flashback. Randi "gingerly, without her usual authority," throwing the deadbolt, two fingers on his mouth, looking at him "as if she were seeing him anew" for most of a minute. So the six-week silence ended tonight, and it ended tender. "The first time since the morning she had cried." What morning? I'm going to obsess over that.
 
-What I'm suspicious of now: how much of what Vee tells Randi gets carried to this bed. Where's Brooke's ultimatum in all this? Randi has clearly not chosen. Is this the first time since the green panties, or have I just not been shown the others? And I'm angry at Pace for kissing that wrist. Petty, maybe. But I am.
+Small gripes: the prose here is clipped, short paragraph after short paragraph, almost choreography, and some of it read like stage directions ("Pace positioned himself beneath her"). The "fuck doll" line jolted me out. It didn't sound like Randi, who talks in velvet and restaurant recommendations. Oh, and "Subtle." "Elegant." "I value your professional opinion." Fine, that banter I loved. It's these two exactly.
 
-What I'd text at 1 a.m.: "SHE TASTED IT IN THE FIRST PARAGRAPH. Vee couldn't do it ONE CHAPTER AGO. And he kissed her WRIST. I'm unwell."
+The text to my friend at 1 a.m.: *they're sleeping together AND they're both in love with her AND they talk about her during. the dinners were intel. I'm not okay.*
 
-**GATE 56 — My Pleasure**
+---
+
+GATE 56 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Look at you, using me like your fuck doll." For one line Randi turned into a generic KU heroine, and I winced.
-WHY: Three quiet-to-warm chapters paid off in one cold-open scene that's explicit *and* full of grief and wanting for someone who isn't there. It mirrors Vee's stopped reach without saying so, and the wrist detail gutted me. I need to know what "she's not the only one in love" does to all three of them, and I need it now.
+ALMOST-STOPPED: "Look at you, using me like your fuck doll." It's the one line that sounded like generic KU and not like Randi, and it knocked me out of the room for a second.
+WHY: This is the both-at-once I came for. It's explicit and filthy, and every beat is loaded with what Vee couldn't do an hour earlier and with everything she doesn't know. "She's not the only one in love" is the bond turning right on the page. I'm angry at both of them and I need to know what Vee finds out, and when.
