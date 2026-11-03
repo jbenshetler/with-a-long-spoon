@@ -3343,6 +3343,20 @@ text = "He watched her take it."
 note = "author ack 2026-11-02 (after the arrival move)"
 
 [[ok]]
+fp   = "f4eda21be52a"
+rule = "filter-verbs"
+file = "scenes/my-pleasure.md"
+text = "\"I heard you.\""
+note = "author ack 2026-11-02 (after the arrival move); re-ack after straight-quote conversion"
+
+[[ok]]
+fp   = "82f0e70b0fc4"
+rule = "look-at-her"
+file = "scenes/my-pleasure.md"
+text = "\"Look at you, using me like your fuck doll.\""
+note = "Author approved: Randi's theatrical self-naming makes the first 'fuck' load-bearing in her chosen-submission register. Re-ack after straight-quote conversion."
+
+[[ok]]
 fp   = "94dd53fb26ae"
 rule = "look-at-her"
 file = "scenes/my-pleasure.md"

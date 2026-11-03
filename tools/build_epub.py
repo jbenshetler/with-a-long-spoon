@@ -322,8 +322,42 @@ def esc(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+# Source quotes are straight; they are smartened here (style-sheet.md, ruled
+# 2026-08-02). A quote opens at the start of a run or after whitespace, an
+# opening bracket, a dash or an opening quote; italic markers are transparent.
+# Elisions such as 'em, 'til and '90s take an apostrophe, never an open quote.
+_ELISION = re.compile(r"'(?=(?:em|til|tis|twas|cause|bout|\d\ds?)\b)|(?<=\s)'n'(?=\s)", re.I)
+_OPENS_AFTER = set(" \t\n([{“‘")
+
+
+def smarten(s: str) -> str:
+    s = _ELISION.sub(lambda m: "’n’" if len(m.group()) == 3 else "’", s)
+    out = []
+    for i, ch in enumerate(s):
+        if ch in "\"'":
+            # Look back past italic markers at what is already converted, so a
+            # closing ’ before a " reads as closing. A dash before a quote ends
+            # an interrupted line ("I—"); a spaced dash leaves whitespace, so a
+            # quote after " — " still opens.
+            j = len(out) - 1
+            while j >= 0 and out[j] == "*":
+                j -= 1
+            # A quote with only space after it closes (he was — "), unless a
+            # nested quote or a resuming dash follows the space
+            # (— " 'I got mushrooms.'"; toward it " — and right).
+            after = s[i + 1:i + 3].ljust(2)
+            closes = after[0].isspace() and after[1] not in "\"'—–"
+            opening = (out[j] if j >= 0 else " ") in _OPENS_AFTER and not closes
+            if ch == '"':
+                ch = "“" if opening else "”"
+            else:
+                ch = "‘" if opening else "’"
+        out.append(ch)
+    return "".join(out)
+
+
 def inline(s: str) -> str:
-    s = esc(s)
+    s = smarten(esc(s))
     s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", s)
     return s

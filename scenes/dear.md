@@ -1,6 +1,6 @@
 # Dear
 
-*Diptych · Saturday September 19, Vawter Hall; Friday September 25, statistics and the Smoothie Bird · Vee’s POV*
+*Diptych · Saturday September 19, Vawter Hall; Friday September 25, statistics and the Smoothie Bird · Vee's POV*
 
 ---
 

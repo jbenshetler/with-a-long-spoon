@@ -289,6 +289,14 @@ scope    = "scenes"
 why      = "CRAFT RULE: never label Pace's temperament (his introversion and hyperfocus) on the page — it lives only in behavior, never as a diagnosis. Remove."
 
 [[rule]]
+id       = "curly-quote"
+kind     = "regex"
+pattern  = '[“”‘’]'
+severity = "error"
+scope    = "scenes"
+why      = "STYLE SHEET: quotes and apostrophes are straight in source and smartened at typesetting (style-sheet.md, ruled 2026-08-02). A curly quote is usually a paste. Replace with \" or '."
+
+[[rule]]
 id       = "held-past"
 kind     = "regex"
 pattern  = '''(?i)\b(?:(?:a|one|two|half\s+a|a\s+half|a\s+few|several)\s+(?:half-)?(?:beat|second|moment|breath|heartbeat)s?)\s+(?:too\s+\w+|past)\b|\b(?:(?:a|one|two|half\s+a|a\s+half|a\s+few|several)\s+(?:half-)?(?:beat|second|moment|breath|heartbeat)s?)\s+(?:longer|more)\b(?=[^.!?;]{0,40}\bthan\b)|\b(?:longer|more)\s+than\s+(?:the|a|an|it|any|his|her|their|she|he)\s+[\w\x27\- ]{2,25}\s*(?:needed|need|required|asked|called\s+for|warranted|took|had\s+to|meant\s+to|allowed)\b|\bpast\s+what\s+[\w\x27\- ]{2,25}\s*(?:needed|required|would|called\s+for)\b'''

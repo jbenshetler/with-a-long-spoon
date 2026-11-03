@@ -1,6 +1,6 @@
 # How It's Done
 
-*Diptych · Saturday October 3, Vee and Cassie’s dorm room; Sunday October 4, Randi’s car and off-campus lunch · Vee’s POV*
+*Diptych · Saturday October 3, Vee and Cassie's dorm room; Sunday October 4, Randi's car and off-campus lunch · Vee's POV*
 
 ---
 

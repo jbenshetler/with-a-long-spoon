@@ -1,6 +1,6 @@
 # Gone
 
-*Workshop revision · Pace’s POV, close third. Bedroom sequence restored from the pre-kitchen version, with later accepted wording retained. After their second encounter: held warmth, food, his undershirt, kitchen conversation, wine, sleep. After {{Sorority}}, before {{Rock}}. The woman is **Randi**; Vee does not appear. The shoe-store account remains Randi’s embellished version.*
+*Workshop revision · Pace's POV, close third. Bedroom sequence restored from the pre-kitchen version, with later accepted wording retained. After their second encounter: held warmth, food, his undershirt, kitchen conversation, wine, sleep. After {{Sorority}}, before {{Rock}}. The woman is **Randi**; Vee does not appear. The shoe-store account remains Randi's embellished version.*
 
 ---
 
