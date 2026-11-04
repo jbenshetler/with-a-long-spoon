@@ -15,11 +15,16 @@ taste, don't contradict.
 ## Exterior / approach `[PLAN]`
 
 He **owns** the house — bought with the modest ongoing payments from his patent — a
-*retreat*, not a showcase. It sits on a **driveway directly off the highway outside
-town**: a wooded lot, cheap land and no sight lines to the door, cost-consciousness
+*retreat*, not a showcase. It sits **off the highway outside town, at the end of a
+gravel road** (`two-towels.md`, `burn.md`): a wooded lot, cheap land and no sight lines to the door, cost-consciousness
 and privacy bought in one decision (not concealment). The geography is why no one
 can casually spy (Vee drives toward it once and turns back). A used, well-kept
 utilitarian truck in the drive; a hybrid bike.
+
+**Bought as a fixer-upper; he did the work himself** `[PAGE]` — Pace to Vee:
+"One-bedroom fixer-upper at the end of a gravel road — no. It just pays better
+than a stipend." (`two-towels.md`). Pace is not rich; the patent's income is
+modest.
 
 **The grounds are large and private — enough for an outdoor scene.** Canon never
 states acreage directly but implies it: rural Virginia, far outside town, cheap
