@@ -52,7 +52,7 @@ Randi's whole face opened. "*Gay.*"
 
 Then the other part came up in her, and she went slower with it, because it wasn't hers to spend.
 
-"She came out last spring and it went badly. That part's hers — I'm not going to sit here and hand it around." She moved a gnocchi to the edge of her plate and left it there. "But he's the one who showed up. Not her family. Not her church, not the girls she'd known since she was little. Him. He drove her home, and he was back on her porch in the morning with coffee, and then he fixed the lock her landlord had been promising since August. Two years he's been her friend, and he never told me one word of it. I had to get it from her at the table, while he was off at the bar."
+"She came out a couple years ago and it went badly. That part's hers — I'm not going to sit here and hand it around." She moved a gnocchi to the edge of her plate and left it there. "But he's the one who showed up. Not her family. Not her church, not the girls she'd known since she was little. Him. He drove her home, and he was back on her porch in the morning with coffee, and then he fixed the lock her landlord had been promising since August. Two years he's been her friend, and he never told me one word of it. I had to get it from her at the table, while he was off at the bar."
 
 Saying it out loud did something to her that hearing it hadn't. Vee took a drink she hadn't wanted and set the glass down and let her face do what it was doing. *That man.* Hers.
 

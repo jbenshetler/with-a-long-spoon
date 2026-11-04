@@ -4995,6 +4995,13 @@ text = "He felt that land."
 note = "author 2026-09-28: 'He felt that land' stands; the sentence is about him receiving it"
 
 [[ok]]
+fp   = "f6ff0898395d"
+rule = "weather"
+file = "scenes/space.md"
+text = "Sheri remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar going on two years."
+note = "author: Sheri's weather simile stands (2026-11-04)"
+
+[[ok]]
 fp   = "c9a4366ae728"
 rule = "register-verb"
 file = "scenes/standards.md"

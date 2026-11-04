@@ -118,7 +118,7 @@ He kept his eyes on the road and waited.
 
 "All she did was sit by herself, glaring at the floor, nursing the one drink. Danced with nobody." A few slow cranks. "Left alone." Then: "Hell of a backside on her, though. I'll give her that."
 
-Sheri remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years.
+Sheri remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar going on two years.
 
 "Vee," he said.
 
