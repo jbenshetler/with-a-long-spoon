@@ -60,7 +60,7 @@ She stopped. She couldn't say the like-what. It was too ugly to set down in his 
 
 Her eyes had gone. He had been quiet the whole way through, and now he crossed the small distance she'd been keeping, and he didn't say it's fine, didn't reach for any of the things that would have closed it over too easily. He took her face in both hands, warm, and tipped it down a little, because he had to tip it down now, and looked at her.
 
-"Thank you for telling me what she said," he said.
+"Thank you for saying it out loud," he said.
 
 Which was such a strange thing to be thanked for that she laughed, wetly, once, and that was the end of the apology, though the evening went on a long time after it, first lighter and then not light at all. She stayed. She had not packed a bag; she had not let herself think past the front step, because to pack would have been to admit she'd come hoping for this, and the hope was too big and too new to say even to herself. And still she stayed. The last clear thing she thought before the night took her under was that she'd carried the whole weight of it up the hill to his door for two days and he had simply reached over and lifted it out of her hands, like the pie.
 

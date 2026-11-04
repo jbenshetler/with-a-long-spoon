@@ -62,7 +62,7 @@ Unanimous positives — a fix in this scene must not damage these:
 - The HUMBLE PIE prop and its driveway deflation ("it seemed like what it was, which was a joke").
 - The height reversal in Randi's heels + "made for the gods and loaned out" save.
 - "But what happened?" breaking the clean machine — the real apology beginning where Randi's script fails.
-- "Thank you for telling me what she said" — read in the intended double register (tenderness surface / intelligence-gathering underneath) by all three.
+- "Thank you for telling me what she said" — read in the intended double register (tenderness surface / intelligence-gathering underneath) by all three. **Superseded (author ruling 2026-11-04):** recast to *"Thank you for saying it out loud"* — the intelligence-gathering undertone is retired; Pace thanks her for saying the why aloud, the thing the clean machine was built to avoid (`:51`). Do not restore or flag the loss.
 - The kitchen swat and the involuntary *oh*, him watching her face — named the chapter's erotic peak by all three.
 - The domestic middle (folded undershirt, smelling of him head to foot) — read warm *and* faintly ominous, as designed.
 - The title's innocent-then-cold click; "You're always beautiful. *Always.*"
@@ -112,7 +112,7 @@ the author item by item. Cold-read enrichment: all five models
   verbatim; `:27` "one more disrespect laid at his feet"; `:31` the pie lift
   and the scarf ("The scarf was working" — terra: "both funny and a little
   sad"); `:61` "Thank you for telling me what she said," read in the intended
-  double register by all five; the `:83` soak aria; the whole
+  double register by all five (superseded 2026-11-04, see above); the `:83` soak aria; the whole
   `:91`–`:103` kitchen/tickle/spank sequence, which **all five** name the
   chapter's erotic peak, ahead of the actual sex; `:121` "Not *you're
   beautiful*, which she'd have argued. *Always.*"
