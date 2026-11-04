@@ -1,6 +1,6 @@
 # Fact ledger — Volume 2
 
-*model: gpt-5.6-sol · 2026-10-30 · derived from prose only*
+*model: gpt-5.6-sol · 2026-11-04 · derived from prose only*
 
 ---
 
@@ -10,557 +10,611 @@
 
 ### Vivienne “Vee”
 
-- Full name is **Vivienne**; she goes by **Vee**. Pace gives Sheri the full name. (Ch. 3)
-- She is **twenty-one years old**. (Ch. 14)
-- She is an **economics major** and handles the mathematical modeling for the statistics project. (Ch. 15)
-- She lives in a campus dorm with Cassie and sleeps in the **top bunk**. (Chs. 1–2, 19)
-- She is tall enough that Randi is about a head shorter; in Randi’s cognac heels she stands approximately one or two inches taller than Pace. (Chs. 2, 4)
-- She has long, dark-red/red hair, cinnamon-colored freckles across her nose and cheeks, pale skin, long legs, a narrow waist, a softly rounded belly, large breasts, and very pale pink nipples. Her build is repeatedly described as tall and curvy. (Chs. 2, 4, 6–7, 12–14, 23, 25)
-- Her body includes visible muscle beneath the curves of her legs; Randi attributes the softness of her skin to regular lotion use. (Ch. 3)
-- She has a strong swimming background. She owns synchronized-swimming trophies and ribbons, has followed the same structured swim workout since age twelve, and regularly swims in the campus pool. (Chs. 11, 22, 24)
-- She played clarinet; the instrument remains in its case in her childhood closet. (Ch. 22)
-- She drives a **Corolla** with clean cloth seats. (Chs. 13, 16, 24–25)
-- Her parents live in Ohio. Her mother is a hospital nurse; her father rises early for work at “the shop.” (Chs. 17, 22)
-- Her childhood bedroom has a bed she outgrew by the end of middle school, synchronized-swimming trophies, award ribbons, a corkboard of old friends, and the clarinet in the closet. (Ch. 22)
-- Her mother uses the same fabric softener throughout the house and has lavender plug-ins in every room. (Ch. 22)
-- Her parents know she received an honor-society distinction and have a waist-up crop of her induction photograph. (Ch. 17)
-- She tells her parents Pace is her boyfriend, though she phrases it uncertainly. She tells them he is a math PhD candidate, took her hiking, and taught her to dance. She does **not** tell them he owns his house, cooks for her, made the burgundy dress, or has sex with her. (Ch. 17)
-- She has lost weight since meeting Pace despite eating more at his house. Most of her outer clothing was originally bought a size too large; her better-fitting bras and underwear reveal the change more clearly. (Chs. 10, 17)
-- She owns a long, warm coat described as handsome rather than cute; it is later identified as olive wool and reaches approximately to her knees. (Chs. 2, 24–25)
-- She owns a black everyday bra and a better lace bra reserved for Pace. (Ch. 25)
-- She keeps her toenails and fingernails painted frosted plum around the induction and afterward. (Chs. 6, 22, 24–25)
-- She is susceptible to tickling at her ribs and sides. (Chs. 4, 7)
-- She discovers that being struck on the buttocks arouses her. Pace observes the reaction in Chapter 4; she and Pace explicitly verify it in Chapter 7. (Chs. 4–5, 7)
-- She privately recognizes that she loves Pace but does not tell him. (Chs. 10, 17–20)
-- She regards Randi as her best friend and eventually begins initiating their kisses. (Chs. 9, 13, 24)
+- Full name: Vivienne; normally called Vee. Pace tells Sheri the full name. (Ch. 3)
+- Age: twenty-one. (Ch. 14)
+- Tall enough to stand roughly one or two inches above Pace in Randi’s cognac heels; without those heels she normally looks up at him. (Ch. 4)
+- Long dark-red/red hair; freckles described as an abundant cinnamon scatter across her nose and cheeks. (Chs. 2, 10, 14)
+- Curvy build with large breasts, long strong legs, a narrow waist, and a small soft belly. She describes her build as one clothing racks do not accommodate well. (Chs. 2, 10, 13, 25)
+- Former synchronized swimmer; her childhood room contains synchronized-swimming trophies and competition ribbons. She still swims structured sets and has done so since childhood. (Chs. 11, 22)
+- Played clarinet through high school; the instrument remains in its case in her childhood closet. (Ch. 22)
+- Economics major and the mathematically strongest member of the statistics-project group. (Ch. 15)
+- Inducted into an academic honor society. (Ch. 6)
+- Lives in a dorm room with Cassie and sleeps in the top bunk. (Chs. 1–2)
+- Drives a Corolla with clean cloth seats. Its color is not stated. (Chs. 4, 13)
+- Owns a long warm coat, an olive wool coat used for church and family occasions, tan lace-up boots, flats, block heels, church pumps, sneakers, and heels she considers unsafe for dancing. (Chs. 1–2, 25)
+- Owns a green-and-white swimsuit that has become very tight. (Ch. 11)
+- Owns a black dress with a low neckline and a burgundy dress made by Pace. (Chs. 2, 6)
+- Owns green satin underwear with dark lace. She gives the panties to Pace during their first sexual encounter; he stores them beneath his undershirts. (Chs. 14, 16)
+- Has a phone whose camera takes better photographs than Pace’s. (Ch. 12)
+- Her parents live in Ohio. Her childhood room has a bed her legs have outgrown, competition ribbons, swimming trophies, a corkboard of old friends, and the clarinet. (Chs. 21–22)
+- Her mother works on a hospital floor, uses a “nurse face” when worried, and monitors Vee’s weight and health. (Chs. 17, 22)
+- Her father works at a shop and gets up early. He habitually burns rolls, apparently deliberately. (Chs. 17, 22)
+- Her parents are proud of her academic honor. They receive only a waist-up crop of the induction photograph. (Chs. 17, 22)
+- Her grandfather listened to older country music. (Ch. 1)
+- Vee has had previous boyfriends, but Cassie says she never became as absorbed in them as she does in Pace. (Ch. 11)
+- By Chapter 10, Vee privately recognizes that she loves Pace. She does not tell him directly. (Ch. 10)
+- By Chapter 25, Vee and Pace have reunited physically, but no explicit relationship label has been established on the page. (Ch. 25)
 
 ### Pace / Peter
 
-- Vee calls him **Peter** while he sleeps; the text otherwise calls him **Pace**. (Ch. 10)
-- He is a mathematics PhD candidate and has students and office hours. (Chs. 17–18)
-- He owns a house outside town, approximately twenty minutes from campus by Vee’s reckoning. (Chs. 4, 17)
-- He owns and drives a truck. (Chs. 1, 18, 20, 23)
-- He is slightly shorter than Vee when she wears Randi’s cognac heels. (Ch. 4)
-- He is large and heavily built, with a broad chest, powerful legs, strong arms, rough hands, and clothing that often conceals his build. (Chs. 3–4, 7, 10, 16)
-- He has an old, smooth, raised surgical scar in a clean line near the top of his inner thigh. Vee knows the scar exists but is never told its cause. (Chs. 7, 10)
-- He works out at a gym and cycles regularly. (Chs. 3, 7, 13, 23)
-- He is a skilled woodworker. He makes furniture, including the table and chairs in his kitchen, and maintains a garage workshop. (Chs. 3, 8, 16)
-- He sews and made Vee’s burgundy induction dress on a machine on his sun porch. (Chs. 6, 17)
-- He is a skilled cook who prepares food from raw ingredients and adjusts seasoning by watching Vee’s reaction. (Chs. 3–4, 7–8, 10, 12–13, 16, 18, 20, 25)
-- He is an experienced country and swing dancer and taught beginner country dancing for two semesters. (Ch. 1)
-- He customarily takes intoxicated women home from the Rusty Nail, leaves them at their doors, and does not exploit them. He rarely brings dates to the venue. (Ch. 1)
-- He is sensitive to environments containing simultaneous loud sound, screens, movement, and conversation. At Chili’s he cannot reliably separate Vee’s voice from the competing stimuli. (Chs. 18, 23)
-- He habitually raises the heat before Vee arrives so she will not be cold. (Chs. 14, 16, 20, 24)
-- He normally leaves the door unlocked or opens it before Vee reaches it when she is expected. (Chs. 4, 16, 20)
-- He does not use his phone socially while Vee is present; it is ordinarily used for music and photographs. (Chs. 13, 24)
-- His music includes jazz, piano, Fleetwood Mac, Garth Brooks, country music, and AC/DC. (Chs. 1, 3, 7, 13, 23, 25)
-- He says he does not “go back” to his parents and calls his present house his home. No further family facts are disclosed. (Ch. 12)
-- Daphne was his tutor, best friend, first girlfriend, first lover, and first love. She is the only woman he had previously told he loved. Her departure consumed his life and led him to believe that saying the words made loss more destructive. (Ch. 23)
-- He privately knows he loves Vee. He withholds the declaration because he fears how badly her departure could hurt him. (Ch. 23)
-- He attempts to begin a declaration with “Vee, I l—” when she returns, but Vee interrupts before the word is completed. What Vee understands from the fragment is not stated. (Ch. 25)
+- Called Pace by every other character; Vee privately calls him Peter while he is asleep. The text does not establish whether “Pace” is a surname, nickname, or other alias. (Ch. 10)
+- A math PhD candidate who teaches or assists students and holds office hours. (Chs. 17–18)
+- Only slightly older than Vee in her estimation; no numerical age is stated. (Ch. 17)
+- Shorter than Vee when she wears Randi’s cognac heels; the difference is approximately one or two inches. (Ch. 4)
+- Broad, muscular, and physically strong, with a thick chest and large hands. He commonly wears shirts a size too large. (Chs. 7, 10, 23)
+- Has an old, smooth, raised surgical scar in a clean line at the top of his inner thigh. Its cause is never stated. (Chs. 7, 10)
+- Owns his house outside town. (Chs. 4, 17)
+- Drives a pale-colored truck; make and model are unstated. (Chs. 1, 20)
+- Is an experienced country dancer and strong lead. He taught beginner country dance and some swing for two semesters. (Ch. 1)
+- Regularly escorts intoxicated women from the Rusty Nail safely home, leaving them at their doors and not taking advantage of them. He generally does not bring dates to the hall. (Ch. 1)
+- Woodworker: owns and uses a garage shop, makes furniture, and built several pieces in his house. (Chs. 3, 8, 16)
+- Sewed Vee’s burgundy induction dress himself on a machine on the sun porch. (Chs. 6, 17)
+- Skilled and attentive cook; cooks from basic ingredients and commonly feeds Vee after sex. (Chs. 7, 10, 12–13, 16, 25)
+- Cycles regularly with Sheri and also goes to the gym. (Chs. 3, 7)
+- Early riser. (Chs. 4, 14)
+- Keeps his house orderly; before Vee occupies it, his bathroom counter is normally bare except for a razor squared to the edge. (Ch. 10)
+- Dislikes or cannot process loud, multisensory restaurants well. In such places he struggles to isolate a speaker’s voice, looks repeatedly toward screens, and shows irritation at competing sound. (Ch. 18)
+- Does not habitually drink alone. He drinks alone after the separation from Vee and becomes heavily intoxicated. (Ch. 23)
+- Says he does not go back to his parents or family; no further present-day family facts are given. (Ch. 12)
+- Previously loved Daphne, his tutor, best friend, first girlfriend, first lover, and first declared love. Her departure consumed his life. (Ch. 23)
+- After Daphne, he had other relationships but never told those partners he loved them. (Ch. 23)
+- Knows that he loves Vee. He deliberately withholds the declaration because he associates saying it with catastrophic loss. (Ch. 23)
+- Begins saying “Vee, I l—” when she returns, but she interrupts before the sentence is completed. (Ch. 25)
 
 ### Miranda “Randi”
 
-- Her formal name is **Miranda**; she goes by **Randi**. (Ch. 15)
-- She is a marketing student and belongs to a sorority. (Chs. 2, 15)
-- She lives in a white-columned sorority house with approximately ninety women. (Chs. 2, 24)
+- Full formal name: Miranda; called Randi. Her government-linked family/business record appears under MIRANDA. (Ch. 15)
+- Short, small, pale, and black-haired, with very blue eyes. She is described as roughly a head shorter than Vee and elsewhere says she is nearly a foot shorter. (Chs. 2, 14, 21)
+- Has a sparse scatter of freckles across her nose and freckles across her chest. (Chs. 2–3)
+- Paints her toenails sky blue in the earlier chapters. (Chs. 2–3)
+- Her characteristic scent is bitter orange with a green edge and no sweetness. (Chs. 2–3, 24)
+- Marketing student and member of a sorority. (Ch. 15)
+- Lives in a white-columned sorority house with approximately ninety residents. (Chs. 2, 24)
 - Brooke is her sister. (Ch. 2)
-- Randi is short, small, pale, black-haired, blue-eyed, and freckled across the nose and chest. (Chs. 2–3, 14, 21)
-- Her toenails are painted sky blue in Chapters 2–3. (Chs. 2–3)
-- Her perfume or natural scent is repeatedly described as bitter orange with a green edge and nothing sweet. (Chs. 2–3, 5, 9, 13, 24)
-- She wears a plain white-gold bracelet that does not come off. (Chs. 3, 14, 21)
-- She owns a low green Mercedes. (Ch. 13)
-- Her closet is narrow, meticulously arranged by color, and ends with one deep oxblood garment. Her shoes are ranked in pairs facing outward. (Ch. 2)
-- She is sexually involved with Pace before and throughout Vee’s relationship with him. (Chs. 3, 14)
-- She and Pace selected Vee together as a possible third partner. Pace identified Vee from Randi’s physical reactions while they watched women on campus. (Ch. 14)
-- Randi’s friendship, intimate disclosures, touching, and kisses with Vee are partly connected to that plan. Vee does not know this. (Ch. 14)
-- Randi becomes personally attracted to Vee and admits to Pace that she wants her. (Chs. 3, 14)
-- She later privately recognizes that she loves Vee in both a friendly and romantic/sexual sense, but decides not to tell her directly. (Ch. 21)
-- She tells Vee “you’re my best friend in the whole world” and repeatedly calls her “gorgeous.” (Chs. 9, 13)
-- Her father owns several businesses and took multiple pandemic loans. The project data show his companies as a major outlier associated with loans and payroll cuts. (Ch. 15)
-- Her father is tall, strong-jawed, and softening around the middle with age. He has knee trouble. (Ch. 21)
-- Her mother is physically angular, dresses in designer clothing, and wears a tennis bracelet. (Ch. 21)
-- Randi is trained in dance and is an accomplished skier. (Ch. 21)
-- She meets John while skiing, attends a white-tie ball with him, and sleeps with him. She finds the sex physically competent but emotionally empty and does not intend the encounter to replace Pace or Vee. (Ch. 21)
-- Brooke warns her that the sorority will tolerate private experimentation but that a publicly credible relationship with Vee threatens Randi’s house position; Brooke tells her she must choose. (Ch. 24)
+- Drives a low green Mercedes with an expensive-sounding engine. (Chs. 3, 9, 13)
+- Owns a highly curated wardrobe arranged from pale neutrals to one oxblood garment. (Ch. 2)
+- Owns the cognac heels and green-and-gold silk scarf lent to Vee for her apology to Pace. (Chs. 2, 4–5)
+- Owns the much taller black, calf-strapped stilettos lent to Vee for her return to Pace. (Chs. 24–25)
+- Wears a plain white-gold bracelet that is described as locked on her wrist and never removed. (Chs. 3, 14, 21)
+- Also owns gold sunglasses. (Ch. 9)
+- Comes from a wealthy family. Her father owns several businesses; her mother wears designer clothing and a tennis bracelet. (Chs. 15, 21)
+- Her father is tall, strong-jawed, softening around the middle, and has a troublesome knee. (Ch. 21)
+- Her mother is physically angular, highly groomed, and emotionally perfunctory toward Randi. (Ch. 21)
+- Randi is from Kentucky but withholds this from John. (Ch. 21)
+- Her father’s companies received multiple government payroll loans while cutting jobs. Randi does not know this until the project record appears in Chapter 15. (Chs. 15, 21)
+- Has a concealed sexual relationship with Pace. They were already lovers before Vee learned of any connection between them. (Chs. 3, 14)
+- Randi and Pace jointly selected Vee as a potential third partner before Vee knew either the relationship or the plan existed. (Ch. 14)
+- Is sexually and romantically attracted to Vee. She tells Pace she has not stopped thinking about touching Vee and later admits, “God, I want her.” (Chs. 3, 14)
+- Internally states that she loves Vee and that Vee is the best friend she has ever had. (Ch. 21)
+- Has told Vee that she is her best friend, but keeps the romantic and sexual meanings concealed. (Chs. 9, 21)
+- Previously had a small, soft-spoken male partner who spanked her sexually and made her count. (Ch. 5)
+- Meets John while skiing and spends the night with him, but finds the encounter emotionally empty. (Ch. 21)
+- Receives a warning from Brooke that she must choose between her sorority position and openly pursuing Vee. (Ch. 24)
 
 ### Cassie
 
-- Cassie is Vee’s dorm roommate. (Chs. 1–2)
-- She is a pre-nursing student. (Ch. 15)
-- Her side of the dorm room is approximately three feet from Vee’s sleeping space. (Ch. 1)
-- She cracks the dorm window every night because she likes sleeping in the cold; later the opening is specified as about two inches. (Chs. 2, 11, 19)
-- She uses a glissando alarm and ordinarily rises before Vee for class. (Ch. 2)
-- Her father was laid off during the pandemic. (Ch. 15)
-- She has a sister with a new baby; the sister is married. (Ch. 17)
-- Cassie dislikes sororities. (Ch. 10)
-- She is observant, speaks tersely, and does not press Vee when Vee refuses to define Pace. (Chs. 11, 17)
-- She knows Vee spends more nights at Pace’s house than in the dorm and believes Vee may love him. (Ch. 11)
-- She photographs Vee during the induction walk and holds Vee’s phone during the ceremony. (Ch. 6)
-- At the end of Chapter 25, she sees Vee return wearing Pace’s sweatpants, Randi’s black heels, and Vee’s long coat, and silently registers the implication. (Ch. 25)
+- Vee’s roommate and statistics classmate. (Chs. 1, 5)
+- Sleeps in the lower bunk; Vee sleeps above her. (Ch. 2)
+- Keeps the dorm-room window cracked approximately two inches because she likes to sleep in the cold. (Chs. 2, 11, 19)
+- Pre-nursing rather than a mathematics specialist. (Ch. 15)
+- Practical, observant, and usually carries little into rooms. (Ch. 15)
+- Her father was laid off during the payroll-loan period that becomes the subject of the statistics project. (Ch. 15)
+- Has parents, a sister, a new baby in the family, and a brother-in-law she calls “a little bit of a dork.” (Ch. 17)
+- Distrusts sororities on principle and does not initially like Randi. (Ch. 10)
+- Takes Vee’s induction photograph. (Ch. 6)
 
 ### Sheri
 
-- Sheri is Pace’s cycling friend of approximately two years. (Chs. 3, 23)
-- She is about five feet tall and rides a small-frame bicycle. She is faster than Pace on climbs. (Ch. 3)
-- She has a round face, slightly sallow complexion, bleached pale hair with dark roots, and permed ends. (Ch. 23)
-- She wears a blue chambray shirt, good jeans, and winter-worn boots at the diner. (Ch. 23)
-- She dates women. A recent relationship with Paige, a design-school junior who made bird prints, ended because Paige pressed Sheri to reconcile with her estranged family. (Ch. 23)
-- Sheri is alone at Thanksgiving and eats with Pace. (Ch. 12)
-- She knows Pace is sexually involved with Randi and pursuing Vee while Vee does not know about Randi. (Ch. 3)
-- She later learns Vee wants a declaration of love and directly tells Pace that refusing to say it matters more to him than having Vee. (Ch. 23)
+- Pace’s cycling friend of approximately two years. (Chs. 3, 23)
+- About five feet tall, with a round face, slightly sallow complexion, bleached hair with dark roots, and permed ends. (Ch. 23)
+- Rides a very small-framed bicycle and is consistently faster than Pace on climbs. (Ch. 3)
+- Openly comments on women’s bodies and was in a relationship with a woman named Paige. (Chs. 3, 23)
+- Estranged from or unwilling to contact her family. The precise family event behind this is not stated. (Ch. 23)
+- Studies part-time and works at a shop that slows when students leave. (Ch. 23)
+- Spends a family holiday meal with Pace because she is alone. (Ch. 12)
+- Met Randi at a dance hall before Pace realized they had met. (Ch. 23)
+- Knows Vee by name, knows Pace is deeply attached to her, and knows Vee wants a declaration he refuses to give. (Chs. 3, 23)
 
 ### Brooke
 
-- Brooke is Randi’s sister and the sorority-house chapter president. (Chs. 2, 24)
-- She is exceptionally beautiful, with a wide, bright, “shampoo model” smile. (Ch. 2)
-- She recognizes Vee as Randi’s statistics friend before Vee introduces herself. (Ch. 2)
-- She witnesses enough of Randi and Vee’s repeated goodbyes under the composites to understand their intimacy. (Ch. 24)
-- She likes Vee but warns Randi about the social consequences of the relationship becoming publicly credible. (Ch. 24)
-
-### Meg and Dana
-
-- Meg lives two doors down from Vee and helps dress her for the dance. (Ch. 1)
-- Meg lends or supplies the black keyhole shirt from her closet. Ownership is not made fully explicit. (Ch. 1)
-- Dana lives on the third floor, is approximately Vee’s shoe size, and owns the roper boots Vee borrows. (Ch. 1)
+- Randi’s sister. (Ch. 2)
+- Very conventionally beautiful, with a wide bright smile; Vee compares her to a shampoo model. (Ch. 2)
+- Holds a leadership position in the sorority house and is said to run a house of ninety women. (Ch. 24)
+- Knows Vee as “the stats friend” before Vee introduces herself. (Ch. 2)
+- Has observed Randi and Vee saying goodbye beneath the composite photographs. (Ch. 24)
+- Likes Vee but warns Randi that an openly real relationship with Vee could cost Randi her house position. (Ch. 24)
 
 ### Daphne
 
-- Daphne had brown hair and glasses and laughed with her hand over her mouth. (Ch. 23)
-- She was Pace’s university tutor, then his best friend, first girlfriend, first lover, and first love. (Ch. 23)
-- Pace told her he loved her; she said it back. She later left. (Ch. 23)
+- Brown-haired and wore glasses. (Ch. 23)
+- Older and more knowledgeable about university life than Pace when they met. (Ch. 23)
+- Pace’s assigned tutor, then his best friend, first girlfriend, first lover, and first love. (Ch. 23)
+- The only woman before Vee whom Pace told he loved. (Ch. 23)
+- Left Pace; the circumstances and destination are unstated. (Ch. 23)
 
 ### John
 
-- John is very tall, tanned, dark-eyed, and an expert skier and dancer. (Ch. 21)
-- He is finishing law school in New Haven and keeps a place in New York City. (Ch. 21)
-- He meets Randi in a ski-lift queue and pretends they are married with three children to justify joining her in line. (Ch. 21)
-- He takes Randi to a white-tie ball and later to his hotel room. (Ch. 21)
-- Randi regards him as socially flawless and physically competent but emotionally unable to reach her. (Ch. 21)
+- A towering man with a tanned jaw and dark eyes. (Ch. 21)
+- Finishing law school in New Haven and keeps a place in “the city,” which is not otherwise identified. (Ch. 21)
+- Excellent skier and formal dancer. (Ch. 21)
+- Comes from a family Randi’s parents would consider suitable. (Ch. 21)
+- Meets Randi in a ski-lift queue, takes her to a white-tie ball, and sleeps with her. (Ch. 21)
+- Assumes she will accompany him to his hotel room; she accepts. (Ch. 21)
+- Pleases her physically but does not provide the emotional recognition she experiences with Pace or Vee. (Ch. 21)
 
-### Vee’s parents
+### Other named people
 
-- Vee’s mother is a hospital nurse and works on the floor. She monitors Vee’s weight, eating, and sleep and worries Vee may be making herself ill. (Chs. 17, 22)
-- Vee’s father works at “the shop,” burns rolls deliberately or habitually, and approves of Pace’s academic credentials and courtly behavior as Vee describes them. (Chs. 17, 22)
-- Both parents are proud of Vee’s honor-society induction. (Ch. 17)
+- Meg lives two doors down from Vee and Cassie and lends Vee the black keyhole shirt. (Ch. 1)
+- Dana lives on the third floor, is approximately Vee’s shoe size, and owns the roper boots Vee borrows for dancing. (Ch. 1)
+- Kayla lives near Vee in the dorm and is notably talkative. (Chs. 24–25)
+- Paige was Sheri’s girlfriend, a junior in design school who made bird prints and had a very loud laugh. (Ch. 23)
+
+---
 
 ## Vehicles
 
-- **Vee’s Corolla:** clean cloth seats; used for repeated trips between campus and Pace’s house. (Chs. 13, 16, 24–25)
-- **Pace’s truck:** pale in color by Chapter 20; the battered boom box rides behind its seat in Chapter 1. (Chs. 1, 18, 20)
-- **Randi’s Mercedes:** low and green. (Ch. 13)
-- **Cab from the Rusty Nail:** mechanically neglected, with something loose and belching under the hood; the rear seat smells and sags. (Ch. 1)
-- **John’s transport:** he and Randi use a cab to the ball and a horse-drawn sleigh afterward; the sleigh is pulled by two grey horses. (Ch. 21)
+### Vee’s Corolla
+
+- Driven and owned or treated as owned by Vee. (Chs. 4, 13, 16, 25)
+- Has clean cloth seats. (Ch. 13)
+- Color, year, and trim are not stated.
+- Used for the drives to Pace’s house and for changing into borrowed shoes. (Chs. 4, 16, 25)
+
+### Pace’s truck
+
+- Pale-colored; make and model are not stated. (Ch. 20)
+- The battered boom box rides behind its seat. (Ch. 1)
+- Pace drives Vee to the Rusty Nail and later to Chili’s in it. (Chs. 1, 18)
+
+### Randi’s Mercedes
+
+- Low, green, and expensive-sounding. (Chs. 3, 9, 13)
+- Randi drives it. (Chs. 9, 13)
+
+### Cab
+
+- Vee takes a badly maintained cab from the Rusty Nail. It has something loose under the hood and a sagging, unpleasant-smelling back seat. (Ch. 1)
+
+---
 
 ## Places
 
 ### Vee and Cassie’s dorm room
 
-- Vee sleeps in the top bunk; Cassie sleeps below or on the other side within roughly three feet. (Chs. 1–2)
-- The room has a window Cassie habitually keeps cracked approximately two inches. (Chs. 2, 11, 19)
-- The roommates have their own sink. (Ch. 2)
-- A closet hook holds one of Pace’s shirts. (Ch. 1)
-- Vee has a desk and desk chair; her closet door carries a long mirror. (Chs. 11, 25)
-- An apple bowl maintained by the dorm sits near the exit. (Ch. 2)
+- Vee sleeps in the top bunk; Cassie sleeps below. (Ch. 2)
+- Their beds are approximately three feet apart. (Ch. 1)
+- Has an in-room sink and mirror. (Chs. 1–2)
+- Has a closet hook where Vee keeps Pace’s shirt. (Ch. 1)
+- Cassie keeps the window cracked approximately two inches at night. (Chs. 2, 11, 19)
+- Cassie’s alarm is a glissando. (Ch. 2)
+- A bowl near the dorm exit is kept stocked with apples for rushed mornings. (Ch. 2)
 
-### Pace’s house and property
+### Pace’s house and grounds
 
-- The house lies outside town, approached by a narrow cut in a hill and a gravel drive. (Chs. 3–4, 16, 23)
-- The front stoop has two steps; the kitchen window is beside it. (Chs. 3, 7)
-- The front area has a chair for bags, a side table, and a deadbolt. (Chs. 3–4, 20)
-- The house is ordinarily lit by lamps rather than overhead lights. (Chs. 8, 20, 23, 25)
-- The kitchen is small and treated as Pace’s domain. It has a window over the sink, a little table, handmade chairs, a white laminate counter, stove, refrigerator, filter pitcher, and a stone kept in the oven for pizza. (Chs. 3–4, 8, 12, 16)
-- The den contains a couch, recliner, low table, lamp, speakers, a television Vee has never seen switched on, and a dark book wall. (Chs. 3, 7–8, 13–14)
-- A fireplace in or adjoining the den sends heat toward the porch through an archway. (Ch. 17)
-- The bedroom has a bed, white sheets, a chair, and a long, unusually proportioned table. (Chs. 3–4, 7, 16)
-- The distinctive table is described against a wall in Chapter 3 and in the middle of the bedroom in Chapter 16. It may have been moved; the text does not explicitly confirm whether both references identify the same table.
-- The hall passes the bathroom and an office before reaching the bedroom. (Ch. 16)
-- The house has one bathroom. Pace initially keeps his razor, blades, comb, and other items in the top drawer. He later compresses his belongings into the lower drawer and gives Vee the top drawer. (Ch. 10)
-- The sun porch is glassed, cool unless heated, and contains a couch, Pace’s quilt, a low table, and the sewing area where he made Vee’s dress. (Chs. 6, 17)
-- The garage workshop connects to the kitchen by two steps. It contains a bench, vise, shoulder plane, woodwork in progress, and accumulating shavings. (Ch. 3)
-- Pace keeps the house warmer for Vee than he would for himself. (Chs. 14, 16, 20, 24)
+- Situated outside town, approached by a road cut in a hill and a narrow gravel drive. (Chs. 3, 23)
+- Surrounded by trees and fields, with no nearby house or trick-or-treating route. (Chs. 8, 13)
+- Front entry has a stoop or porch reached by two steps, a deadbolt, a chair for bags, and a side table. (Chs. 3–4)
+- Kitchen window is beside the stoop and looks over the sink. (Chs. 4, 7)
+- Kitchen is small, with a little table, white laminate counter, stove, refrigerator with filter pitcher, and a stone kept in the oven for pizza. (Chs. 4, 12, 16)
+- Den contains a couch, recliner, speakers, a lamp with multiple brightness settings, a television Vee has never seen turned on, and a wall of books. (Chs. 3, 8, 13)
+- A hallway connects the front rooms to the bathroom, office, and bedroom. (Chs. 7, 16)
+- The house has one bathroom. (Ch. 10)
+- Bathroom normally has a bare counter and drawers beneath it. Pace later gives Vee the top drawer and compresses his things into the lower one. (Ch. 10)
+- Bedroom contains a bed, a chair, and a long, unusually proportioned table. (Chs. 3, 16)
+- The unusual table has a removable or liftable top covering sexual equipment Pace built. (Ch. 3)
+- Garage shop sits two steps below the kitchen and contains a bench, vise, shoulder plane, and furniture work in progress. (Ch. 3)
+- Sun porch has a glass wall, couch, heater, and access to heat from the den fireplace through an archway. Pace keeps his sewing machine there. (Chs. 6, 17)
+- Pace raises the heat before Vee arrives because she gets cold. (Chs. 14, 16, 20)
+- Music is generally already playing when Vee arrives. (Chs. 13, 20)
 
 ### Randi’s sorority house
 
-- The house sits back on a lawn, has white columns, and contains a foyer hung with framed composite photographs. (Chs. 2, 24)
-- The bell sounds deep inside the house. (Ch. 2)
-- A staircase rises from the foyer to the bedrooms; a narrower back stair and landing are also used. (Chs. 2, 24)
-- Randi’s bedroom is small, close, and highly ordered. It contains a bed, desk chair, long wall mirror, narrow color-arranged closet, shoe ranks, drawers, and a rug. (Ch. 2)
-- The house has a kitchen and common room and houses approximately ninety women. (Ch. 24)
-- Randi and Vee regularly say goodbye under the foyer composites. (Chs. 2, 24)
+- White-columned house set back on a lawn. (Ch. 2)
+- Foyer is hung with composite photographs in oval frames. (Chs. 2, 24)
+- Has main and narrow back stairs, an upstairs landing, kitchen, common room, and rooms for approximately ninety residents. (Ch. 24)
+- Randi’s room is small and upstairs, with a bed, desk chair, closet, wall mirror, and orderly arrangement. (Ch. 2)
+- Her closet is narrow and used to its full capacity, with clothing arranged from bone through camel and oatmeal to one oxblood garment. Shoes are ranked below, facing outward. (Ch. 2)
 
-### The Rusty Nail
+### Rusty Nail
 
-- The venue has an active dance floor, entrance till, wall tables, rail, bar, and a ledge where drinks can be set. (Ch. 1)
-- Patrons receive hand stamps at the door. (Ch. 1)
-- A single good outside light illuminates the waiting area near the door. (Ch. 1)
-- Pace is widely known there, and several women greet him physically and familiarly. (Ch. 1)
+- Country-dance hall with a dance floor, bar, wall tables or ledges, a rail, entrance till, and hand stamps. (Ch. 1)
+- Pace is widely known there. (Ch. 1)
+- Parking lot has one especially good light beside the door. (Ch. 1)
 
-### Campus dancing pad
+### Statistics lecture room
 
-- The practice pad is a concrete area on the upper side of the dark basketball gym, within spill light from the fields. (Ch. 1)
-- Pace places the boom box on the concrete and teaches Vee there before taking her to the Rusty Nail. (Ch. 1)
+- Tiered room on the second floor of the mathematics building. (Ch. 5)
+- Vee habitually sits between Cassie and Randi. Cassie is on Vee’s right and Randi on her left. (Chs. 5, 15)
 
-### Music-building practice room
+### Music practice room
 
-- The room is approximately closet-sized and soundproof when closed. (Ch. 5)
-- It contains a battered upright piano, music stand, two chairs, and a square of carpet worn pale. (Ch. 5)
-- A nearby hall bathroom is a single room with a loud bolt. (Ch. 5)
+- Small, soundproof room approximately the size of a closet. (Ch. 5)
+- Contains a battered upright piano, music stand, two chairs, and worn carpet. (Ch. 5)
 
-### Statistics lecture hall
+### Pool
 
-- The lecture meets in a tiered room on the second floor of the math building. (Ch. 5)
-- Vee normally sits between Randi on her left and Cassie on her right. (Ch. 15)
-
-### Honor-society hall
-
-- The room is high-ceilinged, with long windows along one side, bars of afternoon light, folding chairs, roped inductee rows, and a podium. (Ch. 6)
-
-### Campus pool
-
-- The bleachers fold back against the wall when the pool is quiet. (Ch. 11)
-- Lane lines are blue and white, with black guide stripes on the pool floor. (Ch. 11)
-- Vee habitually uses the third lane from the wall. (Ch. 11)
+- Bleachers fold back against the wall. (Ch. 11)
+- Lane lines stripe the water; Vee regularly takes the third lane from the wall. (Ch. 11)
+- Pool showers are used to rinse chlorine from her hair. (Ch. 11)
 
 ### Library project room
 
-- The group works in a glass-walled fourth-floor room with a latching door. (Ch. 15)
+- Glass-walled room on the fourth floor with a latching door. (Ch. 15)
 
-### Vee’s family home
+### Vee’s childhood room
 
-- The house cools overnight when the furnace enters savings mode. (Ch. 22)
-- Vee’s small childhood bedroom contains the short bed, corkboard and ribbons, swimming trophies, clarinet, old photographs, and lavender plug-in scent. (Ch. 22)
+- Small room with a bed too short for her adult legs. (Ch. 22)
+- Contains competition ribbons, synchronized-swimming trophies, a corkboard of old friends, and a clarinet in the closet. (Ch. 22)
+- Smells of fabric softener and lavender plug-in air freshener. (Ch. 22)
 
-### County-road diner
+### Restaurants and dining places
 
-- The diner is an old double-wide with white siding and a repeatedly painted tin roof. (Ch. 23)
-- Inside are a griddle, dark jukebox, back booth, and glass-covered tables containing old photographs. (Ch. 23)
-- It is the only business for eleven miles along the county road. (Ch. 23)
+- The brunch bistro in Chapter 9 has a bright glass south side, white muntins, tablecloths, and no sound-absorbing velvet. (Ch. 9)
+- The brunch restaurant in Chapter 13 has near-black green walls, black beams, velvet-muted sound, and dark booths. It is not established whether this is the same establishment as Chapter 9. (Ch. 13)
+- The Chili’s near Route 460 has multiple televisions, overhead music, central booths, and a very loud combined sensory environment. (Ch. 18)
+- Pace and Sheri’s diner is a converted double-wide with white siding, a painted tin roof, an old jukebox, photograph-covered tabletops, booths, and a griddle. (Ch. 23)
 
-## Distinctive objects and garments
+---
 
-### Boom box
+## Distinctive Objects and Clothing
 
-- Pace owns a battered old boom box with electrical tape wrapped around its handle. (Ch. 1)
-- It plays cassette tapes and rides behind the seat of his truck. (Ch. 1)
+### Pace’s boom box
 
-### Dance clothes
+- Battered and from an earlier era, with its handle wrapped in electrical tape. (Ch. 1)
+- Used to teach Vee the three-step and stored behind the truck seat. (Ch. 1)
 
-- The black dance shirt has a keyhole neckline and comes from Meg’s closet; ownership is not explicitly resolved beyond that. (Ch. 1)
-- The roper boots belong to Dana on the third floor and are borrowed by Vee. (Ch. 1)
-- Vee later retains a photograph of herself in the keyhole shirt and borrowed boots. (Ch. 22)
+### Borrowed dance outfit
 
-### Pace’s shirts in Vee’s possession
+- Black shirt with a keyhole neckline, owned by Meg. (Ch. 1)
+- Roper boots owned by Dana on the third floor. (Ch. 1)
+- Vee wears both to the Rusty Nail and removes them after returning to the dorm. (Ch. 1)
 
-- One shirt becomes Vee’s “after the trade.” She sleeps in it, initially preserves Pace’s scent, eventually washes it, and later wears it again. The original trade is not shown in this volume. (Chs. 1–2)
-- A separate or possibly overlapping flannel is described as an enormous, tagless shirt Pace gave Vee during a rainy hike. She sleeps in it when away from him and later asks him to wear it all weekend to restore his scent. The text does not explicitly establish whether this is the same shirt as the traded shirt. (Ch. 16)
+### Vee’s tan boots
 
-### Randi’s cognac heels and scarf
+- Tan lace-up boots with scuffed leather, cap toes, turned-down cuffs, low heels, and leather worn soft. (Ch. 2)
 
-- The heels are deep cognac leather, open-toed, with straps at the instep and ankle and a substantial but restrained heel. They are structurally supportive and extremely expensive. (Ch. 2)
-- Randi loans them to Vee in a soft drawstring bag. (Ch. 2)
-- Vee wears them to Pace’s house for her apology and returns them to Randi in the music-building practice room. (Chs. 4–5)
-- The silk scarf is deep green with a gold thread, worn asymmetrically over one shoulder. Randi teaches Vee to tie it under tension. (Chs. 2, 4)
+### Randi’s cognac heels
 
-### Humble pie
+- Deep cognac leather, open toe, strap across the instep and at the ankle, with a substantial but not ostentatious heel. (Ch. 2)
+- Structurally support Vee’s feet and make her taller than Pace. (Chs. 2, 4)
+- Lent in a soft drawstring bag. (Ch. 2)
+- Returned to Randi in the practice room. (Ch. 5)
 
-- Vee buys a supermarket apple pie in a foil tin beneath a clear plastic dome. (Ch. 4)
-- She makes a serif-font label reading **HUMBLE PIE**, printed on adhesive paper and trimmed with the good scissors. (Ch. 4)
-- Pace takes it from her when she begins bending to remove her heels and sets it on the side table. (Ch. 4)
+### Randi’s green-and-gold scarf
+
+- Silk in deep greens with a deliberate gold thread. (Ch. 2)
+- Worn at Vee’s throat, offset over one shoulder. (Chs. 2, 4)
+- Randi teaches Vee to tie it with enough tension to hold its shape. (Ch. 2)
+
+### “Humble Pie”
+
+- Store-bought supermarket apple pie in a foil tin under a clear plastic dome. (Ch. 4)
+- Vee makes a serif-font label reading “HUMBLE PIE” and trims it with good scissors. (Ch. 4)
+- She brings it to Pace’s house during her apology. (Ch. 4)
+
+### Vee’s black dress
+
+- Plain little black dress with a low neckline. (Ch. 2)
+- Randi selects it for Vee’s apology, but the text does not describe Vee actually wearing it in that scene beyond references to “the dress.” (Chs. 2, 4)
 
 ### Burgundy induction dress
 
-- Pace makes the dress for Vee after she mentions a magazine dress she cannot afford. (Chs. 6, 17)
-- It is burgundy/deep red silk, bare at the shoulders, and cut with a slit that opens to the hip. (Chs. 6, 8)
-- The cut exposes the edge of any underwear, so Vee wears it with nothing underneath. (Chs. 6, 8)
-- It is designed for height and is completed visually by four-inch black strappy heels. (Chs. 6, 8)
-- Vee first models it barefoot on Pace’s pedestal; Pace later sees the finished dress with its heels in Chapter 8. (Chs. 6, 8)
-- She stores it in a garment bag in her closet. (Ch. 8)
+- Made by Pace for Vee after she mentioned a magazine dress she could not afford. (Chs. 6, 17)
+- Deep burgundy/red silk, bare at the shoulders and back, with a slit opening to the hip. (Chs. 6, 8)
+- Designed so underwear shows at the slit; Vee therefore wears nothing underneath it. (Chs. 6, 8)
+- Hem is intended for high heels. (Chs. 6, 8)
+- Pace first sees the completed effect through Vee’s full induction photograph and later sees it in person. (Chs. 6, 8)
 
-### Induction heels
+### Black induction heels
 
-- These are four-inch heels consisting of thin dark/black straps and very little else. (Chs. 6, 8)
-- Randi finds them and fastens the ankle straps during the fitting. (Ch. 6)
-- They remain at Pace’s house after Vee wears them there. (Ch. 8)
-- These are not established as the same pair as Randi’s ladder-strapped black stilettos in Chapters 24–25.
+- Four-inch heels with a few thin dark straps. (Ch. 6)
+- Found for Vee by Randi, who fastens them in the boutique. (Chs. 6, 8)
+- Complete the line of the burgundy dress. (Ch. 8)
+- These appear distinct from the later calf-strapped stilettos, though the text does not explicitly compare the pairs.
 
-### Black ladder-strapped stilettos
+### Black calf-strapped stilettos
 
-- Randi lends Vee matte-black stilettos with open toes, a very high spike heel, and bands crossing in Xs up to mid-calf, closed by a zipper at the back. (Chs. 24–25)
-- Vee wears them beneath her coat with nothing else when she returns to Pace. (Ch. 25)
-- Pace tells her to leave them on after their reconciliation. (Ch. 25)
+- Owned by Randi and lent to Vee for her return to Pace. (Chs. 24–25)
+- Matte black bands ladder over the foot, ankle, and to mid-calf; open down the front. (Ch. 24)
+- Zipped up the back, with a stiletto nearly two-thirds the length of Vee’s foot. (Ch. 25)
+- Taller than any heel Vee owns. (Chs. 24–25)
+- Pace tells Vee to leave them on. (Ch. 25)
+
+### Green satin panties
+
+- Deep green satin with dark lace, owned by Vee. (Ch. 14)
+- Given to Pace during Vee’s first night with him and folded into thirds. (Ch. 14)
+- Stored at the bottom of Pace’s second bedroom drawer beneath undershirts. (Ch. 14)
+- Randi finds them, carries them into the kitchen, holds them during sex with Pace, and leaves them on the sheet. (Ch. 14)
+- Pace refolds and returns them to the same hiding place. (Ch. 14)
+- Vee does not know Randi found or handled them.
 
 ### Green scrunchies
 
-- Pace buys Vee a cardboard form holding many deep-green scrunchies with small white dots. (Chs. 7, 10)
-- They first appear on the bathroom counter without a note. (Ch. 7)
-- Pace later places them in the top bathroom drawer he gives Vee. (Ch. 10)
+- Deep green with small white dots, bought by Pace in quantity on a retail display form. (Chs. 7, 10)
+- Initially left on the bathroom counter for Vee to find. (Ch. 7)
+- Later moved into the top bathroom drawer Pace gives her. (Ch. 10)
+- By Chapter 16 Vee treats the drawer and scrunchies as her established space in his house. (Ch. 16)
 
-### Bathroom drawer
+### Pace’s shirt or shirts kept by Vee
 
-- Pace empties the easy-to-reach top drawer and arranges Vee’s scrunchies, pins, face cream, and a clear run of space for future items. (Ch. 10)
-- He compresses his razor blades, comb, and other belongings into the lower drawer. (Ch. 10)
-- Vee regards the top drawer as “her space.” (Ch. 16)
+- Vee has a shirt acquired from Pace through an earlier trade, hangs it on the dorm closet hook, sleeps in it, and washes it when his smell goes stale. (Ch. 1)
+- She also possesses an enormous untagged flannel Pace gave her during a rainy hike; she sleeps in it when away from him and asks him to wear it so it will smell like him again. (Ch. 16)
+- The text does not establish whether these are the same garment or two different shirts.
 
-### Photographs
+### Randi’s bracelet
 
-- Cassie takes a full-length induction photograph showing Vee mid-stride, with the slit open to the hip. (Ch. 6)
-- Vee sends the full photograph to Pace. (Ch. 6)
-- Vee sends her parents a version cropped at the waist. (Chs. 17, 22)
-- Pace poses Vee nude on her side and takes several photographs using Vee’s phone. She sends him the selected full photograph. (Ch. 12)
-- Vee later makes a safer crop showing herself bare only to the waist, then shows Randi both the crop and the full version. (Ch. 13)
-- Pace promises never to share the nude photograph. (Ch. 12)
+- Plain white gold, tight or locked on her wrist, and described as never coming off. (Chs. 3, 14, 21)
 
-### White-gold bracelet
+### Cashmere blanket
 
-- Randi wears a plain white-gold bracelet that remains locked on her wrist. (Chs. 3, 14, 21)
-- Her mother’s bracelet is a separate tennis bracelet. (Ch. 21)
+- Kept at Pace’s house for the chill Randi experiences after sex; Chapter 23 calls it “Randi’s cashmere blanket.” (Chs. 14, 23)
 
-### Randi’s cashmere blanket
+### Pinup photograph
 
-- A cashmere blanket used for Randi’s post-sex chill lives on a chair at Pace’s house. (Chs. 14, 23)
-- Pace identifies it as Randi’s blanket and folds it back into place after it falls from the bed. (Ch. 23)
+- Taken by Pace using Vee’s phone because its camera is better. (Ch. 12)
+- Full image shows Vee posed nude in an old-calendar style, with red lipstick and arranged hair. (Ch. 12)
+- Vee also creates or retains a waist-up crop. (Ch. 13)
+- Pace receives the full image. Randi later sees both the crop and the full image. (Chs. 12–13)
 
-### Statistics-project data
+### Induction photograph
 
-- The group’s project examines pandemic loans and employment/payroll outcomes. (Ch. 15)
-- The aggregate result shows loans rising while jobs fall. (Ch. 15)
-- Randi’s family businesses appear as a large outlying point tagged **MIRA**. (Ch. 15)
-- Opening the record reveals the name **MIRANDA** and multiple companies and loans. (Ch. 15)
+- Taken by Cassie while Vee is mid-stride, showing her bare leg through the slit to the hip. (Ch. 6)
+- Vee sends Pace the full image. (Ch. 6)
+- Her parents receive a version cropped at the waist. (Chs. 17, 22)
 
-## Knowledge-state ledger
+### Government-data point “MIRA”
+
+- Randi’s graph labels one extreme point MIRA. (Ch. 15)
+- Opening it reveals MIRANDA and records multiple companies, loans, and failure to retain the jobs the loans were intended to support. (Ch. 15)
+
+---
+
+## Knowledge-State Ledger
 
 ### Chapter 1
 
-- Vee learns Pace taught beginner country dancing and some swing for two semesters.
-- Vee learns Pace is widely known at the Rusty Nail.
-- Vee initially interprets Pace’s familiarity with women and his practice of driving intoxicated women home as evidence that she is merely one of many.
-- From the bartender, Vee learns Pace leaves intoxicated women at their doors, does not take advantage of them, and rarely brings dates.
-- Vee learns the women were jealous of her place as Pace’s date, not competing over possession of him.
-- Pace knows Vee abruptly became angry after he went to the bar, but he does not know what the blonde said or why Vee changed.
+- Vee learns that Pace taught country dance for two semesters. Pace confirms beginner country and some swing.
+- Vee learns that Pace is widely known and liked at the Rusty Nail.
+- Vee initially interprets women’s friendliness and the blonde’s remarks as evidence that Pace habitually sleeps with many women.
+- The bartender tells Vee the actual local understanding: Pace escorts intoxicated women home, leaves them at the door, does not exploit them, and rarely brings dates.
+- Vee learns that the women were jealous of her position as Pace’s date, not competing for his attention that evening.
+- Cassie does not learn what happened because Vee chooses not to wake her.
 
 ### Chapter 2
 
-- Randi learns about the dance, the blonde’s remarks, Vee’s accusation, Pace’s departure, and Vee’s remorse.
-- Randi learns Vee intends to repair the relationship.
-- Vee learns Randi believes Pace will leave her space rather than text or pursue her.
-- Vee receives Randi’s exact clothing instructions and borrows the cognac heels and green-and-gold scarf.
-- Vee does not know Randi is sexually involved with Pace.
+- Randi learns Vee and Pace’s dance-hall conflict, Vee’s jealousy, her remorse, and her intention to repair the relationship.
+- Randi learns the blonde’s wording as Vee remembers and reports it.
+- Brooke already knows Vee as Randi’s statistics friend; the source of that knowledge is not stated.
+- Vee experiences Randi’s prolonged kiss and intimate handling during the shoe fitting but treats both as ordinary behavior between them.
+- Vee does not learn that Randi is sexually attracted to her.
 
 ### Chapter 3
 
-- Pace learns from Randi that Vee is remorseful, came to Randi for help, and intends to return after giving the situation space.
-- Randi tells Pace intimate details of undressing, examining, and fitting shoes on Vee.
-- Pace learns Randi is sexually attracted to Vee and has been thinking about touching her.
-- Sheri learns Vee’s full name and that Pace is emotionally preoccupied with her.
-- Sheri knows Pace is also involved with Randi.
-- Sheri knows Randi knows and likes Vee.
-- Sheri explicitly learns that Vee does **not** yet know about Randi.
+- Pace learns from Randi that Vee came to her upset, regretted what she said, and intends to return after giving herself time.
+- Pace learns that Randi undressed Vee to her bra, handled her legs while fitting shoes, heard Vee’s physical response, and has continued thinking about her.
+- Sheri learns Vee’s full name, that Pace is strongly interested in her, and that Randi knows and likes Vee.
+- Sheri learns Vee does not yet know about Randi’s involvement with Pace.
+- Vee remains unaware that Randi visits and has sex with Pace immediately after advising her.
 
 ### Chapter 4
 
-- Pace learns the blonde’s exact remarks and understands what caused Vee’s anger.
-- Vee apologizes and tells Pace she knew the blonde was manipulating her but accepted the insinuation anyway.
-- Pace observes Vee’s involuntary arousal after he strikes her once on the buttocks.
-- Vee also recognizes the bodily response but does not yet have a settled name for it.
+- Pace learns the cause of Vee’s sudden anger: the blonde approached Vee and deliberately framed his safe rides as sexual behavior.
+- Vee explicitly acknowledges to Pace that she believed the insinuation without evidence.
+- Vee learns that a playful strike from Pace produces a strong sexual response in her.
+- Pace directly observes that response and later confirms it by placing his hand on the same spot.
+- Vee already knows Pace has an unexplained surgical scar on his upper inner thigh, having found it during their first night together.
+- Neither asks or explains the scar’s cause.
 
 ### Chapter 5
 
-- Randi learns Pace struck Vee and that the act aroused Vee.
-- Randi learns Pace’s hand was wet from dishwater and that Vee believes he saw her reaction.
-- Vee learns Randi previously enjoyed being put over a man’s knee, spanked on her bare bottom, made to count, and sexually touched during it.
-- Randi sees Vee become visibly aroused by the conversation.
-- Vee does not know whether Randi understands why she leaves for the bathroom.
+- Randi learns Vee and Pace reconciled and stayed together through the following morning.
+- Randi learns that Pace struck Vee’s bottom and that Vee became strongly aroused.
+- Vee learns that one of Randi’s former male partners spanked her over his knee, made her count, and touched her sexually during it.
+- Randi sees Vee’s arousal while telling the story.
+- Vee does not name or admit her response to Randi.
 
 ### Chapter 6
 
-- Cassie sees Vee’s induction walk and photographs it.
-- Pace is absent but receives the complete photograph.
-- Vee’s parents know about the induction by telephone but are not present.
-- Vee knows the dress must be worn without underwear if she wants the slit to fall as designed.
+- Cassie knows Vee is distressed that her mother cannot attend the induction and is also partly relieved by the absence.
+- Cassie sees and photographs Vee’s deliberate long stride and exposed leg.
+- Pace receives the full induction photograph.
+- Pace can see the dress and leg in the photograph; it is not established that he knows from the image that Vee wore nothing underneath.
+- Vee’s parents know she is being inducted but are absent.
 
 ### Chapter 7
 
-- Vee and Pace explicitly establish that spanking arouses her.
-- Pace verifies her arousal physically only after Vee says, “We find out,” and later obtains her nod and verbal agreement before proceeding.
-- Vee learns Pace will stop immediately when she says “Don’t.”
-- Pace learns Vee wants a formal spanking and wants to continue.
-- Vee discovers Pace’s inner-thigh scar but does not learn its origin.
-- Vee receives the green scrunchies and understands Pace expects her to continue spending nights there.
+- Pace and Vee establish that Vee enjoys being spanked: he checks her physical arousal, shows her the evidence, and she agrees to continue.
+- Vee explicitly consents to the full spanking and to undressing slowly.
+- Pace learns that the spanking, exposure, and controlled instructions arouse her.
+- Vee learns that Pace will stop immediately when she says “don’t” and resume only after an affirmative answer.
+- The new scrunchies tell Vee that Pace expects her presence in his house to continue.
 
 ### Chapter 8
 
-- Pace sees the finished burgundy dress with its intended heels.
-- Pace learns how Vee walked during the induction.
-- Pace sees that Vee wore nothing beneath the dress.
-- Vee learns Pace prefers the nude “costume” because it is only for him.
+- Pace sees the finished burgundy dress on Vee in person.
+- Pace sees the exact lack of clothing beneath it: Vee appears wearing only the black heels.
+- Vee learns that Pace prefers the private naked presentation to the public dress, calling the dress “for the world” and the naked version “just for me.”
 
 ### Chapter 9
 
-- Randi learns the full account of Pace’s formal spanking: the wager, physical check, Vee stripping to the heels, her position on the bed, Pace’s rubbing and kissing, and the sex afterward.
-- Vee hears Randi claim that she masturbated in a stranger’s bedroom after a partner left unexpectedly. Whether every detail is true is not independently established.
-- Vee becomes aroused by Randi’s account and attempts to masturbate in the restaurant bathroom but stops when Randi’s face enters her thoughts.
-- Vee cannot determine whether Randi’s “Sticky fingers?” remark intentionally identifies what Vee was doing.
-- Vee tastes pastry glaze on Randi’s mouth after their goodbye kiss, though Vee never touched the pastry herself.
+- Randi learns the detailed sequence of Vee’s full spanking encounter, including the bet, Pace’s physical check, Vee’s nudity, her position on the bed, and Pace’s aftercare.
+- Vee learns Randi has masturbated in a semi-public or unsecured bedroom and is willing to be seen.
+- Vee attempts to masturbate in the restaurant bathroom but stops when Randi’s face enters her thoughts.
+- Whether Randi knows why Vee went to the bathroom is deliberately unresolved. “Sticky fingers?” may refer only to the glazed pastries, and Vee cannot tell.
 
 ### Chapter 10
 
-- Pace learns Randi kisses Vee on the mouth and returns for a second kiss.
-- Vee describes this to him as a “French thing” and does not understand it as evidence of Randi’s sexual intent.
-- Vee privately acknowledges that she loves Pace.
-- Pace is asleep when Vee calls him Peter and does not learn of her declaration to herself.
+- Pace learns that Randi is Vee’s new friend, classmate, brunch companion, and confidante.
+- Pace learns that Randi kisses Vee on the mouth and then returns for a second kiss.
+- Vee treats the kisses as a European custom and denies a sexual interpretation.
+- Pace responds sexually to the description.
+- Vee privately admits to herself that she loves Pace.
+- Vee whispers “Peter” while he sleeps; Pace does not hear.
+- Vee learns Pace has made a dedicated bathroom drawer for her things.
 
 ### Chapter 11
 
 - Cassie learns Vee is spending more nights at Pace’s house than in the dorm.
-- Cassie learns Pace cooks for Vee, watches her eat, cares for minor injuries, and keeps the house warm.
-- Cassie asks whether Vee loves him; Vee answers “Maybe” and “I think so.”
-- Vee recognizes that her spoken uncertainty does not match the answer she privately carries.
+- Cassie learns Vee may love Pace and that Vee is frightened by how quickly the relationship has intensified.
+- Vee realizes she answered “maybe” despite privately knowing the answer is stronger.
+- No one else learns the contents of Vee’s internal pool reflections.
 
 ### Chapter 12
 
-- Pace learns Vee is willing to give him a nude photograph, provided he never shares it.
-- Vee learns Pace masturbates while thinking about her.
-- Vee learns Pace does not return to his parents.
-- Vee learns Sheri will spend Thanksgiving with Pace because Sheri is alone.
-- Vee knows Sheri only as Pace’s cycling friend and has no evidence of a sexual relationship.
+- Pace learns Vee wants him to keep a nude photograph of her and promises never to share it.
+- Vee trusts the promise and sends the full photograph.
+- Vee learns Pace does not return to his parents or family, but he does not explain why.
+- Vee learns Sheri is Pace’s cycling friend and will eat with him because she is alone.
+- Vee briefly feels jealousy but accepts Pace’s stated explanation.
 
 ### Chapter 13
 
-- Randi learns the frequency and range of Vee and Pace’s sexual relationship.
-- Randi learns Vee sleeps deeply at Pace’s house, feels continuously attended to there, and experiences Pace as wanting “her, with the body attached.”
-- Randi sees both the cropped and uncropped versions of Vee’s nude photograph.
-- Vee tells Randi showing the photograph was her own idea.
-- Vee and Randi enroll together in the anthropology course.
-- Vee understands Randi as her best friend and the only friend to whom she can show the uncensored version of her life.
+- Randi learns extensive details about Vee and Pace’s sex life, Pace’s cooking, Vee’s sleep at his house, and the attention he gives Vee.
+- Randi sees the cropped nude photograph and then the full uncropped image.
+- Vee tells Randi that the photograph was her own idea.
+- Vee initiates prolonging their goodbye kiss for the first time.
+- Randi agrees to take the humanities course with Vee.
+- Vee still understands Randi as her closest female friend, not as a sexual or romantic claimant.
 
 ### Chapter 14
 
-- Pace learns what Vee disclosed to Randi over brunch, including the sexual frequency, cooking, sleeping, attention, and photograph.
-- Pace learns Vee waits all week for brunch with Randi.
-- Randi tells Pace that Vee initiated the final half-inch of a goodbye kiss.
-- Pace directly asks whether Vee wants Randi’s kisses.
-- Randi argues that Vee expects them, would be hurt if they stopped, and actively pursued the latest kiss.
-- Randi admits she enjoys and wants Vee, first qualifying it as being for the planned threesome.
-- Pace reiterates that Vee must consent every time or he will stop.
-- The chapter establishes that Pace and Randi deliberately selected Vee as a possible third partner before Vee knew either of them well.
-- Vee remains unaware of the selection, the threesome plan, and Pace and Randi’s ongoing sexual relationship.
+- Pace and Randi’s prior arrangement is established for the reader: they discussed women together and selected Vee as a possible third partner.
+- Randi knows Pace chose Vee partly by reading Randi’s bodily reactions to women on campus.
+- Pace knows Randi kisses Vee and wants her.
+- Randi tells Pace that Vee pursued the second part of their latest kiss.
+- Pace states that Vee must consent every time or he will end the plan.
+- Randi insists Vee wants the kisses and chooses them.
+- Randi admits, “God, I want her,” then qualifies it as desire “for us.”
+- Randi finds Vee’s hidden green panties and understands that Pace kept a tangible object from Vee.
+- Pace understands that finding the panties caused Randi emotional distress, though he permits her to call it hormones.
+- Vee knows none of the above.
 
 ### Chapter 15
 
-- Randi learns from the project data that her father’s businesses are the major outlier and appear to have taken loans while cutting payroll.
-- Vee sees the formal name MIRANDA and understands that the records belong to Randi’s family.
-- Vee recognizes Randi’s reaction and knows Randi has learned something personally devastating.
-- Randi does **not** know Vee recognized the connection.
-- Cassie cannot see the detailed record and does not know the outlier belongs to Randi’s family; she understands it only as confirmation of her thesis.
-- Vee deliberately conceals her knowledge from both Randi and Cassie.
+- Cassie, Vee, and Randi learn that the aggregate payroll-loan data support Cassie’s claim: loans rose while payrolls fell.
+- Randi learns that companies connected to her formal name are a major outlier and received multiple loans without retaining the intended jobs.
+- Vee sees Randi’s reaction and concludes that Randi did not know.
+- Vee understands the companies as belonging to Randi’s father or family.
+- Cassie cannot see the detailed record and does not learn the MIRANDA connection.
+- Randi does not know Vee saw, understood, and deliberately concealed her knowledge.
+- Vee resolves not to tell Randi what she saw.
 
 ### Chapter 16
 
-- Pace learns Vee wears his flannel every night she is away and wants him to restore his scent to it.
-- Vee learns that Pace understands this request without mocking or resisting it.
-- The bathroom drawer already functions as Vee’s established space at his house.
+- Pace learns that Vee sleeps in his flannel whenever she is away from him and wants his scent restored to it.
+- Vee learns that Pace accepts this without ridicule and will wear the shirt for her through the stay.
+- Vee treats the top bathroom drawer as an established personal space in Pace’s house.
 
 ### Chapter 17
 
-- Cassie learns Vee told her parents Pace is her boyfriend, though Vee remains uncertain about the label.
-- Cassie learns the facts Vee withheld from her parents: Pace owns his house, cooks for her, made the dress, and removes it from her.
-- Vee’s parents know only the socially acceptable subset of Pace’s identity and relationship with her.
-- Pace does not learn that Vee called him her boyfriend to her parents.
+- Cassie learns what Vee told and withheld from her parents about Pace.
+- Vee’s parents know Pace as a possible boyfriend and math PhD candidate who hikes and dances with her.
+- Her parents believe the burgundy dress is an expensive gift from Pace.
+- They do not know Pace made the dress, owns his house, cooks for Vee, or has an intense sexual relationship with her.
+- Vee’s parents receive only the cropped induction photograph.
+- Cassie learns Vee cannot clearly state what Pace is to her.
 
 ### Chapter 18
 
-- Pace learns Vee fears their relationship may be only sex and wants to be seen with him publicly.
-- Vee learns the Chili’s environment overwhelms Pace’s ability to isolate her voice; his distraction is not presented by him as shame about being seen with her.
-- Pace knows Vee’s claim that he punished her after the Rusty Nail is false and tells her, “You know what happened after the dance.”
-- Vee accepts his explanation enough to reconcile physically but does not obtain a relationship label or declaration.
+- Pace learns Vee fears their relationship exists only as sex inside his house and wants public recognition.
+- Vee learns that Pace’s distraction at Chili’s is caused by excessive sensory input, not lack of interest in her.
+- Pace explicitly says that in loud places he cannot isolate her voice, while in quiet places he listens.
+- Vee recognizes that her claim that he punished her after the dance is untrue, but says it anyway.
+- Vee still interprets his care as possible evidence of love but receives no label.
 
 ### Chapter 19
 
-- Vee recognizes that Pace’s scented shirt cannot answer what she is to him.
-- Pace does not know she spends the night awake, removes the shirt, and leaves it crumpled beside her.
+- Cassie is asleep and does not learn that Vee spends the night awake, naked, and unable to take comfort from Pace’s shirt.
+- Vee concludes that Pace’s smell and actions cannot tell her what she is to him.
 
 ### Chapter 20
 
-- Pace learns Vee requires an explicit name or public definition for their relationship.
-- Vee learns Pace considers her “the most important person” in his life.
-- Pace refuses or is unable to provide the requested label and says, “Words are cheap. Believe what I do.”
-- Vee identifies that refusal as the central injury: “Words are cheap, and you still won’t spend them on me.”
-- Both know the relationship has reached an impasse.
-- Pace sees Vee cry and reaches toward her, but she leaves.
-- Vee does not know the private reason Pace cannot say the words.
+- Pace learns explicitly that Vee needs a public relationship definition and wants to know what she is to him.
+- Pace tells Vee she is “the most important person in my life.”
+- Vee tells Pace that his private care is not enough without a name she can use with Cassie and her parents.
+- Pace answers, “Words are cheap” and “Believe what I do.”
+- Vee answers that even cheap words are words he will not spend on her.
+- Pace knows she leaves crying.
+- Vee leaves without receiving a declaration or label.
 
 ### Chapter 21
 
-- Randi privately recognizes that Pace reaches her emotionally in a way John does not.
-- Randi privately recognizes that she loves Vee and fears losing the friendship.
-- Randi decides not to tell Vee directly; she intends to let Vee arrive at the truth herself while preserving the friendship’s cover.
-- Vee receives only Randi’s “fairytale” text and does not know about John’s emotional failure or Randi’s conclusions.
+- Randi learns from experience that John is an excellent skier, dancer, and competent lover but does not emotionally reach her.
+- Randi recognizes internally that she loves Vee.
+- Randi decides not to tell Vee directly because she fears altering or losing the friendship.
+- Randi sends Vee a deliberately curated “fairytale” account of the trip.
+- Vee does not know that the night with John felt empty.
 
 ### Chapter 22
 
-- Vee knows Randi’s family wealth is tied to the businesses exposed in Chapter 15.
-- Randi does not know Vee possesses this knowledge.
-- Vee sends Randi a message designed to offer support without revealing that knowledge.
-- Vee remains uncertain whether her relationship with Pace exists at all.
-- Vee imagines Pace with another woman but has no evidence that such a woman exists.
+- Vee knows Randi’s family wealth is linked to the payroll-loan record and consciously withholds that knowledge.
+- Vee receives Randi’s curated “fairytale” message and believes Randi is having an enviable, glamorous experience.
+- Vee does not know Randi is unhappy or that Randi loves her.
+- Vee does not know whether her separation from Pace is temporary or final.
+- Vee invents a blonde rival for Pace without evidence and knows she is constructing the woman in her imagination.
 
 ### Chapter 23
 
-- Sheri learns Vee asked Pace for a declaration and that Pace says he cannot give it.
-- Pace tells Sheri he wants and misses Vee.
-- Sheri tells Pace that his refusal means not saying the words currently matters more to him than having Vee.
-- Pace privately admits he loves Vee.
-- The reader learns Pace understood Vee’s cracker-and-meal statement as an offer of love and knowingly answered with a smaller truth.
-- The reader learns Daphne is the source of his fear.
-- Vee, Randi, Cassie, and Sheri do not learn this history in the drafted text.
+- Sheri learns that Vee wants a declaration, that Pace refuses to give it, and that he misses her.
+- Sheri tells Pace that his refusal therefore matters more to him than keeping Vee.
+- Pace admits he “can’t” say the declaration.
+- Pace tells Sheri that Vee changes the atmosphere of a room and understands the “philosophy” behind his cooking.
+- Pace learns Sheri has met Randi.
+- The reader learns Pace understood Vee’s cracker-and-meal speech as a declaration and knowingly chose a smaller answer.
+- The reader learns Pace loves Vee and withheld the words because of the loss of Daphne.
+- Vee does not know any of this.
+- Pace realizes alcohol has not removed or dulled his memories of Vee.
 
 ### Chapter 24
 
-- Randi learns Pace and Vee have had no contact since the confrontation.
-- Randi learns Vee fears Sheri is Pace’s lover.
-- Vee admits that the blonde, model-built Sheri she fears is imaginary; she has never actually seen Sheri.
-- Randi reconstructs Pace’s behavior for Vee as fear and emotional retreat rather than indifference.
-- Randi advises Vee to return without words, wearing only her coat and the black heels.
-- Vee learns a curated version of Randi’s encounter with John: the lift, invented family, dress, ball, dancing, and an unsatisfactory bedroom.
-- Vee does not learn that Randi spent the night thinking about Pace and Vee or that Randi loves her.
-- Vee initiates a sustained kiss with Randi.
-- Randi learns for the first time that Vee will voluntarily return and initiate rather than merely accept a kiss.
-- Brooke demonstrates that she knows about the intimacy and warns Randi to choose between house position and Vee.
-- Vee does not hear Brooke’s warning.
+- Randi learns Vee and Pace have had no contact during the separation and that Vee fears Pace is with Sheri.
+- Vee admits Sheri’s appearance is invented and that she has never actually seen her.
+- Randi knows Sheri is not evidence of another relationship and persuades Vee to return to Pace without demanding words.
+- Randi proposes the coat-with-nothing-underneath plan and supplies the black stilettos.
+- Vee learns a limited version of Randi’s ski trip and learns that John was “perfect” except in bed.
+- Vee initiates and sustains a kiss with Randi under the composites.
+- Randi learns for the first time that Vee will initiate a prolonged kiss.
+- Brooke reveals that she has observed how Vee looks at Randi and warns Randi about sorority consequences.
+- Vee does not know Brooke issued this warning.
+- Randi still does not tell Vee about her sexual relationship with Pace, the threesome plan, or her love for Vee.
 
 ### Chapter 25
 
-- Pace begins “Vee, I l—” before Vee interrupts him by opening her coat. The intended completion is not spoken on the page.
-- Pace learns Vee has returned intending reconciliation and has followed Randi’s plan.
-- Vee sees Pace’s wall disappear and interprets his expression as gladness, pain, and relief.
-- Pace apologizes, says he never meant to hurt her, and says he missed her.
-- Vee accepts the reconciliation without obtaining the explicit declaration or relationship label she previously requested.
-- Cassie sees Vee’s return outfit and is given enough visible evidence to infer that Vee spent the interval with Pace.
-- Vee still does not know about Pace and Randi’s sexual relationship, the threesome plan, Pace’s history with Daphne, or Pace’s private certainty that he loves her.
+- Pace sees Vee arrive wearing nothing beneath her coat except Randi’s black heels.
+- Pace begins “Vee, I l—”; Vee interrupts him before the intended final word is established.
+- Vee therefore does not receive an explicit declaration.
+- Pace tells Vee he is sorry and that he missed her so much.
+- Vee and Pace reunite physically and domestically.
+- Cassie learns from Vee’s returning outfit that Vee spent the stay with Pace and that the reconciliation was sexual.
+- Cassie receives no verbal explanation.
+- Vee still does not know about Pace and Randi’s relationship or their plan involving her.
 
-## Continuing concealments at the end of Chapter 25
+---
 
-- **Vee does not know:** Pace and Randi are lovers; they selected her together; Randi’s kisses were partly intended to prepare her for a threesome; Pace privately knows he loves her; Daphne’s history explains his refusal; Brooke has warned Randi to choose.
-- **Pace does not know:** Vee recognized Randi’s family in the loan data and concealed that knowledge; Brooke has confronted Randi; the full emotional significance Vee attaches to her initiated kiss with Randi is unresolved.
-- **Randi does not know:** Vee identified her family’s businesses in the project data; Vee deliberately protected her from exposure.
-- **Cassie does not know:** Pace and Randi are lovers; Vee is being cultivated for a threesome; Randi’s family owns the project’s outlying businesses.
-- **Brooke knows or strongly infers:** Randi and Vee’s intimacy is real enough to threaten Randi’s sorority position. She is not shown knowing about Pace’s role or the threesome plan.
-- **Sheri knows:** Pace is involved with both women, Randi knows about Vee, and Vee does not know about Randi. She does not know the project-data secret.
+## Continuing Concealments at the End of Chapter 25
 
-## Existing continuity conflict
+- Vee does not know that Pace and Randi are established sexual partners. (Chs. 3, 14)
+- Vee does not know Pace and Randi selected her as a possible third partner. (Ch. 14)
+- Vee does not know Randi is in love with and sexually attracted to her. (Chs. 14, 21)
+- Vee does not know Randi found and used the hidden green panties during sex with Pace. (Ch. 14)
+- Vee does not know Brooke warned Randi to choose between her sorority position and Vee. (Ch. 24)
+- Pace does not know Vee saw and understood the MIRANDA business record. (Ch. 15)
+- Randi does not know Vee recognized the family connection and deliberately protected her. (Ch. 15)
+- Cassie does not know the outlier was tied to Randi’s family. (Ch. 15)
+- Vee does not know Pace consciously recognizes that he loves her. (Ch. 23)
+- Vee hears only the interrupted beginning “Vee, I l—”; the intended completion remains unspoken. (Ch. 25)
+- Pace’s scar, the details of his family estrangement, and the circumstances of Daphne’s departure remain unexplained. (Chs. 7, 12, 23)
 
-### CONFLICT — number/location of drinks left with Pace at the Rusty Nail
+## Ambiguities
 
-- Chapter 1 establishes that Vee takes her bottle and sets it on the ledge before leaving:  
-  > “She took the bottle.”  
-  > “She set the bottle on the ledge and walked off before he could say anything.”
+- “Pace” is never explicitly identified as a surname, nickname, or substitute for Peter. (Ch. 10)
+- The shirt Vee keeps after an earlier trade and the untagged flannel from the rainy hike may be one garment or two; the text does not resolve this. (Chs. 1, 16)
+- The four-inch black induction heels and Randi’s later calf-strapped stilettos appear to be different pairs, but the text never explicitly contrasts them. (Chs. 6, 24–25)
+- Randi’s “Sticky fingers?” may be an innocent reference to pastries or an indication that she understood Vee’s bathroom trip. Vee cannot tell. (Ch. 9)
+- Pace’s intended completion of “Vee, I l—” is strongly suggested but not completed on the page and therefore is not established as spoken fact. (Ch. 25)
+- Vee and Pace reconcile without establishing a formal relationship label. (Ch. 25)
 
-- Chapter 1 then shows Pace holding and later setting down only his own beer:  
-  > “He stood where she'd left him with his bottle.”  
-  > “He set the beer down on the bar, untouched, and went out.”
+## Conflicts
 
-- Chapter 2 recounts the event as Vee leaving him physically holding both drinks:  
-  > “Then I walked off — didn't let him get a word out, left him standing there holding both our drinks.”
-
-These readings cannot all be literally true. Chapter 1 places Vee’s drink on the ledge and leaves Pace holding his own bottle; Chapter 2 says he was left holding both.
+No definite internal factual contradiction is established by two incompatible on-page statements.
