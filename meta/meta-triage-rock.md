@@ -236,3 +236,11 @@ author, item by item.
   answer.
 - `:89` "She let it be.": a second "let" after :85 "Vee let him." The
   foot-against-leg gesture closes the beat.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **deepseek** — the Ohio-food stretch runs a beat long. `reviews/cold-read/deepseek-v4-pro-0813/rock.md:17`: "…Friction, honestly: the Ohio-food stretch runs a beat long; the spice rack is charming, but it's the second spell of Vee-being-charming…"
+- [ ] **deepseek** — the withheld word leaves Pace's version unchallenged. `reviews/cold-read/deepseek-v4-pro-0813/rock.md:17`: "…word: I honor it as fidelity to "not hers to say," but it also means the boy's version stands on the page unchallenged except by my own arithmetic. I can't tell yet whether that's the book's honesty or its blind spot.…"

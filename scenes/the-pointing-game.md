@@ -94,7 +94,7 @@ Then the third beat, and he felt it arrive in her body before her face changed: 
 
 "Mm," he said, neither agreeing nor not, and they kept walking.
 
-"I see what you're doing," she said, laughing. "I'm being a *very* good sport about your little game."
+"I see what you're doing," she said, laughing. "I'm being a *very* good sport about your little *game*." Her practiced voice was slipping. *Game* came out wide in the middle, the vowel sliding before it closed, and *very* had lost its edges: Kentucky, coming on. A good sport, in that voice.
 
 He let the camouflage stand.
 

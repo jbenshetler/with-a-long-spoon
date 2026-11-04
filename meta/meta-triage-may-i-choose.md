@@ -98,3 +98,10 @@ evidence.**
 - **Gripping the hot brass cage past the explained handle** — the beat:
   sensation chosen over protection, legible as a choice only because the
   handle's purpose is stated. Do not trim either half.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — the right-hand detail. `reviews/cold-read/claude-opus-5-5/may-i-choose.md:21`: "…"A rule that had never been breached before" is flat. The right-hand-only detail is nice, but it gets underlined twice, "a pattern now, enough times over to be one." I understood the first time.…"

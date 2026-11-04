@@ -231,6 +231,9 @@ Craft Rules entry **The coursework mirror**).
   single exception** to the nudge ban — image work rather than commentary. Both
   chapters were running underline-plus-it-went-nowhere; `see-you-later` now
   holds the pattern alone, which is what the exception is for.
+  **Superseded 2026-11-03:** the exception is closed. `see-you-later:61` no longer
+  carries the notebook underline (author ruling, `meta-triage-see-you-later.md`, 2026-11-03),
+  so the nudge ban now has no sanctioned exception.
 
 ## Not re-litigated
 

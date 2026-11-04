@@ -1,41 +1,61 @@
 # Cold read (grounded) — How It's Done
 
-*scene: scenes/how-its-done.md · model: claude-opus-5-5 · memory: ck-ch010 + raw ch011..ch016 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/how-its-done.md · model: claude-opus-5-5 · memory: consensus ck-ch010@bce17b0e8b7f + raw ch011..ch014 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-**The felt read**
+Two scenes, and they pull in opposite directions. The Cassie half made me so happy. Cassie, still and listening, "Vivienne," the pillow thrown back and forth, the hand on Vee's knee "once, and took it back." Vee lying back on Cassie's bed grinning up at the underside of the top bunk is the warmest Vee has felt to me. Then I noticed what she leaves out, even with Cassie. She gives Cassie a door Pace held open ("He waited... he left me a door"), but I remember "The bra too," said gently, as a fact. I didn't see much of a door. She tells Cassie the house was warm, and a day later tells Randi it was cold. The wetness she keeps from everyone, "not Cassie, not anyone." And "I was grinding on him" is the bolder, funnier version of her leaning back into him. The retelling is already turning into a story she can live inside. I don't hold it against her. It's what you do with the best day of your life. But I'm watching her tidy it.
 
-I loved the first half of this. The Cassie scene is the best room this book has. "Vivienne." "Don't." The pillow going back and forth. Vee does that brisk pat on her own backside to show Cassie where, then confesses "*I* was grinding on *him*" and rocks with laughter. I was laughing with them. Cassie is still the person I trust most on the page. She hears "he left me a door" and translates it straight away: "He asked." Then, after the ache of "Like I was supposed to be there," she puts her hand on Vee's knee once and takes it back. Vee's retelling shades the last chapter a little. There, I read the grinding as her body bending "more than the dress asked." Here it gets bigger and funnier. That doesn't feel like lying. It feels like a story getting better because Cassie is the one hearing it.
+Then the Mercedes, and my body changed gear. The lunch is one long, slow seduction, and it worked on me even as it made my skin prickle. Randi's softer smile, "*Look* at you," the booth where "you could have said anything." The Hermès-scarf story landed exactly where it was aimed. The heat "she had no shelf for" is Vee's, and it was mine too: Randi tied up, "that finished surface finally cracked all the way open." Then "That's the whole point, baby. The letting go" is said so tenderly that I wanted to believe it as much as Vee did. I'm not sure I don't.
 
-Then the Mercedes pulls up, and my body went quiet and watchful. The lunch is gorgeous and claustrophobic at once: green velvet that "ate sound," a booth where "you could have said anything." The prices worked on me hard. Vee reads the right side of the menu first, and one glass of Rombauer costs more than her whole order. She pays her own way because she "would not… let Randi buy her seat at it." I ached for that pride.
+The unease, though, the page earned line by line. Vee never mentions a platform, and Randi supplies one: "with you up on the little platform. The pedestal." "You said he's a looker" — I never saw Vee say that. "Which hip?" is a question asked by someone checking a story she has already heard. I remember Pace in bed being told "Tell me," and Randi's "I want us," so I can't help wondering whether she's comparing notes. I can't prove it. Pace and Vee's fitting was Saturday at two, and "Guess what I got up to Saturday" sits right on top of it, so I'm holding the headboard story open. It might be true, a decoy, or something else. Her thumb under the rim of the water glass stopped me cold. It's the bottle cap under her thumbnail again, the private pain she uses to keep her face in place, and it comes at exactly the moment Vee says "he looked at me and I was fine." Vee reads it as Randi being moved. I read it as something costing Randi a great deal. Jealousy, longing, or both: the page doesn't say, and I won't either.
 
-The suspicion is earned this time, and I'll say exactly where. Vee never mentions the riser to Randi. She says he measured her, the warm house, her top off. Then Randi produces "the little platform. The pedestal," "on his knees," and "I bet he started at your hip." Vee is too dreamy to notice. I sat up. From what I've read, the only way Randi could know that is Pace. There's also the tickling story about a man who "tickles me" and "switches" to somewhere else entirely. It lands one chapter after Pace found the ticklish spot above Vee's hip. I can't tell whether that's a coincidence, a message, or something Randi is working through. Her "Saturday" man may be as invented as the lacrosse date. I'm leaving it open.
+"Nobody measures over a bra... it's just how it's done" is the line that undid me. It's kind and it's useful, and it works on Vee like a key. The shame lets go *because* it's normal. Then "Were there any — *challenges*?", the cornered laugh, "actually it was really *hot*," and "Yeah… yeah… the left one," all lead her down, one *yeah* at a time. Then, with Vee's deepest secret half out of her mouth, comes "You don't have to tell me," and "a door closing softly." That hurt. Is Randi sparing Vee, sparing herself, or keeping control by refusing to receive it? I honestly can't tell, and that's the tension I'm left with. Randi's switch to "Big day" in a daylight voice felt like her face going back on, exactly as it did in the mirror in chapter one.
 
-Randi herself got more painful and more frightening for me. "Nobody measures over a bra… it's just how it's done" is a beautiful bit of steering. It lifts Vee's shame and pries her open in the same move. Then Randi asks "Which hip?" and leads Vee "one small *yeah* at a time, down and down" to the edge of the one secret Vee never told anyone. And she stops: "You don't have to tell me." The page calls it "a door closing very softly," and it felt like being dropped. I don't know why she did it. It could be jealousy, or mercy, or that she couldn't bear to hear it. It could be wanting to hold Vee right at the edge, the way Pace holds women. The page keeps it ajar and so do I. What I do trust is the thumbnail pressed under the rim of the water glass. It's the bottle cap in the nail bed from the first chapter all over again. Something in her hurts while she smiles, and Vee reads it as Randi being *moved*. Then there's the change in the smile at the curb, slower and "spent rather than handed around." Vee doubts herself about it. I don't think she's imagining it.
+The kiss at the curb is gorgeous and frightening: the hand at the hinge of Vee's jaw, the second press "that had something in it the first one hadn't." Then Vee explains it away almost before her mouth is her own again ("*French*"), and the colder thought takes over as she counts the windows. Her mother's voice doesn't have to say a word. The counting says it for her. I ached for her.
 
-The erotic charge runs through Randi more than through the dress talk. Vee pictures Randi "naked and helpless and laughing… that finished surface finally cracked," and gets "a heat she had no shelf for." That was hot to me, and so was everything Vee won't let herself look at. The kiss in the fire lane burned. There's the hand at the hinge of her jaw, a second press that "had something in it the first one hadn't," and Vee explaining it away as French before her mouth is even her own again. Then the cold scan of the dorm windows. Her shame isn't about the kiss itself. It's about being seen. That rang true and it hurt.
+Pace isn't on the page, but through Vee's telling he still seems as good as he did. My feeling about him hasn't moved, except that I now suspect he's talking to Randi.
 
-There was a little friction. "It was cold in the house," right after she told Randi the house was warm, felt a touch staged, though the laugh that follows saves it. Cassie calling him a "bodybuilder" and then "Are you sure he's not gay?" is mildly tired. The Sinatra "witchcraft" cue nudges a bit.
+Friction: sometimes the narration reaches for the irony itself. "The perfect sorority laugh" and "reach for the kinder thing because you want it to be true" tell me what I had already felt. The budget arithmetic at the check (the wine costing more than her whole meal) is true, and done twice.
 
-On the titles: "How It's Done" is Randi's line. It's the sentence that makes being undressed sound normal, and on reflection the whole lunch is a lesson in exactly that. It reads a little like the chapter naming its own method. The cover line, *With a Long Spoon · Book One — A Polite Invitation*, feels sharper now. Every invitation in this book is polite: the bra, the booth, "Come here." The long spoon sounds like a warning about who you eat with. I watched Vee pay for her own soup and wondered how long her spoon is.
+The title is Randi's sentence, a rule handed down with authority. Afterward it feels like the chapter's method: how a confession is drawn out of someone. The cover gives me *With a Long Spoon*, Book One, *A Polite Invitation*, and no tagline. Lunch was a very polite invitation, and the spoon sounds like the old warning about who you sit down to eat with. Every meal in this book is starting to feel like a test. My guess from here: Randi will say what she knows to Pace, the dress will become an occasion for something, and Vee's "had anyone *seen*?" will come back.
 
-*Guess from here:* Randi will have a full report on this lunch for Pace. The finished dress, and maybe the bedroom door, are coming. I dread the day Vee does the arithmetic on "pedestal." I want Cassie to stay close to her.
+**Cast present (in person):** Vee, Cassie, Randi, a host, a waiter, two girls on the steps of Hahn, a couple in a crosswalk. Mentioned only: Pace, Vee's father, Vee's mother (implied in her shame), the "beautiful idiot" in Randi's story, Brooke and the sisters (in memory).
 
----
+**Heat:** 2 — Randi's slow coaxing, the scarf picture, and the double kiss carry sustained, uneasy wanting.
 
-**Cast present (in person):** Vee, Cassie, Randi, a host, a waiter. Mentioned only: Pace, Brooke, Vee's father, Randi's "beautiful idiot," the two girls on the Hahn steps (seen in passing), a couple in the crosswalk.
+**Romance:** 2 — Cassie's hand on Vee's knee and the second press of Randi's kiss; Pace's care, told from memory.
 
-**Heat:** 2 — Vee's barely buried want for Randi, the tied-wrists picture, and the second press of the kiss carry real charge.
+**Motifs & images:**
+- Repeats:
+  - Randi's thumbnail pressed on an edge (the bottle cap in ch1).
+  - Doors: "he left me a door," "a door closing softly," like the deadbolt and Daphne's door.
+  - The warm house and Pace turning the heat up.
+  - The shirt folded on Vee's pillow.
+  - Being looked at, and being on a pedestal (the riser).
+  - Parking in the fire lane (Pace and the police car in ch10).
+  - Randi's scent, unnamed this time as "bright and green."
+  - Feeding and meals as tests.
+  - Vee reading the price column first.
+  - Randi's "baby," "love you."
+- First sightings:
+  - Randi's white-gold band.
+  - The Mercedes sealing itself around Vee.
+  - The Hermès scarf and the reins.
+  - Sinatra's "Witchcraft."
+  - Vee's scuffed pumps.
 
-**Romance:** 2 — Cassie's tenderness ("Like I was supposed to be there"), and Randi's softer smile and lingering kiss mark a turn.
+**Symbolism:**
+- The car tucking itself in around her: the comfort of being held by money, and being sealed inside it.
+- The reins: control you can only put down if someone takes it from you.
+- The booth "where you could have said anything": an invitation to confess.
 
-**Motifs & images:** Randi's nail pressed under a rim (repeat; the bottle cap in ch1). Fire lane drop-offs (repeat; Pace and the cop, now Randi's car). Doors left open or closed softly (repeat: "he left me a door," "a door closing very softly"). The warm house (repeat). The flannel folded on the pillow (repeat). Vee's money arithmetic (first time this sharp). Randi's cream cashmere (repeat). Her white-gold band (first). Randi's scent is now "bright and green," where before it was citrus (shifted). "Baby" and "sweetheart" (first).
+**Characterization:**
+- Vee deepens most: her honesty and her self-editing now run side by side, and her shame comes back the moment she's out of the car.
+- Cassie gets her fullest page yet: wry, tender, and still in the dark about the important part.
+- Randi is richer and more opaque at once: generous, possibly briefed, possibly in pain. Her thumb against the glass rim is the crack.
+- Pace is held steady offstage.
 
-**Symbolism:** The velvet booth that "ate sound," a place to say anything. The car "tucking itself in around her," luxury that encloses. The wine glass priced above everything Vee ordered.
+**Pace — within the chapter:** The Cassie scene runs a touch long in its back-and-forth, but it earns its warmth. The lunch is beautifully slow and it builds. The checks run a little long. The ending, with the kiss and Vee counting windows, is sharp and just long enough.
 
-**Characterization:** Randi deepened most. She's more tender, more manipulative and more wounded, all at once. Cassie deepened, with real warmth under the dryness. Vee stays consistent: open, proud, quick to choose the kinder reading. Cassie's "gay" joke is a little thin.
-
-**Pace — within the chapter:** The Cassie scene earns its length. The car and restaurant descriptions run a bit long before the talk starts. The drive home and the kiss move briskly and well.
-
-**Pace — chapter to chapter:** Building. After two chapters of Vee and Pace in close focus, moving into Randi's world and that booth turns the tension sharply. Vee retelling her day to Cassie again comes close to repeating "Rye," but the Randi half justifies it.
+**Pace — chapter to chapter:** Building. After two chapters of intense Pace-and-Vee physicality, moving the pressure onto Randi and Vee is the right turn, and it feels like the book tightening around Vee. The "Vee tells someone about Pace" beat is getting repetitive (Kayla and Meg, then Cassie, then Randi), but this time the telling itself becomes the event.

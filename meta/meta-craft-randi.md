@@ -247,16 +247,28 @@ Render Randi as the one who picks the venue for the lunches, positions herself i
 
 ## The accent (author ruling 2026-10-08)
 
-**Born in Kentucky; the family moved to central Florida before she started primary school
-(`meta-arch-randi.md:299`, unchanged) — but her parents kept the accent, and she grew up
-hearing it at home and worked it off anyway.** That resolves the question of where an accent
-she never acquired regionally came from: she shed it from her own parents' mouths. The
-earliest instance of the thing she does to everything about where she is from.
+**Born in Kentucky and raised there until she was nine (author ruling 2026-11-03,
+superseding "before she started primary school"; `meta-arch-randi.md`, Origins); the family
+then moved to central Florida.** Nine is old enough that the accent is hers, acquired
+regionally, and she worked it off. She is embarrassed to be from Kentucky. The earliest
+instance of the thing she does to everything about where she is from.
+
+**Pace knows.** She told him once, sheepish, when he asked, one more of the things she lets
+him see that nobody else gets to. So Pace hears it *as Kentucky* and names it in his POV;
+Vee hears the same sound and invents Europe. Same phenomenon, two descriptions: Pace's is
+concrete and word-specific (which vowel did what in which word); Vee's is impressionistic
+and builds a biography. Never give them the same phrasing.
+
+**Trigger (2026-11-03): it comes out of hiding when something moves her** — aroused, tender,
+grieving — not arousal alone. Planning rationale only: she controls her hands, not her
+voice. The word "larynx" never appears on the page.
 
 **Two distinct phenomena, and only one of them is a tell.**
 
 1. **The baseline trace — not a tell.** A faint residue always present in her speech: the
-   **esses going sibilant, the a's arching**. Seeded at the first coffee (`see-you-later`),
+   **esses going sibilant, the a's arching**. Kept (author ruling 2026-11-03, option b): the
+   trace is always faintly there; being moved brings it *out of hiding*. Vee's first hearing
+   is at the first coffee (`see-you-later`),
    where **Vee hears it and reads it as cosmopolitan** — the payload, and cold on reread: the
    polish Vee takes for Europe is Kentucky, sanded down. Note `meta-note-see-you-later.md:31`
    rules that *no tells fire* in that chapter because Randi is operating; this seed does not
@@ -274,7 +286,9 @@ earliest instance of the thing she does to everything about where she is from.
 **Not in {{Fairytale}}** (considered and declined). That chapter already carries the mirror
 where everything of hers fails with no one behind the face; parents with strong accents would
 hand the scene a second explanation of who she is, and would solve her, which it is built not
-to do.
+to do. (2026-11-03: the lift line `fairytale.md:39` now reads "She was from Kentucky, and did
+not mention it." That names the origin she hides; it gives the parents no accent, so this
+decline stands.)
 
 
 ### The accent — instances as drafted (2026-10-08)
@@ -283,8 +297,10 @@ The slip becoming more prominent is **Randi's attraction tell**. Vee hears it ev
 **supplies a wrong cause every time** — the misattribution ladder is the point, and it is what
 lets the tell fire in plain sight for sixty chapters without Vee ever assembling it.
 
-| ch | chapter | state | what Vee concludes |
+| ch | chapter | state | what the POV character concludes |
 |---|---|---|---|
+| 001 | {{The Bench}} | coming out of hiding, Pace POV — **first on the page** | Pace names it: *"Kentucky came up into it"* (`:65`); she had told him, sheepish, when he asked |
+| 003 | {{The Pointing Game}} | slipping on the quad, Pace POV | *"Her practiced voice was slipping… Kentucky, coming on."* (`:97`) — the second named instance teaches the reader the tell |
 | 004 | {{See You Later}} | baseline, not a tell | *"a school in Switzerland, a year in Paris, a mother who'd had one or the other"* — she builds a false biography and *"left it alone"* |
 | 022 | {{Fed}} | aroused **while operating** — the carve-out case | *"She's a little drunk"* — then she counts: *one mimosa, and most of that still in the glass.* *"So it wasn't that. Nothing came along to take its place."* The explanation fails and she has nothing to replace it with |
 | 029 | the {{Broken In}} | aroused at the settled kiss | *"put it where she always put it, somewhere across an ocean"* |

@@ -122,3 +122,10 @@ evidence.**
 
 - **"He was already in" after opening her door** — POV-time: the roof-drum
   sentence absorbs her attention while he rounds the truck in the rain.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **deepseek** — "His only dry shirt" underlined. `reviews/cold-read/deepseek-v4-pro-0813/leave-no-trace.md:17`: "…Friction: small, and mostly swallowed by how well it works on me. "His only dry shirt" is underlined a little hard, the author telling me to be moved — but I was moved. The cop-car ending is…"

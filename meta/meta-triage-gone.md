@@ -306,3 +306,12 @@ Close-third pass (`audits/close-third/gone.md`). Very light: the October worksho
 - `:79` "and there was nothing quiet left in either of them now". Also his. He feels her urgency through his own body, and the clause is the only place his urgency returns after `:9`'s "the urgency had gone out of him". One capture gate (claude-opus-5-5, romance-graduate) called it "a bit of a gloss", as part of a general complaint that the ride is summary. Not decisive.
 - `:100` "He could do this without leaving her to wait long." His practical thought; gift-logic.
 - `:69` "the kind that takes holding" remains protected. The claude-opus-5-5 romance-graduate gate ("which I didn't need, but fine") is one reader against the earlier wave's four.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **sol** — "You do nice work" reduces Vee to Pace's project. `reviews/cold-read/gpt-5.6-sol/gone.md:13`: "…without Vee knowing, so the hidden arrangement remains beneath all this warmth. My one friction is “You do nice work.” It deliberately makes Vee sound like Pace’s successful project, and I disliked hearing her reduced that…"
+- [ ] **opus-5-5** — "hand still at the side of his face" ×3. `reviews/cold-read/claude-opus-5-5/gone.md:15`: "…body the thing she was describing" explains a gesture I'd already understood. And "her hand still at the side of his face" comes three times in a few lines, which I tripped over.…"
+- [ ] **glm** — two chapters away from Vee's view. `reviews/cold-read/glm-5.3/gone.md:36`: "…consolidation. It doesn't advance the plot an inch and I didn't want it to. But I notice the book has now spent two chapters away from Vee's own view of her danger, and I'm starting to want her back in the room.…"

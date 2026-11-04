@@ -279,3 +279,11 @@ Close-third pass (`/wals-close-third`), Vee's POV. Batch and rulings:
   moved; quoted by three gates.
 - `:91` "should have shamed her but didn't"; `:113` the callback to hanging the
   dress; `:115` "she knew without being told": hers.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — the climax's headboard talking. `reviews/cold-read/claude-opus-5-5/peekaboo.md:15`: "…takes hers. The one place it went slack for me was the climax paragraph. "The headboard talking" is a bit stock after everything before it was so specific.…"
+- [ ] **opus-5-5** — the shoe paragraph runs long. `reviews/cold-read/claude-opus-5-5/peekaboo.md:19`: "…On friction: the shoe paragraph runs a little long. The pumps "would have read like an apology," and "that woman could wait"…"

@@ -183,3 +183,11 @@ authorial decisions — do not re-flag these without new evidence.**
   he had asked" — *explains*, 0 of 162 other readers quoted it). Author ruling: cut the
   *other* sentence — "small and formal and not affected" is the narrator's adjectives;
   "she understood, simply how he had asked" is Vee's register and stays.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **deepseek** — "Your tart's holding up" read against the grain. `reviews/cold-read/deepseek-v4-pro-0813/substitution.md:9`: "…time. And it's froyo."* — and he does not meet it. He says, *"Your tart's holding up."* That's the moment I stopped being charmed by Pace, and started being afraid for her.…"
+- [ ] **opus-5-5** — video-game healer joke. `reviews/cold-read/claude-opus-5-5/substitution.md:19`: "…me twice that this is a man who hands you back the pencil. The video-game healer joke felt dropped in from another book.…"

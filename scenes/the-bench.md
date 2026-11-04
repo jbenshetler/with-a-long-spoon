@@ -62,7 +62,7 @@ Then the eating changed. She nipped at the slice in her hand, toying with it ins
 
 Not lower — up. Slow along her sides, from the hips up over the ribs under the cardigan and down again, one unhurried pass and then another, each time reaching a little higher before turning back, a little nearer the soft weight at the sides of her breasts, and each time leaving again before it arrived. He was in no hurry about it at all. He was, plainly, enjoying himself.
 
-She caught him at it on the third pass. "You're doing that on purpose," she said, around the apple, not quite a complaint.
+She caught him at it on the third pass. "You're doing that on *purpose*," she said, around the apple, not quite a complaint, and Kentucky came up into it: *that* stretched into two easy syllables, *purpose* trailing off soft where her sorority voice would have clipped it. She had told him once, sheepish, when he asked — Kentucky, until she was nine — one more of the things she let him see that nobody else did. It came out of hiding when something moved her.
 
 "Doing what?" he said, and did it again.
 

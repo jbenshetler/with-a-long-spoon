@@ -47,3 +47,10 @@ Close-third pass (`/wals-close-third`), Pace's POV. Batch and rulings:
 - `:91` "He went over it… it was the want, he thought": his processing at a peak,
   ending in a wrong explanation.
 - `:95` "He did not know what he had done… and it was not there.": his.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — the Violator cue (deepseek praises it). `reviews/cold-read/claude-opus-5-5/portion.md:15`: "…Some friction. The music cue (*Violator*, "every sound in it polished") felt a touch arranged, the album title doing a bit too much work. And "He had poured every glass she had drunk in this house" is…"

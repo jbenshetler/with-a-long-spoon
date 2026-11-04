@@ -1,33 +1,45 @@
 # Cold read (grounded) — Swim Lanes
 
-*scene: scenes/swim-lanes.md · model: deepseek-v4-pro-0813 · memory: ensemble core ck-ch010@7eb6f315dc22 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/swim-lanes.md · model: deepseek-v4-pro-0813 · memory: consensus ck-ch010@bce17b0e8b7f (no window) · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-Underneath hit with its chest open. It’s the first time the book has shown me Pace and Randi alone in their thing, and it doesn’t show it gently. I knew they were involved and that Vee sat between them, but knowing it as a fact and hearing Randi ride him asking “Tell me” — hearing that the first thing she wants her hands on is the smell of Vee’s hair, sweet over chlorine — was the difference between a suspicion and a burn. The sex itself is hot; I’d be lying to scrub that. They know each other’s bodies, the buttons and zips read as long habit, and the slow descent — her making him watch, inch by inch — had me in it. Then it curdles, but it doesn’t stop being erotic. That’s the strength of it. The heat and the wrongness don’t take turns; they’re the same current.
+## Felt Read
 
-My feeling about Pace sharpened. Up to now I’ve read him as mostly caring, magnetic, maybe too good at asking. Here he’s tender to Randi and at the same time withholding something about Vee — “he did not say how he knew. That she had given him herself, in the truck… and he kept it.” He’ll feed Randi the soft stomach, but not the truck scene. I couldn’t decide if that’s loyalty to Vee or just a second appetite he keeps private. Both, I think. That’s what unsettles: both can be true. His hunger bookends the chapter — fridge before she comes, food after she goes, more food after, “still hungry after.” She won’t take food from him; her hunger has already eaten what it came for.
+So this lands entirely on Pace, in his house, in the hour after the hike — and Randi arrives like a weather system. I have never read her this way. She doesn't ask, she takes: mouth on his before a word, walking him backward through the house, undressing herself with his hands chasing her. There was nothing of the guarded woman who locks the door behind her as a self-protection. This was hunger aimed at him, and it burned. But it burned cold somehow. "Tell me" — twice, in bed, and both times it wasn't about the hike. She wanted Vee, from his mouth, while she took him. The gardenia, the chlorine under the shampoo, the soft stomach. When he said *her stomach is soft* and didn't explain how he knew, I felt her go rigid around him and held my breath. That moment scared me: not his inventiveness, her silence. Her eyes shut. Holding. Not moving. Then driving, hard, as if she could outrun whatever he'd put in her head. That's not a woman enjoying a shared fantasy. That's a woman using her own desire as a solvent.
 
-Randi is the one I feel differently about now — and it matters that the page never names her, only my memory does. The Randi I liked in the smoothie shop, the one who chose Vee out loud, is here with her want “too big for her, come down on him with nowhere else to go.” “I want us” at his ear went through him “like the first swallow of something.” I don’t yet know if “us” means her and Pace or the three of them, and I won’t decide faster than the page does. But that phrase landed as the hinge. And the way she dresses fast, bright, “I’m good,” skipping the after — that’s the face going back up. I trust my memory here: this is the woman who chose to hide the exposed self behind the face. She leaves, and he notices she’s never left after before. The chair by the door with nothing on it — he sets that aside too. I don’t know what belongs on that chair, but it sat there like a name the chapter wouldn’t say.
+"I want us" — the only fully vulnerable sentence she says, torn out of her — and it lands on Pace like the first swallow of something. I ached for him. Because he takes it as about them, the two of them, and maybe it is. But I don't trust it. I don't trust her flight from the bed after, either. She has never left after. That detail — from the checkpoint, from my long memory of her staying — hit me like a door slamming. She gets up out of his sheets like his body has become unbearable to her, and he thinks, *It was the want.* Maybe. But the shivering, the camisole in the lamplight, the bright "no thanks" — all my Randi alarm is ringing. She came to use him, and when it was done she couldn't hold still in the warmth. That's shame. Or fear. Not satisfaction.
 
-The title “Underneath.” Before, I thought of the bench image — ordinary surface hiding appetite. This chapter cashes that: underneath Pace and Randi’s sex is Vee. Underneath Pace is hunger, literal and not. The chapter is one room, two bodies, and the third person who isn’t there but is in every word. “Her stomach is soft” kept working on me, because a soft stomach is where appetite and shame and tenderness all live, and he gives it to Randi to use and keeps the place he learned it for himself.
+And then the ending. Pace at the open door, watching her car go. He has done nothing wrong. He gave her what she came for, and she left right after, and he stands in the cold eating twice because he's still hungry. My heart broke a little. The Steely Dan and now Blondie — his cool curated domestic music — under the loneliness of the word "after." He can't make "she didn't want to stay" come out. Neither can I. This is the first crack in him I've seen that isn't carefully held open. Ached more than I expected.
 
-The volume board — “With a Long Spoon · Book One — A Polite Invitation” — lands differently now. I knew the warning about supping with the devil and keeping your distance; this is the first time I’ve seen the two of them actually at that supper, sharing breath, nobody using a long spoon. “A Polite Invitation” was charming before; now it reads as the surface this chapter lives underneath. No tagline was supplied, so that’s all I have to go on.
+## Structured Block
 
-What I want and dread are now the same thing: Vee walking into this. I want to see her again, happy, keeping the shirt, not knowing the two people who chose her are still choosing her in a room with the lamp on. I dread the moment the underneath becomes visible. And I want “I want us” explained — if it means what it sounded like in her mouth, the first swallow you can’t put down, then this book is going somewhere colder than I thought.
+**Cast present (in person):** Pace, Randi. No one else onstage; Vee is present only in Pace's words and Randi's reaction.
 
-**Cast present (in person):** Pace; Randi — the chapter’s unnamed “he” and “she,” resolved by my memory (the man who drove home from the hike; the woman secretly involved with him). Neither is named on this page. Mentioned only: Vee (through her hair, her stomach, and the unspoken truck memory).
+**Mentioned-only:** Vee (by story, not name, until "her stomach"), Christine's name not invoked; Daphne not invoked; Cassie not invoked.
 
-**Heat:** 3 — the chapter runs on wanting from the first kiss to the last “Tell me”; the charge peaks where Randi’s arousal meets Vee’s remembered body and burns through the unease rather than fading under it.
+**Heat:** 3 — the charge dominated and never once flagged; Pace's recounting of Vee's body became the scene's hot core, and Randi's riding drove it to a searing, almost unbearable pitch. But the heat has a knife in it.
 
-**Romance:** 1 — real, long-habited sexual intimacy between Pace and Randi, but tenderness is thin and she leaves after; the strongest beat, “I want us,” is torn out of her mid-use and dark, not yet a romantic turn.
+**Romance:** 1 — "I want us" was the only tenderness, and it was pulled out of a woman who then fled; the chapter is about want, not intimacy.
 
-**Motifs & images:** appetite/food — he’s hungry before she arrives, eats, “still hungry after and made more”; “the first swallow of something” (repeat, appetite motif from the checkpoint: Randi’s rationed eating, Vee’s freed eating). The deadbolt — Randi turns it back before leaving (repeat from Randi’s deadbolt ritual). The empty chair by the door — first sighting, unexplained. The mask — her brightness declining food and dressing fast, the chill after; matches the checkpoint’s hidden self. Chlorine under sweet — her hair smell, echoing the water motif (Vee’s pool refuge).
+**Motifs & images:**
+- The **flannel** from ch10 has become Pace's wet shirt left in the truck; he showers the cold out and puts on a henley — the garment of care back home, wrung out.
+- The **gardenia and musk** on Vee (first sighting here, ch11) becomes the thread Pace runs to pull Randi to him in bed.
+- **Chlorine** (repeat from ch7, the pool where Vee's body was safe) — now an intimate scent in another woman's hair, named by Pace.
+- **Citrus and the cold thing under it** (repeat, ch1/ch4/ch9) — here again, sharp and cold, on the woman who will not stay.
+- **Blondie** (repeat from ch1's Steely Dan, ch6) — the cool vinyl-voiced music under the house's warmth. The music has changed while the loneliness holds.
+- **The lock/deadbolt** (repeat, ch1, ch6) — Randi locks herself in, and then unlocks herself out, always, first thing.
 
-**Symbolism:** underneath — the hidden third person beneath the couple’s sex; the empty chair invites symbolic weight but I won’t fix it yet; “first swallow” suggests the intoxicant nature of what they’re doing, and the devil’s supper in the volume title.
+**Symbolism:**
+- The **open refrigerator, over and over**, read as Pace's bottomless want — his hunger, literal and otherwise, that no meal touches; he won't stay full.
+- The **"first swallow of something"** confronting him at "I want us" — reaching for heat through someone else's storm.
+- Her **leaving after**, where she always stayed, as a door he has not yet learned to name.
 
-**Characterization:** Pace deepens — tender, complicit, withholding at once; his hunger is both literal and emotional. Randi deepens and chills — consistent with the checkpoint’s face-over-bench decision: want surfaces during sex, then clothes and brightness close over it. Neither flattens.
+**Characterization:**
+- **Randi:** deepened, but toward sharp disquiet. Her push and hunger read real, yet desperate — more unlike her guarded self than anything else in the book. She confirms my sense that she is running from what she wants when she wants Vee and cannot say it. She's not a plot-puppet; she's a mystery with loyalty only to her own small survivings. I don't like her as much here, and it hurts.
+- **Pace:** lands as the more vulnerable one. His restraint made him safe, but it didn't keep him from being left in an open doorway, cold, not understanding. He gave, she took, and he cannot parse the after. That's a deepening.
+- **Vee (only in words):** recalling her body so intimately, Pace's voice turns her into shared property between them. I shuddered a little at "stomach is soft" — private detail given to Randi without Vee knowing. That's the first real inquiry I've made into Pace's reliability.
 
-**Pace — within the chapter:** tight and patient where it counts — the slow descent earns its length; the abrupt after (her dressing, leaving) is the point, not a drag.
+**Pace — within the chapter:** The sex is breathless and relentless, then collapses into stillness so suddenly it leaves a hurt. The final two short paragraphs are the best writing here: the sound of the car going away, the cold coming in, "he shut the door." Earned length, brutal ending.
 
-**Pace — chapter to chapter:** building and turning — after three Vee-side chapters, this swings into the hidden room and raises the stakes; the unanswered “How was it?” and “I want us” pull hard.
+**Pace — chapter to chapter:** Building, erratically but powerfully. We've gone from wonder (hike, dress) to the acid interior of the threesome's mechanics. The momentum is forward but slowing through dread. Too much of the same beat — Randi leaving, Pace standing — might be ahead, but here it fractures the book open.

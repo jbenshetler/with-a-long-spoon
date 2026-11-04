@@ -36,7 +36,7 @@ Past the treeline the cold came up under the chair and through her jacket and se
 
 She tried to keep looking straight ahead. After a moment she pushed her goggles up and looked over anyway, and found him looking back, not so much staring as assessing. From anyone else she would have minded. She did not.
 
-He was finishing law school in New Haven, he said, and kept a place in the city. It sounded like a good life. She was from central Florida, and did not mention it.
+He was finishing law school in New Haven, he said, and kept a place in the city. It sounded like a good life. She was from Kentucky, and did not mention it.
 
 Near the top he raised the bar. They put their ski tips down on the snow and let the chair push them up out of the seat and away.
 

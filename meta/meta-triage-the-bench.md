@@ -449,3 +449,21 @@ weight them below the others. Removed models' reads are not consulted
 
 - The "Nothing happened to her. That was what the face was for…" paragraph after :501 restored (cut 4da9f20b), and the "She had been perfect, and perfect was safe." fragment moved into :501 taken back out. A/B ch1 capture, 8 models x 2 personas each: cut 147/146 CAPTURE/NEXT, restored 149/147. Restored drew three mirror-section ALMOST-STOPPEDs at 9 (fable rg on the paragraph; opus-4-8 and opus-5 rg on :509 "The face was lying…" triple), none on the cut text.
 - **:509 trimmed to "The face was lying."** (author 2026-10-11, option A). Third ch1 A/B read: 146/147 CAPTURE/NEXT; the :509 near-stops gone and glm quotes the short line as a high point; the paragraph now draws the section's praise (opus-5 fsog "the part I'll be thinking about tomorrow") and its two near-stops (opus-5 rg at 9, sol rg at 10, both fully captured). Keep the paragraph; do not re-cut.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — POV slip: Pace's chapter states "She had been thinking, since she opened her eyes that morning…". `reviews/cold-read/claude-opus-5-5/the-bench.md:17`: "…me "She had been thinking, since she opened her eyes that morning, about being undressed in this room," which he can't know. The pinned-on symbol at the end ("doing what it would continue to do, waiting for the next time") and "the…"
+- [ ] **deepseek** — "He had not yet told her that" read as authorial. `reviews/cold-read/deepseek-v4-pro-0813/the-bench.md:19`: "…me a little trust. The second friction is smaller: "He had not yet told her that" about liking her feet — a thumb on the scale, telling me something the character hasn't said, like a promise I'm not sure the book needed.…"
+
+## Author ruling 2026-11-03 — Pace's "small warm pleasure" (:459)
+
+- **Stands (designed irony).** glm-5.3 ("a faint handler's satisfaction") and
+  deepseek-v4-pro-0813 ("self-congratulatory and blind to what just happened in her")
+  flag "the small warm pleasure of how much further she had gone than he had thought she
+  would, and that he had helped her there." Both register the reversal the line sets up:
+  glm continues "And then the bathroom door closes and the book flips." Same mechanism as
+  the :416–431 rulings (Pace's self-satisfaction read against Randi's bathroom). Not a
+  craft defect; do not re-raise on these grounds.

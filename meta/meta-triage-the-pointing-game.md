@@ -563,3 +563,23 @@ A/B, 8 models x 2 personas (N = 16):
 
 opus-5 rg on the kept sentence: "the best sentence in three chapters and it doesn't explain
 a thing to me I hadn't felt."
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — POV slide into Randi's head. `reviews/cold-read/claude-opus-5-5/the-pointing-game.md:18`: "…- The point of view slides. "She had decided that morning how much of herself the day would get" is in her head while we're supposedly with him.…"
+- [ ] **deepseek** — "Went to the root of him". `reviews/cold-read/deepseek-v4-pro-0813/the-pointing-game.md:13`: "…Friction, mostly small. *"Went to the root of him"* clanged — the prose reached for a euphemism it didn't need. The rejected-women stretch sagged a little, a type-list…"
+- [ ] **opus-5-5** — "So. There it was.". `reviews/cold-read/claude-opus-5-5/the-pointing-game.md:20`: "…- "So. There it was." is a little smug.…"
+
+## Author ruling 2026-11-03 — omniscience recurrence
+
+- **Misfire intact; watch item.** The protected wrong guess survives at :127–129 ("He
+  thought he had it. He wanted her himself." / "God, no" … "Closer, but no."). In the
+  2026-11-03 consensus-memory panel glm-5.3 still wrote "he's been right about everything
+  for two chapters and nobody in this book is right forever" — the same lane that in
+  August named the misfire as what "keeps him human." One reader, one read: no edit. If the
+  next ch3 panel again reads Pace as never wrong despite :127, consider making the
+  misfire land harder (it ends a long description; Randi's correction follows). Protection
+  of the misfire unchanged.

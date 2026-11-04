@@ -1,0 +1,38 @@
+# Cold read (grounded) — Swim Lanes
+
+*scene: scenes/swim-lanes.md · model: gemini-4-argon · memory: consensus ck-ch010@bce17b0e8b7f (no window) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+Oh, my chest hurts after that. This chapter is scorching hot on the surface and quietly devastating right underneath, because we are watching two people have intense, urgent sex while interpreting what is happening between them in dangerously different ways. 
+
+The erotic charge here is immediate and sustained. Randi walks in — no overnight bag on the chair by the door, a detail Pace notices and sets aside before I even had time to register what it meant — and takes him over completely. What really got me was the undressing: *"Every garment was an interruption. He took his hands off her only for as long as it took the next thing to leave her body, hers or his..."* And then when she pushes him onto the bed and lowers herself onto him *"An inch, and a stop, her eyes on his, her mouth open on the breath it cost her,"* demanding that he watch her take him, drawing an involuntary groan out of his chest — the heat is a solid 3. And when she whispers *"Tell me"* at his ear and he starts describing Vee's scent — *"Gardenia and musk. On her throat, and lower. It's been warm on her since morning, so by now it's mostly the musk"* — the way that sensory intimacy about another woman feeds straight into their bodies is electric.
+
+But the swoon and the ache are completely tangled up with dread, because the text earns every bit of uneasiness here. In Chapter 6, Pace withheld something emotional that Vee had confided in him; here, hewithholds something physical and intimate (*"That she had given him herself, in the truck with the rain coming down, and he kept it"*), giving Randi only the three words: *"Her stomach is soft."* And the reaction that sets off in Randi tore right through me. She clenches hard around him, eyes shut, frozen, before riding him hard with her belly *"gone tight as a board with the work of it."* Think about that juxtaposition: Vee's soft stomach (and everything that softness represents — eating freely, unmonitored pleasure, giving herself in the truck) against Randi's restricted, disciplined belly going tight as a board while she punishes them both with the pace of her riding. Pace reads this as pure erotic hunger for Vee (*"He took it for the want — too big for her, come down on him with nowhere else to go. If it was something else he could not have said what"*). And when she cries out *"I want us,"* torn out of her right before coming, my heart broke a little. Does "us" mean the three of them, as Pace clearly hears it? Or does it mean *just the two of them*, a desperate territorial claim when she realizes he has touched Vee's bare skin, or both at once? The page holds it open, and it hurts either way.
+
+My feelings about Pace shifted into deep sympathy mixed with frustration at his blindness. For a man so observant of women's micro-cues, he is completely missing that Randi is slipping away from him — just as she resolved to do back in Chapter 1. When she skips lying on his chest afterward, dresses brightly (*"No thanks,"* *"I'm good"*), and leaves for the very first time, seeing Pace standing in his open doorway feeling *"something in his chest he had not been ready for, low and plain, that she had not wanted to stay"* made him feel so human and vulnerable. He isn't an omniscient puppet master; he can be hurt, and he is left eating alone at his table, still hungry no matter how much he makes. 
+
+I had zero friction with the prose — everything landed with surgical precision. The chapter title, **"Swim Lanes,"** hits so hard in retrospect. On the surface it nods to the faint scent of pool chlorine in Vee's hair, a physical trace of her secret underwater sanctuary now handed over into Pace and Randi's bedroom. Beneath that, it feels like the separation of tracks: Pace keeping his time with Vee and his time with Randi in separate lanes, keeping Vee's secret while using her body's details to get Randi off, and Randi staying strictly in her lane and refusing to cross into staying the night. Looking at the cover board — ***WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION*** — the proverb behind "with a long spoon" (whoever sups with the devil needs a long spoon) feels ominous alongside Pace standing alone at his fridge eating at the covered bench-table after Randi refuses his food. What I expect and dread next (as a guess from here) is that Randi's hurt or overwhelm is going to curdle into something sharp, while Vee walks deeper into this "polite invitation" completely unaware of how fiercely she just fueled their bed.
+
+***
+
+**Cast present (in person):** Pace, Randi.
+**Cast mentioned only:** Vee (referred to only by pronouns "she"/"her").
+**Heat:** 3 — Urgent, explicit, sensory-rich sex where voyeuristic/shared storytelling about Vee drives an already fierce physical connection to a peak, complicated by hidden emotional undertows.
+**Romance:** 1 — Deep bodily familiarity and Pace's genuine ache when she leaves, though Randi's abrupt emotional withdrawal and bright mask keep true romantic reciprocity at bay.
+**Motifs & images:** 
+- *The deadbolt turning* (repeat from Ch 1, Ch 6): Randi locks it immediately upon arriving, and turns it back to leave for the first time.
+- *The empty chair by the door* (variation/repeat from Ch 1): Usually holds her monogrammed overnight bag; tonight nothing is on it, signaling before a word is spoken that she never intended to stay.
+- *Randi's citrus perfume with the cold note underneath* (repeat from Ch 1, Ch 4, Ch 9).
+- *Music playing low in the warm house* (variation from Ch 1, Ch 6): Blondie ("the disco one") instead of Steely Dan.
+- *Randi demanding "Tell me" during intimacy* (repeat from Ch 6).
+- *Chlorine / the pool* (repeat from Ch 7): Vee's private sanctuary now detected as a scent on her hair by Pace and shared with Randi.
+- *Food / hunger / feeding* (repeat from Ch 1, Ch 3, Ch 8, Ch 10): Pace starving since the hike rock, Randi refusing his offer to cook, Pace eating alone at the table and remaining hungry.
+- *The cashmere blanket and post-sex chill* (repeat from Ch 1).
+**Symbolism:** 
+- *The empty chair by the door:* Premeditated boundary-setting; Randi arrived already planning her exit.
+- *"Her stomach is soft" vs. Randi's belly "tight as a board":* The stark somatic contrast between Vee's unguarded, newly liberated appetite and Randi's armored, self-monitoring control.
+- *Pace's unappeasable hunger at the end:* Emotional emptiness after Randi's departure translating into physical hunger that food at the table cannot fix.
+**Characterization:** Both characters deepened significantly. Pace's aura of total control cracks when he fails to read the full weight of Randi's reaction and feels the plain hurt of being left behind. Randi's armor from Chapter 1 is shown in active, painful motion — she uses aggressive sexual control to extract the truth of how close Pace got to Vee, lets the overwhelm tear *"I want us"* out of her, and immediately locks the door on him by going home.
+**Pace — within the chapter:** Masterful. It moves from the quiet, chilly aftermath of the hike into breathless erotic urgency without a wasted beat, then decelerates into the cold, quiet ache of the ending.
+**Pace — chapter to chapter:** Building sharply. After several chapters in Vee's warming, expanding POV (Chapters 7–10), snapping back to Pace's house shows the immediate, volatile cost of Pace and Vee's growing intimacy on the original pair.

@@ -44,3 +44,10 @@ cut from Brooke's third warmth. Durable rulings:
 - **"The release was the cleanest hit."** — line-editor (fable-5-1, whole-volume
   read 2026-09-30) tagged it *explains*; no other reader quoted it (0 of 162
   files). Author ruling 2026-09-30: stands.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — "some CEO's third wife" read as the narrator sneering at Brooke. `reviews/cold-read/claude-opus-5-5/standards.md:19`: "…One bit of friction: "a woman who would one day be some CEO's third wife" felt like the narrator sneering at Brooke rather than Randi seeing her. It's funny, but I felt the…"

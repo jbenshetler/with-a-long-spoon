@@ -1,0 +1,35 @@
+# Cold read (grounded) — Sorority
+
+*scene: scenes/sorority.md · model: deepseek-v4-pro-0813 · memory: consensus ck-ch010@bce17b0e8b7f + raw ch011..ch019 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+She had been late to everything all morning and it didn't bother her a whit — and that line set the whole register for me, Vee's happiness so full she's spilling it. This chapter is Vee glowing, and it worked on me. I loved being in the overslept, overfull current of it: the unmade bed as tattletale, both her girls turned toward her instead of the professor, Randi already solving the shoe problem before Vee finishes naming it. I felt her happiness like weather. And underneath it, the whole chapter, there's a second current I kept feeling and not quite looking at: the way Randi's attention has stopped being friendship-shaped. The kiss from before, "practically a marriage," and then that foot scene. My body went down that scene with Vee's — Randi going to one knee, slipping the flat off, holding the foot to the light, and the thumb moving once across the big-toe nail. "Felt it go all the way up the length of her, felt the floor of her tip, a small swing of the room though she was sitting down." That's not a friend fitting a shoe. That's a courtship gesture, and Vee's body knows it before her mind will.
+
+My feeling about Randi moved here. She's still warm, still the glamorous friend Vee wanted at fifteen, but the warmth has edges now. Two beats made it real. In the lecture hall, before she calls Vee a lucky slut, "for once there was nothing at all on her face" — and Vee reads the quiet as *jealousy*, of Pace, of a man who sits up nights over a woman, and she wants for Randi a love like that. But I know what Vee doesn't: Randi is not wistful over some absent man. She is in it. She is the one who picked Vee, who has been steering this from the start, and now she's kneeling on a boutique floor holding Vee's bare foot and noticing the frosted plum polish Vee painted *for Pace*. The thumb, the "Mm." I felt the current in it, and I felt Vee reach out and grab Randi's shoulder to steady the room. That's desire arriving before it has a name, and Vee has nowhere to put it.
+
+The swoon for me was the dress moment in the dorm room — Randi seeing it and finding the word Vee cried over: "He didn't make this *for* you. He made it *to* you." That landed with a small ache, because it named exactly what Vee had been trying to say about being seen and fitted, about the thing being built onto her out of nothing while she held still. And I loved Cassie's refusal to care about the dress at all: "Was it a good night?" — she watches Vee, not the fabric. That's the loyalty that grounds the whole spin. Pace himself is offstage but everywhere, the all-night finishing, the "lover" Randi hands Vee that's more adult than Vee lets herself say. My warmth toward him holds; he is the thing the week bends around.
+
+The erotic charge peaked for me in the boutique scene, simmering rather than explicit — a 2. The shoe-fitting is the hottest moment in the chapter and there is no nudity in it; it's all in the attention, the knee on the pale floor, the held foot, the thumb. Then the credit card. That's where my reader-body tightened. Vee puts back the debit, takes out the emergency card, and calls the shoes "what the dress was owed." That arithmetic is the fog I want to pull her out of. It's the hinge where her hunger to belong starts borrowing against a future she can't see. I didn't judge it — I've been that girl, almost — but I felt the dread start.
+
+No active suspicion of anyone in the moment; the text mostly swept me up, and I let it. The only shadow was the book's own title, which I couldn't put down: **With a Long Spoon**. The proverb — *he who sups with the devil should have a long spoon* — sits at the back of my neck during every warm, polished invitation Randi extends. She is so good at making Vee feel chosen, and the cover's line, **A Polite Invitation**, now reads exactly like what Randi keeps doing: courteous, warm, never quite disclosing the terms. But I'm naming that unease softly, because the page itself is full of genuine delight — the shoe-store wreckage, the pink bedazzled platforms, "Do yetis shop here?" That laugh between them is real, and I was in it.
+
+I want the induction. I want Vee walking in late in those shoes with the slit opening on her bare leg, earning the turn of the room she rehearsed. I dread the credit card coming due and the dress's cost landing in a month's statement. And I dread — no, I *anticipate*, with the spoon warning in my ear — that Randi's intimacies are going to force Vee to name what a friend doesn't do and a woman does. Cassie saw the made bed and knew. I think Cassie sees more than the bed, too, and I want her on the page when the seeing comes out.
+
+---
+
+**Cast present (in person):** Vee, Cassie, Randi; also the statistics professor and the shoe-boutique woman in minor capacity. Mentioned-only: Pace, Stevie Nicks (poster), the woman who ruined a coat (Randi's story).
+
+**Heat:** 2 — the charge runs through the whole chapter as warm wanting, and it peaks in the shoe-fitting: Randi kneeling, holding Vee's bare foot, the thumb across the frosted plum, "a small swing of the room." Not explicit sex, but the wanting is the point.
+
+**Romance:** 2 — clear tenderness and intimacy, both toward Pace (the dress made *to* her, the all-night finishing, "lover") and, more quietly and less named, toward Randi in the foot scene and the "practically a marriage" line.
+
+**Motifs & images:** the made bed as tell (repeat: Cassie reads Vee's absences); the frosted plum toenails (repeat, now named as chosen for Pace and noticed by Randi); the dress as the thing built *to* Vee (repeat from the fitting chapters, now completed); the deadbolt and sleep appear only obliquely — no deadbolt this chapter. First sightings: the boutique shoe, the forgotten bed, the credit card.
+
+**Symbolism:** the unmade bed as Vee's life opening toward what she wants; the shoe as stance — the "apology" of the sensible tan heel versus the held, unapologetic heel she lets herself buy; the dress as a second self, the woman who walks in late and is looked at without shame.
+
+**Characterization:** Vee deepens — her hunger to belong bends toward real self-cost (the credit card), and her body registers desire she won't name. Randi deepens and sharpens: warmth thinning to real wanting, and I trust her less even as I like her more. Cassie stays solid, the one who sees the person under the event. Pace holds his warmth offstage.
+
+**Pace — within the chapter:** steady and earned; the paradox lecture took a beat to earn its place as the frame for two friends watching Vee instead of the board. The shoe scenes could have sagged and never did.
+
+**Pace — chapter to chapter:** building. This chapter is the warmth and the hush before consequences — the dress finished, the shoes bought on credit, the intimacies stacking up. It feels like the run is gathering toward a room Vee is about to walk into.

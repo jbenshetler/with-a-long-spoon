@@ -239,3 +239,11 @@ Close-third pass (`/wals-close-third`; batch and rulings in `audits/close-third/
 - **Left standing — do not re-litigate:**
   - `:56` "She had not anticipated this part. She had thought the measuring would be the exposure. The measuring was only half of it." This is her surprise at his frank, unhidden looking, not a repeat of the withdrawal at `:52`/`:54`.
   - `:130` "not building a dress on a form… *for her*": her realization at the turn; `:134` deepens it.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — the braced-for-ridicule grin paragraph. `reviews/cold-read/claude-opus-5-5/a-round.md:19`: "…The braced-for-ridicule paragraph ("She knew that grin... No, not grinning. Smiling.") felt like a feint the author built just to correct it. And the last lines spell out the lesson ("had not, once, been found…"
+- [ ] **glm** — QUIZ TODAY cuter than the register. `reviews/cold-read/glm-5.3/a-round.md:17`: "…a touch familiar by the third or fourth visit, but that's the point of the voice, its persistence. The QUIZ TODAY flash was the one place I blinked — a bit cuter than the register around it — but it made me smile anyway.…"

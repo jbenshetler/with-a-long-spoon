@@ -253,3 +253,11 @@ already light; seven items proposed over two batches, four applied, three kept.
   Paraphrase praise: fable and flash (romance).
 - `:13` — walked and **kept** (author). Her own denial, not a narrator's wink;
   sol cold read: "funny, aching, and completely her."
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — "too hard" (four other readers praise the line). `reviews/cold-read/claude-opus-5-5/famished.md:13`: "…As in aroused? The page says it's "a real question" and "something else as well," but the wording felt clumsy in a scene that was otherwise exact. I didn't fully buy the "crystal strings" either. It's a touch…"
+- [ ] **opus-5-5** — "crystal strings". `reviews/cold-read/claude-opus-5-5/famished.md:13`: "…clumsy in a scene that was otherwise exact. I didn't fully buy the "crystal strings" either. It's a touch ornamental at the one moment I wanted it plain.…"

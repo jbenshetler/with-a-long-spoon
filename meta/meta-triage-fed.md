@@ -355,3 +355,10 @@ six walked, then three of the remaining 19 the assistant flagged as concerns.
   Fable romance's "the book explaining a friendship" complaint is aimed at "the
   friend she wanted at fifteen" (praised by flash and opus-5-5), not at this
   sentence; do not cite it against this sentence.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **deepseek** — the Cassie half. `reviews/cold-read/deepseek-v4-pro-0813/fed.md:9`: "…keeps handing pieces of herself to Randi without noticing she's being collected. The scene with Cassie is sweet but thin: Cassie reads her friend in one look, doesn't pry, and the joke about painting toenails in October is…"

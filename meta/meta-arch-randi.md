@@ -292,11 +292,16 @@ Sixteen years of dance (she started at five), six of cheer. This is the body's h
 
 **Render discipline:** backstory, not exposition. It shows in the body — the carriage, the trained ease of being looked at — and in the single place it fails. Never hand the reader "she was a dancer, so —"; let the trained line and its one blind spot carry it. Already latent in {{The Bench}} prose (the dancer's legs; the decade-of-dance line under pressure). Physical-surface rendering lives in `meta-craft-randi.md` (Physical Description).
 
-## Origins — Central Florida
+## Origins — Kentucky, then Central Florida
 
-**The family lives in central Florida.** On the page in {{Fairytale}}: *"She was from central Florida, and did not mention it"* (`fairytale.md:39`), the only statement of her origin anywhere in the prose.
+**She was born in Kentucky and lived there until she was nine** (author ruling 2026-11-03, superseding "before she started primary school"); the family moved to central Florida around 2014 and lives there now. Nine is old enough that the accent is her own, acquired regionally, and she worked it off. She is embarrassed to be from Kentucky.
 
-**She was born in Kentucky** (ruled 2026-09-17), and the family moved to central Florida before she started primary school. Kentucky has never appeared in the prose.
+**On the page:**
+- {{The Bench}} (`the-bench.md:65`, Pace POV): Pace hears it come up and knows the cause — *"She had told him once, sheepish, when he asked — Kentucky, until she was nine — one more of the things she let him see that nobody else did."* Pace is the only person in her world who knows.
+- {{The Pointing Game}} (`the-pointing-game.md:97`): *"Kentucky, coming on."*
+- {{Fairytale}} (`fairytale.md:39`): *"She was from Kentucky, and did not mention it."* (was "central Florida" until 2026-11-03).
+
+Central Florida stays off the page. The author's private backstory (money made in Kentucky after the 2008 crisis, the move, the later scheme in central Florida) is for the author, not the prose.
 
 ## The Father — Miranda Interests
 

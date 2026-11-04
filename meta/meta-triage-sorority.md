@@ -218,3 +218,10 @@ Close-third pass (`/wals-close-third`), Vee's POV. Batch and rulings:
 - `:57` "the one snag in the gold of the day": her figure.
 - `:65` "happy in the middle": kept.
 - `:73` "still shown to not one living soul": kept; quoted by glm.
+
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — the Mercedes-window replay. `reviews/cold-read/claude-opus-5-5/sorority.md:19`: "…dot on the column made me roll my eyes a little. The Mercedes window detail being replayed also felt like filler.…"

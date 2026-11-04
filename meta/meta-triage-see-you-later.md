@@ -168,3 +168,24 @@ editorial structural review.
 - **:109 closing clause, :125 "best hour," room-reading length** — single
   lanes each; no action.
 
+## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
+
+Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
+reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
+
+- [ ] **opus-5-5** — accent paragraph mentions the sister and the parking ticket before that story is told. `reviews/cold-read/claude-opus-5-5/see-you-later.md:21`: "…- The accent paragraph mentions "a sister in the house and a parking ticket" before that story has come up, which tripped me.…"
+- [ ] **opus-5-5** — "the morning of it" against Pace's four o'clock walk. `reviews/cold-read/claude-opus-5-5/see-you-later.md:23`: "…- Vee calls the meeting "the morning of it," but I remember Pace's walk as a four-o'clock afternoon.…"
+
+## Author ruling 2026-11-03 — latent variables, de-emphasized
+
+- **Fixed (:59, :61).** The consensus-memory panel re-converged on the cue after the
+  2026-09-26 definition cut: four of five families (opus-5-5, sol, glm, deepseek) read the
+  term plus Vee's notebook underline as the author's hand, and opus's capture lane
+  ALMOST-STOPPED on "the word sat there in her notebook, underlined once, going nowhere."
+  Only Google praised it, conceding it was on the nose. `praise_check` found no current
+  praise of the notebook sentence. Ruling: the professor simply assigns the reading, with
+  no framing ("the interesting part" cut) and no notebook beat. :59 now reads "For Friday,
+  read chapter five, latent variables. It's shorter than it looks."; :61 keeps only the
+  turn to Randi ("Then chairs were scraping and bags were zipping, and Vee turned to see
+  whether Randi was getting up."). Supersedes the 2026-09-26 "underlining-once-going-nowhere
+  stays." The term remains for the rereader; nothing on the page points at it.
