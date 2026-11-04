@@ -142,3 +142,16 @@ Author-approved cuts, close third on Vee (what she senses, thinks or feels; no n
 - `:97` cardigan kept (author ruling): the echo of {{See You Later}} is intentional. A swap to the outlet faux-leather jacket (`meta-arch-bible.md:102`) was tried and reverted the same day.
 - `:125` "That was the strange part, how much she wanted to put all of it into Randi's hands." cut (opus-5-5 almost-stop on the second telling).
 - `:181` **the protected cost passage, revised by the author (2026-10-26; supersedes the 2026-08-11 "do not re-raise" protection of the wording).** Kept: the felt warmth with weight (its hedge "that she could not have named and did not want to" cut), "No one had chosen her out loud like that in a long time" (seeds `on-her-floor.md:145` "said so out loud, in front of the president of the house"), and the wrong-size step. Replaced: "She did not know what it had cost Randi… She knew only… that it had cost something, that Randi had spent it on her without appearing to count it." Now Vee *senses* the cost: a charge in the air over the table, every smile in place and the room rearranged underneath, known from the top of her high-school tables (`meta-craft-vivienne.md:209`, reads tier) — "Randi had just spent something on her, in front of the girls who decided what it was worth." Spent **on** Vee, priced by the witnesses (not paid *to* them — the bill is `my-friend-randi.md:227`, settled at `on-her-floor.md:129`). Vee senses *that* someone above Randi was pricing it; Brooke's office and the house's tax stay reader-only. The thesis meaning (cost = measure of love) stands; only the ledger narration went.
+
+## Author ruling 2026-11-03 — Smoothie Bird as a Chi Latte "rerun"
+
+- **Stands (designed echo).** Anthropic lanes (opus-5-5 cold and capture "nearly beat for
+  beat", sonnet v3, fable near-stop) read the Smoothie Bird opening (:97–101) as a rerun of
+  the Chi Latte date ({{See You Later}}:117). Four other families praise or are neutral; sol:
+  "The high table repeating mattered too." The repetition is the point: the same high
+  window table that meant belonging in ch4 is now "a shelf… a thing the room could turn and
+  look at." Consistent with the :142 cardigan-echo ruling. The scene's job (Brooke; Randi's
+  feeling made to cost her) follows the rhyme.
+- **Watch, book-wide:** opus's "the descriptions of the girls are starting to blur
+  together." The rooms-full-of-uniform-sorority-girls description recurs by design here;
+  check later SATC settings for a third pass in the same register.

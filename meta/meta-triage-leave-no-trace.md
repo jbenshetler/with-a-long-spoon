@@ -129,3 +129,13 @@ Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consens
 reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
 
 - [ ] **deepseek** — "His only dry shirt" underlined. `reviews/cold-read/deepseek-v4-pro-0813/leave-no-trace.md:17`: "…Friction: small, and mostly swallowed by how well it works on me. "His only dry shirt" is underlined a little hard, the author telling me to be moved — but I was moved. The cop-car ending is…"
+
+## Author ruling 2026-11-03 — the siren (:259)
+
+- **Stands.** Consensus-memory panel split by family: Anthropic (fable "a sitcom door
+  slam", opus "the author's hand closing the door"), DeepSeek and Zhipu read it as a device;
+  OpenAI ("abrupt, but deliberately so — it snatches away the sentence Vee cannot yet
+  make"), Meta, Google and Anthropic's sonnet ("annoyed in the correct way") read it as
+  earned. Author: a bit trope-y, but true to life — campus cops are absolute demons about
+  parking — and it is caused: Pace parks in "the fire lane, the red-painted curb" (:251) to
+  get her to the door out of the rain. Do not re-raise on "device" grounds.

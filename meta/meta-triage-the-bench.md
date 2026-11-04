@@ -467,3 +467,13 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   glm continues "And then the bathroom door closes and the book flips." Same mechanism as
   the :416–431 rulings (Pace's self-satisfaction read against Randi's bathroom). Not a
   craft defect; do not re-raise on these grounds.
+
+## Author ruling 2026-11-03 — "Good girl" cut (:427)
+
+- **Fixed.** `"Yes," he said. "Good girl."` is now `"Yes," he said.` The phrase diminishes
+  Randi in a way Pace never would: Pace is about respect, even in BDSM, and sees her as a
+  whole person, never as a porn trope. Through the begging his one-word "Yes." means *I'm
+  here*; the last one becomes the yes she begged for, proved by the deed ("this time he did
+  not stop"). The recognition is spoken at "There you are, Randi." It was the book's only
+  "good girl". Costs: Zhipu's "earned its landing" and the genre signal; the author's
+  reason outweighs a genre wink. Rule recorded in `meta-craft-pace.md` Console rules.

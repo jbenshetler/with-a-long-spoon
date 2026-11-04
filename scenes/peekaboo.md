@@ -114,8 +114,6 @@ They'd gotten it hung, in the end. That was the part that kept the laugh rising 
 
 Pace was asleep. He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing. She watched him breathe and didn't wake him. The only one awake in the warm house.
 
-And she let herself imagine it: she put the dress on, in her head, and walked into the induction.
-
-She could see the whole thing. The high room, the good light, the other girls in their safe department-store navy — and her, coming in late, on purpose, in this, in a thing that looked flown in from Milan and fitted to her by a man who'd thought about nothing else. The slit. The bare shoulder. The way the room would turn. She let it turn. In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look, and the looking didn't cost her a thing. It just felt like what she was for.
+And she let herself imagine the induction: the high room, the good light, the other girls in their safe department-store navy — and her, coming in late, on purpose, in this, in a thing that looked flown in from Milan and fitted to her by a man who'd thought about nothing else. The slit. The bare shoulder. The way the room would turn. She let it turn. In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look. It just felt like what she was for.
 
 She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, the dress going dark in its window at the far end of the house, getting away with something.

@@ -225,3 +225,20 @@ Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consens
 reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
 
 - [ ] **opus-5-5** — the Mercedes-window replay. `reviews/cold-read/claude-opus-5-5/sorority.md:19`: "…dot on the column made me roll my eyes a little. The Mercedes window detail being replayed also felt like filler.…"
+
+## Author ruling 2026-11-03 — Simpson's paradox lecture
+
+- **Fixed (:69): cut "He let it sit."** The consensus-memory panel's on-the-nose complaints
+  (claude-opus-5-5 "the author tapping the glass", gpt-5.6-sol "comes very close to
+  instructing me", claude-fable-5-1 capture ALMOST-STOPPED "I felt the book let it sit *at
+  me*") converge on the narration's pause after the reversal. The pause also broke the
+  professor's protected flat register (`meta-triage-all-told.md:236–243`); the paragraph
+  break now carries the beat.
+- **Fixed (:35): "So, who is the better hitter?"** (was flat "So. Who is the better
+  hitter."). Someone answers it; it is asked.
+- **Stands, watch item: "Same numbers. Nobody touched one of them."** The thesis plant
+  (`meta-triage-all-told.md:76–77`, not thinned) and the reread irony: nobody touched the
+  table; someone arranged every number in Vee's picture. Readers use it to make the
+  connection themselves (opus capture: "Same numbers, nobody touched them. I'm not stupid.
+  That's every lunch."). The complaints quoted it with the now-cut pause. Re-check at the
+  next ch20 panel: if readers still flag this line without the pause, reconsider.

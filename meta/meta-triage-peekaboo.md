@@ -287,3 +287,18 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **opus-5-5** — the climax's headboard talking. `reviews/cold-read/claude-opus-5-5/peekaboo.md:15`: "…takes hers. The one place it went slack for me was the climax paragraph. "The headboard talking" is a bit stock after everything before it was so specific.…"
 - [ ] **opus-5-5** — the shoe paragraph runs long. `reviews/cold-read/claude-opus-5-5/peekaboo.md:19`: "…On friction: the shoe paragraph runs a little long. The pumps "would have read like an apology," and "that woman could wait"…"
+
+## Author ruling 2026-11-03 — the induction daydream tightened
+
+- **Fixed (was :117–119, now one paragraph at :117).** Answering "runs a touch long" (glm)
+  without touching the protected pair. The two lead-ins are folded into one: "And she let
+  herself imagine the induction: the high room, the good light, …" (cut "she put the dress
+  on, in her head, and walked into" and "She could see the whole thing."). Also cut ", and
+  the looking didn't cost her a thing" — it restated what the protected line implies. The
+  irony is "what she was for": she is about to be honored for her mind and daydreams of
+  being looked at as her purpose; the dress is not what costs her.
+- **Protected pair unchanged, line numbers moved:** "It just felt like what she was for."
+  now ends :117; "getting away with something" is :119 (the 2026-08 rulings above cite
+  them as :99/:101).
+- **Stands:** the "tidy / bow on top / soft landing" complaints (opus, sonnet) target the
+  protected close — the safety catch per the ruling above.

@@ -32,7 +32,7 @@ So Vee started to tell them. Not the dress; they'd both had the dress for weeks,
 
 The professor chose that moment to begin.
 
-"Simpson's paradox," he said to the room, in the flat unbothered voice of a man reading the back of a cereal box, and put a table of numbers up behind him. Baseball. Two seasons, two players nobody had heard of. "This man out-hits this man in 'ninety-five. And in 'ninety-six. Two years running. So. Who is the better hitter."
+"Simpson's paradox," he said to the room, in the flat unbothered voice of a man reading the back of a cereal box, and put a table of numbers up behind him. Baseball. Two seasons, two players nobody had heard of. "This man out-hits this man in 'ninety-five. And in 'ninety-six. Two years running. So, who is the better hitter?"
 
 Somebody gave the obvious answer. He smiled the smile of a man who had laid the same trap a hundred times. "Now put the two years together."
 
@@ -66,7 +66,7 @@ And that was Vee for the length of the lecture, turned between the two of them, 
 
 Up front, the professor reached his reversal. The little red dot settled on one number at the foot of a column.
 
-"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit.
+"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them."
 
 The professor told them that was all, in the voice he told them everything in, and let them go.
 

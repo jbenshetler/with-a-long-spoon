@@ -424,7 +424,7 @@ A sound came out of her that he had never heard before. It was small. It was raw
 
 There it was. He heard it. He felt himself receive it. The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and *real*, unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance. *Hers.*
 
-"Yes," he said. "Good girl."
+"Yes," he said.
 
 He stood up. He went back behind her. He put his fingers between her legs and stroked her as he had been, and this time he did not stop. The gathering came back and kept coming. She cried out. A few slow strokes later she was coming.
 
