@@ -1,29 +1,25 @@
-*capture-dag-v3-grounded · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e260ebac89fe · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch016 · history ch001..ch016 · ledger no seed feebd3e2199d · 2026-11-02*
+*capture-dag-v3-grounded · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e8285fc7aa6d · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 09f7f4b245aa · 2026-11-03*
 
 REACTION
 
-The absolute, agonizing *tragedy* of Vivienne Thorne sitting on that bright sun porch, drinking a mimosa she decided not to price, thinking she has finally found the best friend of her entire life.
+The absolute psychological tightrope this book is walking right now is giving me vertigo.
 
-I feel like my chest is in a vice. The sheer dramatic irony in this chapter is suffocating. Look at what Randi is doing! She sits there in the glass light, tells her little disposable, manufactured cover story about an "old boyfriend" who was "in a hurry" (to set the baseline of bad, hurried men, so Vee feels safe raving about Pace’s timeless patience), and then systematically interrogates Vee about the night.
+Look at the difference between the two halves of this chapter. First, the dorm room: Vee coming down from Friday night’s high, standing three feet from Cassie with her skirt half-unzipped, realizing with a sudden jolt of terror that she has *no underwear on* because she left her soaked green satin in Pace’s hand as a trade for his flannel. And she has to zip it right back up. She has to edit out the entire center of her night because to tell Cassie the unvarnished truth would mean admitting how completely she has surrendered herself. Cassie, drinking her brown cereal milk, already feels the distance growing. That quiet moment where Vee edits the story "as a kindness"—god, it hurts, because Vee is actually editing to protect her own secret joy from being inspected by the one person who would tell her the unvarnished truth.
 
-And look at the details Randi extracts:
-The cooking. The midnight oil ticking in the pan. The top sheet wrapped around Vee’s bare body. The fact that Pace wasn't in a hurry. The painted toes—*"You paint the toes for a man who's going to have your feet bare in his hands."* The brand-new underwear.
+And then comes Sunday brunch with Randi.
 
-Randi is literally mapping out the exact anatomy of how her boyfriend made love to another woman. And what happens to Randi while she does it?
-*Her eyes go liquid at the edges. The esses run long. The a’s lift arched and high.*
-Vee thinks she’s tipsy on half a glass of champagne! But we know what that accent slipping out means—we know that whenever Randi’s hyper-manicured, sorority-board armor cracks, the real girl underneath starts leaking through. Randi isn't drunk on alcohol; she is drunk on pure, unadulterated, territorial, queer, possessive *heat*. She is sitting across from the girl she picked like a hawk on the quad, listening to how thoroughly Pace took her, and she is practically trembling with it.
+*Jesus.* The tension in that sun-porch bistro was unbearable. Every single beat of Randi’s "sad little story" about the old boyfriend who rushed her—a complete, tactical fabrication, just like the French restaurant date in chapter nine and the Hermès scarf in chapter fifteen. Randi invents these clumsy, shallow boys specifically to lower the stakes and create a container where Vee feels safe confessing how patient, how hungry, how *singular* Pace made her feel.
 
-And then Randi's line: *"You're not caught, sweetheart. You're lucky."*
-God, the double meaning broke my heart into pieces. To Vee, it sounds like the ultimate validation—a glamorous, worldly friend telling her that falling head-over-heels in love isn't a trap, that it's a gift, giving her permission to lay down her defenses. But to us, who know the title of this book, who know the blurb (*"What Vee can't see is that she was chosen in a game... Every yes was freely given. That was the problem"*)... she literally *is* caught! She is in the center of the web, completely wrapped in silk, smiling at the spider.
+And look at what happens to Randi’s body while Vee talks!
+Vee thinks: *"She's a little drunk... one mimosa, and most of that still in the glass."*
+And the tell: *the esses running long, the a's lifting.* Kentucky is slipping out again! Just like in the stats lecture in chapter four, Randi’s polished sorority armor is completely failing her. Her eyes are going liquid at the edges. Not because she’s tipsy, but because she is sitting across from the girl she picked, listening to her describe being made love to by their shared boyfriend, and Randi is being torn in two by her own twisted desires. She wants to own Vee’s pleasure, she wants to feed on Pace’s devotion, and she is simultaneously suffocating under the reality that Pace gave Vee the kind of unhurried, gentle reverence Randi has never let herself have.
 
-And that second kiss at the curb!
-The first time, in chapter 15, Vee panicked. She made excuses about "French goodbyes" and frantically scanned the dorm windows to see if anyone caught her kissing a woman. This time?
-*She met it.*
-And when Randi pulled back, Vee didn't even look down the street. She didn't check for witnesses. Randi has normalized it. In two weeks, Randi has systematically dismantled Vee’s social shame, made kissing her on the mouth feel like warm daylight, and validated her desire for Pace so completely that Vee drove home with the music up, feeling lighter than air.
+And then Randi turns the interrogation into seduction. *"You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."* She dismantles Vee’s shame completely! Where Vee’s mother would say *floozie*, Randi says: *"You're not caught, sweetheart. You're lucky."* That is the most intoxicating drug you could ever hand to a girl who has spent twenty-one years apologizing for her appetite. Randi is validating Vee’s desire so thoroughly that Vee thinks she has found the best friend of her life.
 
-And Cassie! The contrast at the top of the chapter was so quiet and perfect. Cassie eating cereal out of the bowl, clocking the frosted plum toenails immediately, noticing the zipper half-down and the missing underwear, but letting Vee have her privacy. Vee editing out the sex with Cassie to keep it sacred, and then turning around and giving Randi the emotional poetry of it—handing the bullets straight to the person holding the gun.
-
-Randi now knows Pace and Vee slept together. She knows it was tender, she knows it was thorough, she knows Vee wore green satin and gave him her whole heart. What does Randi do with this? Does she go to Pace’s house tonight to demand her cut? Or is she about to step directly into the middle of them? I am on the absolute edge of my seat.
+And the second kiss at the curb.
+Randi’s hand on her jaw. Soft, mouth to mouth. And where it should have ended, Randi *drew back and came back for more*.
+And Vee didn't even check the street to see who was watching.
+The shame has completely burned off. Vee is leaning all the way in. Randi is kissing her in broad daylight, Pace has Vee’s wet panties in his kitchen, and neither of these women has any idea that the cliff edge is five feet in front of them. My heart is beating out of my chest.
 
 GATE 17 — Fed
 DECISION: CONTINUE
@@ -32,10 +28,11 @@ NEXT: 10
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dramatic irony of Vee thinking Randi is the sweetest, most validating best friend she's ever had—while Randi extracts every intimate detail of Pace's lovemaking and normalizes kissing Vee on the mouth—is agonizingly brilliant.
+WHY: The psychological brilliance of Randi's Kentucky accent slipping through her mask while she validates Vee's desire was agonizingly good, and that lingering second kiss on the mouth at the curb moved the needle so far forward my head is spinning.
 
 LEDGER
-+ LOVE: Randi's accent slipping (the long esses and arched vowels) when she gets overwhelmed by Vee—her pristine armor leaking from the sheer psychological charge
-~ [F11.1] SHIFTED: Randi didn't snap or rage when hearing Vee and Pace slept together; she drank it down, extracted every detail, and kissed Vee again at the curb, pulling the web tighter
-~ [F15.2] FADED: Vee didn't even look around to see if anyone saw Randi kiss her this time; the fear of being seen kissing a woman has already been completely dismantled by Randi
-~ [F8.2] DEEPENED: Vee admitting to Randi that she is entirely "gone" on Pace—and Randi validating it with "you're lucky"—makes Vee's total emotional surrender absolute
++ FEAR: That Cassie is going to completely detach from Vee before the truth about Pace and Randi blows up, leaving Vee with zero real support when it shatters.
++ SUSPICION: Randi's accent slipping and her eyes going liquid means her control over this game is on the verge of a total, public breakdown.
+~ [F4.3] DEEPENED: Randi kissing Vee on the mouth twice at the curb while pulling out every confession proves Vee is falling completely into Randi's hands without any defenses left.
+~ [L9.2] DEEPENED: Randi validating Vee's agency ("You're not caught, sweetheart. You're lucky") shows how genuinely tender she feels toward Vee even while orchestrating her seduction.
+~ [F15.2] RESOLVED: Vee did not retreat from Randi's kiss; instead she met it and stopped worrying about who was watching from the street.

@@ -144,7 +144,10 @@ evidence** (line-edit verdicts re-open on a text edit to the passage).
   spatial, temporal, pressure. The smallness is the content — the second
   press works by being almost undetectable, which is what keeps it
   deniable. Chapter has only one "a small" (book-wide: 60 across 26
-  chapters).
+  chapters). **Superseded 2026-11-03 (author ruling):** the car kiss is now
+  a single press, so the chain left this chapter; it moved, intact in
+  substance, to the second press's new debut at `fed.md:121`. Reader praise
+  for it (three capture readers) travels with it.
 - **The did-the-thing-she-did construction at `:11`, `:31`, `:71`, `:73`** —
   kept (only `:59` cut). The three that get unpacked are a colon, not a
   shrug; `:11` ("set the thought where she set those thoughts") is a

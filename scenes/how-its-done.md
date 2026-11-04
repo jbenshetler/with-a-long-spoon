@@ -363,7 +363,7 @@ Randi pulled up in front of the dorm and stopped the car in the fire lane like f
 
 "Come here."
 
-And Vee leaned across the gearshift to do the quick thing, the cheek thing, the goodbye — and it was not that. Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth. Not the dry tight press Vee gave her grandmother. Soft, and in no hurry, and then — just as Vee thought it was ending — not ending: a small drawing-back, the barest pause, and then back again with a little more, a second press that had something in it the first one hadn't, before it let her go.
+And Vee leaned across the gearshift to do the quick thing, the cheek thing, the goodbye — and it was not that. Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth. Not the dry tight press Vee gave her grandmother, and not the air beside a cheek: soft, lips to lips, and then it let her go.
 
 "See you soon, gorgeous."
 

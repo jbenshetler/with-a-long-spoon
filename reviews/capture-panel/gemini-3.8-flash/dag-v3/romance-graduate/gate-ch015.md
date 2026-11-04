@@ -1,33 +1,46 @@
-*capture-dag-v3-grounded · gate ch015 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ebe669bac981 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch014 · history ch001..ch014 · ledger no seed d713851d14da · 2026-11-02*
+*capture-dag-v3-grounded · gate ch015 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 65a246dca888 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch014 · history ch001..ch014 · ledger no seed 7515d534ce9a · 2026-11-03*
 
 REACTION
 
-I am screaming. I am literally clutching my head.
+*Jesus. Mary. And Joseph.*
 
-Look at the two halves of this chapter—the absolute, blinding contrast between Cassie's room and that velvet booth.
+That was an absolute psychological interrogation disguised as a girls’ Sunday lunch, and the hair on the back of my neck is standing straight up.
 
-With Cassie, it is so warm, so safe, so wonderfully *funny*. Cassie asking if Pace is gay because he’s a powerlifter who sews and had her half-naked on a box without pouncing, and Vee laughing so hard into the pillow she confesses: *"I was grinding on HIM."* That is real intimacy. It’s uncurated, goofy, tender sisterhood where nobody is keeping score.
+First of all, the contrast between the first half with Cassie and the second half with Randi is why Helen Rivers is running laps around every other romance writer right now.
 
-And then Sunday happens.
+In the dorm room with Cassie, everything is safe, grounded, hilarious, and real. Cassie is the only person who actually knows Vee down to her bones. The dynamic between them—Vee throwing pillows, Cassie deadpanning, *“You keep taking your shirt off in front of this guy and not getting any?”*—is pure gold. And then Cassie asking if he’s gay! That was so funny, so college, and Vee patting her own hip to announce: *“His package. Right here… Definitely not gay. I was grinding on him.”* It gave Vee permission to hold her desire as a funny, joyful, triumphant thing.
 
-The green Mercedes. The velvet booth. The tomato soup Vee orders because she reads the menu right-to-left while Randi orders poached salmon and twenty-dollar wine without looking at the column. The psychological extraction that Randi runs across that table made my blood run cold.
+And then comes Randi in the dark green Mercedes.
 
-Randi's opening play—the Hermès scarf and the headboard. "A little helpless can be a very good thing. Done right." She seeds the idea of submission, wraps it in silk, and then sets her trap. She turns the full wattage of her attention on Vee, drawing her out, teasing her, validating her (*"Nobody measures over a bra... it's just how it's done"*), dismantling every single defensive wall Vee built. Randi leads her right to the edge of the cliff—*"Then he's right in front of you. On his knees. Looking up. And what did he see?"*
+My god. The absolute *predatory mastery* of this woman.
 
-And right when Vee is about to confess the sacred, agonizing truth of her own soaked satin—Randi *cuts the line*.
+Look at how Randi opens the conversation in the booth: she fabricates an entire erotic scenario about a boy tying her to a headboard with an Hermès scarf and tickling her until she came. Why? Because it serves two calculated purposes at once: it seeds the idea of surrender and being helplessly pinned as an erotic thrill (*“A little helpless can be a very good thing. Done right”*), AND it creates an open, explicit container so Vee feels compelled to match her vulnerability.
+
+And Vee falls right into the river.
+
+Watching Randi extract every single detail of the measurement was like watching an operative work a mark in an interrogation room. But here is the terrifying brilliance of it: Randi isn't just fishing to get off on the idea of Vee. Randi is *torturing herself*. Look at the physical tells: the thumb jammed under the rim of the water glass, pressing so hard into the nail. Randi lived in that house! Randi knows the heat is turned up for naked skin. Randi knows about the platform. Randi knows about Pace on his knees. And hearing Vee confess that she was *fine*—that she didn't dissociate, that she didn't lock herself in the bathroom to cry, that Pace made taking her clothes off feel normal and safe and glad—Randi was practically bleeding out across that table.
+
+And then Randi leads her down the path, step by step: *“Which hip? The left one… all the best ones start at the left hip.”* (Chills! Pace used the exact same routine on Randi!)
+
+And then she pushes Vee right to the absolute ledge of confessing the wet satin: *“Then he’s right in front of you. On his knees. Looking up. And what did he see?”*
+
+Vee is about to give it up. Vee is leaning in, hypnotized, ready to bare her deepest, dirtiest secret—and what does Randi do?
 
 *"You don't have to tell me."*
 
-It wasn't mercy. It was an execution. Randi pressed until she knew beyond a shadow of a doubt that Pace had Vee on a pedestal, half-naked, wet, and worshipping her, and the second the reality of it materialized in the air, Randi couldn't stomach hearing the actual words. Her thumb driving the rim of the glass into her nail bed! She was suffocating on her own jealousy, slammed the door in Vee's face, called for the check, and shut down the intimacy like a switch being flipped.
+A soft door closing. The hush just… ends.
 
-AND THEN THE CAR.
+WHY DID RANDI STOP? Because if Vee said it out loud, it would confirm that Pace made Vee wet, that Pace saw it, and that Pace wanted it. Randi couldn't bear to hear the confirmation of her own obsolescence. She pushed the knife in until the point touched her own heart, and then she yanked it back and called for the check.
 
-*"Come here."*
-The hand on the hinge of the jaw. The mouth. The drawing-back and then *coming back for the second press with more behind it*.
+And then the fire lane.
 
-My jaw hit the floor. The jacket blurb has arrived! Randi didn't just kiss her as a Parisian goodbye. Randi kissed her because she is starving, territorial, furious, aroused, and utterly unraveling. She tasted the girl her boyfriend is making a silk dress for. And Vee standing on that curb, pressing two fingers to her bruised, confused mouth, desperately making excuses (*"It's a French thing"*) while simultaneously panicking that someone in the dorm windows saw her kissing a woman...
+Stopping in the fire lane—the exact place Pace stopped the truck! Taking Vee’s jaw. Kissing her directly on the mouth. Soft, lips to lips, taking her time.
 
-The trap didn't just close. The three of them are in the cage together now, and the fire has been lit.
+And poor Vee, standing on the curb with two fingers pressed to her lips, frantically bargaining with herself: *“French. It's a French thing… she does the kiss-kiss.”* Honey, that was not the two-cheek French kiss! That was a woman marking you. That was Randi taking the first real bite. And Vee’s immediate terror—looking up at all the dark dorm windows, panicking that someone saw her being kissed by a woman—brings all of Randi's repressed, closeted sorority terror right onto Vee's shoulders.
+
+The blurb warned us: *She is the first woman Randi has ever let herself want… Vee never lets herself notice how much she wants Randi too.*
+
+The physical line has been crossed. The game is spiraling out of everyone’s control. I need the next chapter right now.
 
 GATE 15 — How It's Done
 DECISION: CONTINUE
@@ -36,11 +49,12 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The contrast between Cassie's grounded warmth and Randi's predatory, jealous extraction across that velvet booth was breathtaking. And that kiss in the fire lane blew the entire dynamic wide open.
+WHY: The interrogation in the green velvet booth was an absolute masterclass in psychological tension, and Randi kissing Vee on the mouth in the fire lane blew the roof off the triangle.
 
 LEDGER
-+ LOVE: Cassie teasing Vee about Pace being gay until Vee admits she was the one grinding on him
-+ FEAR: Someone actually seeing Randi kiss Vee in the fire lane from the dorm windows
-~ F1.1 DEEPENED: Randi's sudden withdrawal at lunch ("You don't have to tell me") shows she cannot stomach the reality of Pace's devotion to Vee, even while hunting it
-~ F11.1 SHIFTED: Randi isn't just acting reckless to keep Pace—she kissed Vee on the mouth, crossing the physical line herself out of pure, jealous impulse
-+ SUSPICION: Randi kissed Vee not just to start the threesome, but to mark her territory after hearing about the riser
++ LOVE: Cassie immediately asking if Pace is gay and Vee patting her own ass to prove he isn't
++ FEAR: That Vee's shame over the kiss in the fire lane will push her to retreat just as Randi is closing in
+~ [F4.3] DEEPENED: Randi kissing Vee on the mouth while extracting every detail of Pace’s seduction proves the boundaries between the game, jealousy, and genuine lust are completely disintegrating
+~ [F8.2] DEEPENED: Vee telling Randi that Pace making the dress is "the most romantic thing anyone's ever done for me" shows how fatally invested she is in him
+~ [L9.2] SHIFTED: Randi's affection for Vee is no longer just protective sisterhood or a vicarious kink—she is actively, physically pursuing Vee for herself
+~ [F11.1] DEEPENED: Randi kissing Vee on the mouth in the car confirms she is moving aggressively to put herself in the physical center of this dynamic

@@ -118,7 +118,7 @@ Something had come into Randi's voice over the last few minutes. Vee heard it wi
 
 They stayed another hour. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
 
-Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small drawing-back and then the second press. Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them, the way she had the first time.
+Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft. Vee had half-expected it this time, and met it — and where it should have ended, it didn't: a small drawing-back, the barest pause, and then Randi came back to her with a little more before she let her go. Vee didn't look down the street for who might have seen them, the way she had the first time.
 
 Randi held her a moment by the shoulders and smiled, slow and soft, and let it sit. "See you soon, gorgeous."
 

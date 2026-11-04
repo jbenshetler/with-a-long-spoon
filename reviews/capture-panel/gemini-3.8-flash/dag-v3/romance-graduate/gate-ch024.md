@@ -1,20 +1,18 @@
-*capture-dag-v3-grounded · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e9e0311de50b · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 18de1bdd6b90 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a58c5d63131a · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 89ed79e52c26 · 2026-11-03*
 
 REACTION:
 
-I am screaming into a pillow. I am actually, physically screaming.
+I am sweating. My heart is beating so fast I can feel it in my throat. This chapter was an absolute masterclass in sensory seduction and psychological terror. The sheer, breathless *intimacy* of that sorority bedroom!
 
-The *audacity* of Randi. The absolute, terrifying, breathtaking psychological brilliance of what she just pulled off in that bedroom. When Vee walked up to that sorority house, I was bracing for Randi to seize on the fight, to turn Vee against Pace, to whisper poison into the crack in their armor. But Randi is ten times smarter than that. She didn’t weaponize the fight against Pace—she weaponized it to *tie Vee even closer to herself*.
+Look at what Rivers just pulled off: Randi gets handed the exact thing she thought she wanted—proof that Pace and Vee hit a wall, proof that Vee self-sabotaged out of pure insecurity—and what does Randi do? She doesn’t poison the well. She doesn’t drive a wedge. She *builds Vee up*. She validates Vee's jealousy ("You don't get that jealous over a man you don't care about... you ran it anyway, because you're *in* this"), reframes her catastrophic shame into undeniable proof of love, and then physically, exquisitely dresses her like a weapon to send back into Pace’s bed.
 
-"You don't get that jealous over a man you don't care about... He took *you*. On a Thursday. To a room full of women who'd have traded their teeth for your chair." Look at how masterfully she reframes Vee's deepest, ugliest insecurity into an intoxicating triumph. She hands Vee back her dignity, feeds her ego, and in the very same breath becomes the benevolent architect of her entire life.
+Why? Because Randi is so completely, head-over-heels gone for both of them that the fantasy of them together—and her being the architect, the puppet master, the one dressing the doll—is the only way she knows how to possess them without being shattered by them. "Maybe you just haven't met your Evil Queen yet." Christ! The self-awareness wrapped in playful banter is razor-sharp.
 
-And then the dress-up scene. My god. The eroticism of Randi kneeling beneath Vee’s skirt! The cool hands sliding up the bare leg, bracing high on the back of Vee's thigh, the thumb pressing into the soft hollow behind her knee—Rivers writes touch with such an insane tactile charge that I had chills. Vee is standing there in just her bra and skirt, completely oblivious to the fact that she is being physically and emotionally courted, dismantled, and claimed. And that brilliant line from Randi: *"Maybe you just haven't met your Evil Queen yet."* She's telling Vee the truth right to her face! She is literally casting herself as the gorgeous villain in Vee's fairy tale, and Vee just laughs into her hands because she thinks it's a joke!
+And the tactile eroticism of Randi kneeling beneath Vee’s long skirt? My god. The cool hands working blindly under the fabric, sliding up to steady Vee by the outside of her bare thigh, the thumb pressing into the soft hollow behind her knee, holding her balance while strapping her into those ridiculously expensive cognac heels... the heat between these two women is suffocating. It’s not subtext anymore. It’s an electric current running straight up Vee's bare legs. Vee standing there topless in just her bra, letting Randi loop silk around her throat, completely oblivious to the fact that Randi is dressing her like an offering, like a shared masterpiece.
 
-And the scarf. The silk scarf tying around her bare throat—the exact same scarf Randi claimed an "ex-boyfriend" once tied her with back in chapter 15! Randi is literally dressing Vee in her own erotic history, putting her own four-figure cognac leather on Vee's feet, claiming ownership of how Vee will present herself to Pace on Saturday night. She’s sending Vee back to Pace dressed as *Randi’s* creation.
+And then that goodbye kiss in the foyer under the composite photos of all those sorority sisters. No flinching. No rationalizing it away as a European greeting. *"Her mouth had just met Randi's. It was only what they did."* Vee is entirely broken-in. The title of this chapter is pure genius—it’s the shoes, it’s the lead in the dance, and it is Vee herself, slowly, seamlessly being molded to fit perfectly between the two of them.
 
-Then the goodbye kiss in the foyer. *"She hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."* The erosion of boundaries is total. Vee doesn't even question kissing a woman on the mouth anymore. Randi has normalized being lovers before Vee even realizes they're in a relationship.
-
-The dramatic irony is suffocating. Randi sent her off with: "Tomorrow night... you walk in there knowing you're going to make it right." Saturday night is going to be an absolute powder keg.
+Now Vee is walking into Saturday night with Pace in Randi’s shoes, Randi’s scarf, and Randi’s script. The collision course is set. I cannot turn the page fast enough.
 
 GATE 24 — broken-in
 DECISION: CONTINUE
@@ -23,11 +21,10 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi kneeling under Vee's skirt to slide four-figure heels onto her feet while soothing her shame was a masterclass in predatory tenderness. The boundary erosion is terrifyingly complete—Vee kissing Randi on the mouth without even flinching proves the trap has fully sprung.
+WHY: The physical and psychological intimacy in Randi's bedroom was breathtaking—Randi dressing Vee like an offering while sliding her hands up under Vee's skirt was scorchingly charged. Watching Vee seamlessly accept Randi kissing her on the mouth as "just what they did" shows the trap has completely, beautifully closed.
 
 LEDGER
-+ LOVE: Randi's chilling, self-aware joke ("Maybe you just haven't met your Evil Queen yet")
-+ SUSPICION: Randi gave Vee the green-and-gold silk scarf specifically because it's the one she uses for bondage, subtly branding Vee before sending her to Pace
-~ F23.1 RESOLVED: Randi didn't use the fight to tear them apart; she used it to become Vee's indispensable savior and dress Vee in her own clothes
-~ F11.1 SHIFTED: Randi isn't just rushing a threesome anymore; she has completely normalized kissing and physically dressing Vee, orchestrating both Pace and Vee like chess pieces
-~ S4.3 DEEPENED: Randi's elongated esses and arched vowels slipping out during the goodbye kiss as her control over Vee deepens
++ LOVE: Randi turning Vee's shame into power ("You were so far ahead you couldn't see the race") instead of using the fight to sabotage them
++ LOVE: Randi kneeling under Vee's skirt to buckle the cognac heels, bracing her hand high on Vee's bare thigh
+~ F4.3 DEEPENED: Vee kissed Randi back on the mouth without bracing or rationalizing it, proving she has fully surrendered to Randi's intimacy
+~ F23.1 RESOLVED: Vee confiding in Randi didn't result in Randi tearing them apart; instead, Randi weaponized Vee's confidence to send her straight back to Pace dressed in Randi's own shoes and silk

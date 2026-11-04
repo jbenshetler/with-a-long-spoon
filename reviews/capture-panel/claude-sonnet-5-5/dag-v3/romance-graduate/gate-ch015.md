@@ -1,18 +1,20 @@
-*capture-dag-v3-grounded · gate ch015 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ebe669bac981 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch014 · history ch001..ch014 · ledger no seed 0fbf58c1ffa9 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch015 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 65a246dca888 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch014 · history ch001..ch014 · ledger no seed 7c9e6e6632ed · 2026-11-03*
 
 REACTION
 
-Oh, this is the one that turns the knife. Two scenes, and the second is the cruelest thing the book has done to Vee, and she doesn't know it.
+Oh, this is the one. Randi hearing it, finally, and the book makes me sit through the whole thing in Vee's head, where I can only see half of what I know.
 
-The Cassie scene is warm and funny and I loved it, pillow-throwing and all. "I was grinding on him" is Vee at her most alive. But I'm reading the edit. She gives Cassie the box, the bra, the "May I look," and keeps the wet satin and the craned neck to herself. Everyone in this book is withholding the best part from someone. And Cassie, who has been the cost all along, gets the tender version and puts her hand on Vee's knee once and takes it back. That gesture undid me a little. She's still there, and she's watching Vee go.
+The Cassie scene first. It's warm, funny, and fast. "I was grinding on *him*" is a great Vee line. But watch what she edits. She tells Cassie the heat, the bra, the "he left me a door," and leaves out the wet satin and the face looking up. She tells Cassie "Like I was supposed to be there." Cassie's hand on her knee, once, and taken back. Cassie's "Are you sure he's not gay?" is her doing the thing she does, making a joke to stand beside Vee. I'm so glad Cassie got a scene. I'm also noticing it's the only time in a while Vee sat on Cassie's bed. Enjoy it, because I think the next one is a lunch.
 
-Then the lunch. Randi's new smile, slower and unperformed, is so good, and Vee talks herself into believing it. The scarf story is Randi dressing her own want up as a joke. "A little helpless can be a very good thing" is a confession in a sorority voice. And the interrogation: "Nobody measures over a bra." That's the knife. She hands Vee a casual rule so Vee will drop her shame, and it's both kind and a lever, the same move as the smoothie shop. Her thumb under the glass rim, the cap-under-the-nail echo from chapter 1: I saw it, and Vee read it as joy. The dramatic irony is brutal.
+And then the lunch. Randi's absent for five chapters and comes back and it's the most charged scene in the book. The scarf story is a plant, a come-on dressed as an anecdote. Vee's heat at the picture of Randi tied up is what I've been waiting to see her not name. Then the interrogation. "Nobody measures over a bra." That one made me furious and impressed. She's a grown woman using etiquette as a lever, and Vee thanks her for it. "Were there any challenges?" And Vee's "It was cold in the house," which is the worst lie in the book, and Randi's "Hmm." Then the walk down the left hip, the knees, "what did he *see*?"
 
-Then "What did he see?" and Vee about to hand over the wet-satin secret, and Randi says "You don't have to tell me." Closing the door on her own hunger. Because she'd hear it and break. I wanted to throw the book. Heat wise, the "challenges" and the left hip, that's a real 2 of voice and nothing more.
+Then she stops her. "You don't have to tell me." This is the whole book in a line. Randi is the one who's been shown her own wet satin. She wants it so badly that she shuts the door, because hearing it would break her face. Her thumbnail pressed into the glass is the bottle cap from chapter 1. I have not recovered from that. I love how Vee reads the tight face as judgment first and then, generously, as being moved. She gives Randi the kindest explanation, because she needs it.
 
-The kiss in the fire lane is the payoff, and the second press, the one with something in it, is the best beat. Vee explaining it away as French, then checking the windows in fear, tells me she knows exactly what it was. Good. Though the car-description paragraphs ran long and the restaurant inventory is the same room again. Vee's pricing math is great, and wine-cost-beside-soup said everything.
+The kiss in the car is the payoff. Soft, lips to lips, the hand at her jaw. Vee explains it away as French, and then panics that someone saw. That's mother's voice, plus a real want she has no shelf for. I'm so on board.
 
-I need Randi's head after this, urgently, and I need these two women alone.
+Complaints: the car is described to death, and so is the restaurant. The Rombauer money beat is good, but I'd trim the rest. "The tit goddess" read like the author trying too hard. The narrator also spells out "the door swung open" and "a door closing softly." I got it.
+
+Heat is a high simmer, almost a 2. It's all talk and one kiss, and I felt every inch.
 
 GATE 15 — How It's Done
 DECISION: CONTINUE
@@ -20,15 +22,17 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "The car was long and low and a green so dark it read as black until the sun moved on it" — the car and restaurant description ran long before the lunch got going.
-WHY: Randi pulling the leash and closing the door on Vee's secret, then the real kiss, is the turn I've wanted since the smoothie shop. The dramatic irony is vicious and I'm desperate for her side.
+ALMOST-STOPPED: "The car was long and low and a green so dark it read as black until the sun moved on it" — the Mercedes and restaurant inventories ran long before the lunch got going.
+WHY: The lunch is the scene I've wanted since chapter 3, Randi cutting Vee off at "what did he see" and then the kiss is the turn in the bond. Cassie getting a warm scene first makes the drift hurt more.
 
 LEDGER
-+ LOVE: Randi's "You don't have to tell me," the door she closes on her own hunger
-+ LOVE: Cassie's hand on Vee's knee, once, then taken back
-+ SUSPICION: Randi's "nobody measures over a bra" is a lever, and she may be steering Vee's shame toward Pace on purpose
-+ WAITING: Randi's own head after the kiss, and Vee alone with her
-+ FEAR: Vee withholds the wet satin from Cassie too, and she is now managing everyone
-~ F14.3 DEEPENED: Vee kept the wet satin from Cassie and Randi; Pace's side of the fitting is still unheard
-~ S3.3 DEEPENED: The new unperformed smile, the thumb under the glass rim, and the second kiss show how much Randi wants her
-~ F4.1 DEEPENED: Cassie got the edited version and a hand on the knee; she is watching Vee go
++ LOVE: Randi saying "You don't have to tell me" and shutting the door right at the secret, because hearing it would break her.
++ LOVE: The car-curb kiss, soft, lips to lips, and Vee explaining it away as French.
++ FEAR: Vee is turning every real feeling into something she can say at lunch, and the one she can't say (wet satin, being seen) is the one she's most dying to give Randi.
++ SUSPICION: Randi's tied-wrists scarf story is a message to Vee about helplessness and letting go, a rehearsal for the bench.
++ GRUDGE: "Nobody measures over a bra" is Randi using etiquette to make Vee feel safe in being steered, and Vee thanks her for it.
++ WAITING: Whether Vee will ever tell Randi the secret she half-gave, and what Randi does when she does.
+~ S13.4 DEEPENED: The two towels and the fitting are now reaching Randi, filtered through Vee, and Randi can't bear to hear all of it.
+~ F4.2 DEEPENED: Cassie got a lovely scene, but Vee kept the best parts for Randi, so the drift is about secrets now.
+~ S3.3 DEEPENED: Randi's thumbnail under the glass rim and "You don't have to tell me" show how much the want costs her.
+~ W14.4 SHIFTED: The shut bedroom door is still ahead, but Vee's secret is now about to go to Randi first.
