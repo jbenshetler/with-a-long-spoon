@@ -1,28 +1,26 @@
-*capture-dag-v3-grounded · gate ch004 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 43278c09dc6d · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed 33b196b0becc · 2026-11-02*
+*capture-dag-v3-grounded · gate ch004 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ef9323e0685c · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed b78f6aa687a3 · 2026-11-03*
 
-REACTION
+REACTION — God, my chest aches. Watching this trap spring from the *inside* of the animal walking into it is completely harrowing.
 
-Oh, Vee. My sweet, beautiful, completely doomed girl.
+The jacket told us: *She is twenty-one and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough.* But experiencing Vee’s internal monologue—how completely starved she actually is for glamour, for touch, for warmth, for being *chosen*—makes Randi’s performance feel terrifyingly predatory. Randi is wielding her social fluency like a scalpel, and Vee doesn’t even feel the cut because she’s so busy being dazzled by the light.
 
-Getting inside her head after three chapters of watching the trap being designed and sprung is absolute, breathless agony. Helen Rivers is so cruel for this. The sheer dramatic irony of knowing *why* Randi is at that lecture, *why* she slid into that row, *why* she bought the lavender oat-milk latte—while Vee is sitting there like an abandoned puppy who just got handed a warm bowl of cream and a golden collar. She walked back from that coffee shop "not feeling her feet," thinking she had just been borrowed into a brighter life. I felt physically sick with how tenderly, exquisitely sad that is.
+And the dramatic irony is off the charts. Vee thinking Randi’s vowel shifts are from "a school in Switzerland" or "Paris," when we literally know it’s *Kentucky* slipping out because Randi is rattled and excited! Vee noticing that Randi has a single room and thinking it means she’s royalty, when we saw Randi lying dissociating on that cold bed in last night’s clothes under a synthetic duvet! Vee thinking, *I say four hundred words and nine land,* when every single word out of Randi’s mouth was calculated to bring Vee closer to a walnut bench in a graduate student’s bedroom.
 
-And the psychology of Vee is already jumping off the page in three dimensions. She isn't an empty vessel or a ditzy naive ingenue; she has her own sharp, deeply repressed inner landscape. That entire scene inside Chi Latte—looking at the cropped tanks and low waistbands, having her mother's puritanical voice fire off the word *"Floozies,"* and then immediately underneath it, the quiet, undeniable heat of knowing: *I have more than they have, and better than any of them, the leggings and the crop would do on her what they did not do on the mauve one.* But she keeps herself wrapped in the cardigan to the collarbone because of the shame. God. She is lush, she knows her own power, but she's starved for permission to exist in it. And who just handed her the key to the castle? A girl who is literally starving herself, who polices every calorie and every hemline, and who is hunting Vee like a prize feast.
+Then there’s Cassie. Cassie is the Cassandra of this story, isn't she? That flat, heavy *"Goodbye, Vee"* instead of *see you later*—chills. Cassie sees the bright, shiny, manicured predator at the edge of the herd and wants no part of it, but she can't pull Vee away because Vee is practically vibrating with the need to be consumed by it.
 
-Also, Cassie! That small moment in the lecture hall was a quiet masterclass. Cassie seeing right through Randi's shiny, performative bit and declining to play along. And then that line: *"Goodbye, Vee."* Not "see you later." *Goodbye.* Cassie clocked the shift in the atmosphere immediately. She knows Vee just crossed an event horizon, and Vee was too dazzled by cold citrus and expensive cashmere to hear the warning shot.
-
-The detail about Vee trying to remember what they actually talked about and coming up with a blank transcript? Brilliant. That is exactly what high-wattage charisma does to someone who is lonely. You don't remember the content; you just remember the light falling on you. Randi didn't just give her attention; she manufactured an addiction in under sixty minutes. "Every yes was freely given. That was the problem." That blurb line is echoing in my skull like a funeral bell.
+And Vee’s body shame and longing! Watching her stare at the girls in the sports bras, hearing her mother’s voice call them *floozies*, and beneath it that secret, hot knowledge that she has more to give, better curves, a fuller body, but keeps herself covered to the throat—she is so ripe for Pace and Randi it makes me want to scream. She is begging to be unwrapped. She thinks she was chosen because she had the "right pen." She has no idea she was chosen because a girl came on a man's cock while he asked if she wanted to taste another woman. Rivers is writing this with sickening precision.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Slipping into Vee's POV and watching her fall completely, helplessly under Randi's engineered spell made my stomach drop in the best way. The dramatic irony is delicious and heartbreaking.
+WHY: The shift to Vee's point of view makes the trap infinitely more devastating. Watching her drink in Randi's orchestrated affection while being totally blind to the machinery behind it is masterclass psychological suspense.
 
 LEDGER
-+ FEAR: Cassie seeing Vee slip away into Randi's orbit and letting her go without a fight
-+ LOVE: Vee’s suppressed awareness of her own lushness—she knows she has more than the sorority girls, she just hides it
-+ SUSPICION: Randi's long esses and arched vowels—Vee thinks it's a Swiss boarding school, but it's another layer of carefully constructed armor
-~ W3.3 ANSWERED: Seeing Randi and Vee interact in stats class without Pace around
++ LOVE: Vee’s interiority—the ache of being quietly bigger, quieter, and hungrier than the manicured world around her.
++ SUSPICION: Cassie clocked that Randi was dangerous or fake within ten seconds of meeting her.
++ FEAR: That Vee is going to fall entirely, genuinely in love with Randi while Randi thinks this is just a game for Pace.
+~ F1.1 DEEPENED: Randi has executed the first phase of the hunt flawlessly; Vee is totally hooked and has no defenses against her.

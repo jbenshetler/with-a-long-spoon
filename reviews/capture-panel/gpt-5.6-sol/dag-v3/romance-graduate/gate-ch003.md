@@ -1,16 +1,22 @@
-*capture-dag-v3-grounded · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5661ad3880e1 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed 6effa6091fb2 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c83a255bd240 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed acb60b7d057f · 2026-11-03*
 
-REACTION — Oh my god, there she is. Vee walked out laughing with her whole body and I felt the book click into its real shape.
+REACTION — Oh, there it is. There is the game, and it is so much more seductive and more dangerous than I expected.
 
-That first naked “Yes” from Randi absolutely got me. Not the kitten voice, not the girlfriend generously arranging a threesome for her man, just desire reaching her mouth before the face could intercept it. And then the happy little footwork when she came back with Vee’s name—I’m gone. That is the first uncomplicated delight I’ve seen in her. She isn’t merely permitting this because Pace wants it. She is lit up from the inside by wanting a woman, and specifically this woman, and for one second she cannot make herself smaller or safer or more legible. I love her for that. I am also deeply relieved that her taste is not another polished little replica of herself. She wants warmth, appetite, physical abundance, someone laughing too hard to remember she is visible. Of course she does.
+The question making Randi come before she could protect herself was brutally hot. Not because her body “betrayed” her in some cheap way, but because the wanting arrived before she could convert it into something socially survivable. And then she did convert it: not *I want a woman*, but *I’ll give you a threesome*. A sexy girlfriend’s gift to her boyfriend. Of course. I felt the little lock click into place even while Pace was congratulating himself on finding a door.
 
-The sex was scorching because Pace asked the question at exactly the point where her body could answer before her terror did—and then, crucially, he knew that answer was not permission. That distinction matters enormously to me. His decision to ask again when she was gathered back into herself was the grown-up intelligence I came here for, and her “only in a threesome, with you” was devastating because he reads the disguise perfectly and still lets her keep it. He knows she has converted her own hunger into a gift for him. He does not expose her or correct her. He builds a door she can currently walk through.
+And Pace—God, he turns me on, and I do not trust him. “He knew her body’s answer. He did not take it for her answer” is exactly the distinction I need him to understand. Then five minutes later he has built an entire afternoon around the conviction that she wants this, with no actual conversation about what approaching a stranger might mean. He gives her the choosing, yes, and that matters enormously; I could feel Randi come alive the second she understood that he would point and she would pick. But he still designed the game, set its rules, selected the field, and watched her inside it while thinking he was setting her free. His attentiveness is so precise that it keeps threatening to become authorship.
 
-But I am now frightened of how much he enjoys being right about her. The pointing game is hot as hell: “I point. You pick” would have taken me straight out at the knees. Choosing is genuinely what unlocks her. Yet Pace keeps sliding from seeing what she wants into believing he knows how to deliver it safely. He is so pleased with the elegance of the game, with the clean line between her body’s truth and his plan, that he does not appear to be thinking very hard about the third person. Vee is currently a vivid human being to me and an answer to Randi’s hunger to him. He watched Randi manufacture an accident so perfect that Vee apologized for it, and his response was desire and admiration. I admired it too—it was astonishing—but that is exactly why my stomach is tight.
+The pointing game itself got me. Randi’s taste emerging through her refusals was deliciously intimate—the mirror was too expected, the matched pair too sealed, the commanding blonde an immediate absolutely not. Then the soft girl in the beanie got a maybe, and I understood before Pace quite did that Randi was not looking for another polished woman to compete with. She wanted warmth. Openness. Someone who occupied her own body without grading it every second.
 
-And Randi asking whether Vee will like the bench? Jesus Christ. Hot, yes. Also terrifying. She has known Vee for two minutes and is already imagining her inside the most exposing experience of Randi’s life. Is that generosity—wanting to give Vee the aliveness she found—or is it a way to master what happened to her by putting someone else there and standing on Pace’s side of it? Probably both, which is why I’m already reading the next chapter.
+And then Vee. Oh no. Of course Vee is lush and laughing with her whole body, entirely outside the scale Randi has spent her life starving herself to fit. Randi doesn’t merely find her attractive; she looks at Vee and sees a way of being alive she has forbidden in herself. That bare “Yes” was the hottest moment in an already very hot chapter. No kitten voice, no gift for Pace, no plausible deniability—just yes. For one second, wanting was allowed to be sufficient.
 
-Then “Let’s go feed you” landed like a hand closing around the whole book. He means food, care, sex, women, permission, appetite—all of it. Randi said she was hungry and automatically refused the cheeseburger; by the end she has chosen Vee with her entire body. I want this for her so badly. I do not trust what they are about to do with it.
+But Vee does not know she has just been chosen by two people who are already imagining her naked. Pace’s internal pictures made that imbalance impossible to ignore. Randi manufacturing the collision so beautifully that Vee believed she had caused it was thrilling to watch and also made my stomach turn. Vee’s apology, her fluster, the fact that her own kindness becomes the opening Randi uses—this is exactly what the jacket warned me about, but seeing the mechanism begin is worse. Randi is not stumbling toward her. She is deploying years of social training with surgical accuracy. Poor Vee thinks she met a glamorous woman by accident.
+
+And still, Randi’s joy nearly broke me. The happy little footwork. The squeaked yes. Her coming back lit up because Vee has a name and a class with her. That felt less like a predator celebrating access than a starving woman discovering appetite can be fun. I want to preserve that delight for her even while I want somebody to protect Vee from the plan growing around her.
+
+“Do you think she’ll like the bench?” frightened me. Randi has taken the site of her own most exposed, destabilizing experience and immediately imagined Vee on it. Is this generosity—*I want her to have what I had*—or displacement—*I want to watch it happen to someone else so I can approach it safely*? Obviously both, and that is why I’m already in trouble.
+
+Then Pace says, “Let’s go feed you,” and I wanted to melt and slap him at the same time. He sees the cheeseburger she cannot let herself eat. He sees the woman she cannot let herself want. He believes he can feed both hungers. That tenderness is real. So is the possibility that he is turning Randi’s hunger into a project whose shape he gets to choose.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -19,16 +25,16 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi’s bare first “Yes” and her delighted little footwork gave me the first glimpse of her wanting without shame, while the perfectly engineered collision made the promised plan feel seductive and morally dangerous at once. I need Vee’s side of this immediately.
+WHY: Randi’s unguarded “Yes” gave me the exact collision of heat, interiority, and danger I came for. I need Vee’s side now, because what feels like liberation to Randi has begun with a beautifully engineered lie.
 
 LEDGER
-+ LOVE: Vee laughing with her whole body, lavish and uncurated, before she has any idea two strangers are building a future around her.
-+ LOVE: Randi’s helpless bare “Yes,” followed by the tiny burst of happy footwork when she returns knowing Vee’s name.
-+ FEAR: Pace and Randi will treat Vee’s eventual choices as sufficient consent while concealing the structure they built to produce those choices.
-+ SUSPICION: Randi wants Vee partly because Vee embodies everything Randi has been trained to deny herself—appetite, abundance, warmth, and the freedom to forget she is being watched.
-+ WAITING: I need to enter Vee’s head and discover what Randi’s flawless “accidental” meeting felt like from the person being chosen.
-~ F1.2 DEEPENED: Pace correctly separates Randi’s involuntary bodily answer from her actual permission, but his pleasure in reading her is already expanding into confidence that he can design this experience for all three of them.
-~ L1.4 DEEPENED: Randi’s hidden hungry self broke through in daylight twice—first in the unadorned “Yes,” then in the delighted footwork she could not contain.
-~ W1.7 ANSWERED: This is how Randi begins choosing Vee: Pace gives her a game in which her desire can masquerade as something they are doing for him, and Vee’s aliveness makes the disguise briefly fail.
-~ F2.1 SHIFTED: Randi is still relocating ownership of her hunger, but now she makes wanting Vee into a sexy gift for Pace rather than a desire she must deny outright.
-~ S2.3 CONFIRMED: Randi’s containment strategy is to recast her own desire as girlfriend performance—“only in a threesome, with you”—so the dangerous wanting belongs to the couple instead of to her.
+~ F1.1 DEEPENED: Vee is already becoming the place where Randi can put her forbidden hunger; imagining Vee on the bench lets Randi approach her own exposure from the safer position of chooser and watcher.
+~ G1.3 DEEPENED: Pace correctly refuses to treat Randi’s orgasm as consent, then still builds an entire game around what he believes her body has revealed and casts himself as the man who can show her what she wants.
+~ S1.4 CONFIRMED: The game with Vee begins directly in Randi’s need to translate wanting a woman into something she and Pace are doing “for us.”
+~ W1.6 DEEPENED: Pace sees every flicker of Randi’s camouflage and still believes he is drawing her into freedom; he does not see that she is using the game to keep her desire survivable.
+~ F2.1 SHIFTED: Randi is not currently rewriting Pace as coercive; instead she converts her own desire into a gift for him, preserving his authorship while hiding her hunger inside it.
+~ S2.3 FADED: “Cute” contained Pace for the house, but it is not containing what happens between them; in private she is letting him lead her into something much larger.
++ FEAR: Vee’s warmth, openness, and instinct to apologize will make her especially easy for Randi and Pace to steer without ever realizing she entered a designed encounter.
++ LOVE: Randi’s helpless bare “Yes,” followed by the tiny happy footwork when she returns with Vee’s name.
++ SUSPICION: Randi wants Vee partly because Vee inhabits the lush, hungry, ungraded body Randi has been trained to deny in herself.
++ WAITING: I need Vee’s point of view on the collision and on the glamorous woman who has just arranged to enter her life.

@@ -1,35 +1,33 @@
-*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 43278c09dc6d · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed 009cf5273699 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ef9323e0685c · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed 0b917be53be1 · 2026-11-03*
 
 REACTION
 
-Oh, this is so good, and so uncomfortable. We finally get Vee from the inside, and the dramatic irony from chapter 3 does the work with no help from the narrator. We watched Randi engineer that collision. Now Vee remembers it as "genuinely not clear, one of those collisions where both people apologize." She has the best hour of her year, and she can't recall a single thing Randi said. "The leaning-in was the whole content... the transcript was blank." That's the chapter. It's how being worked actually feels from inside, and it's a little chilling.
+So now I'm in Vee's head, and it's the first time the book has made me feel what the jacket promised. We've watched Randi shop for her from the outside, and now I get to watch her get shopped, and I know every move. The "oh my god, we should sit together." The squeeze on the forearm. "I'm going to copy off you all semester." "I've decided." "Love you, girl." "See you later." Every one is a hook. Vee reads them as luck. That's cruel, and it works on me, because I know how much Randi's wanting is under all that warmth.
 
-Vee has real interiority, which was my worry. The room-reading is sharp. The "floozies" in her mother's voice, followed by the longer look than the word accounted for. The cardigan she wears on purpose, "and the room did not know it was a choice." She's wanting something she hasn't named, and she's already sorting herself into "the most of what the room was selling and the one with the most fabric on." I love her for it, and I'm braced for what the plan does to her.
+The thing I loved most is the transcript going blank. She can't recall a single word of an hour she hung on completely, because the feeling was the content. That's exact. It's also a little chilling, because Randi is performing and Vee is the one holding the evidence of nothing.
 
-Cassie is the one I'm nervous about. Randi's name bit gets met with one flat word, and Randi invites her, "Cassie. Come," as though the invitation were a trap door. Then "Goodbye, Vee." Not "see you later." It's the opposite of Randi's "See you later" at the end, which is a clever pairing. Cassie reads like the only person who can see the machinery. And the "four words a day" line, where Vee smooths it into a feature, shows how fast Vee papers over her own friend. I suspect Cassie is the cost of this.
+Cassie is my favorite thing here. Four words a day, the flat name that refuses the bit, and then "Goodbye, Vee," the full finished word. It reads like a small foreshadowing, or just a friend who clocks what Vee can't. I'm worried about her. Vee covering for her ("tea leaves") while Cassie quietly sees it is a very good little wound.
 
-The Randi we see is also slightly off, and good. The accent is the thing. I can't tell whether I'm meant to wonder if it's a put-on, since in ch.1 and 2 she had a sorority-girl voice. The Swiss school and the Paris year are Vee's guesses, and Randi never actually claims them. Is she building a persona for Vee? I'm suspicious. Randi's warmth is also perfectly calibrated, down to "I've decided," and I know what it costs her.
+I also liked the café floozies beat: her mother's voice arriving whole, then the look that runs longer than the word, then the cardigan as a choice nobody knows is a choice. That's the starvation from the jacket, and it's the interiority I want. Her noticing Randi's accent as "somewhere abroad" while I know it's Kentucky and a sorority voice is nice dramatic irony again.
 
-The weak spot is zero heat. HEAT 0. Third non-sexual chapter in a row, really, if you count ch.2 and the walk. This one is tense and clever enough that I'm not skimming, but I want Pace and the bench soon. The coffee-shop catalogue also ran a bit long, with the Greek pun getting more explanation than it needed.
+But there's no heat. Zero. And it's the second chapter in a stretch that's mostly setup. The "want you keep for a thing you've only seen from a distance" tells me the thing I already got. Some narration is over-explained ("the queen having decided"). A few sentences ran long on the room description. I'd skim a third of the café catalogue.
 
-Still, I want chapter 5 badly. I need to see what Randi does with this after she turns the corner. And I want Pace to meet her.
+Still, I'm fine, because the dread is pulling me. Next I want Randi and Pace to hear about it, and I want to see the bench.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
 HEAT: 1
 ROMANCE: 1
-ALMOST-STOPPED: "the sprinter's cut of the leaner one's stomach, how low the other one's waistband sat" — the room inventory ran long and the Chi Latte pun was explained past its welcome.
-WHY: Seeing the engineered meeting from the target's side, with every warm beat now readable as technique, is devastating in a quiet way. Vee finally has a mind of her own, and Cassie's "Goodbye" is a hook. I'm just ready for heat to catch up.
+ALMOST-STOPPED: "the matched uniformed prettiness of girls who had gotten ready together and would leave together."
+WHY: Dramatic irony of being on the receiving end of Randi's charm is delicious, and Vee's interiority is the real thing. No explicit heat this time, so I want the payoff soon.
 
 LEDGER
-+ FEAR: Cassie, the one person who sees through it, is the cost. Vee smoothed her over twice and will drift from her.
-+ LOVE: Vee's room-reading and her cardigan-as-choice, with "floozies" in her mother's voice and the longer look underneath.
-+ LOVE: "The transcript was blank." Being worked, felt from inside.
-+ SUSPICION: Randi's lifted accent and vague abroad-background may be a persona built for Vee, or a mask she wears only here.
-+ SUSPICION: Cassie's "Goodbye, Vee" means she senses something wrong, or something is actually ending.
-+ WAITING: Pace meeting Vee, and Randi's first real attempt to move from coffee to the bench.
-~ W3.4 ANSWERED: Vee's first meeting from her own side, with the "stats class" as the hook and Randi's "we should sit together."
-~ S3.3 DEEPENED: Vee at the high table with the cardigan on, glowing and unguarded, is the opposite of Randi and the thing Randi lacks.
-~ F3.2 DEEPENED: The warmth Vee can't remember is Randi's technique, and the bench is still coming.
++ LOVE: Cassie, flat and perceptive, and her "Goodbye, Vee"
++ FEAR: Cassie is going to be pushed out of Vee's life as Randi takes over
++ LOVE: Vee's blank transcript, a whole hour kept as feeling and no words
++ SUSPICION: Vee's mother's voice ("floozies," "nice girl") is the lock Randi and Pace will have to pick
++ WAITING: Randi and Pace comparing notes on Vee, and the first time Vee is on the bench
+~ W3.4 ANSWERED: Vee is on the page, starving and easily charmed
+~ F3.2 DEEPENED: Randi is deliberately warming Vee into an invitation, and Vee thinks it's luck

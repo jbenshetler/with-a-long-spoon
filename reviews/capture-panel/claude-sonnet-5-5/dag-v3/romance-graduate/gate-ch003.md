@@ -1,33 +1,32 @@
-*capture-dag-v3-grounded · gate ch003 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5661ad3880e1 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed d363ec260c0a · 2026-11-02*
+*capture-dag-v3-grounded · gate ch003 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c83a255bd240 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed ca2ad5eef038 · 2026-11-03*
 
 REACTION
 
-Oh. Oh, that's the turn. We're in the engine room now, and the jacket's "game Randi and Pace started in bed" gets its first real scene. Pace asks "Would you like to taste another woman?" mid-fuck, and her body answers before she can. She comes hard. Then he asks again afterward, in daylight, and watches her flinch. Her recovery is "Only in a threesome. With you." I felt that one in my teeth. She turns her want into a gift for him so she can survive it, and Pace sees through it and admires it, and decides to take the cover story as the way in. That's the chapter. Two people being clever and kind in a way that's going to hurt.
+So there's the answer to my ch1 question, and it's a gut-punch. Vee isn't an accident. Randi is *shopping*. Pace points, she picks, and she picks the one woman who makes her drop the frame. The "Yes" with nothing around it, the follow breaking frame before the lead calls the step. I felt that in my stomach, because I know what ch1 Randi decided about never coming out again. And here she is, coming out in broad daylight over a redhead, then dressing it as a gift for her boyfriend: "Only in a threesome. With you." That cover is brilliant and sad. Pace sees through it and calls it beautiful, and he still decides to run with it. That's the jacket's "every yes was freely given" turning into something with teeth.
 
-The pointing game is great. It's low-key hot, and mostly clothed. Every woman Randi rejects tells me about her: too expected, both or neither, "God, no" to the performer. Then the redhead, and she stops mid-step and says "Yes" with nothing around it. Pace watching her aim her whole trained instrument at a stranger, the "accident" collision, the half-beat too long on the arm, was a charge I didn't expect. Then Vee is the redhead, laughing with her head thrown back like she's forgotten she can be seen. That's the opposite of Randi. It makes sense of everything.
+The opening heat is good. Mouth, the taste of herself, the question landing in her body before her brain. She comes hard from a *question*. That's hot, and it's about her interior, not choreography. The pointing game is a great device. Walking the quad and grading women by Randi's grammar, with "Too expected" and the Kentucky vowel slipping, is voyeuristic, and I was totally in it. The collision on the walk is nicely staged.
 
-The ache is that Pace is, again, so tender and so sure. "He did not take it for her answer" is the right instinct. But he's still engineering her toward the want. I think the "yes" he's steering toward isn't free, whatever he believes. "Every yes was freely given. That was the problem" is starting to sit on my chest. And the final line, "Do you think she'll like the bench?", turns it. The thing that broke Randi open is now the offering. And Pace answers "Let's go feed you," which is the sweetest and most unsettling thing in the chapter.
+Gripes: Pace is almost too wise and too pleased with himself. His head is a warm bath of "I admire how she did that," and the narrator keeps explaining what she's hiding ("the want had shown itself"). Some paragraphs, like the campus description, run long. The line "He wanted her himself" got a snort. And the closer, "Do you think she'll like the bench?", is chilling. The bench is the thing Randi went behind a deadbolt over, and now she wants to put Vee on it. Is she doing to Vee what was done to her, or giving Vee what she can't have herself?
 
-Complaints: the sex at the top is thinner than chapter 1, more summary than scene. The cheeseburger "I can't eat that" is a good small beat, though I'd have liked it to land harder. A few descriptions are a bit catalogued (the matched-pair girls). And it's mostly Pace's head, so I lost some of Randi's interior, which I wanted. I got a little tired of "he watched it work through her." I'd like her point of view back.
+Also, "Let's go feed you" is Pace the nurturer, and I notice how the food thread keeps the cheeseburger refusal alive. Good.
 
-Still, strong momentum. I want chapter 4 now.
+I'm in. The timeline is moving, and I want Vee on the page.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "He watched it work through her. For the first beat she was simply confused..." — Pace's over-reading of her, again, felt a touch long.
-WHY: It finally shows the plan's origin and the birth of Vee, and it keeps the dramatic irony from chapter 1 sharp. Randi's "yes" and her "only with you" cover story are the best things so far.
+ALMOST-STOPPED: "He wanted her himself."
+WHY: Heat plus the dramatic irony of Randi's unguarded "Yes" is exactly the pairing I want. It's a little over-explained, but Vee's name landing makes me desperate for chapter 4.
 
 LEDGER
-+ LOVE: Randi's "Only in a threesome. With you." and the pointing game's accidental self-portrait through every "no."
-+ FEAR: Pace's tenderness is steering her toward Vee, and the bench, the thing that broke her open, is about to be used on a girl who doesn't know she's chosen.
-+ SUSPICION: Vee is Randi's opposite (unguarded, laughing, unaware of being watched), and that's exactly why Randi wants her.
-+ WAITING: Vee's first meeting from her own point of view, and how the "stats class" gets used.
-~ W1.5 ANSWERED: Here is the plan's origin, with the question in bed and the redhead on the quad.
-~ W2.4 ANSWERED: What turns shut-down Randi toward Vee is Pace's question, her body's "yes," and the cover story.
-~ S1.3 CONFIRMED: Vee is Randi's proxy for a want she can't own.
-~ S2.3 DEEPENED: Hiding things from the house and from herself continues; "With you" is the same kind of cover.
-~ F1.1 SHIFTED: Pace doesn't push at what she locked away; he builds a game around it that she can safely say yes to.
++ LOVE: The pointing game, and Randi's bare "Yes" breaking the frame at the redhead.
++ FEAR: Randi is about to do to Vee what was done to her, "Do you think she'll like the bench?"
++ SUSPICION: Randi's "only with you" cover means she's using Pace as a shield for her own wanting.
++ WAITING: Vee on the page, finally, and what she's like.
+~ W1.7 ANSWERED: Vee is the redhead with the cinnamon freckles, and she shares a stats class with Randi.
+~ S1.6 CONFIRMED: This is the pre-Vee setup, and the game began in Pace's bed.
+~ W2.4 ANSWERED: What turns Randi toward Vee is wanting her, hidden under "a gift for him."
+~ F1.1 SHIFTED: Randi hasn't vanished from Pace. She's performing a threesome instead.
