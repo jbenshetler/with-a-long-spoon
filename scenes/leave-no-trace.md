@@ -90,7 +90,7 @@ He pulled sandwiches from the pack, wrapped in wax paper twisted at the ends, an
 
 She didn't have anything to do with that but eat. She bit.
 
-The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her around the mouthful.
+The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour, and then the meat under it, red and full, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her around the mouthful.
 
 "Oh—that's—"
 
