@@ -6,7 +6,7 @@
 
 The sheet had gone cool everywhere her skin wasn't touching his, and she lay in that cooling with the whole day still loud in her body and let it come back to her.
 
-A week since the last time, the longest they'd gone — the conference, several days of it, and a brutal week on campus on top of it, so the midweek night they'd have stolen never happened and the seven days stood empty between them.
+A week since the last time, the longest they'd gone — the seminar in Boston, several days of it, and a brutal week on campus on top of it, so the midweek night they'd have stolen never happened and the seven days stood empty between them.
 
 Then the door swung wide before she reached it and she was off the ground. He had her up under the arms and around, her feet swinging out, the porch light wheeling once behind his head, and she heard the sound that came out of her, a bright stupid sound she'd have died of anywhere else. He didn't set her down so much as let her slide the front of him until her toes found the boards, and by then her hands were already at his shirt.
 

@@ -85,7 +85,8 @@ Sentence-by-sentence consistency/logic audit (`audits/line-audit/the-usual.md`).
 
 - **"California in November"** (:17) — conflated the Wed Oct 28 Berkeley trip
   with the early-Nov Chicago trip (chronology guard 20: don't collapse them).
-  Now "California in October."
+  Now "California in October." *(2026-11-04: the November trip is now a
+  Boston seminar and Berkeley a workshop — "for a workshop"; guard 20.)*
 - **"She dragged the shake back over"** (:49) — "back" implied unshown
   displacement; author recast to "She sucked down an inch of the shake."
 
