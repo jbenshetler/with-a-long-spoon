@@ -114,12 +114,38 @@ def chapter_number(slug: str) -> int | None:
         return None
 
 
+# Reads filed under a slug that no longer names the chapter holding that prose. A merge,
+# rename or restructure moves text verbatim, so praise of it still counts; without this
+# map a cut in the surviving chapter never sees the reads of the chapter it absorbed.
+# Keys are current slugs; values are the old slugs whose reads cover some of its prose.
+# (2026-11-04: the experiential-order restructure split the old above-him across two
+# chapters, so it appears under both.)
+PREDECESSORS = {
+    "above-him": ["in-his-hands"],
+    "school-nights": ["above-him", "strokes"],
+    "space": ["hills-and-valleys"],
+    "cropped": ["seconds"],
+    "leave-no-trace": ["rye"],
+    "substitution": ["long-way"],
+    "dear": ["off-six-fourteen"],
+    "how-its-done": ["turned-up"],
+    "sorority": ["all-told"],
+    "fed": ["toenails"],
+    "missed-a-spot": ["forbidden-kiss"],
+}
+
+
 def review_files(slug: str, rev: str | None = None) -> list[Path]:
     n = chapter_number(slug)
-    pats = [rf"^reviews/cold-read/[^/]+/{re.escape(slug)}\.md$",
-            rf"^reviews/authorship-audit/[^/]+/{re.escape(slug)}--[^/]*\.md$"]
+    pats = []
+    for s in [slug] + PREDECESSORS.get(slug, []):
+        e = re.escape(s)
+        pats += [rf"^reviews/cold-read/[^/]+/{e}\.md$",
+                 rf"^reviews/authorship-audit/[^/]+/{e}--[^/]*\.md$",
+                 # capture reads retired by a merge or restructure keep the old slug
+                 rf"^reviews/capture-panel/[^/]+/dag(-v3)?/[^/]+/read-(merged|retired|restructured)-{e}-ch\d+\.md$"]
     if n:
-        pats.append(rf"^reviews/capture-panel/[^/]+/dag/[^/]+/gate-ch{n:03d}\.md$")
+        pats.append(rf"^reviews/capture-panel/[^/]+/dag(-v3)?/[^/]+/gate-ch{n:03d}\.md$")
     if rev:  # the reviews as they stood when the cut was made
         listing = git("ls-tree", "-r", "--name-only", rev, "reviews/").splitlines()
     else:
