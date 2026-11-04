@@ -1,30 +1,31 @@
-*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
+*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 **REACTION**
 
-Oh my God. Oh my GOD.
+Okay. *This* is what I asked for at the end of my notes: a new room, new bodies, and someone saying a true thing out loud. I got Sheri, and I'd follow Sheri into a burning barn.
 
-It's the same night. I had to scroll back and check the dateline. Thursday, January 21. Vee is in her dorm in his flannel, buttoned up, lying on her own damp patch, "her mouth was still empty." Meanwhile Randi, the woman who just said "Tuesday" to her on the sidewalk, is coming against Pace's mouth with her heel in his back. The first line didn't ease me in. It put me straight in the bed, and I physically sat up.
+The first section had me furious with Pace in the old way. "We cycle." "She dances." He hands those over his shoulder at the sink "like a dried spoon," and he glances back and takes in her face "the once" before he turns back to the pan. After 61 I don't believe this man does anything without knowing he's doing it. He saw the cold go through her and let her carry it for a week. Then she buckles on the induction heels as armor, Randi's shoes again, against a woman she invented, and I wanted to shake her and hug her at once.
 
-And the taste. The book did it to me on purpose, didn't it. Vee spent the whole last chapter one breath from her own fingers and couldn't close the distance. Randi pulls him down, tastes herself on his tongue "with a low sound," licks his lip clean, wipes the corner of his mouth with her thumb and sucks it. "There. Now it's mutual." She does it with no hesitation and no Victorian hand over the mouth. Then later she cleans the two of them off him with her tongue. Every single thing Vee couldn't do, Randi does like breathing. I don't need anyone to tell me what that means, and nobody did. I loved that. It trusted me completely.
+Then Sheri gets off the stool and the blonde "fails to find anywhere to stand." I laughed. The look is the best thing in the chapter. It travels down Vee, stops at the keyhole, stops again at the feet, and lands on a held *oh*. Vee realizes it's *enjoying* her, and a month of dread leaves her body as a laugh nobody prompted. That's the queer thread waking up through someone else's eyes, and the book doesn't explain it. It just lets her laugh and stick her hand out "formal as a church greeter." I loved that.
 
-Now the part that has me pacing my kitchen. Every confession from those two dinners went straight into this bed. The neck kiss, "again," so the very kiss from four hours ago. "She kisses me first now." "She looks at you, too." Those are Vee's stories, the ones she was so proud to hand over at full value, and they're being used as dirty talk. Randi isn't just his partner in the scheme. She's his *informant*. And it's *hot*, which is the problem. "Her breast in my hand… And her nipple in my mouth," with Pace taking Randi's nipple as a stand-in. I was turned on and a little sick at the same time, and I think that's exactly where the book wants me. Poor Vee walked home six minutes into the wind replaying "I don't." Randi went home and said "I want her to know exactly what she does to me," and that's what broke Pace's control. Not Randi herself. Vee.
+"And you get to motorboat them things?" I screamed. Then Pace blushes for the first time in three books, up into his ears, and suddenly he's a person and not a strategy.
 
-Then the aftermath. "You know she loves you, right?" "She hasn't said it." Pace, you absolute hypocrite, you're the one who hasn't said it. Then: "She's not the only one in love." Wait. Who? Randi in love with Vee? With Pace? With both? "He couldn't tell her she was wrong." I read that line four times. I think it means both, and I think Pace knows it about himself too. That's the turn the jacket promised: the two who moved her have fallen.
+Sheri's coming-out story wrecked me a little: "Whole tablecloth come off the table and nobody caught a dish." So did donuts and a fixed lock instead of "they'll come around." And then the father and "hasn't been home since he was sixteen," handed over in one flat line with nothing propped around it. Pace gets more interior in this chapter than in the last ten, and all of it comes secondhand from a small loud woman with crooked makeup. That's smart. He keeps his hands where the dance puts them. "The whole hall's given up on him." He holds the headlights on her door until the porch light comes on. I'm softening on him again and I resent it.
 
-And the opening flashback. Randi "gingerly, without her usual authority," throwing the deadbolt, two fingers on his mouth, looking at him "as if she were seeing him anew" for most of a minute. So the six-week silence ended tonight, and it ended tender. "The first time since the morning she had cried." What morning? I'm going to obsess over that.
+But I just read 61. Randi on top of him saying "She looks at you, too," and now within the week he's walked Vee into a room with a gay woman who checks her out down to the straps. Is he running an experiment? Curating her? Or is Sheri just Sheri? I honestly can't tell, and that's the good kind of not knowing. The dramatic irony is thick enough to stand a spoon in. Vee thinks "the one person he tells things to" is Sheri. She has no idea about the other one.
 
-Small gripes: the prose here is clipped, short paragraph after short paragraph, almost choreography, and some of it read like stage directions ("Pace positioned himself beneath her"). The "fuck doll" line jolted me out. It didn't sound like Randi, who talks in velvet and restaurant recommendations. Oh, and "Subtle." "Elegant." "I value your professional opinion." Fine, that banter I loved. It's these two exactly.
+Gripes, quickly:
+- The timeline is mush. "Two nights after the roadhouse," then "Saturday," then "the week ahead of her," and the header says Jan 23. Is that the dinner or the taproom?
+- I remembered the heels as Randi's own stilettos. Now Randi bought them at a boutique for the induction. Maybe that's my memory, but I flagged it.
+- "It read as affection. It worked as ballast… never two different things." The book is explaining itself to me again. Sheri's speeches also run a little long.
 
-The text to my friend at 1 a.m.: *they're sleeping together AND they're both in love with her AND they talk about her during. the dinners were intel. I'm not okay.*
+None of it mattered much. That was a real night out with real people, and I'm actually excited for Valentine's at the hall: Sheri, Pace, a Brooks and Dunn cover band, and Vee bringing her opinions.
 
----
-
-GATE 56 — My Pleasure
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Look at you, using me like your fuck doll." It's the one line that sounded like generic KU and not like Randi, and it knocked me out of the room for a second.
-WHY: This is the both-at-once I came for. It's explicit and filthy, and every beat is loaded with what Vee couldn't do an hour earlier and with everything she doesn't know. "She's not the only one in love" is the bond turning right on the page. I'm angry at both of them and I need to know what Vee finds out, and when.
+CAPTURE: 8
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "He considered it with the pan in his hand, a man asked to describe a country he'd lived in for years." That's the opening at the sink. For a page I was afraid this was another quiet dinner-and-retelling chapter.
+WHY: Sheri broke the pattern I was dreading, and her look at Vee did more for the Randi thread than three restaurant dinners did. Pace got a past and a blush. Coming straight off 61, I'm a little scared he's steering Vee, and that suspicion is pulling me forward more than the warmth is. I'm a notch below "right now" only because the chapter ended full and contented, so nothing is yanking me to the next page.

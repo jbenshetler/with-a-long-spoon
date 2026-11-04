@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is a gut-punch disguised as a cozy chapter, and I loved being the only one in the room who could feel it.
+Oh, this is the calm before the party, and I know it. A whole chapter of sunlight and mimosas and zero heat. After the porch and the long oral scene and the Randi-kiss dread, a waffle brunch is a breather. I don't resent it. It's one quiet chapter, and I'm still fine.
 
-Vee does the thing I wanted to scream at her about. She gives Cassie a charming, funny, edited version: the mushrooms, the persimmon salt, and a sweater shrunk to doll size. The "we talked" is a flat lie. She never mentions the shirt, the coat, or the mouth. Worst of all, she swaps "I left the bag in the car" for the real story. The sweater story is a cover for being naked, and she built it fast and well, and Cassie laughed at it. That laugh is what hurts. Cassie laughed at the joke, and "the record stood exactly where Vee had left it, corrected by nobody." The book wants me to notice that, and I did.
+What I liked is how Vee gets handed the cover story and runs it smoothly. She tells the porch-flash as comedy, "I flashed him on his front porch," and gets the shriek she wanted. Kayla fills the whole scene with her own socks, and Vee never has to say a word about the drive. That's the lying-charmingly thing from my notes, and it's good. She gives them the true event and leaves out the truth: the crying, "what am I to you," the words that never came. "We talked all night" is a lie about exactly the part that matters. Meg's maple-bacon "make it right in their language" is dramatic irony. It lands on the one couple where nobody has said anything in anyone's language.
 
-The small things are doing the real work. Cassie's mother says thank you for the card and asks when she gets to see Vee. That lands on Vee like "a hand cupped at the back of her neck," and she refuses to look at it. Then there's the bunk. Her arm goes out and hits cinderblock a hand's width away. Two nights of all that acreage, and now this. And she's content, which is the sad part.
+The "Is it okay? It's a little expensive" beat tells me Vee now has money she doesn't have to count. I'm uneasy about whose money, even though it's "Christmas money." The ending line, "Vee had the middle of it all the whole time," made me wince. She thinks she's holding the middle, and I know there are three games and she's in two. Wednesday is the machine she's built, and she's pleased with it.
 
-Last chapter's dinner plan matters here too. Pace remembered Meg's boots, and he remembered "talk the paint off a wall." He's listening harder than anyone, and he still won't say the one word. Then Vee quietly files away the Chili's nachos and asks him to pick the place. She did learn something. That's the only growth I'm counting.
+Pace is "handling it," and Vee loves saying it. Randi isn't on the page at all, and I missed her. I want the table, the straight faces, and Randi's hand on her own mouth.
 
-But I'm also suspicious of the "forgot to wipe" taste business from ch48. Vee's pushing it down, and I think the book is planting it. Randi will "know what to make of it." Randi, who is in a spiral of her own after Brooke's "you need to choose," is the one Vee will bring this to. That should be a terrible, wonderful conversation.
+Heat is nil, but the chapter had a job and did it. If chapter 52 is another sunny prep scene I'll start skimming. Give me Wednesday, or give me Randi.
 
-No heat here, and I'm fine with it after ch47–48. It's a bridge, and it's the right one. But I want Tuesday. I want Randi and Vee across a table, and I want the kiss from ch46 to come up.
-
-GATE 50 — Unpacking
+GATE 51 — Across
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 8
+NEXT: 7
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: A quiet bridge, but the cover story Vee tells Cassie, and Cassie laughing at it, stung more than the sex did. I'm hungry for Tuesday, Randi's table, and what Vee does with the taste on her lip.
+WHY: A warm, funny bridge chapter. Vee's cover story playing so well is delicious dramatic irony, and it sets up Wednesday. It's the first quiet chapter, so it gets a pass, but the next one had better move.

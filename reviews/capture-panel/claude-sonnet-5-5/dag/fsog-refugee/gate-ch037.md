@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch037 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch037 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c4680406e3c7 · dated · 2026-11-01*
 
 REACTION
 
-Oh. Oh, that's good. After the last four chapters of Vee floating and Randi and Pace doing their thing, this is the first time the world pushes back on any of them.
+The shirt. I'm undone by the shirt. "I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again." That's the most tender thing in the book so far, and he answers it by putting a second shirt on over his own and not making her ask twice. Real warmth, with no big speech attached. It's the same Pace I fell for, and the chapter gets him almost entirely right.
 
-It's a quiet chapter, and the cold lecture hall opens it well. Then the glass room, the graph, MIRA, and Randi going still. I know that stillness. It's the same one from her on Pace's chest in ch 21. Her father is the outlier. The thing she grew up inside is the "cheating bastards," and for once it came out ragged and unpracticed. That's the first real crack in Randi that wasn't about Vee. I've wanted her interior and I still don't have it, but I got a flash of what it's standing on. Old money, and not clean. Cassie's dad was laid off. Randi's dad took the loans. Vee is sitting between them, loving both, and now she knows something neither of them knows she knows.
+It's also a very Vee chapter, and I liked being inside her. She's the one who called the five nights off, and she got no fight from him. That stings, and she says so. She wants him to want it loudly, and he never does. The doorway kiss, the clothes coming off in pieces, the jeans stuck at her hip while he holds her breasts and says "I'm helping": that's funny, hot and specific. The socks made me grin. The moment she gives in, "gone quiet and slow," and the line about her throat publishing the number were exactly the heat I read for, because it's warm and she's laughing at herself while it happens. He asks nothing in this chapter, but he reads her the whole way, and her desire is hers.
 
-What I loved is that Vee did the kind thing. She handed Randi the busywork and never said the name. It's tender and it's the best of her. It also made me wince, because Vee is the one person here who is being careful with Randi, and Randi is the one person here who isn't being careful with Vee. That irony is going to hurt later. Vee is now holding a secret from Randi, her second, and it's a kind one.
+What nags is that the whole chapter is her happiness, and I know what I know. Last chapter I watched Randi cry on his chest holding Vee's panties, and I watched him keep them. I watched him say "She consents, every time, or I'm done" and then let Randi's tears be "hormones." Here Vee takes her drawer, her space, and her own wanting for plain good fortune, and I'm waiting to see what it costs. The detail I keep pressing is that he gave her the *top* drawer and folded himself into one. That was sweet. It was also an arrangement, and arrangements get made for reasons I can't see from here.
 
-My only pang is that I've gone three chapters without Pace and Vee in a room, and I missed him. Ch 36 was the last time Randi and Pace were together, and that one wrecked me. The green satin and "it's hormones" are still sitting in my chest. I'm also still waiting on the credit card and the scar.
+I miss Cassie and I miss Randi. It has been two chapters since Pace and Randi were in a room, and Randi hasn't touched this one at all. That's fine for now. I'm just counting.
 
-But this chapter did what the book needs: it made Randi a person with a past that can bruise. I'm keen.
-
-GATE 37 — The Outlier
+GATE 38 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-HEAT: 0
-ROMANCE: 1
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi's stillness at her own father's name gave me the first crack in her that has nothing to do with Vee, and Vee's quiet kindness in not saying the name was lovely. Zero heat, but I didn't feel the lack. I want Pace back in a room with Vee, and I want to know what Randi does with this.
+WHY: The shirt exchange is the warmest beat in the book, and the undressing was funny, hot and all hers. I keep reading with dread, because I know what Vee doesn't, and I want the bill to come due.

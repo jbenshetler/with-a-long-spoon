@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 REACTION
 
-I am sitting here with my hand over my mouth.
+Oh, my god. The way this book can pivot from Chapter 61’s pure, filthy, breath-stealing depravity to *this* kind of quiet emotional devastation makes me want to scream into a pillow.
 
-I *knew* the jacket said "What Vee does not know is that Randi and Pace chose her together... Vee is a willing player in two games. She doesn't know there are three." I *knew* it. I read the jacket. But seeing it happen—seeing Thursday night cut from Vee lying in her single bed, trying and failing to taste herself, straight into Randi riding Pace and using Vee's name as dirty talk—completely knocked the wind out of me.
+Going straight from watching Randi ride Pace until he breaks, hearing them literally use Vee's name as an aphrodisiac, to Vee dressing up in battle armor against an imaginary rival—it's sick. It is so deliciously, painfully sick. I was sitting here bracing myself for the "other woman" reveal, because the dread Vee felt about "Sheri" was so intensely relatable. Every woman who has ever spiraled over a boyfriend's unexplained female friend felt that cold drop in the stomach. Vee borrowing the keyhole top, putting on Randi's lethal induction stilettos in freezing January, gearing up to face down a fantasy blonde—and then the door opens and it's *Sheri*.
 
-The whiplash between Chapter 55 and Chapter 56 is diabolical. In 55, Vee is in Cassie's drafty dorm room, wrapped in Pace's oversized flannel, agonizing over whether she's a pervert because she almost licked her own fingers, holding Randi up as this untouchable, cosmopolitan goddess of sexual self-possession. And the entire time, Randi left their Italian dinner, drove straight to Pace's house, threw the deadbolt, and let him eat her out until she tasted herself on his mouth just to outdo the story Vee told her across the white tablecloth.
+Five-foot-nothing, roots showing, permed, loud as hell, and absolutely checking out Vee’s legs and the bartender with equal delight. When Sheri gave Vee that slow look down to the shoes and Vee just burst out laughing because the rival was completely fictional—what a release valve. And Pace blushing! The man who just spent Thursday night letting Randi clean him up with her mouth and talking about Vee's breasts was sitting there getting his ears red because Sheri made a motorboat joke. It humanizes him in a way that is utterly disarming, which makes the whole spiderweb he's built around Vee even more terrifying.
 
-"Look at you, using me like your fuck doll." That line pulled me up short for half a second—it felt almost jarringly crude for Randi’s usual deco-silk banter—until I realized what they are doing. This isn’t a warm romance. This is feral, mutually obsessive triangulation. They are fucking each other *through* her. When Randi cupped her own breast and talked about wanting Vee’s nipple in her mouth, and Pace sucked Randi’s nipple while driving up into her? Jesus Christ. The heat was blistering, but the psychological rot underneath it is what makes it impossible to look away.
+Then Sheri tells the real story while Pace is at the bar. Good lord. The detail about her family dropping the tablecloth after she came out, and Pace showing up the next morning with donuts, fixing her lock, taking her cycling, never offering fake platitudes—just *being there*. And the reveal that Pace hasn’t been home since he was sixteen because of his own father. It explains so much about the way he operates, the way he builds these impenetrable fortresses of safety for the people he decides to keep, while simultaneously managing them down to the millimeter.
 
-Pace admitting Vee makes him happy, Randi calling him out on being in love with her ("She’s not the only one in love"), and neither of them blinking. They aren't trying to push Vee out; they are both completely obsessed with her, completely addicted to what she does to them, and using each other as a conduit to hold the charge because neither of them has the courage or the permission to take the whole thing into the daylight.
+Watching him keep his headlights on Sheri’s porch until the inside light went on—he does that for everyone. He takes care of people with this terrifying, relentless, unasked-for competence. Vee is falling so deeply, completely in love with him, resting her head on his shoulder in the truck, thinking she’s finally seeing the real, good heart of the man. And she *is*—that’s the tragedy of it. He *is* that good, and he is *also* sleeping with her best friend and orchestrating her sexual awakening behind her back. The dramatic irony is thick enough to choke on.
 
-The devastation waiting for Vee when this glass house shatters is going to be biblical. She’s over there worrying about whether her roommate can smell her arousal, and these two architects are trading her like a shared high. I feel sick, I’m sweating, and I have never wanted the next chapter more in my life.
-
-GATE 56 — My Pleasure
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: "Look at you, using me like your fuck doll."
-WHY: The jump from Vee's solitary, agonizing bedroom hesitation straight into Randi and Pace violently using Vee's body as their shared dirty talk was an absolute masterclass in erotic suspense. It's twisted, psychologically devastating, and blisteringly hot.
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The contrast between the visceral, voyeuristic heat of the previous chapter and the profound emotional grounding of this one is masterclass pacing. Watching Vee fall entirely in love with Pace's quiet decency, right as we learn the roots of his isolation, raises the emotional stakes to a fever pitch.

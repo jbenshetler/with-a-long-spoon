@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-10-24*
 
-REACTION — I need a minute.
+REACTION
 
-This is the chapter I've been waiting thirty-five chapters for without knowing it, and it did the thing the best ones do: it took the secret I've been carrying (I've known about Randi and Pace since the jacket) and made it *cost* — not for Vee, for them. For the first time we're on the dark side of the glass, in the house, on the night Randi finally runs out of performance.
+I put the book down and sat there for a minute, and that hasn't happened to me in a long time.
 
-"That's more than three." "God, I want her." And then the scramble — "For us. When she's ready. That's all I meant." The book let her hear it leave her mouth, and it let ME watch her hear it, and I put the book down and stared at the ceiling for a second because that's the exact shape of a woman losing an argument with herself mid-stroke. And him — "You don't have to do it for me," said kindly, into her neck — and she comes ON the kindness. Not on the filth. On being let off the hook she's hanging herself on. That's the most psychologically exact sex scene this book has written, and it's the least about the sex.
+I was braced for Thanksgiving — next chapter, surely — and instead the book reached sideways and gutted Randi where I wasn't guarding. The MIRA tag. Her own shorthand, her own cutesy four-letter tags, and the tag on the worst point in the county spells her name back at her. That's not luck, that's this book doing what it does — the detail you watched being built (she made those tags, she was proud of those tags) turning around in her hands. Like the mirror she forgot. Like "that's more than three." Everything Randi builds comes back with her own face in it.
 
-The consent exchange gutted me. "She consents — every time — or I'm done." He draws that line at *Randi*, not at Vee — he's checking the engine, not the gauge — and Randi's flat little "I have always known what I'm doing" while her hand opens and closes on the couch arm. The gloss is OFF. Twenty chapters of that woman performing total control and here she is doing damage control in silk, and the tell is that she's bad at it. Randi is never bad at anything. That's how I know it's real.
+And Vee *saw*. That's the thing I'm still processing. The whole book I've been waiting for Vee to see Randi — to catch the gaze she stops her own hand for — and here it is, and it's not that at all, it's better: Vee watched her go still and read the whole thing in one pass, the breath with work in it, the jaw — and then she did the kindest thing I've ever watched this girl do. She gave Randi somewhere to put her hands. She didn't name it, didn't reach for it, kept feeding her the questions she could answer until the color came back. That's not the Vee who stopped her own hand in a bistro bathroom because she was cowed. That's a woman being a friend with her eyes open. She's counting again, even if it's a different ledger now.
 
-And then the morning. THE MORNING. She finds the drawer. We've been tracking Vee's drawer since the chapter he cleared the counter — the green scrunchies, the pins in the little dish, the place he "made her" — and Randi goes in there, sees the whole architecture of a woman being kept, and comes out with Vee's green nightgown clenched in her fist and her eyes liquid, and fucks him with it pressed between their chests. And doesn't shut her eyes. Keeps them on the *wall*. "You see more of me than anybody ever has. It makes me feel real. And some nights it frightens me." I underlined it. And then — "It's hormones" — and he lets it be hormones, because what else is there, and the untouched coffee on the counter, and the "she had never once offered him anything to keep." He kept a thing of Vee's. She found it. She didn't say it. I felt that like a hand on my own chest.
+"Cheating bastards." No *these*, no *those*. The narrator actually pointed at the grammar of it and I let it go because that's not the book explaining subtext, that's the book showing me Vee's ear — and my ear's been trained alongside hers for forty chapters, so it landed like *I* heard it, not like I was told.
 
-The detail that's going to keep me up: he folds the green in thirds, spot centered, "as Vee had folded it the first night" — he remembers the fold. And Vee's drawer standing open an inch and him blaming the house shifting in autumn. He's WRONG and I know he's wrong, or the book wants me unsure, and either way something in that house has come off its latch and it isn't the cold. The whole last page is a held breath.
+And underneath all of it: Randi's whole counterargument — "that was what the money was for," said with the ease of a girl who'd grown up inside the thing — is her father, and her father is the outlier. The con artist's daughter, defended by a story that was a lie. I keep thinking about Pace taking "she's choosing it" for an answer about her ethics, and now here's the answer: she wasn't lying, she was *loyal*, and it cost her the one thing she was sure of. The men in this book. The parents in this book. Vee's bright-voice mother on the phone, Pace's wall, and now Randi's dad, one company under another, loans like the layers of everything else in this book.
 
-Also — the quad origin. "I pointed at her and watched your face." He was reading Randi, not the lawn. The pointing was a compatibility test and they both passed and I got a little chill at "I'd have taken you right there on the quad, if you'd let me."
+Cassie on the far side, certain, satisfied, right — and holding her laid-off dad like a fact with no handle on it. That's the true one getting the truth of it and not knowing whose name was on it. I'm scared of what this project does when Cassie finds out she graphed her best friend's family. "That's just the one that's easy to see." Cassie, you have no idea.
 
-My worry list shifted. Vee is still the one owed the truth, still the one being managed ("She told me first" — that tiny possessive pause). But the person closest to breaking is Randi, and the person closest to the break is *Pace*, who now knows things Vee doesn't know he knows. Sheri's "If that's not already complicated, it will be" is aging like milk. The bench is still unvisited. The white gold was on Randi's *wrist* and I clocked it and the book didn't explain it.
+Also, petty scheduling note: the anthro class is Tue/Thu "just us," and this stats project just fused Randi and Cassie and Vee into a standing trio with a glass room. The architecture is thickening again and Vee built it by accident *again*. She's a woman who keeps accidentally constructing the machine she lives inside — that's the sentence the whole book has been writing.
 
-Next Saturday's brunch is going to be unbearable. She has to sit across from Vee — Vee who's radiant, who took the last half-inch of the kiss — knowing what she did with the green between them. I would read forty pages of that brunch. I'd read it tonight.
+Heat: none, and I didn't miss it for one page. This was the two-people-talking chapter I tell people about. If the next one is this quiet too I'll start to itch — but it won't be. It's Thanksgiving next, and Vee knows something about Randi now that Randi doesn't know she knows, and that's a second pipeline running the other direction.
 
-GATE 36 — Four
+GATE 41 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: This is the book's whole promise paid off — explicit and psychologically exact in the same breath, the collapse happening inside the sex instead of around it. Randi cracking, the green satin, the drawer open an inch: every thread I've been holding just pulled tight at once. I need the next chapter immediately.
+WHY: Not one charged beat and I couldn't put it down — Vee finally seeing Randi, and the seeing being *kindness* instead of the reveal I was braced for, hit harder than half the sex scenes this book has given me. Zero heat, and the whole chapter was still about who's naked in front of whom.

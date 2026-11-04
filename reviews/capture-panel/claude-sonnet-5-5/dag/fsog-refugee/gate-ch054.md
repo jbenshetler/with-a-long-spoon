@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e5c69934d7d1 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch054 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is the chapter I've been waiting for since 48. Randi found the thing.
+Oh, this is the chapter I wanted, and it's a solitary one, which I didn't expect to want this much. Vee alone in the room, in his shirt, working out what Randi's "it turned me on" did to her. The window detail is lovely: she shuts Cassie's cold out, then opens it again to air out the evidence. That tells me she's already hiding something from herself.
 
-The telling itself is hot, and it's hot in the right way. Vee owns it: she pointed, she twirled her fingers, she made him take the apron off. He parked on her wrist. "He opened me like the orange." I felt that. Pace is exactly what I read for here, a man with total attention who is also asking and watching. Then the kiss, and the booth drops out from under her. She tastes herself in the middle of retelling it and the bit falls out of her hands. I liked that a lot. Her body is more honest than her mouth.
+The reach is the whole chapter, and it works. She gets her fingers a breath from her mouth and can't close it. The wanting is there, the smell isn't bad, his face is glad, and she still can't, and she doesn't know why. I do. She isn't disgusted. She's afraid of what the wanting points at. "A mouth carrying it back. Or Randi's own fingers." Her brain just handed her Randi's mouth, and she wiped her hand on the sheet and lay down in the damp patch. That's the most honest thing she's done in fifty-five chapters.
 
-Then Randi says "I don't." Flat, level, no push. And then "It was powerful. It turned me on." Vee clenches in the booth. Her "But it's gross" came out too loud. Randi didn't argue. She asked "How does he act?" and let Vee hear herself say "he's enthusiastic."
+Heat-wise it's hot, but it's *her* desire, from inside, shame and all. "Greedy" and "Hungry out loud" belong together. I like that she lingers over the shame and doesn't just get over it. Pace's wet, unapologetic face is the fantasy she keeps going back to, and it's his looking at her as fine that undoes her. That's the tenderness-and-dominance thing I read for.
 
-That's the real intimacy of the chapter. Randi is the only person who can ask that question, and she does it with so much care. It's also steering, and I know it. She has a stake. "Did you swallow all of it and wipe your mouth?" Randi, you are not subtle. The wine glass rim under the fingernail again, and the plate she barely touched. I ache for her. She sits there being told all of it by the girl she's falling for, and she makes it a game so Vee can keep telling.
+My worry is the Randi pull. Vee is learning her own appetite from Randi's mouth while Randi sits on the one secret that would explain everything. I think the book is about to blow up, and I'm nervous for all three of them. Last chapter's "I don't" has gone straight into her body. Randi steering Vee toward herself while telling herself she's the friend is a lie I'm getting less sympathetic to.
 
-The neck kiss is where I hold my breath. Vee kisses it again, not by accident this time. Randi catches and rises "a beat too long" and says "ticklish." Vee, pleased with herself, lets her have it. She's so close. She had it Tuesday, then a second time, and she's tucked it into a little stone of relief again.
+I'm missing Pace and Randi in a room together. Vee and Randi alone is the only pairing the book keeps feeding me. But I'm keen.
 
-And "You picked well." Oof. Dramatic irony with a knife in it. They chose her together, and Randi says that to her face.
-
-I'm still waiting on Vee and Pace in a room, and on the word. But this is the most alive the Vee/Randi thread has been. The sharp salt taste I wondered about now has a shape, and Vee walked home with "I don't" sitting under her sentence. I want Thursday to turn into Tuesday.
-
-GATE 54 — A Clean Plate
+GATE 55 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee tells the morning from inside her own desire, and Randi's flat "I don't" turns a dirty story into the first crack in her certainty. The consent stays intact: she pointed, he waited, he stopped when she said no. The steering is real, but it's warm, and I trust it a little less each time.
+WHY: Vee's desire comes entirely from inside her, with the shame left in. The unfinished reach toward her own mouth, and the Randi thought slipping in, is the most honest beat so far. I want to see what she does with it Tuesday, and I want Pace back in the frame.

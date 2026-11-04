@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
 
 REACTION
 
-Oh, Pace. You absolute, stubborn, beautiful idiot.
+Oh my god. *Oh my god.* My chest is so tight right now I can barely breathe.
 
-I was bracing myself for this chapter because I knew he was meeting Sheri on New Year's Eve, and after Vee's agonizing spiral in chapter 44—imagining him cooking for some blonde at his stove—I was ready to be furious with him. Instead, we get a dingy trailer-diner, a plate of diner burgers, and Sheri holding a mirror right up to his face and refusing to let him look away. God bless Sheri. She sees right through his brick-by-brick rationalizations. *"Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty."* She clocked him completely. He tried to hide behind his usual armor—*I cook for her, I'm there every weekend, words are cheap*—and Sheri just knocked the whole stack over.
+I’m sitting here reeling because this chapter was a masterclass in emotional whiplash. The first half broke my heart into a million pieces—Vee coming home to that cold, dead dorm, exhausted from a red-eye, convinced she ruined everything and that Pace has moved on with some imaginary blonde. And who does she run to? Randi. The absolute devil on her shoulder who is also, somehow, genuinely falling apart in love with her.
 
-And then he went home.
+Watching Randi dismantle Vee’s panic was intoxicating. She was so steady, so tender, so completely right about Pace’s walls—*"That's not a man who's done with you, honey. That's a boy holding himself still so it won't show how much you got him"*—while simultaneously scheming to send Vee right back into his bed naked under a coat. The psychological gymnastics of Randi handing Vee those lethal, strappy black heels—literally dressing her up to go get fucked by the man Randi shares—while being so intensely, physically drawn to Vee that she can barely stand it... it’s sick. It is so twisted and fascinating.
 
-Seeing him drink alone in the dark, getting violently sick, scrubbing his own bathroom floor with bleach at three in the morning, and waking up shaking over cold, boiled gym-bro chicken... it broke something open in me. This man who is always so composed, whose control is his whole religion, completely undone.
+And then Vee *kissed her*. Not the polite, startled goodbye kiss on the curb. Vee turned back at the door, took Randi’s face in both hands, and kissed her until the room stopped. The sheer shock of Randi standing in that foyer afterward, pressing her hand to her mouth like a dazed fifteen-year-old girl, laughing out loud to an empty room—I felt that right in my gut. For all Randi’s sociopathic manipulation, Vee just completely shattered her composure with pure, uncalculated affection.
 
-The Daphne reveal finally gives us the key to the lock. He convinced himself that *the words* were what destroyed him when Daphne left. If he never says the words, he survives the ending. It’s so messed up, so tragically human, and so infuriating because in trying to protect himself from the pain of losing Vee, he literally drove her out into the cold night. He admitted it right there at his kitchen table: *He knew he loved her.* He knew what she was offering on the porch, he chose the smaller truth out of cowardice, and now he's choking on it.
+And then Brooke. *Brooke.* That cold, smiling sorority guillotine dropping down out of nowhere. *"You remember Lauren Pike. Nobody asked her to move out. You've got a position in this house, and you've got her. You need to choose."* The absolute chills that went down my spine! Randi’s perfect, insulated social armor just took a lethal warning shot from the inside.
 
-And then that ending. Hearing the truck on the highway, his whole body snapping to attention, hoping against hope that her little car was turning into the drive—and when the sound just rolls on past, he breaks. A full, chest-heaving sob over his cold breakfast.
+Now Vee is going back to the dorm to sleep, wake up, put on nothing but a coat and those heels, and drive out to Pace’s house. I am frantic. I need the next chapter right this second.
 
-I'm still sick about the Randi of it all—the fact that he still has that twisted fantasy of the three of them at his table, the lingering betrayal that Vee still doesn't know about. But seeing him shattered on his own floor, grieving her, admitting to himself that he loves her and that his silence was weakness... it hurts so good. He's not an unfeeling puppet-master. He's a terrified man who broke his own heart trying to keep it safe.
-
-Now he has to fix it. He has to drive into town, find her, and spend the damn words.
-
-***
-
-GATE 45 — The Usual
+GATE 46 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Pace completely unravel in the quiet of his own house, facing his cowardice over Daphne and finally admitting to himself that he loves Vee, gutted me. Sheri gave him the harsh truth he deserved, and that final sob when the car on the highway wasn't Vee broke my heart; I need to see him go get her.
+WHY: The tension is coiled so tight it's humming—Vee taking Randi's face in both hands and kissing her in the foyer completely blew my mind, and Brooke's chilling warning immediately after raised the stakes to an absolute fever pitch. I have to see Vee show up on Pace's porch tonight.

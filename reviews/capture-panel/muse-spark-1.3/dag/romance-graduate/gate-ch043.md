@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch043 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
 
-REACTION —
+REACTION — God, this one hurt in the quiet way. I didn't even realize I was holding my breath until I was in that twin bed with her, knees bent because she's outgrown it, lavender plugin stink and flannel sheets, and I just — fuck, I know that room. I know going home and not fitting in your own childhood anymore.
 
-Ohhhh. Oh fuck. That text at the end wrecked me.
+The phone stuff gutted me. The thumb over the empty field, *are you*— then deleting it letter by letter. Because I did that exact thing with Pace last chapter in the dorm, with his shirt off in the cold, and now she's doing it again in Ohio and learning the same lesson: there is no text that makes a man give you the word. And "he left you the room" — I used to think that was hot, respectful, grown-man shit, and now I hate it. Leave me the room to spiral in? Thanks?
 
-I went in braced for another cold Vee night — because 41 and 42 left me sleeping topless in the cold with her, standing on that mat watching Pace fold his arms — and then you hand me Randi alone in fucking Gstaad and I was mad for like half a page. Like don't you dare cut away now. And then I didn't want to leave.
+What got me most was the picture she scissored in half. The induction photo — the one Randi buckled the heel for, the one Pace saw whole — and she cuts off her own leg for her mom's phone. *Same picture, one house, and she was the one who had divided it.* I felt sick reading that because it's her doing it to herself now. Not Pace, not her parents. Her.
 
-Because this is the first time I've been allowed to just *be* inside her without Vee at the table to perform for. And god, she's tired. That breakfast with mommy's tennis bracelet and daddy's how-many-hearts — I know that girl. I *was* that girl for a while, making up safe boys because the real ones would kill you at that table.
+And the jealousy spiral — I was right there with her and I hated myself for it. Of course my brain went straight to Sheri too. "She's alone" my ass. I built that blonde with her, tan legs where mine/Vee's were, sitting in the sheet at the fra diavolo table while the garlic blooms, and I couldn't keep my own good memory either. It turned gold on me too. That's what no-name does to you. You don't just lose him, you lose the memories because you don't know whose they were anymore.
 
-John. God. He's perfect on paper and I hated him the second he was good at skiing on purpose without showing off. You know that type — cotillion-good, Yale-good, champagne-table-without-asking good. My body was into it on the chairlift, I'm not gonna lie, the whole wife-game, three kids at ski camp, his hand under my elbow that I don't need but I take anyway? Yeah, I was crossing my legs. The waltz got me too — being steered like that after all the work of listening for Pace's little fingertip lead. I felt that *easier is better* in my stomach.
+I keep thinking about Randi's text landing in the middle of this. *miss your face most though, gorgeous.* And Vee up late doing the math — six hours ahead, Randi still up — imagining the white-tie crush because Randi lives where everyone can see and Vee has to keep the best thing behind a shut door. I wanted to scream at both of them through the phone: YOU'RE BOTH LYING TO EACH OTHER AND YOU BOTH KNOW IT. Vee folding away what she saw in the glass room, Randi sending the fairytale instead of the thing. That open-hand text — *i'm here if you want to talk. or not* — I felt how carefully she checked it twice for any giveaway. My poor sneaky girls.
 
-And then the sleigh. I wanted it to be a fairytale so bad for her. The bells and the snow in her hair and *she walks in beauty* dying in his mouth — I was texting my friend in my head like BITCH HE CROSSED HIS HANDS OVER HIS HEART.
+I'm not turned on, not even a little, and that's weird for this book. I'm just cold and sad and clingy. I want Pace at the stove and Randi at brunch and I want somebody to say the true thing out loud for once. I texted no one at 1am because who would I even explain this to — "hey I'm devastated about three people in a book who won't say I love you"? But I'm still reaching when sleep pulls me under too.
 
-Then the hotel room. That cold. "Warm only where she touched him." Jesus. I've had that sandwich sex. Good, competent, gone before the plate's cleared. Left her lipstick on him and her eyeliner intact because nothing happened to her eyes — that line made me put my Kindle down and stare. Because Pace on his worst night reaches further. Because Vee across a nothing Tuesday has more charge in one look than white-tie John with a whole orchestra.
-
-What scared me is how clearly she sees it and still chooses the cover. *Vee was her gorgeous.* When she said she's never said I love you without it being currency except with Vee — I teared up, actual tears, on NYE in a fictional Swiss hotel. She's not brave enough to lose her. She arranges her whole life so she never has to be brave. Fuck, Randi.
-
-And Vee's text — *thinking about you, I'm here if you want to talk. or not.* — from Ohio with minutes left in her shitty year after Pace wouldn't give her a word. And Randi gives her back the fairytale. True and none of it the thing. I want to shake her and hold her at the same time. You're lying to the one person who tells you everything plain.
-
-I'm still furious at Pace, I'm still protective-stupid over Vee, but tonight I'm up for Randi. I did not expect to be.
-
-GATE 43 — Fairytale
+GATE 44 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "none"
-WHY: You ripped me away from Vee at the worst moment and made me stay for Randi's perfect nothing night, and that last text undid me — I need to get back to Ohio and to that cold house and see who breaks first.
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: I'm freezing in that twin bed with her and I can't leave her there alone on New Year's with no word from him and a fake fairytale from Randi — I need January, I need the classroom and who walks in first.

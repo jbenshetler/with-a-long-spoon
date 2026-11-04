@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch039 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch039 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
 **REACTION**
 
-Oh, that porch. I knew this was coming because it's printed on the jacket, *everything but a word*, and it still went in under the ribs.
+Oh, Vee. Honey. No.
 
-She built that sentence for weeks so it wouldn't trip his wire. It's "grateful," just slightly larger. Then she said it like a memorized poem to the moon and didn't breathe. And he took two breaths. I caught that, and so did she: *she had not heard him do that before.* His hand started two different answers on her shin and put both down. I'll admit he wasn't careless. He searched, and he meant what he found. Then what he found was "I love how good we are together," and "what your body does." She told him he'd given her a whole meal, and he answered about the meal. I set the book down for a second.
+I spent the whole Chili's scene with my hand over my mouth, because the book showed me what she couldn't see. TVs on three walls, a fourth over the bar, music coming down on top of all of it. His eyes slip up and to the left and he drags them back, and it costs him something, and it never used to. His fork gets squared to the table edge, then turned, then squared again. That flicker of irritation, and he drops his eyes so she won't catch it. That isn't a man who's ashamed to be seen with her. That's a man drowning in noise and holding on with his fingertips so he can keep looking at her. She reads it as "the just-sex of it, proven in fluorescent light," and I wanted to reach in and turn her chin. When his shoulders came down in the truck I felt it in my own body. She took it for relief at being rid of her, and she even noticed it "didn't sit right" and didn't stop to look. That line gutted me.
 
-It's worse because I know things she doesn't. The mouth-asleep line was the thing she told Randi first, and Randi said so to him, a little proprietary: "She told me first." So when the cracker sentence arrived, he'd already heard its cousin over Randi's shoulder in a room Vee has never seen. I also still have the rest of the 16th on me: "God, I want her," and the green satin pressed between him and Randi, and his "could not pretend it did nothing to him." So his careful non-answer doesn't read to me as shyness. It reads like a man who can't say *I love you* to one woman without it being a lie of omission about the other. Maybe that's the decent part of him stopping his mouth. Maybe it's cowardice. Right now I can't tell them apart, and neither can she.
+Then she says it. "You went cold on me after the Rusty Nail." She knows it's a lie, and the book tells me she knows. Some back room of her remembers who carried the pie up whose porch steps. She says it anyway "because she needed the line of it to hold." I don't hate her for it. I've been that woman, mean because the need was bigger than the man looked. But my notes have HUMBLE PIE in serif, cut with the good scissors, and she just put that under the rug. That's the title, isn't it. And then she "forgives" him. For what? He took a shouted question in the dark and answered "Where do you want to go tonight?" in a level voice. He sat in a room that hurt him because she asked. He didn't argue, didn't plead, just said "You know what happened after the dance," and then gave her the second true thing because he could see she needed it: "I'm listening now." That's the man from my column one. That's what I came to this genre for and almost never got. And she wears *forgiven* like a borrowed coat because the clean shape is easier to rest in than *I was wrong*. I'm worried about her, honestly worried. She's learning to fix the story so she can keep standing.
 
-The laundry room nearly finished me. "The place was not empty." There's a pile now, with small repair work, and she's not going to look at it. And "The cracker-and-meal would not return to her speech": she's retiring a piece of herself so it can't get rejected twice. That's the starving girl calling it fine again, which is exactly what Randi told her she'd stopped doing. Honestly, the middle stretch circled a bit for me. The "small *wait*" went round too many times and I wanted to get to the dryer. But the dryer earned it.
+The sex worked on me, and I want to say exactly why. She wanted his control to give. That wanting is hers, sharp, from inside her, and the book let me feel how much it startled her. He didn't give it on her schedule. He gave her what he meant to give first, her first. Then the patience went out of him all at once and her body caught fire off his. That's dominance and tenderness in one man, no contradiction, and the breaking was a gift and not a taking. "Shaking, undone, hers." Yes. And her drowning the word at the top of it, coming with his name and not the other thing. That's a lovely, awful image.
 
-Cassie, my heart. "Is it that you can't say, or that you don't want to?" "Both." Cassie is the only one in this book asking Vee real questions and leaving her room to answer. And Vee is "grateful. She was also, a little, not." Same.
+But I'm carrying what she isn't. I read chapter 43. I know where his evenings go on the nights she stays at the dorm to study. I know about the couch, the mirror, "I'm doing it for *you*," "God, I want her." So when she lies there marked all over by him and asks herself whether he belongs to her, it isn't a rhetorical ache for me. It's a knife, because I know the answer is "not only." "What she had of him... lived only here, in the dark, in this bed, and stopped at its edges." She doesn't know how true that is. He said "she consents every time or I'm done," and I believed him, and I still do about the bed. But it's getting harder for me to accept that the consent stops at the bedroom door when the frame around the bedroom is something she never got to see.
 
-The parents broke me in a quieter way. The question mark on "boyfriend," out loud. Mom touching her own collarbone, then wearing the nurse face at every second helping. Dad pricing the dress. And then the bomb: *he sewed it.* On a machine on his sun porch, because she mentioned a magazine. I'd somehow missed that it was his work, and it makes him more devoted and more unknowable at once. "Weird is worse than wrong" is going in my quote book. And I'm glad she says she's not ashamed of it.
+One small worry. This is the third chapter running that ends with her awake and the word unsaid, and the sentence carried back into her body. I'll take it, because each one has turned the screw a bit further. Crackers and a meal, then the dryer, now *boyfriend* going small in her mouth in front of her mother. But I can feel the loop. Next time I want something to break: him saying it, or her saying it, or someone else saying something.
 
-Underneath it all I'm uneasy about the thinness. Mom thinks she's sick. Vee's eating like a field hand and the bras are riding higher. Probably nothing, probably just desire and swimming and real food. But a nurse mother noticed, and I'm filing it.
+What I'd text at 1 a.m.: *he can't stand loud rooms and she thinks it's because he's ashamed of her and I'm going to scream. also he said "I'm listening now" and I'm fine. I'm fine.*
 
-I'm still with him, but he's on a clock now. He gave her a drawer, his shirt, the dress. Words are the one thing he won't give her, and now she's stopped asking.
+---
 
-GATE 39 — Cropped
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "and the small *wait* behind her breastbone went into the body where small *waits* go when the quilt is warm" (the third time it circled, I nearly skimmed)
-WHY: This is the jacket line landing, and it hurt the way it was supposed to: her best sentence, his two breaths, and an answer about bodies. I want the next chapter now because she's started a pile she won't look at, and I need to see whether he notices it before Randi does.
+CAPTURE: 8
+NEXT: 7
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "It had no name. He'd given her all of it and not the name." This is the third ending in a row on the same unsaid word, and that's where I felt the loop.
+WHY: The Chili's scene is the best piece of dramatic irony in the book so far. I watched him hurt for her while she read it as contempt, and "I'm listening now" is exactly the man I came for. I'll keep going, but I need the not-saying to cost someone something soon. Whatever Randi's been doing on that couch is due on the page with Vee in the room.

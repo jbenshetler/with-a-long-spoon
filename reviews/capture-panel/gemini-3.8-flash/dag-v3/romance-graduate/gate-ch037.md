@@ -1,41 +1,35 @@
-*capture-dag-v3-grounded · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 8c632230c7bd · 2026-11-02*
+*capture-dag-v3-grounded · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 5329b065a659 · 2026-11-02*
 
 REACTION:
 
-Oh, my god. My chest actually aches.
+Oh, my heart. My actual, physical heart is aching right now.
 
-Leave it to Helen Rivers to take a stats group project—a college statistics group project about federal pandemic loans!—and turn it into a devastating, razor-sharp psychological x-ray of class, family, and the fragile architecture of Randi’s entire life.
+Look at the quiet, devastating contrast between chapter 36 and chapter 38. On Tuesday morning in chapter 36, Randi walked into this exact bedroom, yanked open the second drawer, and found Vee’s green satin panties hidden under his undershirts—and then rode Pace on that bed with Vee’s silk clutched in her fist before sobbing her eyes out. And now here is Friday night. Vee comes charging in through the front door, shedding boots and coats, frantic with five days of sheer somatic starvation, and strips herself bare: *"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."*
 
-Remember chapter 1? "Her mother lived on egg whites and tofu, a thing she had told him with a knife in it." Remember the dark green Mercedes convertible, the four-figure cognac leather heels, the bone-and-camel sorority wardrobe, the effortless way she dismisses menu prices while Vee counts pennies for a mimosa? Randi grew up wrapped in the armor of generational wealth, believing her father was one of the good ones—the benevolent patriarch who took the PPP loans to keep people on payroll, the bright counterexample that would prove cynical, working-class Cassie wrong.
+SHE THREW HER GREEN UNDERWEAR ONTO THE SPANKING BENCH.
 
-And then she hovers over the point. MIRA. MIRANDA.
+Helen Rivers, you absolute genius. The dramatic irony is a cold wire pulled tight right across my throat! The "unusually proportioned table" that hides the padded bench where he dismantled Randi in chapter 1, where Randi wept, where the entire kink of this house lives under a false wooden top—and Vee just casually tosses her green thong on it like it’s a laundry hamper, completely blind to what it is.
 
-Her own name. Her father literally named the shell companies after his daughter. And right there in the cold, gray, unsparing print of a public federal database: millions of dollars taken, and *everybody cut anyway*.
+And then the pizza. God, the way Rivers writes food as intimacy. The homemade crust, the slow-cooked Roma sauce with cream and wine, the water buffalo mozzarella, the cornmeal hissing on the stone. Vee saying *"I used to just eat"*—and realizing that just like her palate, her entire body has been woken up from flat, processed beige into vivid, separate, brilliant color.
 
-The sheer, sickening shock of that realization hitting Randi in real time—in a soundproof glass room in the library, sitting right next to the girl whose dad actually got laid off in 2020—made my stomach drop through the floor. The total withdrawal of motion. The color draining clean out of her face. And that ragged, choked, horrific little curse: *"Cheating bastards."*
+But the ending. The shirt.
 
-She wasn't calling other businesses cheating bastards. She was talking about her own father. Her whole gilded, untouchable world—the Mercedes, the boutique shopping sprees, the sorority single, the easy generosity she dispenses like favors—was bought and paid for by her family bleeding their workers dry during a national crisis. The shame of that is a brand-new kind of wound for Randi. It’s not sexual, it’s not romantic, and she had nowhere to hide it.
+I had actual tears in my eyes. The sheer vulnerability of Vee pulling that washed flannel out of her bag—and watching Peter's face fall for half a second because he thought she was returning it, that she was pulling away after five days apart! And then Vee spilling the raw, undignified, embarrassing truth: *"It stopped smelling like you... I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again."*
 
-AND VEE. Look at Vivienne Thorne.
+And Peter didn't tease her. He didn't make her feel small or needy or silly. He just put it on right over the shirt he was already wearing, standing there in his warm kitchen with two shirts on because his girl asked him to steep it in his skin for her. That is pure, breathtaking romance. He loves her. He loves her so deeply and quietly, and she loves him with everything she has.
 
-Vee saw it. Vee read the screen. Vee clocked the name Miranda, clocked the numbers, saw the devastating blow land right between Randi's ribs—and instead of prying, instead of gossiping, instead of weaponizing it, Vee quietly shielded her. She pulled the laptop toward herself, gave Randi busywork to steady her hands, and protected her friend's dignity without asking for a single drop of credit.
+And yet, sitting thirty feet away in that bedroom, under a pair of discarded green panties, is the bench. And waiting out in the world is Randi, who has her green panties from the first night, who knows about the drawer, and who is bleeding from her own family's fraud. The fall is coming, but god, this hearth is so warm.
 
-"Vee walked out between her two friends into the gray and thought... that Randi had been dealt a rotten thing by a man she'd had the luck to be the daughter of — no hand in it, none of it earned — and that the kindest thing a friend could do was not make her carry it in front of anyone."
-
-I could weep. Vee loves Randi with such pure, instinctive, breathtaking grace. She is so profoundly good at her core. And that goodness is the exact tragedy of this novel, because Randi is deceiving her, Pace is deceiving her, and Vee is spending her purest loyalty protecting the woman who is actively engineering her seduction.
-
-The thematic resonance of "the outlier" from chapter 27 coming back here—the point that sits all the way off by itself in the white, easy to see if you know what to look for, invisible if you don't—is pure literary genius. What a quiet, brilliant, heartbreaking chapter.
-
-GATE 37 — The Outlier
+GATE 38 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Watching Randi discover her family's PPP fraud named under her own shell company in a library study room was an absolute masterclass in quiet psychological devastation. Vee clocking the truth and instantly, silently stepping in to protect Randi's dignity broke my heart completely.
+WHY: The casual toss of Vee's green thong onto the hidden spanking bench was an agonizing stroke of dramatic irony, but Peter putting on his old flannel over his clothes just to recharge his scent for her broke my heart completely. The domestic romance between them is so breathtakingly real that the looming crash feels unbearable.
 
 LEDGER
-+ LOVE: Vee silently protecting Randi's dignity when she sees the fraud under Miranda's name without asking for a word of explanation
-+ FEAR: Randi's shame over her family's fraud pushing her to cling even more desperately to the control and escape she finds in Vee and Pace
-~ S4.3 DEEPENED: Randi's constructed armor of wealth and European manners isn't just social performance—it's built on top of ugly familial exploitation that she just discovered in real time
++ LOVE: Peter immediately putting the flannel on over his own shirt so it will smell like him for Vee's dorm bed without teasing her for asking
++ LOVE: Vee tossing her green thong blindly onto the false-topped spanking bench—a masterstroke of visual dramatic irony
+~ F8.2 DEEPENED: Vee being so emotionally and somatically dependent on Peter that she literally needs his scent on a flannel to survive five days in her dorm makes the pointing game reveal an absolute emotional execution

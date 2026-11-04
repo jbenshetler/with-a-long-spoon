@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-11-01*
 
 REACTION
 
-Oh. *Oh.* This is the chapter I've been starving for ten chapters, and it came from the side I least expected. Pace's POV, for the first time that I can tell, and the whole structure of the book just flipped over in my hands.
+Oh, this is a clever little chapter, and it has no sex in it at all. I noticed the lack and didn't mind, which surprises me.
 
-The scene on the couch is hot. Randi on her knees at the rail, narrating the goodbye kiss, the clench on "I kiss her mouth," the wet and the wood. It's the most charged thing in the book because she's the one who's hungry, and she's running the story at him while it's running her. Then Pace does the thing I wanted him to do, finally. He asks "Do you like it?" She says "I'm doing it for *you*," and he says "I didn't ask who it was for." And "You don't have to do it for me." That's the kindest cruelty in the book, and she comes on it, furious. Then "God, I want her" slips out and she covers it with "for us." I yelled at the page. She cannot hear herself, and he can hear her and chooses the gentle version. I wanted him to say it.
+The whole thing runs on the classroom setup: the "outlier" lecture, the "account for it or set it aside" line, and the point off on its own in the white. Then MIRA, then MIRANDA, and Randi going still. The author is telling me Randi has a whole life under the sorority gloss that none of us have seen. The family money is dirty, and she said "Cheating bastards" like she was reading her own mail. I loved that Vee caught it. For once Vee was the one watching, not the one being watched. She saw, she decided not to say, and she gave Randi a task to hold. That's real tenderness, and it's the first time I've seen Vee do something for Randi without being handed a script. It also doesn't fit the "Randi is the manager" shape I'd been carrying. Now Randi is the one with something to hide, and Vee is the one managing.
 
-The morning wrecked me. Randi walks off with Vee's green satin, comes back with it clenched in her fist, and won't let go of it. She won't be touched or turned or given anything. She rides him with her eyes on the wall, comes with a sound he's never heard, and then cries. "It's hormones." No. It's grief, and it's the first time Randi has been the one left unfed. And Pace lets it be hormones. He even half-understands it and files it as "a fair one, and it was his." I'm furious at him again, and I love that I am. The last image, with him folding the satin and putting it back in the drawer, then pushing Vee's drawer shut with two fingers because the house is shifting, is quietly awful. He's closing her place in his house and telling himself it's the weather.
+Cassie's proof was the best irony. She thinks she's been handed confirmation, and she's holding the knife without knowing whose hand it's in. Also, "My dad got laid off in 2020," set down flat beside the facts, with no handle on it. Oh, Cassie. I'm glad she's back in a scene.
 
-The sourest note is Pace's smugness about "she consents or I'm done." He's checking the wrong gauge. Nobody is asking whether Vee knows there's a game. I'm also still mad that Vee and Randi haven't been in a room with heat. This chapter gets me close to it with Randi's mouth, but through a man's hands.
+I did notice that I'm now several chapters from any heat that wasn't narrated across a table or through a door. Ch36 had the real thing, and this one is a bridge. I forgave it because the bridge carries a reveal. It was also a little tidy in explaining itself. The "invisible if you didn't know to look" closing line was the book nudging me, and I didn't need the nudge.
 
-The "Four" count was cute and slightly overlong, and the quad "pointing" backstory was a little talky. But I'm not leaving.
+I'm suspicious now. The loans and the "ex who apologized to the furniture" and the hair-trigger over Vee. What does Randi actually want? And what will Vee do with a secret she now holds over her?
 
-GATE 36 — Four
+GATE 37 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Finally the book turns on Randi: "I'm doing it for *you*" / "I didn't ask who it was for" is the best exchange in it, and the green satin morning broke my heart. I want Vee and Randi in a room now, and I want somebody to say the true thing out loud.
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "The professor was talking about the semester project." The lecture-hall setup is slow and runs a bit long before anything charged happens.
+WHY: The MIRANDA reveal and Vee quietly protecting her turned the bridge into something I wanted. It's a quiet chapter with zero heat, so I'd need the next one to put people back in a room together.

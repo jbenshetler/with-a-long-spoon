@@ -1,45 +1,47 @@
-*capture-dag-v3-grounded · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 45ecb233aaf5 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 3a04d239f900 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch034 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5794cafc164c · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch034 · history ch001..ch034 · ledger no seed aeec222c93ca · 2026-11-02*
 
 **REACTION**
 
-"Never. I'd never share your photograph."
+"Like he wants *me*. With the body attached. Not the other way around."
 
-Read that sentence again. She asks him to promise he'll never share *her* with anyone. He promises he'll never share her *photograph*. It's a lawyer's promise, worded exactly, and it's the most Pace thing he's ever said. Every word of it is probably true, and it leaves the whole couch out. He doesn't have to forward that picture to anybody. He can just tell Randi about it, the way he's told her everything else. Or he can hold the phone out across the couch and say nothing. I watched the word go to Delivered and my stomach went with it. That uncropped induction photo was bad enough. Now there's a pinup on his phone, posed by his own hands. This is the object I've been afraid of since the green panties.
+Randi doesn't answer, and her eyes go bright and unfixed. Then "It doesn't," low and not quite even. That's the moment the chapter grabbed me by the collar. Vee thinks a good story landed and feels proud of it. I was thinking about chapter 1. Pace looked past the face, Randi got seen once in her whole life, and she panicked and went back behind the mirror. Vee just described across a tablecloth the exact thing Randi ran from, and she described it as the best thing that's ever happened to her. Randi is hearing what she was offered and refused, in the voice of the girl who said yes. She wants it, she wants Vee, and it's her own man. I believed that catch in her breath more than anything she's said since "she got past me."
 
-Then there's "Who does this to you when I'm not around?" and "Sometimes I take care of it myself." Sometimes. He gives her the pause he always takes "when he meant to answer a thing properly," and then he answers it properly and leaves out the petite brunette who locks his deadbolt. It's not technically a lie. That's what makes it so cold. And right before that Vee thinks *He's all mine.* I said "oh, honey" out loud.
+Right before that she worked the rim in under her index nail at "He woke you up." The book doesn't comment, and it doesn't have to. Every time Vee says something true about being fed, Randi hurts herself under the table. And she orders without opening the menu, and the book never tells me what she ate.
 
-The posing is the hottest part of the chapter, and it's the method yet again. He presses her shoulder and sets her elbow, moves her knee a little ahead of the other one, and kisses each place after his hands set it. It's the measuring scene and the bench ritual, and she lies there "with no wish to argue with any of it." He tilts the lampshade the way he clicked the lamp up a notch on Halloween. Then the grin over the top of the phone "like a boy who'd gotten away with something." I know it's meant to be sweet. In this book, that grin means exactly what it says.
+The photo. Oh, honey. Last chapter I was clenched about Pace's lawyer promise, "I'd never share your photograph," and I was sure that picture would end up on the couch through him. It didn't have to. Vee showed it to Randi herself. Randi worked it out of her with the same move as chapter 15: "You don't have to show me," slide the phone back, close the door. That made Vee push it open. First the cropped one, then "you only gave him *half*?", and Vee hands over the whole uncropped length of herself so she won't get filed as a girl who flinches. Pace kept his word to the letter, and the picture still reached Randi. That's colder than if he'd broken it. And "Showing him your toes, eh?" Randi knows exactly what he does with feet. She was laughing about her own bed.
 
-The bathroom is what really got me, though. He says "I like you exactly like this." She goes anyway, puts her face back on, and works in his mirror "until she'd found the version of herself she wanted him to keep." That's Randi's mirror from chapter 1. It's the built face, the poppy-red mouth, the composed girl who has "decided to be looked at." Two chapters ago she was coming back to that mirror with a bag. Now she's making up a face for him in it. She's learning Randi's whole repertoire, the face and the inch-and-stop, without ever being taught. (And one small thing: her nipples are pale pink here. So the cocoa-brown back in chapter 11 really was someone else's body, or the book slipped. I'm still side-eyeing it.)
+And there's the jacket line, said almost word for word: "You're just finally hungry out loud." Seeing a blurb quoted inside the chapter usually makes me wince. This time it landed, because it's the kindest thing anyone has said to Vee, it's true, and Randi is saying it about appetites she starves in herself. "If you're a sex pervert, you're *my* sex pervert," and then "Does he have a brother?" Ha. She was ad-libbing because she couldn't stop herself.
 
-The opening worked for me. It starts mid-orgasm with her hair curtained around both their faces, the soreness she'll be glad of tomorrow, his head on her breast "not about sex for him," and then it is. That's a real scene, not a summary, and after last week I was grateful. But the third time cuts away at her hand closing around him, and then I get the longest recipe in the book. Lemon zest "in a fine bright rain," garlic smashed four times, onion going see-through, stock, butter "from bright to silk." It's lovely. It's also a page of piccata, and I was skimming for the part where somebody says something. Her line about the wine he poured into the pan was cute.
+The kiss at the end. Vee leans up the last half-inch after Randi pulls back. That's the inch. She's using his move on her best friend and "decided it was what she wanted, and didn't bother about it again." Then Randi holds her eyes, close and steady, too long. Neither of them is acting there. Add "Just us," which comes out rough, and two evenings a week of night Anthro with Cassie conveniently out, and Randi now gets weeknights with her. The whole week is getting divided up between the two of them, and Vee thinks she's the one doing the dividing.
 
-When somebody did say something, it was worth the wait. "This is my home." Then "I don't go back," each word "set down clean and apart from the last." The parents door shuts, and Vee takes her hand off it and lets the quiet be kind. I loved her for that. It's the grown-up move, the same one she made with the word *sorry* under the quilt. That's the third locked door now: the parents, the scar, and the word.
-
-Then Sheri at Thanksgiving with a pie she'll pretend she made, and "She's alone." Vee's flicker goes out "as fast as it had come." It shouldn't. Sheri isn't the woman to worry about, but Vee will be in Ohio for a whole week while his table sits right here. Sheri knows both names, and Randi has a Mercedes. Where is Randi going for Thanksgiving? To egg whites and tofu at her mother's, or out to 614?
-
-It's three chapters now without Randi on the page. This one wasn't quiet, so I'm not restless the way I was after the pool. But every warm thing in it, "all mine," "never share," "this is my home," is a bomb with a fuse running back to her.
+What bugged me: the first half is Vee giving a list of how much sex they have. "Two, three. And then there's mornings… and afternoons." It's sex as inventory, told rather than shown, and after last week's summary I felt the book lean on telling again. The Benedict yolk did more for me erotically than her whole speech. Also, "leaned in over the soup that wouldn't come." What soup? She ordered the Benedict. I noticed. And we're back in the velvet booth from chapter 15, with the hostess already saying "Randi?" like Randi owns the place. It's brunch number whatever. But there's no fake man and no bathroom run this time, and the engine finally changed. Randi listened more than she performed, and she cracked.
 
 ---
 
-GATE 34 — In His Hands
+GATE 35 — All the Time
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "He took a grater to two lemons and brought the yellow off them in a fine bright rain and left the white behind" (a full page of piccata after the second "Again" cut away, and I was skimming for dialogue)
-WHY: The posing and the photo are charged, and they're the method in its purest form. "I'd never share your photograph" and "Sometimes I take care of it myself" are the two coldest true sentences he's ever said. The recipe sags, and Randi's still missing, but now there's a picture on his phone and a Thanksgiving with Vee in Ohio.
+ROMANCE: 3
+ALMOST-STOPPED: "Two, three. And then there's mornings… and afternoons." (the sex as a tally told over brunch, and I felt it going summary again)
+WHY: Randi cracks for real at "with the body attached," and Vee hands her the uncropped photo Pace swore never to share. Then Vee is the one who stretches the kiss. The brunch template broke into something true, even if the first half was a list.
 
 LEDGER
-+ FEAR: The pinup is on his phone now, delivered. He promised never to share the "photograph," not her, and that promise leaves the whole couch out.
-+ SUSPICION: "Sometimes I take care of it myself. Thinking of you." He answered properly and left Randi out of it. It's true the way all his evasions are true.
-+ SUSPICION: Vee making up her face in his mirror "until she'd found the version of herself she wanted him to keep" is Randi's chapter-1 mirror. She's building a face for him now, after he asked her not to.
-+ WAITING: Thanksgiving week. Vee's in Ohio, Sheri's bringing pie, and I want to know where Randi is.
-+ GRUDGE: The recipe paragraphs are getting longer, and this one ran a page after the sex cut away.
-~ F28.3 DEEPENED: The uncropped induction photo has company. This one is posed by his hands and sent from her phone.
-~ S13.3 DEEPENED: "I don't go back," each word set down apart. The parents door is shut and locked.
-~ S25.5 DEEPENED: Sheri knows both names and will be at his table on Thanksgiving while Vee is gone.
-~ S30.2 DEEPENED: "Just for me" has become "never share your photograph." The promises keep getting more exact and less true.
-~ G32.5 FORGIVEN: The opening sex is on the page, mid-orgasm, sore and explicit, even if round three cut away.
-~ W33.5 DEEPENED: Three chapters now without Randi on the page.
++ LOVE: "You're just finally hungry out loud." Randi absolving Vee for the exact hunger she starves in herself.
++ SUSPICION: "It doesn't," with a catch. Vee described being wanted with the body attached, the thing Randi was offered in chapter 1 and ran from, and it broke her face for a second.
++ FEAR: Night Anthro, Tuesday and Thursday, "just us," Cassie out. Randi now has weeknights with Vee to go with the brunches.
++ GRUDGE: The first half is a sex inventory told over eggs. Plus a phantom soup.
+~ F28.3 CONFIRMED: The uncropped photo reached Randi, through Vee's own hand rather than Pace's.
+~ F34.1 SHIFTED: Pace kept the lawyer's promise to the letter. Vee broke it for him to keep from looking like a girl who flinches.
+~ S30.2 DEEPENED: "Just for me" lasted ten days. The private pinup was on a brunch table.
+~ F1.4 DEEPENED: The rim under her index nail at "He woke you up," and her meal goes unmentioned.
+~ S27.4 DEEPENED: Vee leaned up the last half-inch into Randi's kiss on purpose, and Randi held her eyes too long.
+~ F30.3 DEEPENED: She's using the inch on Randi now.
+~ S5.2 DEEPENED: "Just us" came out rough. It's not strategy anymore.
+~ G31.5 FORGIVEN: No story, no bathroom flight. The engine changed.
+~ G17.3 SHIFTED: Same velvet booth, but no fake man, and Randi listened instead of performing.
+~ F4.2 DEEPENED: "So it's just us." Cassie is cut out of the new class before it starts.
+~ F20.1 DEEPENED: The Benedict, "the one that cost," and a good tip. The daring gets easier each time.
+~ S10.4 DEEPENED: "Showing him your toes, eh?" Randi knows exactly what he does with feet.
+~ W33.5 ANSWERED: Randi's back on the page, and she cracked.

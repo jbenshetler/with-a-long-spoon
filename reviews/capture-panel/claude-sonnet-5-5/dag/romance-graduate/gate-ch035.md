@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 REACTION
 
-Oh, this is the chapter I've been waiting ten chapters for, and the book handed me the scene and then took the heat out of it. Vee is in the booth and Randi is across from her. Randi hears "Like he wants *me*. With the body attached" and has to shake her head to clear it. "It doesn't," Randi says, low and not even. That's the best beat in the book in a long while. Randi is in love with her own story, or with the girl telling it, and she can't hide it. The "just us" for the Anthro class had that same crack in it. I felt that one in my stomach.
+Oh. *Oh.* This is the chapter I've been starving for ten chapters, and it came from the side I least expected. Pace's POV, for the first time that I can tell, and the whole structure of the book just flipped over in my hands.
 
-The photo moment worked too. "Miss November," the long look, and Vee's foot going under the table. Vee pushed past the cropped photo to the full one because she couldn't stand to be seen as a girl who flinches. That's Randi's management working, and it's lovely and awful. The extended kiss, with Vee the one who wouldn't let go, finally flips the pattern. Randi drew back "a beat past what a goodbye needed," and I'm glad she's noticing.
+The scene on the couch is hot. Randi on her knees at the rail, narrating the goodbye kiss, the clench on "I kiss her mouth," the wet and the wood. It's the most charged thing in the book because she's the one who's hungry, and she's running the story at him while it's running her. Then Pace does the thing I wanted him to do, finally. He asks "Do you like it?" She says "I'm doing it for *you*," and he says "I didn't ask who it was for." And "You don't have to do it for me." That's the kindest cruelty in the book, and she comes on it, furious. Then "God, I want her" slips out and she covers it with "for us." I yelled at the page. She cannot hear herself, and he can hear her and chooses the gentle version. I wanted him to say it.
 
-But I wanted the heat in the telling, and this chapter gave me a summary. "We have so much sex" is true and tender, but it's generic. Last chapter at the bistro she was soaked in the details. This one was a rundown, and I don't get the fingers or the spank. I also don't love the blurry thing where Vee tells it all and Randi just sits there absorbing it. Where does it go? Does Pace get it tonight?
+The morning wrecked me. Randi walks off with Vee's green satin, comes back with it clenched in her fist, and won't let go of it. She won't be touched or turned or given anything. She rides him with her eyes on the wall, comes with a sound he's never heard, and then cries. "It's hormones." No. It's grief, and it's the first time Randi has been the one left unfed. And Pace lets it be hormones. He even half-understands it and files it as "a fair one, and it was his." I'm furious at him again, and I love that I am. The last image, with him folding the satin and putting it back in the drawer, then pushing Vee's drawer shut with two fingers because the house is shifting, is quietly awful. He's closing her place in his house and telling himself it's the weather.
 
-"Finally hungry out loud" is the jacket line, delivered right on schedule, and it felt like the book ticking its own box. Even so, "I used to be a person with thoughts" made me grin. I'm still furious about the "Peter" whispered to a sleeping man and the drawer. He builds a place for her and never says one word. And the Cassie scene, where she was seen and flat-out asked "Do you love him," was good.
+The sourest note is Pace's smugness about "she consents or I'm done." He's checking the wrong gauge. Nobody is asking whether Vee knows there's a game. I'm also still mad that Vee and Randi haven't been in a room with heat. This chapter gets me close to it with Randi's mouth, but through a man's hands.
 
-I'm on board, but this is the second chapter in a row that's mostly soft. I want a real scene next, and I want Randi to crack.
+The "Four" count was cute and slightly overlong, and the quad "pointing" backstory was a little talky. But I'm not leaving.
 
-GATE 35 — All the Time
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "We have so much sex, Randi." The chapter then summarized it instead of showing it.
-WHY: Randi's slip ("It doesn't") and the kiss Vee wouldn't let end are the first real cracks, and I want what comes next. The telling stayed general, though, so the heat I came for stayed at a simmer.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Finally the book turns on Randi: "I'm doing it for *you*" / "I didn't ask who it was for" is the best exchange in it, and the green satin morning broke my heart. I want Vee and Randi in a room now, and I want somebody to say the true thing out loud.

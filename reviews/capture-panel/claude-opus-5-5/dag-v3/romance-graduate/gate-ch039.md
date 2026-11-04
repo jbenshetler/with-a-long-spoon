@@ -1,46 +1,45 @@
-*capture-dag-v3-grounded · gate ch039 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 8927634c026f · 2026-11-02*
+*capture-dag-v3-grounded · gate ch039 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch039 · history ch001..ch039 · ledger no seed c83608a50093 · 2026-11-02*
 
 **REACTION**
 
-"I love how good we are together."
+"Is this what we are now?"
 
-I put the Kindle down and stared at the ceiling. She builds a sentence for weeks, cracker by cracker. It's the closest she can get to *I love you* without saying it, and she says it to the moon because she can't look at him. And she's frightened. He takes two breaths. She's never heard him take two. His hand starts two answers on her shin and finishes neither. Then he talks about sex. She said love and he said "what your body does." The whole jacket comes down to that one exchange. *He gives her everything but a word for what they are.* I've waited thirty-nine chapters to watch him dodge it face to face, and it hurt exactly the way I thought it would.
+She said it too loud, and I cheered a little. Thirty-nine chapters of Vee holding things under her tongue, and she finally throws one at him: a daytime voice in a room meant for murmuring. It's a real grievance, too. They *don't* leave the house. Since the Rusty Nail it's been the trees, his table, his bed, and the occasional photo. "If we're just sex, I'd like to know. Don't get me wrong — it's really good sex." That's the funniest true thing she's said to him. He doesn't fight. He thinks about it like a knot in the wood, and she knows that's worse, because she can't wind up against a plain question.
 
-Then there's "I never had this either." Honey, he had Randi on that couch two Mondays ago, four times. Maybe it's true the way all his sentences are true. Maybe what Vee's body does really is new to him. But I've got a whole file of his lawyer sentences now: "never share your photograph," "sometimes I take care of it myself," and this one goes in with them. And when he kisses her hair longer than usual, I don't know if that's love he can't say or guilt he can't say. I don't think he knows either. That's the best thing in the chapter.
+Then Chili's. I loved that her mouth picked the gloppiest skillet in town. And I loved how the nachos died in her mouth: "to food what a billboard is to a painting." Then "He had ruined it for her. Not just this." That one actually hurt. The fine life she used to be content with is gone, and she can't go back to it. It's the cracker line from last chapter, except this time it's grief instead of gratitude.
 
-The pile is what scared me. "The place was not empty." There were small flickers already, repair work she's been doing all fall: "Sure," the drawer, the five nights. She's been stacking evidence she won't look at. That's F33.2 coming back, the way I said it would, bigger. She's going to keep sliding things into that pile until it falls over on her.
+But the restaurant is where I sat up, because she reads him completely wrong and the book lets me see it. His eyes keep slipping to the screen. He keeps squaring and re-squaring his fork, and a flicker of irritation crosses his face that he hides from her. That isn't a man punishing anybody. It's a man getting flooded. I thought straight back to the seventh-grade teacher who put his desk out in the hall, and the boy who started college at fifteen. "In a room like that I listen as hard as I know how and I still can't hear you." Okay. That changes how I read his whole method. The quiet house, the playlists he's stopped hearing, never going out: some of it's control, and some of it is just what he needs to get through a day. I'm glad the book showed me the fork before it explained anything.
 
-But the second half almost lost me, and not because it was quiet. It explained itself to death. "The rule was that he said it first, and she did not know the rule was a rule until she had bumped against it from the inside." "She did not know what it was. She did not know yet." Then the laundry room spells out the whole thing I'd just felt: "*She had said her best sentence. He had not said the sentence back.*" Then "The sentence retired into her body," and "The cracker-and-meal would not return to her speech." Yes. I know. I was on the porch. And "*She had been received warmly*" is the book winking at its own title. I groaned. The prose felt different, too, stacked and repetitive, "She had... She had... She had." It's padded where it should be precise, and I missed the writer who wrote "Sticky fingers?" A scene this naked should have been left alone after the porch.
+Still, I'm side-eyeing it, because he taught dance classes at the Rusty Nail. A honky-tonk on a Thursday is not a quiet room. And I keep thinking about the other reason a man with a petite brunette on his couch every Monday might not want to take the redhead out in a college town where Sloane can pick his white pickup out of a parking lot. I don't think he's lying about the noise. I think it's true the way all his sentences are true, and it's also convenient.
 
-The cafeteria half I liked a lot. "My dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands." That's real and funny and grown-up, and weird being worse than wrong is a good thought. She cropped the photo for her mother and the uncropped one went to Randi. "Boyfriend?" with a question mark, out loud, at her parents' table. And Cassie: "Is it that you can't say, or that you don't want to?" "Both." Cassie asks the exact question Pace never will, and Vee is "grateful. She was also, a little, not." I love Cassie so much. She's the only one in this book who asks Vee anything for Vee's sake.
+Then she turns mean in the house, and she knows she's being mean. "You went cold on me after the Rusty Nail." Some back room of her knows she was the one who went cold, and she says it anyway "because she needed the line of it to hold." That's the most honest thing the book has written about her. He answers with "You know what happened after the dance," and her whole scaffold drops. Then she crosses the room and tells herself she's *forgiven him*. Honey, he didn't do anything. That's the rewrite from the bar retelling again, and I loved catching it.
 
-Side-eye: her mother says she's gotten thin. Two chapters ago her bra bands were riding up and she ate "like a field hand." So either Mom sees what she's afraid of, or the book slipped again. I'm choosing Mom, nurse face and all, but I noticed.
+The sex: she wants his control to break, she wants him to quit being careful. It's slow for a long time, and then it isn't, and he's the one who runs out of strength to wait. That landed. It's the thing she's been after since the first kiss, and she got it, and it *still* doesn't come with the word. "His spend" made me wince a little, but the rest was frank and in her head, which is what I come for. The name pushing up at the top and her orgasm drowning it is good. It's the same thing Randi does, swallowing what she means into her body.
 
-And Thanksgiving got skipped. Sheri's pie, the empty table, and where Randi went: it all happened off the page. Randi still hasn't come back on the page since the drawer. That's three chapters, and the panties and the drawer are just sitting there. This is the second quiet chapter in a row, with no heat at all. I'm starting to count.
+What wore on me: the last two pages. "It had no name. He'd given her all of it and not the name." That's practically the jacket read back to me, and it's the second chapter in a row of Vee lying awake grinding on the missing word, after the laundry room did the same thing. I felt it. Book, I know. I knew at the porch. And Randi has now been missing for four chapters since she rode him with Vee's panties in her fist. The drawer and the panties are still sitting there, and the book keeps circling Vee's ache instead of moving them.
 
 ---
 
-GATE 39 — Cropped
+GATE 40 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 6
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "She had said her best sentence. He had not said the sentence back." (the book narrating the wound I'd just watched it make, and I almost closed it)
-WHY: The crackers line and "I love how good we are together" are the jacket's central silence happening right in front of me, and it really hurt. The cafeteria scene with Cassie is sharp and funny. But the laundry room explains everything twice, Thanksgiving and Randi got skipped, and that's two quiet chapters running.
+ALMOST-STOPPED: "It had no name. He'd given her all of it and not the name." (the jacket recited back to me at the end of a second chapter of the same ache)
+WHY: Vee finally gets loud and mean, and the fork at Chili's quietly remakes Pace as somebody who gets overwhelmed, not just somebody in control. "I'm listening now" is a real turn. But the last stretch is the laundry room again in a bed, and I need Randi back on the page before this name loop stalls the book.
 
 LEDGER
-+ FEAR: The pile. Vee is stacking every flicker she won't look at in one place, and when it falls it'll come down all at once.
-+ SUSPICION: "I never had this either" is another lawyer-true sentence. The kiss on her hair that lasted too long is love he can't say, or guilt he can't say, and he doesn't know which.
-+ LOVE: "My dad would take it better if I told him Pace takes that dress off me than that he made it." Weird is worse than wrong.
-+ LOVE: Cassie's "Is it that you can't say, or that you don't want to?" and letting "Both" stand.
-+ SUSPICION: Mom says she's gotten thin when her bras say otherwise. Either it's Mom's fear or it's a slip.
-+ GRUDGE: The chapter tells me its own wound in italics, winks "received warmly" at the title, and the prose goes padded and repetitive right when it should be precise.
-+ GRUDGE: Thanksgiving skipped entirely. Sheri, his table, and Randi's week all happened off the page.
-~ S33.1 DEEPENED: She won't say it first. The not-saying "had its own gravity," and now it's part of her shape.
-~ F33.2 DEEPENED: The doubt came back, as a "wait" behind her breastbone, and she put it in the pile with the others.
-~ F38.3 DEEPENED: She tried to say the word in a form he could hold, and he answered with her body.
-~ G1.6 DEEPENED: The laundry room explains the porch line by line.
-~ W34.4 FADED: Thanksgiving is over and the book never showed me where anyone was.
-~ W37.6 DEEPENED: Three chapters now since the drawer, and still no Randi.
-~ F4.2 SHIFTED: Cassie got the parents, the dress, and the hard question. She's still the one who hears the closest version.
++ LOVE: "Is this what we are now?" Vee finally saying a grievance out loud, too loud, with "it's really good sex" tucked inside it.
++ LOVE: "I'm listening now." It isn't the word, but it's the closest he's come.
++ SUSPICION: The fork, the screen, the hidden irritation. Loud rooms really flood him, and that ties back to the desk in the hall and fifteen-year-old Peter. The quiet house is partly a need, not only a method.
++ SUSPICION: He taught dance at the Rusty Nail, which is a loud room. "Too loud" is true and also convenient for a man who can't be seen around town with Vee while Randi's sisters know his truck.
++ FEAR: Vee is rewriting her fights so she's the forgiving one. "You went cold on me" was a lie she knew was a lie, and she's getting mean out of need.
++ GRUDGE: The unsaid word has gone on two chapters running, laundry room then bed, and it closes on the jacket line said back to me.
+~ S1.3 SHIFTED: He isn't perfect or just methodical. He gets overwhelmed in noise and hides it from her.
+~ S24.5 DEEPENED: "She had forgiven him," for something she did. The rewriting has moved from retellings into her own head.
+~ F38.3 DEEPENED: She got his control broken and still lay awake starving for the name.
+~ S33.1 DEEPENED: The name came up at the top and she drowned it on purpose. She's swallowing it the way Randi does.
+~ F39.1 DEEPENED: There's a "small wrong note" in the truck that she didn't stop to hear. The pile is growing.
+~ W37.6 DEEPENED: Four chapters now since the drawer, and still no Randi.
+~ G39.6 DEEPENED: The final pages explain the ache line by line again.

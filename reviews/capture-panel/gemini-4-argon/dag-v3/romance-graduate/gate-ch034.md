@@ -1,45 +1,55 @@
-*capture-dag-v3-grounded · gate ch034 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 45ecb233aaf5 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 2d9d7a9219b8 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch034 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5794cafc164c · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 4acd8b42d34a · 2026-11-02*
 
 REACTION
 
-OH MY GOD. This chapter had me smiling so softly and aching so hard at the exact same time—and then that line right in the middle of the pinup photo scene made my stomach drop through the floorboards:
+OH MY GOD. Remember in Chapter 34 when Vee made Pace promise: *"Only if you promise you'll never share me with anyone"* and Pace said *"Never. I'd never share your photograph"*?! AND TWO DAYS LATER VEE SHARES THE UNCROPPED PINUP PHOTOGRAPH WITH RANDI HERSELF!
 
-*"Only if you promise you'll never share me with anyone."*
-*"Never. I'd never share your photograph."*
+I actually had to put my hands over my face and laugh/groan out loud because the dramatic irony in this chapter is so sharp it could cut glass! Think about Pace's rule from Chapter 18: *"She chooses it, Randi. Every step of it."* Pace didn't share the photograph with Randi—*Vee* already had a waist-up cropped version ready on her phone "since the morning after" specifically to show Randi! And then Randi plays her like a Stradivarius! First Randi slides the phone back across the tablecloth with *"You don't have to show me"* (the exact reverse-psychology move from Chapter 15 that makes Vee hand over the cropped topless version!), and then after staring at Vee's bare breasts and poppy-red lipstick until she has to draw a breath to come back from a distance (*"Okay, Miss November"*), Randi says:
+*"Legs like yours, though — and you only gave him half?"*
+And Vee's pride refuses to let Randi think she flinched, so she pulls up the FULL uncropped naked pinup photo that Pace posed her for on Thursday night and puts it right into Randi's hand: *"I gave him all of it."*
+And look at what Randi notices at the very bottom of the frame: *"Showing him your toes, eh?"* The frosted-plum toes Randi held in her hands and stroked in Chapter 20!
 
-READ THAT AGAIN.
-She says: *"Only if you promise you'll never share me with anyone."* (Meaning the photo, yes, AND meaning *her*!)
-And Pace—who never lies with the literal words he chooses, who always answers with surgical, mathematician's precision—does NOT say "I'd never share you." He says: *"Never. I'd never share your photograph."*
-I literally clapped my hand over my mouth! Because he *is* planning to share her with Randi (and has already been sharing everything about her with Randi since the day they met!), so he narrows the promise down to *"your photograph"* so he can mean it 100% and look her in the eye with plain, open want while she hits Send! And look at her thought right before she sends it: *"He's all mine, she thought."* Oh, Vee.
+Hold on, though—before the photo, we HAVE to talk about what happened to Randi in the middle of that booth while Vee was talking about how Pace loves her, because my heart broke into a thousand pieces for Randi right there at the table.
+Look at the progression of Randi's tells while Vee pours her heart out over the eggs Benedict:
+1. First, Randi gives us the exact line from the book's back cover blurb! When Vee asks if she's getting greedy or turning into a sex pervert, Randi says: *"You're not greedy. You're just finally hungry out loud."* That was so warm and genuine, and you can feel how much Vee needed that absolution (just look at Vee ordering the expensive eggs Benedict instead of the cheap soup, breaking the yolk and dragging the toast through the hollandaise with a low moan!).
+2. Then Vee describes watching Pace cook real food from scratch just for her: *"Like my mouth had been asleep since I was born and nobody told me. Like I'd been eating with the sound off."* And Randi says *"He woke you up"*—and right there:
+*"Randi worked the rim in under her index nail and said nothing for a second, letting Vee have it."*
+Wait—not her thumbnail on the glass this time, her *thumbnail/rim under her index nail*! Her self-harm pain tell from Chapter 1, Chapter 15, and Chapter 25 is back!
+3. Then Vee talks about sleeping whole nights at his house ("just him and the trees out there, nobody else, all woods" — when Randi walked out into the dark in Chapter 11 and turned her back to him in Chapter 18!). And Randi doesn't make a joke or a quip; she just nods and lets the quiet be quiet.
+4. And then the blow that cracks Randi's armor wide open in the middle of the restaurant:
+Vee repeats her realization from Chapter 34—*"I feel looked at... Like he wants me. With the body attached. Not — the other way around. God, that sounds unhinged."*
+And look at Randi:
+*"Randi didn't answer. Vee looked up. Randi's eyes had gone bright and a little unfixed, held on her, and she gave her head one small shake, as if to clear it, and there was a catch in her breath she didn't quite smooth over. It stopped Vee — she had never watched a story land on Randi like this. 'It doesn't,' Randi said. Low, and not quite even."*
 
-And wait—let's look at the timeline and all the little details locking together with Chapter 32 and Chapter 33!
-This is *Thursday, November 12*—the night right before Friday the 13th in Chapter 32!
-1. In Chapter 32, Vee mentioned eating *"chicken piccata instead of cafeteria pizza"* at his table. THIS IS THE CHICKEN PICCATA NIGHT! Watching him cook it—listening to the pan's talk change so he turns the chicken breasts without even looking, smashing garlic with the heel of his hand, pouring in a long glug of the Chilean Sauvignon Blanc, swirling butter off the heat, and *blowing on every single tasting spoon before he lets it near her mouth because of the baked-tomato burn from earlier in the week*—made me want to weep! He has been blowing on every spoon for days because a hot tomato burned the side of her breast!
-2. Wait: when Vee gets up to go to the bathroom to brush her hair and put on her eyes and poppy-red lipstick for the photo (*"In the bathroom she brushed the wreck of her hair back into something, and put her face back on"*), where were her brush and makeup?! Was this Thursday night the night he moved her things into the top drawer before she woke up on Friday the 13th, OR did she use her kit on the counter Thursday night and he moved it all into the top drawer while she slept/before Friday?!
+OH, RANDI. Remember Chapter 1?! Why did Randi lock herself in Pace's bathroom and swear she'd never let him see her again, and why did she start the pointing game in Chapter 3?! Because for twenty-one years Randi had made sure her pretty face and her trained body were all there was to find, and when Pace looked *past* the face and called her beautiful after the bench, she flinched like she'd been hit! And since then, Pace has been giving *Vee* the whole soul-deep thing—looking at *Vee* with the body attached, playing Fleetwood Mac and country music she grew up on (not just Steely Dan and Sade!), never touching his phone—while Randi has been reduced to the game and the schedule! And yet at the exact same time, Randi is looking at *Vee* across that booth and feeling both the unbearable ache of what Pace is giving Vee AND her own overwhelming feelings for Vee! And poor sweet Vee thinks Randi got choked up just because Vee told a good story about a hot Saturday!
 
-And that whole sequence on the bed before and during the photo shoot—I am completely weak in the knees. The image of Pace rolling all the way across her sideways, with his feet hanging off the far edge of the mattress, laying his cheek on the lower slope of her breast with one hand up in her copper hair and just *looking up the length of her at her face*! And her realization: *"He takes such comfort there, she thought. They're not about sex for him."* Until his lips wander up to the pale pink tip and just hold her gently between his lips without even taking her in, and she feels him hard against her hip (*"Not just about sex for him, then"*)! That line—*"with Pace she was a girl who had a body, not a body that happened to have a girl attached to it"*—is everything I have ever wanted in a romance novel.
+And then—THE END OF THE CHAPTER. Two huge turns that made me gasp:
+First: VEE ASKS RANDI OUT FOR NEXT SEMESTER!
+*"They just opened a night section of Anthro... Tuesday and Thursday nights, seven to eight-twenty. It'd be like stats, except we'd have picked it."*
+And Cassie isn't in it—*"So it's just us."*
+Listen to Randi's voice when she repeats *"Just us"*: *"it came out softer than the plan called for, a small roughness under it, there and gone."* Vee is worried stats class is ending in a few weeks and doesn't want to lose her guaranteed hours with Randi, so she books them into a Tuesday/Thursday *night* class together for next semester ("except we'd have picked it")! (Wait—Thursday night was Vee's school night at Pace's in Chapter 34, and now Tuesday and Thursday evenings from 7 to 8:20 belong to Randi and Vee!)
 
-And then the pinup pose! Look at how differently Vee and Randi use the bathroom mirror: in Chapter 1, Randi locked herself in Pace's bathroom to put her social armor back on and hide from him; here, Vee goes into the bathroom to brush her hair and put on poppy-red lipstick because she wants to be a glamorous calendar pinup *for* him! And when she comes back out and he stalks around the foot of the bed like a man in a nature program, she puts a flat hand on his chest (just like Chapter 30!) and laughs, *"No, not like that. You'll have to wait."* And then he poses her limb by limb, kissing every single point his hands touch—shoulder, hip, knee—before taking her phone (not his! Because hers has the better camera, AND that way *she* has the only copy until *she* chooses to send it to him! Classic Pace!). No wonder they ended up having sex three times in one evening before dinner!
+Second: THE KISS AT THE CURB!
+First Vee admits to herself that the goodbye hug and kiss is *"the part Vee had come, without ever quite admitting it, to wait on all week."*
+And then, when Randi kisses her on the mouth and starts to do her signature little draw-back:
+*"this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up. She noticed it, and decided it was what she wanted, and didn't bother about it again."*
+VEE CHASED RANDI'S MOUTH! Remember Randi's story in Chapter 31 about the whole art of kissing being *"when to ease off and leave you the room to come after him"*?! Randi has been doing that two-beat draw-back kiss on Vee since Chapter 15, leaving Vee the room to come after her, and today on the sidewalk in broad daylight at noon, *Vee leaned up the last half-inch to chase Randi's mouth and take a second of it for herself!* And Randi pulls back just far enough to look right into Vee's eyes—"close, steady, a beat past what a goodbye needed"—before smiling!
 
-And then that ending over the chicken piccata.
-First: *"This is my home... I don't go back."*
-The way the ease leaves his face and his voice sets each word down clean and apart when she asks if he goes back to his parents for Thanksgiving—confirming everything we felt in Chapter 13 and Chapter 22. Whatever happened in that house with the chemical-plant father and stay-at-home mother that made a fifteen-year-old boy less scared of a college dorm full of grown men than of staying home, Pace never goes back. Ever. And I loved Vee so much for feeling that closed door and taking her hand right off it without prying, letting the quiet be kind.
+And look at Vee getting into her Corolla: she just put her expensive brunch on her credit card without looking at the number, she just showed Randi her full naked pinup photo, she just chased Randi's mouth on the sidewalk because "it was what she wanted," and now she's driving straight back to Pace's house in the woods thirty minutes after leaving him there, already wet and wanting the afternoon round before dinner! Both bonds are at a 10 right now and the collision is coming so fast I can barely breathe!
 
-Second: HE BRING UP SHERI! The cycling friend from Chapter 25! *"Sheri's coming over. We cycle together. She'll bring a pie and pretend she made it."* And when Vee has that tiny, honest flicker of jealousy over another woman at his table on Thanksgiving and asks about Sheri's family, he says simply, *"She's alone."* Two strays with no family to go back to, eating store-bought pie together on Thanksgiving while Vee flies home to Ohio!
-Wait a second, though: where is RANDI for Thanksgiving?! Presumably Randi goes home to her rich egg-whites-and-tofu mother for Thanksgiving—or does she?! And we STILL haven't seen Randi since Sunday, November 1! With Thanksgiving coming up fast, when does the other shoe drop?!
-
-GATE 34 — In His Hands
+GATE 35 — All the Time
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter was pure, aching intimacy from start to finish—Pace resting his cheek on her breast for comfort, posing her with kisses at shoulder, hip, and knee for her pinup photo, blowing on every spoonful of lemon-caper sauce because of her tomato burn, and the chillingly exact wording of "I'd never share your photograph" when she asks him never to share her with anyone.
+WHY: This chapter delivered every single thing the jacket blurb promised and more—Randi's eyes going bright with unshed tears when Vee says Pace "wants me, with the body attached," Randi coaxing Vee into handing over the full uncropped nude pinup photo ("Showing him your toes, eh?"), and Vee finally leaning in to chase Randi's mouth during their goodbye kiss at the curb.
 
 LEDGER
-+ LOVE: Pace rolling sideways across the bed to rest his cheek on the lower slope of Vee's breast for comfort, then gently holding her nipple between his lips while getting hard against her hip ("with Pace she was a girl who had a body, not a body that happened to have a girl attached to it").
-+ LOVE: Pace posing Vee like a vintage calendar pinup by kissing each spot his hands set (shoulder, hip, knee), using *her* phone so she holds the only copy until she chooses to hit Send.
-+ LOVE: Pace blowing across every tasting spoon of chicken piccata sauce before letting it near Vee's mouth—a silent callback to the hot-tomato burn from Chapter 33.
-+ FEAR: Pace's surgical wording when Vee says "Only if you promise you'll never share me with anyone" and he replies "Never. I'd never share your photograph"—keeping his literal word while still intending to share *her* with Randi.
-~ S13.3 CONFIRMED: When Vee asks if Pace goes back to his parents for Thanksgiving, his face goes level and exact and he says "I don't go back," confirming a total, permanent estrangement from his family.
+~ F20.4 DEEPENED: Vee's reckless spending to match Randi's world escalates—she skips the cheap soup to order the expensive eggs Benedict and puts her card down to sign and tip well without even looking at the number.
++ LOVE: Randi's eyes going bright and unfixed with a catch in her breath when Vee says Pace "wants *me*. With the body attached. Not — the other way around," and telling her in a low, uneven voice, "It doesn't" sound unhinged.
++ LOVE: The exquisite irony of Vee—two days after making Pace promise never to share her photo—already having a cropped version ready for Randi and letting Randi bait her ("Legs like yours, though — and you only gave him *half*?") into handing over the full uncropped nude pinup.
++ LOVE: Vee inviting Randi to take a Tuesday/Thursday night Anthro class with her next semester ("except we'd have picked it"), and the soft, rough catch in Randi's voice when she repeats, "Just us."
++ LOVE: Vee finally closing the space in Randi's signature two-beat kiss—leaning up the last half-inch to chase Randi's mouth as she draws back, taking a second of it for herself, and deciding "it was what she wanted."
++ FEAR: Now that Vee has shown Randi the naked pinup photo AND chased Randi's mouth on the sidewalk, Randi is going to tell Pace that Vee has made her move—and they are going to spring the trap while Vee still thinks Randi is just her "best friend in the whole world."

@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
 
-REACTION
+REACTION — I am furious with Randi. Not abstractly worried anymore. Furious.
 
-Oh, finally. Finally he says the sentence without shaving it down to something safer: he loves her, he understood exactly what she gave him on the porch, and he knowingly answered with less because he was afraid. I have been waiting for him to admit that his precision is not innocence. He did not misunderstand Vee. He watched his smaller answer hurt her and let it stand. That landed hard, but almost as relief, because at least I am no longer being asked to wonder whether he genuinely cannot find the word. He can. He has been holding it hostage to an old loss.
+Vee came to her exhausted, terrified, and raw, and Randi knew the truth of every person in that story. She knew Sheri was no rival. She knew Pace missed Vee. She knew why Pace had not called. She also knew Vee’s actual complaint was legitimate: he would not name what they were. And she turned all that secret knowledge into the performance of perfect friendship. She made Vee feel understood while quietly teaching her to blame herself for asking.
 
-Sheri was exactly the person he needed and I loved her for refusing every lovely adjacent fact. He misses Vee, gives her his whole attention, makes her food with a philosophy underneath it—fine. “She didn’t ask you for reasons.” Yes. And then the clean blade: if he cannot say it, not saying it matters more than having her. That is what Vee has been living, stripped of all the warm-house romance. I wanted to hug Sheri and steal his fries with her.
+“You backed him into a corner in his own house” made my blood boil. Vee did not ambush him with some impossible demand. She asked the man who had built an entire relationship around her what the relationship was. Randi took Pace’s cowardice and translated it into Vee’s cruelty, then prescribed sex as an apology. She is sending Vee back to him naked under a coat so that Pace can have everything he wants without answering the one question Vee asked. That is not a peace offering. It is Vee being coached to surrender the question.
 
-And I did ache for him. More than I expected to. The wrong engine, his whole body recognizing that it was not Vee’s and still refusing to release the hope, and then him sobbing over the food he made only to sustain a body—that got me. The contrast with how he feeds Vee was brutal. Without her first bite, food has become prison food again. He has made his house into a place organized around receiving her, and now every neat row in the freezer proves how long he can survive without living.
+And God, the shoes. Of course Randi knew the shoes. Of course Vee’s body answered them. The coat, the straps, the heels, the idea of arriving as the answer—I felt all of it. It is exactly the kind of intensity I read for, and it made me sick at the same time because Randi is using her intimate knowledge of Vee’s shame and hunger to steer her. Vee is choosing the fantasy, yes. Her desire is real. But Randi designed the available choice while withholding every fact that might change it.
 
-Daphne makes his silence intelligible, but it does not make it acceptable. He decided the words caused the devastation rather than loving her and losing her. That is such frightened magical thinking for a man who prides himself on exactness. Worse, he tried to control the eventual damage by withholding the truth from Vee, which meant hurting her now so he might hurt less later. I believe his fear. I also believe Vee was right to walk out.
+Then Vee kissed her.
 
-What chilled me was how quickly his thinking about the three of them slid back into presumption. “Not whether she wanted it”—Pace, yes, whether she wants it. She wants Randi in ways she is only beginning to own, but she does not want the concealed arrangement because she does not know it exists. Brunches, kisses, smiles, and coming back “lit” are not consent to discovering that her lover and best friend chose her together and have been exchanging her intimacies all along. He worries whether the room will ask more of Vee than she has in her, but still imagines placing her in that room before giving her the truth. He understands local consent exquisitely and remains almost willfully blind to structural consent.
+That got me. Completely. Both hands on Randi’s face, going back because thank you was not enough, staying until the feeling had somewhere to go—that was Vee initiating, Vee wanting, Vee crossing the distance herself. I have waited for her desire for Randi to become something she consciously does, and there it was. Randi’s stunned joy almost made me joyful with her. Almost. Because Vee believes she is kissing the friend who just saved her relationship. She does not know she is kissing Pace’s lover, the woman who helped choose her, the woman who has just arranged to send her back into their hidden plan. This should have been beautiful. Instead it feels like Randi receiving a reward for manipulating a woman in distress.
 
-His tenderness toward Randi hurt too. The folded blanket still living where she needs it. Six weeks without her, and he will not call because her choosing matters to him. There it is again: he fiercely protects Randi’s right to choose whether she comes back, while Vee remains the one person whose right to choose the whole situation he does not protect. That asymmetry is becoming unbearable.
+And then Brooke. That was awful in an entirely different direction. She sees enough to identify something real between them and immediately reduces it to play, spectacle “for the boys,” and a threat to Randi’s place in the house. “You need to choose” is not concern for Vee. It is enforcement delivered in the warmest voice imaginable. I hated Brooke’s message, but I also felt the trap close around Randi: the approved perfect man leaves her cold; the woman she loves can cost her the whole social architecture she has used to survive. That explains her fear. It does not excuse what she is doing to Vee.
 
-Still, I am in. Completely. He has crossed an internal line: he cannot go back to pretending words are cheap or that actions have already answered everything. He knows he loves Vee. He knows he failed her deliberately. Now he has to get off that chair, tell her, and then tell her the much more dangerous truth. “I love you” will matter enormously, but it cannot be used as a beautiful curtain drawn across Randi.
+What I would text at one in the morning: VEE FINALLY KISSED HER FIRST AND RANDI EARNED IT BY LYING TO HER FACE FOR AN HOUR. Also Pace had better open that door tonight and say “I love you” before he touches one strap.
 
-And the three of them spending New Year’s in separate beds, each cold in a different way, each wanting the others and choosing silence—God. I would text a friend: *HE KNOWS HE LOVES HER. HE KNEW ON THE PORCH. ALSO I AM STILL MAD.*
-
-GATE 45 — The Usual
+GATE 46 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Pace finally names both the love and the cowardice behind his silence, and the wrong engine broke me. I need the next chapter immediately because his emotional truth has arrived, but the concealed triangle is still the larger betrayal, and “I love you” cannot be allowed to substitute for disclosure.
+ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
+WHY: That reframing came closest to losing me because Randi used privileged knowledge to make Vee feel guilty for asking a necessary question, and then redirected her into sex. I’m continuing because Vee’s first chosen kiss changed the bond, Brooke has forced Randi’s hidden life toward a crisis, and I need to see what happens when Vee arrives at Pace’s door.

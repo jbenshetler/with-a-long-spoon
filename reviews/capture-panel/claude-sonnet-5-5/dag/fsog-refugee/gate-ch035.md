@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch035 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5794cafc164c · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch035 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 REACTION
 
-Oh, Randi. That's the first time she's cracked on the page, and I felt it all the way through. She was fine through the sex and the "pervert" bit. Then Vee said "He wants *me*, with the body attached," and Randi's eyes went unfixed, she shook her head, and her voice wasn't even: "It doesn't." That's a woman hearing about what she wants and doesn't have from the outside. It was the first time I got her interior without being handed it. I want to hold her and shake her at once.
+Oh. Oh, there it is. Finally Randi and Pace in a room, and finally the machinery shown from the inside, and it hurts exactly the way I hoped and feared.
 
-The rest is Vee at her happiest and most exposed. Eggs Benedict, ordered without checking the price. "Eating with the sound off." Sleeping whole nights. And I'm a step ahead and queasy. Every word of it travels. "Pictures," and Vee's body rocking in the seat. The uncropped photo went into Randi's hand. Randi asked for it, and that's a line crossed. Whoever Randi is feeding this to, Vee is handing over her actual self. "He promised never to share my photograph," and she showed it to Randi. Ugh. She doesn't see it as sharing.
+The first half is almost a gift: Pace asking "Is she all right?", then "She consents, every time, or I'm done." I exhaled at that. He isn't the villain here, and he checks. But I notice what he's checking. He asks about Vee's happiness and Vee's consent. He never asks Randi what Randi wants. And Vee doesn't know she's being consented *for*. "She's choosing it every Saturday" is true only inside a frame she can't see. I'm holding that, hard.
 
-The kiss this time was Vee leaning in for more. Her desire is hers, and I like that. But I also see Randi steering her toward it again.
+Then the kissing. "I'm doing it for you." "I didn't ask who it was for." "You don't have to do it for me," said kindly, and it went through her like a blade. "But I'm doing the work," and she comes. God. That's the most honest line anyone has said in this book. And then "God, I want her," out of her mouth, and she backpedals into "for us." He's blind, or he's choosing not to see. He says "I am" to "aren't you?" and my heart sank for her.
 
-"Just us," with the roughness under it. I'm worried and hooked.
+The green satin. Randi taking Vee's underwear, crying, "hormones," not letting him do anything, eyes on the wall. And Pace deciding the grief is about *him*, that she's jealous he keeps a thing of Vee's. Oh, you sweet brilliant idiot. She isn't grieving that she has nothing of Vee's to keep. She's grieving something much bigger, and he filed it under hormones. And "let it be hormones" is the same silence he gives Vee. He's lovely and he's missing everything.
 
-I missed the room with Randi and Pace together. We haven't had it since ch 25. Pace is only warm in Vee's telling, and I'm waiting on the scar and Daphne. Still, Randi cracking is the payoff I wanted.
+The last beat: the drawer, shut with two fingers. The scrunchies, the home he made Vee, and he quietly closes it. That felt like a small cold omen. Also the coffee, untouched.
 
-GATE 35 — All the Time
+Heat was real, but it's heat with a wound in it, and I liked it more for that. My fury at Randi has turned into something more like grief. I need someone to tell her. I need Vee to find out, and I'm dreading it.
+
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Randi's unguarded "It doesn't," against Vee's total trust and the photo going across the table, is exactly the tightening dread I read this for. The sex-brain monologue is warm, not grubby, and the care in it is real. I need the truth to break soon, and I want Randi and Pace in a room.
+ROMANCE: 3
+ALMOST-STOPPED: none. The nearest was Pace using Vee's brunch confidences, "Well. She told me first," and the "threesome" planning over her, which I winced at but which is the book's whole engine.
+WHY: Finally Randi's interior, and Pace asking about consent while still not seeing her. "I'm doing the work" and the green satin are the best things in the book so far. I want the next chapter badly, and I'm scared of what it costs.

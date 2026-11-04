@@ -1,26 +1,32 @@
-*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed c86dda03f50b · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 60a5536dc21e · 2026-11-02*
 
 REACTION
 
-A very short chapter, and I don't know yet if the shortness is craft or shortcut. Mostly it works. It's one insomniac night in a bunk, and it does one thing: the shirt stops working. The turn is "the heat in the shirt was her own, given back." The smell she asked him to refill is just her own warmth, and he's across town sleeping easy. That's the book's ache in a single object, and the narrator doesn't have to say "he isn't here."
+There it is. She asks, out loud, to his face, and the chapter lands everything I've been dreading since 39. "Words are cheap. Believe what I do." I actually winced, because that's both the most honest thing he could say and the most useless. He's been telling her this in deeds for forty chapters. Now it's finally a sentence, and it's a refusal.
 
-The empty text field is also exactly right. She knows no message will return the shape of what she is to him. It's the first time she doesn't take the ache to anyone, and that scares me, because it means the next place it goes is Randi's table.
+Vee comes out of her speech well. The "my body comes with me attached" line echoes what she told Randi, and I noticed that. She's using Randi's brunch phrasing on Pace, which is a quiet, ugly irony. "What do I tell my mother, that he feeds me and we have a lot of sex?" is the best line she's had. She lets it be ugly, and she's right to.
 
-The ending lands. She takes the shirt off, the cold is worse, and she leaves it in a heap, not folded. After ch38's tender ritual, that's the crack. The date line, Friday the 11th, also tells me this is the night before Saturday brunch. That's what I've been waiting on.
+Pace's "Do any of your friends have a relationship you'd rather have?" is the moment I put the book down in my head and glared. It's a debater's answer. It's him dodging, and the chapter lets her say so. Then his arms fold, the line held at cost. I believe it costs him. I still want to shake him. The Daphne wound isn't an excuse anymore, it's a pattern.
 
-Heat is basically a bare body in a cold room, which is charge of a sad kind. A little of the narrator-explaining ("a girl too far gone in a boy," the "big name and small name") is the habit I grumble at. Still, I want the brunch badly.
+The last beat bothers me in the right way: his hand reaching to settle her, "the hand in place of the word." She sees it and walks out. That's growth, and it's the first time she's refused the hand. Good.
 
-GATE 41 — Bare
+Short, charged, no heat, but it's an actual event, and I needed one. The narrator does a bit of explaining in the final sentence, and the opening drive-up goes on a touch. What I want now is obvious: Saturday brunch, Randi, and Vee carrying a raw wound to the one person who will feed on it. I'm scared and I want it badly.
+
+GATE 42 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: "none"
-WHY: A tiny, sad chapter that kills the shirt ritual with one line, "the heat in the shirt was her own, given back." It leaves her unfolded and unsleeping on the eve of the brunch I've been waiting for.
+WHY: Vee finally asks to his face and gets "Words are cheap. Believe what I do," and she walks out instead of taking the hand. It's the real break the book has been building, and it sends her straight to Randi's table.
 
 LEDGER
-+ LOVE: The shirt dropped in a heap, and "the heat in the shirt was her own, given back."
-+ FEAR: Vee, sleepless and unanswered, takes the whole ache to Randi's brunch tomorrow, and Randi gets to feed on it.
-~ W40.4 DEEPENED: The date is the eve of Saturday brunch, so the unnamed ache is about to go to Randi's table.
-~ S33.2 DEEPENED: She can't text him because no message could answer what she is to him, so the doubt is hardening.
++ LOVE: "What am I to you out there?" and "he feeds me and we have a lot of sex", Vee letting it come out ugly.
++ GRUDGE: Pace's "Do any of your friends have a relationship you'd rather have?" and "Words are cheap" are a debater's dodge, and I'm angry at him.
++ LOVE: Vee seeing the reaching hand as "the hand in place of the word" and leaving anyway.
++ FEAR: Vee walks out raw, crying, into the night, and the next person she tells is Randi.
+~ W40.4 DEEPENED: The break has happened; the brunch is now the morning after a walkout.
+~ F32.3 DEEPENED: She asked for the word directly and he refused it in a sentence.
+~ G40.3 DEEPENED: He answers a direct question with a counter-question and a slogan now.
+~ S33.2 DEEPENED: The crack is now spoken aloud, not just felt.

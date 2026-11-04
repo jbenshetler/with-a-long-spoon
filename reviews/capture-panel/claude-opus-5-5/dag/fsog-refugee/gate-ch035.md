@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 296605e0be66 · 2026-10-07*
+*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 **REACTION**
 
-Okay. The first half of this I just floated in. Vee at a glass table again, but this time she isn't handing over a scene, because there isn't a scene to hand over. It's just *the amount of it*. "He takes forever." "Like he wants me. With the body attached." That line went straight through me, because it's the thing I left three subgenres to find, and she found it and said it out loud in a dark booth. Being looked at the other way around, the girl first. Sleeping whole nights in the trees. Eating with the sound off her whole life. I believed every word, because I watched him last chapter. He laid her out for the picture and kissed every place his hands set her. He caught her wrist "not to stop her, only to say it." So she isn't exaggerating, she's describing him.
+Oh, Randi. Oh, *Pace*.
 
-Then Randi said "You're just finally hungry out loud," and I didn't want it to be kind, and it was. It's the jacket's own word, starving. Coming from her it's half absolution and half the woman who's been feeding her stories since the practice room. I can hold both. What I can't stop seeing is "It doesn't," low and not quite even, and the catch in her breath. Vee takes it for pride, *my Saturday did that to her*. It isn't that. Randi is hearing a description of being loved properly, and she's either never had it or she's had it with the same man and lost it, and her face went for a second. That's the most real I've ever seen her, and Vee missed it completely.
+I'll start with the line I've been waiting thirty-five chapters to hear from him: "She consents — every time — or I'm done." I stopped reading for a second. He asked "Is she all right?" and pushed back with "That isn't the same answer." Later, in the middle of sex, he asked "Does she want it?" and then "That isn't what I asked." He wouldn't let Randi's polish slide past him. That's the man I came for. He watches for the answer, even when it's someone else's answer he's watching for.
 
-Then the phone, and that's where my stomach went. Two weeks ago, as far as I can tell, she made him promise "never share me with anyone," and he said never. Here she shows Randi the cropped one first. That was already more than I wanted. Then Randi does the thing she does. She slides the phone back, "you don't have to show me," lets Vee's own thumb make the call, and then drops "you only gave him *half*?" She knew exactly which nerve to press. Vee flinched at being filed as a girl who flinches, and handed over the whole length of herself to prove she isn't one. It's her body and her picture, and I won't take that from her. But it's his picture too. It's her as his eyes had her, the thing she "gave him to keep." I watched it get pried out of her with a dare dressed up as a compliment. It's the "did you deserve it" brightening all over again, and the book knows it: "past what a verdict needed." Randi looked the way a starving woman looks. I believe she wants Vee. I don't trust how she gets there.
+And at the same time I wanted to throw the book across the room. Because consent to *what*, Peter? Vee says yes to a kiss from her best friend. She doesn't say yes to a kiss from a woman who's "getting her used to my mouth" for a threesome she's never heard of. He's careful about every single step while hiding the staircase. I believe he means it. But he means it inside a frame that makes it impossible, and I don't think he sees that. That's Daphne all over again. He's sure the person who has the whole board can be the one who protects the person who doesn't.
 
-And then the kiss. Vee leaned up the last half-inch, took a second of it for herself, *decided it was what she wanted*, and didn't fuss about it. That's hers, and I was glad of it, the way I was glad of the stall. Randi held her eyes a beat past what a goodbye needed. Then "Just us," soft and rough, about a Tuesday-Thursday evening anthro section. That means two evenings a week, every week, without Cassie, and Randi said "Is Cassie in?" first, which I noticed.
+What Randi did in class made my stomach turn. She leaned over in front of everyone and told Vee she'd "come to class still full of you." Vee put her hands in her lap and went "the most beautiful color." Randi tells it like a love story. Vee lived it as being caught, the same blue-light bathroom feeling from the "sticky fingers" brunch, and Randi brought it to his couch as foreplay. And he got hard picturing Vee "leaking quietly into the green." That's my asterisk on him, still there, still heavy.
 
-The question I'd text at 1 a.m.: does Randi drive out the gravel tonight and tell him what Vee said about him, word for word? "He takes forever." "Like he wants me." Does he get to hear that from *her* mouth before he ever hears it from Vee's? Is that what this lunch was for?
+But Randi broke my heart in this chapter. "I'm doing it for *you*." "It's *work*." Then he said, gently, "You don't have to do it for me," and that's what made her come. Because it took away her cover. Then "God, I want her," and she heard herself say it. Then "Twenty-one years old and she found out this autumn that a person can sleep." Randi is in love with Vee, the book has stopped hiding it, and she's realizing it too.
 
-Small things: she ordered the Benedict and paid without blinking. Good girl. And she's already pointed back at the trees, wanting him. Him not being in the room doesn't bother me at all. The last chapter was the two of them alone for its whole length, and this one was full of him anyway.
+Then the morning. Jesus. Vee's green satin, kept since the first night, folded in thirds, at the bottom of the second drawer. *Randi's* drawer, if I'm remembering it right. She went to get one of his shirts and found the one thing of Vee's he keeps hidden, under the place he lets her keep things. She never asked for a drawer, never offered him anything to keep, and she found out exactly where she stands. Then she put his hand on her for the first time ever, rode him with Vee's underwear in her fist, and made a sound he'd never heard from her. "It's hormones." He let it be hormones. Of course he did. He's tender and exact everywhere except where it would cost him something to name it, and that's the jacket's whole promise: everything but a word.
 
-GATE 42 — All the Time
+The untouched coffee. Vee's drawer open an inch. He blamed the house settling, and I don't believe that for one second. Randi went through Vee's drawer. What did she take, or touch, or just stand and look at? I'm scared.
+
+Last note: Vee hasn't been in a room with him for a whole chapter, and I felt it. But this didn't feel like a stall. It felt like the fuse burning down.
+
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "Legs like yours, though — and you only gave him *half*?"
-WHY: Vee describing him was everything I read for, and Randi's "It doesn't" was the first crack of real feeling she's shown. The photo got worked out of Vee with a dare, though, against a promise she made him extract. I need to know where that picture and that whole confession end up next.
+ALMOST-STOPPED: "She sat down next to me failing to hide her grin, being modest about it, still full of your come." When I read his reaction to that I nearly closed the book on him.
+WHY: He finally said the consent thing out loud, and the book showed me straight away why it isn't enough while Vee can't see what she's consenting to. Randi cracking over the green satin is the realest she's ever been. I need to know what she did in that drawer and how long "hormones" can hold.

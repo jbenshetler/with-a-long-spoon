@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch047 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e4c9afc17bfa · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch047 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-11-01*
 
 REACTION
 
-Okay. The coat scene. This is the payoff I've been waiting on for forty-odd chapters, and it mostly delivers. The mirror, the denied orgasm, the siren, the doorstep with the coat held open and the cold on her wet nipples: that's heat, and it's explicit. It isn't coy, and it's written like she's actually inside it. The cruiser going past had me laughing and clenching at once. The mark on the satin lining, which she doesn't die of shame over, is the best small beat in the chapter. The pancakes and "I missed you so much" with his voice cracking had me by the throat.
+Okay. That's the payoff for the coat chapter, and the writing earns it. The "Missed a spot" bit is great: the nothing-but-a-scrunchie breakfast, the burnt toast, "I can put the sweats on if you need to concentrate," the pleasure slave flipped into "pleasure princess." It's funny and filthy and it has Vee's voice in it. The long tiling mouth-trip down her body is hot, and it's hot because it's specific and patient and built like his cooking. The breath-without-touching beat nearly got me.
 
-But I'm furious in the way this book has trained me to be. Look at what happened. Vee asked "what am I to you?" and got nothing. Randi said "don't use words, words are the whole war" and sent her to his door naked. Pace opened it and started "Vee, I l—" and she cut him off. He was about to say it. I screamed. Then she handed him sex instead, and the conversation is now permanently unnecessary. Randi's advice, Pace's cowardice and Vee's own terror of the answer all conspired to keep the word unsaid. And "tonight there was no room in her for wanting anything he hadn't given" is the book telling me she's folded again. I know what that costs. I read the Pace chapter where he sobbed over chicken and broccoli, so I know he wanted to say it. Dramatic irony is eating me alive.
+Then the kiss. He puts his wet mouth on hers, she tastes herself, the old voice says "gross, wrong," and he starts pulling out and she locks her legs around him and says don't you dare stop. That's the real scene in the chapter, and it's well done. The flicker in her tongue before her brain catches up. He doesn't push, doesn't sulk, doesn't explain.
 
-Also, Randi: the Gstaad chapter, the kiss in the foyer, Brooke's warning. She's the one I ache for, and she's absent from this chapter entirely, with Vee's "she's my best friend" warm and oblivious. The kiss has finally happened and Vee wore it as a thank-you. I want that fallout badly.
+Then the afterward made me put the phone down. "He had liked it. Why does he like it so much?" and then her own tidy explanation: he forgot to wipe, once, in hundreds of times. Oh, honey. And that tongue going over her lip, looking for salt. I think the book is telling me something is wrong with that "always kisses after." Maybe he's been wiping every time and this once he didn't. Or the real question is what he's tasting, and who. She files it under minor-key and decides to tell Randi, "Randi would know what to make of it." That's the dread beat. Randi, who's been drowning in her own thing, is about to be handed Vee's confidence. I'm squirming in a good way.
 
-The Cassie eyebrow button is perfect. Nothing under the coat, and her roommate clocks the sweats.
+Also notable: she woke up happy, got everything she drove out for except the word, and nobody said it. Last chapter he started "Vee, I l—" and she cut him off. She stopped him from saying it and now she's got no name for them again. The book knows that and isn't pointing at it, which I like.
 
-Slight fatigue: the long mirror/touching sequence ran on a little, and I've read the "he goes to his knees on the porch" shape before. But the emotional stakes under it are what keep it from being rote.
+Heat was strong. The only thing that dragged was length. Some of the nap-of-the-cashmere-on-her-nipples stuff is a bit much, and the "she thought, floating, magnanimous" narration of her thoughts mid-sex got cute. But she's a real person in a real morning, and the dread is landing.
 
-GATE 47 — Nothing Underneath
+GATE 48 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 8
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Real heat with real stakes under it: she bought the reunion with her body because the word wasn't coming, and I can see the bill. I need to know whether "Vee, I l—" ever gets finished, and what Randi does after that foyer kiss and Brooke's ultimatum.
+WHY: The tease and the oral run were genuinely hot and funny, and the taste-of-herself moment gave the heat something real to chew on. The afterthought about why he likes it, plus her cheerful plan to tell Randi, leaves me wanting Tuesday badly.

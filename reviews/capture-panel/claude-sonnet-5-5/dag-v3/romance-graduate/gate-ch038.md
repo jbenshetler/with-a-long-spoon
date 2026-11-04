@@ -1,26 +1,30 @@
-*capture-dag-v3-grounded · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch037 · history ch001..ch037 · ledger no seed ebfb0df37071 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 6f8ebfb6fbff · 2026-11-02*
 
 REACTION
 
-Okay, so this is a sex scene, a pizza, and a shirt. I liked it more than the plot says I should. The undressing is the funniest and most human thing the book has done in the bedroom. The jeans stuck at the hips, the hop, the white cotton socks, and him holding her bra and not pulling. "You're not helping." "I'm helping." Hot because nobody's performing. "Her body having just published the number she'd gone to such trouble to keep private" is a great line. Five nights of "studying" and her throat tells the truth.
+This is the chapter the whole book has been circling, and it's short on heat but it hurts in the right place. Vee builds her sentence, "I had been eating crackers my whole life, and you fed me a meal," because she can't say *I love you* before he does. He answers "I love how good we are together," and then "What your body does." My stomach dropped. She offered him her heart in a coded form, and he gave back the body. The blurb's whole ache, finally on the page, and the narrator mostly lets it be. The small "wait" behind her breastbone is nicely done, and so is the dryer scene where she lets herself half-know it and puts it on the pile.
 
-The shirt is the chapter. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and hand it back full of him. It's tender and it's slightly unhinged, and he doesn't flinch, which is why I want to cry for her. Of course he'd put on two shirts. He's so good at the gesture and so absent from the word. She's now laundering him into her sleep. Meanwhile I'm holding chapter 36 in my head: he's folding Vee's panties into the second drawer, Randi crying, and none of that touches this kitchen. The dramatic irony is thick and I like it. The cost is on the page for Randi, and Vee is just happier and happier. Also Vee pulling back for school is a quiet note. She chose five nights, lasted five, and he never asked for her to come back. Dread.
+His double breath and the hand that starts two responses and puts both down are the best detail. He heard her. He chose the safe sentence. So he isn't oblivious, he's withholding, and that's more interesting and more damning than the "he's an idiot" reading I've been half-holding. I'm also angrier at him now. The Daphne wound explains it, but it doesn't cover it.
 
-Gripes: the pizza-making inventory ran long again, and "cotton candy and a bowl of cut strawberries" is a bit tidy. Water buffalo cheese, I get it. And the "new ordinary" is another Vee-and-Pace idyll. Randi isn't here, and I'm ready for her father to come back around. But the heat was real and funny and I enjoyed it.
+The Cassie dinner is good: the dad pricing the dress, "weird is worse than wrong," "Both. Probably both." Cassie gets to be the one with the question again. But the lies to her mother and the cropped photo start a pile of small managements that I can see stacking up.
 
-GATE 38 — The New Ordinary
+Gripes: the narration over-explains again ("the two things had not been the same shape," "she had been received warmly"). That nod to the title is too on the nose, and the cracker-to-meal sentence is a little precious for something she'd rehearsed for weeks. Also, zero heat and no Randi, a second quiet chapter in a row from Vee's side. I'm not leaving, but I need the bill to come due.
+
+GATE 39 — Cropped
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "He grated the cheese over it himself, a pale wet ball of it he unwrapped from paper." The pizza assembly ran long.
-WHY: The clumsy, laughing undressing is the best bedroom writing in a while, and the washed shirt is a tender, slightly alarming ask he meets perfectly. It's another idyll with Randi offstage, but I'm still in.
+ALMOST-STOPPED: "The two things had not been the same shape. She let the *not the same shape* form in her and then she did not finish the thought" — the narrator explaining the subtext I'd already felt.
+WHY: Her coded love sentence meeting his "I love how good we are together... what your body does" is the book's central ache landing at last. It's quiet, with no heat and no Randi, but it's the sharpest crack in Vee's certainty so far.
 
 LEDGER
-+ LOVE: The jeans stuck at her hips, the white socks, "You're not helping." "I'm helping." Sex with no one performing.
-+ LOVE: She washed the flannel, it lost his smell, and she asks him to wear it all weekend. He puts on two shirts.
-+ FEAR: She wants him to fight for the nights and he never will; he only opens the door, so the gap between his deeds and his silence keeps growing.
-+ SUSPICION: Her five nights away were the first time she put school ahead of him, and a cold snap from outside (Randi, her father, Cassie) may be coming now that she's pulling back.
-~ F8.3 DEEPENED: She hands him a new intimacy, her need for his scent, and he receives it without a word.
-~ F7.3 DEEPENED: Even her study nights are a managed concession, and Cassie still isn't in the room.
++ LOVE: "I had been eating crackers my whole life," and Pace's double breath, the hand starting two answers and putting both down.
++ GRUDGE: Pace heard her, chose the safe sentence, and gave her "what your body does." Understandable, but I'm angry anyway.
++ FEAR: Vee has filed this under things she won't ask about, and the pile of small repairs is getting heavy.
++ LOVE: Cassie's "Is it that you can't say, or that you don't want to?" and "Both."
+~ F32.3 DEEPENED: She tried to prompt the saying with a coded sentence and got the body back, so the gap is now on the page.
+~ S33.2 DEEPENED: The dryer-room "not the same shape" is the second crack in her certainty.
+~ F4.1 SHIFTED: Cassie gets a full scene and the right question again, and Vee still can't answer her.
+~ G34.4 FADED: the cooking sequences let up here, and I've stopped caring about the dates.

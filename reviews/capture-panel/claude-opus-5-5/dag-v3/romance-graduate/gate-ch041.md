@@ -1,34 +1,39 @@
-*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed 3649edbe758a · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 7849a7e3d17c · 2026-11-02*
 
 **REACTION**
 
-I've never read a chapter this short. I got to the end and actually swiped back to check I hadn't missed a page. Then I read it again, slower, because it turned out to be one move, and the move is the shirt.
+"Words are cheap, and you still won't spend them on me."
 
-Four chapters ago the flannel was the tenderest thing in the book: him pulling it on over his own shirt so it would smell like him again. Tonight she figures out the trick behind it. "The heat in the shirt was her own, given back." I said "oh" out loud. That's the cruelest thing this book has let her see, and it didn't come from Randi, a bartender, or a lecture slide. She worked it out by herself under a dorm ceiling. She's been living on his smell all fall because she can't have his word, and here the smell turns out to be her own body heat reflected back. So she takes it off, and the cold is worse, and she stays in it anyway. She's choosing nothing over a stand-in. That's grown-up, and it's bleak, and it's the first time since the porch that she's done something with the ache besides grind on it. The shirt "down in a heap where a dropped thing lands," not folded. After the panties folded in thirds with the spot centered, that landed hard.
+I said "yes" out loud to my bedroom. After three chapters of her lying awake grinding on the missing word, she finally drove out to 614, stood on the mat with her coat buttoned to the throat and her hands in her pockets, and made him watch her not kiss him. Last gate I said I'd quit if the ache showed up one more time. It did show up again, but this time she acted on it, and that's the difference. She came in empty-handed with the bag left in the car. "She watched him not understand." That line is pure Vee. She's learned his method all fall, and here she uses the withheld last inch on him at the front door.
 
-I loved the phone too. Her thumb over the empty field, and no text that could get it out of him, because anything she sent "would be answered small and warm, and would leave her exactly here." I've DNF'd whole books built on one unsent text. This is the reverse: she doesn't send it because she knows exactly what would come back. And "the plate he set down once he'd built the hunger in her" is the first time Vee's own head has put his care in that order. He builds the hunger first and feeds it after. That's the method, and she's got her hand on it in the dark without knowing what it is.
+He's very good at not answering, and that's what makes the scene work. "You're the most important person in my life" is more than he's ever said, and it still doesn't answer what she asked. Then "Do any of your friends have a relationship you'd rather have than this one?" That's brutal, because it's true. She checks every friend, can't find one, and "hated that he'd made the true thing pull against the point." That's the lawyer-true sentence again, and this time she caught it in the moment instead of in the laundry room afterward. Then he hands her the jacket line to her face: "Words are cheap. Believe what I do." Usually hearing the blurb in the text makes me wince. This time it landed, because her comeback is better than the blurb.
 
-But. "Only every breath of him now and the silence at the center where the word should be." That's the jacket again. That's practically the blurb, and it's the third chapter in a row ending on the missing word: the laundry room, his bed, now her bunk. I can tell the chapter is short on purpose. It's one held breath, and it's honestly the best-written of the three. It's also the third time. And Randi has now been gone for five chapters since the drawer. Cassie is asleep three feet away again, and Vee doesn't wake her again. Small side-eye: "across town in his own bed." He lives off 614 past the gravel, in the woods. And "a man with nothing grinding in him." Honey, you have no idea what he's got grinding.
+And honey, words aren't cheap to him. He spends them every Monday. "Tell me." "She waits all week for those." Randi gets the words, and Vee gets the chicken. That's what made my stomach go when his arms folded, "a man holding a line at cost." I want to know what the cost is. Is it Randi? Is it Daphne? Is it whatever door the scar and "I don't go back" are hiding? I don't think it's just stubbornness. Something in him physically can't say it, and the book isn't telling me what yet. Good.
 
-So, a two-page chapter: technique or shortcut? This one's a technique. One gesture, no recipe, no lecture. If the next one is the ache again, though, I'm out. The date at the top, "Friday, December 11," is new, and it's the only thing telling me something is about to happen.
+Her speech is another inventory: the heat, the wine, the food, the care. It's the fourth time I've heard the list. But she says it to his face and lets it come out "ugly," and that's what saves it. "That he feeds me and we have a lot of sex." Without a name, the best thing in her life sounds cheap when she says it out loud. That's the real wound, and she found it herself. Also, "Like my body comes with me attached" is the line she gave Randi at brunch. He's almost certainly heard it before, secondhand, on his couch. She doesn't know that, and I couldn't stop thinking about it.
 
-GATE 41 — Bare
+The ending got me. His cold goes out of him and his hand comes up, the hand that settles everything, and "Not the hand in place of the word." She opens the door before it can reach her. "Vee," once, and her name isn't the word. She walks out into the cold, "it was worse," and she doesn't go back. It's last chapter's shirt done again, at full size: she picks nothing over a stand-in.
+
+This reads like a book ending, with the couple apart, a door, and the cold. If it is, it's the kind of ending that makes me buy the next one tonight. My cold stomach is about where she drives now. It's Friday night, Randi has a Mercedes and a single room, and Vee has a face wet with crying that she wouldn't let him have. And Randi still hasn't been on the page for six chapters.
+
+GATE 42 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 5
+CAPTURE: 9
+NEXT: 9
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "only every breath of him now and the silence at the center where the word should be" (the blurb read back to me a third chapter running)
-WHY: Taking off the shirt and staying in the cold is a real turn, and "her own, given back" is the sharpest thing Vee has ever understood about him. But it's the third chapter of the same ache with Randi still missing. It's short enough that I'll give it one more, and one more is all it gets.
+ALMOST-STOPPED: "You take me into your warm house every weekend... You cook for me, you feed me." (the inventory a fourth time, and for a second I thought it was the ache again with dialogue added)
+WHY: Three chapters of brooding finally turned into a confrontation on the doormat, and she won the argument with one sentence. He answers with the jacket line and folded arms. She refuses the hand and walks out into the cold. That's a real break, it's her doing, and I need to know where she drives.
 
 LEDGER
-+ LOVE: "The heat in the shirt was her own, given back." Vee seeing through the substitute by herself.
-+ WAITING: What Vee does when it gets light. Does she ask him straight, or carry this to Randi at Anthro or brunch?
-+ SUSPICION: The first dated chapter heading, Friday, December 11. Something is about to happen, maybe end of semester and end of book.
-+ GRUDGE: Third chapter running on the missing word, now as a two-page held breath. If the next one does it again, I'm stopping.
-~ F38.3 CONFIRMED: The smell faded into her own warmth, and the silence is all she has. She chose the cold over the shirt.
-~ L38.2 SHIFTED: The flannel he wore for her is in a heap beside her, unfolded.
-~ G40.6 DEEPENED: The unsaid word, a third chapter in a row, ending on the jacket line again.
-~ W37.6 DEEPENED: Five chapters since the drawer, and still no Randi.
-~ F4.2 DEEPENED: Cassie asleep three feet below, and Vee lies awake all night without waking her.
-~ F39.1 DEEPENED: The pile has become a whole sleepless night, and she's lying in it naked.
+~ W41.2 ANSWERED: She asked him straight, at his door, with her hands in her pockets, and walked out when he wouldn't answer.
+~ G41.4 FORGIVEN: The ache finally turned into an action and a fight, not a fourth night awake.
+~ G40.6 RESOLVED: The unsaid word stopped being something she brooded on and became a scene with a door in it.
+~ F39.1 SHIFTED: The pile didn't fall on her. She picked it up and threw it at him.
+~ F17.5 SHIFTED: The big drop came, and she's the one who made it happen.
+~ W37.6 DEEPENED: Six chapters now since the drawer, and still no Randi.
++ SUSPICION: "Words are cheap" comes from a man who spends his words on Randi every Monday. Whatever he's holding back "at cost" is a real locked thing, maybe Daphne, maybe the scar, maybe the parents.
++ FEAR: She leaves crying on a Friday night, and the closest person with a car and a single room is Randi. This goes to Randi first, and then to his couch.
++ LOVE: "Words are cheap, and you still won't spend them on me." Vee beating his best line with a better one.
++ LOVE: "Not the hand in place of the word." She turned down the comfort that's always fixed everything.
++ WAITING: What Pace does now. Does he follow, does he text, or does he wait the way he always does?

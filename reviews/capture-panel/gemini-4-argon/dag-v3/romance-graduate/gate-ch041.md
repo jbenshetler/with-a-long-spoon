@@ -1,42 +1,45 @@
-*capture-dag-v3-grounded · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed f571d226ee65 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed b727ab87ece4 · 2026-11-02*
 
 REACTION
 
-Oh, my god. Stop. Just stop. This is a one-page chapter—barely six paragraphs long!—and it just hit me harder than a freight train.
+OH MY GOD. My chest is so tight I can barely breathe. I am sitting here with tears running down my face, and for the first time in forty-two chapters, I want to shake Pace by the shoulders until his teeth rattle—even while my heart is breaking for both of them!
 
-Look at the date at the top: *Friday, December 11.*
-Wait a second! Why is Vee in her dorm room on a *Friday night* (or Thursday night after midnight into Friday morning)?! And why have we jumped a whole week forward from Friday, December 4 (Chapter 40, the Chili's fight and "Under the Rug") without seeing a single Saturday brunch with Randi?! Has Vee been staying away from Pace's house during finals week, OR is she lying awake in her cold dorm bunk on Friday night instead of being in Pace's warm house?!
+Look at that line Vee hits him with when he gives her the exact sentence from the back cover of the book:
+*"Words are cheap," he said. "Believe what I do."*
+*"Words are cheap." She heard it come back out of her almost steady. "Words are cheap, and you still won't spend them on me."*
 
-And THE SHIRT. Oh, the flannel shirt! Think about the whole arc of that flannel shirt across this book:
-In Chapter 10, he pulled it clean and dry out of his pack on the mountain so she could take off her wet shirt, and she kept it ("Keep the shirt," Cassie said).
-In Chapter 16, she traded him her soaked green satin panties for the right to keep it.
-In Chapter 23, after the Rusty Nail fight, she had to wash it because his scent went stale, and she lay awake in it while it smelled like "fabric softener and no one."
-In Chapter 38—just three chapters ago!—she brought it back to him and made him wear it over his own shirt all weekend before Thanksgiving so it would smell like him again ("The clean warm of him, and under that the other thing, the sawdust and the salt of the work").
+I gasped out loud. That is an all-time hall-of-fame line. How do you even recover from that?! If words are so cheap, Peter, why won't you spend a single one of them on her?!
+And WE know why he can't! Look at the two things happening inside Pace at the exact same time in this scene:
+First, when she asks *"What am I to you?"* his immediate, instinctive answer—before she even specifies "out there"—is:
+*"You're the most important person in my life."*
+Wait a second—he said that out loud! Not Randi, not anyone else: *"You're the most important person in my life."* And when she asks if any of her friends have a relationship she'd trade this one for, he isn't even trying to be slick; in Pace's anti-social, actions-over-labels mathematician brain (the boy who fled home at fifteen, who hates noisy rooms, who builds drawers and sews silk dresses instead of talking), he genuinely believes that giving her his house, his care, his food, and his body *is* the whole truth!
+AND YET, when she demands the public word—*"Out there, what are we? How do I say what this is to Cassie? To my father? What do I tell my mother, that he feeds me and we have a lot of sex? ... What am I to you out there?"*—why does something go across his face and shut? Why does he step back, fold his arms, and stand there in *"the still of a man holding a line at cost, and he said nothing"*?!
 
-And now look at what happens to the shirt in this chapter:
-First, she's wearing it *over* her sleep shirt so Cassie won't see how far gone she is. Then, after staring at the empty text field on her phone (and god, as someone who has DNF'd fifty romance novels over stupid conflict manufactured from one unsent text, watching Vee *not* send a text because *"You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear"* felt so painfully, devastatingly grown-up!), she pulls both shirts off and puts his flannel straight onto her bare skin.
-And for a minute it works—she can smell every single thing he *does* in the cloth: the sawdust, the salt, the rooms he keeps warm for her, the plates of food he sets down. Remember the jacket blurb?! *"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."* Everything he *does* is right there in the weave of that flannel shirt!
-And then comes the realization that made my breath catch in my throat:
-*"And it was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it — the heat in the shirt was her own, given back. He wasn't in it."*
+Because he CANNOT call himself her boyfriend or promise her exclusivity "out there" without lying to her face while he is still sleeping with Randi!
+Think about Pace's absolute code of honor across this entire book: he never lies with his literal words. In Chapter 34, when she said *"Only if you promise you'll never share me with anyone,"* he narrowed it to *"Never. I'd never share your photograph."* In Chapter 39, when she gave him the cracker-and-meal speech, he narrowed it to *"I love how good we are together."* And now, when she backs him all the way into the corner on the doormat and demands a word for what she is to him out in the world, he has only two choices: either lie and say "You're my girlfriend" (violating his own code while Randi is still in his life), or confess the whole truth of Randi and the pointing game right there on the spot, OR hold the line in silence at terrible cost to himself! And because he still thinks he's protecting the slow build toward her "choosing every step," he folds his arms and says *nothing*!
 
-Read that again! Remember in the pool in Chapter 33, and at the Rusty Nail in Chapter 23, when she wondered whether Pace was really that good or whether she had built him out of her own wanting? Now she feels it physically in the flannel shirt: *the heat in the shirt is her own heat, reflected back at her.* She is the one generating the warmth, while he is across town sleeping easy with nothing grinding in him (or worse—is he even alone across town tonight?!), having given her everything he *does* and withholding the one word that would name what she is to him!
+And oh, god, I have never been prouder of Vee in my entire life than I was on that doormat.
+Look at every detail of how she walks in:
+1. She leaves her overnight bag in the car—stopped dead level with the chair by the door where her bag (and Randi's bag!) always goes.
+2. She keeps her coat buttoned to the throat and her hands in her pockets, refusing to turn her mouth up for his hello kiss even while the warm house, the spiced chicken, the two poured glasses of wine, and the slow piano music hit her straight in the gut.
+3. She doesn't play games or pretend she didn't love what they had—unlike the Rusty Nail fight in Chapter 23 or the dishonest jab after Chili's in Chapter 40, here she speaks the 100% pure, generous truth of how good he has been to her inside this house (*"You want me and there's never anything dirty in it. Like my body comes with me attached. Like it's just fine as it is. Nobody ever made me feel that"*). That made her argument completely unanswerable! You can't dismiss a woman who honors every single good thing you've done before she asks what she is to you outside your front door!
+4. And at the very end, when her tears spill over and Pace's coldness breaks—when his arms unfold and his hand lifts toward her *"to settle her with the hands that settled everything, to make it right the only way he had"*—she refuses *"the hand in place of the word"*! Last week in Chapter 40 ("Under the Rug"), she let his hands and his mouth put the question back to sleep. Tonight, just like she refused to put his flannel shirt back on in the freezing dorm room in Chapter 41 ("Bare"), she opens the door and walks out into the freezing dark—*"and it was worse, and she did not go back in."*
 
-When she pulls the flannel shirt off over her head, leaves it in an unfolded heap where it falls, and lies there completely bare in the freezing draft from Cassie's two-inch open window until dawn because *freezing in the cold truth is better than warming herself with her own heat inside his shirt*—I actually got chills on my arms. That is why the chapter is called "Bare." Not sexy-bare like the sunroom riser or the pinup photo or the Halloween heels, but stripped bare of the comfort she's been wrapping herself in all semester.
+My heart is in my throat. It is Friday night, December 11. Vee just walked out of Pace's house in tears with her overnight bag still in her car, leaving him standing alone with two poured glasses of wine and chicken on the stove. Where is Vee going to go right now—or tomorrow morning on Saturday, December 12?! Straight to *Randi*?! And what is Pace going to do now that his silence just cost him Vee?! I cannot hit next fast enough!
 
-We are clearly at the end-of-semester precipice right now. It's Friday, December 11. She hasn't slept all night, the flannel shirt is in a heap on her mattress, and she can't live inside "what he does" without the word anymore. What happens when morning comes?!
-
-GATE 41 — Bare
+GATE 42 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This one-page chapter shattered me—watching Vee strip off Pace's newly re-scented flannel shirt and lie naked in the freezing dorm draft until dawn because she realizes "the heat in the shirt was her own, given back" and all the things he *does* still won't tell her what she is to him.
+WHY: This confrontation delivered on forty chapters of buildup with unbearable emotional power—Vee standing on the doormat with her coat buttoned, honoring everything Pace gives her inside the house while demanding to know what they are "out there," and walking out into the cold after delivering the devastating "Words are cheap, and you still won't spend them on me."
 
 LEDGER
-+ LOVE: The emotional maturity of Vee staring at the empty text box at midnight and putting her phone down because "you couldn't send a message and get out of a person the shape of what you were to them."
-+ LOVE: The devastating reversal of the flannel-shirt motif—Vee realizing the warmth in Pace's shirt is just her own body heat coming back to her, and choosing to lie bare and freezing in the dorm draft rather than stay wrapped in a comfort that has no name.
-+ FEAR: That Vee leaving Pace's flannel shirt in an unfolded heap "where a dropped thing lands" means something in her has finally broken open before Friday morning.
-~ L23.3 DEEPENED: After getting Pace to wear the flannel all weekend in Chapter 38 to restore his scent, Vee pulls it off in the middle of the night and leaves it in an unfolded heap because the smell of everything he *does* can no longer make up for the missing word, and "the heat in the shirt was her own, given back."
-~ F40.4 DEEPENED: A week after the Chili's fight, the missing word ("not the big one and not the small one, only... the silence at the center where the word should be") has made it impossible for Vee to even wear Pace's shirt in bed.
++ LOVE: Vee's devastating, razor-sharp comeback when Pace says "Words are cheap. Believe what I do": "Words are cheap, and you still won't spend them on me."
++ LOVE: The dignity and growth of Vee refusing "the hand in place of the word" when Pace reaches out to comfort her tears—walking out into the cold instead of sweeping the namelessness under the rug like she did in Chapter 40.
++ LOVE: Pace's immediate, unguarded first answer before Vee asks for a public label—"You're the most important person in my life"—proving how deeply he actually feels even before his secret forces him into silence.
++ WAITING: To see whether Vee goes straight to Randi after walking out on Pace—and how Pace and Randi react when they realize Pace's refusal to name the relationship has driven Vee out the door!
+~ F40.4 CONFIRMED: Vee finally refuses to let physical intimacy or domestic care substitute for the missing word—confronting Pace at the door before he can even kiss her or feed her, and walking out when he won't spend a word on her.
+~ F41.3 CONFIRMED: What broke open in Vee during her sleepless night in "Bare" carried her straight to Pace's doormat with her overnight bag left in the car and gave her the strength to walk out into the cold when he stayed silent.

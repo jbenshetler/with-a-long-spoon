@@ -1,36 +1,26 @@
-*capture-dag-v2-rich · gate ch054 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha e5c69934d7d1 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch054 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-11-01*
 
-REACTION
+REACTION —
 
-Okay. That one got me in a completely different way than I expected, and I am still kind of sitting in it.
+Okay. This one got under my skin in a way the truck scene didn't, and the truck scene was *filthy* in the best way.
 
-Because yes, on paper this is just Vee *retelling* sex I've already read — the truck, the princess morning, all of it — and ordinarily that would be where I'd start skimming. Retellings are usually dead air. This was not. This was hotter than half the actual sex scenes I've read this year, because it's not really about what Pace did anymore, it's about what Vee can and cannot make herself say out loud, in a booth, to the one person she supposedly tells everything.
+Because this is exactly the thing I was scared she'd file away forever. Tuesday: “ugh, gross, wrong,” hand over her mouth while literally clamping him in place with her legs. Thursday: Randi, so calm about it — *I don't. It was powerful. It turned me on.* — and Vee saying out loud, almost before she knew she was saying it, *he's enthusiastic.* I've been carrying that sentence with her for six minutes in the cold and apparently so has she, because here she is alone in Pace's flannel, in a room she's deliberately made too hot, trying to find out if her body was lying or if her mouth was.
 
-Watching her keep sanding it down in real time undid me. "My head went to his lap." "It was a lot." "He drove me home." Girl. *Girl.* We were there. And Randi just — calmly, lovingly, with absolutely no mercy — kept putting one finger on the exact missing piece. *Did you take it all? Didn't spill a drop?* I was squirming for Vee and also so turned on and also laughing, which is exactly the combination this book keeps doing to me that nothing on KU does anymore.
+And her body is not lying. It never is with her. That's what kills me. The wet kiss clenched her hard around him *before* the objection arrived. Telling Randi about it did it again, in a booth, with nothing inside her. Alone, it's the memory of his face — not sorry, not grossed out, *glad* — wet mouth, eyes on hers, like the plenty of her didn't need a pardon. She wants that look again. She wants what it did to her. She says it plain to herself in a way she cannot say anything plain across a tablecloth.
 
-And then the mushrooms joke. I fully lost it. Randi teasing her about swallowing, about flavor, about wiping her mouth, and Vee shrieking *they are adjacent!* — that is real friendship dialogue, filthy and fond at the same time, and it made the turn land so much harder. Because Vee walks straight from that joke, delighted with herself, into telling the kiss story as a cute little thirty-second punchline. *Ugh, gross. Wrong. Isn't that funny, aren't I adorable, you think it's gross too, right?*
+The fingers part — God. The shine all the way to the knuckles, the strands between thumb and finger, her doing that little experimental pull-apart twice like she's studying evidence against herself. Excessive. That's the word that lives in her, isn't it? Too much wet, too much wanting, too loud in a truck, too greedy to be touching herself at all after everything he already gave her. *Not greedy, hungry out loud* was Randi's absolution and she *wants* to believe it and alone at midnight she just... can't quite. Small and hot, that word.
 
-And Randi says: "I don't."
+I held my breath at the reach. Actually held it. Her tongue already on her lips before she's decided anything, the smell not being the stink the boys' jokes promised — a hothouse, hers, unmistakably hers — her body clenching around emptiness while her hand just *stops*, a breath's width away. Nothing told her why. That's so honest it hurt. She could drive naked under a coat in January, she could hold herself open for his hand in a moving truck and come loud with mile markers going by, she could kiss Randi's neck twice now and call it ticklish-adjacent nothing — but this tiny distance, her own fingers to her own mouth alone where nobody would ever know, she cannot close. And she doesn't force it or shame-spiral prettily about it either. She wipes them on the sheet. She puts her hand back between her legs and finishes anyway, with his untroubled face in her head. Spent, in his open shirt. That felt more grown-up than a breakthrough would have. A breakthrough would have been tidier than she is.
 
-Flat. Mild. No lecture. That was the whole chapter for me, I think. She didn't shame her, she didn't make a speech about sexual liberation, she didn't explain Vee to herself — thank God, because I would have thrown the book if she had. She just said *I have. It was powerful. It turned me on.* And then asked the only question that mattered: *How does he act?*
+And then the end, which is the part I'd text someone at 1 a.m. She has to open the window because Cassie will come home and the room *holds everything* — she air-flushes her own desire out into January so her roommate won't walk into the evidence of her. Buttons the flannel up respectable. And then lies back down and *finds the damp patch on purpose* and settles her hip over it. Her mess. Hers to lie in. Mouth still empty.
 
-And Vee hears herself say it before she's decided to know it: *He likes it. Actually — he's enthusiastic.*
+She didn't get there. She also didn't retreat. She's lying in it, literally, with the unfinished reach still one breath away and Randi's two possible versions of it — a mouth carrying it back, or her own fingers lifted — turning over in the dark. I don't know which of those she's actually picturing anymore and I'm not sure she does either, and that's the whole book in one cold bedroom, isn't it.
 
-I had to put my phone down for a second there. Because her body already knew. It knew in the bed — she clenched to that kiss in the booth, present tense, while her mouth was still performing disgust for an audience of one. It knew Tuesday in the restaurant bathroom. It's only her filing system that keeps insisting *gross, wrong, he forgot to wipe once.* Watching that crack widen without anybody forcing it... that's the grown-up interiority I've been starving for. Nobody fixed her. Randi just refused to cosign the lie, and now Vee has to walk home with her own sentence following her in the cold. *He's enthusiastic.* And underneath it, Randi's *I don't.* I don't think it's gross. That's going to live in her now.
-
-Also can we talk about Randi not finishing her food. Again. Vee swimming a mile, starving, cleaning her plate down to the china — short rib, polenta, all of it — and Randi eating neat little halves and leaving the rest while she listens to the love of her life describe, in escalating detail, being eaten out until she whited out. And Vee noticing her plate at the end without noticing it at all. And the glass rim under the fingernail. And that glazed quiet. This poor woman is being fed nothing at that table except stories, and she's asking for more of them, *give me the real one, the harder one,* and I genuinely can't tell anymore if that's devotion or self-punishment or her keeping Vee close in the only way she's allowed herself. Probably all three. It aches.
-
-And the neck. THE NECK. Again. Randi calling it ticklish again while her whole body does that catch-and-rise thing under Vee's mouth, and Vee being *pleased with herself* about it, like she's found a cute party trick. I wanted to text someone at 1 a.m. just: she kissed her neck again and Randi LIED again and Vee believed her because believing her is easier. That tiny beat is doing more work than most books' entire third-act confession scenes. Vee's mouth keeps voting honestly, same as the rest of her body, and her head keeps filing it under friendship, ticklishness, gratitude, anything.
-
-What I loved most is that she left still not telling it straight. She got closer — God, so much closer, she actually gave Randi the wrist, the toes, the orange, the white-out — but the chapter ends with her carrying the one true sentence home *alone*, not said across the cloth. That restraint is why I trust this book. It let her arrive one inch and no further.
-
-I'm nervous about Tuesday now in a way I wasn't before. Not plot nervous. Nervous like: once she stops filing that kiss under *gross*, what else stops staying filed.
-
-GATE 54 — A Clean Plate
+GATE 55 — The Reach
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The retelling was hotter and more honest than most actual sex scenes — Randi refusing to call it gross quietly cracked Vee's whole filing system open, and I need to be there when that sentence she's carrying home finally gets said to someone's face.
+WHY: A solo chapter that could have been filler heat instead moved the one thing she filed away — her body keeps voting yes and alone, unwatched, she still couldn't close that last breath, and then chose to lie in the damp patch anyway. I believe her more now, not less, and I need to know what she does the next time his mouth comes up wet toward hers.

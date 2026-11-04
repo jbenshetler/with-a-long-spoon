@@ -1,32 +1,30 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha dd5e714ddb25 · dated · 2026-10-24*
 
-REACTION
+REACTION — Oh, this is a catastrophe dressed as the hottest reconciliation imaginable, and I ate every page of it while wanting to reach into the book and stop her.
 
-Oh, Randi. I was so ready to melt for her when Vee came apart in her arms. The too-long hug, Vee breathing her in, Randi throwing those expensive new clothes straight onto the floor because Vee mattered more—I felt all of it. And then Randi used the most vulnerable hour Vee has had to steer her directly back into Pace’s house without telling her the one fact that changes absolutely everything.
+Vee in the mirror absolutely worked on me. Not because she has a “stripper’s body,” but because she finally looked at the body she has spent years minimizing and saw something she could inhabit on purpose. The heels going on first because they were almost the only thing going on; the respectable church coat over all that deliberate nakedness; winding herself up and choosing to carry the wanting to him unfinished—yes. That was explicit, psychologically alive, and genuinely charged. It was not interchangeable romance-novel foreplay. It belonged specifically to this woman, with her shame and her appetite braided together.
 
-She knows Pace did not call because he was afraid, not because he was “holding himself still” in some romantic stalemate. She knows Sheri is no threat because Randi herself is the other woman. “That is not a man with another woman” made me actually furious. That is not reassurance with a technical loophole. It is a lie. And then she took Vee’s perfectly legitimate demand for a name and reframed it as Vee cornering poor Pace in his own house. No. Vee did not “blindside him with a fight.” She asked for the minimum information a grown woman needs about her own relationship. Randi just trained her to apologize for asking.
+And then the drive. I was clenched through the police lights, though touching herself while driving was the one moment where the erotic spell almost snapped into *girl, both hands on the wheel*. The cruiser passing her was funny and excruciating, but also perilously close to a manufactured fake-out. The mark on the coat saved it for me: once, her body telling on her would have humiliated her; now she reads it as proof that she means what she is doing. That is the Vee growth I want.
 
-And the coat plan is hot. God help me, it is very hot. The shoes, Vee’s body answering before she could explain it, the whole prospect of her arriving bare under that coat—I absolutely feel why it works on her. It turns shame into nerve and gives her something active to do. But it also converts an emotional boundary into sexual access for Pace. Vee asked for words, he refused, and Randi’s solution is for Vee to show up offering him everything with “nothing kept back.” Meanwhile Pace and Randi are keeping the entire structure back. I wanted to shake the book.
+The doorstep was blisteringly hot. Pace on his knees in the cold, the open door banging, her wet nipples exposed to the January air while his mouth was between her legs—I am not made of stone. And the sex was exactly as frantic and graceless as this reunion needed to be. If he had carried her neatly to the bed and performed one of his usual exquisitely controlled scenes, I would have been disappointed. They missed each other too badly for elegance.
 
-Then Vee kissed her, and I forgot how to breathe.
+But oh my God: **“Vee, I l—”**
 
-Not the usual little goodbye ritual Randi controls. Vee turned around. Vee went back. Vee held Randi’s face in both hands and stayed there until the feeling had somewhere to go. That is a real turn. Whatever Vee calls it, she initiated a sustained kiss because something in her needed Randi specifically. And Randi’s fifteen-year-old hand to her mouth afterward nearly undid me. For one gorgeous second she wasn’t strategist, trainer, or co-conspirator. She was simply a woman stunned that the woman she loves came back for her.
+She stopped the very word she left him for, because Randi taught her that words were the war and her body was the answer. Randi took a woman who had finally made an emotionally intelligent demand and coached her into retracting it through sex. Pace was apparently about to say it without being forced, and Vee literally opened her coat over his sentence. That is not romantic resolution. That is the trap closing.
 
-Which makes what she has done even worse. Vee is already arriving on her own. Randi did not need to manipulate her into this. She could have trusted her with the truth.
+Worse, Pace accepts the reprieve. He apologizes for hurting her and says he missed her, both real and tender, but he does not return to the interrupted sentence. He does not tell her about Randi. He feeds her, warms her, tucks her in, and gives her exactly enough genuine care that she can say there is “no room” to want what he has not given. That line chilled me more than the doorstep. Her hunger has not been answered; she has simply been made too full to feel it for the moment. The cracker-and-meal metaphor has turned dangerous now. He can feed her so beautifully that she forgets she came asking for a name.
 
-And then Brooke walked in with a smile and put a knife on the counter.
+And I am furious because none of the tenderness is fake. His face breaking open, his voice cracking over missing her, the forehead kiss beside the pancakes—I believe every inch of his love. That makes it worse, not better. He could tell her. He nearly did. She could hear him. Randi redirected them both into the language they already speak fluently so nobody had to survive the truth.
 
-I hate that Brooke’s warning is plausible inside that house, and I hate the velvet way she delivered it more. “Play all you want” reduces something painfully real to entertainment for men, then “you’ve got a position in this house, and you’ve got her. You need to choose” makes Vee the disposable half before Randi has even permitted herself to say what Vee means. It is social coercion dressed as sisterly protection. Brooke saw the kiss, understood enough, and immediately found the exact pressure point: Randi’s whole safe, approved life.
+Then Vee walks back into the dorm wearing Pace’s sweats, Randi’s heels, and nothing resembling informed consent to the life those two people are building around her. That outfit is the entire deception in one image. She thinks it tells the story of her happy weekend. It actually says she is already wearing both of them without knowing it.
 
-So now Randi has been handed the same choice she keeps denying Vee—the protected structure or the person—and I need to see whether she notices the symmetry. Pace chose silence over the risk of naming love. Randi has just been warned to choose silence over Vee. If she obeys, after sending Vee to Pace’s door in those shoes, I may combust.
+I would text a friend at one in the morning: *This book just gave me one of the hottest reunion scenes I’ve read and made the orgasm itself feel like a successful act of sabotage.*
 
-Text to a friend at 1 a.m.: VEE FINALLY KISSED RANDI FIRST, RANDI LIED HER BACK INTO PACE’S BED, AND THE SORORITY PRESIDENT SAW EVERYTHING. I am unwell.
-
-GATE 46 — My Friend Randi
+GATE 52 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Vee choosing that kiss gave me the bond-turn I have been waiting for, while Randi’s manipulation and Brooke’s ultimatum made the hidden structure feel ready to detonate. I’m furious, turned on, scared for Vee, and already reaching for the next chapter.
+ALMOST-STOPPED: “the far-off sensible part of her that knew a woman should not be doing this at speed on a county road could not have made her stop for anything short of God.”
+WHY: The distracted-driving tease briefly knocked me out of the erotic fantasy, but everything after it had me by the throat. I need to see when Vee realizes that she did not solve the problem: Randi coached her to silence her own question, Pace let the interruption save him, and the missing truth is now sitting underneath the happiest weekend of her life.

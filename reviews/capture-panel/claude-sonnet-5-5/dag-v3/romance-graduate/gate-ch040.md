@@ -1,30 +1,26 @@
-*capture-dag-v3-grounded · gate ch040 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch039 · history ch001..ch039 · ledger no seed 9873873566a5 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch040 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed c86dda03f50b · 2026-11-02*
 
 REACTION
 
-Finally, the crack comes from Vee, and she says it too loud. "Is this what we are now?" in a daytime voice in a dark room is the most human thing she's done in ten chapters. I wanted her to ask, and I wanted it to come out ugly. Pace's answer is the maddening part. "Okay. Where do you want to go tonight?" He takes the question seriously and answers a different one. Chapter 39 again: he hears her and replies with logistics.
+A very short chapter, and I don't know yet if the shortness is craft or shortcut. Mostly it works. It's one insomniac night in a bunk, and it does one thing: the shirt stops working. The turn is "the heat in the shirt was her own, given back." The smell she asked him to refill is just her own warmth, and he's across town sleeping easy. That's the book's ache in a single object, and the narrator doesn't have to say "he isn't here."
 
-Chili's is a good scene. The TV above her head, his eyes sliding off, the fork squared to the table edge. She reads it as shame at being seen with her, and I was reading it as the noise problem. Then he says so, and it's a real answer. Too loud, he can't hear her, "I'm listening now." It's tender. It's also exactly the kind of answer that dissolves the fight without giving her the word, and she knows it: "It wasn't the word. It would never be the word." The nachos as "a billboard to a painting" are funny and a little sad. He has ruined her for the cheap thing, and she's mean about it.
+The empty text field is also exactly right. She knows no message will return the shape of what she is to him. It's the first time she doesn't take the ache to anyone, and that scares me, because it means the next place it goes is Randi's table.
 
-Her lie, "you went cold on me after the Rusty Nail," and his quiet "You know what happened after the dance" is a nice small collapse. He doesn't win, he just sets the true thing down.
+The ending lands. She takes the shirt off, the cold is worse, and she leaves it in a heap, not folded. After ch38's tender ritual, that's the crack. The date line, Friday the 11th, also tells me this is the night before Saturday brunch. That's what I've been waiting on.
 
-The sex is hot and, for once, about what she wants and can't ask for: him losing control. He doesn't, until he does, and she takes it as hers. But the line that sticks is "She belonged to him... But did he belong to her?" That's the whole book's ache, finally stated flat, and I think it's explained a bit more than it needs to be. She "forgave" him and the forgiveness doesn't hold. Fine.
+Heat is basically a bare body in a cold room, which is charge of a sad kind. A little of the narrator-explaining ("a girl too far gone in a boy," the "big name and small name") is the habit I grumble at. Still, I want the brunch badly.
 
-What I'm noticing: no Randi on the page. Eleven days since the brunch where she nearly broke. The fear I carry is that Vee takes this hunger for a name straight to Randi. I want that brunch.
-
-GATE 40 — Under the Rug
+GATE 41 — Bare
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "It was to food what a billboard is to a painting, every color on the palette squeezed out and stirred together at once" — the metaphor was pleased with itself, and the closing unease monologue repeats chapter 39.
-WHY: Vee finally asks out loud and Pace answers with a reservation instead of a word, and the "did he belong to her" ache lands. Hot, tender, and it makes me want her to take this straight to Randi.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "none"
+WHY: A tiny, sad chapter that kills the shirt ritual with one line, "the heat in the shirt was her own, given back." It leaves her unfolded and unsleeping on the eve of the brunch I've been waiting for.
 
 LEDGER
-+ LOVE: "Is this what we are now?" blurted too loud in the dark, and Pace taking it seriously and answering with a plan.
-+ LOVE: Pace's fork squared to the table edge and "I'm listening now," the noise explanation that is true and still not the word.
-+ GRUDGE: Pace answers every real question with logistics or a gesture, and she lets "near enough" stand.
-+ WAITING: Vee carrying the unnamed ache to Randi's Saturday brunch, and what Randi does with it.
-~ F32.3 DEEPENED: She asked for the name aloud and got a dinner out instead; the gap is now spoken, and she "forgave" him to avoid it.
-~ S33.2 DEEPENED: "Did he belong to her" and "what she had of him she could not have proved" is the third crack in her certainty.
++ LOVE: The shirt dropped in a heap, and "the heat in the shirt was her own, given back."
++ FEAR: Vee, sleepless and unanswered, takes the whole ache to Randi's brunch tomorrow, and Randi gets to feed on it.
+~ W40.4 DEEPENED: The date is the eve of Saturday brunch, so the unnamed ache is about to go to Randi's table.
+~ S33.2 DEEPENED: She can't text him because no message could answer what she is to him, so the doubt is hardening.

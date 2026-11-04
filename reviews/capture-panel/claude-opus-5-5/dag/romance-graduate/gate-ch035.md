@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 04d81f4dffad · dated · 2026-10-31*
 
 **REACTION**
 
-Okay. The first half of this chapter nearly lost me, and then the second half grabbed me by the collar.
+Oh my god. OH MY GOD. I've been begging for Randi's insides for six chapters, and the book did it sideways. It's Pace's eyes on Randi, not her own head, and I think that's worse. Better. Worse for her.
 
-"We have so much sex, Randi." "Two, three. And then there's mornings… and afternoons." That stretch reads like a recap of the last eight chapters, told to someone who'd skipped them. I don't need the highlights reel. I was there for the bet, I was there for the photo, I was there for the lemon chicken. When she got to "he changes it up the whole time, fast then slow then some way I don't have a word for," I felt my thumb twitch, because that's the coy, catch-all kind of line I left KU to get away from. I read it, but I was skimming for Randi.
+The green panties came back. I had literally written "I think not" in my notes. They've been at the bottom of his second drawer under squared undershirts the whole book, folded in thirds with the spot centered the way Vee folded them that first night. Randi went looking for a shirt and found the one thing of Vee's he keeps, and she didn't say a word. She kissed him with them balled in her fist and rode him with her hand flat on his chest so he could feel the satin. She wouldn't take the shirt off because she'd have had to open her hand. Then she came with a sound he'd never heard from her and cried into his neck. "It's hormones." He let it be hormones. And he *knows*. That's what gutted me: "he kept a thing of Vee's, and Randi had never once offered him anything to keep." He sees the grief exactly and decides not to touch it. That's the "I don't go back" face pointed at the woman who's been sleeping with him longest.
 
-Then "You're just finally hungry out loud." It's the jacket line, word for word. Part of me went *oh, there's the back cover*, and the line felt a bit staged. The other part of me noticed it was aimed straight at the sex-pervert question, and I hate how well it works. That's Randi's genius. She doesn't lie to Vee. She tells her the exact truth Vee needs and charges her for it.
+And the drawer, Vee's drawer standing out an inch. She went through it. He pushes it shut and tells himself it's the old house shifting in the cold. Sure, Peter. Then the untouched black coffee, five eggs ruined and three left, and he'll be hungry before lunch. I'm sitting here at 1 a.m. thinking about eggs.
 
-And then the moment that actually stopped my breath: "Like he wants *me*. With the body attached." And Randi says, low and not quite even, "It doesn't." That isn't technique. That's Randi's own wound, the one I've been begging to see since chapter one, finally showing through: the egg-white mother, the size seven, whatever it is. For one second she isn't steering anything. She's a woman hearing about something she wants and has never had, from either of them. Then she pulls herself back up and asks about the playlist. God. I'd text my friend: *Randi cracked. ONE line. I'm unwell.*
+The couch scene is the hottest thing in the book so far and it's hot *because* of what it's about. He interrogates her with his hands. Every time she dodges, he pinches harder, slows down, pulls almost out, until she gets to the true sentence. Her face on the back rail is turned away from him, and she forgot the mirror. The clench happens on the word "mouth." "I'm doing it for you." "I didn't ask who it was for." "You don't have to do it for me," and she comes on *that*, on being let off the hook. That's character work done with a body, and it's exactly the thing I keep saying I can't find anywhere. Then "God, I want her," and "she heard it leave her. He felt her hear it." Randi is in love with Vee. Possibly with both of them. "It makes me feel real. And some nights it frightens me." I was right that she fell for her own bait, and it hurts more than I thought it would.
 
-The photo is the knife. Six days ago, naked in his bed, Vee said "Only if you promise you'll never share me with anyone," and Pace said "Never." He kept his promise, and she's the one who broke it, in a booth, to the one person on earth she shouldn't have shown. And Randi worked her like a lock. First she was disappointed: "these are *dusty*." Then she backed off: "You don't have to show me." Then the sting: "you only gave him *half*?" Vee's pride did the rest, and the full uncropped photo went into Randi's hand. "Showing him your toes, eh?" Randi and her feet. That photo is in Pace's bed within a week, guaranteed, and he'll know the only way Randi could have seen it. Either that's the crack where it all breaks, or Pace pretends he didn't hear it, and I can't decide which is worse.
+Pace. "She consents — every time — or I'm done." "It isn't you I'm checking on." I believe him, and I hate that I believe him. He picked Vee on the quad for himself. He'd already pictured the bed before he pointed, and the pointing was a test of *Randi*. "You were wet by the time we got to the fields." He reads Randi the way Daphne must have read him, and he was the one who chose. My Daphne theory is getting heavy. He's careful and decent, and he's the one running the whole thing. He gives Randi "you are extraordinary." Nothing about love, and she "took her holding on for the compliment it was." So both women get no word from him. Neat, cruel symmetry.
 
-The goodbye kiss. VEE leaned in. Vee took the extra second. "She noticed it, and decided it was what she wanted, and didn't bother about it again." That's the line I've been waiting for since the practice-room hug. She's not calling it friendship in her body anymore, just in her head. And Randi holding her eyes "a beat past what a goodbye needed" is the second time this chapter Randi's mask slipped.
+Her side of the sidewalk kiss: "She *took* it." I'd seen it from Vee's side. Seeing it land on Randi first and then on Pace, so that's what finishes him, is exactly what the jacket promised. "Everything she confides travels farther than she knows." Well, here it is.
 
-Gripes for the tally: "softer than the plan called for." I KNOW there's a plan, book. The jacket told me, and the whole structure tells me. Don't nudge me. And "Vee took it for the ordinary pleasure of a plan made" explains the irony as if I couldn't see it. The yolk running everywhere, "the middle, when it goes everywhere," is a little on the nose, though I laughed. The Anthro class is a great move: Tuesday and Thursday nights, "just us," no Cassie. That's Randi taking school nights off Pace. The tug-of-war is now a calendar war, and Vee thinks she's the one who suggested it.
+Small gripes, because I'm me. "Still full of your come" landed a little crude-for-crude's-sake in Randi's mouth. Then again, it's Randi, and it's the point. "Which was as near as she came to saying it." And especially "She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it." That one is the book explaining itself again, and it's also Pace being wrong about her. I couldn't tell if the wrongness was on purpose. If it was, fine. If it wasn't, it's the one flat line in a chapter that's otherwise all knives.
 
-Also, Vee is paying with her card again and tipping well. Mimosas, Benedict, the shoes. The bill is coming.
+I needed the floor to drop. It didn't drop for Vee. It dropped for Randi, and it dropped right under me.
 
-GATE 39 — All the Time
+---
+
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Two, three. And then there's mornings… and afternoons."
-WHY: The sex rundown is a summary of things I already lived through, and it sagged badly. But Randi's "It doesn't," the broken photo promise, and Vee being the one who wouldn't end the kiss are three real turns in one booth. My NEXT is higher than my CAPTURE because the photo is now a loaded gun, Anthro just gave Randi two nights a week, and I need to see Randi carry that picture up the hill.
+ALMOST-STOPPED: "She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it." Not close to leaving, just the one place I rolled my eyes.
+WHY: The interrogation-by-sex scene is both depth and heat at once, the thing I've been starving for, and it's how Randi's secret came out: she's in love. The panties, the drawer pushed shut, the untouched coffee. I'm terrified for all three of them, and I'm already turning the page.

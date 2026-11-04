@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha dd5e714ddb25 · dated · 2026-10-24*
 
 **REACTION**
 
-FINALLY. Five chapters of people alone in cold rooms: Vee in the dorm, Vee walking out, Randi in Gstaad, Vee in the lavender bedroom, Pace throwing up whiskey. Then it opens on a plane in the dark with her forehead on the window and I actually groaned. *Sixth one, really?* It turned by Roanoke, though. Crying on that drive is exactly right, because her hands know it's Friday. And the second Randi came down those stairs the book had a pulse again.
+He was going to say it. "Vee, I l—" and SHE CUT HIM OFF. I actually put my Kindle face-down on my chest. After fifty chapters of me yelling at this man to spend the word, he finally opened his mouth to spend it, and she unbuttoned her coat over it. She doesn't even know. She read his face as the wall coming up. I don't think it was the wall. I think that was a man about to jump. Then the book lets her lie there afterward with "no room in her for wanting anything he hadn't given," and I'm screaming, because he nearly gave it to her and she'll never know. That's a brutal piece of irony and it's completely earned. No one manufactured it out of an unsent text. Her plan was "don't do it with words, words are the whole war," and it worked so well it shut the words out.
 
-What a scene. Randi's advice is *good*. "Name it or lose me, the one thing he can't do." "Fear needs a face to point at." That's real emotional intelligence, and it's coming from the woman running the con on her. Randi is helping Vee and herself in the same breath, and I can't separate the two any better than Randi can. Then the low little "Not a word," said past Vee's shoulder, and Vee decides some boy hurt Randi once. No, babe. *Pace hasn't called her either.* Six weeks. I nearly put the Kindle down to scream. Randi also just let Vee keep the blonde-model Sheri for a minute, and she was never going to correct her, because she can't know what Sheri looks like.
+And whose plan was it? Randi's. Whose shoes? Randi's. Then he looks at her in those heels and says "Those stay on," and my stomach dropped. Does he know those shoes? Has he seen them on someone else, under that cashmere blanket? Was the music, the lamp, the jeans "still, or again" because a text came over that afternoon saying *she's coming tonight*? I can't prove it, and that's what makes it delicious. Vee walked across the whole night in a costume another woman picked out, and she thinks she's taking her own life into her own hands. Brooke's "you need to choose" is still sitting in my chest from last chapter too.
 
-The heels. I'm suspicious of those heels. Randi's own shoes, "just the thing for tonight," going onto Vee's feet and into Pace's house. Is that a message to him? Will he know them? Vee's nipples go tight while both of them are holding the straps, and she files it under "tonight" and puts it away fast. The book doesn't spell it out. It just lets me watch her not look, and I loved being a step ahead there. The coat with nothing under it is a trope I've read fifty times, but her shame made it land: the word already in her mouth, her mother's voice, and the want coming up *sharper* because of the burn. That's the inner life I came for.
+Now the heat. FINALLY. This is what the jacket promised. The mirror scene is the best thing the book has done with her body. She takes the "stripper's body" word, lets it be said, and *uses* it, then stops herself and calls the stopping powerful. That's interiority and explicitness in the same sentence, which is what I came here for. The bra drawer bit, "the first time all day the plan had had to overrule her own hands," and "last thing, only thing" with the shoes are a real woman's thoughts, not a romance heroine's. Kayla's laundry monologue while Vee stands there bare under the wool made me laugh out loud. The stain on the lining, "it only told her she meant it," is the old shame turned inside out, and I loved it.
 
-Randi telling Vee about New Year's was brutal to read after ch43. Vee hears "naming children on the first day" and it goes right into her sore spot, while I know Randi lay there cold and then fixed her face in the mirror. "Everywhere but the bedroom, and the bedroom's the room I actually live in." It's a perfect lie made of true words. She does that every time.
+My gripes. The open-coat-on-the-doorstep is a trope I've read forty times, and the book knows it ("the kind of reveal she'd only ever seen in a movie"), which only half lets it off. The cop car was pure sitcom. It jolted me out, and I nearly rolled my eyes. A few lines on the doorstep slid into stuff I could recite from memory: "as if he would die without the taste of her," "pulse after pulse." Ten books ago I'd have skimmed past those. Here they stick out, because the rest is so much better.
 
-Then Vee goes back from the latch and kisses her. VEE starts it, both hands on her face, under fifty years of sorority sisters. Randi touching the back of her hand to her mouth like she's fifteen, the dumb laugh in an empty hall: I melted. That's the first time I've seen Randi purely happy. She got about forty seconds of it before Brooke. "You always say goodbye under the composites." Lauren Pike. "You need to choose." It's chilling, and so warm the whole way through. It's real outside pressure, finally, not one unsent text, and it lands on the one person in this book who built her whole life so she'd never have to choose anything. I'd honestly forgotten Brooke existed, and she just became the scariest woman in the book.
+Then the pancakes saved it all over again. The way he makes them, lumpy batter, "made and not poured," and him down on one knee: "I'm sorry. I never meant to hurt you. I missed you so much," with his voice cracking. That's the closest he's come, and it's still not the word. Her "I haven't eaten anything real since the last time you cooked for me" set off my weight alarm, though maybe the book means it as the crackers line coming back.
 
-1 a.m. text: *Vee is walking into Pace's house tonight in nothing but a coat and RANDI'S SHOES, and Randi just got told to dump her. I'm not sleeping.*
+Cassie's "Hmm" was perfect. A whole chapter in one syllable.
 
-GATE 46 — My Friend Randi
+What I'd text at 1 a.m.: *he said "I l—" and she interrupted him with her BOOBS. also I think the shoes are a plant. also I'm fine. I'm not fine.*
+
+They didn't talk about December at all, and the stall is broken. Now I'm scared it'll be sweet for exactly two chapters.
+
+**GATE 52 — Nothing Underneath**
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The cabin had been dark for hours and the drone had gotten down into her bones, and Vee had her forehead against the cold of the window" (a sixth lonely-dark opening in a row)
-WHY: After five cold, solitary chapters, this one finally put two women in a room together and gave me momentum: a plan, a deadline (tonight), Vee kissing Randi first, and a real outside threat in Brooke. I couldn't stop now if I tried. The coat is promised, the heels are loaded, and Randi has been told to choose.
+ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren."
+WHY: The heat finally came, and it came with her mind attached, which is the only way I want it. What has me reaching for the next chapter is the cut-off "I l—" and Randi's heels on her feet while he says "those stay on." Everybody won tonight and nothing got fixed.

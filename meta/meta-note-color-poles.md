@@ -29,7 +29,7 @@ insistent, gave away everything" vs the face giving nothing) ·
 `in-her-place:17` ("cocoa-brown, drawn tight already"), `:47` ("dark at the
 best of times… furious wine-dark").
 
-Vee: `in-his-hands` ("faint pale pink… scarcely there at all… came up
+Vee: `above-him` ("faint pale pink… scarcely there at all… came up
 bright") · `nothing-underneath:27` ("barely-there pale pink to a bright,
 insistent pink") · `grace:167` (**apex — Pace names it aloud**: "Your areola —
 so pale a pink it's nearly not there. Watch.").

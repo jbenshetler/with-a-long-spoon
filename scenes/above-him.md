@@ -1,108 +1,118 @@
 # Above Him
 
-*Vee POV. The weekend after We Find Out, into the next. Three movements.*
+*Vee POV. A weeknight in mid-November, into the next morning. Three movements.*
 
 ---
 
-The sheet had gone cool everywhere her skin wasn't touching his, and she lay in that cooling with the whole day still loud in her body and let it come back to her.
+The last of it came up on her without warning, as it kept doing with him, and she folded down over his chest with her hair fallen forward around both their faces, a red curtain drawn against the lamp, and kissed him inside it, blind, until the thing broke through her and left her shaking and stupid and full of him. When it let go she was winded. She lifted up off him on legs gone unreliable, and as they came apart the whole use of the evening was in her at once, a deep worked soreness low down that she'd be aware of tomorrow and glad of, and she dropped onto her back on the sheet beside him with no grace left to spend.
 
-A week since the last time, the longest they'd gone — the conference, several days of it, and a brutal week on campus on top of it, so the midweek night they'd have stolen never happened and the seven days stood empty between them.
+The ceiling came level. Her breasts were still shining faintly in the lamplight from the work of it, lifting and falling while her breath found its way back. She turned her head. He was already looking at her, smiling, and she smiled back.
 
-Then the door swung wide before she reached it and she was off the ground. He had her up under the arms and around, her feet swinging out, the porch light wheeling once behind his head, and she heard the sound that came out of her, a bright stupid sound she'd have died of anywhere else. He didn't set her down so much as let her slide the front of him until her toes found the boards, and by then her hands were already at his shirt.
+He turned toward her, and kept turning, rolling up onto his side and coming all the way around until his body lay nearly square across hers, his feet off the far edge of the bed, and he set his head down on the lower slope of her breast with his cheek against her skin. One hand went up into her hair and stayed. For a while he only lay like that, looking up the length of her at her face, his eyes gone soft, the smile still on him, and she looked back down at him and the smile would not leave her face.
 
-They hadn't made the kitchen. They hadn't made the hall. Their coats came off them both inside the door and the rest followed, dropped where they stood, a week of wanting coming out of them at once, and even then, even with her clawing at him, he'd been slow. That was the thing she still couldn't get used to. He never went straight at his own finish. Some nights he started with his mouth, some with his hands, some he just put her where he wanted her and used the rest of himself, and she never knew which it would be, only that it always came around to her first, brought all the way over and usually more than once before he took a single thing for himself. She hadn't known a man could do that. She hadn't known a man would want to.
+*He's all mine,* she thought.
 
-He'd cooked after, the way he near always did. Some nights it was a production, four pans going and a smell building she had no names for, and tonight it had been plain: salmon laid in a hot pan and turned once, a sauce gone pale green with dill, a salad with the tomatoes still warm off the sill and a mustard thing he'd whisked up in a glass that she'd wanted to drink straight. A cold white wine he said came from Greece, a little stony.
+Then his mouth moved, small kisses, barely kisses, his lips scarcely leaving her between them. *He takes such comfort there,* she thought. *They're not about sex for him.* She could feel his ear against her and the weight of his head and the kisses wandering slow up the curve of her breast, drawing his face along with them, and when they reached the faint pale pink of her, the color so slight it was scarcely there at all, it drew tight under his mouth and came up bright, with no say from her, spent as she was, and the corners of his mouth pulled up against her, where he'd felt it happen too.
 
-She'd sat at the little table in one of his shirts, her feet tucked onto the rung of the chair, and talked while he cooked. When he turned to the stove she kept going, with her wine in her hand, and when he turned back he picked her up wherever she'd got to.
+His lips closed over her, not taking her into his mouth, only holding the risen tip of her a moment between his lips, gentle. Which rather spoiled her theory, and pleased her to no end. *Not just about sex for him, then.* And there, off to the side where his hips had come to lie across her, he was hard.
 
-"You remember Randi? From the froyo day."
+No man had ever wanted her body like this one did, and with Pace she was a girl who had a body, not a body that happened to have a girl attached to it. "Again?" she said, and heard how pleased she was to say it.
 
-"Sure."
+"You do this to me," he said, against her.
 
-"She's a new friend. I walked right into her outside the dining hall, beginning of the semester. Nearly knocked her over. It's a small world — found out we have a stats class together." She smiled into her wine. "And then the next morning, she comes and sits right down with me."
+"Who does this to you when I'm not around?"
 
-"You like her."
+"Sometimes I take care of it myself." His breath moved warm across her skin. "Thinking of you."
 
-"I do. She's so much fun. Cassie, who's also in stats with me, isn't a fan, but Cassie doesn't like sororities on principle. Even though Randi goes out of her way to invite Cassie."
+Something turned over low in her, half-lit. "What do you think about?"
 
-"We go to brunch. Gives me an excuse to wear something pretty to go out. Randi dresses so beautifully. Even for class. She always looks great."
+He went quiet first, the pause he always took when he meant to answer a thing properly. "The things we do. That look on your face when you take the first bite of something I've made you." His thumb moved in her hair. "The way you look after. Lying there glorious in my bed."
 
-He slid the spatula under the fish and turned it, and she waited for the hiss to settle.
+"And that works?"
 
-"We chat, you know, girl stuff. Sometimes we even talk about boys."
+"Remembering you is a pale thing next to you being here."
 
-He looked over his shoulder.
+She lay with that a moment. Then she brought a nail up to her front tooth and tapped it three times. "Would a picture help?"
 
-"Yes, you." Her cheeks had gone hot, and she laughed. "Your name might come up."
+He raised his head. "You'd do that?"
 
-"Only good things, I hope."
+"Only if you promise you'll never share me with anyone."
 
-"What else is there about you?"
+"Never. I'd never share your photograph."
 
-His smile opened at that, and she sat there smiling back until he had to turn to the pan.
+She started to get up. "Let me clean up first. I want to look nice."
 
-"She's got the funniest stories about the boys she goes out with. Honestly, she's so pretty, and she still can't find what she wants. You'd think she'd have her pick."
+"You don't have to." He caught her by the wrist, easy, not to stop her, only to say it. "I like you exactly like this."
 
-She took another sip. "And she's got this little accent. You hardly hear it. She must have lived in Europe when she was little. Oh, and she does this funny goodbye kiss she must have picked up there."
+She kissed him for it and went anyway. In the bathroom she brushed the wreck of her hair back into something, and put her face back on, the eyes and the poppy-red mouth, and worked at herself in his mirror until she'd found the version of herself she wanted him to keep. When she came back she was not the wrecked, sated woman who'd dropped onto the sheet a little while before. She was composed, arranged, a girl who had decided to be looked at.
 
-He turned from the stove, spatula still in hand, and mimed the two cheek kisses across the kitchen at her, eyebrows up, very grand.
+"How do you want me?" she said.
 
-"No, on the mouth." She laughed. "And then she comes back and does it again." Her tongue brushed her lower lip. "This kiss-kiss. It's French, I guess."
+He came around the foot of the bed at her with his shoulders rolling, mock-slow, a man in a nature program stalking something, and none of it was quite a joke — he was coming at her with want for her all over him, and he had not troubled to hide that.
 
-His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke.
+She got a hand flat on his chest and laughed. "No, not like that. You'll have to wait."
 
-She set her wine down and went to him at the stove. "Don't be silly. Not *that* kind of French."
+So he did it himself. He pressed her shoulder until she turned onto her side where he wanted her, and set her elbow under her, and drew her hair back off her face, and laid her free hand along the curve of her hip, and moved her legs where he wanted them, together, one knee carried a little ahead of the other. He did it unhurried and sure, and at each place his hands set her he put his mouth there after: a kiss to the point of her shoulder, a kiss to the rise of her hip, a kiss to her knee. By the time he stepped back she was laid out like a woman in an old calendar, warm under his hands, with no wish to argue with any of it.
 
-She kissed him, and he kissed her back with the spatula held out of the way. She caught his shirt and held him there, then let her hand go lower, down the front of him, and found him hard.
+He reached across her to the nightstand and took up her phone, not his, because hers took the better picture and they both knew it, and stood off at the foot of the bed and lifted it. The small sound of the shutter, once. He looked at what he had, touched the screen, changed something, lifted it again. Another. He crossed to the lamp and tilted the shade until the glare slid off her skin, came back, tried it with the phone turned long in his hands, and the shutter again. He looked at it. "Hm," he said, mostly to himself. "Yeah. That's the one." And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd gotten away with something, and it landed warm under her breastbone.
 
-"Umm, yeah," she said against his mouth.
+He brought it around the bed and put it in her hand.
 
-His free hand came up and settled over her breast through the shirt.
+She had wanted pinup, glamour, a girl on a calendar, and that was what he handed back to her. The girl on the screen was composed and certain and lovely, lovelier than anything she'd have caught of herself alone, and it took her a second to credit that it was her. She looked, she thought, beautiful. And some part of why she could think so was that the picture was his, was her as his eyes had her, and she didn't want to give the phone back.
 
-"I'll pretend it was that kind of French. After you feed me."
+And under the wanting to keep it, the cold sane thought any girl had about a picture like this. She looked at him, at the plain open want in his face, and she believed him, and believing him was the brave part. She sent it before the nerve could leave her, and watched the bar cross and the word under it go to Delivered, and gave him herself to keep.
 
-He laughed. Behind him the pan hissed, and she let him go.
-
-When he brought her plate he set it down with a hand still on her shoulder. "I hope you like it."
-
-She did. She'd eaten all of it. She ate like a field hand at his table now, chicken piccata instead of cafeteria pizza, salmon instead of fries, water and wine instead of soda, and she kept eating until she'd had enough, and there was always enough. There was still a tomato on her plate. She ate that too.
-
-Her bras had gone in a hook, the bands riding higher than they used to sit. The few good pairs of underwear, too. Those were the only things that fitted her; everything else had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would.
-
-After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them. There could be an *after*. A man might come back to her an hour later like she was something he'd been turning over the whole time the salmon cooked.
-
-Now the house ticked and settled and he slept, flat on his back, gone the moment it was over, one arm flung up above his head. She turned on her side to watch him in the dark. The broad chest he kept hidden all day under shirts a size too big rose and fell, slow, and the old scar was a paler line in the gloom that she'd still never asked about and still meant to keep. She was happy. She set the word down plainly, lying there, happier than she'd known a person was let to be, and underneath the happiness, holding it up, was the other word she'd been carrying around all week.
-
-She loved him. There. She'd said it, or not said it, but let it be true in her own chest where she couldn't take it back. She loved him, and he had never once said it to her, and she lay there and counted all the ways he'd said it without saying it: the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her. A man didn't do all of that for a girl he was only passing a season with. He had to feel it. He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying.
-
-She moved closer and tucked herself along his side and put her mouth up near his ear.
-
-"Peter," she said. Barely the breath of it, to the sleeping shape of him.
-
-He didn't stir. She hadn't meant him to. She shut her eyes against the warm of him, and the day finished letting go of her, and she was under before she could think one more thing.
+When she looked up from the phone he was hard again, full, and watching her. She laughed, low in her throat. "Again," she said, not a question this time, and reached over and closed her hand around him.
 
 ---
 
-In the morning her hair had kept the whole night in it.
+She sat at the kitchen table in one of his soft white cotton t-shirts, wrung out and still humming and parched three times over. He was no better off, and it showed on him. He filled two tall glasses from the filter pitcher in the fridge, gave her hers first, and drank his own down where he stood. She drank hers down too, all of it, without coming up for air, cold and clean, and the relief of it went right through her.
 
-She stood at the sink in his robe with the belt doubled twice around her and still trailing, and worked at the wreck of it the only way it could be done, one piece at a time. Brush first, from the ends up, a little higher each stroke, until it ran clean. Then the pins, held in her teeth and set one at a time, lifting and turning the dark red of it up off her neck. It wasn't for going out, but it would have to do. Then the scrunchy, deep green with the small white dots, one of the dozens he'd bought her so she'd never be without, off the form by the tap.
+Only then did he open the wine, a cold bottle, the cap cracked in front of her, a Chilean sauvignon blanc, and he poured a glass for each of them. She took it slow: the bright cut of grapefruit and lime, a green thing under it like cut grass, then the clean dry snap at the end that had her wanting the next sip before she'd swallowed the first.
 
-The counter in front of her was a disaster. It was the only bathroom he had, and her whole kit had colonized it, the brush and the loose pins scattered, a fallen scrunchy, her face cream open, two bottles she'd stood up and one she hadn't, all of it out across a stretch of counter that every other hour of the week stood bare and wiped and held nothing but his razor squared to the edge. She'd gotten over herself, finally, and brought the bag, and the bag had done this, had thrown her whole disordered self across the one clean surface in a clean man's house.
+"You've used me terribly," she informed him, with enormous satisfaction. "Three times, in one evening. Promise to use me again soon." Then, because that was true too: "But feed me first, or I'll starve to death at this table."
 
-He came in behind her. She felt the warmth of him before the door, and then his arms came in under hers and crossed at her front and drew her back against his chest, and his mouth found the side of her neck, slow, no part of it asking for a thing. She let her weight go back into him and watched the two of them in the glass, her with her arms still up in her hair, him folded around her with his eyes half shut, and she was so full of the night and the morning at once that her throat pulled tight.
+"Can't have that," he said, and put a pan on.
 
-She watched his eyes open. She watched them move, in the mirror, off her face and down to the counter, to the brush and the pins and the bottles and the spill of her, and hold there a second, taking it in.
+He cooked with his head tipped a little toward the pan, listening, and she sat back with her wine and watched him wait on it. Chicken breasts, salt and pepper, laid into the hot pan, and the pan said so, loud at first, then settling to a steady talk. He took a grater to two lemons and brought the yellow off them in a fine bright rain and left the white behind, and the smell of it reached her at the table before he'd finished grating. He laid the flat of a knife on a clove of garlic and hit it with the heel of his hand, and the skin came loose, and he did it three times more. Somewhere in the middle of that the pan's talk changed and he turned the breasts without looking at them, and when they'd said what he wanted to hear he took them out to rest.
 
-Something small went through her. Not the deep thing. Only the surface worry of a guest who's left a ring on good wood, and here was all of her flung across his order like she owned the place. She held still and waited to see what he'd do.
+He slid an onion in after, and it hissed at him, and he stood over it and moved it until it went soft and see-through, and the garlic went down and hissed at him too, and a minute later it reached her, the onion gone sweet and savory with the garlic riding under it, and her mouth ran ahead of the food. Then he poured in enough of the wine to make her genuinely sad, the same wine she was drinking, a long unbothered glug of it. She told him so, and he told her the pan needed it worse than she did, which she doubted out loud. Stock after the wine, and then the lemon, sharp and immediate across everything the pan had been building, and the chicken went back down into it to swim, and he tipped the pasta into the pot he'd had going behind it all and let everything cook down together. At the end he swirled a knob of butter through off the heat, and the sauce went from bright to silk.
 
-He did nothing. His eyes came back up and found hers in the glass, and he smiled, the private one, and put his mouth back to her shoulder where it had been, and that was all of it. Not one word. She let her breath out and leaned into him and let the worry go, and carried only the smallest tail of it out of the room with her. *Had he minded?* She couldn't tell. He hadn't said. He never said.
+He fed her tastes off the spoon while it went, and blew across every one before he let it near her mouth, as he had since the tomatoes. She took them as they came. He didn't ask how they were. He looked at her face instead, and went back to the pan, and whatever he found there he did something about: a little more of the lemon, a pinch from the dish of salt by the stove.
+
+While the last of it cooked down they didn't talk much. He held her hand on the counter and they drank the wine and let the kitchen fill up with the smell of it, and it was enough to be there, the two of them, saying nothing at all.
+
+He served it out over the pasta with the lemon sliced to paper and a scatter of capers over the top, and set the plate in front of her, and watched her take the first bite. She shut her eyes and made a helpless sound around it, and when she opened them he was watching her with the exact look he'd described to her in bed, as though she'd just handed him something.
+
+She ate, and for a while there was nothing she wanted to do but that, the chicken gone tender in the sauce and the pasta holding the lemon under it, and he let her. When half the plate was gone she slowed and reached for the wine, the same bright wine he'd cooked into the pan, and it was good, and she was happy.
+
+"I'm flying home for Thanksgiving," she said. "I get to see my folks. Are you going home?"
+
+"This is my home."
+
+He said it easily, and it warmed her, and she nearly let it lie. "Of course," she said. "But your parents. Do you go back to them?"
+
+Something changed in how he held his face. The ease went out of it and left something level and exact behind, and when he answered, his voice had gone careful, each word set down clean and apart from the last.
+
+"I don't go back."
+
+That was all of it. There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it. She didn't ask. She looked at her plate, and then at him, and let the quiet be kind.
+
+Then it passed out of him. The level thing let go and his face came back to her, and he reached over and moved her wine an inch closer, as if that were the thing that had wanted doing.
+
+"Sheri's coming over," he said. "We cycle together. She'll bring a pie and pretend she made it." The fondness in it was plain and unguarded, a man talking about a friend.
+
+The flicker came before she could stop it, small and low and all her own, another woman at his table on a day meant for family. "What about her parents?" she said. "Her people."
+
+"She's alone."
+
+He said it the way a person says it about someone they're glad to be able to feed, and the flicker went out as fast as it had come. Of course. The two of them at one table, neither with anywhere else to be. She was glad he wouldn't spend the day by himself, and she went back to her food.
 
 ---
 
-The next Friday the scrunchies weren't on the counter.
+In the morning the scrunchies weren't on the counter.
 
-She had her hands up in her hair before it registered, reaching for the green by the tap out of pure habit, and her fingers closed on nothing. The form was gone. The counter was bare, wiped, his razor at its edge, and for a second the bottom went out of her morning. He'd cleared it. He'd minded after all, and quietly, the way he did everything, he'd gathered up her sprawl and put it somewhere out of his sight, and now she was going to have to learn where a guest's things went once the guest had been too much.
+She had her hands up in her hair before it registered, reaching for the green by the tap out of pure habit, and her fingers closed on nothing. The form was gone. It had been there last night, when she stood at this mirror putting her face back on for him. The counter was bare, wiped, his razor at its edge, and for a second the bottom went out of her morning. He'd cleared it. He'd minded after all, and quietly, the way he did everything, he'd gathered up her sprawl and put it somewhere out of his sight, and now she was going to have to learn where a guest's things went once the guest had been too much.
 
 She opened the top drawer to look.
 

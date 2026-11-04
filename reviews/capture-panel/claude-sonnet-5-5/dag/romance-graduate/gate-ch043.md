@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
 
 REACTION
 
-Oh, that's a swerve. I thought I was getting Vee after she walked out into the cold. Instead I got Randi in Gstaad, and for most of the chapter I didn't know it was her. The opening is a long stiff paragraph of blocking: stone columns, steak and eggs, a tennis bracelet. It reads like a stage direction. Then I spotted the plain white-gold bracelet she keeps out of the light and the invented hearts she breaks for her father, and I realized it was Randi. "Eating her revulsion" is the best phrase in the opening. I'm still annoyed I had to wait that long.
+Oh, this one hurt, and it hurt in a way that's mostly dramatic irony. I'm a chapter ahead of Vee, and I sat there watching her answer Randi's text and feel *envy*. She's looking at the photo of the chalet and the "devastatingly handsome billionaire" and wishing for that life. Meanwhile I just watched Randi lie in a hotel bed feeling cold. The sentence "every word of it true, none of it the thing" is now on the receiving end, and Vee reads "fairytale" literally. That mirror is cruel, and it works. Same text, pasted in, word for word. I'm not mad at the repetition, because it's the point. It's the book showing me what each of them can't see.
 
-Then the whole middle is a meet-cute, a ski day, a ball, a sleigh. It's a perfectly good rich-people fairytale, and I've read it forty times. I started skimming around the venison and the foams. But I think that's the point. The book is showing me the safe, approved life at its most polished, and it's a Hallmark movie with a gorgeous man in it. Her "What kind of girl do you think I am?" has an honest ring to it, and so does the line that Pace made her say it out loud every time and tonight she liked not being asked. That's true to her. I also liked that "John" turns out to be a good dancer and skier who spends none of his reserve proving it, and still lands as a man with nothing underneath.
+The wince I felt most was the blonde. Vee builds Pace's imagined other woman from spite: blonde, tan, "a fashion model's body where Vee's was a stripper's." Then the memory of the best night, the sheet slipping, turns on her and the blonde sits in her chair. That's a good, nasty, true piece of 2 a.m. brain, and it's the strongest stretch here. And "the cold room kept watch over the girl who was gone" is a good last line, if a bit pleased with itself.
 
-The back third is what saved it. "A good sandwich eaten fast on a busy afternoon." "Her body had spent itself on him and she remained unmoved." The cold being hers, carried in. "Pace on his worst night reached further than this man had managed at his best." Then it finally says it flat out. She loves Vee, she can't picture Vee's face when she says it, and she's not brave enough. "Vee was her gorgeous." That landed hard. Then the text exchange, where every word is true and none of it is the thing, and she sends the one line she means. I ached for her. The book is also getting a little too eager to explain her to me. The "Vee heard it one way; Randi meant it two ways" bit is me being told the subtext.
+What I'm less happy about is how much I'm re-reading. The phone with the empty field is ch41 again. The "no message comes back in the shape of what I need" is nearly verbatim. The smell-of-him longing is a repeat, the "what am I to you" fight gets replayed, and the "leaves you the room" line is back. This is the second quiet, solitary Vee-in-bed chapter in a row, third if you count ch41. My thumb was already hunting for movement. And there's none on heat at all. The jacket promised me heat coming up, and I've had a long drought: a fight, a bare-skin insomnia night, a ski-resort chapter that was cold on purpose, and now this.
 
-Heat is almost nothing here. The sex is a few sentences and a lipstick ring, and it's deliberately dead. I'm fine with that for one chapter, since the deadness is the content. But I was promised heat, and this is the third chapter in a row without any. Ch41 and ch42 were quiet, and this is another one. I'm noticing.
+I'm also a little irritated that the text explains her to me. "The wanting and the fear in the one image, and no way on earth to know which was the true one." I got it two paragraphs ago.
 
-What's cutting at me is that Vee walked out crying in 42 and I have no idea where she is. The dates jump to December 31, and Vee's text from Ohio sounds soft and untroubled, which means something happened in between and I'm not being told. I want the Vee and Pace fallout badly. And Randi sitting there deciding to let Vee "arrive at it on her own" is infuriating. It's the exact move Pace makes, which I assume is deliberate.
+The new beat that matters: no word from Pace across the whole break, and she doesn't know if they're over. That's real stakes. And the sad part is that Pace presumably has no idea he's supposed to call. I want him to hear himself. I want Randi and Vee in a room. Term starting is the hook, and it's a good one: "the day the term started."
 
-GATE 43 — Fairytale
+GATE 44 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Dinner came from a chef they'd flown in with a star to his name, and it came as a run of small illusions." That's where I was skimming brochure.
-WHY: The first two-thirds is glossy filler, but the last third gave Randi her first real interior confession, and I'm hooked on it. I need Vee's side after that door slam, and I need some heat soon, because the quiet chapters are stacking up.
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She went to the pictures instead." (the point where the chapter circled back through the same phone-and-empty-field beat from ch41)
+WHY: The ironic mirror with Randi's text and the invented blonde in the sheet are real, and I'm still owed night Anthro and a real kiss. But this is a second solitary, recycled, heatless chapter in a row, and I'll skim if the next one doesn't move.

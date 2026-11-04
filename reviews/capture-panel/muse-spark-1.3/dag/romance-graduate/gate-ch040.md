@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha abb1b2754206 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch040 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-11-01*
 
-REACTION — God, this one got under my skin in a way I wasn't expecting. I came in braced for hot makeup sex and instead I sat in that Chili's booth with her and felt my stomach drop.
+REACTION — oh fuck. *This* one.
 
-Because I've *been* the girl who picks the fight at 11pm in bed because I couldn't say the real thing in daylight. "Is this what we are now?" — too loud, wrong size for the room, I felt that in my teeth. And his "Okay. Where do you want to go tonight?" Oh, that calm. I wanted to shake him and I also wanted to crawl into his lap. It's so him, solving the wrong problem perfectly.
+I went in braced for the make-up high to keep rolling after Chili's — you know, the forgiven-warm-large bed part still on my skin — and instead I'm up in that top bunk at like 2am freezing with her and I want to cry. Not in a sad-girl way, in a *seen* way. Because who hasn't done this? The lighting-up-your-phone-and-not-typing thing, thumb hovering over nothing you can actually ask? And the shirt thing — God, the two shirts, wearing his over hers for the hallway so Cassie doesn't have to say anything — I felt that so hard. Girl too far gone in a boy and trying to make it look casual.
 
-The restaurant killed me. The fork squaring, the eyes slipping to the TV over her head, the flicker of irritation he tries to hide — I know that man. And her brain going straight to *he's ashamed of me in public, this is just sex* when I was reading it as *oh baby this room hurts you.* When he said "I listen as hard as I know how and I still can't hear you" — I had to put my Kindle down for a second. That's the most honest thing he's ever said to her and it's still not the word she needs. It won't ever be the word, will it?
+And then when she takes hers off underneath to get him straight on her skin? That got me in the stomach. That's hungry out loud but with nobody watching, not even Randi to hand it back to her as a gift. Just her breathing him off her own shoulder — sawdust and salt — trying to name every part like if she lists everything he *does* it'll add up to what she *is*. And it doesn't. It doesn't.
 
-And the nachos. The billboard vs painting line — I felt that as a reader too, like, oh no, he's ruined Applebee's for her forever. She's never going back to fine. That scared me more than the fight.
+What wrecked me is that line about the heat being her own, given back. He's not in it. He's across town asleep easy like a man with nothing grinding in him. Fuck, Pace. I was feral at you before and now I'm just cold. You left her holding a smell in the dark, man. You have no idea what that costs.
 
-Then the bedroom — Jesus. The part where she's begging in her head for him to lose control, to get rough and forget himself, and he just *won't* give her anything but the order he meant to give it in? That turned me on and pissed me off at the same time. I was wet and frustrated right along with her. And when he finally did lose it — shoved deep and held and shaking — I made a noise out loud. I did. My husband looked over.
+And her leaving the shirt in a heap, not folded, not on the pillow — lying there bare in the cold and *staying* in it because the lie of warm was worse? That's the most Vee thing she's ever done. My girl who apologized on sidewalks would rather freeze honest than be cozy on a maybe. I wanted to climb up there and put my hand on her back and also I wanted to shake her and go baby please put something on, call him, make him say it.
 
-But it's the after that I'm still lying in. Her lying there marked up, full of him, counting what she has that she can't prove to anyone. "He had the whole of her, and what she had of him she could not have held up to anyone." Fuck. And that little lie she tells herself — *I have forgiven him* like trying on a coat that fits in the store and then doesn't fit at home. I wanted to text my group chat at 1am like: she's not mad he took her to Chili's, she's mad she can't call him her boyfriend to her dad without feeling stupid.
+It's 1am-text-to-Randi energy except I can't text Randi because she's part of why Vee's up there alone, isn't she? Collecting every yes and riding it. And Vee doesn't know. She just knows there's no name for it, not the big one and not the small one. That silence at the center where the word should be — I have that memorized now too.
 
-I'm so protective of her it hurts, and I'm so mad at him I could scream, and I still want him to hold me like that quilt-morning. That's the both-things this book does to me that KU never does.
+No heat in this one, not really, and I don't even care. I'm not turned on, I'm gutted and wide awake with her. Don't you dare leave her in the cold.
 
-GATE 40 — Under the Rug
+GATE 41 — Bare
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It cracked the warm open and showed the cost underneath, and the sex didn't fix it — I need to see if she ever gets the name or just learns to live without it.
+WHY: You left her bare and freezing and I can't put it down until someone covers her — with a word, not a shirt.

@@ -89,12 +89,14 @@ def title_index(chronology="meta/meta-plan-chronology.md"):
 # Turned Up merge was never propagated to the non-romance-graduate lanes), where
 # a position-moving edit is only correct on the lanes that are aligned.
 LANES = ["*/*"]
+# Gate tree under each model: "dag" (chain era) or "dag-v3" (memory v3, 2026-11-02).
+TREE = "dag"
 
 
 def gate_files():
     for pat in LANES:
         model, persona = pat.split("/")
-        for p in sorted(glob.glob(f"reviews/capture-panel/{model}/dag/{persona}/gate-ch*.md")):
+        for p in sorted(glob.glob(f"reviews/capture-panel/{model}/{TREE}/{persona}/gate-ch*.md")):
             if "/.failed/" in p:
                 continue
             yield p
@@ -304,6 +306,8 @@ def main():
                     help="with --merged, preserve later gates whose title already matches their position")
     ap.add_argument("--removed-policy", choices=["delete", "retire"], default="retire",
                     help="what to do with gates sitting at a --removed position")
+    ap.add_argument("--tree", default="dag", choices=["dag", "dag-v3"],
+                    help="gate tree to renumber: dag (chain era, default) or dag-v3 (memory v3)")
     ap.add_argument("--retire-name", help="retired basename; merges default to unique names per source")
     ap.add_argument("--lanes", nargs="+", metavar="MODEL/PERSONA",
                     help="restrict to these lanes (globs, e.g. '*/romance-graduate'); default all")
@@ -311,6 +315,8 @@ def main():
     m.add_argument("--check", action="store_true")
     m.add_argument("--apply", action="store_true")
     a = ap.parse_args()
+    global TREE
+    TREE = a.tree
     if a.lanes:
         if any(x.count("/") != 1 for x in a.lanes):
             ap.error("--lanes takes MODEL/PERSONA globs")

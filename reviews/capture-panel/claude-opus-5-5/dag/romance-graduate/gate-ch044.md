@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 **REACTION**
 
-Okay. The two texts. I read *thinking about you 💛* and *you ANGEL 😇* last chapter from Randi's side of the glass: lipstick on a stranger, the face going back on in a hotel mirror. Now I got to watch them land in a twin bed in Ohio, under the synchro-swimming trophies, and it was exactly what I wanted from this book. It's the retelling weapon again, but quieter. Both girls wrote "the thing" and both meant something they weren't saying. Randi put "Every word of it true. None of it the thing." Vee put "Not the thing — the thing she'd folded away in the glass room." Two women hiding two different things inside the same eleven words, and each one thinks *she's* the one being kind. I said "oh no" out loud.
+Okay. Sheri. I'm sorry I ever counted her as a flicker of jealousy. She's Cassie in boots, and she's the first person in forty-five chapters who's sat across from Pace and refused to be handled. "Then not saying it matters more to you than having her." I put the Kindle face-down on my chest after that line. That's the whole book, from the one person with nothing to gain. Then "The philosophy of your food. Lord almighty. Get over yourself," and I laughed out loud, because I've been reading him with a straight face for months and she just *won't*. And then she steals his fries. I love her. Paige and the seven-at-the-table family, "call your mama, Sheri, it's Christmas." So that's why she was "alone" at Thanksgiving. It's not pity. They're two people who don't go back, and they eat the usual together. Of course she's his person.
 
-Vee also *invented* the billionaire. Randi never typed the word "man." Vee built him herself, "devastatingly handsome," "a weekend so wild," straight out of the Redford-boy stories Randi has been feeding her all fall. Randi lies by giving out the fairytale and Vee fills in the rest. So I watched Randi's real night, flat and lonely, get turned into the glamorous version by the one person who'd have been gentle with the truth. That's the "step ahead of Vee" the jacket promised me, and it hurts in the right place.
+The diner itself fed me. Elvis under the amber glass, the kid setting the double in front of the man "with the grave confidence of arithmetic," "Somebody always plays it." When the book is in a room with two people talking, it's as good as anything I've read.
 
-The fra diavolo memory got me. She reaches for her best night to keep warm, and the blonde climbs into her own memory and takes her chair, her sheet, her wine light. "She could not keep her own night." That's real jealousy, the 1 a.m. kind that rewrites your past instead of just worrying about the future. And "a fashion model's body where Vee's was a stripper's." Oof. The mother-voice wire I had marked as quiet is back, at full volume, in the one room it was built in. Also note to self: she's still lying about the dancing, and she still cropped the leg off for her mother's phone. "Same picture, one house, and she was the one who had divided it." I liked that a lot.
+What scared me was the kitchen fantasy, right in the middle of his grief. Vee in his sheet with too much honey, Randi with her feet up, "nobody hurrying anywhere." He's sitting there with whiskey, missing her badly enough to cry, and he's *still building the threesome*. He's still wondering "whether the room would ask more of her than she had in her." That's the most frightening sentence he's had. He loves her and he's still the director, and both are true at once. And Randi's six weeks of silence finally landed on him. "She had always been the one who came." She's not coming. She's in Gstaad lying awake next to a faultless man, and he thinks she'll call when she's ready.
 
-Now the gripes, because I have them. This is the second Vee-alone-in-a-cold-bed-not-texting-him chapter. Chapter 46 already did the thumb over the empty field and the "no message comes back in the shape of what she needed" beat, and this one says it again almost word for word. I noticed. The last line, "the cold room kept watch over the girl who was gone," is the book underlining its own theme. "A room that loved a girl who no longer lived inside her" already did that job a page earlier. I don't need it twice.
+The hangover half was a style switch: short flat sentences, bleach, mop bucket, boiled bags of chicken and broccoli from the freezer. Prison food. The man who builds hunger in her eats nothing his mouth wants when she's gone. That got me. The truck going past, and him sobbing over the bowl, then eating anyway. I believed it. I didn't think the book could make me cry for Pace and it did.
 
-The bigger thing: I haven't seen Pace since she walked out his door on December 11, and it's now three weeks of silence in story time. Chapter 48 was Randi and chapter 49 is Vee missing him. I want him. I want to know whether he really did nothing for three weeks, or whether there's a reason I'm not being shown (Christmas with Sheri? Randi? Nobody?). If chapter 50 is another inner monologue I'll start skimming. If it's January and his door, I'm all in.
+But Daphne. I've been waiting for Daphne since forever, and I got a summary: "Her departure consumed his life." Tutor, best friend, first love, gone. It reads like a case file. Then the book does the thing I hate. It explains him to me: "He had hurt her because he was afraid of how much she could hurt him." I *got* that. I got it at the porch. Don't hand me the answer key after a chapter this good.
 
-Also, small thing: Vee knows about the PPP money and envies Gstaad anyway. "Even a poisoned Gstaad was more life than she had." That's honest, it's not pretty, and it's very twenty-one. I believed her.
+I'm also counting. Vee alone in a cold dorm. The fight. Randi cold in a warm bed. Vee cold in her childhood bed. Now Pace alone in a cold house. The same New Year's Eve from three sides, everyone cold, everyone alone with their phone. It's a deliberate design and I can see it working. But I'm starving for two of these people in one room. The third quiet one in a row is where I start skimming, and I didn't skim here only because of Sheri.
 
----
+Text to a friend at 1 a.m.: "he LOVES her he just admitted it to himself while puking up whiskey and then still daydreamed about the threesome. the lesbian diner friend is my new favorite character. somebody DRIVE UP THAT GRAVEL."
 
-GATE 49 — Old Acquaintances
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
+CAPTURE: 7
+NEXT: 7
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "There was nothing to put there. She'd learned that already, in another bed, in another cold room." The book knows it's repeating chapter 46, and so did I, and I counted pages.
-WHY: The mirrored text exchange and the blonde taking over the fra diavolo night are the best things this book does: same moment, two rooms, and I'm the only one who sees both. But it's the second solo cold-bed vigil, Pace has been offstage for three weeks, and the lyrical close leaned on me. I'm turning the page for *him*, not for more of her ceiling.
+ROMANCE: 3
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
+WHY: The diner was the best two-person scene in ages, and the confirmation that he loves her is a real turn, even if it only happens inside his own head. But Daphne came as a summary, the book explained its own subtext again, and this is the third lonely-cold-room chapter in a row. If the next one doesn't put bodies in the same room, my patience runs out.

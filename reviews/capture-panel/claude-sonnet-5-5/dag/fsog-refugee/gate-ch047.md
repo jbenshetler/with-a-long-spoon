@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch047 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e4c9afc17bfa · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch047 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is the chapter I wanted, and I'm annoyed at how much of it worked on me.
+Oh, that was a warm one, and I mostly sank into it. The reunion in 47 was frantic. This one is slow and sunlit, and it's the first time in ages that Vee's desire is hers and she's playing with it. The pleasure princess versus pleasure slave turn made me grin. So did the burnt toast, "I got mushrooms," and "Bad slave." She leads, she points, and he follows. That's tenderness and dominance coming from both sides, and it's what I came for. The food scenes are still gorgeous, and the breakfast he built is a cooking-as-love-language moment. When he went still at her "no" and started to pull out, she stopped him with "not that, don't stop." He read which no was which and didn't sulk. That's consent the way I like it.
 
-The first half is what I came for. She decides it herself, with a face she builds on purpose. The drawer she shuts "on everything not invited tonight." The heels go on first and last. Her desire is rendered from the inside, and the stop at the mirror, "denied by no one but herself," made her feel powerful. That's the heroine whose want is hers. Then the doorstep. He goes to his knees in the cold, the wall just goes, and he looks at her "like a starving man and a man just told he is forgiven." That's tenderness and appetite in one man. The door banging in the wind while neither of them shuts it is hot. The pancakes are real care. "I missed you so much," with his voice cracking, got me.
+But I'm uneasy, and it's the strange small thing. He wanted her to taste herself, and he didn't wipe, which he always does. Her tongue hunted his mouth for "sharp and salt that had not been there this morning." That could be nothing. It could also be Randi, or the "brunette," or a pattern he's running. I'm reading it as a plant, and a good one. Vee explained it away fast, and I think her explanation is wrong. And she plans to tell Randi. Randi knows exactly what is in his mouth. That's the scene I'm waiting for.
 
-But I'm not at peace, and I'll text my friend about why.
+Pace still hasn't said it. He said "I'm sorry, I missed you," and she took it as enough because she was full of pancakes and relief. I'm not fooled. The question she walked out over is still sitting there, and it's now buried under good sex. I worry for her. He cried alone in a kitchen over it two chapters ago, so I know how much he feels, and she doesn't. That gap makes me ache.
 
-Randi sent her out there. Randi is steering her again, and Vee reads it as friendship. Randi told her "show up as the answer, no words." That is exactly the trade Pace has been making: the body instead of the word. Vee gave him the one thing he can't refuse, so he never has to say the thing. And he started to. "Vee, I l—" and she cut him off, so she never heard it. I wanted that sentence so badly. I'm furious at the book and at her, a little, and I think that's intentional. Nothing got named. She ate pancakes and decided she didn't need it, "no room in her for wanting anything he hadn't given." Sure, tonight. I don't buy it lasting.
+It's the first time Vee and Pace have been alone in a room since 47, so no gap pang. Randi's side, though, I want badly. She was kissed under the composites, Brooke gave her an ultimatum, and she's about to hear Vee describe this.
 
-Chapter 45 let me see inside him. He cried at the table, and he knows he's afraid. She doesn't know any of that. Now I'm ahead of her, and it hurts to watch her be so happy.
-
-Also, the car masturbation with the cruiser was a lot, and it ran long. It was fun for about a paragraph. Then I felt the pattern of "wound tighter, denied again" and wanted the door to open.
-
-Randi's chapter-46 scene with Brooke is the undertow. "You need to choose." And Vee kissed her at the door. I want Randi's reaction to this.
-
-GATE 47 — Nothing Underneath
+GATE 48 — Missed a Spot
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car" (the drive-masturbation stretch before it was a long detour from getting to him)
-WHY: The doorstep and the pancakes gave me the heat and the warmth together, with consent and her agency intact. But he started to say "I l—" and she talked over it, and Randi's hand is all over the plan. I need to know who breaks first.
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Playful, consensual, and tender, with her desire driving it, and it plants the taste-of-Randi seed beautifully. I'm dying to see Vee tell Randi and Randi's face when she hears it.

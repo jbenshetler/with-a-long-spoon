@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6b0559c5db2b · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch053 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e5c69934d7d1 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is the chapter where the dramatic irony is so thick I could choke on it. And I loved a lot of it.
+Oh, this is the chapter I've been waiting for since 48. Randi found the thing.
 
-First, the good. Pace saying "Vee's boyfriend" six times, flat and the same every time, is the best thing he's done. It's a small credential he can say, so he says it. Then the way he works the room is his love language again. "How's your bench progressing?" and Danny never learns his numbers. "Where does it start, for you?" to Theo. Cassie talking in whole paragraphs. "You can stay." I got a lump in my throat. That's a man showing up in the only language he trusts, and it's the "believe what I do" thing, with the room as proof. I'm softening on him, a lot.
+The telling itself is hot, and it's hot in the right way. Vee owns it: she pointed, she twirled her fingers, she made him take the apron off. He parked on her wrist. "He opened me like the orange." I felt that. Pace is exactly what I read for here, a man with total attention who is also asking and watching. Then the kiss, and the booth drops out from under her. She tastes herself in the middle of retelling it and the bit falls out of her hands. I liked that a lot. Her body is more honest than her mouth.
 
-Now the dread. Randi got there first, with the car square to the door. She gripped Vee's hand hard when she heard "boyfriend." Then the glass, her thumbnail going white under the rim, the glazed quiet, and Vee proudly thinking *I moved her*. Oh, honey, no. And "They share an interest... You." Pace knows exactly what he's saying and Vee hears it as sweet. The twinge she talked herself out of. The kiss in the lot, with him watching. Every line has two readings and Vee only has one. I'm gleeful and sick about it at the same time.
+Then Randi says "I don't." Flat, level, no push. And then "It was powerful. It turned me on." Vee clenches in the booth. Her "But it's gross" came out too loud. Randi didn't argue. She asked "How does he act?" and let Vee hear herself say "he's enthusiastic."
 
-The heat was real. The truck scene was intense and, importantly, hers, since she initiated and chose every step. But I noticed what fuels it. She's wet from the lot, from the road, from the dark bloom on the coat. The restaurant stall last chapter ran on Randi's face, and I noticed that even if Vee won't. The glass in the corner of her mind "couldn't make itself heard tonight." Yeah. It will.
+That's the real intimacy of the chapter. Randi is the only person who can ask that question, and she does it with so much care. It's also steering, and I know it. She has a stake. "Did you swallow all of it and wipe your mouth?" Randi, you are not subtle. The wine glass rim under the fingernail again, and the plate she barely touched. I ache for her. She sits there being told all of it by the girl she's falling for, and she makes it a game so Vee can keep telling.
 
-I want Randi and Pace alone. I want Vee to tell Randi about the kiss. And I'm still waiting for the word.
+The neck kiss is where I hold my breath. Vee kisses it again, not by accident this time. Randi catches and rises "a beat too long" and says "ticklish." Vee, pleased with herself, lets her have it. She's so close. She had it Tuesday, then a second time, and she's tucked it into a little stone of relief again.
 
-GATE 53 — Among Friends
+And "You picked well." Oof. Dramatic irony with a knife in it. They chose her together, and Randi says that to her face.
+
+I'm still waiting on Vee and Pace in a room, and on the word. But this is the most alive the Vee/Randi thread has been. The sharp salt taste I wondered about now has a shape, and Vee walked home with "I don't" sitting under her sentence. I want Thursday to turn into Tuesday.
+
+GATE 54 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace saying "Vee's boyfriend" and orchestrating her friends' evening is tender and dominant at once, and Vee's desire is entirely hers. Randi's white thumbnail and the double-meaning lines gave me delicious dread. I'm in for the next chapter.
+WHY: Vee tells the morning from inside her own desire, and Randi's flat "I don't" turns a dirty story into the first crack in her certainty. The consent stays intact: she pointed, he waited, he stopped when she said no. The steering is real, but it's warm, and I trust it a little less each time.

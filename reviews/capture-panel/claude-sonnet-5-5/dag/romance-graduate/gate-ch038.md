@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c4680406e3c7 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
 
 REACTION
 
-Okay, this is the first chapter in a while where the heat came back, and it works because it's built on the *drawer*. The shirt scene got me. "I need you to wear it for me. The whole weekend." She washed away his smell, then asked him to put it back. That's an actual specific human thing, and Pace getting it without making her defend it is why I keep forgiving him. Damn him.
+Oh, this one hurt, and it hurt quietly, which is what makes it good. After 36 chapters of the book being very sure about heat, it hands me a chapter with no sex in it and I don't mind, because the thing I've been waiting for finally happened. Vee reached for the word and he gave her a compliment about the sex.
 
-But I'm reading with the ledger from ch36 open, and that's what's sitting on this chapter. We watched Randi cry into Pace's neck over Vee's panties, and Randi say "God, I want her." Now Vee is washing a flannel and glowing about "her space" while Pace plays husband in a clean kitchen. The dramatic irony is the engine of the book, and it's working on me. Every sweet beat now has a knife in it. "He never said so." She wanted him to fight for the nights, and she's still calling that grace. Honey. No.
+"I love how good we are together." Then "What your body does." I put the book down for a second. He heard exactly what she was building, the crackers and the meal, the whole careful structure around *I love you*, and he swerved. And he swerved *kindly*, with a kiss on the head, a long one, and his breath doing something. He took two breaths. He knew. That's what I can't forgive: he knew and he picked the sentence that kept the door shut. It's the blurb's line made flesh. He gives her everything but the word.
 
-The undressing sequence is good: the jeans as enemy, the socks, the bra unspooling, "You're not helping." "I'm helping." Playful and hot, with real bodies. The oral was a bit of a gloss, though. "Published the number" is a great line, and then we skip through it fast. The pizza paragraph is lovely but it's the third "food woke me up" chapter, and I felt the pattern. Cotton candy versus strawberries is cute, but Vee already told Randi the same thing.
+What I loved is what Vee does with it. Nothing. She files it under "I do not know what just happened," and carries it down the hall with the laundry. That's painfully real. The pile of small repairs is what I'm afraid of for her. The rule that he has to say it first is her own invention, and she doesn't see that either.
 
-I did notice there's no Randi, no Cassie, and nothing on the project or the MIRA bomb. That's fine for a breather, but I want the fire to come.
+The Cassie scene earlier is good too, finally, after being parked. "Is it that you can't say, or that you don't want to?" "Both." Cassie asks the one real question and Vee gets grateful and a little not. The dress-sewing and the dad pricing it, I felt that. The lie about dancing was fun.
 
-GATE 38 — The New Ordinary
+Two critiques, as a reader. The cafeteria stretch is a long dad-explaining monologue, and the porch chapter explains its own subtext a bit much ("the two things had not been the same shape"). I got it. And the ending is the book telling me about the hurt instead of leaving it. Also, this is my second quiet chapter in a row after the heat of ch36, and I'm being fed Randi's lines about "hungry out loud" in my head and wanting her back in a room.
+
+But I need ch40. I want to know if Pace hears himself, and what Randi does with what Vee said at brunch, and the cropped photo title is clearly going to bite.
+
+GATE 39 — Cropped
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 2
+NEXT: 8
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "She could taste all of it. Not one flavor but every flavor in it, separately, laid out for her to walk down one at a time."
-WHY: The shirt exchange is a real turn in the bond, and the undressing is playful and hot. The food-awakening riff is a repeat, and the oral is skimmed. I stay because every tender beat now sits on top of what I know about Randi and Pace, and I want to see it crack.
+ALMOST-STOPPED: "She had been thinking about a sentence. She had been thinking about it for weeks." The porch lead-in runs long before the line lands.
+WHY: The swerve from "crackers and a meal" to "I love how good we are together" is the cruelest, truest beat in the book so far, and Vee quietly filing it away made me ache for her. Zero heat, but this is the chapter where the dramatic irony stopped being a game and started to cost something.

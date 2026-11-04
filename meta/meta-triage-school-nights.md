@@ -1,3 +1,5 @@
+> **Restructure 2026-11-04 (author):** Line anchors in entries dated before 2026-11-04 refer to the pre-restructure file; movements one–two (from the old {{Above Him}}) carry their rulings in `meta-triage-above-him.md`.
+
 # Triage — School Nights (line audit, 2026-08-02)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/school-nights.md`).
@@ -101,7 +103,7 @@ The cleanest panel result of any scene to date: all four reviewers rated the vig
 
 ## Working-as-designed — verified against the plan; do not re-litigate
 
-- **"Maybe. I think so." smaller than the private admission** (opus read it as "a step backward… which reads true"). Designed: the condensed brief calibrates the hedge explicitly against the interior *she loved him* at {{Above Him}} ("cold on reread").
+- **"Maybe. I think so." smaller than the private admission** (opus read it as "a step backward… which reads true"). Designed: the condensed brief calibrates the hedge explicitly against the interior *she loved him* at the former {{Above Him}} bed, now this chapter's movement one ("cold on reread").
 - **Warmth density** (gpt-5.6-sol: "conspicuous, but it earns itself"). Designed: the warmth-kept-after is the planned leak of the body into the romance channel Cassie holds (condensed brief, beat one).
 - **Vee's praise of Pace "overwhelmingly concentrated"** (gpt-5.5, self-dismissed: "that is also the point"). The proud/sweet register with shame walled off is the scene's mechanism.
 

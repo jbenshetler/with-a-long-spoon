@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch039 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch039 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha abb1b2754206 · dated · 2026-11-01*
 
 REACTION
 
-Oh. Oh, that hurt, and I'm furious at how well it hurt.
+Oh, this one hurt, and in the right place.
 
-The cafeteria scene with Cassie did what I've been waiting for. Cassie finally asks the real question, "what is he. Not to your dad. To you." Vee can't answer. "Can't say or don't want to?" "Both." I've missed Cassie, and she got a whole scene that made her seen. And Vee lying to her mother about the thinness, the "question mark on boyfriend." Mom's collarbone touch. Vee has been eating like a field hand, so why is she thin? Maybe I'm misreading that. Pace made the dress himself, though. That's a beautiful detail, and Vee knows her dad wouldn't understand it.
+The opening is Vee finally *asking*, and it comes out too loud, and the wrong way round. "If we're just sex, I'd like to know." Pace's answer is to think about it seriously and then say "Where do you want to go tonight?" It's kind, and it's also a dodge. He solved the logistics and skipped the question, and the book knows it. I could feel the shape of it: he gives her everything but the word.
 
-Then the porch. I was so ready. "Crackers and a meal" is a lovely, brave sentence. It's gorgeous, and he answered with "I love how good we are together." That is the sound of a man who heard exactly what she said and stepped around it. The held breath, the hand pausing on her shin, two responses started and put down. He knew. He chose. And then he kissed her hair and let her feel received. That's the cruelest part, because it was warm. I wanted to throw the book. And "what your body does... I've never" is him giving her the body when she gave him the heart.
+The Chili's scene is the best thing in the chapter. I read it twice. She reads his eyes sliding up to the TV, the fork squaring, the flash of irritation, as "he doesn't want to be seen with me." Then he says it's too loud for him to hear her. I believe that, and it recolors the whole book. The playlists, the quiet house and the never-going-out aren't hiding her. He's overwhelmed in noise. And the scar, the desk in the hall, and the fist on his thigh are all still waiting. I love him a little more, and I'm angry at him anyway for never saying any of this unprompted.
 
-Vee built a rule that he must say it first and then shrank her best sentence to fit the rule. Meanwhile I know what she doesn't: he's tangled up with Randi, and she's in her own mess. I'm angrier at Pace than I've been, but I still believe the held breath. He isn't cruel. He's scared or bound. That's what keeps me.
+The nachos are brilliant too. She's lost her taste for the old food, and "he had ruined it for her, not just this" is both sad and true. I'm holding that beside her fear, though. She's pulling away from what she used to be.
 
-No Randi in the room, and no heat in this one, just the ache. I've been hungry for them alone together since ch 36, though. Still, the laundry-room "I do not know what just happened" is the first real crack Vee has let herself feel, and I want the next chapter immediately.
+Two things bother me.
 
-GATE 39 — Cropped
+First, she lies to him in the fight ("you went cold on me after the Rusty Nail"), and she knows it's a lie. He answers "you know what happened after the dance" gently. It was a rare, honest moment of her being unfair and him not punishing her. I liked him there.
+
+Second, I hate that she tells herself "I forgave him" so she can go to him. The book sees through it, and so do I. She's papering over, and the fight was never settled. Her wanting him rough, wanting his control to break, is a real hunger of hers, and it's rendered from inside her. He gets there, and he reads her without being asked. I'd have liked one beat of him asking. But it's tender and hot, and the "I came with his name in my mouth and not the other thing" line hurt.
+
+The ending is the ache. She has the sex and the listening and no name. And I'm a step ahead of her on all of it, which is the whole point of this book, and it's working on me. I want someone to say the word to her. I'm also a long way from Randi and Pace in a room, since ch 36. I miss Randi's interior, and I'm uneasy about what Vee has said to her that Pace has by now heard.
+
+GATE 40 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-HEAT: 0
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He had not given the answer. The sentence retired into her body where she had been carrying it before." Not a leaving moment, just a flinch at how willingly she swallows it.
-WHY: Cassie finally asks "what is he to you," and Pace's "I love how good we are together" is a dodge that hurts because the pause before it shows he knew. I'm in pain for Vee and I want to see what cracks next.
+ALMOST-STOPPED: "Whatever this was, it wasn't nothing; a man didn't listen like that to a body he only wanted" — the book's tone gets close to winking at her reassurance, but I didn't leave.
+WHY: The Chili's scene gave me a real reason for his silence and a very sharp glimpse of how Vee misreads him, and I'm aching for both of them. He still withholds the word, and she still can't ask clearly. I'll keep reading for the break.

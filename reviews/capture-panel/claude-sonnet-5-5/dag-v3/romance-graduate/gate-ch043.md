@@ -1,34 +1,33 @@
-*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ca7450e92130 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 9360853fc8f2 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch043 · history ch001..ch043 · ledger no seed e80db48640ce · 2026-11-02*
 
 REACTION
 
-Randi's head at last, and it is Gstaad, not the brunch table. I came in braced for Saturday and got a ski lift instead. For about three pages I resented that. Then the fairy-tale started curdling and I stopped resenting.
+Vee's New Year's Eve, and the chapter hurts in the way I hoped. Having just left Randi alone in a hotel mirror, I get to lie in a twin bed beside this one, who is awake at 11:52. It's the same midnight, ten pages apart, two women each holding a phone and a secret. The text exchange is the best bit because I've now read both sides. Vee's "i'm here if you want to talk. or not" is so careful and kind. Randi's reply is "every word true, none of it the thing." Now I watch Vee read it as a glamorous girl with a billionaire. The irony is lovely and cruel. Vee even says "the only girl she could talk to about real things" while knowing none of those things are about her. It's the book's engine.
 
-The chapter is a trap, and it's built well. A funny meet-cute with a man who is better than Pace at everything measurable. He skis better, dances better, leads harder, and has the sleigh. Everything she was supposed to want is on a plate, and she says it herself: "Easier was better." Then the sandwich line, "a good sandwich eaten fast on a busy afternoon." The food metaphor turned inside out, and it works. Pace's cooking is the thing Vee can't stop eating, and Randi eats the fast version and feels nothing. Nothing developed. The eyeliner held. I was gutted by that one.
+I also like that the brunch I was cheated of is now being answered. Vee never took the wound to Randi, and the walkout just sat there for three weeks. That's more painful than a brunch, and it makes sense for her.
 
-"Pace went straight to her. That was the whole terror of him." That's the line the book had been hiding, and Randi's own mouth finally says it. And then Vee, "something came off Vee across a table on a nothing Tuesday," named plainly as want. The "two ways" paragraph is the best self-lie in the book: Vee hears one thing, Randi means two, so keep the brunches and let the word keep its cover. She is choosing the arrangement over the truth. She has also just told us she'll keep Vee's confidences coming. With Vee raw from Pace, I'm scared for what that arrangement does.
+The blonde fantasy is the heart of it. She builds a rival out of spite, then puts her into her own best memory, the sheet and the fra diavolo, until she can't keep her own night. That's real interiority and sharp. The cruelest bit is that she's imagining Pace with a tanned blonde while Randi, who's black-haired and pale, is the actual other. It lands quietly. Sheri at Thanksgiving as the specific wound is good too.
 
-It does lean on spelled-out thesis. "Safe" three times, the narrator announcing what the nothing means. And "Why, John" as a flirt that she then hears as unlike herself was a little much. Also the dates: this is December 31, after a Friday the 11th walkout, so the brunch I wanted has slid out of view. I'm irritated about that. But this is hot in its absence of heat, and Randi finally has an inner life on the page, which is what I begged for for forty chapters.
+The Gstaad envy is neat. She knows the money is poisoned, she saw the MIRA record, and she still wants the mountains. Honest.
 
-GATE 43 — Fairytale
+The grumbles: it's long on the beige-days inventory (the casserole, Wheel of Fortune, the lavender plugins), and the narrator keeps telling me the door and the room and the name. No heat at all, and it's a third quiet chapter running. The "girl who was gone" closing is a bit polished. But "and what about Pace?" with nothing after it is a clean ache.
+
+GATE 44 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 1
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "Her father enjoyed a rare steak and eggs, as he did on vacation." The breakfast-table opening was a flat run of wardrobe and menu inventory before anything charged.
-WHY: Randi's own head, finally, and it turns a perfect sleigh-ride night into a cold, exact admission that Pace "went straight to her" and Vee is the thing she wants. I'm furious about the unseen brunch and desperate to know what Vee did with that raw wound.
+ALMOST-STOPPED: "The days behind her ran together beige. The tree with the same ornaments in the same places" — the holiday inventory ran long before anything stung.
+WHY: Reading Vee's midnight right after Randi's hotel mirror is dramatic irony at full strength, and the blonde she builds out of spite is sharp. It's quiet and heatless, though, so I need January, Randi's table, and some movement.
 
 LEDGER
-~ W11.2 RESOLVED: Randi's own head is finally on the page, in Gstaad, alone with what she wants.
-~ S4.4 SHIFTED: The accent is hers by way of central Florida and money; the polish is built to hide that, not a persona for Vee.
-~ S37.1 DEEPENED: Her father, mother, and the family life she performs for are on the page now, and she eats her revulsion at that table.
-~ W37.5 ANSWERED: Her head about her family shows revulsion and performance, and she never mentions the loans.
-~ S3.3 CONFIRMED: Randi says outright that something comes off Vee that no one else can counterfeit.
-~ S36.4 SHIFTED: Randi's own interior shows Pace is her real want, and Vee a second one, so "for us" is half-true.
-+ FEAR: Randi has decided to keep the word "love" in cover and keep the brunches going exactly as they are, so nothing gets said while Vee bleeds.
-+ LOVE: "A good sandwich eaten fast on a busy afternoon" and "Nothing developed." The perfect man who lands on nothing.
-+ LOVE: "Pace went straight to her. That was the whole terror of him."
-+ WAITING: The Saturday brunch after the walkout, and what Vee tells Randi, now pushed past New Year's.
-+ SUSPICION: Vee's "thinking about you" text from Ohio shows Vee and Pace may have repaired or still not spoken, and I don't yet know which.
-+ GRUDGE: The chapter jumps to Dec 31 and skips the brunch I was promised.
++ LOVE: Vee building the spite-blonde and watching her take over her own fra diavolo night, "She could not keep her own night."
++ LOVE: Vee's "i'm here if you want to talk. or not," read against Randi's reply on the same midnight.
++ WAITING: The first day of term, Vee and Randi in Anthro, and whether Pace reaches out first.
++ SUSPICION: Pace and Vee's silence across the break may end with him assuming it's over, and Sheri is the name Vee is afraid of.
+~ F42.4 SHIFTED: Vee didn't take the raw wound to Randi at all; she's sat with it alone for three weeks.
+~ W40.4 SHIFTED: The brunch never happened; the ache waits for term to start.
+~ G43.6 FADED: The skipped brunch makes sense now, since Vee never brought it to her.
+~ S43.5 ANSWERED: The text is Vee's careful offer, and she and Pace have not spoken since the walkout.
+~ W43.4 SHIFTED: No brunch before New Year's; it now waits on the first day of term.

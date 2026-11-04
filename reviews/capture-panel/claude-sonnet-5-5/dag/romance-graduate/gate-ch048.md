@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-11-01*
 
 REACTION
 
-Okay. That's the payoff for the coat chapter, and the writing earns it. The "Missed a spot" bit is great: the nothing-but-a-scrunchie breakfast, the burnt toast, "I can put the sweats on if you need to concentrate," the pleasure slave flipped into "pleasure princess." It's funny and filthy and it has Vee's voice in it. The long tiling mouth-trip down her body is hot, and it's hot because it's specific and patient and built like his cooking. The breath-without-touching beat nearly got me.
+Oh, this is a sneaky one. Three chapters of explicit, then a kitchen with nobody touching anybody, and it's quieter than anything in the last stretch. I'm still leaning in.
 
-Then the kiss. He puts his wet mouth on hers, she tastes herself, the old voice says "gross, wrong," and he starts pulling out and she locks her legs around him and says don't you dare stop. That's the real scene in the chapter, and it's well done. The flicker in her tongue before her brain catches up. He doesn't push, doesn't sulk, doesn't explain.
+What got me: Pace, back to his old tricks, except they aren't tricks. He remembers Meg's boots. He remembers the heel lifting out of the right one. "Kayla's the one who can talk the paint off a wall?" He's been listening the whole time, and I believe it, which makes him harder to stay furious at. And "I want to meet your people" is the closest he's come to answering her December question. It's a *no-word* answer again, a deed. "Believe what I do." He's still not spending the word, but he's building her a room where it could be spoken. I can't tell if that's growth or a better dodge. Ask me in two chapters.
 
-Then the afterward made me put the phone down. "He had liked it. Why does he like it so much?" and then her own tidy explanation: he forgot to wipe, once, in hundreds of times. Oh, honey. And that tongue going over her lip, looking for salt. I think the book is telling me something is wrong with that "always kisses after." Maybe he's been wiping every time and this once he didn't. Or the real question is what he's tasting, and who. She files it under minor-key and decides to tell Randi, "Randi would know what to make of it." That's the dread beat. Randi, who's been drowning in her own thing, is about to be handed Vee's confidence. I'm squirming in a good way.
+And Vee is the one who sees it. She hears "your people" and it arrives as *Randi*. Then the Cassie problem, the "good sport" thing, and the nachos picture, which she lets stand on its own. "Will you pick the place?" is her quietly handing him the loud-room lesson he didn't hear, and he's unaware she's doing it. I love that she's doing the work without making it a fight this time.
 
-Also notable: she woke up happy, got everything she drove out for except the word, and nobody said it. Last chapter he started "Vee, I l—" and she cut him off. She stopped him from saying it and now she's got no name for them again. The book knows that and isn't pointing at it, which I like.
+The thing I'm chewing on: the three-games line on the jacket. Pace invites *everybody*, which means Randi and Pace in a room together with Vee pretending they've barely met. "About nine words at the coffee shop, most of them math." Oh, the dramatic irony is delicious and a little sick. Randi would be sitting next to the man she's been riding. And Vee casually invites the man who asked her out, which Pace answers with "Bring Theo," flat, no jealousy. Of course. He knows exactly which game he's in.
 
-Heat was strong. The only thing that dragged was length. Some of the nap-of-the-cashmere-on-her-nipples stuff is a bit much, and the "she thought, floating, magnanimous" narration of her thoughts mid-sex got cute. But she's a real person in a real morning, and the dread is landing.
+I'm also still holding last chapter's weird little taste thing in my teeth, and the Brooke ultimatum, and Randi's hand at her mouth. This chapter set none of that off, and I notice it didn't need to. The pressure is in what's *not* mentioned. Still, it's a hushed bridge after a lot of heat, and if the next one is another kitchen I'll start skimming.
 
-GATE 48 — Missed a Spot
+GATE 49 — Back
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tease and the oral run were genuinely hot and funny, and the taste-of-herself moment gave the heat something real to chew on. The afterthought about why he likes it, plus her cheerful plan to tell Randi, leaves me wanting Tuesday badly.
+WHY: A quiet bridge that works because Pace's listening finally shows, and Vee quietly steers around the loud-room problem, with the dinner about to put Randi and Pace at one table while Vee thinks they've barely met. I want the party. One more domestic chapter and I'd be restless.

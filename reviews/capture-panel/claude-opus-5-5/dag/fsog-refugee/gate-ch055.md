@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c78e707a4783 · dated · 2026-11-02*
 
-## REACTION
+**REACTION**
 
-I put the book face-down on my chest after this one and lay there a minute.
+Oh no. Oh, *no.*
 
-What gets me is that the shame sits so far down. "Excessive, the shameful plenty of her." That's the old verdict, older than Pace, from boys who made jokes she believed. Then she smells her own fingers expecting what they promised her, and it isn't there: "a hothouse with its doors shut." I've been reading this genre since Fifty Shades and I can't remember a heroine actually checking whether she's disgusting and finding out she isn't. That's desire rendered from inside, which is exactly what I came here for. The book is the one making me feel it. It isn't Pace.
+It's the same night. Thursday, January 21. Randi kisses Vee's neck on the sidewalk, says "Tuesday," and goes straight to his bed. And the whole time Vee is lying in her bunk in his flannel with her fingers a breath from her mouth and can't close the distance. Down the road, Randi licks her own taste off his thumb and says "There. Now it's mutual," like it costs nothing. It's what Vee couldn't do, done offhand, as play. I felt sick reading the two chapters back to back. I think the book wants me to.
 
-Then she stops a breath's width from her mouth, and the book lets her stop. It doesn't push her past it to give me a payoff. "Nothing in the room told her why." She wipes her fingers on the sheet, finishes anyway, and lies down on the wet patch on purpose: "Her mess. Hers to lie in." I loved that line. It's her own nerve and her own limit, both of them hers, and nobody gets to override either one, including Randi's voice in her head. That's the consent I care about, and it's working at the level of a girl alone in her own bed.
+I have to be honest that the chapter worked on me, and I hate that it did. Taken between just the two of them, it's the consent I've been asking for. He says "My turn," waits, and she says "All right." He stops on the first inch anyway, she says "I said all right," and he answers "I heard you." She takes his hands off her waist and lays them on the mattress, and he leaves them there. He lies still with his hands open while she does what she wants. They tease each other and they're equals. If this were their book, I'd be all in. There's a wild, cynical little part of me that admires Randi throwing the deadbolt and putting two fingers over his mouth before he can explain six weeks. I didn't love "fuck doll," but those were her words about her own body, and he answered it with his hands, not a smirk.
 
-Here's my suspicion, and I'd text it at 1 a.m.: **Randi is in this bed.** "Had Randi's looked like this?" "A mouth carrying it back. Or Randi's own fingers." The whole chapter is a seed Randi planted across a white tablecloth with "I don't" and "it turned me on," and it's sprouting exactly where she aimed it. Vee thinks she's working out her own appetite, and she is. But somebody chose the soil. The jacket did warn me: "She doesn't know there are three." I don't think Randi is cruel. I think she's the most skilled steerer in the book, and every chapter I like her a little more and trust her hands a little less.
+But it isn't their book. They're in bed *talking about Vee*, and using her to get there. "She kisses me first now." "She looks at you, too." He reports to Randi on Vee's body like it's a progress report. He turns Randi's "she kissed my neck again" into a stroke. "You like hearing me want her." "Yes." This is the game the jacket promised, and I knew it was coming. Seeing it is different. Every confidence Vee handed over a white tablecloth, the toes, the orange, the wet kiss she couldn't say out loud, she handed to someone who would bring it here. I was already scared of Randi's steering. Now I know what "she knows exactly when I'm about to ask for more" means from the other side. That neck flinch was never ticklish.
 
-Two smaller things. This is the third chapter running that circles the taste-of-herself moment: the bed, then the booth, now alone. I'm starting to feel the book pressing the same bruise. It's done well each time, but I don't want a fourth. And Pace isn't here, apart from his flannel and his glad face. He said "Vee's boyfriend" six times on Wednesday and gave her a truck ride I'm still thinking about, but he still hasn't said the word. I'm not counting the days since they were alone together yet. I'm counting the days since anyone in this book said something true out loud.
+And the word. That's the knife for me. He still hasn't said it to Vee. Randi says "You know she loves you" and his face goes soft. "She's not the only one in love," and he can't tell her she's wrong. So the truest thing about him got said in bed with Randi, about Vee, and confirmed by his silence. The night before, he said "Vee's boyfriend" six times in front of her people, and she gave him everything in that truck. I believed that boyfriend. Now I don't know how to hold both of them.
 
-Cassie's window, shut and then shoved open again so the room doesn't tell on her: lovely. It's the coat lining again. Her body keeps leaving evidence, and she keeps choosing to keep it.
+Am I being asked to find this hot? Yes. Am I being asked to find his disregard of Vee romantic? I'm not sure yet. The book isn't winking exactly. It's letting "She makes me happy" sit there sincere, and maybe it is sincere. Randi's "I want her to know exactly what she does to me" sounds like love, not a game. If they're both truly in love with her, there's a version of this that ends with Vee being *told* and choosing, and I could live with that. The line I drew was a threesome Vee walks into blind, and this chapter is the blindfold going on. I'm staying because I have to know which way it breaks. One more chapter that treats her as the prize they're stalking together and not a person they owe the truth, and I'm out.
 
----
+Text to a friend at 1 a.m.: "they were literally sexting ABOUT HER, IN PERSON, the same night she couldn't lick her own finger. I'm so mad and I can't put it down."
 
-GATE 63 — The Reach
+GATE 56 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
+CAPTURE: 8
+NEXT: 9
 HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "Had Randi's looked like this? Sticky too. Shining." For a second I thought the book might be about to make her reach for it on Randi's account, and I braced to leave.
-WHY: It's the most honest chapter about shame and appetite I've read in this genre, and the book respected her "not yet" at the edge of her own mouth. But it's the third pass at the same moment, Pace is only a memory in it, and I can feel Randi's hand on the whole thing. I want the next chapter to move. I don't want it to circle this again.
+ROMANCE: 2
+ALMOST-STOPPED: "She kisses me first now."
+WHY: The consent between Pace and Randi is everything I wanted, and they're spending it on a girl who doesn't know she's in the room. The sex pulled me in and the betrayal sat on my chest the whole time, so it never got to full heat. I need the next chapter to show me whether this is love that's going to tell her the truth, or a game I'm being asked to cheer for.

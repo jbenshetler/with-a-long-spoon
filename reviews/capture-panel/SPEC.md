@@ -1057,6 +1057,18 @@ blocked a destination. The plan validator reports that case for free.
 `KNOWN_MISTYPES` in the tool allowlists the documented model-typo gates so `--verify` can
 exit clean.
 
+### Experiential-order restructure: three chapters into two (2026-11-04)
+
+{{Above Him}} / {{School Nights}} / *In His Hands* (old 32/33/34) became {{School Nights}}
+(32: the old Above Him Fri–Sat movements + the old School Nights) and {{Above Him}} (33: the
+old In His Hands + the drawer morning); *In His Hands* retired. Not a `--merged` case (both
+surviving positions hold new prose), so: `--removed 34 --removed-policy retire
+--retire-name read-retired-in-his-hands-ch034.md` per tree, then the gates still at 32 and
+33 — reads of prose that no longer exists at that position — were renamed by hand to
+`read-restructured-<old-slug>-ch0NN.md`. Positions 32–33 are gaps until re-read.
+`--tree dag-v3` was added the same day: the tool had globbed only the chain-era `dag/`
+tree, so it would have skipped the memory-v3 lanes.
+
 ### Reviewed diptych renumbering (2026-10-23)
 
 `renumber_gates.py --merged FIRST SECOND` handles an adjacent pair whose merged

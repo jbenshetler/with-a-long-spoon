@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch034 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 45ecb233aaf5 · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch034 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5794cafc164c · dated · 2026-10-31*
 
 REACTION
 
-Okay, this is the first time in a few chapters that I've been alarmed, and it snuck up on me. The first half is lovely and it works on me. He rests his head on her breast and takes comfort there. He moves her into the pose with a kiss at each place he sets her, and he catches her wrist "only to say it": *I like you exactly like this.* That's tenderness and control in the same hands, which is what I came for. And then the cooking, with the wine going into the pan.
+Oh, Randi. That's the first time she's cracked on the page, and I felt it all the way through. She was fine through the sex and the "pervert" bit. Then Vee said "He wants *me*, with the body attached," and Randi's eyes went unfixed, she shook her head, and her voice wasn't even: "It doesn't." That's a woman hearing about what she wants and doesn't have from the outside. It was the first time I got her interior without being handed it. I want to hold her and shake her at once.
 
-But the picture. She asked for it, and she's the one who sent it, so the consent is clean on the page. Still, "Only if you promise you'll never share me." "Never. I'd never share your photograph." I read that line three times. It's so exact. It's a promise about the photograph, and it says nothing about her. And I know what I know: Randi is carrying everything Vee says to him, and he's already "sharing" her in the sense that matters. Now there's a naked photo on his phone, and I don't trust the promise. He's not a villain to me. Honestly he seems like he means it. But that's what scares me.
+The rest is Vee at her happiest and most exposed. Eggs Benedict, ordered without checking the price. "Eating with the sound off." Sleeping whole nights. And I'm a step ahead and queasy. Every word of it travels. "Pictures," and Vee's body rocking in the seat. The uncropped photo went into Randi's hand. Randi asked for it, and that's a line crossed. Whoever Randi is feeding this to, Vee is handing over her actual self. "He promised never to share my photograph," and she showed it to Randi. Ugh. She doesn't see it as sharing.
 
-Then Thanksgiving. "I don't go back." The level, careful face is the closest he's come to the scar. And the flicker about Sheri, which Vee talks herself out of. Sheri already knows about the two-at-once, and Vee doesn't. Everyone at that table knows more than she does.
+The kiss this time was Vee leaning in for more. Her desire is hers, and I like that. But I also see Randi steering her toward it again.
 
-Also: Randi isn't in this chapter at all. The gap is real. I want the two of them in a room.
+"Just us," with the roughness under it. I'm worried and hooked.
 
-GATE 34 — In His Hands
+I missed the room with Randi and Pace together. We haven't had it since ch 25. Pace is only warm in Vee's telling, and I'm waiting on the scar and Daphne. Still, Randi cracking is the payoff I wanted.
+
+GATE 35 — All the Time
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Only if you promise you'll never share me with anyone." / "Never. I'd never share your photograph."
-WHY: The tenderness is real and the photo is her choice, but the dramatic irony turned the promise into a trap I can see and she can't. I'm hooked on whether the picture travels, on what "I don't go back" means, and on getting Randi and Pace in a room.
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Randi's unguarded "It doesn't," against Vee's total trust and the photo going across the table, is exactly the tightening dread I read this for. The sex-brain monologue is warm, not grubby, and the care in it is real. I need the truth to break soon, and I want Randi and Pace in a room.

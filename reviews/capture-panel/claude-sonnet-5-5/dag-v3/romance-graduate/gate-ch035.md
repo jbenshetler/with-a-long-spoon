@@ -1,32 +1,32 @@
-*capture-dag-v3-grounded · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5794cafc164c · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch034 · history ch001..ch034 · ledger no seed db42b0e93f6f · 2026-11-02*
+*capture-dag-v3-grounded · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 45766f4a89f7 · 2026-11-02*
 
 REACTION
 
-This is the chapter the whole book has been pointing at: Vee giving Randi everything, with Randi nearly breaking in front of her. It's also the first brunch where Vee has nothing to tell. She says "there's no scene, it's just how it is now," and then she tells all of it anyway. The "finally hungry out loud" line is the blurb's line, and it finally lands on the page. Randi's absolution is lovely and it's also the hook in the mouth.
+Oh, there it is. Finally Pace's head again, and the book spends it on the one thing I've wanted, which is Randi coming apart on the page. Even though I still don't get her alone, I get her through the person who can't read her. That's the engine at its most painful.
 
-The moment is "Like he wants *me*. With the body attached. Not the other way around." Randi's eyes go bright and unfixed, she shakes her head, her breath catches, and "It doesn't," low and uneven. That's Randi in ch1 hearing "beautiful," and Vee reads it as the story being good. I made a noise. It's the closest she's come to being caught, and Vee gets a little proud about it. That's brutal.
+The couch scene is hot and nasty in the good way. She narrates the Saturday kiss with her face hidden from him, forgetting the mirror, and he gets her face the whole time. "Does she want it?" "Do you like it?" "I'm doing it for *you*." "It's *work*." Pace is closer than he's ever been. He asks the right question three times, and then he says "You don't have to do it for me," kindly, and she comes on it. That's the line. I made a noise. And then "God, I want her," out loud, and the cover-up "for us." He says "I am," and I don't believe a word of his "aren't you" either. He's lying to be kind or lying to himself.
 
-Then the photo. "Pictures." The bare-to-the-waist one, then the whole uncropped length, put into Randi's hand. So the promise from last chapter was never even needed. Vee sent the photo to Randi herself, so Pace didn't have to break it. I called that wrong and it's worse. Randi calling her "Miss November" and saying "God, those legs" is hot and sad. And "Showing him your toes, eh?" is the sex-brain Vee getting watched.
+The morning is the chapter. The panties. She goes to the second drawer, comes back with Vee's green satin, and fucks him with it in her fist and her eyes on the wall, then cries. "Hormones." And Pace lets it be hormones, and then reads her grief as jealousy that he kept something of Vee's and she has nothing to keep. Wrong again, perfectly, and he files the panties back in the drawer, squared. The ending detail, Vee's drawer an inch open and him pushing it shut, is a quiet little chill.
 
-The kiss: Vee leans up the last half-inch and holds on. That's the shift, her wanting it, and she files it away in a sentence. Randi's steady look and "See you soon, gorgeous," and the Anthro night section with "just us" and the roughness underneath. Vee is arranging more time with her. Everything now feeds the same trap.
+Gripes: the pointing-game rehash is a long stretch of recap, and "Four" as a title is a bit cute. But I got what I was waiting for. The cost is on the page. Randi's coffee untouched is the Portion thread again.
 
-Gripes: the sex description is long, and Vee narrating it into the booth is a bit of a replay of what I've watched three times. Heat is real but familiar. I still don't have Randi's head, eight chapters now, and I'm past patient. But this one cracked her, so I'm closer to getting it.
-
-GATE 35 — All the Time
+GATE 36 — Four
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Randi ordered without once opening the menu, decisive, from the inside of the place" — the booth-and-menu setup before the confession was slow.
-WHY: Randi going unfixed at "with the body attached" is the first real crack on the page, and Vee proudly misreading it is brutal. The photo going straight to Randi and Vee leaning into the kiss tighten everything. I'm done waiting for Randi's head.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "How did you know to pick her?" The long pointing-game recap retold what ch3 already gave me.
+WHY: Randi's "I'm doing the work" and the green panties she cries over are the crack I've waited thirty chapters for, and Pace reading it all as hormones and jealousy is the engine at its cruelest. I'm desperate for what breaks next.
 
 LEDGER
-+ LOVE: Randi's eyes going bright and unfixed, "It doesn't," when Vee says he wants her with the body attached.
-+ FEAR: Vee showed Randi the full nude photo herself, so Pace's "never share" promise is moot and Randi now holds Vee's body in her hand.
-+ SUSPICION: Anthro night class "just us" with a roughness in Randi's voice means Randi is about to get Vee more alone.
-+ WAITING: What Randi does and feels after the Mercedes door shuts on a brunch that nearly undid her.
-~ F34.1 SHIFTED: Vee showed Randi the photo herself, so the fear is no longer Pace breaking the promise but what Randi does with seeing it.
-~ W27.6 DEEPENED: Eight chapters without Randi's head, though this brunch cracked her.
-~ S3.3 DEEPENED: Randi's catch in the breath and gaze on the photo show how much she wants Vee.
-~ F4.1 DEEPENED: Cassie is dismissed as "already did hers, with that oddball Wardy" and Vee plans the Anthro class without her.
++ LOVE: "You don't have to do it for me" and Randi coming on it, "but I'm doing the work."
++ LOVE: Randi with the green panties in her fist, riding him without looking, then crying, "It's hormones."
++ FEAR: Pace now asks all the right questions and still lets it be hormones, so the break will come from outside, not from anyone's honesty.
++ SUSPICION: Pace's "I am" to a threesome is kindness or self-deception, not want.
++ SUSPICION: The inch-open drawer is a plant; someone, maybe Randi, has been in Vee's things.
+~ W35.4 ANSWERED: Randi's aftermath is on the page via Pace, wrecked, in tears over the panties.
+~ S3.3 DEEPENED: "God, I want her" said aloud, and the crying proves it's more than the plan.
+~ F6.2 DEEPENED: He read her grief as jealousy that he kept Vee's panties, still wrong.
+~ W27.6 RESOLVED: Randi's real feeling finally on the page, though still not her POV.
+~ F25.4 DEEPENED: Pace thinks he is being careful with her while she comes apart in front of him.

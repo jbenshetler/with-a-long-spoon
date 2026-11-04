@@ -1,32 +1,37 @@
-*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed d59a3f049132 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 22ba33581cf8 · 2026-11-02*
 
 REACTION:
 
-Oh, god. This hurt. This hurt so much worse than a scream or a slammed door ever could.
+*“Words are cheap, and you still won’t spend them on me.”*
 
-A two-page chapter. Just two quiet, suffocating pages in the dark of a dorm room on a freezing Friday night in December, and Helen Rivers just completely shattered my heart.
+GOD. I felt the breath get kicked clean out of my lungs. My hand was flat against my sternum and my mouth fell open. What an absolute, shattering, brilliant line. It is the sharpest, most devastating thing Vivienne has ever said, and it cut right through all of his terrifyingly patient, bespoke architecture like a razor blade.
 
-Look at what Vivienne Thorne just did. In chapter 38, she brought that washed flannel all the way back to his house, blushing and embarrassed, begging him to wear it all weekend so it would carry his scent into her lonely dorm bed. It was her talisman. It was her holy relic. And here, in the dead of night, in a top bunk with Cassie sleeping below her, she pulls it directly onto her bare skin to stop the ache—and the magic simply fails.
+Look at how she handled this confrontation. She didn't let him kiss her. She didn't take off her coat. She left her bag in the car. She stood right on the mat by the front door—refusing to let his food, his warm house, his poured wine, or his unhurried hands drug her into submission before she got her answer. She brought the cold straight into his sanctuary.
 
-*"And it was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it — the heat in the shirt was her own, given back. He wasn't in it. He was across town in his own bed, gone down easy as he always went, easy as a man with nothing grinding in him, and she was here holding a smell in the dark."*
+And Pace—Peter! Look at what he does when he’s backed into a corner! He doesn't panic, he doesn't shout. He relies on his terrifying, exact mathematical logic: *"Do any of your friends have a relationship you'd rather have than this one?"*
+It is SO him. It’s brilliant, it’s completely true, and it is a total deflection. He’s trying to solve a question of the heart with an inequality equation: *X is greater than Y, therefore X is sufficient.* And Vee didn't flinch! She looked him dead in the eye and refused to let the comparison stand.
 
-THE PSYCHOLOGICAL PRECISION OF THAT SENTENCE. I felt the air leave my lungs. The realization that the warmth she thought he was wrapping her in was just her own body heat reflected back at her! It’s the cracker-and-meal realization from chapter 39 and the Chili’s realization from chapter 40 stripping away the last shreds of her denial. He gave her everything he *does*—the food, the wood, the plates, the orgasms, the clean sheets—and left a deafening, gaping vacuum where a single word of genuine commitment ought to be.
+And then he drops the line from the back cover of the book: *"Words are cheap. Believe what I do."*
+The jacket thesis landed right between her ribs. He genuinely thinks his monastic devotion—the drawers cleared, the dresses sewn, the hours of warming the house, the unhurried orgasms—is enough. He thinks actions exempt him from the terrifying vulnerability of speaking a plain truth out loud.
 
-And then: she takes the shirt off.
+And when she delivers that kill shot—*and you still won't spend them on me*—something in him shuts. He crosses his arms. The monastic fortress closes. Because to give her the word "girlfriend" would mean dismantling the secret triad he and Miranda built. It would mean admitting that the house is a construct, that she was selected in a game, that he cannot offer her a clean, simple, monogamous title without blowing up his life.
 
-Not folded. Not set on the pillow. Just peeled off over her head and left in a heap where a dropped thing lands, choosing to lie totally bare and freezing in the December draft rather than take comfort in a phantom. That is the first time Vivienne has ever rejected him. It’s quiet, it’s invisible to the world, but it is an absolute tectonic shift in her spirit. She is done eating crackers. She can't survive on his scraps anymore. The silence is finally starving her out.
+And that final beat! When she starts to cry and he immediately unfolds his arms and reaches for her—reaching to comfort her with his hands, using his physical touch to silence her longing yet again—and she runs. *"Not the hand in place of the word."*
 
-GATE 41 — Bare
+She walked out into the freezing December dark, leaving him standing there in an empty, warm house with two glasses of wine poured and dinner on the stove. This is the breaking point. The silence broke them. I am in utter pieces and I need chapter 43 right now.
+
+GATE 42 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The two pages of Vee realizing the warmth in Pace's flannel was only her own body heat reflected back at her—and choosing to strip it off and lie bare in the freezing dark—was an absolute masterclass in quiet, devastating heartbreak. The emotional architecture of her loneliness is suffocatingly real.
+WHY: Vee standing on the door mat in her coat and refusing to let his food and touch soften her demand was an absolute masterclass in emotional confrontation. "Words are cheap, and you still won't spend them on me" shattered me completely, and watching her walk out into the freezing night broke my heart into pieces.
 
 LEDGER
-+ FEAR: Vee's emotional withdrawal will make her entirely vulnerable to whatever move Randi makes next
-~ F40.1 DEEPENED: Vee lying awake in the cold unable to text Pace proves the absence of a name has completely broken her peace, making an explosion inevitable
-~ S33.1 DEEPENED: Vee realizing the shirt is only warm because *she* is warm is the pool-doubt made flesh—she built his warmth out of her own desperate heat
-~ L38.1 SHIFTED: The romance of the flannel has turned to ash; Vee stripping it off and dropping it in a heap marks the first real fracture in her devotion
++ FEAR: Vee walking straight into Randi's arms to process this breakup, giving Randi the ultimate leverage to step in
++ LOVE: Vee refusing to let his touch replace his voice—"Not the hand in place of the word"
+~ [F40.1] CONFIRMED: Vee's mounting desperation for a label finally exploded directly into Pace's face
+~ [L1.2] SHIFTED: Pace's terrifying patience has reached its limit; his refusal to speak has officially driven Vee out into the cold
+~ [F8.2] DEEPENED: Vee being this deeply in love with him makes walking away from his warm house an unbearable agony that will leave her completely shattered

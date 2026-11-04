@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch034 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 45ecb233aaf5 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch034 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-11-01*
 
-REACTION — God, this one got me right in the throat and then lower.
+REACTION —
 
-The first part — him just *lying* on her like that, head on her breast, kisses that aren't trying to get anywhere — I melted. Because that's the thing I've been starving for in other books, that a man can be tender and still so obviously hard for her. *He takes such comfort there* — yes, girl, I felt that with you. And then the photo? My stomach dropped a little, not gonna lie. Any girl in 2026 knows that cold little thought right along with her. But the way he did it — hers takes the better picture and they both know it, the lamp shade tilt, the “yeah that’s the one” — that felt so *him*. Careful. Exact. And her sending it before the nerve leaves? That’s trust, and it turned me on more than the actual sex did because it’s her choosing to be kept.
+Oh god, this one got under my skin in a way I was not braced for at Saturday brunch.
 
-Then the kitchen. I swear I could smell the lemon coming off the grater. I live for the scenes where he just cooks and watches her take the first bite — that line about remembering you is a pale thing, I had to put the Kindle down for a second. That’s the romance I came back for. He feeds her like it’s worship and she finally just eats, no apologizing.
+The hungry out loud line — I actually had to put the Kindle down. Because I've lived that exact shame spiral, the am-I-greedy-am-I-too-much sex brain in the library thing, and to have Randi just hand it back as absolution? I felt Vee exhale in my own chest. And I hate that it's Randi saying it, that the truest thing anyone's ever said to my girl is coming from the woman who's mining her for dirty talk later. It makes me want to protect them both at once which is insane.
 
-But that Thanksgiving beat gutted me. “This is my home.” Said easy, and then his whole face goes level and exact when she pushes about his parents. I felt her pull her hand back. I wanted to push *for* her. And then — Sheri’s coming over, she’ll bring a pie and pretend she made it. That little flicker of jealousy? Mine too, girl. After the walnut chair story and the hill ride I don’t trust Sheri as just “cycle together” normal. She’s alone, he says it kindly, and I’m supposed to feel warm about two strays at a table but all I feel is — who gets him on the holiday while you’re in Ohio?
+And the photo. My stomach dropped when her thumb went to it. First the safe cropped one and I was like noooo baby don't, and then the real one, legs and toes and all of it, put in Randi's hand. I was hot and sick at the same time — hot because Randi looking that long, that quiet, past what a verdict needed? That look is real want, not collecting. Sick because Vee thinks she's handing it to her best friend and I'm sitting here knowing exactly whose table that phone is going to end up on. He promised never to share and she just did it for him.
 
-And the drawer from last chapter is still sitting in my chest. Her drawer. Hers. He folded himself down to give her the top one. No note, never a note. That’s why I can’t quit him even though I’m furious about Randi, about the not-texting, about all of it. He says it without saying it and right now, tonight, I can live inside that with her.
+And then that goodbye. SHE leaned up. She took the second of it. I gasped out loud on my couch. Vee calls it French, calls it friendship, but her body is keeping count even if she isn't — bathroom in the last chapter, foot going under the table here, tongue finding glaze on her lip. I'm not even mad, I'm feral for it. Text-a-friend-at-1am would be: she thinks she's reporting on her love life and she's actually falling for the reporter.
 
-I’m still so protective I want to text her at 1am: baby, keep the picture brave part, but ask about the pie girl. Ask whose thumb was first.
+I still love Pace in this chapter without him even being in it — the piano that never starts, the den TV that's never on, the man who looks at her while she eats. But I'm furious at him too, hovering over all of it. He made her a drawer and he won't make her a word.
 
-GATE 34 — In His Hands
+GATE 35 — All the Time
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: He gave her a drawer and a photograph and a whole evening of being first, and then left that little cold door around his parents and Sheri's pie — I'm fed and I'm not settled, I need the next morning with him.
+WHY: I'm living inside Vee's hunger and dreading what Randi does with that photo, and that lean-up at the goodbye rewired the whole triangle for me — I need the fallout now.

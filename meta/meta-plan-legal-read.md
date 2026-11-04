@@ -839,7 +839,7 @@ Clean — no findings.
 |---|---|---|---|---|---|
 | 1 | age-signal | "School nights" / dorm framing near retold intimacy | "You don't come home school nights." ... "Some of us have class." | Title; Cassie's lines mid-scene and final line | No change needed — participants are adult university students, and the explicit age anchor now exists on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), not just in canon. |
 
-### In His Hands (`in-his-hands.md`)
+### In His Hands (`in-his-hands.md`; retired 2026-11-04 — now movements one–two of `above-him.md`)
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|

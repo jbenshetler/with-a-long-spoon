@@ -1,37 +1,34 @@
-*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 949e5c0dcfb8 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 4a27f0f07e5e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4c9afc17bfa · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 471a72dbae5c · 2026-11-02*
 
 REACTION
 
-Oh, the book finally paid the bill. And it paid it in the dumbest, most perfect way: Vee runs to Randi with her heart in her hands, and Randi hands her a stiletto and a trench-coat plan to go win back the man Randi is sleeping with.
+Okay. The doorstep scene, and the book gave me exactly what I asked for. It also made me a little queasy, which I think is the point.
 
-The scene is vicious in how well it works. Randi isn't lying, which is the horror. "He's a boy holding himself still so it won't show how much you got him." That's true. She knows Pace better than anyone alive. She's coaching Vee through his own silence with real knowledge, and sending her to his door half-naked with a pair of shoes that make Vee's body answer before her mind agrees. I felt the ache of Vee's whole "and nothing under it," the mother-voice flaring, the "slutty" confession, and Randi's "that's the bravest thing a woman can do." It's the shame-and-heat engine again, and it is Randi's hand on the lever. Randi knows the shame is the lock and the key.
+Heat first. The mirror scene is hot, and it's Vee's own, not staged by anyone. She stops herself on purpose and carries it out wound tight, and "powerful" is the right word for it. The coat, the satin lining, Kayla and the laundry report, and the bare ride all work. The cop-lights beat is a gift, and the wet mark on the lining is the best detail. It's the shame-turned-meaning engine again, and Vee gets to own it this time. The doorstep is the payoff: coat open, his wall simply gone, "a starving man... a man just told he is forgiven," and the kiss with all the missing in it. The cold on wet nipples while he's on his knees is vivid. Standing, door banging, three hobbling steps, jeans round his thighs. Graceless and true. I liked it.
 
-The Sheri blonde getting talked down is lovely. "Don't you dare hand him to a woman who doesn't even have a face." Randi is soothing a rival she knows is harmless, while Vee has no idea the actual rival is holding her wrist.
+But the reader's-eye view is brutal. It's Randi's plan, Randi's shoes, and Randi's script, and it works perfectly, because Randi knows him. The music is the horn from his hungover night, which I know and Vee doesn't. And he almost says it. "Vee, I l—" and she cuts him off by opening the coat. She never lets him finish, so she gets the body and he gets off the hook again. I wanted to scream. He was about to say the word. Now she'll never know it was coming, and the pancakes and "I'm sorry, I missed you" are tender, but the name is still unnamed. She's so full there's "no room for wanting anything he hadn't given," which is exactly the trap. Randi's patch holds, and the real thing stays unsaid.
 
-And Gstaad told at the bed, where Randi stops: "And then it got very late, and we went up." Vee reads discretion. I read the sandwich. "Everywhere but the bedroom, and the bedroom's the room I actually live in" is the truest thing Randi's said to her face, and Vee laughs.
+The Cassie coda, one eyebrow and "Hmm," lands well. Cassie's still outside it all.
 
-Then the kiss. Vee initiates, both hands on her face, stays. And the Randi section after, with the back of her hand to her mouth like she's fifteen, is the best half-page in a while. She's glowing, giddy, and then Brooke, kind as a guillotine: "You need to choose." Lauren Pike. The sorority finally has teeth. I've been waiting on Brooke since ch2.
+Gripes: long, a little overwritten in the sex, and the narrator explains the shame again. And I'm worried about Randi, who has to choose now.
 
-The grumbles are small: Vee's rationalizing the shoes is a touch explained, and the opening flight was long. But this is charged, structurally a turn, and it ends on Randi cornered.
-
-I'm terrified for the doorstep scene. I need it now.
-
-GATE 46 — My Friend Randi
+GATE 47 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 2
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The cabin had been dark for hours and the drone had gotten down into her bones" — the long flight-and-drive opening before Randi.
-WHY: Randi coaching Vee to show up bare under a coat for the man they share is the engine at its cruelest, and Vee kissing her first, then Brooke's "You need to choose," finally raises the stakes. I want the doorstep tonight.
+ALMOST-STOPPED: "none"
+WHY: Vee owning the doorstep gesture is hot and moving, but she interrupts his "I l—" and the word stays unsaid, exactly as Randi's plan would have it. I want the cost to arrive: Brooke's choose, and the three-way truth.
 
 LEDGER
-+ FEAR: Vee is going to Pace's door tonight bare under a coat in Randi's shoes, and the plan Randi wrote could patch things without the word ever being said.
-+ LOVE: Randi's hand to her own mouth like she's fifteen after Vee's kiss, giddy and caught.
-+ LOVE: "Everywhere but the bedroom, and the bedroom's the room I actually live in."
-+ SUSPICION: Brooke's "You need to choose" and Lauren Pike mean the house will act against Randi soon.
-+ WAITING: The doorstep scene tonight, Pace opening the door to Vee in the coat and heels.
-~ F2.1 DEEPENED: Brooke has now said it outright: she's seen how Vee looks at Randi, and Randi must choose.
-~ W44.3 ANSWERED: Term hasn't started, but Vee ran to Randi at once, and Pace hasn't moved first.
-~ S33.2 SHIFTED: Randi talked Vee out of the doubt with real knowledge of Pace, so the crack is patched for now.
-~ F41.2 RESOLVED: Vee took the ache to Randi at last, and Randi turned it into a plan.
++ FEAR: Vee cut off "Vee, I l—", so the word is deferred again and the body has patched what only words can fix.
++ LOVE: The coat opening on his doorstep, his wall gone, and the starving, forgiven look.
++ LOVE: Pace on one knee at the pancakes: "I'm sorry... I missed you so much," voice cracking.
++ SUSPICION: Randi's plan worked so well that Vee now owes her more, and Randi may use that.
+~ F46.1 RESOLVED: Vee went bare under the coat and it worked.
+~ W46.5 ANSWERED: The doorstep happened; Pace opened the door and she was welcomed.
+~ G45.5 SHIFTED: He was about to say it at the door, but she didn't let him.
+~ W45.4 SHIFTED: Pace started to say "I l—" but Vee cut him off.
+~ S33.2 SHIFTED: Reunion patches Vee's doubt, but nothing is named.
+~ F2.1 DEEPENED: Brooke's "choose" still hangs over Randi while Vee goes deeper in.

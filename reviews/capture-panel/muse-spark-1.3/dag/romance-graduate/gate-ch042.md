@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch042 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 13a82a38202a · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch042 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · dated · 2026-11-01*
 
 REACTION —
 
-Oh, this one hurt in the good way. Like actually hurt. I was holding my breath from the driveway — truck pale against the trees, lamplight low — because I know that house as well as she does now, heat turned up hours before, wine already poured, and I wanted it so bad for her and I knew she wasn't going to let herself have it.
+Ohhhh. Oh fuck. That text at the end wrecked me.
 
-Chapter 41 gutted me first. Her up top in the cold with the two inches of window, taking his shirt off because the heat in it was just her own heat back. God. I've done that. Held something that promised him close and realized there's no one close. Leaving it in a heap, not folded, not on the pillow — that undid me. That's her whole drawer system unmade in one gesture.
+I went in braced for another cold Vee night — because 41 and 42 left me sleeping topless in the cold with her, standing on that mat watching Pace fold his arms — and then you hand me Randi alone in fucking Gstaad and I was mad for like half a page. Like don't you dare cut away now. And then I didn't want to leave.
 
-And then 42 — finally. FINALLY she asks it straight with her coat still buttoned to the throat and her hands in her pockets. *What am I to you out there?* I was so proud I wanted to yell. No apologizing on sidewalks, no "both" and "forgiven." She laid it all out — the food and the care and the best sex of her life and *like my body comes with me attached* — and didn't let him pretty-math his way out of it with "do any of your friends have a relationship you'd rather have." I hated him so much in that second for how true and how cheap that was at once. That's exactly his trick, isn't it? Picks the wrong problem perfectly.
+Because this is the first time I've been allowed to just *be* inside her without Vee at the table to perform for. And god, she's tired. That breakfast with mommy's tennis bracelet and daddy's how-many-hearts — I know that girl. I *was* that girl for a while, making up safe boys because the real ones would kill you at that table.
 
-"Words are cheap, believe what I do." When he said that I felt my stomach drop because he means it, he really thinks that's honor, and it's also the most cowardly sentence a man like that can say. He'll sew and grate lemon and fold her satin spot-centered and spend her stories to get hard with Randi, but he won't spend the word on *her*. And "Vee" at the door — just her name — not the word she came for. I cried a little with her on the mat, angry-crying, same as her.
+John. God. He's perfect on paper and I hated him the second he was good at skiing on purpose without showing off. You know that type — cotillion-good, Yale-good, champagne-table-without-asking good. My body was into it on the chairlift, I'm not gonna lie, the whole wife-game, three kids at ski camp, his hand under my elbow that I don't need but I take anyway? Yeah, I was crossing my legs. The waltz got me too — being steered like that after all the work of listening for Pace's little fingertip lead. I felt that *easier is better* in my stomach.
 
-What scares me is how much I still want them. I sat in that doorway wanting him to cross that one step and wanting her to walk. The wanting is the whole trouble — she said it herself. And knowing what I know about Randi waiting for the download at brunch? I feel sick and complicit. She thinks she's fighting for a name and she doesn't even know there's a whole other audience for every yes.
+And then the sleigh. I wanted it to be a fairytale so bad for her. The bells and the snow in her hair and *she walks in beauty* dying in his mouth — I was texting my friend in my head like BITCH HE CROSSED HIS HANDS OVER HIS HEART.
 
-Two quiet chapters in a row with no heat payoff, and I'm not even mad. This was the talk. This is the scene I came for.
+Then the hotel room. That cold. "Warm only where she touched him." Jesus. I've had that sandwich sex. Good, competent, gone before the plate's cleared. Left her lipstick on him and her eyeliner intact because nothing happened to her eyes — that line made me put my Kindle down and stare. Because Pace on his worst night reaches further. Because Vee across a nothing Tuesday has more charge in one look than white-tie John with a whole orchestra.
 
-GATE 42 — Believe Me
+What scared me is how clearly she sees it and still chooses the cover. *Vee was her gorgeous.* When she said she's never said I love you without it being currency except with Vee — I teared up, actual tears, on NYE in a fictional Swiss hotel. She's not brave enough to lose her. She arranges her whole life so she never has to be brave. Fuck, Randi.
+
+And Vee's text — *thinking about you, I'm here if you want to talk. or not.* — from Ohio with minutes left in her shitty year after Pace wouldn't give her a word. And Randi gives her back the fairytale. True and none of it the thing. I want to shake her and hold her at the same time. You're lying to the one person who tells you everything plain.
+
+I'm still furious at Pace, I'm still protective-stupid over Vee, but tonight I'm up for Randi. I did not expect to be.
+
+GATE 43 — Fairytale
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: She finally asked for the word and he wouldn't pay it, and I need to see where she drives to in the cold — I can't put this down with her out on the wrong side of that door.
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "none"
+WHY: You ripped me away from Vee at the worst moment and made me stay for Randi's perfect nothing night, and that last text undid me — I need to get back to Ohio and to that cold house and see who breaks first.

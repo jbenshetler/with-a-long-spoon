@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha abb1b2754206 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this one hurt, and it hurt quietly, which is what makes it good. After 36 chapters of the book being very sure about heat, it hands me a chapter with no sex in it and I don't mind, because the thing I've been waiting for finally happened. Vee reached for the word and he gave her a compliment about the sex.
+Oh, this one hurt, and I mean that as praise. The nachos paragraph is the best thing in a while: "to food what a billboard is to a painting." He's ruined plain pleasures for her, and she knows it, and she calls it his fault in the same breath. That's grown-up and it's exactly what I came for.
 
-"I love how good we are together." Then "What your body does." I put the book down for a second. He heard exactly what she was building, the crackers and the meal, the whole careful structure around *I love you*, and he swerved. And he swerved *kindly*, with a kiss on the head, a long one, and his breath doing something. He took two breaths. He knew. That's what I can't forgive: he knew and he picked the sentence that kept the door shut. It's the blurb's line made flesh. He gives her everything but the word.
+I'm the reader a step ahead, and I spent the whole chapter wanting to climb in and shake her. She asks "are we just sex?" and he never answers it. He hears the question as a logistics problem. "Where do you want to go tonight?" That is so him. Then the explanation about the loud restaurant is true, and it's also a perfect dodge. The "I'm listening now" line is almost the word, and she takes it because she's starving. I also distrust the TV flicker. His eyes keep sliding up to a screen. Is it hearing, or is it that a public place is where someone could see them? Sheri's "complicated" is still sitting there. And she lied in the fight ("you went cold after the Rusty Nail") and some back room of her knew it. I like her more for that.
 
-What I loved is what Vee does with it. Nothing. She files it under "I do not know what just happened," and carries it down the hall with the laundry. That's painfully real. The pile of small repairs is what I'm afraid of for her. The rule that he has to say it first is her own invention, and she doesn't see that either.
+The heat is good but familiar. The breast-worship, the second climax when he finally loses control: it's well done, but I've read the bones of it. What lands is that she begs for him to break and he finally does, and it still doesn't get her the name. "She had forgiven him." Then it doesn't feel like plenty. Ouch.
 
-The Cassie scene earlier is good too, finally, after being parked. "Is it that you can't say, or that you don't want to?" "Both." Cassie asks the one real question and Vee gets grateful and a little not. The dress-sewing and the dad pricing it, I felt that. The lie about dancing was fun.
+Dramatic irony is working, but the pattern is a little fixed now. Ch39 was the sentence with no answer, and this is the same wound again, a second time. I'd like something to actually move. Where's Randi? Where's Cassie? I'm owed Randi and Vee in a room, and Pace has been taking all the screen time.
 
-Two critiques, as a reader. The cafeteria stretch is a long dad-explaining monologue, and the porch chapter explains its own subtext a bit much ("the two things had not been the same shape"). I got it. And the ending is the book telling me about the hurt instead of leaving it. Also, this is my second quiet chapter in a row after the heat of ch36, and I'm being fed Randi's lines about "hungry out loud" in my head and wanting her back in a room.
-
-But I need ch40. I want to know if Pace hears himself, and what Randi does with what Vee said at brunch, and the cropped photo title is clearly going to bite.
-
-GATE 39 — Cropped
+GATE 40 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "She had been thinking about a sentence. She had been thinking about it for weeks." The porch lead-in runs long before the line lands.
-WHY: The swerve from "crackers and a meal" to "I love how good we are together" is the cruelest, truest beat in the book so far, and Vee quietly filing it away made me ache for her. Zero heat, but this is the chapter where the dramatic irony stopped being a game and started to cost something.
+CAPTURE: 8
+NEXT: 7
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none. The closest was the second "no name" rumination at the end, which restates what ch39 already did.
+WHY: The restaurant scene is sharp and painfully true, and the sex is good if familiar. But this is the same ache a second time in a row, so I need the book to turn something over, preferably with Randi, soon.

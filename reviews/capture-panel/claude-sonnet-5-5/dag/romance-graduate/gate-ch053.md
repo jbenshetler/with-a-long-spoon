@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e5c69934d7d1 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is the dinner I've been waiting for, and it's maddening in the best way. Randi is in the room before them, with Vee's name on butcher paper, and I felt that low-in-the-stomach dread. Then Pace says "Vee's boyfriend" six times and the book gets funny. He's using his one credential like a running gag, and it hits Vee low every time, and I believed that completely. I loved watching him work the room. Every person gets handed a first line and then he steps back and lets them shine. Cassie talking in paragraphs is the best thing in the chapter. "You can stay" made me grin.
+Oh, this is the one. The restaurant scene is doing what I've been waiting fifty chapters for, and it's doing it in the open. Vee narrates the oral scene, in detail and glowing, to Randi, who knows exactly what she's sitting across from. Then she gets to the taste. She can't land the joke. It arrives in her mouth mid-sentence, and the bit falls out of her hands. She's still talking when she says "Ugh, gross, wrong" and "You think it's gross too, don't you." Randi says flat and level, "I don't." Then "It turned me on." That's the whole chapter for me.
 
-The straight faces are the show. Nobody slips, and that's what makes it hurt. "Brunches with Vee are the highlight of my week" is a hell of a thing to say with Vee's whole blush looking on. Then the toast, "the highlight of my year," and the glass turning a quarter at a time with the thumbnail going white. I'm holding my breath for Randi. Vee reads it as *I moved her* and puts her hand on Randi's wrist, and I wanted to shake her. "They share an interest... You." He all but says it, and she hears *sweet*. Filing it in the wrong drawer again.
+What I loved is that Randi barely moves. She's carrying everything. She puts the question to Vee, "How does he act?", and Vee hears her own answer: "he's enthusiastic." Randi says "Mm" like a woman finding everything in order. She doesn't explain it to her, and the book doesn't either. It just leaves "I don't" riding along beside "He likes it" on the walk home. That's exactly right. Don't explain it to me. I got it.
 
-The truck scene is hot. The hand in her hair going still is the best detail. The jeans coming down, and the lace she has to keep pulling aside herself: the choosing, every second, is where it gets me. But I clocked the pattern. Third solo or semi-solo release in two chapters, and the one in the restaurant bathroom was Randi's face. This one is tangled up with the wine glass in her head, and she still insists it's all Pace. The "small sentence at a window" line says it outright, which I could have done without. Still, I'm hooked on how she doesn't tell Randi things. The stone of relief last chapter, the Thursday promise.
+The heat was real. The bit with her pointing, the wrist, the toes, "opened me like the orange." Her body clenching in the booth at the memory of the wet kiss. And the earlier parking-lot story, with Randi saying "Didn't spill a drop?" and Vee unable to say it. Randi pushes on exactly that, "you can't even say it," and I felt it in my own face.
 
-Pace noticing the kiss in the lot and saying nothing is the quiet bomb. What does he make of it? He knows exactly what Randi is.
+Also the sidewalk. Vee kisses Randi's neck on purpose, on the memory. The catch, the rise that goes on a beat too long, then "Ticklish." Come on. Randi, the "ticklish" excuse is wearing out. And the line about the compliment, "You picked well," with Vee quietly noting she hadn't picked him. That's Randi, steering, and I'm half angry at her again.
 
-GATE 53 — Among Friends
+Dinner scenes are repeating a pattern: story, Randi probing, Vee leaving something out, goodbye kiss. This is the second in a row. But this one broke the pattern. Something actually landed. So I'm not tired of it. I'm hungry for the next time they sit across a table.
+
+Small stuff: the opening swim and clothes shopping is slow, and I felt it for about a page. The coat showing the stain was a good echo, though.
+
+I want Thursday to become Tuesday, and I want her to ask the question Randi's been waiting for her to ask.
+
+GATE 54 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "if some small sentence in her was still standing at a window somewhere, watching a glass turn a slow quarter at a time, it couldn't have made itself heard tonight" — the book explaining its own subtext to me.
-WHY: The dinner pays off the setup with real comic and dramatic tension, and the truck scene has both heat and interiority. The narration over-signals Randi's pain, but I'm dying to see Thursday and whether Vee tells her about the taste.
+ROMANCE: 3
+ALMOST-STOPPED: "At four she swam." The opening is a page of routine and shopping before anything charged happens.
+WHY: The taste confession and Randi's flat "I don't" delivered what I've been waiting for, hot and psychologically exact, with nothing explained. Vee's "he's enthusiastic" landing next to Randi's answer is the best thing in the book so far.

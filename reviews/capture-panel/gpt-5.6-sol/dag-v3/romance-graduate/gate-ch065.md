@@ -1,39 +1,53 @@
-*capture-dag-v3-grounded · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 2 trimmed) + raw ch061..ch064 · history ch001..ch064 · ledger no seed f030e67d1b1e · 2026-11-03*
+*capture-dag-v3-grounded · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9fa65f2a939b · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 2 trimmed) + raw ch061..ch065 · history ch001..ch065 · ledger no seed 84cfbf7313b8 · 2026-11-03*
 
-REACTION — Oh, Cassie asked the right question, and Vee immediately tried to make her pay for it.
+REACTION — Oh, Randi did not merely know. She watched Vee come back from the bathroom with the answer written all over her and looked sad because the answer was not hers to receive openly.
 
-“Is this what you want?” Not *what are you*, not *what did Randi do*, not even *what does this mean for Pace*. Cassie went straight past every identity verdict and relationship category to the one thing Vee has spent the entire book being taught to surrender to somebody else’s interpretation: her own want. Pace reads it. Randi names it. Vee’s mother shames it. Cassie simply asks whether it belongs to Vee.
+That wrecked me. Vee is desperately interpreting the darkness in Randi’s eyes as judgment—something a friend should not have done—when I think Randi is sitting there holding a photograph of the woman she loves, knowing Vee just left the table to come with Randi’s mouth in her head, and still cannot say *I want you too.* Randi wanted Vee to know exactly what she does to her. Now Vee has done something unmistakable ten feet away, and Randi’s first unpolished response is grief.
 
-And Vee almost looked.
+But I am furious with how they got there.
 
-That tiny movement frightened me more than a clean denial would have. There is an answer in her now, “close and large,” and she knows it has a size she is deliberately refusing to see. Her neck says yes. Her body has said yes so unmistakably that even Vee can no longer call the signal ambiguous. So she demotes the body to “nothing,” which is heartbreaking after an entire book of learning that her bodily wanting is real, meaningful, and hers. Apparently the body counts when it wants Pace, food, impact, display, pleasure, more. When it wants Randi, suddenly skin is just a stupid autonomous thing that cannot testify.
+Randi admitted the waxing lie without one ounce of remorse. “I wasn’t going to let you skip the pleasure over a moment of pain” is monstrous in its confidence. Vee tells her plainly that the pain was not a moment, and Randi still appoints herself the person allowed to decide that the outcome justified withholding the cost. The lovely face, the laughter, the ease of the table almost carried me past it too. That is exactly the problem. Vee has a grievance and Randi turns it into their funniest shared story until the betrayal becomes intimacy.
 
-Then she reached for the oldest weapon she had and aimed it at Cassie: *you don’t like her.* I hated that. Cassie did not say Randi was bad for her, did not demand she end anything, did not even tell Vee what she thought she had witnessed. She asked whether Vee wanted it. Vee turned that into judgment because defending Randi is easier than answering herself. She tried to make Cassie’s long-standing distrust disqualify the question before the answer could arrive.
+Then the foot. Vee came armored to the collarbone, trying for once not to dress for Randi’s gaze, and Randi simply went under the table and pressed her stockinged toes directly against the body Vee was protecting. She did it while saying *your pussy*, without asking, and then made Vee hold the foot while telling the most exposing part of the story. It was unbearably hot. It was also Randi taking control of the disclosure physically before Vee had found the word herself. Once again Vee arrives with an experience and Randi decides how explicitly it will be inhabited.
 
-But Cassie would not take the bait. God, I love her. She did not reopen the sorority argument, justify herself, list evidence, or use Vee’s obvious panic to win an old case. She stepped over the plank and noticed Vee had not eaten.
+The photograph was even worse and hotter. Vee had already decided it was too much to show Randi because she knew showing it would mean something. Then she reasoned herself into handing it over as proof that nothing had changed: a real friend would show her, so withholding it would be the perverted act. That is such devastating logic. She makes concealment evidence of desire and disclosure evidence of innocence, guaranteeing that the most erotic thing she could possibly give Randi becomes the way she denies wanting Randi to see her erotically.
 
-The Cocoa Pebbles absolutely wrecked me.
+And Randi saw her. God, she saw her.
 
-After months of beautifully composed meals, controlled portions, expensive restaurants, food as seduction, food as care, food as proof, here is a cardboard box of children’s cereal held out in a dorm room. No interpretation attached. No demand that Vee explain what kind of hunger this is. No one choosing for her, telling her what she will love, or turning the appetite into a route somewhere else. Cassie asks a question Vee cannot answer, then immediately offers one she can: do you want some of mine?
+“I’d hang that over my bed” is not friendly appreciation. Neither is going silent over the screen, cataloguing every taste Pace put in Vee’s mouth, or saying she wished she could have seen Vee “luscious.” Randi was handed Vee open, wet, magnificent, and looking directly out of the frame, and she held the image while Vee went ten feet away and came imagining Randi’s face wet from her body. This is no longer a concealed current that only Pace and Randi understand. Vee has now privately completed the sexual encounter Randi staged on the dance floor.
 
-And Vee says yes. Fast, whole, uncomplicated. That “Yeah” felt like the safest consent in the book. A bowl-sized want, freely found and plainly spoken. Cassie does not make the small answer stand in for the large one; she simply feeds the person who cannot face it yet.
+The orgasm was enormous because the fantasy finally solved the unfinished reach. Vee could not bring her own wet fingers the final inch to her mouth. Pace respected her no so completely that he removed the taste before kissing her, and now she resents the very care she once needed because her desire has changed. But she still could not close the inch herself—not even in fantasy. Randi entered the space, came up from between her thighs without wiping, and kissed the answer into her mouth. Vee does not merely want to taste herself. She wants Randi to bring her the taste.
 
-I am also relieved Cassie apparently did not need to witness every detail to understand the shape. Whether she saw the neck kiss or only the long goodbye and Vee’s face, she recognized that this was not “Randi being Randi.” More importantly, she saw Vee unable to say whether she wanted what was happening. Everyone else has treated Vee’s bodily yes as permission to keep building. Cassie is the first person to stop at the edge of it and ask whether Vee herself wants the life forming around that yes.
+And the image of Randi’s lipstick finally disturbed—soft at the edges, chin shining—was obscene in the best possible way. Vee has spent months admiring that perfect mouth because nothing ever moves it. In the fantasy, Vee is what ruins the polish. That is not generic curiosity about women. That is a specific hunger to get beneath Randi’s composed face and leave bodily evidence there.
 
-This chapter was tiny, and somehow it did not feel like a shortcut. It felt like Vee could only bear one bowl’s worth of truth tonight. But Saturday brunch is still coming, and Cassie’s question is going with her. Randi can interpret the neck, the kiss, the wanting, the brunch—she can make all of it glamorous and inevitable. She cannot erase the plain question now lodged underneath it: *Is this what you want?*
+I also think Randi knew the instant Vee’s eyes flicked to the bag. She knew what displaying the photograph meant, and she knew what sending Vee toward the taste meant. “Maybe you should tell him” sounds generous because Pace truly did respect Vee’s boundary, but it is another act of displacement. Randi recognizes Vee’s changing appetite and routes it back through Pace rather than offering any truth about her own desire. She can suggest that Vee ask her boyfriend to bring the taste to her while sitting there wanting to be the mouth in the fantasy herself.
 
-GATE 65 — Some of Mine
+The phone remaining in Randi’s hands while Vee disappeared made me tense. I do not think she searched it—the private album held only two photographs, and the chapter gives me no evidence she moved beyond the open image—but she sat alone holding the most explicit version of Vee while knowing exactly what was happening behind the bathroom door. That is an intimacy Vee did not consciously give her. Vee forgot the phone because the desire Randi helped ignite overwhelmed her, and Randi was left physically holding the proof.
+
+Then the goodbye. Vee gave Randi a closed mouth and withdrew before the second kiss. That was another boundary, even if she lied about why. Randi did at least stop and ask what was wrong; she did not simply pursue her. But “Let me say goodbye right” still turned Vee’s retreat into something defective that needed correcting. Vee consented by holding still and then softened into it, yes, but Randi again supplied the proper version of what their intimacy should be and patiently restored the ritual until Vee held on.
+
+And Vee’s relief that she had not left Randi uncertain—oh, darling. Randi looked uncertain because Vee interrupted the relationship they refuse to name, and Vee immediately gave her the full kiss to soothe her. Then she fled and turned the whole thing into a discipline problem inside herself.
+
+“Get your sex brain under control” is the new *floozie*. Same shame, updated vocabulary. Vee cannot explain this desire as one accidental party kiss anymore, so she is trying to reduce the specific woman she wants to a malfunctioning body she can manage through rules. Starting now is not going to work. She dressed to hide, held back her hips, refused the second press, washed her hands twice, and still came harder than she could stand with Randi’s wet mouth in her mind. Control is not the missing ingredient.
+
+Also, that opening foot story was absolutely another Randi story built to put a sexual image in Vee’s body while preserving deniability. Whether the pre-med boy existed almost does not matter anymore. Randi told Vee about a man worshipping her feet, slipped off her own shoe, put those toes against Vee’s sex, and then made Vee stroke them while confessing. This woman can build a whole sex act out of a funny story and still call herself somebody’s friend.
+
+I am incandescent and furious. Vee has now answered Cassie’s question with her entire body: yes, she wants this. She wants Randi specifically, wants to show her, be read by her, ruin her lipstick, taste herself from her mouth, and soothe her when she looks hurt. The tragedy is that everyone except Vee is allowed to understand that answer—and the moment she approaches it herself, she calls it a brain she must control.
+
+GATE 66 — Gesso
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie bypassed identity, judgment, and Randi’s meaning to ask whether Vee wants this, and Vee nearly found the answer before attacking Cassie’s old distrust to escape it. Then Cassie refused the argument, noticed she had not eaten, and offered her a bowl-sized want she could answer honestly; I need that larger question to follow Vee into brunch.
+WHY: Vee finally completed the unfinished reach by imagining Randi rising from between her thighs and kissing Vee’s own taste into her mouth, making the desire specific beyond any usable denial. But Randi again guided Vee to the threshold, routed the changing boundary back through Pace, and restored their goodbye ritual while Vee mistook Randi’s naked sadness for judgment and declared war on her own “sex brain.”
 
 LEDGER
-+ LOVE: Cassie offering Vee Cocoa Pebbles after asking the question she cannot answer—feeding her without withdrawing the question or making hunger mean anything but hunger.
-+ FEAR: Vee will use Cassie’s distrust of Randi to dismiss the only person asking what Vee herself wants, turning concern into persecution whenever the answer gets too close.
-~ S64.1 CONFIRMED: Cassie recognized that Vee and Randi’s goodbye was not ordinary friendship and asked directly whether this is what Vee wants, though exactly how much she witnessed remains unclear.
-~ W4.4 SHIFTED: When Cassie finally challenges the brighter life Randi opened, Vee immediately attacks her dislike of Randi—but Cassie refuses the old argument and keeps caring for Vee anyway.
-~ F24.1 DEEPENED: Cassie asks Vee to locate her own desire, but Vee cannot; she can only dismiss her body and defend Randi, leaving Randi’s interpretation poised to fill the space at Saturday brunch.
++ FEAR: Vee will make “get your sex brain under control” the new language of shame and use discipline, denial, or more sex with Pace to punish a desire that has already answered Cassie’s question.
+~ G60.1 DEEPENED: Randi admits she deliberately minimized the waxing because she decided the pleasure justified getting Vee past pain and exposure without informed hesitation, and she remains entirely unrepentant.
+~ F24.1 DEEPENED: Randi now uses touch as well as words to govern Vee’s interpretation—pressing her stockinged foot against Vee’s sex, demanding the explicit gesso account, and deciding that Vee’s changed no should be carried back to Pace.
+~ W55.3 SHIFTED: Vee still has not told Randi that she stopped one breath short of tasting herself, but Randi identifies the curiosity anyway; Vee finally crosses the psychological last inch only by imagining Randi’s mouth bringing the taste to her.
+~ L62.2 DEEPENED: Vee’s desire for Randi now includes Randi between her thighs, her perfect lipstick ruined by Vee’s wetness, and her mouth delivering the taste Vee cannot take directly from her own hand.
+~ G62.1 DEEPENED: After making Vee’s real kiss into a show, Randi now receives the still-life photograph, says she would hang it over her bed, guides Vee into explicit arousal, and still offers no truth that would let Vee understand Randi’s own stake.
+~ F65.2 DEEPENED: Vee’s body has answered Cassie’s question unmistakably, but Vee reads Randi’s unguarded sadness as condemnation and uses that imagined judgment to justify suppressing the desire instead of examining it.

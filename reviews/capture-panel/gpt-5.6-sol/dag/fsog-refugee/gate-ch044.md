@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
-REACTION — Oh, Vee. “Before she made it wrong” absolutely gutted me, because she did not make it wrong. She asked a necessary question and refused to be soothed instead of answered. Now she is alone in the bedroom she has outgrown, punishing herself for finally protecting herself, while Pace’s silence leaves every empty space available for fear to fill. I understand why he has not simply descended on her after she walked out—he always leaves her room—but there is a difference between respecting space and letting a woman you love spend an entire holiday believing she may mean nothing to you. He knows what she asked. He knows he did not answer. At some point “leaving room” becomes another beautiful principle he can hide behind.
+REACTION
 
-And the imaginary blonde taking Vee’s place in her own memory was horrible. That is exactly what secrecy does: it makes even the past unstable. Pace has been so precise about making her feel singular when she is with him, but he has given her nothing she can hold when she is away. She cannot keep her own best night because he has refused to tell her what made it theirs. I wanted to climb into that tiny bed and tell her that the girl at the table was her, that her body did not need “building for,” that he wanted her specifically—and then I got furious all over again because Pace should have made those truths safe enough for her to know without him physically present.
+Oh, finally. Finally he says the sentence without shaving it down to something safer: he loves her, he understood exactly what she gave him on the porch, and he knowingly answered with less because he was afraid. I have been waiting for him to admit that his precision is not innocence. He did not misunderstand Vee. He watched his smaller answer hurt her and let it stand. That landed hard, but almost as relief, because at least I am no longer being asked to wonder whether he genuinely cannot find the word. He can. He has been holding it hostage to an old loss.
 
-The contrast with Randi is almost unbearable. Vee thinks Randi is the one sure thing because Randi gives their connection dates, names, and visible affection. She has no idea that Randi is answering her from another man’s bed, deliberately sending back the fairytale and withholding the lonely truth. That message looks loving from Vee’s side because part of it is loving. “Miss your face” is the realest thing Randi has—but she still uses the truth selectively, shaping what Vee is allowed to see so she can preserve the relationship in exactly the form safest for herself. After watching Vee offer an open hand that asks for nothing, knowing she has already protected Randi’s ugliest family secret without seeking advantage, I am livid that Randi cannot offer her the same honesty.
+Sheri was exactly the person he needed and I loved her for refusing every lovely adjacent fact. He misses Vee, gives her his whole attention, makes her food with a philosophy underneath it—fine. “She didn’t ask you for reasons.” Yes. And then the clean blade: if he cannot say it, not saying it matters more than having her. That is what Vee has been living, stripped of all the warm-house romance. I wanted to hug Sheri and steal his fries with her.
 
-And Vee longing for the visible life Randi seems to have, while Randi lies in the supposed fairytale feeling absolutely nothing, is just cruel. Each woman thinks the other possesses the freer, fuller life. Neither understands that the other is alone at midnight wanting the same two people.
+And I did ache for him. More than I expected to. The wrong engine, his whole body recognizing that it was not Vee’s and still refusing to release the hope, and then him sobbing over the food he made only to sustain a body—that got me. The contrast with how he feeds Vee was brutal. Without her first bite, food has become prison food again. He has made his house into a place organized around receiving her, and now every neat row in the freezer proves how long he can survive without living.
 
-There is no heat here, but the longing is so bodily it almost behaves like heat: Pace’s arms imagined around her, his cooking invaded by jealousy, the room cold because he is absent. I miss him too, which annoys me. I still want him to come for her. But not with dinner. Not with that hand. He needs to come carrying the whole truth, and he is already terribly late.
+Daphne makes his silence intelligible, but it does not make it acceptable. He decided the words caused the devastation rather than loving her and losing her. That is such frightened magical thinking for a man who prides himself on exactness. Worse, he tried to control the eventual damage by withholding the truth from Vee, which meant hurting her now so he might hurt less later. I believe his fear. I also believe Vee was right to walk out.
 
-GATE 52 — Old Acquaintances
+What chilled me was how quickly his thinking about the three of them slid back into presumption. “Not whether she wanted it”—Pace, yes, whether she wants it. She wants Randi in ways she is only beginning to own, but she does not want the concealed arrangement because she does not know it exists. Brunches, kisses, smiles, and coming back “lit” are not consent to discovering that her lover and best friend chose her together and have been exchanging her intimacies all along. He worries whether the room will ask more of Vee than she has in her, but still imagines placing her in that room before giving her the truth. He understands local consent exquisitely and remains almost willfully blind to structural consent.
+
+His tenderness toward Randi hurt too. The folded blanket still living where she needs it. Six weeks without her, and he will not call because her choosing matters to him. There it is again: he fiercely protects Randi’s right to choose whether she comes back, while Vee remains the one person whose right to choose the whole situation he does not protect. That asymmetry is becoming unbearable.
+
+Still, I am in. Completely. He has crossed an internal line: he cannot go back to pretending words are cheap or that actions have already answered everything. He knows he loves Vee. He knows he failed her deliberately. Now he has to get off that chair, tell her, and then tell her the much more dangerous truth. “I love you” will matter enormously, but it cannot be used as a beautiful curtain drawn across Randi.
+
+And the three of them spending New Year’s in separate beds, each cold in a different way, each wanting the others and choosing silence—God. I would text a friend: *HE KNOWS HE LOVES HER. HE KNEW ON THE PORCH. ALSO I AM STILL MAD.*
+
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s loneliness had me by the throat, especially when fear stole her own best memory and put another woman inside it. I need somebody—preferably Pace, finally behaving bravely—to tell her the truth before she crawls back apologizing for a boundary she was right to draw.
+WHY: Pace finally names both the love and the cowardice behind his silence, and the wrong engine broke me. I need the next chapter immediately because his emotional truth has arrived, but the concealed triangle is still the larger betrayal, and “I love you” cannot be allowed to substitute for disclosure.

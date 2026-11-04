@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
 
 **REACTION**
 
-Okay. Sheri. I'm sorry I ever counted her as a flicker of jealousy. She's Cassie in boots, and she's the first person in forty-five chapters who's sat across from Pace and refused to be handled. "Then not saying it matters more to you than having her." I put the Kindle face-down on my chest after that line. That's the whole book, from the one person with nothing to gain. Then "The philosophy of your food. Lord almighty. Get over yourself," and I laughed out loud, because I've been reading him with a straight face for months and she just *won't*. And then she steals his fries. I love her. Paige and the seven-at-the-table family, "call your mama, Sheri, it's Christmas." So that's why she was "alone" at Thanksgiving. It's not pity. They're two people who don't go back, and they eat the usual together. Of course she's his person.
+FINALLY. Five chapters of people alone in cold rooms: Vee in the dorm, Vee walking out, Randi in Gstaad, Vee in the lavender bedroom, Pace throwing up whiskey. Then it opens on a plane in the dark with her forehead on the window and I actually groaned. *Sixth one, really?* It turned by Roanoke, though. Crying on that drive is exactly right, because her hands know it's Friday. And the second Randi came down those stairs the book had a pulse again.
 
-The diner itself fed me. Elvis under the amber glass, the kid setting the double in front of the man "with the grave confidence of arithmetic," "Somebody always plays it." When the book is in a room with two people talking, it's as good as anything I've read.
+What a scene. Randi's advice is *good*. "Name it or lose me, the one thing he can't do." "Fear needs a face to point at." That's real emotional intelligence, and it's coming from the woman running the con on her. Randi is helping Vee and herself in the same breath, and I can't separate the two any better than Randi can. Then the low little "Not a word," said past Vee's shoulder, and Vee decides some boy hurt Randi once. No, babe. *Pace hasn't called her either.* Six weeks. I nearly put the Kindle down to scream. Randi also just let Vee keep the blonde-model Sheri for a minute, and she was never going to correct her, because she can't know what Sheri looks like.
 
-What scared me was the kitchen fantasy, right in the middle of his grief. Vee in his sheet with too much honey, Randi with her feet up, "nobody hurrying anywhere." He's sitting there with whiskey, missing her badly enough to cry, and he's *still building the threesome*. He's still wondering "whether the room would ask more of her than she had in her." That's the most frightening sentence he's had. He loves her and he's still the director, and both are true at once. And Randi's six weeks of silence finally landed on him. "She had always been the one who came." She's not coming. She's in Gstaad lying awake next to a faultless man, and he thinks she'll call when she's ready.
+The heels. I'm suspicious of those heels. Randi's own shoes, "just the thing for tonight," going onto Vee's feet and into Pace's house. Is that a message to him? Will he know them? Vee's nipples go tight while both of them are holding the straps, and she files it under "tonight" and puts it away fast. The book doesn't spell it out. It just lets me watch her not look, and I loved being a step ahead there. The coat with nothing under it is a trope I've read fifty times, but her shame made it land: the word already in her mouth, her mother's voice, and the want coming up *sharper* because of the burn. That's the inner life I came for.
 
-The hangover half was a style switch: short flat sentences, bleach, mop bucket, boiled bags of chicken and broccoli from the freezer. Prison food. The man who builds hunger in her eats nothing his mouth wants when she's gone. That got me. The truck going past, and him sobbing over the bowl, then eating anyway. I believed it. I didn't think the book could make me cry for Pace and it did.
+Randi telling Vee about New Year's was brutal to read after ch43. Vee hears "naming children on the first day" and it goes right into her sore spot, while I know Randi lay there cold and then fixed her face in the mirror. "Everywhere but the bedroom, and the bedroom's the room I actually live in." It's a perfect lie made of true words. She does that every time.
 
-But Daphne. I've been waiting for Daphne since forever, and I got a summary: "Her departure consumed his life." Tutor, best friend, first love, gone. It reads like a case file. Then the book does the thing I hate. It explains him to me: "He had hurt her because he was afraid of how much she could hurt him." I *got* that. I got it at the porch. Don't hand me the answer key after a chapter this good.
+Then Vee goes back from the latch and kisses her. VEE starts it, both hands on her face, under fifty years of sorority sisters. Randi touching the back of her hand to her mouth like she's fifteen, the dumb laugh in an empty hall: I melted. That's the first time I've seen Randi purely happy. She got about forty seconds of it before Brooke. "You always say goodbye under the composites." Lauren Pike. "You need to choose." It's chilling, and so warm the whole way through. It's real outside pressure, finally, not one unsent text, and it lands on the one person in this book who built her whole life so she'd never have to choose anything. I'd honestly forgotten Brooke existed, and she just became the scariest woman in the book.
 
-I'm also counting. Vee alone in a cold dorm. The fight. Randi cold in a warm bed. Vee cold in her childhood bed. Now Pace alone in a cold house. The same New Year's Eve from three sides, everyone cold, everyone alone with their phone. It's a deliberate design and I can see it working. But I'm starving for two of these people in one room. The third quiet one in a row is where I start skimming, and I didn't skim here only because of Sheri.
+1 a.m. text: *Vee is walking into Pace's house tonight in nothing but a coat and RANDI'S SHOES, and Randi just got told to dump her. I'm not sleeping.*
 
-Text to a friend at 1 a.m.: "he LOVES her he just admitted it to himself while puking up whiskey and then still daydreamed about the threesome. the lesbian diner friend is my new favorite character. somebody DRIVE UP THAT GRAVEL."
-
-GATE 45 — The Usual
+GATE 46 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
-WHY: The diner was the best two-person scene in ages, and the confirmation that he loves her is a real turn, even if it only happens inside his own head. But Daphne came as a summary, the book explained its own subtext again, and this is the third lonely-cold-room chapter in a row. If the next one doesn't put bodies in the same room, my patience runs out.
+ALMOST-STOPPED: "The cabin had been dark for hours and the drone had gotten down into her bones, and Vee had her forehead against the cold of the window" (a sixth lonely-dark opening in a row)
+WHY: After five cold, solitary chapters, this one finally put two women in a room together and gave me momentum: a plan, a deadline (tonight), Vee kissing Randi first, and a real outside threat in Brooke. I couldn't stop now if I tried. The coat is promised, the heels are loaded, and Randi has been told to choose.

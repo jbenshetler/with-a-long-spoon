@@ -1,24 +1,100 @@
 # Condensed — Above Him
 
-*VIGNETTE · Draft complete (`scenes/above-him.md`) · three movements across two weekends · Vee POV*
+*VIGNETTE · Draft complete (`scenes/above-him.md`) · Thu night into Fri morning, three movements · Vee POV*
+
+**Restructure note** (restructured 2026-11-04, author: for experiential order the former {{Above Him}} movements one–two (Fri–Sat) now open {{School Nights}}; the former *In His Hands* (Thu night) is retired as a chapter and is now {{Above Him}}'s movements one–two, with the drawer morning as movement three.)
 
 Territory answering an abundance. The domestic staircase's territory riser — in the weeks just after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged. A diptych in effect (setup weekend / payoff weekend); [[meta-condensed-school-nights]] intercalates between movements two and three (the week between the weekends).
 
-## Movement one — the bed
+## Movements one–two — the photo; the kitchen (former *In His Hands*)
 
-**Supper beat — Vee tells Pace about Randi (author 2026-10-30).** She recalls Randi from the froyo day; Pace answers only *"Sure."* (lie by omission) *"She's a new friend"* leads into the dining-hall collision at the beginning of the semester, the discovery of their shared stats class, and Randi sitting beside her the next morning — Vee's happy coincidence: *"It's a small world."* Cassie shares the class and dislikes sororities on principle despite Randi's invitations. Brunch gives Vee an excuse to dress up; Randi always looks great, even for class. *"We chat, you know, girl stuff. Sometimes we even talk about boys."* His *"Only good things, I hope"* gets *"What else is there about you?"* Randi's funny stories are explicitly about boys; beautiful Randi still cannot find what she wants — Vee assumes men, while the reader holds Vee as the unnamed object. The accent/European-childhood explanation leads straight into *"Oh, and she does this funny goodbye kiss she must have picked up there"* as an aside. He mimes the cheek kisses across the kitchen, spatula in hand, eyebrows up, very grand; she describes the mouth and second press, with her tongue-tip tell: *"This kiss-kiss. It's French, I guess."* His grin spreads, then leaves, and under it is the look she knows from his bed — no joke; she answers *"Don't be silly. Not that kind of French"* as she crosses to him, which genuinely dismisses the sexual reading she won't allow herself. Author's intended register: playful humor between lovers; Pace remains complicated, without mockery or cruelty. Vee sets her wine down and crosses to him at the stove for the kiss (the deliberate crossing is hers). Her hand goes down the front of him and finds him hard — an involuntary response to the story she just told; *"Umm, yeah"* is hers. His free hand settles over her breast through the shirt. *"I'll pretend it was that kind of French. After you feed me."* The pretending is Vee hiding from herself something she likes; she knows two girls kissing excites a lot of men, and doesn't mind him thinking it when she brought the idea (plants {{Boyfriend}}'s *"a man who'd heard two girls"*). Pace says nothing — *"He laughed"* — and answers in actions: the plate, the couch after. The pan interrupts; cooking resumes, then *"I hope you like it"* / *"She did."* Kitchen geometry belongs to `meta-plan-pace-house.md`; contact at the table requires a deliberate crossing. Guards: Pace never says Randi's name ({{Boyfriend}} stays the first time he takes it up); no jealousy beat; the brunch *content* stays Randi's channel (Bible, information architecture). The later "turning over the whole time the salmon cooked" lands on this conversation.
+The fall's warm, low-explicit baseline, laid down before spring turns transgressive. A worn-out couple in bed, then his kitchen — nothing kinky on the surface. Carries two forward-seeds inside the warmth: the **photo** (earliest sole-channel seed) and **Sheri** (the absorber, for the spring found-hair).
 
-Night, the end of a whole-day overnight after a forced week apart (his conference travel, her brutal week on campus; the greedy phase still running, the gap an exception rather than a schedule). The door-lift, the foyer, a simple supper (sautéed salmon, a Greek white), a second time after. She relives the day drifting to sleep beside him: the unshadowed early-love high, his self-control as the established baseline (he brings her over first, usually more than once, before he takes his own — the great-sex baseline planted so the later taste-thread seeds read as deviation). She admits to herself she loves him and reads it back only in his deeds — *he says it in everything he does and names it in nothing* — and finds she can live inside that. The afterglow carries the **curvy-not-heavy** beat: the weight quietly come off, only bras and fitted underwear loose, the rest bought a size up because the racks misread her build (single-sourced at [[meta-craft-vivienne]]). She says *"Peter"* aloud to him **asleep** — the true name voiced in the one moment it can't be received. Unglossed: no porch-callback, no naming of the rule (porch-permission from [[meta-condensed-rock]]); whoever read {{Rock}} feels it.
+### Key Beats
 
-**Weight observation — author revision, 2026-10-30.** Eating to fullness on Pace's cooking rather than cafeteria food, within their physically active relationship. The weight change is incidental, neither improvement nor warning. Revised 2026-10-31: the eating paragraph carries the diet contrast (piccata/pizza, salmon/fries, water and wine/soda) and *"there was always enough"* — the life-fits resonance with {{Peekaboo}}'s dress, unstated — then the last tomato as appetite. The loss shows only as the bras *"gone in a hook"*; no *"lost weight"* verdict. {{Cropped}} supplies the cause (*"the amount of sex"*). The bras' “secret,” “burning down whole weekends,” and “she'd never asked it to” formulations are replaced here; the curvy-not-heavy and budget/fit distinctions remain.
+**Landing / afterglow**
+- The last of the third round; her sweat-damp red hair a curtain she kisses him inside of; winded, she dismounts and feels the whole use of the evening — a deep, proud, sated soreness (three rounds), no shame
+- Drops onto her back beside him, breasts shining from the work of it; he's already looking at her, smiling; her smile won't leave
 
-## Movement two — the embrace at the mirror
+**Comfort-motif**
+- He rolls perpendicular across her, cheek on the lower slope of her breast, hand in her hair, gazing up; stays. *He's all mine.*
+- Small kisses up the curve → *He takes such comfort there. They're not about sex for him.* The pale pink of her draws tight and comes up bright under his mouth (no shame — spent, not caught); his mouth-corners pull up where he feels it
+- His lips capture the nipple → *Which rather spoiled her theory… Not just about sex for him, then.* She sees he's hard
+- *No man had ever wanted her body like this one did; with Pace she was a girl who had a body, not a body that happened to have a girl attached.* → *"Again?"*
 
-Weekend morning. She's at the mirror putting her hair up, wearing his robe (his, not hers — a robe of her own at his house would outrank the drawer on the staircase; his robe keeps the wearing-him motif running). He comes in behind her, arms crossing at her front, mouth at her neck — affection, not sex; warm, low-key. His eyes open and land on the scatter: scrunchies, hair pins, her entropy across his precise counter. **She notices him seeing.** The transaction happens in reflection, wordlessly. The flicker is **light and non-maternal** — a guest's surface worry of having flung her mess across a contained man's clean surface, the wish not to be a trouble; *not* the mother's voice, which is reserved for sexual shame and has no business here. Nothing lands on it; he closes the moment as warmly as he opened it. She carries *did he mind?* across the gap to her next visit — the actions-vs-words question in miniature.
+**The photo exchange**
+- *"You do this to me." / "Who does this to you when I'm not around?" / "I take care of it myself. Thinking of you."*
+- *"What do you think about?"* → the things they do; the look on her face at the first bite of something he's made; the way she looks after, glorious in his bed
+- *"And that works?" / "Remembering you is a pale thing next to you being here."*
+- She taps a nail on her front tooth, thinking: *"Would a picture help?" / "You'd do that?"*
 
-## Movement three — the discovery
+**The promise (the narrowing)**
+- *"Only if you promise you'll never share me with anyone." / "Never. I'd never share your photograph."* — the genie-bargain: her *me* narrowed to his *photograph*; he keeps the exact terms he set
 
-Next weekend: she reaches for the form and the counter is clear. Half a second of dread — *he did mind; he's put my things away* — then the top drawer: his blades and comb gone, her form, her pins, room to spare; the drawer below holds everything of his squared down too tight into one. Dread inverted into territory in one motion. The gift visibly cost him — his own order rearranged — and the *top* drawer, the prime position, goes to her. Nothing is said, then or ever.
+**The cleanup (she curates)**
+- She moves to clean up (*"I want to look nice"*); he prefers the raw her (*"You don't have to. I like you exactly like this"*) and defers; she goes anyway
+- Brushes out her hair, puts her face back on (eyes, poppy-red mouth), works at the mirror until she's found *the version of herself she wants him to keep*; returns composed — *a girl who had decided to be looked at*
+
+**The posing (he composes her)**
+- *"How do you want me?"* → he plays, mishearing it as an offer of more: *"No, not like that. You'll have to wait."*
+- He arranges her himself into a legs-together Playboy pinup (on her side, elbow, hair back off her face, hand at hip), a kiss at each placement — shoulder, hip, knee; *laid out like a woman in an old calendar*
+
+**The photo (her phone)**
+- Taken on *her* phone (better camera; her control); he fusses — settings, the blinds for the glare, landscape — *"That's the one"* — then grins at *her*, not the picture
+- Her moment: she'd wanted glamour and he handed it back better than she'd have caught alone; part of why she can find herself lovely is that the picture is *his*, her as his eyes have her (the sole-channel seed); she doesn't want to give the phone back
+
+**The worry + the send**
+- The cold sane thought: it's a naked picture of her; those get loose and ruin the women in them; she knows — it's why she made him promise — and sends it anyway, on trust (the brave part); *gives him herself to keep*
+- On the send he's hard again, watching her; some part of her knows it was the *sending*, not the picture (caught, not assembled); *"Again,"* — a statement now — and she takes him in hand [fade]
+
+**Kitchen — water, then wine**
+- She's at the kitchen table in one of his white cotton tees, parched three times over; he's no better off; water first (the filter pitcher), her glass before his, he drinks his standing; only then the wine — a Chilean sauvignon blanc cracked open in front of her (grapefruit and lime, a green note, a dry snap)
+- *"You've used me terribly, three times… Promise to use me again soon"* — with enormous satisfaction — *"But feed me first"*
+
+**Kitchen — the piccata**
+- He cooks chicken piccata over pasta in hyperfocus (seared breasts, lemon, garlic, onion, wine, stock, paper-thin lemon and capers); she watches from the table; the wine-to-pan joke
+- Owned-mastery tasting: she takes it apart on her tongue, and there's no going back, and she knows whose doing that is (the *discovery* itself happened earlier, at {{The New Ordinary}})
+- Less talk than presence — held hands, quiet — then the first bite, and the exact look he'd described in bed
+
+**The Thanksgiving exchange**
+- She's flying home to Ohio for Thanksgiving; *"Are you going home?" / "This is my home."*
+- She pushes — *"But your parents. Do you go back to them?"* — his warmth goes precise and formal (the stress-tell): *"I don't go back."* No door left open; she doesn't pry; the cause vaulted
+- He eases; *"Sheri's coming over. We ride together on the weekends. She'll bring a pie and pretend she made it."*
+- Her proprietary flicker — *"What about her parents?" / "She's alone."* — resolves warm; she's glad he won't spend the day alone
+
+---
+
+### Continuity and Revision Notes
+
+> **The photo is curated, not raw.** She cleans up, does her makeup, and poses a composed legs-together pinup — the *control* rung of the photo ladder (spring's *{{Still Life}}* photo is the raw, explicit rung; `meta-note-still-life.md`). Don't render it just-fucked.
+>
+> **The dish is chicken piccata, not pizza.** The pizza and the first-time taste *discovery* live at {{The New Ordinary}} (`new-ordinary.md`); here the tasting is *owned mastery* — she already has the palate; don't re-run the discovery.
+>
+> **"I don't go back," not "I don't go home."** This *is* his home; the parents' place is the one he doesn't return to. The cause stays vaulted — no bike-dragging, no first love.
+>
+> **Sheri stays offstage/reported** — first on-page at {{Another Round}} (~late January). Her Thanksgiving visit is an exception (she's alone, the holiday), not routine, so it doesn't breach the outside-the-house bond the found-hair needs.
+>
+> **The kink is never named.** His arousal is timed to the *send* (her willing self-transgression), caught by Vee but not assembled — timing seeds it, nothing explains it.
+
+---
+
+### Plants / Pays Off
+
+**Plants:**
+- **Sole-channel motif** — the photo, and *she likes how she looks because he does* → the cabin's "he becomes her eyes" → the bench → the threesome kiss (`meta-note-threesome-reveal.md`)
+- **Sheri as absorber → the found hair** — named here, spent in spring (`meta-note-the-found-hair.md`)
+- **The curated → raw photo ladder** — this curated pinup → the raw, explicit *{{Still Life}}* photo; each extracted from Vee in its own two-step (cropped→full) SATC reveal
+- **The promise-motif** — she asks him to promise things (never share her; use her again soon); his easy promises are the con's currency
+
+**Pays off:**
+- **The photo → {{All the Time}}** — Vee shows Randi this pinup in a cropped→full reveal, Randi's *"you only gave him half of you?"* (`meta-note-all-the-time.md`)
+- **The taste discovery ({{The New Ordinary}})** — here she *owns* the palate she gained there
+- **The soreness / three rounds** — the proud ache, boasted as *"used me terribly, three times"* in the kitchen
+- **Pace's "first bite" compliment** — set up in bed, cashed at the piccata (he watches her get the look he described)
+
+## Movement three — the drawer (the next morning)
+
+The next morning: she reaches for the form (it was there last night, when she fixed her face at this mirror for the photo) and the counter is clear. Half a second of dread — *he did mind; he's put my things away* — then the top drawer: his blades and comb gone, her form, her pins, room to spare; the drawer below holds everything of his squared down too tight into one. Dread inverted into territory in one motion. The gift visibly cost him — his own order rearranged — and the *top* drawer, the prime position, goes to her. Nothing is said, then or ever.
 
 ## The grammar it founds (canonical)
 

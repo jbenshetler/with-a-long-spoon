@@ -156,7 +156,7 @@ Her register is something she brought, not something absorbed from his collectio
 ## Cross-refs
 
 - `meta-note-all-the-time.md` — the SATC brunch that plants the Vee side by recount.
-- `meta-note-in-his-hands.md` — the domestic tenor `All the Time` reports.
+- `meta-note-above-him.md` — the domestic tenor `All the Time` reports.
 - `meta-arch-bible.md` → *Running threads to seed* — the registry bullet for this thread.
 - `meta-plan-pace-house.md` — the set the sound lives in.
 - Payoff (open, do not design yet): whether the music ever *lands* for a character rather than the reader — candidate is the reveal/threesome (identity sole-channeled through the kiss under the blindfold; *whose music is playing* could be a silent tell).

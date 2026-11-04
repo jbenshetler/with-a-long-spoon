@@ -1,34 +1,38 @@
-*capture-dag-v2-rich · gate ch058 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch058 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha 3dd84f1666e0 · dated · 2026-11-01*
 
 REACTION —
 
-Okay, this one got me in a completely different place than I expected, and I think that's why I'm still sitting here in his shirt — sorry, *her* in his shirt, robe over it, hungover, him putting food in front of her one thing at a time.
+Oh, this one got under my skin in the quiet way, not the loud way.
 
-The bread undid me first. Not in a big romantic speech way. He *baked cinnamon raisin bread while she was passed out*. And the water was already there, on a paper towel so it wouldn't mark the wood, ice melted because he'd put it there hours before she woke up. That's the whole man, isn't it? He doesn't announce care. He pre-positions it. She keeps waking up inside a life he's already quietly arranged around her, and part of me melts for that and part of me is like... Vee, honey, do you see how much of his love lives in *doing* because doing is the only language that never blew up in his face?
+That whole Sheri retelling — I was braced for Vee to do her usual lovely filing job, turn it into a funny story about dressing for a model who wasn't real, get her *you were right* laugh, and Randi would collect her win and they'd move on. And she does do that. She does it beautifully, hands flat on the cloth like a treaty signing, *you were completely right about all of it.* And I felt so fond of her, because she can actually give that to Randi whole-hearted, no sting in it.
 
-And then Sheri. God, I loved that the jealousy didn't get magically cured by Sheri being five feet tall and gay and not the blonde at all. Vee *knows* she invented the blonde — she literally built her in December out of insecurity — and the heat in her chest stayed anyway when Sheri looked her up and down in the taproom. That felt so true I laughed out loud. Because it wasn't really about Sheri's body. It was "he is glad at a woman's name that isn't mine, he has a *we* with someone, *we cycle, she dances*," and I know that stomach-drop. I've been the girl dressing for a rival who doesn't exist, in borrowed clothes that don't fit my tits right, bucking on four-inch heels in January for a taproom. The fact that she knew she was doing it *while* she was doing it made it worse and better.
+And then Randi's thumb just... stops.
 
-And Sheri herself — I want her in every book now. That hug she gave Pace, cheek flat to his chest, eyes shut, whole weight committed, and then she turns around and gives Vee the fast fierce grab-and-rock and "you've got him happy, that's the whole book." And Pace *blushing* at "you get to motorboat them things?" — I have seen that man do unspeakable things with total composure and a motorboat joke takes him out at the ears. I would watch that on loop.
+I've been reading Randi's hands for fifty chapters now. The nail on the wineglass rim, the thumb under the rim going white at the roadhouse when she said *meeting Vee was the highlight of my year.* Her body says it when her mouth is being pleasant as a hostess. So when it stopped mid-stroke on the back of Vee's hand right at *she was enjoying herself* — I felt that in my stomach before Vee did.
 
-But this chapter, the morning after — "Sheri's my friend. My one friend. There isn't anyone else."
+*And you liked it.*
 
-I sat with that for a long minute. Because of course. Of course it's just her. Women misunderstand the friendship because no woman stays just-friends with a man who pays attention like *that*, who is that present over dishes and in bed and everywhere in between — I sharpened that sentence exactly where he left it blunt, same as Vee did. And men... "you make a friend from the middle of the pack, you lose to him and lose again." He was never in the pack. Not at fifteen in a building of grown men, not at eighteen when his age-peers finally showed up and he already had the patent and the house and the money. The window just never opened.
+Flat. No music. That is not Randi teasing, that is not Randi doing court. And Vee — god, Vee — *No. Not my thing.* Too fast, too small, patched before she'd even heard herself. I've heard her say no like that before. I've heard her do *ugh, gross, wrong* with her hand over her mouth while actively holding Pace in place. Her no arrives first and her body files an objection afterwards and she never, ever goes back and reads the objection.
 
-And Daphne sitting underneath all of it like a fault line. She wasn't just his first love. She was his *only person*. His Meg and Kayla and Cassie and Randi all stacked into one older girl in a place that wasn't safe for him, and then she left — sensibly, he keeps saying, like that's supposed to make it okay — and there was literally nobody to take the heartbreak to. No wonder "I love you" is radioactive for him. It's not a commitment-phobia trope, it's not him being an emotionally constipated alpha. He said it once, to the only person he had, and then he had no one. The rule he made makes a terrible kind of sense and I hate it and I believe it completely.
+What killed me is what she did with the silence after. Randi doesn't move, doesn't rescue her, which Randi *always* does, and Vee looks at her best friend not-moving and decides: *she's still worried about me. She's standing guard.* Warm and low at being looked after that hard. Baby. She is not standing guard at the bottom of your ledge. She is standing *in* the thing. After chapter 56 I can't unread this table — Randi fresh from Pace's bed saying *I want her to know exactly what she does to me*, Randi taking his mouth wet with herself with no hesitation at all while Vee in her dorm room couldn't close one breath's distance to her own fingers — and now she's sitting across from Vee hearing that another woman looked down Vee's body slowly and enjoyed it, and that Vee laughed out loud on a taproom floor from the middle of herself, and her thumb stops.
 
-That's what made the last page land for me. She doesn't say sorry — God bless her, sorry would have made him stand there and be pitied for a thing he handed her as plain fact — she just goes around the counter and hugs him the way Sheri did. Whole weight. Cheek to chest. And he doesn't melt into it or fix it or make it a moment, he just... holds her and looks past her at nothing and lets it be true for a while. Bread cooling. Neither of them making it better.
+And Vee liked being looked at that way. She told us so Sunday morning over the toast, *I liked it, honestly,* warm all through in a way the tea hadn't done. She liked it when it was Sheri, safe Sheri, gay Sheri, couldn't-want-Pace Sheri. She can admit it there. She cannot admit it to Randi, in the loft, with Randi's hand on hers. The distinction is not lost on me and it is certainly, *certainly* not lost on Randi.
 
-That's the kind of quiet chapter I will follow a book anywhere for. It's not throat-clearing. The whole architecture of him just shifted under me. He didn't choose solitude because he's superior or mysterious. The door was on a timer and he missed it, and then he built a beautiful, exact, lonely life inside that miss, and now Vee — who has *too many* people, who can't move without a Cassie or a Randi catching the part she didn't say — is trying to figure out how to be enough without crushing under the weight of being all of it.
+Then she kisses Randi's neck again on the sidewalk — in passing, she says, neither of them said a word about it — after last Thursday Randi had to laugh it off as ticklish twice, after Vee herself noted her mouth *went there in passing* like weather. She was already looking at the neck last time. Now there's not even the pretense of remembering a spot where she cried. It's just where her mouth lands in a hug. Every chapter the cover story gets thinner and Vee gets more sincere about believing it.
 
-I'm worried about that, actually. One person can't be all four friends and the lover and the home. I don't think the book doesn't know that. I think that's the bomb under the floorboards next to the other bombs.
+And then the wax. I don't even know where to put that yet. Sunday, kitchen, fact-voice: *he asked me to get waxed. All of it. Bare.* On its own I might have just felt the heat of it — Pace asking plainly for something he wants, Vee bringing it to Randi like a delicious problem, Friday afternoon, she isn't hesitating for a second, *I've got the afternoon.* But Randi's response was *instant*. No pause, no *did he now*, just Sondra, Draper Street, ask for her by name, tell them I sent you, call in the morning not the afternoon and say my name in the first sentence. Like the whole week arranged behind her eyes in one blink. Maybe that's just Randi being Randi, the girl who has a person for everything. Maybe. After everything I now know about how this triangle was actually built, I don't trust an instant arrangement from her anymore. Did Pace ask Vee, or did the asking start somewhere else and arrive at Vee wearing his voice? I don't know. I hate that I'm asking. I also notice Vee didn't ask anything at all — not *does it hurt* beyond the surface, not why he wants it, nothing. She is *pleased* to be asked. The pleasure princess being sent to be made bare for Friday and writing Sondra's name on the back of her hand in the stairwell like homework.
 
-Also, petty and important: Randi is going to be *insufferable* on Tuesday when Vee hands her "five foot nothing, two-tone hair, gay, looked me up and down like dessert and I liked it." I need that scene like air.
+*The other part she didn't write down. She had that one cold.*
 
-GATE 58 — Hangover
+That last line sat in me the whole way. She means Sheri, I think, or the look, or the no she said too fast — whatever it is, she's carrying it unwritten and certain. She has so much of this cold and memorized and does not know what she has.
+
+Thursday can't get here fast enough. I need to know what Randi does when she's not setting Vee's hand still on a table and waiting.
+
+GATE 59 — Between
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: No heat to speak of and I didn't care — Pace having exactly one friend re-lit everything I thought I knew about why he can't say the word, and Vee hugging him like Sheri instead of saying sorry was the most grown-up tenderness this book has given me yet.
+WHY: The Sheri story was funny and warm right up until Randi's thumb stopped, and after that every kind sentence at that table had a second person underneath it who Vee can't see and I can. The too-fast *no* and the wax appointment she's carrying home on her hand have me already turning the page.

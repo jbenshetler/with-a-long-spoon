@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch041 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 13a82a38202a · dated · 2026-11-01*
 
-REACTION — oh fuck. *This* one.
+REACTION —
 
-I went in braced for the make-up high to keep rolling after Chili's — you know, the forgiven-warm-large bed part still on my skin — and instead I'm up in that top bunk at like 2am freezing with her and I want to cry. Not in a sad-girl way, in a *seen* way. Because who hasn't done this? The lighting-up-your-phone-and-not-typing thing, thumb hovering over nothing you can actually ask? And the shirt thing — God, the two shirts, wearing his over hers for the hallway so Cassie doesn't have to say anything — I felt that so hard. Girl too far gone in a boy and trying to make it look casual.
+Oh, this one hurt in the good way. Like actually hurt. I was holding my breath from the driveway — truck pale against the trees, lamplight low — because I know that house as well as she does now, heat turned up hours before, wine already poured, and I wanted it so bad for her and I knew she wasn't going to let herself have it.
 
-And then when she takes hers off underneath to get him straight on her skin? That got me in the stomach. That's hungry out loud but with nobody watching, not even Randi to hand it back to her as a gift. Just her breathing him off her own shoulder — sawdust and salt — trying to name every part like if she lists everything he *does* it'll add up to what she *is*. And it doesn't. It doesn't.
+Chapter 41 gutted me first. Her up top in the cold with the two inches of window, taking his shirt off because the heat in it was just her own heat back. God. I've done that. Held something that promised him close and realized there's no one close. Leaving it in a heap, not folded, not on the pillow — that undid me. That's her whole drawer system unmade in one gesture.
 
-What wrecked me is that line about the heat being her own, given back. He's not in it. He's across town asleep easy like a man with nothing grinding in him. Fuck, Pace. I was feral at you before and now I'm just cold. You left her holding a smell in the dark, man. You have no idea what that costs.
+And then 42 — finally. FINALLY she asks it straight with her coat still buttoned to the throat and her hands in her pockets. *What am I to you out there?* I was so proud I wanted to yell. No apologizing on sidewalks, no "both" and "forgiven." She laid it all out — the food and the care and the best sex of her life and *like my body comes with me attached* — and didn't let him pretty-math his way out of it with "do any of your friends have a relationship you'd rather have." I hated him so much in that second for how true and how cheap that was at once. That's exactly his trick, isn't it? Picks the wrong problem perfectly.
 
-And her leaving the shirt in a heap, not folded, not on the pillow — lying there bare in the cold and *staying* in it because the lie of warm was worse? That's the most Vee thing she's ever done. My girl who apologized on sidewalks would rather freeze honest than be cozy on a maybe. I wanted to climb up there and put my hand on her back and also I wanted to shake her and go baby please put something on, call him, make him say it.
+"Words are cheap, believe what I do." When he said that I felt my stomach drop because he means it, he really thinks that's honor, and it's also the most cowardly sentence a man like that can say. He'll sew and grate lemon and fold her satin spot-centered and spend her stories to get hard with Randi, but he won't spend the word on *her*. And "Vee" at the door — just her name — not the word she came for. I cried a little with her on the mat, angry-crying, same as her.
 
-It's 1am-text-to-Randi energy except I can't text Randi because she's part of why Vee's up there alone, isn't she? Collecting every yes and riding it. And Vee doesn't know. She just knows there's no name for it, not the big one and not the small one. That silence at the center where the word should be — I have that memorized now too.
+What scares me is how much I still want them. I sat in that doorway wanting him to cross that one step and wanting her to walk. The wanting is the whole trouble — she said it herself. And knowing what I know about Randi waiting for the download at brunch? I feel sick and complicit. She thinks she's fighting for a name and she doesn't even know there's a whole other audience for every yes.
 
-No heat in this one, not really, and I don't even care. I'm not turned on, I'm gutted and wide awake with her. Don't you dare leave her in the cold.
+Two quiet chapters in a row with no heat payoff, and I'm not even mad. This was the talk. This is the scene I came for.
 
-GATE 41 — Bare
+GATE 42 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 1
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: You left her bare and freezing and I can't put it down until someone covers her — with a word, not a shirt.
+WHY: She finally asked for the word and he wouldn't pay it, and I need to see where she drives to in the cold — I can't put this down with her out on the wrong side of that door.

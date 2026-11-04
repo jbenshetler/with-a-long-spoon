@@ -197,7 +197,7 @@ she stepped into while he watched) and of the room he has never seen.
   *"ick-factor difference between a thong that was never taken off and one taken off and
   put back on."* Provenance stays unstated; no underwear is stocked in her drawer
   (`meta-plan-pace-house.md:135-144` — hair and face only).
-- **{{In His Hands}} stays Thu Nov 12** (author, after review). The Thursday night is
+- **{{Above Him}} stays Thu Nov 12** (author, after review). The Thursday night is
   independently prose-locked by `above-him.md:49-51` — *"The next Friday the scrunchies
   weren't on the counter… the bottom went out of **her morning**"* — she wakes at his
   bathroom counter, so Friday morning requires Thursday night. Moving it to Friday would

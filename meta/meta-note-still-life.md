@@ -12,7 +12,7 @@
 
 The shame occasion is the **failure to hold the pose.** Arranged as the cornucopia, told to keep still, her body won't obey the frame: the flinch under the brush, the breath she can't level, the wet she can't stop, the small sounds. Not *he sees me* (spent) but *I cannot be the still object even when I want to be; my body keeps announcing itself.* Lean into the aliveness against the "still" — and here the overflow does double work: the excess she can't contain is the same wet he gathers on the brush and paints back onto her. Her body's involuntary wanting is turned into the material of the picture.
 
-Register: **playful going in, transgressive at the turn.** The fruit-painting is light — sensation-play, the fed fruit, the build kept from cresting; the turn to the mons in her own fluids is where it goes transgressive and psychologically intense. No longer the book's *lightest* beat ({{In His Hands}} now carries the fall warmth); this is a spring scene, post–Forbidden-Kiss, and it earns its dark by opening light.
+Register: **playful going in, transgressive at the turn.** The fruit-painting is light — sensation-play, the fed fruit, the build kept from cresting; the turn to the mons in her own fluids is where it goes transgressive and psychologically intense. No longer the book's *lightest* beat ({{Above Him}} now carries the fall warmth); this is a spring scene, post–Forbidden-Kiss, and it earns its dark by opening light.
 
 ## Sequence: painting → the runaway → photo → sex → afterglow → the coda
 
@@ -171,7 +171,7 @@ this is characterization, not a second description.
 
 **The ownership turn is what turns her thoughts toward Randi** — and it's the
 new ladder rung (below): nobody on earth has seen it but her → so who would she
-show. Contrast live with *{{In His Hands}}*, where she **sent** it herself,
+show. Contrast live with {{Above Him}}, where she **sent** it herself,
 watched the word go to *Delivered*, *"gave him herself to keep"*; this one he made
 and left in her hands.
 
@@ -208,9 +208,9 @@ reader knows how to bet against, and Vee stays innocent inside it.
 - **Nothing adjacent to *"Isn't it gross?"*** — that line's charge is in being
   asked to Randi's face ({{Gesso}}).
 - **No cropped/full arithmetic** — {{Gesso}} owns the two-step extraction.
-- **Pace's {{In His Hands}} promise stays off the page.** Surfacing *"I'd never
+- **Pace's {{Above Him}} promise stays off the page.** Surfacing *"I'd never
   share your photograph"* here makes her a lawyer and touches the genie-bargain
-  (`meta-triage-in-his-hands.md`: do not clarify, soften, or underline).
+  (`meta-triage-above-him.md`: do not clarify, soften, or underline).
 - **Register: admiring, not troubled.** This reuses {{Missed a Spot}}'s closing
   frame — Pace asleep, Vee turning over the thing that won't lie flat — twelve
   chapters on. Temperature is the only differentiator: that one *probes*, this one
@@ -226,17 +226,17 @@ one is **hers alone**, which sharpens the ladder below and gives the sole-channe
 its **first hairline here** rather than at the cabin — the woman who can only see
 herself through his eyes keeps the first thing back from him. Its audience, when
 it finally has one, is Randi at {{Gesso}}. It is the **escalation** of the plain
-nude from *{{In His Hands}}* (which holds the earliest, best-disguised sole-channel
+nude from {{Above Him}} (which holds the earliest, best-disguised sole-channel
 seed): not just a sexy picture but a picture of what he has *made* of her, which
-she loves because it is how he sees her. The sole-channel deepens — she likes how she looks only through his eyes — running {{In His Hands}} → here → the cabin's "he becomes her eyes" → the bench → the threesome kiss (`meta-note-threesome-reveal.md`).
+she loves because it is how he sees her. The sole-channel deepens — she likes how she looks only through his eyes — running {{Above Him}} → here → the cabin's "he becomes her eyes" → the bench → the threesome kiss (`meta-note-threesome-reveal.md`).
 
-Where the *{{In His Hands}}* nude was **curated** — she cleaned up, made up, posed a legs-together pinup, controlling how she was seen — this one is **raw and explicit**: between the legs, no clean-up, her transformed body shown as it is. That's the ladder's rung: curated → raw, control → loss-of-control. **Second axis, same rung (2026-09-12):** the first was **given away** (sent to him, *"gave him herself to keep"*); this one is **kept** — so the ladder also runs *shared → withheld*. And like the first, it's **extracted in two steps** — cropped, then full — when she shows it to Randi at {{Gesso}} (`meta-condensed-gesso.md`).
+Where the {{Above Him}} nude was **curated** — she cleaned up, made up, posed a legs-together pinup, controlling how she was seen — this one is **raw and explicit**: between the legs, no clean-up, her transformed body shown as it is. That's the ladder's rung: curated → raw, control → loss-of-control. **Second axis, same rung (2026-09-12):** the first was **given away** (sent to him, *"gave him herself to keep"*); this one is **kept** — so the ladder also runs *shared → withheld*. And like the first, it's **extracted in two steps** — cropped, then full — when she shows it to Randi at {{Gesso}} (`meta-condensed-gesso.md`).
 
 ## Seeds forward
 
 - **"Adventure"** — coined here in the afterglow, hers, **with Pace's deliberate echo *"A lovely adventure"* (author 2026-09-15: he repeats it so the reader catches the word — the repetition is the plant)** → first *invited* at the cabin (`meta-note-grace.md`) → detonates at the threesome. Never named as a code.
 - **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no direct or clean self-taste; the closing mixed trace does not answer the question). **The coda extends it by smell** — the one channel left open to her — still crossing nothing.
-- **Sole-channel** — the photo escalates {{In His Hands}}' seed → cabin → bench → threesome kiss; the coda puts its **first hairline** here (she keeps the picture back from the eyes she sees herself through).
+- **Sole-channel** — the photo escalates {{Above Him}}'s seed → cabin → bench → threesome kiss; the coda puts its **first hairline** here (she keeps the picture back from the eyes she sees herself through).
 - **The Randi hinge → {{Gesso}}** — the coda's *"too much"* and the future-tense *"she would not be telling her"* are what make Gesso's *"Isn't it gross?"* a turn rather than an arrival from nowhere. The denial must be sincere for Gesso to land as her breaking her own rule.
 - **Peach — deliberately NOT here** — originates at the cabin blazon, seeds forward to `meta-note-peaches.md`; a plant here pre-spends the July apex.
 
@@ -252,6 +252,6 @@ Where the *{{In His Hands}}* nude was **curated** — she cleaned up, made up, p
 ## Cross-refs
 
 - `meta-condensed-still-life.md` — lean surface brief · `meta-condensed-gesso.md` — the retelling (the photo shown, the wax-lie called out).
-- `meta-note-barely-stings.md` — the diptych partner (the bare canvas) · `meta-note-in-his-hands.md` — the earliest sole-channel photo this one escalates.
+- `meta-note-barely-stings.md` — the diptych partner (the bare canvas) · `meta-note-above-him.md` — the earliest sole-channel photo this one escalates.
 - `meta-note-taste-thread.md` — the thread this rung sits in (Reach → here → Whiskey and Wine → The Almost → First Taste).
 - `meta-note-grace.md`, `meta-note-peaches.md`, `meta-note-threesome-reveal.md` — where the seeds cash out.

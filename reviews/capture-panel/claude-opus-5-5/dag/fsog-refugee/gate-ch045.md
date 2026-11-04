@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch045 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
 
 **REACTION**
 
-Sheri. I knew it. I wrote "trust, still" in my notes and I was right. She's gay, she had a Paige, and she's alone at Christmas because her family won't talk to her. That's why "she's alone." Meanwhile Vee was lying in her twin bed in Ohio building a tan blonde out of spite. I want to reach into the last chapter and shake her: the woman he cooked for at Thanksgiving is the one telling him off over a chocolate shake. Then Sheri said what I've been saying for ten chapters, only better and in a booth: "Then not saying it matters more to you than having her. And from this seat, that feels pretty shitty." He looked down. Good. He should.
+I'm so relieved she went to *someone*. She's alone in that stripped dorm room, still in her plane clothes, with that fake blonde girl sitting on her chest, and she gets up and walks to Randi's. That's who she has. I hate that it's true and I understand it completely.
 
-Then the whiskey, and I didn't expect what it did to me. I've wondered for a long time whether his silence was decency or cowardice, and he answered it himself: "because he was afraid, and because at the moment she had asked him to be brave he had been weak." "He had hurt her because he was afraid of how much she could hurt him." Daphne was his tutor and his everything, and when she left there was nobody to tell, because she was the person he'd have told. So he made himself a rule: the word is what makes a loss unsurvivable. That's a real wound. It isn't an excuse, and he doesn't use it as one. He knows he loves her. He's known all along. Him sobbing over cold freezer chicken because a truck went past on the highway and didn't turn in just wrecked me. That's the man I left a genre for, shaking too hard to hold a fork.
+Then Randi said "Not a word," low, looking past Vee's shoulder. I sat up in bed. Vee decides it was some boy once. It isn't. It's *him*. Randi hasn't heard from Pace either. Six weeks, since the green satin. So she's sitting on that bed nursing the same silence, and she still turns all of it toward getting Vee back to him. "That's a boy holding himself still so it won't show how much you got him." She's right, because she knows him, and she can't say how she knows. That's the most generous thing Randi has done in the whole book, and it's also the old deposition: "Start over, but slow." "What did his face do — right then?" She's still working Vee for detail, and this time I think the detail is going somewhere good. I honestly can't tell where the care ends and the technique begins, and maybe she can't either.
 
-But I caught on one passage. He's sitting there drunk with the cashmere blanket he keeps for Randi, wondering "how she would carry it. Not whether she wanted it — she wanted it, and a man would have to work at it to miss her wanting it." No, Pace. She wants a friend's kiss on a sidewalk. You learned about that kiss while you were inside Randi, and it "still worked on him." Vee never chose that frame, so you can't read it as her yes. And there's the kitchen picture, the three of them, Vee in his sheet, which he's been "adding to for weeks." Meanwhile Vee lost that exact scene in her own head to an imaginary blonde. Both of them are rewriting the first-night table and neither knows the other is doing it. It's beautiful and it's horrible. He told Randi "she consents — every time — or I'm done," and here he's quietly deciding the consent for her because the evidence looks good. That's the Daphne-with-better-manners thing I keep worrying about, and he still can't see it.
+The coat. She gets me with how she does it. Randi doesn't say it. She says "You've got that good long coat" and waits for Vee to finish the sentence. I wrote down "like a thing being decided for her and by her at once" and that's exactly it. The mother-voice coming up, "slutty," Randi saying "Say it," and then the wanting turning over under the shame. The want is Vee's. It's rendered from inside her, it's real, and I believe her. I also see whose hand is on the steering wheel, and the book wants me to see it.
 
-Even so, I believe him more tonight than I ever have. He knows the word and he knows why he wouldn't say it. Now he has to drive to Ohio, or wait on a porch, or *something*. They haven't really been alone in a room since Chili's. The door-slam on the 11th doesn't count. I feel that gap in my chest now. But this was the right chapter to spend inside it.
+Then the SHOES. Oh no. Oh, I loved that and I'm scared of it. Both of them holding the straps at once. Her nipples drawing up and Vee filing it under "tonight." I'm a step ahead of her and I *felt* the step. And now she's walking into Pace's house in Randi's heels. Will he know them? Has he seen them on Randi, in his house, maybe on that table? That's the bomb in this chapter for me, not the coat.
 
-1 a.m. text: *Sheri's GAY and she just read him to filth over cheeseburgers. Also he sobbed at a passing truck. Also he's still planning the threesome. I hate everyone, keep going.*
+And then she kissed her. Vee started it, for the first time in four months, both hands on Randi's face, under fifty years of sisters looking slightly to the left. Then Randi alone with the back of her hand to her mouth, laughing out loud in an empty hall. I melted for her. That's a girl who has never been chosen, finding out she might be.
 
-GATE 45 — The Usual
+Brooke made my skin crawl. "Play all you want, privately, or for the boys." She's warm the whole way through. Lauren Pike. "You need to choose." That's ugly in the quietest, most sorority way, and it turns Randi's cover from a strategy into a cage. I didn't expect to feel protective of Randi. I do.
+
+What I'm really tracking: the two of them haven't been alone in a room since he let her walk out on December 11, and it's been longer than that since it was good. Pace told himself the truth over the prison chicken. Now she's going to his door tonight with no words, which was Randi's whole idea, when what this needs is a word. Please, Pace. She'll arrive being the answer. You have to be one back. If he just takes the coat off her and that's the reconciliation, I'll be crushed. If he looks at her and says it, I'm gone for good in the best way.
+
+1 a.m. text: *she's showing up at his door naked under a coat IN RANDI'S SHOES. he hasn't said I love you. I can't put this down.*
+
+GATE 46 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-HEAT: 1
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Not whether she wanted it — she wanted it, and a man would have to work at it to miss her wanting it."
-WHY: He finally admitted, to himself, that he loves her and that keeping quiet was fear. Sheri finally said the true thing out loud. Both of those turn the bond even though Vee isn't in the room. The kitchen fantasy and his reading of "she wants it" keep my old fear alive, but now I need the next chapter to be them, in a room, with the word.
+ALMOST-STOPPED: "Vee felt it settle over her like a thing being decided for her and by her at once."
+WHY: For one beat I felt Randi steering Vee's body toward a plan Vee didn't come up with. Then the book showed me the want was really Vee's, and I stayed. Vee kissing Randi first, and Randi's hand going to her own mouth, is a real turn. And Vee walking into his house tonight in Randi's heels means I'm already turning the page.

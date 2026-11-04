@@ -1,73 +1,77 @@
-*capture-dag-v3-grounded · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 949e5c0dcfb8 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 78eb2751a70e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4c9afc17bfa · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 59edf9a2d38e · 2026-11-02*
 
-REACTION — Oh, Randi took the exact wound Pace made—*words are cheap; believe what I do*—and sent Vee back to him wearing nothing but an action.
+REACTION — No. No, no, no. He opened the door and started to say “Vee, I l—” and she stopped him with her naked body.
 
-I am furious. I am genuinely furious.
+The word was there. Pace had finally gotten up from the prison food, crossed the line Daphne built inside him, and begun the sentence Vee has needed for months. And Randi’s plan worked so perfectly that Vee never heard it.
 
-Vee arrives wrecked by a month of silence, terrified she was only sex, and Randi knows the two facts that would change the entire conversation: Pace loves Vee, and Sheri is not the woman Vee invented. Randi may not know Pace has finally admitted the love aloud to himself, but she knows Sheri, knows Pace spent Thanksgiving with her as a friend, knows the hidden relationship Vee is actually sensing, and knows Pace has another lover because she is that lover.
+I am incandescent.
 
-And she tells Vee, “That is not a man with another woman.”
+The entrance was blisteringly hot. I cannot lie about that. Vee standing in her church coat with nothing underneath, opening it deliberately and watching the wall fall out of Pace’s face—that is exactly the kind of authored exposure I love for her. She did not arrive ashamed, tentative, or asking whether her body was enough. She had made herself into the offering and knew the gift was hers to give. The old word tried to reach her and failed. That is real growth, and the image absolutely worked on me.
 
-That is a lie so exact it made me cold. Randi dismantles the imaginary blonde beautifully while protecting the real brunette sitting inches away. She makes Vee feel foolish for correctly sensing that Pace’s life contains another woman, then uses Pace’s total attention during their weekends as proof of exclusivity—as if Randi has not had his body, his house, his bench, his blanket, and Vee’s stories all along.
+But Vee did not invent this gesture in a clean room. Randi told her that words were the war, put those shoes in her hands, and sent her to answer Pace’s refusal with a body he already adored. Vee rehearsed Randi’s certainty while doing her face. She heard Randi while she showered. She literally built the woman who could carry out the plan one line of makeup at a time. Even alone, Randi was directing the scene.
 
-Even worse, Vee looks at Randi’s unfinished face and thinks she recognizes the sympathetic history behind “not a word.” She imagines some boy once did this to Randi. No, honey. Randi is hearing that Pace let the woman they both love vanish for a month, while Randi herself has also stayed away from him for six weeks. “Not a word” belongs to both of them. She knows exactly what his waiting costs because he is waiting for her too.
+And Vee winding herself up in the mirror was hot until it became painful. She made herself wait exactly as Pace makes her wait, stopped before climax, and experienced the denial as power because she intended to deliver the entire unfinished hunger into his hands. I understand the erotic logic completely. But “It was not hers to finish” made something in me recoil. Yes, she chose to stop. Yes, she felt powerful. Still, after the whole book has been about Vee learning that her appetite belongs to her, she is now making her pleasure into property reserved for the man whose silence injured her. The gesture is authored, but its destination has swallowed the authorship.
 
-Then Randi turns the whole rupture against Vee. *You backed him into a corner in his own house.* No. Vee asked an adult man to name the relationship he had spent months deepening. She did not threaten him or set an impossible trap. He knew he loved her, consciously gave her a smaller answer, watched her leave crying, and stayed silent for a month. Randi does not know every interior fact I know, but she knows enough about Pace to understand that his silence is a choice, not proof of some boyish tenderness too deep to show.
+Then she touched herself while driving and nearly lost me. One hand on the wheel, hips lifting off the seat, moving at speed on a dark county road—absolutely not. I was not erotically suspended there; I was waiting for her to crash. The police lights were almost too neat a punishment, but her terror of being “caught” landed because the old shame instantly returned as public judgment: not merely *I did something dangerously stupid*, but *a man will look at me and know what kind of woman I am*. I was relieved the cruiser passed and furious she needed a near miss to put both hands back on the wheel.
 
-“That’s a boy holding himself still so it won’t show how much you got him” is romantic poison. It converts abandonment into evidence of love and makes Vee responsible for translating silence correctly. Again.
+The mark inside the coat did get me. This is the bodily evidence she once would have treated as humiliation, and now she reads it as proof that nothing in her held back. I love that change in her even while I hate the mission it is serving. Her body is no longer an adversary telling secrets against her. It is a witness she trusts.
 
-And then: *You don’t do it with words. Words are the whole war.*
+Then Pace opened the door.
 
-I nearly screamed. Words are not the war. The absence of words is the weapon both Pace and Randi have been using to preserve relationships Vee cannot knowingly evaluate. Vee finally did the bravest emotionally intelligent thing she has done—asked directly what she was—and Randi teaches her that the repair is to withdraw the question and offer her naked body instead.
+Pain first. Then the wall. Then “Vee, I l—”
 
-The coat plan is blisteringly hot. Of course it is. Vee showing up bare beneath a long coat, in those impossible black straps, turning shame into an authored entrance—that image works on me exactly as it works on her. But it is also the worst possible answer to the actual problem. Pace already wants her body. He already knows it by heart. The question was whether he could name and claim the woman attached to it outside his house. Sending Vee back as an erotic gift teaches him that if he withholds language long enough, she will eventually apologize for asking and arrive more sexually available than before.
+I cannot get past it. He was going to say it before he knew what was under the coat. The declaration was not payment for sex, not gratitude for forgiveness, not something her body extracted from him. He saw her face on his doorstep and began. She had finally come back, and he was ready to spend the word.
 
-And Randi knows precisely what she is doing when she leaves Vee to finish “nothing under it.” That old choreography is fully back: offer the coat, pause, let Vee generate the explicit act herself, then call the resulting choice brave. Vee experiences the plan as emerging from her own desire because Randi knows exactly where to stop speaking.
+But Vee had been taught that words were the enemy and that her body was the answer. So she interrupted the exact repair she needed in order to perform the repair Randi designed.
 
-The shoes made the manipulation physical. Randi is once again dressing Vee for Pace, deciding the time, the entrance, the body she should become, and handing over a pair designed for display. Vee’s body responds partly because the plan is hot—but also, unmistakably, because Randi chose these shoes and said *tonight*. Vee immediately files the ache under anticipation of Pace because that is the interpretation available to her. She cannot know that the woman holding the other end of the straps has imagined her inside Pace’s house for months.
+And of course Pace received it as forgiveness. That look—starving man and man just told he is forgiven in the same face—was both gorgeous and awful. Vee did not say she forgave him. They did not talk about what happened. She opened the coat, and Pace understood her body as absolution because both of them wanted desperately to skip the part where language might threaten the reunion.
 
-And God, “Randi always knew the shoes.” That trust hurts now.
+The doorstep sex was ferocious. His mouth on her while she stood in the open door, the cold hitting her wet nipples while his tongue was hot between her legs, her absurd heels barely holding her up—I was completely there. This book has not suddenly lost the heat. Pace going to his knees the instant she opened the coat was a payoff to everything Vee had wound tight all evening.
 
-The New Year story was another perfectly managed truth. Randi gives Vee the lift, the children, the dress, the ball, the leading—everything that makes John sound like the named public future Vee aches for—and withholds the emptiness. Vee hears ease, visibility, and a man unafraid to invent a family aloud. Randi knows the fairytale was nothing and still lets Vee use it as evidence that Randi has been chosen in the way Vee has not.
+But the scene was also the nightmare I have been carrying since chapter forty: sex drowning the word in real time. Not symbolically now. He literally began the word, and Vee replaced it with nakedness. His mouth then “spent no word she needed” and gave her everything else. The chapter knows exactly what it is doing to me, and I resent how effectively it does it.
 
-Then she edits the bedroom into a joke. John was not a masterpiece everywhere but sex; the sex was genuinely good. What failed was that he never found her. Randi turns emotional annihilation into disappointing technique because technique is safe to tell and it makes Vee laugh. Once again, every word true enough to conceal the truth.
+The open door mattered. They let the cold pour into the house while they turned the threshold into sex—the exact boundary Vee had been trying to cross emotionally. She wanted to know what they were outside the warm house, and instead Pace went down on her halfway between inside and outside. It is staggeringly hot and not remotely an answer. They still cannot carry the relationship through the door as a word. They can only fuck in the opening.
 
-But then Vee kissed her.
+Then her tears at her name nearly broke me. “Vee” was not enough in December. It still is not the missing word. But she has come back so relieved and physically overwhelmed that hearing her name warmly now feels like resolution. She says nothing because “nothing needed saying now,” and I wanted to shake her. Everything still needs saying. The sex did not answer what she is to him. It only restored the private language in which they are most fluent.
 
-Not the routine second press. Not a grateful little return. She turned back, took Randi’s face in both hands, and kissed her until the emotion in her chest had somewhere to go. Randi’s breath stopped. Her hands closed on Vee’s coat. For once Vee initiated the whole thing and stayed. That is an enormous turn, and it was intensely romantic and intensely erotic even though Vee immediately apologized it back into being a mess.
+And then the pancakes completed the trap beautifully.
 
-Randi’s reaction nearly undid me. The hand to her mouth, the idiotic laugh, the abandoned sentence with *means* in it—there is the woman behind the face, delighted before she can manage herself. For one clean moment she receives Vee’s desire without turning it into Pace, “us,” preparation, or friendship. *That girl had kissed her.* Singular. Hers.
+Of course he feeds her. Of course they are made from scratch at midnight while she sits naked under a blanket in Randi’s shoes. Of course the first bite returns her to the whole history of being nourished and understood. Pace apologizes. He says he never meant to hurt her. He says he missed her so much, and his voice cracks. Those are real words, necessary words, and I was moved by them.
 
-And then Brooke catches her glowing.
+But he still does not say what he almost said at the door.
 
-I knew the house was dangerous, but this was uglier than I expected. Brooke’s warmth is a blade. She offers privacy for “play,” especially if it is for boys, while making actual truth socially punishable. Be bisexual as spectacle, never as identity. Kiss women as long as the house can classify it as harmless performance for men. The moment the desire becomes real, Randi’s position and belonging are conditional.
+“I never meant to hurt you” is not the same as acknowledging that he knowingly gave her the smaller answer. “I missed you” is not “I love you.” And Vee is so full of food, sex, warmth, and relief that “there was no room in her for wanting anything he hadn’t given.” That sentence terrified me. This is the old mechanism restored at maximum efficiency: Pace gives her so much that the unmet need begins to feel physically impossible to hold.
 
-“You’ve got a position in this house, and you’ve got her. You need to choose” is not concern. It is coercion delivered with a friendly touch. And the reference to Lauren Pike tells me everyone knows the consequence without Brooke having to state it. Nobody officially asks you to leave. The house simply makes remaining impossible.
+She drove out there because she wanted him back, and she got him back. I cannot deny the emotional satisfaction of that. But she did not get the answer she originally left over. She prevented herself from hearing it.
 
-“She’s my friend” now has a second function. It was already Randi’s cover against losing Vee; now it is also the password that lets her remain inside the sorority. Brooke has just made naming the desire cost not only the friendship but Randi’s entire social structure. She went upstairs and shut the door at the exact moment her joy might have made honesty possible.
+Then she returned wearing Randi’s shoes and Pace’s clothes.
 
-I am terrified of what she will choose, because she has already sent Vee toward Pace wearing her desire. The shoes, the coat, the naked entrance—all of it lets Randi participate while remaining socially invisible. If Vee goes to Pace tonight, Randi can keep loving her through the man, exactly where Brooke says female desire is permitted: privately, deniably, and for a boy.
+The entire concealed arrangement walked into the dorm on her body. Randi supplied the erotic architecture; Pace supplied the domestic aftermath; Vee carried both home believing the outfit told one simple story. Cassie reads that Pace and Vee reconciled. She cannot read that Pace’s other lover selected the shoes, designed the entrance, erased the real other woman, and sent Vee into his house naked.
 
-GATE 46 — My Friend Randi
+And Randi is going to see those shoes again. She will know exactly what happened because she wrote the scene. Vee will tell her the open coat, the doorstep, his knees, the pancakes, the apology. Will she tell her he began “I l—”? Did Vee even register it consciously before she interrupted? That unfinished syllable is now the thing I am reading toward with my whole body.
+
+Because Pace still has to finish the sentence. And then he has to tell her about the woman whose heels she wore while stopping him.
+
+GATE 47 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Randi turned Pace’s refusal to use words into a plan for Vee to apologize with her naked body, while knowingly denying the real other woman sitting directly in front of her. Then Vee initiated a long kiss that left Randi incandescent—only for Brooke to make “friend” the price of keeping her place in the house.
+ALMOST-STOPPED: “one hand light on the wheel”
+WHY: The naked-coat entrance and threshold sex were scorching, but Vee interrupted Pace’s “Vee, I l—” with the exact bodily apology Randi designed, letting sex drown the word at the instant he finally tried to spend it. She got Pace back, but not the answer she left over—and returned home wearing Randi’s desire on her feet and Pace’s domestic claim on her body.
 
 LEDGER
-+ GRUDGE: Randi told Vee that words were the war and coached her to answer Pace’s month of silence with sex, converting his failure into Vee’s responsibility to repair.
-+ FEAR: Brooke’s warm ultimatum will drive Randi further into using Pace as the socially acceptable cover for wanting Vee, now that naming the desire could cost her the house and her position.
-~ F3.3 DEEPENED: Vee is freely choosing the coat and shoes, but Randi has used hidden knowledge, a false claim that Pace has no other woman, and exquisitely timed pauses to produce the erotic reconciliation.
-~ G2.2 DEEPENED: Brooke makes the house’s containment explicit: desire between women is tolerated as private play or spectacle for boys, but truth threatens Randi’s belonging without anyone ever having to order her out.
-~ F6.1 DEEPENED: Randi answers Pace’s separate bond with Vee by dressing Vee for him again, turning her own jealousy, longing, and joy over the kiss into choreography that sends Vee toward the concealed “us.”
-~ W15.5 DEEPENED: Vee initiates and sustains a real kiss with Randi, but apologizes afterward and still calls her best friend; the desire is enacted more plainly than ever and remains unnamed.
-~ F18.2 DEEPENED: Randi actively sends Vee back toward Pace without disclosure, making a naked entrance stand in for the informed choice Pace and Randi still refuse to offer her.
-~ F24.1 DEEPENED: Vee arrives unable to interpret Pace’s silence and leaves with Randi’s explanation, timing, coat plan, and shoes, trusting Randi to decide what the rupture means and how her body should answer it.
-~ F31.1 DEEPENED: Vee kisses Randi with unmistakable authorship, then immediately contains it as emotional overflow; Brooke’s warning gives Randi a powerful new reason to keep “best friend” as the only permitted name.
-~ F44.2 CONFIRMED: Vee brings the apparent end of her relationship to Randi as her safest confidante, and Pace’s hidden lover uses privileged knowledge to reinterpret his silence, erase the real triangle, and direct Vee’s return.
-~ W44.3 ANSWERED: At their first reunion, Randi sees exactly what Pace’s silence has done to Vee and responds by comforting, misleading, dressing, and sending her back to him rather than exposing the secret.
-~ F45.1 DEEPENED: Before Pace can tell Vee either truth, Randi has arranged for Vee to return through a sexual gesture designed to make words unnecessary.
-~ W45.6 DEEPENED: Neither Pace nor Randi has contacted the other or told Vee the truth; Randi instead turns all three silences into another choreographed step toward the fantasy.
++ GRUDGE: Vee masturbated while driving at speed; the danger broke the erotic spell and made me fear a crash instead of feel her pleasure.
++ FEAR: Vee will interpret the restored sex, food, apology, and “I missed you” as complete repair and never ask Pace to finish the declaration she interrupted.
++ WAITING: I need Pace to finish “Vee, I l—” before Randi can turn the reconciliation into another report about how perfectly her choreography worked.
+~ F40.1 DEEPENED: Sex no longer merely drowned Vee’s need for a name internally; she physically interrupted Pace’s attempted declaration with nakedness, and their reunion made “nothing needed saying” feel true.
+~ G46.1 DEEPENED: Randi’s lesson that words were the war succeeded completely—Vee answered a month of silence with her naked body and prevented Pace from giving her the very word she originally left over.
+~ F45.1 DEEPENED: Pace tried to tell Vee he loved her before disclosing Randi, and the coat interrupted him; the desperately wanted truth is now poised to restore the bond while the concealed lover remains protected.
+~ W45.6 DEEPENED: Pace finally began reaching for Vee with words, but her interruption and their immediate sexual reunion left both the declaration and the truth about Randi unfinished.
+~ F46.2 DEEPENED: Brooke’s threat has already made Pace a more useful cover for Randi’s desire—Randi can send Vee into his bed wearing her shoes and participate invisibly in the resulting intimacy.
+~ F32.2 DEEPENED: Pace’s food, warmth, sex, and cracked “I missed you” fill Vee so completely that she has “no room” for what he still has not given, restoring the abundance that trained her not to ask.
+~ W42.3 SHIFTED: Pace did not follow Vee into the cold, but when she returned he began the declaration she needed; she stopped him before he could finish and brought the cold through the open door into sex instead.
+~ F3.3 DEEPENED: Vee freely authored the coat reveal and every sexual choice, but Randi produced the plan through hidden knowledge and a lie about Pace having no other woman, then placed the shoes on the body sent to enact it.
+~ F6.1 DEEPENED: Randi’s choreography has now successfully repaired the separate Pace–Vee bond through sex while allowing Randi to remain erotically present, socially invisible, and entirely undisclosed.
+~ W32.4 DEEPENED: Pace finally tried to say “I love you” to Vee while she was awake, but she interrupted after the first sound; the declaration remains unsaid between them.

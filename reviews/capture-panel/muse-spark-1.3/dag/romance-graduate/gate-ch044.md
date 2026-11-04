@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch044 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch044 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
-REACTION — God, this one hurt in the quiet way. I didn't even realize I was holding my breath until I was in that twin bed with her, knees bent because she's outgrown it, lavender plugin stink and flannel sheets, and I just — fuck, I know that room. I know going home and not fitting in your own childhood anymore.
+REACTION —
 
-The phone stuff gutted me. The thumb over the empty field, *are you*— then deleting it letter by letter. Because I did that exact thing with Pace last chapter in the dorm, with his shirt off in the cold, and now she's doing it again in Ohio and learning the same lesson: there is no text that makes a man give you the word. And "he left you the room" — I used to think that was hot, respectful, grown-man shit, and now I hate it. Leave me the room to spiral in? Thanks?
+God, finally *him*. Finally inside his head and not just Vee staring at a phone waiting for him to be a person.
 
-What got me most was the picture she scissored in half. The induction photo — the one Randi buckled the heel for, the one Pace saw whole — and she cuts off her own leg for her mom's phone. *Same picture, one house, and she was the one who had divided it.* I felt sick reading that because it's her doing it to herself now. Not Pace, not her parents. Her.
+I went in braced for Sheri to be the threat — like, oh great here’s the normal country girlfriend pie girl — and then she just... wasn’t. She fucking eviscerated him in the nicest booth possible and I loved her for it. *Then not saying it matters more to you than having her.* Ouch. Yes. Somebody finally said it to his face because Vee couldn’t and Randi won’t. And his whole brick-by-brick “I’m there every weekend, I told her she’s the most important” — baby, that’s a grocery list, that’s not the word. Sheri knows. I know. He knows.
 
-And the jealousy spiral — I was right there with her and I hated myself for it. Of course my brain went straight to Sheri too. "She's alone" my ass. I built that blonde with her, tan legs where mine/Vee's were, sitting in the sheet at the fra diavolo table while the garlic blooms, and I couldn't keep my own good memory either. It turned gold on me too. That's what no-name does to you. You don't just lose him, you lose the memories because you don't know whose they were anymore.
+The drinking part gutted me. Not in a sexy way, in a sit-on-the-floor-with-him way. Him scrolling the pictures he took *on purpose* — her in his coat radiant, her ruining his coffee with sugar — and then going further down to brown hair glasses girl laughing with her hand over her mouth. I felt sick when Daphne came up because suddenly the Chili’s and the porch and the *I love how good we are together* all clicked. He’s not cold, he’s terrified. He decided the *words* were what made losing her unsurvivable. Like if he just never says it he can keep loving them and survive them leaving. Which is so fucking male and so fucking human I wanted to shake him and hold him at the same time.
 
-I keep thinking about Randi's text landing in the middle of this. *miss your face most though, gorgeous.* And Vee up late doing the math — six hours ahead, Randi still up — imagining the white-tie crush because Randi lives where everyone can see and Vee has to keep the best thing behind a shut door. I wanted to scream at both of them through the phone: YOU'RE BOTH LYING TO EACH OTHER AND YOU BOTH KNOW IT. Vee folding away what she saw in the glass room, Randi sending the fairytale instead of the thing. That open-hand text — *i'm here if you want to talk. or not* — I felt how carefully she checked it twice for any giveaway. My poor sneaky girls.
+And Randi. Six weeks no call and he *misses* her more than he knew and he won’t call because “the choosing was hers.” That line. That whole kitchen fantasy — Vee in his sheet with too much honey, Randi with feet up, nobody hurrying — it’s the first time he’s let himself actually picture all three in daylight and not just use one to get off with the other. It felt tender and delusional and doomed.
 
-I'm not turned on, not even a little, and that's weird for this book. I'm just cold and sad and clingy. I want Pace at the stove and Randi at brunch and I want somebody to say the true thing out loud for once. I texted no one at 1am because who would I even explain this to — "hey I'm devastated about three people in a book who won't say I love you"? But I'm still reaching when sleep pulls me under too.
+The Jan 1 hangover wrecked me the most though. The bleach smell, the mop bucket he has to step around, the chicken and broccoli as prison food, eating anyway because his body used what it had. And then the truck. Oh god the truck. Him lifting his whole body toward the gravel sound like a dog, knowing in one second it’s the wrong engine, and sobbing into cold chicken. I cried. Actual tears. For *Pace*, who I’ve been feral-furious at for ten chapters.
 
-GATE 44 — Old Acquaintances
+If I’m texting a friend at 1am it’s: he loves her he KNOWS he loves her and he’s so scared of saying it he’ll lose her instead which is somehow worse??? and also who cleaned with bleach what did he DO drunk???
+
+I’m still Team Vee, don’t get it twisted. But I get him now. I hate that I get him.
+
+GATE 45 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: I'm freezing in that twin bed with her and I can't leave her there alone on New Year's with no word from him and a fake fairytale from Randi — I need January, I need the classroom and who walks in first.
+WHY: You finally gave me his why and it wasn’t an excuse it was a wound, and now I need to see if he starves on chicken long enough to get brave or if Vee and Randi beat him to it.

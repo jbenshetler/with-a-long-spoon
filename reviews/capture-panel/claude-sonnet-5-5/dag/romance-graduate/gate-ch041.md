@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 13a82a38202a · dated · 2026-11-01*
 
 REACTION
 
-Okay. That's a short one, and I'll say it: this is my second quiet chapter in a row (the Chili's fight ended in sex, but this is just a girl alone in a bunk). It's one scene, and I didn't skim it.
+Finally. Thirty-odd chapters of "Is this what we are now?" and she walks in with her coat buttoned and doesn't give him the door kiss. That detail got me. Let him arrive at the fact of it. Good.
 
-The shirt thing is what hurt. In ch38 the flannel was the best gift in the book: "give it back Sunday so it smells like you." Now she works out that the warmth in it is her own body heat handed back to her. "He wasn't in it." That's a real observation, and it didn't come with a speech. She doesn't conclude anything. She takes it off and lies naked in the cold because the cold is at least honest. The shirt dropped in a heap, not folded, is the chapter's one act of anger, and it's tiny and exactly right.
+Then he does the thing. "Do any of your friends have a relationship you'd rather have than this one?" I actually said "oh, fuck you" out loud. That's the most Pace line in the whole book. It's true, and he uses the true thing as a wall. Then "Words are cheap. Believe what I do." That's the jacket line, so I knew it was coming, and it still landed. "Words are cheap, and you still won't spend them on me" is the best line Vee has had. She finally has teeth.
 
-The empty text field was good too. She knows no message can pull the shape of what she is out of him, so she doesn't send one. That's a grown-up thing to know. It's also the moment I want to shake her again, because she's diagnosed it perfectly and still hasn't said it to his face.
+He folds his arms and holds the line "at cost," and I'm furious and also a little wrecked. He thinks the silence is integrity. It's a man guarding his own door. The hand reaching for her at the end, "the hand in place of the word," is the whole book in one gesture. Vee leaving without her bag, into the cold, is right. I'm proud of her, and I'm scared for her.
 
-The heat is zero tonight. She's naked in the dark and there's nothing erotic in it, and that's deliberate. I felt the absence. But I'm a reader who needs the heat, and this is where the book spends my goodwill. The chapter also nearly explains itself in the paragraph about everything he does, a little list that says the thing outright. I didn't need the list.
+Two things bug me. She says "Like my body comes with me attached" and I know Randi said that line first, in Vee's hearing. Vee is quoting Randi's words about Pace, and that's a lovely, awful echo. I flinched. But the chapter also explains itself a bit too much. "Not the hand in place of the word" is a gloss I didn't need, and so is the "he reached for the thing and came back with the truest thing he had" bit.
 
-The thing I'm carrying is Cassie asleep below her, breathing easy, and Vee not telling her. Pace is "easy as a man with nothing grinding in him," and Vee is wrong about that. Randi isn't easy, and I know it. The irony is mine to hold, and I'm holding it hard.
+It's also a bare, no-heat chapter, and it follows a bare, no-heat ch41. That's two quiet ones in a row, and I'd be skimming by a third. But this one broke something, so it's not stalling. It's the fight the book was built to have. I want Randi now. Vee will drive straight to the person who says "you're just finally hungry out loud," and that scares me most. I want Saturday brunch, and I want to see what Pace does with his phone tonight.
 
-I want Anthro. I want the real kiss. I want somebody to say it. One more of these and I'll be skimming.
-
-GATE 41 — Bare
+GATE 42 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "He wasn't in it. He was across town in his own bed, gone down easy as he always went, easy as a man with nothing grinding in him"
-WHY: The shirt realization is quiet and true, and the dropped heap is a small, perfect act of anger. It's a deliberate breather, short and aching, and it makes me want the next chapter to cash something in. I'm out of patience for a second bridge in a row, though, and there was no heat.
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "The door was unlocked, the way he left it for her." (the slow, warm-house setup before anything happens)
+WHY: The confrontation I've waited on finally arrives, and Pace's "Believe what I do" is exactly the wall I feared. It turns the bond. The only thing I'd cut is the narration that explains the subtext. I'm desperate to see where she runs and who she tells.

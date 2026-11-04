@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this one hurt, and it hurt in a way that's mostly dramatic irony. I'm a chapter ahead of Vee, and I sat there watching her answer Randi's text and feel *envy*. She's looking at the photo of the chalet and the "devastatingly handsome billionaire" and wishing for that life. Meanwhile I just watched Randi lie in a hotel bed feeling cold. The sentence "every word of it true, none of it the thing" is now on the receiving end, and Vee reads "fairytale" literally. That mirror is cruel, and it works. Same text, pasted in, word for word. I'm not mad at the repetition, because it's the point. It's the book showing me what each of them can't see.
+Oh, this is the chapter. Pace finally gets a body and a hangover and a grief, and I've wanted to see him crack since chapter 36. I was furious at him for forty chapters, and then he's on his kitchen table sobbing at the sound of a truck going past, and I'm a puddle. Damn him. It's the bottom-drawer thing made visible: he put the whole self in the bottom drawer and it came out in whiskey.
 
-The wince I felt most was the blonde. Vee builds Pace's imagined other woman from spite: blonde, tan, "a fashion model's body where Vee's was a stripper's." Then the memory of the best night, the sheet slipping, turns on her and the blonde sits in her chair. That's a good, nasty, true piece of 2 a.m. brain, and it's the strongest stretch here. And "the cold room kept watch over the girl who was gone" is a good last line, if a bit pleased with itself.
+Sheri does the work I wanted Cassie to do. "Then not saying it matters more to you than having her. From this seat, that feels pretty shitty." YES. And he sat there and *listened*, and said "I can't." The Daphne reveal is what finally explains him: the only one he said it to, and she left. "He had taught himself that the words were the difference." So the withholding isn't smugness, it's a scar. That reframes him without excusing him, which is exactly what I want. "He had hurt her because he was afraid of how much she could hurt him." Okay, that line is the book telling me his subtext outright, and it nearly tipped me into eye-rolling. But the sobbing scene earned it, barely.
 
-What I'm less happy about is how much I'm re-reading. The phone with the empty field is ch41 again. The "no message comes back in the shape of what I need" is nearly verbatim. The smell-of-him longing is a repeat, the "what am I to you" fight gets replayed, and the "leaves you the room" line is back. This is the second quiet, solitary Vee-in-bed chapter in a row, third if you count ch41. My thumb was already hunting for movement. And there's none on heat at all. The jacket promised me heat coming up, and I've had a long drought: a fight, a bare-skin insomnia night, a ski-resort chapter that was cold on purpose, and now this.
+The dread under it is wonderful. The three-in-the-kitchen picture, growing "further along than last time." He's still building the thing that will burn them all. And Randi, six weeks gone, the blanket he keeps on the chair for her. He misses her and won't ask. Everyone's too proud to say the one sentence.
 
-I'm also a little irritated that the text explains her to me. "The wanting and the fear in the one image, and no way on earth to know which was the true one." I got it two paragraphs ago.
+The cost: zero heat, and a long run of quiet. That's chapters 41, 42, 44, now this. Ch43 was Randi's, but still nobody's touching anyone. I'm hungry. The Sheri banter about legs and "Christmas" gave me a flicker. I want Vee and Pace in a room, and I want the January term and night Anthro. The recovery scene is a bit procedural (freezer bags, the mop), but the engine on the highway landed hard.
 
-The new beat that matters: no word from Pace across the whole break, and she doesn't know if they're over. That's real stakes. And the sad part is that Pace presumably has no idea he's supposed to call. I want him to hear himself. I want Randi and Vee in a room. Term starting is the hook, and it's a good one: "the day the term started."
-
-GATE 44 — Old Acquaintances
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
+CAPTURE: 8
+NEXT: 8
 HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "She went to the pictures instead." (the point where the chapter circled back through the same phone-and-empty-field beat from ch41)
-WHY: The ironic mirror with Randi's text and the invented blonde in the sheet are real, and I'm still owed night Anthro and a real kiss. But this is a second solitary, recycled, heatless chapter in a row, and I'll skim if the next one doesn't move.
+ROMANCE: 3
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
+WHY: Pace finally breaks and Daphne explains the withholding, and the truck going past made me ache. But it's the fourth quiet chapter in a stretch, so I need heat and the two of them in a room very soon.

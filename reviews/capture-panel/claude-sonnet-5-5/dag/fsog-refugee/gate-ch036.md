@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 04d81f4dffad · dated · 2026-10-31*
+*capture-dag-v2-rich · gate ch036 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · dated · 2026-11-01*
 
 REACTION
 
-Oh. Oh, there it is. Finally Randi and Pace in a room, and finally the machinery shown from the inside, and it hurts exactly the way I hoped and feared.
+Oh. Oh, that's good. After the last four chapters of Vee floating and Randi and Pace doing their thing, this is the first time the world pushes back on any of them.
 
-The first half is almost a gift: Pace asking "Is she all right?", then "She consents, every time, or I'm done." I exhaled at that. He isn't the villain here, and he checks. But I notice what he's checking. He asks about Vee's happiness and Vee's consent. He never asks Randi what Randi wants. And Vee doesn't know she's being consented *for*. "She's choosing it every Saturday" is true only inside a frame she can't see. I'm holding that, hard.
+It's a quiet chapter, and the cold lecture hall opens it well. Then the glass room, the graph, MIRA, and Randi going still. I know that stillness. It's the same one from her on Pace's chest in ch 21. Her father is the outlier. The thing she grew up inside is the "cheating bastards," and for once it came out ragged and unpracticed. That's the first real crack in Randi that wasn't about Vee. I've wanted her interior and I still don't have it, but I got a flash of what it's standing on. Old money, and not clean. Cassie's dad was laid off. Randi's dad took the loans. Vee is sitting between them, loving both, and now she knows something neither of them knows she knows.
 
-Then the kissing. "I'm doing it for you." "I didn't ask who it was for." "You don't have to do it for me," said kindly, and it went through her like a blade. "But I'm doing the work," and she comes. God. That's the most honest line anyone has said in this book. And then "God, I want her," out of her mouth, and she backpedals into "for us." He's blind, or he's choosing not to see. He says "I am" to "aren't you?" and my heart sank for her.
+What I loved is that Vee did the kind thing. She handed Randi the busywork and never said the name. It's tender and it's the best of her. It also made me wince, because Vee is the one person here who is being careful with Randi, and Randi is the one person here who isn't being careful with Vee. That irony is going to hurt later. Vee is now holding a secret from Randi, her second, and it's a kind one.
 
-The green satin. Randi taking Vee's underwear, crying, "hormones," not letting him do anything, eyes on the wall. And Pace deciding the grief is about *him*, that she's jealous he keeps a thing of Vee's. Oh, you sweet brilliant idiot. She isn't grieving that she has nothing of Vee's to keep. She's grieving something much bigger, and he filed it under hormones. And "let it be hormones" is the same silence he gives Vee. He's lovely and he's missing everything.
+My only pang is that I've gone three chapters without Pace and Vee in a room, and I missed him. Ch 36 was the last time Randi and Pace were together, and that one wrecked me. The green satin and "it's hormones" are still sitting in my chest. I'm also still waiting on the credit card and the scar.
 
-The last beat: the drawer, shut with two fingers. The scrunchies, the home he made Vee, and he quietly closes it. That felt like a small cold omen. Also the coffee, untouched.
+But this chapter did what the book needs: it made Randi a person with a past that can bruise. I'm keen.
 
-Heat was real, but it's heat with a wound in it, and I liked it more for that. My fury at Randi has turned into something more like grief. I need someone to tell her. I need Vee to find out, and I'm dreading it.
-
-GATE 36 — Four
+GATE 37 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none. The nearest was Pace using Vee's brunch confidences, "Well. She told me first," and the "threesome" planning over her, which I winced at but which is the book's whole engine.
-WHY: Finally Randi's interior, and Pace asking about consent while still not seeing her. "I'm doing the work" and the green satin are the best things in the book so far. I want the next chapter badly, and I'm scared of what it costs.
+CAPTURE: 8
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: Randi's stillness at her own father's name gave me the first crack in her that has nothing to do with Vee, and Vee's quiet kindness in not saying the name was lovely. Zero heat, but I didn't feel the lack. I want Pace back in a room with Vee, and I want to know what Randi does with this.

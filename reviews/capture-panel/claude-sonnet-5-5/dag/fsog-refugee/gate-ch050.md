@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch050 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch050 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · dated · 2026-11-01*
 
 REACTION
 
-Oh, this one is a soft landing, and I needed it after the last few. After the doorstep, the cashmere, and "Missed a spot," I wanted Vee in a small ordinary room with someone who loves her, and I got it. Cassie turning the whole chair around is the most tender gesture in the chapter. "Pace. Shrank your sweater." Cassie laughing out loud made me grin.
+Oh, this is a breather, and a pretty one. The sun porch, Kayla's waffle grief, Meg's maple bacon story. I like these girls, and I like Vee sitting in the middle of them being easy and loud. Her spending the Christmas money without doing arithmetic is a small, real marker of how far she's come from the starving girl on the jacket.
 
-But I noticed the sweater story. Vee tells it with a perfectly good cover: wool, water too hot, doll-sized, which is why she wore his shirt, which is why the toast burned. It's tidy and funny. I know what really happened, so I know she left things out. She skipped the coat and the doorstep. She skipped the strange small thing about the taste, and she skipped "why does he like it so much." She told Cassie "nearly everything" and the "nearly" is doing real work. Her promise to herself to tell Randi is also still sitting there. I'm uneasy about that, because I'm not sure Randi is the safe person to hand it to.
+But I'm watching what she left out. She told the flashing story as a funny story and gave "we talked all night" as the size of it. The drive, the fight and the unsaid word all stayed home. That's her right. Still, "we're better than we were" sat on the table "looking exactly true," and I flinched at that phrase. He still hasn't said it, and she's smiling anyway. I'm nervous for her being this happy.
 
-The wall. Her arm goes out and hits cold cinderblock after two nights of acreage, and she's asleep before she decides to be. That's the right ache. She's happy, and this is the first time in a while I've felt her happiness without a hook in it. I also love that Pace remembered Meg's boots and "talk the paint off a wall." That felt like his answer to her question, in his language. He didn't say the word, but he's doing the thing, and I can see her stop needing it for an evening.
+Then the dread arrives. "He's handling it." Wednesday. Pace, Randi and Vee's whole circle at one table, and Vee is the only one who doesn't know. She was thrilled to say "he's handling it." I want that dinner badly, and I'm scared of it.
 
-Still, nothing has been said. Nothing is resolved. He said "I'm sorry," and that's all. And the party he's picking the place for is going to put Randi and Pace and Vee in one room. I'm braced.
+I miss Randi. She was barely mentioned, and Vee and Randi haven't been alone since the kiss at the door. I also want the taste thing told to someone. Nothing here was hot, but it was warm and I liked it. It just isn't moving anything.
 
-It's quiet, and the heat is zero. I notice how long it's been since Vee and Randi were alone, and the gap since Randi and Pace is long too. I want that collision.
-
-GATE 50 — Unpacking
+GATE 51 — Across
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 8
+NEXT: 9
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: A gentle exhale with Cassie, warm and funny, and it kept the sweater-cover and the "nearly everything" as small dread under the cozy. I'm keen because Pace is arranging a room with everyone in it, Randi included, and I know what nobody has told Vee.
+WHY: A pleasant, sunlit chapter whose real job is setting the table for Wednesday, and the dread under it is what I'm reading for. I'm keen for the dinner, and for Randi to turn up.

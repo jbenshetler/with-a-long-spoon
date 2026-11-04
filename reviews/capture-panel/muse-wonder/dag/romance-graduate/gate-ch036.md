@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch036 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha b29cb00cede3 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch036 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-11-01*
 
-REACTION —
+REACTION
 
-Oh, this one made me feel slightly sick in the exact way this book keeps doing, and I could not have stopped mid-chapter if I'd tried.
+Okay, after chapter 36 I expected to still be sick about Randi crying over Vee's panties in Pace's bed — and I am, that hasn't gone anywhere — but this chapter did something quieter to me and I almost resent how much it worked.
 
-We've been in Vee's head so long, warm inside her version of Saturdays, and then this just — flips the table over. I'm sitting on Pace's couch in the dark while Randi tells him, in detail, what Vee told *her*, in the order she told it, and listens to him get hard off it. The food thing. The sleeping thing. *She told me first.* That little flat competitive note under all the warmth. I felt my stomach drop. Vee thinks that booth is the one place she doesn't have to edit herself.
+It's Vee protecting her.
 
-And Randi. God. Randi.
+Not telling her. Not making a big noble speech about it, not even letting Randi know she'd been seen. She just... slides the laptop toward herself and starts handing out logistics like sandbags. *Who takes which section, how do we frame it.* Gives her somewhere to put her hands. I sat there reading that with my throat actually tight, because that's real friendship, the unshowy kind, and Vee does it instinctively, before she's chosen to. She turned and looked before she chose to look, and then she *chose* not to have seen it. That tells me more about who Vee is than three chapters of her being brave in a bedroom.
 
-The goodbye kiss section nearly killed me. Not because it was hot — it was, obscenely, her describing waiting with her eyes... Vee standing in the sun with her eyes shut waiting for her to come back — but because I watched her try to sell it to Pace *and to herself* in real time. *I'm doing it for you. For the threesome. It's work.* While she's literally clenching on him saying it. And then Pace, kind Pace, exact Pace, says the one careless kind thing — *You don't have to do it for me* — and she comes instantly and then can't unsay the real thing five minutes later. *God, I want her.* Into the couch. Then scrambling to put "for us" back over it.
+And Randi. God. "Cheating bastards," to the screen, too near to be meant for strangers — I heard that. That wasn't the polished girl who can reframe anything in half a sentence. That was a daughter reading her own name — her *full* name, the one nobody uses — over her father's fraud and having to nod along while Cassie, who cannot see the screen and cannot know, uses it as proof. Cassie isn't cruel there, she's just right in the flat way she's always right, and that's what makes it unbearable. Randi has to sit and take agreement as a blow.
 
-I believe her more in that unguarded second than I've believed anything she's said at brunch. I also want to shake her. Ask her. Ask Vee in daylight. Stop translating it into a threesome Pace can approve of and a friendship Vee can approve of. She is going to break this girl's heart in a language Vee doesn't even know she's learning.
+What got me is that this reframes her a little for me, and I don't entirely want it to. I've been furious at her for chapters — the hand under the skirt, telling Pace in bed, "I'm doing it for *you*" while she's coming apart over kissing Vee. I still am. But a girl who grew up inside *that*, inside money taken under her own name stacked company on company, who learned early that you make a true thing truer with the right image... of course she stage-manages. Of course she thinks love is something you arrange and present well. That doesn't excuse a single thing she's done to Vee. It just makes her sadder to look at, which is worse, honestly. I preferred her as the villain I could be cleanly mad at.
 
-Pace though. Pace is starting to genuinely frighten me in a quieter way. He is *so* good at reading a body and so determined not to read a situation. He hears Randi say *Don't ask me in that voice*, he hears *she consents every time or I'm done* come out of his own mouth like that's a clean ethical line — while he's getting a secondhand feed of a girl who thinks she's confiding in a friend! He watches Randi unravel, watches her pull tighter and tighter on his arm like she's trying to climb inside him, tells her *you are extraordinary* because he knows she'll know if he's faking it... and then the morning. The green panties in her fist. Her crying on his chest. Keeping her eyes on the wall. That was not a sexy scene to me, that was a distress flare, and he folds it up — literally folds Vee's panties in thirds and puts them back — and goes *it was hormones* because Randi offered him an exit and he took it. He let it be hormones. I wanted to throw the book across the room for him, not at the book.
+I did feel the quiet of it, though. After the photo chapter and that four-times chapter, a whole chapter in a library with no heat at all — I noticed my thumb wanting to move. The lecture opening nearly lost me; professor clicking slides back and forth is exactly the throat-clearing I bail on. What kept me was the seating. Vee in the middle. Literally in the middle, Randi on her left, Cassie on her right, laid-off father on one side and the loans on the other, and Vee looking at her coffee because the room has stepped somewhere she can't follow. The book keeps doing that — putting the geometry right there without underlining it — and I trust it when it does.
 
-That drawer standing open an inch at the end. I noticed that and haven't stopped noticing it. Did she go looking? Did she find the drawer he cleared for Vee and understand exactly what it meant that his things are crammed below? He decides the house shifted. Of course he does. Houses don't shift like that, Pace, people open drawers.
+And there's something awful underneath my tenderness here that I can't shake: Vee just extended to Randi the exact privacy Randi has never once extended to her. Vee saw the worst, most shameful thing on that screen and deliberately carried it alone so Randi wouldn't have to carry it in front of anyone. Randi hears Vee's most shameful, tender things on Saturdays and carries them straight into Pace's bed. One of them knows what a confidence is. I kept thinking about the sugar on Vee's lip from a pastry she never touched, and now this — Vee holding MIRA shut in her own chest. When this blows up, and it will, that asymmetry is going to be the part that breaks me.
 
-The heat here is undeniable — four times, the couch, her narrating Vee while she's on him, it's explicit and it's psychological and nothing is euphemized — but none of it let me just enjoy it. Every hot beat had Vee's trust inside it being passed hand to hand. What Vee described as *he wants me, with the body attached*, and Randi sitting there getting wet-eyed because no one's ever said that about *her*... That moment before she put the beam back up. That's the whole tragedy in one look. Randi isn't just stealing Vee. She's starving in exactly the same place Vee was, and being fed only other people's leftovers of it.
+I don't need the next chapter to be loud. I need somebody — Cassie, please, Cassie is *right there* on the other side of her — to start seeing the shape. Vee is getting so good at reading people she loves. She's just reading them all in the wrong direction.
 
-I'm furious at both of them and I'm aching for both of them and I need to know what Randi does next Saturday now that she's said it out loud, even if she took it back in the next breath.
-
-GATE 36 — Four
+GATE 37 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 7
+NEXT: 6
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "He let it be hormones."
-WHY: Pace choosing the easy lie Randi handed him after she cried with Vee's panties in her hand nearly made me put it down in disgust at him — but that's exactly why I can't stop, because Randi has finally said the true thing and somebody is going to pay for hearing it.
+ALMOST-STOPPED: "He talked about it in the voice he used for everything, rote, clicking the slide forward and then back to the one before it"
+WHY: No heat at all and I still stayed for Vee quietly deciding what kind of friend she is — that bought the book another chapter. But it's a quiet one after a gut-punch, and if the next one is quiet too I'll start skimming for the collision I'm owed.

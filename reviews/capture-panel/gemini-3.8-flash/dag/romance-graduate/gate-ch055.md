@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-10-24*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
 
-REACTION:
+REACTION
 
 I am sitting here with my hand over my mouth.
 
-This is the psychological exactness I signed up for, laid completely bare. It is suffocating, it is achingly vulnerable, and it hurt in the absolute best way.
+I *knew* the jacket said "What Vee does not know is that Randi and Pace chose her together... Vee is a willing player in two games. She doesn't know there are three." I *knew* it. I read the jacket. But seeing it happen—seeing Thursday night cut from Vee lying in her single bed, trying and failing to taste herself, straight into Randi riding Pace and using Vee's name as dirty talk—completely knocked the wind out of me.
 
-The progression of this whole sequence—starting from the bedroom on Saturday when she recoiled from his wet mouth, to the booth on Thursday where Randi dismantled her safe little "gross/wrong" defense by saying *I don't* and *it was powerful*, to Vee alone in the radiator-stifled dorm room trying to close the gap herself—is just masterclass writing. It would have been so cheap, so typical of a lesser romance, to have her just taste herself and have an instant cinematic revelation. Instead, rivers gives us the raw, ugly truth of shame: the fingers glistening to the knuckles, the sticky strands bridging the gap, the smell that isn't the locker-room stink the world told her she was made of, but warm, alive, like a hothouse.
+The whiplash between Chapter 55 and Chapter 56 is diabolical. In 55, Vee is in Cassie's drafty dorm room, wrapped in Pace's oversized flannel, agonizing over whether she's a pervert because she almost licked her own fingers, holding Randi up as this untouchable, cosmopolitan goddess of sexual self-possession. And the entire time, Randi left their Italian dinner, drove straight to Pace's house, threw the deadbolt, and let him eat her out until she tasted herself on his mouth just to outdo the story Vee told her across the white tablecloth.
 
-And then she brings it to her mouth, her tongue touches her lips—*and she can’t close the distance.*
+"Look at you, using me like your fuck doll." That line pulled me up short for half a second—it felt almost jarringly crude for Randi’s usual deco-silk banter—until I realized what they are doing. This isn’t a warm romance. This is feral, mutually obsessive triangulation. They are fucking each other *through* her. When Randi cupped her own breast and talked about wanting Vee’s nipple in her mouth, and Pace sucked Randi’s nipple while driving up into her? Jesus Christ. The heat was blistering, but the psychological rot underneath it is what makes it impossible to look away.
 
-That freeze. That single breath's width between her tongue and her fingers. It gutted me. It’s twenty-one years of conditioning, of her mother's voice, of feeling like her body is an "excess" that requires an apology, crashing into the reality of two people who are trying to teach her to take herself whole. And the fact that she wipes her hand on the sheet, finishes herself off in a kind of desperate, isolated frenzy, and then intentionally slides her hip over the cold, damp stain to sleep on it—*Her mess. Hers to lie in. Her mouth was still empty.*
+Pace admitting Vee makes him happy, Randi calling him out on being in love with her ("She’s not the only one in love"), and neither of them blinking. They aren't trying to push Vee out; they are both completely obsessed with her, completely addicted to what she does to them, and using each other as a conduit to hold the charge because neither of them has the courage or the permission to take the whole thing into the daylight.
 
-God. The erotic charge here wasn't just physical; it was an identity crisis happening at the level of skin and scent. She is being pulled open by Pace's absolute, unapologetic devotion to her body, and coaxed out of her shell by Randi's sophisticated permission, and yet when she is left alone with just herself, the door is still half-shut. The tragedy of her thinking she’s just "greedy" when she is actually starving for her own self-acceptance.
+The devastation waiting for Vee when this glass house shatters is going to be biblical. She’s over there worrying about whether her roommate can smell her arousal, and these two architects are trading her like a shared high. I feel sick, I’m sweating, and I have never wanted the next chapter more in my life.
 
-I need to see what happens when she’s back across from Randi on Tuesday. She didn't cross the threshold alone, which tells me someone else is going to have to lead her across it.
-
-GATE 60 — The Reach
+GATE 56 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The tension between her physical desire and deep-seated sexual shame was agonizingly real; that aborted inch between her fingers and her mouth was hotter and more devastating than twenty full-blown sex scenes.
+ROMANCE: 1
+ALMOST-STOPPED: "Look at you, using me like your fuck doll."
+WHY: The jump from Vee's solitary, agonizing bedroom hesitation straight into Randi and Pace violently using Vee's body as their shared dirty talk was an absolute masterclass in erotic suspense. It's twisted, psychologically devastating, and blisteringly hot.

@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh, God. Oh, *Vee*.
+Oh, god. This hurt. This hurt so much worse than a screaming fight, because it’s the quiet, bleeding truth of what happens when a girl is in so deep she’s picking fights she doesn’t even want just to see if the walls are real.
 
-This chapter broke a little piece of my heart, and it did it without a single raised voice or slammed door. Just the steady, quiet hum of a dryer in a dorm basement and a girl realizing that the safest, warmest thing in her life might have a hard, invisible wall right down the center of it.
+When she snapped in the dark—*“If we’re just sex, I’d like to know”*—my whole chest seized. It was unfair, it was sharp, she was rewriting the past because she was terrified, and what did Pace do? He didn't yell. He didn't get defensive. He went still, took her seriously, and offered to take her wherever she wanted *right now*. That’s him down to his bones: a problem presented, a problem solved. But a noisy Chili's booth under blaring TVs and dead nachos can't fix a soul that is starving for emotional definition. Seeing him struggle with sensory overload, his eyes dragged to the screen, the fork being turned over and over—and her misreading his sensory exhaustion as boredom with *her*—was agonizing.
 
-That moment on the sun porch made my stomach drop. She gave him her whole heart in disguise. She crafted this gorgeous, vulnerable, completely sincere metaphor—*“I had been eating crackers my whole life, and you fed me a meal”*—she offered him her soul on a plate, and what did he hand back?
+And then the quiet in his living room when he just laid it out: *"That restaurant—places like it—they're too loud... In a room like that I listen as hard as I know how and I still can't hear you."* God, I love him for that. He isn't cruel. He isn't dismissive. When he listens, he listens with everything he has.
 
-*"I love how good we are together. What you do—what your body does—I've never."*
+AND YET.
 
-He reduced her total, emotional awakening to *technique* and *physical compatibility*. And the sickest part is, he probably thought he was being generous! Or worse—knowing what we know from the chapter before, with him and Randi on the couch—he knew *exactly* what line he couldn't cross. He dodged it on purpose because he knows what this arrangement is, even if he's getting caught up in it. He took her heart and tucked it right back into the bedroom, right back into "what her body does."
-
-And her body *knew* it. That small *wait* behind her breastbone? That is the most honest, painful writing in this entire book. When someone you adore fails to meet you where you just jumped, and they hug you tight so you can't look at their face, and you just have to lie there against their shoulder while the sun comes up, feeling the chill anyway. You know you've been handled. You know you've been managed.
-
-The contrast with Cassie at the beginning set it up so sharply. Vee sitting there trying to explain him to her dad, realizing she can only give them a cropped version of her life because the real thing is too "weird." She's cropping her life for her parents, she's cropping her feelings for Pace, and now she has to pack this gorgeous, brave sentence away in the dark with all the other little doubts she's accumulating.
-
-It’s the title of the book in action: *A warm reception is also what you call walking into fire.* She felt the warmth, but she's getting burned, and she doesn't even have the words to scream yet. I need the next chapter immediately.
+The end of this chapter ripped me up. She gets the incredible, tender, completely shattering sex—she gets him losing his ironclad control, which she had been practically begging for—and then she’s lying there, sticky with him, cooling off in the dark, and the bottom falls out. *"He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."* That is the loneliest sentence in this entire book. She's his in every physical, emotional, spiritual way, but she doesn't have a *name* for him. She can't tell her dad. She can't say "boyfriend." And underneath all of this, the reader knows what she doesn't: that the reason it has no name, the reason he won't say *I love you*, is because she is trapped in a design she doesn't even know exists. He took her apart, gave her everything, and held back the one thing that would make her safe. I am aching for her.
 
 ***
 
-GATE 39 — Cropped
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The emotional tension here is devastatingly good. Watching Vee bravely reach for him with that meal metaphor, only to feel him smoothly deflect her love into mere physical appreciation, was agonizing and completely gripping.
+WHY: The psychological honesty of Vee picking a fight out of sheer emotional starvation, contrasted with the sheer physical intimacy of him losing his control in bed, was excruciating and brilliant. I desperately need to see when the truth finally cracks open.

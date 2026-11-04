@@ -1,28 +1,32 @@
-*capture-dag-v2-rich · gate ch037 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch037 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha c4680406e3c7 · dated · 2026-11-01*
 
 REACTION
 
-Okay, after chapter 36 I expected to still be sick about Randi crying over Vee's panties in Pace's bed — and I am, that hasn't gone anywhere — but this chapter did something quieter to me and I almost resent how much it worked.
+Okay, this one got me in a completely different place than the explicit stuff usually does, and I think that's why I can't stop thinking about the shirt.
 
-It's Vee protecting her.
+The reunion first — yes, God, yes. Five nights and her body just *publishes* it, that was the exact right word. No coy slow build where she's pretending she was fine studying, no "oh I missed you" dialogue doing all the work. She's towing him down the hall by his shirt, jeans stuck at her hips, socks, bra caught, laughing, undignified, and he just slows her down without stopping her. That slowness of his still does something stupid to me. He has all that want right there and he still takes his time with her breasts, her neck, waits her out. And then she comes embarrassingly fast and he's pleased about it, not smug. I believed every second of that hunger because she was embarrassed by how obvious it was.
 
-Not telling her. Not making a big noble speech about it, not even letting Randi know she'd been seen. She just... slides the laptop toward herself and starts handing out logistics like sandbags. *Who takes which section, how do we frame it.* Gives her somewhere to put her hands. I sat there reading that with my throat actually tight, because that's real friendship, the unshowy kind, and Vee does it instinctively, before she's chosen to. She turned and looked before she chose to look, and then she *chose* not to have seen it. That tells me more about who Vee is than three chapters of her being brave in a bedroom.
+And then pizza. I know. I know how that sounds. But watching him cook when he's not performing it — he'd make it that exact same way alone, the care is just what his attention looks like — that's more intimate to me than another speech about how beautiful she is. She can taste everything separately now. Of course she can. That's the whole book in her mouth. She used to just *eat*, just have sex, just get through a body. Now she's awake inside it and she can't go back to cotton candy. Randi said that to her over brunch, Pace lives it, and here Vee finally says it herself without anyone feeding her the line.
 
-And Randi. God. "Cheating bastards," to the screen, too near to be meant for strangers — I heard that. That wasn't the polished girl who can reframe anything in half a sentence. That was a daughter reading her own name — her *full* name, the one nobody uses — over her father's fraud and having to nod along while Cassie, who cannot see the screen and cannot know, uses it as proof. Cassie isn't cruel there, she's just right in the flat way she's always right, and that's what makes it unbearable. Randi has to sit and take agreement as a blow.
+But the shirt. Jesus.
 
-What got me is that this reframes her a little for me, and I don't entirely want it to. I've been furious at her for chapters — the hand under the skirt, telling Pace in bed, "I'm doing it for *you*" while she's coming apart over kissing Vee. I still am. But a girl who grew up inside *that*, inside money taken under her own name stacked company on company, who learned early that you make a true thing truer with the right image... of course she stage-manages. Of course she thinks love is something you arrange and present well. That doesn't excuse a single thing she's done to Vee. It just makes her sadder to look at, which is worse, honestly. I preferred her as the villain I could be cleanly mad at.
+She washed his flannel because it stopped smelling like him. She slept in it every night she wasn't there, breathed it down to nothing, panicked in this quiet private way, and then brought it back and had to stand there and ask him to wear it all weekend to recharge it. *This is still my shirt. You don't get to keep it.* I felt that in my chest. That's not a cute girlfriend moment, that's her admitting — out loud, to him — how she survives the nights away from him. How needy she is. How far gone.
 
-I did feel the quiet of it, though. After the photo chapter and that four-times chapter, a whole chapter in a library with no heat at all — I noticed my thumb wanting to move. The lecture opening nearly lost me; professor clicking slides back and forth is exactly the throat-clearing I bail on. What kept me was the seating. Vee in the middle. Literally in the middle, Randi on her left, Cassie on her right, laid-off father on one side and the loans on the other, and Vee looking at her coffee because the room has stepped somewhere she can't follow. The book keeps doing that — putting the geometry right there without underlining it — and I trust it when it does.
+And he just... puts it on. Over his other shirt. In his warm kitchen. Immediately. No teasing her for it, no making her explain it prettier, no "you're obsessed with me" joke that would make her shrink. He hears the whole humiliating truth underneath the request and gives her exactly what she asked for: *All weekend. Smelling like me.*
 
-And there's something awful underneath my tenderness here that I can't shake: Vee just extended to Randi the exact privacy Randi has never once extended to her. Vee saw the worst, most shameful thing on that screen and deliberately carried it alone so Randi wouldn't have to carry it in front of anyone. Randi hears Vee's most shameful, tender things on Saturdays and carries them straight into Pace's bed. One of them knows what a confidence is. I kept thinking about the sugar on Vee's lip from a pastry she never touched, and now this — Vee holding MIRA shut in her own chest. When this blows up, and it will, that asymmetry is going to be the part that breaks me.
+That's why his silence both undoes me and terrifies me, still. Because when it's good, it's this — he doesn't say the word, he *does* the thing, he clears the top drawer, he wears the double shirt, he makes room without making her beg for room. I can absolutely see why Vee has decided she can live inside what he does and not starve for what he says. Lying next to him last chapter deciding she loves him, and now this... she's building a whole domestic religion out of these acts. Drawer. Scrunchies. Shirt that travels back and forth. She's not a guest anymore and they both know it and neither of them has said it.
 
-I don't need the next chapter to be loud. I need somebody — Cassie, please, Cassie is *right there* on the other side of her — to start seeing the shape. Vee is getting so good at reading people she loves. She's just reading them all in the wrong direction.
+Which is also the rot, isn't it? Because a drawer and a scented shirt feel like permanence to her, and I know what she doesn't: that Randi was just in that house Monday, in that bed, crying with Vee's green panties pressed between them, and Pace folded them back into *his* second drawer and pushed Vee's drawer shut and called it the house settling. So I'm sitting here melting over him wearing the flannel for her while also wanting to shake him until his compartments rattle. He can be this tender, this exact, this attuned to a woman's unspoken need in his kitchen — and still not see, or not let himself see, what it will do to her when she learns her ordinary was staged from before she ever walked into it.
 
-GATE 37 — The Outlier
+I'm proud of her, though. That's new. She chose the five nights for school, she lasted them even though she hated it, she came back and she *asked* for the shirt thing instead of just quietly stealing another one or suffering. That's Vee using her voice for a want that isn't even sexual, just... attachment. Plain need. She didn't dress it up.
+
+I texted nobody but in my head it's just: he put the shirt on over his clothes and I would marry that man and also he is going to destroy her.
+
+GATE 38 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "He talked about it in the voice he used for everything, rote, clicking the slide forward and then back to the one before it"
-WHY: No heat at all and I still stayed for Vee quietly deciding what kind of friend she is — that bought the book another chapter. But it's a quiet one after a gut-punch, and if the next one is quiet too I'll start skimming for the collision I'm owed.
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The sex was hot because she was shameless about needing it, but the shirt — her asking, him just wearing it without making her defend it — turned the bond for me. I don't trust his silences anymore, and I still want to live in his kitchen.

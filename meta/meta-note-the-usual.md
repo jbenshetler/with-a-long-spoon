@@ -156,7 +156,7 @@ Pace alone after {{The Usual}}: the bodily cost of trying to drink Vee away, the
 ### Continuity
 
 - Morning after {{The Usual}}, during the silence that follows {{Believe Me}}; before {{My Friend Randi}} and {{Nothing Underneath}}. Pace may fear Vee is gone, but the narration cannot declare a definitive breakup he does not know has occurred.
-- The crackers-and-meal declaration is in {{Cropped}}'s porch movement. Pace's first-bite memory echoes his admission in {{In His Hands}} that he thinks about Vee's face when she tastes something he made and that remembering her is pale beside her presence.
+- The crackers-and-meal declaration is in {{Cropped}}'s porch movement. Pace's first-bite memory echoes his admission in {{Above Him}} that he thinks about Vee's face when she tastes something he made and that remembering her is pale beside her presence.
 - Daphne predates Pace's house and his ability to cook his own food. The *prison food* memory therefore belongs to a later girlfriend.
 - Hold the truck until after the *Whiskey River* beat.
 

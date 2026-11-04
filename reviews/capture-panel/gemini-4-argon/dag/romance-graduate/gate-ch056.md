@@ -1,27 +1,20 @@
-*capture-dag-v2-rich · gate ch056 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
+*capture-dag-v2-rich · gate ch056 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 834cd31f79a4 · dated · 2026-10-24*
 
 REACTION
 
-OH MY GOD. This is happening on the *exact same night* as Chapter 55! While Vee is in her dorm room in Pace's flannel shirt, freezing by the open window, stopping a breath's width away from tasting her own fingers because she can't get past the conditioning, Randi goes straight from her Thursday dinner with Vee to Pace's house for the first time in two months!
+Oh, I *loved* this chapter. After the absolute five-alarm, throat-tightening emotional and erotic nuclear bomb of Chapter 61 with Pace and Randi, this was the exact right change of weather—and somehow it made me fall even harder for Pace while giving Vee so much more room to breathe.
 
-And the contrast between them in bed—it’s not even a contrast of better or worse, it’s a direct echo. Randi didn't just tell Vee at dinner *"It was powerful. It turned me on"* about tasting herself; she literally goes to Pace's house that night, comes on his mouth, pulls him up to kiss her with no hesitation, licks his lower lip clean, wipes the corner of his mouth with her thumb and puts it between her own lips (*"There. Now it's mutual"*), and then at the end of the chapter licks their combined mess off his stomach, thigh, and cock until he's hard again! Where Vee ended Chapter 55 with *"Her mouth was still empty,"* Randi is out here taking all of it, unapologetically, with that dry teasing humor intact (*"Subtle." / "Elegant."*).
+First of all, watching Vee arm herself in Meg's keyhole top, a borrowed mini-skirt, and Randi's induction stilettos in the middle of January to go do battle with a 5'10" imaginary blonde model, only to come face-to-face with five-foot-nothing, permed, bleached-root, loudmouth Sheri? Priceless. The moment Sheri gives Vee that slow, unapologetic, top-to-bottom queer appreciation look—stopping at the keyhole, taking her sweet time down the bare January leg, and landing on Randi's strappy black heels with a soundless, appreciative *oh*—and Vee just bursts out laughing because she realizes *she's not pricing me, she's enjoying me*... I was grinning like an idiot. And then Sheri turning to Pace with *"And you get to motorboat them things?"* and making Pace blush all the way into his ears! We've seen this man run a sexual high-wire act, dominate two women, and command a room, and watching him go red-eared and rub the back of his neck while Sheri roasts him about *"the philosophy of his food"* and *"bet those legs feel like Christmas"* did things to my heart.
 
-And the dirty talk about Vee while Pace is lifting Randi up and down on his cock?! I am sweating. When Randi says *"I miss her during the day. More at night,"* and Pace doesn't even flinch, just says *"She kisses me first now"* and *"She looks at you, too"*—my jaw was on the floor. They are finally talking about her out loud, in bed, while fucking! And when Randi grabs her own breast and says *"Her breast in my hand. All that softness. The weight of it... And her nipple in my mouth,"* and Pace sucks Randi's nipple right then to make her come, and then loses *his* control and comes inside her when Randi says, stripped of all humor, *"I want her to know exactly what she does to me"*—holy shit. That is peak heat and peak emotional turn at the exact same time.
+And then the gut-punch in the middle of the laughter. Sheri dropping her volume as soon as Pace walks to the bar: *"Whole tablecloth come off the table and nobody caught a dish."* What a line. Her Marine dad, her brother, her mother, her church, her Bible study—all gone inside a month when she came out last March. And how Pace became her friend: driving her home from the dance hall in silence when she broke down crying mid-two-step, showing up the next morning with coffee and donuts, fixing her lock and her dripping faucet, asking her to ride bikes on Sundays, buying her a bacon cheeseburger, and never giving her one single fake platitude. Because *"went bad with his daddy. He hasn't been home since he was sixteen."*
 
-Also, that quiet beat in the middle when she kisses the center of his palm:
-*"You know she loves you, right?"*
-*"She hasn't said it."*
-*"She doesn't have to."*
-*"She's not the only one in love."*
-Wait—Randi means *Pace* is in love with Vee (and Pace can't tell her she's wrong!), AND Randi is in love with Vee too! The double meaning is sitting right there on his palm. And notice the little dance of control between Pace and Randi: just like John in Gstaad made Randi realize Pace's lead is light and demanding, here they trade the lead back and forth (*"My turn"* when he lifts her by the waist and makes her wait an inch in; *"You're still leading"* after she comes; and then her taking his hands off her waist and pinning them to the mattress so she can take command for round two). And Pace kissing the inside of Randi's wrist when she folds over him—right after Vee told Randi at dinner how Pace stayed on the inside of *her* wrist!
+Wait—*he hasn't been home since he was sixteen?!* And that's every word of it Sheri has after two years! And then Vee in the truck at the end, tipsy on hard cider, putting together the pieces: the porch she's never seen, the thirty miles of nothing, the dog he told her about earlier—wait a minute, if he hasn't been home since he was sixteen, what was the Thanksgiving story about thirty miles of nothing and a dog? Or was that from before he was sixteen, or where he went *after*? Either way, watching Pace hold his headlights on Sheri's duplex door until the porch light comes on, and Vee realizing *"It read as affection. It worked as ballast. With him, she was coming to understand, those had never been two different things"*—ugh, this man. Even knowing what he and Randi were doing forty-eight hours earlier, you cannot doubt for one second how deeply, genuinely good he is to the people he keeps. Plus, Valentine's Saturday at the country dance hall is officially on the calendar!
 
-Everything is converging. They both want her, they both know the other wants her, and Vee is back in her dorm room dreaming of both their mouths without letting herself name it. Give me the next chapter immediately.
-
-GATE 56 — My Pleasure
+GATE 62 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Simultaneous Thursday-night counterpoint to Chapter 55 where Randi breaks two months of silence with Pace, lives out the exact unashamed appetite Vee just stopped a breath shy of in her dorm room, and brings both of them to orgasm by confessing out loud what she wants to do to Vee's body. The emotional honesty when she kisses his palm and tells him *"She's not the only one in love"* made my heart ache right in the middle of one of the hottest scenes in the book.
+WHY: Zero explicit sex needed when the character work is this rich and funny and devastatingly tender. Sheri is a triumph of a character on arrival, the comedy of Vee's imaginary blonde evaporating into thin air was pitch-perfect, and learning how Pace showed up for Sheri after she was disowned (and that he hasn't been home since sixteen!) deepened their bond immensely.

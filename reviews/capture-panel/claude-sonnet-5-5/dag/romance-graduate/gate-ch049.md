@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is a sneaky one. Three chapters of explicit, then a kitchen with nobody touching anybody, and it's quieter than anything in the last stretch. I'm still leaning in.
+Oh, this is a gut-punch disguised as a cozy chapter, and I loved being the only one in the room who could feel it.
 
-What got me: Pace, back to his old tricks, except they aren't tricks. He remembers Meg's boots. He remembers the heel lifting out of the right one. "Kayla's the one who can talk the paint off a wall?" He's been listening the whole time, and I believe it, which makes him harder to stay furious at. And "I want to meet your people" is the closest he's come to answering her December question. It's a *no-word* answer again, a deed. "Believe what I do." He's still not spending the word, but he's building her a room where it could be spoken. I can't tell if that's growth or a better dodge. Ask me in two chapters.
+Vee does the thing I wanted to scream at her about. She gives Cassie a charming, funny, edited version: the mushrooms, the persimmon salt, and a sweater shrunk to doll size. The "we talked" is a flat lie. She never mentions the shirt, the coat, or the mouth. Worst of all, she swaps "I left the bag in the car" for the real story. The sweater story is a cover for being naked, and she built it fast and well, and Cassie laughed at it. That laugh is what hurts. Cassie laughed at the joke, and "the record stood exactly where Vee had left it, corrected by nobody." The book wants me to notice that, and I did.
 
-And Vee is the one who sees it. She hears "your people" and it arrives as *Randi*. Then the Cassie problem, the "good sport" thing, and the nachos picture, which she lets stand on its own. "Will you pick the place?" is her quietly handing him the loud-room lesson he didn't hear, and he's unaware she's doing it. I love that she's doing the work without making it a fight this time.
+The small things are doing the real work. Cassie's mother says thank you for the card and asks when she gets to see Vee. That lands on Vee like "a hand cupped at the back of her neck," and she refuses to look at it. Then there's the bunk. Her arm goes out and hits cinderblock a hand's width away. Two nights of all that acreage, and now this. And she's content, which is the sad part.
 
-The thing I'm chewing on: the three-games line on the jacket. Pace invites *everybody*, which means Randi and Pace in a room together with Vee pretending they've barely met. "About nine words at the coffee shop, most of them math." Oh, the dramatic irony is delicious and a little sick. Randi would be sitting next to the man she's been riding. And Vee casually invites the man who asked her out, which Pace answers with "Bring Theo," flat, no jealousy. Of course. He knows exactly which game he's in.
+Last chapter's dinner plan matters here too. Pace remembered Meg's boots, and he remembered "talk the paint off a wall." He's listening harder than anyone, and he still won't say the one word. Then Vee quietly files away the Chili's nachos and asks him to pick the place. She did learn something. That's the only growth I'm counting.
 
-I'm also still holding last chapter's weird little taste thing in my teeth, and the Brooke ultimatum, and Randi's hand at her mouth. This chapter set none of that off, and I notice it didn't need to. The pressure is in what's *not* mentioned. Still, it's a hushed bridge after a lot of heat, and if the next one is another kitchen I'll start skimming.
+But I'm also suspicious of the "forgot to wipe" taste business from ch48. Vee's pushing it down, and I think the book is planting it. Randi will "know what to make of it." Randi, who is in a spiral of her own after Brooke's "you need to choose," is the one Vee will bring this to. That should be a terrible, wonderful conversation.
 
-GATE 49 — Back
+No heat here, and I'm fine with it after ch47–48. It's a bridge, and it's the right one. But I want Tuesday. I want Randi and Vee across a table, and I want the kiss from ch46 to come up.
+
+GATE 50 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 6
 NEXT: 8
-HEAT: 1
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: A quiet bridge that works because Pace's listening finally shows, and Vee quietly steers around the loud-room problem, with the dinner about to put Randi and Pace at one table while Vee thinks they've barely met. I want the party. One more domestic chapter and I'd be restless.
+WHY: A quiet bridge, but the cover story Vee tells Cassie, and Cassie laughing at it, stung more than the sex did. I'm hungry for Tuesday, Randi's table, and what Vee does with the taste on her lip.

@@ -223,7 +223,7 @@ The Vee-tells-Pace beat is **{{Boyfriend}}** (drafted; the small hours after {{O
 
 # Fall/Spring Restructure — Items Surfaced (Still Life re-home session)
 
-The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring and added two new November scenes ({{In His Hands}}, {{All the Time}}). The "adventure" coinage is now homed in {{Still Life}}'s afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
+The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring and added two new November scenes (*In His Hands*, {{All the Time}}). The "adventure" coinage is now homed in {{Still Life}}'s afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
 
 ## 27. Spring cluster placement — RESOLVED (2026-08-16): weekend compression
 
@@ -240,7 +240,7 @@ Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{B
 
 ## 28. Drafting queue — the two new November scenes + Still Life completion (DRAFT)
 
-- **{{In His Hands}}** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
+- **In His Hands** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
 - **{{All the Time}}** (SATC format-break, ~November) — architecture in `meta-note-all-the-time.md`; prose unwritten. Carries the anthro invite. The SATC title is provisional — the final should emerge from the draft.
 - **{{Still Life}}** — partial draft through the gesso runaway; photo → sex → afterglow unwritten. The afterglow lands the "adventure" coinage.
 

@@ -1,32 +1,34 @@
-*capture-dag-v3-grounded · gate ch042 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 60a5536dc21e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch042 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ca7450e92130 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 9360853fc8f2 · 2026-11-02*
 
 REACTION
 
-There it is. She asks, out loud, to his face, and the chapter lands everything I've been dreading since 39. "Words are cheap. Believe what I do." I actually winced, because that's both the most honest thing he could say and the most useless. He's been telling her this in deeds for forty chapters. Now it's finally a sentence, and it's a refusal.
+Randi's head at last, and it is Gstaad, not the brunch table. I came in braced for Saturday and got a ski lift instead. For about three pages I resented that. Then the fairy-tale started curdling and I stopped resenting.
 
-Vee comes out of her speech well. The "my body comes with me attached" line echoes what she told Randi, and I noticed that. She's using Randi's brunch phrasing on Pace, which is a quiet, ugly irony. "What do I tell my mother, that he feeds me and we have a lot of sex?" is the best line she's had. She lets it be ugly, and she's right to.
+The chapter is a trap, and it's built well. A funny meet-cute with a man who is better than Pace at everything measurable. He skis better, dances better, leads harder, and has the sleigh. Everything she was supposed to want is on a plate, and she says it herself: "Easier was better." Then the sandwich line, "a good sandwich eaten fast on a busy afternoon." The food metaphor turned inside out, and it works. Pace's cooking is the thing Vee can't stop eating, and Randi eats the fast version and feels nothing. Nothing developed. The eyeliner held. I was gutted by that one.
 
-Pace's "Do any of your friends have a relationship you'd rather have?" is the moment I put the book down in my head and glared. It's a debater's answer. It's him dodging, and the chapter lets her say so. Then his arms fold, the line held at cost. I believe it costs him. I still want to shake him. The Daphne wound isn't an excuse anymore, it's a pattern.
+"Pace went straight to her. That was the whole terror of him." That's the line the book had been hiding, and Randi's own mouth finally says it. And then Vee, "something came off Vee across a table on a nothing Tuesday," named plainly as want. The "two ways" paragraph is the best self-lie in the book: Vee hears one thing, Randi means two, so keep the brunches and let the word keep its cover. She is choosing the arrangement over the truth. She has also just told us she'll keep Vee's confidences coming. With Vee raw from Pace, I'm scared for what that arrangement does.
 
-The last beat bothers me in the right way: his hand reaching to settle her, "the hand in place of the word." She sees it and walks out. That's growth, and it's the first time she's refused the hand. Good.
+It does lean on spelled-out thesis. "Safe" three times, the narrator announcing what the nothing means. And "Why, John" as a flirt that she then hears as unlike herself was a little much. Also the dates: this is December 31, after a Friday the 11th walkout, so the brunch I wanted has slid out of view. I'm irritated about that. But this is hot in its absence of heat, and Randi finally has an inner life on the page, which is what I begged for for forty chapters.
 
-Short, charged, no heat, but it's an actual event, and I needed one. The narrator does a bit of explaining in the final sentence, and the opening drive-up goes on a touch. What I want now is obvious: Saturday brunch, Randi, and Vee carrying a raw wound to the one person who will feed on it. I'm scared and I want it badly.
-
-GATE 42 — Believe Me
+GATE 43 — Fairytale
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "none"
-WHY: Vee finally asks to his face and gets "Words are cheap. Believe what I do," and she walks out instead of taking the hand. It's the real break the book has been building, and it sends her straight to Randi's table.
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Her father enjoyed a rare steak and eggs, as he did on vacation." The breakfast-table opening was a flat run of wardrobe and menu inventory before anything charged.
+WHY: Randi's own head, finally, and it turns a perfect sleigh-ride night into a cold, exact admission that Pace "went straight to her" and Vee is the thing she wants. I'm furious about the unseen brunch and desperate to know what Vee did with that raw wound.
 
 LEDGER
-+ LOVE: "What am I to you out there?" and "he feeds me and we have a lot of sex", Vee letting it come out ugly.
-+ GRUDGE: Pace's "Do any of your friends have a relationship you'd rather have?" and "Words are cheap" are a debater's dodge, and I'm angry at him.
-+ LOVE: Vee seeing the reaching hand as "the hand in place of the word" and leaving anyway.
-+ FEAR: Vee walks out raw, crying, into the night, and the next person she tells is Randi.
-~ W40.4 DEEPENED: The break has happened; the brunch is now the morning after a walkout.
-~ F32.3 DEEPENED: She asked for the word directly and he refused it in a sentence.
-~ G40.3 DEEPENED: He answers a direct question with a counter-question and a slogan now.
-~ S33.2 DEEPENED: The crack is now spoken aloud, not just felt.
+~ W11.2 RESOLVED: Randi's own head is finally on the page, in Gstaad, alone with what she wants.
+~ S4.4 SHIFTED: The accent is hers by way of central Florida and money; the polish is built to hide that, not a persona for Vee.
+~ S37.1 DEEPENED: Her father, mother, and the family life she performs for are on the page now, and she eats her revulsion at that table.
+~ W37.5 ANSWERED: Her head about her family shows revulsion and performance, and she never mentions the loans.
+~ S3.3 CONFIRMED: Randi says outright that something comes off Vee that no one else can counterfeit.
+~ S36.4 SHIFTED: Randi's own interior shows Pace is her real want, and Vee a second one, so "for us" is half-true.
++ FEAR: Randi has decided to keep the word "love" in cover and keep the brunches going exactly as they are, so nothing gets said while Vee bleeds.
++ LOVE: "A good sandwich eaten fast on a busy afternoon" and "Nothing developed." The perfect man who lands on nothing.
++ LOVE: "Pace went straight to her. That was the whole terror of him."
++ WAITING: The Saturday brunch after the walkout, and what Vee tells Randi, now pushed past New Year's.
++ SUSPICION: Vee's "thinking about you" text from Ohio shows Vee and Pace may have repaired or still not spoken, and I don't yet know which.
++ GRUDGE: The chapter jumps to Dec 31 and skips the brunch I was promised.

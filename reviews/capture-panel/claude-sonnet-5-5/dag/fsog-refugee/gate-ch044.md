@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch044 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
 REACTION
 
-Oh, that ache. This is the first chapter in a while that made me hurt for Vee without anything happening, and I think that's why it worked. The lavender plug-ins, the twin bed, the swimmer trophies, the picture she cut off at the waist for her mother's phone. "Same picture, one house, and she was the one who had divided it." That line got me. She's living two lives, and she's the one slicing herself in half to keep them apart.
+Oh. Oh, *Pace.* This is the chapter I've been waiting forty chapters for, and it's the first time I've been inside him with no one watching. He's a wreck. He knows exactly what he did. He says it plainly: "He had hurt her because he was afraid of how much she could hurt him." Daphne is the answer I was waiting on, or the start of one. He said I love you once, she left, and losing her took over his life. So he decided the words were the difference. That's wrong, and it's heartbreaking, and it's a reason, not an excuse. It also means the held breath on the porch was exactly what I thought. He heard her. He had the answer whole and chose the smaller one. I wanted to shake him and hold him at once.
 
-But I'm also frantic, because I'm a step ahead and she isn't. The reader knows what Vee is holding and what she isn't. She read Randi's reply as a fairytale and envied it. I just read chapter 43. I know there was no billionaire fairytale. There was a cold bed and a sandwich-fast man and a girl who wished she were home saying "miss your face most." Vee is lying there envying exactly the night Randi is grieving. The identical text appearing in both chapters, and each of them reading it from the wrong side, is brutal. It's the dramatic irony the jacket promised, and I felt it land.
+The truck going past on the road got me. His whole body gathering toward a sound that wasn't her, then sobbing over the frozen chicken and broccoli. And "He ate anyway." That's a man who takes care of himself the way he takes care of everyone, as duty. I believed all of it.
 
-Pace: I'm mad and I'm worried. A whole break with nothing from him. Two weeks. "He left you the room" is turning from the thing she loved into the thing that's hurting her, and I think she's right about that. He heard her fight and shut his arms. He could have texted "I'm here." Is he scared? Bound? Or is he off in his own head thinking she left him? I want him to take one step toward her, because she's imagining a blonde and there's no blonde. I want to tell her so.
+What stung is the dramatic irony. Vee is in Ohio in a twin bed building a blonde out of spite, and he's in a recliner scrolling pictures, wishing for her. Each of them is sure the other has moved on. Nobody's typing the text. It's agonizing, and I'm happy to be agonized.
 
-And the fear of the blonde sliding into her best memory, the sheet and the fra diavolo, was a real gut punch. Not hot, but an honest kind of jealousy that wrecks you.
+Randi, though. He thinks she's coming back when she's ready, that the choosing is hers. He still doesn't see her. And that kitchen picture, the three of them at breakfast, laughing, nobody hurrying: he's imagining it as a good thing. He's wrong about what the room costs, and so is everyone.
 
-I'm tired of the "no name" loop a little. It's the same circle again, and the chapter's circling is slow. But this one had the house and the doubleness to carry it. No Pace and no heat, though, so I'm feeling the gap. The last time they were in a room, she walked out on him crying. I need them in a room.
+Sheri is great. "Not saying it matters more to you than having her. From this seat, that feels pretty shitty." Yes, thank you. I was glad someone said it to his face.
 
-GATE 44 — Old Acquaintances
+Small things. The "big tits" talk and the "Christmas wrapped around you" joke were crude, but it's Sheri, and his embarrassment redeemed it. I'd still rather he'd just text her. But he can't, and now I know why.
+
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "She did the math without deciding to." The long stretch of rumination around the unsent texts, where I felt the loop going round again.
-WHY: The cut-off photo and the identical "fairytale" text read from the wrong side hit hard, and the irony is working. I want Pace to show up, in a room with her, and I want somebody to tell her the truth.
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Finally inside Pace, and the care for Vee is on the page. The Daphne reason and the sobbing at the passing truck make me ache for him and keep him on the hook for what he did. I'm desperate for the two of them to be in a room again. It's been since ch 40, and the whole holiday gap is wearing on me.

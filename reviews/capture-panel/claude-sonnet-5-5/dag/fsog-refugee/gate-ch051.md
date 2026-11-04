@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch051 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch051 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fa07a6a2f8bd · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is a breather, and a pretty one. The sun porch, Kayla's waffle grief, Meg's maple bacon story. I like these girls, and I like Vee sitting in the middle of them being easy and loud. Her spending the Christmas money without doing arithmetic is a small, real marker of how far she's come from the starving girl on the jacket.
+Oh, Vee. Oh, honey, no.
 
-But I'm watching what she left out. She told the flashing story as a funny story and gave "we talked all night" as the size of it. The drive, the fight and the unsaid word all stayed home. That's her right. Still, "we're better than we were" sat on the table "looking exactly true," and I flinched at that phrase. He still hasn't said it, and she's smiling anyway. I'm nervous for her being this happy.
+I started the chapter warm and liking it. The class is a good one, the Mauss lecture about the gift's spirit wanting to go home. I suspect it's the book's theme sitting right there. Then the dinner, which is Randi and Vee finally alone, and I was hungry for it. And Vee, who has no idea, tells Randi every detail of the Pace weekend. She performs it, a little proud, a little aroused. Randi keeps saying "Hmm." I could feel what that was. Her fingernail worked the edge of the wine glass. Her hand on Vee's chest "fixed" the neckline. Then she said "I'm so happy for you" and meant it, and it was also costing her something.
 
-Then the dread arrives. "He's handling it." Wednesday. Pace, Randi and Vee's whole circle at one table, and Vee is the only one who doesn't know. She was thrilled to say "he's handling it." I want that dinner badly, and I'm scared of it.
+The underwear story gutted me. A mother who washed and folded the robin's-egg-blue underwear and waited until the boy was at the table to set it by her plate. "They're your color." That is cruelty dressed up as parenting. The boy sat there and then quit. I think it told us who made Randi, and why she hides things so well. Vee asking "how did they tell you?" and Randi answering "they didn't" was the real center of the chapter for me.
 
-I miss Randi. She was barely mentioned, and Vee and Randi haven't been alone since the kiss at the door. I also want the taste thing told to someone. Nothing here was hot, but it was warm and I liked it. It just isn't moving anything.
+The bathroom scene was hot, and I'll say so. The shame of being wet, the coat, the cruiser's lights, then Randi's face arriving at the top and the question turning into a statement. And then Vee insists "that had been about Pace, obviously." It's the book doing exactly what the jacket promised, and I like the way it's done, from inside her. Then Randi says "it's a good thing you got relief" and the floor drops out. I think Randi knew, or guessed, and I honestly can't tell whether she was teasing or testing. Vee took it as pure embarrassment.
 
-GATE 51 — Across
+Then the goodbye. Vee kissed Randi's neck, and Randi flinched. She said "tickles," and I don't believe her. And Vee felt relief that the closing time saved her from telling Randi about the taste. Why does she feel relief? She has never held anything back from Randi, and she is starting now.
+
+The part that sits wrong with me: Randi is steering Vee into narrating her sex life to her for her own hunger, while Vee thinks it's friendship. That's close to the line for me. I'm not walking away, because Randi's pain is on the page and Vee is the one who gets to feel good. But it's close.
+
+I'm also annoyed that Pace wasn't there, and that it has been a long time since Randi and Pace were in a room together. Tomorrow's dinner is going to be agony, and I want it.
+
+GATE 52 — Covering
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: A pleasant, sunlit chapter whose real job is setting the table for Wednesday, and the dread under it is what I'm reading for. I'm keen for the dinner, and for Randi to turn up.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "Randi reached across the table and took her hand. 'How much could he see?'" It was only a flicker of discomfort at Randi steering the story for her own appetite.
+WHY: The restaurant confessional and the bathroom scene gave me heat and dread together, and the underwear story made Randi a person, not just a hidden stake. Vee's relief at not telling Randi the taste story, and the neck flinch, tell me the next chapter will be Wednesday's dinner, and I can't wait.

@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch035 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch035 · muse-wonder · romance-graduate · prompt-sha 30694771b497 · prose-sha b29cb00cede3 · dated · 2026-11-01*
 
 REACTION —
 
-God. I sat there afterwards just staring at the sidewalk part, knowing Randi has literal sugar on her mouth last time and now this, and Vee thinks she's finally found the one person she doesn't have to edit herself for.
+Oh, this one made me feel slightly sick in the exact way this book keeps doing, and I could not have stopped mid-chapter if I'd tried.
 
-That's what got me this chapter. Not even Pace, exactly. It's Vee describing Pace — “like he wants *me*. With the body attached. Not — the other way around” — and being *right*, in the room, about the feeling, and completely wrong about the room she's saying it in. She thinks she's handing Randi a confidence. She's handing her material. And I know that because I have 30 chapters of Randi in Pace's bed sitting in my chest while Vee is glowing over eggs Benedict and chasing yolk with toast and telling her she's got sex brain in the library.
+We've been in Vee's head so long, warm inside her version of Saturdays, and then this just — flips the table over. I'm sitting on Pace's couch in the dark while Randi tells him, in detail, what Vee told *her*, in the order she told it, and listens to him get hard off it. The food thing. The sleeping thing. *She told me first.* That little flat competitive note under all the warmth. I felt my stomach drop. Vee thinks that booth is the one place she doesn't have to edit herself.
 
-And Randi *knows how to work her* and it is so clean it almost looks like love. That's the sick part. “You're not greedy. You're just finally hungry out loud.” That's a beautiful line. That is exactly what Vee has needed to hear her whole mother-voiced life, and Randi says it perfectly, and means — what? Half of it? All of it, in the moment, with her eyes going bright and unfixed like that? That little catch in her breath when Vee said he wants her with the body attached... I believed that catch. I don't think Randi faked that catch. Which makes the rest worse, not better, because two minutes later she's doing the dusty-photos routine — *babe, these are two weeks old, you did nothing worth a picture last week?* — all light, all “you don't have to show me,” sliding the phone back, and of course Vee's thumb is already finding the real one. “I gave him *all* of it.” I actually said no out loud. Alone. At a fictional brunch.
+And Randi. God. Randi.
 
-He promised never to share her photograph. He didn't have to. She shared it herself, to his lover, because Randi made not-sharing feel like flinching, like being the small version of herself. And Randi looked *past a glance, past what a verdict needed*, and Vee sat there letting herself be looked at and was absurdly happy about it because she's never had a friend she could hand the real thing to. There is no one else she could have shown. That sentence hurt worse than the photo. Cassie is *right there*. Cassie has never taken a piece of her. But Cassie gets “maybe, I think so” and Randi gets the uncropped length of her on a Saturday morning.
+The goodbye kiss section nearly killed me. Not because it was hot — it was, obscenely, her describing waiting with her eyes... Vee standing in the sun with her eyes shut waiting for her to come back — but because I watched her try to sell it to Pace *and to herself* in real time. *I'm doing it for you. For the threesome. It's work.* While she's literally clenching on him saying it. And then Pace, kind Pace, exact Pace, says the one careless kind thing — *You don't have to do it for me* — and she comes instantly and then can't unsay the real thing five minutes later. *God, I want her.* Into the couch. Then scrambling to put "for us" back over it.
 
-The kiss at the end, though. That's the thing I keep replaying. Every other time I've been able to tell myself Vee is being led — the shoe under the skirt, the scarf, the practice room, Randi initiating and Vee not bracing. This time *Vee* leaned up the last half-inch after her. She noticed it, and decided it was what she wanted, and didn't bother about it again. That's not Randi tricking her body anymore. That's Vee wanting the morning not to end and reaching for Randi with her own mouth to keep it. And Randi held her there a beat past what a goodbye needed, close, steady, looking right into her eyes until it almost turned strange. I don't know if I'm reading longing or triumph or Randi being genuinely undone, and honestly all three being possible at once is why I can't put this book down even when I want to throw it.
+I believe her more in that unguarded second than I've believed anything she's said at brunch. I also want to shake her. Ask her. Ask Vee in daylight. Stop translating it into a threesome Pace can approve of and a friendship Vee can approve of. She is going to break this girl's heart in a language Vee doesn't even know she's learning.
 
-Text I'd send at 1 a.m.: *she thinks she's finally hungry out loud and she's right and the woman who told her that is going to eat her alive with the information.*
+Pace though. Pace is starting to genuinely frighten me in a quieter way. He is *so* good at reading a body and so determined not to read a situation. He hears Randi say *Don't ask me in that voice*, he hears *she consents every time or I'm done* come out of his own mouth like that's a clean ethical line — while he's getting a secondhand feed of a girl who thinks she's confiding in a friend! He watches Randi unravel, watches her pull tighter and tighter on his arm like she's trying to climb inside him, tells her *you are extraordinary* because he knows she'll know if he's faking it... and then the morning. The green panties in her fist. Her crying on his chest. Keeping her eyes on the wall. That was not a sexy scene to me, that was a distress flare, and he folds it up — literally folds Vee's panties in thirds and puts them back — and goes *it was hormones* because Randi offered him an exit and he took it. He let it be hormones. I wanted to throw the book across the room for him, not at the book.
 
-I'm furious at Randi and I ache for her in the same breath, which I know is the trap this book built on purpose. Her “just us” about the anthro class came out softer than the plan called for. She didn't plan that roughness. Something in her is real and it is not protecting Vee at all — it's just making Randi hesitate for half a second before she takes the next piece anyway.
+That drawer standing open an inch at the end. I noticed that and haven't stopped noticing it. Did she go looking? Did she find the drawer he cleared for Vee and understand exactly what it meant that his things are crammed below? He decides the house shifted. Of course he does. Houses don't shift like that, Pace, people open drawers.
 
-GATE 35 — All the Time
+The heat here is undeniable — four times, the couch, her narrating Vee while she's on him, it's explicit and it's psychological and nothing is euphemized — but none of it let me just enjoy it. Every hot beat had Vee's trust inside it being passed hand to hand. What Vee described as *he wants me, with the body attached*, and Randi sitting there getting wet-eyed because no one's ever said that about *her*... That moment before she put the beam back up. That's the whole tragedy in one look. Randi isn't just stealing Vee. She's starving in exactly the same place Vee was, and being fed only other people's leftovers of it.
+
+I'm furious at both of them and I'm aching for both of them and I need to know what Randi does next Saturday now that she's said it out loud, even if she took it back in the next breath.
+
+GATE 36 — Four
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "I gave him *all* of it."
-WHY: No sex scene on the page and I was still completely in my body the whole brunch — and completely dreading where every word Vee said was going to land later. The kiss she chose for herself changed something, and I need to know if Randi knows it did.
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "He let it be hormones."
+WHY: Pace choosing the easy lie Randi handed him after she cried with Vee's panties in her hand nearly made me put it down in disgust at him — but that's exactly why I can't stop, because Randi has finally said the true thing and somebody is going to pay for hearing it.

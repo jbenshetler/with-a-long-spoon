@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch045 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 949e5c0dcfb8 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is the chapter. Pace finally gets a body and a hangover and a grief, and I've wanted to see him crack since chapter 36. I was furious at him for forty chapters, and then he's on his kitchen table sobbing at the sound of a truck going past, and I'm a puddle. Damn him. It's the bottom-drawer thing made visible: he put the whole self in the bottom drawer and it came out in whiskey.
+Oh, this is the chapter I've been waiting thirty chapters for, and it comes out *wrong* on purpose, which is better.
 
-Sheri does the work I wanted Cassie to do. "Then not saying it matters more to you than having her. From this seat, that feels pretty shitty." YES. And he sat there and *listened*, and said "I can't." The Daphne reveal is what finally explains him: the only one he said it to, and she left. "He had taught himself that the words were the difference." So the withholding isn't smugness, it's a scar. That reframes him without excusing him, which is exactly what I want. "He had hurt her because he was afraid of how much she could hurt him." Okay, that line is the book telling me his subtext outright, and it nearly tipped me into eye-rolling. But the sobbing scene earned it, barely.
+Vee finally kisses Randi, a real one, both hands on her face, in the foyer under the composites. And what did it take? Crying on Randi's shoulder and then being handed a plan. Randi is a terrific friend and a terrible one in the same breath. Every sentence of that bedroom coaching is true. "Cornered." "The fear's a liar." "Don't hand him to a woman who doesn't even have a face." She reads Pace better than Pace does. Then she sends Vee out in a coat with nothing under it and stilettos, to hand over the one thing the fight was about without any words. Words are the whole war, she says. Of course she says that. She's recommending Pace's own dodge. Vee is going to answer "what am I to you" by getting naked on his doorstep. That's the same trade he's been offering her, body for word, and now she's offering it back. I hate it and I'll read it with my whole face.
 
-The dread under it is wonderful. The three-in-the-kitchen picture, growing "further along than last time." He's still building the thing that will burn them all. And Randi, six weeks gone, the blanket he keeps on the chair for her. He misses her and won't ask. Everyone's too proud to say the one sentence.
+The heat is quiet but real. The knees touching, Vee staring at Randi's mouth and pressing her hands into her thighs. The nipples tightening and her explaining it away as the shoes, "tonight." She put it in the wrong drawer in the same breath. She is so good at that and I want to scream. Randi giving the "Just the thing for tonight" line like it's flats. The shared grip on the straps. I felt that one low.
 
-The cost: zero heat, and a long run of quiet. That's chapters 41, 42, 44, now this. Ch43 was Randi's, but still nobody's touching anyone. I'm hungry. The Sheri banter about legs and "Christmas" gave me a flicker. I want Vee and Pace in a room, and I want the January term and night Anthro. The recovery scene is a bit procedural (freezer bags, the mop), but the engine on the highway landed hard.
+Then the Randi coda, which was the best part. "That girl had kissed her." The back of the hand to the mouth, the matcha nobody drinks, and her heart going like she'd climbed three flights. After the ski chapter, where she tells herself she'll never tell Vee, the first time Vee starts it is huge. Then Brooke arrives in warm and takes the floor out. "You always say goodbye under the composites." "You need to choose." Lauren Pike. "We do. She's my friend." Randi was caught in the one moment she was happy. That's cruel and correct.
 
-GATE 45 — The Usual
+I loved Randi hiding the New Year's. "And then it got very late, and we went up," and nothing else. Vee reads it as discretion. We know it was the sandwich and the cold. I also liked Vee not knowing what she'd built Sheri from.
+
+A doubt: the plane, the drive, and the crying were a long runway, and I'd have liked the kiss and the doorstep to hit harder. But Vee finishing "and nothing under it" in her own voice and then calling herself slutty with her mother's voice in her mouth did the job. And the Pace chapter before this one, the whiskey and the sobbing at the engine, makes me want to scream at all three of them. He's ready to say it. She's about to arrive naked instead of asking. Oh god, she's going to show up and he'll say it, or she'll swallow it again.
+
+GATE 46 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 0
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
-WHY: Pace finally breaks and Daphne explains the withholding, and the truck going past made me ache. But it's the fourth quiet chapter in a stretch, so I need heat and the two of them in a room very soon.
+ALMOST-STOPPED: none
+WHY: The Vee-Randi kiss finally lands and Brooke's "you need to choose" turns it into a real cost, while Randi's advice sends Vee toward Pace's door in the one outfit that dodges the word again. I want the doorstep right now.

@@ -1,8 +1,106 @@
 # School Nights
 
-*Vee POV. Mid November, a school night.*
+*Vee POV. The weekend after We Find Out, into the school week. Four movements.*
 
-She came in past eleven with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
+---
+
+The sheet had gone cool everywhere her skin wasn't touching his, and she lay in that cooling with the whole day still loud in her body and let it come back to her.
+
+A week since the last time, the longest they'd gone — the conference, several days of it, and a brutal week on campus on top of it, so the midweek night they'd have stolen never happened and the seven days stood empty between them.
+
+Then the door swung wide before she reached it and she was off the ground. He had her up under the arms and around, her feet swinging out, the porch light wheeling once behind his head, and she heard the sound that came out of her, a bright stupid sound she'd have died of anywhere else. He didn't set her down so much as let her slide the front of him until her toes found the boards, and by then her hands were already at his shirt.
+
+They hadn't made the kitchen. They hadn't made the hall. Their coats came off them both inside the door and the rest followed, dropped where they stood, a week of wanting coming out of them at once, and even then, even with her clawing at him, he'd been slow. That was the thing she still couldn't get used to. He never went straight at his own finish. Some nights he started with his mouth, some with his hands, some he just put her where he wanted her and used the rest of himself, and she never knew which it would be, only that it always came around to her first, brought all the way over and usually more than once before he took a single thing for himself. She hadn't known a man could do that. She hadn't known a man would want to.
+
+He'd cooked after, the way he near always did. Some nights it was a production, four pans going and a smell building she had no names for, and tonight it had been plain: salmon laid in a hot pan and turned once, a sauce gone pale green with dill, a salad with the tomatoes still warm off the sill and a mustard thing he'd whisked up in a glass that she'd wanted to drink straight. A cold white wine he said came from Greece, a little stony.
+
+She'd sat at the little table in one of his shirts, her feet tucked onto the rung of the chair, and talked while he cooked. When he turned to the stove she kept going, with her wine in her hand, and when he turned back he picked her up wherever she'd got to.
+
+"You remember Randi? From the froyo day."
+
+"Sure."
+
+"She's a new friend. I walked right into her outside the dining hall, beginning of the semester. Nearly knocked her over. It's a small world — found out we have a stats class together." She smiled into her wine. "And then the next morning, she comes and sits right down with me."
+
+"You like her."
+
+"I do. She's so much fun. Cassie, who's also in stats with me, isn't a fan, but Cassie doesn't like sororities on principle. Even though Randi goes out of her way to invite Cassie."
+
+"We go to brunch. Gives me an excuse to wear something pretty to go out. Randi dresses so beautifully. Even for class. She always looks great."
+
+He slid the spatula under the fish and turned it, and she waited for the hiss to settle.
+
+"We chat, you know, girl stuff. Sometimes we even talk about boys."
+
+He looked over his shoulder.
+
+"Yes, you." Her cheeks had gone hot, and she laughed. "Your name might come up."
+
+"Only good things, I hope."
+
+"What else is there about you?"
+
+His smile opened at that, and she sat there smiling back until he had to turn to the pan.
+
+"She's got the funniest stories about the boys she goes out with. Honestly, she's so pretty, and she still can't find what she wants. You'd think she'd have her pick."
+
+She took another sip. "And she's got this little accent. You hardly hear it. She must have lived in Europe when she was little. Oh, and she does this funny goodbye kiss she must have picked up there."
+
+He turned from the stove, spatula still in hand, and mimed the two cheek kisses across the kitchen at her, eyebrows up, very grand.
+
+"No, on the mouth." She laughed. "And then she comes back and does it again." Her tongue brushed her lower lip. "This kiss-kiss. It's French, I guess."
+
+His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke.
+
+She set her wine down and went to him at the stove. "Don't be silly. Not *that* kind of French."
+
+She kissed him, and he kissed her back with the spatula held out of the way. She caught his shirt and held him there, then let her hand go lower, down the front of him, and found him hard.
+
+"Umm, yeah," she said against his mouth.
+
+His free hand came up and settled over her breast through the shirt.
+
+"I'll pretend it was that kind of French. After you feed me."
+
+He laughed. Behind him the pan hissed, and she let him go.
+
+When he brought her plate he set it down with a hand still on her shoulder. "I hope you like it."
+
+She did. She'd eaten all of it. She ate like a field hand at his table now, chicken piccata instead of cafeteria pizza, salmon instead of fries, water and wine instead of soda, and she kept eating until she'd had enough, and there was always enough. There was still a tomato on her plate. She ate that too.
+
+Her bras had gone in a hook, the bands riding higher than they used to sit. The few good pairs of underwear, too. Those were the only things that fitted her; everything else had been bought a size up, because the racks had never once believed a build like hers and her budget had never once stretched to the tailor who would.
+
+After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them. There could be an *after*. A man might come back to her an hour later like she was something he'd been turning over the whole time the salmon cooked.
+
+Now the house ticked and settled and he slept, flat on his back, gone the moment it was over, one arm flung up above his head. She turned on her side to watch him in the dark. The broad chest he kept hidden all day under shirts a size too big rose and fell, slow, and the old scar was a paler line in the gloom that she'd still never asked about and still meant to keep. She was happy. She set the word down plainly, lying there, happier than she'd known a person was let to be, and underneath the happiness, holding it up, was the other word she'd been carrying around all week.
+
+She loved him. There. She'd said it, or not said it, but let it be true in her own chest where she couldn't take it back. She loved him, and he had never once said it to her, and she lay there and counted all the ways he'd said it without saying it: the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her. A man didn't do all of that for a girl he was only passing a season with. He had to feel it. He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying.
+
+She moved closer and tucked herself along his side and put her mouth up near his ear.
+
+"Peter," she said. Barely the breath of it, to the sleeping shape of him.
+
+He didn't stir. She hadn't meant him to. She shut her eyes against the warm of him, and the day finished letting go of her, and she was under before she could think one more thing.
+
+---
+
+In the morning her hair had kept the whole night in it.
+
+She stood at the sink in his robe with the belt doubled twice around her and still trailing, and worked at the wreck of it the only way it could be done, one piece at a time. Brush first, from the ends up, a little higher each stroke, until it ran clean. Then the pins, held in her teeth and set one at a time, lifting and turning the dark red of it up off her neck. It wasn't for going out, but it would have to do. Then the scrunchy, deep green with the small white dots, one of the dozens he'd bought her so she'd never be without, off the form by the tap.
+
+The counter in front of her was a disaster. It was the only bathroom he had, and her whole kit had colonized it, the brush and the loose pins scattered, a fallen scrunchy, her face cream open, two bottles she'd stood up and one she hadn't, all of it out across a stretch of counter that every other hour of the week stood bare and wiped and held nothing but his razor squared to the edge. She'd gotten over herself, finally, and brought the bag, and the bag had done this, had thrown her whole disordered self across the one clean surface in a clean man's house.
+
+He came in behind her. She felt the warmth of him before the door, and then his arms came in under hers and crossed at her front and drew her back against his chest, and his mouth found the side of her neck, slow, no part of it asking for a thing. She let her weight go back into him and watched the two of them in the glass, her with her arms still up in her hair, him folded around her with his eyes half shut, and she was so full of the night and the morning at once that her throat pulled tight.
+
+She watched his eyes open. She watched them move, in the mirror, off her face and down to the counter, to the brush and the pins and the bottles and the spill of her, and hold there a second, taking it in.
+
+Something small went through her. Not the deep thing. Only the surface worry of a guest who's left a ring on good wood, and here was all of her flung across his order like she owned the place. She held still and waited to see what he'd do.
+
+He did nothing. His eyes came back up and found hers in the glass, and he smiled, the private one, and put his mouth back to her shoulder where it had been, and that was all of it. Not one word. She let her breath out and leaned into him and let the worry go, and carried only the smallest tail of it out of the room with her. *Had he minded?* She couldn't tell. He hadn't said. He never said.
+
+---
+
+She came in past eleven on Monday with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
 
 Cassie was folded into the bean bag with a book against her knees. "You're doing the streetlight thing again," she said, not looking up. "You're a public utility."
 

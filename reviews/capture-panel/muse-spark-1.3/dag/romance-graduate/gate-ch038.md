@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch038 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha c4680406e3c7 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch038 · muse-spark-1.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
 
-REACTION — God, five nights. I felt that in my teeth — her counting and pretending she wasn't, him saying *of course, I'll be here* and meaning it and somehow that being worse than a fight. I know that exact stupid wish, want him to miss me badly enough to be ungraceious about it for once. And he won't. He just opens the door.
+REACTION — God, this one hurt in a way the hot ones don't. I came to brunch-Saturday Vee all lit up and hungry out loud and I loved her for it, and then this chapter sat me down at a shitty cafeteria table in November and made me be 21 again trying to explain a man to my parents without having the words for him.
 
-The hallway undressing got me hot so fast it was almost embarrassing, like her — the jeans stuck, the socks with the wall, laughing mid-strip. That's the thing this book does that the KU alphas never do: she's clumsy and still wanted, not performing sexy, just frantic for him. And him just *holding* the bra and letting her unwind out of it? I had to put my Kindle down for a second. Slow bastard in the best way.
+The cropped photo thing gutted me. Mom with the picture in her purse showing everyone, Dad pricing the dress, her touching her own collarbone — I know that mother. And Vee lying about dancing because how do you tell your mom it's the sex, it's the amount of sex, it's that you've been eating with the sound off? I wanted to crawl through the page and tell her she doesn't have to translate herself that small.
 
-But it's the kitchen that will keep me. Him making pizza exactly the same for an empty house — I loved that line in my gut. That's love without saying love, and she *sees* it. The way she tastes everything separately now, cotton candy vs cut strawberries — that's me too, lately. My mouth woke up reading this.
+And then that porch. That fucking porch. I was holding my breath with her while she got that crackers sentence out — because I *know* what that sentence cost her, building a whole house around I love you so she doesn't have to say it first. And he... god. "I love how good we are together." I felt my stomach drop the same second hers did. It's sweet and it's true and it's not it. It's him loving the *us* so he doesn't have to say *you*. And the way she immediately starts doing repair work for him — he held me, he kissed my hair, I was received warmly — girl, I do that too. I've done that.
 
-And the shirt. Jesus, the shirt. *It stopped smelling like you.* I had to swallow hard. Wearing it every night she wasn't there, having to wash the nothing out of it, asking him to wear it all weekend to refill it. That's so feral-girl and so tender at once, and him just putting it on over his other shirt without making her explain herself — that's the grown man I have been starving for. No teasing, no speech. Just *All weekend.*
+I'm so mad at him right now and still so in it with him. He sewed her that dress on his sun porch because she saw it in a magazine. He wears two shirts because she tells him to. He gives her a drawer. And he can't give her the word. Not to her, not about Randi, not about anything that would cost him. And she just puts it in the pile with the other flickers and folds her laundry. That pile is getting heavy and she won't look at it and I want to shake her and hold her at the same time.
 
-I'm still mad at him, don't get me wrong. I know what he's not saying, who else is in that bed Mondays. Watching her be so happy and so claimed in her drawer and her shirt while I know about Randi makes my stomach turn — in a good way? In a can't-look-away way. She thinks the drawer is hers and it *is* hers, and also... God. The invoice is coming and I'm dreading it and I can't quit before it lands.
+Cassie asking "is it that you can't say or you don't want to" and Vee saying "both" — that's the truest line in this whole stretch. And Cassie not pushing? Protect her at all costs, seriously.
 
-Text-a-friend at 1am would be: he wore two shirts for her. TWO SHIRTS. I'm gone.
+I closed this chapter aching, not horny. Not in a bad way. In the way that means I'm still here for all three of them even when nobody's getting off.
 
-GATE 38 — The New Ordinary
+GATE 39 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: I came for the hallway heat and stayed for the flannel — he loves her in actions and I believe it even while I know he's lying by omission, and I need to see how long he gets to keep both.
+WHY: That non-answer on the porch cracked something open and I need to see if she ever picks that sentence back up, or if that pile she's not looking at finally falls over.

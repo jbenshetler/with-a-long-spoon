@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch049 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch049 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · dated · 2026-11-01*
 
 REACTION
 
-Oh, this is a lovely chapter, and I felt it in my chest. After the coat, the pancakes and "Missed a spot," it's a kitchen with the two of them. He's at the sink and she's naked and talking at his back, and he says "I want to meet your people." I did a little gasp.
+Oh, this one is a soft landing, and I needed it after the last few. After the doorstep, the cashmere, and "Missed a spot," I wanted Vee in a small ordinary room with someone who loves her, and I got it. Cassie turning the whole chair around is the most tender gesture in the chapter. "Pace. Shrank your sweater." Cassie laughing out loud made me grin.
 
-The detail that got me is that he remembers. Meg's boots, the heel lifting out of the right one, "the one who can talk the paint off a wall." That is the listening I've been asking this book to prove. It's a man who keeps the small dumb news of her life on a shelf. Then she caught the nacho memory, "I listen as hard as I know how," and asked him to pick the place. He said "Let me handle it," with something near happiness on his face. That's him taking care of his own limit and hers at once, and it's the tenderness and control I read for.
+But I noticed the sweater story. Vee tells it with a perfectly good cover: wool, water too hot, doll-sized, which is why she wore his shirt, which is why the toast burned. It's tidy and funny. I know what really happened, so I know she left things out. She skipped the coat and the doorstep. She skipped the strange small thing about the taste, and she skipped "why does he like it so much." She told Cassie "nearly everything" and the "nearly" is doing real work. Her promise to herself to tell Randi is also still sitting there. I'm uneasy about that, because I'm not sure Randi is the safe person to hand it to.
 
-He also said "Bring Theo" with no jealousy. Part of me wonders if that's trust, or if it's the same thing as the held breath, a man who doesn't ask what he's afraid to hear. I'm leaving it there.
+The wall. Her arm goes out and hits cold cinderblock after two nights of acreage, and she's asleep before she decides to be. That's the right ache. She's happy, and this is the first time in a while I've felt her happiness without a hook in it. I also love that Pace remembered Meg's boots and "talk the paint off a wall." That felt like his answer to her question, in his language. He didn't say the word, but he's doing the thing, and I can see her stop needing it for an evening.
 
-Still no word, though. He's wanting her in his life, in daylight, with her friends, and that's the answer to "out there." It's a doing again. "Believe what I do." I think she half-gets it. I notice she doesn't. And Randi's the first name in her mouth, and Randi as the guest of honor at a dinner with Pace sitting across from her, unknown to Vee, is a scene I'm already dreading and wanting.
+Still, nothing has been said. Nothing is resolved. He said "I'm sorry," and that's all. And the party he's picking the place for is going to put Randi and Pace and Vee in one room. I'm braced.
 
-I also noticed Vee stepping around Cassie's discomfort without looking at "when." That's a small, true thing. The lavender sweater story is funny, and the lacquered chair is a nice touch.
+It's quiet, and the heat is zero. I notice how long it's been since Vee and Randi were alone, and the gap since Randi and Pace is long too. I want that collision.
 
-The gap: they were alone in ch 48, and it's warm. But Randi and Pace haven't touched since 36, and I'm hungry for that.
-
-GATE 49 — Back
+GATE 50 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 6
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: He remembered her boots, her friends, her words, and he's building her a whole-world room to be seen in, which is the care I came for. It's quiet, but it's a real turn in the bond, and the unspoken word is still sitting there. Now I want the dinner, and I want Randi in that room.
+WHY: A gentle exhale with Cassie, warm and funny, and it kept the sweater-cover and the "nearly everything" as small dread under the cozy. I'm keen because Pace is arranging a room with everyone in it, Randi included, and I know what nobody has told Vee.

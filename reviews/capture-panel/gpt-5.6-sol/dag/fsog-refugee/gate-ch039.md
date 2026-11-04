@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6b5caaa161cd · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION — Oh, that hurt. Not loudly. Worse than loudly. Vee made him the most beautiful sentence she could build without breaking the rule she had discovered inside herself, and he answered the safer, smaller thing. “I love how good we are together” is not nothing. It is warm. It may even be completely sincere. But it loves the arrangement. It loves what happens between them. It does not say he loves *her*. And she knew before she knew. That little *wait* behind her breastbone knew immediately.
+REACTION — Oh, Vee. He answered the easiest part of the question and she let the sex bury the part she actually asked.
 
-The crackers and the meal absolutely undid me because it contains everything: the food, the sex, the sleep, being looked at, being welcomed into his house, being given a drawer. She told him he had changed the scale of what she knew life could be. He answered with her body and what it does. After she has spent all this time marveling that Pace wants *her with the body attached*, he gave her an answer perilously close to loving what her body gives him. I don’t think that is all he feels. I have seen too much tenderness from him to believe that. But it is what he chose to name.
+I felt for both of them at Chili’s. The minute his eyes kept slipping to the television and he started squaring the fork, I knew the room itself was hurting him; it wasn’t embarrassment about being seen with her. His explanation made complete sense, and “Somewhere quieter, I can. And I do. I’m listening now” got me because it is so Pace: no defensiveness, no punishment, just the exact truth and reassurance she needs. But she asked, “Is this what we are now?” She asked whether they were only sex. He answered by taking her out, then explaining why that particular restaurant overwhelmed him. He still did not tell her what she is to him.
 
-And then “she had been received warmly.” God. I felt the jacket close around her. She is already teaching herself to accept warmth as an answer because asking for the word feels too dangerous. She takes inventory—he held me, he kissed my hair, the morning continued—and uses the evidence to overrule the part of herself that heard the absence perfectly. This is exactly how a woman can be exquisitely cared for and still become lonely inside the care.
+And Vee knows it. That is what hurts. She keeps accepting adjacent answers because the real question feels too dangerous to repeat. Calling it forgiveness made me wince—not because Pace needed forgiving for sensory overload, but because she needed a clean little story that would let her cross the room and be held. She is doing emotional repair work for an answer he never gave.
 
-The first scene with Cassie made it worse in the best way. “Is it that you can’t say, or that you don’t want to?” Cassie always puts one clean finger on the bruise and then leaves Vee ownership of it. Vee wanted her to push and was grateful she didn’t. I know that feeling too well: please respect my boundary, and please love me enough to break through it. But Cassie won’t design Vee’s answer for her. That contrast with Randi is enormous.
+The sex was intensely hot, especially because she wanted his control to break and then felt it break. But it also scared me. Not anything he did—he remained attentive and gave her exactly the rough urgency she wanted—but because her orgasms are becoming a trapdoor she uses to drop the unbearable question through. She keeps almost saying love, and her body keeps drowning the word. That is no longer just erotic surrender. It is avoidance, and afterward everything comes back sharper.
 
-Everything was cropped. The photograph for her parents. The story of Pace for her father. “Boyfriend” with a question mark. The truth about why her body has changed. Pace making the dress. Vee’s actual declaration, cropped down so it would not say *I love you*. Then Pace cropped his answer again. Everyone got the portion that could safely fit inside the frame, and Vee ended with no complete picture anywhere.
+“She belonged to him. But did he belong to her?” That is the wound. She has given him a photograph on the promise that he will never share her, while he is already sharing the intimate substance of her with Randi. She thinks his loss of control is the last wall coming down, but I know there is an entire relationship standing behind the wall. And the awful thing is that Pace clearly does care for her—deeply, tenderly, probably lovingly. Yet he keeps choosing careful phrases that stop one inch short of giving her anything she can name or test in daylight.
 
-I’m not angry with her for refusing to ask. I’m frightened by it. “The words went through him first” is such a small, devastating surrender of authority. She has become wonderfully brave about directing sex, showing her body, saying yes and no, taking up a drawer—and she still believes he owns the right to name the relationship. He gives her so much freedom inside the room, but she cannot ask what the room is.
+I am furious with him now. Not because he failed to say “I love you” on command, but because he knows there is a reason he cannot honestly define them while keeping Randi secret. Vee thinks the problem is that her feelings outran the facts. The hidden fact is that two people arranged the road she has been running down.
 
-And I am angry with Pace now, although I don’t yet know whether he understood. That uncertainty is its own cruelty. Maybe her sentence went past him because he is emotionally strange and exact and truly didn’t recognize the declaration. Maybe he recognized it perfectly and stepped sideways because he cannot or will not give her the word. Either possibility hurts; one is blindness, the other is refusal. Given the secret he is already keeping, I cannot grant him innocent vagueness indefinitely.
+I would text a friend at one in the morning: “This man can hear one whispered no in bed, but somehow cannot hear WHAT ARE WE when she says it at full volume.”
 
-I would text a friend at one in the morning: *She told him I love you in the most beautiful way she could, and he said I love what we have, and now she’s putting the hurt in a pile with all the other things she won’t examine. I am unwell.*
-
-I need the next chapter immediately. The truth was already a fire waiting for her. Now there is dry wood stacked around it: boyfriend with a question mark, the unnamed pile, the retired sentence, the fact that she has handed him the power to speak first. When she learns that he and Randi had a name for the plan before she even knew there was a plan, it is going to strike exactly where this chapter opened her.
-
-GATE 39 — Cropped
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This pulled me harder than a sex scene because Vee offered him her whole heart in the only form she could bear, and he answered beside it. I need to know whether Pace failed to understand her or understood and withheld the word—and I desperately need Vee to stop accepting warmth as a substitute for knowing.
+WHY: I’m aching for Vee and furious that Pace keeps giving her exquisitely tender answers beside the question. The sex pulled me all the way in, but the return of the unnamed want afterward is what has me already turning the page—I need this truth out from under the rug.

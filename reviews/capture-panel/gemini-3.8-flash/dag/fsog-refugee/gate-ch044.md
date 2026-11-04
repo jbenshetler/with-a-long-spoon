@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4aadfb50d940 · dated · 2026-11-01*
 
-REACTION:
+REACTION
 
-Oh, god. This hurt. This hurt in that specific, hollow, sick-to-your-stomach way that only New Year’s Eve in your childhood bedroom can hurt when your heart has just been pulverized.
+Oh, Pace. You absolute, stubborn, beautiful idiot.
 
-The contrast between these two chapters—reading Randi in 51 and then Vee in 52—is genuinely making me feel ill. In 51, Randi is waking up from a hollow, wealthy one-night stand with her perfect billionaire-lawyer stand-in, nursing her guilt, and deciding to text Vee the “fairytale” because it’s easier to keep playing the role. And then we cut to Vee. Freezing in a twin bed she’s too tall for, smelling lavender plug-ins, listening to the furnace shut down, watching the clock tick down to midnight, utterly consumed by Pace’s silence.
+I was bracing myself for this chapter because I knew he was meeting Sheri on New Year's Eve, and after Vee's agonizing spiral in chapter 44—imagining him cooking for some blonde at his stove—I was ready to be furious with him. Instead, we get a dingy trailer-diner, a plate of diner burgers, and Sheri holding a mirror right up to his face and refusing to let him look away. God bless Sheri. She sees right through his brick-by-brick rationalizations. *"Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty."* She clocked him completely. He tried to hide behind his usual armor—*I cook for her, I'm there every weekend, words are cheap*—and Sheri just knocked the whole stack over.
 
-The detail of her cutting the picture in half before sending it to her mom—scissoring away the leg, scissoring away the woman she’s become because her home can’t hold her anymore—shattered me. You grow up, you expand, someone wakes your body and your hunger up, and then you have to go home for Christmas and squeeze back into your childhood skin, pretending casseroles and *Wheel of Fortune* are enough when you are literally starving to death.
+And then he went home.
 
-And the spiral. *The spiral.* When you’re alone in the dark at midnight, your brain is a sadist. She takes her safest, warmest memory—the fra diavolo, the sheet slipping off her shoulder, the heat of his kitchen—and her mind replaces herself with an imaginary tan, blonde girl. *Except it isn’t imaginary.* That’s the knife twisting in my gut! She’s imagining some nameless dance-hall girl at his stove, completely blind to the fact that it was *Randi* on that couch. Randi, who she just texted an open hand of pure, unconditional friendship to. Randi, the only thing she thinks she has left to hold onto.
+Seeing him drink alone in the dark, getting violently sick, scrubbing his own bathroom floor with bleach at three in the morning, and waking up shaking over cold, boiled gym-bro chicken... it broke something open in me. This man who is always so composed, whose control is his whole religion, completely undone.
 
-Pace didn't text. Not once over the whole break. He's doing his noble "I leave you the room" routine, convincing himself he’s respecting her boundaries when in reality it is just cold, cowardly neglect. He’s letting her freeze out of some stubborn mathematical principle because she had the audacity to ask what she was to him.
+The Daphne reveal finally gives us the key to the lock. He convinced himself that *the words* were what destroyed him when Daphne left. If he never says the words, he survives the ending. It’s so messed up, so tragically human, and so infuriating because in trying to protect himself from the pain of losing Vee, he literally drove her out into the cold night. He admitted it right there at his kitchen table: *He knew he loved her.* He knew what she was offering on the porch, he chose the smaller truth out of cowardice, and now he's choking on it.
 
-I’m so angry at him, I’m so terrified for her, and the dramatic irony of her leaning entirely on Randi while Randi is literally the other half of the trap... it’s suffocating. She thinks Randi is her safe harbor. When this detonates, Vee is going to have the absolute earth taken out from under her. God, please let term start. Get her out of that cold bedroom.
+And then that ending. Hearing the truck on the highway, his whole body snapping to attention, hoping against hope that her little car was turning into the drive—and when the sound just rolls on past, he breaks. A full, chest-heaving sob over his cold breakfast.
+
+I'm still sick about the Randi of it all—the fact that he still has that twisted fantasy of the three of them at his table, the lingering betrayal that Vee still doesn't know about. But seeing him shattered on his own floor, grieving her, admitting to himself that he loves her and that his silence was weakness... it hurts so good. He's not an unfeeling puppet-master. He's a terrified man who broke his own heart trying to keep it safe.
+
+Now he has to fix it. He has to drive into town, find her, and spend the damn words.
 
 ***
 
-GATE 52 — Old Acquaintances
+GATE 45 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The ache of this chapter was agonizingly real. Watching Vee's mind torture itself at midnight while holding onto Randi as her only lifeline—completely unaware of the betrayal waiting for her—has the tension wound so tight I can barely breathe.
+WHY: Seeing Pace completely unravel in the quiet of his own house, facing his cowardice over Daphne and finally admitting to himself that he loves Vee, gutted me. Sheri gave him the harsh truth he deserved, and that final sob when the car on the highway wasn't Vee broke my heart; I need to see him go get her.

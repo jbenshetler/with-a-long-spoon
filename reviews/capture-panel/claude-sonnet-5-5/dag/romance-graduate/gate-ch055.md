@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch055 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch055 · claude-sonnet-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c78e707a4783 · dated · 2026-11-02*
 
-REACTION
+Oh. *There's* the third game. I've been waiting since the jacket, and it landed in the middle of a Thursday night, in the same hours as Vee lying in a flannel shirt with her fingers a breath from her mouth. Whoever arranged that doesn't miss.
 
-Oh, this is the one. I've been waiting four chapters for exactly this, and it's quiet and hot and it didn't explain itself once.
+The two chapters work as a mirror, and I felt it click. Vee can't close the distance to her own taste. Randi licks it off his mouth, off his thumb, off his thigh, and does it with "theatrical care" like it's nothing. Vee said "gross," and "I don't" was the whole answer. Now I see where that answer lives. It's a woman who's been fed this way and isn't ashamed of any of it, and she's in bed with Vee's boyfriend while her whole head is full of Vee. I'm not sure whether I'm turned on or heartbroken, which is the right place to be.
 
-The tasting reach is the whole chapter. She's alone, in his flannel, with the window shut so the heat stays in, and she gets her fingers a breath from her mouth and can't close the distance. Nobody tells her why, and the book doesn't either. I've read a thousand solo scenes that were mechanics. This one has a thesis, and the thesis is her tongue stopping behind her teeth. The detail that got me is her wiping her hand on the sheet and then lying down in the damp patch. "Her mess. Hers to lie in." That's shame and tenderness fighting over the same square foot of mattress, and I felt it in my own stomach.
+The sex is hot. The "fuck doll" line and the way he keeps control made me squirm. The best part was the talking. Randi narrates wanting Vee's breast in her hand while Pace has her nipple in his mouth, and he says "She makes me happy," and she says "I want her to know exactly what she does to me." Then the turn: "You know she loves you, right?" "She's not the only one in love." And he can't tell her she's wrong. Oh, that's the one that got me. Randi just told him she loves him too, in the middle of a conversation about Vee, with no smile and no rescue.
 
-It's also explicit, with no coy euphemism. The sticky strands, the smell like a hothouse, the wet sounds. That's why I'm still here. Heat and a mind at work, in the same paragraph.
+The shape of the three of them is clear now. Randi can say it to him and can't say it to Vee. Pace can't say it to anyone, and he's the one holding Randi's wrist-kiss. And Vee is out there thinking she's got a pleasure-princess crown. I'm furious and tender at all three.
 
-The Randi thread is where it pays off. She's fantasizing about what Randi meant by "it turned me on." Was it a mouth carrying the wet back, or Randi's own fingers? She doesn't notice she went there, and I noticed. The window opening to January, with the smell "lingering beneath the winter air," is her failing to air out the thing she won't name. She's so good at the wrong drawer.
+My one complaint is the prose. The chapter is a lot of "He did X. She did Y." with very short lines, and it's thinner than Vee's chapters. The dialogue carries it, though, so I don't mind much.
 
-I'm still nervous for Randi. After ch54 she looks like a woman holding a glass so hard her nail goes white. I'm also nervous about "I'll tell it Thursday." Vee told her everything and the coda still sat there unsaid. The thing she's building toward, she's building toward Randi.
+I need the next one. I want to know what Vee does with "I don't." I also want to know what happens when Randi meets Vee on Tuesday with this on her.
 
-One small complaint: the fragments get a bit staccato in places. It's a short, clipped chapter, and the bridge rhythm reads like a technique, not a shortcut. I'm fine with it.
-
-GATE 55 — The Reach
+GATE 56 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The failed taste is the best beat of the volume so far. It's hot and it's about something, and her mind keeps drifting to Randi without her permission. I want to see what she does with it next, and whether she says it to Randi at all.
+WHY: This is the third game finally on the page, and it mirrors Vee's unfinished reach from the chapter before. "She's not the only one in love," and Pace being unable to say she's wrong, is the turn in the bond. The staccato choreography is the only thing holding it back.

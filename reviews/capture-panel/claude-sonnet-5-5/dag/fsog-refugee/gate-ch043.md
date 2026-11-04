@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · dated · 2026-11-01*
+*capture-dag-v2-rich · gate ch043 · claude-sonnet-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · dated · 2026-11-01*
 
 REACTION
 
-Wait. Wait, wait. A whole chapter of Randi and a ski bro named John, and Vee and Pace aren't in it. I spent the first page bracing for a new man, and then the book made me sit through a fairytale. It's well made, I'll give it that. The sleigh and the truffle shavings are exactly the "perfect" life Randi's been pointed at. And then the cold. "She was warm only where she touched him." That line got me.
+Oh, that ache. This is the first chapter in a while that made me hurt for Vee without anything happening, and I think that's why it worked. The lavender plug-ins, the twin bed, the swimmer trophies, the picture she cut off at the waist for her mother's phone. "Same picture, one house, and she was the one who had divided it." That line got me. She's living two lives, and she's the one slicing herself in half to keep them apart.
 
-The sandwich line is the one I'll quote to my friend. "A good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared." I felt how empty that was. This is the Randi I was grieving for in ch 36. I can't pretend it didn't work on me. "Pace on his worst night reached further than this man had managed at his best." And then Vee, "on a nothing Tuesday." She knows exactly what she feels. She just won't say it.
+But I'm also frantic, because I'm a step ahead and she isn't. The reader knows what Vee is holding and what she isn't. She read Randi's reply as a fairytale and envied it. I just read chapter 43. I know there was no billionaire fairytale. There was a cold bed and a sandwich-fast man and a girl who wished she were home saying "miss your face most." Vee is lying there envying exactly the night Randi is grieving. The identical text appearing in both chapters, and each of them reading it from the wrong side, is brutal. It's the dramatic irony the jacket promised, and I felt it land.
 
-The other thing is Pace and Vee. I'm furious that we skipped from Vee walking out into the cold on Dec 11 to a ski resort on Dec 31. Three weeks of the fight with no answer, no Thanksgiving, no scar, no name. I've been reading toward that door and the book just walked past it. The dancing paragraph also stung. "Pace had never led her like that," and "she thought she was done with the work." Pace's light lead that makes her listen is the same thing as the consent I've been loving him for. Randi is calling it a burden. I'd bet the book wants me to see it as the thing she'll miss.
+Pace: I'm mad and I'm worried. A whole break with nothing from him. Two weeks. "He left you the room" is turning from the thing she loved into the thing that's hurting her, and I think she's right about that. He heard her fight and shut his arms. He could have texted "I'm here." Is he scared? Bound? Or is he off in his own head thinking she left him? I want him to take one step toward her, because she's imagining a blonde and there's no blonde. I want to tell her so.
 
-"She found, tonight, that she liked not being asked" bothered me, and it's meant to. It's the very thing I left the genre over, and here it's the shallow option, shown empty. I think that's the point, and I'm okay with it. John isn't cruel, he's just assuming, and the chapter lets her feel how little it gives her.
+And the fear of the blonde sliding into her best memory, the sheet and the fra diavolo, was a real gut punch. Not hot, but an honest kind of jealousy that wrecks you.
 
-Her decision not to tell Vee is the sad part. "As long as the word kept its cover." She's protecting herself and calling it kindness, and the bill for that is coming. And she texted Vee a pretty lie, with the one true line tucked inside it. I know that move.
+I'm tired of the "no name" loop a little. It's the same circle again, and the chapter's circling is slow. But this one had the house and the doubleness to carry it. No Pace and no heat, though, so I'm feeling the gap. The last time they were in a room, she walked out on him crying. I need them in a room.
 
-The ending isn't a door closing. It's a cold bed. I want the phone to ring.
-
-GATE 43 — Fairytale
+GATE 44 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Pace had never led her like that... Easier was better." (Not a real near-exit. The closest was the long stretch of ski-resort set dressing with no Vee or Pace.)
-WHY: Randi's emptiness is the most honest thing in the book. The jump from Dec 11 to Dec 31 with Vee's fight unanswered makes me hungry for the next chapter, not just patient. The "she liked not being asked" beat reads as an empty option, not a sexy one.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She did the math without deciding to." The long stretch of rumination around the unsent texts, where I felt the loop going round again.
+WHY: The cut-off photo and the identical "fairytale" text read from the wrong side hit hard, and the irony is working. I want Pace to show up, in a room with her, and I want somebody to tell her the truth.
