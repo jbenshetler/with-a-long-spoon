@@ -555,3 +555,25 @@ retired (kept for history).
   under opus's single-model checkpoints (`reviews/cold-read/pilot-*`): continuity at parity,
   no contamination seen either way; consensus adopted for its operational gains.
 - Capture readers use the same facts but never the readings (capture-panel SPEC "Memory v3").
+
+## Revision reads and the Anthropic lanes (author ruling 2026-11-03)
+
+- **Routine Anthropic cold reader: `claude-sonnet-5-5`.** `claude-opus-5-5` is on demand
+  (`[panel].available`). On ch1–10, same prose and memory, sonnet matched opus on what
+  landed and on the obvious structural complaints (the siren, the Smoothie Bird rerun) but
+  shared only ~40% of opus's friction points and caught 2 of the 4 then-live critiques opus
+  caught (it missed the ch1 POV slip and the ch7 text-back gap). Sonnet costs about half
+  per read (list $2/$10 vs $4/$20 per M tokens; ~4k vs ~6k output per read).
+- **After a substantive revision, also run opus on the rewritten chapter(s):**
+  `--models claude-opus-5-5`. Its line-level criticism (continuity, POV, over-explanation)
+  is what revisions most need.
+- **Reach of an edit.** Chapter N reads ck-ch<B> + raw B+1..N−1 + N. A local edit to
+  chapter k leaves at most 10 reads truly stale: k itself and the chapters after it to the
+  next boundary (window). Later reads change only through the rebuilt checkpoint facts. A
+  STRUCTURAL revision (merging, inserting, removing chapters, moving a reveal) can change
+  those facts and renumber every later chapter, moving the decade boundaries — every later
+  read is then stale. Batch structural changes and do one pass per volume: opus on the
+  rewritten chapters, sonnet elsewhere; rebuild the consensus checkpoints from the change on.
+- **Reading Anthropic friction.** Anthropic lanes criticize every chapter at about equal
+  volume. Judge a complaint by concentration and corroboration, not presence:
+  `tools/friction_check.py` ranks passages REAL / TASTE / CONTESTED / NOISE.

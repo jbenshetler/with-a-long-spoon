@@ -1448,3 +1448,12 @@ memory), capture_stats and capture_delta (lane directory `dag-v3`). The chain la
 `dag/` as history. Before capture_delta can judge a v3 re-read it needs a v3 baseline read
 and test-retest pairs; until then it reports no verdict.
 
+
+## Roster: opus on demand (author ruling 2026-11-03)
+
+`claude-opus-5-5` moves from the default `[capture]` roster to `available`; `claude-sonnet-5-5`
+is the routine Anthropic lane. Their v3 romance-graduate CAPTURE correlates r 0.71 (47 ch),
+close to opus's own chain-vs-v3 test-retest (0.82); Heat r 0.88. Run opus on chapters you
+have rewritten. Anthropic end-of-gate friction and ALMOST-STOPPED entries are lane style
+(opus named an exit in 47/47 fall chapters): count one only when it concentrates across
+independent reads or another family corroborates it (`tools/friction_check.py`).

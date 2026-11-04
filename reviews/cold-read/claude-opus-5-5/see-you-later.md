@@ -4,55 +4,48 @@
 
 ## Reader reaction
 
-**Reader reaction: "See You Later"**
+**Felt read**
 
-The first thing that hit me was being moved into Vee's head. It changes everything I remember about the last chapter. I watched that collision from Pace's lamppost. I saw Randi drift onto her line "by degrees so gradual they looked like chance." Now Vee says "it had genuinely not been clear" who walked into whom, and I felt my stomach drop a little. It isn't dread exactly. It's knowing something she can't. She's been picked out on a lawn for a couple's bed and she thinks she's been noticed by a girl. Every bright thing in this chapter carries that, and I couldn't put it down.
+This chapter made me ache for Vee, and I mean that both ways. I *liked* being inside her. The not-looking at the door, "the third minute of not looking at the door," the date written at the top of the page "so that her hand would have somewhere to be." I've been that girl. When Randi said "*There* you are" I got the little lift Vee got, and then my stomach dropped. Those are Pace's words from the bench: "There you are, Randi." Hearing them come out of Randi's mouth, aimed at Vee, made me go cold and hot at once. I can't tell if she knows she's quoting him. The page doesn't say, so I won't decide it.
 
-I like Vee right away and I'm protective of her. The door-not-looking is so well done: "now in the third minute of not looking at the door," the date written "so that her hand would have somewhere to be." Then there's the cardigan. She chose to cover up, in her mother's voice ("that's not the kind of attention a nice girl"). She takes a longer look at the near-naked girls at the bar than the word *floozies* accounts for, and then there's that private, slightly smug "she had more than they had." Her desire comes through as clothes judged and pride swallowed. She doesn't look at it straight. That gives me the inner life I read for, and it echoes Randi's own careful rationing without the book pointing it out. The want she has for Randi — "flat helpless want, the want you keep for a thing you've only ever seen from a distance" — reads to her as wanting to stand near someone, wanting to be her. I read it as more than that, but the page leaves it open and so will I.
+I know something Vee doesn't. I watched that collision on the lawn from Pace's light pole. I saw it built across thirty feet so that "the redhead had walked into *her*." Here Vee says "it had genuinely not been clear." She thinks she's the one being let into a brighter life. The last thing Randi said yesterday was "Do you think she'll like the bench?" So every sweet beat today, the right pen, the high table, "Love you, girl," came to me split down the middle. Vee is warm the whole way home and I'm not. The text earned that unease. I didn't bring it with me.
 
-Randi is the hard one, and the swoon and the unease sit on the same lines. The warmth is real warmth on the page. "*There* you are" got me. It's Pace's line from the bench ("There you are, Randi"), and now she's saying it to someone else. Is she passing on what was done to her, or using it? I can't tell. "I'm going to copy off you all semester," the forearm squeeze, the hand flat between the shoulder blades, "Love you, girl." It's a lovely performance and I was swept up with Vee. But I've seen this woman in a mirror deciding the face would do all her living for her. So when Vee "could not reconstruct what they had actually talked about," I took it as the face working perfectly. I'm not saying Randi is faking it. Her bare "Yes" on the lawn was the realest thing she's said in the book. I think both are true: she wants Vee, and she's recruiting her. The chapter doesn't decide which comes first, so I won't either.
+But I don't think Randi is only performing, and I want to be careful there. Yesterday her "yes" came out bare before she dressed it up. Today I could feel both things in her. There was the polished bit: "Yes, like the adjective. No, it's not a coincidence." That's "randy," and it's a line she's clearly used before. And there was the possibility that she really did go looking for this row. The accent got me most. Vee hears it as "a school in Switzerland, a year in Paris." I know it's Kentucky, and Kentucky only comes out "when something moved her." So something in that hour moved Randi enough to drop her guard, and Vee files it as glamour. That one detail did more for me than any sentence about Randi's feelings could have. I'm leaving her motive open, half hunt and half real want, because that's how the page leaves it.
 
-Cassie is the best surprise here. She's flat and unbothered, she doesn't take the opening Randi's little name bit leaves her, and then: "Goodbye, Vee." That earned real unease, and it came from the page, not from me being on guard. Something passes over her face that Vee "would not have been able to name." Cassie seems to see Randi the way Pace sees Randi, and she says so in the only way she has, one word. I want much more of her.
+Vee herself is wonderful and painful. The Chi Latte sequence is her eye at work: reading the room "all at once and in detail," and "*Floozies*" arriving "in her mother's voice." Then comes "a longer beat of looking than the word accounted for," at the sprinter's stomach and the low waistband. Then the cardigan she keeps on, "covered to the collarbone." She is the most of what the room is selling and the most covered, and she won't "look at either fact straight." Then she looks at Randi with "a flat helpless want." The book calls it the want for "a thing you've only ever seen from a distance." Whether that's desire to *have* Randi or to *be* her, or both, the page holds open, and so does Vee. That's where the charge is for me. It's not explicit at all. It's a girl wanting something she hasn't let herself name, sitting in a window where everyone can see her body.
 
-The erotic charge is low and under the surface. It shows up in Vee's look at the bare midriffs, in being "presented at the height the whole room could see" on the high stool, in knees nearly touching. After the bench it's mild, but it's the right mild for someone who hasn't let herself know anything yet.
+Cassie's "Goodbye, Vee" lodged in me like a splinter. Cassie isn't sulking and has no edge. She just turns down Randi's open door with one flat word, then says the whole word goodbye "for a longer parting than a Wednesday." Vee smooths it over: "It's *coffee*, weirdo." Something passed over Cassie's face that Vee "would not have been able to name." I can't name it either, but I trust Cassie. She's the one person in the chapter who isn't dazzled.
 
-There was some friction:
-- The professor's "*latent variables*," underlined once, felt like the author winking.
-- The accent paragraph mentions "a sister in the house and a parking ticket" before that story has come up, which tripped me.
-- Randi's accent is new to me. Nothing in the Pace chapters suggested she has one, and it surprised me.
-- Vee calls the meeting "the morning of it," but I remember Pace's walk as a four-o'clock afternoon.
-- The "key in a lock" echo is nice. Randi's hum was "the size of a key turning in a lock," and now a compliment goes into Vee "like a key in a lock." The deadbolt thread continues.
-
-The title is "See You Later" against Cassie's "Goodbye." Randi's "later" sounds to Vee like "a thing already scheduled in some calendar Vee couldn't see." I know whose calendar that is, and the title made me shiver. On the cover board it reads *With a Long Spoon · Book One — A Polite Invitation.* The spoon makes me think of the old saying about needing a long spoon to sup with the devil. I can't tell yet who the devil is meant to be. The polite invitation now looks a lot like an oat-milk latte at the high table. *Guess from here:* Randi will bring Vee closer step by step, and Cassie will be the one who sees it coming. I want the first scene where Vee is at Pace's house. I'm a little afraid of the moment the bench comes up.
+Friction: the "words were gone" passage runs a little long. It's well done, but I got the point that "the transcript was blank" before the paragraph ended. "Key in a lock" made me sit up, though. Randi's hum in the last chapter was "the size of a key turning in a lock," and her deadbolt goes over first thing. Here a compliment goes into Vee "like a key in a lock." It's heavy, but I felt it. The title is the hinge: Cassie's "goodbye" against Randi's "see you later," "a thing already scheduled in some calendar Vee couldn't see." That's exactly right, and it gave me a chill. Somebody else does have the calendar. *With a Long Spoon* (you sup with the devil with a long spoon) and *A Polite Invitation* land hard here. This coffee *was* a polite invitation, and Vee has no spoon at all. My guess from here: Randi brings Vee to Pace's house, and I'm dreading the bench being uncovered and hoping Vee's own want turns out to be real enough to meet it.
 
 ---
 
-**Cast present (in person):** Vee, Cassie, Randi, the stats professor; the café girls, the guy with the skateboard, the two annoyed people in the row.
-Mentioned only: Meg, Vee's mother, the sister with the parking ticket, "a guy" (presumably Pace, unnamed).
+**Cast present (in person):** Vee, Cassie, Randi, the stats professor, the Chi Latte girls (background). Mentioned only: Meg, Randi's housemate with the parking ticket, "a guy" (unnamed; presumably Pace, but not confirmed), Vee's mother (as a voice).
 
-**Heat:** 1 — Vee's unadmitted looking at the bare girls and at Randi gives a low charge; the scene isn't about it.
+**Heat:** 1 — the wanting is mostly unnamed: Vee's lingering look at the bare midriffs, her "flat helpless want" for Randi, knees nearly touching at the high table.
 
-**Romance:** 2 — Vee's dazzled pull toward Randi, the hug, "Love you, girl"; one-sided, and possibly part performance.
+**Romance:** 2 — Vee's falling-feeling is total: chosen, lit up, "Love you, girl," the hug with a hand flat on her back.
 
 **Motifs & images:**
-- "There you are" (repeat, from the bench aftermath)
-- Citrus perfume, "cold citrus" (repeat, from The Bench)
-- Key in a lock (repeat, from Randi's hum at the end of The Bench)
-- Cardigan (repeat: Randi's cream cashmere, now Vee's chosen covering)
-- Ponytail "not moving" (repeat, from the tail that gave the wind "nothing")
-- Matched sage athleisure and scrunchies (repeat, from the pointing walk)
-- Mothers' voices policing the body (repeat: Randi's egg-white mother, now Vee's)
-- Spoons ringing in cups (first; possibly the book's spoon)
-- The Greek-letter sign as an inside joke you're let into (first)
+- "There you are": repeat, Pace to Randi on the bench, now Randi to Vee.
+- Key in a lock: repeat of Randi's hum and the deadbolt.
+- Cardigan: repeat. Randi's cream cardigan for Pace; now Vee's cardigan kept on as cover.
+- Cold citrus perfume: repeat.
+- Kentucky accent misheard as European: repeat, with irony.
+- Sage athleisure and big scrunchies: repeat from the pointing walk.
+- Ponytail "not moving" in the wind: echoes the sleek tail on the quad.
+- Arm-touch held a half-beat long: repeat from the lawn.
+- Spoons ringing in cups: first sighting, and it rhymes with the long spoon.
+- "Goodbye" vs. "see you later": first.
 
-**Symbolism:** The Χ ΛΑΤΕ sign is a joke Vee has stood outside of and is now let under, which fits being let into Randi's world. The high table works as a display window. "Goodbye" vs. "See you later" is two kinds of leaving, and maybe a warning.
+**Symbolism:** The high table in the window: being put on display, her body "presented at the height the whole room could see." It carries a faint echo of the bench. The Χ ΛΑΤΕ sign is a joke you only get once you're let in.
 
 **Characterization:**
-- Vee lands fully: observant, hungry to belong, covering herself, proud, lying to herself in a way I can believe.
-- Cassie gets sharp from very little.
-- Randi deepens through seeing her from outside: the polish I watched her rebuild in the mirror now aimed at someone. The accent is a small new oddity.
-- Pace is absent and is felt only as the unseen calendar.
+- Vee: deepened a lot. Socially fluent, quietly vain about her body, ruled by her mother's voice, self-deceiving in a way I believe.
+- Cassie: sharp and appealing in very few words.
+- Randi: deepened seen from the outside. The performer is visible, and so are the leaks.
+- The professor and the girls are scenery, and that's fine.
 
-**Pace — within the chapter:** The lecture-room tension is tight and the café arrival is lush. The room inventory runs a bit long. The blanked-out conversation is a smart shortcut, and the sidewalk goodbye lands clean.
+**Pace — within the chapter:** The lecture moves well. Chi Latte is lush. The "can't remember the words" stretch overstays by a paragraph. The closing walk home lands.
 
-**Pace — chapter to chapter:** Building. After three Randi/Pace chapters, the switch to Vee's point of view gives everything new energy and turns the last chapter's game into dramatic irony. It doesn't repeat the previous beats; it puts them in a new light.
+**Pace — chapter to chapter:** It shifts to Vee's point of view after three chapters inside Randi and Pace, and that freshens things. The tension builds through the dramatic irony instead of through heat, so momentum is rising even with the temperature low.
