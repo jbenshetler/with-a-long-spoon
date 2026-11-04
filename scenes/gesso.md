@@ -142,7 +142,7 @@ Randi's foot flexed in her hands.
 
 Vee laughed, the awful helpless kind, her whole face in flames, and pulled Randi's foot further into her lap as if it were something to hold on to.
 
-"I bet you looked luscious." Randi said it low, almost to herself, and *luscious* came out of her poured, honey off a spoon, from wherever it was she'd learned to talk. Vee could tell by now: Randi only sounded like that when something had gotten to her. "I wish I could have seen it."
+"I bet you looked luscious." Randi said it low, almost to herself, and *luscious* came out of her poured, honey off a spoon. Vee could tell by now: Randi only sounded like that when something had gotten to her. "I wish I could have seen it."
 
 Vee's eyes went to her bag on the seat beside her before she could stop them.
 
@@ -174,7 +174,7 @@ Randi went quiet.
 
 Vee watched her look. It went on. Randi's face did nothing at all, which was not like her face, and her thumb lay along the edge of the phone and didn't move.
 
-"You told me he was enthusiastic," Randi said at last. It came out low and a little hoarse, the voice they kept for the things they only said to each other. "I see why, Miss November."
+"You told me he was enthusiastic," Randi said at last. It came out low and a little hoarse. "I see why, Miss November."
 
 Vee laughed, or nearly; it came out a breath.
 
@@ -200,7 +200,7 @@ Randi said nothing. Her mouth had begun to curve.
 
 "Like he had to be careful with me." Vee reached for her mimosa and found it empty and set it down again. "He took me at my word."
 
-"Oh, honey," Randi said softly. "You were curious — and he listened."
+"Oh, girl," Randi said softly. "You were curious — and he listened."
 
 Vee didn't say anything. Her hand had gone up into her hair, at the nape, and stayed there.
 
@@ -210,7 +210,7 @@ Vee didn't answer that.
 
 She had been trying very hard not to put it all in a row. The dish rack. Her own fingers in her own bed, a breath short of her mouth. Salt and lime on a dance floor. Friday: walnut, parsley, grape, and the one he never fed her. They were separate things. They kept lining up anyway.
 
-"And now he won't give it to you," Randi said, "because you told him not to." She let it sit a moment. "If it doesn't mean no anymore, honey, maybe you should tell him."
+"And now he won't give it to you," Randi said, "because you told him not to." She let it sit a moment. "If it doesn't mean no anymore, beautiful, maybe you should tell him."
 
 Her body answered first: one hard pulse, low, that she felt down to her knees. A heartbeat behind it came the *no*, flat and clean, from where it always came from — *that's wrong, that's not a thing you do.*
 

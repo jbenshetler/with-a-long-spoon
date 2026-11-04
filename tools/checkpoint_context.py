@@ -24,7 +24,18 @@ checkpoint_bundle prose window), minus the reader prompt, plus the slicer. It em
 only the checkpoint + recent chapters; the AGENTS.md load-rule reads the meta/ canon
 docs first, on its own, then runs this.
 
-If the decade checkpoint is missing it is minted first. Volume One checkpoints
+Default source is the cross-vendor CONSENSUS memory (author ruling 2026-11-04), the
+same memory the grounded cold-read panel and capture v3 read:
+reviews/cold-read/fact-consensus/ck-ch<B>.reader.md (audited facts + agreed readings,
+readings labelled as such). `--model consensus-facts` reads the facts-only
+ck-ch<B>.md that capture v3 uses. Consensus checkpoints are never minted here: they
+are built by tools/fact_consensus.py, whose Google/diversity slots are paid OpenRouter
+lanes (author authorization required). A consensus checkpoint whose recorded
+bundle-sha256 no longer matches the prose of ch1..B is reported STALE (same test as
+capture_dag.fact_stale) and still loaded.
+
+For a single-model checkpoint (`--model claude-opus-5-5` etc.): if the decade
+checkpoint is missing it is minted first. Volume One checkpoints
 read raw prose from the opening. A later-volume checkpoint consolidates the
 frozen final checkpoint of the preceding volume plus raw current-volume prose;
 every checkpoint in that volume uses the same frozen seed. Codex/OpenAI-family
@@ -44,6 +55,7 @@ Runs under bare python3 (imports no tomllib); minting shells out to checkpoint_e
 from __future__ import annotations
 
 import argparse
+import hashlib
 import subprocess
 import sys
 from pathlib import Path
@@ -82,8 +94,31 @@ def boundary(n: int, decade: int = DECADE) -> int:
     return ((n - 1) // decade) * decade
 
 
+CONSENSUS = "consensus"              # facts + agreed readings (.reader.md)
+CONSENSUS_FACTS = "consensus-facts"  # audited facts only (what capture v3 reads)
+
+
+def is_consensus(model: str) -> bool:
+    return model in (CONSENSUS, CONSENSUS_FACTS)
+
+
 def ck_path(model: str, b: int) -> Path:
+    if model == CONSENSUS:
+        return REPO / f"reviews/cold-read/fact-consensus/ck-ch{b:03d}.reader.md"
+    if model == CONSENSUS_FACTS:
+        return REPO / f"reviews/cold-read/fact-consensus/ck-ch{b:03d}.md"
     return REPO / f"reviews/cold-read/{model}/checkpoints/ck-ch{b:03d}.md"
+
+
+def is_stale(path: Path, b: int) -> bool | None:
+    """Does the checkpoint's recorded bundle-sha256 still match the prose of ch1..b?
+    None when the checkpoint records no bundle hash."""
+    recorded = checkpoint_bundle.checkpoint_metadata(path.read_text(), "bundle-sha256")
+    if not recorded:
+        return None
+    current = hashlib.sha256(
+        checkpoint_bundle.build_reader_bundle(b, start=1).encode()).hexdigest()
+    return recorded != current
 
 
 def is_claude(model: str) -> bool:
@@ -178,6 +213,17 @@ def ensure_checkpoint(model: str, b: int, mint_mode: str, drafted_count: int):
     if path.exists():
         return path
     rel = path.relative_to(REPO)
+
+    if is_consensus(model):
+        if mint_mode == "never":
+            print(f"[missing] {rel} (--no-mint); proceeding without the checkpoint.",
+                  file=sys.stderr)
+            return None
+        sys.stderr.write(
+            f"[missing] {rel} — consensus checkpoints are built by "
+            f"tools/fact_consensus.py --to {b}\n(paid OpenRouter slots: needs the author's "
+            f"authorization). Re-run with --no-mint to proceed without it.\n")
+        raise SystemExit(MINT_NEEDED)
 
     if b > drafted_count:
         print(f"[note] {rel} can't be minted yet — {drafted_count} chapters drafted, ch1..ch{b} "
@@ -287,8 +333,10 @@ def main() -> None:
     tgt.add_argument("--scene", dest="scene",
                      help="scene slug; resolves N for you (drafted reading order — works even if the "
                           "target scene is itself undrafted). Prefer this over --to.")
-    ap.add_argument("--model", default="claude-opus-5-5",
-                    help="checkpoint model id (default: opus; e.g. claude-fable-5, gpt-5.6-terra)")
+    ap.add_argument("--model", default=CONSENSUS,
+                    help="checkpoint source: consensus (default; facts + readings), "
+                         "consensus-facts (facts only), or a model id for a single-model "
+                         "checkpoint (e.g. claude-opus-5-5)")
     ap.add_argument("--keep", default=None,
                     help="comma-separated section aliases to keep (overrides DEFAULT_KEEP)")
     ap.add_argument("--drop", default=None, help="comma-separated section aliases to drop")
@@ -323,7 +371,13 @@ def main() -> None:
         print(f"decade boundary  : B = {b}" + ("  (no checkpoint — pre-decade)" if b < DECADE else ""))
         if b >= DECADE:
             p = ck_path(args.model, b)
-            print(f"checkpoint       : {p.relative_to(REPO)}  [{'present' if p.exists() else 'MISSING → mint'}]")
+            if not p.exists():
+                state = "MISSING → fact_consensus.py (paid)" if is_consensus(args.model) else "MISSING → mint"
+            else:
+                stale = is_stale(p, b)
+                state = "present" + (" · STALE: prose ch1..ch%d changed since it was built" % b
+                                     if stale else "" if stale is False else " · no bundle hash recorded")
+            print(f"checkpoint       : {p.relative_to(REPO)}  [{state}]")
         print(f"keep sections    : {', '.join(keep)}")
         print(f"drop sections    : {', '.join(k for k in SECTIONS if k not in keep)}")
         if win_start > win_end:
@@ -341,7 +395,12 @@ def main() -> None:
     if b >= DECADE:
         path = ensure_checkpoint(args.model, b, mint_mode, len(drafted))
         if path is not None:
-            out.append(f"===== MEMORY CHECKPOINT (consolidated reader-memory through ch{b}) =====\n")
+            stale = is_stale(path, b)
+            note = ""
+            if stale:
+                note = f" [STALE: prose ch1..ch{b} changed since it was built]"
+                print(f"[warn] STALE FACTS — {path.relative_to(REPO)}{note}", file=sys.stderr)
+            out.append(f"===== MEMORY CHECKPOINT (consolidated reader-memory through ch{b}){note} =====\n")
             out.append(project(path.read_text(), keep))
 
     if win_start <= win_end:

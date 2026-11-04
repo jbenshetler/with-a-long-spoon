@@ -178,6 +178,12 @@ It is strictly domain-limited. Where the stake *is* sex or love the deference va
 
 The one wound. **Named on the page at {{Rock}}** (`rock.md:207` — *"Daphne,"* given bare then guarded; Vee has to ask to get the rest), seeded unnamed a scene earlier at the bench (`the-bench.md`, the closed-bathroom-door memory). **Gift-source and wound-source at once** — the same two years produced the cultivation epistemology (the grammar of his hands: women learned slowly, one deep subject, one teacher) *and* the injuries the rest of the architecture rests on. There is exactly one wound: the father and mother are the *soil*, Daphne is the *event*, and adding a second would tip him past injured into broken (author discipline, `meta-note-pace-warming.md`).
 
+**Content note (author ruling 2026-11-04).** The relationship is backstory only: never rendered,
+never on the page as scene, and never endorsed. The novel treats it as something bad that
+happened to him, off the page, before the story opens — the same as a mugging or a murder
+that happened off-page — and renders only the fallout. Nothing of the relationship itself is
+ever dramatized, in any chapter or volume.
+
 She produced three things, never on one page together:
 
 - **The gift** — his patience, attention, a body read slowly over time; he learned women the way he learns everything, one subject, deep (`meta-note-first-love.md`).

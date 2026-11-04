@@ -14,12 +14,13 @@ When drafting, revising, or critiquing chapter **N** or its beats, you need what
 one at a time (that stays the `lore-keeper`'s job), but as **standing reader-memory**:
 who's who, the relationship states and milestone flags, the dramatic-irony ledger, the
 live motifs, the open questions the reader is holding. That memory already exists as the
-spec-blind decade **checkpoints** under `reviews/cold-read/<model>/checkpoints/`.
+cross-vendor **consensus checkpoints** under `reviews/cold-read/fact-consensus/` — the same
+memory the grounded cold-read panel and capture v3 read (author ruling 2026-11-04).
 
 `tools/checkpoint_context.py` assembles the authoring view of it:
 
 ```
-tools/checkpoint_context.py --scene <slug>    # opus checkpoint by default
+tools/checkpoint_context.py --scene <slug>    # consensus checkpoint by default
 ```
 
 Address the chapter by its **slug**, not a number: `--scene` resolves the drafted
@@ -89,11 +90,15 @@ facts ("what is actually true") still go through the `lore-keeper`.
 
 ## Options
 
-- `--model <id>` — which checkpoint (default `claude-opus-5-5` — author ruling 2026-10-12: the
-  Claude-lane extractor runs on the model that spawns it, so the authoring lane must be a
-  model the session can actually run, and 5-5 is also a `core` donor source; opus-4-8 was the
-  default before this; e.g. `claude-fable-5`,
-  `gpt-5.6-terra`). You author off opus, so opus is the default.
+- `--model <source>` — which checkpoint. Default `consensus` (author ruling 2026-11-04):
+  `fact-consensus/ck-ch<B>.reader.md`, audited facts plus agreed readings (readings labelled
+  as readings) — what a cold reader holds. `consensus-facts` reads the facts-only
+  `ck-ch<B>.md` that capture v3 uses. A model id (e.g. `claude-opus-5-5`) reads that model's
+  single-model checkpoint under `reviews/cold-read/<model>/checkpoints/` (the opus default of
+  2026-10-12 is superseded; most of those were retired at the 2026-10-30 renumbering).
+- **Staleness.** The tool compares the checkpoint's recorded `bundle-sha256` with the current
+  prose of `ch1..B` (the capture harness's test) and marks it `STALE` in `--check` and the
+  output header. A stale checkpoint still loads; say so when you use it, and offer a rebuild.
 - `--check` — print the load plan (boundary, checkpoint present/missing, window range,
   keep-set) and emit nothing.
 - `--keep a,b,c` / `--drop x,y` — re-cut the projection. The default keep-set lives in
@@ -102,6 +107,11 @@ facts ("what is actually true") still go through the `lore-keeper`.
   directly; Claude hands off to a subagent). `--no-mint` — decline; proceed without it.
 
 ## When the decade checkpoint is missing — offer to create it
+
+**Consensus (default):** never minted here. It is built by `tools/fact_consensus.py --to B`,
+whose Google and diversity slots are **paid OpenRouter** lanes: estimate the cost and get
+the author's authorization first. The tool exits `2` with that instruction. The rest of this
+section applies to single-model checkpoints.
 
 A missing decade checkpoint is expected the first time you draft into a new decade. The
 tool **offers to create it** rather than failing; it exits with code **2** (`MINT_NEEDED`)
