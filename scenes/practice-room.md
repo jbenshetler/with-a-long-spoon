@@ -94,7 +94,7 @@ She couldn't find the end of it. The word she needed wasn't a word she owned yet
 
 Randi let her hang there a moment, kindly.
 
-"Oh, baby." She settled back, and her face did something fond and far away. "Sometimes it's the mouse that roars."
+"Oh, baby." She settled back, and her face did something fond and far away. "Sometimes it's the mouse that roars." *Roars* rose in the middle and came down again, a word with a little hill in it, and the hard sounds around it had melted, and Vee heard the school abroad in it, years back.
 
 "Mine," Randi said. "You'd never have picked him out of a room. Slight little thing, soft-spoken, apologized to the furniture. But get him home, and if I'd had too much wine and gotten a little flirty with other men at dinner? Oh, I'd hear about it."
 

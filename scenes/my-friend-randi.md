@@ -178,7 +178,7 @@ She only knew she wasn't finished. So she stayed, and Randi's breath stopped aga
 
 Then she let go and laughed at herself, wet-eyed. "Sorry. God. I'm such a mess."
 
-"Go and sleep," Randi said.
+"Go rest up," Randi said. "Tonight you get your man back, gorgeous." *Man* had room in it to turn around, and *back* took a corner before it finished, the little bit of elsewhere in her voice nearer the surface than Vee had ever heard it. *That's how she sounds at home,* Vee thought.
 
 Then Vee went out into the cold with a plan sitting where the wreckage had been, and walked back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
 

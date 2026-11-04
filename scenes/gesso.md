@@ -142,7 +142,7 @@ Randi's foot flexed in her hands.
 
 Vee laughed, the awful helpless kind, her whole face in flames, and pulled Randi's foot further into her lap as if it were something to hold on to.
 
-"I bet you looked luscious." Randi said it low, almost to herself. "I wish I could have seen it."
+"I bet you looked luscious." Randi said it low, almost to herself, and *luscious* came out of her poured, honey off a spoon, from wherever it was she'd learned to talk. Vee could tell by now: Randi only sounded like that when something had gotten to her. "I wish I could have seen it."
 
 Vee's eyes went to her bag on the seat beside her before she could stop them.
 

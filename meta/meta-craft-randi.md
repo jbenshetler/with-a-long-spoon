@@ -302,8 +302,25 @@ lets the tell fire in plain sight for sixty chapters without Vee ever assembling
 | 001 | {{The Bench}} | coming out of hiding, Pace POV — **first on the page** | Pace names it: *"Kentucky came up into it"* (`:65`); she had told him, sheepish, when he asked |
 | 003 | {{The Pointing Game}} | slipping on the quad, Pace POV | *"Her practiced voice was slipping… Kentucky, coming on."* (`:97`) — the second named instance teaches the reader the tell |
 | 004 | {{See You Later}} | baseline, not a tell | *"a school in Switzerland, a year in Paris, a mother who'd had one or the other"* — she builds a false biography and *"left it alone"* |
-| 022 | {{Fed}} | aroused **while operating** — the carve-out case | *"She's a little drunk"* — then she counts: *one mimosa, and most of that still in the glass.* *"So it wasn't that. Nothing came along to take its place."* The explanation fails and she has nothing to replace it with |
-| 029 | the {{Broken In}} | aroused at the settled kiss | *"put it where she always put it, somewhere across an ocean"* |
+| 017 | {{Fed}} | aroused **while operating** — the carve-out case | *"She's a little drunk"* — then she counts: *one mimosa, and most of that still in the glass.* *"So it wasn't that. Nothing came along to take its place."* The explanation fails and she has nothing to replace it with |
+| 024 | the {{Broken In}} | aroused at the settled kiss — **Volume Two reintroduction** | *"put it where she always put it, somewhere across an ocean"*; the biography has grown: *"The Swiss school had a lake under its windows by now, and the story had a grandmother in it too, in some city with trams, who had poured Randi her first espresso into a small white cup"* (`:207`) |
+| 027 | {{The Practice Room}} | tender — fond memory of the "mouse" ex (Pace) | *"Roars rose in the middle and came down again, a word with a little hill in it"*; *"the school abroad in it, years back"* (`:97`). Placed on memory, not present appetite: the capture panel already reads Randi as predatory here |
+| 046 | {{My Friend Randi}} | moved, after Vee's kiss | *"Tonight you get your man back, gorgeous." Man had room in it to turn around, and back took a corner*; *"That's how she sounds at home"* (`:181`) — seeds Vee's next inference |
+| 053 | {{Among Friends}} | tender, the toast — **Volume Three reintroduction** | *"Beautiful lay down long and warm in her mouth, a word set out in the sun"*; Vee imagines the private jet and the old school, *"the castle by the blue alpine lake"* (`:75`). Vee then knows she is aroused and attributes it wholly to Pace |
+| 066 | {{Gesso}} | aroused, imagining the photo | *"luscious came out of her poured, honey off a spoon, from wherever it was she'd learned to talk"*; Vee reads the pattern as being moved: *"Randi only sounded like that when something had gotten to her"* (`:145`). The low-and-hoarse arousal voice stays at `:177` (with `gone.md:59`, `covering.md:173`) — throat and accent kept distinct |
+
+**Spacing and rendering (author rulings 2026-11-04).** The **first Vee-heard instance in each
+volume reintroduces it as European**, with the biography she has made up, and the biography
+**accretes** — each reintroduction adds invented detail (the lake, the grandmother, the castle,
+the jet), never a restatement. Between reintroductions, a light instance roughly every ten to
+twenty chapters, varying the trigger (arousal, tenderness, memory). **The accent smooths the voice**
+— never render it as roughness or hoarseness, and never as tempo alone (*slow*, *unhurried*):
+Vee hears specific sounds in specific words, in her own pictures, never Pace's measured
+vocabulary (*syllables*, *vowel*, *lost its edges*, *came up into it*, *trailing off*). Only
+where Vee can hear it — not under music ({{On Her Floor}}). Declined: {{Covering}} (too sad),
+{{All the Time}} (its roughness tells conflict). **Volume Four:** the reintroduction goes at the
+first Vee-POV chapter with Randi (likely {{The Sheer Dress Brunch + The Dressing Room}}); a Pace-POV firing names
+Kentucky instead.
 
 {{Fed}} is the load-bearing one: Randi is running the floozie-shame conversion *and* aroused by
 Vee having planned her own transgression, so it is the clean demonstration that the voice is not

@@ -204,7 +204,7 @@ Randi sent her home with the shoes in a soft drawstring bag and the scarf folded
 
 And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did.
 
-"Sleep, gorgeous," Randi said, close, and the esses ran long in it and the a came up arched out of the middle of the word, more of it than there usually was. Vee heard it and liked it and put it where she always put it, somewhere across an ocean, and went out into the cold.
+"Sleep, gorgeous," Randi said, close, and the esses ran long in it and the a came up arched out of the middle of the word, more of it than there usually was. Vee heard it and liked it and put it where she always put it, somewhere across an ocean. The Swiss school had a lake under its windows by now, and the story had a grandmother in it too, in some city with trams, who had poured Randi her first espresso into a small white cup and talked to her over it in her mother's language. Vee went out into the cold.
 
 "See you soon, gorgeous," Randi said.
 
