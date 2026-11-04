@@ -139,7 +139,8 @@ evidence** (line-edit verdicts re-open on a text edit to the passage).
   Vee, and the two converge at `:96`, "it's just how it's done." `:31`/`:33`
   are a designed pair (Vee reads the right side, Randi the left). Measure
   before re-raising.
-- **`:172` "a small drawing-back, the barest pause… a little more"** — three
+- *(Superseded 2026-11-04: the second press moved to {{Fed}} and was recast — Randi's draw-back now keeps contact and takes, no pause; `meta-plan-satc-tracks.md`, Two kisses, two consents.)*
+  **`:172` "a small drawing-back, the barest pause… a little more"** — three
   miniaturizers in one chain, kept. Not one measurement three times:
   spatial, temporal, pressure. The smallness is the content — the second
   press works by being almost undetectable, which is what keeps it

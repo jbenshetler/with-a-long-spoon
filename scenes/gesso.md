@@ -276,7 +276,7 @@ Outside the cold had come down out of a white sky, and the lot was half empty. R
 
 At Randi's car Randi turned, and her hand came up to the hinge of Vee's jaw, light, as it had at the end of every brunch since October.
 
-Vee held still for it. She gave her the mouth, closed, and kept it closed, and when Randi drew back an inch for the second press, Vee was already out of reach.
+Vee held still for it. She gave her the mouth, closed, and kept it closed, and when Randi's mouth eased back to open the kiss, Vee took hers away and was out of reach.
 
 Randi looked at her. "Is something wrong?"
 
@@ -290,7 +290,7 @@ Randi looked at her. "Is something wrong?"
 
 Then both of Randi's hands came up, one on either side of Vee's face, cool from the cold.
 
-Randi began again from the beginning, and this time nothing was skipped. One hand settled at the hinge of Vee's jaw. The first press, soft, and held. The small draw-back, an inch of cold air between them, Randi's eyes on hers across it. Then the second, with more in it, slower, taking its time, as if every part of it had to be attended to.
+Randi began again from the beginning, and this time nothing was skipped. One hand settled at the hinge of Vee's jaw. The first press, soft, and held. The small draw-back, her lips never leaving Vee's, the kiss opening between them. Then the second, with more in it, slower, taking its time, as if every part of it had to be attended to.
 
 Vee went soft into it. She couldn't have said when. Her hands had found the front of Randi's coat and shut on it and were holding on.
 

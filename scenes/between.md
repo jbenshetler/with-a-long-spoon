@@ -122,7 +122,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 At ten the room below them began shutting down. They paid at the little terminal and took their coats off the hook — Vee turning hers lining-to-the-wall, a habit she had stopped noticing she had — and came down the steep stair past the jukebox, its green water still climbing for nobody.
 
-Then the cold, and Randi's hands came onto both her arms, and Vee brought her face up and around before Randi had started to, and stopped there with her eyes already closed, waiting on the hand. It came — fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: a draw-back no wider than a breath, a wait held inside it, and her mouth again, and this time it stayed. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face landed at the side of Randi's neck and her mouth went there in passing, and neither of them said a word about it.
+Then the cold, and Randi's hands came onto both her arms, and Vee brought her face up and around before Randi had started to, and stopped there with her eyes already closed, waiting on the hand. It came — fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: her mouth eased back without ever leaving Vee's, opening the kiss, and then she took more of it, and this time it stayed. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face landed at the side of Randi's neck and her mouth went there in passing, and neither of them said a word about it.
 
 "Thursday."
 

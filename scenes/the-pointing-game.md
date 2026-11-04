@@ -178,7 +178,7 @@ She was failing to hide the grin. It was all over her, the grin, breaking the ma
 
 "Her name is Vee." She arrived in front of him glowing. "And we've got a stats class together."
 
-Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. Then she came in and got both hands into his hair, and — "*Yes*," she said, the word squeaking out of her, high and delighted — kissed him, quick and grinning. Drew back an inch. And then, lower, the grin gone out of it: "*Yes*," breathy this time, the register she only used in his bed and never in daylight — and she kissed him again and stayed in it, holding on. He wrapped her up and held her there while a couple of students went past on the walk. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.
+Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. Then she came in and got both hands into his hair, and — "*Yes*," she said, the word squeaking out of her, high and delighted — kissed him, quick and grinning. Eased back, her lips never quite off his. And then, lower, the grin gone out of it, against his mouth: "*Yes*," breathy this time, the register she only used in his bed and never in daylight — and she took the kiss back and stayed in it, holding on. He wrapped her up and held her there while a couple of students went past on the walk. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.
 
 She was quiet against him a moment, watching the same thing he was. Then, low, without lifting her head: "Do you think she'll like the bench?"
 
