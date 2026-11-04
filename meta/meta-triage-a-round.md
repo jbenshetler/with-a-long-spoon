@@ -247,3 +247,12 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **opus-5-5** — the braced-for-ridicule grin paragraph. `reviews/cold-read/claude-opus-5-5/a-round.md:19`: "…The braced-for-ridicule paragraph ("She knew that grin... No, not grinning. Smiling.") felt like a feint the author built just to correct it. And the last lines spell out the lesson ("had not, once, been found…"
 - [ ] **glm** — QUIZ TODAY cuter than the register. `reviews/cold-read/glm-5.3/a-round.md:17`: "…a touch familiar by the third or fourth visit, but that's the point of the voice, its persistence. The QUIZ TODAY flash was the one place I blinked — a bit cuter than the register around it — but it made me smile anyway.…"
+
+## Author ruling 2026-11-03 — Randi's absence in ch12–14
+
+- **Stands (correct by design).** Anthropic lanes (opus-5-5 "I'm hungry for Randi's side";
+  sonnet "Where's Randi?") and DeepSeek ("the triangle is overdue to re-enter") want Randi
+  back by {{A Round}}; Zhipu ("absent and vivid by absence") and OpenAI ("her invisible
+  presence unavoidable") read the absence as working. ch11 is Pace and Randi; ch12–14 are
+  Vee's, with Randi named once; she returns in {{Famished}} and {{Fed}}. Logged here because
+  this is where readers raised it; it covers the ch12–14 stretch.

@@ -71,3 +71,13 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **opus-5-5** — closing image vs. later froyo setup: did Vee text back? Continuity check. `reviews/cold-read/claude-opus-5-5/water-wings.md:17`: "…me: the thread holds "just his one text, still asking whether she liked frozen yogurt." So she never texted back? Then how did they set up the froyo, by calling? Or is the point that she's never actually typed a word to…"
 - [ ] **glm** — bleacher heckle. `reviews/cold-read/glm-5.3/water-wings.md:19`: "…right when the chapter wants to show Vee's body being looked at without her consent, and it's the most "authored" moment. But the payoff — Cassie's deadpan "Tossers" — earns it.…"
+
+## Author ruling 2026-11-03 — the unanswered text (:55)
+
+- **Stands; resolved on the page.** claude-opus-5-5 (cold read :17) asked "So she never
+  texted back? Then how did they set up the froyo…" The froyo was arranged in person; the
+  thread's one unanswered text is the point (she has never typed a word to him), and
+  {{May I Choose}} opens by paying off the crosswalk image: "She sent it Friday evening…
+  She'd typed it at the crosswalk" (`may-i-choose.md:7`), then "I'd love to." A cold read of
+  ch7 alone cannot see the payoff. Even unrendered it would sit below the level that needs
+  rendering. Closes the 2026-11-03 open singleton above.
