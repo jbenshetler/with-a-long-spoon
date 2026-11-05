@@ -100,7 +100,7 @@ He did nothing. His eyes came back up and found hers in the glass, and he smiled
 
 ---
 
-She came in past eleven on Monday with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
+She came in past eleven on Monday with the night still on her, the warmth of his car and of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
 
 Cassie was folded into the bean bag with a book against her knees. "You're doing the streetlight thing again," she said, not looking up. "You're a public utility."
 

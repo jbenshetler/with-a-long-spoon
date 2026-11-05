@@ -4624,6 +4624,13 @@ text = "She came in past eleven with the night still on her, the warmth of his c
 note = "warmth load-bearing by design: the warmth-kept-after is the planned leak of the body into the romance channel (condensed brief); panel confirmed earned (gpt-5.6-sol: conspicuous but earns itself)"
 
 [[ok]]
+fp   = "cd899eb4a5a2"
+rule = "warm"
+file = "scenes/school-nights.md"
+text = "She came in past eleven on Monday with the night still on her, the warmth of his car and of the evening before that, and the thin cold off the window found her at the door as it always did."
+note = "warmth of his car and of the evening before that — load-bearing against the window's cold; repeat cut (author 2026-11-05)"
+
+[[ok]]
 fp   = "ea574551aac0"
 rule = "whole-of"
 file = "scenes/school-nights.md"

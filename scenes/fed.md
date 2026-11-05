@@ -82,7 +82,7 @@ Vee looked at her hands on the white cloth. "I painted my nails," she said. And 
 
 The heat came up in her throat.
 
-"Mm," Randi said, warm, and drew a fingertip back along her hairline to a strand that hadn't moved, and did not say the rest of it, and did not have to. "That color, though." Her eyes had gone to Vee's hand on the cloth. "It's beautiful. What's it called?"
+"Mm," Randi said, and drew a fingertip back along her hairline to a strand that hadn't moved, and did not say the rest of it, and did not have to. "That color, though." Her eyes had gone to Vee's hand on the cloth. "It's beautiful. What's it called?"
 
 "Frosted plum."
 
