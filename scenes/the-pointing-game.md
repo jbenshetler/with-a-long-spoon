@@ -4,9 +4,9 @@
 
 ---
 
-On her way into the bedroom she had slowed at the long table with its top back on. Saturday morning she had walked past it on her way out without looking at it, and had not spoken of it since, and neither had he. Now she looked at it. *Let's do something different,* she said. *Today.* Not a question. She handed him the day as she handed him every one. He said nothing to it. He took her to bed.
+On her way into the bedroom she had slowed at the long table with its top back on. Saturday morning she had walked past it on her way out without looking at it, and had not spoken of it since, and neither had he. Now she looked at it, and her breath left her in a whoosh. *Let's do something different,* she said. *Today.* Not a question. She handed him the day as she handed him every one. He said nothing to it. He took her to bed.
 
-She came the first time with his mouth on her, her hand flat against the top of his head, not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, her breath going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
+She came the first time with his mouth on her, her hand flat against the top of his head, not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, the sound in her throat going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
 
 He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand. He slid into her then, into all that grip and flutter, before he kissed her.
 
