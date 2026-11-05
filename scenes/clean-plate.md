@@ -254,19 +254,19 @@ She did it, hand up, the gesture rerun for the loft as farce. "And I told him �
 
 She had it all delivered now, the whole shape, her own outrage arranged on the table like a party trick, and she went for the closer.
 
-"I mean — obviously. Right? Gross. Wrong. Somebody had to say it. And the very best part is I wouldn't let him stop what he was — I'm objecting on decency grounds while actively holding the man in place, I want that on the record — and he just wiped his mouth, one pass, like a gentleman, and said 'Okay,' and carried on being magnificent, and that was that." She was laughing, mostly. "You think it's gross too, don't you."
+"I mean — obviously. Right? Gross. Wrong. Somebody had to say it. And the very best part is I wouldn't let him stop what he was — I'm objecting on decency grounds while actively holding the man in place, I want that on the record — and he just wiped his mouth, one pass, like a gentleman, and said 'Okay,' and carried on being magnificent, and that was that." She was laughing, mostly. "Who would ever actually *want* something that gross?"
 
 Randi considered the question exactly as long as it deserved, which turned out to be longer than Vee had budgeted.
 
-"I don't."
+"I do."
 
-It was flat. Not cold — level, mild, a fact set down on the cloth between them, and Vee's laugh came down off its step and stood there in the loft with nowhere to go.
+It came quiet, without a smile, her eyes on Vee's the whole length of it: a fact set down on the cloth between them, carefully, like something filled to the brim. Vee's laugh came down off its step and stood there in the loft with nowhere to go.
 
-"You — hm." Vee blinked at her. "You've never—?"
+"You — hm." Vee blinked at her. "You've actually—?"
 
 "I have."
 
-"…Did you like it?"
+"…And?"
 
 Randi picked up her wine, considering, the lamplight on the deco lines of her, and when she answered it was in the voice she used for restaurant recommendations.
 
@@ -326,6 +326,6 @@ The evening rode along inside her coat where the cold couldn't get at it — the
 
 *He likes it. Actually — he's enthusiastic.*
 
-She'd said that. Under oath, more or less. And somewhere below it, level, mild, taking up almost no room at all: *I don't.*
+She'd said that.
 
 The wind shoved at her the whole six minutes, and the sentence kept up with her easily, and Vee walked fast, and let it.
