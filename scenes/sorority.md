@@ -54,7 +54,7 @@ Randi had not gone down into them either. She was turned in the aisle seat as Ca
 
 "Slut" landed lower than Randi meant it to. Vee's body had been keeping the night's account since eight, a good soreness no gym had ever given her, down low, and up the inside of both thighs, and in her nipples where they sat against her bra. For a second she was sure the whole room could read it off her.
 
-And there was the one snag in the gold of the day, and Randi had reached in and found it. "I don't have shoes," Vee said. "Not for that. Nothing I own is right."
+And there was the one snag in the whole bright day, and Randi had reached in and found it. "I don't have shoes," Vee said. "Not for that. Nothing I own is right."
 
 "Stop." Randi had her by the wrist, the problem already solved in her hands. "That's not a problem, that's a *date*. You and me, Saturday. We are not quitting until the shoes are as right as the dress." Mock-stern then. "Don't you dare tell me no."
 
@@ -76,7 +76,7 @@ They came down the tiered steps in the loose knot of the emptying room, Vee in t
 
 It was Randi who said she'd walk her back, and Cassie who had a lab and went the other way, and somewhere in the second of the three blocks Vee understood she was not going to reach the room ahead of her. She had torn through it at eight that morning — teeth, a clean shirt, the bag off the floor — and nothing had been put back since. She kept Randi talking the rest of the way and did not hurry, and arrived anyway.
 
-She got the door open and went in ahead of her, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her. The bunked beds, the milk-crate shelves, the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing: all of it suddenly visible again, smaller, lit by what Randi had brought in with her — and her own half of it worst: the desk gone under a drift of paper and mail and a mug she kept meaning to carry down, the shirt she'd stepped out of at eight still lying where it fell, the drawer she never closed.
+She got the door open and went in ahead of her, and then Randi was in the doorway of the room — bright and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her. The bunked beds, the milk-crate shelves, the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing: all of it suddenly visible again, smaller, lit by what Randi had brought in with her — and her own half of it worst: the desk gone under a drift of paper and mail and a mug she kept meaning to carry down, the shirt she'd stepped out of at eight still lying where it fell, the drawer she never closed.
 
 "So this is the nest." Randi stepped in. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
 
@@ -190,7 +190,7 @@ She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with
 
 And she did. She walked out of the boutique in brand-new shoes like it was nothing on earth, like shoes were a thing you simply traded mid-afternoon when you happened past better ones. And Vee carried her own box out against her chest with both arms, the rope handle not enough for it, holding the thing she'd just bought like it might get up and leave her.
 
-The afternoon had gone gold on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin.
+The afternoon had gone long on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin.
 
 "You can put it in the trunk, you know," she said. "It's not going to *spoil*."
 

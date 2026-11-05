@@ -212,6 +212,14 @@ scope    = "scenes"
 why      = "'warm / warmth' — the default-reach warmth word, heavily overused (~500 across scenes). Thematic, so much is load-bearing (Vee's analog warmth, the porch as the warm room, Randi's warmth-under-gloss). Worked a scene at a time: read the paragraph density, keep the load-bearing, vary or cut the reflex ones — then --ack the sanctioned uses so the scene goes quiet."
 
 [[rule]]
+id       = "gold-light"
+kind     = "regex"
+pattern  = '(?i)\bgold(?:en)?\b(?![\s-]+(?:band|bracelet|chain|lam[eé]))(?:\W+\w+){0,6}?\W+(?:light|afternoon|morning|evening|sun(?!glass)\w*|windows?|lamp\w*|dusk|dawn|glow\w*|lit|gone|went|became)\b|\b(?:light|afternoon|morning|evening|sun(?!glass)\w*|windows?|lamp\w*|dusk|dawn|glow\w*|lit|gone|went|became)\b(?:\W+\w+){0,7}?\W+(?:white-)?gold(?:en)?\b(?![\s-]+(?:band|bracelet|chain|lam[eé]))'
+severity = "info"
+scope    = "scenes"
+why      = "Gold light is a specific image the reader remembers, so it is rationed (author ruling 2026-11-05): keepers sit ~10 chapters (~half a volume, ~30k words) apart, at beats that earn it — the What to Wear dining hall (called back in Back), Peekaboo's sun porch, Cropped's dawn, the On Her Floor bar windows, Grace's meadow. Elsewhere vary the light to the sky and the mood: not all low light is gold — orange, red, rose, salmon under cloud, amber for lamplit windows, long brown shadows, or plain 'afternoon light'. Never let 'it had gone gold' stand as a time-of-day marker. Proximity match only; white-gold metal is excluded, hair and objects may still trip it."
+
+[[rule]]
 id       = "hand-shoulder-blades-simile"
 kind     = "regex"
 pattern  = '(?i)\b(?:like|as\s+if|as\s+though)\b[^.!?]{0,30}\bhand\b[^.!?]{0,30}\bshoulder\s*blades?\b'

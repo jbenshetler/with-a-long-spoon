@@ -198,4 +198,4 @@ They climbed down off the high chairs and went out through the cold orange noise
 
 "Love you, girl," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
 
-Vee walked the other way with her empty pink cup, into the gold afternoon. She did not feel, now, like a thing the room could turn and look at. She felt picked. She carried it the whole way home.
+Vee walked the other way with her empty pink cup, into the long afternoon light. She did not feel, now, like a thing the room could turn and look at. She felt picked. She carried it the whole way home.

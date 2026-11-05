@@ -152,7 +152,7 @@ Vee was quiet for long enough that it wasn't about finding the word.
 
 Cassie made a sound that wasn't quite a word. She reached over and put her hand on Vee's knee, once, and took it back.
 
-Vee looked at the light on the floor. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
+Vee looked at the light on the floor. Outside the window someone was crossing the quad and the afternoon had gone late, the quad's shadows stretched out brown across the grass, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
 
 "He's not done," Vee said. "The dress. He still has to sew it. He'll call me when it's ready."
 
@@ -375,4 +375,4 @@ She put two fingers to her mouth without deciding to.
 
 *French,* she thought. *It's a French thing, she does the kiss-kiss, she's been everywhere, that's all it is, that's just how women like her say goodbye.* She had it explained away almost before her mouth was her own again.
 
-And then a colder thought, all at once: had anyone *seen*? She turned and looked at the courtyard — empty, gone gold in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down, at the car in the fire lane and the girl leaning across the seat and what the girl had leaned across the seat to do. She stood there a long moment, the cold thing spreading, before she could make herself stop looking, and go in.
+And then a colder thought, all at once: had anyone *seen*? She turned and looked at the courtyard — empty, reddened in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down, at the car in the fire lane and the girl leaning across the seat and what the girl had leaned across the seat to do. She stood there a long moment, the cold thing spreading, before she could make herself stop looking, and go in.

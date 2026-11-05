@@ -52,4 +52,4 @@ The air was cold on her shoulders where the towel stopped. The rest of her had k
 
 She got her sweats on pretty fast after that.
 
-Outside it had gone late-afternoon gold, and the wind found her wet hair and went straight through to her scalp. She walked with her hands pulled up into her sleeves. At the crosswalk she took her phone out and opened the thread — just his one text, still asking whether she liked frozen yogurt — and her thumb hung over the keys while the light went to WALK, and back.
+Outside the sun had gone low and orange, and the wind found her wet hair and went straight through to her scalp. She walked with her hands pulled up into her sleeves. At the crosswalk she took her phone out and opened the thread — just his one text, still asking whether she liked frozen yogurt — and her thumb hung over the keys while the light went to WALK, and back.

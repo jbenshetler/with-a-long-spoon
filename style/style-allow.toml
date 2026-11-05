@@ -907,11 +907,25 @@ text = "Pace was three steps away by the truck with his hands in his jacket pock
 note = "Coda triage 2026-08-05: literal-adjacent — a man actually checking the sky for weather"
 
 [[ok]]
+fp   = "6d0054a068e5"
+rule = "gold-light"
+file = "scenes/another-round.md"
+text = "The hair went gold."
+note = "false positive: hair, not light (gold-light rule, 2026-11-05)"
+
+[[ok]]
 fp   = "adf6888d96a8"
 rule = "register-verb"
 file = "scenes/another-round.md"
 text = "The place was in town, a narrow brick storefront she'd seen a hundred times and never registered — a chalkboard of taps behind the bar in five colors of handwriting, wood floors gone soft down the middle, a Saturday-early quiet on it like a church that had loosened its collar."
 note = "Author-directed wording ('seen a hundred times and never registered') — Vee's own perception of a venue, not the retired Pace/Randi filing frame; pun on the barroom register welcome. Authorized 2026-08-06."
+
+[[ok]]
+fp   = "d519555dd64b"
+rule = "gold-light"
+file = "scenes/back.md"
+text = "Something went up in her like the good windows in the athletic dining hall, all that gold at once."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "17923d3ae69e"
@@ -1395,6 +1409,13 @@ rule = "flat-interrogative"
 file = "scenes/cropped.md"
 text = "\"Is it that you can't say,\" Cassie asked, \"or that you don't want to?\""
 note = "false positive: split quote, question mark at true sentence end"
+
+[[ok]]
+fp   = "e9975ab5184c"
+rule = "gold-light"
+file = "scenes/cropped.md"
+text = "They sat there until the pale became pink and the pink became gold on the floor of the porch."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "82132e2c9a8d"
@@ -1950,6 +1971,20 @@ text = "Her playlist was still going, low, down in the front rooms — Sade, smo
 note = "Canon: Randi's music-lane signature — the Art-Deco warmth-under-gloss (Sade)."
 
 [[ok]]
+fp   = "2bf5c5757059"
+rule = "gold-light"
+file = "scenes/grace.md"
+text = "Skin so fair it takes the afternoon light like the inside of a shell, pale and pink-gold and lit from within, and pinks at the throat when she's been looked at too long — there, just like that."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
+
+[[ok]]
+fp   = "3d11581b5f26"
+rule = "gold-light"
+file = "scenes/grace.md"
+text = "He had carried pastries up the mountain too, wrapped in waxed paper and gone a little flat from the trip, and they ate them out of their laps on the top step where they'd had the cider, with the meadow blazing white-gold under the early sun and the frost still holding blue in the long shadow the cabin threw."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
+
+[[ok]]
 fp   = "3fb15f593011"
 rule = "the-way"
 file = "scenes/grace.md"
@@ -2018,6 +2053,20 @@ rule = "the-way"
 file = "scenes/grace.md"
 text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "c93fd3f93257"
+rule = "undone"
+file = "scenes/grace.md"
+text = "They came back up as the light went long and rose-red across the tawny grass, and the climb that would have undone her once only warmed her through, and she was glad of the cabin when its chimney showed over the rise."
+note = "re-ack after gold→rose-red recast at :105 (author 2026-11-05)"
+
+[[ok]]
+fp   = "6f457c7bc67f"
+rule = "warm"
+file = "scenes/grace.md"
+text = "They came back up as the light went long and rose-red across the tawny grass, and the climb that would have undone her once only warmed her through, and she was glad of the cabin when its chimney showed over the rise."
+note = "re-ack after gold→rose-red recast at :105 (author 2026-11-05)"
 
 [[ok]]
 fp   = "9ec123f2fb75"
@@ -2174,6 +2223,13 @@ text = "\"Just—\" her voice came out smaller, and higher, and she heard it go 
 note = "How It's Done — Vee hearing her own voice is a designed progression (perform :71 / lose it :90 / gone :126); thinned from four to three this pass by cutting :71b. Surviving instances each mark a turn. Author ruling 2026-08-06."
 
 [[ok]]
+fp   = "4e6abeac7b0c"
+rule = "gold-light"
+file = "scenes/how-its-done.md"
+text = "Randi settled into the corner of the booth like the booth had been waiting for her, gold and pale silk and cream, lit somehow in the dim room the way money is lit."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
+
+[[ok]]
 fp   = "5628364f57a8"
 rule = "register-verb"
 file = "scenes/how-its-done.md"
@@ -2312,6 +2368,13 @@ rule = "filter-verbs"
 file = "scenes/in-her-place.md"
 text = "The text came a little after noon, while he was in his office, three days into a proof: *coming out this afternoon — don't make plans.* He read it twice, the second time slower, and he felt a little more solid, a little more of this world."
 note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "9bb79ef1a9fa"
+rule = "gold-light"
+file = "scenes/in-her-place.md"
+text = "The room was full of morning, the green gone gray-gold with it, and Randi lay along his side with one leg thrown heavy over his."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "a89d77117f83"
@@ -3553,6 +3616,20 @@ text = "She had reached for the one thing that was hers and it had taken the she
 note = "Deliberate: the jealousy hijack forces her to watch her own First Night corrupt in real time — 'while she watched' is the helpless spectation, the point, not a filter to cut."
 
 [[ok]]
+fp   = "080b5c84805f"
+rule = "gold-light"
+file = "scenes/old-acquaintances.md"
+text = "The hair went gold and the leg went tan and the blonde sat where Vee had sat in the wine light, the sheet slipping off a body that had never in its life needed building for, and Pace at the stove looking and smiling, the garlic and pepper blooming, the tomatoes going in, the kitchen smelling right."
+note = "false positive: hair, not light (gold-light rule, 2026-11-05)"
+
+[[ok]]
+fp   = "8c26186af0aa"
+rule = "gold-light"
+file = "scenes/old-acquaintances.md"
+text = "The chalet by evening, its windows golden against the blue of the snow."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
+
+[[ok]]
 fp   = "2aa7ca454e6b"
 rule = "the-way"
 file = "scenes/old-acquaintances.md"
@@ -3572,6 +3649,13 @@ rule = "filter-verbs"
 file = "scenes/on-her-floor.md"
 text = "She heard herself say *god, his face* in a voice that knew how to do this even now, and laughed, and the laugh came out sounding like the room."
 note = "deliberate filter: Vee dissociated, hearing her own voice perform the cover while her body still rings"
+
+[[ok]]
+fp   = "2586a357f57e"
+rule = "gold-light"
+file = "scenes/on-her-floor.md"
+text = "Randi said it lightly, fond, already looking ahead to the gold windows."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "8a0ddd0d75a4"
@@ -3609,11 +3693,25 @@ text = "There was no Harrison, no show, no word for what this was or wasn't, no 
 note = "deliberate anaphora — category-dissolve at the kiss's center"
 
 [[ok]]
+fp   = "288f0a3de6d9"
+rule = "warm"
+file = "scenes/on-her-floor.md"
+text = "It was sweet and cold and easy, the warmth of it arriving a beat late and low, and it tasted like just what it looked like, which was nothing — punch, a hundred of them, the kind you don't keep."
+note = "the punch's alcohol warmth, load-bearing; re-ack after party punch → punch (author 2026-11-05)"
+
+[[ok]]
 fp   = "90c1fbb449bf"
 rule = "x-not-y"
 file = "scenes/on-her-floor.md"
 text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
+
+[[ok]]
+fp   = "d73f1fea8108"
+rule = "gold-light"
+file = "scenes/one-bite.md"
+text = "The porch with its gold light and its glazed pastries was behind glass now, a lit box she had climbed out of, and she stood on the sidewalk in the plain cold, herself again, or near enough to pass."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "4deaed4a82bd"
@@ -3796,6 +3894,13 @@ rule = "filter-verbs"
 file = "scenes/peekaboo.md"
 text = "She tried to take the rest of him with her heels and he simply held, heavy and still above her, and he twitched against the inside of her, once, and she felt what the holding was costing him, and that he meant to spend it anyway."
 note = "Author sign-off 2026-10-26, close-third pass: R2 rephrase, 'she felt' is her reading through the body"
+
+[[ok]]
+fp   = "d0603ea522b8"
+rule = "gold-light"
+file = "scenes/peekaboo.md"
+text = "He drew her the other way, through the den and into the sun porch at the back — the room where he'd fitted her, the room that was mostly windows — and the light reached her first, the whole gold afternoon, and then in the middle of the light —"
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "5491fabeda76"
@@ -4939,6 +5044,13 @@ text = "There was nothing under it."
 note = "Group H (2026-08-07): :13's existential is the held pause before Randi speaks; :105 'There was nothing under it' is quoted approvingly by three cold readers as the cleanest statement of the financial danger."
 
 [[ok]]
+fp   = "1c8e8033840c"
+rule = "there-was-were"
+file = "scenes/sorority.md"
+text = "And there was the one snag in the whole bright day, and Randi had reached in and found it."
+note = "re-ack after gold-of-the-day → whole bright day (author 2026-11-05)"
+
+[[ok]]
 fp   = "c161e3bed4c3"
 rule = "there-was-were"
 file = "scenes/sorority.md"
@@ -5007,6 +5119,13 @@ rule = "filter-verbs"
 file = "scenes/space.md"
 text = "He felt that land."
 note = "author 2026-09-28: 'He felt that land' stands; the sentence is about him receiving it"
+
+[[ok]]
+fp   = "00c3fddaeb13"
+rule = "gold-light"
+file = "scenes/space.md"
+text = "The house was warm and the two of them were warmer, and the lamp made her small pale body gold above him, and he had her breasts in his hands and then her hips, moving her, and let her take them back."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "f6ff0898395d"
@@ -7205,6 +7324,13 @@ rule = "x-not-y"
 file = "scenes/we-find-out.md"
 text = "He came on grinning, but walking, not the run she wanted, and it infuriated her, so to make him come she pulled her top up, the bra with it, a clumsy yank, and flashed him, her breasts bare for the length of a breath before she hauled it all back down."
 note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "56e4556df8e6"
+rule = "gold-light"
+file = "scenes/what-to-wear.md"
+text = "Same meal-plan contract as everywhere else, but they plated it like they meant it, and the windows ran floor to ceiling down the west side, so even at six the whole room went gold and forgiving."
+note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
 fp   = "10b836c4567f"

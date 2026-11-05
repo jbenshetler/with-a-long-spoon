@@ -276,7 +276,7 @@ By late afternoon she and Pace were standing under the neon in a too-bright shop
 
 She built her cup without thinking, and it got away from her — too much, the cone of it leaning. Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing. She bit her lower lip, knowing the cup would drip, and then found she didn't care. He weighed his own cup and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out.
 
-Outside it had gone gold and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn.
+Outside the shadows had gone long and the air cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn.
 
 "I'm going to say something embarrassing," she said, "and then we can both pretend I didn't."
 

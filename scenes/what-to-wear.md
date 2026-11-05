@@ -100,7 +100,7 @@ A beat, and then the table came apart.
 
 And that was the truth of it, under the noise. She'd had the dinners and the trail. She'd had the shirt, folded on her pillow at this exact hour. She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for. She pressed her palms down the tops of her thighs. Her heart was doing something quick and light and stupid, and she let it.
 
-"Saturday," Kayla announced, to the table, to the gold room, to the whole athletic dorm. "We're doing hair Saturday. I'm coming to your room. This is happening."
+"Saturday," Kayla announced, to the table, to the room, to the whole athletic dorm. "We're doing hair Saturday. I'm coming to your room. This is happening."
 
 "It's probably dinner," Vee said.
 
