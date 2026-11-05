@@ -188,7 +188,7 @@ Randi's mouth curved.
 
 "After I started it, entirely. And Randi." She leaned in. "He looked *puzzled.* I have been looking at that man's face since September and I have seen it do maybe nine things, and I have never seen it puzzled. It was like catching an eclipse."
 
-"So you have the wet hands, the apron, the puzzled look." Randi fed the edge of the glass in under a nail and bore down on it. "And a decision to make."
+"So you have the wet hands, the apron, the puzzled look." Randi set her glass down. "And a decision to make."
 
 "I'd made it. I got up out of my chair and walked out of the kitchen. Didn't say a word, didn't look back."
 

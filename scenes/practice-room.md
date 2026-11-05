@@ -84,7 +84,7 @@ The room held still.
 
 Randi didn't say anything for a moment. When Vee made herself look up, Randi was watching her with an attention so complete it was nearly a pressure, nearly a hand, and whatever was on Vee's own face she couldn't have hidden if she'd tried, and she understood, in a hot slow drop, that she wasn't only telling it. She was doing it again. Here. Now. In a piano closet with Randi's eyes on her.
 
-"I bet he did," Randi said softly. That was all.
+"I bet he did," Randi said softly. Her hand went once down the length of her ponytail. That was all.
 
 And under the thin jersey of her top Vee felt her own body answer the memory as it had answered the thing itself, her nipples drawing up tight and sudden to the point of aching, with no way to know how much the cloth was telling — telling anyone, telling Randi — and she crossed her arms over herself in a motion she tried to make look like settling, like being a little cold, and couldn't for her life have said whether it worked.
 

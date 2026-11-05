@@ -42,7 +42,7 @@ Randi's whole face opened. "*Gay.*"
 
 "She's out, and not quiet about it. She watched the bartender walk away from our table like a woman watching a parade."
 
-"God." Randi sat back into the corner of the booth and put a hand over her mouth and laughed into it, and then took the hand down. "A month. You gave that girl a month of your life, and the entire time—"
+"God." Randi sat back into the corner of the booth and put a hand over her mouth and laughed into it, and then took the hand down. Under the table her foot, out of its shoe, had come to rest along Vee's calf, and it stayed there through the rest of it. "A month. You gave that girl a month of your life, and the entire time—"
 
 "The entire time."
 

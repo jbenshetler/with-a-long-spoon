@@ -60,7 +60,7 @@ Vee didn't linger on the fight or the month of silence — Randi had had all fiv
 
 Saying it lit her face from underneath; she felt the heat arrive and kept going anyway. "And then he came around the counter and got down on one knee, next to my chair, while my mouth was still full, and said he'd missed me. And his voice—" She stopped and had some ice water. "His voice didn't make it all the way through the sentence."
 
-"Midnight pancakes," Randi said, soft, a hand coming to her heart, and she meant it. "I'm so happy for you, girl." She was smiling at Vee over the top of her wine glass. One fingernail was working the edge of it, the rim's thin edge under the nail, back and forth.
+"Midnight pancakes," Randi said, soft, a hand coming to her heart, and she meant it. "I'm so happy for you, girl." She was smiling at Vee over the top of her wine glass, and the fingers of her other hand had come to rest on the band at her wrist.
 
 "On his knee," she said. "On the floor."
 
@@ -198,7 +198,7 @@ Randi said nothing for a moment. Then she tipped her glass an inch toward her. "
 
 "He took me over right there." Vee's voice had gone quiet. "With his mouth."
 
-"This is *so good*," Randi said, to nobody in particular.
+"This is *so good*," Randi said, to nobody in particular. Under the table her foot had come out of its shoe and settled against Vee's ankle, and it stayed there, as if the booth were simply that small.
 
 "And then he was inside me. On the porch. He carried me in like that."
 

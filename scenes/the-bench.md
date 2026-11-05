@@ -158,7 +158,7 @@ Not to move her. To take the feel of her, and to look at her while he did. He st
 
 He brought his hands up the fronts of her thighs, over the hip bones and the soft give of her lower stomach to where it drew in under her ribs. Her breath went uneven under his palm. Her hands came down into his hair.
 
-He took them out with his fingertips. Two fingers under each wrist, no grip in it, lifting until her hands came away, and he set them back at her sides and went on. He wanted her hands empty, not a distraction from what she had chosen. She made a sound of complaint she did not follow up on, and then she put her hands behind her back herself and held one wrist in the other, and the holding drew her shoulders back and lifted her breasts, and it became, without her deciding it, an offering.
+He took them out with his fingertips. Two fingers under each wrist, no grip in it, lifting until her hands came away, and he set them back at her sides and went on. He wanted her hands empty, not a distraction from what she had chosen. She made a sound of complaint she did not follow up on, and then she put her hands behind her back herself and held one wrist in the other, by the white-gold band, and the holding drew her shoulders back and lifted her breasts, and it became, without her deciding it, an offering.
 
 He stood, coming up the length of her, and took her breasts in his hands — small and high, the warm weight of them lifting soft into his palms. The nipples were cocoa-brown and already tight, from the kitchen, from the bench, from how little it had taken. He bent his head and took one in his mouth.
 

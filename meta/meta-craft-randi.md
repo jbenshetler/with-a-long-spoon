@@ -102,9 +102,9 @@ The nail-press/cup is the **only external, present-tense, recurring rendering of
 **Two gestures, not one — and the glass is Randi's alone (author ruling 2026-10-03).** The glass fidget belongs **exclusively to Randi**: never Vee, whose tells are bodily (`meta-craft-vivienne.md`, Behavioral Signatures), and never Pace, who has his own fidgets — the fork squared to the edge of the table (`back.md:61`, `the-usual.md:101`).
 
 - **The nail-press** — the rim's thin edge up under the nail — fires when she is **jealous or insecure** about Vee, particularly about **Vee enjoying being truly seen** (the thing Randi craves and cannot tolerate the vulnerability of), **or when she cannot manage her need for Vee** (author 2026-10-11).
-- **Turning the glass** is the other, lesser charge — e.g. when she is aroused. It is not the press and does not carry its meaning.
+- **Turning the glass** is the other charge — arousal in the broad sense (excitement, a story landing, the operation working), not only sexual. It is not the press and does not carry its meaning.
 
-**The press is normally rendered on the page, and seen.** Vee's close third is no exception — she sees the hand and does not read the meaning, which is the point. Visible instances: `the-bench.md:453` (the debut, seen by Pace), `covering.md:63`, `covering.md:107`, `all-the-time.md:63`, `portion.md:27`, `clean-plate.md:191`, `space.md:53`. `among-friends.md:77` (author 2026-10-11, superseding the 2026-10-04 "single hidden instance": close third cannot render a press Vee doesn't see): after her own toast, *"meeting Vee was the highlight of my year,"* said in front of Pace, the glass turns a slow quarter at a time until the thumb sets up under the rim, the nail going white; Vee reads it as her story having landed. Turn then press, the lesser charge giving way to the need. The turn is the antecedent of the chapter's closing callback at :119, *"watching a glass turn a slow quarter at a time."* Turn retained as the arousal register: `covering.md:121`, `clean-plate.md:143`, `one-bite.md:15`.
+**The press is normally rendered on the page, and seen.** Vee's close third is no exception — she sees the hand and does not read the meaning, which is the point. Visible instances (reserved for the peaks, author ruling 2026-11-04): `the-bench.md:455` (the debut, seen by Pace), `how-its-done.md:274`, `portion.md:27`, `space.md:53`, `covering.md:107`, `among-friends.md:77`; variant without a glass, `gesso.md:95` (thumbnail into the pad of her finger). Cut 2026-11-04 as overuse/operating: `all-the-time.md:63`, `clean-plate.md:191`; `covering.md:63` became a band touch. `among-friends.md:77` (author 2026-10-11, superseding the 2026-10-04 "single hidden instance": close third cannot render a press Vee doesn't see): after her own toast, *"meeting Vee was the highlight of my year,"* said in front of Pace, the glass turns a slow quarter at a time until the thumb sets up under the rim, the nail going white; Vee reads it as her story having landed. Turn then press, the lesser charge giving way to the need. The turn is the antecedent of the chapter's closing callback at :119, *"watching a glass turn a slow quarter at a time."* Turn retained as the arousal register: `covering.md:121`, `clean-plate.md:143`, `one-bite.md:15`.
 
 **Why the nail-press and not a grip.** A grip is containment — reading as ordinary stress. The nail-press is self-administered sensation — the hand producing a precise private sting. That is the bottom's gesture in miniature: when the helplessness-charge runs and there is no one to administer the sensation, she administers a small one to herself.
 
@@ -122,6 +122,23 @@ The nail-press/cup is the **only external, present-tense, recurring rendering of
 **At the threesome, the hands are not occupied.** The concealment ends. The cup belonged to the year. It does not belong after.
 
 **Never name the gesture as a symbol.** The reader will recognize the recurrence across the year.
+
+---
+
+## Randi's Tells — Four Meanings, Not One Scale (author ruling 2026-11-04)
+
+The tells are not an intensity ladder; each has its own meaning. Rotate the wording, keep the gesture.
+
+- **The nail-press** — pain she creates and controls, when she cannot control what is being done to her. Reserved for the peaks (see The Cup).
+- **The band touch** — *Pace.* Fingers to the white-gold band at her wrist (never an edge under the nail; the band has no clasp, `on-her-floor.md:95`). Two valences: the **wound** — hearing Vee thrive under Pace's attention, which Randi wants and cannot stand — and **arousal/submission** toward Pace. Instances: `the-bench.md:161` (naked, holding her own wrist *by the white-gold band* — the band's first appearance), `how-its-done.md:251` (her tied-wrists story; the press follows at :274 on a different trigger, deliberately not linked on the page), `gone.md:49`, `covering.md:63`. Still to place: spring wound touches after {{On Her Floor}}; a want touch in Pace's POV.
+- **The turned glass** — arousal in the broad sense (above).
+- **The hair touch** — displayed sexual arousal: the classic straight-script signal, which she may be half-performing. Her bound hair never needs fixing, so the touch is pure signal. The primary light tell before spring: `how-its-done.md:342`, `fed.md:83`, `practice-room.md:87`. Randi touching her *own* hair is never worded like her possession of *Vee's* hair (the strand-lift, the hank *like money*).
+- **The shoe** — the hair tell's form that crosses to Vee, built as a staircase that pays off at `gesso.md:115` (shoe gone, foot in Vee's lap): `all-the-time.md:119` (fall: a deliberate brush, bare sky-blue toes, the smile, talk resumed), `covering.md:199` (the ankle), `between.md:45` (the calf). **Never place a rung on foot-related talk** — the tell becomes farce. Backstory, never on the page: the spring rungs are moved by Vee's kiss at the door in {{My Friend Randi}} (four months of being the one who leaned in). Keep Randi's displayed foot distinct from Vee's nervous one (`gesso.md:159`).
+- **Not a tell: the plate.** Randi leaving food untouched is self-management that predates Vee and Pace (`portion.md:23`, `:59`).
+
+## The Bracelet
+
+The white-gold Cartier *Love* bracelet, plain and heavy, screwed shut, never off (`how-its-done.md:209`; named only in the {{On Her Floor}} walk, `on-her-floor.md:87`–`:97`). **Pace gave it to her — a submission band.** Never explained on the page; readers deduce it (some at {{Fairytale}}, more at {{On Her Floor}}), and the band touches land harder after they have. Its touch is a tell (above); its sight is not — a mention of the band catching light is texture, only a touch is the tell.
 
 ---
 

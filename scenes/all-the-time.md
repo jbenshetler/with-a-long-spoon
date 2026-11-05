@@ -60,7 +60,7 @@ The plates came, the Benedict glossy under a hollandaise gone slack and shining,
 
 "Yeah." The word came out small. "Yeah. That's it exactly."
 
-Randi worked the rim in under her index nail and said nothing for a second, letting Vee have it.
+Randi said nothing for a second, letting Vee have it.
 
 "And it's—" She reached for it, because this one had no shape at all. "Talking to him is the easiest thing in the world. It just comes out of me, all of it — I'd confess anything, honest, just to have him hear me. But that's not even the strange part. Half the time we don't talk at all. I'll be sitting in his kitchen while he cleans up and neither of us has made a sound in I couldn't tell you how long, and it's not the kind of quiet you're supposed to hurry up and fill. I'm just there. Floating off."
 
@@ -116,7 +116,7 @@ Randi took it. Her eyes went the length of it, and the grin came slow. "God, tho
 
 Vee laughed, and Randi laughed with her, the two of them gone pink and delighted over it together — and under the heat in her face Vee was, absurdly, happy. She'd never had this before: a friend she could hand all of it to, the real thing and not the tidied-up version — one who knew things, who'd been places Vee had only read about, and could take any of it without Vee having to explain herself or leave the good parts out. There was no one else she could have shown.
 
-They ate. The talk went easy and elsewhere for a while, the pressure bleeding off, and it was somewhere in the wind-down, the check not yet come, that Vee found she didn't want it to end and reached for a way to keep it.
+They ate. The talk went easy and elsewhere for a while, the pressure bleeding off. Under the table something brushed Vee's leg, deliberate as a fingertip, and came back and did it again. She looked down. Randi's shoe lay on its side on the floor, and above it her bare toes were wriggling, the nails painted sky blue. When she looked up, Randi was smiling at her, and went on with what she'd been saying. It was somewhere in the wind-down, the check not yet come, that Vee found she didn't want it to end and reached for a way to keep it.
 
 "Hey — have you done your humanities elective yet?"
 
