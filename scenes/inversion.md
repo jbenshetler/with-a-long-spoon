@@ -20,7 +20,7 @@ Vee laughed. It came out a half-beat late and a note too high, and under the lau
 
 "Oh, I will." Randi's hand came up and put a piece of Vee's hair back behind her ear, and Vee felt it all the way down. "Saturday, gorgeous."
 
-Then she was off down the corridor toward the cold, quick heels on the waxed floor, her coat swinging, and Vee stood where she'd been left with her own coat open and the roll of Lifesavers still in her fist and watched her go, and could not have said who the gleam had been for.
+Then she was off down the corridor toward the cold, quick heels on the waxed floor, her coat swinging, and Vee stood where she'd been left with her own coat open and the roll of Lifesavers still in her fist and watched her go.
 
 She put the Lifesavers back in her pocket and went out the other way.
 
