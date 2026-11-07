@@ -312,6 +312,11 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
         details = getattr(usage, "completion_tokens_details", None)
         reasoning_tok = (getattr(details, "reasoning_tokens", 0) or 0) if details else 0
         finish_reason = getattr(response.choices[0], "finish_reason", None)
+        # The provider's own reason (Google: STOP, MAX_TOKENS, SAFETY, PROHIBITED_CONTENT…).
+        # argon's mid-sentence truncations (5 on file) came back with zero usage and no
+        # record of why; log it so the next one says whether a filter fired.
+        native_finish = (getattr(response.choices[0], "model_extra", None) or {}).get(
+            "native_finish_reason")
         text = (response.choices[0].message.content or "").strip()
         cost = getattr(usage, "cost", None)
         if cost is None:
@@ -319,7 +324,8 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
         # One line per paid call, on stderr so it lands in the run log beside the
         # gate it paid for: `grep '^  cost ' <log>` sums a run by model.
         print(f"  cost {label} {model} in={in_tok} out={out_tok} reasoning={reasoning_tok} "
-              f"usd={cost if cost is not None else 'unknown'}", file=sys.stderr, flush=True)
+              f"usd={cost if cost is not None else 'unknown'} "
+              f"finish={finish_reason}/{native_finish}", file=sys.stderr, flush=True)
         return {
             "output": text,
             "id": getattr(response, "id", None) or label,

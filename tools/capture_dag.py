@@ -603,10 +603,11 @@ def clean_markdown(text: str) -> str:
     return "\n".join(line.rstrip() for line in text.strip().splitlines()) + "\n"
 
 
-def save_raw(d: Path, n: int, label: str, raw: str) -> str:
+def save_raw(d: Path, n: int, label: str, raw: str, attempt: int = 1) -> str:
     """Preserve a rejected response so a failure is diagnosable.
 
-    A gate is rejected on a missing DECISION line, and the raw text used to be
+    A gate is rejected when blank, too short, or missing a DECISION, CAPTURE
+    or NEXT line (`gate_problem`), and retried once; the raw text used to be
     dropped on the floor — which costs a paid call and returns nothing to look
     at. The common causes leave distinct fingerprints: an empty body means the
     reasoning budget consumed `max_output_tokens` before any visible output, a
@@ -618,12 +619,60 @@ def save_raw(d: Path, n: int, label: str, raw: str) -> str:
     than beside the gates, so a rejected artifact can never be mistaken for a
     reader's actual reaction.
     """
-    out = d / ".failed" / f"gate-ch{n:03d}-{date.today().isoformat()}.md"
+    tag = "" if attempt == 1 else f"-try{attempt}"
+    out = d / ".failed" / f"gate-ch{n:03d}-{date.today().isoformat()}{tag}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(f"*REJECTED gate · {label} · {len(raw)} chars*\n\n{raw}\n",
                    encoding="utf-8")
     return f"{len(raw)} chars saved to {out.relative_to(REPO)}" if raw \
         else f"EMPTY response; marker at {out.relative_to(REPO)}"
+
+
+# A gate shorter than this is not a reaction (the shortest real gate on file, a
+# terse sonnet chain gate, is ~1.4k chars). The score lines catch truncation: a stream that
+# drops mid-reaction (argon ch17, 2026-11-06) is long enough but never reaches them.
+MIN_GATE_CHARS = 1000
+MIN_MINT_CHARS = 800
+SCORE_LINE_RE = {k: re.compile(rf"(?im)^\W*{k}\W*:\W*\S") for k in ("DECISION", "CAPTURE", "NEXT")}
+
+
+def gate_problem(raw: str) -> str | None:
+    """Why a gate response is unusable, or None. Blank, too short, or incomplete."""
+    if not raw:
+        return "blank"
+    if len(raw) < MIN_GATE_CHARS:
+        return f"too short ({len(raw)} chars < {MIN_GATE_CHARS})"
+    missing = [k for k, rx in SCORE_LINE_RE.items() if not rx.search(raw)]
+    if missing:
+        return f"incomplete (no {'/'.join(missing)} line)"
+    return None
+
+
+def mint_problem(raw: str) -> str | None:
+    if not raw:
+        return "blank"
+    if len(raw) < MIN_MINT_CHARS:
+        return f"too short ({len(raw)} chars < {MIN_MINT_CHARS})"
+    return None
+
+
+def call_with_retry(agent_fn, system: str, prompt: str, label: str,
+                    check, d: Path, n: int, kind: str) -> str:
+    """One call, and exactly one retry if `check` rejects it. A second rejection
+    raises, which ends this reader's run: the lane never proceeds past a chapter
+    it has no usable gate for (her later reactions would be read without it).
+    Each rejected response is kept under .failed/ for diagnosis."""
+    for attempt in (1, 2):
+        raw = (agent_fn(system, prompt, label) or "").strip()
+        problem = check(raw)
+        if problem is None:
+            if attempt == 2:
+                print(f"  retry ok {label}", flush=True)
+            return raw
+        saved = save_raw(d, n, label, raw, attempt=attempt)
+        if attempt == 1:
+            print(f"  RETRY {label}: {kind} {problem} — {saved}", flush=True)
+    raise RuntimeError(f"{kind} for {label} failed twice ({problem}) — {saved}")
 
 
 def write_doc(path: Path, header: str, body: str) -> None:
@@ -657,10 +706,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
         gp = gate_path(d, n)
         if not gp.exists() or n == fresh:
             label = f"{model_id}·{persona}·ch{n:02d}"
-            raw = agent_fn(read_sys, read_prompt(d, n), label).strip()
-            if "DECISION" not in raw.upper():
-                raise RuntimeError(f"malformed gate for {label}"
-                                   f" — {save_raw(d, n, label, raw)}")
+            raw = call_with_retry(agent_fn, read_sys, read_prompt(d, n), label,
+                                  gate_problem, d, n, "gate")
             write_doc(gp, f"*{PROTOCOL} · gate ch{n:03d} · {model_id} · {persona} · "
                           f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)}{variant_tag()} · "
                           f"{date.today().isoformat()}*", raw)
@@ -673,9 +720,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
             cp = ck_path(d, n)
             if not cp.exists() or n == fresh:
                 label = f"{model_id}·{persona}·mint-ch{n:02d}"
-                raw = agent_fn(mint_sys, mint_prompt(d, n), label).strip()
-                if len(raw) < 800:
-                    raise RuntimeError(f"suspiciously short mint for {label}")
+                raw = call_with_retry(agent_fn, mint_sys, mint_prompt(d, n), label,
+                                      mint_problem, d, n, "mint")
                 write_doc(cp, f"*{PROTOCOL} · carry-forward ck-ch{n:03d} · {model_id} · "
                               f"{persona} · prompt-sha {mint_sha}{variant_tag()} · "
                               f"{date.today().isoformat()}*", raw)
@@ -700,10 +746,8 @@ def run_reader_v3(model_id: str, persona: str, agent_fn, to_n: int,
                 ensure_seed(model_id, persona, agent_fn, n)
             label = f"{model_id}·{persona}·ch{n:02d}·{MEMORY}"
             prompt, prov = read_prompt_v3(d, model_id, persona, n)
-            raw = agent_fn(read_sys, prompt, label).strip()
-            if "DECISION" not in raw.upper():
-                raise RuntimeError(f"malformed gate for {label}"
-                                   f" — {save_raw(d, n, label, raw)}")
+            raw = call_with_retry(agent_fn, read_sys, prompt, label,
+                                  gate_problem, d, n, "gate")
             if not LEDGER_HEAD_RE.search(raw):
                 print(f"  note: {label} wrote no LEDGER", flush=True)
             write_doc(gp, f"*{PROTOCOL_V3}-{MEMORY} · gate ch{n:03d} · {model_id} · {persona} · "
@@ -882,12 +926,14 @@ def main() -> None:
     # Staleness is a warning, never a gate. A style edit to an early chapter must not
     # force a re-read of every downstream chapter; report the tiers and proceed.
     print_stale_report(stale_report(args.models, list(args.personas), args.to))
+    stale_facts = []
     if MEMORY == "grounded":
         for b in sorted({boundary(n) for n in range(max(args.start, 1), args.to + 1)} - {0}):
             p = (REPO / "reviews" / "cold-read" / "fact-consensus" / f"ck-ch{b:03d}.md"
                  if fact_model() == "consensus"
                  else cold_read_config.checkpoint_path(fact_model(), b))
             if p.exists() and fact_stale(b, p.read_text(encoding="utf-8")):
+                stale_facts.append(p.name)
                 print(f"  STALE FACTS: {p.relative_to(REPO)} predates a prose change in "
                       f"ch1..{b} (re-mint after a plot addition)", flush=True)
     if args.check_stale:
@@ -912,6 +958,13 @@ def main() -> None:
         list(pool.map(lambda t: one(*t), readers))
 
     print("\n".join(results))
+    if stale_facts and not args.check_stale:
+        # Repeated here because the start-of-run warning scrolls away under hundreds
+        # of gate lines. Still a warning, never a gate (SPEC 'Checkpoint staleness').
+        print(f"\nWARNING: these gates read STALE fact memory — {', '.join(stale_facts)} "
+              "predate prose changes. Harmless after style edits; after a plot addition, "
+              "re-mint the consensus checkpoints (tools/fact_consensus.py) and re-read.",
+              flush=True)
     if args.fresh and MEMORY == "chain" and not EXPERIMENT:
         print(f"\nRe-read done. Before committing these gates, run "
               f"`tools/capture_delta.py --chapter {args.to}` (SPEC rule 3b) and report it.",
