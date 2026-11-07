@@ -106,7 +106,7 @@ He wrapped his arms around her, small and still shaking, and gave her the one th
 
 The hour came back to him a piece at a time, as the world always did after — where he was, what time it was, who was driving toward the door. His wits came back and his alarm came with them. He got a hand under her shoulder and began to lift her off him, gentle but no longer slow. "You have to go," he said. "She'll be here soon. Get dressed—"
 
-Randi laughed. It came up out of the last of the crying, wet and then not, and she raised her head off his neck and looked at him, her face still wrecked and something bright rising back up under the wreck of it. "She's not coming."
+Randi laughed. It came up out of the last of the crying, wet and then not, and she raised her head off his neck and looked at him, her face still wet, the mascara run black down both cheeks, and something bright rising back up under the wreck of it. "She's not coming."
 
 He went still.
 

@@ -113,3 +113,9 @@ The facets in a row (sheet → toes → color → panties) can tip into *Randi s
 
 Continuation of the established goodbye-kiss (the cheek-thing that isn't; hand at the hinge of the jaw; the small second press "that had something in it the first one hadn't"). This is the **2nd** occurrence — the recognition rung: Vee half-expects it and meets it, and the debut's witness-scan ("who might have seen them") does *not* fire, rendered behaviorally only. Full normalization ("hadn't braced… it was only what they did") is the {{Broken In}}, which comes **after** this scene in story time — do not play that register here. No new physical riser. Closes on the ritual line *"See you soon, gorgeous"* (the reserved word — see meta-plan-satc-tracks.md). Staged curbside, not in-car: the girls drive separately here (Vee's own Corolla), which carries the money/independence beat; the kiss gesture and ritual line are what's canonical, not the car.
 
+## The tomato-red mouth (author ruling 2026-11-06)
+
+Randi's greeting (`fed.md:51`) plants the red Vee wore to brunch: "God, you're glowing — and a tomato-red mouth, at brunch. Absolutely kissable." The first bold red Vee wears with Randi; Randi's approval licenses the climb. Tomato over flame for the old slang sense (a luscious, juicy woman) and the chapter's food-as-appetite. Recalled, in different words, in Randi's orders at `broken-in.md:199` ("The red you wore to brunch"); the poppy-red of {{Above Him}} is the same orange-red family, in Vee's own name for it.
+
+**Alternate, held against reader feedback:** "Wasted on me." in place of "Absolutely kissable." — self-deprecating on first read, the opposite on reread. Swap only if readers find "kissable" too charged on first read.
+

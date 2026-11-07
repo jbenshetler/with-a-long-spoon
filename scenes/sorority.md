@@ -2,7 +2,7 @@
 
 She had been late to everything all morning and it didn't bother her a whit.
 
-Eight was when she'd left Pace's, the mountains already bright with a sun barely up, the morning running ahead of her, the car heater not catching before she was back at the dorm and out of it again, in and out, teeth and a clean shirt and the book bag off the floor, the garment bag zipped and safe in the closet. Cassie was already gone. The room had that just-left stillness, Cassie's bed made tight the way Cassie made it, Vee's own untouched, a tattletale in the cold morning light for anyone who cared to read it.
+Eight was when she'd left Pace's, the mountains already bright with a sun barely up, the morning running ahead of her, the car heater not catching before she was back at the dorm and out of it again, in and out, teeth and a clean shirt and her face in three minutes flat and the book bag off the floor, the garment bag zipped and safe in the closet. Cassie was already gone. The room had that just-left stillness, Cassie's bed made tight the way Cassie made it, Vee's own untouched, a tattletale in the cold morning light for anyone who cared to read it.
 
 She was late to her nine and barely made her ten, and none of it touched her, because all of it was carrying her toward the same thought she'd held since she left him: stats, the last class before lunch, the one place she got both her girls in a single room. She walked in fit to burst.
 
@@ -74,7 +74,7 @@ They came down the tiered steps in the loose knot of the emptying room, Vee in t
 
 ---
 
-It was Randi who said she'd walk her back, and Cassie who had a lab and went the other way, and somewhere in the second of the three blocks Vee understood she was not going to reach the room ahead of her. She had torn through it at eight that morning — teeth, a clean shirt, the bag off the floor — and nothing had been put back since. She kept Randi talking the rest of the way and did not hurry, and arrived anyway.
+It was Randi who said she'd walk her back, and Cassie who had a lab and went the other way, and somewhere in the second of the three blocks Vee understood she was not going to reach the room ahead of her. She had torn through it at eight that morning — teeth, a clean shirt, a face, the bag off the floor — and nothing had been put back since. She kept Randi talking the rest of the way and did not hurry, and arrived anyway.
 
 She got the door open and went in ahead of her, and then Randi was in the doorway of the room — bright and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her. The bunked beds, the milk-crate shelves, the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing: all of it suddenly visible again, smaller, lit by what Randi had brought in with her — and her own half of it worst: the desk gone under a drift of paper and mail and a mug she kept meaning to carry down, the shirt she'd stepped out of at eight still lying where it fell, the drawer she never closed.
 

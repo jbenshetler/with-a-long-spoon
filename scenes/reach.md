@@ -8,7 +8,7 @@ Vee crossed the room and pushed the window shut.
 
 The sash went down hard over the draft. The glass gave one small rattle in its frame, then held, and the room began at once to belong to the radiator.
 
-She got ready for bed by stages. Earrings into the little dish. Sweater over her head. Skirt unzipped and stepped out of, tights peeled down and balled together for morning. In the suite bathroom she washed her face, brushed her teeth, worked the pins out of her hair and left it loose. When she came back, the cold line along the floor was gone.
+She got ready for bed by stages. Earrings into the little dish. Sweater over her head. Skirt unzipped and stepped out of, tights peeled down and balled together for morning. In the suite bathroom she took her face off, brushed her teeth, worked the pins out of her hair and left it loose. When she came back, the cold line along the floor was gone.
 
 The room had gone past comfortable while she was away. Heat stood in it. Cassie's side looked baked and briefly abandoned: the empty hook, the open book, the desk lamp still lit over nobody. Vee turned that lamp off and chose Pace's flannel.
 

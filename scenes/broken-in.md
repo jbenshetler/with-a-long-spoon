@@ -196,7 +196,7 @@ Vee looked.
 
 A few hours ago she'd stood at a sink and found a sad clown. The woman in this glass was nobody's clown. She stood there in her bra and her long skirt and a borrowed pair of shoes and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where. She'd have said the shoes. She'd have said the morning had turned out survivable after all. She looked, and she liked it, and she let herself like it, and behind her in the glass Randi watched her like her own good work.
 
-"Tomorrow night," Randi said. "The black, the neckline down, the earrings — the real ones, nothing else. These shoes. This scarf. And you walk in there knowing you're going to make it right."
+"Tomorrow night," Randi said. "The black, the neckline down, the earrings — the real ones, nothing else. The red you wore to brunch. These shoes. This scarf. And you walk in there knowing you're going to make it right."
 
 ---
 

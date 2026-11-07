@@ -1656,6 +1656,13 @@ text = "Then she heard it."
 note = "deliberate delayed-hearing device (echoes Famished 'heard it a beat after he did'); body-before-mind; keep"
 
 [[ok]]
+fp   = "5859063022d8"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend."
+note = "author: stands (2026-11-06)"
+
+[[ok]]
 fp   = "87a266ec6564"
 rule = "filter-verbs"
 file = "scenes/fed.md"

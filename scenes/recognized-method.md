@@ -12,7 +12,7 @@ On the seat beside her was the pie. Store-bought, a supermarket apple in a foil 
 
 Randi had told her to go in sure. Not sorry, Randi said; sure. The difference mattered. A woman who came to the door wringing her hands handed a man a problem to solve. A woman who came to the door knowing exactly what she'd done and exactly that she meant to set it right left him nothing to do but forgive her. So Vee had built the thing she would say like a small clean machine, and she had the first line and the turns it would take, and she had the heels and the pearls and the dress, and she had the pie to put in his hands in the doorway so her own hands would have somewhere to be.
 
-She got out of the car before she could rehearse it one more time.
+She touched up the red on her mouth in the visor mirror, though it hadn't needed it, and got out of the car before she could rehearse it one more time.
 
 The porch light was on for her. She had her finger lifted to the bell when the door was already opening, which meant he'd heard the car, had maybe been near the window, and the thought of him waiting near the window undid one of the buttons of her composure before she'd said a word.
 

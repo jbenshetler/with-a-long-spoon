@@ -116,7 +116,7 @@ She had her hands up in her hair before it registered, reaching for the green by
 
 She opened the top drawer to look.
 
-It had been his. She knew it had, because she'd seen into it once, the spare blades and the comb and the ordered ranks of a careful man. None of that was in it now. It held her form of green scrunchies, and her loose pins gathered into a little dish, and her face cream stood upright, and a clear run of liner with room to spare, room for more of her, laid out like something prepared and waiting.
+It had been his. She knew it had, because she'd seen into it once, the spare blades and the comb and the ordered ranks of a careful man. None of that was in it now. It held her form of green scrunchies, and her loose pins gathered into a little dish, and her face cream and her foundation stood upright, and a clear run of drawer liner with room to spare, room for more of her, laid out like something prepared and waiting.
 
 She pulled the drawer below it. There was everything of his, the blades and the comb and the rest, pressed in and fitted too tight together, made to share the one drawer that had been built to hold half of it. He'd folded his whole ordered self down into a single drawer. He'd given her the top one. The easy one. The one your hand goes to first.
 

@@ -2,7 +2,7 @@
 
 *POV: Vee, in the loft booth with Randi. Pace is not present.*
 
-Downstairs the jukebox had found a piano going somewhere slow, and the plates had been up a while, and Vee was finally at the part she'd been carrying around since Sunday.
+Vee's coat hung on the hook at the end of the booth, lining to the wall, a habit she had stopped noticing she had. Downstairs the jukebox had found a piano going somewhere slow, and the plates had been up a while, and Vee was finally at the part she'd been carrying around since Sunday.
 
 "Five foot nothing," she said.
 
@@ -120,7 +120,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 "Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."
 
-At ten the room below them began shutting down. They paid at the little terminal and took their coats off the hook — Vee turning hers lining-to-the-wall, a habit she had stopped noticing she had — and came down the steep stair past the jukebox, its green water still climbing for nobody.
+At ten the room below them began shutting down. They paid at the little terminal, and Vee took her coat off the hook and over her arm. "Meet you downstairs." She went down ahead and did her mouth in the restroom, quickly, and when she came out Randi was at the foot of the steep stair, and they went out past the jukebox, its green water still climbing for nobody.
 
 Then the cold, and Randi's hands came onto both her arms, and Vee brought her face up and around before Randi had started to, and stopped there with her eyes already closed, waiting on the hand. It came — fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: her mouth eased back without ever leaving Vee's, opening the kiss, and then she took more of it, and this time it stayed. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face landed at the side of Randi's neck and her mouth went there in passing, and neither of them said a word about it.
 

@@ -432,7 +432,7 @@ The orgasm was *hers* in a way nothing he had done with her had ever been. It wa
 
 He kept his fingers on her, slowing, until the shudder finished, and then he eased his hand away and laid it flat against her back and held it there while she breathed.
 
-She was crying. She was crying quietly with her face turned sideways against the head pad of the bench and the tears were running across the bridge of her nose and pooling on the leather under her cheek. She was not making sobbing sounds. She was just leaking. She did not seem to know she was doing it.
+She was crying. She was crying quietly with her face turned sideways against the head pad of the bench and the tears were running black with mascara across the bridge of her nose and pooling on the leather under her cheek. She was not making sobbing sounds. She was just leaking. She did not seem to know she was doing it.
 
 He bent down close to her face.
 
@@ -484,7 +484,7 @@ Daphne had built a door, once, and he had not respected it. He had wanted to be 
 
 In the bathroom, Randi stood at the sink and looked at her face in the mirror.
 
-The face was the face she had been looking at every morning since she was thirteen. The black hair, slightly damp at the temples now, the pale skin, the oval, the slight permanent surprise of the resting expression which had once made a college admissions officer ask her if anything was wrong when nothing was wrong. The blue eyes, which were her best feature, which were the feature she had used. The eyes were red around the rims but the blue was still the blue.
+The face was the face she had been looking at every morning since she was thirteen. The black hair, slightly damp at the temples now, the pale skin, the oval, the slight permanent surprise of the resting expression which had once made a college admissions officer ask her if anything was wrong when nothing was wrong. The blue eyes, which were her best feature, which were the feature she had used. The eyes were red around the rims. The mascara had run from them upward, black at the lashes and thinning to gray toward her brows, as no tears of hers had ever run. But the blue was still the blue.
 
 The face was hers. She knew the face. She had known the face all her life.
 
@@ -508,7 +508,7 @@ She did not understand yet what she would do with what had happened. She did not
 
 She tried the smile again. The smile, this time, settled. The face, in the mirror, was the face of a woman who had just had an extraordinary evening with her boyfriend and was about to go back out and tell him so. The face was lying.
 
-She fixed her hair again, this time more deliberately, smoothing it into the shape she had walked in with. She turned on the tap and washed her face quickly and patted it dry on his towel and did not look at her eyes again because she did not want to see what was there. She unlocked the door. She opened it. She walked back through the hall and around the corner and into the bedroom with the blanket around her shoulders and the smile arranged on her face, the bright slightly surprised smile that was her best smile. Pace looked up from where he was sitting on the bed and smiled back at her, warm, unguarded, the smile of a man who had just had a beautiful night with a beautiful woman and was deciding whether to ask if she wanted to stay or whether to ask if she wanted dinner first.
+She fixed her hair again, this time more deliberately, smoothing it into the shape she had walked in with. She wet the corner of one of his washcloths under the warm tap. She took the black away, eye by eye, up into her brows. She pressed the base back smooth along each cheek with her ring finger. She pressed her lips together over what was left of the color. She rinsed the cloth until it ran clear, wrung it hard, and left it in a knot on the edge of his sink. She did not look at her eyes again because she did not want to see what was there. She unlocked the door. She opened it. She walked back through the hall and around the corner and into the bedroom with the blanket around her shoulders and the smile arranged on her face, the bright slightly surprised smile that was her best smile. Pace looked up from where he was sitting on the bed and smiled back at her, warm, unguarded, the smile of a man who had just had a beautiful night with a beautiful woman and was deciding whether to ask if she wanted to stay or whether to ask if she wanted dinner first.
 
 "Hi," she said.
 

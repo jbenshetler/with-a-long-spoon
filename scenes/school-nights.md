@@ -88,7 +88,7 @@ In the morning her hair had kept the whole night in it.
 
 She stood at the sink in his robe with the belt doubled twice around her and still trailing, and worked at the wreck of it the only way it could be done, one piece at a time. Brush first, from the ends up, a little higher each stroke, until it ran clean. Then the pins, held in her teeth and set one at a time, lifting and turning the dark red of it up off her neck. It wasn't for going out, but it would have to do. Then the scrunchy, deep green with the small white dots, one of the dozens he'd bought her so she'd never be without, off the form by the tap.
 
-The counter in front of her was a disaster. It was the only bathroom he had, and her whole kit had colonized it, the brush and the loose pins scattered, a fallen scrunchy, her face cream open, two bottles she'd stood up and one she hadn't, all of it out across a stretch of counter that every other hour of the week stood bare and wiped and held nothing but his razor squared to the edge. She'd gotten over herself, finally, and brought the bag, and the bag had done this, had thrown her whole disordered self across the one clean surface in a clean man's house.
+The counter in front of her was a disaster. It was the only bathroom he had, and her whole kit had colonized it, the brush and the loose pins scattered, a fallen scrunchy, her face cream open, a sponge stained beige, two bottles she'd stood up and the foundation she hadn't, all of it out across a stretch of counter that every other hour of the week stood bare and wiped and held nothing but his razor squared to the edge. She'd gotten over herself, finally, and brought the bag, and the bag had done this, had thrown her whole disordered self across the one clean surface in a clean man's house.
 
 He came in behind her. She felt the warmth of him before the door, and then his arms came in under hers and crossed at her front and drew her back against his chest, and his mouth found the side of her neck, slow, no part of it asking for a thing. She let her weight go back into him and watched the two of them in the glass, her with her arms still up in her hair, him folded around her with his eyes half shut, and she was so full of the night and the morning at once that her throat pulled tight.
 
@@ -152,11 +152,11 @@ It got in off the third wall, whole, in Cassie's voice, flat the way she'd said 
 
 Vee had said *maybe.* She had said *I think so,* and then, because that had not been the size of it either, she had said *it's all so fast,* and Cassie had let the maybe stand and gone back to her book and told her to go to sleep, streetlight. And in the dark afterward Vee had lain there running the sentence over, with the answer sitting plainly in her, easy to reach, easy to say, and no idea in the world why it had come out of her mouth as *maybe.*
 
-She took it into the set with her. There was nowhere else to take it. Her own bed had been empty more nights than not, which she had not known until Cassie said it flat and left her to go back over the week and do the counting herself, and there was the thing with her hairbrush and her earrings and her book scattered down his one clean counter, which he had looked at and said nothing whatever about, and which she had been turning over since Saturday. *Did he mind.* All of it came in and got in the lane with her.
+She took it into the set with her. There was nowhere else to take it. Her own bed had been empty more nights than not, which she had not known until Cassie said it flat and left her to go back over the week and do the counting herself, and there was the thing with her hairbrush and her makeup and her face cream scattered down his one clean counter, which he had looked at and said nothing whatever about, and which she had been turning over since Saturday. *Did he mind?* All of it came in and got in the lane with her.
 
 Off the wall. Breathe every third.
 
-*Do you love him.* The wall, and the roll, and the black line coming under her again. *Did he mind.* Breathe every third.
+*Do you love him.* The wall, and the roll, and the black line coming under her again. *Did he mind?* Breathe every third.
 
 By the fourth piece she was working too hard to hold the words on them. *Do you love him* was a pressure under her ribs with a dread riding it, and *did he mind* was nothing at all, and the count was there whether she wanted it or not. Sixty-one, sixty-two. Hand in front of the shoulder.
 
