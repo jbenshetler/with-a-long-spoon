@@ -26,17 +26,19 @@ She put the Lifesavers back in her pocket and went out the other way.
 
 ---
 
+She crossed back over the Drillfield in the dark and the cold, the walk she had made a hundred times to go and run these meetings, and made it tonight a step slower than she had ever made it in her life. She was never behind herself. She had left the warm room a few minutes late because she had stood too long in a hug she had not wanted to end, and the wintergreen they'd shared was still faint on her mouth, and she carried it the whole way like a thing she would not be let keep. She did not hurry to catch the time back. She did not slow further either. She went because not going was the one move that would make the house look harder at her, and she had spent four months seeing to it that no one did. Reluctance she could feel. It was just that it had nowhere to go.
+
 The house was warm and loud with Thursday, the common room going, somebody's speaker, the smell of a candle nobody had lit for any reason. Randi came in out of the cold and nobody looked up, which was its own kind of information. She went for the stairs.
 
 "—up for review tonight, did you hear? Standards."
 
 "Who?"
 
-"I don't know, some sophomore. Attendance, I think. Brooke's doing it."
+"I don't know — a sophomore. Addison, somebody said. Attendance, I think. Brooke's doing it."
 
-She had her foot on the first stair and she did not slow down. Some sophomore. Attendance. She thought, without heat, that she would not have run a sophomore's attendance case on a Thursday night in front of the whole house; you did those quietly, by email, so the girl kept her face. Then the second girl said, "God, I'd hate to be her," and laughed, and Randi went up.
+She had her foot on the first stair and she did not slow down. Addison. Attendance. They had the year wrong, and the girl, and did not know they were handing it to her on the stairs. She would not have run a sophomore's attendance case on a Thursday night in front of the whole house anyway; you did those quietly, by email, so the girl kept her face. Then the second girl said, "God, I'd hate to be her," and laughed, and Randi went up.
 
-The Standards room was the small meeting room off the second-floor landing, and the door was open, and the light was on, and they were already in it. That was the first wrong thing. She was never the last to a Standards meeting. She ran them. She came early and set the water out and took the seat at the head with the window behind her, and tonight the seat at the head with the window behind it had Brooke in it, and the chair Randi sat in — the board chair, the one on the near side, angled to the room — had a sophomore named Caroline in it with a legal pad, and the only chair left was the one that faced them all, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, and a glass of water set out on the table in front of it by someone who was not Randi.
+The Standards room was the small meeting room off the second-floor landing, and the door was open, and the light was on, and they were already in it, all of them, ahead of the hour. That was the first wrong thing. She ran these meetings; she came early and set the water out and took the seat at the head with the window behind her, and no board of hers had ever once been seated before she was. Tonight they had seated themselves early, and the seat at the head with the window behind it had Brooke in it, and the chair Randi sat in — the board chair, the one on the near side, angled to the room — had a sophomore named Caroline in it with a legal pad, and the only chair left was the one that faced them all, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, and a glass of water set out on the table in front of it by someone who was not Randi.
 
 Somebody closed the door. She heard it go behind her, the latch, and did not turn around to see who.
 
