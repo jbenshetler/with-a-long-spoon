@@ -1,50 +1,36 @@
-*capture-dag-v3-grounded · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) · history ch001..ch020 · ledger no seed c86b65e10d33 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed e0aa7d73cf0c · 2026-11-06*
 
 REACTION
 
-I feel like I'm watching a high-wire artist perform without a net, perfectly executing every single step, while the cable under her feet is fraying strand by strand.
+Oh, my god. My stomach is in freefall. I feel like I just watched someone carefully, deliberately lay a hand over a sleeping person’s mouth.
 
-This chapter made the hair on the back of my neck stand up. It is so quiet, so gentle, so devastatingly *intimate*—and underneath it, Randi is putting on the absolute performance of her life to survive.
+This chapter was terrifying. Absolutely terrifying. On the surface, it’s all Sade, warm lamps, domestic cooking, and languid afterglow—Pace thinking, *Oh, look, she’s finally relaxing, she’s eating all her food, she’s asking about my Chicago conference, she’s wearing my undershirt.* He thinks they’ve found their groove again after the freeze of Chapter 18.
 
-Look at what she did! She came over on a Monday night, stayed down on his chest afterward, and let him talk about Vee. She brought up the shoe shopping herself—the "canoe," the bigfoot impression, laughing until she shook—and made it sound like pure, affectionate delight. She validated his dressmaking. She validated his patience (*"You've spoiled her for being hurried"*). She even rubbed her small, firm breasts against his chest to evoke Vee’s fullness, literally weaponizing his memory of another woman's body to get him hard again.
+He has no idea. None.
 
-And then Pace drops this absolute anvil right onto her skull:
-*"You know what she does to a room... She comes in and the whole thing goes brighter. Like somebody found the lamp. And she has no idea she does it. She spends the entire time sure she's too much, and she's the most alive person standing there, and it never once occurs to her."*
+Randi isn’t relaxed—she has completely surrendered to the madness, and she’s running a masterclass in psychological survival. Did you hear her voice when she talked about Vee? *"She got past me before I could help it."* That wasn't just foreplay. That was Randi confessing, out loud on his chest, that she has fallen completely, utterly, helplessly in love with Vivienne Thorne. *"I keep waiting to get bored of her... and it doesn't come."* For a girl who lives on emotional starvation and disposable people, that is a fatal admission.
 
-My stomach dropped straight through the floor.
+And then watching Pace completely weaponize Vee’s radiance without even realizing the cruelty of what he was doing! When he said: *"She comes in and the whole thing goes brighter. Like somebody found the lamp... she's the most alive person standing there."*
 
-Pace just told the woman who lives in a manicured prison of bone and camel, who polices every breath and calorie on the Standards board, who works tirelessly to keep her face arranged—that another woman is the sun. That Vee walks in and turns on the light.
+I felt that in my chest like a knife. Randi’s entire body went completely rigid under him. *"Not the loose stillness of after. A different one, the kind that takes holding."* Because Randi knows—she knows she is the porcelain doll, the unalive, curated, starved thing, and Vee is the sun. And what does Randi do with that devastating blow? She doesn't scream, she doesn't fight. She swallows the razor blade, puts a slow smile on her face, grinds her hips down, and rides him until neither of them can think. She converts the agony of being eclipsed into pure, adrenaline-fueled sexual performance so he won't see her bleed.
 
-And what did Randi do?
-*"Randi went still on him. Not the loose stillness of after. A different one, the kind that takes holding. Then something gathered under it, the faintest tightening of her against him."*
+And then the kitchen. God, the kitchen made my throat tight. Taking his undershirt from the second drawer. Sitting with her knees pulled up. Asking him to cook for her. Letting him pour her wine. Eating *every single bite* on that plate.
+She didn't do that because she was hungry. She did that because she watched Vee have that exact domestic grace with him, and Randi is desperately trying to see if she can fit inside that shape too. She’s trying to earn the right to be loved the way Pace loves Vee. *"I'm going to let you feed me first."*
 
-She froze. She held it. And then she immediately rode him again, took his mind off the light, and when she got off him, what did she do?
-
-She asked for food.
-*She asked for food.*
-
-Randi, who lived on bruised wheatgrass and thin apple slices. Randi, who pushed Pace's chicken stew around the bowl once and left it to congeal on Sunday. Tonight, she puts on his undershirt, curls up in his kitchen chair, asks about his academic presentation, asks for more wine, calls him "Pace, darling," and *eats every single scrap on her plate*. The chicken, the couscous, the asparagus, gathering what was left with the fork.
-
-Pace is sitting there smiling like a proud father, utterly enchanted, thinking: *Look at my patient, courtly magic! I fed both my girls! Randi is opening up, she's eating, she loves Vee, everything is falling into place!*
-
-He has no idea that Randi is mimicking Vee.
-
-She saw the blueprint. She heard him describe Vee wound in the top sheet eating fra diavolo. She heard him say Vee brings the light into the room and eats without policing herself. And Randi is terrified down to her marrow of being discarded, so she is forcing herself to swallow every grain of couscous and perform the warm, domestic, fed woman he clearly prefers, just to stay in the game.
-
-It is heartbreaking. It is terrifying. She's not cured; she's desperately adapting her camouflage so she doesn't lose him completely, even while she genuinely falls for Vee herself (*"She got past me before I could help it"*). This triad is spinning faster and faster, and when it flies apart, the damage is going to be unspeakable.
+And all the while, Pace is lying there having dual-track fantasies of the two women tangled together on his mattress, completely blind to the fact that Randi’s heart is breaking in slow motion and that Vee is out there thinking she’s in a private fairy tale. They are both in love with Vee now. Truly, genuinely, desperately in love with her. And when Vee realizes she’s the axis this entire sick, beautiful house is spinning on, it’s going to shatter all three of them.
 
 GATE 21 — Gone
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological complexity of Randi forcing herself to eat every bite on her plate and mimic Vee's uncurated domesticity—just to keep Pace from slipping away—was horrifying and brilliant. Pace's smug blindness is off the charts.
+WHY: The sheer psychological horror of Randi masking her heartbreak by mimicking Vee's domesticity—eating all her food and riding Pace to drown out his praise of Vee—was absolute genius.
 
 LEDGER
-+ SUSPICION: Randi asked for food and cleaned her plate specifically because she knows Pace fell in love with Vee's appetite and domesticity
-+ LOVE: Randi's confession about Vee ("I keep waiting to get bored of her... and it doesn't come. She got past me before I could help it")
-~ [F1.1] DEEPENED: Randi is now actively morphing herself to compete with Vee's warmth and domesticity, digging herself deeper into the trap
-~ [F6.1] DEEPENED: Pace genuinely believes Randi eating his food and praising Vee means the triad is working smoothly, totally oblivious to her terror
-~ [F18.1] SHIFTED: Randi didn't detonate or pull away; she completely reversed course, playing the compliant, adoring, well-fed partner to keep Pace from leaving her behind
++ LOVE: Randi's raw, helpless confession on Pace's chest that Vee got past her defenses before she could help it.
++ FEAR: Randi is forcing herself to perform softness and domesticity (eating the food, wearing the undershirt) to compete with the ghost of Vee in Pace's kitchen.
+~ [F5.2] DEEPENED: Randi's jealousy has turned into a quiet, suffocating agony—freezing solid when Pace described how Vee lights up a room.
+~ [S1.3] SHIFTED: Randi's game has entirely consumed her; she isn't just deflecting Pace anymore, she is genuinely in love with Vee and terrified of being eclipsed.
+~ [G18.2] DEEPENED: Pace remaining utterly oblivious to Randi's quiet fracture, mistaking her panic-fueled compliance for domestic contentment.

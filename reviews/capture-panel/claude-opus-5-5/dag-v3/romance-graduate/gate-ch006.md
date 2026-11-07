@@ -1,38 +1,36 @@
-*capture-dag-v3-grounded · gate ch006 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 822fde509de8 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed b70f85cdaa3a · 2026-11-02*
+*capture-dag-v3-grounded · gate ch006 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 822fde509de8 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed 40d0e748ddbf · 2026-11-06*
 
 **REACTION**
 
-Okay, this is the debrief I'd been waiting on since the froyo, and it's hot. Finally a body. The deadbolt goes over first thing and she's on him before he's off the couch, and there's no hello or backing off, she just takes. She's the one running this night, and it's like the kitchen chair again. She straddles him, puts his hands on her breasts herself, feeds him wine mouth to mouth, and then says "*Tell*" right into his ear. I was smiling. She's using a girl she met three days ago as foreplay, and he knows it, and he laughs because he likes that she knows it.
+THERE's the debrief. The deadbolt goes over before he's off the couch and she's on him with no hello, no little back-off-lean-in dance. She held that kiss the whole walk over. Then she says "Tell me," three times, and the third is just "*Tell.*" hot in his ear while she's got his hands up under her top. I've been asking for skin for two chapters, and the book gave it to me as an interrogation. The interrogation is hotter than skin would have been.
 
-Then "She built a cup like nobody had ever told her when to stop," and Randi's thighs go tight. Then "Did she eat all of it?" Oh my god. That's her first question. She doesn't ask what Vee said or whether he kissed her. She asks whether Vee *ate*. The girl who can't have a cheeseburger is getting off secondhand on another woman's appetite. The book doesn't spell out the food thing this time, and it doesn't have to.
+The wine is the apple game done darker. She drinks and kisses him with it in her mouth, he hasn't poured himself a glass, and "Everything he was going to have of it he was going to have like this." I like that it's an echo. I don't love that the book points at it ("as she had done on the kitchen chair") like I'd forget the apple. I wouldn't.
 
-The turn is what really got me. "She's easy to listen to," and Randi stops. Her thighs don't tighten, they *set*, and her hands stop in his hair. Pace reads it as her want for Vee being too big for her face, and he's moved by that. I don't think that's the whole thing. "Easy to listen to" is the closeness Randi locked herself away from in that bathroom, and now he's handing it to someone else as a compliment. He has a blind spot about her, and he's sitting right in it, all tender. Then she says "I already do," bright, and downs the whole glass in one swallow. She's drinking it down. I'm worried for her.
+What actually got me is that Randi gets turned on by Vee *eating*. "She built a cup like nobody had ever told her when to stop," and Randi's thighs go tight. Randi portions apple slices and lives under her mother's egg whites, and she's getting wet over a girl who didn't stop. That's the feeding thread from "let's go feed you" landing right in her lap. Then she finishes the whole glass in one swallow. Something in her is eating by proxy, and I'm a little scared for her and also very into it.
 
-And he *kept* Vee's line. "The nicest a person has been to me in a really long time" is the one thing he doesn't hand over, because "It was hers." I loved him for that, and it scared me too. That's the first thing he's kept from Randi, and it's Vee's. The game is already leaking. Their whole setup is that Randi gets told everything, and he's started keeping a piece of Vee for himself.
+Then comes the turn. "She's easy to listen to." Randi goes quiet, and her thighs don't tighten, they *set*. Pace reads that as "the wanting, held" and he's moved by it. Sir. That might be want. It might also be your girlfriend hearing you say another woman is easy to listen to, after watching you look at that woman like nobody else was in the room. He reads her body perfectly and still might get *her* wrong, which is the bathroom lock all over again. And notice what he holds back. Vee's "nicest a person has been to me" moment stays his: "It was hers." He's protecting Vee's privacy from the woman who ran the play. "For us" is already quietly turning into "for her," and Randi has no idea.
 
-The last line is "He had not had a drop of it. He could taste nothing else." Gorgeous, and the book doesn't explain it. It's wine, and it's also Randi, who's all he can taste. Or Vee, filtered through Randi. It works all three ways.
+Gripe: it's short and it cuts at "held out her hand." I'll allow it because it's a chapter break and not a coy fade, but if chapter 7 opens the next morning I'm going to be furious. And "He read it: the wanting, held" is the book telling me what the thighs already told me. The last line, though, "He had not had a drop of it. He could taste nothing else," is earned. It doesn't preen.
 
-There's one small gripe. "He read it: the wanting, held. It moved him." That's the narration telling me again, but at least now it's Pace's *wrong* reading, which makes it useful to me instead of a lecture. So I'll mostly let it go.
+1 a.m. text: "she rode him on the couch going TELL ME about his date with the girl she picked for him and got wet over the girl's froyo portions. then he said 'she's easy to listen to' and her thighs went from squeeze to SET"
 
-The 1 a.m. text: *she came over and made him tell her about the date WHILE straddling him, and her first question was "did she eat all of it." and he kept vee's sweetest line to himself. it's starting.*
-
-GATE 6 — Tannin
+**GATE 6 — Tannin**
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway."
-WHY: It's short and dense, and the heat finally comes back with a real edge to it. The heat is about appetite and secrets more than skin. Pace keeping Vee's confession and getting Randi's stillness wrong is the first crack in the game, and she's off the couch holding out her hand, so I'm reading on.
+ALMOST-STOPPED: "He read it: the wanting, held." That's a small lecture over a body that had already told me.
+WHY: It's the debrief I wanted, and it's charged, smart, and quietly dangerous. The "easy to listen to" beat gives me the first real crack in the triangle. It ends on her hand held out, so I'm turning the page now, and the next chapter had better not fade.
 
-LEDGER
-~ W5.4 ANSWERED: She debriefed him straddling him, wine mouth to mouth, "*Tell*." Her first question was whether Vee ate all of it.
-~ W4.6 ANSWERED: Heat's back. Hands on breasts, the straddle, the wine kiss. A simmer that's going somewhere.
-~ S5.2 DEEPENED: "She's easy to listen to" froze her. I think it's jealousy over the closeness Pace gives Vee as much as over Vee herself, and she downed the glass to cover it.
-~ S3.3 DEEPENED: "Did she eat all of it?" She's getting off on Vee's appetite secondhand.
-~ S1.3 SHIFTED: Pace's flaw now is how sure he is of his reading. He thinks he can read her perfectly, and he took her freeze for held desire.
-~ G1.6 SHIFTED: The explaining is still there, but this time it's Pace's misreading, so it tells me something.
-+ SUSPICION: Pace kept Vee's "nicest a person has been to me" from Randi. The game is going to leak because he's starting to want Vee for himself.
-+ LOVE: "He had not had a drop of it. He could taste nothing else."
-+ FEAR: Randi finishing the glass in one swallow. She drinks things down the way she puts on her face.
-+ WAITING: Where she's taking him by the hand, and whether the bench comes back tonight.
+**LEDGER**
++ LOVE: "*Tell.*" Randi making him confess the date with his hands on her breasts, and the wine kiss he never pours himself a glass for
++ SUSPICION: Pace reads Randi's going quiet as held desire for Vee, but some of it is jealousy, and he's misreading her the way he did on the bench night
++ WAITING: Where her held-out hand leads. I want the bedroom, not a cut to morning
++ GRUDGE: The book points at its own echoes ("as she had done on the kitchen chair") as if I wouldn't catch them
+~ W5.5 ANSWERED: The debrief happened, on his couch, with wine and Randi demanding to hear everything
+~ G5.6 FORGIVEN: It's not full skin yet, but the heat came back hard
+~ F5.1 DEEPENED: "She's easy to listen to" sets her thighs and she downs the glass. Something's landing that she didn't plan for
+~ S3.4 DEEPENED: He keeps Vee's true moment from Randi ("It was hers"). He's already guarding Vee from the game
+~ W3.7 SHIFTED: Randi gets fed through Vee. Vee eating without stopping turns her on, and she empties the glass
+~ S1.4 DEEPENED: He reads her body flawlessly again and may still be wrong about what's going on in her

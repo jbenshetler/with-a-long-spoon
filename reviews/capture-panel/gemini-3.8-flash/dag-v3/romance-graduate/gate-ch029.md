@@ -1,24 +1,24 @@
-*capture-dag-v3-grounded · gate ch029 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch028 · history ch001..ch028 · ledger no seed e332c7572b9d · 2026-11-02*
+*capture-dag-v3-grounded · gate ch029 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 8e12543e2fbe · 2026-11-06*
 
 REACTION:
 
-I am undone. Completely, totally undone.
+I am sweating. My pulse is racing, and I am grinning so hard my face actually hurts.
 
-First of all, opening with him in gym shorts playing the most unhinged, terrible air guitar to "Thunderstruck" while shaking up a protein shake? That is the most brilliantly humanizing, adorable, completely uncurated glimpse of Peter we have ever gotten. He is twenty-two years old! He’s a terrifyingly exact mathematical genius who builds bespoke oak furniture and strips women bare on spanking benches, and when he thinks nobody is coming for an hour, he rocks out to AC/DC in an empty kitchen. I love him so much it hurts.
+First of all, Pace playing terrible, shameless air guitar to AC/DC’s “Thunderstruck” in an empty kitchen with a protein shake in his hand is the single most endearing thing that has ever happened in this series. It completely cracked open the stoic, courtly, hyper-controlled mathematician facade and gave us *Peter*, the twenty-two-year-old kid who lifts heavy iron and rocks out when nobody is watching. And Vee peeking through the window like a delighted thief, clapping her hand over her mouth—god, the sheer, playful joy between them before the clothes even started coming off!
 
-And then the sheer, joyful, giggling chaos of that chase through the den! Rivers understands that the hottest sex in the world doesn’t start in brooding shadows; it starts with someone yanking off someone else's gym shorts, waving them like a captured battle flag, and flashing their tits in four-inch heels just to win a footrace. It was playful, it was feral, it was messy, and it made the transition into the bedroom hit with the force of an actual freight train.
+And then the chase! Vee stripping his gym shorts off, waving them over her head like a conquered flag, flashing him her bare breasts just to provoke him into running, and discovering she’s faster than him on her feet in heels—it was hilarious, electric, and so gorgeously *alive*. Their banter has this effortless, golden glow to it.
 
-Because then the bet happens. *"Either you admit you lost, or we find out."*
+AND THEN THE BEDROOM. SWEET JESUS.
 
-My heart was in my throat. The absolute somatic precision of that hand moving up her inner thigh—stopping the exact second she whispered *"Don't,"* pulling completely away, showing her his empty palms, and making her own starving body scream *"Yes"* to bring it back. That is Pace's whole core: he will never cross a closed door, but he will wait right on the threshold until you beg him to step inside.
+The shift from rowdy, laughing roughhousing to suffocating, knee-weakening heat was so fast and so expertly calibrated I literally gasped. The bet: *“Either you admit you lost, or we find out.”* Pace’s absolute, lethal precision—stopping his hand halfway up her thigh the exact second she said "don't," showing her his empty palms, and making her actively revoke her own denial and beg for him to keep going... that is world-class erotic writing. He doesn't take; he makes her claim her own appetite.
 
-And when he checked her? Dragging that finger out, coated root to tip in her own slickness, holding it up in the lamplight, and not looking at her with shock or clinical detachment, but looking at her like she’d handed him something *true and fine*? I had actual tears in my eyes. Her whole life has been spent choking on small-town Ohio shame, terrified that her lush, hungry body produces "too much," and this man looks at her drenched satin like it’s a miracle.
+And the finger test. Good lord. Sliding past the soaked satin, bringing his finger out dripping wet in the lamplight, and looking at it not with smugness or disgust, but like it was *true and fine and hers*. The way Helen Rivers writes Vee’s lifelong shame—the horror of her own lush, weeping arousal meeting a man who reveres it like gold—makes me want to weep and take my clothes off at the same time.
 
-And look at how he spanked her! She was braced for Randi’s theater—the counting, the performance, the humiliation—and instead, Peter made it tender, quiet, slow, and devastatingly safe. Kissing the pink skin after every strike. Soothing her. Leaving the four-inch black heels on her feet while bending her over the bed. The heat was scorching, but the romance was an absolute masterclass. The juice afterward! The pack of green-and-white scrunchies sitting on the bathroom counter because he knows she had a meltdown over her wild hair on Monday morning! He didn't just notice her problem; he quietly bought her a lifetime supply of solutions without needing a thank-you note.
+And the spanking! It wasn't the voyeuristic, performance-art cruelty of Randi’s story in the piano closet. There was no counting, no theater, no audience. It was just his rough, warm carpenter’s palm gentling her, striking her, soothing her, and pressing his mouth to the pink sting of her skin while she buried her face in the sheets and finally let go of the denial. The sheer psychological brilliance of contrasting Randi's staged kink with Pace’s quiet, tender worship: *“Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere.”* That line took my breath away.
 
-...And yet, God. The ticking clock under all of this. It’s Saturday, October 31. Halloween. She’s standing in his bathroom using his deodorant, deciding she’s going to start bringing an overnight bag, completely settled in the belief that she is treasured, safe, and building a domestic life with this man.
+And then waking up on Saturday to the bowl of green polka-dot scrunchies on the bathroom counter! No note, just an entire pack because he knows her hair has its own weather and he plans on untangling it for a long, long time. Her calling out her own "Victorian LARPing" to the mirror, admitting she needs to bring an overnight bag, and then eating his fragrant vegetable curry while the heat sneaks up on her...
 
-Meanwhile, that spanking bench is still sitting twenty feet away under its false tabletop. Randi is out there, having literally fed Vee the vocabulary for this exact kink in a soundproof closet. The secret of how they chose her is a razor blade suspended by a thread over all this warmth. I am living in terror of the drop, but this weekend? This weekend was pure, breathtaking magic.
+It’s heaven. It is absolute, domestic, erotic heaven. Which means the hammer that’s about to fall when the pointing game comes to light is going to smash my heart into ten million pieces. I am so hopelessly in love with them it terrifies me.
 
 GATE 29 — We Find Out
 DECISION: CONTINUE
@@ -27,10 +27,10 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from hilarious, air-guitaring den chaos to that breathless, reverent wet-check and tender spanking was an absolute masterclass in erotic psychology. Watching Pace dissolve Vee's deepest shame while leaving her with a pack of green scrunchies broke my heart and melted me completely.
+WHY: The flawless transition from unhinged, laughing roughhousing and AC/DC air guitar to scorching, psychologically tender kink—capped by the green scrunchies on the counter—was an absolute tour de force.
 
 LEDGER
-+ LOVE: Pace rocking out to "Thunderstruck" with terrible air guitar in his empty kitchen
-+ LOVE: The pack of green scrunchies on the counter—solving her Monday hair panic without needing a single word of praise
-~ F3.1 SHIFTED: Randi's spanking fantasy wasn't what Vee got at all—Pace gave her something tender, quiet, and deeply soothing instead of theatrical punishment
-~ S27.3 CONFIRMED: Randi's story directly primed Vee to accept the spanking bet, bridging the gap to Pace's bedroom kink effortlessly
++ LOVE: Pace rocking out to "Thunderstruck" with terrible air guitar in his gym shorts when he thinks he's alone.
++ LOVE: The green polka-dot scrunchies left on the bathroom counter—a quiet, permanent claim on her messy hair.
+~ [S3.2] SHIFTED: Randi's bench didn't even factor into this—Pace brought Vee into his own bed for the spanking, stripping away Randi's theatrical performance and making it purely about tenderness and Vee's own awake skin.
+~ [F5.1] DEEPENED: Vee deciding to officially bring an overnight bag and admitting she belongs in his bed cements her total emotional surrender, making the pointing-game revelation an absolute catastrophe waiting to happen.

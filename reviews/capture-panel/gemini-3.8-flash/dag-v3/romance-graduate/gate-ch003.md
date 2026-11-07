@@ -1,15 +1,21 @@
-*capture-dag-v3-grounded · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c83a255bd240 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed 0a6230b414af · 2026-11-03*
+*capture-dag-v3-grounded · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 58fc23ac81a0 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed 9c4a70cac749 · 2026-11-06*
 
-REACTION — Holy shit. The mechanics of this are so slick and so deeply twisted that I feel slightly drunk just reading it.
+REACTION
 
-The jacket told us: *“What Vee can't see is that she was chosen in a game Randi and Pace started in bed.”* Seeing that game actually play out in real time—starting from him whispering the question into her while he was still inside her, feeling her entire body climax just at the sheer, terrifying transgression of the thought—was stunning. The psychological choreography here is unbelievable. Randi can’t admit she wants a woman because that breaks every single rule of the bone-and-oatmeal, Brooke-policed world she lives in, so she immediately reframes it as a gift to her boyfriend: *“Only in a threesome. With you.”* And Pace *sees* the pivot instantly. He knows it’s self-defense, he knows it’s camouflage, and instead of calling her on it, he hands her the leash. *“I point. You pick.”*
+Oh, this book is diabolical. Absolutely diabolical.
 
-And then the walk across campus! The contrast between the rigid, pastel, identical sorority girls they pass—the ones Randi has starved and molded herself to match—and the sudden arrival of Vivienne. Vivienne, who is tall, lush, uncurated, taking up space, laughing with her head thrown all the way back with zero regard for who is watching her. She is the exact photographic negative of Randi. Randi is tightly wound, precision-engineered control; Vee is effortless, unmanaged life. Watching Randi’s eyes lock onto her and just completely forget how to manage her face—that bare, unvarnished *"Yes"*—was breathtaking.
+I thought I knew what was coming because of the back cover, but seeing it set into motion like this made my jaw hit the floor. The entire opening sequence in bed—Pace using her own orgasm against her, slipping into her while she’s still completely undefended and asking, *"Would you like to taste another woman?"*—was mind-meltingly hot, but it was the psychological trap snapping shut that actually gave me goosebumps. Her body responded before her brain could build a wall: she came *instantly* just from the question.
 
-And then the collision! God, Rivers writes physical competence so damn well. Randi using ten years of dance training and three years of ruthless sorority politeness to engineer a fake accident so seamless that *Vivienne* ends up apologizing to *her*? It was like watching a hawk drop out of a clear sky. It’s predatory, it’s completely unfair, and it’s wildly, brilliantly hot.
+And then watching the two of them perform their little mutual illusions. Pace thinks he’s this benevolent, patient guide gently teasing out her hidden desires, leading her to water. Randi immediately does the calculus, realizes that wanting a woman on her own is "unsurvivable" for a sorority girl whose entire life is rigid gender-performance, and repackages it as a gift to *him*: *"Only in a threesome. With you."* And Pace buys it! Or rather, Pace *wants* to buy it because the fantasy of two women serving his gaze gets him hard as iron, even while he tells himself it's all for her growth. The layers of self-delusion here are staggering.
 
-And that final line: *“Do you think she’ll like the bench?”*
-My jaw hit the floor. The bench broke Randi open so thoroughly she hid in a bathroom and dissociated under a synthetic duvet for an entire weekend. And her immediate instinct isn't to run from it anymore—it’s to put this gorgeous, laughing redhead on it and watch. The engine is fully running now.
+Then the campus walk. God. The "pointing game." It felt so casual and sunny on the surface, but underneath it was utterly predatory and electrifying. Randi grading these girls through her sorority scanner—rejecting the mirror images, rejecting the girl who performs her confidence too loud—and then *Vee* walks out.
+
+The description of Vee was incredible. Not just because of the red hair and the freckles, but the fact that she is *unmanaged*. She takes up space, she laughs with her throat bared, she wears soft clothes that don't apologize for her curves—she is the exact opposite of the starved, rigid, porcelain prison Randi lives in. Randi’s bare, uncalculated *"Yes"* was so honest it hurt.
+
+And the execution of the "accident"? Chilling. Absolute masterclass in social manipulation. Randi using ten years of cheer and dance balance to throw her body into Vee's path so cleanly that *Vee* ends up apologizing—and then Randi putting that warm, lingering hand on her arm. That line on the jacket—*Every yes was freely given. That was the problem.*—just took on the most terrifying, thrilling meaning.
+
+And that final line: *"Do you think she'll like the bench?"*
+Jesus Christ. Randi is already planning to put Vee where she was. She wants to watch Vee unravel the way Pace unraveled her. This is going to be a glorious, devastating disaster and I cannot turn the pages fast enough.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -18,11 +24,11 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from the bedroom revelation to the campus hunt was executed with surgical precision. Seeing Vivienne through their eyes—and watching Randi immediately engineer the trap—made the hair on my arms stand up.
+WHY: The transition from the scorching, psychologically exposed morning in bed to the predatory, sunny game on the quad was breathtaking—and Randi's staged collision with Vee gave me absolute chills.
 
 LEDGER
-+ LOVE: Vivienne’s entrance—loud, lush, uncurated, completely oblivious to the surveillance state of the quad
-+ SUSPICION: Randi wants to put Vee on the bench because watching someone else be broken open by Pace is the only way she can safely process what happened to herself
-~ F1.1 DEEPENED: Randi has officially turned Vee into the project/buffer, asking if she'll like the bench before she even knows her last name
-~ S1.3 CONFIRMED: Randi wrapped her genuine longing for a woman in the safe packaging of a "gift" for Pace to avoid looking at it directly
-~ W1.4 ANSWERED: Randi and Pace finding Vee and making contact
++ LOVE: Vee’s introduction—the unmanaged laugh, the loose copper hair, the sheer alive contrast to Randi’s porcelain cage.
++ SUSPICION: Randi wants Vee on that bench because she wants to redirect Pace's intense, terrifying attention away from herself and onto someone else.
+~ [F1.1] DEEPENED: It's happening—Randi officially has Vee in her sights, and she's already wondering if Vee will like the bench.
+~ [W1.4] ANSWERED: Vee has officially entered the orbit, orchestrated down to the millimeter by Randi on the dining hall walk.
+~ [L1.2] SHIFTED: Pace's patience and guidance has a distinctly darker, more self-serving edge now; he's orchestrating a fantasy while pretending it's purely for Randi's liberation.

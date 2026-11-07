@@ -1,33 +1,35 @@
-*capture-dag-v3-grounded · gate ch001 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8741b2dd56ac · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-03*
+*capture-dag-v3-grounded · gate ch001 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b986a0613f03 · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-06*
 
-**REACTION**
+## Reaction
 
-Okay. The withheld name got me. I read the whole first half assuming this was Vee: twenty-one, sorority, a man who "sees her completely." The jacket set me up for exactly that. Then he says "There you are, Randi," right at the moment she's leaking tears onto the leather, and I had to put the Kindle down for a second. So this is the "glamorous new friend" before Vee exists. This is the woman who's going to steer her to him, and the book opens on the night she broke open and decided never to do it again. That's a much more interesting place to start than a meet-cute. Now when I see Randi laughing over lunch with Vee, I'll know what's behind that face.
+I had it wrong for twenty pages, and I'm not even mad about it. The jacket tells me the book is about a twenty-one-year-old who's quietly starving, and here's a petite sorority girl who portions her apple slices and wears a matching set under her cashmere. I was sure I was watching Vee meet Pace. Then he says "There you are, Randi," and I literally said "oh" out loud. So this is the glamorous friend, the one who's supposedly running the game. Now I'm going back over the whole chapter as her story: the one with the face, the one who has never let anything reach her.
 
-And the heat is *there*. Nothing fades to black, nothing coy. It's patient and specific and honestly filthy in places: the thread of slick stretching and breaking, the fingers pressed wet against her spine, "her own heat, returned to her in the wrong place." That line did something to me. The apple game in the kitchen is the best warm-up I've read in ages. It's tied to her eating, so it's erotic and sad at once, and he goes up her ribs instead of down. Grown-up foreplay, finally.
+The heat delivered. It's explicit, nothing coy, nobody closes a door on me, and it's slow in a way that feels like he wants it slow, not like the author is stalling. The apple game in the kitchen is one of the hottest openings I've read in ages, mostly because it's funny. "You're doing that on purpose," with the Kentucky coming out in her voice, and him answering "Doing what?" and doing it again. The bench reveal gave me an actual shiver, with her working out what it's for one fitting at a time. And there's the turn on "please." He waits for her real "please" instead of the one she'd use to ask a waiter for water. That's what I've been begging these books for. It isn't just "he made her come." He wouldn't accept the act. That's real emotional intelligence, and it's welded right to the explicit stuff.
 
-Then the mirror scene. That's where the depth showed up. "He could have the face. The face was very good." The face that had begged. The thumbnail pressed under the bottle cap, which nobody comments on and which I will not forget. I like that he reads her so well on the bench and completely misreads her afterward. He's on the bed thinking "she finally let someone feed her" while she's in the bathroom locking every door she owns. Brutal dramatic irony, done right.
+The mirror scene is where I got nervous for her. She cries, he tells her she's beautiful, and she flinches. Then she locks the bathroom door for the first time ever and decides, "quiet as a deadbolt going over," that she will never let him see her again. That's chilling. It makes the jacket click into place: maybe Vee is the game because Randi can't afford to be the one who's seen. She'll send someone else onto the bench. I also clocked the bottle cap pressed under her thumbnail, where it would hurt. Nobody says anything about it, and it scared me more than anything else in the chapter.
 
-Gripes, because I have them. The prose leans hard on repetition sometimes: "The *please* was different. The *please* came from below. The *please* was the *please* of..." I get it. It started to sound like it was performing for me. The mirror section also tells me what it means a beat or two longer than it needs to, all "that was what the face was for." I'd have understood with half of it. The spanking stretch is long too, with a lot of check-ins. I mostly forgave that, because the check-ins *are* who he is.
+I have two small gripes. The mirror section partly explains itself. "It had come from being seen" spells out what the bench scene already showed me, and "the face, the face, the face" goes on about three beats longer than it needs to. Then there's the last line, "the size of a key turning in a lock," which sounds like the author admiring herself. And Pace is almost too good. He checks on her, he builds furniture, he leaves water on the nightstand, he ignores his own hard-on. I don't trust him yet, and I think the book doesn't want me to: he's sitting there "quietly happy" and completely wrong about what just happened. That gap between them is delicious.
 
-Pace himself: courtly, patient, built her a bench with his own hands, apple slices cut side up. Swoony, sure. But "he heard himself want to hear it again," plus the Daphne thing, plus how pleased with himself he is. I don't fully trust how good he thinks he is at this. And still hard, setting it aside. The restraint is hot and also a little self-congratulatory.
+What I'd text a friend at 1 a.m.: "the first chapter is a spanking scene that ends with the heroine deciding to emotionally lock her boyfriend out forever, and she's not even the heroine??"
 
-1 a.m. text: "the girl on the bench is the FRIEND. the friend is the one who's broken. I'm in."
+## Gate
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The *please* was different. The *please* came from below. The *please* was the *please* of a woman who needed something."
-WHY: It's explicit and smart at the same time, which almost nothing manages, and the name reveal flipped the whole jacket for me. The bathroom decision is a real turn: she closed the door on him on the very night he finally reached her. Some of the prose over-explains and over-repeats, but it fed me more than it showed off.
+ALMOST-STOPPED: "The face had just begged. The face had said *please, please, please*…" — the mirror passage starts to lecture me about what I'd already felt.
+WHY: It's both things at once, explicit and smart about the person getting spanked, and the name reveal plus her decision in the mirror turned a hot scene into a hook. I need to know what Randi does with this, and how Vee ends up being the answer.
+
+## Ledger
 
 LEDGER
-+ LOVE: Randi in the mirror. "He could have the face. The face was very good." She has a real inner life, a cracked one.
-+ FEAR: The thumbnail under the bottle cap and the egg-white mother. Randi hurts herself quietly, and nobody, Pace included, is going to see it.
-+ SUSPICION: Randi steers Vee to Pace *because* of tonight. She's going to hand off the being-seen she can't stand, and watch it secondhand from a safe distance.
-+ SUSPICION: Pace is less wise than he thinks. He misreads the aftermath completely, and the Daphne story says he's crossed lines before.
-+ GRUDGE: The prose sometimes spells out its own meaning and leans on repetition ("the face... the face", "the please... the please"). Don't explain the subtext to me.
-+ WAITING: Vee's arrival, and seeing Randi's face from the outside, now that I know what's behind it.
-+ WAITING: Pace finally getting his own release. Whether he ever lets himself want something instead of just giving.
++ LOVE: Randi's Kentucky slipping out when something moves her, and the whole apple game in the kitchen
++ SUSPICION: The "game" with Vee is how Randi gets out of this; she can't stand being seen, so she'll put someone else on the bench
++ FEAR: The bottle cap under her thumbnail means Randi hurts herself to manage what she feels, and nobody is going to notice
++ SUSPICION: Pace is too perfect. He reads her body flawlessly and completely misses what happened to her, and Daphne is the crack in him
++ WAITING: Meeting Vee, and seeing whether she's the same kind of starving or a different kind
++ WAITING: What Pace did to Daphne by going in "where he had not been asked"
++ GRUDGE: The mirror scene explains its own subtext a beat too long, and the last line is pleased with itself

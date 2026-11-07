@@ -1,39 +1,47 @@
-*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 7849a7e3d17c · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 2f12450d0245 · 2026-11-06*
 
 **REACTION**
 
-"Words are cheap, and you still won't spend them on me."
+She didn't take the kiss. That's what I'd text at 1 a.m. For forty chapters the kiss at the door has been automatic. It was the first thing she ever did at this house, and it was the one gesture that never needed a decision. Tonight she keeps her hands in her pockets and makes him walk all the way up to the fact that it isn't coming. "She watched him not understand." I felt that in my chest. The man who reads every breath gets read for once, and he has nothing.
 
-I said "yes" out loud to my bedroom. After three chapters of her lying awake grinding on the missing word, she finally drove out to 614, stood on the mat with her coat buttoned to the throat and her hands in her pockets, and made him watch her not kiss him. Last gate I said I'd quit if the ache showed up one more time. It did show up again, but this time she acted on it, and that's the difference. She came in empty-handed with the bag left in the car. "She watched him not understand." That line is pure Vee. She's learned his method all fall, and here she uses the withheld last inch on him at the front door.
+Then I realized what the date at the top meant. Friday, December 11. Last chapter was Friday, December 11 too: Vee in the dorm, naked in the cold, the shirt in a heap, Pace "across town." So the book showed me the wreckage first and is only now walking me back to the crash. That's why she was in her own bed on his night. She walked out. The two-page chapter wasn't a coda with nowhere else to go. It was the bruise before the punch, and I'm taking it off probation. It's a technique, and a good one. I spent a whole gate asking "why is she in the dorm on a Friday?" and the book was holding the answer on purpose.
 
-He's very good at not answering, and that's what makes the scene work. "You're the most important person in my life" is more than he's ever said, and it still doesn't answer what she asked. Then "Do any of your friends have a relationship you'd rather have than this one?" That's brutal, because it's true. She checks every friend, can't find one, and "hated that he'd made the true thing pull against the point." That's the lawyer-true sentence again, and this time she caught it in the moment instead of in the laundry room afterward. Then he hands her the jacket line to her face: "Words are cheap. Believe what I do." Usually hearing the blurb in the text makes me wince. This time it landed, because her comeback is better than the blurb.
+What got me first is the chair by the door, where her bag goes on the nights she stays. "The bag was in the car; she had carried nothing in." Randi did that in chapter 11. She came with no bag, the empty chair, so she'd planned to leave before she ever knocked. Now Vee is the one standing level with that chair with nothing in her hands. He's got two women who've learned to arrive already leaving, and he doesn't see that either. Also, two glasses already poured. He pours Vee's. Randi had to start pouring her own.
 
-And honey, words aren't cheap to him. He spends them every Monday. "Tell me." "She waits all week for those." Randi gets the words, and Vee gets the chicken. That's what made my stomach go when his arms folded, "a man holding a line at cost." I want to know what the cost is. Is it Randi? Is it Daphne? Is it whatever door the scar and "I don't go back" are hiding? I don't think it's just stubbornness. Something in him physically can't say it, and the book isn't telling me what yet. Good.
+"Words are cheap. Believe what I do." There it is, the jacket line, out of his mouth at last. And her answer is the best line she's had in two books: "Words are cheap, and you still won't spend them on me." Oh, Vee. She took his own economics and turned them on him (she's an econ major, I'm not missing that). Then his face shuts, his arms fold, and he's "holding a line at cost." What line? I know what line, even if she doesn't. He can't name her because there's a woman on Mondays whose name he'd have to say in the same breath. "Do any of your friends have a relationship you'd rather have?" is a perfect Pace answer. It's true, it's exact, and it steps around the question entirely. Like "I'd never share your photograph." Like "That part was all you." I've stopped believing his true sentences are innocent.
 
-Her speech is another inventory: the heat, the wine, the food, the care. It's the fourth time I've heard the list. But she says it to his face and lets it come out "ugly," and that's what saves it. "That he feeds me and we have a lot of sex." Without a name, the best thing in her life sounds cheap when she says it out loud. That's the real wound, and she found it herself. Also, "Like my body comes with me attached" is the line she gave Randi at brunch. He's almost certainly heard it before, secondhand, on his couch. She doesn't know that, and I couldn't stop thinking about it.
+And he did go cold. In the last chapter she accused him of going cold after the Rusty Nail, admitted to herself it wasn't true, and then forgave him for it. Tonight he actually does it, right in front of her: arms up, the still of a man holding something. Then he sees her crying, the cold goes out of him all at once, and the hand comes up, the hand that settles everything. "Not the hand in place of the word." She walks past it. I cheered and I felt sick. That's the thing I came to this series for, just pointed at heartbreak instead of heat this time.
 
-The ending got me. His cold goes out of him and his hand comes up, the hand that settles everything, and "Not the hand in place of the word." She opens the door before it can reach her. "Vee," once, and her name isn't the word. She walks out into the cold, "it was worse," and she doesn't go back. It's last chapter's shirt done again, at full size: she picks nothing over a stand-in.
+Gripes, and there are some. Her big speech is a list I've already read: the heat turned up before she comes, the wine, the cooking, the care, "my body comes with me attached." Some of that is earned, because she has to say it out loud to him once. But "like my body comes with me attached" is the line she gave Randi in chapter 34, nearly word for word, and the book's been running that wire for six chapters. The opening at the car (the wanting, the shoulders, the coin under the tongue) is a bit of throat-clearing before the door. And "the wanting was the whole trouble" is the book explaining again. But for once the scene stopped explaining when it mattered. He says nothing, she leaves, and the chapter doesn't sit there narrating the ache. It just shuts the door. Thank you.
 
-This reads like a book ending, with the couple apart, a door, and the cold. If it is, it's the kind of ending that makes me buy the next one tonight. My cold stomach is about where she drives now. It's Friday night, Randi has a Mercedes and a single room, and Vee has a face wet with crying that she wouldn't let him have. And Randi still hasn't been on the page for six chapters.
+Randi, though. Twenty-five chapters without her head, and she's the whole reason this fight has no answer. And tomorrow is Saturday. Brunch. Vee walked past a sleeping Cassie last night, and I know exactly whose table she's going to bring her red eyes to. Worse, Monday is Randi's night, and Pace will have this too. Both of them are about to get Vee's worst night, from both ends.
 
-GATE 42 — Believe Me
+No heat. I didn't miss it.
+
+GATE 41 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "You take me into your warm house every weekend... You cook for me, you feed me." (the inventory a fourth time, and for a second I thought it was the ache again with dialogue added)
-WHY: Three chapters of brooding finally turned into a confrontation on the doormat, and she won the argument with one sentence. He answers with the jacket line and folded arms. She refuses the hand and walks out into the cold. That's a real break, it's her doing, and I need to know where she drives.
+ALMOST-STOPPED: "Like my body comes with me attached. Like it's just fine as it is." I've heard her give this speech to Randi already, and for a second the confrontation turned into a recap.
+WHY: She finally made him answer the jacket's question to his face, threw his "words are cheap" back at him, and walked past the hand that settles everything. It's a real turn with no blonde and no device. And it reframes the short chapter as the aftermath shown first, which I love. Next is Saturday, and Randi's table is waiting.
 
 LEDGER
-~ W41.2 ANSWERED: She asked him straight, at his door, with her hands in her pockets, and walked out when he wouldn't answer.
-~ G41.4 FORGIVEN: The ache finally turned into an action and a fight, not a fourth night awake.
-~ G40.6 RESOLVED: The unsaid word stopped being something she brooded on and became a scene with a door in it.
-~ F39.1 SHIFTED: The pile didn't fall on her. She picked it up and threw it at him.
-~ F17.5 SHIFTED: The big drop came, and she's the one who made it happen.
-~ W37.6 DEEPENED: Six chapters now since the drawer, and still no Randi.
-+ SUSPICION: "Words are cheap" comes from a man who spends his words on Randi every Monday. Whatever he's holding back "at cost" is a real locked thing, maybe Daphne, maybe the scar, maybe the parents.
-+ FEAR: She leaves crying on a Friday night, and the closest person with a car and a single room is Randi. This goes to Randi first, and then to his couch.
-+ LOVE: "Words are cheap, and you still won't spend them on me." Vee beating his best line with a better one.
-+ LOVE: "Not the hand in place of the word." She turned down the comfort that's always fixed everything.
-+ WAITING: What Pace does now. Does he follow, does he text, or does he wait the way he always does?
++ LOVE: "Words are cheap, and you still won't spend them on me." The econ girl turning his own line into a bill
++ LOVE: The kiss at the door that doesn't come, and Vee watching the man who reads everyone fail to read her
++ LOVE: The bag left in the car beside the empty chair. Vee arrives already leaving, the way Randi did in chapter 11
++ SUSPICION: The "line" he's holding with his arms folded is Randi. He can't name Vee without naming the Mondays
++ FEAR: Vee brings this night to Randi's brunch table on Saturday, and Pace brings it to Randi's bed on Monday. Randi gets it from both ends
++ WAITING: What Pace does now. Does he come after her, text, wait, or go to Randi?
++ GRUDGE: Her big speech recycles "my body comes with me attached" and the whole list of his care I've read six times
+~ S40.1 CONFIRMED: She was in the dorm on a Friday because she walked out of his house that night
+~ W40.3 ANSWERED: It's a technique. The two-page chapter was the aftermath shown before the cause
+~ F40.2 CONFIRMED: She pulled back before she ever learned the real reason. She refused the kiss and the hand, and walked out
+~ F32.4 DEEPENED: "Believe what I do." The silence finally says out loud that it's a policy
+~ S38.4 DEEPENED: "Do any of your friends have a relationship you'd rather have?" Another true sentence stepping around the question
+~ F39.3 SHIFTED: He actually went cold in front of her this time. The coldness she invented and forgave turned out to be real
+~ S23.3 DEEPENED: She's finally demanding the name. She's still aiming at him and not at what he's hiding
+~ W18.5 DEEPENED: Twenty-five chapters without Randi's head, on the night her secret breaks them
+~ F4.2 DEEPENED: Cassie is the name Vee says first ("How do I say what this is to Cassie?"), and she still didn't wake her
+~ G40.4 FORGIVEN: "Across town" is a small slip next to a structure this deliberate

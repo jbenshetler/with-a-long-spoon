@@ -1,30 +1,29 @@
-*capture-dag-v3-grounded · gate ch011 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch010 · ledger no seed 9bba352348b2 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch011 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch010 · ledger no seed 441f8d965ae4 · 2026-11-06*
 
 REACTION
 
-Okay, there's the bench-adjacent heat, and it's the cruelest thing in the book so far. It's explicit, fast and clothes-flying, and Randi is on top, in control, making him watch the inch-by-inch lowering. For a chapter this short it's properly hot. But I read it with my stomach in a fist.
+Oh, that's cruel, and it's the best thing the book has done to me. The bench payoff I've been waiting on turns out to be a different scene entirely. It's Randi on top of Pace, in his house, using Vee as foreplay. The heat is real. She takes him an inch at a time with her eyes on his. "Tell me" gives her gardenia and musk and chlorine. Then comes "Her stomach is soft," and he keeps the truck for himself. That's the second thing he's withheld, and it's the first thing that is actually his. I felt that in my chest.
 
-"Tell me." She's fucking him to Vee's smell. Gardenia, musk, chlorine in the hair. And then he gives her "Her stomach is soft" and keeps back the truck, the shirt coming off, which was a gift Vee gave him. That's the second thing Pace has withheld from Randi, and this time it's the big one. He thinks he's being decent. And "I want us," torn out of her, with Pace hearing a couple and me hearing "us" as three. He takes it as being for him. I screamed a little.
+The tell is the shape of the whole thing. Her belly goes tight as a board. The laugh comes out "thin, not her laugh." Then, "I want us," torn out of her. Us. He hears it as the plan working, as the want too big for her. I read it as a woman who wants Vee, and wants to be wanted in the same breath, and can't say either. She comes, she shivers, and she's out the door in the cardigan. She breaks her own pattern of never leaving after, so her face couldn't hold through the stay.
 
-The tell I'll hold onto: her belly "tight as a board," the laugh that "came out thin, not her laugh," the clench with her eyes shut. She's coming apart over the girl, and she's furious or grieving or both. Then the end. She skips the shivering-and-staying she always does, bolts in the cardigan over bare arms, "No thanks," bright, and leaves. First time she's ever left after. Pace stands in the door and reads it as "more than she could lie still under." Daphne's closed door, again, and he's the one outside it. He's lonely in his warm house, eating a second dinner. That last paragraph actually hurt, and I didn't expect to feel for him.
+What lands hardest is Pace alone. He eats everything in the refrigerator and then makes more. He's standing in his own doorway with "something low and plain" that she didn't want to stay. He's misreading her, kindly, and he's hurt. Both of them are leaking now. I'm certain Randi smelled the afternoon on him. The wet shirt, the hike, maybe something in the way he said "soft." She asked "How was it?" and he never got to answer. That unasked, unanswered question is the chapter.
 
-It's a short chapter and the POV is back to Pace. It does what the book does best: charge on top, dread underneath. Small gripe: the narrator still does "he took it for the want," explaining his blind spot. And the undressing sentence was a long list. But I'm all in. I need Randi's head after this, and I need her to hear about the truck.
+Small complaints: he "took it for the want" is the narration explaining again, and the undressing blow-by-blow is a bit long. But it's hot and it has a point, which is what I read for. The 'door unlocked for her' echo of the deadbolt is nice too.
 
 GATE 11 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Hot and heartbreaking at once. Randi using Pace's account of Vee as the fuel, then leaving for the first time, is the book's engine at full burn. Pace withholding the truck is the crack I've been waiting for.
+ALMOST-STOPPED: "He took his hands off her only for as long as it took the next thing to leave her body" (the undressing runs long)
+WHY: Finally the heat I've waited on, and it's loaded: Randi using Vee to get through it, Pace keeping Vee's softness for himself, and her leaving before she can break. I want to see what she does with the want she ran out with.
 
 LEDGER
-~ F1.1 SHIFTED: Pace now reads her leaving as "more than she could lie still under," so he's misreading her again and she's pulling away.
-~ S6.3 DEEPENED: He kept the truck and "her stomach is soft" for himself. The withholding is real now.
-~ F6.2 DEEPENED: Her "I want us" and her bolt afterward are what he read as hunger. The gap is wider.
-~ S1.4 DEEPENED: He stands outside her closed door again, unable to read why she left.
-~ W10.5 ANSWERED: Randi heard a filtered version of the hike. She got the smell and the soft stomach, and not the truck.
-+ FEAR: Randi is coming apart over Vee and will leave Pace, or blow up the plan, before anyone says what they want.
-+ WAITING: Randi's own head after leaving his house, and what she does with "I want us."
-+ LOVE: Pace alone in his warm kitchen, eating a second dinner after she left.
++ FEAR: Randi left because she couldn't hold the face through the stay, and Pace read it as "she didn't want to stay," so the crack widens between them.
++ LOVE: "Her stomach is soft," and the truck kept to himself. Pace is guarding a piece of Vee.
++ SUSPICION: Randi can smell or feel that Pace has already been changed by the hike, and "I want us" means all three of them.
++ WAITING: Randi's own head again, and what she does after driving off in the dark.
+~ S10.5 DEEPENED: Pace is hurt by Randi leaving, and he's keeping Vee's truck-moment from her.
+~ F6.3 DEEPENED: The want leaked as "I want us," and her body gave her away.
+~ F1.1 DEEPENED: She fled before the face could crack, and Pace misread it.

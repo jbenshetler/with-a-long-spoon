@@ -1,27 +1,31 @@
-*capture-dag-v3-grounded · gate ch028 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 14896ed4fc37 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch027 · history ch001..ch027 · ledger no seed f5c1da83f1ae · 2026-11-02*
+*capture-dag-v3-grounded · gate ch028 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c70abd373ffb · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 1100ee554828 · 2026-11-06*
 
 REACTION
 
-I wanted this chapter to be bigger than it was, and I think that's the point. The induction is the payoff the book has been building since ch10, the silk dress on the shelf, and it turns out to be a warm, dull, kind room full of other people's parents. I like that. Nobody turns to look, so she makes them: the first step small, the second long, the slit falling open to the hip. That's the book's thesis made physical, her choosing to be looked at. The photograph is the best detail. Her whole body is running hot under the silk, and the picture shows "a woman who had every part of it handled." Only she and I know what's in the frame.
+The payoff I've been circling for ten chapters, and it's quieter than I braced for, which I think is the point. The dress with nothing under it, the careful little steps, and then the second step made long. The walk is the whole chapter. The slit falling open on purpose, the murmur "the sound a dull room makes when it wakes up," and her face giving away nothing: that's charge with every stitch still on. I liked it a lot. I also liked that the room mostly doesn't care. Nobody turns, and the navy girls get the same applause. She has to make her own entrance, and she does.
 
-I also like that the heat isn't staged for Pace. She sends him the picture, and "that part was hers." That's the first time she's kept something for herself on purpose and not out of shame.
+The shame line landed too: "nobody in this room who had ever taught her what to be ashamed of." Her mother's voice is absent, literally, and so is the floozie word. Either it's growth or the book is saving it. I don't trust the calm.
 
-Cassie shows up for it and gets a real scene, a bit of dry warmth, "streetlight," the phone held. It softens my grudge a little, though Vee still can't say the true thing to her, the parents aren't the whole of it. The line about nobody in the room ever having taught her what to be ashamed of is a good quiet jab at her mother.
+Cassie being sweet, "Not horrible. Just honest," then "Somebody had to document it," made me love her again. The photo going to Pace, and "He would have no idea what else was in the frame," is the book's irony in miniature. Vee now has a secret from Pace that is hers, and she's relishing it. I clocked that.
 
-But it's the third low-charge chapter in a row from Vee's side, and there's no Randi, not even a text. The heels are Randi's find and the nails are plum, so she's present by furniture only. Pace in Berkeley is a convenient absence. I'm waiting for the other shoe, so to speak. The ending, "whether the two came to the same thing," is a touch explained. Still, I'm in. Heat was a simmer, mostly in anticipation.
+But where's Randi? She's in the shoes and the polish, absent from the room. The plum on her nails and the heels that Randi knelt for are all over this, and Randi wasn't invited or isn't mentioned showing up. Odd. Pace in Berkeley and Randi nowhere means all three are apart at the peak, and the dread of that is real. Eleven chapters now without her head and I'm just resigned.
+
+Heat is a simmer, not a boil. After the practice room I wanted a little more, but the exhibition beat is a legitimately new wire for her. The ending is a touch tidy, pride or heat, same thing, a line that explains itself to me. Mild grudge.
 
 GATE 28 — The Induction
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
 ROMANCE: 1
-ALMOST-STOPPED: "She had only ever pictured girls in it, because in the picture she was one of them, in the good-enough black." The opening dress-and-room inventory was tangled and slow.
-WHY: The long step and the slit opening are a satisfying payoff, and the photograph sent to Pace with "that part was hers" is a nice turn. But it's quiet, Randi is absent, and I want the book to move.
+ALMOST-STOPPED: "couldn't have told you, if you'd stopped her in the doorway and asked, whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing." (the book spelling out its own subtext)
+WHY: The long step that opens the slit on purpose is the right payoff, charged with everything still on, and Cassie is a gift. I want Randi's reaction to the photo and whatever this new exhibitionist wire does to the triangle.
 
 LEDGER
-+ LOVE: The long second step, the slit falling open, and the photograph that shows nothing of what was in the frame.
-+ WAITING: Randi's reaction to the induction and the photo, and Randi's head at last.
-+ SUSPICION: Pace being away in Berkeley leaves Randi a clear opening with Vee.
-~ F19.3 SHIFTED: Vee's being looked at is now her own choice in a room that barely noticed, so it's less about what she's for and more about what she'll do.
-~ F4.1 DEEPENED: Cassie is kind and present, but Vee still can't hand her the true thing.
++ LOVE: The second step made long, the slit opening on purpose, and the room waking up.
++ LOVE: "Somebody had to document it." Cassie holding the phone and her bright eyes.
++ SUSPICION: The photo sent to Pace, with "what else was in the frame," is the first real secret Vee keeps from him, and Randi will want it.
++ FEAR: Vee's pleasure in being looked at is growing as her shame goes quiet, and Randi is the one feeding it.
+~ W20.4 ANSWERED: The induction happened, in the dress and the shoes, though Randi wasn't on the page.
+~ W18.4 DEEPENED: Ten chapters now without Randi's own head.
+~ F19.3 SHIFTED: The entrance went well but the room barely cared, and she made it a private triumph instead.

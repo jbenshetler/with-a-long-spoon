@@ -1,25 +1,27 @@
-*capture-dag-v3-grounded · gate ch030 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d4837de434ed · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch029 · history ch001..ch029 · ledger no seed a33ff4da78e3 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch030 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed cf2afdfe3363 · 2026-11-06*
 
 REACTION
 
-The Halloween chapter is pure payoff, and I enjoyed it. It's also a little glib. Vee goes to the car in his too-big boots, comes back in the induction dress, and gives him the long stride he missed. The restraint is what does it. He starts to stand and she puts a flat hand out, and he sits. His hand comes up partway and he puts it away again. Then the second costume is just the heels, ten steps down the hall, and she doesn't cover one inch. That's a real heat-by-withholding scene, and nobody touches anybody. "The other is for the world. This is just for me" is a line that works on her and on me. It also quietly tells me what she's for, and that's the leash I keep fearing, pretty as it is.
+This is a short, pretty, mostly static chapter. It's a costume reveal, and the dread I carry stays almost entirely off the page.
 
-I like that she planned it herself and brought the dress without an overnight bag. It's the first time she's staged something for him instead of being staged. I note that the staging copies what Randi taught her, the hand on the hip, the "sure" and not "sorry." Randi's fingerprints are all over a scene where Randi isn't present. Randi has been missing for three chapters now, and that's pushing my patience. Cassie too.
+What works: the dress she carried out to the car, "the finished thing had crossed a stage for everyone but its maker," and the second costume being nothing but the heels. Her blush going "down and down" with nothing covered is exactly the charge I came for, and nobody touches anyone. "The other is for the world. This is just for me" is a good line. It's also the book's old thesis: he is the private one, and Randi's version of her is the public one. His hand coming up and being put away again is the best beat.
 
-Small gripes: the opening dwells on the dress and the car for a while before the charge. "Given and taken back and given" is a bit precious. Still, the ending is a clean, hot hook.
+I'm uneasy in the way I should be. Vee now performs the induction walk for Pace as a gift, so the exhibitionist wire I flagged in ch28 has become something she brings home to him. Randi isn't in the chapter at all, and neither is her head. That's twelve chapters. Even the Halloween date, with the town out being somebody else, is a quiet joke at the book's expense, since everyone here is already in costume.
+
+Small grudges: the dress logistics run long. The bit about the heels sitting by the wall since Friday explains itself to me. And it's a second quiet-ish chapter after the curry coda. The ending lands, but nothing turns. I'm still hooked, but I'd like the plot to move now. The scar, Randi, anything.
 
 GATE 30 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving." The opening backstory about where the dress was parked ran slow before the show.
-WHY: Two costumes, no touching, and he obeys her flat palm. It's hot and tender, and it's her own idea, which I like. But it's a third idyll in a row with no Randi, and I'm waiting for the cost to show up.
+ALMOST-STOPPED: "Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving." (the dress-logistics throat-clearing before the reveal)
+WHY: The heels-only walk and "this is just for me" are charged and tender, with nobody touching anyone. It's a pure heat chapter with no turn, and I need Randi or the scar story to move soon.
 
 LEDGER
-+ LOVE: The flat palm held out and him sitting back down, then the heels alone down the hall, "The other is for the world. This is just for me."
-+ FEAR: "This one is just for me" makes her display his private possession, so her boldness is still being measured in his gaze.
-+ SUSPICION: Her staging runs on Randi's lessons (sure, not sorry; the long step), so Randi's influence is now inside her and Pace's most private scene.
-~ W27.6 DEEPENED: Randi has been absent for three chapters now, and I want her head.
-~ F8.3 DEEPENED: She handed him her whole bare self as a choice between two costumes, and he picked the private one.
++ LOVE: "The other is for the world. This is just for me." Vee in nothing but the heels, and his hand put away.
++ FEAR: Vee is now bringing the exhibition wire home to Pace, so Randi's feeding of it is being replaced. When Randi notices she's been cut out, she'll escalate.
++ WAITING: A plot turn, either the scar story or a Randi-and-Vee collision, because this is the second glow chapter in a row.
+~ W18.4 DEEPENED: Twelve chapters now without Randi's own head.
+~ S29.3 DEEPENED: Vee brings the private performance to Pace, not Randi, so the "only mine and his" space keeps growing.

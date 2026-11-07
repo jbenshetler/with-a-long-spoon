@@ -1,39 +1,32 @@
-*capture-dag-v3-grounded · gate ch064 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 2 trimmed) + raw ch061..ch064 · history ch001..ch064 · ledger no seed f030e67d1b1e · 2026-11-03*
+*capture-dag-v3-grounded · gate ch064 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 95773d7ef3a2 · 2026-11-06*
 
-REACTION — Oh, Cassie asked the right question, and Vee immediately tried to make her pay for it.
+REACTION — Oh, Cassie asked the right question, and Vee tried to punish her for it.
 
-“Is this what you want?” Not *what are you*, not *what did Randi do*, not even *what does this mean for Pace*. Cassie went straight past every identity verdict and relationship category to the one thing Vee has spent the entire book being taught to surrender to somebody else’s interpretation: her own want. Pace reads it. Randi names it. Vee’s mother shames it. Cassie simply asks whether it belongs to Vee.
+“Is this what you want?” Not *what did Randi do*, not *are you cheating on Pace*, not even *do you want Randi*. Cassie leaves the subject and the answer entirely with Vee. She has seen enough to worry, but she does not tell Vee what her own body means or arrange the evidence into a story for her. After chapters of Randi supplying the interpretation before Vee can form one, the simplicity of that question felt almost radical.
 
-And Vee almost looked.
+And Vee actually looked. That got me. For one instant she did not deny, explain, or route the desire through Pace. She reached toward the shape of what she wants and felt that it was “close and large.” Her neck says yes. Her body has been saying yes for days. She knows the answer exists. She is no longer confused about the evidence; she is frightened of how much of her life the answer might rearrange.
 
-That tiny movement frightened me more than a clean denial would have. There is an answer in her now, “close and large,” and she knows it has a size she is deliberately refusing to see. Her neck says yes. Her body has said yes so unmistakably that even Vee can no longer call the signal ambiguous. So she demotes the body to “nothing,” which is heartbreaking after an entire book of learning that her bodily wanting is real, meaningful, and hers. Apparently the body counts when it wants Pace, food, impact, display, pleasure, more. When it wants Randi, suddenly skin is just a stupid autonomous thing that cannot testify.
+Then she attacks Cassie’s credibility because she cannot attack the question. “You don’t like her” is such an unfair little weapon. Cassie’s dislike of Randi does not make the neck kiss less real, and Vee knows it. Worse, Cassie has earned the right to worry: she warned Vee about the skirt without controlling her, watched Randi hold her hands away from the hem, and has now seen Vee recoil out of a charged embrace looking stricken. Vee turns years of Cassie’s clean judgment into prejudice because prejudice would let her leave without answering.
 
-Then she reached for the oldest weapon she had and aimed it at Cassie: *you don’t like her.* I hated that. Cassie did not say Randi was bad for her, did not demand she end anything, did not even tell Vee what she thought she had witnessed. She asked whether Vee wanted it. Vee turned that into judgment because defending Randi is easier than answering herself. She tried to make Cassie’s long-standing distrust disqualify the question before the answer could arrive.
+But Cassie does not defend herself. She does not litigate Randi, remind Vee she was right, or force the confession. She sees the plank Vee has laid down for escape and simply steps over it. I love her so much for that. She will not let Vee manufacture a fight that makes Cassie the problem, and she will not use Vee’s hunger as leverage to reopen the question.
 
-But Cassie would not take the bait. God, I love her. She did not reopen the sorority argument, justify herself, list evidence, or use Vee’s obvious panic to win an old case. She stepped over the plank and noticed Vee had not eaten.
+The Cocoa Pebbles nearly undid me. Pace feeds Vee extravagantly. Randi orders for her, dresses her, draws out the confession beneath the confession. Cassie notices she missed dinner and offers some of her cereal. No performance, no debt, no erotic interpretation, no insistence that Vee name the larger hunger before she is allowed to satisfy the small one. Just: you have not eaten; do you want some of mine?
 
-The Cocoa Pebbles absolutely wrecked me.
+And Vee can answer that. “Yeah” comes fast and whole because a bowl is a want she can admit without losing the architecture of herself. It is such a tender, painful little measure of where she is: she can accept food from Cassie, but not yet the possibility that her body’s yes belongs to the rest of her too.
 
-After months of beautifully composed meals, controlled portions, expensive restaurants, food as seduction, food as care, food as proof, here is a cardboard box of children’s cereal held out in a dorm room. No interpretation attached. No demand that Vee explain what kind of hunger this is. No one choosing for her, telling her what she will love, or turning the appetite into a route somewhere else. Cassie asks a question Vee cannot answer, then immediately offers one she can: do you want some of mine?
+This was brief, but it did not feel like a shortcut. It felt like Cassie refusing to make Vee’s crisis bigger for the sake of the scene. The question remains exactly where Vee left it, open and waiting, while she eats something ordinary beside the person who knows how to stay without taking over.
 
-And Vee says yes. Fast, whole, uncomplicated. That “Yeah” felt like the safest consent in the book. A bowl-sized want, freely found and plainly spoken. Cassie does not make the small answer stand in for the large one; she simply feeds the person who cannot face it yet.
-
-I am also relieved Cassie apparently did not need to witness every detail to understand the shape. Whether she saw the neck kiss or only the long goodbye and Vee’s face, she recognized that this was not “Randi being Randi.” More importantly, she saw Vee unable to say whether she wanted what was happening. Everyone else has treated Vee’s bodily yes as permission to keep building. Cassie is the first person to stop at the edge of it and ask whether Vee herself wants the life forming around that yes.
-
-This chapter was tiny, and somehow it did not feel like a shortcut. It felt like Vee could only bear one bowl’s worth of truth tonight. But Saturday brunch is still coming, and Cassie’s question is going with her. Randi can interpret the neck, the kiss, the wanting, the brunch—she can make all of it glamorous and inevitable. She cannot erase the plain question now lodged underneath it: *Is this what you want?*
-
-GATE 65 — Some of Mine
+GATE 64 — Some of Mine
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Cassie bypassed identity, judgment, and Randi’s meaning to ask whether Vee wants this, and Vee nearly found the answer before attacking Cassie’s old distrust to escape it. Then Cassie refused the argument, noticed she had not eaten, and offered her a bowl-sized want she could answer honestly; I need that larger question to follow Vee into brunch.
+WHY: Cassie asked whether Vee wants this without telling her what “this” means, then refused the defensive fight Vee offered and fed her without attaching an interpretation or debt. Vee found the edge of a large, real yes and backed away; I need to know how long she can keep treating her body’s answer as though it belongs to nobody.
 
 LEDGER
-+ LOVE: Cassie offering Vee Cocoa Pebbles after asking the question she cannot answer—feeding her without withdrawing the question or making hunger mean anything but hunger.
-+ FEAR: Vee will use Cassie’s distrust of Randi to dismiss the only person asking what Vee herself wants, turning concern into persecution whenever the answer gets too close.
-~ S64.1 CONFIRMED: Cassie recognized that Vee and Randi’s goodbye was not ordinary friendship and asked directly whether this is what Vee wants, though exactly how much she witnessed remains unclear.
-~ W4.4 SHIFTED: When Cassie finally challenges the brighter life Randi opened, Vee immediately attacks her dislike of Randi—but Cassie refuses the old argument and keeps caring for Vee anyway.
-~ F24.1 DEEPENED: Cassie asks Vee to locate her own desire, but Vee cannot; she can only dismiss her body and defend Randi, leaving Randi’s interpretation poised to fill the space at Saturday brunch.
+~ L7.1 DEEPENED: Cassie sees Vee weaponize their old disagreement to escape the question and neither defends herself nor presses; she simply notices Vee missed dinner and offers her food.
+~ F9.1 SHIFTED: Cassie is not too far away to reach—she sees the charged relationship plainly and asks the clean question—but Vee now tries to turn Cassie’s clarity into hostility rather than risk answering her.
+~ F15.4 DEEPENED: Vee’s body gives an unmistakable yes and she even reaches toward the larger shape of wanting Randi, but she retreats by declaring bodily knowledge meaningless and attacking the witness who asked.
++ WAITING: I need Vee to return to Cassie’s “Is this what you want?” and answer it without making Cassie, Pace, or Randi responsible for the yes.

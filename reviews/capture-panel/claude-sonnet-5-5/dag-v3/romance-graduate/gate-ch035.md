@@ -1,32 +1,34 @@
-*capture-dag-v3-grounded · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 45766f4a89f7 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch035 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed af0f4382bbbb · 2026-11-06*
 
 REACTION
 
-Oh, there it is. Finally Pace's head again, and the book spends it on the one thing I've wanted, which is Randi coming apart on the page. Even though I still don't get her alone, I get her through the person who can't read her. That's the engine at its most painful.
+Oh, finally. Pace's head again, and this is the chapter where the pipeline turns on itself, and it's the one I've been waiting sixteen chapters for, even though it still isn't Randi's head. It's the closest yet.
 
-The couch scene is hot and nasty in the good way. She narrates the Saturday kiss with her face hidden from him, forgetting the mirror, and he gets her face the whole time. "Does she want it?" "Do you like it?" "I'm doing it for *you*." "It's *work*." Pace is closer than he's ever been. He asks the right question three times, and then he says "You don't have to do it for me," kindly, and she comes on it. That's the line. I made a noise. And then "God, I want her," out loud, and the cover-up "for us." He says "I am," and I don't believe a word of his "aren't you" either. He's lying to be kind or lying to himself.
+The structure is the thing. Randi opens with the story of Vee in stats, hair wet, "still full of your come," and then moves the story into Pace's hands and then into her own body. The couch scene is hot, and it's hot because every beat is two-faced. She's on her knees with her face turned away, and he can see her in the mirror. She tells him about the kiss while he's inside her, and "the clench came on the word." Then he asks "Do you like it?" and she says "I'm doing it for *you*," and "it's *work*." Oh, honey. And his "You don't have to do it for me" is kind, which is the cruelest thing he could say, because it takes her alibi away and she comes on it. "Oh, but I'm *doing the work*" and then the orgasm. That's the whole book in one line. And "God, I want her," out loud, then "For us. When she's ready." She heard it leave her and he felt her hear it. The tell is nearly in the open.
 
-The morning is the chapter. The panties. She goes to the second drawer, comes back with Vee's green satin, and fucks him with it in her fist and her eyes on the wall, then cries. "Hormones." And Pace lets it be hormones, and then reads her grief as jealousy that he kept something of Vee's and she has nothing to keep. Wrong again, perfectly, and he files the panties back in the drawer, squared. The ending detail, Vee's drawer an inch open and him pushing it shut, is a quiet little chill.
+What I love: Pace is finally close. He notices "Well. She told me first." He notices the nipple-pinch dodge, the unfinished "and at the end of it there's the whole—". He asks "Is she all right?" and "Is she happy?" He's the one checking the gauge. He is a better man than I gave him credit for, and still not good enough, because he files every sign as heat.
 
-Gripes: the pointing-game rehash is a long stretch of recap, and "Four" as a title is a bit cute. But I got what I was waiting for. The cost is on the page. Randi's coffee untouched is the Portion thread again.
+Then the morning. The panties. Her carrying Vee's green satin to him, crying on his chest, "It's hormones," and him letting it be hormones. I am wrecked. He even reads the grief as jealousy about the keepsake, "Randi had never once offered him anything to keep." That's a lovely wrong reading, and a half-right one. And the folding of the panties into the drawer, and Vee's drawer standing open an inch, and he shuts it with two fingers. The house shifting with the cold. Perfect closing image.
 
-GATE 36 — Four
+The smaller things: "Say something nice to me." "You are extraordinary." Her holding his arm. "It frightens me." "Then I'll be careful with you." Ugh. Ugh. He means it and doesn't know what he's promising.
+
+Grudges: the opening takes a while, and "the whole pale small length of her" is a little pretty. The "fourth" sex tallying is a lot. But I'm getting what I wanted, which is Randi nearly saying it and Pace nearly hearing it.
+
+GATE 35 — Four
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "How did you know to pick her?" The long pointing-game recap retold what ch3 already gave me.
-WHY: Randi's "I'm doing the work" and the green panties she cries over are the crack I've waited thirty chapters for, and Pace reading it all as hormones and jealousy is the engine at its cruelest. I'm desperate for what breaks next.
+ROMANCE: 3
+ALMOST-STOPPED: "She had not given the answer to him. She had given it to the Saturdays, and he took it anyway." (the narration translating Randi's subtext)
+WHY: Randi telling the kiss while he's inside her, using "it's work" as her alibi until he takes it away, is the both-and I read for. Then the green panties and "It's hormones" break my heart. Pace is closer to the truth than ever and still misreads it.
 
 LEDGER
-+ LOVE: "You don't have to do it for me" and Randi coming on it, "but I'm doing the work."
-+ LOVE: Randi with the green panties in her fist, riding him without looking, then crying, "It's hormones."
-+ FEAR: Pace now asks all the right questions and still lets it be hormones, so the break will come from outside, not from anyone's honesty.
-+ SUSPICION: Pace's "I am" to a threesome is kindness or self-deception, not want.
-+ SUSPICION: The inch-open drawer is a plant; someone, maybe Randi, has been in Vee's things.
-~ W35.4 ANSWERED: Randi's aftermath is on the page via Pace, wrecked, in tears over the panties.
-~ S3.3 DEEPENED: "God, I want her" said aloud, and the crying proves it's more than the plan.
-~ F6.2 DEEPENED: He read her grief as jealousy that he kept Vee's panties, still wrong.
-~ W27.6 RESOLVED: Randi's real feeling finally on the page, though still not her POV.
-~ F25.4 DEEPENED: Pace thinks he is being careful with her while she comes apart in front of him.
+~ F6.3 DEEPENED: She said "God, I want her" aloud, then covered it with "for us," and came on "you don't have to do it for me."
+~ W18.4 DEEPENED: Seventeen chapters without Randi's head, but this one came closest through Pace's eyes.
+~ S10.5 DEEPENED: Pace is plainly checking on Vee's happiness and Randi's, and he's past the game.
++ LOVE: "It's hormones," and Pace letting it be hormones while Randi cries on him holding Vee's green panties.
++ LOVE: Pace folding the green satin back into the drawer and pushing Vee's drawer shut with two fingers.
++ FEAR: Pace reads Randi's grief as jealousy over a keepsake, and the kiss as "work for the threesome," so he will keep steering them closer together.
++ SUSPICION: Randi's alibi "I'm doing it for you" has been stripped by Pace's kindness, so she'll need a new cover or she'll break.
++ WAITING: Randi finally saying the true thing to Pace, or Vee finding out what all those Saturdays were.

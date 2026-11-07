@@ -1,35 +1,39 @@
-*capture-dag-v3-grounded · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed 739e7960c7bb · 2026-11-02*
+*capture-dag-v3-grounded · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed f2824d38c78b · 2026-11-06*
 
 REACTION:
 
-Oh, god. My stomach is in actual knots. This chapter felt like watching a car crash in agonizing slow motion, and every single second of it felt horribly, devastatingly *real*.
+Oh, god. My stomach is in actual knots.
 
-First of all, the dance lesson on the concrete pad behind the dark basketball gym? The battered boom box with electrical tape? "Don't look at your feet. Close the space—come all the way in—and my feet can't land anywhere but past yours"? The physical metaphor of Pace's lead—his exact, patient, unhurried presence translating into actual kinetic movement where Vee stops guessing and just lets him hold the frame—was breathtaking. Rivers writes physical intimacy, whether it's sex or tailoring or dancing, with such staggering precision.
+The first half of this chapter had me grinning like an absolute idiot. Teaching her to dance on the concrete pad behind the dark gym, with the beat-up boom box and the country cassette, telling her not to be "jelly" and that she had to give him something to push against—it was so impossibly tender, tactile, and grounded. The way Pace leads isn't just physical; it's the exact emotional thesis of how he treats her: *close the space so my feet can't land anywhere but past yours.* He makes her feel utterly safe, completely seen, and capable of moving through the world with grace instead of shame.
 
-And then they get to The Rusty Nail, and the psychological trap springs. It’s so completely earned. Vee is twenty-one, she’s spent her entire life feeling like an oversized, awkward, beige Ohio girl hidden in cardigans, and suddenly she walks into a honky-tonk where *every gorgeous woman in town* hugs her boyfriend like they share a secret. And when that spiteful blonde in heavy club makeup sneers about him getting "all us girls home safe"—God, the way Vee’s internal mother-voice instantly weaponized it into pure shame. *A few dates and she'd spread her legs like a slut.* That ugly, reflexive lash-out: "Does your *service* include getting the girls home safe from here, too?"
+And then they get to the Rusty Nail, and the tragedy of Vee’s lifelong maternal poison completely detonates the night.
 
-It made me wince out loud. And Pace didn't fight back, didn't argue, didn't make a scene—the light just completely left his face, he set down his beer, and he walked out into the cold. Because of course he did! Pace’s entire psychological wound is about never crossing a door, never taking without asking, retreating the second he isn't wanted.
+It hurt so bad because it was so painfully, realistically human. That bleach-blonde barfly slithering up to drop that little drop of venom—"He knows how to get a girl to do just what he wants her to... so good about getting a girl home safe"—landed directly on the deepest, ugliest insecurity Vee carries. The second that mother's voice hissed in her head (*a man like that has girls, and you'd be one of them*), Vee spiraled. The shame of giving herself to him, the fear of being just another notch, just another student he "fixed"—she lashed out before she could even stop herself. And the word *service*... god, you could feel the physical slap of it. Pace didn't even yell. He just went completely still, set his drink down, and walked out. That hurt worse than a scream.
 
-And then the bartender delivering the absolute kill shot: *"Wasn't him they were jealous of, honey."* Brutal. Just absolute emotional slaughter.
+And then the bartender laying it out cold and flat: *"Wasn't him they were jealous of, honey."*
 
-Vee sitting in the dark in his washed flannel, realizing she punished a good man for being good, tore my heart out. But the ending? The final sentence? *"Go to Randi's."*
+Ouch. Utter devastation. The sheer, suffocating crawl of sitting at that bar alone, paying for an expensive, gross cab with money she doesn't have, sneaking into her dorm, and putting on his freshly washed flannel while Cassie sleeps three feet away... I could barely breathe. The agony of self-reproach: realizing she punished a good, noble man for the crime of being beloved, and projecting all her filthy "floozie" shame onto his kindness.
 
-NO. VEE. NO NO NO. DO NOT GO TO RANDI TO FIX YOUR FIGHT WITH PACE.
+BUT THE ENDING. THE LAST LINE.
 
-Randi is literally holding on to her sanity by a thread right now, choking down chicken breasts and couscous to prove she can be as warm and domestic as Vee. If Vee walks into the sorority house and hands Randi the information that she and Pace had a blowout fight and he walked out? Randi is going to see the crack in the armor she's been desperately waiting for. The dramatic tension is so tight it could snap steel. I need the next chapter this instant.
+*"When it was light she knew what she was going to do... go to Randi's."*
+
+NO. NO NO NO NO NO. VEE, DO NOT GO TO RANDI'S.
+
+I literally put my hand over my mouth. She is running straight into the viper's nest to get "advice" on how to win back the man Randi is currently sleeping with and privately crumbling over! If Vee walks into that sorority house and lays this entire raw, vulnerable fight at Randi's feet, Randi is going to have all the ammunition in the world—either to push Vee away forever, or to orchestrate the final trap. My heart is beating out of my chest right now. Turn the page immediately.
 
 GATE 23 — Lesson
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dance lesson on the dark concrete was a masterclass in kinetic intimacy, and Vee's insecure self-sabotage at the bar was painfully, exquisitely realistic. Watching her decide to run straight to Randi to "fix" her fight with Pace makes the looming trainwreck utterly irresistible.
+WHY: The dancing lesson on the concrete pad was pure magic, and Vee's insecure self-sabotage at the bar was agonizingly realistic—capped by the terrifying cliffhanger of her running straight to Randi to "fix" it.
 
 LEDGER
-+ FEAR: Vee confiding her fight with Pace to Randi will give Randi the exact wedge she needs to tear them apart
-+ LOVE: Pace teaching Vee the three-step on the empty gym pad with the tape-wrapped boom box
-+ LOVE: The seasoned bartender clocking the entire room and laying the unvarnished truth on Vee ("Wasn't him they were jealous of, honey")
-~ [F8.2] DEEPENED: Vee being so deeply in love with Pace that her own terror of being "just another girl" caused her to violently self-sabotage
-~ [F9.1] DEEPENED: Vee choosing to isolate herself from Cassie and take her rawest vulnerability straight to Randi instead
++ FEAR: Vee going to Randi to confess her fight with Pace is going to give Randi the exact lever she needs to manipulate the entire situation.
++ LOVE: Pace teaching Vee the three-step on the dark gym pad with his battered boom box.
++ LOVE: The bartender delivering the cold, hard truth: "Wasn't him they were jealous of, honey."
+~ [F5.1] DEEPENED: Vee is so utterly devastated by the fear of losing Pace that she spent the night in his washed flannel drowning in self-blame, cementing how deeply in love with him she truly is.
+~ [F1.1] DEEPENED: Randi is about to receive Vee's rawest vulnerability on a silver platter just as her own jealousy and panic over Pace were peaking.

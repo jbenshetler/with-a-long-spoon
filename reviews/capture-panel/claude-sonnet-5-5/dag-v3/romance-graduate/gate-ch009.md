@@ -1,16 +1,16 @@
-*capture-dag-v3-grounded · gate ch009 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 069f140dd871 · dated · memory grounded: facts none + raw ch001..ch008 · history ch001..ch008 · ledger no seed 1b6ab5919109 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch009 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4cd170705c0 · dated · memory grounded: facts none + raw ch001..ch008 · history ch001..ch008 · ledger no seed 017be2ab14e2 · 2026-11-06*
 
 REACTION
 
-Oh, this one made my stomach go cold, and it did it with no heat at all. It's the book's cruelest chapter so far, and nothing in it is cruel on the surface.
+This is the chapter where I started to feel sick, in the good way. It's also the first chapter that has no Pace and no Randi alone, and it still worked on me.
 
-Vee glowing for Cassie is lovely. The spin that nearly takes out the closet door. "How much did he give you to drink?" followed by "I did it on purpose." Cassie believes her and grins, and I loved them both. Then, six days later, the quiet cut: Cassie's look goes past Vee to Randi and gets "folded away." Vee tells Randi that Cassie's "not her thing," as an excuse. She's already editing her best friend out of the room, and she calls it healthy. The thing that turned over "small" in her is the thing I was afraid of. That's my fear about Cassie, and it's coming true on schedule.
+The Cassie scene is lovely. Vee spinning into the closet door and landing in the bean bag is a girl who got to choose something for once. "Me." I believe her. "How much did he give you to drink?" is Cassie being protective, and Vee's "nobody did anything to me" is true and also exactly the line the book's blurb is built to curdle. I know whose hands built that tree and that "Don't answer tonight," and I still wanted it for her.
 
-The Smoothie Bird scene is Randi doing the Chi Latte move again, and this time I can see it. The high table is a shelf. The cardigan is an apology. Randi gets Vee to tell the whole dinner, and every question is a lever: "You let him choose for you. And you liked it." "Because of him." She puts the better, truer line in Vee's mouth. The hiking talk, with the no-bra, ravished-against-a-tree bit, and the hand under her own breast, is the one real charge. Then Randi's "Ask and then ravish" comes "a beat late and low." She's right there on the trail with her. That's the line I'll carry. Randi is living through the lunches, and she's absolutely wanting her.
+Then the time jump. Six days later and Cassie's look going past her to Randi, "whatever had been in them folded away." Oh, Cassie. Vee choosing to leave her behind for the smoothie place, "not her thing," is the first time I've watched Vee trade Cassie for Randi, and the little thing turning over underneath that she lets lie made my stomach drop. Cassie is losing her and knows it. That's my heartbreak thread now.
 
-Brooke arriving is great. I'd flagged Brooke as a threat, and "Vee's my dear friend" with the hand held in plain view is Randi spending something real. It's the first time she's let herself be seen with Vee, and it's also the first time she says out loud what Vee is to her. Vee reads it as being chosen. I read a woman who just told her sorority a truth she can't afford. Yes, that's what I'll text at 1 a.m.
+The Smoothie Bird scene is the best of the book for the double vision. Randi is performing the catastrophe date, a Switzerland guy, which is her fake backstory leaking into a joke. She fishes "You let him choose for you. And you liked it." That's a woman collecting evidence and getting turned on by it, and the slow "Ask and then ravish" at Vee's own volume is a slip that she doesn't cover. "Because of him" is Vee surrendering the dignified version, and Randi steering that too. The Brooke interruption is great and nasty. "Vee's my dear friend" with the cool damp hand held in public is Randi spending something. Brooke's quiet taller friend filing Vee away is a threat, since Brooke has been probing Randi since chapter 2. And Vee reads it as being chosen. I read it as Randi pulling a girl further open and hating herself, and probably meaning every bit of it.
 
-Complaints: the narrator tells me too much again ("Randi had just spent something on her"). The scene runs long, and heat is a simmer. I'm owed the bench and the trail soon.
+Heat is a simmer, mostly Vee's hands on her thighs and the bra gag. I'm now four chapters past the bench with no payoff, and the hike is next, so I'm patient but not endlessly. The prose still tells me things ("understood at once that she had been set up on a shelf"), but it's lighter here.
 
 GATE 9 — Dear
 DECISION: CONTINUE
@@ -18,17 +18,17 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "The Smoothie Bird sat on its corner with the windows full of orange." The room-inventory description again, a third time I'd read this kind of scene.
-WHY: Vee quietly cutting Cassie out, and Randi's "dear friend" and "Ask and then ravish," are the best dramatic irony yet. The hike has to come now.
+ALMOST-STOPPED: "The Smoothie Bird sat on its corner with the windows full of orange." (the room inventory, again)
+WHY: The dramatic irony is at full strength. Vee is happy, Cassie is quietly slipping away, and Randi's hand on hers in front of Brooke is a new risk. I want the hike and I want heat.
 
 LEDGER
-~ F4.1 DEEPENED: Vee told Randi Cassie's "not her thing," and Cassie's look got folded away. The drift has started.
-~ F7.3 DEEPENED: Vee is already managing her one unguarded place, and calls it healthy.
-~ S3.3 DEEPENED: Randi's late, low "Ask and then ravish" and her hand held in front of Brooke show how much she wants Vee.
-~ F2.1 DEEPENED: Brooke has now met Vee, and the "dear friend" claim in front of her is a risk for Randi.
-~ F5.3 DEEPENED: Randi gets Vee to say "Because of him," so Randi is steering the story too.
-~ W5.5 SHIFTED: The kiss is done and the hike is the next step.
-+ LOVE: Vee spinning in the dorm room, "I did it on purpose," and Cassie's "Look at you."
-+ LOVE: "Vee's my dear friend," with the hand held on the table in front of Brooke.
-+ WAITING: The hike, and whether Randi can stay out of it.
-+ SUSPICION: Brooke's silent taller friend took Vee's measure for a reason, and the sorority will act on it.
++ FEAR: Vee is trading Cassie for Randi's bright world, and Cassie, who loves her, will be the one left behind.
++ SUSPICION: Brooke's silent friend and Brooke's "We missed you Thursday" mean the house is closing in on Randi's lie.
++ LOVE: Vee spinning into the bean bag, "Look at me," choosing her own kiss.
++ WAITING: The hike, and Pace's house, which Vee has never seen.
++ GRUDGE: The room-inventory passages keep eating pages in every café scene.
+~ W8.3 ANSWERED: Randi's reaction to the date came as the smoothie scene, where she steered Vee's retelling.
+~ S4.3 DEEPENED: Cassie's look at Randi was folded away, and she is clearly watching.
+~ F8.2 DEEPENED: Vee repeats "I wasn't watching myself" and "because of him" as pure sincerity, and Randi is shaping the telling.
+~ F6.3 DEEPENED: Randi's late "Ask and then ravish" at Vee's own volume shows the want leaking in public.
+~ W6.4 ANSWERED: Randi and Vee alone, with the want showing in small slips.

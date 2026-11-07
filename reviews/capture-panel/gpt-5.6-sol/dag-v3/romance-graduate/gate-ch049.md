@@ -1,33 +1,31 @@
-*capture-dag-v3-grounded · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 96b6d9d73fc4 · 2026-11-03*
+*capture-dag-v3-grounded · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 20f0f9b3e2db · 2026-11-06*
 
-REACTION — Vee. You did not talk.
+REACTION — Oh, Vee did not merely avoid telling Cassie what happened. She invented an entire respectable weekend and handed it to the cleanest witness she has.
 
-That lie landed harder than the sweater lie, although the sweater lie is so elaborate and so specifically domestic that I almost admired the speed of it. She did not merely spare Cassie the naked coat. She replaced the entire reconciliation with the emotionally intelligent repair she wishes had happened: they talked, the month collapsed, and then she stayed. In reality Pace began the word, Vee stopped him with her body, they had sex in the open doorway, and by the pancakes she felt too full to want the answer anymore. Now she has told the safest person in her life that the answer was given.
+“We talked.” No, you did not. Pace tried to say the first syllable of what mattered, and Vee stopped him with her coat. Then she built a ruined sweater, dyed pants, laundry, and a long T-shirt to explain why she came home in his clothes. The lie is so sweet and domestic and funny that Cassie actually throws her head back laughing—and I felt sick underneath my own affection for them. Randi taught Vee to replace words with a sexual performance, and now Vee has converted that performance into a conversation. The concealment is no longer only Pace and Randi’s. Vee has started protecting the arrangement from the person most likely to see it clearly.
 
-And Cassie knows. Maybe not what actually happened, but she knows Pace did not shrink that sweater. That held-breath silence before she laughed was brutal. She chose Vee over the correction, the way she always does: she let the ridiculous story stand because Vee was radiant and home and apparently all right. I love Cassie for that discretion, but I hate how thoroughly Vee has learned that Cassie is where she can bring the harmless edited version while Randi gets the bodily truth. Cassie receives mushrooms, oranges, persimmons, burned toast, and fictional laundry. Randi will receive the coat, the shoes, the doorway, probably Pace on his knees, and the strange taste Vee still needs interpreted. The division is so complete now Vee does not even seem to notice herself making it.
+And Pace shrinking the sweater is such a revealing invention. She cannot tell Cassie, *I went to him naked because Randi told me to, he began to say something, I stopped him, and we never returned to it.* So she invents an accident that leaves her naked through nobody’s choice, then lets Pace’s domestic incompetence take the blame. It makes the weekend harmless, couple-shaped, and ordinary. Even the burned toast gets cleaned up: not Vee deliberately using her naked body to break his concentration, just a funny consequence of the laundry mishap. She has edited every act of appetite out of her own happiness and called the edited version talking.
 
-The ordinary room made me unexpectedly happy, though. I loved that Vee could come back from Pace’s kingdom and still miss the draft, the bad shower, Cassie’s book, the room switching on because both women were in it. This is the healthiest thing in the chapter: abundance has not made ordinary life contemptible to her. She can know the shower is less and still be happy under it. She can sleep in a one-girl-wide bunk because Friday exists without needing to abandon Sunday night. That soothed something in me after watching Pace consume nearly every school night last term.
+That hurt especially because Cassie gives her exactly the kind of attention she keeps seeking elsewhere: turns the whole chair, offers the whole front of herself, and waits. No steering, no interpretation, no pretty answer already prepared. Vee could have told her anything. Instead she tells the lie because Cassie’s clear attention is precisely what the truth cannot survive.
 
-And Cassie’s mother thanking her for the card—oh. That tiny moment got me more than the whole weekend report. Vee’s own childhood room no longer knows her, but Cassie’s family is keeping a place for the current Vee and asking when she is coming back. Of course Vee makes her answer smaller. Of course Cassie hears the real size and closes the subject before tenderness becomes a debt. That is exactly why Cassie feels like love to me: she never makes Vee perform gratitude for being wanted.
+Then Cassie’s mother thanking Vee for the card nearly broke me. That tiny exchange contains more uncomplicated belonging than all the spectacular choosing Vee has spent months chasing. Cassie hears the real size of Vee’s response and stops one beat before making her perform it. I love her so much. And I loved Vee being happy to return to the cramped room, the weak shower, the hot radiator, the draft—ordinary life has not become contemptible just because Pace showed her abundance. She can still recognize home when it asks nothing of her.
 
-But the flannel is back on, and I cannot pretend that feels uncomplicated. Vee already learned that its warmth was her own and its scent could not answer her. Now she is planning to have Pace recharge it as though the missing word has been supplied. The shirt works again because sex and food restored the world around the silence, not because the silence ended. Her last thought is not *what are we?* but *Friday will come*. That is peaceful, and it is also how an unanswered question becomes a permanent arrangement.
+But the flannel coming back at the end frightened me. It already failed once as an answer, and now that Vee believes the relationship has been repaired, she is ready to recharge it with Pace’s scent and resume counting down to Friday. She tells herself he is “hers again” when he still has not completed the sentence, still has not disclosed Randi, and has just invited the hidden relationship into a room with Cassie. Vee has unpacked physically and repacked the entire truth.
 
-I’m glad she slept. I’m glad she came home. I’m furious that she has rewritten being overwhelmed into being understood.
-
-GATE 50 — Unpacking
+GATE 49 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s return to the bad shower, cold draft, and Cassie’s quiet company proved that Pace’s abundance has not erased her ordinary life, and Cassie’s mother asking for her opened a whole unclaimed form of belonging. But Vee has replaced a reconciliation made of sex with “we talked,” and Cassie’s held-breath silence tells me the safest person in her life knows she is being given a beautiful lie.
+WHY: Vee inventing a domestic laundry disaster so Cassie will believe she and Pace “talked” made the reconciliation feel more dangerous than the rupture. Cassie offers her unsteered attention and quiet belonging, but Vee is now actively protecting the wordless arrangement from her clearest witness, and I need to see what happens when that witness enters the room Pace is building.
 
 LEDGER
-+ GRUDGE: Vee tells Cassie they talked and invents a ruined load of laundry, giving her safest friend a domestic fairytale while reserving the real bodily story for Randi.
-+ LOVE: Cassie’s mother kept Vee’s card, asked when she was coming back, and offered her a place in a family without making her earn it.
-~ S4.3 DEEPENED: Cassie hears the impossible sweater story, pauses long enough to show she knows it is a cover, and chooses to laugh with Vee instead of extracting the truth Randi will later be given.
-~ F35.1 SHIFTED: Vee returns willingly to the cramped dorm, shared shower, cold draft, and Cassie, proving Pace has not consumed all her ordinary time—though Friday remains the fixed point the week now moves toward.
-~ F47.2 DEEPENED: Vee now tells Cassie the month “came down” because she and Pace talked, converting the bodily reunion into proof of a verbal repair that never occurred.
-~ W47.3 DEEPENED: Pace still has not finished “Vee, I l—,” and Vee has begun narrating the relationship to other people as though the missing declaration was already supplied.
-~ L38.1 SHIFTED: The flannel has regained its power now that Vee feels secure again, and she plans to have Pace restore his scent to it despite having already learned that the shirt cannot answer what he will not say.
+~ F9.1 DEEPENED: Cassie is physically back beside Vee and gives her complete, unsteered attention, but Vee now keeps her at a more dangerous distance by inventing an entire harmless domestic account of the reunion.
+~ L7.1 DEEPENED: Cassie turns her whole chair toward Vee, waits without steering, then hears the true size of Vee’s reaction to her mother’s invitation and ends the subject before belonging becomes a performance.
+~ F36.2 DEEPENED: Vee no longer merely builds merciful explanations around someone else’s silence; she manufactures a laundry accident and calls the wordless sexual reunion a conversation.
+~ F39.2 DEEPENED: Sex has not only drowned the relational question again; Vee now reports the drowned question to Cassie as something she and Pace successfully talked through.
+~ W44.3 DEEPENED: Pace’s declaration remains unfinished and Randi remains undisclosed, while Vee has begun telling other people both absences were resolved.
+~ L37.1 SHIFTED: The flannel that could no longer comfort Vee before the rupture has become a cherished weekly ritual again, even though Pace still has not given it the words she once learned scent could not replace.
+~ L48.1 DEEPENED: The cramped dorm room, weak shower, radiator, draft, and Cassie’s ordinary presence remain a home Vee can love after Pace’s abundance; she has not lost her appetite for the life outside his house.

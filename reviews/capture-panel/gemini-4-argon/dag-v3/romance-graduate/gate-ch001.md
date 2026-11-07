@@ -1,14 +1,18 @@
-*capture-dag-v3-grounded · gate ch001 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8741b2dd56ac · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-03*
+*capture-dag-v3-grounded · gate ch001 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b986a0613f03 · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-06*
 
 REACTION
 
-Holy shit. *"There you are, Randi."*
+Wait. *"There you are, Randi."*
 
-I literally stopped breathing for a second when I read her name. The whole chapter — the whole time — I assumed this was Vee! The jacket is all about Vee, how Pace asks before he takes, how she's twenty-one, and the chapter doesn't use a name until the exact moment she shatters on the bench, so I just slotted Vee right into it. Finding out we are watching the origin story of Randi and Pace — and MORE than that, watching the exact night Randi gets cracked open so hard she decides she can never let him do it to her again — what a fucking opening. Now the blurb ("a game Randi and Pace started in bed") lands completely differently. Is Vee going to be Randi's human shield? Is Randi going to hand him another girl to break open so she never has to be the one on the bench again, while still getting to watch/keep him?
+Okay, hold on. I spent the entire first two-thirds of this chapter thinking this was Vee! The twenty-one-year-old, the sorority house, the apple, the starving girl from the blurb—and then he says *Randi* and the floor just dropped out from under me in the best way. Because suddenly the blurb isn't just a premise, it's the direct consequence of this exact bathroom mirror scene.
 
-And let's talk about the scene itself because my god. This is *exactly* what I've been starving for. No throat-clearing, no three chapters of clumsy banter at a coffee shop — first sentence, he takes the top off the bench. The heat here isn't just "insert tab A into slot B" dirty talk, it's in the *patience*. The apple slices in the kitchen, the way he notices she eats them faster when the cut side is up, the way he takes her wrists out of his hair with two fingers because he wants her hands empty. When he takes her heels off mid-scene and just holds her bare foot in his palms for a second before going back to spanking her? I melted. And then when she gives him the "waiter" *please* and he just straightens up and says *"No. Not yet."* Chills. Actual chills.
+First of all, let's talk about the opening line. *In his bedroom he lifted the top off a table, revealing the bench it hid.* No throat-clearing, no three chapters of her walking around campus telling us her major, just straight into the warm house with Steely Dan playing and an apple sliced with the cut sides up because he noticed she eats them faster that way. Who *writes* like this? The attention to detail in this chapter had me by the throat before they even left the kitchen. The way she straddles him and eats the apple while he's hard underneath her, the Kentucky slipping into her voice on *purpose*, the way he takes her hands out of his hair with two fingers under her wrists—not rough, just *no, keep your hands empty*—and she puts them behind her back herself and holds her own wrist. I was already at a 10 before she even got on the bench.
 
-Then the bathroom switch into Randi's head broke my heart and terrified me at the same time. The water bottle cap pressed under her thumbnail to ground herself with a different pain. The way she looks at "the face" in the mirror. And the tragedy of the ending — Pace sitting there on the bed, completely warm and proud and thinking he's just helped her through a wall and she's going to keep coming back to be fed, because he learned from some girl named Daphne not to push through a locked bathroom door. His respect for her boundary is the exact thing that lets her put the mask back on and lock him out forever without him even realizing it happened. He thinks they just got closer; she just threw away the key. I am *hooked*.
+And the bench scene itself is genuinely some of the hottest, most psychologically dialed-in kink writing I have read in years. He isn't a cartoon alpha barking orders; he's quiet, he's patient, he's watching her shoulders climb a quarter-inch toward her ears because every man before him was in a hurry. The pacing of it—the strikes, the long pause where he comes around to her face and crouches down to say *Hi* while she's upside down, taking her heels off one buckle at a time in the middle of it—it felt so earned and physical and real. When he tells her *no* after the three waiter-voice *pleases*, and then describes her to herself (*Facedown on a bench in a man's house. Ass in the air...*) until the real voice breaks out of her? I actually held my breath.
+
+And then the turn at the end! The tragedy of Pace sitting on that bed thinking he just had a breakthrough night of deep connection, thinking *all he had done was find the hunger and answer it, and he would answer it again*, while Randi is in the bathroom pressing a water bottle cap into her nail bed and slamming the vault door shut forever. *The one he had found was going back behind it, and she was not coming out again.* That is chilling and brilliant. She's going to invent the whole game with Vee—she's going to hand him another girl—so she never has to be the one seen on that bench again!
+
+I am completely hooked. This is exact, grown-up, filthy, and smart as hell.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
@@ -17,11 +21,10 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It gave me an insanely hot, psychologically devastating ten-page scene right out of the gate, pulled off a brilliant POV/identity reveal with Randi's name, and wrote both dominance and emotional terror like an actual adult. I'm already turning the page.
+WHY: It gave me an explicit, unhurried, scorching scene right out of the gate, paired with prose that actually notices how people breathe and move, and then twisted the knife at the end with the Randi reveal and that devastating bathroom scene.
 
 LEDGER
-+ LOVE: Pace's patience — the honeycrisp apple slices cut-side up, taking her heels off mid-scene, refusing the polite "waiter" *please*.
-+ FEAR: Pace thinks he just broke through Randi's walls for good, while she's lying on his chest silently deciding never to let him see her like that again — he has no idea he just lost the real her.
-+ SUSPICION: The "game" with Vee from the jacket is going to be Randi's way of deflecting Pace's intensity onto another girl so Randi never has to be the one cracked open on that bench again.
-+ WAITING: To find out who Daphne was and what happened when Pace didn't respect her closed door.
-+ WAITING: To meet Vee and see how Randi and Pace go from *this* night to hunting together.
++ LOVE: Pace's quiet, observant patience—slicing the apple cut-side up, waiting out her performance without humiliating her, leaving his own arousal completely aside because "that's not what this night was for."
++ FEAR: Pace is completely misreading what just happened to Randi, and his respect for "closed doors" (because of whoever Daphne was) is going to blind him to the fact that Randi just locked him out for good.
++ SUSPICION: The "game" from the jacket—recruiting Vee—is going to be Randi's idea, born directly out of that hum in her ribs at the end, as a way to keep Pace fed and distracted so he never strips her mask off like that again.
++ WAITING: To meet Vee, and to find out who Daphne was and what happened when Pace opened her door.

@@ -1,34 +1,32 @@
-*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4c9afc17bfa · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 471a72dbae5c · 2026-11-02*
+*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0dc05ebeec12 · 2026-11-06*
 
 REACTION
 
-Okay. The doorstep scene, and the book gave me exactly what I asked for. It also made me a little queasy, which I think is the point.
+Well. She did it, and the book gave me the full explicit payoff. I've been waiting for heat since the Chili's chapters, and this is a lot of it.
 
-Heat first. The mirror scene is hot, and it's Vee's own, not staged by anyone. She stops herself on purpose and carries it out wound tight, and "powerful" is the right word for it. The coat, the satin lining, Kayla and the laundry report, and the bare ride all work. The cop-lights beat is a gift, and the wet mark on the lining is the best detail. It's the shame-turned-meaning engine again, and Vee gets to own it this time. The doorstep is the payoff: coat open, his wall simply gone, "a starving man... a man just told he is forgiven," and the kiss with all the missing in it. The cold on wet nipples while he's on his knees is vivid. Standing, door banging, three hobbling steps, jeans round his thighs. Graceless and true. I liked it.
+The mirror scene is the best part. She picks the wrong bra by habit, then catches herself ("Pace is getting neither"). "Last thing, only thing" about the shoes is funny. Stopping herself on purpose and calling it powerful is exactly the interiority-plus-heat I came for. The coat soaked through the lining, and her deciding it means she's sure instead of ashamed, is a real change from the floozie voice.
 
-But the reader's-eye view is brutal. It's Randi's plan, Randi's shoes, and Randi's script, and it works perfectly, because Randi knows him. The music is the horn from his hungover night, which I know and Vee doesn't. And he almost says it. "Vee, I l—" and she cuts him off by opening the coat. She never lets him finish, so she gets the body and he gets off the hook again. I wanted to scream. He was about to say the word. Now she'll never know it was coming, and the pancakes and "I'm sorry, I missed you" are tender, but the name is still unnamed. She's so full there's "no room for wanting anything he hadn't given," which is exactly the trap. Randi's patch holds, and the real thing stays unsaid.
+The car scene is hot and dumb in the right way. The siren and the missing purse are a bit sitcom, though. I'd have trusted the drive without the cruiser.
 
-The Cassie coda, one eyebrow and "Hmm," lands well. Cassie's still outside it all.
+The doorstep is the payoff. "Vee, I l—" and she cuts him off. Oh, that stung. He was about to say it, I think, and she doesn't let him, because she's carrying the gesture instead of the word. The very thing she's been fighting for, and she steamrolls it. I'm furious and I love it. Nobody hears the sentence, and the chapter ends with pancakes, "I'm sorry," and "no room in her for wanting anything he hadn't given." That's the dread. The wall comes down for a minute and she lets the body answer in place of the word, and Randi scripted all of it. The door-open, jeans-around-the-knees sex is graceless, which is right.
 
-Gripes: long, a little overwritten in the sex, and the narrator explains the shame again. And I'm worried about Randi, who has to choose now.
+Grudges: the narration explains her feelings a lot again. And Randi's whole inner storm from last chapter is nowhere here. Brooke's ultimatum just sits. I'm also uneasy that he said sorry and nothing was settled. Cassie's "Hmm" is perfect.
 
-GATE 47 — Nothing Underneath
+GATE 46 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "none"
-WHY: Vee owning the doorstep gesture is hot and moving, but she interrupts his "I l—" and the word stays unsaid, exactly as Randi's plan would have it. I want the cost to arrive: Brooke's choose, and the three-way truth.
+ALMOST-STOPPED: "The cruiser swung out and went past her, fast, its lights shrinking up the road" (the siren gag felt like a sitcom beat)
+WHY: The mirror, the coat opening, and "Vee, I l—" cut off by her own gesture are the explicit heat and the ache together. But the word still went unsaid, and I want to see whether it comes back.
 
 LEDGER
-+ FEAR: Vee cut off "Vee, I l—", so the word is deferred again and the body has patched what only words can fix.
-+ LOVE: The coat opening on his doorstep, his wall gone, and the starving, forgiven look.
-+ LOVE: Pace on one knee at the pancakes: "I'm sorry... I missed you so much," voice cracking.
-+ SUSPICION: Randi's plan worked so well that Vee now owes her more, and Randi may use that.
-~ F46.1 RESOLVED: Vee went bare under the coat and it worked.
-~ W46.5 ANSWERED: The doorstep happened; Pace opened the door and she was welcomed.
-~ G45.5 SHIFTED: He was about to say it at the door, but she didn't let him.
-~ W45.4 SHIFTED: Pace started to say "I l—" but Vee cut him off.
-~ S33.2 SHIFTED: Reunion patches Vee's doubt, but nothing is named.
-~ F2.1 DEEPENED: Brooke's "choose" still hangs over Randi while Vee goes deeper in.
++ FEAR: "Vee, I l—" was cut off, and the gesture buried the word again, so nothing is actually settled
++ LOVE: The mirror scene, stopping herself on purpose and finding it powerful, and the "last thing, only thing" shoes joke
++ LOVE: Pace on his knees with the pancakes, "I missed you so much," his voice cracking
++ WAITING: Whether Pace gets to finish "I love you," and what Randi does with Brooke's ultimatum
+~ F45.1 DEEPENED: He opened the door and the coat did the talking; his silence swallowed nothing this time, because she never let him speak
+~ W45.5 ANSWERED: He took her in at once and cried, but the word is still unsaid
+~ F32.3 DEEPENED: She is again letting an act stand in for the word
+~ F11.1 FADED: that crack is long past, absorbed into the bigger triangle

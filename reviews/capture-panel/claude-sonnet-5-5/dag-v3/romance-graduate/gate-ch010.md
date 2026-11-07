@@ -1,34 +1,33 @@
-*capture-dag-v3-grounded · gate ch010 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e9a0a6a7ebe4 · dated · memory grounded: facts none + raw ch001..ch009 · history ch001..ch009 · ledger no seed d5877d9c441e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch010 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6c3e630d1a95 · dated · memory grounded: facts none + raw ch001..ch009 · history ch001..ch009 · ledger no seed d7d1b2eefbbe · 2026-11-06*
 
 REACTION
 
-This is the chapter I've been waiting nine chapters for, and the book made me wait for the wrong reason. I got the hike, the bra-soaked truck and the shirt coming off. Then I got the thing that made me love Pace and want to hit him in the same breath. He's shaking with cold and she's the one who notices. The scene wants to be a bench-adjacent seduction, and the cab is hot. Vee knocks on the glass, crooks a finger, unbuttons slowly while holding his eyes, and the mother's voice supplies "floozie" while her thighs press on their own. That's the first real charge since Tannin, and it's Vee's. She does it on purpose and she isn't steered. Her reaching for his hand and finding it shaking was the turn I didn't see coming.
+This is the chapter I wanted, and the truck scene is the best thing since the bench. The best part is that the heat comes from Vee, not from Pace running her. She knocks on the glass and crooks a finger. She unbuttons the shirt with her eyes on his, then looks down on the fourth button so his eyes go with hers. Her mother's "floozie" voice is the heat and the shame at once, and she gives him the view anyway. After all that engineered "may I" tenderness, this is the first time I watched her choose something he didn't build. I loved it.
 
-But I'm reading this with the ledger open. Everything lovely in it fits the plan. He fixes the blister and says "I'm sorry, I didn't think to ask about the boots." He cleans up the cherry pits, and he doesn't shame her for the pit. He hears about the russet dress and says only "That sounds like a beautiful dress." I'd bet money that dress turns up. That's gift-giving as technique, and Vee will take it as being known. And he stands in the rain with his only dry shirt on her back. The courtesy is so complete that I can't tell where the care stops and the design starts. Maybe there isn't a line, and that's the horror.
+And then the hinge: she reaches for his hand and it's shaking. He's been standing in the rain so she could change, in his only dry shirt, and he's frozen. "Pace. You're freezing." She stops her own seduction to take care of him. That's a turn in the bond. I actually felt tender toward both of them, which is the problem, because the dread is working too. Pace didn't touch her. He just looked, and the gladness in him was the whole answer. It's either sincere or a very good man being very good at this, and I can't tell. I think he can't either, and that's what I'm reading toward.
 
-The part that got me for real: she did a "yes" without the plan. She chose to strip. Nobody told her to. And he didn't touch her. "Every yes was freely given" lands harder when the yes is this free.
+The dress is the thing I'm holding. The russet silk, the "I can't afford it," putting it back on the shelf, and Pace saying only "That sounds like a beautiful dress." He didn't pick it up. I'm certain that dress is coming, and I'm certain who'll buy it, and I don't know whether I want it for her or dread it. Also the cherry pits. "We take nothing and leave nothing," and her shame, and him setting his pit beside hers without looking. That's the kind of tenderness that works because it's quiet.
 
-Randi is absent again, and I missed her. Vee's "Ravish" echo is Randi's voice in her head, so Randi is steering from two towns away. The siren cutting off "Pace—" is a cheap interruption. The sentence she couldn't say was clearly "come up," and the cop is a convenient lid. The nature description ran long and a bit postcard, and I felt the sandwich paragraph. Still, the Cassie coda was right, and "Borrow real boots next time" is the line I'll keep.
+The siren cutting off her sentence at the curb is a bit convenient, but I forgive it because it leaves us both unsatisfied. Cassie at the end is lovely, and "Borrow real boots next time," "Keep the shirt." Cassie is carrying all the love here. The Pace-in-rain-and-truck image, "His shirt, and then the truck. Both," is the best line.
 
-Heat is a solid 2 even with the dribble of interruption. I want the bench, finally, and I want Randi to hear this story.
+Complaints are small. The sensory inventory in the summit and sandwich passages runs long, and the narration still occasionally explains. Also still no Randi and no sex for the third chapter running, though this one is charged enough. I want the payoff, and I want Randi back in the room.
 
 GATE 10 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "The cherries came out of a small container. Dark red, near black where they were deepest" — the summit and sandwich sensory lingering ran long before the heat arrived.
-WHY: Vee finally acts on her own want and the truck scene is the hottest, most real beat since the bench, then he's shivering and the heat turns tender. The siren is a lazy cut, but I need Randi's reaction and the dress.
+ALMOST-STOPPED: "The cherries came out of a small container. Dark red, near black where they were deepest" (the long sensory picnic passage)
+WHY: Vee choosing, the shirt coming off with her eyes on his, and then stopping because his hand is shaking is the chapter I've been waiting for. The dress, the siren and the unfinished sentence leave me wanting more.
 
 LEDGER
-+ LOVE: Vee knocking on the glass and unbuttoning with her eyes on his, wanting it as the whole voice of her mother says floozie
-+ LOVE: Pace shivering in the rain with his only dry shirt on her, and her stopping to warm his hand instead of taking the next thing
-+ SUSPICION: The russet silk dress she set back on the shelf is going to turn up as a gift, and Pace's "beautiful dress" was him filing it
-+ SUSPICION: The siren cut is a convenient lid and the unsaid "come up" will cost them later
-+ WAITING: Randi hearing about the truck, and what her face does with it
-+ GRUDGE: The campus cop and the siren are a lazy way to stop the scene
-~ W5.5 SHIFTED: She's now stripped in front of him and he didn't touch her, so the bench is a few steps away
-~ F4.1 DEEPENED: Cassie is only the coda audience now and Vee's still telling her everything, but Cassie went quiet and soft at "Vee"
-~ F8.3 DEEPENED: She's handing him bigger and bigger things, and he's received every one with care that reads as technique
-~ W9.3 ANSWERED: The hike happened, and Randi wasn't in it, but "ravish" followed Vee up the trail
++ LOVE: The truck window. Vee knocks, crooks a finger, and undoes the buttons on her own terms, then stops to warm his shaking hand.
++ LOVE: Pace laying his cherry pit beside hers without a word, and "That sounds like a beautiful dress."
++ WAITING: The russet silk dress, which I expect to turn up, bought by someone, and I don't know how I'll feel.
++ WAITING: What Vee was about to say at the curb, and the first night they actually fall into bed.
++ SUSPICION: Pace is past the game and genuinely moved by Vee, and Randi will feel it before he says so.
+~ W9.4 ANSWERED: The hike happened, and Vee reached the top in borrowed boots.
+~ F8.2 DEEPENED: The sincere and the engineered are now impossible to tell apart, and I like him and still dread the break.
+~ S4.3 DEEPENED: Cassie's "Keep the shirt" reads as love and quiet watchfulness; she's carrying Vee.
+~ F9.1 DEEPENED: Vee reports everything to Cassie but is already drifting toward Pace and Randi's world.

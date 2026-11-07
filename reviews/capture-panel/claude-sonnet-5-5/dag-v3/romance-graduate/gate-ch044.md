@@ -1,36 +1,36 @@
-*capture-dag-v3-grounded · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4aadfb50d940 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch044 · history ch001..ch044 · ledger no seed cd973707a8f2 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 71861699de3b · 2026-11-06*
 
 REACTION
 
-Pace's head at last, and the book spends it on a diner and a hangover. I'd been starving for his side of the walkout, and it comes. It's quiet, but it's the first time anyone in this triangle admits the true thing in their own head: "He knew he loved her." I yelped. All those chapters of Vee counting deeds as words, and he had the words ready and chose the small ones out of fear. Daphne explains it, and for once I think it explains it enough. "He had taught himself that the words were the difference." That's the best sentence he's had.
+Pace's head, finally. And it's the chapter where the book stops letting him hide behind "I'm just not a words man." He says it flat out: he knows he loves her. He's choosing the silence. He made the decision because Daphne wrecked him, and he believes the words are the difference. That's the confession I've been waiting on for fifteen chapters, and it comes as pure interior, to nobody. Of course it does. He can tell Sheri "I can't," and the reader gets the reason, and Vee gets nothing. The dramatic irony is cruel and I love it.
 
-Sheri is a gift again. "Then not saying it matters more to you than having her. From this seat, that feels pretty shitty." Finally someone says what I've been shouting. Her Paige story, the Elvis under the tabletop, the fries stolen. It's warm and specific, and it made me like him.
+The diner is warm and funny. Sheri is the best secondary character in the book. "The philosophy of your food. Lord almighty. Get over yourself" made me laugh out loud. And "from this seat, that feels pretty shitty" is the line he needed. Her grief speech about Paige and the family she doesn't call also tells me who she is without a flashback.
 
-The Chili's line is the hit. He thinks Vee would either love this place or never see it, and he'd have heard her whisper here. He has the explanation and still hasn't told her. The scene is full of him almost doing it.
+Then the whiskey. A man who never drinks alone, going through photos, sliding down to a girl with brown hair and glasses. Daphne, and the book finally gives her a face. I want that story. The three-at-a-table fantasy, Vee in his sheet, Randi with her feet on the chair, laughing, nobody hurrying: that's the plan turning into something he actually wants, and he doesn't know Vee is the only one who doesn't know. He misses Randi too. "He would not take it from her." Ugh. He's tender to both, blind to both.
 
-The whiskey section is where it gets sad and a little dangerous. He drinks alone, which he never does, and goes down to Daphne, to Randi's "Say something nice to me." Then the picture: the three of them at his kitchen table, laughing. It's the most chilling image in the book, because he's the only one who thinks it's possible. The dramatic irony is at full strength. He thinks Randi is away on her own and will call, and he's lost the thread of why she cried.
+The morning after is the best part. The frozen chicken and broccoli, the hands shaking, the engine on the highway and his whole body leaning toward it. Then the sob, and eating anyway. That ending hurt, and I did not expect to be moved by him this much.
 
-Then the morning: the freezer chicken, the engine on the highway, his body leaning toward it, and the sob. "He ate anyway." That's a lovely, brutal ending. I did tear up.
+Grudges: the narration spells out his reasons a bit hard ("He had hurt her because he was afraid of how much she could hurt him"). I could have gotten that from the engine sound. And the date stamp says December 31, same night as both flashbacks, and I'm happy to be in a pattern now: three chapters, one night, three heads. Heat is zero, but the ache is real. The thing I'm furious about is that he knows, and still hasn't moved. I need him to say it to her.
 
-Gripes: the hangover logistics (bleach, mop, the thawing bags) ran long, and the narrator explains the Daphne rule a bit. Zero heat, and it's the third quiet chapter in a row. But it's an event, and it tilts everything: he's the one in pieces, and she doesn't know. Now I need one of them to move. If he texts, if she walks into that class.
-
-GATE 45 — The Usual
+GATE 44 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
 HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "The mop and bucket were where he had left them in the hall, outside the bathroom." The hangover housekeeping inventory ran slow.
-WHY: Pace finally admits to himself that he loves her and that fear kept the word back, and Sheri says the thing I've wanted said. The engine on the highway and the sobbing is the best ache in a while. Zero heat, but I want them to find each other.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." (the narration stating the subtext outright)
+WHY: Pace admitting to himself that he loves her, and the engine passing on the highway, finally give the silence a cause and a cost. It's the same night from a third head and no heat, but Sheri and the frozen chicken earned it.
 
 LEDGER
-+ LOVE: Sheri's "Then not saying it matters more to you than having her. From this seat, that feels pretty shitty."
-+ LOVE: "He had taught himself that the words were the difference," and the engine going past, Pace sobbing at the table and then eating anyway.
-+ FEAR: Pace's picture of the three of them laughing in his kitchen is a fantasy only he holds, and it will blow up when the truth surfaces.
-+ WAITING: Whether Pace moves first, and says the word, before Vee hears it from someone else.
-+ GRUDGE: He knew he loved her and let her walk out and sit alone for three weeks anyway.
-~ G40.3 SHIFTED: His silence is fear of Daphne's loss, not absence of feeling, so I'm angry at him differently now.
-~ G42.2 SHIFTED: The "Words are cheap" dodge is now explained as fear, still his fault.
-~ S44.4 ANSWERED: Pace isn't with another woman; Sheri is just a friend, and he's miserable.
-~ S1.4 DEEPENED: Daphne's closed door is why he can't say the word, and he finally sees it himself.
-~ W44.3 SHIFTED: Pace is now visibly waiting for her; the question is who moves first.
++ LOVE: Sheri's "The philosophy of your food. Lord almighty. Get over yourself," and her bluntness, "from this seat, that feels pretty shitty."
++ LOVE: The engine passing on the highway, his body leaning toward it, then the sobbing and eating anyway.
++ SUSPICION: Daphne, the brown-haired girl with glasses, left him in a way that wrecked him, and that wound is the real reason for his silence.
++ FEAR: He knows he loves her and still chooses silence, so he may keep not saying it until she's gone.
++ WAITING: Pace saying the word to Vee, and the first day of term when all three are in the same orbit again.
++ GRUDGE: The narration spells out Pace's reason for silence directly instead of trusting the scene.
+~ S33.3 DEEPENED: "I don't go back" now has a face behind it, Daphne, and he says his family and past are why he keeps words to himself.
+~ S41.4 CONFIRMED: His silence is a deliberate vow, born of Daphne, and not temperament.
+~ S43.4 ANSWERED: His Christmas week was Sheri and a lonely whiskey night, not another woman.
+~ S1.4 DEEPENED: Daphne is now the only woman he told he loved, and her leaving took over his life.
+~ W41.5 SHIFTED: Pace sat home drinking and didn't go after Vee, but he is thinking about her constantly.
+~ S42.4 ANSWERED: The date stamps confirm these are the same New Year's Eve and the flashbacks were that night; present-tense is now clear.

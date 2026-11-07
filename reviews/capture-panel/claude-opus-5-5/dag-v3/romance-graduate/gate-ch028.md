@@ -1,22 +1,16 @@
-*capture-dag-v3-grounded · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 14896ed4fc37 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch027 · history ch001..ch027 · ledger no seed e681b9ca45df · 2026-11-02*
+*capture-dag-v3-grounded · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c70abd373ffb · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 8497d1e81b1a · 2026-11-06*
 
 **REACTION**
 
-The long step. Ugh, the long step. "She took a breath, and made the second step long." I put the Kindle down for a second there, the same way I did for the kitchen.
+She did it herself. That's what I'd text at 1 a.m. For eight chapters I've been scared of the induction. Randi scripted it: "walk in late and stop the room cold," and Randi on her knees doing up the ankle strap. I was braced for Brooke in the third row, or Randi in the doorway, or someone turning the room on her. Then the room turns out to be "warm and dull and kind," nobody watches anybody, and the late entrance just doesn't happen. "No one was going to turn on their own." So she takes a breath and makes the second step long. That's the whole arc of these two books in one stride. The cardigan girl who kept a few inches between herself and everything gives the room her leg on purpose, all the way to the hip, with nothing under the silk. Nobody staged it and nobody led it. It's the dance lesson without the man.
 
-This is the induction I've been waiting on since she stood on that mountain with cherries in her hand. It pays off clean. There's no man in the room and no Randi in the room, and nobody touches her. It's a fully dressed woman in a folding chair with her hand at her hip, holding a seam shut over nothing. It's hot because it's all her decision: the first step small and safe, then a breath, and then she gives the room her leg on purpose. "The sound a dull room makes when it wakes up." I've read a hundred stripping-for-the-hero scenes. I've almost never read a heroine choosing to be looked at by a room full of strangers' parents, for herself, and getting turned on by her own nerve. That's the truck from chapter 10 and the mirror from chapter 19, grown up and taken outside.
+And it's hot, and it's a clothed chapter. The careful short steps, the hand at her hip holding the seam closed among somebody's parents, and that line: "nothing at all under the silk, and nobody in this room who had ever taught her what to be ashamed of." Her mother's absence is a real grief, the flight they couldn't afford and the bright phone voice, and it's also what lets her do this. Vee being a little relieved, and saying that it's horrible to be relieved, is the grown-up interiority I keep coming to this book for. Cassie's "Not horrible. Just honest," which "was kind, and was not it," is lovely too. Even Cassie can't follow her all the way anymore.
 
-What got me more than the walk is that her mother's voice never shows up. There's no "floozie" and no "slut" anywhere in the chapter. Instead there's "nobody in this room who had ever taught her what to be ashamed of." Her parents can't afford the flight, she's sad about it, and she's relieved too, and she can't hand that relief to Cassie because it's too true. That's real interiority. It's a grown-up, slightly shameful feeling, and the book lets her keep it without fixing it. The voice is gone because the person is gone, and the heat comes in without the shame wire attached. That's a turn for her, and nobody explained it to me.
+Cassie wins the chapter. She holds the phone, says "You look—" and stops, her eyes go bright, she calls Vee "streetlight," and she offers a terrible sandwich. She took the picture. She's the one actually in the room, and I loved her for it.
 
-Cassie! She's finally back in the room, holding the phone, and she's the one who documents it. "You look—" and she doesn't finish, "which from Cassie was a standing ovation." "Come on, streetlight." I love her so much it hurts. Her eyes going bright at the corners, which she'd deny to the grave. She's the only person in Vee's life who shows up in person, and she isn't part of the game at all.
+What's sitting in my stomach is the photo. Vee sends it uncropped to Pace and thinks the secret in it is hers. Monday is Randi's night, and nothing Vee has kept for herself has stayed kept. Randi did the strap. Randi knows that dress and that slit. I'd bet the photo ends up on Pace's chest with Randi's chin on it. And where is Randi? She built this entrance down to the shoes, and she isn't in the room and isn't in Vee's head. Is that the book being sly, or did it just forget her? Twelve chapters now without her POV.
 
-Then the cold part, because this book always gives me one. She sends the photo to Pace, "the whole frame, uncropped," and keeps the heat for herself: "That part was hers." So Vee is keeping things now too. Everybody in this triangle holds back a piece. And a photo is an object. Pace keeps memories from Randi, but a phone can be picked up and held out on a couch. I give it a week before Randi has seen that frame. She'll probably love it, and she'll take credit for the heels.
-
-Because here's the sting under the triumph: the slit that forced her to go bare is Pace's design. The four-inch heels that "the dress wanted" are Randi's pick, strapped on by Randi on her knees. Vee's bravest, most private moment is staged by both of them, and neither one is in the room. She thinks it's hers, and partly it is. That's what makes it good.
-
-What dragged: the Berkeley paragraph is a pile of setup and recap. And the last line, "whether, by now, the two came to the same thing," is the book nudging me toward the meaning again. It's a softer nudge than a lecture slide, but I noticed it. This is also a quiet chapter with no Randi or Pace, right after another quiet chapter, and the plot didn't move. It earned the breather with that walk. I want the couch next, though.
-
----
+Small gripes. "The small choreography of a woman with a secret keeping it" and "because she had" are the book explaining itself again. The last line half-explains too, but it leaves "pride or heat" open, so I'll allow it. And it's two chapters in a row without sex. Both were charged, so I don't mind yet, but I noticed.
 
 GATE 28 — The Induction
 DECISION: CONTINUE
@@ -24,17 +18,18 @@ CAPTURE: 8
 NEXT: 7
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "He'd been sorry about it in the quiet way he was sorry about things, no performance in it, the night the dates came clear — a mathematics conference in Berkeley, three days of it" (a paragraph of logistics and recap, and I started skimming toward her name)
-WHY: The second step is the best solo heat in the book, and her mother's voice never shows up. Cassie being the one with the camera made me happy. But it's a set piece, not a step forward, and with Pace gone three days I want Randi and that photo, not more afterglow.
+ALMOST-STOPPED: "the small choreography of a woman with a secret keeping it." The book narrated the secret right while I was holding it with her.
+WHY: The payoff I'd been dreading turned into Vee choosing to be seen, with no Randi, no Pace and no mother, and the long step is a real climax with no one touching her. It closes a thread cleanly, so my pull is now just the photo and what Randi does with it.
 
 LEDGER
-+ LOVE: The second step made long on purpose, and "the sound a dull room makes when it wakes up."
-+ LOVE: "Nobody in this room who had ever taught her what to be ashamed of." She's sad and relieved her parents aren't there, and she can't say the relief to anyone.
-+ FEAR: The uncropped photo is an object on Pace's phone, and it's going to end up in front of Randi on that couch.
-+ SUSPICION: Vee's proudest solo moment was staged by both of them. Pace's slit made her go bare, and Randi's heels set her stride, with neither of them in the room.
-+ SUSPICION: "That part was hers." Vee is keeping pieces from Pace now too. All three of them are holding something back.
-~ L10.1 SHIFTED: The heat came with no mother's voice at all. The shame wire finally cut out, and what's left is pride and heat together.
-~ L4.1 DEEPENED: Cassie held the phone, took the picture, nearly cried, and called her "streetlight." She's the only one who showed up in person.
-~ F4.2 SHIFTED: Cassie got the induction, the photo, and the sandwich. For one day she's back at the center.
-~ F5.1 DEEPENED: The dress did exactly what he built it to do, and it gave Vee the bravest moment of her life. That's one more thing she'll have to learn was arranged.
-~ F20.1 DEEPENED: The heels were "dear," and they're on the credit card.
+~ F19.4 RESOLVED: Nobody turned the induction on her. The room was kind and dull, and she woke it up herself
+~ S20.4 SHIFTED: Randi scripted the late entrance, but Vee threw the script out and made the stride her own
+~ L10.1 DEEPENED: Her mother wasn't even there to be the voice, and "nobody in this room who had ever taught her what to be ashamed of" turned into heat
+~ L4.1 DEEPENED: Cassie holding the phone, "You look—" unfinished, the bright eyes, "streetlight," the terrible sandwich
+~ F20.3 DEEPENED: The heels are "dear," and her parents couldn't afford a flight. The money still hasn't landed
+~ W18.5 DEEPENED: Twelve chapters without Randi's head, and this time she isn't even in the room she staged
+~ G1.7 DEEPENED: "Small choreography of a woman with a secret keeping it" and "because she had." It's still telling me what I just felt
++ FEAR: The uncropped photo travels to Randi on Pace's next Randi night, and the part Vee thinks is hers isn't
++ SUSPICION: Randi's absence from the induction she staged is deliberate, or something is wrong with her
++ WAITING: What Pace says back about the photo from Berkeley
++ LOVE: The second step made long, Vee giving the room her leg on purpose because nobody was going to turn on their own

@@ -1,43 +1,35 @@
-*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 949a76fe1a91 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed ba5052874569 · 2026-11-06*
 
 **REACTION**
 
-The thong landed on the bench.
+She washed the shirt. In chapter 23 it smelled of "fabric softener and no one," and that was grief. Now she's washed it on purpose, because it had gone to nothing, and she hands it to him and says *wear it for me, give it back Sunday so it smells like you again.* That's the most naked thing she's said to him in two books, and she has her clothes on when she says it. He reads it as her giving it back and you see the hurt start in his face. Then he gets it, and the rare smile comes, and he pulls the flannel on over the shirt he's already wearing and stands in his kitchen in two shirts because she told him to. I teared up a little, same as her. It's lovely. It's also, once again, everything except the word. "That was the whole of his answer, as it always was." I know, book. You've told me. You just told me again.
 
-"It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went." I stopped and said "oh my *god*" to my ceiling. She doesn't look, and the book doesn't name it. It just says "unusually proportioned," like the narrator is clearing its throat at me. Green satin on the tabletop that hides the bench, in the same room where four mornings ago Randi rode him with Vee's other green satin clenched in her fist. In chapter 13 Vee ran her hand over that joint and admired the work. Now her underwear is lying on it, and she's on the bed ten feet away. I've been carrying that bench fear since chapter 3, and the book just put a piece of her on top of it without her noticing.
+The hallway undressing is the best sex writing in a while, and it's funny. The jeans "had been sensible in the car and were the enemy now." She hops one-legged with the denim inside out. She's standing in his hall in green satin and white cotton socks while he leans there enjoying himself, and he holds the bra so she has to unwind herself out of it "like something off a spool." Then "her body having just published the number she'd gone to such trouble to keep private." That's the shame-and-heat wire again, and it's specific to her: five nights of careful story about studying, given away by her own throat. I believed every bit of it. She still wanted him to fight for the nights, and he gave her "of course" instead, and his grace "cost her more than a fight would have." That's the jacket line with real hurt in it, and it's the most honest thing in the chapter.
 
-Then I did the math and went cold. Vee says she called off the five nights herself. She left Monday morning with wet hair and his coffee. Randi's deadbolt went over Monday afternoon. So those five nights were Randi's opening, and he gave it to her. Vee "wanted him to fight, to want the nights badly enough to say so out loud," and he said "of course, take the time you need, I'll be here." Honey, of course he didn't fight. His Monday was already booked. She's sitting in his kitchen thinking his calm was grace, and some of it was. The rest of it was a petite brunette on his couch saying "God, I want her." The book never connects that for her, and I'm glad. It trusts me to count, and I counted.
+The thong. It lands green "on the long, unusually proportioned table that stood in the middle of his bedroom," and she never looks. Two chapters ago Randi stood in that bedroom with Vee's *other* green satin balled in her fist. Now Vee's new green lands on top of the bench, and the book has to step outside Vee's head to show me, because Vee can't see it. That's the narrator nudging me with an elbow, and I felt the nudge. Also, wasn't the bench against the wall in chapter 25? Now it's in the middle of the room. Maybe it got moved. Maybe it's a slip. I noticed either way.
 
-And "Her space." She smiles about her drawer crossing the dark grass, the private pleasure of it, *hers*. Randi opened that drawer Tuesday morning and left it standing out an inch. Vee puts her makeup away into it tonight and notices nothing. I wanted to reach into the book and shake her.
+Here's my real problem. Last time Randi's face went white over MIRANDA and Vee kept it to herself. Before that, Randi went through Vee's drawer and left Pace's coffee untouched. Not one breath of any of it here. Vee walks into the bathroom and loves "her space," and the drawer Randi opened an inch gets nothing. No thought of Randi at all, no Monday, no anthro night class, no group project. It's the come-home chapter: door, kiss, clothes on the floor, two orgasms, he cooks, she tastes everything, tender gesture, soft landing. That's curry, then the sandwich, and now pizza and a shirt. The cooking stretch went on again, romas and buffalo mozzarella and the cornmeal on the stone, and I skimmed. "Cotton candy and a bowl of cut strawberries" is the "mouth asleep" speech she already gave Randi. It's beautifully done, and I've read it four times now.
 
-The hall was the most fun reunion this book has written. The jeans "had been sensible in the car and were the enemy now," hopping one-legged, the socks, him holding the bra and making her unwind out of it "like something off a spool." "You're not helping." "I'm helping." I laughed. "Her body having just published the number she'd gone to such trouble to keep private" is a great line, a woman getting caught out by her own orgasm. The sex itself is quick, but this time I don't mind. It's the right shape for five nights. It's frank enough, and it's hers.
+Twenty-one chapters without Randi's head, and this time she isn't even a thought in Vee's. The book keeps letting her drop out at exactly the moments she's most dangerous. I loved this chapter while I was in it. I don't feel pulled out of it, though. It closes warm and complete, and what I want next is the story it skipped.
 
-Then the flannel, and I got a lump in my throat. She's been sleeping in it every night she isn't there, and it "went stale, and then it went to nothing." She washed it because she couldn't stand it smelling of nothing, and now she's asking him to wear it all weekend so she can breathe him again. That's the most naked thing she's ever said to him, and she said it in a robe. He gets that little flicker of hurt when he thinks she's handing it back. Then the rare smile, and he pulls it on over the shirt he already has on and stands in his own too-warm kitchen wearing two shirts. I loved him. And then the last line: "that was the whole of his answer, as it always was." That's the jacket, believe what he does. He'll wear her shirt. He won't say the word. She's going to sleep inside his smell all week instead of hearing it, and the smell will fade again.
-
-What wore on me: another recipe. Romas, the bread machine, water buffalo mozzarella, cornmeal "like a handful of sand," the peel. It's the fourth long food paragraph in five chapters, and I skimmed. Then "I used to just *eat*" is the mouth-asleep speech for the third time. She told Randi, she told Pace, and now I get it again with cotton candy and strawberries spelled out for me. I know, honey. I was there at the Benedict. And no Randi, no drawer fallout, no Cassie, even though Vee was in the dorm five nights and Cassie gets zero lines about it. W37.6 is still sitting open.
-
-But the bench and the five nights did their job. That's a chapter that looks sweet on the surface with a blade underneath, and I'll take it.
-
----
-
-GATE 38 — The New Ordinary
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 6
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "A pinch of cornmeal thrown onto the stone that lived in his oven, a sound like a handful of sand." (another full recipe, and I was skimming for her mouth to open)
-WHY: The flannel he wears over his own shirt so it'll smell of him again is the tenderest thing in the book, and it's also the jacket's silence in one gesture. The thong landing on the bench and the five nights that turn out to be Randi's Monday gave me chills. Recipe and mouth-asleep reruns aside, I'm in.
+ALMOST-STOPPED: "He grated the cheese over it himself, a pale wet ball of it he unwrapped from paper." The pizza stretch is where I realized I was in the cooking paragraph again and started skimming for Randi.
+WHY: The undressing is funny and hot, and the shirt is the best wordless love beat since the drawer. But it's the reunion template again, ending on a warm coda, and it ignores everything chapters 35 and 36 left burning. The only thing pulling me forward is dread, plus a green thong on the bench.
 
 LEDGER
-+ SUSPICION: Vee's five nights off for school were the opening Randi walked into on Monday. Pace's "of course, I'll be here" wasn't only grace.
-+ LOVE: The washed flannel. "It stopped smelling like you." And him pulling it on over his own shirt, two shirts in a warm kitchen.
-+ FEAR: She's living on his smell instead of his word. When the shirt fades again, the silence is all she'll have left.
-+ GRUDGE: "I used to just eat" is the mouth-asleep speech a third time, now with cotton candy and strawberries to explain it.
-~ F13.1 DEEPENED: Her green thong landed on the bench tabletop and she never looked. A piece of her is lying on it now.
-~ F36.2 DEEPENED: Vee smiles about "her space" and fills the drawer Randi went through, with no idea it was opened.
-~ F26.8 SHIFTED: It's not only her smell going. She's asking for his on purpose, to sleep in all week.
-~ S33.1 DEEPENED: "That was the whole of his answer, as it always was." She's choosing actions over the word, and she's the one wearing his silence now.
-~ G34.5 DEEPENED: A full pizza recipe, water buffalo and peel and cornmeal, the fourth long one in five chapters.
-~ W37.6 DEEPENED: Still no Randi on the page after the drawer and the panties. Another chapter has gone by around it.
-~ F4.2 DEEPENED: Five nights back in the dorm and Cassie doesn't get a single line.
++ LOVE: "I need you to wear it for me." The washed flannel, and him pulling it on over his own shirt, two shirts in his own kitchen
++ LOVE: The hallway undressing: jeans inside out, white socks, the bra unwound off her like a spool, and her laughing at him
++ SUSPICION: Vee's green thong landed on the bench, the same green Randi held in her fist, and the narrator made sure I saw what Vee didn't
++ GRUDGE: The come-home template again: kiss in the door, clothes down the hall, two orgasms, a long cooking stretch, a tasting speech, a tender coda. That's the third soft landing in a row
++ GRUDGE: The bench was against the wall in chapter 25, and now it's "in the middle of his bedroom"
+~ F32.4 DEEPENED: She wanted him to fight for the five nights, and his easy "of course" cost her more than a fight would have. The silence is starting to hunger
+~ L23.6 DEEPENED: The shirt that smelled of "no one" got washed on purpose and handed back to be filled
+~ W29.8 DEEPENED: The bench is out in the open again, with green satin lying on it
+~ W18.5 DEEPENED: Twenty-one chapters without Randi's head, and this time she isn't even in Vee's
+~ F35.1 DEEPENED: Vee loves "her space" in the drawer Randi opened, and has no idea anyone else has been in it
+~ W36.6 DEEPENED: Nothing about MIRANDA or Randi's face. The book just dropped it

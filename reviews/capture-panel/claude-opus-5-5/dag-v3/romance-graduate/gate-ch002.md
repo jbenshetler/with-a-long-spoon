@@ -1,49 +1,33 @@
-*capture-dag-v3-grounded · gate ch002 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed b4c0f127495b · 2026-11-02*
+*capture-dag-v3-grounded · gate ch002 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed 906ca01a9b2b · 2026-11-06*
 
-## Reaction
+## REACTION
 
-So this is the morning after, and it's the walk of shame. In her own sorority house. Past the president.
+Okay, this is the morning after, and it's the walk of shame done as a deposition. I liked it more than I expected to. The heat is gone, but the dread is doing the work. Brooke never stands up. She doesn't have to. "I was going to ask about it last night and you'd already left." Oh, she *knows*. Then she files his name, "Pace," the way you'd file evidence, and drops him a notch with "Engineering, isn't it," as if the guess just slipped out. I have sat at that table. I have been Kinsey with the cereal, laughing a little too high. The class stuff is sharp without being underlined: the pickup, "short-cute," "I love that you don't care about cars." Every compliment in that room is a little cut.
 
-I didn't expect this chapter to be so tense with nobody touching anybody. Brooke is terrifying. She never stands up. She asks about the paper, then the café, and then she slides straight into "*Pace.* That's actually his name?" with no seam at all. She files him: *Chase*, engineering, a notch down, oh, math. Then Sloane calls the pickup "refreshing," which is a compliment that's really an insult, and Kinsey goes for "short-cute." It's a group of women quietly lowering a man's price in front of the girl who slept at his house, and every one of them is smiling while she does it. I've read so many books where the sorority girls are just mean, and this is much worse because they're *nice*. "Sorry to grill you. Go." She's dismissed. Randi had three lines ready and doesn't get to use any of them. I felt that in my stomach.
+What I really sat up for was "Not his section." The pause is "wider here," and the book makes a point of telling me the room held it. Then she adds extra, "He's not anywhere near mine," which is what people do when they're lying. I think there's something there. Either she met him through math, or he's closer to her course than she's saying. And "Standards." She sits on the Standards board. That's almost too perfect. She's the one who enforces the rules, and she's coming home in last night's cardigan.
 
-The best irony is that Randi sits on the board too, as Standards, and she can read every move Brooke makes from the inside. She knows exactly how it's being done to her and she still can't stop it. Her laugh matches Kinsey's pitch before she's had time to pick one. That's the face from chapter one, running on its own now.
+The room scene got to me. Shoes on, duvet over the buttoned cardigan, the phone turned face-down without reading it, her hand lifting toward the closet and not knowing why. That's a woman whose machinery has stalled, and it's shown through her body, which I love. "He's hard to say no to," heard "in a different key," scared me a little. I can't tell if it's about desire or about something that sits closer to consent, and I don't think she can either. The not-crying, "no door," is a good image after last night's deadbolt. But "the way a held breath stops feeling held. The breath was held." is the book doing its thing again, saying it one more time in case I missed it. I didn't miss it.
 
-Then the room, and I loved it. She stands at the vanity, then the bed, then the closet, and every time she forgets what she came for. The bone-to-camel closet with "the one disciplined oxblood" tells me everything about her. And the duvet: "It was not — it was a duvet." She's lying under the cheap thing and missing the cashmere blanket she left at his house, and the book never says it. That's the restraint I asked for last chapter, and it's the best moment here. "He's hard to say no to, in a different key" got me too. The line she used as a joke in the kitchen comes back true.
+Two chapters in and still no Vee. I'm fine with that for now, because it's clear the book is building Randi's armor before it sends her out to find someone. But this is quiet chapter number one, and I'm counting. If chapter 3 is more lying under duvets, I'll start skimming.
 
-Some gripes. The not-crying paragraph at the end is good, but it explains itself again ("it no longer registered as an act, the way a held breath stops feeling held"). It's prettier than "The face was lying," but it's the same habit. And "the fraction-of-a-second" three times in a row is deliberate, I can see it widening, but by the third one I'm being shown the trick.
+1 a.m. text: "the sorority president just interrogated her about a fake paper with the warmest voice alive and I'm scared of her"
 
-I'm also suspicious. The pause before "Not his section" was the *widest* one. Either she's lying and she's in his class, or someone she knows is. And the jacket woman, Vee, a girl in a math class, still hasn't shown up. That's two chapters with no heroine. I'm fine for now, but I'm counting.
+## GATE
 
-The 1 a.m. text: *she lay down in her bed with her SHOES ON and pulled up a crappy duvet and I swear she's homesick for his blanket.*
-
-## GATE 2 — Standards
-
-**DECISION:** CONTINUE
-
-**CAPTURE:** 7
-
-**NEXT:** 7
-
-**HEAT:** 0
-
-**ROMANCE:** 1
-
-**ALMOST-STOPPED:** "It felt like there being no door. She had gotten very good, over twenty-one years, at the not-going; she had gotten so good at it that it no longer registered as an act, the way a held breath stops feeling held."
-
-**WHY:** A quiet chapter after a hot one is fine with me when the quiet has this much menace in it, and Brooke's seated interrogation is the scariest scene in the book so far. But that's one chapter with no heat and no Vee, and if the next one is quiet as well, I'll start skimming.
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She had gotten very good, over twenty-one years, at the not-going; she had gotten so good at it that it no longer registered as an act, the way a held breath stops feeling held. The breath was held." It explains a picture I'd already read twice.
+WHY: The Brooke scene is a small, perfect social horror, and Randi falling apart through her body (the shoes, the phone, the closet) has real interiority. But there's no heat, no Pace, and no Vee, so the next chapter has to move or open something up.
 
 ## LEDGER
-
-\+ SUSPICION: Randi lied about not being in Pace's section, or the math class connects to Vee. That pause was the widest one for a reason.
-
-\+ FEAR: Brooke has filed Pace and the fake paper. Randi's Standards seat is going to be used against her.
-
-\+ LOVE: Brooke as a villain who never raises her voice or stands up.
-
-\+ WAITING: Pace on the other side of this morning. Does he have any idea what his truck and his laminate counters cost her in that house?
-
-~ S1.2 DEEPENED: "He's hard to say no to" in a different key. She can't refuse him, so she'll need someone else in the room.
-
-~ W1.5 DEEPENED: Still no Vee after two chapters, and I'm starting to count.
-
-~ G1.6 SHIFTED: The duvet line proves this book can trust me, but it still explains her in the final paragraph.
++ FEAR: Brooke already knows more than she's letting on and is quietly building a file. The "Standards" seat could get turned against Randi.
++ SUSPICION: Randi's lying about the math class. Pace is nearer her course than "not his section," which could be how they met.
++ FEAR: "He's hard to say no to" means something darker to her than flirting, and she can't think past it.
++ LOVE: Randi falling apart through her body: shoes on, phone face-down, the hand lifting toward the closet and stopping.
++ WAITING: Vee. Two chapters in and she still hasn't appeared, so the book owes me her soon.
+~ G1.7 DEEPENED: The habit of telling the subtext one more time is still there ("The breath was held").
+~ S1.2 DEEPENED: Randi's "no door" not-crying makes outsourcing the being-seen feel even more likely.

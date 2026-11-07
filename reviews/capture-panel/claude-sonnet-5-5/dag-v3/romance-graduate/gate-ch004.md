@@ -1,33 +1,33 @@
-*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ef9323e0685c · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed 0b917be53be1 · 2026-11-03*
+*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e3a55476f74d · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed f0b16fcfb4bd · 2026-11-06*
 
 REACTION
 
-So now I'm in Vee's head, and it's the first time the book has made me feel what the jacket promised. We've watched Randi shop for her from the outside, and now I get to watch her get shopped, and I know every move. The "oh my god, we should sit together." The squeeze on the forearm. "I'm going to copy off you all semester." "I've decided." "Love you, girl." "See you later." Every one is a hook. Vee reads them as luck. That's cruel, and it works on me, because I know how much Randi's wanting is under all that warmth.
+Finally, Vee's head. It's a quiet chapter with no heat, and I felt that. But it's quiet in an interesting way, because I'm the one reading with the plan in my pocket.
 
-The thing I loved most is the transcript going blank. She can't recall a single word of an hour she hung on completely, because the feeling was the content. That's exact. It's also a little chilling, because Randi is performing and Vee is the one holding the evidence of nothing.
+The whole chapter is dramatic irony, and it works. Vee thinks the collision was chance. She debates whether "we should sit together" was meant or just said. Meanwhile I watched Randi and Pace build that collision on a quad. Randi's "There you are" in the lecture hall is the same phrase Pace used on the bench, and it made my skin prickle. Even the little bit, "Yes, like the adjective," lands differently when I know it's a script. Vee also can't remember a word of what they talked about, only the feeling of being chosen. That's the best thing in the chapter, because it's exactly how a person gets groomed, even a nice one. "Every yes was freely given" is starting to curdle for me.
 
-Cassie is my favorite thing here. Four words a day, the flat name that refuses the bit, and then "Goodbye, Vee," the full finished word. It reads like a small foreshadowing, or just a friend who clocks what Vee can't. I'm worried about her. Vee covering for her ("tea leaves") while Cassie quietly sees it is a very good little wound.
+Vee herself is good. Her mother's voice calling the girls "floozies" and then the longer look behind the word. The cardigan that she knows is a choice and lets the room not know. Smoothing over Cassie's flatness with "feature, not bug." She has interiority, which my persona demands. I'm a little afraid for her.
 
-I also liked the café floozies beat: her mother's voice arriving whole, then the look that runs longer than the word, then the cardigan as a choice nobody knows is a choice. That's the starvation from the jacket, and it's the interiority I want. Her noticing Randi's accent as "somewhere abroad" while I know it's Kentucky and a sorority voice is nice dramatic irony again.
+Cassie is the thing I'm holding. "Goodbye, Vee," flat and complete, with a look Vee can't name. That's either foreshadowing or a woman who simply says full words, but the book flagged it hard. I suspect Cassie sees the shape of it and Vee does not.
 
-But there's no heat. Zero. And it's the second chapter in a stretch that's mostly setup. The "want you keep for a thing you've only seen from a distance" tells me the thing I already got. Some narration is over-explained ("the queen having decided"). A few sentences ran long on the room description. I'd skim a third of the café catalogue.
+Randi's accent here is a gap I noticed: Switzerland, Paris, an alphabet. She's hiding Kentucky from Vee too. That's another face.
 
-Still, I'm fine, because the dread is pulling me. Next I want Randi and Pace to hear about it, and I want to see the bench.
+The complaints are small: the Chi Latte description is catalog-heavy again, and the narration explains the "queen decided there'd be a later" bit. The chapter was also long on warmth and short on charge. I'll allow it as the bridge, but if the next one is also quiet I'll start skimming. I want Randi and Vee in the same room with something at stake.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
-HEAT: 1
+NEXT: 7
+HEAT: 0
 ROMANCE: 1
-ALMOST-STOPPED: "the matched uniformed prettiness of girls who had gotten ready together and would leave together."
-WHY: Dramatic irony of being on the receiving end of Randi's charm is delicious, and Vee's interiority is the real thing. No explicit heat this time, so I want the payoff soon.
+ALMOST-STOPPED: "Inside it was yellow and white, bright as a kitchen in a commercial" (the long café and girl-inventory passage)
+WHY: Vee finally has a head of her own, and watching her be steered without knowing it is delicious and a little sickening. No heat, so I need the bench or Randi's want to show up soon.
 
 LEDGER
-+ LOVE: Cassie, flat and perceptive, and her "Goodbye, Vee"
-+ FEAR: Cassie is going to be pushed out of Vee's life as Randi takes over
-+ LOVE: Vee's blank transcript, a whole hour kept as feeling and no words
-+ SUSPICION: Vee's mother's voice ("floozies," "nice girl") is the lock Randi and Pace will have to pick
-+ WAITING: Randi and Pace comparing notes on Vee, and the first time Vee is on the bench
-~ W3.4 ANSWERED: Vee is on the page, starving and easily charmed
-~ F3.2 DEEPENED: Randi is deliberately warming Vee into an invitation, and Vee thinks it's luck
++ LOVE: Vee's interiority, with her mother's voice and the cardigan she knows is a choice
++ FEAR: Vee is being groomed by warmth and loses the actual words, only the feeling of being chosen, so she'll fall for a performance
++ SUSPICION: Cassie sees what's happening, and her flat "Goodbye, Vee" is foreshadowing
++ SUSPICION: Randi is hiding Kentucky from Vee with a fake worldly accent, another layer of face
++ WAITING: Vee and Randi alone with something at stake, and the bench
+~ W3.4 ANSWERED: Vee's POV arrived, and the stats class and coffee happened
+~ F3.1 DEEPENED: Randi's warmth with Vee reads as a performance, and Vee is already attached

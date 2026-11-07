@@ -1,22 +1,22 @@
-*capture-dag-v3-grounded · gate ch022 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d068453fd82d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed bd53f146918c · 2026-11-02*
+*capture-dag-v3-grounded · gate ch022 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d068453fd82d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 31641919fef6 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-Nineteen and fifteen. I did the math at the same moment Vee did, and it hit me in the same place hers did: low, before I'd put it into words. In chapter one Daphne was a short line about "a door he had not respected." I'd filed her as the ex he hurt, the one who taught him his rule about closed doors. She was his *tutor*. The school assigned her to look after a fifteen-year-old child living in a dorm full of grown men, and she ended up as "the soft middle of those two years." And he calls it the best two years he ever had. He lays out the breakup with every reason in its slot and says nobody did anything wrong. He's defending her against a word nobody has said, and he doesn't hear himself doing it. That's the line that got me: "He had handed her the thing that had hurt him and named it luck." Okay, that one is the book telling me, but it's Vee realizing it, and she earned it.
+"She had stumbled into her." That line at the very end made me put the Kindle face-down on my chest. Honey, you didn't stumble. You got body-checked on a signal from a light pole. Then she lists her luck in order: the stranger outside the dining hall, then the man who crossed the coffee shop because she "complained about math to her own table," and calls it "for no reason she had done anything to deserve." All I could think was that he was in line *because Randi texted him*. And last night Randi was in that same bed, wearing his undershirt from the second drawer. This is my oldest fear from the start of the book, and the book has her fill it out herself, at peak happiness, in his bed. It's cruel. It's very good.
 
-Then she doesn't say the word. "The clean ugly grown-up word," held under her tongue because it isn't hers to say. I loved her so much for that. She's grown-up and she has emotional intelligence, the exact thing I'm always starving for. She didn't say sorry for the hallway desk either. She pressed her shoulder against him once, "there and gone." She has the same rule he does about not opening a door nobody offered. She's learned it, or she always had it.
+Then Daphne. The book has had me waiting on Daphne since chapter 1, and the answer is so much worse than I expected. She was nineteen and he was fifteen, assigned as his *tutor*, "to help the child find his feet." I did Vee's arithmetic right along with her, and my stomach dropped at the same moment hers did. What wrecked me is that the book doesn't let Vee say the word. "The clean ugly grown-up word," and she holds it under her tongue, because it isn't hers to say. Meanwhile he lays out every reason "in good order," and his voice goes one degree flatter, like a man carrying a full glass. "It was the best two years I'd had." He calls the thing that hurt him luck, and he believes it. That's real psychological intelligence, and it doesn't need a therapist character to explain it.
 
-Then the cold part, because I can't help it. Daphne left the year she turned twenty-one. Randi is twenty-one. Vee is twenty-one. The man who was picked by an older girl at fifteen now picks twenty-one-year-olds off a quad with his girlfriend. And the slow, patient, careful thing he does, "I like taking my time with her," where did he learn that? I don't think the book is calling him a predator. I think it's showing me a boy whose whole idea of tenderness got built by somebody who shouldn't have been building it. The bench came from somewhere, and now so does the method. That's real interiority, and it makes him finally *not* the henley dream man. He's a damaged man with a jar of saffron's worth of sealed things inside him.
+But I'm holding chapter 1 up against this. "Daphne had built a door, once, and he had not respected it." In this version nobody did anything wrong. She left because bars exist. So which is it? Either he's leaving out the part where *he* pushed past her door, or the boy who got groomed grew into a man who doesn't know where doors are. Then there's the thing that made me sit up: Daphne left the year she turned twenty-one. Randi is twenty-one. Vee is twenty-one. He's twenty-two now and he's in bed with two twenty-one-year-olds. I don't think that's an accident, and it scares me for all three of them.
 
-"My real name is Peter." He took his mother out of the answer and Vee let him. That's the "parents" flinch from the house tour, finally given a shape. Father, chemical plant. Mother, nothing. And the scar: "Not tonight," with his hand holding hers *on* it instead of moving it off. That's the most intimate thing he's ever done, and it isn't sex. It's a door with a time on it.
+The seventh-grade hallway got me too. "They took the thing you loved and made it the punishment." That's Vee being the smartest person in the room about him. She doesn't say sorry, she just presses her shoulder against him once. And "Peter." He takes his mother out of the answer and gives Vee his real name instead. He has never given Randi anything like that. Randi asked about Chicago and got "grandsupervisor." Vee asks about his mother and gets his name, his hallway, Daphne, and a "not tonight" on the scar that has "a door with a time on it." "For us" went to "for her" a long time ago, and now it's "for Peter." The scar being longer than her hand made me think it's not from a lifting accident.
 
-The Ohio stuff was a pleasure: beige food "improved by bacon until the vegetable had surrendered its own case," Cool Whip containers, saffron "old enough to vote." Vee is funny. I didn't know she was this funny. And "So the name that means love in one mouth means trouble in the other" is him doing his thing where he hands it back more exact. I felt that.
+Also, it's TUESDAY. Randi got Monday, Vee gets Tuesday, and the robe off the back of the closet door is just there. He's running two women on alternating nights, and each one feels like the only one in the house. I want to know whose robe that is.
 
-Gripes. The math speech. Paint can, coastline, Newton, "it's all one piece." That's the fifth time the book has used math to talk about the three of them. I'll admit this one is different. It's *his* love, the thing they put in the hallway, and Vee watches him light up rather than the book lecturing me. So it lands as character and not as a slide, mostly. "One piece" coming back in the last paragraph about her two lucky accidents does push it though. And that ending. "She had stumbled into her." "For no reason she had done anything to deserve." The dramatic irony is so heavy I had to put the phone down. Then "never been so fortunate, or so happy" for the FIFTH chapter in a row. Book, I can see the cliff. I've been able to see it for a month. Push her off or stop measuring.
+Now the gripes. The math sermon. The painted horn and the coastline were lovely, and they're him lit up, which I liked. But "It's the language the world is written in. Most people walk around inside the poem and never get to read a line of it" is the author's TED talk coming out of his mouth, and it's another merit badge, the genius-at-fifteen badge. "Bend the one-inch steel like dry spaghetti" is a weird line for a man this exact. The explaining habit showed up too: "That was the trouble with him," and "He believed every part of what he'd told her. That was what stayed with her," which I'd already felt. Then there's "He had cooked, earlier, before the rest of it." The sex happened and I didn't get it. It isn't coy, and the chapter clearly wasn't about it, but I noticed the skip. His hand on her breast under the quilt "without asking" was the warmest heat in it, and it's barely a simmer.
 
-Heat is a simmer: his palm on her breast "without asking," like a hand warmer. The tenderness was the real event.
+It's a quiet chapter, the first one after a hot one, and I don't resent it. Two people talking under a quilt, and it was a good talk. But this is six chapters now without Randi's own head, and after "I get bored of everybody" I want her badly.
 
-The 1 a.m. text: *his real name is PETER. he went to college at fifteen and the school gave him a 19yo "tutor" and they were together two years and he calls it the best years of his life and vee held the word in her mouth and didn't say it. also she still thinks she "stumbled into" randi. i'm going to scream.*
+1 a.m. text: "his first girlfriend was his 19yo TUTOR when he was 15 and he thinks it was the best two years of his life and the girl is lying there holding the word 'grooming' under her tongue. his real name is PETER. and then she falls asleep thanking the universe for how she 'stumbled into' randi. SHE WAS AIMED."
 
 GATE 22 — Rock
 DECISION: CONTINUE
@@ -24,20 +24,21 @@ CAPTURE: 8
 NEXT: 8
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "She had never been so fortunate, or so happy." (the fifth happiness drumroll, and I groaned)
-WHY: It's a quiet pillow-talk chapter that remakes Pace from the bottom up. Daphne at nineteen and him at fifteen, and Vee wise enough to keep the word to herself. The math speech and the cliff-edge ending are habits I'm tired of, but now I need the scar and I need the fall.
+ALMOST-STOPPED: "It's the language the world is written in. Most people walk around inside the poem and never get to read a line of it." That's the author lecturing through Pace, right where the book-boyfriend genius thing came back.
+WHY: Daphne finally landed, and the book trusted Vee not to say the word. That's grown-up writing about how a person defends his own wound. The ending, where Vee thanks the universe for a staged accident, hurts in the best way. It's low on heat and the math went on too long, but I'm still reading.
 
 LEDGER
-+ SUSPICION: Daphne was nineteen with him at fifteen and left at twenty-one. He learned his slow, careful tenderness from her, and now he's choosing twenty-one-year-olds himself.
-+ LOVE: Vee holding "the clean ugly grown-up word" under her tongue, and the shoulder press, there and gone, instead of saying sorry.
-+ LOVE: Ohio, the casseroles, and the saffron "old enough to vote." Vee is funny.
-+ LOVE: "So the name that means love in one mouth means trouble in the other."
-+ WAITING: The scar, "not tonight," a door with a time on it.
-+ FEAR: "She had stumbled into her." Vee's whole picture of her own luck is the exact thing that's going to break.
-~ S1.3 SHIFTED: Daphne wasn't his victim. He was hers, and he calls it luck. He's not perfect, he's shaped.
-~ S13.3 DEEPENED: "My real name is Peter." He took his mother out of the answer.
-~ S16.5 DEEPENED: He held her hand on the scar instead of moving it away. It's still closed, but now there's a time on it.
-~ F17.5 DEEPENED: "Never been so fortunate, or so happy." The drop gets taller again.
-~ G20.6 DEEPENED: Fifth chapter in a row ending on Vee's happiest-ever note.
-~ G20.5 SHIFTED: Another math speech, but this one is his love and not a slide about the theme. Mostly forgiven, until "one piece" came back at the end.
-~ F5.1 DEEPENED: "For no reason she had done anything to deserve." There was a reason, and it was arranged.
+~ W1.6 ANSWERED: Daphne was his tutor, nineteen to his fifteen, for two years, and he calls it luck
++ SUSPICION: His version, where "nobody did anything wrong," doesn't match chapter 1's "he had not respected" Daphne's door. He's leaving out his own part, or he doesn't know where doors are
++ FEAR: Daphne left the year she turned twenty-one, and both his women are twenty-one. He's waiting to be left, or he's already rehearsing it
+~ W13.4 DEEPENED: "My mother stays home." He took his mother out of the answer and gave Vee "Peter" instead
+~ W16.2 DEEPENED: The scar is longer than her hand. "Not tonight," a door with a time on it
+~ F3.3 DEEPENED: "She had stumbled into her." "For no reason she had done anything to deserve." She has built her happiness on the staged collision
+~ S3.4 DEEPENED: Randi gets "grandsupervisor." Vee gets his real name, the hallway, and Daphne
+~ S19.3 DEEPENED: Monday Randi, Tuesday Vee. He's alternating nights and neither woman knows
++ LOVE: "Peter," said once to feel it in her mouth, then again "to keep it"
++ LOVE: Vee holding "the clean ugly grown-up word" under her tongue, because it's not hers to say
++ SUSPICION: The robe on the back of the closet door. Whose is it, and has Randi worn it
+~ G13.7 SHIFTED: The fifteen-year-old genius and the Newton sermon. The merit badges are back, but this time they come with a wound under them
+~ W18.5 DEEPENED: Six chapters without Randi's head
+~ G1.7 DEEPENED: "That was the trouble with him" and "That was what stayed with her" explain what I'd just felt

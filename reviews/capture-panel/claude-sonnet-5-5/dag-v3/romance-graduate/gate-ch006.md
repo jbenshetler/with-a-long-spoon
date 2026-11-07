@@ -1,30 +1,28 @@
-*capture-dag-v3-grounded · gate ch006 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 822fde509de8 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed eed91683d796 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch006 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 822fde509de8 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed 874cc2865472 · 2026-11-06*
 
 REACTION
 
-Finally, a Pace chapter with real charge, and it's short and it works. She comes in with no hello and kisses him like she's been holding it the whole walk over. Then comes "Tell me." The wine is the best move in it. She drinks it, then kisses the tannin into his mouth, so everything he gets of it he gets secondhand. And he hasn't had a drop. It's the same trick the book keeps playing: Randi can only take Vee through Pace.
+Heat, finally, and it's the best kind. Nobody gets naked, and it's still the hottest thing since the bench. Randi comes through the door and goes straight into him. The deadbolt is the same ritual as chapter 1, but there's no hello and no back-and-forth this time, and she's the one pushing. Then the wine. She drinks it, kisses him with it still in her mouth, and he doesn't pour his own. "Everything he was going to have of it he was going to have like this." I felt that in my stomach.
 
-The hottest beat is "She built a cup like nobody had ever told her when to stop." Her body answers before her face does, same as the quad. He reads it as the wanting, held, and he's moved by it. But Pace is wrong about what the want is. He thinks she wants Vee. I think she's also hearing the man she loves describe the girl she wants, and she's the one who's been told when to stop her whole life. Her "I already do" is bright and easy, and the cup of wine goes down in one swallow. That's the face working again. I hear the lock from chapter 1.
+The best beat is "She built a cup, like nobody had ever told her when to stop." Randi's body takes it in before her face does. Her thighs tighten, her breasts press into his hands, and then the face arrives late. She's using Pace's account of Vee as foreplay. She's turned on by hearing about the woman she wants, with his hands on her, and she can't say it. It's an almost unbearable kind of erotic. Then "She's easy to listen to," and she goes level, with the smile a beat late. Her hold on the wanting is gorgeous and painful, and "I already do" is the lie that comes out bright.
 
-My new fear is that she's using him to get Vee, and Vee to get something she can't ask for. Pace's "She's easy to listen to" shut her down for a beat, and he took the beat for hunger when it may have been a bruise. He's also kept Vee's embarrassing true line for himself, "It was hers." That's decent of him, and it's also a small first secret from Randi. I'm watching that.
+Pace reading all of it as the plan working worries me. He thinks he's growing her want by leaving it alone. He's moved by it. And he keeps the true thing Vee said, the embarrassing sentence, for himself. That's the first time he's withheld anything from Randi. I noticed that. It's the first crack in the machine, and it comes from his side.
 
-Complaints are small. "He read it" again. "A want too big for her face" explains what the scene already did. And it's quick, more a hot coda than a scene. I'll take it. HEAT is a real 2 and it's all clothed and tannin.
-
-I want the bench with Vee in it. Or the first date. Or the first time Randi tells Vee anything real.
+It's short, but it didn't read as a bridge, because the charge never lets up. It's a little explain-y again ("He read it: the wanting, held"). The ending is a small door-click of a moment, and I wanted the next scene right now.
 
 GATE 6 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "It moved him — a want too big for her face, and keeping the face over it anyway." The narrator explaining what the scene had already shown.
-WHY: Heat finally comes back, and it's built out of the wine and the retelling. Pace misreads her again and she covers, which is the book's engine. A short chapter that did real work.
+ALMOST-STOPPED: "He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway."
+WHY: Clothed, short, and as charged as anything so far. Randi getting turned on by Vee through Pace's mouth is exactly the both-and I read for. Pace keeping Vee's confession back is the first sign he's drifting from the plan.
 
 LEDGER
-+ LOVE: The wine kiss, Randi passing the tannin into Pace's mouth, taking Vee only through him
-+ FEAR: Pace reads Randi's flinch at "easy to listen to" as hunger, when it may be hurt, and the gap is widening
-+ SUSPICION: Pace keeping Vee's "nicest a person has been to me" line for himself is the first thing he withholds from Randi
-~ W5.5 SHIFTED: The first date happened off the page as froyo. Now I'm waiting for it to turn physical, and for Randi to be in the room.
-~ F3.2 DEEPENED: Randi is using Pace's account of Vee as a stand-in for touching her.
-~ S3.3 DEEPENED: Randi's want shows in her body even as she says "I already do."
++ LOVE: The wine kiss, with Pace tasting nothing but her
++ SUSPICION: Pace withholding Vee's "nicest a person has been to me" means he's already protecting something of Vee's, apart from Randi
++ FEAR: Randi will keep getting aroused by Vee through Pace and keep denying it, and it will blow up
++ WAITING: The first scene where Randi is alone with Vee and her want shows
+~ F5.1 DEEPENED: Pace is already holding Vee's real feelings back from Randi, so the engineering is leaking
+~ S5.4 DEEPENED: Pace's "I made her laugh" and the guarded confession suggest he is already falling for Vee

@@ -1,26 +1,31 @@
-*capture-dag-v3-grounded · gate ch037 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch037 · history ch001..ch037 · ledger no seed ebfb0df37071 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch037 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 22ad4b05a0dc · 2026-11-06*
 
 REACTION
 
-Okay, so this is a sex scene, a pizza, and a shirt. I liked it more than the plot says I should. The undressing is the funniest and most human thing the book has done in the bedroom. The jeans stuck at the hips, the hop, the white cotton socks, and him holding her bra and not pulling. "You're not helping." "I'm helping." Hot because nobody's performing. "Her body having just published the number she'd gone to such trouble to keep private" is a great line. Five nights of "studying" and her throat tells the truth.
+Okay, this is a pure-glow chapter, and I enjoyed it more than I expected. But it's the second one in a row without a turn, so I'm watching.
 
-The shirt is the chapter. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and hand it back full of him. It's tender and it's slightly unhinged, and he doesn't flinch, which is why I want to cry for her. Of course he'd put on two shirts. He's so good at the gesture and so absent from the word. She's now laundering him into her sleep. Meanwhile I'm holding chapter 36 in my head: he's folding Vee's panties into the second drawer, Randi crying, and none of that touches this kitchen. The dramatic irony is thick and I like it. The cost is on the page for Randi, and Vee is just happier and happier. Also Vee pulling back for school is a quiet note. She chose five nights, lasted five, and he never asked for her to come back. Dread.
+The opening is good. Vee called the five nights off herself, and the line that hurt was that she wanted him to fight for them, and he never does. That's the "he never said" disease again. He opens the door and waits, and she reads that as grace. It may be grace. It's also the same silence the blurb warned about.
 
-Gripes: the pizza-making inventory ran long again, and "cotton candy and a bowl of cut strawberries" is a bit tidy. Water buffalo cheese, I get it. And the "new ordinary" is another Vee-and-Pace idyll. Randi isn't here, and I'm ready for her father to come back around. But the heat was real and funny and I enjoyed it.
+The undressing is the hottest part. She's towing him by his shirt, the jeans stuck at her hips, the sock hopping, him not helping and enjoying every second. It's funny and charged at once. "She'd have burned the house down for him." Her body publishing the five-night number in one embarrassing rush is good too. The green satin she's wearing made me think of the panties in his drawer, which she doesn't know about. Then the thong lands on the long table in his bedroom, "she never looked to see where it went." The bench is under that table, and that's the dramatic irony doing its job. Nobody will remember the bench but me.
 
-GATE 38 — The New Ordinary
+The pizza is long. I skimmed some of the cooking, again, though "cotton candy and a bowl of cut strawberries" is a nice line.
+
+The shirt is the real beat. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and give it back full of him. It's tender, a bit pathetic, and a little frightening, because her whole sense of him is now smell and shirts and a drawer, and none of it is a word. His open face in return is lovely. He still doesn't say it.
+
+Randi isn't here, and neither is any fallout from MIRANDA or the photo. Nothing moves. I want the plot to start pushing.
+
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 7
+NEXT: 7
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He grated the cheese over it himself, a pale wet ball of it he unwrapped from paper." The pizza assembly ran long.
-WHY: The clumsy, laughing undressing is the best bedroom writing in a while, and the washed shirt is a tender, slightly alarming ask he meets perfectly. It's another idyll with Randi offstage, but I'm still in.
+ALMOST-STOPPED: "He turned a round of dough out of the bread machine onto the floured white laminate and worked it under the heels of his hands" (the long pizza walkthrough)
+WHY: The stuck-jeans undressing is funny and hot, and the washed shirt is a tender, aching ask. But it's another glow chapter with no turn, and the cooking passage is a skim.
 
 LEDGER
-+ LOVE: The jeans stuck at her hips, the white socks, "You're not helping." "I'm helping." Sex with no one performing.
-+ LOVE: She washed the flannel, it lost his smell, and she asks him to wear it all weekend. He puts on two shirts.
-+ FEAR: She wants him to fight for the nights and he never will; he only opens the door, so the gap between his deeds and his silence keeps growing.
-+ SUSPICION: Her five nights away were the first time she put school ahead of him, and a cold snap from outside (Randi, her father, Cassie) may be coming now that she's pulling back.
-~ F8.3 DEEPENED: She hands him a new intimacy, her need for his scent, and he receives it without a word.
-~ F7.3 DEEPENED: Even her study nights are a managed concession, and Cassie still isn't in the room.
++ LOVE: The washed flannel, "I need you to wear it for me," and him wearing two shirts in his kitchen because she asked.
++ LOVE: The jeans stuck at her hips and her towing him by the shirt, funny and hot with him not helping.
++ FEAR: Vee called the five nights off herself and wanted him to fight for them, but he never asks, and she's reading that as grace until it breaks.
++ SUSPICION: The thong landing on the long table in the bedroom is a setup, and the bench under it will matter soon.
+~ W30.3 DEEPENED: Another glow chapter with no turn, so the stall is real and I need a plot move.

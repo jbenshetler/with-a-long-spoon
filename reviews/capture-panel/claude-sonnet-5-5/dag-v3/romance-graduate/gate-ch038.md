@@ -1,30 +1,29 @@
-*capture-dag-v3-grounded · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 6f8ebfb6fbff · 2026-11-02*
+*capture-dag-v3-grounded · gate ch038 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 3edc59081208 · 2026-11-06*
 
 REACTION
 
-This is the chapter the whole book has been circling, and it's short on heat but it hurts in the right place. Vee builds her sentence, "I had been eating crackers my whole life, and you fed me a meal," because she can't say *I love you* before he does. He answers "I love how good we are together," and then "What your body does." My stomach dropped. She offered him her heart in a coded form, and he gave back the body. The blurb's whole ache, finally on the page, and the narrator mostly lets it be. The small "wait" behind her breastbone is nicely done, and so is the dryer scene where she lets herself half-know it and puts it on the pile.
+Oh, that stings, and it's the first chapter in a while where the plot actually moved. The "I love you" that Vee can't say comes out as a built sentence about crackers and a meal. Pace's answer is "I love how good we are together," and then "what your body does." She says gratitude and he hears sex, and the book never stops to tell me so, which I appreciate. The two held breaths are the best touch in the chapter. He heard it, started two answers, and put both down. He's not oblivious, he's choosing. That's worse than the blindness I'd been giving him credit for. The kiss held a beat too long is him managing her.
 
-His double breath and the hand that starts two responses and puts both down are the best detail. He heard her. He chose the safe sentence. So he isn't oblivious, he's withholding, and that's more interesting and more damning than the "he's an idiot" reading I've been half-holding. I'm also angrier at him now. The Daphne wound explains it, but it doesn't cover it.
+Her dryer-room reckoning is exactly right: "the words went through him first." She can't ask, because asking is saying it. The pile of small repairs she doesn't look at is the blurb's dread made physical. I'm furious for her. I'm also a little irritated that she shelves it so fast again. Fine, but I want the shelf to overflow.
 
-The Cassie dinner is good: the dad pricing the dress, "weird is worse than wrong," "Both. Probably both." Cassie gets to be the one with the question again. But the lies to her mother and the cropped photo start a pile of small managements that I can see stacking up.
+The cafeteria opener is a recap-heavy bridge. The crop in the photo her mother carried is a good detail, the parents seeing only the top half of a girl who's mostly bottom-half secrets. Cassie's "that you can't say, or that you don't want to?" is quietly the best line there. Dad pricing the dress, fine, but it runs long.
 
-Gripes: the narration over-explains again ("the two things had not been the same shape," "she had been received warmly"). That nod to the title is too on the nose, and the cracker-to-meal sentence is a little precious for something she'd rehearsed for weeks. Also, zero heat and no Randi, a second quiet chapter in a row from Vee's side. I'm not leaving, but I need the bill to come due.
+Heat is basically nil, and I'd have wanted one touch of it, but the ache substituted. Still no Randi at all, and I don't care as much as I did, because this chapter finally scratched at the wall. The ending summarizes its own meaning a little ("the sentence retired into her body"), and I'd have trusted me to get it.
 
-GATE 39 — Cropped
+GATE 38 — Cropped
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "The two things had not been the same shape. She let the *not the same shape* form in her and then she did not finish the thought" — the narrator explaining the subtext I'd already felt.
-WHY: Her coded love sentence meeting his "I love how good we are together... what your body does" is the book's central ache landing at last. It's quiet, with no heat and no Randi, but it's the sharpest crack in Vee's certainty so far.
+ALMOST-STOPPED: "He'd think it was weird. In some ways weird is worse than wrong." (the long father-pricing monologue at the cafeteria)
+WHY: Her careful "crackers and a meal" sentence meeting his "I love how good we are together," with his two held breaths in between, is the turn I've wanted. No heat, but the ache earned it, and Vee finally feels the crack.
 
 LEDGER
-+ LOVE: "I had been eating crackers my whole life," and Pace's double breath, the hand starting two answers and putting both down.
-+ GRUDGE: Pace heard her, chose the safe sentence, and gave her "what your body does." Understandable, but I'm angry anyway.
-+ FEAR: Vee has filed this under things she won't ask about, and the pile of small repairs is getting heavy.
-+ LOVE: Cassie's "Is it that you can't say, or that you don't want to?" and "Both."
-~ F32.3 DEEPENED: She tried to prompt the saying with a coded sentence and got the body back, so the gap is now on the page.
-~ S33.2 DEEPENED: The dryer-room "not the same shape" is the second crack in her certainty.
-~ F4.1 SHIFTED: Cassie gets a full scene and the right question again, and Vee still can't answer her.
-~ G34.4 FADED: the cooking sequences let up here, and I've stopped caring about the dates.
++ FEAR: Pace heard the love in her sentence and chose to answer with sex-talk, so the silence is deliberate, not blindness.
++ LOVE: The two held breaths and the half-started answers in his hand on her shin.
++ LOVE: Cassie asking "is it that you can't say, or that you don't want to?"
++ WAITING: Vee's pile of small repairs overflowing, and whether she ever asks him straight.
+~ F37.3 DEEPENED: She wanted him to fight for the nights, and now she can't even say the word, so she reads his silence as a rule.
+~ F32.3 DEEPENED: Her kind reading of his silence finally shows a seam in the dryer room, though she shelves it.
+~ W32.6 DEEPENED: She tried to prompt the word with a gratitude sentence, and he answered with "how good we are together."

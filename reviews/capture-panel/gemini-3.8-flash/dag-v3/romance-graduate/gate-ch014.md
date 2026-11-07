@@ -1,22 +1,25 @@
-*capture-dag-v3-grounded · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7e1448d8aee7 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch013 · history ch001..ch013 · ledger no seed 1e82dd3111ba · 2026-11-02*
+*capture-dag-v3-grounded · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7e1448d8aee7 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch013 · history ch001..ch013 · ledger no seed a3d2a39a6257 · 2026-11-06*
 
 REACTION
 
-I am sitting here with my chest heaving and tears in my eyes. *That* was the chapter. That was the exact, transcendent, filthy, heart-shredding thing I have read hundreds of romance novels hoping to find.
+I think I stopped breathing somewhere around the inside seam and didn't take another full lungful of air until the final sentence.
 
-The psychology of shame! Sweet Jesus, Helen Rivers understands female embodiment in a way that feels like an autopsy. That entire sequence on the riser—the slow, horrifying, involuntary physical betrayal of her own arousal soaking through the pale satin, the thumbprint turning into an undeniable dark patch right at eye level, her mother’s puritanical voice hissing *stripper* and *floozie* like an iron brand—I felt that humiliation in my own guts. Every woman who has ever felt "too much," who has ever felt like her appetite or her body or her desire was an embarrassing, grotesque secret she had to police and tuck away into bulky sweaters, was standing on that wooden box in the sunroom.
+I am completely, entirely undone. What Helen Rivers just did with a wooden riser, a coil of measuring tape, and a box of dressmaker's pins is hotter, more devastating, and more psychologically profound than almost every full-blown, explicit sex scene I have read in five years of romance binges.
 
-And then the turn.
+The terror of being *seen*. Every woman who has ever lived in a body that was "too much" for the clothes, for the sport, for the mother who told her to cover up—we felt that in our marrow. Vee standing on that box, unclothed in the flat afternoon sun, fighting the ugly generational word *striker* or *floozie* echoing in her ears, praying the heat in the house would explain her hard nipples, and then... the wetness.
 
-She screwed her eyes shut, bracing for the disgust, bracing for the gentlemanly lie, bracing for the cruel joke of her own want... and she opened her eyes to find him on his knees, craning his neck *all the way up*, ignoring the wet satin entirely, just looking at her face with pure, open, helpless gladness. Waiting for her. Smiling at her like she was an unexpected gift.
+The sheer, agonizing vulnerability of the soaked satin. I felt physically sick with empathy for her. The sheer college-girl panic of *can he tell, did he see, he’s going to come around to the front and see the giant dark thumbprint of my own arousal.* It is the most humiliating, exposed thing imaginable—her body loudly betraying how much she wants him when he's just supposed to be doing a task. And then she screws her eyes shut, bracing for the disgust, bracing for the polite male pretense, bracing for the joke...
 
-I almost sobbed. He didn't exploit the exposure, and he didn't condescendingly pretend it wasn't there; he honored her humanity first, which completely evaporated her shame. And watching her physically transform on that box—the shoulders going back, the chin coming up, rising onto her tiptoes, suddenly realizing she has power—was breathtaking.
+And she opens her eyes to find him on his knees, craning his neck all the way up, waiting with a pure, radiant, helpless smile on his face.
 
-And then she *spent* it! God, the sheer erotic voltage of Vee realizing she can rattle this unflappable, contained mathematician. The deliberate breast to his jaw! *"Oops. Sorry."* And Pace going scarlet to his roots, having to bite his lip to keep from laughing, catching her with the pin—and then *kissing the bead of blood off her ribs*.
+*He hadn't looked down.*
+I literally started sobbing. He didn't gawk at her crotch. He didn't make her shame into a dirty joke or a cheap conquest. He kept his eyes locked on her face, waiting for her to come back to him, completely delighted by the whole magnificent fact of her. In that single beat, he didn't just disarm her—he handed her the dignity her mother spent twenty-one years stripping away. The way she physically straightened, the way the apologetic hunch dropped out of her shoulders, rising on her tiptoes... it was an emotional rebirth disguised as a dress fitting.
 
-*"Keep still."* Low, rough, strained to the breaking point. A clothed, kneeling man holding pins between his lips, fighting for his life not to devour a girl who is practically daring him to ruin her, because he made a promise to make her a gown for *her* night and he refuses to take the easy out. That is top-tier, god-level restraint. It is ten times hotter than if he had shoved her down on that cutting table and ripped the satin off.
+And THEN the shift in power! God, it was delicious! Watching Vee realize she held the reins, leaning her bare breast into his cheek on purpose—*“Oops. Sorry.”*—and watching this massive, contained, controlled powerlifter mathematician blush crimson to his ears! That tiny pin prick, and him instantly bending down to kiss the drop of blood on her bare ribs... I had goosebumps over my entire body.
 
-And the tragedy hovering over all of it: Vee thinking Pace walked right past Randi without looking. Vee thinking she was picked out of the clear blue sky. She has no idea. She is falling into this man so completely that there will be no surviving the wreckage when the truth comes out.
+And the restraint! That low, strained *“Keep still.”* He wanted to drop the pins, tear the satin off her, and take her right there against the platform. You could feel the sheer, trembling force of his self-control vibrating off the page. But he didn't, because he made a promise to make her the dress. He prioritized honoring her night over his own immediate gratification.
+
+Pace is completely, hopelessly gone for her. The tragedy, of course, is that the walnut bench is still sitting under a tablecloth two rooms away, and Randi is waiting back on campus. But in this room, in this light, Vee Thorne was worshiped down to the stitch. An absolute masterpiece of a chapter.
 
 GATE 14 — A Round
 DECISION: CONTINUE
@@ -25,10 +28,12 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from agonizing physical shame to dizzying, triumphant erotic power was absolute perfection. Pace kissing the pinprick on her ribs while holding his restraint by a thread wrecked me completely.
+WHY: The agonizing psychological tension of the soaked satin followed by Pace looking up at her face with pure delight—and then her testing her power against his blushing restraint—was an absolute tour de force.
 
 LEDGER
-+ LOVE: Pace craning his neck up from his knees to meet Vee's eyes instead of looking at her wet satin
-+ LOVE: Vee leaning her breast into Pace's cheek on purpose and making him blush to his roots
-~ [F8.2] DEEPENED: Vee being entirely healed of her shame by Pace makes her absolute emotional dependence on him complete—the betrayal will be total devastation
-~ [W13.2] ANSWERED: Pace measuring Vee down to her undergarments in the bright light of the sunroom
++ LOVE: Pace waiting on his knees with his eyes fixed entirely on Vee's face, refusing to look down at her exposed arousal and completely dismantling her lifelong shame.
++ LOVE: Vee discovering her own sexual power on the platform, deliberately pressing her bare breast to Pace's cheek and making him blush scarlet.
+~ F5.1 DEEPENED: Vee is not just falling in love; she has been spiritually and sexually remade by this man, making the inevitable reveal of the "pointing game" a fatal emotional blow.
+~ L1.2 DEEPENED: Pace's incredible restraint—choosing to finish the dress for her induction instead of taking the easy sexual surrender she was offering him.
+~ S12.3 CONFIRMED: Pace is operating entirely on his own now; this level of bespoke, breathtaking worship has nothing to do with Randi's voyeuristic game.
++ WAITING: The moment the dress is finished, and what happens between them when she steps off that riser for good.

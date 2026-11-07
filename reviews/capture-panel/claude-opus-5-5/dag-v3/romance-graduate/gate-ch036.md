@@ -1,39 +1,43 @@
-*capture-dag-v3-grounded · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch036 · history ch001..ch036 · ledger no seed ce4010e4347f · 2026-11-02*
+*capture-dag-v3-grounded · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 4dcd987b8bf2 · 2026-11-06*
 
 **REACTION**
 
-I turned the page expecting the drawer. Randi spent the morning with Vee's green panties clenched in her fist, cried and called it "hormones," and left Vee's drawer standing an inch open. I wanted to see whatever face she brought to stats after that. Instead I got a semester project on PPP loans. For about two pages I honestly thought I'd picked up a different book. A professor checking his slides "like a man checking the pressure in a tire," a group splitting up the work, Cassie's thesis about federal money. I was skimming and wondering where the heat went.
+Okay. I need a minute with this one, because I can't tell whether I just watched the book change gears or lose the plot.
 
-Then the tag said MIRA, and I sat up.
+Last night I closed the book on the drawer standing out an inch, the untouched coffee, and Randi coming apart in his bed holding Vee's panties. I wanted Vee's Monday, the stats class with Randi tucking her hair back and whispering "still full of you." What I got was a group project on pandemic loans. For about a page and a half I really thought I'd picked up the wrong book. When "Cassie wanted PPP" arrived, my thumb was hovering over the library return button. I've been grumbling since chapter 27 that the stats lectures were the theme announcement. Now the theme has a slide deck and a 25% weight. "Here they argued with data, not with analogies." Really? The book is winking at me about its own analogies in the chapter literally called "The Outlier."
 
-Randi going still is the best thing in the chapter: "the withdrawal of motion." For thirty-six chapters I've watched that face hold, through the bench, the mirror, and the drawer. It just broke over four letters in a glass room, and the person who saw it break was Vee. "Watching the person and not the page." Vee isn't the girl at the coffee shop who couldn't remember what they talked about anymore. She's reading Randi the way Pace reads people. She caught that "cheating bastards" came out ragged, said for the first time, and aimed too close to be about strangers. Then she slid the laptop over and gave Randi somewhere to put her hands. I loved her for that. It's the kindest thing anyone has done for Randi in the whole book, and Randi doesn't even know it happened.
+Cassie's dad got laid off in 2020, and Randi's dad took several loans. The one point off by itself in the white turns out to be MIRANDA. That's a lot of coincidence for a book that's been so careful. It's the bar blonde all over again: the plot handed to the characters by a device instead of grown out of them.
 
-Miranda. Mira means *look*. I'm not saying that out loud to anyone, and I'm keeping it.
+Here's what kept me reading anyway. It's the first time in thirty-six chapters that Vee knows something about Randi that Randi doesn't know she knows. Randi has been collecting Vee piece by piece since the library steps: the wet satin, the thumb behind the knee, "he checked," the uncropped photo. Now Vee gets one piece of Randi, and she doesn't take it. "She did the one useful thing there was, which was to give Randi somewhere to put her hands." She slides the laptop over, hands Randi the busywork, and never says the name. That's the opposite of everything Randi has done to her, and Vee doesn't even know there's an opposite. I loved her for it, and it hurt. "Randi had no idea she'd been looked at." That's the bench in a glass room. The woman who can't stand being seen gets seen at her worst, by the one person kind enough to pretend she wasn't.
 
-What chilled me is the inversion. Every single person in this book has been keeping something from Vee, and now Vee is keeping something from Randi, out of pure love, "then or after." She's joining the club of people who protect someone by not telling them. It's the same silence Pace keeps, with better motives. I also immediately thought about the couch. Vee tells Pace everything. Is this going to the house in the trees? Does Pace end up knowing where Randi's Mercedes comes from? It also makes Randi's mother's egg whites, the bracelet she never takes off, and the house on its lawn read differently. All that polish was bought with this money, and maybe her father's men really are the "cheating bastards."
+And MIRANDA. Pace gave Vee "Peter" by the fire, as a gift. Vee gets "Miranda" off a government page, as a wound. I noticed the rhyme and I liked it, though the book was nice enough not to point at it.
 
-What bugged me: this is lecture slide number six, and it's the outliers *again*. The professor already did outliers back in the practice-room chapter, and now he says "points that sat off by themselves... set those aside if you could account for them." I get it, Randi's the outlier, everyone's an outlier. "Here they argued with data, not with analogies" felt like the book winking at its own habit, and I didn't laugh. The coincidence is contrived too: the one county, the one company, in a class project. And the last paragraph, "easy to see if you knew to look for it, invisible if you didn't," explains the chapter right after it ended. Cassie gets to be right, which I enjoyed, but she drank nothing and never saw the screen. She's still on the outside, even when she wins.
+"Cheating bastards." It's plural, and the book makes a little fuss about the plural. Is that the father and the mother? The egg-white mother with "a knife in it"? Suddenly the Mercedes, the loafers bought without checking the price, and the never-opened wine list all have a smell. Randi has been paying for Vee's whole education in glamour with that money. And Vee, still filing Randi under Swiss schools, now has a rich daddy who cheated, and she's casting Randi as the innocent daughter "dealt a rotten thing." Maybe. I'm not sure Randi didn't know. The ragged way it came out makes me think she didn't, but she was "aiming the whole picture" at her own county. She wanted to prove him good. That's a girl who needed him to be good.
 
-There's no heat at all. After last chapter I don't need any right now, but if the next chapter is quiet too, I'll start counting.
+Also, Cassie and Randi are now on opposite sides of an actual argument with Vee in the middle chair, "loved them both." That's the triangle again, with Cassie as the third corner instead of Pace. I hadn't seen that coming. It's sharp, I'll give the book that.
 
-GATE 37 — The Outlier
+Gripes: zero heat right after the hottest chapter in the book, and the professor drone at the top was throat-clearing. "Not that she let herself think about it much," and then she thinks about it for a whole paragraph of explanation. And twenty chapters without Randi's head, in the one scene where I'd have paid anything to be in it. I'm not quitting. But this needs to turn out to be about Randi's wound, and not an op-ed wearing her clothes.
+
+GATE 36 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 5
 NEXT: 7
 HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "Cassie wanted PPP. She'd wanted it before the professor finished saying *means something*" (pandemic loans in my erotica, right after the drawer, and I nearly skimmed to the end)
-WHY: The setup is clunky and contrived, and it's another outlier lecture. But Randi's face stopping cold and Vee choosing to protect her in silence is a real turn: Vee sees the woman behind the mask, and now she's keeping a secret of her own. I want the drawer fallout and I want to know whether this goes to Pace.
+ALMOST-STOPPED: "Cassie wanted PPP." That's where the book stopped being about bodies and started being about a policy paper, the morning after the drawer.
+WHY: The device is clunky and convenient, and it skipped everything Chapter 35 left burning. But Vee seeing Randi at her worst and handing her somewhere to put her hands is the first time the gaze has run the other way, and I want to know what that costs everybody.
 
 LEDGER
-+ SUSPICION: "Cheating bastards," plural and ragged. Randi didn't know about her father, and the Mercedes, the bracelet, the whole polished life were bought with this money. Her family is the real thing she's been building a face over.
-+ LOVE: Vee watching the person and not the page, then giving Randi somewhere to put her hands and never saying the name.
-+ FEAR: Vee is keeping Randi's secret, and she tells Pace everything. This will end up at his table, and Randi will find out that Vee saw.
-+ FEAR: The project goes up in front of the class with that point on the graph, and Cassie is going to keep saying "that's the whole thing" until somebody explains it.
-+ GRUDGE: The outlier lecture a second time, a convenient single-county coincidence, and a last paragraph that explains the chapter I just read.
-+ WAITING: Randi's face after the drawer and the panties. The book skipped straight past it.
-~ G1.6 DEEPENED: "Easy to see if you knew to look for it" closes the chapter by explaining it.
-~ G20.5 DEEPENED: Outliers again, now the sixth theme slide, and it's the plot this time.
-~ L1.1 DEEPENED: I watched Randi's face fail over four letters. I'm more protective of her than ever.
-~ S28.5 SHIFTED: Vee is holding things back again, but now it's for Randi's sake, not her own.
-~ L4.1 DEEPENED: Cassie with her laid-off dad, stated flat and with "no handle left out," and right about the data.
++ GRUDGE: A PPP group project and a too-convenient outlier, landing right after the drawer cliffhanger. The plot was delivered by device, like the bar blonde
++ LOVE: Vee giving Randi "somewhere to put her hands," never saying the name, and keeping the secret as a kindness
++ SUSPICION: "Cheating bastards," plural. Randi's whole glamour runs on her family's dirty money, and her mother is in it too
++ SUSPICION: Randi aimed the project at her own county to prove her father good. She needed him clean, so maybe some part of her already wondered
++ FEAR: The presentation goes up in front of the class with MIRANDA's county as Cassie's star example, and Randi gets exposed in public, or she quietly sabotages the slides
++ WAITING: Whether Randi ever finds out Vee saw, and what it does to a woman who can't stand being seen
++ LOVE: "Miranda" found on a government page, the bad-luck twin to "Peter" by the fire
+~ G27.5 DEEPENED: The outlier lecture became a literal outlier, with a wink about "data, not analogies"
+~ W35.6 DEEPENED: The book skipped Vee's side of "still full of you" entirely
+~ F35.1 DEEPENED: Not a word about the drawer. Randi just shows up bright and normal, which is scarier
+~ W18.5 DEEPENED: Twenty chapters without Randi's head, in the scene where her face went white
+~ F4.2 SHIFTED: Cassie and Randi are now on opposite sides of an actual argument, with Vee in the middle chair
+~ L4.4 SHIFTED: Vee finally knows something real about Randi, and it's not Kentucky. She still has her filed as a victim of glamour

@@ -1,37 +1,39 @@
-*capture-dag-v3-grounded · gate ch045 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 949e5c0dcfb8 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 4a27f0f07e5e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch045 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed cf474154db14 · 2026-11-06*
 
 REACTION
 
-Oh, the book finally paid the bill. And it paid it in the dumbest, most perfect way: Vee runs to Randi with her heart in her hands, and Randi hands her a stiletto and a trench-coat plan to go win back the man Randi is sleeping with.
+Oh, Vee. She's wearing a breakup as a plan, and the plan is a coat with nothing under it and stilettos, handed over by the one person who knows exactly what that does to Pace. Randi is steering her back into his arms, and she's doing it warmly, and it's the best and worst thing she could do.
 
-The scene is vicious in how well it works. Randi isn't lying, which is the horror. "He's a boy holding himself still so it won't show how much you got him." That's true. She knows Pace better than anyone alive. She's coaching Vee through his own silence with real knowledge, and sending her to his door half-naked with a pair of shoes that make Vee's body answer before her mind agrees. I felt the ache of Vee's whole "and nothing under it," the mother-voice flaring, the "slutty" confession, and Randi's "that's the bravest thing a woman can do." It's the shame-and-heat engine again, and it is Randi's hand on the lever. Randi knows the shame is the lock and the key.
+The counseling scene is Randi at her most lethal. "Cornered" is a good reframe. It's also a lie by omission, because Randi knows the silence is the Daphne vow, and she doesn't say so. She tells Vee the fear is a liar and that Pace is "half-starved for the one he's got." I believe that's true. I'm just furious who is saying it. "Name it or lose me" is the exact fight, and Randi turns it into his wound instead of Vee's.
 
-The Sheri blonde getting talked down is lovely. "Don't you dare hand him to a woman who doesn't even have a face." Randi is soothing a rival she knows is harmless, while Vee has no idea the actual rival is holding her wrist.
+The heat is the shoes. Vee's nipples tightening at the straps and her instantly explaining it away as tonight's nerves is the old pattern, her body running ahead of her story. And the plum polish she kept up for a man who didn't call, her thumb rubbing the toe while Randi talks about Gstaad. Lovely.
 
-And Gstaad told at the bed, where Randi stops: "And then it got very late, and we went up." Vee reads discretion. I read the sandwich. "Everywhere but the bedroom, and the bedroom's the room I actually live in" is the truest thing Randi's said to her face, and Vee laughs.
+Then the kiss. Vee starts it, with both hands on Randi's face, and stays. After the double goodbye kisses all those chapters, this one is hers, in full, and the switch to Randi's head is the payoff I wanted. "Four months of being the one who leaned in." The idiotic laugh, the hand on her own mouth, the cold mug. I've waited for Randi to be undone, and she is, and it's lovely.
 
-Then the kiss. Vee initiates, both hands on her face, stays. And the Randi section after, with the back of her hand to her mouth like she's fifteen, is the best half-page in a while. She's glowing, giddy, and then Brooke, kind as a guillotine: "You need to choose." Lauren Pike. The sorority finally has teeth. I've been waiting on Brooke since ch2.
+Brooke's "You need to choose" lands as a threat from outside. Randi's lie about Gstaad being "perfect except the bedroom" is the one true thing she's said this week, and Vee thanked her for it.
 
-The grumbles are small: Vee's rationalizing the shoes is a touch explained, and the opening flight was long. But this is charged, structurally a turn, and it ends on Randi cornered.
+Grudges: the flight opening is a little long. And "That's how she sounds at home" is the book pointing at the accent again.
 
-I'm terrified for the doorstep scene. I need it now.
-
-GATE 46 — My Friend Randi
+GATE 45 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "The cabin had been dark for hours and the drone had gotten down into her bones" — the long flight-and-drive opening before Randi.
-WHY: Randi coaching Vee to show up bare under a coat for the man they share is the engine at its cruelest, and Vee kissing her first, then Brooke's "You need to choose," finally raises the stakes. I want the doorstep tonight.
+ALMOST-STOPPED: "Vee had been crying on her shoulder ten minutes ago. She looked at Randi's mouth." (the book nudging me again, though it's small)
+WHY: Vee kissing Randi first, and Randi coming undone alone in the foyer, is the turn I've waited all book for. Randi sending her to Pace in a coat and stilettos, with Brooke's ultimatum right behind, has me desperate for tonight's doorstep.
 
 LEDGER
-+ FEAR: Vee is going to Pace's door tonight bare under a coat in Randi's shoes, and the plan Randi wrote could patch things without the word ever being said.
-+ LOVE: Randi's hand to her own mouth like she's fifteen after Vee's kiss, giddy and caught.
-+ LOVE: "Everywhere but the bedroom, and the bedroom's the room I actually live in."
-+ SUSPICION: Brooke's "You need to choose" and Lauren Pike mean the house will act against Randi soon.
-+ WAITING: The doorstep scene tonight, Pace opening the door to Vee in the coat and heels.
-~ F2.1 DEEPENED: Brooke has now said it outright: she's seen how Vee looks at Randi, and Randi must choose.
-~ W44.3 ANSWERED: Term hasn't started, but Vee ran to Randi at once, and Pace hasn't moved first.
-~ S33.2 SHIFTED: Randi talked Vee out of the doubt with real knowledge of Pace, so the crack is patched for now.
-~ F41.2 RESOLVED: Vee took the ache to Randi at last, and Randi turned it into a plan.
++ FEAR: Vee turns up at Pace's door in a coat and nothing else, in Randi's shoes, and his silence swallows the gesture again without a word
++ LOVE: Vee's hands on Randi's face and the kiss that was hers alone, and Randi alone in the foyer with the back of her hand on her mouth
++ GRUDGE: Randi coached Vee through "cornered" and knew the real reason for his silence, and said nothing
++ SUSPICION: The black stiletto straps are Randi's own heat leaking, the same way the knee-and-thumb fitting was
++ WAITING: Tonight at Pace's door: what he does with a bare woman in a coat who still hasn't heard the word
++ WAITING: Randi's answer to Brooke's "you need to choose"
+~ S2.3 DEEPENED: Brooke has now said it outright, she's seen how Vee looks at Randi and the house won't stay quiet
+~ F2.1 DEEPENED: Brooke has put the ultimatum on the table, and I fear it
+~ W43.5 ANSWERED: Term hasn't started but the Vee-and-Randi reunion happened, and she told her about the fight
+~ F9.1 DEEPENED: Vee skipped Cassie's empty room and went straight to Randi's
+~ F42.3 DEEPENED: Randi kept the lie going, offering only the sandwich-eaten-fast version of Gstaad
+~ F6.3 DEEPENED: Randi's want is now loud, and Vee started the kiss
+~ F41.1 CONFIRMED: Vee did go to Randi, and Randi's turning the breakup into a reunion script

@@ -1,37 +1,42 @@
-*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 22ba33581cf8 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 7d8d7712927f · 2026-11-06*
 
 REACTION:
 
-*“Words are cheap, and you still won’t spend them on me.”*
+THE BLURB. THE JACKET COPY WORD FOR WORD.
 
-GOD. I felt the breath get kicked clean out of my lungs. My hand was flat against my sternum and my mouth fell open. What an absolute, shattering, brilliant line. It is the sharpest, most devastating thing Vivienne has ever said, and it cut right through all of his terrifyingly patient, bespoke architecture like a razor blade.
+*"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."*
 
-Look at how she handled this confrontation. She didn't let him kiss her. She didn't take off her coat. She left her bag in the car. She stood right on the mat by the front door—refusing to let his food, his warm house, his poured wine, or his unhurried hands drug her into submission before she got her answer. She brought the cold straight into his sanctuary.
+I am sitting here with my knuckles pressed against my teeth, trying not to scream.
 
-And Pace—Peter! Look at what he does when he’s backed into a corner! He doesn't panic, he doesn't shout. He relies on his terrifying, exact mathematical logic: *"Do any of your friends have a relationship you'd rather have than this one?"*
-It is SO him. It’s brilliant, it’s completely true, and it is a total deflection. He’s trying to solve a question of the heart with an inequality equation: *X is greater than Y, therefore X is sufficient.* And Vee didn't flinch! She looked him dead in the eye and refused to let the comparison stand.
+*"Words are cheap, and you still won't spend them on me."*
 
-And then he drops the line from the back cover of the book: *"Words are cheap. Believe what I do."*
-The jacket thesis landed right between her ribs. He genuinely thinks his monastic devotion—the drawers cleared, the dresses sewn, the hours of warming the house, the unhurried orgasms—is enough. He thinks actions exempt him from the terrifying vulnerability of speaking a plain truth out loud.
+WHAT A LINE. Oh, god, what an absolute, devastating, magnificent line! That hit him right between the eyes. You could see the exact second the air left his chest. Vivienne Thorne did not flinch. She left her overnight bag in the car, kept her winter coat buttoned to the throat, stood on the welcome mat, and refused to let his warm house, his simmering spiced chicken, his poured wine, or his incredible, reverent hands seduce her into compliance.
 
-And when she delivers that kill shot—*and you still won't spend them on me*—something in him shuts. He crosses his arms. The monastic fortress closes. Because to give her the word "girlfriend" would mean dismantling the secret triad he and Miranda built. It would mean admitting that the house is a construct, that she was selected in a game, that he cannot offer her a clean, simple, monogamous title without blowing up his life.
+The tragedy of this entire confrontation is that *both* of them are telling their absolute, unvarnished truth, and their truths cannot occupy the same room.
 
-And that final beat! When she starts to cry and he immediately unfolds his arms and reaches for her—reaching to comfort her with his hands, using his physical touch to silence her longing yet again—and she runs. *"Not the hand in place of the word."*
+Pace giving her the best he has: *"You're the most important person in my life."* And asking if any of her friends have a relationship she’d rather have. It’s so mathematically rational, so profoundly male, and so heartbreakingly tone-deaf to what a woman actually needs to survive in the world! To Pace, a name is a cage, a cheap label people slap on mediocre, unexamined couplings. But to Vee—a girl raised on Ohio casseroles, a mother terrified of floozies, and a small town that demands to know what category you belong to—the lack of a name reduces the most transcendent intimacy of her life to: *"he feeds me and we have a lot of sex."* God, that cut so deep.
 
-She walked out into the freezing December dark, leaving him standing there in an empty, warm house with two glasses of wine poured and dinner on the stove. This is the breaking point. The silence broke them. I am in utter pieces and I need chapter 43 right now.
+And then the ending. The sheer discipline of her walking out! When his arms folded, that stubborn, defensive wall going up—and then dropping the second he saw her tears, reaching out with those big carpenter's hands to soothe her... and Vee refusing to take the hand in place of the word.
 
-GATE 42 — Believe Me
+She walked out into the freezing night. She left him standing there in a house he overheated just for her, with chicken on the stove and two glasses of wine poured.
+
+And tomorrow is Saturday.
+
+Tomorrow morning is brunch. She is driving back to the dorm tonight with no flannel, no boy, no label, and an open, bleeding wound in her chest. She is walking straight into Randi’s booth. I am holding my breath. Turn the page!
+
+GATE 41 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee standing on the door mat in her coat and refusing to let his food and touch soften her demand was an absolute masterclass in emotional confrontation. "Words are cheap, and you still won't spend them on me" shattered me completely, and watching her walk out into the freezing night broke my heart into pieces.
+WHY: The emotional confrontation was an absolute, devastating masterclass in dramatic payoff—Vee refusing to let Pace's physical tenderness substitute for a commitment and walking out into the cold was a breathtaking act of self-respect.
 
 LEDGER
-+ FEAR: Vee walking straight into Randi's arms to process this breakup, giving Randi the ultimate leverage to step in
-+ LOVE: Vee refusing to let his touch replace his voice—"Not the hand in place of the word"
-~ [F40.1] CONFIRMED: Vee's mounting desperation for a label finally exploded directly into Pace's face
-~ [L1.2] SHIFTED: Pace's terrifying patience has reached its limit; his refusal to speak has officially driven Vee out into the cold
-~ [F8.2] DEEPENED: Vee being this deeply in love with him makes walking away from his warm house an unbearable agony that will leave her completely shattered
++ LOVE: Vee's devastating comeback: "Words are cheap, and you still won't spend them on me."
++ FEAR: Vee walking out on Pace on Friday night means she is going to arrive at Saturday brunch completely emotionally shattered, walking straight into Randi's waiting trap.
+~ [F38.1] CONFIRMED: Pace's refusal to give their relationship a name or speak the word "love" finally broke Vee, driving her to confront him and walk out into the cold.
+~ [F39.1] DEEPENED: Vee officially walked out on Pace over having no name for what they are, setting up Saturday brunch with Randi to be an absolute emotional detonation.
+~ [W39.3] ANSWERED: Vee demanded to know what they are and explicitly laid out the fear of being reduced to "just sex" and good food with the door shut.
+~ [L1.2] SHIFTED: Pace's patience hit its absolute limit—folding his arms and refusing to spend words on her when his physical devotion wasn't enough to satisfy her need for a label.

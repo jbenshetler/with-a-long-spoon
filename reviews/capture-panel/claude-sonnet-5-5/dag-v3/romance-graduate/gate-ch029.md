@@ -1,29 +1,31 @@
-*capture-dag-v3-grounded · gate ch029 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 3dc6c64701d0 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch029 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed d520c15208fd · 2026-11-06*
 
 REACTION
 
-Finally, a chapter that's pure play. Vee reaching first, "I miss you," is a quiet turn. The air guitar through the window is the best thing she's seen of him. Peter-the-man, not Pace-the-wall. The chase with the stolen shorts is funny and a little breathless, and her flashing him is Vee's boldness, her own.
+Oh, this one is fun, and it's the first time Vee has had the upper hand in a scene. She texts first. She laughs at him through the window. The air guitar to "Thunderstruck" is the most human thing Pace has done on the page, and I loved catching him unguarded. Then the chase, the shorts waved like a flag, the flash. Vee being quick and brave and silly in a house that used to make her careful is a real turn. She's playing now, not performing.
 
-Then the heat, and it's built right. "We find out" is her choice, and his hand leaving at "Don't" is the book's consent creed doing its best work. The ease that shames her, and then the finger held up and him looking at the wet like it's *true*, is the shame-and-treasure engine at full burn. The bet is a little cute, but the slow "for me" undressing and the quiet spank with no counting, nothing like Randi's story, is the payoff for the mouse. I clocked Randi's story rising in her head. Vee is now measuring Pace against a script Randi wrote, and the script was Pace's own hand. Delicious and awful.
+The heat is good, and I was with it. The bet is smart, because it lets her say yes without ever saying yes. The wetness being her old shame, and him looking at it like it's true and fine, is exactly the emotional intelligence I came for. "Slow. For me." and the juice and "wonderful" got me too. The scrunchies are lovely, a plain statement that he plans to be around.
 
-"Shame wants a witness" is the narrator explaining, and I rolled my eyes a little. Juice and "wonderful" are tender enough to be dangerous. "Treasured."
+But I'm uneasy, and I think I'm meant to be. Randi's closet story is in Vee's head: "would she have to count out loud?" She expects Randi's version and gets Pace's, which is gentler. So Randi's script is already being measured against the real thing. And "no Randi to be told" is the first time Vee wants a room with no witness. That's the first crack in the Randi pipeline. I didn't expect it and I like it.
 
-Saturday morning is a soft landing, the scrunchies a gentle, slightly possessive gift, "I'm going to start bringing a bag." But the antiperspirant, his smell on her instead of her own, is the vanishing thread again. And no Randi, no Cassie, no text. Two chapters running with no Randi on the page, and I'm itchy. The Halloween date is lying there unremarked too.
+Small grudges. The long middle with her denying "I don't enjoy it" runs a bit repetitive. The "Shame wants a witness" line explains itself to me. The scar gets another glance and still no story. And the title promises someone finds out something, but nobody does yet. The curry ending is soft, so I'm waiting on that.
+
+No Randi head, eleven chapters now. I'm resigned and still hungry.
 
 GATE 29 — We Find Out
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere"
-WHY: The play-fight turning into a consented spanking is hot and tender, and the quiet reality undercuts Randi's script. But it's another Vee-and-Pace idyll and I want Randi's head and the cost.
+ALMOST-STOPPED: "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere" (the book explaining its own subtext)
+WHY: The play, the bet and Vee saying yes by saying "we find out" are hot and psychologically exact. Pace caught unguarded is a gift, and the "no Randi to be told" slip tells me the pipeline is cracking.
 
 LEDGER
-+ LOVE: Pace's air guitar to "Thunderstruck" through the window, the wall caught being a boy.
-+ LOVE: His hand leaving at "Don't" and returning at "Yes"; "Slow. For me."
-+ LOVE: The juice, and "wonderful" said until she slept, treasured.
-+ SUSPICION: The scrunchies and the antiperspirant show her slowly being moved in and re-scented by him.
-~ F27.1 SHIFTED: The real spanking was quiet and unlike Randi's mouse story, so the gap between Randi's costume and Pace's hand is now visible to Vee.
-~ W27.6 DEEPENED: Still no Randi POV, and now she hasn't appeared in two chapters.
-~ S26.4 DEEPENED: She's stocking up on his things and his scent, and still has nothing of her own there.
++ LOVE: Pace's air guitar to "Thunderstruck," seen through the window, the first time he's been unguarded on the page.
++ LOVE: "Slow. For me." and the juice, "wonderful," and the stacks of green scrunchies, the care that says he plans to stay.
++ SUSPICION: "No Randi to be told" means Vee is starting to want one thing that's only hers and Pace's, and Randi will feel it.
++ WAITING: Whatever "We Find Out" means, whether it's Randi learning about the bench or Vee learning about the plan.
+~ F28.4 DEEPENED: Vee's want to be looked at and handled is growing, and this time Pace is feeding it, not Randi.
+~ W18.4 DEEPENED: Eleven chapters now without Randi's own head.
+~ S16.3 DEEPENED: Vee touches the scar again and still doesn't ask, and I'm still waiting for the story.

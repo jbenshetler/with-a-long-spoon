@@ -1,33 +1,31 @@
-*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch043 · history ch001..ch043 · ledger no seed e80db48640ce · 2026-11-02*
+*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 970788d689b4 · 2026-11-06*
 
 REACTION
 
-Vee's New Year's Eve, and the chapter hurts in the way I hoped. Having just left Randi alone in a hotel mirror, I get to lie in a twin bed beside this one, who is awake at 11:52. It's the same midnight, ten pages apart, two women each holding a phone and a secret. The text exchange is the best bit because I've now read both sides. Vee's "i'm here if you want to talk. or not" is so careful and kind. Randi's reply is "every word true, none of it the thing." Now I watch Vee read it as a glamorous girl with a billionaire. The irony is lovely and cruel. Vee even says "the only girl she could talk to about real things" while knowing none of those things are about her. It's the book's engine.
+Okay, so this is the same night as Randi's Gstaad chapter, told from Vee's twin bed, and I get why it's built like a mirror. Same New Year's Eve and the same text exchange, now seen from the receiving end. Last chapter I watched Randi write "you ANGEL" with a man asleep behind her and a face on over nothing. This chapter I watch Vee read it and envy a billionaire and a "wild weekend" that was a sandwich eaten fast. That's the best thing in it. The reader knows every word was true and none of it was the thing. Vee builds an entire fantasy out of it, and she builds it in the wrong direction.
 
-I also like that the brunch I was cheated of is now being answered. Vee never took the wound to Randi, and the walkout just sat there for three weeks. That's more painful than a brunch, and it makes sense for her.
+The room that "did not know her" is lovely and specific. The trophies, the little gold swimmers, the clarinet, lavender plugins. "The cold room kept watch over the girl who was gone" is a good last line.
 
-The blonde fantasy is the heart of it. She builds a rival out of spite, then puts her into her own best memory, the sheet and the fra diavolo, until she can't keep her own night. That's real interiority and sharp. The cruelest bit is that she's imagining Pace with a tanned blonde while Randi, who's black-haired and pale, is the actual other. It lands quietly. Sheri at Thanksgiving as the specific wound is good too.
+What I loved is that she sat on the MIRANDA record and still didn't say. She's holding the kindness, and she envies the mountains anyway. That's real. It's not cleaned up.
 
-The Gstaad envy is neat. She knows the money is poisoned, she saw the MIRA record, and she still wants the mountains. Honest.
+The part that hurt, and in a good way, is the blonde. She builds a rival out of spite, then the night with the fra diavolo goes blonde while she's still inside it, and she can't keep her own memory. That's a precise and cruel invention. And she doesn't know the truth is worse: he's been with Randi the entire time. She's jealous of the wrong woman, again. Same as ch23.
 
-The grumbles: it's long on the beige-days inventory (the casserole, Wheel of Fortune, the lavender plugins), and the narrator keeps telling me the door and the room and the name. No heat at all, and it's a third quiet chapter running. The "girl who was gone" closing is a bit polished. But "and what about Pace?" with nothing after it is a clean ache.
+But it's a long chapter of lying in bed. I know she's lonely and I know he hasn't named it, and I've now been told that five or six times. The "no name" ache is looping. The plot didn't move: no Pace, no Randi in person, nothing new. The recap of the pictures and the dress was a retread. I only stayed because the mirror structure paid off with the text. And the flashback block of two chapters telling me one night twice makes me want to get back to January and see what she does with it.
 
-GATE 44 — Old Acquaintances
+GATE 43 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 7
 HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "The days behind her ran together beige. The tree with the same ornaments in the same places" — the holiday inventory ran long before anything stung.
-WHY: Reading Vee's midnight right after Randi's hotel mirror is dramatic irony at full strength, and the blonde she builds out of spite is sharp. It's quiet and heatless, though, so I need January, Randi's table, and some movement.
+ALMOST-STOPPED: "She had no answer that would fit in this house. She was no longer sure she had one that fit anywhere." (the home-for-the-holidays inventory and the loop of the same ache)
+WHY: Watching Vee read Randi's every-word-true text and envy the wrong life is the dramatic irony I read for, and the blonde she invents is a cruel, exact touch. But it's another static night in bed with the same unnamed ache, and I want January to move.
 
 LEDGER
-+ LOVE: Vee building the spite-blonde and watching her take over her own fra diavolo night, "She could not keep her own night."
-+ LOVE: Vee's "i'm here if you want to talk. or not," read against Randi's reply on the same midnight.
-+ WAITING: The first day of term, Vee and Randi in Anthro, and whether Pace reaches out first.
-+ SUSPICION: Pace and Vee's silence across the break may end with him assuming it's over, and Sheri is the name Vee is afraid of.
-~ F42.4 SHIFTED: Vee didn't take the raw wound to Randi at all; she's sat with it alone for three weeks.
-~ W40.4 SHIFTED: The brunch never happened; the ache waits for term to start.
-~ G43.6 FADED: The skipped brunch makes sense now, since Vee never brought it to her.
-~ S43.5 ANSWERED: The text is Vee's careful offer, and she and Pace have not spoken since the walkout.
-~ W43.4 SHIFTED: No brunch before New Year's; it now waits on the first day of term.
++ LOVE: Vee reading Randi's "fairytale" text and envying a night I know was a sandwich eaten fast, the mirror of ch42.
++ LOVE: The blonde rival she builds from spite, and the fra diavolo memory turning blonde while she's inside it.
++ GRUDGE: Third static, heat-free chapter in a row, with the "no name" ache restated yet again.
++ SUSPICION: Pace's silent Christmas week may hold something real (Sheri, or his family wound), not just the blonde Vee invents.
++ WAITING: The first day of term, Vee and Randi face to face, and whether Vee tells her about the fight with Pace.
+~ W41.5 DEEPENED: Vee went home to Ohio and Pace sent nothing, so the fight just sits unresolved.
+~ F41.1 SHIFTED: She didn't drive to Randi. She texted her kindly and Randi answered with a lie, so the pull is still coming.

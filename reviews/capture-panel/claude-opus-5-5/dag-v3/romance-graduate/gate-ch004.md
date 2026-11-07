@@ -1,41 +1,41 @@
-*capture-dag-v3-grounded · gate ch004 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ef9323e0685c · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed e057cd7dc4dd · 2026-11-03*
+*capture-dag-v3-grounded · gate ch004 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e3a55476f74d · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed d89c61f28528 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-Finally, Vee's head. Four chapters in, and the jacket's heroine turns out to be a girl watching a lecture-hall door and pretending she isn't. I liked her right away. She writes the date at the top of the page "so that her hand would have somewhere to be." I've done that. Within a page I knew she was hungry the same way Randi is. The difference is that Vee knows it, and Randi locks it in a bathroom.
+Vee from the inside, finally, and she's not what I expected. I came in thinking "open, unguarded, the opposite of the face." She's actually a really good room-reader. She sizes up the whole café before she sits, she smooths over Cassie's flat little "Cassie" before she's even decided to, and she has a cardigan buttoned to the collarbone over the better shirt on purpose. She's starving too, just with different machinery. Randi portions food. Vee portions how much of her body gets seen, and her mother lives in her mouth ("Floozies," whole and in her mother's voice). Then comes that longer look at the bare stomachs, the thought that she'd wear it better than any of them, and the picture "closed itself." That's the inner life I wanted. She's vain and ashamed and hungry all at once, and the book doesn't apologize for any of it.
 
-What really got me is that I've already seen this collision from the other side. Last chapter I watched Randi line it up from thirty feet away like a dance move. This time I'm in the head of the girl who apologized, and she honestly can't tell who walked into whom. "Neither one did it." Oh, honey. She did. The whole chapter works like that. Every warm thing Randi does lands on Vee as a gift, and I know what's behind the face. The bit about the right pen. "I've decided." Her hand on the forearm. The bag touching Vee's bag. It's lovely and it's predatory, and I couldn't settle on which. I think the book doesn't want me to settle.
+The best thing in the chapter, the thing I'd text about: Vee hears Randi's accent and decides it's Switzerland, or Paris, a mother "with a different alphabet." It's KENTUCKY. And Kentucky only comes out of Randi when something moves her. So she talked in Kentucky for a whole hour at the high table. She's not running a play on Vee. She's moved, and Vee turns the one real thing Randi let slip into glamour. I put the phone down for a second. That's dramatic irony that works because the book trusts me to remember chapter 1, and it doesn't nudge me.
 
-My favorite thing, the one I'd text someone about: Vee hears Randi's accent, long esses and lifted a's, and decides it's Switzerland, or a year in Paris, or a mother with a different alphabet. **It's Kentucky.** We know it's Kentucky. In chapter one, Kentucky "came out of hiding when something moved her," so it's slipping out at the coffee shop with Vee, and Vee turns it into glamour. The girl who's dying to be seen is being seen, and the person looking at her gets it wrong in the most flattering way possible. I loved that. And Randi says "Yes, like the adjective" and nobody blinks. Randy. Ha.
+Cassie's "Goodbye, Vee" made my stomach drop. I already love her: shorts, yesterday's shirt, the cap, four words a day, and she's the only person who doesn't take the bait from Randi's "like the adjective" bit. She sees something. Vee smooths it over the way she smooths everything. I'm scared Cassie is the friend this book is going to cost her.
 
-Vee's own inner life is the real thing, too. The way "Floozies" shows up in her mother's voice, followed by "a longer beat of looking than the word accounted for": the sprinter's stomach, the low waistband. She's looking at women and putting it away as fast as Randi does. Then there's the cardigan she wears over the better shirt, and the fact that she knows she has more body than anyone in the room and keeps it buttoned. She and Randi are mirror images. One is all surface and nothing underneath gets out. The other has everything underneath and keeps the surface covered. I see now why this pairing could be explosive. That's what turns me on about this chapter even though nobody touches anybody, apart from that hand flat between her shoulder blades.
+Randi's side is almost harder to watch from outside. "There you are." Those are Pace's words from the bench, and now she says them to Vee. "Love you, girl." "I have a meeting," which I'm fairly sure means Pace's bed and a full debrief. "See you later" lands in Vee like a calendar entry. Vee is getting hunted and it feels to her like being chosen, and the worst part is that maybe she *is* being chosen. That's the jacket's line, every yes freely given.
 
-Cassie. I love Cassie. One word, "Cassie," and the bit falls flat on the floor. Then "Goodbye, Vee." She's the only one in the book so far who isn't charmed, and I trust her more than anyone. But the book underlined it. "The whole word, flat and finished, the word for a longer parting than a Wednesday." I got it the first time. It's an omen and it's waving at me. And "read chapter five, latent variables" made me roll my eyes a little. Cute, but I noticed it.
+Gripes. "Like a key in a lock," again? That was the closing image of chapter 1. Maybe it's deliberate, Randi's lock and now Vee's, but it reads like a tic. And the blank-transcript paragraph goes on twice as long as it needs to. "The leaning-in was the whole content" was enough. "The better thing" also gets said three times. And "latent variables" for Friday's reading is the author winking.
 
-The usual gripe comes back. The blank-transcript paragraph says "the leaning-in was the whole content" and then goes on another three sentences. It's a good idea and I'd already understood it. "She did not look at either fact straight" is the book looking straight at the fact for her. It's a lighter touch than the "please... please" stuff, but the habit is still there.
+This is a quiet chapter, no Pace and almost no heat, but it doesn't feel like a stall, because there's a new head to be in and the dread is real. Still, I've had two of the last three chapters with no sex. Chapter 5 needs to bring it.
 
-On heat: this is the second chapter out of four with no sex at all. It didn't feel stalled, because the dramatic irony is doing the work and the looking has a charge to it. But I want the next chapter to give me either Randi debriefing Pace (that "meeting" is him, I'd bet money) or Vee's body finally getting to be about Vee.
+1 a.m. text: "the new girl thinks the sorority queen's accent is from a Swiss boarding school and it's KENTUCKY and kentucky only comes out when she's MOVED. also her roommate said 'goodbye' instead of 'bye' and I'm not ok"
 
-1 a.m. text: *the new girl thinks randi's accent is from PARIS. it's KENTUCKY. also the roommate said "goodbye" like a ghost in a horror movie and I'm scared for her*
+## GATE
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not *bye* — the whole word, flat and finished, the word for a longer parting than a Wednesday."
-WHY: Vee has a real inner life, she's lonely and sharp and is hiding her own looking, and seeing Randi's charm from the receiving end, already knowing what's under it, is delicious. But this is the second chapter with no heat, the book still flags its omens and explains its points, and I need the charge to come back soon.
+ALMOST-STOPPED: "somehow the leaning-in was the whole content, and the words it had been leaning toward had not stayed. She had not been keeping the words. She had been keeping the feeling" — it keeps explaining after I've already got it.
+WHY: Vee has a real, contradictory inner life, and the Kentucky-as-Switzerland misreading is a gorgeous bit of dramatic irony. There's no heat, though, and the chapter leans on dread and charm. I want the next one because Cassie's goodbye and Randi's "meeting" are both sitting in my chest.
 
-LEDGER
-~ W3.4 ANSWERED: Vee has a head, and it's good. Her mother's voice is in it, there's a cardigan worn on purpose, and she's hungry in a way she knows about.
-~ W3.5 ANSWERED: Randi worked the friendship on purpose, and it went perfectly. The pen, the high table, "I've decided."
-~ G1.5 DEEPENED: Cassie's "goodbye" gets underlined twice, and the blank-transcript paragraph keeps explaining itself.
-~ L1.1 DEEPENED: Watching Randi's face from outside is even better. Kentucky slips out and gets mistaken for Paris.
-~ S1.3 SHIFTED: It's less a hand-off than a courtship. Randi turns the whole performance on Vee and never shows a crack.
-+ LOVE: Cassie. One word, she won't be charmed, and she's the only person in the book seeing clearly.
-+ LOVE: Vee mistaking Randi's Kentucky for somewhere glamorous abroad.
-+ SUSPICION: Vee wants women too. The longer look at the bare girls, and "floozies" in her mother's voice to cover it.
-+ SUSPICION: Randi's "meeting" is Pace, and she's going to report everything.
-+ FEAR: Vee loses Cassie. "Goodbye" means the old life is about to go.
-+ WAITING: Heat again, ideally from Vee's own body this time and not just Pace's fantasy of it.
+## LEDGER
++ LOVE: Cassie, four words a day, the only one Randi's charm slides off, and her flat "Goodbye, Vee"
++ FEAR: Cassie saw what's happening and Vee is going to lose her over Randi
++ SUSPICION: Randi's "meeting" is Pace's bed, where she reports everything
++ LOVE: Vee mistaking Randi's Kentucky for somewhere glamorous and foreign. She's hearing the realest thing about Randi and filing it as polish
++ WAITING: Vee's body coming out from under the cardigan, past her mother's voice
++ GRUDGE: "Key in a lock" is reused, and the paragraph about forgetting the words over-explains itself
+~ L1.1 DEEPENED: Randi's Kentucky ran through the whole coffee hour. Vee moved her
+~ W3.6 ANSWERED: Vee's POV is here. She's a room-reader starving for being seen, with her mother's voice keeping her covered
+~ W1.5 ANSWERED: She's a different kind of starving from Randi. Not open, just hidden in a different place: in her clothes instead of her face
+~ F3.3 DEEPENED: Vee still isn't sure who walked into whom, and she's already grateful for it
+~ G1.7 DEEPENED: Still saying the subtext one more time

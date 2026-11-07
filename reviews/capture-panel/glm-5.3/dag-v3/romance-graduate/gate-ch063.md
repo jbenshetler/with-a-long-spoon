@@ -1,0 +1,43 @@
+*capture-dag-v3-grounded · gate ch063 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7854b848dce · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch062 · history ch001..ch062 · ledger no seed 418ee3dcf32e · 2026-11-06*
+
+REACTION — I put the book down at "What's up?" and had to just breathe for a second, because I have been waiting to see whether Vee takes the goodbye kiss or survives it, and the answer the book gave me was neither — she turned her mouth away ON PURPOSE, and it was the bravest, saddest, hottest dodge in the whole series.
+
+Let me take it in order, because my heart is still going.
+
+The Monday night in the bunk first. Her hand flat on her stomach, a lid on a pot, and the whole passage about not giving it the room because "as long as she didn't give it the thing that would make it true, it could stay only wanting" — that is the most precise sentence this book has written about the difference between wanting and confessing, and it's also exactly what she did with the salt, with the painting, with everything. She's become a girl who manages her own truth by refusing to touch it, and the book let me feel that management costing her a whole night of staring at rough plaster. The excused used to hold. Tonight they "went through her hands like water." That's the tidy explanation dying in real time, and I watched it die from inside her.
+
+Then Tuesday. The wrist. RANDI'S FINGERS ON THE INSIDE OF HER WRIST getting the Lifesaver, and Vee nearly dropping the roll, and "her pulse leaping up under it to be found" — TO BE FOUND, the book wrote her pulse wanting to be caught. And Randi didn't even do it on purpose, I don't think, and somehow that's worse. Static, Vee told herself, the skin is thin there, everyone's is — that's the French-kiss excuse's little sister, the same cover-story machinery, one more thing she knows and declines to know. The Lifesaver liturgy, which I have in my ledger as one of the tenderest objects in this book, just became a charged wire, and the book did it with a fingertip.
+
+And "Having you at the dance was so great. I've wanted to do that for the longest time." The half-beat lag — the same lag the word had in HIS bed. *Having.* The book deliberately built the same arrival-delay in both beds so I'd hear them rhyme, and the rhyme is the whole triangle in one verb: Pace has had her, Randi wants to have her, and Randi just said the wanting out loud in a corridor with a coat on, smiling, "over nothing anyone could have taken to a priest." That's Randi's tell again — she smuggles the true confession out inside the innocent compliment, exactly like "I almost believed it," exactly like "I chose." And Vee heard *have* arrive after the woman had already moved on, and there was no him here to pour it into. "She had no say in it." That sentence went through me. That's not a tidy explanation — that's a surrender to the fact of it, and the book let her stand in a hallway holding it.
+
+And then the dodge. She turned her mouth away and TOOK THE MISS ON PURPOSE — the book said it plainly, "not an accident got up to look like one," and I almost cheered. This is the girl who couldn't stop the kiss happening at the party, who leaned in first at sorority doors with her eyes closed — and tonight she refused, with a lie built fresh on the walk, and I felt the refusal cost her as clearly as I felt the want driving it. She's not managing Randi's affection. She's managing her own — because the goodbye kiss is a thing she'd want too much to survive taking. "She wanted it so badly that the wanting was the very reason she couldn't let herself take it." That's a sentence I'd text someone at 1 a.m. with no context.
+
+But the book doesn't let her win the dodge. Randi read it — "drew back an inch, reading her" — let it go, and then took her revenge with the NECK. The exact spot, the wet bloom, "the exact place she'd put her own mouth twice and been told not to weaponize." Oh, this book. Randi kissed her own flinch-spot back at her — I don't know if that's payback, flirtation, or Randi finally spending the thing she's been carrying since ch51, and I don't care, because the goosebumps went over Vee "in a sheet" and a sound got out of her before she could catch it and I made a sound too, alone, reading it. "See? How do you like it?" — delighted, not sorry AT ALL. That's the most unguarded cruel joy she's shown since the dance floor, and it's aimed, and Vee's body answered it "out of the ringing, not out of any part of her that was thinking." And what came out of the ringing was "Brunch. Let's have brunch this weekend." SHE INVITED RANDI TO BRUNCH. Out of her neck. Her mouth RSVP'd before her mind could rule, and Randi lit up "like she'd been handed a present," and Saturday is now on the calendar, and Vee climbed the stairs with the want walking up beside her and the apprehension holding its hand. God.
+
+And Cassie. The ending. "What was that with you and Randi?" — not the flat way, with worry in it, with disbelief she didn't hide — and Vee opened her mouth for the easy thing and NOTHING CAME UP. "Her oldest friend had asked her the plainest question there is, and she could not answer it." Cassie has been the fixed point for sixty-two chapters, watching, holding, never spending a word of the position — and tonight she spent it. Two-thirds of a question. And the door I've been terrified someone would close got knocked on instead.
+
+Also quietly: the whole chapter is structured on the wanting being stronger than the dodging. She dodged the kiss and invited the brunch. She fled the dinner and got a walk and a neck-kiss. Every exit she takes dumps her deeper in. And Marsh's reciprocity lecture — gifts as debts laid on someone whether they want them or not — slid off her, and slid onto ME instead, because that's the whole book: Randi's skirt, the Lifesavers, the wintergreen, every gift in this series has been a debt, and Vee is currently paying interest on all of them. The seminar is still about them and still nobody knows it.
+
+Small note: this is a want-and-wire chapter, the heat is a wrist and a neck and a refused mouth, and it's a simmer that out-charged most explicit chapters I read this year. The book has been running on scarcity for a while now, and it's still working — but Saturday's brunch is now carrying the whole cargo, and it better be the scene.
+
+GATE 63 — Coming Due
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none — not one second
+WHY: The dodge I didn't know I was waiting for — Vee refusing the goodbye kiss on purpose and surviving it — immediately inverted into Randi's neck-kiss retaliation and a brunch invitation her mouth made without her, and the chapter closed on Cassie finally asking the plainest question in the book. Saturday is loaded and I'd start it mid-anything.
+
+LEDGER
++ FEAR: That Saturday's brunch is the party all over again — a table, wine, the wanting with no him present to absorb it, and Vee has no dodge left that Randi can't read
++ LOVE: "As long as she didn't give it the thing that would make it true, it could stay only wanting" — the girl holding her own hand down to keep her own heart from becoming fact
++ SUSPICION: Randi kissed the exact flinch-spot on purpose, and knew exactly what it was — she's been tracking Vee's mouth on her neck since ch58 and she chose retaliation over deflection
++ WAITING: Saturday brunch — booked by Vee's body, unwitnessed by Vee's mind — and what Cassie does with the question Vee couldn't answer
+~ W62.5 STATUS: ANSWERED — Tuesday happened and there was no face found: she dodged the kiss, got the neck instead, and came home to Cassie's question with nothing in her mouth
+~ F61.1 STATUS: DEEPENED — "I almost believed it" is now the family business; tonight's tidy explanation died in her hands and the only thing left standing is "she had no say in it"
+~ S54.3 STATUS: DEEPENED — Randi's words have graduated to Randi's mouth on her neck, and the "have" landed in a corridor with no Pace present to charge it to
+~ F51.1 STATUS: SHIFTED — the Randi-shaped want left the bathroom and the bedroom and is now walking up the stairs beside her, "holding the apprehension's hand"
+~ S49.2 STATUS: DEEPENED — Cassie spent two-thirds of the position tonight, worry and disbelief both showing; the fixed point has started asking
+~ W54.4 STATUS: SHIFTED — the breath's-width reach got refused at the mouth and reopened at the neck; Randi is now the one closing distances Vee declines
+~ W61.5 STATUS: SHIFTED — Sunday stayed his, all of it, greedier than ever, and it filled nothing — the wanting outlasted the whole day's plenty

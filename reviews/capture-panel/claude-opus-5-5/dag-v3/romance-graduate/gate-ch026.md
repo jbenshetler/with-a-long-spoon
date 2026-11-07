@@ -1,22 +1,20 @@
-*capture-dag-v3-grounded · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1040082365f9 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 5e276a461f0f · 2026-11-02*
+*capture-dag-v3-grounded · gate ch026 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 09ec082b9235 · 2026-11-06*
 
 **REACTION**
 
-The kitchen. I have to start there, because I put the phone down for a minute after it.
+Oh no. Oh, *yes*. Oh no.
 
-The dish fight is the most fun these two have had, and it's honestly funny. "Soaking is a recognized method." "You're undermining the soak." She's lobbying him with her hands spread on his chest. Then he turns off the tap and the room changes. The swat is an accident: she twists the wrong way and lands right in his wet hand. And then "a soundless *oh*," her nipples up so fast it nearly hurts, her eyes going somewhere far off. I knew exactly where I'd seen that. Chapter 1, the bench, Randi's "please" that "came from below." Pace remembered it on Friday as a voice he'd never heard from Randi "before or since." Two days later Vee hands him the same word, twice, "attached to nothing," in daylight, with dishes in the sink. I had to stop reading for a second.
+The "please" is what I'd text at 1 a.m. Vee, on top of him, his hand flat over the spot he slapped: "*Please.*" Small, wrecked, attached to nothing. That's the bench word. Randi said it facedown on that bench in the voice Pace "had not heard from her before or since," and he was harder just remembering it last night. Now he's heard it from Vee, in the same bedroom, three steps from the table against the wall that isn't a table. And he says "This?", the same word Vee used when her fingers found his scar. I put my phone down for a second after that. The scene is extremely hot, it's Vee's own discovery with her shame wired straight into it, and it's also clearly the trapdoor opening under her. That's the both-at-once I keep coming back to this series for.
 
-What turned me on, and also chilled me, is how she hides it. She kisses him hard "to cover the thing he'd seen with a thing she was choosing." She keeps talking so "a quiet room" won't have "a question standing in it." She buries her face in his neck so he can't look at her. That's Randi in the mirror in chapter 1, putting the self he found back behind the face. I watched the same reflex start in a second woman. The difference is that he doesn't push either of them. He just puts his hand back on the sting and waits. "This?" That's Vee's word from the scar, now in his mouth. Every stroke stinging in time is the best-written heat in the book, and it comes straight from her head. And "This one she could not file." Yes. That's what I came for.
+What makes it more than a spanking scene is how she hides it. She keeps talking about the dishes, about soaking, about how "some people had to be shown," because "a quiet room was a room with a question standing in it." She gets her face into his neck so he can't look at her. She keeps her hands busy so they won't go back to the sore place. She moves faster and the moving lights the sting, and she can't tell which one she's doing anymore. That's real interiority in the middle of explicit sex, and it's what I can't get from KU. Her mother's voice didn't even show up. This time the shame is all hers, and she covers it on her own. She files the first orgasm as "only what it's like with him" and can't file the second. Afterward, "unnamed, hers." I loved her so much here, and I'm scared for her.
 
-Now the dread. He saw it, and the bench is down the hall under a tabletop. He told Randi Friday night that he'd take Vee as slowly as she needed, and Vee just did the fast part for him. Does this go to Randi's couch? Does he keep it like he kept the truck? I think he keeps it, and I think keeping it is the most dangerous thing he can do now.
+Because it's Monday morning. Monday is Randi's night. I'd bet anything that by tonight, Vee's soundless "oh" at the sink will be Randi's foreplay, the way the thumb behind the knee was on Friday. Pace has a "please" from each of them now, and I don't think he can see that one of them cost Randi her whole self in a bathroom mirror.
 
-I loved that Randi's coaching failed. Randi said to go in sure, not sorry, and Vee built her clean machine. Then Pace asked "But what happened?" and the machine had no part for that. The thing that actually worked was the honest, messy why. Randi's playbook is a performance, and Pace doesn't take performances. And the heels: Randi chose them, so Randi knew Vee would be taller than him at that door. I'm half sure that was deliberate. She dressed Vee to stand over him. He took it beautifully, but "made for the gods and loaned out" was a little purple, even for him. Also, "Thank you for telling me what she said." Why that, exactly? The blonde's line is about his method. He may want to know who's saying it.
+The front door was good, too. The heels putting her above him read as "one more disrespect laid at his feet," and she starts folding herself down to the buckles. He takes the pie the way you take a glass from someone about to drop it, and sets the scarf back "a half-second longer over the silk than the errand needed." Did he recognize it? He looked down at Randi's shoes and said nothing. Randi told him last night, "She's going to be so beautiful when she walks in. You wait." So he knew what was coming up his drive before Vee did. And Vee's tiny vanity, "The scarf was working," is Randi working, on Vee's body. Also, she tells Pace the blonde's words straight. She doesn't say the "services ended at the door" version she gave Randi. So she really did edit for Randi. Good, that's the reading I wanted.
 
-My hair-trigger moment: "the evening went on a long time after it, first lighter and then not light at all." Is that it? The reconciliation night, behind a door? I bristled. The book got away with it because Sunday paid it off, and because "Not like Saturday... starved and thorough" lets me fill it in. But I noticed.
+Gripes. "Beauty like yours made for the gods and loaned out" made me wince. It's a book-boyfriend line, even if the book admits it's "the trouble with him." The real problem is the Saturday reconciliation: "the evening went on a long time after it, first lighter and then not light at all," and then she wakes up Sunday. That's a fade. The book has hardly ever done that to me, and it did it on the make-up night. Sunday paid me back with interest, so I'm grumbling, not leaving. HUMBLE PIE in a serif font is a little twee, but it's so Vee that I let it go. "You're always beautiful," with the hair gathered at her nape like something he means to keep, is a lovely, quiet way to end.
 
-The Monday hair meltdown and "Always" are sweet, and they're another tender ending. The drumroll is quieter this time, at least. Smelling of him head to foot "and nothing of her own left anywhere" made me cold, though. She's being absorbed. And she's been gone from the dorm two nights, and Cassie isn't anywhere in this chapter.
-
----
+Ten chapters now without Randi's head, and she's more present in this one than ever, on Vee's feet and at her throat.
 
 GATE 26 — A Recognized Method
 DECISION: CONTINUE
@@ -24,22 +22,20 @@ CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "the evening went on a long time after it, first lighter and then not light at all" (the reconciliation night faded out, and I nearly threw the Kindle)
-WHY: The kitchen spank is the hottest and most frightening thing in the book, because Vee finds the bench in herself by accident and hides it the exact way Randi did. Randi's playbook failed and honesty worked, which I loved. Now he's seen it, and I need to know whether Randi hears about it.
+ALMOST-STOPPED: "the evening went on a long time after it, first lighter and then not light at all." The make-up night faded to black, and that's my trigger.
+WHY: The Sunday kitchen scene is the hottest and smartest sex in the book: a discovery she hides under talk, with "please" landing on exactly the word Randi said on the bench. It's Monday, it's Randi's night, and I have to know what Pace does with what he saw.
 
 LEDGER
-+ FEAR: Pace saw Vee's "please" in the kitchen, the same voice he heard from Randi only once. The bench is the next room, and Vee doesn't know it's there.
-+ SUSPICION: Vee hiding her face and filling the room with talk is Randi's mirror vow all over again. Both women run from the self he finds.
-+ SUSPICION: Randi chose heels that make Vee taller than Pace on purpose, so Vee would stand over him at the door.
-+ LOVE: "Soaking is a recognized method." Vee lobbying into his spine, and the pan still soaking down the hall.
-+ LOVE: "But what happened?" Randi's script fell apart, and the truth was what he actually wanted.
-+ GRUDGE: The Saturday reconciliation faded out behind "first lighter and then not light at all."
-+ WAITING: Whether Pace tells Randi about the kitchen or keeps it like the truck.
-+ FEAR: "Nothing of her own left anywhere on her." Vee is being absorbed into his house, his clothes, and his smell.
-~ S14.4 CONFIRMED: The bench method has reached Vee's body directly: the stopped hand, "please," "This?"
-~ S19.2 DEEPENED: "Please" from below has now come out of both women in that house.
-~ F3.6 DEEPENED: Vee wanted the slap and he saw her want it. The bench is the logical next step.
-~ W24.7 ANSWERED: She went in Randi's shoes and scarf, got taller than him, apologized, and stayed two nights.
-~ S23.3 DEEPENED: She said the blonde's line to his face, and he thanked her for it.
-~ F4.2 DEEPENED: Two nights away from the dorm, and Cassie doesn't even come up.
-~ F17.5 SHIFTED: "You're always beautiful." It's another tender ending, but a quieter one, with no happiest-ever drumroll.
++ FEAR: Monday is Randi's night. Vee's soundless "oh" at the sink and her "please" are going to be told in Randi's bed tonight
++ SUSPICION: Pace heard the bench "please" from Vee and will offer her the bench the way he offered it to Randi, "a month in"
++ GRUDGE: The Saturday make-up night faded to black, "first lighter and then not light at all"
++ LOVE: "Soaking is a recognized method." Vee talking through sex so the room can't hold a question, with her face hidden in his neck
++ LOVE: "You're always beautiful." Not "you're beautiful," which she'd have argued
++ SUSPICION: Pace recognized Randi's scarf. The half-second over the silk, the look at the shoes, and Randi's "You wait"
+~ W24.6 ANSWERED: She came Saturday, apologized well, told him the real why, and stayed two nights
+~ F24.3 SHIFTED: He looked at the shoes and touched the scarf and said nothing. The seams didn't show, unless he's keeping quiet about them
+~ S24.1 CONFIRMED: She gives Pace the blonde's words straight, without the "services ended at the door" line she gave Randi. She edited for Randi
+~ F9.5 DEEPENED: She found out she wants to be struck, in the bedroom where the bench sits under its top
+~ W25.6 DEEPENED: Now he has two women's "please," and he'll take Vee's the way he took Randi's, as his best work
+~ L10.1 SHIFTED: Her mother's voice didn't come at all. The shame was her own, and she covered it herself
+~ W18.5 DEEPENED: Ten chapters without Randi's head, and she was on Vee's feet and at her throat the whole time

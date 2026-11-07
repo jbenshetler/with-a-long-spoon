@@ -1,32 +1,32 @@
-*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 60a5536dc21e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 15c128a453f7 · 2026-11-06*
 
 REACTION
 
-There it is. She asks, out loud, to his face, and the chapter lands everything I've been dreading since 39. "Words are cheap. Believe what I do." I actually winced, because that's both the most honest thing he could say and the most useless. He's been telling her this in deeds for forty chapters. Now it's finally a sentence, and it's a refusal.
+Finally. She asks it out loud, in his doorway, with her coat buttoned and her hands in her pockets, and I wanted to cheer. The withheld kiss is the best beat in the chapter. She makes him arrive at the fact of it, and the book lets me watch him not understand. After five chapters of the ache circling, this is the first time she acts on it.
 
-Vee comes out of her speech well. The "my body comes with me attached" line echoes what she told Randi, and I noticed that. She's using Randi's brunch phrasing on Pace, which is a quiet, ugly irony. "What do I tell my mother, that he feeds me and we have a lot of sex?" is the best line she's had. She lets it be ugly, and she's right to.
+"Words are cheap. Believe what I do." is the line I knew was coming, and it still landed like a slap. It's the blurb's own sentence, spoken by a man who is not cruel and is therefore worse. "Do any of your friends have a relationship you'd rather have than this one?" is a masterpiece of a dodge. It's true, so she can't even win the point. And then her answer, "Words are cheap, and you still won't spend them on me," is her best line yet.
 
-Pace's "Do any of your friends have a relationship you'd rather have?" is the moment I put the book down in my head and glared. It's a debater's answer. It's him dodging, and the chapter lets her say so. Then his arms fold, the line held at cost. I believe it costs him. I still want to shake him. The Daphne wound isn't an excuse anymore, it's a pattern.
+He folds his arms and holds the line "at cost." That's the detail I'll keep. He knows what he's refusing her. This is choice, not blindness, and I'm angry at him in a way I like. Then the hand reaching for her, "not the hand in place of the word," is the book finally refusing to let touch substitute. She leaves. I'm cheering and also heartbroken.
 
-The last beat bothers me in the right way: his hand reaching to settle her, "the hand in place of the word." She sees it and walks out. That's growth, and it's the first time she's refused the hand. Good.
+I did notice something. "You're the most important person in my life" is a real answer, and she brushes past it fast. I wondered if she's being unfair, then decided no, because it's a thing and not a name.
 
-Short, charged, no heat, but it's an actual event, and I needed one. The narrator does a bit of explaining in the final sentence, and the opening drive-up goes on a touch. What I want now is obvious: Saturday brunch, Randi, and Vee carrying a raw wound to the one person who will feed on it. I'm scared and I want it badly.
+Still no Randi, still the plot hasn't turned, but this is a scene, with a door slamming. The speech is long and a little self-explaining, though in dialogue it earns it. The beat I want next is where she drives to, and my bet is Randi, which is the worst possible answer.
 
-GATE 42 — Believe Me
+GATE 41 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "none"
-WHY: Vee finally asks to his face and gets "Words are cheap. Believe what I do," and she walks out instead of taking the hand. It's the real break the book has been building, and it sends her straight to Randi's table.
+ALMOST-STOPPED: "I want to know what we are." (the long speech laying out everything the book has already shown me)
+WHY: The withheld kiss, "Believe what I do," and her walking out are the confrontation the whole stretch has been building toward. It's finally a scene instead of an ache, and I need to know who she turns to.
 
 LEDGER
-+ LOVE: "What am I to you out there?" and "he feeds me and we have a lot of sex", Vee letting it come out ugly.
-+ GRUDGE: Pace's "Do any of your friends have a relationship you'd rather have?" and "Words are cheap" are a debater's dodge, and I'm angry at him.
-+ LOVE: Vee seeing the reaching hand as "the hand in place of the word" and leaving anyway.
-+ FEAR: Vee walks out raw, crying, into the night, and the next person she tells is Randi.
-~ W40.4 DEEPENED: The break has happened; the brunch is now the morning after a walkout.
-~ F32.3 DEEPENED: She asked for the word directly and he refused it in a sentence.
-~ G40.3 DEEPENED: He answers a direct question with a counter-question and a slogan now.
-~ S33.2 DEEPENED: The crack is now spoken aloud, not just felt.
+~ W40.2 ANSWERED: In daylight she asked him straight, in his doorway, and he gave her "believe what I do."
+~ F38.1 CONFIRMED: He heard the question, took it seriously, and chose the dodge, holding the line at cost.
+~ W32.6 RESOLVED: She asked outright and he still wouldn't say the word.
++ FEAR: She drives to Randi next, and Randi turns the breakup into the thing that finally pulls her fully in.
++ LOVE: The withheld hello kiss, and him not understanding why.
++ LOVE: "Words are cheap, and you still won't spend them on me."
++ SUSPICION: His silence is a deliberate vow tied to the Randi plan or to his past, not just temperament.
++ WAITING: Where Vee goes tonight, and whether Pace tells Randi or goes after her.

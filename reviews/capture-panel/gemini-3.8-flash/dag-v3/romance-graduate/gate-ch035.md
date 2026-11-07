@@ -1,56 +1,36 @@
-*capture-dag-v3-grounded · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch035 · history ch001..ch035 · ledger no seed e82117ae24ca · 2026-11-02*
+*capture-dag-v3-grounded · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 057556e08170 · 2026-11-06*
 
 REACTION:
 
-I feel like the air has been sucked completely out of the room. I am sitting here in total silence, staring at the screen, with cold dread pooled so deep in my stomach that it makes me physically nauseous.
+I am sitting here with ice in my veins and my hand clamped over my mouth. That ending. That absolute, suffocating, devastating ending.
 
-This is the chapter where the floor falls out.
+*He pushed it shut with two fingers and went on up the hall.*
 
-The structure of this—the absolute psychological cruelty of switching back to Pace's POV after seeing Vee's sunlit, trusting brunch in chapter 35—is staggering. In chapter 35, we watched Vee think of her Saturdays as a blessed gift, a "private rite," boasting about how happy she was, feeling that deep surge of warmth because Randi is her "best friend in the whole world."
+The house didn't shift, you brilliant, blind, mathematically precise idiot! *Randi opened it.*
 
-And then Monday night arrives. The deadbolt goes over. And Randi and Pace are on the white oak couch, using Vee like an IV drip of pure, filthy adrenaline.
+She went into that bathroom first thing in the morning to wash her face, reached for the drawer, and found it. She found Vee’s green scrunchies. She found Vee’s hairpins. She found Vee’s beige sponge and face cream, laid out on fresh clean liner in the top drawer—the drawer that used to hold Pace's things. And then Randi walked into his bedroom, went to the second drawer down where his undershirts live, and found the deep green satin panties Vee traded him for his flannel in chapter 16.
 
-Look at what Randi does with Vee's Monday morning in stats: *"She sat down next to me failing to hide her grin, being modest about it, still full of your come."* The absolute ownership in it! Randi tucking Vee's wet hair behind her ear, leaning in to whisper that she knows what's between Vee's legs, watching Vee blush—and then bringing that exact image straight to Pace's bed to get fucked three times! And Pace! Pace lying there, rock hard, asking: *"What did you do?"* and *"How is it nice?"* and *"What do you get?"*
+The psychological horror of that entire morning sequence was an absolute masterclass. Randi walking into the kitchen completely naked, pale and quiet, pulling on his undershirt with Vee’s panties clutched in a white-knuckled fist. Leading him to bed by the wrist, pushing him down, refusing to let him touch her, and riding him like an executioner with Vee’s green satin pinned flat against his bare chest! The sheer agony of it. It wasn't just hot—it was excruciatingly, heartbreakingly desperate. She was fucking him with the physical proof of his love for Vee pressed directly between their hearts, sobbing against his neck afterward, shaking so hard she couldn't breathe, and lying through her teeth: *"It's hormones."*
 
-The extraction isn't just one-sided anymore. Pace is actively participating. He's demanding the sensory details of how Randi kisses Vee on the mouth. *"Do you like it?"* He knows. He knows Randi isn't just "getting her ready for a threesome." He sees through Randi's pathetic, desperate cover story—*"I'm doing the work!"*—and he dismantles it with terrifying, quiet precision: *"You don't have to do it for me."* And that breaks Randi. That sends her over the edge into a shattering orgasm because the truth is out in the room: Randi is in love with her. Randi wants her.
+And Pace, for all his genius, letting it be hormones because facing the actual arithmetic would mean admitting he has broken her heart. His thought—*Randi had never once offered him anything to keep*—stung so badly. Randi never gave him anything to keep because she built an entire fortress around herself to survive him, and now she’s watching Vee casually walk past every single wall and colonize his house.
 
-*"I'm inspired by her... God, I want her."*
-It slipped out. The mask slipped completely off.
+And the couch scene earlier! My god, the voyeurism of Randi confessing their mouth-to-mouth goodbyes while gripped over the back rail of the couch. Pace interrogating her—*"Do you like it?"*—and Randi frantically scrambling behind the shield: *"I'm doing it for you... for the threesome... it's work."* And then coming apart the second he tells her she doesn't have to do it for him!
 
-And then Tuesday morning happens.
+The threesome isn't a fantasy anymore; it’s the burning building they are all trapped inside. Randi knows Vee has moved in. Randi knows Pace is keeping Vee's panties. Randi is in love with both of them and completely hollowed out by grief and desire. I can barely breathe. Next page immediately.
 
-Oh, god. Tuesday morning.
-
-Randi walking down the hall, opening the bathroom, and finding *the drawer*. The dedicated top drawer that Pace made for Vee. The scrunchies, the pins, the face cream. And then going into his bedroom, opening the second drawer, and finding Vee's deep green satin panties hidden under his undershirts.
-
-Randi didn't scream. She didn't throw a vase. She took those panties in her fist, walked into that kitchen naked under his shirt, shoved Pace's hand between her soaking wet thighs, and dragged him to the bed.
-
-Riding him with Vee's green silk pressed flat against his bare chest! Riding him in dead, furious silence, staring at the blank wall, using the talisman of his love for another woman as the instrument of her own torture! The sheer, unhinged, tragic brilliance of that scene—it’s so intensely erotic, and at the exact same time, it is the most harrowing, heart-wrenching emotional carnage I have ever read. She came with a sound he had never heard out of her, and then she broke into hysterical, shaking sobs on his chest.
-
-And Pace.
-*"He let it be hormones."*
-*"The house was old and shifted each autumn as the cold came into it; doors that had shut true in August stood off their latches now."*
-
-HE NOTICED THE DRAWER WAS OPEN. HE SAW IT WITH HIS OWN EYES. He saw Vee's drawer standing out an inch, he knew Randi had found the panties in the bedroom, and he literally pushed the drawer shut with two fingers and told himself the house was just shifting with the cold! The willful, arrogant, terrifying blindness of this man! He thinks he has everything under control. He thinks he can keep both of them in his warm, exact, measured little boxes.
-
-Randi is drowning. She left her coffee untouched on the counter. She is completely shattered. She knows Pace loves Vee. She knows Vee has taken the space Randi was never brave enough to occupy. And tonight is Tuesday. Tonight is the first night of that Anthro class—"just us."
-
-The bomb has detonated, but the shockwave hasn't hit Vee yet. I am terrified.
-
-GATE 36 — Four
+GATE 35 — Four
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological devastation of Randi discovering Vee's top drawer and green panties—and then riding Pace with Vee's silk clamped to his chest before sobbing uncontrollably—was an absolute masterclass in tragic erotica. Pace pushing the open drawer shut and telling himself the house was just shifting with the cold is the most chilling, arrogant denial I have ever witnessed.
+WHY: The agonizing psychological brilliance of Randi finding Vee's bathroom drawer and green panties—riding Pace with the silk pinned between their chests and weeping into his neck—was an absolute tour de force.
 
 LEDGER
-+ FEAR: Randi's emotional collapse during Tuesday's Anthro class spilling over onto Vee now that she knows Pace loves Vee
-+ LOVE: Randi's raw, unhinged vulnerability—riding Pace with Vee's green panties clutched in her fist because she can't bear the reality of being replaced
-+ SUSPICION: Randi will confront or seduce Vee during their Tuesday/Thursday Anthro nights out of pure, desperate grief
-~ F1.1 DEEPENED: Randi isn't just being replaced; she found the drawer and the green panties, and the realization that Pace loves Vee completely shattered her
-~ F6.1 DEEPENED: Pace literally saw Vee's bathroom drawer standing open an inch and blamed it on the house settling in the cold—his arrogant blindness has reached fatal levels
-~ F11.1 SHIFTED: Randi's "I want us" has completely fractured into raw, desperate grief over Vee and Pace's genuine bond ("I'm inspired by her... God, I want her")
-~ S25.2 DEEPENED: Pace admitting he hard-on a public lawn imagining both women, while pushing the open drawer shut, proves how completely delusional he is about controlling this outcome
++ FEAR: Randi discovering Vee's top bathroom drawer and the hidden green panties is going to push her over the edge into detonating the entire arrangement.
++ LOVE: The quiet, tragic detail of Randi leaving the bathroom drawer open by one inch—the silent evidence Pace completely misread as the house shifting with the cold.
+~ [F1.1] DEEPENED: Randi's shield has completely collapsed; she isn't protected from Pace or Vee, she is drowning in her love and grief for both of them.
+~ [S1.3] DEEPENED: Randi claiming her kissing Vee is "work" for the threesome is her very last paper-thin defense against admitting she is desperately in love with Vee herself.
+~ [F5.2] DEEPENED: Randi's jealousy and heartbreak peaked in absolute agony, riding Pace while clutching Vee's panties and weeping on his chest.
+~ [L11.2] DEEPENED: Pace's terrifying blind spot returning in full force—concluding the drawer stood open because the house shifts in autumn rather than realizing Randi saw Vee's things.

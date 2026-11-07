@@ -1,46 +1,51 @@
-*capture-dag-v3-grounded · gate ch021 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) · history ch001..ch020 · ledger no seed 092a0bb096c5 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch021 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed 41567cdd9573 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-She ate it. All of it. She chased the last couscous around the edge of the plate with her fork, and I had to put my phone down and stare at the ceiling for a second. Two chapters ago she drew one line through a cream stew and said "It's wonderful" in her waiter voice. Tonight she asked him "Is there anything to eat in this house?" and "Will you make me something?" She *asked to be fed*. Pace was smiling before he answered, and so was I.
+The title is "Gone," and I've been nervous the whole chapter because nothing in it is gone. She stays. She eats. She hands him back the wine bottle.
 
-He got the food right too, and the book doesn't point at it. He made thin cutlets, couscous and asparagus. That's her food, not Vee's fra diavolo plenty. Either he learned something from that covered bowl or he just remembered who he was cooking for. Either way it's the first time in three chapters he's read Randi correctly, and he did it with a skillet, not a sentence.
+Every rule that broke in chapter 18 gets repaired in one night, almost in order. The deadbolt-and-bag routine turns into Randi lying on his chest after, loose, with the blanket over her, and she stays put. She asks for food herself. She says "Will you make me something?" and he's smiling before he answers, and honestly so was I. Then "Pace, darling. Will you pour me a little more?" with her glass still half full. Oh, I saw that. She didn't need wine. She needed him to pour it, because she's undoing the night she poured her own. Then she clears the plate with her fork, down to the last bits at the edge. If you'd told me in chapter 3, back at "I can't eat that," that Randi would wipe a plate clean, I'd have laughed.
 
-Then "Pace, darling. Will you pour me a little more?" with her glass still half full. Last chapter she poured her own wine and I wrote that the whole chapter turned on it. Here she hands the pouring back to him on purpose and rests her hand on his wrist. She's letting him serve her again. I'd been waiting to see what she did after taking the bottle, and the answer is that she gave it back. It made me so tender toward her I almost don't trust it.
+So why am I scared? Because it's too complete. Every gesture is a repair and every repair is pointed, and the book called it "Gone." Look at where she sits: his white undershirt, which she pulls from the second drawer without looking, feet up on his kitchen chair, wine in her hand, watching him cook. That's Vee in the sheet at the table. That's the fra diavolo night, played by Randi. Same shoe size, "practically a marriage," and now she's literally sitting in Vee's spot. Either she's finally letting herself be fed, or she's studying the girl who stays and running her lines. Probably both. And the stew bowl. Where is the bowl with one line through the sauce? He makes fresh chicken and nobody mentions the fridge. I noticed.
 
-The front half is Randi just *talking* about Vee, with no face on. "She got past me before I could help it." "I keep thinking of things to tell her. Stupid things. Just to hear her laugh." That's a woman falling in love, saying it out loud in bed to her boyfriend, and calling it "romantic" that Vee's gone on *him*. And "I didn't let you take your time with me. I knew you were different. I wasn't going to wait." God. That's the closest she's come to talking about the bench night honestly. She's jealous of Vee getting the slow version, and she owns that it was her choice.
+Then there's what she says. "She got past me before I could help it." "I get bored of everybody." Everybody, Pace. That's the closest I've been to the inside of Randi since chapter 2, and it isn't her POV. It's her talking, half asleep on his chest. What she's describing is falling in love, and Pace hears the threesome. He pictures the two of them laughing and then pictures them naked and laughing, and it's hot. The black hair falling into the red, Randi drawing down over Vee. That's the first time the book has actually *shown* me the three of them, and it went right through me. But Randi isn't fantasizing. She's confessing, and he's lying there building a scene out of it.
 
-Then she says "Tell me," the first time since the debriefs stopped, and he doesn't hand her a sensory report. He hands her a love letter: "Like somebody found the lamp. She spends the entire time sure she's too much." Randi goes still. Not the after kind of stillness, "the kind that takes holding." And this time the book doesn't make him misread it. There's no "it was the want." It just shows me the stillness and lets me sit in it. Then she shifts her hips and finds him hard, right after he's described Vee, and says "So soon?" He doesn't answer. Oof. She knows exactly what got him there, and she smiled anyway. That's the knife in this chapter, and it's tucked inside the warmest scene these two have had since chapter one.
+Then she says "Tell me," and he gives her the worst possible thing: Vee walks into a room and "somebody found the lamp." Randi goes still, and the book is careful to say it's not the loose stillness of after, it's the kind "that takes holding." Then she finds him hard and smiles up "out of the still." She converts the hurt into sex in about two seconds, and he lets her, and he doesn't notice. That's five times now. He reads every inch of her body and misses her.
 
-He also finally gets something right out loud: "She's ashamed. Somebody taught her to be ashamed of her body." That's true, and he says it about Vee, lying under a woman whose mother lives on egg whites. He sees it clearly in one of them and is still half-blind to it in the other. Still, my grudge about him misreading everything loosens a lot here.
+Also: "I didn't let you take your time with me. I knew you were different. I wasn't going to wait." That rewrote my old fear about "He's hard to say no to." It seems to have been *her* who wouldn't wait. That's interesting, and it's also a little sad, a woman who never let herself be courted watching the girl who did. "You've spoiled her for being hurried" sounds like a compliment and lands like a bruise. And her fingers went to the white-gold bracelet right as she said "She's stunning in it." That band is a pressure gauge now.
 
-The heat is mostly in the breast-drag. She's *showing* him Vee with her own body, small over imagined full. That's hot and sad at once, because she's measuring herself against Vee while she does it. Then his fantasy of the two of them together, the black hair falling into the red. It's a little stock, honestly, a stock threesome picture, and it slides straight into Vee alone in his kitchen in the sheet. That tells me where his mind goes. The actual sex gets one long, lovely sentence and then it's over. It's not coy, but it's compressed, and I wanted a little more of it.
+Small things I liked: she asks him about Chicago. In twenty chapters I don't think Randi has ever asked Pace about his life. "My grandsupervisor" is cute, and she lets him talk. The flower fight at the chapter meeting, "Me. Who do you think?" Sade is the right soundtrack, and I'm done minding the needle drops.
 
-Little things: the second drawer, opened "without looking for it." She's lived here in a way I hadn't pictured, with her own place among his undershirts. The blue toes, "the last composed thing left of her." Chicago really was a conference, and Pace nervous in front of his grandsupervisor is the first ordinary insecurity he's had. I liked it. And what wasn't in this chapter: the covered stew bowl, the green panties, the second pair on the sun-porch chair. He went into that fridge for the chicken and the book said nothing. I noticed.
+Gripes. "Her hand still at the side of his face" shows up three times in about six lines, and by the third I was counting instead of feeling. "She's ashamed. Somebody taught her to be ashamed of her body" is Pace handing Randi another piece of Vee's inner life. It's a kinder piece than the soft stomach, but it's still Vee's to give. And it's the fifth chapter without Randi's own head. This one hurts less, because she talked, but I still want the Mercedes and the thumbnail when nobody's watching.
 
-What scares me is that this is the happiest Randi has been. She stayed, she ate, she slept on him. And I've learned what this book does to people right after they're happiest.
+1 a.m. text: "she STAYED, asked him to cook for her, made him pour wine she didn't need, ate every bite, and sat in his undershirt with her feet up exactly like the other girl did in the sheet. also told him 'she got past me before I could help it' and he heard THREESOME. chapter's called GONE and nothing's gone yet and I'm terrified"
 
-The 1 a.m. text: *randi told pace she's falling for vee, "she got past me before i could help it," then said TELL ME and he described vee like she's a lamp in a room and randi went STILL and then he was hard and she said "so soon?" … and then she asked him to feed her and ATE THE WHOLE PLATE. and slept on him. i'm scared because everyone's happy.*
+## GATE
 
 GATE 21 — Gone
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 2
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Then he had them both in this bed, Randi over Vee, drawing down the length of her just as slowly, the small breasts dragging across the full ones, the black hair falling into the red" (the stock threesome picture, the one moment that read like any other book)
-WHY: Randi stays, eats, and admits out loud she's gone on Vee. It's the gentlest she's ever been, and the "So soon?" beat cuts underneath it without the book explaining a thing. I'm still reading, but I'm braced. Everybody's this happy right before the drop.
+ALMOST-STOPPED: "she said, her hand still at the side of his face." The third time in a row, and the tic pulled me right out of the bed.
+WHY: Randi undoes the whole fight in one night (stays, gets fed, has her wine poured), confesses love for Vee to a man who hears a threesome, and goes still in a way only I seem to see. It's tender and hot and so tidy that the title "Gone" has me braced for something to break.
 
-LEDGER
-+ LOVE: Randi in his undershirt, feet pulled up on the chair, asking "Will you make me something?" and then clearing the plate.
-+ LOVE: "I didn't let you take your time with me. I knew you were different. I wasn't going to wait."
-+ FEAR: "So soon?" She asked him to tell her about Vee, he described being in love, and he got hard from it. She smiled over a stillness she had to hold.
-+ SUSPICION: The second drawer opened without looking. Randi has a much longer history in this house than I've been shown.
-+ WAITING: The covered stew bowl and the green panties are still somewhere in that house, and the book went into the fridge and didn't mention them.
-~ F18.1 SHIFTED: He cooked her lean food and she ate every bite. The starving eased tonight, but only because she asked to be fed.
-~ W18.5 ANSWERED: She handed the pouring back. "Pace, darling," half-full glass, her hand on his wrist.
-~ G18.4 FORGIVEN: No "it was the want" this time. The stillness got shown, not misread, and he named Vee's shame dead on.
-~ S5.2 SHIFTED: It isn't hidden jealousy anymore. She told him outright: "She got past me before I could help it."
-~ S18.6 SHIFTED: "Tell me" came back, but what he handed over was love, not a report.
-~ F11.1 DEEPENED: She showed him Vee's body by dragging her own smaller one across him, measuring herself against her.
-~ S11.2 SHIFTED: "I want us" looks like all three now, and she's openly in love with the third.
+## LEDGER
+
++ SUSPICION: The reconciliation is too exact. Pour, eat, stay, every broken rule fixed in one night. Randi is either really letting go or performing the girl who stays, and "Gone" says something's about to go
++ LOVE: "She got past me before I could help it." Randi falling in love out loud, half asleep, and calling it a funny shopping story
++ LOVE: Pace finally picturing the three of them, black hair falling into red, both of them laughing
++ GRUDGE: "Her hand still at the side of his face," three times in six lines
++ SUSPICION: The stew bowl is gone from the story. He cooked fresh and nobody mentioned the fridge
++ FEAR: "I get bored of everybody." That includes Pace, and the girl she's not bored of is Vee
+~ W3.7 DEEPENED: She asked to be fed and cleared the whole plate. The feeding thread finally reaches Randi
+~ L6.1 SHIFTED: "Tell me" came back, but about who Vee is, not her body, and the answer hurt her
+~ S6.2 DEEPENED: She goes still in a way "that takes holding," turns it into sex, and he reads it as want again
+~ S11.3 DEEPENED: She isn't scared of losing Pace to Vee. She's scared she already went to Vee herself
+~ F11.2 SHIFTED: She stayed and slept on his chest. The pulling away has turned into hanging on, which might be worse
+~ F2.3 SHIFTED: "I wasn't going to wait." It was Randi who rushed him, not the other way around
+~ S16.6 DEEPENED: Randi in his undershirt, feet up at his table, wine in hand, sitting exactly where Vee sat in the sheet
+~ S15.2 DEEPENED: Her fingers went to the bracelet right on "She's stunning in it"
+~ W18.5 DEEPENED: Fifth chapter without her head, though she said more out loud than she ever has
+~ G11.5 DEEPENED: "Somebody taught her to be ashamed of her body." He's still handing Vee over, just more gently now

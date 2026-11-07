@@ -1,22 +1,24 @@
-*capture-dag-v3-grounded · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch010 · ledger no seed e54af8386dba · 2026-11-02*
+*capture-dag-v3-grounded · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch010 · ledger no seed f1c1088d7f5a · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-He put on a *henley*. I literally said "the dream-man I'm tired of wearing a henley" back in chapter one, and the book went and dressed him in one. Then it spent the whole chapter showing me he's not that man. Fine. I'll take the joke.
+FINALLY. The bedroom I've been owed since chapter 6, and it was worth the four-chapter wait. I'm mad at how good it is.
 
-This is the debrief I've been dreading since the froyo, and it's worse than I pictured, in the best way. I expected *Tell* on the couch and Randi getting off on the gossip. That's not what she does. She says "How was it?" and then won't let him answer. She keeps taking his mouth back before he can get a word out. She doesn't want to hear about the trail. She wants the pieces that hurt: gardenia, musk, chlorine, soft stomach. I thought the slow inch-and-stop descent with her eyes on his was her taking control. Then I watched her body. The laugh comes out thin, "not her laugh." She clamps down at "Her stomach is soft" and holds it so long he says her name. And her belly goes "tight as a board." Oh, Randi. The girl who lives on egg whites just heard that the woman she wants has a soft stomach, and her own stomach locked under his hand. He reads it as want, the same wrong reading as ch6, and this time the book doesn't explain it: "If it was something else he could not have said what." That's the restraint I've been begging for. It trusted me, and I got it, and it hurt.
+The first thing I caught is the chair by the door with nothing on it. There's no monogrammed bag, so she never meant to stay. Pace sees it and "set that aside," and I yelled at him. Sir, that chair is the whole chapter. She walked in already halfway out.
 
-And he kept the truck. "He did not say how he knew." That's twice now. The man whose whole arrangement is that Randi gets told everything has started keeping Vee's best moments for himself. The game is leaking exactly the way I thought it would. I'm not happy to be right.
+"How was it?" she says into his mouth, and then she doesn't let him answer. She literally takes the words off his tongue. She asks for the hike and then makes sure she never hears about it. What she wants is the *Tell me* version, the one where Vee comes to her as a smell and a body. She doesn't want the real afternoon. The sex is explicit and slow, and she makes him watch her take him an inch at a time. Randi has run the shot from the start, and here she's running it from on top. That was so hot. Then he gives her gardenia and musk, and chlorine under the shampoo. *Chlorine.* The pool, the one place Vee goes to be unwatched, handed over as foreplay. And then "Her stomach is soft," and her whole body clenches and holds. Her belly goes "tight as a board" under his hand. That's the girl from her mother's egg-white house, hearing that the other girl is soft.
 
-"I want us." I've read that line four times. Does she mean her and Pace, as in *don't leave me for her*? Or does she mean the three of them, which is the scarier thing to want? I think she means him. I think it's the most naked thing she's said to him since the bathroom, and she said it at the exact moment she knew he couldn't really hear it. Then she won't stay. The chair by the door is empty because there's no overnight bag. She'd decided before she got there. "No thanks" to food, "I'm good," "See you." She's got the face back on, and he's standing in his own open door with the cold coming in, feeling for the first time that she didn't want to stay. Then he eats, and he's still hungry, so he makes more. Three people in this book are starving in three different ways, and only one of them can eat.
+Pace "did not say how he knew. He kept it." Oh, honey, you didn't keep it. You kept the *truck* and sold her stomach. That's exactly the "for us" turning into "for her" that I've been tracking, except it cuts both ways. He's guarding Vee and betraying her in the same sentence, and he can't tell. I love him a little less, and I find him a lot more interesting.
 
-The heat is the best in the book. The clothes coming off as one long run of interruptions, his hands coming back after every garment. Him watching her take him. "A groan he had not decided on." It's explicit, nobody looks away, and all of it is fighting with grief. That's the exact mix I came for.
+Then she says "I want us," "torn out of her." Pace hears it as the threesome, the plan, everything going right. I heard it as terror: *I want us, the two of us, before this gets away from me.* She's the one who came up with "only in a threesome, with you" as camouflage. Now she's reaching for "us" and I don't think she knows which us she means.
 
-One thing jolted me: "the freckles across her chest." Freckles are Vee's thing. Randi's been pale every time we've seen her. And she's wearing a *cardigan*, which is Vee's armor too. Either the book slipped, or Randi showed up half-dressed as the girl she's jealous of. I'm choosing to believe it's the second one, but I'm watching.
+Then she leaves. Of course she leaves. "No thanks" to food, bright as a waiter's please. He's starving and she won't eat. The feeding thread snapped clean in half: he eats at the table, then makes more, alone. "She had never left after. Not once." That line hurt. She cried behind a locked door on the bench night and still stayed. Now it's the camisole, "See you," and the deadbolt turned back from the inside. He reads it as "the want, more than she could lie still under" and he's so wrong, and the book lets him be wrong without hammering me with it. Mostly. "If it was something else he could not have said what" is a small nudge, but at least it's his nudge and not the narrator's.
 
-The Blondie swap for Steely Dan, I noticed. "The disco one," with the heart of glass. Cute, book.
+One real snag. Freckles? "The freckles across her chest." Randi is pale, black hair, porcelain. The freckles are Vee's. Either the author slipped, and that would bug me in a book this careful, or Pace is looking at Randi and seeing Vee. If it's on purpose, it's devastating. I'm going to give it the benefit of the doubt for now, because Blondie replacing Steely Dan also tells me the house has changed key.
 
-1 a.m. text: *she rode him and made him tell her what VEE SMELLS LIKE and came apart when he said "her stomach is soft," then said "I want us" and LEFT. she's never left. he stood in the door like a kicked dog and then ate two dinners. I'm on the floor.*
+1 a.m. text: "she rode him going TELL ME and he told her the new girl's stomach is soft and she clenched so hard he said her name. then she said 'I want us' and LEFT. she's never left. he made dinner alone and ate twice. I'm unwell"
+
+## GATE
 
 GATE 11 — Swim Lanes
 DECISION: CONTINUE
@@ -24,20 +26,21 @@ CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "the freckles across her chest, the cocoa-brown of her nipples gone tight and dark against the pale" (I stopped and went *wait, whose body is this?*)
-WHY: This is the hottest scene in the book, and every stroke of it is jealousy and starvation that Pace keeps misreading. The book finally trusts me with the subtext. He's keeping Vee's truck to himself, and she's leaving instead of staying. The ground just moved under all three of them.
+ALMOST-STOPPED: "the freckles across her chest". For a second I thought the book had mixed up its own women, and that would have broken the spell.
+WHY: The explicit scene and the emotional crack are the same scene. She uses Vee's body as foreplay and then can't stay in the bed afterward. It's both things at once, which is what I came for, and the empty chair and the uneaten dinner have me turning the page right now.
 
-LEDGER
-+ FEAR: Randi's tight-as-a-board belly at "soft." Vee's body is going to become one more thing Randi measures herself against and starves for.
-+ SUSPICION: "I want us" means her and Pace without Vee. She's frightened of losing him to the girl she picked.
-+ SUSPICION: Freckles and a cardigan on Randi. Either it's a continuity slip or she's dressing like Vee.
-+ LOVE: Pace alone in his doorway, then eating twice and still hungry. The first time he's just a man who got left.
-+ WAITING: The next time Randi sees Vee, after tonight. What face does she bring to stats?
-~ F10.5 CONFIRMED: The truck went to bed with them, but as a wound, not as foreplay.
-~ S6.1 DEEPENED: He kept the truck too. "He did not say how he knew."
-~ W8.4 ANSWERED: He keeps the intimate moments and hands over the sensory ones: perfume, chlorine, belly.
-~ S5.2 DEEPENED: She wouldn't let him tell her how the day was. It's jealousy, and she can't tell which of them it's over.
-~ S1.3 DEEPENED: He misreads her a second time ("He took it for the want"), and this time it costs him.
-~ G1.6 SHIFTED: "If it was something else he could not have said what." The book finally left the subtext to me.
-~ W6.4 FADED: The bench didn't come back, and she isn't staying the night anymore.
-~ F6.3 DEEPENED: She took him the way she drank the wine, all at once, and then she was gone.
+## LEDGER
++ SUSPICION: The freckles on Randi's chest are either an author slip or Pace seeing Vee on top of her. I need to know which
++ FEAR: Randi leaving after, for the first time ever, is the start of her pulling away from Pace, and she'll make Vee pay for "her stomach is soft"
++ SUSPICION: "I want us" doesn't mean the threesome. It means Randi is scared she's losing Pace to the girl she picked
++ LOVE: The empty chair by the door. She came with no bag, so she planned to leave before she ever knocked
++ GRUDGE: Pace says he "kept" the truck while handing over Vee's stomach. He thinks he's protecting her and he's selling her by the piece
++ WAITING: Whether Pace ever gets to tell Randi "how it was," and whether she ever lets him
+~ W10.4 ANSWERED: He reported the truck, but only as a body ("her stomach is soft"), and she broke open hearing it
+~ W8.6 RESOLVED: The bedroom finally came, four chapters late, and it was explicit and worth it
+~ G7.1 FORGIVEN: The skipped bedroom got paid back in full
+~ S6.2 DEEPENED: He reads her clench and her rigid belly as want, and her leaving as too much want. He's misreading her again, and this time it costs him
+~ F5.1 DEEPENED: The chlorine and the soft stomach go through her like a blade, and she says "I want us" like she's grabbing hold
+~ S3.4 DEEPENED: He keeps the truck for himself and for Vee. "For us" has become "for her" even in Randi's bed
+~ W3.7 DEEPENED: He's starving and cooks, she says "No thanks" and goes. The feeding thread split, with him eating twice alone
+~ L1.1 DEEPENED: Her laugh came out "thin, not her laugh." Even her tells are breaking

@@ -1,20 +1,22 @@
-*capture-dag-v3-grounded · gate ch005 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha acce4835cff0 · dated · memory grounded: facts none + raw ch001..ch004 · history ch001..ch004 · ledger no seed 3183fd45db4c · 2026-11-02*
+*capture-dag-v3-grounded · gate ch005 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1cf7fe210808 · dated · memory grounded: facts none + raw ch001..ch004 · history ch001..ch004 · ledger no seed 92713bae1a43 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-I knew this was a setup from the first paragraph, and that made it worse. "The place on Wilson." That's the café Randi made up for Brooke as her cover story on the walk-of-shame morning, and now she's the one who suggests moving there. Then she's texting with that "private, absorbed focus," the bell tinkles, and in walks Pace. Vee thinks it's some boy. It *is* some boy. He's her boy, and she just called him over to the table. Cassie is the only one who looks up and watches Randi's thumbs, and I could have kissed her for it. She's on to something. She doesn't have the vocabulary for it yet, but she's on to it.
+Okay, so we're doing the meet-cute from the wrong side of the glass, and I knew every beat before Vee did. That's the pleasure of this chapter, and it's also why it hurts a little. Randi texting with that "private, absorbed focus," and Vee going "some boy," amused. Yes, Vee, some boy, and he's in line right now. Then he walks four steps straight at her and the room "settles a half-degree," and I'm sitting there going *he built a bench for your friend.* When he rolled his cuffs and she caught on his forearms, then wondered "what he did with his hands besides math," I actually laughed out loud. Furniture, sweetheart. Specific furniture.
 
-What got under my skin is that Pace's courtliness, the thing the jacket sells as romantic, is something I've already watched him do on purpose. He backed off and let Randi decide in the kitchen, and here he hands the pencil back at the exact line where Vee can finish the problem. I read "May I call you?" with Vee hearing it as a word from another vocabulary, and I know it's the same patience that put Randi on the bench crying. It's lovely and it's a method, both at once. The book lets me feel Vee falling for it while I know what it costs, and that's a real and nasty kind of suspense. Then "This is the nicest a person has been to me in a really long time. And it's froyo." Oh, honey. He doesn't make it bigger than it is, he just says "Your tart's holding up," and I melted. That's the problem. I melted for a man I know is running a play.
+What I loved most was Randi saying "Randi." One bare word, with no adjective bit and no parents-had-a-sense-of-humor. Meanwhile Vee has borrowed that exact bit, swerve and beat and all, and she performs it *for Pace*, in front of Randi. That's the title, isn't it? Substitution. Vee is trying on Randi's poise, and Randi doesn't want it in the room with him. Then there's the coffee cup coming up twice with no sip. Vee files it as "she's bored," and I file it as Randi watching her own game play out and not liking how it feels in her hands. The jacket said this would get real for all of them, and I think this is the first crack, from Randi's side.
 
-Then there's Randi's hand. She says "Randi," one bare word, no adjective bit, and her cup goes up twice with no sip. Vee files it as boredom. I don't know who Randi is jealous of, and I think that's the point. Is it Pace looking at Vee like nobody else is in the room? Or is it Vee getting the version of Pace that Randi locked herself away from in that bathroom? And meanwhile Vee is wearing *Randi's* intro line like a borrowed dress, right in front of her. Substitution, sure. Then Randi bounces right back and says "He wants to see you naked," selling her own boyfriend to her own crush. I'm uneasy for all three of them.
+Bessel's correction gave me chills, in a nerdy way. Randi asks her boyfriend a stats question like he's a stranger, and he answers her like a stranger, crisp and short. So she IS in stats, Pace is close to it, and the whole thing is staged on top of the lie she told Brooke. They're even at "the place on Wilson," her fake alibi. It's a nice touch and the book doesn't point at it.
 
-Cassie's great-aunt line made me laugh out loud, and then it stung. It's the look that slides off Cassie every day, and she names it without a flicker. I love her more every chapter.
+Cassie, though. "He looked at her the way you'd look at somebody's great-aunt." I'm screaming. Cassie watched Randi text, put her pencil down, and then *she's* the one who points out the cute guy. I can't tell yet whether she's innocently helping or whether she's lining things up so she can watch. Either way she's the only one at that table who sees anything.
 
-Gripes. The Euler bit is "latent variables" again: two things that won't give, put them at right angles and they become one plain thing. Yes, book. I see the three of them. The math is fine. Making it a thesis statement is not. And there's the "The way he had— the way he had— the way he had given her back the pencil" list, which is the book explaining what I'd just watched. It's the same habit as always.
+Pace is courtly, and it works on me even though I know it's a con, or half a con. "May I call you?" He hands the pencil back at exactly the line where she can finish it herself, and that's the bench with Randi again: he waits for her to do it. The froyo ending is sweet. Her mother is silent for once and the cup leans, and "Your tart's holding up" is a perfect way to not make a moment large. I liked it a lot. Euler as two things that won't give until you set them at right angles is clearly about the three of them, and I'm grateful the book didn't say so.
 
-And I'm keeping count: that's two chapters in a row where nobody touches anybody. Forearms and Vee pressing her palms flat to her thighs under the table count as a simmer. I'll allow it because the dramatic irony is so loaded, but chapter 6 needs a body in it.
+Now the gripes. That's two quiet chapters in a row, and I said chapter 5 needed to bring it. The heat is forearms and an earlobe and palms pressed to thighs under the table. That's simmer, nothing more. The "*what he had done*" list (the way he… the way he… the way he gave her back the pencil…) is the book explaining its own subtext AGAIN, right after it had shown me all of it. And Randi's "he wants to see you naked" was fun, but I wanted us cutting to her afterward, in his bed, debriefing. Somebody had better get undressed next chapter.
 
-The 1 a.m. text: *she texted HIM to come over, he "rescued" her crush with Euler's formula, said "may I call you," and Randi gave her own bf a hard sell. "He wants to see you naked." I'm screaming.*
+1 a.m. text: "the boyfriend just picked up the new girl at a coffee shop IN FRONT OF HIS GIRLFRIEND who asked him a stats question like he was a TA and the roommate said he looked at her like a great-aunt 💀"
+
+## GATE
 
 GATE 5 — Substitution
 DECISION: CONTINUE
@@ -22,19 +24,20 @@ CAPTURE: 7
 NEXT: 7
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "On their own these two are a struggle — you push and they won't give, and neither one quite looks like what it is. Put them together, at right angles, and they turn into a single thing that's suddenly plain"
-WHY: Watching a seduction from inside the target while knowing it was arranged is delicious and creepy, and Randi's busy coffee hand says more than any of the dialogue. But it's the second quiet chapter in a row and the book underlined its theme again. I need heat soon.
+ALMOST-STOPPED: "The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil*…" It lists everything I'd already watched happen.
+WHY: The dramatic irony is delicious, and Randi's bare "Randi" and the no-sip coffee are the best things in it. But this is the second chapter in a row without any real heat, so my patience is now running on the promise of what Pace does with his hands.
 
-LEDGER
-+ FEAR: Pace's "may I" and the pencil handed back are technique, and Vee's "nicest a person has been to me" is going to curdle when she finds out she was arranged.
-+ SUSPICION: Randi's untouched coffee is jealousy, and she doesn't know herself whether it's over Pace or over Vee.
-+ LOVE: "Your tart's holding up." He didn't make her moment bigger than it was, and I hate how much it worked on me.
-+ WAITING: Randi's debrief with Pace. What does she say about this afternoon when they're alone?
-+ WAITING: The first time Pace actually touches Vee.
-~ S4.4 CONFIRMED: Randi's thumbs on her phone, then the bell. She brought him in by text, at her own cover-story café.
-~ L4.1 DEEPENED: Cassie watched Randi text and called out Pace's great-aunt look. She sees everything.
-~ F4.2 SHIFTED: Cassie is still at the next table a week later, so the goodbye hasn't happened yet. But Vee's using Randi's line now.
-~ F3.2 DEEPENED: Now I've watched the whole chain work. Randi texts, Pace walks over, and Vee feels "chosen."
-~ G1.6 DEEPENED: Euler's formula as a thesis about the three of them, plus the "the way he had—" list explaining the moment I'd just seen.
-~ W4.6 DEEPENED: Still nothing but forearms and an earlobe, two chapters running. I'm counting again.
-~ S1.3 DEEPENED: From Vee's side, his perfection reads as a method he's running on her.
+## LEDGER
++ FEAR: Randi is jealous already. Watching Pace aim all that attention at Vee is landing somewhere she didn't plan for, and she'll punish someone for it
++ LOVE: Randi saying just "Randi" to him, with no bit, while Vee does Randi's bit at him
++ LOVE: "Your tart's holding up." He doesn't make her embarrassing moment big
++ SUSPICION: Cassie saw Randi texting right before Pace walked in, and she's watching the whole setup more closely than she lets on
++ WAITING: Vee and Pace alone with heat, and Randi's debrief in his bed afterward
++ GRUDGE: Two quiet chapters back to back. The book owes me skin
+~ S4.3 CONFIRMED: Randi's texting is with Pace, and she's running the play from the table
+~ S3.5 CONFIRMED: Randi is in stats, and Pace answers her Bessel question like a stranger, at her fake Wilson alibi spot
+~ S3.4 DEEPENED: He looks at Vee like nobody else is in the room, and Randi's hand stays on the cup
+~ F3.3 DEEPENED: Now the pickup was staged too, and Vee feels "absurdly chosen"
+~ W4.5 SHIFTED: Her mother's voice went silent over the froyo cup. That's the first loosening
+~ L4.1 DEEPENED: The "great-aunt" line
+~ G1.7 DEEPENED: The "the way he had…" list explains what I'd just seen

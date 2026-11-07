@@ -1,51 +1,41 @@
-*capture-dag-v3-grounded · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 949e5c0dcfb8 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 37423789e204 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 0b3fa7e6f760 · 2026-11-06*
 
 **REACTION**
 
-"She came back."
+She went back. Vee had her hand on the latch, turned around, took Randi's face in both hands and kissed her, and kept kissing her under fifty years of sisters in black drapes. That's what I'd text at 1 a.m. For forty-four chapters Randi has been the one leaning in. There was the second press at the curb, the foot under the table, "Sticky fingers?" Vee has walked past every one of those doors without seeing them. Tonight she didn't need a door. "She only knew she wasn't finished." Then the camera swings to Randi's side of the latch, with the back of her hand against her mouth "which was a thing she had not done since she was fifteen," laughing out loud alone in the hall. A sentence with *means* in it is trying to put itself together and she won't let it. I grinned like an idiot. "The afterward was the least interesting part of four months." After twenty-six chapters locked out of her head, I got two in a row, and the second one gave me Randi happy. I didn't know the book would let her be happy.
 
-Randi, alone in the foyer with the back of her hand pressed to her mouth like a fifteen-year-old. I had to put the Kindle down. For forty-five chapters she's been the one who leans in: the second press, the glaze on the lip, "Sticky fingers?" Vee always held still for it, said thank you, and never once started it. Now Vee gets her hand on the latch, turns around, takes Randi's face in both hands, and stays. "Randi's breath stopped against her mouth." Under fifty years of composites, every one looking a little to the left. I've wanted that kiss since the velvet booth, and the book gave it to Vee, who has no idea what she just did. Then it handed me Randi's side of it, and her side is pure joy. One idiotic laugh in an empty hall. A sentence "with *means* in it" that she won't let finish. She wants a warm mug and twenty minutes of holding onto it.
+And then Brooke. I've had her on my ledger since chapter 2, building a file, and here it is: "You always say goodbye under the composites." She says it kindly the whole way through, and that's what makes it horrifying. Play all you want, for the boys. "The day he thinks it's true—". Lauren Pike. "You need to choose." Randi stands there with an empty cold mug she forgot to fill. Ten minutes after the happiest moment of her life in this book, the house puts a price on it. The cut to her shutting her own door is exactly right. Now I'm terrified, because I know which way Randi chooses. She told me in Gstaad: she has never had to be brave, and she arranged her whole life so she wouldn't have to be.
 
-Then Brooke is at the counter.
+The coaching scene is where I have mixed feelings. It's chapter 24 again: Vee wrecked on Randi's bed, Randi taking the fight apart, Randi sending her back to Pace on Randi's schedule ("Go to him tonight") in Randi's shoes. I noticed the rerun. But this time the dramatic irony is so thick I could taste it. "Not a word," said low, with her eyes past Vee's shoulder. That isn't some boy from her past. Pace hasn't called *Randi* either, for six weeks. Vee hands her the fight, and Randi reads Pace perfectly, "a boy holding himself still so it won't show how much you got him," because she knows him better than Vee does. "I'm so jealous I could scream" is the truest thing she's said, and it sails right past. Then the part that made me suspicious: is she sending Vee back because she loves her and wants her happy, or because Vee is her only road back into that house? Probably both, and the book won't let me pick, which I like.
 
-"You always say goodbye under the composites." My whole body went cold. She does it so kindly: "I'd be tempted myself," "play all you want... or for the boys," Lauren Pike, and then "You need to choose." She never raises her voice and never sits down. She touches Randi's arm on the way out and goes to talk to Sloane about a form. I've been carrying that fear since chapter 2, the Standards seat being used against her, and here it is. The empty mug she puts back in the cupboard is the starving thing in one gesture. She was going to let herself have one warm thing and someone took it off the counter. I'm terrified she chooses the house. She's arranged her whole life so she'd never have to be brave, she said so in Gstaad, and Brooke just made being brave cost her a home.
+The coat. Okay. Coat with nothing under it is a KU trope. I've read that doorstep a hundred times, and part of me rolled my eyes at it. What saves it is that it runs through Vee's shame wiring. "There was a word for that girl and it was already in her mouth." Randi makes her say "slutty" out loud and then walks her down from it one word at a time. Then the shoes. Laddered black straps, a stiletto, "not one was there to hold the shoe on." Her nipples draw up and she files it under *tonight*, the coat and the man, with her eyes kept on the straps, and for a second the two of them are holding the same shoes. I know where that ache came from even if she doesn't, and that's the both-at-once I'm here for. Also, those shoes look a lot like bench shoes to me. Randi is dressing Vee's feet for Pace again, and he's going to open his door and see Randi's taste on the woman he's been sobbing over.
 
-The coaching scene is where my stomach turned, though, and it was wonderful. Randi is genuinely good to her. "The fear's a liar, and you haven't slept" is the wisest thing anyone has said to Vee all book. She takes the made-up blonde apart in about four questions. "A boy holding himself still so it won't show how much you got him" is true, and I just watched him sob over freezer chicken. But look at what she's prescribing: "You don't do it with words. Words are the whole war." Honey. Vee walked out into the cold over *one word*, and her best friend is talking her out of asking for it again and dressing her as the answer instead. Nothing under the coat, Randi's stilettos with all those straps that don't hold anything on, and "Just the thing for tonight" said like they're flats. Vee's nipples go tight while Randi's fingers are still hooked through the same shoes, and she files it under *tonight*. I didn't believe her, and I don't think Randi would have either. Is Randi giving Pace back to her out of love? Is she putting the arrangement back together? Is she sending Vee in to the bench in heels she picked? I think it's all three, and I don't think Randi knows which one either.
+"That's how she sounds at home." Vee finally got it right without knowing what she got right. Home is Kentucky, not Switzerland. That one hurt sweetly. And the plum polish she "kept up the whole break for a man who had not called," her thumb going across it while Randi talks about the blue dress, is a lovely small thing.
 
-And "Not a word," said past Vee's shoulder. Vee hears some old boy. I heard Randi's own six weeks of nothing from that house. Randi also sat through the whole Sheri panic and never said she's met Sheri. She danced past her at the hall. She keeps her secrets even when she's being kind.
+Gripes. The plane opening is throat-clearing: the drone, the pool on Tuesday, the list of friends. It's another recap of the break I already lived through twice, and the lavender and fabric softener get named one more time. Vee still believes Sheri is real competition while Randi, who *met* Sheri, says nothing. "The fear's a liar" and the three-in-the-morning speech are Randi doing the book's explaining for it. And Brooke's speech is a little too neat, with Lauren Pike dropped in so the threat has a name. But Randi's "Everywhere but the bedroom, and the bedroom's the room I actually live in" is a perfect cover line. She tells the truth sideways and Vee laughs for the first time all day.
 
-The John retelling was perfect: "Everywhere but the bedroom, and the bedroom's the room I actually live in." It's the truth inside a joke again, and Vee laughs for the first time all day. Vee sitting there worrying the plum polish on her own toe, polish she kept up all break for a man who didn't call, wrecked me. The raccoon line made me laugh out loud.
+Tonight is the coat. I'm not putting this down.
 
-What dragged: the plane. Kayla, Meg, Cassie's highlighter, the pool at four o'clock. It's a list of her life read back to me, and the chapter's whole first page is throat-clearing. And Cassie's away for the weekend, so of course Vee goes to Randi. Again. Also, the trench-coat-and-nothing-under-it move is a trope I've read a hundred times. The book knows it, and it gives the trope Vee's mother's voice, so it earns it more than most. But I clocked it.
-
-Then there's Pace's side. He's alone in that house, drunk on New Year's, sure he has to say it. Vee is walking in tonight having been told not to ask. I need this door to open.
-
-GATE 46 — My Friend Randi
+GATE 45 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise and everybody's coats piled at the end of the table." (a full inventory of her life on a plane before anything happens)
-WHY: Vee kisses Randi first, and Randi standing in the foyer with her hand on her mouth is the happiest she's ever been. Then Brooke takes it away with a smile and a choice. Meanwhile Randi has sent Vee to his door in her stilettos with no words allowed, so tonight is going to be enormous.
+ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise and everybody's coats piled at the end of the table." That's the plane-window inventory, where I thought I was in for a third quiet chapter of the same grief.
+WHY: Vee turning back from the latch to kiss Randi is the bond turning at last, and then Randi's two minutes of joy get cut off by Brooke's "You need to choose." The coaching is the chapter-24 rerun, but those shoes, the coat, and "tonight" mean I'm reading on right now.
 
 LEDGER
-+ FEAR: Brooke made Randi choose between her seat in the house and Vee, and Randi has never once been brave. She'll pull back from Vee right after Vee finally reached for her.
-+ LOVE: Randi alone under the composites with the back of her hand to her mouth. "She came back."
-+ SUSPICION: "Words are the whole war." Randi is coaching Vee out of asking for the one word she needs. It's love and it's sabotage, and it puts the three-way arrangement back together.
-+ SUSPICION: Randi has met Sheri at the hall and let Vee's whole Sheri panic go by without saying so. Even her kindness keeps things back.
-+ GRUDGE: The trench coat with nothing under it is a stock move, earned here, but I noticed.
-+ WAITING: Tonight. Vee at his door in the coat and Randi's stilettos, no words, and a Pace who just learned he has to say it.
-~ F2.2 CONFIRMED: Brooke used it, kindly. "You've got a position in this house, and you've got her. You need to choose."
-~ L2.3 DEEPENED: "Kind as anything," a touch on the arm, Lauren Pike, then off to Sloane about a form. She never raised her voice.
-~ S27.4 CONFIRMED: Vee turned back at the latch and kissed Randi first, and stayed in the kiss.
-~ F3.6 DEEPENED: Randi's strappy stilettos, "just the thing for tonight," and Vee's body answering while both of them hold the shoes. Randi is dressing her for the bench again.
-~ F3.2 DEEPENED: Randi is steering Vee straight back to his door, timed and dressed, and Vee calls it gratitude.
-~ F44.3 SHIFTED: Randi took the invented blonde apart for her, while being the real other woman.
-~ F43.4 SHIFTED: Randi dismissed John: "everywhere but the bedroom." She isn't taking the safe life yet. Brooke is offering her another one now.
-~ S43.5 DEEPENED: A whole hour of coaching on Pace and not one word about her own six weeks with him.
-~ W44.7 ANSWERED: Back on campus. Randi came down the stairs fast with no face on, for her.
-~ W43.8 ANSWERED: Two of them in one room again, and the room has a kiss in it.
-~ F4.2 DEEPENED: Cassie's side is stripped and empty, and Vee walks to Randi's without a second thought.
-~ G44.5 RESOLVED: The silence is about to break, with a plan and a coat instead of a text.
-~ F1.4 DEEPENED: The mug put back in the cupboard with nothing in it.
+~ F2.1 CONFIRMED: Brooke kept the file. "You always say goodbye under the composites," Lauren Pike, and "You need to choose"
+~ W31.7 ANSWERED: Vee didn't need a door. She came back from the latch and kissed Randi herself
+~ W43.5 ANSWERED: Randi came before term started, down the stairs fast, and swept the Gstaad dresses onto the floor for her
+~ F43.3 SHIFTED: Vee admitted the blonde was built at 3 a.m., but she still thinks Sheri is real, and Randi doesn't correct her
+~ L4.4 SHIFTED: "That's how she sounds at home." She's right for the first time, and she doesn't know home is Kentucky
+~ G9.7 DEEPENED: It's the chapter 24 shape again: Vee wrecked on the bed, Randi coaching, a deadline, and shoes
+~ F44.5 DEEPENED: Randi is sending Vee to his door tonight in Randi's heels. The three-in-the-kitchen picture is being dressed for him
++ FEAR: Randi chooses her position in the house over Vee, and the kiss Vee finally started is the thing she gets dropped for
++ LOVE: Randi alone in the foyer with the back of her hand to her mouth, laughing out loud and not caring
++ LOVE: "Everywhere but the bedroom, and the bedroom's the room I actually live in." It's the truth told sideways
++ SUSPICION: "Not a word" was about Pace's silence to Randi, not some old boy. She's sending Vee back partly because Vee is her own way back into that house
++ WAITING: Pace opening his door to the coat and the laddered stilettos, and whether he knows whose shoes they are
++ GRUDGE: The coat with nothing under it is a stock trope, and Randi has to talk Vee into it the way she dressed her in chapter 24

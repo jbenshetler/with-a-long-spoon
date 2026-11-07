@@ -1,48 +1,43 @@
-*capture-dag-v3-grounded · gate ch018 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 3322969ae3db · 2026-11-02*
+*capture-dag-v3-grounded · gate ch018 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 7a6a5192601b · 2026-11-06*
 
 REACTION
 
-*Jesus. Christ.*
+I am sitting here in the quiet feeling completely chilled to the bone. This chapter was like watching two people speak entirely different languages while looking each other dead in the eye, and the sheer, suffocating tragedy of it made my chest ache.
 
-I feel like someone just pressed an ice cube against the base of my skull.
+Pace is so brilliant, so meticulous, so mathematically precise—and he is being so breathtakingly, catastrophically *stupid*.
 
-Look at the brutal symmetry of the cooking. On Friday night, Pace cooked fra diavolo for Vee. She sat at his table wrapped in his top sheet, drinking his wine, and ate until she was completely full, relaxed and domestic and fed. Tonight, he spends all afternoon stewing chicken, potatoes, and cream—comfort food, heavy food, white sauce—and ladles it into Randi’s "small bowl," the one he uses for her thin apple slices. And what does Randi do? She drags the spoon across the surface *once*. A single line through the skin. She eats dry salad leaves, pours her own wine, and leaves the meal to rot on the table. The emotional starvation in that kitchen was so thick you could choke on it.
+Watching him make that stew! He cooked for her. He remembered her small bowl, he remembered the portion she can handle, he put Depeche Mode on, he baked bread. He thinks he is being the steady, generous, patient partner who is gently running their shared project. When she said, *"It's wonderful,"* and he clocked that it was her fake voice—the voice she gives to waiters and sorority sisters—my stomach dropped. That was the sound of a woman closing the heavy iron door and locking it from the inside.
 
-And that conversation across the table! The sheer, staggering blindness of this brilliant man is finally reaching a catastrophic scale.
+And then the confrontation over the table. God, Rivers writes psychological misalignment better than anyone alive.
 
-*"How long, Pace? ... How long are you going to take?"*
-*"As long as she needs. She's not ready."*
-*"She's not ready. Or you're not."*
+When Randi said, *"It's selfish, Pace,"* and he actually thought she meant *selfish because you got to have sex with Vee on Friday without me*?! YOU BLIND, ARROGANT IDIOT. He thinks Randi’s problem is jealousy over his schedule! He thinks she’s tapping her foot waiting for her turn in the threesome!
 
-Randi is standing on the tracks, the train is blaring its horn, and Pace is calmly adjusting the timetable like a station master who thinks everything is running precisely on schedule. He genuinely believes Randi is impatient for the threesome! He thinks she’s just horny and frustrated that Friday happened without her. *"It's selfish, Pace."* And he takes it as her being jealous of his pacing, of him getting the girl first, instead of seeing the agonizing, screaming truth: Randi is watching her partner fall profoundly, irrevocably in love with another woman right in front of her face, and he is doing it under the smug, self-righteous banner of *ethics*.
+He doesn't see what's actually happening at all. Randi isn't mad because he's moving too slow toward their fantasy. Randi is furious and terrified because *he is having a whole, real, breathtaking love affair with Vee right in front of her.* He is giving Vee the spacious, sacred, unhurried courtship—the domesticity, the cooking, the respect, the freedom to choose—while Randi is trapped in the rigid box of their arrangement. Randi sees that he’s falling in love with Vee, and she sees that Vee is falling in love with him, and Randi is being pushed out into the cold perimeter. AND on top of that, Randi is in love with Vee too! Randi kissed Vee on the mouth this morning! Randi is drowning in feelings she has no architecture for, and Pace just sits there across the white stew lecturing her about consent and *“How do I get her from where she is to us, on your schedule?”*
 
-*"She chooses it, Randi. Every step of it. Or it isn't anything."*
+The cruelty of that sentence, even though he didn't mean it to be cruel. *“She chooses it, Randi. Every step of it. Or it isn't anything.”* He basically told her: my bond with Vee is sacred and based on pure choice, and you're just being impatient.
 
-GOD. The sickening irony of that sentence coming out of his mouth! He thinks he’s being so noble, so patient, so careful of Vee’s consent—completely blind to the fact that his "courtly patience" is actually him hoarding Vee for himself, carving out an entire domestic romance that has completely left Randi behind in the cold.
+And then her pouring her own wine. That tiny, devastating act of defiance. He has poured every single glass of wine she has ever had in that house. She took the bottle by the neck and poured it herself because she is done letting him curate her.
 
-And then the bedroom. My stomach physically turned over.
+And the bedroom. God, that broke my heart. No *“Tell me.”* That voyeuristic thrill—the thing that started this entire nightmare, the dirty little engine that fueled their bedroom game—is officially dead. She didn't want a single detail. She didn't want to hear about Vee from him. She just used his body like a blunt object to knock herself unconscious, shut her eyes so she wouldn't have to see him, came violently, and rolled into the cashmere blanket with her back turned.
 
-No game. No "inch and a stop." No looking him in the eyes. And most devastating of all: *no "tell me."*
+And Pace standing in the kitchen at the end, looking at the skin forming over the cold cream sauce, genuinely thinking, *I don’t know what I did. It must be the want.*
 
-For six weeks, "tell me" was Randi’s desperate, fragile tether—her way of staying in the room, of absorbing Vee’s scent and Vee’s softness through his mouth so she didn't lose him completely. Tonight? She shut her eyes. She didn't ask for a single word. She just used his body like a blunt object to get an orgasm out of herself, rolled into the cashmere blanket, and turned her back to him.
-
-She has completely given up on being let inside.
-
-And Pace—standing in that dark kitchen, staring at the cold skin over the untouched chicken stew, genuinely thinking, *It was the want, with an edge on it tonight... I do not know what I have done.*
-
-You broke her, you brilliant, arrogant idiot. You took the buffer she built to protect herself, you turned it into a real romance, and you left her locked outside her own life. This triad isn't going to merge. It’s going to detonate.
+The sheer dramatic irony is unbearable. He thinks it's "the want." He has mapped out every coordinate of this seduction, but he has completely failed to calculate the human heart. The house is freezing cold no matter what the thermostat says.
 
 GATE 18 — Portion
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute psychological devastation of Randi refusing to eat his food, refusing to ask him to "tell," and turning her back on him in bed while Pace remains completely, fatally blind to her heartbreak was a masterclass in tension.
+WHY: The absolute psychological tragedy of Pace completely misreading Randi's heartbreak as threesome impatience was a masterclass in dramatic irony and character fracture.
 
 LEDGER
-+ FEAR: Randi has completely emotionally detached from Pace, which means her next move with Vee will be reckless and desperate
-~ F6.1 DEEPENED: Pace's complete blindness to Randi's actual emotional collapse is going to blow this entire triad up before it even starts
-~ F1.1 DEEPENED: Randi using Vee as an emotional shield has completely backfired, leaving Randi frozen out while Pace falls in love with Vee
-~ F11.1 SHIFTED: Randi isn't pushing for the threesome out of lust; she's demanding Pace's timeline because she can see he's keeping Vee entirely for himself
++ FEAR: Pace’s stubborn insistence that Vee must "choose" every step is going to make the eventual reveal of the setup feel infinitely more sadistic to Vee when it blows up.
++ GRUDGE: Pace’s blind arrogance in assuming Randi's anger is just sexual frustration/impatience rather than profound emotional isolation.
+~ F1.1 DEEPENED: Randi's shield has completely shattered; she isn't protected from Pace at all, she's trapped between her feelings for Vee and being sidelined by Pace.
+~ F5.2 SHIFTED: Randi isn't just jealous of Pace having Vee; she's grieving being locked out of the real, tender romance they are building without her.
+~ L11.2 DEEPENED: Pace being utterly clueless and baffled in his own kitchen, unable to solve the human equation in front of him.
+~ S1.3 DEEPENED: Randi's entire defensive posture is failing; refusing to hear the details ("Tell me") shows she can no longer stomach the voyeurism.
+~ W14.3 SHIFTED: Still waiting for the dress, but now desperately waiting for the friction between Randi and Pace to rupture their united front in front of Vee.

@@ -1,41 +1,49 @@
-*capture-dag-v3-grounded · gate ch009 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 069f140dd871 · dated · memory grounded: facts none + raw ch001..ch008 · history ch001..ch008 · ledger no seed 32fd235e9a0f · 2026-11-02*
+*capture-dag-v3-grounded · gate ch009 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4cd170705c0 · dated · memory grounded: facts none + raw ch001..ch008 · history ch001..ch008 · ledger no seed 2945ef62b628 · 2026-11-06*
 
-**REACTION**
+## Reaction
 
-"Paul?" She snapped her fingers twice to look like she was trying to remember it. Randi has been straddling Paul on his couch and saying *Tell* into his ear. I laughed out loud, and then I felt sick, because she's so good at this. And then she gives Vee the dating-disaster story: tall guy, dressed like money, French place, talked all night about his summer in *Switzerland*. Vee was the one who decided Randi's accent came from Switzerland, back in chapter 4. Either the book is winking at me or Randi invented a whole man on the spot. I'm fairly sure that date never happened, and the moral was the whole point: "a man who can't be bothered to listen to you... is not going to bother taking care of you anywhere else." She's still selling Pace, just by showing Vee the opposite of him. Vee walks right into it with "He's nothing like that."
+Okay. I'm still here, but I caught myself counting.
 
-Then she collects the report herself. Pace gets told on the couch, and Randi gets her own version over the smoothie. "You let him choose for you. And you liked it." That isn't a question, it's her taking notes. And "Because you couldn't not. Because of him." Vee had her own dignified version ready, *I made an exception*, and Randi swapped it for the smaller one, and Vee took the swap. That hurt to watch. The only moment Randi slips is "Ask and then ravish," a beat late, low, at Vee's own volume. That's the bed voice. For one line she isn't running anything, she's on the trail with Vee because she wants to be there too. It's the hottest line in a chapter that's mostly not hot, and it's also the one that made me feel the most for Randi.
+The Cassie half was lovely. Vee comes in already talking, drops her voice to tell the kiss part, then spins and nearly takes out the closet door before landing in the bean bag with "*Look at me.*" That's a woman finding out she has a body she can be happy in, and it got me. Then Cassie asks "How much did he give you to drink?" and it lands as love and as an alarm at once. Cassie doesn't trust a man who makes Vee act out of character, and she's right, just about the wrong thing. "Off six-fourteen. That's the whole address." I laughed, and then I went cold, because I know what's at the end of that gravel road. *I haven't been out there yet. To the house.* Honey, there's a table in the bedroom.
 
-And Cassie. God. The dorm scene is lovely. "How much did he give you to drink?" is the one person in this book who actually checks on Vee asking whether it was a real yes, and then she believes her. The state-troopers bit, "Off six-fourteen. That's the whole address," "Borrow good ones." Then six days later Vee doesn't watch her go. She calls Cassie's absence "having your own people," and "underneath it something turned over, small, and she let it lie." There it is, the goodbye from chapter 4 starting to happen, and Vee is the one doing it. I hate this, in the good way.
+Then six days pass, and it's Randi, and I sat straight up at "Paul?" She snaps her fingers twice, reaching for the name of the man whose couch she rode while saying *Tell.* That's a gorgeous little lie and the book doesn't point at it. Her "catastrophe" date is even better: a man who talks about himself all night "is not going to bother taking care of you anywhere else." She's describing Pace by his opposite, a love letter written as a complaint. She orders beet, wheatgrass and egg white, her mother's egg whites in a cup the color of a bruise, while Vee orders oat milk because Randi's standing there. That got me.
 
-Brooke came back and my stomach dropped. The taller friend scared me more than Brooke did: she's silent, she gives Vee a full once-over, and she's "done turning it over." Randi taking Vee's hand and saying "my dear friend" in front of the president of her house is either the bravest thing she's done or the most reckless. Vee reads it as being picked. I read it as Randi spending in front of the one woman already keeping a file on her, and going a little bit off-script because she wanted to hold the hand. Vee shrinking herself to protect Randi's status, before anybody has asked her to, broke my heart a little.
+The best beat in the chapter is "Ask and then ravish," said "a beat late and low, the first thing she had said all day at Vee's own volume." Randi slips out from behind the face for one line, and it's about Pace's hands on Vee. I can't tell if she wants to be him or be her, and I don't think she can either. There's also "Because you couldn't not. Because of him." She takes Vee's dignified "I made an exception" and quietly rewrites it into surrender. That's the jacket's "draws her further open," and it's a little sinister.
 
-Gripes. I've now had the date three times: once live, once to Cassie, once to Randi. "May I. Not can I. Who even says that." I know, babe, I was there. The retellings have new things in them (the bridge, Cassie's drink question, Randi's swap), but the kiss recap in the dorm felt like a rerun. "Girls who had all gotten dressed in the same room" shows up twice in the same scene, and I noticed. And "Randi had just spent something on her, in front of the girls who decided what it was worth" is the explaining habit again. I'd felt the charge already.
+The "dear friend" hand-hold in front of Brooke is great. I'm also suspicious of it. Brooke is the woman filing "Pace" like evidence, and Randi shows her a girl from stats she's holding hands with. That could be real feeling. It could also be cover: if anyone ever sees Vee near Pace, she's Randi's dear friend. Or Randi spending real social capital to claim Vee in public. Probably all three. Vee feels "picked," and that's chapter 4's "chosen" again, word for word in spirit.
 
-Body count: this is a quiet chapter after a kiss chapter. Vee rubbing her own thighs at the image of being ravished is a simmer and nothing more. It's fine because the next thing is hiking at a house off 614, past the gravel, where there's a table that isn't only a table. The book has put that on the calendar and I'm going.
+Now my problem. The Smoothie Bird is a rerun of Chi Latte. A room full of matched girls, the cardigan over the better shirt "the way she did most mornings" (nearly the same sentence), a high table that feels like a display window, the hug with the hand flat between her shoulder blades, "Love you, girl." I know echoes are this book's thing, and I know Vee "leaned into it like it was already a thing they did" is the point. I still felt like I'd read it before. Cassie is getting cut out, with Vee's "it isn't really her place" and the little thing that "turned over" and got left lying. That's my fear coming true, slowly and well. And I got another explaining line: "not to get out in front of her own humiliation, but to leave nothing of herself worth holding against Randi."
 
-The 1 a.m. text: *randi pretended she couldn't remember his name. "PAUL?" then invented a terrible date so pace would look better, held vee's hand in front of BROOKE, and vee ditched cassie for a smoothie place. also he's taking her hiking. to his house. with the bench. sunday.*
+Counting: ch7 quiet, ch8 a kiss, ch9 a hand under a breast as a joke. That's the third chapter in a row without real heat, and the chapter jumped six days without giving me the Randi–Pace debrief of that kiss. I'm reading this one for the irony, which is excellent. But I came to this book for both things, and right now I'm getting one. The hike to the house with the bench is the obvious payoff, and it had better be next.
+
+1 a.m. text: "she pretended to forget his name was PACE. 'paul?' with the finger snaps. then held the new girl's hand in front of the sorority president and called her 'dear friend' and I genuinely can't tell if it's love or an alibi"
+
+## Gate
 
 GATE 9 — Dear
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 6
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "May I. Not can I. Who even says that."
-WHY: I'm hearing the date a third time and it nearly lost me, but Randi working Vee for the report, faking "Paul," and then slipping once with "ask and then ravish" kept me in. Cassie being left behind and Brooke's silent friend give this quiet chapter real dread, and Sunday at the house is the thing I'm reading toward.
+ALMOST-STOPPED: "She had worn the cardigan over the better shirt, the way she did most mornings". That's where Smoothie Bird turned into Chi Latte again and I felt the book circling instead of moving.
+WHY: "Paul?", the fake catastrophe date, and "Ask and then ravish" are some of the sharpest irony in the book, and Cassie is being lost exactly how I feared. But this is the third quiet chapter running and the debrief got skipped again. The hike to his house is the only thing I'm holding on for, and it has to deliver skin.
+
+## Ledger
 
 LEDGER
-+ SUSPICION: Randi's French-dinner disaster is made up, maybe on the spot, so that Pace looks like the man who listens. The Switzerland detail is the book winking at Vee's guess about the accent.
-+ LOVE: "How much did he give you to drink?" Cassie checks whether it was a real yes, then believes her.
-+ LOVE: "Ask and then ravish." The one line Randi says at Vee's volume, not her own.
-+ FEAR: Brooke's tall silent friend clocked "dear friend" and the hand on the table. Randi just gave Brooke something to file.
-+ GRUDGE: The date retold twice in one chapter. I was there for "may I choose."
-+ WAITING: Sunday hiking, the house off 614, and whether Vee walks past that table.
-~ F4.2 DEEPENED: Vee didn't watch Cassie go and called it "having your own people." Something turned over and she let it lie.
-~ F2.2 DEEPENED: Brooke found Randi with Vee, and now there's a Thursday Randi missed.
-~ S5.2 DEEPENED: Randi's hand reaching for Vee's in front of Brooke wasn't strategy. She wanted to hold it.
-~ L4.1 DEEPENED: Cassie's state-troopers bit and "borrow good ones." She's still watching, even while Vee stops looking back.
-~ W8.4 SHIFTED: I didn't get Pace's debrief. Randi got hers straight from Vee, and Vee handed over "because of him."
-~ S4.5 SHIFTED: Switzerland came back out of Randi's own mouth, inside a story I think is fake.
-~ F3.6 DEEPENED: Hiking means his house, and the bench is in that bedroom.
++ LOVE: "Paul?", with the two finger snaps. Randi pretending not to know the name of the man she was riding
++ LOVE: "Ask and then ravish." Randi dropping to Vee's volume for one line, and the line is about Pace's hands on her
++ SUSPICION: Randi's terrible-date story is really about Pace. She's praising him by describing a man who's his opposite
++ SUSPICION: "Dear friend" in front of Brooke is partly real claiming and partly an alibi, so that if Vee is ever seen near Pace she's Randi's friend from stats
++ FEAR: Vee is headed to the house off six-fourteen, and nobody, Cassie included, knows what's in that bedroom
++ WAITING: The hike and Vee's first time at the house, with the bench
++ GRUDGE: Smoothie Bird replays Chi Latte almost beat for beat (cardigan, display-window high table, hug, "love you, girl")
+~ F4.2 DEEPENED: Vee tells herself Cassie "has her own people" and lets her go without watching. The goodbye is happening in slow motion
+~ F3.3 DEEPENED: Randi rewrites Vee's "exception" into "because of him," and Vee feels "picked"
+~ W4.5 DEEPENED: The spin in the dorm room, and her hands running down her thighs at the thought of him. Her body is coming out, but the cardigan is still on
+~ W8.6 SHIFTED: The kiss got reported to Randi, but by Vee and not by Pace. The bedroom after the held-out hand is still missing
+~ G8.5 DEEPENED: Three chapters running with no real heat, and the time jump skipped the Randi–Pace scene again
+~ G1.7 DEEPENED: "Not to get out in front of her own humiliation, but to leave nothing of herself…" explains the shrink I'd just watched
+~ W3.7 DEEPENED: Randi drinks egg whites in a bruise-colored cup while Vee eats freely and copies her oat milk
+~ S7.5 FADED: Cassie's protectiveness reads as best-friend love, not anything more

@@ -1,14 +1,16 @@
-*capture-dag-v3-grounded · gate ch019 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha efc752b2acda · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch018 · history ch001..ch018 · ledger no seed 7ea713d4a15e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch019 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch018 · history ch001..ch018 · ledger no seed efe522789a88 · 2026-11-06*
 
 REACTION
 
-Okay, this is the first chapter where I'm just allowed to enjoy something, and I know that's suspicious in this book. The dress reveal works. The finished-looking-bought detail, "he'd taken the further trouble to hide the trouble," is the best line in it. The slit, the underwear coming off as her own choice, and the stride into the den are Vee doing what she did in the truck: acting without being steered. Then the sex gets funny. "Covered in a lot of me" and "Don't point down" are the most human beat the book has given these two, and I laughed. Fingers in his mouth was a real 2. Heat is high, and it's mostly warm rather than ominous.
+Well, this is the payoff chapter and it's pure joy, which makes me deeply uneasy. After the cold dinner in ch18, the book hands me Vee happy and hot and laughing, and I know every sweet beat was built on a plan she can't see.
 
-But I can't switch off the ledger. The dress needs her body, her willingness to be looked at, and now the dress is the thing she wears into the induction like a flag. The final daydream, "It just felt like what she was for," is the sentence that made my stomach tip. What she's for. Whose gaze that line belongs to, she doesn't know.
+The dress reveal got me. Hidden trouble, "store-finished," and the fact that he lined it only where she'd need cover. The slit and the underwear are the best bit of the chapter: she takes them off herself, deciding to be bare under it, and the shame crosses into wanting before it finishes being shame. Then the stride to him. That's Vee choosing again, like the truck.
 
-Randi is entirely absent, and after ch18's bowl in the fridge that's a choice. Pace asleep, exhausted from finishing a dress for a girl, while Randi sits somewhere with an untouched stew. I'm waiting to see what he tells her about today, and whether the dress ever gets shown to Randi. Does Vee keep this from her too? Also "the dress going dark in its window, getting away with something" is a little too tidy.
+The sex is the funniest and most specific in the book. "Don't point down." "A lot of you covered in a lot of me." The dress at half-mast while she laughs too hard to be undressed. Him cleaning her fingers off with his mouth. Hot, and warm in a way the book hasn't let sex be, because nobody is hiding in it. After ch18's joyless, eyes-shut, no-"tell me" scene, this one is a deliberate contrast. Pace gets what Randi wouldn't give him, a woman who watches him and laughs.
 
-Complaints: the sex scene runs long and logistics-heavy. Vee also stops mentioning Randi's kiss at all. But I'm held.
+And that is the dread. He's asleep, having stayed up all night finishing it, and not once in his head, since she's the POV, do we hear Randi. Vee's last thought is about Milan and the room turning. She's "getting away with something." Meanwhile Randi is somewhere eating the salad and nothing else. I want Randi's head badly. Also Pace "leaving the choosing to her" now reads as sincere to me. I just can't keep believing it's only that.
+
+Complaints: the dress reveal paragraphs run a bit long and the narration explains the hidden-trouble point. Minor. Long stretch without Randi in the room, though she haunts it.
 
 GATE 19 — Peekaboo
 DECISION: CONTINUE
@@ -16,13 +18,12 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Standing like that, her weight on his hand and the toes of one bare foot, there was almost nothing they could do" — the standing-dress choreography got fussy.
-WHY: Warm, funny, hot, and then the last daydream turns it ominous, "what she was for." I want Randi back on the page, hearing about this.
+ALMOST-STOPPED: "Her first thought was to keep her steps small, so it wouldn't show." (the long dress-reveal interior before the heat)
+WHY: Funny, specific, tender sex with the underwear choice as Vee's own move. The happiness is the horror, because Randi's absence and Pace's blind spot are both sitting right beside it.
 
 LEDGER
-+ LOVE: "Covered in a lot of me" and "Don't point down," the first genuinely funny, human sex in the book
-+ LOVE: Vee taking off her own underwear to keep the slit's line clean, her choice, no steering
-+ FEAR: "It just felt like what she was for": Vee is rebuilding her whole sense of worth around being looked at by Pace
-+ WAITING: Whether Pace tells Randi about the dress day, and whether Vee hides it from her too
-~ F8.3 DEEPENED: She walked to him bare under the dress and handed him the whole of her confidence
-~ W17.4 SHIFTED: Panties and the dress both sit with Pace; Randi still hears none of the middle
++ LOVE: "A lot of you covered in a lot of me," and the dress at half-mast while she's laughing.
++ LOVE: Vee taking off the underwear herself so the slit's line stays clean, and striding out to show him.
++ FEAR: Vee's induction fantasy of walking in "on purpose" in the dress, and being fully happy, sets her up to fall hardest when the plan surfaces.
+~ F18.2 DEEPENED: Pace answered Randi's "selfish" by giving Vee a midweek afternoon, not slowing down.
+~ W18.4 DEEPENED: Still waiting for Randi's own head, and now she's been absent two chapters.

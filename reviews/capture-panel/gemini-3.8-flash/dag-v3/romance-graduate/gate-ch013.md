@@ -1,20 +1,24 @@
-*capture-dag-v3-grounded · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 3b67aa444f62 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch012 · history ch001..ch012 · ledger no seed a21643bfbc3e · 2026-11-02*
+*capture-dag-v3-grounded · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f09960d6b42 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch012 · history ch001..ch012 · ledger no seed d983a17b7cd2 · 2026-11-06*
 
 REACTION
 
-I am sitting here with my hand over my mouth.
+I am genuinely crying. Like, actual hot tears on my phone screen. What did I just read?!
 
-*He made the flannel.* The flannel shirt with no tags that fit so well, that kept her warm in the cab—he literally built it with his hands, just like he built the furniture, just like he wrote the algorithm to cut through the noise of an MRI machine to help sick kids. And now he bought a bolt of burgundy silk—not the brick-red from the magazine she mentioned once offhand on a windy summit, but a deep wine that he specifically shade-matched to her hair and her skin—and asked: *"I'd like to make it for you. The dress. If you'll let me."*
+This was so overwhelmingly, devastatingly romantic it felt like someone reached into my chest and squeezed my heart until it bruised. The sheer psychological craft here is unreal. We spent the last two chapters bracing for the sinister drop—wondering how the walnut bench was going to ambush her, whether Randi was waiting in the wings, what kind of trap Saturday at two o'clock was going to be. Kayla said it: *there’s no meal at two, bring a change of clothes.* Vee drove out there with satin lingerie hidden under her clothes, primed to surrender to him in the bedroom.
 
-I can't. I genuinely cannot handle how good this is. It is so achingly romantic and tender that it physically aches in my chest, and yet the erotic undercurrent is practically vibrating through the floorboards. Look at how he asked! *"To do it right I'd measure you first—down to what you'd wear under it, in good light, so I can see how it'll fall."*
+And Pace completely, brilliantly disarms her. Not with an assault, but with the most breathtaking act of service and reverence I have ever seen in contemporary romance.
 
-He doesn't use pressure; he creates a container where being seen is an act of supreme care and creation. She came out here wearing the satin underwear, ready to be taken to a bed she assumed was the only reason a man asks a woman over at two in the afternoon. And what does he do? He shuts the bedroom door. He keeps her out of the shadows. He brings her to the sunroom, wrapped in panoramic mountain light, hands her agency on a silver platter, and asks for her vulnerability so he can *clothe* her in beauty. It is the absolute, polar opposite of conquest. It is pure devotion.
+When she tried to lean toward that closed bedroom door and he just gently touched her elbow and guided her back into the light? God. The way Rivers wrote that: *"no weight on it, nothing withheld and nothing offered — and left the door shut."* He didn't use the house to corner her into sex. He used the house to show her who he actually is—the neat, solitary life; the patent that helps scared kids get out of MRI tubes faster; the books; the woodshop where he cuts joints so precise they don't need screws. (And that parents beat! *"A small closing, there and gone, a door easing shut two rooms away."* Daphne? His family? There is a deep, guarded wound in this man and I want to pry it open.)
 
-And that kiss at the front door! The way she initiated, the way he met her all the way to the root, and then—*he* was the one to stop. Because he refused to let this visit collapse into a hurried, reactive hookup. He makes her sit in the heat, makes her hold the want, and then systematically shows her who he is: the paired shoes, the clean kitchen, the dense mathematical proofs, the swept workshop.
+And then the sunroom. The bolt of wine-dark silk.
 
-And the dramatic irony running under every single second of this tour is almost suffocating. The closed bedroom door—we know what's in that bedroom. We know there's a bench with a tabletop over it. We know Randi tore her clothes off in that room less than a week ago, sobbing *"I want us."* The bathroom with the two towels—Randi locked herself in there to cry after her first orgasm on that bench. The warmth of the house—Vee thinks it's a sweet little quirk, not knowing it’s calibrated so naked skin never shivers.
+I completely lost it when he held the cloth to her face in the mirror. She thought she wanted the magazine brick-red, but Pace knew that shade would fight her lush coloring, so he bought burgundy to match *her*. And then the realization that the flannel shirt—the sacred shirt she's been clutching to her pillow—*he made it.* He sews! A powerlifter math-genius who builds furniture and sews bespoke shirts because the store-bought ones don't sit right!
 
-Every detail is loaded with terrifying dual meaning. Vee is falling so profoundly, hopelessly in love with him. She looked at him with hot, full eyes and said *yes*. And every yes is going to make the eventual reveal of the pointing game feel like an absolute slaughter. My heart is in my throat. I need chapter fourteen this second.
+"To do it right I'd measure you first — down to what you'd wear under it, in good light, so I can see how it'll fall."
+
+The erotic genius of this man is terrifying. He didn't ask her into his bed; he asked her to stand in the afternoon sun in her underwear while he wraps a measuring tape around her bare ribs, all in service of giving her the dream dress she threw away at the mountaintop. He is asking to look at every lavish, unmanaged inch of her that she has spent twenty-one years feeling ashamed of, and he is doing it under the guise of total, reverent courtliness.
+
+It is so pure, so high-stakes, and so agonizingly tender—and yet, the title of the chapter is *Two Towels*. Two towels on the rod in the bathroom. The deadbolt. The warm, draft-free house kept at that exact temperature for Randi. The background hum of the game they started is still ticking like a bomb under the floorboards, but Pace is so far off-script now he couldn't find his way back if he tried. He is completely, hopelessly in love with Vee.
 
 GATE 13 — Two Towels
 DECISION: CONTINUE
@@ -23,11 +27,12 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The reveal of the burgundy silk bolt and the measuring tape was an absolute masterstroke of romance and agonizing tension. Pace's reverence for Vee makes the looming secret of the game unbearable.
+WHY: The reveal of the burgundy silk and him offering to make her dress from scratch was an absolute emotional knockout—courtly, shockingly tender, and insanely erotic.
 
 LEDGER
-+ LOVE: Pace tailoring the dress himself—listening to her offhand wish and shade-matching the silk to her skin
-+ WAITING: Pace measuring Vee down to her undergarments in the bright light of the sunroom
-~ [S10.3] CONFIRMED: Pace is going to buy that russet silk dress for Vee's honor society induction
-~ [W12.1] ANSWERED: Vee going to Pace's house off 614 on Saturday at two o'clock
-~ [F8.2] DEEPENED: Vee being so overwhelmed by Pace's devotion with the silk dress makes her absolute emotional fall guaranteed, raising the stakes of the secret to catastrophic heights
++ LOVE: Pace offering to sew Vee's dream dress from scratch after matching the burgundy silk to her coloring.
++ SUSPICION: Pace has deep-seated family trauma or estrangement that he keeps locked behind the same door as Daphne.
+~ [S10.2] CONFIRMED: Pace is going to find a way to buy Vee that russet silk dress for the honor society induction.
+~ [W12.2] ANSWERED: Saturday at two o'clock—Vee stepping into Pace's house for the very first time.
+~ [F5.1] DEEPENED: Vee is completely, irrevocably falling in love with Pace, and this dress gesture will bond her to him forever.
+~ [L1.2] DEEPENED: Pace's spacious patience—refusing to take Vee to bed even when she leaned toward the door, choosing to honor her with the dress instead.

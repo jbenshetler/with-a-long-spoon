@@ -1,31 +1,34 @@
-*capture-dag-v3-grounded · gate ch021 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) · history ch001..ch020 · ledger no seed d65e9bbec14d · 2026-11-02*
+*capture-dag-v3-grounded · gate ch021 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed f0ae5c010b32 · 2026-11-06*
 
 REACTION
 
-Randi's head still isn't on the page. We get Pace again, and this is the chapter where the book shows its hand. She lies on his chest and describes her own want out loud, with every word aimed at Vee. "I keep thinking of things to tell her." "God, she's lovely." "What she keeps under there. It's criminal." Then she drags her breasts down his body to show him what she means. And he takes all of it as foreplay. I wanted to scream. She is confessing, in the only language she's allowed, and he's picturing the threesome and calling it generous.
+Oh, this one is a knife, and it's barely three pages.
 
-The best moment is "Tell me." He gives her the lamp line: "Like somebody found the lamp." She goes still, "the kind that takes holding." That's the tell. "Yeah. She is." It's the same wine-swallow flinch from ch6, and this time I heard the lock.
+Randi is in Pace's bed telling him how much she likes Vee, and everything she says is true and none of it is the thing. "She got past me before I could help it." "God, she's lovely." That's the confession, said out loud to the one man she can say it to, and he hears it as the plan working. He pictures them naked and laughing and lets himself look. I wanted to shake him. Her "I didn't think I'd like her this much" is as bare as she gets, and he files it under foreplay.
 
-The ending is what got me, though. After the dinner where she wouldn't eat, she's in his undershirt, feet on the chair, asking him to feed her. She eats every bite, and she scrapes the plate. She says "Pace, darling" and has him pour wine she doesn't need. She's repairing the breach. Or she's decided something. I can't tell. She tells him she likes Vee more than she planned, and "she got past me before I could help it." That's as close to the truth as she's come aloud, and he hears a compliment to his taste.
+Then she does what she did in ch11, feeding him Vee as heat. The breasts dragging across his chest, "It's criminal, Pace," is hot, and awful, because she's performing Vee's body with her own. When he says "Like somebody found the lamp," she goes still, the holding kind, and he doesn't notice. He was talking about Vee in her ear, and Pace is now plainly in love with her too. Everybody is leaking, and nobody is reading anybody.
 
-Pace saying Vee was taught to be ashamed. He's right, and he's also the one telling Randi, who was taught the same thing, and he doesn't see the second girl in the bed. That hurt.
+The ending is the real hurt, and I clocked every move of it. After ch18, where she wouldn't eat, here she asks to be fed, takes the little plate, and clears it. She stays. The shirt from the second drawer. "Pace, darling" is a bit of her mask back, and the second pour is a tiny reflex of the old game. But the bowl is empty. It's the repair, and he doesn't know there was damage, and so he's just happy. That's the title, "Gone," and I can't tell what's gone. Maybe the fight. Maybe her guard. Maybe he just gave her to Vee.
 
-Also, the title is "Gone," and nobody leaves. Is Randi the one gone, or does it mean something coming? The "I knew you were different. I wasn't going to wait" line is a sweet sad bomb. Heat is a solid 2, and it's more charge than the last few. I still want Randi's POV. A quiet, warm, dread-loaded close.
+One thing snagged. He asks nothing, she asks nothing, about the weekend of Friday, the "selfish" fight, or what it was. They smooth over it with her hair in his hand and a blue toe. It's tender in a way that feels like a pause before the drop. Also still no Randi's head, and it's the fourth chapter running. I'm tired of waiting, and this chapter made it worse by showing her only from outside again.
+
+Gripe: the narration is lighter this time and I barely noticed it, which is a relief.
 
 GATE 21 — Gone
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 2
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi confesses her want to Pace as pillow talk and he hears only the invitation, which is the book's engine at its cruelest. The plate scraped clean is the sign that something between them has been mended, or decided.
+WHY: Randi saying the true thing in his bed and Pace hearing foreplay is the book's engine at full tilt, and the emptied plate quietly repairs ch18. I'm desperate for her own head now.
 
 LEDGER
-+ LOVE: "Like somebody found the lamp" and Randi going still, "the kind that takes holding."
-+ LOVE: Randi in his undershirt with her feet on the chair, scraping the plate clean after refusing the stew.
-+ SUSPICION: The clean plate and "Pace, darling" mean Randi has made a decision, and the title "Gone" points at someone leaving.
-+ FEAR: Randi's near-confession, "she got past me before I could help it," is going unheard, and when it breaks it will break on Pace.
-~ F6.2 DEEPENED: He took her stillness at the lamp line for hunger again, and the gap stayed.
-~ S18.4 DEEPENED: Randi said nearly everything aloud, and Pace heard only an invitation.
-~ W11.2 SHIFTED: Still no Randi POV, but she said "I didn't think I'd like her this much" in her own voice.
++ LOVE: Randi saying "She got past me before I could help it" into his chest, the closest she's come to the truth aloud.
++ LOVE: The emptied plate, every bite, after the untouched bowl in ch18.
++ FEAR: Pace is falling for Vee as hard as Randi, and neither can tell the other, so the three of them are all in love in separate rooms.
++ SUSPICION: "Gone" may point to something I haven't seen yet, either Randi's guard or something worse coming.
+~ F6.3 DEEPENED: She said the want aloud, and he heard it as heat.
+~ F11.1 SHIFTED: She stayed the night and ate, so the crack closed for now, but he never knew it was open.
+~ W18.4 DEEPENED: Fourth chapter without Randi's own head, and I badly want it.
+~ L18.1 RESOLVED: She finished her plate this time.

@@ -1,49 +1,49 @@
-*capture-dag-v3-grounded · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4aadfb50d940 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 0c0a8903d7d7 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 02f356d5e38c · 2026-11-06*
 
 **REACTION**
 
-He sobbed at a truck that didn't turn in.
+He's been sitting in the recliner the whole time. I griped for ten chapters that the book left him in that chair on Halloween, and here he is on New Year's Eve, in the same recliner with the lamp off, scrolling through the pictures, filling the glass three times. I don't think the book meant it as a joke on me, but it landed like one, and it hurt.
 
-That's where the chapter got me. A fork stopped halfway to a bowl of boiled freezer chicken, his whole body leaning toward the gravel cut, and he knows right away that it's the wrong engine, "as he'd have known a voice that was not hers," and he can't let it go anyway. Then it passes and he breaks. For forty-four chapters this man has been the calm one, the one who leaves you the room, the one who stands in the doorway and doesn't move. Here he finally does the thing Vee's been doing in cold beds all month, and it's worse, because he does it at a kitchen table over prison food at noon. I put the Kindle down for a minute.
+That's three chapters of the same night now: Randi in Gstaad, Vee in Ohio, Pace in the woods. Each of them is lying in a cold room picturing someone warm. I came in braced for a third quiet chapter and ready to skim. I didn't skim a word.
 
-The answer finally came, too. I've been carrying "a man holding a line at cost" since the doormat, and the cost is Daphne. She was the only one he ever said it to, and losing her "consumed his life," so he decided the words were what made a loss survivable or not. That's a real reason, and I believe it. But the book handed it to me in the flattest way it could: "He had hurt her because he was afraid of how much she could hurt him." Honey, I know. I'd figured that out from the porch onward. The whole Daphne stretch reads like a case file, short declarative sentences in a row, and after all that buildup I wanted to find it in a gesture, not get it as a thesis. And "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." Gone how? "People who've never lost anything think grief is a choice." *Grief.* "Not this time of year." Elvis singing "home for Christmas" pressing the bruise. I think Daphne's dead, and I think it happened around now. And the scar is still sitting behind its door.
+Here's the big one, and I'd text it at 1 a.m.: Randi hasn't been back since the morning of the drawer. Six weeks. She hasn't come out to the house or called. I've spent a dozen chapters dreading Mondays, sure every soft thing Vee did was going into Randi's ears in his bed, and the Mondays were empty. He's been alone on those nights since November. The cashmere blanket slides off the foot of the bed, and he folds it and puts it back "where it lived" for a woman who isn't coming. Meanwhile Randi is in the snow deciding to "keep the brunches exactly as they were." She walked out on him without saying a word, and he's calling it her choice to make: "When she was ready, she would call. If she was." Everybody in this book leaves the room for everybody else. Nobody walks back into it.
 
-Sheri. I love her more each time. The diner is great: the amber glass tabletop, the kid setting the double in front of Pace "with the grave confidence of arithmetic," and her pulling the shake toward her "like something owed." "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud, and so did he. That laugh is the most human he's ever been. But yes, she's the bartender again. "Then not saying it matters more to you than having her." That's the moral, read out loud by a side character. The difference is that she says it to *him*, the one who needed it, and it shames him to his face instead of explaining the plot to me. I'll allow it. Barely.
+And he still has the picture: three of them in his kitchen, Vee in the sheet with too much honey, Randi with her feet up. "Further along than last time, because he had been adding to it for weeks." Vee is gone and Randi is gone, and he's still furnishing that kitchen. That's the coldest and saddest thing he's done. "Whether the room would ask more of her than she had in her." Oh, Pace. The room already asked. She left.
 
-Then there are the knives buried in the middle of it. He took Randi *dancing*, before Thanksgiving, to the loud hall, in public, and she looked at Sheri like a "harem applicant." So he goes out with the brunette and Vee got one bad Chili's and a lecture about noise. That's still true, the fork-squaring at the diner proves it, but it isn't the whole truth. And Randi hasn't come out to the house in six weeks, not since the drawer morning. I've been waiting on that face since chapter 37, and the answer is that she just stopped coming. He thinks "she would call. If she was." He doesn't know about Gstaad, about John, about any of it.
+Sheri got me. I've had her on my ledger as the bar blonde, then as a rival at the Thanksgiving table, and she's neither. She's estranged from her family, lost Paige over "call your mama, Sheri," and eats a double cheeseburger like she rides. "People who've never lost anything think grief is a choice." That's the two of them in one line, two people who don't go home sitting across from each other. Then "Then not saying it matters more to you than having her." She says what I've been yelling for six chapters, to his face, in a diner, and then steals his fries. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud. She's the first person in two books who isn't impressed by him, and he laughed his first full laugh of the night because of it. I love her. And "she looked at me like I was one more of your harem applicants" about Randi made me grin.
 
-The part that chilled me most: heartbroken, drunk, crying over a girl with glasses, and he's *still* building the picture. Three of them at his table, Vee in his sheet with too much honey in her tea, Randi with her feet up. "He had been adding to it for weeks." "Whether the room would ask more of her than she had in her." He loves her, he admits it, he's sobbing over her, and the plan is still running underneath. That's the scariest true thing the book has told me about him in a long time.
+Then the morning, which wrecked me. Bleach, and the mop bucket outside the bathroom with foam crusted above the waterline. The book never says he threw up. It just shows me the bucket, and that restraint is exactly what I've been begging for. Then the freezer, chicken in one column and broccoli in the next, "enough in there to go on like this a long time." The man who has fed every woman in this series boils bags for himself and eats "because he told it to." Prison food. So the feeding thread was never about him liking to cook. He feeds other people because that's the only way he lets himself eat well.
 
-The freezer is quietly devastating too: rows of identical bags, "enough to go on like this a long time." He feeds everybody and eats rations himself. He's starving the same way Randi does, and I never saw it.
+The truck on the highway undid me completely. His head comes up before he knows it, the fork stops, and his whole body leans toward the cut in the hill. "It was the wrong sound." It doesn't slow down. Then he sobs at his little table. The man who reads every breath in everyone else finally gets read, by me, and he's a wreck. "Pace picked up his fork. He was not hungry. He ate anyway." That's a perfect last line.
 
-As a structure, it's the third straight chapter of the same New Year's night, each of them alone in a different bed. I can see it's a triptych, and it's a good one. But I need two of these people in one room next. If chapter 46 is another solo vigil, I'll start skimming.
+Daphne: "brown hair and glasses who laughed with her hand over her mouth." "There had been no one to tell that Daphne was gone." Gone. Not left. Next to Sheri's line about grief, I think Daphne is dead, and I think the scar has something to do with it. That's the door he won't open, and now I understand why he can't say the word. He said it once, and losing her took over his whole life.
 
----
+Gripes. The book explains him to me in the exact paragraphs where I didn't need it: "He had taught himself that the words were the difference," "He had hurt her because he was afraid of how much she could hurt him." That's the moral handed to me in a sentence, right after the diner had already shown it beautifully. The Daphne section goes flat and summary-like ("Those relationships mattered. Their endings hurt.") in a way that felt like notes. Maybe that's deliberate, a man reciting himself, but I noticed. The crackers-and-meal speech gets replayed one more time, though at least now it's from his side and comes with the answer he swallowed. "Whiskey River was a liar" is a great line. And a small one: he said "most important thing" to Sheri, but in chapter 41 he said "person."
 
-GATE 45 — The Usual
+But I finally have Pace's interior, and he loves her, and he knows it, and he knows what he did. Now I need the two of them in the same room.
+
+GATE 44 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." (the book laying out its own hero's psychology in one sentence, after I'd waited forty chapters to feel it)
-WHY: Finally I'm inside Pace's head, and the wall comes down. He knows he loves her, Daphne is the cost, and he breaks at the wrong truck. Sheri is funny and brutal, and the threesome picture he's still building under all that grief is chilling. The Daphne part is over-explained, but he has a choice to make now, and I want to watch him make it.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." The book stated the thesis outright, after a diner scene and a mop bucket that had already said it better.
+WHY: It's the third telling of the same night and the best one. Pace in the recliner, the empty Mondays, Sheri's "not saying it matters more to you than having her," and a grown man sobbing because a truck didn't turn in. He finally admits the word, to himself, and I want to see him spend it.
 
 LEDGER
-+ LOVE: Pace sobbing over the freezer chicken because a truck didn't turn in. He's the one in the doorway now.
-+ LOVE: "The philosophy of your food. Lord almighty. Get over yourself." Sheri getting the only full laugh out of him.
-+ SUSPICION: Daphne is dead, not just gone. "Grief," "this time of year," nobody to tell. And the scar belongs to that story.
-+ FEAR: Even crying drunk, he's still adding to the three-in-the-kitchen picture. If he does say the word, the arrangement comes along with it.
-+ SUSPICION: The freezer rows and the "prison food." He feeds everyone and starves himself the way Randi does.
-+ GRUDGE: The Daphne backstory comes as a flat case file, and the moral gets spelled out ("afraid of how much she could hurt him").
-+ WAITING: Whether he drives to Vee and says it, and what he tells her about Randi when he does.
-~ S42.1 ANSWERED: The cost is Daphne. He said it once, lost her, and decided the word was what made loss unsurvivable.
-~ W37.6 ANSWERED: Randi never came back after the drawer morning. Six weeks of silence, and Pace is waiting for her to call.
-~ S39.2 ANSWERED: The porch was love he couldn't say. He admits he chose "the smaller truth" because he was afraid.
-~ S40.3 CONFIRMED: The diner proves it. The silence is a relief to him, and the jukebox presses the bruise.
-~ S40.4 SHIFTED: He took Randi dancing at the hall in public before Thanksgiving. The noise is real, and Vee still got the worse deal.
-~ S38.1 SHIFTED: Randi had that Monday, and then she stopped coming. The five nights weren't hers after all.
-~ G25.4 DEEPENED: Sheri delivers the moral again, but this time she says it to his face and it costs him something.
-~ L25.3 DEEPENED: Sheri stealing his fries, the double-and-single bit, "Her name is Vee" / "Yeah. The one with the big tits."
-~ S44.4 DEEPENED: Alone with whiskey on New Year's, no Randi, no Vee. His silence was fear, not indifference.
-~ W22.5 DEEPENED: The scar is still behind a door, but now I think I know what's behind it.
++ LOVE: Sheri, a lesbian estranged from her family, eating her double and stealing his fries: "The philosophy of your food. Lord almighty. Get over yourself."
++ LOVE: The truck that doesn't slow down, the sob at the table, and "He was not hungry. He ate anyway."
++ LOVE: The freezer in its columns, prison food, and the man who feeds everyone eating bags of boiled chicken alone
++ SUSPICION: Daphne didn't leave, she died: "no one to tell that Daphne was gone." The scar is part of it
++ FEAR: He's still building the three-in-the-kitchen picture while both women are gone, and he'll pitch it the moment one of them comes back
++ WAITING: Pace finally spending the word on Vee, out loud
++ GRUDGE: The interior paragraphs spell out his fear as a thesis right after the scene had shown it
+~ S32.6 ANSWERED: Randi hasn't come to the house since the morning of the drawer. The Mondays have been empty for six weeks
+~ F25.1 DISPROVED: Vee's private things haven't been going to Pace's bed since November. Randi stopped coming
+~ S25.2 DISPROVED: Sheri wasn't the blonde. She only saw Vee "before she started throwing things"
+~ S33.5 DISPROVED: Sheri is a friend who doesn't go home either, not a rival
+~ S41.4 SHIFTED: The line he's holding isn't Randi. It's Daphne, and it's fear
+~ F32.4 SHIFTED: The silence was a choice. He had the true answer ready on the porch and picked the smaller one
+~ F43.3 DEEPENED: Vee's imagined blonde doesn't exist. He's alone in a recliner going through pictures of her
+~ W16.2 DEEPENED: The Daphne wound is a loss he never recovered from, and the scar probably sits on top of it

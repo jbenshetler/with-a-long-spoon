@@ -1,31 +1,28 @@
-*capture-dag-v3-grounded · gate ch007 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f8dd715a4e55 · dated · memory grounded: facts none + raw ch001..ch006 · history ch001..ch006 · ledger no seed b8ed2e68d7e2 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch007 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f7b31153e329 · dated · memory grounded: facts none + raw ch001..ch006 · history ch001..ch006 · ledger no seed 00ccefb2ca22 · 2026-11-06*
 
 REACTION
 
-Finally, Vee on her own, and Cassie getting a whole scene. I was waiting on that. The pool is the first time Cassie gets to be a person and not a warning light. "They will never know the love of a woman" is a great line from her, and she keeps it low, just for Vee. The splash fight is warm and funny. It's also the only place in the book so far where Vee laughs the ugly shriek-laugh. Randi's whole world is polish. This one is a girl and her best friend, and I love it. Which means I'm now afraid for it. Everything this book makes me love, it takes away.
+Okay, a swimming pool. A chapter where nobody touches anybody and I should be annoyed. Mostly I'm not, because it's Vee finally in her own body in her own head, and the book is giving her a place where she's actually herself.
 
-The bleachers and the "floaties with *those*" bit got to me. The entrance as armor, the long blink, and then the underwater quiet. "Nobody down here wanted anything." The grief at the bottom of the pool is the strongest thing in the chapter, a girl who loved her body before it was a problem. That makes Vee's hunger easier to see, and it makes the bench scarier.
+The bleachers walk is great and ugly: "You won't need floaties with *those*!" and the long blink, the eyeroll, the face put on like an entrance. That's the cardigan and the floozies again, from the other side. Her body is a problem she's learned to carry like a performance. Then Cassie's "They will never know the love of a woman" made me laugh out loud. It's the best line in the chapter, and probably a quiet tell about Cassie. The underwater passage is lovely, "grieved, a little", and the splash fight is a real friendship. Cassie keeping the loud voice for Vee alone made my chest hurt. Goodbye, Vee suddenly reads as love, not menace. My Cassie-sees-everything suspicion is softening into Cassie-is-the-one-who-loves-her, and I'm nervous about what happens to that.
 
-The locker room is where it turns. "Don't answer tonight" is such a Pace move. I can see exactly how it works: the asking is courtly, and the delay is what makes her wait for him. She stands there with her mouth open on the yes. It's a lovely technique and it's a leash. I also liked her in the towel, wondering what he does with his hands, until the line "which was really not the place." The heat is a faint simmer, but it's honest.
+Then the locker bench. "Don't answer tonight." I loved that, and I immediately distrusted it, because it's exactly the kind of move that makes a girl think about him all night. I know whose hands built that. Vee's wondering about his hands in a towel is the only heat in the chapter, a 1 at best. She's making an odd man into the thing she's wanted, and I'm watching her do the work for him.
 
-Two things bother me. I want the heat to arrive, and this is another quiet chapter, the third in four. I'm not skimming because the pool carried me, but the next one has to pay off. And the narration slips into Cassie's head a couple of times ("Cassie never asked — asking was for people who wanted the sad version to get bigger"). I wonder if that's deliberate, since it's the first time we're in her. It's good, and it's one more person I'd hate to see hurt.
-
-Randi isn't here at all, and I missed her. The thumb hovering over the keys is a nice ending, but it's a small hook. I'm hanging on the dinner.
+The ending hangs on her thumb over the keys. It's a soft stop, but it works. Honestly the missing piece is Randi. She vanished completely, and I want her reaction to the date. Second quiet chapter in a row, counting Tannin loosely, so I'm giving it grace, but I'd like the bench soon.
 
 GATE 7 — Water Wings
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 7
 HEAT: 1
 ROMANCE: 1
-ALMOST-STOPPED: "He wasn't gorgeous. She'd decided that on the walk, trying to be fair about it." The locker-room recap of Pace reran things I'd already seen at the coffee shop.
-WHY: The pool and the Cassie friendship are the warmest, most alive thing yet, and "Don't answer tonight" is a clean new hook. It's another low-heat chapter, so the dinner needs to deliver.
+ALMOST-STOPPED: "He wasn't gorgeous. She'd decided that on the walk, trying to be fair about it." (the locker-room inventory of Pace is slow)
+WHY: Vee in the water and with Cassie is real and warm, and "Don't answer tonight" is a hook I distrust on purpose. Low on charge, though, and Randi is missing.
 
 LEDGER
-+ LOVE: Cassie and Vee at the pool, "They will never know the love of a woman," and the splash fight, Vee's real laugh
-+ LOVE: Vee underwater, "Nobody down here wanted anything," and grieving the body that was never a problem before
-+ FEAR: Vee's one unguarded, unmanaged place is her friendship with Cassie, and this plan is going to cost her that
-+ SUSPICION: "Don't answer tonight" is Pace's technique, making her wait so she wants him more. It could also be his own caution.
-+ WAITING: The Saturday dinner, and whether Randi is in the room
-~ F4.1 DEEPENED: Cassie being warm and funny and protective of Vee makes her eventual loss feel worse
-~ W5.5 SHIFTED: The date is now a dinner on Saturday, and the bench is still ahead
++ LOVE: Cassie's "They will never know the love of a woman" and the splash fight, the friendship that's real
++ SUSPICION: "Don't answer tonight" is another piece of Pace's architecture, building her anticipation
++ WAITING: Vee's answer to the dinner invitation, and Randi's reaction to it
++ FEAR: Vee's body shame and her mother's voice will make her an easy mark for being "seen"
+~ S4.3 SHIFTED: Cassie's goodbye now reads as love as much as foreknowledge, and I'm unsure what she knows
+~ W5.5 DEEPENED: Still waiting on the bench, and the date is now set up

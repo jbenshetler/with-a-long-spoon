@@ -1,16 +1,16 @@
-*capture-dag-v3-grounded · gate ch034 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5794cafc164c · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 9b9a06f04f6e · 2026-11-04*
+*capture-dag-v3-grounded · gate ch034 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed e938d6f60752 · 2026-11-06*
 
 REACTION
 
-This one made my skin crawl in the right way, and it's the book's cruelest use of the brunch table yet. Vee hands over everything: the sex brain, the "amount of it," the mouth-asleep-since-birth line. Randi makes it an absolution, "finally hungry out loud," which is the jacket's own sentence. I felt that line land on both of them. Randi gets a bonus, too. Vee describes Pace's kitchen, the playlists, the phone that's "for the music, and—", and the stray dust-of-a-photograph business tells me the photo promise is about to break. Vee shows Randi the full-length picture. The one Pace said he'd never share, Vee shared herself. I laughed, then stopped. Pace's careful promise is moot, because she did his job for him.
+Okay. This is the chapter where the book shows me its own hand, and I felt it. Vee walks in and tells Randi everything: the amount of it, the sheets in both fists, "sex brain," and then the line the blurb has been waiting for. "You're just finally hungry out loud." Randi says it like absolution, and I know whose mouth that sentence has been in all along. The jacket line landing in the text gave me a small cold thrill.
 
-The real jolt is Randi. Her eyes go bright and unfixed at "he wants *me*, with the body attached," and she says "It doesn't," low, and not even. That's the first time the mask has visibly slipped at the table. "Just us" with the roughness under it too. And Vee reads every one of those as flattery. She is so proud. I'm sick for both of them.
+The best beat is Randi coming apart a little. Vee says "like he wants *me*, with the body attached," and Randi's eyes go bright and unfixed, and she shakes her head, and her breath catches. "It doesn't," low and uneven. That's the leak. Vee reads it as pride that her story moved a sophisticated woman, and I'm sitting here knowing it's the opposite. Randi may be hearing Pace's own words about Vee come back to her, or she's hearing what she wants and can't have. Either way it's the first time a story hit Randi harder than she could hide, and the beat is quiet and perfect.
 
-The goodbye kiss: Vee is the one who won't let it end. That's the turn. She noticed it, decided it was what she wanted, and moved on. And Randi's long look afterward, steady, almost making it strange. Randi knows exactly what just changed.
+Then the photo. Vee shows Randi the cropped one, then the whole thing, "I gave him *all* of it," and Randi looks long, past a verdict. My stomach dropped. Two chapters ago he promised never to share the photograph, and here it is in Randi's hand, shown by Vee herself. Fear F33.1 resolved in the cruelest way: Pace didn't have to break the promise. She did it for him. That's sly and I admire it, and I'm furious for her. "Miss November," the toes, the bare foot under the table. The foot under the table is the hottest thing in the chapter, a small deliberate touch with the sky-blue nails.
 
-Also: Vee ordering the Benedict that costs and paying the check without a flinch. The money fear loosens, but only because she's not thinking.
+Vee leaning up the last half-inch at the goodbye kiss, and Randi holding her eyes "a beat past" is the turn. Vee noticed, decided it was what she wanted, and didn't bother about it again. That's the romance beat, and it's the first time the kiss is Vee's choice. The Anthro night class, "just us," Randi's voice roughening: she's building more hours with her. This is escalating.
 
-Gripes: the sex-talk monologue is long and a bit on the nose, and the ledger of "this is the engine" is something I've now seen five times. Still no Randi's head, seven chapters. Hurry up.
+Complaints: it's a brunch-confession retread, third one, and the sex catalogue is a lot of telling. The book explains things (the "color switched on" paragraph, "she didn't think of the morning as a piece of Pace given up") a bit hard. Heat is real, though, because it's Vee's mouth saying it. Still no Randi head. Sixteen chapters. I've stopped asking and started suspecting that withholding is the design.
 
 GATE 34 — All the Time
 DECISION: CONTINUE
@@ -18,16 +18,14 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Then the ordering, which was its own slow pleasure and half the reason to come." The restaurant and menu inventory ran long again before the talk.
-WHY: Randi's slip at "he wants me, with the body attached" and Vee being the one who won't end the kiss are the turn I've waited for. The photo shown across the table makes Pace's careful promise hollow. I need Randi's head now.
+ALMOST-STOPPED: "The weeks in between ran gray; it was only Friday to Sunday that the color came up, saturated, almost too much" (the book narrating its own meaning, in a third brunch retread)
+WHY: Randi's breath catching at "the body attached" and Vee handing her the nude herself are the pipeline cracking in public, and Vee taking the extra half-inch of the kiss is the real turn. It's a familiar brunch format, but the stakes have moved enough to keep me.
 
 LEDGER
-+ FEAR: Vee showed Randi the full-length photo herself, so the "never share" promise is already broken on her side and Pace will hear about it.
-+ LOVE: Randi going bright and unfixed, "It doesn't," low and uneven, at Vee's "he wants me, with the body attached."
-+ LOVE: Vee leaning up the last half-inch to extend the goodbye kiss, and Randi's long steady look.
-+ SUSPICION: Randi's "Just us" with the roughness under it means she is about to engineer more time alone with Vee, and the Anthro night class is the vehicle.
-+ WAITING: Randi's head, finally, after this table and that look at the curb.
-~ F33.1 SHIFTED: Vee gave Randi the photo directly, so it didn't need to travel.
-~ W32.5 DEEPENED: Still no Randi POV, seven chapters now.
-~ G33.6 DEEPENED: Seven chapters without Randi's head.
-~ F20.1 SHIFTED: Vee now orders the expensive Benedict and pays her own check with no flinch, so the money gap is being papered over by habit.
+~ F33.1 RESOLVED: Pace didn't have to share the photo. Vee showed Randi the full nude herself, so the promise is moot and the harm is done.
+~ F6.3 DEEPENED: Randi's breath caught and her eyes went unfixed at "the body attached," the plainest physical leak yet.
+~ W18.4 DEEPENED: Sixteen chapters now without Randi's own head.
+~ F31.4 DEEPENED: Vee is again performing for Randi's gaze, offering the photo to win her approval.
++ LOVE: Randi's bare toes brushing Vee's leg under the table, sky-blue nails, and the smile that doesn't explain it.
++ SUSPICION: Randi has begun building extra hours with Vee, the Anthro night class, "just us," because the Saturday brunch no longer holds her.
++ LOVE: Vee leaning up the last half-inch of the kiss and deciding, without fuss, that it is what she wants.

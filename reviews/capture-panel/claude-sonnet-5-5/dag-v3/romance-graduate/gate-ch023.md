@@ -1,28 +1,37 @@
-*capture-dag-v3-grounded · gate ch023 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed f81a9259c0d9 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch023 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed bb3d150a3fb8 · 2026-11-06*
 
 REACTION
 
-Oh, this is the one I didn't want and kind of needed. Two chapters of pure warmth, and now the book turns around and bites. Vee's jealousy is so *human*. The blonde's "he's so good about getting a girl home safe" is a stranger's knife, and Vee hands herself the rest of the blade. "She was just next." And the venom line ("Does your *service* include...") lands the way real petty cruelty does: she hears it leave her mouth like a glass going over. Good writing.
+Oh, this is a pivot, and I didn't see it coming. After a run of chapters where Vee is dazzled and I'm the one holding the dread, she finally swings at something. And she swings at the wrong thing, for the right reasons.
 
-But I'm unsettled, and not only in the fun way. The dance lesson is lovely and a little long. The frame, the "you have a job here," "the space you're keeping." It's a lead-and-follow metaphor, but it's carrying the book's whole thesis (his lead, her trust), and for once the book doesn't explain it. "I wonder how many of them he's taught" is the right size of doubt. Then the bartender is almost a gift: "Wasn't him they were jealous of, honey." That's a nice reversal, and a kind one.
+The dance lesson is the best thing in it. "You have a job here. Give me something to push back against." The pad under the field lights, the lead arriving through his hand before her feet know it, "There it is." That's the book's whole thesis, and it's charged without anyone taking a stitch off. Then I loved the floor scene, where she can't find the join between Pace and the Pace she's built out of wanting him. That's her sharpest self-awareness yet.
 
-What's missing is Randi, and the ironies are doing a lot of work off-screen. Vee is going to Randi to be consoled over a fight with Randi's lover, and Randi is in the middle of falling. That's what I'm here for. The "Peter" and Daphne material in the last chapter makes the "girls" thing sharper too. He's the one who was chosen too young, and Vee has just called him a player.
+The blonde is a gift. Vee takes the bait and I watch it land. I also half-suspect the book is playing with me. Is she a plant? Randi's friend? A real ex? The "wasn't him they were jealous of, honey" line from the bartender answers the doubt: Pace is a rule, not a collection. That makes Vee's venom worse, because I know she's wrong, and she half knows too. And "Yes. Sometimes. When it's required." is an honest man giving an answer too true to survive being thrown at.
 
-Heat is nil, and it's the second slow-ish chapter after the quiet pillow talk and the Rock chapter, so I'm itching. But the cliffhanger is a clean one. Pace walking out and leaving the beer untouched is the image I keep.
+"Slut" and "floozies" are her mother's words in her own mouth now. That's the real injury. She doesn't punish him for the blonde, she punishes herself for being "just next."
+
+Cassie three feet away, and Vee not waking her, hurts. The washed shirt that smells of "no one" is a lovely small ache.
+
+Then the ending: she's going to Randi. Of course she is. The dread is huge, because Randi is the one person who can't clean this up honestly. Also, Pace walking out and leaving the beer untouched mirrors Randi's uneaten bowl. I notice that.
+
+Heat is low, but the dance has a pulse. Still no Randi head, and I'm starving for it.
 
 GATE 23 — Lesson
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 10
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "He moved the date up to seven. So there's time. To teach me." The opening Meg-closet prelude and the dance-lesson mechanics ran a little long before the sting.
-WHY: The jealousy spiral is real and ugly, and the bartender's reversal is great. Now she's walking to Randi's door with her own embarrassment, and I need that scene badly.
+ROMANCE: 3
+ALMOST-STOPPED: "Dana on Third has ropers. She's your size, close enough — dance girls trade, everybody's danced in everybody's boots." (the dressing-up logistics, brief)
+WHY: The dance lesson works as both charge and theme, and Vee finally breaks something herself, which makes the fight real. Her going to Randi in the morning is exactly the dread I read for.
 
 LEDGER
-+ FEAR: Vee's "service" outburst has hurt Pace in a place he can't name, and he walked out untouched rather than argue, like Daphne's door in reverse.
-+ LOVE: The bartender's "Wasn't him they were jealous of, honey."
-+ WAITING: Vee confessing the fight to Randi, and Randi's face when she hears Pace was hurt.
-+ SUSPICION: The blonde's line may be Randi's or Brooke's doing, a planted knife; otherwise it's a coincidence too neat.
-~ F8.3 DEEPENED: Vee handed him her trust, then withdrew it in a flash of her mother's voice, so the fall is already starting.
-~ F4.1 DEEPENED: Vee had the chance to call Cassie and chose not to, so the drift continues.
++ LOVE: The pad under the field lights, "You have a job here," and the moment the lead becomes readable and she stops guessing.
++ LOVE: The shirt that came back from the wash smelling of fabric softener and no one.
++ FEAR: Vee runs to Randi to fix this, and Randi can't give honest comfort without handing Vee the exact doubt that blows the plan open.
++ SUSPICION: The blonde with the "all us girls love him" line may be a plant, or just a jealous regular. The bartender's account says the second.
++ GRUDGE: Vee's mother's words (slut, floozies) now come out of Vee's own mouth, and I want the book to make her pay for that less than she'll pay herself.
++ WAITING: Pace's side of the fight, and what he does with it after walking out.
+~ F22.4 DEEPENED: Vee's "I'm just next" doubt shows how the staged meeting will hit her when she learns it.
+~ F9.1 DEEPENED: She doesn't wake Cassie and goes to Randi in the morning instead.
+~ W20.4 DEEPENED: Still no Randi head, six chapters now, and she's about to be needed.

@@ -1,31 +1,30 @@
-*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 1 non-fact sentence(s) dropped, 3 trimmed) + raw ch031..ch036 · history ch001..ch036 · ledger no seed bc55b10fb0a9 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 284458a67a70 · 2026-11-06*
 
 REACTION
 
-A stats-project chapter, and my first reaction was a groan. Ten chapters of Vee-and-Pace heat, and now a lecture hall and a group assignment? The outlier lecture was already the on-the-nose metaphor in ch27, and the title is the same trick a second time. But the library scene earned the groan back.
+Whoa. A hard swerve, and I'm not sure I like it. After the heat of 35, I get a statistics project meeting with a group assignment in it, and no bodies at all. That's the second kind of quiet I flagged before, and the book is leaning on it.
 
-MIRA. Randi going still, "the withdrawal of motion," is exactly right. And "Cheating bastards" has no plural to hide in, so it comes out ragged and too close to be about strangers. Vee notices and says nothing. That's the best thing Vee has done in this book. She sees Randi's face come undone and chooses to give her laptop busywork instead of a question. It's the first time Vee has been the one holding Randi. It's tender, and it's a bit sad, because she misreads the whole thing. She decides Randi was dealt a rotten father and leaves it there.
+But the end of the scene gets me. Randi's county has a point off on its own, the tag reads MIRA, and the record opens to MIRANDA. "Cheating bastards," in a voice with nothing practiced in it. That's the first crack in Randi that isn't about Pace or Vee. It's money. Her father took the loans, several businesses, and the story she's told about her family might be a lie, or at least a face. I clocked it right away, because this is the first real piece of Randi's history that doesn't come through a story she's chosen to tell. The Kentucky accent, the mother on egg whites, and now a father with shell companies. I want this badly.
 
-So Randi's family is the cost I hadn't seen coming. Her father is the PPP point, the biggest outlier in the white. I've waited since ch1 for the egg-whites mother and the lifted accent to mean something, and now there's money, shame and a name, Miranda. The accent could still be a mask, and I'm still unsure about it. Her certainty that Cassie was wrong and her father "kept people on" is a little dagger now. I'd bet she believed it, or needed to.
+The best move is Vee. She sees it and says nothing, steers the laptop, gives Randi something to do with her hands. She's kind where she thinks she's being kind, and she's the one who now holds something Randi doesn't know she holds. Cassie, with her laid-off dad and the "that's not the exception, that's the one that's easy to see" line, is dramatic irony so loud it's almost on the nose. The outlier metaphor gets pointed at me again. Mild grudge. The title does the explaining, and the last paragraph about "invisible if you didn't know to look" says it twice.
 
-Cassie is also given real weight. Her dad was laid off in 2020, said flat, and nobody picks it up. Vee sits between the laid-off father and the loans and looks at her coffee. That's the book's triangle in a new coat. Cassie being right and not knowing she wounded someone is painful.
+Also Vee's reading, "dealt a rotten thing by a man she'd had the luck to be the daughter of," is a good wrong-but-warm guess. And Randi doesn't know she was seen. After eighteen chapters of me knowing more than Vee, Vee now knows something I don't.
 
-Heat is zero. I feel it, especially after chapter 36. But this is a plot-turning bridge, and it's the first chapter in a while where something genuinely new landed. I wish it had a Randi head. It's Vee's, again. Still, the gap is wider now.
+No heat, and no Pace, so I'll hold on only because of that name on the screen.
 
-GATE 37 — The Outlier
+GATE 36 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 7
+NEXT: 9
 HEAT: 0
 ROMANCE: 1
-ALMOST-STOPPED: "He talked about it in the voice he used for everything, rote, clicking the slide forward and then back" — the lecture setup was slow, and the outlier metaphor came around a second time.
-WHY: Randi going still at her own father's name, and Vee quietly choosing not to ask, is the first new crack in a long time. Zero heat is a cost, but the money and shame behind Randi are a real hook.
+ALMOST-STOPPED: "The groups picked themselves. No one had to propose the three of them." (the long project setup before anything happens)
+WHY: A zero-heat chapter, but MIRANDA on the screen and Randi's unpracticed "Cheating bastards" crack her open. Vee quietly seeing it and keeping it is the kind of turn I read for.
 
 LEDGER
-+ SUSPICION: Randi's father's PPP loans are the money and shame behind her, and the accent and the polish may be built to cover them.
-+ LOVE: Vee giving Randi the laptop and the logistics to hold, and never saying the name.
-+ FEAR: Vee thinks she is sparing Randi by saying nothing, but sooner or later the silence will become one more thing she keeps from the people she loves.
-+ GRUDGE: The outlier metaphor repeats a lecture trick I've already seen, and the title says it again.
-+ WAITING: Randi's own head about her father, and whether she tells Vee or Pace.
-~ F4.1 DEEPENED: Cassie's laid-off father is said flat and nobody picks it up; she is now on the far side of a table she doesn't know has a crack in it.
-~ S3.3 DEEPENED: Randi's shock and "cheating bastards" show a Randi with a past of her own, and one more reason to want someone unguarded.
++ SUSPICION: Randi's father is the big fraudulent PPP outlier, and her polished family story is a face too.
++ WAITING: What Randi does with the stat project now that her own county is the outlier, and whether she ever learns Vee saw.
++ LOVE: Vee quietly handing Randi the write-up logistics and never saying the name.
++ GRUDGE: The outlier metaphor is spelled out twice, in the lecture and in the last paragraph.
+~ F1.1 DEEPENED: The face has a family behind it, and the one thing that cracked it this chapter was her father's name.
+~ W18.4 DEEPENED: Eighteen chapters without Randi's own head, though this one cracked her from outside.

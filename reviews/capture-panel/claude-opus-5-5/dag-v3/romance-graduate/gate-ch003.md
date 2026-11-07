@@ -1,44 +1,43 @@
-*capture-dag-v3-grounded · gate ch003 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c83a255bd240 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed b36828afdb0a · 2026-11-03*
+*capture-dag-v3-grounded · gate ch003 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 58fc23ac81a0 · dated · memory grounded: facts none + raw ch001..ch002 · history ch001..ch002 · ledger no seed 31de52584b68 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-Okay, the first page woke me up. A man asks "Would you like to taste another woman?" while he's inside her, and her body answers before she does. She comes hard and fast, faster than anything he's physically doing could explain. That's the hottest way I've ever seen a secret desire revealed. It's not a confession, it's an orgasm, and he's watching her face when it happens. "He knew her body's answer. He did not take it for her answer." That line is good, and it's Pace at his best and at his most suspect in the same breath. He's careful about consent, sure. He's also running an experiment on her, and he enjoys being the one holding the results.
+Finally, VEE. Three chapters in, and she arrives the way I'd want her to: head thrown back, laughing, the one person on that whole quad who forgot she could be seen. Of course she's the one. Every other girl Randi looks at is a mirror or a uniform or a performance. Vee is the opposite of the face. I got why Randi stops mid-stride without the book having to tell me, and it mostly doesn't tell me. Thank god.
 
-Then, lying there, she hands him the cover story, "Only in a threesome. With you," and he sees right through it and just says "Okay." So the game the jacket promised really did start in bed. Neither of them is lying to the other, exactly. She's lying to herself, and he's decided to let her, because it suits what he wants. That's queasy and it's hot, and I want both.
+The opening delivered too. It drops me straight back into bed with no throat-clearing, and Randi comes from a *question*. It's a little fantasy-logic, but I bought it, because the move is so smart: the body answers before she can make the answer mean anything safer. Then "He knew her body's answer. He did not take it for her answer." Okay, Pace. That's the line where he stopped being "too perfect" for me and turned into someone interesting. He's a man who gets turned on by consent itself. Then she pulls the "only in a threesome, with you" save, and he sees exactly what she's doing, *admires* it, and lets it stand. Chapter 1 Pace missed the deadbolt completely. This Pace reads her camouflage and then picks it up and uses it. I can't decide if that's tender or a little predatory. I think the book wants me to keep both.
 
-That said, the book did the thing again. "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy." I had already gotten that from the line itself. You wrote a perfect deflection, so trust it. G1.5 isn't going away.
+The pointing game is so hot, and almost none of it is touching. "I point. You pick." He's not choosing a woman, he's watching her learn she gets to choose. Then he kisses her on the library walk with her own taste still on his mouth, in daylight, in public, and her composure cracks. That got me. I also loved Kentucky coming out on "*game*." And the staged collision is gorgeous and a little evil. The redhead apologizes to *her*. Vee walked into a trap and said sorry for it.
 
-The walk. "I can't eat that," about the cheeseburger, automatic, not even a glance. Then the chapter ends on "Let's go feed you." He's setting up the same rescue from chapter one, the starving girl he's going to feed. Is he going to feed her a person now? I don't love where his head is.
+What's bothering me: we're in Pace's head, and his body keeps answering these girls. "He wanted her himself." The picture of that mouth at Randi's breast. "For us," she asks, and he says "for us," but the jacket says Vee goes to *Pace*. So "for us" is going to shift, and I don't think Randi sees it coming. The cheeseburger, "I can't eat that," then the last line, "Let's go feed you," right after "Do you think she'll like the bench?" Oof. Feeding and the bench in the same breath. I don't know who's getting fed.
 
-The pointing game itself is really fun. I loved the dry "You'd get both or neither. Is that a yes or a no for you?" and the "I point. You pick," and her moving from good sport to shopping. The kiss where she tastes herself on his mouth in broad daylight, on the library steps, with "You dirty boy" in the kitten voice covering real heat, is the best beat of the walk. But it runs a woman or two long, and the dance-floor follow metaphor shows up twice. Around the blowout girl my thumb started twitching.
+Gripes, smaller this time. The campus establishing paragraph is the book showing off its sentences ("composed two centuries ago by men who wanted the eye to travel exactly this way"). The Vee description gets one adjective too many ("failing at an impossible task"). And the follow/lead dance metaphor gets explained, then explained again at the end. But this is the least the book has lectured me so far.
 
-Then Vee walks out of the dining hall, and the whole chapter tilts. She's big, lush, copper hair, laughing with her head thrown back like she forgot anyone could see her. She's the complete opposite of Randi's face. Of course it's her. And Randi doesn't look away. "Yes," bare, nothing around it. Then she does that brilliant fake collision where the redhead ends up apologizing to *her*. That's the sorority training aimed at a person, and it's a little frightening.
+1 a.m. text: "her bf asked if she wanted to taste another woman and she CAME. then they went girl-shopping on campus and she literally body-checked a redhead and made HER apologize"
 
-And her happy little footwork on the brick. I'm in love with that. Randi, who closed doors quietly, who doesn't do anything she hasn't decided to do, just did a happy little shuffle. Then: "Do you think she'll like the bench?" Oh no. Oh, I'm in.
-
-My worries: we finally meet the heroine of the jacket, and she's a body through Pace's eyes, his fantasy of her mouth on Randi's breast. Three chapters in, Vee has had zero interiority. I'm fine with that being the point, since she's being *selected*, but she'd better get her own head soon. And Pace saying "he wanted her himself"? The jacket's "how real it will get" is pointing straight at him.
-
-1 a.m. text: *they literally played spot-the-girlfriend on the quad and she picked the redhead in half a second and did a HAPPY DANCE and then asked if the new girl would like the BENCH*
+## GATE
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "And he understood what she had done, because it was beautiful. She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy."
-WHY: The question-orgasm is one of the best erotic beats I've read in years, and the way Vee arrives makes the jacket feel dangerous instead of cute. The parade of women dragged a little and the book still explains itself, but that last line about the bench sent me straight on to the next chapter.
+ALMOST-STOPPED: "the whole thing composed two centuries ago by men who wanted the eye to travel exactly this way" — the scenic paragraph where the prose stops feeding me and starts posing.
+WHY: Hot from the first line, smart about consent and camouflage, and it finally paid off Vee in a way that makes sense of Randi. The bench question at the end means I'm turning the page tonight.
+
+## LEDGER
 
 LEDGER
-+ FEAR: Pace has made Randi's hunger his project. He's going to "feed" her a woman the way he fed her apples, without asking what the hunger is actually for.
-+ LOVE: Randi's little happy footwork on the brick, the first thing she's done all book that she didn't decide to do.
-+ SUSPICION: Pace wants Vee for himself ("He wanted her himself", "two of her in his mind"). He's the one who's going to get in deepest.
-+ WAITING: Vee's own head. I need to know who she is when nobody's pointing at her.
-+ WAITING: Randi in that stats class with Vee, working the friendship on purpose.
-~ W1.6 ANSWERED: Vee arrived, and I got to watch Randi's face from the outside, running a perfect fake collision.
-~ S2.1 SHIFTED: The math class does connect to Vee, through stats. Whether Randi lied about Pace's section is still open.
-~ S1.3 DEEPENED: Not quite a hand-off. Randi wants Vee herself and hides it as a gift for him. It's still the face managing what she can't stand to be seen wanting.
-~ S1.4 DEEPENED: He sees through her threesome dodge and goes along with it because it serves him, and calls it "the best idea he'd had in a month."
-~ F1.2 DEEPENED: "I can't eat that," automatic. The food policing runs underneath everything.
-~ W1.7 DEEPENED: "His own he would take last," and the chapter never shows him taking it.
-~ G1.5 DEEPENED: Still spelling out deflections I'd already understood.
++ LOVE: "I point. You pick." The whole pointing game, and Randi finding out that the choosing is hers
++ LOVE: Vee laughing with her head back, forgetting she can be seen. She's everything the face isn't
++ FEAR: Vee was hunted and the bump was staged. She'll never know the "accident" was a play, and when she finds out it'll wreck her
++ SUSPICION: "For us" won't stay "for us." Pace wants Vee himself, and Randi's gift is going to become his
++ SUSPICION: The shared stats class is the math course Randi lied to Brooke about, so Pace is closer to it than she admitted
++ WAITING: Vee's own POV. What she's starving for, and what she thought of the girl who walked into her
++ WAITING: "Let's go feed you." Does Randi actually eat, and does the feeding thread turn into Vee
+~ W2.5 ANSWERED: Vee showed up, finally, and she was worth it
+~ W1.5 SHIFTED: Vee looks like a different kind of starving. Open and unguarded, not portioned. Still need her from the inside
+~ S1.2 SHIFTED: Pace started the game in bed, not Randi. But Randi's "with you" turns her own want into his gift, so the outsourcing is still there in disguise
+~ S1.4 SHIFTED: Pace isn't blind. He reads her camouflage perfectly and lets it stand. He's too perceptive, not too perfect, and that's scarier
+~ L1.1 DEEPENED: Kentucky slipping out on "*game*," right when she's pretending to be a good sport
+~ G1.7 DEEPENED: Less lecturing this time, but the scenery paragraph and the doubled dance metaphor still preen

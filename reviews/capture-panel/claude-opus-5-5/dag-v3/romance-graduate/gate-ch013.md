@@ -1,18 +1,20 @@
-*capture-dag-v3-grounded · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 3b67aa444f62 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) + raw ch011..ch012 · history ch001..ch012 · ledger no seed b89ca81783c0 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f09960d6b42 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch012 · history ch001..ch012 · ledger no seed d5a7ab998c76 · 2026-11-06*
 
-**REACTION**
+## REACTION
 
-She touched the bench. I'm almost sure of it. She crouched in his den with her fingers on the joint of "a long low table," dowels flush, no screws, "cut to lock," and asked where he got it. In chapter one that table's top came off and Randi was on it facedown with her safeword ready. Vee's petting it and calling it beautiful. He's watching her hand on the wood "more than her face," proud. I went cold, and the book doesn't say a word about it. Good. It trusted me.
+I called the dress. I said I'd bet my Kindle, and I'd have won, except he's not *buying* it. He's MAKING it. And he made the shirt. I went back and reread the "no tag in it" bit because I'd forgotten Vee checked. The book planted it quietly and let me forget it the same way she did. That's good. Him holding the burgundy up to her face like a paint chip, and her catching the two of them in the mirror, got me in the chest a little.
 
-The whole tour is like that for me, because I've been in this house. The heat she almost comments on is the heat he keeps for Randi, and the book gives me "a wrapped box on the counter without asking who it's for." *Two towels on the rod.* Whose is the second one? Then the one closed door, her satin on under everything, her leaning toward the handle, and him saying "my bedroom" in the same flat voice as "kitchen." She felt that drop and so did I. He also stopped the kiss on the stoop. Vee knows no boy has ever been the one to stop, and she "started paying attention." Finally somebody inside the book is noticing his method, even if she has no idea what it is.
+Then the hot part, the part that's actually hot: "I'd measure you first — down to what you'd wear under it, in good light." And she's wearing the satin she put on that morning "hoping the man won't hand her a reason not to show it." She walks to the shut bedroom door, leans toward it, waits for his hand to go to the handle, and he just turns her back toward the light. Then the dress hands her the exact reason she wanted, through a side door. He stops the kiss on the stoop, and she's never had a man be the one to stop. That's "not yet" from the bench again, and now it's built into a whole afternoon. It's not skin. It's the setup for skin, and it's a smart, mean setup. I'm into it.
 
-Then the dress, and I called it. The red dress showed up and somebody is dressing her. But it's not russet and it's not Randi's oxblood. It's *burgundy*. Wine with purple under the red. In chapter six Randi drank a glass of red wine down in one swallow while he told her about Vee. I don't know if that's on purpose, and it made the hair on my arms stand up. "He hadn't matched the dress she'd described. He'd matched *her*." Okay, that got me. Her eyes went hot and so did mine, a bit. And the shirt with no tag, the "counterfeit, sample, off-brand" spiral before the absurd answer: he *made* it. Lovely.
+Now the parts I'm side-eyeing. The long low table in the den. She crouches and puts her fingers on the joint. Honey. I'm almost sure that's the table that isn't a table, or its sibling, and she's stroking it asking "where'd you get these?" I loved that. The house is too warm, and she files it with "a wrapped box on the counter without asking who it's for." Sure. He keeps it warm for women who take their clothes off. And there are two towels on the bathroom rod. Whose is the second one? Randi has been completely gone for two chapters now, right after "I want us" and walking out. This Saturday is happening right after the night she left, and nobody on the page is thinking about her. I want to know whether she knows about two o'clock. I really want to know if she knows about the dress.
 
-Then the trap closes softly. "Down to what you'd wear under it, in good light." The glass porch, mountains, afternoon pouring in, and her satin already on. "Her own willingness to be looked at." That's the jacket, choosing as the erotic act, and it's hot in a held-breath way. He built Randi a bench. He's going to build Vee a dress. He makes a thing to fit a woman's body exactly, and then he puts her in it. She says yes three times.
+My gripe: Pace is turning into a catalog. He builds furniture, cooks, lifts, does math, sews shirts, licenses a patent that gets scared kids out of MRI tubes faster, and reads dragon paperbacks as a kid. Every room of the tour is another merit badge. The thing that saved it for me was "a small closing" at *parents*, the first door in him I can't see behind. More of that, fewer badges. The book also did its explaining thing at the climax: "he hadn't matched the dress she'd described. He'd matched *her*." I saw the mirror. I got it. And the error-correcting codes speech, "say it more than once so the noise can't kill it," made me laugh, because that's this book defending its own habit of saying everything twice. Cute. It's still a habit.
 
-My real gripe is that he's too much now. Mathematician, powerlifter, woodworker, cook, tailor, and a patent holder whose patent gets *scared sick kids out of the MRI tube faster*? Plus a closet with one right pair of shoes for each thing? That's my chapter-one fear coming true: the dream man in the henley, with more skills stacked on. The "six-year-old who'd just found out everything about dinosaurs" bit is cute, and the flinch at *parents* is the only crack he shows all chapter. I want more of that flinch and fewer accomplishments. The error-correcting-codes speech, "say it more than once so the noise can't kill it," and then the MRI's signal-in-noise are latent variables and Euler again, lecture slides about the theme. Funny coming from a book that has told me the date four times, though. Maybe that's the joke. The bookshelf and shoe catalogs drag like the girl catalog did.
+It's quiet again, a tour, and the second low-heat chapter in a row. But the quiet is charged in a way chapter 12 wasn't. Every room is a step closer to the shut door, and it ends on "Yes" to being looked at. Next chapter is a measuring tape in good light. I'm reading.
 
-The 1 a.m. text: *she went to his house and PETTED THE BENCH. asked where he got it. he said "i made it." then he showed her silk he bought to make her the dress, wine-colored, and he has to measure her "down to what you'd wear under it" and she wore satin ON PURPOSE. also there are two towels in the bathroom and I want answers.*
+1 a.m. text: "he SEWS. he made the shirt. he's making her the silk dress and he has to measure her 'down to what you'd wear under it' and she wore the good satin on purpose. ALSO she touched the bench table and asked where he got it. also two towels in the bathroom???"
+
+## GATE
 
 GATE 13 — Two Towels
 DECISION: CONTINUE
@@ -20,20 +22,21 @@ CAPTURE: 7
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "And he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs."
-WHY: The house tour is long, and Pace keeps adding talents until he's close to the dream man I'm sick of. But Vee's hand on the bench joint and the closed bedroom door are quietly terrifying, and the dress turns into a gift and a trap at once. It ends one breath before a tape measure and her satin, in all that glass and light, so I'm reading on.
+ALMOST-STOPPED: "I license a patent." That's where the tour turned into Pace's résumé, and I felt the book-boyfriend-who's-good-at-everything trope I came here to escape.
+WHY: It's a quiet tour chapter, and he's a bit too competent. But the shut bedroom door, the stopped kiss, the satin, and a measuring session promised "in good light" make it the most charged setup in the book. Her yes to being looked at is exactly where I wanted it to end.
 
 LEDGER
-+ FEAR: The den's long low table is the bench, and Vee has already touched it and admired it. She's going to find out what it is the hard way.
-+ SUSPICION: Two towels on the rod. Randi is expected, or she's already part of this afternoon somehow.
-+ SUSPICION: The flinch at "parents" is the real crack in Pace, bigger than Daphne, and it's the only thing he didn't make into something nice.
-+ GRUDGE: Pace is turning into a stack of talents: math, lifting, wood, cooking, sewing, a patent that helps sick kids. One more and he's the henley man.
-+ LOVE: "He'd matched *her*." The burgundy held up to her face like a paint chip, and the disappointment turning over.
-+ SUSPICION: He builds things to fit women's bodies. The bench was for Randi, the dress is for Vee. Measuring her is the bench with the lights on.
-+ WAITING: The measuring, in the glass room, in good light, down to the satin.
-~ S10.3 CONFIRMED: Someone is dressing her. It's Pace, in burgundy silk he'll sew himself, not russet and not Randi's oxblood.
-~ F12.2 SHIFTED: Saturday wasn't the bench, at least not yet. It's a tape measure and her willingness to be looked at, which might be worse.
-~ W12.4 ANSWERED: She wore satin underneath on purpose. Kayla's hair, the bedroom door stayed shut, and no Randi yet.
-~ S1.3 DEEPENED: He stopped the kiss himself, and Vee noticed the stopping was his. She's paying attention to his control now, without knowing what it is.
-~ G1.6 DEEPENED: Error-correcting codes, then signal in noise. Two more lecture slides about the theme.
-~ S12.3 FADED: The bare text makes sense now. He didn't want to give the dress away.
+~ S10.3 CONFIRMED: The dress is real. He's making it himself, not buying it. Whether Randi's in on it is still open
+~ F9.5 DEEPENED: She's at the house and touched the long low table without knowing what it is
+~ F12.1 SHIFTED: No bench and no Randi on Saturday so far. It's a measuring session instead, which might be worse
+~ S1.4 DEEPENED: He's competent at absolutely everything, and his one visible crack is "parents"
+~ G1.7 DEEPENED: "He'd matched *her*" and the wrapped-box line explain things I'd already seen
+~ F3.3 DEEPENED: He's making her a gown by hand. When the game comes out, this is what will break her
++ SUSPICION: The second towel on the rod is Randi's, and the house is kept warm for her
++ SUSPICION: The long low table in the den is the bench, or one like it
++ WAITING: The measuring "in good light," down to the satin
++ WAITING: What happened with Pace's parents, the door "easing shut two rooms away"
++ LOVE: He's the one who stops the kiss, and she's never had a man stop first
++ LOVE: The tagless shirt, planted and forgotten until he says it
++ GRUDGE: Pace is turning into a merit-badge book boyfriend: furniture, sewing, cooking, a patent, saving sick kids
++ FEAR: Randi doesn't know about today, and when she finds out about the dress it will land as betrayal

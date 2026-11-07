@@ -1,34 +1,36 @@
-*capture-dag-v3-grounded · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) · history ch001..ch040 · ledger no seed 3649edbe758a · 2026-11-02*
+*capture-dag-v3-grounded · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed ff9bc85d4104 · 2026-11-06*
 
 **REACTION**
 
-I've never read a chapter this short. I got to the end and actually swiped back to check I hadn't missed a page. Then I read it again, slower, because it turned out to be one move, and the move is the shirt.
+She took the shirt off.
 
-Four chapters ago the flannel was the tenderest thing in the book: him pulling it on over his own shirt so it would smell like him again. Tonight she figures out the trick behind it. "The heat in the shirt was her own, given back." I said "oh" out loud. That's the cruelest thing this book has let her see, and it didn't come from Randi, a bartender, or a lecture slide. She worked it out by herself under a dorm ceiling. She's been living on his smell all fall because she can't have his word, and here the smell turns out to be her own body heat reflected back. So she takes it off, and the cold is worse, and she stays in it anyway. She's choosing nothing over a stand-in. That's grown-up, and it's bleak, and it's the first time since the porch that she's done something with the ache besides grind on it. The shirt "down in a heap where a dropped thing lands," not folded. After the panties folded in thirds with the spot centered, that landed hard.
+I've followed that flannel for thirty chapters. He handed it to her in the rain. She slept in it all week. She traded her panties for it. Then it smelled of "fabric softener and no one," then she washed it and handed it back to be filled, and he stood in his kitchen wearing two shirts. Tonight it fails her. "The heat in the shirt was her own, given back. He wasn't in it." That's the realest sentence about this relationship in the whole book. Everything she feels coming off him might be her own warmth reflected back. It's the four strokes in the pool from chapter 32 again, except now she can't swim away from it. Then she takes it off and the cold is "so much worse, and she did not put it back on." The shirt doesn't go back on the pillow. She leaves it in a heap, "where a dropped thing lands." That stung. For two books Vee has kept a few inches between herself and every bad feeling, and here she lies naked in the cold on purpose and stays in it. It's the cardigan arc run backwards: she's bare because covering herself stopped working, not because she's proud.
 
-I loved the phone too. Her thumb over the empty field, and no text that could get it out of him, because anything she sent "would be answered small and warm, and would leave her exactly here." I've DNF'd whole books built on one unsent text. This is the reverse: she doesn't send it because she knows exactly what would come back. And "the plate he set down once he'd built the hunger in her" is the first time Vee's own head has put his care in that order. He builds the hunger first and feeds it after. That's the method, and she's got her hand on it in the dark without knowing what it is.
+And the phone. Her thumb over the empty field, and "the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." Yes. I've had that exact night. That's grown-up writing about a feeling most romance novels would settle with a text.
 
-But. "Only every breath of him now and the silence at the center where the word should be." That's the jacket again. That's practically the blurb, and it's the third chapter in a row ending on the missing word: the laundry room, his bed, now her bunk. I can tell the chapter is short on purpose. It's one held breath, and it's honestly the best-written of the three. It's also the third time. And Randi has now been gone for five chapters since the drawer. Cassie is asleep three feet away again, and Vee doesn't wake her again. Small side-eye: "across town in his own bed." He lives off 614 past the gravel, in the woods. And "a man with nothing grinding in him." Honey, you have no idea what he's got grinding.
+It's a Friday, though. December 11. Fridays have been his since October, and she's in the dorm with Cassie asleep below her and Pace "across town." Why? Did she stay away on purpose? Is this the five nights again, or the start of her leaving? The book doesn't say, and that's the most interesting thing about the chapter. If she's started protecting herself from him, the ground just moved. And Cassie is three feet away, again, and Vee doesn't wake her, again. (Also, "across town"? He lives out past where 614 goes to gravel. It's a small thing, but I noticed.)
 
-So, a two-page chapter: technique or shortcut? This one's a technique. One gesture, no recipe, no lecture. If the next one is the ache again, though, I'm out. The date at the top, "Friday, December 11," is new, and it's the only thing telling me something is about to happen.
+The gripe is the same one, now on loop. "Only every breath of him now and the silence at the center where the word should be." That's practically the jacket copy. It's the sixth chapter in a row that names the missing word, and in this one the naming is the whole chapter. "Not the big one and not the small one" is chapter 39's last paragraph almost word for word. I GOT IT three chapters ago. What saves this chapter is that the shirt finally does something the narration doesn't.
 
-GATE 41 — Bare
+I've never read a chapter this short, and I don't know what to make of it yet. Part of me liked it. It feels like one held breath, a single night with no padding, and there was no cooking stretch to skim. Part of me thinks it's a coda that got its own number because the book had nothing else to put next to it. I'm calling it a technique for now, on probation. Zero heat, again. Randi's head is gone for twenty-four chapters now. She isn't even a thought, on a night when Vee is coming apart for want of a name she doesn't know Randi is the reason for.
+
+GATE 40 — Bare
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 5
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "only every breath of him now and the silence at the center where the word should be" (the blurb read back to me a third chapter running)
-WHY: Taking off the shirt and staying in the cold is a real turn, and "her own, given back" is the sharpest thing Vee has ever understood about him. But it's the third chapter of the same ache with Randi still missing. It's short enough that I'll give it one more, and one more is all it gets.
+CAPTURE: 6
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "only every breath of him now and the silence at the center where the word should be." The book recited its own jacket at me for the sixth chapter running.
+WHY: "The heat in the shirt was her own, given back" is a real turn, and leaving the shirt in a heap breaks a thread I've loved since the rain. But the no-name ache is now the whole chapter instead of a beat in one. What pulls me on is the question the chapter won't answer: why is she in the dorm on a Friday?
 
 LEDGER
-+ LOVE: "The heat in the shirt was her own, given back." Vee seeing through the substitute by herself.
-+ WAITING: What Vee does when it gets light. Does she ask him straight, or carry this to Randi at Anthro or brunch?
-+ SUSPICION: The first dated chapter heading, Friday, December 11. Something is about to happen, maybe end of semester and end of book.
-+ GRUDGE: Third chapter running on the missing word, now as a two-page held breath. If the next one does it again, I'm stopping.
-~ F38.3 CONFIRMED: The smell faded into her own warmth, and the silence is all she has. She chose the cold over the shirt.
-~ L38.2 SHIFTED: The flannel he wore for her is in a heap beside her, unfolded.
-~ G40.6 DEEPENED: The unsaid word, a third chapter in a row, ending on the jacket line again.
-~ W37.6 DEEPENED: Five chapters since the drawer, and still no Randi.
-~ F4.2 DEEPENED: Cassie asleep three feet below, and Vee lies awake all night without waking her.
-~ F39.1 DEEPENED: The pile has become a whole sleepless night, and she's lying in it naked.
++ SUSPICION: It's a Friday and she's in her own bed, not his. Something happened, or she has started keeping herself away from him
++ FEAR: The shirt in a heap is where it starts. She'll pull back from him before she ever learns the real reason he can't say the word
++ WAITING: Whether the two-page chapter is a technique or a shortcut. I'm counting this one as a held breath, on probation
++ GRUDGE: "Across town," for a man who lives out past the gravel
+~ L23.6 SHIFTED: The shirt stopped working. Its warmth was her own, and she left it on the floor where a dropped thing lands
+~ F32.4 DEEPENED: The silence is all she has now. Every text she could send would get a small, warm answer that leaves her exactly where she is
+~ S23.3 DEEPENED: "The heat in the shirt was her own, given back." It's her closest guess yet that she built him, still aimed at the wrong person
+~ G39.5 DEEPENED: The no-name ache gets explained for the sixth chapter running, and this time it's the whole chapter
+~ F4.2 DEEPENED: Cassie asleep three feet below, and Vee comes apart without waking her, again
+~ W18.5 DEEPENED: Twenty-four chapters without Randi's head, and she isn't even a thought on the night Vee breaks over a word Randi is the reason for

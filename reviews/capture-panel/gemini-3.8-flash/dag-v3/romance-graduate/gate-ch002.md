@@ -1,32 +1,26 @@
-*capture-dag-v3-grounded · gate ch002 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed 5b4485b05454 · 2026-11-02*
+*capture-dag-v3-grounded · gate ch002 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed c9946f29980b · 2026-11-06*
 
 REACTION
 
-The absolute fucking *horror* of that sorority living room.
+Oh, this was chilling. Absolutely suffocating. The contrast between Pace’s warm, quiet, terrifyingly intimate house and the icy, smiling panopticon of this sorority house made my chest tight.
 
-I felt sick to my stomach the entire four minutes she was standing in that archway. Rivers writes psychological cruelty like a scalpel. Not a single voice was raised, not a single bitchy glare, every single word was dipped in honey and pastel gloss, and Brooke tore Randi to absolute shreds without even looking up from her spreadsheet. "Wait—is that the white pickup I keep seeing parked behind Hahn?" "Sir. You are five-foot-nine." "Engineering, isn't it." "Short-cute."
+Brooke sitting at that table with her open spreadsheet and her warm perfume voice—Jesus. That wasn’t a casual Saturday morning check-in; that was a polite public execution. The way every question was a tiny scalpel taking off a sliver of Randi’s armor: *Pace? Engineering? Teaching? Short-cute?* Brooke already knew. She knew Randi didn’t work on a paper, she knew the truck, she probably knows his credit score. And Randi—who sits on *Standards*, who polices the other girls for a living—had to just stand there on the stairs, matching Kinsey’s stupid high-pitched laugh, clutching her overnight bag, feeling the exact mathematical distance between her polished sorority mask and the woman who was sobbing, red-assed and dripping wet on a walnut bench eight hours ago.
 
-They took the man who just broke Randi open down to her bare, weeping soul on a hand-built bench, and they reduced him to a minor campus embarrassment in a cheap truck with a math stipend. And Randi had to *laugh along with it*. She had to match Kinsey’s pitch. She had to swallow every single defense of him, of herself, of whatever the hell happened to her last night, because to defend him would be to admit there was something *to* defend—that she cares, that he touched her somewhere real, that she is failing the unspoken, terrifyingly rigid code of this house.
+And then the silence when she gets to her room. God, that broke me. Walking from the door to the vanity to the bed to the closet, unable to remember what a human body does when it’s alone in a room. Lying on top of the made bed in yesterday's clothes, with her shoes still on under a synthetic duvet that doesn't warm her. *“He’s hard to say no to.”* The sheer weight of that realization hitting her in an empty room where she can’t even let herself cry.
 
-And that detail: Randi is on the Standards board. Of *course* she is. She polices the line because she is terrified of falling over it.
-
-Then she gets up to that freezing single room, with the bone and camel and oatmeal clothes—a closet that looks like an eating disorder, sterile and manicured and devoid of life—and she just lies on the bed in her dirty clothes, shoes still on, under a synthetic duvet that doesn't hold heat. The contrast between Pace’s house—warm, heavy, walnut furniture, Steely Dan, honeycrisp apples, real cashmere—and the icy, polite prison she pays to live in made my heart ache.
-
-*"He's hard to say no to."* That line coming back in her head made the hairs on my arms stand up. When she told the girls that, it was a breezy little flirtation. But lying there on the bed, it’s a terrifying truth. He *is* hard to say no to, because his dominance is patient, exacting, and strips away all her armor.
-
-She is completely untethered. She’s locked the bathroom door against Pace, she’s locked her bedroom door against the sorority, and she’s trapped in the middle, dissociating in her heels. Where the hell does Vee come in? If Randi is this fragile, this cornered, the introduction of a third person feels less like a spicy game and more like a high-wire act over a volcano.
+This author understands female socialization and institutional hierarchy so deeply it hurts. There wasn't a single touch or drop of sweat in this chapter, but the tension was dialed to an eleven because we know what's at stake. Randi is trapped between a world that demands she be a hollow porcelain doll and a man who refuses to let her be anything less than entirely, vulnerably human. She is going to snap, or she is going to do something drastic to save herself.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The transition from the suffocating physical intimacy of the bedroom to the razor-sharp social surveillance of the sorority house was masterclass pacing. Randi's isolation is breaking my heart.
+WHY: The psychological tension here is masterclass—watching Randi navigate the vicious, smiling surveillance of her sorority house while still raw from Pace's bedroom was utterly gripping.
 
 LEDGER
-+ FEAR: The sorority finding out what Pace actually does to Randi and using it to destroy her
-+ LOVE: The clinical brutality of the dialogue between the sorority sisters—every smile is a blade
-~ F1.1 DEEPENED: Randi is utterly cornered between Pace seeing too much and the house watching her every move
-~ W1.4 SHIFTED: Seeing Vee enter the orbit, especially now that we see the crushing social pressure Randi lives under
++ LOVE: The sheer, terrifying realism of the sorority dynamic—the smiling cruelty and the power plays over coffee and spreadsheets.
++ FEAR: Brooke is going to dig into Pace and use him to dismantle Randi's position on Standards.
+~ F1.1 DEEPENED: Randi is completely unmoored; the need to deflect Pace's gaze before she unravels entirely is getting desperate.
+~ W1.4 SHIFTED: Waiting to see when and how Vee appears as the pressure on Randi mounts from both sides.
