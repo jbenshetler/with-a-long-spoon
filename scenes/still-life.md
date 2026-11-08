@@ -44,7 +44,7 @@ His eyebrows went up. "Do I."
 
 "You do."
 
-She opened his belt. He made a sound into her mouth, a question, and she answered it by getting the button and zip and drawing him up long enough to push everything down together. He was still laughing when she knelt between his feet. Then there, high on the inside of his thigh, was the scar—pale and old and terrible, the one she had reached for before and been turned away from, his hand coming over hers and moving it off without a word.
+She opened his belt. He made a sound into her mouth, a question, and she answered it by getting the button and zip and drawing him up long enough to push everything down together. He was still laughing when she knelt between his feet. Then there, high on the inside of his thigh, was the scar—pale and old and terrible, the one she had reached for before and been turned away from, his hand coming over hers and holding it there, *not tonight*.
 
 Not this time.
 

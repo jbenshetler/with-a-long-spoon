@@ -67,7 +67,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 **The scar**
 - She gets the jeans open, pushes them down; her hand stops at the waistband of his shorts
-- Inside of his thigh, close to the hip: a scar, surgical and old, smooth and slightly raised; she traces it with one finger; he lets her, then takes her hand and moves it without speaking
+- Inside of his thigh, close to the hip: a scar, old and ragged, raised; she traces it with one finger; he lets her, then takes her hand and moves it without speaking
 - She files it: facts without frames. *Later. Not now.*
 
 **The bed / the sex**
@@ -108,7 +108,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 > **Footwear.** Ballet flats on the first night — cute, deniable, in keeping with the disavowal; not heels. High heels are reserved for a later beat; do not put her in heels here. She tries two elevated pairs and rejects both: her own black pumps (too proper/too little) and **black kitten heels borrowed from a girl down the hall** (too much). The borrow is a **dorm friend, not Randi** — the first Randi shoe loan is Broken In (~Oct 30, two weeks out) and "Randi installs heels later" is a planted staircase beat, so a Randi loan here would be anachronistic. She owns no appropriate date heels yet; rejecting the borrowed pair now sets up Randi's later installation.
 
-> **The scar:** inside of his thigh, close to the hip. Surgical, old. She asks with her finger and gets nothing verbal. It returns in a later chapter. Do not explain it here or in Toenails.
+> **The scar:** inside of his thigh, close to the hip. Ragged, old. She asks with her finger and gets nothing verbal. It returns in a later chapter. Do not explain it here or in Toenails.
 
 ---
 
@@ -125,7 +125,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 **Plants:**
 - **The flannel night** — first solitary firing of the loop; the disavowal it runs on is the same one Randi later names
 - **The green panties / matching bra** — her interior color, chosen for herself alone (the *matching for whom* never said); the **green sheets** beat later (she gifts him green sheets)
-- **The scar** (inside thigh, surgical) — filed without a frame; returns later
+- **The scar** (inside thigh, ragged) — filed without a frame; returns later
 - **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the {{Fed}}; that reopening is Randi's opening
 - **Footwear staircase** — ballet flats now; heels held for later
 - **The trade** — he has the panties; a kept thing, not a collection; both know; neither mentions it again

@@ -248,11 +248,11 @@ She was quiet. She was putting something together, and it came together in her b
 
 He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed.
 
-Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved, and found the place where the skin was not like the rest, high up the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved, and found the place where the skin was not like the rest, high up the inside of his thigh. It was ragged, wider than her finger and longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
 
 "This?" she said.
 
-His hand came over hers. Not fast, not to move it. He laid his hand on top of hers where it was and pressed it gently down against the old seam and held it there.
+His hand came over hers. Not fast, not to move it. He laid his hand on top of hers where it was and pressed it gently down against the ragged place and held it there.
 
 "Not tonight," he said.
 

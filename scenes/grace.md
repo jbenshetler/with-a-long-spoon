@@ -118,7 +118,7 @@ He led her — unhurried, three slow steps — to the cheval mirror, and stood h
 
 "Look at you," he said, over her shoulder, the two of them together in the foxed glass. "Tell me what you see."
 
-She looked. "A redheaded woman in beautiful new plum lingerie," she said — all she gave herself, and she went past it gladly to the easier thing. "And a handsome man behind her. Brown hair, cut close — the athletic kind. Brown eyes, smiling. A cleft chin. That little birthmark by his ear."
+She looked. "A redheaded woman in beautiful new plum lingerie," she said — all she gave herself, and she went past it gladly to the easier thing. "And a handsome man behind her. Brown hair, cut close — the athletic kind. Brown eyes, smiling. A cleft chin. The birthmark by his ear, and the one down his side that matches it."
 
 Something crossed his face — a shadow, there and gone before she could put a name to it, so quick she half-thought she'd made it up. Then it was past, and he was looking at her again, steady and warm.
 
