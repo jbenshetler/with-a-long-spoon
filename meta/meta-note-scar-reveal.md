@@ -6,10 +6,10 @@
 
 ## The thread
 
-The scar is already planted unspoken (traced at First Night, touched at {{We Find Out}}) and the craft note reserves it for "a later scene where she presses him on it looking for a chink in his armor." This thread is that reserved payoff, in two steps:
+The scar is already planted unspoken (found at First Night, touched at {{We Find Out}} as bare body-fact, reminded at {{Still Life}}; its ear-mark twin misnamed a birthmark at {{Grace}}) and the craft note reserves it for "a later scene where she presses him on it looking for a chink in his armor." This thread is that reserved payoff, in two steps:
 
 - **Step 1 — fall, the deferral (quick, verbal).** Vee finally *asks* — half-looking for a vulnerability, a chink. He closes it in a few words and they move on. This is the first time the withholding is spoken rather than just enacted with a moved hand.
-- **Step 2 — spring, the telling.** He gives the origin in his own voice: the bike-dragging, the father who did it *because he thought it would be funny.*
+- **Step 2 — spring, the telling.** He gives the origins in his own voice, one pattern: sixteen first (the refusal, the front steps, the femur), then the “birthmark” — eleven, the bike-dragging, the father who did it *because he thought it would be funny.*
 
 ## Step 1 — on the porch
 
@@ -23,12 +23,14 @@ Spring, Vee POV close third (his read unrendered).
 
 - **The origin given flat — but the flatness is a seal, not peace.** He's buried this, never dealt with it: scar tissue over a memory still full of pus. So it comes out clipped, under-temperature, sealed — and an attentive Vee/reader should feel the **pressure** under the flat surface, something walled and wrong, not something resolved. *He thought it would be funny* is the **father's** framing, reported deadpan; Pace does not find it funny — the deadpan laid over that monstrous detail is the horror. The wounding core is the carelessness, not the gore — render the disregard, not the blood. He under-reacts to his own maiming because to feel it is unbearable, not because it's healed.
 - **The same-shape resonance stays unstated.** He describes being used for someone's experience without his say; he never connects it to himself, to his own checklist, or to Vee. **The reader connects it** — and the cold drop is the reader watching him narrate his own wound while reproducing it blind. This is the safe form of "more sympathetic": the understanding deepens the irony instead of buying him an exit. Never say it on the page (resonance only — the standing rule).
+- **Order: sixteen, then eleven.** Sixteen short and flat — the violence the reader already suspects from Sheri's *hasn't been home since he was sixteen*. Then the “birthmark” she named at the {{Grace}} mirror (the shadow that crossed his face) — eleven, the rope, *funny* — the colder fact landing last. Two aspects of one pattern, not two confessions; keep eleven to the rope and one line so it doesn't read as a sympathy-dump.
 - **What she's doing vs. what she gets.** She came looking for a chink; what she finds makes her love him more. Sympathy on her read, dread on the reader's, same words.
 
 ## Rule changes (applied in canon)
 
 1. **The origin gets spoken once.** Canon has the bike-dragging "surface obliquely, in fragments, never as a monologue." New carve-out: *the one spring telling to Vee is the sanctioned exception* — and it stays inside the rule's spirit because it's plain and undramatic, an account, not a monologue of self-pity. Everywhere else the fragmentary discipline holds.
-2. **Registered as a running thread** in `meta-arch-bible.md`, alongside the taste thread: porch deferral (fall) → plain telling (spring); same-shape unstated; Pace's flat voice. Narrow trigger (these two slots only), so the line is mostly a guard against seeding it anywhere else.
+2. **Registered as a running thread** in `meta-arch-bible.md`, alongside the taste thread: porch deferral (fall) → plain telling (spring); same-shape unstated; Pace's flat voice. Narrow trigger, so the line is mostly a guard against seeding it anywhere else.
+3. **Plant, remind, pay off (author ruling 2026-11-08).** Repeated meaningful flagging across volumes frustrates readers. Volume Two carries one bare body-fact ({{We Find Out}}) and no *never-asked / never-told* flags; {{School Nights}}' mention was cut. Volume Three reminds once ({{Still Life}}) and names the “birthmark” ({{Grace}}) before the telling. The “birthmark” runs its own plant/remind: {{Substitution}} (ear), {{Famished}} (side, the match), {{School Nights}} (bare body-fact), {{Grace}}.
 
 ## Don't fuse with the first-love telling
 
@@ -36,7 +38,7 @@ The two confessions run at **different temperatures** — both unhealed, but the
 
 ## Cross-refs
 
-- `meta-arch-bible.md` / `meta-arch-pace.md` — scar physical form, the bike-dragging origin, the same-shape rule (carelessness suffered → carelessness reproduced).
+- `meta-arch-bible.md` / `meta-arch-pace.md` — scar physical forms, the two origins (front steps at sixteen, bike-dragging at eleven), the same-shape rule (carelessness suffered → carelessness reproduced).
 - `meta-condensed-famished.md` — the plant ("returns later"; do not explain there).
 - `meta-note-first-love.md` — sibling confession (the first love, late summer); the temperature contrast.
 - `meta-plan-chronology.md` — Step 1 rides **{{Rock}}** (~late Oct, the porch/name scene); Step 2 is **The Scar** (~April).

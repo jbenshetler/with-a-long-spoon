@@ -33,7 +33,7 @@ Load-bearing mechanics:
 A natural *"What about Thanksgiving?"* Two things, both light, neither dwelt on:
 
 - **Sheri, named.** Pace is cooking for a friend — Sheri — *"She's alone."* Warmth; respect for her autonomy (he won't tell her story, *that's Sheri's to tell*); defuses toward *pity, not romance* (points Vee inward/safe, not toward a rival); a sidelong glimpse of his own aloneness by proxy (the other one with no family table). Keep Sheri **offstage/reported** — her first on-page meeting is *{{Another Round}}* (~late January).
-- **The family shadow — deflect, then one fact.** Vee pushes a little; his warm/present voice goes precise and formal (the canon stress-tell), and he gives **one flat fact only** — *I don't go back* — never the why. The **cause stays vaulted**: no bike-dragging (the spring Scar telling, `meta-note-scar-reveal.md`), no first love (late summer, `meta-note-first-love.md`). Effect, never cause.
+- **The family shadow — deflect, then one fact.** Vee pushes a little; his warm/present voice goes precise and formal (the canon stress-tell), and he gives **one flat fact only** — *I don't go back* — never the why. The **cause stays vaulted**: no front steps or bike-dragging (the spring Scar telling, `meta-note-scar-reveal.md`), no first love (late summer, `meta-note-first-love.md`). Effect, never cause.
 
 ## Seeds forward
 

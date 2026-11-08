@@ -6,7 +6,7 @@
 
 ## What the scene is
 
-The guy-friends tread of Pace's disclosure staircase — {{Rock}} (the tutor, the hall) → **here** → {{The Scar}} (the bike-dragging) → {{Excavations}} ("Once."). Its job is the {{Fairytale}} function on Pace's side, without the POV shift: the sympathy dose before the spring escalation. Withheld, a college-age man with only women around him villain-codes by omission; rendered at dosage, the injured-boy-in-a-man's-body reading opens on first pass. The full architecture (the five closed channels) lives in `meta-arch-pace.md` (Formation).
+The guy-friends tread of Pace's disclosure staircase — {{Rock}} (the tutor, the hall) → **here** → {{The Scar}} (the front steps, the bike-dragging) → {{Excavations}} ("Once."). Its job is the {{Fairytale}} function on Pace's side, without the POV shift: the sympathy dose before the spring escalation. Withheld, a college-age man with only women around him villain-codes by omission; rendered at dosage, the injured-boy-in-a-man's-body reading opens on first pass. The full architecture (the five closed channels) lives in `meta-arch-pace.md` (Formation).
 
 ## The beat
 
