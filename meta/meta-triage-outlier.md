@@ -92,3 +92,15 @@ Near-all one fault — an exact beat, then the same beat a degree less exactly. 
 ## Style-linter (three hits `--ack`'d, prose unchanged)
 
 Edits re-fingerprinted two previously-accepted hits; all left standing, prose intact: `held-past` :71 ("a beat too long/too level" — pre-ruled IGNORE #61b, reader-praised); `there-was-were` :83; `x-not-y` :93 (the kept hedge). Notes in `style/style-allow.toml`.
+
+---
+
+# Triage — The Outlier (author query, 2026-11-08)
+
+## Left standing — do not re-litigate
+
+- **"Cheating bastards" stays plural (:73); `:75`'s plural anatomy stays too.** The question was whether to make it singular, and if it stays plural, who besides her father it means. **Author ruling 2026-11-08: unchanged.**
+  - **No second person is meant.** The plural is the cover: it puts *my father* among the company and the people behind it ("one company under another", :63) so the words can be said at all (`meta-note-outlier.md` hinge line; `meta-condensed-outlier.md` "the plural blurring *my father* into strangers").
+  - **The singular is too specific.** It would name one man and turn the cover into an admission. Cassie could no longer take the words as agreement (:77). It would also orphan :75 ("no *these*, no *those*, no clause to fold the plural down").
+  - **Reader evidence (capture v3, ch36).** `gpt-5.6-sol`·romance-graduate read it as designed: *"came out ragged and plural because she could not yet say* my father*. She had to put him among strangers."* `claude-opus-5-5`·romance-graduate went looking for a second target: *"It's plural, and the book makes a little fuss about the plural. Is that the father and the mother?"*
+  - **The opus misread is one lane and stands.** The considered alternative was to keep the word and lighten :75 so it stops pointing at the grammar. It was not taken.
