@@ -122,3 +122,8 @@ Suppressions re-arm if the sentences are reworded — a re-flag after an edit is
 ## Post-pass continuity fix (2026-07-28, author-directed)
 
 Line 17's post-sex chill beat ("he'd worked out she went cold the minute they'd stopped…") was **cut**: cold-after-sex is **Randi's** trait ({{The Bench}}, verified participants), never Vee's — Vee is the warm-blooded one ({{On Her Floor}}). The line now reads "…warm as a held breath now, warm enough that she never once thought about how much she had on," pointing the warmth at its canonical rationale (bareness). The panel's praise of the pre-empted-cold beat reflects the pre-fix text; the pre-emption theme still lives in "he noticed things before she did." Displaced canon (he keeps the house chilly for himself; Vee's unannounced-visit discovery, placement open) and the cashmere-blanket provenance fix are recorded in `meta-plan-pace-house.md`. The line-17 `warm` suppression re-armed with the edit and was re-acked.
+
+## Fact audit (gpt-5.6-sol, 2026-11-08) — both fixed (author)
+
+- `:103` "the warmth of his car" → "his truck" — Pace drives a truck.
+- `:151` Cassie's recalled question "with her book still open on her chest" → "still facedown against her knees" — matches `:105`/`:109`.

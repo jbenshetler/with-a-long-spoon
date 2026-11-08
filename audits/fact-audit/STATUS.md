@@ -128,3 +128,4 @@ whole-book pass.
   boyfriend… a question mark on it"); the line predates the pass. Author ruled
   2026-10-30: stands (`meta-triage-under-the-rug.md`). *Nothing Underneath* was edited again after its check (cut
   and smile beat, no fact change), so its report is stale by prose-sha.
+- **Per-edit check 2026-11-08, scar/birthmark pass:** gpt-5.6-sol rebuilt all three volume ledgers and checked *Substitution*, *Famished*, *Rock*, *We Find Out*, *School Nights*, *Still Life*, *Grace*. No scar/birthmark flags. Three older flags ruled by the author: *School Nights* car → truck and Cassie's book → knees (fixed, `meta-triage-school-nights.md`); *Still Life* `:461` stands (`meta-triage-still-life.md`). Limited per-edit check only.

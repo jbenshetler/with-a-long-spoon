@@ -100,7 +100,7 @@ He did nothing. His eyes came back up and found hers in the glass, and he smiled
 
 ---
 
-She came in past eleven on Monday with the night still on her, the warmth of his car and of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
+She came in past eleven on Monday with the night still on her, the warmth of his truck and of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
 
 Cassie was folded into the bean bag with a book against her knees. "You're doing the streetlight thing again," she said, not looking up. "You're a public utility."
 
@@ -148,7 +148,7 @@ The first hundred was always a small argument, the body objecting on principle, 
 
 *Do you love him.*
 
-It got in off the third wall, whole, in Cassie's voice, flat the way she'd said it with her book still open on her chest.
+It got in off the third wall, whole, in Cassie's voice, flat the way she'd said it with her book still facedown against her knees.
 
 Vee had said *maybe.* She had said *I think so,* and then, because that had not been the size of it either, she had said *it's all so fast,* and Cassie had let the maybe stand and gone back to her book and told her to go to sleep, streetlight. And in the dark afterward Vee had lain there running the sentence over, with the answer sitting plainly in her, easy to reach, easy to say, and no idea in the world why it had come out of her mouth as *maybe.*
 
