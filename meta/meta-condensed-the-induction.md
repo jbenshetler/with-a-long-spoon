@@ -9,6 +9,8 @@ The burgundy induction dress — made by Pace for exactly this (named on the hik
 ### Beat one — arrival, the managed secret
 Cassie walks her to the doors (as Vee's person, not an inductee), takes Vee's phone to hold, gives her the withheld-Cassie blessing ("You look—" unfinished, "a standing ovation"). Establish: the dress; bare underneath by necessity; the small choreography of keeping the slit shut; the dear four-inch dark heels Randi found (Vee's own, from {{Sorority}}); nails a frosted plum that echoes the silk. Every piece of her picked to go with a dress a man made — both orchestrators on her body, neither in the room.
 
+Randi's absence, told in recall on the heels line (author addition 2026-11-08): Vee asked her to come a week or so back, walking out of stats; an officers' meeting at the house that afternoon she couldn't get out of — the meeting kept vague, not her Thursday Standards board — and she would have given anything. Spoken, not texted; her one quoted line is *"You're going to stop their hearts, gorgeous."* No reply from Vee.
+
 ### Beat two — Pace absent, and why it lands
 Pace is away at a mathematics workshop in Berkeley (distinct from {{Famished}}'s Chicago conference and the Boston seminar that opens {{School Nights}}), quietly and un-performatively sorry — he made the dress for exactly this and will miss the one wearing it was built for. Vee does NOT diminish the dress (it is the most anyone has ever made for her); she reaches for "only a ceremony" and it rings hollow, because she talked it up with him on the mountain. Harm-one: the fine man wouldn't make the dress; Pace made it and ached to see it.
 
