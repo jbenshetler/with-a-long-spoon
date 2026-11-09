@@ -25,10 +25,10 @@ bright coin she has never once spent on him in this kitchen, and the food has be
 than this. He tears the end off the loaf onto her plate. She does not touch it. She eats
 the salad, leaf by leaf, and **the stew never moves.**
 
-*"How was this morning?"* / *"Good."* — and the rim of the glass goes in under her
-thumbnail and presses. *"She's happy. She told me about Friday."* It comes up in his face
-before he can do anything about it and he does not try; he is glad all the way down.
-**Randi watches him be glad.**
+*"How was this morning?"* / *"Good. She's happy."* / *"She told me about Friday."* It
+comes up in his face before he can do anything about it and he does not try; he is glad
+all the way down. **Randi watches him be glad** — and the rim of her glass goes in under
+her thumbnail and holds there until she sets the glass down (the press, in reaction).
 
 **The turn.** *"How long, Pace?" … "How long are you going to take?"* / *"As long as she
 needs. She's not ready."* / *"She's not ready."* — flat, with nothing on it, a register he

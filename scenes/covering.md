@@ -60,7 +60,7 @@ Vee didn't linger on the fight or the month of silence — Randi had had all fiv
 
 Saying it lit her face from underneath; she felt the heat arrive and kept going anyway. "And then he came around the counter and got down on one knee, next to my chair, while my mouth was still full, and said he'd missed me. And his voice—" She stopped and had some ice water. "His voice didn't make it all the way through the sentence."
 
-"Midnight pancakes," Randi said, soft, a hand coming to her heart, and she meant it. "I'm so happy for you, girl." She was smiling at Vee over the top of her wine glass, and the fingers of her other hand had come to rest on the band at her wrist.
+Randi's finger had come up crooked to her mouth, the knuckle caught between her teeth. She took it down. "Midnight pancakes," she said, soft, a hand coming to her heart, and she meant it. "I'm so happy for you, girl." She was smiling at Vee over the top of her wine glass.
 
 "On his knee," she said. "On the floor."
 
@@ -118,7 +118,7 @@ The loft went on being warm around them, plates somewhere below, the accordion f
 
 "Nothing." One word, flat as a dropped card.
 
-"And he sat there," Randi said. "Through the whole rest of dinner. This boy who'd gone down on one knee in the grass — he sat across from my mother and he barely ate. Pushed things around. Answered when spoken to." She turned her glass by the stem, once. "He quit that week. Found other lawns, I suppose. I never saw him again."
+"And he sat there," Randi said. "Through the whole rest of dinner. This boy who'd gone down on one knee in the grass — he sat across from my mother and he barely ate. Pushed things around. Answered when spoken to. He quit that week. Found other lawns, I suppose. I never saw him again."
 
 The server appeared at the top of the loft stairs and asked about dessert. "We're going to need a while," Randi said, and smiled him back down — and by the time she turned around the memory was gone and something warmer had come up in its place, aimed at Vee.
 

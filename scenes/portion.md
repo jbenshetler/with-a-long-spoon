@@ -24,7 +24,7 @@ He heard it and did not know where to put it. She did not say things like that t
 
 "How was this morning?"
 
-"Good." She set the rim of the glass in under her thumbnail and pressed. "She's happy."
+"Good," she said. "She's happy."
 
 He waited. He did not ask what Vee had said. That was Vee's.
 
@@ -32,7 +32,7 @@ He waited. He did not ask what Vee had said. That was Vee's.
 
 It went through him and came up in his face before he could do anything about it, and he did not try. Friday, and her driving home Saturday with no bag, and by Sunday morning happy enough to sit across from her friend and tell it. He could see it. He was glad all the way down.
 
-Randi watched him be glad. She did not say anything else about it. She took a fork to the salad and ate a leaf of it, and then another, and the bowl in front of her did not move.
+Randi watched him be glad. She had the rim of her glass in under her thumbnail, pressing, and she held it there until she set the glass down. She did not say anything else about it. She took a fork to the salad and ate a leaf of it, and then another, and the bowl in front of her did not move.
 
 He ate. The stew was good. He watched her fork go to the salad and come back and go to the salad, and her bowl sat where he had put it with the one line drawn through the top of the sauce, and he left it.
 

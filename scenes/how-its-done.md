@@ -339,7 +339,7 @@ It was gentle. It was kind. It was a door closing softly.
 
 And the laugh did not come. Here, where the laugh had always come up between them and joined them, there was instead a clean silence, and her secret was still half out of her with nowhere to go.
 
-Randi sat back. She let out a long breath, the air going out of the closeness all at once, and reached up and tucked a strand of the dark hair back where it lived, and when she spoke again her voice was a different voice — easy, ordinary, daylight. The hush was simply over.
+Randi sat back. She let out a long breath, the air going out of the closeness all at once, and the side of her bent forefinger went to her teeth and she bit down on the knuckle, briefly, and took it away, and when she spoke again her voice was a different voice — easy, ordinary, daylight. The hush was simply over.
 
 "Big day," she said, and smiled, and looked around for the check.
 

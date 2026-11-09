@@ -19,8 +19,8 @@ the throat *"like she was hiding a body under it."* — *"I saw her from the top
 stairs and that was the whole story. Oh, honey. Come up."* Vee was a wreck. She cried.
 Randi dressed her out of her own wardrobe and loaned her the shoes, and sent her back
 toward Pace with counsel. *"That's what a blonde is for."* / *"She knew she'd been wrong
-by the time she got to me. She knew it before she sat down."* — and then the glass comes
-down against her knee and she works the rim in under her thumbnail: ***"The heart on her,
+by the time she got to me. She knew it before she sat down."* — and her free hand goes up
+and eases the scrunchie an inch down her ponytail (the hair tell): ***"The heart on her,
 Pace. She doesn't do anything halfway. Not even being sorry."***
 
 **Pace's side is emotion, not speech.** It lands on him when he hears Vee cried — Vee in

@@ -92,7 +92,7 @@ Randi's lips parted. "Vee."
 
 "Right across his cheek."
 
-Randi's thumbnail had gone into the pad of her middle finger, pressed white, and she was smiling at Vee as if there were nobody else in the room. "And then?"
+Randi was rolling the end of her ponytail between her fingers, and she was smiling at Vee as if there were nobody else in the room. "And then?"
 
 Vee looked down at her mimosa.
 

@@ -134,6 +134,20 @@ dropped because it and the new last line both state persistence.
 warmed, a little, that Randi had been thinking about her."* Twelve chapters on, the same
 fact from the other side, filed by Vee as friendship.
 
+## Tell regrade — 2026-11-09 (author ruling)
+
+- **`:53`, the nail-press → the hair touch.** Was: *"The glass came down against her
+  knee, and she worked the rim in under her thumbnail until it bit."* Now: *"Her free
+  hand went up and eased the scrunchie an inch down her ponytail."* **Readers praised the
+  press line** — three capture readers caught it and read it as intended (e.g.
+  `reviews/capture-panel/claude-fable-5-1/dag/romance-graduate/read-merged-space-ch026.md`:
+  *"She's still bleeding, though. The rim under the thumbnail 'until it bit'"*). Changed
+  anyway: **the tell was inconsistent with Randi's emotional state.** The press is
+  reserved for the most serious emotional challenges and fires in reaction; here she
+  arrived pleased, is mending the rift with confidence, and is excited to tell Pace about
+  Vee's submissiveness — no fear of losing Pace is on the page. Do not restore the press
+  on the strength of that praise. Rules: `meta-craft-randi.md`, Randi's Tells.
+
 ## Left standing — do not re-litigate
 
 - **"The tit goddess was generous with that girl."** Two readers, the only

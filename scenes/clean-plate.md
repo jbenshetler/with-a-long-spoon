@@ -216,7 +216,7 @@ Randi was very still, arms folded, all her lights aimed.
 
 "Here first." She touched the inside of her wrist, the white part, where the veins run. "And he crossed the room and put his mouth on the inside of my wrist and *stayed there.* Randi, who stays? Everything I know about men says the wrist is a toll booth — you pay it and drive on. He parked."
 
-Randi didn't say anything. Her fingernail found the rim of her glass and rode it once, slow, the thin edge singing almost too low to hear, and she drew her hand back into her lap.
+Randi didn't say anything. She drew her ponytail forward over her shoulder and wound the end of it slowly around two fingers, and let it go.
 
 "And then his mouth just — traveled. Up the arm. Places nobody kisses, the crook of the elbow, higher — I pointed once more, at my breast, and even then he made me feel it coming from about a mile out — and after that I stopped pointing, mostly. It stopped being a thing I was directing and started being a thing I was surviving. He went down the wrong side of everything on purpose. I aimed him one place and he'd detour — the hip, the leg, the backs of my knees.
 

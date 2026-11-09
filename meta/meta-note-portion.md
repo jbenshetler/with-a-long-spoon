@@ -30,7 +30,7 @@ Pace is taking and how long he intends to take.
   compliment is the warning, and he cannot place it. Keep his inability to place it.
 - **The nail-press is on the page here** and is one of the gesture's canonical visible
   instances — Vee cherished by Pace. It fires **in reaction** (author ruling 2026-11-09):
-  moving from `:27`, on her own *"She's happy,"* to `:35`, *"Randi watched him be glad."*
+  moved from `:27`, on her own *"She's happy,"* to `:35`, *"Randi watched him be glad."*
   See `meta-craft-randi.md`, The Cup; do not convert it to a turn.
 - **His one flash is exact, not loud.** *"How do I get her from where she is to us, on your
   schedule?"* The stress-tell is precision, never volume (`meta-arch-bible.md`, Pace). He

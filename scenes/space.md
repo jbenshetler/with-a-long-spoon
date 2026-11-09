@@ -50,7 +50,7 @@ He was relieved there had been somewhere for her to go, and that it was here, in
 
 "We'd had a lovely night to that point. She danced. She was good — she was good by the second song, and she knew she was, and she was lit with it." He turned his hands over. "When I went for drinks, everything was great. By the time I came back, everything was wrong."
 
-"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." The glass came down against her knee, and she worked the rim in under her thumbnail until it bit. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."
+"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." Her free hand went up and eased the scrunchie an inch down her ponytail. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."
 
 He looked at the table for a moment, because he had to. When he looked up she was watching him with the glass stopped halfway.
 
