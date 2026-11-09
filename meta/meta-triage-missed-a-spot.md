@@ -114,6 +114,31 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 - **Over-long paragraphs** (200–284 words) → 15 paragraph breaks at natural pivots, no
   wording changes.
 
+## Tightening the kiss path — 2026-11-09 (author ruling; reverses the gladiator concession)
+
+Author reopened two items under *Left standing*: the gladiator, and the repetition in
+the kiss path. The repetition weakens the passage and bores, though the 15 capture gates
+(romance-graduate dag-v3 ×6; dag for fable, muse-wonder and fsog ×7) and the gpt-5.6-sol
+cold read raised **no** complaint about its length or repetition (12 praised it; the two
+skims were the breakfast). Kept: he never goes straight to what she wants (the mons
+swerve, the descent to her feet, *Bad slave*, the deferrals after), the toe ceremony,
+*Bad slave*, and the tiling-as-answer at `:157`.
+
+- `:127` **gladiator cut** — *"A gladiator, once. Her beauty had turned him."* The one
+  image outside the princess/slave frame, and the riff's overextension (fable rg
+  almost-stopped there; opus v3, "milked"). Readers who liked a gladiator liked an
+  *obedient* one, which "pleasure slave" still carries. Supersedes the 2026-08-20
+  concession above.
+- **"tile" ×4 → ×2:** cut `:129` *"each kiss set like a tile"* and `:173` *"where he had
+  tiled it"*; kept the coinage (`:139`) and the answer to *Bad slave* (`:157`).
+- **"skipped" ×3 → ×1:** kept `:127`; cut `:157` *"no skin skipped"* and `:159` *"nothing
+  hurried, nothing skipped"*.
+- `:151` the return trip no longer re-echoes the descent (*"the waves took up again…"*,
+  *"a little of one leg, a little of the other"* — kept once, at `:147`); *"up the insides
+  of her calves"* keeps both legs.
+- `:157` *"a soft country like her belly, like the hollow of her arm, each kiss laid
+  against the last"* cut — the figure explaining itself.
+
 ## Left standing — do not re-litigate
 
 - **The fruit/food paragraph length.** Fable alone called the food writing long-adjacent

@@ -140,7 +140,7 @@ Randi let a breath go that wasn't quite steady.
 
 The food came up the stair then, two plates of the special, whatever it turned out to be — short rib braised dark over soft polenta, roasted fennel at the side — and Vee, who'd swum a mile and gone cold through and eaten nothing since noon, fell on it and ate like she meant it. It was good; she said so, once, and let it go. A student place's braise, hot and gone. Her whole mind was still up the county road. Randi ate the fennel and an even half of the meat, in small, neat bites, and set her fork face down. The polenta she never touched.
 
-Randi turned her glass by the stem, slow. "And you still owe me Tuesday." The bawdy note came into it, low and warm. "You left me with your foot up on the man's chair and the toast on fire, and they turned the lights out on me. I need to know what the pleasure princess did with her slave. Court's back in session."
+Randi turned her glass by the stem, slow. "And you still owe me Tuesday." The bawdy note came into it, low and warm. "You left me with your foot up on the man's chair and the toast on fire, and they turned the lights out on me. I need to know what the pleasure princess did with her slave."
 
 Vee laughed, and it had all her appetite in it. "Where was I—"
 
@@ -212,7 +212,7 @@ Randi was very still, arms folded, all her lights aimed.
 
 "Quickest I've ever seen a man get out of an apron. It went over his head in one move like a bird leaving." The loft's lamplight had her flushed now, or the wine did, or the story did, all three drawing on the same account. "And then I pointed at what I wanted."
 
-"Pointed." The bawdy had gone out of Randi's voice. She'd set the court down and gone still, watching Vee's face, and she didn't say anything else.
+"Pointed." The bawdy had gone out of Randi's voice. She'd gone still, watching Vee's face, and she didn't say anything else.
 
 "Here first." She touched the inside of her wrist, the white part, where the veins run. "And he crossed the room and put his mouth on the inside of my wrist and *stayed there.* Randi, who stays? Everything I know about men says the wrist is a toll booth — you pay it and drive on. He parked."
 
@@ -224,7 +224,7 @@ Randi didn't say anything. She drew her ponytail forward over her shoulder and w
 
 "Reprint it."
 
-"A trill. Like a phone from the nineties." She had both hands around her glass and wasn't drinking from it. "And by the time his mouth actually arrived anywhere, I'd been arriving for half an hour. And he — you remember the oranges. The blood oranges, the peel off in strips, every section lifted out of its skin, no white left anywhere, all that patience just to get at the — that's what he did. That's what it was like. He opened me like the orange."
+"A trill. Like a phone from the nineties." She had both hands around her glass and wasn't drinking from it. "And by the time his mouth actually arrived anywhere, I'd been arriving for half an hour. And he — you remember the oranges. All that patience just to get at the — that's what he did. He opened me like the orange."
 
 She heard herself land it — *like the orange* — and her body was way out ahead of her: pulse up in her throat, the flush gone down past her collar, everything in her pulled tight and humming, and she was holding her face still over the top of it.
 
@@ -322,7 +322,7 @@ Up close it was all small things: Randi's breath uneven, close over her ear; the
 
 The walk back was six minutes with the wind coming at her this time, so she put her chin into her collar and leaned on it.
 
-The evening rode along inside her coat where the cold couldn't get at it — the comb, the verdict, *you picked well*, the court and its whole warm session — and with it, keeping pace, having apparently walked out of the restaurant with her, came one sentence in her own voice, arriving again at its own intervals, like a song that gets in.
+The evening rode along inside her coat where the cold couldn't get at it — the comb, the verdict, *you picked well* — and with it, keeping pace, having apparently walked out of the restaurant with her, came one sentence in her own voice, arriving again at its own intervals, like a song that gets in.
 
 *He likes it. Actually — he's enthusiastic.*
 
