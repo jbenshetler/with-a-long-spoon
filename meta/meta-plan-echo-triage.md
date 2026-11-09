@@ -45,9 +45,9 @@ context.
 ## Ruled
 
 - **The glass fidget is Randi's alone** (author rulings 2026-10-03/04). Two distinct
-  gestures: the **nail-press** (jealousy or insecurity, particularly about Vee enjoying
-  being truly seen) and **turning the glass** (the separate, lesser charge — e.g.
-  arousal). Never Vee's, never Pace's. Full contract and instance ledger in
+  gestures: the **nail-press** (the ceiling: pain she controls when the toll is too high
+  — Vee truly seen by Pace and thriving, real love from Pace; refined 2026-11-09) and
+  **turning the glass** (the separate, lesser charge — arousal she is running). Never Vee's, never Pace's. Full contract and instance ledger in
   `meta-craft-randi.md`, The Cup. Vee's tells moved into her own body:
   `meta-craft-vivienne.md`, Behavioral Signatures.
 - **`space.md:61` / `tannin.md:55` — accidental** (author ruling 2026-10-03). Six shared

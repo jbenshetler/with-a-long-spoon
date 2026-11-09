@@ -28,10 +28,10 @@ Pace is taking and how long he intends to take.
   is not for him. Never explain it.
 - **"It's wonderful"** is the bright coin she spends on everyone except him — the
   compliment is the warning, and he cannot place it. Keep his inability to place it.
-- **The nail-press is on the page here** (`:27`, the rim in under her thumbnail at
-  *"She's happy"*) and is one of the gesture's canonical visible instances — jealousy and
-  insecurity about Vee being cherished. See `meta-craft-randi.md`, The Cup; do not convert
-  it to a turn.
+- **The nail-press is on the page here** and is one of the gesture's canonical visible
+  instances — Vee cherished by Pace. It fires **in reaction** (author ruling 2026-11-09):
+  moving from `:27`, on her own *"She's happy,"* to `:35`, *"Randi watched him be glad."*
+  See `meta-craft-randi.md`, The Cup; do not convert it to a turn.
 - **His one flash is exact, not loud.** *"How do I get her from where she is to us, on your
   schedule?"* The stress-tell is precision, never volume (`meta-arch-bible.md`, Pace). He
   does not raise his voice and does not take it back.

@@ -700,3 +700,7 @@ Vee lies to herself and to Pace about wanting Randi before she says it to him. T
 ## 51. Rectify hair lengths — Randi's hair longer than Vee's (TODO — 2026-10-24)
 
 Author ruling: Randi's hair is longer than Vee's, because Vee's curl makes hers functionally shorter. {{Gone}} now gives Randi's as falling "to the tops of her shoulder blades" (`gone.md:96`), while {{The Pointing Game}} gives Vee's as "loose to the shoulder blades" (`the-pointing-game.md:137`) — on the page these read as the same length or Vee's longer. Sweep every hair-length statement for both women across `scenes/` and `meta-craft-vivienne.md` / `meta-craft-randi.md`, and reconcile so Randi's reads longer.
+
+## 52. Reconsider the court metaphor in {{A Clean Plate}} (TODO — 2026-11-09)
+
+After the Randi tell revision lands, revisit Randi's *"Court's back in session"* (`clean-plate.md:143`) and the court figure around it. Deferred by the author until the tells are settled.

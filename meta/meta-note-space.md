@@ -28,11 +28,14 @@ Randi gives everything, including the morning, and laundered counsel on top.
   *"I saw her from the top of the stairs"* (the latter re-acked 2026-10-04 after the
   glass-tell pass changed the following line and re-armed the fingerprint). Both are
   author-signed; a re-flag after an edit is correct, not a regression.
-- **The glass tell, as revised 2026-10-03/04** (`meta-craft-randi.md`, The Cup): the turn
-  that used to sit at `:39` is **cut** — it fired on nothing and was the second gesture in
-  one short scene — and `:53` is now the **nail-press**, the glass brought down against her
-  knee and the rim worked in under her thumbnail on *"The heart on her, Pace."* Jealousy at
-  Vee being cherished. Do not restore the turn and do not convert the press.
+- **The tells, as revised 2026-11-09** (`meta-craft-randi.md`, Randi's Tells): the turn
+  that used to sit at `:39` stays **cut** (2026-10-03/04 — it fired on nothing). `:53` is
+  the **hair touch**, no longer the nail-press: no fear of losing Pace is on the page —
+  she arrived pleased and is mending the rift with confidence — and she is excited to
+  tell him about Vee's submissiveness, which the bedroom pays off (`:81`, `:93`). Pace
+  reads the signal as for him. Not the press, and not the band (that is `:65`'s,
+  submission at the table). Never worded like {{The Practice Room}}'s ponytail stroke, two
+  chapters on.
 - **The close was recast off {{Tannin}}** (author ruling 2026-10-03, accidental repeat):
   the finish-the-glass / take-his-face / kiss-with-the-wine / hold-out-her-hand sequence
   belongs to {{Tannin}} alone. `:61` is now the glass set down half full and her hand along
