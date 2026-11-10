@@ -44,7 +44,7 @@ She was already moving. He steered her with one hand at her hip through the livi
 
 The apron strap slipped from her hand and the apron landed on the floor behind them.
 
-She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the chest and the deep shoulders, the thickness carried up into his neck, the mass a man builds moving weight; and under it the arms were a different strength, the woodworker's, corded down the forearm, made by tools and not for show. She put her palm flat against his chest, solid under her hand, and felt his heart.
+She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the chest and the deep shoulders, the thickness carried up into his neck, the mass a man builds moving weight; and under it the arms were a different strength, the woodworker's, corded down the forearm, made by tools and not for show. She put her palm flat against his chest, smooth and solid under her hand, and felt his heart.
 
 He opened her blouse from the bottom and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
 
@@ -84,7 +84,7 @@ He was so hard. He rocked into her in short pushes, drawing back and returning, 
 
 Then he held there, his kisses stealing the sounds her mouth made without consulting her. He did not move, and she understood he was waiting to be told. What told him was her hips. They had started without her, small greedy movements she had not authorized, and she could no more have called them back than she could have called her body's name.
 
-After that he moved, and he was in no more hurry here than he had been on his knees. Long strokes, the whole length of him drawn back and returned, every return pressed to the end of her, and he did not vary it and did not rush it, and she lost the count of them early. The room went. There was the soft old cotton and his heat and the good crushing weight she had wanted since the mountain, and the sound of the two of them, wet and rhythmic and unashamed of itself, rising into the plain white room.
+After that he moved, and he was in no more hurry here than he had been on his knees. Long strokes, the whole length of him drawn back and returned, every return pressed to the end of her, and he did not vary it and did not rush it, and she lost the count of them early. The room went. There was the soft old cotton and his heat and the good crushing weight she had wanted since the mountain, and the muscle of his back working under her palms with every stroke, shifting under the skin as no boy's she'd been with ever had, and low across his shoulders a band of skin rough as a palm, and the sound of the two of them, wet and rhythmic and unashamed of itself, rising into the plain white room.
 
 And he was looking at her. Not at her body — at her face, from a distance of nothing, watching what each return did to it. There was nowhere to put her face where he would not see. She turned her head once into the pillow and it bought her nothing; he came with her, his mouth at her jaw, and went on watching. She had never had it done to her in the light, with a man's eyes on her the whole way, reading her while it happened, and the shame of that came up underneath the heat and fed it, and she gave up getting away from it.
 
@@ -100,7 +100,7 @@ It was the first time that had been true.
 
 ---
 
-When he stood she saw it on his side too, the same uneven pink from his ribs down over his hip, a match for the one by his ear. He pulled on jeans and a white t-shirt. She was leaking, her thighs slick with it, so she left her clothes where they'd fallen and wound the top sheet around herself instead, and followed him to the kitchen.
+When he stood she saw it on his side too, the same uneven pink from his ribs down over his hip, a match for the one by his ear. Bare, with his back half to her, he was broader than his clothes had ever let on, the slope of his shoulders built up thick and the back spreading wide beneath it before it came in at the waist; and under that the hard round of his ass, and thighs so thick she stared. The hair on his legs was so light it showed only where the light from the hall caught it. He pulled on jeans and a white t-shirt. She was leaking, her thighs slick with it, so she left her clothes where they'd fallen and wound the top sheet around herself instead, and followed him to the kitchen.
 
 He built the fra diavolo from where he'd stopped — the oil, the onion going soft, the garlic and pepper blooming, the tomatoes going in — and she sat at the table with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
 
