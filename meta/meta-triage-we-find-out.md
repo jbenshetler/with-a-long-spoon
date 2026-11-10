@@ -519,3 +519,5 @@ re-mint ck-030/ck-040 — which now contain the edited ch22/ch30 — and re-read
 downstream, catching any interaction. Tracked with the professor Phase-2.
 
 **Day named in the prose (author ruling 2026-10-25).** `we-find-out.md:137`: "She woke ravenous" → "Saturday she woke ravenous". The Saturday section line stays shown as well: readers in both arms of the dated-heading test misplaced this scene's day. Rule: a section date line shows only where the prose does not land the day itself (`chapter_dates.py` `(quiet)`).
+
+**Bag promise scoped to the next visit (author ruling 2026-11-09).** `we-find-out.md:139`: *"I'm going to start bringing a bag,"* → *"I'm going to start bringing a bag next time I come over,"*. A capture reader of {{Made-Up}} (`reviews/capture-panel/claude-fable-5-1/dag/romance-graduate/gate-ch030.md:5`) read Saturday evening's "no overnight bag" as the promise broken, not knowing it was the same stay. The narrow fix lives here; {{Made-Up}}'s bag line (`made-up.md:15`) stands verbatim (reader-praised). Broader {{Made-Up}}-side anchors (his shirt + yesterday's skirt at `:9`; "the one night had run to two" at `:15`) were offered and not taken.

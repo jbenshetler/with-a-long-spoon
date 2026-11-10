@@ -100,3 +100,11 @@ or a genuinely new failure mode).
 | `:45` | *"His eyes went down her"* → *"His eyes took her in"* | identical four-word viewing-stem shared with `:69` (echo-ruling #37: a designed return wants a different rendering); `:69` is the reader-praised keeper (editor #11) |
 | `:57` | *"before he could raise an objection"* → *"before he could say a word"* | legalistic idiom in a plain-Anglo paragraph of physical speed (editor #13) |
 | `:77` | cut *"He hadn't stopped looking."* + merged Pace's dialogue | third *"look"* in three consecutive paragraphs; `:69` protected, `:79` closing keeper; `:79`'s "let him look" recovers the still-gazing one line later (editor #17) |
+
+## Applied — same-weekend / no-bag clarity (author ruling 2026-11-09)
+
+| line | change | why |
+|---|---|---|
+| `:33` | *"She brought the bag in against her body like something sleeping."* → *"She brought her backpack in over one shoulder and the bag against her body like something sleeping."* | the backpack (`:39`) was never carried in from the car; backpack placed early so the sentence keeps its closing image |
+
+The "why no bag" confusion was fixed upstream, in {{We Find Out}} (`we-find-out.md:139`, the bag promise now *"next time I come over"*; see `meta-triage-we-find-out.md`). `:15` "She'd brought no overnight bag … and she'd brought the dress" stands verbatim (reader-praised, 17 review hits).
