@@ -82,7 +82,9 @@ Then Randi sat back, and drew a breath, and the beam came up full again, and she
 
 "These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then later it's *Fleetwood Mac*, or some Garth Brooks song I grew up on, and it's never wrong — like the house knows what the evening is before I do." She smiled. "It's going when I walk in. Every time. I've never once heard it start."
 
-"Of course he does," Randi said, and shook her head.
+"Really?" Randi's brows went up a fraction and came down. "Not what I imagined from the man you described. You like it?"
+
+"I *love* it."
 
 "And when I'm there, I don't compete with anything, is the thing," she said. "There's a TV in his den I've genuinely never seen on — I don't know if it works. He doesn't text, he doesn't scroll. The phone's for the music, and—" and there she caught herself, a half-beat late, the heat climbing.
 

@@ -129,6 +129,14 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   walk in. Every time. I've never once heard it start.") — verified against
   `meta-note-music-thread.md` ("he does not put a record on for a guest") and
   every drafted arrival scene; the old line was the only thing out of step.
+- **Randi's music beat spoken, lightly pointed** (author ruling 2026-11-09) —
+  "Of course he does" → "Really?" Randi's brows went up a fraction and came
+  down. "Not what I imagined from the man you described. You like it?" / "I
+  *love* it." The wordless flicker in `meta-note-music-thread.md` would go
+  unread: the expected reader will not line up Randi's lane against Vee's on
+  their own. "Not what I imagined" is the ruled amount of pointing; "from the
+  man you described" is Randi's first-read alibi (and her reread cover). Vee
+  intensifies her own liking; Randi does not supply it.
 
 - **"He doesn't even *have* a life outside it"** (author-initiated; 5.6-sol had
   flagged the line as "tragically false — he has Randi") — mischaracterized Pace
