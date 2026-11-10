@@ -184,7 +184,7 @@ Then she looked down at the flannel in her lap.
 
 His shirt, and then the truck. Both.
 
-She sat with the flannel in her lap. The cab was cold. The engine ran and the heat hadn't come yet and her wet shirt clung to her ribs and her shoulders and over her breasts where the bra was soaked through, and her breath kept catching, and her body kept shuddering small. The rain on the roof. The fan under it. His back through the glass.
+She sat with the flannel in her lap. The cab was cold. The engine ran and the heat hadn't come yet and her wet shirt clung to her ribs and her shoulders and over her breasts where the bra was soaked through, and her breath kept catching, and her body kept shuddering small. The rain on the roof. The engine under it. His back through the glass.
 
 *I want him in here with me.*
 
