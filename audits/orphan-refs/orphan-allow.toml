@@ -1,0 +1,14 @@
+# orphan-allow.toml — acknowledged orphan-refs hits (reviewed and accepted).
+# Each [[ok]] suppresses one (chapter, term, line) by content fingerprint:
+# stable across line shifts; editing the line re-arms it. `cut_by` (the commit
+# that orphaned the term) is context only — NOT part of the fingerprint.
+# Written by `orphan_refs.py --ack`; view hidden hits with `--show-suppressed`.
+# Entries for findings not currently flagged are KEPT on purpose; only --prune-allow removes them.
+
+[[ok]]
+fp     = "9d7f3abcfbfa"
+slug   = "may-i-choose"
+term   = "he'd already"
+text   = "\"But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.\""
+cut_by = "a79bb2d7"
+note   = "ordinary 'already'; antecedent is :123 (he started them back along the path); cut text was the unrelated text-message sentence"
