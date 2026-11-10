@@ -124,7 +124,7 @@ They ate. The talk went easy and elsewhere for a while, the pressure bleeding of
 
 "God, no. It's sitting there judging me."
 
-"They just opened a night section of Anthro. The Dr. Marsh one — her eight a.m. fills up, that's how bad people want her. Sign up with me?" She heard how much she wanted it and didn't mind. "Tuesday and Thursday nights, seven to eight-twenty. It'd be like stats, except we'd have picked it."
+"They just opened a night section of Anthro for spring. The Dr. Marsh one — her eight a.m. fills up, that's how bad people want her. Sign up with me?" She heard how much she wanted it and didn't mind. "Tuesday and Thursday nights, seven to eight-twenty. It'd be like stats, except we'd have picked it."
 
 "Done," Randi said, immediately, like it cost nothing. "Obviously." Then: "Is Cassie in?"
 

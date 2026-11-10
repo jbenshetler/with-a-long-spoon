@@ -42,7 +42,7 @@ The aggregate said what Cassie had said it would say. The money went up; the job
 
 "The country isn't my county," Randi said.
 
-Because that was the last of it before the write-up — the professor's *few samples,* the thing that made the project theirs. They plotted the counties they were from. Cassie's, a flat rural nowhere, sat on the line. Vee's sat on the line. And then Randi pulled up the companies in her own county and leaned in, driving now, because this was the one she'd been aiming the whole picture at — home, the bright counterexample that was going to complicate Cassie's clean sad story with something real.
+Because that was the last of it before the write-up and the final — the professor's *few samples,* the thing that made the project theirs. They plotted the counties they were from. Cassie's, a flat rural nowhere, sat on the line. Vee's sat on the line. And then Randi pulled up the companies in her own county and leaned in, driving now, because this was the one she'd been aiming the whole picture at — home, the bright counterexample that was going to complicate Cassie's clean sad story with something real.
 
 Her county had a point off on its own.
 
