@@ -32,7 +32,7 @@ He shut the tap off and dried his hands and gave her his whole attention, like a
 
 She had to slide into his boots to go out, too large by half, and stood there for a second feeling like a child playing dress-up in a parent's closet. The cold outside was clean and enormous, the sky rinsed black over the field, and she clomped to the car, loud in all that quiet. She brought the bag in against her body like something sleeping.
 
-He was in the recliner when she came in, his wine within reach, the kitchen dark behind him, the lamp throwing its circle and leaving the book wall in shadow, something low on the speakers now, guitars under a woman's voice. He didn't ask, and she loved that he didn't pry — she carried the bag past him down the hall to the bathroom, and behind her he reached over and turned the lamp by its little switch, one click brighter.
+He was in the recliner when she came in, his wine within reach, the kitchen dark behind him, the lamp throwing its circle and leaving the book wall in shadow, something low on the speakers now, guitars under a woman's voice — Bonnie Raitt, "Thing Called Love." He didn't ask, and she loved that he didn't pry — she carried the bag past him down the hall to the bathroom, and behind her he reached over and turned the lamp by its little switch, one click brighter.
 
 "Take your time," he called, once, through the house. Then nothing. No footsteps in the hall, no voice at the door. The house went back to the music and let her alone with the mirror and the hook on the back of the door and the zipper's long tearing whisper.
 

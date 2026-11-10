@@ -125,8 +125,24 @@ Randi present but runs **Pace's** lane, because the evening is his.
   reread charge is the point: a song about a man who cannot stay, playing in the house of a
   man running two women, on the night the first of them gives herself to him. Narration
   never glosses the lyric and never quotes it.
-- **{{Made-Up}}** (`made-up.md`, drafted) → **unspecified**: *"For a moment the music was
-  the only voice in the house."* A Vee-at-house slot standing open.
+- **{{Made-Up}}** (`made-up.md`, drafted) → **Bonnie Raitt, "Thing Called Love"** (author
+  ruling 2026-11-09): *"guitars under a woman's voice — Bonnie Raitt, 'Thing Called
+  Love.'"* The song, not the album: Vee hears it in passing, and a listener knows a song by
+  ear. A woman easy in her own wanting, the night Vee chooses to be nude for him.
+- **{{Two Towels}}** (`two-towels.md`, drafted) → **piano, unnamed, barely reaching her**
+  (author ruling 2026-11-09), placed at her first step inside: *"Somewhere at the back of
+  the house a piano was going, so low it came to her a note at a time."* Barely arriving
+  to her ear as she is barely arrived. Set before the heat line, not among "the small
+  mysteries of him," so it never reads as arranged for her. Mirrors {{The Bench}}.
+- **{{School Nights}}** (`school-nights.md`, drafted) → **early Garth rolling into piano**
+  (author ruling 2026-11-09), during the dinner talk: *"Early Garth was going in the front
+  room, and somewhere in the talk it rolled over into piano, slow, without her catching the
+  change."* Garth's first on-page instance; the roll shown from Vee's side. The piano is
+  one of her composers, unnamed.
+- **{{Above Him}}** (`above-him.md`, drafted) → **Norah Jones** (author ruling 2026-11-09),
+  low in the front room while the sauce cooks down: piano-and-voice, so it seeds
+  {{All the Time}}'s "when he's cooking it's piano" one chapter ahead. Her own records
+  only; a standard would drift toward Pace's Songbook.
 - **{{Believe Me}}** (`believe-me.md`, drafted) → **Vee's Impressionist piano, unnamed**:
   *"Under it, music, piano, quiet, something slow that moved like water, the kind he
   played."* Already going before she arrives.
@@ -165,11 +181,12 @@ Her register is something she brought, not something absorbed from his collectio
 
 - **Vee's lane was never thin — it started late.** A first harvest reported one in-house
   instance and was wrong; the regex lacked bare `music` and `Stevie Nicks`. The lane holds
-  {{Made-Up}}, {{Believe Me}}, {{Missed a Spot}} and {{Scalding Jealousy Ignition}}. The
+  {{Made-Up}}, {{Believe Me}}, {{Missed a Spot}} and {{Scalding Jealousy Ignition}} (and,
+  since 2026-11-09, {{Two Towels}}, {{School Nights}} and {{Above Him}}). The
   real asymmetry is timing: Randi's register is **named** at chapters 1 and 7, while Vee's
   first music of any kind arrived at chapter 36 and her first named artist at 56.
   {{Famished}} (chapter 20) now fixes the near end. {{Two Towels}} — her first visit, the
-  structural mirror of {{The Bench}} — remains available and unruled.
+  structural mirror of {{The Bench}} — now carries it (2026-11-09).
 - **{{All the Time}} reports a trend, not a rule** (author ruling 2026-10-09). Its account
   of his evenings covers many visits; a single chapter need not match its piano-then-
   Fleetwood-Mac order. {{Famished}} deliberately does not — Vee arrives and they go

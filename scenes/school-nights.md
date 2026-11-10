@@ -14,7 +14,7 @@ They hadn't made the kitchen. They hadn't made the hall. Their coats came off th
 
 He'd cooked after, the way he near always did. Some nights it was a production, four pans going and a smell building she had no names for, and tonight it had been plain: salmon laid in a hot pan and turned once, a sauce gone pale green with dill, a salad with the tomatoes still warm off the sill and a mustard thing he'd whisked up in a glass that she'd wanted to drink straight. A cold white wine he said came from Greece, a little stony.
 
-She'd sat at the little table in one of his shirts, her feet tucked onto the rung of the chair, and talked while he cooked. When he turned to the stove she kept going, with her wine in her hand, and when he turned back he picked her up wherever she'd got to.
+She'd sat at the little table in one of his shirts, her feet tucked onto the rung of the chair, and talked while he cooked. When he turned to the stove she kept going, with her wine in her hand, and when he turned back he picked her up wherever she'd got to. Early Garth was going in the front room, and somewhere in the talk it rolled over into piano, slow, without her catching the change.
 
 "You remember Randi? From the froyo day."
 

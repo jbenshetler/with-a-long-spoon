@@ -80,7 +80,7 @@ He slid an onion in after, and it hissed at him, and he stood over it and moved 
 
 He fed her tastes off the spoon while it went, and blew across every one before he let it near her mouth, as he had since the tomatoes. She took them as they came. He didn't ask how they were. He looked at her face instead, and went back to the pan, and whatever he found there he did something about: a little more of the lemon, a pinch from the dish of salt by the stove.
 
-While the last of it cooked down they didn't talk much. He held her hand on the counter and they drank the wine and let the kitchen fill up with the smell of it, and it was enough to be there, the two of them, saying nothing at all.
+While the last of it cooked down they didn't talk much. Norah Jones was on, low, out in the front room. He held her hand on the counter and they drank the wine and let the kitchen fill up with the smell of it, and it was enough to be there, the two of them, saying nothing at all.
 
 He served it out over the pasta with the lemon sliced to paper and a scatter of capers over the top, and set the plate in front of her, and watched her take the first bite. She shut her eyes and made a helpless sound around it, and when she opened them he was watching her with the exact look he'd described to her in bed, as though she'd just handed him something.
 

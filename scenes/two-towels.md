@@ -20,7 +20,7 @@ And then he was the one who stopped it. He drew back, not far, his breath gone u
 
 "Come in," he invited.
 
-And she went, the want still lit in her with nowhere to put it.
+And she went, the want still lit in her with nowhere to put it. Somewhere at the back of the house a piano was going, so low it came to her a note at a time.
 
 The house was warm. Too warm — a close, even heat with no draft in it, and she almost said something, *did you leave the heat on?* the kind of thing you say, and didn't. She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for.
 
