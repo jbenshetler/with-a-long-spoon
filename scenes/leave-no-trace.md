@@ -26,7 +26,7 @@ The trail eased in, like he'd said. The trees came close on both sides. The worl
 
 Pace went ahead. She followed. He'd said *I'll set a pace, tell me if it's wrong,* and the pace he set was slower than she'd braced for. He walked at the speed of her not knowing how. He didn't make her feel slow.
 
-His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. And Randi's word came up the trail behind her. *Ravish.* Randi at the white table, delighted with it, and the picture she'd hung up for Vee, which Vee had walked home under and had not taken down since: him handing her up over rock to someplace high, the two of them out of breath at the top of it, and him turning, and asking. And then. She watched the muscle work under the blue and put her foot where his had been.
+His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. Lower, where she had no business looking and was looking anyway, every step up pulled his pants tight across the seat of them and the backs of his thighs — heavy through there, heavier than the rest of him let on. And Randi's word came up the trail behind her. *Ravish.* Randi at the white table, delighted with it, and the picture she'd hung up for Vee, which Vee had walked home under and had not taken down since: him handing her up over rock to someplace high, the two of them out of breath at the top of it, and him turning, and asking. And then. She watched the muscle work under the blue and put her foot where his had been.
 
 They talked at first. Small things. The trail, where it went, how long. He'd been here before. He liked it because it didn't take all day and the top was worth it. He didn't sell her the top. He said it was worth it and left her to find out.
 
@@ -78,7 +78,7 @@ His blue shirt was nothing against it. The world swallowed his blue whole. The w
 
 She didn't say *oh.* She didn't say any of the words. There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it. The body came back after the seeing, slow.
 
-A few steps ahead of her he had stopped. When she looked over he was already looking at her — not at the valley, at her face in front of the valley — and he didn't look away when she caught him doing it. He let her catch him. Then he turned back to the world and gave her the rest of the looking alone.
+A few steps ahead of her he had stopped. When she looked over he was already looking at her, his brown eyes steady in all that silver light — not at the valley, at her face in front of the valley — and he didn't look away when she caught him doing it. He let her catch him. Then he turned back to the world and gave her the rest of the looking alone.
 
 ---
 
@@ -244,7 +244,7 @@ He nodded. He left his hand against her belly a beat longer than he had to, and 
 
 ---
 
-The drive was mostly quiet. Somewhere in the second mile he reached over and put the fan on, and the air came warm immediately, and her shivering slowed and quit. She sat in his flannel, buttoned to the collar now, her wet jeans heavy on her legs, her own wet shirt balled in her lap, and watched the road come at them through the rain. He drove with both hands on the wheel and his jaw set against his own wet clothes. He didn't turn to her. He didn't need to. The thing that had happened was in the cab with them, holding still in the warm air.
+The drive was mostly quiet. Somewhere in the second mile he reached over and put the fan on, and the air came warm immediately, and her shivering slowed and quit. She sat in his flannel, buttoned to the collar now, her wet jeans heavy on her legs, her own wet shirt balled in her lap, and watched the road come at them through the rain. He drove with both hands on the wheel and his jaw set against his own wet clothes, the afternoon's shadow come in dark along his throat and under his chin, broken by one thin pale line where nothing grew. He didn't turn to her. He didn't need to. The thing that had happened was in the cab with them, holding still in the warm air.
 
 ---
 
