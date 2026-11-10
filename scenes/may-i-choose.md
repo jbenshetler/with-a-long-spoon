@@ -62,9 +62,17 @@ He didn't take it lightly, which she hadn't expected. He looked at the page a mo
 
 She didn't catch the words so much as feel them. They came out of him soft, rounded, opening at the ends as her own flat words never did — little exhalations, more breath than edge, and she understood none of it. *Baba ghanoush.* *Tabbouleh.* They meant nothing to her and so they could mean anything: each soft sound a closed door with something behind it, and she sat there with her mouth watering at promises she couldn't have read aloud, wanting things she had no names for, content for once not to know.
 
-The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from. She asked how he'd ever found the place, and he thought about it before he answered, as if it were a real question. "I was hungry," he said, "and it smelled like this." A pause, and she thought that might be all of it. "Christine fed me twice what I ordered and wouldn't put it on the bill. I've been coming back to get even. I'm losing." Then he wanted to know what she'd have ordered without him, and laughed when she said the hummus, twice, and the talk went along like that while the kitchen worked somewhere behind her — her asking, mostly, and him answering.
+The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from. She asked how he'd ever found the place, and he thought about it before he answered, as if it were a real question. "I was hungry," he said, "and it smelled like this." A pause, and she thought that might be all of it. "Christine fed me twice what I ordered and wouldn't put it on the bill. I've been coming back to get even. I'm losing."
 
-Then it came, more than she'd pictured: the little dishes first, crowding in, the ones whose names she'd heard and couldn't have repeated — real now, set down in front of her, the soft promises turned solid. The bright green one. The smoke-dark one under its dust of spice. And the bread last, blistered and steaming, straight from the oven and set down hot among them. She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for.
+She tipped her head at the menu. "You speak — what is that, Arabic?"
+
+"Hardly. I know *nine* words. Seven are food. The other two are *thank you* and *the check, please*."
+
+She laughed, and her laughing set him off, and for a moment they were both at it.
+
+"Without you," she said, "I'd have ordered hummus — twice!" The talk went along like that while the kitchen worked somewhere behind her — her asking, mostly, and him answering.
+
+Then the food came, more than she'd pictured: the little dishes first, crowding in, the ones whose names she'd heard and couldn't have repeated — real now, set down in front of her, the soft promises turned solid. The bright green one. The smoke-dark one under its dust of spice. And the bread last, blistered and steaming, straight from the oven and set down hot among them. She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for.
 
 She was hungry, but she didn't reach yet. Her eyes went to his hands first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamplight and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it as he had. Brought it up not quite knowing what she'd find.
 
