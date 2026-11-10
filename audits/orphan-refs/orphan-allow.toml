@@ -12,3 +12,19 @@ term   = "he'd already"
 text   = "\"But,\" she said, and let the thread go, and closed the distance he'd already given up, \"I'm making an exception.\""
 cut_by = "a79bb2d7"
 note   = "ordinary 'already'; antecedent is :123 (he started them back along the path); cut text was the unrelated text-message sentence"
+
+[[ok]]
+fp     = "b976d588e159"
+slug   = "two-towels"
+term   = "brick red"
+text   = "For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—* she'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and in a framed mirror on the wall she caught the two of them together — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for."
+cut_by = "7f94afe2"
+note   = "Not orphaned (author ruling 2026-11-09): :109 obliquely recalls the magazine spread where she saw the dress, set up at leave-no-trace.md:127 ('In a magazine… like the red of a brick'); 7f94afe2 cut only the in-chapter recap."
+
+[[ok]]
+fp     = "f6394925bd3f"
+slug   = "two-towels"
+term   = "magazine that"
+text   = "For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—* she'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and in a framed mirror on the wall she caught the two of them together — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for."
+cut_by = "7f94afe2"
+note   = "Not orphaned (author ruling 2026-11-09): :109 obliquely recalls the magazine spread where she saw the dress, set up at leave-no-trace.md:127 ('In a magazine… like the red of a brick'); 7f94afe2 cut only the in-chapter recap."
