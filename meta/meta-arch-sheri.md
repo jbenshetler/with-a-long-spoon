@@ -18,7 +18,7 @@ Tiny and slender, ~5'0" — set **deliberately against Pace** (strongly built, a
 
 Small round face, slightly sallow skin, long permed-and-highlighted hair. At the CW bar: **too much makeup, awkwardly applied** — and this is **the third makeup position** in the novel's three-women appearance grammar:
 
-- **Cassie** — doesn't try (no makeup, eschewed not lacked).
+- **Cassie** — doesn't try (no makeup beyond a little blush, eschewed not lacked).
 - **Randi** — labor invisible (the work that doesn't show).
 - **Sheri** — visible effort, imperfect result, **no shame.** She tried, it's a little wrong, she does not care that it's a little wrong.
 

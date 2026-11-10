@@ -201,7 +201,7 @@
 
 **Cassie's look (anti-glamour; never scored, never staged as contrast every time)**
 - [ ] Short, boxy, "unmanaged" — not cute, not a makeover-frump, not a bitter plain friend. She isn't running the femininity game. Body held off fat by sport, not vanity.
-- [ ] Brown hair in a short shag (grown past a cut); no makeup; shorts in warm weather, pants in cold; no skirts. Brown is deliberate — does not twin Randi, does not flatter.
+- [ ] Brown hair in a short shag (grown past a cut); soft face, prominent chin, small mouth; quick busy hands, short nails; no makeup beyond a little blush; shorts in warm weather, pants in cold; no skirts. Brown is deliberate — does not twin Randi, does not flatter.
 - [ ] The un-coded third model vs. Vee (lush/natural) and Randi (sleek/polished). Narrator NEVER verdicts it as more authentic. Contrast to Randi lives in managed-vs-unmanaged and is true without being staged — do not write it every time they share a page.
 - [ ] Plainness is the (unstated) source of her clear sight: no skin in the appearance economy, so she reads Randi for operation instead of being caught in the beam.
 - [ ] Sports: softball (spring) and basketball (winter); any rec team given the chance. Gives her a real calendar — the benign absence that aches later (the friend who'd have kept Vee safe was at a game).
