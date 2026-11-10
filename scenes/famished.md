@@ -100,7 +100,7 @@ It was the first time that had been true.
 
 ---
 
-When he stood she saw it on his side too, the same uneven pink from his ribs down over his hip, a match for the one by his ear. Bare, with his back half to her, he was broader than his clothes had ever let on, the slope of his shoulders built up thick and the back spreading wide beneath it before it came in at the waist; and under that the hard round of his ass, and thighs so thick she stared. The hair on his legs was so light it showed only where the light from the hall caught it. He pulled on jeans and a white t-shirt. She was leaking, her thighs slick with it, so she left her clothes where they'd fallen and wound the top sheet around herself instead, and followed him to the kitchen.
+When he stood she saw it on his side too, the same uneven pink from his ribs down over his hip, a match for the one by his ear. Bare, with his back half to her, he was broader than his clothes had ever let on, the slope of his shoulders built up thick and the back spreading wide beneath it before it came in at the waist; and under that the hard round of his ass, and thighs so thick she stared. He pulled on jeans and a white t-shirt. She was leaking, her thighs slick with it, so she left her clothes where they'd fallen and wound the top sheet around herself instead, and followed him to the kitchen.
 
 He built the fra diavolo from where he'd stopped — the oil, the onion going soft, the garlic and pepper blooming, the tomatoes going in — and she sat at the table with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
 
