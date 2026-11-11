@@ -4,35 +4,34 @@
 
 ## Reader reaction
 
-I'm swept up, and a little cold underneath. This is a short chapter, and it's tight.
+The chapter opens in a convertible with the top down. It's Randi, and she's wet before she reaches his door, from picturing Vee in his bedroom: "Held up in Randi's two hands and turned to him. *Here.* And his face, when she did." I felt that fantasy in my body. What unsettled me was that it's built for him. She wants Vee, and it comes out as an offering. "For him. And for what he would do to her." That fits the earlier "Only in a threesome. With you." The want is real, and she has put it where it can't be seen as hers.
 
-**Felt read**
+Pace is warm and attentive, as he has been. But there's a bruise in how I now read him. I know Randi was sent to collect Vee, and that he then walked into the coffee shop "chosen" and "looking only at her." The chapter doesn't have him lie to Randi. It does have him hold back Vee's "true thing" about the froyo, "It was hers," and that gentleness sits strangely next to what he's doing to Vee. I'm not sure what he's doing. I don't like how easily he reads Randi's face as "a want too big for her face." He reads her correctly and then reassures himself with it. His read doesn't catch the thing I suspect is also there.
 
-Randi lands hardest on me. She comes in already hungry, and the kiss has no hello in it. Then she makes him narrate the date, "*Tell.*" She isn't jealous of Vee. She's feeding on her. The detail that undid me was "She built a cup like nobody had ever told her when to stop." The hunger sharpens in Randi's thighs and breasts first, and her face follows half a beat late. That is the want from the quad again, "there and covered." The tell is the same as in the bathroom mirror at the start of this stretch: the body answers and the face dresses it afterward. I'm watching a woman use someone else's appetite to feel her own, and she knows she's doing it. I can't tell whether she knows what she's doing to Vee.
+Randi is the one who moved me. In the bedroom she had no door she'd let him through. Here she's back inside the performance, and the performance is now carrying real appetite. The beat that landed hardest was "She's easy to listen to," and Randi going still. "Her thighs did not tighten now; they set." I read it as jealousy, and I read it as hers. He reads it as "the wanting, held," and neither of us knows it's the other thing. The line "I already do," then the wine finished in one swallow, is a flinch dressed as a kiss. I want to stay inside that.
 
-Pace is warm and attentive as ever, and I feel the unease more sharply here. He keeps back the true thing Vee said on the walk ("It was hers"), which is a courtesy to Vee. He also feeds Randi the story in measured doses, and he reads her flicker at "She's easy to listen to" as "the wanting, held," and finds it moving. I can't say whether he's misreading her. Her thighs "set," and he takes that for a want too big for her face. It could just as well be something closer to possessiveness or fear. The page doesn't settle it, so I'll leave it open. The tenderness is real, and I still wouldn't call it clear-sighted.
+Vee isn't on the page this time, but she's present through Randi's memory. The "top button had been undone, and the one under it, on a girl who buttoned to the throat" is a lovely, slightly cruel detail. Randi has noticed what Vee hides, and she plans to use it.
 
-The last paragraph is the best thing here. The wine is the chapter's whole trick: she drinks, kisses the taste into his mouth, and finishes the glass in one swallow. He hasn't had a drop and "could taste nothing else." It's a wonderfully compact image of being fed on secondhand. I'm not sure whether he's the one feeding or the one being fed.
+Erotic charge: the wine-mouth kiss works well. "the tannin catching at the inside of his lips, the taste of it drawn across his tongue by hers" is the hottest sentence. His not drinking, and the closing "He had not had a drop of it. He could taste nothing else," is sharp and funny. The charge dips only when he narrates his own cleverness. I also felt friction at "He had known she would come; he had known since about the second block of the walk home," which makes him very sure of her.
 
-Heat runs high for a clothed, nearly static scene. The peak is her hands pulling his onto her breasts, then "*Tell.*" hot against his ear. It's all appetite directed at a third person who isn't there, and that's the charge. The weak spot is the opening stage direction. The couch repeats the kitchen chair, and the "same adjustment" is spelled out a bit. The explaining ("he read it: the wanting, held") also pins down a feeling I'd rather have left ajar.
+The title is the best thing about the chapter. Tannin is the dry, astringent grip of the wine, and also what stays in the mouth after it. It points to how Vee lingers in both of them through a borrowed taste. It's not a giveaway. It recolors the ending nicely.
 
-The title, Tannin, is the dry, catching astringency in the mouth, and it names the wine. It recolors the chapter, and it matches the book's volume title. It also fits the series name, *With a Long Spoon*, with its old warning about supping with the devil. A "polite invitation" is what Vee got: "May I call you?" The book reads as an invitation to someone who doesn't know what she's sitting down to. The long spoon seems to be the distance everyone is failing to keep. There's no tagline in my packet.
+The book's title, *With a Long Spoon*, plus "A Polite Invitation," now reads darker to me. The proverb is about supping with the devil. "May I call you?" was the polite invitation, and the long spoon is whatever distance Randi and Pace think they're keeping. If anyone is keeping a safe distance, I doubt it works. That's a guess from here.
 
-Next I want Vee's side of that date, and I dread the bench being mentioned to her. Randi's earlier line, "Do you think she'll like the bench?", now carries a lot of weight. I guess from here that Randi's wanting will turn into something she can't call by name.
+What I want next is Vee meeting the bench. I dread it, and I want it too, because I like her. Mostly I want Randi to say one true sentence to someone.
 
-**Cast present (in person):** Pace, Randi.
-**Mentioned only:** Vee (not named on the page, but "she," the cup, the frozen yogurt).
+**Cast present (in person):** Randi (opening and car; then with Pace), Pace. Mentioned/remembered: Vee, Cassie (not named here), the froyo date.
 
-**Heat:** 2 — sustained, wanting-driven charge from her mouth, hands, and the wine kiss, aimed at a girl who isn't there.
+**Heat:** 2 — The wine kiss and her hands moving his to her breasts burn, and her wanting is aimed at a woman, so the charge never settles.
 
-**Romance:** 1 — Pace's tenderness is there, but the bond is bent around a third person.
+**Romance:** 2 — Their ease is clear tenderness, though her jealousy and his withholding are pulling it off true.
 
-**Motifs & images:** The deadbolt (repeat: she locks it first thing in *The Bench*). Steely Dan low in the front rooms (repeat). Her straddle "the same adjustment" as the kitchen chair (repeat). Hands placed on her breasts (repeat from the kitchen). The late smile "put on a beat after" (repeat of the face over the want, seen on the quad and in the bathroom). The wine and tannin (first sighting). Tasting what's in someone else's mouth (echo of the apple and of tasting herself in *The Pointing Game*). Pace refusing food or drink while she takes it (new).
+**Motifs & images:** Repeat: the deadbolt, "She always locked it behind her" (The Bench). Repeat: Steely Dan low in the front rooms, the house kept too warm, the kitchen-chair straddle, and the hands placed on her breasts. Repeat: her "Tell me" mirrors his from the bench. New: red wine and tannin, taste shared through a mouth, and the unpoured glass. Repeat: Kentucky voice (absent), and the cardigan opening on Vee.
 
-**Symbolism:** The wine is secondhand appetite. He tastes only through her mouth, and she tastes Vee only through his telling. The reader is invited to see it, and the closing line makes it explicit.
+**Symbolism:** Tannin and the shared kiss stand for wanting someone second-hand and not being allowed to want her directly. Pace's undrunk glass reads as appetite by proxy.
 
-**Characterization:** Randi deepens, with the bodily tell slipping her face again. Pace stays consistent, but his confident reading of her begins to feel presumptuous. Vee is offstage and still shaping the scene.
+**Characterization:** Randi deepened, with her hunger visible beneath the poise. Pace is consistent but a little self-satisfied. Vee is only a projection here.
 
-**Pace — within the chapter:** Brisk and economical. It earns its length with a single clean beat and a strong exit line.
+**Pace — within the chapter:** Brisk and tight. The opening fantasy is slightly long, but the couch scene earns its length.
 
-**Pace — chapter to chapter:** Compared with the long *Substitution* and *Bench* chapters, this is a short, tight bridge that tightens the triangle. Momentum is building, and it doesn't repeat what came before.
+**Pace — chapter to chapter:** Building after the froyo date. It returns to Randi's inner life and to the quiet pressure of the triangle forming. The momentum is good.

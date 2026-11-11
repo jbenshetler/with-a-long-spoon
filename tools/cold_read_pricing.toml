@@ -96,6 +96,16 @@ max_input = 920576
 max_output = 943718
 # catalog: google/gemini-4-argon
 
+# gemini-4-carbon: read 2026-11-11 from the OpenRouter catalog — $2/$10
+# (batch $1/$5), 1M context, first-party Google only.
+[models."google/gemini-4-carbon"]
+input = 2.00
+output = 10.00
+context_window = 1048576
+max_input = 920576
+max_output = 943718
+# catalog: google/gemini-4-carbon
+
 # muse-spark-1.3 / muse-wonder: read 2026-11-01 from the OpenRouter catalog —
 # first-party Meta only, quantization unknown, 1M context, 943,718 max output.
 [models."meta/muse-spark-1.3"]

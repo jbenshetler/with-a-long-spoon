@@ -99,7 +99,8 @@ models = [
 # muse-spark-1.3 and muse-wonder added 2026-11-01 for the author's assessment (romance-graduate).
 # claude-opus-5-5 on demand 2026-11-03 (author ruling): sonnet's CAPTURE tracks opus
 # (r 0.71 v3, near opus's own test-retest 0.82); run opus on revised chapters.
-available = ["muse-spark-1.3", "muse-wonder", "claude-opus-5-5"]
+# gemini-4-carbon added 2026-11-11 (author request): paid OpenRouter lane, first run fsog-refugee Vol 1.
+available = ["muse-spark-1.3", "muse-wonder", "claude-opus-5-5", "gemini-4-carbon"]
 # Memory v3 (capture_dag.py --memory grounded; author ruling 2026-11-01): the
 # shared FACT memory every capture lane reads — this model's native grounded
 # checkpoints under reviews/cold-read/<id>/checkpoints/. Facts are not what the
@@ -246,6 +247,13 @@ provider_model = "google/gemini-4-argon"
 # Same first-party exemption as gemini-3.8-flash: both endpoints (Google,
 # Google AI Studio flex) report `quantization: unknown`; the floor would leave
 # zero endpoints.
+quantizations = []
+
+[readers."gemini-4-carbon"]
+vendor = "google"
+provider_model = "google/gemini-4-carbon"
+# Added 2026-11-11 (author). Same first-party exemption as gemini-4-argon:
+# quantization unknown, the floor would leave zero endpoints.
 quantizations = []
 
 [readers."muse-spark-1.3"]

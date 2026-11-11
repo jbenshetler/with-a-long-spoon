@@ -1,0 +1,28 @@
+*capture-dag-v3-grounded · gate ch005 · gemini-4-carbon · fsog-refugee · prompt-sha 17900228a72c · prose-sha 2e6bcf769c7d · dated · memory grounded: facts none + raw ch001..ch004 · history ch001..ch004 · ledger no seed 575b6b961ea9 · 2026-11-11*
+
+REACTION
+
+Oh my god, I am completely split in half right now — half of me is melting into a puddle on the floor over Pace and Vee, and the other half is screaming at the page because *she was already stuck for forty minutes when Randi suggested they move to the place on Wilson*!! "The place on Wilson" — literally the exact lie Randi fed Brooke on Saturday morning! And Cassie watching Randi's thumbs flying on her phone right before the bell above the door tinkles! And Randi pointing out *"He walked out of a coffee shop empty-handed, a man doesn't forget his coffee over a girl he isn't going to call"* when HE WAS NEVER IN LINE FOR COFFEE, HE WAS STANDING IN LINE WAITING FOR HIS CUE TO HEAR HER SAY CALCULUS OUT LOUD!! Oh, it's diabolical. Even the chapter title — *Substitution*! Like u-substitution in an integral, *and* Randi substituting Vee into her spot!
+
+And wait — did anyone else clock Randi's hands on that coffee cup?! Picking it up twice and putting it down without drinking, holding it with both hands too long right after she jumped in with her own stats question just to pull his eyes back to her for five seconds, and then Cassie dropping *"He looked at her the way you'd look at somebody's great-aunt"*?! OUCH. Randi could not do her cute little "like the adjective" bit in front of Pace because he *knows* her, so she just dropped "Randi" flat on the table, and then had to sit there watching the boyfriend she wouldn't defend in her sorority house look at Vee like nobody else existed! Careful what you wish for, Randi! You wanted him looking somewhere else so you wouldn't have to be seen on that bench, and your hands were already fidgeting with your cup at the table while Vee thought you were *bored*!
+
+Because the thing is — even knowing the meet-cute was completely staged — everything that happened once Pace sat down in that chair felt *hundred-percent real*. You cannot fake the way he rolled back his cuffs (hello, carpenter forearms with the thick knuckles from building that walnut furniture, I died right along with Vee), asked for her pencil *with his eyes first*, read her work to see how her mind moved, and handed the pencil back at the exact line where she could finish it herself! "You gave fair notice. I took it seriously." *"May I call you?"* Repeating her number back to confirm it! That isn't a pickup artist running a script, that's just *who Pace is*, and watching Vee bloom under five minutes of a man actually listening to her — after a semester of staying up till 2 a.m. playing healer in a video game for some thankless business major! — made my throat tight.
+
+And the froyo walk at the end nearly broke me. Vee swirling too much into her cup and *not* hearing her mother's voice telling her "that's plenty" for once! Saying *"This is the nicest a person has been to me in a really long time. And it's froyo,"* and Pace not laughing it off and not making a big theatrical meal out of her vulnerability either, just walking beside her and saying *"Your tart's holding up."* I love them together already. Like, terrifyingly much. Which means the fact that he sat across from his actual girlfriend pretending she was a stranger — looking at Randi like "somebody's great-aunt" so cleanly even sharp-eyed Cassie bought it! — has my stomach in knots. He's in on the lie now, fully in on it, and Vee just handed him her whole open heart over a cup of melting froyo.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Watching Pace and Vee finally meet gave me everything I wanted — the rolled cuffs, handing her back her own pencil, "May I call you?", and that quiet, devastating froyo walk — while the staged coffee-shop ambush and Randi's restless hands on her cup kept the tension humming underneath every line. I already adore Vee and Pace together, which makes the lie underneath this ten times scarier, and I need the next chapter immediately.
+
+LEDGER
++ LOVE: Pace and Vee together — asking for her pencil with his eyes, letting her finish the integral herself, "May I call you?", her mother's food-policing voice going silent at the froyo machine, and "Your tart's holding up."
++ SUSPICION: Randi wasn't bored during Vee's econ monologue — jumping in with the Bessel's correction question, holding her cup with both hands, and lifting it twice without sipping looked like the first sharp sting of watching Pace turn his whole undivided attention onto another girl (especially with Cassie calling it a "great-aunt" look!).
+~ L1.1 DEEPENED: Even inside a staged meet-cute, Pace's bone-deep respect shows in every tiny gesture — asking for her pencil with his eyes, taking her calculus warning seriously instead of mocking her, repeating her number back, and holding her froyo confession so gently.
+~ F1.3 DEEPENED: Pace officially crossed the line into active deception here — texting Randi for his cue, pretending to be a stranger in line, and playing Randi like "somebody's great-aunt" while Vee hands him real, unguarded vulnerability.
+~ W1.4 SHIFTED: Vee and Pace have finally met and the chemistry is unreal; now I'm waiting for their first real date / first time alone in his house (and still waiting to learn what happened with Daphne).
+~ L4.1 DEEPENED: Cassie clocking Randi texting right before Pace walked in, noticing the exact difference in how Pace looked at Vee vs. Randi, and warning Vee not to get stuck rolling a healer for another selfish boy — Cassie doesn't miss a beat.

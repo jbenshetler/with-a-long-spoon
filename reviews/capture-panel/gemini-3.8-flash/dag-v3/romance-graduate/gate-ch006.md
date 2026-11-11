@@ -1,37 +1,30 @@
-*capture-dag-v3-grounded · gate ch006 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 822fde509de8 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed ac2073fb340d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch006 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 30e2d684930f · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed ac2073fb340d · 2026-11-11*
 
 REACTION
 
-The absolute *nerve* of this book. This chapter was barely three pages long, and it completely took my breath away.
+Oh, the sheer *hubris* of this man. I am screaming.
 
-That opening—the deadbolt turning over, Randi straddling him on the couch, demanding to be fed every single scrap of his afternoon with Vee—was filthy, intimate, and terrifying. She’s using the idea of Vee like an accelerant. Kissing the wine into his mouth, putting his hands on her bare breasts under the wire, whispering *“Tell”* into his neck... she wants to be aroused by it. She *is* aroused by it. Her body is clenching, her thighs are gripping him, she’s practically vibrating with this forbidden, hungry excitement of pulling a girl into their orbit.
+Pace sits there on that couch, congratulating himself on his deep emotional perception, thinking he understands every twitch of Randi’s thighs and every shift in her breath. He thinks she froze because her sexual longing for Vee was just *so vast* she had to fight to keep the mask on. He literally tells himself: *“the wanting, held. It moved him — a want too big for her face.”*
 
-And then the trap springs—not on Vee, but on *Randi*.
+NO, PACE. YOU IDIOT. She froze because you said: *"She's easy to listen to."*
 
-The moment Pace says, *"She's easy to listen to."*
-And then: *"He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over. It was hers."*
+That wasn't sexual arousal stopping Randi dead in her tracks—that was a spike of pure, ice-cold territorial terror driving straight through her heart. Randi spent Chapter One weeping because Pace saw through her mask and listened to her real self, and now Pace is out here taking Vee on walks, giving her that courtly, undivided focus, and finding her *easy to listen to*. Randi has to work so violently hard to be palatable, to be small, to portion out thin apple slices, and here comes Vee—lush, unmanaged, eating frozen yogurt like nobody ever told her to stop—and Pace liked listening to her! And even worse: Pace *protected* Vee's vulnerability! When Randi asked what happened, Pace deliberately kept Vee’s raw little confession (*“This is the nicest a person has been to me...”*) to himself: *"It was hers."* He is already keeping secrets for Vee. He is already shielding Vee’s interiority from Randi.
 
-I felt that in my chest like a physical blow. Pace kept a piece of Vee for himself. He didn't offer up Vee's vulnerable little confession about it being the nicest anyone had been to her. He protected it. He sequestered it away in a private vault where Randi wasn't invited.
+And Randi's fantasy on the drive over! My god. Seeing inside Randi’s head as she drove with the top down was searing. She isn't just lusting after Vee; she is choreographing Vee's dismantling so she can offer it up to Pace like a cat bringing a prize to its master's feet: *“Held up in Randi's two hands and turned to him. Here. And his face, when she did. For him.”* Randi is intoxicating herself with the idea of being the architect of Vee's surrender, convincing herself this makes her powerful, makes her essential, makes her the generous girlfriend—all while she's secretly drowning in panic.
 
-And Randi felt the shift immediately. You could see the exact second the voyeuristic thrill curdled into pure, ice-cold panic. Her thighs didn't tighten in arousal anymore—they *set*. The smile was a fraction late. She engineered this entire dynamic to deflect Pace’s terrifying, dissecting intimacy away from her own throat, thinking she could direct the show, and now he is already developing genuine, protective tenderness toward this girl.
-
-Pace thinks he’s so wise, reading her body, thinking *oh, her want is just too big for her face.* No, you idiot! That’s not unmanageable lust! That is a woman realizing she just handed the man who completely dismantles her to a girl who is actually soft enough to love him back.
-
-Randi downing that entire glass of wine in one desperate gulp before pulling him toward the bedroom was pure adrenaline-fueled survival. She's going to fuck him right now to re-mark her territory, to drown out the fact that Vee is already living in his head rent-free.
-
-God, this is so sharp. It’s tight as a piano wire.
+The wine kissing was filthy and gorgeous. The sensory details—the tannin on his tongue, the cold air on her face, Steely Dan on the stereo, the deadbolt—are so sharp you can taste them. But the dramatic irony here is at an absolute boiling point. Pace thinks he’s cultivating his girlfriend’s sexual awakening. Randi thinks she’s staging a show where she controls the spotlight. And both of them are utterly blind to the fact that the emotional gravity of this whole thing is already spinning entirely out of their control.
 
 GATE 6 — Tannin
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A masterclass in subtext—Pace keeping Vee's vulnerability private while Randi chokes on the first hairline fracture of real jealousy was utterly gripping.
+WHY: The psychological misread from Pace was agonizingly brilliant—he thinks Randi froze out of overwhelming lesbian lust, while the reader sees Randi getting gutted by jealousy the second he says Vee is easy to listen to.
 
 LEDGER
-+ LOVE: Pace keeping Vee’s confession to himself—instinctively protecting her vulnerability instead of offering it up as foreplay material.
-~ [F5.2] DEEPENED: Randi is already freezing from the inside out; the voyeuristic high instantly soured the second Pace called Vee "easy to listen to."
-~ [L1.2] SHIFTED: Pace's terrifying blind spot—he thinks he understands women completely, but he utterly misread Randi's frozen shock as overwhelmed desire.
-+ WAITING: The inevitable bedroom scene that follows this, where Randi tries to fuck Vee out of Pace's head (or fuck the fear out of herself).
++ SUSPICION: Pace is already emotionally compartmentalizing Vee—he kept her tender confession to himself instead of sharing it with Randi.
+~ F1.1 DEEPENED: Randi's fantasy of handing Vee's body to Pace shows how totally she is using Vee as an offering to keep his approval.
+~ F5.2 DEEPENED: Randi's body locked up the exact second Pace praised Vee; her jealousy is already bleeding through her skin, even if Pace misreads it as lust.
+~ S1.3 DEEPENED: Randi convincing herself that orchestrating Vee's undoing is "for him" is such a desperate attempt to stay the director instead of the victim.
