@@ -8,7 +8,7 @@ The top was down. She had the heat blowing on her legs and the seat warm under h
 
 In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all that red came whipping around.
 
-After the coffee, out on the sidewalk, Randi had looked up into her face before she pulled her into the hug. Up, a long way. She was too tall and too much, all that curve laid on all that height, and Randi's eye, which graded every girl it met, had nowhere to put her. Green eyes, flecked with gold, a stone she'd have had set if she had ever found one that color. Peach skin. Freckles across her nose and the tops of her cheeks, not one of them covered, as if it had never occurred to her to cover them. And the smile, the whole face given over to it, nothing kept back for later.
+After the coffee, out on the sidewalk, Randi had looked up into her face before she pulled her into the hug. Up, a long way. She was too tall and too much, all that curve laid on all that height, and Randi's eye, which graded every girl it met, had nowhere to put her. Clear green eyes, the gold in their depths visible only on close inspection. Peach skin. Freckles across her nose and the tops of her cheeks, not one of them covered, as if it had never occurred to her to cover them. And the smile, the whole face given over to it, nothing kept back for later.
 
 Then the arms closed, and the height did the rest. Randi's face went into her — the soft give of her through the cardigan, more of her than any cardigan could account for, full against Randi's cheek for the length of one second.
 
