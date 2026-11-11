@@ -4,11 +4,11 @@
 
 ---
 
-The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then she tossed her head and let the ponytail swing, one shoulder and then the other.
+The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then the wind got in over the glass and whipped the ponytail from one shoulder to the other.
 
 In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all that red came whipping around.
 
-Then outside Chi Latte, Randi had pulled her into the hug, and looked up into her face first. Up, a long way, past a scale she would have marked down on any other girl. Green eyes, and close enough now to see what no one across a room could: flecks of gold down in the green, the way gold lies in lapis, only greener than any lapis, clearer, with none of the blue in it. Peach skin. Freckles across her nose and the tops of her cheeks, not one of them covered, as if it had never occurred to her to cover them. And the smile, the whole face given over to it, nothing kept back for later.
+After the coffee, out on the sidewalk, Randi had looked up into her face before she pulled her into the hug. Up, a long way. She was too tall and too much, all that curve laid on all that height, and Randi's eye, which graded every girl it met, had nowhere to put her. Green eyes, flecked with gold, a stone she'd have had set if she had ever found one that color. Peach skin. Freckles across her nose and the tops of her cheeks, not one of them covered, as if it had never occurred to her to cover them. And the smile, the whole face given over to it, nothing kept back for later.
 
 Then the arms closed, and the height did the rest. Randi's face went into her — the soft give of her through the cardigan, more of her than any cardigan could account for, full against Randi's cheek for the length of one second.
 
