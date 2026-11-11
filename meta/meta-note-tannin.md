@@ -17,7 +17,8 @@ her bright cover → the close on the glass.
 
 ## Guards
 
-- **Never inside Randi.** The whole chapter is assembled from surface: the thighs, the
+- **The drive-out panel (author ruling 2026-11-10).** The chapter opens on a short Randi-POV container — alone in her car, neither Pace nor Vee present (bible containers rule). Its job is Vee's Volume One description through the book's grader of women: scale and face first in the Chi Latte hug (green eyes with gold flecks, peach skin, freckles, the whole-face smile), the height carrying her face into Vee's breasts, then the stats-row glimpse down the cardigan into the thinning freckles. She rehearses an embellished telling for Pace — the soft-register amplification of the dual-account rule, never flagged on the page — and never delivers it: inside, she demands *"Tell me"* instead. Arousal felt and unexplained (no pain beat, no band). The frame is *for Pace*; the heat is owned, the need is what the frame covers. No jealousy (Pace's misread at the close owns it), no scent (Swim Lanes owns gardenia).
+- **Never inside Randi once she is in the house.** From the deadbolt on, the chapter is assembled from surface: the thighs, the
   hands in his hair, the late corner of the mouth, the brightness of *"I already do."*
   No interior access, no narrator gloss on what she feels.
 - **He reads the want and misses the jealousy — and the miss must not look stupid.** The
