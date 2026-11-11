@@ -10,7 +10,7 @@ In the stats room she had come in at the back and along the row, and Vee hadn't 
 
 After the coffee, out on the sidewalk, Randi had looked up into her face before she pulled her into the hug. Up, a long way. She was too tall and too much, all that curve laid on all that height, and Randi's eye, which graded every girl it met, had nowhere to put her. Clear green eyes, the gold in their depths visible only on close inspection. Peach skin that loved to blush. Freckles across her nose and the tops of her cheeks, under a base that hid them from the room and not from her. And the smile, the whole face given over to it, nothing kept back for later.
 
-Then the arms closed, and the height did the rest. Randi's face went into her — the soft give of her through the cardigan, more of her than any cardigan could account for, full against Randi's cheek for the length of one second.
+Then Randi had her arms around her, and the height did the rest. Randi's face went into her breasts, only the cardigan between them, and the soft warm give of her taking Randi in, full against her cheek for the length of one second.
 
 And in the stats row, Vee leaning over to whisper back, the cardigan falling open, and inside it the freckles going fewer and paler down into the shadow between her breasts until there were none.
 
