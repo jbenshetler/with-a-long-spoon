@@ -4,19 +4,23 @@
 
 ---
 
-The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then the wind got in over the glass and whipped the ponytail from one shoulder to the other.
+The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then the wind got in over the glass and tossed the ponytail from one shoulder to the other.
 
-In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all that red came whipping around.
+In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all those red curls came whipping around.
 
-After the coffee, out on the sidewalk, Randi had looked up into her face before she pulled her into the hug. Up, a long way. She was too tall and too much, all that curve laid on all that height, and Randi's eye, which graded every girl it met, had nowhere to put her. Clear green eyes, the gold in their depths visible only on close inspection. Peach skin that loved to blush. Freckles across her nose and the tops of her cheeks, under a base that hid them from the room and not from her. And the smile, the whole face given over to it, nothing kept back for later.
+After the coffee, out on the sidewalk, Randi had looked up, a long way, into her face before she pulled Vee into the hug. Tall, and lush with it, and Randi's eye, which sorted every girl it met, had nowhere to put her. Clear green eyes, the gold in their depths visible only on close inspection. Peach skin that loved to blush. Freckles across her nose and the tops of her cheeks, under a base that hid them from the room and not from her. And the smile, welcoming and genuine.
 
-Then Randi had her arms around her, and the height did the rest. Randi's face went into her breasts, only the cardigan between them, and the soft warm give of her taking Randi in, full against her cheek for the length of one second.
+Then Randi had her arms around her, and the height did the rest. Randi's face went into her, only the cardigan between them, and the soft warm give of her taking Randi in, full against her cheek for the length of one second.
 
 And in the stats row, Vee leaning over to whisper back, the cardigan falling open, and inside it the freckles going fewer and paler down into the shadow between her breasts until there were none.
 
 She had it ready for him. That Vee had held on, after. That the top button had been undone, and the one under it, on a girl who buttoned to the throat.
 
-For him. All of it was for him.
+The rest she would not have to tell him. He would be there for it. Vee in his bedroom with Randi behind her, the cardigan off her shoulders first, then the buttons, all of them this time, and then the clasp, and Randi's own hands there to catch the weight as it came free — more than her hands could hold, spilling over them — and lifting it, both of them, the freckles thinning out to nothing and the nipples drawing up hard in the heat of his house. Held up in Randi's two hands and turned to him. *Here.* And his face, when she did.
+
+For him.
+
+And for what he would do to her.
 
 By the time the gravel came up under her tires she was wet, and she took the cut slow, up toward the light at his door.
 
