@@ -1,6 +1,24 @@
 # Tannin
 
-*[VIGNETTE] · Pace's POV, close third · the same evening, hours after the frozen yogurt · Pace's den. The woman is **Randi**; Vee does not appear — they talk about her.*
+*[VIGNETTE] · Opens in Randi's POV, alone in her car on the drive out; then Pace's POV, close third · the same evening, hours after the frozen yogurt · Pace's den. Vee does not appear — they talk about her.*
+
+---
+
+The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then she tossed her head and let the ponytail swing, one shoulder and then the other.
+
+In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all that red came whipping around.
+
+Then outside Chi Latte, Randi had pulled her into the hug, and looked up into her face first. Up, a long way, past a scale she would have marked down on any other girl. Green eyes, and close enough now to see what no one across a room could: flecks of gold down in the green, the way gold lies in lapis, only greener than any lapis, clearer, with none of the blue in it. Peach skin. Freckles across her nose and the tops of her cheeks, not one of them covered, as if it had never occurred to her to cover them. And the smile, the whole face given over to it, nothing kept back for later.
+
+Then the arms closed, and the height did the rest. Randi's face went into her — the soft give of her through the cardigan, more of her than any cardigan could account for, full against Randi's cheek for the length of one second.
+
+And in the stats row, Vee leaning over to whisper back, the cardigan falling open, and inside it the freckles going fewer and paler down into the shadow between her breasts until there were none.
+
+She had it ready for him. That Vee had held on, after. That the top button had been undone, and the one under it, on a girl who buttoned to the throat.
+
+For him. All of it was for him.
+
+By the time the gravel came up under her tires she was wet, and she took the cut slow, up toward the light at his door.
 
 ---
 
