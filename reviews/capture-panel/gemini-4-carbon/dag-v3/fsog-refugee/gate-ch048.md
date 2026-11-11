@@ -1,0 +1,34 @@
+*capture-dag-v3-grounded · gate ch048 · gemini-4-carbon · fsog-refugee · prompt-sha 17900228a72c · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed eccd20faa092 · 2026-11-11*
+
+REACTION
+
+HOLD EVERYTHING. Wait just one second! My chest is melting into absolute butter over how tender and romantic this was AND my alarm bells are clanging off the walls at the exact same time because *Pace* just asked to put Randi, Cassie, Vee, Meg, Kayla, and himself in the same room?!
+
+Let me scream about the romance first, because oh my god, look at the title — *Back* — doing double duty! It's her sitting naked on his lacquered kitchen chair talking at his broad, dish-washing back, AND it's him answering every single thing she walked out into the cold over in Chapter 41! Remember what gutted her on that doormat? *"All of that is in here. Inside this house, with the door shut. Out there, what are we? How do I say what this is to Cassie?"* She cut off his *"Vee, I l—"* at the door on Friday night so he didn't get the words out, and now on Sunday evening before she goes back to the dorm in his sweats, he stands at the sink and voluntarily opens the door from the inside: *"I want to meet your people."* Not because she cornered him or begged for Chili's again — on his own!
+
+And the way he knows every single one of her friends by heart! *"And Meg. The one whose boots you wore up the mountain... Your heel came up out of the right one when you pushed off."* *"And Kayla's the one who can talk the paint off a wall?"* *"Tables have ends. Somebody ends up at one."* Do you have ANY idea what that does to me?! A man who doesn't just nod while a woman chatters at his back, who actually kept every stray October half-sentence on a shelf in his head, who immediately thought of Cassie so Cassie wouldn't be left out, who didn't have one drop of petty male ego over Theo (*"Bring Theo"* without even turning around!). And then Vee meeting his care right back — remembering him squaring his fork at Chili's under those four TV screens, taking care of *his* sensory overwhelm without making a production of it, and asking *"Will you pick the place?"* That look of quiet happiness on his face when he dried his hands and turned around — *"Let me handle it"* — gave me chills in the best possible way. Plus Vee refusing to make Cassie "be a good sport" at a fancy restaurant (and flashing briefly on when she watched Cassie be "fine" before — Chapter 5/9/27!) made me love Vee so much.
+
+AND NOW LET ME PANIC ABOUT THE OTHER HALF OF THIS CHAPTER.
+
+First: when Vee tells him a ten-minute story about Randi charming a counter clerk without a receipt, Pace gives a flat *"Mm"* at his back without turning around, and when Vee immediately lights up and says *"We could do a dinner. The three of us"* — her dream of introducing her boyfriend and her best friend at a tiny table with real napkins! — Pace IMMEDIATELY drops *"Bring Cassie, too"* and then *"And Meg"* and *"And Kayla"* right into the middle of it! Wait. Did Pace genuinely want to meet all of Vee's world to claim her "out there" (YES, 100%, especially after Sheri's diner talk!), OR did he *also* panic-dilute a three-person intimate dinner with Randi and Vee — when he hasn't seen or spoken to Randi in *two months* since she walked out crying with Vee's panties in November — by turning it into a big group hang where he and Randi have buffers around them?! Or is he actually ready to put Randi and Vee in a room with *Cassie* watching?!
+
+Because think about what happens when you put Pace, Randi, Vee, AND **CASSIE** in the same room! Cassie already clocked Randi texting right before Pace walked into the coffee shop in Chapter 5! Cassie already saw how differently Pace looked at Randi vs. Vee! And what about Randi?! Randi hasn't talked to Pace since November 17! Brooke JUST threatened Randi on Friday afternoon that if anyone on campus sees her feelings for Vee as real, she'll get Lauren Pike'd out of the sorority house! What happens if Pace "handles it" by picking the hall on Valentine's weekend (Sheri's Brooks and Dunn cover band?! Wait — isn't a dance hall loud though, or is he going to pick his own house orChristine's restaurant?!) — and what is Randi's face going to do on Tuesday night after Anthro when Vee cheerfully announces across the dinner table, *"Oh, by the way, the naked coat worked SO well that Pace wants to meet all my friends, including YOU!"*?!
+
+Two pages and I am buzzing from head to toe. Give me Tuesday night with Randi RIGHT NOW.
+
+GATE 48 — Back
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Watching Pace answer Vee's December heartbreak on his own terms ("I want to meet your people"), casually recall October's too-big hiking boots, and trade mutual unspoken care when Vee remembers his Chili's sensory overload ("Will you pick the place?" / "Let me handle it") was a massive, heart-melting turn in their bond. At the same time, Pace deflecting Vee's "dinner, the three of us" with Randi into a full-group gathering — putting Pace, Randi, Vee, and eagle-eyed Cassie into the same room after two months of Pace/Randi silence — makes Tuesday's dinner with Randi completely unmissable.
+
+LEDGER
++ LOVE: Pace remembering Meg's half-size-too-big boots from October ("Your heel came up out of the right one when you pushed off"), quoting Vee's Kayla line back to her, saying "Tables have ends. Somebody ends up at one," and Vee quietly protecting him from another Chili's ("Will you pick the place?").
++ SUSPICION: Pace dropping "Bring Cassie, too" and "And Meg" the exact second Vee suggested *"We could do a dinner. The three of us"* with Randi wasn't *only* him wanting to meet Vee's whole world — he also dodged a tiny three-person table with a Randi he hasn't spoken to since she cried over Vee's panties in November.
++ WAITING: The group gathering Pace just promised to "handle" — where he picks, and what happens when Pace, Randi, Vee, and Cassie are all in the same room at once!
+~ L1.1 DEEPENED: Answering Vee's December walkout without being asked — wanting to meet her people out in the world, remembering every small story she told his back all fall, and having zero fragile ego over Theo ("Bring Theo").
+~ F9.3 SHIFTED: Vee immediately paused on Cassie's behalf and refused to put Cassie in a fancy restaurant where she'd have to "be a good sport" in yesterday's shirt — actively protecting Cassie's comfort this time instead of brushing past it.
+~ W46.4 SHIFTED: Now Vee is walking into Tuesday's Anthro class and dinner with Randi carrying *three* bombshells at once: the naked-coat triumph in Randi's heels, the question about tasting herself on Pace's mouth, AND "Pace wants to meet all my friends — including you!"
