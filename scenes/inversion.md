@@ -74,9 +74,11 @@ Somebody closed the door. She heard it go behind her, the latch, and did not tur
 
 Randi sat. She put her hands in her lap and left the water where it was.
 
-"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Caroline is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish." She let that settle, unhurried, pleasant. "We'll observe the forms. I think you'd want us to."
+"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Caroline is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish. We'll observe the forms. I think you'd want us to." She let that settle, pleasant.
 
-She would have. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard the order of service she had built read back to her by a woman who kept it close enough.
+It was not unhurried, whatever it looked like from the chair. It was deliberate, the one speed a thing like this ever moved, the speed Randi herself had set it to, years of it, girl after girl — and it was reaching now, as it was built to reach, for the one thing the house could not be made to approve. She had only never been that thing before.
+
+She would have run it the same. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard her own order of service read back to her by a woman who kept it close enough.
 
 The bones of it right, the order right, and the finish skipped — the small cares that were Randi's own, the ones she had never once left out: the half-second of quiet held before a charge, so the girl heard it coming and had to sit in it; the warmth laid down only where it worked and kept off the rest, where it would only have given the game away.
 
