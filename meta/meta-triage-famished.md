@@ -261,3 +261,10 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **opus-5-5** — "too hard" (four other readers praise the line). `reviews/cold-read/claude-opus-5-5/famished.md:13`: "…As in aroused? The page says it's "a real question" and "something else as well," but the wording felt clumsy in a scene that was otherwise exact. I didn't fully buy the "crystal strings" either. It's a touch…"
 - [ ] **opus-5-5** — "crystal strings". `reviews/cold-read/claude-opus-5-5/famished.md:13`: "…clumsy in a scene that was otherwise exact. I didn't fully buy the "crystal strings" either. It's a touch ornamental at the one moment I wanted it plain.…"
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:85** "…without consulting her… What told him was her hips. They had started without her, small greedy movements she had not authorized, and she could no more have called them back than she could have called her body's name." → "…What told him was her hips, small greedy movements, and this time she did not try to call them back." Second instance of the `:71` hips beat; after the shame stops closing her at `:71`, the second is hers. Also removes "without consulting her" (echo of `a-round.md:204`). Cut against glm-5.3 fsog-refugee praise of the lag; the lag stands at `:71`.

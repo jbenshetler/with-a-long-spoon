@@ -305,7 +305,7 @@ A beat.
 
 "Cold," Randi said. Not a question. Just the word, set down on the table between them, turned over once. "Hmm."
 
-And Vee — caught, and knowing she was caught, and unable in the swim of it to remember quite *how* she'd been caught, only that the ground had shifted somewhere a few sentences back and Randi had felt it shift — started to laugh. It came up out of her before she could decide anything about it, the laugh of the absolutely cornered, and she put her face in her hands for a second and then dropped them and gave up.
+And Vee — caught, and knowing she was caught, and unable in the swim of it to remember quite *how* she'd been caught, only that the ground had shifted somewhere a few sentences back and Randi had felt it shift — started to laugh. It came up out of her, the laugh of the absolutely cornered, and she put her face in her hands for a second and then dropped them and gave up.
 
 "Okay," she said, through the giggle, "okay — actually it was really *hot*."
 

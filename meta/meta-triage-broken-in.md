@@ -283,3 +283,11 @@ white-columned house) and `:123` ("small regal" — the incongruity is the joke)
 `there-was-were` mostly dialogue plus the deliberate "there was only the feel";
 `warm` load-bearing or literal (`:189` "cool over warm" is a temperature);
 `x-not-y` at `:173` previously accepted in the cold-read triage.
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:55** cut ", her body knowing where to go a half-second before she did" — she is owning the dance ("the dance had been *good*"), and `lesson.md:113,253` already carry the dance-lag. No mentions of the clause.
+- **:117** "the laugh came up out of nowhere and bent her over, helpless, the kind that doesn't ask permission first." → "her head went back, her throat to the ceiling, and the laugh took all of her." Recalls, without quoting, the head-thrown-back laugh that drew the eye in `the-pointing-game.md:137`, now in front of Randi just after "top off"; removes the near-duplicate of `sorority.md:197` and a "came up out of her". The charge stays on the reader's side — Vee is at R1 and does not register Randi watching.

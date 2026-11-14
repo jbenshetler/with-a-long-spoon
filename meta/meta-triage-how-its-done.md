@@ -286,3 +286,10 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **opus-5-5** — narration reaching for the irony (so far raised only by opus-family readers). `reviews/cold-read/claude-opus-5-5/how-its-done.md:19`: "…sometimes the narration reaches for the irony itself. "The perfect sorority laugh" and "reach for the kinder thing because you want it to be true" tell me what I had already felt. The budget arithmetic at the check (the…"
 - [ ] **opus-5-5** — "Vee tells someone about Pace" pattern. `reviews/cold-read/claude-opus-5-5/how-its-done.md:61`: "…turn, and it feels like the book tightening around Vee. The "Vee tells someone about Pace" beat is getting repetitive (Kayla and Meg, then Cassie, then Randi), but this time the telling itself becomes the event.…"
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:308** cut "before she could decide anything about it," — "came up out of her" already carries it; third "decid" in the chapter. No reader mentions.

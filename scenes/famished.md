@@ -82,7 +82,7 @@ He was careful with his weight until she pulled him in — her heels at the back
 
 He was so hard. He rocked into her in short pushes, drawing back and returning, opening her a little at a time, and her body gave to him and went on giving. She was wet enough that nothing had to be forced — only the steady press past where her body was accustomed to being asked, and then all of him was in her, and there was nowhere further to go.
 
-Then he held there, his kisses stealing the sounds her mouth made without consulting her. He did not move, and she understood he was waiting to be told. What told him was her hips. They had started without her, small greedy movements she had not authorized, and she could no more have called them back than she could have called her body's name.
+Then he held there, his kisses stealing the sounds her mouth made. He did not move, and she understood he was waiting to be told. What told him was her hips, small greedy movements, and this time she did not try to call them back.
 
 After that he moved, and he was in no more hurry here than he had been on his knees. Long strokes, the whole length of him drawn back and returned, every return pressed to the end of her, and he did not vary it and did not rush it, and she lost the count of them early. The room went. There was the soft old cotton and his heat and the good crushing weight she had wanted since the mountain, and the muscle of his back working under her palms with every stroke, shifting under the skin as no boy's she'd been with ever had, and low across his shoulders a band of skin rough as a palm, and the sound of the two of them, wet and rhythmic and unashamed of itself, rising into the plain white room.
 

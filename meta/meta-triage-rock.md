@@ -244,3 +244,10 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **deepseek** — the Ohio-food stretch runs a beat long. `reviews/cold-read/deepseek-v4-pro-0813/rock.md:17`: "…Friction, honestly: the Ohio-food stretch runs a beat long; the spice rack is charming, but it's the second spell of Vee-being-charming…"
 - [ ] **deepseek** — the withheld word leaves Pace's version unchallenged. `reviews/cold-read/deepseek-v4-pro-0813/rock.md:17`: "…word: I honor it as fidelity to "not hers to say," but it also means the boy's version stands on the page unchallenged except by my own arithmetic. I can't tell yet whether that's the book's honesty or its blind spot.…"
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:221** cut "before it was a thought she could have said aloud" — same construction as `:245` (left standing, the desire instance) in one chapter; `:221` is the arithmetic of Pace's past. No reader mentions.

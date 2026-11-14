@@ -362,3 +362,11 @@ Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consens
 reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
 
 - [ ] **deepseek** — the Cassie half. `reviews/cold-read/deepseek-v4-pro-0813/fed.md:9`: "…keeps handing pieces of herself to Randi without noticing she's being collected. The scene with Cassie is sweet but thin: Cassie reads her friend in one look, doesn't pry, and the joke about painting toenails in October is…"
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:11** "The thing her body had done before she could decide to let it." → "The thing her body had done, and how she had let it." The morning after, in the chapter that ends "I wanted it… And I took it." Only neutral authorship-audit mentions.
+- Left standing: **:97** "without ever once deciding to" — praised (glm-5.3, claude-fable-5-1) for the fear flash.

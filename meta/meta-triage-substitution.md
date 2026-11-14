@@ -191,3 +191,8 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 - [ ] **deepseek** — "Your tart's holding up" read against the grain. `reviews/cold-read/deepseek-v4-pro-0813/substitution.md:9`: "…time. And it's froyo."* — and he does not meet it. He says, *"Your tart's holding up."* That's the moment I stopped being charmed by Pace, and started being afraid for her.…"
 - [ ] **opus-5-5** — video-game healer joke. `reviews/cold-read/claude-opus-5-5/substitution.md:19`: "…me twice that this is a man who hands you back the pencil. The video-game healer joke felt dropped in from another book.…"
+
+## Want-arc pass (author 2026-11-13)
+
+### Left standing — do not re-litigate
+- **:195** "The laugh got away from her, the good kind." and **:277** "it got away from her" — the repeat stands; the cup is a designed beat and `:277` runs on into "found she didn't care", one of her first ownership moments.

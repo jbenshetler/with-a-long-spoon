@@ -256,3 +256,11 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   presence unavoidable") read the absence as working. ch11 is Pace and Randi; ch12–14 are
   Vee's, with Randi named once; she returns in {{Famished}} and {{Fed}}. Logged here because
   this is where readers raised it; it covers the ch12–14 stretch.
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin.
+
+### Fixed
+- **:200** cut ", the wanting rising up and out before she could decide to want it" — she has started spending it and choosing; fourth "decide" in the chapter. No reader mentions.
+- Left standing: **:204** "the kind of accident her body kept arranging without consulting her" — deniable agency as she starts spending it; arc-right.

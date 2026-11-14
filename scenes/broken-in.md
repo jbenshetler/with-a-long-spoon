@@ -52,7 +52,7 @@ Randi dropped onto the foot of the bed, pulled her feet up under her — bare, t
 
 "I started one."
 
-It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good*, the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
+It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good*, the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it — and Randi said *of course it was, he can dance, the bastard,* warm, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
 
 "She comes up to me all sugar," Vee said, "and goes, *he's such a great lead, all us girls love him, he's so good about getting a girl home safe at the end of the night.*"
 
@@ -114,7 +114,7 @@ So Vee walked her through it — the green one she'd restyled, rayon, but it dra
 
 "Stop — I can't dress a description. Stand up, top off." Randi flicked a hand. "I have to see what I'm working with."
 
-And Vee lost it — the laugh came up out of nowhere and bent her over, helpless, the kind that doesn't ask permission first.
+And Vee lost it — her head went back, her throat to the ceiling, and the laugh took all of her.
 
 "*What*," Randi said.
 

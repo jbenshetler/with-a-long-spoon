@@ -140,4 +140,4 @@ He wasn't going to take it any further than she had. Whatever came next was hers
 
 She stood in it — the shadow, the quiet, the smell of him a few inches off, the space he'd left her — and let herself want it, longer than she'd have thought she could bear to. Then she leaned in and took it.
 
-This time he met her all the way. He put his hand to her face, and the mint was still in both their mouths, and it was slow, and it went on. The grin came up in her before she could do anything about it, and she went back for more with it still on her mouth, and felt him smile inside the kiss.
+This time he met her all the way. He put his hand to her face, and the mint was still in both their mouths, and it was slow, and it went on. The grin came up in her and she let it stay, and went back for more with it still on her mouth, and felt him smile inside the kiss.

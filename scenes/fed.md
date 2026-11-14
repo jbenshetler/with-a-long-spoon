@@ -8,7 +8,7 @@ Cassie looked up, and for half a second something crossed her face and was gone 
 
 Vee had no bag. She had not been able to pack one. To pack a bag the night before would have been to say the thing to herself, plainly, and she had not been willing to say it, so she had driven over with nothing and woken in his bed with her clothes on the floor and her hair its own wild country, no brush in the house that would go through it, her face bare because there had been nothing to do it with. She'd looked in his mirror and laughed. The smile had been there ever since. It had come back at every red light on the way home.
 
-And the night ran under all of it, a second channel that had not shut off once. His hands. The white sheets. The thing her body had done before she could decide to let it.
+And the night ran under all of it, a second channel that had not shut off once. His hands. The white sheets. The thing her body had done, and how she had let it.
 
 "Was he worth painting your toenails?" Cassie said.
 

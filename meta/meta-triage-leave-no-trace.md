@@ -139,3 +139,8 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   earned. Author: a bit trope-y, but true to life — campus cops are absolute demons about
   parking — and it is caused: Pace parks in "the fire lane, the red-painted curb" (:251) to
   get her to the door out of the rain. Do not re-raise on "device" grounds.
+
+## Want-arc pass (author 2026-11-13)
+
+### Left standing — do not re-litigate
+- **:193** "the heat that knew the voice was right, that wanted to be the very thing the voice said" — praised by glm-5.3 and opus-5-5 (dag-v3) for the shame transmuting into wanting; the only explicit complaint ("spells out a little") is a single chain-era opus read, NOISE by `tools/friction_check.py`.

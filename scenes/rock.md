@@ -218,7 +218,7 @@ Vee went still.
 
 He laid it out in good order, every reason accounted for and set in its slot. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
 
-She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
+She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
 
 She set the mug on the table, turned under the quilt, and fitted herself along his side, her head to his shoulder, her palm flat on his chest over the place the careful voice had come out of.
 

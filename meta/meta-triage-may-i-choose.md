@@ -113,3 +113,10 @@ Misread: glm-5.3 alone (cold read and dag-v3 `gate-ch008.md:11`, `:34`) took Pac
 - Added `:67`–`:73`: Vee asks "You speak — what is that, Arabic?"; Pace: "Hardly. I know *nine* words. Seven are food. The other two are *thank you* and *the check, please*." They laugh, her laughing setting him off; Vee: "Without you, I'd have ordered hummus — twice!" Purpose: Pace charms her by owning his limits (self-deprecation, against reading too alpha). Christine stays color — the beat is theirs, not hers.
 - Cut: Pace asking what she'd have ordered without him — it reads as *look how important I am*, the opposite of the beat. The hummus-twice line moves to Vee's mouth (praised by muse-spark-1.3, kept). "her asking, mostly, and him answering" kept, now closing `:73`.
 - `:75` "Then it came" → "Then the food came" (antecedent now past the dialogue).
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; what changes is whether the want, once it reaches her, is hers.
+
+### Fixed
+- **:143** "The grin came up in her before she could do anything about it" → "The grin came up in her and she let it stay". Directly after her first choice (`:129`, "I'm making an exception"), the grin is owned; also removes the tail shared with `see-you-later.md:31`. No reader mentions.
