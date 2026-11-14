@@ -2034,6 +2034,13 @@ text = "Her playlist was still going, low, down in the front rooms — Sade, smo
 note = "Canon: Randi's music-lane signature — the Art-Deco warmth-under-gloss (Sade)."
 
 [[ok]]
+fp   = "d6a8c50cf311"
+rule = "filter-verbs"
+file = "scenes/grace.md"
+text = "And he bent the last inch and laid his mouth to her there, on the bare rise of her, a kiss, slow and closed and reverent, his breath spreading hot, and she felt it go all the way up through her and heard the broken sound come out of her own throat, and her hands came down to his shoulders to keep from going over."
+note = "re-armed by 'came out of her' pass edit 2026-11-14; author acked"
+
+[[ok]]
 fp   = "2bf5c5757059"
 rule = "gold-light"
 file = "scenes/grace.md"
@@ -2046,6 +2053,13 @@ rule = "gold-light"
 file = "scenes/grace.md"
 text = "He had carried pastries up the mountain too, wrapped in waxed paper and gone a little flat from the trip, and they ate them out of their laps on the top step where they'd had the cider, with the meadow blazing white-gold under the early sun and the frost still holding blue in the long shadow the cabin threw."
 note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
+
+[[ok]]
+fp   = "14207f7fdd35"
+rule = "the-way"
+file = "scenes/grace.md"
+text = "And he bent the last inch and laid his mouth to her there, on the bare rise of her, a kiss, slow and closed and reverent, his breath spreading hot, and she felt it go all the way up through her and heard the broken sound come out of her own throat, and her hands came down to his shoulders to keep from going over."
+note = "re-armed by 'came out of her' pass edit 2026-11-14; author acked"
 
 [[ok]]
 fp   = "3fb15f593011"
