@@ -1,0 +1,47 @@
+*capture-dag-v3-grounded · gate ch066 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha 5789c52a9ac6 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed d56d1cf73f25 · 2026-11-12*
+
+REACTION — “That he took her weight seriously.” Oh, that got me before anything erotic did. Pace collars the tiny plates, places Vee’s hands and feet with the same care he gives his own enormous lift, and never lets the smallness of what she can carry diminish the seriousness with which he receives it. I understand exactly why desire begins there. He does not flatter her by pretending the weight is large. He makes her effort matter at its actual size.
+
+And he has already calculated what she cannot hold. He lifts only what he can safely rack without her, so she never discovers through catastrophe that she was made responsible for saving him. That is such a precise expression of love from this particular man: not telling her she is safe, but quietly refusing to build a situation where his safety depends on strength she does not have. It is also the opposite of the hidden emotional structure he and Randi have built around her, where she is responsible for choices whose true weight they have never shown her. I could not stop feeling both things at once.
+
+The accident frightened me properly. The joke, the uncollared plates, the bar pitching, Vee twisting beneath her own weight—it happens with the awful speed of a thing that cannot be reasoned with once it begins. Pace’s anger worked on me because he names the harm without turning it into a masculine contest: “You hurt her. Your carelessness hurt her.” And making them apologize to Vee rather than to the large man whose anger scares them was exactly right.
+
+But I noticed that Vee’s forgiveness did not release them; Pace’s face did. She says she is fine, calls it an accident, and the boys still wait for his verdict. Some of that is simply frightened young men looking toward the person who commands the room, but it left a small bad taste under the satisfaction. Pace restores Vee as the person owed an apology, then remains the authority whose permission actually ends the encounter. I do not think he intended to overrule her. The room did it for him because he was the biggest, coldest man in it.
+
+And then he knows she is hurt before she does. This is precisely the Pace problem and precisely why I love him. Her mouth says fine because she wants the attention to stop; he reads the hand at her neck, the movement, the injury arriving underneath the adrenaline, and ends the workout without arguing with her account. He does not say, *I know your body better than you do.* He simply acts on the practical fact that continuing would harm her. For once his superior reading does not become a theory of her authentic desire. It becomes a jacket, a shower, medicine, a careful drive, and “we’re done.”
+
+God, the drive. Both hands, gentle lane, every bad patch anticipated. The road remains the road and he cannot undo what happened, but he carries her as though care might still reduce the next inch of pain. That landed especially hard after the reckless driving scenes. Here attention is ballast again.
+
+The undressing and massage were almost unbearably intimate because Pace asks for nothing from them. Vee cannot lift her arm, so he removes the shirt and bra without making her dependence erotic. He warms the house while she showers. He takes the weight of her spine so the injured body can stop defending itself. Of course she wants him. Being taken seriously at the bench, protected without being infantilized, and tended without debt are all part of the wanting. Nothing about that desire felt installed or mysterious to me.
+
+Then the balm, and yes, this was ferociously hot. The delayed burn is a wicked erotic mechanism: cool first, then warmth, then the future arriving down her body while Pace’s hands make pleasure in the exact places that will soon ignite. Vee knows what is coming and keeps choosing it as it comes. The crucial beat is not her breast tipping into his hand “for her,” which made me groan with irritation. It is her catching his wrist after he withdraws, placing his palm back on her breast, and then explicitly saying yes twice when he still refuses to proceed on bodily invitation alone.
+
+That second yes mattered enormously. Pace has every physical signal he could want: she pulls him back, presses into him, guides his hand, raises the other breast toward him. He still asks. “Even with the word already given, he would not take it on the strength of her body alone.” Thank you. That is the distinction I have wanted this book to preserve almost from the beginning. Her body can invite; her hands can direct; but Pace waits for the woman to answer. The scene becomes hers not because her nipple hardens or her hips move, but because she says what she wants and continues choosing it while fully aware of the approaching fire.
+
+I was startled by how much the asymmetry of the two breasts got me. One burning, one spared; mercy offered physically before she rejects it. Pace does not assume that asking for one means asking for both. Vee understands what he is withholding, refuses the safety, and asks for the full experience. That is daring as appetite, not something done to her.
+
+The narration still cannot stop itself. His thighs “happened to her on their own.” She leans into the massage without deciding. Her breast tips into his palm because her body does it “for her.” Her hips move before she can stop them. We do not need any of this to prove desire. Vee spends the chapter choosing Pace repeatedly: accepting the invitation, copying his movements, pulling his hand back, placing it on herself, saying yes before he asks, repeating yes after he asks, pressing his hands closer when she could retreat. Her agency is not less erotic than involuntary response. It is the hottest thing here.
+
+And then he refuses the orgasm. That could have landed terribly—especially after the pleasure-for-confession game and Vee’s belief that once she says yes she loses the right to redraw a line—but it did not feel punitive or controlling to me. Her neck has already flashed white when she tries to arch. He does not tell her she secretly does not want the finish; he says her injury cannot safely pay its cost tonight. “We need to wait.” We. He makes the frustration shared even while he alone is physically capable of stopping it.
+
+I believed her fury. I felt it. Being held exactly below completion while he remains hard against her, refusing both his own relief and hers, is nearly cruel in its precision. And still it is care. He does not remove his hands and abandon her with the fire she requested; he changes their work, banks the heat, holds her through the helpless complaint, and accepts that she may hate him for the gentleness. That is a profound turn in the bond: Pace uses his control to protect a limit imposed by injury, not to expose the “real” desire beneath Vee’s words.
+
+The ending left me aching rather than cliff-hung. She carries home the unfinished touch, and Randi is conspicuously absent from the whole chapter except as “girl time” she is not getting. The Saturday that would have belonged to Randi becomes entry into Pace’s most private bodily practice, followed by pain, care, and an erotic experience deliberately left incomplete. I badly want to know where all that unspent wanting goes. Given Vee, it is not going quietly anywhere.
+
+GATE 66 — Burn
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “Her body did it for her, tipped her breast up into his palm as it had tipped her toward the weekend a hundred times in the back of a lecture hall, ahead of her.”
+WHY: Pace refuses to treat Vee’s bodily invitation as sufficient and waits for her explicit yes before giving her the burn she knowingly chooses. His later refusal to let an orgasm worsen her injury is exquisitely frustrating care, and I need to know where Vee carries all that unfinished wanting.
+
+LEDGER
++ LOVE: Pace collaring Vee’s tiny plates and giving her small weight the full seriousness of his attention.
++ LOVE: “We need to wait”—Pace making the denied finish a shared limit, then holding Vee through the frustration without abandoning the fire she chose.
+~ F1.1 SHIFTED: Pace reads Vee’s injury before she can admit it, but uses that knowledge only to stop further harm; when desire enters the care, he refuses to treat her body as the answer and waits for her spoken yes.
+~ F29.3 SHIFTED: The narration still repeatedly places Vee’s body ahead of her choice, but Pace explicitly rejects bodily response as sufficient and asks whether she wants him to continue even after she has physically pulled his hand back onto her.
+~ F59.1 SHIFTED: Vee chooses the burn second by second and could pull away, while Pace demonstrates that an earlier yes does not authorize everything—he preserves one breast until she asks for both and later stops the scene when injury changes what continuing would cost.
+~ G52.1 SHIFTED: Pace’s careful driving cannot undo the earlier reckless scenes, but here he uses both hands and every bit of attention to reduce the pain of carrying an injured Vee home.
+~ L57.2 DEEPENED: Vee once learned Sheri’s full-weight hug and gave it to Pace; now Pace gives her the inverse, taking the full weight of her injured body so she can stop holding herself up.

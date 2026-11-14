@@ -1,0 +1,44 @@
+*capture-dag-v3-grounded · gate ch065 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha 96ed2f3b6f34 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 31ed1f734493 · 2026-11-12*
+
+REACTION — Oh, she showed her the photograph. The one thing Vee had decided would remain hers, the one erotic boundary she formed before the dance, and she gives it up because she convinces herself that withholding it would be proof she has made Randi sexual. That logic frightened me more than simple pressure would have. Vee now believes a friend would hand over the image and only a “sex pervert” would protect it—so the very fact that showing Randi means something becomes the reason she must pretend it means nothing and show her anyway.
+
+And Randi knows exactly what she is doing. “I wasn’t going to let you skip the pleasure over a moment of pain” is a full confession: she understood the pain mattered to Vee’s decision, withheld it deliberately, and still considers the beautiful result proof that she was entitled to manage Vee across the threshold. She is not sorry. The chapter lets her be lovely while she says it, and I was furious. This is Pace’s method stripped of even his careful question: Randi already knew which future Vee would supposedly prefer and edited the route accordingly.
+
+Then the foot. God. The foot story is funny and charming and may even be true, but five minutes later Randi has taken off her own shoe and put her toes directly against Vee’s newly bare sex through the pants while asking how Pace painted her. That is not accidental contact, and it is not friendship becoming sexual only because Vee is a pervert. Randi initiates it, watches Vee catch the foot, and leaves it in Vee’s hands while drawing out the brush, the bristles, the wetness, the prickling. Vee’s thumb stroking Randi’s nylon-covered toes absolutely got me. So did Randi’s foot flexing in her hands. This entire conversation is sex conducted under a table with grammar providing deniability.
+
+“I wish I could have seen it” is almost the direct statement I have wanted from Randi: not what Pace saw, not what a hypothetical man would want, but Randi wanting to see Vee open and painted. And Vee wanted her to see. That is the devastating part. Pride and heat rise together as she imagines Randi reading every visible fact of her appetite, and she hands over the phone because being known by this particular woman is part of the desire. The showing is not freely clean—the friendship test corners her—but the wanting inside it is real.
+
+Randi’s response to the photograph was ferociously hot. The long silence. “Miss November.” Naming every taste. “I’d hang that over my bed.” She does not recoil from Vee’s abundance or turn it into something Pace merely enjoys; she wants the image in her own private room, above the place where she sleeps and has sex. That is a declaration, however deniably phrased. And Vee’s knees close around it because she hears what it means.
+
+But Randi had Vee’s unlocked phone, open to a private album containing exactly two photographs, for the entire bathroom trip. She was still bent over the lit screen when Vee returned. Maybe she only stared at the still life. Maybe. But I remembered the first nude, the one Randi pressured Vee to uncrop, and I do not trust that she did not swipe. The possibility of Randi moving through Vee’s private images while Vee masturbated ten feet away made my skin crawl.
+
+The orgasm itself leaves no room at all. Vee does not merely picture generic female hands or use Randi as permission to want something with Pace. She imagines Randi coming up from between her thighs with Vee’s wetness shining on her ruined lipstick, refusing to wipe it away, and kissing it back into her mouth. Then the question is not only what Vee tastes like but what Randi tastes like underneath her, and that exact thought sends her over. This is specific queer desire, consciously elaborated even if Vee still refuses its name. The unfinished reach has become a kiss she can imagine accepting only from Randi.
+
+And Randi knows afterward. Of course she knows. Vee has washed twice, repaired her face, flattened her hair, and still Randi looks at her with dark wet eyes and no smile. Vee reads sadness as proof she has wronged her friend by sexualizing her, but I read Randi sitting there holding the photograph while the woman she loves goes to come alone. Jealousy, grief, exclusion, desire—probably all of it. She wanted to see Vee like that and then had to sit ten feet away knowing Vee was touching herself. The sadness is real. It is also created entirely by Randi’s refusal to tell Vee what she wants.
+
+The parking-lot kiss made me angry. Vee gives a closed mouth, withdraws when Randi tries to open it, and moves out of reach. That is perfectly clear. Randi asks whether something is wrong, refuses the answer, says “Let me say goodbye right,” takes Vee’s face in both hands, and performs the entire ritual again until Vee softens. Yes, Vee wants the kiss. Yes, she holds Randi’s coat and is glad not to leave her uncertain. That does not make Randi’s insistence acceptable. This is the second time in a week Vee has tried to restrict the goodbye and Randi has used intimate knowledge to get the fuller response she wanted.
+
+And Vee leaves believing she has to control herself. Not that Randi touched her through her pants, wanted the photograph over her bed, recognized what happened in the bathroom, and insisted on an open kiss after Vee withdrew. Vee thinks her own “sex brain” is manufacturing all the danger. That is the most poisonous effect of Randi’s deniability: Randi can initiate nearly everything, while Vee experiences herself as the one contaminating a friendship.
+
+“Starting now” is not going to work. She has already consciously refused a kiss and been kissed around the refusal; dressed to hide and still handed over the most exposed image she owns; tried to keep the friendship nonsexual and climaxed imagining Randi’s mouth carrying her own taste. The desire is not a bodily glitch she can discipline away. But I badly need Vee to understand that she is not the only woman making this sexual—and that wanting Randi does not obligate her to surrender every boundary Randi presses.
+
+GATE 65 — Gesso
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “I wasn't going to let you skip the pleasure over a moment of pain.”
+WHY: Vee climaxes from the specific fantasy of Randi bringing Vee’s own taste back to her mouth, so her desire could not be clearer or more fully her own. But Randi admits she deliberately concealed pain, obtains the photograph Vee meant to keep, and insists on redoing a kiss after Vee withdraws; Vee leaves blaming only her own “sex brain,” and I urgently need that false account to break.
+
+LEDGER
++ FEAR: Vee will treat every boundary around Randi as evidence that she has perversely sexualized an innocent friendship, while Randi keeps initiating contact and using “friend” as cover to press past the boundary.
++ SUSPICION: Randi may have swiped to Vee’s first nude while she held the unlocked phone alone, open to a private album containing only two photographs.
+~ G59.2 DEEPENED: Randi openly admits she withheld the truth about the waxing because she had already decided Vee’s future pleasure mattered more than Vee’s informed choice.
+~ W5.4 DEEPENED: Randi says she wishes she could have seen Vee painted and would hang the photograph over her bed, but still addresses desire through the image rather than honestly asking Vee for herself.
+~ F29.3 DEEPENED: The narration again gives Vee’s body the first “answer,” but the decisive erotic fact is her sustained, specific fantasy of Randi tasting her and kissing that taste back to her.
+~ S51.4 SHIFTED: Vee’s first firm decision to keep the still-life photograph private collapses when she recasts privacy as the “sex-pervert” choice, though she still withdraws from the opening kiss in the parking lot.
+~ W54.2 DEEPENED: Vee still cannot close the reach with her own fingers, but she can imagine accepting her taste from Randi’s wet mouth, and that chosen image brings her to orgasm.
+~ L61.1 DEEPENED: Vee’s conscious desire for Randi now includes Randi’s mouth between her thighs, Randi carrying her taste, and curiosity about Randi’s own taste beneath it.
+~ G63.1 DEEPENED: After Vee gives a closed mouth, withdraws from the opening kiss, and moves out of reach, Randi again treats the boundary as something to correct and takes her face in both hands to “say goodbye right.”
+~ W64.2 ANSWERED: Saturday brunch makes the answer unmistakable in Vee’s fantasy and orgasm—she wants Randi specifically—but she leaves determined to discipline that desire rather than name it.
