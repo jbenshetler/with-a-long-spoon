@@ -112,7 +112,7 @@ Vee's mouth had gone dry. "In a strange bedroom? Anyone could have walked in."
 
 The picture came into Vee entire. Her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
 
-She was on her feet before she had decided to stand. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
+She was on her feet. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
 
 "Do what you need to." Randi was already lifting her glass, easy, no curiosity anywhere in it, as if she had said nothing at all.
 

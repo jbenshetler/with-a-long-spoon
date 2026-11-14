@@ -236,3 +236,19 @@ swerve, the descent to her feet, *Bad slave*, the deferrals after), the toe cere
 ## Palate-thread pass (author, 2026-10-30)
 
 - **`:59` "six weeks had not made it smaller" stands** — read as six weeks *apart*, not six weeks since she last watched him cook. (The 2026-08-19 count from {{Under the Rug}} predates {{Nothing Underneath}}'s midnight pancakes, which she watches the night before.) Being glad of his kitchen again the morning after is not overselling: {{Old Acquaintances}} `:41`–`:43` makes the kitchen table the thing she lost. Thinning went to {{Nothing Underneath}} `:119` instead.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P4: she runs the scene ("Slave. Mine. Lower."; "the command was given"). A dozen permission-lags before the protected climax (`:185`–`:203`) were out of stage and spent the clench in advance. 24 → 17. No reader mentions of any cut clause.
+
+### Fixed
+- **:131** cut "without asking" (two lags in one sentence; "her spine answered before she did" stays).
+- **:137** cut "without her" ("the need had gotten ahead of the performance" stays — her urge outrunning her own game).
+- **:139** cut "without deciding to" — "giving his palms more of her" is hers.
+- **:145** cut "before she'd decided anything of the kind" — "*At last,* she thought."
+- **:175** cut "of their own accord" — "her hips tilted to chase it."
+- **:151** "Her hips had begun to move on their own, small tilting pleas her dignity no longer voted on." → "Her hips had begun to move in small tilting pleas, her dignity long past caring." Vote rationing (Vol 3 had six; `:185` protected sits 34 lines on); shame no longer matters — P4, in her voice.
+- **:179** cut "without her" from "Her arms went around his neck."
+
+### Left standing
+- **:167**, **:169** — the triggered regression (being heard); **:183** — sets up the taste.

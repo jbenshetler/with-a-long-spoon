@@ -192,3 +192,10 @@ The book was repeating "her palate woke up" in near-identical words across Book 
 ## Fact audit (author, 2026-10-30)
 
 - **`:95` "couldn't hear herself say it to her mother" stands** against {{Cropped}} `:35` ("I told them he was my boyfriend. I think I put a question mark on it."). Flagged MEDIUM by gpt-5.6-sol (`audits/fact-audit/gpt-5.6-sol/under-the-rug.md`). She said it once, as a question; now it won't come at all — "the word gone small and wrong" is that question mark. Not a contradiction; do not re-flag.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P3: the want owned, the word stalls; the lag belongs on the naming.
+
+### Fixed
+- **:83** cut "with no say from her in it" — contradicts `:81` "as she let it"; eighth no-say in Vol 2. Sole complaint gpt-5.6-sol queer-woman; no praise of the clause.

@@ -406,3 +406,13 @@ The book was repeating "her palate woke up" in near-identical words across Book 
 
 - **`:121`** cut "like nothing she could have named, only better" ("nothing out of a box or off a diner griddle… made and not poured" stays). **`:123`** "I feel like I haven't eaten anything real…" → "I missed this," she said. "You, doing that." — care, not palate; one capture reader read the old line as a weight alarm.
 - **`:119`** (walk of the watching-him-cook beats): "and watched, mesmerized, as she always was by the sight of him" → ", mesmerized by the sight of him". `:117` already has "watched him work"; the habit marker went with {{The New Ordinary}} `:47`. `:117` "She took a chair and watched him work." → "She took a chair." (author: the mesmerized clause *is* the watching; it now names it once, after the procedure). Added after it (author): "He looked at her a long moment, and a smile came up in his face as he did, slow, the kind he hardly ever let out, and he carried it back with him to the stove." — sets up `:119`'s "his smile" as aimed at her. Then (author) the second sentence cut — "This, more than almost anything, was what she'd missed over the break, a warm room and this man making her something with his full attention." Three *missed* in ten lines (`:119` narrated, `:123` hers, `:127` his) and `:129` restates it ("the food and the warmth… his care"); the `:123`/`:127` exchange is the payoff. The warmth moved into the kept sentence ("…her chin in her hand while the room and his smile warmed her, mesmerized…"): it answers {{Old Acquaintances}} `:7`, the chilled girlhood room, and ends this chapter's run of cold (`:43`–`:89`). Not overselling against {{Missed a Spot}} the next morning: the kitchen is what {{Old Acquaintances}} `:41`–`:43` took from her.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P4: agency — she carries her body to him because the words failed.
+
+### Fixed
+- **:43** cut "on its own" from "her hand left the wheel on its own" — `:45` has her reach deliberately; "at some point" keeps the lag of awareness.
+
+### Left standing — do not re-litigate
+- **:45** "the far-off sensible part of her … could not have made her stop for anything short of God" — the road-safety complaint is gpt-5.6-sol across cold/fsog/romance-graduate/queer-woman lanes (one model family; personas share a prompt). glm-5.3's cold read accepts it ("reckless and a little heightened, but… something true"); gemini-4-argon, gemini-4-carbon and gemini-3.8-flash are thrilled; the Claude lanes object only to the cruiser as a device. Author: she is taking an emotional risk, and a normally safe Vee being physically reckless with it is in character; the complaint reads as safety training, not a reader reaction.

@@ -59,3 +59,10 @@ re-list cut (:29); "And the strange thing is," cut (:35).
 ## Confirmed positives — protect in any future edit
 
 All four readers, independently: the title's crop-extends-to-biography mechanism; "Sex he understands. The sewing he never would."; "weird is worse than wrong"; the collarbone exchange (reviewed as "You know the one." / "I know the one."; reworded 2026-07-30 to "You know how she does." — the echo shape is the protected element); the ending couplet ("Both. Probably both." → "Vee was grateful. She was also, a little, not."). Vee's inability to name Pace and Cassie's unpushed door landed exactly as designed on all four readers — working as designed, no fix wanted.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P3: the want owned, the word stalls; the lag belongs on the naming.
+
+### Fixed
+- **:115** cut ", before she had decided to think about anything at all" — repeats `:103` (praised); the thing without a name is the stall. Only a neutral sol authorship-audit mention.

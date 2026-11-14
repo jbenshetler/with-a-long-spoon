@@ -112,7 +112,7 @@ Later — after he had moved them inside, after the coffee had been refreshed, a
 
 And yet.
 
-Two days later, in the dorm laundry room with her clothes going around in the dryer, his sentence came back to her. *I love how good we are together.* Her body did a small thing it did not have a name for, before she had decided to think about anything at all.
+Two days later, in the dorm laundry room with her clothes going around in the dryer, his sentence came back to her. *I love how good we are together.* Her body did a small thing it did not have a name for.
 
 She sat on the folding table and ran it again. Her sentence, then his. Hers had been about — she had been trying to say. And his had been about. The two things had not been the same shape. She let the *not the same shape* form in her and then she did not finish the thought, because either end of it hurt. *Maybe he understood and chose to say it like that. Maybe it had gone past him entirely.* She could not test it. Testing it meant saying the words, and the words went through him first.
 

@@ -166,3 +166,10 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   placeholders render self-evasion; "frank, open pleasure" is reader-praised.
 - **Line edit — "The saying of it"** (:33): kept. The nominalization makes the
   telling physical before Randi's next question presses Vee to continue.
+## Want-arc pass (author 2026-11-13)
+
+### Fixed
+- **:115** cut "before she had decided to stand" — `:113` already motivates the standing ("could not… sit still around it"); TASTE (claude-fable-5-1: "I've read this one"); second arousal-to-bathroom stand-up after `practice-room.md:115`.
+
+### Left standing
+- **:121** "her body so far out ahead of her permission" — acked in style-allow; R1 + shame, stage-right. Its later echo `covering.md:259` is handled in Vol 3.

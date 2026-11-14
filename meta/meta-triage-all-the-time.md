@@ -216,3 +216,10 @@ dread going forward: the photo now living in Randi's memory, the Anthro class
 as on-ramp, and whether Randi reports to Pace.
 
 **Photo-to-brunch interval left as is (author ruling 2026-10-25).** In the dated-heading capture test, readers in both arms took Randi's "two *weeks* old" (`all-the-time.md:97`, about the older pictures) as the age of the In His Hands photo (Thu Nov 12; brunch Sat Nov 14). "Since the morning after" (`:103`) stays unpinned: nothing later depends on the photo's age.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P3: the want owned, the word stalls; the lag belongs on the naming.
+
+### Fixed
+- **:55** cut "before she could help it" — second lag in the paragraph (the other left standing); appetite owned aloud in this chapter. No mentions.
