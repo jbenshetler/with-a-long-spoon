@@ -86,7 +86,7 @@ The form was correct. Correct was the whole of what it was for.
 
 "Of course," Randi said.
 
-The brightness went out of her voice, and what came in under it was lower, and worried. Randi couldn't say where the sorority ended and the girl began in Brooke, not now, not ever. "I didn't want this to be a docket," Brooke said. "I want you to know I held it off as long as I could."
+The brightness went out of her voice, and what came in under it was lower, and concerned. Randi couldn't say where the sorority ended and the girl began in Brooke, not now, not ever. "I didn't want this to be a docket," Brooke said. "I want you to know I held it off as long as I could."
 
 Brooke drew the papers from a fresh manila folder — Randi's name on the label — and set them neatly on top of it. The folder was new, and it had been opened for her, and her name was on the tab; Randi took that in before she took in a word of what was on the page.
 
