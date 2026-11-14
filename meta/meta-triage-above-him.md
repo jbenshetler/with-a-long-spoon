@@ -487,3 +487,8 @@ The book was repeating "her palate woke up" in near-identical words across Book 
 
 - **Reversal of the 2026-08-10 left-standing ruling on `:81` "She had used to just eat."** The tasting run is cut: it pre-empted {{The New Ordinary}}'s discovery (this chapter falls a week earlier, against `meta-condensed-in-his-hands.md`'s own intent). The praised line moves there as Vee's spoken "I used to just *eat*." `:81` is now the spoon beat: he blows on each taste and corrects the dish off her face.
 - **`:77`** watching line recast: "He cooked with his head tipped a little toward the pan, listening, and she sat back with her wine and watched him wait on it."
+
+## Want-arc pass (author 2026-11-13)
+
+### Fixed
+- **:15** cut "with no say from her," — seventh of the no-say/permission family in Vol 2; "spent as she was" carries the involuntary. No reader mentions.

@@ -116,7 +116,7 @@ He let her run. He was easy about it, answering when she left him room to. And t
 
 It happened again a minute later — his hands gone still, his eyes on her face. So she put both palms on his chest and pushed him down onto the bed and came up over him, a knee either side, and got her face down into his neck where he couldn't see it. She reached back and found him and worked herself onto him in short sinking pushes, taking a little and giving it back and taking more, until she was all the way down and there was nothing of him left outside her.
 
-It solved one thing and made another. Down here there was nothing for him to look at. But her back ran up and open into the low light, and his hands came to her without hurry, one to each side, warm and flat, settling just under the place — and her whole body jumped, one hard jolt she had no say in. He noticed. She felt him notice. He said nothing, and his hands stayed where they were.
+It solved one thing and made another. Down here there was nothing for him to look at. But her back ran up and open into the low light, and his hands came to her without hurry, one to each side, warm and flat, settling just under the place — and her whole body jumped, one hard jolt. He noticed. She felt him notice. He said nothing, and his hands stayed where they were.
 
 "Two minutes," she said into his neck. "That's all I asked for."
 
@@ -160,6 +160,6 @@ Monday came at her sideways. Her body knew when to wake; it kept a clock set for
 
 She went into the bathroom to do something with herself and stopped. Her hair, two nights slept on and washed in his shampoo and combed with nothing but her fingers, had become a thing with its own weather, and she had nothing to put it up with, nothing to pull it back, nothing of hers anywhere in the small ordered room. She stood looking at the fright of it and felt her eyes go hot, stupidly, over hair, over the time, over all of it.
 
-He came to the doorway drying his hands, and saw her face, and asked her what was wrong. It came out in a rush, the clock and the dorm and the dress and no time and look at me, look at my hair, I can't, and she heard how small it was even as she said it and could not stop saying it.
+He came to the doorway drying his hands, and saw her face, and asked her what was wrong. It came out in a rush, the clock and the dorm and the dress and no time and look at me, look at my hair, I can't, and she heard how small it was even as she said it.
 
 He didn't tell her it was fine. He crossed the little room and swept the wild hair back off her face with one hand, gathering it at her nape and holding it there a second the way you hold a thing you mean to keep, and bent and kissed her once behind the ear, where the hair had been, and said it against her skin. "You're always beautiful." Not *you're beautiful*, which she'd have argued. *Always.* She stood inside it as long as she could afford to and a few seconds past that, and then she went.

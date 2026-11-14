@@ -231,3 +231,8 @@ See the `fluorescent-site` rule in `style/style-rules.toml` — an info-level
 **site check, not a ban** (`rock:127`'s high-school gymnasium and
 `under-the-rug:43`'s cheap bright restaurant were both kept for the same
 reason).
+
+## Want-arc pass (author 2026-11-13)
+
+### Left standing — do not re-litigate
+- **:115** "a soft wet heaviness she had no vote in" — the book's first vote figure; Vol 2 carries only two (`all-the-time.md:105`). Rationing of the vote family lands in Vol 3. The vote → proof (`:121`, protected #33) → hand → refusal run is the R1 arc in one sequence.

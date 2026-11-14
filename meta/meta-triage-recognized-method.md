@@ -229,3 +229,14 @@ once the `:91` reflex use was cut.
 ## Weekday fix (author 2026-10-11)
 
 - **:127 "He was not like Friday. Friday had been…" → "Saturday".** The door-opening night is Sat Oct 24 per the chronology; Friday is the night she does not come ({{Space}}).
+
+## Want-arc pass (author 2026-11-13)
+
+Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy order follow the arc → vary the imagery → thin. This chapter is the triggered regression (the response seen); the lag stays.
+
+### Fixed
+- **:119** cut "she had no say in" — sixth of the no-say/permission family in Vol 2; the jolt and "He noticed. She felt him notice." carry it. No reader mentions.
+- **:163** cut "and could not stop saying it" — second "couldn't/could not stop" in the chapter (`:55`); "how small it was" stays (Console: voice regresses down). No reader mentions.
+
+### Left standing
+- The voice cluster `:55`, `:123`, `:131`, `:139`, `:147` — the Console regression rendered, each image distinct.
