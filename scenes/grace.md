@@ -216,7 +216,7 @@ Then he stood, and stepped back, and she felt the loss of his nearness as a kind
 
 The flannel over her eyes had gone damp, and she could not have said when, or quite what it was that had brought it on.
 
-His voice had come back down to its low register, near her, not touching her, and she felt the whole front of her body lean toward where it was without deciding to. She was still wet from his mouth, still open from it, the ache he'd built sitting low and heavy in her and asking to be finished.
+His voice had come back down to its low register, near her, not touching her, and the whole front of her leaned blindly toward where it was. She was still wet from his mouth, still open from it, the ache he'd built sitting low and heavy in her and asking to be finished.
 
 "You're all worked up," came his hoarse voice. "Do you want relief?"
 
@@ -230,11 +230,11 @@ She waited inside it, certain it would give. This was a held breath, that was al
 
 It didn't give. The silence held past the length of any held breath, until she understood—a tightening through her—whose hands he meant. Her mouth opened on a question and there was no question she could make herself say; she had no word for the thing he was asking. A small sound came out of her instead, mortified and needy, and she looked to the left and then to the right with sightless eyes, searching for a savior.
 
-He didn't help her. He didn't move, didn't fill the silence, didn't take it back. He only waited, and the waiting was its own pressure, gentle and total, and under it the ache went on without her leave, building on what his words and his hands and his mouth had left unfinished, until standing still cost her more than reaching for herself would.
+He didn't help her. He didn't move, didn't fill the silence, didn't take it back. He only waited, and the waiting was its own pressure, gentle and total, and under it the ache went on, building on what his words and his hands and his mouth had left unfinished, until standing still cost her more than reaching for herself would.
 
 "Show me," he said, very low.
 
-And her hand went. It went before she had agreed to send it, the way the wet came, the way everything in her body had gone ahead of her all night. But there was no body in front of it to follow now, and it hung a moment in the dark and fluttered, not knowing where to land, before it found her.
+And her hand went. But there was no body in front of it to follow now, and it hung a moment in the dark and fluttered, not knowing where to land, before it found her.
 
 She started where he had started. Her fingers went to her collarbone first and traced down from there, down the line of white the sun never reached, following his own path, and for the first time in her life she felt her own body the way he must have felt it: the full warm weight of her breasts when she gathered them in her hands, heavier and softer than she had ever bothered to notice, the heat coming off her own skin, the give of it under her fingers. She found the pale slope he'd called milk and traced it inward to where the skin drew up tight and pebbled, and took her own nipple between her fingers and felt it stiffen, hard, as it had for him. She understood, touching herself like this, a little of what had kept his hands on her. Her fingers went down over the soft rise of her belly to the bare smooth skin below, and traced the seam of herself with the same light touch he'd used, barely there, all promise. She brought a hand around to the curve of herself behind and tried to do what he had done back there, and it was nothing, a flat pat against her own skin that her body knew was coming before it landed, and she understood, with a small absurd lurch close to laughter, that you can no more spank yourself than tickle yourself, that some of what he gave her she could not give herself, that it had needed him.
 

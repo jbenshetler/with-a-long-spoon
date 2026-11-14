@@ -54,9 +54,9 @@ She did not go straight there. She looked at the pool first, the stupid turquois
 
 The tan lines. That was the thing. Not the rest of it — the rest of it she had half expected, had known was under there in the general way you know what is under a friend's dress — but the white of her where the sun had not been, the hard bright edge of it against the brown, the fact of a boundary. Somebody had drawn a line on Randi with the sun and Vee could see exactly where it was.
 
-Her hand had gone down before she had put it there. That was how it went: the hand first, already warm, already flat against herself over the fabric, and then a half-beat later the part of her that might have had something to say about it arriving and finding the matter settled.
+Her hand had gone down before she had put it there, already warm, already flat against herself over the fabric.
 
-She was slick. She had been since the second picture, and she had not noticed the arrival of it, only that when her fingers got there it was already done, the fact of her waiting for her, arrived without a vote.
+She was slick. She had been since the second picture, and she had not noticed the arrival of it, only that when her fingers got there it was already done, the fact of her waiting for her.
 
 She thought, clearly, with her hand where it was: *this is my best friend.*
 

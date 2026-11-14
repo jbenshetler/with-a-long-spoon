@@ -8,7 +8,7 @@ She almost laughed it off. The gym was his — four mornings a week, sometimes a
 
 "Come see what I do," he said, "while you have your girl time."
 
-Offhand. As if it were nothing. She wanted to go, she found — more than she'd have guessed — and said yes before she'd finished deciding to.
+Offhand. As if it were nothing. She wanted to go, she found — more than she'd have guessed — and said yes.
 
 Saturday morning he drove her out to the industrial end of town, to a long cinderblock building painted white so far back it had gone the gray of anything that lives beside a highway. The ceiling went up and up on steel girders, too high for what happened under it, built for some other work — a warehouse, a shop for machines the size of rooms. Along one wall ran a line of high bay doors, the rolling kind a truck backs up to, and they were newer than all the rest of it, blue fiberglass, bright and wrong against the old block. She and Pace went in at the side, through a plain heavy metal door with a bar across it and a faded sign for a fire exit.
 
@@ -58,7 +58,7 @@ She went down into it with his hands reading her, and up, and it was hard and it
 
 Nearly. She caught the shape of it a half-second before it went wrong, a glass already off the edge of the table with no time in the seeing to do anything but see it fall. The boys had started their set. One was down under his bar and the other said something to him with a laugh in it, *you want it in the butt,* and there was the smack of a hand, and the one squatting jerked and laughed and came up crooked, and his bar tipped. A plate came off the low end of it away from her and hit the floor with a flat enormous bang, and the bar with the weight gone off one side pitched the other way and threw its plate loose toward her, and it came down and rolled, iron over that flat old carpet, into her cage, to her feet.
 
-She flinched. That was all it took. Under the bar with the weight seated across her shoulders she jerked away from the thing coming at her, twisted from it sideways and back all at once, and something in her neck caught and tore its small tear, a wrongness that went white and hot up into her skull, and a sound came out of her she hadn't decided to make.
+She flinched. That was all it took. Under the bar with the weight seated across her shoulders she jerked away from the thing coming at her, twisted from it sideways and back all at once, and something in her neck caught and tore its small tear, a wrongness that went white and hot up into her skull, and she cried out.
 
 And then his hands were on her, around her, one flat across her chest and one at her shoulder, and he had her, and he stood her up straight and walked her the two steps back into the rack and set the bar down into the pins in one long controlled motion so that the weight went off her and onto the steel and she was out from under it, empty-shouldered, held.
 
@@ -108,7 +108,7 @@ He was waiting with a towel when she came out. The house had turned warmer while
 
 He sat her on the edge of the bed and opened the drawer of the bedside table and took out a squat glass jar and unscrewed the lid, and the smell of it filled the room at once, herbal and sharp and medicinal, camphor and something green underneath. He worked two fingers into the yellow paste and rubbed it between his palms to warm it and stood behind her and laid his hands on her neck.
 
-He did not start on the muscle right away. First he brought an arm across the top of her chest to draw her back, and it came to rest where a bracing arm comes to rest, across the bare tops of her breasts, above where the towel had tucked itself closed. He meant nothing by where it lay — it was only where you hold a body to bring it back to rest, and only where the towel had left her bare. But she had not been able to take his hands as nothing all night, and she did not start now. She felt his bare forearm lying across the soft tops of her breasts, warm and heavy and without design, and she was aware of it as she would not have been of an arm laid anywhere else on her, and she said nothing, and rested back into it. She stopped holding herself up. She did not decide to; it simply left her.
+He did not start on the muscle right away. First he brought an arm across the top of her chest to draw her back, and it came to rest where a bracing arm comes to rest, across the bare tops of her breasts, above where the towel had tucked itself closed. He meant nothing by where it lay — it was only where you hold a body to bring it back to rest, and only where the towel had left her bare. But she had not been able to take his hands as nothing all night, and she did not start now. She felt his bare forearm lying across the soft tops of her breasts, warm and heavy and without design, and she was aware of it as she would not have been of an arm laid anywhere else on her, and she said nothing, and rested back into it.
 
 He found the hurt without being shown it. His fingers walked the side of her neck and stopped where the muscle had knotted and rested there, light at first, only weight, and then moved, small circles that pressed a little deeper as they went, and where they pressed the relief of it was so sharp it was nearly its own kind of pain. He traced the cord of it down from behind her ear toward her shoulder and back, patient, reading her, leaning in a little more each time she let a breath go. And under his fingers the paste warmed. It came on slow, a low heat rising out of her own skin where he worked it, spreading along the sore line, and it was so good against the ache that she let her head drop forward and gave him the whole of her neck to do as he liked with.
 
@@ -124,7 +124,7 @@ He was below her, bent up under the bared line of her throat, and his breath cam
 
 He worked down the cord as he'd worked the neck, small deep circles, patient, taking it in the order it ran: the corner of her jaw, the side of the throat, the hollow over the collarbone, and out along the bone, chasing the same cord to where it anchored low under the slope of her breast where the towel had slipped open. He laid the warmth down ahead of himself as he went, and his face stayed bent to it the whole time, careful, on nothing but the muscle he was after. The wanting stood straight up in her.
 
-His hand moved along the top of her chest, and she leaned into it. She didn't decide to. Her body did it for her, tipped her breast up into his palm as it had tipped her toward the weekend a hundred times in the back of a lecture hall, ahead of her. For a second her breast met only the slick of the ointment, cool and greasy, no heat in it yet.
+His hand moved along the top of her chest, and she leaned into it, and wanted more of him there, and tipped her breast up into his palm as she had tipped herself toward the weekend a hundred times in the back of a lecture hall. For a second her breast met only the slick of the ointment, cool and greasy, no heat in it yet.
 
 He drew his hand back. "Keep still," he said, low.
 
@@ -172,7 +172,7 @@ The sound that came out of her was not one she would have chosen. It was too low
 
 "I know," he said, rolling the burning nipple.
 
-Her hips moved once, uselessly, before she could stop them.
+Her hips moved once, uselessly.
 
 "I know," he said again, lower, and tugged it, gentle, and would not let it go.
 
