@@ -116,7 +116,7 @@ And the question put her body back in the cab — leaning over the bench in the 
 
 "Didn't spill a drop?"
 
-And that dropped her into the end of it — the pulse and the flood, the taste of him gone flat and hot across her tongue, and how she'd swallowed every bit of it *proud,* proud to have undone a man that steady. Her mouth went dry, actually dry, and the wine was no help for it, and she shifted in her seat before she could stop the shift. It was true — every word of it true, and she'd done it in a parking lot and not cared who saw — and she could not make her mouth say it back across the cloth.
+And that dropped her into the end of it — the pulse and the flood, the taste of him gone flat and hot across her tongue, and how she'd swallowed every bit of it *proud,* proud to have undone a man that steady. Her mouth went dry, actually dry, and the wine was no help for it, and she shifted in her seat. It was true — every word of it true, and she'd done it in a parking lot and not cared who saw — and she could not make her mouth say it back across the cloth.
 
 "You *did* it," Randi said, low, delighted and tender and without a scrap of mercy. "And you can't even say it."
 
@@ -134,7 +134,7 @@ Then, quieter, from behind the glass, the part she could stand to give: "I told 
 
 "You'd gotten them open. In a moving truck." She wasn't going to let her round it. "And then?"
 
-And Vee, pinned again, gave it — but small, close, the way you hand over the true thing. "It was *me* that moved them aside. My own hand. I held myself open for his the whole way, kept holding." She heard herself and pushed on before she could stop. "And he knew exactly, no hunting, no asking — and I went off on that county road with my boots braced on the floor and the mile markers going by, and I did not care who was out there." The last word barely made it out. "Loud."
+And Vee, pinned again, gave it — but small, close, the way you hand over the true thing. "It was *me* that moved them aside. My own hand. I held myself open for his the whole way, kept holding." She heard herself and pushed on. "And he knew exactly, no hunting, no asking — and I went off on that county road with my boots braced on the floor and the mile markers going by, and I did not care who was out there." The last word barely made it out. "Loud."
 
 Randi let a breath go that wasn't quite steady.
 
@@ -200,7 +200,7 @@ Randi laid the back of one hand to her brow. "Off to be royally—"
 
 "*Don't* you—"
 
-"—*screwed,*" Randi finished, serene as a saint, and Vee's mouth came open around a laugh she had no say in, aghast and delighted in the one breath, because it was terrible, and it was perfect, and it was exactly what happened.
+"—*screwed,*" Randi finished, serene as a saint, and Vee's mouth came open around a laugh, aghast and delighted in the one breath, because it was terrible, and it was perfect, and it was exactly what happened.
 
 Her voice went back down into it then, the telling pulling her inside the house. "And in the bedroom I turned around and put my hand up. Palm out. And he stopped like the hand had touched him. From across the room."
 
@@ -272,7 +272,7 @@ Randi picked up her wine, considering, the lamplight on the deco lines of her, a
 
 "It was powerful," she said. "It turned me on."
 
-And that dropped Vee back into the bed — sheened in sweat, pulsing, the pulse going and not stopping, him just slid inside and opening her slow, and his mouth, barely up off her sex, coming down on hers. She felt the wet of his kiss all over again, and clenched hard to it, right there in the booth, before she could stop herself. Her body remembered the whole of it, and had no complaint.
+And that dropped Vee back into the bed — sheened in sweat, pulsing, the pulse going and not stopping, him just slid inside and opening her slow, and his mouth, barely up off her sex, coming down on hers. She felt the wet of his kiss all over again, and clenched hard to it, right there in the booth. Her body remembered the whole of it, and had no complaint.
 
 Randi looked at Vee, her eyes listening.
 
@@ -306,7 +306,7 @@ And Vee glowed and took it, and only the smallest part of her went to the one wo
 
 And then Randi kissed her goodbye, as they did — the mouth, soft, the little pause, the second one after it — and drew her into the hug, a good one tonight, long, coats crushed together, Vee's cheek against Randi's cool cheek, the bitter orange finding her, green at its edge.
 
-And Vee was already looking at the neck. She was smiling before she'd decided to, remembering last time — Randi pointing to the very spot where a whole December's crying had once soaked in, the kiss she'd set there without thinking, the flinch, *don't you dare weaponize that.* And Randi, who must have forgotten, tipped her head to settle the hug deeper and laid the whole of it open — the hollow where the neck turns down into the shoulder, warm straight out of the cold — and her hair, lifted on the breeze, brushed Vee's cheek. And Vee kissed it. Just did. Vee's mouth found the way again on the memory of Tuesday, and the kiss was landed before any of her had convened on the question.
+And Vee was already looking at the neck. She was smiling, remembering last time — Randi pointing to the very spot where a whole December's crying had once soaked in, the kiss she'd set there without thinking, the flinch, *don't you dare weaponize that.* And Randi, who must have forgotten, tipped her head to settle the hug deeper and laid the whole of it open — the hollow where the neck turns down into the shoulder, warm straight out of the cold — and her hair, lifted on the breeze, brushed Vee's cheek. And Vee kissed it. Just did. Vee's mouth found the way again on the memory of Tuesday, and the kiss was landed before any of her had convened on the question.
 
 Up close it was all small things: Randi's breath uneven, close over her ear; the skin soft and warm against her lips. And under her mouth Randi's whole body did a small quick thing, a catch and then a rise, and the rise went on a beat too long —
 

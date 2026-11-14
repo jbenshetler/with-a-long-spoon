@@ -124,7 +124,7 @@ The server appeared at the top of the loft stairs and asked about dessert. "We'r
 
 "How late did you sit there?" she said. "Wrapped in the blanket, your man down on his knees because he's too happy that you're back to talk. How late?"
 
-Hearing it said in Randi's voice brought it back whole — she had cried that night, happy tears, the pride and the happiness all one thing — and her throat closed on it now, one beat, without her permission. Then she smiled. "I was a bit stuck."
+Hearing it said in Randi's voice brought it back whole — she had cried that night, happy tears, the pride and the happiness all one thing — and her throat closed on it now, one beat. Then she smiled. "I was a bit stuck."
 
 "What do you mean? Did something go wrong?"
 
@@ -256,7 +256,7 @@ A breath.
 
 The stall had a proper latch, and she threw it.
 
-The light down here was the same hard blue as every restroom light, a light that found everything and forgave none of it, and she had stopped caring somewhere on the stairs. She didn't sit. She set one palm flat against the cold partition and slid the other in past her waistband, down, and found herself soaked — of course, always, her body a full course ahead of her permission — and there was nothing to do about the shame of that but use it.
+The light down here was the same hard blue as every restroom light, a light that found everything and forgave none of it, and she had stopped caring somewhere on the stairs. She didn't sit. She set one palm flat against the cold partition and slid the other in past her waistband, down, and found herself soaked — of course, always, her body a full course ahead of her — and there was nothing to do about the shame of that but use it.
 
 She found the small needy knot of herself and circled it, slow once, and then not slow. The weekend came with her hand: the porch and the cold and the two edges of the coat going open; the chair edge under her heel and the skillet going quiet behind her; the build came fast and mean, a whole hour of tablecloth underneath it. Her breath went to pieces against the partition. And at the top, right where the drop began, Randi's face arrived behind her eyes — the tonight face, eyes dark and liquid, asking *how much could he see* — and the question changed as it asked itself, stopped being a question at all: *He could see you were ready. There's no way he couldn't.* Her hand ran on. The face said it again — *there's no way he couldn't* — and Vee went over hard, teeth set, knees dipping, the cry swallowed down to one long breath through her nose, her whole body clenching and pulsing around nothing, her palm sliding half an inch down the cold laminate.
 

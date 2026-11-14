@@ -70,7 +70,7 @@ Randi put a hand flat over her mouth. Above it her eyes danced.
 
 "And?" Randi said, softer, leaning in.
 
-Vee knew which *and* she meant. The heat came up her throat before she had decided anything about it.
+Vee knew which *and* she meant. The heat came up her throat.
 
 "He loved it," she said.
 
@@ -216,7 +216,7 @@ Her body answered first: one hard pulse, low, that she felt down to her knees. A
 
 And the booth went out from under her. The bed, eyes shut, the feeding, every color a kiss and something brought to her lips — only this time the something was her, wet on a fingertip at her mouth, and the hand holding it was — she couldn't tell. Not again. His, square and careful. Or longer, cooler, the nails done.
 
-The booth came back. "I'll be right back," Vee said, and was up out of the booth before she'd finished saying it.
+The booth came back. "I'll be right back," Vee said as she bolted from the booth.
 
 Her phone was still in Randi's hands — the picture still open on it — and she thought of it, and was already past the thought, and past the next booth.
 
@@ -238,7 +238,7 @@ A face, close. Coming up to her slow, the way his had, from between her thighs �
 
 Salt and lime, and her own taste over it, and under all of it — *what would Randi taste like* —
 
-She went over so hard her knees went. A sound got out of her before she could stop it, one short broken sound, and she caught the edge of the sink with the hand that had been on the wall and hung on to it while it went on and on, pulse after wrenching pulse, nothing left in her head at all.
+She went over so hard her knees went. A sound got out of her, one short broken sound, and she caught the edge of the sink with the hand that had been on the wall and hung on to it while it went on and on, pulse after wrenching pulse, nothing left in her head at all.
 
 She let go of the sink when she could stand without it.
 

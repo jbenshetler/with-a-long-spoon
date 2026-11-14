@@ -57,3 +57,8 @@ what keeps the turn deniable). Author rulings recorded 2026-08-20.*
 - **Brooke's double-reading** (kindness in omitting the Jan 15 visit vs. "exactly
   how complete her file is") — readers split by design; both readings alive, neither
   forced.
+
+## Want-arc pass (author 2026-11-13)
+
+### Fixed
+- **:177** cut "before she could rule on whether she'd allowed it" — third permission clause in twenty lines; `:197` "without asking her" (praised ×3) and `:189` "asking no permission" (her eyes letting themselves look) stay. R3: the lag stays at full strength elsewhere.

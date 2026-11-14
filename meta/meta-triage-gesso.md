@@ -47,3 +47,12 @@ reader). Heat 3 unanimous; Romance 3 in 11 of 14. The cold-read panel is still o
 - **No more cold wrists at a restroom sink, and no third mirror vow.** The ritual has
   run in {{The Practice Room}}, {{Covering}}, and Gesso's first draft. The next broken
   promise takes another shape, or goes unsaid.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage R5 (self-policing): body first, the mind arrives to dismiss — the lag is the stage and stays; repeated wording thinned.
+
+### Fixed
+- **:73** cut "before she had decided anything about it" (one sonnet ALMOST-STOPPED, NOISE; another "decided").
+- **:219** "and was up out of the booth before she'd finished saying it" → "as she bolted from the booth" — second "before she'd finished saying it" (`:303`, the close, stays); "bolted" over "fled" to show rather than name the motive, and to step down to `:303` "not quite running".
+- **:241** cut "before she could stop it" — near-repeat of `coming-due.md:59` (stays).

@@ -39,3 +39,15 @@ was like."*) — already rendered at `missed-a-spot.md:61` and told to Randi at
 remember the oranges. All that patience just to get at the — that's what he did. He
 opened me like the orange."* The break-off stays: it earns `:229`'s *"She heard herself
 land it."* No reviewer had praised the cut words.
+
+## Want-arc pass (author 2026-11-13)
+
+Stage P4 with the taste regression; Randi thread R2 (routed through Pace) — Randi-side lags stay, wording varied.
+
+### Fixed
+- **:119**, **:137**, **:275** — cut three of four "before she could stop…" (`:249`, the taste arriving, stays). `:137` "pushed on" is a choice; `:275` "had no complaint" is ownership. No mentions.
+- **:203** cut "she had no say in" from the laugh. No mentions.
+- **:309** cut "before she'd decided to" (rationed #8 string) from "She was smiling…"; "Just did." and "convened on the question" (glm-5.3 praise; queer-woman sole complaint, NOISE) stay.
+
+### Left standing — do not re-litigate
+- **:91** "the body telling on her before she'd said a word" — verbatim of `nothing-underneath.md:53`, but the same coat lining: a designed callback, praised by claude-fable-5-1, claude-opus-5-5 and glm-5.3.

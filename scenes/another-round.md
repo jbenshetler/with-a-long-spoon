@@ -60,7 +60,7 @@ The laugh came out of Vee before she'd voted on it. Loud, from the middle of her
 
 "I'm—" She put her hand out into the wreckage, formal as a church greeter, the only rope in reach. "I'm Vee."
 
-"I know who you are," Sheri said. "Come here, you." And Vee was hugged — nothing like the hug Pace had gotten; this one was fast and fierce, a grab and a rock side to side and done, finished before Vee's arms had gotten a vote in. Sheri set her back on her heels and kept one hand on her arm. "You've got him happy. That's the whole book, far as I'm concerned."
+"I know who you are," Sheri said. "Come here, you." And Vee was hugged — nothing like the hug Pace had gotten; this one was fast and fierce, a grab and a rock side to side and done, finished before Vee's arms got there. Sheri set her back on her heels and kept one hand on her arm. "You've got him happy. That's the whole book, far as I'm concerned."
 
 Then, to Pace, in an aside that lowered nothing: "And you get to motorboat them things?"
 

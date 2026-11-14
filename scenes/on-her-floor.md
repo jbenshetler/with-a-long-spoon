@@ -174,7 +174,7 @@ The song climbed into the part where everyone's arms go up, the whole floor a fi
 
 Then Randi turned her — a flourish, hand finding hand, her fingers going through Vee's and closing, slick palm to slick palm — and danced her out to arm's length and pumped their joined hands back and forth, big and ridiculous and joyful, and ran Vee's whole body on the end of that grip, and Vee let herself be run, laughing, helpless with it. The hem was high. She could feel how high by the cool that reached the very top of her thigh, the give of air where no air should have been, and she knew that she had crossed some line a few inches back and was still going, because the only way to stop was to let go of Randi's hands and walk out of the bright middle of it and be, again, a careful person at the edge of a party. She did not let go.
 
-The song broke. The floor cheered itself hoarse. Randi reeled her in by the hands she was still holding — close, closer than even the noise required — and put her mouth to Vee's ear, so that Vee felt the lips, the actual lips, brush the rim of it, and a shiver went down the side of her neck and into her shoulder before she could rule on whether she'd allowed it.
+The song broke. The floor cheered itself hoarse. Randi reeled her in by the hands she was still holding — close, closer than even the noise required — and put her mouth to Vee's ear, so that Vee felt the lips, the actual lips, brush the rim of it, and a shiver went down the side of her neck and into her shoulder.
 
 "Your panties," Randi said, warm, amused, only for her, "are showing."
 
