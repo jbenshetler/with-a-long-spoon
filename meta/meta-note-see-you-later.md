@@ -46,6 +46,6 @@ Morning after the Tue collision ({{The Pointing Game}}), under 24 hours later; s
 
 ## Open watch-items — considered, left standing
 
-- "key in a lock" (Chi Latte conversation) faintly echoes Randi's lock motif — confirm the resonance is wanted.
+- "key in a lock" (Chi Latte conversation) echoes Randi's lock motif — **resonance wanted (author 2026-11-14).** One figure carries the Randi relationship: Randi's key turning from the start (`the-bench.md:535`), Vee's going in at first meeting and read only as flattery (here, `:125`), turning at the kiss (`on-her-floor.md:189`). The off-thread use in {{Among Friends}} was replaced so the figure stays Randi's.
 - "the better thing" as Randi's epithet, used twice — a motif; don't let it calcify.
 - The four-paragraph room-reading is the densest stretch; it earns its length but is the first trim candidate if the scene ever runs long.
