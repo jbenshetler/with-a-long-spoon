@@ -10,7 +10,7 @@
 
 *The operative do/don'ts drafts most often slip on. Detail in the sections below and in `meta-arch-vivienne.md`.*
 
-- **Body before mind, always.** Render the response, *then* the cognition — never a forensic deduction ("I could tell from the smaller hands…"). The body knows first; the thought arrives after, if at all.
+- **Body before mind, always.** Render the response, *then* the cognition — never a forensic deduction ("I could tell from the smaller hands…"). The body knows first; the thought arrives after, if at all. The order is fixed; what the thought *does* when it arrives follows her arc — see [Want rendering by arc stage](#want-rendering-by-arc-stage-author-rulings-2026-11-13).
 - **Shame is the engine, and teasing fires it.** Almost every sex scene runs on shame — her body announcing its wanting without her leave (wet, hard, flushed). *What* she's ashamed of is constant; the *occasion* must change (never re-light the last at the same heat). **Sexual teasing is erotic for her:** teased about the involuntary tell, the shame spikes and the shame *is* the arousal — Pace's play (→ `meta-craft-pace.md`) fires her engine precisely because it's affectionate.
 - **Under pressure her voice regresses *down*, never up.** Smaller words, younger syntax — never sharper or more articulate (articulate is Pace's register, never her defense). Most articulate = safest; plainest = most threatened.
 - **Reader is *with* her and *ahead* of her.** Inhabit her (no safe distance); she has a cultural explanation ready (*"sorority thing"*) and the reader doesn't. Never let the prose imply she should have refused the year.
@@ -130,6 +130,26 @@ This is the specific form [Body before mind](#console-rules--read-these-first) (
 **Adjacent, same family:** the unslept bed as *"a tattletale in the cold morning light for anyone who cared to read it"* (`all-told.md:5`) — the evidentiary register displaced from her body onto her room.
 
 ---
+
+### Want rendering by arc stage (author rulings 2026-11-13)
+
+Body-before-mind fixes the **order**, never the **stance**. The lag between what happens and her registering it stays at every stage; what changes is what the mind does on arrival and whose verb the act is. Overall, how her want is felt marries to where she is on her arc. She can regress — especially when it is unexpected — but a regression needs a trigger on the page.
+
+| mode | the mind on arrival | whose verb |
+|---|---|---|
+| Unseen | doesn't read it as want; names it as weather, being chosen, admiration | the sensation's |
+| Shame-brake | reads it and recoils | the body's |
+| Explain-away | files it elsewhere ("that was the body", "sex brain", "about Pace") | the body's, then hers to dismiss |
+| Owned | lets it stand | shared ("and she let it") |
+| Chosen | the want first, then the act | hers |
+
+- **Pace thread.** Misnamed and first owning ({{Substitution}}–{{Leave No Trace}}) → the shame engine ({{A Round}}–{{The Induction}}) → want owned, the *word* stalls ({{We Find Out}}–{{Believe Me}}; the lag moves onto the naming) → agency ({{Old Acquaintances}}–{{Another Round}}; lag kept for the taste-of-herself thread) → demand and the Telling ({{Hangover}} on; urge drives the act).
+- **Randi thread** (with the renunciation chain in `meta-note-vee-attraction-thread.md` and eros-ladder §6). Unseen → jolts, misnamed → routed through Pace → undeniable ({{On Her Floor}}) → said, then rejected ({{Boyfriend}}) → self-policing ({{Coming Due}}–{{Gesso}}) → chosen and kept ({{Postcard}}). The lag stays at full strength wherever she is withholding consent from this want; vary its wording, do not thin it.
+- **Two lags, two stages.** A lag of **awareness** — she registers the urge a beat late, and it is already hers — is right at every stage. A lag of **permission** — her body acting without her vote — belongs to shame-brake and explain-away; after she owns a want it is a regression and needs a trigger (new pain; being named or looked at while aroused; the after-fear on the Randi thread).
+- **Not the figure:** when Pace is the agent and the surrender is chosen ({{Grace}}: "it was his, given to her"), the loss of control is the power exchange, not her body voting without her.
+- **Remedy order** for an out-of-stage or repeated instance: follow the arc → vary the imagery → thin. Cut the meta-clause (vote, permission, "no say", "before she could stop") and keep the physical.
+- **Figure families.** The vote / committee / permission / "no say" family is a shame-stage figure, one or two per volume at the best-placed spot. The informer / announcement family belongs to the shame stages. The evidentiary placeholder stays protected (above). Dismissal is free in the self-policing stage. Urge and hunger replace the lag once she owns the want.
+- **Reader evidence.** Weigh complaint-driven changes with `tools/friction_check.py` beside `tools/praise_check.py`; a lone or scattered Anthropic complaint is noise (`reviews/cold-read/SPEC.md`, capture SPEC rules 2–3a).
 
 ## The Three Charge-Sources — And the One Guard
 

@@ -249,6 +249,13 @@ text = "His mouth, and then the small heat of it staying half a second longer th
 note = "PROTECTED keeper for the held-past figure (echo #60, author 2026-08-08). Pace at :220: 'kissing-it-better needed to stay' names the pretext he is exceeding, which no other instance does; also protected under #8 on cold-read evidence for its 'before you think' half. The :238 collision was resolved by cutting the measure there, not here. :200 (degree family) and :226 (bare too-adj family) deliberately left UNACKED — both belong to adjacent families that are still unruled, and suppressing them would hide them from those rulings."
 
 [[ok]]
+fp   = "d3fb31503330"
+rule = "the-way"
+file = "scenes/a-round.md"
+text = "It wasn't a plan — nothing in her sat down and schemed; it spilled out of her the way everything did."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
 fp   = "31fc8d4e4bc8"
 rule = "a-small"
 file = "scenes/above-him.md"
@@ -1383,6 +1390,13 @@ text = "And it went straight through Vee, warm and a little ridiculous, because 
 note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
 
 [[ok]]
+fp   = "d449830e3414"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "The dance first — and here she surprised herself, because the dance had been *good*, the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it — and Randi said *of course it was, he can dance, the bastard,* warm, and Vee laughed and went on."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
 fp   = "ee0c81412f35"
 rule = "warm"
 file = "scenes/broken-in.md"
@@ -1402,6 +1416,48 @@ rule = "x-not-y"
 file = "scenes/broken-in.md"
 text = "\"I know,\" Randi said, not modest about it."
 note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "4b26962450c4"
+rule = "filter-verbs"
+file = "scenes/clean-plate.md"
+text = "She heard herself and pushed on."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "cdca7e3fb7a2"
+rule = "filter-verbs"
+file = "scenes/clean-plate.md"
+text = "She felt the wet of his kiss all over again, and clenched hard to it, right there in the booth."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "c18f6604437e"
+rule = "warm"
+file = "scenes/clean-plate.md"
+text = "She was smiling, remembering last time — Randi pointing to the very spot where a whole December's crying had once soaked in, the kiss she'd set there without thinking, the flinch, *don't you dare weaponize that.* And Randi, who must have forgotten, tipped her head to settle the hug deeper and laid the whole of it open — the hollow where the neck turns down into the shoulder, warm straight out of the cold — and her hair, lifted on the breeze, brushed Vee's cheek."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "666efee90507"
+rule = "whole-of"
+file = "scenes/clean-plate.md"
+text = "She was smiling, remembering last time — Randi pointing to the very spot where a whole December's crying had once soaked in, the kiss she'd set there without thinking, the flinch, *don't you dare weaponize that.* And Randi, who must have forgotten, tipped her head to settle the hug deeper and laid the whole of it open — the hollow where the neck turns down into the shoulder, warm straight out of the cold — and her hair, lifted on the breeze, brushed Vee's cheek."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "054d8046de60"
+rule = "there-was-were"
+file = "scenes/covering.md"
+text = "She set one palm flat against the cold partition and slid the other in past her waistband, down, and found herself soaked — of course, always, her body a full course ahead of her — and there was nothing to do about the shame of that but use it."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "26fb9358e9d3"
+rule = "a-small"
+file = "scenes/cropped.md"
+text = "*I love how good we are together.* Her body did a small thing it did not have a name for."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
 fp   = "21beefbb96a1"
@@ -2074,6 +2130,13 @@ rule = "warm"
 file = "scenes/grace.md"
 text = "They came back up as the light went long and rose-red across the tawny grass, and the climb that would have undone her once only warmed her through, and she was glad of the cabin when its chimney showed over the rise."
 note = "re-ack after gold→rose-red recast at :105 (author 2026-11-05)"
+
+[[ok]]
+fp   = "9b0a000830aa"
+rule = "x-not-y"
+file = "scenes/grace.md"
+text = "His voice had come back down to its low register, near her, not touching her, and the whole front of her leaned blindly toward where it was."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
 fp   = "9ec123f2fb75"
@@ -3308,6 +3371,20 @@ text = "He looked at the page a moment longer, not because he needed it but to w
 note = "deliberate reread beat: not reading the menu, curating it for her"
 
 [[ok]]
+fp   = "c516e72fdf3e"
+rule = "warm"
+file = "scenes/missed-a-spot.md"
+text = "*Good.* By now she could feel what her body had been doing all this while: the warmth running down between her cheeks, pooling beneath her on Pace's beautiful blanket, so much of her and so far ahead of his mouth, which had only just passed her ribs."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
+fp   = "f34ed033fe7a"
+rule = "warm"
+file = "scenes/missed-a-spot.md"
+text = "It had been ready for some time — long past hard, standing in the cool of the room — and his lips left her armpit and climbed the slope of her breast with a slowness that ought to have been illegal, circling in, ringing her areola around and around until the groan came up out of her chest, and only then did his mouth close warm over her nipple and draw, and her spine answered before she did."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
 fp   = "b79fda63532a"
 rule = "file-verb"
 file = "scenes/my-friend-randi.md"
@@ -4057,6 +4134,13 @@ text = "She didn't ask him to leave, and he didn't make anything of going — a 
 note = "':27 not far, never far' — reader-praised by gpt-5.6-terra ('keeps that familiar tension around him intact'); the stronger of the two not-far statements, the other cut at item 8. Line-edit 2026-08-07 group G."
 
 [[ok]]
+fp   = "771ddeb02c7d"
+rule = "warm"
+file = "scenes/postcard.md"
+text = "Her hand had gone down before she had put it there, already warm, already flat against herself over the fabric."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
 fp   = "890c98778a6b"
 rule = "catalog-verb"
 file = "scenes/practice-room.md"
@@ -4197,6 +4281,13 @@ text = "She heard herself slip into the blonde's exact words and couldn't stop i
 note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
 
 [[ok]]
+fp   = "beff0f553103"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "It came out in a rush, the clock and the dorm and the dress and no time and look at me, look at my hair, I can't, and she heard how small it was even as she said it."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
+
+[[ok]]
 fp   = "c720618f2fe2"
 rule = "filter-verbs"
 file = "scenes/recognized-method.md"
@@ -4314,6 +4405,13 @@ rule = "there-was-were"
 file = "scenes/recognized-method.md"
 text = "\"There was a girl,\" she said."
 note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "1571e88f30f0"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "But her back ran up and open into the low light, and his hands came to her without hurry, one to each side, warm and flat, settling just under the place — and her whole body jumped, one hard jolt."
+note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
 fp   = "1af67466101f"
