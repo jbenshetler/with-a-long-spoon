@@ -13,3 +13,8 @@ Stage P5: demand ("not asked. Demanded," `:165`). The injury is a real trigger; 
 ### Left standing
 - **:139** "her body knew it for mercy before she did" — awareness lag, praised (gemini-4-argon); a single chain-era opus caption complaint, NOISE.
 - **:145** "he would not take it on the strength of her body alone" — Pace refusing the body as consent.
+
+## "came out of her" pass (author 2026-11-14)
+
+### Fixed
+- **:165** "the sound came out of her before she could stop it, all pain" → "the sound she made was all pain" — Burn's last "before she could stop it"; `:171` keeps "The sound that came out of her was not one she would have chosen."

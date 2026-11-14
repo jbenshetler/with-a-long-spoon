@@ -280,7 +280,7 @@ Vee lifted toward him.
 
 He pulled away.
 
-A sound came out of her that was nearly a complaint.
+She made a sound that was nearly a complaint.
 
 "Fresh canvas," Pace said. His voice had gone careful, the formal register arriving around something held at cost. "It has to be prepared with gesso."
 

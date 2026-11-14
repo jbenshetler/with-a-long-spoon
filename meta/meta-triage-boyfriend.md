@@ -111,3 +111,8 @@ CAPTURE 9–10. Craft items from the gates, ruled by the author:
 - **Not defects:** *"You keep saying her name… Not me"* read as Pace lying (the
   designed crack); the stroke ledger (settled above); *"I'm not gay"* near a trope
   (one lane, read as her wall).
+
+## "came out of her" pass (author 2026-11-14)
+
+### Left standing — do not re-litigate
+- **:77** "a sound came out of her, disappointed, before she'd thought about it" — blocked pleasure drawing a sound from below thought, the same register as the pain sounds; "That was new" marks the first stall. Answered by `postcard.md:181` ("a half-second behind it, was not disappointed at all").

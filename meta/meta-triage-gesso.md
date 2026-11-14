@@ -56,3 +56,8 @@ Stage R5 (self-policing): body first, the mind arrives to dismiss — the lag is
 - **:73** cut "before she had decided anything about it" (one sonnet ALMOST-STOPPED, NOISE; another "decided").
 - **:219** "and was up out of the booth before she'd finished saying it" → "as she bolted from the booth" — second "before she'd finished saying it" (`:303`, the close, stays); "bolted" over "fled" to show rather than name the motive, and to step down to `:303` "not quite running".
 - **:241** cut "before she could stop it" — near-repeat of `coming-due.md:59` (stays).
+
+## "came out of her" pass (author 2026-11-14)
+
+### Left standing — do not re-litigate
+- **:195** "what came out of her was the rest of it" — R5, the braid: after "I did. I *do*." / "isn't it gross?" / "I'd hang that over my bed" and her knees pressing, she escapes into the story; the feeling she will not admit goes into talking about Pace. "Told her" would grant control she does not have here.

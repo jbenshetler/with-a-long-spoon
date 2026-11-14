@@ -72,7 +72,7 @@ Which is how she got to the last of it without deciding to.
 
 "Mm," Randi said. Her eyes came up and settled on Vee's and stayed. "No complaints there."
 
-Vee made it about a second before the giggle came up out of her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself."
+Vee made it about a second before the giggle got her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself."
 
 Randi's thumb stopped on the back of Vee's hand.
 

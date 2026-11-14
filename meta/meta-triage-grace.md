@@ -10,3 +10,8 @@ Stage P5 and the trigger chapter: named and looked at in the light. The earned l
 
 ### Left standing — do not re-litigate
 - **:267** "she had no say in her peak at all" — not the body-ahead figure: the agent is Pace, the giving-over is hers (power exchange inside the Telling), and it sets up "it was his, given to her" against "the rough private climb of her own hand". Rule for the sweep: when Pace is the agent and the surrender is chosen, it is not the figure.
+
+## "came out of her" pass (author 2026-11-14)
+
+### Fixed
+- **:193** cut "small" — two small sounds forty lines apart (`:231` keeps it). "heard … come out of her own throat" stays: the distance is her drifting into subspace — a filter verb whose distance is the point.
