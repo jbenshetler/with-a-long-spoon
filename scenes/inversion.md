@@ -88,9 +88,9 @@ The form was correct. Correct was the whole of what it was for.
 
 The brightness went out of her voice, and what came in under it was lower, and concerned. Randi couldn't say where the sorority ended and the girl began in Brooke, not now, not ever. "I didn't want this to be a docket," Brooke said. "I want you to know I held it off as long as I could."
 
-Brooke drew the papers from a fresh manila folder — Randi's name on the label — and set them neatly on top of it. The folder was new, and it had been opened for her, and her name was on the tab; Randi took that in before she took in a word of what was on the page.
+Brooke drew the papers from a fresh manila folder and set them neatly on top of it. The folder was new, opened for this, for her, and her name was on the tab — handwritten, in Brooke's round ballpoint. Randi would never have handwritten it. She printed the label and set it on square, so the thing read as procedure and not as a woman taking a pen to your name, and she was grading the crooked tab before she had taken in a single word of the page.
 
-She had kept folders like it on other girls, a dozen of them, had sat in the chair Brooke was sitting in with the girl across from her going pale, and she had learned, as Brooke plainly had, not to look at the page while she spoke. You did not need to look at it. You had it.
+She had kept folders like it on other girls, a dozen of them, a printed label on every one, and she had sat where Brooke was sitting with the girl across from her going pale. She had never once looked at the page while she spoke; you did not need to, you had it. Brooke looked at the page. Not so the room would catch her — Brooke was better than that — but Randi caught her, the small drop of the eyes to the line a beat before she said it, the tell of a woman who did not quite have it by heart.
 
 "The complaint speaks to a sister's conduct this year," Brooke said, and read from it without appearing to read, "grown — their word — *loose. And sloppy.*" The warmth stayed on the words, which was worse than if it had gone. "We take these one at a time, before a thing becomes a pattern. That is what tonight is."
 
