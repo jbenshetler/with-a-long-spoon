@@ -116,7 +116,7 @@ There is no card, Randi thought. There is no box to put the card in. No House Mo
 
 And the dead rule, tonight, was not even wrong. Every night in that column was a night she had not slept here because she had slept in Pace's arms, and the lie had reached down the years and laid its finger on the one plain truth.
 
-She was out of the room before Brooke reached the next line — back on a bright cold stretch of the common in late August, a closed ring of her own on the grass and a man walking up into the middle of it with nothing in his hands. Not gorgeous. Not tall. Wearing the wrong everything.
+She was out of the room before Brooke reached the next line — back to a hot green afternoon on the common in early August, the heat sitting wet and heavy over grass that never went gold here no matter the month, and her at the center of her own ring, holding court on it in a miniskirt she was glad of and wedges and a little top cut to leave her middle bare — and a man walking up into the middle of them with nothing in his hands. Not gorgeous. Not tall. Wearing the wrong everything.
 
 The ring did to him what it did to anything it had not already cleared, the small cuts it made to see if a thing would bleed — Sloane's smile gone to glass, two of the girls starting in on him sidelong — and he took every one and handed it back turned somehow into a kindness, set a joke up so the girl cutting him got to land the laugh and shone landing it, and inside fifteen minutes the ring was his and smiling and did not know how it had happened.
 
