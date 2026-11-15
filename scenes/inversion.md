@@ -72,7 +72,7 @@ Somebody closed the door. She heard it go behind her, the latch, and did not tur
 
 "Randi." All concern — but she did not get up, and she did not say sit; she let the one open chair do that. "Thank you for coming up."
 
-Randi sat. She put her hands in her lap and left the water where it was. Brooke's hand rested on the closed folder, the nails a flawless French, white-mooned and perfect. Caroline's pen moved over the legal pad in a fist tipped candy pink. Randi's own nails lay bare in her lap, buffed to a dull shine under a single coat of clear.
+Randi sat. She put her hands in her lap and left the water where it was. Brooke's hand rested on the closed folder, the nails a flawless French, white-mooned and perfect. Caroline's pen moved over the legal pad, her nails a candy pink. Randi's own nails lay bare in her lap, buffed to a dull shine under a single coat of clear.
 
 "You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came. "So you'll let me keep it properly. I've taken the chair in your place tonight, and Caroline will sit the board and take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish. We'll observe the forms. I think you'd want us to." Businesslike, not unkind; she let it settle.
 
