@@ -665,6 +665,32 @@ def write_doc(path: Path, header: str, body: str) -> None:
     path.write_text(f"{header}\n\n{clean_markdown(body)}", encoding="utf-8")
 
 
+def stop_chapter(stopped: Path) -> int | None:
+    """The chapter a STOPPED marker records, or None if there is no marker.
+
+    A stop ends the reader *after* that chapter. Chapters at or before it stay
+    readable, so a revised chapter can be re-read with --fresh (author ruling
+    2026-11-15); an unparseable marker blocks everything, as before."""
+    if not stopped.exists():
+        return None
+    m = re.search(r"ch(\d+)", stopped.read_text())
+    return int(m.group(1)) if m else 0
+
+
+def note_stop(stopped: Path, model_id: str, persona: str, n: int) -> str:
+    """Record a STOP at chapter n. An existing marker is the lane's record and is
+    never moved by a re-read: a fresh STOP before it is reported, not written."""
+    prior = stop_chapter(stopped)
+    if prior is None:
+        stopped.write_text(f"stopped at ch{n:03d}\n")
+        print(f"  STOP {model_id}·{persona} at ch{n}", flush=True)
+        return f"{model_id}·{persona}: STOPPED at ch{n}"
+    if prior != n:
+        print(f"  STOP {model_id}·{persona} at ch{n} on re-read; "
+              f"recorded stop ch{prior:03d} kept", flush=True)
+    return f"{model_id}·{persona}: STOPPED at ch{n}"
+
+
 def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
                fresh: int | None = None, start: int = 1) -> str:
     """Sequential chapters 1..to_n with decade mints. agent_fn(system, prompt, label).
@@ -686,8 +712,9 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
             return (f"{model_id}·{persona}: --from {start} needs ck-ch{b0:03d} in {d} "
                     "(a diagnostic start borrows or pre-mints it; nothing was read)")
     for n in range(start, to_n + 1):
-        if stopped.exists():
-            return f"{model_id}·{persona}: stopped earlier"
+        halt = stop_chapter(stopped)
+        if halt is not None and n > halt:
+            return f"{model_id}·{persona}: stopped earlier (ch{halt:03d})"
         gp = gate_path(d, n)
         if not gp.exists() or n == fresh:
             label = f"{model_id}·{persona}·ch{n:02d}"
@@ -698,9 +725,7 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
                           f"{date.today().isoformat()}*", raw)
             print(f"  gate {label}", flush=True)
         if re.search(r"DECISION:\s*STOP", gp.read_text(), re.I):
-            stopped.write_text(f"stopped at ch{n:03d}\n")
-            print(f"  STOP {model_id}·{persona} at ch{n}", flush=True)
-            return f"{model_id}·{persona}: STOPPED at ch{n}"
+            return note_stop(stopped, model_id, persona, n)
         if n % DECADE == 0:
             cp = ck_path(d, n)
             if not cp.exists() or n == fresh:
@@ -723,8 +748,9 @@ def run_reader_v3(model_id: str, persona: str, agent_fn, to_n: int,
     stopped = d / "STOPPED"
     read_sys, read_sha = sysprompt(persona, "core-chapter-v3.md")
     for n in range(start, to_n + 1):
-        if stopped.exists():
-            return f"{model_id}·{persona}: stopped earlier"
+        halt = stop_chapter(stopped)
+        if halt is not None and n > halt:
+            return f"{model_id}·{persona}: stopped earlier (ch{halt:03d})"
         gp = gate_path(d, n)
         if not gp.exists() or n == fresh:
             if BORROW and n > 1:
@@ -740,9 +766,7 @@ def run_reader_v3(model_id: str, persona: str, agent_fn, to_n: int,
                           f"{prov} · {date.today().isoformat()}*", raw)
             print(f"  gate {label} (~{len(prompt) // 4} tokens in)", flush=True)
         if re.search(r"DECISION:\s*STOP", gp.read_text(), re.I):
-            stopped.write_text(f"stopped at ch{n:03d}\n")
-            print(f"  STOP {model_id}·{persona} at ch{n}", flush=True)
-            return f"{model_id}·{persona}: STOPPED at ch{n}"
+            return note_stop(stopped, model_id, persona, n)
     return f"{model_id}·{persona}: through ch{to_n}"
 
 

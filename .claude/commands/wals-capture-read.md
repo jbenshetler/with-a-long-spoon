@@ -150,8 +150,12 @@ for m in <models>; do for p in <personas>; do d=reviews/capture-panel/$m/dag/$p;
   count. Reaching a decade chapter mints a carry-forward, so N=70 always adds one.
 - A lane with no directory is a read **from chapter 1**. Report that cost before
   running it, never absorb it silently.
-- **A `STOPPED` marker ends that reader permanently.** Never delete one to
-  revive a reader without explicit author approval — the stop is data.
+- **A `STOPPED` marker ends that reader permanently** — for chapters *after*
+  the recorded stop. Chapters at or before it stay readable, so a revised
+  chapter can be re-read with `--from N --to N --fresh` without touching the
+  marker (author ruling 2026-11-15); a STOP on such a re-read is reported and
+  never moves the recorded stop. Never delete one to revive a reader without
+  explicit author approval — the stop is data.
 - Report the total to the author and get scope confirmed before spending,
   especially on paid lanes.
 

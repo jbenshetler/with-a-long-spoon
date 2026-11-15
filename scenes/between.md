@@ -48,7 +48,7 @@ Randi's whole face opened. "*Gay.*"
 
 "—she couldn't have wanted him if you'd gift-wrapped him."
 
-"She calls him *that man.* Like he's a road condition."
+"She calls him *that man.* Like it's a condition he's got. Men aren't her thing. Never have been." Under the table Randi's foot moved along her calf and settled again.
 
 Then the other part came up in her, and she went slower with it, because it wasn't hers to spend.
 
@@ -72,7 +72,7 @@ Which is how she got to the last of it without deciding to.
 
 "Mm," Randi said. Her eyes came up and settled on Vee's and stayed. "No complaints there."
 
-Vee made it about a second before the giggle got her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself."
+Vee made it about a second before the giggle got her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself. Wouldn't have had him gift-wrapped." The grin got away from her. "Me, she'd have unwrapped right there on the floor."
 
 Randi's thumb stopped on the back of Vee's hand.
 
@@ -92,7 +92,7 @@ And Randi didn't move. Didn't reach, didn't laugh, didn't fill it — and that w
 
 Something went through Vee, warm and low, at being looked after that hard by somebody who had better things to do.
 
-"Randi. She's not a threat." She said it gently. "That's the whole point of the story. She was never a threat, not for one second, not even in the version I made up."
+"Randi. She's not a threat." She said it gently. "She doesn't want him. That's the whole point of the story. She was never a threat, not for one second, not even in the version I made up."
 
 And Randi's thumb took up where it had left off, and went on over the knuckles, and stayed.
 
