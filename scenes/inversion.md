@@ -72,13 +72,13 @@ Somebody closed the door. She heard it go behind her, the latch, and did not tur
 
 "Randi." Warm the way she was always warm, a voice she had like other people had a scent — but she did not get up, and she did not say sit; she let the one open chair do that. "Thank you for coming up."
 
-Randi sat. She put her hands in her lap and left the water where it was.
+Randi sat. She put her hands in her lap and left the water where it was. Brooke's hand rested on the closed folder, the nails a flawless French she never varied, white-mooned and perfect. Caroline's pen moved over the legal pad in a fist tipped candy pink. Randi's own nails lay bare in her lap, buffed to a dull shine under a single coat of clear.
 
 "You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Caroline is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish. We'll observe the forms. I think you'd want us to." She let that settle, pleasant.
 
-It was not unhurried, whatever it looked like from the chair. It was deliberate, the one speed a thing like this ever moved, the speed Randi herself had set it to, years of it, girl after girl — and it was reaching now, as it was built to reach, for the one thing the house could not be made to approve. She had only never been that thing before.
+It was not unhurried, whatever it looked like from the chair. It was deliberate, the one speed a thing like this ever moved — and it was not a machine, nothing Randi had built or owned. It was only the rules. The ones she had kept her whole life and made other girls keep, moving now at the speed rules move when they finally turn and come for you. She had enforced every line on that page. She had just never stood on the wrong side of one before.
 
-She would have run it the same. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard her own order of service read back to her by a woman who kept it close enough.
+She would have run it the same. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard the order of service read back to her by a woman who kept it close enough.
 
 The bones of it right, the order right, and the finish skipped — the small cares that were Randi's own, the ones she had never once left out: the half-second of quiet held before a charge, so the girl heard it coming and had to sit in it; the warmth laid down only where it worked and kept off the rest, where it would only have given the game away.
 
@@ -98,31 +98,31 @@ She had kept folders like it on other girls, a dozen of them, a printed label on
 
 ---
 
-The page had dates on it. Brooke read the dates.
+The first of it was guests, and it did not come from the guestbook. The guestbook sat where it always sat, on the hall table by the front door, cream and gilt-edged with a pen on a little brass chain, the wedding-register kind; it came out for pledges and legacies and nobody else, got signed in careful round hands, and meant nothing. This came from statements. Sisters had written them out and put their names to them — girls Randi had to reach for, girls she could not have found in a crowd — and each one was a date, a time, and a single line. *A guest, with Randi, in her room.*
 
-The first ones were guests. A guest signed in at no hour anyone could find, one October morning, and then the same guest again in January, both times before ten, and the January one gone up to a member's room with the door shut and the member not signing the book either time, and a goodbye that a sister happened to see, downstairs, under the composites, that had gone on past the length of a goodbye.
+"Do you dispute these?" Brooke said.
 
-She kept her face still and let the one morning open behind it, just the once: the olive coat done up to the throat and the wrecked face over it, Vee on the front step at nine in the morning with her whole plane ride still on her, needing her, and Randi bringing her up the stairs fast and away from the eyes and shutting the door and getting her arms around her before either of them had said a word.
+Randi did not. Every date was a date Vee had been there — the stats friend, the redhead, the wrecked girl on the step at nine in the morning with her whole plane ride still on her. The house had set it down as a guest and carried it up the stairwell as a guy, and between the writing and the whispering it had managed to miss the only true thing in it, and Randi was not going to be the one to hand that over.
 
-Downstairs, under those framed dead-eyed faces, later, the girl had turned around with her hand already on the door and come back and taken Randi's face in both hands. *That girl had kissed her.* That was the goodbye a sister happened to see. She let it close.
-
-"These are just attendance-adjacent," Brooke said, kindly, as if excusing it. "Guests are a courtesy thing. We note them."
-
-"All right," Randi said.
+"They go to the pattern," Brooke said, and moved on.
 
 ---
 
-Then the overnights. The page had those too — a count of them, going back to the fall, nights the board could establish Randi had not slept in the house and had filed no overnight card with the president, which the bylaws asked a sister to do, which no sister had done since the bylaw was written, which Randi herself had never once done and had never once been asked about, until the dates of it were a column down a page in a folder with her name on it.
+Then the nights, and the nights were Brooke's own — not a sister's statement but the count a president kept of who slept under the roof, which was hers to keep.
 
-"That's a lot of nights, honey," Brooke said. Not unkind. Reaching, almost, offering her the easy out: *a boy, isn't it.* She did not say it. She had learned, since the kitchen in January, not to hand Randi the safe answer.
+"'A member intending to be absent from the chapter house overnight,'" Brooke read, "'shall obtain the approval of the House Mother in advance, to be recorded on the overnight card.'" She looked up. "We have you out rather a great deal."
 
-Randi looked at the column of dates and she was, for a moment, somewhere else entirely — a bright cold common in late August, a closed ring of her own people on the grass, and a man she had never seen walking up into the middle of it with nothing, no name any of them knew, no car they'd have looked at twice, a face you would not have picked out of a crowd.
+There is no card, Randi thought. There is no box to put the card in. No House Mother has slept in this house in a generation; the post was folded into a management company before any of us were born. The rule was a fossil nobody had bothered to strike, because a fossil costs nothing to keep and you never know when a dead rule will come in handy. This one had only had to wait.
 
-The ring had gone cool at him the way the ring went cool at anyone it had not already approved, and she had watched him not mind it. He had not pushed. He had made himself small and useful and funny, set a joke up so that Sloane got to land it and shone landing it, and inside fifteen minutes the ring was his and did not quite know how he'd done it.
+And the dead rule, tonight, was not even wrong. Every night in that column was a night she had not slept here because she had slept in Pace's arms, and the lie had reached down the years and laid its finger on the one plain truth.
 
-Then he had turned to her, and his voice had gone down a register, just for her, and asked her to dinner that night, and she had said yes — not because he was anything the ring valued, he was nothing it valued, but because she had just watched a man walk straight through the whole apparatus she lived inside and want not one thing it was selling.
+She was out of the room before Brooke reached the next line — back on a bright cold stretch of the common in late August, a closed ring of her own on the grass and a man walking up into the middle of it with nothing in his hands. Not gorgeous. Not tall. Wearing the wrong everything.
 
-She had driven them to dinner. She had driven him home after. That part she had never told the house, and would not be telling it now.
+The ring did to him what it did to anything it had not already cleared, the small cuts it made to see if a thing would bleed — Sloane's smile gone to glass, two of the girls starting in on him sidelong — and he took every one and handed it back turned somehow into a kindness, set a joke up so the girl cutting him got to land the laugh and shone landing it, and inside fifteen minutes the ring was his and smiling and did not know how it had happened.
+
+Nothing they threw stuck to him. He did not appear to notice it was being thrown. He looked at her through all of it, direct, not pushing, certain of himself and not selling it, and when he asked her to dinner he dropped his voice to do it, only for her.
+
+She had said yes. Not because he was anything the ring wanted — he was nothing it wanted — but because she had stood inside that ring her whole life being precisely what it wanted, and here was a man it could not lay a hand on, and she had to know what that was. She drove him to dinner in her own car and drove him home after, and that was the night her life first turned toward being hers, and she had never given the house one word of it, and she was not giving them one now.
 
 "I don't have anything to say about the nights," Randi said.
 
@@ -138,19 +138,25 @@ The rule did not care whose section. The rule said *instructor,* and the word di
 
 ---
 
-And then the mixer. They had saved it for the end — you ran the witnesses last, when the room was warm for them, and she had run them that way herself — and for the mixer they had two.
+And then the mixer, and for the mixer the complaint went broad.
 
-Sloane went first, and Sloane told it mostly straight, in the breathless way Sloane had of making a thing sound worse by being so careful to be fair about it: the dancing had gotten, you know, a lot, and the skirt was tiny, and then at the end there'd been a whole — kiss, like a real one, in front of everybody, and she wasn't saying anything by it, she just thought the board should know it happened.
+"'Conduct,'" Brooke read, "'tending to impropriety, or to the appearance of impropriety, such as would call into question the character of the member or of the chapter.'"
 
-Kinsey went second, and Kinsey had been waiting all her life to go second at something, and Kinsey had Randi's hand up inside the back of the redhead's bra and down the front of her skirt, and the redhead's name, which Kinsey did not have, so it was *the redhead* the whole way through, *her hand right up under, I saw it,* and the room took a small breath.
+A sentence cut to hold anything at all. Girls danced together at every function this house threw. Girls kissed girls two and three times a semester, on a dare, for a boy, for the fun of the gasp, and no one ever wrote it up. You wrote it up when you had already decided, and then you reached for the sentence broad enough to carry what you'd decided. Randi knew the sentence to the comma. She had reached for it herself, more than once, across this same table.
 
-That was the one Randi could have stood up and killed. It would have taken a sentence. *My hand was on the outside of her skirt, Kinsey, I had a handful of her ass for a boy named Harrison and the whole floor watching, there was never anything under anything* — and the second she said it she would have been telling them, in front of Caroline's moving pen, exactly how far it had gone and exactly how well she remembered, which was to the inch.
+They had kept the mixer for last, the way you kept the witnesses for last, and for the mixer they had two.
 
-So she let Kinsey have the bra. She let her have the hand up under. She sat with her face arranged and let the worse and falser version stand, because the true one was the one she could not afford to own.
+"The dancing was — it was a lot," Sloane said, careful, fair, making it worse with the weight of being so fair. "And the skirt was tiny. And then at the end there was a kiss. A real one. In front of everybody. I'm not saying anything by it. I just thought the board should know."
 
-And under the arranged face, the true one ran anyway, the way it had run for five days: the floor, and the song breaking, and Vee reeled in by the wrists, and the held inch she had made herself take, a breath short of the girl's mouth, long enough that it stopped being a joke and they both felt it stop; and then the kiss, which she had sold to the room and to Vee and to herself afterward as a show for a boy neither of them could have picked out of a lineup; and the one thing she had not sold anyone, because she had not said it out loud even alone, which was that she had meant it. She had meant all of it.
+Kinsey had been waiting all her life to go second at something.
 
-That was the part no witness in this room would ever have, and the only part that was true.
+"Her hand was down the front of her bra," she said. "The redhead's. And the other one up her skirt — up it, I saw it, with the whole back of her out to the room." She did not have the redhead's name, so it was *the redhead* all the way through, and the room drew a small breath and kept it.
+
+It would have taken Randi one sentence to end her. *My hand was never in her bra, Kinsey. It was flat on the outside of a skirt, for a boy named Harrison, with the whole floor watching me do it — and yes, God forgive me, I helped them look at her — and I did not put my hand up her skirt.* Not that she hadn't wanted to. God, she had wanted to.
+
+But the sentence that killed the lie came with the truth riding its back, and the truth was only the smaller scandal, not the lesser crime — it broke the very same rule, it only broke it quietly — and to set it down in front of Caroline's moving pen she would have had to tell them to the inch how much she remembered and how much she had wanted, and the wanting was the one thing she had spent her whole life making sure no one ever saw.
+
+So she let Kinsey have the bra. She let her have the hand up the skirt. It was her own trap handed back to her, the one she had set for a dozen girls in that chair: dispute it and hang faster, correct it and hang slower, and either way the board has you. She sat with her face arranged and let the fat lie stand, because the thin truth cost more.
 
 "Thank you, Kinsey," Brooke said.
 
@@ -164,11 +170,23 @@ Caroline wrote that down.
 
 ---
 
-They sent her out to the landing while they decided, which was the part Randi had always liked least, from the other side of it — she had never believed it was necessary, sending the girl out, and had done it every time because the ritual wanted the girl to stand alone somewhere and hear the murmur of her own case through a door and not the words.
+They sent her out to the landing while they decided, which was the part she had always liked least from the other side — she had never thought it necessary, sending the girl out, and had done it every time because the ritual wanted the girl to stand alone somewhere and hear the murmur of her own case through a door and never the words.
 
-Now she stood where the girls stood. The murmur came through the door, Brooke's voice carrying its warmth even through two inches of oak and saying nothing she could make out.
+Now she stood where the girls stood, and she did the thing she had kept herself from doing all night. She left.
 
-The house went on below and around her, and it had opinions, and the opinions came up the stairwell in pieces the way they always did.
+She went back to a Sunday in October, the first time Vee ever got into her car — the top down, the day too bright, Vee coming out of the dorm in something she had plainly thought about and was too hopeful to hide, hopeful to be out with her, to be let in — and the whole slow lunch of her, the way she laughed with her entire body, the way she talked with her hands and forgot to guard herself.
+
+At the end of it, stopped crooked in the fire lane because fire lanes were a thing that happened to other people, Vee had leaned across the gearshift to give her the dry little cheek-kiss she gave her grandmother, and Randi had caught her by the jaw and given her the other thing instead, soft and in no hurry, a second press with something in it the first had not had. She had wanted that kiss for weeks. She had told herself it was a game she was running for Pace, and she had wanted it anyway, and it had been good — and it had been nothing at all beside the one she used to lie in the dark and build.
+
+That one she had finally taken at the mixer, in the only shape the world would let her have it: a show for a boy neither of them would remember, Vee's mouth opening under hers in a room that thought it was watching a joke. It had been more than the version she had worn smooth with imagining.
+
+And she had gone to that mixer meaning to burn the whole careful thing to the ground — she had decided it on the drive over, hands tight on the wheel: tonight she would tell Vee. Not the friend's *love you, gorgeous* she handed over at every goodbye, the one Vee heard one way and she meant two. The real one. The whole one. She had found the nerve for it because of the kiss Vee had brought her in January, out of nowhere, both hands on Randi's face — the first kiss in four months that Vee had started herself. If Vee had started that, then maybe.
+
+And then she had the kiss, the real one, at last, and it was so far past what she had let herself know it would be that the telling went out of her like air out of a room. She could not. She could not stand there with her heart out in her two hands and watch Vee's face do whatever it would do. So she had come up off it a beat behind, and cleared her face, and set the grin back on, and handed the whole thing back to Vee as a show.
+
+*I almost believed it.* She had believed every second of it. Of all her cowardices it was the one she would take back if she were allowed to take back one, and she had lived inside it for five days, and she would go on living inside it, because the only door out led to a life with no Vee in it, and that was the one picture her mind would not hold.
+
+The house brought her back. It had opinions, and they came up the stairwell in pieces the way they always did.
 
 "—remember when she made that freshman cry? The one who—"
 
@@ -178,32 +196,36 @@ The house went on below and around her, and it had opinions, and the opinions ca
 
 "—so maybe it's a little, you know. What goes around."
 
-Lauren Pike's name went by in there somewhere, soft, the way you'd say the name of someone who used to live here and didn't anymore, and Randi had sat on the board that heard Lauren Pike, had voted the way the board voted, had walked past the emptied room without slowing down. She knew exactly how her own name sounded going up a stairwell. She had made other names sound like that.
+And Lauren Pike's name, soft, somewhere in the middle of it, the name of a girl who had lived here once and did not now. Randi had sat on the board that heard Lauren Pike. She did not let herself go past that. She had sat on it. That was all. That was enough.
 
-She opened her clutch to do her mouth before they called her back, because you went back in with your face right, that was simply true, and the lipstick turned in her cold fingers and went out of her hand and dropped, and the runner took it without a sound. She looked at it lying there in the carpet, the gold tube in the long dim nap of the hall runner, and she did not bend for it, because the door was opening.
+She opened her clutch to do her mouth before they called her back, because you went back in with your face right, that was simply true, and the lipstick turned in her cold fingers and went out of her hand and dropped, and the runner took it without a sound. She looked at it lying in the carpet, the gold tube in the long dim nap of the runner, and she did not bend for it, because the door was opening.
 
 She went back in without it.
 
 ---
 
-The decision was the one she would have handed down herself, which was the last joke of the night and the one nobody in the room could see. Thursdays, all of them, mandatory, through the end of the semester — the dinners gone, the one standing hour of her week that was hers. Attendance probation on top of it.
+The sentence, when Brooke read it, was Lauren Pike's. Randi knew it from the first two notes — the rules drawn narrow and brought down all at once, the penalty kept small because small was where the humiliation lived. Thursdays, every one of them, mandatory, the dinners gone. Attendance probation, the thing they put freshmen on. A woman who had sat at the head of this table handed the punishment of a girl caught skipping a car wash.
 
-And the part Brooke read last, in the gentle voice, watching her: that a further lapse — any further lapse — would cost her the seat on the board and the single room the seat had earned her. The governed door. The one door in this house she got to lock from the inside.
+And the clause Brooke kept for last, read gently, watching her for it: one more lapse, any lapse at all, and she would lose the seat and the single the seat had earned her. The governed door. The one door in the house she got to lock from the inside.
+
+It was the room they had built around Lauren Pike. Narrow the rules, keep the penalty humiliating, make the space so small the girl walks out of it on her own and nobody ever has to be the one who put her out. Randi had helped raise those walls once, around someone else, and watched her go between them. She knew every corner of the room. She was standing in the middle of it now.
 
 "We really do just want to see you doing well," Brooke said, and folded the page in half.
 
 Randi said that she understood. Her face held. It had held for twenty-one years and it held now, and nobody at the table saw anything but a sister taking her medicine like a good one.
 
-"And listen." Brooke's voice dropped into something warmer still, something almost tender, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide.
+"And listen." Brooke's voice dropped into something warmer still, something almost tender, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide. "If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns, and that you were putting a little distance between yourself and the, the situations that caused them. The friend. The gentleman. That's all. And it all goes away, and it's like we never had to have tonight at all."
 
-"If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns, and that you were going to put a little distance between yourself and the, the situations that caused them. The friend. The gentleman. That's all. And this all just goes away, and it's like we never had to have tonight at all."
+Just stand up, just briefly. The two smallest words in the house, and Brooke had set them down on top of the only two things Randi had ever reached for that were hers.
 
-So there it was, laid out neat on the table between them, the thing the whole night had been built to reach: clemency, for a sentence. All she had to do was stand up in front of ninety girls and set them both down — the man she had driven home from dinner in August, the girl who had come up her stairs wrecked and kissed her under the composites — call them *situations,* and walk out clean.
+She let herself weigh it. She made herself, because it was not nothing, and she would not insult it by answering fast. She pictured the chapter room, the ninety faces, her own voice saying the words. She pictured what the words bought back: the seat, the single, the house's arm come warm around her shoulder again, the whole night smoothed over as though it had never been.
+
+Then she pictured the Tuesdays after it — Tuesday, and the Tuesday after that, with no Vee at the end of them — and the picture would not hold. It came apart the way the one at the mixer had come apart, the way a mind refuses a thing it knows it will not survive. She had answered this once already, in a loud bright room with her arm around Vee's waist. They were only making her answer it again.
 
 "No," Randi said. "Thank you. But no."
 
 Brooke looked at her for a moment, and something moved behind the warmth and did not surface, and then the warmth closed back over it, smooth, complete.
 
-"All right, honey," she said, and that was all, and she did not ask again, and she did not wait for a reason, the way she never waited; she was already slipping the papers back into the folder and turning to Caroline about something else, and the meeting was letting out around Randi where she sat, the sisters rising and gathering their phones, the ordinary warm noise of the house coming back into the room.
+"All right," she said, and that was all, and she did not ask again, and she did not wait for a reason, the way she never waited; she was already slipping the papers back into the folder and turning to Caroline about something else, and the meeting was letting out around Randi where she sat, the sisters rising and gathering their phones, the ordinary warm noise of the house coming back into the room.
 
 Randi stayed in the chair a moment longer, the one pulled out from the wall with nothing beside it, and then she got up and went to find her lipstick in the hall.
