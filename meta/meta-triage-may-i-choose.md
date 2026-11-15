@@ -56,7 +56,7 @@ decisions — do not re-flag without new evidence.**
 - **"like her hand had been wrong all evening, all its life maybe…" (93)** —
   split verdict (fable-5: romantic peak; gpt-5.5: winced, near-fated-romance)
   — stands by majority, and the chapter self-checks with "It was too much
-  for what it was."
+  for what it was." **Superseded 2026-11-15** — see the ruling at the end.
 - **Line 23 "It came sideways, ahead of her deciding to say it"** — stands
   as the sole marked instance (see first Fixed entry).
 - **The 10 `warm` info hits** — deliberately not acked: no scene-level warm
@@ -126,3 +126,26 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; what cha
 Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
 
 - **:125 "Her feet stayed where they were. The hand he was holding stayed too"** — ~11 praise; complaints: none.
+
+## Author ruling 2026-11-15 — the first hand-hold (:113)
+
+- **Fixed.** Pace now offers his hand and Vee takes it: "He held out his hand to her. No
+  ceremony in it, and no hurry. She took it." Replaces "He took her hand. No ceremony, no
+  question in it — he simply did it, like it was already settled between them and always
+  had been." Sol's cold read had named the take as "the only tiny catch"; the offer fits
+  Pace and the title. Later chapters have him simply take it (`lesson.md:139`,
+  `vee-on-the-bench.md:71`): first touch offered, later touch assumed.
+- **Fixed.** The closing clause is now "like her hand had been wrong all evening and was
+  only now where it belonged"; cut "all its life maybe, for want of his exactly". New
+  evidence reopened the 2026-08-05 ruling: four 2026-11-03 cold reads in three families
+  (sonnet "a bit grand for a hand-hold", glm "slightly purple", sol "total enchantment…
+  after two days", opus "the author's thumb") plus opus's capture ALMOST-STOPPED on the
+  clause; `friction_check` REAL. Cost: gemini-4-carbon's "oh, no. Oh no, no, no".
+- **Fixed — let the reader experience it.** Cut "It was the first time.", "The wrongness
+  of how much it was caught at her," and "It was too much for what it was."; "only a hand"
+  carries the too-much. "underneath the too-much" became "underneath that". Cost: sol's
+  cold read believed the rush because "Vee herself feels 'the wrongness of how much it
+  was'"; with the lifetime clause gone the rush no longer needs that defence.
+- **Left standing:** "something resolving" (sonnet and glm's half of the complaint);
+  "It should have been nothing, and it wasn't." (designed rhyme with the text beat).
+
