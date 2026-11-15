@@ -935,6 +935,13 @@ text = "Something went up in her like the good windows in the athletic dining ha
 note = "sanctioned gold-light keeper (author ruling 2026-11-05)"
 
 [[ok]]
+fp   = "365874aaf4f9"
+rule = "a-small"
+file = "scenes/bare.md"
+text = "She had everything he did and not the one thing he wouldn't say, and there was no name in her for it, not the big one and not the small one, only every breath of him now and the silence at the center where the word should be."
+note = "Author ruling 2026-11-15: 'the small one' pairs with 'the big one' — load-bearing."
+
+[[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
 file = "scenes/bare.md"

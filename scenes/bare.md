@@ -8,7 +8,7 @@ The heat came up through the building after midnight, as it always did, and thei
 
 She'd been not-sleeping a long time. She had his shirt on over the one she slept in — worn like that for the hall, for the walk to the bathroom, for the mornings Cassie was up first and might look and wouldn't have to say anything, a girl too far gone in a boy. Over her own shirt it was just a thing she wore. It hid what it was.
 
-She reached down to the rail for her phone, and its light was too much in the dark, and she turned it low. She found his name near the top, where it stayed. She held her thumb over the little field where the words would go, and waited for the words.
+She reached down to the rail for her phone, and its light was too much in the dark, and she turned it low. Twenty to three. Cassie's alarm would wake the room for Friday classes at eight. She found his name near the top, where it stayed. She held her thumb over the little field where the words would go, and waited for the words.
 
 There weren't any. There was nothing she could put in there that would come back as what she needed, nothing she could ask him that had an answer he could type. You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here. She looked at the empty field until it was only a lit shape in her hand, and put the phone facedown on the rail.
 
