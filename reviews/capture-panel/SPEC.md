@@ -1483,4 +1483,6 @@ path now resolves to a v3 file. `capture_dag` refuses `--memory chain` and
 `--borrow-history`. Gate headers still name their protocol (`capture-dag-v3-grounded`,
 `capture-dag-v2-rich`), which is now the only in-file marker of era. Earlier sections of
 this SPEC that say `dag-v3/` mean today's `dag/`; those that say `dag/` mean the chain era.
-`split-experiments/` is frozen as written and keeps its original directory names.
+`split-experiments/` was removed from the tree the next day (2026-11-15; in git at `b5081613`).
+The trials this SPEC cites by name (`v3-ch21`, `v3c-ch45`, `date-fix`, …) are read from there.
+`capture_dag --experiment NAME` still writes a fresh trial under `split-experiments/NAME/`.
