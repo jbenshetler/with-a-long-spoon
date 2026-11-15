@@ -140,7 +140,7 @@ fact from the other side, filed by Vee as friendship.
   knee, and she worked the rim in under her thumbnail until it bit."* Now: *"Her free
   hand went up and eased the scrunchie an inch down her ponytail."* **Readers praised the
   press line** — three capture readers caught it and read it as intended (e.g.
-  `reviews/capture-panel/claude-fable-5-1/dag/romance-graduate/read-merged-space-ch026.md`:
+  `f1c719a5:reviews/capture-panel/claude-fable-5-1/dag/romance-graduate/read-merged-space-ch026.md`:
   *"She's still bleeding, though. The rim under the thumbnail 'until it bit'"*). Changed
   anyway: **the tell was inconsistent with Randi's emotional state.** The press is
   reserved for the most serious emotional challenges and fires in reaction; here she

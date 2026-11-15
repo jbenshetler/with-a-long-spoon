@@ -467,7 +467,7 @@ These are individual lane scores, not rankings across models.
 
 [GLM’s cold read](/home/jeff/clients/wals/one/reviews/cold-read/glm-5.3/fed.md:43) calls Cassie’s movement “short and nearly perfect” and says the brunch earns its length. It scores Heat 2 / Romance 3.
 
-The remaining repetition response **is concentrated in the Claude readers, but isn’t exclusive to 4.8**. Both [Opus 5](/home/jeff/clients/wals/one/reviews/capture-panel/claude-opus-5/dag/fsog-refugee/gate-ch021.md:31) and [Opus 5.5](/home/jeff/clients/wals/one/reviews/capture-panel/claude-opus-5-5/dag/romance-graduate/gate-ch021.md:27) snag on:
+The remaining repetition response **is concentrated in the Claude readers, but isn’t exclusive to 4.8**. Both Opus 5 (`f1c719a5:reviews/capture-panel/claude-opus-5/dag/fsog-refugee/gate-ch021.md:31`) and Opus 5.5 (`f1c719a5:reviews/capture-panel/claude-opus-5-5/dag/romance-graduate/gate-ch021.md:27`) snag on:
 
 > “She gave Randi the same dinner.”
 

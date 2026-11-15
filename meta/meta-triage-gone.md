@@ -151,7 +151,7 @@ avoided as it collides with `famished:73`'s keeper.
 
 Cold: six models. Capture: 21 lanes through ch27. Records under
 `reviews/cold-read/<model>/gone.md` and
-`reviews/capture-panel/<model>/dag/<persona>/gate-ch027.md`.
+`reviews/capture-panel/<model>/dag/<persona>/gate-ch027.md` (chain era; in git at `f1c719a5`).
 
 ### Left standing
 
