@@ -106,6 +106,18 @@ max_input = 920576
 max_output = 943718
 # catalog: google/gemini-4-carbon
 
+# kimi-k3.1-pro: read 2026-11-13 from the OpenRouter endpoints list. Author
+# quoted $0.2375/$8.411 (Relace fp4, excluded by the floor). Allowed: Morph fp8
+# $0.747/$9.526 (cheapest), DeepInfra bf16 $1.90/$9.50. Recorded at the dearest
+# allowed rate per field. 1M context, 943,718 max output.
+[models."moonshotai/kimi-k3.1-pro"]
+input = 1.90
+output = 9.526
+context_window = 1048576
+max_input = 920576
+max_output = 943718
+# catalog: moonshotai/kimi-k3.1-pro
+
 # muse-spark-1.3 / muse-wonder: read 2026-11-01 from the OpenRouter catalog —
 # first-party Meta only, quantization unknown, 1M context, 943,718 max output.
 [models."meta/muse-spark-1.3"]
