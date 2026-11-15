@@ -55,8 +55,8 @@ for," "lovely/pleasantly" thinned, doubled walk-order cut). Durable rulings:
 
 ## Left standing — do not re-litigate
 
-- **`:517` "what was not her could be given away all day and cost nothing" —
-  stands (line edit, cost-vague, 2026-08-11).** Raised in the book-wide
+- **SUPERSEDED 2026-11-14 — cut (explain-after-showing pass, below).** ~~`:517` "what was not her could be given away all day and cost nothing" —
+  stands (line edit, cost-vague, 2026-08-11).~~ Raised in the book-wide
   `cost-vague` back-sweep (vague "cost something/nothing/anything"; rule + author
   ruling in `style/style-rules.toml`). Not the backward "high-effort thing dressed
   as effortless" snag that got peekaboo recast — the opposite structure: it's the
@@ -477,3 +477,60 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   not stop"). The recognition is spoken at "There you are, Randi." It was the book's only
   "good girl". Costs: Zhipu's "earned its landing" and the genre signal; the author's
   reason outweighs a genre wink. Rule recorded in `meta-craft-pace.md` Console rules.
+
+## Explain-after-showing pass (author 2026-11-14)
+
+Harvested from the ch1 cold reads + capture gates; author reconsidering earlier
+rulings on the principle that readers prefer reaching their own conclusions.
+
+- **Mechanism paragraph (`:503`) — middle cut.** Out: "The face took the
+  being-looked-at, the being-wanted, the being-touched, and none of it reached any
+  further than the face, because the face was not her. What was not her could be
+  given away all day and cost nothing." Kept: "Nothing ever happened to her. That
+  was what the face was for." (sol cold read: "piercing"; carried into the `core`
+  ck-ch010 face-mask claim) and "perfect was safe". Evidence: sonnet-5-5 rg
+  ALMOST-STOPPED on the cut sentence ("I didn't need the translation"), sol cold
+  read ("presses the point longer than I needed"); zero praise for the cut words.
+  The smile on "the face that had begged", the cap, the flinch and the lock already
+  showed the armor. Supersedes the 2026-08-11 cost-nothing keep and the 2026-10-11
+  "not to be trimmed further" note. Cost accepted: the {{Fairytale}} "currency"
+  rhyme goes implicit.
+- **Aliveness paragraph (`:501`) — the not-from-her / not-from-his-body / from-being-seen
+  diagram cut.** Out: "And it had not come from her, and it had not come from anything
+  he had done to her body. It had come from being seen." Kept: "more alive on that
+  bench…" (quoted in four cold reads, carried in fact-consensus ck-ch010/020) and "He
+  had looked past the face… And found her." (carried across checkpoint claims).
+  Evidence: opus-5-5 rg twice ("spells out its own thesis"), and its split-lane ledger
+  held it as a GRUDGE through ch20 ("I've been keeping count ever since") — a trust
+  cost; sol cold read "belabors". The image "looked past the face… found her" carries
+  the seeing; the motif stays named in her own rhythm ("being seen, and being held
+  while seen"). Cost accepted: the explicit seeing-not-body contrast of the mirror
+  rework (B+C) goes implicit.
+- **Right-please gloss (`:415`) — cut, tag replaced by a gesture.** Out: "The *please*
+  was different. The *please* came from below. The *please* was the *please* of a
+  woman who needed something." and the "she said" tag; in: "Her hands let go of the
+  grips." (pays off `:391`'s hands worrying the grips). Evidence: opus-5-5 rg
+  ALMOST-STOPPED twice + its cold read; GRUDGES carried by opus-5-5 (ch35, ch44) and
+  sonnet-5-5 (ch20, ch44, ch55) ledgers — the line taught two readers to hunt for
+  explanation book-long. The waiter criterion (`:369`) and "There it was… apparatus
+  of performance. *Hers.*" (`:425`) carry the turn. Cost accepted: "came from below"
+  (carried in fable-5-1's ck-ch010 and its ch15 callback). "She sobbed" declined —
+  contradicts the post-orgasm "She was not making sobbing sounds."
+- **Wanted-position line (`:389`) — DECLINED, stands.** Flagged by fable-5-1 rg ("a
+  wince… not a real near-stop") and the opus-5-5 cold read ("the author stepping in to
+  label things"); one vendor, no grudge, no checkpoint; gemini-4-argon adopts the term
+  approvingly. It does more than gloss: it turns "position", used literally six times
+  before (`:187` "Get the position", `:201`, `:217`, `:259`), from the body's into her
+  social one, and "The bench was not there" makes the bench a place off her map; "her
+  whole adult life" is new history, not restatement; the jacket's "a wanting she'd have
+  been ashamed to name" pays it off. Do not re-raise on single-vendor wince evidence.
+- **Orgasm paragraph (`:431`) — authenticity gloss cut, recast.** Out: "It was not
+  anything she could have produced if she had been producing it." (glm-5.3 rg
+  ALMOST-STOPPED "narrate her authenticity for me"; deepseek cold read praised it —
+  weak either way, cut on structure: a fourth statement of *hers* after the evidence).
+  Author recast (2026-11-14): the evidence folds into the claim by colon ("…had ever
+  been: uneven, going on longer than he had known her to"), and **no "it" for Randi's
+  body or orgasm** — "her body did something he had never seen *her* do" (author
+  ruling: "it" depersonalizes; "her" for the body accepted). "The orgasm was *hers*"
+  (14 checkpoints) unchanged.
+
