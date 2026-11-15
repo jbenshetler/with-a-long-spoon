@@ -315,3 +315,10 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 - [ ] **sol** — "You do nice work" reduces Vee to Pace's project. `reviews/cold-read/gpt-5.6-sol/gone.md:13`: "…without Vee knowing, so the hidden arrangement remains beneath all this warmth. My one friction is “You do nice work.” It deliberately makes Vee sound like Pace’s successful project, and I disliked hearing her reduced that…"
 - [ ] **opus-5-5** — "hand still at the side of his face" ×3. `reviews/cold-read/claude-opus-5-5/gone.md:15`: "…body the thing she was describing" explains a gesture I'd already understood. And "her hand still at the side of his face" comes three times in a few lines, which I tripped over.…"
 - [ ] **glm** — two chapters away from Vee's view. `reviews/cold-read/glm-5.3/gone.md:36`: "…consolidation. It doesn't advance the plot an inch and I didn't want it to. But I notice the book has now spent two chapters away from Vee's own view of her danger, and I'm starting to want her back in the room.…"
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:21 "She got past me before I could help it."** — ~21 praise; complaints: none (friction_check's one "complaint", gemini-4-argon, is praise: "completely disarming").
+- **:69 "Not the loose stillness of after. A different one, the kind that takes holding."** — ~18 praise; complaints: one opus capture, self-dismissed ("which I didn't need, but fine"): NOISE.

@@ -127,3 +127,9 @@ Line 17's post-sex chill beat ("he'd worked out she went cold the minute they'd 
 
 - `:103` "the warmth of his car" → "his truck" — Pace drives a truck.
 - `:151` Cassie's recalled question "with her book still open on her chest" → "still facedown against her knees" — matches `:105`/`:109`.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:167 "her body, which had opinions all day long every day of her life, had none at all down here. It only worked."** — ~13 praise; complaints: none.

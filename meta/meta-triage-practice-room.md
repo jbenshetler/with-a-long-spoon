@@ -236,3 +236,9 @@ reason).
 
 ### Left standing — do not re-litigate
 - **:115** "a soft wet heaviness she had no vote in" — the book's first vote figure; Vol 2 carries only two (`all-the-time.md:105`). Rationing of the vote family lands in Vol 3. The vote → proof (`:121`, protected #33) → hand → refusal run is the R1 arc in one sequence.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:141 "Vee's arms were slow coming down. She hadn't meant to hold on."** — ~13 praise; complaints: none.

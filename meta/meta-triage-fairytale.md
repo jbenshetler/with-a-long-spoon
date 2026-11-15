@@ -121,3 +121,9 @@ Follow-on tweak (same session): the decision paragraph was reconciled with the t
 - **"This was the best the acceptable world could do for her."** gpt-5.5 alone felt the author's hand — and in the same breath said "I also needed it emotionally." It is the scene's thesis-confirmation line (`meta-arch-randi.md`: "Safe is the same fact as dead"). Stands.
 - **"She found, tonight, that she liked not being asked."** Opus's prickle at the consent inversion is the designed false signal (D/s-rhyme thread, surrender-shape emptied of seeing). Working as designed.
 - **"She walks in beauty" (unfinished) and the "good sandwich" line.** One passing shrug each; the sandwich line is quoted as a favorite by two other models. Taste; stand.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:121 "felt her own mouth do it from a long way off. Her body had spent itself on him and she remained unmoved."** — ~9 praise; complaints: one Google, outweighed by two Google praise: NOISE.

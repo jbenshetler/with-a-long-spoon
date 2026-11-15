@@ -305,3 +305,9 @@ documentarian; the title read as deepening on second thought without spoiling
 (Opus even reached the proof-by-induction sense). Heat 1–2 / Romance 1–2
 across the board. Both Claude readers predict the new taste for being looked
 at is the lever for the threesome on-ramp — the intended forward pressure.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:35 "her body agreeing, low and certain, as it had in the glass that afternoon"** — ~9 praise; complaints: one Anthropic: NOISE.

@@ -120,3 +120,9 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; what cha
 
 ### Fixed
 - **:143** "The grin came up in her before she could do anything about it" → "The grin came up in her and she let it stay". Directly after her first choice (`:129`, "I'm making an exception"), the grin is owned; also removes the tail shared with `see-you-later.md:31`. No reader mentions.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:125 "Her feet stayed where they were. The hand he was holding stayed too"** — ~11 praise; complaints: none.

@@ -108,3 +108,9 @@ or a genuinely new failure mode).
 | `:33` | *"She brought the bag in against her body like something sleeping."* → *"She brought her backpack in over one shoulder and the bag against her body like something sleeping."* | the backpack (`:39`) was never carried in from the car; backpack placed early so the sentence keeps its closing image |
 
 The "why no bag" confusion was fixed upstream, in {{We Find Out}} (`we-find-out.md:139`, the bag promise now *"next time I come over"*; see `meta-triage-we-find-out.md`). `:15` "She'd brought no overnight bag … and she'd brought the dress" stands verbatim (reader-praised, 17 review hits).
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:55 "His hand came partway up and he put it away again, and the putting-away cost him something she could see"** — ~7 praise; complaints: none.

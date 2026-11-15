@@ -223,3 +223,10 @@ Stage P3: the want owned, the word stalls; the lag belongs on the naming.
 
 ### Fixed
 - **:55** cut "before she could help it" — second lag in the paragraph (the other left standing); appetite owned aloud in this chapter. No mentions.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:75 "there was a catch in her breath she didn't quite smooth over"** — ~6 praise; complaints: none.
+- **:137 "Vee was the one who wouldn't let it"** — ~15 praise; complaints: none.

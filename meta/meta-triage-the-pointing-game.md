@@ -583,3 +583,9 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   next ch3 panel again reads Pace as never wrong despite :127, consider making the
   misfire land harder (it ends a long description; Randi's correction follows). Protection
   of the misfire unchanged.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:27 "The question reached her body before it reached her"** — ~18 praise; complaints: one Anthropic complaint, aimed at the next sentence ("He knew her body's answer"), not this one: NOISE.

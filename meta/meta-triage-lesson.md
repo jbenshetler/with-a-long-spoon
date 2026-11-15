@@ -432,3 +432,9 @@ inside the measured re-read drift band.
   of her, all at once — because Randi had said so"*), which eleven lanes across
   four models named as that chapter's best beat. Softening it to satisfy a
   narrative-cosigning objection would blunt the payoff.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:253 "the lead arriving before her feet knew what to do with it, the moment the dance took her"** — ~6 praise; complaints: none.

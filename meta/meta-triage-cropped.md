@@ -66,3 +66,10 @@ Stage P3: the want owned, the word stalls; the lag belongs on the naming.
 
 ### Fixed
 - **:115** cut ", before she had decided to think about anything at all" — repeats `:103` (praised); the thing without a name is the stall. Only a neutral sol authorship-audit mention.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:89 "as if he had begun two different responses with his hand and put both down before either had finished"** — ~9 praise; complaints: none.
+- **:103 "a small *wait*, the kind her body produced before her mind had caught up with what her body was already registering"** — ~8 praise; complaints: one Anthropic: NOISE.

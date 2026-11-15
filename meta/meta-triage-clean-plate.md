@@ -51,3 +51,11 @@ Stage P4 with the taste regression; Randi thread R2 (routed through Pace) — Ra
 
 ### Left standing — do not re-litigate
 - **:91** "the body telling on her before she'd said a word" — verbatim of `nothing-underneath.md:53`, but the same coat lining: a designed callback, praised by claude-fable-5-1, claude-opus-5-5 and glm-5.3.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:279 "and she couldn't take the volume back"** — ~8 praise; complaints: none.
+- **:285 "and the word was out before any part of her had vetted it, "—he's enthusiastic.""** — ~19 praise; complaints: none.
+- **:311 "Randi's whole body did a small quick thing, a catch and then a rise, and the rise went on a beat too long"** — ~21 praise; complaints: none.

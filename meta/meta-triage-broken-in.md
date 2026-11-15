@@ -291,3 +291,10 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy o
 ### Fixed
 - **:55** cut ", her body knowing where to go a half-second before she did" — she is owning the dance ("the dance had been *good*"), and `lesson.md:113,253` already carry the dance-lag. No mentions of the clause.
 - **:117** "the laugh came up out of nowhere and bent her over, helpless, the kind that doesn't ask permission first." → "her head went back, her throat to the ceiling, and the laugh took all of her." Recalls, without quoting, the head-thrown-back laugh that drew the eye in `the-pointing-game.md:137`, now in front of Randi just after "top off"; removes the near-duplicate of `sorority.md:197` and a "came up out of her". The charge stays on the reader's side — Vee is at R1 and does not register Randi watching.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:169 "Vee's breath did something she hoped wasn't out loud."** — ~8 praise; complaints: one Anthropic: NOISE.
+- **:205 "she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."** — ~8 praise; complaints: none.

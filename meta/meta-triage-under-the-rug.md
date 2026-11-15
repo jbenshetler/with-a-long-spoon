@@ -199,3 +199,9 @@ Stage P3: the want owned, the word stalls; the lag belongs on the naming.
 
 ### Fixed
 - **:83** cut "with no say from her in it" — contradicts `:81` "as she let it"; eighth no-say in Vol 2. Sole complaint gpt-5.6-sol queer-woman; no praise of the clause.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:11 "what came out came out at the wrong size for the room"** — ~6 praise; complaints: none.

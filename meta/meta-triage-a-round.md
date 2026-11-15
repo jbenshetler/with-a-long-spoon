@@ -264,3 +264,10 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy o
 ### Fixed
 - **:200** cut ", the wanting rising up and out before she could decide to want it" — she has started spending it and choosing; fourth "decide" in the chapter. No reader mentions.
 - Left standing: **:204** "the kind of accident her body kept arranging without consulting her" — deniable agency as she starts spending it; arc-right.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
+
+- **:190 "then she was rising, not on purpose, up onto her toes, half an inch, an inch, lifting toward something she had no name for"** — ~22 praise; complaints: queer-woman only, a consent reservation about the scene (she never says aloud she wants to continue), not about this line: NOISE.
+- **:220 "before he'd decided to, the way you put your hand out before you think"** — ~11 praise; complaints: none.
