@@ -97,6 +97,17 @@ class Classification(unittest.TestCase):
         self.assertEqual(fc.classify("The dinner scene is too much."), "complaint")
         self.assertEqual(fc.classify("the thin-sliced apple; the deadbolt"), "neutral")
 
+    def test_drag_is_pacing_only(self):
+        self.assertEqual(fc.classify("The middle section drags."), "complaint")
+        self.assertEqual(fc.classify("It dragged on past the dinner."), "complaint")
+        self.assertEqual(fc.classify("Randi dragging her breasts down his chest."), "neutral")
+
+    def test_ledger_tracking_ignores_weak_cues(self):
+        self.assertTrue(fc.LEDGER_TRACK.match("~ S5.4 DEEPENED: the patent explains the money"))
+        self.assertTrue(fc.LEDGER_TRACK.match("+ SUSPICION: [S13.4] a real wound"))
+        self.assertFalse(fc.LEDGER_TRACK.match("+ GRUDGE: the book explains the joke"))
+        self.assertEqual(fc.classify("the patent explains the money", weak_cues=False), "neutral")
+
     def test_inventory_lines_are_skipped(self):
         self.assertEqual(fc.paragraph_context("**Motifs & images:** the thin-sliced apple", ""), "inventory")
         self.assertEqual(fc.paragraph_context("**Cast present (in person):** Vee", "complaint"), "inventory")

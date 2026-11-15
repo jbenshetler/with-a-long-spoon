@@ -131,7 +131,10 @@ FAMILIES = {           # model-id prefix -> family
 # --------------------------------------------------------------------------
 
 COMPLAINT_STRONG = [
-    r"\bdrag(s|ged|ging|gy)?\b", r"\bsag(s|ged|ging|gy)?\b",
+    # pacing only: reviewers paraphrase the prose ("her breasts dragging across his chest")
+    r"\bdragg(y|ed on|ing on)\b", r"\bdrags on\b",
+    r"\b(it|this|that|chapter|scene|section|middle|stretch|book|pace|pacing|part) drag(s|ged)\b",
+    r"\bsag(s|ged|ging|gy)?\b",
     r"\b(too|over-?)long\b", r"\bruns? (a (touch|bit|little) |too )?long\b",
     r"\bgoes on (too|a beat|a bit)\b",
     r"\bon[- ]the[- ]nose\b", r"\bheavy[- ]handed\b",
@@ -203,6 +206,11 @@ CONTEXT_PRAISE = re.compile(r"^(loves?|loved|highlights?|what worked)\b", re.I)
 CONTEXT_INVENTORY = re.compile(
     r"^\**\s*(motifs?( (&|and) images)?|cast present|mentioned only)\b", re.I)
 FIELD = re.compile(r"^almost[- ]stopped\b", re.I)
+# Capture-ledger lines that track the story (+ FEAR/LOVE/SUSPICION/WAITING, ~ S5.4 DEEPENED)
+# are plot bookkeeping: "the patent explains the money" is not a craft complaint, so weak
+# cues are ignored there. GRUDGE lines can be against the book and keep every cue.
+LEDGER_TRACK = re.compile(
+    r"^[+~]\s*(\[?[FLSW]\d+\.\d+\]?|\**(FEAR|LOVE|SUSPICION|WAITING)\b)", re.I)
 
 STOP = set("""a an the and or but if then so of to in on at by for with from up down out
 off over under into onto as is was were be been being am are it its it's this that these
@@ -450,7 +458,7 @@ def extract(read: Read, scene: Scene) -> list[Hit]:
         quoted = {si for si, _ in verified}
         for si, (l1, l2, run) in verified:
             x, y = sents[si]
-            stance = classify(masked[x:y], ctx)
+            stance = classify(masked[x:y], ctx, weak_cues=not LEDGER_TRACK.match(s))
             if stance == "neutral" and si + 1 < len(sents) and si + 1 not in quoted:
                 nx, ny = sents[si + 1]
                 stance = classify(masked[nx:ny], weak_cues=False)
