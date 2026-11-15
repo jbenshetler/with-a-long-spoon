@@ -144,9 +144,7 @@ A sentence cut to hold anything at all. Girls danced together at every function 
 
 They had kept the mixer for last, the way you kept the witnesses for last, and for the mixer they had two.
 
-AI: I don't see the size of the skirt being an issue, do you? I think Randi bringing Vee as her date could be an issue. Something about the purpose of the mixer being subverted. This feels pretty weak overall to me. I think it would be more that Randi exposed Vee's ass - I mean bottom. That's not how we're supposed to behave. And the kiss. That was not some peck. There was tongue. It was a lot, out where everybody could see. workshop.
-
-"The dancing was — it was a lot," Sloane said, careful, fair, making it worse with the weight of being so fair. "And the skirt was tiny. And then at the end there was a kiss. A real one. In front of everybody. I'm not saying anything by it. I just thought the board should know."
+"She brought a girl," Sloane said, careful, fair, making it worse with the weight of being so fair. "As her date. To a mixer. And she had her hands all over her out on the floor — hiked that little skirt right up, for the whole room to see — and at the end she kissed her. Not a peck. A real one, with everything in it, in front of everybody. That's not how we're supposed to behave. I'm not saying anything by it. I just thought the board should know."
 
 Kinsey had been waiting all her life to go second at something.
 
@@ -214,15 +212,21 @@ It was the room they had built around Lauren Pike, and she had helped. Narrow th
 
 Randi said that she understood. Her face held. It had held for twenty-one years and it held now, and nobody at the table saw anything but a sister taking her medicine like a good one.
 
-AI: I don't feel like 'little distance' is enough repudiation. Reaffirm commitment to the sorority by minimizing non-Greek contact. It needs to feel like Randi disclaiming Pace and Vee to the group. Pace wouldn't mind. He would help Randi without complaint. How would she tell Vee, "You can't come here anymore." How would she explain why? If she said it was the kiss at the dance - Vee would die. Workshop.
-
-"And listen." Brooke's voice dropped lower still, gentler, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide. "If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns, and that you were putting a little distance between yourself and the, the situations that caused them. The friend. The gentleman. That's all. And it all goes away, and it's like we never had to have tonight at all."
+"And listen." Brooke's voice dropped lower still, gentler, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide. "If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns. That your sisters come first, the way they used to. That you were letting the outside things go quiet for a while — not being seen out with them, on campus or off, until the dust settles. The friend. The gentleman. That's all. And it all goes away, and it's like we never had to have tonight at all."
 
 Just stand up, just briefly. The two smallest words in the house, and Brooke had set them down on top of the only two things Randi had ever reached for that were hers.
 
-She let herself weigh it. She made herself, because it was not nothing, and she would not insult it by answering fast. She pictured the chapter room, the ninety faces, her own voice saying the words. She pictured what the words bought back: the seat, the single, the house's arm come warm around her shoulder again, the whole night smoothed over as though it had never been.
+She let herself weigh it. She made herself, because it was not nothing, and she would not insult it by answering fast.
 
-Then she pictured the Tuesdays after it — Tuesday, and the Tuesday after that, with no Vee at the end of them — and the picture would not hold. It came apart the way the one at the mixer had come apart, the way a mind refuses a thing it knows it will not survive. She had answered this once already, in a loud bright room with her arm around Vee's waist. They were only making her answer it again.
+It was not a little distance. It was standing up in front of the chapter and setting them both down — and then living it. Never seen with either of them, on campus or off. She was popular, but even popular girls had enemies, and she had been Standards; girls held grudges, and some of those grudges were hers. Someone would see her. Someone would talk. And it would come back around to this room, to Brooke — and there would be nothing soft about it the second time.
+
+Pace she could keep. She could go to his place and no one on earth could say for certain where she'd been, and he would make it easy, take whatever it cost him and never once let it reach her.
+
+Vee there was no quiet place for. No room of her own to vanish into, nowhere the two of them could be that the house could not see. She could sit beside her in a lecture hall, maybe, eighty strangers between them and the world, and nothing past that. With Vee it was near to everything.
+
+She would give up the house before she gave up Vee; she knew that the way she knew her own name. But it would not come to that, and she made herself see that too, because clear-eyed was the only way to take a thing like this. Decline tonight and she took the humiliation and the mandatory Thursdays, and all the Thursdays took from her was the hour after class that had been Vee's. That was the whole bill. She kept the Tuesday dinners. She kept the shopping, the long way back, the two of them laughing across the middle of campus. She kept Vee. She only lost Thursdays.
+
+She had answered this once already, in a loud bright room with her arm around Vee's waist. They were only making her answer it again.
 
 "No," Randi said. "Thank you. But no."
 
