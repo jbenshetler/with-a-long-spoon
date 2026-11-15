@@ -12,7 +12,7 @@ A Middle Eastern restaurant a few blocks off campus (small, family-run, the olde
 
 **Appetite arc:** she arrives hollow (nervous prep crowded out lunch), the hunger "wider than it had any right to be," "empty a lot longer than since noon" (the deniable lifelong-under-feeding reach). 
 
-**Hand-motif payoff:** she watches his hands all night (tearing bread "with care for the heat"; the right-hand pattern; the drip) → he takes her hand for the first time on the walk back ("for want of his exactly") → the taut hand at the tree. 
+**Hand-motif payoff:** she watches his hands all night (tearing bread "with care for the heat"; the right-hand pattern; the drip) → he offers his hand for the first time on the walk back and she takes it ("wrong all evening and was only now where it belonged") → the taut hand at the tree. 
 
 **The right-hand rule — canonical answer (ruling 2026-07-28):** the "consistent rule he kept without seeming to think about it" is Middle Eastern / North African shared-dish etiquette — one eats from a common plate with the right hand only. Pace practices it as internalized courtesy toward the cuisine and the house, of a piece with his competence here (the considered order, the names said low). Vee reads it as one of his private rules; the prose line is accurate as written. **Never explained on the page** — decodable by readers who know the custom, opaque to the rest; the opacity is Vee's POV working, not a dangling thread. No payoff scene needed or planned (an optional three-word payoff at a later shared-plate meal is available but not owed). Cold readers flagging it as an undecodable mystery are reading the surrender of information correctly.
 
