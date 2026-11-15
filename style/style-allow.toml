@@ -3308,6 +3308,20 @@ text = "He weighed his own cup and paid for both before she'd found her wallet; 
 note = "literal path sense, false positive"
 
 [[ok]]
+fp   = "5c27c18acc3b"
+rule = "a-small"
+file = "scenes/made-up.md"
+text = "She came down the hall into the lamplight the careful way first — the small steps, the slit lying shut, the dress just a dress, deep red going bottomless where the light moved on it."
+note = "Author ruling 2026-11-15: 'the small steps' stands — the careful managed gait, echoes The Induction's short managed steps."
+
+[[ok]]
+fp   = "8c19a8596012"
+rule = "cost-vague"
+file = "scenes/made-up.md"
+text = "His hand came partway up and he put it away again, and the putting-away cost him something she could see, and standing there with her heart going she understood that she had gotten this exactly right."
+note = "Author ruling 2026-11-15: 'cost him something' stands — the visible restraint is the beat."
+
+[[ok]]
 fp   = "6211ed77a97d"
 rule = "filter-verbs"
 file = "scenes/made-up.md"
