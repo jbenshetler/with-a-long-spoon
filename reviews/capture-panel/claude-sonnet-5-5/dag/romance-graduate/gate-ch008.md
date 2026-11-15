@@ -1,28 +1,31 @@
-*capture-dag-v3-grounded · gate ch008 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b503e031fc79 · dated · memory grounded: facts none + raw ch001..ch007 · history ch001..ch007 · ledger no seed 980fdbe94f6b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch008 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b4dea2c4af1e · dated · memory grounded: facts none + raw ch001..ch007 · history ch001..ch007 · ledger no seed c5974524e1ae · 2026-11-15*
 
 REACTION
 
-Okay, this is the first date, and it's lovely. It's also the chapter where my stomach has been sinking since the lobby, because I know whose hands built every beat of it. "May I choose?" is the hook, and it works on me exactly the way it works on Vee. Handing the menu across and being fed is a surrender that costs her nothing, so I felt the relief too. The soft words she can't read, "each soft sound a closed door", are the best prose in the chapter, and the hunger that "had been empty a lot longer than since noon" got under my ribs.
+Okay. This is the date chapter, and it's lovely and I'm a little sick about it, which I think is the intended combination.
 
-The hum of dread is the whole pleasure. Her braced-for-the-bill part finally goes quiet, and I'm sitting there knowing the bill is Randi, and a plan, and a bench. I know that "Don't answer tonight" and his right hand and the careful boots are all him being himself, and also him being very good at this. I can't tell where the sincere ends. I think that's the point, and I'm not complaining.
+It's the first chapter where Pace's care and the con run in the same scene, and I can't pull them apart. "May I choose?" is the title and the hinge. She hands him the whole menu, he weighs it like it matters, and she feels relief like a surrender. And it is a surrender. She's being fed by the man who engineered her. The food writing is the best sensory work in the book so far. The hot bread, the lemon-sharp salad, the smoke-dark dip "to wake you and one to fold you under." And the line that got me: the hollow "had been empty a lot longer than since noon." That's Randi's apple from chapter 1, run in reverse. Another woman who portions herself gets fed. The book is rhyming with itself on purpose, and I like it.
 
-The kiss is good. "I don't kiss a man I've known a couple of days," followed by "I'm making an exception," is Vee choosing, and he leaves the last inch for her to cross. It's the small, charged, consent-as-erotic thing the blurb promised. Then she takes a second kiss with the grin on her mouth. That's a turn in the bond, even clothed. Heat is a low simmer at best.
+The right-hand detail is a small plant. Always the right hand, "some consistent rule he kept." I don't know what it means, but it was flagged. I'm filing it.
 
-Complaints: the lobby inventory and the "she understood without being told" explaining are my old grudge. This is also the third mostly quiet chapter in the stretch, so I'm skimming a little for the bench. Randi is absent again, and I miss her badly. Is Pace falling for real? He didn't get to hide anything here, which makes me want his head.
+The kiss is the thing. "I don't kiss a man I've known a couple of days," and then she doesn't walk away, the hand pulled taut, and she makes the exception herself. He leaves the last inch where it is. That is the courtliness doing exactly what it does, and it's genuinely hot in a clothed, slow way. The blurb's "choosing becomes the most erotic thing she has ever done" is right there. But I know he built every inch of the room she chose in. The yes is free, and he knew she'd give it, and the book knows I know. That's the delicious dread.
+
+Randi is absent again, and I felt it. Only Cassie, "That's not a man, that's a man," which is sweet and also dramatic irony. I want Randi's hunger back in the room. Heat is a simmer, a good one. The prose has some soft-focus drift ("the softness stayed on her"), and the elevator bit was cute but loose. Still, I'm leaning in, and the bench is surely next.
 
 GATE 8 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "He'd showered and shaved and dressed and come to get her, and the care ran past anything the room could see" (the long, explain-y lobby passage)
-WHY: The date is seductive and I fell for it right alongside Vee, which is the uncomfortable part. Charge is low and Randi is gone, but the kiss is a real turn and I want what comes after it.
+ALMOST-STOPPED: "He settled it with Christine while Vee found her coat, and Christine said something to him at the door that made him duck his head" (soft-focus filler, nothing charged)
+WHY: The meal and the exception-kiss are tender and specific, and everything sweet in it is poisoned by what I know. I want the bench and Randi's face when she hears about it.
 
 LEDGER
-+ LOVE: Vee's "I'm making an exception." She chooses the kiss, and Pace leaves her the last inch.
-+ FEAR: This tenderness is both sincere and engineered, and Vee can't tell the difference, so the break will be worse.
-+ WAITING: Randi's reaction to the date, and her head again
-~ W7.3 ANSWERED: Vee said yes and the date happened.
-~ S7.2 DEEPENED: "Don't answer tonight" worked exactly as built.
-~ W5.5 DEEPENED: Still waiting on the bench, and now the first kiss is done.
++ LOVE: The meal: Vee's hollow "empty a lot longer than since noon," the apple rhymed in reverse
++ SUSPICION: Pace always uses his right hand to eat, and the book flagged it, so it's a plant for something later
++ FEAR: Vee's kiss, the exception she chose herself, is the freest yes yet, and it's inside his architecture, so it'll hurt most when she learns
++ WAITING: Randi hearing about the date, and whether she can hold the face
+~ W7.3 ANSWERED: Vee said yes and the dinner happened
+~ S7.2 DEEPENED: "Don't answer tonight" paid off. She felt it as respect, and it worked
+~ W5.5 DEEPENED: The bench is next in the pipeline, and the first kiss has happened

@@ -4,42 +4,39 @@
 
 ## Reader reaction
 
-The chapter worked on me, and I was uneasy the whole way through. The two feelings didn't cancel each other out.
+Vee was the pull of this chapter. I was warm toward her the whole way, and uneasy on her behalf, because I know things she doesn't. She's being brought to a table by a man who, in the last few chapters, pointed her out as a game and sent Randi to collect her. Everything he does here is gentle and attentive, and I believe the gentleness. That doesn't make it feel safe. "I'd love to," he's "left it with me, like it could keep," "May I choose?": each lands as sweet, and each is also something I can read two ways. The page never tips me into outright suspicion. It gives me the dread of watching someone fall happily, and I felt that more than any plot worry.
 
-Vee is the one I feel for most right now. The dinner made me ache for her. The best moments are small ones: she stops monitoring herself while she eats, "the part of her always braced for the bill of a thing to come due… just wasn't there," and she loses the thread of what he's saying and "nothing bad happened." Her hunger goes down "into something that had been empty a lot longer than since noon." That landed hard after Randi's apple slices. Her kiss line, "I don't kiss a man I've known a couple of days… But I'm making an exception," is lovely. So is the held-hand beat where she won't be led away. The tug on the hand, the small kiss, the pause, then "she leaned in and took it" is the swoon of the chapter. I wanted it for her.
+What swept me up was the dinner, and mainly the hunger. Vee walks in starving without knowing it, eats without watching herself eat, and "stopped waiting for the evening to go wrong." I felt that in my chest. It sits against the apple slices from the Pace and Randi chapters, a girl who portions herself, and here a second girl finally lets herself be fed. The mirror is almost too neat, but it still worked on me. "Hollow... had been empty a lot longer than since noon" is the line that ached. The soft, rounded food-words she can't read, "each soft sound a closed door," also did what the page wanted: I wanted what she couldn't name. The detail that he only ever uses his right hand is quietly odd. She files it as "one more thing he knew that she didn't," and I filed it as something else.
 
-Pace is the hard one. On the page he is almost perfect: he's patient, he holds the door, he leaves the choice to her. But I carry what Vee doesn't. He pointed at her across a quad, Randi was sent to collect her, and he sat in that coffee shop on purpose. His shower, his shave and his polished boots all read as tender to her. To me they read as preparation. "Don't answer tonight" works on her as respect, and it's also a very effective hook. I can't call it fake, because his attentiveness to her feels real. I just can't un-know the frame around it. "He didn't argue… no patient little wait" is exactly what a skilled man would do. The text earned this suspicion through the earlier chapters, not through anything he does here.
+The kiss is the best beat. She says "I don't kiss a man I've known a couple of days," he doesn't push, and the hand pulls taut when she won't leave. Then "I'm making an exception." He stands still and "left the last inch where it was," and she crosses it herself. That's consent rendered as heat, and it was tender and actually sexy in a low, held way. I'd call the whole chapter a slow simmer, not a burn. The charge is in restraint and in her wanting to be wanted. The heat from the earlier chapters doesn't return here, and I didn't miss it.
 
-Randi is offstage, and her absence is felt. Vee's "chosen, plainly, for reasons she didn't need to understand" and the line "like it could keep" echo painfully against what I saw in Randi's bathroom. I'm worried about Randi, who is somewhere sitting with that want.
+I'm warier of Pace than the page asks me to be, and that's a good tension. The chapter's own voice is almost entirely Vee's, so his "care ran past anything the room could see" is her reading. I can't tell whether it's real or crafted, and I'm leaving that open. Randi is absent here, though Vee thinks of her as a friend, and the dramatic irony of that is strong.
 
-Erotic charge: this is mostly slow-burn. The hunger, the mint, the hand and the kiss carry real warmth, and the food is quietly sensual ("soft promises turned solid"). Nothing is explicit, and it doesn't need to be. It peaks at the second kiss.
+Friction: a few spots over-explain. "It was the most restful thing she had felt in as long as she could remember" and the line about the old reflex coming back "at the worst possible moment" tell me what the scene already showed. The Friday and Saturday timeline is a touch tangled too. The dinner is in this chapter, but the text first sets "tomorrow was already his."
 
-Friction: a few places over-explain. "It felt less like something beginning than something resolving" is a bit grand for a hand-hold. The right-hand-only detail is intriguing, though Vee's dwelling on it is the author nudging me. The "old reflex" paragraph explains her own rule when the action had already shown it.
+Titles. "May I Choose" is his question over the menu, and it's pleasant, but it now sits beside Vee's earlier "May I call you?" and I hear the pattern. The courtesy is the lure, and the question hands choice across while he steers. It recolors the whole evening. The series line, "With a Long Spoon," I take as the old warning about supping with someone dangerous, and this book is "A Polite Invitation." The politeness here is exactly that: very polite, very warm, and I keep looking for the spoon. The spoons at Chi Latte and the froyo spoons now read as a possible echo. No tagline was supplied.
 
-Titles: "May I Choose" is a dinner line, and it recolors on reflection. Vee hands him the choice and feels relief, and she also gets her own choice at the kiss. But I know who really chose whom here, so the question sounds ironic. The series title "With a Long Spoon" and the book title "A Polite Invitation" now press on me: polite, careful, courteous, and a warning about whom you sup with. The tagline wasn't shown. I read the jacket as promising precisely this, a courtesy that is also a snare.
+Next I want the date to go somewhere honest and to see Vee in his house. I dread Randi's role in it, and Vee finding out. A guess from here: the bench is waiting for her.
 
-Next: I want the Saturday dinner and what happens after, and I dread Vee finding out. Randi's key-turning hum is a live wire. My guess from here is that Randi will be there for the bench, and that Vee's openness becomes the cost.
+**Cast present (in person):** Vee, Cassie (opening scene), Pace, Christine (briefly). Mentioned only: Randi, her mother, professors, the guys on the bleachers (previous chapter).
 
-**Cast present (in person):** Vee, Cassie (opening dorm scene), Pace, Christine (briefly).
-Mentioned only: Randi (not in the scene), Vee's mother, a professor.
+**Heat:** 1 — simmering want and a slow first kiss; the charge is anticipation and restraint.
 
-**Heat:** 1 — slow-burn wanting, hunger and a first kiss, nothing explicit.
-
-**Romance:** 3 — first hand-hold and first kiss, with a real turn in the bond.
+**Romance:** 2 — a tender first date and a freely chosen kiss; it falls short of a declaration or a turn.
 
 **Motifs & images:**
-- "Hi"/"Hi" exchange: repeat from The Bench, here with Vee.
-- Hunger and feeding: repeat of the apple slices, now with Vee eating freely.
-- Right-hand-only eating: first sighting.
-- Hands and knuckles: repeat from the coffee shop.
-- Hot brass-caged tea glass: first sighting.
-- The rule and the exception: first sighting.
-- Waiting and "don't answer tonight": first sighting.
+- Hunger and being fed: repeat (Pace's apple slices for Randi; Vee builds the cup in the froyo chapter).
+- Hands: repeat. His forearms and thick knuckles; here the always-right-hand eating is new.
+- "May" and asking permission: repeat from "May I call you?" Here it's "May I choose?"
+- Spoons: first sighting as a faint echo, from the Chi Latte spoons and froyo.
+- Water and a held breath: Vee's scull in the pool, carried over from Water Wings.
+- Soft foreign words as promises: first sighting.
+- A door or lock: faint echo only.
 
-**Symbolism:** The Greek-letter shop sign earlier now gives way to a hidden menu of names she can't read ("closed doors with something behind them"). The food and the small closed-door words invite the reading that Vee is content not to know what she's agreeing to.
+**Symbolism:** The hollow of hunger that is "empty a lot longer than since noon." The hand that is "only now where it belonged." Both are invited by the page.
 
-**Characterization:** Vee deepens a lot, with her mother's voice receding and her real appetite emerging. Cassie stays clean and loyal. Pace is warm but opaque, and thinner here because he's seen only from outside. Randi is absent.
+**Characterization:** Vee deepened: self-surveillance gives way to surrender, and the rule-keeper breaks her own rule. Cassie is brief and sharp ("That's a man"). Pace is seen only through Vee's eyes, so he's attractive but opaque. Christine is a light sketch.
 
-**Pace — within the chapter:** The dinner lingers, but it earns its length. The walk and kiss are well timed.
+**Pace — within the chapter:** The dinner lingers, well earned. The opening phone beat is a little long and the "reflex" explanation over-tells. The kiss is paced well.
 
-**Pace — chapter to chapter:** It's a gentler, slower chapter after the previous chapters' tension and sets up the Saturday-night date. The momentum holds.
+**Pace — chapter to chapter:** After the pool chapter this is a steady, warm build, a relief from the harder Pace and Randi material. It's holding momentum, but another all-sweet chapter would sag.

@@ -149,3 +149,17 @@ Lines with heavy reader praise whose criticism does not rise above NOISE under t
 - **Left standing:** "something resolving" (sonnet and glm's half of the complaint);
   "It should have been nothing, and it wasn't." (designed rhyme with the text beat).
 
+
+## Left standing after the 2026-11-15 re-read (author rulings 2026-11-15)
+
+- **:119 "It was the old reflex, the part of her that always caught the thread…"** —
+  claude-opus-5-5 capture ALMOST-STOPPED ("the book is explaining her to me"). A lone
+  Anthropic complaint (NOISE). Author: leave it.
+- **:85 the right-hand pattern** — claude-opus-5-5 cold read: "over-explains". Not a craft
+  fault: Pace keeps the custom of eating with the right hand only, and "one more thing he
+  knew that she didn't" marks the edge of what Vee can see. She registers a rule without
+  its source, so a reader who knows the custom gets it, and one who doesn't stands where
+  Vee does. No Claude reader in the corpus decodes it as the dining custom (15 mentions in
+  9 files); gemini-4-carbon does ("cultural fluency with the right-hand rule",
+  `reviews/cold-read/gemini-4-carbon/may-i-choose.md:22`) and gpt-5.6-sol half does
+  ("Maybe it is only a dining custom he knows and follows"). Do not cut or gloss it.
