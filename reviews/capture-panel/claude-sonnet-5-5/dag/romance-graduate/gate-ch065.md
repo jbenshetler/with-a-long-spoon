@@ -1,35 +1,34 @@
-*capture-dag-v3-grounded · gate ch065 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1da08e6ee6d5 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 80543fe92251 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch065 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 95b08a13285f · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 6e3ec299e83b · 2026-11-14*
 
 REACTION
 
-Okay, the first beat made me grin. She dresses to cover herself for the first time in months, and "Don't be a sex pervert" is exactly the voice I'd expect from her. The sober black pants and the olive coat buttoned to the collar are a great way to show a woman trying to armor up. Randi's "you look like you're about to inherit something" is a good line, and it's also Randi noticing everything.
+Finally, Randi's head, and it's a whole chapter of it. I've wanted this for twenty-odd chapters, and the book gave it to me as a tribunal, which is a smart way to do it. She's the one on the wrong side of the table, in the chair she set out herself, and every skill she has is useless because the form is correct.
 
-The brunch is the best of these in a while, because it's a two-hander where I know more than Vee does. The pre-med feet story is funny. "Feet pics" got a real laugh out of me. But I read it as Randi's invented week again, another bright decoy. And the toes under the table, Vee's thumb on the nylon, are a quiet hot beat that Vee doesn't clock as hers.
+The opening half is Vee, and it's good. The lime Lifesaver is a nice little reversal: Randi feeds her instead of being fed. The hug with Randi's head on her chest is lovely. Then Vee rehearses the "it was only a joke" line and calls her own wanting a "sex brain" threat to the friendship, and I want to shake her. "A girl needs a spanking!" going off in her like a bell, with Randi leaving with that gleam, is dramatic irony at full volume. Vee doesn't know where Randi is walking.
 
-The big thing is the gesso scene. Randi does the "tell him" nudge, and I think she's deliberately steering Vee toward Randi's own taste. "When you asked me about the taste... maybe you should tell him." That is the pipeline at its most naked. She's managing Vee's mouth through Pace. And then the bathroom: Vee starts with Pace, and Randi's face and Randi's mouth arrive anyway, the wiping reversed, "what would Randi taste like." She finally lets the question be about Randi, even if she calls it a lapse. Hot, specific, and psychologically exact.
+Then the Standards room, and I'm hooked. Kinsey's lie about the hand in the bra, which Randi lets stand because the truth would cost her the wanting, is the best beat. "The wanting was the real crime. Just not the one they would name." Yes. And the Pace memory, the man nothing stuck to, and her admitting she took the night fast and missed the slow part, is a quiet knife. The mixer confession finally tells me she meant to tell Vee, and flinched. "I almost believed it. She had believed every second of it." That's the payoff of my grudge about the cover, and it lands.
 
-Then the best bit: Randi alone with the phone, eyes dark and glassy, looking sad. That's the first time Randi's reaction to Vee's body gets to land on her face with no cover, and Vee reads it as disappointment in her. The dramatic irony is cruel. Also the photo: Vee decided last chapter that Randi would never see it, and she showed it inside a day. I saw that coming and groaned anyway.
+The ultimatum answered "No. Thank you. But no" is the choice I've been waiting on, and it's made. She loses only Thursdays, she tells herself. I don't buy that it's the whole bill. Brooke's unreadable look worries me.
 
-The goodbye kiss, "Let me say goodbye right," is the move I liked best. Vee goes soft, hands in the coat, and then the "You have a boyfriend" and "Starting now" on the windshield is funny and doomed. I'm tired of the "sex brain" refrain and the dance-floor-through-dread loop is old, but this one moved.
+Complaints: the procedural detail runs long and the "machine" narration explains itself. Randi still frames everything as hiding. But it moves.
 
-GATE 65 — Gesso
+GATE 65 — Inversion
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Vee knew which *and* she meant. The heat came up her throat before she had decided anything about it." (a mild nudge; the book doing a lot of explaining)
-WHY: Randi's "maybe you should tell him" and Vee's bathroom with Randi's mouth arriving is the both-and I read for. The glassy-eyed Randi holding the phone, read by Vee as disappointment, is the dramatic irony at its cruellest.
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The pace was deliberate, the one speed a thing like this ever moved — a machine, a system, something older and bigger than Randi" (the procedure narrating its own meaning)
+WHY: Randi's own head at last, losing every skill to a correct form, and her admitting she meant to tell Vee at the mixer and flinched is what I've waited for. Choosing Vee over the house, and Brooke's unreadable look, have me wanting the next one.
 
 LEDGER
-+ LOVE: Randi alone with the phone, eyes dark and glassy, and Vee reading it as sadness she caused.
-+ LOVE: "Let me say goodbye right," and Vee going soft with her hands fisted in Randi's coat.
-+ GRUDGE: Vee's "starting now" promise to control her sex brain is a refrain that keeps failing, and I'm tired of it.
-+ SUSPICION: Randi's pre-med foot-rub story is another invented week, a decoy to cover that she's been alone and waiting.
-+ SUSPICION: Randi nudged Vee toward telling Pace to feed her the taste, steering Vee's mouth through Pace to get at her own.
-~ F60.5 CONFIRMED: Vee showed Randi the hidden photo within a week of deciding she wouldn't.
-~ W63.4 ANSWERED: Saturday brunch happened, with gesso, the photo, and a goodbye kiss done "right."
-~ S63.3 DEEPENED: Randi's "Having you" now sits next to her glassy-eyed silence over the photo.
-~ L47.2 DEEPENED: Pace's one-pass wipe is now the very thing Vee cannot stop turning over.
-~ W54.2 DEEPENED: Vee's bathroom fantasy finally put Randi's mouth where the taste is, and "what would Randi taste like" came unbidden.
-~ S60.3 CONFIRMED: Pace's deliberate wiping was a kindness to what she'd said, which Randi is now using.
++ LOVE: Randi letting Kinsey's lie about the bra stand because the truth would expose the wanting, "The wanting was the real crime."
++ LOVE: Randi admitting she meant to tell Vee at the mixer and lost her nerve, "She had believed every second of it."
++ FEAR: Randi thinks she only loses Thursdays, but Brooke's unreadable look means the house isn't done.
++ SUSPICION: Vee's "girl needs a spanking" laugh and Randi's private gleam suggest Randi will carry this into the Saturday brunch.
++ WAITING: Saturday brunch, with Randi now having chosen Vee and Vee still unable to name it.
+~ W61.5 ANSWERED: Randi's head after the kiss finally arrived, and she wanted it as much as Vee did.
+~ F61.4 CONFIRMED: Brooke's ultimatum landed on the kiss, and Randi refused.
+~ W45.6 ANSWERED: Randi answered Brooke's "you need to choose" with "No."
+~ F2.1 CONFIRMED: Brooke found out about the guest, the nights and Pace, and put them on the record.
+~ S61.3 DEEPENED: Randi picked the mixer to tell Vee, so the staging was hers and her nerve failed.
