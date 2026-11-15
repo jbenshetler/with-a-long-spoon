@@ -1,6 +1,6 @@
-# Authorship audit (neutral) — School Nights
+# Authorship audit (neutral) — Not in Your Bed
 
-*scene: scenes/school-nights.md · model: deepseek-v4-pro-0813 · framing: neutral · protocol: authorship-audit-v1-pilot · prompt-sha: 96cc9875579e · run: 2026-09-07*
+*scene: scenes/not-in-your-bed.md · model: deepseek-v4-pro-0813 · framing: neutral · protocol: authorship-audit-v1-pilot · prompt-sha: 96cc9875579e · run: 2026-09-07*
 
 ## Audit
 

@@ -12,7 +12,7 @@ The **anti-extractive mirror** doing its quiet damage. Vee braces for an interro
 
 1. **Braced open.** Continuous from the last line — Cassie on the lower bunk, coat still on, cold coming off her (she walked past the goodbye), the question in the air; Vee in the doorway, the neck still live but gone cold in her gut. She doesn't know *what Cassie saw* (the hug — how long? the neck — the mouth, the sound?), and catastrophizes into the blank; the cutting voice scripts the verdict before Cassie says another word.
 2. **Failed cover + regression.** She reaches for the sorority-cut deflection; it comes out wrong — too many words, a patch that won't fit, invention where her only instrument is the crop. Voice regresses *down*; she runs clean out of words, which she never does.
-3. **The care-question.** Cassie lets it sit (the *"Do you love him"* template, `school-nights.md:31`), then — care, not prosecution — **"Is this what you want?"** Not *what happened*, not *what is Randi to you* — whether she *wants* it. The one thing Vee can't answer.
+3. **The care-question.** Cassie lets it sit (the *"Do you love him"* template, `not-in-your-bed.md:31`), then — care, not prosecution — **"Is this what you want?"** Not *what happened*, not *what is Randi to you* — whether she *wants* it. The one thing Vee can't answer.
 4. **The search, then the dodge.** We stay inside Vee as she genuinely reaches for the answer (the honest, brave move — first-read virtue): she goes looking for whether she wants "this." But it has no name she'll give it, so she can't locate the thing to test her wanting against; and underneath, the yes her body already holds (the neck, the blurt) she won't read. She touches the edge and looks away (the flinch — **clear on the page, never muddy**). Then she flees onto the safe old rail — *you just don't like the Greek thing / Randi* — the displaced fight, the one container that exists between them (`on-her-floor.md`, "agreed a long time ago not to run it again"). **Cassie won't take the bait**; the swing hits nothing.
 5. **The gap, warm — the cereal.** Cassie lets it lie; no *I told you so*, never has. She warms: **"You didn't have time for dinner. Do you want some of my Cocoa Pebbles?"** / **"Yeah."** The small answerable want landing right where the huge one couldn't — care that asks nothing, that Vee can't return in truth. End here — the question still in the dark between the bunks; Vee carries it toward Saturday, where the one who *will* pull it out of her is waiting ({{Gesso}}).
 
@@ -43,7 +43,7 @@ The scene rhymes Cassie's two questions: the unanswerable **"Is this what you wa
 ## Cross-references
 
 - `coming-due.md:71–75` (the handoff)
-- `school-nights.md:31` (*"Do you love him"* — the ask template)
+- `not-in-your-bed.md:31` (*"Do you love him"* — the ask template)
 - `on-her-floor.md:41–65` (Cassie's prior insight; the Greek-life truce)
 - `meta-arch-cassie.md` (Knower Discipline, Hallmark register / container, Cassandra, the "Oh, Vee" reserve)
 - `meta-plan-spring.md` #3 (the withholding climb; the three-night disclosure gradient)

@@ -1,6 +1,6 @@
-# Fidelity judgment — School Nights
+# Fidelity judgment — Not in Your Bed
 
-*scene: scenes/school-nights.md · reviewed-model: gpt-5.6-sol · judge-model: gpt-5.5*
+*scene: scenes/not-in-your-bed.md · reviewed-model: gpt-5.6-sol · judge-model: gpt-5.5*
 
 tool_uses: 0
 

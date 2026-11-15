@@ -281,14 +281,14 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
 
 ## Panel caveat — reading order
 
-The cold-read panel read this scene *after* {{School Nights}} (per the old
+The cold-read panel read this scene *after* {{Not in Your Bed}} (per the old
 chronology). Fall dates were re-tightened 2026-07-28; the scene now sits at
-Wed Oct 28, before {{We Find Out}} and well before {{School Nights}}. The
+Wed Oct 28, before {{We Find Out}} and well before {{Not in Your Bed}}. The
 panel's carry-forward state for this stretch (readers arriving with the
 spanking, the top drawer, "Maybe. I think so," and "Randi absent three
 chapters running") reflects the superseded order — discount its
 chapter-to-chapter momentum judgments accordingly. The "streetlight" coinage
-here → "the streetlight thing again" in `school-nights.md` is consistent with
+here → "the streetlight thing again" in `not-in-your-bed.md` is consistent with
 the *new* order.
 
 ## What the panel confirmed (no action; for the record)

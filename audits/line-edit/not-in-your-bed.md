@@ -1,4 +1,4 @@
-# Line edit — school-nights (2026-08-11)
+# Line edit — not-in-your-bed (2026-08-11)
 
 **Verdict: 11 findings** — 5 within-chapter repetition, 3 rhythm, 2 overwork, 2 precision, 1 echo candidate (the "held breath" pre-ruling is now **void** — see #1). No dialogue-shape findings; the speech is the chapter's best-tuned element.
 
@@ -34,9 +34,9 @@ The chapter is short, warm, and mostly does what it means to. Its strongest pass
 
 ## Echo candidates
 
-- **"run clean out of"** — `school-nights:27`, `under-the-rug:81` ("run clean out of the strength to wait"), `grace:259` ("run clean out of asking"; Vol. Two, out of scope). Distinctive idiom; the Vol-1 pair is the live question — wants a ruling rather than a chapter-local fix.
-- **"the whole of it" / "the whole of —" cadence** — `school-nights:25` (×2); relative of `hills-and-valleys:45` "and that was the whole of it" (ledger UNRULED, "count book-wide before any sibling flags one"). Count before varying.
-- **"the size of it"** — `school-nights:25`/`:29`, `rock:77`, `still-life:11`, `cropped:33`, `two-towels:131`, `on-her-floor:171`. A book-wide measure-figure for the unnameable; likely thematic — count before any chapter is asked to vary.
+- **"run clean out of"** — `not-in-your-bed:27`, `under-the-rug:81` ("run clean out of the strength to wait"), `grace:259` ("run clean out of asking"; Vol. Two, out of scope). Distinctive idiom; the Vol-1 pair is the live question — wants a ruling rather than a chapter-local fix.
+- **"the whole of it" / "the whole of —" cadence** — `not-in-your-bed:25` (×2); relative of `hills-and-valleys:45` "and that was the whole of it" (ledger UNRULED, "count book-wide before any sibling flags one"). Count before varying.
+- **"the size of it"** — `not-in-your-bed:25`/`:29`, `rock:77`, `still-life:11`, `cropped:33`, `two-towels:131`, `on-her-floor:171`. A book-wide measure-figure for the unnameable; likely thematic — count before any chapter is asked to vary.
 - **"cooked like it cost him nothing"** (`:13`) — the "it cost him nothing/anything" ease-of-Pace figure; relative of the `hills-and-valleys:13` tail-clause reassurance cut (ledger #52). Worth a book-wide count of the "cost him —" construction.
 - **"heard herself go small"** (`:29`) — Vee-side member of Pace's "heard himself" speech-betrayal family (ledger, Hills-and-Valleys UNRULED `:19`); log, don't vary.
 - **"lit up"** (`:5`) — very high book-wide count; almost certainly ordinary idiom, but belongs in the end-of-pass harvest.

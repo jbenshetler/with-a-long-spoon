@@ -236,7 +236,7 @@ thing, manufactured for her, ahead of her (origin: the first night she took her 
 off under his roof). **Vee's discovery of this is a planned page beat, placement
 open:** an unannounced visit finds the house cold, and she works out, without his
 ever saying it, that he warms the place for her comfort before she's even there to
-feel it. Deliberately kept **out of {{School Nights}}** (adoration register, no room
+feel it. Deliberately kept **out of {{Not in Your Bed}}** (adoration register, no room
 for analysis — author ruling 2026-07-28); there the warmth appears only as ambience
 ("warm as a held breath... she never once thought about how much she had on").
 **Guard:** the post-sex chill is **Randi's** trait, never Vee's — Vee is the

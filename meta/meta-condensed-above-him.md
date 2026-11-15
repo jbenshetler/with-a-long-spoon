@@ -2,9 +2,9 @@
 
 *VIGNETTE · Draft complete (`scenes/above-him.md`) · Thu night into Fri morning, three movements · Vee POV*
 
-**Restructure note** (restructured 2026-11-04, author: for experiential order the former {{Above Him}} movements one–two (Fri–Sat) now open {{School Nights}}; the former *In His Hands* (Thu night) is retired as a chapter and is now {{Above Him}}'s movements one–two, with the drawer morning as movement three.)
+**Restructure note** (restructured 2026-11-04, author: for experiential order the former {{Above Him}} movements one–two (Fri–Sat) now open {{Not in Your Bed}}; the former *In His Hands* (Thu night) is retired as a chapter and is now {{Above Him}}'s movements one–two, with the drawer morning as movement three.)
 
-Territory answering an abundance. The domestic staircase's territory riser — in the weeks just after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged. A diptych in effect (setup weekend / payoff weekend); [[meta-condensed-school-nights]] intercalates between movements two and three (the week between the weekends).
+Territory answering an abundance. The domestic staircase's territory riser — in the weeks just after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged. A diptych in effect (setup weekend / payoff weekend); [[meta-condensed-not-in-your-bed]] intercalates between movements two and three (the week between the weekends).
 
 ## Movements one–two — the photo; the kitchen (former *In His Hands*)
 

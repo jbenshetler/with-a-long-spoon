@@ -39,10 +39,10 @@ Triage checked: `meta/meta-triage-new-ordinary.md` read before finalizing. No fi
    bring it back gone faint again to be filled").
 3. **"Five nights" vs. {{In His Hands}} dateline** — resolved by re-dating
    the chronology, after a four-scene collision check (above-him movement 3
-   seam clean; school-nights names no weekdays; all-the-time names Saturday
+   seam clean; not-in-your-bed names no weekdays; all-the-time names Saturday
    ×3 and returns Vee to Pace post-brunch; in-his-hands prose probe-safe):
    In His Hands = Thu Nov 12 evening → overnight; All the Time = Sat Nov 14;
-   School Nights = Mon Nov 9–Wed Nov 11; scene header trimmed. Accepted
+   Not in Your Bed = Mon Nov 9–Wed Nov 11; scene header trimmed. Accepted
    strain: "ready for days" = two days.
 4. **"A slug of the wine" (:21)** — fixed to indefinite "a slug of wine".
 5. **Mushroom "holding the wine" (:29)** — stands; bake-wicked sauce in a

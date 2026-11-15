@@ -12,7 +12,7 @@ or a genuinely new failure mode).
   edit, cost-vague, 2026-08-11).** Raised in the book-wide `cost-vague` back-sweep
   (vague "cost something/nothing/anything"; the linter rule and author ruling live
   in `style/style-rules.toml`). Kept: unlike the backward-running cuts elsewhere
-  (see-you-later, school-nights, how-its-done), the sense here is *right* and
+  (see-you-later, not-in-your-bed, how-its-done), the sense here is *right* and
   directional — his restraint genuinely costs him — and the vagueness is
   load-bearing: the "something" is filtered through Vee's perception; she reads a
   cost on him she can't name. "She could see" anchors it to his body, so it isn't

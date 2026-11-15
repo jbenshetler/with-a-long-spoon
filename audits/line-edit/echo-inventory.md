@@ -12,7 +12,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | from across the room | 8 | 7 | dear ×2, a-round, broken-in, clean-plate, lesson, may-i-choose, on-her-floor |
 | the foot of the bed and | 8 | 7 | missed-a-spot ×2, boyfriend, gone, grace, in-his-hands, portion, swim-lanes |
 | the front door | 8 | 7 | nothing-underneath ×2, ignition-scalding, made-up, missed-a-spot, swim-lanes, the-bench, vee-on-the-bench |
-| vee opened her | 8 | 7 | reach ×2, back, coming-due, off-six-fourteen, school-nights, sorority, turned-up |
+| vee opened her | 8 | 7 | reach ×2, back, coming-due, off-six-fourteen, not-in-your-bed, sorority, turned-up |
 | randi pulled her | 7 | 7 | broken-in, coming-due, dear, fed, my-friend-randi, practice-room, see-you-later |
 | room full of | 7 | 7 | broken-in, burn, dear, on-her-floor, see-you-later, the-bench, the-induction |
 | she'd meant to | 8 | 6 | hangover ×3, coming-due, covering, may-i-choose, nothing-underneath, practice-room |
@@ -47,7 +47,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | the cold air | 6 | 6 | a-round, ignition-scalding, leave-no-trace, nothing-underneath, off-six-fourteen, reach |
 | the door opened | 6 | 6 | broken-in, clean-plate, leave-no-trace, missed-a-spot, nothing-underneath, see-you-later |
 | vee laughed and | 6 | 6 | all-the-time, another-round, broken-in, clean-plate, practice-room, sorority |
-| vee opened her mouth | 6 | 6 | back, coming-due, off-six-fourteen, school-nights, sorority, turned-up |
+| vee opened her mouth | 6 | 6 | back, coming-due, off-six-fourteen, not-in-your-bed, sorority, turned-up |
 | what she'd done | 8 | 5 | recognized-method ×3, nothing-underneath ×2, lesson, on-her-floor, under-the-rug |
 | across the seat | 7 | 5 | clean-plate ×2, how-its-done ×2, among-friends, recognized-method, we-find-out |
 | her body answered | 7 | 5 | missed-a-spot ×2, we-find-out ×2, coming-due, leave-no-trace, one-bite |
@@ -69,7 +69,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | buttoned to the collar | 5 | 5 | clean-plate, covering, leave-no-trace, missed-a-spot, nothing-underneath |
 | coming to rest | 5 | 5 | grace, ignition-scalding, missed-a-spot, the-bench, vee-on-the-bench |
 | couldn't find the | 5 | 5 | back, lesson, on-her-floor, practice-room, under-the-rug |
-| cracked its two inches | 5 | 5 | bare, off-six-fourteen, on-her-floor, rye, school-nights |
+| cracked its two inches | 5 | 5 | bare, off-six-fourteen, on-her-floor, rye, not-in-your-bed |
 | edge of the bed and | 5 | 5 | burn, in-his-hands, missed-a-spot, nothing-underneath, we-find-out |
 | flat on his chest and | 5 | 5 | gone, postcard, space, swim-lanes, the-pointing-game |
 | glass of wine | 5 | 5 | barely-stings, fed, how-its-done, ignition-scalding, missed-a-spot |
@@ -90,7 +90,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | the lecture hall | 5 | 5 | clean-plate, hangover, outlier, sorority, substitution |
 | the low light | 5 | 5 | among-friends, famished, hangover, may-i-choose, recognized-method |
 | the phone facedown | 5 | 5 | bare, fairytale, ignition-scalding, old-acquaintances, standards |
-| the rest of the room | 5 | 5 | among-friends, grace, how-its-done, may-i-choose, school-nights |
+| the rest of the room | 5 | 5 | among-friends, grace, how-its-done, may-i-choose, not-in-your-bed |
 | the room held | 5 | 5 | a-round, gone, how-its-done, practice-room, reach |
 | vee said and heard | 5 | 5 | across, fed, how-its-done, see-you-later, unpacking |
 | opened her eyes | 7 | 4 | a-round ×3, reach ×2, my-pleasure, the-bench |
@@ -131,7 +131,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | and bent and kissed | 4 | 4 | recognized-method, swim-lanes, the-bench, vee-on-the-bench |
 | and vee heard | 4 | 4 | coming-due, covering, hangover, water-wings |
 | before she'd decided anything | 4 | 4 | all-the-time, grace, missed-a-spot, see-you-later |
-| before she'd swallowed | 4 | 4 | in-his-hands, may-i-choose, nothing-underneath, school-nights |
+| before she'd swallowed | 4 | 4 | in-his-hands, may-i-choose, nothing-underneath, not-in-your-bed |
 | finger and thumb | 4 | 4 | four, grace, nothing-underneath, reach |
 | flat and warm | 4 | 4 | a-round, grace, rock, vee-on-the-bench |
 | folded over the chair | 4 | 4 | coming-due, covering, recognized-method, we-find-out |
@@ -202,7 +202,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | the low end | 7 | 3 | vee-on-the-bench ×4, how-its-done ×2, burn |
 | in the warm room | 6 | 3 | some-of-mine ×2, the-bench ×2, vee-on-the-bench ×2 |
 | okay cassie said | 6 | 3 | turned-up ×3, off-six-fourteen ×2, unpacking |
-| the bean bag | 6 | 3 | off-six-fourteen ×3, unpacking ×2, school-nights |
+| the bean bag | 6 | 3 | off-six-fourteen ×3, unpacking ×2, not-in-your-bed |
 | the high table | 6 | 3 | see-you-later ×4, another-round, dear |
 | across the floor | 5 | 3 | ignition-scalding ×3, another-round, clean-plate |
 | at arm's length | 5 | 3 | vee-on-the-bench ×3, clean-plate, on-her-floor |
@@ -264,7 +264,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | a man whose | 3 | 3 | among-friends, missed-a-spot, the-bench |
 | a moment longer and | 3 | 3 | missed-a-spot, some-of-mine, the-induction |
 | a quarter inch | 3 | 3 | broken-in, covering, the-bench |
-| a school night | 3 | 3 | clean-plate, covering, school-nights |
+| a school night | 3 | 3 | clean-plate, covering, not-in-your-bed |
 | a second longer than | 3 | 3 | a-round, missed-a-spot, substitution |
 | a sense of humor | 3 | 3 | outlier, see-you-later, substitution |
 | a small room | 3 | 3 | a-round, broken-in, old-acquaintances |
@@ -296,7 +296,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | beat late and | 3 | 3 | dear, missed-a-spot, on-her-floor |
 | beat longer than | 3 | 3 | leave-no-trace, the-pointing-game, the-usual |
 | before she'd said a word | 3 | 3 | clean-plate, nothing-underneath, recognized-method |
-| before she'd swallowed the | 3 | 3 | in-his-hands, nothing-underneath, school-nights |
+| before she'd swallowed the | 3 | 3 | in-his-hands, nothing-underneath, not-in-your-bed |
 | between finger and thumb | 3 | 3 | four, nothing-underneath, reach |
 | blanket at the foot of the bed and | 3 | 3 | gone, portion, swim-lanes |
 | blue and white | 3 | 3 | leave-no-trace, strokes, what-to-wear |
@@ -342,7 +342,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | flat to his chest | 3 | 3 | another-round, hangover, vee-on-the-bench |
 | folded at the foot of the bed | 3 | 3 | covering, missed-a-spot, standards |
 | for ten minutes | 3 | 3 | among-friends, back, lesson |
-| found her at the door | 3 | 3 | all-the-time, off-six-fourteen, school-nights |
+| found her at the door | 3 | 3 | all-the-time, off-six-fourteen, not-in-your-bed |
 | found her hair | 3 | 3 | boyfriend, leave-no-trace, the-pointing-game |
 | getting a girl home safe at the end | 3 | 3 | broken-in, lesson, recognized-method |
 | girl home safe at the end of the | 3 | 3 | broken-in, lesson, recognized-method |
@@ -360,14 +360,14 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | he'd built it | 3 | 3 | a-round, sorority, the-induction |
 | he's so good about getting a girl home | 3 | 3 | broken-in, lesson, recognized-method |
 | heard the sound | 3 | 3 | above-him, coming-due, postcard |
-| held a beat | 3 | 3 | broken-in, may-i-choose, school-nights |
+| held a beat | 3 | 3 | broken-in, may-i-choose, not-in-your-bed |
 | her arms up around his neck | 3 | 3 | ignition-scalding, swim-lanes, tannin |
 | her bare feet | 3 | 3 | fed, grace, recognized-method |
 | her bare legs and | 3 | 3 | broken-in, reach, recognized-method |
 | her black hair and | 3 | 3 | covering, four, one-bite |
 | her body had done | 3 | 3 | a-round, toenails, vee-on-the-bench |
 | her cheek flat | 3 | 3 | another-round, hangover, recognized-method |
-| her desk chair | 3 | 3 | rye, school-nights, turned-up |
+| her desk chair | 3 | 3 | rye, not-in-your-bed, turned-up |
 | her eyes coming | 3 | 3 | grace, ignition-scalding, the-pointing-game |
 | her face into his chest | 3 | 3 | gone, grace, missed-a-spot |
 | her hips had begun to move | 3 | 3 | missed-a-spot, nothing-underneath, reach |
@@ -922,9 +922,9 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | carried the bag | 2 | 2 | made-up, sorority |
 | cassie and randi | 2 | 2 | across, substitution |
 | cassie considered her from the | 2 | 2 | off-six-fourteen, unpacking |
-| cassie listened with | 2 | 2 | school-nights, toenails |
+| cassie listened with | 2 | 2 | not-in-your-bed, toenails |
 | cassie was watching | 2 | 2 | substitution, water-wings |
-| cassie watched her | 2 | 2 | school-nights, toenails |
+| cassie watched her | 2 | 2 | not-in-your-bed, toenails |
 | cassie's side of the room | 2 | 2 | lesson, my-friend-randi |
 | caught a couple | 2 | 2 | how-its-done, lesson |
 | caught his wrist | 2 | 2 | burn, gone |
@@ -956,7 +956,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | coming apart in her | 2 | 2 | missed-a-spot, recognized-method |
 | coming up to meet | 2 | 2 | leave-no-trace, the-induction |
 | complete the cold citrus smell of her and | 2 | 2 | dear, see-you-later |
-| cooking and vee | 2 | 2 | off-six-fourteen, school-nights |
+| cooking and vee | 2 | 2 | off-six-fourteen, not-in-your-bed |
 | couldn't bear it | 2 | 2 | one-bite, recognized-method |
 | couldn't find a shirt | 2 | 2 | turned-up, two-towels |
 | couldn't have found | 2 | 2 | old-acquaintances, two-towels |
@@ -969,7 +969,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | counter and then his tread | 2 | 2 | clean-plate, missed-a-spot |
 | county road and | 2 | 2 | among-friends, boyfriend |
 | county road in the | 2 | 2 | among-friends, covering |
-| cracked its two inches against | 2 | 2 | on-her-floor, school-nights |
+| cracked its two inches against | 2 | 2 | on-her-floor, not-in-your-bed |
 | cropped quarter zips | 2 | 2 | dear, see-you-later |
 | crossed the floor | 2 | 2 | all-the-time, lesson |
 | crossed the kitchen and put herself against | 2 | 2 | hangover, recognized-method |
@@ -1028,7 +1028,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | edge to edge | 2 | 2 | missed-a-spot, two-towels |
 | egg white and | 2 | 2 | dear, fairytale |
 | empty bed and | 2 | 2 | among-friends, covering |
-| empty more nights than | 2 | 2 | school-nights, strokes |
+| empty more nights than | 2 | 2 | not-in-your-bed, strokes |
 | end of every brunch | 2 | 2 | boyfriend, on-her-floor |
 | end of the bench | 2 | 2 | the-bench, vee-on-the-bench |
 | end of the table | 2 | 2 | fairytale, my-friend-randi |
@@ -1129,7 +1129,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | glad to give | 2 | 2 | grace, swim-lanes |
 | glass and white painted muntins where the late | 2 | 2 | across, fed |
 | glass of something first she's civilized about it | 2 | 2 | barely-stings, between |
-| go to sleep streetlight | 2 | 2 | school-nights, strokes |
+| go to sleep streetlight | 2 | 2 | not-in-your-bed, strokes |
 | god i love | 2 | 2 | how-its-done, my-pleasure |
 | god those legs | 2 | 2 | all-the-time, still-life |
 | going somewhere back in the house low | 2 | 2 | covering, nothing-underneath |
@@ -1375,7 +1375,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | instead of waiting | 2 | 2 | broken-in, sorority |
 | into her and gathered her whole weight in | 2 | 2 | boyfriend, missed-a-spot |
 | into her desk chair | 2 | 2 | rye, turned-up |
-| into the bean bag | 2 | 2 | off-six-fourteen, school-nights |
+| into the bean bag | 2 | 2 | off-six-fourteen, not-in-your-bed |
 | it a hundred times | 2 | 2 | boyfriend, postcard |
 | it a thing a girlfriend was offering | 2 | 2 | ignition-scalding, the-pointing-game |
 | it before she'd decided anything | 2 | 2 | missed-a-spot, see-you-later |
@@ -1707,7 +1707,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | rose and crossed | 2 | 2 | broken-in, the-induction |
 | rose and fell | 2 | 2 | above-him, boyfriend |
 | round of her belly | 2 | 2 | nothing-underneath, reach |
-| run clean out of | 2 | 2 | school-nights, under-the-rug |
+| run clean out of | 2 | 2 | not-in-your-bed, under-the-rug |
 | safe department store navy | 2 | 2 | peekaboo, the-induction |
 | salad and ate | 2 | 2 | may-i-choose, portion |
 | salt and lime and under it | 2 | 2 | boyfriend, on-her-floor |
@@ -2301,7 +2301,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | vee lost it | 2 | 2 | broken-in, sorority |
 | vee made a sound | 2 | 2 | among-friends, broken-in |
 | vee opened her mouth and found she | 2 | 2 | off-six-fourteen, sorority |
-| vee opened her mouth to | 2 | 2 | back, school-nights |
+| vee opened her mouth to | 2 | 2 | back, not-in-your-bed |
 | vee read it | 2 | 2 | outlier, substitution |
 | vee said and heard how | 2 | 2 | across, unpacking |
 | vee said quietly and | 2 | 2 | covering, turned-up |
@@ -2394,7 +2394,7 @@ Distinctive phrases (3–8 words, ≥2 content words, ≤8 total uses) appearing
 | wintergreen gone soft | 2 | 2 | clean-plate, coming-due |
 | wiped his face | 2 | 2 | burn, the-pointing-game |
 | with a bag in each arm and | 2 | 2 | covering, unpacking |
-| with a book against her knees | 2 | 2 | coming-due, school-nights |
+| with a book against her knees | 2 | 2 | coming-due, not-in-your-bed |
 | with a naked woman | 2 | 2 | missed-a-spot, nothing-underneath |
 | with enormous satisfaction | 2 | 2 | how-its-done, in-his-hands |
 | with her chin on her knees | 2 | 2 | gone, toenails |
@@ -2515,7 +2515,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | bookstore | 2 | across, two-towels |
 | bounce | 2 | among-friends, burn |
 | boxes | 2 | sorority, unpacking |
-| boyfriends | 2 | missed-a-spot, school-nights |
+| boyfriends | 2 | missed-a-spot, not-in-your-bed |
 | bravest | 2 | a-round, my-friend-randi |
 | breached | 2 | may-i-choose, one-bite |
 | bricklayers | 2 | among-friends, reach |
@@ -3050,7 +3050,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | survivable | 2 | broken-in, the-usual |
 | survives | 2 | my-friend-randi, two-towels |
 | swayed | 2 | covering, grace |
-| swear | 2 | one-bite, school-nights |
+| swear | 2 | one-bite, not-in-your-bed |
 | sweated | 2 | fairytale, vee-on-the-bench |
 | sweep | 2 | among-friends, sorority |
 | sword | 2 | missed-a-spot, two-towels |
@@ -3172,7 +3172,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | assembling | 3 | another-round, barely-stings, covering |
 | audience | 3 | among-friends, fairytale, we-find-out |
 | awareness | 3 | how-its-done, lesson, the-bench |
-| baked | 3 | hangover, reach, school-nights |
+| baked | 3 | hangover, reach, not-in-your-bed |
 | beams | 3 | all-the-time, boyfriend, how-its-done |
 | beating | 3 | burn, one-bite, vee-on-the-bench |
 | beers | 3 | among-friends, another-round, we-find-out |
@@ -4144,7 +4144,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | brunches | 6 | among-friends ×4, fairytale, four |
 | buckled | 6 | another-round ×3, nothing-underneath, old-acquaintances, vee-on-the-bench |
 | calculus | 6 | substitution ×4, long-way, two-towels |
-| cheese | 6 | under-the-rug ×2, what-to-wear ×2, new-ordinary, school-nights |
+| cheese | 6 | under-the-rug ×2, what-to-wear ×2, new-ordinary, not-in-your-bed |
 | cleaned | 6 | my-pleasure ×2, in-her-place, missed-a-spot, vee-on-the-bench, we-find-out |
 | clipped | 6 | vee-on-the-bench ×3, broken-in, see-you-later, the-pointing-game |
 | closeness | 6 | a-round ×3, how-its-done, the-pointing-game, vee-on-the-bench |
@@ -4182,7 +4182,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | grief | 6 | my-friend-randi ×2, believe-me, rock, the-usual, vee-on-the-bench |
 | guard | 6 | grace ×2, believe-me, between, one-bite, two-towels |
 | guessed | 6 | burn, grace, how-its-done, lesson, may-i-choose, the-pointing-game |
-| happens | 6 | how-its-done ×2, hangover, school-nights, the-usual, what-to-wear |
+| happens | 6 | how-its-done ×2, hangover, not-in-your-bed, the-usual, what-to-wear |
 | helped | 6 | vee-on-the-bench ×2, how-its-done, postcard, recognized-method, the-bench |
 | highway | 6 | burn ×3, believe-me, ignition-scalding, the-usual |
 | hoarse | 6 | covering, gone, grace, ignition-scalding, on-her-floor, still-life |
@@ -4190,7 +4190,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | hotter | 6 | vee-on-the-bench ×3, the-bench ×2, we-find-out |
 | interest | 6 | among-friends, barely-stings, toenails, two-towels, vee-on-the-bench, we-find-out |
 | invited | 6 | covering ×2, nothing-underneath, see-you-later, the-bench, two-towels |
-| kindly | 6 | broken-in, four, one-bite, practice-room, school-nights, toenails |
+| kindly | 6 | broken-in, four, one-bite, practice-room, not-in-your-bed, toenails |
 | laundry | 6 | across ×2, missed-a-spot, nothing-underneath, seconds, unpacking |
 | ledge | 6 | back, between, lesson, missed-a-spot, my-friend-randi, unpacking |
 | lungs | 6 | water-wings ×2, a-round, leave-no-trace, reach, strokes |
@@ -4202,7 +4202,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | murmur | 6 | all-the-time, cropped, made-up, outlier, see-you-later, the-induction |
 | nightstand | 6 | postcard ×2, fairytale, hangover, in-his-hands, old-acquaintances |
 | noticing | 6 | between, clean-plate, covering, may-i-choose, substitution, vee-on-the-bench |
-| november | 6 | four ×2, all-the-time, old-acquaintances, school-nights, strokes |
+| november | 6 | four ×2, all-the-time, old-acquaintances, not-in-your-bed, strokes |
 | onion | 6 | in-his-hands ×3, new-ordinary ×3 |
 | oranges | 6 | clean-plate ×2, unpacking ×2, covering, missed-a-spot |
 | others | 6 | leave-no-trace ×2, among-friends, boyfriend, hangover, vee-on-the-bench |
@@ -4260,7 +4260,7 @@ Words used 2–6× book-wide, spanning 2+ chapters — a striking word spent twi
 | ticked | 6 | above-him, barely-stings, hangover, missed-a-spot, reach, unpacking |
 | tires | 6 | the-usual ×2, boyfriend, grace, swim-lanes, two-towels |
 | toenails | 6 | toenails ×2, broken-in, missed-a-spot, the-bench, the-induction |
-| tomatoes | 6 | above-him ×2, old-acquaintances ×2, famished, school-nights |
+| tomatoes | 6 | above-him ×2, old-acquaintances ×2, famished, not-in-your-bed |
 | trained | 6 | the-bench ×2, the-pointing-game ×2, fairytale, on-her-floor |
 | traveled | 6 | reach ×2, clean-plate, new-ordinary, on-her-floor, vee-on-the-bench |
 | twisted | 6 | burn ×2, we-find-out ×2, leave-no-trace, recognized-method |

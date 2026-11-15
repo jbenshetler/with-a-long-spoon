@@ -34,7 +34,7 @@ The double tellings stay — the divergences are the payload (*I did it on purpo
 | The dress, Oct 16–17 ({{Sorority}}) | *Oh, yes*, read off her face | The shoe date, her feet in Randi's hands | The body |
 | The dance, Oct 23 ({{Broken In}}) | Feigned sleep and *Hrm* | The whole fight, the wardrobe, the plan | Everything |
 | Heels and kitchen, Oct 26 ({{The Practice Room}}) | *See you in the room*, to the side of her head | The re-enactment in the practice room | Cassie is not told |
-| Spanking, Nov 1–9 ({{One Bite}} / {{School Nights}}) | The shape of her weeks; Cassie deduces *not enough on* | The full ladder, and Vee's hand in the bathroom | Cassie deduces what Randi is told |
+| Spanking, Nov 1–9 ({{One Bite}} / {{Not in Your Bed}}) | The shape of her weeks; Cassie deduces *not enough on* | The full ladder, and Vee's hand in the bathroom | Cassie deduces what Randi is told |
 | Photos, Nov 14–29 ({{All the Time}} / {{Cropped}}) | The cropped photo for her parents; *can't say what he is* | *I gave him all of it* | Cassie gets the crop |
 | December ({{Bare}}) | She hides the shirt from Cassie; can tell no one | | Silence |
 | January ({{My Friend Randi}}) | Cassie's bed stripped, family in another state | Everything, and Randi writes the plan | Cassie is gone |
@@ -50,14 +50,14 @@ Recount = words re-narrating a seen event. Safe cut = what the inventory judged 
 | 18 | {{Turned Up}} | 2,012 → 1,852 | ~970 | 160 cut | **done** — procedure trimmed; stays full (the gauge); panel flat |
 | 22 | {{Fed}} | 2,179 | 544 | ~60 (l. 17 dinner re-list only; Cassie's quoted line is a designed rhyme, `meta-note-fed.md`) | **skipped** (author 2026-09-28): the sheet hour is Randi's gauge reading |
 | 19 | {{How It's Done}} | 5,179 | ~530 | ~130 (l. 71 provenance; l. 90 evasive recount) | leave — see Conclusion |
-| 41 | {{All the Time}} | 3,287 | tenor summary | 150–200 (ll. 37, 41 enumeration; l. 57 overlaps {{School Nights}}) | leave — see Conclusion |
+| 41 | {{All the Time}} | 3,287 | tenor summary | 150–200 (ll. 37, 41 enumeration; l. 57 overlaps {{Not in Your Bed}}) | leave — see Conclusion |
 | 11 | {{Dear}} | 3,277 | ~405 | 100–120 (l. 49 setup; l. 55 ordering; l. 63 bridge) | leave — see Conclusion |
 | 29 | {{Broken In}} | 3,944 | ~430 | ~110 (l. 55 scaffolding; l. 73 him leaving; l. 77 bartender setup) | leave — see Conclusion |
 | 32 | {{The Practice Room}} | 2,185 | 313 | ~90 (l. 43 porch summary; keep *leave them on*) | leave — see Conclusion |
 | 36 | {{One Bite}} | 3,077 | ~280 | 80–100 (l. 33 wrap skirt; merge one bet rung) | leave — see Conclusion |
 | 53 | {{My Friend Randi}} | 3,147 | ~350 | 15 (l. 11 second recap) | **done** — l. 9 recap kept: five chapters from its source, the reader needs it; l. 11's re-list cut |
 | 10 | {{Off Six-Fourteen}} | 1,111 | ~290 | 60–80 (tree scaffolding l. 15/19; bare ask l. 37) | leave — see Conclusion |
-| 38 | {{School Nights}} | 643 | 198 | 50–60 (l. 13 generic cooked/watched clause) | leave — see Conclusion |
+| 38 | {{Not in Your Bed}} | 643 | 198 | 50–60 (l. 13 generic cooked/watched clause) | leave — see Conclusion |
 | 44 | {{Cropped}} | 760 | ~85 | ≤20 | leave |
 | 13 | {{Leave No Trace}}'s dorm movement | 569 | 348 | 0 — the chapter *is* the reception | leave |
 | 21 | {{Toenails}} | 789 | 181 | 0 — already the model | leave |
@@ -74,7 +74,7 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 - {{Leave No Trace}}'s dorm movement *he just looked* ↔ {{Turned Up}} *I locked eyes with him. And then I let him look.* Both stay.
 - {{Turned Up}} "he made one" (the shirt) is the reveal; {{Leave No Trace}}'s dorm movement *I kept the shirt* is its setup.
 - {{The Practice Room}} Randi's counting script → {{One Bite}} *It wasn't quite like you said*; *love tap* → *the little love tap*.
-- {{School Nights}} *fine* → {{All the Time}} *calling it fine*.
+- {{Not in Your Bed}} *fine* → {{All the Time}} *calling it fine*.
 - Kiss shape (hand at the hinge, second press) and *See you soon, gorgeous*: designed escalation across {{How It's Done}}, {{Fed}}, {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{All the Time}}. Not repetition to cut.
 - Randi's scent unnamed ({{How It's Done}}, {{One Bite}}) → *bitter orange* ({{Broken In}}, {{All the Time}}).
 
@@ -82,7 +82,7 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 
 Once the gauge rules out cross-pair cuts, **there is no retelling between chapters left to cut.** Every remaining retold event is a reading on the gauge, the raw material of a reception beat Randi or Cassie works on, or earned by distance ({{My Friend Randi}}, five chapters from its source). The inside-a-telling duplications were two: the third listing of the dinner in {{Fed}}, kept for the designed rhyme with Cassie's line; and the second naming of the fight in {{My Friend Randi}}, cut. {{Turned Up}}'s procedure trim moved no reader.
 
-The remaining inventory rows ({{How It's Done}} l. 71, {{All the Time}} ll. 37/41, {{Dear}}, {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{Off Six-Fourteen}}, {{School Nights}}) are **not retellings by the test**: they restate manner or origin in Vee's voice to a listener who is working on it — characterization, not recount. Proposed cuts to {{All the Time}} and {{How It's Done}} were withdrawn on that ground (a few dozen words that reduced characterization and addressed no between-chapter complaint).
+The remaining inventory rows ({{How It's Done}} l. 71, {{All the Time}} ll. 37/41, {{Dear}}, {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{Off Six-Fourteen}}, {{Not in Your Bed}}) are **not retellings by the test**: they restate manner or origin in Vee's voice to a listener who is working on it — characterization, not recount. Proposed cuts to {{All the Time}} and {{How It's Done}} were withdrawn on that ground (a few dozen words that reduced characterization and addressed no between-chapter complaint).
 
 **The complaints of retelling between chapters are readers feeling the gauge without knowing it is one.** The prose-side answer is none. The instrument-side answer is done: the sentences that primed readers to count are on `line-editor`, not on the standing three (`reviews/capture-panel/SPEC.md`, 2026-09-28).
 

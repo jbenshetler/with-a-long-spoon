@@ -53,7 +53,7 @@ authorial decisions — do not re-flag without new evidence.**
   something/nothing/anything"; rule + author ruling in `style/style-rules.toml`).
   This is the reference example the rule's "designed uses" carve-out exists *for*
   — the antithesis of the backward-running phrases cut elsewhere
-  (see-you-later, school-nights, how-its-done, we-find-out). The unquantifiability
+  (see-you-later, not-in-your-bed, how-its-done, we-find-out). The unquantifiability
   is the beat: Vee cannot name the cost precisely because it is the measure of
   Randi choosing her out loud, and it opens an extended cost/economy figure
   ("cost Randi," "cost something," "spent it on her," "without appearing to count

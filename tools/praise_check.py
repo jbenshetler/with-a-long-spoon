@@ -122,7 +122,7 @@ def chapter_number(slug: str) -> int | None:
 # chapters, so it appears under both.)
 PREDECESSORS = {
     "above-him": ["in-his-hands"],
-    "school-nights": ["above-him", "strokes"],
+    "not-in-your-bed": ["above-him", "strokes"],
     "space": ["hills-and-valleys"],
     "cropped": ["seconds"],
     "leave-no-trace": ["rye"],

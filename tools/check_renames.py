@@ -64,6 +64,10 @@ RENAMES = [
         ("slug",  r"\[\[fitting\]\]",                       "STALE",  "wiki-link"),
         ("title", r"The Fitting",                           "REVIEW", "lowercase 'the fitting'=dress-fitting event; 'fitting shoes'/'the fitting hem'/'fitting tellings'=common noun, keep"),
     ]),
+    ("Not in Your Bed  (was School Nights)", [
+        ("slug",  r"(?<!`)school-nights(?!`)",               "STALE",  "historical run logs / model-written capture text may keep it"),
+        ("title", r"School Nights",                         "REVIEW", "lowercase 'school nights' = Cassie's line, keep; reader-written text keeps the old title"),
+    ]),
 ]
 
 

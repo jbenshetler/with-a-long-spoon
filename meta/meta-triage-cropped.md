@@ -14,7 +14,7 @@ Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt
 
 ## Fixed
 
-- **"She had a gift for knowing when a door was closed" cut** (final paragraph). Opus flagged it as telling; lore-keeper check confirmed the trait is already *shown* in `school-nights.md:29-33` (Cassie letting the "maybe" stand, going back to her book) and the phrase is not a preserved line anywhere in meta/. The beat now reads: "Cassie nodded and went back to her plate. She didn't push at it." The behavior carries the trait without the label. (Commit: this pass.)
+- **"She had a gift for knowing when a door was closed" cut** (final paragraph). Opus flagged it as telling; lore-keeper check confirmed the trait is already *shown* in `not-in-your-bed.md:29-33` (Cassie letting the "maybe" stand, going back to her book) and the phrase is not a preserved line anywhere in meta/. The beat now reads: "Cassie nodded and went back to her plate. She didn't push at it." The behavior carries the trait without the label. (Commit: this pass.)
 
 ## Fixed (2026-07-30 scene-review pass)
 

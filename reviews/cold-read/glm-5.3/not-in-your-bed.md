@@ -1,6 +1,6 @@
-# Cold read (grounded) — School Nights
+# Cold read (grounded) — Not in Your Bed
 
-*scene: scenes/school-nights.md · model: glm-5.3 · memory: ck-ch030 + raw ch031..ch035 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/not-in-your-bed.md · model: glm-5.3 · memory: ck-ch030 + raw ch031..ch035 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 

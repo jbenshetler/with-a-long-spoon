@@ -1,4 +1,4 @@
-# Fact audit — School Nights
+# Fact audit — Not in Your Bed
 
 *model: gpt-5.6-sol · ch010 · 2026-11-08 · prose-sha ~944e2fa78cb0*
 

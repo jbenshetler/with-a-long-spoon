@@ -53,7 +53,7 @@
 | Wednesday | 3 | ignition-scalding, new-ordinary, vee-on-the-bench |
 | Christine | 3 | may-i-choose |
 | September | 3 | nothing-underneath, outlier, what-to-wear |
-| November | 3 | old-acquaintances, school-nights, the-usual |
+| November | 3 | old-acquaintances, not-in-your-bed, the-usual |
 | Berkeley | 3 | the-induction, the-usual |
 | Cass | 3 | turned-up |
 | Theo | 3 | what-to-wear |
@@ -70,8 +70,8 @@
 | Fortune | 2 | old-acquaintances |
 | MIRH | 2 | outlier |
 | Miranda | 2 | outlier |
-| POV | 2 | school-nights, the-induction |
-| It's | 2 | school-nights, substitution |
+| POV | 2 | not-in-your-bed, the-induction |
+| It's | 2 | not-in-your-bed, substitution |
 
 **Singletons (127):** AirPods (the-pointing-game), Almost (still-life), Anthro (all-the-time), Army (rock), Arrangement Post-coital (ignition-scalding), Arts (ignition-scalding), Bella Donna Vee'd (sorority), Blacksburg (dear), Blue (leave-no-trace), Brazilian (barely-stings), California (the-usual), Carter (the-usual), Cassie Cassie (substitution), Chambord (on-her-floor), Chi (see-you-later), Chilean (in-his-hands), Chili's (the-usual), Chinese (we-find-out), Christiansburg (grace), Christmases (rock), Close (still-life), Cool Whip (rock), Crafts (ignition-scalding), Dan (the-bench), Danny (what-to-wear), Debussy (ignition-scalding), Delicious (one-bite), Delivered (in-his-hands), Dirty (ignition-scalding), Dr (all-the-time), Draper Street (barely-stings), Dunn (the-usual), Edna Mode'd (broken-in), Eep (nothing-underneath), Elvis (the-usual), Euler's (substitution), Evil Queen (broken-in), February (the-usual), Fleetwood Mac (all-the-time), Florida (fairytale), Garth Brooks (all-the-time), Goodbye Vee (see-you-later), Greece (above-him), HUMBLE PIE (recognized-method), Hahn (how-its-done), He's (lesson), Hell (hills-and-valleys), Hermès (how-its-done), I-built-it-that-way (vee-on-the-bench), II After (ignition-scalding), Intermediate Micro (leave-no-trace), Jeans Meg (lesson), Kayla's (what-to-wear), Keep (still-life), KitchenAid (two-towels), Knoxville (the-usual), Lasted (the-usual), Latte (see-you-later), Leaves Tuesday (ignition-scalding), Legs (water-wings), Love (on-her-floor), MRI (two-towels), Methodist (rock), Middle Eastern (dear), Milan (peekaboo), Miranda Holdings LLC (outlier), Miss November (all-the-time), Mode (broken-in), Mom (cropped), Moved (a-round), Movement (ignition-scalding), Nebbiolo (new-ordinary), New Haven (fairytale), New Year (my-friend-randi), Ohio (fairytale), Oops (a-round), PPP (outlier), Pat (vee-on-the-bench), Peter (rock), Prices Fork (how-its-done), Radford (one-bite), Randi Monday (all-the-time), Randi Vee (all-the-time), Roanoke (my-friend-randi), Robert Redford (one-bite), SAT (rock), Sade (gone), San Francisco (all-the-time), Sanskrit (two-towels), Saturday-night (recognized-method), Saturdays (hills-and-valleys), Showing (all-the-time), Sinatra (how-its-done), Smaller (lesson), Smoothie Bird (dear), Sondra's (barely-stings), Speed Wash (in-her-place), Standards (broken-in), Stevie Nicks (sorority), Sticky (one-bite), Switzerland (dear), T (substitution), T-shirt (recognized-method), TA's (substitution), TJMaxx (sorority), TV (all-the-time), Take (the-bench), Third (lesson), Those (nothing-underneath), Thursday Brooke (dear), Thursday Sheri (hills-and-valleys), Thursday Vee (dear), Tony Bennett (all-the-time), Tuesday-afternoon (the-pointing-game), Ulta (fed), V (leave-no-trace), Vee Cassie (turned-up), Vee Randi (dear), Victorian LARPing (we-find-out), Virginia (sorority), Wardy (all-the-time), Wednesday-morning (see-you-later), Weren't (how-its-done), Wheel (old-acquaintances), Wilson (substitution), Xs (nothing-underneath), You're (broken-in)
 

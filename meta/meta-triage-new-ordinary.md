@@ -32,7 +32,7 @@ overnight** (the Thursday-night stay whose morning is {{Above Him}}'s drawer
 discovery — the seed now pays off with a rendered scene); **{{All the Time}} =
 Sat Nov 14** (prose names Saturday ×3; Vee leaves Pace 30 min before brunch
 and drives back to him after — mid-drawer-weekend, not a departure morning);
-**{{School Nights}} fixed to Mon Nov 9; the Tue Nov 10 lap vignette inserted
+**{{Not in Your Bed}} fixed to Mon Nov 9; the Tue Nov 10 lap vignette inserted
 after it** (author 2026-09-06); in-his-hands.md header loosened to "A weeknight
 in mid-November." Accepted strain, ruled tolerable: Randi's "had had it ready
 for days" (all-the-time:103) = two days.

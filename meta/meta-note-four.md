@@ -202,7 +202,7 @@ she stepped into while he watched) and of the room he has never seen.
   weren't on the counter… the bottom went out of **her morning**"* — she wakes at his
   bathroom counter, so Friday morning requires Thursday night. Moving it to Friday would
   **add** a night (Thu+Fri+Sat+Sun), not tidy the week. And the F-S-S discipline does not
-  exist yet: `school-nights.md:23` (*"You don't come home school nights"*),
+  exist yet: `not-in-your-bed.md:23` (*"You don't come home school nights"*),
   `strokes.md:23`, and the pattern *"doesn't bank until {{The New Ordinary}}"*. No
   chronology change.
 - **Her knowing is kept explicit, not implied** (author). The passage is openly Pace's

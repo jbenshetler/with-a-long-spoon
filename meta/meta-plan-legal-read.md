@@ -833,11 +833,11 @@ Clean — no findings.
 |---|---|---|---|---|---|
 | 1 | age-signal | "a girl" — Vee's self-reference in post-sex reflection | A man didn't do all of that for a girl he was only passing a season with. | Movement i., paragraph beginning "She loved him." (near line 21) | No change strictly needed; if the lawyer prefers, 'a woman he was only passing a season with' loses nothing. |
 
-### School Nights (`school-nights.md`)
+### Not in Your Bed (`not-in-your-bed.md`)
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 1 | age-signal | "School nights" / dorm framing near retold intimacy | "You don't come home school nights." ... "Some of us have class." | Title; Cassie's lines mid-scene and final line | No change needed — participants are adult university students, and the explicit age anchor now exists on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), not just in canon. |
+| 1 | age-signal | "School nights" / dorm framing near retold intimacy | "You don't come home school nights." ... "Some of us have class." | Cassie's lines mid-scene and final line (formerly also the title) | Prose: no change needed — participants are adult university students, and the explicit age anchor now exists on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), not just in canon. **Title: superseded 2026-11-15 (author)** — the title *School Nights* was tripping safety screens despite the college context, so the chapter was retitled *Not in Your Bed* (slug `not-in-your-bed`); retailer-screened surfaces follow `meta-blurb.md`'s no-age-coded-words rule. |
 
 ### In His Hands (`in-his-hands.md`; retired 2026-11-04 — now movements one–two of `above-him.md`)
 

@@ -31,7 +31,7 @@ Updated 2026-10-27.
 | 3 | Ruling-anchor check | unstarted |  |
 | 4 | Copyedit against the style sheet | stale | Complete 2026-08-03; stale for every chapter revised since. |
 | 4 | Style-tic policing | in progress | Per-edit throughout; the whole-volume pre-publication run is not done. |
-| 4 | Flat-interrogative sweep | in progress | 13 hits active in this volume (2026-10-27). Left flat pending the author's ack: `strokes` ×4 (Cassie; now part of {{School Nights}}). (`covering:77` and `boyfriend:49`, from the same 2026-09-20 list, are Volume 3.) Elliptical questions need a read by eye. |
+| 4 | Flat-interrogative sweep | in progress | 13 hits active in this volume (2026-10-27). Left flat pending the author's ack: `strokes` ×4 (Cassie; now part of {{Not in Your Bed}}). (`covering:77` and `boyfriend:49`, from the same 2026-09-20 list, are Volume 3.) Elliptical questions need a read by eye. |
 | 4 | Age-coded language sweep | unstarted |  |
 | 5 | Capture/retention panel | in progress | Gates exist for ch23–47. Re-run the stale gates before the beta round. |
 | 6 | Legal and content read | complete | For the beta round (author ruling 2026-09-16), as recorded in `meta-plan-legal-read.md` when this volume was still part of Volume One. Confirm the sheet covers every chapter now in this volume. **Deferred to publication:** as Volume 1. |

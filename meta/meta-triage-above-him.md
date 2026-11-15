@@ -1,4 +1,4 @@
-> **Restructure 2026-11-04 (author):** Line anchors in entries dated before 2026-11-04 refer to the pre-restructure file (old movements one–two now open `school-nights.md`; the old movement three is now this chapter's movement three). The former *In His Hands* triage is appended below.
+> **Restructure 2026-11-04 (author):** Line anchors in entries dated before 2026-11-04 refer to the pre-restructure file (old movements one–two now open `not-in-your-bed.md`; the old movement three is now this chapter's movement three). The former *In His Hands* triage is appended below.
 
 # Triage — Above Him (line audit, 2026-08-02)
 
@@ -16,7 +16,7 @@ Sentence-by-sentence consistency/logic audit (`audits/line-audit/above-him.md`).
 ## Left standing — do not re-litigate
 
 - **"The next Friday" + "her morning"** (:47/:49) — the dateline is
-  retroactively literal: {{School Nights}} lands Mon Nov 9, followed by the
+  retroactively literal: {{Not in Your Bed}} lands Mon Nov 9, followed by the
   Tue Nov 10 lap vignette and the Thursday-night stay at *In His Hands*,
   which puts her at his mirror Friday morning. First read takes "Friday = the
   next visit" loosely; reread finds it exact — the seed is the point. Do not

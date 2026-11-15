@@ -1,8 +1,8 @@
-# Condensed — School Nights
+# Condensed — Not in Your Bed
 
-*VIGNETTE · Draft complete (`scenes/school-nights.md`) · Fri Nov 6 – Tue Nov 10, four movements: the bed, the mirror, the dorm, the pool · Vee POV*
+*VIGNETTE · Draft complete (`scenes/not-in-your-bed.md`) · Fri Nov 6 – Tue Nov 10, four movements: the bed, the mirror, the dorm, the pool · Vee POV*
 
-**Restructure note** (restructured 2026-11-04, author: for experiential order the former {{Above Him}} movements one–two (Fri–Sat) now open {{School Nights}}; the former *In His Hands* (Thu night) is retired as a chapter and is now {{Above Him}}'s movements one–two, with the drawer morning as movement three.)
+**Restructure note** (restructured 2026-11-04, author: for experiential order the former {{Above Him}} movements one–two (Fri–Sat) now open {{Not in Your Bed}}; the former *In His Hands* (Thu night) is retired as a chapter and is now {{Above Him}}'s movements one–two, with the drawer morning as movement three.)
 
 The overnights that thicken the rhythm happen **off-page**; this is their only trace — the **greedy phase still running**, weeks in, when they still can't keep to weekends (it doesn't bank into the *regular pattern* until {{The New Ordinary}}, mid-to-late November — guideline, not guarantee). Vee relays the accumulating nights to Cassie in a warm, romantic register — the proud/sweet version — while the bodily shame stays walled off (it goes to Randi). The relay does what dramatizing the overnights would not: it keeps the off-page rhythm visible without spending scenes on it, *and* it shows the confidante-sort operating in miniature. It is also the one natural place Vee says, in words, what makes Pace different. Dorm room, Vawter Hall; the cold-window detail and shared-suite life already canon.
 
@@ -48,7 +48,7 @@ First read is pure warmth, no signal — a roommate clocking her friend's happin
 > read as), into the untouched warm-house close. Structural relief: the hand and
 > the tending each take their own short paragraph so the reveal lands (fixing the
 > "too many unrelieved words" mud). Untipped double reading preserved. Full record
-> in `meta-triage-school-nights.md`.
+> in `meta-triage-not-in-your-bed.md`.
 
 ### The streetlight (protected)
 Cassie's *"streetlight" / "public utility"* rhymes with Pace's lamp speech in {{Gone}} (*"Like somebody found the lamp"*) — two witnesses independently naming the same lit girl: Cassie's version public, free-standing, wanting nothing; Pace's a lamp inside his house. Cold-read panel (2026-07-28) surfaced the rhyme as the chapter's strongest effect. **Protected at both ends** — don't revise either line without weighing the pairing; neither speaker may ever hear the other's version. (Coinage continuity with {{The Induction}}'s "Come on, streetlight" already noted in `meta-triage-the-induction.md`.)

@@ -11,7 +11,7 @@
    Movement i establishes the Friday-evening arrival pattern (porch light, supper, bed), and movement ii's mirror ritual is a morning-after beat; a discovery framed as part of "her morning" therefore lands on Saturday, but the sentence dates it to "the next Friday." Either she's doing the hair ritual on Friday evening (unestablished) or "Friday" is standing loosely for "the next visit." Severity: **clarification**. Recommend deciding which day the discovery happens and making the time-of-day and the dateline agree.
 
 3. Line 59 — "he hadn't answered it the way she'd waited all week to be answered"
-   Cross-scene: per `meta/meta-plan-chronology.md`, {{School Nights}} (Mon Nov 9–Thu Nov 12) intercalates *inside* this gap, with Vee spending school nights at Pace's house ("You don't come home school nights"). "Waited all week" — and movement iii's implication that she hasn't stood at this counter since the mirror morning — sits oddly against her being in the house on weeknights that same week (when did he clear the counter without her noticing?). Not contradicted on the page (he could have made the drawer Thursday night), but the two scenes pull against each other. Severity: **clarification**. Recommend confirming the intended staging (drawer made late in the week, or her weeknights not involving the bathroom kit) and, if needed, softening "all week."
+   Cross-scene: per `meta/meta-plan-chronology.md`, {{Not in Your Bed}} (Mon Nov 9–Thu Nov 12) intercalates *inside* this gap, with Vee spending school nights at Pace's house ("You don't come home school nights"). "Waited all week" — and movement iii's implication that she hasn't stood at this counter since the mirror morning — sits oddly against her being in the house on weeknights that same week (when did he clear the counter without her noticing?). Not contradicted on the page (he could have made the drawer Thursday night), but the two scenes pull against each other. Severity: **clarification**. Recommend confirming the intended staging (drawer made late in the week, or her weeknights not involving the bathroom kit) and, if needed, softening "all week."
 
 4. Line 19 — "he slept, flat on his back, gone the moment it was over"
    The last narrated sex (line 17) is on the couch; they are now in bed, so "gone the moment it was over" implies either an unnarrated final time in bed or that he somehow slept from the instant the couch encounter ended despite relocating. A reader can bridge it, but the elision is felt. Severity: **nitpick**. Recommend a beat acknowledging the move to bed (or letting "it" clearly mean the whole evening).
@@ -33,7 +33,7 @@
 
 1. **Fixed** (option a): :33 scrunchy sentence ends at "off the form by the
    tap"; the twist now finishes during the :37 embrace.
-2. **Left standing**: the Friday dateline is literal via {{School Nights}}
+2. **Left standing**: the Friday dateline is literal via {{Not in Your Bed}}
    (Thursday-night stay → Friday morning); seeds the arrangement before its
    chapter. Do not re-date.
 3. **Left standing**: overnight counter-clearing is the natural staging; :49's

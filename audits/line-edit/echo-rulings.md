@@ -123,7 +123,7 @@ survives; arithmetic is not.
    — the breath as subject, not decoration) and remains the strongest instance.
    **⚠ Quota retired 2026-08-08 (author ruling).** "Keep the strongest" was a
    budget of one from a count of six — one per ~23,000 words, the exact profile
-   ruled *not overuse* at #49. **`school-nights:17` (ch. 36) and
+   ruled *not overuse* at #49. **`not-in-your-bed:17` (ch. 36) and
    `under-the-rug:71` (ch. 43) are queued as pre-ruled items in their chapters'
    reports: those pre-rulings are void.** Present both neutrally at their
    reviews with the reader evidence. `sorority:85` (varied 2026-08-07, #29)
@@ -431,7 +431,7 @@ FIX-AT. Do not vary either occurrence before that count exists.
     than being stood up by one") rather than merely to dodge the echo —
     **the general form: when a FIX-AT forces a rewrite, prefer a replacement
     that earns something twelve lines later over a like-for-like swap.**
-    Remaining Vol-1 occurrences to vary: `school-nights:17`.
+    Remaining Vol-1 occurrences to vary: `not-in-your-bed:17`.
     Keeper unchanged: `standards.md:141`.
     **`under-the-rug:71` satisfied 2026-08-13** (Under the Rug line edit) — by
     **subtraction, not substitution**: the simile was cut outright ("the fight
@@ -1576,7 +1576,7 @@ left standing in `meta/meta-triage-in-his-hands.md`.
   added here are Vee *catching* a tell, not Vee *studying* the face; the set
   piece remains available for its planned scene.
 
-## Batch 21 — School Nights cost-vague back-sweep (2026-08-11)
+## Batch 21 — Not in Your Bed cost-vague back-sweep (2026-08-11)
 
 **#76 — "reached her" (15×) and "landed" (32×): UNRULED harvest candidates,
 not findings.** Surfaced during the `cost-vague` back-sweep from ad-hoc counts

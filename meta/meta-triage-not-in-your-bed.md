@@ -1,8 +1,8 @@
 > **Restructure 2026-11-04 (author):** Line anchors in entries dated before 2026-11-04 refer to the pre-restructure file; movements one–two (from the old {{Above Him}}) carry their rulings in `meta-triage-above-him.md`.
 
-# Triage — School Nights (line audit, 2026-08-02)
+# Triage — Not in Your Bed (line audit, 2026-08-02)
 
-Sentence-by-sentence consistency/logic audit (`audits/line-audit/school-nights.md`).
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/not-in-your-bed.md`).
 2 findings, both fixed; nothing left standing.
 
 ## Fixed
@@ -37,7 +37,7 @@ Left standing this pass (line edit, 2026-08-11):
   unbroken block: the run-on enacts "there was no holding it once Cassie opened
   the door" — Vee spilling it all in one breath. (Separately, the author flagged
   the **soup-burn payoff at `:17` as not-yet-clear**; deferred as a TODO in
-  `meta-condensed-school-nights.md`, a clarity fix that must preserve the untipped
+  `meta-condensed-not-in-your-bed.md`, a clarity fix that must preserve the untipped
   double reading.)
 
 Also: Cassie added to the chronology entry's `present:` field (she's on the
@@ -87,7 +87,7 @@ earlier held-breath edit — sanctioned, pending re-`--ack`; the `:29` whole-of 
 
 ---
 
-# Triage — School Nights
+# Triage — Not in Your Bed
 
 *Cold-read feedback pass, 2026-07-28. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Above Him}} — the reviews name it by its pre-rename title, "The Top Drawer"). First triage pass for this scene. No prose was changed.*
 
@@ -98,7 +98,7 @@ The cleanest panel result of any scene to date: all four reviewers rated the vig
 - **Cassie as the clean witness** (unanimous, the panel's strongest signal): the flat *"Do you love him"* and letting the maybe stand; "the one adult in the room" (opus); "the safest person in the book" (gpt-5.6-sol).
 - **The audit** — *"You don't come home school nights"* landed as the spine for all four; "the trap's arithmetic done aloud for the first time by someone outside it" (fable-5).
 - **The burn's untipped double reading** — tenderness AND calibration, "the chapter doesn't tip it either way and I'm grateful" (opus). Keep it untipped. (The panel read the *soup* version; the beat was rebuilt as the baked-tomato / breast burn on 2026-08-12 — untipped preserved. See "Soup burn rebuilt" above.)
-- **The streetlight / lamp rhyme with {{Gone}}** (fable-5: "did more to me than the chapter's whole plot") — now recorded as **protected at both ends** in `meta-condensed-school-nights.md`.
+- **The streetlight / lamp rhyme with {{Gone}}** (fable-5: "did more to me than the chapter's whole plot") — now recorded as **protected at both ends** in `meta-condensed-not-in-your-bed.md`.
 - **"Fine" and the hands-up at the size of it** — "more convincing than the word 'love' would've been" (opus).
 
 ## Working-as-designed — verified against the plan; do not re-litigate

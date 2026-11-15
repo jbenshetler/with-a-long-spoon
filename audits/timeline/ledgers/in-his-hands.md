@@ -17,7 +17,7 @@ Claims: 9 · conflicts: 0 · unanchored: 0 · settled: 0
 - "Three times, in one evening." — scenes/in-his-hands.md:71
   Internal count of the scene's own evening (two bedroom rounds on page + "Again" at :63). Consistent with the evening-only span so far.
 - "as she had every time since the first night she ever sat in this kitchen" — scenes/in-his-hands.md:79
-  References {{Famished}} (first night, Fri Oct 9) — ~5 weeks earlier, multiple visits since ({{Above Him}}, {{School Nights}} weeknights). Consistent.
+  References {{Famished}} (first night, Fri Oct 9) — ~5 weeks earlier, multiple visits since ({{Above Him}}, {{Not in Your Bed}} weeknights). Consistent.
 - "I'm flying home for Thanksgiving" — scenes/in-his-hands.md:87
   Thanksgiving upcoming; chronology: break Sat Nov 21–Sun Nov 29, Thanksgiving Thu Nov 26 — two weeks after Nov 12. Consistent.
 - "Sheri's coming over … a day meant for family" — scenes/in-his-hands.md:101,103

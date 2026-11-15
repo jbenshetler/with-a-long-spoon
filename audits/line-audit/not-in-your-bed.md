@@ -1,8 +1,8 @@
-# Line audit — school-nights (2026-08-02)
+# Line audit — not-in-your-bed (2026-08-02)
 
 **Verdict:** 2 issues found (0 fix, 1 clarification, 1 nitpick).
 
-Triage doc consulted: yes — `meta/meta-triage-school-nights.md`. Its protected positives ("public utility," the untipped soup burn, the "Maybe. I think so." hedge, the warmth density) and the post-pass line-17 continuity fix were honored; no finding below re-litigates any of them.
+Triage doc consulted: yes — `meta/meta-triage-not-in-your-bed.md`. Its protected positives ("public utility," the untipped soup burn, the "Maybe. I think so." hedge, the warmth density) and the post-pass line-17 continuity fix were honored; no finding below re-litigates any of them.
 
 ## Findings
 
@@ -38,4 +38,4 @@ Triage doc consulted: yes — `meta/meta-triage-school-nights.md`. Its protected
    facedown."
 
 Cassie added to the chronology `present:` field (was Vee only). Triage
-recorded in `meta/meta-triage-school-nights.md`.
+recorded in `meta/meta-triage-not-in-your-bed.md`.

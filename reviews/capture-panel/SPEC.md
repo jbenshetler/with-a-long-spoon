@@ -264,7 +264,7 @@ sign: it would mean the breathers aren't breathing.
 4. **It lands in the free sample (ch1–4)**, where no goodwill is banked yet.
 
 **Measured baseline (glm-5.3 full volume, 2026-09-10).** Target-reader baseline
-**8.37**; deepest dips ~2 points (`what-to-wear`, `school-nights` 6.33;
+**8.37**; deepest dips ~2 points (`what-to-wear`, `not-in-your-bed` 6.33;
 `water-wings`, `hills-and-valleys` 6.67), every one rebounding +1.67 to +2.67
 the following chapter. No target reader fell below 6 anywhere in the volume.
 Readers frame these as earned: *"the heat chapters have banked enough trust that
@@ -462,7 +462,7 @@ average): ch6–7, ch9–10, ch12–13, ch19–20 (all 2-chapter, cleared above)
 at `unpacking`/`across`, rebound +2.75). ch35–37, ch47–48, ch52–55 and ch62–63
 dissolve under the deadband — they were baseline chapters recruited by adjacency.
 Solo dips, all healthy: ch16 `turned-up` (−1.13, rebound +2.01), ch28
-`hills-and-valleys` (−1.65, +2.44), ch36 `school-nights` (−1.67, +1.35).
+`hills-and-valleys` (−1.65, +2.44), ch36 `not-in-your-bed` (−1.67, +1.35).
 
 Note ch52–68 is measured by **`queer-woman` on three lanes only** — one persona,
 so it is weaker evidence than Volume One's 20+ readers per chapter, and wants the
@@ -514,7 +514,7 @@ once ch69 exists.
 "calm-before", "I can read the shape", skimming) per gate, `romance-graduate`
 before vs after: opus 0.18 → **1.00**, glm 0.12 → **0.47**, and **sol and gpt-5.5
 went from zero hits in 51 chapters to 0.33 and 0.29** — despite Volume One
-containing plenty of breathers (`hills-and-valleys`, `school-nights`, `cropped`)
+containing plenty of breathers (`hills-and-valleys`, `not-in-your-bed`, `cropped`)
 where they never reached for it. opus now counts the run out loud (*"Genuinely
 the third quiet chapter running"*) and reports **skimming** at ch55, which is the
 behavior the added text predicts; it reads a bridge as earned rather than as a
@@ -1059,7 +1059,7 @@ exit clean.
 
 ### Experiential-order restructure: three chapters into two (2026-11-04)
 
-{{Above Him}} / {{School Nights}} / *In His Hands* (old 32/33/34) became {{School Nights}}
+{{Above Him}} / {{Not in Your Bed}} / *In His Hands* (old 32/33/34) became {{Not in Your Bed}}
 (32: the old Above Him Fri–Sat movements + the old School Nights) and {{Above Him}} (33: the
 old In His Hands + the drawer morning); *In His Hands* retired. Not a `--merged` case (both
 surviving positions hold new prose), so: `--removed 34 --removed-policy retire

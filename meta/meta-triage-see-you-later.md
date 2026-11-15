@@ -116,7 +116,7 @@ authorial decisions — do not re-flag these without new evidence.**
   effortless-nothing when the sensory details (cold citrus, the arm-touch) already
   carry Randi as the attention-commanding better thing. Cut; the details do the
   work. (Second of two places in the sweep where the construction was literally
-  backward from the meaning — cf. `school-nights:13`.)
+  backward from the meaning — cf. `not-in-your-bed:13`.)
 - **Seating contradiction** (audit item 1) — Vee "on the aisle" vs. Randi
   taking "the seat on Vee's other side, the aisle side." Fixed by dropping
   Vee's position: "took her usual two-thirds of the way back, with Cassie

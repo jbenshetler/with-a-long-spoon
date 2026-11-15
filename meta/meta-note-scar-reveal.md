@@ -30,7 +30,7 @@ Spring, Vee POV close third (his read unrendered).
 
 1. **The origin gets spoken once.** Canon has the bike-dragging "surface obliquely, in fragments, never as a monologue." New carve-out: *the one spring telling to Vee is the sanctioned exception* — and it stays inside the rule's spirit because it's plain and undramatic, an account, not a monologue of self-pity. Everywhere else the fragmentary discipline holds.
 2. **Registered as a running thread** in `meta-arch-bible.md`, alongside the taste thread: porch deferral (fall) → plain telling (spring); same-shape unstated; Pace's flat voice. Narrow trigger, so the line is mostly a guard against seeding it anywhere else.
-3. **Plant, remind, pay off (author ruling 2026-11-08).** Repeated meaningful flagging across volumes frustrates readers. Volume Two carries one bare body-fact ({{We Find Out}}) and no *never-asked / never-told* flags; {{School Nights}}' mention was cut. Volume Three reminds once ({{Still Life}}) and names the “birthmark” ({{Grace}}) before the telling. The “birthmark” runs its own plant/remind: {{Substitution}} (ear), {{Famished}} (side, the match), {{School Nights}} (bare body-fact), {{Grace}}.
+3. **Plant, remind, pay off (author ruling 2026-11-08).** Repeated meaningful flagging across volumes frustrates readers. Volume Two carries one bare body-fact ({{We Find Out}}) and no *never-asked / never-told* flags; {{Not in Your Bed}}' mention was cut. Volume Three reminds once ({{Still Life}}) and names the “birthmark” ({{Grace}}) before the telling. The “birthmark” runs its own plant/remind: {{Substitution}} (ear), {{Famished}} (side, the match), {{Not in Your Bed}} (bare body-fact), {{Grace}}.
 
 ## Don't fuse with the first-love telling
 

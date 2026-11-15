@@ -15,7 +15,7 @@ the stairs doubling, and the *what could I do* laugh keep theirs); ", warmly"
 cut from Brooke's third warmth. Durable rulings:
 
 - **"a held breath" (`:141`) — the Vol-1 keeper** (echo-rulings #6); the
-  school-nights/sorority/under-the-rug occurrences vary at their reviews.
+  not-in-your-bed/sorority/under-the-rug occurrences vary at their reviews.
 - **"no longer registered as an act" — kept by ruling** (genuinely perceptual
   use, Vee about herself); acked in `style/style-allow.toml`.
 - **"The not-standing was the move;" — left standing, ruled voice not thumb:**

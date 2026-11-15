@@ -121,7 +121,7 @@ withheld, gated by who-says-*I-love-you*-first. Its machinery is a complete evas
 - "the silence at the center where the word should be" — `bare.md:19`
 - the italic *I love you* that is meant and cannot be said — `seconds.md:11,61`
 - named-then-refused: "She loved him. There." — `above-him.md:21`
-- external naming (Cassie) — `school-nights.md:31`
+- external naming (Cassie) — `not-in-your-bed.md:31`
 - Pace's displacement: "I love how *good we are together*" — `seconds.md:33`
 
 The category is safe; only the saying is dangerous.

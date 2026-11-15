@@ -134,7 +134,7 @@ Randi present but runs **Pace's** lane, because the evening is his.
   the house a piano was going, so low it came to her a note at a time."* Barely arriving
   to her ear as she is barely arrived. Set before the heat line, not among "the small
   mysteries of him," so it never reads as arranged for her. Mirrors {{The Bench}}.
-- **{{School Nights}}** (`school-nights.md`, drafted) → **early Garth rolling into piano**
+- **{{Not in Your Bed}}** (`not-in-your-bed.md`, drafted) → **early Garth rolling into piano**
   (author ruling 2026-11-09), during the dinner talk: *"Early Garth was going in the front
   room, and somewhere in the talk it rolled over into piano, slow, without her catching the
   change."* Garth's first on-page instance; the roll shown from Vee's side. The piano is
@@ -182,7 +182,7 @@ Her register is something she brought, not something absorbed from his collectio
 - **Vee's lane was never thin — it started late.** A first harvest reported one in-house
   instance and was wrong; the regex lacked bare `music` and `Stevie Nicks`. The lane holds
   {{Made-Up}}, {{Believe Me}}, {{Missed a Spot}} and {{Scalding Jealousy Ignition}} (and,
-  since 2026-11-09, {{Two Towels}}, {{School Nights}} and {{Above Him}}). The
+  since 2026-11-09, {{Two Towels}}, {{Not in Your Bed}} and {{Above Him}}). The
   real asymmetry is timing: Randi's register is **named** at chapters 1 and 7, while Vee's
   first music of any kind arrived at chapter 36 and her first named artist at 56.
   {{Famished}} (chapter 20) now fixes the near end. {{Two Towels}} — her first visit, the
