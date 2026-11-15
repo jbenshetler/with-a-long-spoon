@@ -145,7 +145,8 @@ COMPLAINT_STRONG = [
     r"\bfriction\b", r"\bgripe", r"\bsnag\b", r"\bnitpick", r"\bquibbl", r"\b(falls?|fell|felt|reads?|went|goes) flat\b", r"\bsigh(ed)?\b",
     r"\bfiller\b", r"\bpadding\b", r"\bpreach", r"\btapping the glass\b",
     r"\bdidn'?t need\b", r"\bforced\b", r"\bmechanical\b", r"\bpurple\b",
-    r"\boverwr", r"\boverdone\b", r"\btoo much\b", r"\bannoy", r"\birritat",
+    r"\boverwr", r"\boverdone\b", r"\btoo much\b(?! (for (me|us) )?to (ignore|miss))",
+    r"\bannoy", r"\birritat",
     r"\bskimm?(ed|ing)?\b", r"\btedious", r"\bboring\b", r"\bbored\b",
     r"\bcringe", r"\bconspicuous", r"\binstruct(s|ed|ing)? me\b",
     r"\bwearing (on|thin)\b", r"\bwore thin\b", r"\bclunk",
@@ -154,12 +155,13 @@ COMPLAINT_STRONG = [
     r"\bdad joke\b", r"\bdoesn'?t mean anything\b", r"\bmeaningless\b",
     r"\bthesis statement\b", r"\blecture slide\b", r"\bon the page as\b",
     r"\bwish(ed)? (it|the book|the author)\b", r"\bcould (lose|cut)\b",
+    r"\b(don'?t|didn'?t|do not|did not) (love|like) (that|how|it when|the way)\b",
 ]
 COMPLAINT_WEAK = [
     r"\byet again\b", r"\b(the same|another|one more)\b[^.]{0,40}\bagain\b",
     r"\bexplain(s|ed|ing)?\b",
     r"\bwinc(e|ed|ing)\b", r"\bmanaged\b", r"\bstock\b", r"\bdevice\b",
-    r"\blabel+(ed|s)?\b", r"\bstrain", r"\bthin\b", r"\bodd\b",
+    r"\blabel+(ed|s)?\b", r"\bstrain", r"\bthin\b(?!-)", r"\bodd\b",
     r"\bconfus", r"\bmiss(ed)? (a|the) beat\b", r"\bheavy\b", r"\bweak(est|er)?\b",
     r"\breplay(s|ed)?\b", r"\bcut (it|this|that)\b",
 ]
@@ -174,7 +176,16 @@ PRAISE = [
     r"\bworks\b", r"\bworked\b", r"\bsharp\b", r"\bexact(ly right)?\b",
     r"\bclever", r"\belegant", r"\bgreat\b", r"\b(is|was|so|really) good\b", r"\bhot\b", r"\bsexy\b", r"\btender",
 ]
-# Praise cues negated this way are complaints ("doesn't land", "not earned").
+# Praise cues negated this way are complaints ("doesn't land", "not earned") — but only
+# the cues that judge the writing. Negating a cue about a character or a feeling is
+# usually the first half of a "not X, but Y" contrast that praises the line ("That is
+# not a hot mathematician's decorative genius. That is the interior of a lonely boy";
+# "He does not love math because it lets him be the smartest person in the room").
+PRAISE_NEGATABLE = [
+    r"\bearn(s|ed)?\b", r"\bland(s|ed)?\b", r"\bworks\b", r"\bworked\b", r"\bwork\b",
+    r"\bperfect", r"\bprecise", r"\bsharp\b", r"\bexact(ly right)?\b", r"\bclever",
+    r"\belegant", r"\bmoved me\b", r"\bgot me\b",
+]
 NEGATION = re.compile(
     r"\b(no|not|never|nothing|without|hardly|barely|didn'?t|doesn'?t|don'?t|"
     r"isn'?t|wasn'?t|won'?t|can'?t|couldn'?t|fails? to|failed to)\W+(\w+\W+){0,2}$",
@@ -185,6 +196,12 @@ CONTEXT_COMPLAINT = re.compile(
     r"nitpicks?|what didn.t work|weak(ness|nesses)?|problems?|reservations?)\b",
     re.I)
 CONTEXT_PRAISE = re.compile(r"^(loves?|loved|highlights?|what worked)\b", re.I)
+# A cold read's structured block lists motifs and the cast. Those lines are
+# bookkeeping, not stance: a quote in them is skipped, whatever words sit around it
+# ("the thin-sliced apple; the deadbolt; the closing 'key turning in a lock'"). Symbolism
+# is not skipped: it is list-shaped but carries judgments ("…though it's slightly heavy").
+CONTEXT_INVENTORY = re.compile(
+    r"^\**\s*(motifs?( (&|and) images)?|cast present|mentioned only)\b", re.I)
 FIELD = re.compile(r"^almost[- ]stopped\b", re.I)
 
 STOP = set("""a an the and or but if then so of to in on at by for with from up down out
@@ -205,6 +222,7 @@ BOUNDARY = re.compile(r"[.!?…]+[\"”*)\]]*\s+")
 _C_STRONG = [re.compile(p, re.I) for p in COMPLAINT_STRONG]
 _C_WEAK = [re.compile(p, re.I) for p in COMPLAINT_WEAK]
 _PRAISE = [re.compile(p, re.I) for p in PRAISE]
+_PRAISE_NEG = [re.compile(p, re.I) for p in PRAISE_NEGATABLE]
 
 
 def words(text: str) -> list[str]:
@@ -239,8 +257,8 @@ def classify(sentence: str, context: str = "", weak_cues: bool = True) -> str:
     weak_cues=False ignores COMPLAINT_WEAK (used for the look-ahead sentence)."""
     strong, _ = _hits(_C_STRONG, sentence)
     weak = _hits(_C_WEAK, sentence)[0] if weak_cues else 0
-    praise, neg_praise = _hits(_PRAISE, sentence)
-    strong += neg_praise
+    praise, _ = _hits(_PRAISE, sentence)
+    strong += _hits(_PRAISE_NEG, sentence)[1]
     if context == "complaint":
         return "mixed" if praise else "complaint"
     if context == "praise":
@@ -256,6 +274,8 @@ def classify(sentence: str, context: str = "", weak_cues: bool = True) -> str:
 
 def paragraph_context(line: str, section: str) -> str:
     head = line.lstrip("*+-~> \t")
+    if CONTEXT_INVENTORY.match(head):
+        return "inventory"
     if CONTEXT_COMPLAINT.match(head):
         return "complaint"
     if CONTEXT_PRAISE.match(head):
@@ -416,6 +436,8 @@ def extract(read: Read, scene: Scene) -> list[Hit]:
             section = "complaint" if re.search(r"friction|gripe|complain|weakness", s, re.I) else ""
             continue
         ctx = paragraph_context(s, section)
+        if ctx == "inventory":
+            continue
         is_field = bool(FIELD.match(s.lstrip("*+-~> ")))
         masked, spans = mask(line)
         sents = sentences(masked)

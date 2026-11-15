@@ -477,3 +477,9 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   not stop"). The recognition is spoken at "There you are, Randi." It was the book's only
   "good girl". Costs: Zhipu's "earned its landing" and the genre signal; the author's
   reason outweighs a genre wink. Rule recorded in `meta-craft-pace.md` Console rules.
+
+## Protected positives — heavily praised lines (author ruling 2026-11-15)
+
+Lines whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts as of 2026-11-15.
+
+- **:535 "the size of a key turning in a lock"** — quoted in 8 review files; explicit praise from gemini-4-carbon ("chills. Actual chills") and gpt-5.6-sol (reads it as intended: "something being secured"), and logged as a motif by sonnet and glm. Complaint: one claude-opus-5-5 capture gate ("sounds like the author admiring herself"), a lone Anthropic complaint. `friction_check` briefly scored it REAL after the chain-era gates were removed; that came from the classifier counting the motif inventories as complaints.

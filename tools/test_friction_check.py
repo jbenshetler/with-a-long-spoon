@@ -85,6 +85,24 @@ class Classification(unittest.TestCase):
         self.assertEqual(fc.classify("A plain sentence.", "complaint"), "complaint")
         self.assertEqual(fc.classify("A lovely sentence.", "complaint"), "mixed")
 
+    def test_negated_character_praise_is_not_complaint(self):
+        # "not X, but Y" contrasts praise the line; only craft verdicts negate to complaint
+        self.assertEqual(fc.classify("That is not a hot mathematician's decorative genius."), "neutral")
+        self.assertEqual(fc.classify("He does not love math because it lets him win."), "neutral")
+        self.assertEqual(fc.classify("The reveal never earned its weight."), "complaint")
+        self.assertEqual(fc.classify("I don't love that the book points at it."), "complaint")
+
+    def test_idioms_and_compounds(self):
+        self.assertEqual(fc.classify(self.m('Pace\'s "Let\'s go feed you" is doing too much for me to ignore.')), "neutral")
+        self.assertEqual(fc.classify("The dinner scene is too much."), "complaint")
+        self.assertEqual(fc.classify("the thin-sliced apple; the deadbolt"), "neutral")
+
+    def test_inventory_lines_are_skipped(self):
+        self.assertEqual(fc.paragraph_context("**Motifs & images:** the thin-sliced apple", ""), "inventory")
+        self.assertEqual(fc.paragraph_context("**Cast present (in person):** Vee", "complaint"), "inventory")
+        self.assertEqual(fc.paragraph_context("**Symbolism:** the maple, though slightly heavy", ""), "")
+        self.assertEqual(fc.paragraph_context("**Characterization:** Pace", ""), "")
+
     def test_sentence_split_respects_quotes(self):
         masked, spans = fc.mask('He said "Stop. Go now." Then it ended. Fine.')
         self.assertEqual(len(spans), 1)
