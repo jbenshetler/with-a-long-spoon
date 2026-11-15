@@ -70,13 +70,13 @@ And the only seat left was the one that faced the table, the one the girl under 
 
 Somebody closed the door. She heard it go behind her, the latch, and did not turn around to see who.
 
-"Randi." Warm the way she was always warm, a voice she had like other people had a scent — but she did not get up, and she did not say sit; she let the one open chair do that. "Thank you for coming up."
+"Randi." All concern, a thing she had like other people had a scent — but she did not get up, and she did not say sit; she let the one open chair do that. "Thank you for coming up."
 
-Randi sat. She put her hands in her lap and left the water where it was. Brooke's hand rested on the closed folder, the nails a flawless French she never varied, white-mooned and perfect. Caroline's pen moved over the legal pad in a fist tipped candy pink. Randi's own nails lay bare in her lap, buffed to a dull shine under a single coat of clear.
+Randi sat. She put her hands in her lap and left the water where it was. Brooke's hand rested on the closed folder, the nails a flawless French, white-mooned and perfect. Caroline's pen moved over the legal pad in a fist tipped candy pink. Randi's own nails lay bare in her lap, buffed to a dull shine under a single coat of clear.
 
-"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Caroline is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish. We'll observe the forms. I think you'd want us to." She let that settle, pleasant.
+"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. I've taken the chair in your place tonight, and Caroline will sit the board and take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish. We'll observe the forms. I think you'd want us to." Businesslike, not unkind; she let it settle.
 
-It was not unhurried, whatever it looked like from the chair. It was deliberate, the one speed a thing like this ever moved — and it was not a machine, nothing Randi had built or owned. It was only the rules. The ones she had kept her whole life and made other girls keep, moving now at the speed rules move when they finally turn and come for you. She had enforced every line on that page. She had just never stood on the wrong side of one before.
+The pace was deliberate, the one speed a thing like this ever moved — a machine, a system, something older and bigger than Randi, bigger than this one room and this one night, and not a thing she had built or owned. It was the rules themselves, the ones she had kept her whole life and made other girls keep, moving now at the speed rules move when they finally turn and come for you. She had enforced every line on that page. She had just never stood on the wrong side of one before.
 
 She would have run it the same. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard the order of service read back to her by a woman who kept it close enough.
 
@@ -88,13 +88,13 @@ The form was correct. Correct was the whole of what it was for.
 
 "Of course," Randi said.
 
-The brightness went out of her voice, and what came in under it was lower, and concerned. Randi couldn't say where the sorority ended and the girl began in Brooke, not now, not ever. "I didn't want this to be a docket," Brooke said. "I want you to know I held it off as long as I could."
+Her voice dropped off the procedure, lower and softer. Randi couldn't say where the sorority ended and the girl began in Brooke, not now, not ever. "I didn't want this to be a docket," Brooke said. "I want you to know I held it off as long as I could."
 
 Brooke drew the papers from a fresh manila folder and set them neatly on top of it. The folder was new, opened for this, for her, and her name was on the tab — handwritten, in Brooke's round ballpoint. Randi would never have handwritten it. She printed the label and set it on square, so the thing read as procedure and not as a woman taking a pen to your name, and she was grading the crooked tab before she had taken in a single word of the page.
 
 She had kept folders like it on other girls, a dozen of them, a printed label on every one, and she had sat where Brooke was sitting with the girl across from her going pale. She had never once looked at the page while she spoke; you did not need to, you had it. Brooke looked at the page. Not so the room would catch her — Brooke was better than that — but Randi caught her, the small drop of the eyes to the line a beat before she said it, the tell of a woman who did not quite have it by heart.
 
-"The complaint speaks to a sister's conduct this year," Brooke said, and read from it without appearing to read, "grown — their word — *loose. And sloppy.*" The warmth stayed on the words, which was worse than if it had gone. "We take these one at a time, before a thing becomes a pattern. That is what tonight is."
+"The complaint speaks to a sister's conduct this year," Brooke said, and read from it without appearing to read, "grown — their word — *loose. And sloppy.*" The concern stayed on the words, which was worse than if it had gone. "We take these one at a time, before a thing becomes a pattern. That is what tonight is."
 
 ---
 
@@ -102,7 +102,7 @@ The first of it was guests, and it did not come from the guestbook. The guestboo
 
 "Do you dispute these?" Brooke said.
 
-Randi did not. Every date was a date Vee had been there — the stats friend, the redhead, the wrecked girl on the step at nine in the morning with her whole plane ride still on her. The house had set it down as a guest and carried it up the stairwell as a guy, and between the writing and the whispering it had managed to miss the only true thing in it, and Randi was not going to be the one to hand that over.
+Randi did not. Every date was a date Vee had been there — the stats friend, the redhead, the nine-in-the-morning girl Brooke herself had let in, the wrecked one months later with her whole red-eye still on her. The house had set it down as a guest and carried it up the stairwell as a guy, and between the writing and the whispering it had managed to miss the only true thing in it, and Randi was not going to be the one to hand that over.
 
 "They go to the pattern," Brooke said, and moved on.
 
@@ -122,7 +122,9 @@ The ring did to him what it did to anything it had not already cleared, the smal
 
 Nothing they threw stuck to him. He did not appear to notice it was being thrown. He looked at her through all of it, direct, not pushing, certain of himself and not selling it, and when he asked her to dinner he dropped his voice to do it, only for her.
 
-She had said yes. Not because he was anything the ring wanted — he was nothing it wanted — but because she had stood inside that ring her whole life being precisely what it wanted, and here was a man it could not lay a hand on, and she had to know what that was. She drove him to dinner in her own car and drove him home after, and that was the night her life first turned toward being hers, and she had never given the house one word of it, and she was not giving them one now.
+She had said yes. Not because he was anything the ring wanted — he was nothing it wanted — but because she had stood inside that ring her whole life being precisely what it wanted, and here was a man it could not lay a hand on, and she had to know what that was. She drove him to dinner in her own car, and she drove the rest of it too, that same night — took him home and took him to bed before he could think to set the pace himself — out ahead of him, as she was of everyone. That was the night her life first turned toward being hers.
+
+She knew now what the hurry had cost her. Not the night — the long approach to it she had never let there be: his sweetness, the want given time to grow between two people until it ached, how he had looked at her and let her feel herself wanted, the one kiss that put no claim on her and left her all the room in the world to choose. That was the part worth having slowly, and she had taken it fast, taken what she wanted the first night she wanted it, not knowing as she took it what she was spending. She had watched him be unhurried with someone else since — the waiting, the thing allowed to arrive when it came — and only then had she understood the size of it. She had never given the house one word of any of it, and she was not giving them one now.
 
 "I don't have anything to say about the nights," Randi said.
 
@@ -130,7 +132,7 @@ She had said yes. Not because he was anything the ring wanted — he was nothing
 
 There was a line on the page that was not a guest or a night. It was a man, and what he did.
 
-"He's a graduate student," Brooke said, and let it sit a second, warm, so that the room could feel for itself the weight of what was coming. "An instructor. At the university." She said *instructor* the way you'd say a word you were being very careful with. "And I think we'd all just feel more comfortable — it doesn't look right, is all. A sister and an instructor. However it started. You see how it looks."
+"He's a graduate student," Brooke said, and let it sit a second, all concern, so that the room could feel for itself the weight of what was coming. "An instructor. At the university." She said *instructor* the way you'd say a word you were being very careful with. "And I think we'd all just feel more comfortable — it doesn't look right, is all. A sister and an instructor. However it started. You see how it looks."
 
 He taught one section of one course that had nothing to do with Randi and nothing to do with the redhead and never had. Brooke knew that; Brooke had sat Randi down the morning after the first night and gone all the way around to it, light as anything, whether he taught her section, and had gone limp with relief when the answer was no. The relief had not survived into February.
 
@@ -214,7 +216,7 @@ It was the room they had built around Lauren Pike. Narrow the rules, keep the pe
 
 Randi said that she understood. Her face held. It had held for twenty-one years and it held now, and nobody at the table saw anything but a sister taking her medicine like a good one.
 
-"And listen." Brooke's voice dropped into something warmer still, something almost tender, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide. "If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns, and that you were putting a little distance between yourself and the, the situations that caused them. The friend. The gentleman. That's all. And it all goes away, and it's like we never had to have tonight at all."
+"And listen." Brooke's voice dropped lower still, gentler, the *can I ask* face coming up one more time. "None of this has to go on anything. The record, I mean. It's all still soft right now, it's all still just us." She let that open, generous, a door swinging wide. "If you wanted to come to chapter — just stand up, just briefly — and say you'd heard the concerns, and that you were putting a little distance between yourself and the, the situations that caused them. The friend. The gentleman. That's all. And it all goes away, and it's like we never had to have tonight at all."
 
 Just stand up, just briefly. The two smallest words in the house, and Brooke had set them down on top of the only two things Randi had ever reached for that were hers.
 
@@ -224,7 +226,7 @@ Then she pictured the Tuesdays after it — Tuesday, and the Tuesday after that,
 
 "No," Randi said. "Thank you. But no."
 
-Brooke looked at her for a moment, and something moved behind the warmth and did not surface, and then the warmth closed back over it, smooth, complete.
+Brooke looked at her for a moment, and Randi could not read it.
 
 "All right," she said, and that was all, and she did not ask again, and she did not wait for a reason, the way she never waited; she was already slipping the papers back into the folder and turning to Caroline about something else, and the meeting was letting out around Randi where she sat, the sisters rising and gathering their phones, the ordinary warm noise of the house coming back into the room.
 
