@@ -76,7 +76,7 @@ One drink, and it loosens the **body, not the conscience.** The shame engine nee
 
 ## The costly yes — submission deepened
 
-Pace asks for the wax and gives **no reason** (a small *never-explain*; effect, not cause). She agrees instantly — the **noticed ease** that is the submission itself. Being frightened on the table and going through with it anyway does not cheapen that yes; it makes it **costly**, and the cost is the point: she endures a stranger's cold hands and real pain *for him*, which deepens the submission and lands the *doing-something-for-him / feeling-treasured* note *{{Still Life}}* pays off. The ease is with **him**; the fear is private, and she keeps it from him.
+Pace asks for the wax and gives **no reason** (a small *never-explain*; effect, not cause) — only *"It's part of your surprise,"* which withholds the reason rather than giving one, and which she can't wait to find out (author ruling 2026-11-15; `between.md` Movement 3). **He pays:** she reads the slip twice at the desk, tips well, lays his card down, grateful he offered. She agrees instantly — the **noticed ease** that is the submission itself. Being frightened on the table and going through with it anyway does not cheapen that yes; it makes it **costly**, and the cost is the point: she endures a stranger's cold hands and real pain *for him*, which deepens the submission and lands the *doing-something-for-him / feeling-treasured* note *{{Still Life}}* pays off. The ease is with **him**; the fear is private, and she keeps it from him.
 
 ## Seeds forward
 

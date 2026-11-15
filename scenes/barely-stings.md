@@ -14,7 +14,7 @@ He had asked her Sunday, in his kitchen, in the plain voice he used for facts ab
 
 "I'd like you waxed," he'd said. "By the weekend. Bare." And then he'd asked her — because he always asked; that was the thing about him that undid her, that a man who could simply have told her made it a question every time and waited for her to answer. His eyes stayed on hers. "Will you?"
 
-"Yes," she'd said. Just yes, out ahead of her, her mouth answering before her mind had caught up to it — while she was still somewhere back down the sentence going *bare?*, going *the weekend?*, going *why?* He never told her why. He asked for the thing itself, clean, and left the place where the reason should be for her to fill, and she filled it, every time, with *yes, yes, tell me when.*
+"Yes," she'd said. Just yes, out ahead of her, her mouth answering before her mind had caught up to it — while she was still somewhere back down the sentence going *bare?*, going *the weekend?*, going *why?* He never told her why. *It's part of your surprise* was all he'd give her, and she couldn't wait to find out. He asked for the thing itself, clean, and left the place where the reason should be for her to fill, and she filled it, every time, with *yes, yes, tell me when.*
 
 The fear came after. It always came after now, in private, once the yes was spent and couldn't be called back — that was nearly the point of it, the fear arriving too late to be any use. She'd lain awake with it. How much it would hurt. Where a person even went. What she'd have to do.
 
@@ -88,4 +88,4 @@ The room ticked in the quiet. Vee lay a while. Then she sat up, slow, and swung 
 
 It was so smooth. Smooth in a way skin was not meant to be, new, unbearable, and she drew her fingertips over it once and went weak at how it felt — and then she was not thinking about her own hand at all. She was thinking about his. About the weekend, about the moment he'd find her like this: his hand, the right hand, the one she'd kept everything back for, learning by touch what she had gone and done for him. She wanted it so badly it was its own kind of ache, a cleaner one than the other. She got dressed around it.
 
-She left the second glass they offered. She walked out through the honey light past the girl still waiting to be looked at, and she was — Randi had been right about that much — the most expensive thing in the room, and no one in it knew but her.
+At the desk the woman with the library voice turned the slip around so she could see it. Vee read the number twice, tipped well, and laid his card down, grateful he'd offered to pay. She left the second glass they offered. She walked out through the honey light past the girl still waiting to be looked at, and she was — Randi had been right about that much — the most expensive thing in the room, and no one in it knew but her.

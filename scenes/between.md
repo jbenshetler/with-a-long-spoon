@@ -106,7 +106,15 @@ The other thing she'd brought, she'd been saving for the end on purpose, because
 
 "Did he?" Randi's chin came up an inch.
 
-"Sunday. In the kitchen, out of nowhere, in the voice he uses for facts." Vee pressed her hands flat into her lap under the table. "He asked me to get waxed. All of it. Bare."
+"Sunday. Later, in the kitchen, out of nowhere." Vee pressed her hands flat into her lap under the table. "He asked me to get waxed."
+
+"All of it?"
+
+"All of it. Bare, he said."
+
+"*Bare!*" Randi's hand went to her heart, scandalized, and her eyes were dancing.
+
+"I know." It came out half a laugh. "I said yes before he'd finished." And he'd smiled at that, the whole slow glad smile. "Then he said, 'It's part of your surprise.'" And she was off again, the way she'd been off since Sunday — what kind of surprise needed her bare? what he could mean to do with all of her that he couldn't do now? — and she had to take a drink to come back to the table. "Randi, I'm going out of my skin imagining what it could be."
 
 Randi put her wine down and came forward onto her forearms, and Vee felt the small lift of having brought her something good.
 
@@ -119,6 +127,12 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 "Friday," Vee said. "I've got the afternoon."
 
 "Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."
+
+"Pace has his surprise Friday night." Vee grinned. "And I've got mine." She leaned in over the cloth and dropped her voice. "He always makes me come first. Always. Friday, I'm making him come first. With my mouth, before he gets to do one single thing about it."
+
+"*That's my girl!*" And they were both laughing, Randi's head going back against the booth, and when it came down again her eyes had gone to Vee's mouth and come back. "Nothing I love more than a date who takes care of me first."
+
+Vee lifted her glass to that. Randi touched hers to it.
 
 At ten the room below them began shutting down. They paid at the little terminal, and Vee took her coat off the hook and over her arm. "Meet you downstairs." She went down ahead and did her mouth in the restroom, quickly, and when she came out Randi was at the foot of the steep stair, and they went out past the jukebox, its green water still climbing for nobody.
 
