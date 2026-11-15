@@ -46,13 +46,11 @@ She put her hands in her coat pockets against the cold, and her fingers closed o
 
 ---
 
-She crossed back over the Drillfield in the dark and the cold, the walk she had made a hundred times to go and run these meetings, and made it tonight a step slower than she had ever made it in her life. She was never behind herself.
+Randi crossed back over the campus in the dark and the cold, a walk she had made a hundred times to go and run these meetings, and made it tonight the way she made it every other time — at her own clip, early, the chair ahead of her board. She was never behind herself.
 
-She had left the warm room a few minutes late because she had stood too long in a hug she had not wanted to end, and the warm shape of the girl was still on her, all down the front of her, and she carried it the whole way like a thing she would not be let keep.
+She had made herself leave the warm room — stood a beat too long in a hug she had not wanted to end, and left with the shape of the girl still on her, all down the front of her, and carried it the whole way like a thing she would not be let keep.
 
-She did not hurry to catch the time back. She did not slow further either. She went because not going was the one move that would make the house look harder at her, and she had spent four months seeing to it that no one did. Reluctance she could feel. It was just that it had nowhere to go.
-
-Randi let herself in out of the cold and the house closed its noise around her. The center of it ran too warm, the way it always did — the common room going, somebody's speaker, the heat cranked up for the girls in leggings, a candle lit for no reason anyone could name — and the corners of it ran cold, the way they always did, the old house never once able to hold an even degree anywhere in itself, so that there was no room in it a person could simply be comfortable.
+Randi let herself in out of the cold and the house closed its noise around her — the common room going, somebody's speaker. It ran warm in the middle and cold at the edges, the way it always did, the old house too big and too thin-walled to hold an even degree anywhere in itself: the center stifling and the corners cold and no room in it a person could simply be comfortable.
 
 Nobody looked up when she came in, which was its own kind of information. She went for the stairs.
 
@@ -62,11 +60,13 @@ Nobody looked up when she came in, which was its own kind of information. She we
 
 "I don't know — somebody had a guy up in her room, is what I heard. After hours. Never signed him in, nothing." A little thrilled by it. "Brooke's running it herself."
 
-She had her foot on the first stair and she did not slow down. A guy up in her room, after hours. They had the shape of it and not one true piece — the hours wrong, the girl wrong, the guest a guy, which it had never once been — and they did not know whose case they were carrying up the stairwell. Then the second girl said, "God, I'd hate to be her," and laughed, and Randi went up.
+She had her foot on the first stair and did not slow down. She winced for the girl all the same — she had the shape of the complaint, and the hall had it wrong the way the hall always had it wrong: the hours off, a guest made into a guy up in her room after hours, the lurid version, the one that traveled. None of it true. And none of it true in a way that did the girl the least bit of good, because wrong as the house had the details, there was still a line crossed under all of it, and getting the details wrong had never once un-crossed a line. Then the second girl said, "God, I'd hate to be her," and laughed, and Randi went up.
 
 The Standards room was the small meeting room off the second-floor landing, and the door was open, and the light was on, and they were already in it. That was the first wrong thing.
 
-She was never the last to a Standards meeting. She ran them. She came early and set the water out and took the seat at the head with the window behind her, and tonight the seat at the head with the window behind it had Brooke in it, and the chair Randi sat in — the board chair, the one on the near side, angled to the room — had a sophomore named Caroline in it with a legal pad, and the only chair left was the one that faced them all, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, and a glass of water set out on the table in front of it by someone who was not Randi.
+She was never the last to a Standards meeting. She ran them. She came early, set the water out, took the seat at the head with the window behind her. Tonight the seat at the head — her chair, the one she set the water from and called the room to order from — had Brooke in it, and the board chair on the near side had a sophomore named Caroline in it with a legal pad.
+
+And the only seat left was the one that faced the table, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, a glass of water set out in front of it by someone who was not Randi.
 
 Somebody closed the door. She heard it go behind her, the latch, and did not turn around to see who.
 
