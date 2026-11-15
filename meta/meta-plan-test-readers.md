@@ -142,6 +142,11 @@ genre opt-in filters again. The cohort is adults who affirmatively chose explici
 material. Pair that with Restricted delivery, whose real job here is protecting
 an unpublished manuscript from leaking — the actual risk in this round.
 
+### ARC round (post-beta, pre-publication) → `meta-plan-distribution.md` §5
+
+The public NetGalley ARC round (via the Victory Editing co-op) comes after this
+beta read, on the locked text. Field report, platform terms, and costs live there.
+
 ## Recruit cohort — size and shape
 
 - **~8–15 finishers, not 50 sign-ups.** Over-recruit ~2–3× (betas evaporate),

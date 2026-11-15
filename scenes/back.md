@@ -52,7 +52,7 @@ And the whole thing turned over at once, the small dinner opening out into somet
 
 "I'd like it."
 
-"And Theo, maybe. He's a friend from my English class last year, he—" and the rest of it came out over the little ledge before she could decide about it. "He asked me out once. Last spring. It's fine, it's nothing, we never even—" She stopped there, not sure why she was explaining a thing nobody had asked her to explain.
+"And Theo, maybe. He's a friend from my English class last year, he—" and the rest of it came out over the little ledge before she could decide about it. "He asked me out once. Back in September. It's fine, it's nothing, we never even—" She stopped there, not sure why she was explaining a thing nobody had asked her to explain.
 
 "Bring Theo," Pace said, and reached for the next pan.
 

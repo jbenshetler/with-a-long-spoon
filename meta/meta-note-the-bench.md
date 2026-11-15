@@ -198,8 +198,8 @@ Rulings only; the readings behind them are in `meta-triage-the-bench.md` (same d
   "It had worked on everyone. It had worked for years." cut from the mechanism
   paragraph. Kept: "Nothing happened to her. That was what the face was for",
   the cost-nothing line, "perfect was safe" (Fairytale origin), and the 527 triple
-  ("The face was lying…"). The mechanism paragraph itself is not to be trimmed
-  further.
+  ("The face was lying…"). The mechanism paragraph was later trimmed to its
+  first two sentences + "perfect was safe" (2026-11-14; `meta-triage-the-bench.md`).
 - **Right-please passage — the record above is stale.** The waiter image stands
   in the prose ("the voice she said *please* in when she asked a waiter for a glass
   of water") and the "She did not yet know how good it felt to need" line is not

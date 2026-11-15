@@ -2706,6 +2706,20 @@ text = "\"No, not like that."
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
+fp   = "2978de58534c"
+rule = "out-ahead"
+file = "scenes/inversion.md"
+text = "She drove him to dinner in her own car, and she drove the rest of it too, that same night — took him home and took him to bed before he could think to set the pace himself — out ahead of him, as she was of everyone."
+note = "single deliberate use; echoes 'never behind herself' at :51; author approved the trimmed sentence (2026-11-14)"
+
+[[ok]]
+fp   = "16ee7ea06fcb"
+rule = "unhurried"
+file = "scenes/inversion.md"
+text = "She had watched him be unhurried with someone else since — the waiting, the thing allowed to arrive when it came — and only then had she understood the size of it."
+note = "Pace's word, load-bearing — the regret beat turns on his slowness vs. Randi's haste (author ack 2026-11-14)"
+
+[[ok]]
 fp   = "0b522636dc4f"
 rule = "a-small"
 file = "scenes/leave-no-trace.md"
