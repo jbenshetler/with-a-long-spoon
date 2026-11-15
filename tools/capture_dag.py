@@ -110,11 +110,7 @@ def sysprompt(persona: str, frame: str) -> tuple[str, str]:
 
 
 def dag_dir(model_id: str, persona: str) -> Path:
-    if MEMORY != "chain":
-        return v3_root(model_id) / persona
-    if EXPERIMENT:
-        return PANEL_ROOT / "split-experiments" / EXPERIMENT / model_id / "dag" / persona
-    return PANEL_ROOT / model_id / "dag" / persona
+    return v3_root(model_id) / persona
 
 
 def variant_tag() -> str:
@@ -299,8 +295,9 @@ def mint_prompt(d: Path, n: int) -> str:
 #             current volume, the gate blocks verbatim for earlier volumes, and a
 #             LEDGER (fears, loves, grudges, suspicions, waiting-fors) that code
 #             folds from the per-gate LEDGER deltas.
-# v3 gates live in dag-v3/ (dag-v3-full/), outside the */dag/* glob that
-# capture_stats and capture_delta read, so the eras never mix. SPEC "Memory v3".
+# v3 gates live in dag/ (dag-full/). The chain era's gates were removed from the tree
+# at 3b27cd07 (in git at f1c719a5) and v3 moved from dag-v3/ to dag/; --memory chain and
+# --borrow-history are retired with them. SPEC "Memory v3".
 MEMORY = "chain"
 BORROW = False
 PROTOCOL_V3 = "capture-dag-v3"
@@ -318,15 +315,10 @@ GATE_LINE_RE = re.compile(r"(?m)^\W*GATE\s+\d+")
 
 
 def v3_root(model_id: str) -> Path:
-    sub = "dag-v3-full" if MEMORY == "full" else "dag-v3"
+    sub = "dag-full" if MEMORY == "full" else "dag"
     if EXPERIMENT:
         return PANEL_ROOT / "split-experiments" / EXPERIMENT / model_id / sub
     return PANEL_ROOT / model_id / sub
-
-
-def chain_dir(model_id: str, persona: str) -> Path:
-    """The chain-era lane, the only source a --borrow-history trial borrows from."""
-    return PANEL_ROOT / model_id / "dag" / persona
 
 
 def fact_model() -> str:
@@ -403,16 +395,10 @@ def gate_block(text: str) -> str:
 
 
 def history_source(d: Path, model_id: str, persona: str, i: int) -> tuple[Path, bool] | None:
-    """(gate file for chapter i, borrowed?) — the v3 gate, else the chain gate if
-    the run borrows history. None if neither exists."""
+    """(gate file for chapter i, borrowed?) — the v3 gate, or None. Borrowing from
+    the chain era is retired with it, so nothing is ever borrowed."""
     own = gate_path(d, i)
-    if own.exists():
-        return own, False
-    if BORROW:
-        b = gate_path(chain_dir(model_id, persona), i)
-        if b.exists():
-            return b, True
-    return None
+    return (own, False) if own.exists() else None
 
 
 def history(d: Path, model_id: str, persona: str, n: int) -> tuple[str, list[int]]:
@@ -437,8 +423,7 @@ def history(d: Path, model_id: str, persona: str, n: int) -> tuple[str, list[int
     if missing:
         raise RuntimeError(
             f"no reaction on file for chapter(s) {missing[:8]}{'…' if len(missing) > 8 else ''} "
-            f"in {d.relative_to(REPO)} — read from chapter 1, or pass --borrow-history "
-            "for a diagnostic that borrows the chain-era reactions")
+            f"in {d.relative_to(REPO)} — read from chapter 1")
     return "\n".join(parts), borrowed
 
 
@@ -859,14 +844,12 @@ def main() -> None:
                     help="print chapter N as the reader would see it, then exit (no calls)")
     ap.add_argument("--memory", choices=["chain", "grounded", "full"],
                     default=str(cold_read_config.load_config()["capture"].get("memory", "chain")),
-                    help="default [capture].memory. chain = the retired decade-mint lanes in "
-                         "dag/; grounded = memory v3 "
+                    help="default [capture].memory. grounded = memory v3 "
                          "(grounded fact checkpoint + her verbatim reactions + ledger) in "
-                         "dag-v3/; full = v3 with the raw book in place of the checkpoint "
-                         "(pre-pub reads), in dag-v3-full/")
+                         "dag/; full = v3 with the raw book in place of the checkpoint "
+                         "(pre-pub reads), in dag-full/; chain = retired (refused)")
     ap.add_argument("--borrow-history", action="store_true",
-                    help="v3 diagnostic: where the v3 lane has no gate, use the chain-era "
-                         "reaction, and seed the ledger from those reactions (one call)")
+                    help="retired with the chain era (refused)")
     ap.add_argument("--show-prompt", type=int, metavar="N",
                     help="v3: print the assembled prompt for chapter N of the first "
                          "model/persona and its token estimate, then exit (no calls)")
@@ -876,8 +859,10 @@ def main() -> None:
     EXPERIMENT = args.experiment
     MEMORY = args.memory
     BORROW = args.borrow_history
-    if BORROW and MEMORY == "chain":
-        raise SystemExit("--borrow-history is for --memory grounded|full")
+    if MEMORY == "chain" or BORROW:
+        raise SystemExit("--memory chain and --borrow-history are retired: the chain-era "
+                         "gates were removed at 3b27cd07 (in git at f1c719a5), and dag/ now "
+                         "holds the v3 lanes")
     if not EXPERIMENT and args.undated:
         raise SystemExit("--undated requires --experiment: the real lanes read the book as it ships, dated")
     DATED = args.dated if EXPERIMENT else True

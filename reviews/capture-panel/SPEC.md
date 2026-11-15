@@ -1469,3 +1469,18 @@ close to opus's own chain-vs-v3 test-retest (0.82); Heat r 0.88. Run opus on cha
 have rewritten. Anthropic end-of-gate friction and ALMOST-STOPPED entries are lane style
 (opus named an exit in 47/47 fall chapters): count one only when it concentrates across
 independent reads or another family corroborates it (`tools/friction_check.py`).
+
+
+## Chain era removed; v3 lanes move to `dag/` (author ruling 2026-11-14)
+
+The chain-era gate trees (`<model>/dag/`, retired as a memory era 2026-11-02) were deleted
+from the working tree at `3b27cd07`, and every v3 lane moved from `<model>/dag-v3/` to
+`<model>/dag/` in the commit after it; `dag-v3-full/` becomes `dag-full/`. The chain gates
+were weeks stale and kept surfacing as current reader feedback. They remain in git: read
+one as `git show f1c719a5:reviews/capture-panel/<model>/dag/<persona>/gate-chNNN.md`.
+Chain-era citations in `meta/` were rewritten to that `f1c719a5:<path>` form, so no old
+path now resolves to a v3 file. `capture_dag` refuses `--memory chain` and
+`--borrow-history`. Gate headers still name their protocol (`capture-dag-v3-grounded`,
+`capture-dag-v2-rich`), which is now the only in-file marker of era. Earlier sections of
+this SPEC that say `dag-v3/` mean today's `dag/`; those that say `dag/` mean the chain era.
+`split-experiments/` is frozen as written and keeps its original directory names.

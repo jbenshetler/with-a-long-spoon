@@ -89,7 +89,7 @@ def title_index(chronology="meta/meta-plan-chronology.md"):
 # Turned Up merge was never propagated to the non-romance-graduate lanes), where
 # a position-moving edit is only correct on the lanes that are aligned.
 LANES = ["*/*"]
-# Gate tree under each model: "dag" (chain era) or "dag-v3" (memory v3, 2026-11-02).
+# Gate tree under each model: "dag" (memory v3) or "dag-full" (v3 with the raw book).
 TREE = "dag"
 
 
@@ -306,8 +306,8 @@ def main():
                     help="with --merged, preserve later gates whose title already matches their position")
     ap.add_argument("--removed-policy", choices=["delete", "retire"], default="retire",
                     help="what to do with gates sitting at a --removed position")
-    ap.add_argument("--tree", default="dag", choices=["dag", "dag-v3"],
-                    help="gate tree to renumber: dag (chain era, default) or dag-v3 (memory v3)")
+    ap.add_argument("--tree", default="dag", choices=["dag", "dag-full"],
+                    help="gate tree to renumber: dag (memory v3, default) or dag-full")
     ap.add_argument("--retire-name", help="retired basename; merges default to unique names per source")
     ap.add_argument("--lanes", nargs="+", metavar="MODEL/PERSONA",
                     help="restrict to these lanes (globs, e.g. '*/romance-graduate'); default all")

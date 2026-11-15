@@ -67,9 +67,9 @@ CONFIG = ROOT / "reviews/cold-read/ensemble-config.toml"
 METRICS = ("CAPTURE", "NEXT")
 with open(CONFIG, "rb") as _fh:
     _MEMORY = str(tomllib.load(_fh)["capture"].get("memory", "chain"))
-# The memory era's lane directory: dag-v3 since v3 was adopted (2026-11-02). Eras never
-# mix: a null mined from chain gates says nothing about v3 re-reads.
-LANE_DIR = {"chain": "dag", "grounded": "dag-v3", "full": "dag-v3-full"}[_MEMORY]
+# The memory era's lane directory: dag/ since the chain-era gates were removed and v3 moved
+# there from dag-v3/ (3b27cd07; chain history in git at f1c719a5). Chain is no longer a lane.
+LANE_DIR = {"grounded": "dag", "full": "dag-full"}[_MEMORY]
 GATE_RE = re.compile(rf"/{LANE_DIR}/[^/]+/gate-ch\d+\.md$")
 MAX_ABS_D = 3          # test-retest changes beyond this are parse/format accidents
 ALPHA = 0.05

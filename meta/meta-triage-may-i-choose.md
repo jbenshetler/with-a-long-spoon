@@ -108,7 +108,7 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 ## The language beat — 2026-11-09 (author ruling)
 
-Misread: glm-5.3 alone (cold read and dag-v3 `gate-ch008.md:11`, `:34`) took Pace for an Arabic speaker and rhymed his vowels with Randi's foreign-schooled esses — a false shared-background clue. No other reader made it. The `:63` closed-door paragraph stands untouched; the answer arrives a beat later, in the talk before the food.
+Misread: glm-5.3 alone (cold read and v3 `gate-ch008.md:11`, `:34`) took Pace for an Arabic speaker and rhymed his vowels with Randi's foreign-schooled esses — a false shared-background clue. No other reader made it. The `:63` closed-door paragraph stands untouched; the answer arrives a beat later, in the talk before the food.
 
 - Added `:67`–`:73`: Vee asks "You speak — what is that, Arabic?"; Pace: "Hardly. I know *nine* words. Seven are food. The other two are *thank you* and *the check, please*." They laugh, her laughing setting him off; Vee: "Without you, I'd have ordered hummus — twice!" Purpose: Pace charms her by owning his limits (self-deprecation, against reading too alpha). Christine stays color — the beat is theirs, not hers.
 - Cut: Pace asking what she'd have ordered without him — it reads as *look how important I am*, the opposite of the beat. The hummus-twice line moves to Vee's mouth (praised by muse-spark-1.3, kept). "her asking, mostly, and him answering" kept, now closing `:73`.

@@ -39,8 +39,9 @@ sys.path.insert(0, str(REPO / "tools"))
 import checkpoint_bundle  # noqa: E402
 import cold_read_config  # noqa: E402
 
-# The memory era's lane directory ([capture].memory): dag-v3 since 2026-11-02, dag before.
-LANE_DIR = {"chain": "dag", "grounded": "dag-v3", "full": "dag-v3-full"}[
+# The memory era's lane directory ([capture].memory). v3 moved from dag-v3/ to dag/ when the
+# chain-era gates were removed (3b27cd07; in git at f1c719a5); chain is no longer a lane.
+LANE_DIR = {"grounded": "dag", "full": "dag-full"}[
     str(cold_read_config.load_config()["capture"].get("memory", "chain"))]
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"

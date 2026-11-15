@@ -16,7 +16,7 @@ CORROBORATED by other model families, while trained-in complaint SCATTERS.
 Corpus (reactions, not canon), one file = one independent READ, keyed
 (model, source, persona):
   * cold reads      reviews/cold-read/<model>/<slug>.md          (source "cold")
-  * capture gates   reviews/capture-panel/<model>/<dag|dag-v3>/<persona>/gate-chNNN.md
+  * capture gates   reviews/capture-panel/<model>/dag/<persona>/gate-chNNN.md
   * --include-experiments adds reviews/capture-panel/split-experiments/<exp>/…
     (source "<dag>:<exp>").
 Only model directories whose id maps to a known family are read.
@@ -312,7 +312,7 @@ class Scene:
 @dataclass(frozen=True)
 class Read:
     model: str
-    source: str     # cold | dag | dag-v3 | dag-v3:<experiment>
+    source: str     # cold | dag | dag:<experiment> | dag-v3:<experiment>
     persona: str    # 'cold' for cold reads
     path: Path
 

@@ -211,11 +211,11 @@ in memory terms — the reader's later checkpoints were minted from the old text
 the consensus fact memory (`[capture].fact_checkpoint = "consensus"`, audited, facts only),
 her reactions verbatim (everything for the current volume, gate blocks for earlier
 volumes) and a code-folded LEDGER; no capture mints. Gates go to
-`<model>/dag-v3/<persona>/`. The chain lanes in `<model>/dag/` are history: read them with
-`--memory chain`, never mix them with v3. `--memory full` puts the raw book in place of
-the fact memory, for pre-pub reads, author-authorized. `--borrow-history` is the
-diagnostic that borrows chain-era reactions; `--show-prompt N` prints the prompt and its
-size, free. capture_delta's null comes from v3 test-retest pairs only, so it has no
+`<model>/dag/<persona>/`. The chain-era lanes were removed from the tree at `3b27cd07`
+(in git at `f1c719a5`) and v3 moved there from `dag-v3/`; `--memory chain` and
+`--borrow-history` are retired. `--memory full` puts the raw book in place of
+the fact memory, for pre-pub reads, author-authorized, in `<model>/dag-full/`;
+`--show-prompt N` prints the prompt and its size, free. capture_delta's null comes from v3 test-retest pairs only, so it has no
 verdict until the v3 baseline and its repeat reads exist. SPEC "Memory v3".
 
 ## Step 4a — Staleness: warn and proceed, never re-run the volume

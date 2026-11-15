@@ -7,7 +7,7 @@
   and she drew her hand back into her lap."* Now: *"She drew her ponytail forward over her
   shoulder and wound the end of it slowly around two fingers, and let it go."* **Readers
   praised the line** — two capture readers quoted it
-  (`reviews/capture-panel/gemini-4-argon/dag-v3/romance-graduate/gate-ch053.md`, verbatim;
+  (`reviews/capture-panel/gemini-4-argon/dag/romance-graduate/gate-ch053.md`, verbatim;
   `f1c719a5:reviews/capture-panel/glm-5.3/dag/romance-graduate/gate-ch053.md`: *"the thin edge
   singing almost too low to hear… I felt that"*). Changed anyway: **the tell was
   inconsistent with Randi's emotional state.** Vee's story here is a sexual exploit —

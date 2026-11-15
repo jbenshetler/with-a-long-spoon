@@ -143,4 +143,4 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 ## Want-arc pass (author 2026-11-13)
 
 ### Left standing — do not re-litigate
-- **:193** "the heat that knew the voice was right, that wanted to be the very thing the voice said" — praised by glm-5.3 and opus-5-5 (dag-v3) for the shame transmuting into wanting; the only explicit complaint ("spells out a little") is a single chain-era opus read, NOISE by `tools/friction_check.py`.
+- **:193** "the heat that knew the voice was right, that wanted to be the very thing the voice said" — praised by glm-5.3 and opus-5-5 (v3) for the shame transmuting into wanting; the only explicit complaint ("spells out a little") is a single chain-era opus read, NOISE by `tools/friction_check.py`.

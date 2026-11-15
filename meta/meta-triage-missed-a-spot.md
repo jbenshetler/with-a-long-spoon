@@ -118,7 +118,7 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 
 Author reopened two items under *Left standing*: the gladiator, and the repetition in
 the kiss path. The repetition weakens the passage and bores, though the 15 capture gates
-(romance-graduate dag-v3 ×6; dag for fable, muse-wonder and fsog ×7) and the gpt-5.6-sol
+(romance-graduate v3 ×6; chain era for fable, muse-wonder and fsog ×7) and the gpt-5.6-sol
 cold read raised **no** complaint about its length or repetition (12 praised it; the two
 skims were the breakfast). Kept: he never goes straight to what she wants (the mons
 swerve, the descent to her feet, *Bad slave*, the deferrals after), the toe ceremony,

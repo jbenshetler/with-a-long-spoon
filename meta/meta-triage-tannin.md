@@ -9,7 +9,7 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 ## Tell-variation pass across the run (author 2026-11-11)
 
-Complaint (glm-5.3 romance-graduate gate, dag-v3): fourth chapter in a row where the tell lands below the face and is covered a half-beat late. Body-before-mind stays; the redundancy was Tannin running the same move twice.
+Complaint (glm-5.3 romance-graduate gate, v3): fourth chapter in a row where the tell lands below the face and is covered a half-beat late. Body-before-mind stays; the redundancy was Tannin running the same move twice.
 
 ### Fixed
 - **:71** — "Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for." → "Her smile arranged." Keeps the {{Standards}} callback (`standards.md:15`, `:41`) that three capture readers caught as the Brooke smile, in Standards' own verb, without a second body-then-late-face beat.
