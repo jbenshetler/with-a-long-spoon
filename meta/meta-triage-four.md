@@ -72,3 +72,10 @@ Every item below was raised by exactly one reader.
   the new close is Randi leaking (*"like there was nothing better in the world"*), and
   the grading list worked against the leak. The narration keeps that she **carried it
   two days before telling Pace** — author: more important than *"all in one piece."*
+
+## Protected positives — heavily praised lines (author ruling 2026-11-14)
+
+Protected after review with the author. The one complaint came from the sol queer-woman sensitivity read (`reviews/capture-panel/gpt-5.6-sol/dag-v3/queer-woman/gate-ch035.md:38`: Pace using "Randi's clench and orgasm as proof that her spoken reasons are false"). It is an objection to the book's body-before-mind premise, not to these lines; the same reader praises the beat at `:7`, and sol's cold read praises the clench (`reviews/cold-read/gpt-5.6-sol/four.md:15`). Do not cut or reword without a new author ruling.
+
+- **:161 "she had not decided to do it and could not have stopped it, and he felt all of it happen from the inside"** — ~12 praise.
+- **:207 "he felt what it did to her go through her before she had any say in it at all"** — ~7 praise.
