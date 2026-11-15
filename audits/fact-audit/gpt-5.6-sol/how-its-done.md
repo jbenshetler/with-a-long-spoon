@@ -1,26 +1,26 @@
 # Fact audit — How It's Done
 
-*model: gpt-5.6-sol · ch017 · 2026-10-23 · prose-sha ~0738735086d3*
+*model: gpt-5.6-sol · ch015 · 2026-11-14 · prose-sha ~9cd1ff44a977*
 
 ---
 
 ## Contradiction
 
-### Fitting location
+**WHERE** — Cassie says: “He's had you standing in his living room in your underwear, and he picked up a *tape measure*.”
 
-- **WHERE:** “He's had you standing in his living room in your underwear, and he picked up a *tape measure*.”
-- **AGAINST:** “The silk was out, on the long table in his sun porch. And he'd built a riser. A little platform, in the corner, for me to stand on.”
-- **WHY:** The same fitting is placed first in the sun porch and later in the living room, which the ledger treats as distinct spaces.
-- **CONFIDENCE:** MEDIUM — Cassie may be using “living room” loosely for an indoor living space rather than identifying the room precisely.
+**AGAINST** — Vee previously locates the fitting elsewhere: “The silk was out, on the long table in his sun porch. And he'd built a riser. […] A little platform, in the corner, for me to stand on.”
+
+**WHY** — Cassie places the same fitting in the living room after Vee has explicitly placed it in the sun porch; these are distinct rooms in Pace’s house, though “living room” could be casual shorthand.
+
+**CONFIDENCE** — MEDIUM
 
 ## NOTED (not errors)
 
-- Vee says, “It was cold in the house,” after describing it as overly warm, but immediately admits, “actually it was really *hot*”; the first statement is a transparent defensive lie.
-- Cassie calls Pace a bodybuilder, but Vee immediately corrects her: “he's a powerlifter.”
-- Randi’s story about the unnamed man and the Hermès scarf is presented only as her claim; it does not establish a competing relationship fact.
-- The dark-green Mercedes, folding top, leather interior, wood-and-dial dashboard, and self-adjusting frameless windows all match the ledger.
-- Randi’s bound dark hair does not conflict with her recorded fine black hair.
-- The “bright and green” scent is compatible with the recorded sharp citrus perfume with a colder undertone.
-- Randi’s mention of the fitting platform could derive from Vee’s compressed account or ordinary fitting knowledge; the ledger does not establish that Randi could not know or infer it.
-- Cassie’s knowledge of the hike, shirt, topless fitting, warmed house, and Pace’s arousal is consistent with what Vee tells her here.
-- The kiss does not create a knowledge contradiction: Vee explains it to herself as a social custom and remains unaware of Randi’s relationship with Pace.
+- Cassie calls Pace a “bodybuilder,” but Vee immediately corrects her to “powerlifter”; this is an acknowledged mistake in dialogue.
+- Vee first says the house was cold, then admits it was hot; the text presents the first claim as a defensive lie and the second as her confession.
+- “Riser,” “platform,” “box,” and “pedestal” are compatible descriptions of the same fitting object.
+- Randi removes the cashmere and later leans into it; she draped it over the booth back, so it remains behind her.
+- The Mercedes, Corolla, Randi’s wrist band, Vee’s hair, and the burgundy silk all agree with the ledger.
+- Randi’s headboard story involves an unspecified man and does not conflict with her continuing relationship with Pace.
+- Vee’s “French” explanation for the kiss is explicitly self-reassuring speculation, not established knowledge.
+- The perfume described as “bright and green” is a subjective, lower-resolution rendering compatible with the ledger’s citrus-and-cold-note description.

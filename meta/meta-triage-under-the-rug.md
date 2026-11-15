@@ -205,3 +205,7 @@ Stage P3: the want owned, the word stalls; the lag belongs on the naming.
 Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
 
 - **:11 "what came out came out at the wrong size for the room"** — ~6 praise; complaints: none.
+
+## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
+
+- **Left standing: `:95` "couldn't hear herself say it to her mother, the word gone small and wrong"** — flagged against `cropped.md:35` ("I told them he was my boyfriend. I think I put a question mark on it."). Author: leave. She said it once, with a question mark; she cannot hear herself saying it now. Do not re-litigate.

@@ -18,3 +18,7 @@ Stage P5: demand ("not asked. Demanded," `:165`). The injury is a real trigger; 
 
 ### Fixed
 - **:165** "the sound came out of her before she could stop it, all pain" → "the sound she made was all pain" — Burn's last "before she could stop it"; `:171` keeps "The sound that came out of her was not one she would have chosen."
+
+## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
+
+- **Fixed: `:59` "iron over that flat old carpet" → "iron over that bare old rubber"** — the floor is established at `:15` as "bare rubber gone pale where men had stood", and the carpet had no antecedent. Also caught by claude-opus-5-5 dag romance-graduate gate-ch066 ("Gripe tally").

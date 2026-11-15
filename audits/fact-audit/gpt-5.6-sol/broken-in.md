@@ -1,22 +1,25 @@
 # Fact audit — broken-in
 
-*model: gpt-5.6-sol · ch002 · 2026-11-04 · prose-sha ~79bc8e34a13f*
+*model: gpt-5.6-sol · ch002 · 2026-11-14 · prose-sha ~dcc461157f8d*
 
 ---
 
-No contradictions of fact found in the chapter.
+## Contradiction
+
+**WHERE** — “And I asked him — in front of half the bar — whether his *services* ended at the door, or carried on inside.”
+
+**AGAINST** — The direct scene records: “Does your *service* include getting the girls home safe from here, too?”
+
+**WHY** — These are presented as the same accusation but give incompatible wording: the later account adds the claim about Pace’s services continuing inside.
+
+**CONFIDENCE** — HIGH
 
 ## NOTED (not errors)
 
-- “the top bunk” and Cassie moving “below her” agree with the recorded bunk arrangement.
-- Cassie’s “glissando” alarm, the routinely cracked window, the in-room sink, and the apple bowl all agree with the dorm-room facts.
-- The tan boots’ scuffed leather, cap toe, turned-down cuff, low heel, and softness agree with the ledger.
-- Vee’s abundant cinnamon freckles and Randi’s sparse freckles, black hair, blue toenails, relative shortness, and bitter-orange scent are consistent with their recorded attributes.
-- Brooke recognizing Vee as “the stats friend” is established knowledge; the source remains unspecified, not contradictory.
-- Randi’s ordered closet, including the bone-to-camel-to-oatmeal progression and single oxblood garment, matches the ledger.
-- The cognac shoes’ open toe, instep and ankle straps, substantial heel, structural support, and drawstring bag match the recorded pair.
-- The green-and-gold silk scarf, its offset position, and Randi’s instruction about tying it under tension match the ledger.
-- Vee’s imagined Swiss school, lake, grandmother, trams, espresso, and “mother’s language” are explicitly her invented story about Randi, not asserted biographical facts.
-- Randi says Pace will “wait to see what you walk in wearing,” and the closing anticipation remains consistently directed toward Pace’s door in the selected black dress, cognac heels, and scarf.
-- Randi’s familiarity with Pace’s dancing and likely behavior does not give Vee forbidden knowledge; Randi’s concealed relationship with him allows her to know more than she admits.
-- Vee treats Randi’s lingering kiss as “only what they did,” consistent with Vee’s failure to recognize Randi’s sexual interest.
+- Vee’s “Swiss school,” lake, grandmother, trams, and espresso are explicitly her invented explanation for Randi’s accent, consistent with the ledger.
+- Randi being “a head shorter” than Vee is compatible with the ledger’s approximate “about a foot shorter.”
+- The long warm coat is not identified as a different garment from Vee’s olive good coat; the ledger explicitly leaves that relationship unresolved.
+- Vee puts on a T-shirt and is later revealed to be wearing a bra beneath it; putting on the bra can occur during the unshown remainder of dressing.
+- Vee has never entered the sorority house before but recognizes Brooke from the smoothie shop; these facts are compatible.
+- Randi’s goodbye kiss is treated as an established habit, but the ledger does not say Chapter 2 contains their first-ever kiss.
+- Vee’s anticipated reconciliation remains consistent throughout: Pace’s door, the black dress, cognac heels, and green-and-gold scarf.

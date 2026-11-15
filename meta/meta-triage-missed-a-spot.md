@@ -252,3 +252,7 @@ Stage P4: she runs the scene ("Slave. Mine. Lower."; "the command was given"). A
 
 ### Left standing
 - **:167**, **:169** — the triggered regression (being heard); **:183** — sets up the taste.
+
+## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
+
+- **Not a contradiction: `:19` "two borrowed heels"** — the auditor's ledger conflated the pairs. These are Randi's heels (`nothing-underneath.md:17`, "put Randi's heels on"), so "borrowed" is right. Dismissed on review; the author did not contest.

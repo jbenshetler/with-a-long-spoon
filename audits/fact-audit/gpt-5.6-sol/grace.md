@@ -1,22 +1,21 @@
 # Fact audit — Grace
 
-*model: gpt-5.6-sol · ch021 · 2026-11-08 · prose-sha ~8553378feb8c*
+*model: gpt-5.6-sol · ch021 · 2026-11-14 · prose-sha ~fd25014a24f7*
 
 ---
 
-No factual contradictions found.
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- Pace arrives in “the truck,” consistent with his white truck; no conflicting vehicle is anticipated or attributed.
-- The cabin’s board exterior, shutters, masonry chimney, one-room layout, kitchenette, bathroom, porch, lake, and cheval mirror all match the ledger.
-- “I've never given a key to anyone” matches the ledger. Randi’s later means of entering Pace’s house remains unstated, so her access does not contradict this.
-- Vee’s dark-red hair, fair skin, freckles, narrow waist, broad hips, strong legs, heavy breasts, abundant lubrication, and waxed-bare body are consistent with recorded attributes.
-- Pace’s close-cut brown hair, brown eyes, cleft chin, and matching birthmarks are consistent with the ledger.
-- Vee’s “own boots” do not conflict with the earlier mountain trip in Meg’s oversized boots; the passage explicitly distinguishes the two occasions.
-- The plum lingerie introduces no conflict with any recorded garment.
-- Vee’s expectation of “something rented and charmless” is explicitly uncertainty about an unfamiliar cabin, not knowledge that the cabin had those attributes.
-- Vee imagines Pace’s “hand on himself” and says she is “sure of it,” but this is explicitly a picture constructed in the blindfolded dark; no later observation establishes the contrary.
-- Pace’s request that Vee report touching herself while thinking of him, and her agreement, match the recorded disclosure agreement.
-- Vee’s wish that Pace say “the larger thing” remains consistent with his not having explicitly told her he loves her.
-- Nothing indicates Vee knows about Pace and Randi’s sexual relationship.
+- Pace arrives in a “truck”; the omitted color does not conflict with his recorded white truck.
+- The cabin’s exterior, layout, porch, fireplace, cheval mirror, and lake all match the ledger.
+- Vee’s dark-red hair, fair freckled skin, proportions, and waxed state match her recorded attributes.
+- Pace’s brown hair and eyes, cleft chin, and matching birthmarks match the ledger.
+- Vee’s “own boots” are consistent with her having previously worn Meg’s oversized boots.
+- Vee expects to be taken to the bed, but Pace instead leads her to the mirror; this is an overturned expectation, not two inconsistent renderings of the anticipated event.
+- Vee imagines Pace touching himself while watching her; his later using both hands to catch her is compatible because he could have stopped when her legs gave way.
+- Pace begins the scene wearing boxers, but their removal or displacement before intercourse is simply unreported; the text never states that they remain in place.
+- Randi’s later access to Pace’s house does not contradict Pace’s statement, “I’ve never given a key to anyone,” because the ledger explicitly leaves Randi’s means of entry unknown.
+- Vee’s continued wish that Pace would say “the larger thing” is consistent with the ledger: he has not explicitly told her he loves her.
+- Only Vee and Pace are present, and neither displays knowledge they have not yet acquired.

@@ -416,3 +416,7 @@ Stage P4: agency — she carries her body to him because the words failed.
 
 ### Left standing — do not re-litigate
 - **:45** "the far-off sensible part of her … could not have made her stop for anything short of God" — the road-safety complaint is gpt-5.6-sol across cold/fsog/romance-graduate/queer-woman lanes (one model family; personas share a prompt). glm-5.3's cold read accepts it ("reckless and a little heightened, but… something true"); gemini-4-argon, gemini-4-carbon and gemini-3.8-flash are thrilled; the Claude lanes object only to the cruiser as a device. Author: she is taking an emotional risk, and a normally safe Vee being physically reckless with it is in character; the complaint reads as safety training, not a reader reaction.
+
+## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
+
+- **Left standing: `:21` "he had never once seen her like this, stood up on purpose in a lit room with her heels on, made into an offering"** — flagged against `made-up.md:63–69` (Halloween: heels and nothing else, in the lamp's circle). Author: in {{Made-Up}} Vee was not an offering; she was not surrendering, she was in control. Here she is surrendering. The difference is the claim, so the line is true. Do not re-litigate.

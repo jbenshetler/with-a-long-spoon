@@ -29,6 +29,8 @@ and needs the author's explicit authorization each run.**
 
 ## Coverage — partial restart 2026-10-23
 
+Per-edit check 2026-11-14 (gpt-5.6-sol, reusing ledgers vol1–3) of the 29 chapters touched by the want-arc and "came out of her" passes: 20 clean; 9 flagged. Ruled with the author the same day: `burn:59` carpet→rubber fixed; `nothing-underneath:21`, `broken-in:69`, `under-the-rug:95` left standing; `missed-a-spot:19` and `between` dismissed; `how-its-done:163`, `all-the-time:37`, `still-life:461` already settled. Rulings recorded in each chapter's triage doc.
+
 Per-edit check of merged `fed` completed on gpt-5.6-sol against a new Volume One ledger: **no contradictions of fact found** (`gpt-5.6-sol/fed.md`). The initial merge retained both passages verbatim; a fresh check after the approved 225-word retelling reduction also found no contradictions. Rechecked after the subsequent 85-word explanation pass, again with no contradictions. Report and ledger are on disk; no author rulings have been made on the report's non-error observations. This limited per-volume check does not complete the preferred whole-book audit below.
 
 ### Reset history — 2026-10-09

@@ -1,6 +1,6 @@
 # Fact audit — Fed
 
-*model: gpt-5.6-sol · ch021 · 2026-10-23 · prose-sha ~ab6b14909a3d*
+*model: gpt-5.6-sol · ch017 · 2026-11-14 · prose-sha ~7cf6487f7f4f*
 
 ---
 
@@ -8,13 +8,13 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- “Vee had no bag” versus “reaching for her cleats and her bag”: the latter bag belongs to Cassie.
-- “the room’s open-window cold” is consistent with the dorm window normally being cracked open.
-- Vee’s recollection of “The white sheets” matches Pace’s recorded plain white sheets.
-- “Nothing under the skirt. She had given them away” consistently refers to the green panties she gave Pace.
-- The Chianti being opened before Vee arrived and poured when she arrived are compatible.
-- Pace “went right back to the stove” and “finish[ed] making our dinner”; both describe the same interrupted cooking.
-- Randi’s old-boyfriend account is presented as her claim, not an established event; the ledger expressly treats such stories as uncorroborated.
-- Randi learns about Vee’s preparation during this conversation; her comments about the polish and underwear are deductions from Vee’s disclosures, not unexplained prior knowledge.
-- Randi’s goodbye kiss matches the established second kiss: Vee anticipates and meets it and does not look for witnesses afterward.
-- The chapter does not mention Randi’s wrist band or vehicle; omission is not contradiction.
+- “her face bare” on returning to the dorm versus “a tomato-red mouth” at brunch: separate scenes; Vee could apply lipstick between them.
+- “she had driven over with nothing” means without an overnight bag, not without the clothes and lingerie described elsewhere.
+- “I didn't have a stitch to put on” versus “her clothes on the floor”: ordinary shorthand for remaining undressed or lacking fresh clothes, not a strict claim that clothing was unavailable.
+- “She had given them away” and “the green was given away” refer to the grammatically plural panties; neither establishes that Vee also gave Pace the matching bra.
+- Randi’s old-boyfriend account does not contradict her relationship with Pace; the man is not identified as Pace, and Randi may also be performing or inventing the story.
+- Randi’s statements about Vee preparing for Pace are presented as deductions prompted by Vee’s answers, not knowledge acquired without a source.
+- Cassie calling Pace Vee’s “boyfriend” is explicitly marked “wrong” by the narration and is Cassie’s assumption, not an established change in their relationship.
+- The dorm layout, stuck lock, open-window cold, Cassie’s lower bunk, and her cleats all agree with the ledger.
+- The remembered white sheet, kitchen table, wine, and Pace cooking agree with the recorded house and encounter details.
+- The second kiss with Randi is rendered consistently with the ledger: Vee remembers the earlier kiss and expects another, while this one continues further.

@@ -1,18 +1,21 @@
 # Fact audit — We Find Out
 
-*model: gpt-5.6-sol · ch007 · 2026-11-08 · prose-sha ~d93b59a60a9f*
+*model: gpt-5.6-sol · ch007 · 2026-11-14 · prose-sha ~9e4c9f23fce8*
 
 ---
 
-The chapter contradicts neither the fact ledger nor itself.
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- **Black strappy heels:** Vee wears them here before they later remain at Pace’s house; this is consistent with their established ownership and sequence.
-- **Pace’s inner-thigh scar:** Vee’s hand passing over it establishes the recorded physical fact; nothing says she knew of it earlier.
-- **Bedroom size:** “the bedroom was small” does not conflict with the recorded bed, chair, nightstand, and unusually proportioned table.
-- **Randi’s spanking story:** Vee anticipates counting and a theatrical punishment, then receives something different from Pace; her expectation accurately reflects what Randi told her.
-- **Pace’s rough palm:** Its roughness “from the gym and the wood” agrees with the ledger’s gym-work and woodworking explanation.
-- **Scrunchies:** The deep-green scrunchies with small white dots, found on the bathroom counter, match the ledger.
-- **Knowledge and presence:** Randi is recalled but not present, and Vee’s thought of “no Randi to be told” does not give Randi premature knowledge of this encounter.
-- **“Every time I’ve been here since that first night”:** The ledger does not establish a sexless intervening visit, so this cannot be contradicted from the supplied facts.
+- “The kitchen window beside the stoop” and “the two steps” match the recorded layout of Pace’s house.
+- Vee arrives by car on the gravel drive; nothing conflicts with her driving the Corolla.
+- The “black strappy heels” are consistent with the induction heels introduced in Chapter 6.
+- Vee’s quickness while evading Pace does not contradict his ability to catch her: the chapter distinguishes her agility in open space from his greater straight-line speed.
+- Pace’s “broad thick chest,” rough palm “from the gym and the wood,” and “old scar at the top of his inner thigh” match his recorded physical attributes.
+- Vee’s nipples becoming “tight and bright” is consistent with their recorded appearance when erect.
+- The hall opening onto the bedroom, and the blanket being folded over a chair, do not conflict with the recorded house layout or with Randi’s separately identified blanket.
+- Vee remembers Randi’s spanking account consistently with what Randi told her in Chapter 5.
+- The green scrunchies with small white dots, supplied in excessive quantity, match the ledger.
+- Vee’s statement that she will begin bringing a bag does not conflict with the later assignment of bathroom storage; that drawer has not yet been established here.
+- No one displays knowledge of Pace and Randi’s concealed relationship, Randi’s feelings for Vee, or any other information not yet learned.

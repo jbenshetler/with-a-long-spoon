@@ -1,6 +1,6 @@
 # Fact audit — Above Him
 
-*model: gpt-5.6-sol · ch010 · 2026-10-30 · prose-sha ~2f4699bbf429*
+*model: gpt-5.6-sol · ch011 · 2026-11-14 · prose-sha ~1542d8929780*
 
 ---
 
@@ -8,12 +8,11 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- Pace’s inner-thigh scar is visible while he sleeps; its location and Vee’s ignorance of its cause remain consistent with the ledger.
-- Vee calling him “Peter” while he sleeps exactly matches the recorded circumstance.
-- Vee’s speculation that Randi “must have lived in Europe” is presented as a guess, and no ledger fact establishes otherwise.
-- “Cassie doesn’t like her” adds that Cassie dislikes Randi; it does not contradict the established fact that Cassie dislikes sororities.
-- The green scrunchies are consistently described as numerous, deep green, white-dotted, and initially kept on their form by the tap.
-- The bathroom has only one counter and one set of drawers; Pace moving his belongings from the top drawer into the lower drawer and giving Vee the top drawer matches the ledger.
-- The counter being bare when Vee is absent is compatible with her toiletries being brought in a bag and later assigned to the drawer.
-- Vee’s clothes becoming looser while her better-fitting bras and underwear expose her weight loss matches the ledger.
-- The week and conference references were not assessed because dates and interval arithmetic are out of scope.
+- **Attributes:** Vee’s “red curtain” of hair and nipple changing from “faint pale pink” to “bright” match the ledger.
+- **Objects:** The photograph is taken on Vee’s phone because “hers took the better picture,” then sent to Pace, consistent with the ledger.
+- **Layout:** The filter pitcher, kitchen table, nightstand, bathroom counter, and two bathroom drawers all match the recorded house layout.
+- **Possessions:** The green scrunchies move from the counter into Vee’s assigned top drawer; Pace’s blades and comb move into the lower drawer, consistent with the ledger.
+- **Referents:** Vee’s brief image of “another woman at his table” clearly refers to Sheri, whom Pace has just identified as his cycling partner; nothing conflicts with what Vee would expect.
+- **Presence and knowledge:** Vee learns here that Sheri will visit Pace and that Sheri is alone; she is not shown knowing Sheri’s appearance, history, or sexuality.
+- **Pace’s family:** “This is my home” and “I don’t go back” do not establish what happened with his parents, so the chapter does not contradict any specified family history.
+- **Photograph promise:** “I’d never share your photograph” concerns future conduct and does not conflict with any later authorized viewing on Vee’s own phone.

@@ -1,6 +1,6 @@
 # Fact audit — Among Friends
 
-*model: gpt-5.6-sol · ch006 · 2026-11-04 · prose-sha ~7ac1b4a03daa*
+*model: gpt-5.6-sol · ch006 · 2026-11-14 · prose-sha ~a4f72bef024f*
 
 ---
 
@@ -8,13 +8,13 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- “*Vee’s boyfriend* said six times to six measuring faces” matches Randi, Kayla, Meg, Danny, Theo, and Cassie.
-- Randi’s car, Cassie’s SUV with tired suspension, and Pace’s bench-seat truck remain correctly assigned.
-- The imagined Christmas scene—“being wonderful at a woman”—gives the woman no attributes that conflict with Vee’s later mistaken image of Sheri.
-- “The little cold line of the bracelet” is compatible with Randi’s close-fitting Love bracelet; “little” describes the felt line, not necessarily its weight.
-- Vee’s panic over “*knows*” does not establish that Pace knows what happens at brunch; he reports only Randi’s compliment.
-- Pace’s broad account of talking with Randi discloses nothing about their concealed sexual relationship.
-- The habitual mouth kiss and Pace’s witnessing it agree with the knowledge ledger.
-- Taking one of Pace’s hands from the wheel while he drives “on the one wrist” allows his other hand to remain steering.
-- The remembered coat stain is correctly associated with Vee’s good coat and a prior drive.
-- Weekday, month, season, and travel-duration references were disregarded as out of scope.
+- Randi says it is wonderful to “finally meet” Pace, although Vee says they have “technically met”; Vee immediately qualifies the earlier encounter as only “ninety seconds,” so Randi plainly means a proper introduction.
+- Pace says “Vee’s boyfriend” six times: once to Randi, then to Kayla, Meg, Danny, Theo, and Cassie. This matches Vee’s later recollection of it being “said six times to six measuring faces.”
+- Randi arrives in and later leaves in a car. The chapter assigns it no make, model, or color, consistent with the ledger.
+- Cassie arrives driving an SUV and its taillights “bounce out of the lot on the tired suspension,” matching the ledger.
+- Pace’s vehicle is consistently a truck with an old vinyl bench seat and a heater that initially blows cold.
+- Vee’s recalled “dark bloom” on the pale lining of her good coat matches the ledger’s account of the permanently stained olive coat.
+- Randi’s ponytail and bracelet are consistent with her recorded variable hairstyles and continuously worn Love bracelet.
+- Pace’s knowledge of the ordinary goodbye kiss is acquired here by witnessing it; nothing indicates that he yet knows the later mixer kiss or Vee’s attraction to Randi.
+- Vee’s fleeting jealousy when Pace talks with Randi does not show knowledge of their concealed sexual relationship.
+- Vee attributes her arousal during Randi’s toast to Pace’s public boyfriend label. This is her interpretation, not a contradictory factual claim about its cause.

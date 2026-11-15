@@ -1,6 +1,6 @@
 # Fact audit — Rock
 
-*model: gpt-5.6-sol · ch022 · 2026-11-08 · prose-sha ~cfd947017b14*
+*model: gpt-5.6-sol · ch022 · 2026-11-14 · prose-sha ~33905fa12671*
 
 ---
 
@@ -8,11 +8,9 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- “the fire worked quietly in the den” while they sit before the glass — consistent with the den fireplace warming the adjoining glass-walled area.
-- “the quilt over the two of them” — does not contradict Randi’s cashmere blanket normally resting at the foot of the bed; neither object is stated to be the only covering.
-- “the robe off the back of the closet door” — adds an object to the bedroom without contradicting the recorded room layout.
-- Pace’s age, real name, education, parents, seventh-grade punishment, lifting history, and relationship with Daphne all match the ledger.
-- Vee’s Ohio upbringing, parents, brother, church background, Corolla, age, and early boyfriend all match the ledger.
-- “more of it than she'd known” about Pace’s scar — consistent with Vee having seen it previously but examining its extent more fully here.
-- Vee’s belief that she “stumbled into” Randi and that Pace independently crossed the coffee shop remains consistent with what she knows; she has not learned that either encounter was engineered.
-- References to elapsed time, ages used for arithmetic, and calendar timing were not assessed, as instructed.
+- “Nothing happened. Nobody did anything wrong” concerns Daphne’s departure; it does not necessarily deny Pace’s earlier failure to respect an emotional boundary.
+- The fire behind them and glass in front accord with the den fireplace warming the glass-walled rear area.
+- Vee recognizes and touches Pace’s thigh scar but still does not learn its cause.
+- Vee’s belief that she “stumbled into” Randi and Pace remains consistent with what she knows.
+- The robe, quilt, couch, and low table do not conflict with any recorded room layout or object placement.
+- Pace’s name, age, education, parents, childhood punishment, lifting history, and relationship with Daphne match the ledger.

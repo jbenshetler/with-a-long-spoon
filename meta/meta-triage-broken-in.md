@@ -298,3 +298,7 @@ Lines with heavy reader praise whose criticism does not rise above NOISE under t
 
 - **:169 "Vee's breath did something she hoped wasn't out loud."** — ~8 praise; complaints: one Anthropic: NOISE.
 - **:205 "she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."** — ~8 praise; complaints: none.
+
+## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
+
+- **Left standing: `:69` "whether his *services* ended at the door, or carried on inside"** — flagged against the words actually said at `lesson.md:173` ("Does your *service* include getting the girls home safe from here, too?"). Author: the retelling is shame inflating the memory; Randi's "wince of a friend hearing the worst available version" (`:71`) marks it. Do not re-litigate.
