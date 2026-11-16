@@ -26,7 +26,7 @@ Randi's fingers found the inside of Vee's wrist on the way to taking it — a gr
 
 After that she only watched the clock. She'd been dreading this ending for days, and now she got to see it come — the minutes climbing toward the one thing she hadn't solved: the hug and the kiss at the end of the night, waiting for her whichever way she went. Sit the dinner — two hours across from Randi, and how was she going to do that and keep her face together? — and it would be there when she stood up to go. Beg off, and it only came sooner. Randi's arms, Randi's mouth, the soft second press that ended every good night between them: she wanted it so badly that the wanting was the very reason she couldn't let herself take it.
 
-At 8:20 Marsh let them go. Randi bent for her bag, and Vee's eyes went where they shouldn't — to the hollow where Randi's neck turned down into her shoulder, the soft place she'd put her mouth to twice now — and the guilt of it turned over in her, and she had not got her balance back when Randi said it.
+At 8:20 Marsh let them go. Randi bent for her bag, and Vee's eyes went where they shouldn't — to the hollow where Randi's neck turned down into her shoulder, the soft place she'd put her mouth to three times now — and the guilt of it turned over in her, and she had not got her balance back when Randi said it.
 
 "Having you at the dance was so great. I've wanted to do that for the longest time."
 
@@ -56,7 +56,7 @@ Randi drew back an inch, reading her. "What's up?"
 
 "Ugh." Randi huffed a laugh and let it go. "Keep your plague, then." But she didn't step out of the hug, and still holding her, she sighed it against Vee's hair: "I'll miss you Thursday, though. After class. Standards committee—" a martyr's groan "—somebody's been a bad girl."
 
-Vee turned her face away — some reflex, a looking-off at nothing — and that was when Randi's mouth found the side of her neck, soft, a wet bloom of heat right where the neck goes down into the shoulder, the exact place she'd put her own mouth twice and been told not to weaponize. The goosebumps went out over her in a sheet. A sound got out of her before she could catch it, and she came off the lips and out of the hug all at once.
+Vee turned her face away — some reflex, a looking-off at nothing — and that was when Randi's mouth found the side of her neck, soft, a wet bloom of heat right where the neck goes down into the shoulder, the exact place she'd put her own mouth three times and been told not to weaponize. The goosebumps went out over her in a sheet. A sound got out of her before she could catch it, and she came off the lips and out of the hug all at once.
 
 Randi laughed, delighted, not sorry at all. "See?" she said. "How do you like it?"
 

@@ -12,7 +12,7 @@ Randi had her glass nearly to her mouth and set it back down without drinking an
 
 "Boots." Randi put both forearms on the table. "Wait. Go back. Start over and go slower."
 
-So Vee went slower, and took her time with it, because the table was hers tonight and the story was good and she had spent two days deciding which parts went where. The hair: two colors, dark at the roots and going light at the ends, permed where it came down over her collar. The face: round, and made up a hair off the line, and worn like a dare. The voice: pitched for a room three times the size of the one she was in, at all times, on every subject. The hug she'd given Pace in the doorway, with her whole weight in it.
+So Vee went slower, and took her time with it, because the table was hers tonight and the story was good and she had spent two days deciding which parts went where. The hair: two colors, dark at the roots and going light at the ends, permed where it came down over her collar. The face: round, and made up a hair off the line, and worn like a dare. The voice: pitched for a room three times the size of the one she was in, at all times, on every subject. The hug she'd given Pace at the table, with her whole weight in it.
 
 "So where's my model?" Randi said.
 
@@ -50,9 +50,9 @@ Randi's whole face opened. "*Gay.*"
 
 "She calls him *that man.* Like it's a condition he's got. Men aren't her thing. Never have been." Under the table Randi's foot moved along her calf and settled again.
 
-Then the other part came up in her, and she went slower with it, because it wasn't hers to spend.
+Then the other part came up in her, and it wasn't hers. But telling Randi wasn't telling.
 
-"She came out a couple years ago and it went badly. That part's hers — I'm not going to sit here and hand it around." She moved a gnocchi to the edge of her plate and left it there. "But he's the one who showed up. Not her family. Not her church, not the girls she'd known since she was little. Him. He drove her home, and he was back on her porch in the morning with coffee, and then he fixed the lock her landlord had been promising since August. Two years he's been her friend, and he never told me one word of it. I had to get it from her at the table, while he was off at the bar."
+"She came out a couple years ago and it went badly." She moved a gnocchi to the edge of her plate and left it there. "But he's the one who showed up. Not her family. Not her church, not the girls she'd known since she was little. Him. He drove her home, and he was back on her porch in the morning with coffee, and then he fixed the lock her landlord had been promising since August. Two years he's been her friend, and he never told me one word of it. I had to get it from her at the table, while he was off at the bar."
 
 Saying it out loud did something to her that hearing it hadn't. Vee took a drink she hadn't wanted and set the glass down and let her face do what it was doing. *That man.* Hers.
 
@@ -100,7 +100,7 @@ And Randi's thumb took up where it had left off, and went on over the knuckles, 
 
 "Did he?" Randi's chin came up an inch.
 
-"Sunday. Later, in the kitchen, out of nowhere." Vee pressed her hands flat into her lap under the table. "He asked me to get waxed."
+"Sunday. In the kitchen, out of nowhere." Vee pressed her hands flat into her lap under the table. "He asked me to get waxed."
 
 "All of it?"
 
@@ -120,7 +120,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 "Friday," Vee said. "I've got the afternoon."
 
-"Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."
+"Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the appointment already made. "Call in the morning, not the afternoon, and say my name in the first sentence."
 
 "Pace has his surprise Friday night." Vee grinned. "And I've got mine." She leaned in over the cloth and dropped her voice. "He always makes me come first. Always. Friday, I'm making him come first. With my mouth, before he gets to do one single thing about it." Under the table her heel had started going.
 

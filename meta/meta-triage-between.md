@@ -35,3 +35,18 @@
 - **:65** "Course she did." — Randi's word too (`all-the-time.md` :113).
 - **:55** the gnocchi — the guard amended; the exception is the tell.
 - **:81** "the answer came out of her all by itself…" and **:113** "I said yes before he'd finished" — the designed pair (reflexive no to Randi, reflexive yes to Pace).
+
+## Continuity pass (author 2026-11-15)
+
+### Fixed
+- **:103** "Sunday. Later, in the kitchen…" → "Sunday. In the kitchen…" — "Later" pointed back to {{Hangover}}'s friendship talk, which Randi hasn't been told.
+- **:53/:55** the Sheri telling: cut both disclaimers ("because it wasn't hers to spend"; "That part's hers — I'm not going to sit here and hand it around"); `:53` now "…it wasn't hers. But telling Randi wasn't telling." She tells it anyway: the measure of how close she holds Randi. Costs GLM's "discretion" praise, knowingly. The gnocchi beat carries the hesitation.
+- **:15** "in the doorway" → "at the table" (and `hangover.md:105` → "at the back of the taproom") — {{Another Round}} puts Sheri's hug at the high table.
+
+### Left standing
+- **:125** "He always makes me come first. Always." — false since the truck in {{Among Friends}}, which Randi heard at {{A Clean Plate}}. Accepted: spoken hyperbole, and nearly literally true.
+- **`barely-stings.md:31`** recalls Randi holding Vee's hand "the whole while" through the Sondra advice; here the hold is at `:37`, and at `:103`–`:119` Vee's hands are in her lap until Randi's comes over hers. Intentional: retellings drift, and readers should doubt their accuracy. A running theme, not an error — don't reconcile.
+- **:91** "not even in the version I made up" — an invented woman was never a threat; the line is accurate.
+- **:45** Randi sits back into the corner while keeping Vee's hand across the table — she stays close on purpose; the stretch is hers.
+- **:133** Vee's neck kiss "in passing" — kept: the third Vee→Randi neck kiss and the first with no ticklish cover (7/8 capture reads mark it). {{Coming Due}}'s count updated "twice" → "three times" (`coming-due.md:29`, `:59`; `meta-condensed-coming-due.md:23`).
+- **:63** "started at my face" — "started," as meant (the look began at her face), not a typo for "stared."
