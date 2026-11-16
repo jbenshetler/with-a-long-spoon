@@ -33,6 +33,8 @@ Per-edit check 2026-11-14 (gpt-5.6-sol, reusing ledgers vol1–3) of the 29 chap
 
 Per-edit check of merged `fed` completed on gpt-5.6-sol against a new Volume One ledger: **no contradictions of fact found** (`gpt-5.6-sol/fed.md`). The initial merge retained both passages verbatim; a fresh check after the approved 225-word retelling reduction also found no contradictions. Rechecked after the subsequent 85-word explanation pass, again with no contradictions. Report and ledger are on disk; no author rulings have been made on the report's non-error observations. This limited per-volume check does not complete the preferred whole-book audit below.
 
+Per-edit check 2026-11-15 (gpt-5.6-sol, **fresh Volume Three ledger**) of the four chapters edited in the Between pass — `between`, `barely-stings` (first audit), `still-life`, `clean-plate`: **no new contradictions**. Only `still-life:461` re-flagged (HIGH), already settled 2026-11-08 in `meta-triage-still-life.md`. Ledger gap noted: the ledger does not record characters' own statements, so it missed `hangover.md`'s "I liked it, honestly" against `between.md`'s "Not my thing" (a designed lie, harmless here). Vol 1–2 ledgers were also rebuilt (a scoping slip; harmless). `fact_audit.py` now infers the volume from `--slugs` via `meta/meta-volumes.toml`.
+
 ### Reset history — 2026-10-09
 
 **The lane was dumped and will be regenerated when the author is ready to run

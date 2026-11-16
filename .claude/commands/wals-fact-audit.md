@@ -49,6 +49,12 @@ tools/fact_audit.py --model gpt-5.6-sol --slugs not-enough
 tools/fact_audit.py --model gpt-5.6-sol --volume 1
 ```
 
+With `--slugs` and no `--volume`, each chapter's volume is read from
+`meta/meta-volumes.toml` (`volume_scenes.volume_of`), so moving a boundary in
+that file just works; chapters in different volumes get one ledger each. An
+explicit `--volume` that doesn't hold a named chapter exits with the right
+volume named, never "nothing to do".
+
 Restartable: existing reports are skipped unless `--fresh`. The ledger is
 reused unless `--rebuild-ledger`. Each report records a `prose-sha`, so a
 later edit makes it **verifiably** stale rather than silently so.

@@ -35,7 +35,7 @@ It over-flags by design and the author rules on every item.
 
 Usage:
     tools/fact_audit.py --model gpt-5.6-sol --ledger-only     # build the ledger
-    tools/fact_audit.py --model gpt-5.6-sol --slugs not-enough the-pointing-game
+    tools/fact_audit.py --model gpt-5.6-sol --slugs not-enough the-pointing-game   # volume inferred
     tools/fact_audit.py --model gpt-5.6-sol --volume 1        # whole volume
     tools/fact_audit.py --diff-ledgers gpt-5.6-sol gemini-3.8-flash
 """
@@ -331,7 +331,9 @@ def main() -> None:
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--model", default="gpt-5.6-sol")
     ap.add_argument("--model-id", default=None, help="output dir (default: --model)")
-    ap.add_argument("--volume", type=int, default=1)
+    ap.add_argument("--volume", type=int, default=None,
+                    help="volume ordinal; with --slugs it is inferred from "
+                         "meta/meta-volumes.toml (default 1 otherwise)")
     ap.add_argument("--slugs", nargs="*", help="limit the check pass to these chapters")
     ap.add_argument("--ledger-only", action="store_true")
     ap.add_argument("--rebuild-ledger", action="store_true")
@@ -344,13 +346,14 @@ def main() -> None:
     args = ap.parse_args()
 
     model_id = args.model_id or args.model
+    one_volume = args.volume or 1
 
     if args.tally:
-        tally(args.tally, args.volume)
+        tally(args.tally, one_volume)
         return
 
     if args.diff_ledgers:
-        a, b = (ledger_path(m, args.volume) for m in args.diff_ledgers)
+        a, b = (ledger_path(m, one_volume) for m in args.diff_ledgers)
         for p in (a, b):
             if not p.exists():
                 raise SystemExit(f"missing ledger: {p}")
@@ -359,18 +362,51 @@ def main() -> None:
               "to a reviewer and ask where they disagree on a falsifiable fact.")
         return
 
-    lp = ledger_path(model_id, args.volume)
+    for vol, slugs in resolve_volumes(args.volume, args.slugs):
+        run_volume(args, model_id, vol, slugs)
+
+
+def resolve_volumes(volume: int | None, slugs: list[str] | None) -> list[tuple[int, list[str] | None]]:
+    """Which volume(s) to audit. With --slugs and no --volume, each chapter's
+    volume comes from meta/meta-volumes.toml via volume_scenes.volume_of, so
+    moving a volume boundary in the data file just works; chapters spanning
+    volumes run one ledger per volume. An explicit --volume that does not hold
+    a named chapter is an error, never a silent "nothing to do"."""
+    if not slugs:
+        return [(volume or 1, None)]
+    where: dict[str, int] = {}
+    for s in slugs:
+        try:
+            where[s] = volume_scenes.volume_of(s)
+        except Exception as e:  # unknown slug
+            raise SystemExit(f"unknown chapter slug: {s} ({e})")
+    if volume is not None:
+        wrong = {s: v for s, v in where.items() if v != volume}
+        if wrong:
+            raise SystemExit("not in volume %d: %s" % (volume, ", ".join(
+                f"{s} (volume {v})" for s, v in wrong.items())))
+        return [(volume, slugs)]
+    by_vol: dict[int, list[str]] = {}
+    for s in slugs:
+        by_vol.setdefault(where[s], []).append(s)
+    for v, ss in sorted(by_vol.items()):
+        print(f"[volume] {v}: {' '.join(ss)}", file=sys.stderr)
+    return sorted(by_vol.items())
+
+
+def run_volume(args, model_id: str, volume: int, slugs: list[str] | None) -> None:
+    lp = ledger_path(model_id, volume)
     if args.rebuild_ledger or not lp.exists():
-        ledger = build_ledger(args.model, model_id, args.volume, args.effort)
+        ledger = build_ledger(args.model, model_id, volume, args.effort)
     else:
         ledger = checkpoint_bundle.checkpoint_body(lp.read_text(encoding="utf-8"))
         print(f"[ledger] reusing {lp}", file=sys.stderr)
     if args.ledger_only:
         return
 
-    vol = volume_scenes.volume_slugs(args.volume, drafted_only=True)
+    vol = volume_scenes.volume_slugs(volume, drafted_only=True)
     numbered = {s: i for i, s in enumerate(vol, 1)}
-    targets = [s for s in vol if (not args.slugs or s in args.slugs)]
+    targets = [s for s in vol if (not slugs or s in slugs)]
     if not args.fresh:
         targets = [s for s in targets if not report_path(model_id, s).exists()]
     if not targets:
