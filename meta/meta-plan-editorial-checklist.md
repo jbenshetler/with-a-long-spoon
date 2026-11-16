@@ -200,6 +200,23 @@ Run on the text Phases 1–2 leave.
   check below owns them).
 - **Stale when:** any chapter in its scope is revised.
 
+### Statement audit (Lane A, statements half)
+- **Catches:** a character's account shifting — what they said about their own
+  desires, feelings, history or plans, or about another character,
+  contradicted by what they say later or by what the narration shows. Designed
+  lies are the book's engine; this makes every shift visible so an
+  undesigned drift (same listener, two versions) can't hide among them.
+- **Instrument:** `tools/fact_audit.py --statements --through --volume <N>`
+  (author ruling 2026-11-15). Own ledger (`<model>/statements-vol1-<N>.md`) and
+  reports (`<model>/statements/<slug>.md`); the fact ledger and its rulings are
+  untouched. Each shift carries AUDIENCE (same/different listener) and READING
+  (designed / drift / unclear); the chapter's triage doc is fed in, so a ruled
+  shift returns ALREADY RULED. **Rule DRIFT and UNCLEAR only**, in the
+  chapter's `meta-triage-<slug>.md`; **skim DESIGNED** (the label is the
+  model's call). Required before a volume is published; a second vendor is
+  worth having, not required.
+- **Stale when:** any chapter in its scope is revised.
+
 ### Date check
 - **Catches:** a date, weekday or interval in the prose that disagrees with the
   chapter's date. Chapters now print their date at the top, so a "Friday" in

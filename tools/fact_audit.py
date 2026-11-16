@@ -81,8 +81,12 @@ def out_dir(model_id: str) -> Path:
     return AUDIT_ROOT / model_id
 
 
-def ledger_path(model_id: str, volume: int, lane: str = "fact") -> Path:
-    return out_dir(model_id) / LANES[lane]["ledger_file"].format(v=volume)
+def ledger_path(model_id: str, volume: int, lane: str = "fact",
+                through: bool = False) -> Path:
+    """`through` = the ledger spans volume 1 .. `volume` (the cross-volume scope
+    the editorial checklist requires for a pre-publication pass)."""
+    v = f"1-{volume}" if through and volume > 1 else str(volume)
+    return out_dir(model_id) / LANES[lane]["ledger_file"].format(v=v)
 
 
 def report_path(model_id: str, slug: str, lane: str = "fact") -> Path:
@@ -98,17 +102,22 @@ def chapter_rulings(slug: str) -> str:
     return p.read_text(encoding="utf-8") if p.exists() else "(none recorded)"
 
 
-def volume_prose(volume: int) -> str:
-    """Every drafted chapter of the volume, titled, in reading order."""
+def volume_prose(volume: int, through: bool = False) -> str:
+    """Every drafted chapter of the volume, titled, in reading order. With
+    `through`, every volume from 1 to `volume`, each chapter header naming its
+    volume so ledger citations stay unambiguous across the seam."""
     parts = []
-    for i, slug in enumerate(volume_scenes.volume_slugs(volume, drafted_only=True), 1):
-        parts.append(f"===== CHAPTER {i}: {checkpoint_bundle.display_title(slug)} "
-                     f"({slug}) =====\n\n{checkpoint_bundle.clean_scene_text(slug)}\n")
+    for vol in (range(1, volume + 1) if through else [volume]):
+        for i, slug in enumerate(volume_scenes.volume_slugs(vol, drafted_only=True), 1):
+            head = f"VOLUME {vol} · CHAPTER {i}" if through else f"CHAPTER {i}"
+            parts.append(f"===== {head}: {checkpoint_bundle.display_title(slug)} "
+                         f"({slug}) =====\n\n{checkpoint_bundle.clean_scene_text(slug)}\n")
     return "\n".join(parts)
 
 
-def chapter_block(slug: str, n: int) -> str:
-    return (f"===== CHAPTER {n}: {checkpoint_bundle.display_title(slug)} ({slug}) "
+def chapter_block(slug: str, n: int, volume: int | None = None) -> str:
+    head = f"VOLUME {volume} · CHAPTER {n}" if volume else f"CHAPTER {n}"
+    return (f"===== {head}: {checkpoint_bundle.display_title(slug)} ({slug}) "
             f"=====\n\n{checkpoint_bundle.clean_scene_text(slug)}\n")
 
 
@@ -243,14 +252,15 @@ def preflight(model: str, prompt_chars: int, label: str) -> None:
 
 
 def build_ledger(model: str, model_id: str, volume: int, effort: str,
-                 lane: str = "fact") -> str:
+                 lane: str = "fact", through: bool = False) -> str:
     cfg = LANES[lane]
-    path = ledger_path(model_id, volume, lane)
+    path = ledger_path(model_id, volume, lane, through)
     path.parent.mkdir(parents=True, exist_ok=True)
-    prose = volume_prose(volume)
-    print(f"[ledger] volume {volume} · {len(prose):,} chars "
+    prose = volume_prose(volume, through)
+    scope = f"1-{volume}" if through and volume > 1 else str(volume)
+    print(f"[ledger] volume {scope} · {len(prose):,} chars "
           f"(~{len(prose)//4:,} tokens) · {model}", file=sys.stderr)
-    tag = f"{lane}-ledger-vol{volume}" if lane != "fact" else f"ledger-vol{volume}"
+    tag = (f"{lane}-ledger-vol{scope}" if lane != "fact" else f"ledger-vol{scope}")
     preflight(model, len(prose), tag)
     cwd = work_dir(model_id, tag)
     agent_fn, close = make_agent(model, effort, cwd, lane)
@@ -296,7 +306,7 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str,
                 + "\n  If reasoning consumed the budget, retry with a lower --effort."
             )
     path.write_text(
-        f"# {cfg['ledger_title']} — Volume {volume}\n\n*model: {model} · "
+        f"# {cfg['ledger_title']} — Volume {scope}\n\n*model: {model} · "
         f"{date.today().isoformat()} · derived from prose only*\n\n---\n\n{body}\n",
         encoding="utf-8")
     print(f"[ledger] wrote {path}", file=sys.stderr)
@@ -304,13 +314,13 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str,
 
 
 def check_chapter(agent_fn, model: str, model_id: str, slug: str, n: int,
-                  ledger: str, lane: str = "fact") -> Path:
+                  ledger: str, lane: str = "fact", volume: int | None = None) -> Path:
     """Reports are short, so no recovery path is needed here — but the raw
     reply is still kept beside the report for the same reason."""
     prompt = (load_prompt(LANES[lane]["check"])
               .replace("{{LEDGER}}", ledger)
               .replace("{{RULINGS}}", chapter_rulings(slug))
-              .replace("{{CHAPTER}}", chapter_block(slug, n)))
+              .replace("{{CHAPTER}}", chapter_block(slug, n, volume)))
     r = agent_fn(prompt=prompt, model=model, label=f"{lane}-{slug}")
     body = (r.get("output") or "").strip()
     p = report_path(model_id, slug, lane)
@@ -370,6 +380,9 @@ def main() -> None:
     ap.add_argument("--ledger-only", action="store_true")
     ap.add_argument("--rebuild-ledger", action="store_true")
     ap.add_argument("--fresh", action="store_true", help="redo existing reports")
+    ap.add_argument("--through", action="store_true",
+                    help="ledger spans volume 1 through the target volume (the "
+                         "cross-volume scope a pre-publication pass needs)")
     ap.add_argument("--statements", action="store_true",
                     help="statements lane: what characters SAY, to whom, vs what "
                          "the narration shows; own ledger and reports, opt-in")
@@ -431,9 +444,10 @@ def resolve_volumes(volume: int | None, slugs: list[str] | None) -> list[tuple[i
 
 def run_volume(args, model_id: str, volume: int, slugs: list[str] | None) -> None:
     lane = "statements" if args.statements else "fact"
-    lp = ledger_path(model_id, volume, lane)
+    through = args.through
+    lp = ledger_path(model_id, volume, lane, through)
     if args.rebuild_ledger or not lp.exists():
-        ledger = build_ledger(args.model, model_id, volume, args.effort, lane)
+        ledger = build_ledger(args.model, model_id, volume, args.effort, lane, through)
     else:
         ledger = checkpoint_bundle.checkpoint_body(lp.read_text(encoding="utf-8"))
         print(f"[ledger] reusing {lp}", file=sys.stderr)
@@ -456,7 +470,8 @@ def run_volume(args, model_id: str, volume: int, slugs: list[str] | None) -> Non
     try:
         for slug in targets:
             p = check_chapter(agent_fn, args.model, model_id, slug,
-                              numbered[slug], ledger, lane)
+                              numbered[slug], ledger, lane,
+                              volume if through else None)
             print(f"  {slug} -> {p}", file=sys.stderr)
     finally:
         close()
