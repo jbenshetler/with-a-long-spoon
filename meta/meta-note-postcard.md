@@ -117,6 +117,7 @@ One source leads per movement; do not route everything through (1) (`meta-craft-
 - {{All the Time}} — the turned-around phone, given to Randi; reversed here.
 - {{Claim}} — the green sheets; desecration pre-loads {{In Her Place}}'s color war.
 - {{My Pleasure}} — the breast fixation, mirrored back onto Vee.
+- {{On Her Floor}} — Vee's recall bank for the floor (the hand through the skirt, the lipstick parting): `meta-note-on-her-floor.md` → Vee's recall bank.
 - `meta-condensed-night-cluster.md` · `meta-arch-vivienne.md` → The Telling · `meta-craft-vivienne.md` · `meta-note-vol2-consequences.md`.
 
 ---

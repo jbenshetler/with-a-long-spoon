@@ -83,6 +83,46 @@ reusing it would read as repetition rather than return.
   double-reading as a confirmed positive; this makes the second reading load-bearing
   rather than merely available.
 
+## Vee's recall bank (author 2026-11-15)
+
+Sensory material for Vee's later memory of the floor — the night cluster
+(`meta-condensed-night-cluster.md`) and {{Postcard}} are the expected drops;
+placement open. **Not a revision of this chapter** — `on-her-floor.md` stands.
+
+- **Recall-only canon: Vee's mouth that night was tomato-red** — the {{Fed}} red
+  (`meta-note-fed.md:118`). The chapter never names it; Randi's is "a deep berry"
+  (`on-her-floor.md:81`).
+- **Raw material, not slot-in lines.** Recast each to recall tense and register at
+  use. Carry {{Boyfriend}}'s law (*"Not the kiss. What the kiss had been to her"*):
+  what it was to her, never a replay. Must agree with the page — the handful
+  (`:185`), the kneading through the skirt (`:195`), the parting "by degrees… the
+  lower lip last" (`:199`).
+
+**The hand — a wisp of nothing between palm and skin.** The skirt is "stretchy and
+weightless" (`:33`), Vee's own joke "It's a rumor" (`:83`); under it, the green
+thong (`:167`, `:181`).
+
+- Heat before pressure: she felt the heat of the palm before the grip — nothing in
+  the skirt to stop it, nothing under the skirt but her — then the warm certain
+  spread of Randi's fingers.
+- The cloth gives out: the skirt slid under Randi's palm and went to almost
+  nothing, the thong leaving her bare beneath it, very nearly skin on skin.
+- The rumor callback: the skirt really was a rumor — under Randi's hand a sheen and
+  then not even that, the fingers spread as if on skin.
+- Leanest: through a wisp of skirt and nothing under it, the warm certain spread of
+  Randi's fingers on the bare curve of her.
+
+**The parting — two colors not wanting to let go.**
+
+- It hadn't come apart all at once. It came undone in pieces, the corners first and
+  then the middle, her tomato-red and Randi's berry gone tacky together and letting
+  go a little at a time, the lower lip last.
+- Slow, so slow, the two colors holding on where the rest of them had already let
+  go, red and berry, the seam of them peeling apart like something that didn't want
+  to.
+- *Trace (adds a new fact on use):* later, in the mirror, berry at the edges of her
+  own red — Randi's color left on her mouth.
+
 ## The omitted visit is January, not December
 
 The visit Brooke declines to mention is **{{My Friend Randi}}, Fri Jan 15** — the

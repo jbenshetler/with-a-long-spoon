@@ -34,3 +34,4 @@ Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling inst
 - **Vary by *kind*, not just rising intensity** (tender / desperate / compulsive / half-frightened by her own heat / numb-and-driven) — a monotone intensity climb burns the contrast the ending needs.
 - **Accelerant, not origin.** The attraction is latent from the fall (SATC instrument #3); the rule pours fuel on a pre-lit ember. Never let it read as *creating* the wanting.
 - **Body-first, never named.** Escalate the surfacing of the Randi-material across the cluster, but the reader infers; Vee never articulates it.
+- **Recall material for the floor** (the hand through the skirt, the lipstick parting): `meta-note-on-her-floor.md` → Vee's recall bank.
