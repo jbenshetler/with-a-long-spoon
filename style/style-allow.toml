@@ -1236,6 +1236,13 @@ text = "She was never a threat, not for one second, not even in the version I ma
 note = "Re-armed by author-approved edit 2026-11-15 ('She doesn't want him.' added); pre-existing antithesis stands"
 
 [[ok]]
+fp   = "8f696261b064"
+rule = "learn"
+file = "scenes/boyfriend.md"
+text = "That was Randi being Randi, how she'd learned to say goodbye in Switzerland."
+note = "author's own wording, approved 2026-11-15 (Swiss write-off of the goodbye kisses)"
+
+[[ok]]
 fp   = "4f02af9f4f3b"
 rule = "a-small"
 file = "scenes/broken-in.md"

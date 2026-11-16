@@ -27,7 +27,7 @@ reader). Heat 3 unanimous; Romance 3 in 11 of 14. The cold-read panel is still o
   anyway, as a guard rather than a fix: the vow moved out of the restroom to the
   Corolla after the goodbye kiss, and the cold wrists were cut (see Guards).
 
-- **"Turned it face-down"** (opus-5-5, both personas) read as a plant — *"the exact thing Vee said a cheat does"* (`boyfriend.md:222`) — and opened *did she send it?* Acted on: the face-down is cut; the lit screen alone carries the tell (no forwarded photo is planned).
+- **"Turned it face-down"** (opus-5-5, both personas) read as a plant — *"the exact thing Vee said a cheat does"* (`boyfriend.md:222`) — and opened *did she send it?* Acted on: the face-down is cut; the lit screen alone carries the tell (no forwarded photo is planned). *(2026-11-15: the face-down example is gone from Boyfriend's rule too; the rule now sits after the lie at `boyfriend.md:227`. The cut stands.)*
 - **The empty inch** (opus-5-5 RG: *"I'm a little tired of that"*) against two readers who quoted *"not even in her head"* as the insight (opus-5 fsog, opus-5-5 fsog). Acted on by trimming the restatement only; *"She couldn't close it. Not even in her head."* is kept. Caution for the staircase still to draft (Whiskey and Wine, The Almost): don't re-announce the stall.
 - **Pace's absence** (opus-5-5 fsog: *"three chapters since Pace was in a room with her"*) — a pacing note for the run after Gesso, not a Gesso edit.
 

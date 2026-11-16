@@ -214,9 +214,9 @@ He was quiet a moment, and his hand found her hair and pushed it back off her fa
 
 "Anything else you want to tell me?" he said. "About Randi."
 
-She had her answer before he'd finished the question, and it came up out of the rule she'd lived by so long she'd never once had to say it out loud: it wasn't the doing that made you a cheat, it was the keeping of it — the lie in the dark, the phone turned face-down, the thing carried around behind your teeth where no one could reach it. And she didn't do that. She was here, wasn't she, at one in the morning, handing him every piece of it. She never kept anything from him.
+She had her answer before he'd finished the question.
 
-And yet there they were. The goodbye kisses, dozens of them, and they had never been the cheek, not even the first; she had leaned across the gearshift for the cheek and Randi's hand had taken her jaw and Randi had given her the mouth, and every one since had grown to be soft, and long, and had never quite ended where it seemed to: Randi's mouth easing back without ever leaving hers, the kiss opening, and then Randi taking more of it, the second press, not waiting to be given it. Pace left her room to come back to him. Randi never had. She had called that Randi being Randi. Now she could see she had taken that tenderness entirely wrong. And her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved.
+And yet there they were. The goodbye kisses, dozens of them, and they had never been the cheek, not even the first; she had leaned across the gearshift for the cheek and Randi's hand had taken her jaw and Randi had given her the mouth, and every one since had grown to be soft, and long, and had never quite ended where it seemed to: Randi's mouth easing back without ever leaving hers, the kiss opening, and then Randi taking more of it, the second press, not waiting to be given it. That was Randi being Randi, how she'd learned to say goodbye in Switzerland. It was. And since the dancefloor it was something else too, and she kept trying to put it back. And her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved.
 
 That was what he was asking about. She knew it.
 
@@ -224,7 +224,7 @@ She held the two of them a moment, with the lamp on and in his face only the gen
 
 "No," she said. "Nothing."
 
-It came out level, and it was a lie, and it was the first one she had ever told him. It went down into her and sat there, cold, under all the rest of it.
+It came out level, and it was a lie, and it was the first one she had ever told him. It wasn't the doing that made you a cheat. It was the keeping of it. It went down into her and sat there, cold, under all the rest of it.
 
 And then, too late, the lot at the roadhouse. Randi's mouth on hers on the blacktop, the small second press, and Pace three steps off by the truck. She hadn't been watching him. He'd been too close not to see. She had just told him there was nothing, and he had seen one with his own eyes. The guilt came up hot under her ribs, and inside it, small and bright, a thrill she could not account for.
 

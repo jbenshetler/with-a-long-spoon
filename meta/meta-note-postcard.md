@@ -112,7 +112,7 @@ One source leads per movement; do not route everything through (1) (`meta-craft-
 
 ## Cross-refs
 
-- {{Boyfriend}} — the register and the extraction grammar; the concealed masturbation this chapter repeats and catches (`boyfriend.md:217`).
+- {{Boyfriend}} — the register and the extraction grammar; the concealed masturbation this chapter repeats and catches (`boyfriend.md:219`).
 - {{Grace}} — installs the Telling; the finger-sucking returns here as an interrogation instrument.
 - {{All the Time}} — the turned-around phone, given to Randi; reversed here.
 - {{Claim}} — the green sheets; desecration pre-loads {{In Her Place}}'s color war.
