@@ -104,8 +104,6 @@ A breath's width remained. She held there until her lungs began to hurt, fingers
 
 She could not close the distance.
 
-Her hand dropped to the sheet beside her hip. She pressed her fingers down and wiped them in one back-and-forth motion, leaving a damp patch at her side.
-
 Vee shut her eyes.
 
 She put her hand back between her legs.
@@ -124,7 +122,7 @@ Vee opened her eyes.
 
 Cassie would be back from the game. Not yet, but back—and the room held everything. The heat, the sweat, the close sweet trace of her body. It had nowhere to go. She lay there another moment, spent and unwilling, then made herself sit up.
 
-Her hand was wet again. She pressed it to the same place and wiped once, back and forth.
+Her hand was wet. She pressed it to the sheet beside her hip and wiped it, back and forth.
 
 She drew the flannel closed and buttoned it. The enormous flannel covered her at once, respectable to mid-thigh.
 
