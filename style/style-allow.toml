@@ -928,6 +928,13 @@ text = "The place was in town, a narrow brick storefront she'd seen a hundred ti
 note = "Author-directed wording ('seen a hundred times and never registered') — Vee's own perception of a venue, not the retired Pace/Randi filing frame; pun on the barroom register welcome. Authorized 2026-08-06."
 
 [[ok]]
+fp   = "9a0b8b772c2d"
+rule = "filter-verbs"
+file = "scenes/back.md"
+text = "And I watched him fold.\""
+note = "Vee's eyewitness claim in dialogue; filter verb is the point (author 2026-11-15)"
+
+[[ok]]
 fp   = "d519555dd64b"
 rule = "gold-light"
 file = "scenes/back.md"
