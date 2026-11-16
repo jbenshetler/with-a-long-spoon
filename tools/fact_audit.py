@@ -56,18 +56,46 @@ import volume_scenes  # noqa: E402
 
 AUDIT_ROOT = REPO / "audits" / "fact-audit"
 PROMPTS = AUDIT_ROOT / "prompts"
+META = REPO / "meta"
+
+# Two lanes share this harness. "fact" is the original pass. "statements"
+# (--statements, author ruling 2026-11-15) tracks what characters SAY, to whom,
+# against what the narration shows — kept in its own ledger and report
+# directory so the fact ledger, its reports and the author's rulings on them
+# are never touched by it. Opt-in and per-edit: no backlog sweep.
+LANES = {
+    "fact": {"system": "system", "ledger": "ledger", "check": "check",
+             "ledger_file": "ledger-vol{v}.md", "report_dir": "",
+             "required": ("People", "Vehicles"),
+             "ledger_title": "Fact ledger", "report_title": "Fact audit"},
+    "statements": {"system": "statements-system", "ledger": "statements-ledger",
+                   "check": "statements-check",
+                   "ledger_file": "statements-vol{v}.md", "report_dir": "statements",
+                   "required": ("SAID",),
+                   "ledger_title": "Statements ledger",
+                   "report_title": "Statement audit"},
+}
 
 
 def out_dir(model_id: str) -> Path:
     return AUDIT_ROOT / model_id
 
 
-def ledger_path(model_id: str, volume: int) -> Path:
-    return out_dir(model_id) / f"ledger-vol{volume}.md"
+def ledger_path(model_id: str, volume: int, lane: str = "fact") -> Path:
+    return out_dir(model_id) / LANES[lane]["ledger_file"].format(v=volume)
 
 
-def report_path(model_id: str, slug: str) -> Path:
-    return out_dir(model_id) / f"{slug}.md"
+def report_path(model_id: str, slug: str, lane: str = "fact") -> Path:
+    sub = LANES[lane]["report_dir"]
+    return (out_dir(model_id) / sub if sub else out_dir(model_id)) / f"{slug}.md"
+
+
+def chapter_rulings(slug: str) -> str:
+    """The chapter's triage doc, so a shift the author already ruled is marked
+    ALREADY RULED instead of resurfacing. Rulings on a statement shift go in
+    the triage doc of the chapter where the shift is reported."""
+    p = META / f"meta-triage-{slug}.md"
+    return p.read_text(encoding="utf-8") if p.exists() else "(none recorded)"
 
 
 def volume_prose(volume: int) -> str:
@@ -154,7 +182,7 @@ def recover_from_work(cwd: Path, required: tuple[str, ...]) -> str | None:
     return best
 
 
-def make_agent(model: str, effort: str, cwd: Path | None = None):
+def make_agent(model: str, effort: str, cwd: Path | None = None, lane: str = "fact"):
     """Dispatch to the right lane by model id.
 
     Three vendors are wired so the ledgers are genuinely independent —
@@ -166,7 +194,7 @@ def make_agent(model: str, effort: str, cwd: Path | None = None):
       else       codex subscription (gpt-5.6-sol, gpt-5.5)
     """
     import cold_read
-    system = load_prompt("system")
+    system = load_prompt(LANES[lane]["system"])
     if model.startswith("claude-"):
         if cwd is None:
             raise SystemExit("claude lane needs a working directory")
@@ -214,18 +242,21 @@ def preflight(model: str, prompt_chars: int, label: str) -> None:
           file=sys.stderr)
 
 
-def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
-    path = ledger_path(model_id, volume)
+def build_ledger(model: str, model_id: str, volume: int, effort: str,
+                 lane: str = "fact") -> str:
+    cfg = LANES[lane]
+    path = ledger_path(model_id, volume, lane)
     path.parent.mkdir(parents=True, exist_ok=True)
     prose = volume_prose(volume)
     print(f"[ledger] volume {volume} · {len(prose):,} chars "
           f"(~{len(prose)//4:,} tokens) · {model}", file=sys.stderr)
-    preflight(model, len(prose), f"ledger-vol{volume}")
-    cwd = work_dir(model_id, f"ledger-vol{volume}")
-    agent_fn, close = make_agent(model, effort, cwd)
+    tag = f"{lane}-ledger-vol{volume}" if lane != "fact" else f"ledger-vol{volume}"
+    preflight(model, len(prose), tag)
+    cwd = work_dir(model_id, tag)
+    agent_fn, close = make_agent(model, effort, cwd, lane)
     try:
-        r = agent_fn(prompt=load_prompt("ledger").replace("{{PROSE}}", prose),
-                     model=model, label=f"ledger-vol{volume}")
+        r = agent_fn(prompt=load_prompt(cfg["ledger"]).replace("{{PROSE}}", prose),
+                     model=model, label=tag)
     finally:
         close()
     body = (r.get("output") or "").strip()
@@ -234,7 +265,7 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
     # the artifact is lost. Length alone does not catch it — the summary is
     # prose of respectable length — so check for the structure a ledger must
     # have (claude-opus-5, 2026-09-19).
-    required = ("People", "Vehicles")
+    required = cfg["required"]
     # Always keep the raw reply — nothing a paid or slow call produced should
     # be discarded because validation rejected it.
     (cwd / "raw-response.md").write_text(body, encoding="utf-8")
@@ -265,7 +296,7 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
                 + "\n  If reasoning consumed the budget, retry with a lower --effort."
             )
     path.write_text(
-        f"# Fact ledger — Volume {volume}\n\n*model: {model} · "
+        f"# {cfg['ledger_title']} — Volume {volume}\n\n*model: {model} · "
         f"{date.today().isoformat()} · derived from prose only*\n\n---\n\n{body}\n",
         encoding="utf-8")
     print(f"[ledger] wrote {path}", file=sys.stderr)
@@ -273,15 +304,16 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
 
 
 def check_chapter(agent_fn, model: str, model_id: str, slug: str, n: int,
-                  ledger: str) -> Path:
+                  ledger: str, lane: str = "fact") -> Path:
     """Reports are short, so no recovery path is needed here — but the raw
     reply is still kept beside the report for the same reason."""
-    prompt = (load_prompt("check")
+    prompt = (load_prompt(LANES[lane]["check"])
               .replace("{{LEDGER}}", ledger)
+              .replace("{{RULINGS}}", chapter_rulings(slug))
               .replace("{{CHAPTER}}", chapter_block(slug, n)))
-    r = agent_fn(prompt=prompt, model=model, label=f"fact-{slug}")
+    r = agent_fn(prompt=prompt, model=model, label=f"{lane}-{slug}")
     body = (r.get("output") or "").strip()
-    p = report_path(model_id, slug)
+    p = report_path(model_id, slug, lane)
     p.parent.mkdir(parents=True, exist_ok=True)
     # Record what was actually audited, so a later prose edit makes the report
     # verifiably stale rather than silently so (the lesson from the cold-read
@@ -289,7 +321,7 @@ def check_chapter(agent_fn, model: str, model_id: str, slug: str, n: int,
     sha = hashlib.sha256(
         checkpoint_bundle.clean_scene_text(slug).encode()).hexdigest()[:12]
     p.write_text(
-        f"# Fact audit — {checkpoint_bundle.display_title(slug)}\n\n"
+        f"# {LANES[lane]['report_title']} — {checkpoint_bundle.display_title(slug)}\n\n"
         f"*model: {model} · ch{n:03d} · {date.today().isoformat()} · "
         f"prose-sha ~{sha}*\n\n---\n\n{body}\n",
         encoding="utf-8")
@@ -338,6 +370,9 @@ def main() -> None:
     ap.add_argument("--ledger-only", action="store_true")
     ap.add_argument("--rebuild-ledger", action="store_true")
     ap.add_argument("--fresh", action="store_true", help="redo existing reports")
+    ap.add_argument("--statements", action="store_true",
+                    help="statements lane: what characters SAY, to whom, vs what "
+                         "the narration shows; own ledger and reports, opt-in")
     ap.add_argument("--effort", default="high")
     ap.add_argument("--tally", nargs="+", metavar="MODEL",
                     help="count findings per chapter across models")
@@ -395,9 +430,10 @@ def resolve_volumes(volume: int | None, slugs: list[str] | None) -> list[tuple[i
 
 
 def run_volume(args, model_id: str, volume: int, slugs: list[str] | None) -> None:
-    lp = ledger_path(model_id, volume)
+    lane = "statements" if args.statements else "fact"
+    lp = ledger_path(model_id, volume, lane)
     if args.rebuild_ledger or not lp.exists():
-        ledger = build_ledger(args.model, model_id, volume, args.effort)
+        ledger = build_ledger(args.model, model_id, volume, args.effort, lane)
     else:
         ledger = checkpoint_bundle.checkpoint_body(lp.read_text(encoding="utf-8"))
         print(f"[ledger] reusing {lp}", file=sys.stderr)
@@ -408,18 +444,19 @@ def run_volume(args, model_id: str, volume: int, slugs: list[str] | None) -> Non
     numbered = {s: i for i, s in enumerate(vol, 1)}
     targets = [s for s in vol if (not slugs or s in slugs)]
     if not args.fresh:
-        targets = [s for s in targets if not report_path(model_id, s).exists()]
+        targets = [s for s in targets if not report_path(model_id, s, lane).exists()]
     if not targets:
         print("[check] nothing to do", file=sys.stderr)
         return
 
-    print(f"[check] {len(targets)} chapter(s) · {args.model}", file=sys.stderr)
+    print(f"[check] {len(targets)} chapter(s) · {lane} · {args.model}", file=sys.stderr)
     agent_fn, close = make_agent(args.model, args.effort,
-                                 work_dir(model_id, "check"))
+                                 work_dir(model_id, "check" if lane == "fact" else f"{lane}-check"),
+                                 lane)
     try:
         for slug in targets:
             p = check_chapter(agent_fn, args.model, model_id, slug,
-                              numbered[slug], ledger)
+                              numbered[slug], ledger, lane)
             print(f"  {slug} -> {p}", file=sys.stderr)
     finally:
         close()

@@ -35,6 +35,8 @@ Per-edit check of merged `fed` completed on gpt-5.6-sol against a new Volume One
 
 Per-edit check 2026-11-15 (gpt-5.6-sol, **fresh Volume Three ledger**) of the four chapters edited in the Between pass — `between`, `barely-stings` (first audit), `still-life`, `clean-plate`: **no new contradictions**. Only `still-life:461` re-flagged (HIGH), already settled 2026-11-08 in `meta-triage-still-life.md`. Ledger gap noted: the ledger does not record characters' own statements, so it missed `hangover.md`'s "I liked it, honestly" against `between.md`'s "Not my thing" (a designed lie, harmless here). Vol 1–2 ledgers were also rebuilt (a scoping slip; harmless). `fact_audit.py` now infers the volume from `--slugs` via `meta/meta-volumes.toml`.
 
+Statements lane built 2026-11-15 (`--statements`; prompts `statements-*.md`). First run, gpt-5.6-sol, Volume Three statements ledger (~12k chars beside the 48k fact ledger) + `between`: the known pair came back as designed — "No. Not my thing" (Vee → Randi) against "I liked it, honestly" (Vee → Pace, `hangover.md`), AUDIENCE different, READING designed, ALREADY RULED (Between triage). No drift. Per-edit, opt-in; no backlog sweep (author ruling).
+
 ### Reset history — 2026-10-09
 
 **The lane was dumped and will be regenerated when the author is ready to run

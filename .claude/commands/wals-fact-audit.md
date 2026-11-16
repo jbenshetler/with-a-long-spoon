@@ -55,6 +55,17 @@ that file just works; chapters in different volumes get one ledger each. An
 explicit `--volume` that doesn't hold a named chapter exits with the right
 volume named, never "nothing to do".
 
+**Statements lane (`--statements`, author ruling 2026-11-15).** A separate,
+opt-in lane for what characters SAY, to whom, against what the narration
+shows: `tools/fact_audit.py --statements --model gpt-5.6-sol --slugs <slug>`.
+Own ledger (`<model>/statements-vol<N>.md`) and reports
+(`<model>/statements/<slug>.md`); the fact ledger, fact reports and rulings on
+them are never touched. Each shift is reported with both quotes, the AUDIENCE
+(same/different listener) and a READING (DESIGNED / DRIFT / UNCLEAR); the
+chapter's `meta-triage-<slug>.md` is fed in, so a ruled shift comes back
+ALREADY RULED. **Per-edit only — no backlog sweep.** Run it on the chapters you
+just edited; rule only DRIFT/UNCLEAR items, in that chapter's triage doc.
+
 Restartable: existing reports are skipped unless `--fresh`. The ledger is
 reused unless `--rebuild-ledger`. Each report records a `prose-sha`, so a
 later edit makes it **verifiably** stale rather than silently so.
