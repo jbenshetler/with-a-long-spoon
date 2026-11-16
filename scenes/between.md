@@ -40,7 +40,7 @@ So Vee went slower, and took her time with it, because the table was hers tonigh
 
 Randi's whole face opened. "*Gay.*"
 
-"She's out, and not quiet about it. She watched the bartender walk away from our table like a woman watching a parade."
+"She's out, and not quiet about it. She watched the bartender walk away from our table like dessert going back to the kitchen."
 
 "God." Randi sat back into the corner of the booth and put a hand over her mouth and laughed into it, and then took the hand down. Under the table her foot, out of its shoe, had come to rest along Vee's calf, and it stayed there through the rest of it. "A month. You gave that girl a month of your life, and the entire time—"
 
@@ -56,10 +56,6 @@ Then the other part came up in her, and she went slower with it, because it wasn
 
 Saying it out loud did something to her that hearing it hadn't. Vee took a drink she hadn't wanted and set the glass down and let her face do what it was doing. *That man.* Hers.
 
-It went on like that for a while, and Vee spent all of it, everything she had, because there was no floor to this and never had been; Randi turned each piece of it in the light until she'd found where it was best, and handed it back improved. And it was the best kind of telling, the kind where you keep finding one more thing you'd forgotten you had.
-
-Which is how she got to the last of it without deciding to.
-
 "She looked at me," Vee said.
 
 "Course she did."
@@ -72,7 +68,7 @@ Which is how she got to the last of it without deciding to.
 
 "Mm," Randi said. Her eyes came up and settled on Vee's and stayed. "No complaints there."
 
-Vee made it about a second before the giggle got her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself. Wouldn't have had him gift-wrapped." The grin got away from her. "Me, she'd have unwrapped right there on the floor."
+Vee made it about a second before the giggle got her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there. She never graded me at all, Randi. She was enjoying herself. Wouldn't have had him gift-wrapped." The grin got away from her. "Me, she'd have unwrapped right there on the floor."
 
 Randi's thumb stopped on the back of Vee's hand.
 
@@ -88,7 +84,7 @@ Vee got her wine and drank some of it, and put it down, and the answer came out 
 
 Too fast. She patched it, smaller. "No. Not my thing."
 
-And Randi didn't move. Didn't reach, didn't laugh, didn't fill it — and that wasn't like her, and Vee sat looking at the not-moving and did the only arithmetic she had for it. She thought: *she's still worried.* Two weeks after talking her down off a ledge she'd built herself, Randi was still standing guard at the bottom of it, still ready to go a round with a woman on Vee's behalf, and had heard one sentence about that woman's eyes and gone right back to her post.
+And Randi didn't move. Didn't reach, didn't laugh, didn't fill it — and that wasn't like her, and Vee sat looking at the not-moving. She thought: *she's still worried.* Two weeks after talking her down off a ledge she'd built herself, Randi was still standing guard at the bottom of it, still ready to go a round with a woman on Vee's behalf, and had heard one sentence about that woman's eyes and gone right back to her post.
 
 Something went through Vee, warm and low, at being looked after that hard by somebody who had better things to do.
 
@@ -99,8 +95,6 @@ And Randi's thumb took up where it had left off, and went on over the knuckles, 
 "I know she isn't, gorgeous," she said.
 
 —
-
-The other thing she'd brought, she'd been saving for the end on purpose, because it was the one she actually needed.
 
 "He asked me for something."
 
@@ -128,9 +122,9 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 "Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."
 
-"Pace has his surprise Friday night." Vee grinned. "And I've got mine." She leaned in over the cloth and dropped her voice. "He always makes me come first. Always. Friday, I'm making him come first. With my mouth, before he gets to do one single thing about it."
+"Pace has his surprise Friday night." Vee grinned. "And I've got mine." She leaned in over the cloth and dropped her voice. "He always makes me come first. Always. Friday, I'm making him come first. With my mouth, before he gets to do one single thing about it." Under the table her heel had started going.
 
-"*That's my girl!*" And they were both laughing, Randi's head going back against the booth, and when it came down again her eyes had gone to Vee's mouth and come back. "Nothing I love more than a date who takes care of me first."
+"*That's my girl!*" And they were both laughing, Randi's head going back against the booth. "Nothing I love more than a date who takes care of me first."
 
 Vee lifted her glass to that. Randi touched hers to it.
 

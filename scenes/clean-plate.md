@@ -192,7 +192,7 @@ Randi's mouth curved.
 
 "I'd made it. I got up out of my chair and walked out of the kitchen. Didn't say a word, didn't look back."
 
-"*Naked,*" Randi said, sitting up like a woman at a parade. "The pleasure princess. Processing to her chambers, bare as the day — and the slave *follows —*"
+"*Naked,*" Randi said, sitting up. "The pleasure princess. Processing to her chambers, bare as the day — and the slave *follows —*"
 
 "The slave followed," Vee confirmed, gone regal to match her. "I heard the water shut off behind me, and the towel hit the counter, and then his tread."
 

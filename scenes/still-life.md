@@ -94,7 +94,7 @@ He drew her close between his knees. His mouth found one breast, then the other,
 
 At the new bareness he breathed another astonished "wow" against her skin.
 
-The word warmed her before his mouth did. Then his lips began: the high smooth mound first, soft slow kisses laid one beside another, learning what his cheek and mouth had never met without hair between. He turned his face into her and breathed her in. She felt herself everywhere his breath went. His lips traveled lower along one side, crossed, returned along the other. The whole three nights of dread and the bright room and the stranger's cold hands were being answered one kiss at a time.
+The word warmed her before his mouth did. Then his lips began: the high smooth mound first, soft slow kisses laid one beside another, learning what his cheek and mouth had never met without hair between. He turned his face into her and breathed her in. She felt herself everywhere his breath went. His lips traveled lower along one side, crossed, returned along the other. The whole three nights of nerves and the bright room and the stranger's cold hands were being answered one kiss at a time.
 
 His mouth skimmed the beginning of her seam.
 

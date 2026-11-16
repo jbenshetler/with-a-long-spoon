@@ -1215,6 +1215,13 @@ text = "It came out ugly and she let it, because that was the whole of it, that 
 note = "re-arm after line-edit pass 2026-08-13; all four previously acked, flagged phrases untouched by the edits"
 
 [[ok]]
+fp   = "b0e69ae22538"
+rule = "filter-verbs"
+file = "scenes/between.md"
+text = "She watched the bartender walk away from our table like dessert going back to the kitchen.\""
+note = "Reported speech: Vee's report of Sheri's looking is the content (author 2026-11-15)"
+
+[[ok]]
 fp   = "bac08b2677b2"
 rule = "the-way"
 file = "scenes/between.md"
