@@ -54,7 +54,7 @@ Randi drew back an inch, reading her. "What's up?"
 
 "I don't want you to get what I'm coming down with." It came out ready; she'd built it somewhere on the walk without knowing she was building it.
 
-"Ugh." Randi huffed a laugh and let it go. "Keep your plague, then." But she didn't step out of the hug, and still holding her, she sighed it against Vee's hair: "I'll miss you Thursday, though. After class. Standards committee—" a martyr's groan "—I've got to go discipline a bad girl."
+"Ugh." Randi huffed a laugh and let it go. "Keep your plague, then." But she didn't step out of the hug, and still holding her, she sighed it against Vee's hair: "I'll miss you Thursday, though. After class. Standards committee—" a martyr's groan "—somebody's been a bad girl."
 
 Vee turned her face away — some reflex, a looking-off at nothing — and that was when Randi's mouth found the side of her neck, soft, a wet bloom of heat right where the neck goes down into the shoulder, the exact place she'd put her own mouth twice and been told not to weaponize. The goosebumps went out over her in a sheet. A sound got out of her before she could catch it, and she came off the lips and out of the hug all at once.
 
