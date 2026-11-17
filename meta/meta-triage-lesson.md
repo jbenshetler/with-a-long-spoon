@@ -48,8 +48,9 @@ is functional/thin = correct POV behavior" ruling is *augmented*, not contradict
   reversal being "almost too clean / conveniently has the exact info." All let it go
   ("earned its keep," "didn't feel cheap"). **By design:** that slight over-cleanness
   *is* the manufactured-specialness "wasn't him they were jealous of" — the false
-  comfort **Sheri detonates in {{The Usual}}** (`the-usual.md:87`, "that brunette
-  you brought dancing before Thanksgiving"). Softening it would blunt the payoff; the
+  comfort **Sheri detonates in {{The Usual}}** (`the-usual.md:91`, "that brunette
+  you brought dancing back at the start of November" — retimed 2026-11-17 from
+  "before Thanksgiving", which pointed past Randi's last visit on Nov 17). Softening it would blunt the payoff; the
   "as a rule" change was verified against that detonation and *tightens* it (no false
   absolute for Sheri to contradict).
 - The 2026-07-27 "blonde is functional/thin = correct POV behavior" ruling stands;

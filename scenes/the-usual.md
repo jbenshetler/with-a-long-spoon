@@ -88,7 +88,7 @@ There was nothing in it to argue with. Outside, the dark had come all the way do
 
 She reached over, stole a fistful of his fries, and ate them.
 
-"Anyhow." She waved a fry, closing the folder. "That brunette you brought dancing before Thanksgiving — the sorority one. Easy on the eye, I'll give her that." A pull at the straw. "Bet she's a lot, though."
+"Anyhow." She waved a fry, closing the folder. "That brunette you brought dancing back at the start of November — the sorority one. Easy on the eye, I'll give her that." A pull at the straw. "Bet she's a lot, though."
 
 "You met her?"
 
