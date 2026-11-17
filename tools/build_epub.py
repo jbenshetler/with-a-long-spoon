@@ -92,7 +92,7 @@ PACKAGING = {
         # Jacket copy rewritten for the post-split spring, accepted 2026-10-23.
         "blurb_heading": "## Volume 3 blurb",
         "stem": "a-proper-serving",
-        "cover": "images/cover.png",
+        "cover": "images/a-proper-serving-cover-placeholder.png",
     },
     "summer": {
         # Jacket copy recorded 2026-10-23.
@@ -693,8 +693,8 @@ def main():
     ap.add_argument("--scenes", type=Path, default=root / "scenes")
     ap.add_argument("--cover", type=Path, default=None,
                     help="cover image (default: the volume's cover — "
-                         "images/cover.png for Vol 1, the Vol 2 placeholder "
-                         "for Vol 2; falls back to images/cover.png if the "
+                         "images/cover.png for Vol 1, the Vol 2/3 placeholders "
+                         "for Vol 2/3; falls back to images/cover.png if the "
                          "volume's cover is absent)")
     ap.add_argument("-o", "--out", type=Path, default=None,
                     help="output path (default: build/a-polite-invitation.epub, "
