@@ -192,4 +192,58 @@ The word went through her almost worse than the burn. She told him she could tak
 
 And he brought her down without taking his hands away; that would have been easier to bear. He kept them on her and changed what they did. The hands that had drawn the fire up flattened and held it where it was, banking the heat under his palms instead of working it higher. His arms held her ribs against him when her body tried to lift. His thigh came forward against hers, not between them, only enough to give her nowhere to spend the motion. Some furious part of her hated him for the gentleness of it, for knowing to the exact degree how much to leave her and what to take away. The climb loosened one notch at a time, never gone, only made unusable, and he gave her nothing to do with any of it — no finish, no service, no way in the world to spend it — nothing but to be held there burning and take it. The sound she made then was pure complaint, helpless, almost a laugh and almost not, and he held her through it and did not give it to her, because he could not, and the wanting had to stay in her and keep.
 
-Later, the balm would spend itself. The skin would cool. The ache in her neck would settle into its own dull argument. But the other thing stayed lit under all of it, low and private, as if his hands were still there. She carried home the places he had not finished touching.
+***
+
+He put her to bed with nothing on top. The balm was still alive on her, and there was no shirt she could have borne against it, and no lifting the arm into one anyway. He got her into a pair of his sweatpants instead, crouching to hold them open so she could step in without bending, and rolled the waist down three times for her, as she always rolled it herself.
+
+Then he laid her down. One hand went flat between her shoulder blades and the other cupped the back of her skull, and he took the whole weight of her down to the mattress so that her neck never had to carry any of it. He moved the pillow away. A hand towel, rolled tight, went in under the curve of her neck, and she felt the hollow there fill and her head settle level, nothing tipping it forward. A pillow came in against one side of her head and another against the other, close, and her head stopped trying to hold itself up. Then he lifted her legs at the knee and slid a third pillow under them, and her hips bent, and all down her back something let go that she hadn't known was holding on.
+
+"Don't fuss," she told the ceiling. "It's just a pull."
+
+He bent and kissed her forehead.
+
+He drew the sheet to her waist and no higher. He turned the lamp off and lay down on the far side of the bed, careful of the mattress, and when she woke in the night his hand was on the sheet beside her hip — not on her, only there.
+
+She lay a long time before that with her breasts bare to the dark and the balm still faintly alive on them, held still as he'd made her, and the places he had not finished touching would not let her sleep.
+
+***
+
+In the morning the burn had gone off her skin and the neck was a stiff dull thing, better and not good. He pulled off the sweatshirt he had on, gray and gone soft at the cuffs, and gathered it wide and put it over her head slow, the hurt arm first this time, easing it through. It came to the middle of her thighs, and it still had him in it. Then he rolled a bath towel lengthwise and laid it around her neck and crossed the ends under her chin, and her head sat up on it so she didn't have to hold it.
+
+"I look like a horse," she said.
+
+"Neigh," he said, soft and grave, and the laugh got out of her before she could stop it and went straight into her neck.
+
+"Pace. I'm fine. You don't have to—"
+
+He kissed her, small, on the lips, and tucked the ends of the towel down inside the neck of the sweatshirt.
+
+She let him. Something in her chest went warm and stupid and stayed that way.
+
+He put her on the couch in the den with her back braced against the arm, under the blanket from the chair. Then he picked up a remote she had never once seen him touch and turned on the TV.
+
+She stared at it. "It works."
+
+"It works." He put the remote in her hand.
+
+She knew how he was about commercials. She turned the remote over. "Do you mind if I pay for something?"
+
+"Whatever you want."
+
+He went back to the kitchen, and she found a romantic comedy she'd seen four times and rented it, and lay with it going and listened to him cook under it: the knife on the board, the pot, a long quiet while something simmered, and then the smell coming through to her, onion and thyme and something rich under them.
+
+"That smells good," she called. "What are you making?"
+
+"Chicken and dumplings."
+
+It sounded exactly right. He brought it to her in a bowl with the spoon already in it, and black tea with honey, and got a cushion behind her back so she wouldn't have to bend her neck to eat. It was the best thing she had ever put in her mouth on a Sunday and she told him so, and he looked pleased and pretended not to.
+
+After it she rented another. He sat at the far end of the couch with her feet up in his lap, cocooned in a pair of his thick wool socks, and a book open on his knee, and she didn't think he turned a page. When she laughed she caught him watching her laugh, and he didn't look away.
+
+Somewhere in the second one she thought of Randi. Whatever the sorority thing had been, it would be over by now. Randi would be home with her shoes kicked off, or still out somewhere, laughing at somebody's joke. Vee didn't know which. She hadn't texted to ask. Her phone was on the side table, and she looked at it, and left it there.
+
+"Rub my feet?"
+
+He laid the book face down on the arm of the couch. His hand closed around her foot under the blanket, and his thumb went back and forth along the arch through the wool, and every pass of it went all the way up her.
+
+By five the windows had gone blue. She had an early class, and if she stayed the night she'd be doing the highway in the dark with her hair wet and her notes back at the dorm. She said she should go. She said it again when the second movie ended, and didn't move. She lay there in his sweatshirt, in his towel, under his blanket, fed and looked after, and wanted him so much she could hardly follow the screen. In a minute she would go.
