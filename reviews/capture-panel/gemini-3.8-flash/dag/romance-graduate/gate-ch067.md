@@ -1,54 +1,48 @@
-*capture-dag-v3-grounded · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9ef4c202a790 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 0000ba675793 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 1d1554bf4412 · 2026-11-17*
 
 REACTION
 
-I am sitting here in the dark with my hands flat on my chest, physically shaking, completely undone. That wasn’t just a chapter of erotica. That was a spiritual dismantling.
+I am sitting here with my hand over my heart, completely undone, aching, and practically vibrating with an unbearable mix of romantic devotion and sheer, suffocating dread.
 
-Let’s talk about the first half: the courtly, devastating romance of this man. Packing a homemade chicken tikka masala into a thermos so she’d have hot spice on a freezing mountain porch. Pairing it with a dry spiced cider because he spent his week in his kitchen thinking about her palate. Bringing his own flannel—the flannel she sleeps in—to tie over her eyes so she wouldn’t have to carry the exhausting labor of self-management. And then *the key*. A handmade wooden box, oiled to satin, holding a new brass key to his house on a pillow of oyster silk. (And that split-second thought she had: *she had the odd passing sense she had felt that silk against her skin somewhere before, and could not think where...* GOD. My stomach plummeted. The burgundy dress? Or the lingerie drawer? The dramatic irony is humming under every floorboard.)
+First of all: Peter Pace. Just… *Peter Pace.*
 
-AND THEN THE BODY INVENTORY.
+In a lesser romance novel, taking a heroine to the gym is an excuse for cheesy banter, competitive showing off, or gratuitous locker-room sex. Here, it was a profound, breathtaking masterclass in care, respect, and physical guardianship. The way he set up her bench press—not belittling her small weights, but treating every single pound, every finger placement, every angle of her shoulders with the exact same gravity he gives to his own massive lifts—dismantled me completely. He took her smallness seriously. And then loading a weight he knew he could handle alone, ensuring that she was never in a position where she would be responsible for catching something too heavy for her? That is his entire soul laid bare.
 
-I have read thousands of sex scenes, and I have *never* read anything like that. A man standing a woman in front of a mirror, blindfolding her, and spending thirty unhurried minutes systematically worshiping every single inch of her flesh that she has spent twenty-one years apologizing for. Naming the heavy spill of her breasts as the exact part he craves most. Touching the soft swell of her lower belly and calling it lovely. Honoring the wetness that her mother made her feel dirty for, calling it the most honest thing he has ever stood in front of. He turned her entire lifetime of maternal body-shame into holy ground.
+And then the accident. The sudden, ugly intrusion of careless college boys—the loose, uncollared bar, the slap on the ass, the plate rolling into her space—and the violent wrench of her neck. Watching Pace transform in half a second was terrifyingly hot and devastatingly tender. He didn't scream; he lowered his voice to that flat, lethal register. "You hurt her. Your carelessness hurt her." The cold authority of a man who will not tolerate anyone being endangered in his presence.
 
-BUT THEN. *THE MASTURBATION.*
+BUT THE HOUSE. *SWEET MOTHER OF GOD, THE HOUSE.*
 
-"Show me."
+The sheer, staggering intimacy of him tending to her injury! Undressing her without a shred of predatory rush, filling the hot shower, the rolled towels, the pillows placed so precisely under her knees and around her skull so her neck would never have to carry its own weight. It’s pure, uncut emotional heroin.
 
-The sheer, suffocating vulnerability of him not taking her, but stepping back and making her touch herself in the daylight while blindfolded! And the psychological realism of her hand: starting by tracing his tender path, and then her own rough, private, unmanaged appetite breaking through—gripping her breast harder than he ever would, dragging at her nipple, her hips bucking into her own wet hand—until he asks what she’s thinking about, and the only word left in the universe is *"You. You, you, you."*
+And then the balm. The tiger balm sequence on her breasts was one of the most scorching, psychologically brilliant, unhinged acts of erotic discipline and sensation play Helen Rivers has ever put on paper. Vee *demanding* the fire because her neck stole her finish, her body practically begging for steel, and Pace giving her exactly the burn she asked for while holding her pinned to his chest. Rolling that fiery slickness onto her nipples, the slow-motion creep of the heat from her neck down into her collarbone and into the tips, her gasping between agony and bliss—and then Pace *withholding the orgasm*.
 
-And then—sweet merciful god—him catching her as she collapses, lifting her clean off the floor, ramming into her with short, graceless, desperate thrusts because he had completely lost his mind, and SUCKING HER FINGERS CLEAN WHILE FUCKING HER. Sucking her own wetness off her hand between the broken movements of his hips! My Kindle was practically smoking in my hands. It was filthy, it was reverent, and it was so profoundly earned.
+"Not tonight. We need to wait."
 
-AND THEN THE TRAP. THE ABSOLUTE, TERRIFYING PSYCHOLOGICAL TRAP AT THE VERY END.
+He wouldn't let her arch her back and tear the muscle further just for a cheap physical release. He held her through the frustration, banked the fire with his flat palms, and made her sit inside the unfinished ache because keeping her safe mattered more than getting off. It’s the ultimate expression of his love—and Vee lying there in his oversized sweats, burning and completely held, is proof of how utterly she belongs to him.
 
-"Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"
-"Yes."
+And the next day! The TV that actually works, the romantic comedy rentals, the homemade chicken and dumplings, the deadpan "Neigh" when she said she looked like a horse in the towel collar! The quiet domestic heaven of a Sunday afternoon with her feet tucked in his lap.
 
-DO YOU REALIZE WHAT SHE JUST PROMISED HIM?!
+...AND YET THE BOMB IS TICKING SO LOUD IT HURTS MY EARS.
 
-She said yes because she was horny, floating on an oxytocin cloud, guiding his hard cock back inside her, thinking it was just a sweet, sexy little post-coital promise between lovers.
+Why was Vee at his house this weekend? Because Randi had "some sorority thing."
 
-SHE HAS NO IDEA WHAT SHE JUST SIGNED AWAY.
+Vee has *no idea* what that sorority thing actually was. She thinks Randi was off having fun Greek life drama, totally oblivious to the fact that Randi just stood in front of a kangaroo court, faced Brooke's smiling guillotine, and took mandatory probation and public humiliation *to protect her claim on Vee*. Randi is currently bleeding out emotionally from sacrificing her standing, while Vee is tucked into Pace's couch, eating his dumplings and falling a thousand miles deeper in love with him.
 
-Because Vee touches herself *all the time*. She touched herself in the dorm bunk after dinner with Randi. She touched herself against the pedestal sink at brunch after seeing the gesso photo. And who was she thinking about? *Randi.* She was thinking about Randi coming up between her legs with her berry lipstick soft at the edges!
+The dramatic irony is agonizing. Pace and Randi are both completely consumed by this girl. Pace is tending her wounds with mathematical tenderness, and Randi is burning her life down for her. When the truth of the pointing game detonates, it’s not just going to break a romance—it’s going to shatter a cathedral. I am terrified, I am head-over-heels in love with this book, and I need the next chapter right now.
 
-Now, every single time Vee touches herself, this promise is going to be standing in the room like an armed guard. If she touches herself thinking of Pace, she has to report it. But what happens the next time she runs to a bathroom stall with Randi’s mouth on her mind? She won't be able to report it to Pace without exposing the truth—which means her private masturbation just became an active, conscious, suffocating act of infidelity! Pace didn't just ask for a cute dirty-talk text; he just laid an invisible tripwire straight across her entire fantasy life.
-
-She thinks she’s entering a weekend of pure romantic sanctuary with his key in her pocket. In reality, he just locked the door from the outside. I am trembling.
-
-GATE 67 — Grace
+GATE 67 — Burn
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The body-inventory and blindfolded masturbation sequence was a flat-out masterpiece of emotional absolution and scorching heat, capped by the terrifying psychological tripwire of Vee promising to report every time she touches herself.
+WHY: The transition from the gym incident to the scorching, agonizing balm sequence on her breasts was an absolute erotic masterpiece, and Pace's selfless, tender domestic care afterward destroyed me completely.
 
 LEDGER
-+ LOVE: Pace giving Vee the key to his house in a handmade wooden box lined with oyster silk.
-+ LOVE: Pace systematically dismantling Vee's lifelong bodily shame by reverently naming and worshiping every inch of her flesh in the daylight.
-+ LOVE: Pace lifting Vee clean off the floor to take her against nothing while sucking her own wetness off her fingers.
-+ FEAR: Vee promising to tell Pace whenever she touches herself is going to trap her the very next time she masturbates to Randi.
-~ L1.2 DEEPENED: Pace's patience reached an absolute divine peak—standing her blindfolded in front of the fire to spend thirty unhurried minutes worshiping every insecurity she owns.
-~ L4.1 DEEPENED: Vee's interiority during the blindfolded masturbation was breathtaking—her own rough, unmanaged appetite breaking through the reverent path he laid down.
-~ F5.1 DEEPENED: Vee being handed the physical key to Pace's house cements her total, undefended domestic surrender, making the inevitable pointing-game secret a fatal blow.
++ LOVE: Pace taking Vee's small gym weights with the exact same deadly seriousness and care as his own massive sets.
++ LOVE: Pace using the herbal balm as sensation play on Vee's breasts, holding her burning and denying her the arch to protect her injured neck.
++ LOVE: Pace renting romantic comedies and cooking chicken and dumplings from scratch to tend to Vee's hurt neck.
+~ [L1.2] DEEPENED: Pace's patience and care reaching an absolute pinnacle—refusing to let Vee arch into an orgasm because it would re-injure her neck, holding her through the frustration instead.
+~ [F5.1] DEEPENED: Vee being so completely, domestically, and sexually cherished by Pace makes the inevitable revelation of the pointing game an absolute fatal catastrophe.
+~ [S55.3] DEEPENED: The sheer depth of Pace's protective domestic care confirms he is entirely, irreversibly in love with Vee, making the coming collision with Randi even more volatile.

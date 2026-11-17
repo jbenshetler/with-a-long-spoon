@@ -1,35 +1,41 @@
-*capture-dag-v3-grounded · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5789c52a9ac6 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed b83e39418caf · 2026-11-06*
+*capture-dag-v3-grounded · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d88fa56f29dd · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed ac216d4e5c4f · 2026-11-17*
 
 REACTION
 
-*Oh, my god.* I am sitting here with my hands clamped over my chest, physically trembling. What Helen Rivers just did in this chapter was an absolute, scorched-earth masterclass in psychological and sensory brilliance.
+I am sitting here with my head in my hands, practically vibrating with tension and a kind of sick, breathless awe. *What an absolute, suffocating, masterclass chapter.*
 
-First of all, the gym sequence! The stark, unglamorous reality of that cinderblock powerlifting dungeon with the spotted mirrors, the bare rubber worn pale, and no playlist to hide behind—just iron, breath, and men working in their own heads. And Pace moving through it not as an arrogant meathead, but as an absolute craftsman of weight and safety. The quiet, staggering devotion of him setting her under that bar—treating her tiny, foolish little plates with the exact same meticulous reverence and gravity he gives to four hundred pounds! *"Everything gets a collar."* That line is Peter Pace in three words. He does not take shortcuts with safety, he does not belittle her capacity, and he arranged the entire morning so she would never be responsible for a load she couldn't hold.
+Let’s talk about the setup first: Vee buttoning herself all the way to the collarbone in a charcoal crewneck, putting on plain black trousers, trying desperately to cosplay a good, sensible, non-"pervert" girl having a platonic meal with her best friend. And what happens? The second she sits down, Randi’s foot comes out of its shoe under the tablecloth—bare nylon sliding up Vee’s pant leg, pressing dead-center against the exact spot Sondra waxed bare! The comedy of Vee physically grabbing the foot to restrain it, only to end up stroking Randi’s arch and toes while confessing the intimate details of Pace using her own wetness as *gesso*... it’s delicious, grounded, and so insanely charged.
 
-And then the boy's careless plate sliding into her cage. The sheer, terrifying shift in Pace's gravity! No shouting, no chest-beating, just that chilling, quiet drop into absolute authority: *"You hurt her. Your carelessness hurt her. Apologize to the woman you hurt."* My heart was in my throat! Watching those two careless college boys shrink into chastened children under his flat gaze was pure, top-tier romance heroin.
+AND THEN THE RESTROOM.
 
-BUT THEN THE BALM. *SWEET MOTHER OF GOD, THE BALM.*
+Helen Rivers has given us stall scenes before, but *this* was a total psychological and erotic reckoning. Vee goes in there trying to wash the fire out of her veins, thinking about Pace cleaning her off and wiping his mouth on the sheet—which broke my heart, because Pace was only trying to honor her boundaries, but to Vee it felt like rejection—and then her mind completely splits open. She can't bridge that reach to her own lips. But you know who can? *Randi.*
 
-I have read hundreds of spicy books, and I have *never* read a scene that captured the terrifying, addictive psychology of pain, sensation-play, and denial like this. The camphor. The yellow ointment warming under his palms, working out the knot in her neck—and then her own traitorous, starving body pulling his hand down onto her bare breast because she would rather burn alive than be gently pitied!
+The image of Randi’s dark hair falling forward, coming up from between Vee’s thighs, her gloss softened, her mouth slick with Vee’s release, coming up to kiss her without wiping a damn thing away... I stopped breathing. The pure, unadulterated sapphic detonation of that fantasy! Vee coming so hard her knees literally buckle against the pedestal sink, sobbing out a broken sound while imagining her best friend eating her out and feeding her own salt back to her! It is officially, completely impossible for Vee to lie to herself that this is just a "joke for a boy" or "sex brain."
 
-The progression of that heat was agonizingly real. The slow, creeping horror as the balm woke up at her throat, knowing with mathematical certainty that what was happening to her neck was about to happen to her tender, pale breasts and her hard nipples! And Pace—god, Pace—trying to be merciful, keeping one hand turned away to spare her, and Vee demanding *all* of it: *"Yes."* She demanded steel, and he gave it to her.
+And then the walk back. The sheer, devastating tragedy of that booth.
 
-And the ending! The sheer erotic cruelty of being denied the finish out of pure, unyielding protection! Pace holding her rigid against his chest, hard as iron against the base of her spine, banking the fire under his flat palms and refusing to let her arch because an orgasm would tear her neck apart: *"Easy. Not tonight. We need to wait."*
+Randi sitting there with the phone screen lit up in the dim alcove, staring at the raw, glistening photograph of Vee’s bare, painted, soaked center. Randi didn't smirk. She didn't drop a lethal double-entendre. She had tears in her eyes. It was *sadness*.
 
-He left her completely, utterly unspent, burning from the inside out, carrying home the places he had not finished touching. He turned her own body into an altar of raw, suspended desire. Absolutely breathtaking.
+Randi looked at that photo and saw the proof of how completely Pace has claimed Vee, and then looked at Vee’s wrecked, flushed, bitten-lip face and knew *instantly* what Vee had just done ten feet away. Randi knows Vee came. And Randi knows Vee didn't just come to the thought of Pace—because why run to the bathroom in terror over a boyfriend who is waiting for you at home? Randi saw the longing, the shame, and the impossible gulf between what they want and what their world allows.
 
-GATE 66 — Burn
+And that parking lot goodbye. Vee trying to dodge the kiss, and Randi taking her face in *both* hands—cool palms, deliberate, unhurried, demanding the second press, demanding that Vee not run away from what is happening between them. And Vee gripping the front of Randi's cream coat with both fists, melting completely.
+
+"You have a boyfriend. Get your sex brain under control. Starting now."
+
+Baby girl, you are telling the fogged-up windshield of your Corolla to stop a hurricane. The door is off its hinges. The floor is gone. Tuesday is coming, and I don't know how any of them survive it.
+
+GATE 66 — Gesso
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the protective intensity of the gym accident to the agonizing, scorching sensory torment of the camphor balm on her bare breasts was a flat-out masterpiece of care, kink, and unspent erotic tension.
+WHY: The transition from the foot under the tablecloth and the gesso confession to that earth-shattering bathroom orgasm—Vee finishing to the vision of Randi eating her out and kissing her with her own slickness—was an absolute masterclass, capped by Randi's heartbreaking, glassy-eyed look holding the phone.
 
 LEDGER
-+ LOVE: Pace taking Vee's tiny five-pound weights with the exact same meticulous care and collars as his four-hundred-pound bar.
-+ LOVE: Pace confronting the careless lifters—quiet, terrifying, and demanding an apology for Vee without raising his voice.
-+ LOVE: The exquisite, agonizing sensation-play of the warming balm—turning medical care into raw, burning desire and holding her through the denial.
-~ [L1.2] DEEPENED: Pace's patience and care reached an unbelievable peak—denying Vee an orgasm and holding her burning against him specifically so her injured neck wouldn't tear.
-~ [L4.1] DEEPENED: Vee's interiority during the balm sequence was breathtaking—demanding the burn on both breasts because she refused to be spared or handled like an invalid.
++ LOVE: Randi taking Vee's face in both hands in the cold parking lot to ensure the goodbye kiss wasn't cut short or avoided.
++ SUSPICION: Randi's glassy, sad eyes while holding the phone mean she realizes Vee's arousal in the bathroom was directly triggered by her, making the weight of what they're hiding unbearable.
+~ [W64.2] ANSWERED: Saturday brunch happened, Vee showed Randi the uncropped painting photo, and ended up having a shattering orgasm in the restroom over the fantasy of Randi going down on her.
+~ [F17.2] DEEPENED: Vee surrendered to the full double goodbye kiss in the lot, gripping Randi's coat with both hands, proving her physical defense against Randi is completely dead.
+~ [L54.1] DEEPENED: Vee's unfinished reach was finally mentally bridged—not by herself or Pace, but by the vivid fantasy of Randi's mouth coming up soaked from between her legs.

@@ -1,80 +1,68 @@
-*capture-dag-v3-grounded · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5789c52a9ac6 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed 344bb68962a8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d88fa56f29dd · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed 056dc6586653 · 2026-11-17*
 
 REACTION
 
-OH MY GOD. I am sitting here with my hand pressed flat to my collarbone and my heart pounding out of my chest. How did a chapter about a pulled neck muscle at a powerlifting gym turn into one of the most scorching, terrifying, intensely erotic, and emotionally breathtaking scenes in this entire three-book series?!
+OH MY GOD. This chapter had me laughing, fanning myself, gasping out loud, and then clutching my chest at the end because the misreadings between these two women are now so tragic and so scorching I can barely stand it!
 
-Wait—first, look at the date stamp at the top: *Thursday, February 18 – Saturday, February 20.*
-Wait a second! We jumped *two weeks* forward from Chapter 65's Saturday brunch (February 6)!
-WAIT: February 14—**Valentine's Saturday at the 460 dance hall with Sheri and the Brooks & Dunn cover band** [W56.5]—was in the middle of that two-week jump?! Did we skip over Valentine's Day, or is Valentine's Day going to come back in a flashback (just like Chapter 61 flashed back to set up the mixer), OR did two full weeks go by where Vee has been trying to hold to her fogged-windshield vow (*"You have a boyfriend. Get your sex brain under control. Starting now"*)?! And notice why she isn't having Saturday brunch with Randi this weekend: *"Randi's got some sorority thing Saturday."*
+Let's start with Vee dressing like a nun going to meet someone's parents ("Don't be a sex pervert")—sober black pants to the ankle, a charcoal crewneck buttoned up to the collarbone, her pearls, keeping her hips back out of the hello hug—and telling herself she is NOT going to tell Randi about the body painting or show her the wide-open photo from last Friday! [W60.7] We all knew that vow was doomed the second she made it in Chapter 60, and watching it crumble inside twenty minutes across that velvet booth was pure perfection.
 
-And then Pace invites her into his gym!
-Every single detail of the gym scene was so vivid and so pure *Pace* that I was grinning and melting before anything even went wrong:
-- The warehouse gym with no music ("like a missing tooth the tongue keeps going back to"), where every other man has headphones sealing him off inside his own head, and Pace wears nothing in his ears because *"Pace, she was learning, did not seal himself off from a room. He read it."*
-- The way he sets her under her tiny weights on the bench with the exact same reverent, unhurried care he'd give a man pressing twice his bodyweight ("That he took her weight seriously. That the smallness of what she was doing bought her back none of his care").
-- AND THE CALLBACK TO CHAPTER 29's RED GYM SHORTS! When he stands at the head of the bench to spot her and she looks up from flat on her back and realizes he is *commando* under his thin shorts right over her face, and then his knuckles brush her breasts on the third rep because that's the bar path, and she loses it laughing so hard he has to take the bar off her with one eyebrow up!
-- And the quiet, devastating detail when he benches three big plates a side (more than the two of them weigh together!): *"She could never have saved him if it had gone wrong — never lifted it off him — and so he had kept himself, the whole set, inside what he could put back down on his own. He had arranged the morning so that she was never once responsible for what she couldn't hold."*
-- And watching him do twenty unhurried squats with his thighs ("thicker through than her own waist") bunching under the light until she forgets to be anywhere else!
+First, look at Randi's opening move: the fake "pre-med foot guy" story!
+Why does Randi open brunch (right after surviving her humiliating Standards tribunal on Thursday night without saying a single word about it to Vee!) with a hilarious story about a pre-med guy spending an hour worshipping every single one of her toes with lotion until she's soaked, only for him to go completely limp the second he moves off her feet ("Guys are only after one thing... Feet pics")?!
+1. It completely disarms Vee! Vee laughs so hard she puts her hand over her mouth and thinks, *Yeah. I can do this. I can do this and not be a weirdo*—because Randi is talking about hooking up with a guy, which puts the "straight best friends" frame right back around the booth!
+2. AND at the exact same time, it plants Randi's bare feet and toes right into Vee's head (*"under the table, inside her boots, her own toes curled"*) five minutes before Randi slips her shoe off under the table!
 
-And then the accident in the squat cage.
-I love how the author set it up with *"Everything gets a collar"* on her tiny plates and Pace's one flat look at the two loud college boys next to them who didn't collar their bar. When that idiot smacked his friend's ass mid-squat and the uncollared plate came crashing and rolling into Vee's cage and she flinched under the bar and tore her neck muscle—my stomach dropped!
-And look at Pace:
-1. First, his instant physical competence—catching her chest and shoulder, standing her straight, walking her back to rack the bar so the weight leaves her, sitting her down, reading her neck under her hand without asking a useless "are you okay?"
-2. Second: **"Then he stood and turned around and put himself between her and the other cage, and the size of him changed without his moving at all."**
-He doesn't yell. He drops his voice down, quiet and exact:
-**"You hurt her. Your carelessness hurt her... Apologize to the woman you hurt."**
-I got chills all over my skin! Look at how those boys instinctively try to apologize to *Pace* ("sorry, man, we're sorry"), and Pace refuses to take an apology that belongs to her: *"Apologize to the woman you hurt."* And even when Vee goes into nice-girl peacemaker mode ("I'm fine... It's okay"), the boys look to *Pace* and don't breathe until he lets them go, and then they quietly put the collars on their bar! And when Vee offers to sit there so he can finish his workout, he doesn't argue—he just puts her jacket over her shoulders and says, *"We're done."*
+And then they get to Sondra (*"Barely stings, Randi"* / *"I said fuck. Out loud"* / *"And then she tells me to roll over"*), and right out of the laughter Randi leans in softly and says, *"And?"*—and out spills the entire *Still Life* story!
+Wait: when Vee gets to the "gesso" coat and can't say the word for her newly bare skin at noon in a booth, Randi says *"Your pussy"*—and **slides her bare, sheer-nylon-stockinged foot up under the table to press her toes gently right against Vee's bare mons through the good black pants**!!
+AND VEE CATCHES RANDI'S FOOT IN BOTH HANDS TO STOP IT—AND THEN DOESN'T LET GO!
+Look at what Vee is doing while she describes Pace dipping a firm-bristled brush deep inside her and drawing her own wetness up to her clit:
+*"Her thumb was moving over Randi's toes, slow, back and forth across the nylon; she couldn't have said since when... Her thumb had stopped on the arch."*
+And when Randi's foot flexes in her hands and Randi asks if the gesso was sticky enough, Vee pulls Randi's foot *further into her lap*! She showed up in church pants and a high-necked sweater to not be a "sex pervert," and ten minutes later she is holding Randi's foot in her lap right against her crotch, stroking Randi's nylon toes and arch with her thumb while describing a paintbrush on her clit!
 
-AND THEN WE GET TO HIS HOUSE.
-Oh my god. The transition from pure, non-sexual caretaking—unhooking her bra one-handed and easing her left arm out of her shirt so the torn wire in her neck doesn't pull, turning the house thermostat up *while* she's in the shower so no cold air touches her wet skin when she steps out, blotting her hair and pulling its heavy weight forward off her neck—into the camphor balm scene was one of the most astonishing things I have ever read.
+AND THEN THE PHOTOGRAPH!
+One tiny flick of Vee's eyes toward her bag when Randi purrs *"I bet you looked luscious... I wish I could have seen it,"* and Randi pounces: *"You have a photo."*
+And look at the mental gymnastics Vee uses to convince herself to hand over the most explicit, wide-open photograph imaginable (where she is waxed completely bare, painted in fruit, shining with her own gesso, her slit red and open with a visible line of wetness running down the frame!):
+*"If the photo stayed in the bag, it would stay there because of last Saturday — because she had made her best friend into somebody she had to hide things from, somebody it would mean something to show. That was the sex-pervert reason. A friend would just hand it over."*
+GIRL. "A friend would just hand it over"?! In what universe do platonic straight friends hand over a daylight close-up of their freshly waxed, painted, dripping-wet open slit at Saturday brunch so they don't look like a sex pervert?! I was howling and dying at the same time!
+And when Randi looks at it—her face going completely still, her voice coming out low and hoarse (*"You told me he was enthusiastic... I see why, Miss November"*) before angling the screen back toward Vee and saying, **"I'd hang that over my bed"**—and then gently walking Vee right into the trap of why she was sulky that Pace wiped his mouth twice with his hand and the bedsheet instead of kissing her with the gesso:
+*"If it doesn't mean no anymore, beautiful, maybe you should tell him."*
 
-Look at how every step of the massage builds both the physical mechanics and the erotic charge:
-- First, the hurt muscle runs down the side of the neck, under the collarbone, and anchors low under the slope of her breast (the sternocleidomastoid and pectoralis fascia!).
-- When he comes around in front of her to work the front of her throat and collarbone, he folds his free forearm flat across her back so her spine doesn't have to brace or fight his pressure: *"She had never known how much of a worked muscle is the muscle fighting back. He had taken that from her, and left her nothing to do but breathe and be worked."*
-- And then, as his fingers chase the muscle cord out along her collarbone toward the top of her breast, *her body tips her breast up into his greased palm on its own*!
-- And Pace immediately pulls his hand back and says his Chapter 14 dress-fitting line: **"Keep still."**
-Because he was tending her injury, not taking advantage of her!
-AND VEE REACHES UP, CATCHES HIS WRIST, AND PULLS HIS CAMPHOR-COATED HAND FLAT OVER HER BREAST.
+AND THEN THE BATHROOM SCENE.
+Oh my god. We have been building to this exact moment across Chapters 47, 51, 53, 54, and 60!
+Remember in Chapter 54 (*The Reach*), when Vee was alone in her hothouse dorm room and brought her wet fingers within a breath's width of her mouth, and *couldn't close the last inch*? Even here in the locked bathroom with her hand down the front of her sober black pants, she tries to picture Pace not wiping his mouth, and in her head he wipes it every time. She tries to picture her own wet fingers closing that last breath's width to her mouth, and she still can't close it!
+AND WHO CLOSES THE GAP?!
+**RANDI.**
+*"A face, close. Coming up to her slow, the way his had, from between her thighs — a dark curtain falling forward, and the mouth. That mouth. The line drawn a hair outside the lip, the gloss laid down the middle, an hour and a cold walk and none of it moved. All of it moved now. All of it wet with her, shining with her, the lipstick gone soft at the edges and the chin bright, and the mouth not wiping anything. Coming up to kiss her with it. Salt and lime, and her own taste over it, and under all of it — what would Randi taste like —"*
+I stopped breathing. The thing Vee could not let herself take from Pace's mouth (because her mother's voice called it gross and Pace respected her "no") and could not give herself from her own fingers in the dark, her mind just took straight from *Randi's* mouth coming up wet from between Vee's thighs—and right behind it, for the very first time, the flip side of the question: **what would Randi taste like**! And she comes so hard her knees buckle and she has to hang onto the edge of the sink!
 
-I forgot how to breathe for the next four pages.
-Look at what happens when she chooses the fire:
-1. First, he gives her mercy on the other side—closing his second hand into a fist so only his dry knuckles stroke her other breast, keeping one breast plain and safe from the camphor burn.
-2. And Vee—knowing that because of her torn neck she cannot arch her back or have sex or come tonight ("The finish was already lost to her tonight; her neck had seen to that hours ago, so the fire was the only thing left in the world to have, and she meant to have all of it")—presses her safe breast up into his closed fist and says **"Yes"** before he even asks!
-3. And Pace STILL stops and makes her consent in plain words before turning his greased palm onto her second breast: **"Do you want me to keep going?" "Yes."** (Remember Chapter 35: *"She consents — every time — or I'm done"*!)
+AND THEN THE DEVASTATING DOUBLE MISREAD WHEN SHE COMES BACK TO THE BOOTH!
+When Vee walks back down the hall—having left her unlocked phone in Randi's hands the entire time she was in the bathroom!—she finds Randi sitting with her coat around her shoulders, still staring down at the lit screen of Vee's wide-open painted body.
+And when Randi clicks the screen off and looks up, her eyes are dark and **glassy with tears** ("It looked like sadness").
+WAIT A SECOND.
+Why are Randi's eyes glassy with sadness as she stares at the photo of Vee painted in fruit and dripping wet in Pace's bed?!
+Vee—sweet, guilt-ridden Vee—thinks Randi knows she just went to the bathroom to masturbate to her, and that Randi is sad and hurt *"as if Vee had gone and done something to her, here, at their table, with Randi sitting ten feet away holding the picture; something a friend didn't do, and Randi was too kind to say so"*!
+NO!! Randi has been sitting alone in that booth for ten minutes staring at a photograph that **Pace** made of Vee in **Pace's bed**—with Vee's hands on the headboard rail where Randi's hands have been, painted and fed and worshipped with an unhurried tenderness Randi just mourned in Chapter 65 that she never let Pace give her, AND looking at the woman Randi is desperately in love with (whom Randi just sacrificed her Standards chair and Thursday nights for!) lying wide open and dripping wet for *him* while Randi can only hold the phone across a brunch table!
+AND THEN Out in the parking lot:
+Because Vee thinks she just creeped Randi out and wronged her friend by masturbating in the bathroom, Vee keeps her mouth closed during the goodbye kiss and pulls away before the second press!
+And Randi—who is *already* raw from Thursday's trial and ten minutes of staring at that photo, and who spent all week regretting her cowardice at the mixer—thinks Vee is pulling away from her! So Randi takes Vee's face in both hands ("Let me say goodbye right") and kisses her all over again from the beginning, slow and deep, until Vee melts and grabs the front of Randi's coat with both fists—and when Randi's breath is unsteady afterward, Vee thinks, *"she must have been worried, after that first one. Vee was glad she hadn't left her uncertain"*!
+And then Vee practically runs to her Corolla and tells the fogged windshield: *"You have a boyfriend... Get your sex brain under control. Starting now."*
 
-And the way the delayed burn of the Tiger Balm/camphor ointment is written—waking up first high on her throat where it was gentle relief, then thickening into heat in the hollow of her collarbone, then turning to true, bedded-in fire on her neck while the "sweet, lying warmth" creeps down the pale slope of her breast toward her nipple where his fingers are pulling and rolling her—is pure sensory genius!
-*"The neck was what the breast would be. The breast was what the tip would be."*
-Watching that wave of fire travel down her chest toward her hard nipples while she presses her palms over the backs of his hands to keep him there—"so that she could not tell the dread of the fire from the wanting of it"—until the fire arrives inside the very tips of her nipples and marries the pleasure!
-Look at Vee's realization right in the white-hot peak of the burn:
-*"And what her body wanted tonight was not the soft thing. Her wanting had had nowhere to go all night, and it had not gone quiet; it had turned and asked him instead. Asked. Even now she caught the word and knew it for a lie — not asked. Demanded. Twice, out loud, in the one word she could get out of herself. Her pleasure had demanded steel, and he had heard it under everything else she was, and found it in himself."*
-HOLD ON! Remember Chapter 1 (*The Bench*) and Chapter 26/29?! Until tonight, Vee's brushes with pain/submission with Pace were playful swats in the kitchen or a gentle pinking over his knee after a bet. Tonight, *Vee herself* demanded the real steel in Pace—the side of him that understands how pain and pleasure marry inside a body when you surrender to it—and forced his hands onto her breasts to burn!
+Wait: notice also that Randi signed her own leather check folder and Vee put her own card in *her* folder and signed without looking at the number! Since when do they get two separate leather check folders at brunch—did the waiter bring two checks, or is Vee paying her own half now without looking at the price?!
+And more importantly: Randi now knows (from Vee's own mouth!) that Vee wants the taste of herself brought to her mouth and that Pace isn't giving it to her because he's taking her old "no" at her word! Is Randi going to tell Pace—or is this heading straight into next week and Valentine's weekend?! I HAVE to know what happens next!
 
-AND THEN THE ENDING OF THE SCENE.
-When he kisses her softly, and then pulls his mouth back slow—and before her face can tilt up to chase his mouth and wrench her torn neck, he is already behind her, gathering her spine against his chest so she doesn't hurt herself chasing the kiss!
-And when her body tries to climb toward orgasm anyway, and the very first inch of her back arching flashes white-hot agony in her torn neck:
-**"Easy," he said at her ear. "Not tonight. We need to wait."**
-*We.*
-He is rock-hard against the base of her spine, she is burning and begging him in broken half-words to let her come anyway, and **he refuses to let her come because coming will tear her injured neck**:
-*"And he brought her down without taking his hands away; that would have been easier to bear. He kept them on her and changed what they did. The hands that had drawn the fire up flattened and held it where it was, banking the heat under his palms instead of working it higher. His arms held her ribs against him when her body tried to lift. His thigh came forward against hers, not between them, only enough to give her nowhere to spend the motion... The climb loosened one notch at a time, never gone, only made unusable, and he gave her nothing to do with any of it — no finish, no service, no way in the world to spend it — nothing but to be held there burning and take it."*
-
-I am in awe. He edged her into a state of pure, banked, unspent fire—not as a cruel game, but out of total protective care so she wouldn't injure her neck, holding her burning breasts under his flat palms and caging her ribs and thighs against his hard body until she's making helpless complaint sounds in his arms, and sending her home carrying "the places he had not finished touching" still lit inside her!
-
-WAIT A SECOND. Think about what happens next:
-1. She is going back to campus with a visibly stiff, injured neck (right where Randi and she have been kissing each other's necks!) and her whole body banked and unspent from not being allowed to finish!
-2. What is going to happen on Tuesday night in Anthropology (or whenever she sees Randi next!) when Randi sees Vee holding her neck stiffly and hears *this* story—that Pace put burning ointment on both her nipples and held her down without letting her come?! Randi's head is going to explode!
-
-GATE 66 — Burn
+GATE 66 — Gesso
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter was a breathtaking fusion of protective tenderness and intense erotic edge—from Pace collars-on-everything care at the gym and his quiet, lethal "Apologize to the woman you hurt" after the squat-cage accident, to Vee pulling his camphor-coated hands onto her breasts to demand the burn, and Pace holding her banked and unspent against his chest because he won't let an orgasm tear her injured neck.
+WHY: This chapter was an absolute powder keg of erotic charge and tragic dramatic irony—from Vee dressing like a nun so she won't be a "sex pervert" only to end up stroking Randi's nylon-clad foot in her lap and handing over the wide-open body-paint photo ("A friend would just hand it over"!), to that explosive bathroom climax where it's Randi's lipstick-smudged mouth coming up wet from between Vee's thighs that finally bridges the taste gap, followed by Vee completely misreading Randi's glassy-eyed heartbreak over the photo as disappointment in Vee.
 
 LEDGER
-+ LOVE: Pace's quiet, unshowy protection at the gym—keeping his own heavy bench set inside what he can rack alone so Vee is never responsible for a weight she can't hold, putting collars on her tiny plates ("Everything gets a collar"), and stepping between her and the careless boys to say in a low, exact voice, "Apologize to the woman you hurt."
-+ LOVE: The sensory and psychological brilliance of the camphor-balm scene—Vee pulling Pace's greased hand onto her breast after he says "Keep still," refusing his mercy of dry knuckles on her second breast ("Her pleasure had demanded steel, and he had heard it under everything else she was, and found it in himself"), and watching the delayed fire travel down from her throat into her nipples until dread and pleasure become one thing.
-+ LOVE: Pace breaking off their kiss and moving behind Vee before her head can tilt up to chase his mouth and hurt her neck, then flattening his hands over her burning breasts and caging her ribs and thighs to bring her down from the edge without an orgasm ("Easy. Not tonight. We need to wait") so the arch of coming won't tear her muscle.
-+ WAITING: To see how Randi reacts when she sees Vee's stiff, injured neck—and hears that Pace rubbed burning balm into both of Vee's nipples and held her in his arms without letting her come.
-~ W65.6 FADED: The narrative jumped two weeks forward from February 6 to February 18–20, bypassing that Saturday night after the "Gesso" brunch and bringing us straight into the gym morning and the camphor burn.
++ LOVE: Vee dressing in sober black church pants and a high-necked charcoal sweater ("Don't be a sex pervert"), only to talk herself into handing Randi the wide-open, dripping-wet body-paint photo twenty minutes later because keeping it hidden would be "the sex-pervert reason. A friend would just hand it over."
++ LOVE: Randi sliding her bare, nylon-clad foot up under the booth table to press her toes directly against Vee's newly bare mons when she says "Your pussy," and Vee catching the foot in both hands to stop it only to hold it in her lap and stroke Randi's toes and arch with her thumb while describing Pace's brush inside her.
++ LOVE: The breakthrough in the locked bathroom where neither Pace's mouth nor Vee's own fingers can close that last breath's width to her lips, and instead it's Randi's berry-glossed mouth coming up wet and un-wiped from between Vee's thighs—along with the sudden question *what would Randi taste like*—that sends Vee over the edge so hard her knees buckle.
++ LOVE: The heartbreaking double misread when Vee returns from the bathroom to find Randi staring at the lit photo on Vee's phone with dark, glassy eyes—Vee assuming she's hurt Randi by masturbating in the bathroom like a creep, when Randi has actually been sitting alone for ten minutes staring at the proof of Pace and Vee's intimacy.
++ WAITING: To see whether Randi goes to Pace after spending ten minutes staring at the *Still Life* photo on Vee's phone (and learning Vee wants him not to wipe his mouth!), and how long Vee's "Get your sex brain under control. Starting now" lasts on Sunday with Pace and Tuesday with Randi.
+~ W60.7 ANSWERED: Even after vowing she would never tell Randi about Friday night's body painting or show her the wide-open photo, Vee spilled the entire gesso story and handed over the phone at Saturday brunch inside twenty minutes.
+~ W64.3 ANSWERED: Saturday's brunch showdown finally arrived, with Vee trying to dress like a platonic friend only to end up holding Randi's foot in her lap, showing her the *Still Life* photo, coming hard in the bathroom to the image of Randi's mouth between her legs, and melting into a two-handed goodbye kiss in the parking lot.
