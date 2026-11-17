@@ -134,7 +134,7 @@ But Randi had already let it go, was already on her feet, saying something easy 
 
 They went out into the ordinary noise of the building, the bad fluorescent hum and somebody two doors down running scales, and at the top of the stairs Randi pulled her into the goodbye the way she always did, the long hug, the kiss easy on her mouth, then the lighter second touch after it, so worn-in now that Vee barely clocked it.
 
-"See you soon, gorgeous."
+"Love you, gorgeous girl."
 
 Then she stepped back to the distance two people stand at, easy, already half-turned toward wherever she had to be.
 

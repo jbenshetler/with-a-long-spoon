@@ -194,4 +194,6 @@ The afternoon had gone long on the sidewalk. Randi was still going, the coat wom
 
 "You can put it in the trunk, you know," she said. "It's not going to *spoil*."
 
-And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her whole and unrehearsed, the kind that bends you at the middle. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them. And Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.
+And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her whole and unrehearsed, the kind that bends you at the middle. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them.
+
+"Love you, girl," Randi said, still laughing, and Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.

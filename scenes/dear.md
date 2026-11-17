@@ -196,6 +196,6 @@ Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a pe
 
 They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.
 
-"Love you, girl," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
+"Bye, babe," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
 
 Vee walked the other way with her empty pink cup, into the long afternoon light. She did not feel, now, like a thing the room could turn and look at. She felt picked. She carried it the whole way home.

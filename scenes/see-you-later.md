@@ -128,7 +128,7 @@ It was the best hour she'd had in months.
 
 When the cups were empty Randi looked at her phone and said *oh no, I have a meeting,* in the voice of someone genuinely sorry, and they climbed down off the stools, and out on the sidewalk under the gold Greek sign Randi pulled her into a hug — quick, warm, complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for one second — and pulled back holding Vee by the upper arms and looked at her with the whole lit face.
 
-"This was the best. *Love you, girl.*" She let her go and was already moving, already half-turned toward wherever the meeting was, walking backward two steps to land the last of it warm and easy and certain. "See you later, okay?"
+"This was the best. *You're a total fox, you know that?*" She let her go and was already moving, already half-turned toward wherever the meeting was, walking backward two steps to land the last of it warm and easy and certain. "See you later, okay?"
 
 *See you later.* Not *let's do this again,* which was a thing people said and didn't. *See you later* — flat fact, a thing already scheduled in some calendar Vee couldn't see, the queen having decided there would be a later and that Vee would be in it.
 

@@ -110,8 +110,8 @@ The line-editor also catalogued the book's **intra-character** returns. These ar
 seeded threads and belong to the Bible's *Running threads to seed* registry
 (`meta-arch-bible.md:396`) and the arch docs; they are listed here only so a future pass
 does not mistake them for findings: Randi locking the door behind her (ch1, 7, 14, 23);
-Randi's *"Tell me"* (ch7, 14, 23 by absence, 26); *"Love you, girl"* → *"See you soon,
-gorgeous"* (ch4, 11, 19, 22); Randi's hug with the hand flat between Vee's shoulder blades
+Randi's *"Tell me"* (ch7, 14, 23 by absence, 26); the early sorority endearments (*"total fox"*, *"Bye, babe"*) → *"See you soon,
+gorgeous"* (ch4, 11, 19, 22), with *"Love you, girl"* from mid-fall only ((author ruling 2026-11-17)); Randi's hug with the hand flat between Vee's shoulder blades
 (ch4, 11); Randi's goodbye kiss at the hinge of the jaw (ch19, 22); the mother's
 *floozies* wearing through (ch4, 12, 17, 20, 24); Pace's *"May I"* (ch5, 9, 11, 18);
 Randi's chill after (ch14, 23, 26); Pace's *"It was the want, he thought"* (ch14, 23);

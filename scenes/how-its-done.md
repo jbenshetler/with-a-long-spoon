@@ -236,7 +236,7 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 "If I have wine, I'll be facedown in the stacks this afternoon, and they'll have to check me out at the desk like overdue reserve." It came easy — the light quick thing that made people smile, that had always made people smile. "Water's perfect."
 
-"Overdue reserve," Randi repeated, delighted, like Vee had handed her a present. "God, I love you. Okay." She leaned back into the cashmere and the corner and turned the full warm beam of her attention on, all at once, like a room light coming on. "So. Guess what I got up to Saturday."
+"Overdue reserve," Randi repeated, delighted, like Vee had handed her a present. "God, you're fabulous. Okay." She leaned back into the cashmere and the corner and turned the full warm beam of her attention on, all at once, like a room light coming on. "So. Guess what I got up to Saturday."
 
 "I'm not guessing, I'm going to get it wrong and you'll be insufferable."
 
