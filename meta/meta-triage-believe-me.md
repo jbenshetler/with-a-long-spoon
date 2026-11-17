@@ -283,7 +283,8 @@ Nothing from the cold-read pass itself. From the same-day scene review
 
 - **"two nights running" (the sleeplessness) is allowed** (author ruling
   2026-07-30): {{Bare}} renders the second night; the first is granted as
-  plausible off-page. Not a continuity error.
+  plausible off-page. (Holds after the 2026-11-17 re-date to Thu Dec 17:
+  Bare's night panel is now pre-dawn Thu Dec 17.) Not a continuity error.
 
 ## Left standing — do not re-litigate
 

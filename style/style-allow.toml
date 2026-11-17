@@ -1495,6 +1495,13 @@ text = "She set one palm flat against the cold partition and slid the other in p
 note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
+fp   = "33711a1ca018"
+rule = "there-was-were"
+file = "scenes/covering.md"
+text = "Vee didn't linger on the fight or the month of silence — Randi had had all four weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table."
+note = "Re-armed by the 'five weeks'→'four weeks' edit (Dec 17 re-date); author ack 2026-11-17"
+
+[[ok]]
 fp   = "26fb9358e9d3"
 rule = "a-small"
 file = "scenes/cropped.md"
@@ -6701,6 +6708,13 @@ rule = "the-way"
 file = "scenes/the-usual.md"
 text = "Outside, the dark had come all the way down against the window, and for a moment the griddle was the only sound in the place."
 note = "literal extent (dark all the way down the window), not the tic"
+
+[[ok]]
+fp   = "3e54c92d3586"
+rule = "there-was-were"
+file = "scenes/the-usual.md"
+text = "There were none since before dead week."
+note = "New dead-week seed, author ack 2026-11-17"
 
 [[ok]]
 fp   = "2ea76196b3ee"

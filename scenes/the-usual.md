@@ -132,6 +132,8 @@ There were not many, because he had only ever taken the ones she was in on purpo
 
 He went through them slowly and in order, like reading, and the glass got low, and he filled it again.
 
+There were none since before dead week. On its last day she had written that she needed the weekend for finals, the first she had ever turned down, and he had told her to study hard, and had let it be finals.
+
 It was not missing her. Missing her was what he had been doing since December and he knew the dimensions of that. This was underneath it, and it had been down there a long while, and the whiskey took the lid off the top of it.
 
 Further down than he had been in years, a girl with brown hair and glasses who laughed with her hand over her mouth. He had not let himself down there in a long time. The glass was empty. He filled it.

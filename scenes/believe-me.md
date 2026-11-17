@@ -1,6 +1,6 @@
 # Believe Me
 
-*Vee POV, close third. The weekend before finals week; the last of the three displacements, after Bare, and the one that ruptures instead of papering over.*
+*Vee POV, close third. Finals week, the night before she flies home; the last of the three displacements, after Bare, and the one that ruptures instead of papering over.*
 
 ---
 
@@ -10,7 +10,7 @@ She sat with the engine ticking down and made herself feel the wanting all the w
 
 Her shoulders had climbed toward her ears somewhere back on the highway and she left them there. Her jaw was set. There was a taste in her mouth like a coin held under the tongue. She got out. The cold took her breath. She kept her coat buttoned to the throat.
 
-The door was unlocked, the way he left it for her. She came in out of the dark and pushed it to behind her, and the heat of the house closed over her at once, too warm for him and made that way for her. The smell reached her before anything else. Him first, the clean warm of him with the sawdust and the salt under it, and then the food, something rich and spiced going low on the stove. Under it, music, piano, quiet, something slow that moved like water, the kind he played, and it all went straight past her guard into the old wanting and made it worse. She stopped on the mat, level with the chair by the door where her bag went on the nights she stayed. She stayed where she was and went no further into the room. The bag was in the car; she had carried nothing in.
+The door was unlocked, the way he left it for her. She came in out of the dark and pushed it to behind her, and the heat of the house closed over her at once, too warm for him and made that way for her. The smell reached her before anything else. Him first, the clean warm of him with the sawdust and the salt under it, and then the food, something rich and spiced going low on the stove. Under it, music, piano, quiet, something slow that moved like water, the kind he played, and it all went straight past her guard into the old wanting and made it worse. She stopped on the mat, level with the chair by the door where her bag went on the nights she stayed. She stayed where she was and went no further into the room. The bag was in the car, on top of the suitcase for the morning's flight; she had carried nothing in.
 
 He came through from the kitchen with a towel over one shoulder. Behind him, on the counter, two glasses of wine stood already poured, one for her. His face opened when he saw her, the way it opened every time, and he crossed to her with unhurried certainty, for the kiss he always gave her at the door. She did not turn her mouth up. She kept her hands in her pockets and let him arrive at the fact of it, that the hello was not coming, and she watched him not understand.
 

@@ -54,7 +54,7 @@ Randi reached over and laid her hand flat on Vee — high on her chest, that mid
 
 "This did it," she said, warm as a verdict — and on the way back her fingers set the crossing edge of the wrap a quarter-inch truer, and were gone.
 
-Vee didn't linger on the fight or the month of silence — Randi had had all five weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What she wanted to give her was midnight.
+Vee didn't linger on the fight or the month of silence — Randi had had all four weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What she wanted to give her was midnight.
 
 "And at midnight he made me pancakes. From scratch — flour and the whisk, butter going glassy on top of the stack, tea he'd made me without my asking. At midnight." She was two sips into the second glass and the kitchen was arriving whole. "And I sat there and ate them wearing—" she lifted one hand and turned it over, showing the nothing in it, "—the blanket. And the heels. He said the heels stayed on."
 

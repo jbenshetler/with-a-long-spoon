@@ -1,6 +1,36 @@
 # Bare
 
-*Vee POV, close third. Pre-dawn, her room. The second of the three displacements — after Under the Rug, before the Christmas fight. Vee alone.*
+*Vee POV, close third. Diptych, her room: the afternoon the weekend before finals begins, then pre-dawn in finals week. The second of the three displacements — after Under the Rug, before the Christmas fight. Vee alone.*
+
+---
+
+The text came a little after three, while the review sheet lay open across her knees and she had not looked at it in a while.
+
+*Short ribs tonight. They'll be ready whenever you are.*
+
+It was more than he usually sent on a Friday. Usually he sent nothing, because there was nothing to send; by four she'd have the bag on the back seat and be pulling out of the lot. The bag was in the closet. It had been in the closet all day.
+
+She typed it three times. The first one explained too much, and the second apologized for the first. What she sent was the shortest.
+
+*I can't come this weekend. Finals start Monday and I'm so behind. I'm sorry.*
+
+She put the phone facedown on the review sheet and picked up her highlighter and did not uncap it. Cassie was at the library. Down the hall somebody's music came on and went off again.
+
+It buzzed.
+
+*Of course. Study hard. I'll be here.*
+
+She read it twice. Nothing in it needed anything back from her. She turned the phone over again and uncapped the highlighter and drew it under a line, and could not have said afterward what the line was.
+
+Randi's came at dinnertime.
+
+*brunch tomorrow has to be a no 😭 two finals monday, one tuesday, and i haven't cracked a book. flying out wednesday. january is too far, gorgeous*
+
+Vee sat with it. Wednesday, and her own exams running through Thursday, and no hour anywhere in between that belonged to either of them. Last Saturday had been the last one, then, and she hadn't known it while she was sitting in it.
+
+*good luck!! i'll miss you so much 💛*
+
+She did the review sheet. She did it until Cassie came in from the library and turned on the overhead light, and then she did it some more.
 
 ---
 
@@ -8,7 +38,7 @@ The heat came up through the building after midnight, as it always did, and thei
 
 She'd been not-sleeping a long time. She had his shirt on over the one she slept in — worn like that for the hall, for the walk to the bathroom, for the mornings Cassie was up first and might look and wouldn't have to say anything, a girl too far gone in a boy. Over her own shirt it was just a thing she wore. It hid what it was.
 
-She reached down to the rail for her phone, and its light was too much in the dark, and she turned it low. Twenty to three. Cassie's alarm would wake the room for Friday classes at eight. She found his name near the top, where it stayed. She held her thumb over the little field where the words would go, and waited for the words.
+She reached down to the rail for her phone, and its light was too much in the dark, and she turned it low. Twenty to three. Cassie's alarm would wake the room at seven, for their eight o'clock finals. She found his name near the top, where it stayed. She held her thumb over the little field where the words would go, and waited for the words.
 
 There weren't any. There was nothing she could put in there that would come back as what she needed, nothing she could ask him that had an answer he could type. You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here. She looked at the empty field until it was only a lit shape in her hand, and put the phone facedown on the rail.
 
