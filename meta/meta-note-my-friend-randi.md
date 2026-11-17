@@ -89,6 +89,9 @@ before it is *"held still for it and was sweet about it and thanked her and
 never once started it"* — initiation, not extension. The ladder is: Randi leans
 in → Vee extends (Nov) → Vee starts one (Jan) → in front of the house at the
 {{On Her Floor}} mixer.
+**It stays closed** (author ruling 2026-11-17): initiation and duration are the
+rung; no open mouth, no tongue. {{On Her Floor}} is the first open kiss, and it
+needs the room.
 
 **Vee gets the need, the reader gets the passion.** Her motive is relief and
 gratitude with want inside it, and **she does not examine any of it** — *"she
