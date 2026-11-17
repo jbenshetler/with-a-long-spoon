@@ -216,7 +216,7 @@ He was quiet a moment, and his hand found her hair and pushed it back off her fa
 
 She had her answer before he'd finished the question.
 
-And yet there they were. The goodbye kisses, dozens of them, and they had never been the cheek, not even the first; she had leaned across the gearshift for the cheek and Randi's hand had taken her jaw and Randi had given her the mouth, and every one since had grown to be soft, and long, and had never quite ended where it seemed to: Randi's mouth easing back without ever leaving hers, the kiss opening, and then Randi taking more of it, the second press, not waiting to be given it. That was Randi being Randi, how she'd learned to say goodbye in Switzerland. It was. And since the dancefloor it was something else too, and she kept trying to put it back. And her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved.
+And yet there they were. The goodbye kisses, dozens of them, and they had never been the cheek, not even the first; she had leaned across the gearshift for the cheek and Randi's hand had taken her jaw and Randi had given her the mouth, and every one since had grown to be soft, and long, and had never quite ended where it seemed to: Randi's mouth easing back without ever leaving hers, and then Randi taking more of it, the second press, not waiting to be given it. That was Randi being Randi, how she'd learned to say goodbye in Switzerland. It was. And since the dancefloor it was something else too, and she kept trying to put it back. And her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved.
 
 That was what he was asking about. She knew it.
 

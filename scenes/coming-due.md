@@ -2,7 +2,21 @@
 
 # Coming Due
 
-Sunday she didn't leave until the light was going. It should have worn her out. She was sore from the night before, sore all day, and it didn't stop her. There was always a lot of it with Pace — she'd stopped keeping the count that used to scandalize her back in the fall, the one she'd secretly gloated over — but Sunday ran past even that, and every time she was the one who started it: reaching for him in the gray before he was properly awake, and again after lunch, and again with the light going long across the floor, taking the book he was reading to her out of his hands. Each time something in her let go for as long as it lasted, and then, after, took itself back up. She put it down to the weekend, to greed, to the good long unhurried plenty of him. She drove home in the early dark full of him and not, somehow, filled.
+Sunday she didn't leave until the light was going. It should have worn her out. She was sore from the night before, sore all day, and it didn't stop her. There was always a lot of it with Pace — she'd stopped keeping the count that used to scandalize her back in the fall, the one she'd secretly gloated over — but Sunday ran past even that, and every time she was the one who started it: reaching for him in the gray before he was properly awake, and again after lunch. Each time something in her let go for as long as it lasted, and then, after, took itself back up.
+
+Afterward he read to her on the couch with her head in his lap, and the words went over her and she let them, and the kisses came instead — every goodbye since October, the end of every meal, all of them the same and none of them the same. The gearshift, where she'd leaned for the cheek and Randi's hand had taken her jaw; the curb; the walk outside the brunch place in the sun; the foyer. The mouth every time, never once the cheek. Each one a little longer, as if neither of them wanted the meal to be over. Her face went hot against his leg.
+
+*What if she meant them?*
+
+Not the show. All of them, from the car on — the hand coming up to her jaw every week like something decided. And then Saturday wasn't the one strange night. Saturday was where it had been going the whole time.
+
+She lay very still. Pace turned a page.
+
+No. Randi had said it was a show. She'd said it into her ear, laughing, and gone off to find a drink. Randi probably kissed everyone; that was how they said goodbye where she grew up. Vee was the one who'd leaned up after her outside the restaurant. Vee was the one who'd turned around in the foyer and kissed her. Vee was the one who kept putting her mouth on Randi's neck, and the one who'd made that sound on the floor. It was her. She'd taken the best friend she'd ever had and made it this — and if Randi ever knew, there would be no more Saturdays.
+
+The light had gone long across the floor. She sat up and took the book out of his hands.
+
+She put it down to the weekend, to greed, to the good long unhurried plenty of him. She drove home in the early dark full of him and not, somehow, filled.
 
 Monday was worse for having nothing in it. No class with Randi, just a problem set, the dining hall with Cassie — and under all of it, all day, the wanting the weekend had set loose, low and constant, and a worry wound so smoothly through it the two came as one thing. It was still there at lights-out. She lay in the top bunk with the window's thin cold coming in and Cassie's breath going slow beneath her, wide awake and wired. She was trying not to think about the floor — Randi crushed to her front, hardly a thing between them, both of them gone hard through it — and her body answered the memory: her nipples tight and sore against her sleep shirt, standing up in the dark with nothing on the other side of the cloth now, no one pressed to her to want it gone.
 

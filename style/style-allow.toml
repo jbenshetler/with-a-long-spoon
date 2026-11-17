@@ -1488,6 +1488,20 @@ text = "She was smiling, remembering last time — Randi pointing to the very sp
 note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
+fp   = "30c91f61cfe3"
+rule = "there-was-were"
+file = "scenes/coming-due.md"
+text = "There was always a lot of it with Pace — she'd stopped keeping the count that used to scandalize her back in the fall, the one she'd secretly gloated over — but Sunday ran past even that, and every time she was the one who started it: reaching for him in the gray before he was properly awake, and again after lunch."
+note = "Pre-existing wording re-armed by the Sunday-interval paragraph split; author re-ack 2026-11-17"
+
+[[ok]]
+fp   = "c9754b3031de"
+rule = "unhurried"
+file = "scenes/coming-due.md"
+text = "She put it down to the weekend, to greed, to the good long unhurried plenty of him."
+note = "Pre-existing wording re-armed by the Sunday-interval paragraph split; author re-ack 2026-11-17"
+
+[[ok]]
 fp   = "054d8046de60"
 rule = "there-was-were"
 file = "scenes/covering.md"
