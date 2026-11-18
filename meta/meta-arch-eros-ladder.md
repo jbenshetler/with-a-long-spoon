@@ -191,7 +191,7 @@ are chapter slugs, and without the numbers the arrow order reads as the story or
 
 ---
 
-## 7. The Vol 4 threesome trap
+## 7. The Vol 5 threesome trap
 
 The structural payoff of the ladder. The threesome is offered and accepted as **heat** —
 the tier Pace sanctioned. Vee says yes to *tier 1*. But the woman is **Randi**, whom she

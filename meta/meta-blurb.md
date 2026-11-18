@@ -181,7 +181,7 @@ Reading order and placement — an epub has no back cover, so the blurb lives in
 
 Deliberately absent: elevator pitch and unused taglines (query/ad material, not product); any mention of series total scope ("Book One" says it all).
 
-*This section is the packaging spec for `tools/build_epub.py`, which implements it: chronology (Volume One entries, story order) + `scenes/` prose + this doc's Test-epub blurb (blurb page and metadata description) + the `images/cover.png` symlink (points at the current cover asset) → `build/a-polite-invitation.epub` (reader-facing filename = the volume title). Run `tools/build_epub.py` (author defaults to Helen Rivers; `--list` previews the roster). Deterministic; aborts if a Volume One chapter lacks prose.*
+*This section is the packaging spec for `tools/build_epub.py`, which implements it: chronology (Volume One entries, story order) + `scenes/` prose + this doc's Test-epub blurb (blurb page and metadata description) + each volume's cover, read in place from the sibling cover repo (`../cover/output/<tag>/`) → `build/a-polite-invitation.epub` (reader-facing filename = the volume title). Run `tools/build_epub.py` (author defaults to Helen Rivers; `--list` previews the roster). Deterministic; aborts if a Volume One chapter lacks prose.*
 
 ---
 

@@ -41,7 +41,7 @@ index. The factual record of the book is the grounded checkpoint machinery —
 the same memory the cold-read panel trusts:
 
 - **Prefer whole-volume grounding.** For a Volume 2+ chapter: read the volume
-  boundary checkpoint (e.g. `ck-ch050` = all of Volume 1) **plus the raw clean
+  boundary checkpoint (e.g. `ck-ch022` = all of Volume 1) **plus the raw clean
   prose of every drafted chapter of the current volume** (via
   `tools/checkpoint_bundle.py` or reading `scenes/` files directly), so the
   chapter is judged inside its own volume read end to end.

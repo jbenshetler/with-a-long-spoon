@@ -87,11 +87,11 @@ the lawyer — it is BookFunnel's under-18 termination clause
 | [6-8] | Under the Rug / The Usual — Chili's | **CLOSED — reasoned decision to keep (author ruling 2026-09-13). See § [6-8] below.** No trademark theory: infringement requires use *as a mark*, and referential use in prose is not that (*Jack Daniel's v. VIP Products*, 2023, confirms the dividing line is source-identifying use). #Cockygate is distinguishable — a **title** is a source identifier, prose is not. Empirically: Brinker is not a trademark litigant (0 trademark actions as plaintiff in 134 sampled dockets), and the Amazon takedown vector is **metadata**, where "Chili's" does not appear. Offsetting real craft value: the word characterizes Pace, carries Vee's appetite, and names an event across volumes. **Two occurrences in Vol 1, one planned in Vol 2.** |
 | [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. **Cleanup applied 2026-09-15** — the concealment clause now precedes the naming rather than following it, and *"A stripper's body, if she let the word be said"* stands as its own sentence. Order is now hiding → naming → reversing. Nothing reworded; the motif payoff is untouched. |
 
-**New, not in the original scan (Volume 2 — not in the beta package):**
+**New, not in the original scan (Volume 4 — not in the beta package):**
 `vee-on-the-bench.md:61` attaches a bodily arousal response to age fourteen —
 *"her body had already laid out its evidence the way it always did, the way it
 had since she was fourteen."* Sharper than [9], which the scan did flag. Clean
-this before Volume 2 goes to any platform.
+this before Volume 4 goes to any platform.
 
 ### [1] Rock — the Daphne backstory, verified in full
 
@@ -111,7 +111,7 @@ this before Volume 2 goes to any platform.
 - `the-usual.md:207` carries **the sexual naming and no ages**: *"She had been
   his tutor, then his best friend, his first girlfriend, his first lover, his
   first love."* One word — *lover*. No age, no scene, no description; pure
-  retrospective summary in Pace's interiority. **Volume 1, Draft complete**
+  retrospective summary in Pace's interiority. **Volume 2, Draft complete**
   (chronology `:248` — Fri Jan 1, Christmas break, inside the Fall/Book 1
   section above the Volume Two marker), so it *is* in the beta manuscript.
   Flagged 2026-09-13 as possibly slated for revision; **author confirmed
@@ -158,7 +158,7 @@ twice: *"The word for it started to form in her, the clean ugly grown-up word,
 and she held it down under her tongue. It was not hers to say"* (`rock.md:221`),
 and Pace's own denial is marked as denial — *"Nothing happened. Nobody did
 anything wrong"* answered by *"the good order was the tell"* (`:219`).
-(Volume 2's `hangover.md:87` goes further — *"she'd had that much of him to
+(Volume 3's `hangover.md:87` goes further — *"she'd had that much of him to
 begin with only because of the thing about it that was wrong"* — but is outside
 the beta package.)
 
@@ -185,7 +185,7 @@ or a dated search.*
 
 A fictional anthropology professor at the (unnamed but geographically
 identifiable) university. **Volume 1: one mention** — `all-the-time.md:125`, a
-course reference, not an appearance. **Volume 2: 13 mentions across four
+course reference, not an appearance. **Volume 3: 13 mentions across four
 chapters** (`covering`, `clean-plate`, `coming-due`, `boyfriend`), where she
 becomes a rendered character with a physical portrait (`covering.md:15`).
 
@@ -280,10 +280,10 @@ since then. **Point counsel at the GitHub history, not a local log.**
 
 #### Position (author ruling 2026-09-13)
 
-**No rename. Publish Volume 2 with the character intact.** Defamation requires a
+**No rename. Publish Volumes 3–4 with the character intact.** Defamation requires a
 defamatory statement; the portrayal is uniformly favourable, so the analysis does
 not reach identification or fault. An assistant recommendation to rename if a
-real Dr. Marsh appears before Volume 2 was **overruled as unreasonable**, and the
+real Dr. Marsh appears before Volume 3 was **overruled as unreasonable**, and the
 reasoning behind it was wrong: it treated *actual knowledge of a same-named real
 person* as independently creating exposure. Knowledge goes to fault, and fault is
 reached only after a defamatory statement of and concerning a plaintiff. There is
@@ -303,7 +303,7 @@ scratch by a later review pass.*
 
 #### The occurrences and what they do
 
-**Two in Volume 1, one planned for Volume 2** — and the word is load-bearing in
+**Two in Volume 2, one in Volume 3** — and the word is load-bearing in
 all three, which is why a generic substitution is not a free swap.
 
 - `the-usual.md:13` — *"the Chili's out by 460, screens on four walls, music
@@ -313,7 +313,7 @@ all three, which is why a generic substitution is not a free swap.
 - `under-the-rug.md:27` — *"'Chili's,' she said… 'I like the nachos there.'
   A great gloppy skillet of them… and she wanted it."* Vee's appetite, stated
   affirmatively.
-- **Volume 2, planned** (`meta-note-back.md:33`) — *"**The Chili's shadow → the
+- **Volume 3, drafted** (`meta-note-back.md:33`) — *"**The Chili's shadow → the
   handoff.** Mid-glow, she remembers Chili's — the *event* may be named in her
   head, vividly."* Here the brand is **the name of an event in memory**. A
   generic cannot perform this: memory labels things in one word, and "the chain
@@ -398,7 +398,7 @@ escalation. The book would be down while it was fixed. That is a disruption cost
 not a legal one, and it is the reason the decision is *reasoned* rather than
 merely *inherited*.
 
-**Guidance for the undrafted Volume 2 beat:** draft it as `meta-note-back.md`
+**Guidance for the Volume 3 beat:** draft it as `meta-note-back.md`
 already specifies — the brand as **the name of the event in her head**, not as a
 description of the restaurant. Naming a memory is further from source-identifying
 use than describing a meal, so the better prose and the lower-risk prose are the
@@ -524,10 +524,10 @@ naming → reversing, with the reclamation flush against the reversal it causes.
 *Supporting:* Vee's on-page age anchor now lands at `rock.md:103` (ch025), **27
 chapters before** this scene.
 
-**Live successor — Volume 2.** `vee-on-the-bench.md:61` attaches the same "since
+**Live successor — Volume 4.** `vee-on-the-bench.md:61` attaches the same "since
 she was fourteen" construction to a **bodily arousal response**, which is the
 sharp version of what [9] only ever was by adjacency. Not cleaned. See the note
-under the verification-pass table; clean before Volume 2 goes to any platform.
+under the verification-pass table; clean before Volume 4 goes to any platform.
 
 ## Per-chapter findings
 

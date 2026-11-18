@@ -1,6 +1,6 @@
 # Notes — My Pleasure
 
-*Companion to the planned scene. Holds the craft intent deliberately not on the page. **Beat 1 (the apex) of the spring Pace/Randi staircase** — My Pleasure (warm command) → {{For You}} (the crack) → {{In Her Place}} (abjection) → taste (summit at {{Scalding Jealousy Ignition}}). The warm co-conspirator two-hander Volume Three otherwise lacks between {{Gone}} and {{In Her Place}}. Pace POV. Read alongside {{The Pointing Game}} (this is its spring recurrence) and `meta-note-taste-thread.md`.*
+*Companion to the planned scene. Holds the craft intent deliberately not on the page. **Beat 1 (the apex) of the spring Pace/Randi staircase** — My Pleasure (warm command) → {{For You}} (the crack) → {{In Her Place}} (abjection) → taste (summit at {{Scalding Jealousy Ignition}}). The warm co-conspirator two-hander the spring otherwise lacks between {{Gone}} and {{In Her Place}}. Pace POV. Read alongside {{The Pointing Game}} (this is its spring recurrence) and `meta-note-taste-thread.md`.*
 
 *Title (author-set 2026-08-29; renamed from working title "Me Too," dropped for its #MeToo association in a consent-themed book). **"My Pleasure"** — surface: a gracious hostess courtesy, Randi's exact register (the restaurant-recommendation voice; "pleasant as a hostess"). Charge (reread): the pleasure is genuinely, secretly **hers** — her want for Vee hidden inside a politeness; the one place she can say* my pleasure *is where it's supposedly not about her. Laundering in two words; resonates with the volume's politeness-as-apparatus (A Polite Invitation). Names a frame (a courtesy), not the act. **Title-chain with {{For You}}:** two courtesies masking one want —* my pleasure *(it's hers, hidden in graciousness) →* for you *(deflected to Pace); the want never once claimed as* mine. Randi’s later “I did my part” deepens the same service-cover without forcing the title phrase into dialogue.*
 
@@ -8,7 +8,7 @@
 
 ## What this scene is
 
-The warm two-hander Volume Three has been missing. Volume One's edge came from Pace and Randi alone, co-conspirators, buzzing about Vee ({{The Bench}}, {{The Pointing Game}}, {{Gone}}) — the reader seeing the apparatus Vee can't. That track goes dark across the spring until {{In Her Place}} (~April). **My Pleasure re-lights it early, the night of {{A Clean Plate}}:** Vee leaves the loft (→ {{The Reach}}, same night, alone), Randi comes to Pace's.
+The warm two-hander the spring has been missing. Volume One's edge came from Pace and Randi alone, co-conspirators, buzzing about Vee ({{The Bench}}, {{The Pointing Game}}, {{Gone}}) — the reader seeing the apparatus Vee can't. That track goes dark across the spring until {{In Her Place}} (~April). **My Pleasure re-lights it early, the night of {{A Clean Plate}}:** Vee leaves the loft (→ {{The Reach}}, same night, alone), Randi comes to Pace's.
 
 It remains the **spring recurrence of the Pointing Game's engine**, but at the structural level rather than through an explicit diagnosis of Pace's appetite. *"Only in a threesome, with you"* was Randi handing Pace the want so she wouldn't have to hold it as hers. Here, months on — with Vee now real and close — Randi names the want directly and Pace answers with the warmer truth: *"She makes me happy."* The earlier planned rule-breaking exchange is omitted (author ruling 2026-09-05).
 

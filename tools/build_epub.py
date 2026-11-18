@@ -16,9 +16,11 @@ Sources, all parsed at build time so the docs stay authoritative:
   - scenes/<slug>.md              prose (H1 title and the leading italic
                                   editorial note above the first --- are
                                   stripped; interior --- become scene breaks)
-  - images/cover.png              cover image — a symlink naming the currently
-                                  chosen cover asset (retarget the link to
-                                  switch covers; no builder change needed)
+  - ../cover/output/<tag>/        cover image — the cover repo's Apple export
+                                  (apple_1707x2560.jpg), referenced in place by
+                                  a path relative to this repo's root while the
+                                  covers are still being tuned. A missing file
+                                  or an un-fetched Git LFS pointer aborts.
 
 No decorative page backgrounds: CSS background images fight reader theming
 and pagination (dark-mode contrast, Calibre partial/inconsistent renders) —
@@ -35,7 +37,7 @@ Usage:
     tools/build_epub.py
     tools/build_epub.py --list          # preview the chapter roster, no build
     tools/build_epub.py --reader "Jane Doe <jane@example.com>"
-Defaults: cover images/cover.png, output build/a-polite-invitation.epub
+Defaults: the volume's cover (PACKAGING), output build/<stem>.epub
 (the date/sha build stamp lives on the copyright page, not in the filename).
 A Volume One chapter whose prose file is missing aborts the build (--allow-missing
 to override) — a test reader must never receive a silently incomplete book.
@@ -67,45 +69,73 @@ COPYRIGHT_YEAR = "2026"
 # and lives here, keyed by the volume's stable tag. Volume tags, not ordinals, are
 # the key: splitting the spring renumbers later volumes and leaves tags alone.
 #
-# Vol 2+ have no cover asset of their own yet — they reuse images/cover.png (the
-# Vol 1 cover) as a flagged placeholder; the title page and metadata carry the
-# correct title. Blurb source: fall-1 = "## Test-epub blurb"; later volumes name
+# Covers live in the sibling cover repo (~/clients/wals/cover), referenced by a
+# path relative to this repo's root — not copied in, since the exports are large
+# and not final. Blurb source: fall-1 = "## Test-epub blurb"; later volumes name
 # their own heading (accepted copy only — runner-up alternates under ###
 # headings are trimmed). A volume with `blurb_heading = None` has no jacket copy
 # written yet and cannot be built until it does.
 _WORDS = ["ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX"]
 
+COVER_DIR = "../cover/output"
+
+
+def _cover(tag: str) -> str:
+    return f"{COVER_DIR}/{tag}/apple_1707x2560.jpg"
+
+
+_LFS_POINTER = b"version https://git-lfs.github.com/spec/"
+_IMAGE_MAGIC = {"png": b"\x89PNG\r\n\x1a\n", "jpg": b"\xff\xd8\xff",
+                "jpeg": b"\xff\xd8\xff"}
+
+
+def check_cover(path: Path) -> None:
+    """Abort unless `path` is a real image: present, not a Git LFS pointer stub."""
+    if not path.is_file():
+        sys.exit(f"cover image missing: {path}")
+    head = path.read_bytes()[:64]
+    if head.startswith(_LFS_POINTER):
+        sys.exit(f"cover image is a Git LFS pointer, not the image: {path} — "
+                 "run `git lfs pull` in the cover repo")
+    ext = path.suffix.lower().lstrip(".")
+    magic = _IMAGE_MAGIC.get(ext)
+    if magic is None:
+        sys.exit(f"unsupported cover image type: {path}")
+    if not head.startswith(magic):
+        sys.exit(f"cover image is not a valid {ext.upper()}: {path}")
+
+
 PACKAGING = {
     "fall-1": {
         "blurb_heading": "## Test-epub blurb",
         "stem": "a-polite-invitation",
-        "cover": "images/cover.png",
+        "cover": _cover("fall-1"),
     },
     "fall-2": {
         # Took "A Warm Reception" from the spring on 2026-10-09; its own jacket
         # copy was accepted 2026-10-20.
         "blurb_heading": "## Volume 2 blurb",
         "stem": "a-warm-reception",
-        "cover": "images/a-warm-reception-cover-placeholder.png",
+        "cover": _cover("fall-2"),
     },
     "spring-1": {
-        # Jacket copy accepted 2026-11-18; no cover asset yet.
+        # Jacket copy accepted 2026-11-18.
         "blurb_heading": "## Volume 3 blurb",
         "stem": "a-place-at-the-table",
-        "cover": "images/cover.png",
+        "cover": _cover("spring-1"),
     },
     "spring-2": {
         # Jacket copy accepted 2026-10-23 for the whole spring; to be trimmed to
         # the second half.
         "blurb_heading": "## Volume 4 blurb",
         "stem": "a-proper-serving",
-        "cover": "images/a-proper-serving-cover-placeholder.png",
+        "cover": _cover("spring-2"),
     },
     "summer": {
         # Jacket copy recorded 2026-10-23.
         "blurb_heading": "## Volume 5 blurb",
         "stem": "a-hot-meal",
-        "cover": "images/cover.png",
+        "cover": _cover("summer"),
     },
 }
 
@@ -699,10 +729,9 @@ def main():
     ap.add_argument("--blurb", type=Path, default=root / "meta/meta-blurb.md")
     ap.add_argument("--scenes", type=Path, default=root / "scenes")
     ap.add_argument("--cover", type=Path, default=None,
-                    help="cover image (default: the volume's cover — "
-                         "images/cover.png for Vol 1, the Vol 2/3 placeholders "
-                         "for Vol 2/3; falls back to images/cover.png if the "
-                         "volume's cover is absent)")
+                    help="cover image (default: the volume's cover in the "
+                         "sibling cover repo, see PACKAGING; a missing file or "
+                         "a Git LFS pointer aborts the build)")
     ap.add_argument("-o", "--out", type=Path, default=None,
                     help="output path (default: build/a-polite-invitation.epub, "
                          "or -<reader-slug> with --reader; the build stamp "
@@ -717,11 +746,10 @@ def main():
                     help="append -<source-date>-<sha> to the filename, to keep "
                          "several builds of different drafts side by side")
     ap.add_argument("--volume", default="fall-1",
-                    help="which volume to build: a tag (fall-1, fall-2, "
-                         "spring, summer) or an ordinal (1..N). Resolved through "
-                         "meta/meta-volumes.toml. Volumes after the first reuse "
-                         "the Vol 1 cover as a placeholder and typically need "
-                         "--allow-missing")
+                    help="which volume to build: a tag (fall-1, fall-2, spring-1, "
+                         "spring-2, summer) or an ordinal (1..N). Resolved through "
+                         "meta/meta-volumes.toml. Volumes still drafting "
+                         "need --allow-missing")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
@@ -743,10 +771,10 @@ def main():
                  "heading in PACKAGING before building it")
 
     if args.cover is None:
-        cand = root / vol["cover"]
-        args.cover = cand if cand.exists() else root / "images/cover.png"
+        args.cover = (root / vol["cover"]).resolve()
+    check_cover(args.cover)
 
-    for p in (args.chronology, args.blurb, args.cover):
+    for p in (args.chronology, args.blurb):
         if not p.exists():
             sys.exit(f"missing input: {p}")
 
@@ -801,7 +829,9 @@ def main():
                  + "\nUse --allow-missing to build without them.")
 
     blurb = load_blurb(args.blurb, vol)
-    inputs = [args.chronology, args.blurb, args.cover] + [p for _, p in chapters]
+    inputs = [args.chronology, args.blurb] + [p for _, p in chapters]
+    if args.cover.resolve().is_relative_to(root.resolve()):
+        inputs.append(args.cover)      # an out-of-repo cover has no history here
     info = git_build_info(root, inputs)
     build_id = (f"{info['source_date']} · {info['sha']}" if info["sha"]
                 else info["source_date"])

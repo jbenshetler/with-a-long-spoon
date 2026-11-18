@@ -18,7 +18,7 @@ prose. `checkpoint_context.py` additionally slices reader-reaction sections off 
 checkpoint so a drafting model never sees them (`--keep`/`--drop`).
 
 Chapter numbering is the **flat cross-volume drafted sequence** —
-`checkpoint_bundle.reader_slugs()` = Vol 1 drafted + Vol 2 drafted + Vol 3 drafted,
+`checkpoint_bundle.reader_slugs()` = every volume's drafted chapters in order,
 in chronology order. The current operational inventory has 50 drafted Vol 1 entries.
 The approved final inventory is **51** after the Tue Nov 10 lap vignette is drafted;
 while that entry remains Unwritten, it is excluded from the reader sequence. This is

@@ -35,7 +35,7 @@ restate the table here.
    paid OpenRouter call and requires its own specific authorization. Volume 1
    checkpoints are raw-prose mints. After Volume 1, seed every boundary from
    the frozen final native checkpoint of the prior volume and include all raw
-   prose in the current volume through that boundary. For the current Volume 2
+   prose in the current volume through that boundary. For the current Volume 3
    seam:
 
    ```

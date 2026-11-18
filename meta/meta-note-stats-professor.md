@@ -1,6 +1,6 @@
 # Note — The Stats Professor (the fall mirror-class prop)
 
-*Device · Volume One, fall semester · Vee POV · companion to `meta-note-anthro.md` (the spring successor), `meta-note-outlier.md`, `meta-triage-outlier.md`. The abstracted rule lives in the Bible's Global Craft Rules, **The coursework mirror**.*
+*Device · Volumes One–Two, fall semester · Vee POV · companion to `meta-note-anthro.md` (the spring successor), `meta-note-outlier.md`, `meta-triage-outlier.md`. The abstracted rule lives in the Bible's Global Craft Rules, **The coursework mirror**.*
 
 ## What he is
 

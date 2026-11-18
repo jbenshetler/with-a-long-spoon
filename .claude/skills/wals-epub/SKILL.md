@@ -103,10 +103,10 @@ worth it if a leak would actually be pursued.
 - `meta/meta-blurb.md` — blurb page + epub metadata description (`--blurb`)
 - `scenes/` — prose; H1 and the leading italic editorial note above the first
   `---` are stripped, interior `---` become scene breaks (`--scenes`)
-- `images/cover.png` — cover (`--cover`; **any** run, even `--list`, aborts
-  if absent). It's a **symlink** naming the currently chosen cover asset —
-  to switch covers, retarget the link (`ln -sfn <asset>.png images/cover.png`),
-  don't edit the builder.
+- `../cover/output/<tag>/apple_1707x2560.jpg` — each volume's cover, read in
+  place from the sibling cover repo (`PACKAGING` in the builder; `--cover`
+  overrides). **Any** run, even `--list`, aborts if the file is missing or is
+  an un-fetched Git LFS pointer.
 
 There is deliberately **no decorative page background** (the parchment
 treatment was removed 2026-07-27): CSS background images fight reader

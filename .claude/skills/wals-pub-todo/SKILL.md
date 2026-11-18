@@ -34,8 +34,8 @@ not silently pick one. That is an authorial call.
 ## Scope argument
 
 - *(no arg)* or `vol1` — Volume One, the lane that actually leads to publication. **Default.**
-- `vol2` — Volume Two's parallel state (still drafting; expect most gates unstarted).
-- `all` — both, plus series-wide items.
+- `vol2` — Volume Two's parallel state (drafted; check its status doc for gate progress). Volumes Three–Five have no status docs yet; report them only under `all`, as drafting.
+- `all` — every volume, plus series-wide items.
 - `brief` — top blockers only, no phase detail. Combinable: `vol1 brief`.
 
 ## Step 1 — run the probe suite
@@ -175,7 +175,7 @@ without it.
 ### Classification traps — each of these has burned a previous pass
 
 - **Test-epub ≠ wide-release packaging.** Dedication, acknowledgments, author bio, series page, and the mailing-list CTA are *deliberately absent* from the test epub. Reporting them as beta blockers is wrong; they belong to phase 5.
-- **Volume 2/3 items are not Volume 1 blockers.** Several open items are explicitly parked as "not in the beta package." Exclude them from the Vol 1 lane and say why.
+- **Volume 2–5 items are not Volume 1 blockers.** Several open items are explicitly parked as "not in the beta package." Exclude them from the Vol 1 lane and say why.
 - **`reviewed:` is author-recorded.** A chapter with no date is genuinely unreviewed *or* untracked — report the gap, never infer or invent a date. Recently-drafted chapters are the usual cause.
 - **Style-linter hits are never publication blockers.** `na.py style` over-flags by design and most rules police overuse. Do not run it as a gate and do not put its counts in the report.
 - **Reviews are reactions, not canon.** Cold reads and capture reads never establish a fact about the book; they establish that a reader reacted. Don't promote one to a required fix.

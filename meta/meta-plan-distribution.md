@@ -26,7 +26,7 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
 - **Prestige is not the target, and finishing the series does not court it.** A
   ~1300-page explicit *series* is anti-prestige grammar (prestige = the singular
   novel; "series" = genre/commercial; explicit erotic heat ≠ prestige's cold
-  register). The completed series (release schedule PENDING — the 2026-10-09 split to four books invalidates the old Book 2/Book 3 dates) is a
+  register). The completed series (release schedule PENDING — the split to five books invalidates the old Book 2/Book 3 dates) is a
   *self-pub* asset — rapid-release, read-through — not a prestige one.
 - **Trad/prestige is reordered to inbound-after-success, not acquisition-first.** If
   the self-pub series breaks out, print/audio/foreign/film interest arrives on the

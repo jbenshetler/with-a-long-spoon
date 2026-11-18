@@ -425,13 +425,13 @@ The Bricklayers game, the Meg beat — provisional headings stand in the chronol
 
 A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at the peak; the mirror promise breaks here, quietly and upward. ~~The locked smile is the zinger series' terminal silence; Vee leaves the brunch early.~~ Superseded 2026-10-12: Randi's dark, glassy eyes (misread as sadness) carry the terminal silence; the renewed vow; the stiff goodbye kiss, *"Let me say goodbye right,"* the melt, the abrupt exit. Full design: `meta-condensed-gesso.md`.
 
-## 43. Volume Two length (POLICY — author 2026-09-04)
+## 43. Spring length (POLICY — author 2026-09-04)
 
 No pre-draft limits. Post-draft, run the cold-read panel with fatigue explicitly in the triage lens; cut only what the instrument flags. A natural split-at-break option exists if ever needed — a decision the finished draft makes.
 
-# Volume Three pre-publication — line-edit and legal follow-ups (2026-09-15)
+# Volume Four pre-publication — line-edit and legal follow-ups (2026-09-15)
 
-Volume Three is **still drafting and has had no edit pass.** Nothing below is
+Volume Four is **still drafting and has had no edit pass.** Nothing below is
 urgent; it is parked here so it survives to that pass instead of being
 rediscovered. Neither item is in the beta package.
 
@@ -447,7 +447,7 @@ Was: *"her body had already laid out its evidence the way it always did, the way
 it had since she was fourteen and learned the word for it in her mother's voice
 before she had a word of her own."* Flagged in `meta-plan-legal-read.md` under
 the 2026-09-13 verification pass as **"sharper than [9], which the scan did
-flag,"** with the instruction to clean it before Volume Three goes to any platform.
+flag,"** with the instruction to clean it before Volume Four goes to any platform.
 
 Now reads *"…the way it had since **she first learned the word for it** in her
 mother's voice, before she had a word of her own."* Re-anchored to the learning

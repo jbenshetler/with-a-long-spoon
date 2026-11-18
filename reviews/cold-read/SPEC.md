@@ -341,7 +341,7 @@ ch 61..70. Thus there is no within-volume checkpoint chain, while the explicitly
 bounded one-hop-per-volume consolidation preserves the prior volume's frozen
 memory.
 
-The current Volume 2 seam is minted with:
+The current Volume 3 seam is minted with:
 
 ```
 tools/checkpoint_extract.py --reader-sequence \
@@ -351,10 +351,10 @@ tools/checkpoint_extract.py --reader-sequence \
   --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
 ```
 
-Volume 3 follows the same rule: every in-volume checkpoint uses the frozen final
-Volume 2 native checkpoint plus raw Volume 3 prose from its opening through the
+Volume 5 follows the same rule: every in-volume checkpoint uses the frozen final
+Volume 4 native checkpoint plus raw Volume 5 prose from its opening through the
 target boundary. It is not rebuilt from the complete raw manuscript, and it
-does not use an earlier Volume 3 checkpoint as its seed.
+does not use an earlier Volume 5 checkpoint as its seed.
 
 Every newly minted checkpoint records the seed checkpoint identity and hash
 (when seeded), the exact raw-range/source-bundle fingerprint, cleaner version,
@@ -366,7 +366,7 @@ identical seed and raw-source provenance.
   and rejects empty, incomplete, non-stopping, missing-section, or out-of-order
   output. Paid OpenRouter extraction caps output at 80k tokens.
 - **`tools/checkpoint_ensemble.py`** builds/checks donor-memory ensembles.
-- The ch-050 checkpoint is the frozen Volume 1 → Volume 2 feedforward boundary.
+- The frozen feedforward seams are named in `ensemble-config.toml` `[checkpoint_seeds]`.
 
 ### Quote-backed checkpoint ensembles
 
@@ -474,13 +474,13 @@ volumes, each boundary depends only on the same frozen prior-volume seed and
 that boundary's current-volume raw prose, never on another checkpoint in the
 same volume. Once the seed is available, checkpoint boundaries can therefore
 fan out in parallel; reader reactions are independently parallel as well. A
-full Volume 1 run is two fan-out waves, not a 50-deep serial chain: **(1)** mint
-ck-010/020/030/040 in parallel; **(2)** fan out all 50 reads in parallel.
+full Volume 1 run is two fan-out waves, not a 22-deep serial chain: **(1)** mint
+ck-010/020 in parallel; **(2)** fan out all 22 reads in parallel.
 `cold_read_grounded.py` implements both: `--jobs N` runs wave 2 as N concurrent
 reads (bounded pool of reused codex sessions — measured 3.1× at N=4 on terra),
 and `--auto-mint` runs wave 1 as parallel checkpoint mints first. The whole
 Volume 1 DAG in one command:
-`tools/cold_read_grounded.py --model <id> --to 50 --auto-mint --jobs 8`. Order
+`tools/cold_read_grounded.py --model <id> --to 22 --auto-mint --jobs 8`. Order
 never affects a read's result, so concurrency is free correctness-wise.
 
 ### Panel QA & recovery

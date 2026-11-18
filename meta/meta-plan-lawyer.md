@@ -231,8 +231,8 @@ portrayed favourably. The naming discipline is already careful, which weakens
 the case for paying someone to find what was missed.
 
 **Recommended sequence:** spend nothing now; keep the provenance records as
-response files; buy **one flat-fee pre-publication read** before Volume 2 or
-first meaningful revenue, whichever comes first — Volume 2 being the point where
+response files; buy **one flat-fee pre-publication read** before Volume 3 or
+first meaningful revenue, whichever comes first — Volume 3 being the point where
 Marsh becomes substantial and a new publication event restarts the clock.
 
 **Standing note on the realistic risk:** it was never litigation. In descending
@@ -330,15 +330,15 @@ SHA256SUMS).
 - **Dr. Marsh — reclassified, not closed.** The *defamation* rationale is dead:
   the portrayal is now praise (*"even her eight a.m. fills up"*), and praise is
   not actionable even if false. What the directory check actually tests is
-  **identification**, and that matters more in Volume 2, not less: Marsh is a
+  **identification**, and that matters more from Volume 3 on, not less: Marsh is a
   recurring character there with a specific physical portrait
   (`covering.md:15` — tall, spare, short silver hair with a black streak, fleece
   vest, boots), attached to a real name, a real university, and a real
   department, inside explicit fiction in which two of her students conduct an
   affair in her classroom. The exposure is a complaint from a real person who
-  objects to the association — not a tort. **Volume 1 exposure is one line**
+  objects to the association — not a tort. **Volumes 1–2 exposure is one line**
   (`all-the-time.md:125`); the portrait and the recurring presence are entirely
-  Volume 2.
+  Volume 3 on.
 
   **Superseded 2026-09-13 — goes to counsel after all, with a full provenance
   package.** Two earlier positions here are withdrawn. (a) "Not a counsel item"
@@ -423,11 +423,11 @@ replying to a takedown notice is the only appeal. So ask first. Send from
 
 **Scope discipline (2026-09-13, revised — author ruling: "if there is a second
 chapter they might flag, let's disclose rather than hide").** The email quotes
-**both** Volume 1 chapters that touch the backstory, each unedited:
+**both** fall chapters (Volumes 1–2) that touch the backstory, each unedited:
 `rock.md` (the ages, no sexual statement) and `the-usual.md` panel two (the word *lover*,
 no age). An earlier draft omitted the second on the grounds that it was
 immaterial to the question asked; that was decided while it was believed to be
-Volume 2 material outside the test. It is Volume 1 and in the beta manuscript,
+spring material outside the test. It is fall material and in the beta manuscript,
 and **"tutor" is the hinge** that joins the two chapters, so a keyword scan that
 reaches one reaches the other. Disclosing it costs nothing — in full it reads as
 grief, and it says *"He had been young and new to the university"* with no number

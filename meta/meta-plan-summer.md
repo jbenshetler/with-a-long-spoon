@@ -1,6 +1,6 @@
-# Summer — Plan (Volume Four frame)
+# Summer — Plan (Volume Five frame)
 
-*The setting and engine for Volume Four (summer 2027, the climax act). Companion to `meta-plan-chronology.md` (which owns the summer scene order and dates) and `meta-note-threesome-reveal.md` (the climax itself). This is the frame the summer scenes sit in — the scenes arise in drafting; here is the world they inherit.*
+*The setting and engine for Volume Five (summer 2027, the climax act). Companion to `meta-plan-chronology.md` (which owns the summer scene order and dates) and `meta-note-threesome-reveal.md` (the climax itself). This is the frame the summer scenes sit in — the scenes arise in drafting; here is the world they inherit.*
 
 ---
 

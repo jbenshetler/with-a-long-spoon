@@ -49,7 +49,7 @@ the tree on 2026-09-26 (git history keeps them).
    checkpoint is minted from the frozen final native checkpoint of the prior
    volume plus all current-volume raw prose through B. Every boundary in that
    volume reuses the same prior-volume seed; never seed `ck-ch070` from
-   `ck-ch060`. The current Volume 2 recipe is:
+   `ck-ch060`. The current Volume 3 recipe is:
 
    ```
    tools/checkpoint_extract.py --reader-sequence \

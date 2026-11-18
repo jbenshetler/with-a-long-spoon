@@ -337,7 +337,8 @@ twenty chapters, varying the trigger (arousal, tenderness, memory). **The accent
 Vee hears specific sounds in specific words, in her own pictures, never Pace's measured
 vocabulary (*syllables*, *vowel*, *lost its edges*, *came up into it*, *trailing off*). Only
 where Vee can hear it — not under music ({{On Her Floor}}). Declined: {{Covering}} (too sad),
-{{All the Time}} (its roughness tells conflict). **Volume Four:** the reintroduction goes at the
+{{All the Time}} (its roughness tells conflict). **Volume Four:** the reintroduction goes at
+{{Cabin Debrief Brunch}}, the first Vee-POV chapter with Randi. **Volume Five:** the reintroduction goes at the
 first Vee-POV chapter with Randi (likely {{The Sheer Dress Brunch + The Dressing Room}}); a Pace-POV firing names
 Kentucky instead.
 

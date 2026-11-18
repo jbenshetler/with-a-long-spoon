@@ -117,7 +117,7 @@ spend. Ask per run.
 ## Step 1 — Resolve the target chapter number
 
 `--to N` takes the **reader sequence** number: the chapter's position in
-`checkpoint_bundle.reader_slugs()` (Vol 1 drafted, then Vol 2, then Vol 3, in
+`checkpoint_bundle.reader_slugs()` (Vol 1 drafted, then each later volume, in
 chronology order). This is the same source of truth the authoring and grounded
 cold-read lanes use.
 
