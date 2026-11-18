@@ -399,7 +399,7 @@ Hosts still open: *Whiskey and Wine* ({{Winter Wonderland}} / {{Claim}} / a Marc
 
 ## 36. The {{Massage Table}}'s SATC retell beat — rehome (DISCUSS)
 
-The retell beat (the voice-change mid-telling; *"Comfortable?"*) needs a home — restraint-introduction is the table scene's one axis advance, so the retell doesn't ride it. Candidates: the next brunch after the table, or {{Cabin Debrief Brunch}}.
+The retell beat (the voice-change mid-telling; *"Comfortable?"*) needs a home — restraint-introduction is the table scene's one axis advance, so the retell doesn't ride it. Candidate: the next brunch after the table.
 
 ## 37. Crisis-sequence chronology entries — not yet chartered (DRAFT/DISCUSS)
 

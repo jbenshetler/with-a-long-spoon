@@ -26,7 +26,7 @@ A handful of short chapters dramatizing the Telling operating on Vee night after
 
 ## Placement
 
-Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling installs at {{Grace}}; never retroactive), interleaved between the staged escalations so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them. The one narrated act lives inside {{Postcard}} (`meta-plan-chronology.md`). The valve opening late is what makes March combustible: the rule just installed, the ache newly banked, then the separation and the photo.
+Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling installs at {{Grace}}; never retroactive); beat 2's *brunch she just had* is {{Cabin Debrief Brunch}}, and beat 3 lands before the break. {{Grace}} stays before the break because the cluster needs solo nights and fresh brunch material, both absent inside it. The beats are interleaved between the staged escalations so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them. The one narrated act lives inside {{Postcard}} (`meta-plan-chronology.md`). The valve opening late is what makes March combustible: the rule just installed, the ache newly banked, then the separation and the photo.
 
 ## Craft guards
 

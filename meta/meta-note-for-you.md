@@ -44,4 +44,5 @@ For one beat Randi **almost says it as hers** — the *"for Pace"* frame drops, 
 ## Continuity
 
 - **Rung 2/3 of Randi's fixation ladder** (breasts @ {{My Pleasure}} → mouth here → taste, summit at {{Scalding Jealousy Ignition}}).
-- **Placement provisional:** ~early March, before Spring Break, as the pivot into {{In Her Place}} (~April). Exact slot TBD as the spring sequence firms.
+- **Placement:** Randi's weeknight days after she hears the word from Vee ({{Cabin Debrief Brunch}}), before she leaves for her own break trip, and before {{Claim}}, where Vee strips these white sheets. It is the pivot into {{In Her Place}}.
+- **Randi's answer to the word.** She has just heard that Pace said *I love you* to Vee. **Guard:** she does not say the word here (no pre-running {{In Her Place}}'s comparison-fishing); it sits under the mouth question, unspoken. Pace does not know she knows.

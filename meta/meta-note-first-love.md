@@ -53,7 +53,7 @@ These revise standing canon, now applied in `meta-arch-bible.md` and `meta-arch-
 1. **Split the single "first love" into two relationships** (above). The vow's "empirical proof" attaches to the **first** (age-15) wound; the coded-channel set-piece stays with the **second**.
 2. **Relax "keep the first love almost entirely offscreen."** New rule: *the first love surfaces **twice** — told contained in {{Rock}} (facts plain, ages explicit, Vee clocks-and-holds the wrong) and broken open in {{Excavations}} (the wound arriving) — heartbreak visible, the lesson/vow never stated in either.* The "offscreen" discipline still governs everywhere except those two tellings.
 
-The vow's climax is untouched: it still breaks only **after she's gone, to no one.** He recounts the heartbreak here; he never declares.
+The vow breaks at {{Grace}}. He says the words twice in his life — to Daphne and to Vee — and both times his heart is broken; the second, when Vee leaves after the reveal, stays off the page (`meta-arch-pace.md` → The Vow Against Declaration). He recounts the first heartbreak here; he does not declare.
 
 ## Don't fuse with the scar
 

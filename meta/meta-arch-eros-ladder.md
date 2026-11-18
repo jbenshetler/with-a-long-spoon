@@ -113,7 +113,7 @@ warranted.)
 
 ---
 
-## 5. The Pace baseline — eros acknowledged, declaration withheld
+## 5. The Pace baseline — eros acknowledged, declaration withheld until {{Grace}}
 
 The Pace track is the control case: **mutual eros both parties know**, with the *declaration*
 withheld, gated by who-says-*I-love-you*-first. Its machinery is a complete evasion grammar:
@@ -123,6 +123,8 @@ withheld, gated by who-says-*I-love-you*-first. Its machinery is a complete evas
 - named-then-refused: "She loved him. There." — `above-him.md:21`
 - external naming (Cassie) — `not-in-your-bed.md:31`
 - Pace's displacement: "I love how *good we are together*" — `seconds.md:33`
+
+The withholding runs through the fall and winter. At the end of {{Grace}}'s night he says it: *"Vee, I love you."* The {{Nothing Underneath}} stall completes (prose pending; `meta-arch-pace.md` → The Vow Against Declaration). The word is real; the structure under it is the lie.
 
 The category is safe; only the saying is dangerous.
 

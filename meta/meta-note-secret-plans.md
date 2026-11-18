@@ -25,7 +25,7 @@ Like the Drawer's first visit, this lives off-page — it protects the surprise 
 
 - **The costume.** Barely covers her when she's still; **highly revealing in motion**; seamed with **few stitches so it tears away a piece at a time.** This is canon costume-logic: Pace gifts garments (the dress, the plum lingerie, the tap pants), and *building the failure into the seams* is a Pace-precision tell — he crafted her a gorgeous thing **designed to come apart.** Tender AND instrumental, unresolved: a labor of love that is also an exposure-engine.
 - **The "alien tech."** The sci-fi frame **licenses devices normally outside his register** — a **vibrator** and a **nipple corrector** (a suction device, real-world use on inverted nipples, here run in **cycles/pulses** for pleasure or light pain). The license is diegetic (the overlord's interrogation hardware); structurally the devices **fold into his signature** rather than violating it — each is another lever for him to control *when* relief arrives (the bench's deny-the-grind, sci-fi-skinned). See **The devices** below for the register guard.
-- **Making-as-love.** The hours of labor are the *I love you* he can't speak (rhymes the oiled-wood key box, the dress). Submerged: he is *engineering the costume and the apparatus* of her own undoing — sweet on the surface, instrumental underneath.
+- **Making-as-love.** The hours of labor are his *I love you* in deed (rhymes the oiled-wood key box, the dress). Submerged: he is *engineering the costume and the apparatus* of her own undoing — sweet on the surface, instrumental underneath.
 
 ## Panel 2 — The Princess (the scene)
 
@@ -115,7 +115,7 @@ Per the step-1a discipline (decide, don't auto-plant), the cross-scene threads c
   2. **Told to Randi at SATC** → the brunch retell (above), now *more* loaded (an authored retell).
   3. **Randi later wants them for herself** → survives via the clamps appearing as torture and the retell.
 - **The clamp *sensation* is not lost** — clamps remain available within the torture menu (the bible's shame-staircase "clamps/bondage, sustained awareness" beat is satisfied inside this scene).
-- **Dates (chronology owns these):** The Ask ~mid-late March; Pace Builds off-page ~the following week; The Princess ~late March / early April (a warm afternoon); brunch retell within days; the Randi→Pace joke — rehomed into `in-her-place.md` (~April), no longer standalone. Builds correctly on the agency staircase: the cabin (made the agent of her own exposure; the Telling installs) → she authors a whole scene.
+- **Dates:** the chronology owns these (the cluster sits in late April; The Princess on a warm afternoon). The Randi→Pace joke lives in `in-her-place.md`. Builds correctly on the agency staircase: the cabin (made the agent of her own exposure; the Telling installs) → she authors a whole scene.
 - **Threesome resonances (submerged, never on the page):** she practices the **permission-fiction** (authoring a frame that lets her want what she can't say) — the exact mechanism she'll walk into the threesome on; the recurring failed grab pre-rhymes the stripping of every frame; the MacGuffin-as-unspoken-yes pre-echoes her never naming the threesome desire.
 
 ## Still open

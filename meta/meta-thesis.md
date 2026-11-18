@@ -64,7 +64,7 @@ Her shame is not eliminated. It is constitutional and the year did not remove it
 
 Each carrier is mute about the one plain sentence that would be happiness, and the muteness is the operational form of the appetite, not a separate failing. The bare register — love spoken plainly, a want declared cleanly — is the one the appetite cannot use, because the appetite lives in a frame and the bare thing would dissolve it.
 
-**Pace cannot say *I love you.*** His appetite operates through the construction — the made object, the engineered rule-break, the eroticized shame — and the plain word is the one register it cannot run in.
+**Pace cannot say what he has built.** His appetite operates through the construction — the made object, the engineered rule-break, the eroticized shame. For most of the year the foreclosed sentence is *I love you*; at {{Grace}} he says it, and the muteness moves under it, onto the construction itself. In his own account the silence is not concealment but timing: the threesome is a gift to them both — what each wants, and, as he sees it, needs his help to reach — and a gift is not named before it is given. So the plain account — Randi, the instrument, the plan — stays unsaid, and the word he does say is spoken from inside the frame, over a structural lie; and framed is lethal.
 
 **Randi cannot say *I want you*** to Vee. She cannot be received — the bench established it — so a plain declaration is a bid for the one thing she has no equipment to hold. Her only channel is to *operate* on her; the sadism is not love's alternative but love's sole available wire.
 

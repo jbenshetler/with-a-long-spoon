@@ -1,6 +1,6 @@
 # Condensed — Burn
 
-*SCENE · Drafted (`scenes/burn.md`) · ~mid-to-late February (before {{Grace}}; the {{Massage Table}} follows shortly) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-burn.md)*
+*SCENE · Drafted (`scenes/burn.md`) · after {{Grace}} and Spring Break (the {{Massage Table}} follows shortly) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-burn.md)*
 
 Vee into **Pace's** world (the reciprocal of {{Among Friends}}) — and it goes wrong, **vindicating** the sealed room rather than opening it. The outside world proves careless and dangerous; his fury and then his tending draw her back to the sanctuary, which she (and the reader) come to feel as *more* precious, not less. Frightening then tender on the surface; the cold (the cage argued *for*) is the reader's. (Title provisional; author may rename.)
 
@@ -20,7 +20,7 @@ Drive home (the need traces back to his taking her lifting seriously in the gym)
 The injury is **why he buys** the massage table (he buys, doesn't build it — canon). **Pace-interior: not rendered in this scene** (Vee POV closes on the held heat); the decision lands off-page. The **{{Massage Table}}** scene that follows shortly keeps the gift register and introduces restraint as protection (this beat *inspires* the purchase, it is not that scene).
 
 ### Placement / sequencing
-Before **{{Grace}}** (its tender "Keep still / not yet" prefigures the Telling in a non-engineered key — the reader meets "he holds us both in the not-having" as protection first, rule later) and before the **{{Massage Table}}**, which follows shortly (the injury fresh — it inspires the purchase and receives "Keep still" as restraint-introduced-as-protection; the engineered-edging contrast waits for {{Vee on the Bench}}). Give it air from Cabin too (don't stack two Pace-redemption beats).
+After **{{Grace}}**, under the Telling (`meta-note-burn.md`, Placement), and before the **{{Massage Table}}**, which follows shortly (the injury fresh — it inspires the purchase and receives "Keep still" as restraint-introduced-as-protection; the engineered-edging contrast waits for {{Vee on the Bench}}). Give it air from Cabin too (don't stack two Pace-redemption beats).
 
 ### Guards
 - **Same-shape, never named:** no thought of the father; Vee never connects it; body before mind.

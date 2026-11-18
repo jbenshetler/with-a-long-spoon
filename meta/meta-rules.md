@@ -46,7 +46,8 @@
 - [ ] No filing, cataloging, or registering-and-storing — he is in continuous present-tense contact, more like a musician improvising than an analyst reviewing data
 
 **The grammar and the vow**
-- [ ] He does not say *I love you*, *I am yours*, or *I promise* — but once Vee asks explicitly, he knows the not-declaring is a failure, not evidence that he misunderstands her
+- [ ] He does not say *I am yours* or *I promise*, and does not say *I love you* until the end of {{Grace}}'s night (`meta-craft-pace.md` → The Vow in Scenes) — but once Vee asks explicitly, he knows the not-declaring is a failure, not evidence that he misunderstands her
+- [ ] When he says it, the word is real and closes nothing — the Telling, the instrument, and Randi stay under it
 - [ ] The vow usually runs as habit; under declaration pressure he consciously knows, wants to say it, feels guilty and weak, and chooses Daphne-conditioned self-protection
 - [ ] Porch-scene-style discomfort carries three concurrent sources (old habit, the true declaration he wants to make, Daphne-conditioned fear of how badly a later loss could hurt) — available to his introspection without therapeutic diagnosis
 

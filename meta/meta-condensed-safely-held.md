@@ -1,6 +1,6 @@
 # Condensed — Safely Held
 
-*SCENE · Unwritten · ~Sat Feb 6 (first Saturday in February)*
+*SCENE · Unwritten · Valentine's weekend*
 
 **This is the Brooks & Dunn tribute night Sheri invites Pace to at `The Usual` (~late Dec).** He comes and brings Vee — paying off Sheri's *"you're dancing, and I don't care what the redhead's got to say about it."* Sheri (a CW regular) may be present; keep her a texture beat, not a focus — the scene's core is the Pace/Vee consent-and-lift dynamic.
 

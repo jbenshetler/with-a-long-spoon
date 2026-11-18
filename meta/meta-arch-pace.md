@@ -144,7 +144,7 @@ In moments when the situation produces an unusually clean demand for the operati
 
 ### The Parallel with Randi
 
-Both Pace and Randi run habituated refusals on the same architectural shape in different registers. Both prepared by family formation, deployed at a specific adult crisis, compounded across years into something that feels structural. **Randi's refusal of need; Pace's refusal to read the emotional after-register.** Both are recognized by the other as character rather than habit. The friendship and the love run partly on this mutual misreading.
+Both Pace and Randi run habituated refusals on the same architectural shape in different registers. Both prepared by family formation, deployed at a specific adult crisis, compounded across years into something that feels structural. **Randi's refusal of need; Pace's refusal to read the emotional after-register.** Both are recognized by the other as character rather than habit. The friendship and the love run partly on this mutual misreading. He gives Vee primacy and still loves Randi, unsaid (→ `meta-arch-bible.md`, the unwriteable love letter).
 
 Vee is the third practitioner whose refusal is locally relocatable — her apparatus has always been a hungering apparatus; the shame can become fuel; she can revise. **This is the architectural basis for Vee being the one who walks out.** Pace's and Randi's apparatuses do not have this property.
 
@@ -160,7 +160,7 @@ What the grammar does have, and what he will arrive at over the months and years
 
 ## Chivalric Grammar — Deeds, Not Words
 
-The grammar speaks through what he does — the dress, the food, the warm room, the attention, the patience. Each deed is a declaration. Words can themselves be deeds: he is fully articulate, and his true-speech, wit, and culture — the compliment built as an argument, the true thing she needs to hear, the teasing that plays her engine — do real work and are part of the grammar, not exceptions to it. What the grammar routes away is one thing only: the verbal declaration of love. He does not say *I love you.* He does not say *I am yours,* or *I promise.* The not-declaring is not a hole in his architecture; it is the shape of the grammar.
+The grammar speaks through what he does — the dress, the food, the warm room, the attention, the patience. Each deed is a declaration. Words can themselves be deeds: he is fully articulate, and his true-speech, wit, and culture — the compliment built as an argument, the true thing she needs to hear, the teasing that plays her engine — do real work and are part of the grammar, not exceptions to it. What the grammar routes away is one thing only: the verbal declaration of love. He does not say *I love you* until the end of {{Grace}}'s night (→ The Vow Against Declaration). He does not say *I am yours,* or *I promise.* The not-declaring is not a hole in his architecture; it is the shape of the grammar.
 
 Vee's contemporary convention expects verbal declaration. His grammar does not naturally contain it. The mismatch is structural, but once Vee makes the demand explicit Pace sees it: he knows his deeds are not the word she needs, knows he loves her, and still cannot make himself say it. His general after-register blindness remains — he does not assemble what the repeated withholding will become in her — but the immediate failure and its cost are visible to him.
 
@@ -198,9 +198,18 @@ She produced three things, never on one page together:
 
 Separate from the chivalric grammar; operating below it; older. The mother supplied the materials; **Daphne** supplied the seal (the section above) — he overrode the caution once, said the words, heard them back, and it still broke (`meta-note-first-love.md`).
 
-The vow is self-protection. The one time Pace said the words, Daphne said them back, left anyway, and her departure consumed his life. He falsely believes that if he keeps the love unspoken, another loss may hurt but cannot take him over in the same way.
+The vow is self-protection. The one time before Vee that Pace said the words, Daphne said them back, left anyway, and her departure consumed his life. He falsely believes that if he keeps the love unspoken, another loss may hurt but cannot take him over in the same way.
 
-By {{Cropped}}'s porch movement, he knows what Vee is offering, knows he loves her, and wants to answer. He deliberately says around it, feels guilty and weak for doing so, and protects himself anyway. The vow holds throughout the year and never produces a declaration. It slips once, involuntarily, with no demand in play: on the doorstep at {{Nothing Underneath}}, at the sight of her after the silence, he gets as far as *"Vee, I l—"* and she stops him, misreading his face as the December wall coming back up. The word is legible to the reader and never to her (author 2026-10-12). He sees the immediate cost; what his after-register still fails to assemble is the full shape that cost will make in Vee and in their future.
+By {{Cropped}}'s porch movement, he knows what Vee is offering, knows he loves her, and wants to answer. He deliberately says around it, feels guilty and weak for doing so, and protects himself anyway. The vow holds through the fall and winter. It slips once, involuntarily, with no demand in play: on the doorstep at {{Nothing Underneath}}, at the sight of her after the silence, he gets as far as *"Vee, I l—"* and she stops him, misreading his face as the December wall coming back up. The word is legible to the reader and never to her (author 2026-10-12). He sees the immediate cost; what his after-register still fails to assemble is the full shape that cost will make in Vee and in their future.
+
+**The vow breaks at {{Grace}} (author ruling 2026-11-17).** At the end of the night the slip recurs once and completes. He starts again — *"Vee, I l—"* — and stalls. She starts to let him off the hook, her protective reflex (e.g. *"You don't have to—"*). He interrupts her: *"Vee, I love you."* This inverts {{Nothing Underneath}}, where she cut him off. The morning's key stays as written (*house*, not *home*); the night answers the morning's near-miss. The author's reasons:
+- After {{The Usual}} (the realization) and {{Nothing Underneath}} (the start), not saying it "feels wrong."
+- "It sharpens the pain, that the love is built on this structural lie."
+- It "creates real tension in Vee as she comes to acknowledge and accept that she sexually wants Randi."
+
+**Guards.** The word is real; the structure under it — the Telling, the instrument, Randi — is the lie, and saying it closes nothing and heals nothing. Randi's muteness (she cannot say *I want you*) is untouched. Vee's displaced *I love you* ({{Cropped}}'s porch movement, `cropped.md`) is untouched. The deeds-not-words texture before {{Grace}} stands: the vow held all fall and winter. Randi hears the word from Vee at {{Cabin Debrief Brunch}}; her answers run through {{For You}}, {{Postcard}} and {{Grain #2}} (`meta-plan-spring.md`, Randi's jaw).
+
+**The second heartbreak (author ruling 2026-11-18).** He says *I love you* twice in his life, to Daphne and to Vee, and both times his heart is broken. The second break is Vee leaving after the threesome reveal. Pace is never on the page after the reveal — he and Randi hid the structure from her for a year, and she gives them not one minute more — so the heartbreak is never rendered; the reader does the sum.
 
 The vow gives him his story afterward. *I was protecting myself. I did not lie.* He can know the immediate failure and still believe the silence limited the damage. He never sees that the vow was the wound.
 
@@ -210,7 +219,7 @@ The vow gives him his story afterward. *I was protecting myself. I did not lie.*
 
 Pace's privacy with Vee runs on two registers, and the prose must hold both.
 
-**Register one — constitutional, not concealment.** He was already a man who lived privately; the reticence is constitutional comfort, not hiding. What he gives Vee is the most intimate access he gives anyone; she experiences it as being kept outside. Both are true. The gap gets a real spring answer in deed ({{Among Friends}}, {{Another Round}}, {{The Burn}}) — his world proves *small*, not walled; what stays concealed is not a circle of men but Randi — and the private word stays unsaid: the wound narrows without resolving. This register is not a moral failing.
+**Register one — constitutional, not concealment.** He was already a man who lived privately; the reticence is constitutional comfort, not hiding. What he gives Vee is the most intimate access he gives anyone; she experiences it as being kept outside. Both are true. The gap gets a real spring answer in deed ({{Among Friends}}, {{Another Round}}, {{The Burn}}) — his world proves *small*, not walled; what stays concealed is not a circle of men but Randi — and the private word, said at last at {{Grace}}, closes nothing: the wound narrows without resolving. This register is not a moral failing.
 
 **Register two — situational fear, deployed via self-control.** In declaration-adjacent moments — when Vee is asking for or moving toward *I love you* — the privacy stops being constitutional comfort and becomes small ordinary fear of commitment, held shut by the same self-control he runs everywhere else. The porch scene is the worked example: he understands what she is offering, routes it down a register his apparatus can operate, and protects himself from declaring back. This register *is* a small moral failing.
 

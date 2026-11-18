@@ -19,7 +19,7 @@ Keep it **small** — a few words, she presses, he closes it gently, done. The p
 
 ## Step 2 — the telling, in his voice
 
-Spring, Vee POV close third (his read unrendered).
+Spring, after {{Massage Table}} — Vee POV close third (his read unrendered). **Why now (author ruling 2026-11-18):** the word ({{Grace}}) opened him, and {{The Burn}} gives her the moment: she has just been hurt and cared for (`burn.md:113`, *"He found the hurt without being shown it"*), and that opens her to ask about his. **Reread design:** {{The Burn}}'s care is met innocently on first read, then recolored by this telling.
 
 - **The origin given flat — but the flatness is a seal, not peace.** He's buried this, never dealt with it: scar tissue over a memory still full of pus. So it comes out clipped, under-temperature, sealed — and an attentive Vee/reader should feel the **pressure** under the flat surface, something walled and wrong, not something resolved. *He thought it would be funny* is the **father's** framing, reported deadpan; Pace does not find it funny — the deadpan laid over that monstrous detail is the horror. The wounding core is the carelessness, not the gore — render the disregard, not the blood. He under-reacts to his own maiming because to feel it is unbearable, not because it's healed.
 - **The same-shape resonance stays unstated.** He describes being used for someone's experience without his say; he never connects it to himself, to his own checklist, or to Vee. **The reader connects it** — and the cold drop is the reader watching him narrate his own wound while reproducing it blind. This is the safe form of "more sympathetic": the understanding deepens the irony instead of buying him an exit. Never say it on the page (resonance only — the standing rule).
@@ -41,4 +41,4 @@ The two confessions run at **different temperatures** — both unhealed, but the
 - `meta-arch-bible.md` / `meta-arch-pace.md` — scar physical forms, the two origins (front steps at sixteen, bike-dragging at eleven), the same-shape rule (carelessness suffered → carelessness reproduced).
 - `meta-condensed-famished.md` — the plant ("returns later"; do not explain there).
 - `meta-note-first-love.md` — sibling confession (the first love, late summer); the temperature contrast.
-- `meta-plan-chronology.md` — Step 1 rides **{{Rock}}** (~late Oct, the porch/name scene); Step 2 is **The Scar** (~April).
+- `meta-plan-chronology.md` — Step 1 rides **{{Rock}}** (~late Oct, the porch/name scene); Step 2 is **The Scar** (spring, after {{Massage Table}}).

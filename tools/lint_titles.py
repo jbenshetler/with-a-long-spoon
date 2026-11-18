@@ -40,7 +40,6 @@ ALIASES = {
     "Off Six-Fourteen": "Dear",  # Saturday movement, merged 2026-10-23
     "Toenails": "Fed",  # folded into Fed's Saturday movement, 2026-10-23
     "Broken In": "Broken In",
-    "The Jar": "Held Loosely",
     "Jitterbug": "Safely Held",
     "Burn": "The Burn",
     "The Cassie Scene": "The Cassie Scene — Thesis Delivery",

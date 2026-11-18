@@ -14,7 +14,7 @@ Her accuracy produces her self-doubt — the book's signature move: right about 
 
 ## The target is epistemic, never evidentiary
 
-Her case for his love is an inference from abundant physical observation — the dress that fits because his hands measured her, the warm house, the meals, the form in her color, the drawer itself. The grains attack the instrument, not the signal: after this beat, every reading carries a margin of error, and her case is built entirely of readings. This is why the missing words ache more in spring, not less — a spoken declaration is the one piece of evidence that wouldn't route through her instrument; the thing he won't give is the only thing that would be gaslight-proof, and she can't know that's why the want of it has changed weight. The actions-vs-words grit (the cohabitation question: lived reality full, named status absent) was real and dignified before any grain landed; the gaslight removes the ground she stood on while living with it.
+Her case for his love is an inference from abundant physical observation — the dress that fits because his hands measured her, the warm house, the meals, the form in her color, the drawer itself. The grains attack the instrument, not the signal: after this beat, every reading carries a margin of error, and her case is built entirely of readings. The spoken declaration, given at {{Grace}}, is the one piece of evidence that doesn't route through her instrument — the grains can't touch it — so the doubt has nowhere to go but herself. The actions-vs-words grit (the cohabitation question: lived reality full, named status absent) was real and dignified before any grain landed; the gaslight removes the ground she stood on while living with it.
 
 ## Two unaskable questions, one room
 

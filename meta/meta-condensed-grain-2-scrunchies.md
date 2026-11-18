@@ -1,6 +1,6 @@
 # Condensed — Grain #2 — Worn in Plain Sight
 
-*Vignette-thread · Architecture complete, prose not drafted · recurring, March onward · seen only in Vee-POV scenes*
+*Vignette-thread · Architecture complete, prose not drafted · first at the first Randi meeting after Spring Break, recurring after · seen only in Vee-POV scenes*
 
 Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour queen is mimicking *her* style. And not just the style — *her color*: the deep green that isn't in the local stores.
 
@@ -14,7 +14,7 @@ The sighting is fully conscious and completely misread. Vee's reading is flatter
 
 ## Shape
 
-- **First instance — spoken.** Vee delighted (*"did I actually convert you?"*); Randi's double-register reply: *"You've ruined me. I used to have standards."* Warm, frank, fun on first read; on reread she is being complimented on wearing the trespass to its owner's face, and accepting the compliment. No word changes.
+- **First instance — spoken, at the first Randi meeting after Spring Break.** Randi's answer to the word, deliberate (she had the break to decide), and the first to Vee's face (`meta-plan-spring.md`, Randi's jaw). Vee delighted (*"did I actually convert you?"*); Randi's double-register reply: *"You've ruined me. I used to have standards."* Warm, frank, fun on first read; on reread she is being complimented on wearing the trespass to its owner's face, and accepting the compliment. No word changes.
 - **Recurrences — unremarked.** Set dressing riding scenes that do other work; no camera linger, no authorial wink. The prose says "a scrunchie" or "the green" on the incidental recurrences, but the **full descriptor fires at the load-bearing beats** — the christening ({{We Find Out}}), the recognizing instance here, and the reveal — routed through Vee's **notice-and-dismiss** so she reads it and overrides it (see [[meta-plan-scrunchie-gaslight]]); the reread does the rest.
 - **Late variation — post-Restoration.** One sighting where the delight takes a half-second longer to arrive. The only trace that her instrument is still running underneath. Theme-and-variations inside the grain.
 
@@ -35,4 +35,4 @@ Everything in this friendship flows Randi→Vee — the shoes, the borrowed witt
 
 ## Open
 
-First appearance (~March) and recurrence rhythm across the back half — sparse enough never to form a pattern on first read. Plan with the spring SATC block (chronology flag 16). If the reveal takes the confirming image (flag 3), the green at full light is the detonator the reader has carried all year.
+Recurrence rhythm across the back half — sparse enough never to form a pattern on first read. Plan with the spring SATC block (chronology flag 16). If the reveal takes the confirming image (flag 3), the green at full light is the detonator the reader has carried all year.

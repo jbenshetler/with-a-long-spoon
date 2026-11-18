@@ -1,6 +1,6 @@
 # Postcard — Companion Note
 
-**Slug:** `postcard` · **Title:** *Postcard* — ratified by the author 2026-09-12; renamed from the working heading *The Break Set-Piece* · **Slot:** inside Spring Break (Sat Mar 6–Sun Mar 14) · **POV:** Vee · **Present:** Vee, Pace; Randi by photograph only · **Status:** beats workshopped 2026-09-12; first draft written
+**Slug:** `postcard` · **Title:** *Postcard* — ratified by the author 2026-09-12; renamed from the working heading *The Break Set-Piece* · **Slot:** inside Spring Break, after {{Claim}} · **POV:** Vee · **Present:** Vee, Pace; Randi by photograph only · **Status:** beats workshopped 2026-09-12; first draft written
 
 Randi is away. A photograph arrives in the middle of the night. Vee masturbates to it in the bed she shares with Pace, is interrupted before she finishes, and inside the next hour hands her best friend's naked body to a man — voluntarily, out of love, to correct a hurt that was never there.
 
@@ -11,6 +11,8 @@ Randi is away. A photograph arrives in the middle of the night. Vee masturbates 
 1. **The night cluster's one narrated act** (`meta-condensed-night-cluster.md`). The only rendered masturbation in the cluster; breaks the cluster's shrinking form by being long. The permitted lunch-material has become Randi herself, here literally her photograph — *"no toll owed… the fine-ness is what she can't look at."*
 2. **The middle rung of the {{Boyfriend}}-lie ladder.** `meta-plan-spring.md` names spring's job as the undoing of that lie, with "the break's semi-shared honesty" as a step. The ladder: **January, the lie is unconscious** (*"it sorted itself before it reached her mouth"*) → **here, the lie becomes conscious and she keeps it anyway** → **{{Vee on the Bench}}, the voluntary saying.** A *semi*; the un-graying completes at the curtain, not here.
 3. **The betrayal that primes the avoidance.** Vee's withdrawal from Randi after the break is self-caused and needs no engineering. Guilt is the sayable cover; the attraction is what's under it — a displaced *avoidance*, not a displaced fight, which leaves the displaced-fight mechanism unspent for {{The Falling Out and Repair}}.
+
+**The word's double charge (author ruling 2026-11-17).** Pace said *I love you* at {{Grace}}. It makes Vee freer and guiltier at once: free enough to show him the picture, and guilty enough to hide the hour, because he has just told her he loves her and she is masturbating in his bed to another person. The semi-honesty shape holds both. The photograph is also Randi's answer to the word ({{Cabin Debrief Brunch}}); on Vee's read, it is Randi being Randi on vacation.
 
 ---
 
@@ -128,5 +130,6 @@ One source leads per movement; do not route everything through (1) (`meta-craft-
 2. The Randi-loss chapter's container (Pace POV / managed-surface with the sisters / both).
 3. Title ratification, and whether the chronology entry's slug migrates to `postcard`.
 4. Whether to re-sound the spent *"he wasn't in it"* (the {{Nothing Underneath}} flannel line) at beat 11.
+5. The opening (`postcard.md:9`) must take {{Claim}}'s duffel and stop re-narrating {{Claim}} — chronology flag 33.
 
 **Author rulings 2026-10-25.** Ending: "Tuesday was ten days off" → "Tuesday was only days off" (`postcard.md:287`): from Friday dawn the Tuesday class with Randi is four days away, and the count read as arithmetic. Chronology date narrowed to the chapter's own span (Sat Mar 6 – Fri Mar 12) inside the break. Two banned *sternum* uses fixed (`:49` "with her heart going under the phone"; `:247` "her cheek on his chest").

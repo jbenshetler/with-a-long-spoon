@@ -51,7 +51,7 @@ Because she's just stressed the **friendship**, Pace's probe **generalizes** —
 
 This scene is where **Vee joins the withholders**, which retroactively grays her whole case against Pace's unsaid *"I love you."* The triangle is **asymmetric** (thesis: "Operational Muteness") — three *different* withheld sentences:
 
-- **Pace → Vee:** can't say **"I love you"** (the appetite can't run in the plain register).
+- **Pace → Vee:** can't say **"I love you"** (the appetite can't run in the plain register) — until {{Grace}}, where he says it over the lie (`meta-arch-pace.md` → The Vow Against Declaration).
 - **Vee → Randi:** can't say **"I want you"** — canonically *appetite-structural* (the received version defuses the charge; "bare is empty") **and**, from here on, *cowardice.* Both true; let the scene hold both, don't overwrite the appetite frame with fear.
 - **Randi → Vee:** *says* "I love you" freely (agape over eros — she means it doubly, no qualifier); withholds only **"I want you"** in a register that forces Vee to decide ({{Fairytale}}: "the word kept its cover").
 
@@ -63,6 +63,6 @@ Warm on both reads; the cold lives only in what the reader knows (he's Randi's l
 
 ## Placement / continuity
 
-Same Saturday night → Sunday, immediately after {{On Her Floor}}, which now **ends on the party** — *"there was no version of the night in which she could ask."* The homecoming coda (walk home + arrival + the troublesome-skirt blame-shift) **moved into this scene's opening**, where the strumming, unsettled body is the *engine* of the flight and regrounds a reader returning after the chapter break. The *"he gets me Sunday"* handoff. Before {{The Jar}} (whose cold open has Randi probe *"you didn't tell Pace, did you?"* — by then he already knows). {{Gesso}} now falls *after* this scene, so the kiss is a present, unspoken weight when Vee shows Randi the {{Still Life}} photo.
+Same Saturday night → Sunday, immediately after {{On Her Floor}}, which now **ends on the party** — *"there was no version of the night in which she could ask."* The homecoming coda (walk home + arrival + the troublesome-skirt blame-shift) **moved into this scene's opening**, where the strumming, unsettled body is the *engine* of the flight and regrounds a reader returning after the chapter break. The *"he gets me Sunday"* handoff. Before {{Held Loosely}} (whose cold open has Randi probe *"you didn't tell Pace, did you?"* — by then he already knows). {{Gesso}} now falls *after* this scene, so the kiss is a present, unspoken weight when Vee shows Randi the {{Still Life}} photo.
 
 **Pace knew about the mixer** (author ruling 2026-08-16). Vee would have told him her Saturday plans as a matter of course — this is the **first Saturday night the two have spent apart** (excepting holidays and the Christmas break-up), so her being out at the mixer is known to him; the *telling* is below the threshold of rendering and stays off the page. This is what lets Pace **name the mixer** in his challenge (*"Did something happen at the mixer?"*) without it reading as an assumption the page can't support — his read of the *anger* is his own (the tell in the sex), but the *venue* he simply knew. (Distinct from the mixer kiss itself, which he learns only from her confession.)
