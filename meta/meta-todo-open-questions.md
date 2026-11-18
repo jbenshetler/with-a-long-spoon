@@ -395,7 +395,7 @@ drafting workflow.
 
 ## 35. Un-chartered taste gates — *Whiskey and Wine* and *The Almost* hosts (DISCUSS)
 
-Hosts still open: *Whiskey and Wine* ({{Winter Wonderland}} / {{Claim}} / a March host) and *The Almost* (post-break candidates). Both gates ride Pace scenes, post-{{Gesso}}, in sequence, spaced; the Secret Plans cluster is ruled out as a host; {{Grace}} holds taste.
+Hosts still open: *Whiskey and Wine* (a March Pace scene; host TBD) and *The Almost* (post-break candidates). Both gates ride Pace scenes, post-{{Gesso}}, in sequence, spaced; the Secret Plans cluster is ruled out as a host; {{Grace}} holds taste.
 
 ## 36. The {{Massage Table}}'s SATC retell beat — rehome (DISCUSS)
 
