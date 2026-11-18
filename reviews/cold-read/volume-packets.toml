@@ -2,9 +2,9 @@
 # at that volume's opening chapter. Missing future-volume packets fail closed.
 #
 # Source of truth: meta/meta-blurb.md (Test-epub blurb + tagline) and
-# meta/meta-cover.md (Cover text). Volumes 1 and 2 regenerated 2026-10-20, Volumes 3
-# and 4 2026-10-23, to the post-split copy. Standing rules (author 2026-08-09, renumbered): tagline ends on
-# "problem" not "trap"; no "third in their bed" promise (threesome is a Volume Four
+# meta/meta-cover.md (Cover text). Volumes 1 and 2 regenerated 2026-10-20, Volumes 4
+# and 5 2026-10-23, Volume 3 2026-11-18, to the post-split copy. Standing rules (author 2026-08-09, renumbered): tagline ends on
+# "problem" not "trap"; no "third in their bed" promise (threesome is a Volume Five
 # payoff — early copy foregrounds the plan); warmth-first, all three principals named;
 # no "girl"/girlhood on the jacket (2026-10-20).
 #
@@ -16,7 +16,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "ef1fd43cb64ff0c6a44c671a2c90ddf7568d02e1ba648c28836f408cb7b68ba0"
+blurb_source_sha256 = "519b66d20c980661532dfbdc404fc0e12d6ff91fe25ac6e15d186678ea632df3"
 
 [volumes."1"]
 opening_slug = "the-bench"
@@ -59,12 +59,32 @@ The jacket / blurb page:
 >
 > *Book Two of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
 
-# Volume 3 (spring, "A Proper Serving") — full jacket, accepted 2026-10-23 (the
-# copy under "## Volume 3 blurb" in meta/meta-blurb.md). Replaced the pre-split copy
-# written when this content was Book Two.
+# Volume 3 (spring-1, "A Place at the Table") — full jacket, accepted 2026-11-18
+# (the copy under "## Volume 3 blurb" in meta/meta-blurb.md).
 [volumes."3"]
 opening_slug = "missed-a-spot"
-packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK THREE**, the volume title **A PROPER SERVING**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK THREE**, the volume title **A PLACE AT THE TABLE**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+
+The jacket / blurb page:
+
+> Randi and Pace chose Vivienne "Vee" Thorne together, before she knew either of them. She thinks she found them on her own.
+>
+> Vee is a college junior. Pace, a mathematician, can show her love in a hundred ways and cannot say it. In December she asked him for the word, and when he wouldn't give it she walked out. After the coldest winter of her life she went back, on Randi's advice, and surprised him on his porch. They are together again. What she asked for in December has never come up since.
+>
+> And there is Randi, glamorous and rich, the best friend Vee has ever had, the one she tells everything. The night Vee came to her in tears, Vee kissed her. Not the goodbye Randi always gives her. Vee started this one herself. She has a dozen reasons it meant nothing, and she keeps needing another.
+>
+> *A Place at the Table* is warmer and more explicit than the book before it.
+>
+> She has a place at the table. She thinks she's a guest.
+>
+> *Book Three of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
+
+# Volume 4 (spring-2, "A Proper Serving") — full jacket, accepted 2026-10-23 (the
+# copy under "## Volume 4 blurb" in meta/meta-blurb.md). Replaced the pre-split copy
+# written when this content was Book Two.
+[volumes."4"]
+opening_slug = "cabin-debrief-brunch"
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK FOUR**, the volume title **A PROPER SERVING**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
 
 The jacket / blurb page:
 
@@ -80,14 +100,14 @@ The jacket / blurb page:
 >
 > Vee is a willing player in two games. She doesn't know there are three.
 >
-> *Book Three of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
+> *Book Four of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
 
-# Volume 4 (summer, "A Hot Meal") — full jacket, recorded 2026-10-23 (the copy
-# under "## Volume 4 blurb" in meta/meta-blurb.md). Replaced the title-only card
+# Volume 5 (summer, "A Hot Meal") — full jacket, recorded 2026-10-23 (the copy
+# under "## Volume 5 blurb" in meta/meta-blurb.md). Replaced the title-only card
 # (author ruling 2026-08-23) it carried until a summer blurb existed.
-[volumes."4"]
+[volumes."5"]
 opening_slug = "ignition-scalding"
-packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK FOUR**, the volume title **A HOT MEAL**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK FIVE**, the volume title **A HOT MEAL**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
 
 The jacket / blurb page:
 
@@ -103,4 +123,4 @@ The jacket / blurb page:
 >
 > She asked not to see. Everyone else already can.
 >
-> *Book Four of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
+> *Book Five of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''

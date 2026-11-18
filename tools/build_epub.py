@@ -88,15 +88,22 @@ PACKAGING = {
         "stem": "a-warm-reception",
         "cover": "images/a-warm-reception-cover-placeholder.png",
     },
-    "spring": {
-        # Jacket copy rewritten for the post-split spring, accepted 2026-10-23.
+    "spring-1": {
+        # Jacket copy accepted 2026-11-18; no cover asset yet.
         "blurb_heading": "## Volume 3 blurb",
+        "stem": "a-place-at-the-table",
+        "cover": "images/cover.png",
+    },
+    "spring-2": {
+        # Jacket copy accepted 2026-10-23 for the whole spring; to be trimmed to
+        # the second half.
+        "blurb_heading": "## Volume 4 blurb",
         "stem": "a-proper-serving",
         "cover": "images/a-proper-serving-cover-placeholder.png",
     },
     "summer": {
         # Jacket copy recorded 2026-10-23.
-        "blurb_heading": "## Volume 4 blurb",
+        "blurb_heading": "## Volume 5 blurb",
         "stem": "a-hot-meal",
         "cover": "images/cover.png",
     },
@@ -289,7 +296,7 @@ def strip_emphasis(text: str) -> str:
 def _cut_at_subheading(section: str) -> str:
     """Trim a section at its first ### subheading.
 
-    The Volume 3 blurb section keeps runner-up alternates under ### headings
+    The Volume 4 blurb section keeps runner-up alternates under ### headings
     below the accepted copy; we want only the accepted copy's blockquotes.
     No-op for Vol 1 (its blurb section has no ### subsections).
     """

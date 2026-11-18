@@ -236,9 +236,9 @@ The night reunion, on Randi's counsel. She *puts herself together* (long coat, h
 
 ---
 
-**◆ VOLUME THREE — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
+**◆ VOLUME THREE — Spring**  ·  *the Middle — the bloom; the word asked for, the kiss she started*
 
-## Spring (Book 3 — A Proper Serving)
+## Spring (Book 3 — A Place at the Table)
 
 ### [SCENE] Missed a Spot
 *Sat Jan 16 · the first full day (Saturday) of the reconciliation weekend · before {{A Clean Plate}} and {{The Reach}}* · Draft complete · `missed-a-spot.md` · Vee POV · [detail](meta-condensed-missed-a-spot.md) · [craft](meta-note-missed-a-spot.md) · slug: missed-a-spot · present: Vee, Pace
@@ -350,6 +350,12 @@ Randi takes ~6 scrunchies from the form (~38 → ~32) during one of her weekday 
 *Fri Feb 26 – Sat Feb 27* · Draft complete; the word: revision planned (author ruling 2026-11-17) · `grace.md` · [detail](meta-condensed-grace.md) · [craft](meta-note-grace.md) · days: Fri Feb 26 | Sat Feb 27 @ "Saturday came up clear" (quiet) · slug: grace · present: Vee, Pace
 His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the morning's answer, in place of the word). The transgression is **watched masturbation** (*"Go ahead… Show me"* — she's made the agent of her own exposure); the **Telling installs** (tell, not ask). "Adventure" first *invited* here (coined at {{Still Life}}). Taste held for {{First Taste}} (~late May). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer. **The word, at the end of the night (author ruling 2026-11-17):** he starts again, *"Vee, I l—"*, and stalls; she starts to let him off the hook (*"You don't have to—"*); he interrupts her: *"Vee, I love you."* It inverts {{Nothing Underneath}}, where she cut him off. The key stays as written in the morning (*house*, not *home*); the night answers the morning's near-miss. The watched act's *you, you, you* stays aimed where it is; the word comes after. Canon and guards: `meta-arch-pace.md` → The Vow Against Declaration.
 
+---
+
+**◆ VOLUME FOUR — Spring, second book**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
+
+## Spring, second book (Book 4 — A Proper Serving)
+
 ### [SCENE] Cabin Debrief Brunch
 *~Sun Feb 28 · the first Randi meeting after {{Grace}} (exact date at drafting) · in person, not by text* · Unwritten · SATC · debrief register · slug: cabin-debrief-brunch · present: Vee, Randi
 Vee tells Randi she let him watch — the exposure she crossed — and that he said he loves her. *He loves me* is the safest thing she can tell Randi: a shield, the same hetero bona fides {{Claim}} runs on. Feeds the night cluster's beat 2 (*the brunch she just had*) and {{For You}}. Randi receives confirmation the plan worked at its deepest level; steers Vee toward acceptance rather than shame or regret — genuine warmth that is also the coldest calculation so far. Goodbye-kiss staircase: the goodbye lingers a beat too long; Vee explains it away. First read: the glamorous friend talked me out of my embarrassment. Second read: confirmation received, staircase advanced.
@@ -457,11 +463,11 @@ The bench returns (opening payoff), now under Vee — *used on only two women, R
 
 ---
 
-**◆ VOLUME FOUR — Summer**  ·  *the End — the rupture and the reveal*
+**◆ VOLUME FIVE — Summer**  ·  *the End — the rupture and the reveal*
 
 *Summer 2027. Vee and Randi stay for Dr. Marsh's two-site fieldwork (separate sites, long days, weekends only); Cassie is away on a nursing internship; Vee splits scarce free time between Pace's house and Randi. Weekend-scarcity and isolation are the engine — full frame: [summer plan](meta-plan-summer.md).*
 
-## Summer (Book 4 — A Hot Meal)
+## Summer (Book 5 — A Hot Meal)
 
 ### [SCENE] Scalding Jealousy Ignition
 *~June* · Draft complete · `ignition-scalding.md` · Pace POV · [craft](meta-note-ignition-scalding.md) · slug: ignition-scalding · present: Pace, Randi, Vee

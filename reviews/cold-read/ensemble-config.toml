@@ -164,14 +164,15 @@ retired = [
 # author-approved 2026-10-12, renumbered 2026-10-30 after the chapter merges:
 # volume seams are Rock (ch022, end of Volume One) and Nothing Underneath (ch047,
 # end of Volume Two). Boundary 22 is a raw Volume One pass; 30/40/47 are Volume
-# Two and seed from Rock; 50/60/70 are Volume Three and seed from Nothing
-# Underneath.
+# Two and seed from Rock; 50/60 are Volume Three and seed from Nothing
+# Underneath; 70 is Volume Four and seeds from Grace (Volume Three's last drafted
+# chapter; spring split, author ruling 2026-11-18).
 "30" = "rock"
 "40" = "rock"
 "47" = "rock"
 "50" = "nothing-underneath"
 "60" = "nothing-underneath"
-"70" = "nothing-underneath"
+"70" = "grace"
 
 # ---------------------------------------------------------------------------
 # OpenRouter provider routing + per-use policy.
