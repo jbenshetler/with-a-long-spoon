@@ -4855,11 +4855,25 @@ text = "It was only the size of it, flat and factual, next to the warm sprawl of
 note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
 
 [[ok]]
+fp   = "fa145b28eb32"
+rule = "warm"
+file = "scenes/rock.md"
+text = "His hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm."
+note = "re-armed by author-approved Rock C1 insert (2026-11-19): sentence moved from :7 to after the lean; previously acked"
+
+[[ok]]
 fp   = "83743d35bf29"
 rule = "whole-of"
 file = "scenes/rock.md"
 text = "She turned her hand over under his so their palms were together over the scar, and left it, and that was the whole of the asking and the whole of the answer."
 note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
+
+[[ok]]
+fp   = "3c31e468e688"
+rule = "without-asking"
+file = "scenes/rock.md"
+text = "His hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm."
+note = "re-armed by author-approved Rock C1 insert (2026-11-19): sentence moved from :7 to after the lean; previously acked"
 
 [[ok]]
 fp   = "53a6b39872e6"

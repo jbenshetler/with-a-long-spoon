@@ -4,9 +4,37 @@ Behind them the fire worked quietly in the den. In front of them the glass held 
 
 She had her feet tucked under his thigh. He had handed her the robe off the back of the closet door and taken the quilt down without being asked, and now they were under it, his boxers and her skin and his robe over her shoulders, and the tea gone cool in the mugs on the low table because they had stopped drinking it in order to keep talking.
 
-The robe smelled like him at the collar. Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin. She had tied it badly, it had fallen open, and she didn't mind. He looked and his face softened. Then his hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm, and with his other hand he drew the quilt higher over them both.
+The robe smelled like him at the collar. Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin. She had tied it badly, it had fallen open, and she didn't mind. He looked and his face softened. He drew the quilt higher over them both.
 
-They had been talking for a while. She could not have said how they had started. With Pace a thing she said lightly did not disappear. He picked it up. He turned it over. He gave it back warmer, or stranger, or more exact than she had known it could be, and then the next thing would open from that one, and the next, until a whole conversation had happened without any sense of having been steered.
+She leaned into him, and the robe slid further open. His hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm.
+
+"I keep thinking about the dress," she said. "I'll be walking to class, or in the middle of something else, and it comes back, and I can't help smiling. My face is sore." She laughed at herself. "A week from tomorrow. I can't wait to wear it."
+
+He bent and put his mouth to her shoulder where the robe had come off it, and stayed there.
+
+"That makes me happy," he said.
+
+Then he was quiet. She felt it in the hand over her breast before he said anything. Not a pulling away. A stillness.
+
+"I can't be there."
+
+"What?"
+
+"My supervisor's baby came early. Mother and daughter are fine." He gave her the good news first, and she heard him do it. "He was meant to give a talk at a workshop in Berkeley. Three days, next week. He's asked me to give it for him." A breath. "He called this afternoon. I've been looking all night for a good place to tell you, and there isn't one."
+
+"Oh," she said.
+
+The idea of Pace's face missing from the audience as she walked the stage left her hollow.
+
+"It's the same three days," he said. "I looked."
+
+"It's only a ceremony." It came out thin, and they both heard it. "You have to. A baby."
+
+"I made it for *you*." His thumb moved once against her. "I'll be thinking about you in it the whole three days. Being stunning in it without me."
+
+She laughed, it surprised out of her, and turned her face into his neck, and the hurt was still there, and so was he.
+
+They sat a while without talking, her face still in his neck. Then somehow they were talking again. With Pace a thing she said lightly did not disappear. He picked it up. He turned it over. He gave it back warmer, or stranger, or more exact than she had known it could be, and then the next thing would open from that one, and the next, until a whole conversation had happened without any sense of having been steered.
 
 They had been on food. He had cooked, earlier, before the rest of it, and they had eaten at his kitchen table, the small one, across from each other with the food between them and his face on the other side of it. She had made a sound over the first bite that she was a little embarrassed by, and now she was trying to explain the sound.
 

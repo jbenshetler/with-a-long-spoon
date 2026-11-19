@@ -5,6 +5,8 @@ Ground truth lives here (read-only):
 - `meta/meta-triage-<slug>.md` — the author's prior rulings per chapter, including what was left standing and why.
 - `scenes/<slug>.md` — the prose.
 - Search with `tools/novel-assistant/na.py search "<query>" --json` (recall over scenes and meta, line-anchored) and `rg`. Read only what you need.
+- Authority when docs disagree: the plot has changed many times, and the author has overruled the architecture docs (`meta-arch-*.md`, `meta-thesis.md`, `meta-note-*.md`) often. The chronology and the author's dated rulings (triage docs, `audits/structural/rulings.md`, commit messages) win over architecture. When a cited architecture line conflicts with the chronology or a later ruling, say so, give each line's last-change date (`git log -1 --format=%as -L<line>,<line>:<file>`), and prefer the newer. Never resolve a conflict silently.
+- `audits/structural/rulings.md` — the author's rulings on earlier structural findings, including standing standards; apply them.
 - `audits/structural/metrics-vol1-2-3.md` — deterministic counts (presence, name mentions, gaps, capture z, drag votes). Use it to test any absence, proportion or pacing claim.
 
 Do not read `reviews/` except where a finding is about reader response; reviews are reactions, not canon.
@@ -22,8 +24,8 @@ VERDICT: defect | designed-not-landing | designed-and-landing | planned-fix | al
 PLAN: what the planning docs say, quoted briefly, with `file:line`. "Nothing found" if nothing.
 PRIOR RULING: the triage ruling verbatim with `file:line`, or "none".
 COUNTS: the relevant numbers from the metrics file, or "n/a".
-PROPOSAL: the smallest change that answers the finding while serving the plan — a cut, a merge, a moved beat, a planted line, a re-scoped chapter, a planned chapter re-aimed — naming chapters. Or "discuss" with the decision the author must make. Never prose.
-RISK: what the change could break (praised material, a seeded thread, the thesis), with sources.
+OPTIONS: two to four distinct ways to answer the finding, from smallest to largest — a cut, a merge, a moved beat, a planted line, a re-scoped chapter, a planned chapter re-aimed, a moved volume break — each naming chapters, saying what it changes, and its risk (praised material, a seeded thread, the thesis, a later volume), with sources. Never prose.
+RECOMMENDATION: which option and why, in two or three sentences; or "discuss" with the decision the author must make first.
 
 Then a final section:
 
