@@ -1,0 +1,2335 @@
+{
+ "names": [
+  "Vee",
+  "Randi",
+  "Pace",
+  "Cassie",
+  "Meg",
+  "Brooke",
+  "Sheri",
+  "Kayla",
+  "Danny",
+  "Theo",
+  "Sondra",
+  "Harrison",
+  "Corolla",
+  "Marsh",
+  "Kinsey",
+  "Caroline",
+  "Draper",
+  "Paris",
+  "Mercedes",
+  "Virginia",
+  "Daphne"
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "slug": "the-bench",
+   "vol": 1,
+   "title": "The Bench",
+   "date": "2026-09-04",
+   "gap_days": null,
+   "words": 9910,
+   "dialogue": 0.03,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Randi": 2,
+    "Pace": 10,
+    "Brooke": 1,
+    "Daphne": 1
+   },
+   "capture_z": -0.11,
+   "capture_readers": 11,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 2,
+   "slug": "standards",
+   "vol": 1,
+   "title": "Standards",
+   "date": "2026-09-05",
+   "gap_days": 1,
+   "words": 1820,
+   "dialogue": 0.15,
+   "present": [
+    "Randi"
+   ],
+   "mentions": {
+    "Randi": 15,
+    "Pace": 4,
+    "Brooke": 19,
+    "Kinsey": 7
+   },
+   "capture_z": -2.11,
+   "capture_readers": 11,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 3,
+   "slug": "the-pointing-game",
+   "vol": 1,
+   "title": "The Pointing Game",
+   "date": "2026-09-08",
+   "gap_days": 3,
+   "words": 4923,
+   "dialogue": 0.03,
+   "present": [
+    "Pace",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1,
+    "Randi": 22,
+    "Pace": 5
+   },
+   "capture_z": 0.34,
+   "capture_readers": 11,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 4,
+   "slug": "see-you-later",
+   "vol": 1,
+   "title": "See You Later",
+   "date": "2026-09-09",
+   "gap_days": 1,
+   "words": 3716,
+   "dialogue": 0.07,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 59,
+    "Randi": 44,
+    "Cassie": 17,
+    "Meg": 2,
+    "Draper": 4,
+    "Paris": 1
+   },
+   "capture_z": -0.54,
+   "capture_readers": 11,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 5,
+   "slug": "substitution",
+   "vol": 1,
+   "title": "Substitution",
+   "date": "2026-09-17",
+   "gap_days": 8,
+   "words": 4240,
+   "dialogue": 0.22,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 31,
+    "Randi": 35,
+    "Pace": 8,
+    "Cassie": 19
+   },
+   "capture_z": -0.16,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 6,
+   "slug": "tannin",
+   "vol": 1,
+   "title": "Tannin",
+   "date": "2026-09-17",
+   "gap_days": 0,
+   "words": 1410,
+   "dialogue": 0.05,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 5,
+    "Randi": 11,
+    "Pace": 1
+   },
+   "capture_z": 0.02,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 7,
+   "slug": "water-wings",
+   "vol": 1,
+   "title": "Water Wings",
+   "date": "2026-09-18",
+   "gap_days": 1,
+   "words": 1584,
+   "dialogue": 0.03,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 12,
+    "Cassie": 15
+   },
+   "capture_z": -2.05,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 2,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3",
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "may-i-choose",
+   "vol": 1,
+   "title": "May I Choose",
+   "date": "2026-09-19",
+   "gap_days": 1,
+   "words": 3245,
+   "dialogue": 0.06,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 3,
+    "Cassie": 6
+   },
+   "capture_z": 0.1,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 9,
+   "slug": "dear",
+   "vol": 1,
+   "title": "Dear",
+   "date": "2026-09-19",
+   "gap_days": 0,
+   "words": 4144,
+   "dialogue": 0.29,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 64,
+    "Randi": 38,
+    "Pace": 4,
+    "Cassie": 20,
+    "Brooke": 4
+   },
+   "capture_z": -0.49,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 10,
+   "slug": "leave-no-trace",
+   "vol": 1,
+   "title": "Leave No Trace",
+   "date": "2026-09-27",
+   "gap_days": 2,
+   "words": 5201,
+   "dialogue": 0.09,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 12,
+    "Randi": 2,
+    "Pace": 8,
+    "Cassie": 10,
+    "Meg": 2
+   },
+   "capture_z": 0.41,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 11,
+   "slug": "swim-lanes",
+   "vol": 1,
+   "title": "Swim Lanes",
+   "date": "2026-09-27",
+   "gap_days": 0,
+   "words": 1599,
+   "dialogue": 0.05,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {},
+   "capture_z": 0.51,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 12,
+   "slug": "what-to-wear",
+   "vol": 1,
+   "title": "What to Wear",
+   "date": "2026-10-01",
+   "gap_days": 4,
+   "words": 1574,
+   "dialogue": 0.53,
+   "present": [
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 18,
+    "Pace": 2,
+    "Meg": 10,
+    "Kayla": 17,
+    "Danny": 1,
+    "Theo": 7
+   },
+   "capture_z": -2.47,
+   "capture_readers": 10,
+   "almost_resolved": 0,
+   "almost_standing": 1,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 13,
+   "slug": "two-towels",
+   "vol": 1,
+   "title": "Two Towels",
+   "date": "2026-10-03",
+   "gap_days": 2,
+   "words": 3074,
+   "dialogue": 0.15,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 1
+   },
+   "capture_z": 0.0,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "claude-sonnet-5-5"
+   ]
+  },
+  {
+   "n": 14,
+   "slug": "a-round",
+   "vol": 1,
+   "title": "A Round",
+   "date": "2026-10-03",
+   "gap_days": 0,
+   "words": 6240,
+   "dialogue": 0.01,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1,
+    "Randi": 2
+   },
+   "capture_z": 0.8,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 1,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 15,
+   "slug": "how-its-done",
+   "vol": 1,
+   "title": "How It's Done",
+   "date": "2026-10-03",
+   "gap_days": 0,
+   "words": 6791,
+   "dialogue": 0.27,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 114,
+    "Randi": 55,
+    "Pace": 1,
+    "Cassie": 42,
+    "Brooke": 1,
+    "Corolla": 1,
+    "Mercedes": 1
+   },
+   "capture_z": 0.41,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 16,
+   "slug": "famished",
+   "vol": 1,
+   "title": "Famished",
+   "date": "2026-10-09",
+   "gap_days": 5,
+   "words": 3336,
+   "dialogue": 0.01,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 1
+   },
+   "capture_z": 0.8,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 17,
+   "slug": "fed",
+   "vol": 1,
+   "title": "Fed",
+   "date": "2026-10-10",
+   "gap_days": 1,
+   "words": 2824,
+   "dialogue": 0.27,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 36,
+    "Randi": 24,
+    "Pace": 2,
+    "Cassie": 12
+   },
+   "capture_z": -0.74,
+   "capture_readers": 10,
+   "almost_resolved": 0,
+   "almost_standing": 1,
+   "cold_drag": 2,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "gpt-5.6-sol",
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 18,
+   "slug": "portion",
+   "vol": 1,
+   "title": "Portion",
+   "date": "2026-10-11",
+   "gap_days": 0,
+   "words": 1577,
+   "dialogue": 0.08,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 7,
+    "Randi": 3,
+    "Pace": 2
+   },
+   "capture_z": 0.31,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 19,
+   "slug": "peekaboo",
+   "vol": 1,
+   "title": "Peekaboo",
+   "date": "2026-10-15",
+   "gap_days": 4,
+   "words": 3162,
+   "dialogue": 0.02,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 2
+   },
+   "capture_z": 0.56,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 20,
+   "slug": "sorority",
+   "vol": 1,
+   "title": "Sorority",
+   "date": "2026-10-16",
+   "gap_days": 1,
+   "words": 4661,
+   "dialogue": 0.12,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 65,
+    "Randi": 56,
+    "Pace": 2,
+    "Cassie": 23,
+    "Mercedes": 1,
+    "Virginia": 1
+   },
+   "capture_z": -0.35,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 21,
+   "slug": "gone",
+   "vol": 1,
+   "title": "Gone",
+   "date": "2026-10-19",
+   "gap_days": 2,
+   "words": 1829,
+   "dialogue": 0.26,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 6,
+    "Randi": 7,
+    "Pace": 5
+   },
+   "capture_z": 0.14,
+   "capture_readers": 10,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 22,
+   "slug": "rock",
+   "vol": 1,
+   "title": "Rock",
+   "date": "2026-10-20",
+   "gap_days": 1,
+   "words": 4203,
+   "dialogue": 0.34,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 5,
+    "Randi": 1,
+    "Pace": 3,
+    "Corolla": 1,
+    "Daphne": 1
+   },
+   "capture_z": 0.1,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 23,
+   "slug": "lesson",
+   "vol": 2,
+   "title": "Lesson",
+   "date": "2026-10-22",
+   "gap_days": 2,
+   "words": 3300,
+   "dialogue": 0.18,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 21,
+    "Randi": 1,
+    "Pace": 9,
+    "Cassie": 5,
+    "Meg": 8
+   },
+   "capture_z": -0.14,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 24,
+   "slug": "broken-in",
+   "vol": 2,
+   "title": "broken-in",
+   "date": "2026-10-23",
+   "gap_days": 1,
+   "words": 3952,
+   "dialogue": 0.26,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 52,
+    "Randi": 49,
+    "Pace": 2,
+    "Cassie": 5,
+    "Brooke": 4,
+    "Paris": 3
+   },
+   "capture_z": 0.24,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 25,
+   "slug": "space",
+   "vol": 2,
+   "title": "Space",
+   "date": "2026-10-23",
+   "gap_days": 0,
+   "words": 3070,
+   "dialogue": 0.2,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 6,
+    "Randi": 7,
+    "Pace": 5,
+    "Brooke": 1,
+    "Sheri": 8
+   },
+   "capture_z": 0.3,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 26,
+   "slug": "recognized-method",
+   "vol": 2,
+   "title": "A Recognized Method",
+   "date": "2026-10-24",
+   "gap_days": 0,
+   "words": 4673,
+   "dialogue": 0.1,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1,
+    "Randi": 5,
+    "Pace": 1
+   },
+   "capture_z": 0.79,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 27,
+   "slug": "practice-room",
+   "vol": 2,
+   "title": "The Practice Room",
+   "date": "2026-10-26",
+   "gap_days": 0,
+   "words": 2224,
+   "dialogue": 0.19,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 28,
+    "Randi": 38,
+    "Cassie": 3
+   },
+   "capture_z": 0.37,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 28,
+   "slug": "the-induction",
+   "vol": 2,
+   "title": "The Induction",
+   "date": "2026-10-28",
+   "gap_days": 2,
+   "words": 1685,
+   "dialogue": 0.07,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 9,
+    "Randi": 3,
+    "Pace": 2,
+    "Cassie": 10
+   },
+   "capture_z": -0.16,
+   "capture_readers": 9,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 29,
+   "slug": "we-find-out",
+   "vol": 2,
+   "title": "We Find Out",
+   "date": "2026-10-30",
+   "gap_days": 2,
+   "words": 3811,
+   "dialogue": 0.05,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Randi": 2
+   },
+   "capture_z": 0.67,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 30,
+   "slug": "made-up",
+   "vol": 2,
+   "title": "Made-Up",
+   "date": "2026-10-31",
+   "gap_days": 0,
+   "words": 1519,
+   "dialogue": 0.08,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1,
+    "Randi": 1,
+    "Pace": 1
+   },
+   "capture_z": -0.16,
+   "capture_readers": 9,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 31,
+   "slug": "one-bite",
+   "vol": 2,
+   "title": "One Bite",
+   "date": "2026-11-01",
+   "gap_days": 1,
+   "words": 3125,
+   "dialogue": 0.25,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 32,
+    "Randi": 37,
+    "Cassie": 1,
+    "Mercedes": 1
+   },
+   "capture_z": 0.51,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 32,
+   "slug": "not-in-your-bed",
+   "vol": 2,
+   "title": "Not in Your Bed",
+   "date": "2026-11-06",
+   "gap_days": 5,
+   "words": 3730,
+   "dialogue": 0.09,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 11,
+    "Randi": 3,
+    "Pace": 3,
+    "Cassie": 18
+   },
+   "capture_z": -0.3,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 33,
+   "slug": "above-him",
+   "vol": 2,
+   "title": "Above Him",
+   "date": "2026-11-12",
+   "gap_days": 2,
+   "words": 2799,
+   "dialogue": 0.08,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 1,
+    "Sheri": 1
+   },
+   "capture_z": 0.26,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 34,
+   "slug": "all-the-time",
+   "vol": 2,
+   "title": "All the Time",
+   "date": "2026-11-14",
+   "gap_days": 1,
+   "words": 3264,
+   "dialogue": 0.33,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 44,
+    "Randi": 52,
+    "Pace": 2,
+    "Cassie": 1,
+    "Corolla": 1,
+    "Marsh": 1,
+    "Mercedes": 1
+   },
+   "capture_z": 0.26,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 1,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 35,
+   "slug": "four",
+   "vol": 2,
+   "title": "Four",
+   "date": "2026-11-16",
+   "gap_days": 2,
+   "words": 5354,
+   "dialogue": 0.25,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 8,
+    "Randi": 17,
+    "Pace": 3
+   },
+   "capture_z": 0.67,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3"
+   ]
+  },
+  {
+   "n": 36,
+   "slug": "outlier",
+   "vol": 2,
+   "title": "The Outlier",
+   "date": "2026-11-04",
+   "gap_days": -13,
+   "words": 1920,
+   "dialogue": 0.02,
+   "present": [
+    "Cassie",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 22,
+    "Randi": 29,
+    "Cassie": 18
+   },
+   "capture_z": -0.43,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 37,
+   "slug": "new-ordinary",
+   "vol": 2,
+   "title": "The New Ordinary",
+   "date": "2026-11-20",
+   "gap_days": 2,
+   "words": 2651,
+   "dialogue": 0.04,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Corolla": 1
+   },
+   "capture_z": -0.2,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 38,
+   "slug": "cropped",
+   "vol": 2,
+   "title": "Cropped",
+   "date": "2026-11-29",
+   "gap_days": 9,
+   "words": 2744,
+   "dialogue": 0.27,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 11,
+    "Pace": 4,
+    "Cassie": 11
+   },
+   "capture_z": -0.01,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 39,
+   "slug": "under-the-rug",
+   "vol": 2,
+   "title": "Under the Rug",
+   "date": "2026-12-04",
+   "gap_days": 4,
+   "words": 2964,
+   "dialogue": 0.06,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1
+   },
+   "capture_z": 0.11,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 40,
+   "slug": "bare",
+   "vol": 2,
+   "title": "Bare",
+   "date": "2026-12-11",
+   "gap_days": 7,
+   "words": 947,
+   "dialogue": 0.0,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 2,
+    "Randi": 1,
+    "Cassie": 6
+   },
+   "capture_z": -0.47,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3"
+   ]
+  },
+  {
+   "n": 41,
+   "slug": "believe-me",
+   "vol": 2,
+   "title": "Believe Me",
+   "date": "2026-12-17",
+   "gap_days": 0,
+   "words": 1343,
+   "dialogue": 0.25,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 1,
+    "Pace": 2,
+    "Cassie": 1
+   },
+   "capture_z": 0.56,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 2,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "gpt-5.6-sol",
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 42,
+   "slug": "fairytale",
+   "vol": 2,
+   "title": "Fairytale",
+   "date": "2026-12-31",
+   "gap_days": 14,
+   "words": 4192,
+   "dialogue": 0.04,
+   "present": [
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 18,
+    "Randi": 13,
+    "Pace": 8
+   },
+   "capture_z": -0.08,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 43,
+   "slug": "old-acquaintances",
+   "vol": 2,
+   "title": "Old Acquaintances",
+   "date": "2026-12-31",
+   "gap_days": 0,
+   "words": 2490,
+   "dialogue": 0.0,
+   "present": [
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 11,
+    "Randi": 20,
+    "Pace": 8,
+    "Cassie": 1,
+    "Sheri": 1
+   },
+   "capture_z": -0.45,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 44,
+   "slug": "the-usual",
+   "vol": 2,
+   "title": "The Usual",
+   "date": "2026-12-31",
+   "gap_days": 0,
+   "words": 4499,
+   "dialogue": 0.13,
+   "present": [
+    "Pace"
+   ],
+   "mentions": {
+    "Vee": 14,
+    "Randi": 7,
+    "Pace": 4,
+    "Sheri": 12,
+    "Daphne": 6
+   },
+   "capture_z": 0.53,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 45,
+   "slug": "my-friend-randi",
+   "vol": 2,
+   "title": "My Friend Randi",
+   "date": "2027-01-15",
+   "gap_days": 14,
+   "words": 4911,
+   "dialogue": 0.26,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 53,
+    "Randi": 58,
+    "Pace": 2,
+    "Cassie": 4,
+    "Meg": 1,
+    "Brooke": 9,
+    "Sheri": 2,
+    "Kayla": 1
+   },
+   "capture_z": 0.52,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 46,
+   "slug": "nothing-underneath",
+   "vol": 2,
+   "title": "Nothing Underneath",
+   "date": "2027-01-15",
+   "gap_days": 0,
+   "words": 5676,
+   "dialogue": 0.01,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 9,
+    "Randi": 6,
+    "Pace": 10,
+    "Cassie": 2,
+    "Kayla": 5
+   },
+   "capture_z": 0.67,
+   "capture_readers": 8,
+   "almost_resolved": 4,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 47,
+   "slug": "missed-a-spot",
+   "vol": 3,
+   "title": "Missed a Spot",
+   "date": "2027-01-16",
+   "gap_days": -1,
+   "words": 7843,
+   "dialogue": 0.01,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Randi": 4,
+    "Pace": 1,
+    "Kayla": 1
+   },
+   "capture_z": 0.52,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 48,
+   "slug": "back",
+   "vol": 3,
+   "title": "Back",
+   "date": "2027-01-17",
+   "gap_days": 1,
+   "words": 1304,
+   "dialogue": 0.24,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 8,
+    "Randi": 8,
+    "Pace": 4,
+    "Cassie": 8,
+    "Meg": 4,
+    "Kayla": 5,
+    "Danny": 1,
+    "Theo": 2
+   },
+   "capture_z": -0.61,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 49,
+   "slug": "unpacking",
+   "vol": 3,
+   "title": "Unpacking",
+   "date": "2027-01-17",
+   "gap_days": 0,
+   "words": 1392,
+   "dialogue": 0.35,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 14,
+    "Pace": 1,
+    "Cassie": 18
+   },
+   "capture_z": -1.88,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3"
+   ]
+  },
+  {
+   "n": 50,
+   "slug": "across",
+   "vol": 3,
+   "title": "Across",
+   "date": "2027-01-18",
+   "gap_days": 1,
+   "words": 1555,
+   "dialogue": 0.32,
+   "present": [
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 18,
+    "Randi": 1,
+    "Pace": 2,
+    "Cassie": 1,
+    "Meg": 14,
+    "Kayla": 16,
+    "Danny": 2,
+    "Theo": 1
+   },
+   "capture_z": -2.41,
+   "capture_readers": 8,
+   "almost_resolved": 0,
+   "almost_standing": 1,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 51,
+   "slug": "covering",
+   "vol": 3,
+   "title": "Covering",
+   "date": "2027-01-19",
+   "gap_days": 1,
+   "words": 5347,
+   "dialogue": 0.35,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 53,
+    "Randi": 60,
+    "Pace": 7,
+    "Marsh": 2
+   },
+   "capture_z": 0.52,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 1,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 52,
+   "slug": "among-friends",
+   "vol": 3,
+   "title": "Among Friends",
+   "date": "2027-01-20",
+   "gap_days": 1,
+   "words": 5020,
+   "dialogue": 0.05,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 47,
+    "Randi": 27,
+    "Pace": 28,
+    "Cassie": 12,
+    "Meg": 9,
+    "Kayla": 12,
+    "Danny": 9,
+    "Theo": 6,
+    "Virginia": 1
+   },
+   "capture_z": 0.52,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 53,
+   "slug": "clean-plate",
+   "vol": 3,
+   "title": "A Clean Plate",
+   "date": "2027-01-21",
+   "gap_days": 1,
+   "words": 5843,
+   "dialogue": 0.4,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 49,
+    "Randi": 69,
+    "Pace": 2,
+    "Cassie": 1,
+    "Meg": 1,
+    "Kayla": 1,
+    "Marsh": 3
+   },
+   "capture_z": 0.67,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 54,
+   "slug": "reach",
+   "vol": 3,
+   "title": "The Reach",
+   "date": "2027-01-21",
+   "gap_days": 0,
+   "words": 1864,
+   "dialogue": 0.0,
+   "present": [
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 8,
+    "Randi": 5,
+    "Pace": 5,
+    "Cassie": 5
+   },
+   "capture_z": 0.06,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 55,
+   "slug": "my-pleasure",
+   "vol": 3,
+   "title": "My Pleasure",
+   "date": "2027-01-21",
+   "gap_days": 0,
+   "words": 1819,
+   "dialogue": 0.13,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Randi": 27,
+    "Pace": 24
+   },
+   "capture_z": 0.67,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 56,
+   "slug": "another-round",
+   "vol": 3,
+   "title": "Another Round",
+   "date": "2027-01-22",
+   "gap_days": 1,
+   "words": 3972,
+   "dialogue": 0.2,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 34,
+    "Randi": 2,
+    "Pace": 22,
+    "Meg": 3,
+    "Sheri": 30,
+    "Kayla": 1,
+    "Danny": 1,
+    "Virginia": 1
+   },
+   "capture_z": -0.08,
+   "capture_readers": 8,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 57,
+   "slug": "hangover",
+   "vol": 3,
+   "title": "Hangover",
+   "date": "2027-01-24",
+   "gap_days": 1,
+   "words": 3416,
+   "dialogue": 0.15,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 14,
+    "Randi": 5,
+    "Pace": 5,
+    "Cassie": 1,
+    "Meg": 1,
+    "Sheri": 7,
+    "Kayla": 1,
+    "Theo": 1,
+    "Virginia": 1,
+    "Daphne": 3
+   },
+   "capture_z": -0.2,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 58,
+   "slug": "between",
+   "vol": 3,
+   "title": "Between",
+   "date": "2027-01-26",
+   "gap_days": 2,
+   "words": 1964,
+   "dialogue": 0.39,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 31,
+    "Randi": 32,
+    "Pace": 2,
+    "Meg": 2,
+    "Sondra": 2,
+    "Draper": 2
+   },
+   "capture_z": 0.06,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 59,
+   "slug": "barely-stings",
+   "vol": 3,
+   "title": "Barely Stings",
+   "date": "2027-01-29",
+   "gap_days": 3,
+   "words": 2470,
+   "dialogue": 0.06,
+   "present": [
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 17,
+    "Randi": 9,
+    "Sondra": 11,
+    "Draper": 1
+   },
+   "capture_z": 0.06,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 2,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3",
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 60,
+   "slug": "still-life",
+   "vol": 3,
+   "title": "Still Life",
+   "date": "2027-01-29",
+   "gap_days": 0,
+   "words": 5973,
+   "dialogue": 0.02,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 23,
+    "Randi": 5,
+    "Pace": 36,
+    "Sondra": 1
+   },
+   "capture_z": 0.19,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 61,
+   "slug": "on-her-floor",
+   "vol": 3,
+   "title": "On Her Floor",
+   "date": "2027-01-30",
+   "gap_days": 1,
+   "words": 6131,
+   "dialogue": 0.1,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 91,
+    "Randi": 97,
+    "Pace": 3,
+    "Cassie": 8,
+    "Brooke": 5,
+    "Harrison": 4
+   },
+   "capture_z": 0.79,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 62,
+   "slug": "boyfriend",
+   "vol": 3,
+   "title": "Boyfriend",
+   "date": "2027-01-31",
+   "gap_days": 1,
+   "words": 6142,
+   "dialogue": 0.13,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 8,
+    "Randi": 29,
+    "Pace": 8,
+    "Cassie": 3,
+    "Sondra": 1,
+    "Harrison": 4,
+    "Corolla": 1,
+    "Marsh": 1
+   },
+   "capture_z": 0.93,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 63,
+   "slug": "coming-due",
+   "vol": 3,
+   "title": "Coming Due",
+   "date": "2027-01-31",
+   "gap_days": 0,
+   "words": 2929,
+   "dialogue": 0.03,
+   "present": [
+    "Cassie",
+    "Pace",
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 26,
+    "Randi": 45,
+    "Pace": 4,
+    "Cassie": 3,
+    "Marsh": 5
+   },
+   "capture_z": -0.08,
+   "capture_readers": 8,
+   "almost_resolved": 3,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 64,
+   "slug": "some-of-mine",
+   "vol": 3,
+   "title": "Some of Mine",
+   "date": "2027-02-02",
+   "gap_days": 0,
+   "words": 745,
+   "dialogue": 0.1,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 5,
+    "Randi": 2,
+    "Cassie": 10
+   },
+   "capture_z": -1.26,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 1,
+   "cold_drag": 2,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "glm-5.3",
+    "kimi-k3.1-pro"
+   ]
+  },
+  {
+   "n": 65,
+   "slug": "inversion",
+   "vol": 3,
+   "title": "Inversion",
+   "date": "2027-02-04",
+   "gap_days": 2,
+   "words": 5633,
+   "dialogue": 0.11,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 37,
+    "Randi": 57,
+    "Pace": 3,
+    "Brooke": 30,
+    "Harrison": 2,
+    "Marsh": 1,
+    "Kinsey": 4,
+    "Caroline": 7
+   },
+   "capture_z": 0.67,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 66,
+   "slug": "gesso",
+   "vol": 3,
+   "title": "Gesso",
+   "date": "2027-02-06",
+   "gap_days": 2,
+   "words": 4345,
+   "dialogue": 0.21,
+   "present": [
+    "Randi",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 57,
+    "Randi": 70,
+    "Sondra": 2,
+    "Corolla": 2
+   },
+   "capture_z": 0.56,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 1,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 67,
+   "slug": "grace",
+   "vol": 3,
+   "title": "Grace",
+   "date": "2027-02-26",
+   "gap_days": 20,
+   "words": 10044,
+   "dialogue": 0.15,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 3
+   },
+   "capture_z": 0.42,
+   "capture_readers": 8,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 1,
+   "cold_readers": 4,
+   "cold_drag_models": [
+    "kimi-k3.1-pro"
+   ]
+  }
+ ],
+ "volumes": {
+  "1": {
+   "Vee": {
+    "chapters": 16,
+    "of": 22,
+    "total": 439,
+    "first": 3,
+    "last": 22,
+    "longest_gap": 2,
+    "gap_ends": 2
+   },
+   "Randi": {
+    "chapters": 15,
+    "of": 22,
+    "total": 317,
+    "first": 1,
+    "last": 22,
+    "longest_gap": 3,
+    "gap_ends": 13
+   },
+   "Pace": {
+    "chapters": 17,
+    "of": 22,
+    "total": 61,
+    "first": 1,
+    "last": 22,
+    "longest_gap": 2,
+    "gap_ends": 8
+   },
+   "Cassie": {
+    "chapters": 9,
+    "of": 22,
+    "total": 164,
+    "first": 4,
+    "last": 20,
+    "longest_gap": 4,
+    "gap_ends": 14
+   },
+   "Meg": {
+    "chapters": 3,
+    "of": 22,
+    "total": 14,
+    "first": 4,
+    "last": 12,
+    "longest_gap": 10,
+    "gap_ends": 22
+   },
+   "Brooke": {
+    "chapters": 4,
+    "of": 22,
+    "total": 25,
+    "first": 1,
+    "last": 15,
+    "longest_gap": 7,
+    "gap_ends": 22
+   },
+   "Kayla": {
+    "chapters": 1,
+    "of": 22,
+    "total": 17,
+    "first": 12,
+    "last": 12,
+    "longest_gap": 11,
+    "gap_ends": 11
+   },
+   "Danny": {
+    "chapters": 1,
+    "of": 22,
+    "total": 1,
+    "first": 12,
+    "last": 12,
+    "longest_gap": 11,
+    "gap_ends": 11
+   },
+   "Theo": {
+    "chapters": 1,
+    "of": 22,
+    "total": 7,
+    "first": 12,
+    "last": 12,
+    "longest_gap": 11,
+    "gap_ends": 11
+   },
+   "Corolla": {
+    "chapters": 2,
+    "of": 22,
+    "total": 2,
+    "first": 15,
+    "last": 22,
+    "longest_gap": 14,
+    "gap_ends": 14
+   },
+   "Kinsey": {
+    "chapters": 1,
+    "of": 22,
+    "total": 7,
+    "first": 2,
+    "last": 2,
+    "longest_gap": 20,
+    "gap_ends": 22
+   },
+   "Draper": {
+    "chapters": 1,
+    "of": 22,
+    "total": 4,
+    "first": 4,
+    "last": 4,
+    "longest_gap": 18,
+    "gap_ends": 22
+   },
+   "Paris": {
+    "chapters": 1,
+    "of": 22,
+    "total": 1,
+    "first": 4,
+    "last": 4,
+    "longest_gap": 18,
+    "gap_ends": 22
+   },
+   "Mercedes": {
+    "chapters": 2,
+    "of": 22,
+    "total": 2,
+    "first": 15,
+    "last": 20,
+    "longest_gap": 14,
+    "gap_ends": 14
+   },
+   "Virginia": {
+    "chapters": 1,
+    "of": 22,
+    "total": 1,
+    "first": 20,
+    "last": 20,
+    "longest_gap": 19,
+    "gap_ends": 19
+   },
+   "Daphne": {
+    "chapters": 2,
+    "of": 22,
+    "total": 2,
+    "first": 1,
+    "last": 22,
+    "longest_gap": 20,
+    "gap_ends": 21
+   }
+  },
+  "2": {
+   "Vee": {
+    "chapters": 21,
+    "of": 24,
+    "total": 355,
+    "first": 23,
+    "last": 46,
+    "longest_gap": 1,
+    "gap_ends": 29
+   },
+   "Randi": {
+    "chapters": 19,
+    "of": 24,
+    "total": 349,
+    "first": 23,
+    "last": 46,
+    "longest_gap": 3,
+    "gap_ends": 39
+   },
+   "Pace": {
+    "chapters": 17,
+    "of": 24,
+    "total": 67,
+    "first": 23,
+    "last": 46,
+    "longest_gap": 2,
+    "gap_ends": 37
+   },
+   "Cassie": {
+    "chapters": 14,
+    "of": 24,
+    "total": 86,
+    "first": 23,
+    "last": 46,
+    "longest_gap": 2,
+    "gap_ends": 26
+   },
+   "Meg": {
+    "chapters": 2,
+    "of": 24,
+    "total": 9,
+    "first": 23,
+    "last": 45,
+    "longest_gap": 21,
+    "gap_ends": 44
+   },
+   "Brooke": {
+    "chapters": 3,
+    "of": 24,
+    "total": 14,
+    "first": 24,
+    "last": 45,
+    "longest_gap": 19,
+    "gap_ends": 44
+   },
+   "Sheri": {
+    "chapters": 5,
+    "of": 24,
+    "total": 24,
+    "first": 25,
+    "last": 45,
+    "longest_gap": 9,
+    "gap_ends": 42
+   },
+   "Kayla": {
+    "chapters": 2,
+    "of": 24,
+    "total": 6,
+    "first": 45,
+    "last": 46,
+    "longest_gap": 22,
+    "gap_ends": 44
+   },
+   "Corolla": {
+    "chapters": 2,
+    "of": 24,
+    "total": 2,
+    "first": 34,
+    "last": 37,
+    "longest_gap": 11,
+    "gap_ends": 33
+   },
+   "Marsh": {
+    "chapters": 1,
+    "of": 24,
+    "total": 1,
+    "first": 34,
+    "last": 34,
+    "longest_gap": 12,
+    "gap_ends": 46
+   },
+   "Paris": {
+    "chapters": 1,
+    "of": 24,
+    "total": 3,
+    "first": 24,
+    "last": 24,
+    "longest_gap": 22,
+    "gap_ends": 46
+   },
+   "Mercedes": {
+    "chapters": 2,
+    "of": 24,
+    "total": 2,
+    "first": 31,
+    "last": 34,
+    "longest_gap": 12,
+    "gap_ends": 46
+   },
+   "Daphne": {
+    "chapters": 1,
+    "of": 24,
+    "total": 6,
+    "first": 44,
+    "last": 44,
+    "longest_gap": 21,
+    "gap_ends": 43
+   }
+  },
+  "3": {
+   "Vee": {
+    "chapters": 18,
+    "of": 21,
+    "total": 540,
+    "first": 48,
+    "last": 66,
+    "longest_gap": 1,
+    "gap_ends": 47
+   },
+   "Randi": {
+    "chapters": 19,
+    "of": 21,
+    "total": 554,
+    "first": 47,
+    "last": 66,
+    "longest_gap": 1,
+    "gap_ends": 49
+   },
+   "Pace": {
+    "chapters": 18,
+    "of": 21,
+    "total": 160,
+    "first": 47,
+    "last": 67,
+    "longest_gap": 1,
+    "gap_ends": 59
+   },
+   "Cassie": {
+    "chapters": 11,
+    "of": 21,
+    "total": 70,
+    "first": 48,
+    "last": 64,
+    "longest_gap": 3,
+    "gap_ends": 60
+   },
+   "Meg": {
+    "chapters": 7,
+    "of": 21,
+    "total": 34,
+    "first": 48,
+    "last": 58,
+    "longest_gap": 9,
+    "gap_ends": 67
+   },
+   "Brooke": {
+    "chapters": 2,
+    "of": 21,
+    "total": 35,
+    "first": 61,
+    "last": 65,
+    "longest_gap": 14,
+    "gap_ends": 60
+   },
+   "Sheri": {
+    "chapters": 2,
+    "of": 21,
+    "total": 37,
+    "first": 56,
+    "last": 57,
+    "longest_gap": 10,
+    "gap_ends": 67
+   },
+   "Kayla": {
+    "chapters": 7,
+    "of": 21,
+    "total": 37,
+    "first": 47,
+    "last": 57,
+    "longest_gap": 10,
+    "gap_ends": 67
+   },
+   "Danny": {
+    "chapters": 4,
+    "of": 21,
+    "total": 13,
+    "first": 48,
+    "last": 56,
+    "longest_gap": 11,
+    "gap_ends": 67
+   },
+   "Theo": {
+    "chapters": 4,
+    "of": 21,
+    "total": 10,
+    "first": 48,
+    "last": 57,
+    "longest_gap": 10,
+    "gap_ends": 67
+   },
+   "Sondra": {
+    "chapters": 5,
+    "of": 21,
+    "total": 17,
+    "first": 58,
+    "last": 66,
+    "longest_gap": 11,
+    "gap_ends": 57
+   },
+   "Harrison": {
+    "chapters": 3,
+    "of": 21,
+    "total": 10,
+    "first": 61,
+    "last": 65,
+    "longest_gap": 14,
+    "gap_ends": 60
+   },
+   "Corolla": {
+    "chapters": 2,
+    "of": 21,
+    "total": 3,
+    "first": 62,
+    "last": 66,
+    "longest_gap": 15,
+    "gap_ends": 61
+   },
+   "Marsh": {
+    "chapters": 5,
+    "of": 21,
+    "total": 12,
+    "first": 51,
+    "last": 65,
+    "longest_gap": 8,
+    "gap_ends": 61
+   },
+   "Kinsey": {
+    "chapters": 1,
+    "of": 21,
+    "total": 4,
+    "first": 65,
+    "last": 65,
+    "longest_gap": 18,
+    "gap_ends": 64
+   },
+   "Caroline": {
+    "chapters": 1,
+    "of": 21,
+    "total": 7,
+    "first": 65,
+    "last": 65,
+    "longest_gap": 18,
+    "gap_ends": 64
+   },
+   "Draper": {
+    "chapters": 2,
+    "of": 21,
+    "total": 3,
+    "first": 58,
+    "last": 59,
+    "longest_gap": 11,
+    "gap_ends": 57
+   },
+   "Virginia": {
+    "chapters": 3,
+    "of": 21,
+    "total": 3,
+    "first": 52,
+    "last": 57,
+    "longest_gap": 10,
+    "gap_ends": 67
+   },
+   "Daphne": {
+    "chapters": 1,
+    "of": 21,
+    "total": 3,
+    "first": 57,
+    "last": 57,
+    "longest_gap": 10,
+    "gap_ends": 56
+   }
+  }
+ }
+}

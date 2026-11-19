@@ -1,0 +1,12 @@
+#key 80a6e18ffac9db09
+F: A2 B5
+F: A3 B11
+F: A3 B8
+F: A4 B12
+F: A5 B14
+F: A7 B6
+F: A11 B10
+S: AS1 BS4
+S: AS2 BS1
+S: AS4 BS3
+S: AS5 BS5

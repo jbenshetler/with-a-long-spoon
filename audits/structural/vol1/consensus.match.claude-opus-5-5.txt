@@ -1,0 +1,15 @@
+#key ed2b03abaf708c8e
+F: A1 B1
+F: A1 B6
+F: A2 B4
+F: A7 B4
+F: A3 B11
+F: A4 B2
+F: A9 B3
+F: A10 B14
+F: A12 B9
+F: A13 B13
+F: A14 B12
+F: A15 B5
+S: AS2 BS5
+S: AS4 BS1

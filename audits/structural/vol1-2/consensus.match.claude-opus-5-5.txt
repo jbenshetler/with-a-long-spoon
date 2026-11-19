@@ -1,0 +1,14 @@
+#key f46abdfcfca3645e
+F: A2 B1
+F: A2 B3
+F: A2 B9
+F: A3 B4
+F: A3 B7
+F: A4 B5
+F: A6 B2
+F: A10 B11
+F: A11 B12
+F: A13 B10
+S: AS2 BS6
+S: AS3 BS2
+S: AS5 BS3
