@@ -1,24 +1,18 @@
 # Fact audit — Leave No Trace
 
-*model: gpt-5.6-sol · ch010 · 2026-11-10 · prose-sha ~50c4f5e13fee*
+*model: gpt-5.6-sol · ch010 · 2026-11-18 · prose-sha ~5bf438abebc1*
 
 ---
 
-## Contradiction
-
-**WHERE** — “The rain on the roof. The fan under it. His back through the glass.”
-
-**AGAINST** — Earlier: “He left the fan alone. ‘Truck needs to warm up,’ he said.” Later: “Somewhere in the second mile he reached over and put the fan on, and the air came warm immediately.”
-
-**WHY** — The fan is audible in the parked truck even though Pace does not switch it on until they are already driving.
-
-**CONFIDENCE** — HIGH
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- Vee calls the flannel “His only dry shirt”; this means the only dry shirt available in the truck, consistent with the listed contents of Pace’s gym bag.
-- Vee later says they returned “with my shoes on”; “shoes” is a generic reference to Meg’s hiking boots.
-- Vee summarizes that Pace “put the heat on and drove me home”; this compresses the drive and the later activation of the fan rather than necessarily asserting an exact sequence.
-- Vee’s imagined summit encounter—Pace helping her over rock, asking, and then “ravishing” her—is consistent with Randi’s earlier framing and is anticipation, not a claim about what actually occurs.
-- The pickup, bench seat, folding console, gym bag, flannel, trail, summit, boots, and dorm-room window all match the ledger.
-- Cassie learns only details Vee tells her here; no one displays knowledge they have not acquired.
+- Meg’s boots are “a half-size big,” matching the ledger.
+- Pace’s vehicle is consistently an “old white pickup” with a full-width bench, folding console, shelf, and gym bag.
+- The pale line beneath Pace’s chin matches the ledger’s recorded mark.
+- Vee’s imagined summit encounter comes from Randi’s earlier “ravish” scenario; it is an acknowledged fantasy, not a conflicting event.
+- “His only dry shirt” refers to the only dry shirt available in the bag; the listed socks and briefs do not contradict it.
+- Vee tells Cassie that Pace “put the heat on and drove me home,” while the narration places the fan’s activation during the second mile; this is compatible as a compressed account of the drive.
+- “I have never gotten anywhere on my own legs in my life” is idiomatic emphasis, not a literal denial of Vee’s athletic history.
+- Cassie learns the hike and truck details from Vee in this chapter; she displays no knowledge of Pace and Randi’s concealed relationship.

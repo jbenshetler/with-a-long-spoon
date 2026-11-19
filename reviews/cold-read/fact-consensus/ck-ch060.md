@@ -1,335 +1,370 @@
 # Fact consensus — through Chapter 60
 
-*slots: anthropic=claude-opus-5-5 (failed), openai=gpt-5.6-sol, google=gemini-4-argon, diversity=glm-5.3 · quorum 2 of 3 · matcher: claude-opus-5-5 · bundle-sha256: 174e338c7c05963ad1e2a5e1d3afef03470a2d7b2fc0f7cab35633143967e308 · 691 facts admitted · 2026-11-04 · DEGRADED (anthropic (claude-opus-5-5): claude-opus-5-5: only 0 of 8 lines are quote-verified claims)*
+*slots: anthropic=claude-opus-5-5, openai=gpt-5.6-sol, google=gemini-4-argon, diversity=glm-5.3 · quorum 2 of 4 · matcher: claude-opus-5-5 · bundle-sha256: f9c46569a2daecd7910e59177441412c2b57d8ca427911cc1d1dc64a5f22a6d7 · 889 facts admitted · 2026-11-18*
 
 ---
 
 ### Who's who
 
-- Pace built the disguised bench in his bedroom. (ch1)
-  > "In his bedroom he lifted the top off a table, revealing the bench it hid."
-- Randi is petite with black hair and striking blue eyes. (ch1)
-  > "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the startlingly blue eyes."
-- Randi lived in Kentucky until she was nine. (ch1)
-  > "She had told him once, sheepish, when he asked — Kentucky, until she was nine"
-- Pace, a man who builds furniture, lives in a small house, plays Steely Dan low. (ch1)
-  > "he had built the furniture."
-- Daphne, a woman from Pace's past he disrespected the closed door of when young. (ch1)
+- Randi is petite. (ch1)
+  > "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes."
+- Randi has startlingly blue eyes. (ch1)
+  > "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes."
+- Randi has black hair. (ch1)
+  > "She was petite, and her face tilted up to him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes."
+- Randi is from Kentucky originally. (ch1)
+  > "Kentucky, until she was nine — one more of the things she let him see that nobody else did."
+- Randi is twenty-one. (ch1)
+  > "past everything she had spent twenty-one years making sure was all there was to find."
+- Randi's mother lives on egg whites and tofu. (ch1)
+  > "Her mother lived on egg whites and tofu, a thing she had told him with a knife in it"
+- Pace built the furniture in his house. (ch1)
+  > "He had told her, when she toured the house, that he had built the furniture."
+- Daphne was formerly loved by Pace. (ch1)
   > "Daphne had built a door, once, and he had not respected it."
-- Brooke is the sorority chapter president. (ch2)
+- Brooke is someone Randi told she had a paper. (ch1)
+  > "I left right after chapter dinner, Pace. I told Brooke I had a paper."
+- Brooke is the chapter president. (ch2)
   > "Brooke was the chapter president and did not need to stand to stop someone in her own common room."
-- Randi holds the sorority board position of Standards. (ch2)
-  > "she sat on the board herself, Standards"
-- Sloane is one of Randi's sorority sisters. (ch2)
+- Randi serves on the sorority Standards board. (ch2)
+  > "Standards rated a single — one of the few tangible perquisites of a seat on the board."
+- Sloane is a sister in the house. (ch2)
+  > "Sloane on the couch with the coffee and the laptop."
+- Kinsey is a sister in the house. (ch2)
+  > "Kinsey cross-legged on the rug with a bowl of cereal."
+- Pace drives a white pickup. (ch2)
   > "Wait — is that the white pickup I keep seeing parked behind Hahn?"
-- Kinsey is one of Randi's sorority sisters. (ch2)
+- Pace is a math PhD student. (ch2)
   > "Wait — is that the white pickup I keep seeing parked behind Hahn?"
-- Vee is tall with a lush hourglass figure. (ch3)
-  > "a warm dark red that sparked to copper wherever the wind lifted it into the sun"
-- Vee has dark red hair and cinnamon freckles. (ch3)
-  > "a warm dark red that sparked to copper wherever the wind lifted it into the sun"
-- Cassie is Vee's quiet friend and classmate. (ch4)
-  > "with Cassie beside her unpacking a granola bar and the wrong textbook"
-- Meg lives on Vee's floor. (ch4)
+- Randi has a single room because she is on Standards. (ch2)
+  > "Standards rated a single — one of the few tangible perquisites of a seat on the board."
+- Vee is tall and lush, with dark red hair and freckles. (ch3)
+  > "Tall, and built on a lavish scale, lush in a way that had nothing curated about it and nothing apologized for"
+- Cassie is Vee's friend and classmate. (ch4)
+  > "Cassie says about four words a day," she said, leaning in, making it warm, making it a feature."
+- Meg lives on Vee's dormitory floor. (ch4)
   > "She'd been coming out of the dining hall with Meg from her floor, dark-haired, easygoing Meg"
-- Cassie has a boxy frame and does not care whether her swimsuit flatters her. (ch7)
-  > "Cassie did not go to a pool to be admired"
-- Kayla is round-faced and blonde with curls. (ch12)
-  > "Kayla let nothing finish. She was round-faced and blonde, a head of curls that moved when she did"
+- Pace has a round face, close-cut brown hair, and a cleft chin. (ch5)
+  > "a thin pale nick through the eyebrow, and a mark by his ear, pink, uneven at its edges — a birthmark."
+- Pace has a nick through his eyebrow and a birthmark by his ear. (ch5)
+  > "a thin pale nick through the eyebrow, and a mark by his ear, pink, uneven at its edges — a birthmark."
+- Pace is finishing a math PhD. (ch5)
+  > "Finishing a PhD." A pause. "More or less."
+- Vee is an econ major. (ch5)
+  > "What are you studying?" Pace said. "Apart from stats." "Econ."
+- Vee did synchronized swimming at sixteen. (ch7)
+  > "already in her green-and-white one-piece — the one she'd worn at sixteen, for synchronized swimming"
+- Christine runs the restaurant and knows Pace. (ch8)
+  > "and he said "Christine" like a name he was glad to get to say."
+- Pace is a competitive powerlifter. (ch8)
+  > "I'm a powerlifter. I compete."
+- Pace writes six hours a day. (ch8)
+  > "He wrote six hours a day and then stopped"
+- Vee says Pace lives west of town off route 614. (ch9)
+  > "He lives out west of town, off six-fourteen, past where it goes to gravel."
+- Vee is being inducted into the honor society. (ch10)
+  > "I saw a dress." She was holding a cherry and she looked at it instead of him. "In a magazine."
 - Meg is dark-haired and calm. (ch12)
   > "Meg was the calm one, dark-haired and level"
-- Theo previously asked Vee to a fall event. (ch12)
-  > "Theo asked you to the fall thing."
+- Kayla is a blonde friend of Vee with curls. (ch12)
+  > "Kayla let nothing finish. She was round-faced and blonde, a head of curls that moved when she did"
+- Theo is Vee's friend who previously asked her out. (ch12)
+  > "Theo asked you to the fall thing. In September. And I said let's be friends, and now we're friends, and he waves."
 - Danny is Meg's boyfriend. (ch12)
   > "Everybody's different at the start. I said it about Danny."
-- She notices a large scar high on the inside of his thigh. (ch16)
-  > "her hand stopped — a scar, large, high on the inside of his thigh."
-- Vee and Randi both wear a size seven shoe. (ch20)
-  > "Same feet, baby. Same size, same everything."
-- Pace's legal first name is Peter. (ch22)
-  > "My real name is Peter"
-- Sheri cycles with Pace. (ch25)
+- Pace says a patent funds his house. (ch13)
+  > "I license a patent."
+- Pace's patent speeds up MRI imaging. (ch13)
+  > "Finds the picture in the noise in a fraction of the passes."
+- Vee's body outgrew swimming. (ch14)
+  > "too much woman for the sport, and in the end too much for the suit to hold — and that was the end of the swimming she'd loved."
+- Vee notices Pace's thigh scar. (ch16)
+  > "She got the jeans open and shoved them down, shorts and all, and her hand stopped — a scar, large, high on the inside of his thigh."
+- Pace has a birthmark down his side. (ch16)
+  > "She got the jeans open and shoved them down, shorts and all, and her hand stopped — a scar, large, high on the inside of his thigh."
+- Vee is from Ohio. (ch22)
+  > "My mother's a nurse. My dad works on jet engines for a major airline."
+- Vee describes her nurse mother and jet-engine-worker father. (ch22)
+  > "My mother's a nurse. My dad works on jet engines for a major airline."
+- Vee's mother calls her Vivienne. (ch22)
+  > "My mother's a nurse. My dad works on jet engines for a major airline."
+- Vee has an older brother in the Army. (ch22)
+  > "My mother's a nurse. My dad works on jet engines for a major airline."
+- Pace's mother stays home and his father works at a chemical plant. (ch22)
+  > "My father works in a chemical plant."
+- Pace's real name is Peter. (ch22)
+  > "My real name is Peter," he said."
+- Pace went to college at fifteen. (ch22)
+  > "So she moved my desk into the hall during math class, and I did long-division worksheets."
+- Dana on Third lends ropers. (ch23)
+  > "He asked me dancing. Thursday night — country dancing."
+- Pace taught the dance class two semesters. (ch23)
+  > "Did he tell you he taught the class? He's the reason half of us can dance."
+- Sheri is Pace's cycling friend. (ch25)
   > "Sheri rode on his left, close enough that he could have put a hand on her bars."
-- John is finishing law school in New Haven. (ch43)
-  > "He was finishing law school in New Haven"
-- Paige was Sheri's recent girlfriend. (ch45)
-  > "Paige. Junior in the design school — made these little prints, birds mostly."
-- Brooke mentions Lauren Pike, a girl nobody asked to move out. (ch46)
-  > "You remember Lauren Pike."
-- Dr. Marsh teaches Vee and Randi's anthropology course. (ch52)
-  > "Her hair was short and silver with a single black streak through the bangs"
-- Sondra performs professional waxing on Draper Street. (ch60)
-  > "Don't let anybody but Sondra touch you — Draper Street, you ask for her by name"
+- Sheri rides a small frame and has a bleached ponytail. (ch25)
+  > "Sheri rode on his left, close enough that he could have put a hand on her bars."
+- Cassie's father was laid off in 2020. (ch36)
+  > "My dad got laid off in 2020," Cassie said."
+- Randi studies marketing and Cassie is pre-nursing. (ch36)
+  > "My dad got laid off in 2020," Cassie said."
+- Randi's formal name is Miranda. (ch36)
+  > "she knew the name Miranda — everyone who knew Randi did, the long formal version on the chapter paperwork"
+- Randi's father is tall and strong-jawed. (ch42)
+  > "Randi, relying on her sorority practice, returned the smile warmly and hugged him, eating her revulsion."
+- Randi's mother wears a tennis bracelet. (ch42)
+  > "Randi, relying on her sorority practice, returned the smile warmly and hugged him, eating her revulsion."
+- John is a law student in New Haven. (ch42)
+  > "He was finishing law school in New Haven, he said, and kept a place in the city."
+- Vee played clarinet. (ch43)
+  > "The room did not know her. It had known Vivienne — knew her still, in high resolution, and loved her."
+- Paige was Sheri's girlfriend for several months. (ch44)
+  > "Couldn't get right with me not talking to my people. Kept picking at it. Like it's something I'd fix if I tried a little harder — call your mama, Sheri, it's Christmas."
+- Lauren Pike is a former member Brooke cites. (ch45)
+  > "You remember Lauren Pike. Nobody asked her to move out. You've got a position in this house, and you've got her. You need to choose."
+- Sheri's father and brother are Marines. (ch56)
+  > "My mother. My daddy — Marine Corps, retired, which is not a thing that retires. My brother, also Marine Corps. My church, my Bible study, the girls I'd driven to Roanoke and back a hundred times. All of it inside of a month."
+- Pace has not been home since sixteen. (ch56)
+  > "Went bad with his daddy. He hasn't been home since he was sixteen."
+- Sheri lives in half a duplex. (ch56)
+  > "My mother. My daddy — Marine Corps, retired, which is not a thing that retires. My brother, also Marine Corps. My church, my Bible study, the girls I'd driven to Roanoke and back a hundred times. All of it inside of a month."
+- Sheri is Pace's only friend. (ch57)
+  > "Sheri's my friend," he said. "My one friend. There isn't anyone else."
+- Sondra does the waxing. (ch59)
+  > "Um." Her voice had gone small. She heard it go small and couldn't stop it. "Everything. All of it. Bare."
 
 ### Relationships
 
-- Pace tells Randi that she is beautiful. (ch1)
+- Pace calls Randi beautiful after the bench, and she flinches. (ch1)
   > "She flinched. Involuntary, the kind of flinch a body makes when something lands somewhere it was not braced for."
-- Pace puts Randi on the spanking bench he built for her and brings her to a crying orgasm after making her beg. (ch1)
-  > "There you are, Randi."
-- Randi and Pace begin choosing a woman together. (ch3)
-  > "their shoulders met, Randi giving half a head and enough weight that the accident appeared entirely to happen to her."
-- Randi promises Vee a later meeting. (ch4)
-  > "See you later, okay?"
-- Pace asks Vee for her number after their first conversation. (ch5)
-  > "He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table"
-- Pace tells Randi details about his outing with Vee. (ch6)
-  > "Tell me," she said again, against his mouth."
-- Vee and Pace share their first kiss. (ch8)
-  > "I'm making an exception."
-- Randi publicly identifies Vee as her dear friend. (ch9)
+- Randi says she would do it only in a threesome with Pace. (ch3)
+  > "Only in a threesome," she said against his throat, smiling, all silk. "With you."
+- Vee feels chosen by Randi. (ch4)
+  > "that she had been chosen, plainly, for reasons she didn't need to understand"
+- Vee kisses Pace first under a tree. (ch8)
+  > "I don't kiss a man I've known a couple of days," she said."
+- Randi publicly calls Vee her dear friend. (ch9)
   > "Vee's my dear friend," Randi said."
-- Randi and Pace have sex while discussing Vee. (ch11)
+- Randi and Pace have sex after Pace's hike with Vee. (ch11)
   > "She had never left after. Not once, since the first night"
-- Pace invites Vee to his home for the first time. (ch12)
-  > "Two in the afternoon is not dinner." Kayla stole her fry back."
-- Pace offers Vee a handmade silk dress. (ch13)
+- Pace offers to make Vee a silk induction dress. (ch13)
   > "I'd like to make it for you," he said. "The dress. If you'll let me."
-- Vee begins deliberately teasing Pace during the fitting. (ch14)
-  > "She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident"
-- Randi kisses Vee goodbye on the mouth. (ch15)
+- Vee deliberately brushes her breast against Pace's face during the fitting. (ch14)
+  > "She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident, and said, low and bright and not remotely sorry, "Oops. Sorry."
+- Randi kisses Vee on the mouth for the first time. (ch15)
   > "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth."
-- Vee and Pace have first sex. (ch16)
-  > "She kissed him, briefly, and held the folded panties out toward him. / "Trade," she said."
-- Vee trades her underwear to Pace. (ch16)
-  > "She kissed him, briefly, and held the folded panties out toward him. / "Trade," she said."
-- Randi and Pace fight over the pace of approaching Vee. (ch18)
-  > "How do I get her from where she is to us, on your schedule?"
-- The burgundy dress, finished. (ch19)
-  > "He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk"
-- Randi helps Vee choose shoes for Pace's dress. (ch20)
-  > "Randi did the little buckle at the ankle with two fingers"
-- Randi tells Pace she has grown attached to Vee. (ch21)
-  > "I didn't think I'd like her this much. I keep waiting to get bored of her — I get bored of everybody — and it doesn't come."
-- Pace tells Vee his real name. (ch22)
-  > "the way you say a word to keep it"
-- Vee calls Pace Peter for the first time. (ch22)
-  > "Peter," she said, once, quietly"
-- Randi helps Vee plan her reconciliation with Pace. (ch24)
-  > "Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top"
-- Vee and Pace reconcile after their dance-hall fight. (ch26)
-  > "Thank you for telling me what she said," he said."
-- Vee deliberately presents her naked body to Pace. (ch30)
+- Vee tells Cassie about being measured by Pace. (ch15)
+  > "Burgundy," she said. "For the honor society induction. A dress. Like the magazine. He's making it."
+- Pace and Vee have sex for the first time. (ch16)
+  > "She broke around him with her mouth open against his shoulder, her body gripping him long and hard, and it took him with her"
+- Randi calls Pace selfish. (ch18)
+  > "You've got her Friday to Sunday," Randi said."
+- Pace says Daphne left when he was seventeen. (ch22)
+  > "She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years."
+- Pace teaches Vee country dancing. (ch23)
+  > "She meant to leave it at that — meant to be a person having a good night — and heard herself say instead, "Does your service include getting the girls home safe from here, too?"
+- Vee is inducted into an honor society. (ch28)
+  > "She looked a moment longer, and then she sent it to Pace — the whole frame, uncropped."
+- Vee shows Pace two Halloween costumes in his den. (ch30)
   > "And this is what I had on under it," she said."
-- Vee gives Pace a nude photograph to keep. (ch34)
-  > "He brought it around the bed and put it in her hand."
-- Vee initiates an extra beat in Randi's goodbye kiss. (ch35)
-  > "when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi"
-- Pace agrees to restore his scent to Vee's flannel. (ch38)
-  > "He pulled it on right then, over the shirt he already wore"
-- Vee makes an indirect declaration of love to Pace. (ch39)
-  > "I had been eating crackers my whole life," she said. "And you fed me a meal."
-- Vee leaves after Pace refuses to name their relationship. (ch42)
-  > "Words are cheap," he said. "Believe what I do."
-- Randi has sex with John after the New Year's ball. (ch43)
-  > "the pleasure real, complete, and gone before the plate was cleared"
-- Vee initiates a prolonged kiss with Randi. (ch46)
-  > "Man had room in it to turn around, and back took a corner before it finished"
-- Vee and Pace reconcile after the holiday silence. (ch47)
-  > "she took the two edges of the coat in her hands and opened it."
-- Pace asks to meet Vee's friends. (ch49)
-  > "I want to meet your people."
-- Vee publicly tells Kayla and Meg about reconciling with Pace. (ch51)
-  > "We're good. We're better than we were."
-- Vee begins kissing Randi's neck during goodbyes. (ch52)
-  > "without any thought at all she bent and put a light kiss on the soft, warm skin where Randi pointed."
-- Mid-story Vee goes to the bathroom and, at the peak, Randi's face arrives behind her eyes; she finishes anyway. (ch52)
-  > "without any thought at all she bent and put a light kiss on the soft, warm skin where Randi pointed."
-- Randi tells Pace she is in love. (ch56)
-  > "Randi gave him no smile and no rescue from the sentence."
-- Vee meets Sheri and likes her. (ch57)
-  > "I'm Vee." "I know who you are."
-- Pace tells Vee Sheri is his only friend. (ch58)
-  > "Sheri's my friend," he said. "My one friend. There isn't anyone else."
-- Vee fulfills Pace's request to wax herself completely bare. (ch60)
-  > "the most expensive thing in the room, and no one in it knew but her"
+- Vee silently acknowledges that she loves Pace. (ch32)
+  > "She loved him. There. She'd said it, or not said it, but let it be true in her own chest where she couldn't take it back."
+- Vee sends Pace a nude photograph. (ch33)
+  > "She sent it before the nerve could leave her, and watched the bar cross and the word under it go to Delivered, and gave him herself to keep."
+- Vee gives Pace his flannel to re-scent by wearing. (ch37)
+  > "I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again."
+- Vee asks Pace to define their relationship. (ch39)
+  > "If we're just sex, I'd like to know." She'd meant it light. She'd had it light a second ago. "Don't get me wrong — it's really good sex." The breath she took didn't bring the volume down. "I'd just like to know if we'll ever be seen in public again."
+- Vee leaves Pace after he refuses to label their relationship. (ch41)
+  > "Words are cheap," he said. "Believe what I do." "Words are cheap." She heard it come back out of her almost steady. "Words are cheap, and you still won't spend them on me."
+- Randi meets John in a ski-lift queue. (ch42)
+  > "Vee was the best friend she had ever had. She loved Vee and she had told her so, more than once."
+- Randi has sex with John on New Year's Eve. (ch42)
+  > "Vee was the best friend she had ever had. She loved Vee and she had told her so, more than once."
+- Vee kisses Randi in the foyer. (ch45)
+  > "So she turned around and went back. She got her arms all the way around her and held on and said it into her hair, thank you, thank you, and then she took Randi's face in both hands and kissed her."
+- Vee gets a full Brazilian wax at a salon. (ch59)
+  > "The back and the rest of it. It's all the one service."
 
 ### What I know that they don't
 
-- Pace does not know that Randi intends to hide her vulnerable self from him. (ch1)
-- Vee does not know that Pace watched Randi arrange their collision. (ch3)
-- Vee does not know that Randi was texting Pace before his entrance. (ch5)
-- Randi does not know what Vee privately told Pace on their walk. (ch6)
-- He describes Vee's stomach as soft, withholding how he knows. (ch11)
-- Cassie does not know the sexual details Vee omits. (ch17)
-- Vee does not know that Randi reports their dressing session to Pace. (ch25)
-- Vee does not know Sheri knows about Randi. (ch25)
-- Vee cannot tell whether Randi knows about the bathroom. (ch31)
-- Vee does not know Randi handled her gifted underwear. (ch36)
-- Cassie does not know the outlying companies belong to Randi's family. (ch37)
-- Randi does not know Vee recognized her family connection. (ch37)
-- Cassie does not know Vee actually arrived at Pace's house without clothes beneath her coat. (ch50)
-- Vee does not know Pace and Randi already know each other intimately. (ch53)
-- Vee learns that Sheri is attracted to women. (ch57)
-- Vee infers that Pace's father was unsafe. (ch58)
-- Vee does not know Randi's stillness reflects jealousy. (ch59)
-- Randi did not tell Vee about the back half of the waxing. (ch60)
+- Randi's sorority sisters do not know Pace's last name. (ch1)
+- Randi decides not to reveal herself to Pace again. (ch1)
+- The collision looks as though Vee walked into Randi. (ch3)
+- Pace keeps from Randi that Vee undressed in the truck. (ch11)
+- Vee tells Cassie only selected parts of the night. (ch17)
+- Pace does not know what he did wrong. (ch18)
+- Vee does not yet know about Randi and Pace. (ch25)
+- Cassie cannot see the screen. (ch36)
+- Vee never tells Randi what she saw. (ch36)
+- Vee realizes Randi's family businesses misused PPP loans. (ch36)
+- Randi does not know about Pace's painted photograph of Vee. (ch60)
 
 ### Motifs & images
 
-- The disguised bench waits beneath its table top. (ch1)
-  > "Tomorrow he would put the top back on and the bench would be a long table again"
-- Pace gives Vee the pencil back when she can solve the problem. (ch5)
-  > "Put them together, at right angles, and they turn into a single thing that's suddenly plain"
-- Randi closes her hand over Vee's in public. (ch9)
-  > "she held it there on the white top"
-- Pace's house contains two towels in the bathroom. (ch13)
-  > "At the end of the hall a door was shut, the only closed door in the house."
-- Pace repeatedly approaches Vee and withdraws to write measurements. (ch14)
-  > "It was the withdrawing she hadn't expected to feel."
-- Vee explains Randi's kiss as French behavior. (ch15)
-  > "See you soon, gorgeous."
-- Vee hears her mother's word floozie during arousal. (ch16)
-  > "That night she lay in the flannel in the dark, her nose to the collar, and breathed him in"
-- Randi presses a glass rim beneath her thumbnail. (ch18)
-  > "She set the rim of the glass in under her thumbnail and pressed."
-- The dress slit opens to Vee's hip. (ch19)
-  > "The slit fell open on her bare leg, calf to hip, and this time nothing crossed it."
-- Randi teaches Vee to tie the green-and-gold scarf. (ch24)
-  > "That's the whole difference between *dorm mixer* and *dinner in Paris*."
-- Randi kisses her goodbye at the composites, lingering, with a second press; Vee notices she didn't brace. (ch24)
-  > "The Swiss school had a lake under its windows by now"
-- Pace distinguishes Vee's public dress from her private nakedness. (ch30)
-  > "The other is for the world. This is just for me."
-- Randi gives Vee the double goodbye kiss on the mouth, and Vee leans in to extend it. (ch31)
-  > "when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi"
-- Vee uses the flannel to carry Pace's scent into nights apart. (ch38)
+- Randi locks the deadbolt as soon as she comes in. (ch1)
+  > "and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else"
+- Steely Dan plays low in the house. (ch1)
+  > "Steely Dan was going low under it all"
+- Randi wears a white-gold band. (ch1)
+  > "and then she put her hands behind her back herself and held one wrist in the other, by the white-gold band"
+- Randi's toenails are lacquered blue. (ch1)
+  > "Nothing like the blue lacquer on the toenails, still in the heels he had not taken off — a blue that favored her eyes"
+- Randi presses a bottle cap's edge under her thumbnail. (ch1)
+  > "and set the sharp inner edge of the cap under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt."
+- Randi's cashmere blanket at the foot of Pace's bed. (ch1)
+  > "only long enough to pull the soft blanket from the foot of the bed — the cashmere one she had brought after the second week"
+- The wooden bench disguised as a table in Pace's bedroom. (ch1)
+  > "In his bedroom he lifted the top off a table, revealing the bench it hid."
+- Randi's speech has an accent Vee attributes to time abroad. (ch4)
+  > "Vee put it down to somewhere abroad: a school in Switzerland, a year in Paris"
+- Vee hears her mother's word "floozies" about girls in revealing clothes. (ch4)
+  > "Floozies, Vee thought, the word arriving whole and in her mother's voice"
+- Vee hears her mother's voice saying "floozie.". (ch10)
+  > "The voice said floozie in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans."
+- Vee notices two towels in Pace's bathroom. (ch13)
+  > "a bathroom, plain, clean, two towels on the rod"
+- Vee hears her mother's word "stripper.". (ch14)
+  > "A small ugly word arrived from the back of her mind, in her mother's register: stripper."
+- Vee reads the prices first. (ch15)
+  > "The place was off Prices Fork, a freestanding building of red brick"
+- Randi presses her water glass rim under her thumbnail. (ch15)
+  > "and her thumb had found the rim of her water glass and set the edge of it in under the nail, bearing down."
+- Randi bites her knuckle. (ch15)
+  > "and her thumb had found the rim of her water glass and set the edge of it in under the nail, bearing down."
+- Randi's accent gets stronger, and Vee notes she has had only one mimosa. (ch17)
+  > "Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting"
+- Pace serves Randi in the small apple bowl. (ch18)
+  > "Hers was the small one, the one he sliced her apples into."
+- Randi's blue-painted toenails. (ch24)
+  > "pulled her feet up under her — bare, the toenails painted sky blue"
+- Vee imagines a Swiss school for Randi's accent. (ch24)
+  > "The Swiss school had a lake under its windows by now, and the story had a grandmother in it too"
+- Vee finds many green scrunchies in Pace's bathroom. (ch29)
+  > "You lost," he said, gently. "Spanks from a lost bet come on a bare bottom."
+- Vee's thong lands on the long table in the bedroom. (ch37)
   > "It landed green on the long, unusually proportioned table that stood in the middle of his bedroom."
-- Brooke tells Randi to choose between Vee and her position. (ch46)
-  > "You've got a position in this house, and you've got her. You need to choose."
-- Vee arrives with nothing under her coat. (ch47)
-  > "she took the two edges of the coat in her hands and opened it."
-- Pace remembers details Vee mentioned only once. (ch49)
-  > "You remember that?" she said."
-- Randi turns her wine glass by the rim when moved. (ch53)
-  > "her thumb stopped and set itself up under the rim, hard, the nail going white."
-- Vee again turns the stained coat lining toward the wall. (ch54)
-  > "Vee reached to turn hers lining-to-the-wall on the hook"
-- Randi willingly tastes herself from Pace's mouth. (ch56)
-  > "She's not the only one in love."
-- Vee again turns her coat lining toward the wall. (ch59)
-  > "Vee's face landed at the side of Randi's neck and her mouth went there in passing"
-- Randi's phrase barely stings proves false for Vee. (ch60)
-  > "Barely stings. Vee had believed her"
+- Vee's arousal stains the coat lining. (ch46)
+  > "By now she'd left a mark on the pale lining she would never be able to explain to a soul, a dark bloom of herself soaked into the good coat."
 
 ### Story so far
 
-**Ch1 The Bench.** (Pace then Randi POV.) Pace uncovers the bench before Randi arrives. Randi locks Pace's front door after entering. Pace gives Randi thin slices of honeycrisp apple. Randi asks Pace to show her the bench. Pace asks Randi to repeat her safeword. Randi begs Pace to make her come. Randi cries quietly after her orgasm. Pace wraps Randi in her cashmere blanket. Randi locks herself inside Pace's bathroom. Randi decides to hide the self Pace found. Randi agrees to stay overnight.
+**Ch1 The Bench.** (Pace then Randi POV.) Randi gives red as her safeword. Pace slices an apple thin for Randi. Randi arrives at Pace's house right after chapter dinner. Randi eats thin apple slices while straddling Pace in the kitchen. Pace shows Randi the concealed bench. Pace places Randi facedown on the bench. Pace spanks Randi repeatedly. Pace edges Randi until she begs to climax. Randi begs, and Pace lets her come. Randi cries quietly after her orgasm. Randi hides in Pace's locked bathroom. Randi puts her face back on and returns smiling. Randi agrees to stay overnight. Pace uncovers the bench in his bedroom before Randi arrives. Randi asks Pace to demonstrate the bench. Pace wraps Randi in her cashmere blanket. Pace undresses Randi and puts her facedown on the bench. Randi climaxes while Pace touches her.
 
-**Ch2 Standards.** (Randi POV.) Randi returns to the sorority house in last night's clothes. Brooke questions Randi about her paper. Randi lies that she worked at the place on Wilson. Brooke asks whether Pace teaches Randi's math section. Randi says Pace is a math PhD student. Sloane and Kinsey, sisters in the room, discuss Pace's white pickup parked behind Hahn. Randi goes to her single room. Randi lies on her bed in her shoes. Randi closes her eyes without crying.
+**Ch2 Standards.** (Randi POV.) Randi lies about working at a place on Wilson. Randi returns to the sorority house before ten on Saturday. Brooke asks Randi about her paper. Brooke questions Randi about Pace. Kinsey calls Pace short-cute. Randi lies fully dressed under her duvet. Randi does not cry. Randi goes to her private bedroom.
 
-**Ch3 The Pointing Game.** (Pace POV.) Randi asks Pace to do something different. Pace asks whether Randi wants to taste another woman. Randi answers that she only wants it in a threesome with Pace. Pace takes Randi to walk on campus. Pace begins pointing out women to Randi. Randi says maybe about the woman on the library steps. Pace points at Vee outside the dining hall. Randi immediately says yes to Vee. Pace tells Randi to approach Vee.
+**Ch3 The Pointing Game.** (Pace POV.) Randi asks for something different today. Pace asks whether Randi would like to taste another woman. Randi climaxes immediately after Pace's question. Pace begins pointing out women for Randi to assess. Randi rejects several women during the game. Pace points out a red-haired woman leaving the dining hall. Randi immediately chooses the red-haired woman. Pace tells Randi to go get her. Randi stages a collision with Vee on the lawn. Randi learns the woman's name is Vee. Randi tells Pace she shares statistics with Vee. Randi asks whether Vee will like the bench. Pace takes Randi walking across campus. Randi gives a woman on the library steps a maybe.
 
-**Ch4 See You Later.** (Vee POV.) Vee arrives early for statistics with Cassie. Vee waits anxiously for Randi to arrive. Randi sits beside Vee. Cassie gives Randi only her name. Randi invites Vee and Cassie to Chi Latte. Cassie declines the invitation. Vee and Randi sit at the high table in Chi Latte. Randi hugs Vee outside the café. At the high table Vee cannot later remember anything Randi said, only the feeling of being chosen. Vee reads the room, feels both the most of what it is selling and the most covered, and watches Randi order her an oat-milk latte. Vee recalls colliding with Randi outside the dining hall the day before and being warmly befriended.
+**Ch4 See You Later.** (Vee POV.) Randi deliberately sits beside Vee in statistics. Randi introduces herself to Cassie. Cassie answers Randi with only her name. Randi invites both girls to Chi Latte. Cassie declines the invitation. Vee sits with Randi at the high table. Vee cannot remember what they talked about. Randi promises to see Vee later. Randi arrives through the back of the lecture hall. Vee waits for Randi in the tiered statistics room. Vee enters Chi Latte with Randi. Randi orders Vee a lavender oat-milk latte. Randi calls Vee a total fox.
 
-**Ch5 Substitution.** (Vee POV.) Pace is a mathematics doctoral student. Vee struggles with a challenge problem at the Wilson café. Cassie tells Vee that a cute man is looking at her. Pace offers to help Vee with calculus. Vee introduces herself as Vivienne Thorne. Pace shows Vee how Euler's formula solves the problem. Vee completes the solution herself. Pace asks for Vee's phone number. Pace texts Vee about frozen yogurt. Vee accepts the frozen-yogurt invitation. Pace pays for both frozen-yogurt cups.
+**Ch5 Substitution.** (Vee POV.) Pace first meets Vee at the Wilson coffee shop. Cassie points out Pace looking at Vee. Pace offers to help with the math. Vee introduces herself using Randi's style of name joke. Randi gives Pace only her name. Pace shows Vee a substitution using Euler's formula. Pace answers Randi about Bessel's correction. Pace asks Vee for her phone number. Randi notes Pace left without his coffee. Pace texts Vee about frozen yogurt. Vee meets Pace at a frozen-yogurt shop. Vee struggles with an optional calculus problem. Vee solves the problem herself. Pace listens to Vee describe her economics interests. Pace asks permission to call Vee. Randi urges Vee to accept immediately. Vee tells Pace his kindness matters to her.
 
-**Ch6 Tannin.** (Pace POV.) Randi arrives at Pace's house without greeting him. Pace has a glass of red wine waiting. Randi kisses Pace with wine in her mouth. Randi repeatedly orders Pace to tell her about Vee. Pace says Vee built her frozen-yogurt cup without stopping herself. Pace says Vee is easy to listen to. She has a strong reaction under his hands to the details of Vee eating, and he reads the wanting held behind her face.
+**Ch6 Tannin.** (Randi then Pace POV.) Randi drives to Pace's house after meeting Vee. Randi repeatedly orders Pace to tell her about Vee. Pace says Vee built a large frozen-yogurt cup. Pace says Vee is easy to listen to. Randi tells Pace she already likes Vee. Randi leads Pace toward the bedroom. Randi kisses Pace with wine in her mouth.
 
-**Ch7 Water Wings.** (Vee POV.) Vee and Cassie go to the recreation pool. Men in the bleachers call comments at Vee. Cassie insults the men privately. Vee swims underwater to escape the room's attention. Cassie splashes Vee after she resurfaces. Vee recalls Pace asking her to delay answering his dinner invitation. Vee considers what Pace does with his hands. Vee opens Pace's message thread at the crosswalk. Water gives Vee relief from being watched.
+**Ch7 Water Wings.** (Vee POV.) Vee and Cassie go to the rec pool. Boys on the bleachers yell remarks at Vee. Cassie privately insults the men. Vee dives beneath the pool surface. Cassie splashes Vee after noticing her mood. Vee splashes Cassie back. Vee recalls Pace asking her to dinner. Pace instructed Vee not to answer immediately. Vee thinks about Pace's hands in the shower.
 
-**Ch8 May I Choose.** (Vee POV.) Christine runs the Middle Eastern restaurant Pace visits. Vee accepts Pace's dinner invitation. Pace meets Vee in her dorm lobby. Pace takes Vee to a small Middle Eastern restaurant. Pace asks permission to choose Vee's food. Vee lets Pace order for her. Pace tells Vee he is a competitive powerlifter. Pace takes Vee's hand after dinner. Vee initially says she does not kiss men she has just met. Vee makes an exception and kisses Pace.
+**Ch8 May I Choose.** (Vee POV.) Vee says yes to dinner with Pace. Cassie calls Pace a man, not a boy. Pace picks Vee up in her dorm lobby. Pace orders for Vee. Pace asks permission to choose Vee's meal. Vee initially states she will not kiss him. Pace walks Vee to a small Middle Eastern restaurant. Vee eats without monitoring herself. Pace and Vee hold hands while walking home. Vee makes an exception to her rule. Vee kisses Pace again more deeply.
 
-**Ch9 Dear.** (Vee POV.) Vee tells Cassie about kissing Pace. Vee says she chose the kiss without alcohol or pressure. Vee spins in celebration. Vee says Pace invited her hiking. Vee gives Cassie Pace's approximate location. Cassie advises Vee to borrow good shoes. Randi asks Vee for a report about Pace after class. Vee tells Randi about Pace choosing her meal. Randi introduces Vee to Brooke as her dear friend.
+**Ch9 Dear.** (Vee POV.) Vee tells Cassie about kissing Pace. Pace asked Vee hiking, and she said yes. Randi tells a story about a self-absorbed date. Randi holds Vee's hand before Brooke. Vee and Randi go to the Smoothie Bird. Randi says goodbye with "Bye, babe.". Brooke approaches Randi at the smoothie shop. Randi listens to Vee recount her dinner.
 
-**Ch10 Leave No Trace.** (Vee POV.) Pace takes Vee hiking on a mountain trail. Vee's borrowed boot rubs her heel raw. Pace applies moleskin to Vee's heel. Vee reaches the summit. Pace gives Vee a sandwich he made. Pace teaches Vee to pack out her cherry pit. Vee tells Pace about the russet silk dress she cannot afford. Rain soaks Vee during the descent. Pace gives Vee his dry flannel shirt. Vee calls Pace back into the truck. Vee removes her wet shirt while Pace watches. Vee tells Cassie she intends to keep the flannel.
+**Ch10 Leave No Trace.** (Vee POV.) Meg's borrowed boot rubs Vee's heel. Pace treats Vee's heel with moleskin. Vee reaches the mountain summit. Pace gives Vee a homemade sandwich. Pace teaches Vee to pack out cherry pits. Vee describes a brick-red silk dress she can't afford. Rain comes on the way down. Pace offers Vee his dry flannel shirt. Pace stands outside the truck while Vee changes. Vee removes her wet shirt while Pace watches. Vee finds Pace's hand shaking from cold. A campus cop's siren ends the moment at the dorm. Vee tells Cassie about the hike. She keeps the shirt. Vee keeps Pace's flannel shirt. Vee and Pace hike a mountain trail.
 
-**Ch11 Swim Lanes.** (Pace POV.) Randi arrives after Pace's hike with Vee. Pace says Vee smells of gardenia, musk, shampoo, and chlorine. Pace tells Randi that Vee's stomach is soft. Randi says she wants all three of them. Randi leaves immediately after sex.
+**Ch11 Swim Lanes.** (Pace POV.) Randi arrives at Pace's house. Pace describes Vee's scent. Pace tells Randi Vee's stomach is soft. Randi says "I want us" during sex. Randi leaves after sex for the first time. Pace showers after driving home cold and wet. Vee wears gardenia and musk perfume. Pace remains hungry after his first serving.
 
-**Ch12 What to Wear.** (Vee POV.) Vee eats dinner with Meg and Kayla. Vee tells them Pace is a powerlifter. Vee admits she has kissed Pace only once. Pace texts Vee an invitation to his house. Kayla announces they're doing hair Saturday; she tells Vee two in the afternoon is not a meal.
+**Ch12 What to Wear.** (Vee POV.) Vee recounts Pace giving her his dry shirt. Vee and Pace have kissed only once, twelve days earlier. Pace texts Vee an invitation to his house. Pace asks Vee to arrive Saturday at two. Kayla offers to help Vee prepare. Vee eats with Meg and Kayla in the athletic dining hall. Vee tells them Pace is a mathematics PhD candidate. Vee admits Pace's restraint is making her lose her mind.
 
-**Ch13 Two Towels.** (Vee POV.) Vee visits Pace's house for the first time. Vee kisses Pace at the door. Pace shows Vee his kitchen and office. Vee sees Pace's mathematics work. Pace tells Vee he licenses a patent. Pace explains that his patent speeds MRI imaging. Pace shows Vee his woodworking shop. Pace presents burgundy silk chosen for Vee. Vee realizes Pace made his own shirt. Pace offers to make Vee's induction dress. Vee accepts Pace's offer. In the den she finds handmade white oak furniture with hidden joinery; he made everything. In the den, Pace explains error-correcting codes and tells Vee he affords the house by licensing an MRI signal-processing patent.
+**Ch13 Two Towels.** (Vee POV.) Vee drives to Pace's house beyond the paved road. Pace stops their kiss at the door. Pace shows Vee his house. Pace leaves his bedroom door shut. Vee sees Pace's mathematics office. Pace shows Vee his woodworking shop. Pace shows Vee burgundy silk chosen for her. Vee realizes Pace sewed his own shirt. Pace asks permission to make Vee's dress. Vee accepts immediately. Pace tells Vee he made the den furniture. Pace explains error-correcting codes to Vee.
 
-**Ch14 A Round.** (Vee POV.) Vee removes her jeans and shirt for the fitting. Pace asks Vee to remove her bra. Vee stands nearly naked on Pace's riser. Pace records Vee's measurements. Vee jokes about being pre-aroused for the dress. He explains flangeed measurements; she asks if her bust measurement changes when aroused, making him laugh, stumped. Pace cuts the burgundy silk while Vee rests. Vee notices a wet spot on her satin underwear. Pace works around Vee while pinning the dress. During the pinning her satin panties show a spreading wet patch; in panic she closes her eyes. Pace smiles up at Vee without looking down. Vee deliberately presses her breast to Pace's cheek. Pace accidentally pricks Vee with a pin. Pace kisses the pinprick.
+**Ch14 A Round.** (Vee POV.) Vee undresses for Pace in the sun porch. Pace asks Vee to remove her bra too. Vee stands on a riser Pace built. Vee asks whether arousal changes her bust measurement. Vee jokes about coming pre-aroused. Vee's panties become visibly wet. Pace smiles up at Vee from his knees. Pace accidentally pricks Vee with a pin. Pace kisses the pinprick. Pace tells Vee to keep still. Vee removes her bra. Pace measures Vee's body. Pace laughs at Vee's question. Pace cuts the burgundy silk. Vee straightens instead of hiding. Vee deliberately presses her breast to Pace's cheek. Vee panics about Pace seeing the evidence of her arousal.
 
-**Ch15 How It's Done.** (Vee POV.) Vee tells Cassie about the burgundy dress. Cassie realizes Pace made the flannel. Vee tells Cassie that Pace warmed the house for her fitting. Vee describes standing without a bra before Pace. Vee says Pace's gaze felt like a request to look. Vee admits she ground against Pace during the fitting. Randi collects Vee in her Mercedes. Randi tells Vee a fabricated story about being tied with a scarf. Vee tells Randi about the fitting. Randi drives Vee in her dark-green Mercedes convertible to a velvet-walled restaurant; Vee orders tomato soup, reading prices first. Vee nearly confesses her arousal; Randi gently closes the door: "You don't have to tell me," then shifts the register and ends the hush. Randi kisses Vee on the mouth.
+**Ch15 How It's Done.** (Vee POV.) Vee tells Cassie Pace is making her a dress. Cassie notes Vee has been sleeping in the shirt. Cassie asks if Pace is gay. Vee says she was grinding on Pace. Randi collects Vee in her Mercedes. Randi drives Vee to lunch in her Mercedes. Randi takes Vee to a dim restaurant. Randi tells a story about being tied with a scarf. Randi tells Vee being helpless is the point. Vee admits to Randi the house was hot during the fitting. Randi stops Vee before she tells about the wetness. Vee explains Randi's kiss as a French custom. Cassie realizes Pace made the flannel shirt. Vee explains Pace warmed the house for her fitting. Vee tells Cassie she was topless on a box. Vee tells Randi about the fitting. Randi presses Vee for intimate details.
 
-**Ch16 Famished.** (Vee POV.) Vee buys green satin lingerie for Pace. Vee paints her toenails frosted plum. Pace opens the door wearing an apron. Vee asks Pace to show her his bedroom. Pace undresses Vee. Pace performs oral sex on Vee. Vee and Pace have sex for the first time. Pace cooks fra diavolo after sex. Vee gives Pace her folded green underwear.
+**Ch16 Famished.** (Vee POV.) Pace flies to a conference in Chicago and texts about dinner Friday. Vee buys green lingerie and plum nail polish. Vee paints her toenails with frosted plum polish for Pace. Vee tells Pace she is famished. Vee asks to see Pace's bedroom. Pace asks if she'd mind if he was too hard. Pace cooks fra diavolo after sex. Pace keeps Vee's green satin panties. Pace prepares fra diavolo before Vee arrives. Pace undresses Vee. Pace brings Vee to orgasm with his mouth. Pace and Vee climax together.
 
-**Ch17 Fed.** (Vee POV.) Vee returns to the dorm after sleeping with Pace. Vee tells Cassie only a partial account. Vee realizes she has no underwear beneath her skirt. Cassie leaves for a game. Vee showers after Cassie departs. Vee meets Randi for brunch. Randi leads Vee to admit she prepared for sex. Vee admits buying new underwear for Pace. Randi kisses Vee goodbye twice. Randi tells her being that gone on somebody is the best thing there is; "You're not caught, sweetheart. You're lucky.".
+**Ch17 Fed.** (Vee POV.) Vee waits for Cassie to leave before undressing. Cassie leaves for a game. Vee meets Randi for Sunday brunch. Randi tells a story about a nervous old boyfriend. Vee tells Randi about the dinner and the sheet. Randi points out Vee painted her toes for Pace. Vee admits buying new underwear. Randi's goodbye kiss lingers longer. Vee says she wanted sex with Pace. Vee returns to the dorm without a bag. Vee realizes she gave Pace her underwear.
 
-**Ch18 Portion.** (Pace POV.) Pace cooks chicken stew for Randi. Pace serves Randi from Vee's small bowl. Randi says Vee told her about Friday. Randi asks how long Pace will take with Vee. Randi calls Pace selfish. Pace says Vee must choose each step. Randi pours her own wine for the first time in Pace's house. Randi leaves her stew untouched. Randi has hurried sex with Pace without asking about Vee. Pace refrigerates Randi's uneaten bowl.
+**Ch18 Portion.** (Pace POV.) Randi tells Pace Vee told her about Friday. Randi does not eat the stew. Randi asks how long Pace will take with Vee. Pace says Vee must choose every step. Randi pours her own wine for the first time. Randi has fast sex with eyes shut and then turns her back to Pace. Randi turns her back to Pace afterward. Pace refrigerates Randi's untouched stew. Pace cooks dinner for Randi including a stew. Randi has sex with Pace without asking him to tell her about Vee.
 
-**Ch19 Peekaboo.** (Vee POV.) Vee returns to Pace's house after their first night together. Vee cries happily over the dress. Vee removes her underwear because the slit reveals it. Vee shows Pace the completed look. Vee initiates sex while wearing the dress. Vee and Pace remove the dress carefully. Vee and Pace continue sex in the bedroom. Vee imagines wearing the dress to her induction. He licks her own slickness from her fingers before finishing; afterward he carries her down the hall, they finish in bed with her feet planted on his chest first.
+**Ch19 Peekaboo.** (Vee POV.) Vee cries and says he made it. Vee tries the dress on without underwear. Vee initiates sex while wearing the dress. They stop to protect the dress. Vee holds Pace away with her feet. Pace falls asleep beside Vee. Vee imagines wearing the gown to her induction. Pace sucks her fingers clean. Pace and Vee have sex on the bed. Pace shows Vee the finished dress hanging in the window. Vee tries on the dress and sees herself in a new mirror.
 
-**Ch20 Sorority.** (Vee POV.) Vee arrives late to statistics after staying with Pace. Vee tells Cassie and Randi the dress is finished. Randi offers to shop for shoes with Vee. Randi says Pace made the dress to Vee. Vee and Randi try shoes in a discount store. Randi takes Vee to an expensive boutique. Randi kneels to put a black heel on Vee. Vee buys the heels on credit. Randi touches Vee's frosted-plum toenail. Randi comes to Vee's dorm; Vee puts the dress on to show her; Randi reads the fabric and says "He didn't make this for you. He made it to you.".
+**Ch20 Sorority.** (Vee POV.) The stats professor teaches Simpson's paradox. Cassie notes Vee's bed is made. Randi offers to shop for shoes with Vee. Randi walks Vee back to the dorm. Vee shows Randi the dress. Vee and Randi joke over big-store shoes. Vee and Randi both wear size seven. Randi kneels to place black heels on Vee. Randi runs a thumb over Vee's toenail. Vee buys the shoes on credit. Randi buys new loafers casually. Randi tells Vee she loves her. Randi says Pace made the dress to Vee. Randi takes Vee to an expensive boutique. Vee wonders if Randi is jealous of Pace.
 
-**Ch21 Gone.** (Pace POV.) Randi stays against Pace after sex. Randi describes shopping with Vee. Randi says she does not get bored of Vee. Pace says Vee brightens a room. Randi asks Pace to make her food. Pace cooks chicken, couscous, and asparagus. Randi asks about Pace's Chicago presentation. Randi cleans her plate. Randi sleeps in Pace's undershirt.
+**Ch21 Gone.** (Pace POV.) Pace and Randi lie in bed after sex. Randi recounts shoe shopping with Vee. Randi says Vee got past her. Randi asks Pace to feed her. Pace tells Randi his grandsupervisor attended his Chicago talk. Randi eats her whole plate. Randi wears Pace's undershirt in the kitchen. Randi says she thinks of things to tell Vee. Pace describes Vee brightening a room. Pace and Randi have sex again. Pace cooks chicken, couscous, and asparagus. Randi sleeps against Pace. Randi tells Pace she cannot get bored of Vee. Pace says Vee is ashamed of her body.
 
-**Ch22 Rock.** (Vee POV.) Pace reveals his name is Peter. Vee and Pace sit beneath a quilt on the porch. Vee describes her Ohio childhood food. Vee says her mother is a nurse. Vee says her father works on jet engines. Pace says his teacher put his desk in the hall for a year. Pace explains why mathematics is beautiful to him. Pace tells Vee about Daphne. Pace says Daphne was nineteen when he was fifteen. Pace refuses to explain his thigh scar that night. Vee traces Pace's unexplained scar.
+**Ch22 Rock.** (Vee POV.) Vee and Pace talk under a quilt on the porch. Pace's seventh-grade teacher put his desk in the hall. Pace describes mathematical beauty. Pace tells Vee about Daphne. Pace tells Vee Daphne was nineteen when he was fifteen. Pace says he began lifting partly to protect himself in the dorm. Vee touches Pace's thigh scar. Pace declines to explain the scar that night. Pace reveals his name is Peter. Vee and Pace talk by the fire about their childhoods.
 
-**Ch23 Lesson.** (Vee POV.) Pace invites Vee country dancing. Meg helps Vee choose clothes and boots. Pace teaches Vee the three-step on a concrete pad. Pace takes Vee to the Rusty Nail. Women at the hall greet Pace warmly. A blonde implies Pace takes women home. Vee insults Pace's habit of helping women. Pace leaves the dance hall. A bartender explains that Pace safely escorts drunk women. Vee takes a cab home. Vee sleeps in Pace's washed flannel.
+**Ch23 Lesson.** (Vee POV.) Meg lends Vee a black keyhole shirt. Pace teaches Vee the three-step on a concrete pad. Pace meets Vee carrying a boom box. Vee learns to follow his lead. At the Rusty Nail many women greet Pace. Pace takes Vee to the Rusty Nail. A blonde implies Pace takes many women home. Vee insults Pace's helpfulness. Pace answers honestly, and Vee tells him she will handle herself. Pace leaves the bar alone. The bartender says Pace rarely brings dates. Vee realizes the women envied her. A bartender tells Vee Pace safely delivers intoxicated women home. Vee takes a cab home. Vee lies awake in Pace's shirt. Vee tells Meg Pace invited her dancing.
 
-**Ch24 broken-in.** (Vee POV.) Brooke lets Vee into the sorority house. Vee recounts the fight with Pace. Randi says Vee's jealousy shows she cares. Randi directs Vee to remove her shirt. Randi circles Vee while she wears a bra. Randi puts shoes on Vee beneath her long skirt. Randi lends Vee cognac heels and a silk scarf.
+**Ch24 broken-in.** (Vee POV.) Vee washes her face cold and fixes her makeup. Brooke opens the sorority door. Randi brings Vee up to her room. Vee recounts her fight with Pace. Randi says Pace won't text. Vee removes her shirt for Randi's wardrobe planning. Randi chooses Vee's black dress. Randi fits Vee with shoes behind her long skirt. Randi lends Vee cognac heels and a silk scarf. Randi dresses Vee and teaches her to tie a scarf. Randi kisses Vee goodbye. Vee walks to Randi's sorority house. Randi instructs Vee to arrive certain rather than merely sorry.
 
-**Ch25 Space.** (Pace POV.) Pace works alone in his woodshop. Randi arrives unexpectedly. Randi tells Pace Vee visited her crying. Pace says he is glad Vee went to Randi. Randi tells Pace to give Vee a day. Randi describes touching Vee while dressing her. Pace cycles with Sheri the next morning. Sheri says Vee danced with nobody after Pace left.
+**Ch25 Space.** (Pace POV.) Pace works alone in his cold woodworking shop. Randi unexpectedly arrives on Friday. Randi tells Pace Vee sought her help. Randi tells Pace Vee cried. Randi looks at the bench's table surface. During sex Randi describes Vee in her bra. Randi tells Pace about touching Vee's legs. Randi repeats that Vee will come. Pace cycles with Sheri on Saturday. Sheri says Vee stayed alone after Pace left. Pace tells Sheri Randi knows about Vee. Pace and Randi have sex.
 
-**Ch26 A Recognized Method.** (Vee POV.) Vee brings Pace a supermarket humble pie. Vee arrives wearing Randi's heels and scarf. Pace tells Vee to leave the heels on. Vee gives Pace a direct apology. Pace asks what caused Vee's anger. Vee tells Pace about the blonde's remarks. Pace thanks Vee for telling him. Vee stays through the weekend without packing. Pace swats Vee after she swats him. Vee asks Pace not to stop touching the sore spot. Pace gives Vee a bathroom drawer.
+**Ch26 A Recognized Method.** (Vee POV.) Vee brings a store-bought pie labeled Humble Pie. In Randi's heels Vee is taller than Pace. Pace tells Vee to keep the heels on. Vee apologizes. Pace asks what caused Vee's anger. Pace thanks Vee for speaking plainly. Vee embraces Pace while he washes dishes. Pace tickles Vee at the sink. Pace swats Vee's backside. Vee hides her face during sex and asks please. Vee stays through Monday morning. Vee stays overnight. Vee wakes to Pace's folded undershirt. Pace keeps his hand over the struck spot during sex. Vee changes into Randi's heels in Pace's driveway.
 
-**Ch27 The Practice Room.** (Vee POV.) Vee attends statistics after spending the weekend with Pace. The professor lectures about outliers. Vee asks Randi to walk out with her. Randi takes Vee to a music practice room. Vee tells Randi that Pace spanked her. Randi asks whether Vee deserved the swat. Randi tells Vee a fabricated spanking story. Vee becomes wet while listening to Randi. Vee goes to the restroom but does not touch herself.
+**Ch27 The Practice Room.** (Vee POV.) The professor lectures about outliers. Vee asks Randi to walk her out. Randi takes Vee to a music practice room. Vee brings Randi's shoes to return. Vee describes Pace's wet-handed swat. Randi asks if Vee deserved it. Randi tells of a man who spanked her over his knee. Randi says she had to count each strike. Vee becomes visibly aroused. Vee goes to a locked bathroom. Vee finds her underwear soaked. Vee stops herself from masturbating.
 
-**Ch28 The Induction.** (Vee POV.) Cassie accompanies Vee to the induction hall. Vee wears Pace's burgundy dress without underwear. Vee's parents do not attend. Pace misses the ceremony because of a Berkeley conference. Vee hears her name called. Vee deliberately lengthens her stride. The dress slit exposes Vee's leg to the hip. Cassie photographs Vee walking. Vee sends the uncropped photograph to Pace.
+**Ch28 The Induction.** (Vee POV.) Vee attends without her parents, Randi, or Pace. Pace is at a workshop in Berkeley. Randi misses it for an officers' meeting. Vee wears nothing under the dress. Vee walks the stage with the slit open. Cassie photographs Vee mid-stride. Vee sends the uncropped photo to Pace. Cassie walks Vee to the induction hall. Vee wears the expensive black heels. Vee hears her name announced. The audience murmurs at Vee's entrance.
 
-**Ch29 We Find Out.** (Vee POV.) Vee asks to visit Pace early. Vee arrives an hour before Pace suggested. Vee sees Pace perform air guitar alone. Vee pulls Pace's shorts off. Pace pulls Vee's wrap skirt off. Pace catches Vee in the bedroom. Vee denies enjoying Pace's spank. Pace checks Vee's arousal with his finger. Pace spanks Vee on her bare bottom. Pace gives Vee juice afterward. Pace buys Vee many green scrunchies.
+**Ch29 We Find Out.** (Vee POV.) Vee arrives an hour early. Vee watches Pace play air guitar to "Thunderstruck.". Vee flashes Pace to make him chase her. Pace spanks Vee over her underwear. Pace checks Vee's wetness with his finger. Vee agrees she lost the bet. Pace spanks and soothes Vee. Pace gives Vee juice after sex. Vee resolves to bring a bag. Pace cooks Vee curry. Vee asks to arrive at Pace's house early. Vee pantses Pace and he chases her. Pace removes Vee's wrap skirt. Pace catches Vee in the bedroom. Vee kneels facedown on Pace's bed. Pace strokes Vee's hair until she sleeps.
 
-**Ch30 Made-Up.** (Vee POV.) Vee watches Pace wash dishes on Halloween. Vee says she has two costumes. Vee reenacts her induction walk. Vee returns wearing only her heels. Vee tells Pace what she wore beneath the dress. Pace chooses Vee naked over Vee in the dress.
+**Ch30 Made-Up.** (Vee POV.) It is Halloween. Vee tells Pace she has two costumes. Vee shows Pace the dress with the heels. Vee returns wearing only the heels. Pace picks the naked costume. Vee retrieves her burgundy gown from her car. Vee reenacts her induction walk. Vee tells Pace what was beneath the gown.
 
-**Ch31 One Bite.** (Vee POV.) Vee tells Randi she pantsed Pace. Randi tells a fabricated story about a mixer at Radford. Randi claims she masturbated in a strange bedroom. Vee becomes aroused by Randi's story. Vee goes to the bathroom to masturbate. Randi calls Vee her best friend. Vee tastes pastry glaze on Randi's mouth. Randi extracts the full detail — stripped slowly, nothing but heels, kneeling on the bed, face down, the rub-and-kiss method.
+**Ch31 One Bite.** (Vee POV.) Vee orders a mimosa with Randi. Randi calls Pace vanilla. Vee tells Randi Pace spanked her. Randi tells of a mixer at Radford and a blond boy who left. Randi says she pleasured herself in the stranger's bedroom. Randi takes one bite of a pastry. Randi calls Vee her best friend. After the kiss Vee tastes pastry glaze she never ate. Randi makes Vee describe the bet. Vee describes being naked except for heels. Vee begins masturbating in the stall.
 
-**Ch32 Above Him.** (Vee POV.) Vee and Pace have sex after a week apart. Pace cooks salmon and salad afterward. Vee says Randi gives her mouth-to-mouth goodbye kisses. Vee tells Pace about Randi. Pace becomes aroused by Vee's description. Vee realizes she loves Pace. Pace gives Vee the top bathroom drawer.
+**Ch32 Not in Your Bed.** (Vee POV.) Vee and Pace reunite after a week apart. Pace cooks salmon with dill sauce. Vee tells Pace about Randi. Vee describes Randi's goodbye kisses. Vee notices she eats more since dating Pace. Vee realizes she loves Pace. Vee whispers Peter to sleeping Pace. Vee's makeup is spread across Pace's bathroom counter. Cassie asks Vee if she loves him. Vee answers maybe. Vee swims laps on Tuesday. Pace and Vee have sex before reaching the kitchen. Pace reacts sexually to the description. Pace silently accepts the clutter. Swimming quiets Vee's thoughts.
 
-**Ch33 School Nights.** (Vee POV.) Cassie tells Vee she no longer comes home on school nights. Cassie asks whether Vee loves Pace. Vee answers that she thinks she may love Pace. Vee swims alone on Tuesday afternoon. Vee repeatedly considers Cassie's question while swimming. Vee wonders whether Pace is as good as she believes. Swimming strips words from Vee's worries. Vee tells Cassie she may love Pace.
+**Ch33 Above Him.** (Vee POV.) Pace says he takes care of himself thinking of Vee. Vee offers a picture. Pace promises never to share it. Pace rests his head on Vee's breast afterward. Pace arranges Vee's nude pose. Vee sends the photograph to Pace. Pace takes several photographs. Vee approves the image. Pace cooks lemon chicken and pasta. Vee says she's flying home for Thanksgiving. Pace says he does not return to his parents. Pace says Sheri will join him for Thanksgiving. Pace gives Vee his top bathroom drawer. Vee takes a scrunchie from her drawer.
 
-**Ch34 In His Hands.** (Vee POV.) Vee offers to make a photograph for Pace. Pace poses Vee naked on the bed. Vee sends Pace the selected nude. Pace cooks lemon chicken and pasta. Vee asks whether Pace will visit his parents for Thanksgiving. Pace says he does not go back. Pace says Sheri will join him for Thanksgiving. Vee and Pace have sex repeatedly.
+**Ch34 All the Time.** (Vee POV.) Vee describes frequent sex with Pace. Vee asks if she is a sex pervert. Randi says Vee is finally hungry out loud. Vee describes Pace's cooking. Vee says Pace wants her with her body attached. Vee shows Randi a cropped nude photograph. Vee shows Randi the uncropped nude. Randi's bare foot brushes Vee's leg under the table. Vee proposes taking anthropology with Randi. Vee and Randi plan to take Dr. Marsh's night Anthro section. Vee prolongs Randi's goodbye kiss. Vee extends the goodbye kiss herself. Vee meets Randi for brunch in the dark green restaurant. Randi has two mimosas waiting. Vee describes sleeping well at Pace's house. Randi immediately accepts.
 
-**Ch35 All the Time.** (Vee POV.) Vee meets Randi for Saturday brunch. Vee says she and Pace have sex two or three times a night. Randi tells Vee she is hungry rather than greedy. Vee describes watching Pace cook. Vee says Pace makes her feel wanted as a person with a body. Vee shows Randi a cropped nude photograph. Vee shows Randi the uncropped nude. Vee asks Randi to enroll in anthropology with her. Vee prolongs their goodbye kiss.
+**Ch35 Four.** (Pace POV.) Pace and Randi have had sex three times. Randi describes Vee at stats with wet hair. Randi asks how Pace knew to point at Vee. Pace tells Randi Vee treasures their brunches. Pace says Vee must consent every time. Randi tells Pace about kissing Vee goodbye. Randi says she does it to prepare Vee for the threesome. Randi says she wants Vee. Randi has sex with Pace while holding Vee's underwear. Randi finds Vee's green panties in Pace's drawer. Randi cries afterward. Pace returns the panties to the drawer. Pace pushes Vee's drawer shut. Pace asks whether Vee is all right. Randi says Vee initiated an extra kiss.
 
-**Ch36 Four.** (Pace POV.) Randi describes seeing Vee in statistics after Pace's weekend. Pace explains how he knew Randi wanted Vee. Pace insists that Vee must consent every time. Randi tells Pace about kissing Vee goodbye. Randi finds Vee's green underwear in Pace's drawer. Randi has sex with Pace while holding Vee's underwear. Randi cries afterward. Pace restores Vee's underwear to the drawer.
+**Ch36 The Outlier.** (Vee POV.) The statistics professor assigns a semester project. Cassie wants to study PPP loans. Randi says her father's businesses used PPP loans. The outlier tag reads MIRA. Randi says "Cheating bastards.". Vee, Randi, and Cassie form a group. The group divides research, modeling, and presentation work. Their aggregate model supports Cassie's claim. Randi's county contains a large outlier. The record names Miranda.
 
-**Ch37 The Outlier.** (Vee POV.) The professor assigns a statistics project. Vee, Randi, and Cassie form a project group. Cassie chooses pandemic payroll loans as their subject. Cassie says her father was laid off in 2020. Their model shows loans rising while jobs fall. Randi's family company appears as an extreme outlier. The record reveals Miranda's name. Randi condemns the companies. Vee hides that she recognized Randi's connection.
+**Ch37 The New Ordinary.** (Vee POV.) Vee took five nights off for school. They undress in the hall. Pace kisses Vee in the doorway. Pace brings Vee to orgasm quickly. Pace penetrates Vee slowly. Pace makes pizza from scratch. Vee recognizes separate flavors in the pizza. Vee gives Pace his washed flannel. Vee asks Pace to wear it all weekend. Pace puts the shirt on at once.
 
-**Ch38 The New Ordinary.** (Vee POV.) Vee returns to Pace after five nights apart. Vee and Pace have sex soon after she arrives. Pace makes pizza from scratch. Vee experiences the pizza as separate flavors. Vee gives Pace his washed flannel to wear. Vee explains that the shirt stopped smelling like Pace. Vee asks Pace to wear the shirt all weekend. Pace immediately puts the flannel on.
+**Ch38 Cropped.** (Vee POV.) Vee tells her parents Pace is her boyfriend. Vee cropped the induction photo for her parents. Vee's mother said she'd gotten thin. Vee conceals that Pace made the gown. Vee eats with Cassie after Thanksgiving. Cassie asks what Pace is to Vee. Vee says she cannot or will not define it. Vee tells Pace he fed her a meal after a life of crackers. Vee and Pace sit under a quilt on the cool porch. Pace responds with I love how good we are together. Vee decides never to repeat the sentence. Vee notices his answer differs from her declaration.
 
-**Ch39 Cropped.** (Vee POV.) Vee and Cassie eat Sunday dinner together. Vee says she cropped the induction photograph for her parents. Vee tells her parents Pace is her boyfriend. Vee withholds that Pace made the dress. Cassie asks what Pace is to Vee. Vee says she cannot or will not answer. Vee tells Pace she once ate crackers before he fed her a meal. Pace says he loves how good they are together. Vee later recognizes his answer did not match her offering.
+**Ch39 Under the Rug.** (Vee POV.) Vee asks if they are just sex. Pace asks where Vee wants to go that night. Vee chooses Chili's. Pace struggles with the restaurant's noise and screens. Vee accuses Pace of punishing her. Pace explains loud rooms keep him from hearing her. Vee lies awake unable to name what they are. Vee finds the nachos disappointing. Pace and Vee have sex.
 
-**Ch40 Under the Rug.** (Vee POV.) Vee asks Pace whether they are only sex. Pace asks where Vee wants to go. Vee chooses Chili's. Pace struggles with the restaurant's noise and screens. Vee no longer enjoys the nachos she once liked. Vee accuses Pace of punishing her. Pace explains that loud rooms keep him from hearing Vee. Vee and Pace have sex after returning home. Vee remains awake after Pace sleeps. Vee worries that their relationship has no name. Vee asks Pace whether their relationship exists outside his house. Pace squares his fork against the table edge.
+**Ch40 Bare.** (Vee POV.) Vee declines the weekend to study. Randi cancels their final brunch before break. Vee lies awake at twenty to three in Pace's shirt. Vee removes Pace's shirt. Pace invites Vee for short ribs before finals. Pace accepts without protest. Vee considers messaging Pace after midnight. Vee decides no text can answer what she needs. Vee wears Pace's shirt directly against her skin. Vee realizes the shirt's warmth comes from herself. Vee lies naked in the cold room. Vee remains awake until dawn.
 
-**Ch41 Bare.** (Vee POV.) Vee lies awake in her dorm bed. Vee opens a message to Pace but writes nothing. Vee puts Pace's shirt directly against her skin. Pace's scent briefly comforts Vee. Vee realizes the shirt contains only her own warmth. Vee removes the shirt. Vee remains awake and bare in the cold.
+**Ch41 Believe Me.** (Vee POV.) Vee refuses Pace's usual greeting kiss. Vee arrives at Pace's warm house before her flight. Vee asks what they are. Pace calls Vee the most important person in his life. Pace asks if her friends have a better relationship. Pace tells Vee to believe his actions. Vee says Pace will not spend words on her. Vee cries. Vee leaves crying. Vee confronts Pace asking what she is to him.
 
-**Ch42 Believe Me.** (Vee POV.) Vee arrives at Pace's house without her overnight bag. Vee refuses Pace's usual greeting kiss. Vee asks what they are doing. Vee asks what she is to Pace outside the house. Pace says Vee is the most important person in his life. Pace tells Vee to believe his actions. Vee says Pace will not spend cheap words on her. Pace folds his arms and gives no answer. Vee cries. Vee leaves Pace's house.
+**Ch42 Fairytale.** (Randi POV.) Randi invents boys for her parents. John cuts into the lift line beside Randi. Randi and John ski blacks together. John invites Randi to a white-tie ball. Randi buys a pale metallic blue dress. Randi finds John a better dancer than Pace. John takes Randi by sleigh to his hotel. Randi finds the sex emotionally empty. Randi compares John to Pace. Randi decides not to confess to Vee. Randi texts Vee that Gstaad is a fairytale. Randi breakfasts with her parents in Gstaad. Randi and John invent a marriage with three children. John skis better than Randi without overtaking her. Randi and John dance at the ball. John kisses Randi at midnight. Randi allows John to take her to his hotel room. Randi acknowledges loving Vee.
 
-**Ch43 Fairytale.** (Randi POV.) Randi breakfasts with her parents in Gstaad. Randi invents stories about boys for her father. John joins Randi in the ski-lift queue. Randi and John invent a marriage and three children. Randi and John ski black runs together. John invites Randi to a white-tie New Year's ball. Randi buys a pale metallic-blue dress. Randi and John dance at the ball. John takes Randi to his hotel room. Randi feels emotionally untouched after sex with John. Randi decides not to tell Vee she loves her. Randi replies to Vee's New Year's message with a fairytale.
+**Ch43 Old Acquaintances.** (Vee POV.) Vee spends New Year's Eve alone in her Ohio bedroom. Pace has not texted all break. Vee envies Randi's feed despite knowing about the money. Randi replies with a fairytale account. Vee imagines a blonde in Pace's kitchen. Vee feels the room belongs to her former self. Vee deletes a message before sending it. Vee studies photographs of herself with Pace. Vee views Randi's luxurious ski photographs. Vee sends Randi a supportive message. Vee worries her relationship with Pace may be over.
 
-**Ch44 Old Acquaintances.** (Vee POV.) Vee spends New Year's Eve alone in her childhood bedroom. Vee recognizes that her childhood room no longer fits her. Vee starts a message to Pace and deletes it. Vee looks at photographs of Pace and herself. Vee looks at Randi's Gstaad posts. Vee sends Randi a supportive message. Randi replies that Gstaad is a fairytale. Vee imagines Pace with another woman. Vee cannot keep her memory of Pace's kitchen for herself. Vee falls asleep still wondering about Pace.
+**Ch44 The Usual.** (Pace POV.) Pace meets Sheri at a rural diner. Sheri invites Pace to a Brooks and Dunn cover band in February. Sheri tells Pace Paige ended their relationship. Pace says grief is not a choice. Pace tells Sheri Vee wants a declaration. Sheri asks about Vee. Sheri says silence matters more to him than keeping Vee. Sheri met Randi when Pace danced with her in November. Pace drinks whiskey alone at home. Pace looks through photographs of Vee. Pace remembers Daphne. Pace has not seen Randi since November. Pace imagines the three of them in his kitchen. Pace wakes hungover after vomiting. Pace eats plain chicken and broccoli. Pace realizes he loves Vee. Pace admits he hurt Vee out of fear. Pace mistakes a passing engine for Vee's car. A passing truck makes Pace sob.
 
-**Ch45 The Usual.** (Pace POV.) Pace meets Sheri at a county diner. Sheri says Paige left because of Sheri's estrangement from family. Pace tells Sheri Vee wants a declaration. Sheri says not speaking matters more to Pace than keeping Vee. Pace drinks whiskey alone at home. Pace admits to himself that he loves Vee. Pace sobs after mistaking a passing engine for Vee's car. Pace eats chicken and broccoli despite lacking hunger. Pace privately recognizes that fear kept him from declaring love. Pace recognizes he gave Vee a smaller truth.
+**Ch45 My Friend Randi.** (Vee then Randi POV.) Vee cries while driving from Roanoke. Vee flies back toward campus after Christmas. Randi hugs Vee long. Randi reacts to Pace's silence. Vee admits she invented Sheri's look. Randi suggests Vee show up in only her coat. Randi gives Vee strappy stilettos. Randi tells Vee about John. Randi is stunned that Vee kissed her. Brooke confronts Randi about the kiss. Brooke tells Randi to choose. Randi takes Vee upstairs from the foyer. Vee tells Randi Pace never contacted her.
 
-**Ch46 My Friend Randi.** (Vee then Randi POV.) Vee returns to Virginia after the holiday break. Vee cries while driving toward campus. Vee goes to the sorority house seeking Randi. Randi holds Vee while she cries. Vee says Pace did not contact her during break. Randi advises Vee to arrive naked under a coat. Randi lends Vee black stiletto heels. Vee kisses Randi under the sorority composites. Brooke confronts Randi about appearances and her sorority position. Brooke has seen how Vee looks at Randi.
+**Ch46 Nothing Underneath.** (Vee POV.) Vee dresses in only the coat and Randi's heels. Vee wears Randi's black heels. Vee touches herself at the mirror and stops. Kayla comments on Vee's shoes. A police cruiser passes Vee with lights and siren. Vee touches herself while driving. Vee forgot her purse. Vee opens her coat before Pace can finish. Vee arrives unannounced at Pace's dark house. Pace brings Vee to orgasm on the porch. Pace carries Vee inside after kissing her. Pace makes pancakes at midnight. Pace apologizes. Pace tells Vee he missed her. Vee returns to the dorm in Pace's sweats and Randi's heels.
 
-**Ch47 Nothing Underneath.** (Vee POV.) Vee prepares to visit Pace wearing only a coat and heels. Vee arouses herself before leaving. Vee stops before orgasm so Pace can finish her. Kayla encounters Vee in the hallway. Vee masturbates while driving. A police cruiser passes Vee. Vee opens her coat on Pace's porch. Pace performs oral sex on Vee in the doorway. Pace carries Vee inside during sex. Pace cooks pancakes at midnight. Pace apologizes and says he missed Vee. Vee returns to the dorm in Pace's sweats and Randi's heels.
+**Ch47 Missed a Spot.** (Vee POV.) Vee wakes alone in Pace's wide bed. Pace returns from the farmers market. Vee leaves the sweats folded and stays naked. Vee calls herself a pleasure princess. Pace returns with groceries. Pace prepares mushrooms on toast with fruit. Pace burns the toast watching Vee. Vee says he missed a spot and presses her breast to his cheek. Pace obeys Vee's gestures. Pace accepts it and keeps going. Vee assumes he forgot to wipe. Vee showers and uses her bathroom drawer. Vee spreads Randi's cashmere blanket over the bed. Pace stops at the sight of naked Vee. Vee commands Pace to undress. Pace brings Vee to repeated orgasms with his mouth. Pace kisses Vee with her own wetness on his mouth. Pace stops kissing Vee's mouth until she initiates. Vee climaxes while kissing Pace again.
 
-**Ch48 Missed a Spot.** (Vee POV.) Vee wakes alone in Pace's bed. Pace leaves sweats for Vee. Vee chooses to remain naked. Pace returns from the farmers market. Vee distracts Pace until he burns toast. Pace prepares mushroom toast and fruit. Vee directs Pace to undress. At the sink she points to a missed spot and brushes her breast along his cheek, then rebuffs his wet hands with a wagged finger and walks him down the hall; the point-command game unfolds with him kissing where she points. Pace performs extended oral sex on Vee. Pace kisses Vee with her own wetness on his mouth. Vee later searches Pace's mouth for the taste.
+**Ch48 Back.** (Vee POV.) Pace asks to meet Vee's people. Pace asks Vee to bring Cassie. Pace remembers Meg's boots. Vee mentions Theo asked her out. Pace offers to pick the place. Vee talks about Randi while Pace washes dishes. Vee proposes dinner with Randi. Pace remembers Kayla's personality. Pace accepts Theo despite his prior interest in Vee. Pace agrees to handle the event. Vee expands the invitation to her broader friend group.
 
-**Ch49 Back.** (Vee POV.) Pace says he wants to meet Vee's people. Vee talks to Pace while he washes dishes. Vee first proposes dinner with Randi. Pace asks Vee to include Cassie. Pace remembers Meg's borrowed hiking boots. Pace remembers Kayla's talkative nature. Pace agrees Theo may attend. Vee realizes a restaurant dinner won't fit all her people and he reframes it: "Tables have ends. Somebody ends up at one.". Vee asks Pace to choose the venue. Pace agrees to handle the arrangements.
+**Ch49 Unpacking.** (Vee POV.) Vee falsely claims Pace shrank her sweater. Cassie's brother-in-law wore snowshoes indoors. Cassie's mother thanks Vee for a card. Vee returns to the dorm after reconciling with Pace. Cassie asks about Vee's weekend. Vee says she and Pace talked. Vee recounts Pace making mushroom toast. Cassie laughs fully at Vee's explanation. Vee sleeps in Pace's flannel.
 
-**Ch50 Unpacking.** (Vee POV.) Cassie returns to the dorm for the semester. Vee tells Cassie she reconciled with Pace. Vee describes Pace's farmers-market breakfast. Vee falsely claims Pace ruined her clothes in the wash. Cassie laughs at Pace shrinking Vee's sweater. Cassie says her mother appreciated Vee's card. Vee sleeps in Pace's flannel. Cassie's break report: wrapping presents, the snowshoes brother-in-law, the baby. Vee climbs into the narrow bunk, hand flat on the cold cinderblock, missing the wide bed.
+**Ch50 Across.** (Vee POV.) Vee drives them to the bright bistro. Kayla, not twenty-one, orders orange juice. Vee says she flashed Pace on his porch. Meg compares it to apologizing to Danny with food and movies. Vee invites the group to meet Pace. Vee, Kayla, and Meg find the athletic dining hall closed. Kayla asks about Vee's Friday outfit. The friends split the brunch bill three ways. The three women order brunch drinks.
 
-**Ch51 Across.** (Vee POV.) Vee, Kayla, and Meg find the dining hall closed. Vee takes them to the bistro. Vee tells them she flashed Pace. Vee confirms the gesture reconciled them. Meg offers her own maple-bacon apology parallel from October. Vee invites her friends to meet Pace. Kayla realizes Vee wore nothing beneath the coat.
+**Ch51 Covering.** (Vee POV.) Randi wears the green-and-gold scarf in her hair to Anthro. Dr. Marsh lectures on Mauss and the hau. Vee and Randi dine at a new Italian restaurant. Randi recounts her mother displaying her found underwear at dinner. The lawn boy quit that week. Vee shows Randi the stained coat lining. Vee masturbates in the restroom, thinking of Randi's question. Randi says it's good Vee got relief. Randi claims the neck kiss tickled. Vee does not tell Randi about the kiss that went sideways. Vee kisses Randi's neck. Randi kisses Vee's mouth and hugs her. Randi saves Vee a seat. Vee dresses carefully for the first anthropology class. Vee describes Pace making midnight pancakes. Randi recounts a lawn worker kneeling to ask her out. Vee tells Randi the full story of going to Pace's house.
 
-**Ch52 Covering.** (Vee POV.) Dr. Marsh lectures about the hau of gifts. Vee tells Randi about reconciling with Pace. Vee tells Randi about midnight pancakes. Vee describes arriving naked beneath her coat. Vee masturbates in the restaurant restroom. Randi makes an ambiguous remark about Vee getting relief. Vee kisses Randi's neck goodbye. Vee shows Randi the dark bloom soaked into the coat lining; Randi stares, breathing audibly. Randi tells the underwear-at-Sunday-dinner story: her mother laid the laundered robin's-egg-blue panties beside her plate; the lawn boy never came back.
+**Ch52 Among Friends.** (Vee POV.) Randi arrives before Vee and Pace. Pace calls himself Vee's boyfriend. Pace introduces himself as Vee's boyfriend. Pace asks Danny about his bench. Pace asks Theo about jazz. Pace asks Cassie about the Bricklayers. Cassie tells Pace he can stay. Randi toasts Vee. Randi says meeting Vee was the highlight of her year. Vee goes down on Pace in the truck. Pace says Vee's friends share an interest. Vee introduces Pace to Randi. Cassie, Kayla, Meg, Danny, Theo, and Randi attend. Randi kisses Vee goodbye in the parking lot. Vee kisses Pace beside his truck. Vee removes her jeans in the moving truck. Pace brings Vee to orgasm while driving.
 
-**Ch53 Among Friends.** (Vee POV.) Pace chooses a quiet roadhouse for meeting Vee's friends. Randi arrives before Vee and Pace. Pace publicly introduces himself as Vee's boyfriend. Pace repeats the label to each arriving friend. Pace draws Danny into talking about weightlifting. Pace asks Theo about jazz. Pace asks Cassie about the Bricklayers. Cassie tells Pace he can stay. Pace tells Vee that Randi values their brunches. Randi toasts Vee as her beautiful best friend. Vee kisses Pace in the parking lot. Vee performs oral sex on Pace in his truck. Pace touches Vee sexually while driving home.
+**Ch53 A Clean Plate.** (Vee POV.) Dr. Marsh passes around a boxwood lice comb. Dr. Marsh lectures on baboon grooming. Vee shares wintergreen candy with Randi. Vee tells the kiss story and calls it gross. Randi says she has tasted herself. Vee says Pace is enthusiastic about it. Randi tells Vee she picked well. Vee kisses Randi's neck again. Vee swims for over an hour. Vee dresses carefully for anthropology and dinner. Vee starts recounting sexual events while walking to dinner. Vee describes performing oral sex in the truck. Vee describes Pace kissing her with her own wetness. Randi says it felt powerful and arousing.
 
-**Ch54 A Clean Plate.** (Vee POV.) Vee swims before anthropology class. Vee dresses carefully for dinner with Randi. Dr. Marsh lectures about grooming as social behavior. Vee gives Randi a wintergreen Lifesaver. Vee tells Randi about thanking Pace in the parking lot. Vee tells Randi about Pace touching her while driving. Vee describes directing Pace during sex. Vee compares Pace's oral sex to opening a blood orange. Randi says tasting herself was powerful and arousing. Vee kisses Randi's neck again. Vee protests "But it's gross," too loud; Randi asks only "How does he act?"; Vee answers "he's enthusiastic".
+**Ch54 The Reach.** (Vee POV.) Cassie is at a late Bricklayers game. Vee masturbates to orgasm. Vee masturbates in Pace's open flannel. Vee cannot taste her fingers. Vee opens the window to clear the room. Vee lies on her wet patch. Vee closes Cassie's open window. Vee prepares for bed alone. Vee recalls Pace's wet kiss. Vee examines her wet fingers. Vee raises her fingers toward her mouth. Vee smells her own arousal.
 
-**Ch55 The Reach.** (Vee POV.) Vee returns to the dorm after dinner with Randi. Vee closes Cassie's window. Vee wears Pace's flannel without anything beneath it. Vee masturbates while recalling Pace's wet kiss. Vee examines her wetness between her fingers. Vee brings her fingers close to her mouth. Vee cannot taste herself. Vee wipes her fingers on the sheet. Vee climaxes while imagining Pace. Vee opens the window to clear the room. Vee lies over the damp patch she made.
+**Ch55 My Pleasure.** (Pace POV.) Randi calls Pace for the first time since crying. Randi tastes herself in Pace's kiss. Randi says she misses Vee. Pace tells Randi Vee kisses her first. Randi tells Pace Vee kissed her neck. Randi says Vee loves Pace. Randi says she is also in love. Randi says she wanted to touch Vee's breast. Randi says she wants Vee to know her desire. Pace climaxes. Randi climaxes against Pace's mouth. Pace cannot deny it.
 
-**Ch56 My Pleasure.** (Pace POV.) Randi returns to Pace after a long absence. Pace performs oral sex on Randi. Randi deliberately tastes herself from Pace's mouth. Pace controls Randi's movement during sex. Randi says Vee kissed her neck again. Randi says she wanted to touch Vee's breast. Randi says she wants Vee to know her effect. Randi tells Pace that Vee loves him. Randi says she is also in love. Randi cleans their wetness from Pace's body with her mouth. Randi resumes sex with Pace.
+**Ch56 Another Round.** (Vee POV.) Pace asks Vee to meet Sheri. Vee dresses competitively for the meeting. Sheri hugs Pace with her full weight. Sheri openly looks over Vee's body. Sheri asks Pace about Vee's breasts. Pace blushes. Sheri says Pace talks about Vee's philosophy of his food. Sheri came out and lost her family and church. Pace drove Sheri home and fixed her lock. Pace waits until Sheri enters her home safely. Pace takes Vee to Sheri's preferred taproom. Sheri hugs Vee. Sheri invites Vee to a Valentine's dance.
 
-**Ch57 Another Round.** (Vee POV.) Pace asks Vee to meet Sheri. Vee agrees despite immediate jealousy. Vee dresses competitively for Sheri. Sheri warmly hugs Pace at the taproom. Sheri looks appreciatively over Vee's body. Sheri hugs Vee and says Vee makes Pace happy. Sheri embarrasses Pace by mentioning Vee's breasts. Sheri tells Vee how she met Pace. Sheri says Pace dances without exploiting women. Sheri reveals her family rejected her after she came out. Sheri says Pace supported her after that rejection. Pace drives Sheri home. Pace ensures Sheri reaches home safely. Sheri turns out to be five-foot-nothing, loud, bleached-and-dark permed hair, crooked makeup; the blonde has nowhere to stand. Sheri reveals Pace went bad with his father and hasn't been home since he was sixteen.
+**Ch57 Hangover.** (Vee POV.) Pace cared for drunk Vee and left water. Pace leaves water on the nightstand. Vee wakes hungover in Pace's bed. Pace serves Vee tea, bread, and eggs. Vee says Sheri looked at her with attraction. Vee asks to meet Pace's other friends. Pace says women misunderstand his friendship. Pace says older men were unsafe or unwelcoming. Pace explains why he has no friends from college or childhood. Vee hugs Pace.
 
-**Ch58 Hangover.** (Vee POV.) Vee wakes hungover in Pace's bed. Pace leaves water beside the bed. Vee remembers Pace caring for her while intoxicated. Pace feeds Vee tea, toast, and eggs. Pace confirms Sheri found Vee attractive. Vee says she liked Sheri's appreciative look. Vee asks to meet Pace's other friends. Pace says Sheri is his only friend. Pace explains that women misread his friendship. Pace explains that entering college at fifteen prevented male friendships. Pace says older men around him were unsafe or unwelcoming. Vee embraces Pace without offering verbal pity.
+**Ch58 Between.** (Vee POV.) Vee tells Randi about Sheri's height. Vee admits Randi was right about the invented rival. Vee tells Randi Sheri is gay. Vee shares Sheri's coming-out history. Randi's thumb stops when Vee describes Sheri's look. Vee describes Sheri's admiring look. Vee denies liking Sheri's attention. Vee reassures Randi that Sheri is no threat. Pace asked Vee to get waxed. Randi recommends Sondra on Draper Street. Vee plans to make Pace come first. Randi kisses Vee for an extended goodbye. Vee writes the name on her hand.
 
-**Ch59 Between.** (Vee POV.) Vee tells Randi that Sheri is five feet tall. Vee admits Randi was right about the imagined rival. Vee tells Randi that Sheri is gay. Vee tells Randi Sheri looked at her with enjoyment. Vee quickly denies liking Sheri's gaze. Vee reassures Randi that Sheri is not a threat. Vee says Pace asked her to remove all her pubic hair. Randi recommends Sondra on Draper Street. Vee writes Sondra's name on her hand. At the goodbye the kiss waits a breath and stays; Vee's mouth finds Randi's neck again.
+**Ch59 Barely Stings.** (Vee POV.) Vee drinks wine at the salon. Vee asks for everything bare. Vee swears at the first strip. Sondra instructs Vee to roll over. Vee pays with Pace's card. Vee arrives at the salon Randi recommended. Vee undresses below the waist. Vee becomes aroused by doing the wax for Pace. Vee submits to waxing the remaining hair. Vee touches the newly smooth skin afterward. Sondra tells Vee the first strip is the surprise.
 
-**Ch60 Barely Stings.** (Vee POV.) Vee visits the salon Randi recommended. Vee accepts a glass of white wine. Vee remembers Pace asking her to be waxed bare. Vee tells Sondra to remove everything. The first wax strip causes Vee to swear. Vee becomes aroused while thinking about doing this for Pace. Vee remains still through the intimate waxing. Sondra tells Vee to roll onto her front. Vee consents by rolling over. Vee touches her newly smooth skin after Sondra leaves. Vee imagines Pace discovering the result by touch.
+**Ch60 Still Life.** (Vee POV.) Champagne waits in Pace's bedroom. Vee kisses Pace's scar and gives him oral first. Pace sees her bare. Pace has Vee hold the bed rail. Pace paints her breasts as cantaloupes. Pace uses her wetness as gesso. Pace paints a cherry on her mons. Pace photographs Vee's painted body. Pace never asks for a copy. Vee decides not to tell Randi. Vee showers after the wax. Vee becomes aroused by her newly smooth skin. Vee dresses in green silk for Pace. Pace greets Vee with an exuberant embrace. Vee leads Pace to the prepared bedroom. Vee undresses slowly while Pace watches. Pace feeds Vee foods matching the painted colors. Vee smears orange paint onto Pace's face. Vee feels pride when seeing the photograph. Pace erases the body painting with his mouth. Pace penetrates Vee in one thrust. Vee tastes a faint trace of herself while kissing Pace. Pace climaxes loudly.

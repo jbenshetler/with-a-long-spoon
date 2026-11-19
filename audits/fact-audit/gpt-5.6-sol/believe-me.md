@@ -1,6 +1,6 @@
 # Fact audit — Believe Me
 
-*model: gpt-5.6-sol · ch020 · 2026-10-30 · prose-sha ~13a82a38202a*
+*model: gpt-5.6-sol · ch019 · 2026-11-18 · prose-sha ~4d34092e7e04*
 
 ---
 
@@ -8,10 +8,11 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- **Vehicles:** “The truck was in the drive when she pulled in” places Pace’s truck at his house; it does not identify the vehicle Vee arrived in, so it does not conflict with her Corolla.
-- **House details:** The low lamps, unlocked door, entry chair, warm interior, kitchen counter, porch, and food on the stove are consistent with the ledger.
-- **Anticipated evening:** Pace’s plan to eat and then sit on the porch remains internally consistent; no competing imagined or expected version appears.
-- **Knowledge:** Vee asks how to describe the relationship to Cassie and her parents, but does not reveal that she previously called Pace her boyfriend. Pace therefore does not acquire that concealed fact here.
-- **Relationship language:** Vee’s earlier, uncertain use of “boyfriend” with her parents does not contradict her present demand for a definition she believes Pace himself will recognize.
-- **Presence:** Only Vee and Pace are present, consistent with the scene and ledger.
-- **Recurring shirt referent:** “holding a smell in the dark that told her nothing” is consistent with the scented shirt and her sleepless night established in Chapter 19.
+- “The truck was in the drive, pale against the trees” — consistent with Pace’s old white pickup.
+- Vee arrives in an unnamed vehicle — nothing identifies it as inconsistent with her Corolla.
+- “the chair by the door where her bag went” — consistent with the foyer chair used for visitors’ bags.
+- The unlocked door and unusually warm house — both match Pace’s established preparations when expecting Vee.
+- “we sit out on the porch” and the clear view — consistent with the glassed porch overlooking the woods and mountains.
+- Cassie is invoked only as someone Vee must describe the relationship to; Cassie already knows about the sex, cooking, and overnight stays, but does not know what label Pace gives the relationship.
+- Pace calling Vee “the most important person in my life” does not contradict his concealed involvement with Randi; the ledger establishes that involvement but no competing ranking.
+- No anticipated, remembered, or imagined person, vehicle, object, or event changes referent within the chapter.

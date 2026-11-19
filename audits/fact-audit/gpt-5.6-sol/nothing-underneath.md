@@ -1,27 +1,19 @@
 # Fact audit — Nothing Underneath
 
-*model: gpt-5.6-sol · ch024 · 2026-11-14 · prose-sha ~e790cf65f074*
+*model: gpt-5.6-sol · ch024 · 2026-11-18 · prose-sha ~e790cf65f074*
 
 ---
 
-## Contradiction
-
-**WHERE** — “He had seen her naked plenty of times, warm and rumpled in the bed, wet and unbothered in the bathroom; he had never once seen her like this, stood up on purpose in a lit room with her heels on, made into an offering and knowing she'd made herself one.”
-
-**AGAINST** — “Pace learns Vee wore nothing underneath it at the induction when she presents herself naked except for the heels.” (Ch. 8 ledger)
-
-**WHY** — Chapter 8 already has Vee deliberately presenting herself to Pace naked except for heels; the claim that he has never seen her deliberately displayed naked in heels conflicts unless “like this” is restricted specifically to the doorway-and-coat presentation.
-
-**CONFIDENCE** — MEDIUM
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- Randi’s heels remain consistent: open toes, calf-high crossing straps, back zips, and very long spike heels.
-- The olive church coat and the “long coat” at the end may be the same garment; the ledger explicitly leaves that identification open.
-- Vee’s frosted-plum toenails, pale-to-bright-pink nipples, narrow waist, and fuller figure agree with the ledger.
-- The blonde in Pace’s kitchen remains an imagined rival, not a woman Vee suddenly knows exists.
-- Pace’s truck in the drive, the shut door, and the unlit porch all fit Vee’s unexpected arrival.
-- The blanket taken from the chair may be the recurring blanket associated with Randi, but neither its storage nor its use is exclusive.
-- Vee interrupts “Vee, I l—” and never identifies its intended completion; she acquires no unrecorded knowledge.
-- Cassie’s presence and silent recognition of Vee’s return outfit match her recorded knowledge state.
-- The desk mirror and closet-door mirror can coexist with the room’s established sink mirror.
+- Randi’s black heels are described here in greater detail—open-toed, cross-strapped to mid-calf, back-zipped stilettos—but nothing conflicts with the ledger’s description.
+- The locked front door is consistent with Pace leaving it unlocked only when he expects Vee or Randi; Vee is unexpected here.
+- Vee’s imagined “blonde, tan and laughing” woman reflects her established, unsupported construction of Sheri rather than a factual identification.
+- Pace’s truck being in the drive and Vee driving herself are consistent with their recorded vehicles.
+- The couch in the den does not contradict the listed den furniture; the ledger does not state that its inventory is exhaustive.
+- Vee interrupts “Vee, I l—,” so she still does not learn that Pace was attempting to declare his love.
+- Cassie’s absence at the opening and presence when Vee returns are not incompatible.
+- The frosted-plum toenail polish matches the ledger.
+- Vee wearing Randi’s black heels home matches the ledger’s account that she still has them on upon returning to the dorm.

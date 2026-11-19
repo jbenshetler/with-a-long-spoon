@@ -1,21 +1,25 @@
 # Fact audit — We Find Out
 
-*model: gpt-5.6-sol · ch007 · 2026-11-14 · prose-sha ~9e4c9f23fce8*
+*model: gpt-5.6-sol · ch007 · 2026-11-18 · prose-sha ~9e4c9f23fce8*
 
 ---
 
-No contradictions of fact found.
+## Contradiction
+
+**WHERE** — “She went up the two steps and looked in like a thief.”
+
+**AGAINST** — “Has three steps to a covered stoop and a painted wood front door with a single diamond-shaped pane at eye level.”
+
+**WHY** — The same entrance cannot have both two and three steps.
+
+**CONFIDENCE** — HIGH
 
 ## NOTED (not errors)
 
-- “The kitchen window beside the stoop” and “the two steps” match the recorded layout of Pace’s house.
-- Vee arrives by car on the gravel drive; nothing conflicts with her driving the Corolla.
-- The “black strappy heels” are consistent with the induction heels introduced in Chapter 6.
-- Vee’s quickness while evading Pace does not contradict his ability to catch her: the chapter distinguishes her agility in open space from his greater straight-line speed.
-- Pace’s “broad thick chest,” rough palm “from the gym and the wood,” and “old scar at the top of his inner thigh” match his recorded physical attributes.
-- Vee’s nipples becoming “tight and bright” is consistent with their recorded appearance when erect.
-- The hall opening onto the bedroom, and the blanket being folded over a chair, do not conflict with the recorded house layout or with Randi’s separately identified blanket.
-- Vee remembers Randi’s spanking account consistently with what Randi told her in Chapter 5.
-- The green scrunchies with small white dots, supplied in excessive quantity, match the ledger.
-- Vee’s statement that she will begin bringing a bag does not conflict with the later assignment of bathroom storage; that drawer has not yet been established here.
-- No one displays knowledge of Pace and Randi’s concealed relationship, Randi’s feelings for Vee, or any other information not yet learned.
+- Pace appears first “in his gym shorts” and later “in just his shirt”; the first description does not say he wore only shorts.
+- The “kitchen window beside the stoop” can also be the recorded window over the kitchen sink.
+- The scar “at the top of his inner thigh” matches the recorded large scar high on the inside of one thigh, and Vee has previously seen it.
+- Vee thinks Pace’s hidden chest is “hers” because “no one else got to see it”; this reflects her limited knowledge, not factual omniscience. She does not know about Randi.
+- Vee’s anticipation based on “Randi’s story” differs from what Pace actually does, but the passage explicitly presents his behavior as unlike that story.
+- The green scrunchies remain consistent: a whole card/form, deep green with small white dots, initially kept on the bathroom counter.
+- References to Friday, Saturday, and elapsed time were not assessed because dates, weekdays, and interval arithmetic are out of scope.

@@ -1,18 +1,18 @@
 # Fact audit — Tannin
 
-*model: gpt-5.6-sol · ch006 · 2026-11-14 · prose-sha ~01e53a9c1066*
+*model: gpt-5.6-sol · ch006 · 2026-11-18 · prose-sha ~01e53a9c1066*
 
 ---
 
-No contradictions of fact found in the chapter.
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- “The top was down” and “the gravel came up under her tires” are consistent with Randi driving her convertible Mercedes to Pace’s gravel drive.
-- “all those red curls” is consistent with Vee’s dark-red hair, which can curl heavily; color and styling vary by conditions.
-- Vee’s imagined breasts being “more than her hands could hold” is consistent with her recorded large bust.
-- Randi’s breasts having “soft heavy give” does not contradict their being small and high; the language describes tactile response, not size.
-- “You'll like her” does not imply Randi has never met Vee; Pace knows Randi has already been cultivating a friendship with her.
-- Pace withholding “the true thing she had asked him to pretend she hadn't” is consistent with the ledger: he treats Vee’s vulnerable statement as hers to keep.
-- “He had not had a drop of it” is not contradicted by his tasting wine through Randi’s kisses; the passage distinguishes drinking the wine from tasting it in her mouth.
-- No presence or knowledge conflict found: Randi and Pace both know about the arranged approach to Vee, while Vee remains unaware.
+- “The top was down” and the gravel under Randi’s tires are consistent with her convertible Mercedes and Pace’s gravel driveway.
+- Randi’s imagined sequence—“the cardigan off her shoulders,” then “the buttons,” then “the clasp”—describes separate layers of clothing, not conflicting versions of one garment.
+- “More than her hands could hold” is consistent with Vee’s recorded large bust.
+- Pace’s anticipation that Randi would arrive does not give him unestablished knowledge; she routinely visits his house, and the chapter does not say her arrival was unplanned or unknowable.
+- Randi locking the deadbolt after entering does not conflict with Pace leaving the front door unlocked for an expected visitor.
+- Pace withholding “the true thing she had asked him to pretend she hadn't” is consistent with the ledger: he does not disclose Vee’s private statement to Randi.
+- “The soft heavy give of her in his hands” does not contradict Randi’s small, high breasts; softness and weight under pressure are not incompatible with their recorded size.
+- No presence conflict: only Randi and Pace are physically at the house; Vee appears solely in recollection and anticipation.

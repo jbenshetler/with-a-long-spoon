@@ -1,36 +1,32 @@
 # Fact audit — Not in Your Bed
 
-*model: gpt-5.6-sol · ch010 · 2026-11-08 · prose-sha ~944e2fa78cb0*
+*model: gpt-5.6-sol · ch010 · 2026-11-18 · prose-sha ~0a371aa0512c*
 
 ---
 
-## Contradictions
+One contradiction found.
 
-### 1. Pace’s vehicle
+### 1. Bathroom counter contents
 
-**WHERE** — “She came in past eleven on Monday with the night still on her, **the warmth of his car** and of the evening before that”
+**WHERE** — “Then the scrunchy, deep green with the small white dots, one of the dozens he'd bought her so she'd never be without, off the form by the tap.”
 
-**AGAINST** — “Vehicle: **drives a truck**, later described as pale.” (Fact Ledger, Pace)
+And:
 
-**WHY** — The chapter identifies Pace’s vehicle as a car, while the ledger consistently assigns him a truck.
+> “...a stretch of counter that every other hour of the week stood bare and wiped and held nothing but his razor squared to the edge.”
 
-**CONFIDENCE** — MEDIUM. “Car” may be used generically for an automobile, or Pace could possess an otherwise-unmentioned second vehicle.
+**AGAINST** — “Initially kept on the bathroom counter, then moved into Vee’s dedicated top drawer. (V2.7, V2.11)”
 
-### 2. Cassie’s book during her question
+**WHY** — The scrunchies are still kept on their form on the bathroom counter at this point—and the chapter itself locates that form by the tap—so the counter cannot otherwise hold nothing but Pace’s razor.
 
-**WHERE** — “*Do you love him.* It got in off the third wall, whole, in Cassie's voice, flat the way she'd said it **with her book still open on her chest**.”
+**CONFIDENCE** — HIGH
 
-**AGAINST** — “Cassie was folded into the bean bag with **a book against her knees**. […] Cassie **turned the book facedown** and looked” and, after Vee answers, “She let the maybe stand. […] **only went back to her book**.”
+### NOTED (not errors)
 
-**WHY** — Vee’s recollection places the book open on Cassie’s chest during the question, whereas the direct scene places it facedown after being held at her knees and says Cassie returns to it only after Vee answers.
-
-**CONFIDENCE** — MEDIUM. Cassie could have moved or reopened the book during Vee’s extended account without the action being narrated.
-
-## NOTED (not errors)
-
-- Vee’s belief that Randi “must have lived in Europe” is speculation already identified by the ledger, not established biography.
-- Pace’s knowing reaction to Randi’s mouth kisses is consistent with his concealed prior knowledge; he does not disclose it to Vee.
-- The scattered bathroom supplies do not conflict with Vee’s assigned drawer, which is established later.
-- Pace’s birthmark, oversized shirt, cooking habits, house temperature, and sole bathroom all match the ledger.
-- The pool layout, third lane, green-and-white suit, structured swim set, and red hair are consistent with the ledger.
-- Cassie’s knowledge of Pace’s cooking, Vee’s frequent absences, earlier boyfriends, and possible love is properly established within this chapter.
+- Vee’s claim that Randi must have lived in Europe conflicts with Randi’s actual Kentucky childhood, but the ledger explicitly establishes this as Vee’s mistaken belief.
+- Vee introduces Randi as though Pace knows her only from the froyo meeting, but Pace is concealing his existing relationship with Randi rather than displaying contradictory knowledge.
+- Pace’s mimed cheek kisses do not contradict Randi’s mouth kisses; he is responding to Vee’s European/French explanation before she corrects the gesture.
+- Vee tells Cassie “Maybe” after internally recognizing that she loves Pace, but the chapter explicitly presents this as an answer smaller than what she knows.
+- The birthmark described as “a darker stretch down the side” matches the ledger.
+- “The house stayed warm now” does not establish that Pace’s house was formerly cold and therefore does not contradict its consistently warm temperature.
+- “One of the dozens” of scrunchies does not contradict the ledger’s “entire card/form,” which gives no exact quantity.
+- Dates, weekdays, and interval statements were not assessed.

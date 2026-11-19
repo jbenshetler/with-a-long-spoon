@@ -1,176 +1,229 @@
 {
  "boundary": 50,
- "bundle_sha256": "5e556c327b298042670065f7c6325d5fb0c42a30659ecae99b32cd5186bb6b34",
+ "bundle_sha256": "e025a000088415daf08217f56f3b87eef17399e99aa18b00287b336508239bc0",
  "slots": {
   "anthropic": {
    "model": "claude-opus-5-5",
    "letter": "A",
-   "parsed": 57,
-   "verified": 57
+   "parsed": 75,
+   "verified": 75
   },
   "openai": {
    "model": "gpt-5.6-sol",
    "letter": "B",
-   "parsed": 87,
-   "verified": 82
+   "parsed": 89,
+   "verified": 87
   },
   "google": {
    "model": "gemini-4-argon",
    "letter": "C",
-   "parsed": 48,
-   "verified": 48
+   "parsed": 35,
+   "verified": 35
   },
   "diversity": {
    "model": "glm-5.3",
    "letter": "D",
-   "parsed": 46,
-   "verified": 42
+   "parsed": 36,
+   "verified": 32
   }
  },
  "quorum": 2,
  "matcher": "claude-opus-5-5",
  "prompt_sha256": "4b1c7ed67154858e04341e773e997a9dc7448ad346d2f6fddb61a191e4946ded",
  "match_prompt_sha256": "14744a6c7649e473c2d7161d5a80ab04bc359470c46e2ccef8cbc9b41f39e2d6",
- "date": "2026-11-02",
+ "date": "2026-11-18",
  "admitted": [
   {
    "section": "IMPRESSION",
-   "key": "Pace",
+   "key": "Vee",
    "ch": 0,
-   "text": "Pace seems committed to letting Vee choose each step, even when waiting costs him.",
-   "detail_quote": "that was what he did, he backed off and let her decide",
+   "text": "Vee reads as newly voracious for pleasure, food, beauty, and attention after years of mistaking deprivation for virtue.",
+   "detail_quote": "She had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting.",
    "support": [
     "A1",
-    "B11"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "His idea of consent reads as sincere and close to a principle he lives by.",
-   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
-   "support": [
-    "A2",
-    "C2"
-   ],
-   "opposes": [
-    2
-   ]
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "His tenderness comes with an appetite to watch, and the game reads as his idea as much as Randi's.",
-   "detail_quote": "He had been reading her more than them by the end of it.",
-   "support": [
-    "A3",
-    "B12",
-    "C3"
-   ],
-   "opposes": [
-    1
-   ]
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "Pace reads as extraordinarily attentive, making care concrete through food, warmth, craft, and remembered detail.",
-   "detail_quote": "He had sliced it thin because she would eat thin slices and would not eat thick ones",
-   "support": [
-    "B10",
-    "C1",
-    "D2"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "By his own account, fear is what keeps him from saying he loves her.",
-   "detail_quote": "He had hurt her because he was afraid of how much she could hurt him.",
-   "support": [
-    "A7",
-    "B13",
-    "C4",
+    "B1",
+    "C11",
     "D1"
    ],
    "opposes": []
   },
   {
    "section": "IMPRESSION",
-   "key": "Pace",
+   "key": "Vee's mother",
    "ch": 0,
-   "text": "He reads as oddly blind to Randi's pain even while he reads her body closely.",
-   "detail_quote": "He did not know what he had done. He looked for it, back through the evening from the gravel forward, and it was not there.",
+   "text": "Vee's mother seems to be the source of the shaming voice Vee carries inside her.",
+   "detail_quote": "the word arriving whole and in her mother's voice before she had finished forming the picture",
+   "support": [
+    "A45",
+    "B43"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "Vee reads as a quick, practiced explainer-away of Randi's kisses, which suggests there is something she needs to explain away.",
+   "detail_quote": "It's a French thing, she does the kiss-kiss, she's been everywhere, that's all it is, that's just how women like her say goodbye.",
+   "support": [
+    "A3",
+    "B6",
+    "C13"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Vee",
+   "ch": 0,
+   "text": "The kiss in the foyer reads as Vee's body getting ahead of every explanation she has built.",
+   "detail_quote": "under all those framed faces Vee kissed her best friend until the thing in her chest had somewhere to go.",
    "support": [
     "A5",
-    "B15",
-    "C6"
+    "D2"
    ],
    "opposes": []
   },
   {
    "section": "IMPRESSION",
-   "key": "Pace",
+   "key": "Vee",
    "ch": 0,
-   "text": "He seems to carry an old wound from a relationship that began when he was a boy.",
-   "detail_quote": "He had handed her the thing that had hurt him and named it luck.",
+   "text": "Vee reads as tender and discreet; she shields Randi from shame she did nothing to earn.",
+   "detail_quote": "She didn't look back at the point, and she didn't say the name",
    "support": [
-    "A8",
-    "D3"
+    "A7",
+    "B8"
    ],
    "opposes": []
   },
   {
    "section": "IMPRESSION",
-   "key": "Daphne",
+   "key": "Vee",
    "ch": 0,
-   "text": "Even in memory, she reads as the formative wound in Pace's life, an older woman whose departure taught him to equate spoken love with unbearable loss.",
-   "detail_quote": "She had been his tutor, then his best friend, his first girlfriend, his first lover, his first love.",
-   "support": [
-    "B33",
-    "C25"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Daphne",
-   "ch": 0,
-   "text": "The relationship Pace calls luck reads, through Vee, as something darker.",
-   "detail_quote": "The word for it started to form in her, the clean ugly grown-up word",
-   "support": [
-    "A32",
-    "B34"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "His silence about his family reads as hiding a deeper break.",
-   "detail_quote": "I don't go back.",
-   "support": [
-    "A9",
-    "D22"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Pace",
-   "ch": 0,
-   "text": "His attention to Vee's friends reads as real care for her whole life, not only her body.",
-   "detail_quote": "Bring Theo,\" Pace said, and reached for the next pan.",
+   "text": "Her account of the reconciliation reads as smoothed over: a happy surface laid over the unsaid word.",
+   "detail_quote": "The same name he'd said behind her in December as she walked out his door — the one that hadn't been the word she'd come for then, and hadn't been enough.",
    "support": [
     "A10",
+    "B7",
+    "C14"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "Pace reads as loving Vee already, with his refusal to say so rooted in old loss rather than lack of feeling.",
+   "detail_quote": "He had hurt her because he was afraid of how much she could hurt him.",
+   "support": [
+    "A12",
+    "B14",
+    "C3",
+    "D4"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "Pace seems sincere about consent, repeatedly leaving choices open even when his desire is strong.",
+   "detail_quote": "She chooses it, Randi. Every step of it. Or it isn't anything.",
+   "support": [
+    "A13",
+    "B11",
+    "C1"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "Pace reads as a man who sees Vee clearly and with real tenderness.",
+   "detail_quote": "she's the most alive person standing there, and it never once occurs to her.",
+   "support": [
+    "A15",
+    "B10",
+    "D3"
+   ],
+   "opposes": [
+    9
+   ]
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "reads as a reader of women — he watched Randi's face when he pointed at Vee, and the reader is invited to wonder how much of his tenderness is aimed observation",
+   "detail_quote": "You clever bastard — you had me picking women off a lawn in broad daylight, and I was delighted with myself the whole way.",
+   "support": [
+    "C2",
     "D5"
+   ],
+   "opposes": [
+    8
+   ]
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "With Randi's distress he seems to settle for the easy explanation, which reads as a convenient blindness.",
+   "detail_quote": "He let it be hormones.",
+   "support": [
+    "A18",
+    "C4"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Pace",
+   "ch": 0,
+   "text": "His withdrawal in loud places reads as sensory overwhelm, not coldness, though Vee took it for rejection.",
+   "detail_quote": "In a room like that I listen as hard as I know how and I still can't hear you.",
+   "support": [
+    "A19",
+    "B18"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Daphne",
+   "ch": 0,
+   "text": "Daphne reads as the older figure entrusted with a child, and the arrangement looks troubling.",
+   "detail_quote": "But that was the arrangement: an older student, to help the child find his feet.",
+   "support": [
+    "A39",
+    "B39"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Sheri",
+   "ch": 0,
+   "text": "Sheri reads as Pace's one unimpressed, plain-spoken friend, the one who asks nothing of him.",
+   "detail_quote": "She didn't want him, she wasn't impressed by him, and she'd say so to his face",
+   "support": [
+    "A36",
+    "B36",
+    "C17"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Sheri",
+   "ch": 0,
+   "text": "She seems to see Pace's evasion more clearly than he does.",
+   "detail_quote": "Then not saying it matters more to you than having her.",
+   "support": [
+    "A37",
+    "B35",
+    "D13"
    ],
    "opposes": []
   },
@@ -178,11 +231,48 @@
    "section": "IMPRESSION",
    "key": "Randi",
    "ch": 0,
-   "text": "From the first chapter she reads as someone who hides her real self behind a polished face.",
-   "detail_quote": "The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face, because the face was not her.",
+   "text": "Randi reads as someone who survives by showing a flawless face and hiding the real self behind it.",
+   "detail_quote": "He could have the face. The face was very good. The one he had found was going back behind it, and she was not coming out again.",
    "support": [
-    "A11",
-    "B24",
+    "A20",
+    "C6"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Randi seems constrained by class and sorority respectability, with Brooke making explicit the social price of being seen as queer.",
+   "detail_quote": "You've got a position in this house, and you've got her. You need to choose.",
+   "support": [
+    "B27",
+    "D6"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Her \"it's for the threesome\" framing seems to be a cover story for wanting Vee for herself.",
+   "detail_quote": "For the threesome. For when she's ready. Somebody has to get her used to my mouth.",
+   "support": [
+    "A21",
+    "B21",
+    "D7"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Randi",
+   "ch": 0,
+   "text": "Underneath the performance she seems to have fallen in love with Vee.",
+   "detail_quote": "She loved Vee and she had told her so, more than once.",
+   "support": [
+    "A22",
+    "B20",
     "C8"
    ],
    "opposes": []
@@ -191,53 +281,13 @@
    "section": "IMPRESSION",
    "key": "Randi",
    "ch": 0,
-   "text": "She seems to hurt herself quietly whenever her feelings rise.",
-   "detail_quote": "set the sharp inner edge of the cap under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt",
+   "text": "Randi reads as a gifted guide who loosens Vee's shame while also steering where it goes.",
+   "detail_quote": "Nothing.\" It came out thick. Then she laughed, wet, and the laugh nearly came off. \"I'm fine. It's hormones.",
    "support": [
-    "A12",
-    "C11"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Randi",
-   "ch": 0,
-   "text": "Her coaching of Vee reads as warm and manipulative at the same time.",
-   "detail_quote": "I know exactly what I'm doing. I have always known what I'm doing.",
-   "support": [
-    "A13",
-    "B22",
-    "C14"
-   ],
-   "opposes": [
-    14
-   ]
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Randi",
-   "ch": 0,
-   "text": "She seems to love Vee without calculation and to be terrified of losing her.",
-   "detail_quote": "I keep waiting to get bored of her — I get bored of everybody — and it doesn't come.",
-   "support": [
-    "A17",
-    "B19",
-    "C10"
-   ],
-   "opposes": [
-    13
-   ]
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Randi",
-   "ch": 0,
-   "text": "Randi seems terrified that speaking plainly will destroy the friendship that currently lets her keep Vee close.",
-   "detail_quote": "She was not brave enough to lose her.",
-   "support": [
+    "A23",
     "B23",
-    "D11"
+    "C10",
+    "D9"
    ],
    "opposes": []
   },
@@ -245,12 +295,12 @@
    "section": "IMPRESSION",
    "key": "Randi",
    "ch": 0,
-   "text": "Her jealousy of Pace over Vee reads as growing.",
-   "detail_quote": "You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be.",
+   "text": "She seems jealous of Vee's place with Pace and is quietly punishing him for it.",
+   "detail_quote": "She had come from Vee's table this morning to his, and told him, and watched him be glad.",
    "support": [
-    "A16",
-    "B20",
-    "C12"
+    "A25",
+    "B24",
+    "C9"
    ],
    "opposes": []
   },
@@ -258,24 +308,11 @@
    "section": "IMPRESSION",
    "key": "Randi",
    "ch": 0,
-   "text": "She seems trapped by her family and her sorority, and the right life feels like nothing to her.",
-   "detail_quote": "Randi, relying on her sorority practice, returned the smile warmly and hugged him, eating her revulsion.",
+   "text": "Randi reads as deeply shaped by her parents' coldness and fraud, performing a safe heterosexual fairytale that leaves her untouched.",
+   "detail_quote": "This was the best the acceptable world could do for her.",
    "support": [
-    "A18",
-    "B25",
-    "C13"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Randi",
-   "ch": 0,
-   "text": "her long silence after the green-panties morning reads as retreat from feeling too much, not from losing interest",
-   "detail_quote": "The one he had found was going back behind it, and she was not coming out again.",
-   "support": [
-    "C9",
-    "D13"
+    "B28",
+    "D8"
    ],
    "opposes": []
   },
@@ -283,156 +320,12 @@
    "section": "IMPRESSION",
    "key": "John",
    "ch": 0,
-   "text": "reads as the flawlessness that leaves Randi cold — everything done well and nothing reaching her",
-   "detail_quote": "This was the best the acceptable world could do for her. Not a poor version of it. The best: a faultless man asleep in a faultless room",
+   "text": "John reads as polished and accomplished but holding something back, a lover who never reaches Randi.",
+   "detail_quote": "This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath.",
    "support": [
-    "B35",
-    "C26",
-    "D21"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "She reads as long underfed, in both food and desire, and as finally waking to it.",
-   "detail_quote": "Like my mouth had been asleep since I was born and nobody told me. Like I'd been eating with the sound off.",
-   "support": [
-    "A19",
-    "B1",
-    "C15",
-    "D6"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "Her mother's shame seems to sit inside her own desire and to drive it.",
-   "detail_quote": "she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire",
-   "support": [
-    "A20",
-    "C16",
-    "D7"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "She seems to explain away her attraction to Randi as fast as she feels it.",
-   "detail_quote": "It's a French thing, she does the kiss-kiss, she's been everywhere, that's all it is, that's just how women like her say goodbye.",
-   "support": [
-    "A21",
-    "B5",
-    "C18"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "Her need for a name for what she and Pace are reads as the center of her unrest.",
-   "detail_quote": "He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved.",
-   "support": [
-    "A24",
-    "B3",
-    "C17",
-    "D8"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "Her loyalty reads as a quiet kindness: she keeps the PPP secret to shield Randi.",
-   "detail_quote": "the kindest thing a friend could do was not make her carry it in front of anyone",
-   "support": [
-    "A25",
-    "B7",
-    "C19"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "She has started telling small lies to protect her secrets, even to Cassie.",
-   "detail_quote": "What she kept was the middle. She lifted it out clean as she went, the way a ladle takes soup from the pot",
-   "support": [
-    "A26",
-    "B8",
+    "A44",
+    "B40",
     "C20"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "Vee reads as capable of self-deception when happiness depends on preserving a preferred version of events.",
-   "detail_quote": "it settled somewhere under the affection and stayed, minor-key, waiting.",
-   "support": [
-    "B9",
-    "D10"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Vee",
-   "ch": 0,
-   "text": "reads as braver than she knows — the coat, the entrance, the pointing finger are her own nerve, not anyone's script",
-   "detail_quote": "She took a breath, and made the second step long.",
-   "support": [
-    "B2",
-    "D9"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Cassie",
-   "ch": 0,
-   "text": "She reads as steadily loyal and protective of Vee.",
-   "detail_quote": "The whole forty seconds Vee had spent being a student, Cassie had spent watching what the dress had done to her friend",
-   "support": [
-    "A27",
-    "B27",
-    "C21",
-    "D14"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Cassie",
-   "ch": 0,
-   "text": "She seems to sense something off about Randi from the start.",
-   "detail_quote": "She didn't take the bit's open door — didn't do the *oh, mine's a whole thing too* that the bit was built to be answered with",
-   "support": [
-    "A28",
-    "C22"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "IMPRESSION",
-   "key": "Sheri",
-   "ch": 0,
-   "text": "She reads as the one person blunt enough to name what Pace's silence costs.",
-   "detail_quote": "She didn't want him, she wasn't impressed by him, and she'd say so to his face; she just liked him and gave him hell.",
-   "support": [
-    "A30",
-    "B31",
-    "C24",
-    "D18"
    ],
    "opposes": []
   },
@@ -440,13 +333,51 @@
    "section": "IMPRESSION",
    "key": "Brooke",
    "ch": 0,
-   "text": "Behind her warmth she reads as a watchful enforcer of the house's rules.",
+   "text": "Brooke reads as a warm but watchful authority who keeps track of everything in her house.",
    "detail_quote": "Brooke was the chapter president and did not need to stand to stop someone in her own common room.",
    "support": [
+    "A34",
+    "B33",
+    "D12"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Brooke",
+   "ch": 0,
+   "text": "Her warmth seems to wrap a real threat to Randi's standing.",
+   "detail_quote": "You've got a position in this house, and you've got her. You need to choose.",
+   "support": [
+    "A35",
+    "B34",
+    "C16"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Cassie",
+   "ch": 0,
+   "text": "Cassie reads as loyal and protective; she spends her strength quietly on Vee's behalf.",
+   "detail_quote": "The whole forty seconds Vee had spent being a student, Cassie had spent watching what the dress had done to her friend",
+   "support": [
+    "A30",
+    "B30",
+    "C15",
+    "D10"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Cassie",
+   "ch": 0,
+   "text": "She seems to sense early that Vee is drifting away into Randi's orbit.",
+   "detail_quote": "the whole word, flat and finished, the word for a longer parting than a Wednesday.",
+   "support": [
     "A31",
-    "B29",
-    "C23",
-    "D17"
+    "D11"
    ],
    "opposes": []
   },
@@ -454,11 +385,13 @@
    "section": "IMPRESSION",
    "key": "Meg",
    "ch": 0,
-   "text": "reads as the calm witness, the one who tracks Vee's story in installments and sees the shape of it",
-   "detail_quote": "Meg was the calm one, dark-haired and level",
+   "text": "Meg reads as the steady, unhurried one among Vee's friends.",
+   "detail_quote": "Meg was the calm one, dark-haired and level, a girl who ate like she had all night and let a sentence finish before she picked it up.",
    "support": [
+    "A42",
     "B37",
-    "D20"
+    "C18",
+    "D15"
    ],
    "opposes": []
   },
@@ -466,11 +399,25 @@
    "section": "IMPRESSION",
    "key": "Kayla",
    "ch": 0,
-   "text": "reads as warmth without depth of sight — cheerful, loyal, largely unaware of what she's not seeing",
-   "detail_quote": "Don't do anything I wouldn't do,",
+   "text": "Kayla reads as an exuberant, nonstop talker who is warm and nosy.",
+   "detail_quote": "Kayla let nothing finish. She was round-faced and blonde, a head of curls that moved when she did, and she was always moving",
    "support": [
+    "A41",
     "B38",
-    "D19"
+    "C19",
+    "D14"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "IMPRESSION",
+   "key": "Theo",
+   "ch": 0,
+   "text": "Theo seems a decent boy who took Vee's rejection gracefully.",
+   "detail_quote": "And I said let's be friends, and now we're friends, and he waves.",
+   "support": [
+    "A43",
+    "B47"
    ],
    "opposes": []
   },
@@ -478,11 +425,24 @@
    "section": "SYMBOL",
    "key": "ch1",
    "ch": 1,
-   "text": "The bench: a hidden machine of exposure that waits for its next use, perhaps for Vee.",
-   "detail_quote": "Tomorrow he would put the top back on and the bench would be a long table again",
+   "text": "The bench: the hidden apparatus of the game, patiently waiting for its next subject.",
+   "detail_quote": "it would sit there in the middle of the room, full of what it was, doing what it would continue to do, waiting for the next time.",
    "support": [
-    "A33",
-    "B47",
+    "A47",
+    "B51",
+    "C21"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch42",
+   "ch": 6,
+   "text": "The white-gold bracelet: a binding she never takes off and keeps out of her parents' sight.",
+   "detail_quote": "Randi felt her own bracelet, plain white gold, locked on her wrist, and kept it out of the light.",
+   "support": [
+    "A50",
+    "B64",
     "C27",
     "D23"
    ],
@@ -490,218 +450,193 @@
   },
   {
    "section": "SYMBOL",
-   "key": "ch1",
-   "ch": 1,
-   "text": "The deadbolt: Randi locking her true self away.",
-   "detail_quote": "she always locked it behind her, first thing, before anything else",
-   "support": [
-    "A34",
-    "B48",
-    "D24"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch43",
-   "ch": 43,
-   "text": "The white-gold bracelet: a locked restraint that seems tied to her family's money.",
-   "detail_quote": "Randi felt her own bracelet, plain white gold, locked on her wrist, and kept it out of the light.",
-   "support": [
-    "A36",
-    "B64",
-    "C36"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch36",
-   "ch": 16,
-   "text": "The green panties: Vee's gift turned into a token of Randi's grief and possessiveness.",
-   "detail_quote": "Her hand with the green in it stayed flat against his chest, and he could feel the satin there between her palm and his skin",
-   "support": [
-    "A37",
-    "B56",
-    "C33",
-    "D30"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch13",
-   "ch": 13,
-   "text": "The burgundy dress: being seen and made for exactly as she is.",
-   "detail_quote": "He didn't make this *for* you,\" she said. \"He made it *to* you.",
-   "support": [
-    "A38",
-    "B55",
-    "C29",
-    "D26"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch41",
-   "ch": 10,
-   "text": "Pace’s flannel shirt: material intimacy failing when its warmth proves to be Vee’s own heat returned",
-   "detail_quote": "the heat in the shirt was her own, given back. He wasn't in it.",
-   "support": [
-    "A39",
-    "B63",
-    "C35",
-    "D27"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch32",
-   "ch": 13,
-   "text": "The drawer: a place made for Vee instead of a word spoken to her.",
-   "detail_quote": "He'd folded his whole ordered self down into a single drawer. He'd given her the top one.",
-   "support": [
-    "A40",
-    "B61",
-    "C32",
-    "D25"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
    "key": "ch20",
    "ch": 20,
-   "text": "Simpson's paradox: the same facts can tell opposite stories depending on how they are grouped.",
+   "text": "Simpson's paradox: each pair in the triangle reads one way, while the whole tells a different truth.",
    "detail_quote": "Each year on its own, the first man is the better hitter. Put the two years together and the second man is.",
    "support": [
-    "A44",
-    "C30"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch39",
-   "ch": 39,
-   "text": "Crackers and a meal: Vee's \"I love you\" in disguise.",
-   "detail_quote": "I had been eating crackers my whole life,\" she said. \"And you fed me a meal.",
-   "support": [
-    "A46",
-    "C34"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "SYMBOL",
-   "key": "ch5",
-   "ch": 5,
-   "text": "The right-angle mark: separate desires or people becoming intelligible only when placed into a new relation",
-   "detail_quote": "Put them together, at right angles, and they turn into a single thing that's suddenly plain",
-   "support": [
-    "B51",
+    "A53",
     "C28"
    ],
    "opposes": []
   },
   {
    "section": "SYMBOL",
-   "key": "ch7",
-   "ch": 7,
-   "text": "The pool: a space where Vee’s watched and judged body becomes functional, private, and wholly hers",
-   "detail_quote": "Nobody up there could see her. Nobody down here wanted anything.",
+   "key": "ch33",
+   "ch": 33,
+   "text": "The bathroom drawer: Pace's wordless way of making room for Vee in place of a declaration.",
+   "detail_quote": "He'd given her the top one. The easy one. The one your hand goes to first.",
    "support": [
-    "B52",
-    "D31"
+    "A55",
+    "B63",
+    "D20"
    ],
    "opposes": []
   },
   {
    "section": "SYMBOL",
-   "key": "ch22",
-   "ch": 22,
-   "text": "Pace’s scar: a sealed history held beneath intimacy, with touch allowed before explanation",
-   "detail_quote": "the one she had found that first night and traced and never been told about",
+   "key": "ch16",
+   "ch": 16,
+   "text": "the green panties: Vee's offered appetite, later becoming the object through which Randi feels excluded and jealous",
+   "detail_quote": "the panties Vee had handed him the first night. Deep green satin with dark lace. Its edges dangled from her clenched hand.",
    "support": [
-    "B59",
-    "D32"
+    "B58",
+    "C25"
    ],
    "opposes": []
   },
   {
    "section": "SYMBOL",
    "key": "ch37",
-   "ch": 37,
-   "text": "the MIRA outlier: reads as the one data point that can't be smoothed — the rotten fact under the glamour",
-   "detail_quote": "the biggest one, off on its own in the white",
+   "ch": 10,
+   "text": "The flannel shirt: Vee rationing Pace's presence, a scent standing in for the word he won't say.",
+   "detail_quote": "It had promised him close and there was no one close.",
    "support": [
-    "B62",
-    "D29"
+    "A57",
+    "B66",
+    "D19"
    ],
    "opposes": []
   },
   {
    "section": "SYMBOL",
-   "key": "ch31",
-   "ch": 31,
-   "text": "the sweetness on her lip she never touched: reads as the truth already present before Vee admits wanting Randi",
-   "detail_quote": "there was a thread of sweetness, sugar and butter and something warm under it, the glaze of a pastry she had never once touched",
+   "key": "ch19",
+   "ch": 13,
+   "text": "the burgundy dress: Pace's ability to make Vee's hidden abundance publicly legible and unapologetic",
+   "detail_quote": "All of her was there, gathered up and set out like it had nothing to apologize for.",
    "support": [
-    "C31",
-    "D33"
+    "B59",
+    "C23",
+    "D18"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch45",
+   "ch": 24,
+   "text": "the borrowed black heels: Randi's authorship of Vee's reconciliation and the hidden erotic charge traveling with her advice",
+   "detail_quote": "Same feet, baby. Same size, same everything.",
+   "support": [
+    "B68",
+    "C24"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "SYMBOL",
+   "key": "ch46",
+   "ch": 41,
+   "text": "the coat with nothing underneath: Vee's attempt to answer a crisis of language by making her body the entire declaration",
+   "detail_quote": "She had brought something he could not refuse.",
+   "support": [
+    "B69",
+    "D22"
    ],
    "opposes": []
   },
   {
    "section": "QUESTION",
    "key": "ch3",
-   "ch": 3,
-   "text": "Will Vee find out that she was chosen in a game Randi and Pace began together?",
-   "detail_quote": "She had asked for something different with her eyes on the table.",
+   "ch": 1,
+   "text": "Will Vee ever learn that she was chosen in a game Randi and Pace made together?",
+   "detail_quote": "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable",
    "support": [
-    "A47",
-    "B72"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "QUESTION",
-   "key": "ch39",
-   "ch": 39,
-   "text": "Will Pace ever say aloud that he loves Vee?",
-   "detail_quote": "She had said her best sentence. He had not said the sentence back.",
-   "support": [
-    "A48",
-    "B75",
-    "D38"
+    "A75",
+    "B74",
+    "D25"
    ],
    "opposes": []
   },
   {
    "section": "QUESTION",
    "key": "ch22",
-   "ch": 22,
-   "text": "What is the story behind Pace's scar?",
+   "ch": 10,
+   "text": "What caused the scar on Pace's thigh?",
    "detail_quote": "He kept it there under his, on the thing he wasn't going to tell her about yet",
    "support": [
-    "A49",
-    "B71",
-    "C39",
-    "D39"
+    "A70",
+    "B75",
+    "C29",
+    "D31"
    ],
    "opposes": []
   },
   {
    "section": "QUESTION",
-   "key": "ch34",
-   "ch": 22,
-   "text": "What happened between Pace and his parents?",
-   "detail_quote": "He had taken his mother out of the answer. Vee let him.",
+   "key": "ch1",
+   "ch": 1,
+   "text": "What happened with Daphne that taught Pace both to respect closed doors and to fear saying love?",
+   "detail_quote": "Daphne had built a door, once, and he had not respected it.",
    "support": [
-    "A50",
-    "C40"
+    "B73",
+    "C30"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch33",
+   "ch": 33,
+   "text": "Will Pace ever give Vee the direct declaration he now knows she needs?",
+   "detail_quote": "He had believed keeping it unspoken would limit the hurt if she left.",
+   "support": [
+    "A63",
+    "B78",
+    "C35",
+    "D27"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch45",
+   "ch": 45,
+   "text": "Will Randi choose her place in the house or Vee?",
+   "detail_quote": "You've got a position in this house, and you've got her. You need to choose.",
+   "support": [
+    "A66",
+    "B81",
+    "C32",
+    "D29"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch44",
+   "ch": 35,
+   "text": "Will Randi come back to Pace after weeks of silence?",
+   "detail_quote": "He had not seen her since the November morning she came down his hall with Vee's green in her hand.",
+   "support": [
+    "A68",
+    "B79"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch36",
+   "ch": 36,
+   "text": "Will Vee ever tell Randi that she recognized Miranda's name in the PPP records?",
+   "detail_quote": "she didn't tell Randi, then or after, what she'd seen.",
+   "support": [
+    "A72",
+    "B80",
+    "D28"
+   ],
+   "opposes": []
+  },
+  {
+   "section": "QUESTION",
+   "key": "ch47",
+   "ch": 47,
+   "text": "What will Vee make of Pace's pleasure in her taste, and will she bring it to Randi?",
+   "detail_quote": "looking for something it did not name, and found — maybe — under the taste that was only him, a faint edge of sharp and salt",
+   "support": [
+    "A73",
+    "B83",
+    "C34"
    ],
    "opposes": []
   },
@@ -709,67 +644,28 @@
    "section": "QUESTION",
    "key": "ch48",
    "ch": 48,
-   "text": "Will Vee realize what, or whom, she tasted on Pace?",
-   "detail_quote": "Under the tidy explanation, fainter, the other question kept its small light on: how many times, and how carefully, and had there always been",
+   "text": "What will happen when Pace and Randi meet at the same table in front of Vee's friends?",
+   "detail_quote": "Wednesday night. He's taking us all to dinner. Everybody. You two, Cassie, and Randi, Theo maybe.",
    "support": [
-    "A51",
-    "C46",
-    "D36"
+    "A65",
+    "B85",
+    "C33",
+    "D32"
    ],
    "opposes": []
   },
   {
    "section": "QUESTION",
-   "key": "ch46",
-   "ch": 36,
-   "text": "Will Randi choose her place in the sorority or Vee?",
-   "detail_quote": "You've got a position in this house, and you've got her. You need to choose.",
+   "key": "ch45",
+   "ch": 45,
+   "text": "What meaning will Vee finally give the kiss she initiated with Randi?",
+   "detail_quote": "Vee kissed her best friend until the thing in her chest had somewhere to go.",
    "support": [
-    "A52",
-    "B77",
-    "C44",
-    "D37"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "QUESTION",
-   "key": "ch43",
-   "ch": 43,
-   "text": "Will Randi ever tell Vee what she feels, or keep waiting for Vee to get there herself?",
-   "detail_quote": "Let Vee arrive at it on her own.",
-   "support": [
-    "A53",
-    "B79"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "QUESTION",
-   "key": "ch43",
-   "ch": 27,
-   "text": "Why does Randi hide where she comes from behind an accent Vee takes for European?",
-   "detail_quote": "Randi had something in her mouth that wasn't from anywhere near here — the esses ran a half-beat long, and the a's came up arched and lifted",
-   "support": [
-    "A56",
-    "C41"
-   ],
-   "opposes": []
-  },
-  {
-   "section": "QUESTION",
-   "key": "ch49",
-   "ch": 49,
-   "text": "When Pace gathers all of Vee's people in one room, will what he and Randi share come out?",
-   "detail_quote": "and there was something in his face she'd have called happiness if he'd let it any further out.",
-   "support": [
-    "A57",
-    "B81",
-    "C47",
-    "D42"
+    "B82",
+    "D30"
    ],
    "opposes": []
   }
  ],
- "groups_raw": "A1 B11\nA2 C2\nA3 B12 C3\nB10 C1 D2\nA7 B13 C4 D1\nA5 B15 C6\nA8 D3\nB33 C25\nA32 B34\nA9 D22\nA10 D5\nA11 B24 C8\nA12 C11\nA13 B22 C14\nA17 B19 C10\nB23 D11\nA16 B20 C12\nA18 B25 C13\nC9 D13\nB35 C26 D21\nA19 B1 C15 D6\nA20 C16 D7\nA21 B5 C18\nA24 B3 C17 D8\nA25 B7 C19\nA26 B8 C20\nB9 D10\nB2 D9\nA27 B27 C21 D14\nA28 C22\nA30 B31 C24 D18\nA31 B29 C23 D17\nB37 D20\nB38 D19\nOPPOSED A2 C3\nOPPOSED A17 C14\nA33 B47 C27 D23\nA34 B48 D24\nA36 B64 C36\nA37 B56 C33 D30\nA38 B55 C29 D26\nA39 B63 C35 D27\nA40 B61 C32 D25\nA44 C30\nA46 C34\nB51 C28\nB52 D31\nB59 D32\nB62 D29\nC31 D33\nA47 B72\nA48 B75 D38\nA49 B71 C39 D39\nA50 C40\nA51 C46 D36\nA52 B77 C44 D37\nA53 B79\nA56 C41\nA57 B81 C47 D42"
+ "groups_raw": "A1 B1 C11 D1\nA45 B43\nA3 B6 C13\nA5 D2\nA7 B8\nA10 B7 C14\nA12 B14 C3 D4\nA13 B11 C1\nA15 B10 D3\nC2 D5\nA18 C4\nA19 B18\nA39 B39\nA36 B36 C17\nA37 B35 D13\nA20 C6\nB27 D6\nA21 B21 D7\nA22 B20 C8\nA23 B23 C10 D9\nA25 B24 C9\nB28 D8\nA44 B40 C20\nA34 B33 D12\nA35 B34 C16\nA30 B30 C15 D10\nA31 D11\nA42 B37 C18 D15\nA41 B38 C19 D14\nA43 B47\nOPPOSED A15 C2\nA47 B51 C21\nA50 B64 C27 D23\nA53 C28\nA55 B63 D20\nB58 C25\nA57 B66 D19\nB59 C23 D18\nB68 C24\nB69 D22\nA75 B74 D25\nA70 B75 C29 D31\nB73 C30\nA63 B78 C35 D27\nA66 B81 C32 D29\nA68 B79\nA72 B80 D28\nA73 B83 C34\nA65 B85 C33 D32\nB82 D30"
 }

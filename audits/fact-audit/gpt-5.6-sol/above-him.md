@@ -1,6 +1,6 @@
 # Fact audit — Above Him
 
-*model: gpt-5.6-sol · ch011 · 2026-11-14 · prose-sha ~1542d8929780*
+*model: gpt-5.6-sol · ch011 · 2026-11-18 · prose-sha ~1542d8929780*
 
 ---
 
@@ -8,11 +8,10 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- **Attributes:** Vee’s “red curtain” of hair and nipple changing from “faint pale pink” to “bright” match the ledger.
-- **Objects:** The photograph is taken on Vee’s phone because “hers took the better picture,” then sent to Pace, consistent with the ledger.
-- **Layout:** The filter pitcher, kitchen table, nightstand, bathroom counter, and two bathroom drawers all match the recorded house layout.
-- **Possessions:** The green scrunchies move from the counter into Vee’s assigned top drawer; Pace’s blades and comb move into the lower drawer, consistent with the ledger.
-- **Referents:** Vee’s brief image of “another woman at his table” clearly refers to Sheri, whom Pace has just identified as his cycling partner; nothing conflicts with what Vee would expect.
-- **Presence and knowledge:** Vee learns here that Sheri will visit Pace and that Sheri is alone; she is not shown knowing Sheri’s appearance, history, or sexuality.
-- **Pace’s family:** “This is my home” and “I don’t go back” do not establish what happened with his parents, so the chapter does not contradict any specified family history.
-- **Photograph promise:** “I’d never share your photograph” concerns future conduct and does not conflict with any later authorized viewing on Vee’s own phone.
+- “*He’s all mine*” is Vee’s belief, not objective fact; it is consistent with her ignorance of Pace and Randi’s relationship.
+- “Never. I’d never share your photograph” refers specifically to the photograph; Pace’s undisclosed plan involving Randi does not contradict that promise.
+- The missing scrunchies are immediately found in Vee’s new top drawer; “The form was gone” means gone from the counter.
+- Vee knows Pace’s parents exist but not his estrangement from them, so asking whether he visits them does not exceed her knowledge.
+- Sheri’s Thanksgiving visit, cycling friendship, and being “alone” all match the ledger; no romantic or sexual knowledge is attributed to Vee.
+- The nude pinup is taken on Vee’s phone and sent to Pace, consistent with the recorded photograph and its ownership.
+- Vee’s red hair, Pace’s warm house, the single bathroom, kitchen equipment, cooking habits, and low household music all remain consistent with the ledger.

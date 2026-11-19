@@ -1,28 +1,22 @@
 # Fact audit — Under the Rug
 
-*model: gpt-5.6-sol · ch017 · 2026-11-14 · prose-sha ~82fcb0be4c34*
+*model: gpt-5.6-sol · ch017 · 2026-11-18 · prose-sha ~82fcb0be4c34*
 
 ---
 
-## Possible contradiction
-
-**WHERE** — “She didn't know if *boyfriend* was a word with any business near what they were — couldn't hear herself say it to her mother, the word gone small and wrong before she'd finished the thought — couldn't think how she'd lay him out for her father, what she'd tell him the thing even was.”
-
-**AGAINST** — “Vee’s parents know:
-- A man named Pace took her dancing and is a mathematics PhD candidate.
-- She calls him her boyfriend, though uncertainly.”
-
-**WHY** — The passage suggests Vee cannot imagine calling Pace her boyfriend or explaining him to her parents, although she has already called him her boyfriend and described him to them; both can hold only if this means she can no longer use that description, rather than that she never has.
-
-**CONFIDENCE** — MEDIUM
+No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- “In the truck” and “your truck” are consistent with Pace driving a truck.
-- The restaurant’s screens, central seating, noise, and music match the ledger’s description of the Chili’s near Route 460.
-- “You went cold on me after the Rusty Nail” is immediately identified by the narration as knowingly untrue, so it is a character’s false accusation, not a continuity error.
-- Vee and Pace’s lack of public outings since the dance does not conflict with any recorded intervening outing together.
-- Pace’s difficulty attending to Vee in the restaurant is consistent with his established sensory difficulty in loud, highly stimulating places.
-- “The one was the only thing she'd been asking for” describes her underlying emotional desire; it does not establish that she previously made an explicit verbal request.
-- No presence conflict: the restaurant, truck, house, and bedroom scenes contain only people whose presence is established.
-- No improper knowledge transfer: Vee learns the cause of Pace’s restaurant behavior only when he explains it here.
+- “One of his students had said in office hours” is compatible with Pace being a PhD student who teaches or assists students; the ledger states only that he is not Vee’s or Randi’s instructor.
+- Pace driving “the truck” is consistent with his old white pickup.
+- Vee’s claim that Pace “went cold” after the Rusty Nail is immediately identified as knowingly false by the narration, so it is character speech, not a continuity error.
+- The remembered Rusty Nail fight and subsequent pie apology have the correct participants and sequence.
+- Pace’s discomfort in the loud restaurant does not contradict his attendance at the loud Rusty Nail; he distinguishes the restaurant’s total sensory load from sound alone.
+- Vee formerly liking Chili’s nachos but finding them unappealing now describes a changed response, not two incompatible facts.
+- “We don’t leave the house” concerns Pace and Vee going out together; nothing in the ledger establishes a conflicting joint outing during the referenced period.
+- Vee’s uncertainty about whether “boyfriend” applies is consistent with her established desire for Pace to name their relationship.
+- The chapter gives Vee no knowledge of Pace and Randi’s sexual relationship, the concealed bench, or the plan involving her.
+- Only Pace and Vee are present at the house and restaurant; no presence conflict appears.
+- The front room, bedroom, and movement between them are compatible with the recorded house layout.
+- The chapter’s anticipated and remembered referents—the public outing, the dance rupture, the truck, and the apology—remain internally consistent.

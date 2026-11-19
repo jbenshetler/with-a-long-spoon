@@ -1,19 +1,26 @@
 # Fact audit — Substitution
 
-*model: gpt-5.6-sol · ch005 · 2026-11-10 · prose-sha ~d282da050071*
+*model: gpt-5.6-sol · ch005 · 2026-11-18 · prose-sha ~2e6bcf769c7d*
 
 ---
 
-No contradictions of fact found.
+## Contradiction
+
+**WHERE** — “She had watched Randi do it **the day they'd met, in the lecture hall**”
+
+**AGAINST** — “Both see Vee **outside the dining hall; Randi approaches her, learns her name and that they share statistics**” [Knowledge Ledger, Ch. 3]
+
+**WHY** — Their first interaction occurs outside the dining hall, not in the lecture hall; however, “met” could loosely mean their later formal introduction when Vee learned Randi’s name.
+
+**CONFIDENCE** — MEDIUM
 
 ## NOTED (not errors)
 
-- “brown hair cut close” is compatible with the ledger’s “short and light brown”; this is differing descriptive resolution.
-- “He was not a big man” matches the ledger. His muscular forearms do not imply that he is physically large.
-- The “mark by his ear, pink, uneven at its edges” matches Pace’s recorded birthmark.
-- Vee’s thought “Some boy” while Randi texts is an uninformed guess, not evidence that Vee knows Randi is communicating with Pace.
-- Pace and Randi behave as strangers, consistently preserving their existing relationship from Vee and Cassie.
-- “She had watched Randi do it … in the lecture hall” identifies where Vee observed Randi’s practiced introduction; it does not say their initial collision occurred there.
-- Cassie’s presence and apparent first meeting with Pace agree with the ledger.
-- Pace leaving without coffee is consistent: he was still in the counter line when he abandoned it to approach Vee.
-- Randi’s white-gold bracelet is not mentioned, but omission is not a claim that she is not wearing it.
+- Pace’s face, eyebrow nick, birthmark, build, forearms, and thick knuckles all match the ledger.
+- Pace’s apparent unfamiliarity with Randi and Vee is part of the staged encounter, not a knowledge error.
+- Vee interprets Pace’s nod as “registering names,” but this is her mistaken perspective; it does not establish that the names are new to him.
+- Randi’s texting immediately before Pace arrives is consistent with the established staging and does not show that Cassie understands their connection.
+- Pace leaving without coffee is consistent with his abandoning the counter line to approach Vee.
+- Cassie and Randi are correctly present for the exchange.
+- Vee’s belief that Randi is merely bored or encouraging her is consistent with Vee’s ignorance of Randi and Pace’s relationship.
+- “They were not a math tutor’s forearms” is figurative observation, not a claim that Pace is not a mathematics graduate student.

@@ -1,21 +1,26 @@
 # Fact audit — Grace
 
-*model: gpt-5.6-sol · ch021 · 2026-11-14 · prose-sha ~fd25014a24f7*
+*model: gpt-5.6-sol · ch021 · 2026-11-18 · prose-sha ~c1b81b8d9103*
 
 ---
 
-No contradictions of fact found.
+## Contradiction
+
+**WHERE** — “She started where he had started. Her fingers went to her collarbone first and traced down from there…”
+
+**AGAINST** — “He started with her hair.”
+
+**WHY** — The chapter identifies two different body parts as the starting point of the same guided exploration.
+
+**CONFIDENCE** — MEDIUM. “Where he had started” could narrowly mean the later front-of-body sequence, although he is not shown beginning that sequence at her collarbone either.
 
 ## NOTED (not errors)
 
-- Pace arrives in a “truck”; the omitted color does not conflict with his recorded white truck.
-- The cabin’s exterior, layout, porch, fireplace, cheval mirror, and lake all match the ledger.
-- Vee’s dark-red hair, fair freckled skin, proportions, and waxed state match her recorded attributes.
-- Pace’s brown hair and eyes, cleft chin, and matching birthmarks match the ledger.
-- Vee’s “own boots” are consistent with her having previously worn Meg’s oversized boots.
-- Vee expects to be taken to the bed, but Pace instead leads her to the mirror; this is an overturned expectation, not two inconsistent renderings of the anticipated event.
-- Vee imagines Pace touching himself while watching her; his later using both hands to catch her is compatible because he could have stopped when her legs gave way.
-- Pace begins the scene wearing boxers, but their removal or displacement before intercourse is simply unreported; the text never states that they remain in place.
-- Randi’s later access to Pace’s house does not contradict Pace’s statement, “I’ve never given a key to anyone,” because the ledger explicitly leaves Randi’s means of entry unknown.
-- Vee’s continued wish that Pace would say “the larger thing” is consistent with the ledger: he has not explicitly told her he loves her.
-- Only Vee and Pace are present, and neither displays knowledge they have not yet acquired.
+- Vee’s first mental image is “a dark curtain of hair,” but she then thinks of Pace and answers “You”; Pace’s later belief that she thought about him follows from what she told him and does not give him inaccessible knowledge.
+- Pace begins the scene wearing boxers but later enters Vee without their removal being narrated; removal while she is blindfolded is an unreported action, not an incompatible fact.
+- Vee’s “own boots this time” do not conflict with her previously borrowing Meg’s boots; she may now own a different pair.
+- The cabin key used at arrival and the brass house key Pace gives Vee are plainly separate keys.
+- Vee’s description of Pace’s brown hair, brown eyes, cleft chin, and matching birthmarks agrees with the ledger.
+- The cabin’s construction, one-room layout, bathroom, fireplace, shutters, furniture, cheval mirror, and path to the lake agree with the ledger.
+- Vee’s bare pubic area is not an attribute conflict; the ledger records Randi’s grooming but establishes no contrary fact about Vee’s.
+- Pace’s statement that he has never given anyone a house key agrees with the ledger; Randi’s prior access depended on his leaving the door unlocked.
