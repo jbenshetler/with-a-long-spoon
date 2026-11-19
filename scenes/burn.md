@@ -30,9 +30,9 @@ She pressed the bar up and it went fine, once, twice. On the third he leaned in 
 
 "No," she said, which was a lie, and he knew it was a lie, and let her keep it.
 
-Then it was his turn again, and now he loaded it in earnest. He slid the plates on and collared each side, deft, no motion wasted, until the bar sank and bowed a little across the hooks under the weight, three of the big plates a side. He lay down beneath it and set his hands and breathed, and pressed it up off the hooks, and brought it down to his chest, and drove it back up.
+Then it was his turn again, and now he loaded it in earnest. He slid the plates on and collared each side, deft, no motion wasted, until the big plates crowded the bar. He lay down beneath it and set his hands and breathed, and pressed it up off the hooks, and brought it down to his chest, and drove it back up.
 
-That was more than she weighed. The bar bowed under it, more than he weighed too, she thought, stupidly, and on the sixth and last press he drove it up on one hard whoosh of breath, working, controlled, nowhere near the end of himself: more than the both of them together. He racked it and sat up and wiped his face on his shoulder, hardly winded, and she looked at him and could not have said one word.
+That was more than she weighed. More than he weighed too, she thought, stupidly, and on the sixth and last press he drove it up on one hard whoosh of breath, working, controlled, nowhere near the end of himself: more than the both of them together. He racked it and sat up and wiped his face on his shoulder, hardly winded, and she looked at him and could not have said one word.
 
 And only then did she see what he'd done. She could never have saved him if it had gone wrong — never lifted it off him — and so he had kept himself, the whole set, inside what he could put back down on his own. He had arranged the morning so that she was never once responsible for what she couldn't hold. She hadn't even felt the danger, because he had never let there be any.
 
