@@ -1,0 +1,34 @@
+# Cold read (grounded) — Among Friends
+
+*scene: scenes/among-friends.md · model: kimi-k3.1-pro · memory: consensus ck-ch050@5dcbb780c3af + raw ch051..ch051 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+I felt downright glowy through most of this dinner. Pace saying “Vee’s boyfriend” before Vee can diminish him with “This is Pace” is such a precise, public answer to what she begged for in December that I got the same hot swallow she did. Then he keeps saying it—to Kayla, Meg, Danny, Theo, Cassie—until it becomes both a running joke and a vow repeated in front of witnesses. But the deeper swoon was watching him love her through her people: refusing to compete with Danny over lifting numbers, giving Theo a jazz question with “nothing to flunk,” remembering Meg’s and Kayla’s stories, and getting *Cassie* talking in paragraphs. Cassie’s “You can stay” nearly undid me. It is four words, dry as dust, and it feels like an adoption.
+
+Pace deepened enormously here without becoming a different man. The same person who listens to Vee’s body listens to a whole room, then leans back out of the light so someone else can occupy it. There was a moment when his perfection threatened to feel engineered—he remembers every anecdote, finds every person’s best subject, leaves everyone “standing a little taller”—but the memory of him being unable to function at Chili’s keeps this social fluency from becoming generic fantasy-man polish. This room has no screens, no overwhelming noise, and food he can understand. He is wonderful here because the conditions finally let him be. I trust the kindness. What I don’t trust is Vee’s belief that the night now has “nothing left in it to manage”: she has introduced two people who know each other far better than she knows, and his later “We get along” is warmly true and vastly incomplete.
+
+Randi broke my heart while almost never dropping her sparkle. She arrives first, of course; she is always first to Vee’s things. Her fierce hand-squeeze at “boyfriend” reads completely differently to me than it does to Vee, and her toast—“meeting Vee was the highlight of my year”—was the romantic peak of the chapter for me as well as its saddest moment. Vee receives it as best-friend love and becomes wet, then hurriedly assigns everything to Pace: “Because it was Pace.” I don’t believe her, and the final image of the glass still turning tells me the chapter doesn’t quite believe her either. Randi’s glazed quiet, thumb under the glass rim, and too-loose smile made the old self-hurting gesture feel more painful than ever. I don’t suspect some fresh trick from her tonight; I suspect sincere love being performed inside an unbearable constraint.
+
+Vee’s brief sting when Pace makes Randi laugh also felt painfully honest. She wants him to be wonderful to everyone, then discovers that some frightened part of her watches even happiness for “the trapdoor.” It passes quickly, and I was glad it wasn’t inflated into a scene. Her self-deception about Randi is much more persistent than her jealousy. She can name Pace’s public claim, her friends’ approval, her own desire, and even her pride in moving Randi—but she cannot hold all those truths in one shape. That last sentence kept the night from sealing shut too neatly.
+
+The erotic charge was enormous because the whole social evening feeds it. The repeated boyfriend, Cassie’s acceptance, Randi’s toast, and Vee watching everyone love one another all accumulate until the parking-lot kiss feels inevitable. Her boldness in pulling his hands under her sweater, crossing the truck seat, and later undressing herself while he drives is greedy without being performed for anyone’s approval. The hottest detail for me was Pace’s hand going completely still in her hair—the compulsively competent man reduced to zero—and then the road scene answering the earlier drive and cold vents with warmth, knowledge, and no stopping. Nothing here went clinical or coercive; she keeps choosing, initiating, and offering, and his responsiveness is the charge.
+
+“Among Friends” is exactly right and quietly ironic: this is Vee being given a place among her people, while two of those people share a history she cannot see. **WITH A LONG SPOON · BOOK THREE — A PLACE AT THE TABLE** now feels centered on belonging, nourishment, and who is permitted to sit together openly; the long spoon also suggests the distance still hidden inside apparently intimate feeding. No cover tagline was supplied. Next I want the promised debrief with Randi, and I dread how much longer Vee can keep translating her response to Randi into devotion to Pace. My guess from here is that Pace’s public integration will make the remaining private silences harder, not easier, to sustain.
+
+**Cast present (in person):** Vee, Pace, Randi, Cassie, Kayla, Meg, Danny, Theo.  
+**Mentioned only:** No named absent characters; Kayla’s sister, Cassie’s former roommates, and other anecdotal figures.
+
+**Heat:** 3 — Social devotion accumulates into urgent, joyful wanting that dominates the final third.
+
+**Romance:** 3 — “Vee’s boyfriend” repeated publicly, Cassie’s acceptance, and Randi’s heartfelt toast all mark profound belonging.
+
+**Motifs & images:** “Vee’s boyfriend” as a first-time public refrain; Randi’s glass rim under her thumbnail repeats chapters 1, 15, and 18; the white-gold bracelet recurs; Randi’s bitter-orange perfume and goodbye kisses repeat; Vee’s stained coat lining returns from the previous chapter; the truck’s cold vents recall the September hike; Pace leaning out of the light recurs throughout the dinner; VEE handwritten on butcher paper.
+
+**Symbolism:** The pushed-together tables make Vee’s scattered worlds one social body. Pace yielding the lamplight embodies love as making room rather than claiming attention. The warm, steadily driven truck turns earlier solitary hunger into shared pleasure, while the turning glass preserves Randi’s unspoken disturbance beneath the happy ending of the evening.
+
+**Characterization:** Pace deepens into a gifted, condition-dependent social listener; Vee remains joyful, courageous, and expertly evasive about Randi; Randi is achingly layered beneath her polish. Cassie’s terse approval, Theo’s nervousness, Danny’s eagerness, Meg’s calm humor, and Kayla’s exuberance all stay distinct. Nobody went thin for me.
+
+**Pace — within the chapter:** The buffet rotations are leisurely but earn their length by giving every friendship a separate payoff; the final erotic movement flows naturally from them rather than feeling appended.
+
+**Pace — chapter to chapter:** Strong forward movement: the invitations and introductions of recent chapters become a public, satisfying consolidation, with new erotic and emotional tension rather than another repetition of reconciliation.

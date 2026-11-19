@@ -1,0 +1,33 @@
+# Cold read (grounded) — Coming Due
+
+*scene: scenes/coming-due.md · model: kimi-k3.1-pro · memory: consensus ck-ch060@e893d427e18d + raw ch061..ch062 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+This chapter ached more than it burned, though it burned plenty. My strongest feeling is sympathy for Vee, whose self-deception has become so exact that she thinks she can keep her desire from being real by withholding one particular act: “as long as she didn’t give it the thing that would make it true, it could stay only wanting.” That is such a painfully believable bargain. Sunday with Pace should have settled her, and instead she keeps initiating sex, trying to spend the wanting until it disappears. “Full of him and not, somehow, filled” devastated me. Pace himself is gentle here—reading while her head rests in his lap, letting her take the book away—but after the previous night’s confession-for-pleasure game, I couldn’t quite sink into his tenderness as simple safety. Nothing he does in this chapter newly earns distrust; it’s just that Vee can now use even his plenty to avoid herself.
+
+Randi made me swoon in the smallest ways: the coat lifted off the saved seat, “Hey, gorgeous,” the single hand-squeeze, her knee staying against Vee’s. The Lifesaver exchange was almost unbearably good—the wintergreen, the fingertip on the thin skin of Vee’s wrist, her pulse leaping up “to be found.” Vee calling it *static* while it “went on not being static” was both funny and miserable. Because I already know Randi has admitted wanting Vee, I can no longer hide inside Vee’s stories about foreign customs and meaningless affection. Still, I don’t know what Randi intends on this particular Tuesday. “I’ve wanted to do that for the longest time” may mean exactly what she says—she wanted Vee at the dance—and Vee’s whole body seizes on *having*. Randi seems entirely herself; the terror comes from Vee suddenly receiving every ordinary gesture at its full possible voltage.
+
+The erotic peak is absolutely Randi’s mouth on her neck: “a wet bloom of heat right where the neck goes down into the shoulder.” The escaped sound, the goosebumps, Vee breaking out of the hug and then immediately asking for brunch—that sequence landed physically on me. She turns away from the kiss and then turns around and makes sure she will see Randi again. It’s the whole chapter in one movement. I felt a small prickle when Randi waved off the canceled dinner and then kissed her neck after Vee had turned her mouth away, but their established neck-kiss game and Vee’s delighted, wanting response keep me from making that prickle into an accusation. Randi’s delighted “See? How do you like it?” is playful; it also demonstrates just how easily she can undo Vee’s careful defenses. I want the brunch badly, and I dread it almost as badly.
+
+Cassie remains the person I trust most to look at Vee without trying to possess or manage her. Her final question—“What was that with you and Randi?”—has worry and disbelief in it, but no contempt. It hurts that Vee cannot give even Cassie the easy answer anymore. She isn’t withholding a neatly formulated secret; she genuinely doesn’t know. That made the ending feel very exposed, as though Vee has run out of people she can borrow an identity from: boyfriend, best friend, straight girl, girl merely having a wild weekend.
+
+**Coming Due** didn’t give away a particular event, but it gave the chapter the feeling of a deadline. By the end, it means the accumulated account of all those mouth-goodbyes, the dance, and Vee’s own responses can no longer be deferred. Marsh’s lecture about gifts creating debts is almost conspicuously apt, but it worked on me: every kindness now seems to ask something back, and Vee doesn’t know what she owes Randi, Pace, or herself. The cover’s series title, **With a Long Spoon**, feels like Vee trying to partake of something dangerous while keeping a safe distance from it. **Book Three — A Place at the Table** now carries the saved seat, the habitual dinners, and the question of where Vee actually belongs. From here, I wonder whether she can have a place beside both Pace and Randi without using one to conceal the other. No cover tagline was supplied.
+
+Next, I want Saturday brunch to force one honest sentence—perhaps first to Cassie, because she feels safest, though I suspect Vee will carry it straight to Randi instead. That’s a guess, not knowledge. I dread Vee treating brunch like another performance and then panicking when Randi meets her warmly. Thursday’s reprieve changes nothing; the wanting has already shown that it can wait.
+
+**Cast present (in person):** Vee, Pace, Randi, Cassie, Dr. Marsh. **Mentioned only:** no additional named people.
+
+**Heat:** 2 — Sustained bodily wanting, peaking in the wrist graze and neck kiss despite little sexual action on-page.
+
+**Romance:** 2 — Pace’s reading aloud and Randi’s saved seat, walk home, and delight over brunch hold real tenderness beneath the panic.
+
+**Motifs & images:** The mouth-goodbye kisses recur from the gearshift, curb, brunch doorway, foyer, and recent mixer; Randi’s neck kiss reverses Vee’s earlier kisses from chapters 51 and 53. The saved Anthro seat repeats chapter 51. Swimming and the black line return from chapters 7, 32, and 53 as Vee’s brief mental clearing. Cassie’s cold cracked window and sleeping breath repeat the dorm imagery of chapter 54 and “Boyfriend.” The wintergreen Lifesavers are a first on-page sighting of an established class ritual. Vee dressing to be seen—or covered—continues her careful Anthro dressing.
+
+**Symbolism:** Marsh’s gift/debt lecture makes affection feel like an account coming due. Vee’s hand held flat on her stomach is a lid she believes can keep wanting from becoming identity. Being sexually full but emotionally unfilled exposes Pace’s body as insufficient cover for what she wants.
+
+**Characterization:** Vee deepens sharply: she is still evasive, but her excuses are losing their power. Randi remains consistently tactile, warm, and difficult to pin down. Pace is tender but comparatively quiet. Cassie gains force with one worried, perceptive question.
+
+**Pace — within the chapter:** Monday’s self-policing repeats the weekend’s turmoil at some length, but the claustrophobia feels earned. Tuesday tightens beautifully from the pool to the classroom to the neck kiss and final unanswered question.
+
+**Pace — chapter to chapter:** Building strongly. After the explicit confession and sexual bargaining of “Boyfriend,” this quieter chapter makes the consequences more intimate and harder to escape rather than merely repeating the same beat.

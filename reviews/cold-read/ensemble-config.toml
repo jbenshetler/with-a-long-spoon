@@ -19,15 +19,15 @@ version = 1
 models = [
   "gpt-5.6-sol",
   "glm-5.3",
-  "deepseek-v4-pro-0813",
+  # Replaces gemini-4-argon and deepseek-v4-pro-0813 on the panel (author ruling
+  # 2026-11-19): argon's safety refusals bill the input; deepseek failed repeatedly
+  # on capture. Both move to on demand.
+  "kimi-k3.1-pro",
   # Replaces claude-opus-5-5 as the routine Anthropic cold reader (author ruling
   # 2026-11-03): about half the cost per read; agrees with opus on what lands and
   # on the obvious structural complaints, but misses most of opus's continuity, POV
   # and over-explanation catches. Opus is on demand for revision reads.
   "claude-sonnet-5-5",
-  # Added to the cold panel 2026-10-23 (author request), joining the paid
-  # OpenRouter lanes (glm-5.3, deepseek-v4-pro-0813). Already on [capture].
-  "gemini-4-argon",
 ]
 fast = ["gemini-4-argon", "gpt-5.6-sol"]
 # Every panel reader's memory (author ruling 2026-11-02): the slot-consensus checkpoint,
@@ -42,7 +42,7 @@ checkpoint_source = "consensus"
 # claude-opus-5-5 (author ruling 2026-11-03): REVISION READS. After a substantive
 # revision, run it on the rewritten chapter(s) (`--models claude-opus-5-5`); its
 # line-level criticism is the panel's best. Routine reads use sonnet.
-available = ["claude-opus-5-5"]
+available = ["claude-opus-5-5", "gemini-4-argon", "deepseek-v4-pro-0813"]
 # claude-opus-4-8 and claude-opus-5 retired from both rosters 2026-10-25 (author
 # ruling): not different enough from claude-opus-5-5. Their reads stay on disk
 # until the author rules on them.
@@ -102,7 +102,7 @@ models = [
 # (r 0.71 v3, near opus's own test-retest 0.82); run opus on revised chapters.
 # gemini-4-carbon added 2026-11-11 (author request): paid OpenRouter lane, first run fsog-refugee Vol 1.
 # kimi-k3.1-pro added 2026-11-13 (author request): paid OpenRouter lane, first run fsog-refugee Vol 1.
-available = ["muse-spark-1.3", "muse-wonder", "claude-opus-5-5", "gemini-4-carbon", "kimi-k3.1-pro"]
+available = ["muse-spark-1.3", "muse-wonder", "claude-opus-5-5", "gemini-4-carbon", "kimi-k3.1-pro", "gemini-4-hydrogen"]
 # Memory v3 (capture_dag.py --memory grounded; author ruling 2026-11-01): the
 # shared FACT memory every capture lane reads — this model's native grounded
 # checkpoints under reviews/cold-read/<id>/checkpoints/. Facts are not what the
@@ -259,6 +259,13 @@ vendor = "google"
 provider_model = "google/gemini-4-carbon"
 # Added 2026-11-11 (author). Same first-party exemption as gemini-4-argon:
 # quantization unknown, the floor would leave zero endpoints.
+quantizations = []
+
+[readers."gemini-4-hydrogen"]
+vendor = "google"
+provider_model = "google/gemini-4-hydrogen"
+# Added 2026-11-19 (author): trial on the capture lane. Same first-party
+# exemption as gemini-4-argon.
 quantizations = []
 
 [readers."kimi-k3.1-pro"]

@@ -1,37 +1,37 @@
 # Cold read (grounded) — Inversion
 
-*scene: scenes/inversion.md · model: glm-5.3 · memory: consensus ck-ch060@631e9208d0c6 + raw ch061..ch064 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/inversion.md · model: glm-5.3 · memory: consensus ck-ch060@e893d427e18d + raw ch061..ch064 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-**Felt read**
+The lime Life Saver did me in. Not the Standards meeting — that came later and hit like a hammer — but that small cold green candy on Vee's tongue, putting her back on the dance floor against her will. "Tonight Randi fed her lime." That's the whole book in one line: Vee can't take anything from Randi's hands without it landing somewhere below the belt.
 
-This chapter winded me. Two halves, and they're both about being sentenced — Vee sentenced by her own body, Randi by her own machinery.
+What swept me: the inversion of the title. All book we've been inside Vee's confusion — is it me, is it my sex brain, am I the problem. This chapter flips us into Randi and tells us the wanting was never Vee's madness at all. Randi wanted the kiss for weeks *before* the first gearshift kiss, before the game was a game. "She had told herself it was a game she was running for Pace, and she had wanted it anyway." And the mixer: she went meaning to confess, had the nerve built up, and "Not my thing" killed it — Vee's own panicked lie to Cassie's face came back and shut Randi's heart. That's devastating symmetry. Vee's wall is Randi's wall; they built the same denial out of each other's signals.
 
-The Vee half is quiet and charged. The lime Lifesaver is such a small, cruel touch: for a whole book it's been Vee supplying the wintergreen, the caretaker's gesture, and tonight Randi "feeded her lime" — the margarita, the dancefloor, all of it delivered in a candy. Vee sucking it to nothing while refusing to look over is desire compressed into a paragraph. And then "A girl needs a spanking!" — the way the word detonates her whole history with Pace in a flash (the kitchen, the wet hand, Randi asking *did you deserve it*) and she has to laugh a half-beat late and a note too high. The shame doing nothing to put the heat out — that's been this book's engine for ten chapters and it still lands.
+The Standards trial was the strongest writing in the book so far, and the hardest to sit through. I felt the trap close with real dread — the dead bylaw, "a fossil costs nothing to keep and you never know when a dead rule will come in handy" — and Randi's expertise turned against her: "She had kept folders like it on other girls... She had sat where Brooke was sitting." Kinsey's lie about the hand in the bra was genuinely upsetting, and Randi's calculus — "the truth was only the smaller scandal, not the lesser crime" — is exactly the bind the whole book runs on. Let the fat lie stand because the thin truth costs more. My sympathy for Randi has never been higher; my trust of Brooke never lower. "She'll get what's coming to her" lands horribly now — that was *her* on the docket.
 
-Then the Randi half, and it's devastating. The Standards trial is her own trap closing on her perfectly: "the rules themselves, the ones she had kept and made other girls keep, moving now at the speed rules move when they finally turn and come for you." Brooke running the forms flawlessly — the new folder, the handwritten tab that Randi can't stop grading even while her reputation dies. Kinsey's lie about the bra and the hand up the skirt, and Randi letting the fat lie stand because correcting it costs the thin truth — "the wanting was the real crime. Just not the one they would name." That's the whole book in one line.
+And she chose Vee. "She would give up the house before she gave up Vee; she knew that the way she knew her own name." I sat there with my heart pounding. The dropped lipstick on the runner — she went back in without it, and I gasped.
 
-The confession I've waited sixty chapters for is here, and it's worse and better than I guessed: she decided *before the mixer* to tell Vee everything, and then the kiss was so good it knocked the nerve out of her. "I almost believed it. She had believed every second of it." The cowardice she'd take back is the joke she made of the real kiss. That recolors the entire dancefloor scene from last chapter — what I read as manipulation ("I almost believed it") was her burying the truest thing she'd ever done.
+Pace barely appears and doesn't need to. Vee's "A girl needs a spanking!" laugh — the heat riding the word — keeps her thread alive nicely. Cassie's "Is this what you want?" hangs over everything Vee does here.
 
-And then the ending. The offer — give up the friend and the gentleman — is everything Brooke has been circling since ch46. Randi's math is so fully her: Pace is keepable because he's hidden; Vee "there was no quiet place for." And she says no anyway. The girl who decided in chapter one to hide her real self behind the face forever just spent it — the face held, but she spent what it was protecting. I'm proud of her and scared for her, which is exactly how I felt at the end of the last chapter about Vee.
+Friction: very little. The one moment I paused — Kinsey's bra claim is so lurid it briefly read over-the-top, but the text itself flags it as a lie that travels. No thumb on the scale otherwise.
 
-**Structured block**
+**Title**: "Inversion" — the POV flips to Randi, the prosecutor becomes the defendant, the tool of the house becomes its target, and the book's central ambiguity flips: the desire isn't Vee's pathology, it's mutual and managed. Gave nothing away; earned retroactively.
 
-**Cast present (in person):** Vee, Randi; Marsh (offstage lecturing), Brooke, Caroline, Sloane, Kinsey. Mentioned only: Pace, Harrison, Lauren Pike, Hannah, the girl under the invented rumor, the House Mother.
+What I dread/want: Randi now has Thursdays taken but Vee kept — and Saturday brunch is coming, where two women who each now know more than the other suspects will sit across a table. Pace saw the parking-lot kiss and knows the mixer story. The three of them are on a collision course and I can't stop reading.
 
-**Heat:** 2 — no sex, but the Lifesaver scene, the hug "all down the front," and the spanking flash are dense with wanting; Randi's memory of the mixer kiss carries real charge.
+**Cast present (in person):** Vee, Randi, Brooke, Caroline, Sloane, Kinsey. Mentioned only: Pace, Cassie (implied via the party question), Harrison, Lauren Pike, Hannah, the "gentleman" (Pace, unnamed), Vee's parents' world offstage.
 
-**Romance:** 3 — Randi's internal confession and her refusal of Brooke's deal; the strongest romantic beat in the book for her.
+**Heat:** 2 — no sex at all, but the lime candy, the hug "all down the front," and the spanking word put real charge through Vee's half; Randi's half is all restraint, which burns differently.
 
-**Motifs & images:** Lifesaver exchange reversed (repeat of the wintergreen ritual from ch52–59; first time Randi feeds Vee); the kiss as joke vs. real (resolves the "I almost believed it" line from the mixer); Brooke's folder vs. Randi's own printed labels (echoes her controlled surfaces); the lipstick dropped on the runner — a held self slipping; "the thin truth cost more" (first); Randi's hair-tickle detail of the hug.
+**Romance:** 2 — no courtship beats, but Randi's memory of the October first kiss and her choice of Vee over the house is the most romantic act of the book so far.
 
-**Symbolism:** the dead bylaw — "a fossil costs nothing to keep and you never know when a dead rule will come in handy" — procedure as weapon; the chair with nothing behind it.
+**Motifs & images:** Lifesavers (repeat — Vee usually supplies wintergreen; inversion: Randi supplies lime). Randi's lipstick (repeat — face-putting-on motif; the dropped gold tube is its collapse). The gearshift kiss (repeat, now from Randi's side). Hugs (repeat). "Telling" — Randi's planned confession mirroring Pace's unsaid "I love you."
 
-**Characterization:** Randi deepens enormously — her interiority finally opens fully. Brooke reads as exactly the watchful enforcer I suspected. Vee's self-deception ("It would be a tragedy… if her sex brain wrecked something that good") continues to deepen credibly.
+**Symbolism:** the fossil rule — rules kept dormant until they're needed against you; the empty chair facing the table; the lipstick on the runner — the composed self literally slipping from her hand.
 
-**Pace — within the chapter:** tight; the trial earns its length, the Vee half is brief and rightly so.
+**Characterization:** Randi deepens enormously — her origin with Pace (the ring on the common), her cowardice named as cowardice, her choice made clear-eyed. Brooke confirmed as the book's coldest operator. Kinsey and Sloane land as believable chorus-cruelty. Vee consistent: still managing, still not naming.
 
-**Pace — chapter to chapter:** building strongly; the two-POV structure raises the stakes on both sides of the triangle at once.
+**Pace — within the chapter:** The class scene is brief and right; the trial earns its full length; the landing reverie slightly slows but pays off in the "No."
 
-**Pace — chapter to chapter:** momentum is climbing — the mixer, the confession to Pace, and now the trial; the collision is coming and I both want and dread it. Guess from here: Vee will learn what Randi gave up for her; that discovery will force the wanting out into the open.
+**Pace — chapter to chapter:** Building hard. After two chapters of Vee's spiral, the Randi inversion is exactly the turn the story needed; the stakes just got structural.

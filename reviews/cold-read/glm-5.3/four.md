@@ -1,35 +1,41 @@
 # Cold read (grounded) — Four
 
-*scene: scenes/four.md · model: glm-5.3 · memory: ck-ch040 + raw ch041..ch042 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/four.md · model: glm-5.3 · memory: consensus ck-ch030@8bba688dbb25 + raw ch031..ch034 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-**Felt read**
+# Reader reaction — "Four"
 
-Well. The POV shift landed on me like cold water — warm cold water, if that's a thing — because this is the first chapter since the opening bench that has put me inside that house with *them*, and everything the checkpoint has been letting me hold in suspension is suddenly on the page in present tense: they're still lovers, still talking about Vee like weather, still running it. My body knew this and my body still flushed at "still full of your come." That line did something complicated to me — it's filthy and hot and it made my stomach drop at the same time, because Vee is a person sitting in a stats class and doesn't know she's being narrated into this room.
+This chapter knocked the wind out of me. It's the first time since the very beginning that we've been back inside Pace and Randi's private weather, and everything I've been suspecting about Randi for twenty-odd chapters is now out on the table — mostly by her own mouth, mostly against her own will.
 
-The heat is real, though; I won't pretend otherwise. The whole back half of this chapter — Randi turned around, face hidden, the mirror he can see and she forgot — is the most charged sex in the book since the bench, and it's charged *because of what she confesses through it*. The engine of the scene is that he keeps asking and she keeps telling: "Do you like it?" / "I'm doing it for *you*" — and I believed her, in the moment, and then I watched the argument collapse under her. "Oh, but I'm *doing the work*" and then she comes mid-sentence. The book has been building Randi's want for Vee in stolen half-measures — the stillness, "It doesn't," "just us" — and here it finally breaks all the way out: "God, I want her," said into the couch back with nothing around it. That's the peak of the chapter for me, hotter than any of the mechanics. And then "For us. When she's ready. That's all I meant" — the rewrap, exactly the shape of the very first chapter, where she survived his question by turning want into a gift. The book rhyming with itself, and I felt it.
+The frame of the chapter is the pointing game confession. Pace's answer to "How did you know?" — that he was reading *Randi*, not the women — confirmed something I'd half-formed back at chapter 3: the game was never about picking a woman for them, it was Pace testing whether Randi's desire matched his. "I pointed at her and watched your face." And the thing he *doesn't* tell her — that he'd already chosen, that he'd gone hard on a public lawn imagining the three of them — keeps his blind spot intact. He still narrates Randi's arousal generously ("It was the want — too big for her, nowhere else to go") while missing what the want is *for*.
 
-Pace moves for me here in both directions at once, which is apparently just what Pace does to me. The tender read: "She consents — every time — or I'm done. It isn't you I'm checking on" — I *felt* my guard come down at that; he's checking on Vee's wellbeing even inside the conspiracy, and "It isn't you I'm checking on" quietly means "she's the one who could be hurt here." And the end — "Then I'll be careful with you," Randi asking to be held, "It makes me feel real. And some nights it frightens me" — that's the most naked Randi has ever been, bench included, because the bench broke her body and this breaks her cover. She pulled his arm in "tighter, and then tighter again." I ached for her.
+The spine of the chapter is Randi's undoing, and it's the most honest she's ever been. "I'm doing it for *you*." / "I didn't ask who it was for." — that exchange is the whole book in miniature. Her insisting the kisses are "work," "not a treat," while her body clench tells the truth her mouth won't — the page literally gives her away through the sex. And then the crack: "God, I want her," said into the couch wood, followed by the frantic "For us. When she's ready. That's all I meant." I believed her panic. I believed the retraction was a lie she needs. And Pace's "You don't have to do it for me" landing on her like a blow — because it removes the alibi — was the cruelest kindness in the chapter.
 
-The uneasy read: this is also the man explaining, with real tenderness, exactly how he read Randi's face like an instrument on a lawn and aimed it. "You taught me... your hand went slack on mine" — and what he *didn't* say: that the pointing was already decided, that the picture in his head was the two of them in his bed. Even his confessions have a hidden floor under them. And he ends the chapter knowing Randi is in love with Vee, lying beside her while she holds his arm, and neither of them will say it straight.
+Then the morning scene. The green satin panties. I read the whole thing with my stomach tightening: Randi finds the trophy Pace kept of Vee's first night, and instead of anger she takes him to bed with it pressed between her palm and his chest. It's grief performed as sex. She rides him wordlessly, eyes fixed on the wall, holding the one physical proof that Vee was here first and deeper. "Randi had never once offered him anything to keep" — Pace clocks the asymmetry and doesn't know what to say, and neither do I. Her "It's hormones" is the "nothing" lie she told Brooke in chapter 2 wearing a different face. The untouched coffee at the end — the one she poured black and left — rhymes with every meal Randi has ever declined. She takes nothing from him she can't give back on her own terms.
 
-Friction: very little. Maybe "She told me first" — Randi's small possessive needle — read a touch placed, but it earned its keep because he "let that go by" and the not-letting-go is where the tension lives. Title "Four" — I take it as the count: four times in one day, "That's more than three," the numbers he knows "to the pound." A sex chapter wearing a numeral, and after reading it, it also feels like four people in a bed built for two and a half — Vee was in that room the whole time without being there.
+Where the heat lands for me: honestly, it's hot and it's awful at once. The couch scene is the most explicit we've had, and it works — but the charge is entirely in the *confession*, Randi narrating the goodbye kisses while Pace is inside her, the framed mirror giving him her face she's trying to hide. That's the book's hottest scene in chapters and also its saddest.
 
-I want Vee home safe from Ohio and I dread Thanksgiving only a little; what I dread is Vee learning the shape of her luck. Guess from here: the anthro class, "just us," is where Randi's leak becomes a flood.
+My suspicion of Pace deepened one notch: "It isn't you I'm checking on" — his consent vigilance extends to Vee but he lets Randi's collapse be "hormones" because the alternative is unbearable. And Randi asking "Say something nice to me" / "You are extraordinary" — that's a woman paying for warmth she can't request any other way.
 
-**Cast present (in person):** Pace, Randi. Mentioned: Vee, the professor, the roommate (unnamed Cassie).
+The chapter title: "Four" — I first thought it counted the encounters (he notes "more than three"), but I think it's the *three becoming four* — the threesome that keeps trying to add a person who doesn't know she's been drafted. Or it's just her being his fourth of the night. I'm leaving it half-open.
 
-**Heat:** 3 — the confession-through-sex structure makes the wanting the act itself; nothing in the book has run this hot for me since the bench.
+What I dread next: Vee, blithely happy, with no idea. The drawer standing open an inch — the house itself leaking the secret.
 
-**Romance:** 2 — not Vee/Pace romance, but real intimacy: "It makes me feel real," the blanket before she asks, the held forearm taken as a compliment.
+---
 
-**Motifs & images:** the deadbolt and pre-warmed house (repeat, ch 1's too-warm house); three times in a day and counting aloud (ch 18's "Famished" echo, the "Again" of recent chapters); wet hair / "it looks good wet" — Randi describing Vee's November-wet hair and Pace's reply doubling on Randi herself; the pointing game retold from his side (ch 3); "May I"-adjacent asking inverted — now he's the one asking "Do you like it?"; the white gold band on the wood (repeat); the hidden face and the mirror (Randi's "face" from ch 1, now literally framed on a wall); the blanket-after (echo of his aftercare to Vee, juice and curry).
+**Cast present (in person):** Randi, Pace. **Mentioned only:** Vee, Brooke (implied "professor"), Cassie ("the roommate" via Pace's line about brunches — actually unnamed; "the roommate").
 
-**Symbolism:** the mirror — she hides her face and the room shows it to him anyway; the whole book's arrangement in one object. "Somebody has to get her used to my mouth" — the plan's language as armor, failing on contact.
+**Heat:** 3 — the entire chapter is sex and sex-talk; the confession-driven couch scene and the silent morning ride both burn.
 
-**Characterization:** Randi deepens enormously — the rewrap reflex caught in the act twice. Pace deepens and darkens simultaneously: the consent-check and the aim-pointing are the same attention. Nobody went thin.
+**Romance:** 2 — no declarations, but "It makes me feel real" and the pulled-tight forearm are devastating tenderness inside a lie.
 
-**Pace — within the chapter:** the first third (stats-class retelling) is good simmer; the middle question-answer ("Is she happy?" / "She is *radiant*") is the best writing in it; the last stretch after his fourth goes slightly long but earns it with the coda.
+**Motifs & images:** the deadbolt locking (repeat, ch1/6 — now "before her coat was off"); the white-gold band clicking on the couch frame (repeat); coffee poured and untouched (repeat of Randi's uneaten food, ch18); the green satin panties (repeat, ch16); the second drawer (repeat of Vee's drawer, ch "Above Him"); the blanket after sex (repeat, ch1's cashmere logic); the framed mirror (new — a watcher being watched).
 
-**Pace — chapter to chapter:** building — this is the first chapter that shows the conspiracy *live* since early in the book, and it lands harder for the distance traveled; after two chapters inside Vee's happiness, cutting to the room where it's being discussed is the right, bracing move.
+**Symbolism:** the panties pressed between their chests — Vee literally between them; the drawer standing open an inch — the secret leaking through the house's seams.
+
+**Characterization:** Randi deepens enormously — her want finally spoken, then retracted; Pace deepens as the man whose care for others outpaces his care of Randi. Vee exists here only as the beloved object of both their hungers, which is exactly her danger.
+
+**Pace — within the chapter:** long but earned; the morning coda is the payoff for everything the couch scene set up.
+
+**Pace — chapter to chapter:** building hard — the two recent Vee chapters were warm plateau; this is the structural turn.

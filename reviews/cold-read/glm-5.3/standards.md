@@ -4,34 +4,32 @@
 
 ## Reader reaction
 
-**Reader reaction — "Standards"**
+**Felt read**
 
-This chapter landed on me like a held breath. After the interiority of "The Bench" — being inside Randi's bathroom breakdown, inside the moment she decides *the one he found is going back behind the face and she is not coming out again* — I half expected the book to stay with her in that raw register. Instead it cuts to the sorority house, and the horror of this chapter is watching the mask get rebuilt in real time, against an interrogation she can't quite name as one.
+This chapter is a cold shower after the heat of the bench, and I mean that as praise. Last chapter ended with Randi deciding, behind the bathroom door, that "he could have the face" and the found girl was going back behind it — and this chapter is the first live demonstration of that decision in her natural habitat. The face goes to work. And the horror is that it works *and* it costs.
 
-Brooke terrifies me. The whole common-room scene is a masterclass in power conducted entirely inside pleasantries. "Brooke had more of it than she did" — Randi sitting on the board herself, Standards, reading every move from the inside and still getting played. "Not his section." The fraction of a second where she has to say "No" about the course, and the room holds it, and I held my breath. I don't think Brooke knows about Pace specifically — I think Brooke collects *data*, and the spreadsheet is always open. The typing at the end — "Brooke looked at her laptop. She typed something" — is the chapter's coldest image. The chapter title, "Standards," is doing double work: the Standards board (which rates Randi a single, a door she doesn't have to share — which she wanted "for reasons that were about the work and were not entirely about the work") and the standards of performance these women hold each other to. Nobody in that room is off duty, ever.
+The common room scene had my stomach in a knot the entire time. Brooke is a genuinely chilling piece of writing — the warmth as instrumentation, "she had a voice the way other people had a perfume," the staying-seated as a power move that Randi reads "from the inside" because she's on Standards herself. The interrogation wearing brunch clothes. I noticed how every lie Randi tells is technically adjacent to the truth — study group, the café on Wilson, "not his section" — and how Brooke lets each one sit just long enough to register as a lie before moving on. "Pace," said Brooke, like she was filing it. The white pickup behind Hahn means *they've all been watching longer than Randi knew.* That landed on me hard.
 
-And then the last third. The room alone, the pacing she can't complete — hand partway to the closet and coming down, the phone she doesn't read, face down. The duvet line destroyed me: "It was not — it was a duvet. She lay under it." She's in last night's clothes, shoes still on, under the wrong weight of the wrong blanket, comparing it without letting herself name what it's not (his house, his warmth, his arms — the blanket *Pace's* comforter echoes, the one she brought *to his house*). The callback to "He's hard to say no to" — the line she landed in the kitchen "perfectly," heard now in a key she can't sing in — is the quiet knife of the chapter. It was always a confession. She just used to be able to afford it as a joke.
+The moment that cut deepest: "He's hard to say no to," heard "in a different key." That's the hinge of the whole book so far for me. The same sentence she used to make Pace small and herself safe is now, after the bench, simply true — and dangerous, and she can't let the thought continue. That's the interior life I'm here for.
 
-The chapter's deepest cut: she didn't cry in the bathroom last night *at him*, and she doesn't cry here. "It felt like there being no door" — the held breath that stops feeling held. That's not recovery, that's the sealing-over, and the fact that it reads as eerie rather than peaceful is the whole achievement.
+The sorority house is rendered as Pace's house's inverse: cold corners vs. his even heat, the "duvet" that "was not — it was a duvet" next to his cashmere blanket. Her lying on the made bed in last-night's clothes with her shoes on, refusing the closet, refusing the shower, refusing the notifications — every yes she's postponing. And the ending: "It felt like there being no door." That's her bathroom-door decision metastasized into a whole coping architecture. It's devastating precisely because nothing dramatic happens. She just lies there and the held breath has stopped feeling held.
 
-Heat is nearly absent by design — but the charge of this book is that "The Bench" was the heat and this is the afterimage, and the afterimage is scorching. The only body in the room is hers, and it's wearing last night's clothes.
+I ached for her and I trusted no one. Brooke is the one who worries me — the typing after each answer suggests she's documenting, not gossiping, and I suspect (guess only) that Standards, the board Randi sits on, is going to become the machinery that threatens this. The chapter title doubling as the board name and the moral theme — the standards she applies to others vs. the standards she applies to herself — is the best title-work the book has done.
 
-What I want next: I want Pace's morning, and I dread it. I want to know what the two notifications on the phone were — probably him — and I badly want her to read them and badly want her not to. If she shows up at his house next chapter wearing the face, I don't know what I'll do. Guess, from here only: Brooke's typing comes back.
+**Structured block**
 
----
+**Cast present (in person):** Randi; Brooke; Sloane; Kinsey. Mentioned only: Pace.
 
-**Cast present (in person):** Randi, Brooke, Sloane, Kinsey. Mentioned only: Pace, Daphne ("a CEO's third wife" — no, that's Brooke's fate being described). Pace is referenced but offstage.
+**Heat:** 0 — no erotic charge by design; the chapter is the morning-after tension of the bench, not a return to it.
 
-**Heat:** 1 — no erotic content, but the whole chapter is the residue of "The Bench" carried in Randi's body: last night's clothes, the wrinkled cardigan, the body under the duvet with shoes still on.
+**Romance:** 1 — Pace exists here only as absence and lie; the romance is all in the remembered "he's hard to say no to."
 
-**Romance:** 1 — Pace exists here only as absence and notifications; the tenderness is all in what she can't feel toward him without dissolving.
+**Motifs & images:** Doors and thresholds — the quiet-closed door (first sighting of "wrongness"), the deadbolt callback from chapter one; the click. The face/smile "arranging" — direct repeat of the bathroom mirror scene. Shoes left on — inversion of Pace removing her heels. The duvet vs. his cashmere blanket (heat as care). The monogrammed bag recurs. Held breath recurs from the bench ("a held breath stops feeling held").
 
-**Motifs & images:** the door closing quietly ("wrong" for Randi, who owns rooms); doors/locks recurring from last chapter's deadbolt and bathroom lock; the ceiling as the thing she looks at instead of crying (she can't cry); the duvet vs. the cashmere blanket; "He's hard to say no to" reprised in a new key; the phone face-down, unread; the fraction-of-a-second pauses as a running rhythm; the closet — "she had come to do something and could not locate what" (first appearance of this frozen gesture).
+**Symbolism:** Standards — the board and the moral measure in one word. The closet she opens and cannot choose from: the identity-wardrobe she can't access this morning. "There being no door" — the door motif turned inward, her own inner bathroom she will not enter.
 
-**Symbolism:** the single room — "a door she did not have to share" — versus the bathroom door she locked against Pace last night; the Standards title itself as double standard.
+**Characterization:** Randi deepens enormously — the split-second management of pitch, the matching-laugh with Kinsey "very fast," the lie reflexes as choreography. Brooke deepens as a quiet antagonist-adjacent figure: warm, seated, filing. Pace is wisely absent.
 
-**Characterization:** Randi deepens enormously — the bathroom resolution from last chapter is shown *operating*, mechanically, and it's chilling. Brooke is vividly drawn in one scene: warm-voiced power, "the not-standing was the move." Kinsey and Sloane are texture so far.
+**Pace — within the chapter:** The four-minute interrogation earns its length beat by beat; the solitary second half is slower, deliberately becalmed, and earns it too. Nothing dragged.
 
-**Pace — within the chapter:** the common-room scene is taut and perfectly proportioned; the bedroom scene risks stasis but earns it in the duvet paragraph. Two beats, both landing.
-
-**Pace — chapter to chapter:** the book shifts POV register to Randi full-time here after "The Bench" gave her the bathroom interiority — it's the right follow-up to the hottest, most open chapter, and the contrast is the point. Momentum is holding.
+**Pace — chapter to chapter:** Building — a deliberate decompression after the physical and emotional peak of "The Bench," shifting the arena from his house to her world. Different enough in texture to keep momentum; the Brooke material opens a new front. I want to know what Brooke typed.

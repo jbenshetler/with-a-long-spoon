@@ -1,0 +1,32 @@
+# Cold read (grounded) — Substitution
+
+*scene: scenes/substitution.md · model: kimi-k3.1-pro · memory: raw ch001..ch004 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+This chapter absolutely swept me up, and the uncomfortable part is that it swept me up *as Vee*. Pace crossing the room with his eyes fixed on her, rolling back his cuffs, reading the problem properly, then handing the pencil back exactly where she could finish it herself—I felt the pull of that in my chest. “What’s drawing you to it?” is such a generous question, and Vee responding by telling him things she has never articulated to anyone else made me ache for her. She is so hungry not merely to be admired but to be taken seriously. When she admitted, “This is the nicest a person has been to me in a really long time. And it’s froyo,” I wanted to protect her and also wanted the evening to keep going forever.
+
+My feelings about Pace are now thoroughly divided without being confused. He is attentive, funny, restrained, and wonderfully good at making Vee more capable rather than more indebted. “You gave fair notice. I took it seriously” is delicious. But I know he and Randi selected Vee after her body answered his question about another woman, so I cannot receive his apparently spontaneous interest as cleanly as she does. The chapter does not establish that he engineered the coffee-shop meeting, and I will not decide that for it; nevertheless, “May I call you?” lands as both genuinely good manners and politeness she cannot yet evaluate because she lacks the whole situation. Even “I’ve thought about most things” charms me and then chills me half a second later.
+
+Randi moved most for me. Her single bare “Randi,” with none of the polished routine Vee had just borrowed from her, and the coffee repeatedly rising without a sip, gave the whole scene an undertow. I do not know whether she is jealous, grieving being unseen, aroused, managing herself, or some combination; the page leaves it open, and I want to leave it open too. Her encouragement—“You should go out with him,” “He looked like a man who wants you”—sounds supportive and also like she is actively delivering the plan she and Pace made. The sharp little addition, “He wants to see you naked,” felt especially exposing: is she translating him accurately, testing Vee, or making the arrangement belong to her? Cassie, meanwhile, remains a dry blessing. Her great-aunt observation is funny, exact, and quietly bracing; she sees what Vee is too dazzled to see, without turning it into a warning speech.
+
+The erotic charge is in attention rather than touching: Vee’s eye snagging on his forearms, her embarrassment when he checks his watch, the high-board drop when his text arrives. It worked strongly on me. The math explanation also becomes quietly erotic because he offers her a way to make two resistant things turn together into “a single thing that’s suddenly plain.” That is almost too pointed once I know what Pace and Randi want, but Vee’s genuine intellectual pleasure keeps it from becoming merely a wink. The froyo date deepens the food-and-appetite imagery beautifully: Randi could permit herself thin apple slices and automatically refused a cheeseburger; Vee builds too large a cup, waits for her mother’s prohibition, hears nothing, and discovers she does not care. “Your tart’s holding up” is an absurdly tender closing line—her excess has not collapsed, and neither has she.
+
+“Substitution” works on several levels for me: the mathematical substitution that frees Vee’s problem, Vee trying Randi’s introductory bit as a substitute self, and the much less innocent possibility of people being placed into roles within someone else’s desire. The cover-board title **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION** now feels spoon-bright and faintly ominous: coffee, frozen yogurt, shared food, “Pardon me,” and “May I” make everything exquisitely polite, while the invitation is being extended across radically unequal knowledge. No cover tagline was supplied. I want the next date immediately, and I dread Vee attaching herself to this warmth before she knows Randi’s place in it. My guess from here is that Randi’s contained reaction will become harder to contain, and that Cassie may remain the person who notices first.
+
+**Cast present (in person):** Vee, Randi, Cassie, Pace.  
+**Mentioned only:** Vee’s unnamed professors/TA, mother, and grandfather; an unnamed former video-game partner. No additional named people appear.
+
+**Heat:** 2 — Sustained attraction in the gaze, forearms, chosenness, and Vee’s breathless anticipation.
+
+**Romance:** 2 — Real tenderness and intellectual intimacy take root, though Vee’s missing knowledge shadows them.
+
+**Motifs & images:** Food and permitted appetite recur from Pace’s carefully sliced apple and Randi’s refused cheeseburger to Vee’s overflowing froyo. Cups and drinks recur from Chi Latte: Randi’s untouched coffee, Pace’s forgotten coffee, Vee’s phone beside her cooling cup. Being “chosen” repeats Vee’s response to Randi’s warmth. Vee borrowing Randi’s name routine is a first, telling imitation; Pace’s small crossed mark is a first visual emblem of combination.
+
+**Symbolism:** The Euler substitution strongly suggests separate, resistant elements becoming comprehensible together, inviting a relational reading without settling its ethics. The structurally sound tart beneath excessive toppings suggests appetite supported rather than shamed. Politeness itself becomes a surface whose sincerity and sufficiency remain separate questions.
+
+**Characterization:** Vee deepens beautifully—brilliant, funny, self-protective, romantically susceptible, and newly articulate about her intellectual ambitions. Pace remains consistent: perceptive, patient, generous in method, and disquietingly unreadable in motive. Randi gains complexity through restrained physical cues rather than explanation. Cassie’s terse perceptiveness is consistent and increasingly valuable.
+
+**Pace — within the chapter:** The calculus sequence is long but earns its space through attraction, characterization, and metaphor; the froyo date is deliberately compact. Nothing dragged for me, though the “single thing” wording comes close to underlining itself.
+
+**Pace — chapter to chapter:** Strong forward motion. After Randi’s selection of Vee and Vee’s enchantment with Randi, this meeting activates the triangle while reversing the viewpoint again; momentum is building, not repeating.

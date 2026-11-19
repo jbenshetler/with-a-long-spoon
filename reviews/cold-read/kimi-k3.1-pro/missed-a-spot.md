@@ -1,0 +1,33 @@
+# Cold read (grounded) — Missed a Spot
+
+*scene: scenes/missed-a-spot.md · model: kimi-k3.1-pro · memory: consensus ck-ch040@616b9e22d61c + raw ch041..ch046 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+This chapter made me stupidly happy. After all those cold beds and unanswered messages, Vee waking to an empty side of the bed briefly dropped my stomach too—and then the bread, the pillow smelling of him, the folded sweats she deliberately leaves untouched turned the whole morning into a reprieve. Her nakedness isn’t just display; it feels like someone sprawling after weeks of sleeping “curled and rationed.” “Poor thing. There was simply nothing for it but to be naked in a warm house that smelled of bread” made me laugh with her. I loved her pleasure-princess arithmetic, her delight in her own body, and the way performance gradually stops being distinguishable from wanting. She feels more fully herself here than she ever has.
+
+Pace is enormously attractive to me in this chapter: “I got mushrooms” after losing all composure, the immediate “No” when she offers to put on sweats, the burnt toast, and especially his complete willingness to be directed without actually becoming passive. The princess/slave game works because it isn’t quite true. She points; he obeys—and then takes the longest possible route to the pointed place until her command becomes a plea. His care during the kiss is what most moved me. He stops, begins to withdraw, reads her panicked clarification, and then leaves her mouth alone without sulking or making her manage his feelings. “Okay” is such a small word, and he makes it spacious. I still hurt over the word he hasn’t given her; this glorious morning doesn’t answer December. But I don’t doubt the tenderness here.
+
+The erotic charge is sustained and almost indecently good. The breakfast could have been merely decorative, but the blood orange—opened segment by segment until there is “nothing between anybody and the fruit”—comes back when he opens her with his mouth, and that made the cooking part of the arousal rather than a delay before it. The sexual sequence peaks for me not at the loudest climax but at the kiss: her tongue moving before her mind votes, then the old installed voice saying *wrong*, then her legs locking him inside her while she rejects only the taste. Her eventual climax while kissing him, and her tongue later searching her own lip without admitting what it wants, are much more intimate than simple mutual pleasure. Something in her appetite is still meeting itself and retreating.
+
+I appreciated that the page doesn’t settle what Pace intended. Vee’s tidy explanation—he must have forgotten to wipe, just this once—is comforting and not quite sufficient, and the unanswered “how many times, and how carefully” remains minor-key beneath her satisfaction. I’m holding it open too. The cream cashmere also gave me a private pang: Vee receives it as Pace’s wordless gift, while I remember its association with Randi. Even at her most securely installed in his house, there is an intimacy present that she cannot identify. And the final turn toward Randi is beautifully cruel in its quietness. Vee plans to tell her nearly everything because “Randi always did” know what to make of things; I believe Randi’s affection is real, but I also know these confidences do not stay solely with her. That isn’t a new suspicion so much as an ache the chapter reactivates.
+
+“Missed a Spot” is first simply the adorable trap that gets his cheek beside her breast, calling back to the fitting. Afterward it also feels like a title about the small thing Vee can’t quite locate: the taste she hunts, the explanation that slides away, the fact that happiness has covered December without resolving it. **A Place at the Table** feels wonderfully literal here—she eats from his plate, claims her chair, his bed, his kitchen, and eventually the whole morning. The jacket line “She has a place at the table. She thinks she’s a guest” is complicated by her behaving like nothing remotely resembling a guest. **With a Long Spoon** now makes me think of all this sharing across a table where one person doesn’t know everyone who has been seated. The jacket’s promise of something warmer and more explicit is absolutely fulfilled.
+
+Next I want Tuesday and Randi’s reaction with an almost uncomfortable eagerness. I want Vee to explore whatever that kiss awakened without forcing herself to name it prematurely. I dread her handing this tenderest uncertainty over as brunch entertainment, and I dread the moment she remembers that sexual reconciliation still hasn’t given her a public name. My guess from here is that Randi will understand the significance of Vee’s taste curiosity very quickly—and may use that understanding before Vee knows she has revealed anything.
+
+**Cast present (in person):** Vee and Pace. Mentioned/remembered only: Randi and Kayla.
+
+**Heat:** 3 — Sustained playful command, lavish oral attention, and the destabilizing taste-kiss dominate the chapter.
+
+**Romance:** 2 — Deep domestic tenderness and attentive care, though the unresolved declaration remains untouched.
+
+**Motifs & images:** Warmth against cold; feeding and tasting; the top drawer and green scrunchie (repeat, ch29/32/33); flannel scent (repeat, ch37/40); breast against cheek (explicit repeat, ch14); borrowed heels; cream cashmere (repeat association with Randi); pointing as direction, recalling “The Pointing Game” but with Vee commanding.
+
+**Symbolism:** The opened blood orange prefigures Pace opening Vee; her princess/slave reversal exposes how much service his apparent control contains; the cashmere lets Vee luxuriate inside an intimacy whose full ownership she cannot see.
+
+**Characterization:** Vee deepens beautifully—playful, desirous, self-delighting, yet still governed by an old reflexive prohibition she can question only afterward. Pace is funny, patient, erotically confident, and careful without becoming idealized or verbally healed. Randi remains vivid even offstage through Vee’s complete trust.
+
+**Pace — within the chapter:** Long, but the breakfast earns its length through sensory escalation and its later bodily echo; the sex is deliberately dilatory rather than baggy, and the quiet coda is essential. “A taste that was almost masculine” was the one food description that felt a little ornate to me.
+
+**Pace — chapter to chapter:** Building strongly: this extends the reconciliation instead of merely repeating it, shifting their erotic balance and introducing a small unresolved disturbance beneath the happiness.

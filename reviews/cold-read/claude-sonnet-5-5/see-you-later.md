@@ -4,26 +4,41 @@
 
 ## Reader reaction
 
-The first thing I felt was dread, and it was the good kind. I'm now watching Vee walk into the thing I watched being built. I know the "accidental" collision was choreographed, and I know "Vee" was picked off a quad by pointing. She doesn't know any of that. She spends the chapter running "we should sit together" "both ways enough times to wear a groove," and I wanted to tell her which way it goes. Her softness is lovely and a little painful. "Not feeling her feet." The right pen warming her "like praise she'd worked for." Her glee at being given "a small office, *the one who knows things.*" I'm fond of her and I'm worried.
+I'm uneasy, and the page earned it. I know what Vee doesn't. Randi didn't bump into her by accident. The collision was a performance, and Pace watched from a light pole while Randi worked it. So I read every warm beat here with the floor missing. "There *you* are." "I've decided." The hug, the hand flat on her back, "You're a total fox." I can't tell how much of it is the face and how much is Randi actually glad. Her warmth is so total and so even that it reads as technique, and Vee can't see that. My stomach drops a little each time Vee feels chosen. The faux-European vowels got me most: "the esses ran a half-beat long." Randi hid the Kentucky she lets slip with Pace and swapped in an accent that makes her seem "from further off." That's the face being built live.
 
-Randi is the odd one. In her own chapters she was cracked open, then shut tight. Here she's a pure surface: warm, bright, total. The "Yes, like the adjective" bit is a rehearsed opener. The strangest detail is the accent. Vee hears Swiss school, Paris, a mother from a different alphabet, and I know Randi is Kentucky until nine. So she's performing a more exotic self, or Vee is inventing it, and I can't tell which. I'm also holding something open here. The Randi who knocked into Vee may not be wholly the Randi who reported to Pace, and I don't know what she wants from this girl. The text only shows me that her warmth works.
+I ache for Vee, and I like her. The two voices in her are very real: *floozies* arriving "in her mother's voice," then the longer look at those bodies than the word accounts for, then the cardigan kept on "as a choice the room did not know." She is lush and hiding it, and she knows she'd be looked at. Wanting to be picked is a hunger, and I can feel Randi's whole method aimed at it. The transcript-blank detail is the best thing here: "the leaning-in was the whole content." It's tender and a little frightening, because that's how someone gets led. The tea-leaves line and the "right pen" warm me too. Vee's small joys are specific.
 
-Cassie is my favorite surprise. She won't take the bit's open door ("Cassie," flat), and she declines coffee with no edge. Then comes "Goodbye, Vee," which "landed a little wrong." That's the one place I felt real unease. It's earned, because the whole word is too final for a Wednesday. I'd put it against Randi's "See you later," which is breezy and means it. Vee notices Cassie's goodbye for one second and then lets Randi's pull sweep it away.
+Cassie is the one who snags me. She's flat, unperformed, and doesn't take Randi's open door. She's the only person who won't be charmed. Then "Goodbye, Vee," and the narration notes it "landed a little wrong." I can't say what it means yet. It may be only Cassie's literalness, or it may be the first sign of something lost. The text flagged it and Vee smoothed it over, so I'm holding it open. I'm also suspicious of "I'll see you at home in two hours." It sets a clock I don't trust.
 
-What swept me up is Vee's rush, and the amnesia is the best part. She can't reconstruct a single sentence of the hour. "The leaning-in was the whole content… the transcript was blank." That's seduction seen from the inside, and it's exact. The Chi Latte joke ("only once you're allowed in on it") and the spoons ringing all over the room did a lot of quiet work for me. Her dual-voiced body-shame also landed. She thinks "floozies" in her mother's voice, then looks longer than the word accounts for. She keeps the cardigan on "on purpose." That's the interior life I came for, a want she hasn't looked at squarely. "A flat helpless want" for Randi is almost named, but she keeps it unexamined and glad.
+Erotic charge is low and banked. Nothing explicit happens, and it's all Vee's want: "a flat helpless want, the want you keep for a thing you've only ever seen from a distance." The faint heat is in Vee's eye on the bare midriffs and the high table where she sits "presented at the height the whole room could see." After the last two chapters it's a cool glass of water, but there's dread in it. I know where this is aimed, since Randi asked "Do you think she'll like the bench?" That question hangs over every nice moment. The consent worry is real and quiet. Vee is saying yes to a friendship while being quietly hunted for something she hasn't been told about.
 
-Erotic charge is low and mostly simmering. It's in Vee's looking, the knee-near-knee at the high table, and the hand flat between her shoulder blades. After the last two chapters this is a deliberate cool-down. It's tender and it works, but I miss the heat a little, and I'd say so plainly.
+Friction is small. The coffee-shop scan of girls runs a bit long, and the Chi Latte pun is explained twice. "Queen having decided there would be a later" is slightly on the nose. I don't mind the narrator stepping outside Vee for the bench-world irony, but it nudges me.
 
-Friction is small. "Floozies" and the collarbone-cardigan beat are slightly on the nose. I can also feel the author pressing "queen" and "chosen" a bit hard.
+The chapter title, "See You Later," is Randi's casual line, and the page recasts it as a promise Vee hears as "already scheduled." It sounds like a pleasant sign-off and carries a hook. Set against "Goodbye, Vee," it gives me two partings in one chapter, and the second may be the real one. The series title, "With a Long Spoon," points to the old saying about supping with the devil. The book title, "A Polite Invitation," points at manners as bait, and this chapter is exactly that: warm, polite, a table at the window. The long-spoon idea says whoever does the inviting is dangerous, and I'm not sure yet if that's Randi, Pace, or both. There's no tagline in my packet.
 
-The title now reads two ways for me. It's Randi's casual promise, and it's Cassie's missing one. The series title, *With a Long Spoon*, and the book's "A Polite Invitation" snap into focus here. The spoons ring all over the café, the invitation is warm and polite, and Vee is the one sitting down to sup. I'm guessing from here that someone needs a longer spoon than Vee has. I want to see Randi alone with what she's doing, Pace's reaction, and whether Cassie turns out to be the one who sees clearly.
+I'm pulled hard to keep reading. I want to see Randi alone with her face off, and whether the bench-night hum, "the size of a key turning in a lock," is still running under this charm. My guess from here: Randi will keep performing for Pace's game and start to want Vee for real, with no way to say so. I dread Vee finding out she was a shopping-list pick.
 
-**Cast present (in person):** Vee, Cassie, Randi, plus a professor and unnamed café patrons. Meg is only recalled from yesterday.
-**Mentioned only:** Meg, Randi's "sister in the house," Vee's mother (voice), Randi's parents.
-**Heat:** 1 — only Vee's looking and the pull of touch; the charge is crush, not act.
-**Romance:** 2 — Vee's infatuation is clear and tender, though lopsided and possibly managed.
-**Motifs & images:** Repeat: Randi's cold citrus perfume. Repeat: Kentucky/performance voice, now replaced by a foreign accent. Repeat: "Yes" and the "like a key in a lock" image (the key in the lock at the end of The Bench). Repeat: the maple, the wind and the ridge (setting). First: spoons ringing; the Greek-letter sign; the high table as a display; Vee's cardigan; "Goodbye" versus "See you later."
-**Symbolism:** The high stool "in the window like something in a display." The spoons and the sweetness at the bottom of the cup read as invitation and bait.
-**Characterization:** Vee deepens a great deal (shame, longing, social fluency). Cassie is sharp in a few lines. Randi is a smooth surface here, intriguingly unreadable.
-**Pace — within the chapter:** The class scene is brisk. The café section lingers pleasurably and earns it.
-**Pace — chapter to chapter:** A deliberate shift in register and POV after the heat of the previous chapters. The momentum is steady and hooky, with dramatic irony driving it.
+**Cast present (in person):** Vee, Cassie, Randi; the professor, a skateboard guy and café girls as background. **Mentioned only:** Meg, Vee's mother (as a voice), Randi's sister in the house, Pace (not named this chapter).
+
+**Heat:** 1 — Vee's banked want and her look at bodies. Nothing is acted on, and the dread adds some charge.
+
+**Romance:** 1 — Vee's one-sided infatuation and Randi's engineered warmth. The faint pull is real on Vee's side.
+
+**Motifs & images:**
+- Repeat: Randi's cold citrus perfume, from the kitchen and bench scenes.
+- Repeat: Kentucky voice, now hidden behind a fake accent.
+- Repeat: "the face" and performance warmth.
+- Repeat: "Yes" / "Her name is Vee" to the stats class.
+- Repeat: the key turning in a lock, echoed in "went in like a key in a lock."
+- First: a named hairdo/scrunchie-style café "uniform" and the cardigan as concealment.
+- First: Chi Latte's Greek-letter sign as an in-joke you're "let into."
+- First: the high-table "display."
+- First: "Goodbye" versus "see you later."
+
+**Symbolism:** The cardigan stands for Vee's mother's rule on being looked at. The sign is the inside-joke gate. The high stool is exposure as belonging. The faux accent is the face as costume.
+
+**Characterization:** Vee deepens a lot: her shame, her gift for reading rooms, her mother in her head. Randi is consistent and chilling from outside. Cassie is sketched but sharp. Nobody flattens.
+
+**Pace — within the chapter:** The class and café sections hold well. The room scan is slightly long, and the closing walk-home is a gentle landing.
+
+**Pace — chapter to chapter:** It's a deliberate cool-down after the bench, the standards scene and the pointing game. The POV switch is fresh and gives the book new dramatic irony. The momentum is in dread, not heat.

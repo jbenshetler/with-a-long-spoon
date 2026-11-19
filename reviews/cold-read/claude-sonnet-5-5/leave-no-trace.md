@@ -4,43 +4,23 @@
 
 ## Reader reaction
 
-**Felt read**
+Vee at the foot of the trail with her hand still on the truck door, then moving anyway: I was with her right away. The chapter is mostly her body coming back to her in pieces. The heel blister, the burning thighs, the horseradish climbing into her sinuses, the summit that takes her breath before it gives it back. Of all the chapters so far, this one sat closest inside a single body, and it worked on me. The lake holding the silver sky "flat as a poured thing" was a real swoon. The line that he "let her catch him" looking at her instead of the valley was another.
 
-This chapter swept me up, and I'm uneasy about it for reasons the page itself gave me. Vee is in love with the day: the summit, the horseradish burn, the cherries, the rain. I went with her. The view paragraph, with the lake holding the silver sky "flat as a poured thing", worked on me, and so did "The body came back after the seeing, slow." The sandwich scene is sensory and nearly erotic without being about sex. The truck scene is the heat peak. She knocks on the glass, crooks a finger, and undresses button by button, keeping his eyes on hers while her mother's word "floozie" and her own heat run together. It was hot, and it was consent in her own hands. She chose it, and then she noticed he was shaking and stopped. I loved that she stopped.
+Pace is where I'm split. On the page he's almost unbearably good. He sets the pace slower than she braced for. He fixes the hot spot without making it strange. When she spits a cherry pit, he corrects her so gently that he lays his own pit beside hers and doesn't look. He hears about the russet dress and says only "That sounds like a beautiful dress." But I carry what Vee doesn't. I watched him point her out on the quad, and I watched Randi go to get her. So every kindness has a second reading. The dry flannel folded in the bag, "It's going to come down," the way he never takes the dress up again: I don't know if that's tenderness or setup, and the page doesn't tell me. I'll note the suspicion is earned by the earlier chapters and not by anything he does here. Inside this chapter he does nothing I could name as wrong. His standing in the rain, shaking, so she can change feels sincere. I guess from here that the dress isn't finished.
 
-Pace, from where I sit, is the problem. I know things Vee doesn't. I watched him and Randi pick her from a lawn like a menu item, and I watched Randi design the collision. So every kindness here reads two ways. The moleskin, "I didn't think to ask about the boots", and standing in the rain so she can change are all lovely, and they're also exactly the moves of a man who has thought hard about what she needs. The details he was given help the pattern too: the wax-paper pit, "We take nothing and leave nothing", and the lettuce against the bread. He hears the russet dress and says only "That sounds like a beautiful dress," and then doesn't pick it up. That absence made my skin prickle. I'm guessing he files it. The text hasn't earned that suspicion yet, but I'm holding it, and the silence is why.
+The truck scene is the heat. Her mother's voice says *floozie* while her thighs press shut on their own. Shame turns into heat and she chooses the heat. She raps on the glass, crooks a finger, and unbuttons with her eyes on his. It felt consensual and hers, which is why it burned. Then the turn: she reaches for his hand to start "the next thing" and finds it shaking, and she stops. That swerve from performing to caring is the most tender beat in the book so far, and it made me like her more. I also noticed he never touches her. That restraint is erotic and also unnerving, since it lets the whole thing stay her act. I wanted more from the middle, though. The summit and sandwich passages run long and lovely, but the heat there is mostly appetite. It peaked in the cab and went quiet afterward.
 
-The chapter's cleverest and saddest beat is the near miss. She nearly kisses his knuckles, then notices he's freezing and puts his hand under the flannel instead. That is real tenderness from her, and it's unmanaged. I also couldn't tell whether his stillness in the truck was restraint or tactics. The page leaves that open, so I'm leaving it open.
+The siren cutting off "Pace—" is a good small cruelty. She had something bigger than words and got to say nothing. It's left open what it would have been, and I'm leaving it open. Cassie's closing scene warmed me, and "Borrow real boots next time" and "Keep the shirt" are both loving. Still, Vee leaves out the part where Randi planted the whole picture in her head, and the "ravish" imagery she walked up the mountain under was Randi's. I felt that pang quietly.
 
-The cop's siren cutting off "Pace—" felt a bit convenient, like the author's thumb on the scale. It keeps the unsaid thing unsaid.
+Friction: "his brown eyes steady in all that silver light" and the shirt-back inventory are slightly on the nose. The "we take nothing and leave nothing" line is a bit signposted, but it earns its place when Vee repeats it to Cassie as "You carry out what you carried in."
 
-Cassie is the quiet ache. She's all warmth and dry jokes, but she's the one in the margins now. The "Goodbye, Vee" chapter lingers. "Borrow real boots next time" is her tenderest line, and Vee barely registers it.
+Titles: "Leave No Trace" fits the cherry pits and the wax paper, and it also nags at me. A man who leaves no trace, a girl who's learning to leave none of her old caution. Whether that's reassuring or sinister I can't tell yet, and I won't pretend to. The series title, *With a Long Spoon*, and the book title, *A Polite Invitation*, feel more pointed now: his "May I" manners are the invitation, and the spoon implies you shouldn't sup with the devil. No tagline was supplied. I'm pulled hard to keep going, mostly to see whether the three of them end up in one bedroom and whose idea each step really is.
 
-Randi is only present as an echo, her "ravish" and "your man" shaping how Vee reads every glance. Knowing Randi's own flinch at the pointing game, it's strange and a little sad that her borrowed picture is steering Vee's hike. Vee doesn't know she's being steered.
-
-**Titles.** "Leave No Trace" is a good one. On the surface it's the hiker's ethic. Underneath, I read it two ways. Vee will leave this man's world with only a flannel shirt. Or, more darkly, someone is taking everything and leaving no evidence of the taking. The line about the pits makes it both. "A Polite Invitation" (Book One) now feels pointed: everything has been polite. "With a Long Spoon" suggests supping with the devil, and I'm not sure who the devil is yet.
-
-**Next.** I want the dinner and the dress. I dread the dress arriving as a gift she can't refuse. Guess from here: the siren interrupted her saying something big, and that will matter.
-
-**Cast present (in person):** Vee, Pace; Cassie (final scene). Mentioned only: Randi, Meg (boots), Christine (not present), her mother, her father.
-
-**Heat:** 2 — the truck striptease is sustained, consensual, charged wanting, then deliberately arrested by his shivering.
-
-**Romance:** 2 — the hand under the flannel and the silent look; clear intimacy, not yet declared.
-
-**Motifs & images:**
-- Repeat: Pace's right hand, "May I", hands and knuckles, the high-table/shelf feeling (absent here).
-- Repeat: Vee's mother's voice ("floozie", "what kind of girl").
-- Repeat: Randi's word "ravish" and "your man".
-- Repeat: window cracked two inches in Cassie's room.
-- Repeat: cherry/wax paper echoes the earlier apple slices.
-- Repeat: Pace's old white pickup.
-- First: moleskin, flannel shirt, russet dress, wax-paper pits, blue shirt against the browns.
-
-**Symbolism:** The wax paper holding the pits ("take nothing, leave nothing") suggests erasure of traces. The russet dress is a want set down on the rock and left there. The flannel is his shirt worn as ownership.
-
-**Characterization:** Vee deepens: the shame-heat loop and the swerve toward his shivering. Pace is smooth, which is both his charm and my doubt. Cassie is warm but sidelined. Randi is offstage and thin.
-
-**Pace — within the chapter:** Well paced. The summit and rain sections earn their length. The siren and the dorm drop-off are the only rushed spots.
-
-**Pace — chapter to chapter:** Momentum is building after the Vee-courtship run (froyo, dinner, Smoothie Bird). This is the first big physical escalation, and it changes register from talk to bodies.
+**Cast present (in person):** Vee, Pace, Cassie. Mentioned only: Randi, Meg, Vee's mother, her father, the campus cop (appears briefly, only as lights and siren).
+**Heat:** 2 — the truck striptease charged by shame-as-heat and his stillness; the rest is appetite and tension.
+**Romance:** 2 — his careful care, her dropping his hand's shiver into protectiveness, the first real intimacy between them.
+**Motifs & images:** Repeat: "May I"/his courtesy; the cardigan/buttoned-up body versus the voice of her mother; the high-table/shelf feeling; Cassie's window cracked two inches; his right-hand-only; "real shoes"; Randi's "ravish" picture; hot, wet bodies versus cold. First: moleskin/hot spot, cherry pits on wax paper, the russet dress, the flannel, the blue shirt.
+**Symbolism:** Leave-no-trace as ethic and possible threat; the dress as unspoken want; the flannel as ambiguous gift/claim.
+**Characterization:** Vee deepened (her wanting, her mother's voice, her small boldness). Pace is consistent and attentive but opaque, only readable through Vee. Cassie warm but briefly drawn. Randi absent.
+**Pace — within the chapter:** The trail and the summit breathe well; the truck scene earns its length; the dorm debrief is a good short coda.
+**Pace — chapter to chapter:** Holds a slower, sensory register after the dense Randi chapters. The rhythm is steady, and the siren interrupts it.

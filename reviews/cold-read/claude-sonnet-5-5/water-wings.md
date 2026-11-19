@@ -4,37 +4,38 @@
 
 ## Reader reaction
 
-I'm in Vee's body for this one, and I'm glad to be. After the bench and the pointing game, this chapter let me breathe, and it still carried a charge.
+**Felt read**
 
-**Characters.** I love Cassie here. "Tossers. They will never know the love of a woman" is a great line. Then the detail that she "could have pitched it up into the bleachers... She'd kept it for Vee." The wave trick is a real tenderness, because she won't ask and just changes the weather. Standing ribs-deep "like a person" is the best image of her. I can't tell if there's something under her love for Vee, and the page doesn't say. I'll leave it open. Vee ached for me. Her sixteen-year-old synchronized-swimming suit "gave her nowhere to hide," the bleacher catcalls, and the grief at the bottom of the pool are all done with restraint. "The body that was such a problem stayed up on the deck with the rolled towel" got me.
+This is the first chapter that feels like Vee's own life, and I liked it a lot. After the heat and calculation of the Randi and Pace chapters, the pool is cold, plain and a relief. The navy suit "older than their friendship" and the "What man?" gag make Cassie vivid fast. Cassie wades to her ribs and says, "I'll be right here. Standing. Like a person." That moved me more than it should have. She's a friend who stays in the shallows and keeps her splash for when it's needed.
 
-**Swoon and pull.** The underwater passage is the peak. The room switches off, and "something in her chest that had stood at attention all afternoon quietly sat down." Then the shower, where the heat stays in her body while she thinks about his hands. It's the first time Vee wants anything with her own interior voice, and it's sweet.
+My feeling for Cassie has moved. Before, she was the flat, few-word girl who said "Goodbye, Vee" like a door closing. Now she reads as tender, quick and watchful. "They will never know the love of a woman" is a line that sits there with a small ache. I won't pin it down beyond what the page gives. It could be a joke, or it could be more.
 
-**Trust versus suspicion.** I'm uneasy, and the text earned it, but through what I already know, not through Vee. I watched Pace stage this whole encounter, and Randi gripping her coffee through the cafe scene. So "Don't answer tonight" lands as a technique: it's clever and it works, and Vee gives him credit as oddness. "Who did that?" is exactly the response he wants. She's reading his calm as respect. It may even be respect, but I'm holding it ajar. I'm also noticing how Vee measures him against "every boy she'd ever gone out with sat down like a dropped backpack." She's being led, and she's happy about it. I feel protective of her and a little dread. I don't suspect Cassie of anything.
+Vee deepened too. The underwater passage is the best thing here: the room switching off, "something in her chest that had stood at attention all afternoon quietly sat down," the scull, and the grief that her body was a problem while "the water was the one part of it that had never been taken." The sentence about the body staying up on the deck with the rolled towel, where it could wait, hurt. So did the green-and-white suit from sixteen that "gave her nowhere to hide." Her walk past the bleachers like an entrance, with the face put on, matches the cardigan buttoned to the throat and her mother's voice calling the girls "floozies."
 
-**Erotic charge.** It's low and sly, a simmer. The towel, the wet bench, "which was really not the place," and her wondering what his hands do besides math. After the earlier chapters it's an intentionally small flame.
+The splash fight is joyful, and Cassie doing it without changing expression is the funniest thing in the chapter. It's friendship doing what grief couldn't.
 
-**Friction.** Very little. "Cassie did locker rooms like a fire drill" is a bit cute. The "legs for days / floaties" bleacher bit is slightly on the nose, but the response, with the blink and the eyeroll, makes it real.
+Then the shower and bench. Vee turns Pace over in her head: "Don't answer tonight." "Who did that?" She calls him odd, plain and not gorgeous, and wonders again about his hands. This is warm and slightly dizzy, and the wet curl she keeps winding around her finger is a nice nervous tell. The chapter doesn't tip into explicit sex, but the towel and "his hands, the knuckles thick on them" carry a real low simmer.
 
-**Titles.** *Water Wings* pays off from the bleacher line, "You won't need floaties." But it also reads as what keeps you afloat, and Cassie standing in the shallows is that. It quietly asks what Vee will hold onto when she goes out past the stripe. The series title, *With a Long Spoon*, and the book title, *A Polite Invitation*, sit very differently now. His *may I*, the dinner, and the "don't answer tonight" are polite invitations, and I wonder who is supping with whom. No tagline was supplied.
+My unease is all dramatic irony, and the text earned it. I know Pace pointed at her from a quad and sent Randi to collect her, and that Randi reported on the walk. Vee is filling the "odd" man's silences with charm. "Don't answer tonight" now reads to me as a man who knows exactly what a delay does. Vee thinks it's the nicest anyone has been to her. I ache for her and fear for her, and I can't tell yet whether Pace is warm, a manipulator, or both. I trust Cassie's instinct more than anyone's. The last image has her thumb hovering over the thread while the light goes to WALK and back. I want her to cross. I'm also holding a bad feeling.
 
-**Next.** I want to know whether she says yes on Saturday and when Randi surfaces. I guess she does, and that Cassie's unease will matter. I'm dreading what he'll do with all that trust.
+Friction: little. The bleacher catcalls are a bit stock, and "Legs for days" is the expected line. The "he folded into that chair like he'd measured it first" repeats an observation from the coffee shop.
 
-**Cast present (in person):** Vee, Cassie; the bleacher guys, a lifeguard, and a crowd, all incidental.
-**Mentioned only:** Pace, Randi (in Vee's thoughts), Vee's mother (a remembered voice).
+**Titles:** "Water Wings" comes from the "floaties" jeer, and it lands as double. It's a crude joke about her breasts. It's also a buoyancy aid, and Cassie standing in the shallows is Vee's water wings. It might also point at the unsafe deep end Vee is swimming toward. Her heart "going as if she'd just pushed up off the bottom of the deep end" in an earlier chapter fits. The series title, "With a Long Spoon" (Book One, "A Polite Invitation"), now reads sharply. "A Polite Invitation" is Pace's "May I call you?" and "Don't answer tonight," and the long spoon is the old advice for supping with the devil. I'm suspicious on Vee's behalf, but that's mostly inference from the title and what I already know. The packet showed no tagline.
 
-**Heat:** 1 — Vee's towel-and-shower wondering about his hands, with a faint warmth under it.
+**Next:** I expect Vee to say yes and go to dinner on Saturday. I'm dreading a scene where Pace is gentle and Vee is overwhelmed, with Randi watching. I want Cassie to stay in the shallows.
 
-**Romance:** 1 — Vee's budding interest in Pace, plus the unspoken, ambiguous warmth with Cassie.
+**Cast present (in person):** Vee, Cassie. Pace is only remembered, and Randi isn't mentioned. The bleacher guys and the lifeguard are on the page but unnamed.
 
-**Motifs & images:**
-- Repeat: Vee's mother's voice ("that's plenty," the floozies line from the cafe). Repeat: Vee's body as a "problem" and the covered-to-the-collarbone cardigan. Repeat: froyo and the text thread. Repeat: Cassie's flatness as a gift.
-- First sighting: water as the one place nobody wants anything. The scull. The rolled towel as armor. The "dropped backpack" versus "measured chair" contrast.
+**Heat:** 1 — a low simmer in the towel and hands-memory, and the chapter isn't really about it.
 
-**Symbolism:** The dark stripe on the pool floor, where the shallow ends and the deep begins, invites reading as a threshold. Cassie planted at the limit of her depth says something about how far she can follow.
+**Romance:** 2 — Vee's mounting infatuation, and Cassie's quiet devotion as a second current.
 
-**Characterization:** Vee deepens a lot, and Cassie gets warmer without losing herself. Pace is seen only from outside, as charming.
+**Motifs & images:** The towel rolled tight (first sighting). Deep end versus shallow (first sighting, with an echo of "pushed up off the bottom of the deep end"). Vee buttoned up and covered, the pool-suit version of the cardigan and the mother's voice. The rule-breaking dessert (froyo, repeat). Pace's hands (repeat from the coffee shop). A phone left facedown or held unanswered (repeat). The held thumb at the crosswalk. Cassie's "Goodbye, Vee" is partly answered by this gentler Cassie. The stray curl wound around her finger is new.
 
-**Pace — within the chapter:** Well-judged. The splash fight earns its length. The locker-room coda is a little long but it pays off at the crosswalk.
+**Symbolism:** The water as the one place her body was never taken. The shallow-end/deep-end stripe on the floor, and Cassie standing at her limit.
 
-**Pace — chapter to chapter:** A deliberate drop in temperature after "Tannin." It shifts the lens from the manipulators to the one being steered. It's a good pause, and the open ending (thumb over the keys) keeps momentum.
+**Characterization:** Cassie deepened a lot, Vee deepened, and Pace is only seen through Vee's rosy memory and goes unexamined.
+
+**Pace — within the chapter:** Well proportioned. The underwater passage earns its length, and the bench reverie runs slightly long.
+
+**Pace — chapter to chapter:** A deliberate cool-down after the heavy Randi and Pace run. It slows the momentum and also tightens the dread by returning to the target.

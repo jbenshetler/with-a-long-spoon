@@ -104,6 +104,15 @@ output = 10.00
 context_window = 1048576
 max_input = 920576
 max_output = 943718
+
+# gemini-4-hydrogen: read 2026-11-19 from the OpenRouter catalog — $1.50/$7.50
+# (batch $0.75/$3.75), 1M context.
+[models."google/gemini-4-hydrogen"]
+input = 1.50
+output = 7.50
+context_window = 1048576
+max_input = 920576
+max_output = 943718
 # catalog: google/gemini-4-carbon
 
 # kimi-k3.1-pro: read 2026-11-13 from the OpenRouter endpoints list. Author
