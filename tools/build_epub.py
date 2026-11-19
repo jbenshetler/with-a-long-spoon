@@ -611,7 +611,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
                       for fid, _, _, _, _, sp in files if sp)
     opf = f"""<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0"
-         unique-identifier="bookid">
+         unique-identifier="bookid" prefix="wals: urn:wals:epub#">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="bookid">urn:uuid:{book_id}</dc:identifier>
 <dc:title>{esc(vol["book_title"])}</dc:title>

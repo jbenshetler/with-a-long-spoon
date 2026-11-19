@@ -323,6 +323,7 @@ Run on the text Phases 1–2 leave.
 
 ### Typesetting
 - **Instrument:** skill `wals-epub` (`tools/build_epub.py`).
+- **Status:** `meta-plan-epub-status.md` (builds, covers, per-app device results).
 
 ### Proofread after typesetting
 - **Catches:** on-device (Books, Kindle) against the built epub: section-rule
