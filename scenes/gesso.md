@@ -236,7 +236,7 @@ Something came into the space instead.
 
 A face, close. Coming up to her slow, the way his had, from between her thighs — a dark curtain falling forward, and the mouth. That mouth. The line drawn a hair outside the lip, the gloss laid down the middle, an hour and a cold walk and none of it moved. All of it moved now. All of it wet with her, shining with her, the lipstick gone soft at the edges and the chin bright, and the mouth not wiping anything. Coming up to kiss her with it.
 
-Salt and lime, and her own taste over it, and under all of it — *what would Randi taste like* —
+Intense blue, never wavering. Deep berry on poppy, sliding with her own hot slick — *her first feminine taste* —
 
 She went over so hard her knees went. A sound got out of her, one short broken sound, and she caught the edge of the sink with the hand that had been on the wall and hung on to it while it went on and on, pulse after wrenching pulse, nothing left in her head at all.
 
