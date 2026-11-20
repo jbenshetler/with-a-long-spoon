@@ -7151,6 +7151,27 @@ text = "The song overhead gave way to a louder one, and something crossed his fa
 note = "Line edit 2026-08-13: re-armed by cutting 'genuinely'; the appositive is the point"
 
 [[ok]]
+fp   = "0227f4a20624"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "\"I saw her face.\""
+note = "Dialogue 'I saw her face' — author-approved comment-5 edit (standing sign-off 2026-11-14)"
+
+[[ok]]
+fp   = "4fa2e02d2c15"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "He felt her jaw set and begin to close, and his hand was on her face before he had decided anything, and moved her off."
+note = "Author ack: bite beat is body-before-mind; touch is his only evidence of her jaw"
+
+[[ok]]
+fp   = "539fd0b2c258"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "He felt how right she was, and liked it."
+note = "Author ack: 'felt how right she was' is bodily persuasion, not a filter; 'and liked it' carries his self-serving friction"
+
+[[ok]]
 fp   = "be2d044dc766"
 rule = "in-her-chest"
 file = "scenes/water-wings.md"

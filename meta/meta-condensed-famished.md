@@ -2,7 +2,7 @@
 
 *SCENE · Draft complete · `scenes/famished.md` · the first night · six days after the Fitting*
 
-The first night is the discharge of the Fitting's deferred tension. After the Fitting the week goes quiet; midweek, the morning he flies out to a three-day University of Chicago conference, Pace sends the invitation — *"Dinner Friday?"* — and returns in time for it. Six days separate the Fitting from the dinner, and the anticipation across them is the engine. The dinner does not happen before the sex. The motive is the deferment itself, not the dress (the dress pickup is a separate event).
+The first night is the discharge of the Fitting's deferred tension. After the Fitting the week goes quiet; midweek, the morning he flies out to a University of Chicago conference (three days away: out, the talk, back Friday), Pace sends the invitation — *"Dinner Friday?"* — and returns in time for it. Six days separate the Fitting from the dinner, and the anticipation across them is the engine. The dinner does not happen before the sex. The motive is the deferment itself, not the dress (the dress pickup is a separate event).
 
 ---
 
@@ -10,7 +10,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 **The quiet week / the text**
 - After the Fitting the week goes quiet; he's not much for midweek contact and they're too new for his quiet to read, so it tells her nothing; by Tuesday a first low anxiety — not a break from pattern (there is none yet), but not knowing what he made of what she let show at the Fitting, or what comes next
-- Midweek the text, the morning he flies to Chicago: *"Dinner Friday?"* — three days at the conference, back for it; she answers yes and the days close to a point
+- Midweek the text, the morning he flies to Chicago: *"Dinner Friday?"* — three days away, back for it; she answers yes and the days close to a point
 
 **The flannel night — the loop's first full pre-run, alone**
 - In bed in his flannel (she's slept in it since the hike), she breathes him in; the smell gone thin after a week of wearing it, fainter each night, so she has to chase it
@@ -94,7 +94,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 ## Continuity and Revision Notes
 
-> **Timeline.** Six days separate the Fitting from the dinner. Pace flies to a three-day University of Chicago conference midweek and sends *"Dinner Friday?"* the morning he leaves, returning in time for it — so the front of the week is quiet (a first low anxiety) and the sharp, dated anticipation is only the last couple of days. He mentioned the travel on the mountain (the hiking rainstorm) as logistics, not a credential.
+> **Timeline.** Six days separate the Fitting from the dinner. Pace flies to a University of Chicago conference midweek (out Wednesday, the talk Thursday, home Friday) and sends *"Dinner Friday?"* the morning he leaves, returning in time for it — so the front of the week is quiet (a first low anxiety) and the sharp, dated anticipation is only the last couple of days. He mentioned the travel on the mountain (the hiking rainstorm) as logistics, not a credential.
 
 > **The dress is not part of this scene.** {{Peekaboo}} is a separate event that precedes it. She doesn't come to retrieve the dress; he doesn't offer it as a pretext. The invitation stands alone.
 

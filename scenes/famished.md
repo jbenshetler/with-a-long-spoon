@@ -1,6 +1,6 @@
 # Famished
 
-After the fitting the week went quiet. He wasn't much for texting through the week, and they hadn't been at this long enough for her to know what his quiet meant, so it gave her nothing to read. By Tuesday she had started to wonder. She'd let something show at the fitting, and she didn't know what he'd made of it, or what came next. Then, midweek, the morning he flew to Chicago, the text came: *Dinner Friday?* Three days at a conference, and he would be back for it. She answered yes, and the days closed to a point.
+After the fitting the week went quiet. He wasn't much for texting through the week, and they hadn't been at this long enough for her to know what his quiet meant, so it gave her nothing to read. By Tuesday she had started to wonder. She'd let something show at the fitting, and she didn't know what he'd made of it, or what came next. Then, midweek, the morning he flew to Chicago, the text came: *Dinner Friday?* Three days away, and he would be back for it. She answered yes, and the days closed to a point.
 
 That night she lay in the flannel in the dark, her nose to the collar, and breathed him in, the smell of him gone thin after a week of her wearing it, fainter than the night before, so that she had to chase it. She was still chasing it when the word came: *floozie*, light, her mother's, quick and flat. Then her nipples tightened against the cloth, the heat arriving a beat behind the shame. She turned onto her side. It passed.
 

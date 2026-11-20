@@ -127,7 +127,7 @@ toward the bedroom ({{Four}}, the morning panel).
 this single space (the bathroom is off the hall, not in the room). **There is no separate "study"**
 (see Fixtures: "study" was an old object-word, now *trestle*). Contents on the page:
 - **The bench**, against the middle of a wall — with its top on, a working side table (see Fixtures). The women see it repeatedly, and use it, before they understand what it is.
-- A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
+- A **bed**, ~three steps from the bench, on a frame Pace built (`remembrance.md`); **cashmere blanket** at its foot; a
   **bedside table** (water bottle pre-staged for aftercare; his phone on a magnetic charger, his alarm — {{Nachtmusik}}).
 - A **chair** he folds her clothes onto.
 - A **chest of drawers** `[PAGE]` — his clothes; the **white undershirts are in the second drawer down** ({{Gone}}: Randi *opened the second one down without looking for it*). Vee's panties from the *"Trade."* ({{Famished}}) lie at the bottom of that drawer, under the undershirts (author ruling 2026-10-31). Distinct from the bathroom drawer where his toiletries live (below).
