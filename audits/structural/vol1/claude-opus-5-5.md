@@ -1,233 +1,225 @@
-*structural-diagnose-v1 · vol1 · model claude-opus-5-5 · chapters 1-23 · bundle da9b785b3cc5 · prompt fc4d24612820 · quotes verified 67/72 · 2026-11-19*
+*structural-diagnose-v1 · vol1 · model claude-opus-5-5 · chapters 1-24 · bundle 7be3b2a53066 · prompt fc4d24612820 · quotes verified 63/67 · 2026-11-20*
 
 LETTER
 
 Dear Helen,
 
-A Polite Invitation does two things very well, and the main problem is that only one of them is the book on the jacket.
+A Polite Invitation already does what a first volume in this genre has to do. A reader finishes it wanting the next one. The bench chapter is a strong opening. The reader is let in on the game in chapter 3, and that dramatic irony carries the middle of the book. The last chapter turns everything over. This letter is about the stretch between those points, where the volume loses momentum, and about whether the climax you've built is the right one for this book.
 
-The book that works is Vee's. Over twenty-three chapters a woman who covers herself in a cardigan becomes a woman who walks across a stage in a slit gown with nothing under it, and gives the room her leg on purpose. Every step is built and earned: the froyo cup she lets get away from her, "May I choose?", unbuttoning in the truck, the fitting, the first night, the dress in the mirror, the walk. The dress thread starts as a wish at the summit in Chapter 10 and pays off in Chapter 23, and it is the best-built line in the volume. Protect it.
+The biggest problem is that almost every event is told three times. Vee lives a scene, tells it to Cassie, then tells it to Randi or to the dining-hall girls. The dinner (8) is retold in 9 to Cassie and then to Randi. The hike and the shirt (10) are retold to Cassie in the same chapter and again to Meg and Kayla in 12. The fitting (14) is retold twice in 15. The first night (16) is retold twice in 17. The Randi retellings can stay, because what we're watching there is Randi's face and not Vee's story, and the lunch in 15 is one of the best scenes you have. The Cassie retellings mostly repeat what the reader has just watched, and so does chapter 12 as a whole. Across chapters 9–17, about a third of the pages go to retelling. Cutting it would bring chapters 18 and 23 forward and sharpen them.
 
-The book that doesn't yet work is the one the jacket sells: the game Randi and Pace started in bed. Chapter 3 sets it up superbly with the pointing game, "For us," and "Do you think she'll like the bench?" Then the plan stops moving. After Chapter 5, the three principals are never in a room together. The bench never comes back. No step toward the threesome is taken, planned or even discussed, apart from one argument in Chapter 18. Vee ends the volume knowing exactly what she knew in Chapter 4. A reader who bought "she was chosen in a game" and "how real it will get for each of them" will reach the last page with that promise neither paid nor sharpened. The volume's build does land, but it is a different build from the one advertised. You can either move the triangle onto the page or rewrite the jacket around Vee's arc. I'd strongly prefer the first.
+The Randi lunches also follow the same shape every time. Randi opens with a bad-date story (9, 15, 17), Vee checks the prices, Randi draws the confession out, and they say goodbye with a kiss on the curb. Each lunch does escalate, so the core of each one is earned: the scarf story, "You don't have to tell me", the deeper kiss. The repeated scaffolding around that core is what makes the reader feel they've been here before. Change the shape of at least one of them.
 
-Second: the volume ends without a hook. Chapter 23 closes on Vee's private pride and a photo sent to Berkeley. That's a lovely, quiet image, and it asks nothing of the next book. You have hooks lying around: Pace's "Not tonight" over the scar, Randi's tightening in Chapter 21, Brooke, Cassie, the credit card. None of them is pulled into the final pages. As it stands, nothing makes the reader buy Book Two except goodwill.
+Second, conflict arrives late. The only real confrontation in the book is the dinner in chapter 18, about three-quarters of the way in. Before that, the risks are opened and then left alone. Brooke files Pace's name away in chapter 2 and turns up again at the smoothie bar in 9. A tall sister watches Vee and never speaks. Randi sits on Standards, the board that disciplines other sisters, while living exactly the double life it exists to police. Brooke wonders whether Pace teaches Randi's section. Cassie notices Randi texting during the staged meeting in chapter 5 and says "Goodbye, Vee" in chapter 4. Each of these is a fuse, and none of them is lit in this volume. In 24 Brooke is reduced to "Damn Brooke." Cassie, your best suspicious witness, turns into a pure confidante. The reader never feels that discovery is close. Pace's house keeps traces of Randi, and you know it does: the bag on the chair, the cashmere blanket, "two towels on the rod." But Vee never walks past one at a dangerous moment.
 
-Third, and connected: Randi disappears from the inside. We get her interior in Chapters 1, 2 and the first half of 6. From then on we see her only through Pace, who misreads her, and Vee, who misreads her more kindly. The jacket line "She is the first woman Randi has ever let herself want" depends on Randi's change, and that change (the thumbnail under the glass rim, "It's selfish, Pace," the empty plate in Chapter 21) happens entirely offstage. Holding back her point of view works as dramatic irony for a while. Over sixteen chapters it starts to read as a principal the book has shut out. Chapter 1 ends with a vow, "she was not coming out again," that we never see her test from the inside. One Randi chapter in the back third, perhaps after the lunch in Chapter 15 or the shoe shop in Chapter 20, would change the whole shape of the volume.
+That links to an odd problem with the bench. It is the volume's first image and its first question ("Do you think she'll like the bench?"), and it is supposed to "sit there in the middle of the room." Yet when Vee finally enters the bedroom in 16, the room is "White walls. A bed… nothing decorative." Either the table has been moved and we need to know it, or a near-miss has been written out.
 
-Fourth: Pace is never made to face his own contradiction. He insists "She chooses it, Randi. Every step of it. Or it isn't anything." Yet he walked into the coffee shop in Chapter 5 on a cue from Randi's phone and has been courting Vee under a false premise ever since. The jacket names exactly this ("Every yes was freely given. That was the problem"). His own chapters (11, 18, 21) never touch it. His self-doubt in Chapter 18 is about Randi, not about the setup. Right now Pace reads as the ideal partner with a blind spot the book hasn't noticed, rather than one the book is studying. A single beat where he catches himself would turn him from a saint into a character.
+Third, the climax is missing both of the people who drive the story. The induction (23) is lovely and right for Vee: her shame turns into deliberate display, and that is the change the whole volume has earned for her. But Pace is in Berkeley and Randi is at an officers' meeting, and the chapter ends with the room folding the moment up and moving on. That quiet is deliberate, but a buyer of Book One is owed a payoff to the build the jacket sells, which is the triangle. Chapter 24 provides it, in effect, and it is a superb hook. It does rely on an unprepared reveal, though. Pace's passcode is Vee's birthday. Randi knows that birthday. And the code Randi tried first apparently used to work. One line earlier in the book, a phone unlocked in front of Randi, would let the reveal hit as a betrayal rather than as a contrivance.
 
-Fifth: the retelling. A large share of the middle is Vee telling Cassie, then Randi, sometimes Meg and Kayla too, about scenes we've just read. Chapter 9 retells Chapter 8 twice. Chapter 12 retells the hike. Chapter 15 retells Chapters 13–14 twice, at length. Chapter 17 retells Chapter 16 twice. What changes is what Vee leaves out for whom, and that's a real idea. But it can be done in a paragraph of edited summary plus the one new exchange, such as Randi's "You don't have to tell me." Right now Chapters 12–17 sag noticeably under recap. Randi's lunches also share a formula: first her own anecdote (the lacrosse bore, the scarf, the old boyfriend "in a hurry"), then her probing. Escalate them by changing the shape, not only the temperature. And tell the reader somewhere whether those anecdotes are inventions.
+Fourth, Pace barely changes, and the book's moral centre is left unexamined. The jacket's key line is "Every yes was freely given. That was the problem." Pace's creed in 18 is "She chooses it… Every step of it", and Vee does not know her best friend is his lover. Pace never once senses the irony. If you mean for him to be blind to it, the book needs one moment that shows it can see what he can't. Cassie or Christine could carry that, or Randi in 18. Otherwise readers may decide the book can't see it either. The chapter 22 backstory is good: Peter, the hallway, the desk, Daphne at nineteen. But it is all loaded into the chapter right before the climax, and part of it could be seeded earlier.
 
-Smaller points. You've set up a discovery risk and never let it tighten: Brooke has filed the name "Pace," Sloane knows the pickup, and Vee says his name all over campus. Cassie's "Goodbye, Vee" and her watchfulness build a sentinel who never acts. The climax removes both other principals by contrivance (a premature baby and an officers' meeting), so the payoff happens with neither of the people the volume is about in the room. The mother's word "floozie" and the "never been so happy" chapter endings come back often enough that readers will start to notice the pattern rather than feel it.
+What you must protect: the run of Randi-and-Pace evenings (6, 11, 18, 21, 24). They are built on the same ritual each time (the deadbolt, the music, "Tell me") and played as a barometer, so each variation reads as a change in her. Also protect the motif of Randi's eating, from the apple slices to the bowl she won't touch to the plate she clears. And protect the way your erotic scenes keep reversing shame, which is the genre done right.
 
-What to protect. Chapter 1's opening and its withheld name. Randi's body as the record of her inner life: the apple, the refused stew, the empty plate, the thumbnail. The patience of the build from the fitting to the first night. The humor in your intimate scenes (Chapter 19's dress is a joy). The careful misreadings that let readers stay one step ahead of Vee. These are the volume's real assets, and none of the fixes above needs to touch them.
-
-With admiration, and with the plan in mind,
-Your editor
+Below are the chapter map, the findings and the strengths.
 
 CHAPTER MAP
-1 | Hook: Pace's control, Randi undone, name reveal, Randi's vow to hide | DRAG: some
-2 | Randi's sorority world; secret relationship; Brooke's grilling | DRAG: none
-3 | Engine: threesome question, pointing game, Vee chosen | DRAG: some
-4 | Vee's POV begins; Randi befriends her; Cassie's "Goodbye" | DRAG: some
-5 | Staged meeting; Pace picks Vee up; froyo | DRAG: some
-6 | Randi's desire for Vee; "Tell" ritual with Pace | DRAG: none
-7 | Cassie, the pool, Vee's body history; "Don't answer tonight" | DRAG: some
-8 | First dinner; surrender to being chosen for; first kiss | DRAG: some
-9 | Retells the date twice; Brooke sees Randi with Vee; "dear friend" | DRAG: some
-10 | Hike, the dress wish, truck undressing | DRAG: none
-11 | Pace/Randi sex; Randi leaves for the first time | DRAG: none
-12 | Dining-hall friends retell the hike; house invitation | DRAG: heavy
-13 | House tour, Pace's backstory hints, silk offer | DRAG: some
-14 | The fitting: exposure turns to power | DRAG: some
-15 | Cassie recap, Randi lunch, Randi's mouth kiss | DRAG: heavy
-16 | Consummation; panties "Trade" | DRAG: none
-17 | Cassie recap and Randi brunch; longer kiss | DRAG: some
-18 | Randi/Pace quarrel; refused stew; "selfish" | DRAG: none
-19 | Finished dress; comic, passionate sex | DRAG: none
-20 | Dress shown to Randi; shoes; credit card | DRAG: some
-21 | Randi/Pace reconcile; Randi eats; talk of Vee | DRAG: none
-22 | Pace can't attend; Peter, Daphne, scar withheld | DRAG: some
-23 | Induction walk: Vee's arc pays off | DRAG: none
+1 | Opening set-piece: Randi broken open on the bench, then hiding again; reveals who "she" is | DRAG: none
+2 | Randi's sorority double life; Brooke's suspicion seeded | DRAG: none
+3 | The pointing game; Vee chosen; the conspiracy set up | DRAG: none
+4 | Vee's POV; Randi courts her; Cassie's wary "Goodbye" | DRAG: some
+5 | Staged meeting with Pace; integral; froyo | DRAG: none
+6 | Randi's want for Vee; first "Tell me" | DRAG: none
+7 | Vee and Cassie at the pool; Vee's body history; Pace's "Don't answer tonight" | DRAG: some
+8 | First dinner; Vee hands over the choice; first kiss | DRAG: some
+9 | Retell to Cassie; first Randi debrief; Brooke; "dear friend" | DRAG: some
+10 | Hike, rain, truck undressing; told to Cassie again | DRAG: none
+11 | Randi's jealous want; "I want us"; she leaves without staying | DRAG: none
+12 | Dining-hall retell of the shirt; invitation to his house | DRAG: heavy
+13 | House tour, patent, the silk reveal | DRAG: some
+14 | The fitting; shame turns into power | DRAG: none
+15 | Fitting retold to Cassie, then to Randi; scarf story; first kiss | DRAG: heavy
+16 | Consummation; panty trade | DRAG: none
+17 | Retold to Cassie and to Randi; deeper kiss | DRAG: some
+18 | Randi won't eat; "It's selfish"; first open conflict | DRAG: none
+19 | Dress finished; sex in the dress | DRAG: none
+20 | Simpson's paradox class; Randi sees the dress; shoe shopping; debt | DRAG: some
+21 | Randi admits her want for Vee; stays and eats | DRAG: some
+22 | Pace's absence announced; Peter, Daphne, the scar | DRAG: some
+23 | Induction; Vee's deliberate display | DRAG: none
+24 | Airport; Randi impersonates Pace by text and erases it | DRAG: none
 
 FINDINGS
 FINDING 1
-CATEGORY: threads
-CHAPTERS: 3, 5–23
-SEVERITY: major
-CLAIM: The game the jacket sells is set up in Chapter 3 but never advanced, and the three principals never share a scene after Chapter 5.
-EVIDENCE: Chapter 3 ends "Do you think she'll like the bench?" and the bench never reappears. Chapter 5's "'Randi,' said Randi" is the last scene with all three present. The plan is discussed only once, in Chapter 18 ("How long are you going to take?"), and nothing comes of it. Vee's knowledge at the end of Chapter 23 is the same as in Chapter 4.
-QUESTION: What step of the plan has to happen on the page in this volume for a reader of Book One to feel the jacket's promise was kept?
-
-FINDING 2
-CATEGORY: opening-ending
-CHAPTERS: 21–23
-SEVERITY: major
-CLAIM: The volume ends without a hook into Book Two.
-EVIDENCE: The last beat is private and closed: "He would have no idea what else was in the frame. That part was hers." (Chapter 23). Live threads such as "Not tonight" (Chapter 22) and Randi's tightening in Chapter 21 are not brought into the final pages.
-QUESTION: What question do you want the reader carrying out of the final page, and how could it reach Chapter 23?
-
-FINDING 3
-CATEGORY: pov
-CHAPTERS: 1, 2, 6, 7–23
-SEVERITY: major
-CLAIM: Randi's interior is dropped after Chapter 6, so the jacket's central change ("the first woman Randi has ever let herself want") happens entirely offstage.
-EVIDENCE: Randi has point of view in Chapter 1 (bathroom), Chapter 2 and Chapter 6 (first half). After that she is seen only through Pace or Vee. Her vow, "The one he had found was going back behind it, and she was not coming out again" (Chapter 1), is never tested from the inside. "It's selfish, Pace" (Chapter 18) is never explained from her side.
-QUESTION: Would one Randi chapter late in the volume cost you an irony you need, or would it pay for itself?
-
-FINDING 4
 CATEGORY: repetition
 CHAPTERS: 9, 10, 12, 15, 17
 SEVERITY: major
-CLAIM: Vee retelling scenes the reader has just seen fills a large share of the middle third.
-EVIDENCE: Chapter 9 retells Chapter 8 to Cassie, then to Randi ("May I. Not can I."). Chapter 10 ends by retelling the hike to Cassie. Chapter 12 retells it again to Meg and Kayla. Chapter 15 retells the fitting to Cassie ("And then he says, *the bra too.*") and then to Randi. Chapter 17 retells the first night to both.
-QUESTION: Could each retelling be reduced to what Vee leaves out plus the one exchange that's new?
+CLAIM: Nearly every major Vee scene is narrated again once or twice in debrief scenes that add little the reader didn't see first-hand.
+EVIDENCE: The dinner (8) is retold to Cassie and Randi in 9. The hike (10) is told to Cassie at the end of 10 and again in 12 ("Okay, but the shirt. You have to tell the shirt."). The fitting (14) is told to Cassie and then Randi in 15. The night of 16 is told to Cassie and Randi in 17. The Cassie half of 15 alone runs as long as a full scene.
+QUESTION: Which retellings change something, a relationship or a piece of knowledge, and could the rest become a line of summary?
+
+FINDING 2
+CATEGORY: stakes
+CHAPTERS: 2, 9, 18–24
+SEVERITY: major
+CLAIM: The threats to the secret are set up early and never escalated, so the middle runs on dramatic irony with no sense that discovery is coming.
+EVIDENCE: Ch 2: "said Brooke, like she was filing it" and "Not his section." Ch 9: "The taller one had not said a word." After that Brooke has no role until ch 24's "Damn Brooke." The tall sister never comes back. Randi's seat on Standards is never put at risk.
+QUESTION: What does Brooke know by the end of Book One, and should the reader feel her getting closer before chapter 24?
+
+FINDING 3
+CATEGORY: opening-ending
+CHAPTERS: 23, 24
+SEVERITY: major
+CLAIM: The volume's set-piece climax happens with both drivers of the plot offstage, so the triangle the jacket sells gets its payoff only through the coda.
+EVIDENCE: Ch 23: Pace is in Berkeley and Randi is at a meeting. The moment ends with "Whatever the room had understood it folded up and put away, as rooms do, and moved on." The triangle's real turn is ch 24's text impersonation.
+QUESTION: Is the induction meant to be Book One's peak, and if so, how could Randi's or Pace's presence (or absence) bear on it more directly?
+
+FINDING 4
+CATEGORY: threads
+CHAPTERS: 24
+SEVERITY: major
+CLAIM: The closing hook depends on facts the book never set up: Pace's passcode, a change to it, and Randi knowing Vee's birthday.
+EVIDENCE: Ch 24: "Her thumb put it in before she had thought about it. The screen shivered and wiped the dots away." Then her own birthday fails, and then "Then she put in Vee's." "It opened." No earlier chapter mentions his phone code or Vee's birthday.
+QUESTION: When did Pace change his code, what was it before, and can one earlier beat let the reader feel this reveal land?
 
 FINDING 5
 CATEGORY: characterization
-CHAPTERS: 5, 11, 18, 21
+CHAPTERS: 3, 5, 6, 11, 18, 21
 SEVERITY: major
-CLAIM: Pace's consent ethic is never set against his part in deceiving Vee, so the jacket's stated problem goes unexamined inside the character it most concerns.
-EVIDENCE: "She chooses it, Randi. Every step of it. Or it isn't anything." (Chapter 18). He arrived at the coffee shop on cue: "Randi was texting — thumbs quick, eyes down" (Chapter 5). His self-scrutiny in Chapter 18 ("He did not know what he had done") is entirely about Randi.
-QUESTION: Does Pace know he is deceiving Vee, and if he does, where in this volume does he flinch from it?
+CLAIM: Pace never feels any unease about deceiving Vee, so the jacket's central irony ("Every yes was freely given. That was the problem.") is never dramatized on the page.
+EVIDENCE: Ch 18: "She chooses it, Randi. Every step of it. Or it isn't anything." Across his POV chapters, his only scruple is keeping Vee's confidences from Randi (ch 11: "and he kept it"). He never considers that Vee doesn't know Randi is his lover.
+QUESTION: Does the book know what Pace doesn't, and where can a reader see that it knows?
 
 FINDING 6
 CATEGORY: repetition
 CHAPTERS: 9, 15, 17
 SEVERITY: moderate
-CLAIM: Randi's lunches repeat one formula (her own romantic anecdote, then her probing of Vee), and it is never confirmed whether the anecdotes are invented.
-EVIDENCE: Chapter 9: "My love life is a disaster. Friday. A date." Chapter 15: "So I let this beautiful idiot take me home." Chapter 17: "I ran into an old boyfriend on campus." Randi is with Pace throughout, and the text never says whether these stories are true.
-QUESTION: Are these stories lies, coded versions of Pace, or affairs, and could the third lunch break the pattern?
+CLAIM: The Randi lunches repeat the same scaffolding: a fake bad-date story, Vee checking prices, a confession extracted, and a goodbye kiss.
+EVIDENCE: Ch 9: "My love life is a disaster." Ch 15: "So I let this beautiful idiot take me home." Ch 17: "I ran into an old boyfriend on campus." Ch 15: "read the right side first. The column of prices." Ch 17: "read the right side first, the prices, as she always did". "See you soon, gorgeous." closes both 15 and 17.
+QUESTION: Could one lunch break the pattern, with Randi skipping her story or Vee refusing to confess?
 
 FINDING 7
-CATEGORY: stakes
-CHAPTERS: 2, 9, 10, 15
+CATEGORY: threads
+CHAPTERS: 1, 3, 13, 16, 19
 SEVERITY: moderate
-CLAIM: A discovery risk is set up and never tightened, so the danger stays flat across the volume.
-EVIDENCE: Brooke files the name, "That's actually his name? Like he goes by Pace?" (Chapter 2). Sloane knows the white pickup behind Hahn (Chapter 2). Brooke meets Vee with Randi in Chapter 9, alongside a silent companion: "The taller one had not said a word." Vee says Pace's name freely and his truck stops at her dorm (Chapter 10). None of this comes back.
-QUESTION: Who in Randi's world is closest to joining "Pace" and "Vee," and when does that start to press?
+CLAIM: The bench is the opening image and the first question about Vee, then disappears, including from the bedroom where ch 1 said it stands.
+EVIDENCE: Ch 1: the bench is "in the middle of the room… waiting for the next time." Ch 3: "Do you think she'll like the bench?" Ch 16 describes the bedroom only as "White walls. A bed that was large and low and simply made, plain white sheets, nothing decorative."
+QUESTION: Where is the table when Vee sleeps in that room, and is there a near-miss available there?
 
 FINDING 8
-CATEGORY: threads
-CHAPTERS: 1, 3
+CATEGORY: secondary-cast
+CHAPTERS: 4, 5, 9, 10, 15, 17, 23
 SEVERITY: moderate
-CLAIM: The kink register and the bench, set up in the opening as the volume's signature, are dropped, so the genre expectation from Chapter 1 goes unmet.
-EVIDENCE: Chapter 1 closes on the bench "waiting for the next time." In Chapter 3 Randi asks if Vee will like it. Every Vee scene from 14 to 19 is courtship and tender sex, and the bench is never mentioned again.
-QUESTION: Is the bench deferred on purpose, and if so, can it at least come back into view before the end?
+CLAIM: Cassie is set up as the one person who sees through Randi, then becomes only a confidante.
+EVIDENCE: Ch 4: "Goodbye, Vee." Ch 5: "Cassie was watching Randi thumb at her phone, her own pencil stopped in her hand." Ch 9: "whatever had been in them was folded away." From ch 10 onward she only listens and supports.
+QUESTION: What does Cassie suspect, and should Book One let her act on it once?
 
 FINDING 9
-CATEGORY: scene-function
-CHAPTERS: 18, 21
+CATEGORY: pov
+CHAPTERS: 2, 6, 24
 SEVERITY: moderate
-CLAIM: The Chapter 18 rupture is resolved in Chapter 21 without any exchange about it.
-EVIDENCE: Chapter 18 ends "He did not know what he had done." Chapter 21 resumes warm intimacy, signalled only by "When she set it down, there was nothing left on it," and Randi's belated "How did your presentation in Chicago go?" Neither of them names the quarrel.
-QUESTION: Is the silence the point, and if so, can Pace at least register that it went unspoken?
+CLAIM: Randi's own interiority goes dark from ch 6 to ch 24, though the jacket and ch 1 make her the hidden centre of the book.
+EVIDENCE: Randi's POV appears in ch 1 (bathroom), ch 2, the first half of ch 6, and the end of ch 24. From ch 7 to 23 she is seen only through Vee and Pace. Her vow in ch 1, "she was not coming out again", is never revisited from inside her.
+QUESTION: Would a single Randi-POV scene in the middle (after 15 or 18) strengthen ch 24, or would it spend the mystery?
 
 FINDING 10
-CATEGORY: opening-ending
-CHAPTERS: 22, 23
+CATEGORY: pacing
+CHAPTERS: 7–17
 SEVERITY: moderate
-CLAIM: The climax removes both other principals by contrivance, so the payoff happens with neither of the people the volume is about present.
-EVIDENCE: "My supervisor's baby came early." (Chapter 22). Randi has "an officers' meeting at the house that afternoon" (Chapter 23). Only Cassie watches.
-QUESTION: Is Randi's absence a choice she makes, and could the reader be allowed to suspect it?
+CLAIM: The volume's first real conflict comes in ch 18; before that, eleven chapters run on Vee's delight and the reader's knowledge of the game.
+EVIDENCE: Chapters 7–17 are Vee's courtship, the fitting and consummation, interleaved with retellings. The first open friction between Pace and Randi is ch 18's "It's selfish, Pace." Ch 11's early departure ("She had never left after.") is the only earlier crack.
+QUESTION: Could the 18-level friction surface sooner, perhaps by moving the ch 11 crack earlier or sharpening it?
 
 FINDING 11
-CATEGORY: secondary-cast
-CHAPTERS: 4, 5, 9, 15, 17, 20
+CATEGORY: pacing
+CHAPTERS: 22
 SEVERITY: moderate
-CLAIM: Cassie is set up as a watcher who sees through Randi but never acts, and otherwise serves mainly as a listener for Vee's debriefs.
-EVIDENCE: "Goodbye, Vee." (Chapter 4). She watches Randi text (Chapter 5) and folds a look away in Chapter 9. "Something crossed her face" when Vee comes home (Chapter 17). In Chapters 9, 10, 15 and 17 she mostly receives Vee's account.
-QUESTION: What does Cassie want, and what does she do about it in this volume?
+CLAIM: Most of Pace's backstory is loaded into the chapter right before the climax, which slows the approach to it.
+EVIDENCE: Ch 22 delivers Peter ("My real name is Peter,"), his age, college at fifteen, the hallway desk, Daphne ("She was nineteen."), lifting and the scar ("Not tonight,"), all in one long conversation. Ch 1 had seeded only "Daphne had built a door, once."
+QUESTION: Which of these facts could be seeded in 8, 13 or 16 so ch 22 lands one revelation rather than six?
 
 FINDING 12
-CATEGORY: threads
-CHAPTERS: 1, 13, 16, 22
+CATEGORY: repetition
+CHAPTERS: 4, 10, 14, 16, 19
 SEVERITY: moderate
-CLAIM: Pace's backstory piles up withheld mysteries with nothing paid off, and the two accounts of Daphne are never set against each other.
-EVIDENCE: "Daphne had built a door, once, and he had not respected it." (Chapter 1) against "Nothing happened. Nobody did anything wrong." (Chapter 22). Also "Something crossed him at *parents*" (Chapter 13), "a scar, large, high on the inside of his thigh" (Chapter 16) and "Not tonight" (Chapter 22).
-QUESTION: Which one of these could be paid off in Book One so the others read as deferred rather than hoarded?
+CLAIM: The mother's word "floozie" is the main device for Vee's shame every time it appears, and its sameness hides how much her arc is actually moving.
+EVIDENCE: Ch 4: "Floozies, Vee thought". Ch 10: "The voice said floozie in her mother's exact word". Ch 16: "That was the worst it had." Ch 19: "The word flared up automatic and her face went hot".
+QUESTION: Could the voice itself change, getting weaker or turning into something else, so the reader can track the arc through it?
 
 FINDING 13
-CATEGORY: repetition
-CHAPTERS: 10, 14, 16, 19, 23
-SEVERITY: moderate
-CLAIM: The mother's-voice shame beat comes back in similar language often enough that its development blurs.
-EVIDENCE: "The voice said *floozie* in her mother's exact word" (Chapter 10). "*floozie*, light, her mother's, quick and flat" (Chapter 16), repeated several more times in that chapter. Chapter 14 has "stripper," Chapter 19 another "Floozie."
-QUESTION: Can each recurrence mark one clear step in its turning from shame to heat, and could some be cut?
+CATEGORY: world
+CHAPTERS: 5, 13, 16, 22
+SEVERITY: minor
+CLAIM: Pace's professional world is nearly empty: no colleagues, students, office or gym partners on the page.
+EVIDENCE: David (the supervisor) appears only by phone and by text. Christine (ch 8) is Pace's only acquaintance who appears on the page. Ch 2 raises the possibility that he teaches sections, and he is never seen teaching. His whole life is the house.
+QUESTION: Is his isolation the point, and if so, can the book say so once?
 
 FINDING 14
-CATEGORY: repetition
-CHAPTERS: 4, 9, 17, 20, 22
+CATEGORY: time
+CHAPTERS: 5, 10, 21, 22, 23
 SEVERITY: minor
-CLAIM: Chapters keep closing on the same ironic superlative of Vee's happiness.
-EVIDENCE: "It was the best hour she'd had in months." (Chapter 4). "She felt picked." (Chapter 9). "She had never in her life been so happy." (Chapter 17). "that she had never once in her life had a friend like this." (Chapter 20). "She had never been so fortunate, or so happy." (Chapter 22).
-QUESTION: Which of these closers is the one you need, and what could the others end on instead?
+CLAIM: A few time and logistics slips stand out against otherwise careful day-counting.
+EVIDENCE: Ch 10: "her mother yes and her father no for work". Ch 23: "The flight cost more than they had" (no change of plan is shown). Ch 21 has Randi asking "How did your presentation in Chicago go?" more than a week after the trip. Ch 22: "And not ten days after that", while ch 5 implies the staged meeting came within days.
+QUESTION: Do you keep a calendar for this volume, and can these be checked against it?
 
 FINDING 15
-CATEGORY: threads
-CHAPTERS: 2, 12
+CATEGORY: other
+CHAPTERS: 14, 15
 SEVERITY: minor
-CLAIM: Several small setups are opened and dropped.
-EVIDENCE: Randi "sat on the board herself, Standards" (Chapter 2), an ironic post for a secret affair, is never used again. Kayla's "We're doing hair Saturday. I'm coming to your room. This is happening." (Chapter 12) is skipped; Chapter 13 opens with Vee already driving. The taller woman with Brooke in Chapter 9 never returns.
-QUESTION: Which of these are Book Two seeds, and which can be cut?
+CLAIM: Vee's account to Cassie contradicts the staging of the fitting, and the book doesn't mark it as embellishment.
+EVIDENCE: Ch 14: "When he knelt at the back of her she bent into it more than the dress asked". Ch 15: "When he was pinning the back seam." This is offered as feeling his body against her ass, which isn't possible if he was kneeling.
+QUESTION: Is Vee exaggerating to Cassie on purpose, and if so, should someone notice?
 
 FINDING 16
-CATEGORY: world
-CHAPTERS: 5, 8, 16, 22
+CATEGORY: other
+CHAPTERS: 24
 SEVERITY: minor
-CLAIM: Pace's professional life exists only as a source of absences, so his world is thinner than the women's.
-EVIDENCE: The Chicago conference (Chapter 16) and the Berkeley talk (Chapter 22) serve only to take him away. He has no colleague, student, friend or department on the page. "Four years he'd been in town" (Chapter 8) and nobody he knows there appears except Christine.
-QUESTION: Who in Pace's life besides Randi and Vee could stand on the page once?
+CLAIM: A leftover from revision duplicates a beat in the final chapter, the one place the manuscript most needs to read cleanly.
+EVIDENCE: Ch 24: "She puts him flat on the bed, crawled up with a feline flourish" is followed at once by an alternative version of the same action ("She did not let him lie down…").
+QUESTION: Which version stays?
 
 FINDING 17
-CATEGORY: time
-CHAPTERS: 3, 15, 21, 22
+CATEGORY: threads
+CHAPTERS: 20
 SEVERITY: minor
-CLAIM: The timeline is plausible but very compressed, and a few markers jar.
-EVIDENCE: Randi and Pace are only "Four weeks in" when the game starts (Chapter 3), which is thin ground for the triangle. The full transformation runs "Six weeks ago" (Chapter 22). Vee's shame in Chapter 15 is counted at "seventeen days." Randi first asks about Chicago roughly ten days after the trip (Chapter 21).
-QUESTION: Is the speed itself a point the book means the reader to notice?
+CLAIM: Vee's credit-card debt is given weight and then dropped within the volume.
+EVIDENCE: Ch 20: "There was nothing under it." Chapters 21–24 never mention money again.
+QUESTION: Is the debt meant to become a pressure point Randi could exploit, and does Book One need one more mention of it?
 
 STRENGTHS
 STRENGTH 1
-CHAPTERS: 1
-CLAIM: The opening holds back identity, so the reader assumes the jacket's heroine and is turned around by the name.
-EVIDENCE: "There you are, Randi." (Chapter 1), followed by the bathroom passage that sets up Randi's hiding.
+CHAPTERS: 1–3
+CLAIM: The opening withholds who "she" is and then reframes the jacket, so the reader starts with an earned shock and then the irony that drives the volume.
+EVIDENCE: Ch 1 ends "There you are, Randi." Her vow, "she was not coming out again", turns in ch 3 into steering desire onto a third person: "I point. You pick." Ch 3 then closes with "Do you think she'll like the bench?"
 
 STRENGTH 2
-CHAPTERS: 10, 13, 14, 19, 20, 23
-CLAIM: The dress is a fully built line from setup to payoff and carries Vee's arc.
-EVIDENCE: The wish at the summit (Chapter 10), the silk (Chapter 13), the fitting (Chapter 14), the slit in the mirror (Chapter 19), the shoes (Chapter 20), and the walk where she "made the second step long" (Chapter 23).
+CHAPTERS: 6, 11, 18, 21, 24
+CLAIM: The Pace–Randi evenings are a repeated ritual played as a barometer, so each variation reads as a change in her.
+EVIDENCE: "Tell me" is asked (6, 11) and then withheld (18). She leaves (11: "She had never left after.") and then stays down (21: "Tonight, she had stayed down."). Ch 24 ends with the phone.
 
 STRENGTH 3
-CHAPTERS: 1, 3, 15, 18, 21
-CLAIM: Randi's body records what her point of view withholds, through food and the thumbnail.
-EVIDENCE: The apple and "set the sharp inner edge of the cap under her thumbnail and pressed" (Chapter 1). "I can't eat that" (Chapter 3). "set the edge of it in under the nail, bearing down" (Chapter 15). The untouched stew (Chapter 18). "When she set it down, there was nothing left on it." (Chapter 21).
+CHAPTERS: 1, 3, 18, 21
+CLAIM: Randi's eating is a precise, quiet thread that charts her inner life without exposition.
+EVIDENCE: Ch 1 has the thin apple slices. Ch 3: "I can't eat that." Ch 18: "the one line she had drawn through it still there." Ch 21: "When she set it down, there was nothing left on it."
 
 STRENGTH 4
-CHAPTERS: 4, 5, 15, 20
-CLAIM: Vee's careful misreadings sustain the dramatic irony without making her a fool.
-EVIDENCE: She hears Randi's Kentucky accent as "a school in Switzerland" (Chapter 4). She reads Randi's busy hands as boredom (Chapter 5). She decides Randi is "moved" (Chapter 15) and guesses Randi's quiet is envy of a devoted man (Chapter 20).
+CHAPTERS: 14, 16, 19, 23
+CLAIM: The erotic scenes move character. Each one changes how Vee relates to shame, building to a public act of choice.
+EVIDENCE: Ch 14 turns on his smile at her exposure. Ch 16: "the shame ran the whole length of it and never closed her". Ch 19 has her taking off the underwear herself. Ch 23 has the deliberate long step: "She took a breath, and made the second step long."
 
 STRENGTH 5
-CHAPTERS: 8, 14, 16
-CLAIM: Pace's "asks before he takes" is consistent, and its delays produce real erotic build.
-EVIDENCE: "May I choose?" (Chapter 8). "Keep still," chosen over the easy yes (Chapter 14). "Would you be bothered if I was too hard?" (Chapter 16).
+CHAPTERS: 4, 5, 9, 15, 20
+CLAIM: The staged scenes read two ways. Vee's innocent reading and the reader's knowing reading run together without either being announced.
+EVIDENCE: Ch 5 has Randi's Bessel question and "Randi's hand went to her coffee cup." Ch 9: "Paul?" Ch 4: Vee hears the Kentucky accent as foreign, which ch 24 pays off with "Kentucky all the way up in it."
 
 STRENGTH 6
-CHAPTERS: 15, 19, 20
-CLAIM: Humor inside intimacy gives the volume tonal range and makes the characters likeable.
-EVIDENCE: "Ow. Don't point down." and "There's a lot of you covered in a lot of me." (Chapter 19). "Do yetis shop here?" (Chapter 20). "It was cold in the house." (Chapter 15).
-
-STRENGTH 7
-CHAPTERS: 3
-CLAIM: The pointing game dramatizes Randi's desire as play and launches the plot in a single walk.
-EVIDENCE: "I point. You pick." and Randi's bare "Yes" on seeing Vee (Chapter 3).
+CHAPTERS: 2–5, 10, 13
+CLAIM: The setting is concrete and believable: a real campus, real roads, sorority mechanics and the economics of class.
+EVIDENCE: Hahn, Draper, Prices Fork and 460 are named. Ch 2 gives the Standards single room and the board's politics. Vee checks the right-hand column of prices. Pace's patent pays for a fixer-upper at the end of a gravel road.
 
 
 ## Unverified quotes
 
-- “ Sloane knows the pickup, and Vee says his name all over campus. Cassie's ”
-- “ and her watchfulness build a sentinel who never acts. The climax removes both other principals by contrivance (a premature baby and an officers' meeting), so the payoff happens with neither of the people the volume is about in the room. The mother's word ”
-- “never been so happy”
-- “ Chapter 19 another ”
-- “ chosen over the easy yes (Chapter 14). ”
+- “She did not let him lie down…”
+- “ is asked (6, 11) and then withheld (18). She leaves (11: ”
+- “) and then stays down (21: ”
+- “ Ch 4: Vee hears the Kentucky accent as foreign, which ch 24 pays off with ”

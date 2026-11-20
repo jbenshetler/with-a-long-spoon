@@ -82,13 +82,11 @@ He pulled the pin out of her hair and it came down all at once. He knew how the 
 
 He took her as she had asked him to. She was wet and smooth as she had promised and she pushed back into every stroke of it with a sound in her throat each time, her fingers twisted in the comforter, her black hair everywhere, saying *yes* and *yes* and *harder* into the bed, and it was hard and it was quick, three days of it, and he came in her with his hands locked on her hips and his face in the back of her neck.
 
-She puts him flat on the bed, crawled up with a feline flourish, and took him in her mouth while he was still wet from her, slow now, looking up at him.
-
-She did not let him lie down. She turned in his arms and kissed him and slid down him to her knees on the rug, and took him in her mouth while he was still wet from her, slow now, looking up at him.
+She put him flat on his back on the bed and crawled up after him with a feline flourish, and took him in her mouth while he was still wet from her, slow now, looking up at him along the length of him.
 
 "She looked so good in it, Pace," she said, when she let him go. Her hand kept on. "When she showed it to me. I put my hands on it. Soft. Smooth. I ran my hand right down her hip in it, and there was nothing there. Nothing under it at all. Just the silk and then her." Her mouth came back and went away. "Almost nothing between my hand and her skin."
 
-He saw it. He could not help seeing it. The two of them in this bed, the black hair and the red on his pillows, the burgundy gone off Vee and onto the floor, and Randi's dark head bent to Vee's breast, Vee's pale pink nipple drawn in between Randi's lips and Vee's hand coming up to hold her there. He went hard again in Randi's mouth, and she felt it, and laughed low around him, and pushed him back onto the bed.
+He saw it. He could not help seeing it. The two of them in this bed, the black hair and the red on his pillows, the burgundy gone off Vee and onto the floor, and Randi's dark head bent to Vee's breast, Vee's pale pink nipple drawn in between Randi's lips and Vee's hand coming up to hold her there. He went hard again in Randi's mouth, and she felt it, and laughed low around him, and came up the bed over him.
 
 This time she was on top. She rode him as she did when she meant to keep him, slow and then not slow, her hair down around both their faces, the citrus and the green of her, the blue of her toes against his calves, her hands flat on his chest and her eyes on his the whole time. When she came she said his name, and he came after her, and she sank down onto his chest and stayed.
 

@@ -133,9 +133,21 @@ def run_model(model: str, system: str, user: str, label: str, effort: str) -> st
         return authorship_audit.run_claude(model, system, user, label)
     import cold_read
     if not model.startswith("gpt-"):
-        # OpenRouter lanes (carbon, kimi) are wired when the author authorizes them;
-        # mirror capture_panel.openrouter_lane then.
-        raise NotImplementedError(f"OpenRouter lane not wired yet for {model}")
+        # OpenRouter (paid): the reader block's provider_model, routed through the
+        # shared adapter so the quantization floor and per-call cost line apply.
+        import os
+        import cold_read_config
+        provider = cold_read_config.openrouter_models().get(model)
+        if not provider:
+            raise SystemExit(f"{model} has no provider_model in ensemble-config.toml")
+        key = os.environ.get("OPENROUTER_API_KEY")
+        if not key:
+            raise RuntimeError("OpenRouter lane needs OPENROUTER_API_KEY (author-authorized)")
+        print(f"[auth] openrouter lane {model} — billing PER TOKEN (author-authorized)",
+              flush=True)
+        fn = cold_read.make_openrouter_agent_fn(
+            system_prompt=system, policy="structural", effort=effort, api_key=key)
+        return fn(prompt=user, model=provider, label=label).get("output") or ""
     fn, close = cold_read.make_codex_agent_fn(system_prompt=system, effort=effort)
     try:
         return fn(prompt=user, model=model, label=label).get("output") or ""
@@ -165,7 +177,8 @@ def diagnose(args) -> None:
         if out.exists() and not args.fresh:
             return f"skip {m} (exists)"
         last_err = None
-        for attempt in range(2):
+        # A paid lane gets one attempt: a retry re-bills the whole volume.
+        for attempt in range(2 if (m.startswith(CLAUDE_PREFIX) or m.startswith("gpt-")) else 1):
             t0 = time.time()
             try:
                 raw = validate(run_model(m, system, user, f"structural-{d.name}-{m}",

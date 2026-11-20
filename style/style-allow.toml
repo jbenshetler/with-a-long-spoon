@@ -3637,6 +3637,13 @@ text = "She took him in increments, warmth closing around him, until he was deep
 note = "author ack 2026-11-02 (after the arrival move)"
 
 [[ok]]
+fp   = "a08e632b0f1d"
+rule = "filter-verbs"
+file = "scenes/nachtmusik.md"
+text = "He went hard again in Randi's mouth, and she felt it, and laughed low around him, and came up the bed over him."
+note = "re-armed by author-approved blocking fix (bed, not rug)"
+
+[[ok]]
 fp   = "b505276c7064"
 rule = "the-way"
 file = "scenes/nachtmusik.md"

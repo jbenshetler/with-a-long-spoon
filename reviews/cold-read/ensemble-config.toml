@@ -220,6 +220,11 @@ effort = "high"
 timeout = 2400
 max_output_tokens = 32000
 
+[openrouter.policy.structural]    # structural_edit diagnose — whole-volume letter
+effort = "high"
+timeout = 2400
+max_output_tokens = 40000
+
 [openrouter.policy.capture]       # capture_dag / capture_panel
 # Raised 16000 -> 20000 (author ruling 2026-09-24). `max_output_tokens` is
 # shared between reasoning and visible output, so a reader that thinks hard
