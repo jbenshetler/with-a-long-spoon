@@ -208,6 +208,10 @@ Cassie's *I told you so* about Randi can land quietly, earlier in the conversati
 
 ---
 
+## The Message — {{Nachtmusik}}, {{Made-Up}} (author rulings 2026-11-20)
+
+Vee receives, from Pace's phone, a line he did not write — *The way that dress hugs your tits makes me wish I was a dress.* She is delighted, not offended: she believes the dress and the shoes broke him out of his respectful self. She replies at once, and the thread is deleted on his side without her knowing. She rereads it (the tenth time, at {{Made-Up}}) and **never mentions it to Pace.**
+
 ## What She Carries Forward
 
 **She keeps:** the becoming; the secretions reframe; the bravery; the new capacities; the transformed relationship to shame (ownership not suppression); the no; the specific knowledge of what she is refusing.

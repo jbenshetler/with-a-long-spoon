@@ -32,7 +32,7 @@ She took a breath, and made the second step long.
 
 The slit fell open off her bare thigh and up to the hip, and she gave the room her leg on purpose — the whole length of it, calf to hip, nothing under the silk and nothing to guess at, and she let it travel down the rows. She had good legs. She stalked across the stage giving them away a step at a time, and did not once make herself small — and a murmur went through the crowd as she came, the sound a dull room makes when it wakes up.
 
-And the heat came up — her body agreeing, low and certain, as it had in the glass that afternoon, coming up to meet a thing she'd decided a half-second before her head was sure of it. The eyes found her leg. She kept her face exactly where it was, took the woman's hand and held it the beat someone's camera wanted, took the scroll they set in her other hand — a rolled paper tied with a ribbon, absurdly light for the weight of the walk — and turned back with her name still hanging over the chairs, and the room knew, and not a soul in it could have said so out loud.
+And the heat came up — her body agreeing, low and certain, as it had in the glass that afternoon, coming up to meet a thing she'd decided a half-second before her head was sure of it. The eyes found her leg. She kept her face as near to where it was as she could, took the woman's hand and held it the beat someone's camera wanted, took the scroll they set in her other hand — a rolled paper tied with a ribbon, absurdly light for the weight of the walk — and turned back with her name still hanging over the chairs, and the room knew, and not a soul in it could have said so out loud.
 
 She got back to her chair and sat and put her hand at her hip again, the slit shut, decorous, a girl with a certificate. The woman read the next name. Whatever the room had understood it folded up and put away, as rooms do, and moved on — and only she was left with it, running under the dress in the good light while her heart went like she'd run the whole way.
 
@@ -40,7 +40,7 @@ Cassie found her in the crush after, by the coffee no one was drinking, and took
 
 "How did I look?" It was the only thing in her head. It had been the only thing in her head the whole walk.
 
-"Like a movie star. You sure got their attention. Somebody had to document it." Cassie turned Vee's phone around. Vee, mid-stride, caught in the long step: the leg out of the slit to the hip, the bare shoulder, the burgundy taking the window light like it was lit from inside, her chin level and her face giving away absolutely nothing. It looked like a photograph of a woman who had every part of it handled, because she had.
+"Like a movie star. You sure got their attention. Somebody had to document it." Cassie turned Vee's phone around. Vee, mid-stride, caught in the long step: the leg out of the slit to the hip, the bare shoulder, the burgundy taking the window light like it was lit from inside, her eyes bright and dark, her lips just parted, the start of a smile at one corner. It looked like a photograph of a woman who had every part of it handled, because she had.
 
 Vee took the phone and knew to the heartbeat what second it was. None of that was in the picture. Or all of it was, and only she would ever see it there.
 

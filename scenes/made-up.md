@@ -12,7 +12,7 @@ The watching was good. The dishes asked almost nothing of him, so the rest of hi
 
 And the dress that was in her car.
 
-Wednesday night she'd worn it home with the ceremony still on her skin, and zipped it into its bag in her closet before bed. Friday, on her way out to his house, she'd lifted the bag off the rail and laid it across the back seat. She'd brought no overnight bag, nothing for a night she wasn't letting herself plan on — and she'd brought the dress. It was out there now, in the cold and the dark, fifty feet from the man who'd made it. He'd seen it on her in the flesh just once — bare-toed on his pedestal, the day she carried it home, the hem waiting on a height she didn't own yet. The heels that finished it, the dear black straps Randi had knelt to buckle in the boutique, he had never seen under it at all. The finished thing had crossed a stage for everyone but its maker.
+The night of the induction she'd worn it home with the ceremony still on her skin, and zipped it into its bag in her closet before bed. Friday, on her way out to his house, she'd lifted the bag off the rail and laid it across the back seat. She'd brought no overnight bag, nothing for a night she wasn't letting herself plan on — and she'd brought the dress. It was out there now, in the cold and the dark, fifty feet from the man who'd made it. He'd seen it on her in the flesh just once — bare-toed on his pedestal, the day she carried it home, the hem waiting on a height she didn't own yet. The heels that finished it, the dear black straps Randi had knelt to buckle in the boutique, he had never seen under it at all. The finished thing had crossed a stage for everyone but its maker.
 
 Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving. She had something he deserved to see. And something else she wanted him to see.
 
@@ -60,7 +60,7 @@ He didn't touch her. His hand came partway up and he put it away again, and the 
 
 "Different. You decide if it's better." She was gone back down the hall before he could say a word.
 
-Behind the door she stepped out of the dress and hung it — properly, seams squared on the hanger, a thing somebody's hands were in — and did not let herself stand there breathing. The heels stayed on. That was all of it: the heels stayed on. Her face in the little mirror had gone pink down to where the mirror gave out, and the pink was not stopping there, and knowing that, and going anyway, was the entire costume.
+Behind the door her phone was in the backpack with the makeup. She picked it up and read it again, *makes me wish I was a dress*, the tenth time since Wednesday night, and set it face down. Then she stepped out of the dress and hung it — properly, seams squared on the hanger, a thing somebody's hands were in — and did not let herself stand there breathing. The heels stayed on. That was all of it: the heels stayed on. Her face in the little mirror had gone pink down to where the mirror gave out, and the pink was not stopping there, and knowing that, and going anyway, was the entire costume.
 
 She opened the door.
 

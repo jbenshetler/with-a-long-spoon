@@ -3637,6 +3637,34 @@ text = "She took him in increments, warmth closing around him, until he was deep
 note = "author ack 2026-11-02 (after the arrival move)"
 
 [[ok]]
+fp   = "b505276c7064"
+rule = "the-way"
+file = "scenes/nachtmusik.md"
+text = "\"We should have been sitting in the first row as she took a long step, showing those legs all the way to the hip, tits out.\""
+note = "author's line (note 5 workshop): 'all the way to the hip' is idiom, Randi's speech"
+
+[[ok]]
+fp   = "6092a9b4a037"
+rule = "there-was-were"
+file = "scenes/nachtmusik.md"
+text = "He reached down for the cashmere at the foot of the bed and drew it up over her and tucked it around her, and then he took hold of her, small as she was, and slid her the few inches across the sheets until there was nothing between them."
+note = "re-armed by author-approved workshop edit (notes 9, 11)"
+
+[[ok]]
+fp   = "2b0d5ba36249"
+rule = "warm"
+file = "scenes/nachtmusik.md"
+text = "He turned toward her in his sleep, and his arm came over her, heavy and warm, and she lay there with her eyes open in the dark."
+note = "re-armed by author-approved workshop edit (notes 9, 11)"
+
+[[ok]]
+fp   = "8889a383b0cd"
+rule = "warm"
+file = "scenes/nachtmusik.md"
+text = "The music was going low down the hall, and the house was warm, and he let sleep take him."
+note = "re-armed by author-approved workshop edit (notes 9, 11)"
+
+[[ok]]
 fp   = "0aac37e89bdc"
 rule = "cost-vague"
 file = "scenes/new-ordinary.md"

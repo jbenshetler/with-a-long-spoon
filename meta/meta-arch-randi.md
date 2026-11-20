@@ -200,6 +200,10 @@ All six channels are sources of aliveness. This is what makes the configuration 
 
 ---
 
+## Pace's Phone — {{Nachtmusik}} (author rulings 2026-11-20)
+
+While Pace sleeps she unlocks his phone, finds the induction photo Vee sent him, forwards it to herself, and sends Vee from his phone a line more explicit and playful than he has ever been; Vee's delighted replies, her own line and the forwarded copy are all deleted. Render it **a bit sinister, not fully**: deception out of hurt, desire and jealousy (he made Vee the dress; he would not show her the photo), never the plan surfacing. The Console rules hold — warm, the love for Vee allowed to show. **The passcode:** one quick try, then her own birthday, carefully, which fails; then Vee's opens it. Her care on the second try is the only sign it used to work; the narration never says so, and no digits appear. **Guards:** Pace never learns of it; Vee never mentions the message to Pace; **the induction photo never resurfaces with Randi** — her photo ladder runs the pinup (Volume Two), then a fully explicit one (Volume Three). Her pet name for him there is **"Professor."**
+
 ## The Concealment of the Sadism from Pace
 
 Randi tells Pace a sanitized version of the SATC scenes — the closeness, the increasing intimacy, not the humiliations, not the bathroom breaks. Two motives converge: protecting the project (Pace might shut it down if he saw how far it had gone); protecting her interior (admitting the sadism would expose what hates him). She would conceal if only one motive were active; both make it inevitable.

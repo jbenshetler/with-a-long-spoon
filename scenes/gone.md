@@ -14,13 +14,13 @@ The first shiver went under his hand. He reached down for the blanket and drew i
 
 He felt her smile.
 
-"God, Saturday. Best time I've had in a store in years. She's ragging on my feet all afternoon, so she finds this canoe of a shoe and gets it *on* and does the whole bigfoot for me." The laugh started low in her, shaking against him. "And there's an older couple at the end of the aisle watching the entire time, and she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth." A beat, fond. "She was *so* embarrassed." Softer. "That was kind of hot."
+"God, today. Best time I've had in a store in years. She's ragging on my feet all afternoon, so she finds this canoe of a shoe and gets it *on* and does the whole bigfoot for me." The laugh started low in her, shaking against him. "And there's an older couple at the end of the aisle watching the entire time, and she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth." A beat, fond. "She was *so* embarrassed." Softer. "That was kind of hot."
 
 She squirmed against him, then lay still.
 
 "I didn't think I'd like her this much. I keep waiting to get bored of her — I get bored of everybody — and it doesn't come." A breath. "She got past me before I could help it."
 
-"I keep thinking of things to tell her. Stupid things. Just to hear her laugh. I'd only just dropped her off on Saturday and I was doing it again."
+"I keep thinking of things to tell her. Stupid things. Just to hear her laugh. I'd only just dropped her off and I was doing it again."
 
 Her fingers moved against his chest.
 

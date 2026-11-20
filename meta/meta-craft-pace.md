@@ -191,6 +191,12 @@ Scattered across the year, none load-bearing for the catastrophe, none in the co
 
 ---
 
+## Small habits (author rulings 2026-11-20)
+
+- **His phone** lives on a magnetic charger on the bedside table; it is his alarm. His messages hold three threads — Vee, Randi, his supervisor **David** (first name only; the grandsupervisor stays unnamed); he clears the rest.
+- **After sex he sleeps hard**, all the way down.
+- **Randi calls him "Professor."**
+
 ## The Threesome
 
 His POV during the threesome should be at peak resolution — every channel of his attention online simultaneously. The peak of his attention and the apex of his blindness are the same condition. Render the former; let the reader feel the latter.

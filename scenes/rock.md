@@ -8,7 +8,7 @@ The robe smelled like him at the collar. Soap, wood dust that seemed to live in 
 
 She leaned into him, and the robe slid further open. His hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm.
 
-"I keep thinking about the dress," she said. "I'll be walking to class, or in the middle of something else, and it comes back, and I can't help smiling. My face is sore." She laughed at herself. "A week from tomorrow. I can't wait to wear it."
+"I keep thinking about the dress," she said. "I'll be walking to class, or in the middle of something else, and it comes back, and I can't help smiling. My face is sore." She laughed at herself. "Tuesday. I can't wait to wear it."
 
 He bent and put his mouth to her shoulder where the robe had come off it, and stayed there.
 
@@ -20,7 +20,7 @@ Then he was quiet. She felt it in the hand over her breast before he said anythi
 
 "What?"
 
-"My supervisor's baby came early. Mother and daughter are fine." He gave her the good news first, and she heard him do it. "He was meant to give a talk at a workshop in Berkeley. Three days, next week. He's asked me to give it for him." A breath. "He called this afternoon. I've been looking all night for a good place to tell you, and there isn't one."
+"My supervisor's baby came early. Mother and daughter are fine." He gave her the good news first, and she heard him do it. "He was meant to give a talk at a workshop in Berkeley. Three days. He's asked me to give it for him." A breath. "He called this afternoon. I fly out in the morning. I've been looking all night for a good place to tell you, and there isn't one."
 
 "Oh," she said.
 
