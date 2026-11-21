@@ -143,4 +143,8 @@ She ate while he talked. He had expected the fork to go down after the chicken. 
 
 He left it there.
 
-Later, she came back down the hall with him in his undershirt. He turned the lamp off and drew the blanket over them, and she settled against his chest, her hand open on him. He held her until she slept.
+Later, she came back down the hall with him in his undershirt. He turned the lamp off and drew the blanket over them, and she settled against his chest, her hand open on him.
+
+"As I was heading out," she said, "Brooke asked what time I'd be back." She drew his arm tighter around her. "Fuck Brooke."
+
+He held her until she slept.

@@ -192,6 +192,8 @@ The room seemed to let its breath out, or Vee did. She reached for her drink and
 
 And Vee, who had meant to apologize for the fright, found she didn't need to anymore. It was still in her somewhere, the cool finished force of the woman, the way you stay aware of deep water for a while after you are back in the boat. But it had been answered.
 
+"That was Brooke," Randi said, as if Vee had asked. "Our president." She drew on the straw. "Thursday's chapter."
+
 Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a person." She was already swinging the good bag up onto her shoulder.
 
 They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.

@@ -116,10 +116,30 @@ Something had come into Randi's voice over the last few minutes. Vee heard it wi
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
-They stayed another hour. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
+They stayed another hour. Vee had a second mimosa, and the second one she did not price at all, and somewhere near the bottom of it she found the thing she had carried in from the car.
+
+"I'm being inducted into the economics honor society." It came out smaller than she had built it. "A week from Tuesday, in the afternoon. Will you come?"
+
+"Yes. God, yes." Randi already had her phone out. "Let me just make sure—" She looked at it, and her face did nothing for a moment, and then it did all of it, the delight going out from under the smile. She turned the phone face down on the cloth. "Oh, baby. Brooke has the officers in a meeting at the house that afternoon. It's the one thing on the calendar I can't get out of." She put her head back and groaned at the glass. "I would give anything." Then she looked at Vee again, all of her. "You're going to stop their hearts, beautiful."
+
+"It's okay." Vee heard how small it was. Her thumb went down the stem of the flute and up again. "Really."
+
+Randi watched it land. "No. None of that. That's two faces in one brunch, and I won't have it." She leaned in over the table. "Gawd, Brooke is *such* a tyrant. You would not believe what she did to us after the Rho Kap mixer. Turnout was *down*. So, as penance, every one of us had to bake cookies for the boys. Homemade. And post ourselves doing it, so everyone could see our *spirit*." She lifted the flute. "It's not normally our spirit those boys are after."
+
+Vee laughed before she could stop it, and Randi's laugh came in under hers and took it the rest of the way.
+
+"And she sent Kinsey round to film it. Kinsey. With a ring light."
+
+"Can you bake?"
+
+"The last oven I turned on was my Easy-Bake, when I was six." Randi set the flute down like a verdict. "It was the single worst thing I have ever made, and I have never been prouder of anything in my life. They ran. They came out of there as one cookie the size of the pan, black at the edges and raw in the middle, and Kinsey got every second of it, and Brooke commented *So much spirit!* with three hearts." She let that sit. "The Rho Kaps ate it anyway. Boys will eat anything."
+
+Vee laughed until she had to put her own glass down, and when she came up out of it she was sitting easier in her chair, and the letdown was gone.
+
+After that they talked about other things, about a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
 
 Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft. Vee had half-expected it this time, and met it — and where it should have ended, it didn't: Randi's mouth eased back without leaving hers, and then she took a little more before she let her go. Vee didn't look down the street for who might have seen them, the way she had the first time.
 
-Randi held her a moment by the shoulders and smiled, slow and soft, and let it sit. "See you soon, gorgeous."
+Randi's hand stayed at the hinge of her jaw, and she smiled, slow and soft, and let it sit. "Your man Pace doesn't know how lucky he is, gorgeous."
 
 Vee drove home lighter than she'd come. She turned the radio up, and the day was good.
