@@ -11,6 +11,7 @@ The night before Chicago, between {{How It's Done}} and {{Famished}}. Pace decid
 - Pace keeps Saturday. *"Tell me"* gets only *"She said yes to the dress."*
 - Randi trades part of Sunday (*"Got herself wet telling me, too"* / *"You can't know that"* / *"I was there. I saw her face."*) and keeps the rest (*"Girl things"*).
 - **The kiss in the fire lane is not revealed here** (author ruling). It stays for {{Four}}.
+- *"Never even kissed one. Not really."* is Randi hiding the fire-lane kiss from Pace; the reader knows.
 
 ## Decided beats
 

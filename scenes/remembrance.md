@@ -12,7 +12,7 @@ It was the week. Saturday was three days behind him and he had not got out from 
 
 Eurythmics was going low in the front rooms, the drum machine and a woman's voice over it, low and level. He heard the car under it.
 
-Tires on the gravel, slow through the cut. The deadbolt went over. He went as far as the bedroom door and looked down the hall and saw the chair by the front door with nothing on it, and set that aside, and then she was coming toward him with her keys still in her hand.
+Tires on the gravel, slow through the cut. The deadbolt went over. He went as far as the bedroom door and looked down the hall and saw the chair by the front door with nothing on it, and set that aside, and then she was coming toward him with her bag still on her shoulder.
 
 "Somebody's going somewhere," she said.
 
