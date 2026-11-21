@@ -6,7 +6,7 @@ The bag was open on the bed and he had been packing it for twenty minutes, which
 
 Three shirts laid out; one put back. The talk was on a drive in the zip pocket and on the laptop and in his head, which was the copy he trusted. He could have given it off a napkin at the gate. Fifty minutes on a bound he had proved in June, to a room of men who would read the abstract on the plane, and two of them would ask questions pitched to be overheard, and he would answer them, and that night at the bar they would tell each other he was sharp. One day of that, and an airport on either side of it. He took the band off the second shirt and rolled it again, tighter, and snapped the band back on and laid it in.
 
-It was not the talk. He could give the talk in his sleep.
+It was not the talk.
 
 It was the week. Saturday was three days behind him and he had not got out from under it. He had cut the silk that afternoon and sat up past one with the pins, and the pieces lay now on the long table in the sun porch under a sheet, and in the morning he would leave them there and go stand in a hotel ballroom in Illinois. He had not called her. A call would have asked her something, and he wanted Friday to do the asking, and he had been sure of that on Sunday and sure of it on Monday, and somewhere this afternoon the being sure had worn through, and what was under it was Saturday. Her hands going up behind her for the hook, in full light, in his house. Her breast against his jaw, bare and giving, and the third time no accident at all, her voice over his head low and daring: *Oops.* The curve of her under both his palms with nothing between but the satin. And her eyes. He had knelt in front of her where the satin had gone dark, and she had screwed them shut, and he was not a fool. He knew what it was and what it cost her to stand there with it in the light. And then she had opened them, and looked down, and found him already looking. That was the one he could not put down. None of it had anywhere to go tonight but his hands, which kept rolling shirts that were rolled.
 
@@ -128,7 +128,7 @@ Randi's breath went out of her, long.
 
 "Me," Randi said. It came out with Kentucky all the way up in it, *me* drawn long and soft. "She'll remember me."
 
-She clenched on it, hard, and he took it for what it was, appetite; she wanted Vee so badly she could not say the word without her body answering, and it went into him like heat off a stove. He drove into her and she cried out, and under it, behind his eyes, he had it.
+She clenched on it, hard, and he took it for appetite, and it went into him like heat off a stove. He drove into her and she cried out, and under it, behind his eyes, he had it.
 
 He had not heard Vee come. He had heard her gasp at a pin. He had heard the breath go out of her when she came back down off her toes, a laugh with no laugh in it. He knew already, as he knew a bound would hold before he'd written the last line, that her voice would go up when she went over, and Friday he meant to find out how far. But this was the other one. Vee on her back in this bed, Randi's dark head between her thighs, and the sound Vee would make for that, which would be no sound she made for him: higher, faster, a catch of disbelief at the top of it, the sound of a woman who had been raised to think there was no such thing in the world finding out there was, and finding it out from a woman's mouth, and not able to stop herself saying so. He wanted to hear her. He wanted to be in the room.
 
@@ -172,7 +172,7 @@ He watched her dress. The slip, the cashmere over it, her shoes. She came back a
 
 "Text me when you land," she said.
 
-At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched the car go down through the cut, careful on the gravel, until it was gone. It was cold. He found he did not mind it. She had come out here for him and lain on him after and gone home so he could sleep, and he took that and kept it, and shut the door.
+At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched the car go down through the cut, careful on the gravel, until it was gone. It was cold. He found he did not mind it, and shut the door.
 
 The bag was on the floor and both shirts were on the rug with their bands off. He shook them out and rolled them again, tight, and the second one he rolled once and it held and he left it.
 
