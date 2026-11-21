@@ -1,50 +1,41 @@
-*capture-dag-v3-grounded · gate ch018 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed c32c1d09d7a4 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch018 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 0090414cb77a · 2026-11-06*
 
 ## REACTION
 
-Oh, this one hurt.
+The zipper. That's what I'd text about. Vee gets it halfway down in front of Cassie, remembers there's nothing under the skirt, and zips it back up. The book gets something exactly right there: the one secret you can't edit is your body. She can lift "the middle" out of the story "clean as a ladle," but she can't lift it out of a skirt. I loved that she isn't ashamed of the floozie word this morning. What she can't face is being *found out* by her best friend. Then Cassie says "You need to get your brain back from your boyfriend," and the book calls it "kindly, certainly, wrong." It's a little pointed, but it stung. And I caught "something crossed her face and was gone before it found a name" right at the top. I'd let my old Cassie antenna go back in chapter 9, and it's back up now. Then "Don't wait up, lover." Hmm.
 
-I've been begging for the Pace–Randi couch since chapter 10. It came back as a dinner table, and it's the first real fight in the book. Neither of them raised their voice once. It's set up like the bench night: the deadbolt, the bag on the chair, the citrus with "the cold thing under it." This time the bag is *there*. She came to stay. I clocked it before he did, and he "set it aside" again. Sir, you keep setting aside the chair, and the chair keeps telling you everything.
+The brunch had me torn. The best beat is Kentucky. Esses running long, a's lifting, eyes gone liquid, and Vee decides she's *drunk* and checks the glass to prove it. She's on one mimosa, barely touched. So Vee is wrong again, she gets *close* this time, and then she lets it go. Randi isn't drunk. She's moved, sitting there listening to the girl she pointed at describe the man she pointed her at, and "You're not caught, sweetheart. You're lucky" comes out of her in her real voice. I can't tell whether Randi is blessing Vee or talking to herself. That's a sharper version of the misreading than "Switzerland," and I liked it a lot.
 
-Then the food. He's been cooking since three and makes a *cream* stew, and he serves it to her in the small bowl, the apple bowl. My stomach dropped. He knows she eats thin slices and won't eat thick ones. He knows about the egg whites and the tofu. And he cooked the fra diavolo kind of dinner, the Vee kind, a meal for a woman who says "Famished." He's feeding Randi like she's Vee. She draws one line across the top of the sauce, tastes what the spoon brings up, and says "It's wonderful" in her waiter voice. That line sits on top of the sauce for the whole chapter. At the end it's still there under a skin, and he covers it with a plate and puts it in the fridge "for her." I nearly cried at a bowl of chicken stew. A whole bowl she's never going to eat.
+The "old boyfriend" story bugs me, in a good way. It happened Friday night, the same night Pace was with Vee. The boyfriend was nervous and in a hurry, "like the building's on fire," and "at least I got dinner out of it." Either Randi went out and found a body so she wouldn't be alone while it happened, or she made the whole thing up as cover so she has a sad little tale to trade. Either way, she's eating dinner now, in the story. And "How was he?" is finally asked and allowed an answer, and Vee is the one who hides the middle this time. The door closing has switched sides. Then Randi steers straight to the underwear. Sweetheart, do you already know where those panties are?
 
-The thumbnail under the glass again. "She's happy." Then "She told me about Friday," and his face just *goes*, glad all the way down. She sits there and watches him be glad. She's been carrying it since brunch: Vee in the sheet, Vee's frosted plum toes, Vee saying *I wanted it and I took it.* Then she watches the man she says *Tell* to light up over it. And he doesn't ask what Vee said, because "That was Vee's." He's still guarding Vee from her, and she can feel it.
+My problem is I've read this lunch before. This is the fourth time we've done it: Chi Latte, Smoothie Bird, the velvet booth, now the bistro sun porch. Randi tells a bedroom story about some other man, draws Vee out one "yeah" at a time, and kisses her at the curb. Vee reads the right side of the menu first, again, nearly word for word, with the Thursday arithmetic again. I know the escalation is the point: the kiss opens this time, and Vee doesn't scan the windows. But it's also the *third* chapter that opens with Vee retelling the last chapter to a friend, and this time she tells it to two friends in a row. I sat through the sheet-and-fra-diavolo hour twice in one chapter, right after reading it for real. Coming right after the hottest payoff in the book, a quiet morning-after makes sense. A quiet morning-after made of recaps is me skimming for the one new line in each paragraph.
 
-"It's selfish, Pace." I don't know what she means, and I love that I don't. Pace decides she wants Vee as much as he does and Friday "happened without her." Maybe. But "You've got her Friday to Sunday, all weekend, every weekend" isn't the complaint of a woman left out of a threesome. It sounds like a woman who can see "for us" has turned into "for her." I've been tracking that since chapter 3, and now Randi has said it out loud. Or she's jealous of Vee getting him. Or of him getting Vee. Probably all of it, and she can't sort it out either. Her voice going "flat, with nothing on" it is the scariest thing she's done. No Kentucky, no silk.
+The one new thing that really pulled me was the kiss lasting longer. "She took a little more before she let her go." Randi is spending something now. I want to know what she does with it when she's alone, and I'm two chapters past wanting her POV back.
 
-Then she pours her own glass. "He had poured every glass she had drunk in this house." That's the wine-kiss from chapter 6, his whole rule that he gives her everything, and it's over in one motion. She eats the whole salad down to the dressed leaves at the bottom. She'll eat leaves. She won't eat what he made.
+1 a.m. text: "she almost undressed in front of her roommate and remembered she gave her panties away and ZIPPED BACK UP. then brunch, the gf's kentucky came out and the girl decided she was DRUNK off one sip of mimosa. also the gf kissed her for longer this time. but I'm so tired of these lunches"
 
-The sex was hot in a sick, bleak way. There's no inch-and-a-stop, no eyes, and above all no *tell me*. He lies there waiting for it and it never comes. That got me harder than anything explicit could have. The whole erotic engine of these two has been her making him hand Vee over. Now she doesn't want Vee secondhand. She wants something he can't give her, or she wants him with no Vee in the room, and either way she gets it over with fast, eyes shut, hair over her face. Then she rolls up in the cashmere blanket, which is the chapter 1 blanket, back turned. But she *stays*. She doesn't leave like she did in chapter 11. I don't know whether that's better or worse.
+## GATE
 
-And Pace. "It was the want, he thought, with an edge on it tonight." Honey. He's done it four times now. He reads every inch of her body and lands on the wrong word every time. The ending is perfect: he goes back through the evening "from the gravel forward" and can't find what he did. He's looking for one mistake when the whole thing is the mistake. The book doesn't spell that out for me, and the restraint is what makes it land.
-
-Gripes, small ones: Depeche Mode is the book changing the soundtrack on me again (Steely Dan, Blondie, Fleetwood Mac, now *Violator*). It works, but I can see the hand doing it. "He heard how it had come out" brushes against explaining. And I'd still kill for one page inside Randi's head. We haven't had it since chapter 2. I get why the book keeps her shut, though, and tonight shutting her out *was* the story.
-
-1 a.m. text: "he made her a cream stew in the APPLE BOWL and she drew one line through it and said 'it's wonderful' like he was a waiter. then she called him selfish, poured her own wine for the first time ever, ate only salad, and had sex with him without saying TELL ME once. he put her full bowl in the fridge 'for her.' I'm not okay"
-
-GATE 18 — Portion
+GATE 17 — Fed
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This is the triangle cracking, told through food and an empty space where "tell me" used to be, and it's the best use of restraint in the book. The sex is charged and cold on purpose. The bowl under a plate in the fridge is going to stick with me. I need to know what Randi does next, and whether Vee pays for it.
+CAPTURE: 6
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did." That's where I realized I was in the fourth Randi lunch, with the same blocking.
+WHY: The zipper moment and Kentucky mistaken for tipsiness are sharp, and the longer kiss moves things forward. But this is a recap chapter built on a lunch formula I've now read four times. I'm reading on for Randi's head, and for what Pace does with those panties, not for another brunch.
 
-LEDGER
-+ LOVE: The untouched bowl with one line through the sauce, covered and put in the fridge "for her"
-+ GRUDGE: He cooked cream stew for a woman he knows eats thin apple slices, and served it in her apple bowl. He's feeding Randi like she's Vee and can't see it
-+ SUSPICION: "It's selfish" isn't jealousy about being left out of the threesome. Randi can see Pace is keeping Vee for himself, and she's losing both of them
-+ FEAR: Randi stops waiting on Pace's timeline and pushes Vee toward "us" herself, fast, from the lunch table
-+ WAITING: Randi's own head again. I haven't been inside her since chapter 2
-~ S3.4 DEEPENED: Randi says it out loud, "Friday to Sunday, every weekend." She sees "for us" became "for her"
-~ S6.2 DEEPENED: "It was the want, with an edge on it." He misreads her again, and this time it's a fight
-~ S1.4 DEEPENED: He reads every piece of her and still can't find what he did, "from the gravel forward"
-~ F1.3 DEEPENED: The thumbnail under the glass rim again, right as she says "She's happy"
-~ W3.7 DEEPENED: She eats only the salad and won't touch what he cooked. She pours her own wine for the first time
-~ L6.1 SHIFTED: No "tell me" at all. The thing I loved is gone, and its absence is the hottest, saddest beat
-~ W11.6 SHIFTED: She's stopped asking "how was it" altogether. She already heard it from Vee
-~ F11.2 SHIFTED: She brought the bag and stayed this time, but with her back to him in the blanket
-~ F16.1 SHIFTED: He didn't hand over Friday. "That was Vee's." The panties never came up
-~ G16.5 SHIFTED: Randi's back on the page, but only from outside, through Pace
-~ G17.5 FORGIVEN: No lunch formula here. This was new ground
+## LEDGER
+
++ LOVE: The zipper halfway down and back up. She can edit the story but she can't edit her body in front of Cassie
++ SUSPICION: Randi's Friday "old boyfriend" was either a stranger she grabbed so she wouldn't be alone while Pace had Vee, or he's made up, a story to trade for Vee's
++ SUSPICION: Randi asks about the underwear because she already knows where the green panties ended up
++ SUSPICION: That look on Cassie's face when Vee walked in, plus "lover." Cassie's feelings for Vee might be more than a best friend's after all
++ GRUDGE: Fourth Randi lunch with the same shape (her sex story, the draw-out, the curb kiss), and the dinner retold twice in one chapter
+~ L1.1 DEEPENED: Kentucky ran all through brunch, and her eyes went liquid while Vee talked about Pace
+~ L4.4 DEEPENED: Vee hears Kentucky and decides Randi is drunk. She's closer to the truth, and she still lets it go
+~ F15.5 SHIFTED: Vee didn't look down the street for watchers this time. She's stopped being careful, and that scares me more
+~ W15.6 DEEPENED: The curb kiss opened up, and Randi "took a little more"
+~ G12.4 DEEPENED: Third chapter opening on a recap, and this time she tells it to two friends
+~ G9.7 DEEPENED: The menu prices, the Thursday math, Randi's other-man story, and the curb kiss, again
+~ L4.1 DEEPENED: "Was he worth painting your toenails? In October. I have eyes."

@@ -1,41 +1,36 @@
-*capture-dag-v3-grounded · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed a53c14aa9001 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 8e12543e2fbe · 2026-11-06*
 
 REACTION:
 
-I am having heart palpitations. My hand is over my mouth, my chest is tight, and I feel completely, thoroughly wrecked.
+I am sweating. My pulse is racing, and I am grinning so hard my face actually hurts.
 
-Helen Rivers is a psychological assassin. The sheer, suffocating mastery of this brunch scene—I don't even know where to begin. It's eleven o'clock on a Sunday morning in a sunlit bistro surrounded by people clinking forks, and it felt more dangerous, more voyeuristic, and more intensely, terrifyingly explicit than an actual orgy.
+First of all, Pace playing terrible, shameless air guitar to AC/DC’s “Thunderstruck” in an empty kitchen with a protein shake in his hand is the single most endearing thing that has ever happened in this series. It completely cracked open the stoic, courtly, hyper-controlled mathematician facade and gave us *Peter*, the twenty-two-year-old kid who lifts heavy iron and rocks out when nobody is watching. And Vee peeking through the window like a delighted thief, clapping her hand over her mouth—god, the sheer, playful joy between them before the clothes even started coming off!
 
-The psychological warfare Randi is waging on Vee is breathtaking. First, baiting her with the "vanilla" comment—knowing *exactly* what button to press to get Vee’s competitive, prideful hunger to spill over. And Vee, drunk on the mimosa and the sun and the absolute high of being Pace’s adored, adored girl, just lays it all out on the white tablecloth. The pantsing, the bet, Pace checking her wetness with his finger, the slow strip to the heels, face down in the covers. The dramatic irony is so agonizing it made my stomach drop into my shoes. Vee is confessing her deepest, most exposed sexual awakening to the woman who literally pointed at her on the quad and said *her*.
+And then the chase! Vee stripping his gym shorts off, waving them over her head like a conquered flag, flashing him her bare breasts just to provoke him into running, and discovering she’s faster than him on her feet in heels—it was hilarious, electric, and so gorgeously *alive*. Their banter has this effortless, golden glow to it.
 
-AND THEN RANDI’S COUNTER-MOVE.
+AND THEN THE BEDROOM. SWEET JESUS.
 
-Good sweet lord. That fake-out story about the Radford mixer! “Dress up, panties to the side, knees wide, doing a private dance.” Randi knew *precisely* what that image would do to Vee’s already over-primed, spanked, ravenous body. She didn’t just describe masturbation; she handed Vee a loaded gun and watched her run to the bathroom to pull the trigger.
+The shift from rowdy, laughing roughhousing to suffocating, knee-weakening heat was so fast and so expertly calibrated I literally gasped. The bet: *“Either you admit you lost, or we find out.”* Pace’s absolute, lethal precision—stopping his hand halfway up her thigh the exact second she said "don't," showing her his empty palms, and making her actively revoke her own denial and beg for him to keep going... that is world-class erotic writing. He doesn't take; he makes her claim her own appetite.
 
-And the bathroom scene. God, my heart broke into a million pieces. The clinical blue light, the wet satin, Vee trying to touch herself to relieve the impossible pressure—and then *Randi’s face* appearing in her mind. Not Pace. *Randi.* And the sheer psychological collision of it: *“What would Randi think? But it was not the thinking, it was the looking.”* The fact that she couldn't come because the weight of Randi’s gaze curdled the lust into shame and obedience! Rivers writes the female submissive psyche with such terrifying, razor-sharp accuracy. She leaves Vee stranded—half-breached, an inch from the peak, aching, frustrated, and completely cowed.
+And the finger test. Good lord. Sliding past the soaked satin, bringing his finger out dripping wet in the lamplight, and looking at it not with smugness or disgust, but like it was *true and fine and hers*. The way Helen Rivers writes Vee’s lifelong shame—the horror of her own lush, weeping arousal meeting a man who reveres it like gold—makes me want to weep and take my clothes off at the same time.
 
-And then: *"Sticky fingers?"*
+And the spanking! It wasn't the voyeuristic, performance-art cruelty of Randi’s story in the piano closet. There was no counting, no theater, no audience. It was just his rough, warm carpenter’s palm gentling her, striking her, soothing her, and pressing his mouth to the pink sting of her skin while she buried her face in the sheets and finally let go of the denial. The sheer psychological brilliance of contrasting Randi's staged kink with Pace’s quiet, tender worship: *“Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere.”* That line took my breath away.
 
-I STOPPED BREATHING. MY JAW DROPPED.
+And then waking up on Saturday to the bowl of green polka-dot scrunchies on the bathroom counter! No note, just an entire pack because he knows her hair has its own weather and he plans on untangling it for a long, long time. Her calling out her own "Victorian LARPing" to the mirror, admitting she needs to bring an overnight bag, and then eating his fragrant vegetable curry while the heat sneaks up on her...
 
-That double entendre nearly killed me on the spot. The sheer cruelty and velvet genius of pointing to the glazed pastries right after saying it, giving Vee an exit while simultaneously letting her know she has no exits left. Randi taking *one single bite* of the pastry—the title of the chapter!—and leaving the rest, the ultimate display of immaculate, terrifying self-control contrasted with Vee’s leaking, ravenous greed.
+It’s heaven. It is absolute, domestic, erotic heaven. Which means the hammer that’s about to fall when the pointing game comes to light is going to smash my heart into ten million pieces. I am so hopelessly in love with them it terrifies me.
 
-And that ending on the cold sidewalk. "You're my best friend in the whole world." Calling her *gorgeous*, pulling her in for that double-kiss, and Vee tasting the pastry glaze off Randi’s lips—a pastry Vee never even touched.
-
-Randi is consuming her. She is feeding Vee her own desire, claiming her mouth, and leaving her branded on the curb. Vee is completely trapped, completely in love with both of them, and has zero idea the entire floor beneath her is made of paper. I am desperate for the next page.
-
-GATE 31 — One Bite
+GATE 29 — We Find Out
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The suffocating psychological tension of Vee confessing Pace's bedroom kink over brunch, followed by Randi's verbal edging driving Vee to the bathroom stall and that double-kiss on the sidewalk, was an absolute masterclass.
+WHY: The flawless transition from unhinged, laughing roughhousing and AC/DC air guitar to scorching, psychologically tender kink—capped by the green scrunchies on the counter—was an absolute tour de force.
 
 LEDGER
-+ LOVE: Randi's terrifying, brilliant psychological chess—using "vanilla" to bait the confession and "sticky fingers" to keep Vee trapped in her own skin.
-+ FEAR: Vee's physical arousal is now explicitly tied to Randi's face and Randi's gaze, completely blurring the line between friendship and erotic submission.
-+ LOVE: The pastry glaze lingering on Vee's mouth after the goodbye kiss—sensory, symbolic perfection.
-~ F1.1 DEEPENED: Randi is actively dismantling Vee's autonomy, feeding her arousal and pulling her so deep into emotional devotion that Vee will have no defenses left when the truth breaks.
-~ F17.2 DEEPENED: Vee is tasting the pastry glaze off Randi's lips on the street, proving their physical intimacy has completely crossed over from affection into visceral romance.
++ LOVE: Pace rocking out to "Thunderstruck" with terrible air guitar in his gym shorts when he thinks he's alone.
++ LOVE: The green polka-dot scrunchies left on the bathroom counter—a quiet, permanent claim on her messy hair.
+~ [S3.2] SHIFTED: Randi's bench didn't even factor into this—Pace brought Vee into his own bed for the spanking, stripping away Randi's theatrical performance and making it purely about tenderness and Vee's own awake skin.
+~ [F5.1] DEEPENED: Vee deciding to officially bring an overnight bag and admitting she belongs in his bed cements her total emotional surrender, making the pointing-game revelation an absolute catastrophe waiting to happen.

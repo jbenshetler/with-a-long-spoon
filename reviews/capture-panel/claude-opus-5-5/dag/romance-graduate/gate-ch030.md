@@ -1,36 +1,39 @@
-*capture-dag-v3-grounded · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 80912e430e9c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f7a8e76dd34 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 1df4086e8a65 · 2026-11-06*
 
 **REACTION**
 
-She put him in the chair. That's what I'd text at 1 a.m. For thirty chapters Pace has been the one who decides where people stand. He built the riser, made the bed ready, said "not yet," led the dance. Tonight Vee says "Wait for me in the recliner," he starts to get up, and she puts out one flat hand and he sits back down. "She watched him make himself do it." Then his hand comes partway up and he puts it away again, and she can see it costs him. That's the fitting turned all the way around. In chapter 14 he kept his eyes off her while she stood on his pedestal and burned. Now she has him on his own furniture with the wine untouched, and she's the one deciding when the looking ends. It isn't sex, but I felt it as a power scene, and it was hot.
+She called it slap-and-tickle and I nearly threw my Kindle. Randi took Vee's tiny, unfiled, unnamed "please," the thing Vee kept for herself face-down in Pace's neck, and turned it into a little game with a name in six syllables. Then came "So. Did you deserve it?" and Vee said yes before she knew what she was agreeing to. Randi's smile *brightened*. That's the real scene. Randi isn't comforting her or debriefing her. She's interviewing her for the bench. And it's Monday, so whatever came out of Vee in that piano closet is going to be in Pace's bed tonight, in Randi's voice, while Randi rides him.
 
-The second costume got me. The costume is "The heels stayed on," and the pink "was not stopping there," and she goes out anyway. "Knowing that, and going anyway, was the entire costume." Yes, the book explained it to me again. But it's also the truest sentence about Vee in two volumes. The cardigan girl walks ten steps down a hall in nothing but four-inch heels, on Halloween, the night everyone else gets to be somebody else, and she uses it to be exactly herself. "And this is what I had on under it." Then her hip cocks out "before she knew a thing about it." Her body is ahead of her again, but this time it's ahead of her toward pride, not toward shame. I loved her.
+The worst part is that it worked on me exactly the way it worked on Vee. "His hand was wet." That's such a good, mean detail. Randi knows to ask for the wet hand, because she knows his hands. Then Vee drops into the low voice and realizes halfway through that she's not just telling it, she's *doing it again*, in front of Randi, with her nipples up under the jersey and her arms crossed like she's cold. That's the both-at-once I came for. I was turned on, and Vee being turned on in front of the wrong person made me want to grab her by the collar.
 
-There's a cost, though. This is the induction walk again. The long stride, the slit, the murmur, all re-staged for an audience of one. It's lovely that the man who made the dress finally gets to see it work, and "The finished thing had crossed a stage for everyone but its maker" is a good line. But I read the stride four days ago, and part of me felt the book taking a victory lap. And the boots-to-the-car, makeup-in-the-backpack prep is more throat-clearing before the payoff, the way the dressing scene in "Famished" was.
+The mouse that roars. Okay. "Slight little thing, soft-spoken, apologized to the furniture." Over his knee, counting out loud, his hand slipping. Who is this man? Pace is a powerlifter, so either this is "Paul?" again, the real man flipped inside out so Vee can't recognize him, or it's a real ex and the story is a sales pitch. Either way the story is aimed. It hands Vee the word she didn't own yet ("Have you ever—") with a ready-made shape around it: shame, counting, and "welcome." Randi is giving Vee a script for what Pace will offer her next, and Vee hears the Kentucky in "roars" and files it under the Swiss school again. I laughed and hurt at the same time, again.
 
-Then "That's like asking me to choose between sunrise and sunset." Oh, Pace. That's a greeting card. He recovers with "The other is for the world. This is just for me," which is good, and it's the photo question answered without the photo. She sent the world's version to Berkeley, and he picks the one nobody else gets. Except I keep thinking about the black straps. Randi knelt in the boutique and buckled them. Randi's hands are on Vee's ankles in the one viewing that's "just for me." Nothing in this house stays just for anyone. Small quibble: if Cassie's photo caught the full stride, did he really never see the heels under the dress? I'll let it go.
+The bathroom is the best thing in the chapter. "Not here. Not over a story. To do that would be to say yes to it." She catches her own hand and puts it flat on her knee. That's a grown woman with an inner life refusing something her body already decided. I believed every second of it, and it was hotter for her saying no than it would have been if she'd said yes. Then "All better?" and Randi has already moved on, warm as anything, and Vee can't tell whether she meant anything by it. Neither can I, and that's the problem: eleven chapters now without Randi's head. I'd give a lot for one paragraph of her walking across campus after this.
 
-Fourteen chapters without Randi's head. It's Saturday night. Monday is coming, and I'd bet my Kindle this hallway walk ends up as a story in Randi's mouth.
+Vee's arms are slow coming down from the hug. She notices it "the way you notice a held note," and she pins it on Pace. She's falling for Randi and filing it under the weekend. And this time Vee did the towing. Her two fingers on Randi's wrist, "Only to Randi," and Cassie saying "see you in the room" to the side of Vee's head. That one stung. Cassie is down to talking to Vee's profile.
 
-It ends with him still in the chair, and that's the right cut. It leaves me wanting.
+Gripes. The outliers lecture is Simpson's paradox again, but this time the professor practically turns to the camera: "The second kind comes in through the part that carries forward. It's in everything that comes after." I GET IT. The weekend is the outlier that doesn't lift out. Simpson's worked because it was sly, and this one is a sign on the wall. The structure is also yet another Randi debrief: draw it out, trade a sex story, curb kiss. It escalates enough that I forgive it, but I noticed the shape. And did Vee ever actually give the shoes back? They come out of the bag and just stay there.
 
-GATE 30 — Made-Up
+GATE 27 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "That's like asking me to choose between sunrise and sunset." That's the book-boyfriend line, right when he'd finally gone quiet and human.
-WHY: Vee running the scene and Pace forcing himself to stay in the chair is a lovely reversal of the fitting, and walking down the hall naked in heels is the whole cardigan arc paid off. But it re-stages the induction walk and stops short, so I'm reading on for what he does when she lets him up, and for Monday.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." The book explained its own theme through a stats professor before anything had happened.
+WHY: It's a clothed chapter that's as charged as anything in the book. Vee wet from a story, refusing her own hand in a locked bathroom, while Randi coaxes "did you deserve it" out of her for later. It's Monday night next, and I need to hear what Randi does with this in Pace's bed.
 
 LEDGER
-+ LOVE: Her flat hand putting him back in the recliner, and him putting his own hand away. She runs the room now
-+ LOVE: "Knowing that, and going anyway, was the entire costume." Halloween as the night she gets to be exactly herself
-+ GRUDGE: "Sunrise and sunset." Pace's greeting-card lines keep showing up right after his best restraint
-+ GRUDGE: The chapter re-stages the induction stride for an audience of one. Lovely, but I'd already watched it
-+ FEAR: "This is just for me," and Randi buckled those heels. The private viewing has Randi's hands in it, and Monday is two days away
-+ WAITING: What Pace does when she finally lets him out of the chair
-~ L28.4 DEEPENED: She gives the long step again, this time to the maker, and then gives him what was under it
-~ W28.3 SHIFTED: No word about the photo, but he answered it anyway. The world's version is fine, and he picks the one that's only his
-~ W18.5 DEEPENED: Fourteen chapters without Randi's head, and she's still on Vee's feet
-~ L10.1 DEEPENED: There's no mother's voice in the hallway, just a blush going down and down that she won't cover
++ FEAR: Randi carries "slap-and-tickle" and "did you deserve it" to Pace tonight, and Pace offers Vee the bench already knowing she said yes to it
++ SUSPICION: The "mouse that roars" ex is either Pace flipped inside out like "Paul?", or a made-up story built to give Vee a script for being spanked
++ LOVE: "Not here. Not over a story." Vee catching her own hand and putting it flat on her knee
++ LOVE: Vee's arms slow coming down from the hug, "a held note after the song has already moved on," and her blaming it on the weekend
++ GRUDGE: The stats lecture has turned into the book's theme announcement. Outliers is Simpson's paradox again with the subtlety taken out
+~ F26.1 DEEPENED: Randi didn't need Pace to tell her. Vee handed her the kitchen herself, wet hand and all, on Randi's night
+~ S26.2 DEEPENED: "Did you deserve it?" Randi is priming Vee for the bench before Pace even offers it
+~ S9.3 DEEPENED: Another Randi sex story with a man who sounds like Pace's opposite, told to steer Vee
+~ L4.4 DEEPENED: Kentucky rises on "roars," and Vee hears "the school abroad, years back"
+~ F4.2 DEEPENED: Cassie says "see you in the room" to the side of Vee's head while Vee tows Randi out
+~ W18.5 DEEPENED: Eleven chapters without Randi's head, and I can't tell if she meant anything by any of it
+~ G9.7 SHIFTED: Same debrief shape again, but this time Vee led Randi out, and it went further than any lunch
+~ G1.7 DEEPENED: The professor's line about the second kind of outlier spells out the theme before the chapter's even started

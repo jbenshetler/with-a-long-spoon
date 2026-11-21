@@ -1069,6 +1069,19 @@ surviving positions hold new prose), so: `--removed 34 --removed-policy retire
 `--tree dag-v3` was added the same day: the tool had globbed only the chain-era `dag/`
 tree, so it would have skipped the memory-v3 lanes.
 
+### Accumulated drift repaired by identity (2026-11-20)
+
+After {{Remembrance}} (ch16) was drafted in, `--verify` found 457 mismatches across the `dag`
+tree in bands of +1 to +5 and −4: several structural edits ({{Nachtmusik}}, {{The Induction}}
+moving after {{Rock}}, the {{Burn}}/{{Postcard}} order, {{Remembrance}}) had never been
+propagated, so no single `--inserted` step could repair it. Repaired the 2026-10-05 way, by
+recorded identity: each gate moved to the position its own `GATE n — Title` line names,
+planned and validated with the tool's own `validate()` and applied with its two-phase
+`apply_plan()` (464 moves, headers rewritten, 0 collisions). The seven `GATE 32 — School
+Nights` reads are reads of {{Not in Your Bed}} under its former title and now sit at ch034;
+`--verify` counts them as "no title line" because the old title is not in the chronology.
+Result: 618 gates, 611 identity matches, 7 position-trusted, 0 mismatches.
+
 ### Reviewed diptych renumbering (2026-10-23)
 
 `renumber_gates.py --merged FIRST SECOND` handles an adjacent pair whose merged

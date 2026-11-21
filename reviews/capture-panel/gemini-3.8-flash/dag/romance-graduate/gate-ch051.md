@@ -1,53 +1,30 @@
-*capture-dag-v3-grounded · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 939fbe005321 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) · history ch001..ch050 · ledger no seed 5f58fe24e658 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 302caea12f36 · 2026-11-06*
 
 REACTION
 
-I am sitting here in the dark with my hands shaking and my jaw on the floor. I don’t even know where to start. My heart is hammering so hard I can hear it in my ears. This chapter was an absolute, suffocating, five-alarm psychological tour de force.
+Oh, my heart. What an exquisitely gentle, hilarious, and grounded decompression after the absolute emotional and erotic tidal wave of the last three chapters. This is why I love Helen Rivers so fiercely—she gives us scorched-earth doorway sex and terrifying psychological tension, and then she brings us right back to earth with two college girls sitting on a bean bag in a stuffy dorm room, giggling until they can't breathe over an absurd, completely improvised lie.
 
-First of all: Dr. Marsh and Marcel Mauss’s essay on the *hau*. *The spirit of the giver rides inside the object, and the gift wants to go home.*
+"Pace. Shrank your sweater."
+"To a doll size."
 
-Helen Rivers, you absolute genius monster. The sheer weight of that thematic bomb dropping in the first five minutes of class! Randi is sitting right there beside Vee wearing *the* green-and-gold Hermès silk scarf in her hair—the scarf she gave Vee to make up with Pace, the scarf from the bondage story. Vee is wearing Randi’s shoes. Randi’s cashmere blanket is lying out in Pace’s bedroom, soaked with Vee’s release. And Pace’s burgundy dress is hanging in Vee’s closet. Every single thing connecting these three people is an inhabited gift carrying someone else’s spirit, pulling back toward its maker, tangling them in an unbreakable web of debt and longing. Nobody is free.
+I literally barked out a laugh. Cassie’s dry, razor-sharp silence before breaking into that rare, full, head-back laugh was pure perfection. Cassie *knows*. Cassie has eyes; she saw Vee walk through that door on Sunday evening in a pair of rolled-up men's sweatpants and four-inch bondage-strapped gladiator heels! She knows damn well no cranberry sweater was sacrificed to the laundry gods. But that’s the staggering beauty of Cassie’s friendship—she hears Vee’s wild, panicked cover story about being trapped in an oversized t-shirt, clocks the sheer radiant joy behind it, and just lets her have it without prying, judging, or tearing down the fantasy.
 
-And then the restaurant. God, the restaurant.
+And then that quiet little beat at the end: *"My mother says thank you for the card. She wants to know when she gets to see you again."*
 
-Randi’s story about the lawn boy and the robin’s-egg blue underwear. I felt physically sick reading that. That wasn’t just a funny college hookup mishap; that was a brutal, horrifying window into the emotional torture chamber Randi grew up in. Her mother finding her nineteen-year-old daughter’s underwear in the master bed, having them professionally laundered and folded, holding onto them for *days*, and then silently setting them down next to Randi’s plate in front of the boy at Sunday dinner: *"They're not mine. They're your color."*
+God, that hit me right in the chest. A physical ache. Cassie’s family loves Vee without an agenda, without expectations, without maternal body-shaming or high-society games. It's so steady, so pure, and so achingly real compared to the toxic Ohio chill Vee just fled from.
 
-The absolute, smiling, aristocratic cruelty of that! It explains *everything* about Randi. It explains why Randi press-gangs her thumbnail into glass rims until it bleeds. It explains why she leaves her panties on Pace’s bench like a sacrificial offering. It explains why she treats sex as an instrument of surveillance and performance rather than safety. She was raised by a monster who weaponized domestic shame as a blood sport.
+And yet... the impending dread is still humming under every floorboard. Cassie sitting right there in her graphic tee and white athletic socks, completely unaware that Pace is currently organizing a massive gathering where Cassie, Randi, and all of Vee's worlds are going to collide in one room. Vee falling asleep against that cold painted cinderblock, wrapped in his faint scent on the flannel, feels safe and restored. But the bomb is already ticking. Tuesday is coming—Anthro with Randi, dinner with Randi, and Pace's big reveal. I am holding my breath.
 
-And what does Vee do? Vee—in her magnificent, terrifying, unhinged new confidence—turns her olive church coat around on the hook and proudly shows Randi the dark, soaked bloom on the satin lining from Friday night.
-
-I literally gasped out loud. The sheer, feral erotic audacity of that! Showing another woman the physical evidence of your own dripping arousal on the satin lining of your coat while describing how your man took you with his mouth on the open porch in January! Randi’s eyes going dark and liquid, her voice dropping to a hoarse whisper, her bare foot slipping out of her shoe to press against Vee’s ankle under the table... the heat between those two women was so thick you could have sliced it with a butter knife.
-
-AND THEN THE BATHROOM STALL.
-
-Vee running down the stairs, throwing the latch, shoving her hand down her pants, and getting off against the cold partition while *Randi’s face* fills her mind—saying *he could see you were ready*—and then Vee immediately lying to herself in the mirror: *"Because that had been about Pace, obviously. All of it. About Pace."*
-
-BABY GIRL, NO IT WASN'T! You just came so hard your knees buckled thinking about your best friend’s mouth and her blue eyes across a candlelit table!
-
-And Randi sitting upstairs, pouring the last of the wine, waiting for her to come back, and dropping that lethal double entendre: *"Things were really heated. It's a good thing you got relief."*
-
-I almost choked on my own tongue. Randi *knew*. Randi has spent months orchestrating Vee’s arousal, and she read the glossy eyes and flushed skin the second Vee walked back up those stairs. Giving Vee the out—"After driving out to see Pace"—was pure, velvet-wrapped mercy, but Randi knew exactly what fire she had just stoked.
-
-And the ending. Oh god, the ending.
-
-Randi saying, *"Tomorrow... I can't wait to properly meet Pace. After all you've told me, I want to see him again."* Acting like he’s just some polite tutor from October! While Brooke’s threat hangs over her head, while Cassie is waiting with her radar tuned to high, and while Vee kissed her right on the side of her neck where she cried after Christmas—making Randi flinch like she’d been struck by lightning.
-
-Tomorrow night is Wednesday. The dinner is tomorrow. All three of them. Plus Cassie. In one room. I am not going to survive this.
-
-GATE 51 — Covering
+GATE 49 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The agonizing psychological brilliance of Dr. Marsh's lecture on the spirit of gifts, paired with Randi's devastating family trauma and Vee getting off in the bathroom to Randi's face, was an absolute tour de force—and the countdown to Wednesday's dinner is pure agony.
+WHY: The hilarious, heartwarming dorm debrief between Vee and Cassie was pure comfort and grounded realism—the doll-sized sweater cover-up made me laugh out loud, while the quiet mention of Cassie's mom wanting to see Vee added such gorgeous emotional weight.
 
 LEDGER
-+ LOVE: Dr. Marsh’s opening lecture on Marcel Mauss and the *hau*—the spirit of the giver riding inside the object, making every gift in this book an inescapable, haunted tether.
-+ LOVE: Randi’s heartbreaking confession about her mother setting out the folded blue underwear at Sunday dinner—a devastating, psychologically exact reveal of the smiling cruelty that built her.
-+ LOVE: Vee turning her church coat around on the hook to show Randi the soaked stain on the satin lining—feral, unhinged, magnificent female boldness.
-~ [F1.1] DEEPENED: Randi's childhood trauma with her mother laundering and presenting her underwear at dinner proves how deeply conditioned she is to use sex and distance as armor, making her love for Vee even more volatile.
-~ [F17.2] DEEPENED: Vee coming in the bathroom stall to Randi's face and voice proves her physical desire for Randi is now fully awake, even as she desperately lies to herself that it was about Pace.
-~ [F48.2] DEEPENED: Randi confirming she is attending Wednesday's dinner to "properly meet" Pace locks the ticking time bomb in place for tomorrow night.
-~ [W48.3] SHIFTED: The group dinner where Randi, Pace, Vee, and Cassie collide is no longer two days out—it is tomorrow night.
++ LOVE: Vee and Cassie’s unspoken shorthand—Cassie laughing until her head falls back at the "doll-sized sweater" lie and letting Vee keep her secret without a single poke.
++ LOVE: Cassie’s mother asking after Vee, offering a glimpse of uncomplicated, unconditional family warmth that Vee has never had from her own parents.
+~ [L7.1] DEEPENED: Cassie’s grounded, no-bullshit loyalty reached a whole new peak of tenderness here—knowing the outfit told the real story but letting Vee tell her ridiculous mushroom-and-laundry fairy tale anyway.

@@ -1,35 +1,31 @@
-*capture-dag-v3-grounded · gate ch018 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed d4516b432baf · 2026-11-06*
+*capture-dag-v3-grounded · gate ch018 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed e52433336b17 · 2026-11-06*
 
 REACTION
 
-Oh, Randi. This is the one I'd been braced for, and it came from the side I wasn't watching. Pace's head again, and it's the first time he's been cornered.
+Oh, Vee, you gave away the panties. The unzipped-halfway skirt with nothing under it, three feet from Cassie, is the best beat here. It's funny and it's hot. It's also the first time the secret has a physical cost in front of her best friend. I loved the ladle image too, lifting the middle out so the surface closes over it. "Kindness" she calls it, and I believe her and don't.
 
-The dinner is a slow-motion wreck. He cooks, and she says "It's wonderful," which she never says to him. The spoon drawn along the top of the sauce, not down into it, is the apple slices turned inside out. Last time he sliced thin so she'd eat. Tonight she doesn't eat, and the bowl with the one line drawn through it sits there until he puts it in the fridge. That bowl is the best image in the book so far, and it's quiet.
+Cassie's "get your brain back from your boyfriend," and "Don't wait up, lover" are tender and sad. Something crossed her face and she let the seam be. Cassie is the one person who gets half-truths and takes them gently. I'm still worried about her.
 
-Then the fight, and what a fight. "How long, Pace?" "She's not ready." "Or you're not." She's furious that he's slow with Vee, that he's taking the weekends, and she can't say the real thing. "It's selfish" is her wanting Vee herself, and him answering with "She chooses it, every step, or it isn't anything." The architecture is his moral spine, and tonight it's a weapon she can't get around. I felt for both of them. He pours every glass she's drunk in that house, and she pours her own. That's a small, brutal beat.
+Then brunch, and here's the thing. Randi is nearly drunk on Vee's story with one mimosa. The accent is slipping, and her eyes are wet. She walks Vee through the toes, the new underwear, "that face isn't about a color." Randi is collecting everything and handing it back as permission, and Vee thanks her for it. "You're not caught, you're lucky" is the cruelest kind-sounding thing she's said. Her fake ex-boyfriend story is obviously another costume. The kiss at the curb opening up and taking a little more, and Vee not checking the street this time, is the turn. Vee is walking toward Randi now, willingly. And Randi is wrecked and hiding it, and I know it.
 
-He is wrong in a very specific way. He reads "selfish" as jealousy over Friday, and so Friday happened without her. Half right, which is worse. He still doesn't see it's about wanting Vee, or about being the one left out of the one-on-one that was supposed to be hers. The ugly part of me notes they both got what the plan promised, and neither of them is happy.
+The thing I'm missing is Pace's head and the fallout from "Trade." Also, no one has asked how Randi's night with Pace went. I want the collision. The chapter is warm and low on heat, so it's a simmer, but Randi's questions are charged.
 
-The sex is the saddest in the book. No "tell me," eyes shut, hard and fast, off him at once, back turned in the cashmere. She's using him the way he used the bench on her in ch1, to avoid being found. He lies there cataloguing and misses it again. "He did not know what he had done." Oh, honey. Heat is real but cold. It's charged by what's missing.
+Mild gripe: the bistro and menu arithmetic repeats the earlier restaurant scene. And the narration still explains Vee's reading of Randi.
 
-Complaints: almost none. Pace's narration still says "he took it for the want." Short, tight, no inventory. Randi also got to be a person in a room instead of a laugh. I want her head next, and I want Vee to find out something.
-
-GATE 18 — Portion
+GATE 17 — Fed
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The uneaten bowl and the fight where neither can say the true thing are the best use of the setup yet. The joyless, "tell-me"-less sex shows how far Randi has come undone, and Pace still misses it.
+ROMANCE: 3
+ALMOST-STOPPED: "The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did." (the price-arithmetic retread)
+WHY: Randi pulling the night out of Vee one question at a time, nearly undone by it, is the both-and I read for. The kiss that took a little more, with Vee not looking over her shoulder, is the turn I wanted.
 
 LEDGER
-+ LOVE: The bowl with one line drawn through the sauce, covered with a plate and put in the fridge for her.
-+ FEAR: Randi is bleeding out of the plan, and Pace thinks "selfish" is about the pace, so he will slow Vee down, or speed her up, in the wrong way.
-+ GRUDGE: Randi is punishing Pace for a want she won't name, and using him to avoid it.
-+ WAITING: Randi's own head, finally, after this dinner.
-~ F11.1 DEEPENED: Again she left the bed and hid in the blanket, and he read it as an edge in the want.
-~ F6.3 DEEPENED: The want turned into anger at the table, the plainest leak yet.
-~ S17.3 CONFIRMED: Pace could finally smell the crack, but he misread what it was.
-~ W17.4 ANSWERED: What Randi and Pace say about the weekend is this dinner, and it went badly.
-~ S10.5 DEEPENED: Pace's "she chooses it, every step, or it isn't anything" shows he's sincere about Vee, and it's costing him with Randi.
++ FEAR: Vee is now comfortable with Randi's kisses and doesn't check for watchers, so Brooke's net can close without her knowing.
++ LOVE: The skirt unzipped halfway with nothing under it, and Vee zipping it back up in front of Cassie.
++ SUSPICION: Randi's accent and wet eyes at brunch mean she is close to cracking, and Pace may smell it on her.
++ WAITING: Pace's head after "Trade," and what Randi and Pace say to each other about this weekend.
+~ F15.3 SHIFTED: Vee has stopped looking for who saw the kiss, which makes the risk quieter and worse.
+~ F9.1 DEEPENED: Cassie gets the edited story and a kind "lover," and Randi gets the real one.
+~ S15.4 DEEPENED: Randi stopped Vee at lunch, but this time she asked every question that opened the door, so she wants it, and her voice shows it.

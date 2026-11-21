@@ -29,8 +29,8 @@ The double tellings stay — the divergences are the payload (*I did it on purpo
 | When | Cassie gets | Randi gets | Gap |
 |---|---|---|---|
 | Dinner, Sep ({{Off Six-Fourteen}} / {{Dear}}) | The kiss as her own act, the tree, the tea | *May I choose*, *I let him*, *because of him* | Same facts, a reframe |
-| Fitting, Oct 3–4 ({{Turned Up}} / {{How It's Done}}) | Nearly everything: *the bra too*, *he asked*, the grinding as triumph | The wet-spot ladder; the platform secret never told Cassie, which Randi refuses | One secret |
-| Friday night, Oct 9–11 ({{Toenails}} / {{Fed}}) | The dinner whole, the middle lifted out with the ladle | The sheet hour, *I wanted it and I took it* | The middle |
+| Fitting, Oct 3–4 ({{How It's Done}}, Saturday / Sunday) | Nearly everything: *the bra too*, *he asked*, the grinding as triumph | The wet-spot ladder; the platform secret never told Cassie, which Randi refuses | One secret |
+| Friday night, Oct 9–11 ({{Fed}}, Saturday / Sunday) | The dinner whole, the middle lifted out with the ladle | The sheet hour, *I wanted it and I took it* | The middle |
 | The dress, Oct 16–17 ({{Sorority}}) | *Oh, yes*, read off her face | The shoe date, her feet in Randi's hands | The body |
 | The dance, Oct 23 ({{Broken In}}) | Feigned sleep and *Hrm* | The whole fight, the wardrobe, the plan | Everything |
 | Heels and kitchen, Oct 26 ({{The Practice Room}}) | *See you in the room*, to the side of her head | The re-enactment in the practice room | Cassie is not told |

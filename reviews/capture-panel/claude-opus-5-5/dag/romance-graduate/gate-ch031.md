@@ -1,43 +1,45 @@
-*capture-dag-v3-grounded · gate ch031 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 6e83c4157232 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch031 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 58d533e5b707 · 2026-11-06*
 
 **REACTION**
 
-She told her. Nobody had to carry it to Monday. Vee carried it herself, on Sunday morning in full sun, over a mimosa she ordered because it was the cheapest yes on the card. Every fear I've been logging since the kitchen has been about Pace handing Vee's private body to Randi in bed. And the book just showed me Randi doesn't need him to. She says one word, "Vanilla," and Vee spends "He spanked me" before she's even decided to. That's such a small, mean, perfect lever. Randi knows Vee will defend him, and that defending him means telling. Then "Walk me," "What was the bet," "And how was it settled," each one quieter. It's an interview again, the practice room with better lighting.
+Thunderstruck. I laughed out loud alone in bed. Pace has been the merit-badge man for twenty-eight chapters: furniture, patent, sewing, the Newton speech. Now Vee looks through his kitchen window and catches him doing the worst air guitar in the world with a protein shake in his hand. "Both arms doing something nobody should do sober." That one window did more to make him human than the blush in chapter 14. He opens the door barefoot, caught out, and it costs him, and she just goes up into the hug. I loved her for keeping her hand over her mouth until she had herself back. She saw him unguarded and kept it for herself.
 
-"He checked." And Randi's "He did *not*." She knows exactly who did. She's known those hands longer than Vee has. "The cheeky devil" is a woman enjoying her lover's technique secondhand, to his other lover's face. I was turned on and furious at the same time, which is apparently the whole contract with this series now. The heat is all Vee's body. She tells it piece by piece, and each piece lands back on her: thighs pressed together under the cloth, the "slow soft give," the covers against her cheek again. It's a clothed chapter and it's as hot as the bed was. The confession is the sex.
+Then the flinch. "She had never once seen anything she did land on him." This chapter turns the power around. She pokes him and keeps poking, she's faster than he is on the open floor, she yanks his shorts off and waves them like a flag. Then the flash. "She had never in her life done such a thing." Vee kept her cardigan on through four chapters, and now she flashes him to make him chase her. It's playful, it's funny, and it's hot, and the playfulness makes it hotter. Two people goofing around and then *not* goofing around is the real stuff I came for.
 
-Then the line I've been waiting for since chapter 29: "It wasn't quite like you said." She told Randi the script was wrong, and Randi's face did nothing I got to see. "How do you mean?" Neutral, collecting. Fifteen chapters without Randi's head, and this is the moment I'd have paid most for.
+The spanking. Okay. "There it is." That's the dance lesson again, the exact words he said when she stopped guessing and let the lead in. Now he says it about her going still under his hand. The bet is a little bit standard-issue romance ("we find out"), and part of me rolled my eyes at the setup. Then came "Don't," and the hand vanished completely, palm up and empty. She breathed out and found she wanted it back, and said "Yes." That exchange is the consent done as heat, and it's exactly what I can't get from KU. The finger held up, coated, and her shame turning into "the shameful plenty of the wet." That's her wound, specific and bodily, and he looks at it the way he looked at her under the tree when she said she didn't kiss. "Like it was hers, and good." I got a little choked up in the middle of a spanking scene, which is a sentence I've never typed before.
 
-The Radford story I don't believe for a second. A Redford lookalike who can actually dance (like someone else we know), kisses like he "knew when to ease off and leave you the room to come after him." That's Pace's whole method, word for word. Then the conveniently missing man, and "panties to the side, knees wide." She didn't tell a story there, she planted a picture, and she aimed it straight at the woman who was already climbing. Vee leaves for the bathroom like Randi pressed a button.
+The best thing in the chapter, though, is Randi's story rising up in her face-down on the sheet: *would she have to count out loud?* Then "What came was nothing like the story." A tap, a question, his mouth pressed to the place. Randi wrote her a script of humiliation and theater, Pace gave her something quiet, and Vee can feel the difference. I'm dying to know whether she ever tells Randi that the script was wrong. Because she will tell Randi. "No Randi to be told," inside the little country of the bed. And outside the bed, of course there's a Randi to be told. Monday is coming. This whole tender, unwitnessed night is going to be retold in Randi's voice while Randi rides him. "Shame wants a witness." That line is a little pleased with itself, but it's also the knife: Vee thinks there was no witness, and there are two.
 
-The bathroom is the best thing in it, and the most frightening. In the practice room Vee stopped her hand on principle: "not over a story." This time she starts, and what stops her is *Randi's face*. "It was not the thinking, it was the looking." Vee has no idea what just happened to her, and I do. The person she can't be watched by is the person she's fantasizing about without knowing it. "Frustrated and cowed in the same breath." I believed every bit of it. Then "Sticky fingers?" Pastries. I gasped. Is it a door, or proof there was never one? I can't tell either, and that's the first time the book has put me exactly where Vee is.
+He didn't use the bench. He made the edge of the bed ready, turned the blanket down and folded it over the chair, and the "terrible ceremony" of it is the bench without the bench. It's still sitting three steps away under its top. I noticed and so did my stomach. The scar is "a clean surgeon's line" now, which is new, and she decides not to ask, the way you don't ask about something in a person you've decided to keep.
 
-And then the ending. "Best friend in the whole world," the cold going luminous, and the glaze on her lip from a pastry she never touched. One bite. Randi ate one bite and gave the rest to Vee's mouth. That's the feeding thread, the apple slices, the thin portions, all landing in one kiss. It's the best last line in the book so far.
+The aftercare wrecked me. Juice. He clearly hadn't planned it. Her head in his lap, "wonderful, wonderful," and "treasured," the jacket's word, landing at last. Then the scrunchies. After the hair breakdown on Monday, there's a whole drawerful with no note. That's the most romantic thing he's done and he does it without a word. But they're *deep green*. Green is Randi's color: the scarf, her scent "green at the edge." Did Randi pick them? I'm suspicious, and I'll be furious if I'm right.
 
-Gripes. You left him in the CHAIR. Last chapter ended with Pace held in the recliner, and this one jumps to Sunday brunch like that night never happened. It's the held-out hand from chapter 6 all over again. And the structure is the brunch for the fifth or sixth time: mimosa, draw-out, Randi's sex story, Vee wet, bathroom, curb kiss, "See you soon, gorgeous." It escalates every time, and the escalation is real, but I can recite the shape now, which is exactly what I said I came here to stop doing. "A confession to a priest" and "the shame and the heat were not two things" are telling me what I was already feeling.
+Gripes. The mirror monologue ("My Victorian LARPing") is Vee doing a bit for the glass again, the sad-clown routine one more time. "Confirming her fears" is clunky. "The place where the debt would be paid, and she the payment" explains a ceremony I was already kneeling in. And ending on curry and beer is a soft landing. It's lovely, an echo of the cumin and the beige childhood food, but it's a coda, not a hook. Thirteen chapters without Randi's head, and this time I barely missed her, which I suppose is its own warning.
 
-GATE 31 — One Bite
+GATE 29 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 7
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Some girls have all the luck." Randi sat back and let her own night take the floor. That's where I could feel the brunch template locking into place for the sixth time.
-WHY: The formula is wearing, and skipping the recliner stung. But Vee's hand stopping because of Randi's face is the bond turning under her without her knowing it, and the glaze on her lip is a killer ending. Monday is tomorrow, and Randi already has everything.
+ALMOST-STOPPED: "My Victorian LARPing," she told her reflection, "does me no good at all when I'm sweaty and sticky." Another mirror stand-up routine right after the most honest scene in the book.
+WHY: This is the scene I've waited for since the kitchen, and it's explicit and funny, with her particular shame wired into every beat and then dissolved by a man who's quieter than the story Randi told her. But it closes warm and full on a curry, and my pull to the next chapter comes entirely from dread about Monday, not from any hook here.
 
 LEDGER
-+ GRUDGE: The book left Pace in the recliner and cut to Sunday brunch. It's the held-out-hand skip again
-+ SUSPICION: The Radford Redford boy is invented, or he's Pace in a wig. The story was built to put "knees wide" into Vee's head right when she was already climbing
-+ LOVE: The glaze on Vee's lip from a pastry she never touched. Randi's one bite, fed to her through a kiss
-+ LOVE: Vee stopping her own hand because Randi's face showed up behind her eyes. "It was not the thinking, it was the looking"
-+ FEAR: "Best friend in the whole world." When Vee learns about the pointing game, this is the sentence that will break her
-+ SUSPICION: Randi didn't need Monday. "Vanilla" was bait, and she's mining Vee directly now, with no need for Pace
-+ WAITING: Whether "Sticky fingers?" was a door Randi was handing her, and whether Vee ever walks through it
-~ W29.7 ANSWERED: She told Randi "it wasn't quite like you said," and all Randi gave back was a neutral "How do you mean?"
-~ F29.5 CONFIRMED: She told Randi, every piece of it, including "He checked," in daylight
-~ F26.1 SHIFTED: It didn't wait for Monday in Pace's bed. Vee delivered it herself on Sunday
-~ W30.6 DEEPENED: Skipped entirely. He's still in that chair as far as the page goes
-~ G9.7 DEEPENED: Same brunch shape again: mimosa, draw-out, her sex story, the bathroom, the curb kiss
-~ W3.7 DEEPENED: Randi takes one bite and leaves the rest. The feeding thread reaches Vee through her mouth
-~ W18.5 DEEPENED: Fifteen chapters without Randi's head, and she was silent right when Vee told her the script was wrong
-~ L4.4 DEEPENED: "Ordered wine Vee had never heard of and danced with boys out of the movies." Vee is still building Randi out of glamour
++ LOVE: Pace's Thunderstruck air guitar through the kitchen window, the first time I've seen him look ridiculous, and Vee keeping it to herself
++ LOVE: "Don't," the hand gone palm-up and empty, then "Yes. We find out."
++ LOVE: The juice he didn't plan, her head in his lap, "wonderful" until she sleeps, "treasured"
++ LOVE: "What came was nothing like the story." Randi's script of counting and theater replaced by a tap, a question, his mouth
++ FEAR: "No Randi to be told." She will tell Randi, and this unwitnessed night becomes Monday pillow talk
++ SUSPICION: The deep green scrunchies are Randi's taste. She picked them or told him to buy them
++ WAITING: Whether Vee tells Randi the mouse-that-roars script was wrong, and what Randi's face does when she hears it
++ WAITING: The bench itself. He made the bed into one tonight, and the real one is still under its top
+~ S26.2 SHIFTED: He offered her "properly" through a bet, not the bench, and he made a bench out of the edge of the bed instead
+~ F27.1 DEEPENED: Randi's story was in Vee's head on the sheet. The priming worked, even though Pace didn't follow the script
+~ L23.2 DEEPENED: "There it is," the dance-pad line, now said about her going still under his hand
+~ W16.2 DEEPENED: "A clean surgeon's line." It was surgery, and she has decided not to ask
+~ L10.1 DEEPENED: "No mother's voice." Shame wants a witness, and for one night there wasn't one
+~ G26.3 FORGIVEN: The fade got paid back in full. Nothing about this night was behind a door
+~ G1.7 DEEPENED: "The place where the debt would be paid, and she the payment" and "Shame wants a witness" explain what I was already feeling
+~ W18.5 DEEPENED: Thirteen chapters without Randi's head, and this time she was in Vee's head on the sheet instead
+~ F25.1 DEEPENED: Her most private night yet, and it's Friday. Monday is three days away

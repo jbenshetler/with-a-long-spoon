@@ -1,37 +1,33 @@
-*capture-dag-v3-grounded · gate ch026 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 64a323635321 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch026 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed 12f76a18986d · 2026-11-06*
 
 REACTION:
 
-I read the whole pie scene with my heart in my throat and then the book did the thing where it made me laugh and cry in the same paragraph — "Beauty like yours made for the gods and loaned out" said in the plain hello voice, and the scarf still working on her vanity even mid-collapse, and her "clean machine" running beautifully until he asked *but what happened* and dismantled the whole apology by simply wanting the truth. Of course he did. Other books let the heroine deliver the speech and the hero says "it's forgotten." This book made the speech the obstacle — what he wanted was the why, the ugly unbuildable part, and she gave it to him sideways and crying and he *thanked her for saying it out loud.* I put the book down.
+The dance lesson on the concrete pad was the quietest hottest thing this book has done since the truck — his hand at her shoulder blade, "give me something to push back against," the whole frame-as-conversation metaphor doing double duty as the book's thesis about their entire relationship, and I sat there underlining it in my head like a fool. "Close the space and my feet can't land anywhere but past yours" — that's not a dance instruction, that's the last twenty chapters in one sentence, and neither of them knows it.
 
-And then the kitchen. THE KITCHEN. Here's what destroyed me: this is the bench. This is chapter one, the whole apparatus Randi asked about in bed, the furniture under the tabletop — and Vee just walked into it sideways, by accident, over a dishpan, laughing. One reflexive smack in a tickle fight and her body told a truth she hadn't agreed to, and the book rendered it with the exactness it renders everything — nipples, the soundless *oh*, "a bright hot line straight up." And Pace *watched her face the whole time.* He saw it before she could file it. His hands settling "just under the place" while she rode him, patient as a landmine. And when it came it was "*Please* — attached to nothing," twice, and he still didn't strike — palm bearing down, taking the place and keeping it, "No. Nothing new." This book knows that the hottest thing in the world is *restraint correctly aimed.* He found the door and stood in the doorway of it and let her walk through at her own pace, and she did, and she filed the first orgasm as bookkeeping and couldn't file the second, and "the thing he had seen sat in the room with them and neither of them reached for it" — the drawer has a new tenant and SHE'S the one keeping it.
+And then the blonde. God, the blonde. I felt her arrive like a cold draft before she even opened her mouth. And here's the thing that made me put the book down and stare at the ceiling: she was *wrong* about him and *right* about the situation, in exactly the way the jacket has been right since page one. "Knows how to get a girl to do just what he wants her to." Vee heard jealousy. I heard the plan, described accurately by a stranger with no idea what she was saying. The book's dramatic irony has been running at a hum for twenty chapters and this is the first time someone in the room accidentally said it out loud.
 
-And I can't stop noticing the irony only I can see: Randi dressed her for this. The cognac heels that made her taller than him — the height thing, the small missed-stair wrongness of looking *down* at him for the first time, her body having learned him as someone she looked up at — that's Randi's gift detonating in a direction nobody planned. And the whole two-night stay — his shirt, his shampoo, "nothing of her own left anywhere on her skin" — is Vee moving into the house one object at a time, the same way Randi's chair by the door filled up. Also "You're always beautiful" — not *you're beautiful*, which she'd have argued — landed on me like it landed on her. He aims around the defenses every single time and I'm as gone as she is.
+But the gut-punch was Vee's venom — "Does your *service* include getting the girls home safe" — and I watched her do it and recognized it, because it's her mother's register arriving in her mouth exactly when she's most exposed. Floozies. Slut. The words she's spent the whole book burning through came back and ran her for a whole night, and the book was honest enough to show me the tally: she punished him for being the man she wanted him to be. And the bartender — flat, done being asked things — was Cassie's voice transplanted into the bar, and "wasn't him they were jealous of, honey" landed like a small mercy that doesn't fix anything.
 
-The only flicker: the back half is compressed — two whole nights in a paragraph — and I wanted the Sunday. But that's wanting more, not wanting less.
+And now the ending. She's not calling Cassie. She's rationing Cassie again — the one person who'd hold it safe — and she's taking her shame and her apology to *Randi*. To the other architect. To the woman whose face goes still at the mention of the dress. She's about to walk the most private wound of her new life straight into the machinery, and Randi is going to receive a confession that is also, secretly, a love letter to Pace — and I genuinely do not know whether Randi's face can hold. This is the cruelest possible destination for that cab ride and I'm terrified for all three of them.
 
-GATE 26 — A Recognized Method
+GATE 23 — Lesson
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The apology he refused to accept until she told him the why, and then the accidental kitchen spank that walked Vee into the bench's orbit with more care and heat than any scene this book has staged — restraint, "nothing new," and a secret she now keeps from herself with his help. I'd start the next chapter in a waiting room.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none — the blonde scene had my jaw tight but tension is what I'm here for
+WHY: The dance lesson was the whole relationship in miniature, the blonde accidentally spoke the plan out loud, and Vee's mother's vocabulary ran her for a night — and now she's carrying the wreckage to Randi, which is the most loaded errand this book has ever scheduled. I would read the next chapter in the parking lot.
 
 LEDGER
-+ FEAR: That the drawer Vee just opened — the spanking, filed nowhere, unnamed — becomes Pace's instrument before it becomes her own want, and he runs the bench protocol on her without ever asking the question out loud
-+ LOVE: "Soaking is a recognized method" — Vee lobbying against his chest for dishpan science, the warmest dumbest flirting in the book, and the whole tickle-fight it rode in on
-+ GRUDGE: none new — he was exact and careful where this book could so easily have been lazy
-+ SUSPICION: His hands "settling just under the place" while she rode him weren't accident — he clocked the reaction at the sink and was waiting the whole time; the manager had a diagram again
-+ WAITING: The conversation about what happened in that kitchen — whether Vee ever names it, to him or to Randi, and whether the bench under the tabletop ever gets its invitation
-~ F23.1 CONFIRMED: The apology went to Randi AND the reconciliation went to Pace — the whole wound is now fully circulated among all three, laundered through both beds
-~ W24.5 RESOLVED: Tomorrow night happened — black dress, Randi's heels and scarf, "she's going to be so beautiful when she walks in" paid off in full, and the heels made her taller
-~ F24.1 SHIFTED: The choreography completed and then the kitchen went off Randi's map entirely — the borrowed heels detonated in a direction neither architect planned, and the newest thing between Vee and Pace belongs to no one's plan
-~ S14.4 SHIFTED: The height flipped for one scene — Vee looking *down* at him and hating it — and his answer turned the inch into a gift; the scale between them keeps finding new axes
-~ W25.5 SHIFTED: Pace's "Not yet" got a complication he didn't schedule — Vee is now keeping her own secret, the mirror image of his drawer, and the confession clock is running against new material
-~ S16.5 SHIFTED: The scar drawer stayed shut this weekend — "not tonight" still holding, with the kitchen's new door now waiting in line behind it
-~ L14.2 DEEPENED: The eyes-shut wait has a whole family now — her face jammed in his neck so he can't see what the second orgasm does to her, and him letting her hide
-~ F14.1 DEEPENED: The new spine is now authoring its own appetites — the shame-and-want wire fired in daylight, in a kitchen, and she stayed on it on purpose; whatever the plan costs, it can't cost her this either
-~ S6.4 DEEPENED: The private drawer now has a live counter-archive — Vee's own unnamed thing, kept even from herself, and he saw it and is holding it for her
-~ W19.1 DEEPENED: The induction is now days out with a new secret in Vee's body and Randi about to see her walk in glowing — the room turning on what the kitchen did
++ FEAR: That the apology goes to Randi — Vee is about to hand the plan's architects her most unguarded confession, a love letter to Pace with the wound showing, and Randi has to receive it with her face on
++ GRUDGE: The blonde at the rail — wrong about him, right about the shape, and she cost Vee her whole night and Pace his whole evening; and Vee's mother, still running her from the inside at the worst moment
++ WAITING: The Randi scene — the confession, the apology plan, and whether Randi's stillness finally cracks with the room listening
+~ F17.4 DEEPENED: The accent isn't the only costume that slips — the mother's voice took Vee's mouth over completely at the bar and Vee clocked it herself too late, "a few dates and she'd spread her legs like a slut" is chapter four's word running the whole engine
+~ F15.1 SHIFTED: The surveillance state got a new eye — the blonde crossed a bar to get a look at the exception, and "all us girls love him" means the room has been watching Pace the whole time; Vee finally knows what being watched feels like and hates it
+~ G20.4 SHIFTED: The money cracked further — the cab fare "was more than she'd guessed, and the money had been meant for other things"; the card with nothing under it just took its second hit
+~ W19.1 DEEPENED: The induction is now loaded with an unresolved fight the day before — there is a wound open between them with a ceremony in the middle of it
+~ S4.4 DEEPENED: "I wonder how many of them he's taught" — the scale got a whole bar full of inches in one night; she caught herself ranking against an entire room of women who know the shape of him
+~ F9.1 DEEPENED: The Cassie door closed by hand again, in the dark, three feet from her — "she did not wake her"; the rationing is now happening at the exact moment the friendship is most needed
+~ L4.2 DEEPENED: Cassie almost got the call — "would have sat up for this" — and the book made me feel exactly what Vee is choosing to spend on Randi instead
+~ F18.1 SHIFTED: Randi's schedule has a delivery coming she didn't arrange — the plan's mark is arriving at her door with raw material the plan never meant to hand over this soon

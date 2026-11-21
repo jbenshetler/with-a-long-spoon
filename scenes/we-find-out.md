@@ -88,7 +88,7 @@ He drew the satin aside, and there was his finger, and she braced somewhere low 
 
 He pumped her slowly, a few times, while she stood there and let him, and then he drew his finger out, slow, and she felt the leaving of it like a small cry she didn't make. He held it up. It was not just the tip. The whole length of it was coated, gleaming in the lamplight, more of her than she would ever have admitted she had in her, and that was the old shame doubled, the wet and then the shameful plenty of the wet, the thing about her body she had spent her whole life trying to keep secret even from herself, and now they could both see exactly how much of it there was.
 
-He didn't look disgusted. He looked at her the way he had looked at her that first evening, under the tree, when he'd asked if he could kiss her and she'd told him she didn't kiss a man she'd known a few days, and he had smiled as though she'd handed him something true and fine about herself. He looked at the wet on his finger the very same way. Like it was true. Like it was fine. Like it was hers, and good.
+He didn't look disgusted. He looked at her the way he had looked at her that first evening, under the tree, when he had stopped under it and she'd told him she didn't kiss a man she'd known a couple of days, and he had smiled as though she'd handed him something true and fine about herself. He looked at the wet on his finger the very same way. Like it was true. Like it was fine. Like it was hers, and good.
 
 Her tongue touched her lip before she knew it meant to, a small moist motion she felt more than made.
 

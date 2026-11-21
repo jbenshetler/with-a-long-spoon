@@ -1,41 +1,38 @@
-*capture-dag-v3-grounded · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed fe1fd25390ad · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 180baba2c18f · 2026-11-06*
 
 REACTION:
 
-Oh, god. My throat is so tight I can barely swallow. The blurb has finally caught up to us.
+I am a puddle of absolute mush. An undone, sniffling, hopelessly romantic puddle.
 
-*“He gives her everything but a word for what they are. Vivienne 'Vee' Thorne has found the best thing in her life, and it has no name.”*
+The emotional gravity of this chapter was so quiet and yet so unbelievably loud. After all the high-wire psychological warfare with Randi—the soundproof booths, the PPP loan fraud, the green panties clutched during desperate sex—this felt like walking into a warm cabin in the middle of a blizzard and shutting the door on the entire rest of the world. Just Pace and Vee, existing in the pure, earned truth of each other.
 
-Seeing those exact sentences crystallize in the dark of his bedroom—after the sweat cooled, after he came undone inside her, after he fell asleep with his heavy arm slung over her ribs—felt like a slow, dull knife turning right under my ribs.
+The frantic, bumbling stripping sequence in the hallway was perfection because it was so *unglamorous*. That’s real sex! That’s real hunger! Hopping around on one foot trying to kick off tight denim, losing your socks against the wall, laughing because the jeans are inside out at your ankles and there’s zero dignity left in the room—it was hilarious and human and so deeply erotic. And the way she just flung her green thong and it landed squarely on "the long, unusually proportioned table that stood in the middle of his bedroom"... oh, god. The bench. The secret spanking bench disguised as furniture, with her green satin lying right on top of it. She doesn't even know what that table is, but her lingerie is literally claiming it now.
 
-This chapter was agonizingly, brilliantly real. That sudden, ugly snap in the dark—*"Is this what we are now?... If we're just sex, I'd like to know"*—was such a masterclass in how unexpressed emotional dread metastasizes into petty, unfair anger. She didn't want Chili's. She didn't actually think he was "punishing" her. She was terrified because she gave him her soul on the porch on Monday morning, and he deflected it, and now her internal pressure gauge is screaming. So she picks a fight, demands public proof, and drags him to the brightest, grossest, loudest chain restaurant in town just to force him into a box her parents' world would recognize.
+And then the domesticity of the pizza! Watching him knead the dough, reduce the sauce for half an hour with heavy cream, throwing the cornmeal onto the stone with that short snap of his wrist—he brings the exact same reverent, patient craftsmanship to feeding her that he brings to loving her. And her epiphany over the slice: *"I used to just eat... like cotton candy versus cut strawberries."* He has completely rewired her palate for life, for food, for touch, for intimacy. He has made her awake.
 
-And that Chili's scene! God, the sensory precision was devastating. The sensory overload hitting Pace—the sports TVs, the pop music, the clatter—and watching him square his fork to the table, desperately trying to bring his eyes back to her face through the sheer neurological migraine of it all. Vee reading his genuine sensory distress as *irritation with her*, as proof that he’s ashamed of her! And then the nachos: the limp, salty, sour orange bag-cheese lying dead on her tongue. The realization that by teaching her what a real meal is, he didn't just spoil fast food for her—he spoiled the entire small, unexamined life she used to find "fine."
+BUT THE FLANNEL SHIRT.
 
-And then the confrontation back at the house broke my heart. She tries to rewrite history (*"You went cold on me after the Rusty Nail"*), and Pace, in his steady, immovable grace, just sets the truth down: *"You know what happened after the dance."* No yelling. Just facts. Followed by his quiet, vulnerable admission that places like that drown out his ability to hear her, and that he's listening now. It was so noble, so patient, that she immediately wrapped herself in the clean, convenient bandage of having "forgiven" him just to get back into bed.
+I sobbed. I actually had a tear slide down my cheek.
 
-AND THEN THE BEDROOM.
+When she handed it to him and that little flicker of hurt crossed his face because he thought she was returning it, and then her blurting out the raw, mortifying, beautiful truth: *"It stopped smelling like you... I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again."*
 
-Rivers writes sex with such devastating emotional stakes. Vee begging internally for his control to snap—wanting him to be rough, wanting him to take her without the agonizingly measured reverence—because she thinks if he loses control, the truth will spill out. And when his patience finally shatters, when he takes her hard and urgent and comes with that ragged, helpless sound... the truth *still* doesn't come. He spends himself completely, gives her every drop of his physical devotion, and goes straight to sleep.
+And him—putting it on *right over his own clothes immediately*, without a trace of mockery, without making her feel small or needy or crazy, just standing in his warm kitchen wearing two shirts because she asked for his scent to survive the week.
 
-And Vee is left lying there in the dark, marked with his sweat and his spend, utterly alone with the silence.
+*"All weekend. You'll have it back Sunday. Smelling like me."*
 
-*He gave her his control and all of his body and every last thing but the one.*
+It is so breathtakingly tender that it physically aches. She is moving into his life, breathing him in like oxygen, carrying him back to the dorm like a talisman. And every single brick of this sanctuary is built so solid, so pure, that when the foundation of the pointing game finally cracks, it isn't just going to hurt—it's going to level everything in sight. I am completely obsessed with this book. Turn the page!
 
-She can't show him to her dad. She can't explain him to Cassie. She can't even say *boyfriend* without feeling like a fraud. She is living inside an unnamed paradise built on top of a pointing game, and the foundation is shivering under her feet. My chest aches for her. Turn the page immediately.
-
-GATE 39 — Under the Rug
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The agonizing psychological realism of Vee picking a public fight at Chili's to force a label, followed by the scorching, desperate sex where Pace completely lost his control but still withheld the word, was an absolute masterclass.
+WHY: The hallway strip-tease was hilariously grounded and hot, but Vee asking Pace to wear his flannel all weekend so she can take his scent back to the dorm—and him immediately pulling it on over his clothes—was an absolute emotional knockout.
 
 LEDGER
-+ FEAR: Vee's mounting panic over having no name for their relationship is going to make her lay this raw wound at Randi's feet, giving Randi the ultimate opening to define what they are.
-+ LOVE: Pace's quiet, vulnerable admission about noisy restaurants—"In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now."
-+ WAITING: The inevitable moment Vee tells Randi about demanding to know if she and Pace are "just sex."
-~ F38.1 DEEPENED: Vee is actively spiraling in the dark, realizing that even after breaking Pace's physical control, his silence on the word "love" leaves her with nothing she can hold up to the world.
-~ L1.2 DEEPENED: Pace's patience cracking under Vee's passion, finally taking her hard and urgent when his own endurance broke.
++ LOVE: Pace pulling the flannel on over his clothes without a second's hesitation so it will smell like him for Vee on Sunday.
++ LOVE: The clumsy, one-legged hallway undressing—grounded, messy, realistic eroticism at its absolute best.
+~ F5.1 DEEPENED: Vee needing Pace's scent on his flannel just to survive sleeping in her own bed cements her complete emotional dependence on him, making the pointing game a fatal emotional blow.
+~ L1.2 DEEPENED: Pace's patience and care showing up in his cooking and his immediate, unhesitating acceptance of the flannel shirt request.

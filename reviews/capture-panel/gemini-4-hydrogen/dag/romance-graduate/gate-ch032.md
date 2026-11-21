@@ -1,31 +1,24 @@
-*capture-dag-v3-grounded · gate ch032 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0a371aa0512c · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 165eb97eab86 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch032 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0866878b4a64 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 27e347d0286f · 2026-11-19*
 
 REACTION
 
-Oh, *Vee*. Watching her finally let herself say it—even if it’s only in her own chest, and then whispered as *"Peter"* to his sleeping back—just broke my heart a little bit.
+Oh, *Vee*. Look at her.
 
-The whole Friday night opening was so warm and lived-in. Him swinging her off her feet inside the front door after a week apart, the salmon and warm tomatoes, the fact that he always takes his time with her first, and then coming back for her on the couch an hour later—it’s easy to see why she’s completely gone for him. And yet, the whole chapter is humming with all the things they *aren't* saying.
+If you had told me six weeks ago—back when she was apologizing to strangers on the sidewalk and hiding in cardigans—that she would be ordering Pace into his recliner on Halloween night, making him sit on his hands, and then walking down his hallway in nothing but four-inch heels and a blush, I wouldn't have believed you. And yet it feels completely, undeniably earned.
 
-The moment at the stove made me gasp. Vee is just chatting away, wine in hand, telling him about her "new friend" Randi and her cute little "French" goodbye kisses on the mouth—and Pace goes from playfully miming cheek kisses to *that* look from his bed the second he hears it’s on the mouth. He’s visibly turned on by the thought of Randi kissing her, and Vee just laughs and grabs him through his shirt, completely oblivious to the fact that she’s feeding his fantasy.
+I loved how quiet and domestic the opening was, just her sitting at his table with her wine watching his back while he did the dishes, and the fact that she’d snuck that burgundy dress into her back seat on Friday even while she was pretending she wasn't packing a bag. Giving him the induction walk he missed in Berkeley was already lethal—watching him start to get up out of the chair and then force himself to stay put because she put one flat hand out—but *Costume Two*? Stepping out of the dress and walking back into that lamplight in nothing but the heels, pink all the way down, and not covering a single inch of herself?
 
-And then Saturday morning in the bathroom! Her whole kit—brushes, pins, open face cream—taking over his pristine, wiped-down counter. He wraps around her, looks at the mess in the mirror, and says nothing, just smiles his private smile and kisses her shoulder. It’s sweet, *except* she’s still carrying that little knot of worry out of the room with her (*Did he mind?*) because he never actually says.
+And Pace. *"The other is for the world. This is just for me."* He’s going to kill me. Nobody even touched anybody in this chapter and I’m sitting here breathless.
 
-Thank god for Cassie. *"You don't come home school nights."* *"Do you love him."* She’s the only person in Vee’s life holding up a mirror, and watching Vee go small and say *"Maybe"* when she literally just admitted it to herself on Friday night was so real. She’s terrified of how fast it’s moving, especially when he hasn't given her a single word to stand on.
-
-I loved ending in the pool, too. Returning to those lanes and that quiet, rhythmic burn—and that brief, razor-sharp flash of doubt mid-lap, wondering whether he’s really that good or if she just built him that good out of wanting him—was gorgeous.
-
-GATE 32 — Not in Your Bed
+GATE 30 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Watching Vee finally admit to herself that she loves him—while Pace gets visibly turned on hearing about Randi’s "French" goodbye kisses—is devastatingly good. Cassie’s quiet reality check and Vee’s four-stroke flash of doubt in the pool keep the emotional stakes razor-sharp.
+WHY: A short, scorching chapter that pays off Vee’s entire arc of shedding her shame—watching her put Pace in that chair and walk out in nothing but four-inch heels and a blush had my heart hammering.
 
 LEDGER
-+ FEAR: Vee is falling completely in love with Pace ("Peter") while he still hasn't said a word, leaving her guessing about everything from her makeup on his counter to whether she's building him up in her head.
-~ L3.1 DEEPENED: Watching Vee claim her space in his bed, whisper *Peter* in the dark, and then use the pool to strip her head back down to quiet truth.
-~ L4.1 DEEPENED: Cassie’s *"You don't come home school nights"* and *"Do you love him"*—she's the only one holding up a mirror to how fast Vee is disappearing into this.
-~ F4.2 DEEPENED: Vee just admitted to herself that she loves him, which means the truth about Randi and Pace is going to break her heart, not just her pride.
-+ WAITING: For Pace to do something with that look he got at the stove when Vee told him Randi kisses her on the mouth.
+~ L3.1 DEEPENED: Walking out into the lamplight in nothing but four-inch heels and standing there blushing without covering an inch of herself.
+~ L1.1 DEEPENED: Staying put in the chair when she tells him to, letting the looking be the touch, and *"The other is for the world. This is just for me."*

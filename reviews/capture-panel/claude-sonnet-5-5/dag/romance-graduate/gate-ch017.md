@@ -1,31 +1,34 @@
-*capture-dag-v3-grounded · gate ch017 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed e52433336b17 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch017 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a98377168b15 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed 01d2f12cf778 · 2026-11-06*
 
 REACTION
 
-Oh, Vee, you gave away the panties. The unzipped-halfway skirt with nothing under it, three feet from Cassie, is the best beat here. It's funny and it's hot. It's also the first time the secret has a physical cost in front of her best friend. I loved the ladle image too, lifting the middle out so the surface closes over it. "Kindness" she calls it, and I believe her and don't.
+The payoff arrived, and it's good. It also did something I didn't expect: Randi and the plan aren't in this chapter at all. This is Vee and Pace, with no one else in the room, and it's the first time they've had sex.
 
-Cassie's "get your brain back from your boyfriend," and "Don't wait up, lover" are tender and sad. Something crossed her face and she let the seam be. Cassie is the one person who gets half-truths and takes them gently. I'm still worried about her.
+The build is what I liked most. The week of nothing, the flannel with the smell fading so she has to chase it, "floozie" with her nipples tightening a beat behind it. The green set bought without trying it on, the frosted plum toenails hidden in the flats. She's dressing for a first time and lying to the mirror about it. "Famished," and then hearing it a beat after he does, made me grin. Then she kisses him and takes the apron strap and asks for the bedroom herself. After the shut door in ch13, that is the answer. She asks, and he doesn't hold the door.
 
-Then brunch, and here's the thing. Randi is nearly drunk on Vee's story with one mimosa. The accent is slipping, and her eyes are wet. She walks Vee through the toes, the new underwear, "that face isn't about a color." Randi is collecting everything and handing it back as permission, and Vee thanks her for it. "You're not caught, you're lucky" is the cruelest kind-sounding thing she's said. Her fake ex-boyfriend story is obviously another costume. The kiss at the curb opening up and taking a little more, and Vee not checking the street this time, is the turn. Vee is walking toward Randi now, willingly. And Randi is wrecked and hiding it, and I know it.
+The heat is real, and the line I'll keep is that shame and heat "ran on the same wire." Nobody solves her mother's voice. She just burns through it. The "Would you be bothered if I was too hard?" beat is perfect. It's the fitting again, her body offering proof and his gladness taking it as the good thing. The oral is explicit and specific, and her hips go off without her. Then the watching: nowhere to put her face, and he sees all of it. "It was the first time that had been true." I felt that, and I also felt the dread. I know exactly what he's been to her, and I know whose bed this also is.
 
-The thing I'm missing is Pace's head and the fallout from "Trade." Also, no one has asked how Randi's night with Pace went. I want the collision. The chapter is warm and low on heat, so it's a simmer, but Randi's questions are charged.
+The ending is a very odd little move, and I'm still turning it over. She folds the soaked panties in thirds, the spot centered, drops the sheet, and says "Trade." It's the book's boldest gesture, her owning the evidence she was ashamed of, and it works as a dare and a gift. His private shoulders, the sheet left on the floor and neither of them looking: lovely. But the "Trade" has no explanation. Trade for what? His shirt? I've decided it's about the flannel and the exchange of his smell for hers, and I like that it's unexplained.
 
-Mild gripe: the bistro and menu arithmetic repeats the earlier restaurant scene. And the narration still explains Vee's reading of Randi.
+What's missing is the complication. The scene is so clean that I kept waiting for the bench or Randi's shadow, and a week ago I'd have said I needed it. The bench is in that house and she walked right past the closed door and into the bed beside it. Maybe not beside it. I also noticed the scar on his inner thigh. That's a new thing, and Daphne is still unspent.
 
-GATE 17 — Fed
+Small grumbles: the clothing and decision inventory at the start runs long, and the narration still tells me what the shame is doing. Mostly I'm very happy and very uneasy.
+
+GATE 16 — Famished
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did." (the price-arithmetic retread)
-WHY: Randi pulling the night out of Vee one question at a time, nearly undone by it, is the both-and I read for. The kiss that took a little more, with Vee not looking over her shoulder, is the turn I wanted.
+ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." (the long dressing-and-shopping prelude)
+WHY: The first time is hot, specific and emotionally exact. Shame and want run on one wire, and "Trade" is a strange, bold button. I'm happy for her and dreading what Randi does when she hears.
 
 LEDGER
-+ FEAR: Vee is now comfortable with Randi's kisses and doesn't check for watchers, so Brooke's net can close without her knowing.
-+ LOVE: The skirt unzipped halfway with nothing under it, and Vee zipping it back up in front of Cassie.
-+ SUSPICION: Randi's accent and wet eyes at brunch mean she is close to cracking, and Pace may smell it on her.
-+ WAITING: Pace's head after "Trade," and what Randi and Pace say to each other about this weekend.
-~ F15.3 SHIFTED: Vee has stopped looking for who saw the kiss, which makes the risk quieter and worse.
-~ F9.1 DEEPENED: Cassie gets the edited story and a kind "lover," and Randi gets the real one.
-~ S15.4 DEEPENED: Randi stopped Vee at lunch, but this time she asked every question that opened the door, so she wants it, and her voice shows it.
++ LOVE: "It was the first time that had been true." Vee burning through the shame instead of being closed by it, with his eyes on her face the whole time.
++ LOVE: The folded panties and "Trade," her owning the evidence and handing it to him, and the sheet left on the floor.
++ SUSPICION: The scar high on Pace's inner thigh is a new detail and a backstory I haven't been given, maybe tied to Daphne.
++ WAITING: Randi's reaction when she learns Pace and Vee have slept together, and whether the bedroom door and the bench ever come up.
++ FEAR: Pace now has Vee's body and Randi's both, and the two stories can't stay in separate houses much longer.
+~ W10.4 ANSWERED: Vee and Pace finally fell into bed, and she asked for it.
+~ W14.3 ANSWERED: The pins came out and the bedroom door opened, and she walked through it herself.
+~ S14.4 DISPROVED: He wasn't holding the bedroom back for good. He let her ask and then went.

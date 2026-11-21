@@ -1,43 +1,36 @@
-*capture-dag-v3-grounded · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d068453fd82d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch021 · history ch001..ch021 · ledger no seed b8d3f748fe78 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed e0aa7d73cf0c · 2026-11-06*
 
 REACTION
 
-I am sitting in the dark with my hand pressed against my sternum because my heart is aching so hard it feels bruised.
+Oh, my god. My stomach is in freefall. I feel like I just watched someone carefully, deliberately lay a hand over a sleeping person’s mouth.
 
-This was the chapter. This was the quiet, devastating, soul-crushing eye of the storm before the hurricane hits.
+This chapter was terrifying. Absolutely terrifying. On the surface, it’s all Sade, warm lamps, domestic cooking, and languid afterglow—Pace thinking, *Oh, look, she’s finally relaxing, she’s eating all her food, she’s asking about my Chicago conference, she’s wearing my undershirt.* He thinks they’ve found their groove again after the freeze of Chapter 18.
 
-God, the sheer *weight* of this conversation. When romance books do two people talking on a couch, it’s usually filler—banter to kill time until the next sex scene. But Helen Rivers treats emotional intimacy like an exposed nerve. The contrast between Vee’s warm, beige Ohio upbringing—the unopened saffron jar, the jet-engine father, the casseroles made of pure affection—and Pace’s stark, lonely architecture wrecked me.
+He has no idea. None.
 
-*Peter.*
-His name is Peter. And he’s twenty-two! A kid who was so brilliant at fourteen that they shipped him off to college at fifteen. That seventh-grade story—putting his desk in the hallway for a whole year because he asked math questions the teacher couldn’t answer—broke my fucking heart. "They took the thing you loved and made it the punishment." Vee understood that in a single heartbeat, without pity, just putting her shoulder against his arm.
+Randi isn’t relaxed—she has completely surrendered to the madness, and she’s running a masterclass in psychological survival. Did you hear her voice when she talked about Vee? *"She got past me before I could help it."* That wasn't just foreplay. That was Randi confessing, out loud on his chest, that she has fallen completely, utterly, helplessly in love with Vivienne Thorne. *"I keep waiting to get bored of her... and it doesn't come."* For a girl who lives on emotional starvation and disposable people, that is a fatal admission.
 
-And then Daphne. Jesus Christ.
-*Nineteen and fifteen.*
-I felt physically sick. The minute he said it, Vee clocked it—she did the arithmetic, felt the cold weight in her gut, and recognized the "clean ugly grown-up word" for an adult woman having a two-year sexual relationship with an isolated fifteen-year-old boy. And the tragedy is that Pace/Peter doesn’t see it as abuse or exploitation at all. He defended it. He called it luck. He carried that full glass so carefully so it wouldn't spill. That explains *everything* about why he builds walls, why he controls every millimeter of his environment, why he became a powerlifter to survive dorms full of grown men at fifteen, and why he has this rigid, courtly obsession with asking permission and never taking without consent. Daphne took his agency before he had any, and he’s spent his whole life building joint-work so tight no one can ever push past his doors again.
+And then watching Pace completely weaponize Vee’s radiance without even realizing the cruelty of what he was doing! When he said: *"She comes in and the whole thing goes brighter. Like somebody found the lamp... she's the most alive person standing there."*
 
-And that scar on his inner thigh! "Not tonight." He didn't pull her hand away; he kept their palms pressed together over the old wound. That is a level of earned, sacred trust that feels almost holy.
+I felt that in my chest like a knife. Randi’s entire body went completely rigid under him. *"Not the loose stillness of after. A different one, the kind that takes holding."* Because Randi knows—she knows she is the porcelain doll, the unalive, curated, starved thing, and Vee is the sun. And what does Randi do with that devastating blow? She doesn't scream, she doesn't fight. She swallows the razor blade, puts a slow smile on her face, grinds her hips down, and rides him until neither of them can think. She converts the agony of being eclipsed into pure, adrenaline-fueled sexual performance so he won't see her bleed.
 
-Which makes that final paragraph an absolute emotional execution.
+And then the kitchen. God, the kitchen made my throat tight. Taking his undershirt from the second drawer. Sitting with her knees pulled up. Asking him to cook for her. Letting him pour her wine. Eating *every single bite* on that plate.
+She didn't do that because she was hungry. She did that because she watched Vee have that exact domestic grace with him, and Randi is desperately trying to see if she can fit inside that shape too. She’s trying to earn the right to be loved the way Pace loves Vee. *"I'm going to let you feed me first."*
 
-Watching Vee lie there in his bed, wrapped in his heat, tracing the last six weeks in her head... *“I had walked into a stranger outside the dining hall and stood there apologizing... and not ten days after that a man crossed a coffee shop... It had come to her all of a piece, for no reason she had done anything to deserve. She had never been so fortunate, or so happy.”*
+And all the while, Pace is lying there having dual-track fantasies of the two women tangled together on his mattress, completely blind to the fact that Randi’s heart is breaking in slow motion and that Vee is out there thinking she’s in a private fairy tale. They are both in love with Vee now. Truly, genuinely, desperately in love with her. And when Vee realizes she’s the axis this entire sick, beautiful house is spinning on, it’s going to shatter all three of them.
 
-I felt nausea roll through my stomach. The dramatic irony is suffocating. She thinks she stumbled into a miracle. She thinks the universe looked at a lonely, starved girl in a cardigan and handed her the two most extraordinary people in the world by pure, lucky accident. She is so completely, utterly happy—and every single pebble of that foundation was laid out on a spanking bench while Randi was crying.
-
-When the truth breaks—and it has to break—it isn’t just going to hurt. It is going to annihilate her sense of reality. I feel like I'm watching an executioner raise the blade while the victim is smiling at the sky.
-
-GATE 22 — Rock
+GATE 21 — Gone
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The revelation of Pace's real name (Peter), his age, and the grooming by Daphne at fifteen was a masterclass in psychological character development, capped by the agonizing tragedy of Vee believing her luck was pure accident.
+WHY: The sheer psychological horror of Randi masking her heartbreak by mimicking Vee's domesticity—eating all her food and riding Pace to drown out his praise of Vee—was absolute genius.
 
 LEDGER
-+ LOVE: Pace explaining mathematics as the language of the universe—the horn filled with a cup of paint, the coastline, Newton's three sentences connecting a falling leaf to the stars.
-+ LOVE: Vee silently clocking the predatory arithmetic of Daphne (19 and 15) and swallowing the ugly word down so she wouldn't rob Peter of the memory he needed to keep.
-+ SUSPICION: The scar high on Pace's inner thigh is connected to Daphne or the physical environment of being fifteen in a dorm of men.
-~ [F5.1] DEEPENED: Vee is so completely, profoundly in love with Pace (and so grateful for Randi) that discovering the collision and the coffee shop were staged will utterly obliterate her.
-~ [S13.2] RESOLVED: Pace's guarded trauma isn't a rich-family estrangement; it's being a 15-year-old child prodigy isolated in college, groomed by a 19-year-old tutor, and having to lift to survive grown men.
-~ [S16.2] SHIFTED: The inner thigh scar isn't parents; it's tied directly to the Daphne/dormitory era that he promised to tell Vee about later ("Not tonight").
++ LOVE: Randi's raw, helpless confession on Pace's chest that Vee got past her defenses before she could help it.
++ FEAR: Randi is forcing herself to perform softness and domesticity (eating the food, wearing the undershirt) to compete with the ghost of Vee in Pace's kitchen.
+~ [F5.2] DEEPENED: Randi's jealousy has turned into a quiet, suffocating agony—freezing solid when Pace described how Vee lights up a room.
+~ [S1.3] SHIFTED: Randi's game has entirely consumed her; she isn't just deflecting Pace anymore, she is genuinely in love with Vee and terrified of being eclipsed.
+~ [G18.2] DEEPENED: Pace remaining utterly oblivious to Randi's quiet fracture, mistaking her panic-fueled compliance for domestic contentment.

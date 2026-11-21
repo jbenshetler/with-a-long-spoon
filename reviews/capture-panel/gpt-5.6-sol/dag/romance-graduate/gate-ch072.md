@@ -1,4 +1,4 @@
-*capture-dag-v3-grounded · gate ch069 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 7ef0ddafc4aa · 2026-11-06*
+*capture-dag-v3-grounded · gate ch072 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 7ef0ddafc4aa · 2026-11-06*
 
 REACTION — Oh, this is monstrous.
 

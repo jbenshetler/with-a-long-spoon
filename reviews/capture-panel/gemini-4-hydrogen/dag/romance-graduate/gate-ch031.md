@@ -1,27 +1,30 @@
-*capture-dag-v3-grounded · gate ch031 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8090ff35ac88 · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) · history ch001..ch030 · ledger no seed 3c41b00af593 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch031 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9e4c9f23fce8 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch028 · history ch001..ch028 · ledger no seed dd17797abbeb · 2026-11-19*
 
 REACTION
 
-*"Sticky fingers?"*
+God, I love this book. I am sitting here grinning like an idiot and my heart is still hammering.
 
-I actually gasped out loud. My heart stopped right alongside Vee’s, because for two agonizing seconds I thought Randi had just dropped the polite-friend act entirely and called her out in the middle of a sunny brunch porch. And the worst part—the *best* part, the part that’s going to keep me up tonight—is that Randi knew *exactly* what she was doing. Even with the glazed pastries sitting right there as plausible deniability, that tiny, pleased corner of her mouth staying up for the rest of the meal said everything.
+First of all, *Pace playing terrible air guitar to "Thunderstruck" in his kitchen* while Vee spies on him through the window? After twenty-eight chapters of him being this quiet, exact, courtly man, watching him shake his head loose in his gym shorts and then immediately light up when she shows up an hour early—I’m done for. And Vee! Texting him first, yanking his gym shorts off, flashing him in the den just to make him chase her—she is so *alive* now.
 
-Randi is surgical. All it took was one casual *"Vanilla"* to get Vee spilling every single detail of Friday night—the pantsing, the bet, Pace checking inside her, stripping down to nothing but those heels. Watching Vee get progressively wetter right there at the table, pressing her thighs together under the tablecloth while Randi leaned in like a cat with a mouse, was scorching. And then Randi casually drops that Radford mixer story—whether it actually happened or she just spun it up on the spot to push Vee over the edge—and sends Vee straight into a hard-lit bathroom stall, soaked and desperate.
+And then the bet. *Good god.*
 
-What wrecked me, though, wasn't even the heat of the stall scene. It was the fact that Vee didn't stop herself because of her mother's voice this time. She stopped because *Randi’s face* arrived behind her eyes, fond and clear, and she couldn't bear to be looked at like that while her hand was inside herself.
+The way he handled that—stopping the exact second she said *"Don't,"* showing her empty hands, and waiting until she said *"Yes. We find out"*—is why this book ruins other romances for me. And the spanking itself! Vee is kneeling on the bed in nothing but those black heels, bracing herself for Randi’s story—for counting out loud, for theatre, for humiliation—and instead Pace gives her quiet, gentle, soothing warmth, kissing her skin between every tap until she’s completely undone. *"Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere."* That line wrecked me.
 
-And then they walk out into the cold, and Randi looks her in the eye and calls her *"my best friend in the whole world,"* and Vee just melts into it. That final beat—Vee standing on the sidewalk alone after the Mercedes pulls away, licking her lower lip and tasting the sugar and butter of the pastry Randi took *one bite* of—is lethal.
+And then the aftercare. A glass of cold juice, her head in his lap, him stroking her hair and calling her *wonderful* until she falls asleep. And waking up to a whole pack of deep green scrunchies with white dots sitting on the bathroom counter—without a note, just because he remembered Monday morning!
 
-GATE 31 — One Bite
+She’s using his deodorant and planning to bring an overnight bag next time. She’s eating spicy curry and drinking beer in his kitchen. She’s all the way in, and she still has no idea Randi exists.
+
+GATE 29 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Scorching heat and unbearable psychological tension, all built out of a brunch table, a bathroom stall, and a single glazed pastry. That *"Sticky fingers?"* drop—and Vee tasting Randi’s pastry on her own lip at the curb—has me completely hooked.
+WHY: From the hilarious joy of catching Pace playing air guitar to "Thunderstruck" to the scorching, deeply tender bet in the bedroom—and those green scrunchies on the bathroom counter the next morning—this chapter hit every single note I read for.
 
 LEDGER
-~ F4.2 DEEPENED: Randi just called Vee her *"best friend in the whole world"* right after winding her up to the edge in a public bathroom—the fallout when the truth comes out is going to be nuclear.
-~ W27.1 SHIFTED: Vee is still trying to pretend it’s just friendship, but Randi’s face is what stopped her in the bathroom stall, and she’s tasting Randi’s pastry glaze on her lip at the end.
-+ SUSPICION: Whether Randi’s Radford mixer story was even real, or if she invented it on the spot just to push Vee into that bathroom.
+~ L1.1 DEEPENED: Terrible air guitar in his kitchen, pulling his hand back the instant she says *Don't*, bringing her juice afterward, and leaving a pack of green scrunchies on the counter.
+~ L3.1 DEEPENED: Texting first, yanking his shorts off, flashing him in the den, and finally letting go of her shame in bed.
+~ W26.1 ANSWERED: Pace turned Sunday’s swat into a quiet, tender, consensual bet in the bedroom, nothing like the theatre of Randi’s story.
+~ F4.2 DEEPENED: Vee is planning to bring an overnight bag next time, completely unaware of Randi.

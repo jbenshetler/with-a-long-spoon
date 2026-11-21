@@ -1,34 +1,37 @@
-*capture-dag-v3-grounded · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1e2c20a7eee0 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch052 · history ch001..ch052 · ledger no seed 97921961202d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 939fbe005321 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) · history ch001..ch050 · ledger no seed afef1d3cbae5 · 2026-11-06*
 
 REACTION
 
-This is the best chapter in a while, and it works almost entirely on the strength of one scene. The taste thread I've been waiting on since 47 finally gets said aloud, and it is handled exactly right.
+This is the best chapter in a stretch, and the reason is the thing I've been itching for: Randi's own mother, the laundered robin's-egg-blue underwear set beside her plate. That story is the first thing Randi has said to Vee that's true and costs her. The color climbing her neck, the glass rim under the nail, "She knew my color." Vee asks "How did they tell you?" and it goes straight through the polish. It also shows me who taught her to hide everything. And Vee, watching her friend bleed, doesn't wonder why Randi told it.
 
-Vee turns it into a punchline. "Who would ever actually *want* something that gross?" She delivers it as a party trick, and Randi answers "I do." Flat, no smile. Then "It was powerful. It turned me on." I put the book down for a second. And Vee's body clenches at the table before her mouth can say "it's gross." Then, too loud: "But it's gross." The volume is the tell.
+Then the frame flips, and Randi pulls the whole weekend out of her again. Vee tells the porch, the coat opening, and "with his mouth" outside in January. Randi's foot is out of her shoe against Vee's ankle, and she says "This is so good" to nobody. I knew where it was going. The bathroom stall is explicit and hot. But the heat comes from Randi's face arriving behind Vee's eyes at the top, and Vee insists "that had been about Pace. Obviously." That "obviously" is the whole book.
 
-Then "How does he act?" is Randi asking the one question she actually wants answered, and she asks it as pleasantly as a hostess would. Vee says "he's enthusiastic," and Randi's "Mm," with its warm satisfaction, is chilling. I know what Randi is confirming. Randi never says a word about whose taste that was. And Vee walks home with her own sentence stuck in her head like a song, with no idea what she handed over. That last line is perfect. It lets the dread sit instead of explaining it.
+"It's a good thing you got relief" is a great jolt. The reader and Vee both go cold at once. It's also funny and a little brutal. Randi didn't need to hear anything. She read her. Randi is the one person who sees Vee entirely, and Vee has no idea what it means that she was seen.
 
-Other things worked. Randi's "you can't even say it" about the swallowing is cruel and tender in the same breath. The "pleasure princess" retelling makes Randi go quiet, and the court-in-session joke makes it worse. The neck kiss is a payoff too. Vee kisses the spot on purpose this time, the catch lasts a beat too long, and Randi covers with "ticklish" again. "You picked well" is a knife, because she is thanking herself.
+The flinch at the neck kiss is a small, sharp gift. "Ticklish" is a lie I can taste. Randi is a woman who can't take being kissed gently where she's raw. And Vee keeps skipping the salt-taste story and tells herself she'll tell it Thursday. She won't. Not telling Randi is Vee's first secret from her, and she doesn't see it as one.
 
-Complaints are small. The opening swim and closet is padding, and the clothing-arithmetic paragraph is the book telling me about Vee's body again. Dr. Marsh's lecture is on the nose, as usual: grooming, and what do you spend it on now. I get it. But I didn't skim anything that mattered.
+Dr. Marsh's gift lecture is on the nose. The hau wants to go home, and I get it, gifts aren't free. Fine. But this book trusts me enough that it doesn't need the thesis. Mild annoyance, plus the restaurant and outfit inventory slowed the start.
 
-I'm nervous now. Randi has what she needs and Vee still doesn't see it.
+Wednesday is in the last paragraph, and I want it badly.
 
-GATE 53 — A Clean Plate
+GATE 51 — Covering
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "Not the wrap again; Tuesday's verdict on that was in. The bias-cut skirt, then" (the closet and clothing-arithmetic opening)
-WHY: "I do." and then "How does he act?" is Randi asking the real question in a hostess voice, and Vee's "he's enthusiastic" handing it over. The last image, her own sentence following her home, is exactly how I want the dread served.
+ALMOST-STOPPED: "Dr. Marsh was tall, of no age Vee could have sworn to, and built like a marathon" (the professor sketch and the lecture spelling out the book's theme)
+WHY: The robin's-egg-blue underwear story finally cracks Randi in front of me, and Vee in the stall coming to Randi's face while swearing it's about Pace is the book's engine, hot and exact. "It's a good thing you got relief" is a great jolt, and I'm desperate for Wednesday.
 
 LEDGER
-~ S47.3 CONFIRMED: Vee told the taste story, and Randi's "I do" and "How does he act?" show she recognized her own taste. It's no longer just a fuse.
-~ F47.4 RESOLVED: Vee told Randi on Thursday after all, and Randi answered with the truth about herself.
-~ F51.4 RESOLVED: Vee told it, so this secret is out, though she softened the rest.
-+ FEAR: Randi now knows for certain that Pace is enthusiastic about her taste on Vee's mouth, and she will do something with it.
-+ SUSPICION: Randi's "Mm" was confirmation. Vee gave her the proof without knowing.
-+ LOVE: "I do." Randi's flat honest answer in the loft, the one unperformed moment in the whole dinner.
-+ WAITING: What Randi does with this. Whether Vee ever works out whose taste it was.
-~ S51.3 DEEPENED: The neck kiss again, with a catch that lasted a beat too long, and "ticklish" again.
++ LOVE: Randi's laundered robin's-egg-blue underwear story, "They're your color," and the glass rim under her nail, the truest thing she's told Vee.
++ LOVE: "Things were really heated. It's a good thing you got relief." Randi reading Vee through a floor.
++ SUSPICION: Randi's "ticklish" flinch at the neck kiss is a cover; gentleness at that spot undoes her.
++ FEAR: Vee is now keeping her first real secret from Randi, the salt taste, and thinks she'll tell it Thursday.
++ GRUDGE: Dr. Marsh's hau lecture states the book's theme about gifts out loud.
++ SUSPICION: Randi's mother's shaming is where her face and the hiding were learned.
+~ S47.3 DEEPENED: Vee skipped the taste story again, relieved the chairs went up before she reached it.
+~ F47.4 SHIFTED: Vee now plans to tell Randi Thursday, but the relief she felt at being stopped suggests she may not.
+~ W47.5 SHIFTED: The Tuesday dinner happened and the taste question still didn't get asked.
+~ F31.4 DEEPENED: Vee again pictured Randi's face at the peak and told herself it was about Pace.
+~ G49.3 FADED: This chapter finally moved, with a real dinner and a real crack.

@@ -1,30 +1,27 @@
-*capture-dag-v3-grounded · gate ch052 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed b374d91390d8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 9ff90468bbcb · 2026-11-06*
 
 REACTION
 
-The ending is the problem, and it's a good problem. The chapter spends its first two-thirds being what I wanted: the dinner I've been dreading goes beautifully. Pace says "Vee's boyfriend" six times, flat, like a man with one credential. It's the word she begged for in December, handed over in public. Then he does the thing he does, setting up everyone's first line and standing back. Cassie *talking* is the best beat. "You can stay" is perfect. I'm warm toward him in a way I haven't been since the pancakes.
+It's a friends-at-brunch bridge, and it's warm and funny. Kayla at the locked dining hall doors is a gift. But it's the third quiet chapter in a row, and I'm counting.
 
-Under that, the stakes are all mine to see. Randi's grip on Vee's hand at "boyfriend" is the bones-grinding kind. "To my beautiful best friend," the glazed quiet, and the nail going white under the glass rim are Randi coming apart in public while Vee is proud she moved her. Pace, in the lot, watching the kiss from twelve feet away with nothing on his face, is the one I can't read. Does he know what he's looking at? Then "They share an interest. You." That is the book's most loaded line, and Vee hears it as sweet. I put the book down for a second.
+What I noticed is that Vee edits again, now for a third audience. For Cassie the doorstep became a laundry accident. For Kayla and Meg it's "I flashed him on his front porch," a good story with the real story sanded off. She never had to say a word about the drive, the mirror, or the cruiser. Meg's maple-bacon apology gets her a laugh and a "big apology" verdict, and Vee just takes it. Every friend now holds a different cut of that weekend, and only I have the whole thing. I like that tension, but I'm waiting for the first friend who won't take the cut.
 
-Then the truck. Explicit, specific, hot. The stillness of his hand in her hair and the thong pulled aside by her own fingers both work. But notice what she does with the heat. She gets wet at Randi's toast, then crosses a parking lot and spends it on him. The wire still runs through Randi, and Pace is where it lands. Her refusing to ask what the sentence at the window is about is the book telling me she half knows. I felt that.
+The dread is the new part. She tells them flatly: "Wednesday night. He's taking us all to dinner. Everybody. Randi." Pace and Randi at one table, with the salt-edge question hanging unspoken, is the collision I've been promised. Vee being proud of "he's handling it" is the sweetest, most ironic line in the chapter. He's handling it more than she knows.
 
-I'm a bit tired of the eight-paragraph room tour opening, and the section of everyone getting handled by Pace ran long. The taste thread is still unmentioned, which I find deliciously ominous now, not irritating.
+I'm tired of the price-card habit, though. She reads the right side again, then spends "without arithmetic." It's the book telling me she's grown. The scene holds no heat and no turn. Wednesday had better pay all this off.
 
-GATE 52 — Among Friends
+GATE 50 — Across
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 6
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Dinner organized itself around the buffet, which meant it never organized at all" (the long stretch of Pace working each guest in turn)
-WHY: "Vee's boyfriend" six times, Cassie finally talking, and Randi's white-nailed quiet at the toast are exactly the both-and I read for. The truck is hot, and "They share an interest. You." is the line I can't stop turning over.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "The menu was a single heavy card. Vee knew what things cost here, and read the right side of hers anyway, out of old habit, and put it down" (a repeat of the price-reading beat)
+WHY: Kayla is funny and the dinner announcement sets up the collision I've been waiting for. But it's a third quiet chapter, and Vee's cleaned-up retelling is the same move I've watched twice already.
 
 LEDGER
-+ LOVE: "Vee's boyfriend," said flat to six faces, the word she wanted finally spent in public.
-+ LOVE: Cassie talking, cap pushed back, and "You can stay."
-+ SUSPICION: Pace's "They share an interest. You." is more knowing than Vee hears, and his blank face watching the lot kiss may not be blank.
-+ FEAR: Randi is coming apart in plain sight (the grip, the toast, the white thumbnail) and Vee reads it only as being moved.
-~ W50.1 ANSWERED: The dinner happened and both held their faces, Randi barely.
-~ F31.4 DEEPENED: Vee's heat at Randi's toast was spent on Pace in the truck, and she refuses to hear the thought at the window.
-~ S47.3 DEEPENED: Still unspoken, and now Pace and Randi have actually met and talked.
-~ S50.2 CONFIRMED: Pace managed the whole evening, the guest list and every guest's first line.
++ WAITING: Wednesday's dinner with Pace, Randi, Cassie, Kayla and Meg at one table, and how Randi and Pace hold their faces.
++ SUSPICION: Pace is choosing the place and the guest list, "Bring Cassie," "Bring Theo," so he may be managing the evening around Randi.
+~ F9.1 DEEPENED: Kayla and Meg now get a third cut of the weekend, so every friend holds a different edit.
+~ G49.3 DEEPENED: Third quiet bridge chapter in a row, with the price-card habit again.
+~ W47.5 SHIFTED: Tuesday's one-on-one with Randi now leads into Wednesday's group dinner, and the taste question still hasn't been asked.

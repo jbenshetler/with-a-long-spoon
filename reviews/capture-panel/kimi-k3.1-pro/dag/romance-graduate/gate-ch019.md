@@ -1,59 +1,64 @@
-*capture-dag-v3-grounded · gate ch019 · kimi-k3.1-pro · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch018 · history ch001..ch018 · ledger no seed 02347bf65d07 · 2026-11-13*
+*capture-dag-v3-grounded · gate ch019 · kimi-k3.1-pro · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6a9ab2497501 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 0803961f4ac0 · 2026-11-13*
 
 REACTION
 
-Oh, this was **happy**, and I hadn’t realized how starved I was for happy sex in this book until they were both laughing with a half-removed silk gown between them. After Randi’s closed eyes and turned back, after that poor refrigerated bowl, this felt like being let back into a warm room.
+Oh, the **bag was on the chair this time**. That got me before the bowl did. Last time Pace saw the empty chair and set it aside; this time the overnight bag is physically there, some part of Randi has arrived prepared to stay, and he *still* sets it aside. Then she smells dinner and says, **“You shouldn’t have.”** Not thank you. Not even the bright little performance yet. Just the immediate refusal of having been cared for before she knows whether she can bear the evening.
 
-The dress undid me before anybody got naked. Not simply because it was beautiful, though God, the burgundy lit from inside itself. It was that Pace had taken the further trouble to **hide the trouble**. No visible labor, no little speech about the hours or the silk or what he’d sacrificed, no invoice disguised as romance. Vee gets to stand there crying because something she once threw away inside a sentence has come back finished. And he just says yes, he made it. He doesn’t make it smaller, but he doesn’t make himself bigger either.
+The small bowl hurt. The apple bowl, because he knows exactly how much food she will permit herself to receive. I couldn’t decide whether that was tenderness or collaboration, and of course it is both. He spends the afternoon cooking for her and then ladles out the portion least likely to frighten her. She draws one line through the surface, pronounces it **wonderful** in the voice she uses for waiters, and leaves the rest to skin over. He notices every bit of it—the bread untouched, the salad fork, the bowl not moving—and keeps leaving it alone because pressing would be another thing she could refuse.
 
-Then it actually **fit**. Everything else she has ever worn was cut for no one in particular; this was cut for her. I felt that in my own shoulders. Not a dress that fixes her, not a dress she has to earn by standing differently or sucking something in—a dress that already believed her body was the correct body. Her mother still gets *floozie* into the mirror, of course she does, but this time Vee stays. She looks expensive. She looks like a lot of woman. She lets herself want the height and the shoes and the whole entrance.
+And somehow her pouring her own wine felt bigger than the sex.
 
-And the lining made me narrow my eyes a little, in the middle of all my crying. Pace had built concealment exactly where he wanted it and revelation everywhere else. Then the slit opened to her hip. This gown was designed around being seen before Vee ever stood in front of that mirror. That is intimate and a little unnerving, because he understands something about her wanting before she has finished claiming it.
+He has poured every glass she has ever drunk in that house. This time she reaches across, takes the bottle, and serves herself a full one. It felt like defiance and desolation at once. She can take that. She can finish the salad down to the dressing-heavy leaves. She cannot sit across from him and eat the thing he made because he wanted to feed her.
 
-But he did **not** tell her to take her underwear off.
+Then **“She’s happy,”** and Pace is glad all the way down, without hiding it, and Randi puts the glass rim under her nail. God. She could receive Vee’s happiness at brunch when its glow was on her own face. Watching Pace receive it is something else entirely. **You’ve got her Friday to Sunday** is not a question about ethics or pacing. It is about time. Access. Her portion. She has just come from Vee’s mouth at the curb, which Pace does not know, and still experiences his gladness as proof that she is being starved out of something.
 
-That was hers. Her first thought was to keep her steps small, and her second was hotter and braver and entirely her own. Then she didn’t mince carefully back into the den managing the slit. She **strode**. The difference mattered so much. Pace built the room; Vee decided what happened in it. Again.
+Her pain is real. Her entitlement terrified me.
 
-And the sex was scorching, yes, but also ridiculous in the most intimate possible way. The standing, barely moving closeness; the sudden practical emergency of the silk; *there’s a lot of you covered in a lot of me* making him twitch in her hands; the dress stuck at half-mast because she cannot stop laughing. I had to put my Kindle down for a second. Pace was not administering another flawless erotic experience. He was physically inconvenienced, surprised, laughed at, trying to protect a hem while a naked woman wiped her hands on him. They were two people making a mess of something and refusing to give up any part of it.
+**How long are you going to take?** is not *how do we make sure Vee comes to this freely*. It is *when do I get mine*. And calling him selfish lets Randi make that demand without ever saying the sentence that would actually expose her: *I want to be with her too. I want to be included. I want you to want me here.* She would rather put Vee on a timetable than admit what she wants for herself.
 
-Then the finger inspection turned into his mouth, and I stopped laughing quite so comfortably.
+But **“Or you’re not”** lodged somewhere uncomfortable. Because yes, maybe Pace is not ready. Maybe he likes having Vee to himself more than his story of patient facilitation allows. Friday was private, mutual, nourishing; Randi was not there, and some part of him may not be eager to give that up. I don’t think that is the whole truth. I do think Randi put her finger on a possibility he has no language for.
 
-But the part that really got me was her feet flat on his chest. He could have come straight through that small barrier, and he stopped where she put him. She got to arrange herself, open herself, make him wait, and ask **Well?** like a woman who already knows the answer and wants to hear it anyway.
+And then Pace said, **“She chooses it, Randi. Every step of it. Or it isn’t anything,”** and I wanted to reach through the page.
 
-**I’m looking.**
+Every step except the lawn. Except the collision. Except being introduced to a man whose girlfriend had already chosen her and imagined her on the bench. He can make that magnificent speech because he has divided consent into all the visible moments he personally administers and put the original theft outside the frame. He hears how self-righteous it sounds and doesn’t take it back *because it is true*. It is true. It is also nowhere near sufficient as his defense.
 
-That may be the hottest thing he has said in the entire book. Not because looking is new between them, but because she is no longer enduring it as the price of being desired. She is calling for it. Directing it. Enjoying the evidence of what it costs him to hold still. The sound she makes should shame her and doesn’t. Her mother’s voice has not disappeared forever; it just doesn’t get to narrate the whole experience anymore.
+Neither of them says the actual thing. Randi doesn’t admit jealousy or longing. Pace doesn’t admit that Vee has become someone he wants privately, not merely someone he is escorting toward *us*. They each have pieces of Vee locked away—the truck and Trade for him, the mouth kisses and Vee’s **I took it** for Randi—and each sits there feeling robbed by the other’s locked door.
 
-And afterward she lets him sleep. She understands without being told that he was awake finishing the dress at some impossible hour, and she doesn’t wake him to demand reassurance or make the evening about her gratitude. She watches him, settles against him, receives the arm that comes around her in his sleep. There is care flowing in both directions again. Pace isn’t the only person in the room capable of noticing someone’s exhaustion.
+Then there was no **Tell me**.
 
-Randi never appeared, and after Sunday her absence wasn’t simple relief. It was a held breath. Four days ago she was demanding to know how long Pace would take; now he and Vee have another private afternoon with its own surprise, its own jokes, its own history. He can finish a gown at two in the morning and still not find ten honest minutes to tell Vee who else has been in that bed. The goodness doesn’t cancel the withholding. The withholding is starting to look almost obscene beside this much happiness.
+That silence was louder than either of the previous scenes. No inch and stop, no eyes on his, no story placed between their bodies. She puts him inside her and drives with her eyes shut, and Pace eventually understands that it is not for him. I wasn’t turned on. I wanted it to be over. Not because her desire was ugly, but because both of them were physically climaxing inside an almost total refusal to accompany one another anywhere.
 
-The induction fantasy was glorious and also snagged something in me. Of course she imagines arriving late. Of course she imagines the safe department-store navy and the whole room turning. There is vanity in it, class hunger, a little revenge, the desire not merely to feel acceptable but to be **envied**. I loved that it wasn’t some pure, wholesome self-esteem exercise. She wants the entrance. She wants the silk and the slit and the knowledge that nobody else in the room is wearing anything like it.
+And she stayed. Technically.
 
-But **it just felt like what she was for**—no. Or rather: yes, enjoy being looked at, enjoy it shamelessly, but please don’t let being looked at become the thing you are *for*. Vee has a mind and friends and work and an old self underwater and a dozen other places to stand. I don’t want this beautiful new public woman to replace those rooms rather than join them.
+That was worse than watching her drive away last time. The bag by the door, the blanket around her, her back to him, her breathing eventually changing into sleep. She can remain overnight now that she has made herself unreachable. Pace doesn’t put his hand in her hair, and I was grateful for that tiny restraint, even while his **want, with an edge on it tonight** made me want to scream. He lays out the speed, the closed eyes, the missing question, the turned back—and still will not assemble what they mean.
 
-And **getting away with something** is the phrase I keep returning to. She is happy, genuinely happy, but some part of her still experiences this much beauty and wanting and chosenness as something she has managed to steal before anyone catches her. That is exactly what frightens me about the induction and about the truth. One public sneer, one revelation about the design, and she could decide the whole woman in the mirror was somebody she had no right to be.
+Of course he cannot find what he did by searching the evening *from the gravel forward*. The wrong thing is not concealed in one gesture between her car and her bowl. It is behind him, in the whole arrangement, in everything he has chosen not to know.
 
-Also: the shoes are a loose thread, and I do not trust who is going to pick it up.
+And then he covers her uneaten bowl and puts it in the refrigerator **for her**.
 
-My 1 a.m. text is: **THE DRESS HAS A HIP SLIT, she took her own panties off, and then they nearly destroyed the couture having sex and laughing too hard to get it off her. Peak. But “what she was for” and “getting away with something” mean I am now bracing with my entire body.**
+I nearly cried at that stupid bowl. He can preserve dinner against a hunger he cannot name. He can keep the food from spoiling and have no idea how to keep the woman. It is tender, inadequate, completely Pace.
 
-GATE 19 — Peekaboo
+My 1 a.m. text is: **She brought her overnight bag, wouldn’t eat, poured her own wine, fucked him with her eyes shut and no “tell me,” stayed with her back to him, and he PUT THE BOWL IN THE FRIDGE. Also “she chooses every step” PACE I WILL FIGHT YOU.**
+
+I need the morning. I need to know whether she eats it, leaves it, or ever tells him one plain thing. And I need this rupture not to become simply more pressure placed silently on Vee’s next yes.
+
+GATE 18 — Portion
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dress turned being seen into grief, vanity, play, and ecstatic sex, and the laughing logistics made Vee and Pace feel more equal than any perfectly administered scene. I’m racing toward the induction because “what she was for” and “getting away with something” left a splinter under all that happiness.
+WHY: The overnight bag, self-poured wine, and sex without “Tell me” turned Randi and Pace’s private exclusions into an open rupture, while the refrigerated bowl kept their damaged tenderness unbearably alive. Pace’s consent speech enraged me without slowing me down; I need the morning and whatever truth finally survives it.
 
 LEDGER
-~ L1.2 DEEPENED: Pace’s attentiveness is now weeks of invisible labor—the finished silk, the strategic lining, the mirror, the pedestal, the night he stayed up getting it right—and he asks for no admiration invoice. In bed he can also stop exactly where Vee’s feet put him and let her direct the looking.
-~ L9.1 DEEPENED: Vee’s deliberate self removed the underwear, strode to him, initiated the sex, held him off with her feet, and asked for his looking outright. She is not merely accepting erotic experiences now; she is inventing their pace, shape, and jokes.
-~ L10.1 DEEPENED: Vee recognized the all-night labor in Pace’s exhausted sleep without needing to be told and let him rest instead of asking for more reassurance. His sleeping arm around her made the care feel quiet and mutual rather than administered.
-~ F3.1 DEEPENED: Exposure now threatens not only Vee’s trust but the finished dress, the laughing intimacy of this afternoon, and the magnificent public woman she imagines becoming at the induction. The truer and happier this feels, the more completely the design could make her doubt her right to it.
-~ F14.1 DEEPENED: This whole afternoon is now something I need Pace to keep from Randi—the dress rescue, Vee’s laughter, her feet on his chest, and “I’m looking.” If any of it becomes erotic tribute, it will feel like scavenging a joy she authored completely.
-~ S18.1 DEEPENED: Four days after Randi demanded speed, Pace prepared another entirely private afternoon for Vee, and their exclusive intimacy now has its own labor, rituals, jokes, and history. Whether he is consciously delaying for himself remains unspoken, but he is plainly building something that does not require Randi.
-~ W10.3 SHIFTED: The burgundy gown is finished, lined, tried on, and thoroughly christened; the induction itself, the shoes Vee does not own, and whether that night forces any public definition are still ahead.
-+ LOVE: Vee and Pace being clumsy and funny during sex—the silk at half-mast, “a lot of you covered in a lot of me,” the helpless laughing while they try to save the dress. Desire finally gets to include play instead of only revelation and care.
-+ FEAR: Vee’s new confidence may still be conditional on being desired and chosen. “What she was for” and “getting away with something” make me afraid that public judgment or the truth could collapse the woman in the mirror instead of merely hurting her feelings.
+~ F1.1 DEEPENED: Randi is now responding to intimacy and exclusion by pressing for Vee on a schedule, then making herself unreachable through sex, food refusal, and a turned back. Vee is increasingly the means by which she tries to recover control.
+~ L1.2 DEEPENED: Pace’s care remains exquisitely exact—the apple bowl, the afternoon of cooking, the refusal to press, the uneaten dinner saved for her—but it now feels inseparable from his blindness. He can nourish every manageable part of Randi and miss the whole woman.
+~ G3.5 DEEPENED: Pace’s “She chooses it. Every step” made his original deception more infuriating, not less. He has built a moral defense out of honoring each immediate choice while refusing to count the choices he and Randi made before Vee could know she was choosing anything.
+~ F6.1 SHIFTED: Randi is now openly pressing Pace to accelerate Vee toward “us,” provoked by Friday happening without her and by Pace having Vee’s weekends. The acceleration is no longer only something I fear she may covertly arrange; she has said the timetable out loud.
+~ S11.1 CONFIRMED: “I want us” was real shared wanting. Randi’s anguish over Pace having Vee Friday to Sunday, her jealous reaction to his gladness, and her refusal of “Tell me” make clear that she feels personally excluded from something she wants—not merely overwhelmed by sex.
+~ F11.2 DEEPENED: Even with the closed eyes, missing “Tell me,” immediate withdrawal, and turned back laid out before him, Pace calls it want with an edge. The rupture is now visible in the room, and he still cannot interpret it.
+~ W16.4 SHIFTED: Randi never said “Tell me,” and Pace did not ask what Vee had told her because “That was Vee’s.” No part of Trade or the first night changed hands, but the expected erotic accounting has now been replaced by silence and conflict.
++ SUSPICION: Randi’s “Or you’re not” may be partly right: Pace could be delaying not only for Vee’s readiness but because he wants to preserve the private, exclusive intimacy growing between them.
++ GRUDGE: Randi, for converting her very real loneliness into “How long?” and treating Vee’s pace as Pace’s selfishness. She cannot ask plainly for her own place, so she reaches for Vee’s.
++ WAITING: The morning after the overnight bag and the refrigerated bowl—whether Randi eats, leaves, or finally speaks, and whether their rupture reaches Vee as pressure before anyone gives her the truth.

@@ -1,42 +1,36 @@
-*capture-dag-v3-grounded · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 833975fab4c0 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 9000fe9aa45a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 80912e430e9c · 2026-11-06*
 
 **REACTION**
 
-"You remember Randi? From the froyo day." "Sure."
+She put him in the chair. That's what I'd text at 1 a.m. For thirty chapters Pace has been the one who decides where people stand. He built the riser, made the bed ready, said "not yet," led the dance. Tonight Vee says "Wait for me in the recliner," he starts to get up, and she puts out one flat hand and he sits back down. "She watched him make himself do it." Then his hand comes partway up and he puts it away again, and she can see it costs him. That's the fitting turned all the way around. In chapter 14 he kept his eyes off her while she stood on his pedestal and burned. Now she has him on his own furniture with the wine untouched, and she's the one deciding when the looking ends. It isn't sex, but I felt it as a power scene, and it was hot.
 
-*Sure.* I put the Kindle face-down on my chest after that one word. He's standing at his own stove turning salmon while the girl in his shirt tells him the staged collision as a happy accident: "I walked right into her… small world." He gives her nothing back, and he's not lying with a story, he's lying with an absence. Then she does Randi's accent and files it under Europe again, *to the man whose bed Randi's Kentucky comes out in.* Then "kiss-kiss," her tongue going to her lower lip, the same lip that had the glaze on it last chapter. His grin leaves, the bed look comes in, and Vee reads it as jealousy and soothes him: "Not *that* kind of French." She has it exactly backwards. That's not jealousy, that's a man hearing his threesome get closer. Then she reaches down and finds him hard and promises to "pretend it was that kind" after dinner. She's feeding him the fantasy herself, without knowing it's his fantasy. That's the best scene of dramatic irony since "Paul?" and it's cruel and hot together, which is the contract.
+The second costume got me. The costume is "The heels stayed on," and the pink "was not stopping there," and she goes out anyway. "Knowing that, and going anyway, was the entire costume." Yes, the book explained it to me again. But it's also the truest sentence about Vee in two volumes. The cardigan girl walks ten steps down a hall in nothing but four-inch heels, on Halloween, the night everyone else gets to be somebody else, and she uses it to be exactly herself. "And this is what I had on under it." Then her hip cocks out "before she knew a thing about it." Her body is ahead of her again, but this time it's ahead of her toward pride, not toward shame. I loved her.
 
-The "Peter" whispered to him asleep wrecked me. She loves him, he's never said it, and she decides she can "live clear inside the everything-he-did and not go hungry for the saying." That's the jacket line landing, and I believe she believes it. I don't. Then in the bathroom his eyes go down to her mess on his one clean counter, hold, and come back up with nothing said. "He never said." It's a tiny moment and it's grown-up, and it's the same silence as the love, just smaller. I loved that the book didn't tell me which it was.
+There's a cost, though. This is the induction walk again. The long stride, the slit, the murmur, all re-staged for an audience of one. It's lovely that the man who made the dress finally gets to see it work, and "The finished thing had crossed a stage for everyone but its maker" is a good line. But I read the stride four days ago, and part of me felt the book taking a victory lap. And the boots-to-the-car, makeup-in-the-backpack prep is more throat-clearing before the payoff, the way the dressing scene in "Famished" was.
 
-Cassie gets the debrief this time, not Randi, and I'll take every bit of that. "You're a public utility." "There's only one way *that* burn happens. Not enough on." "Do you love him." Vee goes small and says "maybe," and the swim is her trying to find out why. The four strokes where she can't tell if he's that good or if she *made* him that good out of wanting are the closest she's come to the truth in two books, and the wall takes it away. That's real interiority.
+Then "That's like asking me to choose between sunrise and sunset." Oh, Pace. That's a greeting card. He recovers with "The other is for the world. This is just for me," which is good, and it's the photo question answered without the photo. She sent the world's version to Berkeley, and he picks the one nobody else gets. Except I keep thinking about the black straps. Randi knelt in the boutique and buckled them. Randi's hands are on Vee's ankles in the one viewing that's "just for me." Nothing in this house stays just for anyone. Small quibble: if Cassie's photo caught the full stride, did he really never see the heels under the dress? I'll let it go.
 
-Gripes. A week apart, she's off the ground at the door, and the sex is all memory and summary: "some nights his mouth, some his hands," and the couch "unhurried." It isn't a fade exactly, but it's a montage where I wanted a scene, on a reunion of all nights. And the second half is a long, lovely, quiet swim that ends on her thinking about a sandwich. That's two soft landings in a row (curry, now a sandwich), and the pool is gorgeous but I was skimming the hymn paragraph. Also, she was at his place *Monday*. Monday was Randi's night. Where is Randi? It's sixteen chapters without her head, and this time she isn't even in the room. She's just a story Vee tells the man who already knows it. The bras "on a hook" bit made me pause too. He's feeding her up, the girl Randi isn't, and I can't tell yet how the book feels about it.
+Fourteen chapters without Randi's head. It's Saturday night. Monday is coming, and I'd bet my Kindle this hallway walk ends up as a story in Randi's mouth.
 
-The recliner is never coming back, is it.
+It ends with him still in the chair, and that's the right cut. It leaves me wanting.
 
-GATE 32 — School Nights
+GATE 30 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 6
+NEXT: 8
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "She never had to decide what to swim, any more than she had ever once decided the second verse of a hymn." That's where the pool turned into a mood piece, and I started skimming for a voice.
-WHY: The kitchen is devastating: "Sure," Europe, "kiss-kiss," and Vee calming the wrong kind of hard. "Peter" to a sleeping man is the romance at its peak. But the reunion sex came as montage and the chapter ends on a sandwich, so what's pulling me now is dread about Randi, not this chapter's hook.
+ROMANCE: 2
+ALMOST-STOPPED: "That's like asking me to choose between sunrise and sunset." That's the book-boyfriend line, right when he'd finally gone quiet and human.
+WHY: Vee running the scene and Pace forcing himself to stay in the chair is a lovely reversal of the fitting, and walking down the hall naked in heels is the whole cardigan arc paid off. But it re-stages the induction walk and stops short, so I'm reading on for what he does when she lets him up, and for Monday.
 
 LEDGER
-+ LOVE: "Sure." Pace playing dumb about Randi at his own stove, and his grin dropping into the bed look at "kiss-kiss"
-+ FEAR: Vee calmed what she thought was jealousy and promised "that kind of French." She's handing him the threesome without knowing it's on the table
-+ LOVE: "Peter" whispered to him asleep, and her deciding she can live without the saying
-+ FEAR: "He never said." The counter and the love are the same silence, and she's telling herself it doesn't hunger
-+ LOVE: Cassie getting the debrief: "public utility," "not enough on," "Do you love him"
-+ SUSPICION: Vee's there most school nights, Mondays included. Randi's night is being squeezed out, or it's moved somewhere I'm not being shown
-+ GRUDGE: A week apart, and the reunion sex came as a summarized montage instead of a scene
-+ WAITING: Vee's "maybe," and the four strokes of "had she made him that good." Does the doubt come back up
-~ W18.5 DEEPENED: Sixteen chapters without Randi's head, and she's only a story now, told to the man who already knows it
-~ F3.3 DEEPENED: Vee tells the staged collision as an accident to the man who pointed at her
-~ L4.4 DEEPENED: "Europe," said to Pace's face, and he doesn't blink
-~ S23.3 DEEPENED: "Whether he was that good or she had made him that good." Four strokes, and then the wall
-~ F4.2 SHIFTED: Vee came home and gave the night to Cassie, and Cassie asked the real question
-~ S29.6 SHIFTED: He bought dozens himself, so I'm less sure Randi picked them, though they're still her green
-~ W30.6 FADED: A whole week has passed and the recliner is gone. The book isn't going back
-~ W16.2 DEEPENED: The scar is still unasked about, "and still meant to keep"
++ LOVE: Her flat hand putting him back in the recliner, and him putting his own hand away. She runs the room now
++ LOVE: "Knowing that, and going anyway, was the entire costume." Halloween as the night she gets to be exactly herself
++ GRUDGE: "Sunrise and sunset." Pace's greeting-card lines keep showing up right after his best restraint
++ GRUDGE: The chapter re-stages the induction stride for an audience of one. Lovely, but I'd already watched it
++ FEAR: "This is just for me," and Randi buckled those heels. The private viewing has Randi's hands in it, and Monday is two days away
++ WAITING: What Pace does when she finally lets him out of the chair
+~ L28.4 DEEPENED: She gives the long step again, this time to the maker, and then gives him what was under it
+~ W28.3 SHIFTED: No word about the photo, but he answered it anyway. The world's version is fine, and he picks the one that's only his
+~ W18.5 DEEPENED: Fourteen chapters without Randi's head, and she's still on Vee's feet
+~ L10.1 DEEPENED: There's no mother's voice in the hallway, just a blush going down and down that she won't cover

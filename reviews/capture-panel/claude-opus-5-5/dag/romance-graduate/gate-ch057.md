@@ -1,41 +1,43 @@
-*capture-dag-v3-grounded · gate ch057 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed d07bfdd4d0c4 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch057 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 53dcf43805c3 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch054 · history ch001..ch054 · ledger no seed e08feb27d057 · 2026-11-06*
 
 **REACTION**
 
-The water glass got me first. It was sitting on a folded square of paper towel so the sweat wouldn't mark the wood. That's the same man who centered the spot on the folded panties in chapter 16. Then the night comes back to her "the way a dropped deck comes back — not the game, just the cards," and the best card is near the bottom: his mouth on her forehead, once, in the dark, "after he thought she was already gone." She isn't supposed to have that one. He's saying "Peter" to someone asleep. It's chapter 32 turned around, and I melted a little.
+It's Thursday. The same Thursday. An hour ago Vee lay in Cassie's hothouse with her fingers a breath from her mouth and couldn't close the gap. She wiped them on the sheet and lay down in her own mess, and her mouth was still empty. Now chapter 55 opens with Randi, the same night, under Pace with her fingers in his hair, pulling him up so she can taste herself off his mouth. She doesn't hesitate at all. "There. Now it's mutual." That answers "I have." It was his mouth. The book put the two women side by side without saying a word about it, and I actually said "oh no" out loud. One of them can't do it alone in the dark, and the other drove straight from the curb kiss to do it in his bed.
 
-Then she says "My one friend. There isn't anyone else." I had to put the phone down. I've spent fifty-six chapters calling him the merit-badge man. He's got the furniture, the patent, the dress, the bread, and he works a roadhouse like a pro. This chapter takes every one of those badges and shows me the hole under it. "Money of my own, which is worse than having none." The patent and the house weren't brag items. They're why nobody his age could stand next to him. I didn't expect the book to turn my own grudge into his wound, and I'm a little annoyed at how well it worked.
+Then the debrief came back. I've wanted the "tell me" couch since chapter 6, and here it is running both ways, which is so much worse. "I miss her during the day. More at night." "She kissed my neck again." "I nearly turned around." So the flinch was never a tickle, and I was right. Then Pace gives Randi something back: "She looks at you, too." He saw it. He saw Vee's face during the toast, or in the parking lot, or both, and he isn't keeping it for Vee the way he kept the truck. He's handing it to Randi while she rides him, as fuel. Everything Vee carried to that loft tonight, the coat lining and "he's enthusiastic," is in this bed within a couple of hours. I can't prove Randi told him the taste story, but she didn't need to. She came here to act it out.
 
-"Either weren't safe or weren't welcoming." That line is doing far more than Vee lets it. She makes it the father, adds Sheri's "since he was sixteen," and closes the case. But he said it about *the ones already there, when I was small among them*, the grown men in the building. A fifteen-year-old who's "too small" among grown men, and "weren't safe," and a surgeon's scar high on his inner thigh. I don't like where my head went, and the book has carefully refused to say it, which is exactly the right way to frighten me.
+And he kissed the inside of her wrist. That's the exact spot Vee pointed at first, the one she told Randi about tonight: "Who stays? He parked." He gives it to Randi like a habit. Maybe that's just how he loves people. I hated it anyway.
 
-The irony made me wince: "No Randi to bring it to." Vee is thinking about what Pace had at eighteen, and she uses Randi as the measure of having someone. He has a Randi. She was in his bed Thursday, licking him clean and telling him "she's not the only one in love." And it still isn't friendship. "Sheri's my friend. My one friend." So what is Randi to him, then? He didn't count her. Randi would hate that or need it, and I can't tell which.
+"She makes me happy." That's the closest he's come to the word, and he says it to Randi. "You know she loves you, right?" "She hasn't said it." Oh, the irony. He's complaining about the silence he invented. Then the line that turned the chapter: "She's not the only one in love." I've read it four times. Does she mean you, Pace? Does she mean me? It's both, and she gives him "no smile and no rescue from the sentence," and he can't tell her she's wrong. So three people are in love, nobody has said it to the person it's meant for, and the one person it would change everything for is lying alone in a dorm smelling hot dust.
 
-What cost it: he gives a whole seminar on how men make friends. "Thirteen, fourteen, fifteen, that's when it happens… That door's on a timer." It's well put, but it's Pace lecturing again, the Newton-sermon voice. Then Vee spends two long paragraphs walking back through freshman year, cafeteria trays and dorm carpet, to explain to me what he had just explained to her. "The good order was the tell" was perfect. The paragraphs after it were the book making sure I got it. Also, this is the second quiet chapter running, and there's no heat at all unless you count his robe. (It's his robe, by the way. She wears it like she lives there, so I'll stop wondering about it.)
+Small things: the deadbolt went over late this time. She stood inside the door first, came in "gingerly," and asked "Where have you been?" when she's the one who stopped coming. Then two fingers on his mouth so he couldn't answer. That's Randi in one gesture: she wants him to have missed her and won't let him say it.
 
-The ending, though. She doesn't say sorry. She puts herself against him the way Sheri did, "with her whole weight committed," and he holds her and doesn't try to make either of them feel better. Nobody fixes anything. That's grown-up, and I'll take that over a speech.
+On heat: it's explicit, it's hot, and it never once goes behind a door, so that's covered. The power play is fun ("My turn," "Showing off," "I value your professional opinion"), and Randi steering with her hands flat on the mattress is very her. But Pace's head is thinner here than it has ever been. Short sentences, mechanics, "Pace's control broke." I wanted more of what was going on in him when she said "in love." The "fuck doll" line and the cleanup dialogue lean toward a porn script, and it ends mid-stroke with no coda, no food, no fridge, nothing that tells me what this costs anyone.
 
-1 a.m. text: *he has ONE friend. one. sheri. "weren't safe" about grown men when he was 15 and I'm thinking about that scar and I feel sick. also she's planning to tell randi all about the sexy lesbian look. tuesday is going to be something.*
+1 a.m. text: *same night. SAME NIGHT. vee can't taste herself alone in the dorm and randi is at pace's licking it off his mouth. "she looks at you too." "she's not the only one in love." and he kissed her WRIST. I'm going to scream.*
 
-GATE 57 — Hangover
+GATE 55 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "She could see the shape of it, she of all people — she'd been a freshman not so long ago and could still smell the dorm carpet." That's where she started re-explaining his friendship lecture with a tour of her own freshman year, and I skimmed.
-WHY: "My one friend" turns his merit badges into the wound under them, and "weren't safe" put a cold hand on the scar. The hug with no "sorry" in it is the best tenderness he's gotten from her. But it's the second quiet chapter in a row, half of it is lecture and re-explanation, and nothing at the end pulls hard. I'm reading on for Tuesday with Randi, not out of hunger.
+ALMOST-STOPPED: "I better clean up that mess before you stick it inside me." The dialogue tipped into porn-script for a line, right when I wanted to be in Pace's head.
+WHY: The Randi–Pace bed is back, and it's the debrief turned into a pact: "She looks at you, too" goes straight from his eyes to her body. Setting it against Vee's empty mouth on the same night is the cruellest structural move in the book, and "She's not the only one in love" is a turn none of them can take back. Pace's interiority is thin and there's no coda, but I need Vee's next morning now.
 
 LEDGER
-+ LOVE: The water glass on its folded paper towel, and his mouth on her forehead "after he thought she was already gone"
-+ LOVE: She doesn't say sorry. She holds him the way Sheri did, whole weight committed, and he doesn't try to make it better
-+ SUSPICION: "Weren't safe," said about the grown men around him at fifteen, not his father. Something happened to him in that building, and the scar is part of it
-+ SUSPICION: "My one friend." He didn't count Randi. Whatever she is to him, it isn't friendship, and that's either the coldest or the truest thing about them
-+ FEAR: "No Randi to bring it to." Vee measures having someone by Randi, and Pace does have Randi, and it's the thing she doesn't know
-+ WAITING: Tuesday, when Vee hands Randi the win about Sheri and saves the look that "enjoyed" her for last
-+ GRUDGE: Pace's seminar on how men make friends, then Vee's freshman-year tour explaining it again
-~ W13.4 DEEPENED: "Not home since sixteen" plus "weren't safe or weren't welcoming." The door opened a little more, and what's behind it is darker than a bad father
-~ W16.2 DEEPENED: "Weren't safe," "too small," a building of grown men, and a surgeon's line high on his inner thigh
-~ G13.7 SHIFTED: The patent, the money and the house show up again, this time as the reasons nobody could be his friend. The merit badges are the wound now
-~ G1.7 DEEPENED: "The good order was the tell" was enough, and the freshman-year paragraphs said it twice more
-~ S22.5 ANSWERED: The robe is his, "where it always was," and she wears it like she lives there
-~ S56.7 FADED: A whole morning in his house, and not a trace of Thursday's Randi anywhere
++ FEAR: Pace is no longer just reporting on Vee. He's pitching her to Randi ("She looks at you, too"), and the threesome is being built out of Vee's own face without her knowing
++ LOVE: "She's not the only one in love." No smile, no rescue, and he can't say she's wrong
++ GRUDGE: He kissed Randi's inner wrist, Vee's spot, the one she told Randi about tonight
++ GRUDGE: Pace's interiority goes thin and mechanical in the hottest scene he's had in ages, and the chapter cuts off with no coda
++ SUSPICION: "Where have you been?" Randi stopped coming, but she's acting as if he left her. She needs to have been missed more than she'll admit
++ WAITING: Whether Pace ever says to Vee what he just couldn't deny to Randi
+~ S53.4 CONFIRMED: "I have" was his mouth. She does it here without a flicker: "Now it's mutual"
+~ S51.5 CONFIRMED: Not a tickle. "I nearly turned around. Put my hand on her"
+~ F52.5 CONFIRMED: They're talking about her again, in bed, the same night, and trading what each of them has seen
+~ L6.1 DEEPENED: "Tell" is back, and now it runs both ways, Pace feeding Randi as much as she feeds him
+~ S47.2 DEEPENED: Pace has seen Vee's want for Randi and named it out loud to Randi
+~ F44.5 DEEPENED: The three-in-the-kitchen picture now has a co-author who wants it as badly as he does
+~ W54.1 DEEPENED: Randi closed the reach without a thought, an hour after Vee couldn't
+~ F42.3 DEEPENED: Both of them know Vee loves Pace. Both of them are in love. Nobody has said it to her
+~ F1.3 SHIFTED: No thumbnail tonight. Her body says everything out loud in his bed that she won't say at the table

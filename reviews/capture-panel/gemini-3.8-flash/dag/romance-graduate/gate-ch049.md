@@ -1,30 +1,34 @@
-*capture-dag-v3-grounded · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 302caea12f36 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 625a13a57380 · 2026-11-06*
 
 REACTION
 
-Oh, my heart. What an exquisitely gentle, hilarious, and grounded decompression after the absolute emotional and erotic tidal wave of the last three chapters. This is why I love Helen Rivers so fiercely—she gives us scorched-earth doorway sex and terrifying psychological tension, and then she brings us right back to earth with two college girls sitting on a bean bag in a stuffy dorm room, giggling until they can't breathe over an absurd, completely improvised lie.
+Oh my god. *Oh my god.* I am sweating. My heart is beating so fast I can feel it in my throat. This chapter was an absolute, unhinged, scorching-hot masterclass—and simultaneously the most suffocating psychological time bomb this series has ever set ticking.
 
-"Pace. Shrank your sweater."
-"To a doll size."
+First of all, Vee stepping into her full, unashamed power as a "pleasure princess" was EVERYTHING I have been starving for. The playful arrogance of her padding around his house in literally nothing but a scrunchie, the sheer domestic luxury of him setting the bread machine before dawn so she’d wake up inside the smell of it, her leaning over to brush her bare breast against his cheek at the sink—it was delicious, joyful, unbridled female pleasure. And watching Pace, the absolute titan of rigid control and arithmetic precision, completely unravel—burning the toast because she put her foot on a chair, stumbling over his boots in his hurry to strip—was worth every single second of the angst we suffered over break.
 
-I literally barked out a laugh. Cassie’s dry, razor-sharp silence before breaking into that rare, full, head-back laugh was pure perfection. Cassie *knows*. Cassie has eyes; she saw Vee walk through that door on Sunday evening in a pair of rolled-up men's sweatpants and four-inch bondage-strapped gladiator heels! She knows damn well no cranberry sweater was sacrificed to the laundry gods. But that’s the staggering beauty of Cassie’s friendship—she hears Vee’s wild, panicked cover story about being trapped in an oversized t-shirt, clocks the sheer radiant joy behind it, and just lets her have it without prying, judging, or tearing down the fantasy.
+And then the bedroom scene. Sweet mother of god. Rivers writes cunnilingus like nobody else on earth. The "tiling," the unhurried journey from her wrists down to the soles of her feet, his tongue curling and scooping and making those raw, uncensored, greedy noises—it’s so filthy and so profoundly reverent at the exact same time. The way Pace drinks her like a starving man while holding her open, refusing to look away or let her hide behind her lifelong shame, is pure romance wrapped in scorching erotica.
 
-And then that quiet little beat at the end: *"My mother says thank you for the card. She wants to know when she gets to see you again."*
+BUT THEN. *THE KISS.*
 
-God, that hit me right in the chest. A physical ache. Cassie’s family loves Vee without an agenda, without expectations, without maternal body-shaming or high-society games. It's so steady, so pure, and so achingly real compared to the toxic Ohio chill Vee just fled from.
+My stomach plummeted straight through the floor. The second Pace carried her own slickness up to her mouth and she had that instinctive, gut-level, Ohio-bred recoil—"Ugh—gross... That's—no. Wrong"—I practically screamed out loud. Pace’s quiet, immediate respect—wiping his mouth, backing off without an ounce of petulance or punishment, letting her come to him—was incredible. BUT THE HORROR OF WHAT SHE DOESN'T KNOW.
 
-And yet... the impending dread is still humming under every floorboard. Cassie sitting right there in her graphic tee and white athletic socks, completely unaware that Pace is currently organizing a massive gathering where Cassie, Randi, and all of Vee's worlds are going to collide in one room. Vee falling asleep against that cold painted cinderblock, wrapped in his faint scent on the flannel, feels safe and restored. But the bomb is already ticking. Tuesday is coming—Anthro with Randi, dinner with Randi, and Pace's big reveal. I am holding my breath.
+She thinks the cream cashmere blanket is just a sweet, nameless gift he left for her. IT IS RANDI'S BLANKET. The blanket Randi wraps herself in after being spanked on the bench. Vee literally laid it out like a bridal bed and soaked it with her own release! And now—the absolute coup de grâce—she is planning to take the kissing-her-after-eating-her-out thing straight to Randi on Tuesday after Anthro.
 
-GATE 49 — Unpacking
+She thinks she’s going to confide a funny, slightly taboo little bedroom detail to her best friend over dinner. She has NO IDEA that Randi knows *exactly* how Pace kisses after head, because Randi has been on both ends of Pace’s mouth! If Vee asks Randi, "Does your guy ever kiss you right after he goes down on you?" or describes the taste... Randi’s brain is going to detonate. The dramatic irony is so thick you could carve it with a steak knife. I am terrified, I am panting, and I need chapter 48 immediately.
+
+GATE 47 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The hilarious, heartwarming dorm debrief between Vee and Cassie was pure comfort and grounded realism—the doll-sized sweater cover-up made me laugh out loud, while the quiet mention of Cassie's mom wanting to see Vee added such gorgeous emotional weight.
+WHY: The transition from glorious, playful erotic worship to that suffocating psychological time bomb at the end—Vee soaking Randi's blanket and planning to confide Pace's post-oral kiss to Randi—is absolute literary genius.
 
 LEDGER
-+ LOVE: Vee and Cassie’s unspoken shorthand—Cassie laughing until her head falls back at the "doll-sized sweater" lie and letting Vee keep her secret without a single poke.
-+ LOVE: Cassie’s mother asking after Vee, offering a glimpse of uncomplicated, unconditional family warmth that Vee has never had from her own parents.
-~ [L7.1] DEEPENED: Cassie’s grounded, no-bullshit loyalty reached a whole new peak of tenderness here—knowing the outfit told the real story but letting Vee tell her ridiculous mushroom-and-laundry fairy tale anyway.
++ LOVE: Vee claiming her status as a "pleasure princess"—reveling in being kept, fed, and brought off first without a shred of maternal guilt.
++ SUSPICION: Vee telling Randi about Pace kissing her with her own slickness on his mouth is going to blow the entire secret wide open, because Randi knows Pace's bedroom habits down to the millimeter.
++ WAITING: Tuesday's Anthro class and dinner—Vee debriefing the coat and the "gross" kiss to Randi while Randi stares at the woman she is desperately in love with.
+~ [F1.1] DEEPENED: Vee being entirely at home in Pace's bed, wrapping herself in Randi's cashmere blanket without knowing it, makes Randi's position infinitely more agonizing and dangerous.
+~ [F5.1] DEEPENED: Vee completely surrendering to being a "pleasure princess" and reveling in his devotion makes the pointing-game secret an absolute lethal threat to her soul.
+~ [F17.2] DEEPENED: Vee's emerging curiosity about tasting her own salt on Pace's lips is going to bridge straight into her physical dynamic with Randi.

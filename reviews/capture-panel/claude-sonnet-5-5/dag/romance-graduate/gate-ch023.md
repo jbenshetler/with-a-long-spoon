@@ -1,37 +1,32 @@
-*capture-dag-v3-grounded · gate ch023 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed bb3d150a3fb8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch023 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d068453fd82d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch021 · history ch001..ch021 · ledger no seed db88a1f8461a · 2026-11-06*
 
 REACTION
 
-Oh, this is a pivot, and I didn't see it coming. After a run of chapters where Vee is dazzled and I'm the one holding the dread, she finally swings at something. And she swings at the wrong thing, for the right reasons.
+Oh, this one's a gut-punch, and it's the quiet kind. We get Vee's head in front of the fire with Pace, and I was braced for heat. I got a conversation, and I didn't skim a line of it.
 
-The dance lesson is the best thing in it. "You have a job here. Give me something to push back against." The pad under the field lights, the lead arriving through his hand before her feet know it, "There it is." That's the book's whole thesis, and it's charged without anyone taking a stitch off. Then I loved the floor scene, where she can't find the join between Pace and the Pace she's built out of wanting him. That's her sharpest self-awareness yet.
+The Ohio food, the saffron nobody opened, "the name that means love in one mouth and trouble in the other," are the best character work she's had. Pace goes straight for "the hand underneath the thing." That's why she's falling, and why I am. The hallway desk, the year of long-division worksheets, and her "They took the thing you loved and made it the punishment" made me tear up. The math speech about the paint and the coastline is the book explaining its own thesis again, but it's coming out of his mouth with love. He's a man who tells you he reads the poem, and I'll take it.
 
-The blonde is a gift. Vee takes the bait and I watch it land. I also half-suspect the book is playing with me. Is she a plant? Randi's friend? A real ex? The "wasn't him they were jealous of, honey" line from the bartender answers the doubt: Pace is a rule, not a collection. That makes Vee's venom worse, because I know she's wrong, and she half knows too. And "Yes. Sometimes. When it's required." is an honest man giving an answer too true to survive being thrown at.
+Then Daphne. Nineteen and fifteen. Oh my God. Vee does the arithmetic and swallows the word, and he defends it as the best two years, "named it luck." Two chapters back I'd filed Daphne as a door he opened uninvited. Now I think she was the door that was opened on him, and he's built a whole architecture of asking-first on top of that. It reframes his entire "may I." It also makes me queasy that he's now the one running a game on a girl, and he doesn't see the rhyme. The scar, "Not tonight," is a lovely held door.
 
-"Slut" and "floozies" are her mother's words in her own mouth now. That's the real injury. She doesn't punish him for the blonde, she punishes herself for being "just next."
+The last paragraph is the knife. "She had stumbled into her." Vee believes it was luck, six weeks, never so fortunate. I know the collision was staged, and Pace even tells her the true thing, that someone crossed a coffee shop because she complained about math, and she thinks it was chance. This is the happiest she's been, and it's the cruelest chapter in the book for me.
 
-Cassie three feet away, and Vee not waking her, hurts. The washed shirt that smells of "no one" is a lovely small ache.
+Heat is a low simmer, his palm on her breast without asking. Complaint: it's long and it's the third quiet-ish chapter by my count, but it's all dialogue and alive. Also, Randi is still absent from the room, and the "Peter" is a nice reveal.
 
-Then the ending: she's going to Randi. Of course she is. The dread is huge, because Randi is the one person who can't clean this up honestly. Also, Pace walking out and leaving the beer untouched mirrors Randi's uneaten bowl. I notice that.
-
-Heat is low, but the dance has a pulse. Still no Randi head, and I'm starving for it.
-
-GATE 23 — Lesson
+GATE 22 — Rock
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 10
+NEXT: 8
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "Dana on Third has ropers. She's your size, close enough — dance girls trade, everybody's danced in everybody's boots." (the dressing-up logistics, brief)
-WHY: The dance lesson works as both charge and theme, and Vee finally breaks something herself, which makes the fight real. Her going to Randi in the morning is exactly the dread I read for.
+ALMOST-STOPPED: "Fifteen was braces and borrowed cars and being driven places by other people's mothers." (the long interior riff before the hallway story)
+WHY: Pace's backstory, the hallway desk and the nineteen-year-old tutor, reframes him, and Vee's last "I've never been so fortunate" over a staged meeting is the dread I read for. Low heat, but it earned its quiet.
 
 LEDGER
-+ LOVE: The pad under the field lights, "You have a job here," and the moment the lead becomes readable and she stops guessing.
-+ LOVE: The shirt that came back from the wash smelling of fabric softener and no one.
-+ FEAR: Vee runs to Randi to fix this, and Randi can't give honest comfort without handing Vee the exact doubt that blows the plan open.
-+ SUSPICION: The blonde with the "all us girls love him" line may be a plant, or just a jealous regular. The bartender's account says the second.
-+ GRUDGE: Vee's mother's words (slut, floozies) now come out of Vee's own mouth, and I want the book to make her pay for that less than she'll pay herself.
-+ WAITING: Pace's side of the fight, and what he does with it after walking out.
-~ F22.4 DEEPENED: Vee's "I'm just next" doubt shows how the staged meeting will hit her when she learns it.
-~ F9.1 DEEPENED: She doesn't wake Cassie and goes to Randi in the morning instead.
-~ W20.4 DEEPENED: Still no Randi head, six chapters now, and she's about to be needed.
++ LOVE: "They took the thing you loved and made it the punishment," and Pace's hallway desk year
++ LOVE: Peter, said once into the dark like a word she's keeping
++ SUSPICION: Daphne was nineteen to his fifteen, and his "best two years" defense means his idea of consent was built on something that wasn't clean
++ FEAR: Vee thinks she "stumbled into" Randi by luck, so when she learns it was staged, the whole six weeks goes sour at once
++ WAITING: The scar story, "not tonight," and whether it ties to Daphne
+~ S1.4 DEEPENED: Daphne is now a real person, the tutor at nineteen, and the door was opened on him
+~ S16.3 DEEPENED: Vee touched the scar and he said "not tonight," so it's a story he's saving
+~ W20.4 DEEPENED: Still no Randi head, and now five chapters without it

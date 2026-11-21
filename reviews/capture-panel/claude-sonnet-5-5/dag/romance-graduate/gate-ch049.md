@@ -1,29 +1,26 @@
-*capture-dag-v3-grounded · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 96234898f8e5 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 69a8bd5928cb · 2026-11-06*
 
 REACTION
 
-Okay, this is a breather, and I'm fine with it. After the doorstep and the pancakes, two girls in a dorm room laughing about a shrunken sweater is a nice change of air. Cassie going "He salts the persimmons" back at her deadpan is the best thing in the chapter. I also love the tiny detail of the cold line off the open window that Vee missed.
+Oh, this is a gift. A chapter of pure, joyful, explicit heat, and Vee being funny and unashamed inside it. The "pleasure princess" flip is the best thing she's done in her own head. She starts in "pleasure slave," catches herself counting what he does for her, and rewrites it. The toast-burning bit is lovely too, and the pointing and "Bad slave" are hot and silly at once. The long oral sequence is the most sustained sex in a while, and it's specific and tender.
 
-But I'm watching what Vee does with Cassie, and it's the same pattern. She edits. Her clothes were in the laundry and the sweater shrank? No. She left her bag in the car because there wasn't "anything important in it." She came home with no clothes because she showed up in a coat and nothing else. She turned the doorstep into a funny laundry accident and Cassie took it. Cassie is smart and she may well know, but she let Vee have it. "Hmm" in the last chapter was already her telling us. And Cassie's mother saying thank you for the card, with Vee going small and warm and not examining it, is a quiet knife. Vee has a family she's drifting from and another one that keeps reaching for her.
+Then the turn. She tastes herself on his mouth, her tongue goes first, and her mother's voice shuts it down: "Ugh — gross. That's — no. Wrong." The best part is that Pace stops, asks nothing, and gentles. And then Vee talks herself into "he forgot to wipe." I'm not buying it. She also wonders how many times, and how carefully, and "had there always been—" and then drops it. I know what Randi has been doing on Saturdays and Fridays, and I know what a faint salt edge on his mouth could mean. The reader's knowledge cuts hard here. Vee is about to give the thing to Randi. "Randi would know what to make of it." That's the pipeline, ready to feed the wrong person again.
 
-The shower contrast is nice too. Water that is simply less, and she's happy anyway. Then the top bunk and the cinderblock, where she's used to acreage now. The book keeps telling me she's outgrowing the room, same as in Ohio. I get it.
+My complaints are small. The kitchen walkthrough is long (the blood orange, the mushrooms) and I skimmed some of it. The "Why does he like it so much?" beat is a little on the nose. But the charge never dropped.
 
-The weak spot is that the taste thread just sat there again. Nothing about it. Randi is still two days off. And I'm tired of the "wear the shirt this weekend" echo, though it's small.
-
-No heat, no turn, second quiet one in a row. I'm keeping my patience because Tuesday is coming and the dinner is being planned.
-
-GATE 49 — Unpacking
+GATE 47 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "Cassie's duffel sat on the lower bunk half-emptied, white athletic socks in one stack and graphic tees in another" (the long room inventory before anything happens)
-WHY: Vee sanding the doorstep into a laundry joke for Cassie is the pipeline in reverse, and "my mother says thank you for the card" lands soft and sharp. But it's a second quiet chapter in a row with nothing moving, and I want Tuesday.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "The blood oranges he did the way he did everything." (the long food-prep walkthrough)
+WHY: Hot, funny, tender sex, and then a real crack when she tastes herself and the shame voice slams the door. "Forgot to wipe" is her kindest lie yet, and the unfinished question that sinks under it is what I'm reading toward.
 
 LEDGER
-+ LOVE: Cassie's deadpan "He salts the persimmons," and her full laugh at the shrunken sweater.
-+ SUSPICION: Cassie is letting Vee edit the weekend because she already guesses what's under it.
-+ GRUDGE: A second quiet bridge chapter in a row, with the room inventory eating pages again.
-~ F9.1 DEEPENED: Vee tells Cassie a cleaned-up story and Cassie's mother keeps reaching for her, so the drift is quieter and sadder.
-~ W47.5 DEEPENED: Tuesday is still the next thing I'm reading toward, and the taste thread sat untouched.
++ LOVE: "Pleasure princess": Vee flipping slave into princess while counting everything he does for her.
++ LOVE: Pace stopping, not pushing, and kissing her like nothing happened after "gross."
++ SUSPICION: The salt edge on Pace's mouth is Randi's taste, and Vee's "had there always been—" is the first thread toward the truth.
++ FEAR: Vee will take the strange small thing to Randi on Tuesday, and Randi will have to explain it away.
++ WAITING: Tuesday's dinner with Randi, and what Vee asks her about the taste.
+~ F46.1 SHIFTED: He said her name warmly, and the word is still unsaid, but she's stopped waiting on it for now.

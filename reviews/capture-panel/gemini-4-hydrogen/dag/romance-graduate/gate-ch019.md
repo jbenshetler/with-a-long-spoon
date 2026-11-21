@@ -1,25 +1,27 @@
-*capture-dag-v3-grounded · gate ch019 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch018 · history ch001..ch018 · ledger no seed 9d47e64ae910 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch019 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6a9ab2497501 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch017 · history ch001..ch017 · ledger no seed ecec31a00719 · 2026-11-19*
 
 REACTION
 
-Oh, I *needed* this chapter after the ice bath of Chapter 18. Pure sunlight, pure joy, and somehow one of the hottest things he’s written yet.
+Oof. That was *cold*. Even with the sex in the middle, the whole chapter felt like sitting in a warm kitchen with a draft coming straight under the door.
 
-First of all, the dress itself—lined in oyster-pale silk only where she needs it, hung in the window with a brand-new full-length mirror screwed into the wall just for her. Watching her step into it, see her underwear cutting across that hip-high slit, and just casually hook her thumbs in and take them off before striding out to him? She’s completely unrecognizable from the girl who couldn't even look at herself in a one-piece. *Floozie* barely even gets a foot in the door before it burns right up.
+The second Randi drew her spoon across the top of that stew and said, *"It's wonderful,"* my stomach dropped. Pace clocked it immediately, too—that polite, hollow sorority-girl voice she uses on waiters and Brooke, brought straight into his house. And then she just sits there, refusing to eat, pressing her thumbnail into the rim of her glass while she watches his face light up over Vee’s Friday night.
 
-And then the *sex*. God, why don't more books let people *laugh* in the middle of it? The sheer, ridiculous logistics of her holding him in both hands, slick with her, elbows fending off a handmade silk gown while she’s giggling so hard he has to wait with the dress at half-mast—and him twitching in her hands at *"There's a lot of you covered in a lot of me"*—felt so real it made my chest ache. And then him holding the dress up while he slowly sucks her fingers clean, and her putting her frosted-plum toes flat on his chest to hold him off and make him *look* before she lets him back in? *Jesus.*
+Pace’s blind spot here is killing me. He’s so focused on being *good* to Vee—*"She chooses it, Randi. Every step of it. Or it isn't anything"*—that he genuinely doesn’t see what’s happening right in front of him. He thinks Randi is just impatient for the threesome! He doesn’t see that she’s jealous, and hurting, and feeling completely shut out of the real thing he’s building with Vee.
 
-I’m completely swept up in how happy she is, lying there while he sleeps off an all-nighter he pulled just to finish her hem. And yet, because I just read Chapter 18, there’s this little cold knot in the back of my stomach—because Randi is out there spiraling, and Vee is lying in Pace’s bed thinking she’s *getting away with something*, with no idea what’s actually coming.
+And that sex scene? Brutal. No inch-and-stop, no eye contact, no *tell me*. Just eyes shut, fast and hard, and then rolling onto her side with her back to him. She wasn’t with him at all—she was just getting off and shutting him out. Watching him stand there at the end, covering her untouched bowl with a plate and putting it in the fridge *for her* because he still has no idea what he did wrong, actually broke my heart a little.
 
-GATE 19 — Peekaboo
+GATE 18 — Portion
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Scorching heat and genuine, breathless joy—watching Vee shed the last of her shame in that burgundy silk and dissolve into laughter mid-sex while trying not to ruin it is unforgettable. Knowing how badly Randi is spiraling in the background only makes this afternoon feel more precious and more precarious.
+WHY: A quietly devastating chapter that puts Pace and Randi in the same room and lets the fracture between them show. The sex is fast and disconnected, and watching Pace’s total bewilderment at the end—still trying to take care of her untouched bowl—makes me desperate to see what happens next.
 
 LEDGER
-~ L1.1 DEEPENED: Hanging a new full-length mirror, lining the dress in oyster silk, and staying up all night to finish it for her—Pace’s care is devastating.
-~ L3.1 DEEPENED: Vee striding out in that slit dress with no underwear, laughing mid-sex, and daydreaming about owning the room at the induction—she’s completely claiming herself now.
-+ WAITING: For the honor society induction—Vee walking into that room in the burgundy silk dress, and what happens when she finally gets to wear it.
+~ F1.2 DEEPENED: Randi brought the polite, hollow sorority-girl voice (*"It's wonderful"*) into Pace’s kitchen and shut her eyes during sex.
+~ F6.1 DEEPENED: Watching Pace’s face light up over Vee’s Friday night pushed Randi into calling him *selfish*.
+~ S11.1 DEEPENED: Randi’s withdrawal is unmistakable now—pouring her own wine, refusing his food, skipping *tell me*, and turning her back on him in bed.
+~ W17.1 ANSWERED: They were finally in the same room again, and the distance between them is wide open, even if Pace doesn’t understand what broke.
++ FEAR: Pace is so focused on doing right by Vee that he’s completely missing how badly Randi is spiraling, and she’s going to blow this whole thing up.

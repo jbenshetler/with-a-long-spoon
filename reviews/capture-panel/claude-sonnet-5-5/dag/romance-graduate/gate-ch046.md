@@ -1,32 +1,36 @@
-*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0dc05ebeec12 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 71861699de3b · 2026-11-06*
 
 REACTION
 
-Well. She did it, and the book gave me the full explicit payoff. I've been waiting for heat since the Chili's chapters, and this is a lot of it.
+Pace's head, finally. And it's the chapter where the book stops letting him hide behind "I'm just not a words man." He says it flat out: he knows he loves her. He's choosing the silence. He made the decision because Daphne wrecked him, and he believes the words are the difference. That's the confession I've been waiting on for fifteen chapters, and it comes as pure interior, to nobody. Of course it does. He can tell Sheri "I can't," and the reader gets the reason, and Vee gets nothing. The dramatic irony is cruel and I love it.
 
-The mirror scene is the best part. She picks the wrong bra by habit, then catches herself ("Pace is getting neither"). "Last thing, only thing" about the shoes is funny. Stopping herself on purpose and calling it powerful is exactly the interiority-plus-heat I came for. The coat soaked through the lining, and her deciding it means she's sure instead of ashamed, is a real change from the floozie voice.
+The diner is warm and funny. Sheri is the best secondary character in the book. "The philosophy of your food. Lord almighty. Get over yourself" made me laugh out loud. And "from this seat, that feels pretty shitty" is the line he needed. Her grief speech about Paige and the family she doesn't call also tells me who she is without a flashback.
 
-The car scene is hot and dumb in the right way. The siren and the missing purse are a bit sitcom, though. I'd have trusted the drive without the cruiser.
+Then the whiskey. A man who never drinks alone, going through photos, sliding down to a girl with brown hair and glasses. Daphne, and the book finally gives her a face. I want that story. The three-at-a-table fantasy, Vee in his sheet, Randi with her feet on the chair, laughing, nobody hurrying: that's the plan turning into something he actually wants, and he doesn't know Vee is the only one who doesn't know. He misses Randi too. "He would not take it from her." Ugh. He's tender to both, blind to both.
 
-The doorstep is the payoff. "Vee, I l—" and she cuts him off. Oh, that stung. He was about to say it, I think, and she doesn't let him, because she's carrying the gesture instead of the word. The very thing she's been fighting for, and she steamrolls it. I'm furious and I love it. Nobody hears the sentence, and the chapter ends with pancakes, "I'm sorry," and "no room in her for wanting anything he hadn't given." That's the dread. The wall comes down for a minute and she lets the body answer in place of the word, and Randi scripted all of it. The door-open, jeans-around-the-knees sex is graceless, which is right.
+The morning after is the best part. The frozen chicken and broccoli, the hands shaking, the engine on the highway and his whole body leaning toward it. Then the sob, and eating anyway. That ending hurt, and I did not expect to be moved by him this much.
 
-Grudges: the narration explains her feelings a lot again. And Randi's whole inner storm from last chapter is nowhere here. Brooke's ultimatum just sits. I'm also uneasy that he said sorry and nothing was settled. Cassie's "Hmm" is perfect.
+Grudges: the narration spells out his reasons a bit hard ("He had hurt her because he was afraid of how much she could hurt him"). I could have gotten that from the engine sound. And the date stamp says December 31, same night as both flashbacks, and I'm happy to be in a pattern now: three chapters, one night, three heads. Heat is zero, but the ache is real. The thing I'm furious about is that he knows, and still hasn't moved. I need him to say it to her.
 
-GATE 46 — Nothing Underneath
+GATE 44 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "The cruiser swung out and went past her, fast, its lights shrinking up the road" (the siren gag felt like a sitcom beat)
-WHY: The mirror, the coat opening, and "Vee, I l—" cut off by her own gesture are the explicit heat and the ache together. But the word still went unsaid, and I want to see whether it comes back.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." (the narration stating the subtext outright)
+WHY: Pace admitting to himself that he loves her, and the engine passing on the highway, finally give the silence a cause and a cost. It's the same night from a third head and no heat, but Sheri and the frozen chicken earned it.
 
 LEDGER
-+ FEAR: "Vee, I l—" was cut off, and the gesture buried the word again, so nothing is actually settled
-+ LOVE: The mirror scene, stopping herself on purpose and finding it powerful, and the "last thing, only thing" shoes joke
-+ LOVE: Pace on his knees with the pancakes, "I missed you so much," his voice cracking
-+ WAITING: Whether Pace gets to finish "I love you," and what Randi does with Brooke's ultimatum
-~ F45.1 DEEPENED: He opened the door and the coat did the talking; his silence swallowed nothing this time, because she never let him speak
-~ W45.5 ANSWERED: He took her in at once and cried, but the word is still unsaid
-~ F32.3 DEEPENED: She is again letting an act stand in for the word
-~ F11.1 FADED: that crack is long past, absorbed into the bigger triangle
++ LOVE: Sheri's "The philosophy of your food. Lord almighty. Get over yourself," and her bluntness, "from this seat, that feels pretty shitty."
++ LOVE: The engine passing on the highway, his body leaning toward it, then the sobbing and eating anyway.
++ SUSPICION: Daphne, the brown-haired girl with glasses, left him in a way that wrecked him, and that wound is the real reason for his silence.
++ FEAR: He knows he loves her and still chooses silence, so he may keep not saying it until she's gone.
++ WAITING: Pace saying the word to Vee, and the first day of term when all three are in the same orbit again.
++ GRUDGE: The narration spells out Pace's reason for silence directly instead of trusting the scene.
+~ S33.3 DEEPENED: "I don't go back" now has a face behind it, Daphne, and he says his family and past are why he keeps words to himself.
+~ S41.4 CONFIRMED: His silence is a deliberate vow, born of Daphne, and not temperament.
+~ S43.4 ANSWERED: His Christmas week was Sheri and a lonely whiskey night, not another woman.
+~ S1.4 DEEPENED: Daphne is now the only woman he told he loved, and her leaving took over his life.
+~ W41.5 SHIFTED: Pace sat home drinking and didn't go after Vee, but he is thinking about her constantly.
+~ S42.4 ANSWERED: The date stamps confirm these are the same New Year's Eve and the flashbacks were that night; present-tense is now clear.

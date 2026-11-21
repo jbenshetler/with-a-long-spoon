@@ -1,31 +1,26 @@
-*capture-dag-v3-grounded · gate ch024 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha dcc461157f8d · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 78b0d3bfe423 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch024 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ec3c41639caf · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 90cb28c63b1a · 2026-11-19*
 
 REACTION
 
-I am losing my mind over this chapter. The sheer, quiet, suffocating *irony* of Randi dressing Vee up like a prize—putting her in Randi’s own cognac heels and Randi’s own silk scarf—to send her back to *Pace* is lethal.
+I am grinning so hard my face hurts. *That* was the payoff I’ve been waiting for since she first saw that burgundy silk hanging in his sun porch.
 
-First of all, the morning-after realism of Vee waking up in Pace’s shirt, realizing her mascara is relocated onto her cheekbone, and marching across campus in bare legs in October with an apple because she’s *going to fix this*—I love her so much. Even when she’s walking straight into the lion’s den, she’s so alive. And Brooke at the front door dropping *"Oh — you're the stats friend"* like the sorority house already has a dossier on her? Chills.
+It’s almost better that neither Pace nor Randi was in the room for it, because it meant the moment belonged entirely to Vee. Sure, there’s that quiet, honest sting about her parents not being able to afford the flight—and that sharp little truth about her being relieved, because she’s sitting three rows from a microphone with nothing on under the silk and nobody there to whisper *floozie* in her ear. And thank god for Cassie, standing at the door like a loyal bodyguard, tearing up just a tiny bit, and then snapping that exact mid-stride photo so Vee could see herself the way the room saw her. *"Come on, streetlight."* I love Cassie so much.
 
-Then they get up to Randi’s room, and the whole scene is a masterclass in tension. On the surface, Randi is being the ultimate best friend: she listens to Vee’s whole agonizing confession about The Rusty Nail, validates her, reframes her jealousy as proof that she’s *in* this, and gives her genuinely brilliant advice (*"You don't go in there sorry... You go in there sure"*). And Vee just melts into it, completely trusting her.
+And that walk across the stage! Watching her start with one careful, modest step—and then just *decide* to take the long one, letting the slit fall open all the way to the hip and giving that dull, navy-blue room the whole length of her bare leg—was electric. The fact that her body lit up from it, that she felt that low, certain heat right there in front of everybody and didn’t flinch or shrink back, is everything. She’s not hiding anymore.
 
-And *then* Randi tells her to take her shirt off.
+Sending the uncropped photo to Pace in Berkeley—letting him see the dress do the exact thing he built it to do, while keeping the secret of what she felt on that stage all to herself—was the cherry on top.
 
-The erotic charge of Randi kneeling on the carpet under Vee’s long skirt to buckle those heels—her cool hands bracing high on the back of Vee’s thigh, her thumb pressing into the soft hollow behind her knee—had me holding my breath. Vee’s skin literally *"came up singing,"* and she’s still so innocent about it, just chalking it up to dress-up and being tended to. Even when Randi jokes about Vee being her *"shoe whore"* and ties that silk scarf around her bare throat (*"Tension. It has to hold its shape"*), Vee is just glowing in the mirror, completely unaware that she’s being styled by Pace’s other lover.
-
-And that goodbye kiss in the foyer! Vee doesn’t even brace anymore. She just meets Randi’s mouth, takes the lingering second press, and thinks, *It was only what they did.* Meanwhile Randi’s Kentucky accent is slipping out all over *bath* and *sleep*, and Vee is still inventing a Swiss boarding school and a European grandmother in her head to explain it away.
-
-Tomorrow night, Vee is going to walk into Pace’s house wearing Randi’s shoes and Randi’s scarf. I cannot wait to see Pace’s face when he opens that door.
-
-GATE 24 — broken-in
+GATE 28 — The Induction
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The erotic tension of Randi kneeling under Vee’s skirt to buckle those heels—combined with the delicious, agonizing irony that she’s styling Vee in her own shoes and scarf to send her back to Pace—has me completely hooked for tomorrow night.
+WHY: A triumphant, electric payoff for Vee’s arc. Watching her choose to let that slit fall open to the hip in a room full of strangers—and watching Cassie document it like a movie star—left me grinning, and now I need to see Pace’s reaction to that photo.
 
 LEDGER
-~ [F4.2] DEEPENED: Vee just let Randi dress her in her own shoes and scarf and kissed her back in the foyer without even bracing; she is so deeply, innocently in love with both of them that the truth is going to be devastating.
-~ [W23.1] ANSWERED: Vee went to Randi for help, and instead of sabotaging her, Randi reframed the whole fight, told her to wait until Saturday night, and styled her to win Pace back.
-+ WAITING: Tomorrow night—Vee walking into Pace’s house wearing Randi’s cognac heels and silk scarf, and how Pace reacts when he sees them on her.
+~ W19.1 ANSWERED: Vee wore the burgundy silk and the four-inch heels to the induction, owned the room with that long stride, and sent the uncropped photo to Pace in Berkeley.
+~ L3.1 DEEPENED: Vee stalking across that stage with her bare leg out to the hip—and not being able to tell pride from heat anymore—is the most alive she’s been.
+~ L4.1 DEEPENED: Cassie’s *"Come on, streetlight"* and catching that exact mid-stride photo made me love her even more.
++ WAITING: To see Pace’s reaction to that photo when he gets it in Berkeley, and what happens when he comes home.

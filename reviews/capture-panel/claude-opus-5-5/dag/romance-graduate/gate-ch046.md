@@ -1,43 +1,49 @@
-*capture-dag-v3-grounded · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0e0decb35fe4 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 02f356d5e38c · 2026-11-06*
 
 **REACTION**
 
-"Vee, I l—"
+He's been sitting in the recliner the whole time. I griped for ten chapters that the book left him in that chair on Halloween, and here he is on New Year's Eve, in the same recliner with the lamp off, scrolling through the pictures, filling the glass three times. I don't think the book meant it as a joke on me, but it landed like one, and it hurt.
 
-He was about to say it. That's what I'd text at 1 a.m., in capitals. For six chapters I've been begging this man to spend the word. Two chapters ago he finally admitted to himself in the woods that he loves her, so I know exactly where that "l" was going. He opens the door, the wall goes up and comes down again, and he starts the sentence. Vee doesn't hear it. She has a plan, she's rehearsed this doorstep a dozen times, and "in none of them did she stand on his step and hear him out." So she opens the coat right over the word she drove out there to get. I put the Kindle down and stared at the ceiling. This is the cruelest dramatic irony in two books. The silence used to be all his. Now she's the one cutting it off, with the grand gesture Randi built for her. Randi said "Words are the whole war. You don't do it with words." And Vee took her so literally that she talked over the only word that mattered. Then at the end of the chapter, mouth full of pancakes, she's "so full… there was no room in her for wanting anything he hadn't given." Oh, Vee. He nearly gave it, and now you've decided you don't need it. I'm scared the word just went back into its drawer for good.
+That's three chapters of the same night now: Randi in Gstaad, Vee in Ohio, Pace in the woods. Each of them is lying in a cold room picturing someone warm. I came in braced for a third quiet chapter and ready to skim. I didn't skim a word.
 
-And the heat. God, finally. Five near-zero chapters, and the book pays them all back at once, explicit from the dorm mirror to the couch. The mirror scene is the best of it, because it's her shame wired straight into the arousal like in the early chapters. She weighs her breasts in her own hands "as his did." "A stripper's body, if she let the word be said — and tonight she let it be said." The floozie word "found nothing to hold to." Then she stops herself at the edge and calls it power. The cardigan girl edging herself in front of a closet mirror, wanting to carry it to him "wound exactly this tight." It's hot and it's character, the both-at-once I came for. And the dresser drawer! Her hand going to the good lace out of habit, then "Pace was getting neither." "Last thing, only thing" about the shoes made me laugh out loud. Kayla's laundry monologue, sock by sock, while Vee stands there bare under the wool and dies by inches, is real comedy that doesn't wink.
+Here's the big one, and I'd text it at 1 a.m.: Randi hasn't been back since the morning of the drawer. Six weeks. She hasn't come out to the house or called. I've spent a dozen chapters dreading Mondays, sure every soft thing Vee did was going into Randi's ears in his bed, and the Mondays were empty. He's been alone on those nights since November. The cashmere blanket slides off the foot of the bed, and he folds it and puts it back "where it lived" for a woman who isn't coming. Meanwhile Randi is in the snow deciding to "keep the brunches exactly as they were." She walked out on him without saying a word, and he's calling it her choice to make: "When she was ready, she would call. If she was." Everybody in this book leaves the room for everybody else. Nobody walks back into it.
 
-The doorstep is a stock trope, and I griped about it last chapter. It worked anyway. The cold on her wet nipples after his mouth leaves them is a smart, specific detail I haven't read a hundred times. The door banging in the wind with nobody shutting it, the three hobbling steps with his jeans round his thighs before they give up on the bed: graceless, "which was the truth of them tonight." Yes. Then "You sure know how to make an entrance," muffled into her breast, and the laugh breaking into tears on her own name. That's the name she walked away from in December, landing differently now. And "Those stay on" from a man who's never told her what to wear made me blush with her.
+And he still has the picture: three of them in his kitchen, Vee in the sheet with too much honey, Randi with her feet up. "Further along than last time, because he had been adding to it for weeks." Vee is gone and Randi is gone, and he's still furnishing that kitchen. That's the coldest and saddest thing he's done. "Whether the room would ask more of her than she had in her." Oh, Pace. The room already asked. She left.
 
-Okay. The siren. AGAIN. Chapter 10 used a cop siren to interrupt her in the truck, and it's been a grudge on my list for thirty-six chapters. Now there's a cruiser on the county road, mid-orgasm, interruption by device. I groaned. I'll grant that it's a fake-out, and the hand patting the bare passenger seat for a purse that's sitting on her desk is a perfect panicked beat. But it's the same trick. Some of the phrasing slides toward the KU shelf too: "as if he would die without the taste of her," "his damnable patience," the breasts-as-comfort beat for the third or fourth time. The pancake recipe runs a paragraph longer than it needs to. I know he cooks. I skimmed the baking powder. And he doesn't so much as blink at Randi's shoes. Either he doesn't know them, or he's keeping quiet about them the way he does everything, and I can't tell which.
+Sheri got me. I've had her on my ledger as the bar blonde, then as a rival at the Thanksgiving table, and she's neither. She's estranged from her family, lost Paige over "call your mama, Sheri," and eats a double cheeseburger like she rides. "People who've never lost anything think grief is a choice." That's the two of them in one line, two people who don't go home sitting across from each other. Then "Then not saying it matters more to you than having her." She says what I've been yelling for six chapters, to his face, in a diner, and then steals his fries. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud. She's the first person in two books who isn't impressed by him, and he laughed his first full laugh of the night because of it. I love her. And "she looked at me like I was one more of your harem applicants" about Randi made me grin.
 
-What I noticed most is who's missing. Randi spent last chapter's last page being told to choose by Brooke. She sent Vee off to "get your man back," and now Vee's back inside his care and Randi is completely gone from her head. Pace's Mondays are still empty, and Randi's the one left outside. That's where my dread lives now.
+Then the morning, which wrecked me. Bleach, and the mop bucket outside the bathroom with foam crusted above the waterline. The book never says he threw up. It just shows me the bucket, and that restraint is exactly what I've been begging for. Then the freezer, chicken in one column and broccoli in the next, "enough in there to go on like this a long time." The man who has fed every woman in this series boils bags for himself and eats "because he told it to." Prison food. So the feeding thread was never about him liking to cook. He feeds other people because that's the only way he lets himself eat well.
 
-Cassie's "Hmm" at the sweats and the heels is the perfect ending. She doesn't need a single word explained, and Vee's too happy to offer one.
+The truck on the highway undid me completely. His head comes up before he knows it, the fork stops, and his whole body leans toward the cut in the hill. "It was the wrong sound." It doesn't slow down. Then he sobs at his little table. The man who reads every breath in everyone else finally gets read, by me, and he's a wreck. "Pace picked up his fork. He was not hungry. He ate anyway." That's a perfect last line.
 
-GATE 46 — Nothing Underneath
+Daphne: "brown hair and glasses who laughed with her hand over her mouth." "There had been no one to tell that Daphne was gone." Gone. Not left. Next to Sheri's line about grief, I think Daphne is dead, and I think the scar has something to do with it. That's the door he won't open, and now I understand why he can't say the word. He said it once, and losing her took over his whole life.
+
+Gripes. The book explains him to me in the exact paragraphs where I didn't need it: "He had taught himself that the words were the difference," "He had hurt her because he was afraid of how much she could hurt him." That's the moral handed to me in a sentence, right after the diner had already shown it beautifully. The Daphne section goes flat and summary-like ("Those relationships mattered. Their endings hurt.") in a way that felt like notes. Maybe that's deliberate, a man reciting himself, but I noticed. The crackers-and-meal speech gets replayed one more time, though at least now it's from his side and comes with the answer he swallowed. "Whiskey River was a liar" is a great line. And a small one: he said "most important thing" to Sheri, but in chapter 41 he said "person."
+
+But I finally have Pace's interior, and he loves her, and he knows it, and he knows what he did. Now I need the two of them in the same room.
+
+GATE 44 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-HEAT: 3
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren." That's the chapter 10 cop-siren device again, right when the chapter had me.
-WHY: The heat came back all the way, and it's Vee's own heat, from the mirror to the couch, with her shame wired into it and finally beaten. But "Vee, I l—" is the knife: he started the word and she opened the coat right over it. The reconciliation is warm and complete, so what pulls me on is Randi standing alone with Brooke's ultimatum, and whether that word ever comes back.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." The book stated the thesis outright, after a diner scene and a mop bucket that had already said it better.
+WHY: It's the third telling of the same night and the best one. Pace in the recliner, the empty Mondays, Sheri's "not saying it matters more to you than having her," and a grown man sobbing because a truck didn't turn in. He finally admits the word, to himself, and I want to see him spend it.
 
 LEDGER
-+ FEAR: "Vee, I l—" was the word, and she talked over it. Now she's decided she doesn't need it, so he may never try again
-+ LOVE: The drawer of good lace slid shut on "everything not invited tonight," and "last thing, only thing" about the shoes
-+ LOVE: The cold on her wet nipples after his mouth, the door banging open in the wind, and the three hobbling steps before they give up on the bed
-+ LOVE: Her hand patting the bare passenger seat for a purse that's on her desk in the dorm
-+ GRUDGE: The sex slides into stock phrasing in places ("as if he would die without the taste of her"), and the pancake recipe runs long
-+ WAITING: Randi, alone with Brooke's "You need to choose," while the couple she sent back to each other are reunited without her
-+ SUSPICION: "Those stay on." He knows exactly whose shoes those are and says nothing, the same way he said nothing about the scarf
-~ W44.6 SHIFTED: He started to say it at the door, "Vee, I l—", and she stopped him by opening the coat
-~ W45.5 ANSWERED: He opened the door, the wall came up and went down, and he said nothing about the stilettos except "Those stay on"
-~ G10.5 DEEPENED: A cop siren interrupts her mid-climax again, on a county road this time, even if it's a fake-out
-~ G45.6 FORGIVEN: The coat trope delivered, because her shame runs through every step of it
-~ F43.3 RESOLVED: The blonde came back for one second at the sound of sad music through the door, and then had nothing to hold on to
-~ F32.4 SHIFTED: The silence nearly broke, and it was Vee who broke in. Now she says she wants nothing he hasn't given
-~ L4.1 DEEPENED: Cassie's "Hmm" at the sweats and the heels, and going back to her book
-~ G32.7 FORGIVEN: The reunion came as a full scene this time, door to couch, with nothing summarized
++ LOVE: Sheri, a lesbian estranged from her family, eating her double and stealing his fries: "The philosophy of your food. Lord almighty. Get over yourself."
++ LOVE: The truck that doesn't slow down, the sob at the table, and "He was not hungry. He ate anyway."
++ LOVE: The freezer in its columns, prison food, and the man who feeds everyone eating bags of boiled chicken alone
++ SUSPICION: Daphne didn't leave, she died: "no one to tell that Daphne was gone." The scar is part of it
++ FEAR: He's still building the three-in-the-kitchen picture while both women are gone, and he'll pitch it the moment one of them comes back
++ WAITING: Pace finally spending the word on Vee, out loud
++ GRUDGE: The interior paragraphs spell out his fear as a thesis right after the scene had shown it
+~ S32.6 ANSWERED: Randi hasn't come to the house since the morning of the drawer. The Mondays have been empty for six weeks
+~ F25.1 DISPROVED: Vee's private things haven't been going to Pace's bed since November. Randi stopped coming
+~ S25.2 DISPROVED: Sheri wasn't the blonde. She only saw Vee "before she started throwing things"
+~ S33.5 DISPROVED: Sheri is a friend who doesn't go home either, not a rival
+~ S41.4 SHIFTED: The line he's holding isn't Randi. It's Daphne, and it's fear
+~ F32.4 SHIFTED: The silence was a choice. He had the true answer ready on the porch and picked the smaller one
+~ F43.3 DEEPENED: Vee's imagined blonde doesn't exist. He's alone in a recliner going through pictures of her
+~ W16.2 DEEPENED: The Daphne wound is a loss he never recovered from, and the scar probably sits on top of it

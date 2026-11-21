@@ -1,28 +1,34 @@
-*capture-dag-v3-grounded · gate ch060 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed cc5ecd918184 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch060 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed b134d5518784 · 2026-11-06*
 
 REACTION
 
-This is a long, explicit, inventive set piece, and I enjoyed the hell out of it. The body-paint scene is new. The fruit fed between brushstrokes, the grapevine growing up her arm, and the breast she turns into his face ("Oops") all made me grin. "Fresh canvas… gesso" is a great dirty-funny reveal. Pride instead of shame at the photo is a real step for her.
+The dread is paying off, and this chapter is mostly one small thing: a thumb stopping.
 
-And the book knows exactly what it's doing with the dread. He paints her with her own wetness, then kisses her everywhere *except* her mouth until the end, when she searches for a trace and "the uncertainty disappear[s] into the wave." The taste thread is in her mouth again, and she still isn't asking whose it was. Pace deliberately cleans her off the skin and wipes his own mouth. I think he's learning how to work it. Then the ending: the photo is hers alone, and she decides Randi will never see it and she won't tell her. That's a big shift. It's Vee's first deliberate secret from Randi, and it comes right after Randi sent her to the wax. I love it, and I'm a little afraid, because "Not that she'd ever show her" is exactly what I expect to be broken.
+Vee tells Randi about Sheri, and she tells it well. The ghost blonde doesn't exist, and she's giddy about it. Randi gets to be right, and she sits there "having it." Vee spends everything she has, and Randi improves each piece and hands it back. It's the usual warm brunch machinery.
 
-Small grumbles: the opening shower and panties run long, the "pleasure princess" callback is cute but repeated, and "terrible" for the scar was odd. Her kissing the scar with no story is a nice small move. And "You're always beautiful" again, which Randi flinches at. I notice it every time.
+Then "She was enjoying herself." Randi's thumb stops on Vee's hand. "Huh." "And you liked it." Flat, with no music in it. That's the whole chapter. Vee blurts "No. Not my thing," too fast. She reads Randi's stillness as guard duty, which is exactly the wrong reading. I read it as Randi hearing that another woman looked at Vee like that and enjoyed her, and feeling something. It could be jealousy, or it could be want, or it could be a flicker of "she answered too fast." Vee flinches from the word *liked*, and so does the book. Her fast "No" is the first crack in her story. I liked it a lot.
 
-GATE 60 — Still Life
+The wax is the shock. Pace asks for her bare, Vee brings it to Randi as good news, and Randi sends her to Sondra with a glass of something first. It's the pipeline again, running in the open. I don't know whether Pace's ask was his or whether Randi has been feeding it through him, but the way Randi is arranging Friday morning down to "say my name in the first sentence" unsettles me. It's tender and managing at once, and Vee takes it as friendship.
+
+The kiss gets more. "Opening the kiss," more of it, and it stays. Vee's mouth goes to her neck in passing and nobody mentions it. She's not looking over her shoulder, and she no longer brackets any of it as a goodbye. She also still hasn't told the taste story's other half, and I'm watching that.
+
+Complaints: Vee spends the chapter reciting Sheri again, and I've heard it. It's a short, lower-heat chapter. But the thumb earned it.
+
+GATE 58 — Between
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "The drive back from the salon took seven minutes. Vee spent six of them sitting very straight." (the shower and panties lead-in before the real scene)
-WHY: The painting scene is hot, funny, and inventive, and the unasked taste question still hangs over it. Vee deciding the photo is hers alone and Randi won't see it is the first real secret between them.
+ALMOST-STOPPED: "Then the other part came up in her, and she went slower with it, because it wasn't hers to spend." (Sheri's story retold a third time)
+WHY: Randi's thumb stopping at "she was enjoying herself," then "And you liked it," and Vee's too-fast "No," is the best crack in a while. The wax appointment and the deepening kiss show the pipeline running out in the open.
 
 LEDGER
-+ LOVE: The body-paint scene, with the walnut-parsley-grape kisses, the fruit, and "Oops" with the orange smear on his face.
-+ LOVE: Vee kissing the scar and asking it nothing, going past it.
-+ SUSPICION: Pace avoiding her mouth until the end and wiping his own mouth is deliberate, so he is managing the taste thing as well.
-+ WAITING: Saturday with Randi, the skirt and the mixer, and whether the hidden photo stays hidden.
-+ FEAR: Vee's first secret from Randi will make Randi push harder to see it.
-~ S54.3 DEEPENED: Searching for a trace on his mouth again, and she still lets the thought go.
-~ W59.4 ANSWERED: Pace found her bare, and it was a lavish scene; Randi hasn't heard yet.
-~ W54.2 DEEPENED: She searched his kiss for the taste again and let it go.
++ SUSPICION: Randi's stalled thumb and flat "And you liked it" is jealousy or want. Vee read it as guard duty.
++ SUSPICION: The wax is Randi's arranging, directly or through Pace, and Vee carries it to her as good news.
++ WAITING: Friday's wax with Sondra, and who sees the result first.
++ WAITING: Valentine's dance, with Sheri, Pace and Vee.
+~ S56.3 SHIFTED: Sheri gave Vee warmth and her own story; Vee used the giddy version with Randi and nothing dangerous came out.
+~ S57.3 SHIFTED: Vee still reads Sheri as safe, and Randi's reaction to the "gay" detail was stillness, not relief.
+~ W57.4 ANSWERED: Tuesday happened; Randi went still at Sheri's look at Vee.
+~ F31.4 DEEPENED: Vee's answer to being desired by a woman was a too-fast "No."

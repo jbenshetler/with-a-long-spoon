@@ -1,48 +1,41 @@
-*capture-dag-v3-grounded · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed 341107b8a87b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 347ffeb2119d · 2026-11-06*
 
 REACTION
 
-I am sitting here in the quiet with my hands flat on my desk, utterly, completely paralyzed. My chest is tight and my mouth is dry. *They did it.* It finally, finally happened, and it was ten thousand times more devastating, intoxicating, and emotionally catastrophic than I ever could have prepared myself for.
+I am sitting here with my thighs clenched tight, my breath completely stalled in my chest, and goosebumps prickling across my arms. That was—without a single shadow of a doubt—the most raw, visceral, psychologically devastating chapter of "grooming" I have ever read.
 
-First of all, the slow, agonizing, velvet-gloved trap Randi laid from the very first paragraph of this chapter. "You I just get to have." "Taking it off requires tools." The Cartier Love bracelet! The iridescent scrap of a skirt that she *knew* would ride up Vee's hips and expose her bare, freshly waxed skin to the entire room! And Brooke—my god, Brooke stepping out in gold lamé, dropping that razor-sharp surveillance right into Vee's lap: *"You needed our Randi like the world was ending... I chose... I can see."* Randi claiming Vee out loud as her *date* in front of the house president who literally threatened to kick her out like Lauren Pike! The audacity, the danger, the reckless, burning hunger of it.
+I’ve read a thousand romance novels where the heroine gets a Brazilian wax. It’s always treated as this glossy, breezy, twenty-second comedic trope: *tee-hee, look at me cursing at the aesthetician, beauty is pain!* But Helen Rivers took that tired salon cliché and turned it into an absolute slaughterhouse of female interiority, bodily shame, and submission.
 
-AND THEN THE DANCE FLOOR.
+First of all, the distinction between the two girls on the couch: one coming to be looked at, and one coming to be *touched*—the private maintenance done for one specific set of hands. That line cut so clean and deep. Vee recognizing that she belongs to the second category, stepping into the physical preparation of being kept, was pure romance heroin.
 
-The sheer sensory mastery Helen Rivers brings to female exhibitionism and shame. Vee realizing her green thong is on full display, her hips being worked like an instrument from behind by Randi's hands, her arms held up in the air—and then the gut-punch: *"Your panties are showing."* The way Rivers writes Vee’s internal shame turning over into hot, low, illicit arousal—the floozie voice trying to scream, but her body leaning straight into the fire—is why I worship this book.
+AND THEN THE ROOM. God, the sheer vulnerability of that bright, fluorescent butcher-shop light.
+The horror of Sondra’s bored, clock-running professionalism contrasting with the sheer, soul-stripping cost it took Vee to choke out: *"Everything. All of it. Bare."* To Vee, that sentence was a surrender of her lifelong modesty, a total offering of herself to Pace; to the woman snapping on latex gloves, it was just a thirty-minute coffee order.
 
-AND THE KISS. *DEAR SWEET MERCIFUL GOD, THE KISS.*
+And the psychological violation of the "wrong hand." That part made my stomach drop straight through the floorboards:
+*"And a hand came down flat on her thigh and pressed her back down to the table, firm, exact. 'Don't move.' ... because her body knew that grammar. Knew a hand pressing it down and telling it to hold still, had learned that grammar in a warm dark room from a man who meant it, and here was the shape of it with everything true scooped out of the middle."*
 
-"The joke and the thing were not going to be the same size."
+THAT. That right there is why this book is literature. The sheer ache of having her kink, her hard-won bodily surrender to Pace, mirrored back to her as sterile, clinical containment. It opened an ache in her a mile wide because the only thing that makes submission sacred is the person holding the command. She held back her tears, her flinches, her moans, keeping the "lit ruin of herself" behind her teeth because that belongs exclusively to Peter Pace.
 
-That sentence will haunt me for the rest of my life. That is the entire series distilled into one terrifying, breathtaking line. Using Harrison—some nameless boy with a beer—as a paper-thin shield, a frat-party joke, an excuse for two girls to "put on a show," while beneath it, months of subterranean lust, unspoken obsession, and psychological seduction detonated all at once!
+AND THEN ROLLING ONTO HER STOMACH.
+The betrayal of Randi's smooth, smiling omission! Randi sat in that booth, turning Vee's fingers over one at a time, whispering *"Barely stings, so worth it, baby,"* and deliberately left out the part where you have to roll onto your belly, face in the butcher paper, presented and blind, having the most private, unseen cleft of your body ripped bare. Randi knew *exactly* what that table required. Randi sent her there like a lamb to the slaughter, knowing it would strip away every remaining scrap of Ohio modesty Vee had left.
 
-Randi's hand fisting in Vee's hair. Randi's other hand low, gripping and kneading the curve of Vee's ass through the thin skirt. Vee leaning down, their breasts crushed together, their nipples pressing through the silk, and then Vee’s hips rocking forward into Randi’s, asking for it! And the tongue. Salt, lime, margarita, and then *Randi*. Vee moaning into Randi's mouth, her own hands tangled in Randi's hair, wanting Randi's mouth lower, wanting Randi's hands under the skirt—soaked, slick, aching, making that "humiliating announcement" entirely for a woman!
+And the ending. That quiet moment on the edge of the table when she finally touched herself:
+*"...new, unbearable, and she drew her fingertips over it once and went weak at how it felt—and then she was not thinking about her own hand at all. She was thinking about his. About the weekend, about the moment he'd find her like this: his hand, the right hand..."*
 
-AND THEN RANDI’S RETREAT.
+I need Friday night. I need Pace’s front door. I need to see what happens when the man who measures silk by hand and worships every inch of her skin kneels down and finds what she endured for him. My heart is in my throat.
 
-The absolute, smiling, aristocratic cruelty of folding the night back up and handing it to her:
-*"Oh, that was perfect... You really did a great job putting on a show. I almost believed it."*
-
-I felt physically sick. The emotional whiplash nearly snapped my neck. Randi just had her tongue down Vee's throat, felt Vee's body go slick and shaking against hers, and she immediately put the armor back on, gave her a playful swat on the arm, and reduced an earth-shattering sapphic awakening into "teasing a boy."
-
-And Vee standing there, laughing along, tasting Randi on her mouth, her hands trembling, wide open and ringing with nowhere to put a single drop of it.
-
-AND TOMORROW IS SUNDAY. *TOMORROW SHE GOES TO PACE.*
-
-Vee is going to walk into Pace's house tomorrow morning. She is completely bare from Sondra’s wax. She is carrying the taste of Randi on her mouth. Her body is still vibrating from being held by Randi's hands. And Pace is waiting for her. Does Pace know Randi took her as a date?! What happens the second Pace touches her? If Pace kisses her mouth, is he going to taste the ghost of Randi's gloss? If he goes down on her, is she going to see Randi's blue eyes in that aqua dress? I am shivering. I am coming apart at the seams. I need tomorrow morning right this second.
-
-GATE 61 — On Her Floor
+GATE 59 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the suffocating exhibitionism on the dance floor to that earth-shattering, open-mouthed kiss—crushing breasts, tangled hair, and Randi kneading Vee's ass—was an absolute masterpiece, and Randi cowardly folding it back into 'a show for a boy' is devastating heartbreak.
+WHY: The psychological depth of Vee's salon wax was staggering—turning a tired romance trope into a masterclass on bodily shame, submission, and the hollow ache of the 'wrong hand' holding her down.
 
 LEDGER
-+ LOVE: Randi taking a slow, theatrical handful of Vee's ass and drawing her down by the hair for a kiss that obliterated every excuse in the room.
-+ FEAR: Vee having to carry this raw, electric awakening for Randi into Pace's bed on Sunday with nowhere to put the truth.
-~ [F17.2] CONFIRMED: Vee is no longer just normalizing Randi's kisses—she actively surrendered to an open-mouthed, French kiss with Randi on the dance floor, moaning and asking for more with her hips.
-~ [S60.3] SHIFTED: The mixer didn't detonate the secret photo; instead, it detonated the physical barrier between Randi and Vee entirely, leaving Vee desperate for Randi's mouth.
-+ WAITING: Sunday morning—Vee arriving at Pace's house freshly waxed and still vibrating from Randi's mouth on hers.
++ LOVE: Vee’s fierce emotional boundary on the table—refusing to give the stranger a sound and keeping the "lit ruin of herself" reserved entirely for Pace.
++ LOVE: The psychological precision of the "wrong hand"—Vee recognizing the physical grammar of Pace’s dominance, but stripped of warmth and intention.
++ FEAR: The sheer vulnerability of Vee being completely bare is going to make Pace’s touch this weekend an overwhelming, defenseless emotional experience.
+~ [F58.3] DEEPENED: Vee endured the full Brazilian, front and back, completely stripped of her physical defenses for Pace (and by extension, Randi's aesthetician).
+~ [S58.2] DEEPENED: The wax is done; Vee is now fully physically prepped and smoothed down for the weekend Pace demanded.

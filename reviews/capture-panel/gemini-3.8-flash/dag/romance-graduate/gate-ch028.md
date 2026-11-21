@@ -1,39 +1,53 @@
-*capture-dag-v3-grounded · gate ch028 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c70abd373ffb · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed d8e37bc573fd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch028 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a946e4963085 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 3b10cd8e5332 · 2026-11-06*
 
 REACTION:
 
-Oh, my god. My chest is so full right now. I have absolute goosebumps.
+HOLY. SHIT.
 
-After the suffocating, claustrophobic psychological mind-games of the last four chapters—the bar fight, Randi dressing her like an offering, the accidental spanking at the sink, the piano closet—this chapter felt like throwing open every window in a stuffy house and taking the deepest breath of crisp autumn air. It was pure, triumphant, earned catharsis.
+I am sitting here with my hands clamped over my face, just staring at the page. This book is playing psychological chess at a grandmaster level, and my heart is hammering against my ribs.
 
-The induction ceremony itself was written with such stunning emotional precision. The quiet ache of her parents not being able to afford the flight, her mother’s "bright voice she kept for the things she couldn't give her," and that devastating, profoundly honest realization: *and nobody in this room who had ever taught her what to be ashamed of.* That line hit me right between the ribs. For twenty-one years, Vivienne Thorne has carried the suffocating weight of her mother’s church-basement modesty, the fear of being a "floozie," the constant exhaustion of making her lavish, athletic body smaller, quieter, less noticeable.
+First of all: Randi showing up unannounced on Friday night in the Mercedes, sweeping the wood shavings off Pace’s shoulders, pouring wine, and casually laying out Vee’s entire morning breakdown like a war dispatch... but with this terrifying, breathtaking *tenderness*. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry." Randi isn't just manipulating the board anymore; she is actively falling apart over Vee, and she is using that obsession as the purest, most incendiary aphrodisiac with Pace.
 
-And then she stands up. She takes that first timid, careful little step to keep the slit shut—the safe step, the step her mother trained her to take—and then she just... decides.
+AND THEN THE BEDROOM. SWEET MOTHER OF GOD.
 
-*She took a breath, and made the second step long.*
+That entire sequence was an absolute, five-alarm sexual inferno. Randi stopping him from going down on her—"Not like that. Not yet"—climbing astride him, taking all of him inside her, and then *narrating her tactile seduction of Vee directly into his mouth while riding him.*
 
-I literally cheered out loud. THE STRIDE! Giving the room her bare leg from calf to hip, totally commando under Pace's burgundy silk, perched on Randi’s expensive strappy heels with the frosted plum toes catching the light! It wasn't an accident or a stumble; it was a deliberate, magnificent act of self-possession. Watching a dull, polite academic hall murmur and wake up because a woman chose to take up all the space her beauty demands—without apologizing, without flinching, without shrinking—was so deeply erotic and empowering. She transformed from a girl hiding behind a cardigan into a complete force of nature.
+*"I had her standing in my room this morning. In her bra... Her top off, and this pretty little bra, black lace, doing her tits every favor, Pace... Standing on my rug with her hands at her sides letting me look."*
 
-And the layers of intimacy woven into that walk! Even though neither Pace nor Randi was physically there, they were entirely present in the fabric of the moment. Pace’s hand-stitched silk holding her, built with that exact hip-high slit he measured on the platform; Randi’s expensive heels carrying her balance; and Cassie—sweet, fiercely loyal, unshakeable Cassie—standing at the back, taking the photo that captured the exact second Vee claimed her own power.
+The sheer, filthy, psychological genius of it! Randi isn't deflecting Pace with Vee anymore; she is literally using Vee’s body to bridge the gulf between them. And then describing sliding her hands up under Vee's skirt, feeling the soft lotion on her thighs, pressing her thumb into the hollow behind Vee's knee—and telling Pace how Vee made a little sound and tried to hide it! I couldn't breathe. It was scorching, voyeuristic, deeply twisted, and completely intoxicating. Pace driving up into her while Randi openly admits, *"I haven't stopped thinking about her."* That is the whole ballgame. Randi is completely, hopelessly in love/lust with Vee, and she’s dragging Pace right into the fire with her.
 
-Cassie saying *"Honor student"* with tears she’d deny to the grave, and then telling her *"I'll buy you a terrible sandwich and you can be famous at me"* was the absolute warmest, most grounding anchor. Cassie doesn't need to know about the lack of underwear or the piano-room confessions to love Vee completely.
+And then—the absolute perfection of Randi falling asleep on his chest, whispering, *"She's going to be so beautiful when she walks in. You wait."* Randi literally styled Vee like a magnificent sacrificial offering, sent her on her way, and then slept with the man first just to prime him for the kill. It is diabolical and somehow heartbreakingly generous at the exact same time.
 
-And then sending the uncropped photo straight to Pace in Berkeley... god, my heart squeezed. He’s going to look at that screen in some sterile hotel room between math sessions and lose his entire mind. He made that dress for this exact walk, and she gave it the life it deserved.
+And then the shift to Saturday morning—the bike ride with Sheri.
 
-What makes this chapter so brilliant is that it proves this book isn't just about the trap. It’s about Vee actually blooming. Even if the foundation of how she got here is poisoned by the pointing game, the growth itself is *real*. She isn't a victim being passively manipulated anymore; she is waking up to her own appetite, her own confidence, and her own skin. That’s going to make the eventual collision hurt so much worse, but right now? God, it feels like flying.
+Sheri is fantastic. A no-bullshit, road-cycling buddy who keeps an eye on Vee at the bar, casually drops that Vee has a "hell of a backside," and immediately catches Pace gushing about Vee touching his walnut joinery. *"Listen to you."* Pace didn't even realize he was doing it! He is so far gone for Vee he can't even keep her out of casual cycling banter.
 
-GATE 28 — The Induction
+And that ending:
+*"She know about the redhead?"*
+*"She knows. She likes her."*
+*"And the redhead?"*
+*"Not yet."*
+*"If that's not already complicated, it will be. But I bet it's worth it."*
+
+*Not yet.* The sheer weight of those two words! Tonight is Saturday night. Vee is coming to that house in the little black dress, the Hermès scarf, and Randi's expensive cognac heels, completely convinced she’s winning back her courtly, noble man on her own terms—completely oblivious to the fact that Randi spent Friday night in that exact bed, riding him to the memory of Vee's bare thighs.
+
+The collision course is set. The fuse is lit. Turn the page right now.
+
+GATE 25 — Space
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer emotional triumph of Vee taking that long, deliberate stride across the stage—bare under Pace's silk dress, giving the room her leg and finally shedding her mother's lifelong shame—was an absolute masterpiece of character growth and earned catharsis.
+WHY: The scorching psychological masterclass of Randi riding Pace while narrating her hands on Vee's bare thighs—capped by Sheri calling out Pace's obvious love for Vee on the bikes—was absolute literary perfection.
 
 LEDGER
-+ LOVE: Vee claiming her own space on the stage—taking the long stride on purpose, letting the slit swing open to the hip, and refusing to make herself small.
-+ LOVE: Cassie snapping the photo mid-stride and proudly telling her to come be famous over a terrible sandwich.
-~ [L4.1] DEEPENED: Vee’s interiority reached an absolute peak here—the quiet relief that nobody in the room had ever taught her what to be ashamed of allowed her to finally shed her maternal cage.
-~ [W14.3] RESOLVED: The russet/burgundy dress has finally had its official public wearing at the honor society induction, fulfilling Pace's courtly vision and cementing Vee's transformation.
-+ WAITING: Pace's reaction in Berkeley when he opens Vee's text and sees the uncropped photo of her mid-stride with her bare leg out to the hip.
++ LOVE: Randi using her own arousal over Vee as a direct sexual offering to Pace—riding him while narrating the bra and the knee touch.
++ LOVE: Sheri’s sharp, road-cycling realism—clocking Vee at the bar and immediately calling Pace out on how smitten he sounds.
++ FEAR: Vee arriving tonight in Randi’s shoes and scarf, totally unaware Randi spent Friday night in Pace’s bed whispering about her.
+~ [F1.1] SHIFTED: Randi isn't using Vee as a shield anymore; she has completely surrendered to wanting Vee, openly telling Pace she hasn't stopped thinking about her.
+~ [S1.3] SHIFTED: Randi's game is no longer about deflecting Pace's intensity; she and Pace are now genuinely, mutually obsessed with Vee as both an emotional center and an erotic muse.
+~ [F5.2] SHIFTED: Randi’s jealousy has fully inverted into an erotic, possessive obsession with Vee that she actively shares with Pace to heighten their own intimacy.
+~ [G18.2] FORGIVEN: Pace isn't being arrogant or distant with Randi anymore; they are completely locked in sync, fueled by their shared reverence for Vee.
++ WAITING: Saturday night—Vee walking through Pace's door wearing Randi's shoes and scarf to make things right.

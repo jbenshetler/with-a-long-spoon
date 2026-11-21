@@ -1,87 +1,65 @@
-*capture-dag-v3-grounded · gate ch062 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 93493095815d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch062 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed 4a715a2fd8af · 2026-11-06*
 
 REACTION
 
-OH MY GOD. This chapter is an absolute psychological and erotic masterpiece—I am sitting here with goosebumps all the way up my arms, my heart racing, and my jaw on the floor at how every single layer of this three-way game just collided in Pace's bed at one in the morning!
+EXCUSE ME?! I am sitting here with my hand over my mouth, my heart hammering in my ribs, and tears stinging the corners of my eyes because *Still Life* just entered the absolute Pantheon of romance/erotica chapters. How is a single chapter simultaneously this playful, this achingly tender, this filthy, and this psychologically seismic?!
 
-First of all, let's talk about that opening scene in Vee's dark dorm room!
-She walks home from the party still wet and ringing from Randi's mouth, takes off Randi's iridescent skirt, and goes to peel off her soaked green satin thong—which is literally stuck to her skin from how wet Randi made her on the dance floor!—and her fingertip slides across her newly waxed, bare skin and stops dead:
-*"the thought of what Randi would make of this, the new smoothness, what Randi's mouth would do to it if it ever got down there and found her bare as this, made this way, an offering with the wrong name on it. Her hips tilted toward the idea before the idea had finished being one."*
-AN OFFERING WITH THE WRONG NAME ON IT!
-Look at that phrase! Yesterday afternoon she got waxed bare for Pace, last night Pace painted a cherry on her bare mons, and tonight she touches her own smooth skin in the dark and realizes her body wants *Randi's* mouth to go down there and find it!
-And her panic reaction! Grabbing the brand-new word Pace gave her at the roadhouse on Wednesday night—*I have a boyfriend*—like a stair rail in the dark, putting Randi's tiny iridescent skirt *right back on* over her half-peeled, Randi-soaked thong ("she wanted it there and wouldn't ask herself why"), and driving eighty miles an hour down the dark county road at midnight to use Pace's body to exorcise Randi out of her head!
+Let's start at the beginning before we even get to the paint, because two massive things happened in the first ten minutes inside Pace's bedroom:
+1. First, Vee deciding on the drive over that because Pace *always* brings her off first, tonight she's going to ambush him, push him backward onto the edge of the bed, and blow him on his bedroom rug *before* he gets to see or touch what she did for him at the wax salon! And watching her realize right after she swallows him and toasts him with a flute of champagne ("Cheers") that she just played herself—"She had handed him his hurry. He didn't have any left. She had all of hers"—had me grinning so hard.
+2. AND THEN THE SCAR ON HIS INNER THIGH:
+When she pulls his pants down and kneels between his feet, she sees the long, pale, terrible scar high on the inside of his thigh—the one where he covered her hand in Chapter 22 and said *"Not tonight."* Now, after Saturday night with Sheri (*"Went bad with his daddy. He hasn't been home since he was sixteen"*) and Sunday morning in the kitchen, look at what Vee does:
+*"She put her mouth to it once, soft, asked it nothing, and went on. That was all she let herself know: that it was his, and she had gone past it."*
+I nearly lost it right there. No prying, no forcing the door open like he once did to Daphne—just one soft kiss on the scar that says *I know it's there, and I love all of you,* and moving on!
 
-And when she gets to Pace's door and walks him backward into the dark house with her hand down his boxers—OH MY GOD, the emotional violence and raw honesty of that first round of sex!
-*"she was not trying to have him. She was trying to get free of something, and her body went about it like a fight... Not once, on any other night she'd come to him wild, had she needed him to drive someone else out of her head. She came with her face turned into his neck so she wouldn't have to see him see her."*
-And it doesn't even work! She comes once with her face hidden in his neck, and the picture of Randi on the dance floor is *still there*, so she rides him furiously a second time until he comes, and ends up raw inside at the end of the chapter ("the kind you got from not stopping when you should have")!
-AND PACE CLOCKS IT IMMEDIATELY.
-*"What was that? ... That wasn't you wound up — I know that one. That was angry, Vee. Did something happen at the mixer?"*
-Because Pace knows every shift of her body in the dark! And I loved the detail of *why* she finally confesses that it was Randi she kissed: when she tries to float the safe half-truth ("For Harrison... We kissed") and hears Pace repeat *"Harrison,"* she can't bear the thought of leaving a false hurt inside Pace's chest that she kissed another guy, so the truth tears right out of her:
-*"Not him. God, not— it was Randi. I kissed Randi... Or she kissed me— and I kissed her back... It didn't stay a joke."*
+And THEN the unveiling of the bare wax, and the *Still Life*!
+When Pace tells her to lie back, puts her hands on the wooden headboard rail ("Keep them there for me"), and tells her to close her eyes, I had no idea what was under that white towel beside the champagne bucket. Body paint!! And not just body paint—a multi-sensory, blindfolded guessing game where every color and brush stroke is paired with him feeding the matching flavor onto her tongue!
+- The fine brush drawing the brown stem from her palm up her inner wrist and forearm -> a walnut half brushed across her lower lip and laid on her tongue (which tastes amazing with champagne!).
+- The flat brush laying leaf-shapes -> a feathery leaf of parsley at the corner of her mouth!
+- The stippling round brush -> a cool red grape bursting between her teeth!
+- And the conditioning game of *Still meant the brush. Moving meant the brush going away*! Watching her struggle in the hollow of her armpit—trying at first to hold herself rigid by sheer force of will, and only getting the brush back when she gives up holding altogether and lets the bed take her weight ("Pace responsible for whatever happened next")—was so erotic and so true to their dynamic.
+- And then the cantaloupe halves on her breasts! Stippled pale rind (cashew!), thin green ring (parsley!), and lush overlapping bands of orange around her tight, aching nipples! AND THE CALLBACK TO CHAPTER 14 AND CHAPTER 47: right as the orange brush reaches the edge of her left areola, she turns and lifts her half-painted breast straight into Pace's cheek and mouth! *"Oops. Sorry."* And Pace laughs a real, helpless laugh and *leaves the orange breast-print across his cheek and mouth for the rest of the night*!
 
-AND THEN ROUND TWO BEGINS.
-Stop and think about the sheer dramatic irony of what happens the second Vee whispers *"It didn't stay a joke"*:
-Pace—who hasn't slipped out of her once—**goes rock-hard inside her**.
-Why? Vee thinks it's just "a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle."
-NO! Pace has been waiting since *Chapter 3* (and specifically since Thursday night in Chapter 55, when Randi rode him and said *"I want her to know exactly what she does to me"*!) for this exact moment! And look at the move he uses to extract the whole truth from Vee:
-In Chapter 55, forty-eight hours ago, Pace spanned Randi's waist with his hands, lifted her off him, and lowered her onto his cock *one slow inch at a time* ("My turn"). Now, he cups Vee's ass in his hands, lifts her all the way up to the tip of his cock, and holds her suspended there:
-**"Tell me the real story, and I'll give you what you want."**
+AND THEN WE GET TO WHY HE ASKED HER TO GET WAXED BARE:
+**"Fresh canvas... It has to be prepared with gesso... A gooey coat. Helps the paint stick."**
+MY JAW HIT THE FLOOR.
+He takes a firm-bristled brush, draws it slowly up from the bottom of her slit through her own soaking wetness, and uses *her own slick* as the primer ("gesso") to paint her newly bare mons in shining crossing strokes—and she is so wet that even while he's gathering and painting her with herself, a warm drop escapes the bristles and rolls down through the cleft of her ass (which Sondra ALSO waxed bare this afternoon!).
+And look at what happens in Vee's mind during the gesso painting:
+Every other coat came with a kiss and a taste at her lips (walnut, parsley, grape, cashew, cantaloupe). When he paints her with *her own wetness*, he doesn't kiss her mouth! And instead of being relieved that he didn't bring the "gross" thing to her lips, **she feels the absence of it**:
+*"Every color had brought his mouth and something at her lips. This had brought nothing. Her own slick moved cool across her mons and no taste followed it. What would it feel like on her lips—this texture he was spreading over her, warm first and cooling in the air? Would it stay slippery in her mouth? Would the hothouse smell become salt, sweet, sour, something with no word she had?"*
+Look at how Pace just bridged Chapter 54 (*The Reach*) without ever knowing what she did on Thursday night! By feeding her after every brush stroke and then withholding his mouth during the gesso coat, he made her *crave* the taste of herself on her own lips!
+And when he finally comes to her mouth after she comes hard on the brush, and rolls a dark, winey black cherry across her lips, look at the callback to Chapter 10 (*Leave No Trace*): she works the pit free and puts the warm, wet cherry pit straight into his waiting palm, and his fingers close around it like a treasure!
 
-I was barely breathing through that entire inch-by-inch interrogation! Every time Vee tries to tidy the story or hide behind the "bit" (*We danced bigger / She moved me around / The skirt rode up some / I don't know, probably*), Pace's hands stall her or lift her all the way off him until she's clenching on emptiness, forcing her to turn around and look at what she actually wanted and did!
-Look at the truths he makes her buy her own pleasure back with, one stroke at a time:
-1. *"I went as her date... She said guys you have to manage all night, and me she just gets to have."* (And Pace buries himself to the root in her for that!)
-2. *"She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't— I didn't try that hard to get my hands back."* (And she hears the wet sound between their bodies and can't tell how much of that wetness is Pace's and how much is *still Randi's* from the dance floor!)
-3. *"They could see all of me. And I wanted it... Soaked. God, yes, I was soaked."*
-4. And then when she gets to the kiss itself, he stops trading inches and runs her straight up to the edge of her climax and *holds her there shaking over the drop* with a slow shallow rock ("You finish when you've finished") until she pays the final, terrifying coin—not what happened, but what it meant to her:
-**"I wanted it. I wanted the kiss. I wanted her mouth on me. It was so hot, Pace, it was so — I've never—"**
-And he drives her right over the edge while she still tastes Randi's salt and lime on her tongue under his mouth ("Her whole weight was down on him now, the man, solid and hers, and the woman was still in her mouth, and she could not have told, even now, which of them she'd been chasing at the end")!
+And the photograph!
+When she opens her eyes, sees the grapevine, the split cantaloupe breasts, and the great black-red cherry painted over her bare, shining mons—with her sex red, open, and a bright line of her own wetness visibly dripping out of her—*she* is the one who says: **"Take a picture."**
+Think back to Chapter 33 (*Above Him*), when they had to carefully pose her like a 1940s pinup with her knees hiding everything and she was terrified of looking shameful. Tonight, she leaves her legs wide open, leaves the drip of her own excess right where it is, looks at the photo of herself painted like an abundant feast—"He had taken every part of her the world called too much... and made abundance the whole point"—and feels zero shame, only fierce, aching pride!
 
-AND THEN THE AFTERMATH IN THE LAMPLIGHT.
-Hold on, because the conversation after they come had me screaming at the page!
-First: Pace asks in his plain, flat voice, *"Anything else you want to tell me? About Randi."*
-And Vee thinks about the dozens of lingering mouth kisses (Wait—didn't she already tell Pace in Chapter 32 at the stove that Randi kisses her on the mouth twice, "French" style?! Yes, she told him about the quick "French" kiss-kiss back in November, NOT how since January the kisses have opened up, stayed, and moved to Randi's neck, OR how five minutes before driving here she had her own hand on her bare wax fantasizing about Randi's mouth between her legs!).
-And for the first time in their entire relationship, Vee looks at Pace and tells him a direct, conscious lie:
-**"No. Nothing."**
-And then immediately remembers that Pace was standing *three steps away by the truck in the roadhouse parking lot* on Wednesday night when Randi kissed her on the mouth twice! (Which we know from Chapter 55 Pace 100% saw: *"She looks at you, too"*!) And instead of just feeling guilty that he caught her lying, she feels *"inside it, small and bright, a thrill she could not account for"*!
+And then Pace devouring his own painting off her bare skin with his mouth and tongue ("He began to erase the picture"), bringing her off two more times until she's boneless, wiping his red-and-orange-streaked mouth twice (once with his hand, once with the sheet!) before coming over her and plunging inside—and Vee *immediately* reaching for his mouth before the thought even exists, her tongue hunting for the trace of herself mixed with champagne, paint, fruit, and Pace!
 
-Second: Pace asks her the Chapter 3 question straight to her face:
-**"Do you want to sleep with a woman, Vee?"**
-And just like she blurted out *"No. No. Not my thing"* to Randi on Tuesday night in Chapter 58, Vee panics at the edge of the drop, blurts out *"I'm not gay,"* and when Pace calmly says *"I didn't say gay,"* she swings her whole weight onto him to deflect:
-**"You're the one who wants this. You want to hear it. You want me to want— you want Randi."**
+WAIT A SECOND. Look at the final scene when Pace is asleep beside her:
+1. First, she notices that Pace took the photo on *her* phone, handed it back to her, and never asked for a copy for himself—so she is the only person on earth who has it.
+2. Second, she lies in the dark with her thumb on the screen thinking about Randi looking at the first photo in Chapter 34 (*"God, those legs... Showing him your toes, eh?"*), and tries to hear what Randi's low, hoarse voice would say to *this* photo—where Vee is waxed bare, painted in fruit, legs wide open, shining and dripping wet! And she has to stop because her own breath is catching in the dark!
+3. AND WHAT DID SHE JUST DROP AT THE VERY END?!
+**"Tomorrow was Randi's — the skirt, the mixer, whatever Randi had decided they were doing about it. She would not be telling her about this."**
+HOLD ON! WHAT MIXER?! WHAT SKIRT?!
+Tomorrow is Saturday night! Why is Saturday night "Randi's — the skirt, the mixer, whatever Randi had decided they were doing about it"?! Remember in Chapter 58 when Vee said she was getting waxed on Friday afternoon and Randi's eyes went over Vee's shoulder and *"came back with the whole week arranged in them"*?! Did Randi arrange a Saturday night plan with Vee—a skirt and a mixer—knowing full well that Vee would be freshly waxed bare and fresh out of Pace's bed?! AND everyone knows that whenever Vee vows *"Not that she'd ever show her. God, no. This one was too much. She would not be telling her about this,"* Randi is 1000% going to get that story and that photo out of her tomorrow!
 
-STOP EVERYTHING. READ THE NEXT THREE LINES TEN TIMES:
-*Something crossed his face — a flicker, the smallest thing — and then he answered her.*
-*"You keep saying her name." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."*
-*He'd defended himself. In every argument they'd ever had he left her the whole of the room... And this once, over this, he hadn't: he'd explained himself, needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.*
-
-OH. MY. GOD.
-My blood just ran ice cold!
-Vee accidentally hit the bullseye in the dark—*"you want Randi"*—and a flicker crossed Pace's face because HE HAS BEEN SLEEPING WITH RANDI ALL ALONG AND WAS LITERALLY INSIDE RANDI IN THIS EXACT BED FORTY-EIGHT HOURS AGO!
-And why did Pace break his lifelong pattern of never defending himself in an argument to say *"You keep saying her name. Not me"*?!
-Vee thinks it's "the sweetest thing she had ever seen him do"—that he's defending his fidelity to her because it matters so much to him that she knows he doesn't want Randi!
-NO!! He defended himself because she just came within a hair's breadth of blowing the cover off the entire conspiracy! And notice how he did it without technically telling a spoken lie according to his own warped code (*"You keep saying her name. Not me"*—because tonight, in this room, Vee *was* the one who said Randi's name while Pace asked "Do you want to sleep with a woman"!), while using that exact technical truth to deceive her into believing he has zero interest in Randi!
-AND THEN HE TUCKS RANDI'S CREAM CASHMERE BLANKET UP AROUND HER!
-
-And look at the ending as Vee lies awake under Randi's cashmere blanket against her boyfriend's sleeping chest, sore and raw inside from trying to fuck Randi out of her head:
-She thinks *"She'd gotten away with it"*—when she has gotten away with *nothing*, when Pace now knows she came hard confessing *"I wanted her mouth on me"* and is going to tell Randi, AND her own mind is already racing past Sunday and Monday straight to Tuesday night Anthropology (ignoring Monday morning Stats because Tuesday night is when she and Randi are alone for dinner!), thinking about Randi's mouth "doing what it had done, and then about it doing the things it hadn't gotten to."
-*"What is wrong with me?" she thought.*
-
-Nothing is wrong with you, Vee!! You are in love with your boyfriend AND you want your best friend's mouth between your legs, and the two of them built this room around you together! What happens when Pace reports tonight to Randi—or when Tuesday arrives?! I cannot stop reading!
-
-GATE 62 — Boyfriend
+GATE 60 — Still Life
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter was a jaw-dropping collision of all three threads—Vee touching her newly bare wax and wanting Randi's mouth on it ("an offering with the wrong name on it"), fleeing to Pace's house at midnight in Randi's skirt to try to fuck Randi out of her head, Pace holding her suspended on his cock to make her buy every inch with the truth until she comes screaming "I wanted her mouth on me," and that chilling moment where she accuses him of wanting Randi and misreads his defensive deflection ("You keep saying her name. Not me") as the sweetest thing he's ever done.
+WHY: This is an all-time hall-of-fame chapter—from Vee softly kissing Pace's thigh scar on her knees and blowing him first so he has no hurry left, to the breathtakingly original, hilarious, and scorching blindfolded body-painting scene (cantaloupe breasts with an "Oops. Sorry" smear on his cheek, her own wetness brushed on as "gesso" while she aches for the missing taste on her mouth, and a black cherry on her bare mons!), to her proudly asking for a wide-open photo of her own abundance and vowing not to show Randi tomorrow at "the mixer."
 
 LEDGER
-+ LOVE: Vee touching her newly waxed bare skin in the dark dorm room and feeling her hips tilt toward the image of Randi's mouth finding it—"an offering with the wrong name on it"—before grabbing the word *boyfriend* like a stair rail.
-+ LOVE: Pace immediately clocking the difference between Vee coming to him horny versus trying to exorcise someone else ("That wasn't you wound up — I know that one. That was angry, Vee"), and Vee confessing it was Randi because she can't bear to leave the false hurt of "Harrison" in his chest.
-+ LOVE: The scorching inch-by-inch interrogation where Pace holds Vee suspended at the top of his cock—refusing every tidied version until she confesses "I wanted the kiss. I wanted her mouth on me"—while she still tastes Randi's salt and lime under his mouth.
-+ LOVE: The ice-cold dramatic irony of Vee deflecting with "You want Randi," seeing a tiny flicker cross Pace's face before he breaks his rule to defend himself ("You keep saying her name. Not me"), and misreading his cover-up as "the sweetest thing she had ever seen him do" while he tucks Randi's cashmere blanket around her.
-+ GRUDGE: Pace for using a technical truth ("You keep saying her name. Not me") to let Vee believe she's crazy for thinking he wants Randi, when he was literally inside Randi in that exact bed forty-eight hours ago.
-+ WAITING: What happens when Pace tells Randi that Vee showed up at 1 a.m. in Randi's skirt and came hard confessing "I wanted her mouth on me"—and how Vee survives seeing Randi on Tuesday after lying awake in Pace's arms thinking about Randi's mouth.
-~ W61.7 ANSWERED: Instead of returning the skirt to Randi after the mixer, Vee walked back to her dorm, touched her newly bare skin while picturing Randi's mouth on it, pulled Randi's skirt right back on over her soaked thong, and drove to Pace's house at midnight to confess the kiss in the middle of sex.
+~ S58.4 CONFIRMED: We now see both halves of the Friday wax setup—Pace asked her on Sunday to be bare by the weekend so he could use her as a "fresh canvas" for the gesso-and-cherry still life, while Randi arranged to claim Vee for Saturday ("Tomorrow was Randi's — the skirt, the mixer, whatever Randi had decided they were doing about it").
+~ W58.5 ANSWERED: Friday night at Pace's delivered an unforgettable payoff for the afternoon wax—Vee blowing Pace first, unveiling her newly bare skin, and being painted from palm to mons as a living fruit still-life before he licks the entire painting off her.
+~ S59.4 SHIFTED: The bedroom escalation tonight wasn't the bench after all—it was Pace binding Vee's hands only by his word to the headboard rail with her eyes closed and using her newly bare mons as a canvas primed with her own wetness ("gesso") for a painted black cherry.
++ LOVE: Vee pausing on her knees between Pace's feet to press one soft, wordless kiss to the terrible old scar high on his inner thigh ("asked it nothing, and went on") before taking him in her mouth.
++ LOVE: Vee realizing as she sips champagne on the rug after blowing Pace first ("Cheers") that she just played herself by handing him all his hurry so he now has all night to torture her.
++ LOVE: The blindfolded sensory guessing game of the body painting—Pace pairing each brush and color with a walnut half, a parsley leaf, a red grape, a cashew, cantaloupe, and a black cherry on her tongue, and Vee learning she can only keep still enough to keep the brush on her skin by surrendering her weight to the bed.
++ LOVE: The third callback to "Oops. Sorry" when Vee turns her half-painted cantaloupe breast straight into Pace's cheek and mouth—and Pace laughing and wearing the orange smear on his face for the rest of the night ("Occupational hazard").
++ LOVE: The sheer erotic audacity of the "gesso" beat—Pace using a firm brush to comb through Vee's soaking slit and prime her bare mons with her own wetness while Vee realizes he *didn't* kiss her mouth for this coat and wonders what her own slick would taste and feel like on her lips.
++ LOVE: Vee looking at the finished still life of her painted body—and the wide-open photograph with a bright line of her own wetness visibly escaping—and feeling fierce pride instead of shame because "He had taken every part of her the world called too much... and made abundance the whole point."
++ WAITING: Saturday with Randi ("the skirt, the mixer, whatever Randi had decided they were doing about it")—and how fast Vee's vow that "She would not be telling her about this" (or showing her the wide-open still-life photo on her phone!) completely collapses.

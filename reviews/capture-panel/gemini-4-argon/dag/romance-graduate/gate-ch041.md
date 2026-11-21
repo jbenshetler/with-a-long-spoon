@@ -1,61 +1,54 @@
-*capture-dag-v3-grounded · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 368c44cceb3c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch041 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 2a294222a9e2 · 2026-11-06*
 
 REACTION
 
-OH MY GOD.
-*"Words are cheap, and you still won't spend them on me."*
-*"Not the hand in place of the word."*
+Oh, this chapter is so painful and so psychologically exact I could barely breathe through the first half and then had my heart broken all over again in the dark at the end. Look at the title: **"Under the Rug."** That is what they are both doing—and what sex itself is doing to Vee right now!
 
-I am sitting here with my hands shaking and tears in my eyes. Look at how forty chapters of build-up just converged on that doormat inside his front door! We knew from the jacket blurb from page one that this sentence was coming (*"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more"*), and yet watching it actually happen—watching Vee stand on that mat with her coat buttoned to the throat and her bag left out in the cold car, refusing to cross the last step into his warmth—hit like a freight train.
+Let's start with that opening in the dark, four days after Monday morning's cracker-and-meal disaster on the porch. Vee is lying there with *"I love you"* right in her mouth wanting out, terrified of the distance it would have to cross and the chance it comes back empty, and because she holds that word down, what bursts out of her mouth instead at full daytime volume is:
+*"Is this what we are now? ... Ever since our fight at the dance, we don't leave the house. I apologized. If we're just sex, I'd like to know... I'd just like to know if we'll ever be seen in public again."*
+Remember on Monday morning when Pace reduced her cracker-and-meal confession down to *"what your body does"*?! That bruise has been festering inside her all week! So she picks a proxy fight—not the real question (*Do you love me? What am I to you?*), because she's too scared to ask the real question and lose him, but a testable, practical accusation: *Are you hiding me in this house because we're just sex?*
 
-Look at every detail of her walking in:
-- She notices the house warmed up hours ago for her (the thing she used to glow over in Chapter 15, though we know he also warmed it for Randi in Chapter 11!) and *hates* that it goes through her.
-- The door unlocked for her (whereas Randi always locks it behind her!).
-- The two glasses of wine already poured on the counter—unlike Randi's one glass in Chapter 6, for Vee he pours two glasses!
-- And she stops dead on the mat, level with the chair by the door where her overnight bag goes on the nights she stays (the exact chair where Randi's overnight bag sat in Chapter 1 and Chapter 18!).
+And look at how Pace responds! Because Pace treats human conflict like a knot in wood or a step in a proof, he doesn't hear the emotional terror underneath *"If we're just sex, I'd like to know."* He hears a solvable logistics problem—she wants to go out in public tonight!—and immediately stands up and says: *"Okay. Where do you want to go tonight? ... Let's get dressed."*
+Wait—and of course there's the secondary dramatic irony humming underneath: *why* have they barely left his house in the woods since October? Partly because that's who Pace is, and partly because out in his house in the woods, nobody on campus—not Brooke, not the sorority, not anyone who might connect the dots with Randi—ever sees them together!
 
-And then when she asks him *"What are we doing?"*—look at how literal, how infuriatingly, heartbreakingly *Pace* his first answer is:
-*"I thought we'd have the evening. I've got the chicken going. We eat, and then if you're warm enough we sit out on the porch a while. It's clear tonight, you can see everything."*
-He offers her the evening like an open palm! And when she presses him—*"What am I to you?"*—he gives her a sentence that would make any woman's heart stop if she didn't need the one word he's leaving out:
-**"You're the most important person in my life."**
-WAIT A SECOND. Did you hear what he just said?! Not Randi! Not anyone else! He looks straight into Vee's eyes and says, without lying, *"You're the most important person in my life."* Because she IS! And yet when she asks *"But what am I?"* and lays out the whole truth of their life inside the house versus outside the house—*"How do I say what this is to Cassie? To my father? What do I tell my mother, that he feeds me and we have a lot of sex? ... Out there. What is this relationship? What am I to you out there?"*—he CANNOT give her the word *girlfriend* or *mine* or *I love you*!
+AND THEN SHE PICKS CHILI'S.
+Oh, the Chili's scene hurt so much I was wincing on every sentence.
+First, watching Pace inside a loud, fluorescent chain restaurant with four TVs going and ceiling music roaring—his eyes involuntarily catching on the motion of the screen a foot above her head, the visible effort it costs him to pull his gaze back, his hand squaring and re-squaring his fork to the edge of the table, and that brief flash of plain irritation when a louder song comes on. We know Pace! He's the kid whose desk got put out in the hallway in seventh grade, the man who works in quiet woodshops and keeps his TV off and listens to a pan hiss by ear—he has massive sensory overload in a loud, multi-screen chain restaurant!
+And later, back at the house, when he quietly explains it—*"That restaurant — places like it — they're too loud. Not the sound of it. The whole of it, all at once. In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now"*—I melted completely. That is 100% true about him!
+AND AT THE SAME TIME, look at what happened to Vee over that skillet of Chili's nachos:
+*"She had liked this once — that was the part with the ache in it... Now there was salt, and a sour orange cheese out of a bag, and a heat out of a packet, all of it landing at once and saying nothing, the chip already going soft beneath the pile. She chewed. It was to food what a billboard is to a painting, every color on the palette squeezed out and stirred together at once until you got the one muddy brown you always got. She set the chip down. He had ruined it for her, was the thing. Not just this."*
+HE HAD RUINED IT FOR HER. Not just cheap nachos—he has ruined *fine* for her forever! She can never go back to eating crackers, or orange bag-cheese nachos, or being with a man who is merely "fine." He woke her palate and her body up to what a real meal is, and if he doesn't belong to her, where does that leave her?!
 
-WHY?!
-Look at what happens inside Pace during that silence:
-*"She watched him take the question seriously, reach for the thing she was asking for and not find it anywhere in himself, come back with the truest thing he had. 'Do any of your friends,' he said, 'have a relationship you'd rather have than this one?'"*
-And then:
-*"'Words are cheap,' he said. 'Believe what I do.'"*
-And when she hits him back with the line of the book—***"Words are cheap, and you still won't spend them on me"***—look at his body:
-*"Something went across his face and shut. He stepped back, his arms came up and folded, he held there, still, the still of a man holding a line at cost, and he said nothing."*
+And look at the fight when they get back to his house! Vee knows she's lying when she accuses him of going cold on her after The Rusty Nail ("Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps after — and she said it anyway, because she needed the line of it to hold"). Why is she trying to pick an unfair fight? Because she's desperate to break through his unruffled patience and force him to show his hand!
+And look at the genius little lie she tells herself once he explains about the restaurant noise:
+*"And going, she told herself the thing that let her go: that she had forgiven him. It sat well in her — forgiven, warm and large and easy to wear."*
+She sweeps the real problem **under the rug** by pretending the whole night was just a misunderstanding about Chili's that she graciously forgave him for!
 
-Why is he holding that line at such terrible cost?!
-Two huge reasons braided together!
-First, there is **Peter**—the boy who didn't go back to his parents' house after fifteen, the boy with the long scar on his inner thigh and the door that shuts two rooms away, the boy who learned somewhere deep in his bones (maybe from his parents, maybe from Daphne!) that spoken words are lies or traps and only what you build and do with your hands is real.
-Second—and this is the part Vee doesn't know!—because **he is still sleeping with Randi!** Pace is a man who refuses to tell a direct, spoken lie if he can avoid it (remember *"Sometimes I take care of it myself"* and *"Never. I'd never share your photograph"*!). If he calls Vee his girlfriend out loud, or gives her the word she can take out into the world to Cassie and her father and mother, he would either have to lie to her face about exclusivity OR end things with Randi before the threesome game is even revealed! He has trapped himself inside his own code: he loves Vee more than anyone in his life, he has given her his top drawer and his shirts and his nights, and yet he cannot give her the word without either breaking his code of honesty or blowing up the secret architecture with Randi!
+And then that bedroom scene!
+God, the heat in this chapter is scorching and aching at the exact same time. Look at how he nurses at her breasts first—"his weight settling into her like a man come home, his mouth working at her as though he were taking something there for himself — some ease, some comfort she had no word for"—after the sensory misery and tension of the evening. And look at what happens when he brings her to the edge with his mouth between her legs:
+*"And right at the top of it, with all of her drawn to the edge, the thing she hadn't let herself say came up in her again — the name for what they were, whole, pushing for the surface — and her body broke over the edge and took it back down, drowned it clean, as it always did, as she let it. She came with his name in her mouth and not the other thing."*
+Even her orgasm is sweeping the word under the rug!
+And when he finally loses the careful patience she's been begging him to lose all night—getting over her and into her in one rough, urgent motion and driving her up to a second climax that pulls him right over the edge with her—for ten minutes it feels like total victory. She broke his control!
 
-And look at Vee when the tears break:
-*"She did not want him to have it, the crying, on top of everything else he had of her and would not name."*
-Compare that to Randi in Chapter 1 hiding her tears in the bathroom so Pace wouldn't have her vulnerability! Now Pace's refusal to name what they are has driven *Vee*—open, wholehearted Vee who never did anything halfway!—to hide her tears from him and walk straight out his front door into the December cold while his hand lifts too late to comfort her!
-*"Not the hand in place of the word... She went out into the cold, and it was worse, and she did not go back in."*
+Until he falls asleep, and the sweat dries cold on her skin, and the rug comes right back up in the dark:
+*"She belonged to him... But did he belong to her? She'd felt him lose himself tonight. She'd done that — taken the careful apart in him, felt him go helpless and urgent and past all his control... And even there, with nothing left in him to keep behind any wall, he hadn't said it. He'd given her his control and all of his body and every last thing but the one — and the one was the only thing she'd been asking for. He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved. It lived only here, in the dark, in this bed, and stopped at its edges."*
 
-SHE JUST WALKED OUT ON HIM ON FRIDAY NIGHT.
-Just like she walked out on him at The Rusty Nail in Chapter 23—except this time she isn't wrong, there is no humble pie to bake, and tomorrow morning is **Saturday, December 12**.
-Where does Vee go on Saturday morning—or tonight, Friday night!—with her heart shattered because Pace wouldn't give her a word?!
-TO RANDI.
-And Randi—who just found Vee's bathroom drawer and kept panties at Pace's house before Thanksgiving—is waiting on the other side of that door! I cannot hit next chapter fast enough!
+AND TOMORROW IS SATURDAY MORNING.
+Look at the jacket blurb: *"Every Saturday she brings all of it to Randi: the new hungers, what her body does now, what she can't make sense of alone, and the silence where his word should be."*
+Vee is lying awake in Pace's bed on Friday night, December 4, aching with "the silence where his word should be" and unable to call him her boyfriend—and tomorrow morning she is going straight to Saturday brunch with Randi! What is Randi going to do when Vee brings *this* to the table?! Give me Saturday right now!
 
-GATE 41 — Believe Me
+GATE 39 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The confrontation the entire book has been building toward finally detonated on Pace's doormat, and Vee's devastating comeback—"Words are cheap, and you still won't spend them on me"—followed by her refusing his reaching hand ("Not the hand in place of the word") and walking out into the December dark had me in tears and desperate for what happens next.
+WHY: Every beat of this chapter felt painfully, recognizably real—from Vee picking a proxy fight about going out in public because she's too afraid to say "I love you," to Pace's sensory overload at Chili's and her devastating realization over the nachos that "He had ruined it for her," to the scorching bedroom scene where he finally loses control and she still ends up wide awake in the dark realizing he gave her everything except a name for what they are.
 
 LEDGER
-+ LOVE: Vee leaving her overnight bag in the car, keeping her coat buttoned to the throat, and stopping dead on the doormat so Pace has to walk up to the physical space she refuses to cross.
-+ LOVE: The gut-punch of Vee's comeback—"Words are cheap, and you still won't spend them on me"—and her refusing to let his hands comfort her in place of the spoken word before walking out into the cold.
-+ SUSPICION: Pace folding his arms and "holding a line at cost" when Vee asks what she is to him "out there" isn't just his childhood distrust of words—it's because his strict personal code against telling a direct spoken lie won't let him call her his girlfriend while he is still secretly sleeping with Randi.
-+ WAITING: Where Vee goes after walking out of Pace's house on Friday night—and what Randi does when Vee brings this breakup/crisis straight to her.
-~ F32.6 CONFIRMED: Pace's refusal to put words to what they are finally broke them open—even after calling Vee "the most important person in my life," his insistence on "Words are cheap. Believe what I do" drove Vee to walk out of his warm house in tears rather than accept his hand in place of a name.
++ LOVE: The sensory overload detail of Pace squaring and re-squaring his fork at Chili's while four TVs and ceiling music roar around him—and his quiet explanation afterward: "In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now."
++ LOVE: Vee biting into the Chili's nachos she used to think were a "fine" night out and realizing they taste like "what a billboard is to a painting, every color on the palette squeezed out and stirred together at once until you got the one muddy brown"—and the quiet ache of "He had ruined it for her, was the thing. Not just this."
++ LOVE: Pace's calm, unarguing "You know what happened after the dance" collapsing Vee's unfair accusation in a single sentence without humiliating her.
++ WAITING: Saturday brunch—when Vee brings "the silence where his word should be" across the table to Randi for the first time.
+~ F32.6 DEEPENED: The nameless ache has now become an explicit crisis: terrified that saying "I love you" will come back empty, Vee picks a proxy fight ("If we're just sex, I'd like to know"), lets sex drown the word at the peak of her climax, and still ends up lying awake in his arms realizing that even when she strips away all his control in bed, "He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."

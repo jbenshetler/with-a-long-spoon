@@ -1,27 +1,29 @@
-*capture-dag-v3-grounded · gate ch021 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7e20db564e34 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) · history ch001..ch020 · ledger no seed f196a31d7527 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch021 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213ef9d504f8 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed 21cee9f54212 · 2026-11-19*
 
 REACTION
 
-Well, that was a total whiplash from Chapter 18—in the best, most unsettling way.
+I love how this book lets Vee have both—the quiet, unimpressed loyalty of Cassie on one side of her in stats class, and the bright, glittering pull of Randi on the other. Watching both of them ignore the professor completely to turn toward Vee was so good, and the contrast between them couldn't be sharper. Cassie doesn't care about the dress at all; she just looks at Vee’s face and asks, *"Was it a good night?"* Meanwhile Randi is already claiming Saturday to find the shoes.
 
-After watching Randi ice Pace out in his own kitchen, refuse his food, and turn her back on him in bed, seeing her like this—loose, shivering under the cashmere blanket, pulling on his white undershirt, and actually *asking* him to feed her—felt like watching someone come back from the dead. She didn’t just take a polite bite of the chicken and couscous; she cleared the entire plate, down to the last stalk of asparagus. She asked about his presentation in Chicago. She held his hand across the table and went back to bed with him and fell asleep on his chest.
+The dorm room scene hit harder than I expected. When Vee puts the dress on and Randi says, *"He didn't make this for you. He made it to you,"* I felt it right in my chest—she nailed it in one sentence. And then Vee mentions that Pace stayed up all night finishing it, and Randi goes quiet for a beat too long. Vee reads it as jealousy—thinking Randi wishes she had a man who’d stay up all night for her—and it’s almost painful how close Vee is to the truth without actually seeing it.
 
-And the wildest part is *why* she’s suddenly this soft. She’s completely smitten with Vee, too. Listening to her talk about Saturday’s shoe-shopping trip—laughing into his chest about the giant shoe, admitting *"I didn't think I'd like her this much... She got past me before I could help it"*—it’s the most unguarded she’s ever been with him. She’s not performing the sexy girlfriend anymore; she’s just genuinely undone by this girl.
+Then the shoe shopping! The first half in the discount store—Vee bringing out the giant "yeti" shoe and Randi clomping down the aisle in six-inch pink rhinestone platforms—was pure joy. It’s been a long time since I’ve read a romance where two women just get to be genuinely funny together.
 
-And yet, there’s still that tiny, razor-sharp catch right in the middle of it. When Randi is dragging her breasts across his chest to show him what Vee’s hiding under that cardigan, Pace’s mind doesn’t stay on the threesome—it drifts straight to Vee alone in his kitchen, wrapped in his sheet. And when he says out loud that Vee is *the most alive person standing there*, Randi goes completely, tightly still. She doesn’t bolt this time, and she doesn’t turn cold; instead, she shifts her hips, finds him hard, and rides him slow in the lamplight until there’s nothing quiet left in either of them.
+And then they go to the boutique, and the whole temperature shifts. Randi kneeling on the pale floor in front of Vee, holding her foot in both hands, and running her thumb across that frosted-plum big toe? *Jesus.* Vee’s whole body tipped so hard she had to grab Randi’s shoulder just to stay upright. There is nothing platonic left in the way Randi touches her, even if Vee still hasn't put a name to it.
 
-It was hot, and it was tender, and it still left me with a little ache in my chest—because Pace is clearly already half-gone for Vee, and Randi is trying so hard to stay in the room with both of them.
+The ending on the sidewalk stung a little, though. Vee pulling out her emergency credit card for those heels because she refuses to flinch in front of Randi, while Randi casually buys loafers worth three times as much without even glancing at the receipt. Watching Vee clutch that shoebox to her chest like it might vanish—and Randi laughing and saying *"Love you, girl"*—left me with the weirdest mix of warmth and dread.
 
-GATE 21 — Gone
+GATE 20 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A gorgeous, tender pivot from Chapter 18’s freeze-out. Watching Randi finally drop her guard—eating every bite Pace cooks, wearing his undershirt, and admitting Vee got past her—while still feeling that quiet, electric flash of jealousy when Pace praises Vee kept me completely locked in.
+WHY: A great breather chapter that deepens the bond between Vee and Randi while quietly sharpening the class divide and Randi’s hidden ache. Watching Randi kneel to put those heels on Vee—and that single, electric brush of her thumb over Vee’s painted toe—kept the tension humming.
 
 LEDGER
-~ S9.2 CONFIRMED: Randi admits out loud to Pace that she didn't expect to like Vee this much and that Vee "got past me before I could help it."
-~ S11.1 SHIFTED: Instead of shutting down and bolting like she did in Chapter 18, Randi feels the sting of Pace calling Vee "the most alive person standing there," pulls him back in with sex, and then stays the night and eats everything he makes her.
-~ F6.1 DEEPENED: Even with Randi literally on top of him, Pace’s mind drifts straight to Vee alone in his kitchen in his sheet.
++ FEAR: Vee is going to put herself in real financial trouble trying to keep up with Randi's world, starting with that emergency credit card.
+~ L3.1 DEEPENED: Watching Vee laugh until she folds over in the discount shoe store—she is so much freer and more alive now.
+~ S11.1 DEEPENED: Randi going quiet in the dorm room when Vee says Pace stayed up all night; Vee thinks Randi is jealous for herself, not realizing it's about Pace.
+~ S9.2 DEEPENED: Randi kneeling in the boutique, running her thumb across Vee's frosted-plum toe, and saying *"Love you, girl"*—the lines are completely blurred.
+~ W19.1 DEEPENED: Now she has the four-inch black heels to go with the burgundy silk; the induction is going to be a moment.

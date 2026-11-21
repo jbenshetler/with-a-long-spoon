@@ -1,54 +1,68 @@
-*capture-dag-v3-grounded · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed dbca12904086 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed a5698d324486 · 2026-11-06*
 
-REACTION — Oh, no. He was saying it.
+REACTION — Oh, he knew. He knew on the porch, before he answered, that Vee had told him she loved him. He felt the true words rise, understood that she had given him everything, and consciously chose the smaller truth because it was safe.
 
-“Vee, I l—” He had opened the door already prepared to say the word he withheld, and she stopped him with the exact body Randi designed to make words unnecessary. I felt sick. Not because the entrance wasn’t scorching—it was almost unbearably hot—but because Vee interrupted the answer she had spent a month breaking over in order to give Pace something he could not refuse. She came believing her nakedness was an answer to the question he had failed to answer.
+That admission hurt worse than any theory I had built around his silence. Pace did not fail to understand the meal. He did not have some private definition of love in which cooking and drawers made the declaration redundant. He watched his answer reach Vee and fail. He let it fail because he believed an unspoken love would make losing her survivable.
 
-And it worked perfectly.
+And now he has lost her because he would not say it.
 
-The coat, the black heels, the cold on her bare skin, Pace dropping to his knees on the open doorstep—I was completely inside it. Vee winding herself up in the mirror and deliberately refusing the orgasm felt powerful because she was choosing the state in which she wanted to arrive. She looked at the body she had hidden for years and finally understood it not as too much, not as an embarrassment Pace kindly tolerated, but as something magnificent she could wield. Her mother’s word came and found nowhere to land. I loved that.
+Sheri was exactly the person I needed in this chapter. She does not worship Pace’s attentiveness or let the extraordinary quality of his relationship become an argument against Vee’s request. She hears him stacking up every true thing—every weekend, the weeknights returned to Vee, nothing else in the room—and cuts straight through it: those are reasons, and Vee did not ask for reasons. “Then not saying it matters more to you than having her” is the cleanest verdict anyone could give him. He cannot argue because that is precisely the choice he made.
 
-But Randi was inside every inch of the choice. Vee literally rehearsed Randi’s certainty until it sounded like her own voice. She wore Randi’s shoes, followed Randi’s script, and carried Randi’s central lie—that Pace’s silence was a corner Vee had unfairly put him in—straight to the house. Vee experienced the plan as taking matters into her own hands, but the plan’s entire purpose was to keep her from asking again.
+I loved Sheri stealing his fries immediately afterward. She tells him he is being shitty, then remains his friend. No dramatic punishment, no demand that he defend himself until he produces a prettier motive. She gives him the truth and then gives the room back its ordinary shape. That is actual friendship, and I understand why he needs someone who wants nothing from him but will not let him hide behind being unusually good.
 
-The driving terrified me. Not the police scare itself, though I felt the cold shock of it; touching herself while driving at speed was the first thing Vee has done that threw me completely out of the erotic current and into fear for her body. The cruiser passing her made the scene feel like a narrowly escaped consequence, not a sexy risk. She was so desperate to get to Pace already wound beyond thought that she could not wait another few miles.
+Her Paige story hurt too. Pace’s line about people who have never lost anything thinking grief is a choice was beautiful—and Sheri immediately recognized that he was giving her “the good stuff” while refusing to spend it where it might cost him. Pace has language. Exact, compassionate, devastating language. His silence with Vee is not incapacity. It is selection.
 
-Then the doorstep delivered everything the plan promised. Pace looked starving and forgiven. That second part matters. Vee did not say she forgave him. They did not discuss what he had done, what he had withheld, or the month he let pass without contacting her. Her opened coat became forgiveness before either of them established what required forgiving. Pace received her return as absolution, and Vee received his desire as the relational answer she had already learned desire could not provide.
+And the diner itself made me furious on Vee’s behalf. This is the public place she was asking for without knowing its name: quiet enough that Pace could hear her whisper, ordinary enough to have a usual, intimate without being sealed inside his house. He thinks she might love it. Of course she might love it. He could have brought her here instead of letting her believe the only alternatives were his private refuge or the sensory assault of Chili’s. She asked whether they existed out in the world, and there was a booth waiting where they could have existed beautifully. He simply never showed it to her.
 
-God, though, the sex was peak. The door banging in the wind, his mouth hot against the January cold, her wet nipples stinging in the air while he knelt between her legs, the coat hanging open around them, the graceless attempt to reach the bedroom before giving up on anything but the couch—it had urgency this book has deliberately withheld from them until now. Pace’s patience breaking under six weeks of missing her gave Vee the involuntary proof she has always wanted from him. There was no doubt anywhere in his body that he needed her.
+The waitress asking “The usual?” is the whole wound in miniature. Pace has an ordinary public life with recognizable patterns and people who know his order. Vee has spent months in his bed and still cannot say what she is. Sheri can walk into this place and be known without explanation; Vee has been treasured extravagantly behind a door and left unnamed outside it.
 
-But need was never the disputed fact.
+Pace imagining Vee there—wondering whether she would whisper—made me ache, but I am finished letting his private tenderness count as action. He thinks of her everywhere. He sees places she would enjoy, knows foods she would understand, misses her arrival, and loves her. None of that reaches Vee while she is awake in Ohio replacing herself with a blonde.
 
-The line that nearly lost me was “nothing needed saying now.” No. Absolutely not. Everything still needed saying. Pace needs to finish the sentence she stopped. He needs to tell her he understood the meal metaphor and deliberately gave her less. He needs to explain why he vanished into silence for a month. And above all, he needs to tell her about Randi—the woman whose shoes are still on Vee’s feet while Pace is telling her to leave them there.
+And then Sheri accidentally supplies him another warning he does not understand: Randi looked at her like a harem applicant. Vee’s jealousy at the Rusty Nail was not some isolated misunderstanding. Randi, who knows Pace’s generosity toward women and knows she is already his lover, still experiences another woman’s casual physical familiarity as threat. Pace says nothing. He has two women frightened by their uncertain place beside him, and he is waiting for both of them to return because he believes leaving the door open preserves their choice.
 
-That moment with the shoes made my stomach drop. Pace does not know they are Randi’s, or at least gives no sign that he recognizes them, and Vee experiences his command as a continuation of her own seduction. But I can see Randi’s hands fastening the entire reunion around Vee’s calves. Vee follows Pace into the kitchen wrapped in his blanket and wearing Randi’s shoes: the concealed arrangement has never been more physically complete, and she is the only one who cannot read it.
+Six weeks. Randi has been gone six weeks, and Pace has not called because she has always been the one who comes. Vee walks out crying, and Pace does not contact her because she closed the door. The same ethic I once loved in him has hardened into passivity so complete it becomes abandonment. He will never force open a door, but he also will not knock when someone on the other side desperately needs proof that he noticed she left.
 
-The pancakes were almost cruel in how completely they worked on me. Of course he feeds her. Of course he makes them from scratch at midnight, kneels beneath her chair, apologizes, and finally says he missed her so much his voice breaks. Those are real admissions. I believe every one of them. And “I never meant to hurt you” is still not the same as naming what he did. Intent is the safest possible piece of the injury. He does not tell her he knew what she was offering, chose the smaller truth, and then waited because he was afraid. He gives her sorrow without the account that would let her understand it.
+His fantasy of the three of them was tender enough to hurt: not some pornographic prize, but breakfast, rumpled women, tea and coffee, laughter he cannot quite hear, nobody hurrying away. I believe that is what he wants. I believe he loves the whole imagined ordinary. But Vee is currently lying cold and unsure whether she was ever singular, while Randi is borrowing warmth from a stranger and deliberately preserving the word “friend.” Pace has built a beautiful future out of choices neither woman has been given the facts to make.
 
-Then the worst line in the chapter: “there was no room in her for wanting anything he hadn’t given.” That is exactly what the food, sex, warmth, and care have always done—filled every available space until the missing thing feels temporarily petty or impossible to hold. She arrived because actions could no longer substitute for words. One weekend later, the substitution is functioning better than ever.
+And he is still thinking about whether Vee can “carry” the room instead of whether she should ever have been brought into it through deception. Even in his most loving vision, he imagines himself assessing her capacity rather than telling her the truth and allowing her to decide. He worries the room may ask more than Vee has in her. The actual demand has already been enormous: trust two people who know everything while she knows nothing.
 
-And Pace almost said the words before any of it. That is what makes this unbearable rather than merely repetitive. He had changed. Sheri reached him. Losing Vee reached him. He opened the door intending to do the brave thing, and Randi’s choreography interrupted the confession at the first syllable. Now he may believe the moment has passed, that Vee’s return means she has accepted his preferred wordless arrangement, and that reopening the wound would only damage their happiness.
+The whiskey frightened me because this is Pace’s version of coming apart. He does not drink alone, cannot find the proper glass, loses the order of the night, gets sick, cleans it with bleach, and still wakes to put Randi’s blanket back exactly where it belongs. Even wrecked, he restores the house’s systems. The women remain in their assigned places—the blanket for Randi, the photographs of Vee, the frozen chicken and broccoli in their rows—while the man maintaining the arrangement is collapsing inside it.
 
-Cassie’s eyebrow at the end felt like the only sane thing left in the room. She sees the coat, the enormous sweats, and the impossible heels, understands the sexual story instantly, and does not demand it. But she cannot see that the shoes belong to Randi, that Randi prescribed the naked entrance, or that Vee came home ecstatic because the original question was drowned rather than answered. The outfit tells a story. It does not tell the truth.
+“Prison food” was brutal after everything Vee said about being fed. Without her, Pace does not cook. He heats nutrients in bags and orders his body to accept them. Feeding was never merely a service he performed for Vee; her receiving completed something in him. He misses the first bite because her pleasure made his care legible. She saw the philosophy under the food, and Sheri is right to mock the phrase only because Pace has turned being understood into something grand while refusing the plain word that would let Vee understand him.
 
-I am not soothed. I am turned on, emotionally overwhelmed, and more frightened than before the reunion. Vee thinks she got Pace back. Pace thinks he has been forgiven. Randi sent her lover’s beloved back into his house wearing her shoes and has no idea Pace was finally trying to say “I love you.” Every person has received what they wanted except the fully informed Vee who stood in his doorway in December asking who she was.
+Then Daphne finally became the answer.
 
-GATE 46 — Nothing Underneath
+He told Daphne he loved her, and when she left there was no one to tell because she had become every person. That is awful. He was fifteen when she first made herself indispensable, and whatever the later ages were, his first model of love fused the word with total dependence and catastrophic disappearance. So he built a life where he could care profoundly, lose people, get up, eat, work, and survive. He treated the unsaid word like an error-correcting mechanism: remove it, and loss cannot corrupt the whole message.
+
+Except Vee corrupted that system by mattering completely whether he spoke or not.
+
+“I had believed keeping it unspoken would limit the hurt if she left” made me furious and heartbroken in equal measure. He protected himself by making Vee live with the uncertainty instead. He knew the risk was already real for him and allowed her to interpret his refusal as a verdict on her place. His fear explains the silence perfectly. It does not excuse what the silence did.
+
+The passing engine destroyed me. Vee spent New Year’s Eve unable to keep her own memory of arriving; Pace spends New Year’s Day hearing every vehicle as the possibility of her return. They are both reaching toward the same driveway from opposite sides, and he is the only one who knows the sentence that could cross it.
+
+When the wrong car passed and he sobbed over the table, I was gone. Pace has cried nowhere in this book. He has tended everyone else’s body, contained every reaction, respected every exit, and kept functioning. Now his body finally rejects the discipline. For a few breaths he cannot make loss survivable by keeping it unnamed.
+
+And then he eats anyway.
+
+That ending is both admirable and terrifying. He will maintain himself. He will work, eat, fold the blanket, keep the house ready. If this realization does not make him act, he could survive Vee exactly as he trained himself to survive every woman after Daphne—and call the survival proof that withholding the words worked. I need him to get up from that table and go after her. Not wait by the unlocked door. Not respect her departure into permanence. Go to Ohio if he has to. Say the words while she is awake and free to decide what they mean after she learns everything else.
+
+Because “I love you” is finally available now, but it is no longer enough by itself. He also has to tell her about Randi. Love cannot become the next beautiful true thing he uses to keep the larger truth concealed.
+
+GATE 44 — The Usual
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “and said nothing, because nothing needed saying now.”
-WHY: Pace finally began the declaration Vee needed, and she interrupted it with the naked entrance Randi designed to make words unnecessary. The reunion was scorching and genuinely loving, but sex, food, and care have once again filled every space where truth might fit—and Randi’s shoes are still on Vee’s feet.
+ALMOST-STOPPED: none
+WHY: Pace finally admits that he understood Vee’s declaration, knew he loved her, and deliberately gave her less because Daphne taught him that unspoken love would be easier to survive. His collapse proves the silence protected nothing, and I urgently need to know whether he finally goes after Vee—or turns endurance into one more excuse to wait.
 
 LEDGER
-+ FEAR: Pace will treat Vee’s return as forgiveness and permission to leave both “I love you” and Randi permanently unsaid.
-+ GRUDGE: Vee endangered herself by touching herself while driving, and the erotic charge did not make that risk feel acceptable.
-+ SUSPICION: Pace’s unfinished “Vee, I l—” was “I love you”; he came to the door ready to act on his realization, and Randi’s plan stopped the words at the threshold.
-~ F39.2 DEEPENED: Sex has again drowned the relational question completely; Vee arrives determined to replace words with her body, and afterward believes nothing needs saying.
-~ G45.3 DEEPENED: Randi’s prescription works exactly as designed—Vee’s nakedness interrupts Pace’s declaration, turns desire into forgiveness, and restores the warm arrangement without resolving the wound.
-~ W44.3 DEEPENED: Pace finally tries to say he loves Vee, but she stops him before the sentence is complete, and he still does not disclose Randi.
-~ W45.4 DEEPENED: Pace begins to speak before desire can bury the truth, but Vee deliberately prevents him; the overdue declaration and the concealed relationship both remain unsaid.
-~ F44.2 SHIFTED: Pace does not merely wait this time—he appears ready to say the words when Vee returns—but her entrance gives him a new way to avoid finishing them.
-~ F43.1 SHIFTED: Vee’s invented blonde loses her hold the instant Pace opens the door, but the reassurance comes through overwhelming desire rather than any truth about who else occupies his life.
-~ L45.2 DEEPENED: Vee carries the courage that brought her back to Randi’s mouth into a deliberate, unapologetic display of her whole body, finally using everything she once hid as power.
+~ L1.2 SHIFTED: Pace’s refusal to force open a closed door has hardened into waiting so absolute that both Randi and Vee can vanish while he calls his inaction respect for their choice.
++ LOVE: Sheri telling Pace the exact ugly truth—that not saying it matters more to him than having Vee—then stealing his fries and remaining his friend.
+~ F22.1 CONFIRMED: Daphne’s departure taught Pace to associate saying “I love you” with catastrophic loss, so he has deliberately withheld the words from every woman since in the belief that silence makes grief survivable.
+~ S38.2 CONFIRMED: Pace understood Vee’s meal metaphor completely, felt “I love you” ready inside him, watched his smaller answer fail her, and let it stand because he was afraid.
+~ F41.2 CONFIRMED: Pace treats both Vee’s departure and Randi’s six-week disappearance as doors he must not approach, leaving each woman alone while he waits for her to choose him again.
+~ W41.3 ANSWERED: The word Pace refused was “love”; the line he held was the belief that speaking it would give Vee the power to destroy his life as Daphne’s departure once did.
++ FEAR: Pace will mistake eating, working, and keeping the house ready for courage, survive Vee’s absence without ever going after her, and thereby preserve the very defense that caused the loss.
++ WAITING: I need Pace to stop waiting at the unlocked door, tell Vee he loves her, and disclose Randi before the declaration becomes another true thing arranged to conceal the whole.

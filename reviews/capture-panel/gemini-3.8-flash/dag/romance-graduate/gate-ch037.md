@@ -1,38 +1,36 @@
-*capture-dag-v3-grounded · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 180baba2c18f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 057556e08170 · 2026-11-06*
 
 REACTION:
 
-I am a puddle of absolute mush. An undone, sniffling, hopelessly romantic puddle.
+I am sitting here with ice in my veins and my hand clamped over my mouth. That ending. That absolute, suffocating, devastating ending.
 
-The emotional gravity of this chapter was so quiet and yet so unbelievably loud. After all the high-wire psychological warfare with Randi—the soundproof booths, the PPP loan fraud, the green panties clutched during desperate sex—this felt like walking into a warm cabin in the middle of a blizzard and shutting the door on the entire rest of the world. Just Pace and Vee, existing in the pure, earned truth of each other.
+*He pushed it shut with two fingers and went on up the hall.*
 
-The frantic, bumbling stripping sequence in the hallway was perfection because it was so *unglamorous*. That’s real sex! That’s real hunger! Hopping around on one foot trying to kick off tight denim, losing your socks against the wall, laughing because the jeans are inside out at your ankles and there’s zero dignity left in the room—it was hilarious and human and so deeply erotic. And the way she just flung her green thong and it landed squarely on "the long, unusually proportioned table that stood in the middle of his bedroom"... oh, god. The bench. The secret spanking bench disguised as furniture, with her green satin lying right on top of it. She doesn't even know what that table is, but her lingerie is literally claiming it now.
+The house didn't shift, you brilliant, blind, mathematically precise idiot! *Randi opened it.*
 
-And then the domesticity of the pizza! Watching him knead the dough, reduce the sauce for half an hour with heavy cream, throwing the cornmeal onto the stone with that short snap of his wrist—he brings the exact same reverent, patient craftsmanship to feeding her that he brings to loving her. And her epiphany over the slice: *"I used to just eat... like cotton candy versus cut strawberries."* He has completely rewired her palate for life, for food, for touch, for intimacy. He has made her awake.
+She went into that bathroom first thing in the morning to wash her face, reached for the drawer, and found it. She found Vee’s green scrunchies. She found Vee’s hairpins. She found Vee’s beige sponge and face cream, laid out on fresh clean liner in the top drawer—the drawer that used to hold Pace's things. And then Randi walked into his bedroom, went to the second drawer down where his undershirts live, and found the deep green satin panties Vee traded him for his flannel in chapter 16.
 
-BUT THE FLANNEL SHIRT.
+The psychological horror of that entire morning sequence was an absolute masterclass. Randi walking into the kitchen completely naked, pale and quiet, pulling on his undershirt with Vee’s panties clutched in a white-knuckled fist. Leading him to bed by the wrist, pushing him down, refusing to let him touch her, and riding him like an executioner with Vee’s green satin pinned flat against his bare chest! The sheer agony of it. It wasn't just hot—it was excruciatingly, heartbreakingly desperate. She was fucking him with the physical proof of his love for Vee pressed directly between their hearts, sobbing against his neck afterward, shaking so hard she couldn't breathe, and lying through her teeth: *"It's hormones."*
 
-I sobbed. I actually had a tear slide down my cheek.
+And Pace, for all his genius, letting it be hormones because facing the actual arithmetic would mean admitting he has broken her heart. His thought—*Randi had never once offered him anything to keep*—stung so badly. Randi never gave him anything to keep because she built an entire fortress around herself to survive him, and now she’s watching Vee casually walk past every single wall and colonize his house.
 
-When she handed it to him and that little flicker of hurt crossed his face because he thought she was returning it, and then her blurting out the raw, mortifying, beautiful truth: *"It stopped smelling like you... I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again."*
+And the couch scene earlier! My god, the voyeurism of Randi confessing their mouth-to-mouth goodbyes while gripped over the back rail of the couch. Pace interrogating her—*"Do you like it?"*—and Randi frantically scrambling behind the shield: *"I'm doing it for you... for the threesome... it's work."* And then coming apart the second he tells her she doesn't have to do it for him!
 
-And him—putting it on *right over his own clothes immediately*, without a trace of mockery, without making her feel small or needy or crazy, just standing in his warm kitchen wearing two shirts because she asked for his scent to survive the week.
+The threesome isn't a fantasy anymore; it’s the burning building they are all trapped inside. Randi knows Vee has moved in. Randi knows Pace is keeping Vee's panties. Randi is in love with both of them and completely hollowed out by grief and desire. I can barely breathe. Next page immediately.
 
-*"All weekend. You'll have it back Sunday. Smelling like me."*
-
-It is so breathtakingly tender that it physically aches. She is moving into his life, breathing him in like oxygen, carrying him back to the dorm like a talisman. And every single brick of this sanctuary is built so solid, so pure, that when the foundation of the pointing game finally cracks, it isn't just going to hurt—it's going to level everything in sight. I am completely obsessed with this book. Turn the page!
-
-GATE 37 — The New Ordinary
+GATE 35 — Four
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The hallway strip-tease was hilariously grounded and hot, but Vee asking Pace to wear his flannel all weekend so she can take his scent back to the dorm—and him immediately pulling it on over his clothes—was an absolute emotional knockout.
+WHY: The agonizing psychological brilliance of Randi finding Vee's bathroom drawer and green panties—riding Pace with the silk pinned between their chests and weeping into his neck—was an absolute tour de force.
 
 LEDGER
-+ LOVE: Pace pulling the flannel on over his clothes without a second's hesitation so it will smell like him for Vee on Sunday.
-+ LOVE: The clumsy, one-legged hallway undressing—grounded, messy, realistic eroticism at its absolute best.
-~ F5.1 DEEPENED: Vee needing Pace's scent on his flannel just to survive sleeping in her own bed cements her complete emotional dependence on him, making the pointing game a fatal emotional blow.
-~ L1.2 DEEPENED: Pace's patience and care showing up in his cooking and his immediate, unhesitating acceptance of the flannel shirt request.
++ FEAR: Randi discovering Vee's top bathroom drawer and the hidden green panties is going to push her over the edge into detonating the entire arrangement.
++ LOVE: The quiet, tragic detail of Randi leaving the bathroom drawer open by one inch—the silent evidence Pace completely misread as the house shifting with the cold.
+~ [F1.1] DEEPENED: Randi's shield has completely collapsed; she isn't protected from Pace or Vee, she is drowning in her love and grief for both of them.
+~ [S1.3] DEEPENED: Randi claiming her kissing Vee is "work" for the threesome is her very last paper-thin defense against admitting she is desperately in love with Vee herself.
+~ [F5.2] DEEPENED: Randi's jealousy and heartbreak peaked in absolute agony, riding Pace while clutching Vee's panties and weeping on his chest.
+~ [L11.2] DEEPENED: Pace's terrifying blind spot returning in full force—concluding the drawer stood open because the house shifts in autumn rather than realizing Randi saw Vee's things.

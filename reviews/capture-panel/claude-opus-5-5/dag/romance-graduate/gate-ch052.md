@@ -1,51 +1,40 @@
-*capture-dag-v3-grounded · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed dce767067537 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 558a50401ac1 · 2026-11-06*
 
 **REACTION**
 
-"Vee's boyfriend."
+"'It's late. Is everything alright?'"
 
-He said it six times and I felt it every time, the same way she did, somewhere low. She stood in his doorway in December and asked "out there, what are we?", and he answered in a roadhouse in January to every one of her people, in his grocery-list voice, until it turned into the room's running joke. I was grinning along with Kayla by the fourth time. It isn't *I love you*, and I noticed that. "Vee, I l—" is still erased and still unspoken. But he spent a word in public, on her, and after five chapters of me wanting the word I'll take the down payment. "Not anymore," to Randi's "she hides you very well," was the best line he's had in the whole book.
+That stopped me cold. That's not what he said. I read chapter 46 three days ago, in book time, and what he said in that doorway was "Vee, I l—", and she opened the coat right over it. Now, telling it at a sunny table to Kayla and Meg, she's given him a different line, polite and flat. She does his voice and everything, and the word he started is gone. She didn't just interrupt it on the porch. She's taken it out of the story. I don't think she even knows she did it. That's the scariest kind of crop: the one she makes in her own head first. Cassie got the doll-sized sweater, and now these two get "we talked all night." That's the second time "we talked" has stood in for a night with no talking in it, and both times it's the exact thing she wanted from him and didn't get. She's telling her friends the relationship she asked for.
 
-The problem is who he said it to first. Randi's hand closed "hard enough to feel the bones," and Vee filed it as being happy for her. Honey. Then the toast. "Meeting Vee was the highlight of my year," "beautiful" laid out long and warm in the sun, and Randi's thumbnail goes up under the rim until it's white. Vee watches it happen and feels *proud* that she moved her. I have been holding the fear about that thumbnail since chapter one, and tonight the one person who finally watched it happen read it as a compliment. Then she put her hand over the bracelet without knowing what's under it. I had to put the book down.
+Then Meg's period story and "make it right in their language," and the whole table files the coat as an *apology*, and Vee lets it. "It was a big fight." She's the one who apologized now, in the official version. I'm not sure that's wrong. She did start it. But she's sanding him smooth for an audience, and Wednesday that audience gets to meet him.
 
-Then, sitting at that table during Randi's toast, Vee gets wet and decides it's "because it was Pace." That's the same cover as the bathroom stall last night ("about Pace, obviously"), and it's working a little less well each time. I love that the book doesn't point at it. It just shows me the order: toast, *beautiful*, wet, then the excuse.
+Wednesday. Randi at the table, Cassie at the table, and Pace "handling it." Randi and Pace haven't stood in a room together since the coffee shop where they acted like strangers, and they haven't seen each other at all since she came down his hall holding the green. Now they get to do the stranger act again in front of Cassie, who watched Randi text him that first day. I'm dreading it the right way.
 
-"They share an interest." Oh my God. That's the scariest true sentence he's said yet. He's talking about Randi and himself, and he hands it to Vee as something sweet. He also stood at the table and passed along Randi's "highlight of my week" like a love note, which means the two of them were laughing over Vee at the pitcher while Vee felt that stinger and then talked herself out of it. Her jealousy was exactly right about the scene and aimed at the wrong person. And she half-wondered what the parking-lot kiss looked like to him. "Light as a moth," and it blew away. Keep wondering, girl.
+What I liked: Kayla's orange juice coming in a flute "which repaired her feelings completely." The split check, phones tapped one after another, "nobody letting anybody cover anybody." That's such a clean contrast to Randi's world, and to Vee's old habit of reading the prices first. She still reads them, but this time she does no arithmetic. That's growth I believed. Meg's "Okay. This is a place." Kayla narrating her own socks back as a crime scene was genuinely funny.
 
-The truck. YES. Unbuckling his belt before he can reach the ignition, his hand in her hair going still: "the man who did six things at once, down to zero." That's real heat with something underneath it. The cold vents taking her back to the September rain and his shivering hand got me. Then the jeans, "the stupid sturdy fact" of them, and her own fingers holding the lace aside, "an offering she had to keep making." Her shame is still wired in, she's still choosing, and the scene stays explicit the whole way through. And she's kept the coat. Of course she has.
+What it cost: this is the third quiet chapter in a row, and it's a brunch, prices and mimosas and the recap of a night I already read, just with a new cast. I felt the template lock in, and I was skimming the bookstore-line chatter. And I'm still waiting on Tuesday with Randi and "the strange small thing." That keeps getting pushed back while the book runs a lap with Kayla. The doorway rewrite is what saved it. It's one line, and it's the best thing in the chapter.
 
-Cassie. "What do you give the Bricklayers this year?" Then whole paragraphs out of her, and "something enormous and quiet go by underneath her, like a whale under a boat." Then "You can stay." I love her so much it's stupid.
+1 a.m. text: *she told her friends he opened the door and said "is everything alright." HE SAID I L—. she deleted it. and wednesday randi and pace are at the same table pretending they've never met.*
 
-What cost it: Pace as the perfect host is the merit-badge man again. He works the room like a pro, never gives his numbers, and leaves everyone standing taller. It's lovely, and it's also him running people, which is a skill I've seen him use on Vee herself. "A key go into a lock" showed up AGAIN. And Vee still has Randi visiting a castle by an alpine lake. Okay, that one's on purpose and it hurt.
-
-1 a.m. text: *he told randi "vee's boyfriend" and randi crushed vee's hand. then randi toasted her and dug her thumbnail in and vee thought she'd MOVED her. then he said "they share an interest" in the truck. and then the truck. I need to lie down.*
-
-GATE 52 — Among Friends
+GATE 50 — Across
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "And Vee watched a key go into a lock." That's the same phrase again, in the middle of Pace's merit-badge hosting lap, which I was starting to skim.
-WHY: The room I'd dreaded for four chapters went off without a crack on the surface, and every crack is underneath where only I can see it: the crushing grip, the white thumbnail, "they share an interest." The truck gave me the heat back all the way, and it was hers. "Vee's boyfriend" six times is the first word he's spent, and Thursday dinner is already set up.
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 1
+ALMOST-STOPPED: "classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday". That's the third quiet chapter in a row going slack, and I was skimming.
+WHY: It's another brunch and another recap, now with Kayla and Meg, and the pattern is wearing on me. But Vee overwriting "Vee, I l—" with "Is everything alright?" is a quiet knife. And a Wednesday dinner with Randi, Cassie and Pace at one table is the room this whole book has been building, so I want the next chapter more than I liked this one.
 
 LEDGER
-+ LOVE: "Vee's boyfriend," six times, the same two words, until the whole room is grinning ahead of it
-+ LOVE: Cassie talking whole paragraphs to Pace, the whale under the boat, and "You can stay"
-+ LOVE: His hand going still in her hair, "the man who did six things at once, down to zero"
-+ SUSPICION: "They share an interest." He's telling the truth about Randi and himself, sideways, and handing it to Vee as a sweet thing
-+ FEAR: Pace and Randi spent the night laughing over Vee at the pitcher, and he carried Randi's "highlight of my week" back to the table. The two of them are talking about her again, right in front of her
-+ GRUDGE: Pace as the perfect host who sets everybody up and never gives his own numbers is the merit-badge man again, and it's the same management he used on Vee
-~ W48.6 ANSWERED: A pine roadhouse twenty minutes out, a buffet, no screens, no table with ends
-~ F48.1 SHIFTED: The party happened and nobody saw the seams, Cassie included. The danger went underground instead of breaking open
-~ F50.4 CONFIRMED: Randi and Pace played strangers at a table with Cassie at it, and Randi's grip nearly broke Vee's bones
-~ W44.6 SHIFTED: He spent a word out loud in public, "boyfriend." It still isn't the word, but it's a down payment
-~ F1.3 DEEPENED: Her thumbnail went white under the rim during her own toast, and Vee read it as having moved her and felt proud
-~ S15.2 DEEPENED: Vee put her hand right over the bracelet without knowing what it's guarding
-~ S47.2 DEEPENED: Wet at Randi's "beautiful," and she blames it on "boyfriend." That's the stall's cover again, a day later
-~ L4.4 DEEPENED: Vee pictures Randi visiting the old school, "the castle by the blue alpine lake," when the truth is Kentucky
-~ L10.2 DEEPENED: The cold vents bring back the rain and his shivering hand, and now he's warm and steady and she's the one undone
-~ S48.2 DEEPENED: "Not anymore," and pulling out Randi's chair. The party was his way back into the same room as her
-~ G4.6 DEEPENED: "A key go into a lock," yet again
-~ F46.1 DEEPENED: "Boyfriend" is enough to light her for a whole night. The "I l—" is getting easier for both of them to skip
-~ W51.6 DEEPENED: Thursday is now "the whole debrief of your own party," and the taste still isn't on the menu
++ SUSPICION: Retelling the porch, she swapped "Vee, I l—" for "It's late. Is everything alright?" She's erasing the almost-word from her own record, maybe without knowing it
++ LOVE: Kayla's orange juice in a flute, and the check split three ways with nobody covering anybody
++ LOVE: Vee reading the prices out of habit and then doing no arithmetic at all
++ FEAR: On Wednesday, Randi and Pace have to play strangers again at a table with Cassie on it, and this time it's two months after the drawer
++ GRUDGE: Third quiet chapter in a row, and the brunch template is back with a new cast
+~ F49.2 DEEPENED: A third version now. Kayla and Meg get "we talked all night" and a courteous Pace in the doorway
+~ F46.1 DEEPENED: She's not just done needing the word. She's taken it out of the story
+~ F48.1 DEEPENED: The party is now a Wednesday dinner, two days off, with Randi and Cassie both invited
+~ W48.6 SHIFTED: It's Wednesday night, his treat, and he's picked the place. I still don't know where
+~ W47.3 DEEPENED: Tuesday with Randi still hasn't come, and the book spent the day before it with Kayla
+~ G9.7 DEEPENED: The brunch template again: sun porch, prices, mimosas, the confession, the toast
+~ L15.4 SHIFTED: She still reads the right side first, but the arithmetic is gone. Christmas money, and an occasion

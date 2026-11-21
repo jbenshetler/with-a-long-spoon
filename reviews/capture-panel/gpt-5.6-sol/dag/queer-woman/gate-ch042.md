@@ -1,47 +1,33 @@
-*capture-dag-v3-grounded · gate ch042 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha ff03d4270e7c · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 6d6ff63775e2 · 2026-11-12*
+*capture-dag-v3-grounded · gate ch042 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed 54ca141b65a4 · 2026-11-12*
 
-REACTION — Oh, Randi. She built herself the cleanest possible experiment and got an answer she cannot bear to use.
+REACTION — Oh, the shirt stopped working.
 
-John is not a bad substitute, or a careless one, or a man she can dismiss afterward because he failed some obvious test. He is the best possible specimen from the life she was raised to want: handsome, socially perfect, direct, playful, rich enough to make obstacles disappear, skilled at everything, and entirely legible to her parents. He keeps up without humiliating her, gives her the fairytale she has already decided she will someday tell their daughter, dances her so expertly that she can stop doing the work, and brings her real pleasure. I felt the seduction of it. The skiing was exhilarating; the dance was hot; the staircase nearly got me. For several pages I understood why she wanted to step into the story and simply let it become true.
+That hurt more than a fight would have. Vee made this beautiful, strange, exact request—fill the flannel with your smell so I can carry you through the nights away—and Pace answered it immediately, with the whole loving competence he brings to needs he can solve. For a while the shirt could hold everything she was willing to accept instead of words. Now she puts it directly against her bare skin, tries to breathe him out of it, and discovers that the warmth is her own. The object has not changed. Her ability to let an act stand in for an answer has.
 
-But the ease is exactly what makes it empty. John can lead her perfectly because he never reaches the person resisting the lead. He gets the immaculate face, the body that knows how to answer, the whole faultless performance, and goes to sleep satisfied. “Everything done to her and done well” is brutal. Randi has arranged a world where nobody can violate the hidden self because nobody is permitted to find it, and then discovers that safety feels like being absent from her own life.
+And I felt the distinction between hiding and privacy all through this. Wearing his shirt over hers lets Cassie see “a girl too far gone in a boy,” which is vulnerable but legible. Wearing it bare is the real need, the version she cannot permit a witness. Even with Cassie—the person least likely to shame or reinterpret her—Vee layers herself so nobody has to mention how completely she is trying to make Pace’s absence touch her. She is hiding the size of her need from the one person who might say the plain thing and leave it plain.
 
-The comparison between John and Pace hurt because she is not romanticizing Pace’s goodness. She explicitly says Pace on his worst night reaches further than John at his best. Pace frightens her because he sees beneath the face and therefore has the power to hurt the person under it; John is safe because there is no person in the room as far as he knows. I understand now why Randi keeps returning to Pace despite the bench, the drawer, Vee, all of it. Being found is not merely erotic for her. It is the only evidence she has that she exists.
+The empty text field was devastating. Vee is not merely afraid to ask anymore; she has learned Pace’s response pattern well enough to predict the evasion before it happens. Anything small will be answered small and warm. He will solve the request contained inside the question and leave the question itself untouched. That is what happened with the restaurant, the drawer, the flannel, every gorgeous practical answer. She understands now that there is no wording clever enough to make him name the bond if he does not choose to name it.
 
-And then Vee. God.
+And I hate how alone this makes her. Pace sleeping easily across town proves nothing about what he feels—people sleep differently, and we already know how completely he drops after sex—but Vee has no spoken assurance sturdy enough to stop his imagined ease from becoming evidence against her. She has begun reading his absence with the same desperate interpretive labor she once used on his presence. When he was beside her, every meal and touch could mean love. Now the empty bed can mean he has nothing grinding in him. Silence lets her build the most beautiful story and the cruelest one, and gives her no way to test either.
 
-“Something came off Vee across a table on a nothing Tuesday that this room could not counterfeit one thread of” is the real love declaration. No Pace, no threesome, no orgasm forcing the sentence out of her: alone at a mirror after the approved fairytale has failed, Randi knows exactly whom she wants and exactly what the wanting is. She loves Vee without a private qualifier. That should have been the moment I had waited forty-two chapters for.
+Her taking the shirt off felt like a real turn. Not liberation; God, no. She does not decide she needs less, or recover herself, or reject him. She chooses the cold because the comfort has become unbearable once she can feel herself generating it. That is brutally exact. She would rather lie bare inside the absence than keep using her own heat as proof that he is holding her.
 
-Instead she makes the most frightening decision available.
+And Cassie breathing below her nearly broke me. The person who would not manufacture an answer is right there, asleep, while Vee lies naked and freezing above her rather than make a sound. I have been afraid Cassie would be eased out through ordinary choices; now Vee is physically inches away from her and still entirely alone. Pace and Randi have taught her that being exquisitely understood feels like love. Cassie’s love leaves her uninterpreted, and at this moment Vee cannot use that kind of mercy to save herself.
 
-“So she would not tell her, not in a way that would make Vee decide what to do with it.” There it is. Randi does not merely lack courage; she consciously chooses to preserve access to Vee by denying her the decision. She knows disclosure would change the brunches because it would let Vee interpret the heat, the kisses, the questions, the photographs, the cultivated stories—and consent to or refuse the actual relationship. Randi wants the existing intimacy and the possible romance both, so she keeps the word covered and tells herself Vee can “arrive at it on her own.” That is Pace’s method in Randi’s mouth: arrange the destination, withhold the map, and call the eventual arrival her choice.
+This was quiet, but it was not deferral. Something has actually broken. Pace’s acts have not become less loving; they have become insufficient, and Vee can no longer unknow that. The shirt was perhaps the loveliest wordless answer he ever gave her. If even that now lands as an empty shape warmed by her own body, they are out of substitutes.
 
-This came closer than anything yet to the exact shape that makes me leave: a woman’s desire for another woman being cultivated under cover until she reaches the answer someone else already chose. The reason I am still here is that the book is not mistaking this for romance. Randi articulates the theft herself. She knows she is withholding the information that would make Vee decide. Her love is real, her terror is real, and what she chooses to do with both is still wrong.
-
-The awful thing is that Vee has already arrived much farther than Randi knows. She has prolonged the kiss. She masturbated with Randi’s face behind her eyes. She asked for “just us.” And now, wounded by Pace and reaching from Ohio with no demand attached, she sends exactly the kind of care Randi cannot imagine trusting: talk or don’t, I’m here either way. Vee offers room. Randi answers with the fairytale.
-
-Every word true, none of it the thing. That is the whole book.
-
-And “miss your face most though, gorgeous” absolutely wrecked me because it is both cover and naked truth. Randi gives Vee the one line she wholly means, wrapped in a message designed to prevent Vee from seeing that she is miserable, sleeping beside a stranger, and thinking about her. Vee believes Randi is inside the golden story. Randi believes Vee’s warm family kitchen means she is safely loved out loud. They are each imagining the other held somewhere she is not.
-
-The return to John’s bed was bleak beyond words. Randi has identified the perfect life as perfect nothing, recognized Pace as the person who finds her, recognized Vee as the woman she loves, and still chooses borrowed warmth over the risk of being answered. Vee just walked out of Pace’s warm house because warmth without a word was no longer enough. Randi climbs back into a stranger’s warmth specifically so she can keep refusing the word. They are moving in opposite directions around the same wound, and I desperately need them in the same room again.
-
-GATE 42 — Fairytale
+GATE 40 — Bare
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “So she would not tell her, not in a way that would make Vee decide what to do with it.”
-WHY: Randi finally knows plainly that she loves and desires Vee, then consciously chooses concealment because telling the truth would give Vee a decision Randi cannot control. I’m continuing because the book sees the theft exactly—but this is the predatory shape at its most dangerous, just as Vee independently offers Randi a love that leaves room for either speech or silence.
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The scented shirt—the most intimate of Pace’s wordless answers—finally fails because Vee recognizes that its warmth is hers and its comfort cannot name the bond. She now knows every small question will receive another small, warm evasion, and I need to see what happens when she can no longer live inside the substitutes.
 
 LEDGER
-+ LOVE: Vee texting “I’m here if you want to talk. Or not,” offering Randi presence without making access the price of care.
-+ GRUDGE: Randi consciously deciding not to tell Vee “in a way that would make Vee decide,” preserving intimacy by withholding the truth required to choose it.
-~ F2.2 DEEPENED: Randi now explicitly adopts Pace’s method—let Vee “arrive” at the desired answer while concealing the arrangement that made the destination possible.
-~ F5.1 DEEPENED: Randi privately recognizes that what she feels for Vee is direct love and desire, yet keeps it protected beneath friendship and the existing arrangement rather than asking Vee for herself.
-~ W5.4 DEEPENED: Randi can say to herself that she loves Vee without qualification, but deliberately refuses to address Vee in her own name because doing so would require accepting Vee’s answer.
-~ S9.2 DEEPENED: The faultless glamorous man and fairytale night give Randi another true disposable-man story whose emotional center is Pace and Vee, while the man himself remains safe cover.
-~ F35.1 DEEPENED: Faced with the possibility of losing Vee, Randi chooses covert possession—keeping the brunches, kisses, and friendship unchanged while waiting for Vee to reach the meaning Randi withholds.
-~ S36.3 DEEPENED: Randi hides her locked white-gold bracelet from the light while performing affection across from her father’s business talk, strengthening the sense that her polish and wealth sit over a family bond she experiences as contamination.
-~ L35.2 DEEPENED: “God, I want her” becomes the calm, solitary knowledge that Randi loves Vee without currency or qualification—and is terrified of letting Vee know.
+~ L37.1 SHIFTED: The flannel Pace filled with his scent no longer carries Vee through the nights away; against her bare skin she realizes its warmth is her own, takes it off, and chooses the cold over mistaking an object for his presence.
+~ W32.2 DEEPENED: Vee now understands that no small text can ask what she is to Pace—he will answer warmly at the size of the request and leave the bond unnamed—yet she still cannot send the direct question.
+~ F38.2 DEEPENED: Pace’s silence has become an injury Vee cannot soothe with his acts anymore, but she remains committed to hiding it from both him and Cassie.
+~ F39.1 SHIFTED: Instead of turning the unnamed bond into another accusation Pace can disprove, Vee anticipates the practical answer and says nothing at all, leaving the real question intact but trapping herself alone with it.
+~ F9.1 DEEPENED: Cassie is sleeping only feet below Vee, yet Vee conceals the bare, desperate version of her need and lies awake alone rather than reach for the one person who would not author its meaning.

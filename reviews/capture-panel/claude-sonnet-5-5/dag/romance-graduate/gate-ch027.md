@@ -1,35 +1,33 @@
-*capture-dag-v3-grounded · gate ch027 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f7a8e76dd34 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 1f1c147acee2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch027 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4329ff87099d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 5b38a2045486 · 2026-11-06*
 
 REACTION
 
-Oh, this is a shorter, quieter chapter, but it's the best kind of quiet. It's heat with no clothes coming off.
+Oh, this is the chapter I've been dreading since ch23, and it's worse than I thought, because it's lovely. Randi gets Vee's confession and does exactly what I feared. She tells Vee the fight is a gift, calls it "the only thing that matters," and sends her back to Pace in a costume she designed. "Not today." "He won't text you." "He waits to see what you walk in wearing." Randi isn't comforting Vee. She's choreographing the apology, and she's doing it with total warmth. I watched Vee's clenched thing let go "because Randi had said so," and it made my skin crawl.
 
-The story-in-a-closet setup is great. Vee drags Randi to the practice room. She does it, not the other way round, and that reversal tells me everything. Then she tells the swat story, and halfway through she realizes she isn't telling it, she's doing it, with Randi's eyes on her. I held my breath at "a hot slow drop." Her nipples through the jersey and the arms crossed like she's cold: that's the charge, with nobody touching anyone.
+The one place Randi nearly slips is the line about the blonde, the one who "could land a thing on you at all". I wonder how much she knows. Is the blonde hers? The book keeps that open, and I'm glad. The bartender's account makes a plant unlikely, but I notice Randi never asks one question about her.
 
-Randi is the one who reads as dangerous here. "So. Did you deserve it?" is a terrific, awful question, and Vee says yes before she hears herself. Then comes the "mouse that roars" story, over the knee, counting out loud, "it made me buck." It's an invented ex with the accent slipping again. I'm certain it's built to hand Vee a word for what happened, and it's also Randi aching for it. And I'm not sure Randi isn't also telling her own truth, since Pace is the one who found it in her. The "Kentucky vowels" slip is the "school abroad" lie cracking at the exact moment she's most naked.
+The dress-up scene is the heat I was starving for. It's all in the touch: the kneeling, the hand under the skirt on her thigh, the thumb in the hollow behind her knee, Vee unable to see any of it. "Being given no say in where her foot went made her surer of it." That's the book's thesis again, and it's a little too tidy, but the charge is real. Randi's eyes on her bare feet, and that unnamed look "there and gone," are exactly the Randi leak I've been waiting for. And "Move in. I mean it" made me ache.
 
-Vee in the bathroom, hand on her knee, "not over a story," made me ache for her. She's refusing to say yes to it. The goodbye kiss and the arms that won't come down were the chapter's last turn. "She put it down to that." The book is telling me what she can't, and I'm for once fine with it.
+The Edna Mode laugh is a great breather, and it makes the manipulation worse, because their friendship is real. The kiss Vee doesn't brace for, and the Swiss lake and the grandmother with trams, told with a straight face. Dramatic irony at full heat. I also notice Randi sending Vee off in her own shoes, scarf and instructions. She's putting herself on Vee's body to walk into Pace's house. That is either brilliant or cruel, and probably both.
 
-Sheer dread, too. Randi now knows what Pace did and what Vee's body did, and she's the one who handed Vee the permission. This triangle just tightened into a knot.
+Still no Randi POV, seven chapters now. I'm getting greedy for it. Mild drag in the long morning prep and the apple walk, but it's short compared to what it pays.
 
-The outliers lecture is a bit pointed ("comes in through the part that carries forward"), but I'll allow it. Still no Randi head, and I'm past furious, I'm feral.
-
-GATE 27 — The Practice Room
+GATE 24 — broken-in
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "Outliers," he said. "Two kinds. You'll want the difference." (the lecture metaphor is a touch on the nose)
-WHY: Vee realizing she's re-enacting the swat for Randi, with her body answering and nobody touching anyone, is the both-and I read for. Randi's invented ex, her slipping accent and the unfinished "Have you ever—" have me desperate for what she does with all this.
+ALMOST-STOPPED: "The day was a show-off. Bright, cold, so clear it looked rinsed, the last gold leaves down and crunching, the sky doing nothing but be blue." (the weather and walk padding)
+WHY: The shoe-fitting scene is the charge, and Randi managing the apology is the dread I read for. Vee walking into Pace's house in Randi's shoes, scarf and instructions has me desperate for Saturday night.
 
 LEDGER
-+ FEAR: Randi now holds Vee's secret hunger and is feeding it with her own stories, so the line between friend and hunter is gone
-+ LOVE: Vee refusing to touch herself "over a story," holding her own hand on her knee
-+ SUSPICION: The "mouse that roars" ex is invented, or it's Pace in disguise, and it is aimed at giving Vee a word for it
-+ SUSPICION: Randi's "Did you deserve it?" is steering Vee toward framing the swat as punishment, which sets up the bench
-+ WAITING: Vee finishing "Have you ever—", and Randi's head after this closet
-~ F6.3 DEEPENED: Randi's want leaks again in the practice room, in her stillness and the story she tells
-~ W18.4 DEEPENED: Nine chapters now without Randi's own head
-~ F26.3 DEEPENED: Randi now knows about the swat and what Vee's body did, and the hidden want is out with the wrong woman
-~ S26.5 SHIFTED: Randi's closet story is setting up the bench from her side, not just by accident
++ FEAR: Randi scripted Vee's apology to Pace down to the shoes and scarf, so the reconciliation is Randi's staging, and Pace will read it as Vee's.
++ LOVE: The shoe-fitting, with Vee unable to see Randi's hands under the skirt and the thumb behind her knee.
++ LOVE: The Edna Mode laugh, a real friendship hiding inside the manipulation.
++ SUSPICION: Randi's look at Vee's bare feet, and the blonde never being questioned, mean she knows more about Thursday than she shows.
++ WAITING: Saturday night, Vee at Pace's door in Randi's shoes and scarf, and what Pace does.
+~ F23.3 DEEPENED: Vee did run to Randi, and Randi gave comfort that steers rather than tells the truth.
+~ F9.1 DEEPENED: Vee skipped class and chose Randi's room over waking Cassie.
+~ W20.4 DEEPENED: Seven chapters now without Randi's head.
+~ W23.6 DEEPENED: Pace's side of the fight is still unseen and Randi says he won't text.

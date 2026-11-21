@@ -1,28 +1,32 @@
-*capture-dag-v3-grounded · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed 88472f42e9b2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0dc05ebeec12 · 2026-11-06*
 
 REACTION
 
-This is a bridge chapter, and a short one, and I liked it more than I expected. After the big explicit run of 46 and 47, two people in a kitchen talking is the kind of scene I'll happily take.
+Well. She did it, and the book gave me the full explicit payoff. I've been waiting for heat since the Chili's chapters, and this is a lot of it.
 
-What works is Vee noticing that Pace kept everything. The boots that were Meg's, the heel lifting out of the right one, "talk the paint off a wall" handed back to her in his voice. It's the best evidence yet that his love goes into the doing and the remembering, not into words. And "I want to meet your people" is the first time he has put her in his out-there world on his own. That is the answer to her December speech, given sideways and without being asked, and I felt it land.
+The mirror scene is the best part. She picks the wrong bra by habit, then catches herself ("Pace is getting neither"). "Last thing, only thing" about the shoes is funny. Stopping herself on purpose and calling it powerful is exactly the interiority-plus-heat I came for. The coat soaked through the lining, and her deciding it means she's sure instead of ashamed, is a real change from the floozie voice.
 
-Then my dread kicks in, because I know what she doesn't. Her first thought is Randi, the dinner of three. She is about to put the woman who knows his body next to him at a table. Sheri's line about the redhead and the brunette also hangs over this. The Chili's memory surfacing and "Let me handle it" are tender, because he's quietly fixing the problem from the loud restaurant. He is also choosing the place so he can hear her, which is lovely. He has taken the noise thing seriously.
+The car scene is hot and dumb in the right way. The siren and the missing purse are a bit sitcom, though. I'd have trusted the drive without the cruiser.
 
-What bothers me: it's thin. Nothing here follows up the taste thing from 47, so the thread I was waiting on just sat there. "Bring Theo" is a nice little tell that he isn't jealous, but no heat and no real turn. The group-party idea reads as a setup for a collision, and I want that collision now.
+The doorstep is the payoff. "Vee, I l—" and she cuts him off. Oh, that stung. He was about to say it, I think, and she doesn't let him, because she's carrying the gesture instead of the word. The very thing she's been fighting for, and she steamrolls it. I'm furious and I love it. Nobody hears the sentence, and the chapter ends with pancakes, "I'm sorry," and "no room in her for wanting anything he hadn't given." That's the dread. The wall comes down for a minute and she lets the body answer in place of the word, and Randi scripted all of it. The door-open, jeans-around-the-knees sex is graceless, which is right.
 
-GATE 48 — Back
+Grudges: the narration explains her feelings a lot again. And Randi's whole inner storm from last chapter is nowhere here. Brooke's ultimatum just sits. I'm also uneasy that he said sorry and nothing was settled. Cassie's "Hmm" is perfect.
+
+GATE 46 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "She'd watched somebody be fine about it before. She wasn't going to look at when." (the book nudging the Cassie subtext)
-WHY: Pace remembering Meg's boots and Kayla's line is the love he can't say out loud, and his offer to bring in her people answers her December question sideways. The party sets Randi and Pace at one table with Vee between them, and I can't wait for that.
+ALMOST-STOPPED: "The cruiser swung out and went past her, fast, its lights shrinking up the road" (the siren gag felt like a sitcom beat)
+WHY: The mirror, the coat opening, and "Vee, I l—" cut off by her own gesture are the explicit heat and the ache together. But the word still went unsaid, and I want to see whether it comes back.
 
 LEDGER
-+ LOVE: Pace remembering the boots, "heel came up out of the right one," and Kayla's paint line, all kept.
-+ LOVE: "I want to meet your people": the first time he's offered her the world outside the door.
-+ WAITING: The big gathering, Pace and Randi in one room with Vee between them, and who picks the quiet place.
-+ SUSPICION: Vee's instinct to make it a dinner with Randi will run straight into Pace's knowing Randi better than she can guess.
-~ F47.4 DEEPENED: She hasn't asked about the taste yet, but the plan to bring Randi and Pace together makes the Tuesday confession more dangerous.
-~ S47.3 DEEPENED: Still sitting unspoken, and the chapter's pivot to introducing them makes the salt-edge thread feel like a fuse.
++ FEAR: "Vee, I l—" was cut off, and the gesture buried the word again, so nothing is actually settled
++ LOVE: The mirror scene, stopping herself on purpose and finding it powerful, and the "last thing, only thing" shoes joke
++ LOVE: Pace on his knees with the pancakes, "I missed you so much," his voice cracking
++ WAITING: Whether Pace gets to finish "I love you," and what Randi does with Brooke's ultimatum
+~ F45.1 DEEPENED: He opened the door and the coat did the talking; his silence swallowed nothing this time, because she never let him speak
+~ W45.5 ANSWERED: He took her in at once and cried, but the word is still unsaid
+~ F32.3 DEEPENED: She is again letting an act stand in for the word
+~ F11.1 FADED: that crack is long past, absorbed into the bigger triangle

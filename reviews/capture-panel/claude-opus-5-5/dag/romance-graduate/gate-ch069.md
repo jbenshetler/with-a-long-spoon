@@ -1,51 +1,48 @@
-*capture-dag-v3-grounded · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed b1353f55e097 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9ef4c202a790 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed ea7829dca464 · 2026-11-06*
 
 **REACTION**
 
-"*don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise.*"
+He gave her a key. He made the box with his hands, put it on a pillow of oyster silk, and said "You're more than a guest in my house. I've never given a key to anyone." I melted, I admit it. Then I noticed I was doing the thing I always do with this man, which is reading the sentence twice. *House.* Vee caught it too. She waited half a beat for *home*, didn't get it, and let it go "the way she was learning to let it go." She's good at that now, and it scares me. "I've never given a key to anyone" is one more exact true sentence from him. Randi never had a key, so it's probably true. And the silk: "she had the odd passing sense she had felt that silk against her skin somewhere before." Excuse me? The book doesn't drop a line like that by accident. My first thought was Randi. Something of hers, something Vee wore, sitting under the key. The hau, again.
 
-I knew who sent that before he did. Vee doesn't write like that. Vee writes *what am I supposed to do with the flower*. "Stay put, wherever you are" is a woman making sure he can't come down the hall and catch her at the door. And when Vee calls in the morning she repeats the first text almost word for word, "Don't make plans," so that one was really hers. The second one wasn't. Randi had Vee's phone. She had it in both hands in the booth at Prices Fork in chapter 65 too, and I've been waiting for that phone to matter. Then there's the bolt going home behind her. How did she get through a locked door at a house where he has "never given a key to anyone"? Vee's key was in Vee's bag, and Vee was passed out in the dorm. The book doesn't say it. I'm saying it.
+The mirror. He asks what she sees. She gives herself one line and spends the rest on him, down to the birthmark, and "something crossed his face." I don't know what that shadow was, and I want to.
 
-Then "I drove her home myself and put her to bed… got me out of my fancy clothes." I had to stop. Four mimosas, a girl who doesn't remember getting home, and the woman who's in love with her undressing her while she's out cold and then driving to her boyfriend's house wearing her afternoon. Vee calls it the kindest thing anyone's done for her. "I don't know what I'd do without her." I felt sick, and the book wants me to feel exactly that. I don't think the mimosas were Vee's idea of a pace.
+The blazon is gorgeous in places and too long overall. I loved "wine held up to a lamp" for the hair, the unadmired little toe, and the morning walk to the bathroom "not performing one second of it." That last one tilted the floor under her, and under me. Then came the anatomy lecture. "This is your pussy." "A peach with a bite out of it." It's explicit and it isn't coy, and her shame runs through every inch, so it's what I came for. But it's also a man narrating a woman's body to her like a docent, and by the inner lips I wanted him to stop talking and do something. Then he did the thing that saved it, the speech: "A beautiful body is just a fact… It's whose this one is." The gusto, the tenderness, the nerve. And "the flannel over her eyes had gone damp." That's the closest he has ever come to the word. It still isn't the word, and I believed every bit of it anyway.
 
-The sex is the most explicit thing in the series. I won't pretend it didn't work on me: the clamps, the chain as a rein, the spanking walked down toward the one untouched place and then not finished, and the clamps coming off as a second burn right as his hand lands between her legs. It's chapter 1 at full volume. But this time Pace reads the whole bench: "she hadn't come to be serviced. She'd come to be made to pay." When she sobs afterward he gets it: "it wasn't really about anything he'd done to her body." Sixty-eight chapters of him misreading her crying, and now he finally reads it, and what he does with it is hold her while watching the clock. And "She's perfect. For your first woman." That's what makes Randi come. He's not hiding the threesome picture anymore. He's handing it to her as a gift, mid-stroke, and she comes apart on Vee's green sheets with her blue toenails dug into them. That line was devastating, and the image is the best in the chapter.
+"Go ahead." Oh, that was hot. The empty space where his hands should be, her searching left and right blind "for a savior," and then her hand going on its own and fluttering "not knowing where to land." Finding out that you can't spank yourself any more than you can tickle yourself. One hand rough at her breast, "what she was when no one watched." Hearing his breath and building him a body in the dark. Then "What are you thinking about?" "You, you, you." It reads as true tonight. The book says the answer was the only thing in the room, and I'll give her that.
 
-The morning is the coldest scene in the book. Randi's under the sheet cleaning him off for Vee while Vee, hungover, thanks Randi for being so good to her. Pace holds the phone away from his mouth and *lets it happen*. Then Speed Wash, so Vee's sheets go through the machine twice in one day. The man who collars a five-pound plate washes away every trace of a betrayal. Grown-up? Very. Romantic? I don't know who to root for anymore, and I suspect that's the point.
+Then, in the afterglow: "Would you tell me, when you touch yourself thinking of me?" "Yes," said "the way you say yes to something small," with her hand already on him. Honey. You touched yourself in a locked ladies' room off Prices Fork three weeks ago and it was Randi's mouth. You held your hand flat on your stomach for a whole night so Randi's name couldn't arrive. And now you've promised to report. That's chapter 6's "tell" made permanent. It's a standing contract, wrapped in "it makes me feel close to you." Either she lies to him every time it's Randi, or she tells him, and either way he finds out exactly who she thinks about. I don't think he asked by accident. I think he wants to know.
 
-What cost it: a month vanished again. March 6 to April 10, and apparently the "space princess, the chase, the interrogation" all happened off the page and I only hear about them secondhand. That's the third skipped stretch in a row. Pace's head is flat in the setup ("a girl he cherished, and to sex with her he really liked" reads like a form letter). And the cleanup paragraph explains Randi's mouth three ways ("making him over into something clean and ready for Vee's use… putting herself under the other girl…") when the phone call had already said it. "He did like her. He always had" was nice, though. So was "I'm here. With you. Now."
+He also sucked her fingers clean. He took the taste himself, again, and still not into her mouth. The reach is still open.
 
-The white sheets were "his and Randi's… not aired." So she's been sleeping over again, in the month I didn't get to see.
+What it cost: it's a cabin-getaway chapter, the softest landing yet. There's tikka masala with the full spice list recited ("garam masala, which was its own little crowd"), cider pairing, pastries, a lake with no rain. He's a carpenter, cook and poet in one weekend, and even the cabin "looked like something he might have made." That's the merit-badge man at full strength. Eight more days skipped. Randi isn't so much as a thought, there's nothing about her "sorority thing" or the bad girl or "starting now," and the neck injury is just gone. I'm in a bubble, and I can feel the book keeping the bubble sealed on purpose.
 
-1 a.m. text: *randi got vee drunk, put her to bed, TOOK HER PHONE and texted pace as her. then lay on vee's green sheets naked. clamps. "she's perfect for your first woman." then in the morning vee calls to thank randi for taking care of her WHILE RANDI IS UNDER THE SHEET. he washed the sheets. twice. I need to lie down in the dark.*
+1 a.m. text: *he gave her a KEY in a box he MADE. then blindfolded her, described her whole body, said "go ahead" and made her touch herself while he watched. she screamed "you you you." then he asks "will you tell me every time you touch yourself thinking of me" and she says yes without thinking. SHE THINKS OF RANDI. oh no.*
 
-GATE 69 — In Her Place
+GATE 67 — Grace
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 7
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "Over mimosas she told me everything. The whole game — the space princess, the chase, the—" That's where I realized a whole month of Vee's games happened offstage and I was being handed the summary by the woman who stole it.
-WHY: It's the bench from chapter 1 at full volume, and Randi literally takes Vee's place. The phone, the passed-out girl, "perfect for your first woman," and the morning call make this the cruellest and hottest chapter in the book. The skipped month and Pace's thin setup cost it a point. Vee is driving out to the clean sheets right now, and I can't stop.
+ROMANCE: 3
+ALMOST-STOPPED: "garam masala, which was its own little crowd, cinnamon and cardamom and clove, cumin, coriander, black pepper; and turmeric over that" — the recipe recited again, on a porch, in a chapter already this soft.
+WHY: "Go ahead" and "you, you, you" are explicit, shame-wired and hers, and the "whose this one is" speech plus a key in a handmade box turned the bond. But it's a sealed-off getaway with a long blazon and no Randi, and the hook I want is the one he buried in the afterglow, the promise to tell.
 
 LEDGER
-+ SUSPICION: The second text came from Vee's phone. Randi had it while Vee was passed out, and she got in through a locked door with Vee's key
-+ FEAR: Vee was out cold and Randi undressed her and put her to bed. Something happened in that dorm room that Vee will never remember, and she's grateful for it
-+ SUSPICION: The four mimosas weren't Vee's pace. Randi kept them coming so the hour would be hers
-+ LOVE: The blue toenails clenching into the green Vee chose for his bed
-+ LOVE: "I'm here. With you. Now." His one plain kindness to her, with no lie in it
-+ FEAR: Speed Wash. The house is scrubbed of every trace, and Vee walks in to make it up to him
-+ GRUDGE: Another month skipped, and the space princess, the chase and the interrogation all happened off the page, reported secondhand by Randi
-+ GRUDGE: Pace's setup interiority is form-letter flat ("a girl he cherished… sex he really liked"), and the cleanup paragraph explains Randi's mouth three times
-~ S65.2 CONFIRMED: She used the phone, if not that day then this one. Vee's phone sent the surprise
-~ F55.1 DEEPENED: "She's perfect. For your first woman." He's handing Randi the threesome mid-stroke now
-~ S6.2 SHIFTED: He finally reads her crying right ("not about anything he'd done to her body") and holds her while watching the clock
-~ W25.6 SHIFTED: He knows now what the bench costs her. He gave her the punishment she built the afternoon to earn
-~ S13.1 CONFIRMED: The white sheets were "his and Randi's," slept in and not aired. She's been back in that bed all month
-~ F3.3 DEEPENED: "Randi was so good to me. I don't know what I'd do without her," said while Randi was under the sheet
-~ F42.3 DEEPENED: Randi's want came "uncovered" in his bed, and still to everyone but Vee
-~ L6.1 DEEPENED: The debrief now runs from Vee to Randi to Pace, over mimosas, in Vee's own words
-~ F1.3 DEEPENED: She built a whole afternoon to be hurt, then sobbed with no say in it
-~ G66.4 DEEPENED: March 6 to April 10, gone
-~ W68.8 ANSWERED: The photo and "I wanted to be the one doing it" went to Randi's bed as "your first woman"
-~ W68.7 FADED: A month later, no word on whether she ever answered "wish you were here"
-~ S67.3 DEEPENED: "Never given a key to anyone," and Randi bolted the door from inside anyway
++ FEAR: "Would you tell me, when you touch yourself thinking of me?" She said yes without listening. Now every time it's Randi, she has to lie to him or confess, and he'll know which
++ SUSPICION: The oyster silk under the key, which she "had felt against her skin somewhere before." It's something of Randi's
++ SUSPICION: "I've never given a key to anyone" and "my house," not "home." Another exact true sentence. And something crossed his face at the mirror that I can't read
++ LOVE: "Go ahead," his hands not coming, her blind hand fluttering for somewhere to land, and "you, you, you"
++ LOVE: "It's whose this one is," and the flannel over her eyes going damp
++ LOVE: The key in a box he made, already warm from his hands
++ GRUDGE: The cabin getaway is the softest landing yet, with the tikka recipe recited, a cabin that "looked like something he might have made," and a blazon that runs past its peak into a docent's lecture
++ GRUDGE: Eight more days skipped. No Randi, no sorority thing, no "starting now," and the neck injury just vanished
+~ L6.1 DEEPENED: "Tell me" is now a standing contract about her own hand, signed in the afterglow
+~ W44.6 DEEPENED: "Whose this one is" is the nearest he's come to the word, and it still isn't the word
+~ F46.1 DEEPENED: "She was good, now, at letting it go." She waited for "home," it didn't come, and she let it go
+~ W54.1 DEEPENED: He sucked her fingers clean himself. The taste went to him, still not to her mouth
+~ G13.7 DEEPENED: Cook, carpenter and poet in one weekend
+~ G37.4 DEEPENED: Fourth soft-landing weekend, the warmest and most sealed off yet
+~ L10.1 DEEPENED: "Girls like that" came back mid-adoration, and neither the shame nor the being treasured won
+~ L23.6 DEEPENED: His flannel, cut into a blindfold, is the last thing between her and the light
+~ F66.6 SHIFTED: The want he wouldn't let her spend got spent here, on him, and she says it was him
+~ G66.4 DEEPENED: Another week gone off the page

@@ -1,32 +1,31 @@
-*capture-dag-v3-grounded · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 8b17e3d720a1 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 22ad4b05a0dc · 2026-11-06*
 
 REACTION
 
-Okay, this is the chapter the "he never said" thread has been building toward, and I'm glad it finally blows up out loud. Vee wakes in the dark and asks "Is this what we are now?" at the wrong volume. That is the funniest, truest detail in it. She meant it light and it came out sharp enough to ring. Pace taking the question seriously and saying "Where do you want to go tonight?" is classic him. He answers the logistics and skips the question.
+Okay, this is a pure-glow chapter, and I enjoyed it more than I expected. But it's the second one in a row without a turn, so I'm watching.
 
-The Chili's scene is the one that got me. The TV over her head, his eyes sliding past her, the fork squared to the table edge. She reads it as irritation at being seen with her. I know that's wrong, because he told her himself that a loud room means he can't hear. But the book makes me sit in her misreading for pages. Then he says it plainly, "I'm listening now," and she takes it as near enough to the word. Dread: she has now defined his silence as listening. Also, the nachos "to food what a billboard is to a painting" is a lovely line. He ruined it for her, as I said, and that cuts both ways.
+The opening is good. Vee called the five nights off herself, and the line that hurt was that she wanted him to fight for them, and he never does. That's the "he never said" disease again. He opens the door and waits, and she reads that as grace. It may be grace. It's also the same silence the blurb warned about.
 
-Her lie in the front room, "you went cold on me after the Rusty Nail," when she knows it isn't true, is the book trusting me to see her get mean out of fear. I liked that a lot. "You know what happened after the dance" is Pace at his most infuriating and his most reasonable. Both.
+The undressing is the hottest part. She's towing him by his shirt, the jeans stuck at her hips, the sock hopping, him not helping and enjoying every second. It's funny and charged at once. "She'd have burned the house down for him." Her body publishing the five-night number in one embarrassing rush is good too. The green satin she's wearing made me think of the panties in his drawer, which she doesn't know about. Then the thong lands on the long table in his bedroom, "she never looked to see where it went." The bench is under that table, and that's the dramatic irony doing its job. Nobody will remember the bench but me.
 
-The sex is hot, and the best part is her wanting him to lose control and then getting it. But the book keeps handing me her thoughts about it ("the control she'd been begging him to lose") when the scene could have trusted itself. And the closing page, the "marked all over" paragraph and "he'd given her all of it and not the name," tells me what I already got from chapters 32 to 38. That's a grudge. Same beat again, third time.
+The pizza is long. I skimmed some of the cooking, again, though "cotton candy and a bowl of cut strawberries" is a nice line.
 
-Still no Randi at all, and nothing moves in the plot. The word is still unsaid, the forgiveness is hollow, and she's lying awake. I'm hooked on her but I want a turn.
+The shirt is the real beat. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and give it back full of him. It's tender, a bit pathetic, and a little frightening, because her whole sense of him is now smell and shirts and a drawer, and none of it is a word. His open face in return is lovely. He still doesn't say it.
 
-GATE 39 — Under the Rug
+Randi isn't here, and neither is any fallout from MIRANDA or the photo. Nothing moves. I want the plot to start pushing.
+
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 7
+NEXT: 7
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find" (the closing paragraph restating the book's central ache for the third time)
-WHY: The misread Chili's dinner and "I'm listening now" are exactly the dramatic irony I read for, and the sex lands. But the unnamed-thing ache is now a loop, and I need Randi, the scar, or the plan to break through.
+ROMANCE: 3
+ALMOST-STOPPED: "He turned a round of dough out of the bread machine onto the floured white laminate and worked it under the heels of his hands" (the long pizza walkthrough)
+WHY: The stuck-jeans undressing is funny and hot, and the washed shirt is a tender, aching ask. But it's another glow chapter with no turn, and the cooking passage is a skim.
 
 LEDGER
-+ LOVE: Her "Is this what we are now?" coming out at the wrong volume, and him answering with "Where do you want to go tonight?"
-+ GRUDGE: The "he never named it" ache has now been restated in at least four chapters, and I want it to move.
-+ SUSPICION: Pace's noise trouble in loud rooms ("I still can't hear you") may be hearing or sensory trouble tied to the scar or his past, not just a preference.
-+ FEAR: Vee's "forgiven" is a cover for not asking, and the silence is now something she has agreed to live inside.
-~ F32.3 DEEPENED: She now reads "I'm listening now" as near enough to the word, so his non-answers are officially love in her ledger.
-~ W32.6 DEEPENED: She nearly said the word and asked "what are we" aloud, and he answered with dinner plans.
-~ F37.3 DEEPENED: She now asks outright about being seen in public and he agrees without saying anything about the nights.
-~ W30.3 DEEPENED: Another glow chapter with no turn, so I need a plot move soon.
++ LOVE: The washed flannel, "I need you to wear it for me," and him wearing two shirts in his kitchen because she asked.
++ LOVE: The jeans stuck at her hips and her towing him by the shirt, funny and hot with him not helping.
++ FEAR: Vee called the five nights off herself and wanted him to fight for them, but he never asks, and she's reading that as grace until it breaks.
++ SUSPICION: The thong landing on the long table in the bedroom is a setup, and the bench under it will matter soon.
+~ W30.3 DEEPENED: Another glow chapter with no turn, so the stall is real and I need a plot move.

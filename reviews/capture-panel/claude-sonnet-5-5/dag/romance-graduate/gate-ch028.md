@@ -1,31 +1,34 @@
-*capture-dag-v3-grounded · gate ch028 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c70abd373ffb · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 1100ee554828 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch028 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a946e4963085 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed aa110381fe3b · 2026-11-06*
 
 REACTION
 
-The payoff I've been circling for ten chapters, and it's quieter than I braced for, which I think is the point. The dress with nothing under it, the careful little steps, and then the second step made long. The walk is the whole chapter. The slit falling open on purpose, the murmur "the sound a dull room makes when it wakes up," and her face giving away nothing: that's charge with every stitch still on. I liked it a lot. I also liked that the room mostly doesn't care. Nobody turns, and the navy girls get the same applause. She has to make her own entrance, and she does.
+Oh, this is the chapter I've been starving for and it's also a knife. Pace's head again, on the Friday Randi was supposed to be absent from, and she turns up with her face wide open, pleased, and I know exactly why. She spent the morning with her hands up Vee's skirt, and she brought it to him like a gift.
 
-The shame line landed too: "nobody in this room who had ever taught her what to be ashamed of." Her mother's voice is absent, literally, and so is the floozie word. Either it's growth or the book is saving it. I don't trust the calm.
+The telling is the heat, and it's the best sustained charge in a while. She's riding him while narrating the bra, the walk around, the thumb behind the knee, "she made a sound and hoped I didn't hear it," and her body gives away what her words are doing. He thinks it's the picture that fires him. It's her, enjoying the telling. The line "I haven't stopped thinking about her" lands as pure confession, and he hears foreplay. Again. The book's engine, still running.
 
-Cassie being sweet, "Not horrible. Just honest," then "Somebody had to document it," made me love her again. The photo going to Pace, and "He would have no idea what else was in the frame," is the book's irony in miniature. Vee now has a secret from Pace that is hers, and she's relishing it. I clocked that.
+Small cruelties I clocked: "Give her a day," which Randi said in Vee's room and again in his bed, as if she's passing the script on. Pace thinking the day is his to give. She stood with her hand on the folded clothes on the table, looking at it "not the look you give a table," and I'd bet money that's the bench, still under there, and she's circling it. And the chill, the blanket, the white sheet with the blue toes clawing it. And Pace "would not text her. That was not a thing he had decided. It was only what he was." Randi put that idea in him, or Randi named what already was, and either way it's been engineered into inevitability.
 
-But where's Randi? She's in the shoes and the polish, absent from the room. The plum on her nails and the heels that Randi knelt for are all over this, and Randi wasn't invited or isn't mentioned showing up. Odd. Pace in Berkeley and Randi nowhere means all three are apart at the peak, and the dread of that is real. Eleven chapters now without her head and I'm just resigned.
+His relief that Vee had somewhere to go, that "the two of them had that between them without him," made my stomach turn. He's warm about it. He has no idea.
 
-Heat is a simmer, not a boil. After the practice room I wanted a little more, but the exhibition beat is a legitimately new wire for her. The ending is a touch tidy, pride or heat, same thing, a line that explains itself to me. Mild grudge.
+Sheri is a pleasant surprise and a little bit of a bridge. A friend who sees him, who says "Listen to you," and then hands me the line "Two of them at once... If that's not already complicated, it will be." I'm slightly wary, a new character delivering the book's theme out loud, and the bike scene is a drag compared to the bedroom. But "She couldn't take your heat" and "Not yet" are good, and it does confirm he's talking about Vee with a light on in his voice.
 
-GATE 28 — The Induction
+Still no Randi's own head. Eight chapters. I'm furious in the way you only get at a book you're hooked on.
+
+GATE 25 — Space
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "couldn't have told you, if you'd stopped her in the doorway and asked, whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing." (the book spelling out its own subtext)
-WHY: The long step that opens the slit on purpose is the right payoff, charged with everything still on, and Cassie is a gift. I want Randi's reaction to the photo and whatever this new exhibitionist wire does to the triangle.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "Sheri remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar going on two years." (the bike coda is a new-character detour after the peak)
+WHY: Randi riding him while narrating Vee's body is the exact both-and I read for, with every word doing double duty that only I can see. Pace's trusting warmth makes it ache, and Saturday night is right there.
 
 LEDGER
-+ LOVE: The second step made long, the slit opening on purpose, and the room waking up.
-+ LOVE: "Somebody had to document it." Cassie holding the phone and her bright eyes.
-+ SUSPICION: The photo sent to Pace, with "what else was in the frame," is the first real secret Vee keeps from him, and Randi will want it.
-+ FEAR: Vee's pleasure in being looked at is growing as her shame goes quiet, and Randi is the one feeding it.
-~ W20.4 ANSWERED: The induction happened, in the dress and the shoes, though Randi wasn't on the page.
-~ W18.4 DEEPENED: Ten chapters now without Randi's own head.
-~ F19.3 SHIFTED: The entrance went well but the room barely cared, and she made it a private triumph instead.
++ LOVE: Randi narrating the shoe fitting while riding him, "I haven't stopped thinking about her," and him hearing only heat.
++ FEAR: Pace's "I would not text her" is now treated as his nature, so Randi's script is invisible to him and Vee's apology will be read as pure Vee.
++ SUSPICION: Randi's look at the folded clothes on the table by the wall is the bench; she's circling it and hasn't said why.
++ SUSPICION: Sheri, the new friend, can see the triangle and may complicate it.
+~ F6.3 DEEPENED: She poured the want into a story to him, and it came out of her body while she spoke.
+~ W18.4 DEEPENED: Eight chapters now without Randi's own head.
+~ W24.5 DEEPENED: Saturday night is next, and Pace has been primed by both Randi and Sheri.
+~ S10.5 DEEPENED: He told Sheri about Vee with a light in his voice, past the game.

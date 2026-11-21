@@ -1,41 +1,46 @@
-*capture-dag-v3-grounded · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 0090414cb77a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a98377168b15 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed b5eaadd2c998 · 2026-11-06*
 
 ## REACTION
 
-The zipper. That's what I'd text about. Vee gets it halfway down in front of Cassie, remembers there's nothing under the skirt, and zips it back up. The book gets something exactly right there: the one secret you can't edit is your body. She can lift "the middle" out of the story "clean as a ladle," but she can't lift it out of a skirt. I loved that she isn't ashamed of the floozie word this morning. What she can't face is being *found out* by her best friend. Then Cassie says "You need to get your brain back from your boyfriend," and the book calls it "kindly, certainly, wrong." It's a little pointed, but it stung. And I caught "something crossed her face and was gone before it found a name" right at the top. I'd let my old Cassie antenna go back in chapter 9, and it's back up now. Then "Don't wait up, lover." Hmm.
+FINALLY. Sixteen chapters in, she says "Famished," and the book does exactly what it's been promising since the bench.
 
-The brunch had me torn. The best beat is Kentucky. Esses running long, a's lifting, eyes gone liquid, and Vee decides she's *drunk* and checks the glass to prove it. She's on one mimosa, barely touched. So Vee is wrong again, she gets *close* this time, and then she lets it go. Randi isn't drunk. She's moved, sitting there listening to the girl she pointed at describe the man she pointed her at, and "You're not caught, sweetheart. You're lucky" comes out of her in her real voice. I can't tell whether Randi is blessing Vee or talking to herself. That's a sharper version of the misreading than "Switzerland," and I liked it a lot.
+First thing: no fade. Nobody closes a door. It's explicit, slow, and specific, and the explicitness is *about her*. The floozie wire is the whole engine. I said back in the truck that her mother's voice had turned into the turn-on, and here the book commits to it all the way: "there was no seam, they ran on the same wire, and she had stopped looking for one." Okay, that line explains itself a little. But it's the thesis of her entire arc, so I'll let it have one sentence. What got me is that the shame never goes away. She's not cured. It runs "the whole length of it and never closed her." That's grown-up. Most books would have him love the shame right out of her in one night, and this one lets her burn *through* it with it still on. "It was the first time that had been true." That one I didn't need, but fine.
 
-The "old boyfriend" story bugs me, in a good way. It happened Friday night, the same night Pace was with Vee. The boyfriend was nervous and in a hurry, "like the building's on fire," and "at least I got dinner out of it." Either Randi went out and found a body so she wouldn't be alone while it happened, or she made the whole thing up as cover so she has a sad little tale to trade. Either way, she's eating dinner now, in the story. And "How was he?" is finally asked and allowed an answer, and Vee is the one who hides the middle this time. The door closing has switched sides. Then Randi steers straight to the underwear. Sweetheart, do you already know where those panties are?
+The undressing undid me. This is the fitting replayed for real: him on his knees, her standing, his palm pressing the wet satin back against her before he's bared anything. Then the strings, and her hand going to cover herself and stopping. That's the shut eyes on the riser, except this time she doesn't need the smile to save her. "Would you be bothered if I was too hard?" is a slightly awkward line, honestly. It reads a bit like the author working out how to make him ask. But I loved what it does: he's offering his own embarrassing evidence for hers, two bodies giving themselves away at once. And later, "since he'd asked her a question on his knees and been told no." Ha. The one no in the whole book is a yes.
 
-My problem is I've read this lunch before. This is the fourth time we've done it: Chi Latte, Smoothie Bird, the velvet booth, now the bistro sun porch. Randi tells a bedroom story about some other man, draws Vee out one "yeah" at a time, and kisses her at the curb. Vee reads the right side of the menu first, again, nearly word for word, with the Thursday arithmetic again. I know the escalation is the point: the kiss opens this time, and Vee doesn't scan the windows. But it's also the *third* chapter that opens with Vee retelling the last chapter to a friend, and this time she tells it to two friends in a row. I sat through the sheet-and-fra-diavolo hour twice in one chapter, right after reading it for real. Coming right after the hottest payoff in the book, a quiet morning-after makes sense. A quiet morning-after made of recaps is me skimming for the one new line in each paragraph.
+The thing I'd text about, though, is the contrast with chapter 11. Randi walked in, said "How was it?", rode him, said "No thanks" to food, and left. Vee walks in, hands back the glass, says "Famished," gets fucked, and then sits at his table in a sheet and *eats until she's full*. Same house, same man cooking, a girl who stays versus a girl who goes. The feeding thread I've been tracking since "let's go feed you" finally came back around, and it lands on the wrong woman. Or the right one. And the music keeps changing key: Steely Dan for Randi, Blondie the night she left, Fleetwood Mac now. "Dreams." Okay, book.
 
-The one new thing that really pulled me was the kiss lasting longer. "She took a little more before she let her go." Randi is spending something now. I want to know what she does with it when she's alone, and I'm two chapters past wanting her POV back.
+Then "Trade." She folds the panties with the spot centered, the sheet drops, and she doesn't pick it up. She's standing naked in his kitchen handing him the evidence she'd been dying over two Saturdays ago, *folded*. That's the most confident thing anybody has done in this book, and it's Vee. The girl in the cardigan. I made a noise.
 
-1 a.m. text: "she almost undressed in front of her roommate and remembered she gave her panties away and ZIPPED BACK UP. then brunch, the gf's kentucky came out and the girl decided she was DRUNK off one sip of mimosa. also the gf kissed her for longer this time. but I'm so tired of these lunches"
+And then the dread. "Something in his shoulders was private." Sir. What are you going to do with those? Because I know where that couch is, and I know there's a woman who says *Tell*. If those panties end up anywhere near Randi I will be sick, and I'm sure the book knows I'm thinking it. Also: a large scar, high on the inside of his thigh, which the book drops in and leaves alone. Daphne? Parents? Powerlifting? I'm noting it.
+
+Gripes. The "short story" line to the mirror is the author being cute through Vee's mouth. The "hands that had built the platform and turned the hem and held her ankle" list is the book reminding me of its own motifs again. "The evening had used her well" is a little smug. And Randi is completely gone. She kissed Vee on the mouth a week ago and nobody has had one thought about it since. Vee doesn't think about her once during the sex. I find that weirdly loud. Pace was in Chicago, Randi has no POV here, and I want to know where she spent that week. The frosted plum toenails made me think of Randi's blue ones, and I don't think that's an accident.
+
+1 a.m. text: "THEY FINALLY DID IT and it was his mouth on her standing up first and her mom's voice going FLOOZIE the entire time and she just. kept going. then she ate pasta in a sheet and handed him her folded wet panties and said 'trade' with the sheet on the floor. the gf would have left by now. I'm so scared of what he does with those panties"
 
 ## GATE
 
-GATE 17 — Fed
+GATE 16 — Famished
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did." That's where I realized I was in the fourth Randi lunch, with the same blocking.
-WHY: The zipper moment and Kentucky mistaken for tipsiness are sharp, and the longer kiss moves things forward. But this is a recap chapter built on a lunch formula I've now read four times. I'm reading on for Randi's head, and for what Pace does with those panties, not for another brunch.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." That's the author winking at me through Vee during the throat-clearing dressing section, right before the payoff.
+WHY: This is the scene the whole book has been building toward, and it delivered explicit heat with her shame wired straight into it, unresolved and honest. The contrast with Randi's night (stays, eats, "Trade") is devastating without being pointed at. I'm reading on because those folded panties are a loaded gun and Randi has gone silent.
 
 ## LEDGER
 
-+ LOVE: The zipper halfway down and back up. She can edit the story but she can't edit her body in front of Cassie
-+ SUSPICION: Randi's Friday "old boyfriend" was either a stranger she grabbed so she wouldn't be alone while Pace had Vee, or he's made up, a story to trade for Vee's
-+ SUSPICION: Randi asks about the underwear because she already knows where the green panties ended up
-+ SUSPICION: That look on Cassie's face when Vee walked in, plus "lover." Cassie's feelings for Vee might be more than a best friend's after all
-+ GRUDGE: Fourth Randi lunch with the same shape (her sex story, the draw-out, the curb kiss), and the dinner retold twice in one chapter
-~ L1.1 DEEPENED: Kentucky ran all through brunch, and her eyes went liquid while Vee talked about Pace
-~ L4.4 DEEPENED: Vee hears Kentucky and decides Randi is drunk. She's closer to the truth, and she still lets it go
-~ F15.5 SHIFTED: Vee didn't look down the street for watchers this time. She's stopped being careful, and that scares me more
-~ W15.6 DEEPENED: The curb kiss opened up, and Randi "took a little more"
-~ G12.4 DEEPENED: Third chapter opening on a recap, and this time she tells it to two friends
-~ G9.7 DEEPENED: The menu prices, the Thursday math, Randi's other-man story, and the curb kiss, again
-~ L4.1 DEEPENED: "Was he worth painting your toenails? In October. I have eyes."
++ FEAR: Pace takes the folded panties, or the story of them, to Randi's couch, and Vee's boldest gift becomes their foreplay
++ WAITING: The scar high on the inside of his thigh. What made it, and whether it's tied to Daphne or his parents
++ LOVE: "Trade." The sheet on the floor, the panties folded with the spot centered, and neither of them looking at the sheet
++ LOVE: Vee eating until she's full at his table in a sheet, the girl who stays, where Randi said "No thanks" and left
++ GRUDGE: Randi has gone fully silent after kissing Vee on the mouth. A whole week, and not one thought about her from Vee
++ SUSPICION: Vee's green set and plum toenails are an unconscious echo of Randi (green scent, painted toes), and Randi's in her head more than she admits
+~ W14.5 RESOLVED: He stopped governing it. "Keep still" turned into him not holding back
+~ L10.1 DEEPENED: The floozie voice ran through the whole act on the same wire as the heat, and she burned through it without it closing her
+~ W4.5 RESOLVED: Naked in his kitchen, sheet on the floor, handing over the evidence. Her body is all the way out from under the cardigan
+~ W3.7 DEEPENED: "Famished," and she eats until full. The feeding thread finally lands on Vee, in exactly the scene Randi walked out of
+~ F9.5 SHIFTED: She went into the bedroom and there was no bench, only a plain white bed. The bench is still out there somewhere in that house
+~ G1.7 DEEPENED: "It was the first time that had been true" and the motif-recap list of his hands, still telling me what I just felt
+~ W15.6 DEEPENED: Randi's want after the kiss is still completely offstage

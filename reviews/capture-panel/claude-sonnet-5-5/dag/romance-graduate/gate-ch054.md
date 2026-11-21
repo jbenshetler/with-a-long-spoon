@@ -1,27 +1,30 @@
-*capture-dag-v3-grounded · gate ch054 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 78dedfb4d090 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch053 · history ch001..ch053 · ledger no seed f4e8312d95af · 2026-11-06*
+*capture-dag-v3-grounded · gate ch054 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed b374d91390d8 · 2026-11-06*
 
 REACTION
 
-This chapter is solo, explicit, and aimed at one target: the unfinished reach. Vee is alone with her own wet fingers and the sentence she gave Randi, and she gets as far as a breath's width from her mouth before she stops. The heat works. It's specific and it isn't coy, and the shame/plenty thread (the "excessive" verdict arriving on the amount) is exactly psychologically right. The window is a lovely action: she opens the cold in to air out the evidence before Cassie comes home. Then she lies down in the damp patch. "Her mess. Hers to lie in." That's the best line, and it hurts.
+The ending is the problem, and it's a good problem. The chapter spends its first two-thirds being what I wanted: the dinner I've been dreading goes beautifully. Pace says "Vee's boyfriend" six times, flat, like a man with one credential. It's the word she begged for in December, handed over in public. Then he does the thing he does, setting up everyone's first line and standing back. Cassie *talking* is the best beat. "You can stay" is perfect. I'm warm toward him in a way I haven't been since the pancakes.
 
-What it does for the story is what I wanted. The taste thread has moved from Randi's confession to Vee's own body, and the question hanging at the end ("a mouth carrying it back, or Randi's own fingers") shows she's asking herself what Randi meant. She's close to working it out, and she's circling it through desire, not logic. I find that more believable than a lightbulb moment. She still thinks it's about Pace, and that's the dread.
+Under that, the stakes are all mine to see. Randi's grip on Vee's hand at "boyfriend" is the bones-grinding kind. "To my beautiful best friend," the glazed quiet, and the nail going white under the glass rim are Randi coming apart in public while Vee is proud she moved her. Pace, in the lot, watching the kiss from twelve feet away with nothing on his face, is the one I can't read. Does he know what he's looking at? Then "They share an interest. You." That is the book's most loaded line, and Vee hears it as sweet. I put the book down for a second.
 
-Complaints: it's a short chapter that retreads the previous one's beats, and the "enthusiastic" echo is a little on the nose. I'd have liked one beat of Randi's face in it, because she's absent from the fantasy, which may be the point. The shower-voice narration ("luxuriantly soft") is fine. But the mechanism is the same: she's building toward something she can't do.
+Then the truck. Explicit, specific, hot. The stillness of his hand in her hair and the thong pulled aside by her own fingers both work. But notice what she does with the heat. She gets wet at Randi's toast, then crosses a parking lot and spends it on him. The wire still runs through Randi, and Pace is where it lands. Her refusing to ask what the sentence at the window is about is the book telling me she half knows. I felt that.
 
-I want the next chapter to cash this in. Either she tastes, or Randi forces it.
+I'm a bit tired of the eight-paragraph room tour opening, and the section of everyone getting handled by Pace ran long. The taste thread is still unmentioned, which I find deliciously ominous now, not irritating.
 
-GATE 54 — The Reach
+GATE 52 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: The stalled reach, one breath from her mouth, makes the taste thread physical and unresolved, and lying in the damp patch is a brutal, perfect last beat. It echoes ch53 closely, but the heat is earned.
+ROMANCE: 3
+ALMOST-STOPPED: "Dinner organized itself around the buffet, which meant it never organized at all" (the long stretch of Pace working each guest in turn)
+WHY: "Vee's boyfriend" six times, Cassie finally talking, and Randi's white-nailed quiet at the toast are exactly the both-and I read for. The truck is hot, and "They share an interest. You." is the line I can't stop turning over.
 
 LEDGER
-+ LOVE: The cold window opened to air out the room, and "Her mess. Hers to lie in," lying down in the damp patch.
-+ WAITING: Vee tasting herself, or Randi pushing her to, and whether she ever works out whose taste it was.
-+ SUSPICION: Her question, "a mouth carrying it back, or Randi's own fingers", means she's circling the truth through her body before her head.
-~ F31.4 DEEPENED: Randi's "powerful, it turned me on" is now steering Vee's solo pleasure too, even with Randi absent from the fantasy.
-~ W53.4 DEEPENED: Randi's next move is still unseen, but Vee is now processing the line alone.
++ LOVE: "Vee's boyfriend," said flat to six faces, the word she wanted finally spent in public.
++ LOVE: Cassie talking, cap pushed back, and "You can stay."
++ SUSPICION: Pace's "They share an interest. You." is more knowing than Vee hears, and his blank face watching the lot kiss may not be blank.
++ FEAR: Randi is coming apart in plain sight (the grip, the toast, the white thumbnail) and Vee reads it only as being moved.
+~ W50.1 ANSWERED: The dinner happened and both held their faces, Randi barely.
+~ F31.4 DEEPENED: Vee's heat at Randi's toast was spent on Pace in the truck, and she refuses to hear the thought at the window.
+~ S47.3 DEEPENED: Still unspoken, and now Pace and Randi have actually met and talked.
+~ S50.2 CONFIRMED: Pace managed the whole evening, the guest list and every guest's first line.

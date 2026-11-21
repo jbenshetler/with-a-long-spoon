@@ -1,56 +1,49 @@
-*capture-dag-v3-grounded · gate ch017 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 9ac73e5ff472 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch017 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a98377168b15 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed 606e1b969e21 · 2026-11-06*
 
 REACTION
 
-WAIT A SECOND. Read that paragraph about Randi's voice again!
+WAIT. STOP EVERYTHING.
 
-*"Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting, more of whatever it was than there had been when they sat down — and her eyes had gone liquid at the edges. She's a little drunk, Vee thought, fond about it, and looked over to confirm it: one mimosa, and most of that still in the glass."*
+*"She tried to fold them — in thirds, the spot centered — and couldn't manage it with one hand holding the sheet. The sheet dropped. She didn't stop to pick it up. She finished the fold... the deep green of them particular and chosen, and the spot exactly where she'd put it. She kissed him, briefly, and held the folded panties out toward him. 'Trade,' she said."*
 
-SHE ISN'T DRUNK. That's the Kentucky coming into her mouth! Remember Chapter 1 in Pace's kitchen?! *"The Kentucky she had nearly got out of her mouth by nine and could still let back in on purpose when she wanted to be a girl in a man's lap."* Except right now she isn't letting it in on purpose as a performance—she is so turned on, or so emotionally undone (or both at the exact same time!) listening to Vee talk about painting her toenails frosted plum and buying green satin panties to go take what she wanted from Pace that her over-corrected vowels are slipping and her eyes are going liquid over an untouched mimosa!
+I AM ON THE FLOOR. I have chills all the way down my arms!
 
-Hold on, let's unpack everything happening at this Sunday brunch because Randi in this chapter completely stunned me.
+Think about where this girl was six days ago on the riser in *A Round*! Six days ago, that soaked spot on her satin panties was *"her shame made plain,"* *"big and dark and stupid,"* the thing she screwed her eyes shut over while her mother's voice hissed *floozie* in her ear! And tonight, at the end of this chapter, she walks back into the bedroom, picks up the deep green satin panties she bought for him, comes back into the kitchen, lets the sheet drop right off her bare body onto the floor without even stopping to pick it up because she needs both hands, folds the panties in thirds with *the wet spot centered on purpose*, and hands them to him as a trade for the flannel shirt she kept!
 
-Last week in Chapter 15 (*How It's Done*), when Vee talked about the dress fitting, Randi pressed her thumbnail into the water glass, walked Vee into a corner over her soaked panties, and slammed the door in her face (*"You don't have to tell me"*). And back in Chapter 9 (*Dear*), when Vee talked about their first kiss, Randi rewrote Vee's choice into helpless submission (*"Because you couldn't not. Because of him"*).
+That is one of the most triumphant, earned, erotic character turns I have ever read in a romance novel. Period.
 
-Look at what Randi does TODAY!
-First, Vee skips the sex ("the middle") and tells Randi the exact part that should stab Randi straight through the heart: wrapping herself in Pace's top sheet at midnight, padding out to the kitchen barefoot, drinking the wine, and watching him finish cooking dinner in the quiet! The exact post-sex intimacy and food Randi *ran away from* in Chapter 11 (*Swim Lanes*) when Pace begged her *"Stay. I'm starving. I'll cook"*!
-And instead of pressing her nail into the glass this time, Randi goes still and says—and *means it*—*"Oh, I love that... That's not a story, honey. That's a painting. Keep that one."*
+And let's talk about the whole journey of this chapter to get her to that kitchen!
+First, the week before Friday: lying in her dorm bed with her nose buried in the collar of his handmade flannel shirt chasing the last faint trace of his scent, hearing her mother's *floozie* voice, and feeling her nipples tighten a beat behind the shame. And going to the mall and buying the deep green satin set ("deep and quiet and a little serious") and painting her toenails frosted plum—the color of the burgundy silk he held up to her face in the sun porch!—and then hiding the plum toes inside plain ballet flats so she doesn't look like she tried too hard! (Also, compare her frosted plum toenails hidden in flats to Randi's bright blue toenails in high heels on the bench in Chapter 1!)
 
-AND THEN, when Vee describes the sex by making it all about Pace (*"He was patient, and he was so gentle, and he was… hungry. For me. In a way that made me feel, I don't know. Unique... Like singular"*—which, ouch, imagine hearing your boyfriend made another girl feel *singular*!), Randi DOESN'T reframe Vee as passive the way she did in Chapter 9! She does the exact opposite!
-*"You keep saying he. He was patient, he was gentle, like you just stood there and let it happen to you. Let me ask you something. That day. Did you do anything to get ready for him?"*
-Randi literally walks Vee through her own desire—the painted toes ("You paint the toes for a man who's going to have your feet bare in his hands"—remember Randi's blue toenails in Chapter 1 when Pace took her heels off on the bench!), the frosted plum polish matched to the burgundy silk, the new underwear ("That's not nothing, that's a *campaign*")—until Vee stops hiding behind "it just happened to me" and says out loud:
-*"I wanted it. And I took it. For once."*
+And then she gets to his house. Notice the music! With Randi in Chapters 1 and 6, it was Steely Dan ("that smooth sound, cool and unhurried"); after the hike in Chapter 11 when Randi came over, it was Blondie's disco song; and tonight for Vee, it's Fleetwood Mac's *"Dreams"*! And he's standing there in a canvas apron with the mise en place all prepped on the cutting board—garlic minced, onion diced, red pepper flakes measured out, dry pan waiting—and asks *"Are you hungry?"*
+And she says *"Famished,"* sets the wine glass down untouched, says *"I never thanked you for the shirt,"* and takes him by the apron strap behind his neck and leads him into the bedroom! Look at the contrast to Chapter 13 when she leaned toward the closed bedroom door and he didn't open it—tonight *she* asks *"Will you show me your bedroom?"* and walks him in there before the oil even hits the pan! Wait—and notice what ISN'T mentioned in the bedroom! "White walls. A bed that was large and low and simply made, plain white sheets, nothing decorative." Because the bench-table is out in the sun porch holding her burgundy silk!
 
-Wait: WHY did Randi give Vee her agency back today instead of taking it away?!
-Look at the fake story Randi told at the beginning of brunch: running into a "beautiful" ex-boyfriend who was "so nervous, and in such a hurry, like the building's on fire" (which is the exact contrast to Pace in Chapter 1, when Pace noticed her shoulders climbing because every man before him had been in a hurry!). And then she tells Vee: *"I only got dinner that night, dinner and a boy in a hurry, that was my whole evening. I'm running on fumes here."* And look at the title of the chapter: *Fed*!
-Randi is *feeding* off Vee's desire and Vee's boldness! Watching Vee be that "gone on somebody" (*"That's the best thing there is, being that gone on somebody. Do you know how many people never get within a mile of it? You're not caught, sweetheart. You're lucky"*)—is Randi talking about how she wishes *she* could let herself be that open and unguarded without locking herself in a bathroom, OR is she getting wet in her chair realizing that a girl who knows how to want something and *take it* is about to want *her* too?!
+And the sex scene itself... good god. The way this book writes the entanglement of shame and arousal—*"she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one"*—is so psychologically real it made my throat tight. Every woman who grew up with a policing mother's voice inside her skull knows that exact loop, where your brain is throwing the ugly word at you to try to shut your body down, and instead the transgression just pours gasoline on the fire.
 
-Because look at that kiss on the street at the end!
-Last Sunday in the fire lane, it was a quick, closed-mouth *lips to lips* that left Vee panicking at the dorm windows and telling herself *"It's a French thing."*
-Today on the curb in broad daylight:
-*"Vee had half-expected it this time, and met it — and where it should have ended, it didn't: Randi's mouth eased back without leaving hers, the kiss opening, and then she took a little more before she let her go. Vee didn't look down the street for who might have seen them, the way she had the first time."*
+And when he kneels to take her skirt and green satin panties down, and the "crystal strings" of her wetness stretch between the fabric and her skin, and her hand starts to move to cover herself—and he looks up from his knees and says:
+*"Would you be bothered if I was too hard?"*
 
-WAIT A MINUTE. *"Randi's mouth eased back without leaving hers, the kiss opening, and then she took a little more before she let her go."*
-THAT IS PACE'S MOVE! That is the exact kiss Pace did to Randi at the door in Chapter 1 and to Vee under the tree in Chapter 8—kissing once, easing back a breath of space so the other person can meet it, and then opening the kiss and taking more! And Vee meets it and *doesn't even look down the street to see who saw them*!
+WHAT A LINE. He doesn't give her a speech about how she shouldn't be embarrassed; he reframes her "excess" in two seconds flat by putting it alongside his own! And then he puts his mouth on her while she's still standing up, holding the backs of her thighs, fingers curling inside her while she comes standing up with her knees giving out and his hand taking the weight of her ass!
 
-Also, can we talk about Saturday morning in the dorm room with Cassie?! That scene was so funny and so bittersweet at the same time. First, Vee waking up at Pace's house without an overnight bag (whereas Randi always brought her monogrammed sorority leather overnight bag until the night she left it behind!) and laughing at her wild hair in his mirror—the exact bathroom mirror where Randi stared at herself in horror in Chapter 1! Second, Cassie immediately clocking the frosted-plum toenails ("In October. I have eyes"). Third, Vee realizing mid-zipper pull that she can't take her skirt off in front of Cassie because she traded her green satin panties to Pace and drove home completely commando!
-And yet underneath the comedy of zipping her skirt back up, look at what happened between Vee and Cassie:
-In Chapters 9, 10, and 15, Vee told Cassie the boldest, truest versions of what she did (*"I pulled him back and I did it. Me"*, *"I took my wet shirt off in front of him"*, *"I was grinding on him"*). Today, for the first time, Vee edits out the middle with Cassie ("the way a ladle takes soup from the pot and the surface closes without a hole")—and then goes to brunch on Sunday and lets Randi draw the real truth of her wanting out of her instead! Even that half-second look that crossed Cassie's face when Vee walked in on Saturday morning... Cassie knows Vee is drifting deeper into Pace and Randi's orbit.
+WAIT—HOLD ON. When she pulls him up and shoves his jeans and shorts down:
+*"and her hand stopped — a scar, large, high on the inside of his thigh. Then he drew her arms up around his neck, and she went."*
+WHAT IS THAT SCAR?! Remember in Chapter 13 when she asked about his parents and a small door eased shut two rooms away?! Why does Pace have a large scar high on the inside of his thigh?! I am filing that in capital letters right now!
 
-I am completely spellbound by these three people. Every chapter makes the psychology richer and more dangerous. What happens next?!
+And then on the bed—lying down in the actual *source* of the scent she's been breathing off his flannel shirt all week, pulling him in with her heels at the backs of his thighs, and the way he won't let her hide her face in the pillow! Watching her face from a distance of nothing while he moves inside her in long, unhurried strokes, until she lifts her hips and says *"yes"* into his neck, and he puts a hand under her, lifts her to a new angle, and *stops governing it*! Look at how differently this lands from Chapter 11 with Randi: in Chapter 11, Randi pushed him down, rode him with her eyes shut and her belly tight as a board, came, and immediately jumped up shivering to put her clothes on and refuse his food ("Stay. I'm starving. I'll cook." / "No thanks"). Here, Vee wraps the top sheet around her slick thighs, pads out to the kitchen, watches him cook the fra diavolo, eats until she's full in a warm, easy silence, and then drops the sheet on the kitchen floor to hand him her wet green panties folded with the spot centered: *"Trade."*
 
-GATE 17 — Fed
+How on earth is Pace supposed to go back to the pointing game after *"Trade"*?! Look at that line at the end: *"He took them. Something in his shoulders was private and she let it be private."* He is in *so* deep. And when Randi finds out what happened tonight—or when Vee DOESN'T tell Randi all of this, because this wasn't a performance for a booth—the explosion is going to be nuclear.
+
+GATE 16 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Watching Randi's accent slip and her eyes go liquid over an untouched mimosa as she coaches Vee into owning her desire ("I wanted it. And I took it"), followed by that open-mouthed kiss on the curb where Vee doesn't even check who's watching, was utterly intoxicating.
+WHY: From "Would you be bothered if I was too hard?" on his knees to the scorching, unhurried sex where her mother's shame-voice finally loses its power to close her, all the way to that unforgettable final beat of Vee dropping the sheet in the kitchen to fold her panties with the wet spot centered and handing them to him ("Trade"), this chapter was pure perfection.
 
 LEDGER
-+ LOVE: [L17.1] Vee reaching to unzip her skirt three feet from Cassie and freezing because she handed her green panties to Pace as a "Trade" and drove home bare underneath.
-+ LOVE: [L17.2] Vee assuming Randi is tipsy because her vowels are slipping and her eyes have gone liquid at the edges, then looking down and seeing Randi's first mimosa is still mostly in the glass.
-+ LOVE: [L17.3] Randi's goodbye kiss on the curb easing back without leaving Vee's mouth and then *opening* to take a little more—and Vee meeting it without looking down the street to see who saw.
-~ S9.4 SHIFTED: In Chapter 9 Randi reframed Vee's first kiss as helpless submission ("Because you couldn't not"), yet today she actively pushes Vee to claim her own agency and preparation ("You knew how that night was going to end... So why are you telling me like it's a confession?") until Vee says "I wanted it. And I took it"—because Vee's bold, unashamed appetite is what's feeding Randi (and turning her on for herself).
-+ FEAR: [F17.4] For the first time, Vee gave Cassie the sanitized, ladle-edited version of her night with Pace while saving her real vulnerability and desire for Sunday brunch with Randi—she's pulling away from the one friend who sees the setup clearly.
++ LOVE: Pace looking up from his knees when Vee sees the "crystal strings" of her wetness and asking, "Would you be bothered if I was too hard?"—reframing her deepest bodily shame into shared desire in a single sentence.
++ LOVE: Vee dropping the bedsheet onto the kitchen floor so she can use both hands to fold her green satin panties in thirds—*with the wet spot centered*—and handing them to Pace with a kiss and one word: "Trade."
++ SUSPICION: The large scar high on the inside of Pace's thigh that stops Vee's hand when she pushes his jeans down is connected to the door that closed in him when she asked about his parents in Chapter 13.
+~ L11.2 DEEPENED: In Chapter 11, Pace begged a shivering Randi to stay after sex ("I'm starving. I'll cook. Are you hungry?") and she dressed and walked out; tonight, Vee wraps herself in his top sheet, watches him cook the fra diavolo from scratch, and eats at his table until she's full.

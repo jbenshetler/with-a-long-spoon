@@ -1,38 +1,45 @@
-*capture-dag-v3-grounded · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed cff7ae9b64fd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 23292cdce6f9 · 2026-11-06*
 
 **REACTION**
 
-We're back in the same doorway with both coats still on. I liked that the book didn't skip ahead. It held me in the exact second chapter 63 ended on, and the question "sat in the warm room like a third person nobody had offered a chair." That's a good line, and I believed it.
+"Tell me the real story, and I'll give you what you want."
 
-"Is this what you want?" is a better question than the first one, and Cassie knows it. She doesn't ask what happened or what Randi is to her. It's the "do you love him" voice from the dorm in November, with worry under it. For one terrible second Vee actually goes and *looks*. She runs into the edge of something "close and large" and steps back before she can see how big it is. That was the most honest moment she's had since the dance floor. "Her neck said yes," and then right away, "that was the body, that was nothing." Honey, you've been saying "that was nothing" for sixty chapters.
+Oh my God. It's the couch from chapter 6. It's Randi straddling him with wine in her mouth saying *tell, tell*. Except now he's running it on Vee, with Vee's own body as the currency, and she has no idea she's sitting in a chair two other people have sat in. Every inch he gives her is an inch of Randi's story he's buying. I had to put the phone down at "Were you wet?" Partly because it's the hottest thing in the book, and partly because I know exactly where that answer goes. Monday is Randi's night. Vee just gave him the whole mixer, and he priced every sentence by how hard it hit him. He went hard again at "it didn't stay a joke," and she reads that as *the ordinary greed of a man who heard two girls*. Honey, it isn't ordinary. That's the threesome engine turning over, and it's been running since chapter 3.
 
-Then she picks the fight. "You don't like her." It's the old sorority argument, laid down "like a plank to walk out on." It's the same move she made on Pace two nights ago, when the floor went out under her and she swung it onto him with "you want Randi." When she's cornered she accuses the other person of wanting the thing. Pace caught that one and turned it back on her. Cassie just steps over the plank without looking down, and I loved her for it so much it ached. There's no fight and no victory, and the eyebrow says nothing.
+The heat is real and the book doesn't flinch from it: the stall at the head of him, "that's *cheating*," the inch for "date." He makes her hear her own words the way he heard them, so "she just gets to *have* me" comes back worse in her own ears. That's the smartest thing the book has done with explicitness in a while. The telling is the sex, and the sex is the shame turning into fuel one coin at a time. "You finish when you've finished." I'm not made of stone.
 
-Then "You didn't have dinner." And the Cocoa Pebbles. I laughed out loud and then got a little teary. This whole book is built on who feeds whom: Pace's fra diavolo, Randi's one bite, the stew under a plate in the fridge. Now the plainest person in it hands over a box of kids' cereal from beside the bunk, and it's the first time anybody has fed Vee without wanting something back. "A want the size of a bowl." It's the first whole thing she's said all night, because it's the one want she's allowed to have. The title, "Some of Mine," turns out to be the most generous thing anyone says in the volume.
+It's also the darkest thing he's done. He's never been more Pace and never more frightening to me. He read her perfectly ("That was angry, Vee"), held the door open, and then used it. Then the end: "Do you want to sleep with a woman?" He leaves out the name like a gentleman, she says, and she's grateful for the room. No. That's the pitch. Then "You keep saying her name. Not me. It's all right. I don't mind." She thinks it's the sweetest thing he's ever done because he defended himself for once. I think it's the first time he's lied to her face. He *does* want Randi. That was him covering, and she took it as a warm blanket. Then the book hands her the literal blanket. The cream cashmere. Randi's. Tucked up to her chin. The book doesn't point at it, and I wanted to scream.
 
-What I don't know yet is what Cassie saw. The book still won't tell me, and that's right, because Vee doesn't know either. "Read the whole night off her skin like a postmark" is perfect paranoia.
+And her lie. "No. Nothing." It's her first one, and it's about the goodbye kisses and her own hand on the new bare skin with Randi's name in her head. Then she remembers the roadhouse lot, Pace three steps away by the truck. So now both of them are lying about Randi in the same bed, and each thinks only they are. "The guilt came up hot under her ribs, and inside it, small and bright, a thrill." Yes.
 
-What cost it: the last paragraph explains the bowl to me ("that was the size of what she could answer tonight… small enough to hold in two hands") right after the bowl had already said it. And it's short and quiet, with no Randi, coming straight after a quiet chapter. That's fine, because it's Cassie, and Cassie gets to be quiet. But I'm counting.
+The opening got me too. She stops her own hand and holds it to her breastbone "like something she'd caught stealing," then reaches for *boyfriend* "the way you reach for the rail on a stair." She uses him like a wall to crowd Randi out, it doesn't work, and she ends up "sore… raw… the kind you got from not stopping when you should have." That's honest about sex being used badly, and I respect it. "What is wrong with me?" Nothing, baby. You're just finding out.
 
-1 a.m. text: *cassie asked "is this what you want?" and vee tried to start the sorority fight and cassie just… stepped over it and offered her COCOA PEBBLES. I'm crying over cereal.*
+What cost it: the kiss gets retold nearly word for word from last chapter. Salt and lime, "not a demand, a *please*," "the little hard points," "somewhere we could never." I get that the retelling under his hands is the point, but I read those lines twelve hours ago in book time. And there's a little narrated self-explanation ("She should have felt something about that… It felt right," the cheating-rule paragraph) where the scene had already said it. The inch-for-truth mechanic runs maybe two rounds longer than it needs to.
 
-GATE 64 — Some of Mine
+1 a.m. text: *she drove to pace at 1am to fuck randi out of her head and he made her TELL HIM THE KISS inch by inch for orgasms. then "do you want to sleep with a woman." then "I don't mind." then she lied to him for the first time. under randi's blanket. monday is randi's night. I'm going to be sick and also I need a cigarette.*
+
+GATE 62 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "and that was the size of what she could answer tonight, standing there in her coat: not the other question, the one still open on the desk with no floor under it — only this one, small enough to hold in two hands." The bowl already said it, and the book said it again.
-WHY: It's a short, quiet chapter, but Cassie stepping over the plank and handing her cereal is the cleanest act of love in the book, with no game under it. Vee looking for the answer and stepping back from its edge is real. I want Thursday's "bad girl" and Saturday's brunch, but this didn't leave me hungry, just tender.
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "My mouth opened before I decided anything. Her tongue — it wasn't a demand, it was a *please.*" That's last chapter's kiss read back to me almost verbatim.
+WHY: The "tell" game from chapter 6, run on Vee with her own pleasure as the price, makes the sex and the betrayal the same scene, and it's the hottest and scariest the book has been. Her first lie and his "I don't mind" are the bond turning under both of them, each hiding the same woman. Tuesday is circled and so is Monday, and I'm reading on.
 
 LEDGER
-+ LOVE: "Do you want some of my Cocoa Pebbles?" Cassie feeding her, a want the size of a bowl, nothing asked back
-+ LOVE: Cassie stepping over the years-old sorority plank without once looking down
-+ SUSPICION: When Vee is cornered she accuses the other person of being the one who wants it, first Pace ("you want Randi"), now Cassie ("you don't like her")
-+ WAITING: "Is this what you want?" Vee went and looked, hit the edge of something large, and stepped back. Whether she ever looks again
-~ W63.7 SHIFTED: Cassie traded "what was that" for "is this what you want," and Vee still has no answer, only cereal
-~ S63.5 DEEPENED: Still no word on what Cassie saw, and Vee is reading it off her own neck like a postmark
-~ L4.1 DEEPENED: "You didn't have dinner," not a question, and the box held out
-~ W3.7 DEEPENED: The feeding thread reaches Cassie. The one person who feeds Vee and wants nothing for it
-~ F4.2 SHIFTED: Vee picked the old fight to lose her, and Cassie wouldn't be lost
-~ G1.7 DEEPENED: The closing paragraph explains the bowl after the bowl had already said it
++ FEAR: Pace carries every inch Vee paid him tonight into Randi's bed on Monday, and the "show" Randi almost believed comes back to her as Vee's confession
++ FEAR: "No. Nothing." Her first lie to him, and he watched the roadhouse kiss with his own eyes. When it surfaces, he'll be the one holding the receipt
++ SUSPICION: "You keep saying her name. Not me… I don't mind." That's Pace lying to cover how much he wants Randi, and Vee took it as the sweetest thing he's ever done
++ SUSPICION: "Do you want to sleep with a woman?" isn't idle. It's the threesome pitch, made to her face for the first time with the name carefully left out
++ LOVE: Her hand held to her breastbone "like something she'd caught stealing," and *boyfriend* reached for like the rail on a stair
++ LOVE: "It didn't stay a joke," said quieter, the one true thing that got past her teeth
++ GRUDGE: The ch61 kiss gets reprinted line for line inside the telling, and the inch-for-truth game runs a couple of rounds too long
++ WAITING: Tuesday, seven o'clock, Marsh's room. What face Vee finds for Randi, and what Randi already knows by then
+~ F61.2 CONFIRMED: She walked in with Randi's taste on her, and Pace pulled the whole kiss out of her before morning
+~ W61.8 ANSWERED: She told him the kiss, every inch of it, and lied about everything around it
+~ L6.1 DEEPENED: "Tell me" turned on Vee, with her own body as the coin. The debrief has a third chair now
+~ F47.1 DEEPENED: He tucked Randi's cashmere up around her himself, on the night she confessed Randi
+~ F55.1 DEEPENED: He's not just pitching Vee to Randi now. He's pitching Randi to Vee
+~ S16.6 DEEPENED: Randi's skirt on her, Randi's taste in her mouth, Randi's blanket over her, and she couldn't tell "which of them she'd been chasing at the end"
+~ F42.3 DEEPENED: Now Vee is keeping the word too. All three of them are lying about Randi in the same bed

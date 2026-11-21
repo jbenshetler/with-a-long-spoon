@@ -1,32 +1,32 @@
-*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 15c128a453f7 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 8b17e3d720a1 · 2026-11-06*
 
 REACTION
 
-Finally. She asks it out loud, in his doorway, with her coat buttoned and her hands in her pockets, and I wanted to cheer. The withheld kiss is the best beat in the chapter. She makes him arrive at the fact of it, and the book lets me watch him not understand. After five chapters of the ache circling, this is the first time she acts on it.
+Okay, this is the chapter the "he never said" thread has been building toward, and I'm glad it finally blows up out loud. Vee wakes in the dark and asks "Is this what we are now?" at the wrong volume. That is the funniest, truest detail in it. She meant it light and it came out sharp enough to ring. Pace taking the question seriously and saying "Where do you want to go tonight?" is classic him. He answers the logistics and skips the question.
 
-"Words are cheap. Believe what I do." is the line I knew was coming, and it still landed like a slap. It's the blurb's own sentence, spoken by a man who is not cruel and is therefore worse. "Do any of your friends have a relationship you'd rather have than this one?" is a masterpiece of a dodge. It's true, so she can't even win the point. And then her answer, "Words are cheap, and you still won't spend them on me," is her best line yet.
+The Chili's scene is the one that got me. The TV over her head, his eyes sliding past her, the fork squared to the table edge. She reads it as irritation at being seen with her. I know that's wrong, because he told her himself that a loud room means he can't hear. But the book makes me sit in her misreading for pages. Then he says it plainly, "I'm listening now," and she takes it as near enough to the word. Dread: she has now defined his silence as listening. Also, the nachos "to food what a billboard is to a painting" is a lovely line. He ruined it for her, as I said, and that cuts both ways.
 
-He folds his arms and holds the line "at cost." That's the detail I'll keep. He knows what he's refusing her. This is choice, not blindness, and I'm angry at him in a way I like. Then the hand reaching for her, "not the hand in place of the word," is the book finally refusing to let touch substitute. She leaves. I'm cheering and also heartbroken.
+Her lie in the front room, "you went cold on me after the Rusty Nail," when she knows it isn't true, is the book trusting me to see her get mean out of fear. I liked that a lot. "You know what happened after the dance" is Pace at his most infuriating and his most reasonable. Both.
 
-I did notice something. "You're the most important person in my life" is a real answer, and she brushes past it fast. I wondered if she's being unfair, then decided no, because it's a thing and not a name.
+The sex is hot, and the best part is her wanting him to lose control and then getting it. But the book keeps handing me her thoughts about it ("the control she'd been begging him to lose") when the scene could have trusted itself. And the closing page, the "marked all over" paragraph and "he'd given her all of it and not the name," tells me what I already got from chapters 32 to 38. That's a grudge. Same beat again, third time.
 
-Still no Randi, still the plot hasn't turned, but this is a scene, with a door slamming. The speech is long and a little self-explaining, though in dialogue it earns it. The beat I want next is where she drives to, and my bet is Randi, which is the worst possible answer.
+Still no Randi at all, and nothing moves in the plot. The word is still unsaid, the forgiveness is hollow, and she's lying awake. I'm hooked on her but I want a turn.
 
-GATE 41 — Believe Me
+GATE 39 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "I want to know what we are." (the long speech laying out everything the book has already shown me)
-WHY: The withheld kiss, "Believe what I do," and her walking out are the confrontation the whole stretch has been building toward. It's finally a scene instead of an ache, and I need to know who she turns to.
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find" (the closing paragraph restating the book's central ache for the third time)
+WHY: The misread Chili's dinner and "I'm listening now" are exactly the dramatic irony I read for, and the sex lands. But the unnamed-thing ache is now a loop, and I need Randi, the scar, or the plan to break through.
 
 LEDGER
-~ W40.2 ANSWERED: In daylight she asked him straight, in his doorway, and he gave her "believe what I do."
-~ F38.1 CONFIRMED: He heard the question, took it seriously, and chose the dodge, holding the line at cost.
-~ W32.6 RESOLVED: She asked outright and he still wouldn't say the word.
-+ FEAR: She drives to Randi next, and Randi turns the breakup into the thing that finally pulls her fully in.
-+ LOVE: The withheld hello kiss, and him not understanding why.
-+ LOVE: "Words are cheap, and you still won't spend them on me."
-+ SUSPICION: His silence is a deliberate vow tied to the Randi plan or to his past, not just temperament.
-+ WAITING: Where Vee goes tonight, and whether Pace tells Randi or goes after her.
++ LOVE: Her "Is this what we are now?" coming out at the wrong volume, and him answering with "Where do you want to go tonight?"
++ GRUDGE: The "he never named it" ache has now been restated in at least four chapters, and I want it to move.
++ SUSPICION: Pace's noise trouble in loud rooms ("I still can't hear you") may be hearing or sensory trouble tied to the scar or his past, not just a preference.
++ FEAR: Vee's "forgiven" is a cover for not asking, and the silence is now something she has agreed to live inside.
+~ F32.3 DEEPENED: She now reads "I'm listening now" as near enough to the word, so his non-answers are officially love in her ledger.
+~ W32.6 DEEPENED: She nearly said the word and asked "what are we" aloud, and he answered with dinner plans.
+~ F37.3 DEEPENED: She now asks outright about being seen in public and he agrees without saying anything about the nights.
+~ W30.3 DEEPENED: Another glow chapter with no turn, so I need a plot move soon.

@@ -1,32 +1,29 @@
-*capture-dag-v3-grounded · gate ch028 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha ec3c41639caf · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 148c522f7f34 · 2026-11-12*
+*capture-dag-v3-grounded · gate ch028 · gpt-5.6-sol · queer-woman · prompt-sha 087c5d62badd · prose-sha 54798f8e8c0b · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 6be59eaedda4 · 2026-11-12*
 
-REACTION — Oh, I loved this. I loved it almost indecently.
+REACTION — Randi saying “I haven't stopped thinking about her” while Pace is inside her should have felt like another evasion, and partly it did—but it also felt like a threshold. The wanting is no longer hidden inside what Pace did with Vee or what Vee feels for Pace. Randi is aroused by the sound Vee made for *her*, by the softness and strength under her own hands, by having Vee stand still and let her circle and look. She claims that memory as hers, uses Pace to intensify it, and still cannot say any of it to the woman she wants. God, it was hot. God, I am tired of Vee being the only person in this arrangement who does not know what her own morning meant.
 
-The absences are what made it possible. Her mother is not there to put shame on the body; Pace is not there to receive the dress as evidence of his own exquisite knowing; Randi is not there to watch the woman she helped style and say, in that pleased way, *there she is.* Vee is carrying things all three of them gave her—the shame, the silk, the shoes—but when her name is called, nobody is close enough to tell her what any of it means. The second step belongs entirely to her.
+What frightened me more was how neatly Randi and Pace experienced the deception as intimacy Vee has freely created between the three of them. Pace is warmed that Vee went to Randi, “without him,” while Randi is literally bringing Vee's tears, body, involuntary sounds, and planned return back to him. He protects the exact words Vee said at the bar because those belong to her, yet accepts the rest of her most vulnerable morning as erotic material. The boundary is real to him. It is also absurdly, disastrously narrow.
 
-And the difference from the dance is so important. There, “the decision pulled from her somehow,” and Pace’s body carried away the question of who was authoring the pleasure. Here Vee decides first: she makes the step long. Her body agrees a half-second later. The heat does not install the choice or reveal some truer answer another person already knew; it rises to meet the thing she has chosen to do. I felt almost giddy reading it. Pace made the dress, but he did not make this walk.
+And Randi touching the concealed top of the bench while telling Pace about Vee—I do not trust that for one second. She knows what is underneath. Her bracelet is moving. She is remembering herself there while arranging Vee's entrance tomorrow night. The bench has been quiet for twenty-four chapters, and suddenly I could feel it under the whole scene.
 
-It was extremely hot. The secret choreography of keeping the slit closed, sitting decorously with nothing beneath the silk, then deliberately giving the room the whole bare line of her leg—it is public exhibition without public confession, and she controls both the exposure and the concealment. The room gets the image. Vee keeps the meaning. After so many chapters in which Randi and Pace have privately possessed meanings Vee did not know existed, that reversal felt delicious.
+Then Sheri. I like her instantly, which is inconvenient. She is blunt, funny, loyal, queer, and apparently the only person outside the conspiracy who can look at Pace's situation and say the obvious thing: this is already complicated. Pace spilling all those tender, useless details about Vee—the chair joint, the math book—made his love unmistakable. But his “not yet” followed by Sheri's laugh made me cold. To them, Vee's ignorance is a temporary stage in a charmingly difficult romantic arrangement. Nobody in that conversation pauses over the fact that she is the only one whose reality would change if all the people around her compared notes.
 
-Even sending the photograph to Pace did not surrender it. He will see the dress accomplishing what he made it to accomplish, and he will believe he understands the picture because his care is genuinely inside it. But he does not know about the heat, the long second step, or the private decision to wake the room. Vee finally has an erotic fact Pace cannot read off her body and Randi did not question out of her. I want her to keep it as long as she wants.
+Randi’s “Give her a day” is the line I keep hearing. She says it like a gift to Pace, a promise that Vee will arrive beautiful and correctly composed. Pace notices that the day is being treated as his to give, but only sets the thought aside. Tomorrow Vee believes she is walking in to repair something she broke. Randi believes she has prepared Vee for the next step. Pace believes he is simply leaving space. Those are three completely different meanings occupying the same doorway, and I am already there waiting for the knock.
 
-And Cassie, thank God. “Not horrible. Just honest” is exactly her kind of love: no bright repair, no replacement interpretation, no demand that Vee feel the proper daughterly feeling. Then she takes the photograph instead of interrupting the moment, sees that Vee commanded the room, and hands the image back without telling her what kind of woman it proves she is. “You can be famous at me” nearly made me cry. Cassie remains the only person who can witness Vee becoming larger without needing to have authored the enlargement.
-
-The mother’s absence hurt, though. That bright phone voice around what they cannot afford, and Vee’s relief that the woman who taught her shame cannot see what she is wearing beneath the honor—that is not freedom without grief. But for once the grief does not get to collect the pleasure as payment. Vee walks out still letting the slit swing, with Cassie beside her, and does not have to settle whether it is pride or heat. I don’t need her to separate them. I love that they may have become the same thing.
-
-GATE 28 — The Induction
+GATE 25 — Space
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 8
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Vee takes the dress and shoes others selected for her and creates a public erotic act that nobody else planned, witnessed closely enough to interpret, or gets to understand completely. I’m deeply satisfied rather than cliff-hung, but I want to see whether she can keep this meaning as hers when Pace sees the photograph and Randi eventually hears about the walk.
+ALMOST-STOPPED: “it warmed him that the two of them had that between them without him.”
+WHY: Randi finally claims her desire for Vee as something her own hands and gaze created, but she claims it to Pace during sex while Vee remains the only person denied its meaning. Pace’s love is now obvious even to Sheri, and tomorrow’s supposedly open space has been so thoroughly prepared by Randi that I need to see whether Vee can still enter it as herself.
 
 LEDGER
-+ LOVE: Vee making the second step long, waking the room with her bare leg, and keeping the erotic meaning of it entirely for herself.
-+ WAITING: I need to see what Pace reads into the induction photograph—and whether Vee tells Randi what happened inside the dress.
-~ F14.1 SHIFTED: Pace’s dress becomes the instrument of a transformation Vee authors while both Pace and Randi are absent; disclosure may still wound her, but they cannot truthfully claim the long step or the heat that answered it.
-~ L7.2 DEEPENED: Vee’s body belongs only to her not just underwater and unseen, but in a room full of eyes she deliberately summons and controls.
-~ L19.1 DEEPENED: Vee’s private stride through Pace’s house becomes a public walk of her own invention, with the slit opening to her bare hip because she consciously chooses the longer step.
-~ L20.2 DEEPENED: Cassie documents Vee’s commanding entrance, reads her pride without prying into its private heat, and offers celebration without claiming any part of the woman Vee has become.
++ SUSPICION: Randi’s hand on the concealed bench and the bracelet moving there mean she is imagining Vee on it—or imagining herself and Vee inside the scene that first made this plan possible.
+~ F4.1 DEEPENED: Pace feels warmed that Vee went to Randi “without him,” even as Randi carries Vee’s tears, body, sounds, and planned return straight back to him; the concealed destination now masquerades as an intimacy Vee independently built.
+~ F5.1 SHIFTED: Randi’s desire is finally unmistakably direct—she wants the response Vee made to her own hands and says she cannot stop thinking about her—but she still turns that desire into sex with Pace instead of addressing Vee.
+~ W5.4 DEEPENED: “I haven’t stopped thinking about her” is Randi’s clearest ownership of her own desire, but she says it to Pace while using Vee’s unknowing response as erotic material; Vee still receives no direct word.
+~ F8.2 DEEPENED: Pace’s spontaneous flood of tender details to Sheri makes clear that his attachment to Vee has become love-like and self-sustaining, while Randi remains the person who delivers Vee to him in stories and promises.
+~ S21.2 DEEPENED: Pace cannot stop talking about Vee’s attention to his chair and books, and Sheri hears what he cannot: he is gone on her in a way that exists beyond the imagined threesome.
+~ S24.1 CONFIRMED: Randi explicitly promises Pace that Vee will come after the day Randi ordered her to wait, already dressed and composed according to Randi’s instructions; she prepared the apology as an entrance for both of them.

@@ -1,46 +1,46 @@
-*capture-dag-v3-grounded · gate ch060 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed c13ecbe43be3 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch060 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed 06e9ec9d7562 · 2026-11-06*
 
 **REACTION**
 
-He asked for bare so he could paint her. That's the reason he never gave her. Okay. I spent two chapters sure the waxing was Randi's idea routed through Pace's mouth, and the book answered with a canvas. Sondra's room was Vee being handled with nothing behind it. This chapter is the same body getting handled with everything behind it: "Keep still," the same two words, from the right hand at last. Last chapter left a hole a mile wide where his hand should have been, and this chapter fills it one brushstroke at a time. That's real structure and I felt it in my chest.
+"And you liked it."
 
-The scar. "Not this time." She puts her mouth on it once, asks it nothing, and keeps going. And he lets her. Twice before he moved her hand off it. After last week's "weren't safe," that one soft kiss carried more than any confession could, and the book didn't stop to make it a moment. I loved that so much.
+That line is flat, with "none of the evening's music in it at all," and it's the first time in fifty-eight chapters that Randi has asked Vee a question she was afraid of. Every other question at every other table has been a lever: *did you take it all, how much could he see, how does he act.* This one wasn't a lever. Her thumb stopped mid-knuckle on "enjoying herself," and Vee felt it under her skin before she saw it. Then came "No." Too fast. Then "Not my thing," patched on smaller. I laughed out loud, and it wasn't a nice laugh. Honey, you laughed a month of jealousy out of your body on a taproom floor because a woman looked at your legs like dessert. Then you sat here and told your best friend it was "the best thing that's happened to my legs in a Virginia January." Now it's "not my thing," and the answer came out "all by itself."
 
-The brush rule got me: "Still meant the brush. Moving meant the brush going away." It's the bench's *not yet* from chapter 1, played as a game instead of a punishment. She has to stop holding still the hard way, guarded and rigid, and just give her weight to the bed. I've been scared of "she holds still on her own, nobody had to tell her." This is that same stillness, offered to the one man who should get it, and it's what makes her come. Then the gesso. He paints her with her own wetness. Her worst shame, "the shameful plenty of her," literally becomes the ground the picture sits on. Then the reach comes back: no kiss followed that color, and she wonders what it would taste like. Later, when she kisses him, there's a trace she can't separate from everything else, and she lets it go. That isn't her closing the reach, but it's the gap getting narrower. And "no shame came" over the photo, with no mother's voice anywhere. That's the arc.
+What wrecked me is that Randi didn't move. She didn't reach and didn't laugh. Vee read the stillness as Randi standing guard against a rival, and felt warm and looked-after. "She's not a threat," she says gently, to the one person at that table who heard it as the cruelest sentence of the night. Randi isn't worried about Sheri taking Pace. She's worried about Sheri being the first woman Vee let enjoy her out loud, and she isn't Sheri. "I know she isn't, gorgeous." Vee was handing Randi the win and handed her a wound by accident. I'm going to think about that for a while.
 
-Small ones: "Oops. Sorry." with the breast, chapter 14 again, and him *wearing* the orange smear on his cheek. The cherry pit put warm into his palm, the way he picked hers up off the rock in chapter 10. And "Subtle," hoarse, in Vee's mouth. That's Randi's word, from Randi's bed, a week ago. Vee doesn't know. I did, and it chilled me.
+Then the kiss. The jacket said she'd tell herself it was nothing "when the goodbye kiss outlasts the goodbye," and here it is, almost word for word. Vee turns her face up first with her eyes already closed, waiting on the hand at her jaw. Randi opens the kiss "and this time it stayed." The neck kiss is "in passing," and "neither of them said a word about it." Nobody pretends to be ticklish anymore. Nobody covers. They're just not saying it. That's a turn, and the book did it in four lines without explaining it to me. Thank you.
 
-Then the ending. He never asked for a copy. "So nobody on earth had seen it but her." She tries to hear Randi's hoarse voice over this one and *can't*. "She would not be telling her about this." It's the first thing she's ever kept from Randi on purpose, not because chairs got stacked. She tells herself it's because it's "too much." I think she can't stand to find out what Randi's face would do with it. And what is "the skirt, the mixer"? Randi has a plan for tomorrow and I'm not told what. Brooke said choose.
+The waxing has my suspicion radar screaming. "He asked me for something. Sunday. In the kitchen." I was *in* that kitchen on Sunday and it never happened on the page. The book is handing me an offstage request, and I hate that a little as craft. But look at where it goes. Randi knows a woman on Draper Street by name, says "tell them I sent you," and lines up the whole week behind her eyes. Thursday night in his bed Randi said she wanted Vee to "know exactly what she does to me," and three days later Pace asks Vee to get her body changed. Whose idea was bare? Is Vee being made to match? Is Randi going to be in Vee's body without being in the room, the same way she's in the shoes, the scarf and the blanket? The hau wants to go home. And "Barely stings"? I don't believe Randi about pain. She presses glass rims under her nails for fun.
 
-What it cost: the painting runs long. The lift-and-return rule plays out maybe ten times, and by the cantaloupes I was skimming for the next fruit. It's also a body-paint-and-food-play fantasy that sits closer to the KU shelf than this book usually lets itself go. Pace being a painter on top of everything else is the merit-badge man again. And "He had taken every part of her the world called too much... made abundance the whole point" tells me what the photo had just shown me.
+Small things: Randi ate to the middle of the fillet and laid her fork across it. Vee pushed a gnocchi to the edge and left it there, and she *never* leaves food. Something in her isn't fully hungry tonight. And that last line: "The other part she didn't write down. She had that one cold." Randi's name in the first sentence? The kiss? It's both, and I love that it's both.
 
-1 a.m. text: *he made her wax so he could PAINT her. a fruit still life. with her own wetness as primer. she kissed his scar and he LET her. and then: "she would not be telling randi about this." first secret ever. also she said "subtle." RANDI'S WORD.*
+What it cost: this is the third telling of the Sheri night in three chapters. Two colors of hair, round face, the doorway hug, the porch coffee and the landlord's lock again, all of it. It's brunch template number whatever: coat lining-to-the-wall, wine, the confession, the curb kiss, "Thursday, gorgeous, walk fast." I skimmed the first page. The "No" saved it.
 
-GATE 60 — Still Life
+1 a.m. text: *randi asked "and you liked it" in a dead voice and vee said NO too fast and then comforted her for being WORRIED ABOUT SHERI. then the goodbye kiss just… stayed. and pace wants her waxed and randi has a girl. whose idea was that.*
+
+GATE 58 — Between
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 8
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He had taken every part of her the world called too much—the breasts that entered a room ahead of her, the hips that clothes could not make modest, the wetness she could not contain—and made abundance the whole point." The picture had already said it, and the book said it again.
-WHY: It's the most explicit chapter in the book, and every stroke is wired to her shame and then gets past it, with the right hand answering Sondra's wrong one. The scar kiss is the bond turning without a word. The painting game runs long and smells a bit like a trope, but that last line, keeping this from Randi, plus a mystery mixer tomorrow, means I'm reading on.
+ALMOST-STOPPED: "The hair: two colors, dark at the roots and going light at the ends, permed where it came down over her collar." That's Sheri described to me for the third chapter running, and I was skimming.
+WHY: The Sheri recap and the brunch shape are tired. But "And you liked it" / "No," followed by Vee comforting Randi for the wrong fear, is the sharpest misreading in the book, and the kiss that stays is the jacket's line coming true on the page. The offstage waxing request smells like Randi's hand, and Friday is a date I want to see.
 
 LEDGER
-+ LOVE: She kissed the scar once, asked it nothing, and he let her. "Not this time"
-+ LOVE: "Still meant the brush. Moving meant the brush going away." The bench's not-yet turned into a game, and her giving up the guarding is what lets her come
-+ LOVE: The cherry pit put warm into his palm, and him wearing the orange smear on his face the whole time
-+ FEAR: "She would not be telling her about this." It's the first thing she has deliberately kept from Randi, and it's the photo Randi's voice couldn't reach. When Randi notices the gap, it will land hard
-+ SUSPICION: "Subtle" in Vee's mouth is Randi's word from Pace's bed. The two women are speaking each other's lines now
-+ WAITING: Tomorrow is Randi's, "the skirt, the mixer." What Randi has planned, and whether it has to do with Brooke's "choose"
-+ GRUDGE: The brush-lift rule repeats so many times that I skimmed the middle fruits, and Pace adds painter to his merit badges
-~ W59.6 ANSWERED: His hand found it, and the why was a canvas. He wanted her bare to paint her
-~ S58.1 SHIFTED: The waxing was his own idea, for the painting. Only the waxer was Randi's
-~ L59.2 RESOLVED: The right hand finally said "Keep still," and filled the hole the wrong one opened
-~ F59.4 SHIFTED: Holding still turned into a surrender to the right person, and the right person used it to give, not take
-~ W16.2 DEEPENED: She kissed it and he didn't stop her. It's still unasked, but no longer refused
-~ W54.1 SHIFTED: She wondered about the taste openly, got a trace off his mouth she couldn't separate out, and let it dissolve
-~ L10.1 DEEPENED: "No shame came. Pride did." No mother's voice at all over the photo
-~ L14.2 DEEPENED: "Oops. Sorry." The breast to his face again, this time with paint, and he keeps the print
-~ L33.4 DEEPENED: He took the photo, handed the phone back, and never asked for a copy
-~ G1.7 DEEPENED: The "abundance the whole point" paragraph explains the photo I'd just looked at
-~ G13.7 DEEPENED: Painter, too
++ SUSPICION: The waxing request is Randi's want routed through Pace. She told him Thursday she wants Vee to know what she does to her, he asked Sunday, and Randi has the woman, the street and the script ready
++ FEAR: Friday at Sondra's puts Randi's taste into Vee's skin. It's another Randi gift worn on Vee's body, and it will "pull home" when the truth comes out
++ LOVE: Randi's thumb going still on Vee's knuckles at "enjoying herself," and "And you liked it" with no music in it
++ LOVE: The goodbye kiss that "stayed," with Vee's face turned up first, eyes closed, waiting on the hand
++ GRUDGE: Pace's waxing request happened on a Sunday I read, offstage, and arrived secondhand as a plot delivery
++ GRUDGE: The Sheri night told for the third chapter in a row
++ WAITING: "The other part she didn't write down. She had that one cold." Whether it's Randi's name or the kiss, and what she does with it
+~ W57.6 ANSWERED: She handed Randi the win and saved the look for last, and the look landed on Randi like a blow
+~ S56.3 DEEPENED: "No. Not my thing," too fast, about a look that made her laugh out a month of fear
+~ S47.2 DEEPENED: She lifts her face for the kiss first, and the neck kiss goes uncovered on both sides
+~ S51.5 DEEPENED: No "ticklish" this time. The neck kiss happened, and neither of them said a word
+~ F51.3 DEEPENED: Randi's waxer, said in Randi's name, on Vee's body. The hau is moving into her skin
+~ F1.3 SHIFTED: No nail under a rim. Her thumb just stopped on Vee's hand, and that's the tell now
+~ W3.7 DEEPENED: Randi ate to the middle of the fish and laid down the fork. Vee pushed a gnocchi aside and left it, the first food she's ever left
+~ G9.7 DEEPENED: Same loft, same coat on the hook, same wine, same curb kiss
+~ F42.3 DEEPENED: Vee reads Randi's stillness as guarding her against Sheri. She's misreading the love sitting right across from her

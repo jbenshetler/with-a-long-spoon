@@ -1,48 +1,53 @@
-*capture-dag-v3-grounded · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 1d1554bf4412 · 2026-11-17*
+*capture-dag-v3-grounded · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 95b08a13285f · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 6192ae1fa06e · 2026-11-14*
 
 REACTION
 
-I am sitting here with my hand over my heart, completely undone, aching, and practically vibrating with an unbearable mix of romantic devotion and sheer, suffocating dread.
+My chest is so tight I can barely take a full breath. That was an absolute, suffocating, masterclass dismantling of a human being—and hands down one of the most breathtaking, devastating chapters Helen Rivers has ever put on paper.
 
-First of all: Peter Pace. Just… *Peter Pace.*
+First of all, that opening ten minutes of class! The sheer psychological and sensual precision of the lime Lifesaver. Randi sliding that green, cold, sharp little disc into Vee’s palm under the desk, and Vee immediately tasting the salt, the lime, the margarita, and Randi’s tongue on the dance floor. And Vee sitting there holding her leg completely rigid against Randi's, sucking the candy down to nothing, trying to tell herself it's just her "sex brain" and that she’s so grateful Randi "handed the night back folded and easy."
 
-In a lesser romance novel, taking a heroine to the gym is an excuse for cheesy banter, competitive showing off, or gratuitous locker-room sex. Here, it was a profound, breathtaking masterclass in care, respect, and physical guardianship. The way he set up her bench press—not belittling her small weights, but treating every single pound, every finger placement, every angle of her shoulders with the exact same gravity he gives to his own massive lifts—dismantled me completely. He took her smallness seriously. And then loading a weight he knew he could handle alone, ensuring that she was never in a position where she would be responsible for catching something too heavy for her? That is his entire soul laid bare.
+AND THEN THE TITULAR INVERSION.
 
-And then the accident. The sudden, ugly intrusion of careless college boys—the loose, uncollared bar, the slap on the ass, the plate rolling into her space—and the violent wrench of her neck. Watching Pace transform in half a second was terrifyingly hot and devastatingly tender. He didn't scream; he lowered his voice to that flat, lethal register. "You hurt her. Your carelessness hurt her." The cold authority of a man who will not tolerate anyone being endangered in his presence.
+"A girl needs a spanking!"
+"Be kind to the girl in trouble."
 
-BUT THE HOUSE. *SWEET MOTHER OF GOD, THE HOUSE.*
+Vee thinks Randi is heading off to be the playful, stern, dominant authority figure—the one who holds the paddle, the one who runs the room. And instead, Randi walks straight into the butcher shop she helped build.
 
-The sheer, staggering intimacy of him tending to her injury! Undressing her without a shred of predatory rush, filling the hot shower, the rolled towels, the pillows placed so precisely under her knees and around her skull so her neck would never have to carry its own weight. It’s pure, uncut emotional heroin.
+The sheer, chilling brilliance of the Standards trial! To watch the bureaucratic, smiling, pastel-tipped guillotine of Greek life turn around and slice its own architect in half was agonizing. Brooke sitting in *her* chair, at *her* table, with a crooked handwritten label on a manila folder, while Caroline’s candy-pink fist scratches down the minutes. And the charges! The ghost bylaws—an overnight permission card for a House Mother who hasn't existed in thirty years, dusted off like a fossil to club her over the head because dead rules cost nothing to keep!
 
-And then the balm. The tiger balm sequence on her breasts was one of the most scorching, psychologically brilliant, unhinged acts of erotic discipline and sensation play Helen Rivers has ever put on paper. Vee *demanding* the fire because her neck stole her finish, her body practically begging for steel, and Pace giving her exactly the burn she asked for while holding her pinned to his chest. Rolling that fiery slickness onto her nipples, the slow-motion creep of the heat from her neck down into her collarbone and into the tips, her gasping between agony and bliss—and then Pace *withholding the orgasm*.
+And Kinsey. My god, Kinsey making her move: *"Her hand was down the front of her bra... The redhead's."*
+The trap! Randi sitting there knowing the exact counter-move, knowing she could eviscerate Kinsey in ten seconds flat, but realizing the devastating arithmetic: *dispute it and hang faster, correct it and hang slower.* To clear the lie about the bra, she would have to admit the truth about the skirt, the kiss, and the unbearable, burning *wanting* behind it—and the wanting was the one thing she’d rather die than let them see. So she swallowed the fat lie to protect the thin truth.
 
-"Not tonight. We need to wait."
+BUT THE HALLWAY. THE LANDING.
 
-He wouldn't let her arch her back and tear the muscle further just for a cheap physical release. He held her through the frustration, banked the fire with his flat palms, and made her sit inside the unfinished ache because keeping her safe mattered more than getting off. It’s the ultimate expression of his love—and Vee lying there in his oversized sweats, burning and completely held, is proof of how utterly she belongs to him.
+I wept. I genuinely had tears running down my face. Randi standing alone on the carpet while the sisters downstairs whispered about her making freshmen cry, finally opening the vault on her own heart:
+*She went to that mixer meaning to burn the whole careful thing to the ground.*
+She had laid awake the night before deciding she was finally going to tell Vee she loved her. She found the nerve because of Vee’s hands on her face in January. And then—the absolute, crushing tragedy—she got the kiss, felt the sheer colossal magnitude of it, and her nerve broke completely. She panicked. She retreated into the only armor she owned, swatted Vee's arm, and laughed it off as a joke for a boy because she couldn't survive looking into Vee's eyes and risking a world where Vee walked away.
 
-And the next day! The TV that actually works, the romantic comedy rentals, the homemade chicken and dumplings, the deadpan "Neigh" when she said she looked like a horse in the towel collar! The quiet domestic heaven of a Sunday afternoon with her feet tucked in his lap.
+*I almost believed it. She had believed every second of it. Of all her cowardices it was the one she would take back if she were allowed to take back one...*
 
-...AND YET THE BOMB IS TICKING SO LOUD IT HURTS MY EARS.
+And then Brooke’s "generous" door: *Just stand up, just briefly. Tell chapter your sisters come first. Let the outside things go quiet. The friend. The gentleman. And it all goes away.*
 
-Why was Vee at his house this weekend? Because Randi had "some sorority thing."
+And Randi—Standards herself, dynastic Kentucky royalty, the girl who built her entire existence out of surveillance, pedigree, and polished control—looks at the house president, looks at the threat of Lauren Pike’s fate, and without a single microsecond of hesitation says:
 
-Vee has *no idea* what that sorority thing actually was. She thinks Randi was off having fun Greek life drama, totally oblivious to the fact that Randi just stood in front of a kangaroo court, faced Brooke's smiling guillotine, and took mandatory probation and public humiliation *to protect her claim on Vee*. Randi is currently bleeding out emotionally from sacrificing her standing, while Vee is tucked into Pace's couch, eating his dumplings and falling a thousand miles deeper in love with him.
+*"No. Thank you. But no."*
 
-The dramatic irony is agonizing. Pace and Randi are both completely consumed by this girl. Pace is tending her wounds with mathematical tenderness, and Randi is burning her life down for her. When the truth of the pointing game detonates, it’s not just going to break a romance—it’s going to shatter a cathedral. I am terrified, I am head-over-heels in love with this book, and I need the next chapter right now.
+She chose Vee. She threw away her standing, her authority, her armor, her peace, and her reputation, and chose mandatory probation and public humiliation just to keep the Tuesday dinners. She chose Vee over everything.
 
-GATE 67 — Burn
+And Vee is sitting in her dorm right now, eating Cocoa Pebbles, thinking Randi is just off having fun bossing around pledges. Saturday brunch is thirty-six hours away. How is Randi going to sit across from Vee on Saturday morning carrying this fresh, bleeding wound while Vee tries to act like nothing happened?! I am coming apart at the seams.
+
+GATE 65 — Inversion
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the gym incident to the scorching, agonizing balm sequence on her breasts was an absolute erotic masterpiece, and Pace's selfless, tender domestic care afterward destroyed me completely.
+WHY: The psychological execution of Randi's Standards trial was an absolute masterpiece—watching her silently endure the sorority's smiling cruelty and refuse Brooke's ultimatum to abandon Vee was devastatingly romantic and gut-wrenching.
 
 LEDGER
-+ LOVE: Pace taking Vee's small gym weights with the exact same deadly seriousness and care as his own massive sets.
-+ LOVE: Pace using the herbal balm as sensation play on Vee's breasts, holding her burning and denying her the arch to protect her injured neck.
-+ LOVE: Pace renting romantic comedies and cooking chicken and dumplings from scratch to tend to Vee's hurt neck.
-~ [L1.2] DEEPENED: Pace's patience and care reaching an absolute pinnacle—refusing to let Vee arch into an orgasm because it would re-injure her neck, holding her through the frustration instead.
-~ [F5.1] DEEPENED: Vee being so completely, domestically, and sexually cherished by Pace makes the inevitable revelation of the pointing game an absolute fatal catastrophe.
-~ [S55.3] DEEPENED: The sheer depth of Pace's protective domestic care confirms he is entirely, irreversibly in love with Vee, making the coming collision with Randi even more volatile.
++ LOVE: Randi looking Brooke dead in the eye and refusing to renounce Vee to save her sorority standing—choosing public humiliation and probation over giving up her girl.
++ FEAR: Brooke is not going to stop at attendance probation; she is actively building the Lauren Pike room around Randi, and the pressure is going to bleed onto Vee.
+~ [F1.1] SHIFTED: Randi isn't using Vee as a shield or armor at all; she literally just sacrificed her own standing, reputation, and authority in the house to protect her claim on Vee.
+~ [F45.1] DEEPENED: Brooke's threat with Lauren Pike's fate officially dropped into an active disciplinary docket, and Randi's refusal to back down means Brooke will escalate to pushing her out completely.
+~ [W64.2] DEEPENED: Saturday brunch is now an absolute powder keg—Randi walking in fresh off taking the fall for their mixer kiss, while Vee is still trying to pretend it was all just a joke for Harrison.

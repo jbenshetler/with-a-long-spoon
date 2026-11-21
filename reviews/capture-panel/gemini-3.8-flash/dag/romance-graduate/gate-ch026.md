@@ -1,52 +1,39 @@
-*capture-dag-v3-grounded · gate ch026 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 5b079dfd86a6 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch026 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed f2824d38c78b · 2026-11-06*
 
 REACTION:
 
-I am sitting here with my jaw clamped shut, my heart hammering in my throat, trying to process what just happened.
+Oh, god. My stomach is in actual knots.
 
-The beginning of this chapter had me clutching my chest. That entire doorway sequence—Vee standing there in Randi’s cognac heels, realizing all at once that she’s looking *down* at him by two inches, the sheer, spiraling humiliation of feeling like she’s disrespecting him all over again, the supermarket pie labeled *HUMBLE PIE* sliding against her chest—it was so excruciatingly, wonderfully real. And Pace! God, Pace. Taking the pie out of her hands, steadying her by the arm, fixing the silk scarf with two fingers, and then dropping that line like a casual greeting: *"Beauty like yours made for the gods and loaned out—I'm not going to insult the loan by complaining I have to look up."* I literally squealed. How does he do that? He completely disarms her every single time.
+The first half of this chapter had me grinning like an absolute idiot. Teaching her to dance on the concrete pad behind the dark gym, with the beat-up boom box and the country cassette, telling her not to be "jelly" and that she had to give him something to push against—it was so impossibly tender, tactile, and grounded. The way Pace leads isn't just physical; it's the exact emotional thesis of how he treats her: *close the space so my feet can't land anywhere but past yours.* He makes her feel utterly safe, completely seen, and capable of moving through the world with grace instead of shame.
 
-And then him refusing to let her hide behind her neat, rehearsed little apology. *"But what happened?"* Making her stand there and confess the ugly, petty truth of the blonde at the bar, and then thanking her for saying it out loud... that was pure, breathtaking emotional maturity. It felt like an absolute triumph.
+And then they get to the Rusty Nail, and the tragedy of Vee’s lifelong maternal poison completely detonates the night.
 
-AND THEN SUNDAY AFTERNOON HAPPENED.
+It hurt so bad because it was so painfully, realistically human. That bleach-blonde barfly slithering up to drop that little drop of venom—"He knows how to get a girl to do just what he wants her to... so good about getting a girl home safe"—landed directly on the deepest, ugliest insecurity Vee carries. The second that mother's voice hissed in her head (*a man like that has girls, and you'd be one of them*), Vee spiraled. The shame of giving herself to him, the fear of being just another notch, just another student he "fixed"—she lashed out before she could even stop herself. And the word *service*... god, you could feel the physical slap of it. Pace didn't even yell. He just went completely still, set his drink down, and walked out. That hurt worse than a scream.
 
-I stopped breathing. My blood went cold and hot at the exact same time.
+And then the bartender laying it out cold and flat: *"Wasn't him they were jealous of, honey."*
 
-The domestic banter in the kitchen was so cute—her hanging off his back lobbying for the "soak," batting him away, playfully swatting him on the ass—and then that one, wet, playful swat back from him. Across her bare ass under the thin shirt.
+Ouch. Utter devastation. The sheer, suffocating crawl of sitting at that bar alone, paying for an expensive, gross cab with money she doesn't have, sneaking into her dorm, and putting on his freshly washed flannel while Cassie sleeps three feet away... I could barely breathe. The agony of self-reproach: realizing she punished a good, noble man for the crime of being beloved, and projecting all her filthy "floozie" shame onto his kindness.
 
-*And her body's immediate, violent, involuntary betrayal.*
+BUT THE ENDING. THE LAST LINE.
 
-The way Rivers wrote that sensation made the hair on my arms stand up. The nipples drawing up into aching points, the soundless *oh*, the bright hot wire of arousal shooting straight up her spine from the sting—and Pace, with his mathematician's terrifying, analytical eye, *going completely still and clocking every micro-expression on her face.*
+*"When it was light she knew what she was going to do... go to Randi's."*
 
-He saw it. He cataloged it.
+NO. NO NO NO NO NO. VEE, DO NOT GO TO RANDI'S.
 
-And the sex that followed! Her trying to drown out what had just happened with manic chatter and frantic motion, climbing on top of him to hide her face in his neck, only for her own hips to pull against the sore skin with every stroke, lighting the fuse over and over—and then Pace sliding his big, heavy, warm palm right over the exact stinging imprint and *bearing down*.
+I literally put my hand over my mouth. She is running straight into the viper's nest to get "advice" on how to win back the man Randi is currently sleeping with and privately crumbling over! If Vee walks into that sorority house and lays this entire raw, vulnerable fight at Randi's feet, Randi is going to have all the ammunition in the world—either to push Vee away forever, or to orchestrate the final trap. My heart is beating out of my chest right now. Turn the page immediately.
 
-*"Please."*
-*"This?"*
-*"Please."*
-
-I had chills everywhere. The absolute, staggering dramatic irony of it. Randi took Vee into her bedroom, dressed her up in her shoes and scarf, primed her like an offering, and told Pace all about her soft thighs... and now Vee just stumbled, entirely by accident, into the exact kink that lives on the hidden bench in Pace's bedroom! The bench he built for Randi. The bench he's been hiding under a tabletop!
-
-Pace didn't force it. He didn't pull her into the bedroom and suggest it. He just saw the wire spark in her kitchen, put his hand on it, and let her come apart around it. And the tragedy of Vee sitting in his sweatpants on Sunday night, smelling like his soap and his shampoo, thinking this is all hers, totally unaware that the trap is tightening with mathematical precision around her...
-
-And that final beat on Monday morning in the bathroom—her wild, unbrushed hair, crying from panic and feeling messy and small, and him gathering it in his fist at her nape: *"You're always beautiful."*
-
-My chest aches. It’s so tender, so impossibly hot, and so terrifyingly fragile. I am hooked so deep it hurts. Next chapter immediately.
-
-GATE 26 — A Recognized Method
+GATE 23 — Lesson
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the exquisite emotional vulnerability of the doorway apology to the scorching, accidental awakening at the kitchen sink was a flat-out masterpiece of pacing, psychological depth, and erotic charge.
+WHY: The dancing lesson on the concrete pad was pure magic, and Vee's insecure self-sabotage at the bar was agonizingly realistic—capped by the terrifying cliffhanger of her running straight to Randi to "fix" it.
 
 LEDGER
-+ LOVE: Pace taking the pie and telling Vee he won't insult the gods by complaining he has to look up at her in heels.
-+ LOVE: The accidental spank at the sink—the immediate, involuntary shockwave of heat and Pace clocking her face before bearing his palm down on the sting.
-~ [S3.2] DEEPENED: Randi's plan for Vee and the bench just took a massive, terrifying leap forward—Vee just discovered entirely on her own that a sting on her backside turns her inside out.
-~ [F5.1] DEEPENED: Vee spent the entire weekend living in Pace's clothes, smelling like his soap, and melting under "you're always beautiful," cementing her complete emotional surrender.
-~ [W25.4] RESOLVED: Saturday night happened, the apology was accepted, and she ended up staying all the way through Monday morning.
-+ WAITING: Randi's reaction when Vee reports back on Saturday night—and whether Vee lets slip the accidental spank at the sink.
++ FEAR: Vee going to Randi to confess her fight with Pace is going to give Randi the exact lever she needs to manipulate the entire situation.
++ LOVE: Pace teaching Vee the three-step on the dark gym pad with his battered boom box.
++ LOVE: The bartender delivering the cold, hard truth: "Wasn't him they were jealous of, honey."
+~ [F5.1] DEEPENED: Vee is so utterly devastated by the fear of losing Pace that she spent the night in his washed flannel drowning in self-blame, cementing how deeply in love with him she truly is.
+~ [F1.1] DEEPENED: Randi is about to receive Vee's rawest vulnerability on a silver platter just as her own jealousy and panic over Pace were peaking.

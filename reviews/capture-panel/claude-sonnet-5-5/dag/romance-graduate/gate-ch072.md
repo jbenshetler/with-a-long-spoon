@@ -1,4 +1,4 @@
-*capture-dag-v3-grounded · gate ch069 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 253c3aad8b7b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch072 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 253c3aad8b7b · 2026-11-06*
 
 REACTION
 

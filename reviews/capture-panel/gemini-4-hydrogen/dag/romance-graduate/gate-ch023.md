@@ -1,29 +1,30 @@
-*capture-dag-v3-grounded · gate ch023 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed 6d224d45a71e · 2026-11-19*
+*capture-dag-v3-grounded · gate ch023 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 33905fa12671 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 21af47f9f81d · 2026-11-19*
 
 REACTION
 
-Oh, *Vee*. Watching her sabotage herself like that hurt so much, especially after how good the beginning of the night was.
+God, this chapter just sat on my chest and stayed there. There’s no sex in it at all—just two people under a quilt in front of a fire with cold tea—and yet it’s one of the most intimate things I’ve read in this entire book.
 
-The dance lesson on the concrete pad with the battered boom box was pure magic. Pace telling her to stop being jelly, to push back against his shoulder so she can actually feel his lead, to close the space between them so he *can't* step on her feet—it’s the exact physical translation of everything they’ve been doing in bed and in his kitchen. And when it finally clicks for her and she stops counting and just lets his hand at her shoulder blade move her, I was grinning like an idiot.
+First of all: *Peter*. He’s twenty-two, he went to college at fifteen, and in seventh grade his teacher put his desk in the hallway for an entire year to do long-division worksheets because he taught himself trigonometry. When Vee said, *"They took the thing you loved and made it the punishment,"* I felt my throat tighten. And then watching him light up over coastlines and Newton’s three sentences—making Vee see the stars and the falling leaves as one piece—was pure magic. That’s what I mean when I say I want characters with actual interiority.
 
-And then they walk into The Rusty Nail, and it all goes sideways so fast. It’s not even Pace’s fault—the guy is literally just well-liked because he’s decent and taught people to dance—and yet the second that blonde drops her little poison pill (*"He's so good about getting a girl home safe at the end of the night"*), Vee’s mother’s voice comes roaring right back. All that progress she’s made, and one catty woman at a bar is enough to make her feel like a fool who "spread her legs like a slut." Watching her throw Pace’s own decency in his face, and watching the good mood just drain out of him before he sets his untouched beer down and walks out into the cold, was brutal.
+And then *Daphne*.
 
-Thank god for that bartender at the end, though. *"Wasn't him they were jealous of, honey."* Vee needed to hear that, even if it meant sitting there in the harsh closing-time lights realizing she’d just punished a good man for being exactly who she wanted him to be.
+*Jesus.* Fifteen and nineteen. Watching Vee do the arithmetic in her head and hold that ugly, grown-up word behind her teeth while Pace—*Peter*—lays it all out in his flat, careful voice and defends it as the best two years of his life? It broke my heart. It also suddenly makes *everything* about him make sense: why he’s so obsessive about asking *May I*, why he waits for Vee to choose every single step, why he’s so careful not to take anything she hasn’t handed him.
 
-And then she goes home, puts on his shirt—washed now, smelling like fabric softener instead of him—lies awake all night, and decides the person she needs to go to in the morning is *Randi*.
+Even the moment with the scar on his thigh—when he doesn’t pull her hand away, just covers it with his own and says *"Not tonight"*—felt like a real, earned boundary instead of cheap mystery.
 
-Oh, honey. No. Going to Randi to ask how to fix a fight with Pace? Randi, who is already quietly bleeding over how much Pace likes you? I am terrified and I cannot turn the page fast enough.
+And then that ending. *Oof.* Lying there in the dark with her leg over him, thinking about how she "stumbled into" Randi outside the dining hall and how Pace just happened to cross a coffee shop for an integral, feeling so fortunate and so happy that it all came to her "of a piece." Knowing what *we* know—that she was pointed at from across a quad in a game they started in bed—made my stomach drop. This is going to hurt so badly when it breaks.
 
-GATE 23 — Lesson
+GATE 22 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Watching Pace teach her to dance on that empty concrete pad was pure magic, which made watching her blow it all up at the bar—and then decide to go to *Randi* to fix it—completely agonizing in the best way.
+WHY: A quiet, devastatingly intimate chapter that gives us Peter’s real name, his past with Daphne, and the reason he’s so careful with Vee’s choices. That final beat—Vee lying awake, marveling at how lucky she is to have "stumbled into" both of them—is a knife twist I’m not going to forget.
 
 LEDGER
-~ F20.1 DEEPENED: Spending money meant for other things on a late-night cab just to avoid waking Cassie up and explaining herself.
-+ WAITING: Vee showing up at Randi's to ask how to fix things with Pace—and what Randi is going to do with that.
-+ FEAR: Vee's mother's voice is still sitting right under the surface, waiting to make her sabotage the best thing she's ever had the second she feels insecure.
+~ L1.1 DEEPENED: Learning his real name is Peter, hearing about the seventh-grade hallway, and watching him light up over Newton and coastlines made me love him even more.
+~ S1.3 ANSWERED: Daphne was his nineteen-year-old college tutor when he was fifteen—a two-year relationship he still defends as the best thing that happened to him, which explains why he’s so obsessive about consent and waiting for Vee to choose.
+~ S16.1 SHIFTED: Vee finally touched the scar on his inner thigh, and instead of pulling away, he held her hand there and said *"Not tonight"*—it’s a real story he’s just not ready to tell yet.
+~ F4.2 DEEPENED: Watching Vee lie awake in his bed, marveling at how she "stumbled into" Randi and Pace and how lucky she is, makes the inevitable truth feel like a ticking bomb.

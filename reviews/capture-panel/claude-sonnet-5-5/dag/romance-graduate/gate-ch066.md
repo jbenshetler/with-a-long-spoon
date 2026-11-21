@@ -1,34 +1,28 @@
-*capture-dag-v3-grounded · gate ch066 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d88fa56f29dd · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed 925b0c0c6343 · 2026-11-17*
+*capture-dag-v3-grounded · gate ch066 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 9144acd641b9 · 2026-11-06*
 
 REACTION
 
-Okay, this is the chapter where Vee tries to be good and Randi, without lifting a finger, makes her fail. I loved the opening: the pants buttoned like a church pew, the pearls, "dressed for Randi to see less of her." It's funny and sad.
+A short one, and a quiet one, and I'll say right away that I think it works. It picks up exactly where 63 stopped, in the doorway, and spends all of its length on the one question I wanted asked.
 
-The brunch is the engine running at full tilt. Randi tells a feet-pics story, a joke that shows she's fine and hasn't spent a week thinking. Then Vee, guarded to the collarbone, retells the body-paint scene, and the foot in her lap is a delicious piece of staging. "Your pussy," said helpfully, is Randi doing what she does. The photo is the big one. I noted last chapter that Vee decided Randi would never see it, and she hands it over in four paragraphs because refusing would admit what's changed. That's psychologically exact and a little infuriating.
+Cassie finally asks it straight: "Is this what you want?" Not "what happened" or "what is she to you." She asks about wanting, so Vee can't hide behind any account of events. I liked watching Vee go looking for the answer and find a shape she can't make out. Then she grabs the oldest plank she has and says "You don't like her." Cassie steps over it without looking down. That's a real beat. Cassie isn't playing the old fight anymore, and Vee knows it. Vee running out of words is also new, because she never runs out.
 
-Then the turn. Randi names the taste thread: "If it doesn't mean no anymore, maybe you should tell him." I read that as Randi steering her toward her own mouth, with her own taste on it. Vee bolts and masturbates in the restaurant bathroom, and Randi's face and mouth arrive at the peak, with "what would Randi taste like" said outright in her head. That is the first time she has let the thought be about Randi's body and not just Randi's face. The chapter earns its heat.
+The Cocoa Pebbles are the best thing in it. "Do you want some of my Cocoa Pebbles?" is Cassie giving her the one question small enough to answer. It's tender, it's funny, and it's also Cassie letting her off the hook the way she did with the skirt. I love her. I'm also getting worried that Cassie knows more than she'll say, and that someday she'll stop stepping over the plank.
 
-What got me was Randi's face when she comes back. Glassy, no smile, looking like Vee had done something to her. Vee reads it as disappointment. I know it's the picture, and the sadness of a woman who wants it and has to stay the friend. The goodbye kiss, redone "right," is Randi coming apart under the cover of ritual. Vee goes soft into it, then runs. "Get your sex brain under control. Starting now" is a great sad joke, because she's been promising that for a week.
+Complaints are small. The first paragraphs fuss with whether Cassie saw the hug, and that's a bit of throat-clearing. The "no floor" image has been used a lot by now. And this is the second chapter in a row that stays inside Vee's can't-name-it loop. But it's short, so it didn't wear on me. I'm not leaving. I want Saturday brunch, and I want Randi's head. She's been off the page for a long time and she's the one who has to move next.
 
-Complaints: the third bathroom-masturbation scene is a pattern now, though this one had a real new beat. The mirror cleanup and "Randi always knew" ran a bit long.
-
-GATE 66 — Gesso
+GATE 64 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "She washed her hands with the pink soap from the pump, up past the knuckles, and dried them, and smelled them, and washed them again." (the mirror and cleanup run after the peak)
-WHY: Randi handing the taste thread back as advice, then Vee's "what would Randi taste like" in the stall, is the both-and I read for. Randi's glassy, unsmiling face on her return and the redone goodbye kiss have me desperate for the next one.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." (the opening worry about what Cassie witnessed, circling before the question lands)
+WHY: Cassie's "Is this what you want?" and the Cocoa Pebbles are a small, exact scene, and Vee running out of words is a real crack. It's brief and heat-free, and I need Saturday brunch or Randi's own head to move things.
 
 LEDGER
-+ LOVE: Vee dressing in church-pew pants and pearls to see "less of her," and the hug with her hips held back.
-+ LOVE: Randi's foot in Vee's lap under the table and "Your pussy," said helpfully.
-+ SUSPICION: Randi's "maybe you should tell him" is steering Vee toward tasting herself, and Randi wants to be the one she tastes.
-+ FEAR: Vee handed over the photo she'd decided Randi would never see, so Randi now holds the second nude and Vee's secret is gone.
-+ WAITING: Vee finally working out whose taste it was, or Randi saying it first.
-~ F60.5 CONFIRMED: Randi saw the photo within a week.
-~ S61.3 DEEPENED: Randi's glassy, sad face at the table fits a woman holding her want in.
-~ F31.4 DEEPENED: Vee's pleasure in the stall was governed by Randi's face and mouth, and for the first time her taste.
-~ W63.4 ANSWERED: Saturday brunch happened, and neither of them said it aloud.
-~ W65.5 SHIFTED: Brunch happened, and Randi hid everything behind a feet-pics joke and a redone kiss.
++ LOVE: Cassie's "Do you want some of my Cocoa Pebbles?", handing Vee the one question small enough to answer.
++ LOVE: Cassie stepping over the old "you don't like her" plank without looking down.
++ FEAR: Cassie knows more than she says, and one day she'll stop letting Vee off the hook.
+~ W63.5 ANSWERED: Vee couldn't answer Cassie's plain question, and Cassie let it go.
+~ S49.2 DEEPENED: Cassie's silence and her "Is this what you want?" show she sees where this is heading.
+~ F9.1 DEEPENED: Vee deflected Cassie by attacking her and then accepted cereal in place of an answer.

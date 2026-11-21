@@ -1,29 +1,34 @@
-*capture-dag-v3-grounded · gate ch070 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7c967499fe4b · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch069 · history ch001..ch069 · ledger no seed d0b77d29c1bd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch070 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 6cd936c0e3ca · 2026-11-06*
 
 REACTION
 
-Okay, this is the explicit, inventive set piece I came for, and it's long, and I went with it. The misdirection works: "wear a skirt," "where we're going," and then the table-that-isn't-a-table. Her eyes sliding past the gap, the pegs, the arms ("she had no name for") is a good trick, because I knew about the bench from chapter 1 and she didn't. Her own hands being the restraint ("her grip was the restraint") is the best idea in the chapter. "That's a lot of work for no," with the "no" getting deeper each time she pushes back onto his hand, is the both-and I read for. The drip and the *pat* is an image I won't forget, for better and worse. The surface-breaking orgasm gets a bit grand, and the "dropped plate" paragraph is the book telling me what it means. But I wasn't bored.
+Oh, here's the trap, and the book springs it on me while I'm still smiling at the nice domestic week. The coffee in the thermos "because of her" is lovely and I knew it was setup.
 
-It's also the first chapter where the book holds the bench as Vee's own, and Pace with his clothes on all night, taking nothing, is the care-through-doing again. The forehead kiss and "you still with me?" got me.
+The scene itself is the both-and I read this for. The tan-line photo, "wish you were here," her hand going down before she's decided, and "this is my best friend" and doing it anyway, with the "anyway" being most of it. Then the clean empty space where Pace's rule should have been, and she notices how free it is and refuses to look. That's the whole chapter, and it's exact. I'm in her bed with her.
 
-What I'm watching is the thing she doesn't see. Randi is nowhere in her head all chapter. No "it wasn't you." Nobody arrives behind her eyes. After the last chapter, where Randi drank her to sleep and ran her voice, her clean week of wanting only Pace feels like the calm in the middle of the pipeline. Also the date jump to May: whatever happened with Tuesday, the January lie, the weeks since the kiss, is skipped, and I'm impatient. Her complaint "I could touch myself, but have to tell him" is a leash she's tightened herself. And the drawer, the key, his clothes on, the heat turned up. He's building a life around her while Randi has been under his roof. I'm uneasy and turned on.
+Then "You're awake," and the fingers. The courtly kissing is a gorgeous squirm. The other fist, then "But it wasn't you." Oof. I said last chapter she'd have to edit Randi out of every report, and she didn't edit, she blurted. The blurt is the honest part of her beating her cover story, and she hears the hole in the sentence. Turning the phone around is a brilliant desperate move, and his pulse inside her is a gift. She reads it as simple male reaction, and I can't. Pace has been steering her toward Randi for weeks, and I think he just saw exactly what he wanted to see. His face "did nothing at all" is the line I'm chewing on.
 
-Grumbles: the middle repeats the spank-and-edge pattern four or five times, and I skimmed the second half of the tilt. The "mother's voice" chime again.
+The interrogation is hot, and it's the January ritual again, but with a twist: she realizes "I have done this before," and then shoves it down. The turn is that she gets to "I wanted to be the one doing it." Not Randi's mouth on her. Her mouth on Randi. That's a real step in who she is, and he drives up into her right at the sentence. He's pleased, I'm sure.
 
-GATE 70 — Vee on the Bench
+Then the quiet part is the best part. The same hand, the same name, the same man waiting, and she doesn't tell him about January. "The last time she had not had to decide." That's her first real choice to keep a lie, and I felt it settle. Last, the unsent cursor and Tuesday looming. Randi's face, finally.
+
+Grumbles: the sex brain callback fails on purpose, fine. The week-summary opener is a bit soft. And I'm impatient for Randi's head, again.
+
+GATE 68 — Postcard
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "Pink and slick," he said, almost under his breath. "All from that." (the edge-and-spank cycle repeating past its point)
-WHY: The hands-as-restraint idea, the "no" getting deeper, and the bench finally hers are hot and exact, and he takes nothing for himself until she gives it back. It runs long on one pattern, and Randi's total absence, with the gap of weeks, has me waiting for the other shoe.
+ALMOST-STOPPED: "She had brought out a duffel on Saturday and by Monday it was empty, because there was a drawer" (the domestic week-summary before the phone lights up)
+WHY: The tan-line photo, "But it wasn't you," and "I wanted to be the one doing it" are the shame-and-want wire at full tilt, and her choosing not to confess January is a real turn. Pace's blank face and that pulse have me suspicious, and I need Tuesday and Randi's head.
 
 LEDGER
-+ LOVE: Her own grip being the only restraint, and "that's a lot of work for no," the "no" getting deeper as she pushes back onto his hand.
-+ LOVE: Pace fully dressed all night, taking nothing, the forehead kiss and "You still with me?"
-+ FEAR: Randi is off the page and out of Vee's head for a whole chapter, and the weeks since the kiss, the photo and the drunk afternoon are skipped; the bill is coming due.
-+ SUSPICION: The plum silk and the "table" were planted for a reason, and Pace's perfect week of care now sits beside what he did with Randi in the same sheets.
-+ GRUDGE: The edge-and-spank loop ran four or five times in one scene, and the mother's-voice chime is back.
-~ F69.1 DEEPENED: Vee still thanks Randi and knows nothing; her warm clean surrender here makes the stolen afternoon feel worse.
-~ W68.5 ANSWERED: Tuesday has passed off-page; I still don't know what Vee's face did.
++ LOVE: "I wanted to be the one doing it." Vee wanting Randi in her mouth, not Randi doing it to her.
++ LOVE: The courtly "May I kiss your fingers?" and her unclosing the fist.
++ SUSPICION: Pace's blank face and the pulse at Randi's photo mean he got exactly what he'd been steering toward, and he isn't surprised.
++ FEAR: Vee has now consciously decided not to tell Pace about January's lie, so the secret will compound.
++ WAITING: Tuesday, Vee's face meeting Randi's, and whether she answers the "wish you were here" text.
+~ F62.1 DEEPENED: She lied in January and chose, this time, to keep it.
+~ F67.3 DEEPENED: Randi wasn't edited out; she blurted "it wasn't you" and had to report it, so the trap sprang within a week.
+~ W66.3 DEEPENED: Randi is off on an island and still has no head on the page.

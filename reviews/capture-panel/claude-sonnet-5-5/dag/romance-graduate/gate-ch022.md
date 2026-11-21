@@ -1,32 +1,34 @@
-*capture-dag-v3-grounded · gate ch022 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d068453fd82d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch021 · history ch001..ch021 · ledger no seed db88a1f8461a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch022 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed f0ae5c010b32 · 2026-11-06*
 
 REACTION
 
-Oh, this one's a gut-punch, and it's the quiet kind. We get Vee's head in front of the fire with Pace, and I was braced for heat. I got a conversation, and I didn't skim a line of it.
+Oh, this one is a knife, and it's barely three pages.
 
-The Ohio food, the saffron nobody opened, "the name that means love in one mouth and trouble in the other," are the best character work she's had. Pace goes straight for "the hand underneath the thing." That's why she's falling, and why I am. The hallway desk, the year of long-division worksheets, and her "They took the thing you loved and made it the punishment" made me tear up. The math speech about the paint and the coastline is the book explaining its own thesis again, but it's coming out of his mouth with love. He's a man who tells you he reads the poem, and I'll take it.
+Randi is in Pace's bed telling him how much she likes Vee, and everything she says is true and none of it is the thing. "She got past me before I could help it." "God, she's lovely." That's the confession, said out loud to the one man she can say it to, and he hears it as the plan working. He pictures them naked and laughing and lets himself look. I wanted to shake him. Her "I didn't think I'd like her this much" is as bare as she gets, and he files it under foreplay.
 
-Then Daphne. Nineteen and fifteen. Oh my God. Vee does the arithmetic and swallows the word, and he defends it as the best two years, "named it luck." Two chapters back I'd filed Daphne as a door he opened uninvited. Now I think she was the door that was opened on him, and he's built a whole architecture of asking-first on top of that. It reframes his entire "may I." It also makes me queasy that he's now the one running a game on a girl, and he doesn't see the rhyme. The scar, "Not tonight," is a lovely held door.
+Then she does what she did in ch11, feeding him Vee as heat. The breasts dragging across his chest, "It's criminal, Pace," is hot, and awful, because she's performing Vee's body with her own. When he says "Like somebody found the lamp," she goes still, the holding kind, and he doesn't notice. He was talking about Vee in her ear, and Pace is now plainly in love with her too. Everybody is leaking, and nobody is reading anybody.
 
-The last paragraph is the knife. "She had stumbled into her." Vee believes it was luck, six weeks, never so fortunate. I know the collision was staged, and Pace even tells her the true thing, that someone crossed a coffee shop because she complained about math, and she thinks it was chance. This is the happiest she's been, and it's the cruelest chapter in the book for me.
+The ending is the real hurt, and I clocked every move of it. After ch18, where she wouldn't eat, here she asks to be fed, takes the little plate, and clears it. She stays. The shirt from the second drawer. "Pace, darling" is a bit of her mask back, and the second pour is a tiny reflex of the old game. But the bowl is empty. It's the repair, and he doesn't know there was damage, and so he's just happy. That's the title, "Gone," and I can't tell what's gone. Maybe the fight. Maybe her guard. Maybe he just gave her to Vee.
 
-Heat is a low simmer, his palm on her breast without asking. Complaint: it's long and it's the third quiet-ish chapter by my count, but it's all dialogue and alive. Also, Randi is still absent from the room, and the "Peter" is a nice reveal.
+One thing snagged. He asks nothing, she asks nothing, about the weekend of Friday, the "selfish" fight, or what it was. They smooth over it with her hair in his hand and a blue toe. It's tender in a way that feels like a pause before the drop. Also still no Randi's head, and it's the fourth chapter running. I'm tired of waiting, and this chapter made it worse by showing her only from outside again.
 
-GATE 22 — Rock
+Gripe: the narration is lighter this time and I barely noticed it, which is a relief.
+
+GATE 21 — Gone
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 1
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Fifteen was braces and borrowed cars and being driven places by other people's mothers." (the long interior riff before the hallway story)
-WHY: Pace's backstory, the hallway desk and the nineteen-year-old tutor, reframes him, and Vee's last "I've never been so fortunate" over a staged meeting is the dread I read for. Low heat, but it earned its quiet.
+ALMOST-STOPPED: none
+WHY: Randi saying the true thing in his bed and Pace hearing foreplay is the book's engine at full tilt, and the emptied plate quietly repairs ch18. I'm desperate for her own head now.
 
 LEDGER
-+ LOVE: "They took the thing you loved and made it the punishment," and Pace's hallway desk year
-+ LOVE: Peter, said once into the dark like a word she's keeping
-+ SUSPICION: Daphne was nineteen to his fifteen, and his "best two years" defense means his idea of consent was built on something that wasn't clean
-+ FEAR: Vee thinks she "stumbled into" Randi by luck, so when she learns it was staged, the whole six weeks goes sour at once
-+ WAITING: The scar story, "not tonight," and whether it ties to Daphne
-~ S1.4 DEEPENED: Daphne is now a real person, the tutor at nineteen, and the door was opened on him
-~ S16.3 DEEPENED: Vee touched the scar and he said "not tonight," so it's a story he's saving
-~ W20.4 DEEPENED: Still no Randi head, and now five chapters without it
++ LOVE: Randi saying "She got past me before I could help it" into his chest, the closest she's come to the truth aloud.
++ LOVE: The emptied plate, every bite, after the untouched bowl in ch18.
++ FEAR: Pace is falling for Vee as hard as Randi, and neither can tell the other, so the three of them are all in love in separate rooms.
++ SUSPICION: "Gone" may point to something I haven't seen yet, either Randi's guard or something worse coming.
+~ F6.3 DEEPENED: She said the want aloud, and he heard it as heat.
+~ F11.1 SHIFTED: She stayed the night and ate, so the crack closed for now, but he never knew it was open.
+~ W18.4 DEEPENED: Fourth chapter without Randi's own head, and I badly want it.
+~ L18.1 RESOLVED: She finished her plate this time.

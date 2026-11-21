@@ -1,29 +1,33 @@
-*capture-dag-v3-grounded · gate ch057 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed e5c765aef4af · 2026-11-06*
+*capture-dag-v3-grounded · gate ch057 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 53dcf43805c3 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch054 · history ch001..ch054 · ledger no seed 1e8226fdbda9 · 2026-11-06*
 
 REACTION
 
-This is a quiet one, and I'm giving it room because it's the first time the book hands Pace's loneliness to me whole. The hangover opening is warm and a little funny. The glass of water on a paper towel, the cinnamon raisin bread, the undershirt pulled over her head, and the kiss on her forehead "after he thought she was already gone." That last one got me. He did all the care and she only now finds out.
+This is the Pace POV I've been missing, and it's pure explicit heat. It opens mid-act and never really lets up. But the thing that matters is what the scene reveals, and for once the reader is ahead of everyone.
 
-Then "My one friend. There isn't anyone else." That's the chapter. His explanation of why is exact: too young for the pack, too finished for the freshmen, and "either weren't safe or weren't welcoming." It's the family wound again from a new side, and Sheri's "hasn't been home since he was sixteen" snaps into place. Vee's hug, with her whole weight committed like Sheri's, is the right move, and he doesn't perform being comforted. I liked that.
+Randi's coming back to him for the first time since the morning she cried. She's gentle at the door, she lays two fingers on his mouth, and "tasting herself from him" is deliberate. After ch53, that detail is a knife. She kisses him deep and licks it clean, then says "Now it's mutual." I put the book down at that. Vee couldn't lift her fingers to her mouth, and Randi is doing it without blinking. That's the pairing I wanted: one woman's shame, one woman's appetite, same taste.
 
-The dread is where my attention goes. Vee is sitting in the kitchen with Sheri liking her, saying "I don't have to be jealous," planning to hand Randi the win on Tuesday. She is feeling tender toward the man whose other lover she's been telling everything to. Meanwhile "women misunderstand it" is a line I read twice. He's a man who can't keep a friend without it going sideways, and I'm the one who knows about the Saturdays. Also Vee thinking Daphne was "the one friend" is just about right, and she still won't say the ugly word. Fine, she's twenty-one.
+Then the dialogue turns. "I miss her during the day. More at night." "She kissed my neck again." "I wanted to turn around. Put my hand on her." Randi is saying it all to him now, and he's saying "She makes me happy" back. Both of them are in love with the same woman and narrating her through sex. It's the "pipeline" in its honest form, with nobody pretending anymore. Randi's "I want her to know exactly what she does to me" is the most naked she's been. And "She's not the only one in love," with him unable to say she's wrong, is the line of the chapter. He's finally conceding it, to her and to himself, in front of me.
 
-Complaints: the last third is Vee narrating his loneliness at length, including her freshman-dorm nostalgia, and I felt the book explaining its own subtext again. I wanted him to say it and her to stay quiet. No heat at all. Sixth chapter without a real turn in the plot, though this one deepens him. The taste thread didn't move, and Randi's absence is felt.
+Complaints: the "fuck doll" line is jarring and doesn't sit right with how tender the rest is. The mess-and-cleanup beat is a little mechanical. And I can't tell if Pace knows about the neck kiss being a tell or just hears it as heat again. He's reading her better, but still short of the truth.
 
-GATE 57 — Hangover
+Still, it's hot and it moves. Vee has been circling the truth through her body, and here is the other end of it.
+
+GATE 55 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "She saw the campus empty around him one Thanksgiving, just for a second, and then set the image down" (the long Vee-narrated imagining of his lonely eighteen)
-WHY: "My one friend. There isn't anyone else." plus the forehead kiss he thought she'd slept through is real tenderness and fills in his wound. But Vee spells out his loneliness at length, there's no heat, and I want Tuesday with Randi.
+ALMOST-STOPPED: "Looking at you, using me like your fuck doll." (the jarring crude line in an otherwise tender scene)
+WHY: Randi licking her own taste off Pace's mouth right after Vee couldn't lift her fingers is the pairing the last two chapters were building, and "She's not the only one in love," with Pace unable to deny it, is a real turn. Three people in love in separate rooms, and now two of them are talking.
 
 LEDGER
-+ LOVE: Pace's glass of water on a paper towel and the forehead kiss "after he thought she was already gone."
-+ LOVE: "Sheri's my friend. My one friend. There isn't anyone else." and Vee holding him with her whole weight, like Sheri did.
-+ SUSPICION: "Women misunderstand it" hints at friendships with women that went wrong, and the reader knows the Randi triangle is exactly that.
-+ WAITING: Tuesday, when Vee hands Randi the real Sheri and whether Randi reacts to the "gay" detail.
-~ S33.3 DEEPENED: "Weren't safe or weren't welcoming" and the missing holidays make the family wound concrete.
-~ S56.3 SHIFTED: Sheri told Vee her own story and Pace's father; no hint yet that she'll expose the triangle.
-~ G39.2 FADED: this chapter finally gave the silence a real, sad cause on the page.
++ LOVE: Randi laying two fingers on his mouth at the door, and "Now it's mutual," tasting herself from him without a flinch.
++ LOVE: "She's not the only one in love," and Pace unable to tell her she's wrong.
++ SUSPICION: Pace and Randi are now openly narrating Vee through sex, so he'll steer the reveal himself and Vee will be the last to learn.
++ WAITING: Whether Randi tells Vee whose taste it was, or Vee works it out first.
+~ F53.1 DEEPENED: Randi took the taste straight back to Pace's bed and was open about wanting Vee.
+~ S53.2 CONFIRMED: Randi's "Mm" was her recognizing her own taste, and she carried it to him the same night.
+~ W53.4 ANSWERED: What Randi did with it was go to Pace, not to Vee.
+~ F52.4 DEEPENED: Randi is coming apart privately now too, admitting what Vee does to her.
+~ S52.3 DEEPENED: Pace is plainly tracking all three of them, which makes "They share an interest. You." read as deliberate.

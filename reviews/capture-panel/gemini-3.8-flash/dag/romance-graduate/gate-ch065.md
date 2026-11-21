@@ -1,53 +1,40 @@
-*capture-dag-v3-grounded · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 95b08a13285f · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 6192ae1fa06e · 2026-11-14*
+*capture-dag-v3-grounded · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7854b848dce · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch062 · history ch001..ch062 · ledger no seed 08536cd47f49 · 2026-11-06*
 
 REACTION
 
-My chest is so tight I can barely take a full breath. That was an absolute, suffocating, masterclass dismantling of a human being—and hands down one of the most breathtaking, devastating chapters Helen Rivers has ever put on paper.
+*Cassie was standing right there.* Cassie saw them outside the dorm. My stomach just dropped straight through the floor.
 
-First of all, that opening ten minutes of class! The sheer psychological and sensual precision of the lime Lifesaver. Randi sliding that green, cold, sharp little disc into Vee’s palm under the desk, and Vee immediately tasting the salt, the lime, the margarita, and Randi’s tongue on the dance floor. And Vee sitting there holding her leg completely rigid against Randi's, sucking the candy down to nothing, trying to tell herself it's just her "sex brain" and that she’s so grateful Randi "handed the night back folded and easy."
+I’ve been dreading Cassie catching on since November, but having it land *right now*—when Vee’s own internal architecture is already cracking in half—is an absolute psychological nightmare. Because Cassie isn’t Kayla or Meg; Cassie doesn’t buy the giggly, brushed-off college girl performance. Cassie saw Randi’s mouth on the hollow of Vee’s neck. Cassie saw Vee flinch and jump like she’d been struck by lightning. And the fact that Cassie’s voice carried *disbelief and worry* instead of her usual dry sarcasm? That tells you the visual was so blatantly intimate, so far past the line of normal friendship, that even Cassie couldn’t pretend it was just girls being girls.
 
-AND THEN THE TITULAR INVERSION.
+And god, the sheer, suffocating interiority of this chapter. The way Helen Rivers writes the slow-motion car crash of a woman trying and failing to outrun her own desire is just breathtaking.
 
-"A girl needs a spanking!"
-"Be kind to the girl in trouble."
+That opening paragraph—Sunday running into this manic, unfillable physical hunger with Pace. Vee literally taking the book out of his hands, riding him all day until she’s raw down low, desperately trying to use the man she loves as a sponge to soak up the spill... and driving home in the dark realizing she’s still not filled. Because you cannot fuck someone else’s ghost out of your body. That quiet, terrifying realization that her appetite has outgrown its container is pure tragedy.
 
-Vee thinks Randi is heading off to be the playful, stern, dominant authority figure—the one who holds the paddle, the one who runs the room. And instead, Randi walks straight into the butcher shop she helped build.
+And then Dr. Marsh dropping the hammer on reciprocity! *The three obligations: to give, to take, and to pay back. A gift is a debt you lay on someone whether they wanted it or not.*
 
-The sheer, chilling brilliance of the Standards trial! To watch the bureaucratic, smiling, pastel-tipped guillotine of Greek life turn around and slice its own architect in half was agonizing. Brooke sitting in *her* chair, at *her* table, with a crooked handwritten label on a manila folder, while Caroline’s candy-pink fist scratches down the minutes. And the charges! The ghost bylaws—an overnight permission card for a House Mother who hasn't existed in thirty years, dusted off like a fossil to club her over the head because dead rules cost nothing to keep!
+The thematic precision of this book is chilling. Randi giving Vee that iridescent skirt, Randi giving Vee the kiss on the dance floor, Randi giving Vee the ride on the floor—and now Vee is buried under a debt she doesn't know how to pay. When Randi murmured, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt physically sick with tension. *Having.* Randi isn't even hiding the predatory arithmetic anymore. She’s claiming ownership.
 
-And Kinsey. My god, Kinsey making her move: *"Her hand was down the front of her bra... The redhead's."*
-The trap! Randi sitting there knowing the exact counter-move, knowing she could eviscerate Kinsey in ten seconds flat, but realizing the devastating arithmetic: *dispute it and hang faster, correct it and hang slower.* To clear the lie about the bra, she would have to admit the truth about the skirt, the kiss, and the unbearable, burning *wanting* behind it—and the wanting was the one thing she’d rather die than let them see. So she swallowed the fat lie to protect the thin truth.
+And then the ending on the sidewalk. Vee tries so hard to be good! She dodges the mouth-to-mouth kiss—takes the "miss" on purpose, invents the cold, tries to build a little brick wall to protect herself—and what does Randi do? Randi immediately steps around the wall, drops her mouth right onto the raw, exposed hollow of Vee’s neck, and leaves a wet bloom of heat that sends shockwaves through her entire body. *"See? How do you like it?"*
 
-BUT THE HALLWAY. THE LANDING.
+The absolute territorial cruelty of that retaliation! Randi felt the rejection of the mouth, so she took the throat instead. And Vee’s body didn't retreat—Vee's body short-circuited and immediately, helplessly panicked into offering Saturday brunch. She’s addicted. She tries to push Randi away and ends up pulling her closer.
 
-I wept. I genuinely had tears running down my face. Randi standing alone on the carpet while the sisters downstairs whispered about her making freshmen cry, finally opening the vault on her own heart:
-*She went to that mixer meaning to burn the whole careful thing to the ground.*
-She had laid awake the night before deciding she was finally going to tell Vee she loved her. She found the nerve because of Vee’s hands on her face in January. And then—the absolute, crushing tragedy—she got the kiss, felt the sheer colossal magnitude of it, and her nerve broke completely. She panicked. She retreated into the only armor she owned, swatted Vee's arm, and laughed it off as a joke for a boy because she couldn't survive looking into Vee's eyes and risking a world where Vee walked away.
+And now she walks through her door, trembling and flushed, and Cassie is sitting on the bunk with her coat still on, dropping that quiet, devastating question: *"What was that with you and Randi?"*
 
-*I almost believed it. She had believed every second of it. Of all her cowardices it was the one she would take back if she were allowed to take back one...*
+There are no excuses left. The floor is completely gone.
 
-And then Brooke’s "generous" door: *Just stand up, just briefly. Tell chapter your sisters come first. Let the outside things go quiet. The friend. The gentleman. And it all goes away.*
-
-And Randi—Standards herself, dynastic Kentucky royalty, the girl who built her entire existence out of surveillance, pedigree, and polished control—looks at the house president, looks at the threat of Lauren Pike’s fate, and without a single microsecond of hesitation says:
-
-*"No. Thank you. But no."*
-
-She chose Vee. She threw away her standing, her authority, her armor, her peace, and her reputation, and chose mandatory probation and public humiliation just to keep the Tuesday dinners. She chose Vee over everything.
-
-And Vee is sitting in her dorm right now, eating Cocoa Pebbles, thinking Randi is just off having fun bossing around pledges. Saturday brunch is thirty-six hours away. How is Randi going to sit across from Vee on Saturday morning carrying this fresh, bleeding wound while Vee tries to act like nothing happened?! I am coming apart at the seams.
-
-GATE 65 — Inversion
+GATE 63 — Coming Due
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological execution of Randi's Standards trial was an absolute masterpiece—watching her silently endure the sorority's smiling cruelty and refuse Brooke's ultimatum to abandon Vee was devastatingly romantic and gut-wrenching.
+WHY: The suffocating psychological tension of Vee trying to dodge Randi's kiss only to get branded on the neck was breathtaking—and Cassie witnessing it from the dorm window and confronting Vee instantly is an absolute five-alarm cliffhanger.
 
 LEDGER
-+ LOVE: Randi looking Brooke dead in the eye and refusing to renounce Vee to save her sorority standing—choosing public humiliation and probation over giving up her girl.
-+ FEAR: Brooke is not going to stop at attendance probation; she is actively building the Lauren Pike room around Randi, and the pressure is going to bleed onto Vee.
-~ [F1.1] SHIFTED: Randi isn't using Vee as a shield or armor at all; she literally just sacrificed her own standing, reputation, and authority in the house to protect her claim on Vee.
-~ [F45.1] DEEPENED: Brooke's threat with Lauren Pike's fate officially dropped into an active disciplinary docket, and Randi's refusal to back down means Brooke will escalate to pushing her out completely.
-~ [W64.2] DEEPENED: Saturday brunch is now an absolute powder keg—Randi walking in fresh off taking the fall for their mixer kiss, while Vee is still trying to pretend it was all just a joke for Harrison.
++ FEAR: Cassie is going to force Vee to confront the reality of her feelings for Randi before Vee can manage them.
++ SUSPICION: Cassie watched the entire exchange outside from the dorm window and knows Randi kissed Vee's neck.
+~ [W62.3] ANSWERED: Tuesday's Anthro class happened, Vee tried to dodge Randi's mouth, and Randi retaliated by claiming her neck on the sidewalk.
+~ [L4.1] DEEPENED: Vee's interiority reached an agonizing peak—trying to use Pace to exhaust an appetite she can't name, and realizing she's still starving.
+~ [F1.1] DEEPENED: Randi's possessive claim ("having you," taking Vee's neck after being denied her mouth) proves she is fully consuming Vee.
+~ [S4.2] DEEPENED: Cassie's radar is at maximum alert; she saw the kiss on the neck and is refusing to let Vee smooth it over.

@@ -1,28 +1,35 @@
-*capture-dag-v3-grounded · gate ch064 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 9144acd641b9 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch064 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 14ea0888d32c · 2026-11-06*
 
 REACTION
 
-A short one, and a quiet one, and I'll say right away that I think it works. It picks up exactly where 63 stopped, in the doorway, and spends all of its length on the one question I wanted asked.
+Oh, this is the one. The chapter is "Boyfriend" and she spends it in bed with the boyfriend, confessing the girl.
 
-Cassie finally asks it straight: "Is this what you want?" Not "what happened" or "what is she to you." She asks about wanting, so Vee can't hide behind any account of events. I liked watching Vee go looking for the answer and find a shape she can't make out. Then she grabs the oldest plank she has and says "You don't like her." Cassie steps over it without looking down. That's a real beat. Cassie isn't playing the old fight anymore, and Vee knows it. Vee running out of words is also new, because she never runs out.
+The first section is the best thing the book has done with her body. She comes home wet from Randi, tries to talk herself out of it, grabs "I have a boyfriend" like a stair rail, and drives out to use him as an eraser. The line about riding him like a fight, needing him to drive someone else out of her head, is exactly right. She has never used him like that before, and he notices.
 
-The Cocoa Pebbles are the best thing in it. "Do you want some of my Cocoa Pebbles?" is Cassie giving her the one question small enough to answer. It's tender, it's funny, and it's also Cassie letting her off the hook the way she did with the skirt. I love her. I'm also getting worried that Cassie knows more than she'll say, and that someday she'll stop stepping over the plank.
+Then the interrogation. The inch-by-inch bargaining is hot, and it does the book's trick of making the telling the sex. Every true admission buys her more of him. "I wanted it. They could see all of me." Then the real prize, "I wanted her mouth on me," and he drives her over. Pace asking "Do you want to sleep with a woman, Vee?" while carefully not saying Randi is the line I put the book down on. He is steering her again, gently, and I know exactly why. She says "I'm not gay," and he answers "I didn't say gay." Her swerve at the end, "you want Randi," had me holding my breath. His flicker and then "You keep saying her name. Not me," is almost a confession. And she reads him defending himself as the sweetest thing he's ever done.
 
-Complaints are small. The first paragraphs fuss with whether Cassie saw the hug, and that's a bit of throat-clearing. The "no floor" image has been used a lot by now. And this is the second chapter in a row that stays inside Vee's can't-name-it loop. But it's short, so it didn't wear on me. I'm not leaving. I want Saturday brunch, and I want Randi's head. She's been off the page for a long time and she's the one who has to move next.
+Her first lie to him, "No. Nothing," is the turn. She decides the neck kisses and the solo moment don't count, the very logic she'd call cheating in anyone else. Of course he saw the parking lot kiss. The thrill under the guilt is nicely nasty.
 
-GATE 64 — Some of Mine
+Complaints: the middle slightly over-narrates her interior ("the denial doubled the wanting"), and some of the stall-and-reward bits repeat. But it's the hottest, most dread-loaded chapter in a while.
+
+Last line, "What is wrong with me?", is sharp. I want Tuesday, and I want Randi's head.
+
+GATE 62 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." (the opening worry about what Cassie witnessed, circling before the question lands)
-WHY: Cassie's "Is this what you want?" and the Cocoa Pebbles are a small, exact scene, and Vee running out of words is a real crack. It's brief and heat-free, and I need Saturday brunch or Randi's own head to move things.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "the denial doubled the wanting: how completely he had her, how he'd taken the whole tangle and narrowed it to this" (the book explaining its own subtext)
+WHY: Confessing Randi's kiss to Pace inch by inch is the both-and I read for, and her first lie to him, "No. Nothing," is a real turn. Pace steering her while she thinks he's the safe one has me desperate for Tuesday.
 
 LEDGER
-+ LOVE: Cassie's "Do you want some of my Cocoa Pebbles?", handing Vee the one question small enough to answer.
-+ LOVE: Cassie stepping over the old "you don't like her" plank without looking down.
-+ FEAR: Cassie knows more than she says, and one day she'll stop letting Vee off the hook.
-~ W63.5 ANSWERED: Vee couldn't answer Cassie's plain question, and Cassie let it go.
-~ S49.2 DEEPENED: Cassie's silence and her "Is this what you want?" show she sees where this is heading.
-~ F9.1 DEEPENED: Vee deflected Cassie by attacking her and then accepted cereal in place of an answer.
++ FEAR: Vee told Pace her first lie, and he saw the parking-lot kiss, so the lie will surface and cost her.
++ LOVE: "I didn't say gay," and "You keep saying her name. Not me." Pace gently steering while she thinks he's safe.
++ LOVE: Vee driving to him like a fight, trying to fuck the picture of Randi out of her head.
++ SUSPICION: Pace is deliberately pulling Vee toward Randi, and his flicker at "you want Randi" means he's as exposed as she is.
++ WAITING: Tuesday in Dr. Marsh's class, Vee and Randi side by side, and Randi's own head after the kiss.
+~ F61.4 DEEPENED: The kiss happened and Vee's lie to Pace now adds to the pressure from Brooke.
+~ W61.5 DEEPENED: Still no Randi head, only Vee's desire.
+~ G61.2 DEEPENED: Vee carried "show" home as her cover, then used it on Pace too.
+~ W60.4 ANSWERED: Saturday with Randi happened, and the skirt and the mixer led to the kiss.

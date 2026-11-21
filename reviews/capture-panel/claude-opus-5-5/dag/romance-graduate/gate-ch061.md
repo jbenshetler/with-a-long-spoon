@@ -1,50 +1,39 @@
-*capture-dag-v3-grounded · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed e6c781423362 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 1f06b1ef6410 · 2026-11-06*
 
 **REACTION**
 
-"I chose."
+"Barely stings."
 
-Two words to Brooke's face, with Randi's arm coming around Vee's waist "where a second before there had been nothing." I've carried "You need to choose" since chapter 45, and the answer came in front of the gold lamé and the almost-blue teeth, in the middle of the house's own party. Then Vee asks "What did you choose?" and gets "You," and "As my date" lands a beat late. That late beat is the most honest thing Randi has said in sixty chapters. Brooke's smile widened "by some exact amount," and I went cold. That woman never forgets a cardigan. She kept the Friday morning in her pocket on purpose, and Vee thought she was being *kind*.
+That's the title, and Randi's two words come back to bite. I laughed when Vee said "*Fuck—*" out loud in that little bright room. Then I stopped laughing at "Roll over for me, hon." Randi has had this done. She has a woman she sends people to by name. She knew it's "all the one service." She sat in that loft with Vee's fingers in her hand, said "barely stings" and "most expensive thing in the room," and left out the back completely. So what was that? It might be the kind lie of a friend who didn't want to scare her. But this is a woman who presses glass rims under her own nails, so maybe she really thinks this barely stings. Or she knew exactly how far past Vee's lines this would go, and wanted Vee to go there without a chance to stop. I don't know, and I hate that I can't rule out the third one. "Randi was always one road further along. It was restful, being told." Honey, nothing about being told by Randi should feel restful.
 
-Then the kiss. Sixty-one chapters, and it was worth every brunch I complained about. The held inch did it for me: Randi with her hand closed in Vee's hair, doing nothing, so that Vee's eyes finally get to go over her face "as they had wanted to all autumn." Then the perfume Vee had been "quietly cataloguing for months without admitting she was keeping the file," and "turned in Vee like a key." Yes, the key again, and this time I didn't even mind. Then the tongue, "not a demand, a *please*," which is the bench word, Randi's word from chapter 1, now handed to Vee. Vee wants Randi's hands under the skirt. She wants "Randi's mouth lower." That isn't a cover story or "about Pace, obviously." It's the whole thing, out loud in her own head, on a dance floor. It's explicit in the way I came for: wet, aching, hips asking, and her shame still wired into the heat. When the panties show, "floozie" comes back and turns into fuel again, "found out twice over: once to the room, and once, worse, to herself." I felt that one in my stomach.
+Getting Sunday's kitchen in flashback helps. I was annoyed last chapter that the request happened off the page, and now I have the scene: "I'd like you waxed. By the weekend. Bare… Will you?" Then "He never told her why." That line opens my waxing suspicion right back up. He asks for the thing and leaves her to fill in the reason, and she always fills it in with yes. Thursday night Randi said "I want her to know exactly what she does to me." Sunday he asks for this. Friday it's Randi's waxer, "say my name in the first sentence." The hau is under Vee's skin now, literally.
 
-Then Randi "came back from it a moment behind... and drew a breath, and shook her head, blinking." That's the one second before the cover goes on, and then the grin: "You really did a great job putting on a show. I almost believed it." Oh, you liar. You absolute coward. "I almost believed it" is Randi saying the true thing as a joke, the same way "French" and "ticklish" and "barely stings" were. Vee takes the folded night because "it was the only thing held out to her," and laughs a laugh that "came out sounding like the room." I wanted to throw my phone.
+The best thing in the chapter is "Don't move," the flat hand on her thigh. Her body knows that grammar from the man who means it, and here it comes from someone who wants nothing from her: "here was the shape of it with everything true scooped out of the middle." It "open[ed] a hole in her a mile across where the right hand should have been." That's the book doing what I came for. Her arousal, her shame and her longing all run on one wire, and it's honest about how wrong the setting is. Her mother's "the kind of girl who" shows up with no fuel attached this time. Then the roll-over stretch has "no wanting in this one. Nothing lit." That's the bravest part. It lets the scene be humiliating and nothing else, and doesn't turn it into a turn-on. She holds still "on her own now, nobody had to tell her," and that line scared me a little. She's getting very good at holding still.
 
-The bracelet. It's called Love, it has no clasp, and "taking it off requires tools." I've been suspicious of that band since chapter 15, thinking scars, thinking bottle caps. Now it's love you can't take off without a screwdriver, locked on by somebody. Her father? Herself? That's Randi in one object, and Vee files it with "the thousand glamorous things." Same with the Chambord: "It took Randi to tell her what she was holding." That's the whole book in a punch cup. It's slightly over-pointed, but it's true.
+Then she's alone and touches herself, and "the sound she made was not one of pain." She walks out past the girl who came to be looked at, as the girl who came to be touched. That's a lovely close and a cleaner ache.
 
-Cassie: "That hem's not going to stay put," the math done out loud, and the eyebrow that goes up a half-inch and stays. She was right, of course. And the skirt is Randi's, picked straight off the rail "without hunting," with "not that short" said twice. Randi knew exactly how far that hem would climb on those legs, and she put her hands on Vee's wrists so Vee couldn't hold it down. I don't think a single inch of that was an accident.
+What it cost: the Tuesday loft is reprinted almost word for word, the fish eaten to the middle, the fork, "a hand laid over Vee's, warm, brief, sure." I read it four days ago. That isn't a return, it's copy-paste. The opening taxonomy of the two girls on the couch, with "understood which one she was," tells me a bit more than it shows. And "Sondra had found her sore spot on the first try" made me wince for the wrong reason.
 
-What cost it: the foyer portrait of Randi goes on far too long. The braid "inlaid," "lacquer and geometry," "a dancer's body said in a single sentence" is the prose posing. The second boy, Harrison, gets the exact description of the first boy (tall, beer, half-known face). There's also a continuity wobble: Friday night Vee was already thinking about "the skirt, the mixer," and here the invitation happens Saturday morning. And the kiss paragraphs get one or two sentences too purple ("Time had quit behaving"). None of that mattered while I was in it.
+1 a.m. text: *randi said "barely stings." randi did NOT mention "roll over, hon." also "don't move," from the wrong hand, gave her a hole a mile wide where pace's should be. I need the weekend.*
 
-And Pace is the off-page knife. "He gets me Friday. He gets me Sunday." Sunday is tomorrow. Vee walks into that house with Randi's taste still in her and a body that "had not been told." And Monday... does Randi drive to Pace and tell him about the show she almost believed?
-
-1 a.m. text: *THEY KISSED. full tongue on the dance floor, randi's hand on her ass, and then randi says "I almost believed it." also she told brooke "I chose." also the bracelet is LOCKED ON. I am lying on the floor.*
-
-GATE 61 — On Her Floor
+GATE 59 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "a thing of lacquer and geometry, gleaming like something machined." That's the foyer portrait of Randi running long, the prose showing off while I wanted to get to the party.
-WHY: The kiss the whole series has been circling finally lands, explicit and frightening and completely Vee's, and it's wrapped in Randi's "I chose" to Brooke and her cowardly "I almost believed it." Both want and denial are on the page at full volume. Sunday at Pace's is next, and I'm already reading.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "'Oh, you're going to *love* it,' she'd said. 'God, the first time. Don't let anybody but Sondra touch you —'" That's Tuesday's dialogue reprinted word for word, one chapter after I read it.
+WHY: "The wrong hand" is one of the smartest things the book has done with her body: a stranger's "Don't move" opening a hole where Pace should be. And Randi's omission of the back half sits in my stomach like a stone. The recap cost a point, but now I need the weekend, his hand finding her, and whatever Randi gets told about it.
 
 LEDGER
-+ FEAR: Brooke's smile widened "by some exact amount." Randi just chose Vee in front of her, and the file is about to open
-+ FEAR: Vee walks into Pace's house tomorrow with Randi's taste on her, and Randi takes "the show" to Pace's bed by Monday
-+ LOVE: Randi coming back from the kiss "a moment behind," shaking her head, blinking, in the one second before the grin went up
-+ LOVE: The Love bracelet. No clasp, and "taking it off requires tools"
-+ SUSPICION: Randi picked that skirt knowing exactly how far it would climb on Vee, and took her wrists so Vee couldn't hold the hem down
-+ SUSPICION: Somebody locked the Love bracelet onto Randi, and she can't take it off herself
-+ GRUDGE: Friday night Vee already knew "the skirt, the mixer," but the invitation happens Saturday morning. Also, Harrison is the first boy over again, same tall beer and half-known face
-+ WAITING: Whether Vee tells Pace about the kiss on Sunday, or keeps it the way she kept the painting
-~ F45.1 DISPROVED: "I chose," to Brooke's face, with her arm around Vee's waist
-~ W46.6 RESOLVED: Randi answered Brooke's ultimatum in public, at the party
-~ W60.6 ANSWERED: The mixer was Randi's plan, with a boy across the room as the excuse for the kiss
-~ S47.2 CONFIRMED: Vee wanted Randi's hands under the skirt and her mouth lower. No cover story this time, in her own head
-~ S15.2 SHIFTED: There's no scar, just a Love bracelet that's locked on and needs tools to get off
-~ L10.1 DEEPENED: "What kind of floozie" on the dance floor, and the shame turned straight into heat again
-~ F31.5 DEEPENED: "I almost believed it." Randi turns the realest moment of the book into a bit, right to Vee's face
-~ F42.3 DEEPENED: Randi kissed her and then called it a show. The silence now has a tongue in it
-~ S16.6 DEEPENED: Randi's skirt, Randi's shoes, and the green thong that's been in Randi's fist
-~ L4.1 DEEPENED: "That hem's not going to stay put," and the eyebrow that went up and stayed
++ SUSPICION: Randi left out the back on purpose. She knew it's "all the one service" and let Vee find out face-down, either as a kindness she misjudged or as a test of how far Vee will go without being asked
++ LOVE: "Don't move," the wrong hand, and "a hole in her a mile across where the right hand should have been"
++ LOVE: Alone on the table, her own hand on the smoothness, "the sound she made was not one of pain"
++ FEAR: Vee holds still now "on her own, nobody had to tell her." The yes comes before the question every time, and someone is going to use that
++ GRUDGE: The Tuesday loft dialogue reprinted almost verbatim one chapter later
++ WAITING: The weekend. His hand finding what she did for him, and whether he says why he asked
+~ G58.5 FORGIVEN: The Sunday kitchen came back on the page, "Will you?" and all
+~ S58.1 DEEPENED: "He never told her why." He asks with no reason, and it's Randi's woman who did it, with Randi's name said first
+~ F58.2 DEEPENED: Randi's taste is in Vee's skin now. "Barely stings" was Randi's map, and the map was missing half the country
+~ L10.1 SHIFTED: "The kind of girl who" came in her mother's register with no heat attached. For once it didn't turn into fuel
+~ F1.3 DEEPENED: A woman who presses glass under her nails calls this "barely stings." Her sense of pain is being handed to Vee as advice

@@ -1,30 +1,36 @@
-*capture-dag-v3-grounded · gate ch033 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed 42f2e8c973b4 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch033 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 3f3fa9dd31e8 · 2026-11-06*
 
 REACTION
 
-This chapter is hot, but I felt it slide in a direction I don't like. The opening is the best of it: Vee wrung out on the sheet, his head on her breast, the kisses that "aren't about sex" until the nipple rises under his mouth and he catches her out. That's charged, specific, and tender. "A girl who had a body, not a body that happened to have a girl attached to it" is a good line, and the book earns it.
+Oh, that's a chapter built to make me squirm. And it's the reunion I've been circling, the first time Vee's secret goes into Randi's ear with nobody touching anyone. A brunch table, mimosas, and Vee telling the whole bet: the pantsing, "He checked," the heels and the face in the covers. I was hot for it. The beats work because she's saying them out loud in daylight, and her body keeps pace with every sentence. "The shame of it and the heat of it were not two things" is the sentence I'd underline, even if it explains itself a little.
 
-Then the photo. Oh no. "Only if you promise you'll never share me with anyone." "Never. I'd never share your photograph." I read that sentence three times. It's a very precise promise, and he is a man who says exactly what he means. He promised not to share the photograph. And I know where every one of her confidences goes. Randi is on the other end of this man. The poppy-red mouth, the composed version of herself she built for him, and then "Delivered." I felt that in my stomach. Vee has handed him her naked body in a file, on the strength of a promise that has a hole in it, and she calls that the brave part. I'm genuinely afraid for her. He might not send it. He also might show Randi, and "share" is a word he can argue.
+The retread bothers me. I watched the pantsing, the bet and the spanking last chapter, and now I'm getting them retold, scene by scene. It's the same-story-twice problem. But the retelling is where the irony sits, because I know Randi is the pipeline, and Vee has stopped noticing. Randi's questions ("Walk me," "What was the bet") are the interrogation of a woman who wants every detail. She's feeding on it. Her "Whew. Is it warm in here" is the leak.
 
-The cooking section is lovely but long. I'll note it, I skimmed a little. And the Thanksgiving beat is the actual knife: "I don't go back," the level voice, and then Sheri, alone, at his table. Vee's flicker of jealousy goes out too fast. She's reading everything kindly again, as I predicted.
+The Radford mixer story is obviously a lie, and I'm sure of it. Mixer, blond Redford, phone call, engine running with nobody to drive. Last time the ex was invented. This one sounds like Randi getting through a night without Pace, or after hearing Vee's story. "Dress up, panties to the side, knees wide" is her putting that image in Vee's head on purpose, and it works.
 
-The drawer is the sweetest thing in the chapter, and the saddest, because it answers her fear with an act and no word, again. He made her a place and said nothing. She takes it as love. It may be love. It is also exactly the disease the blurb named.
+The bathroom is the real beat. Vee stops herself at the edge because she pictures Randi looking at her. That is a lot to learn about her: it's not the shame of being caught, it's wanting that gaze and being stopped by wanting it. Then "Sticky fingers?" Oh, that line. I can't tell whether Randi knows, and neither can Vee. I loved that she never finds out.
 
-Still no Randi head. Fifteen chapters. Randi isn't even in this one, but she's all over it.
+And the ending is a small knife. Randi leaves a pastry bite on the plate, the "Delicious" that closes the subject, and the sugar on Vee's lip from a pastry she never touched. Randi kissed her with it on her mouth. After "best friend in the whole world," that's the line I'll keep. The chapter title is the answer: one bite. The want is in Randi, and Vee carries the taste.
 
-GATE 33 — Above Him
+Still no Randi head. Thirteen chapters. I'm used to it, and it's almost the point now, since every sentence of hers is a performance I can read. But I'm owed.
+
+GATE 31 — One Bite
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "He cooked with his head tipped a little toward the pan, listening, and she sat back with her wine and watched him wait on it." (the long cooking walkthrough)
-WHY: The breast scene is hot and tender, and "I'd never share your photograph" is a loaded promise that has me dreading where the file goes. The drawer is a lovely, wordless answer, and wordless is the trouble.
+ROMANCE: 2
+ALMOST-STOPPED: "The shame of it and the heat of it were not two things, they were one thing, and the one thing was sitting in her now with nowhere to go." (the book explaining its own subtext, and the whole bet retold from the last chapter)
+WHY: Vee confessing the spanking aloud to a woman who is feeding on every word is the both-and I read for, and "Sticky fingers?" with no answer is perfect. The sugar on her lip from a pastry she never touched is a great last image.
 
 LEDGER
-+ FEAR: Vee sent Pace a nude, and his promise was only "never share your photograph." Randi will see it, or he'll find a way to call showing her something other than sharing.
-+ LOVE: The top drawer emptied and made hers, with his whole kit squeezed into the lower one.
-+ SUSPICION: "I don't go back" and Sheri alone at his table. His family wound is the scar's twin and will surface soon.
-~ F32.3 DEEPENED: The drawer is another act with no word, and she reads it kindly again.
-~ W18.4 DEEPENED: Fifteen chapters now without Randi's own head.
-~ W32.6 DEEPENED: He still hasn't said the word, and the drawer is the biggest wordless answer yet.
++ LOVE: "Sticky fingers?" and Vee never finding out whether it was a door or a wall.
++ LOVE: The glaze on Vee's lip from the pastry Randi kissed her with.
++ SUSPICION: The Radford mixer story is invented, a night without Pace that Randi is dressing up as a story for Vee.
++ FEAR: Vee stopped herself because she imagined Randi looking, so Randi's gaze is now what governs her pleasure.
+~ F6.3 DEEPENED: Randi pulls the whole bet out of Vee at brunch, asking every question, and the want leaks in "Whew. Is it warm in here."
+~ F28.4 DEEPENED: The wire runs through Randi again, so Pace has not replaced her.
+~ F30.2 SHIFTED: Randi isn't cut out. Vee brings the bet to her the next morning, so the pipeline is still running.
+~ S29.3 SHIFTED: The "no Randi to be told" space gave way, since Vee told her everything the next day.
+~ W18.4 DEEPENED: Thirteen chapters now without Randi's own head.
+~ W30.3 SHIFTED: This chapter was the Randi collision, though it is still all glow and no turn.

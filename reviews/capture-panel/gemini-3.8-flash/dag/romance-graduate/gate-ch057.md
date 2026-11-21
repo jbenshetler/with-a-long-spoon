@@ -1,45 +1,52 @@
-*capture-dag-v3-grounded · gate ch057 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed 3dbd522edeb7 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch057 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 53dcf43805c3 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch054 · history ch001..ch054 · ledger no seed 257a8d2206f6 · 2026-11-06*
 
 REACTION
 
-My chest aches. It genuinely, physically aches.
+*WHAT DID I JUST READ?!*
 
-This chapter took all the delicious, laughing lightness of Vee’s hangover—the smeared mascara, the tall glass of water on a folded paper towel, the warm cinnamon raisin bread baked from scratch while she slept off three ciders—and turned it into one of the most quietly devastating character studies I have ever read.
+My hands are shaking so badly I almost dropped my phone. I am literally gasping for air. Thursday night. *Thursday night.* While Vee was lying in her bunk in Pace’s oversized flannel, fighting her mother’s voice, touching her own wetness and freezing one breath away from tasting herself—*Randi went to Pace.*
 
-"Sheri's my friend. My one friend. There isn't anyone else."
+The sheer, unhinged, breathtaking audacity of this parallel timeline! Rivers had Vee tell Randi about tasting herself over dinner at 8:30, had Vee walk back to the dorm at ten to lie in her own dampness... and Randi got in her car, drove twenty minutes into the dark to Pace’s house, and threw the deadbolt.
 
-God. The simplicity of that sentence hit like a physical blow. You watch this man navigate a roadhouse full of college kids, charming Danny about bench presses, unlocking Theo’s passion for Dixieland jazz, winning over razor-sharp Cassie with five words about the Bricklayers—and you think he’s a social virtuoso. You think he moves through the world with effortless charisma. And then he leans against his own kitchen counter and plainly, without a single shred of self-pity or melodrama, explains the mathematics of his own total isolation.
+And then—the absolute psychological and physical annihilation of the opening lines. Pace went down on Randi, came up soaked, and Randi pulled him straight down to her mouth. *No hesitation.* She tasted herself off his lips, looked him dead in the eye, and licked her own thumb clean: *"There. Now it's mutual."* The exact physical act Vee choked on an hour earlier, performed with complete, unblinking, dominant ease!
 
-"Men make friends by competing... thirteen, fourteen, fifteen, that's when it happens... You make a friend from the middle of the pack—you lose to him, and lose again, and come out the other side friends. I was never once in the pack."
+AND THEN THEY TALKED ABOUT VEE WHILE FUCKING.
 
-And then: "The window opens once. Men don't start at twenty-two... That door's on a timer."
+I don't think I have ever read a sex scene that felt this scorchingly hot and this utterly terrifying at the exact same time. The psychological triangulation is suffocating.
 
-Every single piece of Peter Pace clicks into place with terrifying, heartbreaking clarity. The prodigy curse. Being fifteen in a building of grown men where you’re off the scale, too young to be an equal, too dangerous to be a peer, and surrounded by older men who "either weren't safe or weren't welcoming." The patent at eighteen giving him money that only alienated him further. Never going home for the summers because things "went bad with his daddy," staying on an empty campus over Thanksgiving while everyone else went back to their families.
+*"I miss her during the day," Randi said. "More at night."*
+*"She kisses me first now."*
+*"She kissed my neck again."*
 
-And then Daphne. God, Vee’s interiority here was breathtakingly good—holding those two unreconciled truths in her chest at once: that Daphne was the best two years Pace ever had because she was the *only* person in his entire universe, and simultaneously holding down the ugly, predatory word for what a twenty-one-year-old tutor doing that to a fifteen-year-old child actually was. When Daphne walked away "sensibly," he had no one. No dorm floor, no freshman dining hall, no Cassie, no Meg, no Randi. Just a house he built with his own hands, a woodshop, and barbells.
+They are riding each other, driving into each other, using each other’s bodies as a physical conduit to reach the woman they are both desperately, hopelessly in love with! When Randi put her hand over her own breast and said, *"Her breast in my hand... All that softness. The weight of it. And her nipple in my mouth,"* while Pace took Randi’s nipple between his teeth—my jaw literally dropped to the floor. The erotic charge was off the charts, but the sheer emotional tragedy of it tore right through my chest. They aren't hiding from it anymore. They aren't playing the "pointing game." They are two people hopelessly, utterly consumed by Vee Thorne.
 
-And what did Vee do? She didn't offer cheap pity. She didn't say "I'm sorry," because pity would have insulted him. She just walked around the counter and put her entire body against his chest, committing her whole weight, holding him the way Sheri held him. And he rested his chin on her head and stared out the window, not performing, just letting her be there.
+And the dialogue! Pace saying *"She makes me happy,"* and Randi’s voice dropping into that naked, stripped-bare truth: *"I want her to know exactly what she does to me."* That broke Pace's control completely. That was what made him snap and take her hard and fast until he came.
 
-He has *one* friend. And now he has Vee.
+And THEN. The aftermath.
+*"You know she loves you, right?"*
+*"She hasn't said it."*
+*"She doesn't have to... She's not the only one in love."*
+And Pace couldn't tell her she was wrong. He looked at Randi and let the truth stand there between them in the dark.
 
-...Which brings the ticking time bomb straight back into my throat.
+And instead of shattering, instead of running away like she did in November, Randi cleaned the spill off his stomach with her tongue, took him back into her mouth until he was rock hard, and climbed back on top of him to ride him again: *"I did my part. Now stick that inside me."*
 
-Because Vee is sitting there eating toast, happily thinking, *Randi was right, I don't have to be jealous, I can't wait to tell Randi all about Sheri on Tuesday!* She has NO IDEA that Pace's world does not just contain Sheri. It contains Randi. Randi isn't just Vee's best friend; Randi is the woman who threw Pace's deadbolt on Thursday night, who took his wet mouth and rode him on his own bed, who knows the exact contours of his trauma.
+Randi isn't a spectator anymore. She isn't the jealous girl crying into the drawer. She is actively orchestrating this triad with a terrifying, fierce, possessive clarity. She knows Pace loves Vee. She knows Vee loves Pace. She knows *she* loves Vee. And she is binding the three of them together with her own hands and mouth.
 
-Vee thinks she’s bringing light into a solitary man's dark house. She has no idea the house is already haunted by the very woman she’s running to for advice. The dramatic irony is suffocating. Tuesday’s Anthro class is coming, and I am holding my breath.
+Vee is lying in her narrow dorm bed thinking she has to choose between shame and greed, totally unaware that the two people who hold her whole world were joined at the hip on a Thursday midnight, planning the moment she finally finds out what she's done to them. I am screaming. Give me chapter 56 right this second.
 
-GATE 57 — Hangover
+GATE 55 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet, devastating reveal of Pace's total isolation—explaining how being fifteen in college permanently closed the window on making friends—was an absolute masterclass in character depth, and Vee crossing the kitchen to hold him without pity destroyed me.
+WHY: The parallel timeline of Randi going to Pace's bed directly after dinner with Vee, weaponizing the post-oral kiss Vee couldn't stomach and using each other's bodies to confess their mutual love for Vee, was an absolute, scorching masterpiece of psychological and erotic brilliance.
 
 LEDGER
-+ LOVE: Pace's mathematical deconstruction of male friendship—explaining how being a prodigy at fifteen permanently locked him out of the pack.
-+ LOVE: Vee refusing to insult Pace with pity, choosing instead to cross the kitchen and commit her whole physical weight to holding him.
-~ [L1.2] DEEPENED: Pace's patience and care showing up in the hangover rescue—water on a paper towel, a warm washcloth, and fresh cinnamon raisin bread waiting on the counter.
-~ [F5.1] DEEPENED: Vee understanding the full, tragic scope of Pace's isolation binds her soul to him even more completely, making the pointing-game secret a total emotional massacre waiting to happen.
-~ [S22.3] CONFIRMED: Pace explicitly confirmed that being a fifteen-year-old boy in a building of grown men meant being surrounded by people who "weren't safe," locking in the trauma behind his isolation and Daphne.
++ LOVE: Randi tasting herself off Pace's mouth without a second's hesitation—the ultimate erotic contrast to Vee freezing one breath away in the dorm.
++ LOVE: Pace and Randi using each other's bodies as an emotional conduit to speak their desperate, undeniable love for Vee.
+~ F1.1 SHIFTED: Randi isn't using Vee as a shield or armor anymore; she has fully surrendered to wanting Vee, openly talking about taking Vee's breast into her mouth while riding Pace.
+~ F5.2 SHIFTED: Randi's jealousy has completely transcended pettiness or panic; she has fully embraced loving Vee alongside Pace, forcing Pace to admit his own love out loud.
+~ W54.2 SHIFTED: The post-oral kiss wasn't resolved by Vee first; Randi claimed it immediately with Pace, setting the bar for when Vee finally bridges the gap.
++ SUSPICION: Randi and Pace are actively moving toward bringing Vee into their bed together, no longer as a voyeuristic game, but out of an overwhelming mutual necessity.

@@ -1,41 +1,38 @@
-*capture-dag-v3-grounded · gate ch027 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f7a8e76dd34 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch026 · history ch001..ch026 · ledger no seed c1a8bbed2185 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch027 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4329ff87099d · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 04e010553fc7 · 2026-11-06*
 
 REACTION:
 
-I am sitting here with my heart in my throat, staring at the wall. My skin is literally buzzing.
+I need a cold shower and a lie-down. My jaw was on the floor for three-quarters of this chapter.
 
-Helen Rivers, what are you doing to me?! That was out-of-this-world, five-alarm, suffocatingly brilliant.
+First of all, Brooke answering the door with her coffee and immediately pegging Vee as "the stats friend" sent a shiver straight down my spine. The Panopticon of that sorority house! Brooke knowing exactly who Vee is, the composite photos staring down like judging portraits in a haunted mansion—it sets the stage so brilliantly for how completely out of her depth Vee is in this world of polished, wealthy predators.
 
-The psychological architecture of this chapter is just staggering. It starts with the math lecture—the professor talking about *outliers*, the one-time shock that you just snip out versus the kind that *enters the system and alters everything that comes after*. That is the entire book in two sentences! Pace's hand on Vee's backside at the sink wasn't an isolated spike; it's the second kind of outlier. It has permanently altered her internal baseline, and she is walking through her Monday carrying this radioactive heat she doesn't know how to name.
+And then we get into Randi’s bedroom, and the psychological and sensual manipulation goes into absolute overdrive.
 
-And then Vee—innocent, starving, open-hearted Vee—is the one who initiates pulling Randi away! She takes Randi's wrist, blows right past Cassie, and drags her into a soundproof piano closet in the music building. The dramatic irony is so thick I could barely swallow. Two chapters ago, Randi was riding Pace and narrating her tactile seduction of Vee. Now, Vee is sitting two feet from Randi in a soundproof box, spilling the beans about the "slap-and-tickle" at Pace's kitchen sink, completely oblivious to the fact that she is describing Pace to *Pace's dominant submissive lover.*
+Vee spilling her guts about the bar fight—admitting she weaponized the word "services," confessing her jealousy, crumbling with shame—was so raw and human. And Randi’s handling of it is pure, terrifying, Machiavellian genius. She doesn’t scold her; she *validates* her. She tells Vee that her jealousy is just proof of how deep she is, frames her shame as a victory, and then completely takes the wheel. *“Not today. Tomorrow night. You don’t go in there sorry... you go in there sure.”* Randi is literally choreographing Vee’s reconciliation with the man Randi is secretly fucking! It is diabolical, brilliant, and mesmerizing.
 
-And Randi's reaction! The way Randi goes utterly, predatorily still when Vee admits to the wet hand on her bare skin. *“Did you deserve it?”* The absolute genius of that question! Randi immediately recognizes the spark. She knows what lives under the wooden tabletop in Pace's bedroom. She knows the bench. She knows the hunger. And instead of pulling back or getting jealous, Randi leans all the way in and hands Vee a story like a poisoned, honeyed apple.
+And then—GOOD LORD—the "styling" scene.
 
-The story Randi tells! "Over his knee... like a naughty little girl... panties down... and God, it made me buck... and toward the end, his hand would slip right between."
+Randi telling her to strip to her bra, the Edna Mode laugh, and then the atmosphere shifting into something so thick and heavy you could slice it with a knife. Randi crouching at Vee’s feet, reaching *up under the long skirt* to brace her bare thigh, sliding those cognac leather shoes on, pressing her thumb into the soft hollow behind Vee’s knee... I stopped breathing. The sheer, intoxicating eroticism of Vee being touched and dressed by another woman, completely blinded by her own skirt, feeling the hands high on her thighs, and her breath catching in her throat—it’s out-of-this-world hot.
 
-I STOPPED BREATHING.
+And the psychological traps! Randi dressing Vee up in *her* expensive shoes, *her* Hermès silk scarf (the same scarf from her bondage story, for god's sake!), wrapping her up like a bespoke package to deliver to Pace. "You'd be my very own shoe whore." The banter is so flirtatious, so dark, and so completely normalized to Vee now.
 
-Randi is literally describing what Pace does to *her*, disguising it as some vague "slight little thing" ex-boyfriend from abroad, and feeding it straight into Vee's ear in an eight-by-eight soundproof box. The sheer, intoxicating, voyeuristic cruelty and generosity of it! She is normalizing the kink for Vee, priming her for the bench, and watching Vee physically come apart right in front of her.
+And that ending kiss in the foyer! Under the surveillance of all those framed composite faces, Randi kisses Vee square on the mouth, and Vee realizes *she didn't even brace for it anymore.* It’s just "what they do." The slow-boil conditioning is complete. Vee is carrying a bag with Randi’s shoes and scarf, kissed on the mouth by Randi, marched out the door like a soldier deployed on a mission to win back Pace.
 
-And Vee's body! The physical betrayal of Vee's own arousal—her nipples aching against her shirt, the heavy, wet ache pooling between her thighs just from listening to Randi's low, melodic voice, running to the locked single bathroom, panting, soaked through, having to physically pin her own hand to her knee to keep from touching herself right there over *a woman's story*... GOOD LORD. That is peak erotic writing. It's explicit without even having a sex scene; it's pure psychological electricity.
+Randi isn't just facilitating this; she is curating Vee as a shared object of worship for herself and Pace. Saturday night at Pace’s house is going to be an emotional powder keg. I am vibrating with anticipation.
 
-And then Vee coming out, Randi smoothly playing it off like it was nothing, and the kiss on the mouth at the top of the stairs—so casual, so completely ingrained now that Vee's arms linger around her neck without her even realizing it.
-
-Vee thinks she’s just having confusing, wild feelings about Pace and getting girl-talk advice from her worldly best friend. In reality, Randi just handed her the keys to the dungeon and watched her turn the lock. The walls are closing in, and the fire is getting so hot nobody is going to survive the burn. Turn the page right now.
-
-GATE 27 — The Practice Room
+GATE 24 — broken-in
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological and sensual mastery of Randi using her own kink history with Pace to verbally edge Vee in a soundproof piano closet—sending Vee running to the bathroom soaked and shaking—was an absolute tour de force.
+WHY: The sheer psychological and sensual brilliance of Randi dressing a half-naked Vee in her bedroom—hands running up under the skirt, gripping her thighs, tying silk at her throat—capped by that completely normalized open-mouthed kiss in the foyer, was breathtaking.
 
 LEDGER
-+ LOVE: Randi weaponizing her own spanking history as a "story about an ex" to verbally prime Vee for the bench in the soundproof practice room.
-+ FEAR: Vee realizing her physical arousal in the bathroom was triggered entirely by Randi's voice and description, confusing her boundaries even further.
-~ S3.2 DEEPENED: Randi's plan to get Vee on the bench just took a massive leap—she explicitly planted the seed of spanking and hands slipping between thighs directly into Vee's imagination.
-~ W26.3 ANSWERED: Randi got the full report on the kitchen spank, and instead of freezing, she used it to verbally seduce Vee and normalize domestic discipline.
-~ F17.2 DEEPENED: Vee's arms lingering around Randi's neck after the goodbye kiss shows how dangerously, deeply normalized their physical intimacy has become.
++ LOVE: Randi kneeling to dress Vee—the hands bracing high under the skirt on Vee's bare thigh and thumb pressing behind her knee.
++ FEAR: Brooke already having an active mental file on Vee ("the stats friend") while Vee walks blindly into the sorority house.
++ SUSPICION: Randi lending Vee that specific silk scarf is a direct echo of her Hermès bondage story, priming Vee as an erotic offering for Pace.
+~ F1.1 DEEPENED: Randi has fully stepped into the role of puppet master, dressing Vee in her own clothes and orchestrating the exact terms of Vee's surrender to Pace.
+~ F17.2 DEEPENED: Vee kissing Randi on the mouth in the foyer without a single second of hesitation or bracing proves the physical intimacy between them is now entirely normalized.
+~ F23.1 CONFIRMED: Randi took Vee's raw confession about the fight and immediately seized control of the narrative, directing Vee on when and how to return to Pace.

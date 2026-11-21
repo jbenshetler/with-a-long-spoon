@@ -1,35 +1,46 @@
-*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed ba5052874569 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 68b9dce8006a · 2026-11-06*
 
 **REACTION**
 
-She washed the shirt. In chapter 23 it smelled of "fabric softener and no one," and that was grief. Now she's washed it on purpose, because it had gone to nothing, and she hands it to him and says *wear it for me, give it back Sunday so it smells like you again.* That's the most naked thing she's said to him in two books, and she has her clothes on when she says it. He reads it as her giving it back and you see the hurt start in his face. Then he gets it, and the rare smile comes, and he pulls the flannel on over the shirt he's already wearing and stands in his kitchen in two shirts because she told him to. I teared up a little, same as her. It's lovely. It's also, once again, everything except the word. "That was the whole of his answer, as it always was." I know, book. You've told me. You just told me again.
+The drawer. I'm starting at the end because I can't stop thinking about it. "Vee's drawer stood out from the cabinet an inch." He pushes it shut with two fingers and blames the house settling in the autumn cold. No, Pace. She heard the second drawer and was gone "longer than it took to find a shirt." She went through the bedroom, found the green satin under his undershirts, and on her way back she opened the drawer you built for Vee. She looked at the room with space to spare, the pins in their little dish, all of it. Then she came into the kitchen with her face washed and her eyes liquid and fucked you holding Vee's panties against your chest, without a word, eyes on the wall, making a sound you'd never heard from her. Afterward she cried and called it hormones. The man who reads every breath she takes decides the grief is that she's never given him anything to keep. That's close, and still wrong. She found two keepsakes, a drawer and a pair of folded panties. Vee gets a place in his house. Randi gets a coffee poured black, and she leaves it untouched on the counter. I texted "THE COFFEE" to nobody.
 
-The hallway undressing is the best sex writing in a while, and it's funny. The jeans "had been sensible in the car and were the enemy now." She hops one-legged with the denim inside out. She's standing in his hall in green satin and white cotton socks while he leans there enjoying himself, and he holds the bra so she has to unwind herself out of it "like something off a spool." Then "her body having just published the number she'd gone to such trouble to keep private." That's the shame-and-heat wire again, and it's specific to her: five nights of careful story about studying, given away by her own throat. I believed every bit of it. She still wanted him to fight for the nights, and he gave her "of course" instead, and his grace "cost her more than a fight would have." That's the jacket line with real hurt in it, and it's the most honest thing in the chapter.
+Then I went back to the beginning and realized what else I'd been handed. The pointing game, from his side, finally. "He had already chosen; the pointing was only to find out whether they had chosen the same." So it wasn't Randi's pick. It was never only hers. He saw the copper in Vee's hair, pictured both of them on his pillows, got hard on the quad with Randi's hand in his, and then let Randi believe her face had picked. "That part was all you." He tells her the true answer and leaves out the truest part. Since chapter 1 I've suspected Randi was outsourcing the bench. Now I think Pace was outsourcing the wanting, letting her carry the choice so it would feel like a gift to her. That's colder and smarter than anything I'd guessed.
 
-The thong. It lands green "on the long, unusually proportioned table that stood in the middle of his bedroom," and she never looks. Two chapters ago Randi stood in that bedroom with Vee's *other* green satin balled in her fist. Now Vee's new green lands on top of the bench, and the book has to step outside Vee's head to show me, because Vee can't see it. That's the narrator nudging me with an elbow, and I felt the nudge. Also, wasn't the bench against the wall in chapter 25? Now it's in the middle of the room. Maybe it got moved. Maybe it's a slip. I noticed either way.
+The couch scene is the hottest thing in the book, and the heat comes out of the argument. "I'm doing it for *you*." "I didn't ask who it was for." "It's *work*." "Sounds grueling." Then he says, kindly, "You don't have to do it for me," and that sentence makes her come. She's been allowed to want Vee for herself and her body takes the permission before she can refuse it. Then "God, I want her," into the wood, and "For us," a second too late. She's facing away so he can't see her face and she forgets the mirror. That's the bench night again, with her trying to hide and him seeing everything. "Tell me" is back, and this time it's Pace pulling it out of her with his hands, which flips chapter 6 completely. I loved it and it made me queasy, which is the deal with this book.
 
-Here's my real problem. Last time Randi's face went white over MIRANDA and Vee kept it to herself. Before that, Randi went through Vee's drawer and left Pace's coffee untouched. Not one breath of any of it here. Vee walks into the bathroom and loves "her space," and the drawer Randi opened an inch gets nothing. No thought of Randi at all, no Monday, no anthro night class, no group project. It's the come-home chapter: door, kiss, clothes on the floor, two orgasms, he cooks, she tastes everything, tender gesture, soft landing. That's curry, then the sandwich, and now pizza and a shirt. The cooking stretch went on again, romas and buffalo mozzarella and the cornmeal on the stone, and I skimmed. "Cotton candy and a bowl of cut strawberries" is the "mouth asleep" speech she already gave Randi. It's beautifully done, and I've read it four times now.
+"It isn't you I'm checking on." Oof. He's being good about Vee's consent, and I believed "or I'm done." But Randi said "don't ask me in that voice" because she wanted it to be her he was checking on, and he told her straight that it wasn't. Then on the blanket she says "You see more of me than anybody ever has… some nights it frightens me." It's the closest she's come to saying the bathroom mirror out loud, and he answers "Then I'll be careful with you." It's lovely and he means it, and he still has no idea what he's being careful of.
 
-Twenty-one chapters without Randi's head, and this time she isn't even a thought in Vee's. The book keeps letting her drop out at exactly the moments she's most dangerous. I loved this chapter while I was in it. I don't feel pulled out of it, though. It closes warm and complete, and what I want next is the story it skipped.
+And "told her she'd come to class still full of you." Wait, she said that to Vee's face? Full of *him*, presumably, the boyfriend. That's Randi playing chicken in a lecture hall, and I want Vee's side of that moment badly. Nineteen chapters without Randi's head, but this was the closest the book has let me get. Pace's eyes are so exact on her that I could feel her from the outside: her hand on the arm of the couch, the "shrug that was not one of hers," her hand pulling his arm tighter and then tighter again, twice in one night.
 
-GATE 37 — The New Ordinary
+Gripes, small ones. The three-times recap at the top is the montage habit again, though this time it's setting the stakes for "four," so I'll allow it. "Some women cried after… it meant nothing, or nothing bad" made me want to throw something at him, and that's character, not craft. But "She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it" closes the scene down a beat too neatly, even as Pace's misreading. And the fourth orgasm hurting is good, but "a sound into her back he did not recognize" is the second unrecognized sound in one chapter. I noticed.
+
+He folded the panties in thirds, spot centered, the way Vee did. This book is going to wreck me.
+
+GATE 35 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 2
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He grated the cheese over it himself, a pale wet ball of it he unwrapped from paper." The pizza stretch is where I realized I was in the cooking paragraph again and started skimming for Randi.
-WHY: The undressing is funny and hot, and the shirt is the best wordless love beat since the drawer. But it's the reunion template again, ending on a warm coda, and it ignores everything chapters 35 and 36 left burning. The only thing pulling me forward is dread, plus a green thong on the bench.
+ALMOST-STOPPED: "Whatever it had been, she had come through it." The narration closes the door on Randi's crying right after it opened, even if that's Pace's misreading.
+WHY: The explicit sex and the reveal are the same scene: "You don't have to do it for me" is what makes her come, and "God, I want her" gets out before "for us" can stop it. Then the green satin, the untouched coffee, and Vee's drawer standing open an inch. Randi has been through the house, and I need the next chapter tonight.
 
 LEDGER
-+ LOVE: "I need you to wear it for me." The washed flannel, and him pulling it on over his own shirt, two shirts in his own kitchen
-+ LOVE: The hallway undressing: jeans inside out, white socks, the bra unwound off her like a spool, and her laughing at him
-+ SUSPICION: Vee's green thong landed on the bench, the same green Randi held in her fist, and the narrator made sure I saw what Vee didn't
-+ GRUDGE: The come-home template again: kiss in the door, clothes down the hall, two orgasms, a long cooking stretch, a tasting speech, a tender coda. That's the third soft landing in a row
-+ GRUDGE: The bench was against the wall in chapter 25, and now it's "in the middle of his bedroom"
-~ F32.4 DEEPENED: She wanted him to fight for the five nights, and his easy "of course" cost her more than a fight would have. The silence is starting to hunger
-~ L23.6 DEEPENED: The shirt that smelled of "no one" got washed on purpose and handed back to be filled
-~ W29.8 DEEPENED: The bench is out in the open again, with green satin lying on it
-~ W18.5 DEEPENED: Twenty-one chapters without Randi's head, and this time she isn't even in Vee's
-~ F35.1 DEEPENED: Vee loves "her space" in the drawer Randi opened, and has no idea anyone else has been in it
-~ W36.6 DEEPENED: Nothing about MIRANDA or Randi's face. The book just dropped it
++ FEAR: Randi went through Vee's drawer after the panties. She knows exactly how much room Pace has made for Vee, and she'll do something with it
++ SUSPICION: Pace chose Vee first and let Randi think her face made the pick. "That part was all you" is a true sentence holding a lie
++ GRUDGE: He reads every muscle in Randi and settles on "hormones," then on a grief about keepsakes. He pushes the drawer shut and blames the weather
++ LOVE: "You don't have to do it for me," said kindly, and her coming on it before she could argue
++ LOVE: "Then I'll be careful with you," and her pulling his arm tighter, then tighter again
++ WAITING: Vee's side of Monday stats, with Randi tucking her hair back and whispering "still full of you"
++ GRUDGE: "It isn't you I'm checking on." He's right about Vee, and it lands on Randi like a slap
+~ S1.2 SHIFTED: Pace already wanted Vee before Randi chose her. The outsourcing ran both ways
+~ S3.4 CONFIRMED: "He had already chosen." Vee was for him from the first sight of her on the quad
+~ L6.1 DEEPENED: "Tell me" came back, but now Pace pulls it out of her with his hands, and the telling turns into her confession
+~ W15.6 DEEPENED: "God, I want her," said into the wood, then "for us" a second late
+~ S34.2 CONFIRMED: She wants Vee for herself. Calling the kissing "work" for the threesome didn't survive one kind sentence
+~ S6.2 DEEPENED: He misreads her crying again, this time as hormones and as wanting something of hers kept
+~ F16.1 SHIFTED: The panties finally reached Randi's bed, but she found them herself and fucked him holding them
+~ S17.3 CONFIRMED: Randi knows exactly where the green panties went. She dug them out of his drawer
+~ W3.7 DEEPENED: Untouched black coffee, ruined eggs, and him going hungry. Randi still won't take what he pours her
+~ W18.5 DEEPENED: Nineteen chapters without Randi's head, but Pace's eyes got me closer to her than ever
+~ F2.3 DEEPENED: "You see more of me than anybody… some nights it frightens me." The bench mirror, almost said out loud

@@ -1,43 +1,44 @@
-*capture-dag-v3-grounded · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 4dcd987b8bf2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch036 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 7758c748bf79 · 2026-11-06*
 
 **REACTION**
 
-Okay. I need a minute with this one, because I can't tell whether I just watched the book change gears or lose the plot.
+"It doesn't," Randi said, low and not quite even.
 
-Last night I closed the book on the drawer standing out an inch, the untouched coffee, and Randi coming apart in his bed holding Vee's panties. I wanted Vee's Monday, the stats class with Randi tucking her hair back and whispering "still full of you." What I got was a group project on pandemic loans. For about a page and a half I really thought I'd picked up the wrong book. When "Cassie wanted PPP" arrived, my thumb was hovering over the library return button. I've been grumbling since chapter 27 that the stats lectures were the theme announcement. Now the theme has a slide deck and a 25% weight. "Here they argued with data, not with analogies." Really? The book is winking at me about its own analogies in the chapter literally called "The Outlier."
+That's the line I'd text at 1 a.m. Eighteen chapters without Randi's head, and the book finally gave me her face doing something she couldn't stop. Her eyes went bright and unfocused, she gave one small shake of the head, and there was a catch in her breath. What set it off wasn't the sex or the spanking or the photo. It was "Like he wants *me*. With the body attached." That's the thing Randi has never had and maybe never let anyone try to give her. Since the bench she's been a perfect surface, and Pace looked straight through it and she went back behind the mirror. Now the girl she picked off the library steps is sitting across from her describing the exact thing she couldn't take. Vee files it as "a Saturday of hers could do that to a woman like Randi" and goes warm with pride. I wanted to reach into the booth and shake her.
 
-Cassie's dad got laid off in 2020, and Randi's dad took several loans. The one point off by itself in the white turns out to be MIRANDA. That's a lot of coincidence for a book that's been so careful. It's the bar blonde all over again: the plot handed to the characters by a device instead of grown out of them.
+Then the photo. Oh, Vee. I've been dreading that picture traveling to Randi since the induction, and I had it wrong all three times. Pace never had to break his promise. "I'd never share your photograph," and he hasn't. *She* did. She had the cropped one ready "since the morning after," which means part of her always meant to show somebody. Then Randi slides the phone back with "You don't have to show me." That's the same move as "You don't have to tell me" in chapter 15, the door closed softly to make her push it open, and it works perfectly. "You only gave him *half*?" Then "I gave him *all* of it," and the phone goes into Randi's hand. Every fear I logged about Pace carrying her to Randi was the wrong fear. Vee is her own courier, every single time.
 
-Here's what kept me reading anyway. It's the first time in thirty-six chapters that Vee knows something about Randi that Randi doesn't know she knows. Randi has been collecting Vee piece by piece since the library steps: the wet satin, the thumb behind the knee, "he checked," the uncropped photo. Now Vee gets one piece of Randi, and she doesn't take it. "She did the one useful thing there was, which was to give Randi somewhere to put her hands." She slides the laptop over, hands Randi the busywork, and never says the name. That's the opposite of everything Randi has done to her, and Vee doesn't even know there's an opposite. I loved her for it, and it hurt. "Randi had no idea she'd been looked at." That's the bench in a glass room. The woman who can't stand being seen gets seen at her worst, by the one person kind enough to pretend she wasn't.
+"Showing him your toes, eh?" And then under the table, a bare foot with sky-blue nails stroking her leg, twice, deliberate as a fingertip. Randi isn't debriefing for Pace anymore. She's courting. The feet have been her thread since the boutique, and now it's her bare foot on Vee's leg in the dark. Vee looks down, sees a shoe on its side, looks up, and Randi just keeps talking. Vee doesn't even register it as a question. Then she leans up the last half-inch into the goodbye kiss, takes a second for herself, "decided it was what she wanted, and didn't bother about it again." The bond turned in this chapter and Vee walked straight over the turn.
 
-And MIRANDA. Pace gave Vee "Peter" by the fire, as a gift. Vee gets "Miranda" off a government page, as a wound. I noticed the rhyme and I liked it, though the book was nice enough not to point at it.
+And the night class. Tuesday and Thursday, seven to eight-twenty. Those are school nights, the ones Vee's been spending at Pace's. Randi said "Done" immediately and "Just us" came out rough. Randi didn't steer that one; Vee handed it over herself, which is worse. Randi now gets Vee two weeknights, and I don't think Pace knows.
 
-"Cheating bastards." It's plural, and the book makes a little fuss about the plural. Is that the father and the mother? The egg-white mother with "a knife in it"? Suddenly the Mercedes, the loafers bought without checking the price, and the never-opened wine list all have a smell. Randi has been paying for Vee's whole education in glamour with that money. And Vee, still filing Randi under Swiss schools, now has a rich daddy who cheated, and she's casting Randi as the innocent daughter "dealt a rotten thing." Maybe. I'm not sure Randi didn't know. The ragged way it came out makes me think she didn't, but she was "aiming the whole picture" at her own county. She wanted to prove him good. That's a girl who needed him to be good.
+"You're just finally hungry out loud." The jacket line landed, and I'll admit it's lovely. It's an absolution, and it's also exactly what Randi can't say about herself. "Does he have a brother?" made me laugh and wince, because he's her lover, not her fantasy.
 
-Also, Cassie and Randi are now on opposite sides of an actual argument with Vee in the middle chair, "loved them both." That's the triangle again, with Cassie as the third corner instead of Pace. I hadn't seen that coming. It's sharp, I'll give the book that.
+Gripes, and they're real. This is the brunch for the seventh or eighth time: hostess, mimosas touching rims, the prices column, Randi's attention, the confession, the curb kiss, "See you soon, gorgeous." I can recite it now, which is the KU feeling I came here to get away from. The sex in this chapter is a montage *told aloud*. "Two, three. And then there's mornings… and afternoons." The reunion-montage problem from 32 and 33 now comes as dialogue. Some of it is hot because of where it's said (the sheets in both hands, "fast then slow then some way I don't have a word for"), but it's still summary. "Leaned in over the soup that wouldn't come," when she ordered the Benedict? That's a slip, and it pulled me out. The yolk-running paragraph is the book nudging me with the food-as-sex wire again. And the sleep and the quiet and the playlist stretch went on long enough that I started looking for Randi's face.
 
-Gripes: zero heat right after the hottest chapter in the book, and the professor drone at the top was throat-clearing. "Not that she let herself think about it much," and then she thinks about it for a whole paragraph of explanation. And twenty chapters without Randi's head, in the one scene where I'd have paid anything to be in it. I'm not quitting. But this needs to turn out to be about Randi's wound, and not an op-ed wearing her clothes.
+But Randi's face is what I got. That's what I've been waiting for since chapter 18, so I'm paying the formula tax again.
 
-GATE 36 — The Outlier
+GATE 34 — All the Time
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "Cassie wanted PPP." That's where the book stopped being about bodies and started being about a policy paper, the morning after the drawer.
-WHY: The device is clunky and convenient, and it skipped everything Chapter 35 left burning. But Vee seeing Randi at her worst and handing her somewhere to put her hands is the first time the gaze has run the other way, and I want to know what that costs everybody.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Vee read the right-hand column first — the prices, always the prices first." That's where I felt the brunch template lock in one more time.
+WHY: It's the same brunch, but Randi cracks on the page for the first time in eighteen chapters, the nude goes into her hand by Vee's own choice, and a bare blue-toed foot under the table means Randi is courting her now, not reporting on her. The Tuesday/Thursday class has me worried about what happens to Pace's school nights.
 
 LEDGER
-+ GRUDGE: A PPP group project and a too-convenient outlier, landing right after the drawer cliffhanger. The plot was delivered by device, like the bar blonde
-+ LOVE: Vee giving Randi "somewhere to put her hands," never saying the name, and keeping the secret as a kindness
-+ SUSPICION: "Cheating bastards," plural. Randi's whole glamour runs on her family's dirty money, and her mother is in it too
-+ SUSPICION: Randi aimed the project at her own county to prove her father good. She needed him clean, so maybe some part of her already wondered
-+ FEAR: The presentation goes up in front of the class with MIRANDA's county as Cassie's star example, and Randi gets exposed in public, or she quietly sabotages the slides
-+ WAITING: Whether Randi ever finds out Vee saw, and what it does to a woman who can't stand being seen
-+ LOVE: "Miranda" found on a government page, the bad-luck twin to "Peter" by the fire
-~ G27.5 DEEPENED: The outlier lecture became a literal outlier, with a wink about "data, not analogies"
-~ W35.6 DEEPENED: The book skipped Vee's side of "still full of you" entirely
-~ F35.1 DEEPENED: Not a word about the drawer. Randi just shows up bright and normal, which is scarier
-~ W18.5 DEEPENED: Twenty chapters without Randi's head, in the scene where her face went white
-~ F4.2 SHIFTED: Cassie and Randi are now on opposite sides of an actual argument, with Vee in the middle chair
-~ L4.4 SHIFTED: Vee finally knows something real about Randi, and it's not Kentucky. She still has her filed as a victim of glamour
++ LOVE: "It doesn't." Randi's eyes going bright and unfocused at "he wants me, with the body attached," the first crack she couldn't smooth over
++ SUSPICION: Randi's bare foot under the table is her own move, not Pace's game. She's courting Vee for herself now
++ FEAR: The Tuesday/Thursday night class hands Randi two of the school nights Vee's been giving Pace, and "Just us" came out rough
++ WAITING: Whether Randi tells Pace she's seen the uncropped photo, and what he does with the fact that Vee showed it
++ LOVE: Vee leaning up the last half-inch into the goodbye kiss and deciding it's what she wants
++ GRUDGE: The sex came as montage again, this time told aloud over brunch, plus "the soup that wouldn't come" when she ordered Benedict
+~ F33.2 CONFIRMED: The posed nude reached Randi, but Vee carried it herself, uncropped
+~ F33.1 SHIFTED: He kept his word to the letter. She was the one who shared it
+~ F28.1 SHIFTED: It wasn't the induction photo that traveled. The nude did, from Vee's own hand
+~ G9.7 DEEPENED: Another brunch with the same template: rims, prices, confession, curb kiss, "gorgeous"
+~ W18.5 DEEPENED: Eighteen chapters without Randi's head, but her face finally broke where I could see it
+~ W31.7 DEEPENED: The blue-toed foot under the table is a door, and Vee didn't even see it was one
+~ L20.1 DEEPENED: Randi's feet again, bare this time, on Vee's leg
+~ F31.5 DEEPENED: "Still couldn't get over being the one Randi picked." The pointing game is going to hit her right there

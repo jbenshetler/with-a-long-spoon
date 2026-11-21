@@ -1,31 +1,32 @@
-*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 970788d689b4 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 15c128a453f7 · 2026-11-06*
 
 REACTION
 
-Okay, so this is the same night as Randi's Gstaad chapter, told from Vee's twin bed, and I get why it's built like a mirror. Same New Year's Eve and the same text exchange, now seen from the receiving end. Last chapter I watched Randi write "you ANGEL" with a man asleep behind her and a face on over nothing. This chapter I watch Vee read it and envy a billionaire and a "wild weekend" that was a sandwich eaten fast. That's the best thing in it. The reader knows every word was true and none of it was the thing. Vee builds an entire fantasy out of it, and she builds it in the wrong direction.
+Finally. She asks it out loud, in his doorway, with her coat buttoned and her hands in her pockets, and I wanted to cheer. The withheld kiss is the best beat in the chapter. She makes him arrive at the fact of it, and the book lets me watch him not understand. After five chapters of the ache circling, this is the first time she acts on it.
 
-The room that "did not know her" is lovely and specific. The trophies, the little gold swimmers, the clarinet, lavender plugins. "The cold room kept watch over the girl who was gone" is a good last line.
+"Words are cheap. Believe what I do." is the line I knew was coming, and it still landed like a slap. It's the blurb's own sentence, spoken by a man who is not cruel and is therefore worse. "Do any of your friends have a relationship you'd rather have than this one?" is a masterpiece of a dodge. It's true, so she can't even win the point. And then her answer, "Words are cheap, and you still won't spend them on me," is her best line yet.
 
-What I loved is that she sat on the MIRANDA record and still didn't say. She's holding the kindness, and she envies the mountains anyway. That's real. It's not cleaned up.
+He folds his arms and holds the line "at cost." That's the detail I'll keep. He knows what he's refusing her. This is choice, not blindness, and I'm angry at him in a way I like. Then the hand reaching for her, "not the hand in place of the word," is the book finally refusing to let touch substitute. She leaves. I'm cheering and also heartbroken.
 
-The part that hurt, and in a good way, is the blonde. She builds a rival out of spite, then the night with the fra diavolo goes blonde while she's still inside it, and she can't keep her own memory. That's a precise and cruel invention. And she doesn't know the truth is worse: he's been with Randi the entire time. She's jealous of the wrong woman, again. Same as ch23.
+I did notice something. "You're the most important person in my life" is a real answer, and she brushes past it fast. I wondered if she's being unfair, then decided no, because it's a thing and not a name.
 
-But it's a long chapter of lying in bed. I know she's lonely and I know he hasn't named it, and I've now been told that five or six times. The "no name" ache is looping. The plot didn't move: no Pace, no Randi in person, nothing new. The recap of the pictures and the dress was a retread. I only stayed because the mirror structure paid off with the text. And the flashback block of two chapters telling me one night twice makes me want to get back to January and see what she does with it.
+Still no Randi, still the plot hasn't turned, but this is a scene, with a door slamming. The speech is long and a little self-explaining, though in dialogue it earns it. The beat I want next is where she drives to, and my bet is Randi, which is the worst possible answer.
 
-GATE 43 — Old Acquaintances
+GATE 41 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "She had no answer that would fit in this house. She was no longer sure she had one that fit anywhere." (the home-for-the-holidays inventory and the loop of the same ache)
-WHY: Watching Vee read Randi's every-word-true text and envy the wrong life is the dramatic irony I read for, and the blonde she invents is a cruel, exact touch. But it's another static night in bed with the same unnamed ache, and I want January to move.
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "I want to know what we are." (the long speech laying out everything the book has already shown me)
+WHY: The withheld kiss, "Believe what I do," and her walking out are the confrontation the whole stretch has been building toward. It's finally a scene instead of an ache, and I need to know who she turns to.
 
 LEDGER
-+ LOVE: Vee reading Randi's "fairytale" text and envying a night I know was a sandwich eaten fast, the mirror of ch42.
-+ LOVE: The blonde rival she builds from spite, and the fra diavolo memory turning blonde while she's inside it.
-+ GRUDGE: Third static, heat-free chapter in a row, with the "no name" ache restated yet again.
-+ SUSPICION: Pace's silent Christmas week may hold something real (Sheri, or his family wound), not just the blonde Vee invents.
-+ WAITING: The first day of term, Vee and Randi face to face, and whether Vee tells her about the fight with Pace.
-~ W41.5 DEEPENED: Vee went home to Ohio and Pace sent nothing, so the fight just sits unresolved.
-~ F41.1 SHIFTED: She didn't drive to Randi. She texted her kindly and Randi answered with a lie, so the pull is still coming.
+~ W40.2 ANSWERED: In daylight she asked him straight, in his doorway, and he gave her "believe what I do."
+~ F38.1 CONFIRMED: He heard the question, took it seriously, and chose the dodge, holding the line at cost.
+~ W32.6 RESOLVED: She asked outright and he still wouldn't say the word.
++ FEAR: She drives to Randi next, and Randi turns the breakup into the thing that finally pulls her fully in.
++ LOVE: The withheld hello kiss, and him not understanding why.
++ LOVE: "Words are cheap, and you still won't spend them on me."
++ SUSPICION: His silence is a deliberate vow tied to the Randi plan or to his past, not just temperament.
++ WAITING: Where Vee goes tonight, and whether Pace tells Randi or goes after her.

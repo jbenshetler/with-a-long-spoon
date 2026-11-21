@@ -1,34 +1,34 @@
-*capture-dag-v3-grounded · gate ch068 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 6cd936c0e3ca · 2026-11-06*
+*capture-dag-v3-grounded · gate ch068 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d88fa56f29dd · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch065 · history ch001..ch065 · ledger no seed 925b0c0c6343 · 2026-11-17*
 
 REACTION
 
-Oh, here's the trap, and the book springs it on me while I'm still smiling at the nice domestic week. The coffee in the thermos "because of her" is lovely and I knew it was setup.
+Okay, this is the chapter where Vee tries to be good and Randi, without lifting a finger, makes her fail. I loved the opening: the pants buttoned like a church pew, the pearls, "dressed for Randi to see less of her." It's funny and sad.
 
-The scene itself is the both-and I read this for. The tan-line photo, "wish you were here," her hand going down before she's decided, and "this is my best friend" and doing it anyway, with the "anyway" being most of it. Then the clean empty space where Pace's rule should have been, and she notices how free it is and refuses to look. That's the whole chapter, and it's exact. I'm in her bed with her.
+The brunch is the engine running at full tilt. Randi tells a feet-pics story, a joke that shows she's fine and hasn't spent a week thinking. Then Vee, guarded to the collarbone, retells the body-paint scene, and the foot in her lap is a delicious piece of staging. "Your pussy," said helpfully, is Randi doing what she does. The photo is the big one. I noted last chapter that Vee decided Randi would never see it, and she hands it over in four paragraphs because refusing would admit what's changed. That's psychologically exact and a little infuriating.
 
-Then "You're awake," and the fingers. The courtly kissing is a gorgeous squirm. The other fist, then "But it wasn't you." Oof. I said last chapter she'd have to edit Randi out of every report, and she didn't edit, she blurted. The blurt is the honest part of her beating her cover story, and she hears the hole in the sentence. Turning the phone around is a brilliant desperate move, and his pulse inside her is a gift. She reads it as simple male reaction, and I can't. Pace has been steering her toward Randi for weeks, and I think he just saw exactly what he wanted to see. His face "did nothing at all" is the line I'm chewing on.
+Then the turn. Randi names the taste thread: "If it doesn't mean no anymore, maybe you should tell him." I read that as Randi steering her toward her own mouth, with her own taste on it. Vee bolts and masturbates in the restaurant bathroom, and Randi's face and mouth arrive at the peak, with "what would Randi taste like" said outright in her head. That is the first time she has let the thought be about Randi's body and not just Randi's face. The chapter earns its heat.
 
-The interrogation is hot, and it's the January ritual again, but with a twist: she realizes "I have done this before," and then shoves it down. The turn is that she gets to "I wanted to be the one doing it." Not Randi's mouth on her. Her mouth on Randi. That's a real step in who she is, and he drives up into her right at the sentence. He's pleased, I'm sure.
+What got me was Randi's face when she comes back. Glassy, no smile, looking like Vee had done something to her. Vee reads it as disappointment. I know it's the picture, and the sadness of a woman who wants it and has to stay the friend. The goodbye kiss, redone "right," is Randi coming apart under the cover of ritual. Vee goes soft into it, then runs. "Get your sex brain under control. Starting now" is a great sad joke, because she's been promising that for a week.
 
-Then the quiet part is the best part. The same hand, the same name, the same man waiting, and she doesn't tell him about January. "The last time she had not had to decide." That's her first real choice to keep a lie, and I felt it settle. Last, the unsent cursor and Tuesday looming. Randi's face, finally.
+Complaints: the third bathroom-masturbation scene is a pattern now, though this one had a real new beat. The mirror cleanup and "Randi always knew" ran a bit long.
 
-Grumbles: the sex brain callback fails on purpose, fine. The week-summary opener is a bit soft. And I'm impatient for Randi's head, again.
-
-GATE 68 — Postcard
+GATE 66 — Gesso
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "She had brought out a duffel on Saturday and by Monday it was empty, because there was a drawer" (the domestic week-summary before the phone lights up)
-WHY: The tan-line photo, "But it wasn't you," and "I wanted to be the one doing it" are the shame-and-want wire at full tilt, and her choosing not to confess January is a real turn. Pace's blank face and that pulse have me suspicious, and I need Tuesday and Randi's head.
+ALMOST-STOPPED: "She washed her hands with the pink soap from the pump, up past the knuckles, and dried them, and smelled them, and washed them again." (the mirror and cleanup run after the peak)
+WHY: Randi handing the taste thread back as advice, then Vee's "what would Randi taste like" in the stall, is the both-and I read for. Randi's glassy, unsmiling face on her return and the redone goodbye kiss have me desperate for the next one.
 
 LEDGER
-+ LOVE: "I wanted to be the one doing it." Vee wanting Randi in her mouth, not Randi doing it to her.
-+ LOVE: The courtly "May I kiss your fingers?" and her unclosing the fist.
-+ SUSPICION: Pace's blank face and the pulse at Randi's photo mean he got exactly what he'd been steering toward, and he isn't surprised.
-+ FEAR: Vee has now consciously decided not to tell Pace about January's lie, so the secret will compound.
-+ WAITING: Tuesday, Vee's face meeting Randi's, and whether she answers the "wish you were here" text.
-~ F62.1 DEEPENED: She lied in January and chose, this time, to keep it.
-~ F67.3 DEEPENED: Randi wasn't edited out; she blurted "it wasn't you" and had to report it, so the trap sprang within a week.
-~ W66.3 DEEPENED: Randi is off on an island and still has no head on the page.
++ LOVE: Vee dressing in church-pew pants and pearls to see "less of her," and the hug with her hips held back.
++ LOVE: Randi's foot in Vee's lap under the table and "Your pussy," said helpfully.
++ SUSPICION: Randi's "maybe you should tell him" is steering Vee toward tasting herself, and Randi wants to be the one she tastes.
++ FEAR: Vee handed over the photo she'd decided Randi would never see, so Randi now holds the second nude and Vee's secret is gone.
++ WAITING: Vee finally working out whose taste it was, or Randi saying it first.
+~ F60.5 CONFIRMED: Randi saw the photo within a week.
+~ S61.3 DEEPENED: Randi's glassy, sad face at the table fits a woman holding her want in.
+~ F31.4 DEEPENED: Vee's pleasure in the stall was governed by Randi's face and mouth, and for the first time her taste.
+~ W63.4 ANSWERED: Saturday brunch happened, and neither of them said it aloud.
+~ W65.5 SHIFTED: Brunch happened, and Randi hid everything behind a feet-pics joke and a redone kiss.

@@ -1,30 +1,31 @@
-*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 284458a67a70 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed e938d6f60752 · 2026-11-06*
 
 REACTION
 
-Whoa. A hard swerve, and I'm not sure I like it. After the heat of 35, I get a statistics project meeting with a group assignment in it, and no bodies at all. That's the second kind of quiet I flagged before, and the book is leaning on it.
+Okay. This is the chapter where the book shows me its own hand, and I felt it. Vee walks in and tells Randi everything: the amount of it, the sheets in both fists, "sex brain," and then the line the blurb has been waiting for. "You're just finally hungry out loud." Randi says it like absolution, and I know whose mouth that sentence has been in all along. The jacket line landing in the text gave me a small cold thrill.
 
-But the end of the scene gets me. Randi's county has a point off on its own, the tag reads MIRA, and the record opens to MIRANDA. "Cheating bastards," in a voice with nothing practiced in it. That's the first crack in Randi that isn't about Pace or Vee. It's money. Her father took the loans, several businesses, and the story she's told about her family might be a lie, or at least a face. I clocked it right away, because this is the first real piece of Randi's history that doesn't come through a story she's chosen to tell. The Kentucky accent, the mother on egg whites, and now a father with shell companies. I want this badly.
+The best beat is Randi coming apart a little. Vee says "like he wants *me*, with the body attached," and Randi's eyes go bright and unfixed, and she shakes her head, and her breath catches. "It doesn't," low and uneven. That's the leak. Vee reads it as pride that her story moved a sophisticated woman, and I'm sitting here knowing it's the opposite. Randi may be hearing Pace's own words about Vee come back to her, or she's hearing what she wants and can't have. Either way it's the first time a story hit Randi harder than she could hide, and the beat is quiet and perfect.
 
-The best move is Vee. She sees it and says nothing, steers the laptop, gives Randi something to do with her hands. She's kind where she thinks she's being kind, and she's the one who now holds something Randi doesn't know she holds. Cassie, with her laid-off dad and the "that's not the exception, that's the one that's easy to see" line, is dramatic irony so loud it's almost on the nose. The outlier metaphor gets pointed at me again. Mild grudge. The title does the explaining, and the last paragraph about "invisible if you didn't know to look" says it twice.
+Then the photo. Vee shows Randi the cropped one, then the whole thing, "I gave him *all* of it," and Randi looks long, past a verdict. My stomach dropped. Two chapters ago he promised never to share the photograph, and here it is in Randi's hand, shown by Vee herself. Fear F33.1 resolved in the cruelest way: Pace didn't have to break the promise. She did it for him. That's sly and I admire it, and I'm furious for her. "Miss November," the toes, the bare foot under the table. The foot under the table is the hottest thing in the chapter, a small deliberate touch with the sky-blue nails.
 
-Also Vee's reading, "dealt a rotten thing by a man she'd had the luck to be the daughter of," is a good wrong-but-warm guess. And Randi doesn't know she was seen. After eighteen chapters of me knowing more than Vee, Vee now knows something I don't.
+Vee leaning up the last half-inch at the goodbye kiss, and Randi holding her eyes "a beat past" is the turn. Vee noticed, decided it was what she wanted, and didn't bother about it again. That's the romance beat, and it's the first time the kiss is Vee's choice. The Anthro night class, "just us," Randi's voice roughening: she's building more hours with her. This is escalating.
 
-No heat, and no Pace, so I'll hold on only because of that name on the screen.
+Complaints: it's a brunch-confession retread, third one, and the sex catalogue is a lot of telling. The book explains things (the "color switched on" paragraph, "she didn't think of the morning as a piece of Pace given up") a bit hard. Heat is real, though, because it's Vee's mouth saying it. Still no Randi head. Sixteen chapters. I've stopped asking and started suspecting that withholding is the design.
 
-GATE 36 — The Outlier
+GATE 34 — All the Time
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 9
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "The groups picked themselves. No one had to propose the three of them." (the long project setup before anything happens)
-WHY: A zero-heat chapter, but MIRANDA on the screen and Randi's unpracticed "Cheating bastards" crack her open. Vee quietly seeing it and keeping it is the kind of turn I read for.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "The weeks in between ran gray; it was only Friday to Sunday that the color came up, saturated, almost too much" (the book narrating its own meaning, in a third brunch retread)
+WHY: Randi's breath catching at "the body attached" and Vee handing her the nude herself are the pipeline cracking in public, and Vee taking the extra half-inch of the kiss is the real turn. It's a familiar brunch format, but the stakes have moved enough to keep me.
 
 LEDGER
-+ SUSPICION: Randi's father is the big fraudulent PPP outlier, and her polished family story is a face too.
-+ WAITING: What Randi does with the stat project now that her own county is the outlier, and whether she ever learns Vee saw.
-+ LOVE: Vee quietly handing Randi the write-up logistics and never saying the name.
-+ GRUDGE: The outlier metaphor is spelled out twice, in the lecture and in the last paragraph.
-~ F1.1 DEEPENED: The face has a family behind it, and the one thing that cracked it this chapter was her father's name.
-~ W18.4 DEEPENED: Eighteen chapters without Randi's own head, though this one cracked her from outside.
+~ F33.1 RESOLVED: Pace didn't have to share the photo. Vee showed Randi the full nude herself, so the promise is moot and the harm is done.
+~ F6.3 DEEPENED: Randi's breath caught and her eyes went unfixed at "the body attached," the plainest physical leak yet.
+~ W18.4 DEEPENED: Sixteen chapters now without Randi's own head.
+~ F31.4 DEEPENED: Vee is again performing for Randi's gaze, offering the photo to win her approval.
++ LOVE: Randi's bare toes brushing Vee's leg under the table, sky-blue nails, and the smile that doesn't explain it.
++ SUSPICION: Randi has begun building extra hours with Vee, the Anthro night class, "just us," because the Saturday brunch no longer holds her.
++ LOVE: Vee leaning up the last half-inch of the kiss and deciding, without fuss, that it is what she wants.

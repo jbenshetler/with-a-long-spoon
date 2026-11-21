@@ -1,36 +1,52 @@
-*capture-dag-v3-grounded · gate ch029 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 8e12543e2fbe · 2026-11-06*
+*capture-dag-v3-grounded · gate ch029 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 5b079dfd86a6 · 2026-11-06*
 
 REACTION:
 
-I am sweating. My pulse is racing, and I am grinning so hard my face actually hurts.
+I am sitting here with my jaw clamped shut, my heart hammering in my throat, trying to process what just happened.
 
-First of all, Pace playing terrible, shameless air guitar to AC/DC’s “Thunderstruck” in an empty kitchen with a protein shake in his hand is the single most endearing thing that has ever happened in this series. It completely cracked open the stoic, courtly, hyper-controlled mathematician facade and gave us *Peter*, the twenty-two-year-old kid who lifts heavy iron and rocks out when nobody is watching. And Vee peeking through the window like a delighted thief, clapping her hand over her mouth—god, the sheer, playful joy between them before the clothes even started coming off!
+The beginning of this chapter had me clutching my chest. That entire doorway sequence—Vee standing there in Randi’s cognac heels, realizing all at once that she’s looking *down* at him by two inches, the sheer, spiraling humiliation of feeling like she’s disrespecting him all over again, the supermarket pie labeled *HUMBLE PIE* sliding against her chest—it was so excruciatingly, wonderfully real. And Pace! God, Pace. Taking the pie out of her hands, steadying her by the arm, fixing the silk scarf with two fingers, and then dropping that line like a casual greeting: *"Beauty like yours made for the gods and loaned out—I'm not going to insult the loan by complaining I have to look up."* I literally squealed. How does he do that? He completely disarms her every single time.
 
-And then the chase! Vee stripping his gym shorts off, waving them over her head like a conquered flag, flashing him her bare breasts just to provoke him into running, and discovering she’s faster than him on her feet in heels—it was hilarious, electric, and so gorgeously *alive*. Their banter has this effortless, golden glow to it.
+And then him refusing to let her hide behind her neat, rehearsed little apology. *"But what happened?"* Making her stand there and confess the ugly, petty truth of the blonde at the bar, and then thanking her for saying it out loud... that was pure, breathtaking emotional maturity. It felt like an absolute triumph.
 
-AND THEN THE BEDROOM. SWEET JESUS.
+AND THEN SUNDAY AFTERNOON HAPPENED.
 
-The shift from rowdy, laughing roughhousing to suffocating, knee-weakening heat was so fast and so expertly calibrated I literally gasped. The bet: *“Either you admit you lost, or we find out.”* Pace’s absolute, lethal precision—stopping his hand halfway up her thigh the exact second she said "don't," showing her his empty palms, and making her actively revoke her own denial and beg for him to keep going... that is world-class erotic writing. He doesn't take; he makes her claim her own appetite.
+I stopped breathing. My blood went cold and hot at the exact same time.
 
-And the finger test. Good lord. Sliding past the soaked satin, bringing his finger out dripping wet in the lamplight, and looking at it not with smugness or disgust, but like it was *true and fine and hers*. The way Helen Rivers writes Vee’s lifelong shame—the horror of her own lush, weeping arousal meeting a man who reveres it like gold—makes me want to weep and take my clothes off at the same time.
+The domestic banter in the kitchen was so cute—her hanging off his back lobbying for the "soak," batting him away, playfully swatting him on the ass—and then that one, wet, playful swat back from him. Across her bare ass under the thin shirt.
 
-And the spanking! It wasn't the voyeuristic, performance-art cruelty of Randi’s story in the piano closet. There was no counting, no theater, no audience. It was just his rough, warm carpenter’s palm gentling her, striking her, soothing her, and pressing his mouth to the pink sting of her skin while she buried her face in the sheets and finally let go of the denial. The sheer psychological brilliance of contrasting Randi's staged kink with Pace’s quiet, tender worship: *“Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere.”* That line took my breath away.
+*And her body's immediate, violent, involuntary betrayal.*
 
-And then waking up on Saturday to the bowl of green polka-dot scrunchies on the bathroom counter! No note, just an entire pack because he knows her hair has its own weather and he plans on untangling it for a long, long time. Her calling out her own "Victorian LARPing" to the mirror, admitting she needs to bring an overnight bag, and then eating his fragrant vegetable curry while the heat sneaks up on her...
+The way Rivers wrote that sensation made the hair on my arms stand up. The nipples drawing up into aching points, the soundless *oh*, the bright hot wire of arousal shooting straight up her spine from the sting—and Pace, with his mathematician's terrifying, analytical eye, *going completely still and clocking every micro-expression on her face.*
 
-It’s heaven. It is absolute, domestic, erotic heaven. Which means the hammer that’s about to fall when the pointing game comes to light is going to smash my heart into ten million pieces. I am so hopelessly in love with them it terrifies me.
+He saw it. He cataloged it.
 
-GATE 29 — We Find Out
+And the sex that followed! Her trying to drown out what had just happened with manic chatter and frantic motion, climbing on top of him to hide her face in his neck, only for her own hips to pull against the sore skin with every stroke, lighting the fuse over and over—and then Pace sliding his big, heavy, warm palm right over the exact stinging imprint and *bearing down*.
+
+*"Please."*
+*"This?"*
+*"Please."*
+
+I had chills everywhere. The absolute, staggering dramatic irony of it. Randi took Vee into her bedroom, dressed her up in her shoes and scarf, primed her like an offering, and told Pace all about her soft thighs... and now Vee just stumbled, entirely by accident, into the exact kink that lives on the hidden bench in Pace's bedroom! The bench he built for Randi. The bench he's been hiding under a tabletop!
+
+Pace didn't force it. He didn't pull her into the bedroom and suggest it. He just saw the wire spark in her kitchen, put his hand on it, and let her come apart around it. And the tragedy of Vee sitting in his sweatpants on Sunday night, smelling like his soap and his shampoo, thinking this is all hers, totally unaware that the trap is tightening with mathematical precision around her...
+
+And that final beat on Monday morning in the bathroom—her wild, unbrushed hair, crying from panic and feeling messy and small, and him gathering it in his fist at her nape: *"You're always beautiful."*
+
+My chest aches. It’s so tender, so impossibly hot, and so terrifyingly fragile. I am hooked so deep it hurts. Next chapter immediately.
+
+GATE 26 — A Recognized Method
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The flawless transition from unhinged, laughing roughhousing and AC/DC air guitar to scorching, psychologically tender kink—capped by the green scrunchies on the counter—was an absolute tour de force.
+WHY: The transition from the exquisite emotional vulnerability of the doorway apology to the scorching, accidental awakening at the kitchen sink was a flat-out masterpiece of pacing, psychological depth, and erotic charge.
 
 LEDGER
-+ LOVE: Pace rocking out to "Thunderstruck" with terrible air guitar in his gym shorts when he thinks he's alone.
-+ LOVE: The green polka-dot scrunchies left on the bathroom counter—a quiet, permanent claim on her messy hair.
-~ [S3.2] SHIFTED: Randi's bench didn't even factor into this—Pace brought Vee into his own bed for the spanking, stripping away Randi's theatrical performance and making it purely about tenderness and Vee's own awake skin.
-~ [F5.1] DEEPENED: Vee deciding to officially bring an overnight bag and admitting she belongs in his bed cements her total emotional surrender, making the pointing-game revelation an absolute catastrophe waiting to happen.
++ LOVE: Pace taking the pie and telling Vee he won't insult the gods by complaining he has to look up at her in heels.
++ LOVE: The accidental spank at the sink—the immediate, involuntary shockwave of heat and Pace clocking her face before bearing his palm down on the sting.
+~ [S3.2] DEEPENED: Randi's plan for Vee and the bench just took a massive, terrifying leap forward—Vee just discovered entirely on her own that a sting on her backside turns her inside out.
+~ [F5.1] DEEPENED: Vee spent the entire weekend living in Pace's clothes, smelling like his soap, and melting under "you're always beautiful," cementing her complete emotional surrender.
+~ [W25.4] RESOLVED: Saturday night happened, the apology was accepted, and she ended up staying all the way through Monday morning.
++ WAITING: Randi's reaction when Vee reports back on Saturday night—and whether Vee lets slip the accidental spank at the sink.

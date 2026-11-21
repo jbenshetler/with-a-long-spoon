@@ -1,27 +1,35 @@
-*capture-dag-v3-grounded · gate ch030 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed cf2afdfe3363 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch030 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f7a8e76dd34 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 1f1c147acee2 · 2026-11-06*
 
 REACTION
 
-This is a short, pretty, mostly static chapter. It's a costume reveal, and the dread I carry stays almost entirely off the page.
+Oh, this is a shorter, quieter chapter, but it's the best kind of quiet. It's heat with no clothes coming off.
 
-What works: the dress she carried out to the car, "the finished thing had crossed a stage for everyone but its maker," and the second costume being nothing but the heels. Her blush going "down and down" with nothing covered is exactly the charge I came for, and nobody touches anyone. "The other is for the world. This is just for me" is a good line. It's also the book's old thesis: he is the private one, and Randi's version of her is the public one. His hand coming up and being put away again is the best beat.
+The story-in-a-closet setup is great. Vee drags Randi to the practice room. She does it, not the other way round, and that reversal tells me everything. Then she tells the swat story, and halfway through she realizes she isn't telling it, she's doing it, with Randi's eyes on her. I held my breath at "a hot slow drop." Her nipples through the jersey and the arms crossed like she's cold: that's the charge, with nobody touching anyone.
 
-I'm uneasy in the way I should be. Vee now performs the induction walk for Pace as a gift, so the exhibitionist wire I flagged in ch28 has become something she brings home to him. Randi isn't in the chapter at all, and neither is her head. That's twelve chapters. Even the Halloween date, with the town out being somebody else, is a quiet joke at the book's expense, since everyone here is already in costume.
+Randi is the one who reads as dangerous here. "So. Did you deserve it?" is a terrific, awful question, and Vee says yes before she hears herself. Then comes the "mouse that roars" story, over the knee, counting out loud, "it made me buck." It's an invented ex with the accent slipping again. I'm certain it's built to hand Vee a word for what happened, and it's also Randi aching for it. And I'm not sure Randi isn't also telling her own truth, since Pace is the one who found it in her. The "Kentucky vowels" slip is the "school abroad" lie cracking at the exact moment she's most naked.
 
-Small grudges: the dress logistics run long. The bit about the heels sitting by the wall since Friday explains itself to me. And it's a second quiet-ish chapter after the curry coda. The ending lands, but nothing turns. I'm still hooked, but I'd like the plot to move now. The scar, Randi, anything.
+Vee in the bathroom, hand on her knee, "not over a story," made me ache for her. She's refusing to say yes to it. The goodbye kiss and the arms that won't come down were the chapter's last turn. "She put it down to that." The book is telling me what she can't, and I'm for once fine with it.
 
-GATE 30 — Made-Up
+Sheer dread, too. Randi now knows what Pace did and what Vee's body did, and she's the one who handed Vee the permission. This triangle just tightened into a knot.
+
+The outliers lecture is a bit pointed ("comes in through the part that carries forward"), but I'll allow it. Still no Randi head, and I'm past furious, I'm feral.
+
+GATE 27 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving." (the dress-logistics throat-clearing before the reveal)
-WHY: The heels-only walk and "this is just for me" are charged and tender, with nobody touching anyone. It's a pure heat chapter with no turn, and I need Randi or the scar story to move soon.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "Outliers," he said. "Two kinds. You'll want the difference." (the lecture metaphor is a touch on the nose)
+WHY: Vee realizing she's re-enacting the swat for Randi, with her body answering and nobody touching anyone, is the both-and I read for. Randi's invented ex, her slipping accent and the unfinished "Have you ever—" have me desperate for what she does with all this.
 
 LEDGER
-+ LOVE: "The other is for the world. This is just for me." Vee in nothing but the heels, and his hand put away.
-+ FEAR: Vee is now bringing the exhibition wire home to Pace, so Randi's feeding of it is being replaced. When Randi notices she's been cut out, she'll escalate.
-+ WAITING: A plot turn, either the scar story or a Randi-and-Vee collision, because this is the second glow chapter in a row.
-~ W18.4 DEEPENED: Twelve chapters now without Randi's own head.
-~ S29.3 DEEPENED: Vee brings the private performance to Pace, not Randi, so the "only mine and his" space keeps growing.
++ FEAR: Randi now holds Vee's secret hunger and is feeding it with her own stories, so the line between friend and hunter is gone
++ LOVE: Vee refusing to touch herself "over a story," holding her own hand on her knee
++ SUSPICION: The "mouse that roars" ex is invented, or it's Pace in disguise, and it is aimed at giving Vee a word for it
++ SUSPICION: Randi's "Did you deserve it?" is steering Vee toward framing the swat as punishment, which sets up the bench
++ WAITING: Vee finishing "Have you ever—", and Randi's head after this closet
+~ F6.3 DEEPENED: Randi's want leaks again in the practice room, in her stillness and the story she tells
+~ W18.4 DEEPENED: Nine chapters now without Randi's own head
+~ F26.3 DEEPENED: Randi now knows about the swat and what Vee's body did, and the hidden want is out with the wrong woman
+~ S26.5 SHIFTED: Randi's closet story is setting up the bench from her side, not just by accident

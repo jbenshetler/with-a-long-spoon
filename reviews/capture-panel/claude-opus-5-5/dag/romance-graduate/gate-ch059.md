@@ -1,39 +1,41 @@
-*capture-dag-v3-grounded · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 1f06b1ef6410 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed d07bfdd4d0c4 · 2026-11-06*
 
 **REACTION**
 
-"Barely stings."
+The water glass got me first. It was sitting on a folded square of paper towel so the sweat wouldn't mark the wood. That's the same man who centered the spot on the folded panties in chapter 16. Then the night comes back to her "the way a dropped deck comes back — not the game, just the cards," and the best card is near the bottom: his mouth on her forehead, once, in the dark, "after he thought she was already gone." She isn't supposed to have that one. He's saying "Peter" to someone asleep. It's chapter 32 turned around, and I melted a little.
 
-That's the title, and Randi's two words come back to bite. I laughed when Vee said "*Fuck—*" out loud in that little bright room. Then I stopped laughing at "Roll over for me, hon." Randi has had this done. She has a woman she sends people to by name. She knew it's "all the one service." She sat in that loft with Vee's fingers in her hand, said "barely stings" and "most expensive thing in the room," and left out the back completely. So what was that? It might be the kind lie of a friend who didn't want to scare her. But this is a woman who presses glass rims under her own nails, so maybe she really thinks this barely stings. Or she knew exactly how far past Vee's lines this would go, and wanted Vee to go there without a chance to stop. I don't know, and I hate that I can't rule out the third one. "Randi was always one road further along. It was restful, being told." Honey, nothing about being told by Randi should feel restful.
+Then she says "My one friend. There isn't anyone else." I had to put the phone down. I've spent fifty-six chapters calling him the merit-badge man. He's got the furniture, the patent, the dress, the bread, and he works a roadhouse like a pro. This chapter takes every one of those badges and shows me the hole under it. "Money of my own, which is worse than having none." The patent and the house weren't brag items. They're why nobody his age could stand next to him. I didn't expect the book to turn my own grudge into his wound, and I'm a little annoyed at how well it worked.
 
-Getting Sunday's kitchen in flashback helps. I was annoyed last chapter that the request happened off the page, and now I have the scene: "I'd like you waxed. By the weekend. Bare… Will you?" Then "He never told her why." That line opens my waxing suspicion right back up. He asks for the thing and leaves her to fill in the reason, and she always fills it in with yes. Thursday night Randi said "I want her to know exactly what she does to me." Sunday he asks for this. Friday it's Randi's waxer, "say my name in the first sentence." The hau is under Vee's skin now, literally.
+"Either weren't safe or weren't welcoming." That line is doing far more than Vee lets it. She makes it the father, adds Sheri's "since he was sixteen," and closes the case. But he said it about *the ones already there, when I was small among them*, the grown men in the building. A fifteen-year-old who's "too small" among grown men, and "weren't safe," and a surgeon's scar high on his inner thigh. I don't like where my head went, and the book has carefully refused to say it, which is exactly the right way to frighten me.
 
-The best thing in the chapter is "Don't move," the flat hand on her thigh. Her body knows that grammar from the man who means it, and here it comes from someone who wants nothing from her: "here was the shape of it with everything true scooped out of the middle." It "open[ed] a hole in her a mile across where the right hand should have been." That's the book doing what I came for. Her arousal, her shame and her longing all run on one wire, and it's honest about how wrong the setting is. Her mother's "the kind of girl who" shows up with no fuel attached this time. Then the roll-over stretch has "no wanting in this one. Nothing lit." That's the bravest part. It lets the scene be humiliating and nothing else, and doesn't turn it into a turn-on. She holds still "on her own now, nobody had to tell her," and that line scared me a little. She's getting very good at holding still.
+The irony made me wince: "No Randi to bring it to." Vee is thinking about what Pace had at eighteen, and she uses Randi as the measure of having someone. He has a Randi. She was in his bed Thursday, licking him clean and telling him "she's not the only one in love." And it still isn't friendship. "Sheri's my friend. My one friend." So what is Randi to him, then? He didn't count her. Randi would hate that or need it, and I can't tell which.
 
-Then she's alone and touches herself, and "the sound she made was not one of pain." She walks out past the girl who came to be looked at, as the girl who came to be touched. That's a lovely close and a cleaner ache.
+What cost it: he gives a whole seminar on how men make friends. "Thirteen, fourteen, fifteen, that's when it happens… That door's on a timer." It's well put, but it's Pace lecturing again, the Newton-sermon voice. Then Vee spends two long paragraphs walking back through freshman year, cafeteria trays and dorm carpet, to explain to me what he had just explained to her. "The good order was the tell" was perfect. The paragraphs after it were the book making sure I got it. Also, this is the second quiet chapter running, and there's no heat at all unless you count his robe. (It's his robe, by the way. She wears it like she lives there, so I'll stop wondering about it.)
 
-What it cost: the Tuesday loft is reprinted almost word for word, the fish eaten to the middle, the fork, "a hand laid over Vee's, warm, brief, sure." I read it four days ago. That isn't a return, it's copy-paste. The opening taxonomy of the two girls on the couch, with "understood which one she was," tells me a bit more than it shows. And "Sondra had found her sore spot on the first try" made me wince for the wrong reason.
+The ending, though. She doesn't say sorry. She puts herself against him the way Sheri did, "with her whole weight committed," and he holds her and doesn't try to make either of them feel better. Nobody fixes anything. That's grown-up, and I'll take that over a speech.
 
-1 a.m. text: *randi said "barely stings." randi did NOT mention "roll over, hon." also "don't move," from the wrong hand, gave her a hole a mile wide where pace's should be. I need the weekend.*
+1 a.m. text: *he has ONE friend. one. sheri. "weren't safe" about grown men when he was 15 and I'm thinking about that scar and I feel sick. also she's planning to tell randi all about the sexy lesbian look. tuesday is going to be something.*
 
-GATE 59 — Barely Stings
+GATE 57 — Hangover
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "'Oh, you're going to *love* it,' she'd said. 'God, the first time. Don't let anybody but Sondra touch you —'" That's Tuesday's dialogue reprinted word for word, one chapter after I read it.
-WHY: "The wrong hand" is one of the smartest things the book has done with her body: a stranger's "Don't move" opening a hole where Pace should be. And Randi's omission of the back half sits in my stomach like a stone. The recap cost a point, but now I need the weekend, his hand finding her, and whatever Randi gets told about it.
+CAPTURE: 7
+NEXT: 6
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "She could see the shape of it, she of all people — she'd been a freshman not so long ago and could still smell the dorm carpet." That's where she started re-explaining his friendship lecture with a tour of her own freshman year, and I skimmed.
+WHY: "My one friend" turns his merit badges into the wound under them, and "weren't safe" put a cold hand on the scar. The hug with no "sorry" in it is the best tenderness he's gotten from her. But it's the second quiet chapter in a row, half of it is lecture and re-explanation, and nothing at the end pulls hard. I'm reading on for Tuesday with Randi, not out of hunger.
 
 LEDGER
-+ SUSPICION: Randi left out the back on purpose. She knew it's "all the one service" and let Vee find out face-down, either as a kindness she misjudged or as a test of how far Vee will go without being asked
-+ LOVE: "Don't move," the wrong hand, and "a hole in her a mile across where the right hand should have been"
-+ LOVE: Alone on the table, her own hand on the smoothness, "the sound she made was not one of pain"
-+ FEAR: Vee holds still now "on her own, nobody had to tell her." The yes comes before the question every time, and someone is going to use that
-+ GRUDGE: The Tuesday loft dialogue reprinted almost verbatim one chapter later
-+ WAITING: The weekend. His hand finding what she did for him, and whether he says why he asked
-~ G58.5 FORGIVEN: The Sunday kitchen came back on the page, "Will you?" and all
-~ S58.1 DEEPENED: "He never told her why." He asks with no reason, and it's Randi's woman who did it, with Randi's name said first
-~ F58.2 DEEPENED: Randi's taste is in Vee's skin now. "Barely stings" was Randi's map, and the map was missing half the country
-~ L10.1 SHIFTED: "The kind of girl who" came in her mother's register with no heat attached. For once it didn't turn into fuel
-~ F1.3 DEEPENED: A woman who presses glass under her nails calls this "barely stings." Her sense of pain is being handed to Vee as advice
++ LOVE: The water glass on its folded paper towel, and his mouth on her forehead "after he thought she was already gone"
++ LOVE: She doesn't say sorry. She holds him the way Sheri did, whole weight committed, and he doesn't try to make it better
++ SUSPICION: "Weren't safe," said about the grown men around him at fifteen, not his father. Something happened to him in that building, and the scar is part of it
++ SUSPICION: "My one friend." He didn't count Randi. Whatever she is to him, it isn't friendship, and that's either the coldest or the truest thing about them
++ FEAR: "No Randi to bring it to." Vee measures having someone by Randi, and Pace does have Randi, and it's the thing she doesn't know
++ WAITING: Tuesday, when Vee hands Randi the win about Sheri and saves the look that "enjoyed" her for last
++ GRUDGE: Pace's seminar on how men make friends, then Vee's freshman-year tour explaining it again
+~ W13.4 DEEPENED: "Not home since sixteen" plus "weren't safe or weren't welcoming." The door opened a little more, and what's behind it is darker than a bad father
+~ W16.2 DEEPENED: "Weren't safe," "too small," a building of grown men, and a surgeon's line high on his inner thigh
+~ G13.7 SHIFTED: The patent, the money and the house show up again, this time as the reasons nobody could be his friend. The merit badges are the wound now
+~ G1.7 DEEPENED: "The good order was the tell" was enough, and the freshman-year paragraphs said it twice more
+~ S22.5 ANSWERED: The robe is his, "where it always was," and she wears it like she lives there
+~ S56.7 FADED: A whole morning in his house, and not a trace of Thursday's Randi anywhere

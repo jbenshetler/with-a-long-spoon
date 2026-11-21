@@ -1,44 +1,39 @@
-*capture-dag-v3-grounded · gate ch058 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed a0b5a017b349 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch058 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 40b8a8549ea9 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch055 · history ch001..ch055 · ledger no seed 624711bc5fa3 · 2026-11-06*
 
-REACTION — No. Pace did not ask her to get waxed.
+REACTION — Oh, Sheri is not the rival. Sheri is the witness.
 
-I was there on Sunday. I watched that entire kitchen conversation—the bread, the eggs, Sheri, the one friend, the unsafe men, Vee coming around the counter to hold him—and nowhere in it did Pace ask for her bare. This is not a missing domestic detail she forgot to mention. The chapter gives the request a time, a room, and his “voice for facts,” and the scene we already read contains no such request.
+Vee built the blonde out of every night Pace’s silence made her feel replaceable, dressed for combat against her, and then arrived to find five feet of roots, crooked makeup, loud appreciation, and absolutely no interest in competing. I laughed with her when the imaginary woman simply failed to find room in the taproom. But I loved that the jealousy did not vanish merely because Sheri’s body was “wrong.” Vee’s fear was never actually about long legs and gold hair. It was about Pace having a glad voice, an established *we*, and a woman whose hug knew where to land. The chapter let that remain true without punishing Vee for it.
 
-Vee invented it.
+And then Sheri looked at her. Not priced, not ranked, not assessed as Pace’s acquisition—enjoyed. Vee realizing what the slow trip down her body meant was so delicious because her relief and her attraction arrived in the same helpless laugh. She armed herself in Randi’s shoes against a straight blonde and walked into the frankly appreciative gaze of a queer woman instead. Apparently every object in this series really is trying to go home.
 
-Oh, this is enormous. She wanted to be waxed, or wanted Randi to imagine her waxed, or wanted Randi to guide her through becoming bare—but she could not bring that desire to the table as hers. So she built a Pace-shaped permission slip and handed it to Randi. After months of Randi using invented men to carry her real appetite, Vee has learned the language fluently enough to speak it back. I feel like the floor just moved.
+Sheri delighted me almost immediately. “You’ve got him happy. That’s the whole book” is such a clean verdict, and then the motorboat question made Pace blush. Pace! I would have paid admission. The fact that he does not defend himself, recover his dignity, or try to make Sheri smaller for taking that liberty told me everything about their friendship before the history did. Vee gets to see him off duty with someone who already knows his silences, and I loved the soft jealousy in realizing that Sheri possesses a license to him nobody else has.
 
-And Randi takes the bait instantly. No question about why Pace asked, whether Vee wants it, whether she has considered it herself. She comes alive, supplies Sondra, the street, the script, the drink, the promise that Vee will feel expensive. Vee gives her Friday and feels the “lift” of bringing Randi something good. This is not actually a conversation about Pace’s preference. It is Vee asking Randi how to prepare her body, and Randi arranging the preparation while both women keep a man standing between them.
+But the story of how they became friends moved me enormously. Pace did not offer Sheri one cheap consolation after her family and church abandoned her. He brought coffee and donuts, fixed the lock, stopped the faucet, noticed the bicycle, gave her somewhere to go Saturday morning, and fed her afterward. Most importantly, he stayed without claiming he could repair what had happened. This is his patient attention stripped of courtship and erotic reward. It is simply who he is.
 
-Also, “barely stings” is a lie so outrageous I laughed. Randi is selling the fantasy, not giving useful information. She knows Vee trusts her expertise and makes the experience sound luxurious, nearly painless, inevitable. “Say my name in the first sentence” has the same proprietary charge as the shoes and scarf: Vee is going to walk into Sondra’s carrying Randi’s name and walk out altered according to Randi’s instructions, ostensibly for Pace.
+And Sheri protects the story while telling it. She gives Vee the part that belongs to her, closes it before Pace returns, and never uses his vulnerability to purchase intimacy with Vee. After fifty-five chapters of Randi and Pace exchanging Vee’s private disclosures as erotic material, that discretion felt almost shocking. Sheri knows how to hand over truth without assuming she owns all of it.
 
-Before that, though: Vee absolutely liked Sheri looking at her. She said so Sunday. She held that look back as the best part to give Randi, described every lingering inch of it with delight, and then the moment Randi asked directly, “No.” That no was pure panic. Not uncertainty—camouflage arriving before thought.
+“He hasn’t been home since he was sixteen” stopped me cold. We already knew he did not go back. We knew he entered college at fifteen, began lifting in the dorm, and carries a huge scar high on his thigh. Now Sheri says it went bad with his father and places the rupture at sixteen. I immediately felt all those separate facts pull toward one another. Pace understands the kind of rejection Sheri suffered because something happened in his own home severe enough that a sixteen-year-old never returned. And he has still given Vee only the chemical plant and the closed sentence, while Sheri—careful, loyal Sheri—has two years and exactly that much.
 
-And Randi knew. Her thumb stopped. The warmth went out of her voice. “And you liked it” was not teasing; it was jealousy, recognition, and perhaps hurt compressed into five words. She had just listened to Vee lovingly describe another queer woman giving her the open, enjoying gaze Randi herself has spent months disguising as appraisal, friendship, and jokes about hotness. Sheri looked without grading her, and Vee lit up. Of course that struck Randi exactly where she lives.
+The ending was beautiful. Pace leaves Sheri’s truck, drives her home, waits with his headlights on her door until the porch light confirms she is inside, and says none of it aloud. Then Vee slides into the space Sheri leaves and understands that this is how he keeps people: not through grand claims, but by carrying them safely until they are home.
 
-Vee’s explanation afterward was almost unbearable. She decides Randi is protecting her from a rival. Sweetheart, Randi is not worried Sheri wants Pace. She is worried you liked being wanted by Sheri. “I know she isn’t, gorgeous” is another technically true sentence laid across the actual one. Sheri is not a threat to Vee’s relationship with Pace. She may be a threat to Randi’s monopoly on giving Vee female desire she can refuse to recognize.
+And yes, I noticed both hands at ten and two. After the county-road scene that nearly made me quit, the image felt pointed: no erotic proof of competence, no divided attention, just both hands doing the job while Vee leans on him. The book finally gave me the dark drive I wanted—tender, intimate, and safe.
 
-And Vee has now lied twice in opposite directions at the same table. She says she did not like a woman’s gaze when she did. Then she says a man requested a bodily change when he did not. She removes her desire from the first story and inserts his desire into the second. That is the whole camouflage system becoming operational inside her.
+I am also completely in for Valentine’s Saturday. Vee in a dance hall with Pace and Sheri, Randi’s shoes explicitly left behind, is going to put her back inside the site of her first ugly jealousy with a woman who knows exactly what Pace is like there. And Sheri still knows about Randi. She has now met Vee, likes her, and has said nothing about the missing shape. I trust her discretion more than nearly anyone’s, but that also means she may become one more informed person protecting Vee from a truth Vee has the right to know.
 
-The goodbye kiss changed too. Vee turns first. She closes her eyes and waits for Randi’s hand at her jaw because she knows the sequence now and actively summons it. Then Randi opens the kiss and this time “it stayed.” No quick second press they can file under habit. It became one sustained kiss, followed by Vee’s mouth going to Randi’s neck with no ticklish joke available to cover it. They are so far past goodbye kisses that the phrase is becoming absurd.
-
-“The other part she didn’t write down. She had that one cold.” I don’t know whether that means Randi’s name, the lie, the kiss, or the fact that Friday is not only preparation for Pace. I only know Vee is carrying something consciously now. She may not have named it, but she did not forget it.
-
-And Valentine’s dancing is coming after the wax. Pace thinks he asked for nothing. Randi thinks Pace asked Vee to go bare. Sheri has already looked at Vee with undisguised pleasure and told her to leave the heels home. Vee is walking toward that hall altered by a request she invented, wearing Randi’s instructions on her body, and I am absolutely feral to know what she believes she is preparing for.
-
-GATE 58 — Between
+GATE 56 — Another Round
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
-HEAT: 3
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee denied enjoying Sheri’s gaze, then invented a request from Pace so Randi could tell her how to make herself bare; she has begun using the same male camouflage Randi uses for female desire. The sustained kiss afterward made the cover story feel one breath from collapse, and I need Friday—and Valentine’s night—immediately.
+WHY: Sheri demolished Vee’s invented rival with one openly appreciative look, then revealed a friendship built from Pace showing up without false reassurance or reward. The chapter satisfied me enough to breathe, but Pace leaving home at sixteen has pulled his father, scar, lifting, and guarded past into one frightening shape—and I need Valentine’s night at the dance hall.
 
 LEDGER
-+ SUSPICION: Vee invented Pace’s request to be waxed because she wants Randi to imagine, authorize, and direct her bareness but cannot yet present that desire as her own.
-+ FEAR: Vee is learning Randi’s camouflage so completely that she can remove her own desire from one story and insert Pace’s into another without consciously experiencing either move as a lie.
-~ F15.4 DEEPENED: Vee plainly enjoyed Sheri’s openly queer gaze, then denied it instantly to Randi and routed her next bodily desire through an invented request from Pace.
-~ F36.2 SHIFTED: Vee is no longer only supplying merciful explanations for other people’s silences; she now misreads Randi’s jealousy as protection and manufactures a Pace-shaped fact to make her own desire safe.
-~ W55.2 DEEPENED: Randi still does not tell Vee what Vee does to her, even when jealousy stops her hand and strips the warmth from her voice; instead she opens the goodbye kiss and lets her body carry the disclosure again.
-~ W56.2 DEEPENED: Valentine’s night now approaches with Sheri’s undisguised attraction established and Vee preparing her body under Randi’s instructions while falsely attributing the request to Pace.
++ LOVE: Sheri’s loudness has exact boundaries—she can tease Pace into blushing, tell Vee the truth that belongs to her, and close the folder before his private pain becomes table entertainment.
++ WAITING: Valentine’s Saturday at the dance hall, with Vee returning to the place where jealousy first injured Pace and Sheri watching both of them dance.
+~ W33.2 SHIFTED: Vee finally meets Sheri and finds a queer woman who knows Pace deeply, immediately enjoys Vee, and already knows about both women—but Sheri protects the missing shape instead of exposing it.
+~ L44.1 DEEPENED: Sheri does more than tell Pace an ugly truth and remain his friend; she understands his care because he was the sole person who stayed after her family, church, and community abandoned her.
+~ S16.2 DEEPENED: Pace’s scar and right-hand history now sit beside Sheri’s revelation that things went bad with his father and he has not been home since sixteen.
+~ G52.2 SHIFTED: After the unforgivable one-handed sexual driving, Pace carries both women home with both hands steady at ten and two and waits until Sheri is safely inside.
+~ F52.1 SHIFTED: Vee’s invented blonde collapses when Sheri appears, and Vee recognizes that jealousy never depended on the rival’s body; the real threat was Pace having an established tenderness with a woman outside Vee’s knowledge.

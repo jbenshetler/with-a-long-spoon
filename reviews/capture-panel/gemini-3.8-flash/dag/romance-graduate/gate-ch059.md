@@ -1,41 +1,45 @@
-*capture-dag-v3-grounded · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 347ffeb2119d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed 3dbd522edeb7 · 2026-11-06*
 
 REACTION
 
-I am sitting here with my thighs clenched tight, my breath completely stalled in my chest, and goosebumps prickling across my arms. That was—without a single shadow of a doubt—the most raw, visceral, psychologically devastating chapter of "grooming" I have ever read.
+My chest aches. It genuinely, physically aches.
 
-I’ve read a thousand romance novels where the heroine gets a Brazilian wax. It’s always treated as this glossy, breezy, twenty-second comedic trope: *tee-hee, look at me cursing at the aesthetician, beauty is pain!* But Helen Rivers took that tired salon cliché and turned it into an absolute slaughterhouse of female interiority, bodily shame, and submission.
+This chapter took all the delicious, laughing lightness of Vee’s hangover—the smeared mascara, the tall glass of water on a folded paper towel, the warm cinnamon raisin bread baked from scratch while she slept off three ciders—and turned it into one of the most quietly devastating character studies I have ever read.
 
-First of all, the distinction between the two girls on the couch: one coming to be looked at, and one coming to be *touched*—the private maintenance done for one specific set of hands. That line cut so clean and deep. Vee recognizing that she belongs to the second category, stepping into the physical preparation of being kept, was pure romance heroin.
+"Sheri's my friend. My one friend. There isn't anyone else."
 
-AND THEN THE ROOM. God, the sheer vulnerability of that bright, fluorescent butcher-shop light.
-The horror of Sondra’s bored, clock-running professionalism contrasting with the sheer, soul-stripping cost it took Vee to choke out: *"Everything. All of it. Bare."* To Vee, that sentence was a surrender of her lifelong modesty, a total offering of herself to Pace; to the woman snapping on latex gloves, it was just a thirty-minute coffee order.
+God. The simplicity of that sentence hit like a physical blow. You watch this man navigate a roadhouse full of college kids, charming Danny about bench presses, unlocking Theo’s passion for Dixieland jazz, winning over razor-sharp Cassie with five words about the Bricklayers—and you think he’s a social virtuoso. You think he moves through the world with effortless charisma. And then he leans against his own kitchen counter and plainly, without a single shred of self-pity or melodrama, explains the mathematics of his own total isolation.
 
-And the psychological violation of the "wrong hand." That part made my stomach drop straight through the floorboards:
-*"And a hand came down flat on her thigh and pressed her back down to the table, firm, exact. 'Don't move.' ... because her body knew that grammar. Knew a hand pressing it down and telling it to hold still, had learned that grammar in a warm dark room from a man who meant it, and here was the shape of it with everything true scooped out of the middle."*
+"Men make friends by competing... thirteen, fourteen, fifteen, that's when it happens... You make a friend from the middle of the pack—you lose to him, and lose again, and come out the other side friends. I was never once in the pack."
 
-THAT. That right there is why this book is literature. The sheer ache of having her kink, her hard-won bodily surrender to Pace, mirrored back to her as sterile, clinical containment. It opened an ache in her a mile wide because the only thing that makes submission sacred is the person holding the command. She held back her tears, her flinches, her moans, keeping the "lit ruin of herself" behind her teeth because that belongs exclusively to Peter Pace.
+And then: "The window opens once. Men don't start at twenty-two... That door's on a timer."
 
-AND THEN ROLLING ONTO HER STOMACH.
-The betrayal of Randi's smooth, smiling omission! Randi sat in that booth, turning Vee's fingers over one at a time, whispering *"Barely stings, so worth it, baby,"* and deliberately left out the part where you have to roll onto your belly, face in the butcher paper, presented and blind, having the most private, unseen cleft of your body ripped bare. Randi knew *exactly* what that table required. Randi sent her there like a lamb to the slaughter, knowing it would strip away every remaining scrap of Ohio modesty Vee had left.
+Every single piece of Peter Pace clicks into place with terrifying, heartbreaking clarity. The prodigy curse. Being fifteen in a building of grown men where you’re off the scale, too young to be an equal, too dangerous to be a peer, and surrounded by older men who "either weren't safe or weren't welcoming." The patent at eighteen giving him money that only alienated him further. Never going home for the summers because things "went bad with his daddy," staying on an empty campus over Thanksgiving while everyone else went back to their families.
 
-And the ending. That quiet moment on the edge of the table when she finally touched herself:
-*"...new, unbearable, and she drew her fingertips over it once and went weak at how it felt—and then she was not thinking about her own hand at all. She was thinking about his. About the weekend, about the moment he'd find her like this: his hand, the right hand..."*
+And then Daphne. God, Vee’s interiority here was breathtakingly good—holding those two unreconciled truths in her chest at once: that Daphne was the best two years Pace ever had because she was the *only* person in his entire universe, and simultaneously holding down the ugly, predatory word for what a twenty-one-year-old tutor doing that to a fifteen-year-old child actually was. When Daphne walked away "sensibly," he had no one. No dorm floor, no freshman dining hall, no Cassie, no Meg, no Randi. Just a house he built with his own hands, a woodshop, and barbells.
 
-I need Friday night. I need Pace’s front door. I need to see what happens when the man who measures silk by hand and worships every inch of her skin kneels down and finds what she endured for him. My heart is in my throat.
+And what did Vee do? She didn't offer cheap pity. She didn't say "I'm sorry," because pity would have insulted him. She just walked around the counter and put her entire body against his chest, committing her whole weight, holding him the way Sheri held him. And he rested his chin on her head and stared out the window, not performing, just letting her be there.
 
-GATE 59 — Barely Stings
+He has *one* friend. And now he has Vee.
+
+...Which brings the ticking time bomb straight back into my throat.
+
+Because Vee is sitting there eating toast, happily thinking, *Randi was right, I don't have to be jealous, I can't wait to tell Randi all about Sheri on Tuesday!* She has NO IDEA that Pace's world does not just contain Sheri. It contains Randi. Randi isn't just Vee's best friend; Randi is the woman who threw Pace's deadbolt on Thursday night, who took his wet mouth and rode him on his own bed, who knows the exact contours of his trauma.
+
+Vee thinks she’s bringing light into a solitary man's dark house. She has no idea the house is already haunted by the very woman she’s running to for advice. The dramatic irony is suffocating. Tuesday’s Anthro class is coming, and I am holding my breath.
+
+GATE 57 — Hangover
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological depth of Vee's salon wax was staggering—turning a tired romance trope into a masterclass on bodily shame, submission, and the hollow ache of the 'wrong hand' holding her down.
+WHY: The quiet, devastating reveal of Pace's total isolation—explaining how being fifteen in college permanently closed the window on making friends—was an absolute masterclass in character depth, and Vee crossing the kitchen to hold him without pity destroyed me.
 
 LEDGER
-+ LOVE: Vee’s fierce emotional boundary on the table—refusing to give the stranger a sound and keeping the "lit ruin of herself" reserved entirely for Pace.
-+ LOVE: The psychological precision of the "wrong hand"—Vee recognizing the physical grammar of Pace’s dominance, but stripped of warmth and intention.
-+ FEAR: The sheer vulnerability of Vee being completely bare is going to make Pace’s touch this weekend an overwhelming, defenseless emotional experience.
-~ [F58.3] DEEPENED: Vee endured the full Brazilian, front and back, completely stripped of her physical defenses for Pace (and by extension, Randi's aesthetician).
-~ [S58.2] DEEPENED: The wax is done; Vee is now fully physically prepped and smoothed down for the weekend Pace demanded.
++ LOVE: Pace's mathematical deconstruction of male friendship—explaining how being a prodigy at fifteen permanently locked him out of the pack.
++ LOVE: Vee refusing to insult Pace with pity, choosing instead to cross the kitchen and commit her whole physical weight to holding him.
+~ [L1.2] DEEPENED: Pace's patience and care showing up in the hangover rescue—water on a paper towel, a warm washcloth, and fresh cinnamon raisin bread waiting on the counter.
+~ [F5.1] DEEPENED: Vee understanding the full, tragic scope of Pace's isolation binds her soul to him even more completely, making the pointing-game secret a total emotional massacre waiting to happen.
+~ [S22.3] CONFIRMED: Pace explicitly confirmed that being a fifteen-year-old boy in a building of grown men meant being surrounded by people who "weren't safe," locking in the trauma behind his isolation and Daphne.

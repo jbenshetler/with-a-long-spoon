@@ -1,56 +1,46 @@
-*capture-dag-v3-grounded · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed ddfd02070d30 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 5e97b4d19621 · 2026-11-06*
 
-REACTION — The drawer. Oh God, the drawer.
+REACTION — Oh, she knew. I don’t care that Randi built herself a perfect little pastry-shaped exit. She knew where Vee went, and “Sticky fingers?” was designed to make certainty impossible. That was not plausible deniability as protection for Vee. It was plausible deniability as control: Randi gets to watch recognition detonate across Vee’s face, then decide whether Vee is allowed to call the moment real.
 
-That is exactly the answer Vee wanted, and exactly the answer I am afraid she will keep accepting instead of the word.
+And the entire brunch was an extraction. Vee arrived overflowing with happiness about Pace, and Randi dismissed the tenderness as vanilla until Vee produced the spanking. It was so deft that Vee experienced the disclosure as defending him. Then every question narrowed: bare bottom, the bet, the checking, the position, what Pace could see, what it felt like, whether he finished what he started. Randi walked her back into that bedroom one bodily detail at a time and watched her become aroused in full daylight. This is exactly what I feared after the practice room, except now Randi has learned how much farther Vee will go.
 
-She spends the first half of this chapter thinking *he’s all mine* while lying under a man who already belongs to Randi, then gives him an intimate photograph under the explicit condition that he never share her with anyone. The sentence she actually asks him to promise is narrower—never share the photograph—and I believe he will honor it exactly. Pace is excruciatingly good at protecting the boundary as spoken. He will keep the image private. But Vee thinks the promise means something much larger because she does not know there is already another woman receiving descriptions of her body, her appetite, her wetness, her friendship, her kisses. She believes she has asked not to be shared and heard him agree. He knows he has promised only not to send a file.
+“Not at all” was thrilling, though. Vee admits the abundance of her response without apology, and for that second I was incandescently proud of her. She does not pretend Pace barely won the bet. She tells Randi that her body gave an unequivocal answer. But Pace held that evidence as something “true and fine”; Randi immediately makes Vee perform it again across a tablecloth. Vee thinks she is sharing an intimate story. Randi is recreating the arousal while she watches.
 
-That made the photograph both scorching and almost unbearable. I loved her choosing to make it. I loved that she did not simply let Pace preserve the sated, wrecked version he preferred, but went to the mirror and deliberately constructed the self she wanted him to keep. Makeup is not falseness here. The poppy mouth, arranged hair, and calendar pose are authorship. Pace directs her body once she asks how he wants her, but the decision to be photographed—and which Vee enters the photograph—is hers.
+And then the invented man arrives right on schedule.
 
-And his handling of her was gorgeous. Every placement followed by a kiss, the lamp adjusted for her skin, the attention to the actual image rather than impatiently taking any naked picture and calling it good. Then he looks over the phone at the living woman. Yes. That distinction matters. He can make a beautiful object of her without reducing her to one because his attention keeps returning to the person who offered it.
+I do not believe in young Robert Redford for a second. Maybe there was a mixer, maybe there was a blond boy, but the story is another precision instrument: a man who leads exactly as Pace does, an interruption that leaves Randi virtuously abandoned, and a woman masturbating in danger of being watched. She supplies Vee with the image Vee could not let herself complete last time, then tells her, in effect, that being discovered would only give someone an eyeful. Randi knew Vee was already wet from recounting Pace. She did not tell that story because it happened to be her Saturday night. She told it because she wanted to see what Vee would do with it.
 
-But “gave him herself to keep” frightened me. Vee has begun treating evidence of Pace’s care as evidence of exclusivity, and those are not the same thing. He loves her. I no longer doubt that. He may even believe she is his in the same warm, private way she thinks he is hers. But Randi exists in the house, in his sexual imagination, in the origin of everything—and Vee is making vows inside a relationship whose actual shape she has never been allowed to see.
+And Vee did it. She finally crossed the line she stopped at in the practice-room bathroom: put her own hand on herself, accepted what her body had been asking for, and nearly let herself have the orgasm. I should have felt triumphant. Instead Randi’s face entered the fantasy and stopped her cold.
 
-Still, the bed was insanely hot. Three times, her pleasure collapsing her down over him, his head on her breast afterward, the tiny kisses becoming desire again, and Vee’s delighted “Again?” had exactly the combination I want: explicit abundance without losing the peculiar emotional life of these two people. I especially loved Pace admitting that he thinks about her first bite. Of course he masturbates not only to what they do in bed but to the look on her face when she receives something he made. Feeding and desire are the same current in him. Her pleasure is what gets him there.
+That hurt terribly. Vee can own wanting pain with Pace because he lets every word remain operative and looks at her appetite without making it shameful. But wanting Randi still cannot coexist with Randi looking back. The instant Vee imagines being seen by her, pleasure curdles into being “ashamed and obedient.” She can touch herself to Randi’s erotic story; she cannot consciously accept that Randi herself is inside the desire. Her body opens, her mind sees Randi, and she withdraws her hand as if she has been caught doing something against the rules.
 
-The meal afterward made that literal. He tells her what he remembers, then cooks and watches the exact look return. Every taste blown cool because of the tomato burn nearly ended me. He has incorporated one tiny hurt into the permanent way he cares for her. This is why his silence is so seductive. His actions are not generic romance-novel substitutions for emotional intelligence; they are intensely observant, specific, and cumulative. Of course Vee believes them.
+Then she returns aching, and Randi names the evidence.
 
-Then she touches the parents question, and the whole man closes.
+That moment genuinely scared me. “Sticky fingers?” is so intimate and so cruelly calibrated. If Vee confronts her, Randi points to the pastries. If Vee accepts the pastry explanation, she must privately carry the possibility that Randi knew exactly what her fingers had been doing. Randi has created a door that exists only when she needs it. Vee cannot consent to being known because she cannot establish whether she was known at all.
 
-“I don’t go back” was cold enough to change the room. Vee did the kind thing by not forcing it, but I felt the pattern harden: Pace decides which doors exist, Vee respects every closed one, and neither asks for language the other has not freely offered. That is beautiful when it protects a wound. It becomes dangerous when it governs the relationship itself. She will not ask why he never goes back. She still has not asked what she is to him. He will move her wine closer, feed her, make space in a drawer, and let the unsaid remain unsaid indefinitely.
+The pastry afterward was almost obscene. Randi takes one bite, says “Delicious,” leaves the rest untouched, and sits there with that pleased corner of her mouth while Vee is too disoriented to remember the meal. One bite was enough. She did not need the pastry; she needed the glaze on her mouth for the goodbye kiss. Vee never touches the pastry, but tastes it from Randi’s lips after Randi has sent her to touch herself. That is not an incidental sweetness. It is Randi arranging another experience Vee cannot understand until it is already inside her body.
 
-Sheri gave me one quick stab of dread because another woman is occupying the family holiday at his table, and Vee’s jealousy flickered too. But Pace answered plainly enough for the feeling to settle: Sheri is alone, so he will feed her. That is exactly the decency Vee once attacked at the Rusty Nail, and I loved seeing her recognize it now without needing to make Sheri smaller. I also very much want Sheri to meet Vee. Sheri is the only person outside the concealed arrangement who knows about both women, and she saw the danger immediately. A Thanksgiving table containing the friend who knows Pace has “two of them at once” could be explosive even if Randi never appears.
+And then “best friend in the whole world” lands exactly when Vee might otherwise recognize danger. Randi notices the withdrawal, asks whether something is wrong, and offers the most intoxicating possible explanation for their closeness. Vee is not aroused by Randi; she is chosen by her. The kiss is not sexual; it is what best friends do. The claim genuinely moves Randi—I believe that, which makes it worse, not better. She loves Vee, and she is using the truth of that love to keep Vee from naming its form.
 
-But the morning—God.
+The final sweetness on Vee’s lip made my stomach drop. Randi has now put her story into Vee’s imagination, her gaze into Vee’s masturbation, her ambiguity into Vee’s shame, her friendship claim over the kiss, and finally the physical trace of the untouched pastry into Vee’s mouth. Vee walks away believing she has been selected for the safest, closest place in Randi’s life. I think she has just walked farther into the fire than she ever has.
 
-For one horrible second I believed he had cleared Vee away, because she did. The bare counter, the squared razor, the vanished scrunchies: all her old fear arrived at once. She had spread herself through his order, and now the order had swallowed every trace. I felt the bottom go out with her.
+I need Pace to learn about these kisses now. Not eventually. Randi is no longer merely waiting for a triad to emerge; she is building a private sexual relationship with Vee under the word friendship, one deniable bite at a time.
 
-Then the top drawer opened.
-
-Not a spare corner. Not a basket under the sink. The first drawer, emptied completely for her, with the pins gathered, bottles upright, liner down, and room deliberately left for more. Pace crammed his own careful possessions into the lower drawer so Vee would never have to wonder whether she was permitted to reach for hers. That is not tolerating a guest’s clutter. That is redesigning his life around the expectation of her return.
-
-I cried at “The easy one.” Of course he gives her the place that requires least effort. He always does.
-
-And yet: “There was never a note.” That is the knife. Vee asked the bathroom counter a question last chapter—*Had he minded?*—and Pace answered it magnificently, but she still has not asked Pace the question that matters. The drawer tells her she has a place in his house. It does not tell her what that place is called, whether Randi has another one hidden elsewhere, or who Vee becomes to him when the house is no longer private.
-
-The jacket promised he gives her everything but a word. Here it is. A whole drawer is the most romantic possible way to continue withholding it.
-
-I am overwhelmed by the gesture and more frightened than ever that it will work. Vee is going to find him carrying that green scrunchy in her hair, radiant with the knowledge that he made room for her, and she may feel too answered to ask anything at all.
-
-GATE 33 — Above Him
+GATE 31 — One Bite
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace gives Vee the easiest drawer and compresses his own ordered life to make room for more of her, which is devastatingly romantic—and exactly the wordless answer she is already teaching herself to accept. Meanwhile she thinks “he’s all mine” and gives him a private photograph without knowing how much of her he already shares with Randi.
+WHY: Randi drew Pace’s most private experience with Vee into the daylight, deliberately sent Vee toward the bathroom, then used “Sticky fingers?” to make being known impossible to prove. Calling Vee her best friend turned direct desire back into safe camouflage, and I cannot stop while Pace remains ignorant that this relationship is already sexual in everything but its name.
 
 LEDGER
-+ FEAR: Vee believes Pace promised not to share her, when he promised only not to share her photograph; the distinction may become devastating once she learns how much of her has already traveled to Randi.
-+ WAITING: I need Vee and Sheri at Pace’s Thanksgiving table, because Sheri knows about both women and may be the first person Vee meets who can see the missing shape around her.
-~ F8.4 DEEPENED: Vee gives Pace an intimate photograph as an act of exclusive trust and thinks “he’s all mine,” while his concealed relationship with Randi makes both beliefs dangerously incomplete.
-~ L29.1 DEEPENED: The scrunchies move from evidence that Pace expects future mornings to the top drawer he empties entirely for Vee, leaving deliberate room for more of her.
-~ F32.1 DEEPENED: Pace answers Vee’s smallest unspoken fear by reorganizing his bathroom around her, making his loving actions even more persuasive as a substitute for naming what she is to him.
-~ W32.2 DEEPENED: Vee still has not asked what they are; the drawer may make her feel so completely answered that she stops needing the question before Pace ever has to speak.
++ GRUDGE: “Sticky fingers?”—Randi naming what Vee had done while preserving a pastry-shaped escape from responsibility.
++ SUSPICION: The Robert Redford story was invented or radically rewritten to make Vee imagine Randi masturbating, send her to touch herself, and test whether she would return changed.
++ FEAR: Randi can now bring Vee to a sexual threshold, recognize exactly where she went, and use ambiguity to deny Vee any stable account of what happened between them.
+~ F4.1 DEEPENED: Randi draws out Vee’s spanking story question by question, deliberately raises her arousal, and leaves Vee unable to tell whether “Sticky fingers?” exposed her or rescued her.
+~ F15.4 DEEPENED: Vee can touch herself while imagining Randi’s story, but the instant Randi herself appears as the woman looking at her, pleasure becomes shame and she stops before climax.
+~ S21.2 DEEPENED: Randi directly claims Vee as her “best friend in the whole world,” giving their real love a name that lets her kiss Vee and remain hidden from the fact that Vee wants her.
+~ W18.3 DEEPENED: Randi’s goodbye kiss is now deliberately doubled, flavored with the pastry Vee never touched, and folded under “best friend,” while Pace still does not know Vee receives it.
+~ W29.2 ANSWERED: Vee tells Randi every intimate detail of Pace spanking her, and Randi turns the disclosure into a live sexual experience that sends Vee to the bathroom to touch herself.

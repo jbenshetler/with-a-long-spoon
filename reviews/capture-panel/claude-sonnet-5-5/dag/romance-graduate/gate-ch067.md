@@ -1,30 +1,34 @@
-*capture-dag-v3-grounded · gate ch067 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed d17646e8ce1f · 2026-11-17*
+*capture-dag-v3-grounded · gate ch067 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 95b08a13285f · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 6e3ec299e83b · 2026-11-14*
 
 REACTION
 
-Okay, this is a heat chapter that does something odd: it uses the gym as foreplay and the injury as a leash. I liked the first third a lot. Pace taking her tiny weights seriously, the collars on the five-pound plates, and the whole careful architecture of "she was never responsible for what she couldn't hold." That's love-as-doing again, and it's the best version of it. The knuckles on her breasts while he spots her and her laughing is funny and sexy, and "Something funny?" with the eyebrow is great.
+Finally, Randi's head, and it's a whole chapter of it. I've wanted this for twenty-odd chapters, and the book gave it to me as a tribunal, which is a smart way to do it. She's the one on the wrong side of the table, in the chair she set out herself, and every skill she has is useless because the form is correct.
 
-The injury scene is a real jolt. The plate rolling in, the flinch, and Pace's cold quiet "Apologize to the woman you hurt." Yes, I felt that in my stomach. Him standing between her and the other cage and the size of him changing. Hot in a way that has nothing to do with sex.
+The opening half is Vee, and it's good. The lime Lifesaver is a nice little reversal: Randi feeds her instead of being fed. The hug with Randi's head on her chest is lovely. Then Vee rehearses the "it was only a joke" line and calls her own wanting a "sex brain" threat to the friendship, and I want to shake her. "A girl needs a spanking!" going off in her like a bell, with Randi leaving with that gleam, is dramatic irony at full volume. Vee doesn't know where Randi is walking.
 
-Then the balm scene. It's very explicit and very inventive: the cool paste that lies, the burn arriving from the neck down, her not being able to tell dread from want. "She did not want to be saved" is the best interior beat. And his refusal to let her finish, "Not tonight. We need to wait. We." That "we" gets me. I know what he's carrying. He's the one who asked "do you want to sleep with a woman" and he's denying her release again. Denial as care, and as the thing he does. I read it as him steering without meaning to, or maybe meaning to.
+Then the Standards room, and I'm hooked. Kinsey's lie about the hand in the bra, which Randi lets stand because the truth would cost her the wanting, is the best beat. "The wanting was the real crime. Just not the one they would name." Yes. And the Pace memory, the man nothing stuck to, and her admitting she took the night fast and missed the slow part, is a quiet knife. The mixer confession finally tells me she meant to tell Vee, and flinched. "I almost believed it. She had believed every second of it." That's the payoff of my grudge about the cover, and it lands.
 
-What I notice most is who's missing. Randi is off the page entirely, one line of cover story, "some sorority thing," and Vee's body doesn't mention her once. After the last three chapters that absence is loud. Is Vee actually behaving? The "sex brain under control" promise is holding, and I don't trust it. Also the first lie to Pace is still sitting there, and he just tended her like a saint. Dread.
+The ultimatum answered "No. Thank you. But no" is the choice I've been waiting on, and it's made. She loses only Thursdays, she tells herself. I don't buy that it's the whole bill. Brooke's unreadable look worries me.
 
-Complaints: the balm sequence runs long and says "she could not tell" about four times. The gym description is a long inventory. The ending is soft, a cozy hold with no turn.
+Complaints: the procedural detail runs long and the "machine" narration explains itself. Randi still frames everything as hiding. But it moves.
 
-GATE 67 — Burn
+GATE 65 — Inversion
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "He had arranged the morning so that she was never once responsible for what she couldn't hold." (the gym inventory and the book telling me what his care means)
-WHY: Pace standing between her and the careless boys, then the burning balm and "Not tonight. We need to wait," is the heat and the care I read for. But Randi's total absence and the lie to Pace still sitting there make me want the other shoe.
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The pace was deliberate, the one speed a thing like this ever moved — a machine, a system, something older and bigger than Randi" (the procedure narrating its own meaning)
+WHY: Randi's own head at last, losing every skill to a correct form, and her admitting she meant to tell Vee at the mixer and flinched is what I've waited for. Choosing Vee over the house, and Brooke's unreadable look, have me wanting the next one.
 
 LEDGER
-+ LOVE: Pace taking her tiny weights as seriously as his own, and collaring the five-pound plates.
-+ LOVE: "Apologize to the woman you hurt," Pace's cold quiet standing between her and the boys.
-+ LOVE: The balm burning down from her neck, and "Not tonight. We need to wait."
-+ SUSPICION: Pace denying her the finish again is steering, and it will matter when Randi comes back on the page.
-+ WAITING: Where Randi has gone this chapter, and what the "sorority thing" Saturday really is.
-~ F62.1 DEEPENED: The first lie sits unspoken while Pace tends her, and his tenderness makes it heavier.
++ LOVE: Randi letting Kinsey's lie about the bra stand because the truth would expose the wanting, "The wanting was the real crime."
++ LOVE: Randi admitting she meant to tell Vee at the mixer and lost her nerve, "She had believed every second of it."
++ FEAR: Randi thinks she only loses Thursdays, but Brooke's unreadable look means the house isn't done.
++ SUSPICION: Vee's "girl needs a spanking" laugh and Randi's private gleam suggest Randi will carry this into the Saturday brunch.
++ WAITING: Saturday brunch, with Randi now having chosen Vee and Vee still unable to name it.
+~ W61.5 ANSWERED: Randi's head after the kiss finally arrived, and she wanted it as much as Vee did.
+~ F61.4 CONFIRMED: Brooke's ultimatum landed on the kiss, and Randi refused.
+~ W45.6 ANSWERED: Randi answered Brooke's "you need to choose" with "No."
+~ F2.1 CONFIRMED: Brooke found out about the guest, the nights and Pace, and put them on the record.
+~ S61.3 DEEPENED: Randi picked the mixer to tell Vee, so the staging was hers and her nerve failed.

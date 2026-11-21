@@ -1,45 +1,40 @@
-*capture-dag-v3-grounded · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed 655550244a59 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 70d2604ae35e · 2026-11-06*
 
 REACTION
 
-*Holy fucking shit.* I am sitting here in the quiet with my pulse hammering in my throat, completely undone.
+I am practically vibrating in my seat. This chapter was so sunny, so hilarious, so deeply charming—and every single second of it felt like watching someone laugh and adjust their sunglasses while walking barefoot toward a minefield.
 
-First of all: the absolute, scorching, feral eroticism of this chapter. Helen Rivers is operating on a tier of erotica that makes everything else on my Kindle look like children playing with crayons. The bench seat of the truck! The callback to that cold September drive when he was shivering and hid it, transformed now into her sliding across the vinyl in an empty blacktop lot, opening his belt, and taking him deep into her mouth until his hand literally went dead and weightless in her hair—that *stillness* when a man who manages the entire universe down to the millimeter completely short-circuits. And then—as if that wasn't enough to kill me on the spot—she unzips her own jeans while he's driving sixty miles an hour down a dark county road, shoves her denim to her knees, pulls her own soaked thong aside, and puts his hand between her legs. Driving with one wrist on the wheel while fingering her to a screaming, shuddering orgasm under the heater vents! My Kindle practically caught fire in my hands. The heat was a thousand out of ten.
+First of all, Kayla and Meg are absolute treasures. Kayla standing outside the locked dining hall doors in her mittens mourning waffles like she’s attending a state funeral ("I am not having break*fast* out of a machine... This is the last morning of my life and it's going to be peanut butter crackers") had me howling. That is so violently college. And Meg countering her own five-day hormonal war crime against Danny with a dozen maple bacons and enduring *all* the Matrix movies? That is top-tier female solidarity. Watching Vee get to sit in the bright sunlight of a glassed-in bistro, spending her Christmas money on mimosas, and openly giggling about flashing Pace on his freezing front porch while Kayla shrieked and turned heads—it gave Vee such joyful, earned lightness. She isn't hiding under oversized sweaters anymore. She owns the porch story.
 
-BUT THE PSYCHOLOGICAL SUSPENSE. The sheer, suffocating, tightrope-walking brilliance of this entire dinner.
+BUT WEDNESDAY. *WEDNESDAY NIGHT.*
 
-I was braced for an atomic explosion, and what Rivers gave us instead was ten times more devastating: absolute, seamless, terrifying mastery from Pace.
+It is officially on the calendar. Two days away.
 
-"Vee's boyfriend."
+"You two, Cassie, and Randi, Theo maybe."
 
-He said it to Randi first. *Right to Randi's face.* Before a single other person entered the room. He looked at the woman he's been sleeping with, the woman who helped him pick Vee out of a crowd, and handed her the public label he refused to give Vee for months: *"Vee's boyfriend."* And then: *"Not anymore"* when Randi said she hid him well. The sheer, breathtaking violence of that subtext! Randi’s hand squeezed Vee’s so hard she could feel the bones—Vee thought it was fierce friend-joy, but Randi was holding on for dear life while the floor fell out from under her.
+My stomach did an actual backflip. Vee dropped that invitation like it’s just a sweet, proud college girl bringing her impressive older man to meet the dorm crew. She has NO IDEA what the roster actually is.
 
-And watching Pace work the room? It was mesmerizing. It was chilling. It was pure romance and pure predator psychology wrapped in one. He didn't boast. He didn't dominate. He just unlocked every single person Vee loves—Danny’s lifting plateau, Theo’s jazz, Kayla’s sister's dress, Meg’s roommate—by handing them the key and stepping back. He won over Cassie—*Cassie!*—in five minutes flat by asking about the Bricklayers and letting her litigate the cafeteria, earning that dry, holy-grail blessing: *"You can stay."*
+Let’s review the bomb components Pace is packing into whatever venue he’s choosing:
+1. **Randi.** Randi, who has spent four months acting like Pace is just some tutor from the coffee shop, who secretly chose Vee on the quad with Pace, who broke down weeping on Pace’s chest in November while holding Vee’s underwear, and who Brooke *just* threatened with Lauren Pike’s fate if her sapphic affair gets out.
+2. **Pace.** The man who orchestrates everything down to the millimeter, who knows *both* women intimately, and who is choosing the ground specifically so he won't be overwhelmed by noise.
+3. **Cassie.** The human lie detector. Cassie, who knows Randi is slick, who knows Pace was at the center of the doll-sized sweater mystery, and who will be sitting right there watching the micro-expressions pass between Randi and Pace across the table.
+4. **Theo.** The guy who asked Vee out, thrown in just to add a dash of college territory-marking!
+5. **Kayla and Meg.** The loud, chaotic peanut gallery who are going to ask twenty intrusive questions before the appetizers even arrive!
 
-And then the end of the night. The three of them at that round table under the dead speakers.
+Pace said, *"Let me handle it."* Pace is setting the board. Does Randi even know yet?! Vee hasn't seen Randi since Friday's explosive kiss in the sorority foyer! Tomorrow is Tuesday—Anthro class, the debrief about the coat and the post-oral kiss, and Vee dropping the news: *"Oh, by the way, Pace is taking all of us to dinner tomorrow night!"*
 
-Pace setting the trap with that terrifying, quiet smile: *"Randi said something you should hear... Brunches with Vee are the highlight of my week."* Dropping Randi's private confession right into the middle of the table like a live grenade with the pin pulled! And Randi, trapped, having to perform the doting best friend, raising her glass and toasting: *"Meeting Vee was the highlight of my year. To my beautiful best friend."*
+Randi is going to throw up blood. I cannot breathe. I need Tuesday, I need Anthro, and I need Wednesday night immediately.
 
-And then Randi going silent. The thumbnail pressing up into the glass rim until the nail went white.
-
-Randi is drowning. She is watching the man she wants and the woman she is desperately, hopelessly in love with knit themselves into an official, impenetrable fortress of domestic reality, and she has to sit there in her chambray shirt, smile, and drink to it. And Vee—sweet, lavish, starving Vee—sat there getting so wet over the word *boyfriend* that she didn't even register the trap she's living in, only noticing the thumb on the glass like a picture in an art gallery.
-
-Pace knows. Randi knows. Cassie is watching. And Vee is riding home with her pants at her knees, tasting him on her mouth, thinking she is the luckiest girl on earth. The dramatic irony is so thick I could choke on it. I need Thursday's Anthro debrief right now.
-
-GATE 52 — Among Friends
+GATE 50 — Across
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from the suffocating psychological tension of Pace claiming the "boyfriend" title in front of a fracturing Randi to the scorching, unhinged truck-cab sex was an absolute masterpiece of emotional payoff and pure heat.
+WHY: The sunny, hilarious dorm-friend debrief over mimosas and waffles was pure joy—and the countdown officially dropping Wednesday's dinner as the collision point for Pace, Randi, and Cassie is suffocating suspense.
 
 LEDGER
-+ LOVE: Pace stepping up and introducing himself to every single person as "Vee's boyfriend"—finally spending the word on her in public.
-+ LOVE: The scorching truck-cab intimacy—taking him in her mouth in the lot until he went motionless, followed by the moving-car fingering down the county road.
-+ LOVE: Cassie giving Pace the ultimate stamp of approval with that dry, spinning-keys "You can stay."
-~ [F5.2] DEEPENED: Randi's jealousy and heartbreak peaked into total silent agony—pressing her thumbnail white under the glass rim while toasting the couple.
-~ [F48.2] SHIFTED: The group gathering didn't detonate the secret publicly; instead, Pace used it to cement his claim on Vee and leave Randi emotionally isolated.
-~ [W48.3] ANSWERED: The group dinner happened, Pace charmed every friend Vee owns, and the three of them shared the table in suffocating subtext.
-~ [S47.2] DEEPENED: Vee being so aroused by the word "boyfriend" and the party debrief that she's heading straight into Thursday's dinner with Randi primed to confess everything.
++ LOVE: Kayla’s unhinged morning grief over locked dining hall doors and Meg’s maple-bacon apology peace offering.
+~ [W48.3] SHIFTED: The group dinner is no longer a vague future plan; it is officially locked in for Wednesday night, two days away.
+~ [F48.2] DEEPENED: Pace orchestrating Wednesday's dinner with Kayla, Meg, Cassie, Randi, and Theo in the same room makes the secret threesome setup an active, ticking time bomb.

@@ -1,41 +1,40 @@
-*capture-dag-v3-grounded · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 0b3fa7e6f760 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch045 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 7ca552e0e594 · 2026-11-06*
 
 **REACTION**
 
-She went back. Vee had her hand on the latch, turned around, took Randi's face in both hands and kissed her, and kept kissing her under fifty years of sisters in black drapes. That's what I'd text at 1 a.m. For forty-four chapters Randi has been the one leaning in. There was the second press at the curb, the foot under the table, "Sticky fingers?" Vee has walked past every one of those doors without seeing them. Tonight she didn't need a door. "She only knew she wasn't finished." Then the camera swings to Randi's side of the latch, with the back of her hand against her mouth "which was a thing she had not done since she was fifteen," laughing out loud alone in the hall. A sentence with *means* in it is trying to put itself together and she won't let it. I grinned like an idiot. "The afterward was the least interesting part of four months." After twenty-six chapters locked out of her head, I got two in a row, and the second one gave me Randi happy. I didn't know the book would let her be happy.
+It's the same text, read from the other end. Last chapter I watched Randi type "Every word of it true. None of it the thing" with a stranger asleep behind her. Now I watch it light up Vee's ceiling in Ohio, and it works exactly the way Randi built it to. Vee reads "fairytale" and pictures white tie, a man out of the stories, a life lived where everyone can see. She's right about all of it, and she envies all of it, and it's the one life Randi just lay inside and felt nothing. Each of them is lying alone in a cold room picturing the other one warm. That's what I'd text at 1 a.m. And "miss your face most though, gorgeous," the one line Randi actually meant, is the line Vee skims right past on her way to the billionaire. She registers that Randi "took the time." She has no idea it was the only true thing on the screen.
 
-And then Brooke. I've had her on my ledger since chapter 2, building a file, and here it is: "You always say goodbye under the composites." She says it kindly the whole way through, and that's what makes it horrifying. Play all you want, for the boys. "The day he thinks it's true—". Lauren Pike. "You need to choose." Randi stands there with an empty cold mug she forgot to fill. Ten minutes after the happiest moment of her life in this book, the house puts a price on it. The cut to her shutting her own door is exactly right. Now I'm terrified, because I know which way Randi chooses. She told me in Gstaad: she has never had to be brave, and she arranged her whole life so she wouldn't have to be.
+Going back to a night I'd already seen worked for me. The two-page chapter taught me how this book uses chronology, and the mirrored midnight is the same move. I know where Randi is and what she just did, so every guess Vee makes lands like a bruise. When she pictures "a weekend so wild Vee wouldn't recognize half of what they did," I know it was one hollow night and a lipstick ring. That's dramatic irony done as grief, not as a gotcha.
 
-The coaching scene is where I have mixed feelings. It's chapter 24 again: Vee wrecked on Randi's bed, Randi taking the fight apart, Randi sending her back to Pace on Randi's schedule ("Go to him tonight") in Randi's shoes. I noticed the rerun. But this time the dramatic irony is so thick I could taste it. "Not a word," said low, with her eyes past Vee's shoulder. That isn't some boy from her past. Pace hasn't called *Randi* either, for six weeks. Vee hands her the fight, and Randi reads Pace perfectly, "a boy holding himself still so it won't show how much you got him," because she knows him better than Vee does. "I'm so jealous I could scream" is the truest thing she's said, and it sails right past. Then the part that made me suspicious: is she sending Vee back because she loves her and wants her happy, or because Vee is her only road back into that house? Probably both, and the book won't let me pick, which I like.
+The best thing in the chapter is the fra diavolo memory turning on her. She reaches for her best night to get warm, and while she's inside it the hair goes gold, the leg goes tan, and a blonde is sitting in her sheet at his table. "She could not keep her own night." God. That's jealousy written as something happening to her memory, which is so much smarter than a catty stranger at a bar. And the cropped photo: "Same picture, one house, and she was the one who had divided it." That line knows something about her that she's only half ready to know.
 
-The coat. Okay. Coat with nothing under it is a KU trope. I've read that doorstep a hundred times, and part of me rolled my eyes at it. What saves it is that it runs through Vee's shame wiring. "There was a word for that girl and it was already in her mouth." Randi makes her say "slutty" out loud and then walks her down from it one word at a time. Then the shoes. Laddered black straps, a stiletto, "not one was there to hold the shoe on." Her nipples draw up and she files it under *tonight*, the coat and the man, with her eyes kept on the straps, and for a second the two of them are holding the same shoes. I know where that ache came from even if she doesn't, and that's the both-at-once I'm here for. Also, those shoes look a lot like bench shoes to me. Randi is dressing Vee's feet for Pace again, and he's going to open his door and see Randi's taste on the woman he's been sobbing over.
+And the book finally remembered MIRANDA. "She knew whose money it was," and she envies the mountains anyway, "a poisoned Gstaad." Seven chapters late, but it came back, and it came back honest. Her wanting what she knows is dirty from a twin bed is real interiority.
 
-"That's how she sounds at home." Vee finally got it right without knowing what she got right. Home is Kentucky, not Switzerland. That one hurt sweetly. And the plum polish she "kept up the whole break for a man who had not called," her thumb going across it while Randi talks about the blue dress, is a lovely small thing.
+Here's what I learned, and it hurts. Pace never came after her. There was no text for three weeks. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." Yes. That's his whole virtue turned into the wound, and it's Randi's line about him being thrown back at him. And Vee never told Randi. She wishes she could, but she sent "i'm here if you want to talk" and offered comfort instead of asking for it. So Randi doesn't know they broke, and her plan of "keep the brunches exactly as they were" is resting on a floor that's already gone.
 
-Gripes. The plane opening is throat-clearing: the drone, the pool on Tuesday, the list of friends. It's another recap of the break I already lived through twice, and the lavender and fabric softener get named one more time. Vee still believes Sheri is real competition while Randi, who *met* Sheri, says nothing. "The fear's a liar" and the three-in-the-morning speech are Randi doing the book's explaining for it. And Brooke's speech is a little too neat, with Lauren Pike dropped in so the threat has a name. But Randi's "Everywhere but the bedroom, and the bedroom's the room I actually live in" is a perfect cover line. She tells the truth sideways and Vee laughs for the first time all day.
+Gripes. The bartender's lines get recited again, word for word. The fra diavolo gets recapped in full before it turns, and I needed the turn, not the menu. "Old lady air freshener" shows up twice. Then "a devastatingly handsome billionaire": Randi's text never said that, so either Vee is psychic or the book leaked its own knowledge into her head. I'm calling it imagination, but it was a little too exact. And the ending explains itself again, with "holding both of them and setting neither down" and "the girl who was gone." The room-that-loved-Vivienne idea landed on page one, and the last sentence didn't need to bring it back. This is also the fourth chapter in a row with basically no heat. Every one of them is grief-shaped, and I'm starting to feel the book holding its breath a beat too long.
 
-Tonight is the coat. I'm not putting this down.
+Still, "a day she could circle for the one and nothing at all for the other." The first day of term is now a date I'm reading toward.
 
-GATE 45 — My Friend Randi
+GATE 43 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Tuesday there would be class again. The cafeteria at noon with the trays and the noise and everybody's coats piled at the end of the table." That's the plane-window inventory, where I thought I was in for a third quiet chapter of the same grief.
-WHY: Vee turning back from the latch to kiss Randi is the bond turning at last, and then Randi's two minutes of joy get cut off by Brooke's "You need to choose." The coaching is the chapter-24 rerun, but those shoes, the coat, and "tonight" mean I'm reading on right now.
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The bartender, the older lady, closing the place down that night without looking up from the glasses — *he doesn't take advantage, I'd have heard*" — the book replaying chapter 23's dialogue to me one more time.
+WHY: The mirrored midnight is the dramatic irony this book does best: both women lie in cold rooms imagining each other warm, and the one true line in the text goes unread. The fra diavolo memory turning blonde wrecked me. It's another quiet, over-explained chapter, though, and I want bodies back on the page soon. The first day of term is what I'm reading toward now.
 
 LEDGER
-~ F2.1 CONFIRMED: Brooke kept the file. "You always say goodbye under the composites," Lauren Pike, and "You need to choose"
-~ W31.7 ANSWERED: Vee didn't need a door. She came back from the latch and kissed Randi herself
-~ W43.5 ANSWERED: Randi came before term started, down the stairs fast, and swept the Gstaad dresses onto the floor for her
-~ F43.3 SHIFTED: Vee admitted the blonde was built at 3 a.m., but she still thinks Sheri is real, and Randi doesn't correct her
-~ L4.4 SHIFTED: "That's how she sounds at home." She's right for the first time, and she doesn't know home is Kentucky
-~ G9.7 DEEPENED: It's the chapter 24 shape again: Vee wrecked on the bed, Randi coaching, a deadline, and shoes
-~ F44.5 DEEPENED: Randi is sending Vee to his door tonight in Randi's heels. The three-in-the-kitchen picture is being dressed for him
-+ FEAR: Randi chooses her position in the house over Vee, and the kiss Vee finally started is the thing she gets dropped for
-+ LOVE: Randi alone in the foyer with the back of her hand to her mouth, laughing out loud and not caring
-+ LOVE: "Everywhere but the bedroom, and the bedroom's the room I actually live in." It's the truth told sideways
-+ SUSPICION: "Not a word" was about Pace's silence to Randi, not some old boy. She's sending Vee back partly because Vee is her own way back into that house
-+ WAITING: Pace opening his door to the coat and the laddered stilettos, and whether he knows whose shoes they are
-+ GRUDGE: The coat with nothing under it is a stock trope, and Randi has to talk Vee into it the way she dressed her in chapter 24
++ LOVE: The fra diavolo memory turning on her mid-dream, the blonde in her sheet at his table. "She could not keep her own night"
++ LOVE: "Same picture, one house, and she was the one who had divided it"
++ FEAR: Vee is building a rival out of nothing, a blonde from the dance hall, and she'll walk into January already believing she's been replaced
++ GRUDGE: Vee somehow knows it's "a devastatingly handsome billionaire," and the bartender's lines and the fra diavolo get recited again
++ WAITING: The first day of term, with Randi's lit-up face and Pace nowhere to be circled
+~ W42.7 ANSWERED: Pace sent nothing the whole break, and Vee never told Randi they broke
+~ W41.6 ANSWERED: He did nothing. He left her the room, and she hates it now
+~ F41.5 DISPROVED: Vee never took the fight to Randi's table. She offered Randi comfort instead
+~ F42.3 DEEPENED: Vee skims right past "miss your face most," the one line Randi meant, on her way to the fairytale
+~ L4.4 DEEPENED: "Glamorous, wild Randi" in the snow. Vee envies the exact life Randi just felt nothing inside
+~ W36.6 DEEPENED: Vee still keeps MIRANDA folded away, and envies "a poisoned Gstaad" anyway
+~ S25.2 SHIFTED: Vee's imagined rival is blonde, and Sheri at his table is a bleached blonde she "folded away as pity"

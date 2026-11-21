@@ -1,38 +1,43 @@
-*capture-dag-v3-grounded · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 3fe5dbd6925d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 0f29ffe8af98 · 2026-11-06*
 
 REACTION
 
-I am sitting here with tears in my eyes and an absolute, hollow ache in my chest.
+I am sitting here with my heart pounding against my ribs and the absolute, sickening chill of pure dread washing through me. *Holy shit.* Holy, holy shit. This chapter was an absolute psychological horror film masquerading as a scorching-hot interrogation kink scene, and I could barely breathe through a single sentence.
 
-*Two pages.* Not even two full pages, and Helen Rivers just delivered one of the most quietly devastating, psychologically masterclass moments in this entire book. This right here is why I read. This is why all the mindless, trope-stuffed KU fluff in the world can never satisfy me when writing like this exists.
+First of all, Vee driving out to Pace at one in the morning in Randi's iridescent skirt, with the thong still soaked and plastered to her skin, using him as a blunt instrument to fuck Randi out of her head—and Pace clocking it *instantly*. "That was angry, Vee." He knew. Of course he knew. He knows the exact rhythm of her body, and he knew she was using him like a fight.
 
-Cassie didn't ask "Did she kiss you?" Cassie didn't ask "Are you cheating on Pace?"
+AND THEN HE MADE HER BUY HER ORGASM WITH TRUTHS.
 
-*"Is this what you want?"*
+Sweet mother of god. That was one of the most agonizing, brilliant, filthy scenes Helen Rivers has ever put on paper. The sheer erotic discipline of holding her just off the head of his cock, refusing to let her move or grind, doling out half-strokes and quarter-inches only when she stripped away her tidy, evasive little excuses and paid in raw, humiliating reality. *"What does danced bigger mean, Vee?"* Watching Vee have to admit—out loud, while impaled on her boyfriend—that she didn't try to get her hands back, that she let Randi hold her thighs open to the room, that she was dripping wet, that Randi took a handful of her ass, and that she wanted Randi’s tongue lower... it was staggering. It dismantled every defensive wall she owned.
 
-God, the sheer, staggering emotional intelligence of that question! It cuts straight through all the defensive sorority babble, straight past the "she's just like that," straight past the lie of the mouth versus the neck. Cassie isn't judging her. Cassie isn't trying to police her morals or score a point. Cassie looks at her oldest friend standing in the doorway with her coat still on, vibrating and raw and terrified, and asks the only question that actually matters—and the one question Vee is fundamentally incapable of answering.
+BUT THE HORROR. THE SHEER, SUFFOCATING DRAMATIC IRONY.
 
-And Vee’s interiority here is just breathtaking. She actually *goes looking* for the answer in her chest, hits the colossal, terrifying contour of the truth—that her skin, her neck, her body, her whole waking mind is screaming *yes*—and she scrambles backward like she’s looked over the edge of a cliff. The panic of having no floor under you, so you lash out at the safest person in your universe: *"You don't like her... you don't get to stand there and look at me like that."* We have all done that. Every single one of us has picked an old, tired fight with someone who loves us just to avoid looking at the fire burning down our own house.
+Vee is lying there, sweating, thinking Pace is just some slightly kinky, voyeuristic straight guy who got a hard-on hearing about two girls messing around at a frat party. She thinks she's confessing a messy, accidental, one-time brush with bi-curiosity to her patient, benevolent boyfriend.
 
-And what does Cassie do? Cassie doesn't take the bait. She doesn't fight back. She doesn't defend herself or demand an apology. She just steps right over the plank Vee laid down, looks at her trembling, starving friend, and offers the only grace Vee can actually carry right now:
+SHE DOES NOT KNOW HE IS HOLDING THE OTHER END OF THE STRING.
 
-*"You didn't have dinner... Do you want some of my Cocoa Pebbles?"*
+Pace didn't just stumble into hearing about two girls. Pace *built* this! Pace and Randi picked Vee out together on the quad in October! Randi was in this exact bed five nights ago, riding Pace and crying out that she wanted Vee's breast in her hand and Vee's nipple in her mouth! When Pace asked, *"Do you want to sleep with a woman, Vee?"*—he wasn't asking a hypothetical question! He was checking the temperature of the water to see if she was ready for the trap to snap shut!
 
-I completely broke down. That destroyed me. Cocoa Pebbles. A want the size of a bowl. When your life has suddenly grown so immense, so terrifying, and so uncontrollably hungry that your appetite is threatening to swallow you whole, the truest, purest act of love anyone can offer is a handful of children's cereal in a cold dorm room. Cassie gives her a floor. Cassie holds her together when the rest of her world is splitting at the seams.
+And then Vee—god, my stomach plummeted through the floor—Vee trying to deflect her mounting panic by accusing him: *"You want Randi."*
+And that micro-flicker on Pace's face! The absolute ice-water precision of his reply: *"You keep saying her name. Not me."*
+Vee thinks he's being courtly, defending himself because he only has eyes for her. SHE HAS NO IDEA HE ALREADY HAS RANDI. She has no idea Randi's cashmere blanket—the very blanket he just pulled up to Vee's chin!—was bought with Randi's tears on his spanking bench!
 
-And now Vee is standing there in her coat eating cereal out of a box, with Saturday brunch already locked in with Randi, and Pace waiting on the other side of the week. She survived the question tonight, but the question didn't go away. It’s sitting right there on the desk.
+And that ending. Vee lying in his arms, raw and sore from using her boyfriend's body to exorcise a demon, only to realize the demon is still right there. Tuesday is coming. Dr. Marsh's class. Two nights away. She has to sit next to Randi, smelling that expensive perfume, looking at the mouth that was just down her throat, totally unaware that the two people who hold her whole heart have been passing her back and forth between them like an offering. I am trembling. Tuesday is going to destroy all of us.
 
-GATE 64 — Some of Mine
+GATE 62 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie asking 'Is this what you want?' followed by the quiet, unconditional grace of the Cocoa Pebbles was an absolute masterpiece of emotional realism and female friendship.
+WHY: The interrogation scene was a scorching, psychologically devastating masterclass—Pace trading inches of his cock for the unvarnished truth of Vee's lust for Randi was suffocatingly hot, and the dramatic irony of Vee lying under Randi's blanket thinking she got away with it is pure dread.
 
 LEDGER
-+ LOVE: Cassie stepping over Vee's defensive fight to offer Cocoa Pebbles—pure, unconditional friendship holding Vee together when her world is splitting.
-~ S4.2 ANSWERED: Cassie didn't just suspect; she saw the intimacy, bypassed the excuses, and confronted Vee with the only question that mattered.
-~ F63.1 RESOLVED: Cassie forced the question ('Is this what you want?'), but offered total emotional safety when Vee couldn't answer it.
-+ WAITING: Saturday brunch with Randi—where Vee has to sit across from the woman whose kiss branded her neck, with Cassie's question hanging over her head.
++ FEAR: Vee's first lie to Pace ("No. Nothing.") is going to rot her from the inside out and make the threesome revelation feel like a total cosmic punishment.
++ SUSPICION: Pace is going to call Randi the second Vee leaves on Sunday and tell her Vee confessed to wanting her mouth lower.
++ WAITING: Tuesday's Anthro class—Vee having to sit shoulder-to-shoulder with Randi after confessing her lust to Pace.
+~ [F61.2] CONFIRMED: Vee brought her electric awakening for Randi straight to Pace's bed, desperately trying to fuck it away and ending up confessing the whole thing under his command.
+~ [W61.3] ANSWERED: Vee arrived at Pace's house in the middle of the night wearing Randi's skirt and thong, leading directly to the interrogation.
+~ [F5.1] DEEPENED: Vee lying to Pace while relying on him as her moral "rail" proves how deeply, dangerously bonded she is to him, making the pointing-game secret a fatal blow waiting to drop.
+~ [S55.3] DEEPENED: Pace asking Vee point-blank if she wants to sleep with a woman confirms he and Randi are actively testing the board to bring Vee into their bed together.

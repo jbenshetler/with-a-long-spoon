@@ -1,42 +1,41 @@
-*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 7d8d7712927f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed fe1fd25390ad · 2026-11-06*
 
 REACTION:
 
-THE BLURB. THE JACKET COPY WORD FOR WORD.
+Oh, god. My throat is so tight I can barely swallow. The blurb has finally caught up to us.
 
-*"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."*
+*“He gives her everything but a word for what they are. Vivienne 'Vee' Thorne has found the best thing in her life, and it has no name.”*
 
-I am sitting here with my knuckles pressed against my teeth, trying not to scream.
+Seeing those exact sentences crystallize in the dark of his bedroom—after the sweat cooled, after he came undone inside her, after he fell asleep with his heavy arm slung over her ribs—felt like a slow, dull knife turning right under my ribs.
 
-*"Words are cheap, and you still won't spend them on me."*
+This chapter was agonizingly, brilliantly real. That sudden, ugly snap in the dark—*"Is this what we are now?... If we're just sex, I'd like to know"*—was such a masterclass in how unexpressed emotional dread metastasizes into petty, unfair anger. She didn't want Chili's. She didn't actually think he was "punishing" her. She was terrified because she gave him her soul on the porch on Monday morning, and he deflected it, and now her internal pressure gauge is screaming. So she picks a fight, demands public proof, and drags him to the brightest, grossest, loudest chain restaurant in town just to force him into a box her parents' world would recognize.
 
-WHAT A LINE. Oh, god, what an absolute, devastating, magnificent line! That hit him right between the eyes. You could see the exact second the air left his chest. Vivienne Thorne did not flinch. She left her overnight bag in the car, kept her winter coat buttoned to the throat, stood on the welcome mat, and refused to let his warm house, his simmering spiced chicken, his poured wine, or his incredible, reverent hands seduce her into compliance.
+And that Chili's scene! God, the sensory precision was devastating. The sensory overload hitting Pace—the sports TVs, the pop music, the clatter—and watching him square his fork to the table, desperately trying to bring his eyes back to her face through the sheer neurological migraine of it all. Vee reading his genuine sensory distress as *irritation with her*, as proof that he’s ashamed of her! And then the nachos: the limp, salty, sour orange bag-cheese lying dead on her tongue. The realization that by teaching her what a real meal is, he didn't just spoil fast food for her—he spoiled the entire small, unexamined life she used to find "fine."
 
-The tragedy of this entire confrontation is that *both* of them are telling their absolute, unvarnished truth, and their truths cannot occupy the same room.
+And then the confrontation back at the house broke my heart. She tries to rewrite history (*"You went cold on me after the Rusty Nail"*), and Pace, in his steady, immovable grace, just sets the truth down: *"You know what happened after the dance."* No yelling. Just facts. Followed by his quiet, vulnerable admission that places like that drown out his ability to hear her, and that he's listening now. It was so noble, so patient, that she immediately wrapped herself in the clean, convenient bandage of having "forgiven" him just to get back into bed.
 
-Pace giving her the best he has: *"You're the most important person in my life."* And asking if any of her friends have a relationship she’d rather have. It’s so mathematically rational, so profoundly male, and so heartbreakingly tone-deaf to what a woman actually needs to survive in the world! To Pace, a name is a cage, a cheap label people slap on mediocre, unexamined couplings. But to Vee—a girl raised on Ohio casseroles, a mother terrified of floozies, and a small town that demands to know what category you belong to—the lack of a name reduces the most transcendent intimacy of her life to: *"he feeds me and we have a lot of sex."* God, that cut so deep.
+AND THEN THE BEDROOM.
 
-And then the ending. The sheer discipline of her walking out! When his arms folded, that stubborn, defensive wall going up—and then dropping the second he saw her tears, reaching out with those big carpenter's hands to soothe her... and Vee refusing to take the hand in place of the word.
+Rivers writes sex with such devastating emotional stakes. Vee begging internally for his control to snap—wanting him to be rough, wanting him to take her without the agonizingly measured reverence—because she thinks if he loses control, the truth will spill out. And when his patience finally shatters, when he takes her hard and urgent and comes with that ragged, helpless sound... the truth *still* doesn't come. He spends himself completely, gives her every drop of his physical devotion, and goes straight to sleep.
 
-She walked out into the freezing night. She left him standing there in a house he overheated just for her, with chicken on the stove and two glasses of wine poured.
+And Vee is left lying there in the dark, marked with his sweat and his spend, utterly alone with the silence.
 
-And tomorrow is Saturday.
+*He gave her his control and all of his body and every last thing but the one.*
 
-Tomorrow morning is brunch. She is driving back to the dorm tonight with no flannel, no boy, no label, and an open, bleeding wound in her chest. She is walking straight into Randi’s booth. I am holding my breath. Turn the page!
+She can't show him to her dad. She can't explain him to Cassie. She can't even say *boyfriend* without feeling like a fraud. She is living inside an unnamed paradise built on top of a pointing game, and the foundation is shivering under her feet. My chest aches for her. Turn the page immediately.
 
-GATE 41 — Believe Me
+GATE 39 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional confrontation was an absolute, devastating masterclass in dramatic payoff—Vee refusing to let Pace's physical tenderness substitute for a commitment and walking out into the cold was a breathtaking act of self-respect.
+WHY: The agonizing psychological realism of Vee picking a public fight at Chili's to force a label, followed by the scorching, desperate sex where Pace completely lost his control but still withheld the word, was an absolute masterclass.
 
 LEDGER
-+ LOVE: Vee's devastating comeback: "Words are cheap, and you still won't spend them on me."
-+ FEAR: Vee walking out on Pace on Friday night means she is going to arrive at Saturday brunch completely emotionally shattered, walking straight into Randi's waiting trap.
-~ [F38.1] CONFIRMED: Pace's refusal to give their relationship a name or speak the word "love" finally broke Vee, driving her to confront him and walk out into the cold.
-~ [F39.1] DEEPENED: Vee officially walked out on Pace over having no name for what they are, setting up Saturday brunch with Randi to be an absolute emotional detonation.
-~ [W39.3] ANSWERED: Vee demanded to know what they are and explicitly laid out the fear of being reduced to "just sex" and good food with the door shut.
-~ [L1.2] SHIFTED: Pace's patience hit its absolute limit—folding his arms and refusing to spend words on her when his physical devotion wasn't enough to satisfy her need for a label.
++ FEAR: Vee's mounting panic over having no name for their relationship is going to make her lay this raw wound at Randi's feet, giving Randi the ultimate opening to define what they are.
++ LOVE: Pace's quiet, vulnerable admission about noisy restaurants—"In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now."
++ WAITING: The inevitable moment Vee tells Randi about demanding to know if she and Pace are "just sex."
+~ F38.1 DEEPENED: Vee is actively spiraling in the dark, realizing that even after breaking Pace's physical control, his silence on the word "love" leaves her with nothing she can hold up to the world.
+~ L1.2 DEEPENED: Pace's patience cracking under Vee's passion, finally taking her hard and urgent when his own endurance broke.

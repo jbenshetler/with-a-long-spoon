@@ -1,31 +1,32 @@
-*capture-dag-v3-grounded · gate ch029 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed d520c15208fd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch029 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed ff413696d66a · 2026-11-06*
 
 REACTION
 
-Oh, this one is fun, and it's the first time Vee has had the upper hand in a scene. She texts first. She laughs at him through the window. The air guitar to "Thunderstruck" is the most human thing Pace has done on the page, and I loved catching him unguarded. Then the chase, the shorts waved like a flag, the flash. Vee being quick and brave and silly in a house that used to make her careful is a real turn. She's playing now, not performing.
+Okay, the apology scene gave me what I hoped for, then took it somewhere I didn't expect. The heels make her taller than him, he says "I'm not going to insult the loan by complaining I have to look up," and she goes red. It's funny and a little dangerous, and it's the first time Randi's staging has actually backfired on her. "But what happened?" is the best line in the chapter. Pace refuses to let a clean apology stand in for the real one. She had built the machine so she'd never have to say the why, and he asks for the why. "Thank you for saying it out loud" made me ache. I should add that Randi's script ("go in sure") nearly cost her the whole scene, and the honest stumble is what saved it. That's a small, quiet defeat for Randi.
 
-The heat is good, and I was with it. The bet is smart, because it lets her say yes without ever saying yes. The wetness being her old shame, and him looking at it like it's true and fine, is exactly the emotional intelligence I came for. "Slow. For me." and the juice and "wonderful" got me too. The scrunchies are lovely, a plain statement that he plans to be around.
+Then the kitchen. The soaking argument is charming, and the tickle fight and the swat on his backside make a real, playful couple, which I'm not sure the book has shown me before. The accidental smack lands and her whole body answers, and the book gets this exactly: she has no name for it and no joke for it, and she covers it by talking nonstop. The sex that follows is hot because she's hiding and the hiding is the fuel. "Please," then "This?", then the hand just resting there. He saw it. She knows he saw it. Neither names it. Hot, and psychologically right. And I clocked the bench, still under the table in the next room. Randi was circling it Friday. Vee just arrived at the same hunger by accident, in a kitchen. Randi's staging and Vee's own appetite are now running on separate tracks, and I love that.
 
-But I'm uneasy, and I think I'm meant to be. Randi's closet story is in Vee's head: "would she have to count out loud?" She expects Randi's version and gets Pace's, which is gentler. So Randi's script is already being measured against the real thing. And "no Randi to be told" is the first time Vee wants a room with no witness. That's the first crack in the Randi pipeline. I didn't expect it and I like it.
+I'm nervous about two things. Vee finds a want in herself that she has no word for, and her mother's "floozie" voice didn't even show up this time, which is either growth or the calm before it. Also, the spanking-as-discovery thing belongs to Randi, and it was the secret she hid from Pace. Now Vee has the same wire, and Vee doesn't hide it well. I can't tell whether this brings Randi closer to Vee or makes her unbearably jealous.
 
-Small grudges. The long middle with her denying "I don't enjoy it" runs a bit repetitive. The "Shame wants a witness" line explains itself to me. The scar gets another glance and still no story. And the title promises someone finds out something, but nobody does yet. The curry ending is soft, so I'm waiting on that.
+The ending is soft. The hair, the bathroom, "You're always beautiful," and that word "always" is exactly what Randi flinches at. Pace gave Vee the thing Randi can't take. Oof. The Monday stretch is a little long after the peak.
 
-No Randi head, eleven chapters now. I'm resigned and still hungry.
+Still no Randi head. Ten chapters now? I'm furious in the nice way.
 
-GATE 29 — We Find Out
+GATE 26 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere" (the book explaining its own subtext)
-WHY: The play, the bet and Vee saying yes by saying "we find out" are hot and psychologically exact. Pace caught unguarded is a gift, and the "no Randi to be told" slip tells me the pipeline is cracking.
+ALMOST-STOPPED: "She had washed her face with his soap and her hair with his shampoo, and by the afternoon she'd realized she smelled of him head to foot" (the Sunday-Monday summary after the peak)
+WHY: "But what happened?" and the accidental swat that her whole body answers are both exactly right, hot and exact at once. Vee finding Randi's secret hunger by accident, and Pace saying "always beautiful," sets up a collision I can feel coming.
 
 LEDGER
-+ LOVE: Pace's air guitar to "Thunderstruck," seen through the window, the first time he's been unguarded on the page.
-+ LOVE: "Slow. For me." and the juice, "wonderful," and the stacks of green scrunchies, the care that says he plans to stay.
-+ SUSPICION: "No Randi to be told" means Vee is starting to want one thing that's only hers and Pace's, and Randi will feel it.
-+ WAITING: Whatever "We Find Out" means, whether it's Randi learning about the bench or Vee learning about the plan.
-~ F28.4 DEEPENED: Vee's want to be looked at and handled is growing, and this time Pace is feeding it, not Randi.
-~ W18.4 DEEPENED: Eleven chapters now without Randi's own head.
-~ S16.3 DEEPENED: Vee touches the scar again and still doesn't ask, and I'm still waiting for the story.
++ LOVE: "But what happened?" and "Thank you for saying it out loud," Pace refusing the clean apology and getting the true one
++ LOVE: The soaking argument and the accidental swat, the first time they've been truly playful together
++ FEAR: Vee found Randi's hidden hunger by accident and Pace saw her face when it hit, so the want Randi hid from him is now in the open with the wrong woman
++ SUSPICION: "You're always beautiful" is the word Randi flinches at, so Pace has given Vee the exact thing Randi can't take
++ SUSPICION: The bench under the table is next, and Vee is about to get there without Randi's staging
+~ F24.1 SHIFTED: Randi's script nearly sank the entrance, and the honest stumble was what worked
+~ W24.5 ANSWERED: Saturday night happened, and Pace answered the heels and the apology with the real question
+~ W25.? none

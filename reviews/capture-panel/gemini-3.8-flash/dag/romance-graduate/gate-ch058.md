@@ -1,53 +1,40 @@
-*capture-dag-v3-grounded · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed 0bd82d11c0df · 2026-11-06*
+*capture-dag-v3-grounded · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 40b8a8549ea9 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch055 · history ch001..ch055 · ledger no seed a9e097af4c5d · 2026-11-06*
 
 REACTION
 
-My jaw is on the floor. I am staring at my Kindle with my heart knocking against my ribs, completely, utterly paralyzed by the psychological genius of what Helen Rivers just pulled off.
+Oh, my heart. My actual, physical heart.
 
-"And you liked it."
-"No."
-*Too fast.*
+I was bracing for impact. I went into this chapter with my fists clenched, entirely prepared for the awful, stomach-dropping terror of Vee walking into a room and having the "Sheri" myth blow up in her face, or seeing some painful, agonizing dynamic that made her feel small. And instead, Helen Rivers gave us *this*. An absolute, unvarnished, hilarious, breathtaking triumph of character work.
 
-OH. MY. GOD.
+First of all, Vee getting dressed: the sheer, ridiculous, tragic comedy of putting on Meg’s gaping keyhole shirt, a micro-skirt lent with a long whistle, and four-inch strappy induction heels for a sleepy January taproom on a Saturday afternoon just to fight a phantom woman her own insecurity built! We have all been that girl. We have all armed ourselves to the teeth in borrowed feathers to go to war against a ghost.
 
-That micro-second across the white tablecloth! The sheer, suffocating tension of that one beat! Vee, completely innocent and giddy, sitting there happily reporting that Sheri didn't rank her or price her out—that Sheri *enjoyed* looking at her body, her bare legs, her induction shoes. And Randi’s thumb—which has been stroking Vee’s hand with that smooth, possessive, hypnotic rhythm—just *stops*. Dead.
+And then she walks in, and Sheri is five-foot-nothing, permed roots, crooked makeup, clutching a longneck, and looking down Vee’s body not with malice, not with ranking, but with open, delighted, jaw-dropped sapphic appreciation! *"And you get to motorboat them things?"* I screamed. I literally barked out a laugh so loud I scared myself. And PACE BLUSHING! The titan of mathematical control, the man who manages every micro-millimeter of a bedroom and commands whole rooms with a glance, rubbing the back of his neck with his ears flaming red! It was the most disarming, ridiculously endearing thing he has ever done.
 
-And Vee completely, tragically misreads it! She thinks Randi is going on defense over *Pace*! "Randi. She's not a threat... She was never a threat." Baby girl, Randi isn't threatened by Sheri wanting Pace! Randi was struck dumb with pure, territorial jealousy because ANOTHER WOMAN LOOKED AT VEE’S BODY AND VEE ENJOYED BEING LOOKED AT BY A WOMAN!
+BUT THEN THE BAR TALK.
 
-Randi has spent four months meticulously, patiently, velvet-glove cultivating Vee's sapphic awakening—the lingering goodbye kisses, the hands on her bare thighs, the foot running up her calf under the tablecloth, the verbal edging in the practice room—and suddenly some five-foot butch in a country taproom walks in and gets Vee to blush and giggle over being checked out?! And then Randi asking, flat and stripped of all music: *"And you liked it."* And Vee lying—*panicking*—instinctively saying "No" too fast because somewhere deep in her body, Vee *knows* she liked it, and she knows admitting that to Randi opens a door she isn't ready to name!
+God, Rivers knows how to take the wind completely out of you. Sheri telling the story of coming out—her Marine father, her Marine brother, her church, her entire life ripped away like a tablecloth pulled off a set table—and sobbing in the middle of a country two-step. And Pace. Pace driving her home without demanding a single explanation, showing up on her porch with coffee and donuts, fixing her broken lock, stopping her dripping faucet, buying her a bacon cheeseburger, and simply *being there*. No cheap, hollow words. No "they'll come around." Just presence.
 
-AND THEN THE WAXING.
+And the knife: *"He hasn't been home since he was sixteen."*
 
-*Sweet mother of god.*
+Every single piece of Peter Pace clicked into place. The sixteen. The college dorms. Daphne. The parents who packed him off at fifteen because of a test score and closed the door behind him. The reason he builds furniture with his bare hands. The reason he checks on women, why he stands his headlights on a dark porch until the inside light clicks on, why he folds himself down into a bottom drawer to make room for Vee’s sprawl, why he refuses to spend empty words when actions are the only currency that doesn't lie. He doesn't just "take care" of people as a dominance kink; he does it because he knows what it feels like to be completely abandoned to the cold, and he refuses to let anyone inside his orbit freeze.
 
-Pace asked her to get waxed. "All of it. Bare."
+Watching Vee sit in that truck cab, pleasantly drunk on cider, resting her heavy head on his shoulder and looking at his hands steady on the wheel at ten and two—understanding that he carries her *like something full he has no intention of spilling*—wrecked me. It utterly wrecked me.
 
-My brain just short-circuited. Pace—who built the furniture, who manages the heat, who touches her like she's holy—plainly asking her to take every scrap of hair off her body. And who does Vee go to for salon advice? RANDI.
+She loves him so deeply. And he loves her with every fiber of his being. Which makes the ticking clock of the Randi-shaped bomb under the floorboards feel ten thousand times more agonizing. Every chapter where they become more real, more tender, and more profoundly bonded makes the inevitable truth of October feel like a fatal blow waiting to drop. But tonight? Tonight was pure, earned, gorgeous warmth.
 
-"Don't let anybody but Sondra touch you... say my name in the first sentence."
-
-DO YOU REALIZE WHAT PACE AND RANDI ARE DOING?!
-
-Pace and Randi were in bed together *five days ago*. Randi was straddling him, whispering about wanting Vee's breast in her hand and Vee's nipple in her mouth, and Pace lost his mind and came so hard he shook. And now Pace asks Vee to get a full Brazilian wax for Friday, and Randi is the one booking her with *her* personal aesthetician?!
-
-Randi knows *exactly* what a woman looks like when Sondra is done with her. Randi is probably bare herself! And Vee is going to show up to Pace's house on Friday night completely bare, feeling "like the most expensive thing in the room," totally unaware that she is being prepared, polished, and smoothed down like an offering for *both* of them.
-
-And that goodbye kiss on the sidewalk! Vee didn't just accept it—Vee turned her face up with her eyes ALREADY CLOSED, waiting for Randi's hand on her jaw. And Randi didn't just do the double press; she opened her mouth against Vee's and *stayed there*. And Vee's mouth going straight to the hollow of Randi's neck in the hug like it lives there now!
-
-Friday is coming. The wax is Friday. I am sweating, I am shaking, and I need chapter 59 right this second.
-
-GATE 58 — Between
+GATE 56 — Another Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The agonizing psychological brilliance of Randi freezing when Vee admitted she enjoyed a woman checking her out, paired with Pace ordering the full wax and Randi sending Vee to her personal aesthetician, is masterclass tension.
+WHY: The hilarious relief of Sheri completely deflating Vee's jealousy, paired with the devastating reveal of Pace fixing Sheri's lock and being estranged from his own father since sixteen, was an absolute masterclass in character depth and profound romance.
 
 LEDGER
-+ LOVE: Randi's thumb freezing mid-stroke on Vee's hand when Vee confessed that Sheri enjoyed looking at her—pure, territorial sapphic jealousy masked as protection.
-+ SUSPICION: Pace asking Vee to get completely waxed bare is coordinated with Randi, preparing Vee's body for their mutual bed.
-+ FEAR: Vee getting waxed bare by Randi's personal aesthetician is going to strip away the final physical barrier between her, Pace, and Randi.
-~ [F17.2] DEEPENED: Vee closing her eyes and turning her face up to wait for Randi's hand and mouth on the sidewalk proves their physical romance is now completely instinctual.
-~ [S55.3] DEEPENED: Pace ordering the full wax and Randi eagerly directing Vee to Sondra confirms they are actively grooming Vee for their shared bed.
++ LOVE: Sheri—loud, hilarious, five feet of uncalibrated truth who takes one look at Vee's keyhole top and asks Pace if he gets to motorboat them.
++ LOVE: Pace blushing to his ears—the unshakeable powerlifter completely undone by Sheri calling out his bedroom luck in broad daylight.
+~ S13.2 CONFIRMED: Pace hasn't been home since he was sixteen after it "went bad with his daddy," confirming his complete family estrangement and why he builds his own home from scratch.
+~ S16.2 DEEPENED: The sixteen-year-old break from his family cements that his inner thigh scar and isolation are directly tied to that immediate post-home period in the dorms with Daphne.
+~ F44 DEEPENED: Learning how profoundly steady and protective Pace is with the people he loves makes the eventual revelation of the pointing game infinitely more devastating for Vee.
++ LOVE: Pace standing the truck headlights on Sheri's porch until her light clicks on—the quiet, unadvertised ballast of a man who lets no one freeze.

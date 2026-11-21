@@ -1,27 +1,28 @@
-*capture-dag-v3-grounded · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 9ff90468bbcb · 2026-11-06*
+*capture-dag-v3-grounded · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed 88472f42e9b2 · 2026-11-06*
 
 REACTION
 
-It's a friends-at-brunch bridge, and it's warm and funny. Kayla at the locked dining hall doors is a gift. But it's the third quiet chapter in a row, and I'm counting.
+This is a bridge chapter, and a short one, and I liked it more than I expected. After the big explicit run of 46 and 47, two people in a kitchen talking is the kind of scene I'll happily take.
 
-What I noticed is that Vee edits again, now for a third audience. For Cassie the doorstep became a laundry accident. For Kayla and Meg it's "I flashed him on his front porch," a good story with the real story sanded off. She never had to say a word about the drive, the mirror, or the cruiser. Meg's maple-bacon apology gets her a laugh and a "big apology" verdict, and Vee just takes it. Every friend now holds a different cut of that weekend, and only I have the whole thing. I like that tension, but I'm waiting for the first friend who won't take the cut.
+What works is Vee noticing that Pace kept everything. The boots that were Meg's, the heel lifting out of the right one, "talk the paint off a wall" handed back to her in his voice. It's the best evidence yet that his love goes into the doing and the remembering, not into words. And "I want to meet your people" is the first time he has put her in his out-there world on his own. That is the answer to her December speech, given sideways and without being asked, and I felt it land.
 
-The dread is the new part. She tells them flatly: "Wednesday night. He's taking us all to dinner. Everybody. Randi." Pace and Randi at one table, with the salt-edge question hanging unspoken, is the collision I've been promised. Vee being proud of "he's handling it" is the sweetest, most ironic line in the chapter. He's handling it more than she knows.
+Then my dread kicks in, because I know what she doesn't. Her first thought is Randi, the dinner of three. She is about to put the woman who knows his body next to him at a table. Sheri's line about the redhead and the brunette also hangs over this. The Chili's memory surfacing and "Let me handle it" are tender, because he's quietly fixing the problem from the loud restaurant. He is also choosing the place so he can hear her, which is lovely. He has taken the noise thing seriously.
 
-I'm tired of the price-card habit, though. She reads the right side again, then spends "without arithmetic." It's the book telling me she's grown. The scene holds no heat and no turn. Wednesday had better pay all this off.
+What bothers me: it's thin. Nothing here follows up the taste thing from 47, so the thread I was waiting on just sat there. "Bring Theo" is a nice little tell that he isn't jealous, but no heat and no real turn. The group-party idea reads as a setup for a collision, and I want that collision now.
 
-GATE 50 — Across
+GATE 48 — Back
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 9
 HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "The menu was a single heavy card. Vee knew what things cost here, and read the right side of hers anyway, out of old habit, and put it down" (a repeat of the price-reading beat)
-WHY: Kayla is funny and the dinner announcement sets up the collision I've been waiting for. But it's a third quiet chapter, and Vee's cleaned-up retelling is the same move I've watched twice already.
+ROMANCE: 3
+ALMOST-STOPPED: "She'd watched somebody be fine about it before. She wasn't going to look at when." (the book nudging the Cassie subtext)
+WHY: Pace remembering Meg's boots and Kayla's line is the love he can't say out loud, and his offer to bring in her people answers her December question sideways. The party sets Randi and Pace at one table with Vee between them, and I can't wait for that.
 
 LEDGER
-+ WAITING: Wednesday's dinner with Pace, Randi, Cassie, Kayla and Meg at one table, and how Randi and Pace hold their faces.
-+ SUSPICION: Pace is choosing the place and the guest list, "Bring Cassie," "Bring Theo," so he may be managing the evening around Randi.
-~ F9.1 DEEPENED: Kayla and Meg now get a third cut of the weekend, so every friend holds a different edit.
-~ G49.3 DEEPENED: Third quiet bridge chapter in a row, with the price-card habit again.
-~ W47.5 SHIFTED: Tuesday's one-on-one with Randi now leads into Wednesday's group dinner, and the taste question still hasn't been asked.
++ LOVE: Pace remembering the boots, "heel came up out of the right one," and Kayla's paint line, all kept.
++ LOVE: "I want to meet your people": the first time he's offered her the world outside the door.
++ WAITING: The big gathering, Pace and Randi in one room with Vee between them, and who picks the quiet place.
++ SUSPICION: Vee's instinct to make it a dinner with Randi will run straight into Pace's knowing Randi better than she can guess.
+~ F47.4 DEEPENED: She hasn't asked about the taste yet, but the plan to bring Randi and Pace together makes the Tuesday confession more dangerous.
+~ S47.3 DEEPENED: Still sitting unspoken, and the chapter's pivot to introducing them makes the salt-edge thread feel like a fuse.

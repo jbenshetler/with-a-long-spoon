@@ -1,36 +1,43 @@
-*capture-dag-v3-grounded · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed e0aa7d73cf0c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 3ca1401592cf · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch019 · history ch001..ch019 · ledger no seed 712713644159 · 2026-11-06*
 
 REACTION
 
-Oh, my god. My stomach is in freefall. I feel like I just watched someone carefully, deliberately lay a hand over a sleeping person’s mouth.
+My chest hurts. I mean that literally—there is a cold, sick ache right under my ribs that has nothing to do with romance tropes and everything to do with how ruthlessly, beautifully true this book is to being young, broke, and desperately wanting to belong.
 
-This chapter was terrifying. Absolutely terrifying. On the surface, it’s all Sade, warm lamps, domestic cooking, and languid afterglow—Pace thinking, *Oh, look, she’s finally relaxing, she’s eating all her food, she’s asking about my Chicago conference, she’s wearing my undershirt.* He thinks they’ve found their groove again after the freeze of Chapter 18.
+That lecture hall scene was a quiet masterpiece. Putting Simpson’s paradox on the chalkboard while Vee sits between Cassie and Randi? Pure genius. *“Put the two years together and the second man is. Same numbers. Nobody touched one of them.”* Helen Rivers is waving a giant red flag in our faces about perception versus reality, and poor Vee is just sitting there floating on the cloud of her sore thighs and over-kissed mouth.
 
-He has no idea. None.
+And seeing the two women flank her! Cassie doesn’t give a single damn about a silk gown—Cassie just looked at Vee’s face, asked if it was a good night, saw that her friend was safe and radiant, and quietly picked her highlighter back up. Cassie loves Vee for Vee. But Randi? Randi looks at Vee and sees a project, an obsession, an erotic mirror, and a weapon.
 
-Randi isn’t relaxed—she has completely surrendered to the madness, and she’s running a masterclass in psychological survival. Did you hear her voice when she talked about Vee? *"She got past me before I could help it."* That wasn't just foreplay. That was Randi confessing, out loud on his chest, that she has fallen completely, utterly, helplessly in love with Vivienne Thorne. *"I keep waiting to get bored of her... and it doesn't come."* For a girl who lives on emotional starvation and disposable people, that is a fatal admission.
+When they went to the dorm and Vee put the gown on... god, Randi touching the silk at the hip, tracing the bias up to her bare shoulder. *“He didn't make this for you. He made it to you.”* Randi knows *exactly* how Pace works. She was diagnosing her lover’s handiwork on another woman’s body, feeling the exact shape of Pace’s devotion to Vee, and choking on it. And Vee, so pure and naive, thought Randi’s distant look was jealousy of *him*—wishing someone would sit up all night for her! The tragic irony is suffocating.
 
-And then watching Pace completely weaponize Vee’s radiance without even realizing the cruelty of what he was doing! When he said: *"She comes in and the whole thing goes brighter. Like somebody found the lamp... she's the most alive person standing there."*
+Then the shoe shopping. That second half destroyed me.
 
-I felt that in my chest like a knife. Randi’s entire body went completely rigid under him. *"Not the loose stillness of after. A different one, the kind that takes holding."* Because Randi knows—she knows she is the porcelain doll, the unalive, curated, starved thing, and Vee is the sun. And what does Randi do with that devastating blow? She doesn't scream, she doesn't fight. She swallows the razor blade, puts a slow smile on her face, grinds her hips down, and rides him until neither of them can think. She converts the agony of being eclipsed into pure, adrenaline-fueled sexual performance so he won't see her bleed.
+First, the hilarity of TJ Maxx—the yeti shoe, the rhinestones, the clearance-wall flapping sole—it was so funny, so warm, so completely grounded in real female friendship. You can feel why Vee is falling in love with Randi. Randi gives her permission to be funny, to be seen, to be magnificent. *“We can share. God help us both, it's practically a marriage.”*
 
-And then the kitchen. God, the kitchen made my throat tight. Taking his undershirt from the second drawer. Sitting with her knees pulled up. Asking him to cook for her. Letting him pour her wine. Eating *every single bite* on that plate.
-She didn't do that because she was hungry. She did that because she watched Vee have that exact domestic grace with him, and Randi is desperately trying to see if she can fit inside that shape too. She’s trying to earn the right to be loved the way Pace loves Vee. *"I'm going to let you feed me first."*
+And then Randi dropping to her knees in the boutique.
+Taking off Vee's shoe.
+Holding Vee's bare foot in both hands, rubbing her thumb over the frosted plum nail polish.
+*Holy shit.* The erotic charge in that moment was so thick you could have sliced it. Randi knows Vee painted those toes for Pace, and now Randi has them in her own hands, kneeling at her feet in an expensive store, smiling up at her. It mirrors Pace on his knees with the measuring tape so intensely it gave me full-body chills.
 
-And all the while, Pace is lying there having dual-track fantasies of the two women tangled together on his mattress, completely blind to the fact that Randi’s heart is breaking in slow motion and that Vee is out there thinking she’s in a private fairy tale. They are both in love with Vee now. Truly, genuinely, desperately in love with her. And when Vee realizes she’s the axis this entire sick, beautiful house is spinning on, it’s going to shatter all three of them.
+And the credit card. God, the credit card broke my heart into pieces. Every woman who grew up counting pennies, doing the mental math in the grocery aisle, knows the absolute terror of putting the emergency card on the counter because you refuse to admit you don't belong in the room. Randi dropping several grand on loafers without blinking, while Vee maxes out a card that will haunt her for six months just so she doesn't "flinch."
 
-GATE 21 — Gone
+Vee clutching that box to her chest like it was a baby or a bomb... and walking down the sidewalk thinking she has never had a friend like this.
+
+She hasn't. But she also doesn't know she's being systematically prepped for an emotional firing squad.
+
+GATE 20 — Sorority
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer psychological horror of Randi masking her heartbreak by mimicking Vee's domesticity—eating all her food and riding Pace to drown out his praise of Vee—was absolute genius.
+WHY: The agonizing contrast between Cassie's pure friendship and Randi kneeling at Vee's feet in the boutique—coupled with Vee putting the shoes on her emergency credit card—was devastatingly good.
 
 LEDGER
-+ LOVE: Randi's raw, helpless confession on Pace's chest that Vee got past her defenses before she could help it.
-+ FEAR: Randi is forcing herself to perform softness and domesticity (eating the food, wearing the undershirt) to compete with the ghost of Vee in Pace's kitchen.
-~ [F5.2] DEEPENED: Randi's jealousy has turned into a quiet, suffocating agony—freezing solid when Pace described how Vee lights up a room.
-~ [S1.3] SHIFTED: Randi's game has entirely consumed her; she isn't just deflecting Pace anymore, she is genuinely in love with Vee and terrified of being eclipsed.
-~ [G18.2] DEEPENED: Pace remaining utterly oblivious to Randi's quiet fracture, mistaking her panic-fueled compliance for domestic contentment.
++ LOVE: Cassie's quiet, unconditional love—not caring about the dress at all, only needing to know if Vee had a good night.
++ FEAR: The debt on that emergency credit card is going to make the eventual fallout of the pointing game financially and emotionally ruinous for Vee.
++ LOVE: Randi kneeling at Vee's feet in the boutique to slide the shoe on, stroking the frosted plum polish on her toe.
+~ [F1.1] DEEPENED: Randi is weaving herself so deeply into Vee's life, wardrobe, and self-worth that Vee won't be able to separate herself when the trap snaps shut.
+~ [F5.1] DEEPENED: Vee is so completely consumed by Pace and Randi that she just put herself into serious credit debt to honor Pace's dress.
+~ [F17.2] DEEPENED: Randi kneeling to touch Vee's bare foot and stroked her toe; the physical, sensual intimacy between them is completely normalizing.

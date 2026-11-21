@@ -1,34 +1,28 @@
-*capture-dag-v3-grounded · gate ch058 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed b134d5518784 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch058 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 40b8a8549ea9 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch055 · history ch001..ch055 · ledger no seed 5503d68d7abd · 2026-11-06*
 
 REACTION
 
-The dread is paying off, and this chapter is mostly one small thing: a thumb stopping.
+The chapter does something I didn't expect: it takes the blonde I've been dreading since Christmas and kills her in one look. Sheri walks in five feet tall, two-toned hair, crooked makeup, and Vee laughs out loud in the middle of the taproom. It's a real release for me too. I'd braced for the rival and got a friend. And Sheri looking Vee over like she's enjoying her, with that slow "oh," is a charge I didn't see coming. Vee has been fluent in women's pricing looks since high school, and this one doesn't price her at all.
 
-Vee tells Randi about Sheri, and she tells it well. The ghost blonde doesn't exist, and she's giddy about it. Randi gets to be right, and she sits there "having it." Vee spends everything she has, and Randi improves each piece and hands it back. It's the usual warm brunch machinery.
+Pace blushing is the best new detail. A man I've watched do everything with composure goes red to the ears at "motorboat." Sheri's story about the dance hall, and him showing up on her porch with donuts and fixing the lock, is the love-in-the-doing thing again, with a witness this time. "He hasn't been home since he was sixteen" is a small, hard fact. I love that Vee sits there and the thing moves through her chest, slow and enormous.
 
-Then "She was enjoying herself." Randi's thumb stops on Vee's hand. "Huh." "And you liked it." Flat, with no music in it. That's the whole chapter. Vee blurts "No. Not my thing," too fast. She reads Randi's stillness as guard duty, which is exactly the wrong reading. I read it as Randi hearing that another woman looked at Vee like that and enjoyed her, and feeling something. It could be jealousy, or it could be want, or it could be a flicker of "she answered too fast." Vee flinches from the word *liked*, and so does the book. Her fast "No" is the first crack in her story. I liked it a lot.
+But I'm the one holding the dread. I know Sheri saw Randi in December and knows the triangle. Her "the redhead" line and "bet those legs feel like Christmas" make me watch her like a hawk. Will she say something? She sizes things up too well. She said she'd tell Vee "the rest another time" about why he's like that, and I'm marking that.
 
-The wax is the shock. Pace asks for her bare, Vee brings it to Randi as good news, and Randi sends her to Sondra with a glass of something first. It's the pipeline again, running in the open. I don't know whether Pace's ask was his or whether Randi has been feeding it through him, but the way Randi is arranging Friday morning down to "say my name in the first sentence" unsettles me. It's tender and managing at once, and Vee takes it as friendship.
+It's also a quiet chapter. No heat, aside from Sheri's look and the truck ride. Four in a row without a real turn, if I'm counting, though ch55 was hot. Meanwhile the taste thread got left alone, and Randi isn't here. The dressing-up and the room inventory ran long. But Vee's fear collapsing is a payoff I wanted, and Valentine's dance is queued.
 
-The kiss gets more. "Opening the kiss," more of it, and it stays. Vee's mouth goes to her neck in passing and nobody mentions it. She's not looking over her shoulder, and she no longer brackets any of it as a goodbye. She also still hasn't told the taste story's other half, and I'm watching that.
-
-Complaints: Vee spends the chapter reciting Sheri again, and I've heard it. It's a short, lower-heat chapter. But the thumb earned it.
-
-GATE 58 — Between
+GATE 56 — Another Round
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Then the other part came up in her, and she went slower with it, because it wasn't hers to spend." (Sheri's story retold a third time)
-WHY: Randi's thumb stopping at "she was enjoying herself," then "And you liked it," and Vee's too-fast "No," is the best crack in a while. The wax appointment and the deepening kiss show the pipeline running out in the open.
+ALMOST-STOPPED: "She dressed for the woman her jealousy had built, and she knew it while she was doing it, and she did it anyway." (the long dress-up and room-inventory run)
+WHY: The blonde dying on the spot and Sheri's slow appreciative look are a lovely reversal, and Pace blushing is a gift. It's a soft chapter though, and I'm watching Sheri because she knows what Vee doesn't.
 
 LEDGER
-+ SUSPICION: Randi's stalled thumb and flat "And you liked it" is jealousy or want. Vee read it as guard duty.
-+ SUSPICION: The wax is Randi's arranging, directly or through Pace, and Vee carries it to her as good news.
-+ WAITING: Friday's wax with Sondra, and who sees the result first.
-+ WAITING: Valentine's dance, with Sheri, Pace and Vee.
-~ S56.3 SHIFTED: Sheri gave Vee warmth and her own story; Vee used the giddy version with Randi and nothing dangerous came out.
-~ S57.3 SHIFTED: Vee still reads Sheri as safe, and Randi's reaction to the "gay" detail was stillness, not relief.
-~ W57.4 ANSWERED: Tuesday happened; Randi went still at Sheri's look at Vee.
-~ F31.4 DEEPENED: Vee's answer to being desired by a woman was a too-fast "No."
++ LOVE: Pace blushing to the ears at "motorboat," and Sheri's dance-hall hug and her porch-with-donuts story.
++ LOVE: Vee laughing out loud as the invented blonde fails to exist.
++ SUSPICION: Sheri knows about Randi and the triangle, and "the rest another time" means she'll tell Vee something soon.
++ WAITING: Valentine's Saturday at the hall, with Sheri, Pace and Vee, and whatever Sheri says next.
+~ S33.3 DEEPENED: "He hasn't been home since he was sixteen" gives the family wound another hard fact.
+~ F9.1 DEEPENED: Vee's newest friend is Pace's, and Cassie's room doesn't appear at all.

@@ -1,32 +1,37 @@
-*capture-dag-v3-grounded · gate ch026 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed ff413696d66a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch026 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed bb3d150a3fb8 · 2026-11-06*
 
 REACTION
 
-Okay, the apology scene gave me what I hoped for, then took it somewhere I didn't expect. The heels make her taller than him, he says "I'm not going to insult the loan by complaining I have to look up," and she goes red. It's funny and a little dangerous, and it's the first time Randi's staging has actually backfired on her. "But what happened?" is the best line in the chapter. Pace refuses to let a clean apology stand in for the real one. She had built the machine so she'd never have to say the why, and he asks for the why. "Thank you for saying it out loud" made me ache. I should add that Randi's script ("go in sure") nearly cost her the whole scene, and the honest stumble is what saved it. That's a small, quiet defeat for Randi.
+Oh, this is a pivot, and I didn't see it coming. After a run of chapters where Vee is dazzled and I'm the one holding the dread, she finally swings at something. And she swings at the wrong thing, for the right reasons.
 
-Then the kitchen. The soaking argument is charming, and the tickle fight and the swat on his backside make a real, playful couple, which I'm not sure the book has shown me before. The accidental smack lands and her whole body answers, and the book gets this exactly: she has no name for it and no joke for it, and she covers it by talking nonstop. The sex that follows is hot because she's hiding and the hiding is the fuel. "Please," then "This?", then the hand just resting there. He saw it. She knows he saw it. Neither names it. Hot, and psychologically right. And I clocked the bench, still under the table in the next room. Randi was circling it Friday. Vee just arrived at the same hunger by accident, in a kitchen. Randi's staging and Vee's own appetite are now running on separate tracks, and I love that.
+The dance lesson is the best thing in it. "You have a job here. Give me something to push back against." The pad under the field lights, the lead arriving through his hand before her feet know it, "There it is." That's the book's whole thesis, and it's charged without anyone taking a stitch off. Then I loved the floor scene, where she can't find the join between Pace and the Pace she's built out of wanting him. That's her sharpest self-awareness yet.
 
-I'm nervous about two things. Vee finds a want in herself that she has no word for, and her mother's "floozie" voice didn't even show up this time, which is either growth or the calm before it. Also, the spanking-as-discovery thing belongs to Randi, and it was the secret she hid from Pace. Now Vee has the same wire, and Vee doesn't hide it well. I can't tell whether this brings Randi closer to Vee or makes her unbearably jealous.
+The blonde is a gift. Vee takes the bait and I watch it land. I also half-suspect the book is playing with me. Is she a plant? Randi's friend? A real ex? The "wasn't him they were jealous of, honey" line from the bartender answers the doubt: Pace is a rule, not a collection. That makes Vee's venom worse, because I know she's wrong, and she half knows too. And "Yes. Sometimes. When it's required." is an honest man giving an answer too true to survive being thrown at.
 
-The ending is soft. The hair, the bathroom, "You're always beautiful," and that word "always" is exactly what Randi flinches at. Pace gave Vee the thing Randi can't take. Oof. The Monday stretch is a little long after the peak.
+"Slut" and "floozies" are her mother's words in her own mouth now. That's the real injury. She doesn't punish him for the blonde, she punishes herself for being "just next."
 
-Still no Randi head. Ten chapters now? I'm furious in the nice way.
+Cassie three feet away, and Vee not waking her, hurts. The washed shirt that smells of "no one" is a lovely small ache.
 
-GATE 26 — A Recognized Method
+Then the ending: she's going to Randi. Of course she is. The dread is huge, because Randi is the one person who can't clean this up honestly. Also, Pace walking out and leaving the beer untouched mirrors Randi's uneaten bowl. I notice that.
+
+Heat is low, but the dance has a pulse. Still no Randi head, and I'm starving for it.
+
+GATE 23 — Lesson
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 8
+NEXT: 10
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: "She had washed her face with his soap and her hair with his shampoo, and by the afternoon she'd realized she smelled of him head to foot" (the Sunday-Monday summary after the peak)
-WHY: "But what happened?" and the accidental swat that her whole body answers are both exactly right, hot and exact at once. Vee finding Randi's secret hunger by accident, and Pace saying "always beautiful," sets up a collision I can feel coming.
+ALMOST-STOPPED: "Dana on Third has ropers. She's your size, close enough — dance girls trade, everybody's danced in everybody's boots." (the dressing-up logistics, brief)
+WHY: The dance lesson works as both charge and theme, and Vee finally breaks something herself, which makes the fight real. Her going to Randi in the morning is exactly the dread I read for.
 
 LEDGER
-+ LOVE: "But what happened?" and "Thank you for saying it out loud," Pace refusing the clean apology and getting the true one
-+ LOVE: The soaking argument and the accidental swat, the first time they've been truly playful together
-+ FEAR: Vee found Randi's hidden hunger by accident and Pace saw her face when it hit, so the want Randi hid from him is now in the open with the wrong woman
-+ SUSPICION: "You're always beautiful" is the word Randi flinches at, so Pace has given Vee the exact thing Randi can't take
-+ SUSPICION: The bench under the table is next, and Vee is about to get there without Randi's staging
-~ F24.1 SHIFTED: Randi's script nearly sank the entrance, and the honest stumble was what worked
-~ W24.5 ANSWERED: Saturday night happened, and Pace answered the heels and the apology with the real question
-~ W25.? none
++ LOVE: The pad under the field lights, "You have a job here," and the moment the lead becomes readable and she stops guessing.
++ LOVE: The shirt that came back from the wash smelling of fabric softener and no one.
++ FEAR: Vee runs to Randi to fix this, and Randi can't give honest comfort without handing Vee the exact doubt that blows the plan open.
++ SUSPICION: The blonde with the "all us girls love him" line may be a plant, or just a jealous regular. The bartender's account says the second.
++ GRUDGE: Vee's mother's words (slut, floozies) now come out of Vee's own mouth, and I want the book to make her pay for that less than she'll pay herself.
++ WAITING: Pace's side of the fight, and what he does with it after walking out.
+~ F22.4 DEEPENED: Vee's "I'm just next" doubt shows how the staged meeting will hit her when she learns it.
+~ F9.1 DEEPENED: She doesn't wake Cassie and goes to Randi in the morning instead.
+~ W20.4 DEEPENED: Still no Randi head, six chapters now, and she's about to be needed.

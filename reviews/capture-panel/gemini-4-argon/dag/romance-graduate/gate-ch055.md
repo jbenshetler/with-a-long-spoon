@@ -1,84 +1,62 @@
-*capture-dag-v3-grounded · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 53dcf43805c3 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch054 · history ch001..ch054 · ledger no seed 8c6636d97724 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch055 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1e2c20a7eee0 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch052 · history ch001..ch052 · ledger no seed 415d3f77386a · 2026-11-06*
 
 REACTION
 
-HOLD EVERYTHING. Look at the date stamp at the top of this chapter:
-*Thursday, January 21.*
-It is the EXACT SAME NIGHT as Chapter 53 and Chapter 54!
-Right after Randi walked Vee out of the restaurant at ten o'clock, after Vee kissed the hollow of Randi's neck on the freezing sidewalk and made Randi's whole body catch and rise into her mouth—while Vee was walking back to her dorm to bake her room into a hothouse and stop one breath's width short of tasting her own wet fingers—Randi picked up her phone for the first time since November 17, called Pace late, and drove straight out to his house!
+OH MY GOD. This chapter is surgical. Every single beat from the opening paragraph in Vee's closet all the way down to that six-minute walk into the wind had my skin prickling!
 
-And oh my god, the mirroring between Chapter 54 (*The Reach*) and Chapter 55 (*My Pleasure*) had me clutching my chest and fanning myself at the same time. Look at the opening beat:
-In Chapter 53, Randi looked Vee dead in the eye across the white tablecloth and said she liked tasting herself on a mouth ("It was powerful. It turned me on"). In Chapter 54, Vee lay in her dorm bed wondering: *Had she meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth?*
-AND IN THE FIRST TWO PAGES OF CHAPTER 55, RANDI DOES BOTH!
-First, Pace brings her off with his mouth, lifts his head with his mouth and chin wet from her, and she pulls him up by the neck, opens her mouth without a second's hesitation, and tastes herself from his tongue ("with a low sound that went straight through his chest") before licking his lower lip clean!
-AND THEN she wipes the wet from the corner of his mouth with her thumb and *puts her thumb between her own lips*:
-*"There," she said. "Now it's mutual."*
-At the exact hour Vee is lying in her dorm bed unable to close that last breath's width between her wet fingers and her tongue, Randi is in Pace's bed doing the exact two things Vee just imagined her doing!
+First of all, look at Vee getting ready for Thursday night Anthropology:
+*"she stood in front of her clothes with the same keyed-up gladness she saved for getting dressed for Pace."*
+She buys a smaller size in a stretchy fine-gauge toffee sweater so it hugs her waist instead oftenting off her breasts, does her makeup in the good light, and skips dinner on purpose so she can come to Randi's table hungry ("hungry in the pleasant, banked way of a woman who knows exactly when and how well she's going to be fed"). And when they get to the loft and Randi puts both hands on Vee's waist through the fine knit and holds her at arm's length to admire her curves ("*Girl.* It's criminal what you've been hiding from the rest of us"), Vee just stands there in Randi's hands beaming with pure physical pleasure!
 
-Wait—and look at how different Randi is when she walks through Pace's door tonight after two months away:
-*"She had come in gingerly, without her usual authority, and stopped just inside, and only then had she reached back and thrown the deadbolt. 'Where have you been?' she whispered. When he opened his mouth to answer, she laid two fingers against it."*
-Remember Chapter 1 and Chapter 6, when Randi ALWAYS threw the deadbolt first thing, automatically, before even looking at him? Tonight she comes in gingerly, forgets the deadbolt until after she stops inside, whispers *"Where have you been?"* (when *she's* the one who vanished for nine weeks!), and puts two fingers over his lips so he can't answer, just looking at him for almost a full minute before rising on her toes to kiss him. Why? Because seeing him at the roadhouse last night—watching him claim Vee six times as *"Vee's boyfriend"* and say *"My weekends weren't the same before you"*—broke whatever quarantine she'd been trying to hold since November and Gstaad!
+And second: DR. MARSH'S SECOND LECTURE! First we got *hau* on Tuesday, and now we get the 5,000-year-old boxwood lice comb and primate social grooming!
+*"A baboon budgets a fifth of its waking life for grooming. One-fifth. The fleas are gone inside ten minutes — the fleas were never the point... Watch who grooms whom in a troop for one week and you can draw the whole politics of it without learning a single call... One-fifth of every waking day, gone from the budget. Nothing is free. Somebody in this room, by spring break, is going to tell me what you spend it on now."*
+HELLO?! What are Vee and Randi spending their one-fifth of every waking day on?! THIS! The brunches, the Tuesday/Thursday loft dinners, the dressing sessions in Randi's bedroom, the shoe buckling, the scarf tying, the hair brushing, the verbal grooming where Randi draws every story out of Vee's body one confession at a time! "The fleas were never the point." And right in the middle of the lecture on cleaner fish and reef economies of trust and cheating, Vee slips a wintergreen Lifesaver into Randi's upturned palm without either of them looking away from the board ("one lecture, one flavor").
 
-And the power play in bed when she rolls him onto his back to take control on top (her classic move from Chapters 11, 18, 25, 35!), and Pace catches her waist and says:
-**"My turn."**
-And lifts her entire weight with his hands spanning her waist, holding her suspended on her knees above him and lowering her onto his cock *one slow inch at a time* (just like Vee made him enter her in slow increments in Chapter 19!) until she gives up her weight and lets him move her! And look at what she says when he's lifting and lowering her with his hands:
-*"God, I love how strong you are... Look at you, using me like your fuck doll."*
-And then, right out of that sweet, performative dirty-talk voice, the mask drops clean off and the real reason she is here tonight spills out into the quiet room:
-**"I miss her during the day. More at night."**
+And then the loft dinner! Look at how Randi works her across the tablecloth tonight:
+1. First, Wednesday night's truck blowjob and highway fingering! Vee tries to give the "clean" version ("My head went to his lap... It was a lot"), and Randi immediately puts a finger down on it: *"Did you take it all? ... Didn't spill a drop?"* Making Vee relive the hot, flat taste of swallowing Pace in the dark cab until Vee's mouth goes dry and her hand shakes on her wine glass! *"You did it, and you can't even say it."* And then making her confess that on the county road, it was *her own hand* holding her soaked thong aside for Pace's fingers while she came loud!
+2. And notice the plates when the braised short rib and polenta arrive—which gives the chapter its title, *A Clean Plate*! Vee devours every scrap on her plate ("polished clean, the fennel gone entire, the rib reduced to its bone, the polenta scraped to the china"), while Randi eats the fennel and a neat half of the meat and *never touches the polenta*. And right as Vee is talking about loving the separate flavors of Pace's Saturday morning mushrooms, Randi giggles and connects Vee's food appetite directly to oral sex: *"No wonder... Your enthusiasm. You do like a flavor. Did you swallow all of it, and wipe your mouth?"*
+3. And watch what happens to Randi when Vee moves from the funny kitchen-sink tease ("Missed a spot") into the bedroom! The second Vee says *"I sat down on that cashmere blanket"* and *"I pointed at what I wanted,"* the bawdy playfulness vanishes from Randi's voice. Why? Because in Chapter 1, Pace knelt and undressed Randi in silence and put her on the bench; with Vee, Vee is sitting naked on Randi's cashmere blanket swirling two fingers to strip Pace out of his apron and pointing to the inside of her wrist where he *parks* his mouth! Look at Randi's hand: *"Her fingernail found the rim of her glass and rode it once, slow, the thin edge singing almost too low to hear, and she drew her hand back into her lap."* And when Vee tries to shrink the oral sex down ("you can fill in the—") after the blood-orange comparison, Randi's voice goes dead level: *"Don't you dare. Don't you fade to firelight and leave me wondering. You just made it smaller. Give me the real one — the harder one."*
 
-I got full-body chills. Look at the conversation they have while he's moving her over him:
-- Pace says: *"She kisses me first now... She looks at you, too."* (Confirming that Pace *did* see Randi and Vee kissing twelve feet away in the roadhouse parking lot last night, and has been watching how Vee looks at Randi!)
-- And Randi confesses what happened on the sidewalk an hour ago: *"She kissed my neck again... I nearly turned around."*
-- And why didn't she turn around? *"She made me laugh. She does it on purpose. She knows exactly when I'm about to ask for more."* (Randi thinks Vee is consciously teasing her and backing away right when Randi is about to cross the line, when Vee doesn't even let herself know what she's doing!)
-- And then when Pace asks *"Where?"* she wanted to put her hand on Vee, Randi spreads her own hand over her own small breast and says:
-**"Here... Her breast in my hand. All that softness. The weight of it."**
-And leans forward to put her nipple in Pace's mouth, pulls it back, and whispers:
-**"And her nipple in my mouth."**
-Before coming hard around him with her own breast still held in her hand as if it's Vee's! And look at what Pace does right when Randi folds over him afterward: *"Pace kissed the inside of her wrist"*—the exact place Vee just told Randi at dinner that Pace "parked" his mouth on Saturday morning!
+AND THEN THE CLIMAX OF THE CHAPTER: THE WET KISS!
+This is what we've been waiting for since Chapter 47 (*Missed a Spot*)—and all the way back to Chapter 3 (*The Pointing Game*), when Pace kissed Randi on the quad walk with her own taste still wet on his mouth right after asking *"Did you want to taste a woman?"*!
+Look at how Vee has been polishing this story for five days as a "thirty-second funny closer," a Victorian farce where she says *"Ugh — gross. That's — no. Wrong"* and expects Randi to laugh and validate her mother's programming ("Who would ever actually *want* something that gross?").
+EXCEPT:
+- Even while telling the setup, the memory of the wet kiss puts the taste of herself back in Vee's mouth in present tense and knocks the comedy bit right out of her hands!
+- Notice what Vee *leaves out* of the story! She stops at "he just wiped his mouth, one pass, like a gentleman, and said 'Okay,' and carried on being magnificent, and that was that." She completely edits out the second half of Chapter 47—where she pulled his mouth back down to kiss him again, *hunted* for the trace of her own taste on his tongue, and came hard around him from the memory of it!
+- And when she asks, *"Who would ever actually want something that gross?"* Randi doesn't laugh. She looks straight into Vee's eyes without a smile and sets the truth down on the white cloth:
+**"I do."**
+**"It was powerful. It turned me on."** (Because Randi literally did it with Pace in Chapter 3, when she kissed him back harder for the taste of herself on his mouth!)
+And the instant Randi says *"It was powerful. It turned me on,"* Vee's body clenches hard right there in the booth! And when Vee protests *"But it's gross"* way too loud, Randi doesn't argue or lecture—she just asks one surgical question that flips Vee's entire frame inside out:
+**"How does he act?"**
+And out of Vee's own mouth, unvetted, comes the truth she's been hiding behind her mother's disgust:
+**"He likes it. Actually — he's enthusiastic."**
+And Randi just says a warm *"Mm"* and drops the subject completely, leaving Vee staring at her scraped-clean plate with the unsettled feeling "that she'd handed the morning over and was still holding it"—and carrying her own sentence (*He likes it. Actually — he's enthusiastic*) all the way home in the wind! Randi didn't tell Vee to like tasting a woman; she let Vee's own mouth testify that Pace loves the taste of her, and that Randi loves tasting herself on a mouth!
 
-AND THEN THE SECOND CLIMAX OF THE SCENE—both emotional and physical:
-When Randi asks why he likes hearing her want Vee, Pace looks up at her and says simply:
-**"She makes me happy."**
-Ouch—Randi's rhythm falters inside his hold, just like in Chapter 21 when he talked about Vee brightening a room! Only this time, when Pace asks *"And you?"*, Randi doesn't retreat or put her armor back on. She closes her eyes, opens them with all the humor stripped from her face, and says:
-**"I want her to know exactly what she does to me."**
-And *that* is what breaks Pace's control and makes him drive up into her and come with both hands locked around her!
+WAIT—AND THE TWO BEATS ON THE SIDEWALK AT THE END!!
+First: Randi casually drops, *"You picked well, you know."*
+And look at the thought that flashes through Vee's head:
+*"only the smallest part of her went to the one word that wasn't quite true — she hadn't picked Pace so much as looked up from her books one afternoon, Randi across the table and Cassie one over, to find him already halfway across the floor at her, the whole thing decided before she'd known there was a thing to decide."*
+HOLD ON! First the window sentence watching Randi's glass turn in Chapter 52, and now Vee's own memory flashing back to the Chapter 5 coffee shop and registering that she *didn't* pick Pace—that he walked across the floor with Randi sitting right across the table, "the whole thing decided before she'd known there was a thing to decide"!! Her subconscious is literally putting the crime scene together piece by piece!
+Second: THE NECK KISS!
+This time it is NOT an accident! Vee is *already looking at Randi's neck* as they go into the goodbye hug, remembering Tuesday's flinch (*don't you dare weaponize that*). And when Randi tips her head and lays open the warm hollow where her neck turns into her shoulder, Vee kisses it on purpose! And look at what Randi's body does under Vee's mouth:
+*"And under her mouth Randi's whole body did a small quick thing, a catch and then a rise, and the rise went on a beat too long —"*
+Before Randi laughs it off as *"Ticklish"* again and pulls her shoulder up! That was NOT ticklishness—that was Randi's breath catching and her whole body rising into Vee's mouth on her neck for a beat too long before her control slammed the door shut!
 
-WAIT A SECOND. Read that post-orgasm exchange again while he's still inside her and she kisses the center of his palm:
-*"You know she loves you, right?"*
-*"She hasn't said it."*
-*"She doesn't have to."*
-*His face softened before he could do anything about it.*
-*Her eyes stayed on the softness in his face.*
-**"She's not the only one in love."**
-*Pace looked at her. He couldn't tell her she was wrong.*
-*Randi gave him no smile and no rescue from the sentence. Her thumb moved once over the center of his palm.*
+Now it's Thursday night heading into the weekend with Pace—and Vee is walking fast into the wind with Randi's *"I do. It was powerful. It turned me on"* and her own *"He likes it. Actually — he's enthusiastic"* echoing in her head! What is Vee going to do in Pace's bed this weekend the next time his mouth comes up wet from between her legs?! I need Chapter 54 immediately!
 
-STOP EVERYTHING. Look at how many things *"She's not the only one in love"* means at the exact same second:
-1. She is telling Pace to his face: *You are in love with Vee too*—and Pace looks at her and cannot tell her she's wrong!
-2. AND she is telling him—without a smile, watching his face soften for Vee—that *Randi herself* is in love! With Vee! (Or with both of them, though in Chapter 42 she already admitted to herself in the Gstaad mirror that she loves Vee!)
-And notice that right earlier, Randi explicitly kept Pace from needing to hear Vee say "I love you" out loud (*"She doesn't have to"*), just like she kept Vee from demanding the words from Pace in Chapter 45!
-
-And then what does Randi do the second she sees Pace's face soften with love for Vee and feels him thicken inside her again?!
-She takes both of his hands off her waist, *places them flat on the mattress beside him*, and takes back command! She angles herself until he slips out of her and their combined wetness spills across his cock and stomach with a thick sound—and then she slides down his body and *licks every drop of their combined mess off his thigh, his stomach, and his cock*, sucking him completely hard again with her bright eyes holding his, before climbing back astride him, licking her lips with theatrical care, and commanding:
-**"I did my part. Now stick that inside me."**
-And kissing him with the salt of *both of them* on her tongue while she sets the stroke and he meets it!
-
-Wait: tomorrow is FRIDAY. Vee is coming out to Pace's house for the weekend tomorrow night! Is Randi spending Thursday night in Pace's bed right before Vee arrives on Friday—and did she leave anything behind, or did she just reset the entire three-way board so that *"I want her to know exactly what she does to me"* is coming next?! I need Chapter 56 right now!
-
-GATE 55 — My Pleasure
+GATE 53 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Realizing this happens on the exact same Thursday night right after Randi leaves Vee on the sidewalk—with Randi tasting herself off Pace's mouth and her own thumb while Vee is failing to do the same in her dorm room, confessing she nearly turned around to take Vee's breast in her hand and nipple in her mouth, dropping the double-edged "She's not the only one in love," and licking their combined mess off his stomach before riding him—made this one of the hottest, most psychologically loaded chapters in the entire book.
+WHY: Every beat of this chapter was electric—Dr. Marsh's social-grooming lecture framing their entire relationship, Randi coaxing out the raw details of the truck blowjob and Saturday morning before dismantling Vee's "gross" performance over the wet kiss with a quiet, unsmiling "I do... It turned me on," Vee's subconscious flashing back to the coffee shop ("the whole thing decided before she'd known there was a thing to decide"), and that deliberate second kiss into the hollow of Randi's neck where Randi's body rises into her mouth for a beat too long.
 
 LEDGER
-+ LOVE: The structural genius of setting Chapter 55 on the exact same Thursday night as Chapter 54—so that at the very hour Vee is stopped a breath's width from tasting her own fingers in her dorm bed wondering if Randi meant a mouth or her own fingers, Randi is in Pace's bed tasting herself off his tongue and licking her own thumb ("Now it's mutual").
-+ LOVE: Randi walking into Pace's house after nine weeks away so unguarded that she stops inside before remembering to throw the deadbolt, whispers "Where have you been?", and lays two fingers over his lips so he can't answer.
-+ LOVE: Randi grabbing her own small breast while Pace lifts her on his cock to confess what she wanted to do after Vee kissed her neck on the sidewalk ("Her breast in my hand. All that softness. The weight of it... And her nipple in my mouth")—and Pace kissing the inside of her wrist afterward just like he did with Vee.
-+ LOVE: The devastating double meaning of Randi kissing the center of Pace's palm, watching his face soften over Vee, and saying without a smile, "She's not the only one in love"—naming both Pace's unspoken love for Vee and her own.
-+ LOVE: Randi placing Pace's hands flat on the mattress after seeing his face soften for Vee, deliberately shifting until their combined wetness spills across his stomach, and licking every drop of them both off his skin before climbing back on top ("I did my part. Now stick that inside me").
-+ FEAR: Randi is back in Pace's bed on Thursday night—less than twenty-four hours before Vee arrives for the weekend on Friday—and she just told Pace flat out, "I want her to know exactly what she does to me."
-~ W53.4 SHIFTED: Before Vee even gets to Pace's house on Friday night, Randi went straight from Thursday dinner with Vee to Pace's bed after nine weeks away—meaning Vee is walking into Pace's house tomorrow night right after Randi has reclaimed her place in it and declared "I want her to know exactly what she does to me."
++ LOVE: Dr. Marsh handing a 5,000-year-old boxwood lice comb into the lecture hall and explaining that baboons spend a fifth of their waking lives grooming ("the fleas were never the point")—while Vee slips a wintergreen Lifesaver into Randi's upturned palm without either of them looking away from the board.
++ LOVE: Randi dismantling Vee's rehearsed Victorian farce about the wet kiss ("Who would ever actually *want* something that gross?") with a quiet, unsmiling "I do... It was powerful. It turned me on" that makes Vee clench right there in the booth, followed by the single Socratic question ("How does he act?") that leaves Vee carrying her own answer home in the wind.
++ LOVE: Vee looking at Randi's neck before the hug even starts, deliberately kissing the warm hollow where neck meets shoulder, and feeling Randi's body catch and rise into her mouth for "a beat too long" before Randi blames it on being ticklish.
+~ S52.6 DEEPENED: A second subconscious crack just opened right alongside last night's turning glass: when Randi tells Vee on the sidewalk "You picked well," a quiet part of Vee's mind flashes back to the Chapter 5 coffee shop—with Randi across the table and Cassie one over—and registers that she didn't pick Pace at all, because "the whole thing [was] decided before she'd known there was a thing to decide."
+~ W47.6 ANSWERED: Vee finally told Randi the Saturday-morning wet-kiss story—carefully editing out how she hunted for her own taste in their second kiss—and Randi completely reframed it by calmly admitting she wants it too ("It turned me on") and getting Vee to admit out loud that Pace is "enthusiastic" about tasting her.
++ WAITING: Friday night and the weekend at Pace's house—to see what Vee does in bed now that Randi's "I do... It turned me on" and her own "Actually — he's enthusiastic" are echoing in her head.
