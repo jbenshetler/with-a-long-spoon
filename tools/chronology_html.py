@@ -56,6 +56,17 @@ def _panel_models() -> frozenset[str]:
 
 PANEL_MODELS = _panel_models()
 
+
+def _capture_models() -> frozenset[str]:
+    # The capture-DAG roster (`[capture].models` + available), from the shared
+    # loader — the same single source of truth `capture_dag.py` enforces.
+    import cold_read_config
+
+    return frozenset(cold_read_config.capture_models(include_available=True))
+
+
+CAPTURE_MODELS = _capture_models()
+
 # --- academic-year framing -------------------------------------------------
 # Story runs ~Aug -> next Aug. We anchor day-0 at Aug 1 of an arbitrary base
 # year so beats sort continuously across the Dec->Jan boundary. The base year
@@ -586,6 +597,55 @@ def scene_review_texts(slug: str, reviews_root, scene_stamp=None, scene_commit=N
             for m, f, stale in _review_files(slug, reviews_root, scene_stamp, scene_commit)]
 
 
+CAPTURE_HEADER_RE = re.compile(r"(?m)^\s*\*capture-.*\*\s*$")
+
+
+def _strip_capture_header(text: str) -> str:
+    """Drop the leading italic metadata line (`*capture-dag-… · 2026-11-06*`) so
+    the embedded gate opens on its first real section (`## Reaction`)."""
+    return CAPTURE_HEADER_RE.sub("", text, count=1).lstrip("\n")
+
+
+def capture_reads(chapter_no, capture_root, scene_stamp=None, scene_commit=None):
+    """[(persona, model, gate_body, stale)] for a chapter's capture-panel gates,
+    sorted by persona then model (both alphabetical) — the author's requested
+    capture > persona > model grouping.
+
+    Gates live at `capture-panel/<model>/dag/<persona>/gate-ch<NNN>.md`, keyed by
+    reading-order chapter number (the same NNN the capture harness numbers by),
+    not by slug. `gate_body` is the file minus its leading italic metadata line.
+    `stale` is flagged by the same git-ancestry test the cold reads use: True
+    when the gate's commit predates the chapter's current prose commit (it rated
+    an earlier draft). Only roster models (`[capture].models` + available) count.
+    """
+    out = []
+    if not chapter_no or capture_root is None or not capture_root.is_dir():
+        return out
+    fname = f"gate-ch{chapter_no:03d}.md"
+    for model_dir in sorted(capture_root.iterdir()):
+        if not model_dir.is_dir() or model_dir.name not in CAPTURE_MODELS:
+            continue
+        dag = model_dir / "dag"
+        if not dag.is_dir():
+            continue
+        for persona_dir in sorted(dag.iterdir()):
+            f = persona_dir / fname
+            if not persona_dir.is_dir() or not f.is_file():
+                continue
+            rel = f"{model_dir.name}/dag/{persona_dir.name}/{fname}"
+            fresh = None
+            if scene_commit:
+                fresh = git_is_ancestor(capture_root, scene_commit,
+                                        git_last_commit(capture_root, rel))
+            if fresh is None and scene_stamp:      # fall back to the clock
+                rstamp = git_last_instant(capture_root, rel)
+                fresh = not (rstamp and rstamp <= scene_stamp)
+            body = _strip_capture_header(f.read_text(encoding="utf-8"))
+            out.append((persona_dir.name, model_dir.name, body, fresh is False))
+    out.sort(key=lambda t: (t[0], t[1]))
+    return out
+
+
 # Monochrome glyph paths (24×24), fillable via CSS — a flame (Material
 # "whatshot") for Heat and a heart for Romance. Half-points render as a
 # left-to-right partial fill (a two-stop gradient at the fraction).
@@ -890,6 +950,18 @@ def render_entry(e: Entry) -> str:
                 f'<span class="badge badge-review openable-rev" role="button" '
                 f'tabindex="0" data-review="{e.slug}" title="{tip}">'
                 f'cold reads ({len(rt)}){flag} ↗</span>')
+        if getattr(e, "capture_reads", None):
+            cr = e.capture_reads
+            stale_n = sum(1 for *_x, st in cr if st)
+            flag = " ⚠" if stale_n else ""
+            n_persona = len({p for p, _m, _b, _s in cr})
+            tip = (f"Read the capture-panel gates in full — {len(cr)} across "
+                   f"{n_persona} persona{'s' if n_persona != 1 else ''}"
+                   + (f", ⚠ {stale_n} predate the current prose" if stale_n else ""))
+            parts.append(
+                f'<span class="badge badge-capture openable-cap" role="button" '
+                f'tabindex="0" data-capture="{e.slug}" title="{html.escape(tip, quote=True)}">'
+                f'capture ({len(cr)}){flag} ↗</span>')
         parts.append(
             f'<span class="chip words" title="prose word count · ~{_pages(e.words)} '
             f'pp at {WORDS_PER_PAGE} wpm">{e.words:,} words</span>')
@@ -960,7 +1032,7 @@ def _dates_attr(e) -> str:
 
 
 def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None,
-               with_reviews=False):
+               with_reviews=False, capture_dir=None):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
     assign_chapter_numbers(entries)
     # stable, unique DOM ids so beeswarm dots can target their cards; and, for
@@ -1001,6 +1073,11 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
                 e.review_texts = scene_review_texts(
                     e.file_slug or slugify(e.title), reviews_dir,
                     scene_stamp=e.git_instant, scene_commit=getattr(e, "git_commit", None))
+                # Capture-panel gates are keyed by reading-order chapter number,
+                # not slug — so they attach only to drafted (numbered) chapters.
+                e.capture_reads = capture_reads(
+                    getattr(e, "chapter_no", None), capture_dir,
+                    scene_stamp=e.git_instant, scene_commit=getattr(e, "git_commit", None))
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
@@ -1031,6 +1108,33 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
             f'{html.escape(blob)}</div>')
     if rev_blocks:
         scene_srcs = scene_srcs + "\n" + "\n".join(rev_blocks)
+    # hidden per-chapter capture-panel blobs — same open-on-demand mechanism as
+    # the cold reads, but grouped capture > persona > model: personas are H2
+    # (`## <persona>`, the outer collapse), each model an H3 under its persona
+    # (`### <model>`). The gate bodies' own headings (## Reaction/Gate/Ledger)
+    # are demoted to H5 so the page JS, which splits on H2/H3, never mistakes
+    # them for a persona or model boundary.
+    cap_blocks = []
+    for e in entries:
+        cr = getattr(e, "capture_reads", None)
+        if not cr:
+            continue
+        secs, cur_persona = [], None
+        for persona, model, body, stale in cr:     # pre-sorted persona, model
+            if persona != cur_persona:
+                secs.append(f"## {persona}")
+                cur_persona = persona
+            head = f"### {model}" + ("  — ⚠ rated an earlier draft (predates the current prose)"
+                                     if stale else "")
+            body = re.sub(r"(?m)^#{1,6}(?=\s)", "#####", body)
+            secs.append(f"{head}\n\n{body}")
+        blob = "\n\n".join(secs)
+        cap_blocks.append(
+            f'<div class="capsrc" id="cap-{e.slug}" '
+            f'data-title="{html.escape("Capture panel — " + chapter_label(e), quote=True)}" hidden>'
+            f'{html.escape(blob)}</div>')
+    if cap_blocks:
+        scene_srcs = scene_srcs + "\n" + "\n".join(cap_blocks)
     ticks = month_ticks(pad_l, plot_w, span)
 
     # beeswarm svg
@@ -1160,7 +1264,14 @@ READER_CSS = """
   #reader-body details.rev-model > summary::before { content:'▸'; color:var(--mut); margin-right:8px; display:inline-block; }
   #reader-body details.rev-model[open] > summary::before { content:'▾'; }
   #reader-body details.rev-model[open] > summary { border-bottom:1px solid var(--line); margin-bottom:8px; }
-  #reader-body details.rev-model .rev-body { padding-bottom:10px; }"""
+  #reader-body details.rev-model .rev-body { padding-bottom:10px; }
+  /* capture: persona group holds its per-model details; tint the persona head
+     and indent the nested model cards so the persona > model nesting reads. */
+  #reader-body details.cap-persona > summary { color:#7fe0d3; }
+  #reader-body details.cap-persona > .rev-body { padding-left:6px; }
+  #reader-body details.cap-model { background:#131a20; margin:8px 0; }
+  #reader-body details.cap-model > summary { color:#cfe9e4; font-size:13px; padding:9px 0; }
+  #reader-body .cap-count { color:var(--mut); font-weight:400; }"""
 
 READER_HTML = """
 <div id="reader" tabindex="-1" hidden aria-hidden="true">
@@ -1239,6 +1350,31 @@ READER_JS = r"""
     return out.join('\n');
   }
 
+  // Capture gates open grouped capture > persona > model: "## <persona>" is the
+  // outer group (open by default), each "### <model>" a collapsed <details>
+  // under it. Both carry class rev-model so Expand/Collapse-all reaches them.
+  // (Gate-body headings arrive pre-demoted to H5, so they never look like a
+  // persona/model boundary here.)
+  function renderCapture(text){
+    var lines = text.split('\n'), groups = [], g = null, md = null;
+    for (var i=0; i<lines.length; i++){
+      var mm = lines[i].match(/^###\s+(.*)$/);   // model (check before persona)
+      var pm = lines[i].match(/^##\s+(.*)$/);    // persona
+      if (mm){ md = {name: mm[1], buf: []}; if (!g){ g = {name:'', models:[]}; groups.push(g); } g.models.push(md); }
+      else if (pm){ g = {name: pm[1], models: []}; groups.push(g); md = null; }
+      else if (md){ md.buf.push(lines[i]); }
+    }
+    return groups.map(function(gr){
+      var inner = gr.models.map(function(m){
+        return '<details class="rev-model cap-model"><summary>' + inline(m.name) + '</summary>'
+             + '<div class="rev-body">' + renderMarkdown(m.buf.join('\n')) + '</div></details>';
+      }).join('\n');
+      return '<details class="rev-model cap-persona" open><summary>' + inline(gr.name)
+           + ' <span class="cap-count">(' + gr.models.length + ')</span></summary>'
+           + '<div class="rev-body">' + inner + '</div></details>';
+    }).join('\n');
+  }
+
   // Collapse/expand all per-model review sections without closing the reader.
   function revDetails(){ return Array.prototype.slice.call(body.querySelectorAll('details.rev-model')); }
   function anyRevOpen(){ return revDetails().some(function(d){ return d.open; }); }
@@ -1254,6 +1390,10 @@ READER_JS = r"""
     titleEl.textContent = el.getAttribute('data-title') || '';
     if (srcId.indexOf('rev-') === 0){          // reviews: collapsed-by-model, no line gutter
       body.innerHTML = renderReviews(src);
+      body.classList.remove('lnum');
+      collapseBtn.hidden = false; updateCollapseLabel();
+    } else if (srcId.indexOf('cap-') === 0){   // capture: grouped persona > model
+      body.innerHTML = renderCapture(src);
       body.classList.remove('lnum');
       collapseBtn.hidden = false; updateCollapseLabel();
     } else {
@@ -1304,7 +1444,9 @@ READER_JS = r"""
 
   function search(q){
     body.innerHTML = (curSlug && curSlug.indexOf('rev-') === 0)
-      ? renderReviews(src) : renderMarkdown(src);   // drop old marks
+      ? renderReviews(src)
+      : (curSlug && curSlug.indexOf('cap-') === 0)
+        ? renderCapture(src) : renderMarkdown(src);   // drop old marks
     marks = []; curMatch = -1;
     if (!q){ cmdInfo.textContent = ''; return; }
     var ci = (q === q.toLowerCase());        // smartcase
@@ -1381,6 +1523,11 @@ READER_JS = r"""
   });
   document.querySelectorAll('.openable-rev').forEach(function(b){
     function open(){ openReader('rev-'+b.getAttribute('data-review')); }
+    b.addEventListener('click', open);
+    b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
+  });
+  document.querySelectorAll('.openable-cap').forEach(function(b){
+    function open(){ openReader('cap-'+b.getAttribute('data-capture')); }
     b.addEventListener('click', open);
     b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
   });
@@ -1498,8 +1645,9 @@ PAGE = """<!doctype html>
     display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px; }}
   .flagbody p {{ margin:0 0 8px; }}  .flagbody p:last-child {{ margin:0; }}
   .badge-review {{ background:#7e57c2; }}
-  .badge.openable-rev {{ cursor:pointer; }}
-  .badge.openable-rev:hover {{ filter:brightness(1.14); }}
+  .badge-capture {{ background:#2f8f83; }}
+  .badge.openable-rev, .badge.openable-cap {{ cursor:pointer; }}
+  .badge.openable-rev:hover, .badge.openable-cap:hover {{ filter:brightness(1.14); }}
   .stale-flag {{ color:#f9a825; font-size:11px; cursor:help; margin-left:2px; }}
 {reader_css}
 </style></head>
@@ -1574,12 +1722,16 @@ def main():
     reviews_dir = src.resolve().parent.parent / "reviews" / "cold-read"
     if not reviews_dir.is_dir():
         reviews_dir = Path("reviews") / "cold-read"
+    capture_dir = src.resolve().parent.parent / "reviews" / "capture-panel"
+    if not capture_dir.is_dir():
+        capture_dir = Path("reviews") / "capture-panel"
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
     # Single page: each chapter's current-draft cold reads are embedded
     # (collapsed) under its card. The former clean/no-reviews split
     # (chronology-reviews.html) is retired — reviews now live here.
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
-                         reviews_dir=reviews_dir, with_reviews=True)
+                         reviews_dir=reviews_dir, with_reviews=True,
+                         capture_dir=capture_dir)
     Path(args.out).write_text(htmlout, encoding="utf-8")
 
     n_dated = sum(1 for e in entries if e.date)
