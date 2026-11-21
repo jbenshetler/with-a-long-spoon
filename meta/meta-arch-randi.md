@@ -226,6 +226,8 @@ The love is most visible at Vee's lowest points. When she and Pace are in diffic
 
 One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not {{Fairytale}}. *(To refine.)*
 
+**Brooke was her friend and mentor** (author ruling 2026-11-21): a year ahead, the one who brought her up in the house. The friendship broke the August before Volume One, when Randi, on Standards, would not let Sloane's drinking-in-letters post slide as she had Sloane's trouble the year before for Brooke's sake. Full entry: Brooke, `meta-arch-bible.md`.
+
 ---
 
 ## The Villain-Guard — Let the Warm Love Surface (the affirmative half)

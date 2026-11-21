@@ -12,7 +12,7 @@ The cold-read oracle at Volume One's close floored Randi on every reader-axis �
 
 ## What the scene is
 
-Post-coital Pace and Randi, a week after {{Portion}}. She stays down; asks to be fed; takes his undershirt; eats; hands him back his own sentence; stays and sleeps. Both **buzzing about how great Vee is** — the happy-romantic-friendship view of the configuration, *from the inside.* Warm and true on first read; cold only on reread — and now a truce nobody names, made entirely of reversals against the two nights before it (left / stayed cold / stayed warm).
+Post-coital Pace and Randi, a week after {{Portion}}. She stays down; asks to be fed; takes his undershirt; eats; hands him back his own sentence; stays and sleeps, after *"Brooke asked what time I'd be back… Fuck Brooke"* (staying at a cost to her place in the house; Pace takes it gladly and does not remark it). Both **buzzing about how great Vee is** — the happy-romantic-friendship view of the configuration, *from the inside.* Warm and true on first read; cold only on reread — and now a truce nobody names, made entirely of reversals against the two nights before it (left / stayed cold / stayed warm).
 
 **Pace's privacy rule (author ruling 2026-09-27).** Pace keeps Vee's private actions and statements. His impressions and his analysis of her are his to give — *"She's ashamed. Somebody taught her to be ashamed of her body"* stays; *"And she talks about you"* stays (he is not asking what she said); *"I like taking my time with her"* stays. He does not ask what Vee told Randi; that is Vee's.
 

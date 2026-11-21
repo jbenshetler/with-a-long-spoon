@@ -294,6 +294,8 @@ Introduced in **{{Standards}}**. The one person in the sorority who out-operates
 
 **Interior.** Brooke's quarrel is with Randi, never with Vee — Vee isn't on an axis Brooke competes on. Her warmth toward Vee is instrumental: Vee is a lever, someone Brooke will expose and use in front of Randi to get at Randi, not someone Brooke cares about. The structure mirrors Randi's view of Cassie (a thing in the way; feeling-nothing — see `meta-arch-cassie-randi.md`) — with one difference: Vee has the looks to be sorority-eligible, so she registers to Brooke as a person, just without enough rank to matter. On the page the warmth still reads as warmth; the instrumentality is the reread charge.
 
+**History with Randi (author ruling 2026-11-21).** Brooke is a year ahead and was Randi's friend and mentor in the house. Sloane was trouble the year before, and Randi, on Standards, let it slide because of Brooke. Before classes started that fall Sloane posted herself drinking in letters; Randi would not let it slide again, and the friendship broke over it. Sloane carries the grudge: her warm digs in {{Standards}} (*"I love that you don't care about cars"*) are attacks, and she is the tall one at Brooke's shoulder in {{Dear}}, silent. Vee never hears this in Volume One (the flicker rule: Randi's cost is the reader's, not Vee's); it waits for the Volume Two run-up to {{Inversion}}.
+
 -----
 
 ## VEE'S DORM FLOOR — Kayla, Meg, Theo

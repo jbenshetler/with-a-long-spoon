@@ -75,7 +75,7 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 - {{Turned Up}} "he made one" (the shirt) is the reveal; {{Leave No Trace}}'s dorm movement *I kept the shirt* is its setup.
 - {{The Practice Room}} Randi's counting script → {{One Bite}} *It wasn't quite like you said*; *love tap* → *the little love tap*.
 - {{Not in Your Bed}} *fine* → {{All the Time}} *calling it fine*.
-- Kiss shape (hand at the hinge, second press) and *See you soon, gorgeous*: designed escalation across {{How It's Done}}, {{Fed}}, {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{All the Time}}. Not repetition to cut.
+- Kiss shape (hand at the hinge, second press) and *See you soon, gorgeous*: designed escalation across {{How It's Done}}, {{Fed}} (which closes instead on *"Your man Pace doesn't know how lucky he is, gorgeous"*, author ruling 2026-11-21: she has just heard they slept together), {{Broken In}}, {{The Practice Room}}, {{One Bite}}, {{All the Time}}. Not repetition to cut.
 - Randi's scent unnamed ({{How It's Done}}, {{One Bite}}) → *bitter orange* ({{Broken In}}, {{All the Time}}).
 
 ## Conclusion (author ruling 2026-09-28)

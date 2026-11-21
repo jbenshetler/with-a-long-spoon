@@ -354,6 +354,26 @@ SHA256SUMS).
   The check still runs before each publication event — as **awareness, not a
   gate**; if occupied, record it and proceed.
 
+## Invented Greek-letter names — collision searches (2026-11-21)
+
+**Why.** {{Fed}} names a fraternity: sorority women say the letters, and the book names
+no real Greek organization (see the probe above). The name is invented, so it was
+searched for a collision with a real organization or chapter before use.
+
+**Searches** (web search, 2026-11-21):
+
+| Query | Result |
+|---|---|
+| `"Rho Kappa Tau" fraternity` | No organization of that name. Hits were different groups with overlapping letters (Alpha Kappa Rho, Kappa Delta Rho, Phi Kappa Tau, Tau Kappa Alpha) and "Rho Tau" chapters of other organizations (Tau Kappa Epsilon, Kappa Sigma, Phi Theta Kappa). |
+| `"Omicron Tau Rho" fraternity` | No organization of that name. Nearest: Omicron Alpha Tau (historical, Cornell 1912) and Chi Rho Omicron (Cal State Fresno, 1995); Omicron-Tau and Omicron-Rho as chapter names inside Kappa Sigma. |
+| `"Tau Omicron" fraternity` | No national organization, but in use as chapter names: Omega Psi Phi (Martinsville, VA, chartered 1948), Alpha Omicron Pi (UT Martin), Kappa Sigma (CSU San Marcos), Tau Epsilon Phi (inactive). **Rejected.** |
+
+**Finding.** Two-letter combinations collide with chapter designations inside real
+organizations; three-letter names are far less exposed. **Chosen: Rho Kappa Tau
+(ΡΚΤ), "the Rho Kaps"**: no organization of that name found. A small local group
+cannot be excluded by search alone; the flat-fee pre-publication read above covers
+it. Portrayal is incidental and harmless (the boys eat a failed cookie).
+
 ## Platform disclosure — the decision not to disclose (author ruling, 2026-09-13)
 
 **Ruling: do not send a pre-upload disclosure. Hold the letter below as a

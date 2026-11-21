@@ -45,7 +45,8 @@ Register guard: her stories stay in the loud/rueful anecdote key and **never dri
 4. The premeditation surfaces in facets — toes, the color, the good panties — caught *warm*, not interrogated.
 5. Randi gives the platform → Vee describes how good it was, in Pace's true fingerprint (the line Randi takes clean).
 6. Randi steers → **Vee speaks her own seal** (calibrated; see below).
-7. Goodbye kiss out.
+7. The invite and the decline, at the table (author ruling 2026-11-21): Vee asks Randi to the economics honor society induction; Randi says yes, checks her phone, turns it face down (the flicker), and names Brooke's officers' meeting; *"You're going to stop their hearts, beautiful."* Vee's small *"It's okay"*; Randi lifts it with the Brooke-tyrant story, told in the past: penance after the Rho Kap mixer, homemade cookies posted to Instagram, Kinsey filming with a ring light, the Easy-Bake, one cookie the size of the pan, Brooke's *So much spirit!* A triumph made of a disaster, never self-mockery. Fixes the Induction's Oct 20 collision nine days out; seeds {{Nachtmusik}}'s *"I'd already missed one."*
+8. Goodbye kiss out.
 
 ## Randi's opener (candidate lines, author)
 
@@ -111,7 +112,7 @@ The facets in a row (sheet → toes → color → panties) can tip into *Randi s
 
 ## Goodbye kiss
 
-Continuation of the established goodbye-kiss (the cheek-thing that isn't; hand at the hinge of the jaw; the small second press "that had something in it the first one hadn't"). This is the **2nd** occurrence — the recognition rung: Vee half-expects it and meets it, and the debut's witness-scan ("who might have seen them") does *not* fire, rendered behaviorally only. Full normalization ("hadn't braced… it was only what they did") is the {{Broken In}}, which comes **after** this scene in story time — do not play that register here. No new physical riser. Closes on the ritual line *"See you soon, gorgeous"* (the reserved word — see meta-plan-satc-tracks.md). Staged curbside, not in-car: the girls drive separately here (Vee's own Corolla), which carries the money/independence beat; the kiss gesture and ritual line are what's canonical, not the car.
+Continuation of the established goodbye-kiss (the cheek-thing that isn't; hand at the hinge of the jaw; the small second press "that had something in it the first one hadn't"). This is the **2nd** occurrence — the recognition rung: Vee half-expects it and meets it, and the debut's witness-scan ("who might have seen them") does *not* fire, rendered behaviorally only. Full normalization ("hadn't braced… it was only what they did") is the {{Broken In}}, which comes **after** this scene in story time — do not play that register here. No new physical riser. Closes on *"Your man Pace doesn't know how lucky he is, gorgeous"* (author ruling 2026-11-21) in place of the ritual *"See you soon, gorgeous"*: she has just heard they slept together and wishes it were her; the reserved word carries the truth. Randi's hand stays at the hinge of Vee's jaw through the line (no new riser; the hand landing is {{Broken In}}'s). Staged curbside, not in-car: the girls drive separately here (Vee's own Corolla), which carries the money/independence beat; the kiss gesture and ritual line are what's canonical, not the car.
 
 ## The tomato-red mouth (author ruling 2026-11-06)
 

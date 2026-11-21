@@ -33,3 +33,16 @@ the target and finding id.*
   girlfriend's birthday sits below the detail the book renders. No Nachtmusik
   cold reader flagged it; the finding came from the diagnose prompt's
   "paid without setup" priming.
+- **vol1 C16 — the timeline read from scattered markers:** answered by the reader-facing
+  date lines the book ships with (author ruling 2026-11-21; date lines per the 2026-10-25
+  ruling). The editors read an undated manuscript; no prose change.
+- **vol1 C2 — the climax with both orchestrators offstage:** designed and landing; no
+  change (author ruling 2026-11-21). The Induction is Vee's own climax; the volume sells
+  a plan she cannot see, not a knowing triangle. The Nachtmusik reunion is the means of
+  the theft, and no current cold read finds it long.
+- **vol1 C7 — Cassie becomes only a confidante:** already ruled; Cassie stays passive
+  (author ruling 2026-11-21). Her warnings stay active about Randi, whom she sees and
+  reads by cue; about Pace they are soft, since she has met him only at the coffee-shop
+  meet-cute and knows him through what Vee tells her until Volume 3. She does not
+  criticize Pace: that would drive a real wedge between her and Vee. Audit each Cassie
+  chapter for its unheeded true sentence on those terms.
