@@ -4,21 +4,33 @@
 
 The bag was open on the bed and he had been packing it for twenty minutes, which was fifteen more than it took.
 
-Three shirts laid out; one put back. The talk was on a drive in the zip pocket and on the laptop and in his head, which was the copy he trusted. He could have given it off a napkin at the gate. Fifty minutes on a bound he had proved in June, to a room of men who would read the abstract on the plane, and two of them would ask questions pitched to be overheard, and he would answer them, and that night at the bar they would tell each other he was sharp. One day of that, and an airport on either side of it. He took the band off the second shirt and rolled it again, tighter, and snapped the band back on and laid it in.
+Three shirts laid out; one put back. The talk was on a drive in the zip pocket and on the laptop and in his head, which was the copy he trusted. He could have given it off a napkin at the gate.
+
+Fifty minutes on a bound he had proved in June, to a room of men who would read the abstract on the plane, and two of them would ask questions pitched to be overheard, and he would answer them, and that night at the bar they would tell each other he was sharp. One day of that, and an airport on either side of it.
+
+He took the band off the second shirt and rolled it again, tighter, and snapped the band back on and laid it in.
 
 It was not the talk.
 
-It was the week. Saturday was three days behind him and he had not got out from under it. He had cut the silk that afternoon and sat up past one with the pins, and the pieces lay now on the long table in the sun porch under a sheet, and in the morning he would leave them there and go stand in a hotel ballroom in Illinois. He had not called her. A call would have asked her something, and he wanted Friday to do the asking, and he had been sure of that on Sunday and sure of it on Monday, and somewhere this afternoon the being sure had worn through, and what was under it was Saturday. Her hands going up behind her for the hook, in full light, in his house. Her breast against his jaw, bare and giving, and the third time no accident at all, her voice over his head low and daring: *Oops.* The curve of her under both his palms with nothing between but the satin. And her eyes. He had knelt in front of her where the satin had gone dark, and she had screwed them shut, and he was not a fool. He knew what it was and what it cost her to stand there with it in the light. And then she had opened them, and looked down, and found him already looking. That was the one he could not put down. None of it had anywhere to go tonight but his hands, which kept rolling shirts that were rolled.
+It was the week. Saturday was three days behind him and he had not got out from under it. He had cut the silk that afternoon and sat up past one with the pins, and the pieces lay now on the long table in the sun porch under a sheet, and in the morning he would leave them there and go stand in a hotel ballroom in Illinois.
+
+He had not called her. A call would have asked her something, and he wanted Friday to do the asking, and he had been sure of that on Sunday and sure of it on Monday, and somewhere this afternoon the being sure had worn through, and what was under it was Saturday.
+
+Her hands going up behind her for the hook, in full light, in his house. Her breast against his jaw, bare and giving, and the third time no accident at all, her voice over his head low and daring: *Oops.* The curve of her under both his palms with nothing between but the satin.
+
+And her eyes. He had knelt in front of her where the satin had gone dark, and she had screwed them shut, and he was not a fool. He knew what it was and what it cost her to stand there with it in the light. And then she had opened them, and looked down, and found him already looking. That was the one he could not put down.
+
+None of it had anywhere to go tonight but his hands, which kept rolling shirts that were rolled.
 
 Eurythmics was going low in the front rooms, the drum machine and a woman's voice over it, low and level. He heard the car under it.
 
-Tires on the gravel, slow through the cut. The deadbolt went over. He went as far as the bedroom door and looked down the hall and saw the chair by the front door with nothing on it, and set that aside, and then she was coming toward him with her bag still on her shoulder.
+Tires on the gravel, slow through the cut. The deadbolt went over. Her steps came across the foyer and did not stop: no pause at the door, no bag going down into the chair. He set that aside, and then she was around the corner and in the doorway with her handbag on her shoulder.
 
 "Somebody's going somewhere," she said.
 
 "Chicago. Six-forty."
 
-"I know when." She came past him and sat on the end of the bed beside the bag and looked into it the way you look into somebody's grocery cart. She had the cream cashmere on over something pale and close, and her hair up, and her mouth cool from outside when he bent and she gave it to him. "You pack like a man going to war."
+"I know when." Her face softened. "You told me." She came past him and sat on the end of the bed beside the bag and looked into it the way you look into somebody's grocery cart. She had the cream cashmere on over something pale and close, and her hair up, and her mouth cool from outside when he bent and she gave it to him. "You pack like a man going to war."
 
 "I pack like a man who doesn't want to iron in a hotel."
 
@@ -28,9 +40,11 @@ Tires on the gravel, slow through the cut. The deadbolt went over. He went as fa
 
 "Nobody reads the paper, darling."
 
-"That's my complaint."
+"Exactly."
 
-She laughed, low. She lay back on her elbows across the foot of the bed, and her eyes stayed on his hands while he laid the roll in, and took it out, because the collar had creased in it.
+She laughed, low. She lay back on her elbows across the foot of the bed, and her eyes stayed on his hands while he laid the roll in.
+
+He did not laugh with her.
 
 "It's her, isn't it."
 
@@ -48,11 +62,15 @@ He gave it to her, and she rolled it badly, on purpose, loose and fat with the t
 
 ---
 
-He had been carrying it since Saturday. He knew where it came from, and he did not pretend to himself that he didn't, and he did not think she would mind; she had wanted Vee in this bed from the first afternoon on the quad, she had said yes to her before she knew her name. So he let it come. He put a knee on the bed and his hand flat on her stomach over the silk, and her breath went up under his palm, and she smiled at the ceiling as though she had won something.
+He had been carrying it since Saturday. He knew where it came from, and he did not pretend to himself that he didn't, and he did not think she would mind; she had wanted Vee in this bed from the first afternoon on the quad, she had said yes to her before she knew her name. So he let it come.
+
+He put a knee on the bed and his hand flat on her stomach over the silk, and her breath went up under his palm, and she smiled at the ceiling as though she had won something. Her hand came up the inside of his thigh, taking her time about it, and found him hard through the denim.
 
 "Well," she said. "Hello."
 
-He did not answer that. He got the cashmere off her shoulders and she lifted for him so he could take it out from under her, and the thing beneath it was a slip of a dress, ivory, cut close, nothing to it but two straps, and he took one strap down with his thumb and put his mouth where it had been. She smelled of the night air, and the citrus, and the cold thing under it, and her skin was warm under all of it. He took his time over her. He always took his time. He went along the line of her collarbone with his mouth and back, and got his hand up under the silk, and found her bare, nothing on under it at all, and he laughed against her throat, and she laughed too, delighted, caught.
+He did not answer that. He got the cashmere off her shoulders and she lifted for him so he could take it out from under her, and the thing beneath it was a slip of a dress, ivory, cut close, nothing to it but two straps, and he took one strap down with his thumb and put his mouth where it had been. She smelled of the night air, and the citrus, and the cold thing under it, and her skin was warm under all of it.
+
+He took his time over her. He always took his time. He went along the line of her collarbone with his mouth and back, and got his hand up under the silk, and found her bare, nothing on under it at all, and he laughed against her throat, and she laughed too, delighted, caught.
 
 "I was in a hurry," she said.
 
@@ -62,7 +80,9 @@ He did not answer that. He got the cashmere off her shoulders and she lifted for
 
 "No," she said. "Not tonight. I don't want you sweet." Her hand tightened. "I drove out here with nothing on under this so you would fuck me like you mean it. So do it. Hard. Like you're leaving."
 
-He stood at the edge of the bed and brought her to it by the backs of her knees, the bag shoved half off the end and the shirts going with it, and she let him; she lay back with her arms over her head among what was left of his packing and her ankles came up and crossed behind him, and he went into her standing, all at once, and the sound it put out of her was not one she had decided on. It went through him. This was the want he had walked around the house with for three days, and here was a place for it, warm and close and gripping him, and she was looking up at him with her mouth open and her eyes very bright, and he gave it to her.
+He stood at the edge of the bed and brought her to it by the backs of her knees, the bag shoved half off the end and the shirts going with it, and she let him; she lay back with her arms over her head among what was left of his packing and her ankles came up and crossed behind him, and he went into her standing, all at once, and the sound it put out of her was not one she had decided on.
+
+It went through him. This was the want he had walked around the house with for three days, and here was a place for it, warm and close and gripping him, and she was looking up at him with her mouth open and her eyes very bright, and he gave it to her.
 
 She took it. She liked it like this, unpolished; he had not known that. Her hips came up to meet him harder when he was less careful, and the high short breath came at the top of each stroke. The straps were off her shoulders. Her small breasts moved with him and he put his hand over one and felt her heart going under it. The bed creaked on the frame he had built, which it had never once done.
 
@@ -90,7 +110,11 @@ Then she opened her eyes and looked at him from under her lashes, and her hand c
 
 He slowed. He did not mean to; his body heard the question before he did.
 
-He could tell her. It was there, entire, the moment he looked at it: Friday, a table, her across it with her hands around a cup of tea, and he would say it the way he said hard things, plainly and in order. *Randi and I have been together since August. We talked about you before you knew either of us. We'd like you to know that, and then we'd like to ask you something.* He could hear himself say it. He would say it well. And then it would be hers, on the table between them, and she would do what she did with a thing that was hers, which was go quiet and look at it from every side, and he would sit with his hands on the cloth and wait to see what her face did.
+He could tell her. It was there, entire, the moment he looked at it: Friday, a table, her across it with her hands around a cup of tea, and he would say it the way he said hard things, plainly and in order.
+
+*Randi and I have been together since August. We talked about you before you knew either of us. We'd like you to know that, and then we'd like to ask you something.* He could hear himself say it. He would say it well.
+
+And then it would be hers, on the table between them, and she would do what she did with a thing that was hers, which was go quiet and look at it from every side, and he would sit with his hands on the cloth and wait to see what her face did.
 
 "I could just tell her," he said.
 
@@ -108,7 +132,7 @@ He saw Vee doing it. Thanking him. Minding her manners over the whole of it.
 
 "Or," Randi said, and moved under him, one long slow roll of her hips up off the bed, and her heels found the backs of his thighs again and drew him in. "You get her to want it." The grip of her tightened around him, and the color came up from her chest into her throat. "And then you give it to her."
 
-He knew what she was doing. She had gone still under him at *dinner* and come alive at *give it to her*, and she had not troubled to hide either. He nearly laughed. He was bent over her with one hand in her hair, the pins giving, and the other under the arch of her back, and he could feel her making her case. Her body was a persuasive thing, and he was not going to be talked round by it; he would keep his head, and think it through. She was hot and slick around him and rolling slow, as though she had all night.
+He knew what she was doing. She had gone still under him at *dinner* and come alive at *give it to her*, and she had not troubled to hide either. He nearly laughed. He was bent over her with one hand in her hair, the pins giving, and the other under the arch of her back, and he could feel her making her case. Her body was a persuasive thing, and he was not going to be talked round by it; he would keep his head, and think it through. She was hot and slick around him and moving slow, as though she had all night.
 
 You did not tell someone what a gift was. You did not sit a woman down across a plate and describe it to her, the size and the shape and what it would ask of her, so that by the time it came she had already had it once in words and had it smaller. And it might never come. He did not know that Vee would want it; she did not know it herself, if it was there at all.
 
@@ -130,9 +154,13 @@ Randi's breath went out of her, long.
 
 She clenched on it, hard, and he took it for appetite, and it went into him like heat off a stove. He drove into her and she cried out, and under it, behind his eyes, he had it.
 
-He had not heard Vee come. He had heard her gasp at a pin. He had heard the breath go out of her when she came back down off her toes, a laugh with no laugh in it. He knew already, as he knew a bound would hold before he'd written the last line, that her voice would go up when she went over, and Friday he meant to find out how far. But this was the other one. Vee on her back in this bed, Randi's dark head between her thighs, and the sound Vee would make for that, which would be no sound she made for him: higher, faster, a catch of disbelief at the top of it, the sound of a woman who had been raised to think there was no such thing in the world finding out there was, and finding it out from a woman's mouth, and not able to stop herself saying so. He wanted to hear her. He wanted to be in the room.
+He had not heard Vee come. He had heard her gasp at a pin. He had heard the breath go out of her when she came back down off her toes, a laugh with no laugh in it. He knew already, as he knew a bound would hold before he'd written the last line, that her voice would go up when she went over, and Friday he meant to find out how far.
 
-It sat in him half a breath, very still.
+But this was the other one. Vee on her back in this bed, Randi's dark head between her thighs, and the sound Vee would make for that, which would be no sound she made for him: higher, faster, a catch of disbelief at the top of it, the sound of a woman who had been raised to think there was no such thing in the world finding out there was, and finding it out from a woman's mouth, and not able to stop herself saying so.
+
+He wanted to hear her. He wanted to be in the room.
+
+He held it, and it would not hold still.
 
 Then Randi's nails went into his back and she said his name, broken in the middle, and he let it go. She came first, her back coming up off his shirts, her heels locked, the cry going up and up and then stopping, all the air gone out of it, and the grip of her took him over with her. He came with his hands under her and her name in his mouth, and something else in his mouth too, under the name, that he did not say.
 
@@ -172,9 +200,9 @@ He watched her dress. The slip, the cashmere over it, her shoes. She came back a
 
 "Text me when you land," she said.
 
-At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched the car go down through the cut, careful on the gravel, until it was gone. It was cold. He found he did not mind it, and shut the door.
+At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched the car go down through the cut, careful on the gravel, until it was gone. It was cold, and he stood in it a while, and shut the door.
 
-The bag was on the floor and both shirts were on the rug with their bands off. He shook them out and rolled them again, tight, and the second one he rolled once and it held and he left it.
+The bag was on the floor and his shirts were on the rug, still banded. Hers had come loose. He rolled it once, tight, and snapped a band on it, and it held, and he left it.
 
 ---
 
@@ -186,4 +214,4 @@ In the truck, with the engine running and the heater not yet doing anything, he 
 
 *Dinner Friday?*
 
-He sent it, and put the phone face down on the seat beside him, and backed around and went down through the cut with the headlights on the trees, toward Roanoke. He did not turn it over again until Chicago, and when he did it said *Yes.*
+He sent it, and put the phone face down on the seat beside him, and backed around and went down through the cut with the headlights on the trees, toward Roanoke.
