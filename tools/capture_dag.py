@@ -129,13 +129,9 @@ def ck_path(d: Path, b: int) -> Path:
 
 def chapter_block(i: int) -> str:
     s = slugs()[i - 1]
-    body = checkpoint_bundle.clean_scene_text(s)
     head = f"===== CHAPTER {i}: {checkpoint_bundle.display_title(s)} =====\n\n"
-    if DATED:
-        line = chapter_dates.heading(s)
-        if line:  # None: the chapter opens undated (a flashback panel)
-            head += f"*{line}*\n\n"
-        body = chapter_dates.dated_text(s, body)
+    body = (checkpoint_bundle.reader_chapter_text(s) if DATED
+            else checkpoint_bundle.clean_scene_text(s))
     return f"{head}{body}\n"
 
 

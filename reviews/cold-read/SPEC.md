@@ -160,6 +160,13 @@ The grounded reader gets, inline in its prompt, **only**:
 4. the grounded checkpoint, when a checkpoint boundary exists;
 5. the raw clean prose window since that boundary.
 
+Items 2 and 5 are the chapter **as the book ships it**: the clean prose with the
+reader-facing date lines (the italic weekday/month/day line at the head of the
+chapter and at each dated section, never the year), from
+`checkpoint_bundle.reader_chapter_text`. The capture DAG and the structural editor
+read the same text. Checkpoint minting and every `prose-sha` stay on the undated
+clean prose.
+
 Never pass the reader anything else: a file path, the slug, the chapter's
 position/number, the thesis/bible/chronology or anything from `meta/`, the model name,
 or any framing of what the scene "does."

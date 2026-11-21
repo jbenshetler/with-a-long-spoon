@@ -32,6 +32,11 @@ Usage:
   tools/structural_edit.py diagnose --volume 1 --dry-run     # sizes only, no calls
 Outputs: audits/structural/<target>/<model>.md (existing outputs are skipped
 unless --fresh).
+
+The bundle is the book as it ships: each chapter via
+`checkpoint_bundle.reader_chapter_text` (clean prose plus the reader-facing date
+lines), the same text the cold and capture readers see. `consensus` reads only
+editor letters diagnosed from the current bundle; stale ones are skipped.
 """
 from __future__ import annotations
 
@@ -74,7 +79,9 @@ def bundle(volume: int, through: bool) -> tuple[str, int, int]:
         for s in volume_scenes.volume_slugs(v, drafted_only=True):
             n = slugs.index(s) + 1
             out.append(f"\n\n===== CHAPTER {n}: {checkpoint_bundle.display_title(s)} =====\n")
-            out.append(checkpoint_bundle.clean_scene_text(s))
+            # The chapter as the book ships it, date lines included — the same text
+            # the cold and capture readers see (checkpoint_bundle.reader_chapter_text).
+            out.append(checkpoint_bundle.reader_chapter_text(s))
     own = volume_scenes.volume_slugs(volume, drafted_only=True)
     first, last = slugs.index(own[0]) + 1, slugs.index(own[-1]) + 1
     planned = len(volume_scenes.volume_slugs(volume, drafted_only=False))
@@ -231,7 +238,20 @@ def chapters_of(spec: str) -> set[int]:
 
 def consensus(args) -> None:
     d = target_dir(args.volume, args.through)
-    letters = sorted(p for p in d.glob("*.md") if not p.name.startswith("consensus"))
+    # Editor letters only (never the consensus or reconcile outputs), and only those
+    # diagnosed from the current bundle: a letter on an older text is stale and is
+    # left out rather than mixed in.
+    current = sha(bundle(args.volume, args.through)[0])[:12]
+    letters = []
+    for p in sorted(d.glob("*.md")):
+        if p.name.startswith(("consensus", "reconcile")):
+            continue
+        m = re.search(r"bundle ([0-9a-f]{12})", p.read_text(encoding="utf-8").split("\n", 1)[0])
+        if m and m.group(1) != current:
+            print(f"skip {p.name}: diagnosed from bundle {m.group(1)}, current {current} "
+                  "(re-run diagnose --fresh to include it)", file=sys.stderr)
+            continue
+        letters.append(p)
     if len(letters) < 2:
         raise SystemExit(f"need two or more letters in {d.relative_to(REPO)}")
     models = [p.stem for p in letters]

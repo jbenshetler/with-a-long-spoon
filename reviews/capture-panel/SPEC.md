@@ -1514,3 +1514,12 @@ every lane holding a gate for the chapter, adding opus, carbon, hydrogen, kimi a
 `queer-woman`, none of them named by the author. The cold-read harness got the same treatment:
 `cold_read_grounded.py` needs `--on-demand` for a `[panel].available` reader,
 `--allow-retired` for a retired one, refuses unknown ids, and needs `--paid-ok` for any paid lane.
+
+## One reader text across instruments (author ruling 2026-11-21)
+
+Every blind instrument reads the chapter as the book ships it:
+`checkpoint_bundle.reader_chapter_text` (clean prose plus the reader-facing date lines).
+`capture_dag.chapter_block` uses it for the real lanes (byte-identical to the earlier
+`DATED` path; `--undated` experiments still read bare prose); `cold_read_grounded.py` uses
+it for the raw window and the chapter; `structural_edit.py` builds its bundle from it.
+`prose-sha` and checkpoint minting stay on the undated clean prose.

@@ -258,8 +258,9 @@ def review_memory_is_current(model_id: str, n: int, decade: int, path: Path) -> 
 
 
 def build_window(b1: int, b2: int) -> str:
-    """Clean prose of chapters [b1..b2], title-only delimiters (no chapter numbers —
-    the reader is never told this chapter's index). Empty when b1 > b2."""
+    """Chapters [b1..b2] as the book ships them (date lines included, author ruling
+    2026-11-21), title-only delimiters (no chapter numbers — the reader is never told
+    this chapter's index). Empty when b1 > b2."""
     if b1 > b2:
         return ""
     slugs = reader_slugs()
@@ -267,7 +268,7 @@ def build_window(b1: int, b2: int) -> str:
     for i in range(b1, b2 + 1):
         slug = slugs[i - 1]
         parts.append(f"\n\n===== {checkpoint_bundle.display_title(slug)} =====\n")
-        parts.append(checkpoint_bundle.clean_scene_text(slug))
+        parts.append(checkpoint_bundle.reader_chapter_text(slug))
     return "\n".join(parts).strip()
 
 
@@ -324,7 +325,7 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
         "block). Do not write any carry-forward, memory, or chapter record — your "
         "memory is supplied above and maintained elsewhere.\n"
     )
-    parts.append(f"THIS CHAPTER:\n\n===== {title} =====\n{checkpoint_bundle.clean_scene_text(slug)}\n")
+    parts.append(f"THIS CHAPTER:\n\n===== {title} =====\n{checkpoint_bundle.reader_chapter_text(slug)}\n")
     prompt = "\n".join(parts)
     assert_jacket_policy(slug, is_volume_entry, prompt)
     return prompt

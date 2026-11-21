@@ -95,6 +95,18 @@ def clean_scene_text(slug: str) -> str:
     return text
 
 
+def reader_chapter_text(slug: str) -> str:
+    """The chapter as the book ships it, which every blind instrument reads (author
+    rulings 2026-10-25, 2026-11-21): the italic reader-facing date line from
+    chapter_dates (omitted when the chapter opens undated) followed by the clean
+    prose with its section date lines. Checkpoint minting and prose-sha hashing stay
+    on `clean_scene_text`."""
+    import chapter_dates  # lazy: chapter_dates imports volume_scenes, as we do
+    body = chapter_dates.dated_text(slug, clean_scene_text(slug))
+    line = chapter_dates.heading(slug)
+    return f"*{line}*\n\n{body}" if line else body
+
+
 def jacket_packet() -> str:
     """Volume One packet string, regex-extracted from volume-packets.toml."""
     toml = (REPO / "reviews/cold-read/volume-packets.toml").read_text()
