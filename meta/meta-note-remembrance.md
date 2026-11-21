@@ -30,6 +30,7 @@ The night before Chicago, between {{How It's Done}} and {{Famished}}. Pace decid
 - **Music:** Eurythmics, ambient in the front rooms, chosen by no one (`meta-note-music-thread.md`).
 - **Packing:** two shirts, rolled tight and banded; Randi rolls one loose on purpose and bands nothing. After she goes, only hers is loose on the rug; he rolls it once and it holds.
 - **Arrival:** he hears her steps cross the foyer without stopping, no bag going into the chair by the door (the hall bends; he sees her only at the bedroom door). Pairs with {{Portion}}, where the bag goes down.
-- **The ending:** *Dinner Friday?* sent, phone face down; her *yes* belongs to {{Famished}}.
+- **The dress:** cut at the fitting; three nights at the machine since, seams pressed open. At 4:30 the bodice is sewn and pressed, the skirt still pinned, and the oyster yardage lies folded at the end of the table, not yet cut: the lining Vee finds at {{Peekaboo}}, unnamed here.
+- **The ending:** *Dinner Friday?* written in the truck and left unsent (*not yet five*: he will not wake her); it reaches her later that morning, and her *yes* belongs to {{Famished}}.
 - **The bed** is on a frame Pace built (`meta-plan-pace-house.md`).
 - *"I want them to see you"* and *"Text me when you land"* are Randi's lines (*darling* and its kin belong to her).

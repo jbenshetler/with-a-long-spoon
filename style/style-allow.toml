@@ -4694,6 +4694,13 @@ text = "He felt how right she was, and liked it."
 note = "Author ack: 'felt how right she was' is bodily persuasion, not a filter; 'and liked it' carries his self-serving friction"
 
 [[ok]]
+fp   = "4283ce172575"
+rule = "x-not-y"
+file = "scenes/remembrance.md"
+text = "At the end of the table the oyster yardage lay folded, not yet cut: the part she did not know about, waiting on him."
+note = "author-approved :211 oyster sentence (2026-11-21); 'folded, not yet cut' is the intended contrast"
+
+[[ok]]
 fp   = "60c95191695d"
 rule = "a-small"
 file = "scenes/rock.md"

@@ -12,7 +12,7 @@ He took the band off the second shirt and rolled it again, tighter, and snapped 
 
 It was not the talk.
 
-It was the week. Saturday was three days behind him and he had not got out from under it. He had cut the silk that afternoon and sat up past one with the pins, and the pieces lay now on the long table in the sun porch under a sheet, and in the morning he would leave them there and go stand in a hotel ballroom in Illinois.
+It was the week. Saturday was three days behind him and he had not got out from under it. He had been at the machine every night since, past one, pressing each seam open as he went, and the bodice lay now on the long table in the sun porch under a sheet, the skirt still in its pinned panels beside it, and in the morning he would leave it there and go stand in a hotel ballroom in Illinois.
 
 He had not called her. A call would have asked her something, and he wanted Friday to do the asking, and he had been sure of that on Sunday and sure of it on Monday, and somewhere this afternoon the being sure had worn through, and what was under it was Saturday.
 
@@ -208,10 +208,10 @@ The bag was on the floor and his shirts were on the rug, still banded. Hers had 
 
 The alarm went at four-thirty in the dark. He was awake before it.
 
-He showered. In the mirror his shoulder was clean. He looked at it anyway, longer than he needed to, and then dressed and zipped the bag and set it by the door, and then, because he had time, he went through the dark house to the sun porch and turned on the lamp at the end of the long table and lifted the sheet back. The burgundy lay where he had left it, the cut panels pinned in their order, darker than wine under that one light. He looked at it a while. Then he laid the sheet back over it and turned the lamp off.
+He showered. In the mirror his shoulder was clean. He looked at it anyway, longer than he needed to, and then dressed and zipped the bag and set it by the door, and then, because he had time, he went through the dark house to the sun porch and turned on the lamp at the end of the long table and lifted the sheet back. The burgundy lay where he had left it, the bodice sewn and pressed and the skirt still pinned, darker than wine under that one light. At the end of the table the oyster yardage lay folded, not yet cut: the part she did not know about, waiting on him. He looked at it a while. Then he laid the sheet back over it and turned the lamp off.
 
 In the truck, with the engine running and the heater not yet doing anything, he took out his phone and opened her name. He wrote it in one go.
 
 *Dinner Friday?*
 
-He sent it, and put the phone face down on the seat beside him, and backed around and went down through the cut with the headlights on the trees, toward Roanoke.
+It was not yet five. He left it unsent, and put the phone face down on the seat beside him, and backed around and went down through the cut with the headlights on the trees, toward Roanoke.
