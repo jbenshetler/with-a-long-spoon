@@ -34,6 +34,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import html
+import os
 import re
 import subprocess
 import sys
@@ -56,16 +57,6 @@ def _panel_models() -> frozenset[str]:
 
 PANEL_MODELS = _panel_models()
 
-
-def _capture_models() -> frozenset[str]:
-    # The capture-DAG roster (`[capture].models` + available), from the shared
-    # loader — the same single source of truth `capture_dag.py` enforces.
-    import cold_read_config
-
-    return frozenset(cold_read_config.capture_models(include_available=True))
-
-
-CAPTURE_MODELS = _capture_models()
 
 # --- academic-year framing -------------------------------------------------
 # Story runs ~Aug -> next Aug. We anchor day-0 at Aug 1 of an arbitrary base
@@ -593,11 +584,41 @@ def extract_reader_reaction(text: str) -> str:
 def scene_review_texts(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     """[(model_name, reaction_markdown, stale)] for a scene's cold reads (latest
     available; stale flagged — see `_review_files`)."""
-    return [(m, extract_reader_reaction(f.read_text(encoding="utf-8")), stale)
+    return [(f"{m} · {_mtime_label(f)}", extract_reader_reaction(f.read_text(encoding="utf-8")), stale)
             for m, f, stale in _review_files(slug, reviews_root, scene_stamp, scene_commit)]
 
 
 CAPTURE_HEADER_RE = re.compile(r"(?m)^\s*\*capture-.*\*\s*$")
+GATE_DECISION_RE = re.compile(r"(?m)^DECISION:\s*(\S+)")
+_CLEAN_SHA = {}
+
+
+def _mtime_label(f: Path) -> str:
+    return dt.datetime.fromtimestamp(f.stat().st_mtime).strftime("%Y-%m-%d %H:%M")
+
+
+def _current_prose_sha(slug):
+    """The capture harness's prose-sha for `slug` (sha256 of the clean text the
+    reader read, 12 hex), or None if it cannot be computed here."""
+    if not slug:
+        return None
+    if slug not in _CLEAN_SHA:
+        try:
+            import hashlib
+            import checkpoint_bundle
+            _CLEAN_SHA[slug] = hashlib.sha256(
+                checkpoint_bundle.clean_scene_text(slug).encode()).hexdigest()[:12]
+        except Exception:  # noqa: BLE001 — staleness is best-effort here
+            _CLEAN_SHA[slug] = None
+    return _CLEAN_SHA[slug]
+
+
+def _default_lanes() -> frozenset:
+    try:
+        import cold_read_config
+        return frozenset(cold_read_config.capture_default_lanes())
+    except Exception:  # noqa: BLE001
+        return frozenset()
 
 
 def _strip_capture_header(text: str) -> str:
@@ -606,7 +627,7 @@ def _strip_capture_header(text: str) -> str:
     return CAPTURE_HEADER_RE.sub("", text, count=1).lstrip("\n")
 
 
-def capture_reads(chapter_no, capture_root, scene_stamp=None, scene_commit=None):
+def capture_reads(chapter_no, capture_root, scene_stamp=None, scene_commit=None, slug=None):
     """[(persona, model, gate_body, stale)] for a chapter's capture-panel gates,
     sorted by persona then model (both alphabetical) — the author's requested
     capture > persona > model grouping.
@@ -616,14 +637,19 @@ def capture_reads(chapter_no, capture_root, scene_stamp=None, scene_commit=None)
     not by slug. `gate_body` is the file minus its leading italic metadata line.
     `stale` is flagged by the same git-ancestry test the cold reads use: True
     when the gate's commit predates the chapter's current prose commit (it rated
-    an earlier draft). Only roster models (`[capture].models` + available) count.
+    an earlier draft). When the gate records a `prose-sha` and the chapter's
+    current one can be computed, that comparison wins (it also covers uncommitted
+    gates). Every lane on disk counts (author ruling 2026-11-21), and each model
+    label carries the gate's DECISION, default/named lane, and file mtime.
     """
     out = []
     if not chapter_no or capture_root is None or not capture_root.is_dir():
         return out
     fname = f"gate-ch{chapter_no:03d}.md"
+    defaults = _default_lanes()
+    cur_sha = _current_prose_sha(slug)
     for model_dir in sorted(capture_root.iterdir()):
-        if not model_dir.is_dir() or model_dir.name not in CAPTURE_MODELS:
+        if not model_dir.is_dir():
             continue
         dag = model_dir / "dag"
         if not dag.is_dir():
@@ -640,8 +666,15 @@ def capture_reads(chapter_no, capture_root, scene_stamp=None, scene_commit=None)
             if fresh is None and scene_stamp:      # fall back to the clock
                 rstamp = git_last_instant(capture_root, rel)
                 fresh = not (rstamp and rstamp <= scene_stamp)
-            body = _strip_capture_header(f.read_text(encoding="utf-8"))
-            out.append((persona_dir.name, model_dir.name, body, fresh is False))
+            text = f.read_text(encoding="utf-8")
+            sm = re.search(r"prose-sha ~?([0-9a-f]{12})", text.split("\n", 1)[0])
+            stale = (sm.group(1) != cur_sha) if (sm and cur_sha) else (fresh is False)
+            dm = GATE_DECISION_RE.search(text)
+            kind = "default" if (model_dir.name, persona_dir.name) in defaults else "named"
+            label = (f"{model_dir.name} — {dm.group(1) if dm else '?'} · {kind} · "
+                     f"{_mtime_label(f)}")
+            body = _strip_capture_header(text)
+            out.append((persona_dir.name, label, body, stale))
     out.sort(key=lambda t: (t[0], t[1]))
     return out
 
@@ -1077,7 +1110,8 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
                 # not slug — so they attach only to drafted (numbered) chapters.
                 e.capture_reads = capture_reads(
                     getattr(e, "chapter_no", None), capture_dir,
-                    scene_stamp=e.git_instant, scene_commit=getattr(e, "git_commit", None))
+                    scene_stamp=e.git_instant, scene_commit=getattr(e, "git_commit", None),
+                    slug=e.file_slug or slugify(e.title))
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
@@ -1732,7 +1766,12 @@ def main():
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
                          reviews_dir=reviews_dir, with_reviews=True,
                          capture_dir=capture_dir)
-    Path(args.out).write_text(htmlout, encoding="utf-8")
+    # Atomic: write beside the target, then rename, so a reader run's rebuild racing
+    # another never leaves a half-written page.
+    out = Path(args.out)
+    tmp = out.with_name(f".{out.name}.{os.getpid()}.tmp")
+    tmp.write_text(htmlout, encoding="utf-8")
+    os.replace(tmp, out)
 
     n_dated = sum(1 for e in entries if e.date)
     by_status = {}

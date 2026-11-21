@@ -904,6 +904,9 @@ def main() -> None:
                          "Alone it runs only these lanes; add --with-defaults for both")
     ap.add_argument("--with-defaults", action="store_true",
                     help="with --lane: also run the default lanes")
+    ap.add_argument("--no-html", action="store_true",
+                    help="do not rebuild chronology.html after the run (default: rebuild "
+                         "whenever a gate was written)")
     ap.add_argument("--paid-ok", action="store_true",
                     help="permit OpenRouter (paid) lanes: the author has authorized "
                          "paid reads for THIS run")
@@ -1005,6 +1008,11 @@ def main() -> None:
 
     results, failures = [], []
 
+    def gate_stamps():
+        return {g: g.stat().st_mtime for m, p in lanes
+                for g in dag_dir(m, p).glob("gate-ch*.md")} if not EXPERIMENT else {}
+    before = gate_stamps()
+
     def one(m, p):
         fn, close = make_agent(m, args.effort)
         try:
@@ -1022,6 +1030,12 @@ def main() -> None:
         list(pool.map(lambda t: one(*t), readers))
 
     print("\n".join(results))
+    if not args.no_html and not EXPERIMENT:
+        after = gate_stamps()
+        wrote = sum(1 for g, t in after.items() if before.get(g) != t)
+        if wrote:
+            import chronology_rebuild
+            chronology_rebuild.rebuild(f"{wrote} new capture gate(s)")
     if stale_facts and not args.check_stale:
         # Repeated here because the start-of-run warning scrolls away under hundreds
         # of gate lines. Still a warning, never a gate (SPEC 'Checkpoint staleness').

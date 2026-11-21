@@ -48,6 +48,8 @@ supersedes the 2026-10-10 "roster × 2"). Print them with `tools/cold_read_confi
 - **Any OpenRouter lane, default or named, needs `--paid-ok`**, passed only when
   the author has authorized paid reads for this run. The tool prints a lane table
   (`default`/`named`, `free`/`PAID`) before it starts.
+- A run that writes a gate rebuilds `chronology.html` at the end (every lane on
+  disk is embedded); `--no-html` skips it.
 
 **Never pick lanes from what is on disk.** A re-read of a revised chapter is the
 default lanes, plus only the `--lane` pairs the author names this time — not every
@@ -176,11 +178,18 @@ for m in <models>; do for p in <personas>; do d=reviews/capture-panel/$m/dag/$p;
 ## Step 3 — Run, one invocation per model
 
 ```
-tools/capture_dag.py --models <one-default-model> --to <N> [--paid-ok]
-tools/capture_dag.py --lane <model>:<persona> --to <N> [--paid-ok]   # author-named lane
+tools/reader_batch.py capture --to <N> [--fresh] [--paid-ok]           # default lanes
+tools/reader_batch.py capture --lane <model>:<persona> --to <N> [--paid-ok]   # author-named lane
 ```
 
-**Always invoke once per model, backgrounded, concurrently.** `main()` builds
+**Run batches through `tools/reader_batch.py capture`** (author ruling 2026-11-21).
+It takes the same lane flags as `capture_dag.py`, launches one `capture_dag.py
+--no-html` child per model in parallel, and rebuilds `chronology.html` **once**
+when every child has finished, even if some failed (exit 1 if any did; child logs
+under `/tmp/reader-batch/<stamp>/`). Call `capture_dag.py` directly only for a
+single model.
+
+**Why one child per model.** `main()` builds
 its lane list model-major and feeds it to a
 pool of **4 workers**. A single multi-model call therefore serializes the last
 model behind every lane of the earlier ones: in a 12-lane run the third model

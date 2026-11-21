@@ -82,14 +82,23 @@ Run each subscription reader on `[panel].models` (`gpt-*` on codex, `claude-*` o
 the headless clean lane) as its own invocation, concurrently:
 
 ```
-tools/cold_read_grounded.py --model <panel-model> --scope <slug>
+tools/reader_batch.py cold --scope <slug|volN> [--fresh] [--paid-ok]   # the default panel
+tools/reader_batch.py cold --models <id> ... --scope <slug> [--on-demand] [--paid-ok]
 ```
+
+`reader_batch.py cold` launches one `cold_read_grounded.py --no-html` child per
+model in parallel (OpenRouter ids get `--model <provider/model> --model-id <id>`
+from the config) and rebuilds `chronology.html` once at the end, even if some
+reads failed. A single reader can still be run directly:
+`tools/cold_read_grounded.py --model <panel-model> --scope <slug>`.
 
 **Default panel only** (author ruling 2026-11-21). The harness refuses an
 on-demand reader (`[panel].available`) without `--on-demand`, a retired one
 without `--allow-retired`, and any id not in the config. Pass `--on-demand` only
 when the author named that model in this request (e.g. opus for a revision read);
 never add readers because they hold an earlier read of the chapter.
+A run that writes a review rebuilds `chronology.html` at the end; `--no-html`
+skips it.
 
 The Claude harness spawns `claude -p` on subscription OAuth with
 `blind-reader-grounded` as the entire system prompt

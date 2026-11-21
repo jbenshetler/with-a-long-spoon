@@ -60,8 +60,8 @@ if printf '%s\n' "$staged" | grep -qE '^(meta/meta-plan-chronology\.md|scenes/.*
     fi
 fi
 
-# --- 2. chronology HTML regen (scenes, chronology doc, or cold reads) --------
-if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology\.md|reviews/cold-read/.*\.md)$'; then
+# --- 2. chronology HTML regen (scenes, chronology doc, cold reads, capture gates) --
+if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology\.md|reviews/cold-read/.*\.md|reviews/capture-panel/[^/]+/dag/.*\.md)$'; then
     if ! tools/chronology_html.py; then
         echo "" >&2
         echo "pre-commit: chronology_html.py failed to regenerate the chronology HTML." >&2

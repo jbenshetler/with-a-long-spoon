@@ -1070,6 +1070,9 @@ def main() -> None:
                          "when the author named that model for this run")
     ap.add_argument("--allow-retired", action="store_true",
                     help="permit a reader from [panel].retired (an explicit author request)")
+    ap.add_argument("--no-html", action="store_true",
+                    help="do not rebuild chronology.html after the run (default: rebuild "
+                         "whenever at least one review was written)")
     ap.add_argument("--paid-ok", action="store_true",
                     help="permit a paid lane (OpenRouter, or --auth api-key): the author has "
                          "authorized paid reads for THIS run")
@@ -1267,6 +1270,9 @@ def main() -> None:
                 except Exception as e:
                     failures.append(n)
                     print(f"[FAIL] ch{n:03d}: {e}", file=sys.stderr)
+        if not args.no_html and len(failures) < len(todo):
+            import chronology_rebuild
+            chronology_rebuild.rebuild(f"{len(todo) - len(failures)} new {model_id} read(s)")
         if failures:
             raise SystemExit(f"{len(failures)} headless read(s) failed: {failures}")
         return
@@ -1356,6 +1362,9 @@ def main() -> None:
     finally:
         for c in closes:
             c()
+        if not args.no_html and len(errors) < len(todo):
+            import chronology_rebuild
+            chronology_rebuild.rebuild(f"{len(todo) - len(errors)} new {model_id} read(s)")
     if errors:
         raise SystemExit(f"{len(errors)} read(s) failed: "
                          + ", ".join(f"ch{n:03d}" for n, _ in sorted(errors)))
