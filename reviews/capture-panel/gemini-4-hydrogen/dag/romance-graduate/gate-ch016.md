@@ -1,29 +1,28 @@
-*capture-dag-v3-grounded · gate ch016 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 75a2592cc24d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed bf39e42532e8 · 2026-11-20*
+*capture-dag-v3-grounded · gate ch016 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 28d4bc21d2ee · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed bf39e42532e8 · 2026-11-21*
 
 REACTION
 
-Oh, *no*. He was going to tell her.
+Oh, this is getting *dark* in the exact way I love.
 
-That’s the part that’s going to sit in my stomach until Friday. He had the whole thing worked out in his head—sitting across a table from Vee, laying it out plainly, *Randi and I have been together since August*, giving her the dignity of the truth so she could actually choose. And Randi knew it, felt him slowing down inside her, and used her body to steer him right off that track. *You get her to want it. And then you give it to her.* Watching him cave to that—watching him convince himself that keeping her in the dark is somehow *generous*, like a surprise gift—made me want to shake him.
+First of all, the sex scene over his half-packed suitcase—Randi showing up in nothing but an ivory slip and telling him *I don't want you sweet. Fuck me like you mean it*—was scorching. And Pace, who has been walking around his house for three days completely wrecked over Saturday with Vee, finally having somewhere to put all that pent-up want? The bed frame creaking for the first time? *Jesus.*
 
-And yet, god, the *tension* in this chapter. Randi showing up in an ivory slip with nothing underneath, demanding he fuck her hard like he’s leaving, and Pace *still* holding Saturday’s fitting back from her. He gave her nothing. Just *She said yes to the dress.*
+But the real gut-punch of this chapter is watching how effortlessly Randi steers him. The second Pace says *"I could just tell her"*—and you can actually see him picturing it, sitting across from Vee at a table on Friday and laying the whole thing out plainly like a decent man—Randi goes completely still under him. She doesn't argue. She just cools off, teases him with how *good* Vee would be about it, and then rolls her hips and tightens around him until he talks himself into keeping the secret. Watching him think he's keeping his head and making a rational choice (*you don't tell someone what a gift is*) while she’s literally using her body to close the door on Vee's right to know? That’s ruthless.
 
-Then there’s that moment afterward when Randi tries to bite his shoulder—not play, actually setting her teeth in—and Pace snaps *"Don't"* harder than he’s ever spoken to her. Because of *Friday*. He doesn't want a mark on him when he’s with Vee. Randi felt it, too, even if she smoothed it right over and left so he could sleep.
+And then the *bite*. God, that made my stomach drop. She stays on his chest afterward, gives him the closeness he missed last time, and then sets her teeth into his shoulder—trying to leave a mark on him before Friday. And Pace snaps *"Don't"* harder than he's ever spoken to her, because he's already protecting Friday with Vee.
 
-And that ending—him waking up at four-thirty in the dark, going into the sun porch just to lift the sheet and look at the burgundy silk, and texting *Dinner Friday?* from the truck. I’m furious at him for agreeing not to tell her, and I’m terrified for Vee, and I’m still hitting next chapter immediately.
+Randi’s *"She'll remember me"* with the Kentucky all the way up in it—she’s not just playing a game anymore, she wants to be permanent in Vee’s head. And Pace is flying to Chicago with a clean shoulder, texting *Dinner Friday?*, and Vee just said *Yes.* I am genuinely terrified for Friday.
 
 GATE 16 — Remembrance
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace letting Randi talk him out of telling Vee the truth—while he’s literally inside her—is a devastating turn, and him snapping *"Don't"* at Randi’s teeth to protect Friday night says everything about where his head actually is. I am furious with him and completely hooked.
+WHY: Watching Randi use her body to steer Pace away from telling Vee the truth—and watching Pace snap *"Don't"* when she tries to leave a mark on his shoulder before Friday—is psychologically ruthless and ridiculously hot.
 
 LEDGER
-~ F4.2 DEEPENED: Pace had the honest conversation ready in his head and let Randi talk him out of it, which means Friday is going to happen while Vee is still completely in the dark.
-~ F6.1 DEEPENED: Pace kept Saturday’s fitting to himself again, and he stopped Randi from biting his shoulder specifically because of Friday with Vee.
-~ S11.1 DEEPENED: Randi trying to leave a mark on his shoulder before he left—and using sex to steer him away from an honest dinner with Vee—shows how desperately she’s trying to keep control of this.
-+ GRUDGE: Pace, for letting Randi persuade him not to tell Vee the truth when he knew damn well she deserved it.
-+ WAITING: Friday night’s dinner—now that Pace has decided not to tell Vee about Randi, I’m waiting to see how far he’s actually willing to go.
+~ F4.2 DEEPENED: Pace explicitly decided not to tell Vee about Randi on Friday, locking the trap in place right before she said yes to dinner.
+~ F6.1 DEEPENED: Pace kept Saturday’s fitting completely to himself again and snapped at Randi to stop her from marking his shoulder before Friday.
+~ S11.1 DEEPENED: Randi trying to bite Pace's shoulder and whispering that Vee will remember *her* forever shows how territorial and desperate she’s getting.
++ WAITING: Friday dinner with Vee—and what happens now that Pace has officially decided to keep the truth from her.
