@@ -1,38 +1,45 @@
-*capture-dag-v3-grounded · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 28d4bc21d2ee · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed dc2c7c071d5f · 2026-11-21*
+*capture-dag-v3-grounded · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fead1de131d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed dc2c7c071d5f · 2026-11-21*
 
 REACTION
 
-I am sitting here with my stomach in my actual throat. My god. That was suffocating, brilliant, and completely terrifying.
+I feel like I just watched two people sign a death warrant while fucking on a pile of packed dress shirts.
 
-The absolute *delusion* of Pace. I want to shake this man until his teeth rattle. He sits there congratulating himself on his deep, benevolent wisdom—convincing himself that keeping the truth from Vee is an act of generosity! *“You did not tell someone what a gift was... If Vee came to want Randi, it would be the best thing he had ever given either of them.”* He is literally framing this predatory, manipulative trap as a *gift* he is bestowing upon these two women, when in reality he just wants to sit in the corner of his own bedroom and watch Vee come for Randi’s mouth. The arrogance of thinking you can stage-manage someone else’s sexual awakening without their consent and call it *courtly* makes me want to scream.
+The absolute, terrifying hubris of these two. I am sick to my stomach, and I couldn't look away for a single syllable.
 
-And Randi! God, Randi is unraveling so fast and so violently it breaks my heart. Showing up with nothing under that ivory slip, demanding he fuck her hard and unpolished, using his body like a blunt instrument just to feel something solid. And that argument on the bed! When Pace said, *"I could just tell her,"* and Randi went completely, terrifyingly still? She knew instantly that if Pace told Vee the truth, the whole game would be dead in the water. Vee would walk away. So Randi expertly played him—stroking his ego, weaponizing her hips, convincing him that *seducing* Vee into wanting it first is the "kinder" path.
+Pace thinks he is so steady, so pure, so mathematically exact. He sits there with his shirts, rolling and unrolling them like a man trying to physically contain a fever, completely haunted by Saturday afternoon—by her breast on his cheek, by her soaked satin, by the fact that he looked up at her face and saw her shame break open into light. And then Randi walks in, and instead of telling her the truth, what does he do? *He feeds on Vee to fuck Randi.* He literally takes the heat and the want he’s been pacing his house with for three days and pours it directly into his girlfriend while withholding every single scrap of Vee’s actual interiority. *"It was not his to hand across."* He tells himself he's being noble! He tells himself he's protecting Vee by keeping Saturday sacred! Meanwhile, he's driving into Randi standing up, using Vee's ghost as fuel.
 
-And then: *"She'll be eighty years old and she'll remember the first one. Me. She'll remember me."*
-With Kentucky bleeding all the way through the vowel. That wasn't smug conquest; that was an agonizing, desperate plea to leave a permanent mark on someone before she disappears behind her sorority mask forever. Randi is in so deep she can't breathe, and she's lying about Sunday, too—telling Pace it was just "girl things" while keeping the fire-lane kiss entirely to herself!
+And then Randi. Jesus Christ, Randi.
+*"How are you going to tell her about us?"*
+That whole sequence made my blood run cold. When Pace says, *"I could just tell her,"* you can feel the entire architecture of Randi's survival shudder. She went completely still. Because if Pace sits Vee down and tells her plainly, the game is over, the fantasy is dead, and Vee either walks away or has to deal with them as two real, messy, terrifying people.
 
-AND THE BITE.
-*The bite on his shoulder.*
-Holy fucking shit. She bit him, his hand went to her jaw like a vice, and he snapped: *"Don't."*
-Because of Friday. *Because he couldn't have her marks on him when he undresses for Vee on Friday.*
-Randi caught it instantly. The sheer, sickening silence in that room when she realized he was saving his bare skin for another woman... God, it made the hair on my arms stand up. She dressed and left immediately, wrapping that bright, polished "I want them to see you" armor around her bleeding ribs.
+So what does Randi do? She weaponizes her hips. She uses her body to physically talk him out of honesty: *"Or you get her to want it. And then you give it to her."* She paints the picture of Vee sitting up straight, minding her manners, thinking about it all the way home—and Pace, arrogant, brilliant, blind Pace, swallows the bait whole! He actually convinces himself that keeping Vee in the dark is an act of *generosity*. *"You did not tell someone what a gift was... If Vee came to want Randi, it would be the best thing he had ever given either of them."*
 
-Friday is coming. The burgundy silk is waiting under a sheet. He texted her from the truck and she said *yes*. I feel like I'm watching three people walk backward toward the edge of a cliff in the dark, and every single one of them thinks they're the one in control.
+THE DELUSION. The sheer, breathtaking, predatory delusion of telling yourself you're doing a girl a favor by setting a trap so sweet she doesn't even know she's in it!
+
+And Randi's Kentucky accent bleeding out when she says: *"Me. She'll remember me."* That broke my heart and terrified me all at once. Randi is so desperate to be indelible, so desperate to leave a mark on this lavish, unmanaged girl that will outlast her whole porcelain life.
+
+AND THEN THE BITE.
+Holy shit. The bite on the shoulder.
+Randi sinking her teeth in, not in play, but trying to mark him—trying to leave a bruise on his skin right before his Friday with Vee—and Pace shoving her off with that cold, hard *"Don't."* The unspoken word hanging between them was deafening: *Friday.* He wouldn't let Randi leave a mark on him because he didn't want Vee to see it when he takes his shirt off. And Randi *knew*. You could see it in her face when she folded right back into that bright, breezy sorority voice: *"You have a plane."*
+
+He checked his shoulder in the mirror. He checked the burgundy silk under the sheet. And then he sat in his cold truck in the dark and texted her: *Dinner Friday?*
+
+They are not going to survive this. None of them are. Friday is going to be a bloodbath disguised as a dream date.
 
 GATE 16 — Remembrance
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological collision between Pace's self-justifying arrogance and Randi's desperate, territorial maneuvering—culminating in the aborted bite on his shoulder—was an absolute masterclass in tension.
+WHY: The psychological collusion between Randi and Pace—talking each other into keeping Vee in the dark under the guise of giving her a "gift"—was chilling, filthy, and completely masterclass.
 
 LEDGER
-+ SUSPICION: Randi lied about Sunday lunch because she is keeping the kiss on Vee's mouth a secret from Pace, just like Pace kept the truck secret from her.
-+ FEAR: Pace is going to sleep with Vee on Friday under the false pretense of a private, exclusive romance while secretly grooming her for the threesome.
-~ [S1.3] DEEPENED: Randi's desperation to be Vee's unforgettable "first" shows how completely this game has become her only outlet for real, unarmored feeling.
-~ [F5.1] DEEPENED: Pace officially decided *not* to tell Vee the truth before bringing her to bed, ensuring her inevitable heartbreak will be total devastation.
-~ [F5.2] DEEPENED: Randi trying to bite his shoulder and getting shoved off because of "Friday" is pure, unadulterated territorial agony.
-~ [F11.1] DEEPENED: Randi is spiraling out of control—driving over bare under her slip, lying by omission about the fire-lane kiss, and desperately fighting to steer the trap.
-~ [W14.3] SHIFTED: The dress is cut and pinned under a sheet, but now everything is hurtling toward Friday dinner—the night he plans to take Vee to bed.
++ FEAR: Pace and Randi's rationalization that keeping the truth from Vee is "a gift" is going to make the eventual fallout catastrophic and completely unforgivable.
++ FEAR: Randi is becoming dangerously possessive of being Vee's "first," and her obsession with marking both Pace and Vee is spiraling out of control.
+~ [F5.1] DEEPENED: Pace officially decided not to tell Vee about Randi before sleeping with her, ensuring Vee falls completely in love under entirely false pretenses.
+~ [F5.2] DEEPENED: Randi tried to physically bite Pace's shoulder to mark him before Friday; her jealousy is clawing its way to the surface even as she orchestrates the trap.
+~ [L1.2] SHIFTED: Pace's patience has fully curdled into a terrifying, self-justifying god complex—concealing the truth from Vee because he thinks he's orchestrating a masterpiece for her benefit.
+~ [S6.1] CONFIRMED: Pace completely compartmentalized Saturday's fitting, flat-out refusing to share Vee's vulnerability with Randi while using the sexual heat of it to fuck her.
+~ [W14.3] SHIFTED: Now reading straight toward Friday night dinner—what Pace intends to do when he gets Vee alone after Chicago.

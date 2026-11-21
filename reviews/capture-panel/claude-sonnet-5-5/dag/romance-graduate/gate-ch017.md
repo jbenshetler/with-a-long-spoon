@@ -1,34 +1,36 @@
-*capture-dag-v3-grounded · gate ch017 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a98377168b15 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed 01d2f12cf778 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch017 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 32d615227d2d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 1ce553f16af6 · 2026-11-21*
 
 REACTION
 
-The payoff arrived, and it's good. It also did something I didn't expect: Randi and the plan aren't in this chapter at all. This is Vee and Pace, with no one else in the room, and it's the first time they've had sex.
+Okay. The sex is the thing I've been waiting for since chapter 1, and it's real. But I'm reading it with a chill, and I think that's the book working.
 
-The build is what I liked most. The week of nothing, the flannel with the smell fading so she has to chase it, "floozie" with her nipples tightening a beat behind it. The green set bought without trying it on, the frosted plum toenails hidden in the flats. She's dressing for a first time and lying to the mirror about it. "Famished," and then hearing it a beat after he does, made me grin. Then she kisses him and takes the apron strap and asks for the bedroom herself. After the shut door in ch13, that is the answer. She asks, and he doesn't hold the door.
+The first thing I noticed is the POV swap and the register. After sixteen chapters of Vee's head mostly in free indirect, this is clipped and summarized. "After the fitting the week went quiet." The mall, the green set, the plum polish: it's a lot of shopping inventory, and I felt the old catalog drag. But the plum polish "hidden inside" the flats is a good small thing. It rhymes with Randi's blue toenails inside the heels in chapter 1. She's dressing like Randi without knowing it.
 
-The heat is real, and the line I'll keep is that shame and heat "ran on the same wire." Nobody solves her mother's voice. She just burns through it. The "Would you be bothered if I was too hard?" beat is perfect. It's the fitting again, her body offering proof and his gladness taking it as the good thing. The oral is explicit and specific, and her hips go off without her. Then the watching: nowhere to put her face, and he sees all of it. "It was the first time that had been true." I felt that, and I also felt the dread. I know exactly what he's been to her, and I know whose bed this also is.
+The shame and heat running "on the same wire" is the best sentence in the chapter, and the best thing in the scene is the question "Would you be bothered if I was too hard?" He asks even now, and the asking is still the charge. Her coming standing up with the shame running through it and never closing her is a real payoff for the whole measuring chapter. I felt it. "It was the first time that had been true." That's earned.
 
-The ending is a very odd little move, and I'm still turning it over. She folds the soaked panties in thirds, the spot centered, drops the sheet, and says "Trade." It's the book's boldest gesture, her owning the evidence she was ashamed of, and it works as a dare and a gift. His private shoulders, the sheet left on the floor and neither of them looking: lovely. But the "Trade" has no explanation. Trade for what? His shirt? I've decided it's about the flannel and the exchange of his smell for hers, and I like that it's unexplained.
+Then the dread. Pace knows Randi's plan, knows he's keeping her in the dark, and he's inside her, watching her face the whole time. "He was looking at her... reading her." I can't stop seeing Randi's "She'll remember me" under all of it. Vee's yes is as free as it's ever been, and it's inside a house he warmed. And "Famished", which she hears a beat late, is the book winking at the apple and the bench. I noticed it, and I'm not sure I wanted it pointed.
 
-What's missing is the complication. The scene is so clean that I kept waiting for the bench or Randi's shadow, and a week ago I'd have said I needed it. The bench is in that house and she walked right past the closed door and into the bed beside it. Maybe not beside it. I also noticed the scar on his inner thigh. That's a new thing, and Daphne is still unspent.
+The ending is the best bit: the folded panties, the thirds, the wet spot centered, "Trade." She hands him her shame as a gift, on purpose, naked on his kitchen floor with the sheet dropped. That's Vee choosing again. And "something in his shoulders was private", oh, he's got a scar and a secret and Randi's bite-mark that wasn't. I'm also tickled that Randi wasn't there and I still felt her in every room. The shirt "trade" is neat too, but the shirt he sends back isn't coming.
 
-Small grumbles: the clothing and decision inventory at the start runs long, and the narration still tells me what the shame is doing. Mostly I'm very happy and very uneasy.
+Complaints: the opening summary is thin, the anatomical description of him leans catalog, and "That was the worst it had" is the narration explaining again. But this is hot, and the hit lands.
 
-GATE 16 — Famished
+GATE 17 — Famished
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." (the long dressing-and-shopping prelude)
-WHY: The first time is hot, specific and emotionally exact. Shame and want run on one wire, and "Trade" is a strange, bold button. I'm happy for her and dreading what Randi does when she hears.
+ALMOST-STOPPED: "She bought it without trying it on, for the color. The matching bra hung beside it, and it would be silly, she thought, to take the one and leave the other" (the shopping summary at the open)
+WHY: The first night finally lands, with shame and heat on one wire and the folded panties as her own bold choice. It's loaded with what I know that she doesn't, and I need Randi back in the room.
 
 LEDGER
-+ LOVE: "It was the first time that had been true." Vee burning through the shame instead of being closed by it, with his eyes on her face the whole time.
-+ LOVE: The folded panties and "Trade," her owning the evidence and handing it to him, and the sheet left on the floor.
-+ SUSPICION: The scar high on Pace's inner thigh is a new detail and a backstory I haven't been given, maybe tied to Daphne.
-+ WAITING: Randi's reaction when she learns Pace and Vee have slept together, and whether the bedroom door and the bench ever come up.
-+ FEAR: Pace now has Vee's body and Randi's both, and the two stories can't stay in separate houses much longer.
-~ W10.4 ANSWERED: Vee and Pace finally fell into bed, and she asked for it.
-~ W14.3 ANSWERED: The pins came out and the bedroom door opened, and she walked through it herself.
-~ S14.4 DISPROVED: He wasn't holding the bedroom back for good. He let her ask and then went.
++ LOVE: "Trade." Vee folding the wet panties in thirds and handing him her shame, sheet on the floor, on her own terms.
++ LOVE: "Would you be bothered if I was too hard?" He still asks, even mid-undress.
++ SUSPICION: The scar high on his inner thigh and the pink mark by his ear and on his side are a past I haven't been told. It might be Daphne.
++ FEAR: Vee is now fully in Pace's bed while Randi's plan runs underneath. The reveal will cost more now.
++ GRUDGE: The chapter opens in thin summary and shopping inventory, and "Famished" is pointed at me.
+~ W16.4 ANSWERED: Friday dinner happened, and became the first night.
+~ W10.4 ANSWERED: They fell into bed, and the shame never closed her.
+~ W14.3 RESOLVED: The pins came out, and the bedroom door finally opened.
+~ L10.2 DEEPENED: His care in the bedroom echoes the cherry pit and the dress.
+~ S10.5 DEEPENED: He is wholly present with Vee, and she doesn't know about Randi.

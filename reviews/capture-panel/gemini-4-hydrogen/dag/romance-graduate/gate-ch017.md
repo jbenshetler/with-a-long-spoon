@@ -1,31 +1,27 @@
-*capture-dag-v3-grounded · gate ch017 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8d91c40309aa · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch015 · history ch001..ch015 · ledger no seed bf39e42532e8 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch017 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 32d615227d2d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 965211494b83 · 2026-11-21*
 
 REACTION
 
-Oh, *thank god*. After sixteen chapters of slow, agonizingly good buildup, that was everything I wanted their first time to be—and somehow still managed to surprise me.
+I am completely wrecked. That was one of the hottest, most emotionally earned first-time scenes I have ever read, and I am simultaneously furious at Pace for what he’s still hiding from her.
 
-First of all, the sheer *naturalness* of how it started. No grand speech, no dramatic lighting, just him in a canvas apron over a henley with *Dreams* playing low and garlic on the cutting board, asking if she’s hungry and her answering *"Famished"* before she even realizes what she’s saying. And when she pulls him toward the bedroom and he’s already about to step back and be careful, she doesn’t let him. She’s done waiting.
+First of all, *Vee*. Watching her buy the green satin set, paint her toenails frosted plum to match the burgundy silk, and then walk into his kitchen and immediately hijack his dinner plans by pulling his apron strap and asking to see his bedroom? I loved every second of it. She wasn't passive, she wasn't waiting to be seduced—she was *famished*, and she said it out loud.
 
-And the sex itself—*Jesus*. This is what I mean when I say I want explicitness that actually *means* something. Him going to his knees, peeling off the green satin, seeing the crystal strings and asking *"Would you be bothered if I was too hard?"* like it’s a real question and a gift at the same time? And then making her come standing up, catching her weight when her knees give out, before they even touch the bed? My heart was in my throat.
+And the sex itself? *Jesus.* Pace kneeling in front of her, peeling the satin away, seeing the proof of how much she wanted him, and asking *"Would you be bothered if I was too hard?"*—it’s such a specific, devastating callback to the fitting. He doesn't just tolerate her desire; he’s *glad* of it. Watching him hold her up while she comes standing against his mouth, and then refusing to let her hide her face in the pillow while he’s inside her, just looking right at her until her mother’s voice (*floozie*) finally loses its teeth? That’s the exact kind of intimacy I’ve been starving for.
 
-What really got me, though, was how the shame worked. Her mother’s voice—*floozie*—still showed up, right on schedule, and instead of shutting her down, it just ran on the same wire as the heat. She didn't have to magically cure herself of twenty-one years of conditioning to have good sex; she just burned right through it, with his eyes on her face the whole time so she couldn't hide.
+And then the aftermath. Eating fra diavolo in his kitchen wrapped in a bedsheet, and then going back down the hall to fold her green satin panties—wet spot centered—and dropping the sheet just to hand them to him and say *"Trade"* for the flannel shirt? My chest literally ached.
 
-Also, I’m filing away those details on his body—the large scar high on the inside of his thigh, the rough band of skin across his shoulders, the birthmark on his ribs matching the one by his ear. He’s not some airbrushed romance-cover billionaire; he’s a real, solid man with a history he hasn't told her yet.
+Which is why *"Something in his shoulders was private and she let it be private"* hit me like a brick. Because *we* know what’s in that house. We know Randi was in that exact bed three nights ago, and we know Pace actively chose *not* to tell Vee about her before tonight. Vee just handed him everything, trusting him completely, and he’s still keeping the biggest secret in the room.
 
-And that ending. *God*, that ending. Eating fra diavolo in comfortable, sweaty silence, and then her going back to the bedroom, letting the sheet drop straight to the floor in the kitchen so she can fold her soaked green panties with the spot centered, and handing them to him: *"Trade."* For the flannel shirt. It’s filthy and tender and completely hers.
-
-The only thing making my stomach twist a little is the quiet *behind* all of this. It’s Friday night. Randi kissed Vee on the mouth at the curb on Sunday, and we haven't seen her once this chapter—and Pace is standing there in his kitchen holding Vee’s wet panties with something private in his shoulders. This isn't a game anymore. Not even close.
-
-GATE 16 — Famished
+GATE 17 — Famished
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The exact payoff I’ve been reading toward for sixteen chapters—explicit, unhurried, and emotionally devastating. Watching Vee burn right through her shame and end the night by dropping the sheet in his kitchen to hand him her folded panties (*"Trade"*) was unforgettable.
+WHY: Peak heat and profound emotional intimacy, with Vee taking what she wants and Pace dismantling a lifetime of her shame just by looking at her. The *"Trade"* at the end is devastating, especially knowing he’s still hiding Randi from her.
 
 LEDGER
-+ SUSPICION: Pace’s body has a history—that large scar on his inner thigh and the rough band across his shoulders—that Vee hasn't asked about yet.
-~ F4.2 DEEPENED: Vee just gave herself to Pace completely, body and soul, and traded him her wet satin panties for his flannel shirt; when the truth about how this started comes out, it’s going to be catastrophic.
-~ L1.1 DEEPENED: The quiet domesticity afterward—eating fra diavolo in a bedsheet in comfortable silence—is just as lethal as the sex itself.
+~ W16.1 ANSWERED: Friday happened—they slept together, it was everything, and Pace still hasn't told her about Randi.
+~ F4.2 DEEPENED: Vee just gave him her total trust and her folded panties as a keepsake, completely unaware that she's still part of a secret she didn't consent to.
++ WAITING: For Randi's reaction to Friday night—and for what happens if she finds those green satin panties.

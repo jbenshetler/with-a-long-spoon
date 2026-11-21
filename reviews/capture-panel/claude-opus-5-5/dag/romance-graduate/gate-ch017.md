@@ -1,46 +1,48 @@
-*capture-dag-v3-grounded · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a98377168b15 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed b5eaadd2c998 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 32d615227d2d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed 369b8ae5a0b7 · 2026-11-21*
 
 ## REACTION
 
-FINALLY. Sixteen chapters in, she says "Famished," and the book does exactly what it's been promising since the bench.
+Okay. They had sex, and it was worth seventeen chapters.
 
-First thing: no fade. Nobody closes a door. It's explicit, slow, and specific, and the explicitness is *about her*. The floozie wire is the whole engine. I said back in the truck that her mother's voice had turned into the turn-on, and here the book commits to it all the way: "there was no seam, they ran on the same wire, and she had stopped looking for one." Okay, that line explains itself a little. But it's the thesis of her entire arc, so I'll let it have one sentence. What got me is that the shame never goes away. She's not cured. It runs "the whole length of it and never closed her." That's grown-up. Most books would have him love the shame right out of her in one night, and this one lets her burn *through* it with it still on. "It was the first time that had been true." That one I didn't need, but fine.
+What got me is that the shame never stopped. In other books the heroine gets fucked well and her hang-ups go away, and I've read that a hundred times. Here *floozie* runs through the whole thing, in her mother's exact flat voice, and Vee burns *through* it. "The shame ran the whole length of it and never closed her." That's what this whole book has been building toward with her body, since the cardigan buttoned to the collarbone in chapter 4. Her mother's voice is still talking. It just isn't in charge anymore. I believed it more because the book didn't pretend the voice went quiet.
 
-The undressing undid me. This is the fitting replayed for real: him on his knees, her standing, his palm pressing the wet satin back against her before he's bared anything. Then the strings, and her hand going to cover herself and stopping. That's the shut eyes on the riser, except this time she doesn't need the smile to save her. "Would you be bothered if I was too hard?" is a slightly awkward line, honestly. It reads a bit like the author working out how to make him ask. But I loved what it does: he's offering his own embarrassing evidence for hers, two bodies giving themselves away at once. And later, "since he'd asked her a question on his knees and been told no." Ha. The one no in the whole book is a yes.
+The scene itself is explicit, unhurried and specific, and nobody shut the door on me. He goes down to the floor and it's the sun porch again: his hands at her waist, her standing, the wet satin pressed back against her before he's bared anything. Then the strings, "obvious and excessive," and she *sees him see them*. That's the fitting with the payoff it was holding back. "Would you be bothered if I was too hard?" made me laugh and then made me squirm. He asks permission while being honest about his body, and she has to say "no" in a way that's actually true. I like that the book noticed she had to *make* it true. Then he watches her face the whole time in the light. She turns into the pillow, he follows her, and the being-watched feeds the heat. That's the truck, the fitting and the mother's voice all in one bed. And "the careful thing in him let go." Four days ago Randi told him "hard, like you're leaving," and he gave her that. Tonight Vee gets it without asking for it. I noticed. I don't think he did.
 
-The thing I'd text about, though, is the contrast with chapter 11. Randi walked in, said "How was it?", rode him, said "No thanks" to food, and left. Vee walks in, hands back the glass, says "Famished," gets fucked, and then sits at his table in a sheet and *eats until she's full*. Same house, same man cooking, a girl who stays versus a girl who goes. The feeding thread I've been tracking since "let's go feed you" finally came back around, and it lands on the wrong woman. Or the right one. And the music keeps changing key: Steely Dan for Randi, Blondie the night she left, Fleetwood Mac now. "Dreams." Okay, book.
+Then there's "Trade." She folds her soaked green panties into thirds with the spot centered, drops the sheet, finishes the fold naked, and hands them over in exchange for the flannel. I yelled. She's handing him the exact evidence she's been dying of shame over since the box, on purpose, as a gift. That's Vee choosing who sees her, all the way. It's hot, it's funny, and it's grown-up.
 
-Then "Trade." She folds the panties with the spot centered, the sheet drops, and she doesn't pick it up. She's standing naked in his kitchen handing him the evidence she'd been dying over two Saturdays ago, *folded*. That's the most confident thing anybody has done in this book, and it's Vee. The girl in the cardigan. I made a noise.
+And my stomach sank on that very beat. Sir, what are you going to do with those? Randi said "Got herself wet telling me" on Tuesday. If those panties come anywhere near the couch and the word *Tell*, I'm done with him. "Something in his shoulders was private." I hope it's private. I don't trust it to stay private.
 
-And then the dread. "Something in his shoulders was private." Sir. What are you going to do with those? Because I know where that couch is, and I know there's a woman who says *Tell*. If those panties end up anywhere near Randi I will be sick, and I'm sure the book knows I'm thinking it. Also: a large scar, high on the inside of his thigh, which the book drops in and leaves alone. Daphne? Parents? Powerlifting? I'm noting it.
+The thing I can't get past is that she didn't know. Her first time with him, the "for their first time" she dressed for, the frosted plum hidden in the flats, and Randi was in that bed Tuesday on top of his shirts. The honest version of what he'd say to her existed, he drafted it, and he chose this instead. Every yes Vee gave tonight was hers, and that's the problem. The jacket line is starting to feel like a threat.
 
-Gripes. The "short story" line to the mirror is the author being cute through Vee's mouth. The "hands that had built the platform and turned the hem and held her ankle" list is the book reminding me of its own motifs again. "The evening had used her well" is a little smug. And Randi is completely gone. She kissed Vee on the mouth a week ago and nobody has had one thought about it since. Vee doesn't think about her once during the sex. I find that weirdly loud. Pace was in Chicago, Randi has no POV here, and I want to know where she spent that week. The frosted plum toenails made me think of Randi's blue ones, and I don't think that's an accident.
+Small antennae. She went into the bedroom and saw a bed and nothing decorative. No table. So where's the bench? The den? Did he *move* it? Also the scar high on his inner thigh, the pink uneven patch from his ribs over his hip "a match for the one by his ear," and the rough band across his shoulders. I'd been calling the ear thing a birthmark. Now I'm thinking burns, and I'm thinking about that "small closing" at *parents*.
 
-1 a.m. text: "THEY FINALLY DID IT and it was his mouth on her standing up first and her mom's voice going FLOOZIE the entire time and she just. kept going. then she ate pasta in a sheet and handed him her folded wet panties and said 'trade' with the sheet on the floor. the gf would have left by now. I'm so scared of what he does with those panties"
+My gripes. The opening is another week recap, and she's re-chasing the flannel smell we've already had. The mall and toenails section is mostly charged, and green next to Randi's blue lacquer is a nice rhyme, but "Like a short story, she told the mirror, long enough to cover the subject" is the author winking at me. *Floozie* gets tagged maybe six times. The loop is the point, but by the fourth I could feel the book making sure I'd caught it. "No seam, they ran on the same wire" explains the thing the scene is already doing. "It was the first time that had been true" is the thesis again, after I'd just lived it. The hands-that-built-the-platform-and-turned-the-hem list is a recap in the middle of sex. And the post-sex body inventory of the shoulders, the ass and the thighs edges back toward a book boyfriend. Still, that's the least it's bothered me in a hot chapter.
+
+1 a.m. text: "THEY DID IT. her mom's voice said floozie the WHOLE time and she came through it anyway, twice. then she folded her soaked panties in thirds, dropped the sheet, and handed them to him naked and said 'TRADE' (for his shirt). and I'm sick because he was in bed with the gf four days ago and never told her"
 
 ## GATE
 
-GATE 16 — Famished
+GATE 17 — Famished
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 8
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." That's the author winking at me through Vee during the throat-clearing dressing section, right before the payoff.
-WHY: This is the scene the whole book has been building toward, and it delivered explicit heat with her shame wired straight into it, unresolved and honest. The contrast with Randi's night (stays, eats, "Trade") is devastating without being pointed at. I'm reading on because those folded panties are a loaded gun and Randi has gone silent.
+ALMOST-STOPPED: "Like a short story, she told the mirror, long enough to cover the subject and short enough to keep you reading." The book winked at me while I was still waiting for the door to open.
+WHY: This is the payoff I've been reading toward since the cardigan. It's explicit, and her shame is the engine of the scene, not a thing for him to fix. "Trade" is a perfect last beat. I'm turning the page a notch less frantically because the big question finally got answered, and now I'm reading for dread: what he does with those panties, and when Randi finds out.
 
 ## LEDGER
-
-+ FEAR: Pace takes the folded panties, or the story of them, to Randi's couch, and Vee's boldest gift becomes their foreplay
-+ WAITING: The scar high on the inside of his thigh. What made it, and whether it's tied to Daphne or his parents
-+ LOVE: "Trade." The sheet on the floor, the panties folded with the spot centered, and neither of them looking at the sheet
-+ LOVE: Vee eating until she's full at his table in a sheet, the girl who stays, where Randi said "No thanks" and left
-+ GRUDGE: Randi has gone fully silent after kissing Vee on the mouth. A whole week, and not one thought about her from Vee
-+ SUSPICION: Vee's green set and plum toenails are an unconscious echo of Randi (green scent, painted toes), and Randi's in her head more than she admits
-~ W14.5 RESOLVED: He stopped governing it. "Keep still" turned into him not holding back
-~ L10.1 DEEPENED: The floozie voice ran through the whole act on the same wire as the heat, and she burned through it without it closing her
-~ W4.5 RESOLVED: Naked in his kitchen, sheet on the floor, handing over the evidence. Her body is all the way out from under the cardigan
-~ W3.7 DEEPENED: "Famished," and she eats until full. The feeding thread finally lands on Vee, in exactly the scene Randi walked out of
-~ F9.5 SHIFTED: She went into the bedroom and there was no bench, only a plain white bed. The bench is still out there somewhere in that house
-~ G1.7 DEEPENED: "It was the first time that had been true" and the motif-recap list of his hands, still telling me what I just felt
-~ W15.6 DEEPENED: Randi's want after the kiss is still completely offstage
++ FEAR: The folded green panties end up in Randi's hands, or in a *Tell* on the couch, and Vee's gift turns into their foreplay
++ LOVE: "Trade." She drops the sheet and finishes the fold anyway, giving him her shame on purpose
++ LOVE: The shame ran the whole way through and never closed her. Her mother's voice is still there and has lost its power
++ SUSPICION: The scar on his thigh and the pink patches on his side and by his ear are burns, not birthmarks, and they connect to the closing at "parents"
++ SUSPICION: The bench wasn't in the bedroom. He moved it before she came, and that's a kind of lie too
++ GRUDGE: *Floozie* is tagged so often I could feel the book checking that I'd caught the loop, and "the first time that had been true" spells out the scene's thesis
++ WAITING: What Pace tells Randi about Friday, and whether "the careful thing let go" shows up in his face when she says *Tell*
+~ F16.1 CONFIRMED: He slept with her Friday without telling her. Her yes was completely hers and built on a hole
+~ W16.6 ANSWERED: Friday was dinner, and "how far" was all the way
+~ S16.2 FADED: His shoulder was clean, so there was no mark for Vee to find
+~ W4.5 RESOLVED: Her body came all the way out, in the light, with his eyes on her face, and she let herself be loud
+~ L10.1 DEEPENED: *Floozie* is wired straight into the heat now, and she's stopped looking for the seam
+~ F3.3 DEEPENED: Her first time with him, the frosted plum and the outfit she chose, all happened inside the game she doesn't know about
+~ F9.5 SHIFTED: She was in the bedroom and there was no bench, just a white bed. The danger is in what he didn't say, not in the furniture

@@ -1,24 +1,22 @@
-*capture-dag-v3-grounded · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 28d4bc21d2ee · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed dfe32e0f2895 · 2026-11-21*
+*capture-dag-v3-grounded · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fead1de131d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed dfe32e0f2895 · 2026-11-21*
 
 ## REACTION
 
-The bench chapter mirrored, and it's devastating.
+Pace's head, finally, and I've wanted it since he was "somewhere in himself" in the lobby in chapter 8. The first thing I learned is that he's a wreck. He spent twenty minutes packing a bag that takes five and kept rerolling shirts that were already rolled. The fifty-minute talk he could give off a napkin isn't the problem. It's Saturday, it's her eyes, and "That was the one he could not put down." I didn't think I'd like an opening built on a man packing. It turned out to be the most charged throat-clearing in the book, because the restlessness is all in his hands.
 
-I'm back in Pace's head for the first time since chapter 11, and his head is full of Vee. He re-rolls the same shirt over and over, "shirts that were rolled," because his hands have nothing else to do with Saturday. Yes, it's the third time I've been walked back through the fitting. This time I didn't mind, because I finally got the one piece I was missing: "he was not a fool. He knew what it was." Of course he saw the satin. He knelt there knowing, and he smiled up at her anyway. That makes chapter 14 better in hindsight.
+The chair by the door is back, and again there's no bag on it. I knew she'd leave before she knew.
 
-The thing I was dreading didn't happen. She says "Tell me," and he has the box, the riser, the girl on it, and he KEEPS IT. "It was not his to hand across." Then Randi just takes it anyway: "Got herself wet telling me, too." "You can't know that." "I was there. I saw her face." She didn't hear it. She shut that door herself with "You don't have to tell me." She's claiming a confession she refused to take, and now she's bragging about it in his bed. And "Sunday. Lunch. Girl things." Each of them is keeping their Vee from the other now. The "for us" is falling apart from both sides, and neither of them can see it.
+The sex was hot, and it was hot in a new way. "I don't want you sweet." "Like you're leaving." The bed creaks on the frame he built, which it had never done. Randi, who portions everything, drove out with nothing on under the slip so she could get fucked unpolished. Then she says "Tell me," and he KEEPS IT. "It was not his to hand across." Two chapters ago I was ready to throw my Kindle if he sold the satin. He didn't. And she has it anyway: "Got herself wet telling me, too. I was there. I saw her face." I cackled, and then my stomach turned, because she's right. Then she files it as "Sunday. Lunch. Girl things," and she doesn't tell him about the kiss in the fire lane. They're both keeping Vee from each other now. "For us" has split into two private Vees.
 
-Then: "How are you going to tell her about us?" I sat up. Pace has a plan to tell Vee, a decent one, plain and in order, said over tea. Randi takes it apart so tenderly. "She'll think about it very carefully. All the way home." She's right, and that's the horrible part. Vee *would* thank him and go cold. So the choice becomes "get her to want it, and then give it to her," and he talks himself into it while telling himself he isn't being talked round by her hips. "You did not tell someone what a gift was." That's the jacket's line happening right in front of me: every yes freely given, and that's the problem. The most decent man in the book just chose not to tell her, and I followed his logic the whole way and still felt sick.
+Then the knife: "How are you going to tell her about us?" She says it "as if she were asking where he'd parked," with her hand flat on his chest. And the honest version is RIGHT THERE. *We talked about you before you knew either of us. We'd like you to know that, and then ask you something.* The book let me hear him say it well, and then let me watch Randi talk him out of it with her hips. She goes still at *dinner* and comes alive at *give it to her*. He thinks he'll keep his head, and he doesn't. "You did not tell someone what a gift was." Sir. That's the jacket line, live: "Every yes was freely given. That was the problem." He's built himself a beautiful rationalization for consent that rests on leaving something out. The scary part is that I half believe him, because Randi's "She'll think about it very carefully. All the way home" is also true. Both of them are right, and that's why it's going to be a disaster.
 
-"Me." With Kentucky all the way up in it. She wants to be the one Vee remembers at eighty. And Pace "took it for appetite." Again. Sir. Then his fantasy of Vee under Randi's mouth, and the sound "she would make for that, which would be no sound she made for him," and "something else in his mouth too, under the name, that he did not say." That's Vee's name, and I'd bet my Kindle again. It was very hot, and it was also the first time the threesome felt real to me instead of like a plot engine.
+"Me. She'll remember me," with Kentucky all the way up in it. That's the realest thing Randi has said in sixteen chapters, and he takes it for appetite. Again. Behind his eyes, mid-thrust, he's picturing Randi's dark head between Vee's thighs, and the sound Vee would make for that and never for him. "He wanted to be in the room." That's the hottest line in the chapter and it isn't even the sex in the room. It's a fantasy with a *voice* in it. And "Friday he meant to find out how far." So Friday dinner is the night. The text at the end, *Dinner Friday?*, sent face-down in a cold truck, read to me like a loaded gun.
 
-Then the bite. "It did not stay play." She's marking him before Friday. Then "Don't," harder than anything he's ever said to her, and his "Friday" arrives before he thinks it. He's protecting Vee from a bruise his girlfriend put there. Then she kisses the spot twice and says "I wasn't thinking." She was thinking. It's the bottle cap turned outward: she hurts what she can't hold onto. And this time she stays after, cheek on his heart, and the shine at the corner of her eye made me ache for her even while I was scared of her.
+Then the bite. I went cold. It's play, then her jaw sets, and he says "Don't," harder than he's ever said anything to her. "Friday. He had not needed to think it." She was marking him for Vee to find. Thumbnail, bottle cap, and now teeth, and this time the pressure points outward. In the morning he checks his shoulder in the mirror longer than he needs to. Then she stays, she lies on his chest, she gives back the part she skipped last time, and maybe she's cried a little. That's the most tender she's been, and it's sitting right next to the most dangerous thing she's done. The book never says which one is real, and I love it for that.
 
-There's no freckles slip this time, "her small breasts," so I'm leaning toward chapter 11 having been Pace seeing Vee over her. Also, Saturday he was up past one with pins, alone. So Randi's Hermès-scarf "beautiful idiot" on Saturday wasn't Pace. She either invented him or went somewhere else. Hmm.
+Gripes, smaller than usual. The gift paragraph ("You did not sit a woman down across a plate and describe it to her...") is the book explaining. But it's *him* explaining himself to himself, which is what a rationalization is, so I mostly let it slide. "He took it for appetite" is the book nudging me about his misreading one more time. I'd already caught it. Also, Pace was home pinning silk past one on Saturday. So Randi's Hermès-scarf "beautiful idiot" wasn't him. Either there's another man or she invented the whole story to sell Vee on helplessness. My money's on invented, and I want to know.
 
-Gripes: the packing opening takes a page to warm up, and "the being sure had worn through, and what was under it was Saturday" is pretty, but it's one more trip through a scene I've lived twice. That's small stuff. The checking the mirror for his clean shoulder and lifting the sheet off the burgundy at 4:30 a.m. are what I'll remember.
-
-1 a.m. text: "the bf DIDN'T tell her about the wet satin, he kept it, and the gf just CLAIMED it anyway, 'I saw her face.' then she asked how he's going to tell the new girl about them and talked him out of telling her mid-sex. then she tried to BITE a mark into him before his date and he said 'don't' like a slap. dinner friday. 'yes.' I'm sick"
+1 a.m. text: "his gf asked HOW ARE YOU GOING TO TELL HER ABOUT US mid-sex and he almost did the honest thing and she talked him out of it WITH HER HIPS. then she said 'she'll remember me' in full kentucky and tried to leave a bite mark on him for the new girl to find on FRIDAY. he said 'don't' like a slap. then texted the new girl 'dinner friday?' at 4:30am. I'm going to be sick and also I'm reading the next one"
 
 ## GATE
 
@@ -28,21 +26,28 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Three shirts laid out; one put back." For a page I thought I was getting a packing montage and a third replay of Saturday.
-WHY: The explicit scene is where the moral decision gets made. He chooses not to tell her while he's inside Randi, and her body is arguing the case. The bite, the "Don't," and that "Yes" from Chicago mean Friday is the only thing I care about now.
+ALMOST-STOPPED: "You did not tell someone what a gift was." That's where the book starts arguing his case for him, and I could feel it leaning on me for a second.
+WHY: It's explicit, mean, and smart. The honest path is shown in full and then refused, so the jacket's "that was the problem" finally has teeth (literally). He keeps Saturday, she gets it anyway, she tries to mark him, and Friday is now a loaded date. I'd already be reading on if I could.
+
+## LEDGER
 
 LEDGER
-+ FEAR: Friday dinner is where Pace starts getting Vee to "want it" without ever telling her, and when it comes out it'll break her harder than the truth would have
-+ SUSPICION: Randi tried to bite a mark into Pace so Vee would see it on Friday. She's marking territory, and it's the bottle cap turned outward
-+ SUSPICION: The name "under the name" that Pace didn't say when he came was Vee's
-+ LOVE: "Me." The Kentucky all the way up in it. Randi wants to be the one Vee remembers at eighty
-+ WAITING: Friday dinner, and whether Pace ever finds out what Randi actually said to Vee at Sunday lunch
-~ F14.4 DISPROVED: Pace kept Saturday. Randi claimed the wet satin anyway ("I saw her face"), a confession she refused to hear
-~ G11.5 FORGIVEN: This time he really kept it. "It was not his to hand across"
-~ S6.2 DEEPENED: "He took it for appetite" when she clenched on "Me." He's still misreading her
-~ S3.4 DEEPENED: "Don't," and "Friday" before he'd thought it. He's protecting Vee from Randi's teeth
-~ S11.1 SHIFTED: No freckles on Randi this time. The chapter 11 freckles look more like Pace seeing Vee than an author slip
-~ S15.1 SHIFTED: Pace was alone with the pins past one on Saturday, so the scarf idiot wasn't him. Randi made him up or went to someone else
-~ F11.2 SHIFTED: She stayed after this time, cheek on his heart. The pulling away came out as the bite instead
-~ W15.6 DEEPENED: She wants to be Vee's first woman, and she's steering Pace to deliver Vee to her without Vee ever being told
-~ S8.2 ANSWERED: Inside his head at last. He's carrying Saturday everywhere, and it isn't Randi's play anymore
++ FEAR: Friday dinner is the night he sleeps with Vee, and he'll do it without telling her about Randi. Her yes will be real and built on a hole.
++ SUSPICION: The bite was on purpose. Randi wanted a mark on him for Vee to find on Friday.
++ SUSPICION: Randi didn't tell Pace about the kiss in the fire lane. They're each keeping a private Vee from the other now.
++ LOVE: "Me. She'll remember me," with Kentucky drawn all the way out. Randi wanting to be someone's first.
++ LOVE: "Don't." The first time Pace has been hard with her, and it was to protect Vee.
++ WAITING: Friday. Dinner, and whatever "how far" means.
++ GRUDGE: The gift rationalization runs a paragraph longer than it needs to, even though it's his voice.
+~ F14.4 DISPROVED: He never sold the satin. Randi read it off Vee's face at lunch.
+~ G11.5 FORGIVEN: This time he kept Saturday whole. "It was not his to hand across."
+~ W11.6 ANSWERED: He finally had something to tell her, and he chose to keep it.
+~ S15.1 SHIFTED: Pace was home pinning silk past one on Saturday, so the scarf man wasn't him. Either someone else or invented outright.
+~ S8.2 ANSWERED: We're in his head now. He's not running her play. He's carrying Saturday around like a fever.
+~ S6.2 DEEPENED: "Me," clenched, and he "took it for appetite." He misreads her again at her most naked moment.
+~ F11.2 SHIFTED: She stayed after this time and lay on his chest. Then she bit him.
+~ S11.3 DEEPENED: "I want them to see you," and the bite. She's claiming him, not just the plan.
+~ W15.6 DEEPENED: She wants Vee to want her, and she wants it to happen without Vee being told.
+~ F1.3 DEEPENED: The pressure she used to put on herself (bottle cap, thumbnail) came out through her teeth onto him.
+~ F3.3 DEEPENED: The honest confession was fully drafted in his head and then thrown out. When she finds out, she'll know there was a choice.
+~ L1.1 DEEPENED: Kentucky on "me," all the way up.
