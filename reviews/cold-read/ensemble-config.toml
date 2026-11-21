@@ -161,18 +161,21 @@ retired = [
 # reminted; the remints and the core-ensemble rebuild on claude-fable-5-1 are
 # deferred by the author.
 [checkpoint_seeds]
-# author-approved 2026-10-12: volume seams are Rock (ch022, end of Volume One),
-# Nothing Underneath (ch046, end of Volume Two) and Grace (ch067, end of Volume
-# Three). Boundary 22 is a raw Volume One pass; 30/40/46 are Volume Two and seed
-# from Rock (46 is Volume Two's closing checkpoint, the seed for Volume Three);
-# 47/50/60 are Volume Three and seed from Nothing Underneath; 70 is Volume Four
+# Volume seams (author-approved 2026-10-12; seams updated 2026-11-20 after
+# Remembrance and Nachtmusik): Nachtmusik (ch025, end of Volume One), Nothing
+# Underneath (ch048, end of Volume Two) and Grace (ch069, end of Volume Three).
+# Boundary 25 is a raw Volume One pass; 30/40/48 are Volume Two and seed from
+# Nachtmusik (48 is Volume Two's closing checkpoint, the seed for Volume Three);
+# 49/50/60/69 are Volume Three and seed from Nothing Underneath (69 is Volume
+# Three's closing checkpoint, the seed for Volume Four); 70 is Volume Four
 # and seeds from Grace.
-"30" = "rock"
-"40" = "rock"
-"46" = "rock"
-"47" = "nothing-underneath"
+"30" = "nachtmusik"
+"40" = "nachtmusik"
+"48" = "nachtmusik"
+"49" = "nothing-underneath"
 "50" = "nothing-underneath"
 "60" = "nothing-underneath"
+"69" = "nothing-underneath"
 "70" = "grace"
 
 # ---------------------------------------------------------------------------
