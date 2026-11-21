@@ -108,11 +108,11 @@ He saw Vee doing it. Thanking him. Minding her manners over the whole of it.
 
 "Or," Randi said, and moved under him, one long slow roll of her hips up off the bed, and her heels found the backs of his thighs again and drew him in. "You get her to want it." The grip of her tightened around him, and the color came up from her chest into her throat. "And then you give it to her."
 
-He knew what she was doing. She had gone still under him at *dinner* and come alive at *give it to her*, and she had not troubled to hide either. Her body was a persuasive thing, and she had come all the way out here tonight to persuade him with it, nine days after she had walked out his door with her cardigan on over bare arms. He was glad she had come. He would have given her a good deal for coming.
+He knew what she was doing. She had gone still under him at *dinner* and come alive at *give it to her*, and she had not troubled to hide either. He nearly laughed. He was bent over her with one hand in her hair, the pins giving, and the other under the arch of her back, and he could feel her making her case. Her body was a persuasive thing, and he was not going to be talked round by it; he would keep his head, and think it through. She was hot and slick around him and rolling slow, as though she had all night.
 
-And she was right, besides. He felt how right she was, and liked it.
+You did not tell someone what a gift was. You did not sit a woman down across a plate and describe it to her, the size and the shape and what it would ask of her, so that by the time it came she had already had it once in words and had it smaller. And it might never come. He did not know that Vee would want it; she did not know it herself, if it was there at all.
 
-You did not tell someone what a gift was. You did not sit a woman down across a plate and describe it to her, the size and the shape and what it would ask of her, so that by the time it came she had already had it once in words and had it smaller. Vee had never been given anything that wasn't explained first, and priced. This would not be. He did not know yet what night. He did not know yet what it would look like, the room, the order of things. He found he did not mind not knowing; he was enjoying it. He would know when it came. He always had.
+He knew Randi. He could feel how much she wanted it under both his hands, and he would have liked very much to give it to her, to see her handed the thing she wanted for once, without reaching for it. And he could not see how anyone could be near her long and not want her. He had not managed it. So you helped it along a little, and kept quiet, and let it prove in its own time or not at all. If Vee came to want Randi, it would be the best thing he had ever given either of them.
 
 "I don't tell her," he said.
 
@@ -130,9 +130,7 @@ Randi's breath went out of her, long.
 
 She clenched on it, hard, and he took it for what it was, appetite; she wanted Vee so badly she could not say the word without her body answering, and it went into him like heat off a stove. He drove into her and she cried out, and under it, behind his eyes, he had it.
 
-He had not heard Vee come. He had heard her gasp at a pin. He had heard the breath go out of her when she came back down off her toes, a laugh with no laugh in it. He knew already, as he knew a bound would hold before he'd written the last line, that her voice would go up when she went over, and Friday he meant to find out how far. But this was the other one. Vee on her back in this bed, Randi's dark head between her thighs, and the sound Vee would make for that, which would be no sound she made for him: higher, faster, a catch of disbelief at the top of it, the sound of a woman who had been raised to think there was no such thing in the world finding out there was, and finding it out from a woman's mouth, and not able to stop herself saying so. He wanted to hear it. He wanted to be in the room. He wanted to be the reason she was in the room.
-
-And she would not know, until she did.
+He had not heard Vee come. He had heard her gasp at a pin. He had heard the breath go out of her when she came back down off her toes, a laugh with no laugh in it. He knew already, as he knew a bound would hold before he'd written the last line, that her voice would go up when she went over, and Friday he meant to find out how far. But this was the other one. Vee on her back in this bed, Randi's dark head between her thighs, and the sound Vee would make for that, which would be no sound she made for him: higher, faster, a catch of disbelief at the top of it, the sound of a woman who had been raised to think there was no such thing in the world finding out there was, and finding it out from a woman's mouth, and not able to stop herself saying so. He wanted to hear her. He wanted to be in the room.
 
 It sat in him half a breath, very still.
 

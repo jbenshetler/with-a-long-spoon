@@ -28,3 +28,8 @@ the target and finding id.*
 - **vol1 C10 — Pace never uneasy about deceiving Vee:** acted on in
   {{Remembrance}} (he sees the disclosure, *"I could just tell her,"* and is
   steered off it into the gift logic); final ruling waits on the re-run.
+- **vol1 C9 — the passcode paid without setup:** not a defect (author ruling
+  2026-11-20). A loved one's birthday is a common passcode, and learning a
+  girlfriend's birthday sits below the detail the book renders. No Nachtmusik
+  cold reader flagged it; the finding came from the diagnose prompt's
+  "paid without setup" priming.

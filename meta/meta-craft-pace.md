@@ -78,7 +78,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 **The withholding never renders as secret-keeping.** No guilt-register, no near-confessions: from inside there is nothing to confess, only a gift not yet finished being given. The permitted discomfort is exactly the porch register — half-beat of stillness, small sound, no words put to it — preserved, because the half-seeing is what keeps him culpable (→ *The Porch-Scene-Style Discomfort*).
 
-**The one exception is {{Remembrance}}.** The night before Chicago he sees plain disclosure whole (*"I could just tell her"*) and sets it down for the gift logic, on Randi's steering; the stopped bite and the morning mirror are concealment done by his body, with no guilt-register. The honorable exit is on the page once, looked at and declined (→ `meta-arch-pace.md`, honorable exits).
+**The one exception is {{Remembrance}}.** The night before Chicago he sees plain disclosure whole (*"I could just tell her"*) and sets it down for the gift logic, on Randi's steering, which he believes he has seen through; the stopped bite and the morning mirror are concealment done by his body, with no guilt-register. The honorable exit is on the page once, looked at and declined (→ `meta-arch-pace.md`, honorable exits).
 
 **Boyish enthusiasm is a positive register.** Pace frequently displays the unalloyed enthusiasms of a small boy — the visible face of the atypical socialization, and sympathy-generative. Use it.
 

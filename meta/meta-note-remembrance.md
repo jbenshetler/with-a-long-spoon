@@ -17,10 +17,10 @@ The night before Chicago, between {{How It's Done}} and {{Famished}}. Pace decid
 
 - **The question.** *"How are you going to tell her about us?"* — asked mid-sex, softly.
 - **The honest exit, seen.** He imagines the plain disclosure in full and says *"I could just tell her."* Randi goes still and mocks it (*"Between the bread and the check"*).
-- **The steering.** *"Or… You get her to want it. And then you give it to her."* He notices she went still at *dinner* and came alive at *give it to her*, and likes being right with her.
-- **The gift logic** is his own paragraph, reached after her line: you do not tell someone what a gift is. *"I don't tell her."*
+- **The steering, seen and discounted.** He sees her go still at *dinner* and come alive at *give it to her*, nearly laughs, and resolves not to be talked round by her body; he will keep his head and think it through. He thinks he has avoided the manipulation; he lands on her word.
+- **The gift logic** is his own reasoning, as he sees it: you do not tell someone what a gift is. He does not know Vee will want Randi (he has seen no sign; she may not know it herself) and lets it come or not. What he knows is Randi's want, and his wish is to give it to her; he cannot see how anyone near her would not want her. *"I don't tell her"* is the only decision. No plan, no night, no staging.
 - **Vee's first woman, not Randi's.** *"She'll remember me."* The chapter is about ownership and recognition.
-- **The fantasy is Pace's alone.** Randi going down on Vee happens only in his head, layered over the real arc, which stays restrained and where it is.
+- **The fantasy is Pace's alone.** Randi going down on Vee happens only in his head, layered over the real arc, which stays restrained and where it is. It is wish, never schedule: he wants to hear her and be in the room, nothing more.
 - **The sex is rendered** (Bible ruling: sex earns its place by what it does). He starts slow; she asks for it hard (*"I don't want you sweet… Like you're leaving"*).
 - **The bite, stopped.** She starts to bite his shoulder; he moves her off by the jaw and says *"Don't,"* harder than anything he has said to her; it fades at once (*"Sorry"*). Alarm, not anger — anger is {{Burn}}'s. She is stung, not frightened (*"Of course… I wasn't thinking"*). **No mark**: no cover story exists for a bite, and Vee sees all of him Friday. He checks the mirror at 4:30; it's clean.
 - **The trip.** Out Wednesday, the talk Thursday, home Friday — he cooks for Vee the day he lands; the calendar carries it, nobody on the page remarks it.
