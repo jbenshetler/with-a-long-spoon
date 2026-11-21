@@ -1,6 +1,6 @@
 ---
 description: Capture DAG — run persona-conditioned capture/retention readers to a chapter (STOP/CONTINUE gates)
-argument-hint: <scene-slug | N> [--models <id,...>] [--personas <name,...>] [--reread]
+argument-hint: <scene-slug | N> [--models <id,...>] [--lane <model:persona> ...] [--reread]
 ---
 
 Run the **capture DAG**: persona-conditioned blind readers take the book one
@@ -22,8 +22,8 @@ Harness: `tools/capture_dag.py`. Contract and results history:
 
 | Persona | Role | Default |
 |---|---|---|
-| `romance-graduate` | outgrown spicy romance, won't give up the heat (primary vector) | yes |
-| `fsog-refugee` | FSoG intensity with real consent and warmth (crossover) | yes |
+| `romance-graduate` | outgrown spicy romance, won't give up the heat (primary vector) | **yes — the only default** |
+| `fsog-refugee` | FSoG intensity with real consent and warmth (crossover) — on request since 2026-11-21, per named model | **no** |
 | `relationship-first` | came up through the friendship and college novel, wants the door open; reads for talk and texture, notices repetition — held the third seat 2026-09-27, **on request** since 2026-10-10 | **no** |
 | `line-editor` | the 2026-09-27 relationship-first text kept whole: the reader who notices a phrase coming back, a feeling explained after it was given, a book deciding for her — on request only, a craft instrument not a tuning target (author ruling 2026-09-28) | **no** |
 | `consent-sensitive` | vigilant about predation-romanticizing; the con-misread instrument — **on request** since 2026-09-27: free-sample runs and any run touching the reveal chapters | **no** |
@@ -31,14 +31,28 @@ Harness: `tools/capture_dag.py`. Contract and results history:
 | `queer-woman` | on request only — sensitivity/representation check, **not a tuning target** (deprecated 2026-09-14) | **no** |
 | `dark-romance-control` | the WRONG reader; **retired 2026-09-12** | **never** |
 
-A bare `--personas`-less run is the two defaults. `queer-woman` is selectable
-but deliberately **not** in the default set, so a bare invocation never silently
-opens a fresh 70-chapter read on a subscription lane.
+## Lanes — the default set, and naming anything else (author ruling 2026-11-21)
 
-**The target matrix is roster × 2** (author ruling 2026-10-10, superseding roster × 3):
-`romance-graduate` and `fsog-refugee`, the two primary-vector readers.
-`relationship-first`, `consent-sensitive`, `line-editor` and `romantasy-refugee` are all
-**on request**. Never `dark-romance-control`.
+A **lane** is one (model, persona) pair. **The default lanes are every
+`[capture].models` reader as `romance-graduate`** (`[capture].default_persona`;
+supersedes the 2026-10-10 "roster × 2"). Print them with `tools/cold_read_config.py`.
+
+- **Bare run** (`capture_dag.py --to N`) reads exactly the default lanes.
+- **`--models` / `--personas` only narrow** the defaults. A combination landing
+  outside them (an on-demand model, or a second persona) is refused.
+- **Every other lane is named in full: `--lane MODEL:PERSONA`** (repeatable) —
+  on-demand models (`[capture].available`), `fsog-refugee`, `queer-woman` and the
+  other on-request personas. Name a lane **only when the author named that model
+  (and persona) in this request.** `--lane` alone runs only the named lanes; add
+  `--with-defaults` to run them alongside the defaults.
+- **Any OpenRouter lane, default or named, needs `--paid-ok`**, passed only when
+  the author has authorized paid reads for this run. The tool prints a lane table
+  (`default`/`named`, `free`/`PAID`) before it starts.
+
+**Never pick lanes from what is on disk.** A re-read of a revised chapter is the
+default lanes, plus only the `--lane` pairs the author names this time — not every
+lane that happens to hold a gate for that chapter (a 2026-11-21 re-read ran four
+extra lanes, two of them paid, that way). Never `dark-romance-control`.
 
 **`queer-woman` is deprecated as a tuning target** (same ruling; full rationale in
 SPEC). She still *runs* — she is not in `RETIRED_PERSONAS` and naming her does not
@@ -162,11 +176,12 @@ for m in <models>; do for p in <personas>; do d=reviews/capture-panel/$m/dag/$p;
 ## Step 3 — Run, one invocation per model
 
 ```
-tools/capture_dag.py --models <one-model> --personas <p1> <p2> ... --to <N>
+tools/capture_dag.py --models <one-default-model> --to <N> [--paid-ok]
+tools/capture_dag.py --lane <model>:<persona> --to <N> [--paid-ok]   # author-named lane
 ```
 
 **Always invoke once per model, backgrounded, concurrently.** `main()` builds
-`[(m, p) for m in models for p in personas]` — model-major — and feeds it to a
+its lane list model-major and feeds it to a
 pool of **4 workers**. A single multi-model call therefore serializes the last
 model behind every lane of the earlier ones: in a 12-lane run the third model
 did not start at all until the long catch-up lanes drained. Per-model
@@ -181,7 +196,7 @@ The resume behaviour that makes restarts safe also means **an existing gate
 blocks a re-read**. Pass `--fresh` to overwrite it in place:
 
 ```
-tools/capture_dag.py --models <one-model> --personas <p1> ... --to <N> --fresh
+tools/capture_dag.py --models <one-default-model> --to <N> --fresh [--paid-ok]
 ```
 
 `--fresh` is scoped to the **target chapter only** (`--to N`) — it overwrites
@@ -228,7 +243,7 @@ Every run prints a prose-staleness report first, and `--check-stale` runs it alo
 (instant, zero tokens):
 
 ```
-tools/capture_dag.py --models <m> --personas <p> --to <N> --check-stale
+tools/capture_dag.py --to <N> --check-stale        # or --models / --lane to scope it
 ```
 
 Each gate records a **`prose-sha`** — the hash of the chapter text that reader

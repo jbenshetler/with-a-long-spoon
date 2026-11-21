@@ -60,6 +60,23 @@ def capture_retired() -> tuple[str, ...]:
     return tuple(load_config()["capture"].get("retired", ()))
 
 
+def capture_default_persona() -> str:
+    return str(load_config()["capture"].get("default_persona", "romance-graduate"))
+
+
+def capture_default_lanes() -> tuple[tuple[str, str], ...]:
+    """The (model, persona) pairs a bare capture run reads: every `[capture].models`
+    reader as `default_persona`. Anything else must be named with --extra-lane."""
+    persona = capture_default_persona()
+    return tuple((m, persona) for m in capture_models())
+
+
+def is_openrouter(model_id: str) -> bool:
+    """True for a paid OpenRouter lane: a provider/model id, or an id whose reader
+    block declares a `provider_model`."""
+    return "/" in model_id or model_id in openrouter_models()
+
+
 def openrouter_models() -> dict[str, str]:
     """model id -> OpenRouter provider model, for every reader block that declares one."""
     readers = load_config().get("readers", {})
@@ -194,6 +211,7 @@ if __name__ == "__main__":  # `tools/cold_read_config.py` — print the live ros
     print("  on demand     :", ", ".join(panel_available()))
     print("  retired       :", ", ".join(panel_retired()))
     print("capture roster  :", ", ".join(capture_models()))
+    print("  default lanes :", ", ".join(f"{m}:{p}" for m, p in capture_default_lanes()))
     print("  on demand     :", ", ".join(capture_available()))
     print("  retired       :", ", ".join(capture_retired()))
     print("openrouter map  :", ", ".join(f"{k}={v}" for k, v in openrouter_models().items()))

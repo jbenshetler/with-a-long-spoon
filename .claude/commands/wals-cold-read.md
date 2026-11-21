@@ -78,20 +78,18 @@ the tree on 2026-09-26 (git history keeps them).
 
 ## Step 2 — Subscription readers
 
-Run the two codex readers concurrently:
+Run each subscription reader on `[panel].models` (`gpt-*` on codex, `claude-*` on
+the headless clean lane) as its own invocation, concurrently:
 
 ```
-tools/cold_read_grounded.py --model gpt-5.6-sol --scope <slug>
-tools/cold_read_grounded.py --model gpt-5.5     --scope <slug>
+tools/cold_read_grounded.py --model <panel-model> --scope <slug>
 ```
 
-Run the two Claude readers concurrently through the harness's headless clean
-lane:
-
-```
-tools/cold_read_grounded.py --model claude-opus-5   --scope <slug>
-tools/cold_read_grounded.py --model claude-opus-4-8 --scope <slug>
-```
+**Default panel only** (author ruling 2026-11-21). The harness refuses an
+on-demand reader (`[panel].available`) without `--on-demand`, a retired one
+without `--allow-retired`, and any id not in the config. Pass `--on-demand` only
+when the author named that model in this request (e.g. opus for a revision read);
+never add readers because they hold an earlier read of the chapter.
 
 The Claude harness spawns `claude -p` on subscription OAuth with
 `blind-reader-grounded` as the entire system prompt
@@ -108,7 +106,8 @@ native checkpoint and never invoke native checkpoint extraction for it.
 
 All readers run at low effort with an 18k output cap. Run independent readers
 and chapters concurrently only after the author has authorized the paid
-OpenRouter calls.
+OpenRouter calls. The harness refuses every paid lane (OpenRouter, or
+`--auth api-key`) without `--paid-ok`; pass it only on that authorization.
 
 ## Step 4 — Verify and report
 

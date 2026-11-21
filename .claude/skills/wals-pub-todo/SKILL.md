@@ -97,7 +97,7 @@ record stamps the `prose-sha` of the chapter it actually read, and the harness
 verifies it for you:
 
 ```bash
-tools/capture_dag.py --models claude-fable-5 claude-opus-4-8 gpt-5.5 gpt-5.6-sol --check-stale
+tools/capture_dag.py --check-stale
 ```
 
 `--check-stale` prints the report and **returns before any model call** — it

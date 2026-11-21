@@ -1499,3 +1499,18 @@ this SPEC that say `dag-v3/` mean today's `dag/`; those that say `dag/` mean the
 `split-experiments/` was removed from the tree the next day (2026-11-15; in git at `b5081613`).
 The trials this SPEC cites by name (`v3-ch21`, `v3c-ch45`, `date-fix`, …) are read from there.
 `capture_dag --experiment NAME` still writes a fresh trial under `split-experiments/NAME/`.
+
+## Default lanes: romance-graduate only; every other lane named (author ruling 2026-11-21)
+
+Supersedes the 2026-10-10 "roster × 2". A **lane** is one (model, persona) pair. The default
+lanes are every `[capture].models` reader as `[capture].default_persona` (`romance-graduate`);
+`claude-fable-5-1` moved to `available` the same day (it held no `dag/` gates). In
+`capture_dag.py`, a bare run reads exactly the defaults; `--models`/`--personas` only narrow
+them and refuse any combination outside them; every other lane (an on-demand model,
+`fsog-refugee`, `queer-woman`, any on-request persona) is named in full with
+`--lane MODEL:PERSONA`, and `--lane` alone runs only the named lanes (`--with-defaults` adds
+the defaults). Any OpenRouter lane needs `--paid-ok`. Cause: a re-read of ch016–ch017 copied
+every lane holding a gate for the chapter, adding opus, carbon, hydrogen, kimi and sol
+`queer-woman`, none of them named by the author. The cold-read harness got the same treatment:
+`cold_read_grounded.py` needs `--on-demand` for a `[panel].available` reader,
+`--allow-retired` for a retired one, refuses unknown ids, and needs `--paid-ok` for any paid lane.

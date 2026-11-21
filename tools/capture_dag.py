@@ -17,10 +17,11 @@ Sequential per reader (correct STOP semantics); readers run in parallel.
 Restartable: existing gates/checkpoints are skipped.
 
 Usage:
-  tools/capture_dag.py --models claude-opus-4-8 gpt-5.6-sol            # the 3 default personas
-  tools/capture_dag.py --models claude-opus-4-8 --personas fsog-refugee --to 12
-  tools/capture_dag.py --models ... --to 70 --fresh   # re-read ch70 after revising it
-  tools/capture_dag.py --models ... --assemble    # build <persona>--volume-dag.md records
+  tools/capture_dag.py --to 16 --fresh --paid-ok      # the default lanes (config [capture])
+  tools/capture_dag.py --models gpt-5.6-sol claude-sonnet-5-5 --to 16 --fresh   # narrowed, free
+  tools/capture_dag.py --lane kimi-k3.1-pro:fsog-refugee --to 16 --fresh --paid-ok   # named only
+  tools/capture_dag.py --lane gpt-5.6-sol:queer-woman --with-defaults --to 16 --fresh --paid-ok
+  tools/capture_dag.py --assemble                      # build <persona>--volume-dag.md records
 """
 from __future__ import annotations
 
@@ -51,11 +52,12 @@ PROTOCOL = "capture-dag-v2-rich"
 # section days are omitted, exactly as in the epub.
 EXPERIMENT: str | None = None
 DATED = False
-PERSONAS = ["romance-graduate", "fsog-refugee"]
-# Standing TWO (author ruling 2026-10-10): the default capture panel is the two
-# primary-vector readers, `romance-graduate` and `fsog-refugee`. `relationship-first`
-# gives up the third seat it held under the 2026-09-27 ruling and becomes selectable;
-# its gates stay on disk as history. Supersedes "roster x 3".
+# The default persona and the default lanes live in ensemble-config.toml [capture]
+# (author ruling 2026-11-21, superseding the 2026-10-10 "Standing TWO"): a bare run
+# reads every [capture].models reader as `default_persona` (romance-graduate). Any
+# other (model, persona) pair runs only when named in full with --lane; see
+# resolve_lanes(). `fsog-refugee` stays selectable that way.
+PERSONAS = [cold_read_config.capture_default_persona()]
 # Still selectable, never default: consent-sensitive is ON REQUEST (free-sample runs
 # and any run touching the reveal chapters); romantasy-refugee for the volume-close
 # calibration only; relationship-first and line-editor on request. v1 persona texts:
@@ -69,11 +71,9 @@ PERSONAS = ["romance-graduate", "fsog-refugee"]
 # 2026-09-26: her gates, checkpoints and STOPPED markers were erased from the
 # tree (author ruling; git history keeps them), so --assemble no longer applies.
 RETIRED_PERSONAS = ["dark-romance-control"]
-# `queer-woman` is selectable but NOT in the default panel — opt in with
-# --personas, so a bare run never silently opens a fresh 70-chapter read on a
-# subscription lane.
-ALL_PERSONAS = PERSONAS + ["relationship-first", "consent-sensitive", "line-editor",
-                           "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
+# Every persona but the default runs only as a named --lane.
+ALL_PERSONAS = ["romance-graduate", "fsog-refugee", "relationship-first", "consent-sensitive",
+                "line-editor", "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
 DECADE = 10
 
 
@@ -159,7 +159,7 @@ def recorded_prose_sha(gate_file: Path) -> str | None:
     return m.group(1) if m else None
 
 
-def stale_report(model_ids: list[str], personas: list[str], to_n: int) -> dict:
+def stale_report(lanes: list[tuple[str, str]], to_n: int) -> dict:
     """Classify existing gates against current prose. Never blocks — this is a warning.
 
     Three tiers, because they matter very differently for a style edit:
@@ -177,21 +177,20 @@ def stale_report(model_ids: list[str], personas: list[str], to_n: int) -> dict:
             pass
     changed, unverifiable = set(), 0
     gates = []
-    for m in model_ids:
-        for p in personas:
-            d = dag_dir(m, p)
-            if not d.is_dir():
+    for m, p in lanes:
+        d = dag_dir(m, p)
+        if not d.is_dir():
+            continue
+        for n in range(1, to_n + 1):
+            gp = gate_path(d, n)
+            if not gp.exists():
                 continue
-            for n in range(1, to_n + 1):
-                gp = gate_path(d, n)
-                if not gp.exists():
-                    continue
-                rec = recorded_prose_sha(gp)
-                gates.append((m, p, n, rec))
-                if rec is None:
-                    unverifiable += 1
-                elif n in current and rec != current[n]:
-                    changed.add(n)
+            rec = recorded_prose_sha(gp)
+            gates.append((m, p, n, rec))
+            if rec is None:
+                unverifiable += 1
+            elif n in current and rec != current[n]:
+                changed.add(n)
     tiers = {"direct": 0, "window": 0, "checkpoint": 0}
     for _m, _p, n, rec in gates:
         b = boundary(n)
@@ -838,13 +837,79 @@ def assemble(model_id: str, persona: str) -> Path:
     return out
 
 
+def resolve_lanes(models: list[str] | None, personas: list[str] | None,
+                  named: list[str] | None, with_defaults: bool,
+                  allow_retired: bool) -> list[tuple[str, str]]:
+    """The (model, persona) pairs this run reads (author ruling 2026-11-21).
+
+    The default lanes come from ensemble-config.toml [capture]. `--models` and
+    `--personas` only NARROW them: a combination that lands outside the defaults is
+    refused, so a run can never widen to an on-demand model or a second persona by
+    listing what is on disk. Anything else is named in full with `--lane MODEL:PERSONA`.
+    `--lane` alone runs only the named lanes; `--with-defaults` (or a narrowing
+    `--models`/`--personas`) adds the defaults alongside them."""
+    defaults = list(cold_read_config.capture_default_lanes())
+    default_models = [m for m, _ in defaults]
+    default_persona = cold_read_config.capture_default_persona()
+    lanes: list[tuple[str, str]] = []
+    if not named or models or personas or with_defaults:
+        want = [(m, p) for m in (models or default_models)
+                for p in (personas or [default_persona])]
+        outside = [(m, p) for m, p in want if (m, p) not in defaults]
+        if outside:
+            raise SystemExit(
+                "not a default capture lane: " + ", ".join(f"{m}:{p}" for m, p in outside)
+                + ". --models/--personas only narrow the defaults "
+                + f"({', '.join(f'{m}:{p}' for m, p in defaults)}). Name any other lane "
+                "in full, and only when the author named it for this run: "
+                + " ".join(f"--lane {m}:{p}" for m, p in outside))
+        lanes += want
+    roster = set(cold_read_config.capture_models(include_available=True))
+    retired_models = set(cold_read_config.capture_retired())
+    for spec in named or []:
+        m, sep, p = spec.partition(":")
+        if not sep or not m or not p:
+            raise SystemExit(f"--lane takes MODEL:PERSONA, got {spec!r}")
+        if m not in roster and m not in retired_models:
+            raise SystemExit(
+                f"unknown capture model {m!r}. Add it to reviews/cold-read/ensemble-config.toml "
+                "[capture] first — that file is the single roster for both instruments.")
+        if m in retired_models and not allow_retired:
+            raise SystemExit(
+                f"refusing to run retired capture model {m} ([capture].retired). Pass "
+                "--allow-retired if the author has named the model for this run.")
+        if p in RETIRED_PERSONAS:
+            raise SystemExit(
+                f"refusing to run retired persona {p}. Retired by author ruling (see "
+                "RETIRED_PERSONAS); her gates were erased 2026-09-26. Reviving one needs "
+                "author approval.")
+        if p not in ALL_PERSONAS:
+            raise SystemExit(f"unknown persona {p!r}; known: {', '.join(ALL_PERSONAS)}")
+        if (m, p) not in lanes:
+            lanes.append((m, p))
+    return lanes
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--models", nargs="+", required=True,
-                    help="capture roster ids from ensemble-config.toml [capture].models")
+    ap.add_argument("--models", nargs="+", default=None,
+                    help="narrow the default lanes to these models (default: all of "
+                         "[capture].models). Never adds a lane — use --lane")
+    ap.add_argument("--personas", nargs="+", default=None, choices=ALL_PERSONAS,
+                    help="narrow the default lanes to these personas (default: "
+                         "[capture].default_persona). Never adds a lane — use --lane")
+    ap.add_argument("--lane", nargs="+", default=None, metavar="MODEL:PERSONA",
+                    help="a non-default lane, named in full (an on-demand model, a second "
+                         "persona, or both). Only when the author named it for this run. "
+                         "Alone it runs only these lanes; add --with-defaults for both")
+    ap.add_argument("--with-defaults", action="store_true",
+                    help="with --lane: also run the default lanes")
+    ap.add_argument("--paid-ok", action="store_true",
+                    help="permit OpenRouter (paid) lanes: the author has authorized "
+                         "paid reads for THIS run")
     ap.add_argument("--allow-retired", action="store_true",
-                    help="permit a model listed in [capture].retired (an explicit author request)")
-    ap.add_argument("--personas", nargs="*", default=PERSONAS, choices=ALL_PERSONAS)
+                    help="with --lane: permit a model listed in [capture].retired "
+                         "(an explicit author request)")
     ap.add_argument("--from", dest="start", type=int, default=1,
                     help="diagnostic: start the sequential read at this chapter instead of 1; "
                          "the lane must already hold the boundary checkpoint below it")
@@ -890,51 +955,41 @@ def main() -> None:
     if not EXPERIMENT and args.undated:
         raise SystemExit("--undated requires --experiment: the real lanes read the book as it ships, dated")
     DATED = args.dated if EXPERIMENT else True
+    lanes = resolve_lanes(args.models, args.personas, args.lane, args.with_defaults,
+                          args.allow_retired)
     if args.show_packet:
         print(chapter_block(args.show_packet))
         return
     if args.show_prompt:
         if MEMORY == "chain":
             raise SystemExit("--show-prompt is for --memory grounded|full")
-        m, p = args.models[0], args.personas[0]
+        m, p = lanes[0]
         prompt, prov = read_prompt_v3(dag_dir(m, p), m, p, args.show_prompt)
         print(prompt)
         print(f"\n[{prov} · ~{len(prompt) // 4} tokens]", file=sys.stderr)
         return
 
     if args.assemble:
-        for m in args.models:
-            for p in args.personas:
-                print(assemble(m, p))
+        for m, p in lanes:
+            print(assemble(m, p))
         return
 
-    # The roster lives in ensemble-config.toml [capture]; anything else is drift.
-    roster = set(cold_read_config.capture_models(include_available=True))
-    retired_models = set(cold_read_config.capture_retired())
-    unknown = [m for m in args.models if m not in roster and m not in retired_models]
-    if unknown:
+    defaults = set(cold_read_config.capture_default_lanes())
+    print("lanes:", flush=True)
+    for m, p in lanes:
+        kind = "default" if (m, p) in defaults else "named"
+        cost = "PAID" if cold_read_config.is_openrouter(m) else "free"
+        print(f"  {m + ':' + p:<40} {kind:<8} {cost}", flush=True)
+    paid = [f"{m}:{p}" for m, p in lanes if cold_read_config.is_openrouter(m)]
+    if paid and not args.paid_ok and not args.check_stale:
         raise SystemExit(
-            f"unknown capture model(s): {', '.join(unknown)}. Add them to "
-            "reviews/cold-read/ensemble-config.toml [capture].models first — that file "
-            "is the single roster for both instruments.")
-    off_roster = [m for m in args.models if m in retired_models]
-    if off_roster and not args.allow_retired:
-        raise SystemExit(
-            f"refusing to run retired capture model(s): {', '.join(off_roster)} "
-            "(ensemble-config.toml [capture].retired). Pass --allow-retired if the "
-            "author has named the model for this run.")
-
-    # Retired personas must not be run again.
-    retired = [p for p in args.personas if p in RETIRED_PERSONAS]
-    if retired:
-        raise SystemExit(
-            f"refusing to run retired persona(s): {', '.join(retired)}. "
-            "Retired by author ruling (see RETIRED_PERSONAS); her gates were erased "
-            "2026-09-26. Reviving one needs author approval.")
+            f"refusing to start: {', '.join(paid)} bill OpenRouter per token. Pass "
+            "--paid-ok only when the author has authorized paid reads for this run, or "
+            "narrow with --models to the free lanes.")
 
     # Staleness is a warning, never a gate. A style edit to an early chapter must not
     # force a re-read of every downstream chapter; report the tiers and proceed.
-    print_stale_report(stale_report(args.models, list(args.personas), args.to))
+    print_stale_report(stale_report(lanes, args.to))
     stale_facts = []
     if MEMORY == "grounded":
         for b in sorted({boundary(n) for n in range(max(args.start, 1), args.to + 1)} - {0}):
@@ -962,7 +1017,7 @@ def main() -> None:
         finally:
             close()
 
-    readers = [(m, p) for m in args.models for p in args.personas]
+    readers = lanes
     with ThreadPoolExecutor(max_workers=4) as pool:
         list(pool.map(lambda t: one(*t), readers))
 

@@ -69,8 +69,12 @@ tools/cold_read_grounded.py \
   --model-id <model-id> \
   --scope <slug> \
   --effort low \
-  --max-output-tokens 18000
+  --max-output-tokens 18000 \
+  --paid-ok            # required: the author authorized this paid run
 ```
+
+Add `--on-demand` for a reader in `[panel].available` — only when the author named
+it for this run. The harness refuses either case without its flag.
 
 For every Volume 2 decade boundary, use native `ck-ch<S>` (S from `[checkpoint_seeds]`
 in `ensemble-config.toml`, via `checkpoint_plan`) as the seed and raw

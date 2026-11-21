@@ -1016,6 +1016,36 @@ def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) 
                 )
 
 
+def check_panel_lane(args, model_id: str) -> None:
+    """Refuse a review run outside the default panel unless the author named it
+    (author ruling 2026-11-21): on-demand readers need --on-demand, retired ones
+    --allow-retired, unknown ones are refused, and any paid lane needs --paid-ok."""
+    panel = set(cold_read_config.panel_models())
+    available = set(cold_read_config.panel_available())
+    retired = set(cold_read_config.panel_retired())
+    if model_id in retired:
+        if not args.allow_retired:
+            raise SystemExit(
+                f"refusing to run retired cold reader {model_id} ([panel].retired). Pass "
+                "--allow-retired only if the author named the model for this run.")
+    elif model_id in available:
+        if not args.on_demand:
+            raise SystemExit(
+                f"{model_id} is on demand ([panel].available), not on the default panel "
+                f"({', '.join(cold_read_config.panel_models())}). Pass --on-demand only "
+                "if the author named it for this run.")
+    elif model_id not in panel:
+        raise SystemExit(
+            f"unknown cold reader {model_id!r}: add it to reviews/cold-read/"
+            "ensemble-config.toml [panel] first — that file is the single roster.")
+    paid = (cold_read_config.is_openrouter(args.model)
+            or cold_read_config.is_openrouter(model_id) or args.auth == "api-key")
+    if paid and not args.paid_ok:
+        raise SystemExit(
+            f"refusing to start: {model_id} is a paid lane (OpenRouter or --auth api-key). "
+            "Pass --paid-ok only when the author has authorized paid reads for this run.")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--model", default="gpt-5.6-sol", help="codex model id")
@@ -1035,6 +1065,14 @@ def main() -> None:
                     help="output-token cap for paid OpenRouter/API lanes (default 18000; "
                          "unused by subscription-backed Codex and Claude lanes)")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing grounded reviews")
+    ap.add_argument("--on-demand", action="store_true",
+                    help="permit a reader from [panel].available (off the default panel): only "
+                         "when the author named that model for this run")
+    ap.add_argument("--allow-retired", action="store_true",
+                    help="permit a reader from [panel].retired (an explicit author request)")
+    ap.add_argument("--paid-ok", action="store_true",
+                    help="permit a paid lane (OpenRouter, or --auth api-key): the author has "
+                         "authorized paid reads for THIS run")
     ap.add_argument("--jobs", "-j", type=int, default=1, metavar="N",
                     help="parallel reads (default 1). Reads are independent (grounded, no "
                     "chain), so wave 2 fans out to N concurrent codex sessions. On a slow "
@@ -1161,6 +1199,8 @@ def main() -> None:
         if not needed:
             print("no checkpoints needed for this range (all chapters ≤ first boundary)")
         return
+
+    check_panel_lane(args, model_id)
 
     needed = sorted({boundary(n, args.decade) for n in chapters} - {0})
     missing = [b for b in needed if not checkpoint_path(model_id, b).exists()]
