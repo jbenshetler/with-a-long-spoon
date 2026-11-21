@@ -123,6 +123,10 @@ evidence.**
 - **"He was already in" after opening her door** — POV-time: the roof-drum
   sentence absorbs her attention while he rounds the truck in the rain.
 
+## Author ruling 2026-11-20 — the dorm telling's rain line (:295)
+
+Structural edit vol1 C1 (the hike told three times). Vee's telling to Cassie keeps her read of his motive (*"He got soaked on purpose so I wouldn't have anybody looking at me"*) and drops the mechanics the reader saw two pages earlier. Do not restore them.
+
 ## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)
 
 Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE

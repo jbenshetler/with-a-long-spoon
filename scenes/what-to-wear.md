@@ -28,7 +28,7 @@ Meg, who followed the Pace situation in installments like her shows, pointed the
 
 The shirt. Vee felt the smile arrive before she'd cleared it.
 
-"It started raining on the way down," she said. "Not raining. Dumping. And I'm soaked, I'm freezing, I'm shaking so hard my teeth are going, and he reaches behind the seat and hands me his shirt. His dry one. The one he'd packed for himself." She could hear the story getting better in the telling and did not care. "And then he gets out. Out. Back into the cold rain. So I can change. Stands there with his back to the truck, soaking to the skin, so I can have the dry one."
+"It started raining on the way down," she said, and told them the rest of it: the rain coming down in sheets, his dry shirt from behind the seat, the man standing out in it with his back to the truck. She could hear the story getting better in the telling and did not care.
 
 "Stop," Kayla said.
 

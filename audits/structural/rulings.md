@@ -17,3 +17,14 @@ the target and finding id.*
 
 - **vol1 C1 — the soft ending** (dress and induction build, Rock closes on
   contentment): **defect** (author ruling 2026-11-19).
+- **vol1 C1 (2026-11-20 consensus) — debrief stacks:** acted on; final ruling
+  waits on a re-run of the structural editor. Actions: {{Remembrance}} (ch16)
+  breaks the fitting stack from the Friday stack; the hike chain is cut to one
+  full telling ({{Leave No Trace}} :295 keeps only Vee's read of his motive;
+  {{What to Wear}} :31 narrates the shirt in summary). The dinner and Friday
+  stacks stay: the Cassie/Randi gap is the arc.
+- **vol1 C5 — duplicate final-chapter blocking:** fixed at `684efc00`
+  ({{Nachtmusik}} :85).
+- **vol1 C10 — Pace never uneasy about deceiving Vee:** acted on in
+  {{Remembrance}} (he sees the disclosure, *"I could just tell her,"* and is
+  steered off it into the gift logic); final ruling waits on the re-run.

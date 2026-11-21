@@ -57,10 +57,11 @@ evidence.**
   then?" Kayla said, Theo already forgotten.` stands. The tag is what
   disambiguates a break in the alternation, not a redundancy. Do not flag
   this pattern anywhere in the volume.
-- **"I'm soaked" / "soaking to the skin"** (line-edit item 4) — author ruling:
-  the echo is the transfer. She was soaked; then he is; the shirt moved
-  between them. That is the story Vee is telling, and the repetition carries
-  it. Do not vary either rendering.
+- **The rain-and-shirt telling (:31) is narrated summary, not direct speech**
+  (author ruling 2026-11-20, structural edit vol1 C1). The reader has the
+  mechanics from {{Leave No Trace}} and from Vee's telling to Cassie; the girls
+  get the story improved in the telling, the kept shirt, and the siren. Do not
+  restore the direct recount.
 - **"and not one word about what it was for"** (line-edit item 6) — flagged
   as restating the dialogue two lines above ("It doesn't say for what. It
   doesn't say anything"). Author ruling: keep both. The dialogue version is

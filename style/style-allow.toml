@@ -4673,6 +4673,27 @@ text = "Her hair, two nights slept on and washed in his shampoo and combed with 
 note = "Author sign-off 2026-07-28: hair 'its own weather' stands — cold reader (gpt-5.6-sol) logged it as a liked first-sighting motif"
 
 [[ok]]
+fp   = "0227f4a20624"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "\"I saw her face.\""
+note = "Dialogue 'I saw her face' — author-approved comment-5 edit (standing sign-off 2026-11-14)"
+
+[[ok]]
+fp   = "4fa2e02d2c15"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "He felt her jaw set and begin to close, and his hand was on her face before he had decided anything, and moved her off."
+note = "Author ack: bite beat is body-before-mind; touch is his only evidence of her jaw"
+
+[[ok]]
+fp   = "539fd0b2c258"
+rule = "filter-verbs"
+file = "scenes/remembrance.md"
+text = "He felt how right she was, and liked it."
+note = "Author ack: 'felt how right she was' is bodily persuasion, not a filter; 'and liked it' carries his self-serving friction"
+
+[[ok]]
 fp   = "60c95191695d"
 rule = "a-small"
 file = "scenes/rock.md"
@@ -7151,27 +7172,6 @@ text = "The song overhead gave way to a louder one, and something crossed his fa
 note = "Line edit 2026-08-13: re-armed by cutting 'genuinely'; the appositive is the point"
 
 [[ok]]
-fp   = "0227f4a20624"
-rule = "filter-verbs"
-file = "scenes/remembrance.md"
-text = "\"I saw her face.\""
-note = "Dialogue 'I saw her face' — author-approved comment-5 edit (standing sign-off 2026-11-14)"
-
-[[ok]]
-fp   = "4fa2e02d2c15"
-rule = "filter-verbs"
-file = "scenes/remembrance.md"
-text = "He felt her jaw set and begin to close, and his hand was on her face before he had decided anything, and moved her off."
-note = "Author ack: bite beat is body-before-mind; touch is his only evidence of her jaw"
-
-[[ok]]
-fp   = "539fd0b2c258"
-rule = "filter-verbs"
-file = "scenes/remembrance.md"
-text = "He felt how right she was, and liked it."
-note = "Author ack: 'felt how right she was' is bodily persuasion, not a filter; 'and liked it' carries his self-serving friction"
-
-[[ok]]
 fp   = "be2d044dc766"
 rule = "in-her-chest"
 file = "scenes/water-wings.md"
@@ -7639,6 +7639,13 @@ rule = "the-way"
 file = "scenes/what-to-wear.md"
 text = "What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it.\""
 note = "'the way I said it' — dialogue idiom in Vee's speech, not filtered narration"
+
+[[ok]]
+fp   = "ddc5c0a91b81"
+rule = "the-way"
+file = "scenes/what-to-wear.md"
+text = "\"It started raining on the way down,\" she said, and told them the rest of it: the rain coming down in sheets, his dry shirt from behind the seat, the man standing out in it with his back to the truck."
+note = "Idiom 'on the way down'; sentence changed by author-approved hike-chain cut (standing sign-off)"
 
 [[ok]]
 fp   = "3edfe7cd750f"

@@ -292,7 +292,7 @@ So Vee told her: the boots that didn't fit, the blister, the trail where he'd kn
 
 She slowed then, as she'd slowed at the tree the other night, and Cassie, who had been doing the dry thing, the file-revising thing, went still and stayed that way.
 
-"And then it rained." Vee touched the flannel at her own collar. "This was in his bag. He gave it to me and got out and stood in the rain so I could change, getting soaked on purpose so I wouldn't have anybody looking at me."
+"And then it rained." Vee touched the flannel at her own collar. "This was in his bag. He got soaked on purpose so I wouldn't have anybody looking at me."
 
 Cassie didn't say anything. Cassie was rapt.
 
