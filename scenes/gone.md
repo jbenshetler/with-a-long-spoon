@@ -32,13 +32,13 @@ He could see them laughing together, Randi holding on to Vee, the red hair falli
 
 She lifted her head. There was something undefended in her face.
 
-She came up and kissed him — warm, languid, her hair falling around them, her hand at the side of his face — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him.
+She came up and kissed him — warm, languid, her hair falling around them — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him.
 
-"You've spoiled her for being hurried," she said, her hand still at the side of his face.
+"You've spoiled her for being hurried," she said.
 
 "I like taking my time with her," he said.
 
-"I didn't let you take your time with me." She smiled, her hand still at the side of his face. "I knew you were different. I wasn't going to wait."
+"I didn't let you take your time with me." She smiled, and her hand came up to the side of his face. "I knew you were different. I wasn't going to wait."
 
 He turned his mouth into her palm and kissed it.
 

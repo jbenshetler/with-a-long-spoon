@@ -67,3 +67,16 @@ the target and finding id.*
   she has never been with him like that, that it is more than Friday, and keeps silent
   out of respect for her pride. The rule is recorded in `meta-craft-pace.md` ("He sees,
   and chooses").
+- **vol1 C4 — the Pace–Randi evenings run on a template; {{Gone}} adds little:** the
+  ritual is designed (the music keys the woman, the deadbolt is her habit, and the
+  {{Portion}} / {{Gone}} / {{Nachtmusik}} variations need a baseline); the repeated
+  *wording* was the defect, concentrated in {{Swim Lanes}}, {{Remembrance}} and
+  {{Portion}}. Acted on (author ruling 2026-11-21): Swim Lanes keeps the full arrival;
+  Remembrance has the deadbolt go over unheard and the taillights taken by the cut;
+  Portion has Randi an hour late, Pace in the shower, the playlist rolling on to
+  *Violator*. Randi's arrival times to Pace vary (early, on time, late), against her
+  always being early for Vee; when she is off time, someone remarks on it, and Pace
+  never takes it as a slight. {{Gone}} stays (capture 8–10 on every lane); its
+  three-in-a-row hand at his face is cut to the one at the confession (`gone.md:41`).
+  B11 (sex restores equilibrium) and B15 ({{Nachtmusik}}'s reunion delays the phone)
+  left standing: Nachtmusik is where sex stops restoring it.

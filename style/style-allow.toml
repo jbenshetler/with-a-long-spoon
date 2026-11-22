@@ -2055,6 +2055,13 @@ text = "She came up and kissed him — warm, languid, her hair falling around th
 note = "Gone line edit 2026-08-07: physical repositioning to meet his eyes before she speaks, not the appreciation beat the rule targets"
 
 [[ok]]
+fp   = "ba7971a92950"
+rule = "look-at-her"
+file = "scenes/gone.md"
+text = "She came up and kissed him — warm, languid, her hair falling around them — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him."
+note = "re-armed by C4 face-touch cut, author-approved 2026-11-21"
+
+[[ok]]
 fp   = "3543db935f1d"
 rule = "the-way"
 file = "scenes/gone.md"
@@ -2095,6 +2102,13 @@ rule = "warm"
 file = "scenes/gone.md"
 text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin."
 note = "Physical anchor — he heats the house for her; distinct sense from the Sade warmth in the same paragraph."
+
+[[ok]]
+fp   = "410fc5ef51b1"
+rule = "warm"
+file = "scenes/gone.md"
+text = "She came up and kissed him — warm, languid, her hair falling around them — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him."
+note = "re-armed by C4 face-touch cut, author-approved 2026-11-21"
 
 [[ok]]
 fp   = "4d9c4274e853"
