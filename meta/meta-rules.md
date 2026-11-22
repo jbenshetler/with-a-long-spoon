@@ -42,7 +42,7 @@
 **Interior and POV**
 - [ ] Interior hotter than behavior — hot fantasist, severe discipline; the heat is real and felt at the edges of the held line
 - [ ] Interior voice runs in chivalric cadences, mathematical rigor, bar-quote epistemology — no contemporary therapeutic vocabulary
-- [ ] Present-moment perception at peak; the after-register does not run — render the asymmetry, not a general failure of integration
+- [ ] Present-moment perception at peak; interpretation from a thin map — the signal right, the meaning misfiled or met with silence, never a blank
 - [ ] No filing, cataloging, or registering-and-storing — he is in continuous present-tense contact, more like a musician improvising than an analyst reviewing data
 
 **The grammar and the vow**

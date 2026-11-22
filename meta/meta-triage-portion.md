@@ -44,8 +44,7 @@ Close-third pass (`/wals-close-third`), Pace's POV. Batch and rulings:
 - `:33` "He was glad all the way down.": his; `:35` depends on it.
 - `:77` "He heard how it had come out… because he did not know how.": his
   hearing and his reason; praised.
-- `:91` "He went over it… it was the want, he thought": his processing at a peak,
-  ending in a wrong explanation.
+- `:91` **SUPERSEDED 2026-11-21 (author ruling; structural consensus C3).** ~~"it was the want, he thought": his processing at a peak, ending in a wrong explanation.~~ It forgot the table's conclusion (`:73`, Friday). Now: *"She had never once been with him like that. Something was wrong, more than Friday; he could see that much, and not the rest. And she was proud…"* He does not ask and does not touch her hair, out of respect for her pride.
 - `:95` "He did not know what he had done… and it was not there.": his.
 
 ## Consensus-memory cold read, 2026-11-03 — singletons for follow-up (open)

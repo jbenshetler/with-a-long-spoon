@@ -61,3 +61,9 @@ the target and finding id.*
   leaves the table fast (opus's A7: the bench is in the room and Vee has seen it; sol's
   B3: the bench still shapes Randi, appetite and wound unsorted). Rock and Peekaboo are
   not touched. The bench's use waits for {{Vee on the Bench}}.
+- **vol1 C3 — Pace's misreading of Randi the same beat each time:** {{Swim Lanes}} and
+  {{Remembrance}} designed and landing; {{Portion}} fixed (author ruling 2026-11-21). At
+  `portion.md:91` he had forgotten the table's conclusion (Friday stung her); now he sees
+  she has never been with him like that, that it is more than Friday, and keeps silent
+  out of respect for her pride. The rule is recorded in `meta-craft-pace.md` ("He sees,
+  and chooses").
