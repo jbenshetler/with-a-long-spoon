@@ -80,3 +80,10 @@ the target and finding id.*
   three-in-a-row hand at his face is cut to the one at the confession (`gone.md:41`).
   B11 (sex restores equilibrium) and B15 ({{Nachtmusik}}'s reunion delays the phone)
   left standing: Nachtmusik is where sex stops restoring it.
+- **vol1 C6 — Vee's line has no reversal:** the unbroken rise is the volume's design
+  (*A Polite Invitation*; the stakes are the reader's foreknowledge, and her first
+  reversal opens Volume 2 at {{Lesson}}). Acted on in part (author ruling 2026-11-21):
+  the one cost she feels herself, the {{Sorority}} credit card, now presses inside the
+  volume — {{The Induction}} opens alone in the dorm on the receipt lying unread on the
+  heels' tissue, and January's books she doesn't know how she'll buy. No price is ever
+  rendered. She pays it with her Christmas money, recalled at {{Across}}.

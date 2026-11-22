@@ -6444,6 +6444,13 @@ text = "She could have taken the whole walk like that, mincing it modest all the
 note = "idiomatic 'nothing to know' understatement; intentional"
 
 [[ok]]
+fp   = "823a28eb70eb"
+rule = "there-was-were"
+file = "scenes/the-induction.md"
+text = "There was nothing left but the shoes."
+note = "C6 receipt panel, author-approved 2026-11-21"
+
+[[ok]]
 fp   = "0a58ddc06bb0"
 rule = "warm"
 file = "scenes/the-induction.md"

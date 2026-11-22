@@ -59,7 +59,7 @@ The scene runs on **Vee's eagerness to give, met by Randi's appetite to receive*
 
 Do **not** let the splinter tint beat 1's getting-ready or the walk (that was the melancholy leak — burden-language like "the thing she still hadn't said," "homework… disguised as dread," now cut). Beat 1 = triumphant anticipation; the FK is a footnote she'll let Randi rule on.
 
-**Food = appetite mirrors appetite** (not stage business): Vee orders big because she's ravenous, flush with Christmas money, expansive — hunger for food twinned with hunger to tell. Randi orders light and "saves room" — the reread is she's saving her appetite for the real meal, the story Vee's about to feed her. The contrast (Vee feeding / Randi receiving) *is* the characterization, motivated by who they are.
+**Food = appetite mirrors appetite** (not stage business): Vee orders big because she's ravenous, with what's left of her Christmas money, expansive — hunger for food twinned with hunger to tell. Randi orders light and "saves room" — the reread is she's saving her appetite for the real meal, the story Vee's about to feed her. The contrast (Vee feeding / Randi receiving) *is* the characterization, motivated by who they are.
 
 ## Beats
 

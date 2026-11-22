@@ -22,7 +22,7 @@ The truth gets sized to each relationship, and the fullest version goes to the m
 
 **Guards:**
 - Recognition carries through **description** (the sun porch, the white muntins, the light on the cloths) — Vee's POV never compares, never thinks "Randi's place"; one flat *she knew a place* at most.
-- **Money is ordinary, not invisible (revised 2026-08-21).** Vee has Christmas money and knows what things cost here; she warns the girls up front ("a little expensive — is that okay?"), the warning Randi never gave her; the check splits three ways by phone tap. Nobody itemizes, nobody covers anybody.
+- **Money is ordinary, not invisible (revised 2026-08-21).** Vee has Christmas money and knows what things cost here; she warns the girls up front ("a little expensive — is that okay?"), the warning Randi never gave her; the check splits three ways by phone tap. Nobody itemizes, nobody covers anybody. **The card recall (author ruling 2026-11-21):** the Christmas money is what's left after paying off the {{Sorority}} heels — recall the thinning here, lightly, in Vee's own arithmetic. On the page at `across.md:23`: "the shoes had thinned it; what was left sat behind her debit card… and she did not do the arithmetic."
 - First read is nothing but a girl taking her friends somewhere nice on a closed-cafeteria Monday.
 - (Trade acknowledged: the {{What to Wear}} corner-table echo given up for this — warm rhyme surrendered for structure.)
 

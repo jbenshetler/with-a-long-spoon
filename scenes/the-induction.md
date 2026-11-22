@@ -2,6 +2,20 @@
 
 *Vee POV.*
 
+Cassie was still in class and would be back to walk her over. The dress was on. There was nothing left but the shoes.
+
+They were on the closet floor behind her boots, where she had put them Saturday, still in their box in the bag with the rope handles. She knelt and drew the box out and lifted the lid.
+
+The receipt lay on the tissue, folded once. She had tucked it in at the counter without looking at it.
+
+Her hands stopped. She did not unfold it. In January there would be books again, the whole new stack of them, and she did not know what she would buy them with.
+
+She held it a moment between two fingers. Then she put it in her desk drawer, under her class schedule, and shut the drawer, and turned down the tissue.
+
+The heels lay in it, dark and narrow, the thin straps folded in on themselves. She sat at her desk in the dress and put them on.
+
+---
+
 Cassie walked her as far as the doors of the hall and no farther, because past them the honor society's inductees peeled off into their own roped rows down front and everyone else went to the seats. "Go make your mother cry again — call her the second you're out," Cassie said, and took Vee's phone out of her hand to hold.
 
 "I wanted her here." It came out flatter than she meant it, so she tried again. "I did. I've been sad about it all week." Then the rest of it came out too. "And I'm a little relieved. Which is a horrible thing to be."
