@@ -77,7 +77,7 @@ The earlier designable sketch (alternate in Randi's seat; the respectable charge
 ## Open decisions before beat-lock
 
 1. Which officer owns the attendance ledger and reads the guest log aloud.
-2. ~~Which of the two is the truthful witness~~ — **decided (author ruling 2026-11-21): Sloane lies, and her height is the warrant she offers** (she saw it over the crowd). Her grudge dates from Randi's Standards ruling on her before classes started (see the Brooke entry, `meta-arch-bible.md`). The drafted testimony at `inversion.md:147-163` gives the lie to Kinsey and must be revised to match. Still open: which untrue detail each offers.
+2. ~~Which of the two is the truthful witness~~ — **decided (author ruling 2026-11-21): Sloane lies.** Kinsey gives the careful, fair account first; Brooke saves Sloane for second, and Sloane's warrant is *I was standing right over them* (her height implied, never stated). Her untrue details are the hand down the bra and the hand up the skirt. She has Vee's name (Randi gave it to her at the Smoothie Bird, {{Dear}}) and uses *the redhead*. Randi's unspoken correction begins *Nobody was standing over us, Sloane*: she knows only that no one was on top of them, not where Sloane was. Her grudge dates from Randi's Standards ruling on her before classes started (see the Brooke entry, `meta-arch-bible.md`).
 3. Which chapter rule supplies the exact neutral charge language for each of the four items.
 4. The sanction's formal name (attendance probation / corrective attendance agreement) and its end date.
 5. Randi's words at the decline.

@@ -2776,6 +2776,20 @@ text = "\"No, not like that."
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
+fp   = "951e39138428"
+rule = "a-small"
+file = "scenes/inversion.md"
+text = "The room drew a small breath and kept it."
+note = "Room's held breath, re-armed by the author-approved Inversion swap 2026-11-21"
+
+[[ok]]
+fp   = "15adea567141"
+rule = "filter-verbs"
+file = "scenes/inversion.md"
+text = "And the other one up her skirt — up it, I saw it, with the whole back of her out to the room.\""
+note = "Sloane's testimony, dialogue: 'I saw it' is her claim (author-approved Inversion swap 2026-11-21)"
+
+[[ok]]
 fp   = "2978de58534c"
 rule = "out-ahead"
 file = "scenes/inversion.md"

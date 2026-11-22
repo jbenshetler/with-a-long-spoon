@@ -144,13 +144,13 @@ A sentence cut to hold anything at all. Girls danced together at every function 
 
 They had kept the mixer for last, the way you kept the witnesses for last, and for the mixer they had two.
 
-"She brought a girl," Sloane said, careful, fair, making it worse with the weight of being so fair. "As her date. To a mixer. And she had her hands all over her out on the floor — hiked that little skirt right up, for the whole room to see — and at the end she kissed her. Not a peck. A real one, with everything in it, in front of everybody. That's not how we're supposed to behave. I'm not saying anything by it. I just thought the board should know."
+"She brought a girl," Kinsey said, careful, fair, making it worse with the weight of being so fair. "As her date. To a mixer. And she had her hands all over her out on the floor — hiked that little skirt right up, for the whole room to see — and at the end she kissed her. Not a peck. A real one, with everything in it, in front of everybody. That's not how we're supposed to behave. I'm not saying anything by it. I just thought the board should know."
 
-Kinsey had been waiting all her life to go second at something.
+Brooke had saved Sloane for second.
 
-"Her hand was down the front of her bra," she said. "The redhead's. And the other one up her skirt — up it, I saw it, with the whole back of her out to the room." She did not have the redhead's name, so it was *the redhead* all the way through, and the room drew a small breath and kept it.
+"Her hand was down the front of her bra," Sloane said. "The redhead's. I was standing right over them. And the other one up her skirt — up it, I saw it, with the whole back of her out to the room." She had the redhead's name; Randi had given it to her herself, at the Smoothie Bird. The room drew a small breath and kept it.
 
-It would have taken Randi one moment to end her. *My hand was never in her bra, Kinsey. It was flat on the outside of a skirt, for a boy named Harrison, with the whole floor watching me do it — and I did not put my hand up her skirt.* Not that she hadn't wanted to. God, she had wanted to.
+It would have taken Randi one moment to end her. *Nobody was standing over us, Sloane, and my hand was never in her bra. It was flat on the outside of a skirt, for a boy named Harrison, with the whole floor watching me do it — and I did not put my hand up her skirt.* Not that she hadn't wanted to. God, she had wanted to.
 
 She had helped them look at her, though. God forgive her, she had. But that was hers to carry, and you did not hand a board the thing it was already reaching for.
 
@@ -158,9 +158,9 @@ The wanting was the real crime. Just not the one they would name.
 
 But the sentence that killed the lie came with the truth riding its back, and the truth was only the smaller scandal, not the lesser crime — it broke the very same rule, it only broke it quietly — and to set it down in front of Caroline's moving pen she would have had to tell them to the inch how much she remembered and how much she had wanted, and the wanting was the one thing she had spent her whole life making sure no one ever saw.
 
-So she let Kinsey have the bra. She let her have the hand up the skirt. It was her own trap handed back to her, the one she had set from that very chair: dispute it and hang faster, correct it and hang slower, and either way the board has you. She sat with her face arranged and let the fat lie stand, because the thin truth cost more.
+So she let Sloane have the bra. She let her have the hand up the skirt. It was her own trap handed back to her, the one she had set from that very chair: dispute it and hang faster, correct it and hang slower, and either way the board has you. She sat with her face arranged and let the fat lie stand, because the thin truth cost more.
 
-"Thank you, Kinsey," Brooke said.
+"Thank you, Sloane," Brooke said.
 
 "Do you dispute any of it?" Brooke said. Gently. The door held open one more time. "Any of the particulars — the dates, the account of the mixer. Anything you'd want Caroline to note."
 
