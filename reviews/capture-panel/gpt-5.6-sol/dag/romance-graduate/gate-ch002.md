@@ -1,32 +1,31 @@
-*capture-dag-v3-grounded · gate ch002 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed aa94ed7ea80c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch002 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 17f83d064d79 · dated · memory grounded: facts none + raw ch001..ch001 · history ch001..ch001 · ledger no seed f9e55b1db470 · 2026-11-22*
 
-REACTION — Oh, that was vicious. Four minutes of smiling and I felt every inch of the trap closing around her. Nobody said Pace was beneath her outright. They didn’t have to. The pickup, “engineering,” whether he teaches her, *short-cute*—each question gave Randi a chance to rescue herself by making him smaller, and she took every one. “He’s cute” hurt after spending an entire chapter inside the extraordinary precision of his attention. These women have reduced him to an embarrassing little exception before they even know his last name, and Randi matched Kinsey’s laugh so quickly she didn’t have time to choose it. I hated that. I also completely believed it.
+REACTION — Oh, Brooke is terrifying. Not because she did anything overtly cruel, but because she never had to. Every smile was a pressure point. Every question came padded enough that Randi would look unstable if she objected. And then “Go.” God. That was exactly a hit: Brooke establishes that she knows about Pace, measures him against the house’s standards, makes Randi participate in diminishing him, and releases her before she can recover any ground. Four minutes, all smiling. I know that room. I know women who can do that room.
 
-Brooke scares the hell out of me. The warmth is worse than open hostility because every smile gives her plausible deniability. She knew Randi lied about the paper, knew she’d spent the night with Pace, and made Randi understand that she knew without ever becoming impolite enough to challenge. Then she dismissed her before Randi could recover any ground. That “Go” was brutal. This house runs on women disciplining one another so elegantly that nobody has to admit discipline is happening, and of course Randi is Standards. Of course she has learned to do professionally to other women what she is now doing to herself.
+“Short-cute” made me furious in a very specific way. Pace’s body was so present and adult in the last chapter—the strength, the patience, the physical competence—and Randi instantly helped reduce him to something harmless and faintly embarrassing because that was the version the house would accept. She matched Kinsey’s laugh before she could choose it. That is the face operating at reflex speed. Pace never had a chance against it because Randi herself barely has a chance against it.
 
-And then the duvet. God. Pace noticed she gets cold and had the cashmere blanket ready; here she pulls something “light and synthetic and adequate” over herself and cannot even let the comparison finish. I felt his absence in that room physically. She has gone from being held by someone who sees her to lying fully dressed in a perfectly ordered single, unable to locate what she meant to do. I don’t think I have ever been so upset by a woman not taking off her shoes.
+And now I understand more sharply why being seen last night was unbearable. It was not simply that she is guarded or ashamed of wanting. Her whole environment is a surveillance machine she helps operate. She sits on Standards. She has earned privacy by becoming part of the apparatus that decides what is acceptable. Of course she can’t just take the self Pace found and carry her home in daylight. There is nowhere in this house for that woman to stand.
 
-“He’s hard to say no to” turning in the room made my stomach drop. Not because Pace ignored a no—he very carefully did not—but because Randi has already created the socially acceptable version of their relationship, and that version lets her erase her own wanting. If wanting him has become dangerous to her status and being seen by him has become dangerous to her self-protection, then pretending he simply overcomes her may be the only story she can bear to tell. That is an awful place for the coming game with Vee to grow from.
+The line that really got under my skin was “He’s hard to say no to.” Last night Pace made room for her yes so carefully that the choosing became the charge. Here she has already translated that choice into the approved feminine alibi: the man wanted, the man persuaded, what could she do? And then she hears the line alone and realizes, somewhere below language, what she has done to the truth. That is ugly and sad and psychologically exact. I don’t think she believes Pace coerced her. I think she has no socially usable grammar for saying that she wanted something this badly, so the grammar available to her makes him responsible for her desire. That frightens me for both of them.
 
-No heat here, and I did not miss it. This was the bill arriving for the previous chapter. I’m more attached to Randi now, not because she is behaving well, but because the book let me feel how automatic her disappearance is. She isn’t dramatically choosing repression. She has practiced not-going toward herself until it feels like there is no door. That is bleak, grown-up, and painfully recognizable.
+The duvet absolutely wrecked me. “It was not—it was a duvet.” After Pace’s cashmere blanket, his warmth, his hand knowing where to rest, she is back under something light and synthetic and adequate. Fine, in other words. The whole life she has built is adequate, and she has just spent a night learning what adequate costs her. Then she lies there in her shoes because even changing clothes would require admitting she has a body that went somewhere and came back altered.
 
-Texting a friend at 1 a.m.: the sorority girls politely turned the man who found her soul into “short-cute,” and now she is lying in her shoes under an adequate duvet refusing to remember what it felt like to be warm.
+This was quiet, but it did not feel like the book taking its foot off the gas. It felt like pressure sealing around her. I’m more afraid now than I was at the bathroom door, because hiding from Pace is only half the problem. Randi has returned to the place that taught her how to disappear, and everyone there will reward her for doing it beautifully.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
+HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: This chapter made social pressure feel more threatening than a conventional villain and turned an ordinary duvet into an ache for Pace. I need to know whether Randi protects what happened with him, rewrites it, or starts using Vee to put distance between herself and it.
+WHY: The erotic scene is over, but its consequences are alive in every smile and every lie. I need Randi to find language for the difference between Pace making space for her choice and the house teaching her to deny that she chose at all.
 
 LEDGER
-+ GRUDGE: Brooke’s immaculate warmth while she interrogates Randi and quietly ranks Pace beneath them.
-+ LOVE: The absent cashmere blanket—Pace knowing Randi gets cold has become even more tender against everything merely adequate in her own room.
-+ SUSPICION: Randi will use “he’s hard to say no to” to erase her own appetite and make Pace responsible for choices she cannot bear to own.
-+ WAITING: I need to see Randi perform Standards on someone else now that I know what that machinery does to her.
-~ F1.1 DEEPENED: Randi is already making Pace smaller and herself less willing inside the story she tells the house; Vee could become the perfect buffer against being seen again.
-~ L1.2 DEEPENED: His care is present even in his absence because the cold room and adequate duvet expose exactly how specifically he tends to her.
-~ S1.3 DEEPENED: Randi cannot approach her own crying or wanting once she is back inside the house; displacing both onto Vee now feels frighteningly likely.
-~ W1.4 DEEPENED: The path toward choosing Vee now seems likely to begin in Randi’s need to rewrite what happened with Pace before either he or the house can name it.
++ FEAR: Randi’s house will make Pace socially embarrassing enough that she rewrites her own desire as something he did to her.
++ GRUDGE: Brooke’s velvet interrogation and the way she made Randi help diminish Pace, then dismissed her before she could repair it.
++ SUSPICION: Randi joined Standards partly because enforcing the rules gives her a private room in which to conceal what those rules cost her.
++ WAITING: Randi saying plainly, even once, that Pace was not hard to say no to—she wanted to say yes.
+~ F1.1 DEEPENED: The flawless face is not merely something Randi can put on for Pace; it is an automatic survival response reinforced by an entire house.
+~ S1.5 DEEPENED: Pace truly found a hunger in her, but he does not yet understand the social machinery that requires her to disown it the moment she leaves him.
+~ W1.7 DEEPENED: Randi knows last night altered her, but alone under the merely adequate duvet she still cannot cross into the thought or the crying.

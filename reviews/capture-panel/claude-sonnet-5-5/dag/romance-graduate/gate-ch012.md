@@ -1,30 +1,30 @@
-*capture-dag-v3-grounded · gate ch012 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7c2acb467c8 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch011 · history ch001..ch011 · ledger no seed ced45405a138 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch012 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9cd97404346a · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch011 · history ch001..ch011 · ledger no seed 3913417af35d · 2026-11-22*
 
 REACTION
 
-Okay, this one is a real breather, and I'm a bit torn about it. It's a cafeteria chapter. No Pace, no Randi, no heat, right after the hottest scene in the book. That's the second quiet one by my count, and I notice it.
+Okay, this is a breather, and I know it, and I'm a little annoyed at how much I enjoyed it anyway. Twelve days. "You know exactly how many days ago." Meg catching her counting made me grin. Vee is so far gone she doesn't know it, and the table does.
 
-What it does well is show me Vee happy and surrounded. She's loud and easy with Meg and Kayla, and that's a Vee I haven't seen. She's telling the story of the shirt and it gets better in the telling, and she knows it. The line "I could hear it sounding like nothing" is the best thing here. She's climbing the walls over a man asking what she wants for dinner, and she can name how small that is and still can't think. That's the architecture working on her, and I felt the dread click in. Meg's "Everybody's different at the start. Sometimes they even are" is nicely deflating. Vee lets it go by, "It didn't catch on anything." Oof.
+Two things landed hard. First, the retelling. Vee is performing the hike for new friends, Kayla and Meg, a dorm with a dining hall, and the story "getting better in the telling." Cassie isn't at this table. Not one mention of her. The Cassie edge-out I've been dreading has just quietly finished, and the book doesn't say so. It just gave Vee a new bright table, like Randi's world swallowing her. That stung more than any scene with Cassie in it would have.
 
-Cassie is gone from this chapter entirely, replaced by Kayla and Meg. Vee has new friends, a new dining hall, and the whole table runs on her Pace story. That's my fear coming true in plain sight. I missed Cassie by the second page.
+Second, and bigger: this chapter happens Thursday, after Pace's chapter with Randi on Sunday, and Randi's nowhere. Vee tells her whole story to two girls and, as far as I can see, has told Randi nothing since the smoothie. And Pace is texting Vee to come to his house. The bench is there. The table top goes back on. I know what Saturday at two is for, and Vee doesn't, and Kayla's "he wants you for the afternoon" is dead right and thrilling and sick. "It's the least information a human being has ever sent me." That's Pace the controller, minimal and courteous. Not saying what to wear is his version of asking first, and also his version of keeping the lead. I'm scared and I want it.
 
-The text is a delicious hook. A two o'clock Saturday invitation, no reason given, and Kayla reading it right: "He wants you for the afternoon." I know why Pace is doing this. The bench is in that house, and Randi asked if Vee would like it. So the invitation lands like a trapdoor, while Vee is giddy about hair. The dread and the anticipation are finally both pointed at the same room. The "once, twelve days" counting is cute too.
+Also "He asks me first... what I want for dinner... I'm the one who can't think straight." That's the jacket in her mouth. It works, but she explains her own engine to her friends, and the book is telling me what I already felt. Minor.
 
-Not much to complain about, only that it's mostly dialogue, and it repeats the hike story I already lived through. The retelling is the point, though, since it shows how she's shaping it. Still no Randi, and I want her badly. She's not even named.
+Complaints: zero heat, and it's a chatty, quiet chapter. Meg's "Sometimes they even are" is the one line with a knife. The cheese, the curls, the character sketches ran a bit long. But the ending hook, door and Saturday, is clean and I'm hungry.
 
 GATE 12 — What to Wear
 DECISION: CONTINUE
 CAPTURE: 6
 NEXT: 9
 HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "Meg was already asking what she even owned that said his house without saying trying too hard" (a retread of the hike story at the dinner table)
-WHY: A friends-at-dinner bridge, warm and funny, but it retells what I've already read. The invitation to his house, with the bench waiting there, makes me want Saturday right now.
+ROMANCE: 2
+ALMOST-STOPPED: "Kayla's theory was that you walked in like you'd always eaten there and nobody ever asked you a thing." The dining-hall scene-setting at the open was throat-clearing before anything charged.
+WHY: A bright, funny breather that quietly confirms Cassie's been replaced at Vee's table, and ends on Pace's bare invitation. I know what's behind that door and she doesn't, and I want Saturday now.
 
 LEDGER
-+ WAITING: Saturday at two at Pace's house, Vee's first visit, and the bench behind that door
-+ FEAR: Cassie has been swapped out for Meg and Kayla at the table, and Vee's new world is built on her Pace story
-+ SUSPICION: Pace invited her without telling Randi, or Randi engineered the invite after her "I want us"
-~ F9.1 DEEPENED: Vee is now eating with a new crowd and Cassie is nowhere
-~ W10.4 SHIFTED: The first night together now looks like Saturday at his house
-~ F8.2 DEEPENED: "I can hear it sounding like nothing" shows she half-sees the architecture and walks in anyway
+~ F4.2 DEEPENED: Cassie isn't at Vee's table or in her story at all now; the new girls have simply replaced her.
++ FEAR: Saturday at two at Pace's house means the bench, and Vee is walking in without knowing about the plan.
+~ W10.6 SHIFTED: He's finally inviting her into his house; the touch is coming Saturday.
+~ S7.3 DEEPENED: A bare "two o'clock, my house" with no instruction is his control of the tempo again.
++ WAITING: Where Randi is, and whether Vee has told her about the invitation.
++ SUSPICION: Meg's "sometimes they even are" different may be the book's own wink that Pace really is.

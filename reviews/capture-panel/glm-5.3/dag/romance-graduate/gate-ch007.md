@@ -1,27 +1,33 @@
-*capture-dag-v3-grounded · gate ch007 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f7b31153e329 · dated · memory grounded: facts none + raw ch001..ch006 · history ch001..ch006 · ledger no seed ecb268624dfd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch007 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f7b31153e329 · dated · memory grounded: facts none + raw ch001..ch006 · history ch001..ch006 · ledger no seed 0268d09b56c5 · 2026-11-22*
 
-REACTION — So this is the quiet chapter after the hot one, and it's the Cassie chapter, and I am defenseless against the Cassie chapter. "They will never know the love of a woman" — kept low, just for the two of them, when she had the lungs to broadcast it — that's this book's whole friendship thesis in one pitched-down joke. And then the water trick from ten feet off: she doesn't wade closer, doesn't ask what's wrong, doesn't do the sad-version thing — she just launches a sheet of water at her friend who went somewhere underwater and came back wrong, because you can't grieve and fight your best friend for a mouthful of pool at the same time. I want to laminate that line. Cassie's love language is refusing to make Vee's grief a conversation, and it's the exact counterweight to everything Pace does — he'd have *asked*, gently, with his eyes, and taken notes.
+REACTION
 
-The underwater paragraph is the best thing in the chapter and it's not close. "She had loved this before she had a body to be problem" — the water is the one place the surveillance doesn't reach, hers since before the body became a public object, and the book let her have it for a whole page and then made her come up. "The body that was such a problem stayed up on the deck with the rolled towel, where it could wait." That's the floozies beat and the cardigan beat and the froyo cup beat all resolved into one sentence: there's a place inside Vee that predates all the managing, and the book just showed me where she'd hide if she could. And it grieves her a little, down there. Of course it does — the belonging is real and it's underwater and temporary and she has to come up every time.
+A third quiet chapter in a row — no heat, no Pace, no Randi, just Vee and Cassie at a pool — and I honestly didn't skim a word. I think it's because this chapter isn't actually quiet. It's the first chapter where Vee is alone with the one friend who sees her, in the one place her body isn't a problem, and the book is quietly building the thing it's going to break my heart with.
 
-But I know things Vee doesn't, and the shower scene was almost more than the pool. She's doing his inventory again — the knuckles, the way he sat down, the held door — and the book is doing it *while she doesn't know what the inventory is for*. She's in a towel on a wet bench wondering about a man's hands and doesn't know she's the subject of a plan with a name in it. And the "Don't answer tonight." Oh, I see you, Pace. I see exactly what that is. It's the bench move and the edging move and the froyo — the withdrawal of the thing right at the moment of surrender, so the yes has to be given with her whole self, undefended, later. He did it to Randi on the bench ("No. Not yet.") and now he's doing it to Vee with a *dinner invitation*. The courtliness and the control are the same instrument, and the fact that it WORKS — that I felt the pull of it alongside her, that "who does that?" is genuinely, helplessly charming to me too — is what keeps F5.1 alive and breathing.
+The underwater section is beautiful. "She had loved this before she had a body to be a problem" — that's the whole Vee wound in one line. Synchronized swimming at sixteen, the suit that fit then and fits differently now, the scull her hands remember without asking. The idea that the water is "the one part of it that had never been taken." I felt that in my chest. And then the grief — she grieves, a little, down there, and the book lets her, and then Cassie's water trick. Cassie, who never asks, who sinks her hands and shoots the water over "outrage out of all proportion to the actual amount of water, which was the point." Cassie keeps being written as exactly the friend I wanted her to be. The "They will never know the love of a woman" line made me laugh out loud, and then the shriek-laugh — "the ugly one" — because the book knows Vee's ugly laugh is her real one, the one Pace's technique is designed to extract. Cassie gets it out of her for free. That's not an accident of writing; that's the book showing me what genuine care looks like so I can tell the difference.
 
-The ending, her thumb over the keys while the light goes to WALK, and back — that's her not answering yet because he told her not to, and the book ends on the held yes. Second quiet chapter in a row if you count by heat, and I don't even feel the itch, because the shape is deliberate now: load-bearing, quiet, load-bearing, quiet. But I'll say it: Saturday dinner is when the plan gets its teeth into her for real, and I'm leaning forward.
+And the bleacher heckling handled like weather — the long blink, the eyeroll, the game face — while Cassie keeps the insult for Vee, low, just for the two of them. "Her body stayed up on the deck with the rolled towel, where it could wait." That sentence is going to stay with me.
+
+Then the shower, and the "don't answer tonight" thing. God, that's the Pace method again — asking her to hold the yes in her mouth without spending it. It's exactly the bench: withholding to make the wanting louder. And Vee sitting there in a towel winding a curl around her finger, thinking about his hands, his knuckles — the book gives her genuine desire, unsupervised by her mother's voice, in a locker room. "Which is really not the place." I love her.
+
+The ending gutted me: her thumb hanging over the reply to a text that says "do you like frozen yogurt" — because he already took her for frozen yogurt. The thread has one message in it. He asked her out, then forbade the answer, and now she's at a crosswalk unable to text him back because he hasn't asked. He's installed the waiting on purpose. I see what he's doing and I'm doing it right alongside her.
+
+The pacing thought: this is the third low-heat chapter in a row, and normally that's where I'd start checking my phone. But the structure is deliberate — alternating between the schemers and the target, and the tension isn't erotic anymore, it's dread and tenderness in equal parts. What I need next is Saturday. The date has to happen soon or I'll start to feel the book stalling.
 
 GATE 7 — Water Wings
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 7
+NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The underwater scene and Cassie's no-questions water cannon gave Vee a whole inner geography, and "Don't answer tonight" let me watch Pace run the bench protocol on a dinner invitation — I need Saturday like I need air.
-HEAT note: the towel-bench hands business is a simmer in a locker room, and it's all in her not knowing why she's wondering.
+WHY: Cassie and the underwater scene gave Vee more real interiority than the last three chapters combined, and "don't answer tonight" reinstalled the bench-technique dread perfectly. I need the Saturday date now.
 
 LEDGER
-+ LOVE: Cassie refusing to make grief bigger — the pitched-down joke and the ten-foot water trick; I will not survive anything bad happening to her
-+ WAITING: Saturday dinner — and Vee's held yes, thumb still over the keys
-~ F4.1 DEEPENED: The underwater scene showed me exactly what's being stolen — she had one place the body wasn't a problem, and Pace's plan is about to reach even that, and she'll think it's love
-~ F5.1 DEEPENED: "Don't answer tonight" is the bench withdrawal applied to a dinner ask — timed to make the yes come from the whole self, and it's working on me too
-~ L4.2 DEEPENED: Cassie wading to her ribs and planting like a fence — "Go on. I'll be right here. Standing. Like a person." — the friendship is load-bearing and the book knows it
-~ S4.4 DEEPENED: Cassie saw Vee come up with her face on wrong and diagnosed it from ten feet with a cupped-hand water cannon — she reads Vee better than anyone on the page, including Pace
++ LOVE: Cassie's water trick — the friend who never asks and shoots the outrage over; the honest voice now has a full arsenal of care
++ FEAR: that Pace's "don't answer tonight" is the bench being run on Vee in daylight — the withholding-as-arousal method applied to a girl who has no idea it's a method
++ WAITING: Saturday dinner — the first real date, the machinery finally aimed at Vee in person
+~ L4.2 DEEPENED: Cassie — the pool chapter made her Vee's water and Vee's honesty at once
+~ F3.1 SHIFTED: Vee's body is now text — "loved this before she had a body to be a problem"; the handling of her has a whole new layer of specific tenderness to exploit
+~ F5.1 DEEPENED: "don't answer tonight" is the technique running in the light; she is falling for the withholding itself
+~ G4.3 DEEPENED: the mother's voice held off — she thought about his hands in a towel and the mother's voice didn't come; the cover is slipping, which is exactly what they're counting on

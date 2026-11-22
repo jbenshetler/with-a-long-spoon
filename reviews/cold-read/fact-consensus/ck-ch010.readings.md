@@ -1,135 +1,151 @@
 # Readings — through Chapter 10
 
-*readings only, for cold readers; never given to capture readers · slots: anthropic=claude-opus-5-5, openai=gpt-5.6-sol, google=gemini-4-argon, diversity=glm-5.3 · quorum 2 of 4 · matcher: claude-opus-5-5 · bundle-sha256: a0a6b83c1656c24ca37ac28ab848a30b836c6980dea6ee297466c782e15f3301 · 52 readings admitted · 2026-11-18*
+*readings only, for cold readers; never given to capture readers · slots: anthropic=claude-opus-5-5, openai=gpt-5.6-sol, moonshot=kimi-k3.1-pro, diversity=glm-5.3 · quorum 2 of 4 · matcher: claude-opus-5-5 · bundle-sha256: 0262db52e0b4190540241b1d4c917770c80c580a3fa7e3d52df744ceb20953f5 · 60 readings admitted · 2026-11-22*
 
 ---
 
 ### Impression
 
-**Vee.**
-- Read as: She seems to police herself in her mother's voice, judging both other girls and her own body. (4 readers)
-  > "The voice said *floozie* in her mother's exact word and her thighs pressed once, hard, on their own"
-- Read as: She reads as hungry to belong, dazzled by a world she has only watched from outside. (3 readers)
-  > "she had been chosen, plainly, for reasons she didn't need to understand, by exactly the person she'd have chosen to be chosen by."
-- Read as: Her feeling for Randi reads as desire she hasn't looked at yet. (3 readers)
-  > "And all Vee could do was look at her with a flat helpless want, the want you keep for a thing you've only ever seen from a distance"
-- Read as: She seems to find deep relief in handing over control. (3 readers)
-  > "the relief of handing the choice across the table went through her"
-- Read as: She reads as starved in more than one sense, and the meal opens a long-standing emptiness. (2 readers)
-  > "It kept going down and down into something that had been empty a lot longer than since noon."
-- Read as: She insists on her own agency, and she reads as proud of choosing. (2 readers)
-  > "I did it because I wanted to and I did it on purpose."
-- Read as: She reads as quietly gifted at math and structure, a gift she lets slide when Randi is close. (2 readers)
-  > "the structure under the numbers, the pleasure of the problem opening"
-- Read as: She seems to be drifting from Cassie and not letting herself notice. (2 readers)
-  > "And Vee thought, easily, that it was fine to have your own people."
-- Read as: Vee seems naïve about how thoroughly Randi and Pace have arranged the apparent accidents of her new life. (2 readers)
-  > "that she had been chosen, plainly, for reasons she didn't need to understand"
+**Randi.**
+- Read as: Randi seems able to want Vee only through Pace, picturing Vee's body as something she offers to him. (4 readers)
+  > "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift"
+- Read as: Randi seems to spend her social standing on Vee in front of the sorority, which reads as both generous and claiming. (4 readers)
+  > "Randi had just spent something on her, in front of the girls who decided what it was worth."
+- Read as: Being seen with tenderness seems to hurt Randi more than the spanking did. (3 readers)
+  > "the kind of flinch a body makes when something lands somewhere it was not braced for."
+- Read as: Randi's desire for Vee reads as real and helpless, arriving before she can dress it up as a gift for Pace. (3 readers)
+  > "Yes, she said. The word came out alone, with nothing around it"
+- Read as: When Pace gives Vee his attention, Randi reads as jealous or shut out, and her tension shows in her hands. (3 readers)
+  > "Beside her, Randi's hand went to her coffee cup, held it with both hands a second longer than the sip required"
+- Read as: Randi reads as quietly arranging the coffee-shop "chance" meeting, apparently texting Pace to come. (3 readers)
+  > "the geometry arranged across thirty feet arrived all at once"
+- Read as: Randi seems to treat her polished face as armour, and after the bench she seems to decide to keep the self Pace found hidden from him. (2 readers)
+  > "The one he had found was going back behind it, and she was not coming out again."
+- Read as: The bottle-cap moment hints that Randi turns overwhelming feeling into private pain she can control. (2 readers)
+  > "She kept the bottle when she was done, turning the cap loose in her fingers, and set the sharp inner edge of the cap under her thumbnail and pressed"
+- Read as: Randi's appetite seems policed as tightly as her mother's, so food reads as a constant pressure in her. (2 readers)
+  > "an order that sounded like a sentence handed down, a drink the color of a bruise when it came"
 
 **Pace.**
-- Read as: Pace seems deeply gratified by bringing hidden wants into view, which makes his care inseparable from an appetite for revelation. (3 readers)
-  > "the voice of a woman who was not performing because she had run out of the apparatus of performance."
-- Read as: Pace reads as extraordinarily observant, noticing appetites and discomforts other people overlook. (3 readers)
-  > "he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed"
-- Read as: He seems to be quietly guarding something of Vee's from Randi, which hints at a real attachment growing outside the game. (3 readers)
-  > "He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over. It was hers."
-- Read as: The "chance" meeting reads as calculated, which casts a slight chill over his courtliness. (3 readers)
-  ⟷ competes with: Pace seems to value consent as an active choice that must remain available even inside surrender
-  > "He chose it fast and without seeming to, for the angle it gave on the doors and on everyone coming through them."
-- Read as: Pace seems to value consent as an active choice that must remain available even inside surrender. (2 readers)
-  ⟷ competes with: The "chance" meeting reads as calculated, which casts a slight chill over his courtliness
-  > "that was what he did, he backed off and let her decide"
-- Read as: Pace reads as patient and courtly, repeatedly leaving the decisive last movement to Vee. (2 readers)
-  > "He stood in the shadow with her and left the last inch where it was."
-- Read as: His restraint seems to come from an old wound, a lesson he learned about respecting a closed door. (2 readers)
-  > "A closed door was hers, not his; you did not open it just because you could hear through it."
+- Read as: Pace reads as calculating, able to predict Randi's moves before she makes them. (4 readers)
+  > "he had known since about the second block of the walk home"
+- Read as: Pace reads as patient and careful about consent, always giving the woman room to decide. (3 readers)
+  > "He wasn't going to take it any further than she had. Whatever came next was hers too."
+- Read as: Pace seems to enjoy handing Randi the power to choose, which also reads as a quiet way of steering her. (3 readers)
+  > "Greed now would spend the night early, and there was better ahead of her"
+- Read as: For all his attentiveness, Pace seems blind to how badly the bench night shook Randi. (3 readers)
+  > "He thought that this had been a remarkably good evening."
+- Read as: Pace seems to be growing loyal to Vee herself, keeping what she confided even from Randi. (3 readers)
+  > "He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over."
+- Read as: Pace seems to correct Vee without shaming her. (3 readers)
+  > "He had sliced it thin because she would eat thin slices and would not eat thick ones"
+- Read as: Pace seems shaped by an old guilt over going into a lover's private feelings uninvited. (3 readers)
+  > "Daphne had built a door, once, and he had not respected it."
+- Read as: Pace reads as self-denying, putting his own needs aside until his body pays for it. (2 readers)
+  > "She had shown him only a fraction of who she was, and tonight she had met more of herself than he had thought she would."
+- Read as: Pace's restraint in the truck reads as worshipful rather than grasping. (2 readers)
+  > "He sat and looked at all of her and didn't move"
 
-**Randi.**
-- Read as: Being seen and held tenderly seems to frighten her more than any pain. (4 readers)
-  > "Tenderness was something the face received and passed inward, in amounts she decided."
-- Read as: She reads as a woman who has made her face into armor and has decided to stay behind it, even with Pace. (3 readers)
-  > "She had been perfect, and perfect was safe, and safe had held until a man watched her instead of the face"
-- Read as: Randi seems unable to admit wanting a woman except by recasting that want as a gift for Pace. (3 readers)
-  > "She had made herself not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy."
-- Read as: She reads as a practiced social operator, able to stage a "chance" meeting perfectly. (3 readers)
-  > "A decade of dance and three years of whatever sorority actually taught under the mixers and the letters, all of it folded down into three seconds of execution"
-- Read as: Her fidgeting at the coffee shop reads as jealousy or anxiety, not the boredom Vee assumes. (3 readers)
-  > "Twice the cup came up to her mouth and went back down, and no sip happened."
-- Read as: Her "yes" to Vee reads as plain, helpless desire that got out before the performance could catch it. (2 readers)
-  > "the bare arrival of a thing already true before she got to it."
-- Read as: Holding Vee's hand in front of Brooke reads as a real and risky public claim. (2 readers)
-  > "Randi had just spent something on her, in front of the girls who decided what it was worth."
+**Vee.**
+- Read as: Vee reads as starved to be chosen, and she is easily lit up by attention. (3 readers)
+  > "that she had been chosen, plainly, for reasons she didn't need to understand"
+- Read as: Vee seems to have taken her mother's judgments into her own voice. (3 readers)
+  > "The voice said floozie in her mother's exact word and her thighs pressed once, hard, on their own"
+- Read as: Vee's desire for Randi reads as strong and unadmitted. (3 readers)
+  > "all Vee could do was look at her with a flat helpless want"
+- Read as: Vee seems ashamed of her own body and hides it under fabric. (3 readers)
+  > "She had worn the cardigan over the better shirt on purpose this morning, as she did most mornings"
+- Read as: Vee seems to find her own agency with Pace and to insist that her choices were hers. (3 readers)
+  > "I wasn't talked into it. I did it because I wanted to and I did it on purpose."
+- Read as: Vee seems to be drifting from Cassie toward Randi without wanting to look at it. (3 readers)
+  > "Underneath it something turned over, small, and she let it lie"
+- Read as: Vee's shame seems to have become her arousal, so her mother's verdict feeds the heat. (2 readers)
+  > "that wanted to be the very thing the voice said, wanted it with him, wanted him watching her be it."
+- Read as: Vee reads as dangerously ready to trust Pace because his patience feels like evidence that wherever he leads must be safe. (2 readers)
+  > "that she had been chosen, plainly, for reasons she didn't need to understand"
 
 **Cassie.**
-- Read as: She reads as unimpressed by Randi's charm and declines to play along. (3 readers)
-  > "she just put her name down flat in the space, one word, and picked her pencil back up."
-- Read as: She seems loyal and protective, keeping her jokes for Vee rather than for show. (3 readers)
-  > "Cassie never asked — asking was for people who wanted the sad version to get bigger."
-- Read as: She seems quietly hurt at being left behind and hides it. (2 readers)
-  > "whatever had been in them was folded away."
-
-**Daphne.**
-- Read as: She reads as the past lover whose privacy Pace violated, a loss that still shapes him. (2 readers)
-  > "Daphne had built a door, once, and he had not respected it."
+- Read as: Cassie reads as fiercely loyal, protecting Vee quietly. (3 readers)
+  > "Just her name, like setting something down where it wouldn't break."
+- Read as: Cassie reads as protective and wary of anyone who might take advantage of Vee. (3 readers)
+  > "She teased Vee about everything; she didn't tease her about this."
+- Read as: Cassie seems to sense something off about Randi before Vee does. (2 readers)
+  > "something passed over her face, brief, that Vee would not have been able to name"
+- Read as: Cassie seems to see clearly that Pace looked past Randi. (2 readers)
+  > "He looked at you like he'd forgotten there was anyone else in the room"
 
 **Brooke.**
-- Read as: She reads as a velvet-gloved enforcer whose friendliness is a form of surveillance. (4 readers)
-  > "she knew exactly how much authority it took to stay seated while another person stopped walking. Brooke had more of it than she did."
+- Read as: Brooke seems to hold quiet, total control of any room she sits in. (4 readers)
+  > "Brooke was the chapter president and did not need to stand to stop someone in her own common room."
+- Read as: Brooke reads as a smiling watcher who files away information about Randi. (2 readers)
+  > "Pace. That's actually his name? Like he goes by Pace?"
+- Read as: Brooke's warmth toward Vee reads as appraisal, sizing her up behind the smile. (2 readers)
+  > "felt it take her measure, top to bottom, and stay warm the whole way."
 
 **Sloane.**
-- Read as: Her friendliness reads as an empty social tool, ready for any use. (2 readers)
-  > "the laugh that meant nothing on its own and was therefore available for anything."
+- Read as: Sloane reads as ambient social noise, the sorority chorus that grades without deciding. (2 readers)
+  > "I love that you don't get pulled in by that stuff. It's so refreshing."
 
 **Kinsey.**
-- Read as: She seems eager to fit in and a little anxious about it. (3 readers)
-  > "Kinsey, who had been waiting for the room to warm to her"
+- Read as: Kinsey reads as eager to fit in and a little off-key. (4 readers)
+  > "Kinsey, who had been waiting for the room to warm to her, leaned forward over her cereal bowl."
+
+**Christine.**
+- Read as: Christine seems motherly and generous toward Pace. (4 readers)
+  > "Christine fed me twice what I ordered and wouldn't put it on the bill."
+
+**Vee's.**
+- Read as: Vee's mother reads as a constant voice of restraint over Vee's appetite. (2 readers)
+  > "*Floozies,* Vee thought, the word arriving whole and in her mother's voice before she had finished forming the picture."
 
 ### Symbolism
 
-- Read as (ch1): The bench hidden as a table: a hidden purpose under an ordinary surface, like the game itself. (3 readers)
-  > "full of what it was, doing what it would continue to do, waiting for the next time."
-- Read as (ch1): The thin apple slices: Randi's rationed appetite and Pace's way of feeding it. (4 readers)
-  > "a girl who had been portioning herself, weighing every want before she let herself have it, and who tonight had finally let someone feed her."
-- Read as (ch1): The lock and the deadbolt: Randi shutting herself away inside. (3 readers)
+- Read as (ch1): The bench that hides inside a table: a hidden appetite in Pace's house, waiting to be uncovered again. (4 readers)
+  > "The top was leaning against the wall. The bench, which she had seen without seeing, was now bare."
+- Read as (ch1): The face in the mirror: a mask Randi wears over her real self. (4 readers)
+  > "She tried the smile again. The smile, this time, settled."
+- Read as (ch1): The lock and the key turning: Randi shutting herself away. (3 readers)
   > "he heard the small click of the lock turning over, which was not a thing she had ever done before in his house."
-- Read as (ch1): The mirror smile: the face as a mask laid over the self that begged. (2 readers)
-  > "The face was lying."
-- Read as (ch1): The bottle cap pressed into her nail: secret self-punishment after being seen. (2 readers)
-  > "set the sharp inner edge of the cap under her thumbnail and pressed"
-- Read as (ch3): The single burning maple: Randi's desire turning ahead of everything around it. (2 readers)
-  > "a single tree burning orange in a field of things that had not yet decided to change."
-- Read as (ch5): Euler's crossed mark: two things joined at right angles become plain, like a pairing or a triangle. (2 readers)
-  > "Put them together, at right angles, and they turn into a single thing that's suddenly plain — easy to name, easy to know what to do with."
-- Read as (ch5): The right-angle mark: reads as Pace and Randi’s planned conjunction, meant to turn Vee’s separate wants into one legible arrangement. (2 readers)
+- Read as (ch1): The thin apple slices: rationed appetite and Pace's wish to feed Randi's hunger. (2 readers)
+  > "He had sliced it thin because she would eat thin slices and would not eat thick ones"
+- Read as (ch1): Randi's blue toenails: her one hidden rebellion against her polish. (2 readers)
+  > "The one small place she let herself step out of line."
+- Read as (ch3): the burning maple: Randi’s desire arriving as an early, singular change she cannot yet contain. (2 readers)
+  > "a single tree burning orange in a field of things that had not yet decided to change"
+- Read as (ch4): The Chi Latte sign: Vee finally let into a world she had stood outside. (3 readers)
+  > "She had stood outside this exact joke. Now she was walking under it"
+- Read as (ch4): The high window stools: being put on display for others to judge. (3 readers)
+  > "understood at once that she had been set up on a shelf."
+- Read as (ch5): the crossed right-angle mark: separate difficult wants becoming legible when joined through Pace’s intervention. (3 readers)
   > "Put them together, at right angles, and they turn into a single thing that's suddenly plain"
-- Read as (ch7): The pool: the one place Vee's body belongs to her, untouched by being looked at. (4 readers)
-  > "She had loved this before she had a body to be a problem, and the water was the one part of it that had never been taken."
-- Read as (ch10): the cherry pits on wax paper: reads as a lesson in belonging taught without shame, the way Pace teaches everything. (2 readers)
-  > "when his own pit came he laid it on the wax paper beside hers"
-- Read as (ch10): The flannel: Pace's self-sacrifice, kept by Vee as a token of being cared for. (4 readers)
-  > "The flannel was warm on her. It smelled of soap and of a man and of the inside of a gym bag"
-- Read as (ch10): The moleskin: Pace's quiet, lasting care. (2 readers)
-  > "The square of foam was still on her heel, holding."
+- Read as (ch7): Being underwater: the place where Vee's body was never a problem, a lost innocence. (4 readers)
+  > "Nobody up there could see her. Nobody down here wanted anything."
+- Read as (ch8): the unnamed dishes: chosen surrender becoming nourishing because consent precedes Pace’s authority. (3 readers)
+  > "She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for."
+- Read as (ch10): The dry flannel: Pace's self-sacrifice and the shelter he gives Vee. (4 readers)
+  > "His only dry shirt. He opened his door and got out."
+- Read as (ch10): The cherry pits carried out on wax paper: an ethic of care and restraint taught without making the novice feel small. (2 readers)
+  > "She had it and he hadn't made her small to give it to her."
 
 ### Open questions
 
-- Open (ch1): What will Randi decide to do about the self Pace found? (3 readers)
+- Open (ch1): What will Randi do about the part of herself Pace uncovered? (4 readers)
   > "The one he had found was going back behind it, and she was not coming out again."
-- Open (ch1): What exactly happened with Daphne, and what did it cost Pace? (3 readers)
-  > "it had cost him more than he had known, then, that anything could cost."
-- Open (ch3): What will happen when Vee learns she was picked out for Randi and Pace? (4 readers)
-  > "Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn."
-- Open (ch3): How far do Randi and Pace intend to carry their private plan for Vee? (2 readers)
-  > "I already do," Randi said, and it came out easy and bright"
-- Open (ch4): What did Cassie see that made her say a final-sounding goodbye? (2 readers)
-  > "It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not *bye* — the whole word, flat and finished"
-- Open (ch5): Is Pace's growing care for Vee drifting beyond the game he and Randi agreed on? (3 readers)
-  > "He looked at you like he'd forgotten there was anyone else in the room"
-- Open (ch5): Is Pace rich, given his built furniture and cheap counters? (2 readers)
-  > "broken by one thin pale line where nothing grew."
-- Open (ch9): Will Vee's friendship with Cassie survive Randi pulling her away? (2 readers)
-  > "Underneath it something turned over, small, and she let it lie"
-- Open (ch10): Will Pace act on the russet dress Vee said she couldn't afford? (2 readers)
-  > "There's a black dress in the back of my closet. It's been good enough for every dinner I've had to dress for."
-- Open (ch10): What was Vee about to say to Pace before the siren cut her off? (2 readers)
+- Open (ch1): What happened with Daphne, and what did it cost Pace? (3 readers)
+  > "he had gone in where he had not been asked, and it had cost him more than he had known"
+- Open (ch3): Will Vee be brought to the bench, and will she find out she was picked for it? (2 readers)
+  > "Do you think she'll like the bench?"
+- Open (ch3): What will happen when Vee learns that her apparently accidental friendships and romance began as Randi and Pace’s game? (3 readers)
+  > "Randi's *yes* had a name now and a class schedule"
+- Open (ch3): Does Randi want Vee for herself, for Pace, or for an arrangement whose emotional terms she has not yet admitted? (2 readers)
+  > "Would you like to taste another woman?"
+- Open (ch4): What did Cassie sense was ending when she said goodbye to Vee? (3 readers)
+  > "Something in the word caught, briefly, and her face did the thing it did with wrongness"
+- Open (ch4): When will Vee recognize that her helpless wanting includes Randi herself rather than only the life Randi opens to her? (2 readers)
+  > "and the want had nowhere to put itself except *here, this, with her,*"
+- Open (ch6): Is what Randi holds back for Vee desire, jealousy, or both? (2 readers)
+  > "a want too big for her face, and keeping the face over it anyway."
+- Open (ch9): Will Brooke and the sorority see what is going on between Randi and Vee? (2 readers)
+  > "Randi had just spent something on her, in front of the girls who decided what it was worth."
+- Open (ch10): What was Vee about to tell Pace when the siren cut her off? (3 readers)
   > "The thing she wanted to say was bigger than any words she had for it"

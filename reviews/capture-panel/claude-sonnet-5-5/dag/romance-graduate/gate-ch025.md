@@ -1,18 +1,18 @@
-*capture-dag-v3-grounded · gate ch025 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4407c395237c · dated · memory grounded: facts ck-ch020@consensus (audited, 6 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 1055dcbe4e95 · 2026-11-20*
+*capture-dag-v3-grounded · gate ch025 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 60c78e0dd0a1 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 56f289ef899b · 2026-11-22*
 
-Finally, Randi's head. After ten chapters of waiting, the book gives it to me and it's a heist in the dark. I'm a little breathless.
+REACTION
 
-The airport opening is hot and sweet. She runs at him, "Welcome home, Professor," the boy in the vest, and the car. Then Pace says "It's hers. She sent it to me." That's the fourth thing he's kept from Randi, and the first time I've watched her face take it. "Something go across her face... and set it down." He set it down. He always does. The sex that follows is "hard and quick" because she asked, and then she feeds him Vee's unlined hip as foreplay again. It's hot, but I could see the machinery. She uses Vee to get through him now the way she used him to get to Vee. I wanted the charge to carry more than it did. It's the same beat as chapter 11, and the book knows it.
+Oh. Oh, Randi. That's the chapter, and I'm sitting here with my hand over my mouth.
 
-The second half is the chapter. She waits until his breathing changes. The phone comes off the magnet with a click. The first code fails, and she tries her own birthday, which also fails. Then she puts in Vee's, and it opens. Pace's passcode is Vee's birthday. I felt that in my sternum. She sits on the arm of his recliner knowing something he doesn't even know he's told anyone. That's Randi at her most undone, and the book barely comments on it.
+The first half is a love scene dressed as an airport pickup, and I mean that. She runs. She's in oxblood ultrasuede with a pin holding her hair, and the car comes to the curb because she texted it. Then Pace does the thing he always does, reading it wrong. "Rockstar service." He thinks she's showing off. The tell I noticed is "tits out" and "They weren't out." He's correcting her, and she's performing jealousy as lust because that's the only language she's allowed. "Show me." "It's hers." And her face does something, and he sets it down. Again. F1.1 gets its sixth knife.
 
-The photo scene is the best thing she's had. She zooms in on the silk and the nipples, then on the face, because she knows that face. She's seen it across a table before Vee tells her a secret. "Vee was proud in the picture — and that was the least of it." Randi is the one reader in the world who can see what's in the frame. And "*Damn Brooke*" is the first time Randi's head has let me see what she's missing.
+The sex is hot, and it's the sex of a woman proving she's still wanted. "Take me hard and quick." She keeps feeding him Vee, the silk, the hip, "almost nothing between my hand and her skin," and the moment he goes hard in her mouth at the image, you can feel her know exactly what she's doing to herself. Pet Shop Boys in the background was a nice cold touch.
 
-Then she texts Vee as him. "Makes me wish I was a dress." It's a dare, a joy, a theft and a confession all at once. Vee answers *PACE. who are you and what did you do with him??* and Randi laughs silently with her eyes stinging, and the Kentucky comes up, "Oh, honey." I love her for it and I'm afraid of her. She deletes everything and the room goes back to how it was, but she has no way to delete Vee's phone. Vee now holds a text from "Pace" that he never wrote. The first time she says "you were so filthy Tuesday," he's going to be baffled. I'm a bit sick over that.
+Then the second half, which is the best Randi section in the book. The phone. Her own birthday doesn't open it. Then she tries Vee's. And it opens. Oh, that's the whole book in one beat: his passcode is Vee's birthday and she did not have to guess twice. She sits on the arm of a recliner in his cashmere and reads the one picture I've been worrying about since ch24, the uncropped frame. She sees it all: the shoes she buckled, the face Vee gets before she tells a secret. "Somewhere on that stage she had been thinking about him." Then the real heat: she types "makes me wish I was a dress," first in his register and then, deleting, in hers. It's the first time Randi talks to Vee in Randi's own voice with no mask, and she does it as Pace. And Vee answers in all caps with joy, "who are you and what did you do with him??" and Randi laughs silently, eyes stinging, "Oh, honey," Kentucky all the way up. I'm wrecked. That is the love story, and it's a theft.
 
-The ending is a lock-down kiss and a bag with a phone in it "over what it was keeping." It's a clean, cold button.
+Then she scrubs it. Deletes the whole exchange in both threads, resets everything exactly as found, checks it from the top. That chills me in a good way, because it's competence and desperation at once. And now there's a secret. Vee believes she's flirting with Pace, a gentle new side of him. Pace will never know. Randi sent herself the picture. It's sitting in her bag, "keeping" something.
 
-My one gripe is that the sex scene before it is a retread. I've also noticed the book still hands me "Randi had gone right past all of it" in Pace's head, which is the narration explaining her to me. The Randi section needed no help.
+Complaints: a touch much sex-for-sex's-sake in the first half, and the narration still leans on "she knew exactly" explaining. The bench is STILL behind a door, and I'm counting. But I don't care right now.
 
 GATE 25 — Nachtmusik
 DECISION: CONTINUE
@@ -21,14 +21,14 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi finally gets her own head. She breaks into his phone, finds Vee's birthday as his passcode, and sends a text as him, which is the book's first outright transgression. The fallout from that deleted-on-one-side text is what I'm reading toward.
+WHY: Randi at last acts in her own voice, getting into his phone and flirting with Vee as him, then wiping every trace. It's the book's central deceit turned inside out, and it's hot and heartbreaking. I'm desperate to see what Vee does with the "Pace" who suddenly talks like Randi.
 
 LEDGER
-+ FEAR: Randi texted Vee as Pace and could only delete it on his phone. Vee still has it, and the first time she mentions it to him the whole thing blows open.
-+ SUSPICION: Pace's passcode is Vee's birthday. He's further gone than he's told Randi, and Randi now knows it.
-+ GRUDGE: Pace keeps Vee's photo from Randi ("It's hers"), the fourth thing withheld, and he doesn't see what it does to her.
-+ LOVE: "Oh, honey," in Kentucky, alone in the dark with his phone and the tit text.
-+ WAITING: Vee's reaction to the text she thinks is Pace's, and whether Pace ever hears about it.
-~ W18.4 ANSWERED: Randi's own head, finally, and it's a theft in the dark.
-~ S24.3 CONFIRMED: Randi wants the photo, and she took it.
-~ F6.3 DEEPENED: Randi's want has gone past leaking into stealing, and Pace still reads her as appetite.
++ LOVE: Randi in the dark in his cashmere, typing "makes me wish I was a dress," then deleting every trace, "Oh, honey" with Kentucky all the way up in it.
++ FEAR: Vee now thinks Pace sent her that tits-and-dress line, and the crossed wires will either deepen her love or blow up when the two compare notes.
++ SUSPICION: The phone code was Vee's birthday and not Randi's, so Pace is further gone on Vee than Randi knew, and she saw it.
++ WAITING: How Vee reacts to the "Pace" text she never got a clean answer on, and whether Pace sees any gap in his thread.
+~ S21.4 DEEPENED: Randi's long quiet over the dress and her theft of the photo show she knows what the dress is for and is already moving.
+~ W22.2 SHIFTED: Brooke is still the leash keeping Randi away, and "Damn Brooke" says it plainly, but I still don't know what Brooke asked.
+~ F24.3 CONFIRMED: Randi opened the uncropped photo and saw everything in the frame that Pace didn't.
+~ W21.5 ANSWERED: I finally got Randi's head again, and what she did was break into his phone and write to Vee as him.

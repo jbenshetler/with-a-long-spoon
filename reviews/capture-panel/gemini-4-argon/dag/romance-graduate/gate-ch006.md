@@ -1,50 +1,44 @@
-*capture-dag-v3-grounded · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 30e2d684930f · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed eca4b229e758 · 2026-11-11*
+*capture-dag-v3-grounded · gate ch006 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 01e53a9c1066 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed 10805fa88987 · 2026-11-22*
 
 REACTION
 
-WAIT. Oh, Pace, you smart, stupid man—you are reading the exact wrong thing into her body!
+WAIT. Wait a second. Look at what just happened in those last ten lines!
 
-Let me back up because this short little chapter just did about five different things to me at once and I need to scream about all of them.
+*"She's easy to listen to."*
+*Randi went quiet under his hands. Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her smile arranged. He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway.*
 
-First of all, the opening in Randi's convertible! We just spent two chapters seeing Randi from Vee's awestruck eyes, and now we're back inside Randi's head on the drive to Pace's house, and holy hell, her attraction to Vee is NOT fake. The way she remembers looking up into Vee's green eyes with the gold flecks before pulling her into that hug outside Chi Latte, and because Vee is so much taller than her, Randi's face went straight into Vee's chest—*"the soft warm give of her taking Randi in, full against her cheek for the length of one second."* And noticing the freckles going fewer and paler down into the shadow between her breasts when Vee leaned over in stats! Randi is fantasizing in explicit, sensory detail about standing behind Vee in Pace's bedroom, unbuttoning her shirt, unclasping her bra, and catching the weight of Vee's breasts in her own small hands—*"more than her hands could hold, spilling over them"*—until she's literally wet by the time her tires hit Pace's gravel.
+PACE READ IT BACKWARDS! Oh my god, my heart is in my throat!
 
-AND LOOK AT HOW SHE FRAMES IT TO HERSELF:
-*"Held up in Randi's two hands and turned to him. Here. And his face, when she did. For him. And for what he would do to her."*
-Even alone in her own car, getting wet thinking about another woman's breasts spilling over her hands, she STILL has to tell herself it's "for him"! And she's rehearsing tiny exaggerations to feed him—that Vee "held on, after" the hug, that two buttons were undone—packaging Vee up as an offering so she never has to look straight at her own hunger OR be the one on the receiving end of "what he would do to her."
+He thinks her thighs setting and her hands stopping in his hair and her smile arranging is *desire for Vee* that's too big for her face! He doesn't know what happened at the coffee shop table—or if he does, he didn't see Randi lifting her empty coffee cup twice while he listened to Vee talk about economics for five minutes! When Randi asks, *"And you. Did she make you laugh?"* and he says *"No. I made her laugh... She's easy to listen to"*—AND we just saw inside his head that he kept Vee's vulnerable froyo confession (*"This is the nicest a person has been to me in a really long time"*) to himself because *"It was hers"*?!
 
-And then she gets inside, and the wine! Him pouring a single glass of red an hour early to breathe because he knew she'd come, and not pouring himself one because he wants to drink the entire glass off her tongue. That whole sequence on the couch—Randi straddling him, kissing him with a mouthful of dry dark wine, pulling his hands up under her top and under her bra wire and whispering *"Tell"* hot into his ear—was SO hot. When he says, *"She built a cup like nobody had ever told her when to stop,"* and Randi's thighs clamp tight against his hips because the sheer unpoliced *appetite* of Vee turns her on so much (*"Did she eat all of it?"*)... I was fanning myself.
+Randi felt that door close! Randi is a human barometer for attention and status, and she just heard her boyfriend say *"She's easy to listen to"* instead of handing over a trophy story! Remember in the car on the way over, Randi was rehearsing the details she "had ready for him" (that Vee held on after the hug, that two buttons were undone)—and when she gets to his house, she doesn't even tell him! She demands *"Tell me"* instead, because she spent twenty minutes at that coffee shop watching him look at Vee like she was the only woman in the room, and she's starving to know what happened on the froyo walk!
 
-AND THEN THE TURN.
+And the way BOTH things are true inside Randi at the exact same time is making me lose my mind. Because the first half of this chapter in the convertible? Holy shit. That was not a cold, calculating sociopath driving over to check on her pawn. That was a girl with the top down and the heat on her legs getting soaking wet by the time her tires hit the gravel because she's remembering the exact weight and warmth of Vee's breasts against her cheek in the hug (*"the height did the rest. Randi's face went into her, only the cardigan between them, and the soft warm give of her taking Randi in"*), and the freckles fading into the shadow between Vee's breasts in stats class, and fantasizing about unbuttoning Vee's blouse from behind and catching her breasts in both hands—*"more than her hands could hold, spilling over them."*
 
-Watch what happens when Randi switches from asking about Vee's appetite to asking about *Pace*:
-*"And you. Did she make you laugh?"*
-*"No. I made her laugh."*
-And first: Pace thinks of Vee's little froyo confession (*this is the nicest a person has been to me in a really long time*) and **doesn't hand it over**. *"It was hers."* Oh! My heart leaped and my stomach dropped at the exact same second! Because that's Pace being honorable and protective of Vee's vulnerability, which is why I love him, AND it means he is already keeping a private emotional pocket with Vee that belongs only to the two of them!
+And look at the tiny, devastating lie Randi tells herself at the end of that fantasy:
+*Held up in Randi's two hands and turned to him. Here. And his face, when she did.*
+*For him.*
+*And for what he would do to her.*
 
-And instead he says: *"She's easy to listen to."*
+She has to tack *"For him"* onto the end of her own Sapphic daydream just to give herself permission to come to it! And then when Pace tells her *"She built a cup like nobody had ever told her when to stop,"* Randi's body responds instantly—her thighs tightening on his lap, her breasts pressing into his palms, asking *"Did she eat all of it?"* because for a girl whose mother lives on egg whites and tofu and who has to calculate whether she's allowed to eat thin apple slices, the image of lush, uncurated Vee piling a froyo cup high without a single voice telling her to stop is pure erotic catnip!
 
-And Randi goes dead quiet under his hands.
-*"Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for."*
+And that wine glass. *Tannin.* One glass poured and waiting for her, and he doesn't pour himself one because *"Everything he was going to have of it he was going to have like this"*—drinking it only from her mouth, just like the honeycrisp apple in Chapter 1, except now it's dark and dry and catching at the inside of his lips. That couch scene was short and completely clothed and yet when she put her hands over his under her bra wire and whispered *"Tell"* into his ear, I swear the temperature in my room went up five degrees.
 
-Wait. Do you remember when else her smile arranged *"a fraction late"*?! In Chapter 2, when Brooke ambushed her in the sorority common room! That isn't lust! That's the shield slamming down because she just heard genuine tenderness and intimacy in her boyfriend's voice about the girl she just handed him! Just like at the coffee shop when she couldn't stop lifting her empty cup because Pace was listening so completely to Vee, hearing him say *"She's easy to listen to"* (when Randi herself is all locked doors and carefully rationed sentences!) just hit a nerve deep inside her.
-
-AND PACE COMPLETELY MISREADS IT.
-*"He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway."*
-NO, PACE! Earlier when you talked about the froyo cup, THAT was her wanting Vee! This—the thighs setting, the hands stopping in your hair, the smile a fraction late after you said Vee is easy to listen to—is jealousy and fear! He is so in love with his own narrative of liberating Randi's desire for women that he interprets her freezing up over his emotional connection with Vee as *Randi wanting Vee so much it scares her*!
-
-And then she downs the rest of the wine in one swallow, kisses him with the bitter tannin, and takes him to bed before she has to sit in that feeling for another second. Two pages long and every single sentence is loaded like a gun.
+Everything in this book is doing triple duty. Pace is already protecting Vee's secrets (*"It was hers"*). Randi is already freezing when she hears how much he enjoyed listening to Vee, and Down-in-one-swallow finishing the wine before taking him to bed so she can reclaim him. And Pace is looking straight at Randi's jealousy/fear and mistaking it for queer longing! This is going to be a five-car pileup and I cannot turn the page fast enough.
 
 GATE 6 — Tannin
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: For a two-page chapter, this packed an insane punch: Randi getting wet in her car fantasizing about holding Vee's breasts, the scorching wine-kissing scene on the couch, Pace already keeping Vee's froyo confession private ("It was hers"), and that devastating beat where Randi freezes at "She's easy to listen to" and Pace completely misreads her jealousy as desire for Vee.
+WHY: Two pages long and every single sentence is loaded—Randi getting wet in the car fantasizing about Vee's breasts while telling herself it's "for him," the scorching wine-kissing on the couch, and Pace completely misreading Randi's sudden freeze when he says Vee is "easy to listen to."
 
 LEDGER
-~ F1.2 DEEPENED: Pace's blind spot just expanded into something lethal—when Randi goes rigid and her smile arrives "a fraction late" after he says Vee is "easy to listen to," he misreads her jealousy/insecurity as a desire for Vee "too big for her face."
-~ S5.3 CONFIRMED: Randi is definitely rattled by Pace's genuine attentiveness to Vee; when he says "She's easy to listen to," her thighs set (instead of tightening with arousal like they did over the froyo cup) and her hands stop in his hair.
-+ LOVE: Pace pouring a single glass of red wine an hour early so he can drink the whole thing solely off Randi's mouth.
-+ FEAR: Pace keeping Vee's froyo confession to himself ("It was hers") is sweet and honorable, and it's also the very first secret he's keeping from Randi for Vee's sake—this triangle is already fracturing along emotional lines neither of them is admitting.
++ LOVE: The single glass of red wine Pace pours for Randi so that everything he gets of it, he gets from her mouth—and that closing line, "He had not had a drop of it. He could taste nothing else."
++ FEAR: Pace keeping Vee's froyo confession private from Randi ("It was hers") means he's already building a real, protected intimacy with Vee outside the game.
+~ L3.1 DEEPENED: Randi's drive over in the convertible—getting wet just remembering her face against Vee's breasts in the hug and fantasizing about holding their weight in her hands—proves how overwhelmingly she wants Vee for herself, even as she tacks "For him" onto the end to make it safe.
+~ F3.2 DEEPENED: Pace's blindness now extends to misreading Randi's jealousy—when her thighs set and her smile arranges after he says Vee is "easy to listen to," he thinks she's holding back desire for Vee rather than clocking the threat of his connection with her.
+~ F5.4 CONFIRMED: Randi went completely still and set her thighs when Pace said "I made her laugh. She's easy to listen to," then downed the rest of the wine in one swallow to take him to bed.
+~ W5.5 ANSWERED: We got the debrief, and it was a masterclass in miscommunication—Randi got wet over Vee's unpoliced appetite with the froyo, Pace silently kept Vee's vulnerable confession to himself, and Pace mistook Randi's sudden freeze over "She's easy to listen to" for repressed desire.

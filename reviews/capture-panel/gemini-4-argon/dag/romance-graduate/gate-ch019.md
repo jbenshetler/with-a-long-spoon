@@ -1,64 +1,59 @@
-*capture-dag-v3-grounded · gate ch019 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 2961815fc164 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch019 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bcc74f83552e · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch018 · history ch001..ch018 · ledger no seed d43ffb9e6580 · 2026-11-22*
 
 REACTION
 
-OH MY GOD. This chapter is so bleak and tense and brilliant I barely breathed from the first sentence to the last.
+Oh, my god. *He covered the bowl with a plate and put it in the refrigerator, for her, and turned the light off over the stove.*
 
-Let's start with that opening paragraph, because the tragedy is already baked into the stew before Randi's car even hits the gravel:
-*Chicken and potatoes in a white sauce, the peas green in it and the carrot orange, the wine gone into it early and the cream at the end... He had a loaf out of the machine cooling on the board... Hers was the small one, the one he sliced her apples into.*
+That last paragraph actually made my chest ache so badly I had to set my Kindle down for a second. Look at the title: *Portion*.
+In Chapter 17, Vee was *Famished*. In Chapter 18, Vee was *Fed*. And now in Chapter 19, Randi gets *Portion*.
 
-PACE. What are you doing making creamy chicken-and-potato stew and fresh bread for the girl whose mother lives on egg whites and tofu, who only eats thin-sliced apples?! Why did he spend all Sunday afternoon cooking a rich, comforting, sit-down meal?! Because on Friday night, he cooked fra diavolo for Vee at midnight while she sat at his table wrapped in a bedsheet and ate until she was full! And on Sunday morning at brunch in *Fed*, Vee just got done telling Randi how romantic it was sitting in Pace's kitchen watching him cook—*"That's not a story, honey. That's a painting. Keep that one."* And now Randi walks into that exact kitchen hours later, smells the stew he's had on since three, and says: *"You cooked. A beat. You shouldn't have."* And then draws her spoon across the top of the cream sauce once, sets it down on the cloth, and gives him her polite waiter/sorority voice: *"It's wonderful."*
+Let's look at what Pace did before Randi even walked through the door—and why he has NO idea what he did wrong, even when he's standing in the dark kitchen at the end looking at the skin on the cream sauce:
+Why did Pace spend all afternoon simmering chicken and potatoes in a white cream sauce, baking a loaf of bread, and setting out two bowls for Sunday dinner?!
+Because on Friday night, Vee stayed and ate his midnight fra diavolo at that exact table wrapped in his bedsheet! And two Sundays ago in Chapter 11, Pace begged Randi to stay for dinner (*"Stay. I'm starving. I'll cook. Are you hungry?"*) and she walked out into the cold!
+So today, Pace cooks a whole Sunday dinner for Randi starting at three o'clock, sets out the small bowl he always uses for her thin apple slices (trying to be considerate of her portion-policing!), and waits for her.
+AND WHAT DID VEE JUST TELL RANDI AT SUNDAY BRUNCH SIX HOURS AGO?!
+Vee told Randi: *"And I sat at his table in his sheet and finally drank it, and watched him finish making our dinner... I don't think I've ever felt anything better in my life."*
+And Randi walked out of that brunch—after bolting to the bathroom when she heard the black-walnut bench-table was in his bedroom!—showed up an hour late at eight o'clock with her overnight bag back on the chair (because she's determined not to cede the bed after hearing Vee slept over Friday night!), walked into the kitchen, and saw that Pace had cooked dinner for her!
 
-Even the title—*Portion*! It's the small apple bowl he puts her portion in, AND it's Randi realizing what her "portion" of Pace has shrunk to now that Vee has Friday through Sunday!
+At first you'd think *Wait, shouldn't Randi want him to cook for her too?* Except:
+1. He cooked chicken and potatoes in a heavy *cream sauce* with fresh bread! For the girl whose mother lives on egg whites and tofu, who drinks bruise-colored wheatgrass smoothies, who couldn't even let herself eat a cheeseburger in Chapter 3! Look at what she does with the spoon: *"She drew it through the sauce, not down into the bowl, along the top of it, and tasted what it brought up, and put the spoon down on the cloth beside the bowl. 'It's wonderful,' she said."* Even Pace clocks that she's using her polite waiter/sorority voice on him for the first time ever! She will not eat cream stew and bread—instead she eats every single leaf of the dressed salad down to the bottom of the bowl with two glasses of wine while his stew sits untouched!
+2. Even worse: she *knows* why he suddenly cooked a sit-down Sunday dinner! Because Friday night he cooked for Vee!
+3. And then—the fatal blow at the table—Randi says: *"She told me about Friday."*
+And what does Pace's face do?!
+*"It went through him and came up in his face before he could do anything about it, and he did not try. Friday, and her driving home Saturday with no bag, and by Sunday morning happy enough to sit across from her friend and tell it. He could see it. He was glad all the way down. Randi watched him be glad. She had the rim of her glass in under her thumbnail, pressing, and she held it there until she set the glass down."*
 
-And look at the bag by the door: *"she was setting her bag down on the chair by the door, and he saw that and set it aside."* Last time (*Swim Lanes*) she didn't bring the overnight bag and he set that aside; tonight she DOES bring the bag—she came here planning to reclaim her Sunday night and stay over—and within five minutes of sitting down at his table, everything goes off a cliff!
+THE THUMBNAIL AGAIN!
+For the second time *today*—first at brunch when Vee said *"he looked at me and I was fine,"* and now at Pace's kitchen table watching Pace's whole face light up with unguarded joy over Friday night with Vee—Randi is pressing the rim of a glass up under her thumbnail to keep from shattering!
+And Pace STILL DOESN'T SEE IT! He is so blinded by his own narrative that even when Randi drops the mask, stares at him with level, sharp blue eyes, and says:
+*"She's not ready. Or you're not... You've got her Friday to Sunday. You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be... It's selfish, Pace."*
+—LOOK AT HOW PACE INTERPRETS IT:
+*"Friday, then. She had come from Vee's table this morning to his, and told him, and watched him be glad. She wanted Vee as much as he did. He had felt it in her, on his couch and in his bed, a want too big for her face, and I want us, torn out of her. They had picked Vee together, and Friday had happened without her. He could see why that would sting."*
 
-Because watch what happens when Pace asks *"How was this morning?"*
-First, Randi sets the rim of her wine glass right under her thumbnail and presses—her tell from Chapter 1 and Chapter 15! And this time we see it from Pace's POV, and *he doesn't even know what that gesture means* because she did it behind the locked bathroom door in Chapter 1!
-Second, Pace doesn't ask what Vee said (*"That was Vee's"*—still keeping a private vault around Vee!), and when Randi says *"She told me about Friday,"* look at Pace's face:
-*"It went through him and came up in his face before he could do anything about it, and he did not try... He was glad all the way down. Randi watched him be glad."*
+I want to reach through the page and smack him upside his thick math-PhD skull!
+He STILL thinks Randi is calling him "selfish" because *he got to have Vee first on Friday and is hogging Vee for himself while Randi is impatient for her turn with Vee*!!
+Yes, part of Randi wants Vee—we know she does, she just double-kissed Vee on the mouth at the curb this morning!—but Randi is looking straight at a man who has given Friday-to-Sunday ("all weekend, every weekend") to the new girl, who lit up like the sun at the mention of Friday night, who has no intention of hurrying Vee toward a threesome because *he loves having Vee to himself*, and when he lectures Randi in his exact, self-righteous voice—*"She chooses it, Randi. Every step of it. Or it isn't anything"*—Randi reaches across the table, grabs the wine bottle by the neck, and pours her own glass for the first time ever in his house!
 
-I literally winced. Imagine being Randi right there! This morning at brunch, Vee told her that Pace made her feel *singular*, that she sat wrapped in his sheet at midnight watching him cook, that she's completely gone on him. Randi had to sit there with her eyes going liquid and her Kentucky accent slipping, holding Vee's hand and calling her lucky. And then she comes to Pace's house tonight, tells him Vee talked about Friday, and watches her boyfriend light up with pure, unhidden, bone-deep joy that has nothing to do with their game and nothing to do with her!
+And that sex scene. God, after the incandescent, soul-melding heat of Chapter 17 with Vee, watching this two-paragraph sex scene in Chapter 19 felt like watching a marriage die in fast-forward.
+No slow undressing. No inch-by-inch sinking down while holding his eyes. Eyes shut, hair over her face, no *"tell me"* (because the last thing on earth she wants right now is to hear him talk about Vee after seeing his face at the kitchen table!), just using his body hard and fast to get off and then immediately rolling herself up in the cashmere blanket with her back turned to him, lying awake in the dark pretending to try to sleep until her breathing finally changes!
 
-AND THEN SHE CALLS HIM OUT.
-*"How long, Pace? ... Vee. How long are you going to take?"*
-*"As long as she needs. She's not ready."*
-*"She's not ready. Or you're not."*
-*"I want her to get there on her own."*
-*"On her own. With you."*
-*"That's how it works."*
-*"That's how it works for you."*
+AND THEN THE DAPHNE RULE STRIKES AGAIN!
+Look at Pace lying behind her back in the bed:
+*"Something was wrong, more than Friday; he could see that much, and not the rest. And she was proud. If he asked, she would have to say it or refuse to, and either one would be worse for her than the quiet. So he did not ask. He did not put his hand in her hair."*
+Just like Chapter 1 outside the locked bathroom door! Because Daphne taught him never to push past a closed door, he tells himself he's respecting Randi's pride by not asking and not even putting his hand in her hair—when in reality his polite silence is leaving her completely alone on the other side of the mattress while he gets up and puts a bowl of cold cream-sauce stew in the fridge "for her" that she will never, ever eat!
 
-BINGO. Randi sees right through him! Look at what she nails him on: *"You've got her Friday to Sunday. You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be... It's selfish, Pace."*
-Because from Randi's side, she is 100% right! Pace gets to have this slow, courtly, romantic courtship with Vee—making her silk dresses, feeding her pasta at midnight in a bedsheet, falling in love with her at a glacial pace—while telling himself it's all high-minded ethical patience so Vee can "get there on her own," when in reality *he likes having Vee to himself!*
+This trilogy of chapters (*Famished* -> *Fed* -> *Portion*) is some of the finest structural storytelling I have ever read in this genre. Every single mirror beat—the food, the bedsheet vs. the cashmere blanket, the open eyes vs. the shut eyes, the thumbnail on the glass—landed like a hammer.
 
-And YET, Pace's Blind Spot™ is so impenetrable that even when Randi says *"It's selfish, Pace"* with her eyes level and sharp, how does Pace interpret it?!
-*"She wanted Vee as much as he did. He had felt it in her, on his couch and in his bed, a want too big for her face, and I want us, torn out of her. They had picked Vee together, and Friday had happened without her. He could see why that would sting."*
-OH MY GOD, PACE. You dense, noble, maddening man! Yes, Randi wants Vee too—we just saw her kiss Vee twice on the mouth at the curb!—AND Randi is watching you replace her in your own kitchen and your own heart while you earnestly ask her, *"How do I get her from where she is to us, on your schedule? She chooses it, Randi. Every step of it. Or it isn't anything."*
-
-And look at what Randi does after he says that:
-1. She grabs the wine bottle by the neck and pours her own full glass—when he has poured every single glass she has ever drunk in this house.
-2. She eats the entire bowl of salad, *all the way down to the dressing-soaked leaves at the bottom*! The girl who restricts every bite just angrily ate the drenched bottom leaves of the salad with a full glass of wine while leaving his cream stew untouched with a single line drawn across the top!
-3. And then that bedroom scene. No teasing, no inch-by-inch lowering while making him watch, no *"tell me."* She doesn't ask him a single thing about Friday night! Why? Because she already got the painting of Friday night from Vee at brunch, AND because asking him to "tell" her now would just be inviting him to bring his private joy about Vee into their bed! Instead she takes him in one motion with her eyes shut, uses his body hard and fast to get off—*"whatever this was, it was not for him, and he gave it to her anyway"*—rolls herself up alone in the cashmere blanket with her back turned to him, and lies awake pretending to breathe until she finally falls asleep!
-
-And Pace *still* lies there thinking: *"it was the want, he thought, with an edge on it tonight, from somewhere."*
-FROM SOMEWHERE?! And then he goes out to the kitchen, looks at the cold bowl of cream stew with the skin formed over the peas and carrots and the one line she drew through it—*"He did not know what he had done. He looked for it, back through the evening from the gravel forward, and it was not there"*—and covers her untouched bowl with a plate and puts it in the fridge for her! Even the music tonight—Depeche Mode's *Violator* ("a dark voice over machines, every sound in it polished") instead of Steely Dan or Fleetwood Mac!
-
-That final image of him putting the plate over her cold, untouched bowl of stew and turning off the stove light actually broke my heart for both of them. Randi is trapped behind her armor and can't say *You're falling in love with her and leaving me behind*, and Pace is so blinded by his own courtly rules and his misreading of Randi that he genuinely has no idea why she just shut him out in his own bed. And now Randi is going to take the schedule into her own hands!
-
-GATE 18 — Portion
+GATE 19 — Portion
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 2
-ROMANCE: 1
+ROMANCE: 0
 ALMOST-STOPPED: none
-WHY: The sheer dramatic tension of that kitchen table conversation—"She's not ready. Or you're not" / "It's selfish, Pace"—paired with Randi refusing his cream stew, pouring her own wine, riding him in silence without asking "tell me," and Pace *still* misreading her devastation while putting her untouched bowl in the fridge had me glued to every word.
+WHY: The devastating third act of the *Famished / Fed / Portion* triptych—watching Pace serve Randi cream stew in her tiny apple bowl, light up with joy over Friday while Randi presses her wineglass rim under her thumbnail, and still believe she's just impatient for her turn with Vee had me aching for both of them.
 
 LEDGER
-~ F1.2 DEEPENED: Pace's misreading of Randi is now tragic—even after she flatly accuses him of dragging his feet with Vee for himself ("Or you're not... It's selfish, Pace"), pours her own wine, rides him with her eyes shut without once saying "tell me," and turns her back on him in bed, he *still* tells himself she's just stinging because she wants Vee so badly ("it was the want, he thought, with an edge on it tonight, from somewhere") and stands in the kitchen baffled as to what he did wrong.
-~ F11.3 DEEPENED: Randi just confronted Pace directly over taking his time with Vee ("How long are you going to take? ... You've got her Friday to Sunday"), and after Pace told her "She chooses it, Randi. Every step of it. Or it isn't anything," there is zero chance Randi waits on Pace's schedule anymore.
-~ W15.5 SHIFTED: We got the confrontation between Randi and Pace—over the Friday night sleepover rather than the fitting—and watching Randi watch Pace light up with unhidden gladness over Vee was brutal. Still waiting for Vee's second dress fitting and to see how Randi forces the next step now that Pace refused to rush Vee.
-~ S17.5 CONFIRMED: Randi brought her overnight bag tonight for the first time since she walked out on September 27, and watching Pace's face light up over Friday night with Vee ("Randi watched him be glad") confirmed how completely shut out she feels from the real intimacy blooming between them.
-+ LOVE: The devastating detail of Pace serving Randi's rich, creamy chicken-and-potato stew in her small apple bowl, Randi drawing a single line across the top of the sauce and calling it "wonderful" in her polite waiter voice, and Pace covering the cold, untouched bowl with a plate at the end of the night because he genuinely cannot figure out what he did wrong.
-+ LOVE: Randi taking the wine bottle by the neck to pour her own glass for the first time in Pace's house, and eating every last dressing-soaked leaf at the bottom of the salad bowl while leaving his stew untouched.
++ LOVE: The tragic brilliance of the *Famished / Fed / Portion* chapter sequence—Pace earnestly serving Randi cream-sauce stew in her small apple-slice bowl and covering it with a plate in the fridge "for her" after she only eats the salad, having no idea why his Sunday dinner and his joy over Friday just broke something between them.
+~ S1.3 DEEPENED: Pace finally registers that "something was wrong, more than Friday" when Randi rides him with her eyes shut, skips "tell me," and turns her back in the cashmere blanket—and once again his rule about respecting her pride stops him from asking or even touching her hair.
+~ F3.2 DEEPENED: Even when Randi stares at him across the untouched stew and says "You've got her Friday to Sunday... It's selfish, Pace," Pace STILL convinces himself that Randi is only hurt because Friday happened without her and she's impatient for her turn with Vee.
+~ L15.2 DEEPENED: For the second time in a single Sunday, Randi presses the rim of a glass up under her thumbnail—this time at Pace's kitchen table while watching his whole face light up with unguarded gladness over Friday night with Vee.

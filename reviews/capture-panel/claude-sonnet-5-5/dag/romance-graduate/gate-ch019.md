@@ -1,35 +1,35 @@
-*capture-dag-v3-grounded · gate ch019 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed d4516b432baf · 2026-11-06*
+*capture-dag-v3-grounded · gate ch019 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bcc74f83552e · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch018 · history ch001..ch018 · ledger no seed becbb1f28625 · 2026-11-22*
 
 REACTION
 
-Oh, Randi. This is the one I'd been braced for, and it came from the side I wasn't watching. Pace's head again, and it's the first time he's been cornered.
+Oh, Randi. That's the chapter where the book finally lets her say something out loud. She says it like a woman reading a charge sheet.
 
-The dinner is a slow-motion wreck. He cooks, and she says "It's wonderful," which she never says to him. The spoon drawn along the top of the sauce, not down into it, is the apple slices turned inside out. Last time he sliced thin so she'd eat. Tonight she doesn't eat, and the bowl with the one line drawn through it sits there until he puts it in the fridge. That bowl is the best image in the book so far, and it's quiet.
+The bowl is the best thing in it. He sliced her apples into that small bowl, and he ladled the stew into it, and she dragged her spoon along the top of the sauce and never ate. Hers is the plate of someone who can't swallow. I've been waiting on her since chapter 1 for anything her body would say that her face wouldn't, and here it is: the stew is wonderful, she says, and then she can't eat it. "She's happy" was a flat sentence from a woman who's drowning.
 
-Then the fight, and what a fight. "How long, Pace?" "She's not ready." "Or you're not." She's furious that he's slow with Vee, that he's taking the weekends, and she can't say the real thing. "It's selfish" is her wanting Vee herself, and him answering with "She chooses it, every step, or it isn't anything." The architecture is his moral spine, and tonight it's a weapon she can't get around. I felt for both of them. He pours every glass she's drunk in that house, and she pours her own. That's a small, brutal beat.
+"It's selfish, Pace." I sat up. She's accusing him of taking Vee slowly, and what she means is that he took Vee without her. Her scorn at "On her own. With you." was very good. Randi finally gets angry and it comes out sounding almost like a principle. Pace takes it as a sting over being left out of Friday, and he's half right and entirely wrong again, which is the pattern of this whole book. He's so decent about it, and so blind. "She chooses it, Randi. Every step. Or it isn't anything." And all I could think was: you haven't told her what she's choosing. The line is his whole sin, said in good faith.
 
-He is wrong in a very specific way. He reads "selfish" as jealousy over Friday, and so Friday happened without her. Half right, which is worse. He still doesn't see it's about wanting Vee, or about being the one left out of the one-on-one that was supposed to be hers. The ugly part of me notes they both got what the plan promised, and neither of them is happy.
+The sex is the other sharp thing. No "tell me." That was the engine of every scene they've had, and he lies there waiting for it. He understands, mostly, that it isn't for him. Then the blanket, back turned, and him not touching her hair. That last scene did what the bench chapter did: he does the careful thing, and the careful thing is wrong. The bowl under the plate in the fridge, the skin on the sauce, "he did not know what he had done." Oh, honey. I'm sad for both of them.
 
-The sex is the saddest in the book. No "tell me," eyes shut, hard and fast, off him at once, back turned in the cashmere. She's using him the way he used the bench on her in ch1, to avoid being found. He lies there cataloguing and misses it again. "He did not know what he had done." Oh, honey. Heat is real but cold. It's charged by what's missing.
+Also: where is the bench? Vee told Randi about the walnut table at brunch and Randi left the table. Here, a day later, nothing. Nobody says it. That's the thing I'm waiting for, and I felt it sit under every line. I noticed she didn't say a word about the table, and I think she's holding it the way Pace holds Vee's secrets. I also suspect she went to a bathroom and came back with a plan.
 
-Complaints: almost none. Pace's narration still says "he took it for the want." Short, tight, no inventory. Randi also got to be a person in a room instead of a laugh. I want her head next, and I want Vee to find out something.
+Heat is low-ish and cold on purpose. Griping: "He heard it and did not know where to put it" and "he went over it" are the narrator doing Pace's explaining. A little long on the cooking. But the ache earns it.
 
-GATE 18 — Portion
+GATE 19 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The uneaten bowl and the fight where neither can say the true thing are the best use of the setup yet. The joyless, "tell-me"-less sex shows how far Randi has come undone, and Pace still misses it.
+WHY: Randi finally cracks, and it's a cold, angry crack, and the uneaten bowl says it better than she does. Pace's honest, loving blindness is the book's whole sorrow, and the withheld bench is pulling me hard.
 
 LEDGER
-+ LOVE: The bowl with one line drawn through the sauce, covered with a plate and put in the fridge for her.
-+ FEAR: Randi is bleeding out of the plan, and Pace thinks "selfish" is about the pace, so he will slow Vee down, or speed her up, in the wrong way.
-+ GRUDGE: Randi is punishing Pace for a want she won't name, and using him to avoid it.
-+ WAITING: Randi's own head, finally, after this dinner.
-~ F11.1 DEEPENED: Again she left the bed and hid in the blanket, and he read it as an edge in the want.
-~ F6.3 DEEPENED: The want turned into anger at the table, the plainest leak yet.
-~ S17.3 CONFIRMED: Pace could finally smell the crack, but he misread what it was.
-~ W17.4 ANSWERED: What Randi and Pace say about the weekend is this dinner, and it went badly.
-~ S10.5 DEEPENED: Pace's "she chooses it, every step, or it isn't anything" shows he's sincere about Vee, and it's costing him with Randi.
+~ F1.1 DEEPENED: Pace reads her silence and her fury as hurt over Friday and misses the rest, again, and he's gentle about it.
+~ F5.2 DEEPENED: Randi is eating nothing and boiling inside, and nobody sees it but me.
+~ F11.2 SHIFTED: Randi is the one who has started to break, and Pace is carrying her silence now, aching without understanding why.
+~ F18.1 SHIFTED: She went quiet instead of acting on the table, so whatever she does with it is still ahead of her.
+~ W17.4 DEEPENED: The bench is still unrevealed, and Randi's silence about it is loud.
++ LOVE: The small bowl, one line drawn through the sauce, never eaten, and Pace covering it with a plate.
++ GRUDGE: Pace says "she chooses it, every step," and he's still keeping the plan from her.
++ SUSPICION: Randi left the brunch table to do something about the walnut table, and her coldness tonight is the cost of holding it.
++ WAITING: Whether Randi finally says what she wants, to Pace or to Vee.

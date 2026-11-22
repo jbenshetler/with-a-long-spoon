@@ -1,31 +1,32 @@
-*capture-dag-v3-grounded · gate ch018 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d5ad24761472 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch016 · history ch001..ch016 · ledger no seed e52433336b17 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch018 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 5ee6f8e5879d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 691544b7f5d5 · 2026-11-22*
 
 REACTION
 
-Oh, Vee, you gave away the panties. The unzipped-halfway skirt with nothing under it, three feet from Cassie, is the best beat here. It's funny and it's hot. It's also the first time the secret has a physical cost in front of her best friend. I loved the ladle image too, lifting the middle out so the surface closes over it. "Kindness" she calls it, and I believe her and don't.
+Oh, Randi. This is the chapter where I put my hand over my mouth. Vee hands her the table. "Black walnut, heavy, ungainly, in his bedroom," and Randi's eyes go bright and she says "Hold that thought" and *leaves*. She's gone to text Pace, or to go sit in a bathroom stall, and I can't tell which. Either way, the secret Pace was keeping for the bench just walked out of Vee's mouth in good faith. Vee thinks she's describing a quirk of his taste. She has no idea she's pointing at the room where she was chosen. That's the best dramatic irony since the bathroom lock.
 
-Cassie's "get your brain back from your boyfriend," and "Don't wait up, lover" are tender and sad. Something crossed her face and she let the seam be. Cassie is the one person who gets half-truths and takes them gently. I'm still worried about her.
+The Cassie scene is a small knife. Vee ladles the middle out of the story "clean as a ladle takes soup," and it's a kindness, and Cassie doesn't pull at the seam. Then the skirt zipper stops halfway. No underwear, because of the trade, and she can't undress in front of her best friend because there'd be something to explain. "You need to get your brain back from your boyfriend," said kindly, wrong. And then "Don't wait up, lover." Cassie's face crossing something in the first half second. I'm wrecked for her. Vee has her first real secret from Cassie, and it's the happiest one of her life.
 
-Then brunch, and here's the thing. Randi is nearly drunk on Vee's story with one mimosa. The accent is slipping, and her eyes are wet. She walks Vee through the toes, the new underwear, "that face isn't about a color." Randi is collecting everything and handing it back as permission, and Vee thanks her for it. "You're not caught, you're lucky" is the cruelest kind-sounding thing she's said. Her fake ex-boyfriend story is obviously another costume. The kiss at the curb opening up and taking a little more, and Vee not checking the street this time, is the turn. Vee is walking toward Randi now, willingly. And Randi is wrecked and hiding it, and I know it.
+Brunch is Randi working her, and it's different now. She's getting more drunk on Vee than on mimosas. The esses are running long again, the accent slipping, the eyes liquid, and Vee reads it as drinking. I loved that callback. "You paint the toes for a man who's going to have your feet bare in his hands" is hot in a clothed, interrogating way. The frosted plum question, the "that face isn't about a color," then "You're not caught, sweetheart. You're lucky." That's Randi saying something true about herself in the guise of advice. The "Leos never do anything in twos if they can do it in threes" line made me sit up. The three-way is already in her mouth, just disguised as astrology.
 
-The thing I'm missing is Pace's head and the fallout from "Trade." Also, no one has asked how Randi's night with Pace went. I want the collision. The chapter is warm and low on heat, so it's a simmer, but Randi's questions are charged.
+The curb kiss is longer now, and Vee doesn't check the windows. That's the turn. She's stopped being afraid of it, and I think she's starting to want it. "Your man Pace doesn't know how lucky he is" is a bleak, lovely last line from a woman who knows what Pace knows.
 
-Mild gripe: the bistro and menu arithmetic repeats the earlier restaurant scene. And the narration still explains Vee's reading of Randi.
+Complaints: it's another brunch with the same shape as the smoothie shop and the Sunday lunch, and I felt the pattern. The mimosa arithmetic is the third pricing scene. The Randi anecdotes, the Easy-Bake cookie, ran long and were the tell for a chapter treading water. The ID and Leo bit was cute but padded. Still, the table beat is what I'll be thinking about all week.
 
-GATE 17 — Fed
+GATE 18 — Fed
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did." (the price-arithmetic retread)
-WHY: Randi pulling the night out of Vee one question at a time, nearly undone by it, is the both-and I read for. The kiss that took a little more, with Vee not looking over her shoulder, is the turn I wanted.
+ROMANCE: 2
+ALMOST-STOPPED: "The last oven I turned on was my Easy-Bake, when I was six." The cookie anecdote was Randi filling the table while the real beat sat waiting.
+WHY: Vee describes the bench to Randi as an "ungainly" table without knowing what it is, and Randi walks away from the table, which is the best irony in the book. Cassie's quiet hurt and Vee's growing secrets set up the cracks. The brunch pattern is getting familiar, but the bench payoff is close.
 
 LEDGER
-+ FEAR: Vee is now comfortable with Randi's kisses and doesn't check for watchers, so Brooke's net can close without her knowing.
-+ LOVE: The skirt unzipped halfway with nothing under it, and Vee zipping it back up in front of Cassie.
-+ SUSPICION: Randi's accent and wet eyes at brunch mean she is close to cracking, and Pace may smell it on her.
-+ WAITING: Pace's head after "Trade," and what Randi and Pace say to each other about this weekend.
-~ F15.3 SHIFTED: Vee has stopped looking for who saw the kiss, which makes the risk quieter and worse.
-~ F9.1 DEEPENED: Cassie gets the edited story and a kind "lover," and Randi gets the real one.
-~ S15.4 DEEPENED: Randi stopped Vee at lunch, but this time she asked every question that opened the door, so she wants it, and her voice shows it.
++ FEAR: Randi left the table after "the table in his bedroom"; she'll tell Pace or act on it, and the bench will surface before Pace is ready.
++ SUSPICION: Randi's slipping accent and liquid eyes with one mimosa mean she's affected by Vee, not by drink, and "Leos never do anything in twos" is her three-way wish speaking.
++ LOVE: Vee's skirt zipper stopping halfway in front of Cassie, the first secret the best friend can't be given.
++ GRUDGE: Third brunch-with-Randi beat in the same shape; the cookie anecdote is filler.
+~ F4.2 DEEPENED: Cassie's face crossed something at the door, she said "lover," and Vee is hiding the middle from her now.
+~ F15.3 SHIFTED: The longer curb kiss happened and Vee no longer checks the windows; the fear is hers to want now, though Brooke's eyes are still out there.
+~ W17.4 SHIFTED: Vee described the bench as a table to Randi, so the reveal is close; the oyster yardage is still unexplained.
+~ L9.3 DEEPENED: "You're lucky, not caught" from Randi sounded like her own confession.

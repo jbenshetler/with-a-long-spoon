@@ -1,33 +1,33 @@
-*capture-dag-v3-grounded · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch018 · history ch001..ch018 · ledger no seed 09c4c161e68b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed f0b1339d73b9 · 2026-11-22*
 
-REACTION
+REACTION — Sweet mother of god, the *fun* of this chapter. The sheer, joyful, filthy, gorgeous rom-com-meets-pure-heat brilliance of it.
 
-I have a permanent grin plastered across my face, and my chest feels completely cracked open.
+I have spent the last three chapters with a knot of absolute nausea in my stomach, waiting for the piano to drop from the sky onto Vee’s head, and instead we get this glorious, breathless, laugh-out-loud romp through his house that somehow made the sex ten times hotter *because* it was so ridiculously real.
 
-First of all, the pure, unhinged hilarity mixed with scorching filth in this chapter is something romance so rarely gets right. Sex with someone you’re crazy about isn't always solemn, candlelit poetry—sometimes it's a frantic, clumsy, laughing logistical nightmare because you’re trying desperately not to ruin an expensive piece of bespoke silk! That entire sequence—standing there on one leg hooked around his hip, realized they're both soaking wet, him trying to unhook the side closure while she's literally holding his bare, dripping cock in both hands like a fire hose shouting *"Ow, don't point down!"*—I was howling. I was laughing so hard my stomach hurt, and at the exact same time I was clutching my throat because it was *so wildly hot*.
+First of all, the dress reveal. Pace hanging it in the window like that, with the autumn sun setting the burgundy and plum on fire, and that full-length mirror he literally just screwed into the wall for her? My heart melted. And the detail about the oyster-pale lining—the silk he was looking at in the dark at 4:30 in the morning before his Chicago flight in Chapter 16—finally revealed as the hidden armor he built into the bodice and hips so the dress wouldn't betray her. He built a bespoke shield for the parts of her she spent twenty-one years apologizing for. When Vee cried, I almost cried with her.
 
-And then the dialogue: *"There's a lot of you covered in a lot of me."* And him twitching in her hands! And then her wiping her hands down his flanks, holding up her sticky fingers, and him—this meticulous, courtly powerlifter—taking her fingers into his mouth and slowly licking her own slickness off them while holding her eyes?! Sweet mother of god. That wasn't just heat, that was complete, absolute devotion disguised as pure mischief.
+And then the comedy of errors with the slit and the sex!
+"Wait. The dress."
+"Ow. Don't point down."
+"It's not easy. There's a lot of you covered in a lot of me."
+*And him twitching in her hands!* I was howling. I was clutching my chest laughing into my pillow. That is what so much romance completely misses—sex between two people who are genuinely wild about each other isn't just solemn, worshipful eye contact and cinematic panting. Sometimes you are literally hopping on one bare foot with a leg hitched over a man’s hip, holding his slick cock like an unpinned firehose with your elbows out so you don't ruin a thousand dollars of hand-sewn silk! It was so clumsy, so intimate, so ridiculously sexy.
 
-And the dress itself. The emotional payoff of that gown hanging in the sun porch with the new full-length mirror he installed just for her. The fact that he lined the bodice in oyster-pale silk so only the parts she chose would show, but gave it a slit all the way to the jut of her hip—and Vee looking at her underwear, realizing it broke the line, and just casually stripping it off to step into the room bare? The way Helen Rivers writes Vee’s reclamation of her own body makes me want to weep. The maternal *floozie* voice flared up, and Vee just burned right through it. She looked at herself in that burgundy silk and thought, *I look like a lot of woman who knows exactly how much she is.* That is the antidote to twenty-one years of shame.
+And then—the fingers. Pace licking her own slickness off her fingers while holding the dress above her head? *Sweet Jesus.* The man is an absolute menace. The contrast between his boyish pride in the dress and that dark, unhurried, devastating sensuality is killing me. And the walk down the hall, carried against him, bouncing off the drywall—it felt so young, so hungry, so completely alive.
 
-And seeing Pace afterward—exhausted, dead to the world, having stayed up half the night stitching invisible seams so it would look effortless for her—sleeping with his arm heavy across her. He loves her. There is no doubt in my mind. He is head-over-heels, irrevocably gone for Vee Thorne.
+Vee lying in that bed at the end, looking forward to the induction, imagining herself walking into that room of safe navy suits with her head held high, letting them stare at her slit and her bare shoulder because she’s finally stopped hiding... god, it broke my heart in advance. Because we know Brooke has a meeting with Randi that afternoon. We know the induction is next Tuesday. We know this beautiful, glorious bubble she is floating in is surrounded by razor wire. But for this one afternoon, she was happy, adored, and completely herself, and I am so glad she got to have it before the world burns down.
 
-Which brings me to the sickening dread that keeps this book feeling like a tightrope walk over an abyss. She’s lying there in his bed, basking in the glow, dreaming of walking into the induction in that dress, thinking she’s "getting away with something."
-
-She has no idea. She doesn't know that three days ago, Randi was sitting at that exact kitchen table refusing to eat his stew, pouring her own wine, and spitting venom about how long he was taking to "deliver" Vee to their bed. She doesn't know that Randi and Pace are in a cold war over *her*. Vee thinks this is an exclusive, once-in-a-lifetime fairy tale, and it *is* real between her and Pace—which is going to make the fallout from the pointing game an absolute nuclear strike. I am obsessed. I cannot stop reading.
-
-GATE 19 — Peekaboo
+GATE 20 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The perfect blend of laugh-out-loud comedy, scorching explicitness, and breathtaking emotional payoff with the dress made this an absolute joy to read.
+WHY: The perfect blend of laugh-out-loud physical comedy, bespoke romantic reverence, and scorching, unhurried heat made this one of the absolute best chapters in the entire book.
 
 LEDGER
-+ LOVE: The messy, laughing, unhinged logistics of trying to peel Vee out of the silk gown while she’s holding his wet cock—flawless realistic intimacy.
-+ LOVE: Pace cleaning Vee's slickness off her fingers with his tongue while holding her eyes—utterly scorching.
-~ [W14.3] ANSWERED: The dress is finished and fitted, delivering the ultimate emotional and erotic payoff.
-~ [F5.1] DEEPENED: Vee is now so deeply, domestically, and sexually bonded to Pace that discovering the pointing game will utterly level her world.
-~ [L1.2] DEEPENED: Pace staying up all night to hand-stitch invisible seams so the dress looked effortless for her is the purest act of courtly devotion.
++ LOVE: [L20.1] The clumsy, hilarious, desperately sexy scramble to get Vee out of the silk dress without ruining it while they were already halfway into having sex.
++ LOVE: [L20.2] Pace cleaning Vee’s slickness off her fingers with his tongue while holding the dress bunched over her head.
+~ [S3.2] DEEPENED: Pace is now completely, deeply immersed in his private romance with Vee, staying up all night sewing for her and falling asleep wrapped around her, entirely divorced from Randi’s reality.
+~ [F7.2] DEEPENED: Vee dreaming of walking into the honor society induction unashamed and glorious in her custom dress shows that Pace has completely cured her body-shame, making the coming revelation of the trap a million times more lethal.
+~ [F19.1] DEEPENED: Pace gave Vee the entire Thursday afternoon and his whole bed while Randi is pacing her sorority cage, widening the chasm between him and Randi to a fatal degree.

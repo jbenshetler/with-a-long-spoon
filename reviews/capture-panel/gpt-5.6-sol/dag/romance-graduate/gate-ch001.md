@@ -1,16 +1,16 @@
-*capture-dag-v3-grounded · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b986a0613f03 · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8642554b13cf · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-22*
 
-REACTION — Oh, this has me. The apple slices nearly did me in before the bench even appeared. He knows how thin she’ll eat them, turns the cut sides up, and gives her the bowl without making her hunger into a conversation she has to survive. That is exactly the kind of attention I’ve been missing in these books: not alpha-male mind reading, actual accumulated knowledge of a specific woman. And then she straddles him and directs the chair, and he likes being directed by her? Yes. Immediately yes.
+REACTION — Oh, this got me. The apple slices nearly did me in before the bench even appeared. Not because “man notices what woman eats” is new, but because he notices the exact shape in which she can let herself accept food, understands the cruelty underneath that, and feeds her without making her explain it. That is the kind of attention every interchangeable possessive alpha thinks he is offering, and almost none of them actually are.
 
-The whole scene was intensely hot because Pace’s control is so patient and so observant. He isn’t racing toward an act; he’s watching for the moment the performance falls away. The check-ins didn’t cool anything down. They made it hotter, especially his going around to her face, saying “Hi,” and staying there until her body settled. Even the heels coming off felt intimate. By the time he refused that first polished, socially acceptable please, I understood exactly what he was waiting for—and I wanted him to get it, which made me complicit in a way I enjoyed until the chapter turned the knife.
+And the heat. Jesus. The waiting was hotter than the spanking. Her directing him into the chair, putting his hands on her breasts, then slowly losing access to every polished little mechanism she uses to stay desirable and in control—I felt the whole descent. “It was still her please” is such a viciously precise distinction. I understood exactly what he was listening for, and when the real voice came out, it landed. So did “There you are.” That could have been a smug domination-book line. Instead it cracked her open so completely that I felt frightened for her.
 
-Because Jesus, Randi. The moment he said “There you are,” I thought it was devastatingly tender. Then she flinched at “You’re beautiful,” locked the bathroom door, and I realized tenderness was the dangerous part. She can survive being exposed physically. She can survive begging. What she cannot survive is his loving attention reaching the person underneath the face she uses. That mirror scene made my chest hurt. The smile sitting on top of the face that begged is going to stay with me.
+Because then the chapter did the thing I desperately wanted and absolutely dreaded: it gave me her interiority. Pace believes he has freed her, and in one sense he has. He is attentive, patient, careful, genuinely tender; he checks her body, honors the locked bathroom door, and refuses to turn her tears into a speech about what they mean. I like him enormously for all of that. But he still walks away believing he fed her, while she walks away deciding the self he found must never come out again. That gap is devastating. Every action between them was consensual, and the emotional aftermath is still a catastrophe neither of them can name. Yes. That is interesting. That is the grown-up trouble I came for.
 
-And Pace does not know. That is the part I’m frightened by. He behaves beautifully after the scene: water ready, blanket, silence, no intrusion when she locks the door. He even has a painful history that taught him to respect a closed door. But he thinks he has fed her hunger and can feed it again, while she is privately deciding that the real self he found is never coming out again. They are lying together in what he thinks is shared tenderness, and she is already constructing the locked room between them. That is so much more upsetting than some stupid unsent-text misunderstanding because neither of them is failing to communicate through laziness. She genuinely cannot tell him yet. He genuinely has no reason to know.
+Her flinch at “You’re beautiful” hurt worse than anything on the bench. Of course pain is manageable and tenderness is the danger. Of course she can beg when her body has been stripped of performance, then rebuild the face in the bathroom and return smiling. And Pace—poor, careful, catastrophically mistaken Pace—is quietly happy about her. I wanted to reach into the page and shake them both, except neither of them is being stupid. She cannot simply disclose a self she has survived by burying, and he has learned not to invade a closed door. Their best instincts are helping the misunderstanding seal itself.
 
-I’m also now very aware that the jacket promised Randi and Pace as lovers planning Vee’s year. So this is the woman who will later help open another woman while slamming herself shut after being opened. That is deliciously alarming. I want to know whether Vee becomes a safe way for Randi to want without being the one exposed—or whether Vee is going to blow straight through this immaculate face.
+Also: Daphne. One name, one old failure, and suddenly his exquisite restraint has a scar under it. I need to know what he did, what it cost, and whether his determination not to interpret Randi will leave him unable to recognize that she is disappearing behind the face again.
 
-Texting a friend at 1 a.m.: this man built her a spanking bench disguised as a table, made her beg until the voice was actually hers, held her while she cried, and accidentally scared her back behind her own face. I am not sleeping.
+I’m fully caught. This gave me explicitness without reducing her to a body, psychological depth without cooling the erotic charge, and a conflict made from two people’s deepest adaptations rather than one missing text. At one in the morning I’d be telling a friend: the bench is not the dangerous thing; being seen is.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
@@ -19,10 +19,13 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The heat delivered completely, but it was the emotional aftermath that locked me in. Pace thinks they became closer at the exact moment Randi decided he must never see her again, and I urgently need to know what that fracture turns them into.
+WHY: This hit the exact nerve I keep looking for: genuinely hot, emotionally intelligent, and frightening because everyone’s choices make sense. I need to see what Randi does with the self she has just sworn to bury—and how long Pace can mistake her perfect performance for trust.
 
 LEDGER
-+ FEAR: Randi will turn being truly seen into a threat and use Vee—or the game with Vee—to keep Pace from ever reaching her this directly again.
-+ LOVE: Pace’s patient attention: the apple slices, the check-ins, the blanket and water, and his refusal to force open a closed door.
-+ SUSPICION: Vee will become the place where Randi can safely displace the hunger and tenderness she cannot bear to receive herself.
-+ WAITING: I need to see how Randi and Pace get from this private rupture to choosing Vee together, especially when Pace still believes this night brought Randi closer.
++ FEAR: Randi will give Pace the flawless face from now on, and his hard-won respect for her boundaries will help her hide successfully.
++ LOVE: Pace slicing the apple exactly the way she can eat it, then holding her without demanding an explanation.
++ LOVE: Randi’s raw, unpretty voice when the performance finally broke.
++ SUSPICION: Daphne taught Pace restraint through a serious failure, and that history is going to shape what he notices—or refuses to presume—about Randi.
++ SUSPICION: Pace’s certainty that he found and fed Randi’s true hunger is sincere but dangerously incomplete.
++ WAITING: The moment Pace realizes the woman curled against him after the bathroom is performing.
++ WAITING: Randi confronting that the bench made her feel more alive than perfection ever has.

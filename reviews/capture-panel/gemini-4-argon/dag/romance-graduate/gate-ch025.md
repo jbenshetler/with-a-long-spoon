@@ -1,74 +1,80 @@
-*capture-dag-v3-grounded · gate ch025 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4407c395237c · dated · memory grounded: facts ck-ch020@consensus (audited, 6 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed f8ff1ae9ed08 · 2026-11-20*
+*capture-dag-v3-grounded · gate ch025 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 60c78e0dd0a1 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch024 · history ch001..ch024 · ledger no seed b93a3e55d925 · 2026-11-22*
 
 REACTION
 
-WAIT. STOP EVERYTHING. MY HEART IS IN MY THROAT.
+WAIT. STOP. HOLD ON A SECOND.
 
-*"She held it closer to her face and put it in again, carefully this time, her birthday, one number at a time. The dots shook and cleared. She sat there with the phone in her hand. Then she put in Vee's. It opened."*
+*She held it closer to her face and put it in again, carefully this time, her birthday, one number at a time. The dots shook and cleared. She sat there with the phone in her hand. Then she put in Vee's. It opened.*
 
-OH MY GOD.
+HE CHANGED HIS PHONE PASSCODE FROM RANDI'S BIRTHDAY TO VEE'S BIRTHDAY.
 
-I literally dropped my hand onto my chest and gasped out loud. Do you understand how devastating that six-line sequence is?! His phone passcode used to be *Randi's birthday*! Her thumb put it in without even thinking about it because that's what it had always been! And when it shook and cleared, she put her birthday in a second time, slowly, one digit at a time, just to be sure she hadn't mistyped it. And then—without having to guess ten different numbers—she knew immediately whose birthday had replaced hers. And it opened on the first try!
+Oh my god. I literally gasped so loud I scared myself.
+Let's stop and take in the sheer, silent violence of that moment in the dark den!
+First of all: *how* did Randi know Vee's birthday to type it in?! From Chapter 18 at Sunday brunch when she pulled Vee's driver's license out of her wallet to check her zodiac sign (*"July twenty-ninth... A Leo"* -> `0729`)!
+Second: *how* did Pace even know Vee's birthday?! Did Vee tell him, or did he see it, and—without a word to anyone, while still sleeping with Randi, while still letting Randi pick him up at the airport in Roanoke and call herself his girlfriend—he went into his settings and replaced Randi's birthday (`her birthday, one number at a time`) with `0729`!!
+Can you imagine sitting alone in the dark at midnight wrapped in the cashmere blanket you brought to your boyfriend's house, typing your birthday into his phone the way you always have, watching the dots shake and clear twice, and then on a cold, sick hunch typing in the other girl's birthday—and the lock screen opens?!
 
-While he was away, or somewhere in the last two weeks, Pace changed the passcode on his phone from Randi's birthday to *Vee's birthday*! And how did Randi even know Vee's birthday?! Because they're "dear friends"! Imagine sitting alone in the dark in the den of your boyfriend's house, wrapped in the cashmere blanket he bought for you, having just driven to the airport in the middle of the night to pick him up, having just fucked him twice to reclaim him after three days apart—and finding out from a lock screen that he quietly erased your birthday and put the other girl's in its place!
+That single beat—five lines of prose, zero melodrama, not even a single adjective explaining how much it hurt—hit me harder than a ten-page screaming match ever could.
 
-Let's back up and look at how we got to that recliner, because the entire first half of this chapter was already a masterclass in tension.
-First: the airport pickup! Notice that wearing the oxblood ultrasuede wrap (*"the one disciplined oxblood at the end"* of her closet from Chapter 2!) with nothing underneath, running to him in the terminal, kissing him until a woman with a stroller mutters at them, paying for valet ("rockstar service")... Randi pulled out every single stop tonight.
-And THEN in the car, when she asks about the induction and Pace says *"She sent me a picture,"* look at what happens when Randi says *"Show me"*:
-*"'It's hers,' he said. 'She sent it to me.'"*
-For the FIFTH time in this book, Pace puts up a wall around something of Vee's (*"It's hers"*) and refuses to share it with Randi! Even when Randi points out—rightly!—*"Pace. I bought those shoes with her. I was on my knees for those shoes. I don't get to see?"*
-And look at Pace: *"he caught something go across her face in the dash light, there and gone, and set it down."*
-There he goes again! Setting it down! And when Randi tries to get him to join her in the dirty voyeuristic banter about Vee's dress (*"showing those legs all the way to the hip, tits out"*), Pace primly corrects her: *"They weren't out."* Like a protective husband defending his wife's modesty instead of a guy playing the pointing game with his girlfriend!
+And look at WHY she was even going through his phone in the middle of the night!
+Let's rewind to the car ride from the airport:
+1. First, notice the outfit Randi wore to pick him up: *"oxblood ultrasuede, cut in a deep wrap to the waist."* Remember Chapter 2 when Randi looked at her disciplined sorority closet of bone, camel, and oatmeal with *"one disciplined oxblood at the end"*?! She wore the one color in her closet that lives in the same family as Vee's burgundy silk, with nothing on underneath it and a fresh wax!
+2. And in the car, when Pace tells her Vee sent him a picture from the induction and Randi asks *"Show me,"* Pace does it AGAIN! For the fourth time in this book (first the froyo confession in Ch 6, then the truck unbuttoning in Ch 11, then the Saturday dress-fitting in Ch 16, and now the induction photo!), Pace guards Vee's intimacy like a dragon: *"It's hers. She sent it to me."* Even after Randi says *"Pace. I bought those shoes with her. I was on my knees for those shoes"*!
+3. And notice how Randi sets him up as soon as they walk into the house! In the den, she holds out her hand for his unlocked phone to put on music (Pet Shop Boys), and then *she* carries his phone down the hall ahead of him and sets it on the nightstand charger by his bed so she knows right where it is and how the magnet clicks! She was already planning to look at that photo the second he fell asleep!
 
-And notice what Randi did as soon as they walked into his house!
-*"In the den she turned and held out her hand. He took his phone out of his jacket, and it woke to his face and opened, and he put it in her palm."*
-WAIT A SECOND. Did she ask for his phone in the den to put on the Pet Shop Boys *specifically* because he had already refused to show her the picture in the car, OR so she could carry his phone into the bedroom and see where he kept it, OR was she going to check the photo right then if he hadn't been standing there, and then when she tried later she needed the code because his face wasn't there to unlock it?!
+And then—oh my god—what she actually DOES once she gets the phone open with Vee's birthday!
+First, look at how Randi looks at the photo versus how Pace looked at it:
+Pace looked at it in Berkeley, didn't even realize her tits were practically out or why her face was flushed like that (*"They weren't out," he said*), and wrote the most formal, courtly Pace text imaginable: *Exquisite. I wish I'd been there.*
+Randi zooms in with two fingers and reads *every single molecule* of that photograph:
+— She sees her own four-inch black straps and the ankle buckle she fastened with two fingers on her knees.
+— She sees there is nothing under the silk.
+— She lingers for a long time on the way the burgundy charmeuse is poured over the full weight of Vee's breasts and the faint press of her nipples.
+— AND she recognizes the exact look on Vee's face—*"the moment before Vee leaned in and told her one of her hot little secrets: the eyes gone bright and dark, the lips come apart, the smile at one corner she could not keep down."* (Wait: Randi assumes *"Somewhere on that stage she had been thinking about him,"* when we were in Vee's head in Chapter 24 and know Vee was thinking about *both* of them—the dress he made AND *"at her ankle was the buckle where Randi's two fingers had been"*!)
+— And under the cashmere blanket, looking at Vee's breasts and Vee's flushed, secret-keeping face, Randi's own nipples draw up tight!
 
-And look at the bedroom scene! Last week in Chapter 21 (*Gone*), when Randi talked about Vee's breasts, Pace's threesome fantasy dissolved into Vee alone in a bedsheet in his kitchen, and he started talking about Vee lighting up a room like a lamp. Tonight, after the quick, hard first round ("I've got a fresh wax. Take me hard and quick"), Randi takes him in her mouth while he's still wet with her and deliberately feeds him a tactile, physical image of *her own hands* on Vee in the dress (*"I ran my hand right down her hip in it, and there was nothing there. Nothing under it at all. Just the silk and then her"*). And THIS time it works—Pace pictures Randi's dark head bent to Vee's breast, sucking Vee's pale pink nipple into her mouth while Vee holds her there, and gets hard in Randi's mouth!
-Wait: look at Pace's thought right before he falls asleep:
-*"He meant to say something. How glad he was to see her. That it had been kind of her to drive all that way in the dark to get him. Somehow Randi had gone right past all of it, and every conversation since the airport had gone just where she wanted it."*
-Because Randi didn't want his polite gratitude for driving to the airport! She was working all night to steer him back into *them*, and she STILL couldn't get past the locked door of *"It's hers. She sent it to me"*!
-
-And then she gets his phone off the nightstand, discovers Vee's birthday is the passcode, sees that the last message in her own thread from Pace is a single cold word from Monday afternoon (*"Landed."*), and opens Vee's thread.
-Look at how Randi reads that photo of Vee compared to Pace:
-1. *"It was all there, Vee's long leg and Randi's shoes, and nothing at all under the silk, and he had looked at it on a bed in Berkeley and seen a dress."*
-2. Randi sees what Pace didn't even see! Remember at the end of Chapter 23 (*The Induction*) when Vee sent the photo to Pace and thought, *"He would have no idea what else was in the frame. That part was hers"*?! Pace just wrote *"Exquisite. I wish I'd been there."* RANDI zooms in on Vee's breasts and Vee's face and immediately recognizes the flush of sexual heat in Vee's eyes (*"Randi knew that face. She had seen it across a table, more than once, the moment before Vee leaned in and told her one of her hot little secrets... Vee was proud in the picture — and that was the least of it"*). While Randi's own nipples draw up tight under the cashmere blanket!
-3. *"She could have been there. She could have been in the third row with her hands together. Damn Brooke."* She really DID miss it because Brooke called an exec board meeting and threatened her with Standards!
-
-AND THEN SHE TEXTS VEE FROM PACE'S PHONE.
-At first, when she started typing *"The way that dress fits your breasts,"* I thought she was trying to impersonate Pace. And then she backspaces *breasts*—because *"breasts"* is Pace ("a man admiring a seam")—and types *tits*:
+First she forwards the photo to her own phone (and deletes the forwarded message from her thread on Pace's phone—which, side note, revealed that Pace hasn't texted Randi once since *"Landed."* on Monday afternoon while he's been texting with Vee!).
+And THEN.
+She opens Vee's thread. She starts typing as Pace (*The way that dress fits your breasts*), realizes that sounds like Pace admiring a seam, backspaces *breasts*, types *tits*, and sends Vee—from Pace's phone at past midnight!—her own voice:
 *The way that dress hugs your tits makes me wish I was a dress.*
-She deliberately wrote it in HER OWN VOICE, from Pace's phone, at midnight!
-And look at Vee's instant reply:
+
+WAIT A SECOND.
+Why did Randi send that text?!
+Look at her face while she's doing it, right after discovering he changed his passcode from her birthday to Vee's:
+At first she's grinning in the dark, breaking Pace's courtly *"Exquisite"* frame, putting *her* filthy, playful voice (*tits*, *makes me wish I was a dress*) directly into Vee's bedroom at midnight under Pace's name!
+And then Vee texts back immediately:
 *PACE.*
 *who are you and what did you do with him??*
 *I'm keeping this forever*
 
-AND LOOK AT RANDI'S REACTION:
-*"She laughed. It came out of her without a sound, and she put her hand over her mouth, and her eyes stung. 'Oh, honey,' she said into her hand, and it came out long and soft, Kentucky all the way up in it."*
+And look at what happens to Randi when she reads those three texts from Vee:
+*She laughed. It came out of her without a sound, and she put her hand over her mouth, and her eyes stung.*
+*"Oh, honey," she said into her hand, and it came out long and soft, Kentucky all the way up in it.*
 
-Why did her eyes sting and the Kentucky come all the way up in her voice on *"Oh, honey"*?!
-Because:
-1. Vee didn't get offended by the dirty, bold line—she LOVED it (*"I'm keeping this forever"*), and she thought it came from *Pace*! Randi just said the exact thing *Randi* wanted to say to Vee about her tits in that dress, and had to watch Vee light up and give the credit and the devotion to Pace!
-2. AND at the exact same time, Vee immediately clocked that it didn't sound like Pace (*"who are you and what did you do with him??"*)!
-3. And then Randi deletes every trace of the exchange from Pace's phone—and deletes the forwarded photo from her own thread on Pace's phone—so Pace will never know it happened, while *Vee still has "The way that dress hugs your tits makes me wish I was a dress" sitting on HER phone forever!*
+MY HEART JUST SHATTERED INTO A MILLION PIECES.
+Her eyes stung and the real Kentucky voice came all the way up in the dark—*"Oh, honey"*—when she saw how thrilled, how delighted, how instantly happy Vee was to get a hungry, unguarded text like that from "Pace," and that Vee said *I'm keeping this forever*!
+Look at the contradiction tearing Randi apart in that chair:
+1. She just found out Pace replaced her birthday with Vee's birthday on his lock screen.
+2. She is genuinely, achingly turned on by Vee's photo and genuinely touched to tears (*"Oh, honey"*) by Vee's sweet, bewildered joy at her text.
+3. And then she systematically deletes every trace of the exchange from Pace's phone so Pace will never know it happened—while over in Vee's dorm room, Vee still has *The way that dress hugs your tits makes me wish I was a dress* sitting on her phone forever, believing Pace sent it to her at midnight on Wednesday!
 
-Wait a second! What is going to happen when Vee brings up that midnight text to Pace, OR when Vee tells Randi about the uncharacteristically dirty text "Pace" sent her at midnight, OR did Randi just plant a live grenade in Vee's phone?! And she climbs back into bed, kisses Pace's mouth, lets his heavy arm come over her in his sleep just like it came over Vee in Chapter 19, and lies there wide awake in the dark while her phone in the foyer keeps Vee's picture!
+WAIT. Think about the ticking time bomb she just planted!
+Vee said *I'm keeping this forever*! Next time Vee sees Pace—probably Friday night!—Vee is going to bring up that midnight text (or quote it, or tease him about *"who are you and what did you do with him??"*), and Pace is going to have NO IDEA what she's talking about! AND wait: how was Pace at his house with Randi on Wednesday night if he told Vee he was gone for three days?! No, Monday-Tuesday-Wednesday is three days—so he flew back Wednesday night, didn't tell Vee he was back yet (or did he?), and Randi picked him up at the airport! If Vee realizes that text was sent at midnight Wednesday night while Randi was in Pace's bed—or when Pace says *I didn't send that*—everything is going to blow sky high!
 
-This chapter was a ten out of ten. I am shaking.
+Also, two smaller things from earlier in the chapter that I have to note:
+— Who was the "boy in a vest" driving Randi's dark-green Mercedes at the airport curb who got out of the driver's side and held the door for her right after she typed something on her phone?! Did she pay someone (or get a frat pledge / airport valet) to circle the terminal loop in her car so she wouldn't have to park in the garage and walk, just to give Pace "rockstar service" at the curb?!
+— And in bed between Round 1 and Round 2, when Pace went soft after coming fast and Randi took him in her mouth and told him about touching Vee in the dress in her dorm room (*"I ran my hand right down her hip in it, and there was nothing there. Nothing under it at all"*—which was actually a slight embellishment of Friday in the dorm room, or how it felt to her!), and Pace got hard again right in her mouth picturing Randi's mouth on Vee's pale pink nipple! Even Pace clocked afterward: *"He meant to say something. How glad he was to see her. That it had been kind of her to drive all that way in the dark to get him. Somehow Randi had gone right past all of it, and every conversation since the airport had gone just where she wanted it."* Because Randi is working overtime to steer every second of the night so she stays in control—right up until she types her birthday into his phone and the dots shake and clear.
 
 GATE 25 — Nachtmusik
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: That silent lock-screen gut-punch—Randi trying her own birthday twice and then unlocking Pace's phone with Vee's birthday—followed by her sending Vee that dirty text from Pace's phone, her eyes stinging with a Kentucky "Oh, honey" at Vee's delighted reply, and deleting the evidence before climbing back into bed had my pulse racing the entire time.
+WHY: That midnight scene in the den—Randi watching her own birthday fail twice on Pace's lock screen before Vee's birthday opens it, stealing the induction photo, sending Vee a filthy text as Pace, and then tearing up with a Kentucky "Oh, honey" at Vee's "I'm keeping this forever" before deleting the evidence—had my jaw on the floor.
 
 LEDGER
-~ F1.2 DEEPENED: Pace's blind spot and compartmentalization just hit a brutal new level: he refuses to show Randi Vee's induction photo ("It's hers. She sent it to me") even after Randi reminds him she bought the shoes on her knees with Vee, sees the hurt cross Randi's face in the dash light and "set[s] it down," and has quietly changed his phone passcode from Randi's birthday to Vee's birthday.
-~ F6.2 DEEPENED: Pace not only withholds Vee's induction photo from Randi in the car ("It's hers") and corrects Randi's "tits out" with a protective "They weren't out," he has literally replaced Randi's birthday with Vee's birthday as the passcode on his phone.
-+ LOVE: That devastating, wordless six-line sequence where Randi's thumb automatically enters her own birthday into Pace's phone, tries it a second time carefully when the dots shake, and then enters Vee's birthday and watches it open.
-+ LOVE: Randi recognizing the exact sexual flush in Vee's eyes in the induction photo ("Vee was proud in the picture — and that was the least of it") that Pace completely missed when he just saw the dress, and her silent, stinging-eyed Kentucky *"Oh, honey"* when Vee replies *"I'm keeping this forever"* to the text Randi sent from Pace's phone.
-+ FEAR: Randi erased the midnight text (*"The way that dress hugs your tits makes me wish I was a dress"*) and Vee's replies from Pace's phone, which means Vee is walking around with a text she thinks Pace sent her—"I'm keeping this forever"—that Pace has no idea exists.
+~ F6.2 DEEPENED: Pace's protection of Vee's privacy now extends to refusing to show Randi the induction photo ("It's hers. She sent it to me") even after Randi reminds him she was on her knees buckling those shoes—and more damningly, he has secretly changed his phone passcode from Randi's birthday to Vee's (`0729`).
++ LOVE: The gut-punch five-line beat of Randi typing her birthday into Pace's phone twice, watching the dots shake and clear, and then typing in Vee's birthday (which she remembered from reading Vee's ID at brunch!) and watching it unlock.
++ LOVE: Randi's silent, stinging-eyed laugh and full-Kentucky "Oh, honey" in the dark when Vee replies *PACE. who are you and what did you do with him?? I'm keeping this forever* to the text Randi sent from Pace's phone.
++ FEAR: Randi deleted the midnight *makes me wish I was a dress* text exchange from Pace's phone, but Vee still has it on hers ("I'm keeping this forever")—the second Vee mentions that text to Pace, he's going to know someone was in his phone at midnight on Wednesday.

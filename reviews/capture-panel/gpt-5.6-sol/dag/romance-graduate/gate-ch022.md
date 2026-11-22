@@ -1,69 +1,80 @@
-*capture-dag-v3-grounded · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed 7c3257c59a6c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 906a4897fb74 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 8e6a351c100f · 2026-11-22*
 
-REACTION — Oh, she stayed.
+REACTION — Oh, Randi stayed.
 
-She stayed down on his chest. She let him cover her. She asked for food. She ate every last thing on the plate. She asked about Chicago. She put on the undershirt she already knew how to find, climbed into the familiar chair by the stove, and went back to bed with him afterward.
+She stayed down after sex. She stayed through the shiver. She asked for food. She ate every bite. She asked for more wine with her hand on his wrist, listened to him talk about Chicago, went back to bed in his undershirt, and told Brooke to go fuck herself before falling asleep against his chest.
 
-I am almost stupidly relieved. After watching Randi turn Pace’s blanket into a wall, leave him hungry, reject the meal he made, and use sex to close every door between them, this felt like somebody finally letting air back into the house. Pace has kept believing there is a version of Randi who can remain after wanting, and tonight she did. Not because he solved her. Not because they had the fight they desperately need. She simply stayed loose long enough to discover she was hungry and trusted him with the hunger.
+I have been waiting twenty-one chapters for this woman to let ordinary intimacy happen after desire, and now it has. Not because Pace finally found the correct portion for her. Randi named the hunger herself.
 
-“Will you make me something?” got me worse than any of the sex. That is Randi asking to be cared for without pretending he forced the care on her. No tiny prepared apple bowl, no portion he has guessed she might permit, no refusal that leaves him searching himself for an offense. She names the appetite. He lights up. Then she clears the plate.
+“Will you make me something?”
 
-I did not realize how frightened I had become that the food restriction would remain the one place Pace’s attention could never reach because Randi would experience any noticing as surveillance. But this is not him coaxing or monitoring. He gives her a small plate, talks about his work, and lets her eat. She chooses every bite. When he offers more, she says no, and the no remains clean because the first portion is gone. That empty plate felt like a declaration.
+That was more naked than anything they did in bed.
 
-And she asks about Chicago. Thank God. Pace has listened to every fragment of her life, knows the politics of her house, the size of her appetite, the temperature of her body, and Randi has recently treated him as a delivery system for Vee. Here she remembers he left town, remembers why, and asks how it went. Then she listens long enough to learn he was nervous. Pace gets to be a person in the room again, not merely the man who sees and feeds both women.
+And before that, she told him she loves Vee. Not in the safe little “Love you, girl” wrapper she gave Vee on the sidewalk. Here she says she thinks of things to tell her after they part, wants to hear her laugh, cannot get bored, and admits Vee got past her before she could prevent it. That is love. The woman who turns every appetite into a performance or a gift for Pace finally lay loose against him and confessed the whole humiliatingly tender shape of wanting another person in her life.
 
-The chapter is called “Gone,” and everybody is gone in a different direction. Vee is gone over Pace. Randi is gone over Vee. Pace is already imagining both women in his bed and then losing even that fantasy inside the simple memory of Vee taking up his kitchen. None of these people is remotely casual anymore. The game is over emotionally, even if they are still behaving as though the plan can be managed.
+“I keep thinking of things to tell her. Stupid things.” God. That got me worse than any declaration could have. Sex can still be routed through Pace. Beauty can become fantasy. But wanting to tell someone a stupid thing because you miss the sound of her laugh is attachment with nowhere to hide.
 
-Randi admitting she keeps thinking of things to tell Vee may be the most naked thing she has said about her. Sex can still be explained as novelty, curiosity, a threesome fantasy, something for Pace. Wanting to tell somebody stupid things just to hear her laugh is love. That is the ordinary daily hunger Randi cannot eroticize away. Vee got past her before she could help it, and the phrasing is pure Randi—love as a failure of perimeter security—but she knows it happened.
+And Pace heard it as something beautiful. He did not tense, compete, or pull Randi’s love back toward the threesome. He imagined the women laughing together before imagining them naked. For one moment I could see the relationship they might actually have if they would stop arranging Vee and tell her the truth: not merely Randi displayed to Vee, not two women performing for Pace, but Randi and Vee being ridiculous in a shoe store while he loves that they delight each other.
 
-And I loved hearing her describe the shoe-store laughter because I had loved that moment too. Vee is not only the beautiful body they selected. She embarrasses herself. She teases Randi’s feet. She makes Randi fold up laughing in public. Randi wants the whole ridiculous woman, not merely the abundant body that first stopped her across the lawn. That makes me much more tender toward her and much more furious that she still refuses to tell the truth.
+Then Pace said what Vee does to a room, and Randi froze.
 
-Because she tells Pace everything except the kisses.
+That hurt because Randi had just spent the chapter saying almost the same things. Vee is lovely, free, extraordinary, impossible to tire of. But Pace’s version names the thing Randi cannot receive for herself: Vee is alive without trying, bright without managing the light, abundant while believing she is too much. Of course Randi went rigid. Vee possesses naturally what Randi has spent her life manufacturing at terrible cost.
 
-She tells him Vee talks about him for an hour. She tells him how beautiful Vee looked in the dress. She gives him the shopping trip, the laughter, the body under the cardigan, the fact that she cannot get bored. She lies on his chest with her face undefended and admits that Vee has gotten past her—and still withholds the most important evidence that Vee may be choosing her back.
+And maybe worse: Pace sees it.
 
-That omission is enormous now. It is no longer possible to say Randi simply has not found a natural opening. The entire conversation is the opening. Pace is imagining the women together while Randi describes her desire, and she lets him believe the relationship remains entirely on her side. She praises his work with Vee, calls Vee’s devotion romantic, and never says: *She has kissed me twice. The second time she knew it was coming and met me.*
+He sees Vee’s hidden shame and the radiance underneath it. He has language for who she is when she is not performing. Randi has spent their entire relationship terrified that when Pace says “there you are,” he has found something she must immediately conceal. Hearing him describe Vee as the most alive person in the room must have felt like confirmation that the unhidden woman is the one he loves best.
 
-I think Randi can admit that she loves Vee only while Pace remains the axis of Vee’s conscious desire. “She’s got it bad” is safe because it places Vee securely with him. Even “you’ve spoiled her for being hurried” makes Randi’s intimacy with Vee evidence of Pace’s successful courtship. If Randi told him Vee kissed back, she would have to become not the woman observing what Pace has opened, but a person Vee wants in her own right. That is the exposure she keeps circling and refusing.
+So Randi does what she always does. She finds him hard and converts the wound into sex.
 
-The bracelet appearing under her fingers told on her too. Randi can say Vee is stunning and extraordinary, but when the admiration gets too close to naked, her hand finds the white gold. I still do not know exactly what that band means, but it is part of the architecture she reaches for when her own wanting becomes difficult to hold.
+It was hot. I am not pretending otherwise. Her slow breasts across his chest while she describes Vee’s body, Pace remembering the weight of Vee and then imagining both women together, Randi riding him in the low light with only her blue toenails remaining composed—yes. But I felt the turn now. Pace praises Vee’s aliveness, Randi locks up, then discovers his erection and makes that the available meaning. Again her jealousy becomes something he can read as desire.
 
-Then Pace names Vee’s shame, and Randi softens past it. That was complicated for me. She recognizes what he is doing for Vee and loves him for it. She is genuinely moved that he is showing Vee she need not be ashamed. But Randi has also kissed Vee twice and allowed both kisses to remain unnamed. She is helping loosen Vee’s bodily shame while leaving her desire for women inside the old camouflage. Pace is freeing one part of Vee in complete ignorance that Randi has already touched the other.
+Except this time the sex did not end in flight.
 
-And then Pace says what Vee does to a room, and Randi goes still.
+That is the enormous change. She did not use her body to cover the wound and then leave before he could offer anything ordinary. She let him hold her through the chill. She asked to be fed. She sat near the stove inside his shirt and told him about flowers and Brooke. She asked about his presentation—about a part of his life that had nothing to do with Vee, sex, or what Pace could provide her. She listened while she ate.
 
-That was the wound. Randi adores Vee’s freedom, her laugh, her hair, her beauty. But Pace names Vee as the most alive person in the room, luminous without knowing it, and Randi’s body has to lock down around the sentence before she can answer. Because that is what Randi believes she is not. She knows exactly what she does to a room: measures it, reads it, arranges herself for it, controls the flowers, gets the outcome she wanted. Vee walks in believing she is too much and somehow becomes light. Randi wants that light, loves it, and I think fears Pace loves it because it is everything she cannot give him.
+The empty plate nearly made me cry.
 
-Then she finds him hard and converts the stillness into sex again. Of course she does. It is the old mechanism—but this time the sex does not become an exit. That matters enormously. She turns the hurt into heat, yes, but afterward she remains available to cold, hunger, conversation, care, and sleep. This is not resolution. It is a real change.
+The small bowl in the last chapter sat untouched because Pace had prepared the portion and meaning in advance. Here he makes a small plate because she asks him to feed her, and she finishes everything on it. He expects her old stopping point and watches her go past it: chicken, couscous, asparagus, even the little remnants gathered from the edge. She does not praise only the sauce. She does not eat leaves and leave the richer thing untouched. She lets the care enter her completely.
 
-The sex itself was hot because the fantasy is no longer vague. Pace sees Randi dragging her breasts over Vee’s, black hair in red, Vee’s head going back. He wants the two women together, but then the fantasy collapses into Vee alone in the kitchen, taking up the whole room. That would terrify Randi if she could see it. Pace wants “us,” but his mind is already forming private chambers too: Randi and Vee together, then Vee alone, domestic and fed and watching him cook. The triad is not going to erase the dyads. It is multiplying them.
+And Pace does not make a speech about it. Thank God. He asks if she wants more, accepts the no, and leaves his hand where she takes it. The plate being empty is allowed to be true without becoming a lesson Randi has to endure.
 
-Randi saying she did not let him take his time with her also hurt. She makes it flirtatious—she recognized he was different and seized him—but underneath it is the entire contrast between the women. Pace has given Vee weeks to arrive at every threshold. Randi rushed in before waiting could expose how much she wanted, and now she watches Vee receive patience as though it is a beautiful thing Pace made for someone else. “You do nice work” is affectionate, approving, and devastatingly detached from the fact that she deserved time too.
+Her asking about Chicago mattered for the same reason. Pace has been so occupied with attending to these women that I sometimes forget he has an intellectual life large enough to frighten him. Randi remembers the presentation, asks how it went, and hears about his nervousness without turning it into a joke about the brilliant mathematician. This is the first time in a while I have felt them become a couple again rather than two conspirators consuming Vee from opposite sides.
 
-But Pace kissing her palm instead of correcting her was lovely. He does not tell her she should have waited, does not turn Vee’s courtship into a lesson about everything Randi did wrong. He receives the history she offers. For all his failures to understand her, he does not punish her for the defenses she built before he knew their names.
+But the secrecy is now almost unbearable. Randi has told Pace about the shoe-store laughter while omitting the touch to Vee’s toe, the bodily response, the dress against Vee’s body in the dorm, “Love you, girl,” and the ruinous purchase. She gives him the version of the afternoon that proves she loves Vee while keeping the version that proves Vee may want her back. Pace lies there imagining their future intimacy without knowing Randi has already begun it.
 
-And that ending. Randi asleep against his chest after eating, one hand open on him. The locked hand opens. The woman who always puts herself back together has gone to sleep in his undershirt. Pace is not standing alone in the kitchen wondering what he did wrong. The blanket is warmth again instead of a wall.
+And neither of them knows about the other’s most damaging part of Friday and Saturday. Pace does not know Randi helped Vee spend money she does not have. Randi does not know how completely Pace’s description of Vee’s shame comes from looking directly at it, nor how far his private bond with Vee has already gone. They talk about Vee with real love while each holding back the facts that would disturb the lovely picture.
 
-I know the truth is still rotting underneath this tenderness. Randi has offered Pace a profound confession with its central fact removed, and his happiness about her love for Vee is therefore based on an incomplete understanding of what already exists. But I cannot refuse the comfort of tonight. Randi wanted Vee, wanted Pace, wanted food, wanted to be fed, wanted to hear about his work, and let all of those wants occupy the same house without fleeing.
+Then “Fuck Brooke.”
 
-Texting a friend at 1 a.m.: Randi lay naked on Pace’s chest and admitted she keeps thinking of stupid things to tell Vee just to hear her laugh, described Vee as extraordinary, and confessed Vee got past her before she could stop it—but still did not tell him Vee kisses her back. Then, after sex, she asked Pace to feed her, cleaned the entire plate, put on the undershirt she knows exactly where he keeps, went back to bed, and stayed until she slept.
+I cheered. Quietly, because Randi says it from inside Pace’s arms, not to Brooke’s face, but still. Brooke asked what time she would return, and for once Randi did not obey the implied schedule. She did not bring the overnight bag into the chapter as an announced decision; she simply stayed until staying became sleep. The house expected her back. She chose not to go.
 
-GATE 21 — Gone
+That is the chapter title for me. Randi is gone from the place that waits for her to report herself, and nobody in Pace’s house is treating her absence like a disciplinary problem. She is warm, fed, held, wearing his shirt, and asleep.
+
+I am deeply moved and deeply worried. This is the happiest I have been for Randi since her delighted footwork on the lawn, because she finally asked for what she needed instead of punishing Pace for failing to infer it. But Pace still does not know why his description of Vee’s aliveness made her body lock. One night of eating and staying is not the same as letting him see the wound. It is a real turn, though. She let herself be hungry, and then she let herself be fed.
+
+GATE 22 — Gone
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi finally names her attachment to Vee as an ordinary, daily need—and then remains with Pace long enough to ask for food, care about his life, eat everything, and sleep. But she confesses almost the whole truth while still hiding that Vee kisses her back, and that omission is now impossible to treat as incidental.
+WHY: Randi finally confessed that Vee has gotten past her defenses, asked Pace to feed her, emptied the plate, and stayed the night despite Brooke waiting for her return. It is the ordinary intimacy she has fled all book—and I need to know whether this is the beginning of honesty or one perfect night she will hide inside the flawless face again.
 
 LEDGER
-+ LOVE: Randi asking Pace to feed her, clearing the plate, wearing the undershirt she already knows where to find, and staying asleep against him afterward.
-+ SUSPICION: Randi can admit she loves Vee only while she can keep Pace at the center of Vee’s desire; saying Vee kisses her back would force her to accept that she is wanted directly.
-~ F1.1 SHIFTED: Randi still uses the game with Vee to approach what she cannot expose directly, but tonight loving Vee did not make her flee Pace; she stayed open enough to eat, listen, and sleep beside him.
-~ L2.2 SHIFTED: The cashmere blanket becomes warmth again instead of a wall—Randi lets Pace cover and hold her through the chill, then leaves it behind because she chooses his undershirt and his bed.
-~ S3.3 CONFIRMED: Randi explicitly loves Vee’s freedom, brightness, lavish body, helpless laughter, and ability to enter a room without knowing she transforms it—the qualities Randi has disciplined out of herself.
-~ F3.1 DEEPENED: Pace notices Randi’s held stillness when he calls Vee the most alive person in the room, but lets her turn the wound into sex without asking what the comparison cost her.
-~ W11.2 SHIFTED: Randi still does not explain what frightened her into leaving before, but she now reverses the pattern completely: she stays after sex, asks for food, eats, returns to bed, and sleeps.
-~ F15.4 DEEPENED: Randi celebrates Pace showing Vee not to be ashamed of her body while continuing to leave Vee’s desire for women unnamed, protecting the very camouflage that may teach Vee to divide those freedoms.
-~ W18.3 DEEPENED: Randi tells Pace she cannot stop thinking about Vee and lets him imagine the women together, yet withholds both kisses during the clearest possible opening; Pace still does not know Vee is already choosing Randi directly.
++ LOVE: Randi admitting she keeps thinking of stupid things to tell Vee just to hear her laugh—the plainest, tenderest proof yet that she loves her as a person, not a fantasy.
++ WAITING: Randi telling Pace what went through her when he called Vee the most alive person in the room, instead of turning that pain into sex.
+~ F1.1 SHIFTED: Randi still hides the wound Pace touches when he praises Vee’s aliveness, but for the first time she stays afterward, asks directly for care, eats, and sleeps without rebuilding the flawless face and leaving.
+~ W1.7 DEEPENED: Randi finally names hunger in ordinary life—food, conversation, sleep, being held—and permits herself to receive it, though she still cannot connect that need aloud to the self the bench exposed.
+~ S1.5 SHIFTED: Pace’s prepared portion failed in the previous chapter, but when Randi names her own hunger he feeds her successfully; his care works when he answers her request instead of deciding in silence what she can bear.
+~ W1.6 DEEPENED: Pace feels Randi’s body lock when he describes Vee’s aliveness, but her renewed sexual movement gives him another available interpretation and he does not ask what hurt.
+~ F3.2 DEEPENED: Randi tells Pace how much she loves Vee while concealing the toe touch, Vee’s response, and “Love you, girl”; Pace imagines the women together without knowing their private bond has already crossed erotic thresholds.
+~ L3.1 DEEPENED: Randi’s early delight in Vee has matured into attachment—she misses her immediately, collects things to tell her, and cannot get bored.
+~ W4.5 DEEPENED: Pace and Randi can now say plainly that Vee is extraordinary and sexually magnetic, but Vee still has no access to the conversation in which their shared desire for her is being made explicit.
+~ L9.2 DEEPENED: Randi’s claim on Vee is now unmistakably love; she admits Vee got past her defenses before she could stop it and keeps reaching for her even when they are apart.
+~ F11.1 SHIFTED: Randi again uses sex when jealousy and comparison seize her, but this time she does not demand Vee through Pace or flee afterward; she remains for food, conversation, and sleep.
+~ S11.2 RESOLVED: Randi has now stayed after sex, asked to be fed, returned to bed, and slept in Pace’s arms despite Brooke expecting her back.
+~ W11.3 SHIFTED: Pace still has not asked about the earlier flights, but Randi has broken the pattern herself by staying and finally asking directly for the ordinary intimacy she had refused.
+~ W16.4 DEEPENED: Randi gives Pace the safe story of laughing with Vee while withholding the erotic touch, Vee’s response, and the disguised declaration of love.
+~ L21.2 DEEPENED: The shoe-store laughter follows Randi into bed with Pace; it is one of the memories through which she finally admits Vee has gotten past her.
+~ W21.3 DEEPENED: Randi’s “Love you, girl” is confirmed as camouflage around real love by everything she confesses to Pace afterward, but Vee still believes she has merely found an extraordinary friend.

@@ -1,35 +1,49 @@
-*capture-dag-v3-grounded · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c70abd373ffb · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch027 · history ch001..ch027 · ledger no seed f756b6bcea34 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 163a64df7901 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 20d88e56d040 · 2026-11-22*
 
-REACTION — She did it. She made the room turn.
+REACTION — Oh, she took the long step.
 
-And I love that reality refused to arrange itself into the fantasy first. There was no late entrance, no automatic hush, no Pace waiting to see what he had made, no parents in the audience. Just folding chairs, bad suits, department-store navy, and a ceremony so ordinary it would have swallowed her whole if she let it. Vee had to decide, in the actual dull room, whether she still wanted to be seen when nobody she was performing for could give the moment its meaning.
+That was it. The whole room would have let her cross safely. She could have made herself modest without changing the dress, kept the slit closed, collected the paper, and still gone home looking beautiful in every photograph. Nobody asked for more. Pace was not there to draw it out of her. Randi was not there to tell her what the gown demanded. Her mother was not there to supply the shame.
 
-That second step was everything. The first was the old choreography: short, careful, keeping the slit closed, keeping everyone comfortable. Then she deliberately lengthened her stride and gave the room the whole line of her bare leg. Not because Pace asked. Not because Randi told her how to enter. Neither of them was even there. This was Vee choosing visibility for herself, in public, with her own name being spoken. The murmur going through the room made me want to cheer.
+Vee opened the dress herself.
 
-And yes, it was ferociously hot. Nothing under the silk, her hand quietly holding the slit shut while she waited, the plum nails and toes catching the light, the secret fact of her bare body sitting three rows from a microphone—every bit of it simmered before she even stood. But the peak was her discovering that public attention could belong to her without becoming punishment. She felt the room’s eyes, knew exactly what they were seeing, and kept walking. The heat came up inside the pride until she could no longer separate them. Good. I don’t want her to separate them. Her body is not an embarrassing complication attached to the accomplished woman receiving the certificate. It is part of the woman receiving it.
+And the murmur. Jesus. She gave the room her bare leg all the way to the hip, felt the eyes arrive, got wet from being watched, and kept walking. This is the woman who once buttoned herself into the cardigan and looked for witnesses after Randi kissed her. Now she deliberately wakes a dull room with her body, accepts the public knowledge without requiring anyone to say it, then sits down decorously holding her certificate while the heat keeps running under the silk.
 
-The absence of her mother hurt in such a complicated way. Of course Vee wanted her there. Of course she was sad. But the relief is real too, because her mother’s face would have become the whole ceremony: the dress, the bare leg, the knowledge—or imagined knowledge—of what was underneath. Vee would have spent her own induction measuring herself with her mother’s ruler. Instead she got to hear her name and make the walk before anyone could tell her what kind of woman that made her. “Nobody in this room who had ever taught her what to be ashamed of” landed hard.
+That was peak charge for me, fully clothed or not. The secrecy was hers for once. Not Pace and Randi holding the larger story around her. Not Randi understanding what Vee’s body means before Vee can name it. Everyone saw the same walk, but only Vee knew exactly what she had offered and what it did to her. When she sent Pace the uncropped photograph while keeping the erotic truth inside it for herself, I nearly cheered. He made the dress, but he does not own every meaning she makes in it.
 
-Pace missing it hurt differently. He made the dress for this exact room and this exact light, and he should have seen it come alive. But I’m glad, finally, that he didn’t see all of it. She sends him the photograph because the dress and the accomplishment belong with him; she keeps the erotic meaning of the walk because it belongs to her. After so much of Vee’s private experience has been carried between Pace and Randi without her knowledge, I needed her to possess something neither of them can fully read. Pace will see his work doing what he dreamed it would do. He will not know that Vee consciously opened the slit, woke the room, and got wet on being watched. That isn’t dishonesty. That is interiority.
+And I finally understand the relief she could not explain to Cassie. She wanted Pace and Randi there desperately because both of their gazes helped build this version of her—but with them absent, the walk could not become a performance for either one. She was not Pace’s beautiful work or Randi’s beautiful girl. She was alone when she chose the second step, and the sound the room made came to her.
 
-And Cassie. God, Cassie. She sees the mother problem immediately and gives Vee permission to hold grief and relief together without demanding the confession underneath. She walks Vee to the threshold, holds the phone, takes the photograph, gets bright-eyed, calls her a movie star, then offers her a terrible sandwich. She does not steal the meaning, eroticize it, reinterpret it, or make Vee owe her anything. “You can be famous at me” may be one of the most loving things anyone has said in this book. Cassie lets Vee be magnificent and then remain a person beside her.
+Their absence still hurt. I felt that hollow row of missing people: her parents unable to afford the flight, Pace in Berkeley, Randi at Brooke’s meeting. She entered the moment she had rehearsed with no one there who understood what the dress meant. But that emptiness unexpectedly gave her room to discover that she could make the moment happen without being reflected back through someone she loved.
 
-Also, “streetlight” absolutely got me. Vee has spent her life believing that being conspicuous means being ridiculous. Cassie names the brightness and takes her to lunch.
+Cassie was perfect. “You’d have spent the whole thing watching her face instead of hearing your own name” is such a clean piece of love. She does not tell Vee she should be grateful her mother missed it or insist that relief cancels grief. She names the practical truth without claiming it is the whole truth. Then “You look—” and nothing. From Cassie, yes, standing ovation.
 
-I’m deeply satisfied, which is why my need for the next chapter is a shade lower than the chapter’s grip on me. This paid off the dress, the shoes, the plum polish, the mother’s voice, the public gaze, and the imagined entrance without making Pace or Randi the owner of any of it. But now Pace has that photograph in Berkeley, and I very much want to see what he sees when he opens it—and whether Vee can keep this new ownership when she next stands under Randi’s much more dangerous attention.
+And the photograph got me. Vee asks how she looked because she is not pretending this was merely an academic ceremony. Cassie gives her the image without teasing the wanting out of her or deciding what it means. The picture shows a woman fully in command because she actually was. The arousal does not make that command false. It is part of the command.
 
-GATE 28 — The Induction
+But the receipt is waiting in the drawer.
+
+That cold little January thought came before the dress had even left the room: books again, and no idea what money will buy them. Vee does not resolve it. She hides the number under her class schedule and puts on the shoes. Then, after the glorious walk, her step catches when she looks down at them. The dread is not behind her, whatever the narration says. The immediate fear of falling is behind her. The bill is walking out beside her.
+
+That matters because the shoes worked. They held her exactly as Randi promised. The buckle carried Randi’s fingers onto the stage; the arch made the long step possible; the height completed the line. This is not an easy lesson where the reckless purchase proves hollow. They were ruinously expensive and completely right. I am much more interested—and frightened—by that than I would be if they pinched and broke.
+
+And Vee is still separating consequence from feeling. The ceremony is happiness, the walk is heat, the shoes are dread, and she keeps them in different mental rooms so one cannot spoil another. I understand why. I even love that she let herself have the moment before January arrived. But January is coming, and neither Pace nor Randi knows that this new unapologetic woman may not be able to buy her books because Randi taught her the careful choice was an apology.
+
+Still: she took the long step.
+
+At one in the morning I would be texting: Pace and Randi both missed the induction, so Vee opened the hip-high slit for an entire room purely because she wanted to, got wet from the murmur, accepted her certificate like a lady, and sent Pace a photograph that concealed the best part from him. Then she looked at the shoes she cannot afford and stumbled. I am proud of her and worried sick.
+
+GATE 24 — The Induction
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee turned an ordinary ceremony into the public claiming of her own body, deliberately opening the dress when neither Pace nor Randi was present to author the choice. Cassie’s quiet pride and “you can be famous at me” gave the triumph a love that asked for nothing back.
+WHY: Vee’s deliberate second step made the public, unapologetic woman in the mirror fully her own, not merely something Pace made or Randi recognized. The moment satisfied me enough that I could breathe before reading on, but the hidden receipt and that half-step stumble mean the cost is already following her.
 
 LEDGER
-~ W19.1 ANSWERED: Vee makes the induction entrance in Pace’s burgundy dress and Randi’s chosen shoes, but the decisive second step is entirely hers; the room turns because she chooses to open the slit and let it look.
-~ F7.2 SHIFTED: Vee takes the public attention her body once made dangerous, deliberately wakes the room with her bare leg, and experiences being conspicuous as pride and heat instead of punishment.
-~ L7.1 DEEPENED: Cassie sees Vee’s grief and relief about her mother without forcing an explanation, documents her triumph, and lets her be magnificent without taking over its meaning.
-~ F20.1 DEEPENED: The unaffordable shoes now help complete Vee’s triumphant entrance, making the cost easier to sanctify as part of the brighter self she believes the occasion deserved.
-+ LOVE: Vee keeping the erotic truth inside Cassie’s photograph for herself—Pace may see what his dress did, but only Vee knows she opened it on purpose and thrilled to the room waking up.
+~ W10.4 ANSWERED: Vee entered the induction in the burgundy gown and black heels and woke the room deliberately, choosing the long step that opened the slit to her bare hip.
+~ F23.2 CONFIRMED: Pace and Randi both missed the induction, leaving Vee to create the public moment alone—painfully, but with a freedom their gazes might have taken from her.
+~ F21.1 DEEPENED: The shoes now threaten January’s books; Vee hides the receipt without a repayment plan, and the debt catches her step immediately after her triumph.
+~ L14.2 DEEPENED: Vee’s power has moved fully into public space—she chooses to give a whole room her leg, receives its murmur, and does not make herself small.
++ LOVE: Vee taking the second step long when nobody was there to ask it of her, making the dress’s audacity entirely her own.
++ LOVE: Cassie telling Vee she would have watched her mother’s face instead of hearing her own name, then giving her the photograph without deciding what the walk meant.
++ WAITING: Pace opening the uncropped induction photograph and seeing the dress do what he built it to do, without knowing the erotic secret Vee has kept for herself.

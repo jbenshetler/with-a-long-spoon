@@ -1,31 +1,31 @@
-*capture-dag-v3-grounded · gate ch013 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f09960d6b42 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch012 · history ch001..ch012 · ledger no seed 82aab28a30fd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch013 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2beeeefee2c4 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch012 · history ch001..ch012 · ledger no seed 03d6b5c572dd · 2026-11-22*
 
 REACTION
 
-Oh, this is a gorgeous chapter, and I'm covered in dread, which I suspect is the point. Vee walks into Pace's house with a want lit and nowhere to put it, and he's the one who stops the kiss. She notices, and so did I. "No boy she'd ever been with had once been the one to stop." Her whole face goes quietly attentive. The closed bedroom door is the best tease in the book: she wore the satin on purpose, leaned toward the handle, and he said "my bedroom" with no weight at all. Heat is a simmer, and it's the withholding kind, which I like better than the generic kind.
+Well. That's a gorgeous chapter and I'm furious at how nicely it's done, because I know what's behind the shut door and she doesn't. The book spent twelve days making me crave the bench and then walked her past it. "My bedroom," no weight on it, and her stomach dropping because she wore the satin for a door he won't open. The irony is cruel. The tour is a man showing her everything except the one room that matters. That's control dressed as hospitality, and she reads it as a small disappointment.
 
-The house tour is the old trick done well. Everything she touches, the closet, the joints, the books, the error-correcting codes, is Pace being sincerely himself. "Say it more than once so the noise can't kill it" is the Euler line for this book again, and I think it's about Randi. The heat that's too warm, I noticed: the same warmth he keeps for Randi. The "wrapped box on the counter" is lovely.
+The house is the good stuff. The shoe closet, one right pair for each thing. The patent, with him lighting up like a six-year-old about kids getting out of the MRI tube faster. I fell for him a bit, which is exactly the problem. He's also been pulled right out of the "villain" slot, so now I'm scared for him too. The flinch at "parents" is the one crack, and I'm filing it.
 
-Then the dress, and I'd predicted it. I was wrong about how it would feel. The burgundy isn't her red, he matched her and not her words, and she nearly cries. I nearly did too. He made the shirt. He made the shirt, and she checked for a tag. It's the most romantic and the most unnerving thing in the book, because it needs the measuring, "down to what you'd wear under it, in good light." The yes is warm and unhedged. "He couldn't make it without seeing her" is her reasoning, and it's exactly the architecture, but this time I honestly can't see an architect, just a man who listened. Maybe he's past the game.
+Then the dress. This is the thing I bet on in chapter 10, and it's worse and better than a gift. The burgundy isn't the magazine red, it's *her*, and that's what's frightening. He listened at the summit and then built a plan around a throwaway sentence. And "You don't have to sew," and the shirt with no tag. He made the shirt. He's been dressing her since the hike, and she said yes with her eyes hot. "He couldn't make it without seeing her. That was the only thing standing between her and it — her own willingness to be looked at." That's the engine again: measure her down to what she wears under it, in good light. It's the most erotic proposal in the book and it's a tape measure. I'm very ready for that scene.
 
-Missing: Randi, again. And the bench is not in the tour. The den, the garage and the sunroom are, but the bedroom door stayed shut, and I think the bench is behind it. The closed door is a promise, and it's also the thing Vee will walk through never knowing. I want the measuring scene badly.
+Where's Randi? Nowhere. Vee said "I missed you" to a man she's kissed once, and no one in her head is the girl who steered her here. That absence is itself the dread.
 
-Complaint: the tour inventory runs long again, and the narration explains ("she understood all at once"). But the dress payoff earned it.
+Gripes: the tour is long, with lists of knives and tools, the checklist habit again, and the explaining ("the answer was absurd") ran a little. No real heat except the kiss, but the end is charged.
 
 GATE 13 — Two Towels
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 10
-HEAT: 1
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Down a hall to the left: a bathroom, plain, clean, two towels on the rod." (the long house-tour inventory)
-WHY: The dress and the made-by-hand shirt turn the book's dread into something I actually feel for him, and the closed bedroom door is the best tease yet. The measuring scene is next and I'm ready for it.
+ALMOST-STOPPED: "Down a hall to the left: a bathroom, plain, clean, two towels on the rod." The inventory tour was long, though the dress paid it off.
+WHY: The dress I predicted arrives as something more intimate and more controlling than I guessed, and the measuring scene is clearly next. I know what the shut door hides and she doesn't, and I'm hooked.
 
 LEDGER
-+ LOVE: Pace made the shirt and matched the cloth to her, not to her words. It's the most romantic thing he's done.
-+ SUSPICION: The shut bedroom door hides the bench, and "two towels on the rod" suggests Randi's presence is in the house, unseen by Vee.
-+ WAITING: The measuring scene, "what you'd wear under it, in good light," and what happens after.
-~ W10.3 ANSWERED: The russet dress is coming. Pace is making it himself, in burgundy.
-~ W12.1 ANSWERED: Saturday at his house arrived, and the bench door stayed shut.
-~ S10.5 DEEPENED: Pace is plainly more than the game with Vee. He listened and he made her a gown.
-~ F8.2 DEEPENED: She sees only sincerity here, and the measuring will be built on it.
+~ S10.3 CONFIRMED: The russet dress came back, as burgundy silk he'll make himself.
+~ F6.2 DEEPENED: He turned a throwaway line into an entire plan, and she cried over it.
+~ F12.1 SHIFTED: The bench door stayed shut on the tour; she's here, but what happens next is measurement, not the bench yet.
+~ S12.3 DEEPENED: The patent, the furniture, the shirt he made, and the kids in the MRI tube make him look really different, which makes the plan feel worse.
++ WAITING: The measuring scene, in good light, down to what she wears under it, and whether the bedroom door ever opens.
++ SUSPICION: His closing at "parents" hides a wound, and the too-warm house and the two towels are details that will matter.
++ LOVE: Pace lighting up over the MRI patent, a six-year-old with dinosaurs.

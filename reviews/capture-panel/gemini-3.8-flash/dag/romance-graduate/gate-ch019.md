@@ -1,43 +1,48 @@
-*capture-dag-v3-grounded · gate ch019 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4f25c1fa3409 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch017 · history ch001..ch017 · ledger no seed 7a6a5192601b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch019 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bcc74f83552e · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch018 · history ch001..ch018 · ledger no seed 50c98f1955a1 · 2026-11-22*
 
-REACTION
+REACTION — I feel sick. An actual, cold, greasy dread sitting right at the base of my throat.
 
-I am sitting here in the quiet feeling completely chilled to the bone. This chapter was like watching two people speak entirely different languages while looking each other dead in the eye, and the sheer, suffocating tragedy of it made my chest ache.
+This was the quietest chapter in five or six installments, and it felt like someone walked into a room with a sledgehammer and tapped the load-bearing pillar just hard enough to make the drywall powder down.
 
-Pace is so brilliant, so meticulous, so mathematically precise—and he is being so breathtakingly, catastrophically *stupid*.
+First of all, the food. The title is *Portion*, and it was an absolute masterclass in behavioral horror. He made a chicken stew—cream, wine, bread, potatoes, home-cooked warmth—and he served her in the small bowl. The bowl he slices her apples into. The bowl sized for a girl who portions her life out in teaspoons so her mother’s voice won't scream at her. And what does Randi do? She draws a single line through the top of the sauce with her spoon, calls it "wonderful"—the polite, dead, customer-service word she uses for strangers—and leaves it to congeal into skin. She eats the roughage. She eats the bitter leaves soaked in vinegar. She starves herself right in front of him, and he just sits there, confused, wondering why his home-cooked care isn't working like a spell anymore.
 
-Watching him make that stew! He cooked for her. He remembered her small bowl, he remembered the portion she can handle, he put Depeche Mode on, he baked bread. He thinks he is being the steady, generous, patient partner who is gently running their shared project. When she said, *"It's wonderful,"* and he clocked that it was her fake voice—the voice she gives to waiters and sorority sisters—my stomach dropped. That was the sound of a woman closing the heavy iron door and locking it from the inside.
+Because Friday happened.
 
-And then the confrontation over the table. God, Rivers writes psychological misalignment better than anyone alive.
+And the conversation across that table was terrifying. Randi didn't throw plates. She didn't scream. She laid her bare hands on the cloth and said: *"How long, Pace? How long are you going to take?"*
 
-When Randi said, *"It's selfish, Pace,"* and he actually thought she meant *selfish because you got to have sex with Vee on Friday without me*?! YOU BLIND, ARROGANT IDIOT. He thinks Randi’s problem is jealousy over his schedule! He thinks she’s tapping her foot waiting for her turn in the threesome!
+And Pace, in his towering, courtly, intellectual arrogance, says: *"As long as she needs. She's not ready."*
+*"She's not ready. Or you're not."*
+*"I want her to get there on her own."*
+*"On her own. With you."*
 
-He doesn't see what's actually happening at all. Randi isn't mad because he's moving too slow toward their fantasy. Randi is furious and terrified because *he is having a whole, real, breathtaking love affair with Vee right in front of her.* He is giving Vee the spacious, sacred, unhurried courtship—the domesticity, the cooking, the respect, the freedom to choose—while Randi is trapped in the rigid box of their arrangement. Randi sees that he’s falling in love with Vee, and she sees that Vee is falling in love with him, and Randi is being pushed out into the cold perimeter. AND on top of that, Randi is in love with Vee too! Randi kissed Vee on the mouth this morning! Randi is drowning in feelings she has no architecture for, and Pace just sits there across the white stew lecturing her about consent and *“How do I get her from where she is to us, on your schedule?”*
+FUCKING CHILLS.
 
-The cruelty of that sentence, even though he didn't mean it to be cruel. *“She chooses it, Randi. Every step of it. Or it isn't anything.”* He basically told her: my bond with Vee is sacred and based on pure choice, and you're just being impatient.
+Randi saw right through him! Pace dresses his seduction up in the language of pure consent, patient pacing, error-correcting codes, and giving gifts. He tells himself he is the noble guardian of Vee's agency: *"She chooses it, Randi. Every step of it. Or it isn't anything."* But Randi cuts straight to the bone: *"You've got her Friday to Sunday. You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be. It's selfish, Pace."*
 
-And then her pouring her own wine. That tiny, devastating act of defiance. He has poured every single glass of wine she has ever had in that house. She took the bottle by the neck and poured it herself because she is done letting him curate her.
+And she is *right*. It IS selfish! Pace is having his cake, eating it off the good china, and telling himself he’s just setting the table for a party three people are going to enjoy later. He took Vee’s first surrender, he spent three days pressing silk seams in the dark, he fed her fra diavolo at midnight, and he is luxuriating in being her singular savior—while Randi is left out in the cold, pacing the perimeter of their lives, watching them fall in love.
 
-And the bedroom. God, that broke my heart. No *“Tell me.”* That voyeuristic thrill—the thing that started this entire nightmare, the dirty little engine that fueled their bedroom game—is officially dead. She didn't want a single detail. She didn't want to hear about Vee from him. She just used his body like a blunt object to knock herself unconscious, shut her eyes so she wouldn't have to see him, came violently, and rolled into the cashmere blanket with her back turned.
+And then—the sex.
 
-And Pace standing in the kitchen at the end, looking at the skin forming over the cold cream sauce, genuinely thinking, *I don’t know what I did. It must be the want.*
+God, that sex scene was awful in the most brilliant, heartbreaking way. It was the complete death of their intimacy. No game. No inch-by-inch descent. No eye contact. Her eyes were *shut*. And the detail that made my stomach drop into my shoes: *she did not say "tell me."*
 
-The sheer dramatic irony is unbearable. He thinks it's "the want." He has mapped out every coordinate of this seduction, but he has completely failed to calculate the human heart. The house is freezing cold no matter what the thermostat says.
+Every single time they have touched since Chapter 3, Randi has demanded sensory details of Vee like oxygen. *Tell me. Tell me.* Tonight? Silence. Total, shut-eyed, mechanical friction. She rode him like an exercise bike, dumped her climax onto his shoulder, rolled into her cashmere blanket, turned her back to him, and went to sleep.
 
-GATE 18 — Portion
+And poor, brilliant, stupid Pace stands in his kitchen looking at the congealed skin on her chicken stew, thinking: *I do not know what I have done.*
+
+He doesn't know because he thinks with his head, and Randi is bleeding out from her chest. She is realizing that she gave away the only man who ever saw her, to a girl who took his whole heart in seventeen days, and the game they built to protect her has completely locked her out. The tragedy is immense.
+
+GATE 19 — Portion
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute psychological tragedy of Pace completely misreading Randi's heartbreak as threesome impatience was a masterclass in dramatic irony and character fracture.
+WHY: The quiet psychological devastation of Randi refusing to eat, calling out Pace's comfortable hypocrisy, and fucking him with her eyes shut and her back turned was chillingly executed.
 
 LEDGER
-+ FEAR: Pace’s stubborn insistence that Vee must "choose" every step is going to make the eventual reveal of the setup feel infinitely more sadistic to Vee when it blows up.
-+ GRUDGE: Pace’s blind arrogance in assuming Randi's anger is just sexual frustration/impatience rather than profound emotional isolation.
-~ F1.1 DEEPENED: Randi's shield has completely shattered; she isn't protected from Pace at all, she's trapped between her feelings for Vee and being sidelined by Pace.
-~ F5.2 SHIFTED: Randi isn't just jealous of Pace having Vee; she's grieving being locked out of the real, tender romance they are building without her.
-~ L11.2 DEEPENED: Pace being utterly clueless and baffled in his own kitchen, unable to solve the human equation in front of him.
-~ S1.3 DEEPENED: Randi's entire defensive posture is failing; refusing to hear the details ("Tell me") shows she can no longer stomach the voyeurism.
-~ W14.3 SHIFTED: Still waiting for the dress, but now desperately waiting for the friction between Randi and Pace to rupture their united front in front of Vee.
++ FEAR: Pace’s stubborn insistence that his slow seduction of Vee is purely for her own good is blinding him to how deeply he is hurting and isolating Randi.
++ LOVE: The horrifying, clinical detail of Randi pouring her own glass of wine—the first time she has ever poured a drink in his house.
+~ S3.2 DEEPENED: Pace defending his leisurely pace as respecting Vee’s agency proves he is entirely self-deluded about how much he is enjoying having Vee to himself.
+~ F11.1 DEEPENED: Randi shutting off the "tell me" ritual and turning her back on Pace confirms she has crossed from frantic jealousy into cold, defensive withdrawal.
+~ S18.1 SHIFTED: Randi slipping Pace's name at the curb wasn't just a slip; it was the pressure valve of her resentment hissing before this exact confrontation at dinner.

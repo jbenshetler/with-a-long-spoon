@@ -1,32 +1,36 @@
-*capture-dag-v3-grounded · gate ch016 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fead1de131d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch011..ch015 · history ch001..ch015 · ledger no seed ffecfa860940 · 2026-11-21*
+*capture-dag-v3-grounded · gate ch016 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f46943fe9d94 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch015 · history ch001..ch015 · ledger no seed fc1bb79c233b · 2026-11-22*
 
 REACTION
 
-Okay. Now I'm properly unsettled, and it's Pace's chapter, which I didn't expect to be the one that did it.
+Oh, there it is. Pace says it out loud, "I don't tell her," and the book finally takes the soft glove off his hand. I spent fifteen chapters wondering whether he was tender or controlling. This chapter says he's both, and he knows it. He weighs telling her at dinner, and he rejects it because "you did not tell someone what a gift was." He isn't hiding the plan out of cowardice, though. He's decided concealment is the nicer present. That's the jacket's "Every yes was freely given. That was the problem," and now I see how it works. Every yes will be freely given by a girl who doesn't have the information. I'm angry at him and I still half-melt at the shirts he rolls over and over. That's the book's trick, and it keeps working on me.
 
-The sex is hot. "Hard. Like you're leaving." Randi arrives with nothing under the slip and asks to be taken unsweetened. The bed creaks on the frame he built. The Kentucky comes up in "me." Heat is real. But the heat is carrying everything else. She says "Tell me," and he keeps Saturday back, the third thing he has kept from her, so the "no performing" thing is now a lie on both sides. Then she asks how he'll tell Vee about them, and I felt the floor go. She goes still at "dinner" and comes alive at "give it to her," and he sees it and laughs at himself, and I wanted to shake him. She is steering him again, using her body as the argument, and he knows and goes along because the argument is what he wants too. "She'll remember me" is the most naked thing she's ever said, and he reads it as appetite. Again.
+The sex is hot, and it's the best of the Randi scenes because it's a fight dressed as fucking. "Not tonight. I don't want you sweet. Like you're leaving." She drove out with nothing on under the slip. Then her "Tell me," and he refuses her, keeps Saturday, "not his to hand across." That's the first time he's withheld Vee from her *in the act*, and he's protecting Vee from Randi, not the other way round. Then "How are you going to tell her about us?" mid-stroke, and the body going still and then coming alive at "give it to her." She's steering him. She doesn't want Vee told, because telling puts the truth on the table and the truth scares her. He thinks he's seen through her ("he knew what she was doing") and he's mostly wrong again. He thinks she wants Vee for the fun of it. "Me. She'll remember me," with Kentucky all the way up in her voice. That broke me a little. It's the bare yes from chapter 3 again, and he hears an appetite.
 
-That's the cruelty of this book. He decides not to tell Vee, and the reason is generosity: a gift. Every yes was freely given. Yes, I see it. It's exactly the problem. I'm furious at him and I also believe he means it, which is worse.
+And the thing I keep screaming about: he fantasizes about Vee under Randi's mouth and "wanted to be in the room." Fine. But he's about to sit across a table from Vee on Friday knowing all of it. That's the cold part. The sweetness I've been falling for was always inside the plan, and he's chosen to keep her inside it.
 
-The bite is the real turn. Her teeth close on his shoulder, he says "Don't" harder than he's ever spoken to her, and then "Friday. He had not needed to think it." I think the unspoken thing is Vee: he's marked for Friday, and he doesn't want someone else's mark on him. He's started protecting Vee's night from Randi's teeth. And then Randi stays, which is a gift, and she kisses where she bit, and is gone. The cream cashmere, the loose-rolled shirt left rolled tight. Tender detail.
+The bite and the "Don't." Harsh, quick, then "Sorry." Then the shoulder "clean" the next morning. He's checking for marks before Friday. That tells me he's protecting a scene with Vee from Randi's bruises, and Randi, who stayed after for once and cried a little, got a hand on her jaw. I'm worried about her. Stayed, took the blanket, then "I want them to see you." Her love hides in practical-sounding lines.
 
-The ending, with the sheet over the burgundy and the lamp, and "Dinner Friday?" is quiet and lovely. I'd have liked Randi's head, though. I'm tired of getting her only through his misreading. The narration also leans on "he took it for appetite" a little again.
+Details: the second fabric, the oyster yardage, "the part she did not know about." It sounds like another gift or a trap. And the unsent *Dinner Friday?* is a good, quiet ending. Notably, Randi didn't mention the curb kiss, and he doesn't know. I'm holding that.
+
+Complaints: Pace's chapters still over-explain a little, like "he took it for appetite" for the sixth time. The packing opening was slow. Otherwise, sharp.
 
 GATE 16 — Remembrance
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Hot, and loaded: Randi bargaining for the threesome with her body, Pace deciding to keep Vee in the dark as a "gift," and the bite that shows he's already guarding Vee. I need Friday, and I need Randi's own head.
+WHY: Pace decides not to tell Vee, and Randi steers him toward it with her whole body. That's the jacket's irony fully turned on, with a hot scene carrying it. I want Friday dinner and I want Randi to crack.
 
 LEDGER
-+ FEAR: Pace has decided not to tell Vee about him and Randi, and Randi has engineered that, so the reveal will hurt more.
-+ SUSPICION: The "Don't" after the bite means Pace is already keeping himself unmarked and clean for Vee on Friday.
-+ GRUDGE: Randi again reaches us only through Pace's misreading ("he took it for appetite").
-+ WAITING: Friday dinner, and whether Randi's plan for Vee, with Pace in the room, gets set in motion.
-~ F11.1 SHIFTED: Randi stayed this time, so the crack in the stay eased, but they are both hiding more.
-~ F6.3 DEEPENED: "She'll remember me" was read as appetite again.
-~ S10.5 DEEPENED: Pace is saving Friday, the dress and his body for Vee.
-~ W15.5 ANSWERED: Randi's talk with Pace happened. She used the lunch to bargain for the plan, and told him about the kiss only as "girl things."
++ FEAR: Friday dinner, with Pace knowing everything and Vee knowing nothing, is a trap built with kindness, and it will blow up on all three of them.
++ SUSPICION: The oyster yardage is a second garment Vee doesn't know about, and it's probably meant for the bench or a three-way night.
++ LOVE: Randi's "She'll remember me," with Kentucky all the way up in her voice.
++ GRUDGE: Pace keeps the plan from Vee and calls it a gift, and I can no longer excuse it as decency.
+~ S1.3 CONFIRMED: He is deliberately shaping Vee's desires, and he says so to himself, so it's no longer a suspicion.
+~ F6.2 DEEPENED: He keeps Saturday from Randi too and is hoarding what Vee gives him.
+~ F15.3 DEEPENED: Randi didn't mention the curb kiss to Pace, and it's still hanging.
+~ W15.5 ANSWERED: Randi went to Pace and said only "girl things" about lunch, and he doesn't know about the kiss.
+~ F5.2 DEEPENED: Randi stays after, cries a little, and is steering him, and she's still alone with it.
+~ W11.3 ANSWERED: She came back, she stayed, and she didn't leave this time.

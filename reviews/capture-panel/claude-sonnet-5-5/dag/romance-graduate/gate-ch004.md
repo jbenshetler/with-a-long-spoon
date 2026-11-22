@@ -1,33 +1,31 @@
-*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e3a55476f74d · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed f0b16fcfb4bd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch004 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha aa8e98890450 · dated · memory grounded: facts none + raw ch001..ch003 · history ch001..ch003 · ledger no seed 28a7772cf1c8 · 2026-11-22*
 
 REACTION
 
-Finally, Vee's head. It's a quiet chapter with no heat, and I felt that. But it's quiet in an interesting way, because I'm the one reading with the plan in my pocket.
+Oh, that's a nasty little chapter, and I mean that as praise. I finally got Vee's head, and the first thing I learned is that she's doing exactly what the jacket said she would. She isn't walking into a trap. She's being walked into one, and she's thrilled about it. The cruelty is that I watched the choreography from the lawn, and now I get the aftermath from inside her. "Sitting together" was planned, the stats class was a gift, and "the right pen" was Randi doing her job. Vee says "chosen... by exactly the person she'd have chosen to be chosen by," and I felt that in my teeth.
 
-The whole chapter is dramatic irony, and it works. Vee thinks the collision was chance. She debates whether "we should sit together" was meant or just said. Meanwhile I watched Randi and Pace build that collision on a quad. Randi's "There you are" in the lecture hall is the same phrase Pace used on the bench, and it made my skin prickle. Even the little bit, "Yes, like the adjective," lands differently when I know it's a script. Vee also can't remember a word of what they talked about, only the feeling of being chosen. That's the best thing in the chapter, because it's exactly how a person gets groomed, even a nice one. "Every yes was freely given" is starting to curdle for me.
+What got me most is the transcript going blank. She can't recall a single thing Randi said. She kept the feeling and lost the words. That's how it feels to be handled by someone good at it, and it's a smart, true detail. It's also a little chilling next to Randi's glittering, practiced warmth. "You're a total fox" lands, and "See you later" lands as a scheduled fact. I liked Vee's own fluency too. She smooths Cassie's flatness into a feature before she's even decided to. She's a pleaser. Pace will like that, and so will Randi.
 
-Vee herself is good. Her mother's voice calling the girls "floozies" and then the longer look behind the word. The cardigan that she knows is a choice and lets the room not know. Smoothing over Cassie's flatness with "feature, not bug." She has interiority, which my persona demands. I'm a little afraid for her.
+Cassie is my new person. "Goodbye, Vee," flat and whole, with nothing in it, and Vee's face smoothing it away. That reads as foreshadowing, or else Cassie sees more than she says. I'm worried for her, and I'm worried about Vee's one anchor getting edged out by a brighter life. Randi turned out the full warmth on Cassie and Cassie just wouldn't be handled. I loved that.
 
-Cassie is the thing I'm holding. "Goodbye, Vee," flat and complete, with a look Vee can't name. That's either foreshadowing or a woman who simply says full words, but the book flagged it hard. I suspect Cassie sees the shape of it and Vee does not.
+The Chi Latte room is good. "Floozies" in her mother's voice, and then the longer looking under it. The cardigan buttoned over the better shirt on purpose. She's starving, just like the jacket says, and she has inner life, which was my worry. Randi's accent, though. The elongated esses, the lifted a's, "Switzerland, Paris." Wait. Randi's Kentucky until nine. Is she faking a posh accent for Vee? I like that I caught it and Vee didn't. It's dramatic irony doing real work.
 
-Randi's accent here is a gap I noticed: Switzerland, Paris, an alphabet. She's hiding Kentucky from Vee too. That's another face.
-
-The complaints are small: the Chi Latte description is catalog-heavy again, and the narration explains the "queen decided there'd be a later" bit. The chapter was also long on warmth and short on charge. I'll allow it as the bridge, but if the next one is also quiet I'll start skimming. I want Randi and Vee in the same room with something at stake.
+Complaints: zero heat, and it's the second quiet chapter in a row after the stats-class setup, though the dread is carrying it. The "Chi Latte" sign explanation is a bit cute and over-explained. I want the bench to get here, and I want Randi's side of the same hour. How much of that warmth was real? Her bare "Yes" suggests a lot.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 0
+NEXT: 8
+HEAT: 1
 ROMANCE: 1
-ALMOST-STOPPED: "Inside it was yellow and white, bright as a kitchen in a commercial" (the long café and girl-inventory passage)
-WHY: Vee finally has a head of her own, and watching her be steered without knowing it is delicious and a little sickening. No heat, so I need the bench or Randi's want to show up soon.
+ALMOST-STOPPED: none
+WHY: Vee finally has an inner life, and watching a game from inside the person it's played on is a chilling, well-done flip. The blank transcript and Cassie's "Goodbye" hook me, though I need heat soon.
 
 LEDGER
-+ LOVE: Vee's interiority, with her mother's voice and the cardigan she knows is a choice
-+ FEAR: Vee is being groomed by warmth and loses the actual words, only the feeling of being chosen, so she'll fall for a performance
-+ SUSPICION: Cassie sees what's happening, and her flat "Goodbye, Vee" is foreshadowing
-+ SUSPICION: Randi is hiding Kentucky from Vee with a fake worldly accent, another layer of face
-+ WAITING: Vee and Randi alone with something at stake, and the bench
-~ W3.4 ANSWERED: Vee's POV arrived, and the stats class and coffee happened
-~ F3.1 DEEPENED: Randi's warmth with Vee reads as a performance, and Vee is already attached
++ LOVE: Cassie's flat "Cassie" and her "Goodbye, Vee." She won't be handled, and I think she sees more than she says.
++ FEAR: Vee's one real anchor, Cassie, gets edged out as Randi's brighter world swallows her.
++ LOVE: Vee's blank transcript, the feeling kept and every word lost. It's the truest picture of being worked by someone charming.
++ SUSPICION: Randi's lifted, foreign-sounding accent is a put-on for Vee, since she was Kentucky until nine.
++ GRUDGE: Another bridge chapter with no heat, and the Chi Latte sign gag over-explains itself.
+~ W3.4 ANSWERED: Vee's point of view, and her first real scene with Randi, in stats and then at Chi Latte.
+~ F3.2 DEEPENED: Vee is now clearly the prize being collected. She's already hooked, and nobody has asked her anything.

@@ -1,39 +1,42 @@
-*capture-dag-v3-grounded · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4407c395237c · dated · memory grounded: facts ck-ch020@consensus (audited, 6 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 6c8bd573903b · 2026-11-20*
+*capture-dag-v3-grounded · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 60c78e0dd0a1 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch024 · history ch001..ch024 · ledger no seed e25729c5214a · 2026-11-22*
 
-REACTION
+REACTION — Oh my *fucking* god. My hands are shaking so hard I can barely type this.
 
-I am sitting here with my hands flat over my mouth, my heart hammering against my ribs, in absolute, breathless shock.
+The passcode.
+*The fucking passcode.*
 
-*Randi.* What did you just DO?!
+When she put her own birthday in and the dots shook and cleared, my heart was in my throat. But when she put *Vee’s* birthday in—and the phone just slid wide open? I physically gasped. I had to set my Kindle down on the bed and press my palms into my eyes. Pace changed his phone passcode to Vivienne Thorne’s birthday. A girl he has known for barely six weeks. That single, silent detail is a bomb detonating at the foundation of this entire book. Randi sat there in the dark on the arm of his recliner, wrapped in her cashmere, and absorbed that direct hit without making a sound.
 
-That password sequence made my blood run cold. She tries her own birthday—of course it doesn’t open. She tries it again, slow, because how could it not be hers? And then she types in Vee’s birthday, and the phone just quietly slides open. That single beat was like a physical slap to the face. The man she has been sleeping with since August, who builds her benches and slices her apples, has Vee’s birthday as his passcode. That is not just a preference; that is a complete, soul-deep usurpation. And Randi absorbed that blow in the dark, didn't make a sound, and immediately turned it into ammunition.
+And look at what she did with it!
 
-And the text. *The text.* Holy mother of god.
-Helen Rivers is a certified evil genius for this. Watching Randi draft that message—starting with *breasts*, realizing it sounded like Pace’s careful, courtly architecture, backspacing to *tits*, and sending *“The way that dress hugs your tits makes me wish I was a dress”*—I felt actual vertigo. It is so wildly, unbelievably reckless. It’s funny, it’s completely unhinged, it’s deeply sad, and it is an absolute catastrophe waiting to detonate.
+First of all, Pace denying her the photo in the car—*"It's hers. She sent it to me"*—was already a knife in the ribs. He was drawing a perimeter around Vee, treating her as his private sacred text, keeping her out of their shared erotic pool. So what does Randi do? She fucks him senseless, runs his fantasy of the two of them together until he’s utterly spent and knocked out cold, and then steals into the dark to take what was denied her.
 
-Because Vee read it! Vee is sitting in her bed past midnight, seeing her polite, courtly, formal mathematician suddenly talk dirty to her, absolutely eating it up (*“I’m keeping this forever”*), and Randi just quietly deletes the evidence off Pace’s phone like a ghost.
+And then—the text. *Holy. Shit.*
 
-Except you can’t delete it off *Vee’s* phone!
+Impersonating him! Dropping into his messages at midnight, trying to type like him, realizing it was too sterile, and then deliberately sending that filthy, hungry, unhinged line: *"The way that dress hugs your tits makes me wish I was a dress."* It’s Randi speaking through his mouth! It’s Randi’s exact voice, Randi’s exact raw, vulgar, starving desire for Vee, masquerading as Pace.
 
-Vee still has that text sitting right there in her messages! When Vee brings it up to Pace next time they’re alone—when she teases him about wishing he was a dress, or mentions him saying *tits*—Pace is going to have no idea what she’s talking about. Or worse, Vee is going to quote it back to Randi during one of their long lunches! The hairline fracture just became a gaping fault line, and Randi is standing right over the crack, holding Vee’s photo on her own device like a stolen jewel.
+And Vee’s immediate, breathless reaction: *"PACE. who are you and what did you do with him?? I'm keeping this forever."*
 
-And the sex beforehand—god, Randi is so transparent now it hurts. Running to him at the gate, the frantic, desperate blowjob where she literally uses Vee’s body as dirty talk (*“almost nothing between my hand and her skin”*) just to keep him hard, just to prove she’s still essential to his arousal. She is feeding him Vee because she knows Vee is the only thing keeping him lit.
+My stomach dropped straight into my shoes. Vee thinks her courtly, gentle, error-correcting-code mathematician just lost his mind with dirty lust over her photo. She’s lying in her dorm bed clutching her phone, thrilled, floating, thinking he crossed a whole new threshold of feral devotion for her—and Randi is sitting alone in his living room, crying into her hand with her real Kentucky accent bleeding through, deleting the evidence stroke by stroke.
 
-And that ending. Lying in the dark beside him while he sleeps like a dead man, his arm heavy over her, her bag holding that stolen photo in the foyer. Randi is drowning. She is hopelessly in love with Vee, terrified of losing Pace, and sabotaging the entire board just to feel something sharp. I am screaming. Give me the next chapter immediately.
+*"Oh, honey," she said into her hand, and it came out long and soft, Kentucky all the way up in it.*
+
+That broke me. It completely broke me. Randi’s polished veneer is so entirely pulverized. She isn't just a sociopathic predator manipulating a game; she is a drowning, terrified girl who is so wildly in love with both of them that she has to steal crumbs off a sleeping man’s phone just to feel close to the warmth. She sent the photo to herself, scrubbed the thread clean, and slipped back into bed beside him with her eyes wide open in the dark.
+
+This is an unexploded landmine. Vee is going to bring that text up. She’s going to tease him about wishing he was a dress, or Cassie is going to see it, or Pace is going to look completely baffled because he never sent it—and the entire house of cards is going to collapse. I feel sick, I’m sweating, and I need Chapter 26 before I lose my mind.
 
 GATE 25 — Nachtmusik
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The passcode being Vee's birthday was an absolute gut-punch, and Randi texting Vee from Pace's phone before deleting her tracks is the most delicious, reckless powder keg this book has built yet.
+WHY: The revelation that Pace's phone passcode is Vee's birthday was an absolute gut-punch, and Randi impersonating him to text Vee in the dark was the most breathtakingly tense, unhinged thing she has ever done.
 
 LEDGER
-+ FEAR: Vee is going to quote that text back to Pace, and the discrepancy is going to blow Randi's cover wide open.
-+ SUSPICION: Randi used Vee's birthday as the passcode on a desperate hunch because she already knew deep down Pace had replaced her.
-+ LOVE: Randi's sheer, tragic, unhinged recklessness in the dark—laughing into her hand with Kentucky slipping out while typing to Vee.
-~ [F5.2] DEEPENED: Randi's jealousy and grief over Pace being consumed by Vee just pushed her into blatant digital sabotage.
-~ [F1.1] SHIFTED: Randi isn't using Vee as a shield anymore; she is actively intercepting and hijacking the intimacy between Vee and Pace.
-~ [W24.3] ANSWERED: We got the reaction to the photo, but twisted into absolute madness because Randi hijacked his phone and zoomed in on Vee's breasts herself.
++ LOVE: Pace's phone passcode being Vee's birthday—a devastating, silent proof of how completely she has taken over his life.
++ FEAR: That Vee will playfully bring up the "wish I was a dress" text to Pace, exposing Randi's nighttime sabotage and blowing the entire deception wide open.
+~ S3.2 DEEPENED: Pace setting his passcode to Vee's birthday proves he has completely, unconsciously replaced Randi at the center of his life while still pretending they are running a shared threesome game.
+~ S6.1 DEEPENED: Randi texting Vee from Pace's phone proves her obsession with Vee has completely hijacked her impulse control—she isn't managing a triangle, she is starving for Vee's attention.
+~ F11.1 SHIFTED: Randi's panic over being displaced didn't cause her to retreat; it drove her to covert, desperate psychological sabotage from inside his own house.

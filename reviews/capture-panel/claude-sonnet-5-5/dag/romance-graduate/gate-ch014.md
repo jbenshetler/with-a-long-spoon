@@ -1,14 +1,18 @@
-*capture-dag-v3-grounded · gate ch014 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7e1448d8aee7 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch013 · history ch001..ch013 · ledger no seed fc272182f2ec · 2026-11-06*
+*capture-dag-v3-grounded · gate ch014 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ad4c8ac85901 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch013 · history ch001..ch013 · ledger no seed 5a455415c0ce · 2026-11-22*
 
 REACTION
 
-This is the measuring scene I've been waiting on, and it earns it. Mostly. Vee strips in daylight, and the ritual of the tape does the work: close, two touches, withdraw, pencil. The withdrawal is the cruel part, because she has to be looked at from across the room. Her body gives her away the way it always has, and I felt the dread she felt. The soaked satin, the thumbprint that spreads, and then the knee-walk around her toward the worst of it with her eyes screwed shut. That's a real fear, and the book doesn't flinch from it.
+Okay. That's the scene I've been circling for thirteen chapters, and the book finally made me wait inside it. I'm a little wrecked.
 
-Then the payoff. He's turned his face up, waiting, smiling, and he never looked down. That's the best beat in the book for me, and it's the one I'll text my friend about. "She had not, once, been found wanting." Her chin comes up, she rises onto her toes, and she starts spending power she didn't know she had. The "Oops. Sorry." made me grin, and so did his blush. The pin and the kiss on her ribs, and "Keep still" a beat too late, are as charged as anything and nobody's undressed past the bra. "Does this measurement change?" is the funniest, most Vee line she's had.
+The measuring is the best-built heat since the bench. It's the withdrawal rhythm: two touches, step back, pencil. The stepping away is the erotic part, because it leaves her with nothing to do but be looked at. It's the book's thesis in one device. The tape across her nipples and "Does this measurement change?" was a genuine surprise. She makes him laugh, and he says "I've never thought about it" and then actually does, and that's the most disarming man I've read in a year. "Pre-aroused every time I wore it" made me grin like an idiot. I fell for them both there.
 
-Now my suspicion hums under it. He built the warm house, the riser, the measuring, and he's very good. But he left the bedroom door shut, he stopped the kiss, and he stayed on his knees choosing the dress over the easy yes. He's holding back for Randi's sake, or he's past the game. There's no Randi, and I keep noticing. Also, "walked right past Randi, Randi!" is Vee's thought, and I winced hard at it.
+Then the soaked satin. Oh, this is the chapter. The slow dread of the thumbprint spreading while he cuts silk, and her bargaining with her own body, is precisely written shame. It's real interiority and it's hot at the same time, which is what I came for. Her eyes screwed shut while he knee-walks around her. I was clenched. And then she opens them and he's looking *up*, at her face, never down, delighted. That's the turn: the apologetic stoop undoing, rising onto her toes, his "hmm" at her heel. I teared up a little, and I'm not embarrassed. "Had not, once, been found wanting" is the whole book's promise.
 
-Complaints: the narration explains too much again ("the traitorous question a woman asks," "she did not say what she was thinking" three times). The dress-form/muse passage drags and a few paragraphs restate the same shame. I didn't want the interior mother's-voice again, but it earns its place here. It's hot, tender, and unfinished.
+And that's the worry. This is the best thing that's ever happened to her, and it's his design, and I know what the door at the end of the hall holds. He's good. He's *so* good at this that I can't tell where tenderness ends and technique begins, and Vee can't either. Also a nasty little note: she thinks he "walked right past Randi, Randi!" That's the plan, curdled in her head into a compliment. Poor Randi. Randi is entirely absent again, and this is exactly the scene she imagined, and she isn't in it.
+
+The line "Keep still" costing him something, the kiss on the pin sting. That's lovely.
+
+Gripes: it explains itself a lot ("a thing happening to her she had not asked for"), the heat-and-shame narration repeats itself, and the swimsuit backstory paragraph is a detour. The ending summarizes the feeling I'd just felt. Small stuff. He also never touches the bench or the bedroom, and I'm impatient.
 
 GATE 14 — A Round
 DECISION: CONTINUE
@@ -16,15 +20,15 @@ CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Muse came to her, ridiculous, embarrassing, and she set it down quickly." (the dress-form musing sits too long)
-WHY: Clothed-adjacent, slow, and the hottest sustained thing since the bench, with a real emotional turn when he looks up instead of down. I want what happens when the pins come out.
+ALMOST-STOPPED: "She stood very still and let him work." The closing paragraphs re-narrating what the scene had already made me feel.
+WHY: Being measured, soaked through, and found delightful instead of disgusting is the book's engine at full power, and it's both hot and emotionally exact. I'm afraid of how good he is, and I want the next beat badly.
 
 LEDGER
-+ LOVE: Pace on his knees with his face turned up, never looking down, while she dies of shame, and "not once found wanting."
-+ LOVE: "Does this measurement change?" and her grin when she stumps him.
-+ WAITING: What happens when the dress is done and the pins come out, and whether the bedroom door ever opens.
-+ SUSPICION: Pace stopping short on purpose means he's holding the bedroom (and the bench) back from Vee, for Randi or for himself.
-+ GRUDGE: Vee thinks "he walked right past Randi" and I know the truth, and it hurts to watch her be pleased by it.
-~ F7.4 DEEPENED: Her body shame nearly broke the afternoon, and his gaze undid it, so she's more tied to him than ever.
-~ F8.2 DEEPENED: His sincerity here is at its most convincing, which makes the break worse.
-~ S10.5 DEEPENED: He chooses the dress over the easy yes at real cost, so he's past the game.
++ LOVE: Pace looking up at her face and never down while she braced for the joke; "Does this measurement change?" and his honest "I've never thought about it."
++ FEAR: He's so skilled at making her feel safe that the seduction and the care are indistinguishable, and the bedroom door is still shut.
++ SUSPICION: Vee thinks Pace "walked right past Randi" for her. She'll hurt when she learns she was picked.
++ WAITING: Whether this ends in his bed or on the bench, and what Randi does when she learns about the dress.
+~ W13.1 ANSWERED: The measuring happened, in good light, down to her underwear and past it, and it was devastating.
+~ F6.2 DEEPENED: He now holds her shame and her body's honest response too, and he handled it tenderly. That's more to carry.
+~ S13.2 SHIFTED: The bedroom door stayed shut, and the hothouse warmth turned out to be for her comfort.
+~ F12.1 DEEPENED: The tenderness is working so well that the bench reveal will land like a betrayal.

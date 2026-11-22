@@ -1,46 +1,52 @@
-*capture-dag-v3-grounded · gate ch020 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch018 · history ch001..ch018 · ledger no seed f02961d11c1c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch020 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed b4d1f839e596 · 2026-11-22*
 
 REACTION
 
-OH MY GOD. This chapter had me grinning so hard my cheeks hurt, and at the exact same time I wanted to scream at my Kindle.
+STOP. Stop right now!
 
-Let's start with the dress and the sex scene because *holy hell*. Do you know how rare it is to read an explicit scene that is simultaneously scorching hot, emotionally transformative, AND genuinely, humanly funny without losing an ounce of its heat?!
+*"There's a lot of you covered in a lot of me."*
+*He twitched in her hands.*
+*She looked up at him, delighted. "You just—" She said it again, slower. "Covered in a lot of me." He did it again, and she laughed until her leg started sliding off his hip and he had to catch it, which helped nothing.*
 
-First, Vee seeing the burgundy silk dress hanging in the sun porch window with the newly hung full-length mirror ("the screw heads still bright"!) and crying because he took all that trouble and then took the further trouble to hide the seams so it looks effortless. And then putting it on and seeing the thigh-high slit cut all the way to the jut of her hip—which means when her underwear shows in the slit, she doesn't make her steps small; she *takes her panties off*, leaves them on the chair, and strides out to the den letting the slit swing open on her bare hip with every step! Look at how far she's come from the girl in the pilled cardigan at Chi Latte!
+I am grinning so hard my cheeks actually hurt! Have you ever read a sex scene in a romance novel that was simultaneously a 3/3 scorching peak AND genuinely, helplessly hilarious?! Look at the mechanics of that whole sequence: she strides out into the den in this bias-cut burgundy silk masterpiece with no underwear on, hooks her bare leg up around his hip, opens his belt, and impales herself on him standing up on one tiptoe—and then the two of them realize they are about to ruin a handmade silk gown! So they have to do this absurd, desperate four-handed relay where she's holding his slick cock in both hands with her elbows fending off the skirt (*"Ow. Don't point down."* *"Sorry."*) while he tries to unzip and lift the dress off her, and in the middle of it she discovers that saying *"Covered in a lot of me"* makes his cock twitch in her hands, so she says it a second time on purpose just to feel him jump!
 
-And when she hooks her bare leg around him, opens his belt, rocks him against her seam, and takes him right there standing up in the custom silk gown—and then realizes mid-stroke that *they are going to ruin the silk dress*!
-The comedy and eroticism of that whole sequence is Hall of Fame level:
-- Having to pull him out and hold him in both hands—slick with her—while using her elbows to fend the burgundy silk away from his dick!
-- *"Ow. Don't point down."* / *"It's not easy. There's a lot of you covered in a lot of me."*
-- Him twitching in her hands when she says *"Covered in a lot of me,"* and her repeating it slower just to feel him twitch again and laughing so hard her leg slides off his hip while the dress is stuck at half-mast!
-- Wiping her slick hands in two long stripes down his flanks while his hands are trapped holding the silk above her waist, asking *"Are they clean enough?"* and him saying *"Closer,"* inspecting her fingers like a hem, and sucking two of her fingers clean in his mouth while holding her eyes! I nearly passed out.
-- And then on the bed: putting both her bare feet with the frosted-plum toenails flat on his chest to hold him back so he has to stop and look all the way down the open length of her, and him slowly moving one ankle out to the side to open her wider! Remember what Randi said at brunch in *Fed*?! *"You paint the toes for a man who's going to have your feet bare in his hands."* And here she is putting those frosted-plum toes right on his chest!
+And then when she wipes her slick hands in two long stripes down his bare flanks because his arms are full of silk, asks *"Are they clean enough?"*, and he says *"Let me see... Closer,"* studies her fingers like a hem, and sucks two of them into his mouth while holding her eyes?! My knees went out right along with hers!
 
-AND YET. Can we talk about the absolute trainwreck of dramatic irony sitting right underneath this joyous afternoon?!
-1. Look at the date: *Thursday, October 15*.
-Wait a second! What else is Thursday?! Thursday is Randi's chapter dinner night—the night Randi came to Pace's house in Chapter 1 and Chapter 6! And four days ago, on Sunday night (*Portion*), Randi specifically raged at Pace: *"You've got her Friday to Sunday. You've got her all weekend, every weekend, and you're in no hurry."* And now Pace has invited Vee over on a *Thursday afternoon*, stayed up half the night finishing her dress, and is currently sound asleep in bed with his arm around Vee while the sun goes down on Thursday evening! Is Randi going to show up tonight, or did Thursday stop being Randi's night after Sunday's freeze-out?!
-2. Look at the ending in bed:
-In Chapter 18 (*Portion*), Randi rolled herself up in the cashmere blanket with her back to Pace, faking sleep while *he* lay awake in the dark baffled and hurt. Here in Chapter 19, *Pace* goes down "hard and fast" into real sleep, and when Vee settles back against him, his arm comes down around her in his sleep without him even waking up! While Vee lies there thinking she's *"the only one awake in the warm house... getting away with something."*
-3. WAIT A SECOND. Look at that line when Vee tries on the dress in front of the mirror:
-*"The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned... the shoes this called for weren't anything she owned."*
-WHO OWNS EXPENSIVE HIGH HEELS AND HAS BEEN LOOKING FOR HER OPENING SINCE SUNDAY NIGHT?!
-Wait—or did Pace cut the hem for heels he's going to get her, OR is Vee going to tell Randi about the dress needing tall heels she can't afford, giving Randi the exact excuse to step in and dress/loan/prepare her?!
+Wait—let's talk about the OYSTER YARDAGE!
+In Chapter 16 at 4:30 in the morning before he left for Chicago, we saw the folded oyster silk at the end of the cutting table—*"the part she did not know about, waiting on him."* I was guessing a slip or an undergarment, and instead:
+*"Under the burgundy there was a second softness, a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all. He'd lined it, there and nowhere else: a soft wall set into the only parts of her the dress had decided not to give away."*
+He lined the bodice and the hips in oyster silk so she could wear the dress completely bare underneath without a bra or panties showing through the silk, while leaving the rest of the bias-cut burgundy unlined so it flows like water! And look at what happens when she steps in front of the newly hung full-length mirror (screw heads still bright because he hung a mirror in the sun porch just for her!) and takes a step:
+The slit parts all the way up to the jut of her hip, she sees the pale edge of her underwear cutting the line, and instead of taking smaller steps to hide herself, she hooks her thumbs into her waistband, takes her underwear off, and strides out to him bare under the silk!
+Look at the chapter title: *Peekaboo*. Every step she takes toward him in the den, the slit swings open from calf to hip—giving her whole bare leg and hip and taking it back and giving it again!
 
-I am so happy for Vee that my chest hurts, and so terrified for her at the exact same time because she is lying in that bed thinking she's "getting away with something" when she doesn't even know there's a cold bowl of stew in the fridge or another woman's white-gold bracelet in the picture!
+And then that beat on the bed!
+Remember in Chapter 18 when Randi told Vee at Sunday brunch: *"You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday. For him"*?! On Friday night in Chapter 17, her frosted-plum toenails were hidden inside her ballet flats and the room was dim, so we never saw him notice them. Here, in the bright Thursday afternoon light, when he puts her down on the bed, she puts both bare feet flat on his chest to hold him off at the length of her legs—*"The plum on her toes against all that skin"*—and lets him look all the way down the open length of her, and he takes one ankle and moves it slowly out to the side to look at her completely open!
+Wait—also remember Chapter 1 on the bench: *"He liked her feet. He had not yet told her that."* With Randi, he noticed her small pale feet when he took her heels off on the bench, and never said a word. With Vee, she plants her frosted-plum toes right on his chest, makes him stop and look, and when he eases back into her an inch at a time and holds still just to make her feel what the restraint is costing him, she says *"You're enjoying this"* and he says *"Very much."*
 
-GATE 19 — Peekaboo
+AND CONTRAST THIS WITH CHAPTER 19!
+I cannot get over the whiplash between Chapter 19 (*Portion*, Sunday night with Randi) and Chapter 20 (*Peekaboo*, Thursday afternoon with Vee):
+— In Chapter 19, Randi said *"You've got her Friday to Sunday. You've got her all weekend, every weekend."* And now it's *Thursday afternoon*! He isn't even keeping Vee in the Friday-to-Sunday box anymore—she's in his house and in his bed on a Thursday afternoon! (And wait: Thursday night is sorority chapter night—is Randi going to try to come over after chapter tonight like she did in Chapter 1, or is Vee gone before evening?!)
+— In Chapter 19, Randi rode him in silence with her eyes shut, her hair over her face, and immediately rolled away into the cashmere blanket with her back turned while he lay awake behind her, afraid to touch her hair.
+— Here in Chapter 20, Pace and Vee crash into the hallway wall laughing with him inside her, finish with his eyes wide open on hers, and afterward *Pace* falls dead asleep flat on his back because he was up half the night finishing her dress, and in his sleep he makes a sound and pulls Vee into his arm without even waking up!
+
+Oh, and did you catch the shoe detail when she was standing on the pedestal in front of the mirror?!
+*"The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned. She thought of the pumps at the back of her closet, the sensible pair that went with everything, the leather gone soft and the heels worn low, nowhere near tall enough for this and wrong even if they had been... because the shoes this called for weren't anything she owned, and that woman could wait."*
+Wait a second! Why did Pace cut the hem of a custom-fitted gown long enough to require high heels she doesn't own?! Because he noticed her rising up onto her tiptoes during the fitting in Chapter 14 (*"rising, not on purpose, up onto her toes, half an inch, an inch... He cut his eyes sideways at her heel"*), OR is someone—Pace? Randi?!—going to put her in a pair of killer heels before Tuesday's induction?!
+
+And look at the very last lines of this chapter:
+*"In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look. It just felt like what she was for. She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, the dress going dark in its window at the far end of the house, getting away with something."*
+She is so happy, so whole, so completely transformed in her own skin—and she has no idea what "getting away with something" actually means in this house.
+
+GATE 20 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter gave me everything I read romance for—the emotional payoff of the burgundy dress, Vee stripping off her panties so the slit runs clean to her hip, the hilarious and scorching logistics of trying not to ruin the silk ("There's a lot of you covered in a lot of me") followed by him sucking her fingers clean, and that tender, ominous ending of Pace sleeping with his arm around her on a Thursday.
+WHY: This chapter had me grinning, swooning, and fanning myself all at once—from the reveal of the oyster-lined burgundy gown and Vee ditching her underwear for the slit, to the hilarious and scorching four-handed dress rescue ("*Covered in a lot of me*"), to him sucking her slick fingers clean and pulling her into his arm in his sleep.
 
 LEDGER
-~ W15.5 ANSWERED: We finally got Vee's second fitting with the finished burgundy dress—complete with a newly hung mirror, a thigh-high slit she takes her panties off for, and a scorching, joyous afternoon in bed.
-+ LOVE: The sheer messy, erotic joy of Vee holding Pace in both hands with her elbows fending off the silk skirt, making him twitch by repeating "Covered in a lot of me," wiping her slick hands down his flanks, and him sucking her fingers clean before she touches the dress.
-+ LOVE: Vee putting both bare feet (with her frosted-plum toenails!) flat on Pace's chest on the bed to hold him back and make him look down the open length of her, and him slowly moving one ankle out to the side.
-+ LOVE: The mirror-image reversal of Chapter 18's bed scene—where Randi turned her back and faked sleep while Pace lay awake—now turning into Pace sleeping deeply on a Thursday afternoon and pulling Vee into his arms in his sleep.
-+ SUSPICION: The dress hem pooling at Vee's feet because "the shoes this called for weren't anything she owned" is going to be the exact opening that brings Randi (or Randi's closet/money) straight into the induction-night preparations.
-+ FEAR: Pace has now crossed into Randi's midweek territory by having Vee over on a Thursday afternoon—and falling asleep wrapped around her until after dark—right after Randi accused him of keeping Friday-to-Sunday for himself.
++ LOVE: The hilarious, scorching four-handed dress rescue—Vee holding Pace's slick cock in both hands to protect the silk, discovering that saying "Covered in a lot of me" makes him twitch in her hands, and Pace sucking her fingers clean before they hang the dress back up.
++ WAITING: Where the high heels that finish the line of the burgundy gown are going to come from—since Pace cut the hem for a height Vee doesn't own.
+~ W16.3 ANSWERED: The secret "oyster yardage" was an oyster-pale silk lining built into just the bodice and hips of the burgundy gown—"a soft wall set into the only parts of her the dress had decided not to give away" so she can wear it completely bare underneath.

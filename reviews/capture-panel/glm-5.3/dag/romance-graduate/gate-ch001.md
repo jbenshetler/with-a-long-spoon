@@ -1,29 +1,31 @@
-*capture-dag-v3-grounded · gate ch001 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b986a0613f03 · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch001 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8642554b13cf · dated · memory grounded: facts none · history none · ledger no seed f9519cff5c66 · 2026-11-22*
 
-REACTION — Okay. I stayed up with this one. The blurb promised "psychologically exact" and I've been burned by that promise before, but this actually delivered, and I'm a little rattled by how much.
+REACTION
 
-The apple. The thin slices, cut sides up because she eats them faster that way, and him watching the "thing behind her face" do its food math — that's the moment I was in. That's not decoration, that's a whole character economy in a bowl. And then her feeding him bites of it while grinding on his lap and pretending she isn't — I've read a hundred lap scenes and none of them had *subtext you could eat*, pardon the phrase.
+Okay. I didn't expect this. I picked this up because the blurb promised "psychologically exact" and I've been burned by that promise before — usually it means the author went to an MFA program and closes the door on the sex. This is the opposite of that. This is the first time in a long time a book has been explicit AND actually about something.
 
-The bench scene itself is the most patient extended seduction I've read in ages. He asks before he takes — "Tell me your word," "Tell me again if you forget. I won't be upset" — and it's not a disclaimer the author slapped in, it's characterization, it's *him*. The edging structure where the actual climax isn't the orgasm, it's her running out of performance? "It was still her *please*... the voice she said please in when she asked a waiter for a glass of water." I felt that line physically. When the real please finally came I was holding my breath like I was in the room.
+The whole chapter is in Pace's head, which surprised me — I expected Randi's POV since she's the one being opened up. But putting us in his POV while she's the one being undone is actually the smart move: we see her the way he sees her, and the last section, when we finally get Randi at the mirror — that's where the book shows its hand. That bathroom scene is the best thing I've read in this genre in years. She washes the mascara off, fixes the smile, and decides the real her is going back behind the face. "He could have the face. The face was very good." I got chills. And the cap-under-the-thumbnail detail — she reaches for pain to ground herself and he just takes the bottle and pulls her closer — that's a whole novel of characterization in one gesture.
 
-But the last third is what has me sitting here at 1 a.m. typing this. The bathroom. Her rebuilding the face, piece by piece — "the face was lying" — while he sits outside the locked door not knocking because of *Daphne*, a name dropped like a grenade that we apparently aren't getting the story of yet. He thinks the night was a triumph. He's sitting there warmly deciding between asking her to stay and asking about dinner, still hard and nobly setting it aside, and she is in the bathroom deciding — "quiet as a deadbolt going over" — that the real her is never coming out again. He thinks he found her. She's already re-burying her. That's not a romance chapter, that's a knife.
+The heat is real. The bench scene doesn't read like choreography; the edging sequence with him waiting for the *right* please — the one that isn't performed — is the most genuinely erotic thing I've read in ages, and it's hot BECAUSE it's about her losing the script. He can tell her waiter-voice please from her real one. That's the whole book in one beat.
 
-And the last image — the bench becoming a table again, "full of what it was... waiting for the next time" — I actually shivered. The furniture is a metaphor that never once announces itself as a metaphor. Nothing in this book explains itself to me and I could weep with gratitude.
+What's keeping me honest: Pace is walking a line. "You said it was a table. I didn't correct you" is a little smug, and his satisfaction at "how much further she had gone than he thought she would" made me narrow my eyes. The blurb says he and Randi planned this — that Vee was chosen — and this chapter is giving me Randi with Pace, not Vee. Wait. The blurb says Vee is the third one. So this chapter is the menage before Vee enters? That's an interesting structural choice — I now know Randi's face-armor from the inside, so when she starts steering Vee toward Pace I'll know exactly what she's doing. The "There you are, Randi" line and the deadbolt habit suddenly read differently. She's the dangerous one. I'm a little in love with her already.
 
-I'm a little worried about the power dynamic done this *well* — Pace is almost too perceptive, and I don't yet know if the book knows that "he watched the thing behind her face" is also a little frightening. But the blurb says Randi and Pace planned this together, which means the woman currently dissolving in the bathroom is one of the architects... wait. Re-reading the jacket: Randi is the one on the bench. Randi and Pace are the lovers who planned Vee's year. So this is the *villain-adjacent couple's* origin, and I just spent a whole chapter falling for her. Oh, this author is good. I'm furious and I'm in.
+Also, the Daphne backstory — the door he didn't respect — that's a planted seed I'll be watching.
+
+This is the first book in a while where I'm not skimming anything.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 8
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Explicit and psychologically real at the same time, which is exactly the thing I can never find — and it ended on a lie being smoothed back into place instead of a resolution, so I have no choice but to read on.
+ROMANCE: 2
+ALMOST-STOPPED: "He thought that this had been a remarkably good evening" — his self-satisfaction got briefly too pleased with itself, but the chapter earned it back in the bathroom.
+WHY: Explicit and psychologically real at the same time — exactly what I've been starving for. Randi's mirror scene is the hook; the blurb's promise that this couple is going to hunt someone makes everything charged with dread. I want chapter two tonight.
 
 LEDGER
-+ FEAR: That Pace's "seeing" is another form of taking, and the book might not know it
-+ LOVE: Randi — the bathroom scene broke me for her; also the apple, and the bench-as-table
-+ GRUDGE: Daphne, whoever she is — no, actually against Pace's certainty; he thinks tonight was a triumph and it was a wound
-+ SUSPICION: The jacket says Randi and Pace plan Vee — so this tender origin is the machinery of a future hunt, and I'm being made to love the hunters
-+ WAITING: Who is Daphne, and what the lock cost; when Randi's mask cracks again — and who Vee is, since the blurb's real subject hasn't appeared yet
++ FEAR: that Pace's "finding" of Randi is really a capture — that the tenderness he's so calm about is going to break her, not free her
++ LOVE: Randi — the mirror scene, the cap under the thumbnail, the face she built to be safe
++ GRUDGE: Pace's smugness — "I didn't correct you," and the quiet pride he takes in how far she went
++ SUSPICION: this chapter is a prequel to the hunt — the blurb says Randi and Pace started this in bed, and I don't yet know whether tonight's scene was love or reconnaissance
++ WAITING: Vee — the person this is supposedly about, who hasn't appeared yet; and the door Pace learned not to open (Daphne)

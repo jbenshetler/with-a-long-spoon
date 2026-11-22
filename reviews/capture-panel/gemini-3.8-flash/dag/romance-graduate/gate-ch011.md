@@ -1,39 +1,35 @@
-*capture-dag-v3-grounded · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch010 · ledger no seed 317e21806e1f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha f069f89a5632 · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) · history ch001..ch010 · ledger no seed 6c301660072d · 2026-11-22*
 
-REACTION
+REACTION — Oh, Jesus. My heart is beating so fast. The sheer, suffocating tragedy of this chapter.
 
-I feel like I just watched someone drive a luxury sports car straight into a concrete wall at ninety miles an hour while smiling for a selfie.
+First of all, the sex was feral, feverish, and deeply distressing. It wasn't the leisurely, calculated voyeurism of Chapter 6. This was Randi walking into that house like a woman starving, panicking, drowning. She didn’t even let him answer her first question; she took his mouth, shoved him backward into the bedroom, tore the clothes off both of them, and rode him like she was trying to drive out an exorcism. The sheer physical desperation of it—her nails digging into his chest, her hips grinding down, demanding he feed her the sensory details of Vee like she was taking hits of pure poison.
 
-Holy shit. That was so dark, so feverish, and so breathtakingly sad.
+And Pace, god love him, is *so devastatingly blind*. He thinks he’s playing along with their sexy little game. He thinks he’s being erotic and generous by telling her about the gardenia, the musk, the pool chlorine in Vee's hair. But when he drops: *"Her stomach is soft."*
 
-Randi arriving like a hurricane—barely through the kitchen before she’s tearing clothes off him, pushing him down, making him watch her take him inch by agonizing inch... that wasn’t seduction. That was a panic attack disguised as pure filth. She is literally using Pace's cock and the ghost of Vee like a tourniquet to stop herself from bleeding out.
+FUCKING CHILLS.
 
-And the way she demands the details: *“Tell me.”* She is starving for it and terrified of it at the same exact time. When he told her about the gardenia and the chlorine, you could feel the erotic charge in the room spike to a fever pitch—Randi rolling her hips, getting off on the sheer sensory reality of this woman they’re circling. But then:
+He didn't tell her how he knew. He kept the truck private, exactly like he kept the froyo confession private in Chapter 6. But Randi isn't stupid. Randi knows Pace. The second he said "soft"—and the second she felt that deliberate, guarded silence underneath it—she knew. She knew he had touched Vee’s bare skin. She clamped down around him so hard he said her name, her belly going "tight as a board," and she didn't just ride him—she punished him with her body.
 
-*“Her stomach is soft.”*
-And: *“He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it.”*
+And what she tore out at his ear: *"I want us."*
+Not *I want her*. Not *I want this*. *I want US.* It sounded like a sob dressed up as a climax. It was a desperate, territorial battle cry from a girl who feels the floor giving way beneath her feet.
 
-JESUS CHRIST, PACE. He did it again! He kept the truck for himself! And Randi’s body knew it! Her entire core seized like a steel trap. Rivers writes this so brilliantly—Pace, this supposedly brilliant, observant man, completely misinterprets her violent clenching as "the want—too big for her, come down on him with nowhere else to go." You absolute blind, arrogant idiot! That wasn't just lust! That was a woman realizing she is losing him, losing control of the game, and drowning in her own self-inflicted nightmare.
+And then—the aftermath. The knife in the ribs.
 
-And that cry torn out of her: *“I want us.”* God. That went right through my ribs. Did she mean her and Pace? Or did she mean the three of them? It felt like a desperate, bloody plea to not be left behind in the cold.
+She skipped the afterglow. She didn't lie on his chest. She didn't let him feed her. She grabbed her clothes, threw the sorority armor back on, gave him the bright, cheerful, lethal "No thanks / I'm good / See you," and walked right out into the cold night. She has *never* left after sex. Not once.
 
-And then the ending. The sheer brutality of the post-nut reality. Randi skipping the aftercare, skipping the resting on his chest, throwing her clothes on like her skin was on fire. The "bright" voice from inside the camisole: *"No thanks." "I'm good."* The sorority armor snapping right back into place before her sweat had even dried. Leaving him standing bare-chested in the doorway, staring down an empty gravel road, completely bewildered that she didn't stay the night for the first time ever.
-
-Pace is finally feeling the first hairline crack in his neat, controlled little universe, and he doesn't even have the emotional vocabulary to understand what just hit him. I am reeling.
+And watching Pace stand in that doorway in just his jeans, feeling that sudden, unbraced ache in his chest—realizing she used him, got what she needed, and left him alone in an empty house—was heartbreaking. He is a genius with numbers, but emotionally, he is standing on the tracks staring at the headlight thinking it’s a lovely lantern. Randi is unraveling at the seams. She built this whole threesome fantasy to survive him, and now Vee has become a wedge that is driving them apart. I feel like I'm watching a car crash in slow motion and I can't look away.
 
 GATE 11 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer psychological violence of Randi riding him like an adrenaline-fueled panic attack—coupled with Pace keeping the truck secret and getting left in the cold—was absolute perfection.
+WHY: The desperation and hidden heartbreak vibrating under that raw, frantic sex scene was breathtaking, and the psychological fallout of Randi walking out on Pace left me completely gutted.
 
 LEDGER
-+ FEAR: Randi is going to completely self-destruct or pull the plug violently now that she realizes Pace is harboring private, sacred memories of Vee.
-+ LOVE: Pace finally getting left in the cold—watching his smug, benevolent control crack when Randi dresses and leaves immediately after coming.
-~ S1.3 DEEPENED: Randi's game is officially collapsing on her; she used Vee as foreplay to mask her sheer panic, and the "I want us" felt like a desperate plea for survival.
-~ L1.2 SHIFTED: Pace's utter blindness—he's a master at reading physical cues but utterly clueless that Randi's tension is agony and heartbreak, not just ravenous lust.
-~ F5.2 DEEPENED: Randi is actively choking on her jealousy, driven to frantic, almost violent sex just to drown out the fact that Pace knows what Vee's belly feels like.
-~ W10.3 ANSWERED: Randi didn't wait to hear Vee's report—she went straight to Pace to extract the sensory details with her own body, and ended up fleeing the house in horror.
++ FEAR: Randi's panic over losing Pace's singular devotion to Vee is going to make her lash out and blow this entire triangle apart before it even starts.
++ LOVE: Pace standing alone in the doorway, finally feeling the cold reality that his emotional mastery over the situation is completely illusory.
+~ [S6.1] DEEPENED: Randi isn't just realizing Vee is an emotional rival; she is fully spiraling in territorial terror, desperately fucking Pace to reclaim him while choking on the reality of his intimacy with Vee.
+~ [F6.2] DEEPENED: Pace completely misread Randi's rigid, manic ride as "too much want" rather than the agonizing panic of a girl realizing he kept another piece of Vee private from her.

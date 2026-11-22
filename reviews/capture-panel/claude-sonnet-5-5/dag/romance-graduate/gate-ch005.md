@@ -1,30 +1,33 @@
-*capture-dag-v3-grounded · gate ch005 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1cf7fe210808 · dated · memory grounded: facts none + raw ch001..ch004 · history ch001..ch004 · ledger no seed c79c0ebbe73a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch005 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2e6bcf769c7d · dated · memory grounded: facts none + raw ch001..ch004 · history ch001..ch004 · ledger no seed 1d99fbabd31a · 2026-11-22*
 
 REACTION
 
-Oh, this is the chapter where I put the book down and stared at the wall for a second. I watched Pace walk into that coffee shop having read the whole setup, and Vee has no idea. He came over as a stranger, "Pardon me," like he'd never heard of her. That's the con, running clean in front of me. And it's brilliant that it's the math. Euler's formula, two things at right angles turning into one plain thing, is practically the book's thesis about the three of them. I don't think that was an accident, and it didn't feel like the book was explaining it to me. It just sat there.
+Oh, that's good. That's the same coffee-shop afternoon from the other side of the table, and now I know what I was watching. Pace "happens" upon Vee, and it's a setup. Randi's hand keeps going to her cup, up and down with no sip, and Vee's brain helpfully supplies "she's bored." I screamed. The whole chapter is Vee being sincerely, happily mistaken. Cassie's "that cute guy in line is looking at you" is the one line I'd bet was planted. I'm not sure Cassie is in on it, but she has seen everything. "The way you'd look at somebody's great-aunt" — she named it without a flicker. I love her more every time she opens her mouth.
 
-The thing I loved most is Randi. She's right there at the table, hands around her coffee cup, lifting it twice with no sip. Giving him her name as one bare word, no adjective bit. "He looked at her the way you'd look at somebody's great-aunt." She's stage-managing the man she sleeps with picking up the girl she wants, and then telling Vee "He wants to see you naked" and "You should go." Oof. Randi's whole body is leaking, and Vee, who is smart and notices clothes, files it as "she's bored." Cassie is the one actually seeing, and I'm now sure about her.
+Pace is better than I expected, and that's the danger. The Euler's trick is lovely: he asks what her professor said, he hands back the pencil, he gives her the thing she already had. It's a seduction that is also a real kindness, and Vee half-notices it ("what he had done") and then the thought doesn't finish. That's the jacket's "every yes was freely given" sitting right there. And Randi, watching him charm the girl she wants, asks about Bessel's correction just to be spoken to. That small, helpless bid cut me. He answered her well and Vee noted he answered her "the way you'd answer anybody."
 
-Pace's courtliness works on me too, which is the uncomfortable part. "May I call you?" The pencil handed back at the exact line she can finish herself. Reading it as a problem he's meeting for the first time. He is very good at this, and Vee is being steered by a man who asks permission. "Every yes was freely given" is turning to ice. Also, the frozen yogurt ending is sweet, and "Your tart's holding up" made me smile and then feel sick.
+The real kick: he's *playing* a stranger, asking "May I," giving the wrong coffee-leaving bit, and Randi even sells it after: "A man doesn't forget his coffee." She's engineering Vee's yes. And Vee does the Randi bit with her name. She's borrowing Randi's moves while Randi's being replaced in the room. Delicious.
 
-Zero heat though, and this is my third chapter in four without it. I'm patient because the machinery is so good, but I want that bench. The romance is warm and I felt it, but the narration still occasionally spells things out ("the question"). I'll allow it.
+Complaints: zero heat except forearms and the lashes, which are a real simmer. A third low-heat chapter in a row, and I felt it. The prose also over-explains ("the question had room in it"), and the "she didn't know she was allowed" line could have stayed unsaid. The froyo scene is sweet, though it's close to a placard of "nicest anyone has been to me." Still, the tart holding up is a perfect final image.
+
+I want the first real touch. I want Pace's actual hands on her, and I want to know what Randi does with her face tonight.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Vee registered the small busy-ness of Randi's hand only at the edges of her attention" (the book nudging me about Randi's tell a bit hard)
-WHY: Watching the con run in real time, with Randi dying quietly across the table, is delicious and awful. I'm hooked, but I want heat soon.
+ALMOST-STOPPED: "She hadn't known she was allowed." The book narrating its own tenderness at me, and with no heat, the patience was thinning.
+WHY: Watching the game run on Vee, with Randi's untouched coffee as the tell, is dramatic irony working hard, and Cassie keeps seeing clearly. But it's a third low-heat chapter, so the next one needs to deliver touch.
 
 LEDGER
-+ FEAR: Pace's courtly "may I" makes Vee's yes feel freely given while it was engineered, and she'll be wrecked when she finds out
-+ LOVE: Randi's untouched coffee and the one bare-word "Randi" while Pace works the room
-+ LOVE: Euler's formula as the quiet thesis, two things at right angles becoming one plain thing
-+ SUSPICION: Pace is falling for Vee for real, beyond the game
-+ WAITING: The bench, with Vee on it, and the heat finally returning
-~ S4.3 DEEPENED: Cassie plainly sees Pace's look, naming the great-aunt glance, so she sees the shape
-~ F3.1 DEEPENED: Randi is visibly hurting while she hands Vee to Pace, "You should go"
-~ W4.5 ANSWERED: Randi and Vee had a scene, but the stakes belonged to Pace; the bench still waits
++ LOVE: Randi's lifted cup that never sips, and her Bessel's correction question, asking for one scrap of Pace's attention.
++ FEAR: Randi is being edged out of her own game. Pace's attention is landing on Vee, and she's hurting where nobody can see it.
++ SUSPICION: Cassie suspects the "chance" meeting. She keeps naming exactly what she sees.
++ WAITING: The first real touch between Pace and Vee, and what Randi does with her face afterward.
++ GRUDGE: Third quiet chapter in a row, and the narration keeps announcing its own tenderness ("she hadn't known she was allowed").
+~ F4.2 DEEPENED: Cassie is still beside Vee, but Vee's new bright life is already pulling at her. She is now watching it happen.
+~ F3.2 DEEPENED: Pace is warm and exact with Vee, and the engineered meeting is already working on her without her knowing.
+~ S4.4 FADED: The accent is a minor thread now, and I've let it go for the bigger game.
+~ G4.5 SHIFTED: The no-heat stretch is now a third chapter, though the dread is paying for it.
