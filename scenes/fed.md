@@ -52,7 +52,19 @@ Randi was already at a table against the glass, sunglasses pushed up into her ha
 
 The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
 
-The waiter came and Randi ordered a mimosa without looking at the card at all, and Vee closed her menu and said she'd have the same. It came out easy. It felt, saying it, like stepping into a current that was already moving, like being, for the length of a sentence, a woman who has a mimosa at brunch and thinks nothing of it. The flute arrived cold and beading and she touched the stem and did not think about the number again.
+The waiter came and Randi ordered a mimosa without looking at the card at all, and Vee closed her menu and said she'd have the same. It came out easy. It felt, saying it, like stepping into a current that was already moving, like being, for the length of a sentence, a woman who has a mimosa at brunch and thinks nothing of it.
+
+The waiter checked their IDs and handed them back, and Randi's hand got to Vee's before Vee's did. "Lemme see."
+
+"No — God, the picture's terrible."
+
+"The DMV has a special camera that only takes bad pictures." Randi held it away from her and read it. "Ooh. A Leo." She tapped the card against her lip. "That explains you. Loyal, fun in a group — Leos never do anything in twos if they can do it in threes. And you love to be looked at, and you'd sooner die than say so."
+
+Vee's hand went to her collarbone. "I do not."
+
+"Mm-hm." Randi handed it back.
+
+The flute arrived cold and beading and she touched the stem and did not think about the number again.
 
 "So," Randi said, and put her elbows on the table and her chin on her laced hands. "I have to tell you my sad little story first, to clear the air, and then you are going to make me feel so much worse, I can tell, it's all over you." She tipped her flute toward Vee like a toast to her own coming defeat. "I ran into an old boyfriend on campus. Beautiful. I mean genuinely beautiful, the kind where you stand there going, why on earth did we ever break up, what was wrong with me. So obviously we get a drink, and then dinner, and then, you know." She waved the *you know* off into the bright air. "And the poor boy tries, he does try, but he's so nervous, and in such a hurry, like the building's on fire." She sighed, theatrical, delighted with her own ruefulness. "At least I got dinner out of it ahead of time. And the whole thing through rose-colored glasses, before he, ah, lowered my expectations."
 

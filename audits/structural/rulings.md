@@ -98,3 +98,9 @@ the target and finding id.*
   on the shoes, and Cassie: "Careful. You'll get hurt." In {{Nachtmusik}} Randi reads
   the arousal in the photo and misattributes it: "Somewhere on that stage she had been
   thinking about him." Nobody notices; Vee doesn't know Randi has the photo.
+- **vol1 C9 — the passcode reveal is not set up:** no chapter reader stumbled; the
+  structural editors did. Planted (author ruling 2026-11-22): at {{Fed}} the waiter
+  cards them and Randi takes Vee's license before Vee can ("Lemme see"), reads the
+  date, and assigns her a sign — a Leo, "Leos never do anything in twos if they can do
+  it in threes." No digits on the page. The failed first try at `nachtmusik.md:109`
+  already shows the code was changed.
