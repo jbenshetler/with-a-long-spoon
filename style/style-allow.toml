@@ -4379,6 +4379,20 @@ text = "She didn't ask him to leave, and he didn't make anything of going — a 
 note = "':27 not far, never far' — reader-praised by gpt-5.6-terra ('keeps that familiar tension around him intact'); the stronger of the two not-far statements, the other cut at item 8. Line-edit 2026-08-07 group G."
 
 [[ok]]
+fp   = "66855053015a"
+rule = "filter-verbs"
+file = "scenes/portion.md"
+text = "Her bag was on the chair by the door, and he saw that and set it aside."
+note = "C4 arrival rewrite, author-approved 2026-11-21; original 'he saw that and set it aside'"
+
+[[ok]]
+fp   = "4c6a8fbc8ab8"
+rule = "there-was-were"
+file = "scenes/portion.md"
+text = "At eight he turned the pot down as far as it would go and went out to the shop, and when he came in off it there was sawdust in the hair of his arms."
+note = "C4 arrival rewrite, author-approved 2026-11-21"
+
+[[ok]]
 fp   = "771ddeb02c7d"
 rule = "warm"
 file = "scenes/postcard.md"

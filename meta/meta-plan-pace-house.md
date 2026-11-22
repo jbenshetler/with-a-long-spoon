@@ -138,7 +138,7 @@ this single space (the bathroom is off the hall, not in the room). **There is no
 ### Bathroom — off the hall `[PAGE]`
 Off the **hall**, past the office, around the corner from the bedroom (`the-bench.md`:
 Randi leaves the bedroom, out into the hall and around the corner to it — not an ensuite).
-Sink + **mirror**, tap, his **towel**, toilet. The door has a
+Sink + **mirror**, tap, his **towel** on its hook, toilet, a **shower with a glass door** (`portion.md`). The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
 - **Vee's top drawer** `[PAGE]` (canonical): gifted at {{Above Him}} (after {{We Find Out}}) —
@@ -152,12 +152,7 @@ load-bearing small room (Vee uses it later too).
   unworded declaration. Vee's habit: scrunchies off the form, returns dropped
   loose, never re-threaded — under her own use the form only ever depletes.
   Site of the spring gaslight grains.
-- **POV key** (canonical): this room and the drawer are on-camera **only in Vee's
-  POV** from the fall onward (the Bench-night mirror predates the drawer). In
-  Pace-POV scenes the camera rides Pace and does not enter with anyone else. Pace sees
-  the bathroom door from the stove (the stove-to-hall sightline) and may see the drawer from
-  the doorway; that is not a POV breach (author ruling 2026-10-31). No
-  staged "opportunity" beats anywhere in the house (chronology flag 15).
+- **No staged "opportunity" beats** anywhere in the house (chronology flag 15).
 - **Vee's mirror-time ritual:** washing her face, hair up at the sink — installed
   across the fall as domestic warmth; in spring the same container holds the
   definiteness questions and the drawer arithmetic in one stream.

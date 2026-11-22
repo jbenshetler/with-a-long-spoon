@@ -6,9 +6,15 @@
 
 The pot had been on since three. Chicken and potatoes in a white sauce, the peas green in it and the carrot orange, the wine gone into it early and the cream at the end. The house had smelled of it all afternoon. He had a loaf out of the machine cooling on the board and the salad washed and waiting in the colander, the dressing in a jar he would shake at the last minute, and the bottle on the table was the one the pot had drunk from, a white, open an hour. He had set out two bowls. Hers was the small one, the one he sliced her apples into.
 
-He had put on a henley and jeans. The synth thing was going low in the front rooms — *Violator*, a dark voice over machines, every sound in it polished. He poured her glass when he heard the gravel.
+She had said seven. At eight he turned the pot down as far as it would go and went out to the shop, and when he came in off it there was sawdust in the hair of his arms. He listened for the gravel and it did not come, and he went down the hall and stood under the shower.
 
-The deadbolt went over. He came out of the kitchen and she was setting her bag down on the chair by the door, and he saw that and set it aside. Then the little back-and-forth they did, his backing off and her leaning in, her mouth cool from outside and her perfume arriving after it, the citrus and the cold thing under it. She had her hands on his chest. She let him go and lifted her face and the kitchen reached her.
+He turned and she was in the bathroom doorway, watching him through the glass.
+
+"If I'd known the show was this hot," she said, "I'd always be an hour late."
+
+He shut off the water, and the front rooms came back to him. The playlist had gone on to the synth thing while he was under it, *Violator*, a dark voice over machines, every sound in it polished. She had his towel down off the hook, and when he stepped out she held it and did not give it to him. Then the little back-and-forth they did, his backing off so as not to wet her and her leaning in anyway, her mouth cool from outside and her perfume arriving after it, the citrus and the cold thing under it. She let him have the towel and left him to it.
+
+He dried off and put on jeans and a gray pocket tee and came out barefoot. Her bag was on the chair by the door, and he saw that and set it aside. She was standing in the kitchen doorway. When he came past her into the room she turned with him, and the kitchen reached her.
 
 "You cooked." A beat. "You shouldn't have."
 
@@ -82,7 +88,7 @@ She ate the salad. All of it, down to the leaves at the bottom that had taken th
 
 She got up. She did not come around the table and put her mouth on his. She went out of the kitchen and he heard her heels go down the hall and around the corner, and he sat a moment with the two bowls, and then he got up and followed.
 
-She was already out of the skirt. She had him out of the henley and down onto the bed before he had said her name, and up over him, and she did not do the thing she did, the inch and the stop and the eyes. She put him inside her in one motion and drove. Her eyes were shut. Her nails were in his chest. She did not say *tell me*. Every night in this house she had said it, at his ear, against his mouth, and he lay under her with his hands on her hips and waited for it and it did not come. After a while he understood it was not going to, and that whatever this was, it was not for him, and he gave it to her anyway. She was quick about it. She rode him hard and fast with her eyes shut and her hair down over her face and came loud, her forehead dropping to his shoulder, and he was a breath behind her, his hands locked on her, and then it was done.
+She was already out of the skirt. She had him out of the tee and down onto the bed before he had said her name, and up over him, and she did not do the thing she did, the inch and the stop and the eyes. She put him inside her in one motion and drove. Her eyes were shut. Her nails were in his chest. She did not say *tell me*. Every night in this house she had said it, at his ear, against his mouth, and he lay under her with his hands on her hips and waited for it and it did not come. After a while he understood it was not going to, and that whatever this was, it was not for him, and he gave it to her anyway. She was quick about it. She rode him hard and fast with her eyes shut and her hair down over her face and came loud, her forehead dropping to his shoulder, and he was a breath behind her, his hands locked on her, and then it was done.
 
 She went off him at once.
 

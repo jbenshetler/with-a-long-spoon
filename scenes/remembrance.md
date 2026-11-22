@@ -22,9 +22,9 @@ And her eyes. He had knelt in front of her where the satin had gone dark, and sh
 
 None of it had anywhere to go tonight but his hands, which kept rolling shirts that were rolled.
 
-Eurythmics was going low in the front rooms, the drum machine and a woman's voice over it, low and level. He heard the car under it.
+Eurythmics was playing out in the front rooms, the drum machine and a woman's voice over it, low and level.
 
-Tires on the gravel, slow through the cut. The deadbolt went over. Her steps came across the foyer and did not stop: no pause at the door, no bag going down into the chair. He set that aside, and then she was around the corner and in the doorway with her handbag on her shoulder.
+The deadbolt went over, and he had not heard the car. Her steps came across the foyer and did not stop: no pause at the door, no bag going down into the chair. He set that aside, and then she was around the corner and in the doorway with her handbag on her shoulder.
 
 "Somebody's going somewhere," she said.
 
@@ -200,7 +200,7 @@ He watched her dress. The slip, the cashmere over it, her shoes. She came back a
 
 "Text me when you land," she said.
 
-At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched the car go down through the cut, careful on the gravel, until it was gone. It was cold, and he stood in it a while, and shut the door.
+At the door she turned and kissed him again, and turned the deadbolt back, and he stood in the doorway in his jeans and watched her taillights go down the drive until the cut took them. It was cold, and he stood in it a while, and shut the door.
 
 The bag was on the floor and his shirts were on the rug, still banded. Hers had come loose. He rolled it once, tight, and snapped a band on it, and it held, and he left it.
 
