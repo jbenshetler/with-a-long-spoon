@@ -44,7 +44,7 @@ She stood, and the hem fell where it should because of the heels, and she went o
 
 She took a breath, and made the second step long.
 
-The slit fell open off her bare thigh and up to the hip, and she gave the room her leg on purpose — the whole length of it, calf to hip, nothing under the silk and nothing to guess at, and she let it travel down the rows. She had good legs. She stalked across the stage giving them away a step at a time, and did not once make herself small — and a murmur went through the crowd as she came, the sound a dull room makes when it wakes up.
+The slit fell open off her bare thigh and up to the hip, the skirt running off it like water, and she gave the room her leg on purpose — the whole length of it, calf to hip, nothing under the silk and nothing to guess at, and she let it travel down the rows. She had good legs. On the next long step her weight came down into the heel and the shoe caught it, firm as a hand under her foot, and at her ankle was the buckle where Randi's two fingers had been. Her nipples drew up tight against the dress. She stalked across the stage giving them away a step at a time, and did not once make herself small — and a murmur went through the crowd as she came, the sound a dull room makes when it wakes up.
 
 And the heat came up — her body agreeing, low and certain, as it had in the glass that afternoon, coming up to meet a thing she'd decided a half-second before her head was sure of it. The eyes found her leg. She kept her face as near to where it was as she could, took the woman's hand and held it the beat someone's camera wanted, took the scroll they set in her other hand — a rolled paper tied with a ribbon, absurdly light for the weight of the walk — and turned back with her name still hanging over the chairs, and the room knew, and not a soul in it could have said so out loud.
 
@@ -54,7 +54,7 @@ Cassie found her in the crush after, by the coffee no one was drinking, and took
 
 "How did I look?" It was the only thing in her head. It had been the only thing in her head the whole walk.
 
-"Like a movie star. You sure got their attention. Somebody had to document it." Cassie turned Vee's phone around. Vee, mid-stride, caught in the long step: the leg out of the slit to the hip, the bare shoulder, the burgundy taking the window light like it was lit from inside, her eyes bright and dark, her lips just parted, the start of a smile at one corner. It looked like a photograph of a woman who had every part of it handled, because she had.
+"Like a movie star. You sure got their attention. Somebody had to document it." Cassie turned Vee's phone around. Vee, mid-stride, caught in the long step: the leg out of the slit to the hip, the black straps at her ankle, the bare shoulder, the burgundy taking the window light like it was lit from inside, her eyes bright and dark, her lips just parted, the start of a smile at one corner. It looked like a photograph of a woman who had every part of it handled, because she had.
 
 Vee took the phone and knew to the heartbeat what second it was. None of that was in the picture. Or all of it was, and only she would ever see it there.
 
@@ -62,4 +62,4 @@ She looked a moment longer, and then she sent it to Pace — the whole frame, un
 
 "Come on, streetlight." Cassie steered her by the elbow toward the doors. "I'll buy you a terrible sandwich and you can be famous at me."
 
-Vee went, the scroll light in one hand and the phone warm in the other, the high room emptying of its light behind them. The dread of it was behind her now — she could walk any way she pleased out to the car, so she let the slit swing on her bare leg with every step and didn't make herself small, and couldn't have told you, if you'd stopped her in the doorway and asked, whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing.
+Vee went, the scroll light in one hand and the phone warm in the other, the high room emptying of its light behind them. She looked down at herself, at the burgundy going on ahead of her, and was happy, plainly happy — and then at the shoes, and her step caught on nothing, half a beat, and came back. Cassie's hand closed on her arm. "Careful. You'll get hurt." The dread of it was behind her now — she could walk any way she pleased out to the car, so she let the slit swing on her bare leg with every step and didn't make herself small, and couldn't have told you, if you'd stopped her in the doorway and asked, whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing.

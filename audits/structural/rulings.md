@@ -87,3 +87,14 @@ the target and finding id.*
   volume — {{The Induction}} opens alone in the dorm on the receipt lying unread on the
   heels' tissue, and January's books she doesn't know how she'll buy. No price is ever
   rendered. She pays it with her Christmas money, recalled at {{Across}}.
+- **vol1 C1 — the Randi–Vee line never comes to a head:** the slow staircase is the
+  design (the jacket sells a want Vee never lets herself notice; the threesome is a
+  Volume Five payoff); Randi faces it in front of Pace at {{Remembrance}} ("Me") and
+  {{Gone}} ("She got past me"); {{Nachtmusik}}'s phone is the irreversible triangular
+  event. Acted on at the climax (author ruling 2026-11-21): on the second long step of
+  {{The Induction}}'s walk the shoe catches her "firm as a hand," the buckle "where
+  Randi's two fingers had been," and her nipples draw up tight; that is the second
+  Cassie photographs (the black straps now in the frame). Walking out, her step catches
+  on the shoes, and Cassie: "Careful. You'll get hurt." In {{Nachtmusik}} Randi reads
+  the arousal in the photo and misattributes it: "Somewhere on that stage she had been
+  thinking about him." Nobody notices; Vee doesn't know Randi has the photo.

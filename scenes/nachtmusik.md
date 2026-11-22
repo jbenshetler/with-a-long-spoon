@@ -124,7 +124,7 @@ She spread the picture open with two fingers.
 
 The silk lay on Vee's breasts as if it had been poured there and left to set, the full weight of them, the line under each one, the faint press at the tips. Randi looked at that for a long time. Vee's hand loose at her side, and her nails done frosted plum, picking up the light where the silk caught it.
 
-And her face. Anyone in that room would have seen a girl proud of herself and a little flushed with it. Randi knew that face. She had seen it across a table, more than once, the moment before Vee leaned in and told her one of her hot little secrets: the eyes gone bright and dark, the lips come apart, the smile at one corner she could not keep down. Vee was proud in the picture — and that was the least of it.
+And her face. Anyone in that room would have seen a girl proud of herself and a little flushed with it. Randi knew that face. She had seen it across a table, more than once, the moment before Vee leaned in and told her one of her hot little secrets: the eyes gone bright and dark, the lips come apart, the smile at one corner she could not keep down. Vee was proud in the picture — and that was the least of it. Somewhere on that stage she had been thinking about him.
 
 Under the cashmere her nipples drew up tight, and she pulled the blanket closer.
 
