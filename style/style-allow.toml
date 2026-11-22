@@ -1789,6 +1789,13 @@ text = "It was out of her mouth before she heard it."
 note = "deliberate delayed-hearing device (echoes Famished 'heard it a beat after he did'); body-before-mind; keep"
 
 [[ok]]
+fp   = "97b03d3c223a"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "She heard it and wanted it back."
+note = "Vee hearing her own criticism of Pace's table; author-approved Fed beat 2026-11-21"
+
+[[ok]]
 fp   = "b947cebcefe1"
 rule = "filter-verbs"
 file = "scenes/fed.md"
@@ -1941,6 +1948,13 @@ rule = "without-asking"
 file = "scenes/fed.md"
 text = "Sunday's bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking."
 note = "author re-accepted 2026-10-25 after 'Sunday's bistro' edit re-armed it"
+
+[[ok]]
+fp   = "506df6f9db18"
+rule = "x-not-y"
+file = "scenes/fed.md"
+text = "She went off fast between the tables, not looking back, and Vee watched her go, and finished her mimosa."
+note = "Randi's quick exit; author-approved Fed beat 2026-11-21"
 
 [[ok]]
 fp   = "43236c3e4c10"

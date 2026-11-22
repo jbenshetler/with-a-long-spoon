@@ -116,6 +116,16 @@ Something had come into Randi's voice over the last few minutes. Vee heard it wi
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
+"He makes the most beautiful furniture. Can you believe that? All of it by hand. Arts and Crafts, he said — spare, sort of masculine, nothing on it that doesn't need to be there. Every piece is for something." She smiled. "Except there's this one table in his bedroom." Her hand went to her collarbone. "It's sort of… awkward. Ungainly." She heard it and wanted it back. "Not *badly* made. It's this beautiful black walnut, and the finish is lovely."
+
+"A table." Randi's eyes had gone bright. "In his *bedroom*." She leaned in over the cloth. "Ungainly how?"
+
+"Heavy. Full in a way it doesn't need to be. Too much of it." She shook her head at herself. "It doesn't look like him. It must have been the first thing he ever designed himself. Before he knew what he was doing."
+
+"Oh, I bet he knew." Randi's hand came down flat on the cloth between them and stayed there a moment, and then she was pushing back her chair. "Hold that thought, honey. I'll be right back."
+
+She went off fast between the tables, not looking back, and Vee watched her go, and finished her mimosa.
+
 They stayed another hour. Vee had a second mimosa, and the second one she did not price at all, and somewhere near the bottom of it she found the thing she had carried in from the car.
 
 "I'm being inducted into the economics honor society." It came out smaller than she had built it. "A week from Tuesday, in the afternoon. Will you come?"

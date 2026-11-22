@@ -140,7 +140,7 @@ The second button. He traced a finger from the hollow of her throat downward, sl
 
 He found the zipper at her hip and drew it down and slid the skirt over her hips and thighs to her ankles. She stepped out of it, one foot and then the other, her hand coming to his shoulder for balance. He folded the skirt and set it on the chair.
 
-She stood above him in her bra and her underwear, a matching set, pale, expensive, laid out on her bed that morning before her first class and worn to chapter dinner under the cardigan because chapter dinner had only been a stop on the way to him. She had been thinking, since she opened her eyes that morning, about being undressed in this room.
+She stood above him in her bra and her underwear, a matching set, pale, expensive.
 
 Then he rose, coming up the length of her. He laid his palms flat against her hips and swept them up her sides and around to the clasp between her shoulder blades. He bent his head and kissed her chest, the pale skin lightly freckled under his mouth, as he unhooked it. He drew the loosened cups away and kissed each of her nipples as they came bare — kisses she welcomed, and that were nowhere near enough — and laid the bra on the chair. The straps had left two faint pink indentations in the white skin of her shoulders; the marks were already beginning to fade.
 

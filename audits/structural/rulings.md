@@ -46,3 +46,18 @@ the target and finding id.*
   meet-cute and knows him through what Vee tells her until Volume 3. She does not
   criticize Pace: that would drive a real wedge between her and Vee. Audit each Cassie
   chapter for its unheeded true sentence on those terms.
+- **vol1 C8 — the Brooke/Standards threat planted and left untouched:** acted on
+  (author ruling 2026-11-21). Brooke now recurs as an active constraint on Randi in
+  {{Dear}}, {{Fed}}, {{Gone}}, {{The Induction}} and {{Nachtmusik}}. The exposure itself
+  is Volume 2's ({{Inversion}}); in Volume 1 the threat is a tightening constraint, never
+  a reveal. Final ruling waits on the next structural re-run.
+- **vol1 C10 (2026-11-21 consensus) — Pace's POV slips into Randi's head:** the slip
+  at {{The Bench}} :143 is fixed (author ruling 2026-11-21): cut to what Pace sees, *"a
+  matching set, pale, expensive."* The bathroom handover to Randi's POV (sol's B13) is
+  designed (`meta-note-the-bench.md:10`); no change.
+- **vol1 C5 — the bench never used again, and gone from the bedroom:** acted on (author
+  ruling 2026-11-21). In {{Fed}} Vee tells Randi about the one ungainly table among his
+  spare Arts and Crafts pieces and takes it for his first design; Randi goes bright and
+  leaves the table fast (opus's A7: the bench is in the room and Vee has seen it; sol's
+  B3: the bench still shapes Randi, appetite and wound unsorted). Rock and Peekaboo are
+  not touched. The bench's use waits for {{Vee on the Bench}}.

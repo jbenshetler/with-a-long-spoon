@@ -455,7 +455,7 @@ weight them below the others. Removed models' reads are not consulted
 Five-reader panel (opus-5-5, sol, argon, glm, deepseek), grounded on the consensus checkpoint. Each item is ONE
 reader's reaction, not a ruling. Author to rule; then move the item to Fixed or Left standing.
 
-- [ ] **opus-5-5** — POV slip: Pace's chapter states "She had been thinking, since she opened her eyes that morning…". `reviews/cold-read/claude-opus-5-5/the-bench.md:17`: "…me "She had been thinking, since she opened her eyes that morning, about being undressed in this room," which he can't know. The pinned-on symbol at the end ("doing what it would continue to do, waiting for the next time") and "the…"
+- [x] **Fixed 2026-11-21 (author ruling; structural consensus C10, both editors).** :143 cut to "a matching set, pale, expensive." **opus-5-5** — POV slip: Pace's chapter states "She had been thinking, since she opened her eyes that morning…". `reviews/cold-read/claude-opus-5-5/the-bench.md:17`: "…me "She had been thinking, since she opened her eyes that morning, about being undressed in this room," which he can't know. The pinned-on symbol at the end ("doing what it would continue to do, waiting for the next time") and "the…"
 - [ ] **deepseek** — "He had not yet told her that" read as authorial. `reviews/cold-read/deepseek-v4-pro-0813/the-bench.md:19`: "…me a little trust. The second friction is smaller: "He had not yet told her that" about liking her feet — a thumb on the scale, telling me something the character hasn't said, like a promise I'm not sure the book needed.…"
 
 ## Author ruling 2026-11-03 — Pace's "small warm pleasure" (:459)

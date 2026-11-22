@@ -245,7 +245,7 @@ two people move through without calling out to each other.
 
 ## Fixtures / props
 - **The bench** `[PAGE]`: walnut, **twelve coats of oil**; a fitted **wooden top**
-  that disguises it as a long, somewhat awkward table. Pace calls the piece a **trestle**
+  that disguises it as a long, somewhat awkward table. Pace works in **black walnut** in other pieces too (author ruling 2026-11-21: a wood Arts and Crafts designs loved), so the wood is not the bench's tell; its **form** is: heavy and full among his spare pieces. Vee names the contrast to Randi in {{Fed}} and takes it for an early design. Pace calls the piece a **trestle**
   (she'd taken it for a table; he didn't correct her). Padded-leather working
   surfaces: head + hand grips low, rising chest pad, **angled pelvis support** high,
   leg supports out from the sides. **Adjustable** — he built it to adjust to his
