@@ -104,3 +104,7 @@ the target and finding id.*
   date, and assigns her a sign — a Leo, "Leos never do anything in twos if they can do
   it in threes." No digits on the page. The failed first try at `nachtmusik.md:109`
   already shows the code was changed.
+- **vol1 sol F10 — Meg, Kayla and Theo vanish after Chapter 12:** left standing
+  (author ruling 2026-11-22). They return at {{Lesson}}, Volume 2's opener; the
+  friend-world thinning as Vee's life bends is the design, and Cassie stays present
+  through {{The Induction}}.

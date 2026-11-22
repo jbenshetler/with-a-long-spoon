@@ -4,8 +4,8 @@
   "Randi",
   "Pace",
   "Cassie",
-  "Meg",
   "Brooke",
+  "Meg",
   "Sheri",
   "Kayla",
   "Danny",
@@ -14,11 +14,15 @@
   "Harrison",
   "Corolla",
   "Marsh",
+  "Sloane",
+  "Berkeley",
+  "Kentucky",
   "Kinsey",
   "Caroline",
   "Draper",
   "Paris",
   "Mercedes",
+  "Roanoke",
   "Virginia",
   "Daphne"
  ],
@@ -30,7 +34,7 @@
    "title": "The Bench",
    "date": "2026-09-04",
    "gap_days": null,
-   "words": 9910,
+   "words": 9861,
    "dialogue": 0.03,
    "present": [
     "Pace",
@@ -40,9 +44,10 @@
     "Randi": 2,
     "Pace": 10,
     "Brooke": 1,
+    "Kentucky": 2,
     "Daphne": 1
    },
-   "capture_z": -0.11,
+   "capture_z": -0.13,
    "capture_readers": 11,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -66,9 +71,10 @@
     "Randi": 15,
     "Pace": 4,
     "Brooke": 19,
+    "Sloane": 6,
     "Kinsey": 7
    },
-   "capture_z": -2.11,
+   "capture_z": -2.15,
    "capture_readers": 11,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -93,9 +99,10 @@
    "mentions": {
     "Vee": 1,
     "Randi": 22,
-    "Pace": 5
+    "Pace": 5,
+    "Kentucky": 1
    },
-   "capture_z": 0.34,
+   "capture_z": 0.32,
    "capture_readers": 11,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -125,7 +132,7 @@
     "Draper": 4,
     "Paris": 1
    },
-   "capture_z": -0.54,
+   "capture_z": -0.55,
    "capture_readers": 11,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -154,7 +161,7 @@
     "Pace": 8,
     "Cassie": 19
    },
-   "capture_z": -0.16,
+   "capture_z": -0.18,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -180,7 +187,7 @@
     "Randi": 11,
     "Pace": 1
    },
-   "capture_z": 0.02,
+   "capture_z": -0.01,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -205,7 +212,7 @@
     "Vee": 12,
     "Cassie": 15
    },
-   "capture_z": -2.05,
+   "capture_z": -2.09,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -234,7 +241,7 @@
     "Vee": 3,
     "Cassie": 6
    },
-   "capture_z": 0.1,
+   "capture_z": 0.07,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -249,7 +256,7 @@
    "title": "Dear",
    "date": "2026-09-19",
    "gap_days": 0,
-   "words": 4144,
+   "words": 4163,
    "dialogue": 0.29,
    "present": [
     "Cassie",
@@ -257,13 +264,13 @@
     "Vee"
    ],
    "mentions": {
-    "Vee": 64,
-    "Randi": 38,
+    "Vee": 65,
+    "Randi": 39,
     "Pace": 4,
     "Cassie": 20,
-    "Brooke": 4
+    "Brooke": 5
    },
-   "capture_z": -0.49,
+   "capture_z": -0.51,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -278,8 +285,8 @@
    "title": "Leave No Trace",
    "date": "2026-09-27",
    "gap_days": 2,
-   "words": 5201,
-   "dialogue": 0.09,
+   "words": 5185,
+   "dialogue": 0.08,
    "present": [
     "Pace",
     "Vee"
@@ -291,7 +298,7 @@
     "Cassie": 10,
     "Meg": 2
    },
-   "capture_z": 0.41,
+   "capture_z": 0.39,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -313,7 +320,7 @@
     "Randi"
    ],
    "mentions": {},
-   "capture_z": 0.51,
+   "capture_z": 0.48,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -328,8 +335,8 @@
    "title": "What to Wear",
    "date": "2026-10-01",
    "gap_days": 4,
-   "words": 1574,
-   "dialogue": 0.53,
+   "words": 1536,
+   "dialogue": 0.5,
    "present": [
     "Vee"
    ],
@@ -341,7 +348,7 @@
     "Danny": 1,
     "Theo": 7
    },
-   "capture_z": -2.47,
+   "capture_z": -2.51,
    "capture_readers": 10,
    "almost_resolved": 0,
    "almost_standing": 1,
@@ -365,7 +372,7 @@
    "mentions": {
     "Pace": 1
    },
-   "capture_z": 0.0,
+   "capture_z": -0.02,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -392,7 +399,7 @@
     "Vee": 1,
     "Randi": 2
    },
-   "capture_z": 0.8,
+   "capture_z": 0.77,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 1,
@@ -423,7 +430,7 @@
     "Corolla": 1,
     "Mercedes": 1
    },
-   "capture_z": 0.41,
+   "capture_z": 0.39,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -433,21 +440,24 @@
   },
   {
    "n": 16,
-   "slug": "famished",
+   "slug": "remembrance",
    "vol": 1,
-   "title": "Famished",
-   "date": "2026-10-09",
-   "gap_days": 5,
-   "words": 3336,
-   "dialogue": 0.01,
+   "title": "Remembrance",
+   "date": "2026-10-06",
+   "gap_days": 2,
+   "words": 3310,
+   "dialogue": 0.1,
    "present": [
     "Pace",
-    "Vee"
+    "Randi"
    ],
    "mentions": {
-    "Pace": 1
+    "Vee": 8,
+    "Randi": 10,
+    "Kentucky": 1,
+    "Roanoke": 1
    },
-   "capture_z": 0.8,
+   "capture_z": 0.48,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -457,25 +467,51 @@
   },
   {
    "n": 17,
+   "slug": "famished",
+   "vol": 1,
+   "title": "Famished",
+   "date": "2026-10-09",
+   "gap_days": 3,
+   "words": 3334,
+   "dialogue": 0.01,
+   "present": [
+    "Pace",
+    "Vee"
+   ],
+   "mentions": {
+    "Pace": 1
+   },
+   "capture_z": 0.77,
+   "capture_readers": 10,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 18,
    "slug": "fed",
    "vol": 1,
    "title": "Fed",
    "date": "2026-10-10",
    "gap_days": 1,
-   "words": 2824,
-   "dialogue": 0.27,
+   "words": 3546,
+   "dialogue": 0.34,
    "present": [
     "Cassie",
     "Randi",
     "Vee"
    ],
    "mentions": {
-    "Vee": 36,
-    "Randi": 24,
-    "Pace": 2,
-    "Cassie": 12
+    "Vee": 44,
+    "Randi": 32,
+    "Pace": 3,
+    "Cassie": 12,
+    "Brooke": 3,
+    "Kinsey": 3
    },
-   "capture_z": -0.74,
+   "capture_z": -0.76,
    "capture_readers": 10,
    "almost_resolved": 0,
    "almost_standing": 1,
@@ -487,13 +523,13 @@
    ]
   },
   {
-   "n": 18,
+   "n": 19,
    "slug": "portion",
    "vol": 1,
    "title": "Portion",
    "date": "2026-10-11",
    "gap_days": 0,
-   "words": 1577,
+   "words": 1733,
    "dialogue": 0.08,
    "present": [
     "Pace",
@@ -504,7 +540,7 @@
     "Randi": 3,
     "Pace": 2
    },
-   "capture_z": 0.31,
+   "capture_z": 0.29,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -513,7 +549,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 19,
+   "n": 20,
    "slug": "peekaboo",
    "vol": 1,
    "title": "Peekaboo",
@@ -528,7 +564,7 @@
    "mentions": {
     "Pace": 2
    },
-   "capture_z": 0.56,
+   "capture_z": 0.53,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -537,7 +573,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 20,
+   "n": 21,
    "slug": "sorority",
    "vol": 1,
    "title": "Sorority",
@@ -558,7 +594,7 @@
     "Mercedes": 1,
     "Virginia": 1
    },
-   "capture_z": -0.35,
+   "capture_z": -0.37,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -569,13 +605,13 @@
    ]
   },
   {
-   "n": 21,
+   "n": 22,
    "slug": "gone",
    "vol": 1,
    "title": "Gone",
-   "date": "2026-10-19",
-   "gap_days": 2,
-   "words": 1829,
+   "date": "2026-10-17",
+   "gap_days": 0,
+   "words": 1835,
    "dialogue": 0.26,
    "present": [
     "Pace",
@@ -584,9 +620,10 @@
    "mentions": {
     "Vee": 6,
     "Randi": 7,
-    "Pace": 5
+    "Pace": 5,
+    "Brooke": 2
    },
-   "capture_z": 0.14,
+   "capture_z": 0.12,
    "capture_readers": 10,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -595,14 +632,14 @@
    "cold_drag_models": []
   },
   {
-   "n": 22,
+   "n": 23,
    "slug": "rock",
    "vol": 1,
    "title": "Rock",
-   "date": "2026-10-20",
+   "date": "2026-10-18",
    "gap_days": 1,
-   "words": 4203,
-   "dialogue": 0.34,
+   "words": 4478,
+   "dialogue": 0.35,
    "present": [
     "Pace",
     "Vee"
@@ -610,11 +647,12 @@
    "mentions": {
     "Vee": 5,
     "Randi": 1,
-    "Pace": 3,
+    "Pace": 4,
     "Corolla": 1,
+    "Berkeley": 1,
     "Daphne": 1
    },
-   "capture_z": 0.1,
+   "capture_z": 0.07,
    "capture_readers": 10,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -623,12 +661,70 @@
    "cold_drag_models": []
   },
   {
-   "n": 23,
+   "n": 24,
+   "slug": "the-induction",
+   "vol": 1,
+   "title": "The Induction",
+   "date": "2026-10-20",
+   "gap_days": 2,
+   "words": 1944,
+   "dialogue": 0.06,
+   "present": [
+    "Cassie",
+    "Vee"
+   ],
+   "mentions": {
+    "Vee": 8,
+    "Randi": 3,
+    "Pace": 2,
+    "Cassie": 12,
+    "Brooke": 2,
+    "Berkeley": 2
+   },
+   "capture_z": -0.19,
+   "capture_readers": 9,
+   "almost_resolved": 1,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 25,
+   "slug": "nachtmusik",
+   "vol": 1,
+   "title": "Nachtmusik",
+   "date": "2026-10-21",
+   "gap_days": 1,
+   "words": 2731,
+   "dialogue": 0.14,
+   "present": [
+    "Pace",
+    "Randi"
+   ],
+   "mentions": {
+    "Vee": 16,
+    "Randi": 9,
+    "Pace": 3,
+    "Brooke": 1,
+    "Berkeley": 2,
+    "Kentucky": 1
+   },
+   "capture_z": 0.87,
+   "capture_readers": 9,
+   "almost_resolved": 2,
+   "almost_standing": 0,
+   "cold_drag": 0,
+   "cold_readers": 4,
+   "cold_drag_models": []
+  },
+  {
+   "n": 26,
    "slug": "lesson",
    "vol": 2,
    "title": "Lesson",
    "date": "2026-10-22",
-   "gap_days": 2,
+   "gap_days": 1,
    "words": 3300,
    "dialogue": 0.18,
    "present": [
@@ -642,7 +738,7 @@
     "Cassie": 5,
     "Meg": 8
    },
-   "capture_z": -0.14,
+   "capture_z": -0.16,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -651,7 +747,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 24,
+   "n": 27,
    "slug": "broken-in",
    "vol": 2,
    "title": "broken-in",
@@ -672,7 +768,7 @@
     "Brooke": 4,
     "Paris": 3
    },
-   "capture_z": 0.24,
+   "capture_z": 0.22,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -681,7 +777,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 25,
+   "n": 28,
    "slug": "space",
    "vol": 2,
    "title": "Space",
@@ -700,7 +796,7 @@
     "Brooke": 1,
     "Sheri": 8
    },
-   "capture_z": 0.3,
+   "capture_z": 0.27,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -709,7 +805,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 26,
+   "n": 29,
    "slug": "recognized-method",
    "vol": 2,
    "title": "A Recognized Method",
@@ -726,7 +822,7 @@
     "Randi": 5,
     "Pace": 1
    },
-   "capture_z": 0.79,
+   "capture_z": 0.77,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -735,7 +831,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 27,
+   "n": 30,
    "slug": "practice-room",
    "vol": 2,
    "title": "The Practice Room",
@@ -752,7 +848,7 @@
     "Randi": 38,
     "Cassie": 3
    },
-   "capture_z": 0.37,
+   "capture_z": 0.35,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -761,40 +857,13 @@
    "cold_drag_models": []
   },
   {
-   "n": 28,
-   "slug": "the-induction",
-   "vol": 2,
-   "title": "The Induction",
-   "date": "2026-10-28",
-   "gap_days": 2,
-   "words": 1685,
-   "dialogue": 0.07,
-   "present": [
-    "Cassie",
-    "Vee"
-   ],
-   "mentions": {
-    "Vee": 9,
-    "Randi": 3,
-    "Pace": 2,
-    "Cassie": 10
-   },
-   "capture_z": -0.16,
-   "capture_readers": 9,
-   "almost_resolved": 1,
-   "almost_standing": 0,
-   "cold_drag": 0,
-   "cold_readers": 4,
-   "cold_drag_models": []
-  },
-  {
-   "n": 29,
+   "n": 31,
    "slug": "we-find-out",
    "vol": 2,
    "title": "We Find Out",
    "date": "2026-10-30",
-   "gap_days": 2,
-   "words": 3811,
+   "gap_days": 4,
+   "words": 3810,
    "dialogue": 0.05,
    "present": [
     "Pace",
@@ -803,7 +872,7 @@
    "mentions": {
     "Randi": 2
    },
-   "capture_z": 0.67,
+   "capture_z": 0.64,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -812,13 +881,13 @@
    "cold_drag_models": []
   },
   {
-   "n": 30,
+   "n": 32,
    "slug": "made-up",
    "vol": 2,
    "title": "Made-Up",
    "date": "2026-10-31",
    "gap_days": 0,
-   "words": 1519,
+   "words": 1558,
    "dialogue": 0.08,
    "present": [
     "Pace",
@@ -829,7 +898,7 @@
     "Randi": 1,
     "Pace": 1
    },
-   "capture_z": -0.16,
+   "capture_z": -0.18,
    "capture_readers": 9,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -838,7 +907,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 31,
+   "n": 33,
    "slug": "one-bite",
    "vol": 2,
    "title": "One Bite",
@@ -856,7 +925,7 @@
     "Cassie": 1,
     "Mercedes": 1
    },
-   "capture_z": 0.51,
+   "capture_z": 0.49,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -865,7 +934,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 32,
+   "n": 34,
    "slug": "not-in-your-bed",
    "vol": 2,
    "title": "Not in Your Bed",
@@ -884,7 +953,7 @@
     "Pace": 3,
     "Cassie": 18
    },
-   "capture_z": -0.3,
+   "capture_z": -0.32,
    "capture_readers": 9,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -895,7 +964,7 @@
    ]
   },
   {
-   "n": 33,
+   "n": 35,
    "slug": "above-him",
    "vol": 2,
    "title": "Above Him",
@@ -911,7 +980,7 @@
     "Pace": 1,
     "Sheri": 1
    },
-   "capture_z": 0.26,
+   "capture_z": 0.24,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -922,7 +991,7 @@
    ]
   },
   {
-   "n": 34,
+   "n": 36,
    "slug": "all-the-time",
    "vol": 2,
    "title": "All the Time",
@@ -943,7 +1012,7 @@
     "Marsh": 1,
     "Mercedes": 1
    },
-   "capture_z": 0.26,
+   "capture_z": 0.24,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 1,
@@ -952,7 +1021,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 35,
+   "n": 37,
    "slug": "four",
    "vol": 2,
    "title": "Four",
@@ -969,7 +1038,7 @@
     "Randi": 17,
     "Pace": 3
    },
-   "capture_z": 0.67,
+   "capture_z": 0.66,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -980,7 +1049,7 @@
    ]
   },
   {
-   "n": 36,
+   "n": 38,
    "slug": "outlier",
    "vol": 2,
    "title": "The Outlier",
@@ -998,7 +1067,7 @@
     "Randi": 29,
     "Cassie": 18
    },
-   "capture_z": -0.43,
+   "capture_z": -0.44,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1009,7 +1078,7 @@
    ]
   },
   {
-   "n": 37,
+   "n": 39,
    "slug": "new-ordinary",
    "vol": 2,
    "title": "The New Ordinary",
@@ -1024,7 +1093,7 @@
    "mentions": {
     "Corolla": 1
    },
-   "capture_z": -0.2,
+   "capture_z": -0.21,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1033,7 +1102,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 38,
+   "n": 40,
    "slug": "cropped",
    "vol": 2,
    "title": "Cropped",
@@ -1050,7 +1119,7 @@
     "Pace": 4,
     "Cassie": 11
    },
-   "capture_z": -0.01,
+   "capture_z": -0.02,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1059,7 +1128,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 39,
+   "n": 41,
    "slug": "under-the-rug",
    "vol": 2,
    "title": "Under the Rug",
@@ -1074,7 +1143,7 @@
    "mentions": {
     "Vee": 1
    },
-   "capture_z": 0.11,
+   "capture_z": 0.09,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1083,7 +1152,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 40,
+   "n": 42,
    "slug": "bare",
    "vol": 2,
    "title": "Bare",
@@ -1100,7 +1169,7 @@
     "Randi": 1,
     "Cassie": 6
    },
-   "capture_z": -0.47,
+   "capture_z": -0.48,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1111,7 +1180,7 @@
    ]
   },
   {
-   "n": 41,
+   "n": 43,
    "slug": "believe-me",
    "vol": 2,
    "title": "Believe Me",
@@ -1128,7 +1197,7 @@
     "Pace": 2,
     "Cassie": 1
    },
-   "capture_z": 0.56,
+   "capture_z": 0.54,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1140,7 +1209,7 @@
    ]
   },
   {
-   "n": 42,
+   "n": 44,
    "slug": "fairytale",
    "vol": 2,
    "title": "Fairytale",
@@ -1154,9 +1223,10 @@
    "mentions": {
     "Vee": 18,
     "Randi": 13,
-    "Pace": 8
+    "Pace": 8,
+    "Kentucky": 1
    },
-   "capture_z": -0.08,
+   "capture_z": -0.1,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1165,7 +1235,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 43,
+   "n": 45,
    "slug": "old-acquaintances",
    "vol": 2,
    "title": "Old Acquaintances",
@@ -1183,7 +1253,7 @@
     "Cassie": 1,
     "Sheri": 1
    },
-   "capture_z": -0.45,
+   "capture_z": -0.47,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1192,7 +1262,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 44,
+   "n": 46,
    "slug": "the-usual",
    "vol": 2,
    "title": "The Usual",
@@ -1208,9 +1278,10 @@
     "Randi": 7,
     "Pace": 4,
     "Sheri": 12,
+    "Berkeley": 1,
     "Daphne": 6
    },
-   "capture_z": 0.53,
+   "capture_z": 0.52,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1219,7 +1290,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 45,
+   "n": 47,
    "slug": "my-friend-randi",
    "vol": 2,
    "title": "My Friend Randi",
@@ -1236,12 +1307,14 @@
     "Randi": 58,
     "Pace": 2,
     "Cassie": 4,
-    "Meg": 1,
     "Brooke": 9,
+    "Meg": 1,
     "Sheri": 2,
-    "Kayla": 1
+    "Kayla": 1,
+    "Sloane": 1,
+    "Roanoke": 2
    },
-   "capture_z": 0.52,
+   "capture_z": 0.5,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1250,7 +1323,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 46,
+   "n": 48,
    "slug": "nothing-underneath",
    "vol": 2,
    "title": "Nothing Underneath",
@@ -1270,7 +1343,7 @@
     "Cassie": 2,
     "Kayla": 5
    },
-   "capture_z": 0.67,
+   "capture_z": 0.66,
    "capture_readers": 8,
    "almost_resolved": 4,
    "almost_standing": 0,
@@ -1279,7 +1352,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 47,
+   "n": 49,
    "slug": "missed-a-spot",
    "vol": 3,
    "title": "Missed a Spot",
@@ -1296,7 +1369,7 @@
     "Pace": 1,
     "Kayla": 1
    },
-   "capture_z": 0.52,
+   "capture_z": 0.5,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1305,7 +1378,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 48,
+   "n": 50,
    "slug": "back",
    "vol": 3,
    "title": "Back",
@@ -1327,7 +1400,7 @@
     "Danny": 1,
     "Theo": 2
    },
-   "capture_z": -0.61,
+   "capture_z": -0.63,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1338,7 +1411,7 @@
    ]
   },
   {
-   "n": 49,
+   "n": 51,
    "slug": "unpacking",
    "vol": 3,
    "title": "Unpacking",
@@ -1355,7 +1428,7 @@
     "Pace": 1,
     "Cassie": 18
    },
-   "capture_z": -1.88,
+   "capture_z": -1.91,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1366,13 +1439,13 @@
    ]
   },
   {
-   "n": 50,
+   "n": 52,
    "slug": "across",
    "vol": 3,
    "title": "Across",
    "date": "2027-01-18",
    "gap_days": 1,
-   "words": 1555,
+   "words": 1566,
    "dialogue": 0.32,
    "present": [
     "Vee"
@@ -1387,7 +1460,7 @@
     "Danny": 2,
     "Theo": 1
    },
-   "capture_z": -2.41,
+   "capture_z": -2.45,
    "capture_readers": 8,
    "almost_resolved": 0,
    "almost_standing": 1,
@@ -1398,7 +1471,7 @@
    ]
   },
   {
-   "n": 51,
+   "n": 53,
    "slug": "covering",
    "vol": 3,
    "title": "Covering",
@@ -1416,7 +1489,7 @@
     "Pace": 7,
     "Marsh": 2
    },
-   "capture_z": 0.52,
+   "capture_z": 0.5,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 1,
@@ -1425,7 +1498,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 52,
+   "n": 54,
    "slug": "among-friends",
    "vol": 3,
    "title": "Among Friends",
@@ -1450,7 +1523,7 @@
     "Theo": 6,
     "Virginia": 1
    },
-   "capture_z": 0.52,
+   "capture_z": 0.5,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1459,7 +1532,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 53,
+   "n": 55,
    "slug": "clean-plate",
    "vol": 3,
    "title": "A Clean Plate",
@@ -1480,7 +1553,7 @@
     "Kayla": 1,
     "Marsh": 3
    },
-   "capture_z": 0.67,
+   "capture_z": 0.66,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1489,7 +1562,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 54,
+   "n": 56,
    "slug": "reach",
    "vol": 3,
    "title": "The Reach",
@@ -1506,7 +1579,7 @@
     "Pace": 5,
     "Cassie": 5
    },
-   "capture_z": 0.06,
+   "capture_z": 0.05,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1515,7 +1588,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 55,
+   "n": 57,
    "slug": "my-pleasure",
    "vol": 3,
    "title": "My Pleasure",
@@ -1531,7 +1604,7 @@
     "Randi": 27,
     "Pace": 24
    },
-   "capture_z": 0.67,
+   "capture_z": 0.66,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1540,7 +1613,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 56,
+   "n": 58,
    "slug": "another-round",
    "vol": 3,
    "title": "Another Round",
@@ -1560,9 +1633,10 @@
     "Sheri": 30,
     "Kayla": 1,
     "Danny": 1,
+    "Roanoke": 1,
     "Virginia": 1
    },
-   "capture_z": -0.08,
+   "capture_z": -0.1,
    "capture_readers": 8,
    "almost_resolved": 1,
    "almost_standing": 0,
@@ -1571,7 +1645,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 57,
+   "n": 59,
    "slug": "hangover",
    "vol": 3,
    "title": "Hangover",
@@ -1595,7 +1669,7 @@
     "Virginia": 1,
     "Daphne": 3
    },
-   "capture_z": -0.2,
+   "capture_z": -0.21,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1604,7 +1678,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 58,
+   "n": 60,
    "slug": "between",
    "vol": 3,
    "title": "Between",
@@ -1624,7 +1698,7 @@
     "Sondra": 2,
     "Draper": 2
    },
-   "capture_z": 0.06,
+   "capture_z": 0.05,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 0,
@@ -1633,7 +1707,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 59,
+   "n": 61,
    "slug": "barely-stings",
    "vol": 3,
    "title": "Barely Stings",
@@ -1650,7 +1724,7 @@
     "Sondra": 11,
     "Draper": 1
    },
-   "capture_z": 0.06,
+   "capture_z": 0.05,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1662,7 +1736,7 @@
    ]
   },
   {
-   "n": 60,
+   "n": 62,
    "slug": "still-life",
    "vol": 3,
    "title": "Still Life",
@@ -1680,7 +1754,7 @@
     "Pace": 36,
     "Sondra": 1
    },
-   "capture_z": 0.19,
+   "capture_z": 0.17,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1689,7 +1763,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 61,
+   "n": 63,
    "slug": "on-her-floor",
    "vol": 3,
    "title": "On Her Floor",
@@ -1709,7 +1783,7 @@
     "Brooke": 5,
     "Harrison": 4
    },
-   "capture_z": 0.79,
+   "capture_z": 0.77,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1718,7 +1792,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 62,
+   "n": 64,
    "slug": "boyfriend",
    "vol": 3,
    "title": "Boyfriend",
@@ -1740,7 +1814,7 @@
     "Corolla": 1,
     "Marsh": 1
    },
-   "capture_z": 0.93,
+   "capture_z": 0.91,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1749,7 +1823,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 63,
+   "n": 65,
    "slug": "coming-due",
    "vol": 3,
    "title": "Coming Due",
@@ -1770,7 +1844,7 @@
     "Cassie": 3,
     "Marsh": 5
    },
-   "capture_z": -0.08,
+   "capture_z": -0.1,
    "capture_readers": 8,
    "almost_resolved": 3,
    "almost_standing": 0,
@@ -1779,7 +1853,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 64,
+   "n": 66,
    "slug": "some-of-mine",
    "vol": 3,
    "title": "Some of Mine",
@@ -1796,7 +1870,7 @@
     "Randi": 2,
     "Cassie": 10
    },
-   "capture_z": -1.26,
+   "capture_z": -1.28,
    "capture_readers": 8,
    "almost_resolved": 2,
    "almost_standing": 1,
@@ -1808,13 +1882,13 @@
    ]
   },
   {
-   "n": 65,
+   "n": 67,
    "slug": "inversion",
    "vol": 3,
    "title": "Inversion",
    "date": "2027-02-04",
    "gap_days": 2,
-   "words": 5633,
+   "words": 5638,
    "dialogue": 0.11,
    "present": [
     "Randi",
@@ -1822,24 +1896,25 @@
    ],
    "mentions": {
     "Vee": 37,
-    "Randi": 57,
+    "Randi": 58,
     "Pace": 3,
-    "Brooke": 30,
+    "Brooke": 31,
     "Harrison": 2,
     "Marsh": 1,
-    "Kinsey": 4,
+    "Sloane": 6,
+    "Kinsey": 1,
     "Caroline": 7
    },
-   "capture_z": 0.67,
-   "capture_readers": 8,
-   "almost_resolved": 2,
+   "capture_z": 0.68,
+   "capture_readers": 6,
+   "almost_resolved": 1,
    "almost_standing": 0,
    "cold_drag": 0,
    "cold_readers": 4,
    "cold_drag_models": []
   },
   {
-   "n": 66,
+   "n": 68,
    "slug": "gesso",
    "vol": 3,
    "title": "Gesso",
@@ -1857,8 +1932,8 @@
     "Sondra": 2,
     "Corolla": 2
    },
-   "capture_z": 0.56,
-   "capture_readers": 8,
+   "capture_z": 0.62,
+   "capture_readers": 7,
    "almost_resolved": 2,
    "almost_standing": 1,
    "cold_drag": 0,
@@ -1866,7 +1941,7 @@
    "cold_drag_models": []
   },
   {
-   "n": 67,
+   "n": 69,
    "slug": "grace",
    "vol": 3,
    "title": "Grace",
@@ -1881,9 +1956,9 @@
    "mentions": {
     "Pace": 3
    },
-   "capture_z": 0.42,
-   "capture_readers": 8,
-   "almost_resolved": 2,
+   "capture_z": 0.4,
+   "capture_readers": 3,
+   "almost_resolved": 1,
    "almost_standing": 0,
    "cold_drag": 1,
    "cold_readers": 4,
@@ -1895,267 +1970,339 @@
  "volumes": {
   "1": {
    "Vee": {
-    "chapters": 16,
-    "of": 22,
-    "total": 439,
+    "chapters": 19,
+    "of": 25,
+    "total": 480,
     "first": 3,
-    "last": 22,
+    "last": 25,
     "longest_gap": 2,
     "gap_ends": 2
    },
    "Randi": {
-    "chapters": 15,
-    "of": 22,
-    "total": 317,
+    "chapters": 18,
+    "of": 25,
+    "total": 348,
     "first": 1,
-    "last": 22,
+    "last": 25,
     "longest_gap": 3,
     "gap_ends": 13
    },
    "Pace": {
-    "chapters": 17,
-    "of": 22,
-    "total": 61,
+    "chapters": 19,
+    "of": 25,
+    "total": 68,
     "first": 1,
-    "last": 22,
+    "last": 25,
     "longest_gap": 2,
     "gap_ends": 8
    },
    "Cassie": {
-    "chapters": 9,
-    "of": 22,
-    "total": 164,
+    "chapters": 10,
+    "of": 25,
+    "total": 176,
     "first": 4,
-    "last": 20,
+    "last": 24,
     "longest_gap": 4,
     "gap_ends": 14
    },
+   "Brooke": {
+    "chapters": 8,
+    "of": 25,
+    "total": 34,
+    "first": 1,
+    "last": 25,
+    "longest_gap": 6,
+    "gap_ends": 8
+   },
    "Meg": {
     "chapters": 3,
-    "of": 22,
+    "of": 25,
     "total": 14,
     "first": 4,
     "last": 12,
-    "longest_gap": 10,
-    "gap_ends": 22
-   },
-   "Brooke": {
-    "chapters": 4,
-    "of": 22,
-    "total": 25,
-    "first": 1,
-    "last": 15,
-    "longest_gap": 7,
-    "gap_ends": 22
+    "longest_gap": 13,
+    "gap_ends": 25
    },
    "Kayla": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 17,
     "first": 12,
     "last": 12,
-    "longest_gap": 11,
-    "gap_ends": 11
+    "longest_gap": 13,
+    "gap_ends": 25
    },
    "Danny": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 1,
     "first": 12,
     "last": 12,
-    "longest_gap": 11,
-    "gap_ends": 11
+    "longest_gap": 13,
+    "gap_ends": 25
    },
    "Theo": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 7,
     "first": 12,
     "last": 12,
-    "longest_gap": 11,
-    "gap_ends": 11
+    "longest_gap": 13,
+    "gap_ends": 25
    },
    "Corolla": {
     "chapters": 2,
-    "of": 22,
+    "of": 25,
     "total": 2,
     "first": 15,
-    "last": 22,
+    "last": 23,
     "longest_gap": 14,
     "gap_ends": 14
    },
-   "Kinsey": {
+   "Sloane": {
     "chapters": 1,
-    "of": 22,
-    "total": 7,
+    "of": 25,
+    "total": 6,
     "first": 2,
     "last": 2,
-    "longest_gap": 20,
+    "longest_gap": 23,
+    "gap_ends": 25
+   },
+   "Berkeley": {
+    "chapters": 3,
+    "of": 25,
+    "total": 5,
+    "first": 23,
+    "last": 25,
+    "longest_gap": 22,
     "gap_ends": 22
+   },
+   "Kentucky": {
+    "chapters": 4,
+    "of": 25,
+    "total": 5,
+    "first": 1,
+    "last": 25,
+    "longest_gap": 12,
+    "gap_ends": 15
+   },
+   "Kinsey": {
+    "chapters": 2,
+    "of": 25,
+    "total": 10,
+    "first": 2,
+    "last": 18,
+    "longest_gap": 15,
+    "gap_ends": 17
    },
    "Draper": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 4,
     "first": 4,
     "last": 4,
-    "longest_gap": 18,
-    "gap_ends": 22
+    "longest_gap": 21,
+    "gap_ends": 25
    },
    "Paris": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 1,
     "first": 4,
     "last": 4,
-    "longest_gap": 18,
-    "gap_ends": 22
+    "longest_gap": 21,
+    "gap_ends": 25
    },
    "Mercedes": {
     "chapters": 2,
-    "of": 22,
+    "of": 25,
     "total": 2,
     "first": 15,
-    "last": 20,
+    "last": 21,
     "longest_gap": 14,
     "gap_ends": 14
    },
+   "Roanoke": {
+    "chapters": 1,
+    "of": 25,
+    "total": 1,
+    "first": 16,
+    "last": 16,
+    "longest_gap": 15,
+    "gap_ends": 15
+   },
    "Virginia": {
     "chapters": 1,
-    "of": 22,
+    "of": 25,
     "total": 1,
-    "first": 20,
-    "last": 20,
-    "longest_gap": 19,
-    "gap_ends": 19
+    "first": 21,
+    "last": 21,
+    "longest_gap": 20,
+    "gap_ends": 20
    },
    "Daphne": {
     "chapters": 2,
-    "of": 22,
+    "of": 25,
     "total": 2,
     "first": 1,
-    "last": 22,
-    "longest_gap": 20,
-    "gap_ends": 21
+    "last": 23,
+    "longest_gap": 21,
+    "gap_ends": 22
    }
   },
   "2": {
    "Vee": {
-    "chapters": 21,
-    "of": 24,
-    "total": 355,
-    "first": 23,
-    "last": 46,
+    "chapters": 20,
+    "of": 23,
+    "total": 346,
+    "first": 26,
+    "last": 48,
     "longest_gap": 1,
-    "gap_ends": 29
+    "gap_ends": 31
    },
    "Randi": {
-    "chapters": 19,
-    "of": 24,
-    "total": 349,
-    "first": 23,
-    "last": 46,
+    "chapters": 18,
+    "of": 23,
+    "total": 346,
+    "first": 26,
+    "last": 48,
     "longest_gap": 3,
-    "gap_ends": 39
+    "gap_ends": 41
    },
    "Pace": {
-    "chapters": 17,
-    "of": 24,
-    "total": 67,
-    "first": 23,
-    "last": 46,
+    "chapters": 16,
+    "of": 23,
+    "total": 65,
+    "first": 26,
+    "last": 48,
     "longest_gap": 2,
-    "gap_ends": 37
+    "gap_ends": 31
    },
    "Cassie": {
-    "chapters": 14,
-    "of": 24,
-    "total": 86,
-    "first": 23,
-    "last": 46,
+    "chapters": 13,
+    "of": 23,
+    "total": 76,
+    "first": 26,
+    "last": 48,
     "longest_gap": 2,
-    "gap_ends": 26
-   },
-   "Meg": {
-    "chapters": 2,
-    "of": 24,
-    "total": 9,
-    "first": 23,
-    "last": 45,
-    "longest_gap": 21,
-    "gap_ends": 44
+    "gap_ends": 29
    },
    "Brooke": {
     "chapters": 3,
-    "of": 24,
+    "of": 23,
     "total": 14,
-    "first": 24,
-    "last": 45,
-    "longest_gap": 19,
-    "gap_ends": 44
+    "first": 27,
+    "last": 47,
+    "longest_gap": 18,
+    "gap_ends": 46
+   },
+   "Meg": {
+    "chapters": 2,
+    "of": 23,
+    "total": 9,
+    "first": 26,
+    "last": 47,
+    "longest_gap": 20,
+    "gap_ends": 46
    },
    "Sheri": {
     "chapters": 5,
-    "of": 24,
+    "of": 23,
     "total": 24,
-    "first": 25,
-    "last": 45,
+    "first": 28,
+    "last": 47,
     "longest_gap": 9,
-    "gap_ends": 42
+    "gap_ends": 44
    },
    "Kayla": {
     "chapters": 2,
-    "of": 24,
+    "of": 23,
     "total": 6,
-    "first": 45,
-    "last": 46,
-    "longest_gap": 22,
-    "gap_ends": 44
+    "first": 47,
+    "last": 48,
+    "longest_gap": 21,
+    "gap_ends": 46
    },
    "Corolla": {
     "chapters": 2,
-    "of": 24,
+    "of": 23,
     "total": 2,
-    "first": 34,
-    "last": 37,
-    "longest_gap": 11,
-    "gap_ends": 33
+    "first": 36,
+    "last": 39,
+    "longest_gap": 10,
+    "gap_ends": 35
    },
    "Marsh": {
     "chapters": 1,
-    "of": 24,
+    "of": 23,
     "total": 1,
-    "first": 34,
-    "last": 34,
+    "first": 36,
+    "last": 36,
     "longest_gap": 12,
+    "gap_ends": 48
+   },
+   "Sloane": {
+    "chapters": 1,
+    "of": 23,
+    "total": 1,
+    "first": 47,
+    "last": 47,
+    "longest_gap": 21,
     "gap_ends": 46
+   },
+   "Berkeley": {
+    "chapters": 1,
+    "of": 23,
+    "total": 1,
+    "first": 46,
+    "last": 46,
+    "longest_gap": 20,
+    "gap_ends": 45
+   },
+   "Kentucky": {
+    "chapters": 1,
+    "of": 23,
+    "total": 1,
+    "first": 44,
+    "last": 44,
+    "longest_gap": 18,
+    "gap_ends": 43
    },
    "Paris": {
     "chapters": 1,
-    "of": 24,
+    "of": 23,
     "total": 3,
-    "first": 24,
-    "last": 24,
-    "longest_gap": 22,
-    "gap_ends": 46
+    "first": 27,
+    "last": 27,
+    "longest_gap": 21,
+    "gap_ends": 48
    },
    "Mercedes": {
     "chapters": 2,
-    "of": 24,
+    "of": 23,
     "total": 2,
-    "first": 31,
-    "last": 34,
+    "first": 33,
+    "last": 36,
     "longest_gap": 12,
+    "gap_ends": 48
+   },
+   "Roanoke": {
+    "chapters": 1,
+    "of": 23,
+    "total": 2,
+    "first": 47,
+    "last": 47,
+    "longest_gap": 21,
     "gap_ends": 46
    },
    "Daphne": {
     "chapters": 1,
-    "of": 24,
+    "of": 23,
     "total": 6,
-    "first": 44,
-    "last": 44,
-    "longest_gap": 21,
-    "gap_ends": 43
+    "first": 46,
+    "last": 46,
+    "longest_gap": 20,
+    "gap_ends": 45
    }
   },
   "3": {
@@ -2163,172 +2310,190 @@
     "chapters": 18,
     "of": 21,
     "total": 540,
-    "first": 48,
-    "last": 66,
+    "first": 50,
+    "last": 68,
     "longest_gap": 1,
-    "gap_ends": 47
+    "gap_ends": 49
    },
    "Randi": {
     "chapters": 19,
     "of": 21,
-    "total": 554,
-    "first": 47,
-    "last": 66,
+    "total": 555,
+    "first": 49,
+    "last": 68,
     "longest_gap": 1,
-    "gap_ends": 49
+    "gap_ends": 51
    },
    "Pace": {
     "chapters": 18,
     "of": 21,
     "total": 160,
-    "first": 47,
-    "last": 67,
+    "first": 49,
+    "last": 69,
     "longest_gap": 1,
-    "gap_ends": 59
+    "gap_ends": 61
    },
    "Cassie": {
     "chapters": 11,
     "of": 21,
     "total": 70,
-    "first": 48,
-    "last": 64,
+    "first": 50,
+    "last": 66,
     "longest_gap": 3,
-    "gap_ends": 60
+    "gap_ends": 62
+   },
+   "Brooke": {
+    "chapters": 2,
+    "of": 21,
+    "total": 36,
+    "first": 63,
+    "last": 67,
+    "longest_gap": 14,
+    "gap_ends": 62
    },
    "Meg": {
     "chapters": 7,
     "of": 21,
     "total": 34,
-    "first": 48,
-    "last": 58,
+    "first": 50,
+    "last": 60,
     "longest_gap": 9,
-    "gap_ends": 67
-   },
-   "Brooke": {
-    "chapters": 2,
-    "of": 21,
-    "total": 35,
-    "first": 61,
-    "last": 65,
-    "longest_gap": 14,
-    "gap_ends": 60
+    "gap_ends": 69
    },
    "Sheri": {
     "chapters": 2,
     "of": 21,
     "total": 37,
-    "first": 56,
-    "last": 57,
+    "first": 58,
+    "last": 59,
     "longest_gap": 10,
-    "gap_ends": 67
+    "gap_ends": 69
    },
    "Kayla": {
     "chapters": 7,
     "of": 21,
     "total": 37,
-    "first": 47,
-    "last": 57,
+    "first": 49,
+    "last": 59,
     "longest_gap": 10,
-    "gap_ends": 67
+    "gap_ends": 69
    },
    "Danny": {
     "chapters": 4,
     "of": 21,
     "total": 13,
-    "first": 48,
-    "last": 56,
+    "first": 50,
+    "last": 58,
     "longest_gap": 11,
-    "gap_ends": 67
+    "gap_ends": 69
    },
    "Theo": {
     "chapters": 4,
     "of": 21,
     "total": 10,
-    "first": 48,
-    "last": 57,
+    "first": 50,
+    "last": 59,
     "longest_gap": 10,
-    "gap_ends": 67
+    "gap_ends": 69
    },
    "Sondra": {
     "chapters": 5,
     "of": 21,
     "total": 17,
-    "first": 58,
-    "last": 66,
+    "first": 60,
+    "last": 68,
     "longest_gap": 11,
-    "gap_ends": 57
+    "gap_ends": 59
    },
    "Harrison": {
     "chapters": 3,
     "of": 21,
     "total": 10,
-    "first": 61,
-    "last": 65,
+    "first": 63,
+    "last": 67,
     "longest_gap": 14,
-    "gap_ends": 60
+    "gap_ends": 62
    },
    "Corolla": {
     "chapters": 2,
     "of": 21,
     "total": 3,
-    "first": 62,
-    "last": 66,
+    "first": 64,
+    "last": 68,
     "longest_gap": 15,
-    "gap_ends": 61
+    "gap_ends": 63
    },
    "Marsh": {
     "chapters": 5,
     "of": 21,
     "total": 12,
-    "first": 51,
-    "last": 65,
+    "first": 53,
+    "last": 67,
     "longest_gap": 8,
-    "gap_ends": 61
+    "gap_ends": 63
+   },
+   "Sloane": {
+    "chapters": 1,
+    "of": 21,
+    "total": 6,
+    "first": 67,
+    "last": 67,
+    "longest_gap": 18,
+    "gap_ends": 66
    },
    "Kinsey": {
     "chapters": 1,
     "of": 21,
-    "total": 4,
-    "first": 65,
-    "last": 65,
+    "total": 1,
+    "first": 67,
+    "last": 67,
     "longest_gap": 18,
-    "gap_ends": 64
+    "gap_ends": 66
    },
    "Caroline": {
     "chapters": 1,
     "of": 21,
     "total": 7,
-    "first": 65,
-    "last": 65,
+    "first": 67,
+    "last": 67,
     "longest_gap": 18,
-    "gap_ends": 64
+    "gap_ends": 66
    },
    "Draper": {
     "chapters": 2,
     "of": 21,
     "total": 3,
-    "first": 58,
-    "last": 59,
+    "first": 60,
+    "last": 61,
     "longest_gap": 11,
-    "gap_ends": 57
+    "gap_ends": 59
+   },
+   "Roanoke": {
+    "chapters": 1,
+    "of": 21,
+    "total": 1,
+    "first": 58,
+    "last": 58,
+    "longest_gap": 11,
+    "gap_ends": 69
    },
    "Virginia": {
     "chapters": 3,
     "of": 21,
     "total": 3,
-    "first": 52,
-    "last": 57,
+    "first": 54,
+    "last": 59,
     "longest_gap": 10,
-    "gap_ends": 67
+    "gap_ends": 69
    },
    "Daphne": {
     "chapters": 1,
     "of": 21,
     "total": 3,
-    "first": 57,
-    "last": 57,
+    "first": 59,
+    "last": 59,
     "longest_gap": 10,
-    "gap_ends": 56
+    "gap_ends": 58
    }
   }
  }
