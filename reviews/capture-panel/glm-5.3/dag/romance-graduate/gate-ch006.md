@@ -1,31 +1,34 @@
-*capture-dag-v3-grounded · gate ch006 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 01e53a9c1066 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed a11cd184f0b2 · 2026-11-22*
+*capture-dag-v3-grounded · gate ch006 · glm-5.3 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 3a47d23877f3 · dated · memory grounded: facts none + raw ch001..ch005 · history ch001..ch005 · ledger no seed a11cd184f0b2 · 2026-11-23*
 
 REACTION
 
-Oh, this chapter. I need to talk about the wine first, because the wine is everything. He poured one glass — one — left it to open while he waited for her, and didn't pour himself any. "Everything he was going to have of it he was going to have like this." He's going to drink the wine out of her mouth. That's the most Pace thing this book has done: he takes the kiss with the tannin in it and I sat there thinking about how the whole relationship is in that glass. She feeds him her experience secondhand. He'll never have Vee directly — that's Randi's job now, Randi is the glass.
+I need a minute. That chapter did something to me.
 
-And Randi in the car. That opening section is the first time we've been inside her *want* while it's pointed at Vee, and it's filthy and it's telling. She's masturbating, basically, in narrative form — driving over wet, having built the whole scene of the bra coming off, Randi's own hands catching the weight of Vee's breasts, turning them to him, *Here.* She put HERSELF in the fantasy, as the one undressing Vee FOR Pace. That's so exactly her: she can't yet imagine having Vee for herself, so she casts herself as the priestess, the one who presents the offering. The freckles counting down into the shadow between her breasts and disappearing — she noticed that in the stats row, from two seats away, while playing the warm friend. The eye that "sorted every girl it met" finally finding nowhere to put this one.
+The whole drive is one of the best pieces of interiority this book has done. Randi reliving the bench while she drives — the grips, the *please*, "*there you are*" — and I realized what the author is doing: she's not remembering it as fear or shame anymore, she's remembering it as *arousal*. The thing she decided in the bathroom never happened has become the material she gets off to. And then the pivot — the memory of Vee's cardigan falling open in the stats row, the freckles thinning down into shadow — and I watched the book do something I should have seen coming: Randi is building her own bench fantasy with Vee in it. The whole imagined scene — Randi's hands catching the weight of Vee's breasts, *held up in Randi's two hands and turned to him. Here.* — is the first time we've been inside Randi's want at full strength, unarmored, and it's *her* directing the image, she's the one holding Vee up for him. "For him. And for what he would do to her." She's both hands of this operation and the third participant in her own head.
 
-The "tell me" scene is the best dialogue this book has done. Two people using a debrief as foreplay and both knowing it. "She built a cup, like nobody had ever told her when to stop" — he's answering her hunger with Vee's appetite, feeding the froyo detail straight into her body, and he KNOWS that's what he's doing. The thighs tightening under his hands. And then — the moment that gutted me: "Did she make you laugh?" "No. I made her laugh." That question wasn't flirtation. That was Randi checking something, and his answer told her Vee didn't get the real thing, the intimacy thing, the thing that's theirs. And then she goes quiet. The thighs *set* instead of tightening. He reads it as "wanting, held" — and he might be right, but I've been inside Randi's head and I don't think that's all it is. He kept Vee's confession to himself ("it was hers") — good, that's his one genuinely decent note — but he *told Randi about it later* is what I'm afraid of, or worse, Randi clocked that he was withholding. "I already do" — easy and bright — is Randi's face going back on. He thinks she's holding the want level. I think she's holding something else level.
+The "tell me" scene is the hottest thing since chapter one and there's barely any touching in it. Wine in the mouth, tannin on his lips, "she built a cup, like nobody had ever told her when to stop" — Pace narrating Vee's appetite while Randi grinds on him — this is the threesome happening in the living room while Vee is home alone in her dorm, unaware. The cup detail is devastating: he's telling Randi the froyo story because it's the same hunger he clocked in chapter one with the apple, and Randi's body answers it before her face can catch up. "Did she eat all of it?" — that's not a wingman question, that's hunger talking about hunger.
 
-Also: he thought about Vee's embarrassing confession on the walk and DID NOT hand it over to Randi. I actually cheered. It's the first time he's kept a door shut on his own — the Daphne lesson doing its work. But it's also chilling, because the fact that he has to *decide* to keep it tells me how natural the telling would be.
+But the beat that got me deepest is the small cruelty at the center: "No, I made her laugh" — and then he *keeps the true thing back. The "nicest a person has been to me in a really long time." He protects Vee's confession. That's the Daphne lesson operating, him honoring a closed door — but it also means Pace is starting to have private things with Vee that he doesn't route through Randi. And Randi felt the silence. "Randi went quiet under his hands... the wanting, held." The book just quietly told me the game has a crack in it: two people who each want Vee separately, and neither has said so.
 
-The structure of this book is becoming its own kink: the reader knows what Vee doesn't, and now Randi is getting off on knowing it too. The whole drive-scene is literary erotica about *gossip*. The tannin on his tongue is Vee, secondhand, and I felt that in my stomach.
+And she noticed he hasn't drunk the wine — "he had not had a drop of it. He could taste nothing else." He gave her everything of the evening through his mouth and the whole thing is Pace getting Randi drunk on Vee while sober himself. This book keeps being *about* feeding appetite while rationing your own.
+
+I have one grumble and it's small: Pace's pleased-with-himself narration flickered here and there ("he was glad of it, plainly"), but he earned it less than usual because this chapter is mostly Randi's. Give me Randi's POV every time.
 
 GATE 6 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi's car fantasy recast herself as the one presenting Vee to Pace — the wanting has nowhere honest to go and the wine-kiss scene made secondhand experience the actual erotic engine. Heat and psychological damage in one glass of red wine. I need the first real date and I need it now.
+WHY: The bench flashbacks plus the "tell me" scene is the most charged chapter since chapter one — the couple is already having Vee between them, and Pace withholding Vee's confession planted the first real fault line. I need to see how long the two of them can want the same girl separately before it breaks.
 
 LEDGER
-+ FEAR: that Randi's arousal and her rivalry are the same organ — "did she make you laugh" was a check, and his answer bought Vee a little safety; someday the answer will be yes
-~ F1.1 SHIFTED: the tenderness machine keeps running — he kept Vee's confession to himself, which is the first door he's held shut voluntarily; the capture is getting gentler and that's worse
-~ L1.2 DEEPENED: Randi — the car scene put her want on the page at last, and it's enormous and self-erasing; she casts herself as priestess because she can't cast herself as lover
-~ S3.3 DEEPENED: Pace still thinks he's reading her accurately ("the wanting, held") — I think he's reading the outside of her; the thighs setting instead of tightening was not held want, it was recalibration
-~ F3.1 DEEPENED: Vee is now erotic currency between them — being consumed in absentia in a scene she'd die of shame to know about
-+ GRUDGE: Pace narrating his own withholding as nobility while running the whole operation — the smugness now has a chivalrous costume
-+ WAITING: the first real date / the three of them in a room together — the blurb's "randi and Pace are lovers" machinery is fully assembled; I want to see the gears touch Vee
++ FEAR: that Randi and Pace are each forming a private Vee — Pace kept Vee's confession to himself, and two people building separate rooms around the same girl means someone gets shut out
++ LOVE: drunk-driving Randi composing the scene in her head — her wanting Vee is no longer sublimated, it's fully lit, and it's the most honest she's been all book
++ GRUDGE: Pace rationing himself the wine — feeding her the girl sober; I both love him and want someone to catch him at it
+~ F3.1 DEEPENED: the handling has gone full circle — the couple is now sharing Vee as material, and Vee is home in her dorm while her date is retold as foreplay
+~ F5.1 CONFIRMED: Vee fell for the technique and tonight it got literal — Pace is protecting her vulnerability (her confession) while deploying it; the kindness is real and the script is under it
+~ L1.2 SHIFTED: Randi's want is out from behind the face — she's not just running the game anymore, she's *in* it
+~ S3.3 DEEPENED: Pace held back Vee's "nicest a person" confession from Randi — he's starting his own private Vee file, which neither of them planned
+~ W5.4 SHIFTED: the first date happened offscreen and I'm fine — the froyo walk was delivered to us *through* Randi's wanting, which is how this book should deliver it
