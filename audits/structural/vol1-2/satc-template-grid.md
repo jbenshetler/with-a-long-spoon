@@ -245,7 +245,7 @@ Author rulings 2026-11-22/23, Groups R and C.
   (`my-friend-randi.md:165`).
 - **39** "Love you, girl": See You Later's spoken line restored
   (`see-you-later.md:131`), the early coin; Fed's "because I love you" kept. Both
-  are recorded exceptions to no *love* before mid-fall (`meta-plan-satc-tracks.md:119`).
+  are recorded exceptions to no *love* before mid-fall (`meta-plan-satc-tracks.md:119`). The replaced "You're a total fox, you know that?" (praised by three capture lanes) moves into the hour, at the high table (`see-you-later.md:117`), and joins what Vee keeps at `:137`.
 - **40** dinners ahead of time: kept.
 - **41** under the composites: kept; Brooke's "You always say goodbye under the
   composites" (`my-friend-randi.md:213`) rests on it.

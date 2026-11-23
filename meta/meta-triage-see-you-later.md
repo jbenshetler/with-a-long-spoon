@@ -189,3 +189,7 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   turn to Randi ("Then chairs were scraping and bags were zipping, and Vee turned to see
   whether Randi was getting up."). Supersedes the 2026-09-26 "underlining-once-going-nowhere
   stays." The term remains for the rereader; nothing on the page points at it.
+
+## Fox line — 2026-11-23
+
+- "You're a total fox, you know that?" moves from the parting to the high table (`:117`), with "Vee laughed, and the heat came up her neck"; the parting keeps "*Love you, girl.*" (`:131`). What she keeps at `:137` becomes *a total fox,* *love you, girl,* *see you later*.
