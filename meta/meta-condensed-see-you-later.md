@@ -26,7 +26,7 @@ Vee scans the room in the pointing-game's grading grammar, now run by *her* eye:
 
 The high table by the window (the *display* posture; Vee finally gets to sit up there). Then **the content-evaporation beat:** Vee hangs on every word and afterward cannot reconstruct one — she kept the *feeling* of being chosen, not the transcript; best hour in months, blank on what was said.
 
-Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her shoulder blades, **"You're a total fox, you know that? … See you later"** (was *"Love you, girl"* (author ruling 2026-11-17)) — the *see you later* as scheduled-fact that leaves Vee spinning. Close on Vee warm and amnesiac the whole walk home; Cassie's *goodbye* already smoothed flat and forgotten.
+Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her shoulder blades, **"Love you, girl … See you later"** (the one early *love*, said as the hostess's coin before it is meant; author ruling 2026-11-22) — the *see you later* as scheduled-fact that leaves Vee spinning. Close on Vee warm and amnesiac the whole walk home; Cassie's *goodbye* already smoothed flat and forgotten.
 
 ## Beat Map
 

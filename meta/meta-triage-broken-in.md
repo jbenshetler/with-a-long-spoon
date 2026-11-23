@@ -302,3 +302,13 @@ Lines with heavy reader praise whose criticism does not rise above NOISE under t
 ## Fact audit — gpt-5.6-sol, 2026-11-14 (author rulings)
 
 - **Left standing: `:69` "whether his *services* ended at the door, or carried on inside"** — flagged against the words actually said at `lesson.md:173` ("Does your *service* include getting the girls home safe from here, too?"). Author: the retelling is shame inflating the memory; Randi's "wince of a friend hearing the worst available version" (`:71`) marks it. Do not re-litigate.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:83** "did the thing she did, which was take… turn… show" → "took… turned… showed".
+- Left standing: "gave back nothing but more warmth" (`:35`); "Randi didn't say anything for a moment" (`:75`); "the small second press after it" (`:203`).
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **42:** "You sleep," cut (`:99`); "Tomorrow night" already gives her the night. My Friend Randi keeps the sleep advice.

@@ -4,7 +4,7 @@ The morning had teeth in it, and Vee came in out of the cold with her eyes still
 
 A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?" and when Vee said she was meeting someone the girl's face cleared. "Oh, she's already here. Back porch, come on." Vee was on time; she'd checked. She followed the girl down between the tables a half-step behind the morning.
 
-Randi was at the table against the glass with her gold sunglasses pushed up into her black hair, and when she saw Vee her whole face came on, warm and sure, as though of all the people and all the mornings this was the one she had been keeping the table for. "There's my girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
+Randi was at the table against the glass, and when she saw Vee it was as though of all the people and all the mornings this was the one she had been keeping the table for. "Hello, girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
 
 The waiter came, and Vee did not reach for the drinks card. She had the room's measure now, or the one mercy in it her budget cared about: a mimosa was the cheapest yes on the card, and no one needed to know that was why. "Mimosa, please," she said, light, as though she had ordered a thousand of them. Something pleased moved over Randi's face. "Two," she said, and never opened the wine list, and that was all it took, the both of them the same, the same drink, the same easy morning, and something small in Vee sat up and warmed itself at it.
 
@@ -36,7 +36,7 @@ Randi shrieked, the real article, throwing both hands in the air, the next table
 
 "And he spanked me."
 
-"You just yada-yada'd straight past the good part." Randi narrowed her eyes, fond, relentless. "How does a girl get from a pantsing to a bare bottom. Walk me."
+"You just yada-yada'd straight past the good part." Randi narrowed her eyes, fond, relentless. "How does a girl get from a pantsing to a bare bottom? Walk me."
 
 Vee's face was warming and the light would have it whole, every degree of it, the way it had Randi's bare honest skin. "I lost a bet."
 
@@ -88,7 +88,7 @@ Vee's eyes had gone past her, out into the burning glass. "He made me strip. Slo
 
 "Uh-huh." It came out small, because it was true in the present tense, here, in the sun, across the little table, and the heels and the covers and the looked-at feeling would not put themselves away, and the porch was abruptly far too bright and far too full of people to be a body in.
 
-"And did he take care of your fire?" Randi asked, light as anything.
+"And did he take care of your fire?" Randi asked.
 
 "He did." It was all Vee trusted herself to say, because the *how* of it was suddenly there too, the dark and the weight of him and the way she had gone all the way down into it without a single denial left, and her face did something she couldn't call back and Randi watched it do the thing with frank, open pleasure.
 
@@ -104,7 +104,7 @@ Her body answered the phrase straight off, and she pressed the heel of her hand 
 
 "Ugh."
 
-"It would have been," Randi said, "if I weren't perfectly willing to take care of myself."
+"Only if I let it," Randi said. "And I am perfectly willing to take care of myself."
 
 Vee's mouth had gone dry. "In a strange bedroom? Anyone could have walked in."
 

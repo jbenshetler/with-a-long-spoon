@@ -138,7 +138,7 @@ Randi's breath went out of her, soft.
 
 Randi's foot flexed in her hands.
 
-"Well." Randi's mouth curled. "If you had enough gesso to paint with, sweetie, I'd say the canvas was ready." Her brows went up, innocent as milk. "And did it do its job? The — ahem — gesso. Was it sticky enough?"
+"Well." Randi's mouth curled. "If you had enough gesso to paint with, baby, I'd say the canvas was ready." Her brows went up, innocent as milk. "And did it do its job? The — ahem — gesso. Was it sticky enough?"
 
 Vee laughed, the awful helpless kind, her whole face in flames, and pulled Randi's foot further into her lap as if it were something to hold on to.
 

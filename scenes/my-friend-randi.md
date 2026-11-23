@@ -28,11 +28,11 @@ The room was dark. Cassie's side was stripped and bare, her family off in anothe
 
 The girl who opened the door was one Vee didn't know, a blonde with wet hair, and she took in Vee's face, the swollen eyes and the evidence of it, with the quick calculation of someone deciding whether a crisis was hers. "I'll get her," she said, and went.
 
-Brooke came through before Randi did. She always seemed to be passing through. "Oh, honey." The warmth arrived ahead of the chapter president. Brooke saw the crying and the plane-creased clothes and gave back nothing but more warmth. "Are you okay? Do you need anything?" It was the kindest anyone had spoken to her since the plane, and Vee shrank inside her coat. "I'm okay," she said, which the whole room could see was a lie, and she held the rest of it behind her teeth, because whatever this was, it was not for down here.
+Brooke came through before Randi did. She always seemed to be passing through. "Oh, sweetie." The warmth arrived ahead of the chapter president. Brooke saw the crying and the plane-creased clothes and only got warmer. "Are you okay? Do you need anything?" It was the kindest anyone had spoken to her since the plane, and Vee shrank inside her coat. "I'm okay," she said, which the whole room could see was a lie, and she held the rest of it behind her teeth, because whatever this was, it was not for down here.
 
 Then Randi was on the stairs, coming down them fast the moment she saw the state of her, quick and light, and she had Vee by the arm before Brooke could ask again. "Up the stairs," she said, low, already turning her toward them. "Come on. Up." And she got her out of the front hall and away from the eyes, and Vee felt them file her as she went, the stats friend, and let herself be moved, wanting nothing but to be somewhere with a door that shut.
 
-Up the narrow stairs, the door shut, and Randi's arms came around her before either of them had said a word, and Vee went in and came apart. Vee had missed Randi badly, the whole flat break with only the one midnight text laid across it, and she both needed this and took it. It was a big hug and a long one, and Vee cried into her shoulder and Randi held on and didn't hurry her out of it. Vee pulled a breath in, deep, off the warm skin of her neck, Randi's body's own smell under the bitter orange, green at the edge, nothing sweet, and it steadied her, and she pulled another, and didn't want to stop. Randi was holding her tighter than she usually did. She held the hug past the end of it, past where a hug stops, the beat longer and the beat after that, and neither of them let go.
+Up the narrow stairs, the door shut, and Randi's arms came around her before either of them had said a word, and Vee went in and came apart. Vee had missed Randi badly, the whole flat break with only the one midnight text laid across it, and she both needed this and took it. It was a big hug and a long one, and Vee cried into her shoulder and Randi held on and didn't hurry her out of it. Vee pulled a breath in, deep, off the warm skin of her neck, Randi's body's own smell under the bitter orange, and it steadied her, and she pulled another, and didn't want to stop. Randi was holding her tighter than she usually did. She held the hug past the end of it, past where a hug stops, the beat longer and the beat after that, and neither of them let go.
 
 When it finally broke, Randi's neck and shoulder were wet where she'd cried, and the room came back, and it wasn't the room Vee knew. It was half-unpacked, a suitcase open on the floor, new things everywhere, tissue paper and a good bag, sweaters stacked where no drawer had claimed them. Randi swept her new things from the bed to the floor — dresses from Gstaad, a coat in its plastic — and made a place, and it reached Vee that none of it rated a look, that the wrecked girl in her doorway came first.
 
@@ -130,7 +130,7 @@ Then she looked at them, and her stomach went over. The heel was taller by inche
 
 *Just the thing for tonight.* Randi had handed them over like a pair of flats.
 
-And her body answered: her nipples drew up tight under the day-old shirt, sudden and sore with it, and the heat came up the back of her neck. *The shoes,* she thought, *and tonight* — because of course it was that, because tonight she was going to walk into a man's house in nothing but a coat and these, and a girl's body would get ahead of her over a thing like that. She had the answer before the ache was finished, and she put them away together, and she kept her eyes on the straps.
+Her nipples drew up tight under the day-old shirt, sore with it, and the heat came up the back of her neck. *The shoes,* she thought, *and tonight* — because of course it was that, because tonight she was going to walk into a man's house in nothing but a coat and these, and a girl's body would get ahead of her over a thing like that. She had the answer before the ache was finished, and she put them away together, and she kept her eyes on the straps.
 
 What she got instead was gratitude, plain and enormous: here was one piece of tonight already decided for her. Randi always knew the shoes.
 
@@ -152,7 +152,7 @@ Somewhere in it Vee had got hold of her own foot. Her thumb went slowly back and
 
 "The kind you tell your daughter about," Vee said, quiet now, and looked down, because that was the whole of it, a story with a shape already, a man who was a story you'd tell before you'd known him a day.
 
-"And the ball," Randi said, and did not spend long on it: he could dance, he led like it was nothing, and there had been nothing for her to do but be led, and she'd let him.
+"And the ball," Randi said, and did not spend long on it: he led like it was nothing, and there had been nothing for her to do but be led, and she'd let him.
 
 "And you just let him lead," Vee said, soft, half into the fairy tale herself now. It sounded like the easiest thing in the world, and easy was a thing she had never once gotten to be. "And then?"
 
@@ -162,7 +162,7 @@ Vee read the quiet as discretion, the one thing even Randi kept behind the door.
 
 Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do?" And Vee laughed, really laughed for the first time all day.
 
-They stood, and Randi pulled her in one more time, and this hug went as long as the first, Randi holding on like she'd missed her every bit as badly, and when it broke Randi kissed her goodbye, unremarkable now, only what they did.
+They stood, and Randi pulled her in one more time, and this hug went as long as the first, Randi holding on like she'd missed her every bit as badly, and when it broke Randi kissed her goodbye, only what they did.
 
 Randi walked her down. Down the narrow back stairs and along the landing and into the foyer, where the composites hung in their rows, fifty years of sisters in their black drapes, every one of them photographed looking slightly to the left.
 
@@ -226,7 +226,7 @@ Nothing moved in Brooke's face. She ran a house of ninety and she knew to the in
 
 The mug was cold in Randi's hand and she had not put anything in it.
 
-"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm talking about." The curious bright note came up, the *can I ask* face, warm the whole way. "Ninety girls under one roof, honey. Every boy on the row thinks he knows what goes on upstairs. Let him think it's funny. The day he thinks it's true—" She let that one go. "You remember Lauren Pike. Nobody asked her to move out. You've got a position in this house, and you've got her. You need to choose."
+"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm talking about." The curious bright note came up, the *can I ask* face, warm the whole way. "Ninety girls under one roof, sweetie. Every boy on the row thinks he knows what goes on upstairs. Let him think it's funny. The day he thinks it's true—" She let that one go. "You remember Lauren Pike. Nobody asked her to move out. You've got a position in this house, and you've got her. You need to choose."
 
 And she touched Randi's arm once going past, and went out through the archway, and her voice carried on into the common room, bright, saying something to Sloane about a form.
 

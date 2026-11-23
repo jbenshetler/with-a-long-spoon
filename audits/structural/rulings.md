@@ -12,6 +12,28 @@ the target and finding id.*
 - **Architecture docs yield to later rulings** (author, 2026-11-19). The plot has
   changed and the author has overruled `meta-arch-*` often; the chronology and
   dated rulings win.
+- **Weighing the structural editors against the capture panel** (author ruling
+  2026-11-22). The two instruments see different things, so trust each where it can see:
+  - **Repetition, templates and echoes across chapters: the structural editors.** A
+    capture reader holds the earlier chapters only as a fact checkpoint plus the raw
+    prose since the last decade boundary (`tools/capture_dag.py:9-12`), so a sentence
+    or scene shape repeated from outside that window is invisible to it. A high capture
+    score is not evidence against a repetition finding.
+  - **Momentum, and whether a reader stops: the capture panel,** read as each reader's
+    z against her own mean and her ALMOST-STOPPED/WHY lines. Raw CAPTURE scores sit
+    near the ceiling and rise with position in the volume (Vol 1: 7.8–9.8; r = 0.45
+    with chapter number), so a low score is signal and a 9 against a 10 is not.
+  - **Macro allocation** (how much of a volume one object or thread takes): **the
+    structural editors only.** Capture can show no single chapter loses the reader,
+    nothing more.
+  - **Both agree: act.** Structural drag of 2+ editors on a chapter whose capture z is
+    also low (Vol 1: ch7, ch12) is the strongest signal either instrument gives.
+  - **They disagree on a pacing or sag claim:** check whether the finding is really
+    repetition (then the structural read stands) or local momentum (then capture
+    stands). Structural editors read a whole volume in one sitting and are prompted to
+    find problems; their read stands for the binge reader, not the chapter-a-night one.
+  - Neither instrument is calibrated against people. A human beta round is the test
+    that weights them.
 
 ## Volume 1
 
@@ -108,3 +130,17 @@ the target and finding id.*
   (author ruling 2026-11-22). They return at {{Lesson}}, Volume 2's opener; the
   friend-world thinning as Vee's life bends is the design, and Cassie stays present
   through {{The Induction}}.
+- **vol1 C5 (2026-11-22 consensus) — the Randi–Vee meals share one template:** the
+  template is the design (author ruling 2026-11-22; `meta-plan-satc-tracks.md:13`).
+  The repeated meal shows Randi habituating Vee to what is "normal" and lets the
+  reader measure how the Vee–Randi relationship changes from one meal to the next,
+  as the Cassie/Randi pairs measure the difference between the two friendships; real
+  people also keep routines. The meals stay. **Act on the near-identical sentences:**
+  most are mistakes or better cut (the goodbye hug at `see-you-later.md:129` and
+  `dear.md:199`; the price-reading at `how-its-done.md:225` and `fed.md:53`). Randi's
+  invented-story openers each do a job and stay unless a pass finds one that doesn't;
+  they carry less weight than the meals themselves.
+- **vol1 C4 (2026-11-22 consensus), Fed's induction decline:** Brooke's officers'
+  meeting is real; Randi is not lying (author ruling 2026-11-22). The cookie-penance
+  story stays, as fun and characterization. Capture readers suspecting a lie
+  (glm, argon, `gate-ch018.md`) is a side effect, not a defect.

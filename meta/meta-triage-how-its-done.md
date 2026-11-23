@@ -293,3 +293,14 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy o
 
 ### Fixed
 - **:308** cut "before she could decide anything about it," — "came up out of her" already carries it; third "decid" in the chapter. No reader mentions.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:239** "like Vee had handed her a present" cut.
+- Left standing as the first tellings: the prices (`:225`), "did the thing she did" (`:225`), the window (`:205`), "the one thing she would not do" (`:348`), "the wanting got there before the plan" (`:282`), the listening eye path (`:267`), the hinge of the jaw (`:366`), the lamp (`:239`, `:270`).
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **29:** "'Mm,' Randi said, settling in" (`:269`, "warm" cut).
+- **32:** Cassie's "Walk me through this" becomes "Explain this to me." (`:163`); Cassie does not echo Randi.

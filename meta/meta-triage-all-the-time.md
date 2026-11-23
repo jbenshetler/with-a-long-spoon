@@ -230,3 +230,10 @@ Lines with heavy reader praise whose criticism does not rise above NOISE under t
 
 - **:75 "there was a catch in her breath she didn't quite smooth over"** — ~6 praise; complaints: none.
 - **:137 "Vee was the one who wouldn't let it"** — ~15 praise; complaints: none.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:43** "her eyes going to Vee's mouth when she talked and her hands when they moved" cut (copy of `how-its-done.md:267`); the doubling "listened the way she listened" stays per the entry above.
+- **:59** "Setting it down where Vee could see it" cut. **:141** "folding down into" → "in" (copy of `one-bite.md:157`).

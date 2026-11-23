@@ -238,3 +238,19 @@ Each item below has exactly one reader.
 - **"The other thing" is Vee's recurring evasion** — {{Lesson}} (*"underneath the
   shame, the other thing kept coming back"*), {{The Burn}} (twice), {{Postcard}}, and
   now carrying :115 alone. Either a signature or four uses of one dodge; unruled.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:35** "green at the edge, nothing sweet" cut (copy of `broken-in.md:47`); now "Randi's body's own smell under the bitter orange". Two authorship audits and argon's gate had quoted the full line.
+- **:31** "gave back nothing but more warmth" → "only got warmer"; the doubling the `:107-110` entry protects survives with "The warmth arrived ahead of the chapter president".
+- **:133** "And her body answered:" and "sudden" cut (frame copied from `practice-room.md:89`); the praised misattribution to tonight untouched.
+- Left standing: "setting each thing down where Vee could see it" (`:53`, the itemized reframe); "walked her down" (`:167`); Brooke's "kind as anything" (`:229`).
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **33:** Brooke's "Oh, honey." becomes "Oh, sweetie." (`:31`); Brooke's "Ninety girls under one roof, sweetie." (`:229`).
+- **36:** "he could dance," cut (`:155`).
+- **38:** "unremarkable now," cut (`:165`).
+- **41:** "under all those framed faces" (`:177`) kept; Brooke's "always" (`:213`) rests on it.
+- **42:** "Not like this" and the sleep advice (`:119-123`) kept. "my love" in the raccoon line (`:123`) kept: it defangs the criticism of how Vee looks.

@@ -48,9 +48,9 @@ Vee stood in the cold, emptied room. She let the towel fall, and stepped out of 
 
 Sunday's bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
-Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend. "There's my girl," she said. "God, you're glowing — and a tomato-red mouth, at brunch. Absolutely kissable. Sit, sit."
+Randi was already at a table against the glass, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend. "There's my girl," she said. "God, you're glowing — and a tomato-red mouth, at brunch. Absolutely kissable. Sit, sit."
 
-The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
+The menu was a single heavy card, and Vee read the prices first, as she always did. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
 
 The waiter came and Randi ordered a mimosa without looking at the card at all, and Vee closed her menu and said she'd have the same. It came out easy. It felt, saying it, like stepping into a current that was already moving, like being, for the length of a sentence, a woman who has a mimosa at brunch and thinks nothing of it.
 
@@ -70,7 +70,7 @@ The flute arrived cold and beading and she touched the stem and did not think ab
 
 Vee laughed, because it was funny, because Randi made it funny, the way she made everything that had cost her into a story that had cost her nothing.
 
-"But that," Randi said, leveling a finger, "is a sad woman's tale, and you, my darling, have a smile you have been failing to hide since you walked in. So. Give me something to live on. Be cruel. Tell me everything."
+"But that," Randi said, leveling a finger, "is a sad woman's tale, and you, girl, have a smile you have been failing to hide since you walked in. So. Give me something to live on. Be cruel. Tell me everything."
 
 And Vee wanted to. She had wanted, all weekend, to set it down on a table in front of someone who would not flinch.
 
@@ -116,9 +116,9 @@ Vee laughed, a little wet, and let herself be lucky for a second.
 
 "…I bought new ones," Vee said.
 
-"You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's not nothing, that's a *campaign*." She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
+"You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's a *campaign*." She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
 
-Vee laughed again, helpless, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and knew now that it had been a lie, one she'd needed.
+Vee laughed again, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and knew now that it had been a lie, one she'd needed.
 
 Randi didn't tease her for it. She looked at her, like the planning was the part she liked best. "You knew how that night was going to end before you ever got in the car," she said. "You drove over there sure." A beat. "So why are you telling me like it's a confession?"
 
@@ -134,7 +134,7 @@ Something had come into Randi's voice over the last few minutes. Vee heard it wi
 
 "Heavy. Full in a way it doesn't need to be. Too much of it." She shook her head at herself. "It doesn't look like him. It must have been the first thing he ever designed himself. Before he knew what he was doing."
 
-"Oh, I bet he knew." Randi's hand came down flat on the cloth between them and stayed there a moment, and then she was pushing back her chair. "Hold that thought, honey. I'll be right back."
+"Oh, I bet he knew." Randi's hand came down flat on the cloth between them and stayed there a moment, and then she was pushing back her chair. "Hold that thought, babe. I'll be right back."
 
 She went off fast between the tables, not looking back, and Vee watched her go, and finished her mimosa.
 
@@ -142,7 +142,7 @@ They stayed another hour. Vee had a second mimosa, and the second one she did no
 
 "I'm being inducted into the economics honor society." It came out smaller than she had built it. "A week from Tuesday, in the afternoon. Will you come?"
 
-"Yes. God, yes." Randi already had her phone out. "Let me just make sure—" She looked at it, and her face did nothing for a moment, and then it did all of it, the delight going out from under the smile. She turned the phone face down on the cloth. "Oh, baby. Brooke has the officers in a meeting at the house that afternoon. It's the one thing on the calendar I can't get out of." She put her head back and groaned at the glass. "I would give anything." Then she looked at Vee again, all of her. "You're going to stop their hearts, beautiful."
+"Yes. God, yes." Randi already had her phone out. "Let me just make sure—" She looked at it, and her face did nothing for a moment, and then it did all of it, the delight going out from under the smile. She turned the phone face down on the cloth. "Oh, baby. Brooke has the officers in a meeting at the house that afternoon. It's the one thing on the calendar I can't get out of." She put her head back and groaned at the glass. "I would give anything." Then she looked at Vee again, all of her. "You're going to stop their hearts."
 
 "It's okay." Vee heard how small it was. Her thumb went down the stem of the flute and up again. "Really."
 
@@ -162,6 +162,6 @@ After that they talked about other things, about a movie neither of them would a
 
 Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft. Vee had half-expected it this time, and met it — and where it should have ended, it didn't: Randi's mouth eased back without leaving hers, and then she took a little more before she let her go. Vee didn't look down the street for who might have seen them, the way she had the first time.
 
-Randi's hand stayed at the hinge of her jaw, and she smiled, slow and soft, and let it sit. "Your man Pace doesn't know how lucky he is, gorgeous."
+Randi's hand stayed where it was, and she smiled, slow and soft, and let it sit. "Your man Pace doesn't know how lucky he is, gorgeous."
 
 Vee drove home lighter than she'd come. She turned the radio up, and the day was good.

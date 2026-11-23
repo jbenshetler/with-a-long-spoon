@@ -173,3 +173,17 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
 
 ### Left standing
 - **:121** "her body so far out ahead of her permission" — acked in style-allow; R1 + shame, stage-right. Its later echo `covering.md:259` is handled in Vol 3.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:7** "with her gold sunglasses pushed up into her black hair" and "her whole face came on, warm and sure," cut (the porch arrival copied `fed.md:51`); now "when she saw Vee it was as though…". "Warm and sure" was the calm-carrier left by the 2026-07-28 `unhurried` cut; the welcome now rests on the keeping-the-table clause.
+- **:91** "light as anything" cut.
+- Left standing: the cold tap (`:131`); the second kiss (`:155`); the Mercedes (`:157`); the hand to the chest (`:103`).
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **32:** "How does a girl get from a pantsing to a bare bottom? Walk me." (`:39`, question mark).
+- **35:** "'Only if I let it,' Randi said. 'And I am perfectly willing to take care of myself.'" (`:107`).
+- **Greeting:** "Hello, girl." (`:7`, was "There's my girl.", repeating Fed's).
+- **36:** "he could dance" (`:95`) kept; the lie is built from Pace.

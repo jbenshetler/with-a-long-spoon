@@ -160,7 +160,7 @@ Vee looked at the light on the floor. Outside the window someone was crossing th
 
 The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
 
-"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He's had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
+"Okay, wait," Cassie said. "Explain this to me. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He's had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
 
 "He's not a bodybuilder, he's a powerlifter, it's a totally different — "
 
@@ -236,7 +236,7 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 "If I have wine, I'll be facedown in the stacks this afternoon, and they'll have to check me out at the desk like overdue reserve." It came easy — the light quick thing that made people smile, that had always made people smile. "Water's perfect."
 
-"Overdue reserve," Randi repeated, delighted, like Vee had handed her a present. "God, you're fabulous. Okay." She leaned back into the cashmere and the corner and turned the full warm beam of her attention on, all at once, like a room light coming on. "So. Guess what I got up to Saturday."
+"Overdue reserve," Randi repeated, delighted. "God, you're fabulous. Okay." She leaned back into the cashmere and the corner and turned the full warm beam of her attention on, all at once, like a room light coming on. "So. Guess what I got up to Saturday."
 
 "I'm not guessing, I'm going to get it wrong and you'll be insufferable."
 
@@ -266,7 +266,7 @@ And Vee, who had spent a day building the version she would tell — the dress, 
 
 Randi listened the way she listened, which was completely — chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back. There was something keyed-up in the attention today, a brightness wound a notch tighter than the coffee places had ever drawn out of her. Nobody else listened like that.
 
-"Mm," Randi said, warm, settling in. "Start at the beginning. He measured you himself?"
+"Mm," Randi said, settling in. "Start at the beginning. He measured you himself?"
 "He measured me himself," Vee said. "It's not like a store, there's no — he does all of it. He had the house warm for me when I got there, he'd thought of that, that I'd be cold, so he turned everything up before I came so I wouldn't be." The memory came up around her as she said it and she let it, because it was a good one and because Randi's whole face was turned to her like a lamp. "And he had me take my top off. For the fit. And, Randi — I wasn't even embarrassed. He just made it the most normal thing in the world, like of course, like it wasn't anything, and I stood there and he looked at me and I was just — fine. I was completely fine."
 
 She was rolling in it now, telling it the way you tell the best thing, slowing down on the good part, *I was fine, he looked at me and I was fine,* turning it over so it caught the light.

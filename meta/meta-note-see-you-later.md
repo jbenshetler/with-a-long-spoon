@@ -21,7 +21,7 @@ The scene's recurring craft problem was conveying an idea — status, un-apprais
 Plants:
 - **Cassandra:** Cassie's flat *"Cassie"* (declines the name-bit) and register-wrong *"Goodbye, Vee,"* dismissed live. Never explained.
 - **Latent-variable mirror:** ambient, connects to nothing for Vee.
-- **Goodbye-kiss rung zero:** the hug, the hand flat between the shoulder blades, *"You're a total fox, you know that?"* (was *"Love you, girl"*; no *love* before mid-fall, (author ruling 2026-11-17)). Pre-coded deniable.
+- **Goodbye-kiss rung zero:** the hug, the hand flat between the shoulder blades, *"Love you, girl"*: the one exception to no *love* before mid-fall, said on the first coffee as currency before it is meant; it becomes true later, and Randi's account at `fairytale.md:139` ("never once before… without meaning it as currency") is hers, not the record (author ruling 2026-11-22). Pre-coded deniable.
 - **Unequal exchange:** Vee gives competence/attention ("the one who knows things"); gets warmth-as-status, and overvalues the cheap coin.
 - **Orbit / arrange-around** language for Randi (status register; consistent with later fall usage).
 - **Venue-exclusion, first enactment (reread-only):** the Chi Latte's Greek-coded ground is Cassie-incompatible by nature; her lab-decline ("no particular feelings about the yellow one on Draper") is the pattern's first firing — Randi's *taste* on first read, tactic on reread (`meta-arch-cassie-randi.md`). The prose stays as-is: drawing the connection on the page would break the taste-never-tactic discipline; the plant is the ground itself. (Vee's surface-read of the accumulated pattern — the venues sort her two people; no one room holds both — later fuels the {{Among Friends}} kitchen-panel hem.)

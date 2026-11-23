@@ -18,7 +18,7 @@ Cassie and Randi were already there, of course they were. Randi was always early
 
 "I did not come home."
 
-On her other side Randi turned the full warmth of her attention on, like a lamp finding you. "Vivienne Thorne. It is a Friday."
+On her other side Randi turned to her. "Vivienne Thorne. It is a Friday."
 
 "I'm aware that it's a Friday."
 
@@ -80,7 +80,7 @@ She got the door open and went in ahead of her, and then Randi was in the doorwa
 
 "So this is the nest." Randi stepped in. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
 
-Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it as she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
+Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the want was faster than the plan, the want to be *seen* in it as she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
 
 She came out of the bathroom in it, bare-shouldered, the hem just off the floor without the shoes, and stood in the middle of the room and let Randi look.
 
@@ -182,7 +182,7 @@ Her eyes went to the dress on its hook, and the number on the sole quietly stopp
 
 At the front the woman folded the heels in tissue and laid them in their box and the box in a bag with rope handles, and Vee got out her card.
 
-Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way, and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead. The number was the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch.
+Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way, and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead. The number was the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face. She would not flinch in this room.
 
 Beside her, while she did it, Randi had picked up a pair of her own.
 

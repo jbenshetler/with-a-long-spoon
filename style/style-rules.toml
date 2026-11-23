@@ -297,6 +297,18 @@ scope    = "scenes"
 why      = "CRAFT RULE: never label Pace's temperament (his introversion and hyperfocus) on the page — it lives only in behavior, never as a diagnosis. Remove."
 
 [[rule]]
+id       = "brooke-endearment"
+kind     = "regex"
+# A paragraph that attributes a line to Brooke and carries one of Randi's
+# endearments used as a vocative (after a comma, a quote mark or a sentence
+# end, and followed by punctuation), so "that girl looks at you" stays clear.
+# Line-based: a paragraph where Randi and Brooke both speak can false-hit.
+pattern  = '''(?i)^(?=.*(?:\bBrooke\s+(?:said|asked|called|added|murmured|went on|told)\b|\b(?:said|asked|called)\s+Brooke\b)).*?(?:["“,][ \t]*|[.!?][ \t]+)(?:gorgeous|baby|babe|sweetheart|girl|darling|lover|angel)\b(?=[,.!?—*])'''
+severity = "error"
+scope    = "scenes"
+why      = "CANON: Brooke's endearment is *sweetie* (and the house *honey*); Randi's endearments (gorgeous, baby, babe, sweetheart, girl, darling, lover, angel) are never in Brooke's mouth (author ruling 2026-11-22; meta-craft-randi.md). Change the vocative."
+
+[[rule]]
 id       = "curly-quote"
 kind     = "regex"
 pattern  = '[“”‘’]'

@@ -124,7 +124,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 "Pace has his surprise Friday night." Vee grinned. "And I've got mine." She leaned in over the cloth and dropped her voice. "He always makes me come first. Always. Friday, I'm making him come first. With my mouth, before he gets to do one single thing about it." Under the table her heel had started going.
 
-"*That's my girl!*" And they were both laughing, Randi's head going back against the booth. "Nothing I love more than a date who takes care of me first."
+"*You tramp!*" And they were both laughing, Randi's head going back against the booth. "Nothing I love more than a date who takes care of me first."
 
 Vee lifted her glass to that. Randi touched hers to it.
 

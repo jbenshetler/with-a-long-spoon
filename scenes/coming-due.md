@@ -56,7 +56,7 @@ Then they were up and out with the rest of them, and she went where Randi went. 
 
 Out in the corridor, floor wax and radiator heat, this was the part where they walked in the cold to the welcoming place with the table and a bottle of red, their loft full of hushed secrets and laughter. Randi was already angling them toward the doors. Vee heard her own voice begin taking it apart — she was behind on the Marsh reading, her head was doing something, she thought she might be coming down with — and none of it came out the size of a reason, because there wasn't one she could hand across.
 
-Randi didn't take it. "Oh, sweetie, no." Warm, sorry for her, already past the refusal and on to the fix. "Well, then I'll walk you to your dorm. We can chat, and I'll make sure you get home safe." And there was no saying no to that. She'd meant to buy her way out of Randi for the night; somehow she'd bought more.
+Randi didn't take it. "Oh, sweetheart, no." Warm, sorry for her, already past the refusal and on to the fix. "Well, then I'll walk you to your dorm. We can chat, and I'll make sure you get home safe." And there was no saying no to that. She'd meant to buy her way out of Randi for the night; somehow she'd bought more.
 
 So they walked it. The cold was clean and hard and Randi kept close against it, talking the easy stream of nothing Vee couldn't have repeated a word of, and Vee got herself through it — answering where an answer seemed wanted, her whole mind bent on the one thing waiting at the end, the thing she had to get through and not take.
 

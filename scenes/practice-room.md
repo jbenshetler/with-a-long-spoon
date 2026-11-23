@@ -1,6 +1,6 @@
 # The Practice Room
 
-The stats lecture met at eleven in one of the tiered rooms on the second floor of the math building, and Vee got there early, underslept in a way that had nothing to do with the hour. She had not slept Sunday night, or not much, and not for any reason she could have said out loud in a room with the lights on. The weekend was still in her. He was still in her, the whole long ordinary miracle of it, and she had lain awake inside it and come to class wearing it like a coat she'd forgotten to take off.
+The stats lecture met at eleven on the second floor of the math building, and Vee got there early, underslept in a way that had nothing to do with the hour. She had not slept Sunday night, or not much, and not for any reason she could have said out loud in a room with the lights on. The weekend was still in her. He was still in her, the whole long ordinary miracle of it, and she had lain awake inside it and come to class wearing it like a coat she'd forgotten to take off.
 
 Cassie was already there, of course, the seat on her left saved with a backpack she lifted away as Vee came down the row. Randi arrived a minute later from the other side and dropped into the aisle seat so that Vee was between them, and the warm green-citrus wave of her got there first, the way it always did, a half-second ahead of the rest.
 
@@ -10,7 +10,7 @@ Cassie was already there, of course, the seat on her left saved with a backpack 
 
 "Mm," Randi said, which was not agreement and not disagreement, only a thing she set down on the desk between them to pick up later.
 
-At the front the professor was doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man making sure the road was still there. Then he started, in the flat voice of a man reading a course catalog aloud, and put a word up on the screen that Vee copied into her notebook without quite reading it.
+At the front the professor was scrolling his slides forward and back again, checking the road. Then he started, in the flat voice of a man reading a course catalog aloud, and put a word up on the screen that Vee copied into her notebook without quite reading it.
 
 "Outliers," he said. "Two kinds. You'll want the difference."
 
@@ -36,7 +36,7 @@ In the stairwell she said she needed to tell her something, the whole thing, and
 
 The room was the size of a closet: a battered upright against one wall, a music stand, two chairs, a square of carpet worn pale. When the door shut the building went away. Not muffled. Gone. The kind of quiet you could hear your own blood in.
 
-Randi took one of the chairs and turned it to face the other and sat with her attention coming on like a lamp. Vee had the shoes in her bag; she'd meant to give them back. She pulled them out now, the cognac heels, and held them a second without quite knowing what to do with them.
+Randi took one of the chairs and turned it to face the other and sat. Vee had the shoes in her bag; she'd meant to give them back. She pulled them out now, the cognac heels, and held them a second without quite knowing what to do with them.
 
 "Okay," Randi said. "The shoes. Tell me everything."
 
@@ -82,7 +82,7 @@ And just like that Vee was in the kitchen again with the flat bright afternoon c
 
 The room held still.
 
-Randi didn't say anything for a moment. When Vee made herself look up, Randi was watching her with an attention so complete it was nearly a pressure, nearly a hand, and whatever was on Vee's own face she couldn't have hidden if she'd tried, and she understood, in a hot slow drop, that she wasn't only telling it. She was doing it again. Here. Now. In a piano closet with Randi's eyes on her.
+Randi didn't say anything. When Vee made herself look up, Randi was watching her with an attention so complete it was nearly a pressure, nearly a hand, and whatever was on Vee's own face she couldn't have hidden if she'd tried, and she understood, in a hot slow drop, that she wasn't only telling it. She was doing it again. Here. Now. In a piano closet with Randi's eyes on her.
 
 "I bet he did," Randi said softly. Her hand went once down the length of her ponytail. That was all.
 

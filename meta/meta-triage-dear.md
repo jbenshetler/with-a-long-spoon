@@ -155,3 +155,14 @@ Author-approved cuts, close third on Vee (what she senses, thinks or feels; no n
 - **Watch, book-wide:** opus's "the descriptions of the girls are starting to blur
   together." The rooms-full-of-uniform-sorority-girls description recurs by design here;
   check later SATC settings for a third pass in the same register.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:199** the parting hug rendered fresh ("pulled her in with both arms, the whole of her… like it was already a thing they did"), not compressed: not a girlfriends' hug, and Vee's pleasure is shown. **:201** "the whole lit face on her" cut. Opus-5.5's cold read and capture gate and deepseek's cold read had flagged the hug as a near-verbatim repeat of `see-you-later.md:129`.
+- **:97** cardigan copy cut to "She had the cardigan on". **:75** "with her cap down" / "into the hall" cut. **:173** "did the thing she did, which was make" → "made". **:151** "as if someone had handed her a present" cut.
+- Left standing: the climb off the high chairs; the matched girls (`:97`, `:145`).
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **31:** "to live on" cut: "Yours had better be good enough for both of us." (`:109`); Fed keeps the phrase.

@@ -40,7 +40,7 @@ Randi's mouth curved. "The amount."
 
 "Two, three. And then there's mornings… and afternoons." She was pink now and past caring. "And it's not just the — he doesn't just go for the parts you'd think. It's all of me. His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want. And when he actually—" she made a small hopeless gesture "—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong*, he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry. Both. The same night. I don't know how one person is both."
 
-Randi listened the way she listened, which was total, her glass forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did.
+Randi listened the way she listened, which was total, her glass forgotten, and Vee felt herself open under it like she always did.
 
 "And it doesn't *stop*," Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
 
@@ -56,7 +56,7 @@ The plates came, the Benedict glossy under a hollandaise gone slack and shining,
 
 "And it's not only that," she said, and here her voice did something softer, because the rest of it was harder to say and mattered more. "When he cooks — he cooks for me, every time, from nothing, real food — I just *watch* him. And that's almost the best part, which is insane. He gets this look, all his attention down on the one thing, getting it exactly right, and it's — it's for me. And then I eat it and it doesn't even look that different from stuff I've had my whole life, and it's like—" She stopped, found it. "Like my mouth had been asleep since I was born and nobody told me. Like I'd been eating with the sound off."
 
-"He woke you up," Randi said. Not a question. Setting it down where Vee could see it.
+"He woke you up," Randi said. Not a question.
 
 "Yeah." The word came out small. "Yeah. That's it exactly."
 
@@ -138,6 +138,6 @@ Out in the bright noon, on the walk in front of the low brick face of the place,
 
 "See you soon, gorgeous."
 
-Then Randi was folding down into the low green Mercedes and Vee was crossing to the Corolla with its clean cloth seats, and that was that: one hug to carry her the whole week to the next one. She'd see Randi Monday in stats — but stats wasn't this. Stats was blue academic lighting and full of other people. This was the thing itself.
+Then Randi was in the low green Mercedes and Vee was crossing to the Corolla with its clean cloth seats, and that was that: one hug to carry her the whole week to the next one. She'd see Randi Monday in stats — but stats wasn't this. Stats was blue academic lighting and full of other people. This was the thing itself.
 
 She got in and sat a second and found she was smiling, and started the car, and pointed it back toward Pace, and the house in the trees, and dinner, and the long slow thing that came before dinner in that house every time, that she was already, thirty minutes out, beginning to want.

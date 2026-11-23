@@ -72,7 +72,7 @@ Cassie was already up, cap on, bag on one shoulder, with the readiness of a pers
 
 "I'll see you at the dorm," she said. Easy. Already going.
 
-"Mm-hm," said Vee, half of her still turned the other way, and Cassie went up the aisle with her cap down and was gone into the hall, and Vee did not watch her go, because Randi had her by the wrist.
+"Mm-hm," said Vee, half of her still turned the other way, and Cassie went up the aisle and was gone, and Vee did not watch her go, because Randi had her by the wrist.
 
 "Okay, I need a full report and I need it now. How's it going with the, the hottie. What is his name." Randi snapped her fingers twice, reaching after it and not catching it. "Paul?"
 
@@ -94,7 +94,7 @@ And Vee thought, easily, that it was fine to have your own people. Cassie had th
 
 The weather had decided to be kind to Blacksburg. The light came long and clean off the brick and the mountains had gone that hard high blue, and Vee walked out into it next to Randi feeling, frankly, like a person things happened to. Good things. A man who looked at her as though she were the answer to a question he'd been carrying around. A girl who could have spent her forty minutes on anyone, her arm warm against Vee's as they walked, spending them on her. Randi walked with her face turned to her the whole way, talking, two small skies where her eyes should have been, and by the second block that side of Vee's face was hot. The sun was on that side. Vee had been fine for two years. This was not fine. This had color in it.
 
-The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, hair up, faces done light and exact. She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, underdressed before she had looked at a single person.
+The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, hair up, faces done light and exact. She had the cardigan on, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, underdressed before she had looked at a single person.
 
 They ordered at the counter with their bags still on their shoulders. Randi ordered something the boy had to ask her to say again, beet and wheatgrass and egg white and oat milk, blended down with ice, an order that sounded like a sentence handed down, a drink the color of a bruise when it came, and she ordered it as though it were her usual. Vee got the strawberry banana. With oat milk, she said, in place of the regular, and felt faintly that she had said the oat milk because Randi was standing right there.
 
@@ -106,7 +106,7 @@ She set it up like a story she had told before and would tell again. "My love li
 
 Vee laughed, the real kind, the kind that got up and out of her before she could put clothes on it.
 
-"So." Randi set her chin in her hand and turned the whole of her face on Vee. "You. Yours had better be good enough for both of us to live on. Tell me he is nothing like that."
+"So." Randi set her chin in her hand and turned the whole of her face on Vee. "You. Yours had better be good enough for both of us. Tell me he is nothing like that."
 
 "He's nothing like that." Vee felt her face go soft and a little stupid and let it. "Mine wasn't glamorous like yours. We walked. It was this tiny place I didn't even know existed, you'd go right past it, and it wasn't fancy at all, but the food." She lost the thread, found it again. "It was Middle Eastern. I couldn't read one word of the menu. And I told him so, I said I have no idea what any of this is, and he looked at it a second, and then he said, 'May I choose?'"
 
@@ -148,7 +148,7 @@ Randi laughed, a real bark of it that turned a head at the counter, and Vee laug
 
 "…No." Small. "I don't — no. Never."
 
-"*Vee*." Randi leaned in over the white table. "Even better. You're going up a mountain for the first time in your life with a man who knows the trail. Do you know how romantic that is? He's going to hand you up over the rocks and you're going to be out of breath at the top and it is going to be *spectacular*." She sat back and took her in as if someone had handed her a present. "You're going hiking. With your man."
+"*Vee*." Randi leaned in over the white table. "Even better. You're going up a mountain for the first time in your life with a man who knows the trail. Do you know how romantic that is? He's going to hand you up over the rocks and you're going to be out of breath at the top and it is going to be *spectacular*." She sat back and took her in. "You're going hiking. With your man."
 
 *Your man.* Vee let it sit on her, and it fit, and she did not take it off. And for one whole giddy second she felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
 
@@ -170,7 +170,7 @@ Then Brooke turned the smile on Vee, and it went wider by some exact amount, and
 
 "This is Vee," Randi said.
 
-And Vee, with the two finished women looking at her where she sat, did the thing she did, which was make herself smaller, only this time not to get out in front of her own humiliation, but to leave nothing of herself worth holding against Randi, to be a girl from a stats class and no one's business at all. "We have stats together."
+And Vee, with the two finished women looking at her where she sat, made herself smaller, only this time not to get out in front of her own humiliation, but to leave nothing of herself worth holding against Randi, to be a girl from a stats class and no one's business at all. "We have stats together."
 
 "Vee's my dear friend," Randi said.
 
@@ -196,8 +196,8 @@ And Vee, who had meant to apologize for the fright, found she didn't need to any
 
 Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a person." She was already swinging the good bag up onto her shoulder.
 
-They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.
+They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her in with both arms, the whole of her, and Vee, who had felt set up on a shelf in that window an hour ago, leaned into it out on the open street like it was already a thing they did.
 
-"Bye, babe," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
+"Bye, babe," Randi said, and held her a second by the arms, and then she was gone, radiant, back into the bright matched crowd she had come out of.
 
 Vee walked the other way with her empty pink cup, into the long afternoon light. She did not feel, now, like a thing the room could turn and look at. She felt picked. She carried it the whole way home.

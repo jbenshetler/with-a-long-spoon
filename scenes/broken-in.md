@@ -80,7 +80,7 @@ Randi didn't say anything for a moment. She just held on.
 
 "Jealous of them."
 
-Randi looked at her a moment, and then she did the thing she did, which was take the worst minute of Vee's life and turn it over in her hands and show her the back of it.
+Randi looked at her a moment, and then she took the worst minute of Vee's life and turned it over in her hands and showed her the back of it.
 
 "Okay. Listen to me." She leaned in. "You don't get that jealous over a man you don't care about. It's not in you — you'd have been bored. The only reason that blonde could land a thing on you at all is that there was something there to land on." She tipped her head. "He took *you*. On a Thursday. To a room full of women who'd have traded their teeth for your chair. You were so far ahead you couldn't see the race, and you ran it anyway, because you're *in* this, and he saw that. That's not the disaster, honey. That's the only thing that matters, and you handed it to him for free." She gave Vee's hand a last squeeze and let it go. "So don't you worry about a single piece of *how*. We're going to get you ready, and the rest takes care of itself."
 
@@ -96,7 +96,7 @@ And the thing Vee had been holding clenched since last night let go of her, all 
 
 Not a suggestion — an instruction, and Vee stopped.
 
-"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose*. And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure*." A beat. "He won't text you, by the way — don't read it as a door closing. If he's the man you've just described to me, he doesn't sulk. He leaves you the room and waits to see what you walk in wearing."
+"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You fix your face, you give it a whole day so it reads like something you *chose*. And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure*." A beat. "He won't text you, by the way — don't read it as a door closing. If he's the man you've just described to me, he doesn't sulk. He leaves you the room and waits to see what you walk in wearing."
 
 ---
 

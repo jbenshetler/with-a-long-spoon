@@ -370,3 +370,16 @@ Plan: Vee's want rendered by arc stage — body-before-mind order kept; remedy o
 ### Fixed
 - **:11** "The thing her body had done before she could decide to let it." → "The thing her body had done, and how she had let it." The morning after, in the chapter that ends "I wanted it… And I took it." Only neutral authorship-audit mentions.
 - Left standing: **:97** "without ever once deciding to" — praised (glm-5.3, claude-fable-5-1) for the fear flash.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:53** prices compressed to "read the prices first, as she always did"; "The egg things were not low and the not-low was real" cut (copy of `how-its-done.md:225`).
+- **:51** sunglasses cut (the porch tableau `one-bite.md:7` copied). **:121** "helpless" cut. **:165** "at the hinge of her jaw" → "where it was" (second use in two paragraphs; the hinge stays a signature at `:163`).
+- Left standing: the accent at `:125` (the compressed recognition, heavily praised); the hand to the chest at `:119`; "like she'd been handed something" at `:119`.
+
+Groups R and C (verbal habits, intended callbacks), 2026-11-22/23:
+- **30:** "That's not nothing, that's a *campaign*" becomes "That's a *campaign*." (`:119`).
+- **Endearments:** "Hold that thought, babe" (`:137`, was honey); "you, girl, have a smile" (`:73`, was "my darling"); "You're going to stop their hearts." (`:145`, "beautiful" cut). `:89` "because I love you" kept, a recorded early-*love* exception (`meta-plan-satc-tracks.md:119`). "There's my girl" (`:51`) kept, an idiom.
+- **37:** "you love to be looked at" (`:61`) kept, the Leo reprise of {{How It's Done}}.

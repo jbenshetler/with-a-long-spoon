@@ -242,3 +242,12 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
   connection themselves (opus capture: "Same numbers, nobody touched them. I'm not stupid.
   That's every lunch."). The complaints quoted it with the now-cut pause. Re-check at the
   next ch20 panel: if readers still flag this line without the pause, reconsider.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:185** "the one thing she would not do in this room was flinch" → "She would not flinch in this room" — **cut over praise** (glm-5.3 cold read quoted it); copy of `how-its-done.md:348`.
+- **:83** "the wanting got there before the plan, the wanting to be *seen*" → "the want was faster than the plan, the want to be *seen*" (copy of `how-its-done.md:282`). **Supersedes** the left-standing entry at `:135-137` above (author ruling 2026-11-22).
+- **:21** "the full warmth of her attention on, like a lamp finding you" → "turned to her".
+- Left standing: the Mercedes window (`:115`); the professor's cereal-box voice (`:35`, rotating vehicle).

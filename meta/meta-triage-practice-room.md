@@ -242,3 +242,11 @@ reason).
 Lines with heavy reader praise whose criticism does not rise above NOISE under the lane rules (`tools/friction_check.py`; `reviews/cold-read/SPEC.md:577`; `reviews/capture-panel/SPEC.md` rules 2–3a). Do not cut or reword without a new author ruling. Counts are approximate praise mentions across cold reads and capture gates, as of 2026-11-14.
 
 - **:141 "Vee's arms were slow coming down. She hadn't meant to hold on."** — ~13 praise; complaints: none.
+
+## SATC template pass — 2026-11-22
+
+Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`audits/structural/vol1-2/satc-template-grid.md`, Rulings; vol1 C5 in `audits/structural/rulings.md`). Line numbers before the edit.
+
+- **:3** "in one of the tiered rooms" cut; **:13** "doing the thing he did before every class" cut, the road vehicle kept as "checking the road" (copies of `see-you-later.md:7`).
+- **:39** "with her attention coming on like a lamp" cut. **:85** "for a moment" cut.
+- Left standing: the cold tap (`:125`; the restroom staircase, One Bite turns it); the lighter second touch (`:135`; a recast was applied and reverted, author ruling).

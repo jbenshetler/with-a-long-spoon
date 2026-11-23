@@ -529,6 +529,13 @@ text = "And here was the thing Vee had not planned for, driving over: that there
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "8904af182177"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "Randi listened the way she listened, which was total, her glass forgotten, and Vee felt herself open under it like she always did."
+note = "Re-armed by author-approved 18b edit (2026-11-22); doubling previously accepted as deliberate voice"
+
+[[ok]]
 fp   = "9152f2ef1e1e"
 rule = "the-way"
 file = "scenes/all-the-time.md"
@@ -1843,6 +1850,13 @@ rule = "the-way"
 file = "scenes/fed.md"
 text = "Not the way Pace was easy — Pace was the thing the week bent around."
 note = "'Not the way Pace was easy' — comparative carrying the chapter's central structural contrast (Pace vs Randi). Not a filter."
+
+[[ok]]
+fp   = "aabbd4bb1eb8"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Vee laughed again, glowing, caught all the way through."
+note = "Re-armed by author-approved 26a edit (2026-11-22); 'all the way through' is the literal idiom, previously accepted (meta-triage-fed.md)"
 
 [[ok]]
 fp   = "bd0e61fea34d"
