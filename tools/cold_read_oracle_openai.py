@@ -2,7 +2,10 @@
 # requires-python = ">=3.11"
 # dependencies = ["openai>=1.40"]
 # ///
-"""Direct-OpenAI cold-read ORACLE harness (Responses API).
+"""RETIRED: the stage oracle runs on grounded memory in tools/cold_read_oracle_stage.py.
+This harness read the archived chained carry-forward and now refuses to run.
+
+Direct-OpenAI cold-read ORACLE harness (Responses API).
 
 Interrogates a FROZEN cold-read reader (the oracle, per reviews/cold-read/ORACLE.md):
 it pauses the reader at a stage and asks the fixed battery, tiered funnel
@@ -150,6 +153,7 @@ def write_probe(model_id, stage, probe, defn, neutral, pointed):
 
 
 def main():
+    raise SystemExit("retired: use tools/cold_read_oracle_stage.py (grounded stage oracle)")
     ap = argparse.ArgumentParser(description="Direct-OpenAI cold-read oracle (Responses API).")
     ap.add_argument("--model", required=True, help="OpenAI API model id, e.g. gpt-5.6-sol")
     ap.add_argument("--model-id", default=None, help="dir under reviews/cold-read/ (default: --model)")

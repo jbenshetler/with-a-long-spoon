@@ -178,6 +178,9 @@ def memory_line(model_id: str, n: int, decade: int) -> str:
     """Human-readable grounded-memory provenance for a review header."""
     b = boundary(n, decade)
     source = cold_read_config.checkpoint_provenance(model_id, b) if b > 0 else ""
+    if b > 0 and ALLOW_STALE_CHECKPOINT and checkpoint_path(model_id, b).exists() \
+            and checkpoint_staleness(model_id, b):
+        source += " (STALE, allowed)"
     if b > 0 and b < n - 1:
         return f"{source} + raw ch{b + 1:03d}..ch{n - 1:03d}"
     if b > 0:
@@ -206,6 +209,51 @@ def checkpoint_extract_args(model: str, model_id: str, b: int) -> list[str]:
     return args
 
 
+ALLOW_STALE_CHECKPOINT = False  # set by --allow-stale-checkpoint (author-approved runs only)
+
+
+def checkpoint_staleness(model_id: str, b: int) -> str | None:
+    """Why ck-ch<b> no longer matches the chapters it summarizes, or None if current.
+
+    consensus: the bundle-sha256 it records must equal the current reader bundle of
+    ch1..b (the exact hash fact_consensus.py mints from). ensemble: checked by
+    checkpoint_ensemble.check inside load_checkpoint. native: no chapter in 1..b may
+    be committed after the checkpoint, or carry uncommitted edits."""
+    if b <= 0:
+        return None
+    source = cold_read_config.checkpoint_source(model_id)
+    path = cold_read_config.checkpoint_path(model_id, b)
+    if source.startswith("ensemble:"):
+        return None
+    if source == "consensus":
+        import hashlib
+        m = re.search(r"bundle-sha256: ([0-9a-f]{64})", path.read_text(encoding="utf-8"))
+        if not m:
+            return f"{path.relative_to(REPO)} records no bundle-sha256"
+        now = hashlib.sha256(checkpoint_bundle.build_reader_bundle(b, start=1).encode()).hexdigest()
+        if m.group(1) != now:
+            return (f"{path.relative_to(REPO)} was minted from chapters 1..{b} as they were "
+                    f"(bundle {m.group(1)[:12]}); they have changed since (now {now[:12]})")
+        return None
+    import subprocess
+
+    def last_commit(p: Path) -> int:
+        r = subprocess.run(["git", "log", "-1", "--format=%ct", "--", str(p)], cwd=REPO,
+                   capture_output=True, text=True)
+        return int(r.stdout.strip() or 0)
+    ck_time = last_commit(path)
+    changed = []
+    for slug in reader_slugs()[:b]:
+        scene = REPO / f"scenes/{slug}.md"
+        dirty = subprocess.run(["git", "diff", "--quiet", "HEAD", "--", str(scene)], cwd=REPO).returncode != 0
+        if dirty or last_commit(scene) > ck_time:
+            changed.append(slug)
+    if changed:
+        return (f"{path.relative_to(REPO)} predates edits to chapters it summarizes: "
+                + ", ".join(changed))
+    return None
+
+
 def load_checkpoint(model_id: str, b: int) -> str:
     """The checkpoint body (its `---`-delimited header stripped), or '' if b == 0."""
     if b <= 0:
@@ -230,6 +278,12 @@ def load_checkpoint(model_id: str, b: int) -> str:
         name = source.split(":", 1)[1]
         import checkpoint_ensemble
         checkpoint_ensemble.check(name, b)
+    stale = checkpoint_staleness(model_id, b)
+    if stale and not ALLOW_STALE_CHECKPOINT:
+        raise SystemExit(f"refusing: stale checkpoint. {stale}.\nRemint it, or pass "
+                         "--allow-stale-checkpoint only if the author has approved this run.")
+    if stale:
+        print(f"WARNING: stale checkpoint allowed: {stale}", file=sys.stderr)
     raw = p.read_text()
     # Files written by checkpoint_extract.py lead with a `# ...\n\n*...*\n\n---\n\n` header.
     marker = "\n---\n\n"
@@ -1055,6 +1109,9 @@ def main() -> None:
     ap.add_argument("--from", dest="start", type=int, default=None, help="first chapter (1-based)")
     ap.add_argument("--to", dest="end", type=int, default=None, help="last chapter (1-based)")
     ap.add_argument("--decade", type=int, default=10, help="checkpoint boundary size (default 10)")
+    ap.add_argument("--allow-stale-checkpoint", action="store_true",
+                    help="read on a checkpoint minted before an edit to a chapter it summarizes; "
+                    "only when the author has approved this run (recorded in the review header)")
     ap.add_argument("--effort", default="low", choices=["none", "low", "medium", "high"],
                     help="reader reasoning effort (default low; high turns the reader into a critic)")
     ap.add_argument("--auth", choices=["subscription", "api-key"], default="subscription",
@@ -1124,6 +1181,8 @@ def main() -> None:
                          "has since changed, then exit. Costs no tokens.")
     args = ap.parse_args()
     model_id = args.model_id or args.model
+    global ALLOW_STALE_CHECKPOINT
+    ALLOW_STALE_CHECKPOINT = args.allow_stale_checkpoint
 
     if args.check_stale:
         models = [model_id] if model_id else sorted(
@@ -1196,7 +1255,8 @@ def main() -> None:
                     load_checkpoint(model_id, b)
                     status = "valid"
                 else:
-                    status = "present"
+                    why = checkpoint_staleness(model_id, b)
+                    status = f"STALE ({why})" if why else "current"
             print(
                 f"{status}  ck-ch{b:03d}  {p.relative_to(REPO)}  source={source}"
             )
@@ -1219,11 +1279,10 @@ def main() -> None:
                 f"{model_id} uses {source}; --auto-mint cannot create donor checkpoints"
             )
         mint_checkpoints(model_id, missing, args, jobs=args.jobs)
-    checkpoint_source = cold_read_config.checkpoint_source(model_id)
-    if checkpoint_source.startswith("ensemble:"):
-        # Validate each shared donor artifact once before stale detection or resume skips.
-        for b in needed:
-            load_checkpoint(model_id, b)
+    # Validate every needed checkpoint (missing, stale, or a broken donor ensemble)
+    # before a single read call is spent.
+    for b in needed:
+        load_checkpoint(model_id, b)
 
     slugs = reader_slugs()
     stale_donor = []

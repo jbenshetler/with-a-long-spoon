@@ -68,6 +68,10 @@ the tree on 2026-09-26 (git history keeps them).
    `tools/checkpoint_ensemble.py check --ensemble core --through B`; remint all
    stale source checkpoints against identical seed and raw-source provenance
    before any ensemble rebuild. Do not mint implicitly.
+   The harness also **refuses a stale checkpoint**: one minted before an edit to any
+   chapter it summarizes (`--check` prints `STALE` with the reason). Remint it first.
+   `--allow-stale-checkpoint` overrides only when the author has approved that run, and
+   the review's `memory:` header then records `(STALE, allowed)`.
 3. Volume packet: the harness injects the volume's public jacket copy from
    `reviews/cold-read/volume-packets.toml` at that volume's opening chapter
    only. Later chapters carry its gist through checkpoint/window memory. If a

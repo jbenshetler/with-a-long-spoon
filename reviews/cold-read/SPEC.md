@@ -581,6 +581,10 @@ retired (kept for history).
   those facts and renumber every later chapter, moving the decade boundaries — every later
   read is then stale. Batch structural changes and do one pass per volume: opus on the
   rewritten chapters, sonnet elsewhere; rebuild the consensus checkpoints from the change on.
+- **A stale checkpoint stops the run.** `cold_read_grounded.py` and the stage oracle refuse a
+  checkpoint whose recorded bundle no longer matches chapters 1..B (consensus; native: any of
+  those chapters edited since the mint). Rebuild it first; `--allow-stale-checkpoint` is
+  author-approved only and marks the review's `memory:` header `(STALE, allowed)`.
 - **Reading Anthropic friction.** Anthropic lanes criticize every chapter at about equal
   volume. Judge a complaint by concentration and corroboration, not presence:
   `tools/friction_check.py` ranks passages REAL / TASTE / CONTESTED / NOISE.

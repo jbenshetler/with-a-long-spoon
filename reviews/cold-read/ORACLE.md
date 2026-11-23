@@ -1,11 +1,10 @@
 # Cold-read oracle — battery & harness contract
 
-The **oracle** is a read-only probe of a *frozen* cold-read reader. Where `/wals-cold-read`
-builds the carry-forward chain (a reader walking the book), the oracle **pauses that
-reader at a chosen stage and asks it questions** — to measure what a genuine first
-reader *knows and feels* at that point, without leaking design. It answers only from the
-jacket + its accumulated carry-forward memory; it reads no prose, no `meta/`, uses no
-tools, and **never mutates the chain** (it advances nothing, writes no new carry-forward).
+The **oracle** is a read-only probe of a *frozen* grounded cold reader. It **pauses the
+reader after a chosen chapter and asks it questions**, to measure what a genuine first
+reader *knows and feels* at that point without leaking design. It answers only from the
+volume's jacket and the memory the grounded reader carries out of that chapter; it sees no
+`meta/`, no later chapter, uses no tools, and writes nothing but its answers.
 
 It exists to fight the **curse of knowledge**: the author cannot feel how opaque a
 buried subtext is to someone who wasn't told. The oracle is the naïve reader we can
@@ -13,29 +12,36 @@ re-interrogate.
 
 ## The reader at stage N
 
-To interrogate the reader "after chapter X," feed the `blind-oracle` agent the
-`## Carry-forward state` from **that scene's own file** —
-`reviews/cold-read/<model>/<X-slug>.md` — because that state *is* the reader's whole
-accumulated memory *after* reading X. (Contrast the cold-read chain, where scene X's
-*input* is X−1's carry-forward.) Chains are **per model**; never cross carry-forward
-between models. The jacket is baked into `.claude/agents/blind-oracle.md`, identical
-every run.
+The reader "after chapter N" holds exactly what the grounded cold reader (`SPEC.md`,
+"Grounded read (v3)") carries out of N:
 
-Requires that the model has a cold-read file for that stage. Full chains currently
-exist for **`claude-opus-4-8`** and **`gpt-5.5`** — two independent readers, probeable
-at every drafted stage.
+- **the jacket** of N's volume, from `reviews/cold-read/volume-packets.toml`, the same
+  data file the cold read injects at each volume's opening;
+- **its own checkpoint** `ck-ch<B>`, B the last decade boundary at or before N (none
+  before chapter 10; donor readers resolve to the `core` ensemble, as in the cold read);
+- **the raw prose of chapters B+1..N** as the book ships, each chapter headed with its
+  title and its reader-facing date line (`chapter_dates`: weekday, month, day), section
+  date lines in the body.
+
+The harness is `tools/cold_read_oracle_stage.py`; the persona is
+`.claude/agents/blind-oracle.md`, sent as the entire system prompt. `--show-prompt` prints
+the assembled prompt and its size, free. It refuses a missing or stale checkpoint (one minted before an
+edit to a chapter it summarizes); `--allow-stale-checkpoint` overrides, only with the
+author's approval for that run, and is recorded in each answer's header. Memory is per model: never give one model
+another's native checkpoint. The archived chained carry-forwards
+(`<model>/chained/`) are not oracle memory.
 
 ## The tiered funnel (non-negotiable method)
 
 A question can **prime** the reader: ask "do you sense romance between Randi and Vee?"
 and a "yes" may be the *question* landing, not the *book*. So every probe runs two
-tiers, **on separate `blind-oracle` spawns** (the pointed spawn must not see the neutral
+tiers, **on separate calls** (the pointed spawn must not see the neutral
 answers):
 
 1. **Neutral pass** — open questions that name no frame the reader wasn't already
    given. Measures **spontaneous salience**: did the book make it land unprompted?
 2. **Pointed pass** — the direct, named question, on a **fresh** instance of the same
-   carry-forward. Measures **retrievability**: is it reachable in memory once asked?
+   memory. Measures **retrievability**: is it reachable in memory once asked?
 
 **The delta is the finding:**
 
@@ -139,54 +145,29 @@ reader has finished; there is no future prose to protect — only `meta/` to avo
 
 ## Output layout
 
-All oracle output lives under the model's own subdir, in an `oracle/` folder, never
-touching the cold-read chain files:
-
 ```
 reviews/cold-read/<model>/oracle/
-  <stage-slug>--<probe-key>.md        ← single-stage probe
-  <probe-key>--checkpoints.md         ← a few key stages, one table
-  <probe-key>--sweep.md               ← every stage, the full curve
-  <stage-slug>--adhoc-<slug>.md       ← ad-hoc question(s)
+  <stage-slug>--<probe-key>--<tier>.md     ← stage oracle, one tier per file
+  <stage-slug>--adhoc-<label>--<tier>.md   ← ad-hoc question (--ask, --label)
+  <probe-key>--<tier>.md                   ← end-of-book grounded oracle (above)
 ```
 
-Each file records, verbatim: the **exact questions asked** (both tiers — the questions
-*are* the measurement), the stage(s), the model, the neutral and pointed answers, and
-for sweeps/checkpoints a table of stage → neutral score → pointed score → delta.
+Each file records the model, the stage, the memory it was given, and the **exact question
+asked** (the questions *are* the measurement), then the answer. Checkpoint and sweep
+tables (stage → neutral → pointed → delta) are assembled from these files.
 
-## Cross-harness / multi-model (GPT, Grok, …)
+## Runners
 
-The oracle generalizes to **any** model that has a cold-read chain, the same way the
-cold read does (SPEC.md). Three files are **shared and model-agnostic** — one copy each,
-never per-model:
-
-- `oracle-battery.json` — the probe questions (machine-readable; this doc is its mirror).
-- `oracle-persona.md` — the verbatim system prompt + jacket every harness sends.
-- `oracle-runs/<runid>.json` — a reproducible run manifest.
-
-Only two things are keyed by model, via `{model}` templating: the **input**
-(`reviews/cold-read/{model}/{stage}.md` → its `## Carry-forward state`) and the **output**
-(`reviews/cold-read/{model}/oracle/…`). Model ids are the **versioned `<model-id>`** from
-SPEC.md (`claude-opus-4-8`, `gpt-5.5`, `grok-4.5`, …) — the same string names the chain
-dir, the oracle dir, and the entry in a run's `models` list.
-
-A run manifest lists **all** target models; **each harness runs only the ids it can
-spawn** (the Claude command runs `claude-*` over their carry-forwards; an external harness
-runs its own model) and skips the rest — exactly as SPEC.md splits the cold read. Every
-harness: loads the shared battery + persona, reads the stage's carry-forward from its
-model's chain, runs the tiered funnel **tool-free** (neutral, then a **fresh** pointed
-call), and writes `{stage}--{probe}.md` under `{model}/oracle/`. Because filenames and
-format are identical, results across models are **drop-in comparable** — set the opus,
-gpt-5.5, and grok-4.5 files for a probe side by side and read the spread. A model whose
-chain isn't finished yet (e.g. grok mid-run) is simply `pending` in the manifest until
-`reviews/cold-read/{model}/{stage}.md` exists.
+`claude-*` readers run headless `claude -p` on subscription OAuth from a throwaway cwd with
+no tools (`--tools ""`); `gpt-*` readers run on codex subscription. Paid (OpenRouter)
+readers are not supported. `oracle-battery.json` holds the probe questions for every
+harness; this doc is its mirror.
 
 ## Contract
 
-- Read-only: the oracle never writes to `scenes/`, `meta/`, or the cold-read **chain**
-  files — only under `oracle/`. It advances no carry-forward.
-- Same **blindness tripwire** as the cold read: the `blind-oracle` spawn must return
-  `tool_uses: 0`; any tool use voids that answer (the reader may have reached outside
-  its memory).
+- Read-only: the oracle never writes to `scenes/`, `meta/`, or the cold reads — only
+  under `oracle/`.
+- Blindness by construction: the reader gets no tools and runs outside the repo, so it
+  cannot reach past the memory it is given.
 - These are *reactions*, not canon. A probe result is evidence about how the book
   lands, never a fact about the book.
