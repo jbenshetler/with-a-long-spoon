@@ -210,7 +210,7 @@ Cassie's *I told you so* about Randi can land quietly, earlier in the conversati
 
 ## The Message — {{Nachtmusik}}, {{Made-Up}} (author rulings 2026-11-20)
 
-Vee receives, from Pace's phone, a line he did not write — *The way that dress hugs your tits makes me wish I was a dress.* She is delighted, not offended: she believes the dress and the shoes broke him out of his respectful self. She replies at once, and the thread is deleted on his side without her knowing. She rereads it (the tenth time, at {{Made-Up}}) and **never mentions it to Pace.**
+Vee receives, from Pace's phone, a line he did not write — *The way that dress hugs your tits makes me wish I was a dress.* She is delighted, not offended: she believes the dress and the shoes broke him out of his respectful self. She replies at once, and the thread is deleted on his side without her knowing. At {{Made-Up}} she quotes it back to him once, in costume, and reads his still face as shyness; she rereads it (the tenth time) and **never raises it with him again**, so as not to make him look at it (author ruling 2026-11-23).
 
 ## What She Carries Forward
 

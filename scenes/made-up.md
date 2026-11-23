@@ -58,9 +58,11 @@ He didn't touch her. His hand came partway up and he put it away again, and the 
 
 "There's a better one?"
 
-"Different. You decide if it's better." She was gone back down the hall before he could say a word.
+"Different. You decide if it's better." She stopped at the mouth of the hall and turned back to him. "The way this dress hugs my tits" — she gave her shoulders a shake and felt all of it move inside the silk — "does it still make you wish you were a dress?"
 
-Behind the door her phone was in the backpack with the makeup. She picked it up and read it again, *makes me wish I was a dress*, the tenth time since Wednesday night, and set it face down. Then she stepped out of the dress and hung it — properly, seams squared on the hanger, a thing somebody's hands were in — and did not let herself stand there breathing. The heels stayed on. That was all of it: the heels stayed on. Her face in the little mirror had gone pink down to where the mirror gave out, and the pink was not stopping there, and knowing that, and going anyway, was the entire costume.
+His face went still in a way she had never seen on it, a man who'd written that alone in the dark with her picture in one hand, hearing it said back to him in the lamplight, and not knowing where to put it, and she laughed, she'd made him shy, and was gone back down the hall before he could say a word.
+
+Behind the door her phone was in the backpack with the makeup. She picked it up and read it again, *makes me wish I was a dress*, the tenth time since Wednesday night, and under it her own three, *PACE.* and *who are you and what did you do with him??* and *I'm keeping this forever*, which he had never answered. If she made him look at it he might never write another. She would keep it, then, and not make him. She set the phone face down. Then she stepped out of the dress and hung it — properly, seams squared on the hanger, a thing somebody's hands were in — and did not let herself stand there breathing. The heels stayed on. That was all of it: the heels stayed on. Her face in the little mirror had gone pink down to where the mirror gave out, and the pink was not stopping there, and knowing that, and going anyway, was the entire costume.
 
 She opened the door.
 

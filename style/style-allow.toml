@@ -3637,6 +3637,13 @@ text = "The warmth arrived ahead of the chapter president."
 note = "Protected warm (triage 2026-07-30); fingerprint re-armed by 2026-08-13 Brooke-warming edit."
 
 [[ok]]
+fp   = "84805d3e3235"
+rule = "warm"
+file = "scenes/my-friend-randi.md"
+text = "Brooke saw the crying and the plane-creased clothes and only got warmer."
+note = "author ruling 2026-11-23: 'only got warmer' kept (14b)"
+
+[[ok]]
 fp   = "a787c52671ca"
 rule = "warm"
 file = "scenes/my-friend-randi.md"
