@@ -705,6 +705,6 @@ Author ruling: Randi's hair is longer than Vee's, because Vee's curl makes hers 
 
 After the Randi tell revision lands, revisit Randi's *"Court's back in session"* (`clean-plate.md:143`) and the court figure around it. Deferred by the author until the tells are settled.
 
-## 53. Fix the Volume 1 jacket copy (TODO — 2026-11-22)
+## 53. Fix the Volume 1 jacket copy (DONE — 2026-11-23)
 
-Author ruling: rewrite the {{The Bench}}–{{Nachtmusik}} jacket in `meta-blurb.md` to lead with Vee's awakening and the dramatic irony. Keep "She doesn't know there's a plan," and promise no triad inside Volume 1 (it first forms in Volume 3). After the edit, `tools/lint_blurb.py --update` re-stamps the reader packet.
+Author ruling: rewrite the {{The Bench}}–{{Nachtmusik}} jacket in `meta-blurb.md` to lead with Vee's awakening and the dramatic irony. Keep "She doesn't know there's a plan," and promise no triad inside Volume 1 (it first forms in Volume 3). After the edit, `tools/lint_blurb.py --update` re-stamps the reader packet. Done 2026-11-23: the copy now opens on both of them wanting Vee, carries the heat in the {{Tannin}} beat, and sets the Randi–Vee meals at brunch (`meta-blurb.md`, Test-epub blurb).

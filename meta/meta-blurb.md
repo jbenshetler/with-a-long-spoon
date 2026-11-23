@@ -4,17 +4,17 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
-## Test-epub blurb (Volume 1 · copy accepted 2026-10-20)
+## Test-epub blurb (Volume 1 · copy accepted 2026-11-23)
 
-*Rewritten 2026-10-20 for Book 1's post-split extent ({{The Bench}} through {{Nachtmusik}}), from a full read of the volume and inside its arc summary (`meta-volumes.toml`). Trimmed from ~370 to ~180 words; "girlhood" and "the girl who" removed (Craft discipline); the plan stated once, in the hook. The comp line is the plain descriptor while the jacket comp is under review (Genre & positioning).*
+*Book 1's extent ({{The Bench}} through {{Nachtmusik}}), inside its arc summary (`meta-volumes.toml`); ~175 words. Leads with the want (both of them want Vee) and the dramatic irony; the heat is a concrete act from the book, Randi's *"Tell me"* in Pace's lap ({{Tannin}}), never a heat adjective. Volume 1's Randi–Vee meals are brunches; the dinners begin in Volume 3. No triad promised (it first forms in Volume 3). The comp line is the plain descriptor while the jacket comp is under review (Genre & positioning).*
 
-> Randi and Pace are lovers, and they have planned the best year of Vivienne Thorne's life. She doesn't know there's a plan.
+> Randi and Pace are lovers, and they want the same woman. Her name is Vivienne Thorne, and she doesn't know there's a plan.
 >
 > Everyone calls her Vee. She is twenty-one and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend Randi steers her, laughing, as if by accident, toward Pace, a young mathematician, Vee goes to him because everything in her has been waiting to.
 >
-> Pace sees her completely. Courtly and exact, he asks before he takes, until choosing becomes the most erotic thing she has ever done. Over long lunches Vee tells Randi everything. Randi listens, and draws her further open, and Vee never lets herself notice how much she wants Randi too.
+> Pace asks before he takes, and takes only what she gives, until saying yes is the most erotic thing she has ever done. Over brunch she tells Randi everything, and Randi leans in, chin on her hands, and asks for more, and Vee never lets herself notice how much she wants Randi too.
 >
-> What Vee can't see is that she was chosen in a game Randi and Pace started in bed. She is the first woman Randi has ever let herself want. What none of them sees coming is how real it will get for each of them.
+> What Vee doesn't know is how Randi spends her nights: in Pace's lap, making him tell her every detail of his afternoons with Vee. She is the first woman Randi has ever let herself want.
 >
 > Every yes was freely given. That was the problem.
 >
@@ -72,7 +72,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 >
 > She is twenty-one, a college junior, and she came to them already starving, and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she does things the Vee of last autumn would have colored to imagine, each on her own nerve, until the daring itself becomes the thing she craves.
 >
-> The lunches with Randi are dinners now. Randi listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face with what she refuses to see. Somewhere in all that leaning close, the thing Vee has never let herself know is waking. Randi is her friend, the best she has ever had, and the goodbye kisses are only Randi being Randi. She tells herself so when the goodbye kiss outlasts the goodbye.
+> The brunches with Randi are dinners now. Randi listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face with what she refuses to see. Somewhere in all that leaning close, the thing Vee has never let herself know is waking. Randi is her friend, the best she has ever had, and the goodbye kisses are only Randi being Randi. She tells herself so when the goodbye kiss outlasts the goodbye.
 >
 > What Vee does not know is that Randi and Pace chose her together, before she was anything to either of them. What none of them counted on was how far it would carry them: the two who moved her have fallen every bit as far.
 >
@@ -106,7 +106,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 >
 > Vee is twenty-one and starving still — carrying the hunger since girlhood — though no one looking would guess it. At the center of her spring is Pace — a mathematician, courtly and exact — whose patience is a room she keeps returning to, until she has half moved in. Under it she does things the girl of last autumn would have colored to imagine, and then the next, and the next, reaching each time for the further dare because the daring has become the taste she can no longer do without. Every step is hers. She takes them faster than anyone ever taught her to.
 >
-> Then there is Randi, across a table that used to hold lunch and holds dinner now. She listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face at what she cannot account for. What rose in her without a name last fall has one now, and she has stopped being able to unknow it: she wants the woman across the table as plainly as she wants the man behind the door. The reaching toward her is Vee's own.
+> Then there is Randi, across a table that used to hold brunch and holds dinner now. She listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face at what she cannot account for. What rose in her without a name last fall has one now, and she has stopped being able to unknow it: she wants the woman across the table as plainly as she wants the man behind the door. The reaching toward her is Vee's own.
 >
 > What Vee cannot see is that Randi and Pace chose her together, once, before she was anything to either of them, and meant this spring to be theirs to open. What none of them saw coming was how far it would carry them: the two who moved her have moved every bit as far. Nothing is taken from Vee that she does not hand over, gladly.
 >
