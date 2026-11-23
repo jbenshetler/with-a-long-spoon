@@ -3462,6 +3462,13 @@ text = "She watched him make himself do it."
 note = "watching him comply is the event, not a filter; author sign-off 2026-08-06"
 
 [[ok]]
+fp   = "1d504a61c888"
+rule = "the-way"
+file = "scenes/made-up.md"
+text = "\"The way this dress hugs my tits\" — she gave her shoulders a shake and felt all of it move inside the silk — \"does it still make you wish you were a dress?\""
+note = "author ruling 2026-11-23: Vee quotes the forged line verbatim"
+
+[[ok]]
 fp   = "aa97516b88fe"
 rule = "there-was-were"
 file = "scenes/made-up.md"
@@ -6043,6 +6050,27 @@ rule = "x-not-y"
 file = "scenes/substitution.md"
 text = "He had four steps to cover from the door to where they were sitting and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her."
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
+
+[[ok]]
+fp   = "74cec4873923"
+rule = "there-she-is"
+file = "scenes/tannin.md"
+text = "*There you are.*"
+note = "the hinge: Pace's words on the bench become Randi's to Vee in the stats room (Tannin drive widening, author approved 2026-11-23)"
+
+[[ok]]
+fp   = "3c616df76511"
+rule = "warm"
+file = "scenes/tannin.md"
+text = "The seat was warm under her thighs and the heat in it was his."
+note = "seat-heat callback to the panel's first line; the heat becomes his palm (Tannin drive widening, author approved 2026-11-23)"
+
+[[ok]]
+fp   = "de95da37a283"
+rule = "x-not-y"
+file = "scenes/tannin.md"
+text = "His palm resting on her, not striking, so long that the waiting became the thing itself, and then the first one, small and sharp, and the heat coming up in the shape of his hand."
+note = "canon fact from The Bench, the resting palm before the first strike (Tannin drive widening, author approved 2026-11-23)"
 
 [[ok]]
 fp   = "250af20f39d1"

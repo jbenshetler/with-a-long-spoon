@@ -144,3 +144,17 @@ the target and finding id.*
   meeting is real; Randi is not lying (author ruling 2026-11-22). The cookie-penance
   story stays, as fun and characterization. Capture readers suspecting a lie
   (glm, argon, `gate-ch018.md`) is a side effect, not a defect.
+- **vol1 C7 (2026-11-22 consensus) — the heat sag after ch1:** acted on (author ruling
+  2026-11-23). {{Tannin}}'s drive opens on {{The Bench}} in Randi's body (pain,
+  begging, *There you are*) and breaks into the stats room; the new Oct 13 Pace/Randi
+  chapter (`meta-note-untitled-oct13.md`) carries the middle. No threesome is
+  presented. Final ruling waits on the next structural re-run.
+- **vol1 C15 (2026-11-22 consensus) — the forged message left on Vee's phone:** acted
+  on (author ruling 2026-11-23). At {{Made-Up}} (`made-up.md:59-63`) Vee quotes it back
+  to Pace ("does it still make you wish you were a dress?"), reads his still face as
+  shyness, and keeps the thread so as not to make him look at it; she never raises it
+  again. Randi reads the silence as impunity. The exposure is deferred by design to a
+  second forged message after {{Gesso}}, found by Pace in Recently Deleted
+  (`meta-plan-forged-message-reveal.md`). Final ruling waits on the next structural
+  re-run.
+

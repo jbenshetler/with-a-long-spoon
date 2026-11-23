@@ -18,3 +18,11 @@ Complaint (glm-5.3 romance-graduate gate, v3): fourth chapter in a row where the
 - **:57** "Then the face, a half-beat behind, the thing at her mouth from the quad" — "a half-beat behind" is the sentence's predicate; no trim reads cleanly.
 - **`the-pointing-game.md:91`** "he felt it arrive in her body before her face changed" — the clause says the want reached her face in public.
 - **`substitution.md:209`** "She was nodding before her mouth caught up." — the body consents to *May I* ahead of her decision; "She was nodding." alone could read as chosen.
+
+## Structural pass: vol1 C7, the heat sag (author ruling 2026-11-23)
+
+Complaint (`audits/structural/vol1/consensus.md:109`, 3 editors): ch1's power exchange never resurfaces between chs 4 and 16. Answered in part here and in part by the new Oct 13 Pace/Randi chapter (`meta-note-untitled-oct13.md`).
+
+### Fixed
+- **:9–21** — the drive panel now opens on the bench. She anticipates the door kiss (his arms, the little kiss and his easing off, and she won't let him), twists the leather wheel, and is back in the cradle; the seat heat comes second, as his hand. The pain, the edging, *Please* and *I'm begging* are rendered; it breaks at *There you are.* into the stats room. **:23** "until Randi spoke" → "until Randi said it." **:11** comma before "before she had agreed to be." **:17** "And then not again" → "Again and then emptiness"; the waiters aside and "ugly and wet" cut, *Please,* over and over kept. **:25** cut "and Randi's eye, which sorted every girl it met, had nowhere to put her" (the list does the grading); "Tall and lush, clear green eyes…". Praise split one for (glm-5.3), one against (sonnet-5-5). Guards updated: `meta-note-tannin.md` (the pain stays in the memory, no present tell), `meta-craft-randi.md` (the withheld-interior carve-out).
+

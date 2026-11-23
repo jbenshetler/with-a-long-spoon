@@ -6,9 +6,23 @@
 
 The top was down. She had the heat blowing on her legs and the seat warm under her, and over all of it the evening came cold across the windshield, onto her face and no farther, and she liked it there. Now and then the wind got in over the glass and tossed the ponytail from one shoulder to the other.
 
-In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi spoke, and all those red curls came whipping around.
+She would be at his door soon. His arms would come around her, strong, and he would bend and give her the little kiss he gave at the door, and ease off it to leave the rest to her, and she would not let him. She would take the kiss to him. Her hands went tight around the wheel with it, twisting on the stitched leather.
 
-After the coffee, out on the sidewalk, Randi had looked up, a long way, into her face before she pulled Vee into the hug. Tall, and lush with it, and Randi's eye, which sorted every girl it met, had nowhere to put her. Clear green eyes, the gold in their depths visible only on close inspection. Peach skin that loved to blush. Freckles across her nose and the tops of her cheeks, under a base that hid them from the room and not from her. And the smile, welcoming and genuine.
+The grips. Her hands closed on them, and she was facedown in the cradle again, before she had agreed to be.
+
+The nothing under her, where a table should have been. His palm resting on her, not striking, so long that the waiting became the thing itself, and then the first one, small and sharp, and the heat coming up in the shape of his hand. The seat was warm under her thighs and the heat in it was his. Then harder. Then the same place again, and again, until she could not tell the strike from the touch after it, and stopped trying, and the bench had her.
+
+She took the curve too fast and the cold came over the glass and struck her face, and she was in the car. Then she was not.
+
+His fingers, and then not. Again and then emptiness, each time she was nearly there, until she was pushing back into nothing and could not stop, and the sound that came out of her was one she had never heard herself make. *Please,* over and over. She had said *I'm begging* out loud, with her face in a leather ring, and he had made her wait even for that, and then he hadn't, and it had gone up through her stomach into her shoulders and down again, and it had been hers.
+
+And then his voice, close, very soft.
+
+*There you are.*
+
+In the stats room she had come in at the back and along the row, and Vee hadn't known she was there — sat watching the front door like a girl waiting on a date — until Randi said it, and all those red curls came whipping around.
+
+After the coffee, out on the sidewalk, Randi had looked up, a long way, into her face before she pulled Vee into the hug. Tall and lush, clear green eyes, the gold in their depths visible only on close inspection. Peach skin that loved to blush. Freckles across her nose and the tops of her cheeks, under a base that hid them from the room and not from her. And the smile, welcoming and genuine.
 
 Then Randi had her arms around her, and the height did the rest. Randi's face went into her, only the cardigan between them, and the soft warm give of her taking Randi in, full against her cheek for the length of one second.
 

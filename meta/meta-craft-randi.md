@@ -228,7 +228,7 @@ A volunteered series in which Randi debases herself sexually with Pace, each run
 - **Pace defuses, then plays.** He never wounds carelessly — he refuses to rank, tenderness first (see the breast-comparison defusal, `ignition-scalding.md`). What lands is his *kind* answer, read off her body and offered inside the deniable wrapper.
 - **Nothing is named, and the cup stays quiet** — in a sexual venue she has the discharge the clothed venues deny her.
 
-Keep her interior withheld; the reader assembles the masochism from what she volunteers and how her body answers, never from access to her wanting it.
+Keep her interior withheld; the reader assembles the masochism from what she volunteers and how her body answers, never from access to her wanting it. One exception: {{Tannin}}'s drive opens on {{The Bench}} as remembered sensation, pain and begging included, never as her thought about it (author ruling 2026-11-23).
 
 ---
 
