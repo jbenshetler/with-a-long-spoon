@@ -1,6 +1,6 @@
 # Untitled — the Oct 13 Pace/Randi chapter (planning note)
 
-*Companion note for a planned, undrafted Volume 1 chapter. Working slug `untitled-oct13`; the title comes after the draft (`/wals-ch-title`; "Motivation" and "Material" were floated, nothing chosen). Not yet in `meta-plan-chronology.md`: adding its entry, and renumbering the chapters after it, is a separate step the author has not yet ordered.*
+*Companion note for a planned, undrafted Volume 1 chapter. Title Colors, slug `colors`. Not yet in `meta-plan-chronology.md`: adding its entry, and renumbering the chapters after it, is a separate step the author has not yet ordered.*
 
 **Status of what follows.** Sections marked **Author ruling** were decided by the author in workshop (2026-11-21). Sections marked **Proposed** are the assistant's beat outline. The author has ruled on that outline's open questions but has not approved the outline as a whole. The drafting session should treat the proposed beats as a strong starting shape, not as canon. Line anchors were checked against the prose on 2026-11-23.
 

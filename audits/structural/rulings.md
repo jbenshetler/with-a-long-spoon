@@ -147,7 +147,7 @@ the target and finding id.*
 - **vol1 C7 (2026-11-22 consensus) — the heat sag after ch1:** acted on (author ruling
   2026-11-23). {{Tannin}}'s drive opens on {{The Bench}} in Randi's body (pain,
   begging, *There you are*) and breaks into the stats room; the new Oct 13 Pace/Randi
-  chapter (`meta-note-untitled-oct13.md`) carries the middle. No threesome is
+  chapter (`meta-note-colors.md`) carries the middle. No threesome is
   presented. Final ruling waits on the next structural re-run.
 - **vol1 C15 (2026-11-22 consensus) — the forged message left on Vee's phone:** acted
   on (author ruling 2026-11-23). At {{Made-Up}} (`made-up.md:59-63`) Vee quotes it back

@@ -1495,6 +1495,62 @@ text = "She was smiling, remembering last time — Randi pointing to the very sp
 note = "re-armed by want-arc pass edits 2026-11-13; author acked wholesale 2026-11-14"
 
 [[ok]]
+fp   = "606e39e6af25"
+rule = "began-to"
+file = "scenes/colors.md"
+text = "Behind her, Stephen began to type, fast and loud, on a screen that had gone dark ten minutes ago."
+note = "author approved beat 4, 2026-11-24"
+
+[[ok]]
+fp   = "ef8ebfc1a4d4"
+rule = "filter-verbs"
+file = "scenes/colors.md"
+text = "She saw."
+note = "author ack 2026-11-24 (Colors office panel)"
+
+[[ok]]
+fp   = "1090584b72cb"
+rule = "the-way"
+file = "scenes/colors.md"
+text = "Her hand went to her throat, to the neckline of the merino, the way a woman's goes to a necklace, and she was wearing no necklace."
+note = "author approved beat 4, 2026-11-24"
+
+[[ok]]
+fp   = "8b125d5adf4a"
+rule = "the-way"
+file = "scenes/colors.md"
+text = "What he did not have was one line two-thirds of the way down his own page, where every lamp the man had lit and walked away from had to be paid for, and the count kept coming out a little too large to be true."
+note = "measurement ('two-thirds of the way down his page'), not the filtered construction; author ack 2026-11-24"
+
+[[ok]]
+fp   = "be27713a695b"
+rule = "the-way"
+file = "scenes/colors.md"
+text = "The heels went down one at a time, and she let Stephen have every one of them, all the way to Pace's desk, and she drew the spare chair round to the front of it, a little nearer than a stranger would have, and sat with her back to the room, and crossed her knees, and the houndstooth went tight across them."
+note = "author ack 2026-11-24 (Colors office panel)"
+
+[[ok]]
+fp   = "bfc51fc5dcbd"
+rule = "the-way"
+file = "scenes/colors.md"
+text = "The heels went away down the corridor, quick and sure, and Pace listened to them all the way to the stairs."
+note = "distance ('all the way to the stairs'); author approved beat 5, 2026-11-24"
+
+[[ok]]
+fp   = "8c28a42ba402"
+rule = "there-was-were"
+file = "scenes/colors.md"
+text = "Her hand went down to her lap and smoothed the houndstooth along her thigh, slowly, from the hip to the knee, as if there were a crease in it."
+note = "author ack 2026-11-24 (Colors office panel)"
+
+[[ok]]
+fp   = "ee2e217bca02"
+rule = "x-not-y"
+file = "scenes/colors.md"
+text = "Short strides, quick and sure, not hurrying, each one set down as if the floor had been laid for it."
+note = "her stride: quick and sure, not hurrying; author ack 2026-11-24"
+
+[[ok]]
 fp   = "30c91f61cfe3"
 rule = "there-was-were"
 file = "scenes/coming-due.md"
