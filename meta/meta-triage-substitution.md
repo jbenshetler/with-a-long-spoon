@@ -196,3 +196,7 @@ reader's reaction, not a ruling. Author to rule; then move the item to Fixed or 
 
 ### Left standing — do not re-litigate
 - **:195** "The laugh got away from her, the good kind." and **:277** "it got away from her" — the repeat stands; the cup is a designed beat and `:277` runs on into "found she didn't care", one of her first ownership moments.
+
+## Euler figure (author 2026-11-28)
+
+- **Fixed — `:129` the right-angles gloss cut.** Was: "…you push and they won't give, and neither one quite looks like what it is. Put them together, at right angles, and they turn into a single thing that's suddenly plain — easy to name, easy to know what to do with." Now: "…you push and they won't give. Put them together, at right angles, and they're one thing." Convergent across three vendors: sol capture ALMOST-STOPPED at CAPTURE 10 ("the book put a fluorescent arrow over it… Trust the image"), kimi cold ("comes close to underlining itself"), sonnet cold ("almost too neat"). Praise was for the image, not the gloss (opus capture: "grateful the book didn't say so"); "right angles" and "put them together" stay to carry it. "Suddenly plain" pre-stated `:133` ("It had gone easy. It had gone clear."); "neither one quite looks like what it is" pointed at the pair.

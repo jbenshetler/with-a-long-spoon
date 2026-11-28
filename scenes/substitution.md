@@ -126,7 +126,7 @@ She looked at it and shuddered before she could help it.
 
 "Way back — before calculus, even. It had its own little chapter, we did the problems, and that was it. I've known it for years and never once used it. It didn't seem like it was *for* anything."
 
-"It's for this." He touched the little cross. "On their own these two are a struggle — you push and they won't give, and neither one quite looks like what it is. Put them together, at right angles, and they turn into a single thing that's suddenly plain — easy to name, easy to know what to do with. You already know every piece of this." He set the pencil back in her hand.
+"It's for this." He touched the little cross. "On their own these two are a struggle — you push and they won't give. Put them together, at right angles, and they're one thing. You already know every piece of this." He set the pencil back in her hand.
 
 She hadn't known she was allowed.
 
