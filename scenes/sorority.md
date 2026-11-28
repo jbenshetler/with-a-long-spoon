@@ -180,20 +180,38 @@ She looked down the length of her own legs, both flats gone, all leg now, the ba
 
 Her eyes went to the dress on its hook, and the number on the sole quietly stopped being the thing. A different arithmetic had taken the wheel, the only one that counted now: that the gown was the most beautiful thing she would ever own and it had been made *to* her by a man who had thought of nothing else for a week, and you did not, you *could* not, set a thing like that down onto shoes that were an apology. It would be wrong. The shoes were not a want she had to own as a want. They were what the dress was owed.
 
-At the front the woman folded the heels in tissue and laid them in their box and the box in a bag with rope handles, and Vee got out her card.
+Vee was still on the bench working her flats back on when Randi went up to the counter ahead of her. She leaned in to the woman and said something low, a few words, her hand flat on the glass, and the woman nodded once. Vee didn't catch it.
 
-Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way, and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead. The number was the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face. She would not flinch in this room.
+At the front the woman folded the heels in tissue and laid them in their box and the box in a bag with rope handles, and set them to one side, and Randi had picked up a pair of her own.
 
-Beside her, while she did it, Randi had picked up a pair of her own.
+She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter beside Vee's bag, and a card came out of her wallet without her seeming to choose it. She was telling Vee a story about a woman who'd ruined a coat doing the tailoring, the whole time, her hands going. The woman said the total to her, softly, and it was Vee's shoes and then several times that again, and Randi gave it a little wave of two fingers, down, as if to settle it, and signed without glancing down.
 
-She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter next to Vee's box, and a card came out of her wallet without her seeming to choose it, and the number that rang up was a multiple of Vee's — the price of the shoes Vee was white-knuckling, and then several times that again — and Randi never once looked at it. She was telling Vee a story about a woman who'd ruined a coat doing the tailoring, the whole time, her hands going, and she signed without glancing down and asked the woman to box her old heels, because she'd wear these out.
+Vee laughed in the right places. Her wallet was already open in her hand. Her thumb found the debit and rested on it, the card she paid her own way with, the one that only ever spent what was already behind it, and she felt the last careful thing in her give way, and slid it back into its slot, and drew out the other one, the credit card she kept for emergencies and gas and the months that ran long. The number was going to be the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that, and she held the card ready anyway, and thought of Thursday, the door and the room turning to find her, and the dress on its hook that a man had made to her with his own hands. It was owed this. She would not flinch in this room.
 
-And she did. She walked out of the boutique in brand-new shoes like it was nothing on earth, like shoes were a thing you simply traded mid-afternoon when you happened past better ones. And Vee carried her own box out against her chest with both arms, the rope handle not enough for it, holding the thing she'd just bought like it might get up and leave her.
+The woman finished with Randi and handed back her card, and Vee slid hers across the glass.
+
+The woman smiled at her and slid it back. "Your friend took care of you."
+
+Vee looked at the card under her fingers, and then at Randi, who was putting her wallet away in the bag open on the counter, still telling the story about the coat. The floor came back under her all at once, the next month lifted clean off, and the relief went through her so fast she was light with it, and behind the relief came the rest of it, too big to stand still under. And under all of that, something else, small and settling. She owed Randi now.
+
+"Randi—"
+
+"It's the least I could do." Randi didn't look up from her bag. "My girl's joining an honor society."
+
+"That is not the least, and you know it." Vee took her by the shoulders and turned her round from the counter, so that Randi was facing her.
+
+Then she put her arms around her. Right there in the hush she pulled Randi in and held on, and Randi laughed into her hair and held her back, her hands going down Vee's back and coming to rest low, on the round of her hips, and keeping her there, close, rocking her a little side to side, as long as Vee wanted.
+
+"Thank you," Vee said into her shoulder. It came out much too small.
+
+Randi asked the woman to box her old heels, because she'd wear these out.
+
+And she did. She walked out of the boutique in brand-new shoes like it was nothing on earth, like shoes were a thing you simply traded mid-afternoon when you happened past better ones. And Vee carried her own box out against her chest with both arms, the rope handle not enough for it, holding it like it might get up and leave her.
 
 The afternoon had gone long on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin.
 
 "You can put it in the trunk, you know," she said. "It's not going to *spoil*."
 
-And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her whole and unrehearsed, the kind that bends you at the middle. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them.
+And it caught Vee right under the rib — caught holding the box like that, like a girl who didn't trust the world with a beautiful thing — and the laugh came up out of her whole and unrehearsed, the kind that bends you at the middle. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them.
 
 "Love you, girl," Randi said, still laughing, and Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.

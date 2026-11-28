@@ -251,3 +251,10 @@ Cross-chapter copies of the Randi–Vee meal narration, ruled item by item (`aud
 - **:83** "the wanting got there before the plan, the wanting to be *seen*" → "the want was faster than the plan, the want to be *seen*" (copy of `how-its-done.md:282`). **Supersedes** the left-standing entry at `:135-137` above (author ruling 2026-11-22).
 - **:21** "the full warmth of her attention on, like a lamp finding you" → "turned to her".
 - Left standing: the Mercedes window (`:115`); the professor's cereal-box voice (`:35`, rotating vehicle).
+
+## The till — Randi pays (author rulings 2026-11-28)
+
+- **Changed — `:183–197` Randi pays for the heels without asking.** The whisper to the clerk; the total said softly, Randi's two-finger wave; Vee's steeling (debit, credit card, *It was owed this*, "She was." cut so the want stays on the dress); *"Your friend took care of you"*; *She owed Randi now* (stopped there — "She hadn't been asked" cut as stating the thesis); *"It's the least I could do. My girl's joining an honor society."* / *"That is not the least, and you know it"*; the hug, hands *low, on the round of her hips* (kept). Supersedes the 2026-11-21 card's-afterlife ruling.
+- **Cut over praise, author's call:** Vee's credit-card debt (glm, argon, carbon, opus, sol all felt it; the readiness and the drawn card stay, the debt does not); "a girl who had never in her life bought a beautiful thing" (sol authorship audit) cut to "a girl who didn't trust the world with a beautiful thing" — "given/owned" variants rejected because they set the shoes against Pace's dress.
+- **Why:** with five volumes the Dressing Room's "first deployment" no longer needs protecting; a gift taken from her without asking is the rung below the offer. Later reader memory already drifted to "the heels Randi bought" (`ck-ch070.md:474`).
+- Follow-ons: `the-induction.md:9–13` (gift receipt, no price; the books; *taken it from her*), `across.md:23` (the gift recall).

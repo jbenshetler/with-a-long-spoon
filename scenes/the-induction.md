@@ -6,9 +6,9 @@ Cassie was still in class and would be back to walk her over. The dress was on. 
 
 They were on the closet floor behind her boots, where she had put them Saturday, still in their box in the bag with the rope handles. She knelt and drew the box out and lifted the lid.
 
-The receipt lay on the tissue, folded once. She had tucked it in at the counter without looking at it.
+A gift receipt lay on the tissue, folded once. The woman must have tucked it in.
 
-Her hands stopped. She did not unfold it. In January there would be books again, the whole new stack of them, and she did not know what she would buy them with.
+Her hands stopped. She unfolded it. The shop's name was on it in gray, and the shoes, and the date, and no price anywhere. In January there would be books again, the whole new stack of them, and she could buy them now. She'd had her card out, ready to do it, and Randi had taken it from her. *The least I could do.* It wasn't. She had told her so.
 
 She held it a moment between two fingers. Then she put it in her desk drawer, under her class schedule, and shut the drawer, and turned down the tissue.
 

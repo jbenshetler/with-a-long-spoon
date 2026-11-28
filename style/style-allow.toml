@@ -5408,6 +5408,13 @@ text = "She'd half-meant to just unzip it and hold it up on the hanger, which wa
 note = "Group C (2026-08-07): 'she heard herself say' is the sentence's subject, not a filter - the wanting got there before the plan and Vee catches her own voice already doing it. Body before mind working."
 
 [[ok]]
+fp   = "ff87e6edf1e9"
+rule = "filter-verbs"
+file = "scenes/sorority.md"
+text = "Her thumb found the debit and rested on it, the card she paid her own way with, the one that only ever spent what was already behind it, and she felt the last careful thing in her give way, and slid it back into its slot, and drew out the other one, the credit card she kept for emergencies and gas and the months that ran long."
+note = "re-armed by author-approved till-beat revision 2026-11-28 (Randi pays)"
+
+[[ok]]
 fp   = "51f2eff34e44"
 rule = "not-x-but-y"
 file = "scenes/sorority.md"
@@ -5441,6 +5448,13 @@ rule = "the-way"
 file = "scenes/sorority.md"
 text = "Could not stand in this expensive hush and tell Randi, who belonged here the way she belonged everywhere, who was already down the lit shelves touching things, that she could not afford to be inside the door."
 note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
+
+[[ok]]
+fp   = "4b2e65994203"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter beside Vee's bag, and a card came out of her wallet without her seeming to choose it."
+note = "re-armed by author-approved till-beat revision 2026-11-28 (Randi pays)"
 
 [[ok]]
 fp   = "a23c353c7713"
