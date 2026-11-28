@@ -2,8 +2,6 @@
 
 *[SCENE] · Pace POV, close third: his campus office in the afternoon, then his bedroom that night; then Randi POV on the glass porch, Pace asleep · Vee does not appear — they talk about her.*
 
-<!-- Panel 1 — the office (beats 1–5) -->
-
 Stephen had the marker and the board, and he had had them both for twenty minutes.
 
 "—because it's not about *him*, man, that's what kills me." He drew the street again, a long line hatched with lamps, and put a stick figure on it with its arms out. "He's just some cat stumbling home. Left, right, flips one, leaves one. Who cares where he ends up? It's the street. How lit up is the street when he's done with it? That's the distance. That's the whole thing." He stood back from it, delighted, his hair swinging forward over the big black frames, and pushed it back with the hand that held the marker and left an orange streak at his temple. "That's beautiful. Tell me that's not beautiful."
@@ -126,11 +124,7 @@ Pace said nothing. He found he was very pleased with Stephen, and with the after
 
 Stephen got up and went back to the board, and stood in front of the street and the stick figure with the marker, and the orange streak was still at his temple. "So, okay. You see, I've been thinking." He tapped the last lamp. "What if you don't count the lamps at all? What if you count the times he turns around?"
 
-<!-- Held for Volume 4, when Randi brings the author cover back: "My heroine's tied up, and I don't know what to do with her." -->
-
 ---
-
-<!-- Panel 2 — the bedroom: arrival and the edging -->
 
 He fitted two tapers into the candelabra on the dresser and lit them. He let them burn until they had made their pools, and then he turned his left wrist up and tipped the candelabra over it.
 
@@ -252,7 +246,7 @@ Then he let his hands have her. Down her sides and over her hips, the long muscl
 
 She tipped her head back against his shoulder to find him upside down. "Brooke."
 
-"Brooke means stop."
+"Brooke means stop?"
 
 "Darling. Brooke stops everything."
 
@@ -358,7 +352,7 @@ He lifted the taper away. Her eyes went with it, across her to the other side, a
 
 "Do it," she said.
 
-He let it gather. The bead swelled at the lip of the cup and hung, and she held herself up under it, and the nipple drew tighter while she waited. Then it fell. The breath went out of her in a long hiss through her teeth. The cocoa went dark through the clear of it, and the milk closed over, and the wine-dark came up all round the white.
+He let it gather. The bead swelled at the lip of the cup and hung, and she held herself up under it, and the nipple drew tighter while she waited. Then it fell. The breath went out of her in a long hiss through her teeth.
 
 He gave her both again, one and then the other, slower, and each time her eyes went to the bead as it gathered, and each time she lifted to it. Her nipples drew up under the white so hard they looked as if they hurt. They did. She said his name, and then she was saying nothing he could make out, and her heels were pushing at the sheet.
 
@@ -374,7 +368,7 @@ He gave her both again, one and then the other, slower, and each time her eyes w
 
 "Then she unbuttons the redhead's skirt." Her eyes had gone to the taper. "And lets it fall."
 
-He moved it down and let a drop fall on her stomach, below the ribs, and she shuddered all along her length. Clear, and then white.
+He moved it down and let a drop fall on her stomach, below the ribs, and she shuddered all along her length.
 
 She looked down at it, and then down the length of herself, and back at him. When she spoke again it came fast, as if she had to get it out before she lost her nerve. "And she slides her panties off."
 
