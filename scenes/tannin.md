@@ -72,7 +72,7 @@ He felt it before her face did anything — under his hands first, her breasts p
 
 "Did she eat all of it?" she said.
 
-"She was still at it when I left."
+"All of it. She took her time."
 
 She drank again, a longer swallow, and kissed him again, and this time she stayed in it a while, her hands coming up into his hair.
 
