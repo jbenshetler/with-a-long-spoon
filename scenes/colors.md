@@ -4,7 +4,9 @@
 
 Stephen had the marker and the board, and he had had them both for twenty minutes.
 
-"—because it's not about *him*, man, that's what kills me." He drew the street again, a long line hatched with lamps, and put a stick figure on it with its arms out. "He's just some cat stumbling home. Left, right, flips one, leaves one. Who cares where he ends up? It's the street. How lit up is the street when he's done with it? That's the distance. That's the whole thing." He stood back from it, delighted, his hair swinging forward over the big black frames, and pushed it back with the hand that held the marker and left an orange streak at his temple. "That's beautiful. Tell me that's not beautiful."
+"—because it's not about *him*, man, that's what kills me." He drew the street again, a long line hatched with lamps, and put a stick figure on it with its arms out. "He's just some cat stumbling home. Left, right, flips one, leaves one. Who cares where he ends up? It's the street. How lit up is the street when he's done with it? That's the distance. That's the whole thing."
+
+He stood back from it, delighted, his hair swinging forward over the big black frames, and pushed it back with the hand that held the marker and left an orange streak at his temple. "That's beautiful. Tell me that's not beautiful."
 
 "It's beautiful," Pace said.
 
@@ -72,7 +74,9 @@ She had found a lock of hair loose under the beret, and she wound it round one f
 
 She considered that. Her hand went down to her lap and smoothed the houndstooth along her thigh, slowly, from the hip to the knee, as if there were a crease in it.
 
-"As it is, things are sliding along too smoothly for the heroine," she said. She shifted in her seat, and uncrossed her knees and crossed them the other way, out past the corner of the desk, and the slit fell open: the black of the stocking up her thigh, and at the top of it a band of lace, the ice of the check, and above that the white of her. Then she had smoothed it closed again. "She needs a different kind of friction to get to the next stage." Her eyes closed on *friction*, as if the word had a taste, and opened again. "Something has to put her in a spot of trouble, or there's no climax. And it has to happen naturally."
+"As it is, things are sliding along too smoothly for the heroine," she said. She shifted in her seat, and uncrossed her knees and crossed them the other way, out past the corner of the desk, and the slit fell open: the black of the stocking up her thigh, and at the top of it a band of lace, the ice of the check, and above that the white of her. Then she had smoothed it closed again.
+
+"She needs a different kind of friction to get to the next stage." Her eyes closed on *friction*, as if the word had a taste, and opened again. "Something has to put her in a spot of trouble, or there's no climax. And it has to happen naturally."
 
 He knew exactly what she was doing. It was a farce, played with a straight back to the room, and any word of it would have stood up anywhere. But it was his office, in the middle of the afternoon, with Stephen ten feet away, and the heat came up in him anyway, and he was glad of the desk.
 
@@ -194,17 +198,15 @@ He let that one go by. "What can't she wait for?"
 
 She looked at him for a long moment, under the beret.
 
-"I came to thank you," she said, "for all your help this afternoon."
-
-"It was nothing."
-
-"It was not nothing." She came to him across the rug.
+"That's the part I'm saving for the climax." It came in the sex-kitten voice, the trailing one, a breath late. She came to him across the rug.
 
 He reached for the hem of the merino. She caught his hands and put them down at his sides, and held them there a moment to be sure they would stay. Then she undressed him. The shirt first, up and over his head, her knuckles going up his ribs with it; then the button, and the zip, and she drew his pants and the rest down together and he stepped out of them onto the rug. Her eyes never left his face.
 
-Then she lifted his hands, and put them in her hair, and pulled the beret off herself and let it fall, so his fingers went into the black of it, and she undressed against him. She did it close, so that he had her hair and the heat of her and nothing to look at, and each part of her she bared came to him against his skin before he could see it: the merino up over her head between them, and her stomach bare on his before it had cleared her face; the zip at her hip; the houndstooth down and stepped out of behind her, where he could not follow it, and then her leg coming up the outside of his in the stocking, the long slide of it, and at the top the edge of lace and then skin. When he leaned back to see, she leaned with him. When she turned, she turned into him. The bra came last, and she gave him her breasts against his chest before she sent it over his shoulder, and her panties after it, and he heard them land on the top of the bench. He had the whole of her against him and could not see any of it.
+Then she lifted his hands, and put them in her hair, and pulled the beret off herself and let it fall, so his fingers went into the black of it, and she undressed against him. She did it close, so that he had her hair and the heat of her and nothing to look at, and each part of her she bared came to him against his skin before he could see it: the merino up over her head between them, and her stomach bare on his before it had cleared her face; the zip at her hip; the houndstooth down and stepped out of behind her, where he could not follow it, and then her leg coming up the outside of his in the stocking, the long slide of it, and at the top the edge of lace and then skin.
 
-"I'm very grateful," she said, and went down onto her knees on the rug.
+When he leaned back to see, she leaned with him. When she turned, she turned into him. The bra came last, and she gave him her breasts against his chest before she sent it over his shoulder, and her panties after it, and he heard them land on the top of the bench. He had the whole of her against him and could not see any of it.
+
+"Your pen is leaking," she said, and went down onto her knees on the rug.
 
 She left his hands where she had put them and did as she liked. He had carried the afternoon home with him and it had not gone anywhere, and she knew it. She was slow, and then she was not, and then slow again, and each time he came near the edge she knew it before he did, and eased off, and looked up at him, and began again.
 
@@ -218,7 +220,9 @@ He stood there and let it go through him. Every part of him wanted to be back in
 
 "You are," he said.
 
-He brought it back and set it on the foot of the bed with the hinges toward her. Black walnut, the sides dovetailed into the ends, and strips of rosewood set into the lid along the grain, red lines running the length of the dark under the lacquer. He lifted the lid, so that it stood up between her and whatever was inside, and took out the cuffs. He had cut them from a length of black microsuede at the long table on the porch, in the evenings, and sewn each one around a core so it would hold its shape and give. A nylon strap ran between them through a buckle he could let out or take in.
+He brought it back and set it on the foot of the bed with the hinges toward her. Black walnut, the sides dovetailed into the ends, and strips of rosewood set into the lid along the grain, red lines running the length of the dark under the lacquer.
+
+He lifted the lid, so that it stood up between her and whatever was inside, and took out the cuffs. He had cut them from a length of black microsuede at the long table on the porch, in the evenings, and sewn each one around a core so it would hold its shape and give. A nylon strap ran between them through a buckle he could let out or take in.
 
 He laid them across his palm for her. She had never seen them. Her eyes went wide, and stayed wide. He put his hand along her jaw and turned her face up to him.
 
@@ -232,7 +236,9 @@ He kept her face in his hand and kissed her until her mouth gave under his and h
 
 She turned and gave him the long pale back, and set her hands together at the base of her spine.
 
-He took her left arm high, at the shoulder, and drew his hand down the whole length of it to the wrist, where the pulse was going, before he buckled the cuff on, close and snug. He ran a finger under it to be sure it would not bind, and the bracelet came down and rested its weight against the cuff's edge. The right arm the same, shoulder to wrist, with his mouth at the back of her neck. He took the strap in until her arms hung straight down and would go no farther forward. She tried them, the slow pull and the strap answering it, and let out a breath, and it went down through him to where he was still aching from her.
+He took her left arm high, at the shoulder, and drew his hand down the whole length of it to the wrist, where the pulse was going, before he buckled the cuff on, close and snug. He ran a finger under it to be sure it would not bind, and the bracelet came down and rested its weight against the cuff's edge. The right arm the same, shoulder to wrist, with his mouth at the back of her neck.
+
+He took the strap in until her arms hung straight down and would go no farther forward. She tried them, the slow pull and the strap answering it, and let out a breath, and it went down through him to where he was still aching from her.
 
 Then he let his hands have her. Down her sides and over her hips, the long muscles of her back moving under his palms as she tried to turn into him and the strap kept her where she was. Round the front of her and up. He took both nipples between his fingers and thumbs and rolled them, slowly.
 
@@ -362,7 +368,7 @@ He gave her both again, one and then the other, slower, and each time her eyes w
 
 "*I?*"
 
-"She." Her eyes came open on him, very pale. "*She.*"
+"She." Her eyes came open on him, very wide. "*She.*"
 
 "Then?"
 
@@ -410,11 +416,15 @@ He held there, and did not move.
 
 "Watch me," she said, and locked her legs round him.
 
-She could not use her hands. She used everything else. Her heels drove into the backs of his thighs and her shoulder blades dug into the sheet to lift her up into him, again and again, harder than he was giving it to her, and when his chest came down on hers the wax on her breasts cracked between them and broke away in pieces. She was making a sound now on every breath. He held himself where he was, and held, and let her work, and did not let go until she went over under him, arching up off the bed with her mouth open and no sound at all. Then he let go, and it took him a long time, and she held him through all of it with her legs.
+She could not use her hands. She used everything else. Her heels drove into the backs of his thighs and her shoulder blades dug into the sheet to lift her up into him, again and again, harder than he was giving it to her, and when his chest came down on hers the wax on her breasts cracked between them and broke away in pieces.
+
+She was making a sound now on every breath. He held himself where he was, and held, and let her work, and did not let go until she went over under him, arching up off the bed with her mouth open and no sound at all. Then he let go, and it took him a long time, and she held him through all of it with her legs.
 
 When he came out of her she let her legs go from round him. He reached under her hip for the buckle by her hand and opened it, and the strap fell slack, and he turned her onto her side toward him and drew the pillows out from under her and undid the cuffs, one and then the other, and laid them on the bedside table by the candelabra, where the second taper still burned.
 
-The chill took her before he had finished. It came up through her shoulders first, where the strap had held them, and then all of her was shaking. He had been waiting for it. The blanket from the den chair lay folded at the foot of the bed, where he had left it when he laid the towel; the cashmere would have kept the wax. He shook it out over her and got in under it and gathered her in against him, and took her arm high at the shoulder and went down it slowly to the wrist, and then the other, and back up to her shoulders, where the shaking was worst.
+The chill took her before he had finished. It came up through her shoulders first, where the strap had held them, and then all of her was shaking.
+
+He had been waiting for it. The blanket from the den chair lay folded at the foot of the bed, where he had left it when he laid the towel; the cashmere would have kept the wax. He shook it out over her and got in under it and gathered her in against him, and took her arm high at the shoulder and went down it slowly to the wrist, and then the other, and back up to her shoulders, where the shaking was worst.
 
 He talked to her while it went through her, low, and did not hurry it. He told her she was beautiful. He told her about her nerve: the flame over her, and her lifting herself up to meet it, *Do it*, and that he admired it more than he knew how to say. Her forehead was against his collarbone. It went on a long while, and then less, and then only now and then, and then not at all.
 
@@ -426,7 +436,9 @@ He got the water from the bedside table and sat her up against him to drink, and
 
 She laughed, low, and gave him back the bottle, and lay down again.
 
-He folded the blanket down to her waist. Most of the wax on her breasts had broken away under him and lay in white crumbs on the towel. What was left he took off a piece at a time with his fingernail, beginning at the freckles, in the order it had gone on. Each one lifted whole, a white coin with the grain of her skin printed on its underside, and left a ring of pink where it had been. She lay and let him. At the nipples she drew a breath and held it, and he went slower there than anywhere, and showed her each piece before he set it down.
+He folded the blanket down to her waist. Most of the wax on her breasts had broken away under him and lay in white crumbs on the towel. What was left he took off a piece at a time with his fingernail, beginning at the freckles, in the order it had gone on. Each one lifted whole, a white coin with the grain of her skin printed on its underside, and left a ring of pink where it had been.
+
+She lay and let him. At the nipples she drew a breath and held it, and he went slower there than anywhere, and showed her each piece before he set it down.
 
 Then he turned the blanket back from her hips. The two on her mons she watched him take with her chin tucked down, as if they might still go somewhere.
 
@@ -440,11 +452,15 @@ The last thing he knew was her breathing beside him in the dark.
 
 ---
 
-The porch had gone cold. The heat was down for the night, and the glass on three sides held nothing but the dark of the yard and, past it, the black line of the ridge, and the cold came off the panes and found her across the room. She had the towel round her shoulders, its two ends crossed over her breasts and her arm folded over them to keep them there. She had shaken it out over the rug by the bed, quietly, and still a crumb of wax had stayed in the nap, and she could feel it riding between her shoulder blades. The stockings had kept the bed's heat for the length of the hall and no farther.
+The porch had gone cold. The heat was down for the night, and the glass on three sides held nothing but the dark of the yard and, past it, the black line of the ridge, and the cold came off the panes and found her across the room.
+
+She had the towel round her shoulders, its two ends crossed over her breasts and her arm folded over them to keep them there. She had shaken it out over the rug by the bed, quietly, and still a crumb of wax had stayed in the nap, and she could feel it riding between her shoulder blades. The stockings had kept the bed's heat for the length of the hall and no farther.
 
 The long table ran under the windows with the sheet over it, one low shape and a lower one beside it. She stood at the end of it and listened to the house. Nothing. Then she took the near corner of the sheet between finger and thumb and lifted it, and folded it back on itself, and back again, as far as the shapes went.
 
-The bodice lay face up. It was sewn, the seams pressed so flat she had to look for them, the neckline crossing over itself and dipping, and where its edge turned under, a thread of something pale showed, oyster against the burgundy. He had lined it. At the waist it simply stopped, open, and below it the skirt lay in its panels, pinned to one another down their long sides and pinned in places up into the waist, the silver pinheads standing in a row. Where the lamp she had put on in the den reached through the archway, the burgundy ran down into plum. She set one fingertip on the silk at the shoulder and drew it along the bias, and the cloth gave under her finger and slid and came back.
+The bodice lay face up. It was sewn, the seams pressed so flat she had to look for them, the neckline crossing over itself and dipping, and where its edge turned under, a thread of something pale showed, oyster against the burgundy. He had lined it. At the waist it simply stopped, open, and below it the skirt lay in its panels, pinned to one another down their long sides and pinned in places up into the waist, the silver pinheads standing in a row.
+
+Where the lamp she had put on in the den reached through the archway, the burgundy ran down into plum. She set one fingertip on the silk at the shoulder and drew it along the bias, and the cloth gave under her finger and slid and came back.
 
 At the far end of the table, by the shears, he had swept the offcuts into a heap. She took one, a strip the length of her hand, cool, and heavier than it looked.
 
@@ -452,9 +468,11 @@ The pedestal stood out in the middle of the floor, low, hardly a step. She let t
 
 Vee, then. Vee in it, finished, her hair down over the burgundy, and Pace on the couch to watch. Vee's mouth. It was soft when it came, and surprised, and then not surprised, and the tip of her tongue just showing, as it did when she was concentrating. Randi's right hand was between her own legs before the kiss had finished, and she was wet already, slick with him, and she went slowly.
 
-Somewhere at Vee's side there would be a way in. She found it. The silk came off Vee's shoulders, and down off her breasts, and Randi brought the strip up in her left hand and drew it across her own nipple, and it went over her like water and she had to stop. That. That was what Vee would feel. She drew it across again, slower, and the sore of the wax woke under it.
+Somewhere at Vee's side there would be a way in. She found it. The silk came off Vee's shoulders, and down off her breasts, and Randi brought the strip up in her left hand and drew it across her own nipple, and it went over her like water and she had to stop. She drew it across again, slower, and the sore of the wax woke under it.
 
-Vee's breasts in her hands, the full weight of them, too much for her hands, and Vee kissing her back now, and the blush that went all the way down coming up under Randi's fingers. She took Vee's nipple and pinched it, and Vee made a sound into her mouth, and in the cold room Randi took her own nipple through the silk and pinched it hard, where the wax had been, and it went through her like the flame. Her right hand would not go slowly any more. The crumb of wax was still in the nap under her, and it dug into her, and she pressed down onto it.
+Vee's breasts in her hands, the full weight of them, too much for her hands, and Vee kissing her back now, and the blush that went all the way down coming up under Randi's fingers.
+
+She took Vee's nipple and pinched it, and Vee made a sound into her mouth, and in the cold room Randi took her own nipple through the silk and pinched it hard, where the wax had been, and it went through her like the flame. Her right hand would not go slowly any more. The crumb of wax was still in the nap under her, and it dug into her, and she pressed down onto it.
 
 She got the corner of the towel into her mouth when it came, and bit down on the terry, and kept it there until she was quiet.
 
@@ -482,4 +500,4 @@ At the front door he took his boots out of the closet and stepped into them, ben
 
 Outside the cold had come down hard, and the yard was black to the trees. He walked her across it to her car with his hand at the small of her back, and opened the door for her, and shut it when she was in. The window came down. He bent to it, and she put her hand up to his face and kissed him, and her fingers were as cold as they had been, and she kept them there until the kiss was done. Then she let him go, and the window went up.
 
-He stood in the drive until her lights had gone down through the trees, and then he went in and locked the door behind him.
+When he got back into bed it had gone cool.
