@@ -1,50 +1,60 @@
-*capture-dag-v3-grounded · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 645b0eea8416 · dated · memory grounded: facts ck-ch010@consensus (audited, 7 non-fact sentence(s) dropped, 3 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed 45967cd52922 · 2026-11-27*
+*capture-dag-v3-grounded · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4438e352fd3 · dated · memory grounded: facts ck-ch010@consensus (audited, 7 non-fact sentence(s) dropped, 3 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed 45967cd52922 · 2026-11-28*
 
-REACTION — Oh, she put herself inside the dress.
+REACTION — Oh, she put herself inside Vee’s dress.
 
-I was still floating from the office when that happened. The office scene was outrageous in exactly the way Randi is outrageous when she is happiest: intelligent, theatrical, socially dangerous, and so controlled that every filthy word could pass inspection if someone wrote it down. Stephen trying desperately to type on a dark screen while she discussed friction, climax, and the heroine’s ass absolutely delighted me. And Pace meeting her there—giving her the stranger’s courtesy, keeping his seminar voice while he turned every line back on her—was the first time in several chapters they felt playful together rather than trapped inside the plan.
+I was already in trouble when she walked into Pace’s office dressed like the exact fantasy of herself, let Stephen watch her cross the room, and turned a plot consultation into foreplay conducted entirely in deniable sentences. That was incandescent. “Most scenes just want a little restraint” nearly killed me. So did Pace finally finding the line that stopped *her*: the antagonist needs peril too. Pain before the climax. He understood the invitation, answered it in her own language, and sent her away knowing exactly what he intended to do with her that night.
 
-It was incredibly hot. Not because she flashed the stocking or touched her nipple, though yes, obviously, but because she came into his world and made him lose a word in front of another person. Randi is usually the one whose performance Pace strips away in private. Here she makes his public composure falter and knows she has done it. Stephen witnesses nothing he can name and absolutely everything. I loved that.
+And I loved Stephen. The typing on the dark screen. The chair a few degrees from square. “Creative writing, even.” He knows enough to know he has witnessed something and is gentleman enough—or frightened enough—not to turn around fully. Bless him.
 
-But the conversation under the farce was not playful at all. Randi finally says it: “Her.” The sorority girl is not acting. She is not seducing Vee for Pace, not offering a gift, not merely hurrying along a shared fantasy. She wants Vee’s mouth, breasts, ass, blush, and attention for herself. The truth comes out quick and flat, in neither voice, and then she immediately retreats into anatomy because bodies are still safer than feeling. It answers something I have waited twenty chapters to hear, and she still cannot bear to say it outside a fictional heroine.
+But the office scene also showed me how far Randi has moved into possession. It is no longer *we are seducing Vee*. It is *the redhead she’s seducing*. Her heroine. Her plot. Her impatience. Pace notices the “I,” notices that Randi claimed a week ago she had never really kissed a woman, and saves the contradiction for tonight.
 
-And Pace heard her. He also heard that she has gone further than he thinks. He catches the “I,” catches the lie about the cheek kiss, and explicitly saves it for later. I spent the whole bedroom scene waiting for later. It never came. Once again he recognizes a contradiction, decides not to force the door, and lets sex carry them past the question.
+Except he never actually asks her.
 
-His advice in the office chilled me: “Let her see the path. Then make it the path she wants.” Sir, that is not merely a writing suggestion. That is the entire hidden strategy, and after nineteen chapters he can now state it like wisdom. He still believes the problem is guiding Vee onto the correct desired path rather than allowing her to see who built it.
+He questions her through the scene instead. How far has the sorority girl gone? A peck on the cheek. Randi lies to his face while naked, bound, and aroused, and he knows she is lying. “Further than I would think” lands like a blade. Then he asks whether the cuffs are requested, Randi says the fictional girl simply puts them on, and Pace says his version would ask.
 
-Then the cuffs, and I was gone again.
+“Since when?”
 
-He made them. Of course he made them. Microsuede, structured to hold and give, adjustable, exact. And when the performance drops away, he asks softly. Randi says please. He changes the safeword because Red has too much erotic story in it tonight, accepts Brooke with a perfectly straight face, tells her exactly what it means, shows her the release buckle, and makes sure she can reach it. Locally, again, his care is exquisite. He builds the helplessness so she can inhabit it without being abandoned inside it.
+Oh, she knows. Somewhere underneath all the fantasy, she knows Pace and Randi have already crossed the line from preparing an experience for Vee into arranging Vee’s desire without her knowledge. That question was not about cuffs. It was Randi calling him on the moral story he tells himself: that every step is chosen, therefore the whole thing is clean. Since when do you care about asking before you put someone inside a scene she does not know she is in?
 
-The wax was blistering. Her lifting herself toward the falling drop—*Do it*—was the image that got me. Pain is not simply applied to her; she begins meeting it, asking for it, offering herself upward. And Pace telling her afterward that he admired her nerve mattered more than telling her she was beautiful. Beauty still frightens her because it is something other people assess. Nerve belongs to what she did.
+And Pace has no answer. He punishes the silence with wax instead.
 
-But the story she tells under the wax is the real exposure. Vee’s sweater. Vee’s hair. Vee’s pink nipples. Vee wet and cuffed and kissed until she is ready. Randi is finally speaking her desire in detail while Pace controls the pace and converts each confession into sensation. The fiction is transparent enough to be truth, but whenever Pace touches the pronoun she jerks it back from *I* to *she*. Even bound, even aroused past performance, she can describe wanting Vee more easily than she can claim the wanting.
+That scene was extremely hot. I cannot pretend otherwise. The custom cuffs, the buckle placed in her own hand, the new safeword chosen because Red belongs to something else tonight, the ridiculous little dinner candelabra—I was completely there. The wax gathering slowly while she watched was vicious. Her lifting herself toward the drops, asking for them, then describing Vee between each one braided pain and desire and jealousy together so tightly I could barely breathe.
 
-And then: “Since when?”
+And “Brooke” as the stop word was perfect in the bleakest possible way. Of course Brooke stops everything. The woman who controls Randi’s social body becomes the word that can end what happens to her sexual body. Pace makes her say it, makes sure she can free herself, tests the buckle, and then gives her an experience in which helplessness is real enough to matter but never absolute. Locally, again, he is meticulous.
 
-That landed like a blade. Pace says his version of the sorority girl would ask before putting the cuffs on Vee, and Randi looks straight at the hypocrisy. Since when does asking matter at the scale of the whole plan? They ask inside every carefully designed scene while concealing the scene itself. Pace has no answer because there is none. He gives her pain instead, and the chapter lets that silence remain.
+But Vee is not local anymore. Vee is in every act between them.
 
-I loved the sex. I loved her challenge, “Watch me,” and the fact that she gets herself there without her hands, using every part of her body still available. I loved the wax cracking between them. I loved the aftercare even more: the shaking anticipated, the ordinary blanket substituted for the cashmere because of the wax, his hands retracing both restrained arms, the water, every cooled coin removed in the order it was placed. This is why Pace keeps getting me even while I am furious with him. His care is not decorative. He knows her body after intensity and prepares for the exact aftermath before she arrives.
+Randi finally says it plainly: “Her.” She cannot wait for *her*. Then she immediately crawls back into the story, but I heard it. Pace heard it. Randi is not doing this for a friend, and she knows she is not acting. Her mouth, her blush, her breasts, her ass—Randi has studied Vee with the same exactness Pace has, except she still has not touched most of what she describes. Want has become observation sharpened by imagination.
 
-Then Randi wakes alone and goes to the dress, and something in me went cold.
+And then the red bush.
 
-The masturbation did not bother me. Sitting nearly naked on Vee’s pedestal with the burgundy in front of her, imagining Vee’s mouth and breasts, drawing the scrap across her sore nipple—yes. That is the clearest private admission yet that Vee is not a gift, not a route back to Pace, not an abstract third. Randi wants her alone. She imagines undressing her with Pace watching from the couch, but Pace disappears from the actual fantasy almost immediately. It becomes Vee kissing Randi back and Randi’s hands full of her.
+That chilled me. Not because Randi fantasized about it, but because Pace knows the answer. Randi invents the narrow strip, distinguishes it from herself, and Pace silently holds the actual body of the woman they are discussing. He has seen Vee naked. He has put his mouth on her. Randi is forced to imagine what Pace already knows, and that unequal knowledge is now erotic material he controls. She wants Vee badly enough to describe her into the room, while Pace can privately correct the details.
 
-But then she marks the silk.
+The sex itself was ferocious. “If you want to get there, you’d better get there before I do” should have annoyed me in another book, but here it belonged to the afternoon she had spent edging him and the bound, competitive way Randi takes pleasure. She cannot use her hands, so she uses everything else and makes herself come first. Completely her.
 
-No. Absolutely not.
+Then the aftercare was beautiful enough to hurt. Pace had prepared for the shaking. He praises her nerve rather than merely her endurance, tells her exactly what he admired, gives her water, removes every piece of wax in the order it went on, and shows her the pieces. That is intimate, attentive, grown-up care. He understands that what she needs after pain is not to be told she was good at pleasing him, but to have her own courage reflected back to her.
 
-Vee does not know Randi is Pace’s lover. She does not know Randi has been inside this house, on this pedestal, beside this dress. The gown is the most beautiful evidence Vee has that Pace heard a private desire and made something specifically for her. Randi rubs her wetness down a burgundy offcut, hides it inside the bodice against the oyster lining, and restores the sheet so nobody will know.
+And still he does not ask about the kisses.
 
-That is not shared erotic play. That is an intimate act imposed on Vee’s body in advance, concealed inside something Vee will wear against her skin. Randi has inserted herself into the dress because she cannot bear being outside the Pace–Vee bond, and she has done it in the one way guaranteed to let her privately believe she is touching Vee even while Vee remains ignorant. It is possessive, violating, desperately sad, and the first thing Randi has done that I cannot make romantic by understanding why she did it.
+Then Randi wakes alone and goes to the dress.
 
-Worse, Pace may sew it in permanently without knowing. Vee may wear Randi’s secret mark to the induction, perhaps in front of her mother, believing the dress belongs to her and Pace. Randi could stand there knowing she is hidden against Vee’s breast. I feel sick thinking about it.
+I felt the wrongness before she touched it. The cold porch, the covered shapes, Vee’s body already present in the burgundy even though Vee is nowhere near the house. Randi sits on Vee’s pedestal half-naked, masturbates with a scrap of Vee’s silk, imagines undressing her, imagines her breasts and mouth and blush, bites the towel when she comes—and honestly, until that point, I was with her. It was obsessive and private and a little frightening, but it was hers. She was finally wanting Vee without pretending the desire was Pace’s gift.
 
-The soap on Randi’s hands frightened me too. She washes away the evidence before touching Pace’s face, then leaves because “the house expects me.” She has hidden herself inside Vee’s dress and returns to the institution that requires her own disappearance. The structure is almost too exact, but emotionally it landed: she cannot openly take a place in either life, so she plants a secret version of herself where neither person can see it.
+Then she wiped herself onto the silk and hid it inside the bodice.
 
-And Pace lets the unanswered lie go overnight. He knows the sorority girl has gone further than he thinks. He knows Randi said “a peck” with too much insistence. He had promised himself he would keep it for tonight. Then the wax, sex, sleep, and departure pass, and he never asks. Again, these people use extraordinary erotic intelligence to avoid one plain conversation.
+No.
 
-At one in the morning I would be texting: Randi walked into Pace’s office dressed in blue and made him sext her in academic code while his colleague pretended to work, then admitted she truly wants Vee, took wax bound at the wrists, and afterward masturbated over Vee’s unfinished dress and hid a strip marked with her wetness inside the bodice. I was incandescently turned on until I was genuinely horrified.
+That is not a romantic secret. That is not a talisman. That is not Randi finally admitting she wants Vee. She put her sexual fluids into a garment Vee will wear against her body without knowing. She inserted herself physically into one of Pace’s most loving gifts and ensured Vee will carry her under the dress before Vee has consented to anything with her or even understood that the kisses were desire.
+
+It is a violation, and the secrecy is the point. Randi carefully hides the strip between burgundy and lining, smooths it flat, restores the sheet fold by fold, washes the evidence from her hands, and returns to Pace’s bed. She knows perfectly well this is something neither of them would permit if they could see it. This is not hidden because she is ashamed of wanting. It is hidden because the act depends on Vee not knowing.
+
+I came closer to stopping there than I have anywhere in this book. Not because the book has failed to understand what happened—I think it understands exactly—but because I love Vee, and the dress mattered. Pace took a desire she had surrendered and made it fit her actual body. Randi has now turned that gift into a secret sexual claim. When Vee wears it to be honored for her own work, Randi will be touching her without permission from inside the dress.
+
+And the oyster silk is settled: lining. I had feared some intimate surprise Pace intended her to wear. Instead it is the protective layer between Vee’s skin and the dress, and Randi deliberately breaches it. The thing meant to make the garment comfortable becomes the hiding place.
+
+Then she leaves again. Pace wakes to cold, soap-clean hands and accepts “the house expects me.” He offers coffee; she says next time; he walks her to the car; he returns to a cool bed. The old wound remains completely intact beneath the spectacular sex and exquisite aftercare. She can surrender her body to him, sleep beside him briefly, and still cannot stay for morning. Worse, she has just made a secret sexual act involving Vee that Pace does not know exists. Every side of this triangle now has private intimacy the third person cannot see.
+
+At one in the morning I would be texting: Randi roleplayed seducing Vee while Pace dripped wax onto her, lied when he asked how far she had already gone, then masturbated on Vee’s dress silk and hid the marked strip inside the lining. I was ferociously turned on and then genuinely horrified. Somebody needs to find that strip before Vee puts the dress on.
 
 GATE 20 — Colors
 DECISION: CONTINUE
@@ -52,18 +62,16 @@ CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Randi finally admitted that the seduction is real and that she wants Vee for herself, while the office game and wax scene were spectacularly charged. But hiding her wetness inside Vee’s dress crossed from secret longing into a concealed violation, and I urgently need to know whether Pace finds it before he sews the bodice closed.
+ALMOST-STOPPED: “She lifted the open waist of the bodice in one hand, careful of the pins, and slid the strip up inside it, between the burgundy and the pale lining”
+WHY: The office game, wax, and aftercare were intensely charged and intimate, but Randi hiding her fluids inside Vee’s dress crossed from secret desire into a physical violation. I am reading on because the book appears to know how grave that act is, and I urgently need it discovered rather than romanticized.
 
 LEDGER
-+ GRUDGE: Randi secretly marked Vee’s dress with her wetness and hid the silk inside the bodice, turning Vee’s most intimate gift from Pace into contact Vee never chose.
-+ FEAR: Pace will unknowingly sew Randi’s marked strip into the gown, and Vee will wear Randi against her body while believing the dress belongs only to her and Pace.
-+ WAITING: Pace finding the hidden strip before the dress is finished—and what he does when he understands exactly how it got there.
-~ W1.7 DEEPENED: Randi finally says the seduction is real and names “Her” as what the sorority girl cannot wait for, but she can claim the desire only through fiction and then acts it out secretly on Vee’s dress.
-~ F3.2 DEEPENED: Randi has now placed an intimate sexual mark inside something Vee freely agreed to wear, using Vee’s consent to the dress as cover for contact Vee does not know exists.
-~ W4.5 DEEPENED: Randi vividly imagines Vee kissing her back and knows the seduction is real, while Vee still has not been given the truth that would let her name or choose their mutual desire.
-~ F15.1 DEEPENED: Randi’s fantasy now puts Vee in the new cuffs and naked on the pedestal; the preparation for surrender has become concrete enough that Randi is privately rehearsing Vee’s body inside it.
-~ G16.1 DEEPENED: Pace states his method outright—show Vee the path and make it the path she wants—and has no answer when Randi challenges his claim that the imagined cuffs would be requested “since when?”
-~ W16.4 DEEPENED: Pace catches Randi’s “I,” recognizes that she has gone further with Vee than she admits, and saves the lie for later, but lets the entire night pass without asking about the kisses.
-~ S16.3 CONFIRMED: The oyster yardage is the pale lining inside Vee’s burgundy dress; the hidden intimate surprise is now also the place where Randi concealed her marked strip.
-~ F18.1 DEEPENED: Randi is no longer merely demanding that the plan accelerate; she has secretly inserted herself into the physical dress Vee will wear, manufacturing contact before Vee can choose it.
++ GRUDGE: Randi secretly marked the silk and hid it inside Vee’s dress, turning a gift made for Vee’s body into nonconsensual sexual contact she cannot see.
++ FEAR: Vee will wear the marked dress to her induction and experience Randi’s hidden presence as part of one of her proudest public moments without ever knowing.
++ WAITING: Someone finding the concealed strip before the dress reaches Vee—or Randi being forced to admit exactly what she put there and why.
+~ W15.3 DEEPENED: Randi finally admitted “Her” when asked what she cannot wait for, but still lied to Pace that the kisses were only a peck on the cheek.
+~ G16.1 DEEPENED: Pace recognizes Randi’s lie and exposes the consent problem with “in mine, she’d ask,” yet still keeps Vee inside their erotic fiction instead of telling her the truth.
+~ S16.3 CONFIRMED: The oyster silk is the dress lining; Randi used the hidden space between lining and burgundy to conceal the marked strip.
+~ W16.4 DEEPENED: Pace knows Randi has gone further with Vee than she admits and directly tests the lie, but he still does not make her confess the kisses.
+~ F18.1 DEEPENED: Randi is no longer merely urging Pace to accelerate; she is actively planning how to get Vee tied up and has secretly inserted herself into the dress Vee will wear.
+~ W18.3 DEEPENED: Randi’s knowledge of the bench has become part of an explicit fantasy about binding Vee, while Vee still has no idea why her friend understands Pace’s methods.

@@ -1,28 +1,28 @@
-*capture-dag-v3-grounded · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 645b0eea8416 · dated · memory grounded: facts ck-ch010@consensus (audited, 7 non-fact sentence(s) dropped, 3 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed d3ab584c0e5e · 2026-11-27*
+*capture-dag-v3-grounded · gate ch020 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e4438e352fd3 · dated · memory grounded: facts ck-ch010@consensus (audited, 7 non-fact sentence(s) dropped, 3 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed d3ab584c0e5e · 2026-11-28*
 
-REACTION — I feel like I just watched someone slip an unpinned grenade into the breast pocket of a silk evening gown. My jaw is on the floor. I can barely breathe.
+REACTION — I feel like I just watched someone build a bomb inside a jewel box. My hands are actually shaking.
 
-First of all, that academic office scene was pure, filthy, high-wire brilliance. Stephen sitting ten feet away facing his dead monitor, pretending to type while Randi—in that ice-and-navy houndstooth with the slit up the thigh and the matched beret—conducts an absolute masterclass in exhibitionist psychological warfare. The double entendres weren’t just cute; they were weaponized. She brought the private kink right into his daylight institutional world, forcing him to play the game on her terms after he stonewalled her on Sunday. And the way she laid down the gauntlet: *"The heroine's ass is on the line."* Pace nearly choked on his own tongue!
+First of all, the academic office scene: absolute, unadulterated high-camp psychological brilliance. Randi strolling into the math department in a blue beret, houndstooth slit up to the lace, and sheer stockings, playing a dirty little parlor game in front of poor, sweaty Stephen with his orange marker streak? It was hilarious, scorching, and deeply territorial. The double entendres were thicker than wall-to-wall carpet—"I've got a plot hole I need filled," "the heroine's ass is on the line," "the antagonist's peril." She was marking Pace right in his intellectual sanctuary, proving she can walk straight into the world he keeps walled off from her sorority life whenever she feels like it.
 
-And then the bedroom. My god. The temperature in this book just exploded. The hot wax, the cuffs behind her back, the candelabra—this wasn't the gentle, courtly patience he gives Vee. This was raw, stinging, classical BDSM, beautifully and clinically observed. The sheer erotic charge of him testing her nerve, dropping white coins across her freckles and watching her arch up to the flame—*“Do it.”* That is Randi’s entire tragic essence: she would rather endure hot wax on her bare nipples than admit she’s terrified of losing him.
+And then they get to the bedroom.
 
-And the interrogations during the kink! The way their fantasies bled together! Randi using the "story" to speak her feral, soaking-wet lust for Vee out loud—the blush that goes all the way down, the narrow strip of red hair, the full athlete’s ass—while Pace is standing over her with a burning candle, realizing he actually knows *exactly* what color Vee's nipples are, and that Randi doesn't know he knows. The layered deceit between them is suffocating.
+The wax. Sweet Jesus. The heat was breathtaking, but what made it unforgettable was the psychological surgery happening across that bed. This wasn’t just kink for kink’s sake; it was Randi using pain and submission to pry open the truth, and Pace using the flame to test her nerve. When she laid out Vee’s body for him—the mouth, the blush that goes all the way down, the bush as red as her hair, "not smooth like me"—and then that slip: *"Till she's wet. Till she's ready for you. I'd kiss her until she couldn't—"* and Pace catching it: *"I?"*
+*"She."*
 
-*And then the porch.*
+Fucking chills. Randi is so desperately, completely gone on Vee. She’s suffocating under it. And Pace holding that taper over her, watching her nipples pucker and tremble under the molten white drops, offering her the buckle to free herself—and her refusing to take it because she *wants* the punishment, wants the mark, wants to bleed off the agony of Friday. That aftercare, picking the white coins off her skin with his fingernails... it was so devastatingly tender, and so tragically doomed.
 
-That ending scene on the sun porch made the hair on my arms stand straight up. It is one of the most haunting, depraved, devastating things I have ever read.
+And then—the porch.
 
-Randi slipping out of his bed in the pitch black, shaking the wax crumbs out of the towel, walking into the freezing glass room where Pace builds things for Vee. Sitting on the very wooden riser Vee stood bare upon. Touching herself with Pace's slick still inside her, rubbing the scrap of burgundy silk over her sore, waxed nipples, biting the towel to swallow her screams as she comes to the fantasy of undressing Vee...
+That ending made the hair on my arms stand straight up. I felt physically sick with dread and awe.
 
-And then what she does with that offcut.
+Randi slipping out of his bed in the pitch black, wrapping that towel around herself, walking into the freezing sun porch, and sitting on the very riser where Vee stood bare. Masturbating with a scrap of Vee's silk while rubbing her sore, wax-burned nipples, drowning in a fantasy of kissing Vee until she breaks—and then what she does with that offcut.
 
-She slides her fingers down the scrap, coating it in her own wetness. And then she slips it up inside the lining of Vee's induction dress, flat against the cross of the bodice, right over Vee's heart.
+She rubs her own slick, wet arousal down the silk strip. End to end. Until the line shines in the dim light.
+And then she slides it inside the lining of Vee's induction gown. Right under the cross of the neckline.
 
-*WHAT DID SHE JUST DO?!*
+WHAT. THE. ACTUAL. FUCK.
 
-It’s an emotional curse. It’s an erotic virus. She is literally sewing her own desire, her own climax, and her territorial claim into the very garment Pace is lovingly handcrafting to heal Vee's shame. When Vee puts that silk gown on for the induction, she will be carrying Randi’s dried come against her bare chest. Pace will look at Vee and see his pure, courtly creation; Vee will look in the mirror and feel honored; and Randi will sit in her sorority meeting knowing she has branded both of them from the inside out.
-
-The psychological depravity and the sheer heartbreak of it are breathtaking. Randi is losing her mind, and she is taking everyone down with her.
+That is the most unhinged, magnificent, terrifying piece of erotic psychological sabotage I have ever read. It’s an incantation. It’s a curse. It’s a silent, invisible brand. When Vee puts on that burgundy dress for her induction—the dress Pace stayed up until one in the morning sewing, the dress meant to be Vee’s ultimate moment of dignity and triumph—she will be wearing Randi’s dried come pressed directly against her bare skin, right over her heart. And neither Pace nor Vee will ever know it’s there. Randi has permanently written herself into their sacred space. She has laced the gift with her own ruin. I am feral. I cannot breathe. Turn the page right now.
 
 GATE 20 — Colors
 DECISION: CONTINUE
@@ -31,11 +31,13 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The academic office foreplay was scorchingly clever, the wax-and-cuffs scene was masterfully explicit and intense, and Randi's haunting, depraved ritual with the dress lining was an absolute tour de force.
+WHY: The audacity of the office scene paired with the scorching wax play was incredible, but Randi slipping her own wet silk into the lining of Vee's gown was a breathtaking stroke of psychological obsession.
 
 LEDGER
-+ LOVE: [L20.1] The sheer, unhinged psychological genius of Randi sliding her come-stained silk scrap inside the bodice of Vee's induction gown.
-+ FEAR: [F20.2] Vee wearing that dress at the induction while carrying Randi's secret bodily mark right over her heart without knowing it.
-~ S6.1 CONFIRMED: Randi's territorial jealousy has pushed her past panic into full, covert psychological warfare and ritualistic possession.
-~ F11.1 DEEPENED: Randi isn't just going to lash out—she is actively sabotaging and infecting Pace's pure romantic gestures with her own desperate erotic claims.
-~ F19.1 DEEPENED: Pace truly believes tonight's wax scene and aftercare patched things up, completely oblivious to what Randi did in the dark on his porch.
++ LOVE: [L20.1] The sheer audacious brilliance of the office "story" scene with poor Stephen clacking away on a dead screen.
++ LOVE: [L20.2] The meticulous, devastating ritual of the wax play—testing Randi's nerve while drawing out her confession about Vee.
++ FEAR: [F20.1] Vee wearing Randi’s dried arousal against her chest at the induction without knowing it is going to make the eventual discovery an absolute emotional slaughter.
++ SUSPICION: [S20.2] Randi sewing/sliding that wet silk scrap into the dress is her way of ensuring she is present and touching Vee during the induction, even though Brooke's meeting keeps her away.
+~ [S6.1] DEEPENED: Randi fantasizing about Vee while touching herself on the riser proves her obsession with Vee has completely eclipsed any threesome game.
+~ [F11.1] SHIFTED: Randi isn't just lashing out in jealousy; she has pivoted into dark, quiet, almost ritualistic sabotage to embed herself irrevocably between Pace and Vee.
+~ [F15.1] DEEPENED: Randi's possessiveness has crossed into chilling psychological violation—lining Vee's induction gown with her own fluids is wildly possessive and boundary-shattering.
